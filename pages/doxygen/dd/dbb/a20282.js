@@ -1,6 +1,5 @@
 var a20282 =
 [
-    [ "boss_thorimAI", "dd/d7f/a20286.html", "dd/d7f/a20286" ],
-    [ "boss_thorim", "dd/dbb/a20282.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
-    [ "GetAI", "dd/dbb/a20282.html#a70895451317569f50adc11474e653515", null ]
+    [ "achievement_iron_dwarf_medium_rare", "dd/dbb/a20282.html#afb3716aab7693ba0493db24999e4b1ee", null ],
+    [ "OnCheck", "dd/dbb/a20282.html#aabef3a345057265ac70c6cc0c98d552d", null ]
 ];

@@ -1,6 +1,5 @@
 var a24058 =
 [
-    [ "npc_pet_dk_risen_allyAI", "d1/d78/a24062.html", "d1/d78/a24062" ],
-    [ "npc_pet_dk_risen_ally", "d4/d49/a24058.html#a2f568fd9062b2423edcf0ab4e749efc3", null ],
-    [ "GetAI", "d4/d49/a24058.html#a7aca5d410a1a28241943914a0d1c71df", null ]
+    [ "npc_pet_dk_ghoulAI", "d4/d49/a24058.html#a7e747ba9e709eb532b0c16c8a1c1763a", null ],
+    [ "JustDied", "d4/d49/a24058.html#a7d964fafeb0a7746a7749a9e0eb93080", null ]
 ];

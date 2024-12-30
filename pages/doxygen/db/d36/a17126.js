@@ -1,8 +1,12 @@
 var a17126 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "d5/d3b/a17130.html", "d5/d3b/a17130" ],
-    [ "npc_muradin_bronzebeard_icc", "db/d36/a17126.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
-    [ "GetAI", "db/d36/a17126.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
-    [ "OnGossipHello", "db/d36/a17126.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
-    [ "OnGossipSelect", "db/d36/a17126.html#a46c4893be723a848d985ff55e28d55a2", null ]
+    [ "npc_high_overlord_saurfangAI", "db/d36/a17126.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "db/d36/a17126.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "db/d36/a17126.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "db/d36/a17126.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "db/d36/a17126.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "db/d36/a17126.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "db/d36/a17126.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "db/d36/a17126.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_instance", "db/d36/a17126.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

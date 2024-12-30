@@ -24,6 +24,5 @@ var searchData=
   ['pos_5fy_5fwest_21',['POS_Y_WEST',['../d6/d8e/a01979.html#aee5606dfbe589b8aca39906b99d82b99',1,'boss_gothik.cpp']]],
   ['prepareaurascript_22',['PrepareAuraScript',['../d7/d54/a03089.html#ac30b78d7dfb666e2634098493fb1b117',1,'SpellScript.h']]],
   ['preparespellscript_23',['PrepareSpellScript',['../d7/d54/a03089.html#a34719dcb751e4fcbcd8071ff6daa720a',1,'SpellScript.h']]],
-  ['presence_5fof_5fthe_5fdarkfallen_24',['PRESENCE_OF_THE_DARKFALLEN',['../d2/d2f/a01586.html#a9600bd164b7e7195f61a0133bdc82d32',1,'boss_blood_queen_lana_thel.cpp']]],
-  ['pungent_5fblight_5fhelper_25',['PUNGENT_BLIGHT_HELPER',['../d7/db6/a01556.html#a47b252b752928e101366fd9db838c998',1,'boss_festergut.cpp']]]
+  ['pungent_5fblight_5fhelper_24',['PUNGENT_BLIGHT_HELPER',['../d7/db6/a01556.html#a47b252b752928e101366fd9db838c998',1,'boss_festergut.cpp']]]
 ];

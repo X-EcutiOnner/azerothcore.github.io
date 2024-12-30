@@ -1,6 +1,5 @@
 var a21350 =
 [
-    [ "npc_mei_francis_mountAI", "db/df9/a21354.html", "db/df9/a21354" ],
-    [ "npc_mei_francis_mount", "da/dfc/a21350.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "da/dfc/a21350.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "npc_steam_powered_auctioneerAI", "da/dfc/a21350.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "da/dfc/a21350.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

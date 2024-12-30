@@ -1,7 +1,7 @@
 var a19138 =
 [
-    [ "HandleProc", "db/dab/a19138.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "db/dab/a19138.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "db/dab/a19138.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "db/dab/a19138.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "CalcDamage", "db/dab/a19138.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
+    [ "PrepareSpellScript", "db/dab/a19138.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
+    [ "Register", "db/dab/a19138.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
+    [ "Validate", "db/dab/a19138.html#a773c608119a84cc3f02e7b4d786f2741", null ]
 ];

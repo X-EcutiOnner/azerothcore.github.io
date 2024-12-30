@@ -1,6 +1,10 @@
 var a23626 =
 [
-    [ "HandlePeriodic", "de/dad/a23626.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
-    [ "PrepareAuraScript", "de/dad/a23626.html#a438425f3002028a0978e0dbab580ca03", null ],
-    [ "Register", "de/dad/a23626.html#af4b26607e8838b7bbbe8777f57601341", null ]
+    [ "npc_raging_flames", "de/dad/a23626.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
+    [ "EnterEvadeMode", "de/dad/a23626.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
+    [ "FixateRandomTarget", "de/dad/a23626.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
+    [ "InitializeAI", "de/dad/a23626.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
+    [ "IsSummonedBy", "de/dad/a23626.html#ae42c4329be355807af92c1c803e61500", null ],
+    [ "Reset", "de/dad/a23626.html#a34ac2249e507784d81c4040e87a646e0", null ],
+    [ "UpdateAI", "de/dad/a23626.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
 ];

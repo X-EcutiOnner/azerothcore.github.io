@@ -1,7 +1,7 @@
 var a22526 =
 [
-    [ "boss_veras_darkshadow", "dd/d67/a22526.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "dd/d67/a22526.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "dd/d67/a22526.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "dd/d67/a22526.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "boss_lady_malande", "dd/d67/a22526.html#a8cb693d203463dcba809e7ffc23c6868", null ],
+    [ "AttackStart", "dd/d67/a22526.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
+    [ "JustEngagedWith", "dd/d67/a22526.html#af4b5f376e387851e15517de03636acde", null ],
+    [ "UpdateAI", "dd/d67/a22526.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
 ];

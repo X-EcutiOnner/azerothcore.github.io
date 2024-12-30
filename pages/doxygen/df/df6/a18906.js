@@ -1,5 +1,7 @@
 var a18906 =
 [
-    [ "at_naxxramas_hub_portal", "df/df6/a18906.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "df/df6/a18906.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "boss_naxxramas_miscAI", "df/df6/a18906.html#affd990236c101d91b31f60eea7135cdf", null ],
+    [ "JustDied", "df/df6/a18906.html#aae92d4b538907ef829f5f534f16feef1", null ],
+    [ "UpdateAI", "df/df6/a18906.html#a02fabc7b8669f3e9358a623b4cf0e84c", null ],
+    [ "timer", "df/df6/a18906.html#a39af06c7bc635bf85eebf4ed40798006", null ]
 ];

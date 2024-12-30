@@ -1,6 +1,14 @@
 var a19094 =
 [
-    [ "instance_oculus_InstanceMapScript", "dc/d4b/a19098.html", "dc/d4b/a19098" ],
-    [ "instance_oculus", "d1/d49/a19094.html#a404205ea7106531ea57307c40b9589bb", null ],
-    [ "GetInstanceScript", "d1/d49/a19094.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
+    [ "boss_varosAI", "d1/d49/a19094.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
+    [ "EnterEvadeMode", "d1/d49/a19094.html#a0b7eeef4529b47357d729852cdeab002", null ],
+    [ "JustDied", "d1/d49/a19094.html#a2724167a66a059e1c0ca1612d8405d68", null ],
+    [ "JustEngagedWith", "d1/d49/a19094.html#a2f25555ca2884f6bffb289d209e87740", null ],
+    [ "JustSummoned", "d1/d49/a19094.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
+    [ "MoveInLineOfSight", "d1/d49/a19094.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
+    [ "Reset", "d1/d49/a19094.html#aef24d04954a26bb6381c860403e84288", null ],
+    [ "UpdateAI", "d1/d49/a19094.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
+    [ "events", "d1/d49/a19094.html#a36746118770c936e7606962365e102d8", null ],
+    [ "pInstance", "d1/d49/a19094.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
+    [ "ZapAngle", "d1/d49/a19094.html#aef225fcf580c5e500d3242ac4be24260", null ]
 ];

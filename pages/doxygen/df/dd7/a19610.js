@@ -1,6 +1,6 @@
 var a19610 =
 [
-    [ "npc_pool_of_tarAI", "df/dd7/a19610.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
-    [ "DamageTaken", "df/dd7/a19610.html#a4ea55aa08123f724268238e0def5b595", null ],
-    [ "SpellHit", "df/dd7/a19610.html#acb63166b396c079d5b4bb9db67a1448a", null ]
+    [ "npc_pool_of_tarAI", "db/dd8/a19614.html", "db/dd8/a19614" ],
+    [ "npc_pool_of_tar", "df/dd7/a19610.html#a9c585318b4507babe77b3ba758b06a87", null ],
+    [ "GetAI", "df/dd7/a19610.html#ae77bf48a72ce49f821085f32127e91dc", null ]
 ];

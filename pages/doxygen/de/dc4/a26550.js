@@ -1,6 +1,6 @@
 var a26550 =
 [
-    [ "PrepareAuraScript", "de/dc4/a26550.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "de/dc4/a26550.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "de/dc4/a26550.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "CalculateAmount", "de/dc4/a26550.html#aa27de1a2fc517a4b796a10e780239880", null ],
+    [ "PrepareAuraScript", "de/dc4/a26550.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
+    [ "Register", "de/dc4/a26550.html#a5ee969ad0916a9337849c75c18f13c29", null ]
 ];

@@ -23,6 +23,7 @@ var a12346 =
     [ "_combatSpellTimerBase", "d6/d2b/a12346.html#af204f7dbf482641dbfe73c00ccb32a0e", null ],
     [ "_combatSpellTimerBase2", "d6/d2b/a12346.html#ac2a7ebaf577a12d729ec5976b2bee5f5", null ],
     [ "_currentOrientation", "d6/d2b/a12346.html#a1b8274682a01e3f92e2b8e8bc079f7f6", null ],
+    [ "_homePosition", "d6/d2b/a12346.html#a44bfed2f6886e47f687bb0c9a6f3b811", null ],
     [ "_instance", "d6/d2b/a12346.html#aebbabcf244c1a31b02ff7fd4c7211ea4", null ],
     [ "_nextMoveTimer", "d6/d2b/a12346.html#a219168909195ea3bff239c2ea4d21040", null ],
     [ "_teamControlledByRaid", "d6/d2b/a12346.html#a5b85fe5bf6ecf0f379c73950fd80da62", null ]

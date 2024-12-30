@@ -1,7 +1,6 @@
 var a18902 =
 [
-    [ "boss_naxxramas_miscAI", "d3/d13/a18902.html#affd990236c101d91b31f60eea7135cdf", null ],
-    [ "JustDied", "d3/d13/a18902.html#aae92d4b538907ef829f5f534f16feef1", null ],
-    [ "UpdateAI", "d3/d13/a18902.html#a02fabc7b8669f3e9358a623b4cf0e84c", null ],
-    [ "timer", "d3/d13/a18902.html#a39af06c7bc635bf85eebf4ed40798006", null ]
+    [ "boss_naxxramas_miscAI", "df/df6/a18906.html", "df/df6/a18906" ],
+    [ "boss_naxxramas_misc", "d3/d13/a18902.html#a9cbca6381ba430739918064d5556b8fb", null ],
+    [ "GetAI", "d3/d13/a18902.html#a2972b551be161560b6df00e2105f2ce4", null ]
 ];

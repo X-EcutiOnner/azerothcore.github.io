@@ -1,8 +1,6 @@
 var a17890 =
 [
-    [ "NecroticPlagueTargetCheck", "d5/dc5/a17890.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
-    [ "operator()", "d5/dc5/a17890.html#a801a176e367a9f4446fe080845477654", null ],
-    [ "_notAura1", "d5/dc5/a17890.html#a4f52417f233e1ab06210726670f719f3", null ],
-    [ "_notAura2", "d5/dc5/a17890.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
-    [ "_sourceObj", "d5/dc5/a17890.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
+    [ "LichKingMovieEvent", "d5/dc5/a17890.html#a3e48e13dc5166c73a9f379045988f86a", null ],
+    [ "Execute", "d5/dc5/a17890.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
+    [ "_owner", "d5/dc5/a17890.html#a7ed68f442a644d6bb7a036812351d89e", null ]
 ];

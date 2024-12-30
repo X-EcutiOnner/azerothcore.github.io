@@ -1,6 +1,10 @@
 var a20322 =
 [
-    [ "boss_thorim_pillarAI", "d9/d44/a20326.html", "d9/d44/a20326" ],
-    [ "boss_thorim_pillar", "d6/d33/a20322.html#a7a2cbafc1d359d7b33bb735342cdfe2d", null ],
-    [ "GetAI", "d6/d33/a20322.html#af95d5e819292af9b54a022674b74af70", null ]
+    [ "boss_thorim_sif_blizzardAI", "d6/d33/a20322.html#a99d1c529126452e580ebc7e3e513b367", null ],
+    [ "AttackStart", "d6/d33/a20322.html#a1f05551f323fa410a699497f3875b21f", null ],
+    [ "InitWaypoint", "d6/d33/a20322.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
+    [ "JustEngagedWith", "d6/d33/a20322.html#a9fea5617dccb493c7af435c485462ff3", null ],
+    [ "MoveInLineOfSight", "d6/d33/a20322.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
+    [ "Reset", "d6/d33/a20322.html#a193ba575c4f3f16d850e56f12f190c77", null ],
+    [ "WaypointReached", "d6/d33/a20322.html#a961f90068f25d81f55159763fe2677f8", null ]
 ];

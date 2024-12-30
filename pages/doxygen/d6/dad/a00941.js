@@ -1,10 +1,10 @@
 var a00941 =
 [
-    [ "boss_vazruden_the_herald", "d8/df4/a23242.html", "d8/df4/a23242" ],
-    [ "boss_nazan", "de/ddd/a23246.html", "de/ddd/a23246" ],
-    [ "boss_vazruden", "d3/dc5/a23250.html", "d3/dc5/a23250" ],
-    [ "spell_vazruden_fireball", "dd/ded/a23254.html", "dd/ded/a23254" ],
-    [ "spell_vazruden_call_nazan", "df/dfc/a23258.html", "df/dfc/a23258" ],
+    [ "boss_vazruden_the_herald", "de/ddd/a23246.html", "de/ddd/a23246" ],
+    [ "boss_nazan", "d3/dc5/a23250.html", "d3/dc5/a23250" ],
+    [ "boss_vazruden", "dd/ded/a23254.html", "dd/ded/a23254" ],
+    [ "spell_vazruden_fireball", "df/dfc/a23258.html", "df/dfc/a23258" ],
+    [ "spell_vazruden_call_nazan", "dc/df8/a23262.html", "dc/df8/a23262" ],
     [ "GroupPhase", "d6/dad/a00941.html#a49053b1bcf5e1608ac7b5ad702b2bf00", [
       [ "GROUP_PHASE_1", "d6/dad/a00941.html#a49053b1bcf5e1608ac7b5ad702b2bf00a32bcd3b7fab317a48674500272b5b5c9", null ],
       [ "GROUP_PHASE_2", "d6/dad/a00941.html#a49053b1bcf5e1608ac7b5ad702b2bf00a22321c7fe55bbbccabaf892d4d85e8b4", null ]
@@ -3071,6 +3071,7 @@ var a00941 =
       [ "SPELL_FRENZIED_BLOODTHIRST_VISUAL", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca0a9600051a1cc2e643a2446c96a43bda", null ],
       [ "SPELL_VAMPIRIC_BITE", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca09cc11608c1abbe2287b59409bd31222", null ],
       [ "SPELL_VAMPIRIC_BITE_DUMMY", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca9557a5989c724aae0079df2e59e8e24b", null ],
+      [ "SPELL_ESSENCE_OF_BLOOD_QUEEN", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298cad5ab8fc79c0b399ab5c000c197b439c9", null ],
       [ "SPELL_ESSENCE_OF_THE_BLOOD_QUEEN_PLR", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298caa4554c55d7cbfd4f7e6ee583be7db278", null ],
       [ "SPELL_ESSENCE_OF_THE_BLOOD_QUEEN_HEAL", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298cab64a10c40af0e0437d2b0c86cb9e89c3", null ],
       [ "SPELL_FRENZIED_BLOODTHIRST", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca84a598b6d3d799fd9f824498ecad65b9", null ],

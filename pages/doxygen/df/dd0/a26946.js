@@ -1,6 +1,7 @@
 var a26946 =
 [
-    [ "go_darkmoon_faire_musicAI", "df/d3a/a26950.html", "df/d3a/a26950" ],
-    [ "go_darkmoon_faire_music", "df/dd0/a26946.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
-    [ "GetAI", "df/dd0/a26946.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
+    [ "go_brewfest_musicAI", "df/dd0/a26946.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "df/dd0/a26946.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "df/dd0/a26946.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "df/dd0/a26946.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

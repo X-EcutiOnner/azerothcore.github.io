@@ -1,6 +1,6 @@
 var a23882 =
 [
-    [ "npcs_flanis_swiftwing_and_kagrosh", "d4/d8d/a23882.html#aa95eceea94521947bd443805c8ddb52d", null ],
-    [ "OnGossipHello", "d4/d8d/a23882.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
-    [ "OnGossipSelect", "d4/d8d/a23882.html#aff34165955ba93e1fcd2b9731894d871", null ]
+    [ "npc_drake_dealer_hurlunk", "d4/d8d/a23882.html#ae6d095365d23c30d5b772b047b459ddb", null ],
+    [ "OnGossipHello", "d4/d8d/a23882.html#ad04b7f906f029d9935e29c585b0de421", null ],
+    [ "OnGossipSelect", "d4/d8d/a23882.html#aa23833dcdefb909899120c25d5376111", null ]
 ];

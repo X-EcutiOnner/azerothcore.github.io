@@ -1,6 +1,6 @@
 var a17422 =
 [
-    [ "boss_lady_deathwhisperAI", "de/d00/a17426.html", "de/d00/a17426" ],
-    [ "boss_lady_deathwhisper", "de/d44/a17422.html#a979411cb834611b1239f3bf9058d316d", null ],
-    [ "GetAI", "de/d44/a17422.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
+    [ "DaranavanMoveEvent", "de/d44/a17422.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
+    [ "Execute", "de/d44/a17422.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
+    [ "_darnavan", "de/d44/a17422.html#a7585edb957755efbc6064f232d50ea4e", null ]
 ];

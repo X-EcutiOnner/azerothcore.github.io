@@ -1,6 +1,10 @@
 var a18842 =
 [
-    [ "boss_sapphironAI", "dc/dcb/a18846.html", "dc/dcb/a18846" ],
-    [ "boss_sapphiron", "dd/d87/a18842.html#a87a70204dd727f92d035ad98e2ab9010", null ],
-    [ "GetAI", "dd/d87/a18842.html#a31209287faa721bef341388ae4383b6c", null ]
+    [ "boss_razuvious_minionAI", "dd/d87/a18842.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
+    [ "DoAction", "dd/d87/a18842.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
+    [ "JustEngagedWith", "dd/d87/a18842.html#ada2e7a5ac1f129572a0689afce49d310", null ],
+    [ "KilledUnit", "dd/d87/a18842.html#ab1a6f582098c9d1218551af0aae1815d", null ],
+    [ "Reset", "dd/d87/a18842.html#a170de8517a03a0e78b1e67652869fd9a", null ],
+    [ "ScheduleAttackDummy", "dd/d87/a18842.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
+    [ "UpdateAI", "dd/d87/a18842.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
 ];

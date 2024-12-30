@@ -1,7 +1,6 @@
 var a28450 =
 [
-    [ "W", "d7/dc2/a28450.html#adc2e55b935dcc2daefd60739bdb31cec", null ],
-    [ "X", "d7/dc2/a28450.html#a2676f1a5ec3a2f69ebb953e4b5741c4b", null ],
-    [ "Y", "d7/dc2/a28450.html#aa3353a9f5afdf3614e37f9681441ae05", null ],
-    [ "Z", "d7/dc2/a28450.html#a533b5e90b6333d89190828f28721e61d", null ]
+    [ "height", "d7/dc2/a28450.html#a7638f586a055c48a46e36471543ff72f", null ],
+    [ "unk1", "d7/dc2/a28450.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
+    [ "unk2", "d7/dc2/a28450.html#a394a04f6e985824aa259a42b11b97136", null ]
 ];

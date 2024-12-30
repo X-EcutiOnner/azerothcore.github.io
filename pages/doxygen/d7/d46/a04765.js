@@ -1,5 +1,5 @@
 var a04765 =
 [
-    [ "MDDF", "de/dfe/a28374.html", "de/dfe/a28374" ],
-    [ "MODF", "d8/de3/a28378.html", "d8/de3/a28378" ]
+    [ "MDDF", "da/d36/a28386.html", "da/d36/a28386" ],
+    [ "MODF", "d2/d58/a28390.html", "d2/d58/a28390" ]
 ];

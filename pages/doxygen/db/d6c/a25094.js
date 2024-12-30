@@ -1,9 +1,8 @@
 var a25094 =
 [
-    [ "DoCheckCast", "db/d6c/a25094.html#a09c7bd66988c38cb019656842ed87366", null ],
-    [ "HandleDummy", "db/d6c/a25094.html#a183e2ac37a432ea2902b31e24a474cea", null ],
-    [ "HandleScriptEffect", "db/d6c/a25094.html#a396b1129f15056d0b22c7887f56bea99", null ],
-    [ "PrepareSpellScript", "db/d6c/a25094.html#aad4de93de822a742e02ac8d5d395d482", null ],
-    [ "Register", "db/d6c/a25094.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
-    [ "Validate", "db/d6c/a25094.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
+    [ "CheckProc", "db/d6c/a25094.html#a2b0ff2594877249d0bdb4656fa67b83f", null ],
+    [ "HandleProc", "db/d6c/a25094.html#ac1aebc16e7944ac3f8305d9ff27bc998", null ],
+    [ "PrepareAuraScript", "db/d6c/a25094.html#a19557020af9ca276f72c1d3e4ba8b27b", null ],
+    [ "Register", "db/d6c/a25094.html#a43f7bb634cb165fab5e2187256f50c3f", null ],
+    [ "Validate", "db/d6c/a25094.html#a7762ce25775b98dba14b4ac465cad711", null ]
 ];

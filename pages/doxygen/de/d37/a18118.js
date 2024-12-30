@@ -1,5 +1,8 @@
 var a18118 =
 [
-    [ "achievement_been_waiting_long_time", "de/d37/a18118.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "de/d37/a18118.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "npc_lk_wicked_spiritAI", "de/d37/a18118.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "de/d37/a18118.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "de/d37/a18118.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "de/d37/a18118.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "de/d37/a18118.html#a8b15079251b6855679d738a342126006", null ]
 ];

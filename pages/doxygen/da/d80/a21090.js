@@ -1,6 +1,6 @@
 var a21090 =
 [
-    [ "npc_vh_teleportation_portalAI", "d0/de7/a21094.html", "d0/de7/a21094" ],
-    [ "npc_vh_teleportation_portal", "da/d80/a21090.html#a9a554058f594f992a17dbb3887117a6f", null ],
-    [ "GetAI", "da/d80/a21090.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
+    [ "npc_vh_sinclari", "da/d80/a21090.html#ad0235f207a3031420532174c04e0c348", null ],
+    [ "OnGossipHello", "da/d80/a21090.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
+    [ "OnGossipSelect", "da/d80/a21090.html#af0a260d7868f601ae239c226b10d4de3", null ]
 ];

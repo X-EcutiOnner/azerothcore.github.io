@@ -1,5 +1,6 @@
 var a18574 =
 [
-    [ "at_frozen_throne_teleport", "df/dec/a18574.html#a8065b9f9b55b267be1757775f84de349", null ],
-    [ "OnTrigger", "df/dec/a18574.html#ae1f9476b7f47320f545e702e9317bd03", null ]
+    [ "icecrown_citadel_teleport", "df/dec/a18574.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "df/dec/a18574.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "df/dec/a18574.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

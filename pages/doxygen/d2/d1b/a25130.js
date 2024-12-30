@@ -1,6 +1,9 @@
 var a25130 =
 [
-    [ "CheckCast", "d2/d1b/a25130.html#a7fa12be149f0cb2202142d7f44cde0a6", null ],
-    [ "PrepareSpellScript", "d2/d1b/a25130.html#ad6867dad8bda358bd1479935c80b82e7", null ],
-    [ "Register", "d2/d1b/a25130.html#a0ab2f1f2a87db93e54dc883c4e53d7ba", null ]
+    [ "CheckProc", "d2/d1b/a25130.html#a073ed3648f5fd15db73d1620ba7031e3", null ],
+    [ "HandleProc", "d2/d1b/a25130.html#a5345da73b9c4c9fe4ae5d272e3574955", null ],
+    [ "OnRemove", "d2/d1b/a25130.html#a27b1b744d88b4c870c0baa0b8f88317f", null ],
+    [ "PrepareAuraScript", "d2/d1b/a25130.html#a2e13f63459342fb749594f7fbb517c80", null ],
+    [ "Register", "d2/d1b/a25130.html#a6fc9a3945a736ba4a62ad754090d8525", null ],
+    [ "Validate", "d2/d1b/a25130.html#a008ec43da50deb568ec453e992f89887", null ]
 ];

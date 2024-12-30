@@ -1,11 +1,7 @@
 var a23154 =
 [
-    [ "boss_gruul", "df/d74/a23154.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "df/d74/a23154.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "df/d74/a23154.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "df/d74/a23154.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "df/d74/a23154.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "df/d74/a23154.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "df/d74/a23154.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "df/d74/a23154.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "CalcPeriodic", "df/d74/a23154.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
+    [ "PrepareAuraScript", "df/d74/a23154.html#a290913502dfe3dfb42b44a964468b97c", null ],
+    [ "Register", "df/d74/a23154.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
+    [ "Update", "df/d74/a23154.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
 ];

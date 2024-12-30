@@ -1,6 +1,11 @@
 var a20602 =
 [
-    [ "boss_yoggsaron_voiceAI", "d8/dbf/a20606.html", "d8/dbf/a20606" ],
-    [ "boss_yoggsaron_voice", "dd/df5/a20602.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
-    [ "GetAI", "dd/df5/a20602.html#a50abcde0313df06a114a2f5f44a1d481", null ]
+    [ "boss_yoggsaron_neltharionAI", "dd/df5/a20602.html#aacefe32de32513bdf46c0dd526768e25", null ],
+    [ "NextStep", "dd/df5/a20602.html#a4770948240ac56ec151c262c8996e4e4", null ],
+    [ "Reset", "dd/df5/a20602.html#a03841acfd21e920bc6589203448709a0", null ],
+    [ "Say", "dd/df5/a20602.html#ae45f051ab64ce1f96f32e5b8d073356e", null ],
+    [ "UpdateAI", "dd/df5/a20602.html#a80c174a8ffa15550627ed27ab0d8925d", null ],
+    [ "_checkTimer", "dd/df5/a20602.html#a7eef651198e09cf25c2f039bcb4a1876", null ],
+    [ "_running", "dd/df5/a20602.html#a6b2f01ed2ffe8113cbddd4a033886059", null ],
+    [ "_step", "dd/df5/a20602.html#a0ac37717e940b094d322a7e492202718", null ]
 ];

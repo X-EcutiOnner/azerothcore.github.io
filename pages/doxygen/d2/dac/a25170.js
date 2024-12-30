@@ -1,5 +1,7 @@
 var a25170 =
 [
-    [ "PrepareSpellScript", "d2/dac/a25170.html#aadb11335a487f83639260fc4246ba26f", null ],
-    [ "Register", "d2/dac/a25170.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ]
+    [ "FilterTargets", "d2/dac/a25170.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "d2/dac/a25170.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "d2/dac/a25170.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "d2/dac/a25170.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

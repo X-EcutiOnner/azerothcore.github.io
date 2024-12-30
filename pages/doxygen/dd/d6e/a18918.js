@@ -1,6 +1,25 @@
 var a18918 =
 [
-    [ "npc_vortex_rideAI", "df/de3/a18922.html", "df/de3/a18922" ],
-    [ "npc_vortex_ride", "dd/d6e/a18918.html#ad794cda407c9dfc35dd9bc2724f5014a", null ],
-    [ "GetAI", "dd/d6e/a18918.html#a23ef53feb432127db2620810a55d02ff", null ]
+    [ "boss_malygosAI", "dd/d6e/a18918.html#a6f8d8ec25b9d3acedd7c70f0a9f04a8a", null ],
+    [ "AttackStart", "dd/d6e/a18918.html#a4f0ef49be1129d4289ca9682a145d3a8", null ],
+    [ "DamageTaken", "dd/d6e/a18918.html#a5ca565d9078c31b7ca6ceda0e262114d", null ],
+    [ "EnterEvadeMode", "dd/d6e/a18918.html#adb432469735f6ebc016bb11bbc90a87e", null ],
+    [ "HandleIntroSpeech", "dd/d6e/a18918.html#ab959171061519d41998dc9a7e76f3a60", null ],
+    [ "InitializeAI", "dd/d6e/a18918.html#a23ea01ace48cde2675399ce3f202cb22", null ],
+    [ "JustDied", "dd/d6e/a18918.html#a44ca67ecee771d27b9c59be7b5e7d56b", null ],
+    [ "JustEngagedWith", "dd/d6e/a18918.html#aa3f7fd4e97351335ba6b0d90f76659d5", null ],
+    [ "JustSummoned", "dd/d6e/a18918.html#a6613931f6211979d8c627c9c5cd8dea2", null ],
+    [ "KilledUnit", "dd/d6e/a18918.html#aef2c08bf3727850c517c3cfae1cce170", null ],
+    [ "MoveInLineOfSight", "dd/d6e/a18918.html#acee6055640b8f2d51fe13d46f383ebc0", null ],
+    [ "MovementInform", "dd/d6e/a18918.html#ae75c077a139345bd63ddf4c27cb5e6f6", null ],
+    [ "Reset", "dd/d6e/a18918.html#afb7d93501d3559e4163b207bfb9b0d78", null ],
+    [ "SpellHit", "dd/d6e/a18918.html#af18eee25feb57f41708801f4d772a1ee", null ],
+    [ "UpdateAI", "dd/d6e/a18918.html#ab49276a5703a35d4271141368c9b6fcb", null ],
+    [ "bLockHealthCheck", "dd/d6e/a18918.html#a04ae7795de03560add41170a9487aa99", null ],
+    [ "events", "dd/d6e/a18918.html#ad2f425679108a50ac4cee1fc57dfe591", null ],
+    [ "IntroCounter", "dd/d6e/a18918.html#a2e19ce8b75578bd8b6f7432c14f3b7f8", null ],
+    [ "pInstance", "dd/d6e/a18918.html#a9ec26485d72ccf8e97120756f14161c3", null ],
+    [ "summons", "dd/d6e/a18918.html#aedb8188207d090740490fcd2256f84a3", null ],
+    [ "timer1", "dd/d6e/a18918.html#aeb4a585d72d6c970d5e1814de1599410", null ],
+    [ "timer2", "dd/d6e/a18918.html#affb313b502fbebaa6937fc3f2a380906", null ]
 ];

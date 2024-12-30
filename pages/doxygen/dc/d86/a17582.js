@@ -1,11 +1,7 @@
 var a17582 =
 [
-    [ "Load", "dc/d86/a17582.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "dc/d86/a17582.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "dc/d86/a17582.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "dc/d86/a17582.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "dc/d86/a17582.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "dc/d86/a17582.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "dc/d86/a17582.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "dc/d86/a17582.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "HandleExtraEffect", "dc/d86/a17582.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "dc/d86/a17582.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "dc/d86/a17582.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "dc/d86/a17582.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

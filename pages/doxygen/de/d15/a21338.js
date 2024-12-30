@@ -1,7 +1,10 @@
 var a21338 =
 [
-    [ "npc_warmage_violetstand", "de/d15/a21338.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "de/d15/a21338.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "de/d15/a21338.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "de/d15/a21338.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_preparations_for_war_vehicle", "de/d15/a21338.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
+    [ "InitializeAI", "de/d15/a21338.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
+    [ "MovementInform", "de/d15/a21338.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
+    [ "UpdateAI", "de/d15/a21338.html#ae40a23070d96ecf122e9de5571a845ef", null ],
+    [ "pointId", "de/d15/a21338.html#ae75d286eb6116b41adb346861b3c1365", null ],
+    [ "searchForShipTimer", "de/d15/a21338.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
+    [ "transportEntry", "de/d15/a21338.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

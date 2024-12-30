@@ -1,6 +1,9 @@
 var a21982 =
 [
-    [ "npc_freed_protodrakeAI", "d6/df5/a21986.html", "d6/df5/a21986" ],
-    [ "npc_freed_protodrake", "da/d93/a21982.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "da/d93/a21982.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "npc_brunnhildar_prisonerAI", "da/d93/a21982.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "da/d93/a21982.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "da/d93/a21982.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "da/d93/a21982.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "da/d93/a21982.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "da/d93/a21982.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

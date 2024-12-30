@@ -1,6 +1,18 @@
 var a21826 =
 [
-    [ "npc_frostbrood_skytalonAI", "db/ded/a21830.html", "db/ded/a21830" ],
-    [ "npc_frostbrood_skytalon", "dd/dcb/a21826.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "dd/dcb/a21826.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "npc_blessed_bannerAI", "dd/dcb/a21826.html#a563cd394d72a900d735f8639074deae1", null ],
+    [ "JustDied", "dd/dcb/a21826.html#a06e0e0c1e673c13488bd47e130098915", null ],
+    [ "JustEngagedWith", "dd/dcb/a21826.html#abfdd9e554fbbe16f6058d5cb10394a84", null ],
+    [ "JustSummoned", "dd/dcb/a21826.html#a354921ca9a3603c48885a38a507347c4", null ],
+    [ "MoveInLineOfSight", "dd/dcb/a21826.html#a34a0a856a4a4c05954ba300d8031e374", null ],
+    [ "Reset", "dd/dcb/a21826.html#a6fe7e49f2077ed549a6406592aec345e", null ],
+    [ "UpdateAI", "dd/dcb/a21826.html#a8ca070c63dd48e22823ac26d11da75be", null ],
+    [ "events", "dd/dcb/a21826.html#a79b7fbee1492860fe64d42928e494e3d", null ],
+    [ "guidDalfors", "dd/dcb/a21826.html#a369a837b6fa57d0960f24d9ea629ed04", null ],
+    [ "guidHalof", "dd/dcb/a21826.html#aef28a7624fb88e65a7f79fe34c320a29", null ],
+    [ "guidMason", "dd/dcb/a21826.html#a05e6dc20409e2271de8fe4f4b3ae7bfa", null ],
+    [ "guidPriest", "dd/dcb/a21826.html#a25f4056b2d7fda02885f58502f809a9c", null ],
+    [ "HalofSpawned", "dd/dcb/a21826.html#a38e98094f05c09ea19a4f44771194b2e", null ],
+    [ "PhaseCount", "dd/dcb/a21826.html#a983110caf86d94374a299d7268f7458c", null ],
+    [ "Summons", "dd/dcb/a21826.html#a92d7543e31c5cb367379711cb767ebd6", null ]
 ];

@@ -1,6 +1,6 @@
 var a00830 =
 [
-    [ "boss_pandemonius", "d0/d8c/a22318.html", "d0/d8c/a22318" ],
+    [ "boss_pandemonius", "d5/d42/a22322.html", "d5/d42/a22322" ],
     [ "Groups", "d9/daf/a00830.html#aab072245ab577ff0e12efe20a536b99a", [
       [ "GROUP_PRECOMBAT_TALK", "d1/df7/a02501.html#aab072245ab577ff0e12efe20a536b99aa3e7953992f23b2eba8d8498bfc66e01d", null ],
       [ "PORTAL_PHASE", "dc/de1/a02513.html#aab072245ab577ff0e12efe20a536b99aa8f7d8b62b79ce76fc356b355521db829", null ],
@@ -1789,6 +1789,7 @@ var a00830 =
       [ "SPELL_FRENZIED_BLOODTHIRST_VISUAL", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca0a9600051a1cc2e643a2446c96a43bda", null ],
       [ "SPELL_VAMPIRIC_BITE", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca09cc11608c1abbe2287b59409bd31222", null ],
       [ "SPELL_VAMPIRIC_BITE_DUMMY", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca9557a5989c724aae0079df2e59e8e24b", null ],
+      [ "SPELL_ESSENCE_OF_BLOOD_QUEEN", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298cad5ab8fc79c0b399ab5c000c197b439c9", null ],
       [ "SPELL_ESSENCE_OF_THE_BLOOD_QUEEN_PLR", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298caa4554c55d7cbfd4f7e6ee583be7db278", null ],
       [ "SPELL_ESSENCE_OF_THE_BLOOD_QUEEN_HEAL", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298cab64a10c40af0e0437d2b0c86cb9e89c3", null ],
       [ "SPELL_FRENZIED_BLOODTHIRST", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca84a598b6d3d799fd9f824498ecad65b9", null ],

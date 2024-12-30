@@ -1,5 +1,7 @@
 var a17470 =
 [
-    [ "at_lady_deathwhisper_entrance", "d6/d3e/a17470.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
-    [ "OnTrigger", "d6/d3e/a17470.html#a769c838c94a88af5492057909d88f3de", null ]
+    [ "OnPeriodic", "d6/d3e/a17470.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
+    [ "PrepareAuraScript", "d6/d3e/a17470.html#a0e87dae1be4f69e6412129f14056eb79", null ],
+    [ "Register", "d6/d3e/a17470.html#a1b26d102252bf7e0fd480076820d343f", null ],
+    [ "Validate", "d6/d3e/a17470.html#a211d52aa385a874730abc43b083f2d22", null ]
 ];

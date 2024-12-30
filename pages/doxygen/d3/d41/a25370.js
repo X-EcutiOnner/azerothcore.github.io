@@ -1,6 +1,8 @@
 var a25370 =
 [
-    [ "FilterTargets", "d3/d41/a25370.html#abe299fbad07f800e90b1614ec661c185", null ],
-    [ "PrepareSpellScript", "d3/d41/a25370.html#a53bae2b6575436705adff74caf9225b7", null ],
-    [ "Register", "d3/d41/a25370.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
+    [ "HandleDummy", "d3/d41/a25370.html#a0604906219798bec87624f8179292317", null ],
+    [ "Load", "d3/d41/a25370.html#a99d0d9dd5818a9252536879a3a1dab66", null ],
+    [ "PrepareSpellScript", "d3/d41/a25370.html#a51602256218ee899b7391b2b7af0ee7b", null ],
+    [ "Register", "d3/d41/a25370.html#a7b065390e95c9673a28d1c49158766ff", null ],
+    [ "Validate", "d3/d41/a25370.html#a0bf9973fae74a700623805352908aa69", null ]
 ];

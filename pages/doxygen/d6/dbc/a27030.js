@@ -1,6 +1,6 @@
 var a27030 =
 [
-    [ "go_amberpine_outhouse", "d6/dbc/a27030.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
-    [ "OnGossipHello", "d6/dbc/a27030.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
-    [ "OnGossipSelect", "d6/dbc/a27030.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
+    [ "go_soulwellAI", "d2/dda/a27034.html", "d2/dda/a27034" ],
+    [ "go_soulwell", "d6/dbc/a27030.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "d6/dbc/a27030.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

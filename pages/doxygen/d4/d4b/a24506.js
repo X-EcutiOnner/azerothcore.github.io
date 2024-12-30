@@ -1,6 +1,9 @@
 var a24506 =
 [
-    [ "CheckProc", "d4/d4b/a24506.html#a67f31710f6a3e843b9d3539710100898", null ],
-    [ "PrepareAuraScript", "d4/d4b/a24506.html#ad59ef816bd24f6215cc853386859dbb4", null ],
-    [ "Register", "d4/d4b/a24506.html#af499437b1af535488792f44c18ad9bf7", null ]
+    [ "FilterTargets", "d4/d4b/a24506.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
+    [ "PrepareSpellScript", "d4/d4b/a24506.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
+    [ "Register", "d4/d4b/a24506.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
+    [ "SetTargets", "d4/d4b/a24506.html#ac77e95af9b08118e87e3329eab5515ea", null ],
+    [ "Validate", "d4/d4b/a24506.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
+    [ "_targets", "d4/d4b/a24506.html#acc66768f54c514552f0ab01274c24f17", null ]
 ];

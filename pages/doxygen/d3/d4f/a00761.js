@@ -1,9 +1,9 @@
 var a00761 =
 [
-    [ "boss_hydross_the_unstable", "d9/d80/a22834.html", "d9/d80/a22834" ],
-    [ "spell_hydross_cleansing_field_aura", "d7/d97/a22838.html", "d7/d97/a22838" ],
-    [ "spell_hydross_cleansing_field_command", "d9/de7/a22842.html", "d9/de7/a22842" ],
-    [ "spell_hydross_mark_of_hydross", "da/da6/a22846.html", "da/da6/a22846" ],
+    [ "boss_hydross_the_unstable", "d7/d97/a22838.html", "d7/d97/a22838" ],
+    [ "spell_hydross_cleansing_field_aura", "d9/de7/a22842.html", "d9/de7/a22842" ],
+    [ "spell_hydross_cleansing_field_command", "da/da6/a22846.html", "da/da6/a22846" ],
+    [ "spell_hydross_mark_of_hydross", "dc/db1/a22850.html", "dc/db1/a22850" ],
     [ "Misc", "d3/d4f/a00761.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d6/dff/a02390.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d5/d2b/a02420.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -2524,6 +2524,7 @@ var a00761 =
       [ "SPELL_FRENZIED_BLOODTHIRST_VISUAL", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca0a9600051a1cc2e643a2446c96a43bda", null ],
       [ "SPELL_VAMPIRIC_BITE", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca09cc11608c1abbe2287b59409bd31222", null ],
       [ "SPELL_VAMPIRIC_BITE_DUMMY", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca9557a5989c724aae0079df2e59e8e24b", null ],
+      [ "SPELL_ESSENCE_OF_BLOOD_QUEEN", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298cad5ab8fc79c0b399ab5c000c197b439c9", null ],
       [ "SPELL_ESSENCE_OF_THE_BLOOD_QUEEN_PLR", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298caa4554c55d7cbfd4f7e6ee583be7db278", null ],
       [ "SPELL_ESSENCE_OF_THE_BLOOD_QUEEN_HEAL", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298cab64a10c40af0e0437d2b0c86cb9e89c3", null ],
       [ "SPELL_FRENZIED_BLOODTHIRST", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca84a598b6d3d799fd9f824498ecad65b9", null ],

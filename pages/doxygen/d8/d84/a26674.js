@@ -1,5 +1,8 @@
 var a26674 =
 [
-    [ "achievement_save_the_day", "d8/d84/a26674.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "d8/d84/a26674.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "CheckProc", "d8/d84/a26674.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
+    [ "HandleEffectProc", "d8/d84/a26674.html#af01d160cb2a55124361a2dd113acd0a7", null ],
+    [ "PrepareAuraScript", "d8/d84/a26674.html#aeffb8490a7208ae6e32a505283afbc03", null ],
+    [ "Register", "d8/d84/a26674.html#a5436413d098dde4b0fa1ed2259a47779", null ],
+    [ "Validate", "d8/d84/a26674.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
 ];

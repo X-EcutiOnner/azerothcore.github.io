@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['halaaids_0',['HalaaIds',['../de/da4/a22230.html',1,'']]],
+  ['halaaids_0',['HalaaIds',['../dd/dfb/a22234.html',1,'']]],
   ['handlertotuple_1',['HandlerToTuple',['../db/d6b/a07386.html',1,'Acore::Impl::ChatCommands']]],
   ['handlertotuple_3c_20bool_28chathandler_20_2a_2c_20ts_2e_2e_2e_29_3e_2',['HandlerToTuple&lt; bool(ChatHandler *, Ts...)&gt;',['../db/d0e/a07390.html',1,'Acore::Impl::ChatCommands']]],
   ['has_5ftype_3',['has_type',['../dd/d2c/a05486.html',1,'Acore']]],
@@ -11,12 +11,12 @@ var searchData=
   ['healinfo_8',['HealInfo',['../d3/d4a/a08566.html',1,'']]],
   ['healthcheckeventdata_9',['HealthCheckEventData',['../df/d58/a06118.html',1,'']]],
   ['healthpctorderpred_10',['HealthPctOrderPred',['../dc/dd9/a08606.html',1,'Acore']]],
-  ['heightdifferencecheck_11',['HeightDifferenceCheck',['../dd/d34/a17894.html',1,'']]],
+  ['heightdifferencecheck_11',['HeightDifferenceCheck',['../d5/d44/a17898.html',1,'']]],
   ['hidenpcevent_12',['HideNpcEvent',['../d7/d76/a16018.html',1,'']]],
   ['hithandler_13',['HitHandler',['../dd/d01/a11062.html',1,'SpellScript']]],
   ['hittriggerspell_14',['HitTriggerSpell',['../d1/d6c/a10914.html',1,'Spell']]],
-  ['hodirhelperdata_15',['HodirHelperData',['../db/d58/a19858.html',1,'']]],
-  ['holidaysentry_16',['HolidaysEntry',['../dc/d7e/a27850.html',1,'']]],
+  ['hodirhelperdata_15',['HodirHelperData',['../d7/d8f/a19862.html',1,'']]],
+  ['holidaysentry_16',['HolidaysEntry',['../d4/d6c/a27862.html',1,'']]],
   ['homemovementgenerator_17',['HomeMovementGenerator',['../d7/d6a/a09766.html',1,'']]],
   ['homemovementgenerator_3c_20creature_20_3e_18',['HomeMovementGenerator&lt; Creature &gt;',['../d3/df7/a09770.html',1,'']]],
   ['honor_5fcommandscript_19',['honor_commandscript',['../d7/d35/a11438.html',1,'']]],

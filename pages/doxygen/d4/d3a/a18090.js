@@ -1,5 +1,6 @@
 var a18090 =
 [
-    [ "npc_icc_lk_checktargetAI", "d4/d3a/a18090.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
-    [ "CanAIAttack", "d4/d3a/a18090.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
+    [ "npc_icc_lk_checktargetAI", "d5/dba/a18094.html", "d5/dba/a18094" ],
+    [ "npc_icc_lk_checktarget", "d4/d3a/a18090.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "d4/d3a/a18090.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

@@ -1,6 +1,5 @@
 var a17414 =
 [
-    [ "CheckProc", "df/d3e/a17414.html#a86e62fa26606a77284c80583e7b35d27", null ],
-    [ "PrepareAuraScript", "df/d3e/a17414.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
-    [ "Register", "df/d3e/a17414.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
+    [ "achievement_im_on_a_boat", "df/d3e/a17414.html#aa25d330534aab023ec798e86976a6d50", null ],
+    [ "OnCheck", "df/d3e/a17414.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
 ];

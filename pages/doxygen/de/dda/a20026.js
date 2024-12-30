@@ -1,6 +1,5 @@
 var a20026 =
 [
-    [ "boss_kologarnAI", "d2/db3/a20030.html", "d2/db3/a20030" ],
-    [ "boss_kologarn", "de/dda/a20026.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
-    [ "GetAI", "de/dda/a20026.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
+    [ "achievement_ignis_shattered", "de/dda/a20026.html#adbe893b0dd409eb3f10768f81f182f61", null ],
+    [ "OnCheck", "de/dda/a20026.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
 ];

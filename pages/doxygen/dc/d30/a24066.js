@@ -1,6 +1,5 @@
 var a24066 =
 [
-    [ "npc_pet_dk_army_of_the_deadAI", "da/dc3/a24070.html", "da/dc3/a24070" ],
-    [ "npc_pet_dk_army_of_the_dead", "dc/d30/a24066.html#a0029b9a6bf26ac3419e580d437a0139f", null ],
-    [ "GetAI", "dc/d30/a24066.html#a1883936b7f2905f67d3750faa8caf635", null ]
+    [ "npc_pet_dk_risen_allyAI", "dc/d30/a24066.html#ac9f42a8f6d87ab65e78d9a3951102705", null ],
+    [ "OnCharmed", "dc/d30/a24066.html#ada01d7ab11b7bf240cad932c96978a06", null ]
 ];

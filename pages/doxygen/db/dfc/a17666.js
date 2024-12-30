@@ -1,10 +1,12 @@
 var a17666 =
 [
-    [ "FilterTargets", "db/dfc/a17666.html#aefba5226671b6217549bd34059519179", null ],
-    [ "Load", "db/dfc/a17666.html#af8a2b651782783dc29ac7266ed02c028", null ],
-    [ "NotifyTargets", "db/dfc/a17666.html#a618e98fbd5c6ae21047cc4f911099730", null ],
-    [ "PrepareSpellScript", "db/dfc/a17666.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
-    [ "Register", "db/dfc/a17666.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
-    [ "ReplaceTargets", "db/dfc/a17666.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
-    [ "_target", "db/dfc/a17666.html#a10c85fd3909e56f457d73add8021c0b7", null ]
+    [ "npc_big_oozeAI", "db/dfc/a17666.html#a3564ffec1ac0ac2c7e29b3c7a6b60958", null ],
+    [ "DoAction", "db/dfc/a17666.html#a6d39eb1f177e8670169f18fcfa2e3c4e", null ],
+    [ "EnterEvadeMode", "db/dfc/a17666.html#ad7251cda20f3e2821077d2327528fd2d", null ],
+    [ "IsSummonedBy", "db/dfc/a17666.html#a85d27ac9fb0b9dbb92b2b17a99eaa612", null ],
+    [ "JustDied", "db/dfc/a17666.html#a2372053a84715990fc7fce3d8e269265", null ],
+    [ "UpdateAI", "db/dfc/a17666.html#a2e1f52ca84363703d95da99ca93d3503", null ],
+    [ "events", "db/dfc/a17666.html#a54f3baa4767f8336ff4699de426aae61", null ],
+    [ "firstUpdate", "db/dfc/a17666.html#af5c34c976137e456d1779ca944f88639", null ],
+    [ "instance", "db/dfc/a17666.html#a788141bf9be03161741d01d0aa4fe227", null ]
 ];

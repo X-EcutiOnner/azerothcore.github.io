@@ -1,7 +1,7 @@
 var a23434 =
 [
-    [ "HandleCast", "d2/dff/a23434.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "d2/dff/a23434.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "d2/dff/a23434.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "d2/dff/a23434.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "AfterApply", "d2/dff/a23434.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "d2/dff/a23434.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "d2/dff/a23434.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "d2/dff/a23434.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

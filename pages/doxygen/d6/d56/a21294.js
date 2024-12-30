@@ -1,6 +1,6 @@
 var a21294 =
 [
-    [ "npc_bloodmage_laurithAI", "d4/d9c/a21298.html", "d4/d9c/a21298" ],
-    [ "npc_bloodmage_laurith", "d6/d56/a21294.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
-    [ "GetAI", "d6/d56/a21294.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
+    [ "HandleEffect", "d6/d56/a21294.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
+    [ "PrepareSpellScript", "d6/d56/a21294.html#aec199e9f9651267fac88bd86be326bb4", null ],
+    [ "Register", "d6/d56/a21294.html#a14bd854db86750704c8377d457dea360", null ]
 ];

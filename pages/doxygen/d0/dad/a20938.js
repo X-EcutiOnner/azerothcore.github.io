@@ -1,6 +1,6 @@
 var a20938 =
 [
-    [ "boss_koralonAI", "d2/ddb/a20942.html", "d2/ddb/a20942" ],
-    [ "boss_koralon", "d0/dad/a20938.html#a43b9fb1224abeba44080fb02062451b0", null ],
-    [ "GetAI", "d0/dad/a20938.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
+    [ "HandleOnHit", "d0/dad/a20938.html#aa3f90eb49ae947b5729f722750cb8711", null ],
+    [ "PrepareSpellScript", "d0/dad/a20938.html#a3b62711a0ba478d6321a93d436359939", null ],
+    [ "Register", "d0/dad/a20938.html#af7bdde31f1221d5679983a41e3eca204", null ]
 ];

@@ -1,6 +1,12 @@
 var a20130 =
 [
-    [ "npc_ulduar_mimiron_rocketAI", "db/d2e/a20134.html", "db/d2e/a20134" ],
-    [ "npc_ulduar_mimiron_rocket", "de/d45/a20130.html#afcd90dbd893ec5e8424eb4197e7dec6d", null ],
-    [ "GetAI", "de/d45/a20130.html#ad1c6162db0f69a1a6b5016ae505e5535", null ]
+    [ "npc_ulduar_proximity_mineAI", "de/d45/a20130.html#aa3001a71c8a298be688631d618745495", null ],
+    [ "AttackStart", "de/d45/a20130.html#afe5572c8fd1f8acc64ca57304d8be254", null ],
+    [ "CanAIAttack", "de/d45/a20130.html#a0216f41bf596eb43a9b9eea13152d262", null ],
+    [ "MoveInLineOfSight", "de/d45/a20130.html#afe07e3cd341d6a84592ab9b33e02d6d5", null ],
+    [ "SpellHitTarget", "de/d45/a20130.html#aaf6c9c8843a61d29326ab6c662b174f9", null ],
+    [ "UpdateAI", "de/d45/a20130.html#adadc4c33ff356bd5eed6d82115dc888a", null ],
+    [ "exploded", "de/d45/a20130.html#a1706ff0cfd7192040c32f13a37610c43", null ],
+    [ "timer", "de/d45/a20130.html#a4c743646055b4c95bf379a751eb5892e", null ],
+    [ "timer2", "de/d45/a20130.html#a446b7658fa4c165f43947a05562827b2", null ]
 ];

@@ -1,5 +1,5 @@
 var a18578 =
 [
-    [ "creatureEntry", "d3/d36/a18578.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "d3/d36/a18578.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "at_frozen_throne_teleport", "d3/d36/a18578.html#a8065b9f9b55b267be1757775f84de349", null ],
+    [ "OnTrigger", "d3/d36/a18578.html#ae1f9476b7f47320f545e702e9317bd03", null ]
 ];

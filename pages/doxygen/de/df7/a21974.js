@@ -1,6 +1,6 @@
 var a21974 =
 [
-    [ "npc_brunnhildar_prisonerAI", "da/d10/a21978.html", "da/d10/a21978" ],
-    [ "npc_brunnhildar_prisoner", "de/df7/a21974.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
-    [ "GetAI", "de/df7/a21974.html#aa2a1787849c74a5163a39137c9d03d57", null ]
+    [ "npc_roxi_ramrocket", "de/df7/a21974.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
+    [ "OnGossipHello", "de/df7/a21974.html#adec28f778921246c56f11d09753e566e", null ],
+    [ "OnGossipSelect", "de/df7/a21974.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
 ];

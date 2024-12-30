@@ -1,6 +1,5 @@
 var a23078 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d1/d23/a23082.html", "d1/d23/a23082" ],
-    [ "instance_steam_vault", "d2/d37/a23078.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "d2/d37/a23078.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "go_main_chambers_access_panel", "d2/d37/a23078.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "d2/d37/a23078.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

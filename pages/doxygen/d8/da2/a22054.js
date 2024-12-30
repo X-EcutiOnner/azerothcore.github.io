@@ -1,6 +1,7 @@
 var a22054 =
 [
-    [ "go_wg_vehicle_teleporterAI", "d8/dc9/a22058.html", "d8/dc9/a22058" ],
-    [ "go_wg_vehicle_teleporter", "d8/da2/a22054.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
-    [ "GetAI", "d8/da2/a22054.html#a113aaf42c095000c1a016bfe60df11e7", null ]
+    [ "npc_wg_siege_machineAI", "d8/da2/a22054.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d8/da2/a22054.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d8/da2/a22054.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d8/da2/a22054.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

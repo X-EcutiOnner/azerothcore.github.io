@@ -1,14 +1,6 @@
 var a21002 =
 [
-    [ "boss_erekemAI", "da/d6d/a21002.html#aedf10fef3f0f2ac6797efa5f5a809f4a", null ],
-    [ "EnterEvadeMode", "da/d6d/a21002.html#a2c9f8f444b3b28d5cfdbaa234e9d76ee", null ],
-    [ "GetChainHealTargetGUID", "da/d6d/a21002.html#aa346cbaded883bbb3806acf9cb32579a", null ],
-    [ "JustDied", "da/d6d/a21002.html#a12e7fb5389977dcacb4e1eadda771467", null ],
-    [ "JustEngagedWith", "da/d6d/a21002.html#ad380838dbb6c2a3488fa57f2999e137c", null ],
-    [ "KilledUnit", "da/d6d/a21002.html#a120a2c9a6af821ce9a5e68dbab6e800d", null ],
-    [ "MoveInLineOfSight", "da/d6d/a21002.html#a5905809cba20d426c4d222b1e91055bc", null ],
-    [ "Reset", "da/d6d/a21002.html#a338bbc123b1d3adef4f014c3302c4590", null ],
-    [ "UpdateAI", "da/d6d/a21002.html#a234ae447260ae30a137a53fb986e5dc4", null ],
-    [ "events", "da/d6d/a21002.html#a8d4445b6d35f534061818f7708f39f7e", null ],
-    [ "pInstance", "da/d6d/a21002.html#aa68ece744a21ed2ef8d3e7c4b4081d8e", null ]
+    [ "boss_erekemAI", "dc/d17/a21006.html", "dc/d17/a21006" ],
+    [ "boss_erekem", "da/d6d/a21002.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
+    [ "GetAI", "da/d6d/a21002.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
 ];

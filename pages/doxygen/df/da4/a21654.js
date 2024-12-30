@@ -1,6 +1,7 @@
 var a21654 =
 [
-    [ "npc_rocket_propelled_warheadAI", "d4/d6c/a21658.html", "d4/d6c/a21658" ],
-    [ "npc_rocket_propelled_warhead", "df/da4/a21654.html#a5c945efc6e3ca847363ac47abc5f51ca", null ],
-    [ "GetAI", "df/da4/a21654.html#a803702c480107d197845a0ef447a5380", null ]
+    [ "HandleAfterEffectApply", "df/da4/a21654.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "df/da4/a21654.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "df/da4/a21654.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "df/da4/a21654.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

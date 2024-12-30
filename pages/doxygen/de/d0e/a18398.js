@@ -1,7 +1,8 @@
 var a18398 =
 [
-    [ "HandleQuestComplete", "de/d0e/a18398.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
-    [ "HandleScript", "de/d0e/a18398.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
-    [ "PrepareSpellScript", "de/d0e/a18398.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
-    [ "Register", "de/d0e/a18398.html#a3258d4517cfc758080691bab429624d7", null ]
+    [ "CountTargets", "de/d0e/a18398.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "de/d0e/a18398.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "de/d0e/a18398.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "de/d0e/a18398.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "de/d0e/a18398.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

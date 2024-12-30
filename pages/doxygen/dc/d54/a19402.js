@@ -1,6 +1,8 @@
 var a19402 =
 [
-    [ "go_celestial_planetarium_accessAI", "de/d55/a19406.html", "de/d55/a19406" ],
-    [ "go_celestial_planetarium_access", "dc/d54/a19402.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "dc/d54/a19402.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "npc_algalon_worm_holeAI", "dc/d54/a19402.html#a07b36b40972bebea6b17890aa8fee50c", null ],
+    [ "JustSummoned", "dc/d54/a19402.html#a148de5da4502813e369ec6c52b1671a0", null ],
+    [ "Reset", "dc/d54/a19402.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
+    [ "UpdateAI", "dc/d54/a19402.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
+    [ "_summonTimer", "dc/d54/a19402.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
 ];

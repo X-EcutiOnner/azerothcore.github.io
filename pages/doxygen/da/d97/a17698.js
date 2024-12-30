@@ -1,6 +1,6 @@
 var a17698 =
 [
-    [ "npc_precious_iccAI", "d0/ddc/a17702.html", "d0/ddc/a17702" ],
-    [ "npc_precious_icc", "da/d97/a17698.html#a463eb0df1edb17e154658dac131f0898", null ],
-    [ "GetAI", "da/d97/a17698.html#aa63840c5968a089bff41dcd9c86d5849", null ]
+    [ "DespawnSelf", "da/d97/a17698.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "da/d97/a17698.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "da/d97/a17698.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

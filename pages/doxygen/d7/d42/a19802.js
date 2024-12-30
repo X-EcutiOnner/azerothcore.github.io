@@ -1,6 +1,6 @@
 var a19802 =
 [
-    [ "boss_vezaxAI", "df/d43/a19806.html", "df/d43/a19806" ],
-    [ "boss_vezax", "d7/d42/a19802.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
-    [ "GetAI", "d7/d42/a19802.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
+    [ "achievement_freya_knock_on_wood", "d7/d42/a19802.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "d7/d42/a19802.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "d7/d42/a19802.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

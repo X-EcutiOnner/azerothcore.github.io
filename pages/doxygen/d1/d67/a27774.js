@@ -1,5 +1,5 @@
 var a27774 =
 [
-    [ "Id", "d1/d67/a27774.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "d1/d67/a27774.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "Itemlvl", "d1/d67/a27774.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
+    [ "multiplier", "d1/d67/a27774.html#a5c6c206a6185a546223de7501ff846f6", null ]
 ];

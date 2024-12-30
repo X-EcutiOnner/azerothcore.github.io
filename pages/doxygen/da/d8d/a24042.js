@@ -1,6 +1,6 @@
 var a24042 =
 [
-    [ "npc_pet_dk_ebon_gargoyleAI", "dd/d25/a24046.html", "dd/d25/a24046" ],
-    [ "npc_pet_dk_ebon_gargoyle", "da/d8d/a24042.html#ae4dcaff120a52c20a8b73d97a08604d7", null ],
-    [ "GetAI", "da/d8d/a24042.html#a19ff9fd627aab738c91ce23cf6acfffd", null ]
+    [ "npc_slim", "da/d8d/a24042.html#aa227fbe22126bed821939873973e6a20", null ],
+    [ "OnGossipHello", "da/d8d/a24042.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
+    [ "OnGossipSelect", "da/d8d/a24042.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
 ];

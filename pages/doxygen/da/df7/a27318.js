@@ -1,9 +1,6 @@
 var a27318 =
 [
-    [ "npc_fireworkAI", "da/df7/a27318.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "da/df7/a27318.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "da/df7/a27318.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "da/df7/a27318.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "da/df7/a27318.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "da/df7/a27318.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "npc_locksmith", "da/df7/a27318.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "da/df7/a27318.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "da/df7/a27318.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

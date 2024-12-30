@@ -1,10 +1,6 @@
 var a21106 =
 [
-    [ "npc_azure_invaderAI", "dc/dc7/a21106.html#a85f164a6ba24d7a14d77264441a78f46", null ],
-    [ "Reset", "dc/dc7/a21106.html#ada44600272b19d9416d957bc52bc3be4", null ],
-    [ "UpdateAI", "dc/dc7/a21106.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
-    [ "uiBrutalStrikeTimer", "dc/dc7/a21106.html#a4b88a85f3344edbdadde0104668509aa", null ],
-    [ "uiCleaveTimer", "dc/dc7/a21106.html#a8b1792a8a405651d602d9ed634f52689", null ],
-    [ "uiImpaleTimer", "dc/dc7/a21106.html#aa709ee8919a2d0317d563259c7630c99", null ],
-    [ "uiSunderArmorTimer", "dc/dc7/a21106.html#ab2e6d01df033985ac29e963cf2895466", null ]
+    [ "npc_azure_invaderAI", "d2/d93/a21110.html", "d2/d93/a21110" ],
+    [ "npc_azure_invader", "dc/dc7/a21106.html#ab318178a618f2bfdcd5ea3105c240d32", null ],
+    [ "GetAI", "dc/dc7/a21106.html#a19c000084ea74a401ece81ee0e20b65c", null ]
 ];

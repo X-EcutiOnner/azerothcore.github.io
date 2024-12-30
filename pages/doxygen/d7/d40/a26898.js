@@ -1,6 +1,5 @@
 var a26898 =
 [
-    [ "go_flamesAI", "da/dee/a26902.html", "da/dee/a26902" ],
-    [ "go_flames", "d7/d40/a26898.html#a75d49202eaf2078b8276e59944d1ec89", null ],
-    [ "GetAI", "d7/d40/a26898.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
+    [ "go_resonite_cask", "d7/d40/a26898.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
+    [ "OnGossipHello", "d7/d40/a26898.html#aae8591d53a6983886b52d404acdba293", null ]
 ];

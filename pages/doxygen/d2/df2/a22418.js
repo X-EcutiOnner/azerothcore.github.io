@@ -1,5 +1,6 @@
 var a22418 =
 [
-    [ "ChargeTargetSelector", "d2/df2/a22418.html#a064e7d9008bfc85b7c636490c7aaf714", null ],
-    [ "operator()", "d2/df2/a22418.html#a596223da822f5a08281fe709cca95909", null ]
+    [ "HandleScriptEffect", "d2/df2/a22418.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "d2/df2/a22418.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "d2/df2/a22418.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

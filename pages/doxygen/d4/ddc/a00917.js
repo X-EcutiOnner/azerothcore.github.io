@@ -1,8 +1,8 @@
 var a00917 =
 [
-    [ "boss_broggok", "d7/da6/a23210.html", "d7/da6/a23210" ],
-    [ "go_broggok_lever", "da/d3c/a23214.html", "da/d3c/a23214" ],
-    [ "spell_broggok_poison_cloud", "dd/d36/a23218.html", "dd/d36/a23218" ],
+    [ "boss_broggok", "da/d3c/a23214.html", "da/d3c/a23214" ],
+    [ "go_broggok_lever", "dd/d36/a23218.html", "dd/d36/a23218" ],
+    [ "spell_broggok_poison_cloud", "d2/d9b/a23222.html", "d2/d9b/a23222" ],
     [ "Say", "d4/ddc/a00917.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "d2/d35/a02480.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "d2/d35/a02480.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],
@@ -1824,6 +1824,7 @@ var a00917 =
       [ "SPELL_FRENZIED_BLOODTHIRST_VISUAL", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca0a9600051a1cc2e643a2446c96a43bda", null ],
       [ "SPELL_VAMPIRIC_BITE", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca09cc11608c1abbe2287b59409bd31222", null ],
       [ "SPELL_VAMPIRIC_BITE_DUMMY", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca9557a5989c724aae0079df2e59e8e24b", null ],
+      [ "SPELL_ESSENCE_OF_BLOOD_QUEEN", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298cad5ab8fc79c0b399ab5c000c197b439c9", null ],
       [ "SPELL_ESSENCE_OF_THE_BLOOD_QUEEN_PLR", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298caa4554c55d7cbfd4f7e6ee583be7db278", null ],
       [ "SPELL_ESSENCE_OF_THE_BLOOD_QUEEN_HEAL", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298cab64a10c40af0e0437d2b0c86cb9e89c3", null ],
       [ "SPELL_FRENZIED_BLOODTHIRST", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca84a598b6d3d799fd9f824498ecad65b9", null ],

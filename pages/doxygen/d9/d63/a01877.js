@@ -1,10 +1,10 @@
 var a01877 =
 [
-    [ "boss_koralon", "d0/dad/a20938.html", "d0/dad/a20938" ],
-    [ "boss_koralon::boss_koralonAI", "d2/ddb/a20942.html", "d2/ddb/a20942" ],
-    [ "spell_voa_flaming_cinder", "dd/df0/a20946.html", "dd/df0/a20946" ],
-    [ "spell_koralon_meteor_fists_aura", "da/d4e/a20950.html", "da/d4e/a20950" ],
-    [ "spell_flame_warder_meteor_fists_aura", "d2/d93/a20954.html", "d2/d93/a20954" ],
+    [ "boss_koralon", "d2/ddb/a20942.html", "d2/ddb/a20942" ],
+    [ "boss_koralon::boss_koralonAI", "dd/df0/a20946.html", "dd/df0/a20946" ],
+    [ "spell_voa_flaming_cinder", "da/d4e/a20950.html", "da/d4e/a20950" ],
+    [ "spell_koralon_meteor_fists_aura", "d2/d93/a20954.html", "d2/d93/a20954" ],
+    [ "spell_flame_warder_meteor_fists_aura", "df/d9a/a20958.html", "df/d9a/a20958" ],
     [ "Events", "d9/d63/a01877.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d5f/a02216.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d5f/a02216.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -3018,6 +3018,7 @@ var a01877 =
       [ "SPELL_FRENZIED_BLOODTHIRST_VISUAL", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca0a9600051a1cc2e643a2446c96a43bda", null ],
       [ "SPELL_VAMPIRIC_BITE", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca09cc11608c1abbe2287b59409bd31222", null ],
       [ "SPELL_VAMPIRIC_BITE_DUMMY", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca9557a5989c724aae0079df2e59e8e24b", null ],
+      [ "SPELL_ESSENCE_OF_BLOOD_QUEEN", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298cad5ab8fc79c0b399ab5c000c197b439c9", null ],
       [ "SPELL_ESSENCE_OF_THE_BLOOD_QUEEN_PLR", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298caa4554c55d7cbfd4f7e6ee583be7db278", null ],
       [ "SPELL_ESSENCE_OF_THE_BLOOD_QUEEN_HEAL", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298cab64a10c40af0e0437d2b0c86cb9e89c3", null ],
       [ "SPELL_FRENZIED_BLOODTHIRST", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca84a598b6d3d799fd9f824498ecad65b9", null ],

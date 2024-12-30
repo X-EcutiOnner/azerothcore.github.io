@@ -1,6 +1,5 @@
 var a20090 =
 [
-    [ "boss_mimironAI", "dd/d59/a20094.html", "dd/d59/a20094" ],
-    [ "boss_mimiron", "da/d77/a20090.html#a72904837bd85e9f711fcf3da04c459c3", null ],
-    [ "GetAI", "da/d77/a20090.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
+    [ "achievement_kologarn_with_open_arms", "da/d77/a20090.html#a94af961be5bbdf7783925148731ce7e4", null ],
+    [ "OnCheck", "da/d77/a20090.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
 ];

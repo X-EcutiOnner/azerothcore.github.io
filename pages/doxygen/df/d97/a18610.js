@@ -1,6 +1,6 @@
 var a18610 =
 [
-    [ "npc_four_car_garageAI", "df/d97/a18610.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
-    [ "JustDied", "df/d97/a18610.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
-    [ "PassengerBoarded", "df/d97/a18610.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
+    [ "npc_four_car_garageAI", "d9/dde/a18614.html", "d9/dde/a18614" ],
+    [ "npc_four_car_garage", "df/d97/a18610.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
+    [ "GetAI", "df/d97/a18610.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
 ];

@@ -1,6 +1,6 @@
 var a22018 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "db/d28/a22018.html#afd54b130725aa724b80f150f968ce09d", null ],
-    [ "MovementInform", "db/d28/a22018.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
-    [ "PassengerBoarded", "db/d28/a22018.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d2/dab/a22022.html", "d2/dab/a22022" ],
+    [ "npc_vehicle_d16_propelled_delivery", "db/d28/a22018.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "db/d28/a22018.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

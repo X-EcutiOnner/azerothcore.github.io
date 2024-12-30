@@ -1,6 +1,6 @@
 var a17058 =
 [
-    [ "boss_blood_queen_lana_thelAI", "d3/d93/a17062.html", "d3/d93/a17062" ],
-    [ "boss_blood_queen_lana_thel", "db/db5/a17058.html#a9f8fa906f01082caacd106abc2707b07", null ],
-    [ "GetAI", "db/db5/a17058.html#a7873efd945bdb24228866f639e32879b", null ]
+    [ "VampiricBiteTargetSelector", "db/db5/a17058.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
+    [ "operator()", "db/db5/a17058.html#ac16204f50f62cb2568998d1ea137f55d", null ],
+    [ "_source", "db/db5/a17058.html#af23a69491c915909566249b109b1f0e8", null ]
 ];

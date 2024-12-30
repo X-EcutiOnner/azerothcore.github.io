@@ -1,7 +1,8 @@
 var a20226 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d4/d80/a20226.html#a100678bddd6a0e859c72035d4642d8e2", null ],
-    [ "MoveInLineOfSight", "d4/d80/a20226.html#a870bdc842d8d7078302a36a20ef661e4", null ],
-    [ "_instance", "d4/d80/a20226.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
-    [ "_introSpoken", "d4/d80/a20226.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
+    [ "npc_ulduar_expedition_commanderAI", "d9/d65/a20230.html", "d9/d65/a20230" ],
+    [ "npc_ulduar_expedition_commander", "d4/d80/a20226.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
+    [ "GetAI", "d4/d80/a20226.html#aa888a3634a643a103075d44c8f52d28a", null ],
+    [ "OnGossipHello", "d4/d80/a20226.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
+    [ "OnGossipSelect", "d4/d80/a20226.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
 ];

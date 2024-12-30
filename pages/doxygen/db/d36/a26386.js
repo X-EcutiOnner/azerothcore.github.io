@@ -1,7 +1,7 @@
 var a26386 =
 [
-    [ "HandleProc", "db/d36/a26386.html#a7e358f231f3ee72fcb95432a4705312a", null ],
-    [ "PrepareAuraScript", "db/d36/a26386.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
-    [ "Register", "db/d36/a26386.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
-    [ "Validate", "db/d36/a26386.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
+    [ "HandleDummy", "db/d36/a26386.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
+    [ "PrepareSpellScript", "db/d36/a26386.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
+    [ "Register", "db/d36/a26386.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
+    [ "Validate", "db/d36/a26386.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
 ];

@@ -1,9 +1,7 @@
 var a21262 =
 [
-    [ "npc_bonker_togglevoltAI", "dc/dff/a21262.html#adfd43a6a804a35e235262e55f0155ffe", null ],
-    [ "JustDied", "dc/dff/a21262.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
-    [ "Reset", "dc/dff/a21262.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
-    [ "UpdateEscortAI", "dc/dff/a21262.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
-    [ "WaypointReached", "dc/dff/a21262.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
-    [ "Bonker_agro", "dc/dff/a21262.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
+    [ "npc_bonker_togglevoltAI", "d4/d5e/a21266.html", "d4/d5e/a21266" ],
+    [ "npc_bonker_togglevolt", "dc/dff/a21262.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
+    [ "GetAI", "dc/dff/a21262.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
+    [ "OnQuestAccept", "dc/dff/a21262.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
 ];

@@ -1,6 +1,5 @@
 var a20474 =
 [
-    [ "x", "df/df3/a20474.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "df/df3/a20474.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "df/df3/a20474.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "achievement_xt002_nerf_gravity_bombs", "df/df3/a20474.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
+    [ "OnCheck", "df/df3/a20474.html#a03f61470694399ab32aea354cd697771", null ]
 ];

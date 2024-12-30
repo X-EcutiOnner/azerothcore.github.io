@@ -1,6 +1,6 @@
 var a18790 =
 [
-    [ "boss_maexxnaAI", "da/d38/a18794.html", "da/d38/a18794" ],
-    [ "boss_maexxna", "df/d26/a18790.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "df/d26/a18790.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "WebTargetSelector", "df/d26/a18790.html#a2f19cffab18fd6f2f5a1d296aa1db47d", null ],
+    [ "operator()", "df/d26/a18790.html#a289821eaae114ba384a9ee9b8c19325f", null ],
+    [ "_maexxna", "df/d26/a18790.html#ad21c9ac380f7b97aacc06f08f1c45974", null ]
 ];

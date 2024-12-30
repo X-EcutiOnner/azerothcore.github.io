@@ -1,6 +1,9 @@
 var a17214 =
 [
-    [ "Cooldown", "d2/d39/a17214.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
-    [ "Entry", "d2/d39/a17214.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
-    [ "TargetPosition", "d2/d39/a17214.html#ac47af49622012b4ad40357cadc5214b3", null ]
+    [ "npc_stinky_iccAI", "d2/d39/a17214.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
+    [ "JustDied", "d2/d39/a17214.html#a7fa392980e2d30c935b79377df8dc694", null ],
+    [ "JustEngagedWith", "d2/d39/a17214.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
+    [ "Reset", "d2/d39/a17214.html#ac66e3398598576fdc889a7b56646eecf", null ],
+    [ "UpdateAI", "d2/d39/a17214.html#af6e04824ea1682c529e8579a306d34ca", null ],
+    [ "events", "d2/d39/a17214.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
 ];

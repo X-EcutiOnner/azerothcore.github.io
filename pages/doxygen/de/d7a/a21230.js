@@ -1,6 +1,12 @@
 var a21230 =
 [
-    [ "npc_captured_beryl_sorcererAI", "d8/df3/a21234.html", "d8/df3/a21234" ],
-    [ "npc_captured_beryl_sorcerer", "de/d7a/a21230.html#ace67e76e96e3be9fa5976dc4c90041e6", null ],
-    [ "GetAI", "de/d7a/a21230.html#aa5a31390ff3c6277ebff2a5eebe72b3d", null ]
+    [ "npc_beryl_sorcererAI", "de/d7a/a21230.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
+    [ "Initialize", "de/d7a/a21230.html#a40400e4e993d20d9bbe4faf063102521", null ],
+    [ "JustEngagedWith", "de/d7a/a21230.html#afae877e8dac583c9420d214f77c2b438", null ],
+    [ "Reset", "de/d7a/a21230.html#a17a16337c09013483c58cae38576d969", null ],
+    [ "SpellHit", "de/d7a/a21230.html#a762ee3ae8df3757279821af13101e0be", null ],
+    [ "UpdateAI", "de/d7a/a21230.html#a42ec665b06988d13be6cbee646afc898", null ],
+    [ "_chainsCast", "de/d7a/a21230.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
+    [ "_events", "de/d7a/a21230.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
+    [ "_playerGUID", "de/d7a/a21230.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
 ];

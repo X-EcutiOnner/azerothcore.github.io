@@ -1,6 +1,9 @@
 var a26906 =
 [
-    [ "go_heatAI", "d6/de7/a26910.html", "d6/de7/a26910" ],
-    [ "go_heat", "d5/d1a/a26906.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
-    [ "GetAI", "d5/d1a/a26906.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
+    [ "go_tadpole_cageAI", "d5/d1a/a26906.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "d5/d1a/a26906.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "d5/d1a/a26906.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "d5/d1a/a26906.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "d5/d1a/a26906.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "d5/d1a/a26906.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

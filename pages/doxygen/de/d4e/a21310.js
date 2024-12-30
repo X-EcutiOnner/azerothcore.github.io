@@ -1,6 +1,7 @@
 var a21310 =
 [
-    [ "npc_thassarian2AI", "dc/ddc/a21314.html", "dc/ddc/a21314" ],
-    [ "npc_thassarian2", "de/d4e/a21310.html#a8a2f1e1595349e4fa9968e85f17d0468", null ],
-    [ "GetAI", "de/d4e/a21310.html#adb87c99f3375f88eca55b39e1cd0bbd5", null ]
+    [ "npc_thassarianAI", "de/d4e/a21310.html#a92e873dc3aa97f81919225ce75a5f894", null ],
+    [ "Reset", "de/d4e/a21310.html#a8611ef17700c739dbd5e7a70660f1379", null ],
+    [ "UpdateAI", "de/d4e/a21310.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
+    [ "_events", "de/d4e/a21310.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
 ];

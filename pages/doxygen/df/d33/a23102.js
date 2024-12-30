@@ -1,6 +1,7 @@
 var a23102 =
 [
-    [ "HandlePeriodic", "df/d33/a23102.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
-    [ "PrepareAuraScript", "df/d33/a23102.html#a75515896f3d94d227963a3c5258e2d0d", null ],
-    [ "Register", "df/d33/a23102.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
+    [ "npc_underbog_mushroom", "df/d33/a23102.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "df/d33/a23102.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "df/d33/a23102.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "df/d33/a23102.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

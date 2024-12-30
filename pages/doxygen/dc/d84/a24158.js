@@ -1,6 +1,5 @@
 var a24158 =
 [
-    [ "npc_pet_pri_shadowfiend", "dc/d84/a24158.html#ac35e3bcf59dc2d65a313e315516ea09b", null ],
-    [ "JustDied", "dc/d84/a24158.html#a6d50edf62bf4547117f3f7b5b520f71b", null ],
-    [ "Reset", "dc/d84/a24158.html#aeff1bada59ee80ae0166a82207729bad", null ]
+    [ "npc_pet_pri_lightwell", "dc/d84/a24158.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
+    [ "InitializeAI", "dc/d84/a24158.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
 ];

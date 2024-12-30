@@ -1,8 +1,7 @@
 var a24810 =
 [
-    [ "OnApply", "dc/dcb/a24810.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
-    [ "OnRemove", "dc/dcb/a24810.html#abd45d59ecd41274bd02c17fb066a521e", null ],
-    [ "PrepareAuraScript", "dc/dcb/a24810.html#af30811301599459bf2a99a68608a053f", null ],
-    [ "Register", "dc/dcb/a24810.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
-    [ "Validate", "dc/dcb/a24810.html#a29c5049e4455737ff96596a18af118d0", null ]
+    [ "CalculateAmount", "dc/dcb/a24810.html#a40ba021accd581745f07f2586545853c", null ],
+    [ "Load", "dc/dcb/a24810.html#aa963b658637360305bb5f3d59eb9d061", null ],
+    [ "PrepareAuraScript", "dc/dcb/a24810.html#a8fedbff305709145a7c004787ee50402", null ],
+    [ "Register", "dc/dcb/a24810.html#ade9b6a408a1d5a83bdadd5bd2b0fbb2a", null ]
 ];

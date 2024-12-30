@@ -1,11 +1,11 @@
 var a01991 =
 [
-    [ "WebTargetSelector", "da/d70/a18786.html", "da/d70/a18786" ],
-    [ "boss_maexxna", "df/d26/a18790.html", "df/d26/a18790" ],
-    [ "boss_maexxna::boss_maexxnaAI", "da/d38/a18794.html", "da/d38/a18794" ],
-    [ "boss_maexxna_webwrap", "d9/d5d/a18798.html", "d9/d5d/a18798" ],
-    [ "boss_maexxna_webwrap::boss_maexxna_webwrapAI", "d7/da0/a18802.html", "d7/da0/a18802" ],
-    [ "spell_web_wrap_damage", "d3/d02/a18806.html", "d3/d02/a18806" ],
+    [ "WebTargetSelector", "df/d26/a18790.html", "df/d26/a18790" ],
+    [ "boss_maexxna", "da/d38/a18794.html", "da/d38/a18794" ],
+    [ "boss_maexxna::boss_maexxnaAI", "d9/d5d/a18798.html", "d9/d5d/a18798" ],
+    [ "boss_maexxna_webwrap", "d7/da0/a18802.html", "d7/da0/a18802" ],
+    [ "boss_maexxna_webwrap::boss_maexxna_webwrapAI", "d3/d02/a18806.html", "d3/d02/a18806" ],
+    [ "spell_web_wrap_damage", "dc/dcc/a18810.html", "dc/dcc/a18810" ],
     [ "Emotes", "d3/d4e/a01991.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "dc/d2b/a02486.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "dc/d2b/a02486.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],
@@ -3811,6 +3811,7 @@ var a01991 =
       [ "SPELL_FRENZIED_BLOODTHIRST_VISUAL", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca0a9600051a1cc2e643a2446c96a43bda", null ],
       [ "SPELL_VAMPIRIC_BITE", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca09cc11608c1abbe2287b59409bd31222", null ],
       [ "SPELL_VAMPIRIC_BITE_DUMMY", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca9557a5989c724aae0079df2e59e8e24b", null ],
+      [ "SPELL_ESSENCE_OF_BLOOD_QUEEN", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298cad5ab8fc79c0b399ab5c000c197b439c9", null ],
       [ "SPELL_ESSENCE_OF_THE_BLOOD_QUEEN_PLR", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298caa4554c55d7cbfd4f7e6ee583be7db278", null ],
       [ "SPELL_ESSENCE_OF_THE_BLOOD_QUEEN_HEAL", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298cab64a10c40af0e0437d2b0c86cb9e89c3", null ],
       [ "SPELL_FRENZIED_BLOODTHIRST", "d2/d2f/a01586.html#a5bd342133be8c2137b831460acc9298ca84a598b6d3d799fd9f824498ecad65b9", null ],

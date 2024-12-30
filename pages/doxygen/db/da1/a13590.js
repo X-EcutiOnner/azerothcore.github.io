@@ -16,6 +16,7 @@ var a13590 =
     [ "SummonHostage", "db/da1/a13590.html#a907b3f4a59cbd366f702daeffe05d607", null ],
     [ "Update", "db/da1/a13590.html#a826800c63083d2af31847118c8b05e57", null ],
     [ "_akilzonGauntlet", "db/da1/a13590.html#a57cf874e315f0f9686b684151c37e740", null ],
+    [ "_chestLooted", "db/da1/a13590.html#ac6bce6de8ca45513cdabbace943f32d4", null ],
     [ "AkilzonTrash", "db/da1/a13590.html#a9f2fc91191dfaac5218f95fed71e2bcf", null ],
     [ "RandVendor", "db/da1/a13590.html#ae1e7cad436566533b7673438884e6210", null ]
 ];

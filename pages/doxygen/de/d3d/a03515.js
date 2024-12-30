@@ -173,6 +173,10 @@ var a03515 =
       [ "REACT_DEFENSIVE", "de/d3d/a03515.html#a5e9099d162ad74df5a3e3f5c0f056c37a7183e7251db222734d0d007a258d65c7", null ],
       [ "REACT_AGGRESSIVE", "de/d3d/a03515.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc", null ]
     ] ],
+    [ "SearchMethod", "de/d3d/a03515.html#abd60910b52e9fd2a0b8f4b030183f02c", [
+      [ "MatchAll", "de/d3d/a03515.html#abd60910b52e9fd2a0b8f4b030183f02ca9f0b169d4598df6b4325177393e01b9c", null ],
+      [ "MatchAny", "de/d3d/a03515.html#abd60910b52e9fd2a0b8f4b030183f02cae0760d67b3b4ae87e8f3f00540ed5fc5", null ]
+    ] ],
     [ "SpellCooldownFlags", "de/d3d/a03515.html#a7cf8dcf8ef7984bd27584b93d9fac4e3", [
       [ "SPELL_COOLDOWN_FLAG_NONE", "de/d3d/a03515.html#a7cf8dcf8ef7984bd27584b93d9fac4e3a91b5375b6d01dcf322150126fb2018ae", null ],
       [ "SPELL_COOLDOWN_FLAG_INCLUDE_GCD", "de/d3d/a03515.html#a7cf8dcf8ef7984bd27584b93d9fac4e3a663e093617d37a13962555e10c530187", null ],

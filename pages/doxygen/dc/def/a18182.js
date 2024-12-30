@@ -1,7 +1,6 @@
 var a18182 =
 [
-    [ "npc_valithria_portalAI", "dc/def/a18182.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "dc/def/a18182.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "dc/def/a18182.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "dc/def/a18182.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "npc_valithria_portalAI", "d1/db3/a18186.html", "d1/db3/a18186" ],
+    [ "npc_valithria_portal", "dc/def/a18182.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
+    [ "GetAI", "dc/def/a18182.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
 ];

@@ -1,6 +1,6 @@
 var a19266 =
 [
-    [ "boss_maiden_of_griefAI", "da/da3/a19270.html", "da/da3/a19270" ],
-    [ "boss_maiden_of_grief", "d6/d4c/a19266.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
-    [ "GetAI", "d6/d4c/a19266.html#af8d2e6392a0c73add801910945b2558e", null ]
+    [ "CalculateDamage", "d6/d4c/a19266.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "d6/d4c/a19266.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "d6/d4c/a19266.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

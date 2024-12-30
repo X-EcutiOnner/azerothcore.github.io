@@ -596,9 +596,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa06070_html_a7a708f334e3ff40b7e1bbdfbff7ba765"><div class="ttname"><a href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">CreatureAI::scheduler</a></div><div class="ttdeci">TaskScheduler scheduler</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:75</div></div>
 <div class="ttc" id="aa06114_html"><div class="ttname"><a href="../../de/d8c/a06114.html">ScriptedAI</a></div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:190</div></div>
 <div class="ttc" id="aa06114_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:280</div></div>
-<div class="ttc" id="aa08598_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../d4/d46/a08598.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:701</div></div>
+<div class="ttc" id="aa08598_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../d4/d46/a08598.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:707</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00701">Unit::HasUnitState()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, <a class="el" href="../../#l00197">TaskScheduler::SetValidator()</a>, and <a class="el" href="../../#l00185">UNIT_STATE_CASTING</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00707">Unit::HasUnitState()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, <a class="el" href="../../#l00197">TaskScheduler::SetValidator()</a>, and <a class="el" href="../../#l00185">UNIT_STATE_CASTING</a>.</p>
 
 </div>
 </div>
@@ -635,11 +635,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  594</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a8d910c36ac5d61171ee5ddaeb696292c">Attack</a>(who, <span class="keyword">true</span>))</div>
 <div class="line"><span class="lineno">  595</span>            <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d8/dc2/a09730.html#a3ff14061961bcc5cf1d34842683d90ac">MoveChase</a>(who, 25.0f);</div>
 <div class="line"><span class="lineno">  596</span>    }</div>
-<div class="ttc" id="aa08598_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../d4/d46/a08598.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition:</b> Unit.h:1620</div></div>
-<div class="ttc" id="aa08598_html_a8d910c36ac5d61171ee5ddaeb696292c"><div class="ttname"><a href="../../d4/d46/a08598.html#a8d910c36ac5d61171ee5ddaeb696292c">Unit::Attack</a></div><div class="ttdeci">bool Attack(Unit *victim, bool meleeAttack)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10272</div></div>
+<div class="ttc" id="aa08598_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../d4/d46/a08598.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition:</b> Unit.h:1670</div></div>
+<div class="ttc" id="aa08598_html_a8d910c36ac5d61171ee5ddaeb696292c"><div class="ttname"><a href="../../d4/d46/a08598.html#a8d910c36ac5d61171ee5ddaeb696292c">Unit::Attack</a></div><div class="ttdeci">bool Attack(Unit *victim, bool meleeAttack)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10295</div></div>
 <div class="ttc" id="aa09730_html_a3ff14061961bcc5cf1d34842683d90ac"><div class="ttname"><a href="../../d8/dc2/a09730.html#a3ff14061961bcc5cf1d34842683d90ac">MotionMaster::MoveChase</a></div><div class="ttdeci">void MoveChase(Unit *target, std::optional&lt; ChaseRange &gt; dist={}, std::optional&lt; ChaseAngle &gt; angle={})</div><div class="ttdoc">Force the unit to chase this target. Doesn't work with UNIT_FLAG_DISABLE_MOVE.</div><div class="ttdef"><b>Definition:</b> MotionMaster.cpp:313</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l10272">Unit::Attack()</a>, <a class="el" href="../../#l01620">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00313">MotionMaster::MoveChase()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l10295">Unit::Attack()</a>, <a class="el" href="../../#l01670">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00313">MotionMaster::MoveChase()</a>.</p>
 
 </div>
 </div>
@@ -700,7 +700,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa08294_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../d8/d21/a08294.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition:</b> Position.h:116</div></div>
 <div class="ttc" id="aa09730_html_acd2899e1663e5b925c27df72288eafc9"><div class="ttname"><a href="../../d8/dc2/a09730.html#acd2899e1663e5b925c27df72288eafc9">MotionMaster::MovePath</a></div><div class="ttdeci">void MovePath(uint32 path_id, bool repeatable)</div><div class="ttdoc">Move the unit following a specific path. Doesn't work with UNIT_FLAG_DISABLE_MOVE.</div><div class="ttdef"><b>Definition:</b> MotionMaster.cpp:852</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00037">DATA_ALLIANCE_RETREAT</a>, <a class="el" href="../../#l00034">DATA_AZGALOR</a>, <a class="el" href="../../#l00038">DATA_HORDE_RETREAT</a>, <a class="el" href="../../#l00033">DATA_KAZROGAL</a>, <a class="el" href="../../#l00180">GARGOYLE_PATH_FORTRESS_1</a>, <a class="el" href="../../#l00182">GARGOYLE_PATH_FORTRESS_3</a>, <a class="el" href="../../#l00177">GARGOYLE_PATH_TROLL_CAMP_1</a>, <a class="el" href="../../#l00179">GARGOYLE_PATH_TROLL_CAMP_3</a>, <a class="el" href="../../#l01620">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00116">Position::GetPositionX()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00852">MotionMaster::MovePath()</a>, <a class="el" href="../../#l01094">WorldObject::setActive()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00037">DATA_ALLIANCE_RETREAT</a>, <a class="el" href="../../#l00034">DATA_AZGALOR</a>, <a class="el" href="../../#l00038">DATA_HORDE_RETREAT</a>, <a class="el" href="../../#l00033">DATA_KAZROGAL</a>, <a class="el" href="../../#l00180">GARGOYLE_PATH_FORTRESS_1</a>, <a class="el" href="../../#l00182">GARGOYLE_PATH_FORTRESS_3</a>, <a class="el" href="../../#l00177">GARGOYLE_PATH_TROLL_CAMP_1</a>, <a class="el" href="../../#l00179">GARGOYLE_PATH_TROLL_CAMP_3</a>, <a class="el" href="../../#l01670">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00116">Position::GetPositionX()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00852">MotionMaster::MovePath()</a>, <a class="el" href="../../#l01094">WorldObject::setActive()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
 </div>
 </div>
@@ -783,7 +783,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa05382_html_ac4cfbe963d7e9335f6404666a6b95bad"><div class="ttname"><a href="../../d3/d73/a05382.html#ac4cfbe963d7e9335f6404666a6b95bad">EventProcessor::AddEventAtOffset</a></div><div class="ttdeci">void AddEventAtOffset(BasicEvent *event, Milliseconds offset)</div><div class="ttdef"><b>Definition:</b> EventProcessor.h:107</div></div>
 <div class="ttc" id="aa08250_html_ab963446488123d34f39a32587d9720a6"><div class="ttname"><a href="../../de/d0d/a08250.html#ab963446488123d34f39a32587d9720a6">WorldObject::m_Events</a></div><div class="ttdeci">EventProcessor m_Events</div><div class="ttdef"><b>Definition:</b> Object.h:635</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00107">EventProcessor::AddEventAtOffset()</a>, <a class="el" href="../../#l01620">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00635">WorldObject::m_Events</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00107">EventProcessor::AddEventAtOffset()</a>, <a class="el" href="../../#l01670">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00635">WorldObject::m_Events</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
 
 </div>
 </div>
@@ -868,7 +868,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/de8/a14382.html">npc_hyjal_gargoyle</a></li>
-    <li class="footer">Generated on Mon Dec 23 2024 20:43:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Dec 30 2024 20:43:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>
