@@ -1,5 +1,6 @@
 var a20026 =
 [
-    [ "achievement_ignis_shattered", "de/dda/a20026.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "de/dda/a20026.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "boss_ignisAI", "d2/db3/a20030.html", "d2/db3/a20030" ],
+    [ "boss_ignis", "de/dda/a20026.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
+    [ "GetAI", "de/dda/a20026.html#ac11ff148e9cbc985875f859268a3de01", null ]
 ];

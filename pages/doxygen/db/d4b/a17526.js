@@ -1,6 +1,7 @@
 var a17526 =
 [
-    [ "UnboundPlagueTargetSelector", "db/d4b/a17526.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "db/d4b/a17526.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "db/d4b/a17526.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "HandleSpikes", "db/d4b/a17526.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "db/d4b/a17526.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "db/d4b/a17526.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "db/d4b/a17526.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

@@ -1,7 +1,6 @@
 var a13958 =
 [
-    [ "HandleScriptEffect", "d8/d98/a13958.html#ae758c224878aebdde0124b5d4ec902a5", null ],
-    [ "PrepareSpellScript", "d8/d98/a13958.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
-    [ "Register", "d8/d98/a13958.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
-    [ "Validate", "d8/d98/a13958.html#a56f71954e122f651c6e2ec68453e16cc", null ]
+    [ "npc_direbrew_antagonist", "d8/d98/a13958.html#a30fed4e6888d98af576dea8e13c510d3", null ],
+    [ "DoAction", "d8/d98/a13958.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
+    [ "JustEngagedWith", "d8/d98/a13958.html#aaf54b03d66d726901c289ff28d362787", null ]
 ];

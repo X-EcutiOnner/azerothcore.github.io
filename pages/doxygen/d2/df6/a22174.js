@@ -1,7 +1,6 @@
 var a22174 =
 [
-    [ "npc_storm_cloudAI", "d2/df6/a22174.html#aa4dd9409cd74f3c2c878974715e43394", null ],
-    [ "JustRespawned", "d2/df6/a22174.html#ad0f99362f7ab506b322b6d75890881c1", null ],
-    [ "Reset", "d2/df6/a22174.html#a99654ac86502e3ac2f899082269ccb01", null ],
-    [ "SpellHit", "d2/df6/a22174.html#ac51313cec4d76216f3c716d988fc4857", null ]
+    [ "npc_released_offspring_harkoaAI", "d2/df6/a22174.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "d2/df6/a22174.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "d2/df6/a22174.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

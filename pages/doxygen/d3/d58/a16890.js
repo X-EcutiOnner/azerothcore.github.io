@@ -1,6 +1,7 @@
 var a16890 =
 [
-    [ "boss_gal_darahAI", "dd/d63/a16894.html", "dd/d63/a16894" ],
-    [ "boss_gal_darah", "d3/d58/a16890.html#a687bb98f9de9cd838c57511dc6b3d086", null ],
-    [ "GetAI", "d3/d58/a16890.html#a8f709568f5a06265056571061ff3a26b", null ]
+    [ "HandleDummy", "d3/d58/a16890.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "d3/d58/a16890.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "d3/d58/a16890.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "d3/d58/a16890.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

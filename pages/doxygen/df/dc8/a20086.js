@@ -1,5 +1,6 @@
 var a20086 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "df/dc8/a20086.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "df/dc8/a20086.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "OnRemoveStun", "df/dc8/a20086.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
+    [ "PrepareAuraScript", "df/dc8/a20086.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
+    [ "Register", "df/dc8/a20086.html#a3166cfcd2acdcd4460217503d4008367", null ]
 ];

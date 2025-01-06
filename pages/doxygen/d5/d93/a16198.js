@@ -1,6 +1,7 @@
 var a16198 =
 [
-    [ "npc_toc_pet_hunterAI", "df/dea/a16202.html", "df/dea/a16202" ],
-    [ "npc_toc_pet_hunter", "d5/d93/a16198.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
-    [ "GetAI", "d5/d93/a16198.html#a9febc3086b0627324277f45d49cdd03f", null ]
+    [ "npc_toc_enh_shamanAI", "d5/d93/a16198.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
+    [ "myCanCast", "d5/d93/a16198.html#a8a38da4063a22361b25835a67f14ff52", null ],
+    [ "UpdateAI", "d5/d93/a16198.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
+    [ "events", "d5/d93/a16198.html#adec973540bf3b046f54547fb845c06b1", null ]
 ];

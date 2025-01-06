@@ -1,6 +1,6 @@
 var a17626 =
 [
-    [ "OnRemove", "d6/dc9/a17626.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
-    [ "PrepareAuraScript", "d6/dc9/a17626.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
-    [ "Register", "d6/dc9/a17626.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
+    [ "HandleScript", "d6/dc9/a17626.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
+    [ "PrepareSpellScript", "d6/dc9/a17626.html#a50560d754709e6b9ec6863142c1ffce3", null ],
+    [ "Register", "d6/dc9/a17626.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
 ];

@@ -1,6 +1,5 @@
 var a24078 =
 [
-    [ "npc_pet_dk_dancing_rune_weaponAI", "d9/d49/a24082.html", "d9/d49/a24082" ],
-    [ "npc_pet_dk_dancing_rune_weapon", "d6/df6/a24078.html#aaa0881509c2842d6c0442884d0947e28", null ],
-    [ "GetAI", "d6/df6/a24078.html#aae11c76fbcf729f44136c53b2b3e0982", null ]
+    [ "npc_pet_dk_ghoulAI", "d6/df6/a24078.html#a7e747ba9e709eb532b0c16c8a1c1763a", null ],
+    [ "JustDied", "d6/df6/a24078.html#a7d964fafeb0a7746a7749a9e0eb93080", null ]
 ];

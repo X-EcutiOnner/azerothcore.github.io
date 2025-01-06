@@ -1,6 +1,14 @@
 var a15726 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "d0/d7a/a15730.html", "d0/d7a/a15730" ],
-    [ "npc_baltharus_the_warborn_clone", "d4/d90/a15726.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "d4/d90/a15726.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d4/d90/a15726.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
+    [ "CheckAchievementCriteriaMeet", "d4/d90/a15726.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
+    [ "DoAction", "d4/d90/a15726.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
+    [ "GetGuidData", "d4/d90/a15726.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "OnCreatureCreate", "d4/d90/a15726.html#aa0fd6fae9a274e483765c0b5c1ff7ba3", null ],
+    [ "m_uiPortalGUID", "d4/d90/a15726.html#a166db22fd409d0387085053852e5ad30", null ],
+    [ "m_uiSartharionGUID", "d4/d90/a15726.html#a17b8e9a050eb6302258119c3b4f5f1bf", null ],
+    [ "m_uiShadronGUID", "d4/d90/a15726.html#a5c6a46069a87340f9e8d5e4830b8a2ed", null ],
+    [ "m_uiTenebronGUID", "d4/d90/a15726.html#afc7daf2b0eb18fa999ff3dae42fc4da2", null ],
+    [ "m_uiVesperonGUID", "d4/d90/a15726.html#a7408fc1c0d61c7db01bdd4f517080139", null ],
+    [ "portalCount", "d4/d90/a15726.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

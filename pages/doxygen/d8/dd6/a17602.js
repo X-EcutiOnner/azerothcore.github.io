@@ -1,6 +1,7 @@
 var a17602 =
 [
-    [ "HandlePeriodic", "d8/dd6/a17602.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
-    [ "PrepareAuraScript", "d8/dd6/a17602.html#a5d855d79247dff6f949a5e099abb9352", null ],
-    [ "Register", "d8/dd6/a17602.html#ae797de0ed29b3ca179c07d759b469228", null ]
+    [ "HandleExtraEffect", "d8/dd6/a17602.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "d8/dd6/a17602.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "d8/dd6/a17602.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "d8/dd6/a17602.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

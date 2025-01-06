@@ -1,5 +1,6 @@
 var a21350 =
 [
-    [ "npc_steam_powered_auctioneerAI", "da/dfc/a21350.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "da/dfc/a21350.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_counselor_talbotAI", "db/df9/a21354.html", "db/df9/a21354" ],
+    [ "npc_counselor_talbot", "da/dfc/a21350.html#a9223380bb78afeda617482bea0a3110c", null ],
+    [ "GetAI", "da/dfc/a21350.html#a3debd13352146a247d635042ecbfa155", null ]
 ];

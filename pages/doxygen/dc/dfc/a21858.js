@@ -1,6 +1,6 @@
 var a21858 =
 [
-    [ "npc_mcmanus", "dc/dfc/a21858.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "dc/dfc/a21858.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "dc/dfc/a21858.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "HandleHealPct", "dc/dfc/a21858.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "dc/dfc/a21858.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "dc/dfc/a21858.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

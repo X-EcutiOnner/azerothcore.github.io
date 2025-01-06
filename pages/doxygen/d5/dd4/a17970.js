@@ -1,6 +1,11 @@
 var a17970 =
 [
-    [ "npc_icc_ice_sphereAI", "d5/d0e/a17974.html", "d5/d0e/a17974" ],
-    [ "npc_icc_ice_sphere", "d5/dd4/a17970.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
-    [ "GetAI", "d5/dd4/a17970.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
+    [ "AddMissingStack", "d5/dd4/a17970.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "d5/dd4/a17970.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "d5/dd4/a17970.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "d5/dd4/a17970.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "d5/dd4/a17970.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "d5/dd4/a17970.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "d5/dd4/a17970.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "d5/dd4/a17970.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

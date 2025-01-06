@@ -1,7 +1,7 @@
 var a24198 =
 [
-    [ "HandleEffectApply", "df/d6c/a24198.html#a9923e38a2b5999d932d85be17a50ac83", null ],
-    [ "HandleEffectRemove", "df/d6c/a24198.html#a4c1f611b4fd0cf33f654d59e783db32a", null ],
-    [ "PrepareAuraScript", "df/d6c/a24198.html#a105df22901477c34757e62a0305006d4", null ],
-    [ "Register", "df/d6c/a24198.html#a16f2daff28dc07f2cac8d53f4813909f", null ]
+    [ "CheckCast", "df/d6c/a24198.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
+    [ "HandleDummy", "df/d6c/a24198.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
+    [ "PrepareSpellScript", "df/d6c/a24198.html#a465da282630352a289d5daae7ccb1d01", null ],
+    [ "Register", "df/d6c/a24198.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
 ];

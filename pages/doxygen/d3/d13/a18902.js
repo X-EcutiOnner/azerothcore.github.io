@@ -1,6 +1,6 @@
 var a18902 =
 [
-    [ "boss_naxxramas_miscAI", "df/df6/a18906.html", "df/df6/a18906" ],
-    [ "boss_naxxramas_misc", "d3/d13/a18902.html#a9cbca6381ba430739918064d5556b8fb", null ],
-    [ "GetAI", "d3/d13/a18902.html#a2972b551be161560b6df00e2105f2ce4", null ]
+    [ "npc_teslaAI", "df/df6/a18906.html", "df/df6/a18906" ],
+    [ "npc_tesla", "d3/d13/a18902.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "d3/d13/a18902.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

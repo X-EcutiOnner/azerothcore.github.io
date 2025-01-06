@@ -1,6 +1,6 @@
 var a21630 =
 [
-    [ "CheckRequirement", "d1/d10/a21630.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d1/d10/a21630.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d1/d10/a21630.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "npc_tallhorn_stagAI", "d4/dff/a21634.html", "d4/dff/a21634" ],
+    [ "npc_tallhorn_stag", "d1/d10/a21630.html#aff7f23376c27312894c9a042f6a0f848", null ],
+    [ "GetAI", "d1/d10/a21630.html#a3d993542271c80982adcee9a9d60e46b", null ]
 ];

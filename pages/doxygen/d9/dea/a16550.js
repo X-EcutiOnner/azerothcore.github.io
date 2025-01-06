@@ -1,6 +1,6 @@
 var a16550 =
 [
-    [ "npc_ghostly_priestAI", "de/dec/a16554.html", "de/dec/a16554" ],
-    [ "npc_ghostly_priest", "d9/dea/a16550.html#a7c03bb327cfc65f4df515969da482ddb", null ],
-    [ "GetAI", "d9/dea/a16550.html#a0fab76345c5459efcedff02123e4fc8d", null ]
+    [ "boss_marwynAI", "de/dec/a16554.html", "de/dec/a16554" ],
+    [ "boss_marwyn", "d9/dea/a16550.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
+    [ "GetAI", "d9/dea/a16550.html#af1c83878d2121163994bc327ae8e04f7", null ]
 ];

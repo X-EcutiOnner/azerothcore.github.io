@@ -1,6 +1,6 @@
 var a18298 =
 [
-    [ "npc_frost_freeze_trapAI", "dc/d22/a18302.html", "dc/d22/a18302" ],
-    [ "npc_frost_freeze_trap", "d3/d99/a18298.html#ac58ed2598fd4250f220208a91343f9b8", null ],
-    [ "GetAI", "d3/d99/a18298.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
+    [ "CaptainSurviveTalk", "d3/d99/a18298.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "d3/d99/a18298.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "d3/d99/a18298.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

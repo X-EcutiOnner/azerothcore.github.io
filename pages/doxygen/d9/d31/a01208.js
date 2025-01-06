@@ -1,11 +1,11 @@
 var a01208 =
 [
-    [ "boss_ossirian", "df/d35/a14702.html", "df/d35/a14702" ],
-    [ "go_ossirian_crystal", "d6/d68/a14706.html", "d6/d68/a14706" ],
-    [ "go_ossirian_crystal::go_ossirian_crystalAI", "d4/de3/a14710.html", "d4/de3/a14710" ],
-    [ "npc_anubisath_guardian", "da/d7a/a14714.html", "da/d7a/a14714" ],
-    [ "spell_crystal_weakness", "d6/d98/a14718.html", "d6/d98/a14718" ],
-    [ "spell_aq_shadow_storm", "d5/d9c/a14722.html", "d5/d9c/a14722" ],
+    [ "boss_ossirian", "d5/d9c/a14722.html", "d5/d9c/a14722" ],
+    [ "go_ossirian_crystal", "dd/d2d/a14726.html", "dd/d2d/a14726" ],
+    [ "go_ossirian_crystal::go_ossirian_crystalAI", "d4/de9/a14730.html", "d4/de9/a14730" ],
+    [ "npc_anubisath_guardian", "de/db3/a14734.html", "de/db3/a14734" ],
+    [ "spell_crystal_weakness", "d3/de6/a14738.html", "d3/de6/a14738" ],
+    [ "spell_aq_shadow_storm", "d6/da2/a14742.html", "d6/da2/a14742" ],
     [ "Actions", "d9/d31/a01208.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d4/dd0/a03749.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d4/dd0/a03749.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -1436,6 +1436,7 @@ var a01208 =
       [ "ADDITIONAL_CLASS_SPRIEST", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92706eb33a08d2af442625bec27cdf3c", null ],
       [ "AURA_SHADOW_FORM", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad3a76f7068948a8105e9c5001dbb41d2", null ],
       [ "GROUP_CLASS_ABILITY", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8aaab438cd70047fa9299e78971c4f4", null ],
+      [ "GROUP_DRAIN_POWER", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afec21b3ce2b83056ea6ccf2336110b3d", null ],
       [ "MAX_BOMB_COUNT", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a55b3541c734c6bf371563c020ea4918e", null ],
       [ "GROUP_ENRAGE", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a98519d98f2763476413ba8ba9b1aa780", null ],
       [ "GROUP_HATCHING", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad004964bc87e3ee20b6bd3fcb2411521", null ],
@@ -2905,6 +2906,7 @@ var a01208 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

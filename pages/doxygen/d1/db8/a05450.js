@@ -29,7 +29,7 @@ var a05450 =
     [ "Dispatch", "d1/db8/a05450.html#a1a4145dfbe6e4914a05ddfe6895a2272", null ],
     [ "EmptyCallback", "d1/db8/a05450.html#afa0f29cd0a38f5af81b8cd2888c81fa1", null ],
     [ "EmptyValidator", "d1/db8/a05450.html#aeabbb2b8f0438a81f10bf650d5c8a7ee", null ],
-    [ "GetNextGroupOcurrence", "d1/db8/a05450.html#ac7d32b064bf3da08af43a63398895dcb", null ],
+    [ "GetNextGroupOccurrence", "d1/db8/a05450.html#a8795b39f795f7d3ed13d21fcce3326c2", null ],
     [ "InsertTask", "d1/db8/a05450.html#ab507424a3a38170bb67f1a44d52d5e04", null ],
     [ "IsGroupScheduled", "d1/db8/a05450.html#a34a5818482e3b5c4dd804c559badc988", null ],
     [ "operator=", "d1/db8/a05450.html#a9d138ac49b394ad151661465e4180de6", null ],

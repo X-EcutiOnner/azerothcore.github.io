@@ -1,6 +1,6 @@
 var a18714 =
 [
-    [ "npc_gothik_triggerAI", "d1/d73/a18718.html", "d1/d73/a18718" ],
-    [ "npc_gothik_trigger", "d9/da2/a18714.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
-    [ "GetAI", "d9/da2/a18714.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
+    [ "NotOnSameSide", "d9/da2/a18714.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
+    [ "operator()", "d9/da2/a18714.html#a59ea48b9633049180ec62d3616fe4dea", null ],
+    [ "m_inLiveSide", "d9/da2/a18714.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
 ];

@@ -1,9 +1,6 @@
 var a17098 =
 [
-    [ "CheckTarget", "d8/d97/a17098.html#a43fc6a16aca217ef043fa34a58391357", null ],
-    [ "HandlePresence", "d8/d97/a17098.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
-    [ "OnCast", "d8/d97/a17098.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
-    [ "PrepareSpellScript", "d8/d97/a17098.html#abe559b32aa82f19abb0a6d664b75c748", null ],
-    [ "Register", "d8/d97/a17098.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
-    [ "Validate", "d8/d97/a17098.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
+    [ "FilterTargets", "d8/d97/a17098.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
+    [ "PrepareSpellScript", "d8/d97/a17098.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
+    [ "Register", "d8/d97/a17098.html#add40d7731b07b30b595f76f7d4e983f4", null ]
 ];

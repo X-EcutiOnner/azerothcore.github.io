@@ -1,5 +1,5 @@
 var a23078 =
 [
-    [ "go_main_chambers_access_panel", "d2/d37/a23078.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d2/d37/a23078.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "at_quagmirran_lair", "d2/d37/a23078.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
+    [ "OnTrigger", "d2/d37/a23078.html#aa0aab42516efaf842923b8a820942ac4", null ]
 ];

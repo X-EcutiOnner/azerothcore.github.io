@@ -1,10 +1,6 @@
 var a17446 =
 [
-    [ "npc_cult_adherentAI", "de/d88/a17446.html#a1ea249a25b188a949213788614f4049e", null ],
-    [ "JustEngagedWith", "de/d88/a17446.html#ab97e0177fbc9fc7135dc7a7de0e6e31a", null ],
-    [ "Reset", "de/d88/a17446.html#ab0b54e45468b5ebed0194c441cce434e", null ],
-    [ "SpellHit", "de/d88/a17446.html#ab0d83d53a7f0d14cb15e133e426f2f02", null ],
-    [ "UpdateAI", "de/d88/a17446.html#ad89638cf5859615ba2e3a0deb6701751", null ],
-    [ "_instance", "de/d88/a17446.html#a970e99fba28d6e3e0cb759c87a866273", null ],
-    [ "events", "de/d88/a17446.html#aa53025d3fe95086dc0c23d5d563df7c4", null ]
+    [ "boss_lady_deathwhisperAI", "db/d39/a17450.html", "db/d39/a17450" ],
+    [ "boss_lady_deathwhisper", "de/d88/a17446.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "de/d88/a17446.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

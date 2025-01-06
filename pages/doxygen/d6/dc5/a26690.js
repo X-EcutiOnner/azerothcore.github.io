@@ -1,5 +1,7 @@
 var a26690 =
 [
-    [ "achievement_bg_ic_resource_glut", "d6/dc5/a26690.html#ace247962dccee2601ceade593b0874d4", null ],
-    [ "OnCheck", "d6/dc5/a26690.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
+    [ "CheckProc", "d6/dc5/a26690.html#a957f8837b5613a3bfd8200ded3529c54", null ],
+    [ "HandleEffectProc", "d6/dc5/a26690.html#a54810a897e535558d060119e3de6537b", null ],
+    [ "PrepareAuraScript", "d6/dc5/a26690.html#a37950bfd846e1c2c550a108461941a26", null ],
+    [ "Register", "d6/dc5/a26690.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
 ];

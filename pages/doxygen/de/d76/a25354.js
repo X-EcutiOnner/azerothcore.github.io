@@ -1,6 +1,7 @@
 var a25354 =
 [
-    [ "HandleScript", "de/d76/a25354.html#a9309c0e435240bc656b3bfde2d923a9a", null ],
-    [ "PrepareSpellScript", "de/d76/a25354.html#a74dc9d9a57ed410b3c0d690418bfb4eb", null ],
-    [ "Register", "de/d76/a25354.html#a8769cbce815d1f1c457979743e10535c", null ]
+    [ "OnRemove", "de/d76/a25354.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
+    [ "PrepareAuraScript", "de/d76/a25354.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
+    [ "Register", "de/d76/a25354.html#a35a8adc4944fc2333488e72498f6d252", null ],
+    [ "Validate", "de/d76/a25354.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
 ];

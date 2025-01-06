@@ -1,6 +1,5 @@
 var a26914 =
 [
-    [ "go_flamesAI", "d7/d4a/a26914.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d7/d4a/a26914.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d7/d4a/a26914.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "go_ethereum_stasis", "d7/d4a/a26914.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "d7/d4a/a26914.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

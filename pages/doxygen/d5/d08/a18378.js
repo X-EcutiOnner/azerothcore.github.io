@@ -1,6 +1,6 @@
 var a18378 =
 [
-    [ "npc_arthas_teleport_visualAI", "d3/deb/a18382.html", "d3/deb/a18382" ],
-    [ "npc_arthas_teleport_visual", "d5/d08/a18378.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
-    [ "GetAI", "d5/d08/a18378.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
+    [ "npc_frostwing_vrykulAI", "d3/deb/a18382.html", "d3/deb/a18382" ],
+    [ "npc_frostwing_vrykul", "d5/d08/a18378.html#ab915aa094ddebd9201a1c626e6427409", null ],
+    [ "GetAI", "d5/d08/a18378.html#a11678e59b6db9a41c7b6a575339995fd", null ]
 ];

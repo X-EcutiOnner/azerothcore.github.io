@@ -1,7 +1,14 @@
 var a24934 =
 [
-    [ "CalculateAmount", "d2/d9b/a24934.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
-    [ "Load", "d2/d9b/a24934.html#a777803a61286e0eba31246d4771630df", null ],
-    [ "PrepareAuraScript", "d2/d9b/a24934.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
-    [ "Register", "d2/d9b/a24934.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
+    [ "spell_gen_mount", "d2/d9b/a24934.html#aae8c5c328dda0668bf8cdabc2c9cd29f", null ],
+    [ "HandleMount", "d2/d9b/a24934.html#a81085b5efd8d9bd7c82ebb1cf6604793", null ],
+    [ "PrepareSpellScript", "d2/d9b/a24934.html#a49e2046d30352a6e22dab2530e909fa7", null ],
+    [ "Register", "d2/d9b/a24934.html#a8175ecc0c407d5c4646f038d7b62e92b", null ],
+    [ "Validate", "d2/d9b/a24934.html#accef27fc13ff34af52860ad6ac62e7f3", null ],
+    [ "_mount0", "d2/d9b/a24934.html#abd6347074186b7c47ac5a2c760f4db33", null ],
+    [ "_mount100", "d2/d9b/a24934.html#a5e56853140f188ff1babc61c507f8300", null ],
+    [ "_mount150", "d2/d9b/a24934.html#a1237697623e4831c25efcde1ab370031", null ],
+    [ "_mount280", "d2/d9b/a24934.html#aa9d0a936795d06dd78ef3c4d5aaf0320", null ],
+    [ "_mount310", "d2/d9b/a24934.html#ac06b80d14cc106281c3e6bf3f6a5c727", null ],
+    [ "_mount60", "d2/d9b/a24934.html#a53ce7d1b5a39cce2bede77aad647dc7e", null ]
 ];

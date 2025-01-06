@@ -1,14 +1,9 @@
 var a20042 =
 [
-    [ "boss_kologarn_armsAI", "d8/d63/a20042.html#aa647b59e1bb0abb8f71e81700063624d", null ],
-    [ "AttackStart", "d8/d63/a20042.html#ad8e25495a6559b0c4f63f0c81a4af044", null ],
-    [ "DamageTaken", "d8/d63/a20042.html#aebc4f20f398a884d5cf911746048066e", null ],
-    [ "EnterEvadeMode", "d8/d63/a20042.html#a1d39d05719d6e7730bd3d247ec1f56a7", null ],
-    [ "JustDied", "d8/d63/a20042.html#a224f30aa4703f82e1ff9439b5247398a", null ],
-    [ "MoveInLineOfSight", "d8/d63/a20042.html#a7f8167fe8edc85fc93143a8e8945bed4", null ],
-    [ "PassengerBoarded", "d8/d63/a20042.html#a105880e1f201db0d4130611f5b99d730", null ],
-    [ "Reset", "d8/d63/a20042.html#a8eec8810cdb52bacdd0c9165993dd3c2", null ],
-    [ "UpdateAI", "d8/d63/a20042.html#ad4f392b7aa918d7f038749db4ffd72b8", null ],
-    [ "_combatStarted", "d8/d63/a20042.html#a016c5497988d7ddd9f0744e83f7bf1d3", null ],
-    [ "_damageDone", "d8/d63/a20042.html#af0ad823bc5b02282d5d525d135ee3118", null ]
+    [ "HandleEffectPeriodic", "d8/d63/a20042.html#adc6e83abb52a21528c07a1d989818dcf", null ],
+    [ "OnApply", "d8/d63/a20042.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
+    [ "OnRemove", "d8/d63/a20042.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
+    [ "PrepareAuraScript", "d8/d63/a20042.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
+    [ "Register", "d8/d63/a20042.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
+    [ "Validate", "d8/d63/a20042.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
 ];

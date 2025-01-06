@@ -1,8 +1,9 @@
 var a25818 =
 [
-    [ "Load", "d9/dc7/a25818.html#a7662d85a5469c20edf6d2eefca820db3", null ],
-    [ "PrepareAuraScript", "d9/dc7/a25818.html#a252bd975a7639eab4e151249db974b7c", null ],
-    [ "Register", "d9/dc7/a25818.html#a51723a22f1062f44e8eb6848e1398595", null ],
-    [ "Split", "d9/dc7/a25818.html#a08e982eae6030fdc679663bfd38bca47", null ],
-    [ "remainingAmount", "d9/dc7/a25818.html#afaab88988769ddc720deb44f06de3d7d", null ]
+    [ "CountTargets", "d9/dc7/a25818.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
+    [ "HandleDummy", "d9/dc7/a25818.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
+    [ "PrepareSpellScript", "d9/dc7/a25818.html#adfb7e3fbb52aa349573b95c457823900", null ],
+    [ "Register", "d9/dc7/a25818.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
+    [ "Validate", "d9/dc7/a25818.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
+    [ "_targetCount", "d9/dc7/a25818.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
 ];

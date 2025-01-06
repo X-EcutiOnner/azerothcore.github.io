@@ -1,6 +1,7 @@
 var a24630 =
 [
-    [ "CheckLevel", "dc/db1/a24630.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
-    [ "PrepareSpellScript", "dc/db1/a24630.html#abc2bcce83810661ab462f56594066df3", null ],
-    [ "Register", "dc/db1/a24630.html#add6731563bd9a26d8f286bd29ffc8709", null ]
+    [ "CheckProc", "dc/db1/a24630.html#ab376febda606dba5e9f7f5639f867859", null ],
+    [ "HandleProc", "dc/db1/a24630.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
+    [ "PrepareAuraScript", "dc/db1/a24630.html#a7693a86824050ff5615996d0d03d0292", null ],
+    [ "Register", "dc/db1/a24630.html#a458745913288889f687bb19a147cb0fb", null ]
 ];

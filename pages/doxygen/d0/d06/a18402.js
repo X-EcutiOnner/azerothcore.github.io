@@ -1,7 +1,8 @@
 var a18402 =
 [
-    [ "HandleQuestComplete", "d0/d06/a18402.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
-    [ "HandleScript", "d0/d06/a18402.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
-    [ "PrepareSpellScript", "d0/d06/a18402.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
-    [ "Register", "d0/d06/a18402.html#a3258d4517cfc758080691bab429624d7", null ]
+    [ "npc_arthas_teleport_visualAI", "d0/d06/a18402.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "d0/d06/a18402.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "d0/d06/a18402.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "d0/d06/a18402.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "d0/d06/a18402.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

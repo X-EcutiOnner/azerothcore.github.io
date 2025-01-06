@@ -1,6 +1,9 @@
 var a16674 =
 [
-    [ "instance_halls_of_reflection_InstanceMapScript", "d0/dd6/a16678.html", "d0/dd6/a16678" ],
-    [ "instance_halls_of_reflection", "d2/df6/a16674.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
-    [ "GetInstanceScript", "d2/df6/a16674.html#aca27a4f654f41fe6f238c905b48285b7", null ]
+    [ "npc_hor_lumbering_abominationAI", "d2/df6/a16674.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
+    [ "JustDied", "d2/df6/a16674.html#af243a79da3028d3d66facc8a15132f78", null ],
+    [ "JustEngagedWith", "d2/df6/a16674.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
+    [ "Reset", "d2/df6/a16674.html#a4270f405bbade0028fce4df0655a1987", null ],
+    [ "UpdateAI", "d2/df6/a16674.html#a995d0f7902cb70280d1448ac7731a816", null ],
+    [ "events", "d2/df6/a16674.html#aee9063950477b50e38ec904e91882689", null ]
 ];

@@ -1,6 +1,6 @@
 var a15258 =
 [
-    [ "npc_anachronos_quest_triggerAI", "da/d02/a15262.html", "da/d02/a15262" ],
-    [ "npc_anachronos_quest_trigger", "da/d94/a15258.html#ad39871952acd3152b51820fe360f4ebd", null ],
-    [ "GetAI", "da/d94/a15258.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
+    [ "SpellId", "da/d94/a15258.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "da/d94/a15258.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "da/d94/a15258.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

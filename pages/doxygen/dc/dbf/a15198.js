@@ -1,6 +1,6 @@
 var a15198 =
 [
-    [ "npc_omenAI", "d6/d55/a15202.html", "d6/d55/a15202" ],
-    [ "npc_omen", "dc/dbf/a15198.html#aff955303a8b9741838779a59dd496f62", null ],
-    [ "GetAI", "dc/dbf/a15198.html#a8023ad3298000d9819c46f46a93166d4", null ]
+    [ "npc_bunthen_plainswind", "dc/dbf/a15198.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "dc/dbf/a15198.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "dc/dbf/a15198.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

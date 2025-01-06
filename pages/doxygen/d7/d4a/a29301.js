@@ -1,10 +1,8 @@
 var a29301 =
 [
-    [ "npc_dancing_flamesAI", "d7/d4a/a29301.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "d7/d4a/a29301.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "d7/d4a/a29301.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "d7/d4a/a29301.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "d7/d4a/a29301.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "d7/d4a/a29301.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "d7/d4a/a29301.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "DBCFile", "d3/d84/a28298.html", "d3/d84/a28298" ],
+    [ "DBCFile::Exception", "d2/db2/a28302.html", "d2/db2/a28302" ],
+    [ "DBCFile::NotFound", "d1/d97/a28306.html", "d1/d97/a28306" ],
+    [ "DBCFile::Record", "db/d59/a28310.html", "db/d59/a28310" ],
+    [ "DBCFile::Iterator", "db/d97/a28314.html", "db/d97/a28314" ]
 ];

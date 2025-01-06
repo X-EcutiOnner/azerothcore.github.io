@@ -1,6 +1,6 @@
 var a21950 =
 [
-    [ "npc_time_lost_proto_drakeAI", "dc/dde/a21954.html", "dc/dde/a21954" ],
-    [ "npc_time_lost_proto_drake", "d2/db7/a21950.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
-    [ "GetAI", "d2/db7/a21950.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
+    [ "HandleScriptEffect", "d2/db7/a21950.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "d2/db7/a21950.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "d2/db7/a21950.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

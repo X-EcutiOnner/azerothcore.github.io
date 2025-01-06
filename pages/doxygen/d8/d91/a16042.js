@@ -1,8 +1,6 @@
 var a16042 =
 [
-    [ "npc_frost_sphereAI", "d8/d91/a16042.html#ae697a98d23d94315768dc866852b6e07", null ],
-    [ "DamageTaken", "d8/d91/a16042.html#a3960f19b456f29a33016d799809a82a8", null ],
-    [ "SpellHit", "d8/d91/a16042.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
-    [ "UpdateAI", "d8/d91/a16042.html#a4e866332045135c867f2b9ee871db0c2", null ],
-    [ "permafrostTimer", "d8/d91/a16042.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
+    [ "boss_anubarak_trialAI", "d6/db8/a16046.html", "d6/db8/a16046" ],
+    [ "boss_anubarak_trial", "d8/d91/a16042.html#a5204e33a412608b53cc155a043356d58", null ],
+    [ "GetAI", "d8/d91/a16042.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
 ];

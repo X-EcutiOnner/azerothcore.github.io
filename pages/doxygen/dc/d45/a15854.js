@@ -1,7 +1,8 @@
 var a15854 =
 [
-    [ "TwilightCutterSelector", "dc/d45/a15854.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
-    [ "operator()", "dc/d45/a15854.html#a6374425df156bdf202d53a2c73ef784c", null ],
-    [ "_caster", "dc/d45/a15854.html#a784c95ef6472e711f4200f194222d179", null ],
-    [ "_cutterCaster", "dc/d45/a15854.html#a7f713777a36a8d127c2865e4610b1288", null ]
+    [ "Load", "dc/d45/a15854.html#a55dc086667f0fe23e513608e951276ed", null ],
+    [ "Phase", "dc/d45/a15854.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
+    [ "PrepareSpellScript", "dc/d45/a15854.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
+    [ "Register", "dc/d45/a15854.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
+    [ "Validate", "dc/d45/a15854.html#a87192df547adaf3cb060155d9cf4da79", null ]
 ];

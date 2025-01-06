@@ -1,7 +1,7 @@
 var a23150 =
 [
-    [ "OnApply", "d0/daf/a23150.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "d0/daf/a23150.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "d0/daf/a23150.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "d0/daf/a23150.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "HandleScript", "d0/daf/a23150.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
+    [ "PrepareSpellScript", "d0/daf/a23150.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
+    [ "Register", "d0/daf/a23150.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
+    [ "Validate", "d0/daf/a23150.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
 ];

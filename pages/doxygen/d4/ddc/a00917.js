@@ -1,8 +1,8 @@
 var a00917 =
 [
-    [ "boss_broggok", "da/d3c/a23214.html", "da/d3c/a23214" ],
-    [ "go_broggok_lever", "dd/d36/a23218.html", "dd/d36/a23218" ],
-    [ "spell_broggok_poison_cloud", "d2/d9b/a23222.html", "d2/d9b/a23222" ],
+    [ "boss_broggok", "df/dab/a23234.html", "df/dab/a23234" ],
+    [ "go_broggok_lever", "da/df3/a23238.html", "da/df3/a23238" ],
+    [ "spell_broggok_poison_cloud", "d8/df4/a23242.html", "d8/df4/a23242" ],
     [ "Say", "d4/ddc/a00917.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "d2/d35/a02480.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "d2/d35/a02480.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],
@@ -856,6 +856,7 @@ var a00917 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

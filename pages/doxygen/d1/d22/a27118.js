@@ -1,8 +1,5 @@
 var a27118 =
 [
-    [ "trigger_periodicAI", "d1/d22/a27118.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "d1/d22/a27118.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "d1/d22/a27118.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "d1/d22/a27118.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "d1/d22/a27118.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "item_disgusting_jar", "d1/d22/a27118.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "d1/d22/a27118.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

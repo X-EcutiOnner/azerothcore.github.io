@@ -1,7 +1,6 @@
 var a14894 =
 [
-    [ "boss_glob_of_viscidus", "d5/def/a14894.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
-    [ "InitializeAI", "d5/def/a14894.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
-    [ "MovementInform", "d5/def/a14894.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
-    [ "UpdateAI", "d5/def/a14894.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
+    [ "boss_veknilash", "d5/def/a14894.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
+    [ "IAmVeklor", "d5/def/a14894.html#a454027d829b962ee0feebb6fd5687714", null ],
+    [ "JustEngagedWith", "d5/def/a14894.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
 ];

@@ -1,6 +1,9 @@
 var a22938 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d8/dfc/a22942.html", "d8/dfc/a22942" ],
-    [ "instance_serpent_shrine", "de/ddc/a22938.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "de/ddc/a22938.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "CalcPeriodic", "de/ddc/a22938.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
+    [ "HandleEffectApply", "de/ddc/a22938.html#adb983cc531fa666648bbdb432684ff1d", null ],
+    [ "HandleEffectRemove", "de/ddc/a22938.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
+    [ "OnPeriodic", "de/ddc/a22938.html#aecefab535157dbe8e42aff3b23cd685b", null ],
+    [ "PrepareAuraScript", "de/ddc/a22938.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
+    [ "Register", "de/ddc/a22938.html#a3771abcc829883ba0cbae9587adbe751", null ]
 ];

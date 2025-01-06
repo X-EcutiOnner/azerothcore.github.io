@@ -1,5 +1,5 @@
 var a27038 =
 [
-    [ "go_dragonflayer_cage", "de/dca/a27038.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
-    [ "OnGossipHello", "de/dca/a27038.html#a542530a0b84879b21a4b9982cf4300d0", null ]
+    [ "go_arcane_prison", "de/dca/a27038.html#ad73ac33d843027de0e516de8f90c45a0", null ],
+    [ "OnGossipHello", "de/dca/a27038.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
 ];

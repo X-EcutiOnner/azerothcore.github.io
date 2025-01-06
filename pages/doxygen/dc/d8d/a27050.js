@@ -1,5 +1,6 @@
 var a27050 =
 [
-    [ "go_massive_seaforium_charge", "dc/d8d/a27050.html#adae43b764f237932923cd18207e4d23c", null ],
-    [ "OnGossipHello", "dc/d8d/a27050.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
+    [ "go_soulwellAI", "dc/d5a/a27054.html", "dc/d5a/a27054" ],
+    [ "go_soulwell", "dc/d8d/a27050.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "dc/d8d/a27050.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

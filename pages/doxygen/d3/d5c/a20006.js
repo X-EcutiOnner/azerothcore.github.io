@@ -1,6 +1,5 @@
 var a20006 =
 [
-    [ "boss_ignisAI", "db/dcd/a20010.html", "db/dcd/a20010" ],
-    [ "boss_ignis", "d3/d5c/a20006.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
-    [ "GetAI", "d3/d5c/a20006.html#ac11ff148e9cbc985875f859268a3de01", null ]
+    [ "achievement_i_have_the_coolest_friends", "d3/d5c/a20006.html#a87fd2d5702fe33ee8b09042c66897636", null ],
+    [ "OnCheck", "d3/d5c/a20006.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
 ];

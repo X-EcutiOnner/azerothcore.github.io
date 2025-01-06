@@ -1,7 +1,9 @@
 var a14694 =
 [
-    [ "FilterTargets", "d7/d2c/a14694.html#a59e477333a54ec828a429d15b35d4936", null ],
-    [ "HandleScript", "d7/d2c/a14694.html#a983fe53aa52e53a45685055fde04a3b7", null ],
-    [ "PrepareSpellScript", "d7/d2c/a14694.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
-    [ "Register", "d7/d2c/a14694.html#a45ac61990990f16c98eaa7136297afc5", null ]
+    [ "npc_buru_egg", "d7/d2c/a14694.html#a6aa2896342b802caecde1c1dffcf4907", null ],
+    [ "JustDied", "d7/d2c/a14694.html#a3de169b252374f0b2daed3ecb5a11502", null ],
+    [ "JustEngagedWith", "d7/d2c/a14694.html#a8cde6848569671876a17b00d75228ebe", null ],
+    [ "JustSummoned", "d7/d2c/a14694.html#abebb96dcb3d653bddd4210da6567fb87", null ],
+    [ "UpdateAI", "d7/d2c/a14694.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
+    [ "_instance", "d7/d2c/a14694.html#a5b168226755a57368f17827e3457a0ca", null ]
 ];

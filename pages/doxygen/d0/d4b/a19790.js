@@ -1,6 +1,7 @@
 var a19790 =
 [
-    [ "boss_freya_nature_bombAI", "de/ddd/a19794.html", "de/ddd/a19794" ],
-    [ "boss_freya_nature_bomb", "d0/d4b/a19790.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
-    [ "GetAI", "d0/d4b/a19790.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
+    [ "boss_freya_lifebinderAI", "d0/d4b/a19790.html#ae421aa209690e4a2908995b6b7d322cd", null ],
+    [ "Reset", "d0/d4b/a19790.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
+    [ "UpdateAI", "d0/d4b/a19790.html#afb06c217c1012d6463e44689359eada9", null ],
+    [ "_healTimer", "d0/d4b/a19790.html#a7021d13dceb9af343f0e820cf086046e", null ]
 ];

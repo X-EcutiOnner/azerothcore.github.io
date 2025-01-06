@@ -1,6 +1,5 @@
 var a21830 =
 [
-    [ "npc_frostbrood_skytalonAI", "db/dce/a21834.html", "db/dce/a21834" ],
-    [ "npc_frostbrood_skytalon", "db/ded/a21830.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "db/ded/a21830.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "npc_guardian_pavilionAI", "db/ded/a21830.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "db/ded/a21830.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

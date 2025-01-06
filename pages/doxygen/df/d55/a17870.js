@@ -1,5 +1,6 @@
 var a17870 =
 [
-    [ "FrozenThroneResetWorker", "df/d55/a17870.html#afd21e9c1449d4e391713256e197bc92b", null ],
-    [ "operator()", "df/d55/a17870.html#a7119548d30d760ae817a87cacf712cf6", null ]
+    [ "PeriodicTick", "df/d55/a17870.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
+    [ "PrepareAuraScript", "df/d55/a17870.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
+    [ "Register", "df/d55/a17870.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
 ];

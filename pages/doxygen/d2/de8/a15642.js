@@ -1,7 +1,15 @@
 var a15642 =
 [
-    [ "OnRemove", "d2/de8/a15642.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "d2/de8/a15642.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "d2/de8/a15642.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "d2/de8/a15642.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "boss_krik_thirAI", "d2/de8/a15642.html#a92a2b2089c890901cd438c8d8ea432c7", null ],
+    [ "GetData", "d2/de8/a15642.html#adcca5f21a596ffae3c50f102c4698c4e", null ],
+    [ "JustDied", "d2/de8/a15642.html#ab4a576f9746f7ade8f6b8f8c08795433", null ],
+    [ "JustEngagedWith", "d2/de8/a15642.html#aa99c241641fc7e94412d08bebed07475", null ],
+    [ "JustSummoned", "d2/de8/a15642.html#afff556f4bc00b87b3d2a37ffbf54c919", null ],
+    [ "KilledUnit", "d2/de8/a15642.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d", null ],
+    [ "MoveInLineOfSight", "d2/de8/a15642.html#a6c72cebac0e09f66bf0a60cdc328aa4d", null ],
+    [ "Reset", "d2/de8/a15642.html#a613441fcb7bd851a03729be84d27650c", null ],
+    [ "SummonedCreatureDies", "d2/de8/a15642.html#acb7b45fbe3a736ad65b0a2556ead40ae", null ],
+    [ "UpdateAI", "d2/de8/a15642.html#ae37227df78ad9ffb9722caa0c16ffa5f", null ],
+    [ "_initTalk", "d2/de8/a15642.html#a68a4994c750979b91e46160b0cba77b4", null ],
+    [ "events2", "d2/de8/a15642.html#a8f706239d33861105a37476eecb977ec", null ]
 ];

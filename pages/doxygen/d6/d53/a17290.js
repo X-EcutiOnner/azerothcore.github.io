@@ -1,7 +1,6 @@
 var a17290 =
 [
-    [ "npc_gunship_boarding_leaderAI", "d6/d53/a17290.html#ac20099905fd6fddda2561b88cf077b77", null ],
-    [ "JustEngagedWith", "d6/d53/a17290.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
-    [ "UpdateAI", "d6/d53/a17290.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
-    [ "_events", "d6/d53/a17290.html#affb899bbaa288e72a48d5518367b023d", null ]
+    [ "npc_igb_ship_crewAI", "d9/d61/a17294.html", "d9/d61/a17294" ],
+    [ "npc_igb_ship_crew", "d6/d53/a17290.html#a5f4380aba94766a6a75b97026998b881", null ],
+    [ "GetAI", "d6/d53/a17290.html#a48955817e21a01a726b50685b467c229", null ]
 ];

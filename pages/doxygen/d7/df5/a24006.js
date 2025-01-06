@@ -1,7 +1,6 @@
 var a24006 =
 [
-    [ "HandleSendEvent", "d7/df5/a24006.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d7/df5/a24006.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d7/df5/a24006.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d7/df5/a24006.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "PrepareSpellScript", "d7/df5/a24006.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
+    [ "Register", "d7/df5/a24006.html#ac57aee08a131bcf7db11bc105f32242c", null ],
+    [ "SetDest", "d7/df5/a24006.html#a26362c4873890bb60c2526bf07058746", null ]
 ];

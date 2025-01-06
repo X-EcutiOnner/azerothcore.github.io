@@ -1,6 +1,6 @@
 var a25314 =
 [
-    [ "HandleSummon", "d0/d74/a25314.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "d0/d74/a25314.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "d0/d74/a25314.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "HandleProc", "d0/d74/a25314.html#a9a38fab6b581e9f9b4e092d7a4ecaebd", null ],
+    [ "PrepareAuraScript", "d0/d74/a25314.html#a5299aaeacead013e00e81ec7960528f8", null ],
+    [ "Register", "d0/d74/a25314.html#a3b46c5dd891d856e08cbcb9a494f2dd2", null ]
 ];

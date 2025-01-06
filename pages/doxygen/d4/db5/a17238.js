@@ -1,6 +1,6 @@
 var a17238 =
 [
-    [ "npc_gunshipAI", "df/db2/a17242.html", "df/db2/a17242" ],
-    [ "npc_gunship", "d4/db5/a17238.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
-    [ "GetAI", "d4/db5/a17238.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
+    [ "Cooldown", "d4/db5/a17238.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
+    [ "Entry", "d4/db5/a17238.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
+    [ "TargetPosition", "d4/db5/a17238.html#ac47af49622012b4ad40357cadc5214b3", null ]
 ];

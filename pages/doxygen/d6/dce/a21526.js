@@ -1,6 +1,6 @@
 var a21526 =
 [
-    [ "npc_q24545_vegard_dummyAI", "de/dd5/a21530.html", "de/dd5/a21530" ],
-    [ "npc_q24545_vegard_dummy", "d6/dce/a21526.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
-    [ "GetAI", "d6/dce/a21526.html#a201d1dec206887c26e33f795a0fd0887", null ]
+    [ "SACDeactivateEvent", "d6/dce/a21526.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
+    [ "Execute", "d6/dce/a21526.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
+    [ "_owner", "d6/dce/a21526.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
 ];

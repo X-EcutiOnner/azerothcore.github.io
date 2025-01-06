@@ -1,6 +1,7 @@
 var a18794 =
 [
-    [ "boss_maexxnaAI", "d9/d5d/a18798.html", "d9/d5d/a18798" ],
-    [ "boss_maexxna", "da/d38/a18794.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "da/d38/a18794.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "FilterTargets", "da/d38/a18794.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "da/d38/a18794.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "da/d38/a18794.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "da/d38/a18794.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

@@ -1,6 +1,7 @@
 var a15750 =
 [
-    [ "boss_general_zarithrianAI", "d2/d8f/a15754.html", "d2/d8f/a15754" ],
-    [ "boss_general_zarithrian", "df/d54/a15750.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
-    [ "GetAI", "df/d54/a15750.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "df/d54/a15750.html#aed531e61508d4d404827f47c6348a5e6", null ],
+    [ "JustEngagedWith", "df/d54/a15750.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
+    [ "UpdateAI", "df/d54/a15750.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
+    [ "_events", "df/d54/a15750.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
 ];

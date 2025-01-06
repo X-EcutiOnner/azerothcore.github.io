@@ -1,6 +1,7 @@
 var a19898 =
 [
-    [ "npc_ulduar_hodir_priestAI", "d4/dde/a19902.html", "d4/dde/a19902" ],
-    [ "npc_ulduar_hodir_priest", "df/d76/a19898.html#a30d7f1b68f9a1d10bc47288b81fc517c", null ],
-    [ "GetAI", "df/d76/a19898.html#a276046b974666c1462440a46a8096de7", null ]
+    [ "npc_ulduar_icicleAI", "df/d76/a19898.html#a258376e257fbe3c8a6c70b2585d44df1", null ],
+    [ "UpdateAI", "df/d76/a19898.html#a0edf734ae2dac7a5378b21b73e3714c8", null ],
+    [ "timer1", "df/d76/a19898.html#aa912acbe225d9056e44bc22b8d9f7473", null ],
+    [ "timer2", "df/d76/a19898.html#a82e034fc4ccb8eb92abeb72a222764c7", null ]
 ];

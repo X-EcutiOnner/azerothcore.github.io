@@ -1,10 +1,10 @@
 var a02570 =
 [
-    [ "boss_marli", "dd/d08/a13786.html", "dd/d08/a13786" ],
-    [ "npc_spawn_of_marli", "df/d5b/a13790.html", "df/d5b/a13790" ],
-    [ "spell_hatch_eggs", "d4/dc7/a13794.html", "d4/dc7/a13794" ],
-    [ "spell_enveloping_webs", "dd/db2/a13798.html", "dd/db2/a13798" ],
-    [ "spell_marli_transform", "d4/d2b/a13802.html", "d4/d2b/a13802" ],
+    [ "boss_marli", "dd/dd9/a13806.html", "dd/dd9/a13806" ],
+    [ "npc_spawn_of_marli", "db/d93/a13810.html", "db/d93/a13810" ],
+    [ "spell_hatch_eggs", "d7/d6d/a13814.html", "d7/d6d/a13814" ],
+    [ "spell_enveloping_webs", "da/da7/a13818.html", "da/da7/a13818" ],
+    [ "spell_marli_transform", "db/dfd/a13822.html", "db/dfd/a13822" ],
     [ "Misc", "d1/d0c/a02570.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d6/dff/a02390.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d5/d2b/a02420.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -88,6 +88,7 @@ var a02570 =
       [ "ADDITIONAL_CLASS_SPRIEST", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92706eb33a08d2af442625bec27cdf3c", null ],
       [ "AURA_SHADOW_FORM", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad3a76f7068948a8105e9c5001dbb41d2", null ],
       [ "GROUP_CLASS_ABILITY", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8aaab438cd70047fa9299e78971c4f4", null ],
+      [ "GROUP_DRAIN_POWER", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afec21b3ce2b83056ea6ccf2336110b3d", null ],
       [ "MAX_BOMB_COUNT", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a55b3541c734c6bf371563c020ea4918e", null ],
       [ "GROUP_ENRAGE", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a98519d98f2763476413ba8ba9b1aa780", null ],
       [ "GROUP_HATCHING", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad004964bc87e3ee20b6bd3fcb2411521", null ],
@@ -2176,6 +2177,7 @@ var a02570 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

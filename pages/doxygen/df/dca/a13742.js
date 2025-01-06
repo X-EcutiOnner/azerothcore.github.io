@@ -1,7 +1,7 @@
 var a13742 =
 [
-    [ "HandleOnHit", "df/dca/a13742.html#a561799e6241b1fe17cd09f17c447107b", null ],
-    [ "PrepareSpellScript", "df/dca/a13742.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
-    [ "Register", "df/dca/a13742.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
-    [ "Validate", "df/dca/a13742.html#adb339686c5e9dcb298712455dc8435bf", null ]
+    [ "HandleScriptEffect", "df/dca/a13742.html#ace68732d578fbaeb2b209bfded88853a", null ],
+    [ "PrepareSpellScript", "df/dca/a13742.html#a42a69995e8f527a383e96e2ead832f72", null ],
+    [ "Register", "df/dca/a13742.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
+    [ "Validate", "df/dca/a13742.html#a7697caf8e5390d290b353fb6a291aa10", null ]
 ];

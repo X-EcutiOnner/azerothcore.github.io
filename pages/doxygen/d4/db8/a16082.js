@@ -1,7 +1,7 @@
 var a16082 =
 [
-    [ "npc_toc_druidAI", "d4/db8/a16082.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "d4/db8/a16082.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "d4/db8/a16082.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "d4/db8/a16082.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "HandleEffectPeriodic", "d4/db8/a16082.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
+    [ "PrepareAuraScript", "d4/db8/a16082.html#a4506f7d723b85c7555296f5ade11cd29", null ],
+    [ "Register", "d4/db8/a16082.html#aeac7e6abc89209e14451439cdf1d416e", null ],
+    [ "Validate", "d4/db8/a16082.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
 ];

@@ -1,7 +1,6 @@
 var a17998 =
 [
-    [ "OnPeriodic", "da/da5/a17998.html#a9635bf496ee3098e412ba7de633250b3", null ],
-    [ "PrepareAuraScript", "da/da5/a17998.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
-    [ "Register", "da/da5/a17998.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
-    [ "Validate", "da/da5/a17998.html#a5675fef373315edd34d096bb91c733b0", null ]
+    [ "HandleScript", "da/da5/a17998.html#aa05c6e510e933a71a6bce8d653632ebd", null ],
+    [ "PrepareSpellScript", "da/da5/a17998.html#add6b78f0396a34c36e0dff1928889e43", null ],
+    [ "Register", "da/da5/a17998.html#a587247f7417cefa2b8aa5a8edb8e2616", null ]
 ];

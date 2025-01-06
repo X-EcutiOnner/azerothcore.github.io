@@ -1,9 +1,6 @@
 var a21334 =
 [
-    [ "npc_counselor_talbotAI", "d4/d11/a21334.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
-    [ "JustDied", "d4/d11/a21334.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
-    [ "JustEngagedWith", "d4/d11/a21334.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
-    [ "Reset", "d4/d11/a21334.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
-    [ "UpdateAI", "d4/d11/a21334.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
-    [ "_events", "d4/d11/a21334.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
+    [ "npc_thassarian2AI", "de/d15/a21338.html", "de/d15/a21338" ],
+    [ "npc_thassarian2", "d4/d11/a21334.html#a8a2f1e1595349e4fa9968e85f17d0468", null ],
+    [ "GetAI", "d4/d11/a21334.html#adb87c99f3375f88eca55b39e1cd0bbd5", null ]
 ];

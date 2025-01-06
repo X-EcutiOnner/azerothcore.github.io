@@ -1,5 +1,6 @@
 var a21862 =
 [
-    [ "go_pressure_valve", "de/d26/a21862.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
-    [ "OnGossipHello", "de/d26/a21862.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
+    [ "npc_artruis_the_hearthlessAI", "dd/daf/a21866.html", "dd/daf/a21866" ],
+    [ "npc_artruis_the_hearthless", "de/d26/a21862.html#abeed70f4306113bd5df242eae91bfdb0", null ],
+    [ "GetAI", "de/d26/a21862.html#a1a7674c5e3e9e0de848bfb0d906ac06c", null ]
 ];

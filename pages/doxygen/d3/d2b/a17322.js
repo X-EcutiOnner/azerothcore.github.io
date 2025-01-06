@@ -1,7 +1,6 @@
 var a17322 =
 [
-    [ "npc_gunship_rocketeerAI", "d3/d2b/a17322.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
-    [ "CanAIAttack", "d3/d2b/a17322.html#a4b4e2839e426bdb752beea09394f13dc", null ],
-    [ "MovementInform", "d3/d2b/a17322.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
-    [ "UpdateAI", "d3/d2b/a17322.html#af73d71750f116fb90be1c2acba75ca70", null ]
+    [ "npc_gunship_mageAI", "d1/d6d/a17326.html", "d1/d6d/a17326" ],
+    [ "npc_gunship_mage", "d3/d2b/a17322.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
+    [ "GetAI", "d3/d2b/a17322.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
 ];

@@ -1,8 +1,14 @@
 var a14502 =
 [
-    [ "npc_thrall_old_hillsbradAI", "d1/d89/a14506.html", "d1/d89/a14506" ],
-    [ "npc_thrall_old_hillsbrad", "d0/d1c/a14502.html#a3e6fa750b095af3beac806a619e18328", null ],
-    [ "GetAI", "d0/d1c/a14502.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
-    [ "OnGossipHello", "d0/d1c/a14502.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
-    [ "OnGossipSelect", "d0/d1c/a14502.html#a17fcb00850503903f430506654e035c0", null ]
+    [ "boss_captain_skarloc", "d0/d1c/a14502.html#a196477160ab6d07dc644ddadf756a1e0", null ],
+    [ "InitializeAI", "d0/d1c/a14502.html#a1c67fb99984f666b63f8f79c6783341d", null ],
+    [ "JustDied", "d0/d1c/a14502.html#aca0d536010a53efdf9270146f15f9058", null ],
+    [ "JustEngagedWith", "d0/d1c/a14502.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
+    [ "JustSummoned", "d0/d1c/a14502.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
+    [ "KilledUnit", "d0/d1c/a14502.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
+    [ "MovementInform", "d0/d1c/a14502.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
+    [ "Reset", "d0/d1c/a14502.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
+    [ "UpdateAI", "d0/d1c/a14502.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
+    [ "_spawnedAdds", "d0/d1c/a14502.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
+    [ "summons", "d0/d1c/a14502.html#a83a9e5971411de1c136cbad91f73f487", null ]
 ];

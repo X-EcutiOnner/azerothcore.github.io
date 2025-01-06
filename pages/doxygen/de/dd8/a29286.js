@@ -1,10 +1,8 @@
 var a29286 =
 [
-    [ "npc_prof_alchemy", "de/dd8/a29286.html#a43ea842214fc507c34586d12df8f7fea", null ],
-    [ "HasAlchemySpell", "de/dd8/a29286.html#ac9df824e0923ca86189a53ae391b43c0", null ],
-    [ "OnGossipHello", "de/dd8/a29286.html#add760c538c7882e1ad8331b8ded74f5c", null ],
-    [ "OnGossipSelect", "de/dd8/a29286.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
-    [ "SendActionMenu", "de/dd8/a29286.html#a2d4c7337b40be323a384a9e755fc3145", null ],
-    [ "SendConfirmLearn", "de/dd8/a29286.html#a548224b30494636b9ee292a533fc7b39", null ],
-    [ "SendConfirmUnlearn", "de/dd8/a29286.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
+    [ "_ACORE_DB_IMPORT_CONFIG", "de/dd8/a29286.html#a97392c73658eeeb49d256527b19ad90f", null ],
+    [ "GetConsoleArguments", "de/dd8/a29286.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
+    [ "main", "de/dd8/a29286.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "StartDB", "de/dd8/a29286.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
+    [ "StopDB", "de/dd8/a29286.html#a927af1587546ee7503a3b9a18f6439c0", null ]
 ];

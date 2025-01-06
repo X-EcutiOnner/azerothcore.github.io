@@ -1,7 +1,5 @@
 var a17570 =
 [
-    [ "HandleTriggerSpell", "d0/da3/a17570.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "d0/da3/a17570.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "d0/da3/a17570.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "d0/da3/a17570.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "npc_volatile_oozeAI", "d0/da3/a17570.html#af042d4c22482aabcdad6fa867dfe093f", null ],
+    [ "CastMainSpell", "d0/da3/a17570.html#a91890785174ecc60c9553a0aedf1961b", null ]
 ];

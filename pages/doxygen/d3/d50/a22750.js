@@ -1,6 +1,6 @@
 var a22750 =
 [
-    [ "HandleEffectRemove", "d3/d50/a22750.html#a99f96034b5976615c38e13e5e55c61b6", null ],
-    [ "PrepareAuraScript", "d3/d50/a22750.html#a0515a72abd37df13606876021659b995", null ],
-    [ "Register", "d3/d50/a22750.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
+    [ "instance_black_temple_InstanceMapScript", "d8/d51/a22754.html", "d8/d51/a22754" ],
+    [ "instance_black_temple", "d3/d50/a22750.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d3/d50/a22750.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

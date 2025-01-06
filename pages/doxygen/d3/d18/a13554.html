@@ -598,7 +598,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  376</span>: <a class="code hl_struct" href="../../de/d8c/a06114.html">ScriptedAI</a>(creature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  377</span>: <a class="code hl_struct" href="../../de/d8c/a06114.html">ScriptedAI</a>(creature) { }</div>
 <div class="ttc" id="aa06114_html"><div class="ttname"><a href="../../de/d8c/a06114.html">ScriptedAI</a></div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:190</div></div>
 </div><!-- fragment -->
 </div>
@@ -629,7 +629,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../de/d8c/a06114.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  442</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  443</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -660,7 +660,7 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../de/d8c/a06114.html#ac2ce21ab709e349abb8206ce2368cd37">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  441</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  442</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -689,7 +689,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../db/dd3/a06070.html#a1280f8bcf72254ad31c453b810615f87">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  443</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  444</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -728,40 +728,40 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../de/d8c/a06114.html#ac737070ba7a8645d0e0ccf6bd6107004">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  391</span>    {</div>
-<div class="line"><span class="lineno">  392</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d18/a13554.html#ab39ab27d8057b52b77637faefd48e8e6">_waypoint</a> == 5)</div>
-<div class="line"><span class="lineno">  393</span>        {</div>
-<div class="line"><span class="lineno">  394</span>            <a class="code hl_variable" href="../../d3/d18/a13554.html#aae712db69c870d00d07a37b8611ecaf4">_isHatching</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  395</span> </div>
-<div class="line"><span class="lineno">  396</span>            <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(1500ms, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d8/d03/a05466.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  397</span>            {</div>
-<div class="line"><span class="lineno">  398</span>                <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a51ec81e114bf82a2485ba9f66200afd2">CastCustomSpell</a>(<a class="code hl_enumvalue" href="../../d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca0eca4ab9e4ea454b87f43f9b7b2a66e5">SPELL_HATCH_EGG_ALL</a>, <a class="code hl_enumvalue" href="../../d9/d5e/a03086.html#a4ad87b8c967acbbcb154a32bc123371baac4a68bd47fc6d4dd83453928def284b">SPELLVALUE_MAX_TARGETS</a>, <a class="code hl_variable" href="../../d3/d18/a13554.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12">_repeatCount</a>);</div>
-<div class="line"><span class="lineno">  399</span> </div>
-<div class="line"><span class="lineno">  400</span>                ++<a class="code hl_variable" href="../../d3/d18/a13554.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12">_repeatCount</a>;</div>
-<div class="line"><span class="lineno">  401</span> </div>
-<div class="line"><span class="lineno">  402</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d0d/a08250.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d5/d4d/a02186.html#a25a619e6b66096a4f05d048e4a96df08a13fbfeb47a6085679bd44bcf4db10da4">NPC_EGG</a>, 100.0f))</div>
-<div class="line"><span class="lineno">  403</span>                    context.<a class="code hl_function" href="../../d8/d03/a05466.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(4s);</div>
-<div class="line"><span class="lineno">  404</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  405</span>                {</div>
-<div class="line"><span class="lineno">  406</span>                    if (WorldObject* summoner = GetSummoner())</div>
-<div class="line"><span class="lineno">  407</span>                        if (Creature* janalai = summoner-&gt;ToCreature())</div>
-<div class="line"><span class="lineno">  408</span>                            janalai-&gt;AI()-&gt;SetData(DATA_ALL_EGGS_HATCHED, _side);</div>
-<div class="line"><span class="lineno">  409</span> </div>
-<div class="line"><span class="lineno">  410</span>                    _side = _side ? 0 : 1;</div>
-<div class="line"><span class="lineno">  411</span>                    _isHatching = false;</div>
-<div class="line"><span class="lineno">  412</span>                    _waypoint = 3;</div>
-<div class="line"><span class="lineno">  413</span>                    MoveToNewWaypoint(_waypoint);</div>
-<div class="line"><span class="lineno">  414</span>                }</div>
-<div class="line"><span class="lineno">  415</span>            });</div>
-<div class="line"><span class="lineno">  416</span>        }</div>
-<div class="line"><span class="lineno">  417</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  418</span>        {</div>
-<div class="line"><span class="lineno">  419</span>            <a class="code hl_function" href="../../d3/d18/a13554.html#ab775a888ae1002eed3ed548ab89ca2e4">MoveToNewWaypoint</a>(<a class="code hl_variable" href="../../d3/d18/a13554.html#ab39ab27d8057b52b77637faefd48e8e6">_waypoint</a>);</div>
-<div class="line"><span class="lineno">  420</span>            ++<a class="code hl_variable" href="../../d3/d18/a13554.html#ab39ab27d8057b52b77637faefd48e8e6">_waypoint</a>;</div>
-<div class="line"><span class="lineno">  421</span>        }</div>
-<div class="line"><span class="lineno">  422</span>    }</div>
-<div class="ttc" id="aa02186_html_a25a619e6b66096a4f05d048e4a96df08a13fbfeb47a6085679bd44bcf4db10da4"><div class="ttname"><a href="../../d5/d4d/a02186.html#a25a619e6b66096a4f05d048e4a96df08a13fbfeb47a6085679bd44bcf4db10da4">NPC_EGG</a></div><div class="ttdeci">@ NPC_EGG</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:68</div></div>
-<div class="ttc" id="aa02186_html_a5bd342133be8c2137b831460acc9298ca0eca4ab9e4ea454b87f43f9b7b2a66e5"><div class="ttname"><a href="../../d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca0eca4ab9e4ea454b87f43f9b7b2a66e5">SPELL_HATCH_EGG_ALL</a></div><div class="ttdeci">@ SPELL_HATCH_EGG_ALL</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:57</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  392</span>    {</div>
+<div class="line"><span class="lineno">  393</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d18/a13554.html#ab39ab27d8057b52b77637faefd48e8e6">_waypoint</a> == 5)</div>
+<div class="line"><span class="lineno">  394</span>        {</div>
+<div class="line"><span class="lineno">  395</span>            <a class="code hl_variable" href="../../d3/d18/a13554.html#aae712db69c870d00d07a37b8611ecaf4">_isHatching</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  396</span> </div>
+<div class="line"><span class="lineno">  397</span>            <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(1500ms, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d8/d03/a05466.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  398</span>            {</div>
+<div class="line"><span class="lineno">  399</span>                <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a51ec81e114bf82a2485ba9f66200afd2">CastCustomSpell</a>(<a class="code hl_enumvalue" href="../../d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca0eca4ab9e4ea454b87f43f9b7b2a66e5">SPELL_HATCH_EGG_ALL</a>, <a class="code hl_enumvalue" href="../../d9/d5e/a03086.html#a4ad87b8c967acbbcb154a32bc123371baac4a68bd47fc6d4dd83453928def284b">SPELLVALUE_MAX_TARGETS</a>, <a class="code hl_variable" href="../../d3/d18/a13554.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12">_repeatCount</a>);</div>
+<div class="line"><span class="lineno">  400</span> </div>
+<div class="line"><span class="lineno">  401</span>                ++<a class="code hl_variable" href="../../d3/d18/a13554.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12">_repeatCount</a>;</div>
+<div class="line"><span class="lineno">  402</span> </div>
+<div class="line"><span class="lineno">  403</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d0d/a08250.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d5/d4d/a02186.html#a25a619e6b66096a4f05d048e4a96df08a13fbfeb47a6085679bd44bcf4db10da4">NPC_EGG</a>, 100.0f))</div>
+<div class="line"><span class="lineno">  404</span>                    context.<a class="code hl_function" href="../../d8/d03/a05466.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(5s);</div>
+<div class="line"><span class="lineno">  405</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  406</span>                {</div>
+<div class="line"><span class="lineno">  407</span>                    if (WorldObject* summoner = GetSummoner())</div>
+<div class="line"><span class="lineno">  408</span>                        if (Creature* janalai = summoner-&gt;ToCreature())</div>
+<div class="line"><span class="lineno">  409</span>                            janalai-&gt;AI()-&gt;SetData(DATA_ALL_EGGS_HATCHED, _side);</div>
+<div class="line"><span class="lineno">  410</span> </div>
+<div class="line"><span class="lineno">  411</span>                    _side = _side ? 0 : 1;</div>
+<div class="line"><span class="lineno">  412</span>                    _isHatching = false;</div>
+<div class="line"><span class="lineno">  413</span>                    _waypoint = 3;</div>
+<div class="line"><span class="lineno">  414</span>                    MoveToNewWaypoint(_waypoint);</div>
+<div class="line"><span class="lineno">  415</span>                }</div>
+<div class="line"><span class="lineno">  416</span>            });</div>
+<div class="line"><span class="lineno">  417</span>        }</div>
+<div class="line"><span class="lineno">  418</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  419</span>        {</div>
+<div class="line"><span class="lineno">  420</span>            <a class="code hl_function" href="../../d3/d18/a13554.html#ab775a888ae1002eed3ed548ab89ca2e4">MoveToNewWaypoint</a>(<a class="code hl_variable" href="../../d3/d18/a13554.html#ab39ab27d8057b52b77637faefd48e8e6">_waypoint</a>);</div>
+<div class="line"><span class="lineno">  421</span>            ++<a class="code hl_variable" href="../../d3/d18/a13554.html#ab39ab27d8057b52b77637faefd48e8e6">_waypoint</a>;</div>
+<div class="line"><span class="lineno">  422</span>        }</div>
+<div class="line"><span class="lineno">  423</span>    }</div>
+<div class="ttc" id="aa02186_html_a25a619e6b66096a4f05d048e4a96df08a13fbfeb47a6085679bd44bcf4db10da4"><div class="ttname"><a href="../../d5/d4d/a02186.html#a25a619e6b66096a4f05d048e4a96df08a13fbfeb47a6085679bd44bcf4db10da4">NPC_EGG</a></div><div class="ttdeci">@ NPC_EGG</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:71</div></div>
+<div class="ttc" id="aa02186_html_a5bd342133be8c2137b831460acc9298ca0eca4ab9e4ea454b87f43f9b7b2a66e5"><div class="ttname"><a href="../../d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca0eca4ab9e4ea454b87f43f9b7b2a66e5">SPELL_HATCH_EGG_ALL</a></div><div class="ttdeci">@ SPELL_HATCH_EGG_ALL</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:60</div></div>
 <div class="ttc" id="aa03086_html_a4ad87b8c967acbbcb154a32bc123371baac4a68bd47fc6d4dd83453928def284b"><div class="ttname"><a href="../../d9/d5e/a03086.html#a4ad87b8c967acbbcb154a32bc123371baac4a68bd47fc6d4dd83453928def284b">SPELLVALUE_MAX_TARGETS</a></div><div class="ttdeci">@ SPELLVALUE_MAX_TARGETS</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:117</div></div>
 <div class="ttc" id="aa05450_html_a0e0579d2a2397de5a79c756d5e59a830"><div class="ttname"><a href="../../d1/db8/a05450.html#a0e0579d2a2397de5a79c756d5e59a830">TaskScheduler::Schedule</a></div><div class="ttdeci">TaskScheduler &amp; Schedule(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;time, task_handler_t const &amp;task)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:232</div></div>
 <div class="ttc" id="aa05466_html"><div class="ttname"><a href="../../d8/d03/a05466.html">TaskContext</a></div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:421</div></div>
@@ -770,12 +770,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa06114_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:280</div></div>
 <div class="ttc" id="aa08250_html_aa7cc61d571dbc39ca8ac6ac10ffd18ab"><div class="ttname"><a href="../../de/d0d/a08250.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">WorldObject::FindNearestCreature</a></div><div class="ttdeci">Creature * FindNearestCreature(uint32 entry, float range, bool alive=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2459</div></div>
 <div class="ttc" id="aa08598_html_a51ec81e114bf82a2485ba9f66200afd2"><div class="ttname"><a href="../../d4/d46/a08598.html#a51ec81e114bf82a2485ba9f66200afd2">Unit::CastCustomSpell</a></div><div class="ttdeci">SpellCastResult CastCustomSpell(Unit *victim, uint32 spellId, int32 const *bp0, int32 const *bp1, int32 const *bp2, bool triggered, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1224</div></div>
-<div class="ttc" id="aa13554_html_aae712db69c870d00d07a37b8611ecaf4"><div class="ttname"><a href="../../d3/d18/a13554.html#aae712db69c870d00d07a37b8611ecaf4">npc_janalai_hatcher::_isHatching</a></div><div class="ttdeci">bool _isHatching</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:449</div></div>
-<div class="ttc" id="aa13554_html_ab39ab27d8057b52b77637faefd48e8e6"><div class="ttname"><a href="../../d3/d18/a13554.html#ab39ab27d8057b52b77637faefd48e8e6">npc_janalai_hatcher::_waypoint</a></div><div class="ttdeci">uint8 _waypoint</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:447</div></div>
-<div class="ttc" id="aa13554_html_ab775a888ae1002eed3ed548ab89ca2e4"><div class="ttname"><a href="../../d3/d18/a13554.html#ab775a888ae1002eed3ed548ab89ca2e4">npc_janalai_hatcher::MoveToNewWaypoint</a></div><div class="ttdeci">void MoveToNewWaypoint(uint8 waypoint)</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:424</div></div>
-<div class="ttc" id="aa13554_html_acaf411fe3f6ea66d1ed2cd2da2ccaf12"><div class="ttname"><a href="../../d3/d18/a13554.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12">npc_janalai_hatcher::_repeatCount</a></div><div class="ttdeci">uint32 _repeatCount</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:448</div></div>
+<div class="ttc" id="aa13554_html_aae712db69c870d00d07a37b8611ecaf4"><div class="ttname"><a href="../../d3/d18/a13554.html#aae712db69c870d00d07a37b8611ecaf4">npc_janalai_hatcher::_isHatching</a></div><div class="ttdeci">bool _isHatching</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:450</div></div>
+<div class="ttc" id="aa13554_html_ab39ab27d8057b52b77637faefd48e8e6"><div class="ttname"><a href="../../d3/d18/a13554.html#ab39ab27d8057b52b77637faefd48e8e6">npc_janalai_hatcher::_waypoint</a></div><div class="ttdeci">uint8 _waypoint</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:448</div></div>
+<div class="ttc" id="aa13554_html_ab775a888ae1002eed3ed548ab89ca2e4"><div class="ttname"><a href="../../d3/d18/a13554.html#ab775a888ae1002eed3ed548ab89ca2e4">npc_janalai_hatcher::MoveToNewWaypoint</a></div><div class="ttdeci">void MoveToNewWaypoint(uint8 waypoint)</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:425</div></div>
+<div class="ttc" id="aa13554_html_acaf411fe3f6ea66d1ed2cd2da2ccaf12"><div class="ttname"><a href="../../d3/d18/a13554.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12">npc_janalai_hatcher::_repeatCount</a></div><div class="ttdeci">uint32 _repeatCount</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:449</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00449">_isHatching</a>, <a class="el" href="../../#l00448">_repeatCount</a>, <a class="el" href="../../#l00447">_waypoint</a>, <a class="el" href="../../#l01224">Unit::CastCustomSpell()</a>, <a class="el" href="../../#l02459">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00424">MoveToNewWaypoint()</a>, <a class="el" href="../../#l00068">NPC_EGG</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, <a class="el" href="../../#l00057">SPELL_HATCH_EGG_ALL</a>, and <a class="el" href="../../#l00117">SPELLVALUE_MAX_TARGETS</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00450">_isHatching</a>, <a class="el" href="../../#l00449">_repeatCount</a>, <a class="el" href="../../#l00448">_waypoint</a>, <a class="el" href="../../#l01224">Unit::CastCustomSpell()</a>, <a class="el" href="../../#l02459">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00425">MoveToNewWaypoint()</a>, <a class="el" href="../../#l00071">NPC_EGG</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, <a class="el" href="../../#l00060">SPELL_HATCH_EGG_ALL</a>, and <a class="el" href="../../#l00117">SPELLVALUE_MAX_TARGETS</a>.</p>
 
 </div>
 </div>
@@ -802,23 +802,23 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  425</span>    {</div>
-<div class="line"><span class="lineno">  426</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d18/a13554.html#aae712db69c870d00d07a37b8611ecaf4">_isHatching</a>)</div>
-<div class="line"><span class="lineno">  427</span>        {</div>
-<div class="line"><span class="lineno">  428</span>            <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(100ms, [<span class="keyword">this</span>, waypoint](<a class="code hl_class" href="../../d8/d03/a05466.html">TaskContext</a>)</div>
-<div class="line"><span class="lineno">  429</span>            {</div>
-<div class="line"><span class="lineno">  430</span>                <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;Clear();</div>
-<div class="line"><span class="lineno">  431</span>                <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;MovePoint(0, <a class="code hl_variable" href="../../d5/d4d/a02186.html#aa9b512aa2987259f8ced89aec76a2f4e">hatcherway</a>[<a class="code hl_variable" href="../../d3/d18/a13554.html#a177ddd5ff96902363ab708f0c737fc20">_side</a>][waypoint]);</div>
-<div class="line"><span class="lineno">  432</span>            });</div>
-<div class="line"><span class="lineno">  433</span>        }</div>
-<div class="line"><span class="lineno">  434</span>    }</div>
-<div class="ttc" id="aa02186_html_aa9b512aa2987259f8ced89aec76a2f4e"><div class="ttname"><a href="../../d5/d4d/a02186.html#aa9b512aa2987259f8ced89aec76a2f4e">hatcherway</a></div><div class="ttdeci">const Position hatcherway[2][5]</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:85</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  426</span>    {</div>
+<div class="line"><span class="lineno">  427</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d18/a13554.html#aae712db69c870d00d07a37b8611ecaf4">_isHatching</a>)</div>
+<div class="line"><span class="lineno">  428</span>        {</div>
+<div class="line"><span class="lineno">  429</span>            <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(100ms, [<span class="keyword">this</span>, waypoint](<a class="code hl_class" href="../../d8/d03/a05466.html">TaskContext</a>)</div>
+<div class="line"><span class="lineno">  430</span>            {</div>
+<div class="line"><span class="lineno">  431</span>                <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;Clear();</div>
+<div class="line"><span class="lineno">  432</span>                <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;MovePoint(0, <a class="code hl_variable" href="../../d5/d4d/a02186.html#aa9b512aa2987259f8ced89aec76a2f4e">hatcherway</a>[<a class="code hl_variable" href="../../d3/d18/a13554.html#a177ddd5ff96902363ab708f0c737fc20">_side</a>][waypoint]);</div>
+<div class="line"><span class="lineno">  433</span>            });</div>
+<div class="line"><span class="lineno">  434</span>        }</div>
+<div class="line"><span class="lineno">  435</span>    }</div>
+<div class="ttc" id="aa02186_html_aa9b512aa2987259f8ced89aec76a2f4e"><div class="ttname"><a href="../../d5/d4d/a02186.html#aa9b512aa2987259f8ced89aec76a2f4e">hatcherway</a></div><div class="ttdeci">const Position hatcherway[2][5]</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:88</div></div>
 <div class="ttc" id="aa08598_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../d4/d46/a08598.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition:</b> Unit.h:1670</div></div>
-<div class="ttc" id="aa13554_html_a177ddd5ff96902363ab708f0c737fc20"><div class="ttname"><a href="../../d3/d18/a13554.html#a177ddd5ff96902363ab708f0c737fc20">npc_janalai_hatcher::_side</a></div><div class="ttdeci">uint8 _side</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:446</div></div>
+<div class="ttc" id="aa13554_html_a177ddd5ff96902363ab708f0c737fc20"><div class="ttname"><a href="../../d3/d18/a13554.html#a177ddd5ff96902363ab708f0c737fc20">npc_janalai_hatcher::_side</a></div><div class="ttdeci">uint8 _side</div><div class="ttdef"><b>Definition:</b> boss_janalai.cpp:447</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00449">_isHatching</a>, <a class="el" href="../../#l00446">_side</a>, <a class="el" href="../../#l01670">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00085">hatcherway</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, and <a class="el" href="../../#l00075">CreatureAI::scheduler</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00450">_isHatching</a>, <a class="el" href="../../#l00447">_side</a>, <a class="el" href="../../#l01670">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00088">hatcherway</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, and <a class="el" href="../../#l00075">CreatureAI::scheduler</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00390">MovementInform()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00391">MovementInform()</a>.</p>
 
 </div>
 </div>
@@ -846,23 +846,23 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../de/d8c/a06114.html#a26600c116d20a33461fc884bdb82eda9">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  379</span>    {</div>
-<div class="line"><span class="lineno">  380</span>        <a class="code hl_function" href="../../de/d8c/a06114.html#a26600c116d20a33461fc884bdb82eda9">ScriptedAI::Reset</a>();</div>
-<div class="line"><span class="lineno">  381</span>        <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#a05da7a474b80d725c991dde9d24df4a4">CancelAll</a>();</div>
-<div class="line"><span class="lineno">  382</span>        <a class="code hl_variable" href="../../d3/d18/a13554.html#a177ddd5ff96902363ab708f0c737fc20">_side</a> = (<a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d21/a08294.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &lt; 1150);</div>
-<div class="line"><span class="lineno">  383</span>        <a class="code hl_variable" href="../../d3/d18/a13554.html#ab39ab27d8057b52b77637faefd48e8e6">_waypoint</a> = 0;</div>
-<div class="line"><span class="lineno">  384</span>        <a class="code hl_variable" href="../../d3/d18/a13554.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12">_repeatCount</a> = 1;</div>
-<div class="line"><span class="lineno">  385</span>        <a class="code hl_variable" href="../../d3/d18/a13554.html#aae712db69c870d00d07a37b8611ecaf4">_isHatching</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  386</span>        <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d8/dc2/a09730.html#afa6ffa9c5d6897f3aad3ac524c7bb35a">Clear</a>();</div>
-<div class="line"><span class="lineno">  387</span>        <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d8/dc2/a09730.html#a903a48c63482ebbd45d63272b218df7f">MovePoint</a>(0, <a class="code hl_variable" href="../../d5/d4d/a02186.html#aa9b512aa2987259f8ced89aec76a2f4e">hatcherway</a>[<a class="code hl_variable" href="../../d3/d18/a13554.html#a177ddd5ff96902363ab708f0c737fc20">_side</a>][0]);</div>
-<div class="line"><span class="lineno">  388</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  380</span>    {</div>
+<div class="line"><span class="lineno">  381</span>        <a class="code hl_function" href="../../de/d8c/a06114.html#a26600c116d20a33461fc884bdb82eda9">ScriptedAI::Reset</a>();</div>
+<div class="line"><span class="lineno">  382</span>        <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#a05da7a474b80d725c991dde9d24df4a4">CancelAll</a>();</div>
+<div class="line"><span class="lineno">  383</span>        <a class="code hl_variable" href="../../d3/d18/a13554.html#a177ddd5ff96902363ab708f0c737fc20">_side</a> = (<a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d21/a08294.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &lt; 1150);</div>
+<div class="line"><span class="lineno">  384</span>        <a class="code hl_variable" href="../../d3/d18/a13554.html#ab39ab27d8057b52b77637faefd48e8e6">_waypoint</a> = 0;</div>
+<div class="line"><span class="lineno">  385</span>        <a class="code hl_variable" href="../../d3/d18/a13554.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12">_repeatCount</a> = 1;</div>
+<div class="line"><span class="lineno">  386</span>        <a class="code hl_variable" href="../../d3/d18/a13554.html#aae712db69c870d00d07a37b8611ecaf4">_isHatching</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  387</span>        <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d8/dc2/a09730.html#afa6ffa9c5d6897f3aad3ac524c7bb35a">Clear</a>();</div>
+<div class="line"><span class="lineno">  388</span>        <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d8/dc2/a09730.html#a903a48c63482ebbd45d63272b218df7f">MovePoint</a>(0, <a class="code hl_variable" href="../../d5/d4d/a02186.html#aa9b512aa2987259f8ced89aec76a2f4e">hatcherway</a>[<a class="code hl_variable" href="../../d3/d18/a13554.html#a177ddd5ff96902363ab708f0c737fc20">_side</a>][0]);</div>
+<div class="line"><span class="lineno">  389</span>    }</div>
 <div class="ttc" id="aa05450_html_a05da7a474b80d725c991dde9d24df4a4"><div class="ttname"><a href="../../d1/db8/a05450.html#a05da7a474b80d725c991dde9d24df4a4">TaskScheduler::CancelAll</a></div><div class="ttdeci">TaskScheduler &amp; CancelAll()</div><div class="ttdef"><b>Definition:</b> TaskScheduler.cpp:45</div></div>
 <div class="ttc" id="aa06114_html_a26600c116d20a33461fc884bdb82eda9"><div class="ttname"><a href="../../de/d8c/a06114.html#a26600c116d20a33461fc884bdb82eda9">ScriptedAI::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:287</div></div>
 <div class="ttc" id="aa08294_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../d8/d21/a08294.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:117</div></div>
 <div class="ttc" id="aa09730_html_a903a48c63482ebbd45d63272b218df7f"><div class="ttname"><a href="../../d8/dc2/a09730.html#a903a48c63482ebbd45d63272b218df7f">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, const Position &amp;pos, bool generatePath=true, bool forceDestination=true)</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:213</div></div>
 <div class="ttc" id="aa09730_html_afa6ffa9c5d6897f3aad3ac524c7bb35a"><div class="ttname"><a href="../../d8/dc2/a09730.html#afa6ffa9c5d6897f3aad3ac524c7bb35a">MotionMaster::Clear</a></div><div class="ttdeci">void Clear(bool reset=true)</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:167</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00449">_isHatching</a>, <a class="el" href="../../#l00448">_repeatCount</a>, <a class="el" href="../../#l00446">_side</a>, <a class="el" href="../../#l00447">_waypoint</a>, <a class="el" href="../../#l00045">TaskScheduler::CancelAll()</a>, <a class="el" href="../../#l00167">MotionMaster::Clear()</a>, <a class="el" href="../../#l01670">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00117">Position::GetPositionY()</a>, <a class="el" href="../../#l00085">hatcherway</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00213">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00287">ScriptedAI::Reset()</a>, and <a class="el" href="../../#l00075">CreatureAI::scheduler</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00450">_isHatching</a>, <a class="el" href="../../#l00449">_repeatCount</a>, <a class="el" href="../../#l00447">_side</a>, <a class="el" href="../../#l00448">_waypoint</a>, <a class="el" href="../../#l00045">TaskScheduler::CancelAll()</a>, <a class="el" href="../../#l00167">MotionMaster::Clear()</a>, <a class="el" href="../../#l01670">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00117">Position::GetPositionY()</a>, <a class="el" href="../../#l00088">hatcherway</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00213">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00287">ScriptedAI::Reset()</a>, and <a class="el" href="../../#l00075">CreatureAI::scheduler</a>.</p>
 
 </div>
 </div>
@@ -893,9 +893,9 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../d3/d18/a13554.html#a54c251278dcfa22052b6c6e49a4abd89" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../de/d8c/a06114.html#aff5fd4e142a5cf930ffacbfc7259cce5">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  437</span>    {</div>
-<div class="line"><span class="lineno">  438</span>        <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff);</div>
-<div class="line"><span class="lineno">  439</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  438</span>    {</div>
+<div class="line"><span class="lineno">  439</span>        <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff);</div>
+<div class="line"><span class="lineno">  440</span>    }</div>
 <div class="ttc" id="aa05450_html_a35c0891c7aded13c6ae7ecd2e6d480a9"><div class="ttname"><a href="../../d1/db8/a05450.html#a35c0891c7aded13c6ae7ecd2e6d480a9">TaskScheduler::Update</a></div><div class="ttdeci">TaskScheduler &amp; Update(success_t const &amp;callback=EmptyCallback)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.cpp:27</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, and <a class="el" href="../../#l00027">TaskScheduler::Update()</a>.</p>
@@ -923,7 +923,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00390">MovementInform()</a>, <a class="el" href="../../#l00424">MoveToNewWaypoint()</a>, and <a class="el" href="../../#l00378">Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00391">MovementInform()</a>, <a class="el" href="../../#l00425">MoveToNewWaypoint()</a>, and <a class="el" href="../../#l00379">Reset()</a>.</p>
 
 </div>
 </div>
@@ -947,7 +947,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00390">MovementInform()</a>, and <a class="el" href="../../#l00378">Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00391">MovementInform()</a>, and <a class="el" href="../../#l00379">Reset()</a>.</p>
 
 </div>
 </div>
@@ -971,7 +971,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00424">MoveToNewWaypoint()</a>, and <a class="el" href="../../#l00378">Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00425">MoveToNewWaypoint()</a>, and <a class="el" href="../../#l00379">Reset()</a>.</p>
 
 </div>
 </div>
@@ -995,7 +995,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00390">MovementInform()</a>, and <a class="el" href="../../#l00378">Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00391">MovementInform()</a>, and <a class="el" href="../../#l00379">Reset()</a>.</p>
 
 </div>
 </div>
@@ -1005,7 +1005,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d18/a13554.html">npc_janalai_hatcher</a></li>
-    <li class="footer">Generated on Mon Dec 30 2024 20:43:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 6 2025 20:43:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

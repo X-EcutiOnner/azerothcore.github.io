@@ -1,8 +1,7 @@
 var a17342 =
 [
-    [ "Load", "dc/dd5/a17342.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
-    [ "PrepareSpellScript", "dc/dd5/a17342.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
-    [ "Register", "dc/dd5/a17342.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
-    [ "RelocateDest", "dc/dd5/a17342.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
-    [ "SelectTransport", "dc/dd5/a17342.html#a0564852176d80ee6593baa3abb18238a", null ]
+    [ "npc_gunship_rocketeerAI", "dc/dd5/a17342.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "dc/dd5/a17342.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "dc/dd5/a17342.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "dc/dd5/a17342.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

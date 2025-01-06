@@ -1,4 +1,5 @@
 var a23466 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d5/d55/a23466.html#a86c5e55fe8f7e40d041abbcdb2d23797", null ]
+    [ "modelId", "d5/d55/a23466.html#a6a7f030a6445a46fe55640356e9c5124", null ],
+    [ "spellId", "d5/d55/a23466.html#a6cfbffba97934cc420964f9b6d7645a3", null ]
 ];

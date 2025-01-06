@@ -1,8 +1,6 @@
 var a23018 =
 [
-    [ "FilterTargets", "d8/de4/a23018.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
-    [ "HandleDummy", "d8/de4/a23018.html#addb3580259be74126b7de36d1b0a8a97", null ],
-    [ "PrepareSpellScript", "d8/de4/a23018.html#aba82de0886d03037de4564f9908b8c89", null ],
-    [ "Register", "d8/de4/a23018.html#a1650962493d48f5553a9e2771e594f1f", null ],
-    [ "Validate", "d8/de4/a23018.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
+    [ "go_ahune_ice_stone", "d8/de4/a23018.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "d8/de4/a23018.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "d8/de4/a23018.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

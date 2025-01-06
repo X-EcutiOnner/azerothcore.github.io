@@ -1,7 +1,6 @@
 var a19638 =
 [
-    [ "boss_flame_leviathan_safety_containerAI", "db/d22/a19638.html#ab9191e20df488df184c468ca1ac41084", null ],
-    [ "MovementInform", "db/d22/a19638.html#a1b472a233ebebbb4c1fbf639aeb4bed6", null ],
-    [ "UpdateAI", "db/d22/a19638.html#a77b3a493c5650d91c903879db324651d", null ],
-    [ "_allowTimer", "db/d22/a19638.html#a2185c9fe04fa7288fab452c5c1de3819", null ]
+    [ "npc_brann_radioAI", "dc/d2b/a19642.html", "dc/d2b/a19642" ],
+    [ "npc_brann_radio", "db/d22/a19638.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
+    [ "GetAI", "db/d22/a19638.html#aa2ea91337262fb886e7535ba013f4b10", null ]
 ];

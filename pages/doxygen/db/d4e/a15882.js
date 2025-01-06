@@ -1,6 +1,6 @@
 var a15882 =
 [
-    [ "boss_saviana_ragefireAI", "d5/d6d/a15886.html", "d5/d6d/a15886" ],
-    [ "boss_saviana_ragefire", "db/d4e/a15882.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
-    [ "GetAI", "db/d4e/a15882.html#a0a0073d8710af066d9711636f4d5b01e", null ]
+    [ "OnSummon", "db/d4e/a15882.html#ae2766d12fb686356b46126848f356c5a", null ],
+    [ "PrepareSpellScript", "db/d4e/a15882.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
+    [ "Register", "db/d4e/a15882.html#a717394bfbea621ae637f9e87efddda62", null ]
 ];

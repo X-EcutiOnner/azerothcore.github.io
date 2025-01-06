@@ -1,14 +1,13 @@
 var a14870 =
 [
-    [ "boss_twinemperorsAI", "df/db4/a14870.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "df/db4/a14870.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "df/db4/a14870.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "df/db4/a14870.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "df/db4/a14870.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "df/db4/a14870.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "df/db4/a14870.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "df/db4/a14870.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "df/db4/a14870.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "df/db4/a14870.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "df/db4/a14870.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "npc_dirt_mound", "df/db4/a14870.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
+    [ "ChaseNewTarget", "df/db4/a14870.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
+    [ "EnterEvadeMode", "df/db4/a14870.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
+    [ "JustEngagedWith", "df/db4/a14870.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
+    [ "JustSummoned", "df/db4/a14870.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
+    [ "Reset", "df/db4/a14870.html#ae1662eb73f21351e07d00a717421de68", null ],
+    [ "SetData", "df/db4/a14870.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
+    [ "UpdateAI", "df/db4/a14870.html#a88447191070cf8b84df96db565eef48d", null ],
+    [ "_instance", "df/db4/a14870.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
+    [ "_ouroHealth", "df/db4/a14870.html#ac83391fa5069ae4574748f82d15e833d", null ]
 ];

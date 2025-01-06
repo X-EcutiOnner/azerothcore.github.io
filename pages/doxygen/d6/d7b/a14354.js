@@ -1,10 +1,12 @@
 var a14354 =
 [
-    [ "hyjalJainaAI", "d6/d7b/a14354.html#aa7532b691e85fd9bd467e20db39c59da", null ],
-    [ "IsSummonedBy", "d6/d7b/a14354.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
-    [ "JustDied", "d6/d7b/a14354.html#a605687080e5149b3f08ce8349ba9b336", null ],
-    [ "JustEngagedWith", "d6/d7b/a14354.html#a187efe775b1e2a35637638507e77352e", null ],
-    [ "PathEndReached", "d6/d7b/a14354.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
-    [ "Reset", "d6/d7b/a14354.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
-    [ "UpdateAI", "d6/d7b/a14354.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
+    [ "boss_kazrogal", "d6/d7b/a14354.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
+    [ "DoAction", "d6/d7b/a14354.html#a7721debceeefaeb69e71855b8e8742f8", null ],
+    [ "GetMarkRepeatTimer", "d6/d7b/a14354.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
+    [ "JustDied", "d6/d7b/a14354.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
+    [ "JustEngagedWith", "d6/d7b/a14354.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
+    [ "KilledUnit", "d6/d7b/a14354.html#ab1439114a84d85947106d979f38d12fa", null ],
+    [ "Reset", "d6/d7b/a14354.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
+    [ "_markCounter", "d6/d7b/a14354.html#a54ef8b88bf62e260e19a964d1926ef4a", null ],
+    [ "_recentlySpoken", "d6/d7b/a14354.html#ad7401abae1b25d58ed93cc800d75bc26", null ]
 ];

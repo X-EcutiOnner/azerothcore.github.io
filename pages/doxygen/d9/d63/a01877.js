@@ -1,10 +1,10 @@
 var a01877 =
 [
-    [ "boss_koralon", "d2/ddb/a20942.html", "d2/ddb/a20942" ],
-    [ "boss_koralon::boss_koralonAI", "dd/df0/a20946.html", "dd/df0/a20946" ],
-    [ "spell_voa_flaming_cinder", "da/d4e/a20950.html", "da/d4e/a20950" ],
-    [ "spell_koralon_meteor_fists_aura", "d2/d93/a20954.html", "d2/d93/a20954" ],
-    [ "spell_flame_warder_meteor_fists_aura", "df/d9a/a20958.html", "df/d9a/a20958" ],
+    [ "boss_koralon", "d0/d0f/a20962.html", "d0/d0f/a20962" ],
+    [ "boss_koralon::boss_koralonAI", "de/dbb/a20966.html", "de/dbb/a20966" ],
+    [ "spell_voa_flaming_cinder", "d7/d49/a20970.html", "d7/d49/a20970" ],
+    [ "spell_koralon_meteor_fists_aura", "dd/d2f/a20974.html", "dd/d2f/a20974" ],
+    [ "spell_flame_warder_meteor_fists_aura", "d3/dbe/a20978.html", "d3/dbe/a20978" ],
     [ "Events", "d9/d63/a01877.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d5f/a02216.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d5f/a02216.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -2050,6 +2050,7 @@ var a01877 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

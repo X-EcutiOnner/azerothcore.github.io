@@ -1,6 +1,7 @@
 var a17114 =
 [
-    [ "boss_deathbringer_saurfangAI", "d0/d5a/a17118.html", "d0/d5a/a17118" ],
-    [ "boss_deathbringer_saurfang", "d6/d5c/a17114.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
-    [ "GetAI", "d6/d5c/a17114.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
+    [ "OnProc", "d6/d5c/a17114.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "d6/d5c/a17114.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "d6/d5c/a17114.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "d6/d5c/a17114.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

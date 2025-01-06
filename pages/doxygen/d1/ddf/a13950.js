@@ -1,7 +1,10 @@
 var a13950 =
 [
-    [ "HandleScriptEffect", "d1/ddf/a13950.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
-    [ "PrepareSpellScript", "d1/ddf/a13950.html#a3d906994c11e52e89c842189be73ddfd", null ],
-    [ "Register", "d1/ddf/a13950.html#a4cdab36e2265c696207a39e16549ab13", null ],
-    [ "Validate", "d1/ddf/a13950.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
+    [ "npc_coren_direbrew_sisters", "d1/ddf/a13950.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
+    [ "GetGUID", "d1/ddf/a13950.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
+    [ "JustEngagedWith", "d1/ddf/a13950.html#a34e0b6af032240c152c463c221d99335", null ],
+    [ "SetGUID", "d1/ddf/a13950.html#ada2e446a929bbba088d3c7e09d117f93", null ],
+    [ "UpdateAI", "d1/ddf/a13950.html#a7434b08d12d3f0902d1944b75323560c", null ],
+    [ "_scheduler", "d1/ddf/a13950.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
+    [ "_targetGUID", "d1/ddf/a13950.html#a801a6811124a7db3a31ec492ef954b20", null ]
 ];

@@ -1,6 +1,5 @@
 var a24586 =
 [
-    [ "CheckAreaTarget", "dd/d52/a24586.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "dd/d52/a24586.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "dd/d52/a24586.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "PrepareSpellScript", "dd/d52/a24586.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
+    [ "Register", "dd/d52/a24586.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
 ];

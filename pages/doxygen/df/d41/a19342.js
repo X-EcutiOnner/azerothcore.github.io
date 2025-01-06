@@ -1,8 +1,6 @@
 var a19342 =
 [
-    [ "iron_golem_custodianAI", "df/d41/a19342.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
-    [ "JustEngagedWith", "df/d41/a19342.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
-    [ "Reset", "df/d41/a19342.html#af3193696d665746eecd9c62128d8684d", null ],
-    [ "UpdateAI", "df/d41/a19342.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
-    [ "events", "df/d41/a19342.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
+    [ "dark_rune_protectorsAI", "dc/d36/a19346.html", "dc/d36/a19346" ],
+    [ "dark_rune_protectors", "df/d41/a19342.html#a14225a2369a8deea416fc640a2d7b075", null ],
+    [ "GetAI", "df/d41/a19342.html#a359e4049b7ec828177d9a36d23e9b4ef", null ]
 ];

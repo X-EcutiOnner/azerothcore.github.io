@@ -1,11 +1,16 @@
 var a16914 =
 [
-    [ "boss_moorabiAI", "d7/dc0/a16914.html#a60a03c3840a3743719996929d2ca9e59", null ],
-    [ "JustDied", "d7/dc0/a16914.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
-    [ "JustEngagedWith", "d7/dc0/a16914.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
-    [ "KilledUnit", "d7/dc0/a16914.html#a265855d2972e534e927bfa609fbf2cf5", null ],
-    [ "Reset", "d7/dc0/a16914.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
-    [ "SpellHitTarget", "d7/dc0/a16914.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
-    [ "UpdateAI", "d7/dc0/a16914.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
-    [ "events2", "d7/dc0/a16914.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
+    [ "boss_gal_darahAI", "d7/dc0/a16914.html#a11f552c8d7ea90003540c052e84d7d30", null ],
+    [ "GetData", "d7/dc0/a16914.html#a239f2ad880eef60de017aa5493624e81", null ],
+    [ "InitializeAI", "d7/dc0/a16914.html#ad59573249068bd4962b36f1f3dc581c8", null ],
+    [ "JustDied", "d7/dc0/a16914.html#ad48d93efb462d7042b858724b8ff2aac", null ],
+    [ "JustEngagedWith", "d7/dc0/a16914.html#aabf2d3ef1d00731696d71225c63bb8b5", null ],
+    [ "JustReachedHome", "d7/dc0/a16914.html#a66abe46de699aca6e21910e8594caeaf", null ],
+    [ "JustSummoned", "d7/dc0/a16914.html#afda5dd71e597245e5c7b272b6817e644", null ],
+    [ "KilledUnit", "d7/dc0/a16914.html#ad477c3f60dfc1158856a6765b15efe78", null ],
+    [ "Reset", "d7/dc0/a16914.html#a0fba8f1a406dd97a27e92b26c682ec63", null ],
+    [ "ScheduleEvents", "d7/dc0/a16914.html#a77f18488503bf47e985c1ac6c8d67b1f", null ],
+    [ "UpdateAI", "d7/dc0/a16914.html#a5faa0cbb6eb126508ef6921f3b4ba15f", null ],
+    [ "impaledList", "d7/dc0/a16914.html#a53b3c115af0df5381d31fa54f344af80", null ],
+    [ "phaseCounter", "d7/dc0/a16914.html#a484acaccbbc400ec271e24ea6fb0c55f", null ]
 ];

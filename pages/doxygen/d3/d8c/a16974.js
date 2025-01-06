@@ -1,6 +1,6 @@
 var a16974 =
 [
-    [ "boss_prince_valanarAI", "df/d21/a16978.html", "df/d21/a16978" ],
-    [ "boss_prince_valanar_icc", "d3/d8c/a16974.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
-    [ "GetAI", "d3/d8c/a16974.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
+    [ "ShockVortexExplodeEvent", "d3/d8c/a16974.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "d3/d8c/a16974.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "d3/d8c/a16974.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

@@ -1,6 +1,9 @@
 var a21354 =
 [
-    [ "npc_mei_francis_mountAI", "d6/d7a/a21358.html", "d6/d7a/a21358" ],
-    [ "npc_mei_francis_mount", "db/df9/a21354.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "db/df9/a21354.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "npc_counselor_talbotAI", "db/df9/a21354.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
+    [ "JustDied", "db/df9/a21354.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
+    [ "JustEngagedWith", "db/df9/a21354.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
+    [ "Reset", "db/df9/a21354.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
+    [ "UpdateAI", "db/df9/a21354.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
+    [ "_events", "db/df9/a21354.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
 ];

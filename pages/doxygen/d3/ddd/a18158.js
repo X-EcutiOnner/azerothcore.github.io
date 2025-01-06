@@ -1,6 +1,9 @@
 var a18158 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "df/dd3/a18162.html", "df/dd3/a18162" ],
-    [ "npc_green_dragon_combat_trigger", "d3/ddd/a18158.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "d3/ddd/a18158.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "DelayedCastEvent", "d3/ddd/a18158.html#ae6d57612065d56ce79197aedebedf9f9", null ],
+    [ "Execute", "d3/ddd/a18158.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "d3/ddd/a18158.html#acc9e22eb1908e4c458199fc4cccd56c6", null ],
+    [ "_originalCaster", "d3/ddd/a18158.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "d3/ddd/a18158.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "d3/ddd/a18158.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

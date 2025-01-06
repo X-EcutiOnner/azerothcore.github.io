@@ -1,7 +1,6 @@
 var a21778 =
 [
-    [ "Absorb", "dc/d86/a21778.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "dc/d86/a21778.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "dc/d86/a21778.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "dc/d86/a21778.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "npc_boneguard_footmanAI", "dc/d86/a21778.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "dc/d86/a21778.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "dc/d86/a21778.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

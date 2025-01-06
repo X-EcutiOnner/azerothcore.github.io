@@ -1,8 +1,7 @@
 var a15714 =
 [
-    [ "RestoreFight", "da/d13/a15714.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "RestoreFight", "da/d13/a15714.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "Execute", "da/d13/a15714.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "Execute", "da/d13/a15714.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "_owner", "da/d13/a15714.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
+    [ "HandleHit", "da/d13/a15714.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
+    [ "PrepareSpellScript", "da/d13/a15714.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
+    [ "Register", "da/d13/a15714.html#af132eee38064c5123f4e01d52efb9314", null ],
+    [ "Validate", "da/d13/a15714.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
 ];

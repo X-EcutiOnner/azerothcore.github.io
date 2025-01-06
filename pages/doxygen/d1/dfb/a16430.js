@@ -1,6 +1,12 @@
 var a16430 =
 [
-    [ "instance_drak_tharon_keep_InstanceScript", "d9/df1/a16434.html", "d9/df1/a16434" ],
-    [ "instance_drak_tharon_keep", "d1/dfb/a16430.html#a1f375185dba1619fee36160549eb91f4", null ],
-    [ "GetInstanceScript", "d1/dfb/a16430.html#aca6364452dc39e747af152695d479bf8", null ]
+    [ "boss_trollgoreAI", "d1/dfb/a16430.html#a958deb54a8460cc2dc61958bd9acb338", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d1/dfb/a16430.html#a39be832be97a27a3358c2f6c939ca728", null ],
+    [ "JustDied", "d1/dfb/a16430.html#a32a309084b6b7c4b4e5db10d9c8a95bd", null ],
+    [ "JustEngagedWith", "d1/dfb/a16430.html#a25414dc1b13aa1372e397c5cb11afdaa", null ],
+    [ "JustSummoned", "d1/dfb/a16430.html#abd2199877e0e1465a7e5783b80ad2a44", null ],
+    [ "KilledUnit", "d1/dfb/a16430.html#aa65d03d8879c6177753b8316c1343ad4", null ],
+    [ "Reset", "d1/dfb/a16430.html#a4fe22aebe6e814196ac1914d158a62de", null ],
+    [ "UpdateAI", "d1/dfb/a16430.html#a3fa3247442edb81136647f7fdf5834cf", null ],
+    [ "events2", "d1/dfb/a16430.html#a94e8c9616ac332f33f2b976c074092af", null ]
 ];

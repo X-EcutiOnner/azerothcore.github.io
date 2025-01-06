@@ -1,7 +1,7 @@
 var a18458 =
 [
-    [ "HandleDummyLaunch", "d8/d24/a18458.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
-    [ "PrepareSpellScript", "d8/d24/a18458.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
-    [ "Register", "d8/d24/a18458.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
-    [ "Validate", "d8/d24/a18458.html#a577166695c1479e3730a70637bc18cf1", null ]
+    [ "OnRemove", "d8/d24/a18458.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
+    [ "PrepareAuraScript", "d8/d24/a18458.html#acf654e563f47df9ad033d7080f47662b", null ],
+    [ "Register", "d8/d24/a18458.html#aad4497ba7cad48b9547e8696714d8c23", null ],
+    [ "Validate", "d8/d24/a18458.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
 ];

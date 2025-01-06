@@ -1,6 +1,6 @@
 var a20526 =
 [
-    [ "boss_yoggsaron_death_orbAI", "d2/d97/a20526.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
-    [ "UpdateAI", "d2/d97/a20526.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
-    [ "_startTimer", "d2/d97/a20526.html#aebc8edef5f84219e1c50f2394d129443", null ]
+    [ "boss_yoggsaronAI", "d7/d23/a20530.html", "d7/d23/a20530" ],
+    [ "boss_yoggsaron", "d2/d97/a20526.html#a3fa3ada3979b55100b8ca9e21ec655a1", null ],
+    [ "GetAI", "d2/d97/a20526.html#a113eb034acc46a2edd4a84598413a63e", null ]
 ];

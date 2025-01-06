@@ -1,8 +1,9 @@
 var a24110 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "d3/d25/a24110.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "d3/d25/a24110.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "d3/d25/a24110.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "d3/d25/a24110.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "d3/d25/a24110.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "d3/d25/a24110.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "d3/d25/a24110.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "d3/d25/a24110.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "d3/d25/a24110.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "d3/d25/a24110.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "d3/d25/a24110.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

@@ -1,6 +1,7 @@
 var a17418 =
 [
-    [ "CheckProc", "d7/d50/a17418.html#a86e62fa26606a77284c80583e7b35d27", null ],
-    [ "PrepareAuraScript", "d7/d50/a17418.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
-    [ "Register", "d7/d50/a17418.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
+    [ "HandleScript", "d7/d50/a17418.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "d7/d50/a17418.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "d7/d50/a17418.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "d7/d50/a17418.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

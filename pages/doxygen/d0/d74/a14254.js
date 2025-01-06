@@ -1,6 +1,6 @@
 var a14254 =
 [
-    [ "HandleScriptEffect", "d0/d74/a14254.html#aebd700897688157ca62405c92fe58680", null ],
-    [ "PrepareSpellScript", "d0/d74/a14254.html#a09e11d1938279a2302fb8805e71c6c36", null ],
-    [ "Register", "d0/d74/a14254.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
+    [ "PrepareAuraScript", "d0/d74/a14254.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "d0/d74/a14254.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "d0/d74/a14254.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

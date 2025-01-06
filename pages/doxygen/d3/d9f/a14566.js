@@ -1,18 +1,15 @@
 var a14566 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "d3/d9f/a14566.html#aacdc6a4029fceddfa56155b296012aa3", null ],
-    [ "GetData", "d3/d9f/a14566.html#ad3eaa065114b6a0d2a38844df9289dc7", null ],
-    [ "Initialize", "d3/d9f/a14566.html#a5b0977c0b20d6302ce6c5f8a14e78e90", null ],
-    [ "OnCreatureCreate", "d3/d9f/a14566.html#aa903356acce9401a139e30fb6839f4df", null ],
-    [ "OnGameObjectCreate", "d3/d9f/a14566.html#aad49d9f3f3c974e5c2f3a42b22759b9a", null ],
-    [ "ReadSaveDataMore", "d3/d9f/a14566.html#ae8c49e7531b89074cc07ac0555650f05", null ],
-    [ "SetData", "d3/d9f/a14566.html#a93e7b63eae8d1e21b7e5c57fa370e801", null ],
-    [ "WriteSaveDataMore", "d3/d9f/a14566.html#ad6f52ef932cc09e377325e83482a3b5c", null ],
-    [ "_eastWingProgress", "d3/d9f/a14566.html#a7f9d7f14c3223fa7bf7b7999d1f41105", null ],
-    [ "_immoltharGUID", "d3/d9f/a14566.html#a4b63e6062765fc1df53c6a95b366e9f1", null ],
-    [ "_northWingBosses", "d3/d9f/a14566.html#ab7130c806073258f4efae9e9177587be", null ],
-    [ "_northWingProgress", "d3/d9f/a14566.html#a55e78ac91cf6073192594758e447cb19", null ],
-    [ "_pylonsState", "d3/d9f/a14566.html#a5a16e7c47b42d1f8da9dde7b14f5c513", null ],
-    [ "_westWingProgress", "d3/d9f/a14566.html#ab4d27deece6b8274300904571fb62e90", null ],
-    [ "HighborneSummoners", "d3/d9f/a14566.html#af0e2c615ca136f4fffd1ed41e471f492", null ]
+    [ "npc_time_rift", "d3/d9f/a14566.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
+    [ "DoSelectSummon", "d3/d9f/a14566.html#af2932c60efaea64d27d52b118b9a8095", null ],
+    [ "DoSummonAtRift", "d3/d9f/a14566.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
+    [ "JustSummoned", "d3/d9f/a14566.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
+    [ "Reset", "d3/d9f/a14566.html#ad08ca716f120a45ee1688e03d2049aba", null ],
+    [ "SummonedCreatureDies", "d3/d9f/a14566.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
+    [ "UpdateAI", "d3/d9f/a14566.html#ab5924378c7978c6fae95f9861040c63d", null ],
+    [ "_events", "d3/d9f/a14566.html#a12ffd459f8d63f299269da5b65f60128", null ],
+    [ "_instance", "d3/d9f/a14566.html#a8eab9c3011c885321d59e2884318d0e8", null ],
+    [ "_riftKeeperGUID", "d3/d9f/a14566.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
+    [ "waveMobIndex", "d3/d9f/a14566.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
+    [ "waveMobs", "d3/d9f/a14566.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
 ];

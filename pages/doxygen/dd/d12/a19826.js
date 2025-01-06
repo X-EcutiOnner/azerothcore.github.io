@@ -1,8 +1,6 @@
 var a19826 =
 [
-    [ "npc_ulduar_saronite_animusAI", "dd/d12/a19826.html#a2b94427feb24a7bda075b6a8f403433a", null ],
-    [ "JustDied", "dd/d12/a19826.html#a30abcab01de3732bc5525864576615b0", null ],
-    [ "UpdateAI", "dd/d12/a19826.html#a1490961adc8fc03ab28a992aff55b43b", null ],
-    [ "pInstance", "dd/d12/a19826.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
-    [ "timer", "dd/d12/a19826.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
+    [ "boss_vezaxAI", "d5/dc2/a19830.html", "d5/dc2/a19830" ],
+    [ "boss_vezax", "dd/d12/a19826.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
+    [ "GetAI", "dd/d12/a19826.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
 ];

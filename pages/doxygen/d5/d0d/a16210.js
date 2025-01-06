@@ -1,6 +1,6 @@
 var a16210 =
 [
-    [ "boss_jaraxxusAI", "d0/dd5/a16214.html", "d0/dd5/a16214" ],
-    [ "boss_jaraxxus", "d5/d0d/a16210.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "d5/d0d/a16210.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "npc_toc_pet_warlockAI", "d0/dd5/a16214.html", "d0/dd5/a16214" ],
+    [ "npc_toc_pet_warlock", "d5/d0d/a16210.html#a4703f506d677d7e490c6813c6d9b060b", null ],
+    [ "GetAI", "d5/d0d/a16210.html#aebcaff82726508a14028cb22a1ef944b", null ]
 ];

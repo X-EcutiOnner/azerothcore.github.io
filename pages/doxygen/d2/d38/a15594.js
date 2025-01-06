@@ -1,15 +1,14 @@
 var a15594 =
 [
-    [ "boss_hadronoxAI", "d2/d38/a15594.html#a75430465e2329252581c2522ff14d82b", null ],
-    [ "AnyPlayerValid", "d2/d38/a15594.html#a5b4dc381ff6df8a4badc61196e2687bd", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d2/d38/a15594.html#aa5c858b2702744f24ac1d22078df1d7b", null ],
-    [ "DamageTaken", "d2/d38/a15594.html#a31ddd8521366da9cb862334c659288b3", null ],
-    [ "DoAction", "d2/d38/a15594.html#ab3bf3ca6a2adcf4c50a9bf1ddc8bac0e", null ],
-    [ "GetData", "d2/d38/a15594.html#a6fdb9b9650382600086f5646a627af52", null ],
-    [ "JustDied", "d2/d38/a15594.html#a42ffdf5a3d2ee43ddf0fc0d29f580491", null ],
-    [ "JustEngagedWith", "d2/d38/a15594.html#af8bcc00fbf757e0a0129111cca0a0a5c", null ],
-    [ "JustSummoned", "d2/d38/a15594.html#a65b93a213a69edf864ca123b6560b0a8", null ],
-    [ "KilledUnit", "d2/d38/a15594.html#ac4b6a589939bdc8a23f182ebf955e242", null ],
-    [ "Reset", "d2/d38/a15594.html#a1063db2596a0d57381011c2a6ceeb34e", null ],
-    [ "UpdateAI", "d2/d38/a15594.html#a10aa0f67aeb12d3d9a34f6213fe3d28f", null ]
+    [ "boss_anub_arakAI", "d2/d38/a15594.html#a9b9dc11d78456efd9c6ad69e0c12e022", null ],
+    [ "EnterEvadeMode", "d2/d38/a15594.html#a016f17a11be149cbb6cc1343f2916a4f", null ],
+    [ "JustDied", "d2/d38/a15594.html#abc93931e7698ffd717199a598e16c917", null ],
+    [ "JustEngagedWith", "d2/d38/a15594.html#a589c252516b738a8f38f9d89da11912c", null ],
+    [ "JustSummoned", "d2/d38/a15594.html#a8624e9dc8af370579bd7ef72063acbf8", null ],
+    [ "KilledUnit", "d2/d38/a15594.html#a33e26ae3907e84ecc02514e4133e3002", null ],
+    [ "MoveInLineOfSight", "d2/d38/a15594.html#ab89570d2d0ddb494fa20f24d95cac41b", null ],
+    [ "Reset", "d2/d38/a15594.html#a254a51a901c0e82da6cb87ade5eba6fa", null ],
+    [ "SummonHelpers", "d2/d38/a15594.html#a709ef4602ace41c9b9ccebe8795badec", null ],
+    [ "UpdateAI", "d2/d38/a15594.html#acf3ddec273ded62c768631be2b3299fa", null ],
+    [ "intro", "d2/d38/a15594.html#a4916d6a1ed06330e94698a13c404ee52", null ]
 ];

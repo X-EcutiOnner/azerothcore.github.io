@@ -1,9 +1,10 @@
 var a14710 =
 [
-    [ "go_ossirian_crystalAI", "d4/de3/a14710.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
-    [ "DoAction", "d4/de3/a14710.html#a581436335d190466520c07fde56ad441", null ],
-    [ "GossipHello", "d4/de3/a14710.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
-    [ "SetGUID", "d4/de3/a14710.html#a9c983aa02285dbebc545b4056191200c", null ],
-    [ "_instance", "d4/de3/a14710.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
-    [ "_triggerGUID", "d4/de3/a14710.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
+    [ "boss_moam", "d4/de3/a14710.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "d4/de3/a14710.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "d4/de3/a14710.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "d4/de3/a14710.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "d4/de3/a14710.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "d4/de3/a14710.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "d4/de3/a14710.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

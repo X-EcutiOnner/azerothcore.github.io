@@ -1,7 +1,9 @@
 var a15326 =
 [
-    [ "npc_giltharesAI", "d4/d74/a15330.html", "d4/d74/a15330" ],
-    [ "npc_gilthares", "da/dff/a15326.html#af1e0746350b32b68825710e1c3ed91a5", null ],
-    [ "GetAI", "da/dff/a15326.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
-    [ "OnQuestAccept", "da/dff/a15326.html#a018cc6240a79216acb371241f63e3234", null ]
+    [ "npc_custodian_of_timeAI", "da/dff/a15326.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "da/dff/a15326.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "da/dff/a15326.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "da/dff/a15326.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "da/dff/a15326.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "da/dff/a15326.html#a963736e62fbd0caea631ee3fb69fca46", null ]
 ];

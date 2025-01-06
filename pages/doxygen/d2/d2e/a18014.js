@@ -1,6 +1,8 @@
 var a18014 =
 [
-    [ "ModDest", "d2/d2e/a18014.html#a71638bdecb0f580dceff7858441056d8", null ],
-    [ "PrepareSpellScript", "d2/d2e/a18014.html#a741227928e07585b156ec716ae8b13da", null ],
-    [ "Register", "d2/d2e/a18014.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
+    [ "ChangeDamageAndGrow", "d2/d2e/a18014.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "d2/d2e/a18014.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "d2/d2e/a18014.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "d2/d2e/a18014.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "d2/d2e/a18014.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

@@ -1,7 +1,9 @@
 var a18590 =
 [
-    [ "DelayedCastMincharEvent", "d8/d3c/a18590.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "d8/d3c/a18590.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "d8/d3c/a18590.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "d8/d3c/a18590.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "spell_trigger_spell_from_caster", "d8/d3c/a18590.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
+    [ "HandleTrigger", "d8/d3c/a18590.html#afc11c9408ea11cb04e476999a9bdf522", null ],
+    [ "PrepareSpellScript", "d8/d3c/a18590.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
+    [ "Register", "d8/d3c/a18590.html#ae44cc1a87267c1d08603d1aff2384957", null ],
+    [ "Validate", "d8/d3c/a18590.html#a3aace9a309bc848b887b03c949c921bd", null ],
+    [ "_triggerId", "d8/d3c/a18590.html#a29af52a9035f18936515a464889fefe5", null ]
 ];

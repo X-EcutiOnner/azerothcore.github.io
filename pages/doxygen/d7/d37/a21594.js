@@ -1,6 +1,8 @@
 var a21594 =
 [
-    [ "npc_ravenous_worgAI", "d6/d13/a21598.html", "d6/d13/a21598" ],
-    [ "npc_ravenous_worg", "d7/d37/a21594.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
-    [ "GetAI", "d7/d37/a21594.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
+    [ "AfterApply", "d7/d37/a21594.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "d7/d37/a21594.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "d7/d37/a21594.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "d7/d37/a21594.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "d7/d37/a21594.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

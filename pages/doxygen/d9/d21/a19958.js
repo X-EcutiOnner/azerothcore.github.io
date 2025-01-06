@@ -1,7 +1,10 @@
 var a19958 =
 [
-    [ "HandleAfterEffectApply", "d9/d21/a19958.html#adab765d78094eec673abce5140145267", null ],
-    [ "OnApply", "d9/d21/a19958.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
-    [ "PrepareAuraScript", "d9/d21/a19958.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
-    [ "Register", "d9/d21/a19958.html#ac1007ce2ee5e046639829558855f0188", null ]
+    [ "HandleEffectPeriodic", "d9/d21/a19958.html#aa62be73e00d9cb512806787eaf1c4144", null ],
+    [ "Load", "d9/d21/a19958.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
+    [ "PrepareAuraScript", "d9/d21/a19958.html#ad9664bff267b330565d3c706e1752e9d", null ],
+    [ "Register", "d9/d21/a19958.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
+    [ "Validate", "d9/d21/a19958.html#a3f6653b4ca202d9b0971189930e8b463", null ],
+    [ "_counter", "d9/d21/a19958.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
+    [ "_prev", "d9/d21/a19958.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
 ];

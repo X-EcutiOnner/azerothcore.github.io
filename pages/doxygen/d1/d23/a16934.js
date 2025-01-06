@@ -1,7 +1,11 @@
 var a16934 =
 [
-    [ "HandlePeriodic", "d1/d23/a16934.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
-    [ "PrepareAuraScript", "d1/d23/a16934.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
-    [ "Register", "d1/d23/a16934.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
-    [ "Validate", "d1/d23/a16934.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
+    [ "boss_moorabiAI", "d1/d23/a16934.html#a60a03c3840a3743719996929d2ca9e59", null ],
+    [ "JustDied", "d1/d23/a16934.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
+    [ "JustEngagedWith", "d1/d23/a16934.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
+    [ "KilledUnit", "d1/d23/a16934.html#a265855d2972e534e927bfa609fbf2cf5", null ],
+    [ "Reset", "d1/d23/a16934.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
+    [ "SpellHitTarget", "d1/d23/a16934.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
+    [ "UpdateAI", "d1/d23/a16934.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
+    [ "events2", "d1/d23/a16934.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
 ];

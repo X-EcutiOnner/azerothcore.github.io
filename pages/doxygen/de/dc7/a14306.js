@@ -1,8 +1,7 @@
 var a14306 =
 [
-    [ "npc_doomfire_spirit", "de/dc7/a14306.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "de/dc7/a14306.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "de/dc7/a14306.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "de/dc7/a14306.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "de/dc7/a14306.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "HandleOnHit", "de/dc7/a14306.html#ae3241486a612293b5421a523f6d854d9", null ],
+    [ "PrepareSpellScript", "de/dc7/a14306.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
+    [ "Register", "de/dc7/a14306.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
+    [ "Validate", "de/dc7/a14306.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
 ];

@@ -1,6 +1,7 @@
 var a14706 =
 [
-    [ "go_ossirian_crystalAI", "d4/de3/a14710.html", "d4/de3/a14710" ],
-    [ "go_ossirian_crystal", "d6/d68/a14706.html#a783f0f0570ee0f667920e29613b565b2", null ],
-    [ "GetAI", "d6/d68/a14706.html#a2f7b12eddc6504917614913e347ec0a0", null ]
+    [ "go_sand_trap", "d6/d68/a14706.html#a58d45acac672cb05988ddca78185b469", null ],
+    [ "Reset", "d6/d68/a14706.html#a7071a3e420e9137ca133b471bc217bf3", null ],
+    [ "UpdateAI", "d6/d68/a14706.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
+    [ "_scheduler", "d6/d68/a14706.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
 ];

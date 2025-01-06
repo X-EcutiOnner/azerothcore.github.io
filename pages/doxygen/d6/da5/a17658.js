@@ -1,11 +1,6 @@
 var a17658 =
 [
-    [ "npc_little_oozeAI", "d6/da5/a17658.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
-    [ "EnterEvadeMode", "d6/da5/a17658.html#a0bd4bfcc8c373a449f297011289e5530", null ],
-    [ "IsSummonedBy", "d6/da5/a17658.html#afb9763ade36bd742398a8bca961c136b", null ],
-    [ "JustDied", "d6/da5/a17658.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
-    [ "UpdateAI", "d6/da5/a17658.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
-    [ "events", "d6/da5/a17658.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
-    [ "firstUpdate", "d6/da5/a17658.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
-    [ "instance", "d6/da5/a17658.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
+    [ "ExtraEffect", "d6/da5/a17658.html#a10dfb36a835589208482e1c8833d8f46", null ],
+    [ "PrepareSpellScript", "d6/da5/a17658.html#a972ff2bdc7d3660820e05326600be6f6", null ],
+    [ "Register", "d6/da5/a17658.html#ae337e67a220b72b44878d02be33e3888", null ]
 ];

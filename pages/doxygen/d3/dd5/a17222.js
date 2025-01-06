@@ -1,9 +1,7 @@
 var a17222 =
 [
-    [ "BattleExperienceEvent", "d3/dd5/a17222.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "d3/dd5/a17222.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "d3/dd5/a17222.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "d3/dd5/a17222.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "d3/dd5/a17222.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "d3/dd5/a17222.html#a4daf5818472ebe7c8d3938e2189d8e02", null ]
+    [ "HandleScript", "d3/dd5/a17222.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "d3/dd5/a17222.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "d3/dd5/a17222.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "d3/dd5/a17222.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

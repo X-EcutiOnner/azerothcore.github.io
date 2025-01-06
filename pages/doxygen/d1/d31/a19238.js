@@ -1,6 +1,6 @@
 var a19238 =
 [
-    [ "npc_hol_monumentAI", "d5/dea/a19242.html", "d5/dea/a19242" ],
-    [ "npc_hol_monument", "d1/d31/a19238.html#ae70329e600ba869891e04b31d7452fc0", null ],
-    [ "GetAI", "d1/d31/a19238.html#a8e025a4c67d3a04a231f4effe0ef3746", null ]
+    [ "CalculateDamage", "d1/d31/a19238.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "d1/d31/a19238.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "d1/d31/a19238.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

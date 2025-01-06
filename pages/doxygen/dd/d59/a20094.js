@@ -1,6 +1,6 @@
 var a20094 =
 [
-    [ "boss_mimironAI", "d8/dd1/a20098.html", "d8/dd1/a20098" ],
-    [ "boss_mimiron", "dd/d59/a20094.html#a72904837bd85e9f711fcf3da04c459c3", null ],
-    [ "GetAI", "dd/d59/a20094.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
+    [ "FilterTargets", "dd/d59/a20094.html#ae8d940a89be9b63286911bd55dcd3844", null ],
+    [ "PrepareSpellScript", "dd/d59/a20094.html#a8f4b4d82e53c8f820b620896478681a9", null ],
+    [ "Register", "dd/d59/a20094.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
 ];

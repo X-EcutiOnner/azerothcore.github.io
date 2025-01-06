@@ -1,6 +1,6 @@
 var a21738 =
 [
-    [ "npc_llod_genericAI", "d8/d89/a21742.html", "d8/d89/a21742" ],
-    [ "npc_llod_generic", "de/ded/a21738.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "de/ded/a21738.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "npc_razael_and_lyana", "de/ded/a21738.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "de/ded/a21738.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "de/ded/a21738.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

@@ -1,7 +1,6 @@
 var a19010 =
 [
-    [ "boss_commander_stoutbeard", "d8/d44/a19010.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
-    [ "JustDied", "d8/d44/a19010.html#a2fd835408045715058ba476aa56cb4f7", null ],
-    [ "JustEngagedWith", "d8/d44/a19010.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
-    [ "KilledUnit", "d8/d44/a19010.html#acf7016c65f020dca9228bd2d2fd89299", null ]
+    [ "instance_eye_of_eternity_InstanceMapScript", "db/d3a/a19014.html", "db/d3a/a19014" ],
+    [ "instance_eye_of_eternity", "d8/d44/a19010.html#afcab4ba969d0423871a4e398627a323d", null ],
+    [ "GetInstanceScript", "d8/d44/a19010.html#af51319609d355fe87a77a87eb697f434", null ]
 ];

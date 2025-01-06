@@ -1,9 +1,10 @@
 var a13734 =
 [
-    [ "npc_shade_of_jindo", "dd/de1/a13734.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
-    [ "IsSummonedBy", "dd/de1/a13734.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
-    [ "JustEngagedWith", "dd/de1/a13734.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
-    [ "Reset", "dd/de1/a13734.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
-    [ "UpdateAI", "dd/de1/a13734.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
-    [ "_scheduler", "dd/de1/a13734.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
+    [ "boss_jeklik", "dd/de1/a13734.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
+    [ "EnterEvadeMode", "dd/de1/a13734.html#a70dc363e0690e72846db5f779375edc1", null ],
+    [ "JustDied", "dd/de1/a13734.html#ae648ba9ff49f4970612a8c3351789b66", null ],
+    [ "JustEngagedWith", "dd/de1/a13734.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
+    [ "PathEndReached", "dd/de1/a13734.html#a689e8f91361de45e6f885fea0dec900a", null ],
+    [ "Reset", "dd/de1/a13734.html#a7959106123e60e3584b32b50a272746c", null ],
+    [ "batRidersCount", "dd/de1/a13734.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
 ];

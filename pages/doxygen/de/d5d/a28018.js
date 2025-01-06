@@ -1,7 +1,5 @@
 var a28018 =
 [
-    [ "Flags", "de/d5d/a28018.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "de/d5d/a28018.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "de/d5d/a28018.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "de/d5d/a28018.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "CastTime", "de/d5d/a28018.html#af0bf895b1a5d61974cb63230b786c55e", null ],
+    [ "ID", "de/d5d/a28018.html#a41b1059fc4059bd198925861a9414497", null ]
 ];

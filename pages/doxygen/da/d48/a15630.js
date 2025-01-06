@@ -1,6 +1,7 @@
 var a15630 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "dc/d38/a15634.html", "dc/d38/a15634" ],
-    [ "instance_azjol_nerub", "da/d48/a15630.html#a61476a0d15136d2bdb3a65eca72963da", null ],
-    [ "GetInstanceScript", "da/d48/a15630.html#a8bb8477669c6369afe508a400bd4d489", null ]
+    [ "HandleEffectRemove", "da/d48/a15630.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
+    [ "PrepareAuraScript", "da/d48/a15630.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
+    [ "Register", "da/d48/a15630.html#a7c0533650e772713233ea45b0264cbff", null ],
+    [ "Validate", "da/d48/a15630.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
 ];

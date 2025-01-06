@@ -1,7 +1,7 @@
 var a14746 =
 [
-    [ "npc_hivezara_stinger", "d5/d11/a14746.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "d5/d11/a14746.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "d5/d11/a14746.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "d5/d11/a14746.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "boss_rajaxx", "d5/d11/a14746.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
+    [ "JustDied", "d5/d11/a14746.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
+    [ "JustEngagedWith", "d5/d11/a14746.html#a8dad79921559359b6aa7149641925fe5", null ],
+    [ "UpdateAI", "d5/d11/a14746.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
 ];

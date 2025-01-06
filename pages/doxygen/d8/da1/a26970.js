@@ -1,6 +1,6 @@
 var a26970 =
 [
-    [ "go_midsummer_musicAI", "d8/da1/a26970.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
-    [ "UpdateAI", "d8/da1/a26970.html#adf185ee702e9e74f65204b90786f9eb4", null ],
-    [ "_events", "d8/da1/a26970.html#a31e45a754930cdc3206fe2b7f754d234", null ]
+    [ "go_pirate_day_musicAI", "d2/d10/a26974.html", "d2/d10/a26974" ],
+    [ "go_pirate_day_music", "d8/da1/a26970.html#aa8d19102357639bd160eae9e90a87505", null ],
+    [ "GetAI", "d8/da1/a26970.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
 ];

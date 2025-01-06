@@ -1,6 +1,6 @@
 var a27354 =
 [
-    [ "npc_venomhide_hatchlingAI", "d3/da0/a27354.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d3/da0/a27354.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d3/da0/a27354.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "npc_spring_rabbitAI", "d2/d20/a27358.html", "d2/d20/a27358" ],
+    [ "npc_spring_rabbit", "d3/da0/a27354.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "d3/da0/a27354.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

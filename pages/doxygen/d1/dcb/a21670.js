@@ -1,7 +1,7 @@
 var a21670 =
 [
-    [ "HandleDummy", "d1/dcb/a21670.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
-    [ "PrepareSpellScript", "d1/dcb/a21670.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
-    [ "Register", "d1/dcb/a21670.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
-    [ "Validate", "d1/dcb/a21670.html#aeec15705a41ad2ac0e59d90086591d96", null ]
+    [ "HandleScript", "d1/dcb/a21670.html#a95de3ae27cfd764380ab1648b49af38d", null ],
+    [ "Load", "d1/dcb/a21670.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
+    [ "PrepareSpellScript", "d1/dcb/a21670.html#a442138710213b9b120d8ce57b733205a", null ],
+    [ "Register", "d1/dcb/a21670.html#af9d8f764a6a02737f8b559f067156df6", null ]
 ];

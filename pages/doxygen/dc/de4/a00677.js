@@ -1,8 +1,8 @@
 var a00677 =
 [
-    [ "boss_high_astromancer_solarian", "d6/d5f/a23498.html", "d6/d5f/a23498" ],
-    [ "spell_astromancer_wrath_of_the_astromancer", "dd/d07/a23502.html", "dd/d07/a23502" ],
-    [ "spell_astromancer_solarian_transform", "d0/dad/a23506.html", "d0/dad/a23506" ],
+    [ "boss_high_astromancer_solarian", "dc/dbf/a23518.html", "dc/dbf/a23518" ],
+    [ "spell_astromancer_wrath_of_the_astromancer", "d2/db4/a23522.html", "d2/db4/a23522" ],
+    [ "spell_astromancer_solarian_transform", "df/d41/a23526.html", "df/d41/a23526" ],
     [ "CENTER_O", "dc/de4/a00677.html#a1b683ec7a35f03622bada41f50aac881", null ],
     [ "CENTER_X", "dc/de4/a00677.html#affb36ca3a6519ca609cfa9a0d70a682a", null ],
     [ "CENTER_Y", "dc/de4/a00677.html#a65dba9379097de8ea0bb4afd9d504b2b", null ],
@@ -96,6 +96,7 @@ var a00677 =
       [ "ADDITIONAL_CLASS_SPRIEST", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92706eb33a08d2af442625bec27cdf3c", null ],
       [ "AURA_SHADOW_FORM", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad3a76f7068948a8105e9c5001dbb41d2", null ],
       [ "GROUP_CLASS_ABILITY", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8aaab438cd70047fa9299e78971c4f4", null ],
+      [ "GROUP_DRAIN_POWER", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afec21b3ce2b83056ea6ccf2336110b3d", null ],
       [ "MAX_BOMB_COUNT", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a55b3541c734c6bf371563c020ea4918e", null ],
       [ "GROUP_ENRAGE", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a98519d98f2763476413ba8ba9b1aa780", null ],
       [ "GROUP_HATCHING", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad004964bc87e3ee20b6bd3fcb2411521", null ],
@@ -1565,6 +1566,7 @@ var a00677 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

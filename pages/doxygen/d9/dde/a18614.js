@@ -1,6 +1,6 @@
 var a18614 =
 [
-    [ "npc_four_car_garageAI", "d9/dde/a18614.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
-    [ "JustDied", "d9/dde/a18614.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
-    [ "PassengerBoarded", "d9/dde/a18614.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
+    [ "instance_icecrown_citadel_InstanceMapScript", "dc/ddd/a18618.html", "dc/ddd/a18618" ],
+    [ "instance_icecrown_citadel", "d9/dde/a18614.html#a0901e23025cff08d1a7516bbef099ffa", null ],
+    [ "GetInstanceScript", "d9/dde/a18614.html#a787c32626681f15f5515385a9ba6b848", null ]
 ];

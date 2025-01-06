@@ -1,7 +1,5 @@
 var a20014 =
 [
-    [ "HandleEffectPeriodic", "d2/d54/a20014.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "d2/d54/a20014.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "d2/d54/a20014.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "d2/d54/a20014.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "achievement_staying_buffed_all_winter_25", "d2/d54/a20014.html#a91f0ab3bada837cff6414350b98a27a3", null ],
+    [ "OnCheck", "d2/d54/a20014.html#a36591082184bc8466e124bad9a910545", null ]
 ];

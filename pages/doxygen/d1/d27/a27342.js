@@ -1,6 +1,6 @@
 var a27342 =
 [
-    [ "npc_stable_masterAI", "da/dc9/a27346.html", "da/dc9/a27346" ],
-    [ "npc_stable_master", "d1/d27/a27342.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "d1/d27/a27342.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "npc_experience", "d1/d27/a27342.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "d1/d27/a27342.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "d1/d27/a27342.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

@@ -1,7 +1,9 @@
 var a21242 =
 [
-    [ "HandleScriptEffect", "d7/dbb/a21242.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
-    [ "PrepareSpellScript", "d7/dbb/a21242.html#a73b5af95ee4f593337c3803574d190db", null ],
-    [ "Register", "d7/dbb/a21242.html#a930de2343532feb50b86304f32269e4c", null ],
-    [ "Validate", "d7/dbb/a21242.html#ae9bfedf7e89487217ad927459e259c04", null ]
+    [ "npc_lurgglbrAI", "d7/dbb/a21242.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "d7/dbb/a21242.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "d7/dbb/a21242.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "d7/dbb/a21242.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "IntroPhase", "d7/dbb/a21242.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "d7/dbb/a21242.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

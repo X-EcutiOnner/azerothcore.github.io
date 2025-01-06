@@ -1,8 +1,6 @@
 var a22438 =
 [
-    [ "npc_parasitic_shadowfiend", "de/d2b/a22438.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
-    [ "CanAIAttack", "de/d2b/a22438.html#ac7600aed313f1413cb9b522d60d30329", null ],
-    [ "EnterEvadeMode", "de/d2b/a22438.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
-    [ "IsSummonedBy", "de/d2b/a22438.html#a306c696d4243c4525d0a3908a212135d", null ],
-    [ "UpdateAI", "de/d2b/a22438.html#a2706a4ba7876f299b02d2e720f512af2", null ]
+    [ "HandleScriptEffect", "de/d2b/a22438.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "de/d2b/a22438.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "de/d2b/a22438.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

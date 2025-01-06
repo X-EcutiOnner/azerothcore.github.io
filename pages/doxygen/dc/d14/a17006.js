@@ -1,6 +1,11 @@
 var a17006 =
 [
-    [ "npc_kinetic_bombAI", "d0/d7c/a17010.html", "d0/d7c/a17010" ],
-    [ "npc_kinetic_bomb", "dc/d14/a17006.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
-    [ "GetAI", "dc/d14/a17006.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
+    [ "npc_blood_queen_lana_thelAI", "dc/d14/a17006.html#a7b099b90600e433e304dee1f356a9909", null ],
+    [ "MoveInLineOfSight", "dc/d14/a17006.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
+    [ "MovementInform", "dc/d14/a17006.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
+    [ "Reset", "dc/d14/a17006.html#a539b0e158c800e1aade54f37aa99751e", null ],
+    [ "UpdateAI", "dc/d14/a17006.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
+    [ "_events", "dc/d14/a17006.html#a8ec7641bab991fc584b066fae55690bf", null ],
+    [ "_instance", "dc/d14/a17006.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
+    [ "_introDone", "dc/d14/a17006.html#a40c642758a751e072e41343bb75ad306", null ]
 ];

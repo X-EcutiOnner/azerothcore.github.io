@@ -1,6 +1,6 @@
 var a20854 =
 [
-    [ "boss_skadi_graufAI", "df/d98/a20858.html", "df/d98/a20858" ],
-    [ "boss_skadi_grauf", "de/da7/a20854.html#a571db2d2ae21f38b7051319da0f042f6", null ],
-    [ "GetAI", "de/da7/a20854.html#a9b637a93a572d21691b81b80ec45206d", null ]
+    [ "npc_frenzied_worgenAI", "df/d98/a20858.html", "df/d98/a20858" ],
+    [ "npc_frenzied_worgen", "de/da7/a20854.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
+    [ "GetAI", "de/da7/a20854.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
 ];

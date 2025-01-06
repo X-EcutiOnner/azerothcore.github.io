@@ -1,6 +1,12 @@
 var a18074 =
 [
-    [ "npc_spirit_wardenAI", "d5/d4f/a18078.html", "d5/d4f/a18078" ],
-    [ "npc_spirit_warden", "d7/df2/a18074.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "d7/df2/a18074.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "npc_strangulate_vehicleAI", "d7/df2/a18074.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
+    [ "DoAction", "d7/df2/a18074.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
+    [ "IsHeroic", "d7/df2/a18074.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
+    [ "IsSummonedBy", "d7/df2/a18074.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
+    [ "OnCharmed", "d7/df2/a18074.html#a40e5537897c452d35093920ddd3669b0", null ],
+    [ "PassengerBoarded", "d7/df2/a18074.html#a819746e13af95fa964c6da3d765a7c21", null ],
+    [ "UpdateAI", "d7/df2/a18074.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
+    [ "_events", "d7/df2/a18074.html#a19b493e994d246128f63d9109e87737a", null ],
+    [ "_instance", "d7/df2/a18074.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
 ];

@@ -1,7 +1,6 @@
 var a18646 =
 [
-    [ "HandleTriggerSpell", "d3/ddc/a18646.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
-    [ "PrepareAuraScript", "d3/ddc/a18646.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
-    [ "Register", "d3/ddc/a18646.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
-    [ "Validate", "d3/ddc/a18646.html#a813bad39641956fff697580f271416d2", null ]
+    [ "boss_isle_of_conquestAI", "d5/d3d/a18650.html", "d5/d3d/a18650" ],
+    [ "boss_isle_of_conquest", "d3/ddc/a18646.html#ad4052d1b6865585d32016e1240449659", null ],
+    [ "GetAI", "d3/ddc/a18646.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
 ];

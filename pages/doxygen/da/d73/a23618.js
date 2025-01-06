@@ -1,6 +1,7 @@
 var a23618 =
 [
-    [ "HandleDummy", "da/d73/a23618.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "da/d73/a23618.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "da/d73/a23618.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "boss_gatewatcher_gyrokill", "da/d73/a23618.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "da/d73/a23618.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "da/d73/a23618.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "da/d73/a23618.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

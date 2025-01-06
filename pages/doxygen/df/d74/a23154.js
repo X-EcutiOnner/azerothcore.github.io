@@ -1,7 +1,7 @@
 var a23154 =
 [
-    [ "CalcPeriodic", "df/d74/a23154.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
-    [ "PrepareAuraScript", "df/d74/a23154.html#a290913502dfe3dfb42b44a964468b97c", null ],
-    [ "Register", "df/d74/a23154.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
-    [ "Update", "df/d74/a23154.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
+    [ "HandleScript", "df/d74/a23154.html#a42052a416290a54d5479a402de578a73", null ],
+    [ "PrepareSpellScript", "df/d74/a23154.html#a5f6aa972879b65c0207e47435d436a33", null ],
+    [ "Register", "df/d74/a23154.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
+    [ "Validate", "df/d74/a23154.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
 ];

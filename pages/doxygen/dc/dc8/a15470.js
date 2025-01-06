@@ -1,6 +1,6 @@
 var a15470 =
 [
-    [ "npc_weegli_blastfuseAI", "de/d0e/a15474.html", "de/d0e/a15474" ],
-    [ "npc_weegli_blastfuse", "dc/dc8/a15470.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "dc/dc8/a15470.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "HandleOpenLock", "dc/dc8/a15470.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "dc/dc8/a15470.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "dc/dc8/a15470.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

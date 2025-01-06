@@ -1,7 +1,7 @@
 var a01946 =
 [
-    [ "boss_cyanigosa", "df/df6/a20994.html", "df/df6/a20994" ],
-    [ "boss_cyanigosa::boss_cyanigosaAI", "d1/d55/a20998.html", "d1/d55/a20998" ],
+    [ "boss_cyanigosa", "d4/da0/a21014.html", "d4/da0/a21014" ],
+    [ "boss_cyanigosa::boss_cyanigosaAI", "dd/d3f/a21018.html", "dd/d3f/a21018" ],
     [ "eEvents", "d0/dce/a01946.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "d4/d9b/a02039.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "d4/d9b/a02039.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

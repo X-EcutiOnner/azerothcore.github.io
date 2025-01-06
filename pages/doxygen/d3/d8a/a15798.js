@@ -1,7 +1,6 @@
 var a15798 =
 [
-    [ "npc_orb_carrierAI", "d3/d8a/a15798.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "d3/d8a/a15798.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "d3/d8a/a15798.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "d3/d8a/a15798.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "boss_twilight_halionAI", "d2/db8/a15802.html", "d2/db8/a15802" ],
+    [ "boss_twilight_halion", "d3/d8a/a15798.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
+    [ "GetAI", "d3/d8a/a15798.html#a56842d74b16cbd5636649cbc643c50d8", null ]
 ];

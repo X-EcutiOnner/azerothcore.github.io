@@ -1,6 +1,6 @@
 var a23666 =
 [
-    [ "npc_nether_drakeAI", "dc/d33/a23670.html", "dc/d33/a23670" ],
-    [ "npc_nether_drake", "d5/d67/a23666.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "d5/d67/a23666.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "dc/d33/a23670.html", "dc/d33/a23670" ],
+    [ "npc_deaths_door_fell_cannon_target_bunny", "d5/d67/a23666.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
+    [ "GetAI", "d5/d67/a23666.html#a250707096229da28024960beeb7725bf", null ]
 ];

@@ -1,5 +1,4 @@
 var a27762 =
 [
-    [ "BitIndex", "d2/d18/a27762.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
-    [ "ItemId", "d2/d18/a27762.html#a998c1f6dadb823fbba56bb2154396635", null ]
+    [ "DisplayRaceID", "d2/d18/a27762.html#a5f3897281f18061c4508d752b2291552", null ]
 ];

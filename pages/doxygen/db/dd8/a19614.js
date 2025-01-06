@@ -1,6 +1,6 @@
 var a19614 =
 [
-    [ "npc_pool_of_tarAI", "db/dd8/a19614.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
-    [ "DamageTaken", "db/dd8/a19614.html#a4ea55aa08123f724268238e0def5b595", null ],
-    [ "SpellHit", "db/dd8/a19614.html#acb63166b396c079d5b4bb9db67a1448a", null ]
+    [ "npc_mimirons_infernoAI", "d3/d95/a19618.html", "d3/d95/a19618" ],
+    [ "npc_mimirons_inferno", "db/dd8/a19614.html#a7a531a65a179b5d56c888c055b72d269", null ],
+    [ "GetAI", "db/dd8/a19614.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
 ];

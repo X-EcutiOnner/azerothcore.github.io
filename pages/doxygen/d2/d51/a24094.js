@@ -1,6 +1,5 @@
 var a24094 =
 [
-    [ "achievement", "d2/d51/a24094.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d2/d51/a24094.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d2/d51/a24094.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "npc_pet_dk_army_of_the_deadAI", "d2/d51/a24094.html#a2d934ed807d225f6b9f2206f0556f26d", null ],
+    [ "InitializeAI", "d2/d51/a24094.html#af3ecec126ed3d902acd4bfe979382307", null ]
 ];

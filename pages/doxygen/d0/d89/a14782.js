@@ -1,5 +1,5 @@
 var a14782 =
 [
-    [ "NotInStomachSelector", "d0/d89/a14782.html#a766a75e73261ac8bb76c90e8befd21ad", null ],
-    [ "operator()", "d0/d89/a14782.html#a189c90e585ecef8ffbcbe9227c588946", null ]
+    [ "boss_kri", "d0/d89/a14782.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
+    [ "JustEngagedWith", "d0/d89/a14782.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
 ];

@@ -1,6 +1,7 @@
 var a21542 =
 [
-    [ "npc_spiritual_insightAI", "d9/dae/a21546.html", "d9/dae/a21546" ],
-    [ "npc_spiritual_insight", "de/dc4/a21542.html#afe7b9d5953462719407f03b33b8de564", null ],
-    [ "GetAI", "de/dc4/a21542.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
+    [ "FilterTargets", "de/dc4/a21542.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "de/dc4/a21542.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "de/dc4/a21542.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "de/dc4/a21542.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

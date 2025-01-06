@@ -1,10 +1,10 @@
 var a00959 =
 [
-    [ "PeonRoleplay", "d9/da0/a23322.html", "d9/da0/a23322" ],
-    [ "boss_grand_warlock_nethekurse", "d1/d28/a23326.html", "d1/d28/a23326" ],
-    [ "spell_tsh_shadow_bolt", "d4/ddf/a23330.html", "d4/ddf/a23330" ],
-    [ "spell_target_fissures", "d8/dbc/a23334.html", "d8/dbc/a23334" ],
-    [ "at_rp_nethekurse", "d5/db8/a23338.html", "d5/db8/a23338" ],
+    [ "PeonRoleplay", "d9/d28/a23342.html", "d9/d28/a23342" ],
+    [ "boss_grand_warlock_nethekurse", "d0/d43/a23346.html", "d0/d43/a23346" ],
+    [ "spell_tsh_shadow_bolt", "d5/dd0/a23350.html", "d5/dd0/a23350" ],
+    [ "spell_target_fissures", "df/d06/a23354.html", "df/d06/a23354" ],
+    [ "at_rp_nethekurse", "d0/da4/a23358.html", "d0/da4/a23358" ],
     [ "Actions", "db/d40/a00959.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d4/dd0/a03749.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d4/dd0/a03749.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -2529,6 +2529,7 @@ var a00959 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

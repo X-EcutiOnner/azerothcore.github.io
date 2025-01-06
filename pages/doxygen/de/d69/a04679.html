@@ -120,7 +120,7 @@ Files</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:de/db4/a02684"><td class="memItemLeft" align="right" valign="top">file &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db4/a02684.html">CliRunnable.h</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d8/dd7/a29263"><td class="memItemLeft" align="right" valign="top">file &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd7/a29263.html">Main.cpp</a></td></tr>
+<tr class="memitem:d3/dc9/a29283"><td class="memItemLeft" align="right" valign="top">file &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc9/a29283.html">Main.cpp</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
@@ -162,7 +162,7 @@ Functions</h2></td></tr>
 <tr class="separator:ga927af1587546ee7503a3b9a18f6439c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga74b21e249952fe0d6d779ee217c76dc5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d69/a04679.html#ga74b21e249952fe0d6d779ee217c76dc5">LoadRealmInfo</a> (<a class="el" href="../../dd/dec/a04786.html">Acore::Asio::IoContext</a> &amp;ioContext)</td></tr>
 <tr class="separator:ga74b21e249952fe0d6d779ee217c76dc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga0781c2ca38d89a89b174f81fb895285b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d8a/a28118.html">AsyncAcceptor</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d69/a04679.html#ga0781c2ca38d89a89b174f81fb895285b">StartRaSocketAcceptor</a> (<a class="el" href="../../dd/dec/a04786.html">Acore::Asio::IoContext</a> &amp;ioContext)</td></tr>
+<tr class="memitem:ga0781c2ca38d89a89b174f81fb895285b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/df2/a28138.html">AsyncAcceptor</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d69/a04679.html#ga0781c2ca38d89a89b174f81fb895285b">StartRaSocketAcceptor</a> (<a class="el" href="../../dd/dec/a04786.html">Acore::Asio::IoContext</a> &amp;ioContext)</td></tr>
 <tr class="separator:ga0781c2ca38d89a89b174f81fb895285b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gaafe46b3c9a56a31faa60963b6a1f202a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d69/a04679.html#gaafe46b3c9a56a31faa60963b6a1f202a">ShutdownCLIThread</a> (std::thread *cliThread)</td></tr>
 <tr class="separator:gaafe46b3c9a56a31faa60963b6a1f202a"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -209,7 +209,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 
 </div>
 </div>
@@ -229,13 +229,13 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 
 <p>Clear 'online' status for all accounts with characters in this realm. </p>
 <div class="fragment"><div class="line"><span class="lineno">  484</span>{</div>
 <div class="line"><span class="lineno">  485</span>    <span class="comment">// Reset online status for all accounts with characters on the current realm</span></div>
 <div class="line"><span class="lineno">  486</span>    <span class="comment">// pussywizard: tc query would set online=0 even if logged in on another realm &gt;_&gt;</span></div>
-<div class="line"><span class="lineno">  487</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.DirectExecute(<span class="stringliteral">&quot;UPDATE account SET online = 0 WHERE online = {}&quot;</span>, <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../df/d08/a28154.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>);</div>
+<div class="line"><span class="lineno">  487</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.DirectExecute(<span class="stringliteral">&quot;UPDATE account SET online = 0 WHERE online = {}&quot;</span>, <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../d0/dbc/a28174.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>);</div>
 <div class="line"><span class="lineno">  488</span> </div>
 <div class="line"><span class="lineno">  489</span>    <span class="comment">// Reset online status for all characters</span></div>
 <div class="line"><span class="lineno">  490</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;UPDATE characters SET online = 0 WHERE online &lt;&gt; 0&quot;</span>);</div>
@@ -243,8 +243,8 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa04601_html_a2cf25eafe7f2f73b61ccde11d55daf0c"><div class="ttname"><a href="../../d8/d7c/a04601.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; LoginDatabaseConnection &gt; LoginDatabase</div><div class="ttdoc">Accessor to the realm/login database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:22</div></div>
 <div class="ttc" id="aa04601_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d8/d7c/a04601.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
 <div class="ttc" id="aa04681_html_gab842e78f86995775c494437356620779"><div class="ttname"><a href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a></div><div class="ttdeci">Realm realm</div><div class="ttdef"><b>Definition:</b> World.cpp:106</div></div>
-<div class="ttc" id="aa28154_html_a31af0d9064a295b1579fce3c80217bfd"><div class="ttname"><a href="../../df/d08/a28154.html#a31af0d9064a295b1579fce3c80217bfd">RealmHandle::Realm</a></div><div class="ttdeci">uint32 Realm</div><div class="ttdef"><b>Definition:</b> Realm.h:43</div></div>
-<div class="ttc" id="aa28158_html_ab0ccda7e7a58eee0965261767f3ee2ee"><div class="ttname"><a href="../../d2/def/a28158.html#ab0ccda7e7a58eee0965261767f3ee2ee">Realm::Id</a></div><div class="ttdeci">RealmHandle Id</div><div class="ttdef"><b>Definition:</b> Realm.h:69</div></div>
+<div class="ttc" id="aa28174_html_a31af0d9064a295b1579fce3c80217bfd"><div class="ttname"><a href="../../d0/dbc/a28174.html#a31af0d9064a295b1579fce3c80217bfd">RealmHandle::Realm</a></div><div class="ttdeci">uint32 Realm</div><div class="ttdef"><b>Definition:</b> Realm.h:43</div></div>
+<div class="ttc" id="aa28178_html_ab0ccda7e7a58eee0965261767f3ee2ee"><div class="ttname"><a href="../../d4/df4/a28178.html#ab0ccda7e7a58eee0965261767f3ee2ee">Realm::Id</a></div><div class="ttdeci">RealmHandle Id</div><div class="ttdef"><b>Definition:</b> Realm.h:69</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00069">Realm::Id</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00106">realm</a>, and <a class="el" href="../../#l00043">RealmHandle::Realm</a>.</p>
 
@@ -364,13 +364,13 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa04679_html_ga77eabd925e8f9aa379616b264e287cea"><div class="ttname"><a href="../../de/d69/a04679.html#ga77eabd925e8f9aa379616b264e287cea">CLI_PREFIX</a></div><div class="ttdeci">static constexpr char CLI_PREFIX[]</div><div class="ttdef"><b>Definition:</b> CliRunnable.cpp:36</div></div>
 <div class="ttc" id="aa04679_html_gacf6bc075c8e41c95b5633526721136ce"><div class="ttname"><a href="../../de/d69/a04679.html#gacf6bc075c8e41c95b5633526721136ce">utf8print</a></div><div class="ttdeci">void utf8print(void *, std::string_view str)</div><div class="ttdef"><b>Definition:</b> CliRunnable.cpp:74</div></div>
 <div class="ttc" id="aa04679_html_gaf86bc63df807e80b7a14688e48340fea"><div class="ttname"><a href="../../de/d69/a04679.html#gaf86bc63df807e80b7a14688e48340fea">commandFinished</a></div><div class="ttdeci">void commandFinished(void *, bool)</div><div class="ttdef"><b>Definition:</b> CliRunnable.cpp:86</div></div>
-<div class="ttc" id="aa04681_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d2/db6/a04681.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:442</div></div>
+<div class="ttc" id="aa04681_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d2/db6/a04681.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:443</div></div>
 <div class="ttc" id="aa04681_html_gga06d1e4f345fc9b7a45e5b1b9f1919efcaf18aae50edbb1083eb3b45656b52f999"><div class="ttname"><a href="../../d2/db6/a04681.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf18aae50edbb1083eb3b45656b52f999">SHUTDOWN_EXIT_CODE</a></div><div class="ttdeci">@ SHUTDOWN_EXIT_CODE</div><div class="ttdef"><b>Definition:</b> World.h:53</div></div>
 <div class="ttc" id="aa11326_html"><div class="ttname"><a href="../../d0/dfa/a11326.html">CliCommandHolder</a></div><div class="ttdoc">Storage class for commands issued for delayed execution.</div><div class="ttdef"><b>Definition:</b> IWorld.h:34</div></div>
 <div class="ttc" id="aa11342_html_ab0c53f76dd85fb0f2dcfc29b33291d9d"><div class="ttname"><a href="../../d5/de4/a11342.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a></div><div class="ttdeci">static void StopNow(uint8 exitcode)</div><div class="ttdef"><b>Definition:</b> World.h:252</div></div>
 <div class="ttc" id="aa11342_html_ae1716f62b00fe8ba87a92850bf4d054c"><div class="ttname"><a href="../../d5/de4/a11342.html#ae1716f62b00fe8ba87a92850bf4d054c">World::IsStopped</a></div><div class="ttdeci">static bool IsStopped()</div><div class="ttdef"><b>Definition:</b> World.h:253</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00036">CLI_PREFIX</a>, <a class="el" href="../../#l00086">commandFinished()</a>, <a class="el" href="../../#l00253">World::IsStopped()</a>, <a class="el" href="../../#l00038">PrintCliPrefix()</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, <a class="el" href="../../#l00053">SHUTDOWN_EXIT_CODE</a>, <a class="el" href="../../#l00252">World::StopNow()</a>, <a class="el" href="../../#l00442">sWorld</a>, <a class="el" href="../../#l00074">utf8print()</a>, and <a class="el" href="../../#l00333">WStrToUtf8()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00036">CLI_PREFIX</a>, <a class="el" href="../../#l00086">commandFinished()</a>, <a class="el" href="../../#l00253">World::IsStopped()</a>, <a class="el" href="../../#l00038">PrintCliPrefix()</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, <a class="el" href="../../#l00053">SHUTDOWN_EXIT_CODE</a>, <a class="el" href="../../#l00252">World::StopNow()</a>, <a class="el" href="../../#l00443">sWorld</a>, <a class="el" href="../../#l00074">utf8print()</a>, and <a class="el" href="../../#l00333">WStrToUtf8()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00118">main()</a>.</p>
 
@@ -448,7 +448,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 <div class="fragment"><div class="line"><span class="lineno">   90</span>        : <a class="code hl_variable" href="../../de/d69/a04679.html#ga2377cec7cca6dbb9133a3d48b4d376c3">_timer</a>(ioContext), <a class="code hl_variable" href="../../de/d69/a04679.html#ga0ea988a0e070d056c16d7c9f3b1035f4">_worldLoopCounter</a>(0), <a class="code hl_variable" href="../../de/d69/a04679.html#ga0a2b971b7ea733d846be71abf7b5dc1d">_lastChangeMsTime</a>(<a class="code hl_function" href="../../d1/d5d/a00311.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>()), <a class="code hl_variable" href="../../de/d69/a04679.html#ga54077eab38ea5d0db27f08c50fd0652e">_maxCoreStuckTimeInMs</a>(maxCoreStuckTime) { }</div>
 <div class="ttc" id="aa00311_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d1/d5d/a00311.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
 <div class="ttc" id="aa04679_html_ga0a2b971b7ea733d846be71abf7b5dc1d"><div class="ttname"><a href="../../de/d69/a04679.html#ga0a2b971b7ea733d846be71abf7b5dc1d">FreezeDetector::_lastChangeMsTime</a></div><div class="ttdeci">uint32 _lastChangeMsTime</div><div class="ttdef"><b>Definition:</b> Main.cpp:103</div></div>
@@ -496,7 +496,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 <div class="fragment"><div class="line"><span class="lineno">  706</span>{</div>
 <div class="line"><span class="lineno">  707</span>    options_description all(<span class="stringliteral">&quot;Allowed options&quot;</span>);</div>
 <div class="line"><span class="lineno">  708</span>    all.add_options()</div>
@@ -578,7 +578,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 <div class="fragment"><div class="line"><span class="lineno">  610</span>{</div>
 <div class="line"><span class="lineno">  611</span>    <span class="keywordflow">if</span> (!error)</div>
 <div class="line"><span class="lineno">  612</span>    {</div>
@@ -638,16 +638,16 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 <div class="fragment"><div class="line"><span class="lineno">  658</span>{</div>
-<div class="line"><span class="lineno">  659</span>    <a class="code hl_typedef" href="../../d3/d24/a04589.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d8/d7c/a04601.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(<span class="stringliteral">&quot;SELECT id, name, address, localAddress, localSubnetMask, port, icon, flag, timezone, allowedSecurityLevel, population, gamebuild FROM realmlist WHERE id = {}&quot;</span>, <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../df/d08/a28154.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>);</div>
+<div class="line"><span class="lineno">  659</span>    <a class="code hl_typedef" href="../../d3/d24/a04589.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d8/d7c/a04601.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(<span class="stringliteral">&quot;SELECT id, name, address, localAddress, localSubnetMask, port, icon, flag, timezone, allowedSecurityLevel, population, gamebuild FROM realmlist WHERE id = {}&quot;</span>, <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../d0/dbc/a28174.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>);</div>
 <div class="line"><span class="lineno">  660</span>    <span class="keywordflow">if</span> (!result)</div>
 <div class="line"><span class="lineno">  661</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  662</span> </div>
 <div class="line"><span class="lineno">  663</span>    <a class="code hl_class" href="../../d6/d56/a04790.html">Acore::Asio::Resolver</a> resolver(ioContext);</div>
 <div class="line"><span class="lineno">  664</span> </div>
 <div class="line"><span class="lineno">  665</span>    <a class="code hl_class" href="../../d4/dff/a05618.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">  666</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#a9381717fdc924158ecd61a8f00488fc0">Name</a> = fields[1].<a class="code hl_function" href="../../d4/dff/a05618.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  666</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#a9381717fdc924158ecd61a8f00488fc0">Name</a> = fields[1].<a class="code hl_function" href="../../d4/dff/a05618.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
 <div class="line"><span class="lineno">  667</span> </div>
 <div class="line"><span class="lineno">  668</span>    <a class="code hl_typedef" href="../../d0/d39/a00314.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;boost::asio::ip::tcp::endpoint&gt;</a> externalAddress = resolver.Resolve(boost::asio::ip::tcp::v4(), fields[2].<a class="code hl_function" href="../../d4/dff/a05618.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;(), <span class="stringliteral">&quot;&quot;</span>);</div>
 <div class="line"><span class="lineno">  669</span>    <span class="keywordflow">if</span> (!externalAddress)</div>
@@ -656,7 +656,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  672</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  673</span>    }</div>
 <div class="line"><span class="lineno">  674</span> </div>
-<div class="line"><span class="lineno">  675</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#a703504aaf54f1ecf934b9184e9737367">ExternalAddress</a> = std::make_unique&lt;boost::asio::ip::address&gt;(externalAddress-&gt;address());</div>
+<div class="line"><span class="lineno">  675</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#a703504aaf54f1ecf934b9184e9737367">ExternalAddress</a> = std::make_unique&lt;boost::asio::ip::address&gt;(externalAddress-&gt;address());</div>
 <div class="line"><span class="lineno">  676</span> </div>
 <div class="line"><span class="lineno">  677</span>    <a class="code hl_typedef" href="../../d0/d39/a00314.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;boost::asio::ip::tcp::endpoint&gt;</a> localAddress = resolver.Resolve(boost::asio::ip::tcp::v4(), fields[3].Get&lt;std::string&gt;(), <span class="stringliteral">&quot;&quot;</span>);</div>
 <div class="line"><span class="lineno">  678</span>    <span class="keywordflow">if</span> (!localAddress)</div>
@@ -665,7 +665,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  681</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  682</span>    }</div>
 <div class="line"><span class="lineno">  683</span> </div>
-<div class="line"><span class="lineno">  684</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#a61f429ddc92895e66dff2808e17cc322">LocalAddress</a> = std::make_unique&lt;boost::asio::ip::address&gt;(localAddress-&gt;address());</div>
+<div class="line"><span class="lineno">  684</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#a61f429ddc92895e66dff2808e17cc322">LocalAddress</a> = std::make_unique&lt;boost::asio::ip::address&gt;(localAddress-&gt;address());</div>
 <div class="line"><span class="lineno">  685</span> </div>
 <div class="line"><span class="lineno">  686</span>    <a class="code hl_typedef" href="../../d0/d39/a00314.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;boost::asio::ip::tcp::endpoint&gt;</a> localSubmask = resolver.Resolve(boost::asio::ip::tcp::v4(), fields[4].Get&lt;std::string&gt;(), <span class="stringliteral">&quot;&quot;</span>);</div>
 <div class="line"><span class="lineno">  687</span>    <span class="keywordflow">if</span> (!localSubmask)</div>
@@ -674,15 +674,15 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  690</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  691</span>    }</div>
 <div class="line"><span class="lineno">  692</span> </div>
-<div class="line"><span class="lineno">  693</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#a52a4b2704e7f76d8ea296148cefb9482">LocalSubnetMask</a> = std::make_unique&lt;boost::asio::ip::address&gt;(localSubmask-&gt;address());</div>
+<div class="line"><span class="lineno">  693</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#a52a4b2704e7f76d8ea296148cefb9482">LocalSubnetMask</a> = std::make_unique&lt;boost::asio::ip::address&gt;(localSubmask-&gt;address());</div>
 <div class="line"><span class="lineno">  694</span> </div>
-<div class="line"><span class="lineno">  695</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#a0131d758f10cbae0c610c2c088299feb">Port</a> = fields[5].<a class="code hl_function" href="../../d4/dff/a05618.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d4/d1e/a00497.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
-<div class="line"><span class="lineno">  696</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#af77452a4cf7f632d692079615af4737c">Type</a> = fields[6].<a class="code hl_function" href="../../d4/dff/a05618.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d4/d1e/a00497.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
-<div class="line"><span class="lineno">  697</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#a1984cc9564b01b6456f31f77fd65a6d6">Flags</a> = <a class="code hl_enumeration" href="../../d6/d95/a02726.html#ace3f717ac43bef67791faeb2a0b2c1e2">RealmFlags</a>(fields[7].Get&lt;uint8&gt;());</div>
-<div class="line"><span class="lineno">  698</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#a377055c4729f21beecb8601cd79017db">Timezone</a> = fields[8].<a class="code hl_function" href="../../d4/dff/a05618.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d4/d1e/a00497.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
-<div class="line"><span class="lineno">  699</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#a25e953d80aa3c80e068afe6b57f67d99">AllowedSecurityLevel</a> = <a class="code hl_enumeration" href="../../d4/d51/a00017.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>(fields[9].Get&lt;uint8&gt;());</div>
-<div class="line"><span class="lineno">  700</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#a63cdbd47c50f368974b43c3db2f32cee">PopulationLevel</a> = fields[10].<a class="code hl_function" href="../../d4/dff/a05618.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;();</div>
-<div class="line"><span class="lineno">  701</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#a64533e919d8c3a37bd5668af77d09166">Build</a> = fields[11].<a class="code hl_function" href="../../d4/dff/a05618.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d4/d1e/a00497.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  695</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#a0131d758f10cbae0c610c2c088299feb">Port</a> = fields[5].<a class="code hl_function" href="../../d4/dff/a05618.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d4/d1e/a00497.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
+<div class="line"><span class="lineno">  696</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#af77452a4cf7f632d692079615af4737c">Type</a> = fields[6].<a class="code hl_function" href="../../d4/dff/a05618.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d4/d1e/a00497.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">  697</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#a1984cc9564b01b6456f31f77fd65a6d6">Flags</a> = <a class="code hl_enumeration" href="../../d6/d95/a02726.html#ace3f717ac43bef67791faeb2a0b2c1e2">RealmFlags</a>(fields[7].Get&lt;uint8&gt;());</div>
+<div class="line"><span class="lineno">  698</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#a377055c4729f21beecb8601cd79017db">Timezone</a> = fields[8].<a class="code hl_function" href="../../d4/dff/a05618.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d4/d1e/a00497.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">  699</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#a25e953d80aa3c80e068afe6b57f67d99">AllowedSecurityLevel</a> = <a class="code hl_enumeration" href="../../d4/d51/a00017.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>(fields[9].Get&lt;uint8&gt;());</div>
+<div class="line"><span class="lineno">  700</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#a63cdbd47c50f368974b43c3db2f32cee">PopulationLevel</a> = fields[10].<a class="code hl_function" href="../../d4/dff/a05618.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;();</div>
+<div class="line"><span class="lineno">  701</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#a64533e919d8c3a37bd5668af77d09166">Build</a> = fields[11].<a class="code hl_function" href="../../d4/dff/a05618.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d4/d1e/a00497.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
 <div class="line"><span class="lineno">  702</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  703</span>}</div>
 <div class="ttc" id="aa00017_html_adaa1cabfe05f8df3c272bdcfd89cdac7"><div class="ttname"><a href="../../d4/d51/a00017.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a></div><div class="ttdeci">AccountTypes</div><div class="ttdef"><b>Definition:</b> Common.h:56</div></div>
@@ -694,17 +694,17 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa04790_html"><div class="ttname"><a href="../../d6/d56/a04790.html">Acore::Asio::Resolver</a></div><div class="ttdef"><b>Definition:</b> Resolver.h:31</div></div>
 <div class="ttc" id="aa05618_html"><div class="ttname"><a href="../../d4/dff/a05618.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
 <div class="ttc" id="aa05618_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d4/dff/a05618.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
-<div class="ttc" id="aa28158_html_a0131d758f10cbae0c610c2c088299feb"><div class="ttname"><a href="../../d2/def/a28158.html#a0131d758f10cbae0c610c2c088299feb">Realm::Port</a></div><div class="ttdeci">uint16 Port</div><div class="ttdef"><b>Definition:</b> Realm.h:74</div></div>
-<div class="ttc" id="aa28158_html_a1984cc9564b01b6456f31f77fd65a6d6"><div class="ttname"><a href="../../d2/def/a28158.html#a1984cc9564b01b6456f31f77fd65a6d6">Realm::Flags</a></div><div class="ttdeci">RealmFlags Flags</div><div class="ttdef"><b>Definition:</b> Realm.h:77</div></div>
-<div class="ttc" id="aa28158_html_a25e953d80aa3c80e068afe6b57f67d99"><div class="ttname"><a href="../../d2/def/a28158.html#a25e953d80aa3c80e068afe6b57f67d99">Realm::AllowedSecurityLevel</a></div><div class="ttdeci">AccountTypes AllowedSecurityLevel</div><div class="ttdef"><b>Definition:</b> Realm.h:79</div></div>
-<div class="ttc" id="aa28158_html_a377055c4729f21beecb8601cd79017db"><div class="ttname"><a href="../../d2/def/a28158.html#a377055c4729f21beecb8601cd79017db">Realm::Timezone</a></div><div class="ttdeci">uint8 Timezone</div><div class="ttdef"><b>Definition:</b> Realm.h:78</div></div>
-<div class="ttc" id="aa28158_html_a52a4b2704e7f76d8ea296148cefb9482"><div class="ttname"><a href="../../d2/def/a28158.html#a52a4b2704e7f76d8ea296148cefb9482">Realm::LocalSubnetMask</a></div><div class="ttdeci">std::unique_ptr&lt; boost::asio::ip::address &gt; LocalSubnetMask</div><div class="ttdef"><b>Definition:</b> Realm.h:73</div></div>
-<div class="ttc" id="aa28158_html_a61f429ddc92895e66dff2808e17cc322"><div class="ttname"><a href="../../d2/def/a28158.html#a61f429ddc92895e66dff2808e17cc322">Realm::LocalAddress</a></div><div class="ttdeci">std::unique_ptr&lt; boost::asio::ip::address &gt; LocalAddress</div><div class="ttdef"><b>Definition:</b> Realm.h:72</div></div>
-<div class="ttc" id="aa28158_html_a63cdbd47c50f368974b43c3db2f32cee"><div class="ttname"><a href="../../d2/def/a28158.html#a63cdbd47c50f368974b43c3db2f32cee">Realm::PopulationLevel</a></div><div class="ttdeci">float PopulationLevel</div><div class="ttdef"><b>Definition:</b> Realm.h:80</div></div>
-<div class="ttc" id="aa28158_html_a64533e919d8c3a37bd5668af77d09166"><div class="ttname"><a href="../../d2/def/a28158.html#a64533e919d8c3a37bd5668af77d09166">Realm::Build</a></div><div class="ttdeci">uint32 Build</div><div class="ttdef"><b>Definition:</b> Realm.h:70</div></div>
-<div class="ttc" id="aa28158_html_a703504aaf54f1ecf934b9184e9737367"><div class="ttname"><a href="../../d2/def/a28158.html#a703504aaf54f1ecf934b9184e9737367">Realm::ExternalAddress</a></div><div class="ttdeci">std::unique_ptr&lt; boost::asio::ip::address &gt; ExternalAddress</div><div class="ttdef"><b>Definition:</b> Realm.h:71</div></div>
-<div class="ttc" id="aa28158_html_a9381717fdc924158ecd61a8f00488fc0"><div class="ttname"><a href="../../d2/def/a28158.html#a9381717fdc924158ecd61a8f00488fc0">Realm::Name</a></div><div class="ttdeci">std::string Name</div><div class="ttdef"><b>Definition:</b> Realm.h:75</div></div>
-<div class="ttc" id="aa28158_html_af77452a4cf7f632d692079615af4737c"><div class="ttname"><a href="../../d2/def/a28158.html#af77452a4cf7f632d692079615af4737c">Realm::Type</a></div><div class="ttdeci">uint8 Type</div><div class="ttdef"><b>Definition:</b> Realm.h:76</div></div>
+<div class="ttc" id="aa28178_html_a0131d758f10cbae0c610c2c088299feb"><div class="ttname"><a href="../../d4/df4/a28178.html#a0131d758f10cbae0c610c2c088299feb">Realm::Port</a></div><div class="ttdeci">uint16 Port</div><div class="ttdef"><b>Definition:</b> Realm.h:74</div></div>
+<div class="ttc" id="aa28178_html_a1984cc9564b01b6456f31f77fd65a6d6"><div class="ttname"><a href="../../d4/df4/a28178.html#a1984cc9564b01b6456f31f77fd65a6d6">Realm::Flags</a></div><div class="ttdeci">RealmFlags Flags</div><div class="ttdef"><b>Definition:</b> Realm.h:77</div></div>
+<div class="ttc" id="aa28178_html_a25e953d80aa3c80e068afe6b57f67d99"><div class="ttname"><a href="../../d4/df4/a28178.html#a25e953d80aa3c80e068afe6b57f67d99">Realm::AllowedSecurityLevel</a></div><div class="ttdeci">AccountTypes AllowedSecurityLevel</div><div class="ttdef"><b>Definition:</b> Realm.h:79</div></div>
+<div class="ttc" id="aa28178_html_a377055c4729f21beecb8601cd79017db"><div class="ttname"><a href="../../d4/df4/a28178.html#a377055c4729f21beecb8601cd79017db">Realm::Timezone</a></div><div class="ttdeci">uint8 Timezone</div><div class="ttdef"><b>Definition:</b> Realm.h:78</div></div>
+<div class="ttc" id="aa28178_html_a52a4b2704e7f76d8ea296148cefb9482"><div class="ttname"><a href="../../d4/df4/a28178.html#a52a4b2704e7f76d8ea296148cefb9482">Realm::LocalSubnetMask</a></div><div class="ttdeci">std::unique_ptr&lt; boost::asio::ip::address &gt; LocalSubnetMask</div><div class="ttdef"><b>Definition:</b> Realm.h:73</div></div>
+<div class="ttc" id="aa28178_html_a61f429ddc92895e66dff2808e17cc322"><div class="ttname"><a href="../../d4/df4/a28178.html#a61f429ddc92895e66dff2808e17cc322">Realm::LocalAddress</a></div><div class="ttdeci">std::unique_ptr&lt; boost::asio::ip::address &gt; LocalAddress</div><div class="ttdef"><b>Definition:</b> Realm.h:72</div></div>
+<div class="ttc" id="aa28178_html_a63cdbd47c50f368974b43c3db2f32cee"><div class="ttname"><a href="../../d4/df4/a28178.html#a63cdbd47c50f368974b43c3db2f32cee">Realm::PopulationLevel</a></div><div class="ttdeci">float PopulationLevel</div><div class="ttdef"><b>Definition:</b> Realm.h:80</div></div>
+<div class="ttc" id="aa28178_html_a64533e919d8c3a37bd5668af77d09166"><div class="ttname"><a href="../../d4/df4/a28178.html#a64533e919d8c3a37bd5668af77d09166">Realm::Build</a></div><div class="ttdeci">uint32 Build</div><div class="ttdef"><b>Definition:</b> Realm.h:70</div></div>
+<div class="ttc" id="aa28178_html_a703504aaf54f1ecf934b9184e9737367"><div class="ttname"><a href="../../d4/df4/a28178.html#a703504aaf54f1ecf934b9184e9737367">Realm::ExternalAddress</a></div><div class="ttdeci">std::unique_ptr&lt; boost::asio::ip::address &gt; ExternalAddress</div><div class="ttdef"><b>Definition:</b> Realm.h:71</div></div>
+<div class="ttc" id="aa28178_html_a9381717fdc924158ecd61a8f00488fc0"><div class="ttname"><a href="../../d4/df4/a28178.html#a9381717fdc924158ecd61a8f00488fc0">Realm::Name</a></div><div class="ttdeci">std::string Name</div><div class="ttdef"><b>Definition:</b> Realm.h:75</div></div>
+<div class="ttc" id="aa28178_html_af77452a4cf7f632d692079615af4737c"><div class="ttname"><a href="../../d4/df4/a28178.html#af77452a4cf7f632d692079615af4737c">Realm::Type</a></div><div class="ttdeci">uint8 Type</div><div class="ttdef"><b>Definition:</b> Realm.h:76</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00079">Realm::AllowedSecurityLevel</a>, <a class="el" href="../../#l00070">Realm::Build</a>, <a class="el" href="../../#l00071">Realm::ExternalAddress</a>, <a class="el" href="../../#l00077">Realm::Flags</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00069">Realm::Id</a>, <a class="el" href="../../#l00072">Realm::LocalAddress</a>, <a class="el" href="../../#l00073">Realm::LocalSubnetMask</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00075">Realm::Name</a>, <a class="el" href="../../#l00080">Realm::PopulationLevel</a>, <a class="el" href="../../#l00074">Realm::Port</a>, <a class="el" href="../../#l00106">realm</a>, <a class="el" href="../../#l00043">RealmHandle::Realm</a>, <a class="el" href="../../#l00035">Acore::Asio::Resolver::Resolve()</a>, <a class="el" href="../../#l00078">Realm::Timezone</a>, and <a class="el" href="../../#l00076">Realm::Type</a>.</p>
 
@@ -738,7 +738,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 
 <p>Launch the Azeroth server. </p>
 <p >worldserver PID file creation</p>
@@ -747,7 +747,7 @@ Variables</h2></td></tr>
 <li>Clean database before leaving</li>
 </ul>
 <div class="fragment"><div class="line"><span class="lineno">  119</span>{</div>
-<div class="line"><span class="lineno">  120</span>    <a class="code hl_variable" href="../../db/dce/a28182.html#ab0344571616786baef4511c647a3abea">Acore::Impl::CurrentServerProcessHolder::_type</a> = <a class="code hl_enumvalue" href="../../d0/dbd/a02771.html#a54c942141fddf90562c3a37b3b505265a16bf1f8110027872657ed5bc619f6735">SERVER_PROCESS_WORLDSERVER</a>;</div>
+<div class="line"><span class="lineno">  120</span>    <a class="code hl_variable" href="../../d1/ddc/a28202.html#ab0344571616786baef4511c647a3abea">Acore::Impl::CurrentServerProcessHolder::_type</a> = <a class="code hl_enumvalue" href="../../d0/dbd/a02771.html#a54c942141fddf90562c3a37b3b505265a16bf1f8110027872657ed5bc619f6735">SERVER_PROCESS_WORLDSERVER</a>;</div>
 <div class="line"><span class="lineno">  121</span>    signal(SIGABRT, &amp;<a class="code hl_function" href="../../d8/d20/a04686.html#ad49ea597ac6ffd8eb9ae06bab8c38b43">Acore::AbortHandler</a>);</div>
 <div class="line"><span class="lineno">  122</span> </div>
 <div class="line"><span class="lineno">  123</span>    <span class="comment">// Command line parsing</span></div>
@@ -908,11 +908,11 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  279</span>    std::shared_ptr&lt;void&gt; dbHandle(<span class="keyword">nullptr</span>, [](<span class="keywordtype">void</span>*) { <a class="code hl_function" href="../../de/d69/a04679.html#ga927af1587546ee7503a3b9a18f6439c0">StopDB</a>(); });</div>
 <div class="line"><span class="lineno">  280</span> </div>
 <div class="line"><span class="lineno">  281</span>    <span class="comment">// set server offline (not connectable)</span></div>
-<div class="line"><span class="lineno">  282</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.DirectExecute(<span class="stringliteral">&quot;UPDATE realmlist SET flag = (flag &amp; ~{}) | {} WHERE id = &#39;{}&#39;&quot;</span>, <a class="code hl_enumvalue" href="../../d6/d95/a02726.html#ace3f717ac43bef67791faeb2a0b2c1e2a728d61b0842461c34b1f6167e5dcdb68">REALM_FLAG_OFFLINE</a>, <a class="code hl_enumvalue" href="../../d6/d95/a02726.html#ace3f717ac43bef67791faeb2a0b2c1e2a9e5fc6c089666cb09890f97038c44056">REALM_FLAG_VERSION_MISMATCH</a>, <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../df/d08/a28154.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>);</div>
+<div class="line"><span class="lineno">  282</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.DirectExecute(<span class="stringliteral">&quot;UPDATE realmlist SET flag = (flag &amp; ~{}) | {} WHERE id = &#39;{}&#39;&quot;</span>, <a class="code hl_enumvalue" href="../../d6/d95/a02726.html#ace3f717ac43bef67791faeb2a0b2c1e2a728d61b0842461c34b1f6167e5dcdb68">REALM_FLAG_OFFLINE</a>, <a class="code hl_enumvalue" href="../../d6/d95/a02726.html#ace3f717ac43bef67791faeb2a0b2c1e2a9e5fc6c089666cb09890f97038c44056">REALM_FLAG_VERSION_MISMATCH</a>, <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../d0/dbc/a28174.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>);</div>
 <div class="line"><span class="lineno">  283</span> </div>
 <div class="line"><span class="lineno">  284</span>    <a class="code hl_function" href="../../de/d69/a04679.html#ga74b21e249952fe0d6d779ee217c76dc5">LoadRealmInfo</a>(*ioContext);</div>
 <div class="line"><span class="lineno">  285</span> </div>
-<div class="line"><span class="lineno">  286</span>    <a class="code hl_define" href="../../d3/d5e/a00275.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;Initialize(<a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#a9381717fdc924158ecd61a8f00488fc0">Name</a>, *ioContext, []()</div>
+<div class="line"><span class="lineno">  286</span>    <a class="code hl_define" href="../../d3/d5e/a00275.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;Initialize(<a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#a9381717fdc924158ecd61a8f00488fc0">Name</a>, *ioContext, []()</div>
 <div class="line"><span class="lineno">  287</span>    {</div>
 <div class="line"><span class="lineno">  288</span>        METRIC_VALUE(<span class="stringliteral">&quot;online_players&quot;</span>, sWorld-&gt;GetPlayerCount());</div>
 <div class="line"><span class="lineno">  289</span>        METRIC_VALUE(<span class="stringliteral">&quot;db_queue_login&quot;</span>, uint64(LoginDatabase.QueueSize()));</div>
@@ -994,9 +994,9 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  367</span>    });</div>
 <div class="line"><span class="lineno">  368</span> </div>
 <div class="line"><span class="lineno">  369</span>    <span class="comment">// Set server online (allow connecting now)</span></div>
-<div class="line"><span class="lineno">  370</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.DirectExecute(<span class="stringliteral">&quot;UPDATE realmlist SET flag = flag &amp; ~{}, population = 0 WHERE id = &#39;{}&#39;&quot;</span>, <a class="code hl_enumvalue" href="../../d6/d95/a02726.html#ace3f717ac43bef67791faeb2a0b2c1e2a9e5fc6c089666cb09890f97038c44056">REALM_FLAG_VERSION_MISMATCH</a>, <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../df/d08/a28154.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>);</div>
-<div class="line"><span class="lineno">  371</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#a63cdbd47c50f368974b43c3db2f32cee">PopulationLevel</a> = 0.0f;</div>
-<div class="line"><span class="lineno">  372</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#a1984cc9564b01b6456f31f77fd65a6d6">Flags</a> = <a class="code hl_enumeration" href="../../d6/d95/a02726.html#ace3f717ac43bef67791faeb2a0b2c1e2">RealmFlags</a>(<a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#a1984cc9564b01b6456f31f77fd65a6d6">Flags</a> &amp; ~<a class="code hl_typedef" href="../../d4/d1e/a00497.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_enumvalue" href="../../d6/d95/a02726.html#ace3f717ac43bef67791faeb2a0b2c1e2a9e5fc6c089666cb09890f97038c44056">REALM_FLAG_VERSION_MISMATCH</a>));</div>
+<div class="line"><span class="lineno">  370</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.DirectExecute(<span class="stringliteral">&quot;UPDATE realmlist SET flag = flag &amp; ~{}, population = 0 WHERE id = &#39;{}&#39;&quot;</span>, <a class="code hl_enumvalue" href="../../d6/d95/a02726.html#ace3f717ac43bef67791faeb2a0b2c1e2a9e5fc6c089666cb09890f97038c44056">REALM_FLAG_VERSION_MISMATCH</a>, <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../d0/dbc/a28174.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>);</div>
+<div class="line"><span class="lineno">  371</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#a63cdbd47c50f368974b43c3db2f32cee">PopulationLevel</a> = 0.0f;</div>
+<div class="line"><span class="lineno">  372</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#a1984cc9564b01b6456f31f77fd65a6d6">Flags</a> = <a class="code hl_enumeration" href="../../d6/d95/a02726.html#ace3f717ac43bef67791faeb2a0b2c1e2">RealmFlags</a>(<a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#a1984cc9564b01b6456f31f77fd65a6d6">Flags</a> &amp; ~<a class="code hl_typedef" href="../../d4/d1e/a00497.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_enumvalue" href="../../d6/d95/a02726.html#ace3f717ac43bef67791faeb2a0b2c1e2a9e5fc6c089666cb09890f97038c44056">REALM_FLAG_VERSION_MISMATCH</a>));</div>
 <div class="line"><span class="lineno">  373</span> </div>
 <div class="line"><span class="lineno">  374</span>    <span class="comment">// Start the freeze check callback cycle in 5 seconds (cycle itself is 1 sec)</span></div>
 <div class="line"><span class="lineno">  375</span>    std::shared_ptr&lt;FreezeDetector&gt; freezeDetector;</div>
@@ -1032,7 +1032,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  405</span>    <a class="code hl_define" href="../../d1/d8f/a04202.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnShutdown();</div>
 <div class="line"><span class="lineno">  406</span> </div>
 <div class="line"><span class="lineno">  407</span>    <span class="comment">// set server offline</span></div>
-<div class="line"><span class="lineno">  408</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.DirectExecute(<span class="stringliteral">&quot;UPDATE realmlist SET flag = flag | {} WHERE id = &#39;{}&#39;&quot;</span>, <a class="code hl_enumvalue" href="../../d6/d95/a02726.html#ace3f717ac43bef67791faeb2a0b2c1e2a728d61b0842461c34b1f6167e5dcdb68">REALM_FLAG_OFFLINE</a>, <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../df/d08/a28154.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>);</div>
+<div class="line"><span class="lineno">  408</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.DirectExecute(<span class="stringliteral">&quot;UPDATE realmlist SET flag = flag | {} WHERE id = &#39;{}&#39;&quot;</span>, <a class="code hl_enumvalue" href="../../d6/d95/a02726.html#ace3f717ac43bef67791faeb2a0b2c1e2a728d61b0842461c34b1f6167e5dcdb68">REALM_FLAG_OFFLINE</a>, <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../d0/dbc/a28174.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>);</div>
 <div class="line"><span class="lineno">  409</span> </div>
 <div class="line"><span class="lineno">  410</span>    <a class="code hl_define" href="../../d4/d8c/a00035.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.worldserver&quot;</span>, <span class="stringliteral">&quot;Halting process...&quot;</span>);</div>
 <div class="line"><span class="lineno">  411</span> </div>
@@ -1086,9 +1086,9 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa05070_html_a434f19ba1bf3d2be577cef8f18f9624a"><div class="ttname"><a href="../../df/d0f/a05070.html#a434f19ba1bf3d2be577cef8f18f9624a">BigNumber::SetRand</a></div><div class="ttdeci">void SetRand(int32 numbits)</div><div class="ttdef"><b>Definition:</b> BigNumber.cpp:71</div></div>
 <div class="ttc" id="aa05790_html"><div class="ttname"><a href="../../d3/d09/a05790.html">AppenderDB</a></div><div class="ttdef"><b>Definition:</b> AppenderDB.h:25</div></div>
 <div class="ttc" id="aa11342_html_a0e4ac5f6fc42a6cf71d8d3b229646c92"><div class="ttname"><a href="../../d5/de4/a11342.html#a0e4ac5f6fc42a6cf71d8d3b229646c92">World::GetExitCode</a></div><div class="ttdeci">static uint8 GetExitCode()</div><div class="ttdef"><b>Definition:</b> World.h:251</div></div>
-<div class="ttc" id="aa28182_html_ab0344571616786baef4511c647a3abea"><div class="ttname"><a href="../../db/dce/a28182.html#ab0344571616786baef4511c647a3abea">Acore::Impl::CurrentServerProcessHolder::_type</a></div><div class="ttdeci">static ServerProcessTypes _type</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3762</div></div>
+<div class="ttc" id="aa28202_html_ab0344571616786baef4511c647a3abea"><div class="ttname"><a href="../../d1/ddc/a28202.html#ab0344571616786baef4511c647a3abea">Acore::Impl::CurrentServerProcessHolder::_type</a></div><div class="ttdeci">static ServerProcessTypes _type</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3762</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00080">_ACORE_CORE_CONFIG</a>, <a class="el" href="../../#l03762">Acore::Impl::CurrentServerProcessHolder::_type</a>, <a class="el" href="../../#l00148">Acore::AbortHandler()</a>, <a class="el" href="../../#l00024">ACSoapThread()</a>, <a class="el" href="../../#l00029">AddScripts()</a>, <a class="el" href="../../#l00483">ClearOnlineAccounts()</a>, <a class="el" href="../../#l00108">CliThread()</a>, <a class="el" href="../../#l00025">CONFIG_HIGH_PRIORITY</a>, <a class="el" href="../../#l00215">CONFIG_PORT_WORLD</a>, <a class="el" href="../../#l00024">CONFIG_PROCESSOR_AFFINITY</a>, <a class="el" href="../../#l00218">CreatePIDFile()</a>, <a class="el" href="../../#l00054">ERROR_EXIT_CODE</a>, <a class="el" href="../../#l00077">Realm::Flags</a>, <a class="el" href="../../#l00705">GetConsoleArguments()</a>, <a class="el" href="../../#l00251">World::GetExitCode()</a>, <a class="el" href="../../#l00082">GitRevision::GetFullVersion()</a>, <a class="el" href="../../#l00069">Realm::Id</a>, <a class="el" href="../../#l00657">LoadRealmInfo()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00073">m_ServiceStatus</a>, <a class="el" href="../../#l00185">METRIC_EVENT</a>, <a class="el" href="../../#l00075">Realm::Name</a>, <a class="el" href="../../#l00080">Realm::PopulationLevel</a>, <a class="el" href="../../#l00106">realm</a>, <a class="el" href="../../#l00043">RealmHandle::Realm</a>, <a class="el" href="../../#l00029">REALM_FLAG_OFFLINE</a>, <a class="el" href="../../#l00028">REALM_FLAG_VERSION_MISMATCH</a>, <a class="el" href="../../#l00186">sBattlegroundMgr</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, <a class="el" href="../../#l03739">SERVER_PROCESS_WORLDSERVER</a>, <a class="el" href="../../#l00026">Acore::Module::SetEnableModulesList()</a>, <a class="el" href="../../#l00029">SetProcessPriority()</a>, <a class="el" href="../../#l00071">BigNumber::SetRand()</a>, <a class="el" href="../../#l00022">Acore::Banner::Show()</a>, <a class="el" href="../../#l00493">ShutdownCLIThread()</a>, <a class="el" href="../../#l00603">SignalHandler()</a>, <a class="el" href="../../#l00126">sLog</a>, <a class="el" href="../../#l00219">sMapMgr</a>, <a class="el" href="../../#l00130">sMetric</a>, <a class="el" href="../../#l00102">sOutdoorPvPMgr</a>, <a class="el" href="../../#l00709">sScriptMgr</a>, <a class="el" href="../../#l00072">sSecretMgr</a>, <a class="el" href="../../#l00092">FreezeDetector::Start()</a>, <a class="el" href="../../#l00420">StartDB()</a>, <a class="el" href="../../#l00640">StartRaSocketAcceptor()</a>, <a class="el" href="../../#l00473">StopDB()</a>, <a class="el" href="../../#l00252">World::StopNow()</a>, <a class="el" href="../../#l00442">sWorld</a>, <a class="el" href="../../#l00064">sWorldSocketMgr</a>, <a class="el" href="../../#l00050">OpenSSLCrypto::threadsCleanup()</a>, <a class="el" href="../../#l00041">OpenSSLCrypto::threadsSetup()</a>, and <a class="el" href="../../#l00554">WorldUpdateLoop()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00080">_ACORE_CORE_CONFIG</a>, <a class="el" href="../../#l03762">Acore::Impl::CurrentServerProcessHolder::_type</a>, <a class="el" href="../../#l00148">Acore::AbortHandler()</a>, <a class="el" href="../../#l00024">ACSoapThread()</a>, <a class="el" href="../../#l00029">AddScripts()</a>, <a class="el" href="../../#l00483">ClearOnlineAccounts()</a>, <a class="el" href="../../#l00108">CliThread()</a>, <a class="el" href="../../#l00025">CONFIG_HIGH_PRIORITY</a>, <a class="el" href="../../#l00215">CONFIG_PORT_WORLD</a>, <a class="el" href="../../#l00024">CONFIG_PROCESSOR_AFFINITY</a>, <a class="el" href="../../#l00218">CreatePIDFile()</a>, <a class="el" href="../../#l00054">ERROR_EXIT_CODE</a>, <a class="el" href="../../#l00077">Realm::Flags</a>, <a class="el" href="../../#l00705">GetConsoleArguments()</a>, <a class="el" href="../../#l00251">World::GetExitCode()</a>, <a class="el" href="../../#l00082">GitRevision::GetFullVersion()</a>, <a class="el" href="../../#l00069">Realm::Id</a>, <a class="el" href="../../#l00657">LoadRealmInfo()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00073">m_ServiceStatus</a>, <a class="el" href="../../#l00185">METRIC_EVENT</a>, <a class="el" href="../../#l00075">Realm::Name</a>, <a class="el" href="../../#l00080">Realm::PopulationLevel</a>, <a class="el" href="../../#l00106">realm</a>, <a class="el" href="../../#l00043">RealmHandle::Realm</a>, <a class="el" href="../../#l00029">REALM_FLAG_OFFLINE</a>, <a class="el" href="../../#l00028">REALM_FLAG_VERSION_MISMATCH</a>, <a class="el" href="../../#l00186">sBattlegroundMgr</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, <a class="el" href="../../#l03739">SERVER_PROCESS_WORLDSERVER</a>, <a class="el" href="../../#l00026">Acore::Module::SetEnableModulesList()</a>, <a class="el" href="../../#l00029">SetProcessPriority()</a>, <a class="el" href="../../#l00071">BigNumber::SetRand()</a>, <a class="el" href="../../#l00022">Acore::Banner::Show()</a>, <a class="el" href="../../#l00493">ShutdownCLIThread()</a>, <a class="el" href="../../#l00603">SignalHandler()</a>, <a class="el" href="../../#l00126">sLog</a>, <a class="el" href="../../#l00219">sMapMgr</a>, <a class="el" href="../../#l00130">sMetric</a>, <a class="el" href="../../#l00102">sOutdoorPvPMgr</a>, <a class="el" href="../../#l00709">sScriptMgr</a>, <a class="el" href="../../#l00072">sSecretMgr</a>, <a class="el" href="../../#l00092">FreezeDetector::Start()</a>, <a class="el" href="../../#l00420">StartDB()</a>, <a class="el" href="../../#l00640">StartRaSocketAcceptor()</a>, <a class="el" href="../../#l00473">StopDB()</a>, <a class="el" href="../../#l00252">World::StopNow()</a>, <a class="el" href="../../#l00443">sWorld</a>, <a class="el" href="../../#l00064">sWorldSocketMgr</a>, <a class="el" href="../../#l00050">OpenSSLCrypto::threadsCleanup()</a>, <a class="el" href="../../#l00041">OpenSSLCrypto::threadsSetup()</a>, and <a class="el" href="../../#l00554">WorldUpdateLoop()</a>.</p>
 
 </div>
 </div>
@@ -1142,7 +1142,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 <div class="fragment"><div class="line"><span class="lineno">  494</span>{</div>
 <div class="line"><span class="lineno">  495</span>    <span class="keywordflow">if</span> (cliThread)</div>
 <div class="line"><span class="lineno">  496</span>    {</div>
@@ -1236,7 +1236,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 <div class="fragment"><div class="line"><span class="lineno">  604</span>{</div>
 <div class="line"><span class="lineno">  605</span>    <span class="keywordflow">if</span> (!error)</div>
 <div class="line"><span class="lineno">  606</span>        <a class="code hl_function" href="../../d5/de4/a11342.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a>(<a class="code hl_enumvalue" href="../../d2/db6/a04681.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf18aae50edbb1083eb3b45656b52f999">SHUTDOWN_EXIT_CODE</a>);</div>
@@ -1272,7 +1272,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 <div class="fragment"><div class="line"><span class="lineno">   93</span>    {</div>
 <div class="line"><span class="lineno">   94</span>        freezeDetector-&gt;_timer.expires_at(<a class="code hl_function" href="../../d7/dd4/a04689.html#a546bd84b57be90f3ceb4cfc0fb92ae1c">Acore::Asio::SteadyTimer::GetExpirationTime</a>(5));</div>
 <div class="line"><span class="lineno">   95</span>        freezeDetector-&gt;_timer.async_wait(std::bind(&amp;<a class="code hl_function" href="../../de/d69/a04679.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb">FreezeDetector::Handler</a>, std::weak_ptr&lt;FreezeDetector&gt;(freezeDetector), std::placeholders::_1));</div>
@@ -1299,7 +1299,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 
 <p>Initialize connection to the databases. </p>
 <ul>
@@ -1320,13 +1320,13 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  431</span>    <span class="keywordflow">if</span> (!loader.Load())</div>
 <div class="line"><span class="lineno">  432</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  433</span> </div>
-<div class="line"><span class="lineno">  435</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../df/d08/a28154.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a> = <a class="code hl_define" href="../../d9/d4a/a00479.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d4/d1e/a00497.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(<span class="stringliteral">&quot;RealmID&quot;</span>, 0);</div>
-<div class="line"><span class="lineno">  436</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../df/d08/a28154.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>)</div>
+<div class="line"><span class="lineno">  435</span>    <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../d0/dbc/a28174.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a> = <a class="code hl_define" href="../../d9/d4a/a00479.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d4/d1e/a00497.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(<span class="stringliteral">&quot;RealmID&quot;</span>, 0);</div>
+<div class="line"><span class="lineno">  436</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../d0/dbc/a28174.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>)</div>
 <div class="line"><span class="lineno">  437</span>    {</div>
 <div class="line"><span class="lineno">  438</span>        <a class="code hl_define" href="../../d4/d8c/a00035.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.worldserver&quot;</span>, <span class="stringliteral">&quot;Realm ID not defined in configuration file&quot;</span>);</div>
 <div class="line"><span class="lineno">  439</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  440</span>    }</div>
-<div class="line"><span class="lineno">  441</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../df/d08/a28154.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a> &gt; 255)</div>
+<div class="line"><span class="lineno">  441</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../d0/dbc/a28174.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a> &gt; 255)</div>
 <div class="line"><span class="lineno">  442</span>    {</div>
 <div class="line"><span class="lineno">  443</span>        <span class="comment">/*</span></div>
 <div class="line"><span class="lineno">  444</span><span class="comment">         * Due to the client only being able to read a realm.Id.Realm</span></div>
@@ -1338,7 +1338,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  450</span>    }</div>
 <div class="line"><span class="lineno">  451</span> </div>
 <div class="line"><span class="lineno">  452</span>    <a class="code hl_define" href="../../d4/d8c/a00035.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Loading World Information...&quot;</span>);</div>
-<div class="line"><span class="lineno">  453</span>    <a class="code hl_define" href="../../d4/d8c/a00035.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt; RealmID:              {}&quot;</span>, <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d2/def/a28158.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../df/d08/a28154.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>);</div>
+<div class="line"><span class="lineno">  453</span>    <a class="code hl_define" href="../../d4/d8c/a00035.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt; RealmID:              {}&quot;</span>, <a class="code hl_variable" href="../../d2/db6/a04681.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d4/df4/a28178.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../d0/dbc/a28174.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>);</div>
 <div class="line"><span class="lineno">  454</span> </div>
 <div class="line"><span class="lineno">  456</span>    <a class="code hl_function" href="../../de/d69/a04679.html#ga285010ee0ae83f9198f08fa3145877d7">ClearOnlineAccounts</a>();</div>
 <div class="line"><span class="lineno">  457</span> </div>
@@ -1364,7 +1364,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa05602_html_a48b4a16db3575bc0e3885a6ffd11a8e5ade00402102c878cff7f8344ca6020927"><div class="ttname"><a href="../../dd/dd6/a05602.html#a48b4a16db3575bc0e3885a6ffd11a8e5ade00402102c878cff7f8344ca6020927">DatabaseLoader::DATABASE_NONE</a></div><div class="ttdeci">@ DATABASE_NONE</div><div class="ttdef"><b>Definition:</b> DatabaseLoader.h:46</div></div>
 <div class="ttc" id="aa05718_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../dd/d08/a05718.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">DatabaseLoader::AddDatabase()</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00483">ClearOnlineAccounts()</a>, <a class="el" href="../../#l00046">DatabaseLoader::DATABASE_NONE</a>, <a class="el" href="../../#l00082">GitRevision::GetFullVersion()</a>, <a class="el" href="../../#l00021">GitRevision::GetHash()</a>, <a class="el" href="../../#l00055">DatabaseLoader::GetUpdateFlags()</a>, <a class="el" href="../../#l00069">Realm::Id</a>, <a class="el" href="../../#l00021">MySQL::Library_Init()</a>, <a class="el" href="../../#l00154">DatabaseLoader::Load()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00106">realm</a>, <a class="el" href="../../#l00043">RealmHandle::Realm</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, <a class="el" href="../../#l00709">sScriptMgr</a>, <a class="el" href="../../#l00442">sWorld</a>, <a class="el" href="../../#l00104">WORLD_UPD_VERSION</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">DatabaseLoader::AddDatabase()</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00483">ClearOnlineAccounts()</a>, <a class="el" href="../../#l00046">DatabaseLoader::DATABASE_NONE</a>, <a class="el" href="../../#l00082">GitRevision::GetFullVersion()</a>, <a class="el" href="../../#l00021">GitRevision::GetHash()</a>, <a class="el" href="../../#l00055">DatabaseLoader::GetUpdateFlags()</a>, <a class="el" href="../../#l00069">Realm::Id</a>, <a class="el" href="../../#l00021">MySQL::Library_Init()</a>, <a class="el" href="../../#l00154">DatabaseLoader::Load()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00106">realm</a>, <a class="el" href="../../#l00043">RealmHandle::Realm</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, <a class="el" href="../../#l00709">sScriptMgr</a>, <a class="el" href="../../#l00443">sWorld</a>, <a class="el" href="../../#l00104">WORLD_UPD_VERSION</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00118">main()</a>.</p>
 
@@ -1377,7 +1377,7 @@ Variables</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d5/d8a/a28118.html">AsyncAcceptor</a> * StartRaSocketAcceptor </td>
+          <td class="memname"><a class="el" href="../../d6/df2/a28138.html">AsyncAcceptor</a> * StartRaSocketAcceptor </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../dd/dec/a04786.html">Acore::Asio::IoContext</a> &amp;&#160;</td>
           <td class="paramname"><em>ioContext</em></td><td>)</td>
@@ -1386,12 +1386,12 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 <div class="fragment"><div class="line"><span class="lineno">  641</span>{</div>
 <div class="line"><span class="lineno">  642</span>    <a class="code hl_typedef" href="../../d4/d1e/a00497.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> raPort = <a class="code hl_typedef" href="../../d4/d1e/a00497.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>(<a class="code hl_define" href="../../d9/d4a/a00479.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d4/d1e/a00497.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;Ra.Port&quot;</span>, 3443));</div>
 <div class="line"><span class="lineno">  643</span>    std::string raListener = <a class="code hl_define" href="../../d9/d4a/a00479.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;Ra.IP&quot;</span>, <span class="stringliteral">&quot;0.0.0.0&quot;</span>);</div>
 <div class="line"><span class="lineno">  644</span> </div>
-<div class="line"><span class="lineno">  645</span>    <a class="code hl_class" href="../../d5/d8a/a28118.html">AsyncAcceptor</a>* acceptor = <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d8a/a28118.html">AsyncAcceptor</a>(ioContext, raListener, raPort);</div>
+<div class="line"><span class="lineno">  645</span>    <a class="code hl_class" href="../../d6/df2/a28138.html">AsyncAcceptor</a>* acceptor = <span class="keyword">new</span> <a class="code hl_class" href="../../d6/df2/a28138.html">AsyncAcceptor</a>(ioContext, raListener, raPort);</div>
 <div class="line"><span class="lineno">  646</span>    <span class="keywordflow">if</span> (!acceptor-&gt;Bind())</div>
 <div class="line"><span class="lineno">  647</span>    {</div>
 <div class="line"><span class="lineno">  648</span>        <a class="code hl_define" href="../../d4/d8c/a00035.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.worldserver&quot;</span>, <span class="stringliteral">&quot;Failed to bind RA socket acceptor&quot;</span>);</div>
@@ -1403,7 +1403,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  654</span>    <span class="keywordflow">return</span> acceptor;</div>
 <div class="line"><span class="lineno">  655</span>}</div>
 <div class="ttc" id="aa05578_html"><div class="ttname"><a href="../../d4/de2/a05578.html">RASession</a></div><div class="ttdef"><b>Definition:</b> RASession.h:30</div></div>
-<div class="ttc" id="aa28118_html"><div class="ttname"><a href="../../d5/d8a/a28118.html">AsyncAcceptor</a></div><div class="ttdef"><b>Definition:</b> AsyncAcceptor.h:32</div></div>
+<div class="ttc" id="aa28138_html"><div class="ttname"><a href="../../d6/df2/a28138.html">AsyncAcceptor</a></div><div class="ttdef"><b>Definition:</b> AsyncAcceptor.h:32</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00157">LOG_ERROR</a>, and <a class="el" href="../../#l00074">sConfigMgr</a>.</p>
 
@@ -1426,7 +1426,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 <div class="fragment"><div class="line"><span class="lineno">  474</span>{</div>
 <div class="line"><span class="lineno">  475</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Close();</div>
 <div class="line"><span class="lineno">  476</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.Close();</div>
@@ -1499,7 +1499,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 <ul>
 <li>While we have not World::m_stopEvent, update the world</li>
 </ul>
@@ -1551,7 +1551,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  601</span>}</div>
 <div class="ttc" id="aa00338_html_a1c3834b9e3853535027d58bf21bec81f"><div class="ttname"><a href="../../dc/d84/a00338.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a></div><div class="ttdeci">std::chrono::milliseconds Milliseconds</div><div class="ttdoc">Milliseconds shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:27</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00110">getMSTimeDiff()</a>, <a class="el" href="../../#l00253">World::IsStopped()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00073">m_ServiceStatus</a>, <a class="el" href="../../#l00156">World::m_worldLoopCounter</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, <a class="el" href="../../#l00053">SHUTDOWN_EXIT_CODE</a>, <a class="el" href="../../#l00252">World::StopNow()</a>, <a class="el" href="../../#l00442">sWorld</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00110">getMSTimeDiff()</a>, <a class="el" href="../../#l00253">World::IsStopped()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00073">m_ServiceStatus</a>, <a class="el" href="../../#l00156">World::m_worldLoopCounter</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, <a class="el" href="../../#l00053">SHUTDOWN_EXIT_CODE</a>, <a class="el" href="../../#l00252">World::StopNow()</a>, <a class="el" href="../../#l00443">sWorld</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00118">main()</a>.</p>
 
@@ -1684,7 +1684,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00118">main()</a>, and <a class="el" href="../../#l00554">WorldUpdateLoop()</a>.</p>
 
@@ -1702,7 +1702,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 
 </div>
 </div>
@@ -1718,7 +1718,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 
 </div>
 </div>
@@ -1734,7 +1734,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><code>#include &lt;<a class="el" href="../../d8/dd7/a29263.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d3/dc9/a29283.html">azerothcore-wotlk/src/server/apps/worldserver/Main.cpp</a>&gt;</code></p>
 
 </div>
 </div>
@@ -1743,7 +1743,7 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Dec 30 2024 20:42:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 6 2025 20:42:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,17 @@
 var a13946 =
 [
-    [ "go_direbrew_mole_machineAI", "de/d68/a13946.html#a4e667ad9e572e93c045ae01f63bea648", null ],
-    [ "Reset", "de/d68/a13946.html#a32dd801b5d898fd8634edcb6cae52bdf", null ],
-    [ "UpdateAI", "de/d68/a13946.html#a2eaa8a0ad0907e4aa497a7e1c3a31b29", null ],
-    [ "_scheduler", "de/d68/a13946.html#a5960ff83f21cf5964f422e3a7b297f22", null ]
+    [ "npc_coren_direbrew", "de/d68/a13946.html#a51ab68feb3dde3fb23c708afcdcdbd34", null ],
+    [ "CanBeSeen", "de/d68/a13946.html#ad4db2a85c92f69e54036f4133396f201", null ],
+    [ "DamageTaken", "de/d68/a13946.html#a782a08ed525eab8a9e9044dc1d5814b3", null ],
+    [ "DoAction", "de/d68/a13946.html#a2d417a9310b5b75df09879678d967794", null ],
+    [ "JustDied", "de/d68/a13946.html#a39913e601440fcd6ffbc77ad7c204ac8", null ],
+    [ "JustSummoned", "de/d68/a13946.html#a2cb3d9de6ccdffa73f709b82cfae790a", null ],
+    [ "MoveInLineOfSight", "de/d68/a13946.html#a9c48c7e4a97998c2091992f51b734679", null ],
+    [ "Reset", "de/d68/a13946.html#a49eb75eb89742ee70ca957d4e2f0b5d0", null ],
+    [ "sGossipSelect", "de/d68/a13946.html#ad8b665606985984ad633f66ad9b73bd2", null ],
+    [ "SummonedCreatureDies", "de/d68/a13946.html#aafdc2d271d1e267f5b3deba7d00e07fc", null ],
+    [ "SummonSister", "de/d68/a13946.html#a358fe5922a85ea3eee6abe9451869b66", null ],
+    [ "UpdateAI", "de/d68/a13946.html#af6615292fa853883979dc37c6e247289", null ],
+    [ "_events", "de/d68/a13946.html#a81ee26c215b7581a13faf56ee041b9fe", null ],
+    [ "_summons", "de/d68/a13946.html#a261d4c4dea56748e66752cb11588086a", null ]
 ];

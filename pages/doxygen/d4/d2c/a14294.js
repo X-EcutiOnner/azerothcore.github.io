@@ -1,11 +1,15 @@
 var a14294 =
 [
-    [ "boss_anetheron", "d4/d2c/a14294.html#a6c103caa3f137756599a75bff03a6648", null ],
-    [ "DoAction", "d4/d2c/a14294.html#a2fd485de26c820fec5240f9141a09964", null ],
-    [ "JustDied", "d4/d2c/a14294.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
-    [ "JustEngagedWith", "d4/d2c/a14294.html#aa34ac87ad4014fbecb481be7896c577c", null ],
-    [ "JustSummoned", "d4/d2c/a14294.html#af9c156e28c7eca710d8367bd2a99387d", null ],
-    [ "KilledUnit", "d4/d2c/a14294.html#a4471af823278a3664574729bf5c749be", null ],
-    [ "PathEndReached", "d4/d2c/a14294.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
-    [ "_recentlySpoken", "d4/d2c/a14294.html#accd9455c3b1d536ca177be6028f3503d", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "d4/d2c/a14294.html#aef8e98b85dfc93a1e9405fbbce084e3f", null ],
+    [ "Initialize", "d4/d2c/a14294.html#a11b698907ffea5dd1a165a35d2c23dd0", null ],
+    [ "IsFireEventDone", "d4/d2c/a14294.html#aadba63a6fa6025858e78712892e4a343", null ],
+    [ "OnCreatureCreate", "d4/d2c/a14294.html#ab5e452958bc474e60fd3f637595629c1", null ],
+    [ "OnGameObjectCreate", "d4/d2c/a14294.html#ae96ecf6e1b4ca99f2b3fc3ace5cbf81b", null ],
+    [ "OnUnitDeath", "d4/d2c/a14294.html#a163178ce8e79aa0bc082172465527173", null ],
+    [ "ReadSaveDataMore", "d4/d2c/a14294.html#a1b045bbe6c337e726158e64375fa9fe7", null ],
+    [ "SetData", "d4/d2c/a14294.html#a79fcee240fbd9190b0b66fd4bf7955d9", null ],
+    [ "WriteSaveDataMore", "d4/d2c/a14294.html#abaa419d432ef6d0d96487c8d9ebcb630", null ],
+    [ "_akumaiPortalGUID", "d4/d2c/a14294.html#a37b3647e927798d77a17f99976910b4b", null ],
+    [ "_encounters", "d4/d2c/a14294.html#a4cfd6047351fd144ba96627889a3e9cd", null ],
+    [ "_requiredDeaths", "d4/d2c/a14294.html#a3aade6e7fb756b84180876b4ba086376", null ]
 ];

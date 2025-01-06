@@ -1,6 +1,5 @@
 var a20882 =
 [
-    [ "HandleDummyEffect", "de/de3/a20882.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
-    [ "PrepareSpellScript", "de/de3/a20882.html#a07376c95cb2ec41d86a24be59094d207", null ],
-    [ "Register", "de/de3/a20882.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
+    [ "go_harpoon_canon", "de/de3/a20882.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
+    [ "OnGossipHello", "de/de3/a20882.html#ad0098bafd1233636bde181312126e65f", null ]
 ];

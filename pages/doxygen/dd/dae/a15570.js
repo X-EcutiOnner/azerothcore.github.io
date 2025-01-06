@@ -1,6 +1,7 @@
 var a15570 =
 [
-    [ "boss_anub_arakAI", "db/da1/a15574.html", "db/da1/a15574" ],
-    [ "boss_anub_arak", "dd/dae/a15570.html#ac2594f561b07069a312ed38c01d9c7da", null ],
-    [ "GetAI", "dd/dae/a15570.html#a8687594354d514b99e026797ee71c70d", null ]
+    [ "HandleScript", "dd/dae/a15570.html#ae9939f2795b8ba428277c7d658af715c", null ],
+    [ "PrepareSpellScript", "dd/dae/a15570.html#aabe244008103ff317e3fc1e26b04115a", null ],
+    [ "Register", "dd/dae/a15570.html#a4f492bdd96ef190354f37c95217bb696", null ],
+    [ "Validate", "dd/dae/a15570.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
 ];

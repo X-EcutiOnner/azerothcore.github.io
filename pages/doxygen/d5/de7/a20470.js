@@ -1,5 +1,6 @@
 var a20470 =
 [
-    [ "achievement_xt002_nerf_engineering", "d5/de7/a20470.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "d5/de7/a20470.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "PrepareSpellScript", "d5/de7/a20470.html#a525025d429743f9d606289ca1a660796", null ],
+    [ "Register", "d5/de7/a20470.html#a66f565c07d495f27aaba393fdcce9d24", null ],
+    [ "SelectTarget", "d5/de7/a20470.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
 ];

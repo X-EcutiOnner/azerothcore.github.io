@@ -1,8 +1,11 @@
 var a21966 =
 [
-    [ "AfterRemove", "d6/dba/a21966.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
-    [ "HandlePeriodic", "d6/dba/a21966.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
-    [ "OnApply", "d6/dba/a21966.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
-    [ "PrepareAuraScript", "d6/dba/a21966.html#a47a6281c42dc9368357cc86912331c77", null ],
-    [ "Register", "d6/dba/a21966.html#a868c79cda98b97b27b74d46f86cb980a", null ]
+    [ "npc_iron_watcherAI", "d6/dba/a21966.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
+    [ "MovementInform", "d6/dba/a21966.html#aaf329f0160efa778abdebf86b1cf230b", null ],
+    [ "Reset", "d6/dba/a21966.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
+    [ "SpellHit", "d6/dba/a21966.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
+    [ "UpdateAI", "d6/dba/a21966.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
+    [ "charging", "d6/dba/a21966.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
+    [ "hpTimer", "d6/dba/a21966.html#afcbb113387345361baf0351a19e6eb1d", null ],
+    [ "spellTimer", "d6/dba/a21966.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
 ];

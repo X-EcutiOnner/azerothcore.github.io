@@ -1,5 +1,7 @@
 var a23526 =
 [
-    [ "npc_telonicus", "df/d41/a23526.html#af8ba6be2d39463725bbbaf7770319a93", null ],
-    [ "ScheduleEvents", "df/d41/a23526.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
+    [ "OnApply", "df/d41/a23526.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "df/d41/a23526.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "df/d41/a23526.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "df/d41/a23526.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

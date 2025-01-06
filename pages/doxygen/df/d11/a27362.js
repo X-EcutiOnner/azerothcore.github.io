@@ -1,7 +1,6 @@
 var a27362 =
 [
-    [ "npc_crashin_thrashin_robot", "df/d11/a27362.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "df/d11/a27362.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "df/d11/a27362.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "df/d11/a27362.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "npc_stable_masterAI", "da/d84/a27366.html", "da/d84/a27366" ],
+    [ "npc_stable_master", "df/d11/a27362.html#ad327340f47e10bec7f077192227b0899", null ],
+    [ "GetAI", "df/d11/a27362.html#a7e34e18d2dad465eb88b0388fa830490", null ]
 ];

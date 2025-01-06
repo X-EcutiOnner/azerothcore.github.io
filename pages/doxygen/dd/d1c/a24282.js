@@ -1,12 +1,14 @@
 var a24282 =
 [
-    [ "CheckTarget", "dd/d1c/a24282.html#a731aa2c0a2b67b8a15cab72ea2cb961a", null ],
-    [ "CheckTargets", "dd/d1c/a24282.html#a3b5bbef0c43a600387235822f3c6dbc7", null ],
-    [ "HandleCorpseExplosion", "dd/d1c/a24282.html#a201de2ee86d0cf954117df0e5343ee69", null ],
-    [ "HandleDamage", "dd/d1c/a24282.html#a810fc65eb5d7160366d63210bad9caea", null ],
-    [ "Load", "dd/d1c/a24282.html#a00b45e2f466de39c95251c2a38f6c3bd", null ],
-    [ "PrepareSpellScript", "dd/d1c/a24282.html#a4cae1673a840d8ec0d727b881a3616cf", null ],
-    [ "Register", "dd/d1c/a24282.html#a9e67ea51300569a0e163cb3e427b086e", null ],
-    [ "Validate", "dd/d1c/a24282.html#a93984e8b831cb4c37ec2726d44532d43", null ],
-    [ "_target", "dd/d1c/a24282.html#a5028b9d3166270b2b0557943e962eade", null ]
+    [ "Absorb", "dd/d1c/a24282.html#a401274543919a81efea81008f8020ed1", null ],
+    [ "CalculateAmount", "dd/d1c/a24282.html#a837b0e3f0135f7b8393f1ee630d90c50", null ],
+    [ "HandleEffectApply", "dd/d1c/a24282.html#a0acb2be86ed6da238e8769d4871526d3", null ],
+    [ "HandleEffectRemove", "dd/d1c/a24282.html#a2b1e9dbb5d3543acd36f9253f224b9a7", null ],
+    [ "Load", "dd/d1c/a24282.html#ab22271735c240c0d375324f54efc8313", null ],
+    [ "PrepareAuraScript", "dd/d1c/a24282.html#af040fefa0f25f319f98340b9908bb85e", null ],
+    [ "Register", "dd/d1c/a24282.html#af89379413ea3b10477ea267ac8e51004", null ],
+    [ "Trigger", "dd/d1c/a24282.html#ae1704ed58255389c7483f75b5f0a227c", null ],
+    [ "Validate", "dd/d1c/a24282.html#a58faaf03fc6a0974049da2af0fc70825", null ],
+    [ "absorbPct", "dd/d1c/a24282.html#a3a9bd069cf4732f64990277227d71d0d", null ],
+    [ "hpPct", "dd/d1c/a24282.html#a83ef3e3f9534366c24311f3281a8d0b8", null ]
 ];

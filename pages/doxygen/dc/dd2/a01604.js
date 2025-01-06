@@ -1,8 +1,8 @@
 var a01604 =
 [
-    [ "boss_garfrost", "d3/d39/a16682.html", "d3/d39/a16682" ],
-    [ "boss_garfrost::boss_garfrostAI", "d1/de9/a16686.html", "d1/de9/a16686" ],
-    [ "spell_garfrost_permafrost", "da/db9/a16690.html", "da/db9/a16690" ],
+    [ "boss_garfrost", "d5/dc6/a16702.html", "d5/dc6/a16702" ],
+    [ "boss_garfrost::boss_garfrostAI", "d4/d09/a16706.html", "d4/d09/a16706" ],
+    [ "spell_garfrost_permafrost", "d1/dbe/a16710.html", "d1/dbe/a16710" ],
     [ "SPELL_FORGE_BLADE", "dc/dd2/a01604.html#a84b5dddbef44e6c43897360580f77274", null ],
     [ "SPELL_FORGE_MACE", "dc/dd2/a01604.html#a0735e91daa90f83d0246443e66f380bc", null ],
     [ "SPELL_SARONITE_TRIGGERED", "dc/dd2/a01604.html#a342d2ee10efa59edc49a364fb3c4300d", null ],
@@ -2069,6 +2069,7 @@ var a01604 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

@@ -1,6 +1,6 @@
 var a22418 =
 [
-    [ "HandleScriptEffect", "d2/df2/a22418.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
-    [ "PrepareSpellScript", "d2/df2/a22418.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
-    [ "Register", "d2/df2/a22418.html#aad6959f74932db219e991efd3b3af44a", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d2/da3/a22422.html", "d2/da3/a22422" ],
+    [ "instance_shadow_labyrinth", "d2/df2/a22418.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
+    [ "GetInstanceScript", "d2/df2/a22418.html#af9edf624413593a5cdf025dd9a1c3631", null ]
 ];

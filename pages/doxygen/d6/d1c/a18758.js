@@ -1,6 +1,9 @@
 var a18758 =
 [
-    [ "boss_kelthuzadAI", "db/d63/a18762.html", "db/d63/a18762" ],
-    [ "boss_kelthuzad", "d6/d1c/a18758.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
-    [ "GetAI", "d6/d1c/a18758.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d6/d1c/a18758.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "d6/d1c/a18758.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "d6/d1c/a18758.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "d6/d1c/a18758.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "d6/d1c/a18758.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "d6/d1c/a18758.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

@@ -1,6 +1,11 @@
 var a15062 =
 [
-    [ "npc_murkdeepAI", "d7/d6e/a15066.html", "d7/d6e/a15066" ],
-    [ "npc_murkdeep", "da/d8d/a15062.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "da/d8d/a15062.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "npc_stillpine_capitiveAI", "da/d8d/a15062.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
+    [ "MovementInform", "da/d8d/a15062.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
+    [ "Reset", "da/d8d/a15062.html#a9c884f892e64044057d477bdc0f89eed", null ],
+    [ "StartMoving", "da/d8d/a15062.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
+    [ "UpdateAI", "da/d8d/a15062.html#a25dc06767382b5fee2a7098b58726fb2", null ],
+    [ "_events", "da/d8d/a15062.html#a93dd55d392836d8d085e34293344b700", null ],
+    [ "_movementComplete", "da/d8d/a15062.html#ae8e39ca782aee412e39d65a33d14014e", null ],
+    [ "_playerGUID", "da/d8d/a15062.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
 ];

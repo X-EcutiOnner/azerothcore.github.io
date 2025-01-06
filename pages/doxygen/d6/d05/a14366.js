@@ -1,7 +1,10 @@
 var a14366 =
 [
-    [ "hyjalTyrandeAI", "d1/d38/a14370.html", "d1/d38/a14370" ],
-    [ "npc_hyjal_tyrande", "d6/d05/a14366.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
-    [ "GetAI", "d6/d05/a14366.html#a2f863e616352a98763eef9a717d73388", null ],
-    [ "OnGossipSelect", "d6/d05/a14366.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
+    [ "boss_rage_winterchill", "d6/d05/a14366.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "d6/d05/a14366.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "d6/d05/a14366.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "d6/d05/a14366.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "d6/d05/a14366.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "d6/d05/a14366.html#aec47befdf3246710a5158780fa797fa7", null ],
+    [ "_recentlySpoken", "d6/d05/a14366.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
 ];

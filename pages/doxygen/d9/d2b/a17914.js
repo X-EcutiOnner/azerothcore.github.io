@@ -1,15 +1,8 @@
 var a17914 =
 [
-    [ "npc_tirion_fordringAI", "d9/d2b/a17914.html#aa0f94cef85e96cda4a2e280eaa7110de", null ],
-    [ "CanAIAttack", "d9/d2b/a17914.html#a1bdef323e9c7364fab789abc39ef00a0", null ],
-    [ "DoAction", "d9/d2b/a17914.html#a5fd5b3fde84ed04c794546d11fe946d7", null ],
-    [ "EnterEvadeMode", "d9/d2b/a17914.html#a1275cee8f49c67920041ad8d50c62aa4", null ],
-    [ "JustReachedHome", "d9/d2b/a17914.html#a6e6c7c2f4f8e60126fd4adc42fe3b4f4", null ],
-    [ "MovementInform", "d9/d2b/a17914.html#a7284240c4eafbc80748d5e2867a64a9f", null ],
-    [ "Reset", "d9/d2b/a17914.html#ac41e569535322bb5907fa4116bbac739", null ],
-    [ "sGossipSelect", "d9/d2b/a17914.html#a56599a97f019121160b2f6ac43019772", null ],
-    [ "SpellHit", "d9/d2b/a17914.html#ae68b900f87c646cfb3ece5518b59e687", null ],
-    [ "UpdateAI", "d9/d2b/a17914.html#a3f729624820266f1cf1e5577c5047c3b", null ],
-    [ "_events", "d9/d2b/a17914.html#a7bb0d243cc9b3e836dd99864f2a5e669", null ],
-    [ "_instance", "d9/d2b/a17914.html#a223a7f09ae03971487bb55e770503f7e", null ]
+    [ "NecroticPlagueTargetCheck", "d9/d2b/a17914.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
+    [ "operator()", "d9/d2b/a17914.html#a801a176e367a9f4446fe080845477654", null ],
+    [ "_notAura1", "d9/d2b/a17914.html#a4f52417f233e1ab06210726670f719f3", null ],
+    [ "_notAura2", "d9/d2b/a17914.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
+    [ "_sourceObj", "d9/d2b/a17914.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
 ];

@@ -1,12 +1,5 @@
 var a22810 =
 [
-    [ "boss_fathomlord_karathress", "db/d4a/a22810.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "db/d4a/a22810.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "db/d4a/a22810.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "db/d4a/a22810.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "db/d4a/a22810.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "db/d4a/a22810.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "db/d4a/a22810.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "db/d4a/a22810.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "db/d4a/a22810.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "PrepareSpellScript", "db/d4a/a22810.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
+    [ "Register", "db/d4a/a22810.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
 ];

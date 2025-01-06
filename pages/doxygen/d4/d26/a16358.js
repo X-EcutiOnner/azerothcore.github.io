@@ -1,5 +1,6 @@
 var a16358 =
 [
-    [ "achievement_better_off_dred", "d4/d26/a16358.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
-    [ "OnCheck", "d4/d26/a16358.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
+    [ "npc_announcer_toc10", "d4/d26/a16358.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "d4/d26/a16358.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "d4/d26/a16358.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

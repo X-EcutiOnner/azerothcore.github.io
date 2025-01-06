@@ -1,6 +1,6 @@
 var a23522 =
 [
-    [ "npc_capernian", "d2/db4/a23522.html#a0acb568664c777797eeb7104f454699d", null ],
-    [ "AttackStart", "d2/db4/a23522.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
-    [ "ScheduleEvents", "d2/db4/a23522.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
+    [ "AfterRemove", "d2/db4/a23522.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "d2/db4/a23522.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "d2/db4/a23522.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

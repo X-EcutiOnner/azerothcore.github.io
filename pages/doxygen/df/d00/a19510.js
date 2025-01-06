@@ -1,6 +1,7 @@
 var a19510 =
 [
-    [ "boss_auriayaAI", "d1/d80/a19514.html", "d1/d80/a19514" ],
-    [ "boss_auriaya", "df/d00/a19510.html#a8acecf02a63e846d1a46633a6ade6083", null ],
-    [ "GetAI", "df/d00/a19510.html#a09c7cd124672eb12ec349dbbbd3c87ef", null ]
+    [ "OnRemove", "df/d00/a19510.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "df/d00/a19510.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "df/d00/a19510.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "df/d00/a19510.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

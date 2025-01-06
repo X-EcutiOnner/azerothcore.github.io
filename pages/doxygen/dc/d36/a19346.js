@@ -1,7 +1,8 @@
 var a19346 =
 [
-    [ "HandleEffectRemove", "dc/d36/a19346.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "dc/d36/a19346.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "dc/d36/a19346.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "dc/d36/a19346.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "dark_rune_protectorsAI", "dc/d36/a19346.html#ae2f3cfd19e565ede132e38f439a930ba", null ],
+    [ "JustEngagedWith", "dc/d36/a19346.html#aa71514efa488ff8f9276cb2a4c166759", null ],
+    [ "Reset", "dc/d36/a19346.html#a88305b8ac016175d61a0387d1888671f", null ],
+    [ "UpdateAI", "dc/d36/a19346.html#a0e27fc91a01362ee58a0eb10fb9a5176", null ],
+    [ "events", "dc/d36/a19346.html#a2836d6f142a322dae0aed9ff6a4888e2", null ]
 ];

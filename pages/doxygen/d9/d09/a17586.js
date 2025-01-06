@@ -1,11 +1,6 @@
 var a17586 =
 [
-    [ "Load", "d9/d09/a17586.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "d9/d09/a17586.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "d9/d09/a17586.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "d9/d09/a17586.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "d9/d09/a17586.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "d9/d09/a17586.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "d9/d09/a17586.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "d9/d09/a17586.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "PrepareSpellScript", "d9/d09/a17586.html#a16eadb50b6038f16ea28464d00df3381", null ],
+    [ "Register", "d9/d09/a17586.html#ac6e304d391011863b8eff8105fab5191", null ],
+    [ "SelectDest", "d9/d09/a17586.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
 ];

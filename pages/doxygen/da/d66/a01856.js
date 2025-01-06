@@ -1,7 +1,7 @@
 var a01856 =
 [
-    [ "boss_urom", "d3/d30/a19082.html", "d3/d30/a19082" ],
-    [ "boss_urom::boss_uromAI", "d7/d07/a19086.html", "d7/d07/a19086" ],
+    [ "boss_urom", "de/d7f/a19102.html", "de/d7f/a19102" ],
+    [ "boss_urom::boss_uromAI", "df/d71/a19106.html", "df/d71/a19106" ],
     [ "SPELL_EMPOWERED_ARCANE_EXPLOSION", "da/d66/a01856.html#a8484400f79492bc9d03fee724c864538", null ],
     [ "Events", "da/d66/a01856.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d5f/a02216.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
@@ -2048,6 +2048,7 @@ var a01856 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

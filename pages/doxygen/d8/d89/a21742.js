@@ -1,8 +1,6 @@
 var a21742 =
 [
-    [ "npc_llod_genericAI", "d8/d89/a21742.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "d8/d89/a21742.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "d8/d89/a21742.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "d8/d89/a21742.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "d8/d89/a21742.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "npc_black_knight_graveyardAI", "d4/d25/a21746.html", "d4/d25/a21746" ],
+    [ "npc_black_knight_graveyard", "d8/d89/a21742.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
+    [ "GetAI", "d8/d89/a21742.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
 ];

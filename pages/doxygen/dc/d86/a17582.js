@@ -1,7 +1,7 @@
 var a17582 =
 [
-    [ "HandleExtraEffect", "dc/d86/a17582.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "dc/d86/a17582.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "dc/d86/a17582.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "dc/d86/a17582.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "HandleScript", "dc/d86/a17582.html#afc76149cb44a4d2aab48350fb4392036", null ],
+    [ "PrepareSpellScript", "dc/d86/a17582.html#a8598de219c2402596fe97b5dd32c534e", null ],
+    [ "Register", "dc/d86/a17582.html#ac9d4842632431e52932f66d09042ea70", null ],
+    [ "ScaleRange", "dc/d86/a17582.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
 ];

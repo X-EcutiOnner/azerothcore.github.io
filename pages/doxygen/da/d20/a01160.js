@@ -1,11 +1,11 @@
 var a01160 =
 [
-    [ "npc_rivern_frostwind", "d4/dd7/a15410.html", "d4/dd7/a15410" ],
-    [ "DialogueEntry", "db/de2/a15414.html", "db/de2/a15414" ],
-    [ "DialogueHelper", "d2/da0/a15418.html", "d2/da0/a15418" ],
-    [ "npc_ranshalla", "d8/dfe/a15422.html", "d8/dfe/a15422" ],
-    [ "npc_ranshalla::npc_ranshallaAI", "d2/d2b/a15426.html", "d2/d2b/a15426" ],
-    [ "go_elune_fire", "d1/d3b/a15430.html", "d1/d3b/a15430" ],
+    [ "npc_rivern_frostwind", "d1/d3b/a15430.html", "d1/d3b/a15430" ],
+    [ "DialogueEntry", "d5/d9f/a15434.html", "d5/d9f/a15434" ],
+    [ "DialogueHelper", "d6/dfd/a15438.html", "d6/dfd/a15438" ],
+    [ "npc_ranshalla", "db/d8e/a15442.html", "db/d8e/a15442" ],
+    [ "npc_ranshalla::npc_ranshallaAI", "d3/d6a/a15446.html", "d3/d6a/a15446" ],
+    [ "go_elune_fire", "d4/d8a/a15450.html", "d4/d8a/a15450" ],
     [ "Dummies", "da/d20/a01160.html#a2bbe982dfe66b7d2feb6449e4b33ac2e", [
       [ "NPC_PRIESTESS_DATA_1", "da/d20/a01160.html#a2bbe982dfe66b7d2feb6449e4b33ac2ea0594ed0eed6a55af01b29286273cadef", null ],
       [ "NPC_PRIESTESS_DATA_2", "da/d20/a01160.html#a2bbe982dfe66b7d2feb6449e4b33ac2ea4236792aa6debd5b26af8a27358513fc", null ],
@@ -1579,6 +1579,7 @@ var a01160 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

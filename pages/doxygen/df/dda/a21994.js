@@ -1,6 +1,6 @@
 var a21994 =
 [
-    [ "npc_icefangAI", "d6/d9b/a21998.html", "d6/d9b/a21998" ],
-    [ "npc_icefang", "df/dda/a21994.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "df/dda/a21994.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "npc_roxi_ramrocket", "df/dda/a21994.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
+    [ "OnGossipHello", "df/dda/a21994.html#adec28f778921246c56f11d09753e566e", null ],
+    [ "OnGossipSelect", "df/dda/a21994.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
 ];

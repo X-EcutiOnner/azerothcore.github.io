@@ -1,6 +1,6 @@
 var a17318 =
 [
-    [ "npc_gunship_rocketeerAI", "d3/d2b/a17322.html", "d3/d2b/a17322" ],
-    [ "npc_gunship_rocketeer", "dc/d7c/a17318.html#a7ed2cf258269f239bb73f2f06411db07", null ],
-    [ "GetAI", "dc/d7c/a17318.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
+    [ "npc_gunship_boarding_add_realAI", "dc/d7c/a17318.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
+    [ "UpdateAI", "dc/d7c/a17318.html#a33ac355c8f61907574a0736a24cbee82", null ],
+    [ "_events", "dc/d7c/a17318.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
 ];

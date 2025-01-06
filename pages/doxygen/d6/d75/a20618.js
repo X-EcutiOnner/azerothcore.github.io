@@ -1,6 +1,6 @@
 var a20618 =
 [
-    [ "FilterTargets", "d6/d75/a20618.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "d6/d75/a20618.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "d6/d75/a20618.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "boss_yoggsaron_neltharionAI", "df/d8e/a20622.html", "df/d8e/a20622" ],
+    [ "boss_yoggsaron_neltharion", "d6/d75/a20618.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
+    [ "GetAI", "d6/d75/a20618.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
 ];

@@ -1,5 +1,8 @@
 var a13642 =
 [
-    [ "go_gong_of_bethekk", "da/de2/a13642.html#ae261467be63f1a744eb20f81473c2239", null ],
-    [ "OnGossipHello", "da/de2/a13642.html#a82072ff8c030aec1a5ed447865680788", null ]
+    [ "HandleScriptEffect", "da/de2/a13642.html#af7f22d3b7ba136ec2af88656b9805168", null ],
+    [ "PrepareSpellScript", "da/de2/a13642.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
+    [ "Register", "da/de2/a13642.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
+    [ "Validate", "da/de2/a13642.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
+    [ "spells", "da/de2/a13642.html#a902fc17746af82a4c58fe599c9616ce2", null ]
 ];

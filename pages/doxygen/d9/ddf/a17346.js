@@ -1,8 +1,8 @@
 var a17346 =
 [
-    [ "Load", "d9/ddf/a17346.html#ad1105149d5e42318382af6c07149d522", null ],
-    [ "PeriodicTick", "d9/ddf/a17346.html#a8e675178256746d08af50a6b75ec582e", null ],
-    [ "PrepareAuraScript", "d9/ddf/a17346.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
-    [ "Register", "d9/ddf/a17346.html#a0fa7d86214827711edd019dd3b40c667", null ],
-    [ "_tickNo", "d9/ddf/a17346.html#a418212d2daa873d69a83b4c1341a8903", null ]
+    [ "HandlePeriodic", "d9/ddf/a17346.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "d9/ddf/a17346.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "d9/ddf/a17346.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "d9/ddf/a17346.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "d9/ddf/a17346.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

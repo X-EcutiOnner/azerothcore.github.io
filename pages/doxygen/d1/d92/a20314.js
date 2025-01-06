@@ -1,7 +1,6 @@
 var a20314 =
 [
-    [ "boss_thorim_trapAI", "d1/d92/a20314.html#aaab278dc6557a49624099b0064b8d6f3", null ],
-    [ "Reset", "d1/d92/a20314.html#ab0715e75a475409ffb6c623bf363a65d", null ],
-    [ "UpdateAI", "d1/d92/a20314.html#a40078609a67aa029f71df7971449b056", null ],
-    [ "_checkTimer", "d1/d92/a20314.html#ad3ed8edb4d06e5b98a5afc82170f3233", null ]
+    [ "boss_thorim_sifAI", "df/db0/a20318.html", "df/db0/a20318" ],
+    [ "boss_thorim_sif", "d1/d92/a20314.html#a71ef8a92f648cbea6553ed1cc657f13d", null ],
+    [ "GetAI", "d1/d92/a20314.html#ae4eadf2bf83c41a8f05b853267b5fcf9", null ]
 ];

@@ -1,8 +1,7 @@
 var a24774 =
 [
-    [ "CheckRequirement", "d0/d4f/a24774.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
-    [ "HandleScript", "d0/d4f/a24774.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
-    [ "Load", "d0/d4f/a24774.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
-    [ "PrepareSpellScript", "d0/d4f/a24774.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
-    [ "Register", "d0/d4f/a24774.html#a89d053e0ee793017c74188aac32d99d5", null ]
+    [ "HandleScript", "d0/d4f/a24774.html#a8ec57aed0788f58e2c50fc08793a5749", null ],
+    [ "PrepareSpellScript", "d0/d4f/a24774.html#a56c9ab120239252982cab8b96ac8c5fe", null ],
+    [ "Register", "d0/d4f/a24774.html#a8c727b2b00858abcce058b16d66ca62a", null ],
+    [ "Validate", "d0/d4f/a24774.html#af3ffb9930eaba8703065719bbcf02f56", null ]
 ];

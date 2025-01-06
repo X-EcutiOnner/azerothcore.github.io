@@ -1,8 +1,6 @@
 var a27902 =
 [
-    [ "Id", "dc/dc9/a27902.html#a6943bf760d15b3f8af4109d131652d72", null ],
-    [ "MapId", "dc/dc9/a27902.html#ab0cccd760636a3b42af693d6c483bed9", null ],
-    [ "X", "dc/dc9/a27902.html#a91183890254546efeb3162173cc60dad", null ],
-    [ "Y", "dc/dc9/a27902.html#a19ab4d026b45d74f006479641afbc4d3", null ],
-    [ "Z", "dc/dc9/a27902.html#aaa23c59f20fc96aec148b82516f30036", null ]
+    [ "ID", "dc/dc9/a27902.html#a7d40e334785d96a2e57d28f87a59778a", null ],
+    [ "maxCount", "dc/dc9/a27902.html#a5edc6442e026b12dae654fa86440a11a", null ],
+    [ "mode", "dc/dc9/a27902.html#a76553ecf9f880a5e5967f818123742fd", null ]
 ];

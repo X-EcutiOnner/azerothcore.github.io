@@ -1,8 +1,8 @@
 var a23118 =
 [
-    [ "boss_the_black_stalker", "d7/d06/a23118.html#ac33519b374509cefe43b8e97701719ee", null ],
-    [ "JustEngagedWith", "d7/d06/a23118.html#ad118347103ec463a09492e81dbd61418", null ],
-    [ "JustSummoned", "d7/d06/a23118.html#a9e0299a99df83abb7de476a765b667b9", null ],
-    [ "SummonedCreatureDies", "d7/d06/a23118.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
-    [ "UpdateAI", "d7/d06/a23118.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
+    [ "boss_hungarfen", "d7/d06/a23118.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "d7/d06/a23118.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "d7/d06/a23118.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "d7/d06/a23118.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "d7/d06/a23118.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

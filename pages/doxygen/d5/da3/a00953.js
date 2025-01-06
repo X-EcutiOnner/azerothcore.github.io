@@ -1,8 +1,8 @@
 var a00953 =
 [
-    [ "boss_warchief_kargath_bladefist", "d3/df6/a23362.html", "d3/df6/a23362" ],
-    [ "npc_warchief_portal", "d2/dd3/a23366.html", "d2/dd3/a23366" ],
-    [ "spell_blade_dance_targeting", "dc/dbe/a23370.html", "dc/dbe/a23370" ],
+    [ "boss_warchief_kargath_bladefist", "d6/d49/a23382.html", "d6/d49/a23382" ],
+    [ "npc_warchief_portal", "d8/da5/a23386.html", "d8/da5/a23386" ],
+    [ "spell_blade_dance_targeting", "d3/d15/a23390.html", "d3/d15/a23390" ],
     [ "Creatures", "d5/da3/a00953.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d8/d5f/a02216.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d8/d5f/a02216.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -1581,6 +1581,7 @@ var a00953 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

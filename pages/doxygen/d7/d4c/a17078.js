@@ -1,6 +1,6 @@
 var a17078 =
 [
-    [ "FilterTargets", "d7/d4c/a17078.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
-    [ "PrepareSpellScript", "d7/d4c/a17078.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
-    [ "Register", "d7/d4c/a17078.html#add40d7731b07b30b595f76f7d4e983f4", null ]
+    [ "VampiricBiteTargetSelector", "d7/d4c/a17078.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
+    [ "operator()", "d7/d4c/a17078.html#ac16204f50f62cb2568998d1ea137f55d", null ],
+    [ "_source", "d7/d4c/a17078.html#af23a69491c915909566249b109b1f0e8", null ]
 ];

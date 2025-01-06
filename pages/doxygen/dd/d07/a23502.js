@@ -1,6 +1,7 @@
 var a23502 =
 [
-    [ "AfterRemove", "dd/d07/a23502.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "dd/d07/a23502.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "dd/d07/a23502.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "CastQuill", "dd/d07/a23502.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "dd/d07/a23502.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "dd/d07/a23502.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "dd/d07/a23502.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

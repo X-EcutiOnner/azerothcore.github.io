@@ -1,7 +1,6 @@
 var a26570 =
 [
-    [ "HandleApply", "db/d23/a26570.html#aa35fa107aee605a8583150901a75ad72", null ],
-    [ "HandleRemove", "db/d23/a26570.html#a60b6e438ff67d9db41d160020b54da40", null ],
-    [ "PrepareAuraScript", "db/d23/a26570.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
-    [ "Register", "db/d23/a26570.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
+    [ "CalculateAmount", "db/d23/a26570.html#aa27de1a2fc517a4b796a10e780239880", null ],
+    [ "PrepareAuraScript", "db/d23/a26570.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
+    [ "Register", "db/d23/a26570.html#a5ee969ad0916a9337849c75c18f13c29", null ]
 ];

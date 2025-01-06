@@ -1,6 +1,7 @@
 var a22398 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "dd/dc1/a22402.html", "dd/dc1/a22402" ],
-    [ "instance_shadow_labyrinth", "df/d77/a22398.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "df/d77/a22398.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "npc_voidtraveler", "df/d77/a22398.html#a07e473c14836a0612acd52078a93f2d8", null ],
+    [ "Reset", "df/d77/a22398.html#a6efe0725917c92657220de2b60579289", null ],
+    [ "UpdateAI", "df/d77/a22398.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
+    [ "_scheduler", "df/d77/a22398.html#a1809494e7803103f6bc1698e780dcfbc", null ]
 ];

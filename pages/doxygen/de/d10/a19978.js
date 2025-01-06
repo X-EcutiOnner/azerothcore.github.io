@@ -1,5 +1,7 @@
 var a19978 =
 [
-    [ "achievement_getting_cold_in_here", "de/d10/a19978.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "de/d10/a19978.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "HandleAfterEffectApply", "de/d10/a19978.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "de/d10/a19978.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "de/d10/a19978.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "de/d10/a19978.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

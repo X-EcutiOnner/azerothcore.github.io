@@ -1,7 +1,7 @@
 var a16206 =
 [
-    [ "HandleDispel", "db/d43/a16206.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "db/d43/a16206.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "db/d43/a16206.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "db/d43/a16206.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "npc_toc_retro_paladinAI", "db/d43/a16206.html#afe933281cea61c9a4f3ded76290a3b72", null ],
+    [ "myCanCast", "db/d43/a16206.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
+    [ "UpdateAI", "db/d43/a16206.html#a105d6b9c133c1147b310826d7be416f5", null ],
+    [ "events", "db/d43/a16206.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
 ];

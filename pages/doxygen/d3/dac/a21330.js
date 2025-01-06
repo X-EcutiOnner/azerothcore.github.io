@@ -1,6 +1,7 @@
 var a21330 =
 [
-    [ "npc_counselor_talbotAI", "d4/d11/a21334.html", "d4/d11/a21334" ],
-    [ "npc_counselor_talbot", "d3/dac/a21330.html#a9223380bb78afeda617482bea0a3110c", null ],
-    [ "GetAI", "d3/dac/a21330.html#a3debd13352146a247d635042ecbfa155", null ]
+    [ "npc_thassarianAI", "d3/dac/a21330.html#a92e873dc3aa97f81919225ce75a5f894", null ],
+    [ "Reset", "d3/dac/a21330.html#a8611ef17700c739dbd5e7a70660f1379", null ],
+    [ "UpdateAI", "d3/dac/a21330.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
+    [ "_events", "d3/dac/a21330.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
 ];

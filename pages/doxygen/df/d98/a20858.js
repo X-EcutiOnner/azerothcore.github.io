@@ -1,20 +1,13 @@
 var a20858 =
 [
-    [ "boss_skadi_graufAI", "df/d98/a20858.html#ad5266bee9f90bc7c5622bd30825820eb", null ],
-    [ "CheckPlayers", "df/d98/a20858.html#ac240eae79545ab4dc0b5cbc0f5592e8e", null ],
-    [ "DoAction", "df/d98/a20858.html#a51a189e6f1f6c9c6948194d3181a7426", null ],
-    [ "JustEngagedWith", "df/d98/a20858.html#a6e9c8012479fac7873567acf1e5476a2", null ],
-    [ "MovementInform", "df/d98/a20858.html#a2b8fc3e54c0a1970510eabd74b4cee5b", null ],
-    [ "RemoveSkadi", "df/d98/a20858.html#a11c732dff2d71bce71c0077e1bda57cf", null ],
-    [ "Reset", "df/d98/a20858.html#ab04a1a98da7d318ee54c4af9aaabcfae", null ],
-    [ "SelectNextPos", "df/d98/a20858.html#aa01ac1cbc1866628c0953b22cca0b114", null ],
-    [ "SpawnFlameTriggers", "df/d98/a20858.html#ae7e2383327566d74af8839a4b0e0303f", null ],
-    [ "SpawnHelpers", "df/d98/a20858.html#a1ee67c3814a6ab406b7ca304c28314d3", null ],
-    [ "SpellHitTarget", "df/d98/a20858.html#a218c5df55286c143711a7f2023ada012", null ],
-    [ "UpdateAI", "df/d98/a20858.html#add5671b1f9e20590e1121f8c18d064cc", null ],
-    [ "AchievementHitCount", "df/d98/a20858.html#ae233171c66fb042f57156adfafb8e4fb", null ],
-    [ "currentPos", "df/d98/a20858.html#a486d9d7998015bb922addf92791cbe8f", null ],
-    [ "events", "df/d98/a20858.html#ab1cffcaa77006c54f8c948bc2a8d661a", null ],
-    [ "m_pInstance", "df/d98/a20858.html#a4cff3d8e4c1be9a2b5e9b501e455f2be", null ],
-    [ "summons", "df/d98/a20858.html#aac4eb6351a0fe1cf7423d277d9375f8a", null ]
+    [ "npc_frenzied_worgenAI", "df/d98/a20858.html#a3a87e1285fb40a4fe31e7e9c2916f2a8", null ],
+    [ "DoAction", "df/d98/a20858.html#a7b7b34c2206cd1003c2abff3fb839c34", null ],
+    [ "JustDied", "df/d98/a20858.html#a33b723baef468ef79e67aaadba1b2691", null ],
+    [ "JustEngagedWith", "df/d98/a20858.html#a902bb6f89a2a210f2e0d18ebad7613f9", null ],
+    [ "JustReachedHome", "df/d98/a20858.html#a9b50182cd407811d0f0aeeba378a37ee", null ],
+    [ "MoveInLineOfSight", "df/d98/a20858.html#a3c2b76ccb6e00a24619f769f0d44ba2b", null ],
+    [ "Reset", "df/d98/a20858.html#adccac21b6eff18db096eb79dab4a27a0", null ],
+    [ "UpdateAI", "df/d98/a20858.html#ad83478b5946fd93e1b4fe7916342b1ee", null ],
+    [ "events", "df/d98/a20858.html#a8619650ae4396aafbdc1533f8b174ab8", null ],
+    [ "m_pInstance", "df/d98/a20858.html#a425720ce11714b145685f6d9c78a3dc1", null ]
 ];

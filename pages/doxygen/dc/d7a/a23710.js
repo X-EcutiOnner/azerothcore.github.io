@@ -1,7 +1,5 @@
 var a23710 =
 [
-    [ "HandleDummy", "dc/d7a/a23710.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "dc/d7a/a23710.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "dc/d7a/a23710.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "dc/d7a/a23710.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "go_simon_cluster", "dc/d7a/a23710.html#adac53a8451abd6ace227a66afc7e61e8", null ],
+    [ "OnGossipHello", "dc/d7a/a23710.html#a9fd9799604de44c91803511c45b67786", null ]
 ];

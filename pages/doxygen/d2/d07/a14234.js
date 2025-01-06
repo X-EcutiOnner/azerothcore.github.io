@@ -1,6 +1,5 @@
 var a14234 =
 [
-    [ "PrepareAuraScript", "d2/d07/a14234.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "d2/d07/a14234.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "d2/d07/a14234.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "npc_pilgrims_bounty_plate", "d2/d07/a14234.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "d2/d07/a14234.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

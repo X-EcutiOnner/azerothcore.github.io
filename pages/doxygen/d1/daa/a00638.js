@@ -1,6 +1,6 @@
 var a00638 =
 [
-    [ "boss_gatewatcher_gyrokill", "da/d98/a23598.html", "da/d98/a23598" ],
+    [ "boss_gatewatcher_gyrokill", "da/d73/a23618.html", "da/d73/a23618" ],
     [ "Say", "d1/daa/a00638.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "d2/d35/a02480.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "d2/d35/a02480.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],
@@ -854,6 +854,7 @@ var a00638 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

@@ -1,6 +1,6 @@
 var a16350 =
 [
-    [ "OnPeriodic", "d7/df9/a16350.html#a6f2e191d76f894517aed395866b7e508", null ],
-    [ "PrepareAuraScript", "d7/df9/a16350.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
-    [ "Register", "d7/df9/a16350.html#a6094dc303c034e49fb4e543874db080b", null ]
+    [ "instance_trial_of_the_crusader_InstanceMapScript", "d9/d78/a16354.html", "d9/d78/a16354" ],
+    [ "instance_trial_of_the_crusader", "d7/df9/a16350.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
+    [ "GetInstanceScript", "d7/df9/a16350.html#a792034e9e5687bf5fa543175692bed66", null ]
 ];

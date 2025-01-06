@@ -1,6 +1,7 @@
 var a16954 =
 [
-    [ "ShockVortexExplodeEvent", "d3/d06/a16954.html#ad972aed372822e10a476d1592192f3ea", null ],
-    [ "Execute", "d3/d06/a16954.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
-    [ "_owner", "d3/d06/a16954.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
+    [ "HandlePeriodic", "d3/d06/a16954.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
+    [ "PrepareAuraScript", "d3/d06/a16954.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
+    [ "Register", "d3/d06/a16954.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
+    [ "Validate", "d3/d06/a16954.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
 ];

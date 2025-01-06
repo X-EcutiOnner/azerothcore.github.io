@@ -1,7 +1,10 @@
 var a21602 =
 [
-    [ "HandleScriptEffect", "d6/d2e/a21602.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "d6/d2e/a21602.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "d6/d2e/a21602.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "d6/d2e/a21602.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "npc_emilyAI", "d6/d2e/a21602.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "d6/d2e/a21602.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "d6/d2e/a21602.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "d6/d2e/a21602.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "d6/d2e/a21602.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "_mrfloppyGUID", "d6/d2e/a21602.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "d6/d2e/a21602.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

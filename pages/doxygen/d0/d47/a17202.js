@@ -1,7 +1,7 @@
 var a17202 =
 [
-    [ "HandleScript", "d0/d47/a17202.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "d0/d47/a17202.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "d0/d47/a17202.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "d0/d47/a17202.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "npc_icc_blood_beastAI", "d0/d47/a17202.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "d0/d47/a17202.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "d0/d47/a17202.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "d0/d47/a17202.html#a1074059162f818088808795119f081be", null ]
 ];

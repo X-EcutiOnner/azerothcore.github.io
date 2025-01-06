@@ -1,7 +1,7 @@
 var a28154 =
 [
-    [ "RealmHandle", "df/d08/a28154.html#a120fb45f2301188a843ab2e712f768e4", null ],
-    [ "RealmHandle", "df/d08/a28154.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
-    [ "operator<", "df/d08/a28154.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
-    [ "Realm", "df/d08/a28154.html#a31af0d9064a295b1579fce3c80217bfd", null ]
+    [ "~ByteBufferException", "df/d08/a28154.html#a0ab73f9061c040127f70dbfc9a176509", null ],
+    [ "message", "df/d08/a28154.html#ab1a64d8fc18565a04c347de29184f68c", null ],
+    [ "what", "df/d08/a28154.html#a87896f7ab19f3032937f5f84e8cf440a", null ],
+    [ "msg_", "df/d08/a28154.html#a314bdbb7063219f8256df894602e6b02", null ]
 ];

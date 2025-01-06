@@ -1,8 +1,10 @@
 var a13790 =
 [
-    [ "npc_spawn_of_marli", "df/d5b/a13790.html#a1dcd5066de108203903f5767c4b375ea", null ],
-    [ "JustEngagedWith", "df/d5b/a13790.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
-    [ "Reset", "df/d5b/a13790.html#a79ef192d41af75e0dad0494776c75189", null ],
-    [ "UpdateAI", "df/d5b/a13790.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
-    [ "_scheduler", "df/d5b/a13790.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
+    [ "npc_vilebranch_speaker", "df/d5b/a13790.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
+    [ "JustDied", "df/d5b/a13790.html#aa7708f176879db3acd50399b74e4a90c", null ],
+    [ "JustEngagedWith", "df/d5b/a13790.html#a236afb8512c2d941479f8a7c18f688a6", null ],
+    [ "Reset", "df/d5b/a13790.html#a248195a137cb91f10a882ec12974c7c5", null ],
+    [ "UpdateAI", "df/d5b/a13790.html#a75f263fa9241319b58bf77cbf1b75088", null ],
+    [ "_scheduler", "df/d5b/a13790.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
+    [ "instance", "df/d5b/a13790.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
 ];

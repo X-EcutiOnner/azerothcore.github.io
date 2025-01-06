@@ -1,10 +1,6 @@
 var a17742 =
 [
-    [ "CountTargets", "da/d27/a17742.html#a042c3f2ee73533b397a2d697d1da6563", null ],
-    [ "HandleDummy", "da/d27/a17742.html#ab314680d5349c0c3e449694b92ab7311", null ],
-    [ "Load", "da/d27/a17742.html#a534e9f5ee9aa29603cfc205c2c2d580f", null ],
-    [ "PrepareSpellScript", "da/d27/a17742.html#a8b831c01cd9fd997279f6a81170786de", null ],
-    [ "Register", "da/d27/a17742.html#ab0d87ba23eb252075cb0779b06813a31", null ],
-    [ "SelectDest", "da/d27/a17742.html#a6061486d0067af51c8ef079224ea63f1", null ],
-    [ "_targetCount", "da/d27/a17742.html#a58f839370a885c450e6742cbb3116784", null ]
+    [ "LastPhaseIceTombTargetSelector", "da/d27/a17742.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
+    [ "operator()", "da/d27/a17742.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
+    [ "_source", "da/d27/a17742.html#ab10d10dd0de7717078d31ac026d4c933", null ]
 ];

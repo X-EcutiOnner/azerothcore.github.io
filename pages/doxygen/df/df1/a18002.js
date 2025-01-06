@@ -1,6 +1,6 @@
 var a18002 =
 [
-    [ "npc_valkyr_shadowguardAI", "de/d33/a18006.html", "de/d33/a18006" ],
-    [ "npc_valkyr_shadowguard", "df/df1/a18002.html#a8ee90e21499eebf240c57419454c3829", null ],
-    [ "GetAI", "df/df1/a18002.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
+    [ "npc_raging_spiritAI", "de/d33/a18006.html", "de/d33/a18006" ],
+    [ "npc_raging_spirit", "df/df1/a18002.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "df/df1/a18002.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

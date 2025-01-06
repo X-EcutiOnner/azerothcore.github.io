@@ -1,7 +1,6 @@
 var a17682 =
 [
-    [ "HandleScript", "d2/d77/a17682.html#a802f667b20bccd3395c233482aa2485b", null ],
-    [ "PrepareSpellScript", "d2/d77/a17682.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
-    [ "Register", "d2/d77/a17682.html#a730fded490df68f501010f952ceea40b", null ],
-    [ "Validate", "d2/d77/a17682.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
+    [ "npc_big_oozeAI", "de/d2a/a17686.html", "de/d2a/a17686" ],
+    [ "npc_big_ooze", "d2/d77/a17682.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "d2/d77/a17682.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

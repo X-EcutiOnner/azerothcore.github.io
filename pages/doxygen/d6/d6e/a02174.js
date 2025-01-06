@@ -1,13 +1,17 @@
 var a02174 =
 [
-    [ "npc_forest_frog", "dc/de8/a13594.html", "dc/de8/a13594" ],
-    [ "npc_zulaman_hostage", "dd/d76/a13598.html", "dd/d76/a13598" ],
-    [ "npc_zulaman_hostage::npc_zulaman_hostageAI", "d6/d95/a13602.html", "d6/d95/a13602" ],
-    [ "npc_harrison_jones", "dc/de5/a13606.html", "dc/de5/a13606" ],
-    [ "spell_ritual_of_power", "d2/d57/a13610.html", "d2/d57/a13610" ],
-    [ "npc_amanishi_lookout", "dc/d3f/a13614.html", "dc/d3f/a13614" ],
-    [ "npc_amanishi_tempest", "d7/dc0/a13618.html", "d7/dc0/a13618" ],
-    [ "npc_eagle_trash_aggro_trigger", "de/d5e/a13622.html", "de/d5e/a13622" ],
+    [ "npc_forest_frog", "dd/d76/a13598.html", "dd/d76/a13598" ],
+    [ "npc_zulaman_hostage", "d6/d95/a13602.html", "d6/d95/a13602" ],
+    [ "npc_zulaman_hostage::npc_zulaman_hostageAI", "dc/de5/a13606.html", "dc/de5/a13606" ],
+    [ "npc_harrison_jones", "d2/d57/a13610.html", "d2/d57/a13610" ],
+    [ "spell_ritual_of_power", "dc/d3f/a13614.html", "dc/d3f/a13614" ],
+    [ "npc_amanishi_lookout", "d7/dc0/a13618.html", "d7/dc0/a13618" ],
+    [ "npc_amanishi_tempest", "de/d5e/a13622.html", "de/d5e/a13622" ],
+    [ "WorldTriggerHutPred", "dd/df4/a13626.html", "dd/df4/a13626" ],
+    [ "WorldTriggerDrumPred", "d1/db3/a13630.html", "d1/db3/a13630" ],
+    [ "npc_amanishi_scout", "dd/dee/a13634.html", "dd/dee/a13634" ],
+    [ "spell_alert_drums", "d5/def/a13638.html", "d5/def/a13638" ],
+    [ "spell_summon_amanishi_sentries", "da/de2/a13642.html", "da/de2/a13642" ],
     [ "GOSSIP_HOSTAGE1", "d6/d6e/a02174.html#a7e5907213ed023454f786158e3b1f388", null ],
     [ "Actions", "d6/d6e/a02174.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d4/dd0/a03749.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
@@ -97,8 +101,21 @@ var a02174 =
       [ "PATH_LOOKOUT", "d6/d6e/a02174.html#a551260ec9098e89aace8d91b15b67846ab61b8a7a29e91e546145fa1cead1aff9", null ],
       [ "SAY_INVADERS", "d6/d6e/a02174.html#a551260ec9098e89aace8d91b15b67846abf1483656937ad0229f0cb987645d65b", null ]
     ] ],
+    [ "AmanishiScout", "d6/d6e/a02174.html#abb96a8bb67af2ef4996e9edd6ce21458", [
+      [ "NPC_WORLD_TRIGGER", "d6/d6e/a02174.html#abb96a8bb67af2ef4996e9edd6ce21458a2de54d34271fcadd2d72ee13d7e0ce48", null ],
+      [ "POINT_DRUM", "d6/d6e/a02174.html#abb96a8bb67af2ef4996e9edd6ce21458a62c6d71c075339d26f985e0f927bff20", null ],
+      [ "SAY_AGGRO", "d6/d6e/a02174.html#abb96a8bb67af2ef4996e9edd6ce21458a47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SPELL_ALERT_DRUMS", "d6/d6e/a02174.html#abb96a8bb67af2ef4996e9edd6ce21458a360249375688b5427f211ef11c9057c8", null ],
+      [ "SPELL_MULTI_SHOT", "d6/d6e/a02174.html#abb96a8bb67af2ef4996e9edd6ce21458ac7138c3b5a7250d35e73359c3d5e2987", null ],
+      [ "SPELL_SHOOT", "d6/d6e/a02174.html#abb96a8bb67af2ef4996e9edd6ce21458a1b728fa1bb0194534b5b491d35ed871c", null ]
+    ] ],
+    [ "AmanishiSentries", "d6/d6e/a02174.html#a2147825a3117ea5251124654f7ecf980", [
+      [ "SUMMON_AMANISHI_SENTRIES_1", "d6/d6e/a02174.html#a2147825a3117ea5251124654f7ecf980a4d76d6d9c198b37e42a77a8cbcaa4264", null ],
+      [ "SUMMON_AMANISHI_SENTRIES_2", "d6/d6e/a02174.html#a2147825a3117ea5251124654f7ecf980a019767d5817af28a7adb40948fadd189", null ],
+      [ "SUMMON_AMANISHI_SENTRIES_3", "d6/d6e/a02174.html#a2147825a3117ea5251124654f7ecf980a5a8fe67397d3793c4f088df5a0dc4cea", null ],
+      [ "SUMMON_AMANISHI_SENTRIES_4", "d6/d6e/a02174.html#a2147825a3117ea5251124654f7ecf980a0d2036b9f6efdf2373135ab3619ee67f", null ]
+    ] ],
     [ "AmanishiTempest", "d6/d6e/a02174.html#a1afe75d1237125e79ceb9bc5ee72f3d9", [
-      [ "ACTION_START_GAUNTLET", "d6/d6e/a02174.html#a1afe75d1237125e79ceb9bc5ee72f3d9a840f14c0588f0609c97c592a3413780f", null ],
       [ "GROUP_AKILZON_GAUNTLET", "d6/d6e/a02174.html#a1afe75d1237125e79ceb9bc5ee72f3d9a136872dfc6d7fb760a44ae3046615c25", null ],
       [ "SPELL_SUMMON_EAGLE", "d6/d6e/a02174.html#a1afe75d1237125e79ceb9bc5ee72f3d9a0947710156d8a33ca49bb50006eaeb9b", null ],
       [ "SPELL_SUMMON_WARRIOR", "d6/d6e/a02174.html#a1afe75d1237125e79ceb9bc5ee72f3d9a2cbca2a74cf6c73fc2fb28813653c694", null ],
@@ -758,6 +775,9 @@ var a02174 =
       [ "SAY_SLAY", "dc/d4d/a00620.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75", null ],
       [ "SAY_DEATH", "dc/d4d/a00620.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e", null ],
       [ "SAY_APPEAR", "dc/d4d/a00620.html#a16774215bba3b38580ea51987d64cff1ad2203e884b912476a5ff5394ec266b2c", null ]
+    ] ],
+    [ "SpellAlertDrums", "d6/d6e/a02174.html#a6f5be427fc72711537a7d3d5ad12b0cc", [
+      [ "SPELL_SUMMON_AMANISHI_SENTRIES", "d6/d6e/a02174.html#a6f5be427fc72711537a7d3d5ad12b0cca433c34a5dc9b2a09c38cb183fde71d2f", null ]
     ] ],
     [ "Spells", "d6/d6e/a02174.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d4/dd0/a03749.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
@@ -1553,6 +1573,7 @@ var a02174 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

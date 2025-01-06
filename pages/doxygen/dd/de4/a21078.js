@@ -1,6 +1,16 @@
 var a21078 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "dd/d25/a21082.html", "dd/d25/a21082" ],
-    [ "instance_violet_hold", "dd/de4/a21078.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "dd/de4/a21078.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
+    [ "boss_xevozzAI", "dd/de4/a21078.html#a422359074a43e84ee6462b61fc4ce6a9", null ],
+    [ "EnterEvadeMode", "dd/de4/a21078.html#a5557f799c862759c8fd94a98cadee7d5", null ],
+    [ "JustDied", "dd/de4/a21078.html#a6e66dec2e1bc198d9b3e855366ca8b02", null ],
+    [ "JustEngagedWith", "dd/de4/a21078.html#a0f8c06f3e0934eb22bf8a26aa3238b50", null ],
+    [ "JustSummoned", "dd/de4/a21078.html#a04787f7600a817fd63132676590505a8", null ],
+    [ "KilledUnit", "dd/de4/a21078.html#ad47008e9044815cc4475adbaf3ece543", null ],
+    [ "MoveInLineOfSight", "dd/de4/a21078.html#a519c1222ef186067dcb9a98bb84ea031", null ],
+    [ "Reset", "dd/de4/a21078.html#a435b22ca3c7e573d4e3c70e2497063e7", null ],
+    [ "SummonedCreatureDespawn", "dd/de4/a21078.html#ab6e7bb57110831079ede943a74641bd4", null ],
+    [ "UpdateAI", "dd/de4/a21078.html#aa61271e4a9d8e13ac875f6efd550aa4b", null ],
+    [ "events", "dd/de4/a21078.html#a8a5796089d42dad89c9cec5ea4d38321", null ],
+    [ "pInstance", "dd/de4/a21078.html#a9eda85f10a814efa32f7b224e1772b89", null ],
+    [ "spheres", "dd/de4/a21078.html#ab1d51bbfd433b37b8ceec15a18d62b17", null ]
 ];

@@ -1,6 +1,6 @@
 var a23846 =
 [
-    [ "npc_invis_infernal_casterAI", "dd/d51/a23850.html", "dd/d51/a23850" ],
-    [ "npc_invis_infernal_caster", "d8/ded/a23846.html#a9aed081ef904075830428bbc76f53874", null ],
-    [ "GetAI", "d8/ded/a23846.html#aede0c5cc390ea423169b1cba66d929cd", null ]
+    [ "CheckCast", "d8/ded/a23846.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "d8/ded/a23846.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "d8/ded/a23846.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

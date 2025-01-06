@@ -1,6 +1,6 @@
 var a17638 =
 [
-    [ "ExtraEffect", "d4/d07/a17638.html#a10dfb36a835589208482e1c8833d8f46", null ],
-    [ "PrepareSpellScript", "d4/d07/a17638.html#a972ff2bdc7d3660820e05326600be6f6", null ],
-    [ "Register", "d4/d07/a17638.html#ae337e67a220b72b44878d02be33e3888", null ]
+    [ "OnRemove", "d4/d07/a17638.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
+    [ "PrepareAuraScript", "d4/d07/a17638.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
+    [ "Register", "d4/d07/a17638.html#afa993cb14444989feac16c9fa2d7b8df", null ]
 ];

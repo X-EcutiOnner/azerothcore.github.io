@@ -1,7 +1,6 @@
 var a17718 =
 [
-    [ "IceTombSummonEvent", "d0/d83/a17718.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
-    [ "Execute", "d0/d83/a17718.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
-    [ "_owner", "d0/d83/a17718.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
-    [ "_sindragosaGUID", "d0/d83/a17718.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
+    [ "DespawnSelf", "d0/d83/a17718.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "d0/d83/a17718.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "d0/d83/a17718.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

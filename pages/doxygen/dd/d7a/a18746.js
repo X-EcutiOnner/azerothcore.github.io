@@ -1,7 +1,6 @@
 var a18746 =
 [
-    [ "HandleRemove", "dd/d7a/a18746.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "dd/d7a/a18746.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "dd/d7a/a18746.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "dd/d7a/a18746.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "boss_grobbulusAI", "d0/d14/a18750.html", "d0/d14/a18750" ],
+    [ "boss_grobbulus", "dd/d7a/a18746.html#acf1b781e86e33a363b68354d34d3c015", null ],
+    [ "GetAI", "dd/d7a/a18746.html#ae918614566a0b9979aef4e1aeaac394c", null ]
 ];

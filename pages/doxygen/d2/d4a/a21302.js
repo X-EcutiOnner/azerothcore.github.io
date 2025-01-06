@@ -1,9 +1,9 @@
 var a21302 =
 [
-    [ "npc_bloodmage_laurithAI", "d2/d4a/a21302.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "d2/d4a/a21302.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "d2/d4a/a21302.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
-    [ "UpdateAI", "d2/d4a/a21302.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "d2/d4a/a21302.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "d2/d4a/a21302.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "npc_warmage_coldarraAI", "d2/d4a/a21302.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "d2/d4a/a21302.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "d2/d4a/a21302.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "d2/d4a/a21302.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "d2/d4a/a21302.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "d2/d4a/a21302.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

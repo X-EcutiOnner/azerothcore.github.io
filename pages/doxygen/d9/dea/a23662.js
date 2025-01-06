@@ -1,7 +1,8 @@
 var a23662 =
 [
-    [ "OnPeriodic", "d9/dea/a23662.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d9/dea/a23662.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d9/dea/a23662.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d9/dea/a23662.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "instance_mechanar_InstanceMapScript", "d9/dea/a23662.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "d9/dea/a23662.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "d9/dea/a23662.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "d9/dea/a23662.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "d9/dea/a23662.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

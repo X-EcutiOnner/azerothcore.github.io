@@ -1,7 +1,6 @@
 var a18638 =
 [
-    [ "HandleGameObjectDamage", "d9/dab/a18638.html#a811edfe01c1784664b5b4253d2305b4e", null ],
-    [ "PrepareSpellScript", "d9/dab/a18638.html#a0cfedeba2a747777de292b8f30b6752b", null ],
-    [ "Register", "d9/dab/a18638.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
-    [ "Validate", "d9/dab/a18638.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
+    [ "npc_ioc_gunship_captainAI", "d1/d8a/a18642.html", "d1/d8a/a18642" ],
+    [ "npc_ioc_gunship_captain", "d9/dab/a18638.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
+    [ "GetAI", "d9/dab/a18638.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
 ];

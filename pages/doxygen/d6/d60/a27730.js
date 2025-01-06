@@ -1,8 +1,7 @@
 var a27730 =
 [
-    [ "ID", "d6/d60/a27730.html#a36958c346c8554d9ab1cfb73ac583818", null ],
-    [ "Model", "d6/d60/a27730.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
-    [ "Origin", "d6/d60/a27730.html#a684c69add50ee545ee606ae456a93336", null ],
-    [ "OriginFacing", "d6/d60/a27730.html#a460723250353c7720cd87677991283cf", null ],
-    [ "SoundID", "d6/d60/a27730.html#aa56be05c7ab4015738e049d75ff365c6", null ]
+    [ "Class", "d6/d60/a27730.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "d6/d60/a27730.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "d6/d60/a27730.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "d6/d60/a27730.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

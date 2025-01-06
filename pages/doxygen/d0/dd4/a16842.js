@@ -1,6 +1,7 @@
 var a16842 =
 [
-    [ "entry", "d0/dd4/a16842.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "d0/dd4/a16842.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "d0/dd4/a16842.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "HandleEffectPeriodic", "d0/dd4/a16842.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "d0/dd4/a16842.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "d0/dd4/a16842.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "d0/dd4/a16842.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

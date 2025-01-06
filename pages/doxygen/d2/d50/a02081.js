@@ -1,10 +1,10 @@
 var a02081 =
 [
-    [ "boss_skadi", "d8/d08/a20846.html", "d8/d08/a20846" ],
-    [ "boss_skadi::boss_skadiAI", "de/d08/a20850.html", "de/d08/a20850" ],
-    [ "boss_skadi_grauf", "de/da7/a20854.html", "de/da7/a20854" ],
-    [ "boss_skadi_grauf::boss_skadi_graufAI", "df/d98/a20858.html", "df/d98/a20858" ],
-    [ "go_harpoon_canon", "dd/d3f/a20862.html", "dd/d3f/a20862" ],
+    [ "boss_skadi", "da/d1f/a20866.html", "da/d1f/a20866" ],
+    [ "boss_skadi::boss_skadiAI", "dd/d31/a20870.html", "dd/d31/a20870" ],
+    [ "boss_skadi_grauf", "d1/d72/a20874.html", "d1/d72/a20874" ],
+    [ "boss_skadi_grauf::boss_skadi_graufAI", "dc/d3e/a20878.html", "dc/d3e/a20878" ],
+    [ "go_harpoon_canon", "de/de3/a20882.html", "de/de3/a20882" ],
     [ "Events", "d2/d50/a02081.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d5f/a02216.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d5f/a02216.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -1339,6 +1339,7 @@ var a02081 =
       [ "ADDITIONAL_CLASS_SPRIEST", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92706eb33a08d2af442625bec27cdf3c", null ],
       [ "AURA_SHADOW_FORM", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad3a76f7068948a8105e9c5001dbb41d2", null ],
       [ "GROUP_CLASS_ABILITY", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8aaab438cd70047fa9299e78971c4f4", null ],
+      [ "GROUP_DRAIN_POWER", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afec21b3ce2b83056ea6ccf2336110b3d", null ],
       [ "MAX_BOMB_COUNT", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a55b3541c734c6bf371563c020ea4918e", null ],
       [ "GROUP_ENRAGE", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a98519d98f2763476413ba8ba9b1aa780", null ],
       [ "GROUP_HATCHING", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad004964bc87e3ee20b6bd3fcb2411521", null ],

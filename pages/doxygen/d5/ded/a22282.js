@@ -1,17 +1,14 @@
 var a22282 =
 [
-    [ "OPvPCapturePointZM_GraveYard", "d5/ded/a22282.html#a4996bc1787009cc204047f574fc55aa3", null ],
-    [ "CanTalkTo", "d5/ded/a22282.html#aabcde0e8e3e089dccea0ae6a439e7c4a", null ],
-    [ "ChangeState", "d5/ded/a22282.html#a95394b3e6863c367e4a6257c9b9864df", null ],
-    [ "FillInitialWorldStates", "d5/ded/a22282.html#a745acfba4972d64dca84287d8db292fc", null ],
-    [ "GetGraveYardState", "d5/ded/a22282.html#a8c01f60011d967344df5895f05e1f80e", null ],
-    [ "HandleDropFlag", "d5/ded/a22282.html#a2962a45d4c4145f6ba135477ef362ec8", null ],
-    [ "HandleGossipOption", "d5/ded/a22282.html#a28ce2dba96ff5784c4758bd3d0d4e640", null ],
-    [ "HandleOpenGo", "d5/ded/a22282.html#af72356107675ab5ad6c74fda1c3b69fa", null ],
-    [ "SetBeaconState", "d5/ded/a22282.html#a8ed94a0433eab7ae25ea2686fd8e4e9a", null ],
-    [ "Update", "d5/ded/a22282.html#a5210c40f88803137e4a8fe3ea69eda14", null ],
-    [ "UpdateTowerState", "d5/ded/a22282.html#abee798494628344c9f8c1052ec248501", null ],
-    [ "m_BothControllingFactionId", "d5/ded/a22282.html#acac201bebe2ec8e214e5632a21aa8331", null ],
-    [ "m_FlagCarrierGUID", "d5/ded/a22282.html#a103cb36247799a5826c47978d451d2b7", null ],
-    [ "m_GraveYardState", "d5/ded/a22282.html#af281f3b638d2af3d3e8378614a23457f", null ]
+    [ "OPvPCapturePointTF", "d5/ded/a22282.html#af71fd9e2b7cdfa8c4a352bb5f4ce3d33", null ],
+    [ "ChangeState", "d5/ded/a22282.html#aa1e2611ef1b260ab363fd2645de142b0", null ],
+    [ "FillInitialWorldStates", "d5/ded/a22282.html#ad8ec5b055da6a7d34b8db0e8a75e65c8", null ],
+    [ "HandlePlayerEnter", "d5/ded/a22282.html#ae73763b63f5c1522c9b9c5950a6e5dfe", null ],
+    [ "HandlePlayerLeave", "d5/ded/a22282.html#ace20d19311478a136ae0b75016c36ea8", null ],
+    [ "ResetToTeamControlled", "d5/ded/a22282.html#a7ad637f6a4005da3166601dafda52d1b", null ],
+    [ "SendChangePhase", "d5/ded/a22282.html#a16efee78249e510e211b18694ea868f2", null ],
+    [ "Update", "d5/ded/a22282.html#a15b0758d901bf98f65fa2ee87bb4b401", null ],
+    [ "UpdateTowerState", "d5/ded/a22282.html#a3f6cbfddd3322e3d948a1330cfa0e4d8", null ],
+    [ "m_TowerState", "d5/ded/a22282.html#a74e1c07d3186fb6ba54b65efa9700989", null ],
+    [ "m_TowerType", "d5/ded/a22282.html#ace7e183b6dd438b9649e9ee60c6d00e2", null ]
 ];

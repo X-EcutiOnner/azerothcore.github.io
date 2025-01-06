@@ -1,7 +1,8 @@
 var a16062 =
 [
-    [ "HandleEffectPeriodic", "db/db5/a16062.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "db/db5/a16062.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "db/db5/a16062.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "db/db5/a16062.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "npc_frost_sphereAI", "db/db5/a16062.html#ae697a98d23d94315768dc866852b6e07", null ],
+    [ "DamageTaken", "db/db5/a16062.html#a3960f19b456f29a33016d799809a82a8", null ],
+    [ "SpellHit", "db/db5/a16062.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
+    [ "UpdateAI", "db/db5/a16062.html#a4e866332045135c867f2b9ee871db0c2", null ],
+    [ "permafrostTimer", "db/db5/a16062.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
 ];

@@ -1,6 +1,13 @@
 var a17030 =
 [
-    [ "ModAuraStack", "dc/d13/a17030.html#a7535ef148e047e32a5f7a1944585e396", null ],
-    [ "PrepareSpellScript", "dc/d13/a17030.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
-    [ "Register", "dc/d13/a17030.html#ab44b362197e74b98b3ffeb98eff52742", null ]
+    [ "npc_kinetic_bombAI", "dc/d13/a17030.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
+    [ "DoAction", "dc/d13/a17030.html#a52e913b244e58f99745926d021dc0d95", null ],
+    [ "IsSummonedBy", "dc/d13/a17030.html#a03dc3870b23105bb1d0d207adefe2541", null ],
+    [ "Reset", "dc/d13/a17030.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
+    [ "UpdateAI", "dc/d13/a17030.html#a1ce9bf99879796652878990a773e6a2c", null ],
+    [ "_events", "dc/d13/a17030.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
+    [ "_groundZ", "dc/d13/a17030.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
+    [ "_x", "dc/d13/a17030.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
+    [ "_y", "dc/d13/a17030.html#a5d9f4039c87e1e57234af51cd4617022", null ],
+    [ "exploded", "dc/d13/a17030.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
 ];

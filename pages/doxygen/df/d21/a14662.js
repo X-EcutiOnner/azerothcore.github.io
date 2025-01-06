@@ -1,8 +1,7 @@
 var a14662 =
 [
-    [ "HandleScript", "df/d21/a14662.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "df/d21/a14662.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "df/d21/a14662.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "df/d21/a14662.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "df/d21/a14662.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "npc_hive_zara_larva", "df/d21/a14662.html#a50fb5738d7b0818689216fee0915a0de", null ],
+    [ "JustSummoned", "df/d21/a14662.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
+    [ "MovementInform", "df/d21/a14662.html#a6890c58106450d654062f548a80cb42f", null ],
+    [ "_instance", "df/d21/a14662.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
 ];

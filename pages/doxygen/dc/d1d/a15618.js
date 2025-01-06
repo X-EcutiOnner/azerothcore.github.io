@@ -1,6 +1,6 @@
 var a15618 =
 [
-    [ "boss_krik_thirAI", "d2/dde/a15622.html", "d2/dde/a15622" ],
-    [ "boss_krik_thir", "dc/d1d/a15618.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "dc/d1d/a15618.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "npc_anub_ar_crusherAI", "d2/dde/a15622.html", "d2/dde/a15622" ],
+    [ "npc_anub_ar_crusher", "dc/d1d/a15618.html#a3397fab6358ce8c19aecaad734e0ef78", null ],
+    [ "GetAI", "dc/d1d/a15618.html#aeb8eb3e39612d0f7059f1910033cbbcc", null ]
 ];

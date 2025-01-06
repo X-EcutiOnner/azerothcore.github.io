@@ -1,6 +1,5 @@
 var a21746 =
 [
-    [ "npc_lord_areteAI", "d8/d83/a21750.html", "d8/d83/a21750" ],
-    [ "npc_lord_arete", "d4/d25/a21746.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "d4/d25/a21746.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "npc_black_knight_graveyardAI", "d4/d25/a21746.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "d4/d25/a21746.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

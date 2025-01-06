@@ -1,8 +1,6 @@
 var a18250 =
 [
-    [ "FilterTargets", "dd/d8c/a18250.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
-    [ "HandleForceCast", "dd/d8c/a18250.html#ae783cf255be823bf7c9125f288479e97", null ],
-    [ "Load", "dd/d8c/a18250.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
-    [ "PrepareSpellScript", "dd/d8c/a18250.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
-    [ "Register", "dd/d8c/a18250.html#a454a8909be4bb85f255ea696041ea447", null ]
+    [ "HandleScript", "dd/d8c/a18250.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
+    [ "PrepareSpellScript", "dd/d8c/a18250.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
+    [ "Register", "dd/d8c/a18250.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
 ];

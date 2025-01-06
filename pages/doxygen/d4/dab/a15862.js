@@ -1,6 +1,7 @@
 var a15862 =
 [
-    [ "OnSummon", "d4/dab/a15862.html#ae2766d12fb686356b46126848f356c5a", null ],
-    [ "PrepareSpellScript", "d4/dab/a15862.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
-    [ "Register", "d4/dab/a15862.html#a717394bfbea621ae637f9e87efddda62", null ]
+    [ "OnApply", "d4/dab/a15862.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
+    [ "PrepareAuraScript", "d4/dab/a15862.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
+    [ "Register", "d4/dab/a15862.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
+    [ "Validate", "d4/dab/a15862.html#a2c9e4d82bd25f439e01a05700563b122", null ]
 ];

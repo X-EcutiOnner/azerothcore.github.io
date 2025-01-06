@@ -1,6 +1,9 @@
 var a19814 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "db/dd2/a19818.html", "db/dd2/a19818" ],
-    [ "npc_ulduar_saronite_vapors", "dc/df5/a19814.html#a567c3aca8c381167ca278c2c3562e6f6", null ],
-    [ "GetAI", "dc/df5/a19814.html#a3c2e7b6263f8935da9291c736b14d139", null ]
+    [ "boss_freya_nature_bombAI", "dc/df5/a19814.html#acbf4d330bb5bf4a032732895e8f7e35b", null ],
+    [ "Reset", "dc/df5/a19814.html#a60738702870e2cacbcdf600e9e7073b5", null ],
+    [ "UpdateAI", "dc/df5/a19814.html#a4bfa9df3e3151743485f59c4d318d7f9", null ],
+    [ "_explodeTimer", "dc/df5/a19814.html#a2af9ed2067097eec2a647f17f8b1ef71", null ],
+    [ "_goGUID", "dc/df5/a19814.html#a1a7579cc6957a52d65a1d302d5ba1da0", null ],
+    [ "Timer", "dc/df5/a19814.html#a714a582c6ec552b969624244d709d14d", null ]
 ];

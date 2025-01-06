@@ -1,8 +1,6 @@
 var a20146 =
 [
-    [ "npc_ulduar_magnetic_coreAI", "d2/dc7/a20146.html#a585437dff0c49ac1a6bf7929ab266ff5", null ],
-    [ "SetData", "d2/dc7/a20146.html#a27c31856d2bfe3228ae3b0b361064d7a", null ],
-    [ "UpdateAI", "d2/dc7/a20146.html#ab9113a021844aa7ea8ac46df9c50b205", null ],
-    [ "despawnTimer", "d2/dc7/a20146.html#ad244ccbaeda814b9e56fad93f06f12fe", null ],
-    [ "pInstance", "d2/dc7/a20146.html#a3e01c612a689d89bdbe3529c429a413d", null ]
+    [ "npc_ulduar_proximity_mineAI", "d4/dfb/a20150.html", "d4/dfb/a20150" ],
+    [ "npc_ulduar_proximity_mine", "d2/dc7/a20146.html#ac33beb07e17712cdda1b3434d9dc8222", null ],
+    [ "GetAI", "d2/dc7/a20146.html#a7d8237b965699004f9df731e357b4020", null ]
 ];

@@ -1,6 +1,10 @@
 var a27274 =
 [
-    [ "npc_garments_of_questsAI", "d3/d40/a27278.html", "d3/d40/a27278" ],
-    [ "npc_garments_of_quests", "dc/d5b/a27274.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "dc/d5b/a27274.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "npc_dancing_flamesAI", "dc/d5b/a27274.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "dc/d5b/a27274.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "dc/d5b/a27274.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "dc/d5b/a27274.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "dc/d5b/a27274.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "dc/d5b/a27274.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "dc/d5b/a27274.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

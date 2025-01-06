@@ -1,6 +1,7 @@
 var a14530 =
 [
-    [ "instance_the_black_morass_InstanceMapScript", "d0/d1f/a14534.html", "d0/d1f/a14534" ],
-    [ "instance_the_black_morass", "d7/d14/a14530.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
-    [ "GetInstanceScript", "d7/d14/a14530.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
+    [ "npc_tarethaAI", "d0/d1f/a14534.html", "d0/d1f/a14534" ],
+    [ "npc_taretha", "d7/d14/a14530.html#a54379e06518ff972e91e25e295731f5a", null ],
+    [ "GetAI", "d7/d14/a14530.html#a5045bb7119b12800ee0053818fcae5fe", null ],
+    [ "OnGossipHello", "d7/d14/a14530.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
 ];

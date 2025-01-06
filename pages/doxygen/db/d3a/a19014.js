@@ -1,14 +1,22 @@
 var a19014 =
 [
-    [ "boss_keristrasza", "db/d3a/a19014.html#a5f83fee9a5616751601f0c1155afab36", null ],
-    [ "CanRemovePrison", "db/d3a/a19014.html#a900a4a8428a04b880462b20196e94858", null ],
-    [ "GetData", "db/d3a/a19014.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
-    [ "JustDied", "db/d3a/a19014.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
-    [ "JustEngagedWith", "db/d3a/a19014.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
-    [ "KilledUnit", "db/d3a/a19014.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
-    [ "RemovePrison", "db/d3a/a19014.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
-    [ "Reset", "db/d3a/a19014.html#a13dce974fa83577397a80ff52de5d835", null ],
-    [ "SetData", "db/d3a/a19014.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
-    [ "UpdateAI", "db/d3a/a19014.html#a46a2e61e27cc72710c7aa14212673eae", null ],
-    [ "aGuids", "db/d3a/a19014.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
+    [ "instance_eye_of_eternity_InstanceMapScript", "db/d3a/a19014.html#a5d98695d6090d3805de4c26db0fb2d23", null ],
+    [ "CheckAchievementCriteriaMeet", "db/d3a/a19014.html#a91fd1a35177ce6f29167ec20701e5ea6", null ],
+    [ "GetGuidData", "db/d3a/a19014.html#a06adfadbd168118756fa457cfa814cf1", null ],
+    [ "Initialize", "db/d3a/a19014.html#a9febece0b333f19b00ed3672bc24acf9", null ],
+    [ "IsEncounterInProgress", "db/d3a/a19014.html#aa7a833aa22e9f99c10bc3f9c6b06fc9b", null ],
+    [ "OnCreatureCreate", "db/d3a/a19014.html#abe14c696da1e452c2d79f20e4a729c12", null ],
+    [ "OnGameObjectCreate", "db/d3a/a19014.html#accc79892118cce948568d7810ce64e23", null ],
+    [ "OnPlayerEnter", "db/d3a/a19014.html#ae196d774c296cd8230946418832d158a", null ],
+    [ "ProcessEvent", "db/d3a/a19014.html#a70b9ae907b6fe2a28333ea7f1a0999d9", null ],
+    [ "ReadSaveDataMore", "db/d3a/a19014.html#a424b9a865e3d4f7953990b072599e98c", null ],
+    [ "SetData", "db/d3a/a19014.html#a7795b115419ed6f74735535c2c9f3b74", null ],
+    [ "WriteSaveDataMore", "db/d3a/a19014.html#ab03a08d80116947107b0279fa27d92f6", null ],
+    [ "bPokeAchiev", "db/d3a/a19014.html#ae9ac88ac934fa86e28f5d4905b8defba", null ],
+    [ "EncounterStatus", "db/d3a/a19014.html#acb95c03060aac2c7b022ffe9c09da7b2", null ],
+    [ "GO_ExitPortalGUID", "db/d3a/a19014.html#a0ecf94e919fe425ea283a7929f33e96f", null ],
+    [ "GO_IrisGUID", "db/d3a/a19014.html#a34fe2223ca6b0572357cc0c9f0a7ef52", null ],
+    [ "GO_PlatformGUID", "db/d3a/a19014.html#a26cac92965b6eb53d5ceb0bb1a92773d", null ],
+    [ "NPC_MalygosGUID", "db/d3a/a19014.html#a90666367e40a567c1adea7d444004db8", null ],
+    [ "str_data", "db/d3a/a19014.html#a00839e8d0b4bc3673f576990dfc932cc", null ]
 ];

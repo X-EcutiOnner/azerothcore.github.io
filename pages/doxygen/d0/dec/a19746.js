@@ -1,11 +1,6 @@
 var a19746 =
 [
-    [ "boss_freya_elder_brightleafAI", "d0/dec/a19746.html#a53de463d34b808b4c5d459e1339f6f30", null ],
-    [ "JustDied", "d0/dec/a19746.html#aeea7300081f645d3fa83df6841c5a497", null ],
-    [ "JustEngagedWith", "d0/dec/a19746.html#a956adeb9b6ea0c8fa71bdcbd3735c79d", null ],
-    [ "KilledUnit", "d0/dec/a19746.html#a47935d017a2d34a888acb4079d3ff9aa", null ],
-    [ "Reset", "d0/dec/a19746.html#aee11d2e1fad8bc1b18c17b1527610914", null ],
-    [ "UpdateAI", "d0/dec/a19746.html#af28f94f278d279513d7f72cdc36528d4", null ],
-    [ "events", "d0/dec/a19746.html#a45b4f0d12497dd8e3ffc1cde429116f6", null ],
-    [ "summons", "d0/dec/a19746.html#a456123135a7fb4595d611a9e3995f461", null ]
+    [ "boss_freyaAI", "d5/da3/a19750.html", "d5/da3/a19750" ],
+    [ "boss_freya", "d0/dec/a19746.html#ae366f60526e7c948dee148cdd12f0752", null ],
+    [ "GetAI", "d0/dec/a19746.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
 ];

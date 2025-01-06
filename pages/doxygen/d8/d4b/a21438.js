@@ -1,6 +1,5 @@
 var a21438 =
 [
-    [ "npc_mindless_ghoulAI", "d4/dfe/a21442.html", "d4/dfe/a21442" ],
-    [ "npc_mindless_ghoul", "d8/d4b/a21438.html#ac5bf71e719c0df04687f426a022fd65e", null ],
-    [ "GetAI", "d8/d4b/a21438.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
+    [ "go_the_pearl_of_the_depths", "d8/d4b/a21438.html#a0e09ddcde0eef050400d90e9a268823a", null ],
+    [ "OnGossipHello", "d8/d4b/a21438.html#a745ea14136a78759a3afd7714c6d784a", null ]
 ];

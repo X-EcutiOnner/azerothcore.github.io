@@ -1,8 +1,12 @@
 var a15374 =
 [
-    [ "npc_pluckyAI", "d4/ddf/a15378.html", "d4/ddf/a15378" ],
-    [ "npc_plucky", "d5/d36/a15374.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "d5/d36/a15374.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "d5/d36/a15374.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "d5/d36/a15374.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "npc_wizzlecrank_shredderAI", "d5/d36/a15374.html#a055c4b426219aa3372a83d2e2021d916", null ],
+    [ "JustSummoned", "d5/d36/a15374.html#a7cad21f0b3286ed75256a49c315069ce", null ],
+    [ "Reset", "d5/d36/a15374.html#a86929e8a2f3433f37e4dda03e3011193", null ],
+    [ "UpdateEscortAI", "d5/d36/a15374.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
+    [ "WaypointReached", "d5/d36/a15374.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
+    [ "WaypointStart", "d5/d36/a15374.html#a00857e372e53950338ed71d672edb780", null ],
+    [ "IsPostEvent", "d5/d36/a15374.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
+    [ "PostEventCount", "d5/d36/a15374.html#aa5284a284c074f32cee85d29aea00f2f", null ],
+    [ "PostEventTimer", "d5/d36/a15374.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
 ];

@@ -1,6 +1,6 @@
 var a14834 =
 [
-    [ "OnRemove", "dd/d2e/a14834.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
-    [ "PrepareAuraScript", "dd/d2e/a14834.html#a47849d8241ed17ad0fb541c1178b0760", null ],
-    [ "Register", "dd/d2e/a14834.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
+    [ "OnPeriodic", "dd/d2e/a14834.html#a08dce8b98afadc134166a615b4496151", null ],
+    [ "PrepareAuraScript", "dd/d2e/a14834.html#a9ebb34665b176e4e60f085da65183d8e", null ],
+    [ "Register", "dd/d2e/a14834.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
 ];

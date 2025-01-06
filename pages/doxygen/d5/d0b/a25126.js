@@ -1,9 +1,9 @@
 var a25126 =
 [
-    [ "CheckIfCorpseNear", "d5/d0b/a25126.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
-    [ "HandleDummy", "d5/d0b/a25126.html#a913c0137d2a13c810bbae869cc6cf734", null ],
-    [ "Load", "d5/d0b/a25126.html#a3f36968d10bde12c7e2eda8db4145252", null ],
-    [ "PrepareSpellScript", "d5/d0b/a25126.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
-    [ "Register", "d5/d0b/a25126.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
-    [ "Validate", "d5/d0b/a25126.html#a51b075f95211025b2a7719a3ee70a6be", null ]
+    [ "DoCheckCast", "d5/d0b/a25126.html#a09c7bd66988c38cb019656842ed87366", null ],
+    [ "HandleDummy", "d5/d0b/a25126.html#a183e2ac37a432ea2902b31e24a474cea", null ],
+    [ "HandleScriptEffect", "d5/d0b/a25126.html#a396b1129f15056d0b22c7887f56bea99", null ],
+    [ "PrepareSpellScript", "d5/d0b/a25126.html#aad4de93de822a742e02ac8d5d395d482", null ],
+    [ "Register", "d5/d0b/a25126.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
+    [ "Validate", "d5/d0b/a25126.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
 ];

@@ -1,10 +1,9 @@
 var a16506 =
 [
-    [ "HandleAfterEffectAbsorb", "db/dce/a16506.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "db/dce/a16506.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "db/dce/a16506.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "db/dce/a16506.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "db/dce/a16506.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "db/dce/a16506.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "db/dce/a16506.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "HandlePeriodicTick", "db/dce/a16506.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "db/dce/a16506.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "db/dce/a16506.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "db/dce/a16506.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "db/dce/a16506.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "db/dce/a16506.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

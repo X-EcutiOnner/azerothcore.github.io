@@ -1,5 +1,7 @@
 var a19650 =
 [
-    [ "go_ulduar_tower", "d5/ddf/a19650.html#afc1add1a0543921f52afe1eb907f5de3", null ],
-    [ "OnDestroyed", "d5/ddf/a19650.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
+    [ "npc_storm_beacon_spawnAI", "d5/ddf/a19650.html#a031c1941f177a18af58efcf4a1270654", null ],
+    [ "UpdateAI", "d5/ddf/a19650.html#a249bf56b905ef0c8b34c737d95518c91", null ],
+    [ "_amount", "d5/ddf/a19650.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
+    [ "_checkTimer", "d5/ddf/a19650.html#a7fd6d449b6a20ba9463896244c513a67", null ]
 ];

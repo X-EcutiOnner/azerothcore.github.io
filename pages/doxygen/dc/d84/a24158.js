@@ -1,5 +1,4 @@
 var a24158 =
 [
-    [ "npc_pet_pri_lightwell", "dc/d84/a24158.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "dc/d84/a24158.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "npc_pet_gen_moth", "dc/d84/a24158.html#a527b48528cce28f6b468af170e5ae45f", null ]
 ];

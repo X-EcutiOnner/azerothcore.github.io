@@ -1,6 +1,8 @@
 var a15182 =
 [
-    [ "npc_great_bear_spirit", "db/d45/a15182.html#a141470a3623aa1152d3505661f1532c8", null ],
-    [ "OnGossipHello", "db/d45/a15182.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
-    [ "OnGossipSelect", "db/d45/a15182.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
+    [ "FilterTargets", "db/d45/a15182.html#a47b8055fa1b28968e8323ca98613aa83", null ],
+    [ "HandleScript", "db/d45/a15182.html#a8f7984e510d8947a2ae4b0734409866b", null ],
+    [ "PrepareSpellScript", "db/d45/a15182.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
+    [ "Register", "db/d45/a15182.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
+    [ "Validate", "db/d45/a15182.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
 ];

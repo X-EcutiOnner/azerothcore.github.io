@@ -1,6 +1,26 @@
 var a19122 =
 [
-    [ "npc_centrifuge_constructAI", "dc/dd8/a19126.html", "dc/dd8/a19126" ],
-    [ "npc_centrifuge_construct", "df/d22/a19122.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
-    [ "GetAI", "df/d22/a19122.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
+    [ "instance_oculus_InstanceMapScript", "df/d22/a19122.html#a86c942751aee67ae10e2c77a1ace630e", null ],
+    [ "CheckAchievementCriteriaMeet", "df/d22/a19122.html#a04ea989733a6ba1bed1990e1ea8baf1f", null ],
+    [ "GetData", "df/d22/a19122.html#a44cf46153dd392758fa5c388e8c2ea84", null ],
+    [ "GetGuidData", "df/d22/a19122.html#ac969f1faf18633ad54354015fb66f4f8", null ],
+    [ "Initialize", "df/d22/a19122.html#a1c035ca450efdd89481715bd09c6c38c", null ],
+    [ "OnCreatureCreate", "df/d22/a19122.html#a1b0553334dc2d00fd12512dae373039a", null ],
+    [ "OnGameObjectCreate", "df/d22/a19122.html#a08abbb0430a43bb4841560b01e9fe26c", null ],
+    [ "OnPlayerEnter", "df/d22/a19122.html#a7046a9b087300d0854bb1078c7bd1c9b", null ],
+    [ "OnUnitDeath", "df/d22/a19122.html#a84fa94a97c62ba7b68130c7a5d8bb4dd", null ],
+    [ "ReadSaveDataMore", "df/d22/a19122.html#aa5f838155be454aec552b99c42edfe99", null ],
+    [ "SetData", "df/d22/a19122.html#a58b0b5142cbae350d6cc61c89a3792af", null ],
+    [ "WriteSaveDataMore", "df/d22/a19122.html#a5043a99a4a3d1c86a4a7026757ebdc14", null ],
+    [ "bAmberVoid", "df/d22/a19122.html#a9dfa8834bfea20a8f4a39c958e38bcbd", null ],
+    [ "bEmeraldVoid", "df/d22/a19122.html#a45ce85a8a6c9362ad04194b0518066c9", null ],
+    [ "bRubyVoid", "df/d22/a19122.html#ad93d6be40d07925d1eb485f864c72ace", null ],
+    [ "CentrifugeCount", "df/d22/a19122.html#ae5a87cc8bfc153aee0f96978f39a1932", null ],
+    [ "DragonCageDoorGUID", "df/d22/a19122.html#a402480035dfffd7c4c717229bd55b921", null ],
+    [ "EregosCacheGUID", "df/d22/a19122.html#aad60cffd6c483bf4610884c3b99ad39c", null ],
+    [ "m_auiEncounter", "df/d22/a19122.html#af4cca13b9039d7c88e7fad1e8f23eb3a", null ],
+    [ "uiDrakosGUID", "df/d22/a19122.html#a1bc410826700bdfcefc5f60d0967a091", null ],
+    [ "uiEregosGUID", "df/d22/a19122.html#a559b482989ee8f91f1ba412683856d89", null ],
+    [ "uiUromGUID", "df/d22/a19122.html#accf640519e925eccf0230ca4a5dee3bb", null ],
+    [ "uiVarosGUID", "df/d22/a19122.html#ab4a87ca38d203deacc377579e66e5bfb", null ]
 ];

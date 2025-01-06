@@ -1,6 +1,6 @@
 var a17646 =
 [
-    [ "boss_rotfaceAI", "d0/db3/a17650.html", "d0/db3/a17650" ],
-    [ "boss_rotface", "d6/d87/a17646.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "d6/d87/a17646.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "OnRemove", "d6/d87/a17646.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "d6/d87/a17646.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "d6/d87/a17646.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

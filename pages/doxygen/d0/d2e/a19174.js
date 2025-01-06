@@ -1,7 +1,6 @@
 var a19174 =
 [
-    [ "HandleOnEffectApply", "d0/d2e/a19174.html#a4841f7a44f5df964c4eb9965383fd747", null ],
-    [ "PrepareAuraScript", "d0/d2e/a19174.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
-    [ "Register", "d0/d2e/a19174.html#a68fba646552678744f49d10b59704a35", null ],
-    [ "Validate", "d0/d2e/a19174.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
+    [ "PrepareSpellScript", "d0/d2e/a19174.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "d0/d2e/a19174.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "d0/d2e/a19174.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

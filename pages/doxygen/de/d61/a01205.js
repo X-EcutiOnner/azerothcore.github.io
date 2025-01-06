@@ -1,8 +1,8 @@
 var a01205 =
 [
-    [ "boss_rajaxx", "dd/d2d/a14726.html", "dd/d2d/a14726" ],
-    [ "spell_rajaxx_thundercrash", "d4/de9/a14730.html", "d4/de9/a14730" ],
-    [ "npc_general_andorov", "de/db3/a14734.html", "de/db3/a14734" ],
+    [ "boss_rajaxx", "d5/d11/a14746.html", "d5/d11/a14746" ],
+    [ "spell_rajaxx_thundercrash", "d6/d25/a14750.html", "d6/d25/a14750" ],
+    [ "npc_general_andorov", "d8/d2f/a14754.html", "d8/d2f/a14754" ],
     [ "AndorovMisc", "de/d61/a01205.html#adfc3eda6f1c0f62c59171b07b63a3b70", [
       [ "FACTION_ANDOROV_ESCORT", "de/d61/a01205.html#adfc3eda6f1c0f62c59171b07b63a3b70a5f587733fae72c0e10bf101bdf781343", null ],
       [ "SPELL_AURA_OF_COMMAND", "de/d61/a01205.html#adfc3eda6f1c0f62c59171b07b63a3b70a66c411861d5bf2a38581a29d3e18ddbc", null ],
@@ -2060,6 +2060,7 @@ var a01205 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

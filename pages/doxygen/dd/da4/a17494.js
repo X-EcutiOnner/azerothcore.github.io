@@ -1,6 +1,5 @@
 var a17494 =
 [
-    [ "npc_bone_spikeAI", "d9/d30/a17498.html", "d9/d30/a17498" ],
-    [ "npc_bone_spike", "dd/da4/a17494.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "dd/da4/a17494.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "at_lady_deathwhisper_entrance", "dd/da4/a17494.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
+    [ "OnTrigger", "dd/da4/a17494.html#a769c838c94a88af5492057909d88f3de", null ]
 ];

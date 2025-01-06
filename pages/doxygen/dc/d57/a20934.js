@@ -1,7 +1,6 @@
 var a20934 =
 [
-    [ "HandlePeriodicDummy", "dc/d57/a20934.html#a295f37cddccc696d450a0c4380d43c29", null ],
-    [ "PrepareAuraScript", "dc/d57/a20934.html#a9453aa189ba53de3d89bbab183927cfc", null ],
-    [ "Register", "dc/d57/a20934.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
-    [ "Validate", "dc/d57/a20934.html#a475480c072aaccde7b00cf28aedff3ec", null ]
+    [ "boss_archavonAI", "d0/dad/a20938.html", "d0/dad/a20938" ],
+    [ "boss_archavon", "dc/d57/a20934.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "dc/d57/a20934.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

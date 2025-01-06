@@ -1,8 +1,6 @@
 var a18210 =
 [
-    [ "npc_suppresserAI", "d3/d0f/a18210.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
-    [ "AttackStart", "d3/d0f/a18210.html#ae36105de1df1dd9841332d9a8e7799be", null ],
-    [ "IsSummonedBy", "d3/d0f/a18210.html#a35ec340b2d02a14707fc353428b1298d", null ],
-    [ "UpdateAI", "d3/d0f/a18210.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
-    [ "_instance", "d3/d0f/a18210.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
+    [ "npc_valithria_cloudAI", "dd/d1d/a18214.html", "dd/d1d/a18214" ],
+    [ "npc_valithria_cloud", "d3/d0f/a18210.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
+    [ "GetAI", "d3/d0f/a18210.html#afeff905cec1245dbac6fa59673aef015", null ]
 ];

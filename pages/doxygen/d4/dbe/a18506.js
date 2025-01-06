@@ -1,8 +1,9 @@
 var a18506 =
 [
-    [ "Class", "d4/dbe/a18506.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "d4/dbe/a18506.html#a6f1fdab250e8557d16066c03a54fb2a4", null ],
-    [ "id", "d4/dbe/a18506.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "d4/dbe/a18506.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "d4/dbe/a18506.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d4/dbe/a18506.html#ae74a306850b328f536b55e5c24c040ab", null ],
+    [ "AttackStart", "d4/dbe/a18506.html#a52b753e1f599eb02385d980a78cd3c78", null ],
+    [ "JustEngagedWith", "d4/dbe/a18506.html#afdb4215cd0578de7342b152783666ed6", null ],
+    [ "Reset", "d4/dbe/a18506.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
+    [ "UpdateAI", "d4/dbe/a18506.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
+    [ "events", "d4/dbe/a18506.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
 ];

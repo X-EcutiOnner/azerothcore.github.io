@@ -1,9 +1,6 @@
 var a21890 =
 [
-    [ "npc_engineer_heliceAI", "dd/da0/a21890.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
-    [ "JustDied", "dd/da0/a21890.html#aba224727b86a2bfc39a47b70b424ccef", null ],
-    [ "Reset", "dd/da0/a21890.html#ade3f7f526dd8973c155aafb939db3778", null ],
-    [ "UpdateAI", "dd/da0/a21890.html#a1c333511dd6e82cd22af111e12a701c4", null ],
-    [ "WaypointReached", "dd/da0/a21890.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
-    [ "m_uiChatTimer", "dd/da0/a21890.html#aa305bc2b5711d0745650f80275204ea8", null ]
+    [ "npc_vekjik", "dd/da0/a21890.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "dd/da0/a21890.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "dd/da0/a21890.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

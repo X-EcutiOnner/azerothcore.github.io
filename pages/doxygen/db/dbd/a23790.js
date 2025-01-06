@@ -1,8 +1,6 @@
 var a23790 =
 [
-    [ "npc_captain_saeedAI", "dd/dd4/a23794.html", "dd/dd4/a23794" ],
-    [ "npc_captain_saeed", "db/dbd/a23790.html#a8a5bee9f908b10451b8d4720dff85670", null ],
-    [ "GetAI", "db/dbd/a23790.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
-    [ "OnGossipHello", "db/dbd/a23790.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
-    [ "OnGossipSelect", "db/dbd/a23790.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "dd/dd4/a23794.html", "dd/dd4/a23794" ],
+    [ "npc_creditmarker_visit_with_ancestors", "db/dbd/a23790.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "db/dbd/a23790.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

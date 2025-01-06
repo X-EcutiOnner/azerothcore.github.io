@@ -1,5 +1,11 @@
 var a15626 =
 [
-    [ "achievement_watch_him_die", "da/db2/a15626.html#a0d885871eac61d859780e08c8518bb15", null ],
-    [ "OnCheck", "da/db2/a15626.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
+    [ "spell_hadronox_summon_periodic_aura", "da/db2/a15626.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
+    [ "HandlePeriodic", "da/db2/a15626.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "da/db2/a15626.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "da/db2/a15626.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "da/db2/a15626.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "da/db2/a15626.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "da/db2/a15626.html#a191d7eec948e0753835bd41eef66f1ec", null ],
+    [ "_spellEntry", "da/db2/a15626.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

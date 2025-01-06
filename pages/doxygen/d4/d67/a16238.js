@@ -1,7 +1,6 @@
 var a16238 =
 [
-    [ "FilterTargets", "d4/d67/a16238.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "d4/d67/a16238.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "d4/d67/a16238.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "d4/d67/a16238.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_fel_infernalAI", "df/d86/a16242.html", "df/d86/a16242" ],
+    [ "npc_fel_infernal", "d4/d67/a16238.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "d4/d67/a16238.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

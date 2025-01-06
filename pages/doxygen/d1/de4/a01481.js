@@ -1,12 +1,12 @@
 var a01481 =
 [
-    [ "npc_love_in_air_supply_sentry", "d9/da0/a14118.html", "d9/da0/a14118" ],
-    [ "npc_love_in_air_snivel", "d4/da7/a14122.html", "d4/da7/a14122" ],
-    [ "npc_love_in_air_snivel_real", "df/da3/a14126.html", "df/da3/a14126" ],
-    [ "spell_love_in_air_perfume_immune", "d9/d6f/a14130.html", "d9/d6f/a14130" ],
-    [ "spell_item_create_heart_candy", "d0/d7d/a14134.html", "d0/d7d/a14134" ],
-    [ "spell_love_is_in_the_air_romantic_picnic", "da/dc0/a14138.html", "da/dc0/a14138" ],
-    [ "spell_gen_aura_service_uniform", "dc/d1e/a14142.html", "dc/d1e/a14142" ],
+    [ "npc_love_in_air_supply_sentry", "da/dc0/a14138.html", "da/dc0/a14138" ],
+    [ "npc_love_in_air_snivel", "dc/d1e/a14142.html", "dc/d1e/a14142" ],
+    [ "npc_love_in_air_snivel_real", "dc/d14/a14146.html", "dc/d14/a14146" ],
+    [ "spell_love_in_air_perfume_immune", "d4/d55/a14150.html", "d4/d55/a14150" ],
+    [ "spell_item_create_heart_candy", "dd/d00/a14154.html", "dd/d00/a14154" ],
+    [ "spell_love_is_in_the_air_romantic_picnic", "da/de3/a14158.html", "da/de3/a14158" ],
+    [ "spell_gen_aura_service_uniform", "d0/d46/a14162.html", "d0/d46/a14162" ],
     [ "CreateHeartCandy", "d1/de4/a01481.html#a2b366c81ccbae806e6b8b58cd8ee079a", [
       [ "SPELL_CREATE_HEART_CANDY_1", "d1/de4/a01481.html#a2b366c81ccbae806e6b8b58cd8ee079aa31a214038bcf7d15ed56ca53ad12c8a4", null ],
       [ "SPELL_CREATE_HEART_CANDY_2", "d1/de4/a01481.html#a2b366c81ccbae806e6b8b58cd8ee079aacb451943546eb8cc10fe892cd4573edf", null ],
@@ -863,6 +863,7 @@ var a01481 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

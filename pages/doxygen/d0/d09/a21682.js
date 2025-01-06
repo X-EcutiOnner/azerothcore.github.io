@@ -1,7 +1,11 @@
 var a21682 =
 [
-    [ "HandleScript", "d0/d09/a21682.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "d0/d09/a21682.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "d0/d09/a21682.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "d0/d09/a21682.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_rocket_propelled_warheadAI", "d0/d09/a21682.html#aab27045dff817457d5858c48c174f3a2", null ],
+    [ "DoAction", "d0/d09/a21682.html#abfd9618bd029ae56d846cac9cf5b7e80", null ],
+    [ "FinishQuest", "d0/d09/a21682.html#a1ccb00801fbfc87cbe04f19dc15e4a10", null ],
+    [ "JustReachedHome", "d0/d09/a21682.html#a680f46b5d7c88bafc5d3af669e9886ef", null ],
+    [ "PassengerBoarded", "d0/d09/a21682.html#aba8121b207be2c7be161d9ea0c903d6e", null ],
+    [ "SpellHit", "d0/d09/a21682.html#ae347c0817e145ec333bd5b1c87dd01ef", null ],
+    [ "_faction", "d0/d09/a21682.html#a423bead0525222a132e22531f640c461", null ],
+    [ "_finished", "d0/d09/a21682.html#ad676c377ea08cbb33f1ff226f864849c", null ]
 ];

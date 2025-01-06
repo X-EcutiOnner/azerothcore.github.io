@@ -1,6 +1,5 @@
 var a20046 =
 [
-    [ "boss_kologarn_eyebeamAI", "df/d2b/a20050.html", "df/d2b/a20050" ],
-    [ "boss_kologarn_eyebeam", "de/df6/a20046.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
-    [ "GetAI", "de/df6/a20046.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
+    [ "achievement_ignis_shattered", "de/df6/a20046.html#adbe893b0dd409eb3f10768f81f182f61", null ],
+    [ "OnCheck", "de/df6/a20046.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
 ];

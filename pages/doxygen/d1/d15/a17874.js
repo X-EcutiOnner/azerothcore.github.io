@@ -1,7 +1,7 @@
 var a17874 =
 [
-    [ "StartMovementEvent", "d1/d15/a17874.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
-    [ "Execute", "d1/d15/a17874.html#af1a043d953bcffe9341292e85cae2f55", null ],
-    [ "_owner", "d1/d15/a17874.html#ac2f4166af128a161c471b243144856ba", null ],
-    [ "_summoner", "d1/d15/a17874.html#afe1f7bcb3569758bc075380a24527067", null ]
+    [ "HandleInfusion", "d1/d15/a17874.html#a9f77330d81fef646dd5d5399800cba66", null ],
+    [ "PrepareSpellScript", "d1/d15/a17874.html#ae0a272902b0a9f74058c1dbe62974358", null ],
+    [ "Register", "d1/d15/a17874.html#ad759f6215e722f799156b4bdddcb7af1", null ],
+    [ "Validate", "d1/d15/a17874.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
 ];

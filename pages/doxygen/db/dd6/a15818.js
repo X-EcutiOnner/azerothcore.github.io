@@ -1,10 +1,7 @@
 var a15818 =
 [
-    [ "spell_halion_combustion_consumption_aura", "db/dd6/a15818.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
-    [ "AddMarkStack", "db/dd6/a15818.html#a337776c42bd6c42ecdffb508808ed070", null ],
-    [ "OnApply", "db/dd6/a15818.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
-    [ "OnRemove", "db/dd6/a15818.html#a3959dbe8bbdf2d3953daf14072614708", null ],
-    [ "PrepareAuraScript", "db/dd6/a15818.html#a334f2211429dde989b6beb6c10a71464", null ],
-    [ "Register", "db/dd6/a15818.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
-    [ "_markSpell", "db/dd6/a15818.html#a8236d9d50f267a12216d90f8041da439", null ]
+    [ "npc_orb_carrierAI", "db/dd6/a15818.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "db/dd6/a15818.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "db/dd6/a15818.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "db/dd6/a15818.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

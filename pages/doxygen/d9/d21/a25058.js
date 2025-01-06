@@ -1,6 +1,6 @@
 var a25058 =
 [
-    [ "CheckCast", "d9/d21/a25058.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
-    [ "PrepareSpellScript", "d9/d21/a25058.html#a0bc2de519e0c84688fad609444d28afa", null ],
-    [ "Register", "d9/d21/a25058.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
+    [ "CalculateDamage", "d9/d21/a25058.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
+    [ "PrepareSpellScript", "d9/d21/a25058.html#a4271f026fd9cddeb109761e9b864c381", null ],
+    [ "Register", "d9/d21/a25058.html#a03bb4cf19328efa783600273663b609a", null ]
 ];

@@ -1,6 +1,8 @@
 var a23314 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d0/d85/a23318.html", "d0/d85/a23318" ],
-    [ "instance_magtheridons_lair", "df/da3/a23314.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
-    [ "GetInstanceScript", "df/da3/a23314.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
+    [ "HandleDummyApply", "df/da3/a23314.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "df/da3/a23314.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "df/da3/a23314.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "df/da3/a23314.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "df/da3/a23314.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

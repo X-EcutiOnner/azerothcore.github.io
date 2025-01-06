@@ -1,6 +1,11 @@
 var a16566 =
 [
-    [ "npc_phantom_hallucinationAI", "d7/dab/a16570.html", "d7/dab/a16570" ],
-    [ "npc_phantom_hallucination", "dc/d05/a16566.html#a685889c090152a2562ee9adef7efbf71", null ],
-    [ "GetAI", "dc/d05/a16566.html#a771ee338f87ca0a2e9a7d02d1322c5d5", null ]
+    [ "npc_hor_leaderAI", "dc/d05/a16566.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
+    [ "DoAction", "dc/d05/a16566.html#a610700732a6cc197a40106adef654a62", null ],
+    [ "Reset", "dc/d05/a16566.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
+    [ "UpdateAI", "dc/d05/a16566.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
+    [ "events", "dc/d05/a16566.html#a94128223bddd84b8a678e49f3189cb75", null ],
+    [ "first", "dc/d05/a16566.html#add878d336fa7e20bee4d05ac0383dd0a", null ],
+    [ "pInstance", "dc/d05/a16566.html#a8dd77a92b151acad640f1272acf0b65f", null ],
+    [ "shortver", "dc/d05/a16566.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
 ];

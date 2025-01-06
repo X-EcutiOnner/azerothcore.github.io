@@ -1,6 +1,6 @@
 var a20894 =
 [
-    [ "boss_ymironAI", "d2/d66/a20898.html", "d2/d66/a20898" ],
-    [ "boss_ymiron", "db/d0d/a20894.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "db/d0d/a20894.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "npc_ritual_channelerAI", "d2/d66/a20898.html", "d2/d66/a20898" ],
+    [ "npc_ritual_channeler", "db/d0d/a20894.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "db/d0d/a20894.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

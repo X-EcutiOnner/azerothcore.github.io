@@ -1,7 +1,6 @@
 var a21522 =
 [
-    [ "FilterTargets", "df/d27/a21522.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "df/d27/a21522.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "df/d27/a21522.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "df/d27/a21522.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "SACActivateEvent", "df/d27/a21522.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
+    [ "Execute", "df/d27/a21522.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
+    [ "_owner", "df/d27/a21522.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
 ];

@@ -1,12 +1,5 @@
 var a20002 =
 [
-    [ "npc_ulduar_iron_constructAI", "dc/d15/a20002.html#ab81224d24ab1925cde97ab76c2a514d1", null ],
-    [ "DamageTaken", "dc/d15/a20002.html#a5235538b755dd83615d80a1f7d0ec1b9", null ],
-    [ "JustDied", "dc/d15/a20002.html#a5b8e1c38257fc13c59bcaf8cb251fee2", null ],
-    [ "JustReachedHome", "dc/d15/a20002.html#a12416ffe731f96a1ca2949d995eb909c", null ],
-    [ "MoveInLineOfSight", "dc/d15/a20002.html#a12b228a1edb9460ddcb2b8232bb8209e", null ],
-    [ "Reset", "dc/d15/a20002.html#ac6dba374d72247be14923aa54898b9b5", null ],
-    [ "SpellHit", "dc/d15/a20002.html#a10a5444576af84ae50ad8af930ed5970", null ],
-    [ "UpdateAI", "dc/d15/a20002.html#ac5aabd4a48b6a2f5057eb5ee8a8c99f8", null ],
-    [ "timer", "dc/d15/a20002.html#ae1996cf79f8a82df7fe02cd60e5ce3a4", null ]
+    [ "achievement_i_could_say_that_this_cache_was_rare", "dc/d15/a20002.html#a8ec1949d92f21fe57f967e510453da3e", null ],
+    [ "OnCheck", "dc/d15/a20002.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
 ];

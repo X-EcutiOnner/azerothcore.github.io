@@ -1,6 +1,6 @@
 var a18326 =
 [
-    [ "npc_captain_arnathAI", "d3/ddc/a18330.html", "d3/ddc/a18330" ],
-    [ "npc_captain_arnath", "dc/df9/a18326.html#ab96afce64a7714ea84bab932f80c9302", null ],
-    [ "GetAI", "dc/df9/a18326.html#a302ec007389e677011334d78f410207b", null ]
+    [ "npc_crok_scourgebaneAI", "d3/ddc/a18330.html", "d3/ddc/a18330" ],
+    [ "npc_crok_scourgebane", "dc/df9/a18326.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "dc/df9/a18326.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

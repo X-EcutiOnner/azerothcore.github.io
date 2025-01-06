@@ -1,6 +1,6 @@
 var a20066 =
 [
-    [ "OnRemoveStun", "de/df4/a20066.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "de/df4/a20066.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "de/df4/a20066.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "boss_kologarn_eyebeamAI", "dc/dc1/a20070.html", "dc/dc1/a20070" ],
+    [ "boss_kologarn_eyebeam", "de/df4/a20066.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
+    [ "GetAI", "de/df4/a20066.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
 ];

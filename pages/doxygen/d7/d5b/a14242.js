@@ -1,5 +1,6 @@
 var a14242 =
 [
-    [ "achievement_pb_pilgrims_peril", "d7/d5b/a14242.html#a9516eab18d7e1401a5637913d8ec9595", null ],
-    [ "OnCheck", "d7/d5b/a14242.html#a78c92eab532448080c1d28dc8fcabaca", null ]
+    [ "HandleDummy", "d7/d5b/a14242.html#aa75140309e66c28590a64e10676356da", null ],
+    [ "PrepareSpellScript", "d7/d5b/a14242.html#a21c4872e16c18c2918dfbea366e61df3", null ],
+    [ "Register", "d7/d5b/a14242.html#a841c9277224cbae878946deb288b87a1", null ]
 ];

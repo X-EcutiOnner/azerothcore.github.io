@@ -1,6 +1,7 @@
 var a15858 =
 [
-    [ "PrepareSpellScript", "d3/d01/a15858.html#a743f910c3854e2c4e726e97c55fa7038", null ],
-    [ "Register", "d3/d01/a15858.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
-    [ "RemoveNotBetween", "d3/d01/a15858.html#aba462e5b8e9336a508d19606f98750b5", null ]
+    [ "OnApply", "d3/d01/a15858.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "d3/d01/a15858.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "d3/d01/a15858.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "d3/d01/a15858.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

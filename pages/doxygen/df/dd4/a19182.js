@@ -1,16 +1,8 @@
 var a19182 =
 [
-    [ "boss_bjarngrimAI", "df/dd4/a19182.html#ab599d5f62638d622c560f5b63e645b50", null ],
-    [ "JustDied", "df/dd4/a19182.html#adcad5667168768d8f3c8235735f357b1", null ],
-    [ "JustEngagedWith", "df/dd4/a19182.html#a2e99538fdc107bc7e91c23898c178047", null ],
-    [ "KilledUnit", "df/dd4/a19182.html#ad3cbbdc77909515e1573a2fb49cc1e30", null ],
-    [ "RemoveStanceAura", "df/dd4/a19182.html#ac2bca5cebc4847af71272de0ffa3d91a", null ],
-    [ "Reset", "df/dd4/a19182.html#a138d14f9666b03dda50f6adeea609046", null ],
-    [ "RollStance", "df/dd4/a19182.html#a70791697fde5c6194226fd42c893385a", null ],
-    [ "UpdateEscortAI", "df/dd4/a19182.html#a9db8e85b47e8ebb4760f99ec04a36fcb", null ],
-    [ "WaypointReached", "df/dd4/a19182.html#a31e1bceb7b944b3db9d7e881be4246bf", null ],
-    [ "events", "df/dd4/a19182.html#a5314bce83c4c7e80ecea99a8d5559fd8", null ],
-    [ "m_pInstance", "df/dd4/a19182.html#af6dbef6bb9565b5ee1738e188b08748f", null ],
-    [ "m_uiStance", "df/dd4/a19182.html#abd4d058fad17b56bc29a165d74062dd0", null ],
-    [ "summons", "df/dd4/a19182.html#a02bd445d2c969ea186a48f68585e640c", null ]
+    [ "HandleOnEffectApply", "df/dd4/a19182.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "df/dd4/a19182.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "df/dd4/a19182.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "df/dd4/a19182.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "df/dd4/a19182.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

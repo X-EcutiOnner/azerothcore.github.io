@@ -1,6 +1,6 @@
 var a17746 =
 [
-    [ "UnchainedMagicTargetSelector", "d7/df3/a17746.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
-    [ "operator()", "d7/df3/a17746.html#af28ce8f46154ae6152e9025775a7f84f", null ],
-    [ "_removeHealers", "d7/df3/a17746.html#a35a7981ce5495cba8b3a5391e4031431", null ]
+    [ "boss_sindragosaAI", "dd/d8f/a17750.html", "dd/d8f/a17750" ],
+    [ "boss_sindragosa", "d7/df3/a17746.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
+    [ "GetAI", "d7/df3/a17746.html#a005a6da9f4f9690416a108872b3c2b36", null ]
 ];

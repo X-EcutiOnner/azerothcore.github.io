@@ -1,5 +1,6 @@
 var a18122 =
 [
-    [ "achievement_been_waiting_long_time", "da/dbe/a18122.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "da/dbe/a18122.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "npc_lk_spirit_bombAI", "d5/dff/a18126.html", "d5/dff/a18126" ],
+    [ "npc_lk_spirit_bomb", "da/dbe/a18122.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "da/dbe/a18122.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

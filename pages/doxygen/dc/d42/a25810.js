@@ -1,6 +1,10 @@
 var a25810 =
 [
-    [ "FilterTargets", "dc/d42/a25810.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
-    [ "PrepareSpellScript", "dc/d42/a25810.html#a5992d94317d3da7400d5a9ab115e621e", null ],
-    [ "Register", "dc/d42/a25810.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
+    [ "Load", "dc/d42/a25810.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
+    [ "PrepareAuraScript", "dc/d42/a25810.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
+    [ "Register", "dc/d42/a25810.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
+    [ "Split", "dc/d42/a25810.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
+    [ "groupSize", "dc/d42/a25810.html#aa1e61b128f63c802dc623be551657df1", null ],
+    [ "minHpPct", "dc/d42/a25810.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
+    [ "remainingAmount", "dc/d42/a25810.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
 ];

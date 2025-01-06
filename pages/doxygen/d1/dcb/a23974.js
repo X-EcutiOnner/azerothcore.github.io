@@ -1,6 +1,6 @@
 var a23974 =
 [
-    [ "npc_kservantAI", "d8/d8f/a23978.html", "d8/d8f/a23978" ],
-    [ "npc_kservant", "d1/dcb/a23974.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d1/dcb/a23974.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "PrepareSpellScript", "d1/dcb/a23974.html#aa858fff409e5c75d865c91cb5fbef679", null ],
+    [ "Register", "d1/dcb/a23974.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
+    [ "SetDest", "d1/dcb/a23974.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
 ];

@@ -1,7 +1,8 @@
 var a19846 =
 [
-    [ "HandleAfterHit", "df/dcd/a19846.html#a75953cbb3a288fd373e602ed07d84441", null ],
-    [ "PrepareSpellScript", "df/dcd/a19846.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
-    [ "Register", "df/dcd/a19846.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
-    [ "Validate", "df/dcd/a19846.html#aea2b951dd2353800958f654df58d8fd8", null ]
+    [ "npc_ulduar_saronite_animusAI", "df/dcd/a19846.html#a2b94427feb24a7bda075b6a8f403433a", null ],
+    [ "JustDied", "df/dcd/a19846.html#a30abcab01de3732bc5525864576615b0", null ],
+    [ "UpdateAI", "df/dcd/a19846.html#a1490961adc8fc03ab28a992aff55b43b", null ],
+    [ "pInstance", "df/dcd/a19846.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
+    [ "timer", "df/dcd/a19846.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
 ];

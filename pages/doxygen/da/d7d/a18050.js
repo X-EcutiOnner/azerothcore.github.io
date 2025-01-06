@@ -1,6 +1,8 @@
 var a18050 =
 [
-    [ "npc_strangulate_vehicleAI", "d8/d9e/a18054.html", "d8/d9e/a18054" ],
-    [ "npc_strangulate_vehicle", "da/d7d/a18050.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
-    [ "GetAI", "da/d7d/a18050.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
+    [ "Load", "da/d7d/a18050.html#add67e02f44e3658bff98faf7a9466ba3", null ],
+    [ "OnPeriodic", "da/d7d/a18050.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
+    [ "PrepareAuraScript", "da/d7d/a18050.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
+    [ "Register", "da/d7d/a18050.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
+    [ "_is25Man", "da/d7d/a18050.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
 ];

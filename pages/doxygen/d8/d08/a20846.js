@@ -1,6 +1,6 @@
 var a20846 =
 [
-    [ "boss_skadiAI", "de/d08/a20850.html", "de/d08/a20850" ],
-    [ "boss_skadi", "d8/d08/a20846.html#a124c1c1de7ba232b3256a65547370464", null ],
-    [ "GetAI", "d8/d08/a20846.html#a4b66199169442af5ec6542be71c19033", null ]
+    [ "npc_ravenous_furbolgAI", "de/d08/a20850.html", "de/d08/a20850" ],
+    [ "npc_ravenous_furbolg", "d8/d08/a20846.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "d8/d08/a20846.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

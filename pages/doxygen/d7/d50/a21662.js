@@ -1,11 +1,6 @@
 var a21662 =
 [
-    [ "npc_rocket_propelled_warheadAI", "d7/d50/a21662.html#aab27045dff817457d5858c48c174f3a2", null ],
-    [ "DoAction", "d7/d50/a21662.html#abfd9618bd029ae56d846cac9cf5b7e80", null ],
-    [ "FinishQuest", "d7/d50/a21662.html#a1ccb00801fbfc87cbe04f19dc15e4a10", null ],
-    [ "JustReachedHome", "d7/d50/a21662.html#a680f46b5d7c88bafc5d3af669e9886ef", null ],
-    [ "PassengerBoarded", "d7/d50/a21662.html#aba8121b207be2c7be161d9ea0c903d6e", null ],
-    [ "SpellHit", "d7/d50/a21662.html#ae347c0817e145ec333bd5b1c87dd01ef", null ],
-    [ "_faction", "d7/d50/a21662.html#a423bead0525222a132e22531f640c461", null ],
-    [ "_finished", "d7/d50/a21662.html#ad676c377ea08cbb33f1ff226f864849c", null ]
+    [ "npc_lake_frogAI", "d0/de0/a21666.html", "d0/de0/a21666" ],
+    [ "npc_lake_frog", "d7/d50/a21662.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "d7/d50/a21662.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

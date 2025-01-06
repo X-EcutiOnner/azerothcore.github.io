@@ -1,6 +1,5 @@
 var a21370 =
 [
-    [ "npc_archmage_landalockAI", "d1/da8/a21374.html", "d1/da8/a21374" ],
-    [ "npc_archmage_landalock", "d6/dc2/a21370.html#ac7379ff07740123312af66ead64df4c6", null ],
-    [ "GetAI", "d6/dc2/a21370.html#a92cfa8c2660413681297bfe12815c938", null ]
+    [ "npc_steam_powered_auctioneerAI", "d6/dc2/a21370.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "d6/dc2/a21370.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

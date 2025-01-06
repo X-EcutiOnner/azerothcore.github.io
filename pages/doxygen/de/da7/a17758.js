@@ -1,7 +1,11 @@
 var a17758 =
 [
-    [ "OnRemove", "de/da7/a17758.html#aa096174465120bde1994c85f72682be1", null ],
-    [ "PrepareAuraScript", "de/da7/a17758.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
-    [ "Register", "de/da7/a17758.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
-    [ "Validate", "de/da7/a17758.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
+    [ "npc_ice_tombAI", "de/da7/a17758.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
+    [ "DamageTaken", "de/da7/a17758.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
+    [ "JustDied", "de/da7/a17758.html#a237f27260aaa9176d81b67b11d063660", null ],
+    [ "SetGUID", "de/da7/a17758.html#a629acf2cc7530c2b82bb37a129d4431a", null ],
+    [ "UpdateAI", "de/da7/a17758.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
+    [ "_asphyxiationTimer", "de/da7/a17758.html#a6790d9c852279624a549f60bf26e1eb2", null ],
+    [ "_existenceCheckTimer", "de/da7/a17758.html#ab3dbf40235549be89e42951d93593ea2", null ],
+    [ "_trappedPlayerGUID", "de/da7/a17758.html#a8a7666594e59bdac449f2284387b8e2c", null ]
 ];

@@ -1,14 +1,6 @@
 var a17542 =
 [
-    [ "npc_putricide_oozeAI", "de/dd5/a17542.html#a5b3200110d6cd8ac1311220ab2ee3385", null ],
-    [ "CastMainSpell", "de/dd5/a17542.html#a62c9027b6d8a7812fcf5c0023621ef70", null ],
-    [ "IsSummonedBy", "de/dd5/a17542.html#a8e96a50b9a35f6220bf6c824c1acce58", null ],
-    [ "SelectNewTarget", "de/dd5/a17542.html#a0a4167a73249967fcf268683f936647d", null ],
-    [ "SetGUID", "de/dd5/a17542.html#a4820e07300bfd50980e42faac3327fec", null ],
-    [ "SpellHit", "de/dd5/a17542.html#ab9d288f8eded19720a0aee3bd91920d2", null ],
-    [ "SpellHitTarget", "de/dd5/a17542.html#a501e0f46abdb1bcc0d99ab9792f738fe", null ],
-    [ "UpdateAI", "de/dd5/a17542.html#a508fe1a9974f2ffa36c72575c2d4b252", null ],
-    [ "_hitTargetSpellId", "de/dd5/a17542.html#a728b62580e7a84e9947a45b460ab140c", null ],
-    [ "_newTargetSelectTimer", "de/dd5/a17542.html#a9615a0e6c73c155330c1791c2a205553", null ],
-    [ "targetGUID", "de/dd5/a17542.html#ae01b7ffe31548aa15d913cc28fa32422", null ]
+    [ "AbominationDespawner", "de/dd5/a17542.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "de/dd5/a17542.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "de/dd5/a17542.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

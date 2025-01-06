@@ -1,7 +1,6 @@
 var a21606 =
 [
-    [ "HandleScriptEffect", "dd/d67/a21606.html#a2d39a073c351860db735301b4cf9c79f", null ],
-    [ "PrepareSpellScript", "dd/d67/a21606.html#a3674adaef23f1531af360a65c14efadd", null ],
-    [ "Register", "dd/d67/a21606.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
-    [ "Validate", "dd/d67/a21606.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
+    [ "npc_mrfloppyAI", "d3/df0/a21610.html", "d3/df0/a21610" ],
+    [ "npc_mrfloppy", "dd/d67/a21606.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "dd/d67/a21606.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

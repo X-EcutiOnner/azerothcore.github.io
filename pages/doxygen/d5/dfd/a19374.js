@@ -1,6 +1,6 @@
 var a19374 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "d3/d16/a19378.html", "d3/d16/a19378" ],
-    [ "npc_brann_bronzebeard_algalon", "d5/dfd/a19374.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
-    [ "GetAI", "d5/dfd/a19374.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "d3/d16/a19378.html", "d3/d16/a19378" ],
+    [ "instance_halls_of_stone", "d5/dfd/a19374.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d5/dfd/a19374.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

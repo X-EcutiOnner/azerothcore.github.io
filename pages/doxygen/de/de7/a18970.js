@@ -1,6 +1,10 @@
 var a18970 =
 [
-    [ "npc_eoe_wyrmrest_skytalonAI", "dc/d84/a18974.html", "dc/d84/a18974" ],
-    [ "npc_eoe_wyrmrest_skytalon", "de/de7/a18970.html#a55685de624b277840f8fc0c397b8aebf", null ],
-    [ "GetAI", "de/de7/a18970.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
+    [ "npc_scion_of_eternityAI", "de/de7/a18970.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
+    [ "AttackStart", "de/de7/a18970.html#a1335f9e34ff73d5501455062be025ada", null ],
+    [ "JustDied", "de/de7/a18970.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
+    [ "MoveInLineOfSight", "de/de7/a18970.html#a74a69fa532f0921285ef678bbd2fa761", null ],
+    [ "UpdateAI", "de/de7/a18970.html#adb16afb6ea1583a7156b80a8d833951a", null ],
+    [ "events", "de/de7/a18970.html#ae0e194a24a14033a499e68524da1699d", null ],
+    [ "pInstance", "de/de7/a18970.html#aa828ca4a75696645d7aa350f1f981f40", null ]
 ];

@@ -1,8 +1,8 @@
 var a01610 =
 [
-    [ "ChampionPosition", "de/d65/a16834.html", "de/d65/a16834" ],
-    [ "FBSPosition", "dc/dc7/a16838.html", "dc/dc7/a16838" ],
-    [ "TSPosition", "d0/dd4/a16842.html", "d0/dd4/a16842" ],
+    [ "ChampionPosition", "d1/d46/a16854.html", "d1/d46/a16854" ],
+    [ "FBSPosition", "d6/dee/a16858.html", "d6/dee/a16858" ],
+    [ "TSPosition", "d6/d04/a16862.html", "d6/d04/a16862" ],
     [ "DataHeader", "d9/dfd/a01610.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "PATH_BEGIN_VALUE", "d9/dfd/a01610.html#a5e53249f20085a0a3fa19bdb577ee3c0", null ],
     [ "PitOfSaronScriptName", "d9/dfd/a01610.html#ac8331e51ea541bfd050c3deb5dc0a07a", null ],
@@ -62,6 +62,7 @@ var a01610 =
       [ "NPC_HALAZZI", "d1/dce/a02168.html#a92f6fd626e1834a4cc509efc1186963ea51c882596018d2ba15340b72c3be9e47", null ],
       [ "NPC_NALORAKK", "d1/dce/a02168.html#a92f6fd626e1834a4cc509efc1186963ea3ffa8fa2bed01ab7bf2d149c1def595f", null ],
       [ "NPC_SPIRIT_LYNX", "d1/dce/a02168.html#a92f6fd626e1834a4cc509efc1186963ea8f225a27e896bcfd28fb1d28b9126752", null ],
+      [ "NPC_AMANISHI_SAVAGE", "d1/dce/a02168.html#a92f6fd626e1834a4cc509efc1186963ea7805d9901831a80354c2e2b8f72b2082", null ],
       [ "NPC_AMANISHI_WARBRINGER", "d1/dce/a02168.html#a92f6fd626e1834a4cc509efc1186963ea865f43e14a3e455e9d3f41717a595cf2", null ],
       [ "NPC_AMANISHI_TRIBESMAN", "d1/dce/a02168.html#a92f6fd626e1834a4cc509efc1186963eaa65853288bfe6b5b24a9b599d453e9a2", null ],
       [ "NPC_AMANISHI_MEDICINE_MAN", "d1/dce/a02168.html#a92f6fd626e1834a4cc509efc1186963eaa4e1fcc7fd793d503f38a8db6d23d4a4", null ],

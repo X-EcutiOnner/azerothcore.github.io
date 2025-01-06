@@ -1,6 +1,5 @@
 var a17286 =
 [
-    [ "npc_gunship_boarding_leaderAI", "d6/d53/a17290.html", "d6/d53/a17290" ],
-    [ "npc_gunship_boarding_leader", "de/d11/a17286.html#a8390eadab34a89643252f573588b140a", null ],
-    [ "GetAI", "de/d11/a17286.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
+    [ "npc_zafod_boomboxAI", "de/d11/a17286.html#a6540d8f5787ce1da211123721ef659f3", null ],
+    [ "sGossipSelect", "de/d11/a17286.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
 ];

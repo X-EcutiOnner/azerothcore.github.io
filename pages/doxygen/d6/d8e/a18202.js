@@ -1,7 +1,6 @@
 var a18202 =
 [
-    [ "npc_blazing_skeletonAI", "d6/d8e/a18202.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "d6/d8e/a18202.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "d6/d8e/a18202.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "d6/d8e/a18202.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "npc_valithria_portalAI", "d9/d7b/a18206.html", "d9/d7b/a18206" ],
+    [ "npc_valithria_portal", "d6/d8e/a18202.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
+    [ "GetAI", "d6/d8e/a18202.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
 ];

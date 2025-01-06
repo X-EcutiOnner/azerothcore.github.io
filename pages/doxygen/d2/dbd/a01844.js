@@ -1,9 +1,9 @@
 var a01844 =
 [
-    [ "boss_drakos", "da/d51/a19058.html", "da/d51/a19058" ],
-    [ "boss_drakos::boss_drakosAI", "d7/d3e/a19062.html", "d7/d3e/a19062" ],
-    [ "npc_oculus_unstable_sphere", "db/d43/a19066.html", "db/d43/a19066" ],
-    [ "npc_oculus_unstable_sphere::npc_oculus_unstable_sphereAI", "da/d75/a19070.html", "da/d75/a19070" ],
+    [ "boss_drakos", "df/d7e/a19078.html", "df/d7e/a19078" ],
+    [ "boss_drakos::boss_drakosAI", "d3/d30/a19082.html", "d3/d30/a19082" ],
+    [ "npc_oculus_unstable_sphere", "d7/d07/a19086.html", "d7/d07/a19086" ],
+    [ "npc_oculus_unstable_sphere::npc_oculus_unstable_sphereAI", "dc/da4/a19090.html", "dc/da4/a19090" ],
     [ "SPELL_THUNDERING_STOMP", "d2/dbd/a01844.html#a49700fd50259585cfac2c788de5e00a8", null ],
     [ "DrakosNPCs", "d2/dbd/a01844.html#a9b6e942098b05e96df3467d6c45f057c", [
       [ "NPC_UNSTABLE_SPHERE", "d2/dbd/a01844.html#a9b6e942098b05e96df3467d6c45f057ca6fbda431676e3cb2a0fe335145f2d815", null ]
@@ -2053,6 +2053,7 @@ var a01844 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

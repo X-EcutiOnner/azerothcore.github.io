@@ -1,6 +1,6 @@
 var a17554 =
 [
-    [ "npc_gas_cloudAI", "d3/d10/a17558.html", "d3/d10/a17558" ],
-    [ "npc_gas_cloud", "d2/d4b/a17554.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
-    [ "GetAI", "d2/d4b/a17554.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
+    [ "boss_professor_putricideAI", "d3/d10/a17558.html", "d3/d10/a17558" ],
+    [ "boss_professor_putricide", "d2/d4b/a17554.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d2/d4b/a17554.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

@@ -1,6 +1,6 @@
 var a21114 =
 [
-    [ "npc_azure_binderAI", "d1/d2e/a21118.html", "d1/d2e/a21118" ],
-    [ "npc_azure_binder", "d9/db1/a21114.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
-    [ "GetAI", "d9/db1/a21114.html#aad091206a8bd06a1064b68b81510eb56", null ]
+    [ "npc_vh_teleportation_portalAI", "d1/d2e/a21118.html", "d1/d2e/a21118" ],
+    [ "npc_vh_teleportation_portal", "d9/db1/a21114.html#a9a554058f594f992a17dbb3887117a6f", null ],
+    [ "GetAI", "d9/db1/a21114.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
 ];

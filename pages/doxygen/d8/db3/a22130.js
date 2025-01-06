@@ -1,17 +1,14 @@
 var a22130 =
 [
-    [ "npc_overlord_drakuru_betrayalAI", "d8/db3/a22130.html#a52cda9357a3672871d2c52312cec7304", null ],
-    [ "DamageTaken", "d8/db3/a22130.html#a031c475bc9e3660f8efb01face303816", null ],
-    [ "EnterEvadeMode", "d8/db3/a22130.html#a3ab85c07b6cc186d37cef571bb9539c0", null ],
-    [ "JustEngagedWith", "d8/db3/a22130.html#a3e758268744c8f52410ebfa05f9d6635", null ],
-    [ "JustSummoned", "d8/db3/a22130.html#a34b76f7a4df8f28a8e80ffc406d60d98", null ],
-    [ "MoveInLineOfSight", "d8/db3/a22130.html#acf4ad45c1145c7b0cd6f05c847546005", null ],
-    [ "Reset", "d8/db3/a22130.html#ad154b8027917a1402840ced87aacac7d", null ],
-    [ "SpellHit", "d8/db3/a22130.html#a836f0886846ac3081a05800fffb0aa0b", null ],
-    [ "SpellHitTarget", "d8/db3/a22130.html#a58eb77bbfec0279908c3ed9a111c6cce", null ],
-    [ "UpdateAI", "d8/db3/a22130.html#aafcdcb353cdc6f19bebec63a31a0da6d", null ],
-    [ "events", "d8/db3/a22130.html#a305f08c7ee071bfe10a4be81715b60f2", null ],
-    [ "lichGUID", "d8/db3/a22130.html#a4cd410df9735a381800ec186572f2f74", null ],
-    [ "playerGUID", "d8/db3/a22130.html#a396917f16afc3bd03ade6c6822bd379e", null ],
-    [ "summons", "d8/db3/a22130.html#a8c2b70321771af8b668e5f76974f854b", null ]
+    [ "npc_finklesteinAI", "d8/db3/a22130.html#a075481689af110f8c20cd5ca13258ba3", null ],
+    [ "ClearPlayerOnTask", "d8/db3/a22130.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
+    [ "GetTaskAura", "d8/db3/a22130.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
+    [ "GetTaskCounter", "d8/db3/a22130.html#a240e8f556176b9571bd08407276402be", null ],
+    [ "GetTaskItemEntry", "d8/db3/a22130.html#a08a3005db6d192663a835b9ee192352b", null ],
+    [ "GetTaskItemName", "d8/db3/a22130.html#adce990629aa1833dc07c7dbb1297cead", null ],
+    [ "IsPlayerOnTask", "d8/db3/a22130.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
+    [ "RightClickCauldron", "d8/db3/a22130.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
+    [ "SelectRandomCode", "d8/db3/a22130.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
+    [ "StartNextTask", "d8/db3/a22130.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
+    [ "questList", "d8/db3/a22130.html#a5c3a3237579721b94dd433841b83bb02", null ]
 ];

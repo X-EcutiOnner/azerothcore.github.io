@@ -1,6 +1,6 @@
 var a17354 =
 [
-    [ "PrepareSpellScript", "dd/df7/a17354.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "dd/df7/a17354.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "dd/df7/a17354.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "PrepareSpellScript", "dd/df7/a17354.html#a47df21229183b628c1d82bf34cbbe396", null ],
+    [ "Register", "dd/df7/a17354.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
+    [ "RelocateTransportOffset", "dd/df7/a17354.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
 ];

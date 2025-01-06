@@ -1,9 +1,9 @@
 var a19190 =
 [
-    [ "npc_stormforged_lieutenantAI", "d8/d3f/a19190.html#a74d84534c39e7e6f3774099fd6b28d29", null ],
-    [ "JustEngagedWith", "d8/d3f/a19190.html#a112bd4adaa290afd04d229347a96ff4a", null ],
-    [ "Reset", "d8/d3f/a19190.html#aaef10316b8f7c3e980082cab722ffe9f", null ],
-    [ "UpdateAI", "d8/d3f/a19190.html#a3944886823dad81bcd5d72e020910143", null ],
-    [ "BjarngrimGUID", "d8/d3f/a19190.html#a4003deba30ff47ed3296325112b6cb0e", null ],
-    [ "events", "d8/d3f/a19190.html#a530d16086a9e613f6f0299186f8bcc33", null ]
+    [ "HandleOnEffectApply", "d8/d3f/a19190.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "d8/d3f/a19190.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "d8/d3f/a19190.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "d8/d3f/a19190.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "d8/d3f/a19190.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "d8/d3f/a19190.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

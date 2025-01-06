@@ -1,5 +1,6 @@
 var a14246 =
 [
-    [ "achievement_pb_terokkar_turkey_time", "d8/dda/a14246.html#a68e536379b04e060f44819c9831766c2", null ],
-    [ "OnCheck", "d8/dda/a14246.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
+    [ "HandleScriptEffect", "d8/dda/a14246.html#a074f54a4b022adc6ea34b3716dec745f", null ],
+    [ "PrepareSpellScript", "d8/dda/a14246.html#a725d5bc1f76614778b140f3061aa2e03", null ],
+    [ "Register", "d8/dda/a14246.html#a339df7ae9553fbae68ce791baef1df5e", null ]
 ];

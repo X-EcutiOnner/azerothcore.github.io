@@ -1,6 +1,8 @@
 var a16510 =
 [
-    [ "entry", "da/df6/a16510.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "da/df6/a16510.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "da/df6/a16510.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "npc_fos_leaderAI", "dc/d25/a16514.html", "dc/d25/a16514" ],
+    [ "npc_fos_leader", "da/df6/a16510.html#a4223072bc180e990ff9e01bf772def5b", null ],
+    [ "GetAI", "da/df6/a16510.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
+    [ "OnGossipHello", "da/df6/a16510.html#a3858054505d439902624378b9355f40d", null ],
+    [ "OnGossipSelect", "da/df6/a16510.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
 ];

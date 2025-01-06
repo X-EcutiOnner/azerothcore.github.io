@@ -1,7 +1,7 @@
 var a15350 =
 [
-    [ "npc_wizzlecrank_shredderAI", "d5/d31/a15354.html", "d5/d31/a15354" ],
-    [ "npc_wizzlecrank_shredder", "d0/d4f/a15350.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
-    [ "GetAI", "d0/d4f/a15350.html#a5c42cc6d8cf2642333731138077af66e", null ],
-    [ "OnQuestAccept", "d0/d4f/a15350.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
+    [ "npc_giltharesAI", "d0/d4f/a15350.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "d0/d4f/a15350.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "d0/d4f/a15350.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "d0/d4f/a15350.html#a9308c73760e50e0f3d04031b508526d1", null ]
 ];

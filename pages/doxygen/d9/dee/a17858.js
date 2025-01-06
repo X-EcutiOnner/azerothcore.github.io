@@ -1,9 +1,6 @@
 var a17858 =
 [
-    [ "ShadowTrapLKTargetSelector", "d9/dee/a17858.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "d9/dee/a17858.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "d9/dee/a17858.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "d9/dee/a17858.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "d9/dee/a17858.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "d9/dee/a17858.html#af416013aabf3b217b07228072076603d", null ]
+    [ "OrderWhelpTargetSelector", "d9/dee/a17858.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
+    [ "operator()", "d9/dee/a17858.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
+    [ "_owner", "d9/dee/a17858.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
 ];

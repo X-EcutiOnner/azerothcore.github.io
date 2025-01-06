@@ -1,7 +1,5 @@
 var a22710 =
 [
-    [ "HandleOnHit", "d1/d49/a22710.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "d1/d49/a22710.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "d1/d49/a22710.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "d1/d49/a22710.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "npc_vengeful_spirit", "d1/d49/a22710.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
+    [ "OnCharmed", "d1/d49/a22710.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
 ];

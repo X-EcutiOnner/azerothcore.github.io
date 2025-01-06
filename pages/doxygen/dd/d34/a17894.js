@@ -1,8 +1,7 @@
 var a17894 =
 [
-    [ "NecroticPlagueTargetCheck", "dd/d34/a17894.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
-    [ "operator()", "dd/d34/a17894.html#a801a176e367a9f4446fe080845477654", null ],
-    [ "_notAura1", "dd/d34/a17894.html#a4f52417f233e1ab06210726670f719f3", null ],
-    [ "_notAura2", "dd/d34/a17894.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
-    [ "_sourceObj", "dd/d34/a17894.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
+    [ "StartMovementEvent", "dd/d34/a17894.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
+    [ "Execute", "dd/d34/a17894.html#af1a043d953bcffe9341292e85cae2f55", null ],
+    [ "_owner", "dd/d34/a17894.html#ac2f4166af128a161c471b243144856ba", null ],
+    [ "_summoner", "dd/d34/a17894.html#afe1f7bcb3569758bc075380a24527067", null ]
 ];

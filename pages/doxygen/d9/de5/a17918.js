@@ -1,8 +1,8 @@
 var a17918 =
 [
-    [ "FilterTargets", "d9/de5/a17918.html#a242fa53c2da9ac557623281bccf2af92", null ],
-    [ "HandleSendEvent", "d9/de5/a17918.html#a6120e057e2ee39d34eaeab79782add8d", null ],
-    [ "Load", "d9/de5/a17918.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
-    [ "PrepareSpellScript", "d9/de5/a17918.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
-    [ "Register", "d9/de5/a17918.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
+    [ "HeightDifferenceCheck", "d9/de5/a17918.html#aa8b61811e435cce456e5cb1d798be66e", null ],
+    [ "operator()", "d9/de5/a17918.html#a1db203642683f85176f2a35eb3d10c34", null ],
+    [ "_baseObject", "d9/de5/a17918.html#a7c274be02ca58429dffaee2ea34153c6", null ],
+    [ "_difference", "d9/de5/a17918.html#af95e2bf67c8316dda982896978c45a68", null ],
+    [ "_reverse", "d9/de5/a17918.html#a89074844d5fd8b02ed99c09ac4cc5b85", null ]
 ];

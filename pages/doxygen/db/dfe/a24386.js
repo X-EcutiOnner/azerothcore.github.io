@@ -1,7 +1,10 @@
 var a24386 =
 [
-    [ "AfterApply", "db/dfe/a24386.html#adae232af9445638b3d54e81d414483b7", null ],
-    [ "AfterRemove", "db/dfe/a24386.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
-    [ "PrepareAuraScript", "db/dfe/a24386.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
-    [ "Register", "db/dfe/a24386.html#abff75ea597dcc017a359a5ef3ada4314", null ]
+    [ "Absorb", "db/dfe/a24386.html#a5ab2041dcc342b087d8c6fd9b8d2635f", null ],
+    [ "CalculateAmount", "db/dfe/a24386.html#aed6e525b71f18dafb6f458bc255a6495", null ],
+    [ "Load", "db/dfe/a24386.html#af73fcf4a73ba60e214c045471569f7b0", null ],
+    [ "PrepareAuraScript", "db/dfe/a24386.html#a884927612b8ab2712a057da72f8180c6", null ],
+    [ "Register", "db/dfe/a24386.html#a380b63aec7c567c8db60f4c69a4e6043", null ],
+    [ "Validate", "db/dfe/a24386.html#af58ba552be9c91e8885ef1ccd567c96a", null ],
+    [ "absorbPct", "db/dfe/a24386.html#a64e8bcde6ee27dd00e77d7bfa0864e81", null ]
 ];

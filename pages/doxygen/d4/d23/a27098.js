@@ -1,5 +1,6 @@
 var a27098 =
 [
-    [ "item_disgusting_jar", "d4/d23/a27098.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
-    [ "OnExpire", "d4/d23/a27098.html#a4f6967035a4d247914a6034fcebac5c5", null ]
+    [ "guard_shattrath_aldorAI", "d1/df0/a27102.html", "d1/df0/a27102" ],
+    [ "guard_shattrath_aldor", "d4/d23/a27098.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "d4/d23/a27098.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

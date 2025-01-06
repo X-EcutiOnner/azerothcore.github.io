@@ -1,5 +1,7 @@
 var a14966 =
 [
-    [ "at_battleguard_sartura", "df/d55/a14966.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
-    [ "OnTrigger", "df/d55/a14966.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
+    [ "npc_anubisath_warder", "df/d55/a14966.html#aebe14673e5c31000a9626e39d87c6775", null ],
+    [ "JustEngagedWith", "df/d55/a14966.html#a579318fa519eb669573b2cea78c2fee3", null ],
+    [ "Reset", "df/d55/a14966.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
+    [ "UpdateAI", "df/d55/a14966.html#aba428f1f1a016191aa4f168c616c3a29", null ]
 ];

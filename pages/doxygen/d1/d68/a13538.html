@@ -537,6 +537,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:ab7e531fccbb486b7b429d77d804841c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a40ccd2e586895ab1cde3c51bcd56c11b"><td class="memItemLeft" align="right" valign="top">std::chrono::milliseconds&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d68/a13538.html#a40ccd2e586895ab1cde3c51bcd56c11b">_classAbilityTimer</a></td></tr>
 <tr class="separator:a40ccd2e586895ab1cde3c51bcd56c11b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa6963eb30a6e8555d4695bf284b13cac"><td class="memItemLeft" align="right" valign="top">std::chrono::milliseconds&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d68/a13538.html#aa6963eb30a6e8555d4695bf284b13cac">_timeUntilNextDrainPower</a></td></tr>
+<tr class="separator:aa6963eb30a6e8555d4695bf284b13cac"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac13b0f08fec4270ed372f00ae540fdc3"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d4/d1e/a00497.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d68/a13538.html#ac13b0f08fec4270ed372f00ae540fdc3">_creatureIndex</a></td></tr>
 <tr class="separator:ac13b0f08fec4270ed372f00ae540fdc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -654,13 +656,13 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  232</span>                                               : <a class="code hl_class" href="../../d8/d2f/a06122.html">BossAI</a>(creature, <a class="code hl_enumvalue" href="../../d1/dce/a02168.html#afb6eb4f28419b652027fad41104a6d22a5e4cc04f171279d2ff3e5fc93467807f">DATA_HEXLORD</a>)</div>
-<div class="line"><span class="lineno">  233</span>    {</div>
-<div class="line"><span class="lineno">  234</span>        <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#af2bb90b6b81ab1cacd9ac56c3d7e11b2">SetValidator</a>([<span class="keyword">this</span>]</div>
-<div class="line"><span class="lineno">  235</span>        {</div>
-<div class="line"><span class="lineno">  236</span>            <span class="keywordflow">return</span> !<a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d8/dbe/a03521.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>);</div>
-<div class="line"><span class="lineno">  237</span>        });</div>
-<div class="line"><span class="lineno">  238</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  233</span>                                               : <a class="code hl_class" href="../../d8/d2f/a06122.html">BossAI</a>(creature, <a class="code hl_enumvalue" href="../../d1/dce/a02168.html#afb6eb4f28419b652027fad41104a6d22a5e4cc04f171279d2ff3e5fc93467807f">DATA_HEXLORD</a>)</div>
+<div class="line"><span class="lineno">  234</span>    {</div>
+<div class="line"><span class="lineno">  235</span>        <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#af2bb90b6b81ab1cacd9ac56c3d7e11b2">SetValidator</a>([<span class="keyword">this</span>]</div>
+<div class="line"><span class="lineno">  236</span>        {</div>
+<div class="line"><span class="lineno">  237</span>            <span class="keywordflow">return</span> !<a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d8/dbe/a03521.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>);</div>
+<div class="line"><span class="lineno">  238</span>        });</div>
+<div class="line"><span class="lineno">  239</span>    }</div>
 <div class="ttc" id="aa02168_html_afb6eb4f28419b652027fad41104a6d22a5e4cc04f171279d2ff3e5fc93467807f"><div class="ttname"><a href="../../d1/dce/a02168.html#afb6eb4f28419b652027fad41104a6d22a5e4cc04f171279d2ff3e5fc93467807f">DATA_HEXLORD</a></div><div class="ttdeci">@ DATA_HEXLORD</div><div class="ttdef"><b>Definition:</b> zulaman.h:32</div></div>
 <div class="ttc" id="aa03521_html_ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54"><div class="ttname"><a href="../../d8/dbe/a03521.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a></div><div class="ttdeci">@ UNIT_STATE_CASTING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:185</div></div>
 <div class="ttc" id="aa05450_html_af2bb90b6b81ab1cacd9ac56c3d7e11b2"><div class="ttname"><a href="../../d1/db8/a05450.html#af2bb90b6b81ab1cacd9ac56c3d7e11b2">TaskScheduler::SetValidator</a></div><div class="ttdeci">TaskScheduler &amp; SetValidator(P &amp;&amp;predicate)</div><div class="ttdoc">Sets a validator which is asked if tasks are allowed to be executed.</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:197</div></div>
@@ -701,44 +703,55 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d8/d2f/a06122.html#a04dd3e06f19801bb419613f7d7482fa6">BossAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  273</span>    {</div>
-<div class="line"><span class="lineno">  274</span>        <a class="code hl_function" href="../../d8/d2f/a06122.html#a04dd3e06f19801bb419613f7d7482fa6">BossAI::JustEngagedWith</a>(who);</div>
-<div class="line"><span class="lineno">  275</span>        <a class="code hl_enumeration" href="../../d3/ddc/a01142.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a>);</div>
-<div class="line"><span class="lineno">  276</span>        <a class="code hl_variable" href="../../d8/d2f/a06122.html#a9deaaae20cd3bd12dcc3889f79b2c6cc">summons</a>.<a class="code hl_function" href="../../df/d5b/a06102.html#a7dbcc44c80ff46b732c551620710423b">DoForAllSummons</a>([&amp;](<a class="code hl_class" href="../../de/d0d/a08250.html">WorldObject</a>* summon)</div>
-<div class="line"><span class="lineno">  277</span>        {</div>
-<div class="line"><span class="lineno">  278</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d8/d56/a07846.html">Creature</a>* add = summon-&gt;<a class="code hl_function" href="../../de/d68/a08218.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>())</div>
-<div class="line"><span class="lineno">  279</span>                add-&gt;SetInCombatWithZone();</div>
-<div class="line"><span class="lineno">  280</span>        });</div>
-<div class="line"><span class="lineno">  281</span> </div>
-<div class="line"><span class="lineno">  282</span>        <a class="code hl_function" href="../../de/d8c/a06114.html#ab684336d8fd4e24883561a1a590a2b22">ScheduleTimedEvent</a>(30s, [&amp;]{</div>
-<div class="line"><span class="lineno">  283</span>            <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#aa4076cb693d644584f7475dd4f5f4b5d">CancelGroup</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8aaab438cd70047fa9299e78971c4f4">GROUP_CLASS_ABILITY</a>);</div>
-<div class="line"><span class="lineno">  284</span>            <a class="code hl_function" href="../../d4/db5/a06058.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a5bd342133be8c2137b831460acc9298ca1b7ddd9be5786e146935c79b0da8840e">SPELL_SPIRIT_BOLTS</a>);</div>
-<div class="line"><span class="lineno">  285</span>            <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(10s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d8/d03/a05466.html">TaskContext</a>)</div>
-<div class="line"><span class="lineno">  286</span>            {</div>
-<div class="line"><span class="lineno">  287</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d8/d56/a07846.html">Creature</a>* siphonTrigger = <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d0d/a08250.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a25a619e6b66096a4f05d048e4a96df08a72a1b110048bef8e11035aa06d25035d">NPC_TEMP_TRIGGER</a>, <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d21/a08294.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>(), <a class="code hl_enumvalue" href="../../d4/d4b/a03464.html#a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2">TEMPSUMMON_TIMED_DESPAWN</a>, 30000))</div>
-<div class="line"><span class="lineno">  288</span>                {</div>
-<div class="line"><span class="lineno">  289</span>                    if (Unit* target = SelectTarget(SelectTargetMethod::Random, 0, 70, true))</div>
-<div class="line"><span class="lineno">  290</span>                    {</div>
-<div class="line"><span class="lineno">  291</span>                        siphonTrigger-&gt;SetDisplayId(11686);</div>
-<div class="line"><span class="lineno">  292</span>                        siphonTrigger-&gt;SetUnitFlag(UNIT_FLAG_NOT_SELECTABLE);</div>
-<div class="line"><span class="lineno">  293</span>                        siphonTrigger-&gt;AI()-&gt;DoCast(target, SPELL_SIPHON_SOUL, true);</div>
-<div class="line"><span class="lineno">  294</span>                        siphonTrigger-&gt;GetMotionMaster()-&gt;MoveFollow(me, 0.0f, 0.0f);</div>
-<div class="line"><span class="lineno">  295</span>                        if (Player* player = target-&gt;ToPlayer())</div>
-<div class="line"><span class="lineno">  296</span>                            _currentClass = player-&gt;HasAura(AURA_SHADOW_FORM) ? uint8(ADDITIONAL_CLASS_SPRIEST) : player-&gt;getClass();</div>
-<div class="line"><span class="lineno">  297</span> </div>
-<div class="line"><span class="lineno">  298</span>                        ScheduleClassAbility();</div>
-<div class="line"><span class="lineno">  299</span>                    }</div>
-<div class="line"><span class="lineno">  300</span>                }</div>
-<div class="line"><span class="lineno">  301</span>            });</div>
-<div class="line"><span class="lineno">  302</span>        }, 40s);</div>
-<div class="line"><span class="lineno">  303</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  277</span>    {</div>
+<div class="line"><span class="lineno">  278</span>        <a class="code hl_function" href="../../d8/d2f/a06122.html#a04dd3e06f19801bb419613f7d7482fa6">BossAI::JustEngagedWith</a>(who);</div>
+<div class="line"><span class="lineno">  279</span>        <a class="code hl_enumeration" href="../../d3/ddc/a01142.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a>);</div>
+<div class="line"><span class="lineno">  280</span>        <a class="code hl_variable" href="../../d8/d2f/a06122.html#a9deaaae20cd3bd12dcc3889f79b2c6cc">summons</a>.<a class="code hl_function" href="../../df/d5b/a06102.html#a7dbcc44c80ff46b732c551620710423b">DoForAllSummons</a>([&amp;](<a class="code hl_class" href="../../de/d0d/a08250.html">WorldObject</a>* summon)</div>
+<div class="line"><span class="lineno">  281</span>        {</div>
+<div class="line"><span class="lineno">  282</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d8/d56/a07846.html">Creature</a>* add = summon-&gt;<a class="code hl_function" href="../../de/d68/a08218.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>())</div>
+<div class="line"><span class="lineno">  283</span>                add-&gt;SetInCombatWithZone();</div>
+<div class="line"><span class="lineno">  284</span>        });</div>
+<div class="line"><span class="lineno">  285</span> </div>
+<div class="line"><span class="lineno">  286</span>        <a class="code hl_function" href="../../de/d8c/a06114.html#ab684336d8fd4e24883561a1a590a2b22">ScheduleTimedEvent</a>(30s, [&amp;]{</div>
+<div class="line"><span class="lineno">  287</span>            <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#aa4076cb693d644584f7475dd4f5f4b5d">CancelGroup</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8aaab438cd70047fa9299e78971c4f4">GROUP_CLASS_ABILITY</a>);</div>
+<div class="line"><span class="lineno">  288</span>            <a class="code hl_function" href="../../d4/db5/a06058.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a5bd342133be8c2137b831460acc9298ca1b7ddd9be5786e146935c79b0da8840e">SPELL_SPIRIT_BOLTS</a>);</div>
+<div class="line"><span class="lineno">  289</span>            <span class="comment">// Delay Drain Power if it&#39;s currently within 10s of being cast</span></div>
+<div class="line"><span class="lineno">  290</span>            <span class="comment">// TODO: see what is wrong with GetNextGroupOccurrence as the timers don&#39;t seem correct on resets</span></div>
+<div class="line"><span class="lineno">  291</span>            <a class="code hl_variable" href="../../d1/d68/a13538.html#aa6963eb30a6e8555d4695bf284b13cac">_timeUntilNextDrainPower</a> = <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#a8795b39f795f7d3ed13d21fcce3326c2">GetNextGroupOccurrence</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afec21b3ce2b83056ea6ccf2336110b3d">GROUP_DRAIN_POWER</a>);</div>
+<div class="line"><span class="lineno">  292</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d68/a13538.html#aa6963eb30a6e8555d4695bf284b13cac">_timeUntilNextDrainPower</a> &gt; 0s &amp;&amp; <a class="code hl_variable" href="../../d1/d68/a13538.html#aa6963eb30a6e8555d4695bf284b13cac">_timeUntilNextDrainPower</a> &lt; 10s)</div>
+<div class="line"><span class="lineno">  293</span>            {</div>
+<div class="line"><span class="lineno">  294</span>                std::chrono::milliseconds delayTime = 10s - <a class="code hl_variable" href="../../d1/d68/a13538.html#aa6963eb30a6e8555d4695bf284b13cac">_timeUntilNextDrainPower</a> + 1s;</div>
+<div class="line"><span class="lineno">  295</span>                <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#a91f6ef47e22b95b487999bbaaa303c82">DelayGroup</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afec21b3ce2b83056ea6ccf2336110b3d">GROUP_DRAIN_POWER</a>, delayTime);</div>
+<div class="line"><span class="lineno">  296</span>            }</div>
+<div class="line"><span class="lineno">  297</span>            <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(10s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d8/d03/a05466.html">TaskContext</a>)</div>
+<div class="line"><span class="lineno">  298</span>            {</div>
+<div class="line"><span class="lineno">  299</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d8/d56/a07846.html">Creature</a>* siphonTrigger = <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d0d/a08250.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a25a619e6b66096a4f05d048e4a96df08a72a1b110048bef8e11035aa06d25035d">NPC_TEMP_TRIGGER</a>, <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d21/a08294.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>(), <a class="code hl_enumvalue" href="../../d4/d4b/a03464.html#a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2">TEMPSUMMON_TIMED_DESPAWN</a>, 30000))</div>
+<div class="line"><span class="lineno">  300</span>                {</div>
+<div class="line"><span class="lineno">  301</span>                    if (Unit* target = SelectTarget(SelectTargetMethod::Random, 0, 70, true))</div>
+<div class="line"><span class="lineno">  302</span>                    {</div>
+<div class="line"><span class="lineno">  303</span>                        siphonTrigger-&gt;SetDisplayId(11686);</div>
+<div class="line"><span class="lineno">  304</span>                        siphonTrigger-&gt;SetUnitFlag(UNIT_FLAG_NOT_SELECTABLE);</div>
+<div class="line"><span class="lineno">  305</span>                        siphonTrigger-&gt;AI()-&gt;DoCast(target, SPELL_SIPHON_SOUL, true);</div>
+<div class="line"><span class="lineno">  306</span>                        siphonTrigger-&gt;GetMotionMaster()-&gt;MoveFollow(me, 0.0f, 0.0f);</div>
+<div class="line"><span class="lineno">  307</span>                        if (Player* player = target-&gt;ToPlayer())</div>
+<div class="line"><span class="lineno">  308</span>                            _currentClass = player-&gt;HasAura(AURA_SHADOW_FORM) ? uint8(ADDITIONAL_CLASS_SPRIEST) : player-&gt;getClass();</div>
+<div class="line"><span class="lineno">  309</span> </div>
+<div class="line"><span class="lineno">  310</span>                        ScheduleClassAbility();</div>
+<div class="line"><span class="lineno">  311</span>                    }</div>
+<div class="line"><span class="lineno">  312</span>                }</div>
+<div class="line"><span class="lineno">  313</span>            });</div>
+<div class="line"><span class="lineno">  314</span>        }, 40s);</div>
+<div class="line"><span class="lineno">  315</span>    }</div>
 <div class="ttc" id="aa01142_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../d3/ddc/a01142.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition:</b> hyjal.cpp:82</div></div>
 <div class="ttc" id="aa02171_html_a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe"><div class="ttname"><a href="../../d6/d1e/a02171.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a></div><div class="ttdeci">@ SAY_AGGRO</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:28</div></div>
 <div class="ttc" id="aa02171_html_a25a619e6b66096a4f05d048e4a96df08a72a1b110048bef8e11035aa06d25035d"><div class="ttname"><a href="../../d6/d1e/a02171.html#a25a619e6b66096a4f05d048e4a96df08a72a1b110048bef8e11035aa06d25035d">NPC_TEMP_TRIGGER</a></div><div class="ttdeci">@ NPC_TEMP_TRIGGER</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:38</div></div>
 <div class="ttc" id="aa02171_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8aaab438cd70047fa9299e78971c4f4"><div class="ttname"><a href="../../d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8aaab438cd70047fa9299e78971c4f4">GROUP_CLASS_ABILITY</a></div><div class="ttdeci">@ GROUP_CLASS_ABILITY</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:138</div></div>
+<div class="ttc" id="aa02171_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6afec21b3ce2b83056ea6ccf2336110b3d"><div class="ttname"><a href="../../d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afec21b3ce2b83056ea6ccf2336110b3d">GROUP_DRAIN_POWER</a></div><div class="ttdeci">@ GROUP_DRAIN_POWER</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:139</div></div>
 <div class="ttc" id="aa02171_html_a5bd342133be8c2137b831460acc9298ca1b7ddd9be5786e146935c79b0da8840e"><div class="ttname"><a href="../../d6/d1e/a02171.html#a5bd342133be8c2137b831460acc9298ca1b7ddd9be5786e146935c79b0da8840e">SPELL_SPIRIT_BOLTS</a></div><div class="ttdeci">@ SPELL_SPIRIT_BOLTS</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:52</div></div>
 <div class="ttc" id="aa03464_html_a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2"><div class="ttname"><a href="../../d4/d4b/a03464.html#a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2">TEMPSUMMON_TIMED_DESPAWN</a></div><div class="ttdeci">@ TEMPSUMMON_TIMED_DESPAWN</div><div class="ttdef"><b>Definition:</b> Object.h:48</div></div>
 <div class="ttc" id="aa05450_html_a0e0579d2a2397de5a79c756d5e59a830"><div class="ttname"><a href="../../d1/db8/a05450.html#a0e0579d2a2397de5a79c756d5e59a830">TaskScheduler::Schedule</a></div><div class="ttdeci">TaskScheduler &amp; Schedule(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;time, task_handler_t const &amp;task)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:232</div></div>
+<div class="ttc" id="aa05450_html_a8795b39f795f7d3ed13d21fcce3326c2"><div class="ttname"><a href="../../d1/db8/a05450.html#a8795b39f795f7d3ed13d21fcce3326c2">TaskScheduler::GetNextGroupOccurrence</a></div><div class="ttdeci">Milliseconds GetNextGroupOccurrence(group_t const group) const</div><div class="ttdef"><b>Definition:</b> TaskScheduler.cpp:127</div></div>
+<div class="ttc" id="aa05450_html_a91f6ef47e22b95b487999bbaaa303c82"><div class="ttname"><a href="../../d1/db8/a05450.html#a91f6ef47e22b95b487999bbaaa303c82">TaskScheduler::DelayGroup</a></div><div class="ttdeci">TaskScheduler &amp; DelayGroup(group_t const group, std::chrono::duration&lt; _Rep, _Period &gt; const &amp;duration)</div><div class="ttdoc">Delays all tasks of a group with the given duration.</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:303</div></div>
 <div class="ttc" id="aa05450_html_aa4076cb693d644584f7475dd4f5f4b5d"><div class="ttname"><a href="../../d1/db8/a05450.html#aa4076cb693d644584f7475dd4f5f4b5d">TaskScheduler::CancelGroup</a></div><div class="ttdeci">TaskScheduler &amp; CancelGroup(group_t const group)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.cpp:53</div></div>
 <div class="ttc" id="aa05466_html"><div class="ttname"><a href="../../d8/d03/a05466.html">TaskContext</a></div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:421</div></div>
 <div class="ttc" id="aa06058_html_a6ae5c7d15b747433f4d94f80bcebd215"><div class="ttname"><a href="../../d4/db5/a06058.html#a6ae5c7d15b747433f4d94f80bcebd215">UnitAI::DoCastSelf</a></div><div class="ttdeci">SpellCastResult DoCastSelf(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition:</b> UnitAI.h:392</div></div>
@@ -751,8 +764,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa08250_html"><div class="ttname"><a href="../../de/d0d/a08250.html">WorldObject</a></div><div class="ttdef"><b>Definition:</b> Object.h:410</div></div>
 <div class="ttc" id="aa08250_html_a1077c11c335f60013fdf7e7684bba519"><div class="ttname"><a href="../../de/d0d/a08250.html#a1077c11c335f60013fdf7e7684bba519">WorldObject::SummonCreature</a></div><div class="ttdeci">TempSummon * SummonCreature(uint32 id, const Position &amp;pos, TempSummonType spwtype=TEMPSUMMON_MANUAL_DESPAWN, uint32 despwtime=0, uint32 vehId=0, SummonPropertiesEntry const *properties=nullptr, bool visibleBySummonerOnly=false) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2368</div></div>
 <div class="ttc" id="aa08294_html_ad8e55f9b39618093aa625abe3a06e1ed"><div class="ttname"><a href="../../d8/d21/a08294.html#ad8e55f9b39618093aa625abe3a06e1ed">Position::GetPosition</a></div><div class="ttdeci">void GetPosition(float &amp;x, float &amp;y) const</div><div class="ttdef"><b>Definition:</b> Position.h:121</div></div>
+<div class="ttc" id="aa13538_html_aa6963eb30a6e8555d4695bf284b13cac"><div class="ttname"><a href="../../d1/d68/a13538.html#aa6963eb30a6e8555d4695bf284b13cac">boss_hexlord_malacrass::_timeUntilNextDrainPower</a></div><div class="ttdeci">std::chrono::milliseconds _timeUntilNextDrainPower</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:369</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">TaskScheduler::CancelGroup()</a>, <a class="el" href="../../#l00392">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00140">SummonList::DoForAllSummons()</a>, <a class="el" href="../../#l00121">Position::GetPosition()</a>, <a class="el" href="../../#l00138">GROUP_CLASS_ABILITY</a>, <a class="el" href="../../#l00497">BossAI::JustEngagedWith()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00038">NPC_TEMP_TRIGGER</a>, <a class="el" href="../../#l00028">SAY_AGGRO</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, <a class="el" href="../../#l00321">ScriptedAI::ScheduleTimedEvent()</a>, <a class="el" href="../../#l00052">SPELL_SPIRIT_BOLTS</a>, <a class="el" href="../../#l02368">WorldObject::SummonCreature()</a>, <a class="el" href="../../#l00511">BossAI::summons</a>, <a class="el" href="../../#l00048">TEMPSUMMON_TIMED_DESPAWN</a>, and <a class="el" href="../../#l00205">Object::ToCreature()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00369">_timeUntilNextDrainPower</a>, <a class="el" href="../../#l00053">TaskScheduler::CancelGroup()</a>, <a class="el" href="../../#l00303">TaskScheduler::DelayGroup()</a>, <a class="el" href="../../#l00392">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00140">SummonList::DoForAllSummons()</a>, <a class="el" href="../../#l00127">TaskScheduler::GetNextGroupOccurrence()</a>, <a class="el" href="../../#l00121">Position::GetPosition()</a>, <a class="el" href="../../#l00138">GROUP_CLASS_ABILITY</a>, <a class="el" href="../../#l00139">GROUP_DRAIN_POWER</a>, <a class="el" href="../../#l00497">BossAI::JustEngagedWith()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00038">NPC_TEMP_TRIGGER</a>, <a class="el" href="../../#l00028">SAY_AGGRO</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, <a class="el" href="../../#l00321">ScriptedAI::ScheduleTimedEvent()</a>, <a class="el" href="../../#l00052">SPELL_SPIRIT_BOLTS</a>, <a class="el" href="../../#l02368">WorldObject::SummonCreature()</a>, <a class="el" href="../../#l00511">BossAI::summons</a>, <a class="el" href="../../#l00048">TEMPSUMMON_TIMED_DESPAWN</a>, and <a class="el" href="../../#l00205">Object::ToCreature()</a>.</p>
 
 </div>
 </div>
@@ -781,13 +795,13 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../de/d8c/a06114.html#a8d6c7fd71269453c229326c9785006e8">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  347</span>    {</div>
-<div class="line"><span class="lineno">  348</span>        <a class="code hl_function" href="../../db/dd3/a06070.html#ab9ec4de552a9f0b08b8494bb782eed58">BossAI::KilledUnit</a>(victim);</div>
-<div class="line"><span class="lineno">  349</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d4/def/a00359.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 1))</div>
-<div class="line"><span class="lineno">  350</span>            <a class="code hl_enumeration" href="../../d3/ddc/a01142.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a16774215bba3b38580ea51987d64cff1ab6a10bbf6ec7839b4bd0efd4ad9064d4">SAY_KILL_ONE</a>);</div>
-<div class="line"><span class="lineno">  351</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  352</span>            <a class="code hl_enumeration" href="../../d3/ddc/a01142.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a16774215bba3b38580ea51987d64cff1aa7c7463b7793dc7152cc6d82ae369710">SAY_KILL_TWO</a>);</div>
-<div class="line"><span class="lineno">  353</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  359</span>    {</div>
+<div class="line"><span class="lineno">  360</span>        <a class="code hl_function" href="../../db/dd3/a06070.html#ab9ec4de552a9f0b08b8494bb782eed58">BossAI::KilledUnit</a>(victim);</div>
+<div class="line"><span class="lineno">  361</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d4/def/a00359.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 1))</div>
+<div class="line"><span class="lineno">  362</span>            <a class="code hl_enumeration" href="../../d3/ddc/a01142.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a16774215bba3b38580ea51987d64cff1ab6a10bbf6ec7839b4bd0efd4ad9064d4">SAY_KILL_ONE</a>);</div>
+<div class="line"><span class="lineno">  363</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  364</span>            <a class="code hl_enumeration" href="../../d3/ddc/a01142.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a16774215bba3b38580ea51987d64cff1aa7c7463b7793dc7152cc6d82ae369710">SAY_KILL_TWO</a>);</div>
+<div class="line"><span class="lineno">  365</span>    }</div>
 <div class="ttc" id="aa00359_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d4/def/a00359.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition:</b> Random.cpp:44</div></div>
 <div class="ttc" id="aa02171_html_a16774215bba3b38580ea51987d64cff1aa7c7463b7793dc7152cc6d82ae369710"><div class="ttname"><a href="../../d6/d1e/a02171.html#a16774215bba3b38580ea51987d64cff1aa7c7463b7793dc7152cc6d82ae369710">SAY_KILL_TWO</a></div><div class="ttdeci">@ SAY_KILL_TWO</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:30</div></div>
 <div class="ttc" id="aa02171_html_a16774215bba3b38580ea51987d64cff1ab6a10bbf6ec7839b4bd0efd4ad9064d4"><div class="ttname"><a href="../../d6/d1e/a02171.html#a16774215bba3b38580ea51987d64cff1ab6a10bbf6ec7839b4bd0efd4ad9064d4">SAY_KILL_ONE</a></div><div class="ttdeci">@ SAY_KILL_ONE</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:29</div></div>
@@ -821,28 +835,32 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d8/d2f/a06122.html#abe75353ec3f0c86502696b8ccb059cb7">BossAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  241</span>    {</div>
-<div class="line"><span class="lineno">  242</span>        <a class="code hl_function" href="../../d8/d2f/a06122.html#abe75353ec3f0c86502696b8ccb059cb7">BossAI::Reset</a>();</div>
-<div class="line"><span class="lineno">  243</span>        <a class="code hl_variable" href="../../d1/d68/a13538.html#ab7e531fccbb486b7b429d77d804841c2">_currentClass</a> = <a class="code hl_enumvalue" href="../../d0/dbd/a02771.html#a86e4e3df7a5142175aa5df522d3346cfaba73da32828f4a4d1fce04f4e0ba5aa0">CLASS_NONE</a>;</div>
-<div class="line"><span class="lineno">  244</span>        <a class="code hl_variable" href="../../d1/d68/a13538.html#a40ccd2e586895ab1cde3c51bcd56c11b">_classAbilityTimer</a> = 10000ms;</div>
-<div class="line"><span class="lineno">  245</span>        <a class="code hl_function" href="../../d1/d68/a13538.html#a8ffb01ebe267b4eb935e373bd0d99eed">SpawnAdds</a>();</div>
-<div class="line"><span class="lineno">  246</span>        <a class="code hl_function" href="../../d8/d2f/a06122.html#aab20c7bf9fd41e651496c529bcc5ad94">ScheduleHealthCheckEvent</a>(80, [&amp;] {</div>
-<div class="line"><span class="lineno">  247</span>            <a class="code hl_function" href="../../de/d8c/a06114.html#ab684336d8fd4e24883561a1a590a2b22">ScheduleTimedEvent</a>(1s, [&amp;] {</div>
-<div class="line"><span class="lineno">  248</span>                <a class="code hl_function" href="../../d4/db5/a06058.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a5bd342133be8c2137b831460acc9298ca7f81baf6969513eaac167c67c10ded6c">SPELL_DRAIN_POWER</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  249</span>                <a class="code hl_enumeration" href="../../d3/ddc/a01142.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a16774215bba3b38580ea51987d64cff1abfcde68c47063fc4c63a7bbe0c8cfff8">SAY_DRAIN_POWER</a>);</div>
-<div class="line"><span class="lineno">  250</span>            }, 30s);</div>
-<div class="line"><span class="lineno">  251</span>        });</div>
-<div class="line"><span class="lineno">  252</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  242</span>    {</div>
+<div class="line"><span class="lineno">  243</span>        <a class="code hl_function" href="../../d8/d2f/a06122.html#abe75353ec3f0c86502696b8ccb059cb7">BossAI::Reset</a>();</div>
+<div class="line"><span class="lineno">  244</span>        <a class="code hl_variable" href="../../d1/d68/a13538.html#ab7e531fccbb486b7b429d77d804841c2">_currentClass</a> = <a class="code hl_enumvalue" href="../../d0/dbd/a02771.html#a86e4e3df7a5142175aa5df522d3346cfaba73da32828f4a4d1fce04f4e0ba5aa0">CLASS_NONE</a>;</div>
+<div class="line"><span class="lineno">  245</span>        <a class="code hl_variable" href="../../d1/d68/a13538.html#a40ccd2e586895ab1cde3c51bcd56c11b">_classAbilityTimer</a> = 10000ms;</div>
+<div class="line"><span class="lineno">  246</span>        <a class="code hl_variable" href="../../d1/d68/a13538.html#aa6963eb30a6e8555d4695bf284b13cac">_timeUntilNextDrainPower</a> = 0ms;</div>
+<div class="line"><span class="lineno">  247</span>        <a class="code hl_function" href="../../d1/d68/a13538.html#a8ffb01ebe267b4eb935e373bd0d99eed">SpawnAdds</a>();</div>
+<div class="line"><span class="lineno">  248</span>        <a class="code hl_function" href="../../d8/d2f/a06122.html#aab20c7bf9fd41e651496c529bcc5ad94">ScheduleHealthCheckEvent</a>(80, [&amp;] {</div>
+<div class="line"><span class="lineno">  249</span>            <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(1s, <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afec21b3ce2b83056ea6ccf2336110b3d">GROUP_DRAIN_POWER</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d8/d03/a05466.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  250</span>            {</div>
+<div class="line"><span class="lineno">  251</span>                <a class="code hl_function" href="../../d4/db5/a06058.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a5bd342133be8c2137b831460acc9298ca7f81baf6969513eaac167c67c10ded6c">SPELL_DRAIN_POWER</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  252</span>                <a class="code hl_enumeration" href="../../d3/ddc/a01142.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a16774215bba3b38580ea51987d64cff1abfcde68c47063fc4c63a7bbe0c8cfff8">SAY_DRAIN_POWER</a>);</div>
+<div class="line"><span class="lineno">  253</span>                context.<a class="code hl_function" href="../../d8/d03/a05466.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(30s);</div>
+<div class="line"><span class="lineno">  254</span>            });</div>
+<div class="line"><span class="lineno">  255</span>        });</div>
+<div class="line"><span class="lineno">  256</span>    }</div>
 <div class="ttc" id="aa02171_html_a16774215bba3b38580ea51987d64cff1abfcde68c47063fc4c63a7bbe0c8cfff8"><div class="ttname"><a href="../../d6/d1e/a02171.html#a16774215bba3b38580ea51987d64cff1abfcde68c47063fc4c63a7bbe0c8cfff8">SAY_DRAIN_POWER</a></div><div class="ttdeci">@ SAY_DRAIN_POWER</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:31</div></div>
 <div class="ttc" id="aa02171_html_a5bd342133be8c2137b831460acc9298ca7f81baf6969513eaac167c67c10ded6c"><div class="ttname"><a href="../../d6/d1e/a02171.html#a5bd342133be8c2137b831460acc9298ca7f81baf6969513eaac167c67c10ded6c">SPELL_DRAIN_POWER</a></div><div class="ttdeci">@ SPELL_DRAIN_POWER</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:53</div></div>
 <div class="ttc" id="aa02771_html_a86e4e3df7a5142175aa5df522d3346cfaba73da32828f4a4d1fce04f4e0ba5aa0"><div class="ttname"><a href="../../d0/dbd/a02771.html#a86e4e3df7a5142175aa5df522d3346cfaba73da32828f4a4d1fce04f4e0ba5aa0">CLASS_NONE</a></div><div class="ttdeci">@ CLASS_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:140</div></div>
+<div class="ttc" id="aa05466_html_a380c596857dd0030414db5e8d28a3dda"><div class="ttname"><a href="../../d8/d03/a05466.html#a380c596857dd0030414db5e8d28a3dda">TaskContext::Repeat</a></div><div class="ttdeci">TaskContext &amp; Repeat(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;duration)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:493</div></div>
 <div class="ttc" id="aa06122_html_aab20c7bf9fd41e651496c529bcc5ad94"><div class="ttname"><a href="../../d8/d2f/a06122.html#aab20c7bf9fd41e651496c529bcc5ad94">BossAI::ScheduleHealthCheckEvent</a></div><div class="ttdeci">void ScheduleHealthCheckEvent(uint32 healthPct, std::function&lt; void()&gt; exec)</div><div class="ttdoc">Executes a function once the creature reaches the defined health point percent.</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:774</div></div>
 <div class="ttc" id="aa06122_html_abe75353ec3f0c86502696b8ccb059cb7"><div class="ttname"><a href="../../d8/d2f/a06122.html#abe75353ec3f0c86502696b8ccb059cb7">BossAI::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:496</div></div>
-<div class="ttc" id="aa13538_html_a40ccd2e586895ab1cde3c51bcd56c11b"><div class="ttname"><a href="../../d1/d68/a13538.html#a40ccd2e586895ab1cde3c51bcd56c11b">boss_hexlord_malacrass::_classAbilityTimer</a></div><div class="ttdeci">std::chrono::milliseconds _classAbilityTimer</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:356</div></div>
-<div class="ttc" id="aa13538_html_a8ffb01ebe267b4eb935e373bd0d99eed"><div class="ttname"><a href="../../d1/d68/a13538.html#a8ffb01ebe267b4eb935e373bd0d99eed">boss_hexlord_malacrass::SpawnAdds</a></div><div class="ttdeci">void SpawnAdds()</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:254</div></div>
-<div class="ttc" id="aa13538_html_ab7e531fccbb486b7b429d77d804841c2"><div class="ttname"><a href="../../d1/d68/a13538.html#ab7e531fccbb486b7b429d77d804841c2">boss_hexlord_malacrass::_currentClass</a></div><div class="ttdeci">uint8 _currentClass</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:355</div></div>
+<div class="ttc" id="aa13538_html_a40ccd2e586895ab1cde3c51bcd56c11b"><div class="ttname"><a href="../../d1/d68/a13538.html#a40ccd2e586895ab1cde3c51bcd56c11b">boss_hexlord_malacrass::_classAbilityTimer</a></div><div class="ttdeci">std::chrono::milliseconds _classAbilityTimer</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:368</div></div>
+<div class="ttc" id="aa13538_html_a8ffb01ebe267b4eb935e373bd0d99eed"><div class="ttname"><a href="../../d1/d68/a13538.html#a8ffb01ebe267b4eb935e373bd0d99eed">boss_hexlord_malacrass::SpawnAdds</a></div><div class="ttdeci">void SpawnAdds()</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:258</div></div>
+<div class="ttc" id="aa13538_html_ab7e531fccbb486b7b429d77d804841c2"><div class="ttname"><a href="../../d1/d68/a13538.html#ab7e531fccbb486b7b429d77d804841c2">boss_hexlord_malacrass::_currentClass</a></div><div class="ttdeci">uint8 _currentClass</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:367</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00356">_classAbilityTimer</a>, <a class="el" href="../../#l00355">_currentClass</a>, <a class="el" href="../../#l00140">CLASS_NONE</a>, <a class="el" href="../../#l00392">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00496">BossAI::Reset()</a>, <a class="el" href="../../#l00031">SAY_DRAIN_POWER</a>, <a class="el" href="../../#l00774">BossAI::ScheduleHealthCheckEvent()</a>, <a class="el" href="../../#l00321">ScriptedAI::ScheduleTimedEvent()</a>, <a class="el" href="../../#l00254">SpawnAdds()</a>, and <a class="el" href="../../#l00053">SPELL_DRAIN_POWER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00368">_classAbilityTimer</a>, <a class="el" href="../../#l00367">_currentClass</a>, <a class="el" href="../../#l00369">_timeUntilNextDrainPower</a>, <a class="el" href="../../#l00140">CLASS_NONE</a>, <a class="el" href="../../#l00392">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00139">GROUP_DRAIN_POWER</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00496">BossAI::Reset()</a>, <a class="el" href="../../#l00031">SAY_DRAIN_POWER</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00774">BossAI::ScheduleHealthCheckEvent()</a>, <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, <a class="el" href="../../#l00258">SpawnAdds()</a>, and <a class="el" href="../../#l00053">SPELL_DRAIN_POWER</a>.</p>
 
 </div>
 </div>
@@ -868,15 +886,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  338</span>    {</div>
-<div class="line"><span class="lineno">  339</span>        <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(<a class="code hl_variable" href="../../d1/d68/a13538.html#a40ccd2e586895ab1cde3c51bcd56c11b">_classAbilityTimer</a>, <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8aaab438cd70047fa9299e78971c4f4">GROUP_CLASS_ABILITY</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d8/d03/a05466.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  340</span>        {</div>
-<div class="line"><span class="lineno">  341</span>            <a class="code hl_function" href="../../d1/d68/a13538.html#afdad8cc36235f11dc5c4b4f579f5b46b">UseAbility</a>();</div>
-<div class="line"><span class="lineno">  342</span>            context.<a class="code hl_function" href="../../d8/d03/a05466.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(<a class="code hl_variable" href="../../d1/d68/a13538.html#a40ccd2e586895ab1cde3c51bcd56c11b">_classAbilityTimer</a>);</div>
-<div class="line"><span class="lineno">  343</span>        });</div>
-<div class="line"><span class="lineno">  344</span>    }</div>
-<div class="ttc" id="aa05466_html_a380c596857dd0030414db5e8d28a3dda"><div class="ttname"><a href="../../d8/d03/a05466.html#a380c596857dd0030414db5e8d28a3dda">TaskContext::Repeat</a></div><div class="ttdeci">TaskContext &amp; Repeat(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;duration)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:493</div></div>
-<div class="ttc" id="aa13538_html_afdad8cc36235f11dc5c4b4f579f5b46b"><div class="ttname"><a href="../../d1/d68/a13538.html#afdad8cc36235f11dc5c4b4f579f5b46b">boss_hexlord_malacrass::UseAbility</a></div><div class="ttdeci">void UseAbility()</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:305</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  350</span>    {</div>
+<div class="line"><span class="lineno">  351</span>        <a class="code hl_variable" href="../../db/dd3/a06070.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d1/db8/a05450.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(<a class="code hl_variable" href="../../d1/d68/a13538.html#a40ccd2e586895ab1cde3c51bcd56c11b">_classAbilityTimer</a>, <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8aaab438cd70047fa9299e78971c4f4">GROUP_CLASS_ABILITY</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d8/d03/a05466.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  352</span>        {</div>
+<div class="line"><span class="lineno">  353</span>            <a class="code hl_function" href="../../d1/d68/a13538.html#afdad8cc36235f11dc5c4b4f579f5b46b">UseAbility</a>();</div>
+<div class="line"><span class="lineno">  354</span>            context.<a class="code hl_function" href="../../d8/d03/a05466.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(<a class="code hl_variable" href="../../d1/d68/a13538.html#a40ccd2e586895ab1cde3c51bcd56c11b">_classAbilityTimer</a>);</div>
+<div class="line"><span class="lineno">  355</span>        });</div>
+<div class="line"><span class="lineno">  356</span>    }</div>
+<div class="ttc" id="aa13538_html_afdad8cc36235f11dc5c4b4f579f5b46b"><div class="ttname"><a href="../../d1/d68/a13538.html#afdad8cc36235f11dc5c4b4f579f5b46b">boss_hexlord_malacrass::UseAbility</a></div><div class="ttdeci">void UseAbility()</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:317</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00138">GROUP_CLASS_ABILITY</a>, and <a class="el" href="../../#l00493">TaskContext::Repeat()</a>.</p>
 
@@ -904,32 +921,32 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  255</span>    {</div>
-<div class="line"><span class="lineno">  256</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d68/a13538.html#ac13b0f08fec4270ed372f00ae540fdc3">_creatureIndex</a>.empty())</div>
-<div class="line"><span class="lineno">  257</span>        {</div>
-<div class="line"><span class="lineno">  258</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d4/d1e/a00497.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adec9a1ef59ace58f844350cf428842ab">MAX_ADD_COUNT</a>; ++i)</div>
-<div class="line"><span class="lineno">  259</span>            {</div>
-<div class="line"><span class="lineno">  260</span>                <a class="code hl_typedef" href="../../d4/d1e/a00497.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> flip = <a class="code hl_function" href="../../d4/def/a00359.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 1);</div>
-<div class="line"><span class="lineno">  261</span>                <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d0d/a08250.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_variable" href="../../d6/d1e/a02171.html#a2cab39858986fd0fc663c84b508ad899">AddEntrySets</a>[i][flip], <a class="code hl_variable" href="../../d6/d1e/a02171.html#a292390cf431fe7e742e797ff157e0b1d">AddPosition</a>[i], <a class="code hl_enumvalue" href="../../d4/d4b/a03464.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493">TEMPSUMMON_DEAD_DESPAWN</a>, 0);</div>
-<div class="line"><span class="lineno">  262</span>                <a class="code hl_variable" href="../../d1/d68/a13538.html#ac13b0f08fec4270ed372f00ae540fdc3">_creatureIndex</a>.push_back(flip);</div>
-<div class="line"><span class="lineno">  263</span>            }</div>
-<div class="line"><span class="lineno">  264</span>        }</div>
-<div class="line"><span class="lineno">  265</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  266</span>        {</div>
-<div class="line"><span class="lineno">  267</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d4/d1e/a00497.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adec9a1ef59ace58f844350cf428842ab">MAX_ADD_COUNT</a>; ++i)</div>
-<div class="line"><span class="lineno">  268</span>                <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d0d/a08250.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_variable" href="../../d6/d1e/a02171.html#a2cab39858986fd0fc663c84b508ad899">AddEntrySets</a>[i][<a class="code hl_variable" href="../../d1/d68/a13538.html#ac13b0f08fec4270ed372f00ae540fdc3">_creatureIndex</a>[i]], <a class="code hl_variable" href="../../d6/d1e/a02171.html#a292390cf431fe7e742e797ff157e0b1d">AddPosition</a>[i], <a class="code hl_enumvalue" href="../../d4/d4b/a03464.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493">TEMPSUMMON_DEAD_DESPAWN</a>, 0);</div>
-<div class="line"><span class="lineno">  269</span>        }</div>
-<div class="line"><span class="lineno">  270</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  259</span>    {</div>
+<div class="line"><span class="lineno">  260</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d68/a13538.html#ac13b0f08fec4270ed372f00ae540fdc3">_creatureIndex</a>.empty())</div>
+<div class="line"><span class="lineno">  261</span>        {</div>
+<div class="line"><span class="lineno">  262</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d4/d1e/a00497.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adec9a1ef59ace58f844350cf428842ab">MAX_ADD_COUNT</a>; ++i)</div>
+<div class="line"><span class="lineno">  263</span>            {</div>
+<div class="line"><span class="lineno">  264</span>                <a class="code hl_typedef" href="../../d4/d1e/a00497.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> flip = <a class="code hl_function" href="../../d4/def/a00359.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 1);</div>
+<div class="line"><span class="lineno">  265</span>                <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d0d/a08250.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_variable" href="../../d6/d1e/a02171.html#a2cab39858986fd0fc663c84b508ad899">AddEntrySets</a>[i][flip], <a class="code hl_variable" href="../../d6/d1e/a02171.html#a292390cf431fe7e742e797ff157e0b1d">AddPosition</a>[i], <a class="code hl_enumvalue" href="../../d4/d4b/a03464.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493">TEMPSUMMON_DEAD_DESPAWN</a>, 0);</div>
+<div class="line"><span class="lineno">  266</span>                <a class="code hl_variable" href="../../d1/d68/a13538.html#ac13b0f08fec4270ed372f00ae540fdc3">_creatureIndex</a>.push_back(flip);</div>
+<div class="line"><span class="lineno">  267</span>            }</div>
+<div class="line"><span class="lineno">  268</span>        }</div>
+<div class="line"><span class="lineno">  269</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  270</span>        {</div>
+<div class="line"><span class="lineno">  271</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d4/d1e/a00497.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adec9a1ef59ace58f844350cf428842ab">MAX_ADD_COUNT</a>; ++i)</div>
+<div class="line"><span class="lineno">  272</span>                <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d0d/a08250.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_variable" href="../../d6/d1e/a02171.html#a2cab39858986fd0fc663c84b508ad899">AddEntrySets</a>[i][<a class="code hl_variable" href="../../d1/d68/a13538.html#ac13b0f08fec4270ed372f00ae540fdc3">_creatureIndex</a>[i]], <a class="code hl_variable" href="../../d6/d1e/a02171.html#a292390cf431fe7e742e797ff157e0b1d">AddPosition</a>[i], <a class="code hl_enumvalue" href="../../d4/d4b/a03464.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493">TEMPSUMMON_DEAD_DESPAWN</a>, 0);</div>
+<div class="line"><span class="lineno">  273</span>        }</div>
+<div class="line"><span class="lineno">  274</span>    }</div>
 <div class="ttc" id="aa00497_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d4/d1e/a00497.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
 <div class="ttc" id="aa02171_html_a292390cf431fe7e742e797ff157e0b1d"><div class="ttname"><a href="../../d6/d1e/a02171.html#a292390cf431fe7e742e797ff157e0b1d">AddPosition</a></div><div class="ttdeci">const Position AddPosition[4]</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:117</div></div>
 <div class="ttc" id="aa02171_html_a2cab39858986fd0fc663c84b508ad899"><div class="ttname"><a href="../../d6/d1e/a02171.html#a2cab39858986fd0fc663c84b508ad899">AddEntrySets</a></div><div class="ttdeci">static uint32 AddEntrySets[4][2]</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:125</div></div>
 <div class="ttc" id="aa02171_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6adec9a1ef59ace58f844350cf428842ab"><div class="ttname"><a href="../../d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adec9a1ef59ace58f844350cf428842ab">MAX_ADD_COUNT</a></div><div class="ttdeci">@ MAX_ADD_COUNT</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:135</div></div>
 <div class="ttc" id="aa03464_html_a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493"><div class="ttname"><a href="../../d4/d4b/a03464.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493">TEMPSUMMON_DEAD_DESPAWN</a></div><div class="ttdeci">@ TEMPSUMMON_DEAD_DESPAWN</div><div class="ttdef"><b>Definition:</b> Object.h:52</div></div>
-<div class="ttc" id="aa13538_html_ac13b0f08fec4270ed372f00ae540fdc3"><div class="ttname"><a href="../../d1/d68/a13538.html#ac13b0f08fec4270ed372f00ae540fdc3">boss_hexlord_malacrass::_creatureIndex</a></div><div class="ttdeci">std::vector&lt; uint8 &gt; _creatureIndex</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:357</div></div>
+<div class="ttc" id="aa13538_html_ac13b0f08fec4270ed372f00ae540fdc3"><div class="ttname"><a href="../../d1/d68/a13538.html#ac13b0f08fec4270ed372f00ae540fdc3">boss_hexlord_malacrass::_creatureIndex</a></div><div class="ttdeci">std::vector&lt; uint8 &gt; _creatureIndex</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:370</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00357">_creatureIndex</a>, <a class="el" href="../../#l00125">AddEntrySets</a>, <a class="el" href="../../#l00117">AddPosition</a>, <a class="el" href="../../#l00135">MAX_ADD_COUNT</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l02368">WorldObject::SummonCreature()</a>, <a class="el" href="../../#l00052">TEMPSUMMON_DEAD_DESPAWN</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00370">_creatureIndex</a>, <a class="el" href="../../#l00125">AddEntrySets</a>, <a class="el" href="../../#l00117">AddPosition</a>, <a class="el" href="../../#l00135">MAX_ADD_COUNT</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l02368">WorldObject::SummonCreature()</a>, <a class="el" href="../../#l00052">TEMPSUMMON_DEAD_DESPAWN</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00240">Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00241">Reset()</a>.</p>
 
 </div>
 </div>
@@ -955,51 +972,51 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  306</span>    {</div>
-<div class="line"><span class="lineno">  307</span>        <a class="code hl_typedef" href="../../d4/d1e/a00497.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> random = <a class="code hl_function" href="../../d4/def/a00359.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 2);</div>
-<div class="line"><span class="lineno">  308</span>        <a class="code hl_class" href="../../d4/d46/a08598.html">Unit</a>* target = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  309</span>        <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d6/d1e/a02171.html#ad2f8d1f59ceadf23b8c90eb2b865fc84">PlayerAbility</a>[<a class="code hl_variable" href="../../d1/d68/a13538.html#ab7e531fccbb486b7b429d77d804841c2">_currentClass</a>][random].target)</div>
-<div class="line"><span class="lineno">  310</span>        {</div>
-<div class="line"><span class="lineno">  311</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a81d07873b9878cb8207d7cb0dd38cc68">ABILITY_TARGET_SELF</a>:</div>
-<div class="line"><span class="lineno">  312</span>                target = <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>;</div>
-<div class="line"><span class="lineno">  313</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  314</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a67ce529cf704574a9f7db49aac831901">ABILITY_TARGET_VICTIM</a>:</div>
-<div class="line"><span class="lineno">  315</span>                target = <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>();</div>
-<div class="line"><span class="lineno">  316</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  317</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a79610e6fc15edc97589556d67ce5e712">ABILITY_TARGET_ENEMY</a>:</div>
-<div class="line"><span class="lineno">  318</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  319</span>                target = <a class="code hl_function" href="../../d4/db5/a06058.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(SelectTargetMethod::Random, 0, 100, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  320</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  321</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a07ed41eed8e0659ab5a64a95ff49adb9">ABILITY_TARGET_HEAL</a>:</div>
-<div class="line"><span class="lineno">  322</span>                target = <a class="code hl_function" href="../../de/d8c/a06114.html#a671ed92586143776b08dfa277546f53b">DoSelectLowestHpFriendly</a>(50, 0);</div>
-<div class="line"><span class="lineno">  323</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  324</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a8fc88f33204e7fa6d6dba90e477927b2">ABILITY_TARGET_BUFF</a>:</div>
-<div class="line"><span class="lineno">  325</span>                {</div>
-<div class="line"><span class="lineno">  326</span>                    std::list&lt;Creature*&gt; templist = <a class="code hl_function" href="../../de/d8c/a06114.html#ac6d4be79fb1966ee5bdd1678ecab1340">DoFindFriendlyMissingBuff</a>(50, <a class="code hl_variable" href="../../d6/d1e/a02171.html#ad2f8d1f59ceadf23b8c90eb2b865fc84">PlayerAbility</a>[<a class="code hl_variable" href="../../d1/d68/a13538.html#ab7e531fccbb486b7b429d77d804841c2">_currentClass</a>][random].spell);</div>
-<div class="line"><span class="lineno">  327</span>                    <span class="keywordflow">if</span> (!templist.empty())</div>
-<div class="line"><span class="lineno">  328</span>                        target = *(templist.begin());</div>
-<div class="line"><span class="lineno">  329</span>                }</div>
-<div class="line"><span class="lineno">  330</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  331</span>        }</div>
-<div class="line"><span class="lineno">  332</span>        <span class="keywordflow">if</span> (target)</div>
-<div class="line"><span class="lineno">  333</span>            <a class="code hl_function" href="../../d4/db5/a06058.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_variable" href="../../d6/d1e/a02171.html#ad2f8d1f59ceadf23b8c90eb2b865fc84">PlayerAbility</a>[<a class="code hl_variable" href="../../d1/d68/a13538.html#ab7e531fccbb486b7b429d77d804841c2">_currentClass</a>][random].spell, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  334</span>        <a class="code hl_variable" href="../../d1/d68/a13538.html#a40ccd2e586895ab1cde3c51bcd56c11b">_classAbilityTimer</a> = <a class="code hl_variable" href="../../d6/d1e/a02171.html#ad2f8d1f59ceadf23b8c90eb2b865fc84">PlayerAbility</a>[<a class="code hl_variable" href="../../d1/d68/a13538.html#ab7e531fccbb486b7b429d77d804841c2">_currentClass</a>][random].<a class="code hl_variable" href="../../d3/dd6/a13534.html#aaf4772a0ac55280355e61d8c50198b3f">cooldown</a>;</div>
-<div class="line"><span class="lineno">  335</span>    }</div>
-<div class="ttc" id="aa02171_html_ad2f8d1f59ceadf23b8c90eb2b865fc84"><div class="ttname"><a href="../../d6/d1e/a02171.html#ad2f8d1f59ceadf23b8c90eb2b865fc84">PlayerAbility</a></div><div class="ttdeci">static PlayerAbilityStruct PlayerAbility[13][3]</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:158</div></div>
-<div class="ttc" id="aa02171_html_adfb3b9eec5ef9b543982c5266b78f0c4a07ed41eed8e0659ab5a64a95ff49adb9"><div class="ttname"><a href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a07ed41eed8e0659ab5a64a95ff49adb9">ABILITY_TARGET_HEAL</a></div><div class="ttdeci">@ ABILITY_TARGET_HEAL</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:146</div></div>
-<div class="ttc" id="aa02171_html_adfb3b9eec5ef9b543982c5266b78f0c4a67ce529cf704574a9f7db49aac831901"><div class="ttname"><a href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a67ce529cf704574a9f7db49aac831901">ABILITY_TARGET_VICTIM</a></div><div class="ttdeci">@ ABILITY_TARGET_VICTIM</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:144</div></div>
-<div class="ttc" id="aa02171_html_adfb3b9eec5ef9b543982c5266b78f0c4a79610e6fc15edc97589556d67ce5e712"><div class="ttname"><a href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a79610e6fc15edc97589556d67ce5e712">ABILITY_TARGET_ENEMY</a></div><div class="ttdeci">@ ABILITY_TARGET_ENEMY</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:145</div></div>
-<div class="ttc" id="aa02171_html_adfb3b9eec5ef9b543982c5266b78f0c4a81d07873b9878cb8207d7cb0dd38cc68"><div class="ttname"><a href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a81d07873b9878cb8207d7cb0dd38cc68">ABILITY_TARGET_SELF</a></div><div class="ttdeci">@ ABILITY_TARGET_SELF</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:143</div></div>
-<div class="ttc" id="aa02171_html_adfb3b9eec5ef9b543982c5266b78f0c4a8fc88f33204e7fa6d6dba90e477927b2"><div class="ttname"><a href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a8fc88f33204e7fa6d6dba90e477927b2">ABILITY_TARGET_BUFF</a></div><div class="ttdeci">@ ABILITY_TARGET_BUFF</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:147</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  318</span>    {</div>
+<div class="line"><span class="lineno">  319</span>        <a class="code hl_typedef" href="../../d4/d1e/a00497.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> random = <a class="code hl_function" href="../../d4/def/a00359.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 2);</div>
+<div class="line"><span class="lineno">  320</span>        <a class="code hl_class" href="../../d4/d46/a08598.html">Unit</a>* target = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  321</span>        <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d6/d1e/a02171.html#ad2f8d1f59ceadf23b8c90eb2b865fc84">PlayerAbility</a>[<a class="code hl_variable" href="../../d1/d68/a13538.html#ab7e531fccbb486b7b429d77d804841c2">_currentClass</a>][random].target)</div>
+<div class="line"><span class="lineno">  322</span>        {</div>
+<div class="line"><span class="lineno">  323</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a81d07873b9878cb8207d7cb0dd38cc68">ABILITY_TARGET_SELF</a>:</div>
+<div class="line"><span class="lineno">  324</span>                target = <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>;</div>
+<div class="line"><span class="lineno">  325</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  326</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a67ce529cf704574a9f7db49aac831901">ABILITY_TARGET_VICTIM</a>:</div>
+<div class="line"><span class="lineno">  327</span>                target = <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>();</div>
+<div class="line"><span class="lineno">  328</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  329</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a79610e6fc15edc97589556d67ce5e712">ABILITY_TARGET_ENEMY</a>:</div>
+<div class="line"><span class="lineno">  330</span>            <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  331</span>                target = <a class="code hl_function" href="../../d4/db5/a06058.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(SelectTargetMethod::Random, 0, 100, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  332</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  333</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a07ed41eed8e0659ab5a64a95ff49adb9">ABILITY_TARGET_HEAL</a>:</div>
+<div class="line"><span class="lineno">  334</span>                target = <a class="code hl_function" href="../../de/d8c/a06114.html#a671ed92586143776b08dfa277546f53b">DoSelectLowestHpFriendly</a>(50, 0);</div>
+<div class="line"><span class="lineno">  335</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  336</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a8fc88f33204e7fa6d6dba90e477927b2">ABILITY_TARGET_BUFF</a>:</div>
+<div class="line"><span class="lineno">  337</span>                {</div>
+<div class="line"><span class="lineno">  338</span>                    std::list&lt;Creature*&gt; templist = <a class="code hl_function" href="../../de/d8c/a06114.html#ac6d4be79fb1966ee5bdd1678ecab1340">DoFindFriendlyMissingBuff</a>(50, <a class="code hl_variable" href="../../d6/d1e/a02171.html#ad2f8d1f59ceadf23b8c90eb2b865fc84">PlayerAbility</a>[<a class="code hl_variable" href="../../d1/d68/a13538.html#ab7e531fccbb486b7b429d77d804841c2">_currentClass</a>][random].spell);</div>
+<div class="line"><span class="lineno">  339</span>                    <span class="keywordflow">if</span> (!templist.empty())</div>
+<div class="line"><span class="lineno">  340</span>                        target = *(templist.begin());</div>
+<div class="line"><span class="lineno">  341</span>                }</div>
+<div class="line"><span class="lineno">  342</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  343</span>        }</div>
+<div class="line"><span class="lineno">  344</span>        <span class="keywordflow">if</span> (target)</div>
+<div class="line"><span class="lineno">  345</span>            <a class="code hl_function" href="../../d4/db5/a06058.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_variable" href="../../d6/d1e/a02171.html#ad2f8d1f59ceadf23b8c90eb2b865fc84">PlayerAbility</a>[<a class="code hl_variable" href="../../d1/d68/a13538.html#ab7e531fccbb486b7b429d77d804841c2">_currentClass</a>][random].spell, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  346</span>        <a class="code hl_variable" href="../../d1/d68/a13538.html#a40ccd2e586895ab1cde3c51bcd56c11b">_classAbilityTimer</a> = <a class="code hl_variable" href="../../d6/d1e/a02171.html#ad2f8d1f59ceadf23b8c90eb2b865fc84">PlayerAbility</a>[<a class="code hl_variable" href="../../d1/d68/a13538.html#ab7e531fccbb486b7b429d77d804841c2">_currentClass</a>][random].<a class="code hl_variable" href="../../d3/dd6/a13534.html#aaf4772a0ac55280355e61d8c50198b3f">cooldown</a>;</div>
+<div class="line"><span class="lineno">  347</span>    }</div>
+<div class="ttc" id="aa02171_html_ad2f8d1f59ceadf23b8c90eb2b865fc84"><div class="ttname"><a href="../../d6/d1e/a02171.html#ad2f8d1f59ceadf23b8c90eb2b865fc84">PlayerAbility</a></div><div class="ttdeci">static PlayerAbilityStruct PlayerAbility[13][3]</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:159</div></div>
+<div class="ttc" id="aa02171_html_adfb3b9eec5ef9b543982c5266b78f0c4a07ed41eed8e0659ab5a64a95ff49adb9"><div class="ttname"><a href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a07ed41eed8e0659ab5a64a95ff49adb9">ABILITY_TARGET_HEAL</a></div><div class="ttdeci">@ ABILITY_TARGET_HEAL</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:147</div></div>
+<div class="ttc" id="aa02171_html_adfb3b9eec5ef9b543982c5266b78f0c4a67ce529cf704574a9f7db49aac831901"><div class="ttname"><a href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a67ce529cf704574a9f7db49aac831901">ABILITY_TARGET_VICTIM</a></div><div class="ttdeci">@ ABILITY_TARGET_VICTIM</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:145</div></div>
+<div class="ttc" id="aa02171_html_adfb3b9eec5ef9b543982c5266b78f0c4a79610e6fc15edc97589556d67ce5e712"><div class="ttname"><a href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a79610e6fc15edc97589556d67ce5e712">ABILITY_TARGET_ENEMY</a></div><div class="ttdeci">@ ABILITY_TARGET_ENEMY</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:146</div></div>
+<div class="ttc" id="aa02171_html_adfb3b9eec5ef9b543982c5266b78f0c4a81d07873b9878cb8207d7cb0dd38cc68"><div class="ttname"><a href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a81d07873b9878cb8207d7cb0dd38cc68">ABILITY_TARGET_SELF</a></div><div class="ttdeci">@ ABILITY_TARGET_SELF</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:144</div></div>
+<div class="ttc" id="aa02171_html_adfb3b9eec5ef9b543982c5266b78f0c4a8fc88f33204e7fa6d6dba90e477927b2"><div class="ttname"><a href="../../d6/d1e/a02171.html#adfb3b9eec5ef9b543982c5266b78f0c4a8fc88f33204e7fa6d6dba90e477927b2">ABILITY_TARGET_BUFF</a></div><div class="ttdeci">@ ABILITY_TARGET_BUFF</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:148</div></div>
 <div class="ttc" id="aa06058_html_ac5b181f1036962caaf140369b22e807b"><div class="ttname"><a href="../../d4/db5/a06058.html#ac5b181f1036962caaf140369b22e807b">UnitAI::SelectTarget</a></div><div class="ttdeci">Unit * SelectTarget(SelectTargetMethod targetType, uint32 position=0, float dist=0.0f, bool playerOnly=false, bool withTank=true, int32 aura=0)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:110</div></div>
 <div class="ttc" id="aa06058_html_aeebcad9b6effa45145c50f06af60b23d"><div class="ttname"><a href="../../d4/db5/a06058.html#aeebcad9b6effa45145c50f06af60b23d">UnitAI::DoCast</a></div><div class="ttdeci">SpellCastResult DoCast(uint32 spellId)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:177</div></div>
 <div class="ttc" id="aa06114_html_a671ed92586143776b08dfa277546f53b"><div class="ttname"><a href="../../de/d8c/a06114.html#a671ed92586143776b08dfa277546f53b">ScriptedAI::DoSelectLowestHpFriendly</a></div><div class="ttdeci">Unit * DoSelectLowestHpFriendly(float range, uint32 minHPDiff=1)</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:489</div></div>
 <div class="ttc" id="aa06114_html_ac6d4be79fb1966ee5bdd1678ecab1340"><div class="ttname"><a href="../../de/d8c/a06114.html#ac6d4be79fb1966ee5bdd1678ecab1340">ScriptedAI::DoFindFriendlyMissingBuff</a></div><div class="ttdeci">std::list&lt; Creature * &gt; DoFindFriendlyMissingBuff(float range, uint32 spellId)</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:508</div></div>
 <div class="ttc" id="aa08598_html"><div class="ttname"><a href="../../d4/d46/a08598.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:636</div></div>
 <div class="ttc" id="aa08598_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../d4/d46/a08598.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition:</b> Unit.h:859</div></div>
-<div class="ttc" id="aa13534_html_aaf4772a0ac55280355e61d8c50198b3f"><div class="ttname"><a href="../../d3/dd6/a13534.html#aaf4772a0ac55280355e61d8c50198b3f">PlayerAbilityStruct::cooldown</a></div><div class="ttdeci">std::chrono::milliseconds cooldown</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:155</div></div>
+<div class="ttc" id="aa13534_html_aaf4772a0ac55280355e61d8c50198b3f"><div class="ttname"><a href="../../d3/dd6/a13534.html#aaf4772a0ac55280355e61d8c50198b3f">PlayerAbilityStruct::cooldown</a></div><div class="ttdeci">std::chrono::milliseconds cooldown</div><div class="ttdef"><b>Definition:</b> boss_hexlord.cpp:156</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00147">ABILITY_TARGET_BUFF</a>, <a class="el" href="../../#l00145">ABILITY_TARGET_ENEMY</a>, <a class="el" href="../../#l00146">ABILITY_TARGET_HEAL</a>, <a class="el" href="../../#l00143">ABILITY_TARGET_SELF</a>, <a class="el" href="../../#l00144">ABILITY_TARGET_VICTIM</a>, <a class="el" href="../../#l00155">PlayerAbilityStruct::cooldown</a>, <a class="el" href="../../#l00859">Unit::GetVictim()</a>, <a class="el" href="../../#l00158">PlayerAbility</a>, <a class="el" href="../../d2/d4c/a02897.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00148">ABILITY_TARGET_BUFF</a>, <a class="el" href="../../#l00146">ABILITY_TARGET_ENEMY</a>, <a class="el" href="../../#l00147">ABILITY_TARGET_HEAL</a>, <a class="el" href="../../#l00144">ABILITY_TARGET_SELF</a>, <a class="el" href="../../#l00145">ABILITY_TARGET_VICTIM</a>, <a class="el" href="../../#l00156">PlayerAbilityStruct::cooldown</a>, <a class="el" href="../../#l00859">Unit::GetVictim()</a>, <a class="el" href="../../#l00159">PlayerAbility</a>, <a class="el" href="../../d2/d4c/a02897.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
 </div>
 </div>
@@ -1024,7 +1041,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00240">Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00241">Reset()</a>.</p>
 
 </div>
 </div>
@@ -1048,7 +1065,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00254">SpawnAdds()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00258">SpawnAdds()</a>.</p>
 
 </div>
 </div>
@@ -1072,7 +1089,31 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00240">Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00241">Reset()</a>.</p>
+
+</div>
+</div>
+<a id="aa6963eb30a6e8555d4695bf284b13cac" name="aa6963eb30a6e8555d4695bf284b13cac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa6963eb30a6e8555d4695bf284b13cac">&#9670;&#160;</a></span>_timeUntilNextDrainPower</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::chrono::milliseconds boss_hexlord_malacrass::_timeUntilNextDrainPower</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00276">JustEngagedWith()</a>, and <a class="el" href="../../#l00241">Reset()</a>.</p>
 
 </div>
 </div>
@@ -1082,7 +1123,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d68/a13538.html">boss_hexlord_malacrass</a></li>
-    <li class="footer">Generated on Mon Dec 30 2024 20:42:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 6 2025 20:43:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

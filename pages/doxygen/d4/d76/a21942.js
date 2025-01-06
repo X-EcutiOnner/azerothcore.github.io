@@ -1,6 +1,8 @@
 var a21942 =
 [
-    [ "npc_iron_watcherAI", "d2/db7/a21946.html", "d2/db7/a21946" ],
-    [ "npc_iron_watcher", "d4/d76/a21942.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
-    [ "GetAI", "d4/d76/a21942.html#af3b80b838e192737762ceed599b0be9a", null ]
+    [ "npc_vics_flying_machineAI", "d4/d76/a21942.html#a4464e0b1433c4ffb24ae7809b1a0eec5", null ],
+    [ "MovementInform", "d4/d76/a21942.html#ac4bbe0a3cccb6878d050b717b9efb320", null ],
+    [ "PassengerBoarded", "d4/d76/a21942.html#aa67dcbb4b43b047398fec2619ad61829", null ],
+    [ "SpellHit", "d4/d76/a21942.html#aa81229a104e1521d570abec4b6f7bca7", null ],
+    [ "pointId", "d4/d76/a21942.html#aa1412c23f0c3b964262e145c51aea974", null ]
 ];

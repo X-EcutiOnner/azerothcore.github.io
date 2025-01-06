@@ -1,8 +1,8 @@
 var a22342 =
 [
-    [ "npc_anzu_spirit", "d6/d3b/a22342.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
-    [ "IsSummonedBy", "d6/d3b/a22342.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
-    [ "Reset", "d6/d3b/a22342.html#acef3f7093f93b6c227d145523cdc487a", null ],
-    [ "UpdateAI", "d6/d3b/a22342.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
-    [ "_scheduler", "d6/d3b/a22342.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
+    [ "boss_pandemonius", "d6/d3b/a22342.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "d6/d3b/a22342.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "d6/d3b/a22342.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "d6/d3b/a22342.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "d6/d3b/a22342.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

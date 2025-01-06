@@ -1,6 +1,7 @@
 var a18766 =
 [
-    [ "boss_kelthuzad_minionAI", "db/dc3/a18770.html", "db/dc3/a18770" ],
-    [ "boss_kelthuzad_minion", "d6/d7f/a18766.html#a4c6d430035c964b4063139c0cda6bfff", null ],
-    [ "GetAI", "d6/d7f/a18766.html#ab951068fedced148653ebf9124ba5e3d", null ]
+    [ "HandleRemove", "d6/d7f/a18766.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
+    [ "PrepareAuraScript", "d6/d7f/a18766.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
+    [ "Register", "d6/d7f/a18766.html#ad7ba015a7878adad0820cf378d2632ca", null ],
+    [ "Validate", "d6/d7f/a18766.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
 ];

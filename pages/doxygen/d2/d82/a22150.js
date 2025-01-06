@@ -1,6 +1,17 @@
 var a22150 =
 [
-    [ "npc_released_offspring_harkoaAI", "d0/dbb/a22154.html", "d0/dbb/a22154" ],
-    [ "npc_released_offspring_harkoa", "d2/d82/a22150.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "d2/d82/a22150.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "npc_overlord_drakuru_betrayalAI", "d2/d82/a22150.html#a52cda9357a3672871d2c52312cec7304", null ],
+    [ "DamageTaken", "d2/d82/a22150.html#a031c475bc9e3660f8efb01face303816", null ],
+    [ "EnterEvadeMode", "d2/d82/a22150.html#a3ab85c07b6cc186d37cef571bb9539c0", null ],
+    [ "JustEngagedWith", "d2/d82/a22150.html#a3e758268744c8f52410ebfa05f9d6635", null ],
+    [ "JustSummoned", "d2/d82/a22150.html#a34b76f7a4df8f28a8e80ffc406d60d98", null ],
+    [ "MoveInLineOfSight", "d2/d82/a22150.html#acf4ad45c1145c7b0cd6f05c847546005", null ],
+    [ "Reset", "d2/d82/a22150.html#ad154b8027917a1402840ced87aacac7d", null ],
+    [ "SpellHit", "d2/d82/a22150.html#a836f0886846ac3081a05800fffb0aa0b", null ],
+    [ "SpellHitTarget", "d2/d82/a22150.html#a58eb77bbfec0279908c3ed9a111c6cce", null ],
+    [ "UpdateAI", "d2/d82/a22150.html#aafcdcb353cdc6f19bebec63a31a0da6d", null ],
+    [ "events", "d2/d82/a22150.html#a305f08c7ee071bfe10a4be81715b60f2", null ],
+    [ "lichGUID", "d2/d82/a22150.html#a4cd410df9735a381800ec186572f2f74", null ],
+    [ "playerGUID", "d2/d82/a22150.html#a396917f16afc3bd03ade6c6822bd379e", null ],
+    [ "summons", "d2/d82/a22150.html#a8c2b70321771af8b668e5f76974f854b", null ]
 ];

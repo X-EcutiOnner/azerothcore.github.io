@@ -1,6 +1,10 @@
 var a20810 =
 [
-    [ "npc_massive_jormungarAI", "dc/d30/a20814.html", "dc/d30/a20814" ],
-    [ "npc_massive_jormungar", "de/da1/a20810.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "de/da1/a20810.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "npc_dragonflayer_forge_master", "de/da1/a20810.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "de/da1/a20810.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "de/da1/a20810.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "de/da1/a20810.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "de/da1/a20810.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "de/da1/a20810.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "de/da1/a20810.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

@@ -1,7 +1,8 @@
 var a15102 =
 [
-    [ "npc_cork_gizeltonAI", "d0/d36/a15106.html", "d0/d36/a15106" ],
-    [ "npc_cork_gizelton", "d3/d85/a15102.html#a915aa2abc18109e7d0197863f59536f2", null ],
-    [ "GetAI", "d3/d85/a15102.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
-    [ "OnQuestAccept", "d3/d85/a15102.html#a11dc1fea0a24add451272b537298fc13", null ]
+    [ "npc_prospector_remtravelAI", "d3/d85/a15102.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d3/d85/a15102.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d3/d85/a15102.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d3/d85/a15102.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d3/d85/a15102.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

@@ -1,10 +1,26 @@
 var a14518 =
 [
-    [ "boss_aeonus", "d5/d02/a14518.html#af823ef2187b852dc72d2f63020e1701b", null ],
-    [ "IsSummonedBy", "d5/d02/a14518.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
-    [ "JustDied", "d5/d02/a14518.html#a649275c31e61f542a13fd791ee85277b", null ],
-    [ "JustEngagedWith", "d5/d02/a14518.html#a5f193144e36a889630d5dbadb4aa665f", null ],
-    [ "JustReachedHome", "d5/d02/a14518.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
-    [ "KilledUnit", "d5/d02/a14518.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
-    [ "MoveInLineOfSight", "d5/d02/a14518.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
+    [ "instance_old_hillsbrad_InstanceMapScript", "d5/d02/a14518.html#a31fbc078e2c8d2a0f070a8a52c34ef90", null ],
+    [ "CleanupInstance", "d5/d02/a14518.html#a20b8aa23c6c9e29f34cda71554c6d7a7", null ],
+    [ "EnsureGridLoaded", "d5/d02/a14518.html#a337693ca3ad4527249b0f9f5c9a62d0f", null ],
+    [ "GetData", "d5/d02/a14518.html#aa7ae89c6d23a061385a756cf0b0200bf", null ],
+    [ "GetGuidData", "d5/d02/a14518.html#a119965a939e79b0fb395e8e3695359aa", null ],
+    [ "Initialize", "d5/d02/a14518.html#ac9e53a8a406110bbc1d454be7b87fb34", null ],
+    [ "OnCreatureCreate", "d5/d02/a14518.html#a04bf5f844ab8e802f95745f56d996716", null ],
+    [ "OnGameObjectCreate", "d5/d02/a14518.html#ae5f9223af1488f1edd99f35f7b1c7207", null ],
+    [ "OnPlayerEnter", "d5/d02/a14518.html#a29ebe48953ba6be93da519c7a43c356e", null ],
+    [ "ReadSaveDataMore", "d5/d02/a14518.html#a81322de635b72f95de486ccd1abf9644", null ],
+    [ "Reposition", "d5/d02/a14518.html#a7fcd0c449edfe21933ee055549ea7ddf", null ],
+    [ "SetData", "d5/d02/a14518.html#a961dd71754113ce6b5aecde16b6426d2", null ],
+    [ "Update", "d5/d02/a14518.html#ac0bb22a2f69eecc269c69005777d9c38", null ],
+    [ "WriteSaveDataMore", "d5/d02/a14518.html#ae409ddd2759f8eea883cefa21d045a40", null ],
+    [ "_attemptsCount", "d5/d02/a14518.html#ac5c012148a60cc7dd26e36ba6950494b", null ],
+    [ "_barrelCount", "d5/d02/a14518.html#aeb5828d54f327c5d2a30004afa86c4af", null ],
+    [ "_encounterProgress", "d5/d02/a14518.html#a9b5fff035fb76116f0cea6f6786d506e", null ],
+    [ "_events", "d5/d02/a14518.html#ab3a9785a2240d62de4dfcf0b2523520f", null ],
+    [ "_finalFlamesSet", "d5/d02/a14518.html#a914232c182475a17e3583435f2fde9bc", null ],
+    [ "_initalFlamesSet", "d5/d02/a14518.html#a2404c19bd154f8277aa539f48ae99963", null ],
+    [ "_prisonersSet", "d5/d02/a14518.html#a43e3b3d3cb4797a8c03731df72e7cb5a", null ],
+    [ "_tarethaGUID", "d5/d02/a14518.html#ada3dcc37cba14ae8361989f1b842b462", null ],
+    [ "_thrallGUID", "d5/d02/a14518.html#add8e04fa930e970ab0e88258c10f9c5d", null ]
 ];

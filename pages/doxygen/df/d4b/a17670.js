@@ -1,10 +1,16 @@
 var a17670 =
 [
-    [ "FilterTargets", "df/d4b/a17670.html#aefba5226671b6217549bd34059519179", null ],
-    [ "Load", "df/d4b/a17670.html#af8a2b651782783dc29ac7266ed02c028", null ],
-    [ "NotifyTargets", "df/d4b/a17670.html#a618e98fbd5c6ae21047cc4f911099730", null ],
-    [ "PrepareSpellScript", "df/d4b/a17670.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
-    [ "Register", "df/d4b/a17670.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
-    [ "ReplaceTargets", "df/d4b/a17670.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
-    [ "_target", "df/d4b/a17670.html#a10c85fd3909e56f457d73add8021c0b7", null ]
+    [ "boss_rotfaceAI", "df/d4b/a17670.html#abe4c4df1732127814a507b0f99203ebb", null ],
+    [ "EnterEvadeMode", "df/d4b/a17670.html#a8b166241350c7437c0baab2bc783dc93", null ],
+    [ "JustDied", "df/d4b/a17670.html#ab5ba6f23e4a0f097386452bdd497ef5a", null ],
+    [ "JustEngagedWith", "df/d4b/a17670.html#aa34831a7c2986451ff518a76547edecc", null ],
+    [ "JustReachedHome", "df/d4b/a17670.html#adac69ee7aca11d5d355ef71a11a39a1d", null ],
+    [ "JustSummoned", "df/d4b/a17670.html#aaa273c65b0545931797057ca4cdab1eb", null ],
+    [ "KilledUnit", "df/d4b/a17670.html#a9356f21962b312eccfba1b3e75afaba0", null ],
+    [ "Reset", "df/d4b/a17670.html#aed06635aabcb47fd700ab1a894bad13c", null ],
+    [ "SpellHitTarget", "df/d4b/a17670.html#a99d88373a20464fac3ebf035430c2e75", null ],
+    [ "UpdateAI", "df/d4b/a17670.html#aaf47878572d23bfb22f2ae77fed8d95e", null ],
+    [ "_oozeFloodDummyGUIDs", "df/d4b/a17670.html#a28e859c796fc210cba9a1ac7bfd0124a", null ],
+    [ "_oozeFloodStage", "df/d4b/a17670.html#aa007ed2c05914b1ce664d347bb04abaa", null ],
+    [ "infectionCooldown", "df/d4b/a17670.html#ae6fb76012902540a55870ed7b2f3fc7b", null ]
 ];

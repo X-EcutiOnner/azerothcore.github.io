@@ -1,6 +1,7 @@
 var a17982 =
 [
-    [ "npc_raging_spiritAI", "da/ddf/a17986.html", "da/ddf/a17986" ],
-    [ "npc_raging_spirit", "d9/db7/a17982.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "d9/db7/a17982.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "CheckTargetCount", "d9/db7/a17982.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "d9/db7/a17982.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "d9/db7/a17982.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "d9/db7/a17982.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

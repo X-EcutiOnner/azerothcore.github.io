@@ -1,9 +1,8 @@
 var a28386 =
 [
-    [ "Flags", "da/d36/a28386.html#a4471edebd870d3dfaaf34292341e5f60", null ],
-    [ "Id", "da/d36/a28386.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
-    [ "Position", "da/d36/a28386.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
-    [ "Rotation", "da/d36/a28386.html#a986c3ea05d510db03ec969f0d116fb34", null ],
-    [ "Scale", "da/d36/a28386.html#af8bcb02c541b9261dbf879353ba6893a", null ],
-    [ "UniqueId", "da/d36/a28386.html#a374c9893af515badc54b22b2a4d5e024", null ]
+    [ "TileInfo", "da/d36/a28386.html#af1a25ded4212f141ab4f32db95709210", null ],
+    [ "m_mapId", "da/d36/a28386.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
+    [ "m_navMeshParams", "da/d36/a28386.html#a9d7c909370359edafa8a9b6a91cef354", null ],
+    [ "m_tileX", "da/d36/a28386.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
+    [ "m_tileY", "da/d36/a28386.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
 ];

@@ -1,6 +1,9 @@
 var a17806 =
 [
-    [ "npc_spinestalkerAI", "d0/d49/a17810.html", "d0/d49/a17810" ],
-    [ "npc_spinestalker", "de/dcb/a17806.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "de/dcb/a17806.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "AfterApply", "de/dcb/a17806.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
+    [ "ExtraRemoveEffect", "de/dcb/a17806.html#a9f427761fcca9029eb75d586e5876fcd", null ],
+    [ "PeriodicTick", "de/dcb/a17806.html#a82430399e44001343f322b2c3b7769a5", null ],
+    [ "PrepareAuraScript", "de/dcb/a17806.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
+    [ "Register", "de/dcb/a17806.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
+    [ "Validate", "de/dcb/a17806.html#ae20873e93fbace6272a793993fb45349", null ]
 ];

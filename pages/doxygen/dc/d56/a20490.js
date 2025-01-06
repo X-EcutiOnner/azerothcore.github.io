@@ -1,6 +1,5 @@
 var a20490 =
 [
-    [ "boss_yoggsaron_cloudAI", "de/d35/a20494.html", "de/d35/a20494" ],
-    [ "boss_yoggsaron_cloud", "dc/d56/a20490.html#ab52cc1fa8b45b70dde340b9f463ef2f1", null ],
-    [ "GetAI", "dc/d56/a20490.html#a2005f062eb9d78c7b09b045eba570b98", null ]
+    [ "achievement_xt002_nerf_engineering", "dc/d56/a20490.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "dc/d56/a20490.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

@@ -1,6 +1,6 @@
 var a02552 =
 [
-    [ "boss_venoxis", "d3/d2f/a13826.html", "d3/d2f/a13826" ],
+    [ "boss_venoxis", "dd/db6/a13846.html", "dd/db6/a13846" ],
     [ "NPCs", "de/d48/a02552.html#a6986ec7b2d3274669934af9795f26d5c", [
       [ "NPC_EMI_SHORTFUSE", "db/dda/a02318.html#a6986ec7b2d3274669934af9795f26d5ca9e4a9c0c7e0adc0ef8c70ad7a302078a", null ],
       [ "BOSS_VENOXIS", "de/d48/a02552.html#a6986ec7b2d3274669934af9795f26d5caae68e55f680ae41a7b7f050bb06a5702", null ],
@@ -1572,6 +1572,7 @@ var a02552 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

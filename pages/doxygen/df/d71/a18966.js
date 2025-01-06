@@ -1,8 +1,6 @@
 var a18966 =
 [
-    [ "npc_alexstraszaAI", "df/d71/a18966.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
-    [ "AttackStart", "df/d71/a18966.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
-    [ "MoveInLineOfSight", "df/d71/a18966.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
-    [ "UpdateAI", "df/d71/a18966.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
-    [ "events", "df/d71/a18966.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
+    [ "npc_scion_of_eternityAI", "de/de7/a18970.html", "de/de7/a18970" ],
+    [ "npc_scion_of_eternity", "df/d71/a18966.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
+    [ "GetAI", "df/d71/a18966.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
 ];

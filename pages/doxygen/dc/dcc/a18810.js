@@ -1,7 +1,6 @@
 var a18810 =
 [
-    [ "OnPeriodic", "dc/dcc/a18810.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
-    [ "PrepareAuraScript", "dc/dcc/a18810.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
-    [ "Register", "dc/dcc/a18810.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
-    [ "Validate", "dc/dcc/a18810.html#a54cfed486827216817adb740efa6646e", null ]
+    [ "WebTargetSelector", "dc/dcc/a18810.html#a2f19cffab18fd6f2f5a1d296aa1db47d", null ],
+    [ "operator()", "dc/dcc/a18810.html#a289821eaae114ba384a9ee9b8c19325f", null ],
+    [ "_maexxna", "dc/dcc/a18810.html#ad21c9ac380f7b97aacc06f08f1c45974", null ]
 ];

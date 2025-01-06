@@ -1,7 +1,9 @@
 var a14686 =
 [
-    [ "go_sand_trap", "dd/ddb/a14686.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "dd/ddb/a14686.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "dd/ddb/a14686.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "dd/ddb/a14686.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "spell_gen_ayamiss_swarmer_loop", "dd/ddb/a14686.html#ad910e172ef6866f102fa3407f676169a", null ],
+    [ "HandleScript", "dd/ddb/a14686.html#acd0dffad436cb414deb546b192957783", null ],
+    [ "Load", "dd/ddb/a14686.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
+    [ "PrepareSpellScript", "dd/ddb/a14686.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
+    [ "Register", "dd/ddb/a14686.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
+    [ "_pathId", "dd/ddb/a14686.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
 ];

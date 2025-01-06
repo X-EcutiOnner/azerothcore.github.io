@@ -1,7 +1,7 @@
 var a01841 =
 [
-    [ "boss_ormorok", "d1/d00/a19038.html", "d1/d00/a19038" ],
-    [ "npc_crystal_spike", "d9/d94/a19042.html", "d9/d94/a19042" ],
+    [ "boss_ormorok", "da/d51/a19058.html", "da/d51/a19058" ],
+    [ "npc_crystal_spike", "d7/d3e/a19062.html", "d7/d3e/a19062" ],
     [ "eEnums", "d2/d5b/a01841.html#a0ec08fe05ebfdddfa34c747c9c62a165", [
       [ "SPELL_FROZEN_PRISON", "dc/d06/a01832.html#a0ec08fe05ebfdddfa34c747c9c62a165a874864078de8743889d364bbecadcee6", null ],
       [ "SPELL_TAIL_SWEEP", "dc/d06/a01832.html#a0ec08fe05ebfdddfa34c747c9c62a165addcb3daa6cdc61ef04c65580e44ef823", null ],
@@ -1370,6 +1370,7 @@ var a01841 =
       [ "ADDITIONAL_CLASS_SPRIEST", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92706eb33a08d2af442625bec27cdf3c", null ],
       [ "AURA_SHADOW_FORM", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad3a76f7068948a8105e9c5001dbb41d2", null ],
       [ "GROUP_CLASS_ABILITY", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8aaab438cd70047fa9299e78971c4f4", null ],
+      [ "GROUP_DRAIN_POWER", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afec21b3ce2b83056ea6ccf2336110b3d", null ],
       [ "MAX_BOMB_COUNT", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a55b3541c734c6bf371563c020ea4918e", null ],
       [ "GROUP_ENRAGE", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a98519d98f2763476413ba8ba9b1aa780", null ],
       [ "GROUP_HATCHING", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad004964bc87e3ee20b6bd3fcb2411521", null ],

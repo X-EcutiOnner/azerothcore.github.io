@@ -1,6 +1,5 @@
 var a27006 =
 [
-    [ "go_fel_crystalforge", "d5/da3/a27006.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "d5/da3/a27006.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "d5/da3/a27006.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "go_jump_a_tron", "d5/da3/a27006.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
+    [ "OnGossipHello", "d5/da3/a27006.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
 ];

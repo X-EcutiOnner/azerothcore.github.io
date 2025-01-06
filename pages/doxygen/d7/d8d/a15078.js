@@ -1,7 +1,7 @@
 var a15078 =
 [
-    [ "npc_prospector_remtravelAI", "da/d01/a15082.html", "da/d01/a15082" ],
-    [ "npc_prospector_remtravel", "d7/d8d/a15078.html#aa213161fc60e615682252125f6c58f7f", null ],
-    [ "GetAI", "d7/d8d/a15078.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
-    [ "OnQuestAccept", "d7/d8d/a15078.html#a5e11149b6359927a71c98242d979e65b", null ]
+    [ "npc_webbed_creatureAI", "d7/d8d/a15078.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "d7/d8d/a15078.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "d7/d8d/a15078.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "d7/d8d/a15078.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

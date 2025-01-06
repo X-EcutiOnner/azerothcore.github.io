@@ -1,7 +1,6 @@
 var a15466 =
 [
-    [ "go_troll_cageAI", "d7/d5a/a15466.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "d7/d5a/a15466.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "d7/d5a/a15466.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "d7/d5a/a15466.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "HandleSummon", "d7/d5a/a15466.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
+    [ "PrepareSpellScript", "d7/d5a/a15466.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
+    [ "Register", "d7/d5a/a15466.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
 ];

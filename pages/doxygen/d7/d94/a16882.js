@@ -1,6 +1,6 @@
 var a16882 =
 [
-    [ "boss_eckAI", "d7/d49/a16886.html", "d7/d49/a16886" ],
-    [ "boss_eck", "d7/d94/a16882.html#aa445927936d7759a8c3289e2899181e5", null ],
-    [ "GetAI", "d7/d94/a16882.html#a335755ec7416d3e00a4070e03569293a", null ]
+    [ "npc_living_mojoAI", "d7/d49/a16886.html", "d7/d49/a16886" ],
+    [ "npc_living_mojo", "d7/d94/a16882.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "d7/d94/a16882.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

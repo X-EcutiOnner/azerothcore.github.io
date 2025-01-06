@@ -1,6 +1,7 @@
 var a15414 =
 [
-    [ "SayerEntry", "db/de2/a15414.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
-    [ "SayTimer", "db/de2/a15414.html#a942073f24fd12da712184243d9f098f2", null ],
-    [ "TextEntry", "db/de2/a15414.html#a360822e4c069be6019c0a465cb2499cf", null ]
+    [ "npc_ameAI", "d2/da0/a15418.html", "d2/da0/a15418" ],
+    [ "npc_ame", "db/de2/a15414.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "db/de2/a15414.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "db/de2/a15414.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

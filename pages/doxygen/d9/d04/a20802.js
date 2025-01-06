@@ -1,6 +1,6 @@
 var a20802 =
 [
-    [ "boss_palehoofAI", "db/dff/a20806.html", "db/dff/a20806" ],
-    [ "boss_palehoof", "d9/d04/a20802.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
-    [ "GetAI", "d9/d04/a20802.html#ae33ca6e71b251214be50168a5940d058", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "db/dff/a20806.html", "db/dff/a20806" ],
+    [ "instance_utgarde_keep", "d9/d04/a20802.html#abe013e4f086f63722a6398b2b7928c80", null ],
+    [ "GetInstanceScript", "d9/d04/a20802.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
 ];

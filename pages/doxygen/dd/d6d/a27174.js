@@ -1,8 +1,11 @@
 var a27174 =
 [
-    [ "npc_nelsonAI", "d9/d24/a27178.html", "d9/d24/a27178" ],
-    [ "npc_nelson", "dd/d6d/a27174.html#ada597926a6db1aa7823ddabc19945b11", null ],
-    [ "GetAI", "dd/d6d/a27174.html#a75fea281fb49249345c48236bf44b1c8", null ],
-    [ "OnGossipHello", "dd/d6d/a27174.html#aa693b365a15d4617f214f9c3c229bf89", null ],
-    [ "OnGossipSelect", "dd/d6d/a27174.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
+    [ "npc_artoriusAI", "dd/d6d/a27174.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
+    [ "DamageTaken", "dd/d6d/a27174.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
+    [ "DoAction", "dd/d6d/a27174.html#abbfc9ee752d97f1694dbd739719843c2", null ],
+    [ "JustEngagedWith", "dd/d6d/a27174.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
+    [ "Reset", "dd/d6d/a27174.html#a862cc52a9251e2dfe486f1152dae9500", null ],
+    [ "SpellHit", "dd/d6d/a27174.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
+    [ "UpdateAI", "dd/d6d/a27174.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
+    [ "events", "dd/d6d/a27174.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
 ];

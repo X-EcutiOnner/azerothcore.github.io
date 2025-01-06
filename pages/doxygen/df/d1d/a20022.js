@@ -1,9 +1,12 @@
 var a20022 =
 [
-    [ "HandleEffectPeriodic", "df/d1d/a20022.html#adc6e83abb52a21528c07a1d989818dcf", null ],
-    [ "OnApply", "df/d1d/a20022.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
-    [ "OnRemove", "df/d1d/a20022.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
-    [ "PrepareAuraScript", "df/d1d/a20022.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
-    [ "Register", "df/d1d/a20022.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
-    [ "Validate", "df/d1d/a20022.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
+    [ "npc_ulduar_iron_constructAI", "df/d1d/a20022.html#ab81224d24ab1925cde97ab76c2a514d1", null ],
+    [ "DamageTaken", "df/d1d/a20022.html#a5235538b755dd83615d80a1f7d0ec1b9", null ],
+    [ "JustDied", "df/d1d/a20022.html#a5b8e1c38257fc13c59bcaf8cb251fee2", null ],
+    [ "JustReachedHome", "df/d1d/a20022.html#a12416ffe731f96a1ca2949d995eb909c", null ],
+    [ "MoveInLineOfSight", "df/d1d/a20022.html#a12b228a1edb9460ddcb2b8232bb8209e", null ],
+    [ "Reset", "df/d1d/a20022.html#ac6dba374d72247be14923aa54898b9b5", null ],
+    [ "SpellHit", "df/d1d/a20022.html#a10a5444576af84ae50ad8af930ed5970", null ],
+    [ "UpdateAI", "df/d1d/a20022.html#ac5aabd4a48b6a2f5057eb5ee8a8c99f8", null ],
+    [ "timer", "df/d1d/a20022.html#ae1996cf79f8a82df7fe02cd60e5ce3a4", null ]
 ];

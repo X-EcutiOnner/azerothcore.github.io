@@ -1,6 +1,8 @@
 var a19674 =
 [
-    [ "HandleScript", "db/d14/a19674.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
-    [ "PrepareSpellScript", "db/d14/a19674.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
-    [ "Register", "db/d14/a19674.html#a04a5b3a4f768200d74f4641508633d35", null ]
+    [ "OnApply", "db/d14/a19674.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "db/d14/a19674.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "db/d14/a19674.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "db/d14/a19674.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "db/d14/a19674.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

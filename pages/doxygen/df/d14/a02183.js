@@ -1,8 +1,9 @@
 var a02183 =
 [
-    [ "boss_nalorakk", "dd/d9c/a13558.html", "dd/d9c/a13558" ],
+    [ "boss_nalorakk", "d5/d41/a13562.html", "d5/d41/a13562" ],
     [ "NalorakkGroups", "df/d14/a02183.html#a2b9b56f8ba96d26553d016ff45e7c8e2", [
       [ "GROUP_CHECK_DEAD", "df/d14/a02183.html#a2b9b56f8ba96d26553d016ff45e7c8e2af5019321f37c2840c6500d4024e0283f", null ],
+      [ "GROUP_CHECK_EVADE", "df/d14/a02183.html#a2b9b56f8ba96d26553d016ff45e7c8e2a087914d7c454fb26a10d35f7e87c34cf", null ],
       [ "GROUP_MOVE", "df/d14/a02183.html#a2b9b56f8ba96d26553d016ff45e7c8e2addd7da33d71802cbb776648fd05bb53e", null ],
       [ "GROUP_BERSERK", "df/d14/a02183.html#a2b9b56f8ba96d26553d016ff45e7c8e2a9f781c602614908c693b03cbb66b2f5b", null ],
       [ "GROUP_HUMAN", "df/d14/a02183.html#a2b9b56f8ba96d26553d016ff45e7c8e2a796793e979d08c776caffceafb33aa85", null ],
@@ -879,6 +880,7 @@ var a02183 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

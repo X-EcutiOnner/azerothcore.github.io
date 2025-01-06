@@ -1,5 +1,6 @@
 var a19762 =
 [
-    [ "boss_freya_iron_rootAI", "d8/d14/a19762.html#a5e982f5f41433f43a7a0e1d18e009b7b", null ],
-    [ "JustDied", "d8/d14/a19762.html#ad35297f0fa2039749b89d38c2b4f08b9", null ]
+    [ "boss_freya_elder_brightleafAI", "de/da9/a19766.html", "de/da9/a19766" ],
+    [ "boss_freya_elder_brightleaf", "d8/d14/a19762.html#a9b1539b37912ef5ae46d5926bf2e0f40", null ],
+    [ "GetAI", "d8/d14/a19762.html#a3c39424ecf97ced8c2a962baff5ae342", null ]
 ];

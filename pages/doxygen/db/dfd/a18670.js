@@ -1,6 +1,7 @@
 var a18670 =
 [
-    [ "boss_four_horsemenAI", "d7/d50/a18674.html", "d7/d50/a18674" ],
-    [ "boss_four_horsemen", "db/dfd/a18670.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
-    [ "GetAI", "db/dfd/a18670.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
+    [ "HandleScript", "db/dfd/a18670.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
+    [ "Launch", "db/dfd/a18670.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
+    [ "PrepareSpellScript", "db/dfd/a18670.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
+    [ "Register", "db/dfd/a18670.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
 ];

@@ -1,16 +1,17 @@
 var a18686 =
 [
-    [ "boss_gluthAI", "d7/dea/a18686.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
-    [ "JustDied", "d7/dea/a18686.html#ada2c5f6b7025f5f2fb67b8ebe3b2d56c", null ],
-    [ "JustEngagedWith", "d7/dea/a18686.html#a25cf670d7254cc8331752987a854c63b", null ],
-    [ "JustSummoned", "d7/dea/a18686.html#acc09328210fbf1a6e81999d548676ae4", null ],
-    [ "KilledUnit", "d7/dea/a18686.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
-    [ "MoveInLineOfSight", "d7/dea/a18686.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
-    [ "Reset", "d7/dea/a18686.html#acb9f68205a2a210737d43893a414ca52", null ],
-    [ "SelectPlayerInRoom", "d7/dea/a18686.html#a1f8f87b00291d8164f607ac6262506cf", null ],
-    [ "SummonedCreatureDies", "d7/dea/a18686.html#a115a1f1327a931067223734dbf414675", null ],
-    [ "UpdateAI", "d7/dea/a18686.html#a2505f7ebda7b623edfedf96979a4a920", null ],
-    [ "events", "d7/dea/a18686.html#adaf9581259a774087ce02725b42b6b47", null ],
-    [ "pInstance", "d7/dea/a18686.html#a2546d250e59df4666ac536e371b3aa66", null ],
-    [ "summons", "d7/dea/a18686.html#a18f6aa3d949e68e9b38398780c017082", null ]
+    [ "boss_faerlinaAI", "d7/dea/a18686.html#a3a97178599b9053c23a079ed1a2ed163", null ],
+    [ "JustDied", "d7/dea/a18686.html#a7ac2e510568a9dad710beaad42db0544", null ],
+    [ "JustEngagedWith", "d7/dea/a18686.html#a830dfa4fed62b4588ea8866174d3653a", null ],
+    [ "JustSummoned", "d7/dea/a18686.html#a4b8294cccdddc77ab3d47130ae640970", null ],
+    [ "KilledUnit", "d7/dea/a18686.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
+    [ "MoveInLineOfSight", "d7/dea/a18686.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
+    [ "Reset", "d7/dea/a18686.html#acee81492b9b751df587a3a2cdd691ab3", null ],
+    [ "SpellHit", "d7/dea/a18686.html#aa4fac163e31dcd9353238f993259d5ec", null ],
+    [ "SummonHelpers", "d7/dea/a18686.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
+    [ "UpdateAI", "d7/dea/a18686.html#af3f25749a8964ee48830faca7135ed3a", null ],
+    [ "events", "d7/dea/a18686.html#a61c02ce073bd4cf261aca8a46bb13175", null ],
+    [ "pInstance", "d7/dea/a18686.html#a7ee42aa0dc3d035e5f3033146a624fda", null ],
+    [ "sayGreet", "d7/dea/a18686.html#a5f20e23458886c4f38c8f4a032e903d6", null ],
+    [ "summons", "d7/dea/a18686.html#ae6eabcd889a786344b10165de952c5f7", null ]
 ];

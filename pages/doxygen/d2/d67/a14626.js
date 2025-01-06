@@ -1,5 +1,6 @@
 var a14626 =
 [
-    [ "npc_idol_room_spawnerAI", "d2/d67/a14626.html#a77c4aa88d213271166158c8e75d41a69", null ],
-    [ "SetData", "d2/d67/a14626.html#aa0626c837086b4a275f4d51d1659a242", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d5/da8/a14630.html", "d5/da8/a14630" ],
+    [ "instance_razorfen_downs", "d2/d67/a14626.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
+    [ "GetInstanceScript", "d2/d67/a14626.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
 ];

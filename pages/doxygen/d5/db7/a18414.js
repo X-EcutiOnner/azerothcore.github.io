@@ -1,7 +1,6 @@
 var a18414 =
 [
-    [ "HandleScript", "d5/db7/a18414.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "d5/db7/a18414.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "d5/db7/a18414.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "d5/db7/a18414.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "HandleEvent", "d5/db7/a18414.html#a7936a64a1142a47b2addfd746dccfcef", null ],
+    [ "PrepareSpellScript", "d5/db7/a18414.html#a00e2be07131c674558d0364df98849ab", null ],
+    [ "Register", "d5/db7/a18414.html#a89364583504d2eaa75473586850bc3d5", null ]
 ];

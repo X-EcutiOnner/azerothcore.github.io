@@ -1,6 +1,6 @@
 var a17694 =
 [
-    [ "CheckTarget", "d6/d2a/a17694.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "d6/d2a/a17694.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "d6/d2a/a17694.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "ExtraRemoveEffect", "d6/d2a/a17694.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
+    [ "PrepareAuraScript", "d6/d2a/a17694.html#a41992ed6c23275d3a910915755b682f9", null ],
+    [ "Register", "d6/d2a/a17694.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
 ];

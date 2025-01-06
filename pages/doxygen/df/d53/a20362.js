@@ -1,11 +1,6 @@
 var a20362 =
 [
-    [ "boss_thorim_ancient_rune_giantAI", "df/d53/a20362.html#a75df92817fb5eafa28e5d9c33679dcf8", null ],
-    [ "DoAction", "df/d53/a20362.html#a1ee097badabf5264517bc0e9d9a45051", null ],
-    [ "JustDied", "df/d53/a20362.html#ac69a6187be136fa53c65a7eb13bf19d4", null ],
-    [ "JustEngagedWith", "df/d53/a20362.html#acbfd05bbbae2f5b8a6fa2ee8bc440498", null ],
-    [ "Reset", "df/d53/a20362.html#a280a68af0d6b65bc99bb9b7116b801ad", null ],
-    [ "UpdateAI", "df/d53/a20362.html#aef980c0fe0c50beca167ea0ef46ff0c7", null ],
-    [ "_isInCombat", "df/d53/a20362.html#ab015a6dc76067be1d51d3ce67b6a7aff", null ],
-    [ "events", "df/d53/a20362.html#afff251a2cc56b7ce686a5b58c196c16c", null ]
+    [ "boss_thorim_gauntlet_npcsAI", "d8/d99/a20366.html", "d8/d99/a20366" ],
+    [ "boss_thorim_gauntlet_npcs", "df/d53/a20362.html#abdf2e90c5b86d3724fac46bff5e15d97", null ],
+    [ "GetAI", "df/d53/a20362.html#a2a71153ed2a9091de6668ab0b6f7674f", null ]
 ];

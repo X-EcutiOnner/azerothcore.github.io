@@ -1,7 +1,9 @@
 var a23762 =
 [
-    [ "npc_maghar_captiveAI", "d1/d58/a23766.html", "d1/d58/a23766" ],
-    [ "npc_maghar_captive", "d9/d64/a23762.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "d9/d64/a23762.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "d9/d64/a23762.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
+    [ "npc_fel_guard_houndAI", "d9/d64/a23762.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "d9/d64/a23762.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "d9/d64/a23762.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "d9/d64/a23762.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "d9/d64/a23762.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "d9/d64/a23762.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

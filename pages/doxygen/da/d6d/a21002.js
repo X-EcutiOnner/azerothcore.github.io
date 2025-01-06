@@ -1,6 +1,6 @@
 var a21002 =
 [
-    [ "boss_erekemAI", "dc/d17/a21006.html", "dc/d17/a21006" ],
-    [ "boss_erekem", "da/d6d/a21002.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
-    [ "GetAI", "da/d6d/a21002.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
+    [ "npc_frozen_orb_stalkerAI", "da/d6d/a21002.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "da/d6d/a21002.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "da/d6d/a21002.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

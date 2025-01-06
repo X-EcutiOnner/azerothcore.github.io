@@ -1,8 +1,6 @@
 var a18398 =
 [
-    [ "CountTargets", "de/d0e/a18398.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
-    [ "HandleScript", "de/d0e/a18398.html#af058a0c458463bdba4a4eb73aa91c113", null ],
-    [ "PrepareSpellScript", "de/d0e/a18398.html#a83b2fad7cdc189a17129e25a015952ff", null ],
-    [ "Register", "de/d0e/a18398.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
-    [ "Validate", "de/d0e/a18398.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
+    [ "npc_arthas_teleport_visualAI", "d0/d06/a18402.html", "d0/d06/a18402" ],
+    [ "npc_arthas_teleport_visual", "de/d0e/a18398.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "de/d0e/a18398.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

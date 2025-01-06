@@ -1,6 +1,9 @@
 var a18058 =
 [
-    [ "npc_terenas_menethilAI", "de/d3f/a18062.html", "de/d3f/a18062" ],
-    [ "npc_terenas_menethil", "de/d72/a18058.html#a6b6850598c582e3d44c13275302fd32d", null ],
-    [ "GetAI", "de/d72/a18058.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
+    [ "HandleScript", "de/d72/a18058.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
+    [ "Load", "de/d72/a18058.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
+    [ "PrepareSpellScript", "de/d72/a18058.html#a73931c9434114749b9db648665153083", null ],
+    [ "Register", "de/d72/a18058.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
+    [ "SelectTarget", "de/d72/a18058.html#a95be527c43ceeb4801f4e494753c1b59", null ],
+    [ "_target", "de/d72/a18058.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
 ];

@@ -1,6 +1,6 @@
 var a13858 =
 [
-    [ "npc_brewfest_keg_reciver", "d2/d17/a13858.html#af12e7608f3f715650e6c265ac18920e4", null ],
-    [ "MoveInLineOfSight", "d2/d17/a13858.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
-    [ "sGossipSelect", "d2/d17/a13858.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
+    [ "instance_zulgurub_InstanceMapScript", "db/dc4/a13862.html", "db/dc4/a13862" ],
+    [ "instance_zulgurub", "d2/d17/a13858.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
+    [ "GetInstanceScript", "d2/d17/a13858.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
 ];

@@ -1,7 +1,12 @@
 var a22638 =
 [
-    [ "CalculateAmount", "db/d4b/a22638.html#adad1c8a513ce8a1badbd40c291363de1", null ],
-    [ "PrepareAuraScript", "db/d4b/a22638.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
-    [ "Register", "db/d4b/a22638.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
-    [ "Update", "db/d4b/a22638.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
+    [ "boss_essence_of_angerAI", "db/d4b/a22638.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "db/d4b/a22638.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "db/d4b/a22638.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "db/d4b/a22638.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "db/d4b/a22638.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "db/d4b/a22638.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "db/d4b/a22638.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "_recentlySpoken", "db/d4b/a22638.html#a056aa8fd704d832e83735cf2a1a22888", null ],
+    [ "targetGUID", "db/d4b/a22638.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

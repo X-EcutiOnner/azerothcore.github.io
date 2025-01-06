@@ -1,9 +1,12 @@
 var a17146 =
 [
-    [ "CheckProc", "de/dcc/a17146.html#a13426f7a45e9434f980b42f174b22da8", null ],
-    [ "HandlePeriodicTick", "de/dcc/a17146.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
-    [ "HandleProc", "de/dcc/a17146.html#abf744d64dae5835bff3877eeaa919af3", null ],
-    [ "PrepareAuraScript", "de/dcc/a17146.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
-    [ "Register", "de/dcc/a17146.html#a1b72c10256365de71b8f9fadf5886338", null ],
-    [ "Validate", "de/dcc/a17146.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
+    [ "npc_high_overlord_saurfangAI", "de/dcc/a17146.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "de/dcc/a17146.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "de/dcc/a17146.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "de/dcc/a17146.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "de/dcc/a17146.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "de/dcc/a17146.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "de/dcc/a17146.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "de/dcc/a17146.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_instance", "de/dcc/a17146.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

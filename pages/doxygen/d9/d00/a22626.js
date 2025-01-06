@@ -1,6 +1,6 @@
 var a22626 =
 [
-    [ "FilterTargets", "d9/d00/a22626.html#a04973145ed594b88afe2acc0cacb10c6", null ],
-    [ "PrepareSpellScript", "d9/d00/a22626.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
-    [ "Register", "d9/d00/a22626.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
+    [ "boss_essence_of_desireAI", "db/d16/a22630.html", "db/d16/a22630" ],
+    [ "boss_essence_of_desire", "d9/d00/a22626.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
+    [ "GetAI", "d9/d00/a22626.html#a14b66470c508fa24e214062aeec0aae6", null ]
 ];

@@ -1,6 +1,5 @@
 var a14030 =
 [
-    [ "gameobjectId", "d0/df8/a14030.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "d0/df8/a14030.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "d0/df8/a14030.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "npc_cw_area_triggerAI", "d0/df8/a14030.html#aede21e01dfe762922562b6f5d57bc406", null ],
+    [ "MoveInLineOfSight", "d0/df8/a14030.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
 ];

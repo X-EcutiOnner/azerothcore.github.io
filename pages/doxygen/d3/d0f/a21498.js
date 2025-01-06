@@ -1,5 +1,6 @@
 var a21498 =
 [
-    [ "at_q24545_frostmourne_cavern", "d3/d0f/a21498.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
-    [ "OnTrigger", "d3/d0f/a21498.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
+    [ "HandleSendEvent", "d3/d0f/a21498.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "d3/d0f/a21498.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "d3/d0f/a21498.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

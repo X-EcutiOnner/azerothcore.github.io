@@ -1,9 +1,6 @@
 var a24090 =
 [
-    [ "npc_pet_gen_soul_trader_beacon", "d9/d63/a24090.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
-    [ "GetOwner", "d9/d63/a24090.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
-    [ "SpellHitTarget", "d9/d63/a24090.html#a6c0d3181b913c5022325f66586f66bfa", null ],
-    [ "UpdateAI", "d9/d63/a24090.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
-    [ "events", "d9/d63/a24090.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
-    [ "ownerGUID", "d9/d63/a24090.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
+    [ "npc_pet_dk_army_of_the_deadAI", "d2/d51/a24094.html", "d2/d51/a24094" ],
+    [ "npc_pet_dk_army_of_the_dead", "d9/d63/a24090.html#a0029b9a6bf26ac3419e580d437a0139f", null ],
+    [ "GetAI", "d9/d63/a24090.html#a1883936b7f2905f67d3750faa8caf635", null ]
 ];

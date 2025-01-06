@@ -1,11 +1,7 @@
 var a17950 =
 [
-    [ "AddMissingStack", "dd/dee/a17950.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
-    [ "CheckAura", "dd/dee/a17950.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
-    [ "FilterTargets", "dd/dee/a17950.html#ab6c86c3680823329d5f3aad985aa316a", null ],
-    [ "Load", "dd/dee/a17950.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
-    [ "PrepareSpellScript", "dd/dee/a17950.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
-    [ "Register", "dd/dee/a17950.html#af0e6f1fc6687de1abcc1689116150088", null ],
-    [ "_hadInitialAura", "dd/dee/a17950.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
-    [ "_hadJumpingAura", "dd/dee/a17950.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
+    [ "HandleScript", "dd/dee/a17950.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
+    [ "PrepareSpellScript", "dd/dee/a17950.html#a598baad08c685bba54ad5306e0d521b4", null ],
+    [ "Register", "dd/dee/a17950.html#a471bac09c68708daefe6a39f283caa4c", null ],
+    [ "Validate", "dd/dee/a17950.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
 ];

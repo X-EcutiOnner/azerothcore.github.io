@@ -1,9 +1,6 @@
 var a24442 =
 [
-    [ "Absorb", "df/dce/a24442.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
-    [ "CalculateAmount", "df/dce/a24442.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
-    [ "Load", "df/dce/a24442.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
-    [ "PrepareAuraScript", "df/dce/a24442.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
-    [ "Register", "df/dce/a24442.html#a47bd5ef93255a2d926874d6d70861374", null ],
-    [ "absorbPct", "df/dce/a24442.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
+    [ "HandleEffectCalcSpellMod", "df/dce/a24442.html#aaf21dafa72b58245f548ed946a49659d", null ],
+    [ "PrepareAuraScript", "df/dce/a24442.html#ac05d3ae466ad64ac590f399827aac0c9", null ],
+    [ "Register", "df/dce/a24442.html#a46a643985647d8a8e033b637b31214a5", null ]
 ];

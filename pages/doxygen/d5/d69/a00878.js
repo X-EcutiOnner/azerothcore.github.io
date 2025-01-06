@@ -1,6 +1,6 @@
 var a00878 =
 [
-    [ "boss_blackheart_the_inciter", "df/d30/a22370.html", "df/d30/a22370" ],
+    [ "boss_blackheart_the_inciter", "d0/d27/a22390.html", "d0/d27/a22390" ],
     [ "Npc", "d5/d69/a00878.html#a8d8031a9ef6bd14633aa0a1bc87e2753", [
       [ "NPC_IRON_SLUDGE", "d4/d26/a01700.html#a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e", null ],
       [ "NPC_DWARFES_FRIENDLY", "d4/d26/a01700.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7", null ],
@@ -812,6 +812,7 @@ var a00878 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

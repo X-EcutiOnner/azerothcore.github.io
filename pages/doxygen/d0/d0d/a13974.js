@@ -1,11 +1,7 @@
 var a13974 =
 [
-    [ "npc_winterfin_playmate", "d0/d0d/a13974.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
-    [ "MoveInLineOfSight", "d0/d0d/a13974.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
-    [ "Reset", "d0/d0d/a13974.html#aae6b51c22dc0448608c1cf9412565e25", null ],
-    [ "UpdateAI", "d0/d0d/a13974.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
-    [ "orphanGUID", "d0/d0d/a13974.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
-    [ "phase", "d0/d0d/a13974.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
-    [ "playerGUID", "d0/d0d/a13974.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
-    [ "timer", "d0/d0d/a13974.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
+    [ "FilterTargets", "d0/d0d/a13974.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
+    [ "HandleDummy", "d0/d0d/a13974.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
+    [ "PrepareSpellScript", "d0/d0d/a13974.html#a6ac4db072beae6ae7a700774667da613", null ],
+    [ "Register", "d0/d0d/a13974.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
 ];

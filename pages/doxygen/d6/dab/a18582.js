@@ -1,5 +1,5 @@
 var a18582 =
 [
-    [ "creatureEntry", "d6/dab/a18582.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "d6/dab/a18582.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "at_icc_putricide_trap", "d6/dab/a18582.html#a9d4183629deada9c22750b8a34e94583", null ],
+    [ "OnTrigger", "d6/dab/a18582.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
 ];

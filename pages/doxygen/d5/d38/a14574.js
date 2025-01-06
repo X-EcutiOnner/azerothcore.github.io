@@ -1,10 +1,8 @@
 var a14574 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d5/d38/a14574.html#a9c46508320d3973006561444feae0586", null ],
-    [ "Initialize", "d5/d38/a14574.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
-    [ "OnGameObjectCreate", "d5/d38/a14574.html#a3a287b97db58c3489815f20ee0d37977", null ],
-    [ "ReadSaveDataMore", "d5/d38/a14574.html#ac2cd336874b25ad20dac104037de1df5", null ],
-    [ "SetData", "d5/d38/a14574.html#a6e90bf60a076c164e432128f7ec62fba", null ],
-    [ "WriteSaveDataMore", "d5/d38/a14574.html#a6e4072342e66689d343912de85e66b34", null ],
-    [ "_encounters", "d5/d38/a14574.html#af2e752a791d75e50001060c4a9f18173", null ]
+    [ "Load", "d5/d38/a14574.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "d5/d38/a14574.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "d5/d38/a14574.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "d5/d38/a14574.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "d5/d38/a14574.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

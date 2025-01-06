@@ -1,6 +1,5 @@
 var a18550 =
 [
-    [ "npc_icc_putricades_trapAI", "d9/d62/a18554.html", "d9/d62/a18554" ],
-    [ "npc_icc_putricades_trap", "d7/d3c/a18550.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
-    [ "GetAI", "d7/d3c/a18550.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
+    [ "npc_icc_buff_switcher", "d7/d3c/a18550.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
+    [ "OnGossipSelect", "d7/d3c/a18550.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
 ];

@@ -1,7 +1,6 @@
 var a18690 =
 [
-    [ "HandleScriptEffect", "d2/d02/a18690.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
-    [ "PrepareSpellScript", "d2/d02/a18690.html#a21a3175346c9b12c02205f2d33da3b86", null ],
-    [ "Register", "d2/d02/a18690.html#af5f279ad20e9153f201262eaa7615978", null ],
-    [ "Validate", "d2/d02/a18690.html#a635ff34619767f657778016e1eb901aa", null ]
+    [ "boss_four_horsemenAI", "d0/d6c/a18694.html", "d0/d6c/a18694" ],
+    [ "boss_four_horsemen", "d2/d02/a18690.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
+    [ "GetAI", "d2/d02/a18690.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
 ];

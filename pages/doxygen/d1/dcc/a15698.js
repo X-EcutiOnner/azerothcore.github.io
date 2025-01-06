@@ -1,6 +1,9 @@
 var a15698 =
 [
-    [ "HandleLeapBack", "d1/dcc/a15698.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "d1/dcc/a15698.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "d1/dcc/a15698.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "boss_sartharion_vesperonAI", "d1/dcc/a15698.html#afd67bf2c7a479771976673b05b0fc29e", null ],
+    [ "ClearInstance", "d1/dcc/a15698.html#aad9556374e26cbea7641461510fef9ba", null ],
+    [ "ExecuteEvent", "d1/dcc/a15698.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09", null ],
+    [ "HandleExtraEvent", "d1/dcc/a15698.html#ab2080a14c105aeb6a9c155cf6f4ec17d", null ],
+    [ "Reset", "d1/dcc/a15698.html#aacf26c52f77ef4eb084814934f00aab1", null ],
+    [ "SummonedCreatureDies", "d1/dcc/a15698.html#a1e6fc9b1c734e73e5e27f6a17cf65d0b", null ]
 ];

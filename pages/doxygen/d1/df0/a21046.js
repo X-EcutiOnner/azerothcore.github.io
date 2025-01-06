@@ -1,12 +1,6 @@
 var a21046 =
 [
-    [ "boss_moraggAI", "d1/df0/a21046.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "d1/df0/a21046.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "d1/df0/a21046.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "d1/df0/a21046.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "d1/df0/a21046.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "d1/df0/a21046.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "d1/df0/a21046.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "d1/df0/a21046.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "d1/df0/a21046.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "npc_ichor_globuleAI", "d5/d47/a21050.html", "d5/d47/a21050" ],
+    [ "npc_ichor_globule", "d1/df0/a21046.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
+    [ "GetAI", "d1/df0/a21046.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
 ];

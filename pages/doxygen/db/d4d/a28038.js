@@ -1,8 +1,7 @@
 var a28038 =
 [
-    [ "Color", "db/d4d/a28038.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "db/d4d/a28038.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "db/d4d/a28038.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "db/d4d/a28038.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "db/d4d/a28038.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "Flags", "db/d4d/a28038.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
+    [ "ID", "db/d4d/a28038.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
+    [ "RangeMax", "db/d4d/a28038.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
+    [ "RangeMin", "db/d4d/a28038.html#a127a46f2382edea750ca567d5ea3d304", null ]
 ];

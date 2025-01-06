@@ -1,8 +1,10 @@
 var a28274 =
 [
-    [ "ADT_file", "dd/dce/a28274.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
-    [ "~ADT_file", "dd/dce/a28274.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
-    [ "free", "dd/dce/a28274.html#a8fc207b8cc83596577166a0008965dc6", null ],
-    [ "prepareLoadedData", "dd/dce/a28274.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
-    [ "a_grid", "dd/dce/a28274.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
+    [ "plane", "d4/d18/a28282.html", "d4/d18/a28282" ],
+    [ "prepareLoadedData", "dd/dce/a28274.html#a29dc30be1cb7f5439e023865ff5a4853", null ],
+    [ "fcc", "dd/dce/a28274.html#a8c64958fb4e18bc3bcfaf7dbfde9f178", null ],
+    [ "fcc_txt", "dd/dce/a28274.html#ab768fb1ba27812060cf2edeb5f4b876c", null ],
+    [ "max", "dd/dce/a28274.html#afadebfc1361985b6f5d45c27e22cb303", null ],
+    [ "min", "dd/dce/a28274.html#ac3ebf1557841088ef8912b68fe6df908", null ],
+    [ "size", "dd/dce/a28274.html#af92420cfd862486c73c35ac8a9f9fdee", null ]
 ];

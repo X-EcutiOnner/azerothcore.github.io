@@ -1,6 +1,5 @@
 var a14570 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d5/d38/a14574.html", "d5/d38/a14574" ],
-    [ "instance_maraudon", "d6/d71/a14570.html#aaae11d2569d04b42840b101a5702cf24", null ],
-    [ "GetInstanceScript", "d6/d71/a14570.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
+    [ "npc_black_morass_summoned_add", "d6/d71/a14570.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
+    [ "EnterEvadeMode", "d6/d71/a14570.html#a437e7b72b985713d22883f3e33f30942", null ]
 ];

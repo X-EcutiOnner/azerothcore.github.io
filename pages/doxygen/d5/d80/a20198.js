@@ -1,5 +1,6 @@
 var a20198 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "d5/d80/a20198.html#a6308129d11989dadf0a5948c4a268e4b", null ],
-    [ "SpellHitTarget", "d5/d80/a20198.html#a3c254e16f62e7d2414d81062c91c2468", null ]
+    [ "npc_ulduar_flames_spreadAI", "df/d0d/a20202.html", "df/d0d/a20202" ],
+    [ "npc_ulduar_flames_spread", "d5/d80/a20198.html#aca9713b28d6d0c7b13b85a00c8a53ab0", null ],
+    [ "GetAI", "d5/d80/a20198.html#af492a5bc9304a05f8475a39458c6abdb", null ]
 ];

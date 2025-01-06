@@ -1,6 +1,8 @@
 var a25950 =
 [
-    [ "CheckCast", "db/dc7/a25950.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "db/dc7/a25950.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "db/dc7/a25950.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "HandleApplyEffect", "db/dc7/a25950.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
+    [ "Load", "db/dc7/a25950.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
+    [ "PrepareAuraScript", "db/dc7/a25950.html#a6e212284f72320356cfa2f0c2a59999d", null ],
+    [ "Register", "db/dc7/a25950.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
+    [ "Validate", "db/dc7/a25950.html#a985a52f71371443454d6dd36f7fe83b2", null ]
 ];

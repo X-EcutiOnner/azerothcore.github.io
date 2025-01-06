@@ -1,4 +1,5 @@
 var a27798 =
 [
-    [ "ID", "d6/df5/a27798.html#a7d31bf2a11559873fc410d4cb32c5f54", null ]
+    [ "Id", "d6/df5/a27798.html#a79e4b857b811a044aed0ce33422df801", null ],
+    [ "quality_mod", "d6/df5/a27798.html#a756e7b316cc365f15f24e5e4637303a6", null ]
 ];

@@ -1,9 +1,8 @@
 var a19434 =
 [
-    [ "CheckTargets", "d0/d67/a19434.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "d0/d67/a19434.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "d0/d67/a19434.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "d0/d67/a19434.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "d0/d67/a19434.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "d0/d67/a19434.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "HandlePeriodic", "d0/d67/a19434.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "d0/d67/a19434.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "d0/d67/a19434.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "d0/d67/a19434.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "d0/d67/a19434.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

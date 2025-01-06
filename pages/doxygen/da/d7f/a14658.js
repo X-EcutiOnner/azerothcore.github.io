@@ -1,7 +1,14 @@
 var a14658 =
 [
-    [ "HandleScript", "da/d7f/a14658.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
-    [ "Load", "da/d7f/a14658.html#a2dc1edf537f58133fb4daabde9f43843", null ],
-    [ "PrepareSpellScript", "da/d7f/a14658.html#ae856c6e70ededa95c0308596a9f980af", null ],
-    [ "Register", "da/d7f/a14658.html#ac2e82c7e626658faa968f75c26688b43", null ]
+    [ "boss_ayamiss", "da/d7f/a14658.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
+    [ "DoAction", "da/d7f/a14658.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
+    [ "EnterEvadeMode", "da/d7f/a14658.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
+    [ "JustDied", "da/d7f/a14658.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
+    [ "JustEngagedWith", "da/d7f/a14658.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
+    [ "JustSummoned", "da/d7f/a14658.html#a4281f761256cd93c19aea0a76239512d", null ],
+    [ "MovementInform", "da/d7f/a14658.html#a6bc1f0767785efb5a5fb005b49338032", null ],
+    [ "Reset", "da/d7f/a14658.html#a10111f97236c2846181aa20f7d9b64fd", null ],
+    [ "ScheduleTasks", "da/d7f/a14658.html#a166238b9395a426a7333cf71a38c6c5c", null ],
+    [ "_swarmers", "da/d7f/a14658.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
+    [ "homePos", "da/d7f/a14658.html#ab098ee0f8872d1cf9d34993c01971921", null ]
 ];

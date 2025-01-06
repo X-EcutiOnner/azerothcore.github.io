@@ -1,7 +1,7 @@
 var a21702 =
 [
-    [ "npc_Apothecary_HanesAI", "d4/dc0/a21706.html", "d4/dc0/a21706" ],
-    [ "npc_apothecary_hanes", "dc/deb/a21702.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
-    [ "GetAI", "dc/deb/a21702.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
-    [ "OnQuestAccept", "dc/deb/a21702.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
+    [ "HandleScript", "dc/deb/a21702.html#a7fec959237546201ea94d5f87068e1c5", null ],
+    [ "PrepareSpellScript", "dc/deb/a21702.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
+    [ "Register", "dc/deb/a21702.html#a0aab07a4950f60a290491aa13103b332", null ],
+    [ "Validate", "dc/deb/a21702.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
 ];

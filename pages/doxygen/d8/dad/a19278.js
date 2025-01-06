@@ -1,6 +1,12 @@
 var a19278 =
 [
-    [ "boss_sjonnirAI", "d6/d68/a19282.html", "d6/d68/a19282" ],
-    [ "boss_sjonnir", "d8/dad/a19278.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d8/dad/a19278.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "boss_krystallusAI", "d8/dad/a19278.html#adfa2ab8498279937bf497292d6e7cba5", null ],
+    [ "JustDied", "d8/dad/a19278.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
+    [ "JustEngagedWith", "d8/dad/a19278.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
+    [ "KilledUnit", "d8/dad/a19278.html#acf9101c5b776820039fd80e5d6e0c138", null ],
+    [ "RemoveStonedEffect", "d8/dad/a19278.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
+    [ "Reset", "d8/dad/a19278.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
+    [ "UpdateAI", "d8/dad/a19278.html#a79095e25f1d9dac927f63cef67db60ec", null ],
+    [ "events", "d8/dad/a19278.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
+    [ "pInstance", "d8/dad/a19278.html#aec9cf7053476298f72dccf3bd1579c63", null ]
 ];

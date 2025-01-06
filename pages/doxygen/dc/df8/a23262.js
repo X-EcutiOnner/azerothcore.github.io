@@ -1,6 +1,12 @@
 var a23262 =
 [
-    [ "HandleScriptEffect", "dc/df8/a23262.html#afae95a49843aa956d627e9bd92f8820f", null ],
-    [ "PrepareSpellScript", "dc/df8/a23262.html#a434945da0a6b64db79cab0e09cbbb286", null ],
-    [ "Register", "dc/df8/a23262.html#a396acb663b8c9151196b8fedea3660c7", null ]
+    [ "boss_omor_the_unscarred", "dc/df8/a23262.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "dc/df8/a23262.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "dc/df8/a23262.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "dc/df8/a23262.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "dc/df8/a23262.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "dc/df8/a23262.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "dc/df8/a23262.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "dc/df8/a23262.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "dc/df8/a23262.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

@@ -1,6 +1,8 @@
 var a22142 =
 [
-    [ "npc_captured_rageclawAI", "da/d7b/a22146.html", "da/d7b/a22146" ],
-    [ "npc_captured_rageclaw", "d8/d2b/a22142.html#ad49176279e9d16a6a24c0649c576c0be", null ],
-    [ "GetAI", "d8/d2b/a22142.html#aa39b6c518fe22d91b8673cfd576866a4", null ]
+    [ "npc_feedin_da_goolzAI", "d8/d2b/a22142.html#ada9ba6b4a0dfa5858b76986f8ebaa5d0", null ],
+    [ "UpdateAI", "d8/d2b/a22142.html#a7cbe5e54620e2356601c09effbe22928", null ],
+    [ "checkTimer", "d8/d2b/a22142.html#a834f91e84fc2dff6a07e46f0b677de3e", null ],
+    [ "findTimer", "d8/d2b/a22142.html#a91b49f7c12fed4ddd958171187ccfb47", null ],
+    [ "ghoulFed", "d8/d2b/a22142.html#adf256f6a4311f8b7cf6758259cc78f3f", null ]
 ];

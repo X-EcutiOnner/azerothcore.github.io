@@ -1,6 +1,7 @@
 var a17422 =
 [
-    [ "DaranavanMoveEvent", "de/d44/a17422.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
-    [ "Execute", "de/d44/a17422.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
-    [ "_darnavan", "de/d44/a17422.html#a7585edb957755efbc6064f232d50ea4e", null ]
+    [ "DamageGunship", "de/d44/a17422.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "de/d44/a17422.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "de/d44/a17422.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "de/d44/a17422.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

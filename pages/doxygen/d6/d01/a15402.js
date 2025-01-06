@@ -1,7 +1,6 @@
 var a15402 =
 [
-    [ "npc_ringoAI", "d7/d13/a15406.html", "d7/d13/a15406" ],
-    [ "npc_ringo", "d6/d01/a15402.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
-    [ "GetAI", "d6/d01/a15402.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
-    [ "OnQuestAccept", "d6/d01/a15402.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
+    [ "HandleDummy", "d6/d01/a15402.html#a2750ae788168e7496ea2345c5535509c", null ],
+    [ "PrepareSpellScript", "d6/d01/a15402.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
+    [ "Register", "d6/d01/a15402.html#ab6c961d89d22761402eb4f5881cbd318", null ]
 ];

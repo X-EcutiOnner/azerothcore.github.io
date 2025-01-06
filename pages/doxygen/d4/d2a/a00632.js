@@ -1,9 +1,9 @@
 var a00632 =
 [
-    [ "boss_mechano_lord_capacitus", "d9/ddd/a23606.html", "d9/ddd/a23606" ],
-    [ "spell_capacitus_polarity_charge", "df/d43/a23610.html", "df/d43/a23610" ],
-    [ "spell_capacitus_polarity_charge_aura", "d9/df4/a23614.html", "d9/df4/a23614" ],
-    [ "spell_capacitus_polarity_shift", "da/d73/a23618.html", "da/d73/a23618" ],
+    [ "boss_mechano_lord_capacitus", "de/dad/a23626.html", "de/dad/a23626" ],
+    [ "spell_capacitus_polarity_charge", "da/d01/a23630.html", "da/d01/a23630" ],
+    [ "spell_capacitus_polarity_charge_aura", "d8/ddc/a23634.html", "d8/ddc/a23634" ],
+    [ "spell_capacitus_polarity_shift", "d8/d8f/a23638.html", "d8/d8f/a23638" ],
     [ "polarityShift", "d4/d2a/a00632.html#adfcb85d87bd0304f358a9d2549e866aa", [
       [ "SPELL_POSITIVE_POLARITY", "d4/d2a/a00632.html#adfcb85d87bd0304f358a9d2549e866aaa795738ba63917afbc0763ca952c1acf2", null ],
       [ "SPELL_POSITIVE_CHARGE_STACK", "d4/d2a/a00632.html#adfcb85d87bd0304f358a9d2549e866aaa9a8ba6564944a1455aee4c76339e7ae5", null ],
@@ -806,6 +806,7 @@ var a00632 =
       [ "SPELL_FLAME_BREATH", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
       [ "SPELL_FIRE_WALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4874e5bf7912ec5dac9986f04680be01", null ],
       [ "SPELL_ENRAGE", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_PLAYERS_DUMMY", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298cabe1014e8b71e58433e3d8a30329db3db", null ],
       [ "SPELL_SUMMON_PLAYERS", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298caa0fd9ab7fe0cb8e51c133242c35187db", null ],
       [ "SPELL_TELE_TO_CENTER", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca9ff0f80bc17a7eb901d84c8107e27f74", null ],
       [ "SPELL_HATCH_ALL", "d5/d4d/a02186.html#a5bd342133be8c2137b831460acc9298ca4b1f88b8581fa6af6c9b2d4dbbe7d09d", null ],

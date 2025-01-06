@@ -1,8 +1,14 @@
 var a29310 =
 [
-    [ "npc_artoriusAI", "dc/d6b/a29314.html", "dc/d6b/a29314" ],
-    [ "npc_artorius", "d5/db5/a29310.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "d5/db5/a29310.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "d5/db5/a29310.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "d5/db5/a29310.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "file_MVER", "d8/dff/a28322.html", "d8/dff/a28322" ],
+    [ "FileLoader", "de/d08/a28330.html", "de/d08/a28330" ],
+    [ "FILE_FORMAT_VERSION", "d5/db5/a29310.html#a82680783457cdcbe83db9eefe68f8a9b", null ],
+    [ "int16", "d5/db5/a29310.html#aa0d0fdc87fd135ef2bedb030901cdb9c", null ],
+    [ "int32", "d5/db5/a29310.html#ab7903878916593daecbeb95b98115ab0", null ],
+    [ "int64", "d5/db5/a29310.html#a7cde0074dfd288f2d70c0e035dacb28a", null ],
+    [ "int8", "d5/db5/a29310.html#aa79c2d3de4fcd200458c406f40b2ae64", null ],
+    [ "uint16", "d5/db5/a29310.html#ac2a9e79eb120216f855626495b7bd18a", null ],
+    [ "uint32", "d5/db5/a29310.html#acbd4acd0d29e2d6c43104827f77d9cd2", null ],
+    [ "uint64", "d5/db5/a29310.html#abc0f5bc07737e498f287334775dff2b6", null ],
+    [ "uint8", "d5/db5/a29310.html#a33a5e996e7a90acefb8b1c0bea47e365", null ]
 ];

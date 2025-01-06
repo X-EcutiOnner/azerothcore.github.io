@@ -1,6 +1,7 @@
 var a14958 =
 [
-    [ "HandleDummy", "d5/dac/a14958.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "d5/dac/a14958.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "d5/dac/a14958.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "npc_vekniss_stinger", "d5/dac/a14958.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "d5/dac/a14958.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "d5/dac/a14958.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "d5/dac/a14958.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

@@ -1,6 +1,5 @@
 var a27334 =
 [
-    [ "npc_spring_rabbitAI", "d3/dc5/a27338.html", "d3/dc5/a27338" ],
-    [ "npc_spring_rabbit", "d2/da4/a27334.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "d2/da4/a27334.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "npc_pet_trainerAI", "d2/da4/a27334.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
+    [ "sGossipSelect", "d2/da4/a27334.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
 ];

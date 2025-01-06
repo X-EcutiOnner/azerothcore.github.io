@@ -1,6 +1,9 @@
 var a23462 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d5/d55/a23466.html", "d5/d55/a23466" ],
-    [ "instance_the_botanica", "dd/d44/a23462.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "dd/d44/a23462.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "boss_high_botanist_freywinn", "dd/d44/a23462.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "dd/d44/a23462.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "dd/d44/a23462.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "dd/d44/a23462.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "dd/d44/a23462.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "dd/d44/a23462.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

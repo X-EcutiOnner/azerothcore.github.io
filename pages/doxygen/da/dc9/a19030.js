@@ -1,7 +1,7 @@
 var a19030 =
 [
-    [ "HandlePull", "da/dc9/a19030.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "da/dc9/a19030.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "da/dc9/a19030.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "da/dc9/a19030.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "boss_commander_stoutbeard", "da/dc9/a19030.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "da/dc9/a19030.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "da/dc9/a19030.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "da/dc9/a19030.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

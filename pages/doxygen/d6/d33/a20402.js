@@ -1,6 +1,6 @@
 var a20402 =
 [
-    [ "npc_xt002_heartAI", "dd/d80/a20406.html", "dd/d80/a20406" ],
-    [ "npc_xt002_heart", "d6/d33/a20402.html#ab914ce1e945080b873cf6f93e3a6a32c", null ],
-    [ "GetAI", "d6/d33/a20402.html#af59c6623b97d1adff765e8ba4958d482", null ]
+    [ "OnPeriodic", "d6/d33/a20402.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "d6/d33/a20402.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "d6/d33/a20402.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

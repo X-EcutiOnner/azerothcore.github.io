@@ -1,6 +1,6 @@
 var a21678 =
 [
-    [ "HandleOnEffectRemove", "d7/dd5/a21678.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d7/dd5/a21678.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d7/dd5/a21678.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_rocket_propelled_warheadAI", "d0/d09/a21682.html", "d0/d09/a21682" ],
+    [ "npc_rocket_propelled_warhead", "d7/dd5/a21678.html#a5c945efc6e3ca847363ac47abc5f51ca", null ],
+    [ "GetAI", "d7/dd5/a21678.html#a803702c480107d197845a0ef447a5380", null ]
 ];

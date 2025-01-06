@@ -1,5 +1,6 @@
 var a27026 =
 [
-    [ "go_table_theka", "da/d5e/a27026.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "da/d5e/a27026.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "go_fel_crystalforge", "da/d5e/a27026.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "da/d5e/a27026.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "da/d5e/a27026.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

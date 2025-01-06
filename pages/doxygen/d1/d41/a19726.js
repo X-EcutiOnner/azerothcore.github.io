@@ -1,6 +1,6 @@
 var a19726 =
 [
-    [ "boss_freyaAI", "d3/dff/a19730.html", "d3/dff/a19730" ],
-    [ "boss_freya", "d1/d41/a19726.html#ae366f60526e7c948dee148cdd12f0752", null ],
-    [ "GetAI", "d1/d41/a19726.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
+    [ "CheckCast", "d1/d41/a19726.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "d1/d41/a19726.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "d1/d41/a19726.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

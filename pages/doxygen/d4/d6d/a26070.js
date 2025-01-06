@@ -1,7 +1,7 @@
 var a26070 =
 [
-    [ "HandleDummy", "d4/d6d/a26070.html#a367bd26543382ad71668fbe4f524d823", null ],
-    [ "PrepareSpellScript", "d4/d6d/a26070.html#a71cde3f81fdb253d8e93a19be104e9db", null ],
-    [ "Register", "d4/d6d/a26070.html#a7c73e3381592bef44d2265aff296b301", null ],
-    [ "Validate", "d4/d6d/a26070.html#a03d59b6859286dbe460b348df6de63d7", null ]
+    [ "HandleEffectPeriodic", "d4/d6d/a26070.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
+    [ "PrepareAuraScript", "d4/d6d/a26070.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
+    [ "Register", "d4/d6d/a26070.html#ac3741617faacf83a707f1359aab1886e", null ],
+    [ "Validate", "d4/d6d/a26070.html#a9378252b6711cc0bec3e63efce026495", null ]
 ];

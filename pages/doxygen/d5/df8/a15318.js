@@ -1,7 +1,13 @@
 var a15318 =
 [
-    [ "npc_toogaAI", "d1/d79/a15322.html", "d1/d79/a15322" ],
-    [ "npc_tooga", "d5/df8/a15318.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "d5/df8/a15318.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "d5/df8/a15318.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
+    [ "npc_aquementasAI", "d5/df8/a15318.html#aad63986cdb8a65c528af3ccd114d2041", null ],
+    [ "JustEngagedWith", "d5/df8/a15318.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
+    [ "Reset", "d5/df8/a15318.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
+    [ "SendItem", "d5/df8/a15318.html#a60bafbd70783411236dcf3d0bfe244de", null ],
+    [ "UpdateAI", "d5/df8/a15318.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
+    [ "AquaJetTimer", "d5/df8/a15318.html#a8506acc69436af869d1404bd95109e68", null ],
+    [ "FrostShockTimer", "d5/df8/a15318.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
+    [ "isFriendly", "d5/df8/a15318.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
+    [ "SendItemTimer", "d5/df8/a15318.html#a3a0883b43056b176ef2ae55673adacf3", null ],
+    [ "SwitchFactionTimer", "d5/df8/a15318.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
 ];

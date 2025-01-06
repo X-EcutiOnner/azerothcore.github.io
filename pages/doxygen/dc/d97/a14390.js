@@ -1,6 +1,8 @@
 var a14390 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "dd/dc4/a14394.html", "dd/dc4/a14394" ],
-    [ "instance_hyjal", "dc/d97/a14390.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
-    [ "GetInstanceScript", "dc/d97/a14390.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
+    [ "hyjalTyrandeAI", "dc/d97/a14390.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
+    [ "JustDied", "dc/d97/a14390.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
+    [ "JustEngagedWith", "dc/d97/a14390.html#a158589b567d22c8f6e0be462bad8299d", null ],
+    [ "Reset", "dc/d97/a14390.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
+    [ "UpdateAI", "dc/d97/a14390.html#a9e825f9d87df6227b73eb965488eff8a", null ]
 ];

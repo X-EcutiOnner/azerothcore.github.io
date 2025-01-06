@@ -1,6 +1,5 @@
 var a16682 =
 [
-    [ "boss_garfrostAI", "d1/de9/a16686.html", "d1/de9/a16686" ],
-    [ "boss_garfrost", "d3/d39/a16682.html#ac116491cf252ee476cedee55ea292827", null ],
-    [ "GetAI", "d3/d39/a16682.html#a8a67bb09249655a8706868bb26b5124d", null ]
+    [ "at_hor_battered_hilt_start", "d3/d39/a16682.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
+    [ "OnTrigger", "d3/d39/a16682.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
 ];

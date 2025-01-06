@@ -1,6 +1,7 @@
 var a17310 =
 [
-    [ "npc_gunship_gunnerAI", "d6/d89/a17314.html", "d6/d89/a17314" ],
-    [ "npc_gunship_gunner", "d6/dff/a17310.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "d6/dff/a17310.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "npc_gunship_boarding_leaderAI", "d6/dff/a17310.html#ac20099905fd6fddda2561b88cf077b77", null ],
+    [ "JustEngagedWith", "d6/dff/a17310.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
+    [ "UpdateAI", "d6/dff/a17310.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
+    [ "_events", "d6/dff/a17310.html#affb899bbaa288e72a48d5518367b023d", null ]
 ];

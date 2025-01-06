@@ -1,6 +1,6 @@
 var a20582 =
 [
-    [ "boss_yoggsaron_lich_kingAI", "d1/dee/a20586.html", "d1/dee/a20586" ],
-    [ "boss_yoggsaron_lich_king", "d4/d2e/a20582.html#a1655d608683e90ccafd350204eed2d31", null ],
-    [ "GetAI", "d4/d2e/a20582.html#aa65cd9c9eafba12ae065903868ee5319", null ]
+    [ "boss_yoggsaron_descend_portalAI", "d4/d2e/a20582.html#a50ddd1d7b1d4a2e729657e53dfee43f2", null ],
+    [ "OnSpellClick", "d4/d2e/a20582.html#aba032a7347230db028d1e939944d3f46", null ],
+    [ "_instance", "d4/d2e/a20582.html#a477abf19a0b5bf9865550541877a29d7", null ]
 ];

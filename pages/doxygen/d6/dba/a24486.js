@@ -1,8 +1,6 @@
 var a24486 =
 [
-    [ "AfterApply", "d6/dba/a24486.html#a9c2591beacd941893338109719c03e3f", null ],
-    [ "AfterRemove", "d6/dba/a24486.html#a0be2a66b615dd926de7073392a8e5062", null ],
-    [ "PrepareAuraScript", "d6/dba/a24486.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
-    [ "Register", "d6/dba/a24486.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
-    [ "Validate", "d6/dba/a24486.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
+    [ "CheckCast", "d6/dba/a24486.html#a8ab8394c56201264ac4f2d859dd52092", null ],
+    [ "PrepareSpellScript", "d6/dba/a24486.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
+    [ "Register", "d6/dba/a24486.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
 ];

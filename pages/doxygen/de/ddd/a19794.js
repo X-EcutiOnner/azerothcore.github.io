@@ -1,9 +1,6 @@
 var a19794 =
 [
-    [ "boss_freya_nature_bombAI", "de/ddd/a19794.html#acbf4d330bb5bf4a032732895e8f7e35b", null ],
-    [ "Reset", "de/ddd/a19794.html#a60738702870e2cacbcdf600e9e7073b5", null ],
-    [ "UpdateAI", "de/ddd/a19794.html#a4bfa9df3e3151743485f59c4d318d7f9", null ],
-    [ "_explodeTimer", "de/ddd/a19794.html#a2af9ed2067097eec2a647f17f8b1ef71", null ],
-    [ "_goGUID", "de/ddd/a19794.html#a1a7579cc6957a52d65a1d302d5ba1da0", null ],
-    [ "Timer", "de/ddd/a19794.html#a714a582c6ec552b969624244d709d14d", null ]
+    [ "boss_freya_healthy_sporeAI", "d0/d0d/a19798.html", "d0/d0d/a19798" ],
+    [ "boss_freya_healthy_spore", "de/ddd/a19794.html#a16633136393061aa98c7a98f535d421e", null ],
+    [ "GetAI", "de/ddd/a19794.html#ae76eb3b334f82c536f71fdcfc86e4382", null ]
 ];

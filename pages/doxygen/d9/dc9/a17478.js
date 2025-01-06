@@ -1,6 +1,6 @@
 var a17478 =
 [
-    [ "BoneStormMoveTargetSelector", "d9/dc9/a17478.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
-    [ "operator()", "d9/dc9/a17478.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
-    [ "_source", "d9/dc9/a17478.html#a03d8b1ec5f18398fe2963418bb319973", null ]
+    [ "npc_darnavanAI", "db/d49/a17482.html", "db/d49/a17482" ],
+    [ "npc_darnavan", "d9/dc9/a17478.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "d9/dc9/a17478.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

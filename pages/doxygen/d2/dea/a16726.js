@@ -1,6 +1,8 @@
 var a16726 =
 [
-    [ "instance_pit_of_saron_InstanceScript", "de/d9e/a16730.html", "de/d9e/a16730" ],
-    [ "instance_pit_of_saron", "d2/dea/a16726.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
-    [ "GetInstanceScript", "d2/dea/a16726.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
+    [ "boss_krickAI", "d2/dea/a16726.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
+    [ "DoAction", "d2/dea/a16726.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
+    [ "UpdateAI", "d2/dea/a16726.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
+    [ "events", "d2/dea/a16726.html#a75349e2fc35832e7944fa4f772380baa", null ],
+    [ "pInstance", "d2/dea/a16726.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
 ];

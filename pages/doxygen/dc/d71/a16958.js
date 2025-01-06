@@ -1,6 +1,5 @@
 var a16958 =
 [
-    [ "boss_prince_kelesethAI", "d3/d7a/a16962.html", "d3/d7a/a16962" ],
-    [ "boss_prince_keleseth_icc", "dc/d71/a16958.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
-    [ "GetAI", "dc/d71/a16958.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "dc/d71/a16958.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
+    [ "OnCheck", "dc/d71/a16958.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
 ];

@@ -1,6 +1,7 @@
 var a24830 =
 [
-    [ "HandleDummy", "de/d2b/a24830.html#a63bc85e32a1478d03b381c61a33d0dff", null ],
-    [ "PrepareSpellScript", "de/d2b/a24830.html#adae41617f38a71ccec183f419d677cfd", null ],
-    [ "Register", "de/d2b/a24830.html#a820e8b506de36a24411ae4a1c5930417", null ]
+    [ "CalculateAmount", "de/d2b/a24830.html#a40ba021accd581745f07f2586545853c", null ],
+    [ "Load", "de/d2b/a24830.html#aa963b658637360305bb5f3d59eb9d061", null ],
+    [ "PrepareAuraScript", "de/d2b/a24830.html#a8fedbff305709145a7c004787ee50402", null ],
+    [ "Register", "de/d2b/a24830.html#ade9b6a408a1d5a83bdadd5bd2b0fbb2a", null ]
 ];

@@ -1,6 +1,6 @@
 var a16814 =
 [
-    [ "HandleDummy", "df/d64/a16814.html#aef592aafe931351186edf98f7aba7e22", null ],
-    [ "PrepareSpellScript", "df/d64/a16814.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
-    [ "Register", "df/d64/a16814.html#a7594952f23cba22b886c2c3b10f363d4", null ]
+    [ "npc_pos_freed_slaveAI", "df/d64/a16814.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "df/d64/a16814.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "df/d64/a16814.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

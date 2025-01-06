@@ -1,7 +1,8 @@
 var a21558 =
 [
-    [ "HandleDummy", "df/d6b/a21558.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
-    [ "PrepareSpellScript", "df/d6b/a21558.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
-    [ "Register", "df/d6b/a21558.html#a45f80e0436f93a597deb4653852df6a1", null ],
-    [ "Validate", "df/d6b/a21558.html#ad13fdade1fb7455485bfd68687de53c5", null ]
+    [ "npc_q24545_vegardAI", "df/d6b/a21558.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "df/d6b/a21558.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "df/d6b/a21558.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "df/d6b/a21558.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "df/d6b/a21558.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

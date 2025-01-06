@@ -1,6 +1,6 @@
 var a22146 =
 [
-    [ "npc_captured_rageclawAI", "da/d7b/a22146.html#a5bb483a323330b0895f87c5381d73314", null ],
-    [ "Reset", "da/d7b/a22146.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
-    [ "SpellHit", "da/d7b/a22146.html#a2c63911d27435a2271a7c89d9d88318c", null ]
+    [ "npc_overlord_drakuru_betrayalAI", "d2/d82/a22150.html", "d2/d82/a22150" ],
+    [ "npc_overlord_drakuru_betrayal", "da/d7b/a22146.html#af4092356ea86c25d91c73af1310c2eb0", null ],
+    [ "GetAI", "da/d7b/a22146.html#a3bd893f08212dc94a321beb7a95eea08", null ]
 ];

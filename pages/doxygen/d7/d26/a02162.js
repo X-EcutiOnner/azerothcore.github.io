@@ -1,8 +1,8 @@
 var a02162 =
 [
-    [ "SHostageInfo", "db/d4d/a13582.html", "db/d4d/a13582" ],
-    [ "instance_zulaman", "df/dbc/a13586.html", "df/dbc/a13586" ],
-    [ "instance_zulaman::instance_zulaman_InstanceMapScript", "db/da1/a13590.html", "db/da1/a13590" ],
+    [ "SHostageInfo", "df/dbc/a13586.html", "df/dbc/a13586" ],
+    [ "instance_zulaman", "db/da1/a13590.html", "db/da1/a13590" ],
+    [ "instance_zulaman::instance_zulaman_InstanceMapScript", "dc/de8/a13594.html", "dc/de8/a13594" ],
     [ "Misc", "d7/d26/a02162.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d6/dff/a02390.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d5/d2b/a02420.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -86,6 +86,7 @@ var a02162 =
       [ "ADDITIONAL_CLASS_SPRIEST", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92706eb33a08d2af442625bec27cdf3c", null ],
       [ "AURA_SHADOW_FORM", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad3a76f7068948a8105e9c5001dbb41d2", null ],
       [ "GROUP_CLASS_ABILITY", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8aaab438cd70047fa9299e78971c4f4", null ],
+      [ "GROUP_DRAIN_POWER", "d6/d1e/a02171.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afec21b3ce2b83056ea6ccf2336110b3d", null ],
       [ "MAX_BOMB_COUNT", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a55b3541c734c6bf371563c020ea4918e", null ],
       [ "GROUP_ENRAGE", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a98519d98f2763476413ba8ba9b1aa780", null ],
       [ "GROUP_HATCHING", "d5/d4d/a02186.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad004964bc87e3ee20b6bd3fcb2411521", null ],

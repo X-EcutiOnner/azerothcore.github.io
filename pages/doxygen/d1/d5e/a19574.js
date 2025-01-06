@@ -1,5 +1,6 @@
 var a19574 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "d1/d5e/a19574.html#ab28c1371c20672e717f92fbc3656fb99", null ],
-    [ "OnSpellClick", "d1/d5e/a19574.html#af432be27e1b91ecf5a5a53c7b6add39e", null ]
+    [ "boss_flame_leviathan_seatAI", "dd/df8/a19578.html", "dd/df8/a19578" ],
+    [ "boss_flame_leviathan_seat", "d1/d5e/a19574.html#a0fc90640a5142d889f1c043270582a16", null ],
+    [ "GetAI", "d1/d5e/a19574.html#a0e17225aeb93e0a5f5442c4ac2362af8", null ]
 ];

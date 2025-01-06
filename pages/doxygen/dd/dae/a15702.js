@@ -1,6 +1,6 @@
 var a15702 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "d1/dc1/a15706.html", "d1/dc1/a15706" ],
-    [ "instance_obsidian_sanctum", "dd/dae/a15702.html#a6cf2121c4167156f5748c144372b3c0b", null ],
-    [ "GetInstanceScript", "dd/dae/a15702.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
+    [ "npc_twilight_summonAI", "d1/dc1/a15706.html", "d1/dc1/a15706" ],
+    [ "npc_twilight_summon", "dd/dae/a15702.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
+    [ "GetAI", "dd/dae/a15702.html#a98bf5ce96c25bc252acd46163644bf33", null ]
 ];

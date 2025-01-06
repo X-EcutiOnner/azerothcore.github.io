@@ -1,8 +1,11 @@
 var a16010 =
 [
-    [ "npc_announcer_toc5AI", "d5/df2/a16014.html", "d5/df2/a16014" ],
-    [ "npc_announcer_toc5", "d3/d99/a16010.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
-    [ "GetAI", "d3/d99/a16010.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
-    [ "OnGossipHello", "d3/d99/a16010.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
-    [ "OnGossipSelect", "d3/d99/a16010.html#a9017488c652fd75882db75914f4a2db2", null ]
+    [ "npc_toc5_grand_champion_minionAI", "d3/d99/a16010.html#a06ff16fe0076de4e34ba20e0bbc49009", null ],
+    [ "JustDied", "d3/d99/a16010.html#a23e5001255c6d49a6b217b9606aa53c5", null ],
+    [ "JustEngagedWith", "d3/d99/a16010.html#a37a04ac2d6f30e415410f3806abaabb8", null ],
+    [ "Reset", "d3/d99/a16010.html#ad35a26c28485b1976c55d49fcd32fb19", null ],
+    [ "UpdateAI", "d3/d99/a16010.html#a2b9fdd3daa725921819ae2acee418d51", null ],
+    [ "events", "d3/d99/a16010.html#a1b405c2acd53a4e5f1179f52c8c2261b", null ],
+    [ "pInstance", "d3/d99/a16010.html#a6edd3dc8070edd031143e7a750f4d7a8", null ],
+    [ "ShieldTimer", "d3/d99/a16010.html#a080916d385f4157afbe4c455033b88ba", null ]
 ];

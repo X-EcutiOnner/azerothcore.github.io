@@ -1,6 +1,6 @@
 var a14738 =
 [
-    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d6/da2/a14742.html", "d6/da2/a14742" ],
-    [ "instance_ruins_of_ahnqiraj", "d3/de6/a14738.html#adeacb1c68e4b12995a335d1bedde075a", null ],
-    [ "GetInstanceScript", "d3/de6/a14738.html#a6a661e961c2599498de0ccd41c0763b4", null ]
+    [ "FilterTargets", "d3/de6/a14738.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
+    [ "PrepareSpellScript", "d3/de6/a14738.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
+    [ "Register", "d3/de6/a14738.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
 ];

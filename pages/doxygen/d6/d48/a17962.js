@@ -1,7 +1,7 @@
 var a17962 =
 [
-    [ "CheckTargetCount", "d6/d48/a17962.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
-    [ "PrepareSpellScript", "d6/d48/a17962.html#abd32198867e7f01b21b7de6224a597d4", null ],
-    [ "Register", "d6/d48/a17962.html#a671bede7fbc68085cd6075f412822869", null ],
-    [ "Validate", "d6/d48/a17962.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
+    [ "OnPeriodic", "d6/d48/a17962.html#accd12b06341f3168c74cb18926614f7f", null ],
+    [ "OnUpdate", "d6/d48/a17962.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
+    [ "PrepareAuraScript", "d6/d48/a17962.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
+    [ "Register", "d6/d48/a17962.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
 ];

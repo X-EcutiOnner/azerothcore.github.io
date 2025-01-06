@@ -1,6 +1,6 @@
 var a15454 =
 [
-    [ "npc_sergeant_blyAI", "d5/d33/a15458.html", "d5/d33/a15458" ],
-    [ "npc_sergeant_bly", "df/d38/a15454.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
-    [ "GetAI", "df/d38/a15454.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
+    [ "creatureID", "df/d38/a15454.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "df/d38/a15454.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "df/d38/a15454.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

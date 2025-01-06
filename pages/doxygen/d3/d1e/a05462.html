@@ -130,8 +130,8 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:ada8edd51338da19db3f282ccc6229516"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1e/a05462.html#ada8edd51338da19db3f282ccc6229516">IsGroupQueued</a> (<a class="el" href="../../d1/db8/a05450.html#a998482c629b3a5783373a6d3ac30e1ed">group_t</a> const group)</td></tr>
 <tr class="memdesc:ada8edd51338da19db3f282ccc6229516"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check if the group exists and is currently scheduled.  <a href="../../d3/d1e/a05462.html#ada8edd51338da19db3f282ccc6229516">More...</a><br /></td></tr>
 <tr class="separator:ada8edd51338da19db3f282ccc6229516"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7a5625f0901eb63796fe095bd92510bc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/db8/a05450.html#a0e14d7b24d018a41c9dc849e1421d5e7">TaskScheduler::timepoint_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1e/a05462.html#a7a5625f0901eb63796fe095bd92510bc">GetNextGroupOcurrence</a> (<a class="el" href="../../d1/db8/a05450.html#a998482c629b3a5783373a6d3ac30e1ed">group_t</a> const group) const</td></tr>
-<tr class="separator:a7a5625f0901eb63796fe095bd92510bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af2cb38062e4d62558d520be75b01bedb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/db8/a05450.html#a0e14d7b24d018a41c9dc849e1421d5e7">TaskScheduler::timepoint_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1e/a05462.html#af2cb38062e4d62558d520be75b01bedb">GetNextGroupOccurrence</a> (<a class="el" href="../../d1/db8/a05450.html#a998482c629b3a5783373a6d3ac30e1ed">group_t</a> const group) const</td></tr>
+<tr class="separator:af2cb38062e4d62558d520be75b01bedb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a151898f14e9a1628ddb52b6840fcc4fc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1e/a05462.html#a151898f14e9a1628ddb52b6840fcc4fc">IsEmpty</a> () const</td></tr>
 <tr class="separator:a151898f14e9a1628ddb52b6840fcc4fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -187,14 +187,14 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a7a5625f0901eb63796fe095bd92510bc" name="a7a5625f0901eb63796fe095bd92510bc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7a5625f0901eb63796fe095bd92510bc">&#9670;&#160;</a></span>GetNextGroupOcurrence()</h2>
+<a id="af2cb38062e4d62558d520be75b01bedb" name="af2cb38062e4d62558d520be75b01bedb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af2cb38062e4d62558d520be75b01bedb">&#9670;&#160;</a></span>GetNextGroupOccurrence()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/db8/a05450.html#a0e14d7b24d018a41c9dc849e1421d5e7">TaskScheduler::timepoint_t</a> TaskScheduler::TaskQueue::GetNextGroupOcurrence </td>
+          <td class="memname"><a class="el" href="../../d1/db8/a05450.html#a0e14d7b24d018a41c9dc849e1421d5e7">TaskScheduler::timepoint_t</a> TaskScheduler::TaskQueue::GetNextGroupOccurrence </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../d1/db8/a05450.html#a998482c629b3a5783373a6d3ac30e1ed">group_t</a> const&#160;</td>
           <td class="paramname"><em>group</em></td><td>)</td>
@@ -205,16 +205,13 @@ Private Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  198</span>{</div>
 <div class="line"><span class="lineno">  199</span>    <a class="code hl_typedef" href="../../d1/db8/a05450.html#a0e14d7b24d018a41c9dc849e1421d5e7">TaskScheduler::timepoint_t</a> next = TaskScheduler::timepoint_t::max();</div>
 <div class="line"><span class="lineno">  200</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; task : <a class="code hl_variable" href="../../d3/d1e/a05462.html#acc56bddf7e586a3a950f608efb730498">container</a>)</div>
-<div class="line"><span class="lineno">  201</span>    {</div>
-<div class="line"><span class="lineno">  202</span>        <span class="keywordflow">if</span> (task-&gt;IsInGroup(group) &amp;&amp; task-&gt;_end &lt; next)</div>
-<div class="line"><span class="lineno">  203</span>            next = task-&gt;_end;</div>
-<div class="line"><span class="lineno">  204</span>    }</div>
-<div class="line"><span class="lineno">  205</span> </div>
-<div class="line"><span class="lineno">  206</span>    <span class="keywordflow">return</span> next;</div>
-<div class="line"><span class="lineno">  207</span>}</div>
+<div class="line"><span class="lineno">  201</span>        <span class="keywordflow">if</span> (task-&gt;IsInGroup(group) &amp;&amp; task-&gt;_end &lt; next)</div>
+<div class="line"><span class="lineno">  202</span>            next = task-&gt;_end;</div>
+<div class="line"><span class="lineno">  203</span>    <span class="keywordflow">return</span> next;</div>
+<div class="line"><span class="lineno">  204</span>}</div>
 <div class="ttc" id="aa05450_html_a0e14d7b24d018a41c9dc849e1421d5e7"><div class="ttname"><a href="../../d1/db8/a05450.html#a0e14d7b24d018a41c9dc849e1421d5e7">TaskScheduler::timepoint_t</a></div><div class="ttdeci">clock_t::time_point timepoint_t</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:50</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00127">TaskScheduler::GetNextGroupOcurrence()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00127">TaskScheduler::GetNextGroupOccurrence()</a>.</p>
 
 </div>
 </div>
@@ -232,9 +229,9 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  210</span>{</div>
-<div class="line"><span class="lineno">  211</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1e/a05462.html#acc56bddf7e586a3a950f608efb730498">container</a>.empty();</div>
-<div class="line"><span class="lineno">  212</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  207</span>{</div>
+<div class="line"><span class="lineno">  208</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d1e/a05462.html#acc56bddf7e586a3a950f608efb730498">container</a>.empty();</div>
+<div class="line"><span class="lineno">  209</span>}</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00076">TaskScheduler::Dispatch()</a>.</p>
 
@@ -422,7 +419,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/db8/a05450.html">TaskScheduler</a></li><li class="navelem"><a class="el" href="../../d3/d1e/a05462.html">TaskQueue</a></li>
-    <li class="footer">Generated on Mon Dec 30 2024 20:43:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 6 2025 20:44:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

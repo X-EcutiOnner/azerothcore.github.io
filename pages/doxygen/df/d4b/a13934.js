@@ -1,7 +1,9 @@
 var a13934 =
 [
-    [ "npc_direbrew_minion", "df/d4b/a13934.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
-    [ "IsSummonedBy", "df/d4b/a13934.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
-    [ "Reset", "df/d4b/a13934.html#a21fb7a778e9025ca4185951460a96d08", null ],
-    [ "_instance", "df/d4b/a13934.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
+    [ "npc_brew_bubble", "df/d4b/a13934.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "df/d4b/a13934.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "df/d4b/a13934.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "df/d4b/a13934.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "df/d4b/a13934.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "df/d4b/a13934.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

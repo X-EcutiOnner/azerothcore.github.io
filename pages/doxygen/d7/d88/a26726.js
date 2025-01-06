@@ -1,5 +1,6 @@
 var a26726 =
 [
-    [ "achievement_tilted", "d7/d88/a26726.html#a868d7b8a437434d6dc34b5000c429e66", null ],
-    [ "OnCheck", "d7/d88/a26726.html#a61d3eb78450383485699532d96f79d93", null ]
+    [ "achievement_arena_by_type", "d7/d88/a26726.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "d7/d88/a26726.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "d7/d88/a26726.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

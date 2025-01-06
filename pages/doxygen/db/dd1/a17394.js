@@ -1,6 +1,9 @@
 var a17394 =
 [
-    [ "IgbArtilleryCheck", "db/dd1/a17394.html#a78b65928551ed799cf3f446f0603c50e", null ],
-    [ "operator()", "db/dd1/a17394.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
-    [ "_entry", "db/dd1/a17394.html#a98a6a0836414da82c288e372e982f69f", null ]
+    [ "CalculatePower", "db/dd1/a17394.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "db/dd1/a17394.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "db/dd1/a17394.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "db/dd1/a17394.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "db/dd1/a17394.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "db/dd1/a17394.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

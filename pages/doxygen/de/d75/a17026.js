@@ -1,7 +1,6 @@
 var a17026 =
 [
-    [ "HandleScript", "de/d75/a17026.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "de/d75/a17026.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "de/d75/a17026.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "de/d75/a17026.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "npc_kinetic_bombAI", "dc/d13/a17030.html", "dc/d13/a17030" ],
+    [ "npc_kinetic_bomb", "de/d75/a17026.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
+    [ "GetAI", "de/d75/a17026.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
 ];

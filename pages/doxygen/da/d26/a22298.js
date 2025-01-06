@@ -1,12 +1,12 @@
 var a22298 =
 [
-    [ "boss_shirrak_the_dead_watcher", "da/d26/a22298.html#aaa6826de3b6563342b89544b38386d93", null ],
-    [ "EnterEvadeMode", "da/d26/a22298.html#a23768629c4ab48954880c3c29099f432", null ],
-    [ "getStackCount", "da/d26/a22298.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
-    [ "JustEngagedWith", "da/d26/a22298.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
-    [ "JustSummoned", "da/d26/a22298.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
-    [ "Reset", "da/d26/a22298.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
-    [ "SpellHitTarget", "da/d26/a22298.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
-    [ "UpdateAI", "da/d26/a22298.html#a855505f949f53f979187abcb5b2f617f", null ],
-    [ "focusGUID", "da/d26/a22298.html#a81a7eade42ef595c173d7828ce59ef88", null ]
+    [ "OPvPCapturePointZM_Beacon", "da/d26/a22298.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
+    [ "ChangeState", "da/d26/a22298.html#a5bbe87c18c814358596a9648fd92b129", null ],
+    [ "FillInitialWorldStates", "da/d26/a22298.html#aedeeea5a7c1424a0dff51fe06dfaa23a", null ],
+    [ "HandlePlayerEnter", "da/d26/a22298.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
+    [ "HandlePlayerLeave", "da/d26/a22298.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
+    [ "SendChangePhase", "da/d26/a22298.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
+    [ "UpdateTowerState", "da/d26/a22298.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
+    [ "m_TowerState", "da/d26/a22298.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
+    [ "m_TowerType", "da/d26/a22298.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
 ];

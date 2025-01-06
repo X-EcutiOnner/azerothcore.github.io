@@ -1,5 +1,6 @@
 var a15430 =
 [
-    [ "go_elune_fire", "d1/d3b/a15430.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
-    [ "OnGossipHello", "d1/d3b/a15430.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
+    [ "npc_rivern_frostwind", "d1/d3b/a15430.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
+    [ "OnGossipHello", "d1/d3b/a15430.html#a90a6582633336de422c9f98973562b32", null ],
+    [ "OnGossipSelect", "d1/d3b/a15430.html#a067ff91179f551633594d488eda269ed", null ]
 ];

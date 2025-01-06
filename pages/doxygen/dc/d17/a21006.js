@@ -1,14 +1,6 @@
 var a21006 =
 [
-    [ "boss_erekemAI", "dc/d17/a21006.html#aedf10fef3f0f2ac6797efa5f5a809f4a", null ],
-    [ "EnterEvadeMode", "dc/d17/a21006.html#a2c9f8f444b3b28d5cfdbaa234e9d76ee", null ],
-    [ "GetChainHealTargetGUID", "dc/d17/a21006.html#aa346cbaded883bbb3806acf9cb32579a", null ],
-    [ "JustDied", "dc/d17/a21006.html#a12e7fb5389977dcacb4e1eadda771467", null ],
-    [ "JustEngagedWith", "dc/d17/a21006.html#ad380838dbb6c2a3488fa57f2999e137c", null ],
-    [ "KilledUnit", "dc/d17/a21006.html#a120a2c9a6af821ce9a5e68dbab6e800d", null ],
-    [ "MoveInLineOfSight", "dc/d17/a21006.html#a5905809cba20d426c4d222b1e91055bc", null ],
-    [ "Reset", "dc/d17/a21006.html#a338bbc123b1d3adef4f014c3302c4590", null ],
-    [ "UpdateAI", "dc/d17/a21006.html#a234ae447260ae30a137a53fb986e5dc4", null ],
-    [ "events", "dc/d17/a21006.html#a8d4445b6d35f534061818f7708f39f7e", null ],
-    [ "pInstance", "dc/d17/a21006.html#aa68ece744a21ed2ef8d3e7c4b4081d8e", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "db/de9/a21010.html", "db/de9/a21010" ],
+    [ "instance_vault_of_archavon", "dc/d17/a21006.html#a0be8d95ff0f3b751e6f833689e436310", null ],
+    [ "GetInstanceScript", "dc/d17/a21006.html#abb955a8873a3a3021e164225dd1f857a", null ]
 ];

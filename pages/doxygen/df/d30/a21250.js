@@ -1,10 +1,12 @@
 var a21250 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "df/d30/a21250.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "df/d30/a21250.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "df/d30/a21250.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "df/d30/a21250.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "df/d30/a21250.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "df/d30/a21250.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "df/d30/a21250.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "npc_beryl_sorcererAI", "df/d30/a21250.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
+    [ "Initialize", "df/d30/a21250.html#a40400e4e993d20d9bbe4faf063102521", null ],
+    [ "JustEngagedWith", "df/d30/a21250.html#afae877e8dac583c9420d214f77c2b438", null ],
+    [ "Reset", "df/d30/a21250.html#a17a16337c09013483c58cae38576d969", null ],
+    [ "SpellHit", "df/d30/a21250.html#a762ee3ae8df3757279821af13101e0be", null ],
+    [ "UpdateAI", "df/d30/a21250.html#a42ec665b06988d13be6cbee646afc898", null ],
+    [ "_chainsCast", "df/d30/a21250.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
+    [ "_events", "df/d30/a21250.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
+    [ "_playerGUID", "df/d30/a21250.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
 ];

@@ -1,6 +1,6 @@
 var a19322 =
 [
-    [ "dark_rune_protectorsAI", "d5/db9/a19326.html", "d5/db9/a19326" ],
-    [ "dark_rune_protectors", "dd/dba/a19322.html#a14225a2369a8deea416fc640a2d7b075", null ],
-    [ "GetAI", "dd/dba/a19322.html#a359e4049b7ec828177d9a36d23e9b4ef", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d5/db9/a19326.html", "d5/db9/a19326" ],
+    [ "boss_sjonnir_malformed_ooze", "dd/dba/a19322.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "dd/dba/a19322.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

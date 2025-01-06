@@ -1,7 +1,6 @@
 var a17230 =
 [
-    [ "DelayedMovementEvent", "d2/dea/a17230.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "d2/dea/a17230.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "d2/dea/a17230.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "d2/dea/a17230.html#a046942728282a997068de447271f3cbe", null ]
+    [ "npc_stinky_iccAI", "d2/d96/a17234.html", "d2/d96/a17234" ],
+    [ "npc_stinky_icc", "d2/dea/a17230.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "d2/dea/a17230.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

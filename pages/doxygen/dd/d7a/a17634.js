@@ -1,8 +1,7 @@
 var a17634 =
 [
-    [ "HandleScript", "dd/d7a/a17634.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "dd/d7a/a17634.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "dd/d7a/a17634.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "dd/d7a/a17634.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "dd/d7a/a17634.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "CheckRequirement", "dd/d7a/a17634.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
+    [ "CheckRequirementInternal", "dd/d7a/a17634.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
+    [ "PrepareSpellScript", "dd/d7a/a17634.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
+    [ "Register", "dd/d7a/a17634.html#a95a250aeb3a41922c529f476d39f18e4", null ]
 ];

@@ -1,6 +1,7 @@
 var a14458 =
 [
-    [ "npc_cos_chromie_start", "da/db5/a14458.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "da/db5/a14458.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
-    [ "OnQuestAccept", "da/db5/a14458.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
+    [ "OnRemove", "da/db5/a14458.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
+    [ "PrepareAuraScript", "da/db5/a14458.html#ab082adc51983f124d0467cbff63cffb7", null ],
+    [ "Register", "da/db5/a14458.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
+    [ "Validate", "da/db5/a14458.html#a73421b82f483e73314dbb862fb0a11c7", null ]
 ];

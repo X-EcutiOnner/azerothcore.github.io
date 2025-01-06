@@ -1,16 +1,6 @@
 var a19214 =
 [
-    [ "boss_lokenAI", "d4/dbd/a19214.html#abdadd98c337f97f6a1daf1657f2f3ab2", null ],
-    [ "JustDied", "d4/dbd/a19214.html#a2ab2adb8c9fb2048e2c3c341d8c2ff37", null ],
-    [ "JustEngagedWith", "d4/dbd/a19214.html#afd9634d8665b946991ccd777072cf70a", null ],
-    [ "KilledUnit", "d4/dbd/a19214.html#af6f6ebfffa9e2719c3a18bd53d704018", null ],
-    [ "LokenSpeach", "d4/dbd/a19214.html#a853a371812a856f39137c665fcc09b86", null ],
-    [ "MoveInLineOfSight", "d4/dbd/a19214.html#a0855580a471661925fdf272dedb418fd", null ],
-    [ "Reset", "d4/dbd/a19214.html#a51c7ca1ce5a0b4837d2fbc033c06a864", null ],
-    [ "UpdateAI", "d4/dbd/a19214.html#acc5b453efca847a6cada43606b8a08ed", null ],
-    [ "events", "d4/dbd/a19214.html#ac3b98aeba2741ee49d262b33d30f8b2a", null ],
-    [ "HealthCheck", "d4/dbd/a19214.html#ad9f9e369ce64bab66f29899659440b62", null ],
-    [ "IntroTimer", "d4/dbd/a19214.html#ae92b9ff0abd8580baf7a2fca56e0df23", null ],
-    [ "isActive", "d4/dbd/a19214.html#a8f20ce4cddf7eae09ddc659b9bf75919", null ],
-    [ "m_pInstance", "d4/dbd/a19214.html#aba89a46dae1d4d195c8be10d89fb72ab", null ]
+    [ "boss_ionarAI", "d3/db9/a19218.html", "d3/db9/a19218" ],
+    [ "boss_ionar", "d4/dbd/a19214.html#a284da7d86f0b386e352587e0321bf465", null ],
+    [ "GetAI", "d4/dbd/a19214.html#a0c0f28f832458df7326842f04413af5d", null ]
 ];

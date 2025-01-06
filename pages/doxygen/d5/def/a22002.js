@@ -1,9 +1,9 @@
 var a22002 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "d8/de9/a22006.html", "d8/de9/a22006" ],
-    [ "NPCs", "d5/def/a22002.html#a8f2ea95c836ba6bab370301fbf3e6822", [
-      [ "NPC_HYLDSMEET_DRAKERIDER", "d5/def/a22002.html#a8f2ea95c836ba6bab370301fbf3e6822a1b77c38a75142cff5392a89db3e765df", null ]
-    ] ],
-    [ "npc_hyldsmeet_protodrake", "d5/def/a22002.html#a2471f1d858d7ae8f801208e35860a95e", null ],
-    [ "GetAI", "d5/def/a22002.html#a791e5cff3901f9a3ec365d4049b82d25", null ]
+    [ "npc_brunnhildar_prisonerAI", "d5/def/a22002.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "d5/def/a22002.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "d5/def/a22002.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "d5/def/a22002.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "d5/def/a22002.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "d5/def/a22002.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

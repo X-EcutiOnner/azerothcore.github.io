@@ -1,9 +1,11 @@
 var a22542 =
 [
-    [ "HandleAfterCast", "de/dcc/a22542.html#a32928b579ef42f377e911ef27197ed61", null ],
-    [ "HandleDummy", "de/dcc/a22542.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
-    [ "Load", "de/dcc/a22542.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
-    [ "PrepareSpellScript", "de/dcc/a22542.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
-    [ "Register", "de/dcc/a22542.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
-    [ "_targetCount", "de/dcc/a22542.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
+    [ "boss_high_nethermancer_zerevor", "de/dcc/a22542.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
+    [ "AttackStart", "de/dcc/a22542.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
+    [ "CastDampenMagicIfPossible", "de/dcc/a22542.html#ab0af23baf43d377935811c52a346c566", null ],
+    [ "JustEngagedWith", "de/dcc/a22542.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
+    [ "OnAuraRemove", "de/dcc/a22542.html#a7dd31808dbf00f77b59fce84249778fe", null ],
+    [ "Reset", "de/dcc/a22542.html#afd7a419de217b3d129f783ddc87780af", null ],
+    [ "UpdateAI", "de/dcc/a22542.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
+    [ "_canCastDampenMagic", "de/dcc/a22542.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
 ];

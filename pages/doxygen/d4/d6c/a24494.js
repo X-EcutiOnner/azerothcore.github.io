@@ -1,6 +1,6 @@
 var a24494 =
 [
-    [ "OnHit", "d4/d6c/a24494.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
-    [ "PrepareSpellScript", "d4/d6c/a24494.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
-    [ "Register", "d4/d6c/a24494.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
+    [ "FilterTargets", "d4/d6c/a24494.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
+    [ "PrepareSpellScript", "d4/d6c/a24494.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
+    [ "Register", "d4/d6c/a24494.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
 ];

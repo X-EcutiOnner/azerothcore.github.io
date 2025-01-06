@@ -1,7 +1,6 @@
 var a16318 =
 [
-    [ "HandleAfterEffectAbsorb", "d3/d7e/a16318.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "d3/d7e/a16318.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "d3/d7e/a16318.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "d3/d7e/a16318.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "boss_fjolaAI", "d3/df2/a16322.html", "d3/df2/a16322" ],
+    [ "boss_fjola", "d3/d7e/a16318.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
+    [ "GetAI", "d3/d7e/a16318.html#a96d9ea0716199758b60ad933ade28de4", null ]
 ];

@@ -1,9 +1,8 @@
 var a24130 =
 [
-    [ "npc_pet_gen_toxic_wasteling", "de/dc3/a24130.html#a550a1a9324f605b1a9fd715571f819b7", null ],
-    [ "EnterEvadeMode", "de/dc3/a24130.html#abe25deca7fd1c319085995657d62f22a", null ],
-    [ "MovementInform", "de/dc3/a24130.html#aec73d567c3bd178ffee3bdece83a409e", null ],
-    [ "Reset", "de/dc3/a24130.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
-    [ "UpdateAI", "de/dc3/a24130.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
-    [ "checkTimer", "de/dc3/a24130.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
+    [ "npc_pet_gen_valkyr_guardian", "de/dc3/a24130.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "de/dc3/a24130.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "de/dc3/a24130.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "de/dc3/a24130.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "de/dc3/a24130.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

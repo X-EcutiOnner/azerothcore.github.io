@@ -1,14 +1,7 @@
 var a18162 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "df/dd3/a18162.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
-    [ "AttackStart", "df/dd3/a18162.html#a5457c18c60a8301ea60ef34d810a14c9", null ],
-    [ "CanAIAttack", "df/dd3/a18162.html#aaf12ae21dddfa6b47ffa7880f65487a4", null ],
-    [ "DoAction", "df/dd3/a18162.html#abbd08537ed245084ca7d4cf852a749a2", null ],
-    [ "EnterEvadeMode", "df/dd3/a18162.html#a32bd4ed61bc62206ccedcf4acaeb8df8", null ],
-    [ "JustEngagedWith", "df/dd3/a18162.html#ad7385306f8058699ee004b7bc5f1b538", null ],
-    [ "JustReachedHome", "df/dd3/a18162.html#a2ae1c178a84c6d6899cf6400cb963e44", null ],
-    [ "MoveInLineOfSight", "df/dd3/a18162.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
-    [ "Reset", "df/dd3/a18162.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ],
-    [ "UpdateAI", "df/dd3/a18162.html#a89ce158e08b3da1e54b0be6caa3950b8", null ],
-    [ "checkTimer", "df/dd3/a18162.html#ae5c238e2e201c431ceccc59a3a26078b", null ]
+    [ "AuraRemoveEvent", "df/dd3/a18162.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "df/dd3/a18162.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "df/dd3/a18162.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "df/dd3/a18162.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

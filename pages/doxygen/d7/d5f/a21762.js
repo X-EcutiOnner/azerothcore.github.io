@@ -1,7 +1,8 @@
 var a21762 =
 [
-    [ "npc_tirions_gambit_tirionAI", "d4/d4f/a21766.html", "d4/d4f/a21766" ],
-    [ "npc_tirions_gambit_tirion", "d7/d5f/a21762.html#ad52abd46ccdd3b4409671679434c193c", null ],
-    [ "GetAI", "d7/d5f/a21762.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
-    [ "OnGossipSelect", "d7/d5f/a21762.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
+    [ "npc_llod_genericAI", "d7/d5f/a21762.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "d7/d5f/a21762.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "d7/d5f/a21762.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "d7/d5f/a21762.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "d7/d5f/a21762.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

@@ -1,5 +1,6 @@
 var a19990 =
 [
-    [ "achievement_staying_buffed_all_winter_10", "d7/d31/a19990.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
-    [ "OnCheck", "d7/d31/a19990.html#a67587b1659a8d026e73b42311148541a", null ]
+    [ "HandleAfterEffectApply", "d7/d31/a19990.html#af655bb31dc24a3cede08ca371f784913", null ],
+    [ "PrepareAuraScript", "d7/d31/a19990.html#a1824853d0b369deac0745fabe2df657c", null ],
+    [ "Register", "d7/d31/a19990.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
 ];

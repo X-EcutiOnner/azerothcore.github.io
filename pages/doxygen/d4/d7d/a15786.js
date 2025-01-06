@@ -1,6 +1,6 @@
 var a15786 =
 [
-    [ "npc_halion_controllerAI", "de/da2/a15790.html", "de/da2/a15790" ],
-    [ "npc_halion_controller", "d4/d7d/a15786.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
-    [ "GetAI", "d4/d7d/a15786.html#a3c5ea3f0597c070005744ea788a05383", null ]
+    [ "SendEncounterUnit", "d4/d7d/a15786.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
+    [ "Execute", "d4/d7d/a15786.html#ae21b67f8fe8a0677778436563872495f", null ],
+    [ "_owner", "d4/d7d/a15786.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
 ];

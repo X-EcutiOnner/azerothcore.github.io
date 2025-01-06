@@ -1,7 +1,7 @@
 var a21622 =
 [
-    [ "npc_amberpine_woodsmanAI", "d4/d36/a21622.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
-    [ "Reset", "d4/d36/a21622.html#a8da613c7bbaadf331c95667e7a361702", null ],
-    [ "UpdateAI", "d4/d36/a21622.html#a64dbf41424a710c400d51507f6457b41", null ],
-    [ "_events", "d4/d36/a21622.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
+    [ "HandleScriptEffect", "d4/d36/a21622.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "d4/d36/a21622.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "d4/d36/a21622.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "d4/d36/a21622.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

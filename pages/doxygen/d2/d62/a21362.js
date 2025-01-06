@@ -1,8 +1,7 @@
 var a21362 =
 [
-    [ "npc_shandy_dalaranAI", "d7/d7e/a21366.html", "d7/d7e/a21366" ],
-    [ "npc_shandy_dalaran", "d2/d62/a21362.html#a7077c769a252af8ba37b5ff5d524463e", null ],
-    [ "GetAI", "d2/d62/a21362.html#a641551a2aef739e1679912ae27ddb888", null ],
-    [ "OnGossipHello", "d2/d62/a21362.html#a91287aaba09fce091c9d826e75208f84", null ],
-    [ "OnGossipSelect", "d2/d62/a21362.html#ad005a17da187e0cfd03d2faf0099c448", null ]
+    [ "npc_warmage_violetstand", "d2/d62/a21362.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "d2/d62/a21362.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "d2/d62/a21362.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "d2/d62/a21362.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

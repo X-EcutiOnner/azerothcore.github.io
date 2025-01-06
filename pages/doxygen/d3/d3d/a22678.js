@@ -1,6 +1,5 @@
 var a22678 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "d3/d3d/a22678.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "d3/d3d/a22678.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "d3/d3d/a22678.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "npc_ashtongue_sorcerer", "d3/d3d/a22678.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
+    [ "MovementInform", "d3/d3d/a22678.html#a56fa93f83e8a536b13667c8f780961b7", null ]
 ];

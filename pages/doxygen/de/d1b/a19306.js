@@ -1,9 +1,6 @@
 var a19306 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "de/d1b/a19306.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "de/d1b/a19306.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "de/d1b/a19306.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "de/d1b/a19306.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "de/d1b/a19306.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "de/d1b/a19306.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "boss_sjonnir_dwarfAI", "d0/de0/a19310.html", "d0/de0/a19310" ],
+    [ "boss_sjonnir_dwarf", "de/d1b/a19306.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
+    [ "GetAI", "de/d1b/a19306.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
 ];

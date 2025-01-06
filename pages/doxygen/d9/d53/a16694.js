@@ -1,6 +1,6 @@
 var a16694 =
 [
-    [ "boss_ickAI", "db/dcc/a16698.html", "db/dcc/a16698" ],
-    [ "boss_ick", "d9/d53/a16694.html#af97d7f96bc48ba245e28c18614b9369e", null ],
-    [ "GetAI", "d9/d53/a16694.html#a355285766712a31b704c23fe85d19e5f", null ]
+    [ "instance_halls_of_reflection_InstanceMapScript", "db/dcc/a16698.html", "db/dcc/a16698" ],
+    [ "instance_halls_of_reflection", "d9/d53/a16694.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
+    [ "GetInstanceScript", "d9/d53/a16694.html#aca27a4f654f41fe6f238c905b48285b7", null ]
 ];

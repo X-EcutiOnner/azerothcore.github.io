@@ -1,7 +1,6 @@
 var a18634 =
 [
-    [ "OnRemove", "de/d6c/a18634.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "de/d6c/a18634.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "de/d6c/a18634.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "de/d6c/a18634.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "npc_four_car_garageAI", "de/d6c/a18634.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "de/d6c/a18634.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "de/d6c/a18634.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

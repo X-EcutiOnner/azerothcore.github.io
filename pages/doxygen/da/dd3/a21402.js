@@ -1,12 +1,9 @@
 var a21402 =
 [
-    [ "npc_dalaran_warriorAI", "da/dd3/a21402.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
-    [ "Initialize", "da/dd3/a21402.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
-    [ "JustEngagedWith", "da/dd3/a21402.html#ae6690f0681363784e457fbd653f5b3f9", null ],
-    [ "Reset", "da/dd3/a21402.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
-    [ "UpdateAI", "da/dd3/a21402.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
-    [ "Battleshout_timer", "da/dd3/a21402.html#ae36f30f816164b60232bd849e74c3da1", null ],
-    [ "disarm_timer", "da/dd3/a21402.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
-    [ "hamstring_timer", "da/dd3/a21402.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
-    [ "shout_timer", "da/dd3/a21402.html#ac91770c1e9eb31d687247450898a48ae", null ]
+    [ "npc_mageguard_dalaranAI", "da/dd3/a21402.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
+    [ "AttackStart", "da/dd3/a21402.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
+    [ "JustEngagedWith", "da/dd3/a21402.html#aac463689ae5a488ec2acb8a0310689d8", null ],
+    [ "MoveInLineOfSight", "da/dd3/a21402.html#aafb32462693e0efd9c80cf335f489754", null ],
+    [ "Reset", "da/dd3/a21402.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
+    [ "UpdateAI", "da/dd3/a21402.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
 ];

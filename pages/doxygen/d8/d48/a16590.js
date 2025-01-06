@@ -1,6 +1,8 @@
 var a16590 =
 [
-    [ "npc_tortured_riflemanAI", "d8/d9e/a16594.html", "d8/d9e/a16594" ],
-    [ "npc_tortured_rifleman", "d8/d48/a16590.html#a32e4164864c3873b3684ad531a2e924a", null ],
-    [ "GetAI", "d8/d48/a16590.html#aaef71feb7077c561eb2bcf7d4fc411c7", null ]
+    [ "npc_phantom_hallucinationAI", "d8/d48/a16590.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
+    [ "EnterEvadeMode", "d8/d48/a16590.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
+    [ "JustDied", "d8/d48/a16590.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
+    [ "UpdateAI", "d8/d48/a16590.html#ad874a741c641dbac6380aa682d582d7c", null ],
+    [ "numOfUpd", "d8/d48/a16590.html#adb78f5dcd272e8223f895079885a5461", null ]
 ];
