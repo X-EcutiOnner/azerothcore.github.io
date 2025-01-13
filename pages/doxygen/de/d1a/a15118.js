@@ -1,13 +1,7 @@
 var a15118 =
 [
-    [ "npc_tharnarianAI", "de/d1a/a15118.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
-    [ "Initialize", "de/d1a/a15118.html#ad1d89491b42a56406273a04045e7e91d", null ],
-    [ "Reset", "de/d1a/a15118.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
-    [ "SetGUID", "de/d1a/a15118.html#a7ac84aac946afc312d8ce27f04127dfd", null ],
-    [ "sGossipSelect", "de/d1a/a15118.html#a33b5898def48e17ba27363b98f51849b", null ],
-    [ "UpdateAI", "de/d1a/a15118.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
-    [ "_bearGUID", "de/d1a/a15118.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
-    [ "_events", "de/d1a/a15118.html#aff73052a4b7407d760af3dde09fa8a07", null ],
-    [ "_facing", "de/d1a/a15118.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
-    [ "_scriptRunning", "de/d1a/a15118.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
+    [ "npc_cork_gizeltonAI", "d9/d1a/a15122.html", "d9/d1a/a15122" ],
+    [ "npc_cork_gizelton", "de/d1a/a15118.html#a915aa2abc18109e7d0197863f59536f2", null ],
+    [ "GetAI", "de/d1a/a15118.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
+    [ "OnQuestAccept", "de/d1a/a15118.html#a11dc1fea0a24add451272b537298fc13", null ]
 ];

@@ -1,5 +1,6 @@
 var a20186 =
 [
-    [ "go_ulduar_do_not_push_this_button", "de/d0a/a20186.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "de/d0a/a20186.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "npc_ulduar_flames_initialAI", "d6/da8/a20190.html", "d6/da8/a20190" ],
+    [ "npc_ulduar_flames_initial", "de/d0a/a20186.html#aee0c62a38e3e0958e015faef2c434273", null ],
+    [ "GetAI", "de/d0a/a20186.html#ac0db78c361324a594220ad644001f4eb", null ]
 ];

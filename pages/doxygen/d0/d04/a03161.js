@@ -968,6 +968,8 @@ var a03161 =
       [ "LANG_CMD_CHAR_CHANGE_ACC_SUCCESS", "d0/d04/a03161.html#af9ee42b1cf006ecb2d2e74fe71c0761aafd71f15471dee249a6f6984db2b94368", null ],
       [ "LANG_CMD_CAST_ERROR_CODE", "d0/d04/a03161.html#af9ee42b1cf006ecb2d2e74fe71c0761aa2e5bedd3dd42793004138fa073b54be7", null ],
       [ "LANG_CMD_GO_RESPAWN", "d0/d04/a03161.html#af9ee42b1cf006ecb2d2e74fe71c0761aad7d1d0de0aadf7858bee24e7b05b7f83", null ],
+      [ "LANG_CMD_NO_DOOR_FOUND", "d0/d04/a03161.html#af9ee42b1cf006ecb2d2e74fe71c0761aa043e9c373a2391949116c52d621550f3", null ],
+      [ "LANG_CMD_DOOR_OPENED", "d0/d04/a03161.html#af9ee42b1cf006ecb2d2e74fe71c0761aa1a9f840291cb9cc203fdf208148d9912", null ],
       [ "LANG_SAY_REQ", "d0/d04/a03161.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0503f1ca01b026b8943707355f0b14fc", null ],
       [ "LANG_WHISPER_REQ", "d0/d04/a03161.html#af9ee42b1cf006ecb2d2e74fe71c0761aa72dd19ad51f3f0d5c9510a9f88737711", null ],
       [ "LANG_CHANNEL_REQ", "d0/d04/a03161.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf887daa22cef6c1615b7c92fe4b7b34e", null ],

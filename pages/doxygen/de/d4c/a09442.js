@@ -61,6 +61,7 @@ var a09442 =
     [ "OnPlayerAreaUpdate", "de/d4c/a09442.html#aabf2846cb52b0f3c61e4336ae4561ec7", null ],
     [ "OnPlayerEnter", "de/d4c/a09442.html#ad87af1c183202b03307ff0694c8aa0e2", null ],
     [ "OnPlayerInWaterStateUpdate", "de/d4c/a09442.html#a2558a099bb9c8f88d58291202e872a2b", null ],
+    [ "OnPlayerLeave", "de/d4c/a09442.html#a797e7a5325ba15287d32e7ac1fda64c9", null ],
     [ "ReadSaveDataBossStates", "de/d4c/a09442.html#ad264275ff9daaf9d2a235779e1b0bb25", null ],
     [ "ReadSaveDataHeaders", "de/d4c/a09442.html#aaa6a64bd5a0030d080f0d5966694f2f3", null ],
     [ "ReadSaveDataMore", "de/d4c/a09442.html#a31f75bf8f2474a84d439c96a78e6f964", null ],

@@ -1,5 +1,6 @@
 var a17822 =
 [
-    [ "achievement_all_you_can_eat", "db/d96/a17822.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "db/d96/a17822.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "npc_spinestalkerAI", "dc/df6/a17826.html", "dc/df6/a17826" ],
+    [ "npc_spinestalker", "db/d96/a17822.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
+    [ "GetAI", "db/d96/a17822.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
 ];

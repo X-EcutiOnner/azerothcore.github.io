@@ -1,6 +1,4 @@
 var a22698 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "d0/ddd/a22698.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "d0/ddd/a22698.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "d0/ddd/a22698.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "operator()", "d0/ddd/a22698.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ]
 ];

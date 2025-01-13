@@ -1,6 +1,6 @@
 var a15194 =
 [
-    [ "HandleDummy", "dc/dbb/a15194.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
-    [ "PrepareSpellScript", "dc/dbb/a15194.html#adc581ed46587afcc8be3800ae79105f6", null ],
-    [ "Register", "dc/dbb/a15194.html#a7d09808ea2fdec450fcd129e996bd245", null ]
+    [ "npc_bunthen_plainswind", "dc/dbb/a15194.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "dc/dbb/a15194.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "dc/dbb/a15194.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

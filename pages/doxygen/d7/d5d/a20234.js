@@ -1,5 +1,6 @@
 var a20234 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_13", "d7/d5d/a20234.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
-    [ "OnCheck", "d7/d5d/a20234.html#ac91196d094f159932ad871ffa9c0f405", null ]
+    [ "boss_razorscaleAI", "de/d5b/a20238.html", "de/d5b/a20238" ],
+    [ "boss_razorscale", "d7/d5d/a20234.html#ad8fe81f1b553414df3fa07c646029065", null ],
+    [ "GetAI", "d7/d5d/a20234.html#a01cf25d901a5eddae9ef3ea291020ba1", null ]
 ];

@@ -1,8 +1,8 @@
 var a01988 =
 [
-    [ "boss_four_horsemen", "d2/d02/a18690.html", "d2/d02/a18690" ],
-    [ "boss_four_horsemen::boss_four_horsemenAI", "d0/d6c/a18694.html", "d0/d6c/a18694" ],
-    [ "spell_four_horsemen_mark_aura", "d2/db5/a18698.html", "d2/db5/a18698" ],
+    [ "boss_four_horsemen", "d7/dea/a18686.html", "d7/dea/a18686" ],
+    [ "boss_four_horsemen::boss_four_horsemenAI", "d2/d02/a18690.html", "d2/d02/a18690" ],
+    [ "spell_four_horsemen_mark_aura", "d0/d6c/a18694.html", "d0/d6c/a18694" ],
     [ "Events", "d5/da1/a01988.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d5f/a02216.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d5f/a02216.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

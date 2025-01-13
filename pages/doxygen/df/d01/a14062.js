@@ -1,7 +1,6 @@
 var a14062 =
 [
-    [ "HandleEffectApply", "df/d01/a14062.html#a22f3143b10155635194abe22994a397c", null ],
-    [ "HandleEffectRemove", "df/d01/a14062.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
-    [ "PrepareAuraScript", "df/d01/a14062.html#abb4f53a42e701323b2fc66598ec3503c", null ],
-    [ "Register", "df/d01/a14062.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
+    [ "HandleScript", "df/d01/a14062.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
+    [ "PrepareSpellScript", "df/d01/a14062.html#aab4303fff660c68db100e07a4423c39b", null ],
+    [ "Register", "df/d01/a14062.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
 ];

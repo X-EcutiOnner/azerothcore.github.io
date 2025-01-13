@@ -1,5 +1,6 @@
 var a20862 =
 [
-    [ "go_palehoof_sphere", "dd/d3f/a20862.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
-    [ "OnGossipHello", "dd/d3f/a20862.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
+    [ "boss_skadiAI", "da/d1f/a20866.html", "da/d1f/a20866" ],
+    [ "boss_skadi", "dd/d3f/a20862.html#a124c1c1de7ba232b3256a65547370464", null ],
+    [ "GetAI", "dd/d3f/a20862.html#a4b66199169442af5ec6542be71c19033", null ]
 ];

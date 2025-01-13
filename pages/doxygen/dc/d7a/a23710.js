@@ -1,5 +1,6 @@
 var a23710 =
 [
-    [ "go_simon_cluster", "dc/d7a/a23710.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "dc/d7a/a23710.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "go_apexis_relic", "dc/d7a/a23710.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "dc/d7a/a23710.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "dc/d7a/a23710.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

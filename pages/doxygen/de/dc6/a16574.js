@@ -1,12 +1,6 @@
 var a16574 =
 [
-    [ "npc_ghostly_priestAI", "de/dc6/a16574.html#abb6815d1395b68654eeb6ab8b4217388", null ],
-    [ "AttackStart", "de/dc6/a16574.html#a9719d1ad6e58b727bc1720cb815be3e9", null ],
-    [ "DoAction", "de/dc6/a16574.html#a89c991a1d4c07f1229436871f503c949", null ],
-    [ "EnterEvadeMode", "de/dc6/a16574.html#ab8fd2df32ef12f5f648b8af9abcc3201", null ],
-    [ "JustDied", "de/dc6/a16574.html#a004e8aec05741b9ee36b0695840e6c2a", null ],
-    [ "JustEngagedWith", "de/dc6/a16574.html#a780d530e224ca1f72e26db17cd57f44a", null ],
-    [ "Reset", "de/dc6/a16574.html#ab8f7559110be76633153842e0714554a", null ],
-    [ "UpdateAI", "de/dc6/a16574.html#ab431f451963d0b608f11129934496700", null ],
-    [ "events", "de/dc6/a16574.html#a9b49c143b5a29b4f9b4ce34ce0aecca7", null ]
+    [ "npc_phantom_mageAI", "d5/d9e/a16578.html", "d5/d9e/a16578" ],
+    [ "npc_phantom_mage", "de/dc6/a16574.html#ad57414231c40917bf55d6155fa9c05db", null ],
+    [ "GetAI", "de/dc6/a16574.html#ae2134b8be3052da659390bde7c2aac2e", null ]
 ];

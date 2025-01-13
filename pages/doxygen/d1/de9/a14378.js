@@ -1,7 +1,8 @@
 var a14378 =
 [
-    [ "hyjalThrallAI", "d8/de8/a14382.html", "d8/de8/a14382" ],
-    [ "npc_hyjal_thrall", "d1/de9/a14378.html#a232f085f208a47f7fae08128de1d06b8", null ],
-    [ "GetAI", "d1/de9/a14378.html#a699b5df19e4e84166348ecfba2dd0172", null ],
-    [ "OnGossipSelect", "d1/de9/a14378.html#af833f26d79d34655c010aa04f984a94a", null ]
+    [ "hyjalThrallAI", "d1/de9/a14378.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
+    [ "JustDied", "d1/de9/a14378.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
+    [ "JustEngagedWith", "d1/de9/a14378.html#a96706138634275ae7639c14f53cdd842", null ],
+    [ "Reset", "d1/de9/a14378.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
+    [ "UpdateAI", "d1/de9/a14378.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
 ];

@@ -1,12 +1,8 @@
 var a17146 =
 [
-    [ "npc_high_overlord_saurfangAI", "de/dcc/a17146.html#a5c31259d9eb26e09d2b645d826e75328", null ],
-    [ "DoAction", "de/dcc/a17146.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
-    [ "MovementInform", "de/dcc/a17146.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
-    [ "Reset", "de/dcc/a17146.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
-    [ "SpellHit", "de/dcc/a17146.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
-    [ "UpdateAI", "de/dcc/a17146.html#a92124e7490a066bf63836397a3bdc71b", null ],
-    [ "_events", "de/dcc/a17146.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
-    [ "_guardList", "de/dcc/a17146.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
-    [ "_instance", "de/dcc/a17146.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "df/dd2/a17150.html", "df/dd2/a17150" ],
+    [ "npc_muradin_bronzebeard_icc", "de/dcc/a17146.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
+    [ "GetAI", "de/dcc/a17146.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
+    [ "OnGossipHello", "de/dcc/a17146.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
+    [ "OnGossipSelect", "de/dcc/a17146.html#a46c4893be723a848d985ff55e28d55a2", null ]
 ];

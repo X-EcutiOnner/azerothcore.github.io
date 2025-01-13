@@ -1,6 +1,6 @@
 var a16810 =
 [
-    [ "npc_pos_freed_slaveAI", "df/d64/a16814.html", "df/d64/a16814" ],
-    [ "npc_pos_freed_slave", "d6/d63/a16810.html#a19fd79279646cb1c49c04056636615fc", null ],
-    [ "GetAI", "d6/d63/a16810.html#ac798c2584d48892162cc2bc779701e16", null ]
+    [ "npc_pos_freed_slaveAI", "d6/d63/a16810.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d6/d63/a16810.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d6/d63/a16810.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

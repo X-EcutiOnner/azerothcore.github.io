@@ -1,7 +1,7 @@
 var a01832 =
 [
-    [ "boss_keristrasza", "d8/da0/a19034.html", "d8/da0/a19034" ],
-    [ "achievement_intense_cold", "d1/d00/a19038.html", "d1/d00/a19038" ],
+    [ "boss_keristrasza", "da/dc9/a19030.html", "da/dc9/a19030" ],
+    [ "achievement_intense_cold", "d8/da0/a19034.html", "d8/da0/a19034" ],
     [ "eEnums", "dc/d06/a01832.html#a0ec08fe05ebfdddfa34c747c9c62a165", [
       [ "SPELL_FROZEN_PRISON", "dc/d06/a01832.html#a0ec08fe05ebfdddfa34c747c9c62a165a874864078de8743889d364bbecadcee6", null ],
       [ "SPELL_TAIL_SWEEP", "dc/d06/a01832.html#a0ec08fe05ebfdddfa34c747c9c62a165addcb3daa6cdc61ef04c65580e44ef823", null ],

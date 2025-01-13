@@ -1,6 +1,7 @@
 var a15746 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "df/d54/a15750.html", "df/d54/a15750" ],
-    [ "npc_baltharus_the_warborn_clone", "dd/da8/a15746.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "dd/da8/a15746.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "dd/da8/a15746.html#aed531e61508d4d404827f47c6348a5e6", null ],
+    [ "JustEngagedWith", "dd/da8/a15746.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
+    [ "UpdateAI", "dd/da8/a15746.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
+    [ "_events", "dd/da8/a15746.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
 ];

@@ -1,6 +1,6 @@
 var a17542 =
 [
-    [ "AbominationDespawner", "de/dd5/a17542.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
-    [ "operator()", "de/dd5/a17542.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
-    [ "_owner", "de/dd5/a17542.html#af9089e566905b885887a5714ad5b0741", null ]
+    [ "UnboundPlagueTargetSelector", "de/dd5/a17542.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "de/dd5/a17542.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "de/dd5/a17542.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

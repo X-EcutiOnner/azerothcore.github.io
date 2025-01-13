@@ -1,9 +1,9 @@
 var a24186 =
 [
-    [ "npc_pet_shaman_earth_elemental", "d1/dea/a24186.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "d1/dea/a24186.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "d1/dea/a24186.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "d1/dea/a24186.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "d1/dea/a24186.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "d1/dea/a24186.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "npc_pet_shaman_fire_elemental", "d1/dea/a24186.html#a3428642963fc9e7588ec92fd838f1af9", null ],
+    [ "InitializeAI", "d1/dea/a24186.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
+    [ "JustEngagedWith", "d1/dea/a24186.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
+    [ "UpdateAI", "d1/dea/a24186.html#a2280e5cc5187a91917a1e517e80e960d", null ],
+    [ "_events", "d1/dea/a24186.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
+    [ "_initAttack", "d1/dea/a24186.html#a2df79acc05dd8489e9e994e044b45404", null ]
 ];

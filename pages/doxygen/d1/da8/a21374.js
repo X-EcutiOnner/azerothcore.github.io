@@ -1,6 +1,5 @@
 var a21374 =
 [
-    [ "npc_mei_francis_mountAI", "d2/d3b/a21378.html", "d2/d3b/a21378" ],
-    [ "npc_mei_francis_mount", "d1/da8/a21374.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "d1/da8/a21374.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "npc_mei_francis_mountAI", "d1/da8/a21374.html#aa9886ead02754faebff8b21eeb85dee6", null ],
+    [ "CanBeSeen", "d1/da8/a21374.html#ad5e33495339a0315bc7b01351810157e", null ]
 ];

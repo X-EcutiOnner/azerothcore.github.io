@@ -15,7 +15,7 @@ var a01517 =
     [ "npc_chicken_cluck::npc_chicken_cluckAI", "da/dab/a27266.html", "da/dab/a27266" ],
     [ "npc_dancing_flames", "de/d4f/a27270.html", "de/d4f/a27270" ],
     [ "npc_dancing_flames::npc_dancing_flamesAI", "dc/d5b/a27274.html", "dc/d5b/a27274" ],
-    [ "Location", "d8/d26/a23918.html", "d8/d26/a23918" ],
+    [ "Location", "dc/dd9/a23914.html", "dc/dd9/a23914" ],
     [ "npc_doctor", "d3/d40/a27278.html", "d3/d40/a27278" ],
     [ "npc_doctor::npc_doctorAI", "d2/d00/a27282.html", "d2/d00/a27282" ],
     [ "npc_injured_patient", "de/da3/a27286.html", "de/da3/a27286" ],

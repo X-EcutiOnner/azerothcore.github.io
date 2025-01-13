@@ -1,6 +1,6 @@
 var a21946 =
 [
-    [ "HandleScript", "d2/db7/a21946.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "d2/db7/a21946.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "d2/db7/a21946.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "HandleScriptEffect", "d2/db7/a21946.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "d2/db7/a21946.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "d2/db7/a21946.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

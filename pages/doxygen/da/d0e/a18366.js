@@ -1,6 +1,6 @@
 var a18366 =
 [
-    [ "npc_captain_grondelAI", "da/d0e/a18366.html#afbc971fc03584b87229318309d51a2f5", null ],
-    [ "Reset", "da/d0e/a18366.html#a7d3878822e77fba66891e87e23bd3740", null ],
-    [ "UpdateAI", "da/d0e/a18366.html#a4af8548092b49653805224bd4c0ac0a2", null ]
+    [ "npc_captain_rupertAI", "de/d81/a18370.html", "de/d81/a18370" ],
+    [ "npc_captain_rupert", "da/d0e/a18366.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
+    [ "GetAI", "da/d0e/a18366.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
 ];

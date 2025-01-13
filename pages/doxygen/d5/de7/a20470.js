@@ -1,6 +1,8 @@
 var a20470 =
 [
-    [ "PrepareSpellScript", "d5/de7/a20470.html#a525025d429743f9d606289ca1a660796", null ],
-    [ "Register", "d5/de7/a20470.html#a66f565c07d495f27aaba393fdcce9d24", null ],
-    [ "SelectTarget", "d5/de7/a20470.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
+    [ "OnPeriodic", "d5/de7/a20470.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
+    [ "OnRemove", "d5/de7/a20470.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
+    [ "PrepareAuraScript", "d5/de7/a20470.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
+    [ "Register", "d5/de7/a20470.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
+    [ "Validate", "d5/de7/a20470.html#aa56622a1e57c157260940023a6c70a35", null ]
 ];

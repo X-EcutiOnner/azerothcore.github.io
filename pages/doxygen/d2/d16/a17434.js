@@ -1,5 +1,6 @@
 var a17434 =
 [
-    [ "achievement_im_on_a_boat", "d2/d16/a17434.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "d2/d16/a17434.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "CheckProc", "d2/d16/a17434.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d2/d16/a17434.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d2/d16/a17434.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

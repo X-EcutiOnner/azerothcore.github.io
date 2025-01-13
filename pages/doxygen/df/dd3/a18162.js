@@ -1,7 +1,7 @@
 var a18162 =
 [
-    [ "AuraRemoveEvent", "df/dd3/a18162.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "df/dd3/a18162.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "df/dd3/a18162.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "df/dd3/a18162.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "ValithriaDespawner", "df/dd3/a18162.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "df/dd3/a18162.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "df/dd3/a18162.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "df/dd3/a18162.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

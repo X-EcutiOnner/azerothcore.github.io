@@ -1,6 +1,6 @@
 var a18374 =
 [
-    [ "npc_captain_rupertAI", "d5/d81/a18374.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "d5/d81/a18374.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "d5/d81/a18374.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "npc_frostwing_vrykulAI", "d5/d08/a18378.html", "d5/d08/a18378" ],
+    [ "npc_frostwing_vrykul", "d5/d81/a18374.html#ab915aa094ddebd9201a1c626e6427409", null ],
+    [ "GetAI", "d5/d81/a18374.html#a11678e59b6db9a41c7b6a575339995fd", null ]
 ];

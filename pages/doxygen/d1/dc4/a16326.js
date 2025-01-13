@@ -1,5 +1,6 @@
 var a16326 =
 [
-    [ "npc_essence_of_twin", "d1/dc4/a16326.html#a019de64e5e01e611acfda5db4c279b19", null ],
-    [ "OnGossipHello", "d1/dc4/a16326.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
+    [ "npc_concentrated_ballAI", "d9/d2d/a16330.html", "d9/d2d/a16330" ],
+    [ "npc_concentrated_ball", "d1/dc4/a16326.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
+    [ "GetAI", "d1/dc4/a16326.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
 ];

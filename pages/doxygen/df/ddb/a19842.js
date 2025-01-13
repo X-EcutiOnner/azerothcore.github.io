@@ -1,6 +1,8 @@
 var a19842 =
 [
-    [ "npc_ulduar_saronite_animusAI", "df/dcd/a19846.html", "df/dcd/a19846" ],
-    [ "npc_ulduar_saronite_animus", "df/ddb/a19842.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
-    [ "GetAI", "df/ddb/a19842.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
+    [ "npc_ulduar_saronite_animusAI", "df/ddb/a19842.html#a2b94427feb24a7bda075b6a8f403433a", null ],
+    [ "JustDied", "df/ddb/a19842.html#a30abcab01de3732bc5525864576615b0", null ],
+    [ "UpdateAI", "df/ddb/a19842.html#a1490961adc8fc03ab28a992aff55b43b", null ],
+    [ "pInstance", "df/ddb/a19842.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
+    [ "timer", "df/ddb/a19842.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
 ];

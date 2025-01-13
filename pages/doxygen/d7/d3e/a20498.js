@@ -1,6 +1,6 @@
 var a20498 =
 [
-    [ "x", "d7/d3e/a20498.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "d7/d3e/a20498.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "d7/d3e/a20498.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "boss_yoggsaron_saraAI", "da/db3/a20502.html", "da/db3/a20502" ],
+    [ "boss_yoggsaron_sara", "d7/d3e/a20498.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
+    [ "GetAI", "d7/d3e/a20498.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
 ];

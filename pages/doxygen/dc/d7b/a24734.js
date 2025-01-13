@@ -1,7 +1,7 @@
 var a24734 =
 [
-    [ "HandleScript", "dc/d7b/a24734.html#a2e323378559d8f11cbdbcb76e86a25ca", null ],
-    [ "PrepareSpellScript", "dc/d7b/a24734.html#ad511986b26dccd1be8206f01458c2b40", null ],
-    [ "Register", "dc/d7b/a24734.html#aa8ea297d751913def150dc1e29d37664", null ],
-    [ "Validate", "dc/d7b/a24734.html#a81222d8ac4f55175d1dc4d7c359cc331", null ]
+    [ "HandleScript", "dc/d7b/a24734.html#af386e49e9020328f123c4da7d82d4b0c", null ],
+    [ "PrepareSpellScript", "dc/d7b/a24734.html#a5e4618514d33bbc18fcc26c83279e430", null ],
+    [ "Register", "dc/d7b/a24734.html#a3560275f387f7b0de34f9d1c255241fe", null ],
+    [ "Validate", "dc/d7b/a24734.html#a108e58cb90719b572f3578f0d44d0627", null ]
 ];

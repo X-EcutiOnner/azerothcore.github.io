@@ -1,8 +1,13 @@
 var a14094 =
 [
-    [ "CalcPeriodic", "d7/dc5/a14094.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
-    [ "HandleEffectApply", "d7/dc5/a14094.html#a4321da69ee59416bd50e621b804e5423", null ],
-    [ "HandleEffectPeriodicUpdate", "d7/dc5/a14094.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
-    [ "PrepareAuraScript", "d7/dc5/a14094.html#a956136be8cb484efc9af2429d8779a03", null ],
-    [ "Register", "d7/dc5/a14094.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
+    [ "npc_costumed_orphan_matron", "d7/dc5/a14094.html#a0b913090588613ac00ea928f6273d56f", null ],
+    [ "DoAction", "d7/dc5/a14094.html#a7a7739f89604ffb5afc6bab75118340e", null ],
+    [ "GetInitXYZ", "d7/dc5/a14094.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533", null ],
+    [ "Reset", "d7/dc5/a14094.html#a962de50b13079f3337c4e41eb2d98b55", null ],
+    [ "sGossipHello", "d7/dc5/a14094.html#a1a9c58c087b8addf8e482375737d6c49", null ],
+    [ "sQuestAccept", "d7/dc5/a14094.html#adac5d514261a210a701442da13ba1587", null ],
+    [ "UpdateAI", "d7/dc5/a14094.html#a4679d807df8749265ba0453c5b7588f1", null ],
+    [ "allowQuest", "d7/dc5/a14094.html#a722f4bfd0fb8b2665ff2b79d3208bc90", null ],
+    [ "eventStarted", "d7/dc5/a14094.html#a5292ab4e45fe3a858b3a59ef4a79bb34", null ],
+    [ "horseGUID", "d7/dc5/a14094.html#a92cfd09cefd26933ae322f2cc2716927", null ]
 ];

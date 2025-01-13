@@ -1,6 +1,6 @@
 var a21898 =
 [
-    [ "npc_bushwhackerAI", "db/d5c/a21902.html", "db/d5c/a21902" ],
-    [ "npc_bushwhacker", "df/dc1/a21898.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
-    [ "GetAI", "df/dc1/a21898.html#ab3190b66069e820abf3637bb877066a0", null ]
+    [ "npc_bushwhackerAI", "df/dc1/a21898.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "df/dc1/a21898.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "df/dc1/a21898.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

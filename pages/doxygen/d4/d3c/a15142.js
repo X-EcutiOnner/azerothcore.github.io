@@ -1,6 +1,6 @@
 var a15142 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d4/d3c/a15142.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
-    [ "UpdateAI", "d4/d3c/a15142.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
-    [ "events", "d4/d3c/a15142.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
+    [ "npc_tiger_matriarchAI", "dd/d48/a15146.html", "dd/d48/a15146" ],
+    [ "npc_tiger_matriarch", "d4/d3c/a15142.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "d4/d3c/a15142.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

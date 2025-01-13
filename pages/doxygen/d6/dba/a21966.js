@@ -1,11 +1,6 @@
 var a21966 =
 [
-    [ "npc_iron_watcherAI", "d6/dba/a21966.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
-    [ "MovementInform", "d6/dba/a21966.html#aaf329f0160efa778abdebf86b1cf230b", null ],
-    [ "Reset", "d6/dba/a21966.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
-    [ "SpellHit", "d6/dba/a21966.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
-    [ "UpdateAI", "d6/dba/a21966.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
-    [ "charging", "d6/dba/a21966.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
-    [ "hpTimer", "d6/dba/a21966.html#afcbb113387345361baf0351a19e6eb1d", null ],
-    [ "spellTimer", "d6/dba/a21966.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
+    [ "npc_time_lost_proto_drakeAI", "d6/db9/a21970.html", "d6/db9/a21970" ],
+    [ "npc_time_lost_proto_drake", "d6/dba/a21966.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "d6/dba/a21966.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

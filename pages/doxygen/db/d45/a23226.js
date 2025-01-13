@@ -1,6 +1,8 @@
 var a23226 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d6/d9b/a23230.html", "d6/d9b/a23230" ],
-    [ "instance_gruuls_lair", "db/d45/a23226.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "db/d45/a23226.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "db/d45/a23226.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
+    [ "GetData", "db/d45/a23226.html#a410630dbbe00acf0b69603cfc357d503", null ],
+    [ "SetBossState", "db/d45/a23226.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
+    [ "SetData", "db/d45/a23226.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
+    [ "_addsKilled", "db/d45/a23226.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
 ];

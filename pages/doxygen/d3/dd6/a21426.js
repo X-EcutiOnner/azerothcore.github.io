@@ -1,7 +1,6 @@
 var a21426 =
 [
-    [ "npc_cosmetic_toy_plane", "d3/dd6/a21426.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "d3/dd6/a21426.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "d3/dd6/a21426.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "d3/dd6/a21426.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "d1/d59/a21430.html", "d1/d59/a21430" ],
+    [ "npc_conversing_with_the_depths_trigger", "d3/dd6/a21426.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
+    [ "GetAI", "d3/dd6/a21426.html#a61c337bfe1efb3589cf0df91d9082236", null ]
 ];

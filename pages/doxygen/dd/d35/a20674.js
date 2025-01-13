@@ -1,6 +1,7 @@
 var a20674 =
 [
-    [ "OnRemove", "dd/d35/a20674.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
-    [ "PrepareAuraScript", "dd/d35/a20674.html#a5fb0837417b915676549370cc76c477d", null ],
-    [ "Register", "dd/d35/a20674.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
+    [ "HandleEffectCalcPeriodic", "dd/d35/a20674.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "dd/d35/a20674.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "dd/d35/a20674.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "dd/d35/a20674.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

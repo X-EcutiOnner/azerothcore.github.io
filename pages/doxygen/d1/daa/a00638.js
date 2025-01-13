@@ -1,6 +1,6 @@
 var a00638 =
 [
-    [ "boss_gatewatcher_gyrokill", "da/d73/a23618.html", "da/d73/a23618" ],
+    [ "boss_gatewatcher_gyrokill", "d9/df4/a23614.html", "d9/df4/a23614" ],
     [ "Say", "d1/daa/a00638.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "d2/d35/a02480.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "d2/d35/a02480.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],

@@ -1,8 +1,10 @@
 var a24810 =
 [
-    [ "AchievementCredit", "dc/dcb/a24810.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "dc/dcb/a24810.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "dc/dcb/a24810.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "dc/dcb/a24810.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "dc/dcb/a24810.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "Load", "dc/dcb/a24810.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
+    [ "OnPeriodic", "dc/dcb/a24810.html#ab1dc8acb8072f70625375480742fee5e", null ],
+    [ "PrepareAuraScript", "dc/dcb/a24810.html#a2e81d03893b23aa8dc9c615683206f75", null ],
+    [ "Register", "dc/dcb/a24810.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
+    [ "Validate", "dc/dcb/a24810.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
+    [ "_applyTimes", "dc/dcb/a24810.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
+    [ "stackAmount", "dc/dcb/a24810.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
 ];

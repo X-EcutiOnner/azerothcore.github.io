@@ -1,6 +1,10 @@
 var a17010 =
 [
-    [ "npc_dark_nucleusAI", "d7/d3b/a17014.html", "d7/d3b/a17014" ],
-    [ "npc_dark_nucleus", "d0/d7c/a17010.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "d0/d7c/a17010.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "npc_dark_nucleusAI", "d0/d7c/a17010.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
+    [ "AttackStart", "d0/d7c/a17010.html#a3dec28dd13257b944df0c559d26a76e0", null ],
+    [ "DamageTaken", "d0/d7c/a17010.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
+    [ "JustDied", "d0/d7c/a17010.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
+    [ "Reset", "d0/d7c/a17010.html#ac84f79f84e721ab1306c8eed8658b143", null ],
+    [ "UpdateAI", "d0/d7c/a17010.html#a3a08457c34d4dd904a99a78875d6318c", null ],
+    [ "timer", "d0/d7c/a17010.html#ac5f9824276987b81aef5cfee05158049", null ]
 ];

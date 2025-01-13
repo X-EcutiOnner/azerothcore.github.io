@@ -1,6 +1,8 @@
 var a14894 =
 [
-    [ "boss_veknilash", "d5/def/a14894.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "d5/def/a14894.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "d5/def/a14894.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "boss_veklor", "d5/def/a14894.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d5/def/a14894.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d5/def/a14894.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d5/def/a14894.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d5/def/a14894.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

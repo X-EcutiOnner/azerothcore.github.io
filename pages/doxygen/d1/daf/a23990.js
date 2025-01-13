@@ -1,6 +1,6 @@
 var a23990 =
 [
-    [ "npc_zephyr", "d1/daf/a23990.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "d1/daf/a23990.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "d1/daf/a23990.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "npc_kservantAI", "d8/d4e/a23994.html", "d8/d4e/a23994" ],
+    [ "npc_kservant", "d1/daf/a23990.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "d1/daf/a23990.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

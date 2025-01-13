@@ -1,7 +1,8 @@
 var a15390 =
 [
-    [ "npc_paoka_swiftmountainAI", "d0/d49/a15390.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "d0/d49/a15390.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "d0/d49/a15390.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "d0/d49/a15390.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
+    [ "npc_pluckyAI", "d6/d45/a15394.html", "d6/d45/a15394" ],
+    [ "npc_plucky", "d0/d49/a15390.html#a86bb2992b8af5893987145117aaf3608", null ],
+    [ "GetAI", "d0/d49/a15390.html#a51e73f4e1f618aee5a000e31328efefc", null ],
+    [ "OnGossipHello", "d0/d49/a15390.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
+    [ "OnGossipSelect", "d0/d49/a15390.html#a88fa465246b4c657b921ebdc96f7a112", null ]
 ];

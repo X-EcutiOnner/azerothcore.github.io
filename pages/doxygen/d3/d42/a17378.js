@@ -1,6 +1,7 @@
 var a17378 =
 [
-    [ "IgbTeleportOnVictoryCheck", "d3/d42/a17378.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "d3/d42/a17378.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "d3/d42/a17378.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "FilterTargets", "d3/d42/a17378.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "d3/d42/a17378.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "d3/d42/a17378.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "d3/d42/a17378.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

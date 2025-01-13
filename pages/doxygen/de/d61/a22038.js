@@ -1,6 +1,6 @@
 var a22038 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "dd/d1b/a22042.html", "dd/d1b/a22042" ],
-    [ "npc_vehicle_d16_propelled_delivery", "de/d61/a22038.html#a93bed362ae78231b21327994a3e4cafd", null ],
-    [ "GetAI", "de/d61/a22038.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "de/d61/a22038.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "de/d61/a22038.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "de/d61/a22038.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

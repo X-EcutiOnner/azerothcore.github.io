@@ -1,7 +1,6 @@
 var a24030 =
 [
-    [ "HandlePeriodic", "df/d4b/a24030.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "df/d4b/a24030.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "df/d4b/a24030.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "df/d4b/a24030.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "PrepareSpellScript", "df/d4b/a24030.html#a190f6dc3d9b336324da29f627a743fe9", null ],
+    [ "Register", "df/d4b/a24030.html#a3afc8035b852bc31abd3228e88d59819", null ],
+    [ "SetDest", "df/d4b/a24030.html#a85d66a58597954501305ad5b674cc8a2", null ]
 ];

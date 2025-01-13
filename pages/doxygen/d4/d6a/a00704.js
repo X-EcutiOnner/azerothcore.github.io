@@ -1,11 +1,11 @@
 var a00704 =
 [
-    [ "boss_mother_shahraz", "d9/d67/a22582.html", "d9/d67/a22582" ],
-    [ "spell_mother_shahraz_random_periodic_aura", "db/d7d/a22586.html", "db/d7d/a22586" ],
-    [ "spell_mother_shahraz_beam_periodic_aura", "df/d5f/a22590.html", "df/d5f/a22590" ],
-    [ "spell_mother_shahraz_saber_lash_aura", "d9/d4a/a22594.html", "d9/d4a/a22594" ],
-    [ "spell_mother_shahraz_fatal_attraction", "d2/db8/a22598.html", "d2/db8/a22598" ],
-    [ "spell_mother_shahraz_fatal_attraction_dummy", "da/dce/a22602.html", "da/dce/a22602" ],
+    [ "boss_mother_shahraz", "d4/d57/a22578.html", "d4/d57/a22578" ],
+    [ "spell_mother_shahraz_random_periodic_aura", "d9/d67/a22582.html", "d9/d67/a22582" ],
+    [ "spell_mother_shahraz_beam_periodic_aura", "db/d7d/a22586.html", "db/d7d/a22586" ],
+    [ "spell_mother_shahraz_saber_lash_aura", "df/d5f/a22590.html", "df/d5f/a22590" ],
+    [ "spell_mother_shahraz_fatal_attraction", "d9/d4a/a22594.html", "d9/d4a/a22594" ],
+    [ "spell_mother_shahraz_fatal_attraction_dummy", "d2/db8/a22598.html", "d2/db8/a22598" ],
     [ "Misc", "d4/d6a/a00704.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d6/dff/a02390.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d5/d2b/a02420.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

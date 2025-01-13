@@ -1,6 +1,5 @@
 var a15554 =
 [
-    [ "ModDestHeight", "d4/d00/a15554.html#a8bda9327c4244af41c513528ad5c818c", null ],
-    [ "PrepareSpellScript", "d4/d00/a15554.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
-    [ "Register", "d4/d00/a15554.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
+    [ "achievement_volunteer_work", "d4/d00/a15554.html#a43db6e553b370f139ac376840fdf6d70", null ],
+    [ "OnCheck", "d4/d00/a15554.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
 ];

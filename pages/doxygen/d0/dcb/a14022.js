@@ -1,5 +1,6 @@
 var a14022 =
 [
-    [ "at_bring_your_orphan_to", "d0/dcb/a14022.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
-    [ "OnTrigger", "d0/dcb/a14022.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
+    [ "npc_cw_area_triggerAI", "d0/df0/a14026.html", "d0/df0/a14026" ],
+    [ "npc_cw_area_trigger", "d0/dcb/a14022.html#a11af64ac4ab078566bf8f68a36781939", null ],
+    [ "GetAI", "d0/dcb/a14022.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
 ];

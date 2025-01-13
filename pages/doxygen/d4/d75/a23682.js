@@ -1,7 +1,6 @@
 var a23682 =
 [
-    [ "OnPeriodic", "d4/d75/a23682.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d4/d75/a23682.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d4/d75/a23682.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d4/d75/a23682.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "npc_nether_drakeAI", "db/d17/a23686.html", "db/d17/a23686" ],
+    [ "npc_nether_drake", "d4/d75/a23682.html#a253ec3c91857b899ea9e2c824870b760", null ],
+    [ "GetAI", "d4/d75/a23682.html#a58d269e2c73cae07bb507162b742fe8f", null ]
 ];

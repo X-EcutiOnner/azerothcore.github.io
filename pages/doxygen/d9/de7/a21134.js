@@ -1,6 +1,10 @@
 var a21134 =
 [
-    [ "npc_azure_binderAI", "d3/dfa/a21138.html", "d3/dfa/a21138" ],
-    [ "npc_azure_binder", "d9/de7/a21134.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
-    [ "GetAI", "d9/de7/a21134.html#aad091206a8bd06a1064b68b81510eb56", null ]
+    [ "npc_azure_binderAI", "d9/de7/a21134.html#ad532d350493a35804660f90a9f00f3cf", null ],
+    [ "Reset", "d9/de7/a21134.html#aa317ce32f3439286e9a4ac0928d48b3a", null ],
+    [ "UpdateAI", "d9/de7/a21134.html#a322ae0210ccb24206aee49c4fa7fe2bc", null ],
+    [ "uiArcainBarrageTimer", "d9/de7/a21134.html#a0e577611e3e11209cc175cd71cd86bc9", null ],
+    [ "uiArcaneExplosionTimer", "d9/de7/a21134.html#aa5cc777f777166e88a21e98a4ce2b8d3", null ],
+    [ "uiFrostboltTimer", "d9/de7/a21134.html#a405ec0f2d92e4a1f5f7901e725465604", null ],
+    [ "uiFrostNovaTimer", "d9/de7/a21134.html#a0f6396376e14711f87f1a046728ce386", null ]
 ];

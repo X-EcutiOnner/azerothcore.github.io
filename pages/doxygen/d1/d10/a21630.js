@@ -1,6 +1,7 @@
 var a21630 =
 [
-    [ "npc_tallhorn_stagAI", "d4/dff/a21634.html", "d4/dff/a21634" ],
-    [ "npc_tallhorn_stag", "d1/d10/a21630.html#aff7f23376c27312894c9a042f6a0f848", null ],
-    [ "GetAI", "d1/d10/a21630.html#a3d993542271c80982adcee9a9d60e46b", null ]
+    [ "npc_tallhorn_stagAI", "d1/d10/a21630.html#a50947c450eece979193b45728e5e1f82", null ],
+    [ "Reset", "d1/d10/a21630.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
+    [ "UpdateAI", "d1/d10/a21630.html#adf60f62fa92238cb315c42e0179c3f17", null ],
+    [ "_phase", "d1/d10/a21630.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
 ];

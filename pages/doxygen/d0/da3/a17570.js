@@ -1,5 +1,6 @@
 var a17570 =
 [
-    [ "npc_volatile_oozeAI", "d0/da3/a17570.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "d0/da3/a17570.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "npc_gas_cloudAI", "df/d32/a17574.html", "df/d32/a17574" ],
+    [ "npc_gas_cloud", "d0/da3/a17570.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "d0/da3/a17570.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

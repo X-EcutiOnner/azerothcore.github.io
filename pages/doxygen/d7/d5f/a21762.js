@@ -1,8 +1,6 @@
 var a21762 =
 [
-    [ "npc_llod_genericAI", "d7/d5f/a21762.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "d7/d5f/a21762.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "d7/d5f/a21762.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "d7/d5f/a21762.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "d7/d5f/a21762.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "npc_lord_areteAI", "d4/d4f/a21766.html", "d4/d4f/a21766" ],
+    [ "npc_lord_arete", "d7/d5f/a21762.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
+    [ "GetAI", "d7/d5f/a21762.html#a212d003e9acb5f141197b5c4d10163a4", null ]
 ];

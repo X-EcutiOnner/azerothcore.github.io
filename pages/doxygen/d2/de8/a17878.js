@@ -1,9 +1,11 @@
 var a17878 =
 [
-    [ "ShadowTrapLKTargetSelector", "d2/de8/a17878.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "d2/de8/a17878.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "d2/de8/a17878.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "d2/de8/a17878.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "d2/de8/a17878.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "d2/de8/a17878.html#af416013aabf3b217b07228072076603d", null ]
+    [ "NonTankLKTargetSelector", "d2/de8/a17878.html#a41c5372505c0c74e93f2c583a0259777", null ],
+    [ "operator()", "d2/de8/a17878.html#a2e496088092b9885f8e2391c2df91993", null ],
+    [ "_exclude1", "d2/de8/a17878.html#abe4e56597fa2918b15a003413887ac71", null ],
+    [ "_exclude2", "d2/de8/a17878.html#a6aa63c93c4e68998f621349760d9ab43", null ],
+    [ "_maxDist", "d2/de8/a17878.html#ac7e28c908079fbd2e1ca5374731d521e", null ],
+    [ "_playerOnly", "d2/de8/a17878.html#a5ab89af79aa4840c9a024996a848540c", null ],
+    [ "_reqLOS", "d2/de8/a17878.html#a61966d6b825f25b6bbf589676cef19f9", null ],
+    [ "_source", "d2/de8/a17878.html#a86e3ebd2425b76103df7413b5ed4af70", null ]
 ];

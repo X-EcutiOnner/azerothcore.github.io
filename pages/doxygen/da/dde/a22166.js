@@ -1,6 +1,6 @@
 var a22166 =
 [
-    [ "npc_captured_rageclawAI", "da/dde/a22166.html#a5bb483a323330b0895f87c5381d73314", null ],
-    [ "Reset", "da/dde/a22166.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
-    [ "SpellHit", "da/dde/a22166.html#a2c63911d27435a2271a7c89d9d88318c", null ]
+    [ "npc_released_offspring_harkoaAI", "dc/d99/a22170.html", "dc/d99/a22170" ],
+    [ "npc_released_offspring_harkoa", "da/dde/a22166.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "da/dde/a22166.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

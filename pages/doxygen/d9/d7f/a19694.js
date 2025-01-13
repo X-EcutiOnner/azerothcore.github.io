@@ -1,6 +1,6 @@
 var a19694 =
 [
-    [ "HandleScript", "d9/d7f/a19694.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
-    [ "PrepareSpellScript", "d9/d7f/a19694.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
-    [ "Register", "d9/d7f/a19694.html#a04a5b3a4f768200d74f4641508633d35", null ]
+    [ "OnPeriodic", "d9/d7f/a19694.html#a379c55df994c58932fef7e7a59fd8426", null ],
+    [ "PrepareAuraScript", "d9/d7f/a19694.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
+    [ "Register", "d9/d7f/a19694.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
 ];

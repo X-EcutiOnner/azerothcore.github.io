@@ -1,8 +1,8 @@
 var a01610 =
 [
-    [ "ChampionPosition", "d1/d46/a16854.html", "d1/d46/a16854" ],
-    [ "FBSPosition", "d6/dee/a16858.html", "d6/dee/a16858" ],
-    [ "TSPosition", "d6/d04/a16862.html", "d6/d04/a16862" ],
+    [ "ChampionPosition", "da/d72/a16850.html", "da/d72/a16850" ],
+    [ "FBSPosition", "d1/d46/a16854.html", "d1/d46/a16854" ],
+    [ "TSPosition", "d6/dee/a16858.html", "d6/dee/a16858" ],
     [ "DataHeader", "d9/dfd/a01610.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "PATH_BEGIN_VALUE", "d9/dfd/a01610.html#a5e53249f20085a0a3fa19bdb577ee3c0", null ],
     [ "PitOfSaronScriptName", "d9/dfd/a01610.html#ac8331e51ea541bfd050c3deb5dc0a07a", null ],
@@ -243,6 +243,8 @@ var a01610 =
       [ "NPC_KORAG_PROUDMANE", "d3/de5/a00956.html#a92f6fd626e1834a4cc509efc1186963ea29c2c4667cb593f215943bc2329b76d8", null ],
       [ "NPC_CAPTAIN_BONESHATTER", "d3/de5/a00956.html#a92f6fd626e1834a4cc509efc1186963eaf3b6aefd2fb5626550e1c0435635b2bc", null ],
       [ "NPC_SCOUT_ORGARR", "d3/de5/a00956.html#a92f6fd626e1834a4cc509efc1186963ead5eef2e0cd9e77cc0d969043bee11b65", null ],
+      [ "NPC_DRISELLA", "d3/de5/a00956.html#a92f6fd626e1834a4cc509efc1186963ea98f942453c3a388805f7d6936bf7838c", null ],
+      [ "NPC_RANDY_WHIZZLESPROCKET", "d3/de5/a00956.html#a92f6fd626e1834a4cc509efc1186963eaae6f40ad8a42f5bfe6b72df5db730fe2", null ],
       [ "NPC_DALLIAH", "de/ddd/a00653.html#a92f6fd626e1834a4cc509efc1186963ead0239db327bb65717babe37e72db715f", null ],
       [ "NPC_SOCCOTHRATES", "de/ddd/a00653.html#a92f6fd626e1834a4cc509efc1186963eaf06b0fc8adf0ea91c3588ada2b129834", null ],
       [ "NPC_MELLICHAR", "de/ddd/a00653.html#a92f6fd626e1834a4cc509efc1186963eac8187001ea51aaa0d362087fe99e80d9", null ],

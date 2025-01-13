@@ -1,9 +1,10 @@
 var a15242 =
 [
-    [ "npc_thrall_warchiefAI", "da/d79/a15246.html", "da/d79/a15246" ],
-    [ "npc_thrall_warchief", "da/d64/a15242.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
-    [ "GetAI", "da/d64/a15242.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
-    [ "OnGossipHello", "da/d64/a15242.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
-    [ "OnGossipSelect", "da/d64/a15242.html#a63367ca0b252c148f625b305575fd768", null ],
-    [ "OnQuestReward", "da/d64/a15242.html#aea53462e94121ad44e366d2743807c3c", null ]
+    [ "npc_thrall_warchiefAI", "da/d64/a15242.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
+    [ "DoAction", "da/d64/a15242.html#a511da19703e30f6e82e59c5223bf2770", null ],
+    [ "JustEngagedWith", "da/d64/a15242.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
+    [ "Reset", "da/d64/a15242.html#a920a29258228c9c2e7e0791d38b648e1", null ],
+    [ "UpdateAI", "da/d64/a15242.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
+    [ "ChainLightningTimer", "da/d64/a15242.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
+    [ "ShockTimer", "da/d64/a15242.html#aa8609f8824f68ce7259465284c01dd35", null ]
 ];

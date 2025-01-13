@@ -1,6 +1,6 @@
 var a17314 =
 [
-    [ "npc_gunship_boarding_add_realAI", "dc/d7c/a17318.html", "dc/d7c/a17318" ],
-    [ "npc_gunship_boarding_add", "d6/d89/a17314.html#aa80871f80bae7186d3665f73d757e108", null ],
-    [ "GetAI", "d6/d89/a17314.html#ad7e173bffccca6d852ba545427235447", null ]
+    [ "npc_gunship_boarding_add_realAI", "d6/d89/a17314.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
+    [ "UpdateAI", "d6/d89/a17314.html#a33ac355c8f61907574a0736a24cbee82", null ],
+    [ "_events", "d6/d89/a17314.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
 ];

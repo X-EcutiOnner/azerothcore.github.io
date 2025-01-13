@@ -1,5 +1,6 @@
 var a24086 =
 [
-    [ "npc_pet_dk_risen_allyAI", "db/d2e/a24086.html#ac9f42a8f6d87ab65e78d9a3951102705", null ],
-    [ "OnCharmed", "db/d2e/a24086.html#ada01d7ab11b7bf240cad932c96978a06", null ]
+    [ "npc_pet_dk_army_of_the_deadAI", "d9/d63/a24090.html", "d9/d63/a24090" ],
+    [ "npc_pet_dk_army_of_the_dead", "db/d2e/a24086.html#a0029b9a6bf26ac3419e580d437a0139f", null ],
+    [ "GetAI", "db/d2e/a24086.html#a1883936b7f2905f67d3750faa8caf635", null ]
 ];

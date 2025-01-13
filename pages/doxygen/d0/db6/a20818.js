@@ -1,7 +1,6 @@
 var a20818 =
 [
-    [ "HandleOnEffectRemove", "d0/db6/a20818.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "d0/db6/a20818.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "d0/db6/a20818.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "d0/db6/a20818.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "boss_palehoofAI", "d7/d3e/a20822.html", "d7/d3e/a20822" ],
+    [ "boss_palehoof", "d0/db6/a20818.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
+    [ "GetAI", "d0/db6/a20818.html#ae33ca6e71b251214be50168a5940d058", null ]
 ];

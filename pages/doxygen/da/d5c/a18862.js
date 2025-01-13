@@ -1,10 +1,6 @@
 var a18862 =
 [
-    [ "boss_razuvious_minionAI", "da/d5c/a18862.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
-    [ "DoAction", "da/d5c/a18862.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
-    [ "JustEngagedWith", "da/d5c/a18862.html#ada2e7a5ac1f129572a0689afce49d310", null ],
-    [ "KilledUnit", "da/d5c/a18862.html#ab1a6f582098c9d1218551af0aae1815d", null ],
-    [ "Reset", "da/d5c/a18862.html#a170de8517a03a0e78b1e67652869fd9a", null ],
-    [ "ScheduleAttackDummy", "da/d5c/a18862.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
-    [ "UpdateAI", "da/d5c/a18862.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
+    [ "boss_sapphironAI", "d2/d49/a18866.html", "d2/d49/a18866" ],
+    [ "boss_sapphiron", "da/d5c/a18862.html#a87a70204dd727f92d035ad98e2ab9010", null ],
+    [ "GetAI", "da/d5c/a18862.html#a31209287faa721bef341388ae4383b6c", null ]
 ];

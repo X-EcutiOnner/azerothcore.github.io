@@ -1,11 +1,11 @@
 var a01991 =
 [
-    [ "WebTargetSelector", "dc/dcc/a18810.html", "dc/dcc/a18810" ],
-    [ "boss_maexxna", "d1/d51/a18814.html", "d1/d51/a18814" ],
-    [ "boss_maexxna::boss_maexxnaAI", "de/d32/a18818.html", "de/d32/a18818" ],
-    [ "boss_maexxna_webwrap", "d7/d67/a18822.html", "d7/d67/a18822" ],
-    [ "boss_maexxna_webwrap::boss_maexxna_webwrapAI", "d9/d57/a18826.html", "d9/d57/a18826" ],
-    [ "spell_web_wrap_damage", "de/dd3/a18830.html", "de/dd3/a18830" ],
+    [ "WebTargetSelector", "d3/d02/a18806.html", "d3/d02/a18806" ],
+    [ "boss_maexxna", "dc/dcc/a18810.html", "dc/dcc/a18810" ],
+    [ "boss_maexxna::boss_maexxnaAI", "d1/d51/a18814.html", "d1/d51/a18814" ],
+    [ "boss_maexxna_webwrap", "de/d32/a18818.html", "de/d32/a18818" ],
+    [ "boss_maexxna_webwrap::boss_maexxna_webwrapAI", "d7/d67/a18822.html", "d7/d67/a18822" ],
+    [ "spell_web_wrap_damage", "d9/d57/a18826.html", "d9/d57/a18826" ],
     [ "Emotes", "d3/d4e/a01991.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "dc/d2b/a02486.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "dc/d2b/a02486.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],

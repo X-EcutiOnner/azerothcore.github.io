@@ -1,5 +1,6 @@
 var a14986 =
 [
-    [ "at_battleguard_sartura", "df/d23/a14986.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
-    [ "OnTrigger", "df/d23/a14986.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d6/de2/a14990.html", "d6/de2/a14990" ],
+    [ "instance_wailing_caverns", "df/d23/a14986.html#a906f59c39f59237e9eedb479dfc7d825", null ],
+    [ "GetInstanceScript", "df/d23/a14986.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
 ];

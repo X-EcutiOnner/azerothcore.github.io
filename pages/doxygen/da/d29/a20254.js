@@ -1,6 +1,10 @@
 var a20254 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "de/d0e/a20258.html", "de/d0e/a20258" ],
-    [ "npc_ulduar_harpoonfirestate", "da/d29/a20254.html#a85043e64606ba7c9ce2da7a37bbf0e8e", null ],
-    [ "GetAI", "da/d29/a20254.html#a8c9e1882c0706cb0b576c24b62215238", null ]
+    [ "npc_ulduar_harpoonfirestateAI", "da/d29/a20254.html#acc6853671f37e35c746ffa3807ae10b2", null ],
+    [ "GetData", "da/d29/a20254.html#ac23f2c901ef8c2160ceea43a0a15e185", null ],
+    [ "GetHarpoonGunIdForThisHFS", "da/d29/a20254.html#af21c4d50febac02eb0572efe564a19b1", null ],
+    [ "Reset", "da/d29/a20254.html#af300a8271762fe1b5582384114902ee8", null ],
+    [ "SetData", "da/d29/a20254.html#abf485123f0a73aa84ad5178e23c4192e", null ],
+    [ "pInstance", "da/d29/a20254.html#af576864ded6610daad973ac420d2fdb8", null ],
+    [ "repairPoints", "da/d29/a20254.html#a5e9bcd384285b9046da93bd18804d07b", null ]
 ];

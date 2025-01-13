@@ -1,6 +1,6 @@
 var a15914 =
 [
-    [ "HandleScript", "d6/d24/a15914.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "d6/d24/a15914.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "d6/d24/a15914.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "d3/d6c/a15918.html", "d3/d6c/a15918" ],
+    [ "instance_ruby_sanctum", "d6/d24/a15914.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
+    [ "GetInstanceScript", "d6/d24/a15914.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
 ];

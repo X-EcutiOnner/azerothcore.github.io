@@ -1,6 +1,5 @@
 var a14642 =
 [
-    [ "npc_idol_room_spawnerAI", "df/ded/a14646.html", "df/ded/a14646" ],
-    [ "npc_idol_room_spawner", "dc/d70/a14642.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
-    [ "GetAI", "dc/d70/a14642.html#a3017caa645e98a7647ec42a43c025624", null ]
+    [ "npc_idol_room_spawnerAI", "dc/d70/a14642.html#a77c4aa88d213271166158c8e75d41a69", null ],
+    [ "SetData", "dc/d70/a14642.html#aa0626c837086b4a275f4d51d1659a242", null ]
 ];

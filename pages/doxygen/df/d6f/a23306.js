@@ -1,8 +1,6 @@
 var a23306 =
 [
-    [ "npc_target_trigger", "df/d6f/a23306.html#a238058ba80130c6239b7267db3247196", null ],
-    [ "Reset", "df/d6f/a23306.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
-    [ "UpdateAI", "df/d6f/a23306.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
-    [ "_cast", "df/d6f/a23306.html#a4ec89ca960323f7ad135d5a425a82416", null ],
-    [ "_scheduler", "df/d6f/a23306.html#a9b418b09e25c8f96692b4e2626339c96", null ]
+    [ "HandleScriptEffect", "df/d6f/a23306.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
+    [ "PrepareSpellScript", "df/d6f/a23306.html#a287bff28e57a86f0176921500de78fa9", null ],
+    [ "Register", "df/d6f/a23306.html#ad5fb101794dfdef0c08551dd9397b965", null ]
 ];

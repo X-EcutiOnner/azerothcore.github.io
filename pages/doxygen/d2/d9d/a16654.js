@@ -1,6 +1,8 @@
 var a16654 =
 [
-    [ "npc_hor_raging_ghoulAI", "da/d22/a16658.html", "da/d22/a16658" ],
-    [ "npc_hor_raging_ghoul", "d2/d9d/a16654.html#ad2130edf27295719c46dde14deefe5a4", null ],
-    [ "GetAI", "d2/d9d/a16654.html#ab29cebad1d54d14ecf21bbd215dc2f2d", null ]
+    [ "npc_hor_raging_ghoulAI", "d2/d9d/a16654.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
+    [ "JustDied", "d2/d9d/a16654.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
+    [ "Reset", "d2/d9d/a16654.html#aa52576d94e230797209dfc938d62187f", null ],
+    [ "UpdateAI", "d2/d9d/a16654.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
+    [ "leaped", "d2/d9d/a16654.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
 ];

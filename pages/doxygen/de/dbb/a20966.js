@@ -1,12 +1,7 @@
 var a20966 =
 [
-    [ "boss_koralonAI", "de/dbb/a20966.html#a3f5bc42a141011e543d1215eac09dc74", null ],
-    [ "AttackStart", "de/dbb/a20966.html#aa84e6e9a302172e134163cd07ca57864", null ],
-    [ "JustDied", "de/dbb/a20966.html#a102c10792d9e7df61d920b5a43f58e51", null ],
-    [ "JustEngagedWith", "de/dbb/a20966.html#aa7503618dd09e0aebac44394595f4715", null ],
-    [ "Reset", "de/dbb/a20966.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
-    [ "UpdateAI", "de/dbb/a20966.html#aa944aad2eb68adc917cba743d1e530c7", null ],
-    [ "events", "de/dbb/a20966.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
-    [ "pInstance", "de/dbb/a20966.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
-    [ "rotateTimer", "de/dbb/a20966.html#ad4b766094f28e940b0b7971d6dadc277", null ]
+    [ "HandleDummy", "de/dbb/a20966.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "de/dbb/a20966.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "de/dbb/a20966.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "de/dbb/a20966.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

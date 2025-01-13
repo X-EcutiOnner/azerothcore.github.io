@@ -1,7 +1,7 @@
 var a00854 =
 [
-    [ "boss_talon_king_ikiss", "df/d30/a22370.html", "df/d30/a22370" ],
-    [ "spell_talon_king_ikiss_blink", "db/d8b/a22374.html", "db/d8b/a22374" ],
+    [ "boss_talon_king_ikiss", "dc/d74/a22366.html", "dc/d74/a22366" ],
+    [ "spell_talon_king_ikiss_blink", "df/d30/a22370.html", "df/d30/a22370" ],
     [ "Spells", "d6/d2f/a00854.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d4/dd0/a03749.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d4/dd0/a03749.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

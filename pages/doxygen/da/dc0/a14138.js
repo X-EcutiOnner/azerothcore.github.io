@@ -1,7 +1,9 @@
 var a14138 =
 [
-    [ "npc_love_in_air_supply_sentry", "da/dc0/a14138.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "da/dc0/a14138.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "da/dc0/a14138.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "da/dc0/a14138.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "npc_love_in_air_snivel", "da/dc0/a14138.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "da/dc0/a14138.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "da/dc0/a14138.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "da/dc0/a14138.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "da/dc0/a14138.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "da/dc0/a14138.html#a548db6245ef875ec47279246e437934c", null ]
 ];

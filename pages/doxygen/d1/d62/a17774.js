@@ -1,6 +1,7 @@
 var a17774 =
 [
-    [ "CheckProc", "d1/d62/a17774.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "d1/d62/a17774.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "d1/d62/a17774.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "OnRemove", "d1/d62/a17774.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "d1/d62/a17774.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "d1/d62/a17774.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "d1/d62/a17774.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

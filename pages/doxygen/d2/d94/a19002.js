@@ -1,8 +1,7 @@
 var a19002 =
 [
-    [ "FilterTargets", "d2/d94/a19002.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
-    [ "Load", "d2/d94/a19002.html#a639105c26214d9887b84a482ca93eb26", null ],
-    [ "PrepareSpellScript", "d2/d94/a19002.html#a354ae20be436528b16095d4cd8d37859", null ],
-    [ "Register", "d2/d94/a19002.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
-    [ "DrakeGUID", "d2/d94/a19002.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
+    [ "EoEDrakeEnterVehicleEvent", "d2/d94/a19002.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
+    [ "Execute", "d2/d94/a19002.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
+    [ "_owner", "d2/d94/a19002.html#ab48302fdff800afddfeec2c0d756873c", null ],
+    [ "_playerGUID", "d2/d94/a19002.html#add56bff0695453e01f300e0434a39ec8", null ]
 ];

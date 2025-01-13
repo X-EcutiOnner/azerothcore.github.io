@@ -41,7 +41,7 @@ var a04681 =
       [ "World", "d5/de4/a11342.html#afa39d4e6f714a7a3691ac0c656f5e8a8", null ],
       [ "~World", "d5/de4/a11342.html#adf5e8724afb4d083e566ee4e48905bf2", null ],
       [ "_UpdateGameTime", "d5/de4/a11342.html#a283774abc7254563416653fbf43c0fe4", null ],
-      [ "_UpdateRealmCharCount", "d5/de4/a11342.html#a8fe5f1300d7b28cd70536da1daa688c7", null ],
+      [ "_UpdateRealmCharCount", "d5/de4/a11342.html#a42dca1e9a4af3d1aa94c0f045ce41d8b", null ],
       [ "AddQueuedPlayer", "d5/de4/a11342.html#a58817621061aff4215f6c2269434ffb0", null ],
       [ "AddSession", "d5/de4/a11342.html#ab4405678e629bda377be42d5774bcbc1", null ],
       [ "AddSession_", "d5/de4/a11342.html#a17a1ece4104f5702640a9b030e9f0dad", null ],

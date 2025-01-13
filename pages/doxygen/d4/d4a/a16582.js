@@ -1,12 +1,6 @@
 var a16582 =
 [
-    [ "npc_phantom_mageAI", "d4/d4a/a16582.html#ac919dc1ba167cc68714320f9351b99d0", null ],
-    [ "AttackStart", "d4/d4a/a16582.html#ade9ba7071cff655f2c0133481cb9c2bc", null ],
-    [ "DoAction", "d4/d4a/a16582.html#a6c66df8b8e59a9dc62f1f944da2afc2c", null ],
-    [ "EnterEvadeMode", "d4/d4a/a16582.html#a6ca0be233e8866b6154fa6e7164b856d", null ],
-    [ "JustDied", "d4/d4a/a16582.html#a3a522e4c741bc321469ed87c10cf7904", null ],
-    [ "JustEngagedWith", "d4/d4a/a16582.html#a5a1bf4aaf716674a63e31d24ae4a5d7c", null ],
-    [ "Reset", "d4/d4a/a16582.html#a5c29c8d54956a0917df3997118348590", null ],
-    [ "UpdateAI", "d4/d4a/a16582.html#a7135acfbc36212306a68fc8b758e2881", null ],
-    [ "events", "d4/d4a/a16582.html#afa0f0b5cac0759db324cea7c64463f75", null ]
+    [ "npc_phantom_hallucinationAI", "d5/dfa/a16586.html", "d5/dfa/a16586" ],
+    [ "npc_phantom_hallucination", "d4/d4a/a16582.html#a685889c090152a2562ee9adef7efbf71", null ],
+    [ "GetAI", "d4/d4a/a16582.html#a771ee338f87ca0a2e9a7d02d1322c5d5", null ]
 ];

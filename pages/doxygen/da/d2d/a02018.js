@@ -1,10 +1,10 @@
 var a02018 =
 [
-    [ "instance_naxxramas", "d0/dcf/a18914.html", "d0/dcf/a18914" ],
-    [ "instance_naxxramas::instance_naxxramas_InstanceMapScript", "dd/d6e/a18918.html", "dd/d6e/a18918" ],
-    [ "boss_naxxramas_misc", "df/de3/a18922.html", "df/de3/a18922" ],
-    [ "boss_naxxramas_misc::boss_naxxramas_miscAI", "db/dc9/a18926.html", "db/dc9/a18926" ],
-    [ "at_naxxramas_hub_portal", "d4/d54/a18930.html", "d4/d54/a18930" ],
+    [ "instance_naxxramas", "df/d6f/a18910.html", "df/d6f/a18910" ],
+    [ "instance_naxxramas::instance_naxxramas_InstanceMapScript", "d0/dcf/a18914.html", "d0/dcf/a18914" ],
+    [ "boss_naxxramas_misc", "dd/d6e/a18918.html", "dd/d6e/a18918" ],
+    [ "boss_naxxramas_misc::boss_naxxramas_miscAI", "df/de3/a18922.html", "df/de3/a18922" ],
+    [ "at_naxxramas_hub_portal", "db/dc9/a18926.html", "db/dc9/a18926" ],
     [ "AddSC_instance_naxxramas", "da/d2d/a02018.html#aba1e1afda4423e51a1849a33da49a334", null ],
     [ "GetEruptionSection", "da/d2d/a02018.html#a901343efd9af23ac79087eef84926a75", null ],
     [ "creatureData", "da/d2d/a02018.html#a412286b689bd324fedd65ddd8dde8afb", null ],

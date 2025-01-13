@@ -1,9 +1,6 @@
 var a21242 =
 [
-    [ "npc_lurgglbrAI", "d7/dbb/a21242.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "d7/dbb/a21242.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "d7/dbb/a21242.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "d7/dbb/a21242.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "IntroPhase", "d7/dbb/a21242.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "d7/dbb/a21242.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "npc_beryl_sorcererAI", "db/da9/a21246.html", "db/da9/a21246" ],
+    [ "npc_beryl_sorcerer", "d7/dbb/a21242.html#a4f74ee45ee0730fcfd044418771a9ee1", null ],
+    [ "GetAI", "d7/dbb/a21242.html#a963646eed9f121f87efe480312957286", null ]
 ];

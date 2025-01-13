@@ -1,6 +1,5 @@
 var a18438 =
 [
-    [ "PrepareSpellScript", "de/d03/a18438.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "de/d03/a18438.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "de/d03/a18438.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "at_icc_saurfang_portal", "de/d03/a18438.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "de/d03/a18438.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

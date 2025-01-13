@@ -1,6 +1,18 @@
 var a20886 =
 [
-    [ "boss_svalaAI", "d2/ddd/a20890.html", "d2/ddd/a20890" ],
-    [ "boss_svala", "dc/d82/a20886.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
-    [ "GetAI", "dc/d82/a20886.html#a0c3b94635eca667a28496cf799efad25", null ]
+    [ "boss_svalaAI", "dc/d82/a20886.html#a568466d621043157958bea38595d42a8", null ],
+    [ "EnterEvadeMode", "dc/d82/a20886.html#a7808767e79ebe4c5ac784ff7a32874f6", null ],
+    [ "JustDied", "dc/d82/a20886.html#aa85b0d305074d0df887fbb7ba42a3b20", null ],
+    [ "JustEngagedWith", "dc/d82/a20886.html#ae36faacbbd22ddde8d8f25540e583c14", null ],
+    [ "JustSummoned", "dc/d82/a20886.html#ad4bf163bf81dee06bead6f9a8aaa2a3a", null ],
+    [ "KilledUnit", "dc/d82/a20886.html#a440053a21489b6e4691fc4a6e5984908", null ],
+    [ "Reset", "dc/d82/a20886.html#a9c6fca6d70c7c53048b137b7d8cc0861", null ],
+    [ "SetData", "dc/d82/a20886.html#a86f376743055f99c066ad1a7c960b6c7", null ],
+    [ "UpdateAI", "dc/d82/a20886.html#a47b7405bd2fd6789f61172cbacd12fa0", null ],
+    [ "ArthasGUID", "dc/d82/a20886.html#a42e1753c8a66cc292799c890b9177a3e", null ],
+    [ "events", "dc/d82/a20886.html#abe87bb56b844c75dd9b24a4d45c94e7f", null ],
+    [ "events2", "dc/d82/a20886.html#a542d2bc22970ee5835b2e15322dc2e58", null ],
+    [ "instance", "dc/d82/a20886.html#a58f451d373d8336d5b8b38e33a1eeea8", null ],
+    [ "Started", "dc/d82/a20886.html#a5d4b4c94062db7601fdc918f9727e03b", null ],
+    [ "summons", "dc/d82/a20886.html#a3d14b708a8156a6c9025ff92aa3774c4", null ]
 ];

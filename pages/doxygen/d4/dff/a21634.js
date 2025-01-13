@@ -1,7 +1,6 @@
 var a21634 =
 [
-    [ "npc_tallhorn_stagAI", "d4/dff/a21634.html#a50947c450eece979193b45728e5e1f82", null ],
-    [ "Reset", "d4/dff/a21634.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
-    [ "UpdateAI", "d4/dff/a21634.html#adf60f62fa92238cb315c42e0179c3f17", null ],
-    [ "_phase", "d4/dff/a21634.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
+    [ "npc_amberpine_woodsmanAI", "d0/d79/a21638.html", "d0/d79/a21638" ],
+    [ "npc_amberpine_woodsman", "d4/dff/a21634.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
+    [ "GetAI", "d4/dff/a21634.html#a9c1df6c01c163ca68712d72b14c46139", null ]
 ];

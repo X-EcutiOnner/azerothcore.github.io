@@ -1,5 +1,6 @@
 var a17794 =
 [
-    [ "operator()", "db/da5/a17794.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
-    [ "operator()", "db/da5/a17794.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
+    [ "FilterTargets", "db/da5/a17794.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
+    [ "PrepareSpellScript", "db/da5/a17794.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
+    [ "Register", "db/da5/a17794.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
 ];

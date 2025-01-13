@@ -1,9 +1,9 @@
 var a01775 =
 [
-    [ "boss_bjarngrim", "d9/d8b/a19198.html", "d9/d8b/a19198" ],
-    [ "boss_bjarngrim::boss_bjarngrimAI", "d2/d40/a19202.html", "d2/d40/a19202" ],
-    [ "npc_stormforged_lieutenant", "df/d28/a19206.html", "df/d28/a19206" ],
-    [ "npc_stormforged_lieutenant::npc_stormforged_lieutenantAI", "de/d47/a19210.html", "de/d47/a19210" ],
+    [ "boss_bjarngrim", "d5/de6/a19194.html", "d5/de6/a19194" ],
+    [ "boss_bjarngrim::boss_bjarngrimAI", "d9/d8b/a19198.html", "d9/d8b/a19198" ],
+    [ "npc_stormforged_lieutenant", "d2/d40/a19202.html", "d2/d40/a19202" ],
+    [ "npc_stormforged_lieutenant::npc_stormforged_lieutenantAI", "df/d28/a19206.html", "df/d28/a19206" ],
     [ "BjarngrimEvents", "d1/d6b/a01775.html#aa8c3e344bed87b5cb609d644244a84dc", [
       [ "EVENT_BJARNGRIM_CHANGE_STANCE", "d1/d6b/a01775.html#aa8c3e344bed87b5cb609d644244a84dca86c4301f1389fc68ef05ba6f2fcec688", null ],
       [ "EVENT_BJARNGRIM_REFLECTION", "d1/d6b/a01775.html#aa8c3e344bed87b5cb609d644244a84dca248b5d28ba71eaca7bebb2db0e87af8b", null ],

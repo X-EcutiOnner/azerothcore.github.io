@@ -1,7 +1,5 @@
 var a17842 =
 [
-    [ "HandleTriggerMissile", "d3/d6c/a17842.html#af6370594be48d35a12009fa10a38d91d", null ],
-    [ "PrepareSpellScript", "d3/d6c/a17842.html#aeeca4381273f382c3abb68f34d229213", null ],
-    [ "Register", "d3/d6c/a17842.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
-    [ "Validate", "d3/d6c/a17842.html#abe0b9290ddf9beaa60a583840d90d914", null ]
+    [ "at_sindragosa_lair", "d3/d6c/a17842.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
+    [ "OnTrigger", "d3/d6c/a17842.html#a07074bff20272042ed05be83dd818ee9", null ]
 ];

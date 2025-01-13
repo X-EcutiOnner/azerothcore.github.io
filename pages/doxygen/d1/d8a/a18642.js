@@ -1,7 +1,6 @@
 var a18642 =
 [
-    [ "npc_ioc_gunship_captainAI", "d1/d8a/a18642.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "d1/d8a/a18642.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "d1/d8a/a18642.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "d1/d8a/a18642.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "boss_isle_of_conquestAI", "d3/ddc/a18646.html", "d3/ddc/a18646" ],
+    [ "boss_isle_of_conquest", "d1/d8a/a18642.html#ad4052d1b6865585d32016e1240449659", null ],
+    [ "GetAI", "d1/d8a/a18642.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
 ];

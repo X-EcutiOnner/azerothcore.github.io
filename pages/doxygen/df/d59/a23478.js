@@ -1,7 +1,6 @@
 var a23478 =
 [
-    [ "boss_warp_splinter", "df/d59/a23478.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "df/d59/a23478.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "df/d59/a23478.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "df/d59/a23478.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "instance_the_botanica_InstanceMapScript", "d1/d95/a23482.html", "d1/d95/a23482" ],
+    [ "instance_the_botanica", "df/d59/a23478.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "df/d59/a23478.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

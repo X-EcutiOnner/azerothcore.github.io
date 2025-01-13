@@ -1,6 +1,6 @@
 var a19634 =
 [
-    [ "npc_pool_of_tarAI", "d0/dec/a19634.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
-    [ "DamageTaken", "d0/dec/a19634.html#a4ea55aa08123f724268238e0def5b595", null ],
-    [ "SpellHit", "d0/dec/a19634.html#acb63166b396c079d5b4bb9db67a1448a", null ]
+    [ "npc_brann_radioAI", "db/d22/a19638.html", "db/d22/a19638" ],
+    [ "npc_brann_radio", "d0/dec/a19634.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
+    [ "GetAI", "d0/dec/a19634.html#aa2ea91337262fb886e7535ba013f4b10", null ]
 ];

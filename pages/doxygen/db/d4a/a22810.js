@@ -1,5 +1,6 @@
 var a22810 =
 [
-    [ "PrepareSpellScript", "db/d4a/a22810.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
-    [ "Register", "db/d4a/a22810.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
+    [ "boss_doomlordkazzakAI", "de/dad/a22814.html", "de/dad/a22814" ],
+    [ "boss_doomlord_kazzak", "db/d4a/a22810.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
+    [ "GetAI", "db/d4a/a22810.html#a460a32ce37aae852b48f1990406da9a4", null ]
 ];

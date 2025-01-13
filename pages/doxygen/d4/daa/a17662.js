@@ -1,5 +1,6 @@
 var a17662 =
 [
-    [ "RotfaceHeightCheck", "d4/daa/a17662.html#aabdeaee465989c339fc7a3f186e20498", null ],
-    [ "operator()", "d4/daa/a17662.html#a585743e0e76c64a5caa37acab46d04d5", null ]
+    [ "boss_rotfaceAI", "db/dfc/a17666.html", "db/dfc/a17666" ],
+    [ "boss_rotface", "d4/daa/a17662.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "d4/daa/a17662.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

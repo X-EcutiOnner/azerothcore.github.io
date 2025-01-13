@@ -1,5 +1,6 @@
 var a18394 =
 [
-    [ "npc_alchemist_adrianna", "d2/da3/a18394.html#a310d375bc73c51e407580b063a6543fa", null ],
-    [ "OnGossipHello", "d2/da3/a18394.html#a02ec6a66037d72e30bbe821ceee38691", null ]
+    [ "npc_arthas_teleport_visualAI", "de/d0e/a18398.html", "de/d0e/a18398" ],
+    [ "npc_arthas_teleport_visual", "d2/da3/a18394.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "d2/da3/a18394.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

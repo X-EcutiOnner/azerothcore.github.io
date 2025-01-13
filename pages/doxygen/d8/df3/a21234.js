@@ -1,5 +1,7 @@
 var a21234 =
 [
-    [ "npc_nerubar_victimAI", "d8/df3/a21234.html#a494976030dd48544742dd14fc09ffdbd", null ],
-    [ "JustDied", "d8/df3/a21234.html#abe3813465cad08800708726cb7ffa021", null ]
+    [ "npc_lurgglbrAI", "dd/d92/a21238.html", "dd/d92/a21238" ],
+    [ "npc_lurgglbr", "d8/df3/a21234.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "d8/df3/a21234.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "d8/df3/a21234.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

@@ -1,7 +1,12 @@
 var a20790 =
 [
-    [ "HandleEffectPeriodic", "dc/d32/a20790.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
-    [ "PrepareAuraScript", "dc/d32/a20790.html#a748cd347867557b5048d9ba0c112cd80", null ],
-    [ "Register", "dc/d32/a20790.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
-    [ "Validate", "dc/d32/a20790.html#afa86789ef14b1d06094705ba6cfb9205", null ]
+    [ "boss_skarvald_the_constructor", "dc/d32/a20790.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
+    [ "DoAction", "dc/d32/a20790.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
+    [ "JustDied", "dc/d32/a20790.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
+    [ "JustEngagedWith", "dc/d32/a20790.html#a529439d257abf78f76db0043549964e6", null ],
+    [ "KilledUnit", "dc/d32/a20790.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
+    [ "Reset", "dc/d32/a20790.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
+    [ "UpdateAI", "dc/d32/a20790.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
+    [ "events", "dc/d32/a20790.html#a28837280e161f6971564a4725c97a154", null ],
+    [ "pInstance", "dc/d32/a20790.html#ab5b773a9960f611a6383578a607ba258", null ]
 ];

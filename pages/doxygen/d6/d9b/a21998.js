@@ -1,6 +1,9 @@
 var a21998 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d5/def/a22002.html", "d5/def/a22002" ],
-    [ "npc_brunnhildar_prisoner", "d6/d9b/a21998.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
-    [ "GetAI", "d6/d9b/a21998.html#aa2a1787849c74a5163a39137c9d03d57", null ]
+    [ "npc_brunnhildar_prisonerAI", "d6/d9b/a21998.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "d6/d9b/a21998.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "d6/d9b/a21998.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "d6/d9b/a21998.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "d6/d9b/a21998.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "d6/d9b/a21998.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

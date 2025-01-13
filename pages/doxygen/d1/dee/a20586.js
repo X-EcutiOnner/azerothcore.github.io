@@ -1,6 +1,6 @@
 var a20586 =
 [
-    [ "boss_yoggsaron_influence_tentacleAI", "d6/d9b/a20590.html", "d6/d9b/a20590" ],
-    [ "boss_yoggsaron_influence_tentacle", "d1/dee/a20586.html#a44155d82364bdde7e00131be3b6edfb6", null ],
-    [ "GetAI", "d1/dee/a20586.html#afb691fae90c0add07cfc8c02b9d2b975", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "d1/dee/a20586.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
+    [ "DamageTaken", "d1/dee/a20586.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
+    [ "JustDied", "d1/dee/a20586.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
 ];

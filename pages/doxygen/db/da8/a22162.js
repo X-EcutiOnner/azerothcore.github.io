@@ -1,6 +1,6 @@
 var a22162 =
 [
-    [ "npc_captured_rageclawAI", "da/dde/a22166.html", "da/dde/a22166" ],
-    [ "npc_captured_rageclaw", "db/da8/a22162.html#ad49176279e9d16a6a24c0649c576c0be", null ],
-    [ "GetAI", "db/da8/a22162.html#aa39b6c518fe22d91b8673cfd576866a4", null ]
+    [ "npc_captured_rageclawAI", "db/da8/a22162.html#a5bb483a323330b0895f87c5381d73314", null ],
+    [ "Reset", "db/da8/a22162.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
+    [ "SpellHit", "db/da8/a22162.html#a2c63911d27435a2271a7c89d9d88318c", null ]
 ];

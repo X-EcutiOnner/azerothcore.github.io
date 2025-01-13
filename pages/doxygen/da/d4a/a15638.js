@@ -1,6 +1,15 @@
 var a15638 =
 [
-    [ "boss_krik_thirAI", "d2/de8/a15642.html", "d2/de8/a15642" ],
-    [ "boss_krik_thir", "da/d4a/a15638.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "da/d4a/a15638.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "boss_krik_thirAI", "da/d4a/a15638.html#a92a2b2089c890901cd438c8d8ea432c7", null ],
+    [ "GetData", "da/d4a/a15638.html#adcca5f21a596ffae3c50f102c4698c4e", null ],
+    [ "JustDied", "da/d4a/a15638.html#ab4a576f9746f7ade8f6b8f8c08795433", null ],
+    [ "JustEngagedWith", "da/d4a/a15638.html#aa99c241641fc7e94412d08bebed07475", null ],
+    [ "JustSummoned", "da/d4a/a15638.html#afff556f4bc00b87b3d2a37ffbf54c919", null ],
+    [ "KilledUnit", "da/d4a/a15638.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d", null ],
+    [ "MoveInLineOfSight", "da/d4a/a15638.html#a6c72cebac0e09f66bf0a60cdc328aa4d", null ],
+    [ "Reset", "da/d4a/a15638.html#a613441fcb7bd851a03729be84d27650c", null ],
+    [ "SummonedCreatureDies", "da/d4a/a15638.html#acb7b45fbe3a736ad65b0a2556ead40ae", null ],
+    [ "UpdateAI", "da/d4a/a15638.html#ae37227df78ad9ffb9722caa0c16ffa5f", null ],
+    [ "_initTalk", "da/d4a/a15638.html#a68a4994c750979b91e46160b0cba77b4", null ],
+    [ "events2", "da/d4a/a15638.html#a8f706239d33861105a37476eecb977ec", null ]
 ];

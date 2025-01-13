@@ -1,6 +1,11 @@
 var a18842 =
 [
-    [ "boss_patchwerkAI", "dc/dcb/a18846.html", "dc/dcb/a18846" ],
-    [ "boss_patchwerk", "dd/d87/a18842.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
-    [ "GetAI", "dd/d87/a18842.html#a03f2dec61192405760958e26d998d67e", null ]
+    [ "boss_patchwerkAI", "dd/d87/a18842.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "dd/d87/a18842.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "dd/d87/a18842.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "dd/d87/a18842.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "dd/d87/a18842.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "dd/d87/a18842.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "dd/d87/a18842.html#a00c98ee5cdb3c512ba0d92a48d441006", null ],
+    [ "pInstance", "dd/d87/a18842.html#a78a3e9a6ef289e82c3ccaedc4399607a", null ]
 ];

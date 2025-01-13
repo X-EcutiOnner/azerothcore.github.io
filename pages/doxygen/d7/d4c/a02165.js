@@ -5,6 +5,7 @@ var a02165 =
     [ "boss_zuljin", "d7/d0e/a13574.html", "d7/d0e/a13574" ],
     [ "npc_zuljin_vortex", "d2/d46/a13578.html", "d2/d46/a13578" ],
     [ "spell_claw_rage_aura", "db/d4d/a13582.html", "db/d4d/a13582" ],
+    [ "spell_zuljin_zap", "df/dbc/a13586.html", "df/dbc/a13586" ],
     [ "CreatureEntries", "d7/d4c/a02165.html#a8954ba92de87382cc5d2ff27d0ec3918", [
       [ "NPC_SPIRIT_BEAR", "d7/d4c/a02165.html#a8954ba92de87382cc5d2ff27d0ec3918a8e01247ce5b414c3d524c17f3402be51", null ],
       [ "NPC_SPIRIT_EAGLE", "d7/d4c/a02165.html#a8954ba92de87382cc5d2ff27d0ec3918aaba9b813f2d7aead25a6f8dde61b2cfc", null ],

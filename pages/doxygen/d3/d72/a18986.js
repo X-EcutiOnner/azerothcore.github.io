@@ -1,8 +1,6 @@
 var a18986 =
 [
-    [ "npc_alexstraszaAI", "d3/d72/a18986.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
-    [ "AttackStart", "d3/d72/a18986.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
-    [ "MoveInLineOfSight", "d3/d72/a18986.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
-    [ "UpdateAI", "d3/d72/a18986.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
-    [ "events", "d3/d72/a18986.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
+    [ "npc_eoe_wyrmrest_skytalonAI", "d9/d53/a18990.html", "d9/d53/a18990" ],
+    [ "npc_eoe_wyrmrest_skytalon", "d3/d72/a18986.html#a55685de624b277840f8fc0c397b8aebf", null ],
+    [ "GetAI", "d3/d72/a18986.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
 ];

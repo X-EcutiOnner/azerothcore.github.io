@@ -1,6 +1,6 @@
 var a20958 =
 [
-    [ "HandleOnHit", "df/d9a/a20958.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "df/d9a/a20958.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "df/d9a/a20958.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "boss_koralonAI", "d0/d0f/a20962.html", "d0/d0f/a20962" ],
+    [ "boss_koralon", "df/d9a/a20958.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "df/d9a/a20958.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

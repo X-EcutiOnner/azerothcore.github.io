@@ -1,9 +1,9 @@
 var a01880 =
 [
-    [ "boss_emalon", "dd/df0/a20946.html", "dd/df0/a20946" ],
-    [ "boss_emalon::boss_emalonAI", "da/d4e/a20950.html", "da/d4e/a20950" ],
-    [ "spell_voa_overcharge_aura", "d2/d93/a20954.html", "d2/d93/a20954" ],
-    [ "spell_voa_lightning_nova", "df/d9a/a20958.html", "df/d9a/a20958" ],
+    [ "boss_emalon", "d2/ddb/a20942.html", "d2/ddb/a20942" ],
+    [ "boss_emalon::boss_emalonAI", "dd/df0/a20946.html", "dd/df0/a20946" ],
+    [ "spell_voa_overcharge_aura", "da/d4e/a20950.html", "da/d4e/a20950" ],
+    [ "spell_voa_lightning_nova", "d2/d93/a20954.html", "d2/d93/a20954" ],
     [ "Events", "d9/d7d/a01880.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d5f/a02216.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d5f/a02216.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

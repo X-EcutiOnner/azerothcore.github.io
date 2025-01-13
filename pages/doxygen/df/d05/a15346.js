@@ -1,7 +1,7 @@
 var a15346 =
 [
-    [ "npc_giltharesAI", "d0/d4f/a15350.html", "d0/d4f/a15350" ],
-    [ "npc_gilthares", "df/d05/a15346.html#af1e0746350b32b68825710e1c3ed91a5", null ],
-    [ "GetAI", "df/d05/a15346.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
-    [ "OnQuestAccept", "df/d05/a15346.html#a018cc6240a79216acb371241f63e3234", null ]
+    [ "npc_giltharesAI", "df/d05/a15346.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "df/d05/a15346.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "df/d05/a15346.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "df/d05/a15346.html#a9308c73760e50e0f3d04031b508526d1", null ]
 ];

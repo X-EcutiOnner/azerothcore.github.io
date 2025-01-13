@@ -1,6 +1,5 @@
 var a19522 =
 [
-    [ "achievement_assembly_of_iron", "d4/d74/a19522.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "d4/d74/a19522.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "d4/d74/a19522.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "achievement_cant_do_that_while_stunned", "d4/d74/a19522.html#a4d474b36f61631688ea723d2e4033574", null ],
+    [ "OnCheck", "d4/d74/a19522.html#a0b108bdcab0bc412975e61247f226bf8", null ]
 ];

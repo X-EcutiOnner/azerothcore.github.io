@@ -1,14 +1,7 @@
 var a16554 =
 [
-    [ "boss_marwynAI", "de/dec/a16554.html#abfc074b89e4edcf461c4df4d00c90856", null ],
-    [ "DoAction", "de/dec/a16554.html#adc68f202aa2e78bd3a7969bfddcce710", null ],
-    [ "EnterEvadeMode", "de/dec/a16554.html#acb0b5675c2ff9f614ddafd88ff96e62e", null ],
-    [ "JustDied", "de/dec/a16554.html#a11f64dbf0333c212584d441d4b719d9c", null ],
-    [ "JustEngagedWith", "de/dec/a16554.html#ae7509cf8b3b93e97b2e617c1ac181c87", null ],
-    [ "KilledUnit", "de/dec/a16554.html#a43b40959a22a1767c1c717f5bf7200ad", null ],
-    [ "Reset", "de/dec/a16554.html#a7433e7ed2007ccde768e1e15640ac99d", null ],
-    [ "UpdateAI", "de/dec/a16554.html#abaa8f609099423c9d8db5b93f2dd411e", null ],
-    [ "events", "de/dec/a16554.html#a87c1f1785612cfd42667bd635ce16f2a", null ],
-    [ "pInstance", "de/dec/a16554.html#a524e6c4145851d67edfdc0d9cb5b2e7c", null ],
-    [ "startFightTimer", "de/dec/a16554.html#a2a1d7531025f136e368fc7d2b4c0d163", null ]
+    [ "OnRemove", "de/dec/a16554.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "de/dec/a16554.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "de/dec/a16554.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "de/dec/a16554.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

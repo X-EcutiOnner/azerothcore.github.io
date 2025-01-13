@@ -1,5 +1,6 @@
 var a18910 =
 [
-    [ "at_thaddius_entrance", "df/d6f/a18910.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "OnTrigger", "df/d6f/a18910.html#af8635a58d4da0421b72b4451c1ebafc5", null ]
+    [ "instance_naxxramas_InstanceMapScript", "d0/dcf/a18914.html", "d0/dcf/a18914" ],
+    [ "instance_naxxramas", "df/d6f/a18910.html#a9d4b57f9f0f7a44565bb8d9bd3aa24a1", null ],
+    [ "GetInstanceScript", "df/d6f/a18910.html#ac5dd8d591af2239faab17727eb1ef66e", null ]
 ];

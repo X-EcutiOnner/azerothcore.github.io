@@ -1,7 +1,7 @@
 var a21622 =
 [
-    [ "HandleScriptEffect", "d4/d36/a21622.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "d4/d36/a21622.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "d4/d36/a21622.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "d4/d36/a21622.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "HandleScriptEffect", "d4/d36/a21622.html#a2d39a073c351860db735301b4cf9c79f", null ],
+    [ "PrepareSpellScript", "d4/d36/a21622.html#a3674adaef23f1531af360a65c14efadd", null ],
+    [ "Register", "d4/d36/a21622.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
+    [ "Validate", "d4/d36/a21622.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
 ];

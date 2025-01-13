@@ -1,6 +1,7 @@
 var a22190 =
 [
-    [ "npc_storm_cloudAI", "da/dbe/a22194.html", "da/dbe/a22194" ],
-    [ "npc_storm_cloud", "de/d50/a22190.html#a8403185cdf54b2924024ba1d1d44a06a", null ],
-    [ "GetAI", "de/d50/a22190.html#a952bd1cf5406b989182d8560d8b9e665", null ]
+    [ "npc_storm_cloudAI", "de/d50/a22190.html#aa4dd9409cd74f3c2c878974715e43394", null ],
+    [ "JustRespawned", "de/d50/a22190.html#ad0f99362f7ab506b322b6d75890881c1", null ],
+    [ "Reset", "de/d50/a22190.html#a99654ac86502e3ac2f899082269ccb01", null ],
+    [ "SpellHit", "de/d50/a22190.html#ac51313cec4d76216f3c716d988fc4857", null ]
 ];

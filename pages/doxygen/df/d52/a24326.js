@@ -1,8 +1,7 @@
 var a24326 =
 [
-    [ "HandleDamage", "df/d52/a24326.html#a2c5149eb0b6698240c25b63e71af0854", null ],
-    [ "PrepareSpellScript", "df/d52/a24326.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
-    [ "Register", "df/d52/a24326.html#ad29179d9159700b52b0c21a779cd060b", null ],
-    [ "Suicide", "df/d52/a24326.html#a981f8547eae9b317111bf9a7016510ab", null ],
-    [ "Validate", "df/d52/a24326.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
+    [ "CalcDamage", "df/d52/a24326.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
+    [ "PrepareSpellScript", "df/d52/a24326.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
+    [ "Register", "df/d52/a24326.html#a857a010e6426e931ca872f66803b99b9", null ],
+    [ "Validate", "df/d52/a24326.html#ab64625ce305efb9dc92780c945b4fd62", null ]
 ];

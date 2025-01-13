@@ -1,6 +1,7 @@
 var a15966 =
 [
-    [ "FilterTargets", "da/d74/a15966.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "da/d74/a15966.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "da/d74/a15966.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "HandleAfterEffectAbsorb", "da/d74/a15966.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "da/d74/a15966.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "da/d74/a15966.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "da/d74/a15966.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

@@ -1,5 +1,6 @@
 var a16378 =
 [
-    [ "achievement_better_off_dred", "d6/d9f/a16378.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
-    [ "OnCheck", "d6/d9f/a16378.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
+    [ "boss_novosAI", "de/d0c/a16382.html", "de/d0c/a16382" ],
+    [ "boss_novos", "d6/d9f/a16378.html#a898a5ee1de69df17fde66c84dd065ac1", null ],
+    [ "GetAI", "d6/d9f/a16378.html#aaf28e2a23a8139197dccc92ae29a8be4", null ]
 ];

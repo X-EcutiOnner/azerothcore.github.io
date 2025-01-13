@@ -1,8 +1,6 @@
 var a24058 =
 [
-    [ "go_skull_pile", "d4/d49/a24058.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "d4/d49/a24058.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "d4/d49/a24058.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "d4/d49/a24058.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "d4/d49/a24058.html#af74fcd75404c0886128401d661067394", null ]
+    [ "npc_slim", "d4/d49/a24058.html#aa227fbe22126bed821939873973e6a20", null ],
+    [ "OnGossipHello", "d4/d49/a24058.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
+    [ "OnGossipSelect", "d4/d49/a24058.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
 ];

@@ -1,6 +1,6 @@
 var a18354 =
 [
-    [ "npc_captain_brandonAI", "d4/d91/a18358.html", "d4/d91/a18358" ],
-    [ "npc_captain_brandon", "d7/d4b/a18354.html#ad522dd280882d894b5d32e7c888f2360", null ],
-    [ "GetAI", "d7/d4b/a18354.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
+    [ "npc_captain_brandonAI", "d7/d4b/a18354.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "d7/d4b/a18354.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "d7/d4b/a18354.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

@@ -1,6 +1,6 @@
 var a18370 =
 [
-    [ "npc_captain_rupertAI", "d5/d81/a18374.html", "d5/d81/a18374" ],
-    [ "npc_captain_rupert", "de/d81/a18370.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
-    [ "GetAI", "de/d81/a18370.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
+    [ "npc_captain_rupertAI", "de/d81/a18370.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "de/d81/a18370.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "de/d81/a18370.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

@@ -1,9 +1,8 @@
 var a17106 =
 [
-    [ "FilterTargets", "d4/d05/a17106.html#a7b490400378893a19cdaf52af25f3a51", null ],
-    [ "HandleScript", "d4/d05/a17106.html#acee46fb0af45364478a92db59fcc3f24", null ],
-    [ "Load", "d4/d05/a17106.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
-    [ "PrepareSpellScript", "d4/d05/a17106.html#abb8fac43566f92b19e644edc38ab5d73", null ],
-    [ "Register", "d4/d05/a17106.html#a1add221102b7067ffc130969f5172eae", null ],
-    [ "Validate", "d4/d05/a17106.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
+    [ "OnApply", "d4/d05/a17106.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "d4/d05/a17106.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "d4/d05/a17106.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "d4/d05/a17106.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "d4/d05/a17106.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

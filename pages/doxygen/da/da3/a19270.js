@@ -1,26 +1,6 @@
 var a19270 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "da/da3/a19270.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
-    [ "CheckAchievementCriteriaMeet", "da/da3/a19270.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
-    [ "GetData", "da/da3/a19270.html#ac5ffe94c706af44c1989359d398c9a74", null ],
-    [ "GetGuidData", "da/da3/a19270.html#a71da39aef6924f1d25743acb396fe38d", null ],
-    [ "Initialize", "da/da3/a19270.html#a11aa5cfa5c6e5a3d76f00ef2b29562f3", null ],
-    [ "IsEncounterInProgress", "da/da3/a19270.html#ae110bf89612d9e2c6a3cf2b207d4ce6d", null ],
-    [ "OnCreatureCreate", "da/da3/a19270.html#a870fe2a7a47c53e4846794577397b722", null ],
-    [ "OnGameObjectCreate", "da/da3/a19270.html#a51f358749e3056e4a25eced558ac814a", null ],
-    [ "ReadSaveDataMore", "da/da3/a19270.html#aaa57bfd43cd20fafbd66f6cabbb2128c", null ],
-    [ "SetData", "da/da3/a19270.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
-    [ "WriteSaveDataMore", "da/da3/a19270.html#a98e2944f3199f4820cd52231880aba3b", null ],
-    [ "bjarngrimAchievement", "da/da3/a19270.html#a20572cd7722a65253bfd8a294476ab6f", null ],
-    [ "m_auiEncounter", "da/da3/a19270.html#a1c14cdda037a2ff43b246542c5aba621", null ],
-    [ "m_uiBjarngrimDoorGUID", "da/da3/a19270.html#ae6f84f7a7ae0af6349f1879b2178f36e", null ],
-    [ "m_uiGeneralBjarngrimGUID", "da/da3/a19270.html#a7bad151c19b5d728d7f81562577509cd", null ],
-    [ "m_uiIonarDoorGUID", "da/da3/a19270.html#a1e9fb8dd805dfdf8efd9ccca1948bc49", null ],
-    [ "m_uiIonarGUID", "da/da3/a19270.html#a249d161cbf3b8caa1a3c6c25f95a883c", null ],
-    [ "m_uiLokenDoorGUID", "da/da3/a19270.html#abe74e5b5247f779d75fb8f6542393b19", null ],
-    [ "m_uiLokenGlobeGUID", "da/da3/a19270.html#a6e741bd531a91760605f407c1529973a", null ],
-    [ "m_uiLokenGUID", "da/da3/a19270.html#a70ce7a51edff97f5095f79e5ff2b6b6a", null ],
-    [ "m_uiVolkhanDoorGUID", "da/da3/a19270.html#ade089fe04440ea936550130f7e98ba29", null ],
-    [ "m_uiVolkhanGUID", "da/da3/a19270.html#a0c0e420ed790c9f845aae42ea9b738f5", null ],
-    [ "volkhanAchievement", "da/da3/a19270.html#abf142b92d4db3fefd0088f7473d2c3c7", null ]
+    [ "boss_krystallusAI", "da/db4/a19274.html", "da/db4/a19274" ],
+    [ "boss_krystallus", "da/da3/a19270.html#a1d7453c9d67594bfdbd650fea897666a", null ],
+    [ "GetAI", "da/da3/a19270.html#aba14bcfa00a5d997959abd94af647bf4", null ]
 ];

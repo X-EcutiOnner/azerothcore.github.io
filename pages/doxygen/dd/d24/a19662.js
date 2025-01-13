@@ -1,6 +1,8 @@
 var a19662 =
 [
-    [ "npc_mechanoliftAI", "d3/dd8/a19666.html", "d3/dd8/a19666" ],
-    [ "npc_mechanolift", "dd/d24/a19662.html#a7b753a3426213706c899745a6d0d989b", null ],
-    [ "GetAI", "dd/d24/a19662.html#a823a929bf65f32cdbe9b56df5d33c66d", null ]
+    [ "npc_mechanoliftAI", "dd/d24/a19662.html#ad772427e03c2bd2c3a51556b6e5968b5", null ],
+    [ "Reset", "dd/d24/a19662.html#a8198e7db2c6f4f2ceec984cfd53982b1", null ],
+    [ "UpdateAI", "dd/d24/a19662.html#a3f8634abde6b3aa00acf03c77df433be", null ],
+    [ "_evadeTimer", "dd/d24/a19662.html#a53da6899ad0dcea569ca29f57e45bf61", null ],
+    [ "_startTimer", "dd/d24/a19662.html#a9b1587bbadd8f0044e1d404d55b8ba1f", null ]
 ];

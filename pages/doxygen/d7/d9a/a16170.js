@@ -1,6 +1,7 @@
 var a16170 =
 [
-    [ "npc_toc_warriorAI", "d8/deb/a16174.html", "d8/deb/a16174" ],
-    [ "npc_toc_warrior", "d7/d9a/a16170.html#a3e969be07603ef59389106769010660c", null ],
-    [ "GetAI", "d7/d9a/a16170.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
+    [ "npc_toc_warriorAI", "d7/d9a/a16170.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
+    [ "myCanCast", "d7/d9a/a16170.html#ac815e13cbbe9a8833330e15213420c65", null ],
+    [ "UpdateAI", "d7/d9a/a16170.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
+    [ "events", "d7/d9a/a16170.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
 ];

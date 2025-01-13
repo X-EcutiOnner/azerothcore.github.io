@@ -1,7 +1,7 @@
 var a14702 =
 [
-    [ "boss_kurinnaxx", "df/d35/a14702.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
-    [ "InitializeAI", "df/d35/a14702.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
-    [ "JustDied", "df/d35/a14702.html#adb749c8737888a099ad7a3d58292a612", null ],
-    [ "JustEngagedWith", "df/d35/a14702.html#a451cd7ee80b0428a199c33012562bdb3", null ]
+    [ "go_sand_trap", "df/d35/a14702.html#a58d45acac672cb05988ddca78185b469", null ],
+    [ "Reset", "df/d35/a14702.html#a7071a3e420e9137ca133b471bc217bf3", null ],
+    [ "UpdateAI", "df/d35/a14702.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
+    [ "_scheduler", "df/d35/a14702.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
 ];

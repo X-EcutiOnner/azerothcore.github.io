@@ -1,7 +1,6 @@
 var a16462 =
 [
-    [ "HandleScriptEffect", "d6/d10/a16462.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "d6/d10/a16462.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "d6/d10/a16462.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "d6/d10/a16462.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "boss_bronjahmAI", "da/dd1/a16466.html", "da/dd1/a16466" ],
+    [ "boss_bronjahm", "d6/d10/a16462.html#a699e1be5273979c76cd5d06b60f0ee05", null ],
+    [ "GetAI", "d6/d10/a16462.html#a04676028f1f324b6eecea625122794ed", null ]
 ];

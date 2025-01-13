@@ -1,7 +1,6 @@
 var a19510 =
 [
-    [ "OnRemove", "df/d00/a19510.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "df/d00/a19510.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "df/d00/a19510.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "df/d00/a19510.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "HandleInstaKill", "df/d00/a19510.html#a9371a2cc86616fd04e47939d45f01cae", null ],
+    [ "PrepareSpellScript", "df/d00/a19510.html#a38eed301f1db3ea7ac15b626e5927500", null ],
+    [ "Register", "df/d00/a19510.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
 ];

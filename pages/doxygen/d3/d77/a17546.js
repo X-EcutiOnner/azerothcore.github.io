@@ -1,6 +1,6 @@
 var a17546 =
 [
-    [ "UnboundPlagueTargetSelector", "d3/d77/a17546.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "d3/d77/a17546.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "d3/d77/a17546.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "MalleableGooSelector", "d3/d77/a17546.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
+    [ "operator()", "d3/d77/a17546.html#adf73957539fdcc604f849944473e0015", null ],
+    [ "me", "d3/d77/a17546.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
 ];

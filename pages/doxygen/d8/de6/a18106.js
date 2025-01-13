@@ -1,7 +1,6 @@
 var a18106 =
 [
-    [ "OnPeriodic", "d8/de6/a18106.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
-    [ "PrepareAuraScript", "d8/de6/a18106.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
-    [ "Register", "d8/de6/a18106.html#a0fc7ca43a0d82058fc04277742231388", null ],
-    [ "Validate", "d8/de6/a18106.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
+    [ "npc_icc_lk_checktargetAI", "d7/dae/a18110.html", "d7/dae/a18110" ],
+    [ "npc_icc_lk_checktarget", "d8/de6/a18106.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "d8/de6/a18106.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

@@ -1,6 +1,6 @@
 var a15606 =
 [
-    [ "PrepareSpellScript", "db/d11/a15606.html#a2a3602af522bb8658c1bfdede1234efd", null ],
-    [ "Register", "db/d11/a15606.html#aba235111ea4e186064a85295466f2a3f", null ],
-    [ "SetDest", "db/d11/a15606.html#a89827e4db37bea4847c79265d95386c6", null ]
+    [ "boss_hadronoxAI", "dc/d91/a15610.html", "dc/d91/a15610" ],
+    [ "boss_hadronox", "db/d11/a15606.html#ae3457fd6108cc350cf9eedab3178f781", null ],
+    [ "GetAI", "db/d11/a15606.html#a90bf0ecb218e30e61852baffeabc3dc1", null ]
 ];

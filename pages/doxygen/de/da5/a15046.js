@@ -1,5 +1,6 @@
 var a15046 =
 [
-    [ "go_ravager_cage", "de/da5/a15046.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
-    [ "OnGossipHello", "de/da5/a15046.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
+    [ "npc_death_ravagerAI", "d2/d7f/a15050.html", "d2/d7f/a15050" ],
+    [ "npc_death_ravager", "de/da5/a15046.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "de/da5/a15046.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

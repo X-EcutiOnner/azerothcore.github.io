@@ -1,5 +1,6 @@
 var a13766 =
 [
-    [ "npc_brain_wash_totem", "d4/d5b/a13766.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
-    [ "EnterEvadeMode", "d4/d5b/a13766.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
+    [ "boss_mandokirAI", "d6/d8f/a13770.html", "d6/d8f/a13770" ],
+    [ "boss_mandokir", "d4/d5b/a13766.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "d4/d5b/a13766.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

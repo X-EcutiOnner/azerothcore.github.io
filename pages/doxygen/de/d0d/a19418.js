@@ -1,6 +1,8 @@
 var a19418 =
 [
-    [ "npc_algalon_worm_holeAI", "d8/deb/a19422.html", "d8/deb/a19422" ],
-    [ "npc_algalon_worm_hole", "de/d0d/a19418.html#a72516a4824fa61a331caff46d2784c64", null ],
-    [ "GetAI", "de/d0d/a19418.html#aac6ff3a41f08f5a11baa78c0526a3556", null ]
+    [ "npc_algalon_worm_holeAI", "de/d0d/a19418.html#a07b36b40972bebea6b17890aa8fee50c", null ],
+    [ "JustSummoned", "de/d0d/a19418.html#a148de5da4502813e369ec6c52b1671a0", null ],
+    [ "Reset", "de/d0d/a19418.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
+    [ "UpdateAI", "de/d0d/a19418.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
+    [ "_summonTimer", "de/d0d/a19418.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
 ];

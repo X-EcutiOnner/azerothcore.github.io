@@ -1,7 +1,6 @@
 var a21674 =
 [
-    [ "HandleAfterEffectApply", "d5/d78/a21674.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "d5/d78/a21674.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "d5/d78/a21674.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "d5/d78/a21674.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "npc_rocket_propelled_warheadAI", "d7/dd5/a21678.html", "d7/dd5/a21678" ],
+    [ "npc_rocket_propelled_warhead", "d5/d78/a21674.html#a5c945efc6e3ca847363ac47abc5f51ca", null ],
+    [ "GetAI", "d5/d78/a21674.html#a803702c480107d197845a0ef447a5380", null ]
 ];

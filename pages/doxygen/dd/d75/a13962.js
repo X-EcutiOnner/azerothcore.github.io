@@ -1,6 +1,7 @@
 var a13962 =
 [
-    [ "go_direbrew_mole_machineAI", "d3/dd5/a13966.html", "d3/dd5/a13966" ],
-    [ "go_direbrew_mole_machine", "dd/d75/a13962.html#a759d291a5be227d8beae3bbc779e56f4", null ],
-    [ "GetAI", "dd/d75/a13962.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
+    [ "go_direbrew_mole_machineAI", "dd/d75/a13962.html#a4e667ad9e572e93c045ae01f63bea648", null ],
+    [ "Reset", "dd/d75/a13962.html#a32dd801b5d898fd8634edcb6cae52bdf", null ],
+    [ "UpdateAI", "dd/d75/a13962.html#a2eaa8a0ad0907e4aa497a7e1c3a31b29", null ],
+    [ "_scheduler", "dd/d75/a13962.html#a5960ff83f21cf5964f422e3a7b297f22", null ]
 ];

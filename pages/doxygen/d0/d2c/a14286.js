@@ -1,6 +1,6 @@
 var a14286 =
 [
-    [ "HandleScriptEffect", "d0/d2c/a14286.html#a2acaaf3716237f147429cb07779ae49e", null ],
-    [ "PrepareSpellScript", "d0/d2c/a14286.html#a55df717ede47b17a32ae33ecd64617cd", null ],
-    [ "Register", "d0/d2c/a14286.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "d0/dcf/a14290.html", "d0/dcf/a14290" ],
+    [ "instance_blackfathom_deeps", "d0/d2c/a14286.html#a4600a7e6191582c1bee684989a970e0f", null ],
+    [ "GetInstanceScript", "d0/d2c/a14286.html#a62cdab4f3118ab030b4ef55243690f73", null ]
 ];

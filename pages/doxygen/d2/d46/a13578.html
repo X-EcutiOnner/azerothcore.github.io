@@ -128,8 +128,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af3af996adc0a0dba4af992234f8356fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1331e714c5cafdc32033e73b6f3169aa"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d46/a13578.html#a1331e714c5cafdc32033e73b6f3169aa">Reset</a> () override</td></tr>
 <tr class="separator:a1331e714c5cafdc32033e73b6f3169aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a76c945f0fe225befaaa6630efe4def2b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d46/a13578.html#a76c945f0fe225befaaa6630efe4def2b">SpellHit</a> (<a class="el" href="../../d4/d46/a08598.html">Unit</a> *caster, <a class="el" href="../../d5/d44/a10966.html">SpellInfo</a> const *spell) override</td></tr>
-<tr class="separator:a76c945f0fe225befaaa6630efe4def2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab353794ef978151999fdd2294783e757"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d46/a13578.html#ab353794ef978151999fdd2294783e757">ChangeToNewPlayer</a> ()</td></tr>
 <tr class="separator:ab353794ef978151999fdd2294783e757"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1ae6a08fe247e7bc812ed4f5ffebc519"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d46/a13578.html#a1ae6a08fe247e7bc812ed4f5ffebc519">UpdateAI</a> (<a class="el" href="../../d4/d1e/a00497.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) override</td></tr>
@@ -607,22 +605,25 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  395</span>    {</div>
-<div class="line"><span class="lineno">  396</span>        <a class="code hl_function" href="../../de/d8c/a06114.html#a0e0f63f6d980fe86a9f69f06428078a2">DoResetThreatList</a>();</div>
-<div class="line"><span class="lineno">  397</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/d46/a08598.html">Unit</a>* target = <a class="code hl_function" href="../../d4/db5/a06058.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(SelectTargetMethod::Random, 0, 0.0f, <span class="keyword">true</span>))</div>
-<div class="line"><span class="lineno">  398</span>        {</div>
-<div class="line"><span class="lineno">  399</span>            <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a3b4dad985e3b5dde28d89afc956999e4">AddThreat</a>(target, 10000000.0f);</div>
-<div class="line"><span class="lineno">  400</span>        }</div>
-<div class="line"><span class="lineno">  401</span>    }</div>
-<div class="ttc" id="aa06058_html_ac5b181f1036962caaf140369b22e807b"><div class="ttname"><a href="../../d4/db5/a06058.html#ac5b181f1036962caaf140369b22e807b">UnitAI::SelectTarget</a></div><div class="ttdeci">Unit * SelectTarget(SelectTargetMethod targetType, uint32 position=0, float dist=0.0f, bool playerOnly=false, bool withTank=true, int32 aura=0)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:110</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  389</span>    {</div>
+<div class="line"><span class="lineno">  390</span>        <a class="code hl_function" href="../../de/d8c/a06114.html#a0e0f63f6d980fe86a9f69f06428078a2">DoResetThreatList</a>();</div>
+<div class="line"><span class="lineno">  391</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d0d/a08250.html">WorldObject</a>* summoner = <a class="code hl_function" href="../../db/dd3/a06070.html#a64328d924deddb3b54b185448bd9793b">GetSummoner</a>())</div>
+<div class="line"><span class="lineno">  392</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d8/d56/a07846.html">Creature</a>* zuljin = summoner-&gt;<a class="code hl_function" href="../../de/d68/a08218.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>())</div>
+<div class="line"><span class="lineno">  393</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/d46/a08598.html">Unit</a>* target = zuljin-&gt;AI()-&gt;SelectTarget(SelectTargetMethod::Random, 0, 80.0f, <span class="keyword">true</span>))</div>
+<div class="line"><span class="lineno">  394</span>                    <a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a3b4dad985e3b5dde28d89afc956999e4">AddThreat</a>(target, 10000000.0f);</div>
+<div class="line"><span class="lineno">  395</span>    }</div>
+<div class="ttc" id="aa06070_html_a64328d924deddb3b54b185448bd9793b"><div class="ttname"><a href="../../db/dd3/a06070.html#a64328d924deddb3b54b185448bd9793b">CreatureAI::GetSummoner</a></div><div class="ttdeci">WorldObject * GetSummoner() const</div><div class="ttdoc">Returns the summoner creature/object, if the creature is a temporary summon.</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:68</div></div>
 <div class="ttc" id="aa06114_html_a0e0f63f6d980fe86a9f69f06428078a2"><div class="ttname"><a href="../../de/d8c/a06114.html#a0e0f63f6d980fe86a9f69f06428078a2">ScriptedAI::DoResetThreatList</a></div><div class="ttdeci">void DoResetThreatList()</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:445</div></div>
 <div class="ttc" id="aa06114_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:280</div></div>
+<div class="ttc" id="aa07846_html"><div class="ttname"><a href="../../d8/d56/a07846.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:43</div></div>
+<div class="ttc" id="aa08218_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../de/d68/a08218.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:205</div></div>
+<div class="ttc" id="aa08250_html"><div class="ttname"><a href="../../de/d0d/a08250.html">WorldObject</a></div><div class="ttdef"><b>Definition:</b> Object.h:410</div></div>
 <div class="ttc" id="aa08598_html"><div class="ttname"><a href="../../d4/d46/a08598.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:636</div></div>
-<div class="ttc" id="aa08598_html_a3b4dad985e3b5dde28d89afc956999e4"><div class="ttname"><a href="../../d4/d46/a08598.html#a3b4dad985e3b5dde28d89afc956999e4">Unit::AddThreat</a></div><div class="ttdeci">void AddThreat(Unit *victim, float fThreat, SpellSchoolMask schoolMask=SPELL_SCHOOL_MASK_NORMAL, SpellInfo const *threatSpell=nullptr)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:14676</div></div>
+<div class="ttc" id="aa08598_html_a3b4dad985e3b5dde28d89afc956999e4"><div class="ttname"><a href="../../d4/d46/a08598.html#a3b4dad985e3b5dde28d89afc956999e4">Unit::AddThreat</a></div><div class="ttdeci">void AddThreat(Unit *victim, float fThreat, SpellSchoolMask schoolMask=SPELL_SCHOOL_MASK_NORMAL, SpellInfo const *threatSpell=nullptr)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:14674</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l14676">Unit::AddThreat()</a>, <a class="el" href="../../#l00445">ScriptedAI::DoResetThreatList()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00110">UnitAI::SelectTarget()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l14674">Unit::AddThreat()</a>, <a class="el" href="../../#l00445">ScriptedAI::DoResetThreatList()</a>, <a class="el" href="../../#l00068">CreatureAI::GetSummoner()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00205">Object::ToCreature()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00373">Reset()</a>, and <a class="el" href="../../#l00403">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00373">Reset()</a>, and <a class="el" href="../../#l00397">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -668,64 +669,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa03521_html_af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de"><div class="ttname"><a href="../../d8/dbe/a03521.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de">MOVE_RUN</a></div><div class="ttdeci">@ MOVE_RUN</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:350</div></div>
 <div class="ttc" id="aa03521_html_affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f"><div class="ttname"><a href="../../d8/dbe/a03521.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a></div><div class="ttdeci">@ UNIT_FLAG_NOT_SELECTABLE</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:275</div></div>
 <div class="ttc" id="aa06058_html_a6ae5c7d15b747433f4d94f80bcebd215"><div class="ttname"><a href="../../d4/db5/a06058.html#a6ae5c7d15b747433f4d94f80bcebd215">UnitAI::DoCastSelf</a></div><div class="ttdeci">SpellCastResult DoCastSelf(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition:</b> UnitAI.h:392</div></div>
-<div class="ttc" id="aa06070_html_a64328d924deddb3b54b185448bd9793b"><div class="ttname"><a href="../../db/dd3/a06070.html#a64328d924deddb3b54b185448bd9793b">CreatureAI::GetSummoner</a></div><div class="ttdeci">WorldObject * GetSummoner() const</div><div class="ttdoc">Returns the summoner creature/object, if the creature is a temporary summon.</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:68</div></div>
 <div class="ttc" id="aa06070_html_afdeeccb48c5f74120d0fffe2a631a88a"><div class="ttname"><a href="../../db/dd3/a06070.html#afdeeccb48c5f74120d0fffe2a631a88a">CreatureAI::DoZoneInCombat</a></div><div class="ttdeci">void DoZoneInCombat(Creature *creature=nullptr, float maxRangeToNearestTarget=250.0f)</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:106</div></div>
-<div class="ttc" id="aa07846_html"><div class="ttname"><a href="../../d8/d56/a07846.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:43</div></div>
-<div class="ttc" id="aa08218_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../de/d68/a08218.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:205</div></div>
-<div class="ttc" id="aa08250_html"><div class="ttname"><a href="../../de/d0d/a08250.html">WorldObject</a></div><div class="ttdef"><b>Definition:</b> Object.h:410</div></div>
-<div class="ttc" id="aa08598_html_a815ff6e664524d768b65cc0428ad4d1f"><div class="ttname"><a href="../../d4/d46/a08598.html#a815ff6e664524d768b65cc0428ad4d1f">Unit::SetLevel</a></div><div class="ttdeci">void SetLevel(uint8 lvl, bool showLevelChange=true)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:15483</div></div>
-<div class="ttc" id="aa08598_html_ab30ea03b94379b25f1d75ea879b4a61c"><div class="ttname"><a href="../../d4/d46/a08598.html#ab30ea03b94379b25f1d75ea879b4a61c">Unit::SetSpeed</a></div><div class="ttdeci">void SetSpeed(UnitMoveType mtype, float rate, bool forced=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:14452</div></div>
+<div class="ttc" id="aa08598_html_a815ff6e664524d768b65cc0428ad4d1f"><div class="ttname"><a href="../../d4/d46/a08598.html#a815ff6e664524d768b65cc0428ad4d1f">Unit::SetLevel</a></div><div class="ttdeci">void SetLevel(uint8 lvl, bool showLevelChange=true)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:15481</div></div>
+<div class="ttc" id="aa08598_html_ab30ea03b94379b25f1d75ea879b4a61c"><div class="ttname"><a href="../../d4/d46/a08598.html#ab30ea03b94379b25f1d75ea879b4a61c">Unit::SetSpeed</a></div><div class="ttdeci">void SetSpeed(UnitMoveType mtype, float rate, bool forced=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:14450</div></div>
 <div class="ttc" id="aa08598_html_ad9f2d48b20f62e17abf5c1892cebe296"><div class="ttname"><a href="../../d4/d46/a08598.html#ad9f2d48b20f62e17abf5c1892cebe296">Unit::SetUnitFlag</a></div><div class="ttdeci">void SetUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition:</b> Unit.h:719</div></div>
-<div class="ttc" id="aa13578_html_ab353794ef978151999fdd2294783e757"><div class="ttname"><a href="../../d2/d46/a13578.html#ab353794ef978151999fdd2294783e757">npc_zuljin_vortex::ChangeToNewPlayer</a></div><div class="ttdeci">void ChangeToNewPlayer()</div><div class="ttdef"><b>Definition:</b> boss_zuljin.cpp:394</div></div>
+<div class="ttc" id="aa13578_html_ab353794ef978151999fdd2294783e757"><div class="ttname"><a href="../../d2/d46/a13578.html#ab353794ef978151999fdd2294783e757">npc_zuljin_vortex::ChangeToNewPlayer</a></div><div class="ttdeci">void ChangeToNewPlayer()</div><div class="ttdef"><b>Definition:</b> boss_zuljin.cpp:388</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00394">ChangeToNewPlayer()</a>, <a class="el" href="../../#l00392">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00106">CreatureAI::DoZoneInCombat()</a>, <a class="el" href="../../#l00068">CreatureAI::GetSummoner()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00350">MOVE_RUN</a>, <a class="el" href="../../#l15483">Unit::SetLevel()</a>, <a class="el" href="../../#l14452">Unit::SetSpeed()</a>, <a class="el" href="../../#l00719">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l00056">SPELL_CYCLONE_PASSIVE</a>, <a class="el" href="../../#l00055">SPELL_CYCLONE_VISUAL</a>, <a class="el" href="../../#l00205">Object::ToCreature()</a>, and <a class="el" href="../../#l00275">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
-
-</div>
-</div>
-<a id="a76c945f0fe225befaaa6630efe4def2b" name="a76c945f0fe225befaaa6630efe4def2b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a76c945f0fe225befaaa6630efe4def2b">&#9670;&#160;</a></span>SpellHit()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void npc_zuljin_vortex::SpellHit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d46/a08598.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>caster</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d44/a10966.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname"><em>spell</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented from <a class="el" href="../../de/d8c/a06114.html#a7c4ff5a7547e75576c127ba4a514e548">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  389</span>    {</div>
-<div class="line"><span class="lineno">  390</span>        <span class="keywordflow">if</span> (spell-&gt;Id == <a class="code hl_enumvalue" href="../../d7/d4c/a02165.html#a5bd342133be8c2137b831460acc9298ca434e6bd3510e2b72c6d9d68d97cb1550">SPELL_ZAP_INFORM</a>)</div>
-<div class="line"><span class="lineno">  391</span>            <a class="code hl_function" href="../../d4/db5/a06058.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(caster, <a class="code hl_enumvalue" href="../../d7/d4c/a02165.html#a5bd342133be8c2137b831460acc9298caf07305942506c5af1e21a15775d108a5">SPELL_ZAP_DAMAGE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  392</span>    }</div>
-<div class="ttc" id="aa02165_html_a5bd342133be8c2137b831460acc9298ca434e6bd3510e2b72c6d9d68d97cb1550"><div class="ttname"><a href="../../d7/d4c/a02165.html#a5bd342133be8c2137b831460acc9298ca434e6bd3510e2b72c6d9d68d97cb1550">SPELL_ZAP_INFORM</a></div><div class="ttdeci">@ SPELL_ZAP_INFORM</div><div class="ttdef"><b>Definition:</b> boss_zuljin.cpp:51</div></div>
-<div class="ttc" id="aa02165_html_a5bd342133be8c2137b831460acc9298caf07305942506c5af1e21a15775d108a5"><div class="ttname"><a href="../../d7/d4c/a02165.html#a5bd342133be8c2137b831460acc9298caf07305942506c5af1e21a15775d108a5">SPELL_ZAP_DAMAGE</a></div><div class="ttdeci">@ SPELL_ZAP_DAMAGE</div><div class="ttdef"><b>Definition:</b> boss_zuljin.cpp:52</div></div>
-<div class="ttc" id="aa06058_html_aeebcad9b6effa45145c50f06af60b23d"><div class="ttname"><a href="../../d4/db5/a06058.html#aeebcad9b6effa45145c50f06af60b23d">UnitAI::DoCast</a></div><div class="ttdeci">SpellCastResult DoCast(uint32 spellId)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:177</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00052">SPELL_ZAP_DAMAGE</a>, and <a class="el" href="../../#l00051">SPELL_ZAP_INFORM</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00388">ChangeToNewPlayer()</a>, <a class="el" href="../../#l00392">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00106">CreatureAI::DoZoneInCombat()</a>, <a class="el" href="../../#l00068">CreatureAI::GetSummoner()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00350">MOVE_RUN</a>, <a class="el" href="../../#l15481">Unit::SetLevel()</a>, <a class="el" href="../../#l14450">Unit::SetSpeed()</a>, <a class="el" href="../../#l00719">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l00056">SPELL_CYCLONE_PASSIVE</a>, <a class="el" href="../../#l00055">SPELL_CYCLONE_VISUAL</a>, <a class="el" href="../../#l00205">Object::ToCreature()</a>, and <a class="el" href="../../#l00275">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
 
 </div>
 </div>
@@ -756,18 +706,18 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../de/d8c/a06114.html#ac2ce21ab709e349abb8206ce2368cd37" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../de/d8c/a06114.html#aff5fd4e142a5cf930ffacbfc7259cce5">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  404</span>    {</div>
-<div class="line"><span class="lineno">  405</span>        <a class="code hl_function" href="../../db/dd3/a06070.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>();</div>
-<div class="line"><span class="lineno">  406</span> </div>
-<div class="line"><span class="lineno">  407</span>        <span class="comment">//if the vortex reach the target, it change his target to another player</span></div>
-<div class="line"><span class="lineno">  408</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a748fa068a1b1b9850141f91ff17fc65d">IsWithinMeleeRange</a>(<a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>()))</div>
-<div class="line"><span class="lineno">  409</span>            <a class="code hl_function" href="../../d2/d46/a13578.html#ab353794ef978151999fdd2294783e757">ChangeToNewPlayer</a>();</div>
-<div class="line"><span class="lineno">  410</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  398</span>    {</div>
+<div class="line"><span class="lineno">  399</span>        <a class="code hl_function" href="../../db/dd3/a06070.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>();</div>
+<div class="line"><span class="lineno">  400</span> </div>
+<div class="line"><span class="lineno">  401</span>        <span class="comment">//if the vortex reach the target, it change his target to another player</span></div>
+<div class="line"><span class="lineno">  402</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a748fa068a1b1b9850141f91ff17fc65d">IsWithinMeleeRange</a>(<a class="code hl_variable" href="../../de/d8c/a06114.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>()))</div>
+<div class="line"><span class="lineno">  403</span>            <a class="code hl_function" href="../../d2/d46/a13578.html#ab353794ef978151999fdd2294783e757">ChangeToNewPlayer</a>();</div>
+<div class="line"><span class="lineno">  404</span>    }</div>
 <div class="ttc" id="aa06070_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../db/dd3/a06070.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:280</div></div>
 <div class="ttc" id="aa08598_html_a748fa068a1b1b9850141f91ff17fc65d"><div class="ttname"><a href="../../d4/d46/a08598.html#a748fa068a1b1b9850141f91ff17fc65d">Unit::IsWithinMeleeRange</a></div><div class="ttdeci">bool IsWithinMeleeRange(Unit const *obj, float dist=0.f) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:664</div></div>
 <div class="ttc" id="aa08598_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../d4/d46/a08598.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition:</b> Unit.h:859</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00394">ChangeToNewPlayer()</a>, <a class="el" href="../../#l00859">Unit::GetVictim()</a>, <a class="el" href="../../#l00664">Unit::IsWithinMeleeRange()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00280">CreatureAI::UpdateVictim()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00388">ChangeToNewPlayer()</a>, <a class="el" href="../../#l00859">Unit::GetVictim()</a>, <a class="el" href="../../#l00664">Unit::IsWithinMeleeRange()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00280">CreatureAI::UpdateVictim()</a>.</p>
 
 </div>
 </div>
@@ -777,7 +727,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d46/a13578.html">npc_zuljin_vortex</a></li>
-    <li class="footer">Generated on Mon Jan 6 2025 20:43:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 13 2025 20:43:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

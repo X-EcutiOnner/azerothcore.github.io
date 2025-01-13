@@ -1,5 +1,5 @@
 var a13698 =
 [
-    [ "at_zulgurub_bridge_speech", "d3/d5b/a13698.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "d3/d5b/a13698.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
+    [ "at_zulgurub_temple_speech", "d3/d5b/a13698.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
+    [ "_OnTrigger", "d3/d5b/a13698.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
 ];

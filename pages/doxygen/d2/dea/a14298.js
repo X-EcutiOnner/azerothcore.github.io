@@ -1,7 +1,9 @@
 var a14298 =
 [
-    [ "boss_azuregosAI", "d2/d82/a14302.html", "d2/d82/a14302" ],
-    [ "boss_azuregos", "d2/dea/a14298.html#a48590db0037870ca5c9425a468e5ea3a", null ],
-    [ "GetAI", "d2/dea/a14298.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
-    [ "OnGossipSelect", "d2/dea/a14298.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
+    [ "boss_azuregosAI", "d2/dea/a14298.html#a839ab1e096d30062d64c1c515a7462a4", null ],
+    [ "JustDied", "d2/dea/a14298.html#aea4d204173b7882d2d9acf8204410947", null ],
+    [ "JustEngagedWith", "d2/dea/a14298.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
+    [ "KilledUnit", "d2/dea/a14298.html#aeefc791e17d2a687f8beae809c44d123", null ],
+    [ "Reset", "d2/dea/a14298.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
+    [ "UpdateAI", "d2/dea/a14298.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
 ];

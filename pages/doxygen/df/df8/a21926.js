@@ -1,4 +1,7 @@
 var a21926 =
 [
-    [ "npc_adventurous_dwarfAI", "df/df8/a21926.html#af953c5fef2ea8abbf7835b0bc5cf1b23", null ]
+    [ "HandleSendEvent", "df/df8/a21926.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
+    [ "PrepareSpellScript", "df/df8/a21926.html#af698a946e07235c18c8b785a1f775ec9", null ],
+    [ "Register", "df/df8/a21926.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
+    [ "Validate", "df/df8/a21926.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
 ];

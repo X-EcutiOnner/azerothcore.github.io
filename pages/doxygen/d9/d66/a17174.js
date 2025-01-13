@@ -1,7 +1,6 @@
 var a17174 =
 [
-    [ "HandleDummy", "d9/d66/a17174.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "d9/d66/a17174.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "d9/d66/a17174.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "d9/d66/a17174.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "ModAuraValue", "d9/d66/a17174.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "d9/d66/a17174.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "d9/d66/a17174.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

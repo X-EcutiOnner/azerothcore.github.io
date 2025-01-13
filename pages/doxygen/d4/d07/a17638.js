@@ -1,6 +1,7 @@
 var a17638 =
 [
-    [ "OnRemove", "d4/d07/a17638.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
-    [ "PrepareAuraScript", "d4/d07/a17638.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
-    [ "Register", "d4/d07/a17638.html#afa993cb14444989feac16c9fa2d7b8df", null ]
+    [ "HandleSummon", "d4/d07/a17638.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
+    [ "PrepareSpellScript", "d4/d07/a17638.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
+    [ "Register", "d4/d07/a17638.html#a01281869dc98a0af5027695391f1221f", null ],
+    [ "Validate", "d4/d07/a17638.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
 ];

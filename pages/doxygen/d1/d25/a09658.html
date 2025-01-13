@@ -121,6 +121,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a96424fd90677e0f2d0908f9c25b58d04"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aadb5781f6ab6ffd1410486399ccaa0ee"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d25/a09658.html#aadb5781f6ab6ffd1410486399ccaa0ee">~MapUpdater</a> ()=default</td></tr>
 <tr class="separator:aadb5781f6ab6ffd1410486399ccaa0ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9a6a4c2260e0bb48e42b1a7d3216326b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d25/a09658.html#a9a6a4c2260e0bb48e42b1a7d3216326b">schedule_task</a> (<a class="el" href="../../d6/d37/a09646.html">UpdateRequest</a> *request)</td></tr>
+<tr class="separator:a9a6a4c2260e0bb48e42b1a7d3216326b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aafda5775622dcce2e4869cf5d015fefc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d25/a09658.html#aafda5775622dcce2e4869cf5d015fefc">schedule_update</a> (<a class="el" href="../../df/dae/a09618.html">Map</a> &amp;map, <a class="el" href="../../d4/d1e/a00497.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff, <a class="el" href="../../d4/d1e/a00497.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> s_diff)</td></tr>
 <tr class="separator:aafda5775622dcce2e4869cf5d015fefc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4141350af5d8a86481a8e5f29f0ad7e2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d25/a09658.html#a4141350af5d8a86481a8e5f29f0ad7e2">schedule_lfg_update</a> (<a class="el" href="../../d4/d1e/a00497.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff)</td></tr>
@@ -145,16 +147,16 @@ Private Member Functions</h2></td></tr>
 Private Attributes</h2></td></tr>
 <tr class="memitem:afba30ac2a8ce0540b73f034b73ce5956"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dd7/a05302.html">ProducerConsumerQueue</a>&lt; <a class="el" href="../../d6/d37/a09646.html">UpdateRequest</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d25/a09658.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a></td></tr>
 <tr class="separator:afba30ac2a8ce0540b73f034b73ce5956"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a06a1943fe78ea8a5da2d4b0453748d90"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::thread &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d25/a09658.html#a06a1943fe78ea8a5da2d4b0453748d90">_workerThreads</a></td></tr>
-<tr class="separator:a06a1943fe78ea8a5da2d4b0453748d90"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5243a9d4d3753060570cecde9a3a6e7"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d25/a09658.html#aa5243a9d4d3753060570cecde9a3a6e7">pending_requests</a></td></tr>
+<tr class="separator:aa5243a9d4d3753060570cecde9a3a6e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a96c38c13ce5a71ce63ee0b83e83d5cfd"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d25/a09658.html#a96c38c13ce5a71ce63ee0b83e83d5cfd">_cancelationToken</a></td></tr>
 <tr class="separator:a96c38c13ce5a71ce63ee0b83e83d5cfd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a06a1943fe78ea8a5da2d4b0453748d90"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::thread &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d25/a09658.html#a06a1943fe78ea8a5da2d4b0453748d90">_workerThreads</a></td></tr>
+<tr class="separator:a06a1943fe78ea8a5da2d4b0453748d90"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0ed1652ffa76199e1e7d659b5c451549"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d25/a09658.html#a0ed1652ffa76199e1e7d659b5c451549">_lock</a></td></tr>
 <tr class="separator:a0ed1652ffa76199e1e7d659b5c451549"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acf5b180bd52ae9244e0eda41bcc7573a"><td class="memItemLeft" align="right" valign="top">std::condition_variable&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d25/a09658.html#acf5b180bd52ae9244e0eda41bcc7573a">_condition</a></td></tr>
 <tr class="separator:acf5b180bd52ae9244e0eda41bcc7573a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a347219257a74d7b24a9dfee7658fa6f0"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d25/a09658.html#a347219257a74d7b24a9dfee7658fa6f0">pending_requests</a></td></tr>
-<tr class="separator:a347219257a74d7b24a9dfee7658fa6f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
@@ -172,10 +174,11 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   70</span>                      : <a class="code hl_variable" href="../../d1/d25/a09658.html#a347219257a74d7b24a9dfee7658fa6f0">pending_requests</a>(0)</div>
+<div class="fragment"><div class="line"><span class="lineno">   70</span>                       : <a class="code hl_variable" href="../../d1/d25/a09658.html#aa5243a9d4d3753060570cecde9a3a6e7">pending_requests</a>(0), <a class="code hl_variable" href="../../d1/d25/a09658.html#a96c38c13ce5a71ce63ee0b83e83d5cfd">_cancelationToken</a>(<span class="keyword">false</span>)</div>
 <div class="line"><span class="lineno">   71</span>{</div>
 <div class="line"><span class="lineno">   72</span>}</div>
-<div class="ttc" id="aa09658_html_a347219257a74d7b24a9dfee7658fa6f0"><div class="ttname"><a href="../../d1/d25/a09658.html#a347219257a74d7b24a9dfee7658fa6f0">MapUpdater::pending_requests</a></div><div class="ttdeci">std::size_t pending_requests</div><div class="ttdef"><b>Definition:</b> MapUpdater.h:53</div></div>
+<div class="ttc" id="aa09658_html_a96c38c13ce5a71ce63ee0b83e83d5cfd"><div class="ttname"><a href="../../d1/d25/a09658.html#a96c38c13ce5a71ce63ee0b83e83d5cfd">MapUpdater::_cancelationToken</a></div><div class="ttdeci">std::atomic&lt; bool &gt; _cancelationToken</div><div class="ttdef"><b>Definition:</b> MapUpdater.h:49</div></div>
+<div class="ttc" id="aa09658_html_aa5243a9d4d3753060570cecde9a3a6e7"><div class="ttname"><a href="../../d1/d25/a09658.html#aa5243a9d4d3753060570cecde9a3a6e7">MapUpdater::pending_requests</a></div><div class="ttdeci">std::atomic&lt; int &gt; pending_requests</div><div class="ttdef"><b>Definition:</b> MapUpdater.h:48</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -227,10 +230,10 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   79</span>        <a class="code hl_variable" href="../../d1/d25/a09658.html#a06a1943fe78ea8a5da2d4b0453748d90">_workerThreads</a>.push_back(std::thread(&amp;<a class="code hl_function" href="../../d1/d25/a09658.html#a3cce7e3bbab4e3e875dad9a549c142e8">MapUpdater::WorkerThread</a>, <span class="keyword">this</span>));</div>
 <div class="line"><span class="lineno">   80</span>    }</div>
 <div class="line"><span class="lineno">   81</span>}</div>
-<div class="ttc" id="aa09658_html_a06a1943fe78ea8a5da2d4b0453748d90"><div class="ttname"><a href="../../d1/d25/a09658.html#a06a1943fe78ea8a5da2d4b0453748d90">MapUpdater::_workerThreads</a></div><div class="ttdeci">std::vector&lt; std::thread &gt; _workerThreads</div><div class="ttdef"><b>Definition:</b> MapUpdater.h:48</div></div>
-<div class="ttc" id="aa09658_html_a3cce7e3bbab4e3e875dad9a549c142e8"><div class="ttname"><a href="../../d1/d25/a09658.html#a3cce7e3bbab4e3e875dad9a549c142e8">MapUpdater::WorkerThread</a></div><div class="ttdeci">void WorkerThread()</div><div class="ttdef"><b>Definition:</b> MapUpdater.cpp:142</div></div>
+<div class="ttc" id="aa09658_html_a06a1943fe78ea8a5da2d4b0453748d90"><div class="ttname"><a href="../../d1/d25/a09658.html#a06a1943fe78ea8a5da2d4b0453748d90">MapUpdater::_workerThreads</a></div><div class="ttdeci">std::vector&lt; std::thread &gt; _workerThreads</div><div class="ttdef"><b>Definition:</b> MapUpdater.h:50</div></div>
+<div class="ttc" id="aa09658_html_a3cce7e3bbab4e3e875dad9a549c142e8"><div class="ttname"><a href="../../d1/d25/a09658.html#a3cce7e3bbab4e3e875dad9a549c142e8">MapUpdater::WorkerThread</a></div><div class="ttdeci">void WorkerThread()</div><div class="ttdef"><b>Definition:</b> MapUpdater.cpp:144</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00048">_workerThreads</a>, and <a class="el" href="../../#l00142">WorkerThread()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00050">_workerThreads</a>, and <a class="el" href="../../#l00144">WorkerThread()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00054">MapMgr::Initialize()</a>.</p>
 
@@ -251,10 +254,10 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  129</span>{</div>
-<div class="line"><span class="lineno">  130</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/d25/a09658.html#a06a1943fe78ea8a5da2d4b0453748d90">_workerThreads</a>.size() &gt; 0;</div>
+<div class="line"><span class="lineno">  130</span>    <span class="keywordflow">return</span> !<a class="code hl_variable" href="../../d1/d25/a09658.html#a06a1943fe78ea8a5da2d4b0453748d90">_workerThreads</a>.empty();</div>
 <div class="line"><span class="lineno">  131</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00048">_workerThreads</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00050">_workerThreads</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00325">MapMgr::UnloadAll()</a>, and <a class="el" href="../../#l00244">MapMgr::Update()</a>.</p>
 
@@ -277,24 +280,24 @@ Private Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">   84</span>{</div>
 <div class="line"><span class="lineno">   85</span>    <a class="code hl_variable" href="../../d1/d25/a09658.html#a96c38c13ce5a71ce63ee0b83e83d5cfd">_cancelationToken</a> = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">   86</span> </div>
-<div class="line"><span class="lineno">   87</span>    <a class="code hl_function" href="../../d1/d25/a09658.html#a608eb61de2bacf082422562b049e8652">wait</a>();</div>
+<div class="line"><span class="lineno">   87</span>    <a class="code hl_function" href="../../d1/d25/a09658.html#a608eb61de2bacf082422562b049e8652">wait</a>();  <span class="comment">// This is where we wait for tasks to complete</span></div>
 <div class="line"><span class="lineno">   88</span> </div>
-<div class="line"><span class="lineno">   89</span>    <a class="code hl_variable" href="../../d1/d25/a09658.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a>.<a class="code hl_function" href="../../db/dd7/a05302.html#a7e9de516e77945411ad4f8bfa161489d">Cancel</a>();</div>
+<div class="line"><span class="lineno">   89</span>    <a class="code hl_variable" href="../../d1/d25/a09658.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a>.<a class="code hl_function" href="../../db/dd7/a05302.html#a7e9de516e77945411ad4f8bfa161489d">Cancel</a>();  <span class="comment">// Cancel the queue to prevent further task processing</span></div>
 <div class="line"><span class="lineno">   90</span> </div>
-<div class="line"><span class="lineno">   91</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; thread : <a class="code hl_variable" href="../../d1/d25/a09658.html#a06a1943fe78ea8a5da2d4b0453748d90">_workerThreads</a>)</div>
-<div class="line"><span class="lineno">   92</span>    {</div>
-<div class="line"><span class="lineno">   93</span>        <span class="keywordflow">if</span> (thread.joinable())</div>
-<div class="line"><span class="lineno">   94</span>        {</div>
-<div class="line"><span class="lineno">   95</span>            thread.join();</div>
-<div class="line"><span class="lineno">   96</span>        }</div>
-<div class="line"><span class="lineno">   97</span>    }</div>
-<div class="line"><span class="lineno">   98</span>}</div>
-<div class="ttc" id="aa05302_html_a7e9de516e77945411ad4f8bfa161489d"><div class="ttname"><a href="../../db/dd7/a05302.html#a7e9de516e77945411ad4f8bfa161489d">ProducerConsumerQueue::Cancel</a></div><div class="ttdeci">void Cancel()</div><div class="ttdef"><b>Definition:</b> PCQueue.h:89</div></div>
-<div class="ttc" id="aa09658_html_a608eb61de2bacf082422562b049e8652"><div class="ttname"><a href="../../d1/d25/a09658.html#a608eb61de2bacf082422562b049e8652">MapUpdater::wait</a></div><div class="ttdeci">void wait()</div><div class="ttdef"><b>Definition:</b> MapUpdater.cpp:100</div></div>
-<div class="ttc" id="aa09658_html_a96c38c13ce5a71ce63ee0b83e83d5cfd"><div class="ttname"><a href="../../d1/d25/a09658.html#a96c38c13ce5a71ce63ee0b83e83d5cfd">MapUpdater::_cancelationToken</a></div><div class="ttdeci">std::atomic&lt; bool &gt; _cancelationToken</div><div class="ttdef"><b>Definition:</b> MapUpdater.h:49</div></div>
-<div class="ttc" id="aa09658_html_afba30ac2a8ce0540b73f034b73ce5956"><div class="ttname"><a href="../../d1/d25/a09658.html#afba30ac2a8ce0540b73f034b73ce5956">MapUpdater::_queue</a></div><div class="ttdeci">ProducerConsumerQueue&lt; UpdateRequest * &gt; _queue</div><div class="ttdef"><b>Definition:</b> MapUpdater.h:46</div></div>
+<div class="line"><span class="lineno">   91</span>    <span class="comment">// Join all worker threads</span></div>
+<div class="line"><span class="lineno">   92</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; thread : <a class="code hl_variable" href="../../d1/d25/a09658.html#a06a1943fe78ea8a5da2d4b0453748d90">_workerThreads</a>)</div>
+<div class="line"><span class="lineno">   93</span>    {</div>
+<div class="line"><span class="lineno">   94</span>        <span class="keywordflow">if</span> (thread.joinable())</div>
+<div class="line"><span class="lineno">   95</span>        {</div>
+<div class="line"><span class="lineno">   96</span>            thread.join();</div>
+<div class="line"><span class="lineno">   97</span>        }</div>
+<div class="line"><span class="lineno">   98</span>    }</div>
+<div class="line"><span class="lineno">   99</span>}</div>
+<div class="ttc" id="aa05302_html_a7e9de516e77945411ad4f8bfa161489d"><div class="ttname"><a href="../../db/dd7/a05302.html#a7e9de516e77945411ad4f8bfa161489d">ProducerConsumerQueue::Cancel</a></div><div class="ttdeci">void Cancel()</div><div class="ttdef"><b>Definition:</b> PCQueue.h:86</div></div>
+<div class="ttc" id="aa09658_html_a608eb61de2bacf082422562b049e8652"><div class="ttname"><a href="../../d1/d25/a09658.html#a608eb61de2bacf082422562b049e8652">MapUpdater::wait</a></div><div class="ttdeci">void wait()</div><div class="ttdef"><b>Definition:</b> MapUpdater.cpp:101</div></div>
+<div class="ttc" id="aa09658_html_afba30ac2a8ce0540b73f034b73ce5956"><div class="ttname"><a href="../../d1/d25/a09658.html#afba30ac2a8ce0540b73f034b73ce5956">MapUpdater::_queue</a></div><div class="ttdeci">ProducerConsumerQueue&lt; UpdateRequest * &gt; _queue</div><div class="ttdef"><b>Definition:</b> MapUpdater.h:47</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00049">_cancelationToken</a>, <a class="el" href="../../#l00046">_queue</a>, <a class="el" href="../../#l00048">_workerThreads</a>, <a class="el" href="../../#l00089">ProducerConsumerQueue&lt; T &gt;::Cancel()</a>, and <a class="el" href="../../#l00100">wait()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00049">_cancelationToken</a>, <a class="el" href="../../#l00047">_queue</a>, <a class="el" href="../../#l00050">_workerThreads</a>, <a class="el" href="../../#l00086">ProducerConsumerQueue&lt; T &gt;::Cancel()</a>, and <a class="el" href="../../#l00101">wait()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00325">MapMgr::UnloadAll()</a>.</p>
 
@@ -315,20 +318,43 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  120</span>{</div>
-<div class="line"><span class="lineno">  121</span>    std::lock_guard&lt;std::mutex&gt; guard(<a class="code hl_variable" href="../../d1/d25/a09658.html#a0ed1652ffa76199e1e7d659b5c451549">_lock</a>);</div>
-<div class="line"><span class="lineno">  122</span> </div>
-<div class="line"><span class="lineno">  123</span>    ++<a class="code hl_variable" href="../../d1/d25/a09658.html#a347219257a74d7b24a9dfee7658fa6f0">pending_requests</a>;</div>
-<div class="line"><span class="lineno">  124</span> </div>
-<div class="line"><span class="lineno">  125</span>    <a class="code hl_variable" href="../../d1/d25/a09658.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a>.<a class="code hl_function" href="../../db/dd7/a05302.html#abd3bd3c88fbd7d8edb721fc5f89da5ed">Push</a>(<span class="keyword">new</span> <a class="code hl_class" href="../../d0/dbb/a09654.html">LFGUpdateRequest</a>(*<span class="keyword">this</span>, diff));</div>
+<div class="fragment"><div class="line"><span class="lineno">  124</span>{</div>
+<div class="line"><span class="lineno">  125</span>    <a class="code hl_function" href="../../d1/d25/a09658.html#a9a6a4c2260e0bb48e42b1a7d3216326b">schedule_task</a>(<span class="keyword">new</span> <a class="code hl_class" href="../../d0/dbb/a09654.html">LFGUpdateRequest</a>(*<span class="keyword">this</span>, diff));</div>
 <div class="line"><span class="lineno">  126</span>}</div>
-<div class="ttc" id="aa05302_html_abd3bd3c88fbd7d8edb721fc5f89da5ed"><div class="ttname"><a href="../../db/dd7/a05302.html#abd3bd3c88fbd7d8edb721fc5f89da5ed">ProducerConsumerQueue::Push</a></div><div class="ttdeci">void Push(const T &amp;value)</div><div class="ttdef"><b>Definition:</b> PCQueue.h:37</div></div>
 <div class="ttc" id="aa09654_html"><div class="ttname"><a href="../../d0/dbb/a09654.html">LFGUpdateRequest</a></div><div class="ttdef"><b>Definition:</b> MapUpdater.cpp:56</div></div>
-<div class="ttc" id="aa09658_html_a0ed1652ffa76199e1e7d659b5c451549"><div class="ttname"><a href="../../d1/d25/a09658.html#a0ed1652ffa76199e1e7d659b5c451549">MapUpdater::_lock</a></div><div class="ttdeci">std::mutex _lock</div><div class="ttdef"><b>Definition:</b> MapUpdater.h:51</div></div>
+<div class="ttc" id="aa09658_html_a9a6a4c2260e0bb48e42b1a7d3216326b"><div class="ttname"><a href="../../d1/d25/a09658.html#a9a6a4c2260e0bb48e42b1a7d3216326b">MapUpdater::schedule_task</a></div><div class="ttdeci">void schedule_task(UpdateRequest *request)</div><div class="ttdef"><b>Definition:</b> MapUpdater.cpp:111</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">_lock</a>, <a class="el" href="../../#l00046">_queue</a>, <a class="el" href="../../#l00053">pending_requests</a>, and <a class="el" href="../../#l00037">ProducerConsumerQueue&lt; T &gt;::Push()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00111">schedule_task()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00244">MapMgr::Update()</a>.</p>
+
+</div>
+</div>
+<a id="a9a6a4c2260e0bb48e42b1a7d3216326b" name="a9a6a4c2260e0bb48e42b1a7d3216326b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9a6a4c2260e0bb48e42b1a7d3216326b">&#9670;&#160;</a></span>schedule_task()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void MapUpdater::schedule_task </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d37/a09646.html">UpdateRequest</a> *&#160;</td>
+          <td class="paramname"><em>request</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  112</span>{</div>
+<div class="line"><span class="lineno">  113</span>    <span class="comment">// Atomic increment for pending_requests</span></div>
+<div class="line"><span class="lineno">  114</span>    <a class="code hl_variable" href="../../d1/d25/a09658.html#aa5243a9d4d3753060570cecde9a3a6e7">pending_requests</a>.fetch_add(1, std::memory_order_release);</div>
+<div class="line"><span class="lineno">  115</span>    <a class="code hl_variable" href="../../d1/d25/a09658.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a>.<a class="code hl_function" href="../../db/dd7/a05302.html#abd3bd3c88fbd7d8edb721fc5f89da5ed">Push</a>(request);</div>
+<div class="line"><span class="lineno">  116</span>}</div>
+<div class="ttc" id="aa05302_html_abd3bd3c88fbd7d8edb721fc5f89da5ed"><div class="ttname"><a href="../../db/dd7/a05302.html#abd3bd3c88fbd7d8edb721fc5f89da5ed">ProducerConsumerQueue::Push</a></div><div class="ttdeci">void Push(const T &amp;value)</div><div class="ttdef"><b>Definition:</b> PCQueue.h:39</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00047">_queue</a>, <a class="el" href="../../#l00048">pending_requests</a>, and <a class="el" href="../../#l00039">ProducerConsumerQueue&lt; T &gt;::Push()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00123">schedule_lfg_update()</a>, and <a class="el" href="../../#l00118">schedule_update()</a>.</p>
 
 </div>
 </div>
@@ -363,16 +389,12 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  111</span>{</div>
-<div class="line"><span class="lineno">  112</span>    std::lock_guard&lt;std::mutex&gt; guard(<a class="code hl_variable" href="../../d1/d25/a09658.html#a0ed1652ffa76199e1e7d659b5c451549">_lock</a>);</div>
-<div class="line"><span class="lineno">  113</span> </div>
-<div class="line"><span class="lineno">  114</span>    ++<a class="code hl_variable" href="../../d1/d25/a09658.html#a347219257a74d7b24a9dfee7658fa6f0">pending_requests</a>;</div>
-<div class="line"><span class="lineno">  115</span> </div>
-<div class="line"><span class="lineno">  116</span>    <a class="code hl_variable" href="../../d1/d25/a09658.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a>.<a class="code hl_function" href="../../db/dd7/a05302.html#abd3bd3c88fbd7d8edb721fc5f89da5ed">Push</a>(<span class="keyword">new</span> <a class="code hl_class" href="../../d7/da8/a09650.html">MapUpdateRequest</a>(map, *<span class="keyword">this</span>, diff, s_diff));</div>
-<div class="line"><span class="lineno">  117</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  119</span>{</div>
+<div class="line"><span class="lineno">  120</span>    <a class="code hl_function" href="../../d1/d25/a09658.html#a9a6a4c2260e0bb48e42b1a7d3216326b">schedule_task</a>(<span class="keyword">new</span> <a class="code hl_class" href="../../d7/da8/a09650.html">MapUpdateRequest</a>(map, *<span class="keyword">this</span>, diff, s_diff));</div>
+<div class="line"><span class="lineno">  121</span>}</div>
 <div class="ttc" id="aa09650_html"><div class="ttname"><a href="../../d7/da8/a09650.html">MapUpdateRequest</a></div><div class="ttdef"><b>Definition:</b> MapUpdater.cpp:34</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">_lock</a>, <a class="el" href="../../#l00046">_queue</a>, <a class="el" href="../../#l00053">pending_requests</a>, and <a class="el" href="../../#l00037">ProducerConsumerQueue&lt; T &gt;::Push()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00111">schedule_task()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00244">MapMgr::Update()</a>.</p>
 
@@ -393,15 +415,18 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
-<div class="line"><span class="lineno">  135</span>    std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../d1/d25/a09658.html#a0ed1652ffa76199e1e7d659b5c451549">_lock</a>);</div>
-<div class="line"><span class="lineno">  136</span> </div>
-<div class="line"><span class="lineno">  137</span>    --<a class="code hl_variable" href="../../d1/d25/a09658.html#a347219257a74d7b24a9dfee7658fa6f0">pending_requests</a>;</div>
-<div class="line"><span class="lineno">  138</span> </div>
-<div class="line"><span class="lineno">  139</span>    <a class="code hl_variable" href="../../d1/d25/a09658.html#acf5b180bd52ae9244e0eda41bcc7573a">_condition</a>.notify_all();</div>
-<div class="line"><span class="lineno">  140</span>}</div>
+<div class="line"><span class="lineno">  135</span>    <span class="comment">// Atomic decrement for pending_requests</span></div>
+<div class="line"><span class="lineno">  136</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d25/a09658.html#aa5243a9d4d3753060570cecde9a3a6e7">pending_requests</a>.fetch_sub(1, std::memory_order_acquire) == 1)</div>
+<div class="line"><span class="lineno">  137</span>    {</div>
+<div class="line"><span class="lineno">  138</span>        <span class="comment">// Only notify when pending_requests becomes 0 (i.e., all tasks are finished)</span></div>
+<div class="line"><span class="lineno">  139</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../d1/d25/a09658.html#a0ed1652ffa76199e1e7d659b5c451549">_lock</a>);  <span class="comment">// Lock only for condition variable notification</span></div>
+<div class="line"><span class="lineno">  140</span>        <a class="code hl_variable" href="../../d1/d25/a09658.html#acf5b180bd52ae9244e0eda41bcc7573a">_condition</a>.notify_all();  <span class="comment">// Notify waiting threads that all requests are complete</span></div>
+<div class="line"><span class="lineno">  141</span>    }</div>
+<div class="line"><span class="lineno">  142</span>}</div>
+<div class="ttc" id="aa09658_html_a0ed1652ffa76199e1e7d659b5c451549"><div class="ttname"><a href="../../d1/d25/a09658.html#a0ed1652ffa76199e1e7d659b5c451549">MapUpdater::_lock</a></div><div class="ttdeci">std::mutex _lock</div><div class="ttdef"><b>Definition:</b> MapUpdater.h:51</div></div>
 <div class="ttc" id="aa09658_html_acf5b180bd52ae9244e0eda41bcc7573a"><div class="ttname"><a href="../../d1/d25/a09658.html#acf5b180bd52ae9244e0eda41bcc7573a">MapUpdater::_condition</a></div><div class="ttdeci">std::condition_variable _condition</div><div class="ttdef"><b>Definition:</b> MapUpdater.h:52</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00052">_condition</a>, <a class="el" href="../../#l00051">_lock</a>, and <a class="el" href="../../#l00053">pending_requests</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00052">_condition</a>, <a class="el" href="../../#l00051">_lock</a>, and <a class="el" href="../../#l00048">pending_requests</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00041">MapUpdateRequest::call()</a>, and <a class="el" href="../../#l00060">LFGUpdateRequest::call()</a>.</p>
 
@@ -421,16 +446,16 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  101</span>{</div>
-<div class="line"><span class="lineno">  102</span>    std::unique_lock&lt;std::mutex&gt; guard(<a class="code hl_variable" href="../../d1/d25/a09658.html#a0ed1652ffa76199e1e7d659b5c451549">_lock</a>);</div>
-<div class="line"><span class="lineno">  103</span> </div>
-<div class="line"><span class="lineno">  104</span>    <span class="keywordflow">while</span> (<a class="code hl_variable" href="../../d1/d25/a09658.html#a347219257a74d7b24a9dfee7658fa6f0">pending_requests</a> &gt; 0)</div>
-<div class="line"><span class="lineno">  105</span>        <a class="code hl_variable" href="../../d1/d25/a09658.html#acf5b180bd52ae9244e0eda41bcc7573a">_condition</a>.wait(guard);</div>
-<div class="line"><span class="lineno">  106</span> </div>
-<div class="line"><span class="lineno">  107</span>    guard.unlock();</div>
-<div class="line"><span class="lineno">  108</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  102</span>{</div>
+<div class="line"><span class="lineno">  103</span>    std::unique_lock&lt;std::mutex&gt; guard(<a class="code hl_variable" href="../../d1/d25/a09658.html#a0ed1652ffa76199e1e7d659b5c451549">_lock</a>);  <span class="comment">// Guard lock for safe waiting</span></div>
+<div class="line"><span class="lineno">  104</span> </div>
+<div class="line"><span class="lineno">  105</span>    <span class="comment">// Wait until there are no pending requests</span></div>
+<div class="line"><span class="lineno">  106</span>    <a class="code hl_variable" href="../../d1/d25/a09658.html#acf5b180bd52ae9244e0eda41bcc7573a">_condition</a>.wait(guard, [<span class="keyword">this</span>] {</div>
+<div class="line"><span class="lineno">  107</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/d25/a09658.html#aa5243a9d4d3753060570cecde9a3a6e7">pending_requests</a>.load(std::memory_order_acquire) == 0;</div>
+<div class="line"><span class="lineno">  108</span>    });</div>
+<div class="line"><span class="lineno">  109</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00052">_condition</a>, <a class="el" href="../../#l00051">_lock</a>, and <a class="el" href="../../#l00053">pending_requests</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00052">_condition</a>, <a class="el" href="../../#l00051">_lock</a>, and <a class="el" href="../../#l00048">pending_requests</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00083">deactivate()</a>, and <a class="el" href="../../#l00244">MapMgr::Update()</a>.</p>
 
@@ -458,24 +483,24 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  143</span>{</div>
-<div class="line"><span class="lineno">  144</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.WarnAboutSyncQueries(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  145</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.WarnAboutSyncQueries(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  146</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.WarnAboutSyncQueries(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  147</span> </div>
-<div class="line"><span class="lineno">  148</span>    <span class="keywordflow">while</span> (1)</div>
-<div class="line"><span class="lineno">  149</span>    {</div>
-<div class="line"><span class="lineno">  150</span>        <a class="code hl_class" href="../../d6/d37/a09646.html">UpdateRequest</a>* request = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  151</span> </div>
-<div class="line"><span class="lineno">  152</span>        <a class="code hl_variable" href="../../d1/d25/a09658.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a>.<a class="code hl_function" href="../../db/dd7/a05302.html#a172ef4211bcb237478ec57531c8dcc4d">WaitAndPop</a>(request);</div>
-<div class="line"><span class="lineno">  153</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d25/a09658.html#a96c38c13ce5a71ce63ee0b83e83d5cfd">_cancelationToken</a>)</div>
-<div class="line"><span class="lineno">  154</span>            <span class="keywordflow">return</span>;</div>
+<div class="fragment"><div class="line"><span class="lineno">  145</span>{</div>
+<div class="line"><span class="lineno">  146</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.WarnAboutSyncQueries(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  147</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.WarnAboutSyncQueries(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  148</span>    <a class="code hl_variable" href="../../d8/d7c/a04601.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.WarnAboutSyncQueries(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  149</span> </div>
+<div class="line"><span class="lineno">  150</span>    <span class="keywordflow">while</span> (!<a class="code hl_variable" href="../../d1/d25/a09658.html#a96c38c13ce5a71ce63ee0b83e83d5cfd">_cancelationToken</a>)</div>
+<div class="line"><span class="lineno">  151</span>    {</div>
+<div class="line"><span class="lineno">  152</span>        <a class="code hl_class" href="../../d6/d37/a09646.html">UpdateRequest</a>* request = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  153</span> </div>
+<div class="line"><span class="lineno">  154</span>        <a class="code hl_variable" href="../../d1/d25/a09658.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a>.<a class="code hl_function" href="../../db/dd7/a05302.html#a172ef4211bcb237478ec57531c8dcc4d">WaitAndPop</a>(request);  <span class="comment">// Wait for and pop a request from the queue</span></div>
 <div class="line"><span class="lineno">  155</span> </div>
-<div class="line"><span class="lineno">  156</span>        request-&gt;<a class="code hl_function" href="../../d6/d37/a09646.html#a8221fa415f828a4866f85f3983f7dab9">call</a>();</div>
-<div class="line"><span class="lineno">  157</span> </div>
-<div class="line"><span class="lineno">  158</span>        <span class="keyword">delete</span> request;</div>
-<div class="line"><span class="lineno">  159</span>    }</div>
-<div class="line"><span class="lineno">  160</span>}</div>
+<div class="line"><span class="lineno">  156</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d1/d25/a09658.html#a96c38c13ce5a71ce63ee0b83e83d5cfd">_cancelationToken</a> &amp;&amp; request)</div>
+<div class="line"><span class="lineno">  157</span>        {</div>
+<div class="line"><span class="lineno">  158</span>            request-&gt;<a class="code hl_function" href="../../d6/d37/a09646.html#a8221fa415f828a4866f85f3983f7dab9">call</a>();  <span class="comment">// Execute the request</span></div>
+<div class="line"><span class="lineno">  159</span>            <span class="keyword">delete</span> request;  <span class="comment">// Clean up after processing</span></div>
+<div class="line"><span class="lineno">  160</span>        }</div>
+<div class="line"><span class="lineno">  161</span>    }</div>
+<div class="line"><span class="lineno">  162</span>}</div>
 <div class="ttc" id="aa04601_html_a2cf25eafe7f2f73b61ccde11d55daf0c"><div class="ttname"><a href="../../d8/d7c/a04601.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; LoginDatabaseConnection &gt; LoginDatabase</div><div class="ttdoc">Accessor to the realm/login database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:22</div></div>
 <div class="ttc" id="aa04601_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d8/d7c/a04601.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
 <div class="ttc" id="aa04601_html_afa9a6509f9913c9c7dd3081523badd7c"><div class="ttname"><a href="../../d8/d7c/a04601.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; WorldDatabaseConnection &gt; WorldDatabase</div><div class="ttdoc">Accessor to the world database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:20</div></div>
@@ -483,7 +508,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa09646_html"><div class="ttname"><a href="../../d6/d37/a09646.html">UpdateRequest</a></div><div class="ttdef"><b>Definition:</b> MapUpdater.cpp:25</div></div>
 <div class="ttc" id="aa09646_html_a8221fa415f828a4866f85f3983f7dab9"><div class="ttname"><a href="../../d6/d37/a09646.html#a8221fa415f828a4866f85f3983f7dab9">UpdateRequest::call</a></div><div class="ttdeci">virtual void call()=0</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00049">_cancelationToken</a>, <a class="el" href="../../#l00046">_queue</a>, <a class="el" href="../../d6/d37/a09646.html#a8221fa415f828a4866f85f3983f7dab9">UpdateRequest::call()</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00071">ProducerConsumerQueue&lt; T &gt;::WaitAndPop()</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00049">_cancelationToken</a>, <a class="el" href="../../#l00047">_queue</a>, <a class="el" href="../../d6/d37/a09646.html#a8221fa415f828a4866f85f3983f7dab9">UpdateRequest::call()</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00071">ProducerConsumerQueue&lt; T &gt;::WaitAndPop()</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00074">activate()</a>.</p>
 
@@ -510,7 +535,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00083">deactivate()</a>, and <a class="el" href="../../#l00142">WorkerThread()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00083">deactivate()</a>, and <a class="el" href="../../#l00144">WorkerThread()</a>.</p>
 
 </div>
 </div>
@@ -534,7 +559,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00133">update_finished()</a>, and <a class="el" href="../../#l00100">wait()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00133">update_finished()</a>, and <a class="el" href="../../#l00101">wait()</a>.</p>
 
 </div>
 </div>
@@ -558,7 +583,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00119">schedule_lfg_update()</a>, <a class="el" href="../../#l00110">schedule_update()</a>, <a class="el" href="../../#l00133">update_finished()</a>, and <a class="el" href="../../#l00100">wait()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00133">update_finished()</a>, and <a class="el" href="../../#l00101">wait()</a>.</p>
 
 </div>
 </div>
@@ -582,7 +607,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00083">deactivate()</a>, <a class="el" href="../../#l00119">schedule_lfg_update()</a>, <a class="el" href="../../#l00110">schedule_update()</a>, and <a class="el" href="../../#l00142">WorkerThread()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00083">deactivate()</a>, <a class="el" href="../../#l00111">schedule_task()</a>, and <a class="el" href="../../#l00144">WorkerThread()</a>.</p>
 
 </div>
 </div>
@@ -610,8 +635,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a347219257a74d7b24a9dfee7658fa6f0" name="a347219257a74d7b24a9dfee7658fa6f0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a347219257a74d7b24a9dfee7658fa6f0">&#9670;&#160;</a></span>pending_requests</h2>
+<a id="aa5243a9d4d3753060570cecde9a3a6e7" name="aa5243a9d4d3753060570cecde9a3a6e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5243a9d4d3753060570cecde9a3a6e7">&#9670;&#160;</a></span>pending_requests</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -620,7 +645,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::size_t MapUpdater::pending_requests</td>
+          <td class="memname">std::atomic&lt;int&gt; MapUpdater::pending_requests</td>
         </tr>
       </table>
   </td>
@@ -630,7 +655,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00119">schedule_lfg_update()</a>, <a class="el" href="../../#l00110">schedule_update()</a>, <a class="el" href="../../#l00133">update_finished()</a>, and <a class="el" href="../../#l00100">wait()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00111">schedule_task()</a>, <a class="el" href="../../#l00133">update_finished()</a>, and <a class="el" href="../../#l00101">wait()</a>.</p>
 
 </div>
 </div>
@@ -640,7 +665,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d25/a09658.html">MapUpdater</a></li>
-    <li class="footer">Generated on Mon Jan 6 2025 20:43:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 13 2025 20:42:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

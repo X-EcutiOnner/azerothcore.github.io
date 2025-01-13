@@ -1,5 +1,6 @@
 var a15766 =
 [
-    [ "at_baltharus_plateau", "d5/d66/a15766.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "d5/d66/a15766.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "boss_general_zarithrianAI", "d8/d3c/a15770.html", "d8/d3c/a15770" ],
+    [ "boss_general_zarithrian", "d5/d66/a15766.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
+    [ "GetAI", "d5/d66/a15766.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
 ];

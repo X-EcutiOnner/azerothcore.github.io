@@ -1,6 +1,11 @@
 var a18958 =
 [
-    [ "npc_nexus_lordAI", "d0/d85/a18962.html", "d0/d85/a18962" ],
-    [ "npc_nexus_lord", "de/d27/a18958.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
-    [ "GetAI", "de/d27/a18958.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
+    [ "npc_nexus_lordAI", "de/d27/a18958.html#a8d26337fdcd055027a20ea91faf7e01b", null ],
+    [ "AttackStart", "de/d27/a18958.html#a2f56dcac815431c887b95e9c09aec361", null ],
+    [ "JustDied", "de/d27/a18958.html#a828007757a618affad71b955681945cf", null ],
+    [ "JustEngagedWith", "de/d27/a18958.html#acfcf227557b1e212eda385e22ccdb981", null ],
+    [ "UpdateAI", "de/d27/a18958.html#ad7ddb98d2daaed386e713e423de4cac9", null ],
+    [ "events", "de/d27/a18958.html#ad20a56e52b22306ca31406d8defa4aa5", null ],
+    [ "pInstance", "de/d27/a18958.html#a81fae70688bcd8c733ea90b06900503d", null ],
+    [ "timer", "de/d27/a18958.html#a8edb133f7ca01a4aa75345c572a505c7", null ]
 ];

@@ -1,17 +1,15 @@
 var a02174 =
 [
-    [ "npc_forest_frog", "dd/d76/a13598.html", "dd/d76/a13598" ],
-    [ "npc_zulaman_hostage", "d6/d95/a13602.html", "d6/d95/a13602" ],
-    [ "npc_zulaman_hostage::npc_zulaman_hostageAI", "dc/de5/a13606.html", "dc/de5/a13606" ],
-    [ "npc_harrison_jones", "d2/d57/a13610.html", "d2/d57/a13610" ],
-    [ "spell_ritual_of_power", "dc/d3f/a13614.html", "dc/d3f/a13614" ],
-    [ "npc_amanishi_lookout", "d7/dc0/a13618.html", "d7/dc0/a13618" ],
-    [ "npc_amanishi_tempest", "de/d5e/a13622.html", "de/d5e/a13622" ],
-    [ "WorldTriggerHutPred", "dd/df4/a13626.html", "dd/df4/a13626" ],
-    [ "WorldTriggerDrumPred", "d1/db3/a13630.html", "d1/db3/a13630" ],
-    [ "npc_amanishi_scout", "dd/dee/a13634.html", "dd/dee/a13634" ],
-    [ "spell_alert_drums", "d5/def/a13638.html", "d5/def/a13638" ],
-    [ "spell_summon_amanishi_sentries", "da/de2/a13642.html", "da/de2/a13642" ],
+    [ "npc_forest_frog", "d6/d95/a13602.html", "d6/d95/a13602" ],
+    [ "npc_zulaman_hostage", "dc/de5/a13606.html", "dc/de5/a13606" ],
+    [ "npc_zulaman_hostage::npc_zulaman_hostageAI", "d2/d57/a13610.html", "d2/d57/a13610" ],
+    [ "npc_harrison_jones", "dc/d3f/a13614.html", "dc/d3f/a13614" ],
+    [ "spell_ritual_of_power", "d7/dc0/a13618.html", "d7/dc0/a13618" ],
+    [ "npc_amanishi_lookout", "de/d5e/a13622.html", "de/d5e/a13622" ],
+    [ "npc_amanishi_tempest", "dd/df4/a13626.html", "dd/df4/a13626" ],
+    [ "npc_amanishi_scout", "d1/db3/a13630.html", "d1/db3/a13630" ],
+    [ "spell_alert_drums", "dd/dee/a13634.html", "dd/dee/a13634" ],
+    [ "spell_summon_amanishi_sentries", "d5/def/a13638.html", "d5/def/a13638" ],
     [ "GOSSIP_HOSTAGE1", "d6/d6e/a02174.html#a7e5907213ed023454f786158e3b1f388", null ],
     [ "Actions", "d6/d6e/a02174.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d4/dd0/a03749.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
@@ -4008,6 +4006,8 @@ var a02174 =
       [ "WEAPON_SPEAR", "d6/d6e/a02174.html#a2e238758e72da0491a67935310819213a704a5913fca77f96bb989586de4d5140", null ]
     ] ],
     [ "AddSC_zulaman", "d6/d6e/a02174.html#a7a3a1617870dd5be1d8b53b0050691dc", null ],
+    [ "IsDrum", "d6/d6e/a02174.html#ac3d86ae5eeaa7565d388a40e507d49fd", null ],
+    [ "IsHut", "d6/d6e/a02174.html#a31b2aad66e4b23946685d8b4be0eb04d", null ],
     [ "ChestEntry", "d6/d6e/a02174.html#aedf2afdf0b3812acadf8a94a8cda5c85", null ],
     [ "HostageEntry", "d6/d6e/a02174.html#aa970a6566d7b3e62eeb8be3f5d647b33", null ]
 ];

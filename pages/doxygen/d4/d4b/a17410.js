@@ -1,7 +1,6 @@
 var a17410 =
 [
-    [ "HandleDummy", "d4/d4b/a17410.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "d4/d4b/a17410.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "d4/d4b/a17410.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "d4/d4b/a17410.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "IgbArtilleryCheck", "d4/d4b/a17410.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "d4/d4b/a17410.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "d4/d4b/a17410.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

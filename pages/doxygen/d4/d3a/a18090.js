@@ -1,9 +1,6 @@
 var a18090 =
 [
-    [ "FilterTargets", "d4/d3a/a18090.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
-    [ "Load", "d4/d3a/a18090.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
-    [ "PrepareSpellScript", "d4/d3a/a18090.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
-    [ "Register", "d4/d3a/a18090.html#afad887fba0d97512a7a13a31977cf42d", null ],
-    [ "Validate", "d4/d3a/a18090.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
-    [ "_instance", "d4/d3a/a18090.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
+    [ "npc_spirit_wardenAI", "d5/dba/a18094.html", "d5/dba/a18094" ],
+    [ "npc_spirit_warden", "d4/d3a/a18090.html#ab585d20eadb7876752d731702db44293", null ],
+    [ "GetAI", "d4/d3a/a18090.html#ab33ab494d7fee64eed7c75464ce60489", null ]
 ];

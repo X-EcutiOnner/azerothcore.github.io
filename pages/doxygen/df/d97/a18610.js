@@ -1,7 +1,6 @@
 var a18610 =
 [
-    [ "DelayedCastMincharEvent", "df/d97/a18610.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "df/d97/a18610.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "df/d97/a18610.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "df/d97/a18610.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "instance_icecrown_citadel_InstanceMapScript", "d9/dde/a18614.html", "d9/dde/a18614" ],
+    [ "instance_icecrown_citadel", "df/d97/a18610.html#a0901e23025cff08d1a7516bbef099ffa", null ],
+    [ "GetInstanceScript", "df/d97/a18610.html#a787c32626681f15f5515385a9ba6b848", null ]
 ];

@@ -1,6 +1,7 @@
 var a19858 =
 [
-    [ "FilterTargets", "db/d58/a19858.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "db/d58/a19858.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "db/d58/a19858.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "HandleAfterEffectApply", "db/d58/a19858.html#a672526de2c71dcae79bacef88f34dc26", null ],
+    [ "PrepareAuraScript", "db/d58/a19858.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
+    [ "Register", "db/d58/a19858.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
+    [ "Validate", "db/d58/a19858.html#ab5833f6218760a7d9829b5d453436302", null ]
 ];

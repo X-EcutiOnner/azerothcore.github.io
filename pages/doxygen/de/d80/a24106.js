@@ -1,6 +1,9 @@
 var a24106 =
 [
-    [ "HandleDamageCalc", "de/d80/a24106.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "de/d80/a24106.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "de/d80/a24106.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "de/d80/a24106.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "de/d80/a24106.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "de/d80/a24106.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "de/d80/a24106.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "de/d80/a24106.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "de/d80/a24106.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

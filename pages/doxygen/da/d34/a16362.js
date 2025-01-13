@@ -1,6 +1,10 @@
 var a16362 =
 [
-    [ "boss_dredAI", "d6/d10/a16366.html", "d6/d10/a16366" ],
-    [ "boss_dred", "da/d34/a16362.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
-    [ "GetAI", "da/d34/a16362.html#ab8276b185f80a92a54327ea28b19c704", null ]
+    [ "boss_dredAI", "da/d34/a16362.html#a4ad04fe31990a37fd6d3a23329350248", null ],
+    [ "GetData", "da/d34/a16362.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
+    [ "JustEngagedWith", "da/d34/a16362.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
+    [ "Reset", "da/d34/a16362.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
+    [ "SetData", "da/d34/a16362.html#a884f48aabc26b054dcd303a91cb88301", null ],
+    [ "UpdateAI", "da/d34/a16362.html#afc12ced9b5026fe3b297560c30e129ed", null ],
+    [ "_raptorCount", "da/d34/a16362.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
 ];

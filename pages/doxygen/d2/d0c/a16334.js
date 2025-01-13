@@ -1,9 +1,7 @@
 var a16334 =
 [
-    [ "npc_concentrated_ballAI", "d2/d0c/a16334.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
-    [ "DoAction", "d2/d0c/a16334.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
-    [ "MovementInform", "d2/d0c/a16334.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
-    [ "MoveToNextPoint", "d2/d0c/a16334.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
-    [ "UpdateAI", "d2/d0c/a16334.html#a6509ff14639bca29b6877db54102d004", null ],
-    [ "despawning", "d2/d0c/a16334.html#a24145c6c4c38b5a1853647d24871090d", null ]
+    [ "HandleAfterEffectAbsorb", "d2/d0c/a16334.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
+    [ "PrepareAuraScript", "d2/d0c/a16334.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
+    [ "Register", "d2/d0c/a16334.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
+    [ "Validate", "d2/d0c/a16334.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
 ];

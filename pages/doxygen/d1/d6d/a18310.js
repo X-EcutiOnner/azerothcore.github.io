@@ -1,6 +1,8 @@
 var a18310 =
 [
-    [ "npc_rotting_frost_giantAI", "dd/da8/a18314.html", "dd/da8/a18314" ],
-    [ "npc_rotting_frost_giant", "d1/d6d/a18310.html#ad4440216e11a00d97af43dc5f3957e95", null ],
-    [ "GetAI", "d1/d6d/a18310.html#aabc388b3690f2d03e903c7f480d52842", null ]
+    [ "npc_rotting_frost_giantAI", "d1/d6d/a18310.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "d1/d6d/a18310.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "d1/d6d/a18310.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "d1/d6d/a18310.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "d1/d6d/a18310.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

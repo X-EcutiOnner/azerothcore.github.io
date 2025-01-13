@@ -1,6 +1,7 @@
 var a24970 =
 [
-    [ "PrepareSpellScript", "dd/d08/a24970.html#abb178100d4e5fa4032118f86aa34127d", null ],
-    [ "Register", "dd/d08/a24970.html#a50e902cc281b909259097a8bed5651f2", null ],
-    [ "RemoveVehicleAuras", "dd/d08/a24970.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
+    [ "EjectPassenger", "dd/d08/a24970.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "dd/d08/a24970.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "dd/d08/a24970.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "dd/d08/a24970.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

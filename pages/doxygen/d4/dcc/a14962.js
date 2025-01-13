@@ -1,8 +1,7 @@
 var a14962 =
 [
-    [ "npc_obsidian_eradicator", "d4/dcc/a14962.html#a84a6c414b3d74468143984e57f83e383", null ],
-    [ "JustEngagedWith", "d4/dcc/a14962.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
-    [ "Reset", "d4/dcc/a14962.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
-    [ "UpdateAI", "d4/dcc/a14962.html#a1697d83e89559f047d5bab652007bb61", null ],
-    [ "_targetGUIDs", "d4/dcc/a14962.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
+    [ "npc_anubisath_warder", "d4/dcc/a14962.html#aebe14673e5c31000a9626e39d87c6775", null ],
+    [ "JustEngagedWith", "d4/dcc/a14962.html#a579318fa519eb669573b2cea78c2fee3", null ],
+    [ "Reset", "d4/dcc/a14962.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
+    [ "UpdateAI", "d4/dcc/a14962.html#aba428f1f1a016191aa4f168c616c3a29", null ]
 ];

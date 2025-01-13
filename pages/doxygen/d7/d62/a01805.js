@@ -1,8 +1,8 @@
 var a01805 =
 [
-    [ "boss_volazj", "d0/de0/a15534.html", "d0/de0/a15534" ],
-    [ "spell_herald_volzaj_insanity", "d4/d0b/a15538.html", "d4/d0b/a15538" ],
-    [ "spell_volazj_whisper", "de/d2f/a15542.html", "de/d2f/a15542" ],
+    [ "boss_volazj", "d4/d4b/a15530.html", "d4/d4b/a15530" ],
+    [ "spell_herald_volzaj_insanity", "d0/de0/a15534.html", "d0/de0/a15534" ],
+    [ "spell_volazj_whisper", "d4/d0b/a15538.html", "d4/d0b/a15538" ],
     [ "Events", "d7/d62/a01805.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d5f/a02216.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d5f/a02216.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

@@ -1,6 +1,7 @@
 var a16482 =
 [
-    [ "PrepareSpellScript", "dd/d26/a16482.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "dd/d26/a16482.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "dd/d26/a16482.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "HandlePeriodicTick", "dd/d26/a16482.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
+    [ "PrepareAuraScript", "dd/d26/a16482.html#aabaef31a3c699c322e24e064f357f82f", null ],
+    [ "Register", "dd/d26/a16482.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
+    [ "Validate", "dd/d26/a16482.html#a18d92a82760992bc5d8503e3f774f208", null ]
 ];

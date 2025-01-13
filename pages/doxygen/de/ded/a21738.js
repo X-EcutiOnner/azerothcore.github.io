@@ -1,6 +1,6 @@
 var a21738 =
 [
-    [ "npc_razael_and_lyana", "de/ded/a21738.html#aec7257a1136a3580e2b4542e032429d6", null ],
-    [ "OnGossipHello", "de/ded/a21738.html#a9c9085db92853d5275c12e804a68b0fc", null ],
-    [ "OnGossipSelect", "de/ded/a21738.html#a407d8344280e8e38efb3991fda1d52cd", null ]
+    [ "npc_black_knight_graveyardAI", "d8/d89/a21742.html", "d8/d89/a21742" ],
+    [ "npc_black_knight_graveyard", "de/ded/a21738.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
+    [ "GetAI", "de/ded/a21738.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
 ];

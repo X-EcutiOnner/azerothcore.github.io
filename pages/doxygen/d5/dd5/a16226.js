@@ -1,7 +1,6 @@
 var a16226 =
 [
-    [ "HandleDispel", "d5/dd5/a16226.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "d5/dd5/a16226.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "d5/dd5/a16226.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "d5/dd5/a16226.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "boss_jaraxxusAI", "d7/dea/a16230.html", "d7/dea/a16230" ],
+    [ "boss_jaraxxus", "d5/dd5/a16226.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
+    [ "GetAI", "d5/dd5/a16226.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
 ];

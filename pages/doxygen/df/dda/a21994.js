@@ -1,6 +1,6 @@
 var a21994 =
 [
-    [ "npc_roxi_ramrocket", "df/dda/a21994.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "df/dda/a21994.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "df/dda/a21994.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "npc_brunnhildar_prisonerAI", "d6/d9b/a21998.html", "d6/d9b/a21998" ],
+    [ "npc_brunnhildar_prisoner", "df/dda/a21994.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
+    [ "GetAI", "df/dda/a21994.html#aa2a1787849c74a5163a39137c9d03d57", null ]
 ];

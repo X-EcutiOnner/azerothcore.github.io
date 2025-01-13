@@ -35,6 +35,7 @@ var a11474 =
     [ "HandleMuteInfoCommand", "d4/d57/a11474.html#af11cc1d015103bed5d1d2391f46d1df1", null ],
     [ "HandleMuteInfoHelper", "d4/d57/a11474.html#a84d8e28f6d75e913e9cca02785997967", null ],
     [ "HandleNearGraveCommand", "d4/d57/a11474.html#a85a9c32bf77c68bb63952acacabc4003", null ],
+    [ "HandleOpenDoorCommand", "d4/d57/a11474.html#a5d6996cc2af57dd5abd6c9e9ca0cc044", null ],
     [ "HandlePInfoCommand", "d4/d57/a11474.html#a54c43e9d181f5b5bd06f229609264f64", null ],
     [ "HandlePlayAllCommand", "d4/d57/a11474.html#a1fb21e495d53983db29793dc5ecb8a41", null ],
     [ "HandlePossessCommand", "d4/d57/a11474.html#af7e879af94a5c48cd3c1194fdc118ec8", null ],

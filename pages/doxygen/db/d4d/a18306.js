@@ -1,13 +1,6 @@
 var a18306 =
 [
-    [ "npc_highlord_tirion_fordringAI", "db/d4d/a18306.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "db/d4d/a18306.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "db/d4d/a18306.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "db/d4d/a18306.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "db/d4d/a18306.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "db/d4d/a18306.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "db/d4d/a18306.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "db/d4d/a18306.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "db/d4d/a18306.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "db/d4d/a18306.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "npc_rotting_frost_giantAI", "d1/d6d/a18310.html", "d1/d6d/a18310" ],
+    [ "npc_rotting_frost_giant", "db/d4d/a18306.html#ad4440216e11a00d97af43dc5f3957e95", null ],
+    [ "GetAI", "db/d4d/a18306.html#aabc388b3690f2d03e903c7f480d52842", null ]
 ];

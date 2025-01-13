@@ -1,6 +1,7 @@
 var a23994 =
 [
-    [ "npc_kservantAI", "d6/df3/a23998.html", "d6/df3/a23998" ],
-    [ "npc_kservant", "d8/d4e/a23994.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d8/d4e/a23994.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "npc_kservantAI", "d8/d4e/a23994.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d8/d4e/a23994.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d8/d4e/a23994.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "d8/d4e/a23994.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
 ];

@@ -1,7 +1,8 @@
 var a24834 =
 [
-    [ "HandleDummy", "dc/d14/a24834.html#af5d0fc4e596c04c6ca3faf4079f6b602", null ],
-    [ "Load", "dc/d14/a24834.html#a4098aa621012c5e3623ee905d2d2c8eb", null ],
-    [ "PrepareSpellScript", "dc/d14/a24834.html#ad9d1823fa4302334419e6f9a01f0a728", null ],
-    [ "Register", "dc/d14/a24834.html#a4d683270dc086454630475d39f0105e8", null ]
+    [ "OnApply", "dc/d14/a24834.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
+    [ "OnRemove", "dc/d14/a24834.html#abd45d59ecd41274bd02c17fb066a521e", null ],
+    [ "PrepareAuraScript", "dc/d14/a24834.html#af30811301599459bf2a99a68608a053f", null ],
+    [ "Register", "dc/d14/a24834.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
+    [ "Validate", "dc/d14/a24834.html#a29c5049e4455737ff96596a18af118d0", null ]
 ];

@@ -1,7 +1,8 @@
 var a23830 =
 [
-    [ "npc_bessyAI", "d0/d81/a23834.html", "d0/d81/a23834" ],
-    [ "npc_bessy", "d5/d27/a23830.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "d5/d27/a23830.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "d5/d27/a23830.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "npc_bessyAI", "d5/d27/a23830.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "d5/d27/a23830.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "d5/d27/a23830.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "d5/d27/a23830.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "d5/d27/a23830.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
 ];

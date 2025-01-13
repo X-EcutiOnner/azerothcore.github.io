@@ -1,6 +1,9 @@
 var a18094 =
 [
-    [ "npc_spirit_wardenAI", "d4/d57/a18098.html", "d4/d57/a18098" ],
-    [ "npc_spirit_warden", "d5/dba/a18094.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "d5/dba/a18094.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "npc_spirit_wardenAI", "d5/dba/a18094.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "d5/dba/a18094.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "d5/dba/a18094.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "d5/dba/a18094.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "d5/dba/a18094.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "d5/dba/a18094.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

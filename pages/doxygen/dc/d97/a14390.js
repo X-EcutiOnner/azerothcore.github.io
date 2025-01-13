@@ -1,8 +1,6 @@
 var a14390 =
 [
-    [ "hyjalTyrandeAI", "dc/d97/a14390.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
-    [ "JustDied", "dc/d97/a14390.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
-    [ "JustEngagedWith", "dc/d97/a14390.html#a158589b567d22c8f6e0be462bad8299d", null ],
-    [ "Reset", "dc/d97/a14390.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
-    [ "UpdateAI", "dc/d97/a14390.html#a9e825f9d87df6227b73eb965488eff8a", null ]
+    [ "HandleHeal", "dc/d97/a14390.html#a953536a9a393af9472bdd89018449df0", null ],
+    [ "PrepareSpellScript", "dc/d97/a14390.html#a70503fc6042001a860d361f2597b7153", null ],
+    [ "Register", "dc/d97/a14390.html#a383479896e6deb96e50b827370ccfd4d", null ]
 ];

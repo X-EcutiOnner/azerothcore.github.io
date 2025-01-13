@@ -1,6 +1,6 @@
 var a17574 =
 [
-    [ "npc_gas_cloudAI", "dc/de0/a17578.html", "dc/de0/a17578" ],
-    [ "npc_gas_cloud", "df/d32/a17574.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
-    [ "GetAI", "df/d32/a17574.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
+    [ "npc_gas_cloudAI", "df/d32/a17574.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
+    [ "CastMainSpell", "df/d32/a17574.html#a61681f6f9616fe33274302d4160c709b", null ],
+    [ "_newTargetSelectTimer", "df/d32/a17574.html#a6989b904abaa5b71362e43664f4b084d", null ]
 ];

@@ -1,8 +1,6 @@
 var a21934 =
 [
-    [ "CheckCast", "d4/d03/a21934.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "d4/d03/a21934.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "d4/d03/a21934.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "d4/d03/a21934.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "d4/d03/a21934.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "npc_vics_flying_machineAI", "d7/d10/a21938.html", "d7/d10/a21938" ],
+    [ "npc_vics_flying_machine", "d4/d03/a21934.html#ac0f1e83a9f53f1e38e81804f0332e3fd", null ],
+    [ "GetAI", "d4/d03/a21934.html#aac2a7cabd2e87705e9a1b3bfebb89eae", null ]
 ];

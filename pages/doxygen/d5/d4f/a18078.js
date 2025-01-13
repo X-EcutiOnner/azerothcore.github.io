@@ -1,6 +1,11 @@
 var a18078 =
 [
-    [ "npc_terenas_menethilAI", "dc/d33/a18082.html", "dc/d33/a18082" ],
-    [ "npc_terenas_menethil", "d5/d4f/a18078.html#a6b6850598c582e3d44c13275302fd32d", null ],
-    [ "GetAI", "d5/d4f/a18078.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
+    [ "npc_terenas_menethilAI", "d5/d4f/a18078.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
+    [ "CanAIAttack", "d5/d4f/a18078.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
+    [ "DamageTaken", "d5/d4f/a18078.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
+    [ "DoAction", "d5/d4f/a18078.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
+    [ "EnterEvadeMode", "d5/d4f/a18078.html#ada5313b34e8c20c82ac97396e54e27df", null ],
+    [ "UpdateAI", "d5/d4f/a18078.html#a6210ca6e5e954d5c66d2108359efc888", null ],
+    [ "_events", "d5/d4f/a18078.html#ae61e4919b99a2b9195a389992947a125", null ],
+    [ "_instance", "d5/d4f/a18078.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
 ];

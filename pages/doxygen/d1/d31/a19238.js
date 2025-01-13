@@ -1,6 +1,6 @@
 var a19238 =
 [
-    [ "CalculateDamage", "d1/d31/a19238.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "d1/d31/a19238.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "d1/d31/a19238.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "boss_volkhanAI", "d5/dea/a19242.html", "d5/dea/a19242" ],
+    [ "boss_volkhan", "d1/d31/a19238.html#a9dcb6026fbf3116df9abf5acaf1bfcc2", null ],
+    [ "GetAI", "d1/d31/a19238.html#aa0f76b387f9f74e0eb6dedd1b44ce34a", null ]
 ];

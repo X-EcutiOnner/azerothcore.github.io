@@ -1,6 +1,6 @@
 var a17370 =
 [
-    [ "IgbExplosionCheck", "de/d5f/a17370.html#ae67cca111f26a275614810cbe053bcd8", null ],
-    [ "operator()", "de/d5f/a17370.html#a28ce6685366e99db2aa1e4022012f943", null ],
-    [ "_source", "de/d5f/a17370.html#a413ee8f2218621d274d118aea967dc9b", null ]
+    [ "PrepareSpellScript", "de/d5f/a17370.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
+    [ "Register", "de/d5f/a17370.html#a651f52f7d242251ff69d100fd69376e4", null ],
+    [ "SelectTarget", "de/d5f/a17370.html#aede083ebebe38deb5898ff028564ef95", null ]
 ];

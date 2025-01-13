@@ -1,12 +1,6 @@
 var a21974 =
 [
-    [ "npc_time_lost_proto_drakeAI", "de/df7/a21974.html#ab98805519233eda932c6131aca059a8b", null ],
-    [ "JustEngagedWith", "de/df7/a21974.html#a14f41b30451b8ac8fe2411ec7102ae81", null ],
-    [ "Reset", "de/df7/a21974.html#a418ea9621040e3c717c4e24f73539f44", null ],
-    [ "RollPath", "de/df7/a21974.html#aabb3dd1d54a1290d500429efc8fa9e41", null ],
-    [ "UpdateEscortAI", "de/df7/a21974.html#a1a5442a5796b27d04eaa3ab62c613199", null ],
-    [ "WaypointReached", "de/df7/a21974.html#ad262b9dbc0edd2bac126fafbb5eb5f01", null ],
-    [ "events", "de/df7/a21974.html#aa2e4c3396d63d85a5d0abc8c74e58a79", null ],
-    [ "rollPath", "de/df7/a21974.html#a5431fd5a0801569bc03507818461aa7d", null ],
-    [ "setVisible", "de/df7/a21974.html#a63558b3406c241ecb27f3e485eeb439b", null ]
+    [ "npc_wild_wyrmAI", "da/d10/a21978.html", "da/d10/a21978" ],
+    [ "npc_wild_wyrm", "de/df7/a21974.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
+    [ "GetAI", "de/df7/a21974.html#aedba91446fe12997047070f123d925d2", null ]
 ];

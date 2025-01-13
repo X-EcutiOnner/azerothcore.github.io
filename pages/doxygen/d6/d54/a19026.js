@@ -1,5 +1,7 @@
 var a19026 =
 [
-    [ "achievement_chaos_theory", "d6/d54/a19026.html#a3068009fa1fb400439a2c72f00296484", null ],
-    [ "OnCheck", "d6/d54/a19026.html#a68d9a577cb7e005d81f52077707e3555", null ]
+    [ "boss_commander_stoutbeard", "d6/d54/a19026.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "d6/d54/a19026.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "d6/d54/a19026.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "d6/d54/a19026.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

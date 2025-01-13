@@ -1,6 +1,6 @@
 var a21710 =
 [
-    [ "npc_attracted_reef_bullAI", "d2/d0e/a21710.html#aa8917a912fb31a5987332e53e8d268e7", null ],
-    [ "MovementInform", "d2/d0e/a21710.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
-    [ "SpellHit", "d2/d0e/a21710.html#ab06ee7ef84d881262ae682b69fae3135", null ]
+    [ "npc_your_inner_turmoilAI", "d6/d05/a21714.html", "d6/d05/a21714" ],
+    [ "npc_your_inner_turmoil", "d2/d0e/a21710.html#a72856ef469bb8f6ff4a89a16159479af", null ],
+    [ "GetAI", "d2/d0e/a21710.html#a29c8f76b072e891face1225770688ca6", null ]
 ];

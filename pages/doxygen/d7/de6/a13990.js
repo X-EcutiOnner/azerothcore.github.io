@@ -1,8 +1,11 @@
 var a13990 =
 [
-    [ "OnApply", "d7/de6/a13990.html#a6f3f05316f025ef638672a82cc855136", null ],
-    [ "PeriodicTick", "d7/de6/a13990.html#a051d292f9483e6b82d773fba3ab52460", null ],
-    [ "PrepareAuraScript", "d7/de6/a13990.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
-    [ "Register", "d7/de6/a13990.html#a0004de73250b8523db2b9ab714c8a246", null ],
-    [ "Validate", "d7/de6/a13990.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
+    [ "npc_winterfin_playmate", "d7/de6/a13990.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
+    [ "MoveInLineOfSight", "d7/de6/a13990.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
+    [ "Reset", "d7/de6/a13990.html#aae6b51c22dc0448608c1cf9412565e25", null ],
+    [ "UpdateAI", "d7/de6/a13990.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
+    [ "orphanGUID", "d7/de6/a13990.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
+    [ "phase", "d7/de6/a13990.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
+    [ "playerGUID", "d7/de6/a13990.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
+    [ "timer", "d7/de6/a13990.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
 ];

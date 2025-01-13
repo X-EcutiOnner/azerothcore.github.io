@@ -1,6 +1,12 @@
 var a16610 =
 [
-    [ "npc_tortured_riflemanAI", "d1/d36/a16614.html", "d1/d36/a16614" ],
-    [ "npc_tortured_rifleman", "d6/df0/a16610.html#a32e4164864c3873b3684ad531a2e924a", null ],
-    [ "GetAI", "d6/df0/a16610.html#aaef71feb7077c561eb2bcf7d4fc411c7", null ]
+    [ "npc_tortured_riflemanAI", "d6/df0/a16610.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
+    [ "AttackStart", "d6/df0/a16610.html#aaf2b73d0b60791f887207842580d91dc", null ],
+    [ "DoAction", "d6/df0/a16610.html#acb941c20d911a567c93bb0f92105fdfd", null ],
+    [ "EnterEvadeMode", "d6/df0/a16610.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
+    [ "JustDied", "d6/df0/a16610.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
+    [ "JustEngagedWith", "d6/df0/a16610.html#ac5d8f17c48269da06c14643e82c88567", null ],
+    [ "Reset", "d6/df0/a16610.html#a04f9c7056e063d436df66f079127d1a7", null ],
+    [ "UpdateAI", "d6/df0/a16610.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
+    [ "events", "d6/df0/a16610.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
 ];

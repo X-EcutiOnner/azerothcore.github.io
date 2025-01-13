@@ -1,8 +1,6 @@
 var a19062 =
 [
-    [ "npc_crystal_spike", "d7/d3e/a19062.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "d7/d3e/a19062.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "d7/d3e/a19062.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "d7/d3e/a19062.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "d7/d3e/a19062.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "instance_nexus_InstanceMapScript", "db/d43/a19066.html", "db/d43/a19066" ],
+    [ "instance_nexus", "d7/d3e/a19062.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
+    [ "GetInstanceScript", "d7/d3e/a19062.html#a156210ba08caa0572c775dbd5851b250", null ]
 ];

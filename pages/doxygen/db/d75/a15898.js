@@ -1,6 +1,6 @@
 var a15898 =
 [
-    [ "npc_living_infernoAI", "db/d75/a15898.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "db/d75/a15898.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "db/d75/a15898.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "boss_saviana_ragefireAI", "dc/d8f/a15902.html", "dc/d8f/a15902" ],
+    [ "boss_saviana_ragefire", "db/d75/a15898.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "db/d75/a15898.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

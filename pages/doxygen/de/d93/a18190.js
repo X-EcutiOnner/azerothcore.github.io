@@ -1,12 +1,6 @@
 var a18190 =
 [
-    [ "npc_the_lich_king_controllerAI", "de/d93/a18190.html#a211c370e9c370e00fba3c83e51738886", null ],
-    [ "AttackStart", "de/d93/a18190.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
-    [ "DoAction", "de/d93/a18190.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
-    [ "JustSummoned", "de/d93/a18190.html#aa610e24316505165cbb826ff5bece5c5", null ],
-    [ "MoveInLineOfSight", "de/d93/a18190.html#a0ee33ab5733c12163e92213376e893e4", null ],
-    [ "Reset", "de/d93/a18190.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
-    [ "UpdateAI", "de/d93/a18190.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
-    [ "_events", "de/d93/a18190.html#a90c3d818318004c7c21ec66d4d080615", null ],
-    [ "_instance", "de/d93/a18190.html#a480a284881ba5f56bc6222607bd01a76", null ]
+    [ "npc_risen_archmageAI", "d9/d4b/a18194.html", "d9/d4b/a18194" ],
+    [ "npc_risen_archmage", "de/d93/a18190.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
+    [ "GetAI", "de/d93/a18190.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
 ];
