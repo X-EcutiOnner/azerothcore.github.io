@@ -1,6 +1,6 @@
 var a20918 =
 [
-    [ "instance_utgarde_pinnacle_InstanceMapScript", "d9/d33/a20922.html", "d9/d33/a20922" ],
-    [ "instance_utgarde_pinnacle", "d2/d22/a20918.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
-    [ "GetInstanceScript", "d2/d22/a20918.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
+    [ "boss_emalonAI", "d9/d33/a20922.html", "d9/d33/a20922" ],
+    [ "boss_emalon", "d2/d22/a20918.html#a2dd481292e02337bebd450f5c9821886", null ],
+    [ "GetAI", "d2/d22/a20918.html#a345b0663ba89de5e37b87a436c48e446", null ]
 ];

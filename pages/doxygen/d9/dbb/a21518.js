@@ -1,6 +1,6 @@
 var a21518 =
 [
-    [ "SACActivateEvent", "d9/dbb/a21518.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
-    [ "Execute", "d9/dbb/a21518.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
-    [ "_owner", "d9/dbb/a21518.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
+    [ "npc_q24545_vegard_dummyAI", "df/d27/a21522.html", "df/d27/a21522" ],
+    [ "npc_q24545_vegard_dummy", "d9/dbb/a21518.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "d9/dbb/a21518.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

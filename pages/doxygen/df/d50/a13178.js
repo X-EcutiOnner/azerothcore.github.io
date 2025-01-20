@@ -1,8 +1,6 @@
 var a13178 =
 [
-    [ "HandleApply", "df/d50/a13178.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "df/d50/a13178.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "df/d50/a13178.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "df/d50/a13178.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "df/d50/a13178.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "instance_the_stockade_InstanceMapScript", "d6/dc0/a13182.html", "d6/dc0/a13182" ],
+    [ "instance_the_stockade", "df/d50/a13178.html#a533049c10a72da4b94f9807017f28c0d", null ],
+    [ "GetInstanceScript", "df/d50/a13178.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
 ];

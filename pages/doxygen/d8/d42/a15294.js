@@ -1,9 +1,6 @@
 var a15294 =
 [
-    [ "go_wind_stoneAI", "d8/d42/a15294.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
-    [ "GossipHello", "d8/d42/a15294.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
-    [ "GossipSelect", "d8/d42/a15294.html#aff4dedbf3a6fea405722f7064633edb1", null ],
-    [ "InitializeAI", "d8/d42/a15294.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
-    [ "SummonNPC", "d8/d42/a15294.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
-    [ "_creatureGuid", "d8/d42/a15294.html#a50ad8b248381a6d9fac7a291796966d6", null ]
+    [ "npc_custodian_of_timeAI", "d4/d38/a15298.html", "d4/d38/a15298" ],
+    [ "npc_custodian_of_time", "d8/d42/a15294.html#a6018b30119ce819853a3c662b3d5347e", null ],
+    [ "GetAI", "d8/d42/a15294.html#a57217b2dab1cab110f1c59526ca13c86", null ]
 ];

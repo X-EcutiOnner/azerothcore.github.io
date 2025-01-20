@@ -1,7 +1,7 @@
 var a15094 =
 [
-    [ "npc_prospector_remtravelAI", "d4/dcc/a15098.html", "d4/dcc/a15098" ],
-    [ "npc_prospector_remtravel", "d3/dd4/a15094.html#aa213161fc60e615682252125f6c58f7f", null ],
-    [ "GetAI", "d3/dd4/a15094.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
-    [ "OnQuestAccept", "d3/dd4/a15094.html#a5e11149b6359927a71c98242d979e65b", null ]
+    [ "npc_cork_gizeltonAI", "d4/dcc/a15098.html", "d4/dcc/a15098" ],
+    [ "npc_cork_gizelton", "d3/dd4/a15094.html#a915aa2abc18109e7d0197863f59536f2", null ],
+    [ "GetAI", "d3/dd4/a15094.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
+    [ "OnQuestAccept", "d3/dd4/a15094.html#a11dc1fea0a24add451272b537298fc13", null ]
 ];

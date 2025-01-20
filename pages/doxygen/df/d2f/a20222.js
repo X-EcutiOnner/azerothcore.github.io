@@ -1,5 +1,7 @@
 var a20222 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "df/d2f/a20222.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "df/d2f/a20222.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "npc_ulduar_expedition_commanderAI", "df/d2f/a20222.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "df/d2f/a20222.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "df/d2f/a20222.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "df/d2f/a20222.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

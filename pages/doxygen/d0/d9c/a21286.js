@@ -1,6 +1,6 @@
 var a21286 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "db/d50/a21290.html", "db/d50/a21290" ],
-    [ "npc_valiance_keep_cannoneer", "d0/d9c/a21286.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "d0/d9c/a21286.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "HandleEffect", "d0/d9c/a21286.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
+    [ "PrepareSpellScript", "d0/d9c/a21286.html#aec199e9f9651267fac88bd86be326bb4", null ],
+    [ "Register", "d0/d9c/a21286.html#a14bd854db86750704c8377d457dea360", null ]
 ];

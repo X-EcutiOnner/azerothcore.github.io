@@ -1,6 +1,7 @@
 var a13334 =
 [
-    [ "npc_grand_magister_rommathAI", "d2/dc0/a13338.html", "d2/dc0/a13338" ],
-    [ "npc_grand_magister_rommath", "df/d68/a13334.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
-    [ "GetAI", "df/d68/a13334.html#abd64eff4712e8209e39e938b1813250c", null ]
+    [ "npc_deathstalker_erlandAI", "d2/dc0/a13338.html", "d2/dc0/a13338" ],
+    [ "npc_deathstalker_erland", "df/d68/a13334.html#ad49faf068e982f245f0d1e21f0700c40", null ],
+    [ "GetAI", "df/d68/a13334.html#ab59235f212ddb985056cb8e32719b723", null ],
+    [ "OnQuestAccept", "df/d68/a13334.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
 ];

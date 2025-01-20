@@ -1,6 +1,10 @@
 var a21330 =
 [
-    [ "npc_thassarian2AI", "d4/d11/a21334.html", "d4/d11/a21334" ],
-    [ "npc_thassarian2", "d3/dac/a21330.html#a8a2f1e1595349e4fa9968e85f17d0468", null ],
-    [ "GetAI", "d3/dac/a21330.html#adb87c99f3375f88eca55b39e1cd0bbd5", null ]
+    [ "npc_preparations_for_war_vehicle", "d3/dac/a21330.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
+    [ "InitializeAI", "d3/dac/a21330.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
+    [ "MovementInform", "d3/dac/a21330.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
+    [ "UpdateAI", "d3/dac/a21330.html#ae40a23070d96ecf122e9de5571a845ef", null ],
+    [ "pointId", "d3/dac/a21330.html#ae75d286eb6116b41adb346861b3c1365", null ],
+    [ "searchForShipTimer", "d3/dac/a21330.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
+    [ "transportEntry", "d3/dac/a21330.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

@@ -1,6 +1,6 @@
 var a15874 =
 [
-    [ "PrepareSpellScript", "dd/dd6/a15874.html#a743f910c3854e2c4e726e97c55fa7038", null ],
-    [ "Register", "dd/dd6/a15874.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
-    [ "RemoveNotBetween", "dd/dd6/a15874.html#aba462e5b8e9336a508d19606f98750b5", null ]
+    [ "boss_saviana_ragefireAI", "d3/db4/a15878.html", "d3/db4/a15878" ],
+    [ "boss_saviana_ragefire", "dd/dd6/a15874.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "dd/dd6/a15874.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

@@ -1,6 +1,5 @@
 var a18118 =
 [
-    [ "npc_lk_spirit_bombAI", "da/dbe/a18122.html", "da/dbe/a18122" ],
-    [ "npc_lk_spirit_bomb", "de/d37/a18118.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "de/d37/a18118.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "achievement_neck_deep_in_vile", "de/d37/a18118.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "de/d37/a18118.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

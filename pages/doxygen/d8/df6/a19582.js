@@ -1,11 +1,9 @@
 var a19582 =
 [
-    [ "boss_flame_leviathan_defense_turretAI", "d8/df6/a19582.html#aedf30f06fe89c805019f7cc254646ff1", null ],
-    [ "CanAIAttack", "d8/df6/a19582.html#a76efa1d88ce029775809abb3ec88efb3", null ],
-    [ "DamageTaken", "d8/df6/a19582.html#adedbbeeb01da20843bc85ac2daaed12a", null ],
-    [ "JustDied", "d8/df6/a19582.html#af261cc1f0458984719ab1bb4518bdc64", null ],
-    [ "KilledUnit", "d8/df6/a19582.html#aed3f2a4bac3391683989eec94697ef16", null ],
-    [ "UpdateAI", "d8/df6/a19582.html#a575eb381d1aa31af60484271ae6e4627", null ],
-    [ "_instance", "d8/df6/a19582.html#a8c0658a5d32355607cb16f6e1c83f83e", null ],
-    [ "_setHealth", "d8/df6/a19582.html#aeb220ded0a6515674a428716a8be9f48", null ]
+    [ "npc_hodirs_furyAI", "d8/df6/a19582.html#ae08a68a79a3fef952f6dfa50b4eaabca", null ],
+    [ "MovementInform", "d8/df6/a19582.html#a37b07ddee5403ee2de8f69904412ed42", null ],
+    [ "Reset", "d8/df6/a19582.html#a389f0f17fbc7860c5531f4859be561d3", null ],
+    [ "UpdateAI", "d8/df6/a19582.html#a5417d68891ad0f93c8130c9a14d57513", null ],
+    [ "_switchTargetTimer", "d8/df6/a19582.html#a8d15c1e290438c8a4aa50887cfffccba", null ],
+    [ "_timeToHit", "d8/df6/a19582.html#a594356602bd0068fba82bea64e284837", null ]
 ];

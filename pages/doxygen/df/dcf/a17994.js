@@ -1,6 +1,6 @@
 var a17994 =
 [
-    [ "HandleScript", "df/dcf/a17994.html#aa05c6e510e933a71a6bce8d653632ebd", null ],
-    [ "PrepareSpellScript", "df/dcf/a17994.html#add6b78f0396a34c36e0dff1928889e43", null ],
-    [ "Register", "df/dcf/a17994.html#a587247f7417cefa2b8aa5a8edb8e2616", null ]
+    [ "npc_valkyr_shadowguardAI", "da/da5/a17998.html", "da/da5/a17998" ],
+    [ "npc_valkyr_shadowguard", "df/dcf/a17994.html#a8ee90e21499eebf240c57419454c3829", null ],
+    [ "GetAI", "df/dcf/a17994.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
 ];

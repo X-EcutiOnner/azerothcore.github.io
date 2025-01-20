@@ -1,6 +1,8 @@
 var a22030 =
 [
-    [ "HandleScriptEffect", "db/d81/a22030.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "db/d81/a22030.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "db/d81/a22030.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "npc_wg_queueAI", "df/dc1/a22034.html", "df/dc1/a22034" ],
+    [ "npc_wg_queue", "db/d81/a22030.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
+    [ "GetAI", "db/d81/a22030.html#ad2d7746a32b520d37ea826b03627de4e", null ],
+    [ "OnGossipHello", "db/d81/a22030.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
+    [ "OnGossipSelect", "db/d81/a22030.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
 ];

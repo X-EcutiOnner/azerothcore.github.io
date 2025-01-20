@@ -1,7 +1,8 @@
 var a13818 =
 [
-    [ "HandleApply", "da/da7/a13818.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
-    [ "HandleRemove", "da/da7/a13818.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
-    [ "PrepareAuraScript", "da/da7/a13818.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
-    [ "Register", "da/da7/a13818.html#af2343add2ed014832bd34d11519b391b", null ]
+    [ "boss_venoxis", "da/da7/a13818.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "da/da7/a13818.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "da/da7/a13818.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "da/da7/a13818.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "da/da7/a13818.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

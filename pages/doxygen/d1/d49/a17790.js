@@ -1,5 +1,7 @@
 var a17790 =
 [
-    [ "operator()", "d1/d49/a17790.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
-    [ "operator()", "d1/d49/a17790.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
+    [ "PeriodicTick", "d1/d49/a17790.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4", null ],
+    [ "PrepareAuraScript", "d1/d49/a17790.html#afcadfbdd84608e827b89c64bf03c8501", null ],
+    [ "Register", "d1/d49/a17790.html#a0e8e8685ce8c1eea2b60e8bf6aeed782", null ],
+    [ "Validate", "d1/d49/a17790.html#a879b657d94c1faf6225fe64f907cdf82", null ]
 ];

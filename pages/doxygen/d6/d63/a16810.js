@@ -1,6 +1,6 @@
 var a16810 =
 [
-    [ "npc_pos_freed_slaveAI", "d6/d63/a16810.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
-    [ "CanAIAttack", "d6/d63/a16810.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
-    [ "EnterEvadeMode", "d6/d63/a16810.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
+    [ "HandleDummy", "d6/d63/a16810.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
+    [ "PrepareSpellScript", "d6/d63/a16810.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
+    [ "Register", "d6/d63/a16810.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
 ];

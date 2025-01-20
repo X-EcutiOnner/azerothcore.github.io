@@ -1,6 +1,8 @@
 var a14354 =
 [
-    [ "FilterTargets", "d6/d7b/a14354.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "d6/d7b/a14354.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "d6/d7b/a14354.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "hyjalThrallAI", "d6/d7b/a14354.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
+    [ "JustDied", "d6/d7b/a14354.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
+    [ "JustEngagedWith", "d6/d7b/a14354.html#a96706138634275ae7639c14f53cdd842", null ],
+    [ "Reset", "d6/d7b/a14354.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
+    [ "UpdateAI", "d6/d7b/a14354.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
 ];

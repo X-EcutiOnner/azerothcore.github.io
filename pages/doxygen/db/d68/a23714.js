@@ -1,6 +1,6 @@
 var a23714 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d0/d96/a23718.html", "d0/d96/a23718" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "db/d68/a23714.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
-    [ "GetAI", "db/d68/a23714.html#a60d55e2eda4484ceea4e475ac8653977", null ]
+    [ "npc_ancestral_wolfAI", "d0/d96/a23718.html", "d0/d96/a23718" ],
+    [ "npc_ancestral_wolf", "db/d68/a23714.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "db/d68/a23714.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

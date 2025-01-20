@@ -1,5 +1,5 @@
 var a27086 =
 [
-    [ "go_duskwither_spire_power_source", "d5/d9a/a27086.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "d5/d9a/a27086.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "item_incendiary_explosives", "d5/d9a/a27086.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "d5/d9a/a27086.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

@@ -5,11 +5,12 @@ var a12790 =
     [ "GetGuidData", "dc/d68/a12790.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
     [ "OnCreatureCreate", "dc/d68/a12790.html#a71fcfc166f945325a4ee149645a9ccef", null ],
     [ "OnGameObjectCreate", "dc/d68/a12790.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
-    [ "OnPlayerAreaUpdate", "dc/d68/a12790.html#a542669592205682d96ff4f7915dffe89", null ],
-    [ "OnPlayerEnter", "dc/d68/a12790.html#abda4eed65fa6e53d7c5ebeaa2816dd19", null ],
     [ "SetData", "dc/d68/a12790.html#aaf498d563d070d6250a182f583651777", null ],
-    [ "DoorHighInquisitorGUID", "dc/d68/a12790.html#a72e7f67a60edb4db52bb022291608ac3", null ],
-    [ "encounter", "dc/d68/a12790.html#a70730d88a5f7d3839a20d1eaca7147e7", null ],
-    [ "MograineGUID", "dc/d68/a12790.html#a07596cbc555d8569061b83400b41189f", null ],
-    [ "WhitemaneGUID", "dc/d68/a12790.html#aba9c99316b218f69683515da22a4c788", null ]
+    [ "_ashbringerNpcGUID", "dc/d68/a12790.html#a1abdafc284def7ab4069a17c0aeda535", null ],
+    [ "_ashencounter", "dc/d68/a12790.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
+    [ "_doorChapelGUID", "dc/d68/a12790.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
+    [ "_doorHighInquisitorGUID", "dc/d68/a12790.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
+    [ "_encounter", "dc/d68/a12790.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
+    [ "_mograineGUID", "dc/d68/a12790.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
+    [ "_whitemaneGUID", "dc/d68/a12790.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
 ];

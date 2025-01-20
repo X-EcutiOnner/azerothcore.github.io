@@ -1,13 +1,8 @@
 var a14870 =
 [
-    [ "boss_sartura", "df/db4/a14870.html#a7faaf16a1a56badd1e65a3364d425f02", null ],
-    [ "DamageTaken", "df/db4/a14870.html#a9a404743ac8491a9efc7091259706e0f", null ],
-    [ "InitializeAI", "df/db4/a14870.html#ae86d0a6b0cd591b3bb18333195109c22", null ],
-    [ "JustDied", "df/db4/a14870.html#aceff44022b8d53da41ecfcb1e2317e01", null ],
-    [ "JustEngagedWith", "df/db4/a14870.html#ab1c024908117e8460eb89c062d3825dc", null ],
-    [ "KilledUnit", "df/db4/a14870.html#a516a75910e872718a519c2a5c9805770", null ],
-    [ "Reset", "df/db4/a14870.html#ab3514ad48f622f65d67063723601f8de", null ],
-    [ "UpdateAI", "df/db4/a14870.html#af3d093dab3f5191d5da2df36ca9c4a11", null ],
-    [ "berserked", "df/db4/a14870.html#a8ad40cee9667500cb0e9533256d216c6", null ],
-    [ "enraged", "df/db4/a14870.html#af916ff3f6468b1e48d5b1944442594e5", null ]
+    [ "boss_veklor", "df/db4/a14870.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "df/db4/a14870.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "df/db4/a14870.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "df/db4/a14870.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "df/db4/a14870.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

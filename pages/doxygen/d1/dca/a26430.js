@@ -1,6 +1,7 @@
 var a26430 =
 [
-    [ "HandleDummy", "d1/dca/a26430.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
-    [ "PrepareSpellScript", "d1/dca/a26430.html#a6c2b858c893ed215d1192073b06db81d", null ],
-    [ "Register", "d1/dca/a26430.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
+    [ "HandleProc", "d1/dca/a26430.html#a85df8d4086a980d2b0a441097a909143", null ],
+    [ "PrepareAuraScript", "d1/dca/a26430.html#a4576f3d5af2d9265fa173f66d68ed512", null ],
+    [ "Register", "d1/dca/a26430.html#ab5308a36bc3b878a2913a89a84051ad7", null ],
+    [ "Validate", "d1/dca/a26430.html#a760a018b8410233e09065d94abeeb1ff", null ]
 ];

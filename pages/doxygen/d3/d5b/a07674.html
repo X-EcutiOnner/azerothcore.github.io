@@ -453,11 +453,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa07690_html"><div class="ttname"><a href="../../d2/d33/a07690.html">ThreatMgr</a></div><div class="ttdef"><b>Definition:</b> ThreatMgr.h:203</div></div>
 <div class="ttc" id="aa07846_html"><div class="ttname"><a href="../../d8/d56/a07846.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:43</div></div>
 <div class="ttc" id="aa08218_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../de/d68/a08218.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:205</div></div>
-<div class="ttc" id="aa08598_html_a16a73fea59a6ef3595093aa29225b37b"><div class="ttname"><a href="../../d4/d46/a08598.html#a16a73fea59a6ef3595093aa29225b37b">Unit::GetOwner</a></div><div class="ttdeci">Unit * GetOwner() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10621</div></div>
+<div class="ttc" id="aa08598_html_a16a73fea59a6ef3595093aa29225b37b"><div class="ttname"><a href="../../d4/d46/a08598.html#a16a73fea59a6ef3595093aa29225b37b">Unit::GetOwner</a></div><div class="ttdeci">Unit * GetOwner() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10626</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00059">getFirst()</a>, <a class="el" href="../../#l10621">Unit::GetOwner()</a>, <a class="el" href="../../#l00097">Reference&lt; TO, FROM &gt;::GetSource()</a>, <a class="el" href="../../#l00115">HostileReference::next()</a>, <a class="el" href="../../#l00229">HostileReference::removeReference()</a>, and <a class="el" href="../../#l00205">Object::ToCreature()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00059">getFirst()</a>, <a class="el" href="../../#l10626">Unit::GetOwner()</a>, <a class="el" href="../../#l00097">Reference&lt; TO, FROM &gt;::GetSource()</a>, <a class="el" href="../../#l00115">HostileReference::next()</a>, <a class="el" href="../../#l00229">HostileReference::removeReference()</a>, and <a class="el" href="../../#l00205">Object::ToCreature()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00072">PetAI::_stopAttack()</a>, <a class="el" href="../../#l15763">Unit::CleanupBeforeRemoveFromMap()</a>, <a class="el" href="../../#l02830">misc_commandscript::HandleCombatStopCommand()</a>, <a class="el" href="../../#l02812">AuraEffect::HandleFeignDeath()</a>, <a class="el" href="../../#l00050">WorldSession::HandleMoveWorldportAck()</a>, <a class="el" href="../../#l17723">Unit::Kill()</a>, <a class="el" href="../../#l00584">WorldSession::LogoutPlayer()</a>, <a class="el" href="../../#l00914">Map::RemovePlayerFromMap()</a>, <a class="el" href="../../#l14574">Unit::setDeathState()</a>, and <a class="el" href="../../#l00025">~HostileRefMgr()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00072">PetAI::_stopAttack()</a>, <a class="el" href="../../#l15775">Unit::CleanupBeforeRemoveFromMap()</a>, <a class="el" href="../../#l02830">misc_commandscript::HandleCombatStopCommand()</a>, <a class="el" href="../../#l02812">AuraEffect::HandleFeignDeath()</a>, <a class="el" href="../../#l00050">WorldSession::HandleMoveWorldportAck()</a>, <a class="el" href="../../#l17735">Unit::Kill()</a>, <a class="el" href="../../#l00584">WorldSession::LogoutPlayer()</a>, <a class="el" href="../../#l00914">Map::RemovePlayerFromMap()</a>, <a class="el" href="../../#l14586">Unit::setDeathState()</a>, and <a class="el" href="../../#l00025">~HostileRefMgr()</a>.</p>
 
 </div>
 </div>
@@ -481,7 +481,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  165</span>    <span class="keywordflow">while</span> (ref)</div>
 <div class="line"><span class="lineno">  166</span>    {</div>
 <div class="line"><span class="lineno">  167</span>        <a class="code hl_class" href="../../df/d7f/a07682.html">HostileReference</a>* nextRef = ref-&gt;<a class="code hl_function" href="../../df/d7f/a07682.html#a948e59c8e80f03305ea6272e5e2eaf61">next</a>();</div>
-<div class="line"><span class="lineno">  168</span>        <span class="keywordflow">if</span> (ref-&gt;<a class="code hl_function" href="../../d2/d3d/a05146.html#a95ef762721fcc58e9655c57fab05899b">GetSource</a>()-&gt;<a class="code hl_function" href="../../d2/d33/a07690.html#ad47f16a4a55c0a00b668e2bbdc789377">GetOwner</a>()-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a26754ab73d0b608e451efc717f996d34">GetFactionTemplateEntry</a>()-&gt;<a class="code hl_variable" href="../../df/de6/a27814.html#a2cb03ed38c15f6e6db7b556200282541">faction</a> == faction)</div>
+<div class="line"><span class="lineno">  168</span>        <span class="keywordflow">if</span> (ref-&gt;<a class="code hl_function" href="../../d2/d3d/a05146.html#a95ef762721fcc58e9655c57fab05899b">GetSource</a>()-&gt;<a class="code hl_function" href="../../d2/d33/a07690.html#ad47f16a4a55c0a00b668e2bbdc789377">GetOwner</a>()-&gt;<a class="code hl_function" href="../../d4/d46/a08598.html#a26754ab73d0b608e451efc717f996d34">GetFactionTemplateEntry</a>()-&gt;<a class="code hl_variable" href="../../d2/d1f/a27790.html#a2cb03ed38c15f6e6db7b556200282541">faction</a> == faction)</div>
 <div class="line"><span class="lineno">  169</span>        {</div>
 <div class="line"><span class="lineno">  170</span>            ref-&gt;<a class="code hl_function" href="../../df/d7f/a07682.html#aa30a4bca79e58f1bf6f9c64f5092dc89">removeReference</a>();</div>
 <div class="line"><span class="lineno">  171</span>            <span class="keyword">delete</span> ref;</div>
@@ -490,11 +490,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  174</span>    }</div>
 <div class="line"><span class="lineno">  175</span>}</div>
 <div class="ttc" id="aa08598_html_a26754ab73d0b608e451efc717f996d34"><div class="ttname"><a href="../../d4/d46/a08598.html#a26754ab73d0b608e451efc717f996d34">Unit::GetFactionTemplateEntry</a></div><div class="ttdeci">FactionTemplateEntry const * GetFactionTemplateEntry() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10055</div></div>
-<div class="ttc" id="aa27814_html_a2cb03ed38c15f6e6db7b556200282541"><div class="ttname"><a href="../../df/de6/a27814.html#a2cb03ed38c15f6e6db7b556200282541">FactionTemplateEntry::faction</a></div><div class="ttdeci">uint32 faction</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:940</div></div>
+<div class="ttc" id="aa27790_html_a2cb03ed38c15f6e6db7b556200282541"><div class="ttname"><a href="../../d2/d1f/a27790.html#a2cb03ed38c15f6e6db7b556200282541">FactionTemplateEntry::faction</a></div><div class="ttdeci">uint32 faction</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:940</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00940">FactionTemplateEntry::faction</a>, <a class="el" href="../../#l10055">Unit::GetFactionTemplateEntry()</a>, <a class="el" href="../../#l00059">getFirst()</a>, <a class="el" href="../../#l00236">ThreatMgr::GetOwner()</a>, <a class="el" href="../../#l00097">Reference&lt; TO, FROM &gt;::GetSource()</a>, <a class="el" href="../../#l00115">HostileReference::next()</a>, and <a class="el" href="../../#l00229">HostileReference::removeReference()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l20190">Unit::StopAttackFaction()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l20202">Unit::StopAttackFaction()</a>.</p>
 
 </div>
 </div>
@@ -564,7 +564,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">   59</span>{ <span class="keywordflow">return</span> ((<a class="code hl_class" href="../../df/d7f/a07682.html">HostileReference</a>*) <a class="code hl_class" href="../../dd/d48/a05150.html">RefMgr&lt;Unit, ThreatMgr&gt;::getFirst</a>()); }</div>
 <div class="ttc" id="aa05150_html"><div class="ttname"><a href="../../dd/d48/a05150.html">RefMgr</a></div><div class="ttdef"><b>Definition:</b> RefMgr.h:26</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00065">addTempThreat()</a>, <a class="el" href="../../#l00085">addThreatPercent()</a>, <a class="el" href="../../#l00180">deleteReference()</a>, <a class="el" href="../../#l00125">deleteReferences()</a>, <a class="el" href="../../#l00162">deleteReferencesForFaction()</a>, <a class="el" href="../../#l00199">deleteReferencesOutOfRange()</a>, <a class="el" href="../../#l00862">debug_commandscript::HandleDebugHostileRefListCommand()</a>, <a class="el" href="../../#l00066">npc_pet_mage_mirror_image::InitializeAI()</a>, <a class="el" href="../../#l00098">setOnlineOfflineState()</a>, <a class="el" href="../../#l19070">Unit::SetPhaseMask()</a>, <a class="el" href="../../#l00035">threatAssist()</a>, <a class="el" href="../../#l00739">Map::Update()</a>, <a class="el" href="../../#l00111">updateThreatTables()</a>, and <a class="el" href="../../#l00236">UpdateVisibility()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00065">addTempThreat()</a>, <a class="el" href="../../#l00085">addThreatPercent()</a>, <a class="el" href="../../#l00180">deleteReference()</a>, <a class="el" href="../../#l00125">deleteReferences()</a>, <a class="el" href="../../#l00162">deleteReferencesForFaction()</a>, <a class="el" href="../../#l00199">deleteReferencesOutOfRange()</a>, <a class="el" href="../../#l00862">debug_commandscript::HandleDebugHostileRefListCommand()</a>, <a class="el" href="../../#l00066">npc_pet_mage_mirror_image::InitializeAI()</a>, <a class="el" href="../../#l00098">setOnlineOfflineState()</a>, <a class="el" href="../../#l19082">Unit::SetPhaseMask()</a>, <a class="el" href="../../#l00035">threatAssist()</a>, <a class="el" href="../../#l00739">Map::Update()</a>, <a class="el" href="../../#l00111">updateThreatTables()</a>, and <a class="el" href="../../#l00236">UpdateVisibility()</a>.</p>
 
 </div>
 </div>
@@ -625,7 +625,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00059">getFirst()</a>, <a class="el" href="../../#l00115">HostileReference::next()</a>, and <a class="el" href="../../#l00214">HostileReference::setOnlineOfflineState()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l10462">Player::CleanupAfterTaxiFlight()</a>, <a class="el" href="../../#l00400">FlightPathMovementGenerator::DoFinalize()</a>, <a class="el" href="../../#l00426">FlightPathMovementGenerator::DoReset()</a>, <a class="el" href="../../#l00160">npc_toc5_player_vehicle::npc_toc5_player_vehicleAI::Reset()</a>, <a class="el" href="../../#l02229">Player::SetGameMaster()</a>, <a class="el" href="../../#l02298">Player::SetGMVisible()</a>, and <a class="el" href="../../#l19070">Unit::SetPhaseMask()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l10462">Player::CleanupAfterTaxiFlight()</a>, <a class="el" href="../../#l00400">FlightPathMovementGenerator::DoFinalize()</a>, <a class="el" href="../../#l00426">FlightPathMovementGenerator::DoReset()</a>, <a class="el" href="../../#l00160">npc_toc5_player_vehicle::npc_toc5_player_vehicleAI::Reset()</a>, <a class="el" href="../../#l02229">Player::SetGameMaster()</a>, <a class="el" href="../../#l02298">Player::SetGMVisible()</a>, and <a class="el" href="../../#l19082">Unit::SetPhaseMask()</a>.</p>
 
 </div>
 </div>
@@ -737,7 +737,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00034">ThreatCalcHelper::calcThreat()</a>, <a class="el" href="../../#l00453">ThreatMgr::DoAddThreat()</a>, <a class="el" href="../../#l00059">getFirst()</a>, <a class="el" href="../../#l00236">ThreatMgr::GetOwner()</a>, <a class="el" href="../../#l01987">SpellInfo::GetSchoolMask()</a>, <a class="el" href="../../#l00115">LinkedListHead::getSize()</a>, <a class="el" href="../../#l00097">Reference&lt; TO, FROM &gt;::GetSource()</a>, <a class="el" href="../../#l00054">ThreatCalcHelper::isValidProcess()</a>, <a class="el" href="../../#l00115">HostileReference::next()</a>, <a class="el" href="../../#l00297">SPELL_SCHOOL_MASK_NORMAL</a>, and <a class="el" href="../../#l00205">Object::ToCreature()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02613">Spell::DoAllEffectOnTarget()</a>, <a class="el" href="../../#l03002">Spell::DoSpellHitOnUnit()</a>, <a class="el" href="../../#l02566">Spell::EffectDispel()</a>, <a class="el" href="../../#l05162">Spell::EffectDispelMechanic()</a>, <a class="el" href="../../#l11292">Unit::EnergizeBySpell()</a>, <a class="el" href="../../#l07104">AuraEffect::HandleObsModPowerAuraTick()</a>, <a class="el" href="../../#l07138">AuraEffect::HandlePeriodicEnergizeAuraTick()</a>, <a class="el" href="../../#l06883">AuraEffect::HandlePeriodicHealAurasTick()</a>, <a class="el" href="../../#l06748">AuraEffect::HandlePeriodicHealthLeechAuraTick()</a>, and <a class="el" href="../../#l05585">Spell::HandleThreatSpells()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02613">Spell::DoAllEffectOnTarget()</a>, <a class="el" href="../../#l03002">Spell::DoSpellHitOnUnit()</a>, <a class="el" href="../../#l02566">Spell::EffectDispel()</a>, <a class="el" href="../../#l05162">Spell::EffectDispelMechanic()</a>, <a class="el" href="../../#l11297">Unit::EnergizeBySpell()</a>, <a class="el" href="../../#l07104">AuraEffect::HandleObsModPowerAuraTick()</a>, <a class="el" href="../../#l07138">AuraEffect::HandlePeriodicEnergizeAuraTick()</a>, <a class="el" href="../../#l06883">AuraEffect::HandlePeriodicHealAurasTick()</a>, <a class="el" href="../../#l06748">AuraEffect::HandlePeriodicHealthLeechAuraTick()</a>, and <a class="el" href="../../#l05591">Spell::HandleThreatSpells()</a>.</p>
 
 </div>
 </div>
@@ -839,7 +839,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d5b/a07674.html">HostileRefMgr</a></li>
-    <li class="footer">Generated on Mon Jan 13 2025 20:42:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 20 2025 20:41:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,8 @@
 var a25882 =
 [
-    [ "FilterTargets", "dc/dee/a25882.html#ad679149423fda97ad5744318520022b1", null ],
-    [ "PrepareSpellScript", "dc/dee/a25882.html#ac57c48690c5ad1b907f56287aee949a4", null ],
-    [ "Register", "dc/dee/a25882.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
-    [ "Validate", "dc/dee/a25882.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
+    [ "CheckProc", "dc/dee/a25882.html#ac6b3ce1ff227a140b77e177198675dbf", null ],
+    [ "HandleProc", "dc/dee/a25882.html#ae5ed8237f49454279db6348dbde653ad", null ],
+    [ "PrepareAuraScript", "dc/dee/a25882.html#a1ee84242579d4cd81d6313f78354729b", null ],
+    [ "Register", "dc/dee/a25882.html#a8f16147f2dfc433458ad32529f7d25d1", null ],
+    [ "Validate", "dc/dee/a25882.html#a787639c45505da58aeb2174148ef4f83", null ]
 ];

@@ -1,7 +1,12 @@
 var a27158 =
 [
-    [ "npc_prof_leather", "d0/dd7/a27158.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
-    [ "HasLeatherSpecialty", "d0/dd7/a27158.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
-    [ "OnGossipHello", "d0/dd7/a27158.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
-    [ "OnGossipSelect", "d0/dd7/a27158.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
+    [ "npc_preciousAI", "d0/dd7/a27158.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
+    [ "FlagForDespawn", "d0/dd7/a27158.html#a934a5147c1cc9937189011fb061657da", null ],
+    [ "InitializeAI", "d0/dd7/a27158.html#aa15843c4029f2df2ee04d21b5157602a", null ],
+    [ "JustEngagedWith", "d0/dd7/a27158.html#a58bc4149111605850f070a77ee776313", null ],
+    [ "JustReachedHome", "d0/dd7/a27158.html#a31893e9441b24398554370a58ef8bd78", null ],
+    [ "Reset", "d0/dd7/a27158.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
+    [ "UpdateAI", "d0/dd7/a27158.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
+    [ "events", "d0/dd7/a27158.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
+    [ "flaggedForDespawn", "d0/dd7/a27158.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
 ];

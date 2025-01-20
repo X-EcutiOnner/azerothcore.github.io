@@ -1,6 +1,6 @@
 var a17742 =
 [
-    [ "boss_sindragosaAI", "d7/df3/a17746.html", "d7/df3/a17746" ],
-    [ "boss_sindragosa", "da/d27/a17742.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "da/d27/a17742.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "FilterTargets", "da/d27/a17742.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
+    [ "PrepareSpellScript", "da/d27/a17742.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
+    [ "Register", "da/d27/a17742.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
 ];

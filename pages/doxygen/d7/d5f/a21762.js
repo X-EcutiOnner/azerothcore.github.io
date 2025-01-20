@@ -1,6 +1,7 @@
 var a21762 =
 [
-    [ "npc_lord_areteAI", "d4/d4f/a21766.html", "d4/d4f/a21766" ],
-    [ "npc_lord_arete", "d7/d5f/a21762.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "d7/d5f/a21762.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "GetSeatNumber", "d7/d5f/a21762.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
+    [ "HandleDummy", "d7/d5f/a21762.html#ac5945381452559e1d5655f5345bdeff3", null ],
+    [ "PrepareSpellScript", "d7/d5f/a21762.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
+    [ "Register", "d7/d5f/a21762.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
 ];

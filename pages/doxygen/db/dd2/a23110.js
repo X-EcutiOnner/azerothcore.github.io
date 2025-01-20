@@ -1,5 +1,8 @@
 var a23110 =
 [
-    [ "at_underbog_ghazan", "db/dd2/a23110.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
-    [ "_OnTrigger", "db/dd2/a23110.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
+    [ "boss_the_black_stalker", "db/dd2/a23110.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "db/dd2/a23110.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "db/dd2/a23110.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "db/dd2/a23110.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "db/dd2/a23110.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

@@ -1,7 +1,15 @@
 var a22190 =
 [
-    [ "npc_storm_cloudAI", "de/d50/a22190.html#aa4dd9409cd74f3c2c878974715e43394", null ],
-    [ "JustRespawned", "de/d50/a22190.html#ad0f99362f7ab506b322b6d75890881c1", null ],
-    [ "Reset", "de/d50/a22190.html#a99654ac86502e3ac2f899082269ccb01", null ],
-    [ "SpellHit", "de/d50/a22190.html#ac51313cec4d76216f3c716d988fc4857", null ]
+    [ "OutdoorPvPEP", "de/d50/a22190.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
+    [ "BuffTeams", "de/d50/a22190.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
+    [ "FillInitialWorldStates", "de/d50/a22190.html#a3e9ca34d696c3d644fdb7f495e11270c", null ],
+    [ "HandlePlayerEnterZone", "de/d50/a22190.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
+    [ "HandlePlayerLeaveZone", "de/d50/a22190.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
+    [ "SendRemoveWorldStates", "de/d50/a22190.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
+    [ "SetControlledState", "de/d50/a22190.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
+    [ "SetupOutdoorPvP", "de/d50/a22190.html#acecc8126180c027cb3d685231e55d873", null ],
+    [ "Update", "de/d50/a22190.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
+    [ "EP_ControlsId", "de/d50/a22190.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
+    [ "m_AllianceTowersControlled", "de/d50/a22190.html#a09e5cf029656af3fc740b236596d42ee", null ],
+    [ "m_HordeTowersControlled", "de/d50/a22190.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
 ];

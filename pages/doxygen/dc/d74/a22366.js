@@ -1,11 +1,15 @@
 var a22366 =
 [
-    [ "boss_talon_king_ikiss", "dc/d74/a22366.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
-    [ "CanAIAttack", "dc/d74/a22366.html#ab4858d845f149b6333941d8f8ab59afb", null ],
-    [ "JustDied", "dc/d74/a22366.html#ada1d993842d04453d6afad91e186a3fe", null ],
-    [ "JustEngagedWith", "dc/d74/a22366.html#a325312ce6695435fcca701720434c64f", null ],
-    [ "KilledUnit", "dc/d74/a22366.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
-    [ "MoveInLineOfSight", "dc/d74/a22366.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
-    [ "Reset", "dc/d74/a22366.html#adcb1dca375ec548499da5a7690babc21", null ],
-    [ "_spoken", "dc/d74/a22366.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
+    [ "boss_grandmaster_vorpil", "dc/d74/a22366.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
+    [ "counterVoidSpawns", "dc/d74/a22366.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
+    [ "JustDied", "dc/d74/a22366.html#ab492fff8a9a275c662b44eeff3300b90", null ],
+    [ "JustEngagedWith", "dc/d74/a22366.html#af1e6da02cd33742efad568424cf32c4f", null ],
+    [ "JustSummoned", "dc/d74/a22366.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
+    [ "KilledUnit", "dc/d74/a22366.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
+    [ "MoveInLineOfSight", "dc/d74/a22366.html#adb24a3d337b64f37759a3a39802d7e27", null ],
+    [ "Reset", "dc/d74/a22366.html#a6471121ee02a834591b36d03fae28672", null ],
+    [ "spawnVoidTraveler", "dc/d74/a22366.html#aa842bc3d88d0a3a411dcba3711809956", null ],
+    [ "summonPortals", "dc/d74/a22366.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
+    [ "sayHelp", "dc/d74/a22366.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
+    [ "sayIntro", "dc/d74/a22366.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
 ];

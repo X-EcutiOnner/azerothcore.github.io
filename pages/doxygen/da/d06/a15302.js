@@ -1,7 +1,7 @@
 var a15302 =
 [
-    [ "npc_kaya_flathoofAI", "d4/d1c/a15306.html", "d4/d1c/a15306" ],
-    [ "npc_kaya_flathoof", "da/d06/a15302.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "da/d06/a15302.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "da/d06/a15302.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "npc_steward_of_time", "da/d06/a15302.html#ad49973464c96f44506033b73a85f6360", null ],
+    [ "OnGossipHello", "da/d06/a15302.html#a3b61038393c3addbbfa6643438164db3", null ],
+    [ "OnGossipSelect", "da/d06/a15302.html#af4fe13e266a98129b92e5a25188d947c", null ],
+    [ "OnQuestAccept", "da/d06/a15302.html#a53d552282da49e8246089b2799fff9ca", null ]
 ];

@@ -1,8 +1,6 @@
 var a20666 =
 [
-    [ "FilterTargets", "dd/ded/a20666.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
-    [ "HandleDummyEffect", "dd/ded/a20666.html#ab1f662fa107d176386067ffc6467d90f", null ],
-    [ "PrepareSpellScript", "dd/ded/a20666.html#a069cc54bf009830ad781c790b4fcedad", null ],
-    [ "Register", "dd/ded/a20666.html#ac91532151b689bde35d7120b1e9aec5b", null ],
-    [ "Validate", "dd/ded/a20666.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
+    [ "CheckCast", "dd/ded/a20666.html#a715a58956db4253c8adfed039833debd", null ],
+    [ "PrepareSpellScript", "dd/ded/a20666.html#a3b03178d8ab54db36a19ba5a27444917", null ],
+    [ "Register", "dd/ded/a20666.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
 ];

@@ -1,6 +1,7 @@
 var a16462 =
 [
-    [ "boss_bronjahmAI", "da/dd1/a16466.html", "da/dd1/a16466" ],
-    [ "boss_bronjahm", "d6/d10/a16462.html#a699e1be5273979c76cd5d06b60f0ee05", null ],
-    [ "GetAI", "d6/d10/a16462.html#a04676028f1f324b6eecea625122794ed", null ]
+    [ "HandlePeriodicTick", "d6/d10/a16462.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
+    [ "PrepareAuraScript", "d6/d10/a16462.html#a93e894c642101160dd51f30952c82d24", null ],
+    [ "Register", "d6/d10/a16462.html#a49172ede0f888e391b9b4a835475220a", null ],
+    [ "Validate", "d6/d10/a16462.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
 ];

@@ -1,6 +1,6 @@
 var a14922 =
 [
-    [ "HandleOnHit", "d5/dee/a14922.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
-    [ "PrepareSpellScript", "d5/dee/a14922.html#a9e568a1608715973fc438ff5e4356714", null ],
-    [ "Register", "d5/dee/a14922.html#a752d697aada626440fdff2bd889f890f", null ]
+    [ "HandleDummy", "d5/dee/a14922.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
+    [ "PrepareSpellScript", "d5/dee/a14922.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
+    [ "Register", "d5/dee/a14922.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
 ];

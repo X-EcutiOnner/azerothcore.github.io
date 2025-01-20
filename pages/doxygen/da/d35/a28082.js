@@ -1,10 +1,9 @@
 var a28082 =
 [
-    [ "ID", "da/d35/a28082.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "da/d35/a28082.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "da/d35/a28082.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "da/d35/a28082.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "da/d35/a28082.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "da/d35/a28082.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "da/d35/a28082.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "TimeSeg", "da/d35/a28082.html#a16782e722a5bada41691841fe594b7a6", null ],
+    [ "TransportEntry", "da/d35/a28082.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
+    [ "W", "da/d35/a28082.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
+    [ "X", "da/d35/a28082.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
+    [ "Y", "da/d35/a28082.html#a7f0ff898e752e2e904ebee1412643df6", null ],
+    [ "Z", "da/d35/a28082.html#a87647d71a965e80154ca36dc05421585", null ]
 ];

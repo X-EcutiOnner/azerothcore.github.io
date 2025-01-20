@@ -1,7 +1,10 @@
 var a15818 =
 [
-    [ "HandleDummy", "db/dd6/a15818.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "db/dd6/a15818.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "db/dd6/a15818.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "db/dd6/a15818.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "spell_halion_damage_aoe_summon", "db/dd6/a15818.html#a6152e7a0515076af2c7c2155506257b0", null ],
+    [ "HandleSummon", "db/dd6/a15818.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
+    [ "PrepareSpellScript", "db/dd6/a15818.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
+    [ "Register", "db/dd6/a15818.html#aa1f9239a2910d53c85539abba6333893", null ],
+    [ "Validate", "db/dd6/a15818.html#acb359257b29354b5962d9865e06137e7", null ],
+    [ "_auraSpell", "db/dd6/a15818.html#a497a74eca703470964157639a6f372e2", null ],
+    [ "_explosionSpell", "db/dd6/a15818.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
 ];

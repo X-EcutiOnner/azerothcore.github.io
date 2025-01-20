@@ -1,10 +1,6 @@
 var a20810 =
 [
-    [ "npc_enslaved_proto_drake", "de/da1/a20810.html#aec835fdc8b1beb270176d5341d26c265", null ],
-    [ "MovementInform", "de/da1/a20810.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
-    [ "Reset", "de/da1/a20810.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
-    [ "SetData", "de/da1/a20810.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
-    [ "UpdateAI", "de/da1/a20810.html#a252f84198df610bac44b6bd9cd80602e", null ],
-    [ "_events", "de/da1/a20810.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
-    [ "_setData", "de/da1/a20810.html#adb997badd8831dea7763eaecc93b7773", null ]
+    [ "npc_ferocious_rhinoAI", "dc/d30/a20814.html", "dc/d30/a20814" ],
+    [ "npc_ferocious_rhino", "de/da1/a20810.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
+    [ "GetAI", "de/da1/a20810.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
 ];

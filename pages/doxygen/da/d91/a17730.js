@@ -1,7 +1,11 @@
 var a17730 =
 [
-    [ "FrostBombExplosion", "da/d91/a17730.html#ac7d318e241e6442e8aa084b27ea50236", null ],
-    [ "Execute", "da/d91/a17730.html#a0b6521266f18b621260286c530ff3f36", null ],
-    [ "_owner", "da/d91/a17730.html#aa9ff39ce43c351e8815f895896fa759b", null ],
-    [ "_sindragosaGUID", "da/d91/a17730.html#a5afc3d543c8fa457c90735f841aa161c", null ]
+    [ "npc_ice_tombAI", "da/d91/a17730.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
+    [ "DamageTaken", "da/d91/a17730.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
+    [ "JustDied", "da/d91/a17730.html#a237f27260aaa9176d81b67b11d063660", null ],
+    [ "SetGUID", "da/d91/a17730.html#a629acf2cc7530c2b82bb37a129d4431a", null ],
+    [ "UpdateAI", "da/d91/a17730.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
+    [ "_asphyxiationTimer", "da/d91/a17730.html#a6790d9c852279624a549f60bf26e1eb2", null ],
+    [ "_existenceCheckTimer", "da/d91/a17730.html#ab3dbf40235549be89e42951d93593ea2", null ],
+    [ "_trappedPlayerGUID", "da/d91/a17730.html#a8a7666594e59bdac449f2284387b8e2c", null ]
 ];

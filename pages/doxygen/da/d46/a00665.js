@@ -1,10 +1,10 @@
 var a00665 =
 [
-    [ "boss_alar", "d2/d37/a23494.html", "d2/d37/a23494" ],
-    [ "CastQuill", "d6/d5f/a23498.html", "d6/d5f/a23498" ],
-    [ "spell_alar_flame_quills", "dd/d07/a23502.html", "dd/d07/a23502" ],
-    [ "spell_alar_ember_blast", "d0/dad/a23506.html", "d0/dad/a23506" ],
-    [ "spell_alar_dive_bomb", "d6/ddc/a23510.html", "d6/ddc/a23510" ],
+    [ "boss_alar", "df/d74/a23470.html", "df/d74/a23470" ],
+    [ "CastQuill", "d3/d21/a23474.html", "d3/d21/a23474" ],
+    [ "spell_alar_flame_quills", "df/d59/a23478.html", "df/d59/a23478" ],
+    [ "spell_alar_ember_blast", "d1/d95/a23482.html", "d1/d95/a23482" ],
+    [ "spell_alar_dive_bomb", "d1/df7/a23486.html", "d1/df7/a23486" ],
     [ "GroupAlar", "da/d46/a00665.html#affdfad05d59fe2df3a25189df6c3bf7e", [
       [ "GROUP_FLAME_BUFFET", "da/d46/a00665.html#affdfad05d59fe2df3a25189df6c3bf7ea736f8214156adfa79b40871fd56adf53", null ]
     ] ],
@@ -1332,17 +1332,6 @@ var a00665 =
       [ "SPELL_SUMMON_PURE_ENERGY_N", "dc/da4/a02303.html#a5bd342133be8c2137b831460acc9298caec3b5494c52119048f5af0566c7d3951", null ],
       [ "SPELL_SUMMON_PURE_ENERGY_H1", "dc/da4/a02303.html#a5bd342133be8c2137b831460acc9298ca29221c2aea240248ff930825f6ac7dad", null ],
       [ "SPELL_SUMMON_PURE_ENERGY_H2", "dc/da4/a02303.html#a5bd342133be8c2137b831460acc9298ca6c3c93580d6da3331b9418958c0b43bf", null ],
-      [ "SPELL_CRUSADER_STRIKE", "d2/d0a/a02321.html#a5bd342133be8c2137b831460acc9298ca748c886ad604af3db71d021ecb7f3b52", null ],
-      [ "SPELL_HAMMER_OF_JUSTICE", "d2/d0a/a02321.html#a5bd342133be8c2137b831460acc9298ca0260b9413bf0f27c7d72a77a2df65622", null ],
-      [ "SPELL_LAY_ON_HANDS", "d2/d0a/a02321.html#a5bd342133be8c2137b831460acc9298caa1682889d7efa23bfdf6197ca365fdad", null ],
-      [ "SPELL_RETRIBUTION_AURA", "d2/d0a/a02321.html#a5bd342133be8c2137b831460acc9298ca8810cd879818e30d7a1350767b99bf3e", null ],
-      [ "SPELL_PERMANENT_FEIGN_DEATH", "d2/d0a/a02321.html#a5bd342133be8c2137b831460acc9298cae088c5aedcf64c242ca695d8b31ba6a4", null ],
-      [ "SPELL_SCARLET_RESURRECTION", "d2/d0a/a02321.html#a5bd342133be8c2137b831460acc9298ca2552e76ecd9869062d18e07c3853fcde", null ],
-      [ "SPELL_DEEP_SLEEP", "d2/d0a/a02321.html#a5bd342133be8c2137b831460acc9298cae8a2e413b4d046ecfdf9d12f3b506126", null ],
-      [ "SPELL_DOMINATE_MIND", "d2/d0a/a02321.html#a5bd342133be8c2137b831460acc9298ca1c7c7bb6b9e906911880377d2ea2470b", null ],
-      [ "SPELL_HOLY_SMITE", "d2/d0a/a02321.html#a5bd342133be8c2137b831460acc9298ca74efbfbc358f01ad96a6e402941ee122", null ],
-      [ "SPELL_HEAL", "d2/d0a/a02321.html#a5bd342133be8c2137b831460acc9298ca69fcca2d13e03c684fa0459f960ef9a7", null ],
-      [ "SPELL_POWER_WORD_SHIELD", "d2/d0a/a02321.html#a5bd342133be8c2137b831460acc9298ca6537e5147d1dcdbe6f7dd4e60aed302d", null ],
       [ "SPELL_ARCANE_MISSILES", "dd/d14/a02201.html#a5bd342133be8c2137b831460acc9298caf9613db3725f3d2ee90e2f29d95f209a", null ],
       [ "SPELL_CURSE_DARKMASTER", "dd/d14/a02201.html#a5bd342133be8c2137b831460acc9298ca758a376a2257396ecf5cfdb78a72dfe5", null ],
       [ "SPELL_SHADOW_SHIELD", "dd/d14/a02201.html#a5bd342133be8c2137b831460acc9298ca2fcb01e85962bcea2a551a342be01ebd", null ],

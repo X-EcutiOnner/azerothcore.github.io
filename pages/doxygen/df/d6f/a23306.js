@@ -1,6 +1,6 @@
 var a23306 =
 [
-    [ "HandleScriptEffect", "df/d6f/a23306.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "df/d6f/a23306.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "df/d6f/a23306.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "de/d5b/a23310.html", "de/d5b/a23310" ],
+    [ "instance_magtheridons_lair", "df/d6f/a23306.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
+    [ "GetInstanceScript", "df/d6f/a23306.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
 ];

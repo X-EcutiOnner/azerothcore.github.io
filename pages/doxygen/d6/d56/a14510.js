@@ -1,6 +1,10 @@
 var a14510 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "df/d96/a14514.html", "df/d96/a14514" ],
-    [ "instance_old_hillsbrad", "d6/d56/a14510.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
-    [ "GetInstanceScript", "d6/d56/a14510.html#a1929c38b1c745b2df1ccaf462113e220", null ]
+    [ "boss_aeonus", "d6/d56/a14510.html#af823ef2187b852dc72d2f63020e1701b", null ],
+    [ "IsSummonedBy", "d6/d56/a14510.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
+    [ "JustDied", "d6/d56/a14510.html#a649275c31e61f542a13fd791ee85277b", null ],
+    [ "JustEngagedWith", "d6/d56/a14510.html#a5f193144e36a889630d5dbadb4aa665f", null ],
+    [ "JustReachedHome", "d6/d56/a14510.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
+    [ "KilledUnit", "d6/d56/a14510.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
+    [ "MoveInLineOfSight", "d6/d56/a14510.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
 ];

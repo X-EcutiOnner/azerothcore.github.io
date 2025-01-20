@@ -1,7 +1,12 @@
 var a15346 =
 [
-    [ "npc_giltharesAI", "df/d05/a15346.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "df/d05/a15346.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "df/d05/a15346.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "df/d05/a15346.html#a9308c73760e50e0f3d04031b508526d1", null ]
+    [ "npc_wizzlecrank_shredderAI", "df/d05/a15346.html#a055c4b426219aa3372a83d2e2021d916", null ],
+    [ "JustSummoned", "df/d05/a15346.html#a7cad21f0b3286ed75256a49c315069ce", null ],
+    [ "Reset", "df/d05/a15346.html#a86929e8a2f3433f37e4dda03e3011193", null ],
+    [ "UpdateEscortAI", "df/d05/a15346.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
+    [ "WaypointReached", "df/d05/a15346.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
+    [ "WaypointStart", "df/d05/a15346.html#a00857e372e53950338ed71d672edb780", null ],
+    [ "IsPostEvent", "df/d05/a15346.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
+    [ "PostEventCount", "df/d05/a15346.html#aa5284a284c074f32cee85d29aea00f2f", null ],
+    [ "PostEventTimer", "df/d05/a15346.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
 ];

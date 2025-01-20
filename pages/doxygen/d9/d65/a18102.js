@@ -1,7 +1,6 @@
 var a18102 =
 [
-    [ "OnPeriodic", "d9/d65/a18102.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
-    [ "PrepareAuraScript", "d9/d65/a18102.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
-    [ "Register", "d9/d65/a18102.html#a0fc7ca43a0d82058fc04277742231388", null ],
-    [ "Validate", "d9/d65/a18102.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
+    [ "ActivateSpirit", "d9/d65/a18102.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "d9/d65/a18102.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "d9/d65/a18102.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

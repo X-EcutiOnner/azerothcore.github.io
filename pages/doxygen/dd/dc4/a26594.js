@@ -1,8 +1,6 @@
 var a26594 =
 [
-    [ "AfterCheckProc", "dd/dc4/a26594.html#acfdce5bcda30fc7c498d4f7aba37933f", null ],
-    [ "HandleProc", "dd/dc4/a26594.html#ac24bde081e118b347a3cad6832cd96da", null ],
-    [ "PrepareAuraScript", "dd/dc4/a26594.html#a5d33fbbc36417bd229fb9b1576f4f42b", null ],
-    [ "Register", "dd/dc4/a26594.html#ac60630c5d36b1e9cc4fc809ecde1fe20", null ],
-    [ "Validate", "dd/dc4/a26594.html#aecc372443f71834aaeab97ba77757e2a", null ]
+    [ "HandleRemove", "dd/dc4/a26594.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "dd/dc4/a26594.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "dd/dc4/a26594.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

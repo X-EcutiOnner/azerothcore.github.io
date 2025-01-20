@@ -1,7 +1,6 @@
 var a20246 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d2/d9b/a20246.html#a100678bddd6a0e859c72035d4642d8e2", null ],
-    [ "MoveInLineOfSight", "d2/d9b/a20246.html#a870bdc842d8d7078302a36a20ef661e4", null ],
-    [ "_instance", "d2/d9b/a20246.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
-    [ "_introSpoken", "d2/d9b/a20246.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
+    [ "npc_ulduar_dark_rune_guardianAI", "d3/db7/a20250.html", "d3/db7/a20250" ],
+    [ "npc_ulduar_dark_rune_guardian", "d2/d9b/a20246.html#a6266dd5c096402b5383af09ac361a634", null ],
+    [ "GetAI", "d2/d9b/a20246.html#a9ed188491483548658ce682bf36e6fd2", null ]
 ];

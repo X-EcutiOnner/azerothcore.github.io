@@ -1,5 +1,5 @@
 var a17818 =
 [
-    [ "achievement_all_you_can_eat", "d7/d7f/a17818.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "d7/d7f/a17818.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "at_sindragosa_lair", "d7/d7f/a17818.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
+    [ "OnTrigger", "d7/d7f/a17818.html#a07074bff20272042ed05be83dd818ee9", null ]
 ];

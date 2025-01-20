@@ -1,7 +1,6 @@
 var a17414 =
 [
-    [ "HandleScript", "df/d3e/a17414.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
-    [ "PrepareSpellScript", "df/d3e/a17414.html#ab69926839f72ee76eba2b225aba9690c", null ],
-    [ "Register", "df/d3e/a17414.html#aad8925e891d7537993f02f3bc2552fea", null ],
-    [ "SelectRandomTarget", "df/d3e/a17414.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
+    [ "DaranavanMoveEvent", "df/d3e/a17414.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
+    [ "Execute", "df/d3e/a17414.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
+    [ "_darnavan", "df/d3e/a17414.html#a7585edb957755efbc6064f232d50ea4e", null ]
 ];

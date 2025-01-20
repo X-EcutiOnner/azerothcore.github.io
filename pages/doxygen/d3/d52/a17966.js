@@ -1,11 +1,9 @@
 var a17966 =
 [
-    [ "AddMissingStack", "d3/d52/a17966.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
-    [ "CheckAura", "d3/d52/a17966.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
-    [ "FilterTargets", "d3/d52/a17966.html#ab6c86c3680823329d5f3aad985aa316a", null ],
-    [ "Load", "d3/d52/a17966.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
-    [ "PrepareSpellScript", "d3/d52/a17966.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
-    [ "Register", "d3/d52/a17966.html#af0e6f1fc6687de1abcc1689116150088", null ],
-    [ "_hadInitialAura", "d3/d52/a17966.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
-    [ "_hadJumpingAura", "d3/d52/a17966.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
+    [ "npc_icc_ice_sphereAI", "d3/d52/a17966.html#a685f45e5cd15b005646e596ff61088e8", null ],
+    [ "DoAction", "d3/d52/a17966.html#ac056ecdd93bc716964054f38ab81014e", null ],
+    [ "SelectNewTarget", "d3/d52/a17966.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
+    [ "UpdateAI", "d3/d52/a17966.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
+    [ "targetGUID", "d3/d52/a17966.html#a3e202f9bde2a202d329066f7aab8897c", null ],
+    [ "timer", "d3/d52/a17966.html#a42842e92926e18ef2589687d81a7d0d4", null ]
 ];

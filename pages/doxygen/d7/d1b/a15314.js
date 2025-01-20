@@ -1,13 +1,12 @@
 var a15314 =
 [
-    [ "npc_aquementasAI", "d7/d1b/a15314.html#aad63986cdb8a65c528af3ccd114d2041", null ],
-    [ "JustEngagedWith", "d7/d1b/a15314.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
-    [ "Reset", "d7/d1b/a15314.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
-    [ "SendItem", "d7/d1b/a15314.html#a60bafbd70783411236dcf3d0bfe244de", null ],
-    [ "UpdateAI", "d7/d1b/a15314.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
-    [ "AquaJetTimer", "d7/d1b/a15314.html#a8506acc69436af869d1404bd95109e68", null ],
-    [ "FrostShockTimer", "d7/d1b/a15314.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
-    [ "isFriendly", "d7/d1b/a15314.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
-    [ "SendItemTimer", "d7/d1b/a15314.html#a3a0883b43056b176ef2ae55673adacf3", null ],
-    [ "SwitchFactionTimer", "d7/d1b/a15314.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
+    [ "npc_toogaAI", "d7/d1b/a15314.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
+    [ "MoveInLineOfSight", "d7/d1b/a15314.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
+    [ "MovementInform", "d7/d1b/a15314.html#a9315e8ba2688903aaf5b871a7490a700", null ],
+    [ "Reset", "d7/d1b/a15314.html#acfedaf5cc989451a4259a65661685f66", null ],
+    [ "UpdateFollowerAI", "d7/d1b/a15314.html#a742791e714be1ff713ab87e7d515bd9e", null ],
+    [ "CheckSpeechTimer", "d7/d1b/a15314.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
+    [ "PhasePostEvent", "d7/d1b/a15314.html#a4996291afa64e35f3604b2a85ea03dda", null ],
+    [ "PostEventTimer", "d7/d1b/a15314.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
+    [ "TortaGUID", "d7/d1b/a15314.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
 ];

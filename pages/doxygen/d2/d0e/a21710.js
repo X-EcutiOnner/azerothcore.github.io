@@ -1,6 +1,6 @@
 var a21710 =
 [
-    [ "npc_your_inner_turmoilAI", "d6/d05/a21714.html", "d6/d05/a21714" ],
-    [ "npc_your_inner_turmoil", "d2/d0e/a21710.html#a72856ef469bb8f6ff4a89a16159479af", null ],
-    [ "GetAI", "d2/d0e/a21710.html#a29c8f76b072e891face1225770688ca6", null ]
+    [ "npc_razael_and_lyana", "d2/d0e/a21710.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "d2/d0e/a21710.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "d2/d0e/a21710.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

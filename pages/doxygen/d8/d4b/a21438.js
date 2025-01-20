@@ -1,6 +1,6 @@
 var a21438 =
 [
-    [ "npc_hourglass_of_eternityAI", "d4/dfe/a21442.html", "d4/dfe/a21442" ],
-    [ "npc_hourglass_of_eternity", "d8/d4b/a21438.html#a40500ff582ead06bd646be86baad7d35", null ],
-    [ "GetAI", "d8/d4b/a21438.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d4/dfe/a21442.html", "d4/dfe/a21442" ],
+    [ "npc_injured_7th_legion_soldier", "d8/d4b/a21438.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
+    [ "GetAI", "d8/d4b/a21438.html#a0feca7aedcf3c07253d4d402266189cc", null ]
 ];

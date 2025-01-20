@@ -1,6 +1,6 @@
 var a13934 =
 [
-    [ "OnApply", "df/d4b/a13934.html#a4a276b00d4912c210598057620368934", null ],
-    [ "PrepareAuraScript", "df/d4b/a13934.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
-    [ "Register", "df/d4b/a13934.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
+    [ "go_direbrew_mole_machineAI", "dd/df2/a13938.html", "dd/df2/a13938" ],
+    [ "go_direbrew_mole_machine", "df/d4b/a13934.html#a759d291a5be227d8beae3bbc779e56f4", null ],
+    [ "GetAI", "df/d4b/a13934.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
 ];

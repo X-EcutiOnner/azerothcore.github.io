@@ -1,13 +1,7 @@
 var a14930 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d9/d5a/a14930.html#a454f677dddce956534d6f5a253ed587b", null ],
-    [ "GetData", "d9/d5a/a14930.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
-    [ "Initialize", "d9/d5a/a14930.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
-    [ "OnCreatureCreate", "d9/d5a/a14930.html#affc7045f944251fb27683133f511029f", null ],
-    [ "OnGameObjectCreate", "d9/d5a/a14930.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
-    [ "OnUnitDeath", "d9/d5a/a14930.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
-    [ "SetBossState", "d9/d5a/a14930.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
-    [ "SetData", "d9/d5a/a14930.html#a25f4e12aad6325e87b31770c1243d746", null ],
-    [ "BugTrioDeathCount", "d9/d5a/a14930.html#aab0191f5b31264f0632a24df0607d05b", null ],
-    [ "CThunGraspGUIDs", "d9/d5a/a14930.html#aea180c0b623e919f56f9210ce15724e8", null ]
+    [ "npc_vekniss_stinger", "d9/d5a/a14930.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "d9/d5a/a14930.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "d9/d5a/a14930.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "d9/d5a/a14930.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

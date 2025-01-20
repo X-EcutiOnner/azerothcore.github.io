@@ -1,9 +1,8 @@
 var a17114 =
 [
-    [ "CheckTarget", "d6/d5c/a17114.html#a43fc6a16aca217ef043fa34a58391357", null ],
-    [ "HandlePresence", "d6/d5c/a17114.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
-    [ "OnCast", "d6/d5c/a17114.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
-    [ "PrepareSpellScript", "d6/d5c/a17114.html#abe559b32aa82f19abb0a6d664b75c748", null ],
-    [ "Register", "d6/d5c/a17114.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
-    [ "Validate", "d6/d5c/a17114.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
+    [ "npc_high_overlord_saurfangAI", "d0/d5a/a17118.html", "d0/d5a/a17118" ],
+    [ "npc_high_overlord_saurfang_icc", "d6/d5c/a17114.html#ac02fe80550572e142406c2d80c0392df", null ],
+    [ "GetAI", "d6/d5c/a17114.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
+    [ "OnGossipHello", "d6/d5c/a17114.html#a515a87f751527412222cfdd968febe7c", null ],
+    [ "OnGossipSelect", "d6/d5c/a17114.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
 ];

@@ -1,8 +1,10 @@
 var a15390 =
 [
-    [ "npc_pluckyAI", "d6/d45/a15394.html", "d6/d45/a15394" ],
-    [ "npc_plucky", "d0/d49/a15390.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "d0/d49/a15390.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "d0/d49/a15390.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "d0/d49/a15390.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "npc_ameAI", "d0/d49/a15390.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
+    [ "JustDied", "d0/d49/a15390.html#a9b77f94f112477509c3163945ceb8201", null ],
+    [ "JustSummoned", "d0/d49/a15390.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
+    [ "Reset", "d0/d49/a15390.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
+    [ "UpdateAI", "d0/d49/a15390.html#a0a073e4c216985607aa51099044ff6c5", null ],
+    [ "WaypointReached", "d0/d49/a15390.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
+    [ "DemoralizingShoutTimer", "d0/d49/a15390.html#ab5d1786735adea4bce1bba8adf42a877", null ]
 ];

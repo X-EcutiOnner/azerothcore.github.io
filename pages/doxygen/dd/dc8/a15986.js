@@ -1,6 +1,6 @@
 var a15986 =
 [
-    [ "npc_black_knight_ghoulAI", "d9/d77/a15990.html", "d9/d77/a15990" ],
-    [ "npc_black_knight_ghoul", "dd/dc8/a15986.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
-    [ "GetAI", "dd/dc8/a15986.html#a52308f8d168e1ccea22de653813b7f6f", null ]
+    [ "boss_grand_championAI", "d9/d77/a15990.html", "d9/d77/a15990" ],
+    [ "boss_grand_champion", "dd/dc8/a15986.html#a9577f8af5e234b3aebd7567841b867e2", null ],
+    [ "GetAI", "dd/dc8/a15986.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
 ];

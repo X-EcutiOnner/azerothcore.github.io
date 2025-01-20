@@ -1,9 +1,6 @@
 var a19322 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "dd/dba/a19322.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "dd/dba/a19322.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "dd/dba/a19322.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "dd/dba/a19322.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "dd/dba/a19322.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "dd/dba/a19322.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "dark_rune_stormcallerAI", "d5/db9/a19326.html", "d5/db9/a19326" ],
+    [ "dark_rune_stormcaller", "dd/dba/a19322.html#ab31774011fc3e1e8ffa1a3b7c5cbfbcc", null ],
+    [ "GetAI", "dd/dba/a19322.html#a9072aaf482106cfae0d3901507b47f60", null ]
 ];

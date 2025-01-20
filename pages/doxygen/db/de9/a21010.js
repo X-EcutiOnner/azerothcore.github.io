@@ -1,6 +1,6 @@
 var a21010 =
 [
-    [ "boss_cyanigosaAI", "d4/da0/a21014.html", "d4/da0/a21014" ],
-    [ "boss_cyanigosa", "db/de9/a21010.html#a4db12e2fb873ad3595a437df09663a22", null ],
-    [ "GetAI", "db/de9/a21010.html#a779c7c3a5f0002501361fa92fe14af69", null ]
+    [ "boss_ichoronAI", "d4/da0/a21014.html", "d4/da0/a21014" ],
+    [ "boss_ichoron", "db/de9/a21010.html#ad4390da77a130edaf050d0bef3926882", null ],
+    [ "GetAI", "db/de9/a21010.html#a68051088dc2d2c738b042e2df0436b28", null ]
 ];

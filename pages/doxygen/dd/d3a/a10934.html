@@ -214,10 +214,10 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9101</span>        : <a class="code hl_function" href="../../d8/d6e/a10926.html#a2b017300220426ac42de18e3a8699219">WorldObjectSpellAreaTargetCheck</a>(range, position, caster, caster, spellInfo, selectionType, condList)</div>
-<div class="line"><span class="lineno"> 9102</span>    {</div>
-<div class="line"><span class="lineno"> 9103</span>    }</div>
-<div class="ttc" id="aa10926_html_a2b017300220426ac42de18e3a8699219"><div class="ttname"><a href="../../d8/d6e/a10926.html#a2b017300220426ac42de18e3a8699219">Acore::WorldObjectSpellAreaTargetCheck::WorldObjectSpellAreaTargetCheck</a></div><div class="ttdeci">WorldObjectSpellAreaTargetCheck(float range, Position const *position, Unit *caster, Unit *referer, SpellInfo const *spellInfo, SpellTargetCheckTypes selectionType, ConditionList *condList)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:9053</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 9107</span>        : <a class="code hl_function" href="../../d8/d6e/a10926.html#a2b017300220426ac42de18e3a8699219">WorldObjectSpellAreaTargetCheck</a>(range, position, caster, caster, spellInfo, selectionType, condList)</div>
+<div class="line"><span class="lineno"> 9108</span>    {</div>
+<div class="line"><span class="lineno"> 9109</span>    }</div>
+<div class="ttc" id="aa10926_html_a2b017300220426ac42de18e3a8699219"><div class="ttname"><a href="../../d8/d6e/a10926.html#a2b017300220426ac42de18e3a8699219">Acore::WorldObjectSpellAreaTargetCheck::WorldObjectSpellAreaTargetCheck</a></div><div class="ttdeci">WorldObjectSpellAreaTargetCheck(float range, Position const *position, Unit *caster, Unit *referer, SpellInfo const *spellInfo, SpellTargetCheckTypes selectionType, ConditionList *condList)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:9059</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -237,18 +237,18 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9106</span>    {</div>
-<div class="line"><span class="lineno"> 9107</span>        <span class="comment">// return all targets on missile trajectory (0 - size of a missile)</span></div>
-<div class="line"><span class="lineno"> 9108</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dd/ddf/a10918.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d8/d21/a08294.html#a0c809407f6a671597467291f811e4a27">HasInLine</a>(target, target-&gt;<a class="code hl_function" href="../../de/d0d/a08250.html#ae3ccd7ee8fcb156805c61b83e5c016ae">GetObjectSize</a>()))</div>
-<div class="line"><span class="lineno"> 9109</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9110</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d8/d6e/a10926.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4">WorldObjectSpellAreaTargetCheck::operator ()</a>(target);</div>
-<div class="line"><span class="lineno"> 9111</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 9112</span>    {</div>
+<div class="line"><span class="lineno"> 9113</span>        <span class="comment">// return all targets on missile trajectory (0 - size of a missile)</span></div>
+<div class="line"><span class="lineno"> 9114</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dd/ddf/a10918.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d8/d21/a08294.html#a0c809407f6a671597467291f811e4a27">HasInLine</a>(target, target-&gt;<a class="code hl_function" href="../../de/d0d/a08250.html#ae3ccd7ee8fcb156805c61b83e5c016ae">GetObjectSize</a>()))</div>
+<div class="line"><span class="lineno"> 9115</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9116</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d8/d6e/a10926.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4">WorldObjectSpellAreaTargetCheck::operator ()</a>(target);</div>
+<div class="line"><span class="lineno"> 9117</span>    }</div>
 <div class="ttc" id="aa08250_html_ae3ccd7ee8fcb156805c61b83e5c016ae"><div class="ttname"><a href="../../de/d0d/a08250.html#ae3ccd7ee8fcb156805c61b83e5c016ae">WorldObject::GetObjectSize</a></div><div class="ttdeci">float GetObjectSize() const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2784</div></div>
 <div class="ttc" id="aa08294_html_a0c809407f6a671597467291f811e4a27"><div class="ttname"><a href="../../d8/d21/a08294.html#a0c809407f6a671597467291f811e4a27">Position::HasInLine</a></div><div class="ttdeci">bool HasInLine(Position const *pos, float width) const</div><div class="ttdef"><b>Definition:</b> Position.cpp:43</div></div>
 <div class="ttc" id="aa10918_html_ac090f8e47bcdfccb85fb791856355827"><div class="ttname"><a href="../../dd/ddf/a10918.html#ac090f8e47bcdfccb85fb791856355827">Acore::WorldObjectSpellTargetCheck::_caster</a></div><div class="ttdeci">Unit * _caster</div><div class="ttdef"><b>Definition:</b> Spell.h:792</div></div>
-<div class="ttc" id="aa10926_html_a36a7194e3ffbdc2ea1c4bd5ed5997da4"><div class="ttname"><a href="../../d8/d6e/a10926.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4">Acore::WorldObjectSpellAreaTargetCheck::operator()</a></div><div class="ttdeci">bool operator()(WorldObject *target)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:9059</div></div>
+<div class="ttc" id="aa10926_html_a36a7194e3ffbdc2ea1c4bd5ed5997da4"><div class="ttname"><a href="../../d8/d6e/a10926.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4">Acore::WorldObjectSpellAreaTargetCheck::operator()</a></div><div class="ttdeci">bool operator()(WorldObject *target)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:9065</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00792">Acore::WorldObjectSpellTargetCheck::_caster</a>, <a class="el" href="../../#l02784">WorldObject::GetObjectSize()</a>, <a class="el" href="../../#l00043">Position::HasInLine()</a>, and <a class="el" href="../../#l09059">Acore::WorldObjectSpellAreaTargetCheck::operator()()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00792">Acore::WorldObjectSpellTargetCheck::_caster</a>, <a class="el" href="../../#l02784">WorldObject::GetObjectSize()</a>, <a class="el" href="../../#l00043">Position::HasInLine()</a>, and <a class="el" href="../../#l09065">Acore::WorldObjectSpellAreaTargetCheck::operator()()</a>.</p>
 
 </div>
 </div>
@@ -258,7 +258,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d20/a04686.html">Acore</a></li><li class="navelem"><a class="el" href="../../dd/d3a/a10934.html">WorldObjectSpellTrajTargetCheck</a></li>
-    <li class="footer">Generated on Mon Jan 13 2025 20:43:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 20 2025 20:42:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

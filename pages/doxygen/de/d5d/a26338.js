@@ -1,6 +1,9 @@
 var a26338 =
 [
-    [ "CheckCast", "de/d5d/a26338.html#aecbecbd753b8ed32d51971a090063ef4", null ],
-    [ "PrepareSpellScript", "de/d5d/a26338.html#a0efb319154edb2c798460de72d6a56ed", null ],
-    [ "Register", "de/d5d/a26338.html#acd6ecb0204dd369c410e465551328f56", null ]
+    [ "Absorb", "de/d5d/a26338.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
+    [ "CalculateAmount", "de/d5d/a26338.html#a820c27c2161063307a10903cbbc5c0fa", null ],
+    [ "Load", "de/d5d/a26338.html#a7b71990051faaa083110408c13b8401f", null ],
+    [ "PrepareAuraScript", "de/d5d/a26338.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
+    [ "Register", "de/d5d/a26338.html#aa443ab0eed74229883884fbced0426d7", null ],
+    [ "absorbPct", "de/d5d/a26338.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
 ];

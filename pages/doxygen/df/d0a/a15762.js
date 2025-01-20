@@ -1,5 +1,6 @@
 var a15762 =
 [
-    [ "at_baltharus_plateau", "df/d0a/a15762.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "df/d0a/a15762.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "boss_halionAI", "d5/d66/a15766.html", "d5/d66/a15766" ],
+    [ "boss_halion", "df/d0a/a15762.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
+    [ "GetAI", "df/d0a/a15762.html#a142314efb4f45ec146ab0225271d29b1", null ]
 ];

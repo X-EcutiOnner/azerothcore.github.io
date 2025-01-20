@@ -1,6 +1,6 @@
 var a18602 =
 [
-    [ "RespawnEvent", "db/dfc/a18602.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
-    [ "Execute", "db/dfc/a18602.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
-    [ "_owner", "db/dfc/a18602.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
+    [ "npc_four_car_garageAI", "dd/d71/a18606.html", "dd/d71/a18606" ],
+    [ "npc_four_car_garage", "db/dfc/a18602.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
+    [ "GetAI", "db/dfc/a18602.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
 ];

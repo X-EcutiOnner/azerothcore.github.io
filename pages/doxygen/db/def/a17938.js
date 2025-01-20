@@ -1,7 +1,7 @@
 var a17938 =
 [
-    [ "HandleScript", "db/def/a17938.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "db/def/a17938.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "db/def/a17938.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "db/def/a17938.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "OnRemove", "db/def/a17938.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "db/def/a17938.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "db/def/a17938.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "db/def/a17938.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

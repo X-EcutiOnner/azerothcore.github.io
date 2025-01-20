@@ -1,8 +1,6 @@
 var a20470 =
 [
-    [ "OnPeriodic", "d5/de7/a20470.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "d5/de7/a20470.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "d5/de7/a20470.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "d5/de7/a20470.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "d5/de7/a20470.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "x", "d5/de7/a20470.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "d5/de7/a20470.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "d5/de7/a20470.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

@@ -1,6 +1,9 @@
 var a18130 =
 [
-    [ "npc_lk_wicked_spiritAI", "de/d4c/a18134.html", "de/d4c/a18134" ],
-    [ "npc_lk_wicked_spirit", "d6/d9a/a18130.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
-    [ "GetAI", "d6/d9a/a18130.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
+    [ "DelayedCastEvent", "d6/d9a/a18130.html#ae6d57612065d56ce79197aedebedf9f9", null ],
+    [ "Execute", "d6/d9a/a18130.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "d6/d9a/a18130.html#acc9e22eb1908e4c458199fc4cccd56c6", null ],
+    [ "_originalCaster", "d6/d9a/a18130.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "d6/d9a/a18130.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "d6/d9a/a18130.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

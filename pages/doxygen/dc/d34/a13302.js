@@ -1,10 +1,16 @@
 var a13302 =
 [
-    [ "npc_sentinel_leader", "dc/d34/a13302.html#a583c43b047dd5c172938d60ef647ecd5", null ],
-    [ "JustEngagedWith", "dc/d34/a13302.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
-    [ "MovementInform", "dc/d34/a13302.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
-    [ "Reset", "dc/d34/a13302.html#ad638ba6ce33753af6a0165c053a90d78", null ],
-    [ "UpdateAI", "dc/d34/a13302.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
-    [ "_events", "dc/d34/a13302.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
-    [ "_helpCalled", "dc/d34/a13302.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "dc/d34/a13302.html#aa0fc35194d16d63854926d4266569d77", null ],
+    [ "DamageTaken", "dc/d34/a13302.html#a46f47c937db63c2cd12331bce4e251cf", null ],
+    [ "EnterEvadeMode", "dc/d34/a13302.html#a55b6176ee579f5f320ce36b63f83d314", null ],
+    [ "JustSummoned", "dc/d34/a13302.html#aa23391bbed38571a86508b4c87e5c66c", null ],
+    [ "MovementInform", "dc/d34/a13302.html#a5f47c72447c197642a0081e544095489", null ],
+    [ "Reset", "dc/d34/a13302.html#a6a9beaf984d954bc11a5f7dff17ca442", null ],
+    [ "SetData", "dc/d34/a13302.html#a24293b807b8999acbb6fbe59e3c06232", null ],
+    [ "SummonedCreatureDespawn", "dc/d34/a13302.html#a095587a925d6054da2e2fdc9de2b415e", null ],
+    [ "UpdateAI", "dc/d34/a13302.html#aa432d9d89eed150f0b3cf0beaef144d2", null ],
+    [ "events", "dc/d34/a13302.html#a5b98f3bcba320cbec0116d3f4a8e4d05", null ],
+    [ "morlenGUID", "dc/d34/a13302.html#aefe243dea75b1aac366fae1395e0e398", null ],
+    [ "playerGUID", "dc/d34/a13302.html#ab93ca177abc21647a1162006ed50a551", null ],
+    [ "summons", "dc/d34/a13302.html#af36ccbeaec6bc0157cb8cac6d705c3c3", null ]
 ];

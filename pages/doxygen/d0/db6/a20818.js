@@ -1,6 +1,6 @@
 var a20818 =
 [
-    [ "boss_palehoofAI", "d7/d3e/a20822.html", "d7/d3e/a20822" ],
-    [ "boss_palehoof", "d0/db6/a20818.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
-    [ "GetAI", "d0/db6/a20818.html#ae33ca6e71b251214be50168a5940d058", null ]
+    [ "npc_ravenous_furbolgAI", "d7/d3e/a20822.html", "d7/d3e/a20822" ],
+    [ "npc_ravenous_furbolg", "d0/db6/a20818.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "d0/db6/a20818.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

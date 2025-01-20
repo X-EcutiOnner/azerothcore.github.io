@@ -1,7 +1,8 @@
 var a16114 =
 [
-    [ "npc_toc_paladinAI", "d6/d78/a16114.html#a025d39c04e864ebd77f4f930ec20b1e5", null ],
-    [ "myCanCast", "d6/d78/a16114.html#a06130e6e440d0b25d8b5566de6190cbc", null ],
-    [ "UpdateAI", "d6/d78/a16114.html#a32943f1c3ffd0239c85ac1b81786f049", null ],
-    [ "events", "d6/d78/a16114.html#ae47a32bbb05cf2f634ae18bc672ec004", null ]
+    [ "npc_toc_warlockAI", "d6/d78/a16114.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "d6/d78/a16114.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "d6/d78/a16114.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "d6/d78/a16114.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "d6/d78/a16114.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

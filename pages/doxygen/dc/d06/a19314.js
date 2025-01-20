@@ -1,9 +1,6 @@
 var a19314 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "dc/d06/a19314.html#aac57ae32188c47ca97b7331d62986e66", null ],
-    [ "JustDied", "dc/d06/a19314.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
-    [ "JustEngagedWith", "dc/d06/a19314.html#a772d279407d724477560898559710433", null ],
-    [ "Reset", "dc/d06/a19314.html#a5b4a726aa496923d81c41b038e5f7449", null ],
-    [ "UpdateAI", "dc/d06/a19314.html#a2745ff26c165851c367e080d28652984", null ],
-    [ "events", "dc/d06/a19314.html#a468d45f9b9c2172f326068d59a74121a", null ]
+    [ "dark_rune_protectorsAI", "d9/d0e/a19318.html", "d9/d0e/a19318" ],
+    [ "dark_rune_protectors", "dc/d06/a19314.html#a14225a2369a8deea416fc640a2d7b075", null ],
+    [ "GetAI", "dc/d06/a19314.html#a359e4049b7ec828177d9a36d23e9b4ef", null ]
 ];

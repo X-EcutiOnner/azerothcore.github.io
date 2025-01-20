@@ -1,6 +1,6 @@
 var a24242 =
 [
-    [ "PrepareSpellScript", "db/d9d/a24242.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
-    [ "RecalculateDamage", "db/d9d/a24242.html#ab6a781160532d7cbb3bb3304eb412514", null ],
-    [ "Register", "db/d9d/a24242.html#a82395d00066e90abc58103b18a5ef4dc", null ]
+    [ "CheckProc", "db/d9d/a24242.html#ace3662e092d02de975929741c470230d", null ],
+    [ "PrepareAuraScript", "db/d9d/a24242.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
+    [ "Register", "db/d9d/a24242.html#ae6432106538261827c3eac3dde1450f2", null ]
 ];

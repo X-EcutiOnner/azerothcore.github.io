@@ -1,8 +1,7 @@
 var a14678 =
 [
-    [ "HandleScript", "dc/dcc/a14678.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "dc/dcc/a14678.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "dc/dcc/a14678.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "dc/dcc/a14678.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "dc/dcc/a14678.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "go_sand_trap", "dc/dcc/a14678.html#a58d45acac672cb05988ddca78185b469", null ],
+    [ "Reset", "dc/dcc/a14678.html#a7071a3e420e9137ca133b471bc217bf3", null ],
+    [ "UpdateAI", "dc/dcc/a14678.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
+    [ "_scheduler", "dc/dcc/a14678.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
 ];

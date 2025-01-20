@@ -1,5 +1,5 @@
 var a14642 =
 [
-    [ "npc_idol_room_spawnerAI", "dc/d70/a14642.html#a77c4aa88d213271166158c8e75d41a69", null ],
-    [ "SetData", "dc/d70/a14642.html#aa0626c837086b4a275f4d51d1659a242", null ]
+    [ "pathId", "dc/d70/a14642.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
+    [ "spellId", "dc/d70/a14642.html#af495f984d5b81baeaa61ddca127a9508", null ]
 ];

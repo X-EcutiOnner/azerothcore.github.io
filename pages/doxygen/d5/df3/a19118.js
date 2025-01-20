@@ -1,26 +1,8 @@
 var a19118 =
 [
-    [ "instance_oculus_InstanceMapScript", "d5/df3/a19118.html#a86c942751aee67ae10e2c77a1ace630e", null ],
-    [ "CheckAchievementCriteriaMeet", "d5/df3/a19118.html#a04ea989733a6ba1bed1990e1ea8baf1f", null ],
-    [ "GetData", "d5/df3/a19118.html#a44cf46153dd392758fa5c388e8c2ea84", null ],
-    [ "GetGuidData", "d5/df3/a19118.html#ac969f1faf18633ad54354015fb66f4f8", null ],
-    [ "Initialize", "d5/df3/a19118.html#a1c035ca450efdd89481715bd09c6c38c", null ],
-    [ "OnCreatureCreate", "d5/df3/a19118.html#a1b0553334dc2d00fd12512dae373039a", null ],
-    [ "OnGameObjectCreate", "d5/df3/a19118.html#a08abbb0430a43bb4841560b01e9fe26c", null ],
-    [ "OnPlayerEnter", "d5/df3/a19118.html#a7046a9b087300d0854bb1078c7bd1c9b", null ],
-    [ "OnUnitDeath", "d5/df3/a19118.html#a84fa94a97c62ba7b68130c7a5d8bb4dd", null ],
-    [ "ReadSaveDataMore", "d5/df3/a19118.html#aa5f838155be454aec552b99c42edfe99", null ],
-    [ "SetData", "d5/df3/a19118.html#a58b0b5142cbae350d6cc61c89a3792af", null ],
-    [ "WriteSaveDataMore", "d5/df3/a19118.html#a5043a99a4a3d1c86a4a7026757ebdc14", null ],
-    [ "bAmberVoid", "d5/df3/a19118.html#a9dfa8834bfea20a8f4a39c958e38bcbd", null ],
-    [ "bEmeraldVoid", "d5/df3/a19118.html#a45ce85a8a6c9362ad04194b0518066c9", null ],
-    [ "bRubyVoid", "d5/df3/a19118.html#ad93d6be40d07925d1eb485f864c72ace", null ],
-    [ "CentrifugeCount", "d5/df3/a19118.html#ae5a87cc8bfc153aee0f96978f39a1932", null ],
-    [ "DragonCageDoorGUID", "d5/df3/a19118.html#a402480035dfffd7c4c717229bd55b921", null ],
-    [ "EregosCacheGUID", "d5/df3/a19118.html#aad60cffd6c483bf4610884c3b99ad39c", null ],
-    [ "m_auiEncounter", "d5/df3/a19118.html#af4cca13b9039d7c88e7fad1e8f23eb3a", null ],
-    [ "uiDrakosGUID", "d5/df3/a19118.html#a1bc410826700bdfcefc5f60d0967a091", null ],
-    [ "uiEregosGUID", "d5/df3/a19118.html#a559b482989ee8f91f1ba412683856d89", null ],
-    [ "uiUromGUID", "d5/df3/a19118.html#accf640519e925eccf0230ca4a5dee3bb", null ],
-    [ "uiVarosGUID", "d5/df3/a19118.html#ab4a87ca38d203deacc377579e66e5bfb", null ]
+    [ "npc_centrifuge_constructAI", "d5/df3/a19118.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "d5/df3/a19118.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "d5/df3/a19118.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "d5/df3/a19118.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "d5/df3/a19118.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

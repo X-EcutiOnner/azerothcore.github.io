@@ -216,10 +216,10 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9055</span>        : <a class="code hl_function" href="../../dd/ddf/a10918.html#a370a66c484d486ac6d2d3419a019c7cd">WorldObjectSpellTargetCheck</a>(caster, referer, spellInfo, selectionType, condList), <a class="code hl_variable" href="../../d8/d6e/a10926.html#a4ee3762b4a7f35d252cbb5337d61d92c">_range</a>(range), <a class="code hl_variable" href="../../d8/d6e/a10926.html#a680c45dd148161657da011a1772375ca">_position</a>(position)</div>
-<div class="line"><span class="lineno"> 9056</span>    {</div>
-<div class="line"><span class="lineno"> 9057</span>    }</div>
-<div class="ttc" id="aa10918_html_a370a66c484d486ac6d2d3419a019c7cd"><div class="ttname"><a href="../../dd/ddf/a10918.html#a370a66c484d486ac6d2d3419a019c7cd">Acore::WorldObjectSpellTargetCheck::WorldObjectSpellTargetCheck</a></div><div class="ttdeci">WorldObjectSpellTargetCheck(Unit *caster, Unit *referer, SpellInfo const *spellInfo, SpellTargetCheckTypes selectionType, ConditionList *condList)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:8957</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 9061</span>        : <a class="code hl_function" href="../../dd/ddf/a10918.html#a370a66c484d486ac6d2d3419a019c7cd">WorldObjectSpellTargetCheck</a>(caster, referer, spellInfo, selectionType, condList), <a class="code hl_variable" href="../../d8/d6e/a10926.html#a4ee3762b4a7f35d252cbb5337d61d92c">_range</a>(range), <a class="code hl_variable" href="../../d8/d6e/a10926.html#a680c45dd148161657da011a1772375ca">_position</a>(position)</div>
+<div class="line"><span class="lineno"> 9062</span>    {</div>
+<div class="line"><span class="lineno"> 9063</span>    }</div>
+<div class="ttc" id="aa10918_html_a370a66c484d486ac6d2d3419a019c7cd"><div class="ttname"><a href="../../dd/ddf/a10918.html#a370a66c484d486ac6d2d3419a019c7cd">Acore::WorldObjectSpellTargetCheck::WorldObjectSpellTargetCheck</a></div><div class="ttdeci">WorldObjectSpellTargetCheck(Unit *caster, Unit *referer, SpellInfo const *spellInfo, SpellTargetCheckTypes selectionType, ConditionList *condList)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:8963</div></div>
 <div class="ttc" id="aa10926_html_a4ee3762b4a7f35d252cbb5337d61d92c"><div class="ttname"><a href="../../d8/d6e/a10926.html#a4ee3762b4a7f35d252cbb5337d61d92c">Acore::WorldObjectSpellAreaTargetCheck::_range</a></div><div class="ttdeci">float _range</div><div class="ttdef"><b>Definition:</b> Spell.h:816</div></div>
 <div class="ttc" id="aa10926_html_a680c45dd148161657da011a1772375ca"><div class="ttname"><a href="../../d8/d6e/a10926.html#a680c45dd148161657da011a1772375ca">Acore::WorldObjectSpellAreaTargetCheck::_position</a></div><div class="ttdeci">Position const  * _position</div><div class="ttdef"><b>Definition:</b> Spell.h:817</div></div>
 </div><!-- fragment -->
@@ -241,20 +241,20 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9060</span>    {</div>
-<div class="line"><span class="lineno"> 9061</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../de/d68/a08218.html#a85475682d62e51bfaf2133b51d41a619">IsGameObject</a>())</div>
-<div class="line"><span class="lineno"> 9062</span>        {</div>
-<div class="line"><span class="lineno"> 9063</span>            <span class="keywordflow">if</span> (!target-&gt;<a class="code hl_function" href="../../de/d68/a08218.html#a96b380b13acdb406d552053cf775180f">ToGameObject</a>()-&gt;<a class="code hl_function" href="../../d0/dd1/a08022.html#a745a0423be225a755ce40f93a6f0284c">IsInRange</a>(<a class="code hl_variable" href="../../d8/d6e/a10926.html#a680c45dd148161657da011a1772375ca">_position</a>-&gt;<a class="code hl_function" href="../../d8/d21/a08294.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), <a class="code hl_variable" href="../../d8/d6e/a10926.html#a680c45dd148161657da011a1772375ca">_position</a>-&gt;<a class="code hl_function" href="../../d8/d21/a08294.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), <a class="code hl_variable" href="../../d8/d6e/a10926.html#a680c45dd148161657da011a1772375ca">_position</a>-&gt;<a class="code hl_function" href="../../d8/d21/a08294.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>(), <a class="code hl_variable" href="../../d8/d6e/a10926.html#a4ee3762b4a7f35d252cbb5337d61d92c">_range</a>))</div>
-<div class="line"><span class="lineno"> 9064</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9065</span>        }</div>
-<div class="line"><span class="lineno"> 9066</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!target-&gt;<a class="code hl_function" href="../../de/d0d/a08250.html#a0f50be7888e7adb64d542c540b7f5675">IsWithinDist3d</a>(<a class="code hl_variable" href="../../d8/d6e/a10926.html#a680c45dd148161657da011a1772375ca">_position</a>, <a class="code hl_variable" href="../../d8/d6e/a10926.html#a4ee3762b4a7f35d252cbb5337d61d92c">_range</a>))</div>
-<div class="line"><span class="lineno"> 9067</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9068</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../de/d68/a08218.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() &amp;&amp; target-&gt;<a class="code hl_function" href="../../de/d68/a08218.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d8/d56/a07846.html#a4f6d3cf41d5f547bbcc37034e16bfb94">IsAvoidingAOE</a>()) <span class="comment">// pussywizard</span></div>
-<div class="line"><span class="lineno"> 9069</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9070</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddf/a10918.html#a2ae263977948d2195b22a737c36bad20">WorldObjectSpellTargetCheck::operator ()</a>(target);</div>
-<div class="line"><span class="lineno"> 9071</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 9066</span>    {</div>
+<div class="line"><span class="lineno"> 9067</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../de/d68/a08218.html#a85475682d62e51bfaf2133b51d41a619">IsGameObject</a>())</div>
+<div class="line"><span class="lineno"> 9068</span>        {</div>
+<div class="line"><span class="lineno"> 9069</span>            <span class="keywordflow">if</span> (!target-&gt;<a class="code hl_function" href="../../de/d68/a08218.html#a96b380b13acdb406d552053cf775180f">ToGameObject</a>()-&gt;<a class="code hl_function" href="../../d0/dd1/a08022.html#a745a0423be225a755ce40f93a6f0284c">IsInRange</a>(<a class="code hl_variable" href="../../d8/d6e/a10926.html#a680c45dd148161657da011a1772375ca">_position</a>-&gt;<a class="code hl_function" href="../../d8/d21/a08294.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), <a class="code hl_variable" href="../../d8/d6e/a10926.html#a680c45dd148161657da011a1772375ca">_position</a>-&gt;<a class="code hl_function" href="../../d8/d21/a08294.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), <a class="code hl_variable" href="../../d8/d6e/a10926.html#a680c45dd148161657da011a1772375ca">_position</a>-&gt;<a class="code hl_function" href="../../d8/d21/a08294.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>(), <a class="code hl_variable" href="../../d8/d6e/a10926.html#a4ee3762b4a7f35d252cbb5337d61d92c">_range</a>))</div>
+<div class="line"><span class="lineno"> 9070</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9071</span>        }</div>
+<div class="line"><span class="lineno"> 9072</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!target-&gt;<a class="code hl_function" href="../../de/d0d/a08250.html#a0f50be7888e7adb64d542c540b7f5675">IsWithinDist3d</a>(<a class="code hl_variable" href="../../d8/d6e/a10926.html#a680c45dd148161657da011a1772375ca">_position</a>, <a class="code hl_variable" href="../../d8/d6e/a10926.html#a4ee3762b4a7f35d252cbb5337d61d92c">_range</a>))</div>
+<div class="line"><span class="lineno"> 9073</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9074</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../de/d68/a08218.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() &amp;&amp; target-&gt;<a class="code hl_function" href="../../de/d68/a08218.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d8/d56/a07846.html#a4f6d3cf41d5f547bbcc37034e16bfb94">IsAvoidingAOE</a>()) <span class="comment">// pussywizard</span></div>
+<div class="line"><span class="lineno"> 9075</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9076</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddf/a10918.html#a2ae263977948d2195b22a737c36bad20">WorldObjectSpellTargetCheck::operator ()</a>(target);</div>
+<div class="line"><span class="lineno"> 9077</span>    }</div>
 <div class="ttc" id="aa07846_html_a4f6d3cf41d5f547bbcc37034e16bfb94"><div class="ttname"><a href="../../d8/d56/a07846.html#a4f6d3cf41d5f547bbcc37034e16bfb94">Creature::IsAvoidingAOE</a></div><div class="ttdeci">bool IsAvoidingAOE() const</div><div class="ttdef"><b>Definition:</b> Creature.h:130</div></div>
-<div class="ttc" id="aa08022_html_a745a0423be225a755ce40f93a6f0284c"><div class="ttname"><a href="../../d0/dd1/a08022.html#a745a0423be225a755ce40f93a6f0284c">GameObject::IsInRange</a></div><div class="ttdeci">bool IsInRange(float x, float y, float z, float radius) const</div><div class="ttdef"><b>Definition:</b> GameObject.cpp:2160</div></div>
+<div class="ttc" id="aa08022_html_a745a0423be225a755ce40f93a6f0284c"><div class="ttname"><a href="../../d0/dd1/a08022.html#a745a0423be225a755ce40f93a6f0284c">GameObject::IsInRange</a></div><div class="ttdeci">bool IsInRange(float x, float y, float z, float radius) const</div><div class="ttdef"><b>Definition:</b> GameObject.cpp:2142</div></div>
 <div class="ttc" id="aa08218_html_a85475682d62e51bfaf2133b51d41a619"><div class="ttname"><a href="../../de/d68/a08218.html#a85475682d62e51bfaf2133b51d41a619">Object::IsGameObject</a></div><div class="ttdeci">bool IsGameObject() const</div><div class="ttdef"><b>Definition:</b> Object.h:212</div></div>
 <div class="ttc" id="aa08218_html_a96b380b13acdb406d552053cf775180f"><div class="ttname"><a href="../../de/d68/a08218.html#a96b380b13acdb406d552053cf775180f">Object::ToGameObject</a></div><div class="ttdeci">GameObject * ToGameObject()</div><div class="ttdef"><b>Definition:</b> Object.h:213</div></div>
 <div class="ttc" id="aa08218_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../de/d68/a08218.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition:</b> Object.h:204</div></div>
@@ -263,11 +263,11 @@ Public Attributes</h2></td></tr>
 <div class="ttc" id="aa08294_html_a4e813a59345a6275e8b87b96be03e60b"><div class="ttname"><a href="../../d8/d21/a08294.html#a4e813a59345a6275e8b87b96be03e60b">Position::GetPositionZ</a></div><div class="ttdeci">float GetPositionZ() const</div><div class="ttdef"><b>Definition:</b> Position.h:118</div></div>
 <div class="ttc" id="aa08294_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../d8/d21/a08294.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition:</b> Position.h:116</div></div>
 <div class="ttc" id="aa08294_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../d8/d21/a08294.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:117</div></div>
-<div class="ttc" id="aa10918_html_a2ae263977948d2195b22a737c36bad20"><div class="ttname"><a href="../../dd/ddf/a10918.html#a2ae263977948d2195b22a737c36bad20">Acore::WorldObjectSpellTargetCheck::operator()</a></div><div class="ttdeci">bool operator()(WorldObject *target)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:8973</div></div>
+<div class="ttc" id="aa10918_html_a2ae263977948d2195b22a737c36bad20"><div class="ttname"><a href="../../dd/ddf/a10918.html#a2ae263977948d2195b22a737c36bad20">Acore::WorldObjectSpellTargetCheck::operator()</a></div><div class="ttdeci">bool operator()(WorldObject *target)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:8979</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00817">_position</a>, <a class="el" href="../../#l00816">_range</a>, <a class="el" href="../../#l00116">Position::GetPositionX()</a>, <a class="el" href="../../#l00117">Position::GetPositionY()</a>, <a class="el" href="../../#l00118">Position::GetPositionZ()</a>, <a class="el" href="../../#l00130">Creature::IsAvoidingAOE()</a>, <a class="el" href="../../#l00204">Object::IsCreature()</a>, <a class="el" href="../../#l00212">Object::IsGameObject()</a>, <a class="el" href="../../#l02160">GameObject::IsInRange()</a>, <a class="el" href="../../#l01306">WorldObject::IsWithinDist3d()</a>, <a class="el" href="../../#l08973">Acore::WorldObjectSpellTargetCheck::operator()()</a>, <a class="el" href="../../#l00205">Object::ToCreature()</a>, and <a class="el" href="../../#l00213">Object::ToGameObject()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00817">_position</a>, <a class="el" href="../../#l00816">_range</a>, <a class="el" href="../../#l00116">Position::GetPositionX()</a>, <a class="el" href="../../#l00117">Position::GetPositionY()</a>, <a class="el" href="../../#l00118">Position::GetPositionZ()</a>, <a class="el" href="../../#l00130">Creature::IsAvoidingAOE()</a>, <a class="el" href="../../#l00204">Object::IsCreature()</a>, <a class="el" href="../../#l00212">Object::IsGameObject()</a>, <a class="el" href="../../#l02142">GameObject::IsInRange()</a>, <a class="el" href="../../#l01306">WorldObject::IsWithinDist3d()</a>, <a class="el" href="../../#l08979">Acore::WorldObjectSpellTargetCheck::operator()()</a>, <a class="el" href="../../#l00205">Object::ToCreature()</a>, and <a class="el" href="../../#l00213">Object::ToGameObject()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l09079">Acore::WorldObjectSpellConeTargetCheck::operator()()</a>, and <a class="el" href="../../#l09105">Acore::WorldObjectSpellTrajTargetCheck::operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09085">Acore::WorldObjectSpellConeTargetCheck::operator()()</a>, and <a class="el" href="../../#l09111">Acore::WorldObjectSpellTrajTargetCheck::operator()()</a>.</p>
 
 </div>
 </div>
@@ -284,7 +284,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l09059">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09065">operator()()</a>.</p>
 
 </div>
 </div>
@@ -300,7 +300,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l09059">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09065">operator()()</a>.</p>
 
 </div>
 </div>
@@ -310,7 +310,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d20/a04686.html">Acore</a></li><li class="navelem"><a class="el" href="../../d8/d6e/a10926.html">WorldObjectSpellAreaTargetCheck</a></li>
-    <li class="footer">Generated on Mon Jan 13 2025 20:43:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 20 2025 20:42:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

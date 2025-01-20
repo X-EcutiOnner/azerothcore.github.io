@@ -1,7 +1,8 @@
 var a19646 =
 [
-    [ "npc_storm_beacon_spawnAI", "d3/d67/a19646.html#a031c1941f177a18af58efcf4a1270654", null ],
-    [ "UpdateAI", "d3/d67/a19646.html#a249bf56b905ef0c8b34c737d95518c91", null ],
-    [ "_amount", "d3/d67/a19646.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
-    [ "_checkTimer", "d3/d67/a19646.html#a7fd6d449b6a20ba9463896244c513a67", null ]
+    [ "OnApply", "d3/d67/a19646.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "d3/d67/a19646.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "d3/d67/a19646.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "d3/d67/a19646.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "d3/d67/a19646.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

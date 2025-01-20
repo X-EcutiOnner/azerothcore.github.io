@@ -1,5 +1,6 @@
 var a16854 =
 [
-    [ "entry", "d1/d46/a16854.html#a44c7a625896d6fddc15da39988e0b042", null ],
-    [ "pathId", "d1/d46/a16854.html#accd6af0ddfa248a972612d802a1e641e", null ]
+    [ "npc_living_mojoAI", "d6/dee/a16858.html", "d6/dee/a16858" ],
+    [ "npc_living_mojo", "d1/d46/a16854.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "d1/d46/a16854.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

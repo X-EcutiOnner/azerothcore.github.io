@@ -1,8 +1,11 @@
 var a17650 =
 [
-    [ "HandleScript", "d0/db3/a17650.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "d0/db3/a17650.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "d0/db3/a17650.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "d0/db3/a17650.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "d0/db3/a17650.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "npc_little_oozeAI", "d0/db3/a17650.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
+    [ "EnterEvadeMode", "d0/db3/a17650.html#a0bd4bfcc8c373a449f297011289e5530", null ],
+    [ "IsSummonedBy", "d0/db3/a17650.html#afb9763ade36bd742398a8bca961c136b", null ],
+    [ "JustDied", "d0/db3/a17650.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
+    [ "UpdateAI", "d0/db3/a17650.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
+    [ "events", "d0/db3/a17650.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
+    [ "firstUpdate", "d0/db3/a17650.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
+    [ "instance", "d0/db3/a17650.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
 ];

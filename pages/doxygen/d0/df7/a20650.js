@@ -1,7 +1,7 @@
 var a20650 =
 [
-    [ "FilterTargets", "d0/df7/a20650.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
-    [ "HandleDummyEffect", "d0/df7/a20650.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
-    [ "PrepareSpellScript", "d0/df7/a20650.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
-    [ "Register", "d0/df7/a20650.html#a337cdb940a2001ac370768b02126d3c0", null ]
+    [ "HandleEffectCalcPeriodic", "d0/df7/a20650.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "d0/df7/a20650.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "d0/df7/a20650.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "d0/df7/a20650.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

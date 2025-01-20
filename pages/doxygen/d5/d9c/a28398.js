@@ -1,13 +1,12 @@
 var a28398 =
 [
-    [ "liquidTris", "d5/d9c/a28398.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
-    [ "liquidType", "d5/d9c/a28398.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
-    [ "liquidVerts", "d5/d9c/a28398.html#a52796933ab018f27d12f625673f7f8a9", null ],
-    [ "offMeshConnectionDirs", "d5/d9c/a28398.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
-    [ "offMeshConnectionRads", "d5/d9c/a28398.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
-    [ "offMeshConnections", "d5/d9c/a28398.html#a706feac90bb398da61296bac9d0b7176", null ],
-    [ "offMeshConnectionsAreas", "d5/d9c/a28398.html#af5af113433bb2776e6735195e57ab6f7", null ],
-    [ "offMeshConnectionsFlags", "d5/d9c/a28398.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
-    [ "solidTris", "d5/d9c/a28398.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
-    [ "solidVerts", "d5/d9c/a28398.html#a915387c2cfa7111de4a957646a2aace4", null ]
+    [ "Model", "d5/d9c/a28398.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
+    [ "~Model", "d5/d9c/a28398.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
+    [ "_unload", "d5/d9c/a28398.html#a9b02ed73fa006bc057157b636029ab6f", null ],
+    [ "ConvertToVMAPModel", "d5/d9c/a28398.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
+    [ "open", "d5/d9c/a28398.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
+    [ "filename", "d5/d9c/a28398.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
+    [ "header", "d5/d9c/a28398.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
+    [ "indices", "d5/d9c/a28398.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
+    [ "vertices", "d5/d9c/a28398.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
 ];

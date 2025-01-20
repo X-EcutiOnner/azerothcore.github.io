@@ -1,7 +1,6 @@
 var a15306 =
 [
-    [ "npc_kaya_flathoofAI", "d4/d1c/a15306.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "d4/d1c/a15306.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "d4/d1c/a15306.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "d4/d1c/a15306.html#a8fcbb19279b925138ba96d2a450fc404", null ]
+    [ "npc_stone_watcher_of_norgannon", "d4/d1c/a15306.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
+    [ "OnGossipHello", "d4/d1c/a15306.html#a00f526b1b17b68f31a86e892e0997856", null ],
+    [ "OnGossipSelect", "d4/d1c/a15306.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
 ];

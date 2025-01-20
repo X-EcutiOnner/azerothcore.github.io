@@ -1,6 +1,6 @@
 var a14830 =
 [
-    [ "OnPeriodic", "db/d05/a14830.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "db/d05/a14830.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "db/d05/a14830.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "FilterTargets", "db/d05/a14830.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
+    [ "PrepareSpellScript", "db/d05/a14830.html#a32b0be74a9127f920e22aa03c910a005", null ],
+    [ "Register", "db/d05/a14830.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
 ];

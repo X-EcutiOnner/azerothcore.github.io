@@ -1,13 +1,15 @@
 var a15930 =
 [
-    [ "boss_eadricAI", "d4/d18/a15930.html#a461043fe1bff0f5478e2a57504e7477c", null ],
-    [ "DamageTaken", "d4/d18/a15930.html#a440899ffdeda7794ef4fa5530638eecc", null ],
-    [ "JustEngagedWith", "d4/d18/a15930.html#a09a0cebcdffb00e37e9d60111c582669", null ],
-    [ "KilledUnit", "d4/d18/a15930.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
-    [ "MovementInform", "d4/d18/a15930.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
-    [ "Reset", "d4/d18/a15930.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
-    [ "SpellHit", "d4/d18/a15930.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
-    [ "UpdateAI", "d4/d18/a15930.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
-    [ "events", "d4/d18/a15930.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
-    [ "pInstance", "d4/d18/a15930.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
+    [ "npc_argent_soldierAI", "d4/d18/a15930.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
+    [ "DamageTaken", "d4/d18/a15930.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
+    [ "JustDied", "d4/d18/a15930.html#aedf4dcd909c1009fedfde593522454ec", null ],
+    [ "JustEngagedWith", "d4/d18/a15930.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
+    [ "Reset", "d4/d18/a15930.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
+    [ "SetData", "d4/d18/a15930.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
+    [ "UpdateAI", "d4/d18/a15930.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
+    [ "WaypointReached", "d4/d18/a15930.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
+    [ "bCheck", "d4/d18/a15930.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
+    [ "events", "d4/d18/a15930.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
+    [ "pInstance", "d4/d18/a15930.html#ac9951514f27f343ae96e856f484e7baf", null ],
+    [ "uiWaypoint", "d4/d18/a15930.html#a87382571221c608017fd2d4cb99193dc", null ]
 ];

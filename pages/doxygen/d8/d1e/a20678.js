@@ -1,6 +1,5 @@
 var a20678 =
 [
-    [ "OnEffect", "d8/d1e/a20678.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "d8/d1e/a20678.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "d8/d1e/a20678.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "achievement_yogg_saron_drive_me_crazy", "d8/d1e/a20678.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
+    [ "OnCheck", "d8/d1e/a20678.html#a029fdd68e0643b53971efbb1056f19d8", null ]
 ];

@@ -1,9 +1,7 @@
 var a17990 =
 [
-    [ "npc_icc_ice_sphereAI", "d3/dd4/a17990.html#a685f45e5cd15b005646e596ff61088e8", null ],
-    [ "DoAction", "d3/dd4/a17990.html#ac056ecdd93bc716964054f38ab81014e", null ],
-    [ "SelectNewTarget", "d3/dd4/a17990.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
-    [ "UpdateAI", "d3/dd4/a17990.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
-    [ "targetGUID", "d3/dd4/a17990.html#a3e202f9bde2a202d329066f7aab8897c", null ],
-    [ "timer", "d3/dd4/a17990.html#a42842e92926e18ef2589687d81a7d0d4", null ]
+    [ "OnPeriodic", "d3/dd4/a17990.html#a9635bf496ee3098e412ba7de633250b3", null ],
+    [ "PrepareAuraScript", "d3/dd4/a17990.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
+    [ "Register", "d3/dd4/a17990.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
+    [ "Validate", "d3/dd4/a17990.html#a5675fef373315edd34d096bb91c733b0", null ]
 ];

@@ -1,6 +1,8 @@
 var a15026 =
 [
-    [ "npc_injured_draeneiAI", "d4/d5f/a15030.html", "d4/d5f/a15030" ],
-    [ "npc_injured_draenei", "d8/d53/a15026.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
-    [ "GetAI", "d8/d53/a15026.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
+    [ "npc_death_ravagerAI", "d8/d53/a15026.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "d8/d53/a15026.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "d8/d53/a15026.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "d8/d53/a15026.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "d8/d53/a15026.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

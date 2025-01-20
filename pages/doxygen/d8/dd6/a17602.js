@@ -1,11 +1,6 @@
 var a17602 =
 [
-    [ "Load", "d8/dd6/a17602.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "d8/dd6/a17602.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "d8/dd6/a17602.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "d8/dd6/a17602.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "d8/dd6/a17602.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "d8/dd6/a17602.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "d8/dd6/a17602.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "d8/dd6/a17602.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "HandleScript", "d8/dd6/a17602.html#abd766c298f8aa363d28198b6a5d7e374", null ],
+    [ "PrepareSpellScript", "d8/dd6/a17602.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
+    [ "Register", "d8/dd6/a17602.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
 ];

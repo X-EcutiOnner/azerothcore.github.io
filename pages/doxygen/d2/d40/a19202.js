@@ -1,6 +1,6 @@
 var a19202 =
 [
-    [ "npc_stormforged_lieutenantAI", "df/d28/a19206.html", "df/d28/a19206" ],
-    [ "npc_stormforged_lieutenant", "d2/d40/a19202.html#ab58a73d33c6545815511c5c4f0ecfd9e", null ],
-    [ "GetAI", "d2/d40/a19202.html#ae3aba4b53e73097c261eaaed19f17950", null ]
+    [ "boss_lokenAI", "df/d28/a19206.html", "df/d28/a19206" ],
+    [ "boss_loken", "d2/d40/a19202.html#a44ba0ee009dcdfca6ff8739e297ec786", null ],
+    [ "GetAI", "d2/d40/a19202.html#affb73db8ecdc2d035f8076ecca0c9a99", null ]
 ];

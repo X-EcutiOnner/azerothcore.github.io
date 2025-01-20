@@ -1,7 +1,6 @@
 var a13458 =
 [
-    [ "HandleScript", "d0/db9/a13458.html#acd4373ab762d00d262984c36190d6f93", null ],
-    [ "PrepareSpellScript", "d0/db9/a13458.html#a113216b272d0386f248a75bfcf30c6a3", null ],
-    [ "Register", "d0/db9/a13458.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
-    [ "Validate", "d0/db9/a13458.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
+    [ "npc_andorhal_towerAI", "d4/df0/a13462.html", "d4/df0/a13462" ],
+    [ "npc_andorhal_tower", "d0/db9/a13458.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
+    [ "GetAI", "d0/db9/a13458.html#a51139c28da736d26bf27a061862d24ee", null ]
 ];

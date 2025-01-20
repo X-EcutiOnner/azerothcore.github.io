@@ -1,6 +1,6 @@
 var a20094 =
 [
-    [ "OnPeriodic", "dd/d59/a20094.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "dd/d59/a20094.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "dd/d59/a20094.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "npc_ulduar_leviathan_mkiiAI", "d8/dd1/a20098.html", "d8/dd1/a20098" ],
+    [ "npc_ulduar_leviathan_mkii", "dd/d59/a20094.html#a9e4671adcb2409a7c83460d28d29f579", null ],
+    [ "GetAI", "dd/d59/a20094.html#afe438e97b6989a8899850619c87cd7e6", null ]
 ];

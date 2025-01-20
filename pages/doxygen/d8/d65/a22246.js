@@ -1,5 +1,5 @@
 var a22246 =
 [
-    [ "outdoorpvp_na_halaa_creatures", "d8/d65/a22246.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
-    [ "UpdateAI", "d8/d65/a22246.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
+    [ "OutdoorPvP_terokkar_forest", "d8/d65/a22246.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
+    [ "GetOutdoorPvP", "d8/d65/a22246.html#acf268293812d7a1a233e7f1fcba1e733", null ]
 ];

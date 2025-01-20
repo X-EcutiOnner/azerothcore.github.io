@@ -1,5 +1,5 @@
 var a27366 =
 [
-    [ "npc_stable_masterAI", "da/d84/a27366.html#a5c6f9bca1004af163ddb074b606330be", null ],
-    [ "sGossipSelect", "da/d84/a27366.html#a09205661674dd011ffe425deaadde053", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "da/d84/a27366.html#afaa929276f8b131005c9b94daa9a09f9", null ],
+    [ "OnPlayerCompleteQuest", "da/d84/a27366.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
 ];

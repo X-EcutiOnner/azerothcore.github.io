@@ -1,7 +1,25 @@
 var a15518 =
 [
-    [ "npc_ahnkahar_nerubian", "d3/d56/a15518.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "d3/d56/a15518.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "d3/d56/a15518.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "d3/d56/a15518.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "boss_jedoga_shadowseeker", "d3/d56/a15518.html#ab9cbbc07add92d5e02910660d54bac52", null ],
+    [ "DamageTaken", "d3/d56/a15518.html#a049fa9b95e231bbbbc0f9d1970d1281d", null ],
+    [ "DespawnOOCSummons", "d3/d56/a15518.html#ac52f5994af533906e5b60e539c48abb4", null ],
+    [ "DoAction", "d3/d56/a15518.html#aa1c42164d1eb87240443c21c96805bfa", null ],
+    [ "GetData", "d3/d56/a15518.html#a7829368c62ef80d41480e0f8fdfacd06", null ],
+    [ "JustDied", "d3/d56/a15518.html#af2ea97b4d6b74b81b5abc0520e832dbc", null ],
+    [ "JustEngagedWith", "d3/d56/a15518.html#acbd8518cd3d32ddb98d79659a2aa4313", null ],
+    [ "JustSummoned", "d3/d56/a15518.html#a69cef8ffc1b62eab23538cb3d7f342d7", null ],
+    [ "KilledUnit", "d3/d56/a15518.html#a1d6db2fdd85d4df233a65f8963dcd2ad", null ],
+    [ "MoveInLineOfSight", "d3/d56/a15518.html#a3d70de2d7a6d2c50083a684b9d969550", null ],
+    [ "MovementInform", "d3/d56/a15518.html#a4522476699ac513e209d9ee2d56309f0", null ],
+    [ "ReschedulleCombatEvents", "d3/d56/a15518.html#a501370436e01fb860433a8d782b7b37e", null ],
+    [ "Reset", "d3/d56/a15518.html#a3def3996c41da5a5f5ad1368b1cb973d", null ],
+    [ "SummonedCreatureDies", "d3/d56/a15518.html#a3efaecfd3dcf2987b1a8afced8f674b2", null ],
+    [ "UpdateAI", "d3/d56/a15518.html#a7f1d6998efe3fdeb60ba1743c6561902", null ],
+    [ "combatSummonsSummoned", "d3/d56/a15518.html#af300322d9b1f7705289588e217e120a3", null ],
+    [ "oocSummons", "d3/d56/a15518.html#a8ab34fcd605e5c15c4dab7fb3f5a3160", null ],
+    [ "oocTriggers", "d3/d56/a15518.html#adcec05da7f5feeca36e5e9054fba871f", null ],
+    [ "ritualTriggered", "d3/d56/a15518.html#a28837c2f84acf08657cc301e8d382cfc", null ],
+    [ "sacraficeTarget_GUID", "d3/d56/a15518.html#abb1ee99eb8429b0b8d94b75ea41ced9b", null ],
+    [ "sayPreachTimer", "d3/d56/a15518.html#ac4e501a54c8da479cede1378db0c953c", null ],
+    [ "volunteerWork", "d3/d56/a15518.html#aa0ff8d7556662b8db97aebcf27e0d5e4", null ]
 ];

@@ -1,7 +1,8 @@
 var a13962 =
 [
-    [ "go_direbrew_mole_machineAI", "dd/d75/a13962.html#a4e667ad9e572e93c045ae01f63bea648", null ],
-    [ "Reset", "dd/d75/a13962.html#a32dd801b5d898fd8634edcb6cae52bdf", null ],
-    [ "UpdateAI", "dd/d75/a13962.html#a2eaa8a0ad0907e4aa497a7e1c3a31b29", null ],
-    [ "_scheduler", "dd/d75/a13962.html#a5960ff83f21cf5964f422e3a7b297f22", null ]
+    [ "OnApply", "dd/d75/a13962.html#a6f3f05316f025ef638672a82cc855136", null ],
+    [ "PeriodicTick", "dd/d75/a13962.html#a051d292f9483e6b82d773fba3ab52460", null ],
+    [ "PrepareAuraScript", "dd/d75/a13962.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
+    [ "Register", "dd/d75/a13962.html#a0004de73250b8523db2b9ab714c8a246", null ],
+    [ "Validate", "dd/d75/a13962.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
 ];

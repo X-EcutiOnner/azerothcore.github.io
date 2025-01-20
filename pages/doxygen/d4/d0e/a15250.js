@@ -1,10 +1,6 @@
 var a15250 =
 [
-    [ "CreatureId", "d4/d0e/a15250.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
-    [ "DespTimer", "d4/d0e/a15250.html#a0dfec745982b346ac1cd0af672be31fb", null ],
-    [ "SpawnCount", "d4/d0e/a15250.html#ad5347ee83eaa00fe0721279099c48433", null ],
-    [ "SpawnTimer", "d4/d0e/a15250.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
-    [ "UsedSpawnPoint", "d4/d0e/a15250.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
-    [ "WaveTextId", "d4/d0e/a15250.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
-    [ "YellTimer", "d4/d0e/a15250.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
+    [ "npc_anachronos_quest_triggerAI", "db/d8c/a15254.html", "db/d8c/a15254" ],
+    [ "npc_anachronos_quest_trigger", "d4/d0e/a15250.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "d4/d0e/a15250.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

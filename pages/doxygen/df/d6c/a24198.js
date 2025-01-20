@@ -1,6 +1,6 @@
 var a24198 =
 [
-    [ "HandleEffectRemove", "df/d6c/a24198.html#a9472b79a272aff36be657b66883d822f", null ],
-    [ "PrepareAuraScript", "df/d6c/a24198.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
-    [ "Register", "df/d6c/a24198.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
+    [ "HandlePeriodic", "df/d6c/a24198.html#adc387a1b001119b95179856c030853ad", null ],
+    [ "PrepareAuraScript", "df/d6c/a24198.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
+    [ "Register", "df/d6c/a24198.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
 ];

@@ -1,6 +1,6 @@
 var a23958 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "dc/dfe/a23962.html", "dc/dfe/a23962" ],
-    [ "npc_shadowmoon_tuber_node", "d5/d77/a23958.html#a98e8c7a84789457900fa342cca209d41", null ],
-    [ "GetAI", "d5/d77/a23958.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
+    [ "npc_shattrathflaskvendors", "d5/d77/a23958.html#ab74b234406c2022bf519242a7842458a", null ],
+    [ "OnGossipHello", "d5/d77/a23958.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
+    [ "OnGossipSelect", "d5/d77/a23958.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
 ];

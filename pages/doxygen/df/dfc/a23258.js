@@ -1,12 +1,12 @@
 var a23258 =
 [
-    [ "boss_omor_the_unscarred", "df/dfc/a23258.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "df/dfc/a23258.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "df/dfc/a23258.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "df/dfc/a23258.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "df/dfc/a23258.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "df/dfc/a23258.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "df/dfc/a23258.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "df/dfc/a23258.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "df/dfc/a23258.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "boss_watchkeeper_gargolmar", "df/dfc/a23258.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
+    [ "JustDied", "df/dfc/a23258.html#a39be5796b39bea913105fc48dda0d186", null ],
+    [ "JustEngagedWith", "df/dfc/a23258.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
+    [ "KilledUnit", "df/dfc/a23258.html#a22736c2680f41cfd3443a76cd4de9352", null ],
+    [ "MoveInLineOfSight", "df/dfc/a23258.html#adec9837fdb2595ce57acffb279a7d011", null ],
+    [ "Reset", "df/dfc/a23258.html#a356b7fe9071b073b74b21913e35e7408", null ],
+    [ "UpdateAI", "df/dfc/a23258.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
+    [ "_hasSpoken", "df/dfc/a23258.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
+    [ "_taunted", "df/dfc/a23258.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
 ];

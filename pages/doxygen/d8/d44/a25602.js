@@ -1,6 +1,6 @@
 var a25602 =
 [
-    [ "PrepareSpellScript", "d8/d44/a25602.html#a738e105a48f6c603f3d9a690f44b8745", null ],
-    [ "Register", "d8/d44/a25602.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
-    [ "SetDest", "d8/d44/a25602.html#a59641895cead08de4a4503262505ee73", null ]
+    [ "HandleEffect", "d8/d44/a25602.html#a41b46d8918b59a1617f383b3eedfe343", null ],
+    [ "PrepareSpellScript", "d8/d44/a25602.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
+    [ "Register", "d8/d44/a25602.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
 ];

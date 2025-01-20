@@ -1,6 +1,6 @@
 var a18938 =
 [
-    [ "npc_vortex_rideAI", "dd/d0d/a18942.html", "dd/d0d/a18942" ],
-    [ "npc_vortex_ride", "de/db7/a18938.html#ad794cda407c9dfc35dd9bc2724f5014a", null ],
-    [ "GetAI", "de/db7/a18938.html#a23ef53feb432127db2620810a55d02ff", null ]
+    [ "npc_scion_of_eternityAI", "dd/d0d/a18942.html", "dd/d0d/a18942" ],
+    [ "npc_scion_of_eternity", "de/db7/a18938.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
+    [ "GetAI", "de/db7/a18938.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
 ];

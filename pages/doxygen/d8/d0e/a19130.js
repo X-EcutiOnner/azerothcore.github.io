@@ -1,6 +1,7 @@
 var a19130 =
 [
-    [ "npc_oculus_drakeAI", "d1/d65/a19134.html", "d1/d65/a19134" ],
-    [ "npc_oculus_drake", "d8/d0e/a19130.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "d8/d0e/a19130.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "CalcDamage", "d8/d0e/a19130.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
+    [ "PrepareSpellScript", "d8/d0e/a19130.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
+    [ "Register", "d8/d0e/a19130.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
+    [ "Validate", "d8/d0e/a19130.html#a773c608119a84cc3f02e7b4d786f2741", null ]
 ];

@@ -1,6 +1,7 @@
 var a23990 =
 [
-    [ "npc_kservantAI", "d8/d4e/a23994.html", "d8/d4e/a23994" ],
-    [ "npc_kservant", "d1/daf/a23990.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d1/daf/a23990.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "HandleEffectRemove", "d1/daf/a23990.html#a317c238b165ad331beb447ea5d0de7e1", null ],
+    [ "PrepareAuraScript", "d1/daf/a23990.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
+    [ "Register", "d1/daf/a23990.html#a13fdde1557249328306a57e159d821a7", null ],
+    [ "Validate", "d1/daf/a23990.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
 ];

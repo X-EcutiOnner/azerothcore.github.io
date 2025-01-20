@@ -1,8 +1,7 @@
 var a20658 =
 [
-    [ "Absorb", "df/da7/a20658.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
-    [ "CalculateAmount", "df/da7/a20658.html#afe50bf22d07e68757caffb056ad55811", null ],
-    [ "PrepareAuraScript", "df/da7/a20658.html#afa4ef1f7faa36a521c208dde10d09437", null ],
-    [ "Register", "df/da7/a20658.html#aae020936d42da81c445f7d296660987b", null ],
-    [ "Validate", "df/da7/a20658.html#a5852135c5214ee3938603632b0f21917", null ]
+    [ "HandleScriptEffect", "df/da7/a20658.html#aae469190c1edc1fe45914bad1dac4e93", null ],
+    [ "PrepareSpellScript", "df/da7/a20658.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
+    [ "Register", "df/da7/a20658.html#a97265071f226fbd17c37d432cf9e2350", null ],
+    [ "Validate", "df/da7/a20658.html#aeec0bdd2e39db2da657247376ddcd195", null ]
 ];

@@ -1,12 +1,11 @@
 var a16050 =
 [
-    [ "npc_swarm_scarabAI", "d5/dab/a16050.html#a0d0cefd52543044773e7df772f90fd37", null ],
-    [ "CanAIAttack", "d5/dab/a16050.html#a95a27742f4f7fa1af45964b6270a9558", null ],
-    [ "DoAction", "d5/dab/a16050.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
-    [ "JustDied", "d5/dab/a16050.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
-    [ "JustEngagedWith", "d5/dab/a16050.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
-    [ "Reset", "d5/dab/a16050.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
-    [ "UpdateAI", "d5/dab/a16050.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
-    [ "despawnTimer", "d5/dab/a16050.html#a6d35e43af695ac112b972badb665f06d", null ],
-    [ "determinationTimer", "d5/dab/a16050.html#af319dbf16bc1d3939602465f0a87d30c", null ]
+    [ "npc_anubarak_spikeAI", "d5/dab/a16050.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
+    [ "DamageTaken", "d5/dab/a16050.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
+    [ "DoAction", "d5/dab/a16050.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
+    [ "Reset", "d5/dab/a16050.html#af5b4a1227467d86d9dbba57362fdf360", null ],
+    [ "SelectNewTarget", "d5/dab/a16050.html#ab9ed5d53703464c488267f578a214fb8", null ],
+    [ "UpdateAI", "d5/dab/a16050.html#af8d6d840785c718d963c7b150cd12d9c", null ],
+    [ "events", "d5/dab/a16050.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
+    [ "TargetGUID", "d5/dab/a16050.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
 ];

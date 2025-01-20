@@ -1,6 +1,6 @@
 var a16490 =
 [
-    [ "FilterTargets", "d8/d4c/a16490.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "d8/d4c/a16490.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "d8/d4c/a16490.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "npc_fos_leader_secondAI", "d1/d57/a16494.html", "d1/d57/a16494" ],
+    [ "npc_fos_leader_second", "d8/d4c/a16490.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
+    [ "GetAI", "d8/d4c/a16490.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
 ];

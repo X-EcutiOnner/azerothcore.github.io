@@ -1,6 +1,6 @@
 var a23846 =
 [
-    [ "HandleEffectRemove", "d8/ded/a23846.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
-    [ "PrepareAuraScript", "d8/ded/a23846.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
-    [ "Register", "d8/ded/a23846.html#ac02217c103db141d75377e233e1e4242", null ]
+    [ "npc_infernal_attackerAI", "dd/d51/a23850.html", "dd/d51/a23850" ],
+    [ "npc_infernal_attacker", "d8/ded/a23846.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "d8/ded/a23846.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

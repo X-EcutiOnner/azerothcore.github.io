@@ -1,7 +1,7 @@
 var a15342 =
 [
-    [ "npc_giltharesAI", "df/d05/a15346.html", "df/d05/a15346" ],
-    [ "npc_gilthares", "da/d98/a15342.html#af1e0746350b32b68825710e1c3ed91a5", null ],
-    [ "GetAI", "da/d98/a15342.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
-    [ "OnQuestAccept", "da/d98/a15342.html#a018cc6240a79216acb371241f63e3234", null ]
+    [ "npc_wizzlecrank_shredderAI", "df/d05/a15346.html", "df/d05/a15346" ],
+    [ "npc_wizzlecrank_shredder", "da/d98/a15342.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "da/d98/a15342.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "da/d98/a15342.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

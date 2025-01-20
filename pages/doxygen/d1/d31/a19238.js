@@ -1,6 +1,6 @@
 var a19238 =
 [
-    [ "boss_volkhanAI", "d5/dea/a19242.html", "d5/dea/a19242" ],
-    [ "boss_volkhan", "d1/d31/a19238.html#a9dcb6026fbf3116df9abf5acaf1bfcc2", null ],
-    [ "GetAI", "d1/d31/a19238.html#aa0f76b387f9f74e0eb6dedd1b44ce34a", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d5/dea/a19242.html", "d5/dea/a19242" ],
+    [ "instance_halls_of_lightning", "d1/d31/a19238.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "d1/d31/a19238.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

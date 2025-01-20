@@ -1,6 +1,6 @@
 var a15078 =
 [
-    [ "npc_murkdeepAI", "da/d01/a15082.html", "da/d01/a15082" ],
-    [ "npc_murkdeep", "d7/d8d/a15078.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "d7/d8d/a15078.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "npc_rabid_thistle_bearAI", "da/d01/a15082.html", "da/d01/a15082" ],
+    [ "npc_rabid_thistle_bear", "d7/d8d/a15078.html#a34b20a4ea22d74352712dee105247d56", null ],
+    [ "GetAI", "d7/d8d/a15078.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
 ];

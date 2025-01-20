@@ -1,5 +1,6 @@
 var a14258 =
 [
-    [ "achievement_pb_pilgrims_peril", "df/dd5/a14258.html#a9516eab18d7e1401a5637913d8ec9595", null ],
-    [ "OnCheck", "df/dd5/a14258.html#a78c92eab532448080c1d28dc8fcabaca", null ]
+    [ "HandleScriptEffect", "df/dd5/a14258.html#a2acaaf3716237f147429cb07779ae49e", null ],
+    [ "PrepareSpellScript", "df/dd5/a14258.html#a55df717ede47b17a32ae33ecd64617cd", null ],
+    [ "Register", "df/dd5/a14258.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
 ];

@@ -1,6 +1,7 @@
 var a15142 =
 [
-    [ "npc_tiger_matriarchAI", "dd/d48/a15146.html", "dd/d48/a15146" ],
-    [ "npc_tiger_matriarch", "d4/d3c/a15142.html#a05a08bfa64c428213a4b534a982afb71", null ],
-    [ "GetAI", "d4/d3c/a15142.html#a6d5664ca125a775c2d71f322f5a57655", null ]
+    [ "HandleDummy", "d4/d3c/a15142.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "d4/d3c/a15142.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "d4/d3c/a15142.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "d4/d3c/a15142.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

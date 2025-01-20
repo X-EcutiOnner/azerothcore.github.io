@@ -1,8 +1,10 @@
 var a13710 =
 [
-    [ "FilterTargets", "d7/d05/a13710.html#a28450a72f3d8510bdf35390f56a67f71", null ],
-    [ "HandleScriptEffect", "d7/d05/a13710.html#af97c3c43da4b099bc37e2cf4f2733dce", null ],
-    [ "PrepareSpellScript", "d7/d05/a13710.html#ac9298a59bc8b9735c210b630c68a536e", null ],
-    [ "Register", "d7/d05/a13710.html#a3bfc71bb504a0eb0f63ff307c943c23e", null ],
-    [ "Validate", "d7/d05/a13710.html#a41b2f12ebf919b781fdefab3a42bdb84", null ]
+    [ "npc_batrider", "d7/d05/a13710.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
+    [ "DamageTaken", "d7/d05/a13710.html#ad4818b1363082a91223526908c38777c", null ],
+    [ "JustEngagedWith", "d7/d05/a13710.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
+    [ "Reset", "d7/d05/a13710.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
+    [ "UpdateAI", "d7/d05/a13710.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
+    [ "_mode", "d7/d05/a13710.html#acd53ec78a754219511af1ad2f11422a9", null ],
+    [ "_scheduler", "d7/d05/a13710.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
 ];

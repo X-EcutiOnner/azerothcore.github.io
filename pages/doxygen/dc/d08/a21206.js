@@ -1,6 +1,5 @@
 var a21206 =
 [
-    [ "npc_sinkhole_kill_creditAI", "de/dff/a21210.html", "de/dff/a21210" ],
-    [ "npc_sinkhole_kill_credit", "dc/d08/a21206.html#a627d01aaaa3408986f2b4d171624e680", null ],
-    [ "GetAI", "dc/d08/a21206.html#a4d734432f132bea2c4525d049fbcfa67", null ]
+    [ "npc_nerubar_victimAI", "dc/d08/a21206.html#a494976030dd48544742dd14fc09ffdbd", null ],
+    [ "JustDied", "dc/d08/a21206.html#abe3813465cad08800708726cb7ffa021", null ]
 ];

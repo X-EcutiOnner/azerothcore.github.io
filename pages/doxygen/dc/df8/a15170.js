@@ -1,8 +1,6 @@
 var a15170 =
 [
-    [ "CheckRequirement", "dc/df8/a15170.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "dc/df8/a15170.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "dc/df8/a15170.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "dc/df8/a15170.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "dc/df8/a15170.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_bunthen_plainswind", "dc/df8/a15170.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "dc/df8/a15170.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "dc/df8/a15170.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

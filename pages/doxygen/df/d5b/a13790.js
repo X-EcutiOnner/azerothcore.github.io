@@ -1,6 +1,6 @@
 var a13790 =
 [
-    [ "OnRemove", "df/d5b/a13790.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
-    [ "PrepareAuraScript", "df/d5b/a13790.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
-    [ "Register", "df/d5b/a13790.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
+    [ "HandleOnHit", "df/d5b/a13790.html#a36909ef786940eb1a05539c968d78e80", null ],
+    [ "PrepareSpellScript", "df/d5b/a13790.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
+    [ "Register", "df/d5b/a13790.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
 ];

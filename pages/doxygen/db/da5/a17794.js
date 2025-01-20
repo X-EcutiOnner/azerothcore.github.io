@@ -1,6 +1,5 @@
 var a17794 =
 [
-    [ "FilterTargets", "db/da5/a17794.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "db/da5/a17794.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "db/da5/a17794.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "achievement_all_you_can_eat", "db/da5/a17794.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "db/da5/a17794.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

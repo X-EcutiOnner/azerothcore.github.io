@@ -1,7 +1,9 @@
 var a13366 =
 [
-    [ "pyrewood_ambushAI", "d9/d0d/a13370.html", "d9/d0d/a13370" ],
-    [ "pyrewood_ambush", "da/d92/a13366.html#a07dfe00bcc86320c4968ca10e9480322", null ],
-    [ "GetAI", "da/d92/a13366.html#a4067c8aca15fe1f783eadd277b635fa8", null ],
-    [ "OnQuestAccept", "da/d92/a13366.html#add2804a9a76559dc5f051102f067e0bf", null ]
+    [ "npc_marzon_silent_bladeAI", "da/d92/a13366.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "da/d92/a13366.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "da/d92/a13366.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "da/d92/a13366.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "da/d92/a13366.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "da/d92/a13366.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

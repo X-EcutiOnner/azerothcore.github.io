@@ -1,6 +1,6 @@
 var a21966 =
 [
-    [ "npc_time_lost_proto_drakeAI", "d6/db9/a21970.html", "d6/db9/a21970" ],
-    [ "npc_time_lost_proto_drake", "d6/dba/a21966.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
-    [ "GetAI", "d6/dba/a21966.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
+    [ "npc_roxi_ramrocket", "d6/dba/a21966.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
+    [ "OnGossipHello", "d6/dba/a21966.html#adec28f778921246c56f11d09753e566e", null ],
+    [ "OnGossipSelect", "d6/dba/a21966.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
 ];

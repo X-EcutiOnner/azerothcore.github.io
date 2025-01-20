@@ -1,13 +1,14 @@
 var a12926 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "db/d6e/a12926.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
-    [ "Initialize", "db/d6e/a12926.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
-    [ "OnCreatureCreate", "db/d6e/a12926.html#a3f9cca96886b97f7657edc04f4997d41", null ],
-    [ "OnGameObjectCreate", "db/d6e/a12926.html#ad420b6b549b8d76a80844d81548b1143", null ],
-    [ "ReadSaveDataMore", "db/d6e/a12926.html#a83a24703aafb973809618d3ac3ac0375", null ],
-    [ "SetData", "db/d6e/a12926.html#abdc105e9306d9abc776259be97e2488f", null ],
-    [ "WriteSaveDataMore", "db/d6e/a12926.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
-    [ "_apothecaryHummel", "db/d6e/a12926.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
-    [ "_crazedApothecaryGeneratorGUIDs", "db/d6e/a12926.html#a00880eedbbc2deb4dc36e4c851558861", null ],
-    [ "_encounters", "db/d6e/a12926.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
+    [ "boss_sothos", "db/d6e/a12926.html#a2e7283078d4049ff339f29c3fdfc69cf", null ],
+    [ "DoAction", "db/d6e/a12926.html#a1433dddccb71896016bc014bdf92b453", null ],
+    [ "IsSummonedBy", "db/d6e/a12926.html#aaaf7e317f146bb296c4ba6f57c5f72d4", null ],
+    [ "JustDied", "db/d6e/a12926.html#a2d634aade37ea887f6bbf4b43baf061d", null ],
+    [ "JustEngagedWith", "db/d6e/a12926.html#ace8a0c92ec3ab3e76cceb63c5b4a277b", null ],
+    [ "Reset", "db/d6e/a12926.html#a042578148cae9a0b9befb7c5747a8e99", null ],
+    [ "UpdateAI", "db/d6e/a12926.html#a35e247fa9bfe00927b844af8d0ef916f", null ],
+    [ "_jarienDied", "db/d6e/a12926.html#a74725d8a4b3ce9fbfb9f06868fa02055", null ],
+    [ "_phase", "db/d6e/a12926.html#a5719cd4a85527c256fb7f048be6489f7", null ],
+    [ "_scheduler", "db/d6e/a12926.html#a5e18256858cd594b45628508500e5f1a", null ],
+    [ "_talked", "db/d6e/a12926.html#a3f3c0d0a079aad1306b638e8ff34f2f6", null ]
 ];

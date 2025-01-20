@@ -1,6 +1,6 @@
 var a13958 =
 [
-    [ "go_direbrew_mole_machineAI", "dd/d75/a13962.html", "dd/d75/a13962" ],
-    [ "go_direbrew_mole_machine", "d8/d98/a13958.html#a759d291a5be227d8beae3bbc779e56f4", null ],
-    [ "GetAI", "d8/d98/a13958.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
+    [ "PeriodicTick", "d8/d98/a13958.html#a0832c36a9497674374b2998398bfc3a4", null ],
+    [ "PrepareAuraScript", "d8/d98/a13958.html#a89acb64235da1ff59da90a509fbeec9d", null ],
+    [ "Register", "d8/d98/a13958.html#aab689a2cb84dcd064736171035640584", null ]
 ];

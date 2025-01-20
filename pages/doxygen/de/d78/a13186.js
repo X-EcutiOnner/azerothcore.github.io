@@ -1,7 +1,6 @@
 var a13186 =
 [
-    [ "PeriodicTick", "de/d78/a13186.html#acca46d585d06d461f735cddb6075b3b1", null ],
-    [ "PrepareAuraScript", "de/d78/a13186.html#abd7382ab22efd3d82c4f00745255d024", null ],
-    [ "Register", "de/d78/a13186.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
-    [ "Validate", "de/d78/a13186.html#acb31ba162452a30ff0c208829560f9fd", null ]
+    [ "instance_uldaman_InstanceMapScript", "da/d13/a13190.html", "da/d13/a13190" ],
+    [ "instance_uldaman", "de/d78/a13186.html#a854807db729d15aa4a09aad051fe3bda", null ],
+    [ "GetInstanceScript", "de/d78/a13186.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
 ];

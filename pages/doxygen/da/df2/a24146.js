@@ -1,9 +1,13 @@
 var a24146 =
 [
-    [ "npc_pet_gen_toxic_wasteling", "da/df2/a24146.html#a550a1a9324f605b1a9fd715571f819b7", null ],
-    [ "EnterEvadeMode", "da/df2/a24146.html#abe25deca7fd1c319085995657d62f22a", null ],
-    [ "MovementInform", "da/df2/a24146.html#aec73d567c3bd178ffee3bdece83a409e", null ],
-    [ "Reset", "da/df2/a24146.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
-    [ "UpdateAI", "da/df2/a24146.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
-    [ "checkTimer", "da/df2/a24146.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
+    [ "npc_pet_mage_mirror_image", "da/df2/a24146.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
+    [ "EnterEvadeMode", "da/df2/a24146.html#a858b070fb53112dc78554f0b20cd876a", null ],
+    [ "InitializeAI", "da/df2/a24146.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
+    [ "MySelectNextTarget", "da/df2/a24146.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
+    [ "Reset", "da/df2/a24146.html#a79a8c153ab61c619d928ec5535e67077", null ],
+    [ "UpdateAI", "da/df2/a24146.html#aa219b3adc38b625c6885089895b941b4", null ],
+    [ "_ebonGargoyleGUID", "da/df2/a24146.html#a8be57d06114f108e74b850ce66722bf3", null ],
+    [ "checktarget", "da/df2/a24146.html#a074611355768dc2072da69ed9d72242b", null ],
+    [ "dist", "da/df2/a24146.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
+    [ "selectionTimer", "da/df2/a24146.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
 ];

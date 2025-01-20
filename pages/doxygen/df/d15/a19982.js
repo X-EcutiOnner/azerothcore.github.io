@@ -1,6 +1,5 @@
 var a19982 =
 [
-    [ "HandleAfterEffectApply", "df/d15/a19982.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "df/d15/a19982.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "df/d15/a19982.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "achievement_staying_buffed_all_winter_10", "df/d15/a19982.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
+    [ "OnCheck", "df/d15/a19982.html#a67587b1659a8d026e73b42311148541a", null ]
 ];

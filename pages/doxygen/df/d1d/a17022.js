@@ -1,6 +1,6 @@
 var a17022 =
 [
-    [ "npc_kinetic_bombAI", "de/d75/a17026.html", "de/d75/a17026" ],
-    [ "npc_kinetic_bomb", "df/d1d/a17022.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
-    [ "GetAI", "df/d1d/a17022.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
+    [ "ModAuraStack", "df/d1d/a17022.html#a7535ef148e047e32a5f7a1944585e396", null ],
+    [ "PrepareSpellScript", "df/d1d/a17022.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
+    [ "Register", "df/d1d/a17022.html#ab44b362197e74b98b3ffeb98eff52742", null ]
 ];

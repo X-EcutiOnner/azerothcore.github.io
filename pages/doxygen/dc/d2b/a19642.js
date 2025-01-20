@@ -1,6 +1,5 @@
 var a19642 =
 [
-    [ "npc_storm_beacon_spawnAI", "d3/d67/a19646.html", "d3/d67/a19646" ],
-    [ "npc_storm_beacon_spawn", "dc/d2b/a19642.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
-    [ "GetAI", "dc/d2b/a19642.html#a780dd823962e259dbeda7089224aa23e", null ]
+    [ "go_ulduar_tower", "dc/d2b/a19642.html#afc1add1a0543921f52afe1eb907f5de3", null ],
+    [ "OnDestroyed", "dc/d2b/a19642.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
 ];

@@ -1,8 +1,5 @@
 var a19846 =
 [
-    [ "OnApply", "df/dcd/a19846.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
-    [ "OnRemove", "df/dcd/a19846.html#a4709f570f9014eb36bc8c65269470373", null ],
-    [ "PrepareAuraScript", "df/dcd/a19846.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
-    [ "Register", "df/dcd/a19846.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
-    [ "Validate", "df/dcd/a19846.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
+    [ "achievement_shadowdodger", "df/dcd/a19846.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
+    [ "OnCheck", "df/dcd/a19846.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
 ];

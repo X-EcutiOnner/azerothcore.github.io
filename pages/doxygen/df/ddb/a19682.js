@@ -1,8 +1,6 @@
 var a19682 =
 [
-    [ "Area", "df/ddb/a19682.html#a0b9dc74e944f13e3291184645f432477", [
-      [ "AREA_FORMATION_GROUNDS", "df/ddb/a19682.html#a0b9dc74e944f13e3291184645f432477a92a09caedcec4a8b97c3e4601308d450", null ]
-    ] ],
-    [ "FlameLeviathanPursuedTargetSelector", "df/ddb/a19682.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
-    [ "operator()", "df/ddb/a19682.html#aaa2a49366fb651f7486b463ce597f364", null ]
+    [ "CheckAreaTarget", "df/ddb/a19682.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "df/ddb/a19682.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "df/ddb/a19682.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

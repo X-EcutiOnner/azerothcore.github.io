@@ -1,5 +1,7 @@
 var a23802 =
 [
-    [ "go_warmaul_prison", "d8/d76/a23802.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "d8/d76/a23802.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "npc_bessyAI", "de/d93/a23806.html", "de/d93/a23806" ],
+    [ "npc_bessy", "d8/d76/a23802.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d8/d76/a23802.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d8/d76/a23802.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

@@ -1,7 +1,7 @@
 var a15858 =
 [
-    [ "OnApply", "d3/d01/a15858.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
-    [ "PrepareAuraScript", "d3/d01/a15858.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
-    [ "Register", "d3/d01/a15858.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
-    [ "Validate", "d3/d01/a15858.html#a2c9e4d82bd25f439e01a05700563b122", null ]
+    [ "HandleDummy", "d3/d01/a15858.html#a96b430cb0546fb599da22cd675660187", null ],
+    [ "PrepareSpellScript", "d3/d01/a15858.html#ad0330cb78a330f05c18f33375f231fbc", null ],
+    [ "Register", "d3/d01/a15858.html#a70a36683a235dec6044a8a32f20c606c", null ],
+    [ "Validate", "d3/d01/a15858.html#affa7ccf869e98eacd3a153cc645d704e", null ]
 ];

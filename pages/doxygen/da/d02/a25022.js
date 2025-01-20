@@ -1,7 +1,5 @@
 var a25022 =
 [
-    [ "OnPeriodic", "da/d02/a25022.html#a58f13f947b4daac98651f7fa46d7d674", null ],
-    [ "PrepareAuraScript", "da/d02/a25022.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
-    [ "Register", "da/d02/a25022.html#ad0c688255e340c428624de7071b5df56", null ],
-    [ "Validate", "da/d02/a25022.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
+    [ "PrepareSpellScript", "da/d02/a25022.html#a7478d96ac24bc4b70a10bc83335c9b76", null ],
+    [ "Register", "da/d02/a25022.html#ab3ab9557cd1969fd977a3df6f2c59d7c", null ]
 ];

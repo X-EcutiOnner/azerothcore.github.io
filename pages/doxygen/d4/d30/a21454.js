@@ -1,6 +1,6 @@
 var a21454 =
 [
-    [ "npc_mindless_ghoulAI", "d8/d47/a21458.html", "d8/d47/a21458" ],
-    [ "npc_mindless_ghoul", "d4/d30/a21454.html#ac5bf71e719c0df04687f426a022fd65e", null ],
-    [ "GetAI", "d4/d30/a21454.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
+    [ "CheckCast", "d4/d30/a21454.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
+    [ "PrepareSpellScript", "d4/d30/a21454.html#abff433d61c798d17882292b6b0956a58", null ],
+    [ "Register", "d4/d30/a21454.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
 ];

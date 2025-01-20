@@ -1,9 +1,10 @@
 var a14682 =
 [
-    [ "spell_gen_ayamiss_swarmer_loop", "d4/df9/a14682.html#ad910e172ef6866f102fa3407f676169a", null ],
-    [ "HandleScript", "d4/df9/a14682.html#acd0dffad436cb414deb546b192957783", null ],
-    [ "Load", "d4/df9/a14682.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
-    [ "PrepareSpellScript", "d4/df9/a14682.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
-    [ "Register", "d4/df9/a14682.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
-    [ "_pathId", "d4/df9/a14682.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
+    [ "boss_moam", "d4/df9/a14682.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "d4/df9/a14682.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "d4/df9/a14682.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "d4/df9/a14682.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "d4/df9/a14682.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "d4/df9/a14682.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "d4/df9/a14682.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

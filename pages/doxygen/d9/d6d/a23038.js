@@ -1,7 +1,6 @@
 var a23038 =
 [
-    [ "HandleScriptEffect", "d9/d6d/a23038.html#ad5e905710a20436f120c979c865571c9", null ],
-    [ "PrepareSpellScript", "d9/d6d/a23038.html#ab44aa98f47162b50f30622d67ac75395", null ],
-    [ "Register", "d9/d6d/a23038.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
-    [ "Validate", "d9/d6d/a23038.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
+    [ "boss_rokmar_the_crackler", "d9/d6d/a23038.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "d9/d6d/a23038.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "d9/d6d/a23038.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

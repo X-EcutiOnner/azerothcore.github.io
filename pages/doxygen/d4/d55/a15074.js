@@ -1,7 +1,8 @@
 var a15074 =
 [
-    [ "npc_webbed_creatureAI", "d4/d55/a15074.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
-    [ "JustDied", "d4/d55/a15074.html#a153d461124ec9266ffcac147a217f6d9", null ],
-    [ "JustEngagedWith", "d4/d55/a15074.html#ac52ad6512bcaee35932f856abdac80d4", null ],
-    [ "Reset", "d4/d55/a15074.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
+    [ "npc_prospector_remtravelAI", "d4/d55/a15074.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d4/d55/a15074.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d4/d55/a15074.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d4/d55/a15074.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d4/d55/a15074.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

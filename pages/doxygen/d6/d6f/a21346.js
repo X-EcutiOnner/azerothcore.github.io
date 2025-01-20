@@ -1,6 +1,6 @@
 var a21346 =
 [
-    [ "npc_counselor_talbotAI", "da/dfc/a21350.html", "da/dfc/a21350" ],
-    [ "npc_counselor_talbot", "d6/d6f/a21346.html#a9223380bb78afeda617482bea0a3110c", null ],
-    [ "GetAI", "d6/d6f/a21346.html#a3debd13352146a247d635042ecbfa155", null ]
+    [ "npc_mei_francis_mountAI", "da/dfc/a21350.html", "da/dfc/a21350" ],
+    [ "npc_mei_francis_mount", "d6/d6f/a21346.html#ab34facb1d4d9a542710340493488eaa8", null ],
+    [ "GetAI", "d6/d6f/a21346.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
 ];

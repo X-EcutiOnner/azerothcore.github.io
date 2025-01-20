@@ -1,6 +1,5 @@
 var a20194 =
 [
-    [ "npc_ulduar_flames_spreadAI", "d5/d80/a20198.html", "d5/d80/a20198" ],
-    [ "npc_ulduar_flames_spread", "df/da1/a20194.html#aca9713b28d6d0c7b13b85a00c8a53ab0", null ],
-    [ "GetAI", "df/da1/a20194.html#af492a5bc9304a05f8475a39458c6abdb", null ]
+    [ "achievement_mimiron_firefighter", "df/da1/a20194.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
+    [ "OnCheck", "df/da1/a20194.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
 ];

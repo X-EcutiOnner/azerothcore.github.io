@@ -1,6 +1,6 @@
 var a15274 =
 [
-    [ "npc_anachronos_quest_triggerAI", "d6/d65/a15278.html", "d6/d65/a15278" ],
-    [ "npc_anachronos_quest_trigger", "d0/ddc/a15274.html#ad39871952acd3152b51820fe360f4ebd", null ],
-    [ "GetAI", "d0/ddc/a15274.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
+    [ "npc_braug_dimspirit", "d0/ddc/a15274.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
+    [ "OnGossipHello", "d0/ddc/a15274.html#aeaed026edf5a1fa82c941f667c05815b", null ],
+    [ "OnGossipSelect", "d0/ddc/a15274.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
 ];

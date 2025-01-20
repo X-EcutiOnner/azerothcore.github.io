@@ -1,7 +1,6 @@
 var a16726 =
 [
-    [ "HandlePeriodicTick", "d2/dea/a16726.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
-    [ "PrepareAuraScript", "d2/dea/a16726.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
-    [ "Register", "d2/dea/a16726.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
-    [ "Validate", "d2/dea/a16726.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
+    [ "npc_pos_leaderAI", "de/d9e/a16730.html", "de/d9e/a16730" ],
+    [ "npc_pos_leader", "d2/dea/a16726.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
+    [ "GetAI", "d2/dea/a16726.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
 ];

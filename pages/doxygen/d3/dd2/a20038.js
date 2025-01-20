@@ -1,9 +1,6 @@
 var a20038 =
 [
-    [ "HandleEffectPeriodic", "d3/dd2/a20038.html#adc6e83abb52a21528c07a1d989818dcf", null ],
-    [ "OnApply", "d3/dd2/a20038.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
-    [ "OnRemove", "d3/dd2/a20038.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
-    [ "PrepareAuraScript", "d3/dd2/a20038.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
-    [ "Register", "d3/dd2/a20038.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
-    [ "Validate", "d3/dd2/a20038.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
+    [ "boss_kologarn_eyebeamAI", "d8/d63/a20042.html", "d8/d63/a20042" ],
+    [ "boss_kologarn_eyebeam", "d3/dd2/a20038.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
+    [ "GetAI", "d3/dd2/a20038.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
 ];

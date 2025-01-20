@@ -1,6 +1,6 @@
 var a19090 =
 [
-    [ "boss_eregosAI", "d1/d49/a19094.html", "d1/d49/a19094" ],
-    [ "boss_eregos", "dc/da4/a19090.html#a105820f29aa1391d77a56e024c4b5637", null ],
-    [ "GetAI", "dc/da4/a19090.html#aee43f0dfee70ab9618c560a27504cb02", null ]
+    [ "instance_oculus_InstanceMapScript", "d1/d49/a19094.html", "d1/d49/a19094" ],
+    [ "instance_oculus", "dc/da4/a19090.html#a404205ea7106531ea57307c40b9589bb", null ],
+    [ "GetInstanceScript", "dc/da4/a19090.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
 ];

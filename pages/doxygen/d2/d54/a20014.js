@@ -1,6 +1,9 @@
 var a20014 =
 [
-    [ "npc_ulduar_iron_constructAI", "d2/ddf/a20018.html", "d2/ddf/a20018" ],
-    [ "npc_ulduar_iron_construct", "d2/d54/a20014.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
-    [ "GetAI", "d2/d54/a20014.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
+    [ "HandleEffectPeriodic", "d2/d54/a20014.html#adc6e83abb52a21528c07a1d989818dcf", null ],
+    [ "OnApply", "d2/d54/a20014.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
+    [ "OnRemove", "d2/d54/a20014.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
+    [ "PrepareAuraScript", "d2/d54/a20014.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
+    [ "Register", "d2/d54/a20014.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
+    [ "Validate", "d2/d54/a20014.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
 ];

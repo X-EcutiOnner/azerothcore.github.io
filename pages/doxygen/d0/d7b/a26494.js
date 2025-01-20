@@ -1,6 +1,10 @@
 var a26494 =
 [
-    [ "HandleBanish", "d0/d7b/a26494.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "d0/d7b/a26494.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "d0/d7b/a26494.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "CalculateAmount", "d0/d7b/a26494.html#a9e0e28d871f9d3c89cf2dc862971321d", null ],
+    [ "Detonate", "d0/d7b/a26494.html#adc622aae157984546dfe3d8373c0c413", null ],
+    [ "HandleProc", "d0/d7b/a26494.html#a3b5812649b67830d8dc6d10b5dd1c937", null ],
+    [ "OnRemove", "d0/d7b/a26494.html#a5067cef0afc99d487f995f8d6edea21f", null ],
+    [ "PrepareAuraScript", "d0/d7b/a26494.html#abc23ebb3761e3505486ac578bdeaeeed", null ],
+    [ "Register", "d0/d7b/a26494.html#acc4819698e175889a0491d7f7cc680fd", null ],
+    [ "Validate", "d0/d7b/a26494.html#a0649826ce0d66c9f21be8d47c76f4941", null ]
 ];

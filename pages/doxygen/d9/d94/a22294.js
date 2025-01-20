@@ -1,12 +1,8 @@
 var a22294 =
 [
-    [ "OPvPCapturePointZM_Beacon", "d9/d94/a22294.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
-    [ "ChangeState", "d9/d94/a22294.html#a5bbe87c18c814358596a9648fd92b129", null ],
-    [ "FillInitialWorldStates", "d9/d94/a22294.html#aedeeea5a7c1424a0dff51fe06dfaa23a", null ],
-    [ "HandlePlayerEnter", "d9/d94/a22294.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
-    [ "HandlePlayerLeave", "d9/d94/a22294.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
-    [ "SendChangePhase", "d9/d94/a22294.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
-    [ "UpdateTowerState", "d9/d94/a22294.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
-    [ "m_TowerState", "d9/d94/a22294.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
-    [ "m_TowerType", "d9/d94/a22294.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
+    [ "CalcPeriodic", "d9/d94/a22294.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
+    [ "OnRemove", "d9/d94/a22294.html#af120bb9d6a0c3d338706613540849412", null ],
+    [ "PrepareAuraScript", "d9/d94/a22294.html#ad413f14193013058e1775f80b457a81d", null ],
+    [ "Register", "d9/d94/a22294.html#aa35fc5865f108712e450661e67c384ce", null ],
+    [ "Update", "d9/d94/a22294.html#aebc61b57ed8038488ec06c14483b2099", null ]
 ];

@@ -1,8 +1,7 @@
 var a19418 =
 [
-    [ "npc_algalon_worm_holeAI", "de/d0d/a19418.html#a07b36b40972bebea6b17890aa8fee50c", null ],
-    [ "JustSummoned", "de/d0d/a19418.html#a148de5da4502813e369ec6c52b1671a0", null ],
-    [ "Reset", "de/d0d/a19418.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
-    [ "UpdateAI", "de/d0d/a19418.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
-    [ "_summonTimer", "de/d0d/a19418.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
+    [ "HandleDummyEffect", "de/d0d/a19418.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "de/d0d/a19418.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "de/d0d/a19418.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "de/d0d/a19418.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

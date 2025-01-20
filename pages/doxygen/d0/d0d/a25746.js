@@ -1,7 +1,6 @@
 var a25746 =
 [
-    [ "AfterRemove", "d0/d0d/a25746.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
-    [ "PrepareAuraScript", "d0/d0d/a25746.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
-    [ "Register", "d0/d0d/a25746.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
-    [ "Validate", "d0/d0d/a25746.html#ae08f33e0271166afa87208faa30684c4", null ]
+    [ "CheckProc", "d0/d0d/a25746.html#a5b8ee53249a19954e4d46b17422207d5", null ],
+    [ "PrepareAuraScript", "d0/d0d/a25746.html#a2640f58f3e7442c37615b61ecf938a6f", null ],
+    [ "Register", "d0/d0d/a25746.html#a55be2362ac226caa615e07a2a3b5ea38", null ]
 ];

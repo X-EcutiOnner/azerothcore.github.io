@@ -1,6 +1,6 @@
 var a13166 =
 [
-    [ "npc_singularity", "d8/d9e/a13166.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
-    [ "Reset", "d8/d9e/a13166.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
-    [ "UpdateAI", "d8/d9e/a13166.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "de/d6b/a13170.html", "de/d6b/a13170" ],
+    [ "instance_sunwell_plateau", "d8/d9e/a13166.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
+    [ "GetInstanceScript", "d8/d9e/a13166.html#a5960785a845c87e2e1730cfd865b44b4", null ]
 ];

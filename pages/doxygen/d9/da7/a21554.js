@@ -1,8 +1,6 @@
 var a21554 =
 [
-    [ "npc_q24545_vegardAI", "d9/da7/a21554.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
-    [ "JustDied", "d9/da7/a21554.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
-    [ "KilledUnit", "d9/da7/a21554.html#a2d78117a6c2a29f52f1905595425964a", null ],
-    [ "UpdateAI", "d9/da7/a21554.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
-    [ "events", "d9/da7/a21554.html#a68f48d92cc5559025e635d599c2882e3", null ]
+    [ "HandleDummy", "d9/da7/a21554.html#afe86744c6ab901750731fca486ff2e6c", null ],
+    [ "PrepareSpellScript", "d9/da7/a21554.html#a47e8a3187fa523c61842885f1cbd041d", null ],
+    [ "Register", "d9/da7/a21554.html#a61b1b63167b3dc562b9916ffce1e4eee", null ]
 ];

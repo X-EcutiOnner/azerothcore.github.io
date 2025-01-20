@@ -1,7 +1,7 @@
 var a14674 =
 [
-    [ "HandleScript", "d6/d9a/a14674.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
-    [ "Load", "d6/d9a/a14674.html#a2dc1edf537f58133fb4daabde9f43843", null ],
-    [ "PrepareSpellScript", "d6/d9a/a14674.html#ae856c6e70ededa95c0308596a9f980af", null ],
-    [ "Register", "d6/d9a/a14674.html#ac2e82c7e626658faa968f75c26688b43", null ]
+    [ "boss_kurinnaxx", "d6/d9a/a14674.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "d6/d9a/a14674.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "d6/d9a/a14674.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "d6/d9a/a14674.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

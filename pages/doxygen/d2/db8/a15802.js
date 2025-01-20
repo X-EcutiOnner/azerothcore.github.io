@@ -1,6 +1,7 @@
 var a15802 =
 [
-    [ "npc_halion_controllerAI", "dc/dd5/a15806.html", "dc/dd5/a15806" ],
-    [ "npc_halion_controller", "d2/db8/a15802.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
-    [ "GetAI", "d2/db8/a15802.html#a3c5ea3f0597c070005744ea788a05383", null ]
+    [ "HandlePeriodic", "d2/db8/a15802.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
+    [ "PrepareAuraScript", "d2/db8/a15802.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
+    [ "Register", "d2/db8/a15802.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
+    [ "Validate", "d2/db8/a15802.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
 ];

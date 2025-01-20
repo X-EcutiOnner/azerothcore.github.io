@@ -1,12 +1,10 @@
 var a13278 =
 [
-    [ "npc_cameron", "d2/d7f/a13278.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
-    [ "MoveTheChildren", "d2/d7f/a13278.html#a85ae436f19f69ffb853330f01ee152a0", null ],
-    [ "PathEndReached", "d2/d7f/a13278.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
-    [ "sOnGameEvent", "d2/d7f/a13278.html#ab22841871cfcdc926b28296a5b4e440c", null ],
-    [ "SoundPicker", "d2/d7f/a13278.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
-    [ "UpdateAI", "d2/d7f/a13278.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
-    [ "_childrenGUIDs", "d2/d7f/a13278.html#ad260466902e8fb1a2e02998cc4549695", null ],
-    [ "_events", "d2/d7f/a13278.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
-    [ "_started", "d2/d7f/a13278.html#a985d0590eedde340a3923e299d4dffd8", null ]
+    [ "npc_sentinel_leader", "d2/d7f/a13278.html#a583c43b047dd5c172938d60ef647ecd5", null ],
+    [ "JustEngagedWith", "d2/d7f/a13278.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
+    [ "MovementInform", "d2/d7f/a13278.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
+    [ "Reset", "d2/d7f/a13278.html#ad638ba6ce33753af6a0165c053a90d78", null ],
+    [ "UpdateAI", "d2/d7f/a13278.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
+    [ "_events", "d2/d7f/a13278.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
+    [ "_helpCalled", "d2/d7f/a13278.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
 ];

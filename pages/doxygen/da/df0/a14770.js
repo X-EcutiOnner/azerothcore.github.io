@@ -1,6 +1,6 @@
 var a14770 =
 [
-    [ "HandleScript", "da/df0/a14770.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
-    [ "PrepareSpellScript", "da/df0/a14770.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
-    [ "Register", "da/df0/a14770.html#a434f0aef7f32edb6990efb992e4d57af", null ]
+    [ "FilterTargets", "da/df0/a14770.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
+    [ "PrepareSpellScript", "da/df0/a14770.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
+    [ "Register", "da/df0/a14770.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
 ];

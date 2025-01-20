@@ -1,7 +1,6 @@
 var a17418 =
 [
-    [ "DamageGunship", "d7/d50/a17418.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
-    [ "PrepareSpellScript", "d7/d50/a17418.html#aa698d016ae58d665c081976f20ec0385", null ],
-    [ "Register", "d7/d50/a17418.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
-    [ "Validate", "d7/d50/a17418.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
+    [ "boss_lady_deathwhisperAI", "de/d44/a17422.html", "de/d44/a17422" ],
+    [ "boss_lady_deathwhisper", "d7/d50/a17418.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "d7/d50/a17418.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

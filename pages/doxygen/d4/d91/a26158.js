@@ -1,6 +1,6 @@
 var a26158 =
 [
-    [ "OnApply", "d4/d91/a26158.html#a50ced6d5a475ccad9429dfbb05130394", null ],
-    [ "PrepareAuraScript", "d4/d91/a26158.html#abd02e129b1201449d473a66aea77d569", null ],
-    [ "Register", "d4/d91/a26158.html#a8c09775f642335252c6e548900dc9d3a", null ]
+    [ "HandleEffectPeriodic", "d4/d91/a26158.html#ab283b40ceb6dcd0a835550531321ce92", null ],
+    [ "PrepareAuraScript", "d4/d91/a26158.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
+    [ "Register", "d4/d91/a26158.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
 ];

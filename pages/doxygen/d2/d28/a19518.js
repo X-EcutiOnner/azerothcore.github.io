@@ -1,6 +1,6 @@
 var a19518 =
 [
-    [ "achievement_assembly_of_iron", "d2/d28/a19518.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "d2/d28/a19518.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "d2/d28/a19518.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "npc_auriaya_feral_defenderAI", "d4/d74/a19522.html", "d4/d74/a19522" ],
+    [ "npc_auriaya_feral_defender", "d2/d28/a19518.html#ae1afc396a1d9e6c9c2042ee0f58fb270", null ],
+    [ "GetAI", "d2/d28/a19518.html#abec35e280e42154af82f3e7e4fcec48d", null ]
 ];

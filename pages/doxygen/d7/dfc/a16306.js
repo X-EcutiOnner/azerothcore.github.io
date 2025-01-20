@@ -1,6 +1,9 @@
 var a16306 =
 [
-    [ "boss_eydisAI", "d6/d76/a16310.html", "d6/d76/a16310" ],
-    [ "boss_eydis", "d7/dfc/a16306.html#aa555f80882499bc4627e622fbb48b2a4", null ],
-    [ "GetAI", "d7/dfc/a16306.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
+    [ "npc_concentrated_ballAI", "d7/dfc/a16306.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
+    [ "DoAction", "d7/dfc/a16306.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
+    [ "MovementInform", "d7/dfc/a16306.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
+    [ "MoveToNextPoint", "d7/dfc/a16306.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
+    [ "UpdateAI", "d7/dfc/a16306.html#a6509ff14639bca29b6877db54102d004", null ],
+    [ "despawning", "d7/dfc/a16306.html#a24145c6c4c38b5a1853647d24871090d", null ]
 ];

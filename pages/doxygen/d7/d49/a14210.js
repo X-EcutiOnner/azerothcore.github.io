@@ -1,11 +1,7 @@
 var a14210 =
 [
-    [ "HandleFinish", "d7/d49/a14210.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
-    [ "HandleScript", "d7/d49/a14210.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
-    [ "Load", "d7/d49/a14210.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
-    [ "PrepareSpellScript", "d7/d49/a14210.html#a9714f48de3982feb245f78efb8008f1b", null ],
-    [ "Register", "d7/d49/a14210.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
-    [ "ThrowNextTorch", "d7/d49/a14210.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
-    [ "Validate", "d7/d49/a14210.html#a026fbf7123f6780459c19ff04b370b08", null ],
-    [ "handled", "d7/d49/a14210.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
+    [ "GetVisualThrow", "d7/d49/a14210.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "d7/d49/a14210.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "d7/d49/a14210.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "d7/d49/a14210.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

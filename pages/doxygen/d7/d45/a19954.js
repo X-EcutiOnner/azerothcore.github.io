@@ -1,10 +1,7 @@
 var a19954 =
 [
-    [ "HandleEffectPeriodic", "d7/d45/a19954.html#aa62be73e00d9cb512806787eaf1c4144", null ],
-    [ "Load", "d7/d45/a19954.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
-    [ "PrepareAuraScript", "d7/d45/a19954.html#ad9664bff267b330565d3c706e1752e9d", null ],
-    [ "Register", "d7/d45/a19954.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
-    [ "Validate", "d7/d45/a19954.html#a3f6653b4ca202d9b0971189930e8b463", null ],
-    [ "_counter", "d7/d45/a19954.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
-    [ "_prev", "d7/d45/a19954.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
+    [ "HandleEffectPeriodic", "d7/d45/a19954.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "d7/d45/a19954.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "d7/d45/a19954.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "d7/d45/a19954.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

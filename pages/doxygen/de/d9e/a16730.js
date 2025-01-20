@@ -1,7 +1,15 @@
 var a16730 =
 [
-    [ "HandlePeriodicTick", "de/d9e/a16730.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
-    [ "PrepareAuraScript", "de/d9e/a16730.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
-    [ "Register", "de/d9e/a16730.html#a4653ccb0d93d056adf3b14056865787c", null ],
-    [ "Validate", "de/d9e/a16730.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
+    [ "npc_pos_leaderAI", "de/d9e/a16730.html#a21973bccde394785f8619df7cae5270b", null ],
+    [ "AttackStart", "de/d9e/a16730.html#a6dc4161441752b8ea9baab642d6a0684", null ],
+    [ "JustSummoned", "de/d9e/a16730.html#a03bfcd0ea38073ff8481188d1b570553", null ],
+    [ "MoveInLineOfSight", "de/d9e/a16730.html#ad28f607b313f7729649261969912eba5", null ],
+    [ "Reset", "de/d9e/a16730.html#aee23a2835b84ac060a29b41c10116904", null ],
+    [ "SetData", "de/d9e/a16730.html#a2b49d5045e0d1e25e7a05b1e3ce65b4f", null ],
+    [ "SummonedCreatureDespawn", "de/d9e/a16730.html#a9a35459cf7b83c9f0afc557d1b0b40e7", null ],
+    [ "UpdateAI", "de/d9e/a16730.html#a1507ab4bdade501cf92f843cec20842d", null ],
+    [ "counter", "de/d9e/a16730.html#a7012a08c6409a40646dcd91a47eb6886", null ],
+    [ "events", "de/d9e/a16730.html#a7ea570e98c7a70ae604861c2166eb429", null ],
+    [ "pInstance", "de/d9e/a16730.html#a1ba3692738d6bd474d54fe8910a7f316", null ],
+    [ "summons", "de/d9e/a16730.html#a44b5ee694d96644da91167c7d793eeb3", null ]
 ];

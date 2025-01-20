@@ -1,6 +1,6 @@
 var a16742 =
 [
-    [ "instance_pit_of_saron_InstanceScript", "d7/d80/a16746.html", "d7/d80/a16746" ],
-    [ "instance_pit_of_saron", "dd/d5b/a16742.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
-    [ "GetInstanceScript", "dd/d5b/a16742.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
+    [ "npc_pos_after_first_bossAI", "d7/d80/a16746.html", "d7/d80/a16746" ],
+    [ "npc_pos_after_first_boss", "dd/d5b/a16742.html#a76ae57195ceca454928245f2db12f68c", null ],
+    [ "GetAI", "dd/d5b/a16742.html#a3f807335f79218ecc70c32f5496267a6", null ]
 ];

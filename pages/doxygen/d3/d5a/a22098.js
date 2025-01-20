@@ -1,6 +1,9 @@
 var a22098 =
 [
-    [ "CheckCast", "d3/d5a/a22098.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "d3/d5a/a22098.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "d3/d5a/a22098.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "npc_finklesteinAI", "df/d1d/a22102.html", "df/d1d/a22102" ],
+    [ "npc_finklestein", "d3/d5a/a22098.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "d3/d5a/a22098.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "d3/d5a/a22098.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "d3/d5a/a22098.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "d3/d5a/a22098.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

@@ -1,8 +1,13 @@
 var a21930 =
 [
-    [ "CheckCast", "d8/dcd/a21930.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "d8/dcd/a21930.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "d8/dcd/a21930.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "d8/dcd/a21930.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "d8/dcd/a21930.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "npc_frosthoundAI", "d8/dcd/a21930.html#ac8f41789568399318cdc30292abfd93b", null ],
+    [ "AttackStart", "d8/dcd/a21930.html#a0278736f670f5aac069b03530f441ae1", null ],
+    [ "EnterEvadeMode", "d8/dcd/a21930.html#acc1a3842ddae670e23d8c55e8768ace9", null ],
+    [ "JustDied", "d8/dcd/a21930.html#a26f4657c1d373cf4a2b45f6487a9e901", null ],
+    [ "JustEngagedWith", "d8/dcd/a21930.html#a80eec4a19fb53be5946b2e021b8dd332", null ],
+    [ "JustSummoned", "d8/dcd/a21930.html#a8db3dbace66dabfa54800cacbfdfab9b", null ],
+    [ "OnCharmed", "d8/dcd/a21930.html#ae1e2a4763e8bfc8ab04687829830c639", null ],
+    [ "PassengerBoarded", "d8/dcd/a21930.html#aea512a9811ec0766b9b175ec2ca9a447", null ],
+    [ "UpdateAI", "d8/dcd/a21930.html#a9a755fd6d53d124c441357472fcb73e0", null ],
+    [ "WaypointReached", "d8/dcd/a21930.html#aa87f8d5bbbd105481773941a90a96cf6", null ]
 ];

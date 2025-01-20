@@ -1,7 +1,6 @@
 var a15158 =
 [
-    [ "HandleEffectPeriodic", "d5/d5b/a15158.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "d5/d5b/a15158.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "d5/d5b/a15158.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "d5/d5b/a15158.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "npcs_riverbreeze_and_silversky", "d5/d5b/a15158.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "d5/d5b/a15158.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "d5/d5b/a15158.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

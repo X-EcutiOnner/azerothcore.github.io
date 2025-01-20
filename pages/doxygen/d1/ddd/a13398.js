@@ -1,6 +1,6 @@
 var a13398 =
 [
-    [ "npc_tyrion_spybotAI", "de/d6f/a13402.html", "de/d6f/a13402" ],
-    [ "npc_tyrion_spybot", "d1/ddd/a13398.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
-    [ "GetAI", "d1/ddd/a13398.html#af81b70437703edc8d99fe24249891dd6", null ]
+    [ "npc_parqual_fintallas", "d1/ddd/a13398.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
+    [ "OnGossipHello", "d1/ddd/a13398.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
+    [ "OnGossipSelect", "d1/ddd/a13398.html#a39276ef82ec5214a1727ebd60235a506", null ]
 ];

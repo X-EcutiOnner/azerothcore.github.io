@@ -1,6 +1,6 @@
 var a19354 =
 [
-    [ "iron_golem_custodianAI", "d1/d5c/a19358.html", "d1/d5c/a19358" ],
-    [ "iron_golem_custodian", "d1/dcc/a19354.html#adc11b755e193adbad757c21e5b15e063", null ],
-    [ "GetAI", "d1/dcc/a19354.html#a272e0c9fe475a665aa80a95f1e1d8629", null ]
+    [ "CosmicSmashDamageEvent", "d1/dcc/a19354.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "d1/dcc/a19354.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "d1/dcc/a19354.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

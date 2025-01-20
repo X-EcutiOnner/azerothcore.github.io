@@ -1,6 +1,6 @@
 var a21866 =
 [
-    [ "npc_still_at_it_triggerAI", "da/d7c/a21870.html", "da/d7c/a21870" ],
-    [ "npc_still_at_it_trigger", "dd/daf/a21866.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "dd/daf/a21866.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "npc_avatar_of_freya", "dd/daf/a21866.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
+    [ "OnGossipHello", "dd/daf/a21866.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
+    [ "OnGossipSelect", "dd/daf/a21866.html#aba1b13e922873e939b2510b4bc77f49d", null ]
 ];

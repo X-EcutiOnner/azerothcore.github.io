@@ -1,7 +1,7 @@
 var a18430 =
 [
-    [ "HandleScript", "d4/dcf/a18430.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "d4/dcf/a18430.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "d4/dcf/a18430.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "d4/dcf/a18430.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "OnRemove", "d4/dcf/a18430.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
+    [ "PrepareAuraScript", "d4/dcf/a18430.html#acf654e563f47df9ad033d7080f47662b", null ],
+    [ "Register", "d4/dcf/a18430.html#aad4497ba7cad48b9547e8696714d8c23", null ],
+    [ "Validate", "d4/dcf/a18430.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
 ];

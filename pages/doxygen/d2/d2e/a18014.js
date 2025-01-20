@@ -1,7 +1,6 @@
 var a18014 =
 [
-    [ "OnPeriodic", "d2/d2e/a18014.html#a9635bf496ee3098e412ba7de633250b3", null ],
-    [ "PrepareAuraScript", "d2/d2e/a18014.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
-    [ "Register", "d2/d2e/a18014.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
-    [ "Validate", "d2/d2e/a18014.html#a5675fef373315edd34d096bb91c733b0", null ]
+    [ "HandleScript", "d2/d2e/a18014.html#a9489c3454830d3826cb077c95947bf2d", null ],
+    [ "PrepareSpellScript", "d2/d2e/a18014.html#a19492e616ac6e69187bca4499175071e", null ],
+    [ "Register", "d2/d2e/a18014.html#a3446174d3308f535c27581b63ade9e8a", null ]
 ];

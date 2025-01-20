@@ -1,6 +1,6 @@
 var a18410 =
 [
-    [ "HandleEvent", "dc/d16/a18410.html#a7936a64a1142a47b2addfd746dccfcef", null ],
-    [ "PrepareSpellScript", "dc/d16/a18410.html#a00e2be07131c674558d0364df98849ab", null ],
-    [ "Register", "dc/d16/a18410.html#a89364583504d2eaa75473586850bc3d5", null ]
+    [ "PrepareSpellScript", "dc/d16/a18410.html#aac12da39c503615036120e3e0cd55622", null ],
+    [ "Register", "dc/d16/a18410.html#a808d2283be9714c14f22a2df0a52dd61", null ],
+    [ "RelocateDest", "dc/d16/a18410.html#a843c9dc403404ddd2de667e57e01f00c", null ]
 ];

@@ -1,7 +1,6 @@
 var a14710 =
 [
-    [ "FilterTargets", "d4/de3/a14710.html#a59e477333a54ec828a429d15b35d4936", null ],
-    [ "HandleScript", "d4/de3/a14710.html#a983fe53aa52e53a45685055fde04a3b7", null ],
-    [ "PrepareSpellScript", "d4/de3/a14710.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
-    [ "Register", "d4/de3/a14710.html#a45ac61990990f16c98eaa7136297afc5", null ]
+    [ "FilterTargets", "d4/de3/a14710.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
+    [ "PrepareSpellScript", "d4/de3/a14710.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
+    [ "Register", "d4/de3/a14710.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
 ];

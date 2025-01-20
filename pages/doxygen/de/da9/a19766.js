@@ -1,6 +1,6 @@
 var a19766 =
 [
-    [ "boss_freya_elder_ironbranchAI", "d8/d54/a19770.html", "d8/d54/a19770" ],
-    [ "boss_freya_elder_ironbranch", "de/da9/a19766.html#a066083e4d6fde6439f7dce80be209075", null ],
-    [ "GetAI", "de/da9/a19766.html#a67f483d12fe801c1d840dd0f74396564", null ]
+    [ "boss_freya_healthy_sporeAI", "d8/d54/a19770.html", "d8/d54/a19770" ],
+    [ "boss_freya_healthy_spore", "de/da9/a19766.html#a16633136393061aa98c7a98f535d421e", null ],
+    [ "GetAI", "de/da9/a19766.html#ae76eb3b334f82c536f71fdcfc86e4382", null ]
 ];

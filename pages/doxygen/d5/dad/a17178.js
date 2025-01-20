@@ -1,6 +1,6 @@
 var a17178 =
 [
-    [ "PrepareAuraScript", "d5/dad/a17178.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
-    [ "RecalculateHook", "d5/dad/a17178.html#a829e96cabbb565922f7183adb3edf13c", null ],
-    [ "Register", "d5/dad/a17178.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
+    [ "boss_festergutAI", "da/d84/a17182.html", "da/d84/a17182" ],
+    [ "boss_festergut", "d5/dad/a17178.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "d5/dad/a17178.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

@@ -1,6 +1,6 @@
 var a14446 =
 [
-    [ "boss_salrammAI", "d0/df2/a14450.html", "d0/df2/a14450" ],
-    [ "boss_salramm", "df/d5e/a14446.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
-    [ "GetAI", "df/d5e/a14446.html#ab6b400f0d329d4def074d012de47f53d", null ]
+    [ "npc_crate_helperAI", "df/d5e/a14446.html#ad58a2f3746da7862658fb3b9e1580836", null ],
+    [ "SpellHit", "df/d5e/a14446.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
+    [ "_marked", "df/d5e/a14446.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
 ];

@@ -1,6 +1,6 @@
 var a20826 =
 [
-    [ "npc_massive_jormungarAI", "df/d65/a20830.html", "df/d65/a20830" ],
-    [ "npc_massive_jormungar", "d5/d4a/a20826.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "d5/d4a/a20826.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "npc_frenzied_worgenAI", "df/d65/a20830.html", "df/d65/a20830" ],
+    [ "npc_frenzied_worgen", "d5/d4a/a20826.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
+    [ "GetAI", "d5/d4a/a20826.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
 ];

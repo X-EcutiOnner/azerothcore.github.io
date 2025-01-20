@@ -1,6 +1,6 @@
 var a21070 =
 [
-    [ "boss_xevozzAI", "d5/d82/a21074.html", "d5/d82/a21074" ],
-    [ "boss_xevozz", "d6/dfe/a21070.html#a814ac939c4570d33450c4a6664833087", null ],
-    [ "GetAI", "d6/dfe/a21070.html#a712d8ed125d464da56b677914fbf8796", null ]
+    [ "instance_violet_hold_InstanceMapScript", "d5/d82/a21074.html", "d5/d82/a21074" ],
+    [ "instance_violet_hold", "d6/dfe/a21070.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "d6/dfe/a21070.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
 ];

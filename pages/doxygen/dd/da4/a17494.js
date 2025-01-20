@@ -1,6 +1,7 @@
 var a17494 =
 [
-    [ "BoneStormMoveTargetSelector", "dd/da4/a17494.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
-    [ "operator()", "dd/da4/a17494.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
-    [ "_source", "dd/da4/a17494.html#a03d8b1ec5f18398fe2963418bb319973", null ]
+    [ "HandleScriptEffect", "dd/da4/a17494.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "dd/da4/a17494.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "dd/da4/a17494.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "dd/da4/a17494.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

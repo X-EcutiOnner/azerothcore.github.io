@@ -1,9 +1,6 @@
 var a23750 =
 [
-    [ "npc_wounded_blood_elfAI", "db/d57/a23750.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "db/d57/a23750.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "db/d57/a23750.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "db/d57/a23750.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "db/d57/a23750.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "db/d57/a23750.html#a5affcb00e28a582f8926ab2226001cd0", null ]
+    [ "go_magtheridons_head", "db/d57/a23750.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "db/d57/a23750.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "db/d57/a23750.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

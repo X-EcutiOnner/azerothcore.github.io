@@ -1,6 +1,7 @@
 var a13794 =
 [
-    [ "LaunchHit", "d4/dc7/a13794.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
-    [ "PrepareSpellScript", "d4/dc7/a13794.html#a4ad316b68d84921255577aedabb5ad3f", null ],
-    [ "Register", "d4/dc7/a13794.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
+    [ "HandleApply", "d4/dc7/a13794.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
+    [ "HandleRemove", "d4/dc7/a13794.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
+    [ "PrepareAuraScript", "d4/dc7/a13794.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
+    [ "Register", "d4/dc7/a13794.html#af2343add2ed014832bd34d11519b391b", null ]
 ];

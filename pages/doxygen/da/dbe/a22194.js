@@ -1,5 +1,5 @@
 var a22194 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "da/dbe/a22194.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
-    [ "GetOutdoorPvP", "da/dbe/a22194.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
+    [ "OutdoorPvP_grizzly_hills", "da/dbe/a22194.html#aa020d8120c62874fb15b4623bbb714d9", null ],
+    [ "GetOutdoorPvP", "da/dbe/a22194.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
 ];

@@ -1,10 +1,13 @@
 var a14402 =
 [
-    [ "npc_hyjal_frost_wyrm", "df/d82/a14402.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "df/d82/a14402.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "df/d82/a14402.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "df/d82/a14402.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "df/d82/a14402.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "df/d82/a14402.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "df/d82/a14402.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "boss_infinite_corruptorAI", "df/d82/a14402.html#add36192941eaabf7f3d1d41c572783bd", null ],
+    [ "DoAction", "df/d82/a14402.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
+    [ "JustDied", "df/d82/a14402.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
+    [ "JustEngagedWith", "df/d82/a14402.html#a644725505db4fc7a98c4255d0eb34616", null ],
+    [ "JustSummoned", "df/d82/a14402.html#a2b12c03184b169a56a0e6696a107dc35", null ],
+    [ "Reset", "df/d82/a14402.html#a4dbff495bfcda6fb715dec68616e1764", null ],
+    [ "UpdateAI", "df/d82/a14402.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
+    [ "beamTimer", "df/d82/a14402.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
+    [ "events", "df/d82/a14402.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
+    [ "summons", "df/d82/a14402.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
 ];

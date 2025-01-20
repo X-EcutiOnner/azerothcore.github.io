@@ -1,9 +1,5 @@
 var a20206 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d9/dc4/a20206.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
-    [ "AttackStart", "d9/dc4/a20206.html#aa18e89f63e98112efeb69328f8fdc296", null ],
-    [ "MoveInLineOfSight", "d9/dc4/a20206.html#a6384437fff9349df0cfa5053b37313ea", null ],
-    [ "MovementInform", "d9/dc4/a20206.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
-    [ "UpdateAI", "d9/dc4/a20206.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
-    [ "events", "d9/dc4/a20206.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "d9/dc4/a20206.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "d9/dc4/a20206.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

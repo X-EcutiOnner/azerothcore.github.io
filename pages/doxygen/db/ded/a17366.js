@@ -1,6 +1,9 @@
 var a17366 =
 [
-    [ "IgbExplosionCheck", "db/ded/a17366.html#ae67cca111f26a275614810cbe053bcd8", null ],
-    [ "operator()", "db/ded/a17366.html#a28ce6685366e99db2aa1e4022012f943", null ],
-    [ "_source", "db/ded/a17366.html#a413ee8f2218621d274d118aea967dc9b", null ]
+    [ "CalculatePower", "db/ded/a17366.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "db/ded/a17366.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "db/ded/a17366.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "db/ded/a17366.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "db/ded/a17366.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "db/ded/a17366.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

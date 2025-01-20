@@ -1,6 +1,9 @@
 var a18462 =
 [
-    [ "HandleScript", "d9/d71/a18462.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "d9/d71/a18462.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "d9/d71/a18462.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "d9/d71/a18462.html#a18330d49e510f83af7ee0120df14e633", null ],
+    [ "AttackStart", "d9/d71/a18462.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
+    [ "JustEngagedWith", "d9/d71/a18462.html#adddd56260b41738d69fcdfe31b677c51", null ],
+    [ "Reset", "d9/d71/a18462.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
+    [ "UpdateAI", "d9/d71/a18462.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
+    [ "events", "d9/d71/a18462.html#a1c8a527d217f9b810f87da0fc020528a", null ]
 ];

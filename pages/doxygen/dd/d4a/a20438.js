@@ -1,9 +1,7 @@
 var a20438 =
 [
-    [ "npc_xt002_pummellerAI", "dd/d4a/a20438.html#a2942c05c93036c2e02b9a72c784441b1", null ],
-    [ "Reset", "dd/d4a/a20438.html#a6542fb3e585f100f06f6be14a1346306", null ],
-    [ "UpdateAI", "dd/d4a/a20438.html#a959990310303ff2102f1c03852b4ab8e", null ],
-    [ "_arcingSmashTimer", "dd/d4a/a20438.html#a830fda66756dc3f34a530939116e7556", null ],
-    [ "_trampleTimer", "dd/d4a/a20438.html#ae5e450601861f83b20419405bb92ef6d", null ],
-    [ "_uppercutTimer", "dd/d4a/a20438.html#a5a1bdb380438070effc091ec37db6aec", null ]
+    [ "FilterTargets", "dd/d4a/a20438.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "dd/d4a/a20438.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "dd/d4a/a20438.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "dd/d4a/a20438.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

@@ -1,6 +1,12 @@
 var a16546 =
 [
-    [ "boss_marwynAI", "d9/dea/a16550.html", "d9/dea/a16550" ],
-    [ "boss_marwyn", "dd/d32/a16546.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
-    [ "GetAI", "dd/d32/a16546.html#af1c83878d2121163994bc327ae8e04f7", null ]
+    [ "npc_ghostly_priestAI", "dd/d32/a16546.html#abb6815d1395b68654eeb6ab8b4217388", null ],
+    [ "AttackStart", "dd/d32/a16546.html#a9719d1ad6e58b727bc1720cb815be3e9", null ],
+    [ "DoAction", "dd/d32/a16546.html#a89c991a1d4c07f1229436871f503c949", null ],
+    [ "EnterEvadeMode", "dd/d32/a16546.html#ab8fd2df32ef12f5f648b8af9abcc3201", null ],
+    [ "JustDied", "dd/d32/a16546.html#a004e8aec05741b9ee36b0695840e6c2a", null ],
+    [ "JustEngagedWith", "dd/d32/a16546.html#a780d530e224ca1f72e26db17cd57f44a", null ],
+    [ "Reset", "dd/d32/a16546.html#ab8f7559110be76633153842e0714554a", null ],
+    [ "UpdateAI", "dd/d32/a16546.html#ab431f451963d0b608f11129934496700", null ],
+    [ "events", "dd/d32/a16546.html#a9b49c143b5a29b4f9b4ce34ce0aecca7", null ]
 ];

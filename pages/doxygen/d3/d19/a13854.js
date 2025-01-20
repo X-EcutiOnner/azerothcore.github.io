@@ -1,6 +1,6 @@
 var a13854 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "d2/d17/a13858.html", "d2/d17/a13858" ],
-    [ "instance_zulgurub", "d3/d19/a13854.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
-    [ "GetInstanceScript", "d3/d19/a13854.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
+    [ "npc_brewfest_bark_trigger", "d3/d19/a13854.html#a110d654792e1f5dae8b17f014ea3d425", null ],
+    [ "GetTextFor", "d3/d19/a13854.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
+    [ "MoveInLineOfSight", "d3/d19/a13854.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
 ];

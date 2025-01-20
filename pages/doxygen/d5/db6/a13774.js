@@ -1,6 +1,6 @@
 var a13774 =
 [
-    [ "npc_ohganAI", "db/db6/a13778.html", "db/db6/a13778" ],
-    [ "npc_ohgan", "d5/db6/a13774.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
-    [ "GetAI", "d5/db6/a13774.html#a129dc2fcd449850403e0dcb99725da90", null ]
+    [ "LaunchHit", "d5/db6/a13774.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
+    [ "PrepareSpellScript", "d5/db6/a13774.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
+    [ "Register", "d5/db6/a13774.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
 ];

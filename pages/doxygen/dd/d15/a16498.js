@@ -1,18 +1,10 @@
 var a16498 =
 [
-    [ "boss_devourer_of_soulsAI", "dd/d15/a16498.html#aa54d512a3bcf22ba64872bf60ed89ca3", null ],
-    [ "CanAIAttack", "dd/d15/a16498.html#a48b79a3429dec44486d6bd858d5b6edb", null ],
-    [ "EnterEvadeMode", "dd/d15/a16498.html#a0c2c380955e5b24c387b8dd8f00567cc", null ],
-    [ "GetData", "dd/d15/a16498.html#a7d99dba5d3c6725c5f6cbc8a0cc0ec9f", null ],
-    [ "JustDied", "dd/d15/a16498.html#a6e5a944ffbf325aa1bc591ef288c593f", null ],
-    [ "JustEngagedWith", "dd/d15/a16498.html#a1f3b4a9d31a0704807fb9b44237c7b4b", null ],
-    [ "JustSummoned", "dd/d15/a16498.html#ae3c5c0c1d905c424102a6e3a360d61d7", null ],
-    [ "KilledUnit", "dd/d15/a16498.html#aba4ed91e1f61ddd1db29509700a4e0c8", null ],
-    [ "Reset", "dd/d15/a16498.html#aefc761b1142cc6941394a4e3402662d7", null ],
-    [ "SpellHitTarget", "dd/d15/a16498.html#ad503ae8ea66c964bc5997019c9118856", null ],
-    [ "UpdateAI", "dd/d15/a16498.html#ac387b29bcb23f1697bc8b5b1a94e9ee1", null ],
-    [ "bAchiev", "dd/d15/a16498.html#ad57135868c5c631a4add0dea0067feb0", null ],
-    [ "events", "dd/d15/a16498.html#ac0467332ad699f9c60cc9dc257d9e1df", null ],
-    [ "pInstance", "dd/d15/a16498.html#a78204e146c22a80df48d8a6840e70790", null ],
-    [ "summons", "dd/d15/a16498.html#a6602605118c8d64dabec4b96c8e99436", null ]
+    [ "HandleAfterEffectAbsorb", "dd/d15/a16498.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "dd/d15/a16498.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "dd/d15/a16498.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "dd/d15/a16498.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "dd/d15/a16498.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "dd/d15/a16498.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "dd/d15/a16498.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

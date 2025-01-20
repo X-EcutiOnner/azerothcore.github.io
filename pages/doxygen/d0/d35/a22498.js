@@ -1,8 +1,7 @@
 var a22498 =
 [
-    [ "Load", "d0/d35/a22498.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "d0/d35/a22498.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "d0/d35/a22498.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "d0/d35/a22498.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "d0/d35/a22498.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "VerasEnvenom", "d0/d35/a22498.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d0/d35/a22498.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d0/d35/a22498.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d0/d35/a22498.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

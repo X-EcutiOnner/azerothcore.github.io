@@ -1,7 +1,7 @@
 var a12862 =
 [
-    [ "HandleEffectApply", "d2/d0d/a12862.html#a710536e0a3bacf173d037041e755bd82", null ],
-    [ "HandleEffectRemove", "d2/d0d/a12862.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
-    [ "PrepareAuraScript", "d2/d0d/a12862.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
-    [ "Register", "d2/d0d/a12862.html#a9092818bdb15a12163aae633049cb7f6", null ]
+    [ "npc_apothecary_genericAI", "d2/d0d/a12862.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "d2/d0d/a12862.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "d2/d0d/a12862.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "d2/d0d/a12862.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

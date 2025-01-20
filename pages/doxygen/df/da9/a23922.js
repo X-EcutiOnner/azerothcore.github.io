@@ -1,6 +1,5 @@
 var a23922 =
 [
-    [ "npc_torloth_the_magnificentAI", "d0/d14/a23926.html", "d0/d14/a23926" ],
-    [ "npc_torloth_the_magnificent", "df/da9/a23922.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
-    [ "GetAI", "df/da9/a23922.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
+    [ "go_crystal_prison", "df/da9/a23922.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "df/da9/a23922.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];

@@ -1,9 +1,11 @@
 var a26290 =
 [
-    [ "CheckCast", "da/d3a/a26290.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
-    [ "FilterTargets", "da/d3a/a26290.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
-    [ "HandleDummy", "da/d3a/a26290.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
-    [ "PrepareSpellScript", "da/d3a/a26290.html#a9c992e732b525e29f684947398d20efb", null ],
-    [ "Register", "da/d3a/a26290.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
-    [ "Validate", "da/d3a/a26290.html#abca1e5aa46e7753588c8120090775195", null ]
+    [ "CheckProc", "da/d3a/a26290.html#a7a6eea8debb09c4c9086a92d8e6ee59c", null ],
+    [ "HandleProc", "da/d3a/a26290.html#af29b1d6d8553003514918a383cb08b4a", null ],
+    [ "Load", "da/d3a/a26290.html#a8861c2415c0f705cb4a06c02eabb54d2", null ],
+    [ "OnRemove", "da/d3a/a26290.html#a9227147dd6e621deddd0088b95e9db2f", null ],
+    [ "PrepareAuraScript", "da/d3a/a26290.html#a149881d517edbb15032452554fc64948", null ],
+    [ "Register", "da/d3a/a26290.html#ac81d60d54a87a23bd9481934f5753de0", null ],
+    [ "Validate", "da/d3a/a26290.html#a7a4d1bddd1dbeb41e0f6f8fe272b4ad6", null ],
+    [ "_redirectTarget", "da/d3a/a26290.html#af3ee2a283d8942ab3652a6386c26f737", null ]
 ];

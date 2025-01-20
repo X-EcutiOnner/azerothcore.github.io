@@ -17,6 +17,7 @@ var a06946 =
     [ "IsItemValid", "d0/d21/a06946.html#adb011836ffb01660a069ced11c24aa81", null ],
     [ "IsMinMaxValid", "d0/d21/a06946.html#a819e55257c9a9bfb1eb951d650a36843", null ],
     [ "IsQuestValid", "d0/d21/a06946.html#a99cb71cb69ba38b8bebd6edbdbf34221", null ],
+    [ "IsSAIBoolValid", "d0/d21/a06946.html#ad24d5454bfab13924494a83889b16577", null ],
     [ "IsSoundValid", "d0/d21/a06946.html#a5060a757f6617a6fe2638b9c15f2c2a6", null ],
     [ "IsSpellValid", "d0/d21/a06946.html#af74d3b1999c3774350e87d70a08c8210", null ],
     [ "IsTargetValid", "d0/d21/a06946.html#a2c560363e15bafb702256b053143e635", null ],

@@ -1,9 +1,5 @@
 var a21318 =
 [
-    [ "npc_bloodmage_laurithAI", "d9/d82/a21318.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "d9/d82/a21318.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "d9/d82/a21318.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
-    [ "UpdateAI", "d9/d82/a21318.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "d9/d82/a21318.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "d9/d82/a21318.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "npc_leryssaAI", "d9/d82/a21318.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
+    [ "MovementInform", "d9/d82/a21318.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
 ];

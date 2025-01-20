@@ -1,8 +1,8 @@
 var a21982 =
 [
-    [ "AfterRemove", "da/d93/a21982.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
-    [ "HandlePeriodic", "da/d93/a21982.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
-    [ "OnApply", "da/d93/a21982.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
-    [ "PrepareAuraScript", "da/d93/a21982.html#a47a6281c42dc9368357cc86912331c77", null ],
-    [ "Register", "da/d93/a21982.html#a868c79cda98b97b27b74d46f86cb980a", null ]
+    [ "npc_freed_protodrakeAI", "da/d93/a21982.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "da/d93/a21982.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "da/d93/a21982.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "da/d93/a21982.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "da/d93/a21982.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

@@ -1,5 +1,5 @@
 var a18574 =
 [
-    [ "at_icc_gauntlet_event", "df/dec/a18574.html#ae8790bad655661aeda887f56b9393847", null ],
-    [ "OnTrigger", "df/dec/a18574.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
+    [ "creatureEntry", "df/dec/a18574.html#afab12c40af70303dff2a9553d47dbb7d", null ],
+    [ "questId", "df/dec/a18574.html#ace2a7dd58d442b6afb2173311c89593b", null ]
 ];

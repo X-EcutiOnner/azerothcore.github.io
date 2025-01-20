@@ -1,6 +1,6 @@
 var a18026 =
 [
-    [ "ModDestHeight", "da/dd5/a18026.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
-    [ "PrepareSpellScript", "da/dd5/a18026.html#a288f8917d73be30234e465778b1f6544", null ],
-    [ "Register", "da/dd5/a18026.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
+    [ "ModDestHeight", "da/dd5/a18026.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "da/dd5/a18026.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "da/dd5/a18026.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

@@ -1,7 +1,5 @@
 var a26690 =
 [
-    [ "CheckProc", "d6/dc5/a26690.html#a957f8837b5613a3bfd8200ded3529c54", null ],
-    [ "HandleEffectProc", "d6/dc5/a26690.html#a54810a897e535558d060119e3de6537b", null ],
-    [ "PrepareAuraScript", "d6/dc5/a26690.html#a37950bfd846e1c2c550a108461941a26", null ],
-    [ "Register", "d6/dc5/a26690.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
+    [ "achievement_bg_ic_glaive_grave", "d6/dc5/a26690.html#a97e1cead0102a120b3bd14592ea26034", null ],
+    [ "OnCheck", "d6/dc5/a26690.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
 ];

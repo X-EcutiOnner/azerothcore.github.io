@@ -1,6 +1,6 @@
 var a13590 =
 [
-    [ "go", "db/da1/a13590.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
-    [ "npc", "db/da1/a13590.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
-    [ "pos", "db/da1/a13590.html#a51175880a326101b29879d7a6a62c48d", null ]
+    [ "OnEffect", "db/da1/a13590.html#ab87d53faac04ced3c11088e260782068", null ],
+    [ "PrepareSpellScript", "db/da1/a13590.html#af618e8d84029dda5e48b699cbcf671be", null ],
+    [ "Register", "db/da1/a13590.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
 ];

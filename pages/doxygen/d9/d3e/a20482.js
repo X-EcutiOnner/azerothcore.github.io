@@ -1,6 +1,6 @@
 var a20482 =
 [
-    [ "OnRemove", "d9/d3e/a20482.html#a492bd9e9c82937e00897e19362b40901", null ],
-    [ "PrepareAuraScript", "d9/d3e/a20482.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
-    [ "Register", "d9/d3e/a20482.html#adfcaf82ff48225ea0e0314d421795644", null ]
+    [ "boss_yoggsaron_cloudAI", "d0/d6b/a20486.html", "d0/d6b/a20486" ],
+    [ "boss_yoggsaron_cloud", "d9/d3e/a20482.html#ab52cc1fa8b45b70dde340b9f463ef2f1", null ],
+    [ "GetAI", "d9/d3e/a20482.html#a2005f062eb9d78c7b09b045eba570b98", null ]
 ];

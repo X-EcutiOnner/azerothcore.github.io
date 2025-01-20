@@ -1,6 +1,6 @@
 var a14406 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "d9/d76/a14410.html", "d9/d76/a14410" ],
-    [ "instance_hyjal", "db/d30/a14406.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
-    [ "GetInstanceScript", "db/d30/a14406.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
+    [ "boss_mal_ganisAI", "d9/d76/a14410.html", "d9/d76/a14410" ],
+    [ "boss_mal_ganis", "db/d30/a14406.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "db/d30/a14406.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

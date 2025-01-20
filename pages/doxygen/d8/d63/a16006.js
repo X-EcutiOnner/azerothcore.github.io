@@ -1,11 +1,8 @@
 var a16006 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "d8/d63/a16006.html#a06ff16fe0076de4e34ba20e0bbc49009", null ],
-    [ "JustDied", "d8/d63/a16006.html#a23e5001255c6d49a6b217b9606aa53c5", null ],
-    [ "JustEngagedWith", "d8/d63/a16006.html#a37a04ac2d6f30e415410f3806abaabb8", null ],
-    [ "Reset", "d8/d63/a16006.html#ad35a26c28485b1976c55d49fcd32fb19", null ],
-    [ "UpdateAI", "d8/d63/a16006.html#a2b9fdd3daa725921819ae2acee418d51", null ],
-    [ "events", "d8/d63/a16006.html#a1b405c2acd53a4e5f1179f52c8c2261b", null ],
-    [ "pInstance", "d8/d63/a16006.html#a6edd3dc8070edd031143e7a750f4d7a8", null ],
-    [ "ShieldTimer", "d8/d63/a16006.html#a080916d385f4157afbe4c455033b88ba", null ]
+    [ "npc_announcer_toc5AI", "d8/d63/a16006.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
+    [ "DamageTaken", "d8/d63/a16006.html#a53458483699ac026ff2cd36b5f061571", null ],
+    [ "MovementInform", "d8/d63/a16006.html#acdcf4110b3815635ad173a70e7a1e603", null ],
+    [ "Reset", "d8/d63/a16006.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
+    [ "UpdateAI", "d8/d63/a16006.html#ad2c596253d67d051f497a8d77859846d", null ]
 ];

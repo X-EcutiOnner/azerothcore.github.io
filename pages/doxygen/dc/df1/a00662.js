@@ -1,8 +1,8 @@
 var a00662 =
 [
-    [ "instance_the_eye", "d6/d86/a23602.html", "d6/d86/a23602" ],
-    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "d9/ddd/a23606.html", "d9/ddd/a23606" ],
-    [ "spell_the_eye_countercharge_aura", "df/d43/a23610.html", "df/d43/a23610" ],
+    [ "instance_the_eye", "d7/dde/a23578.html", "d7/dde/a23578" ],
+    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "d6/d19/a23582.html", "d6/d19/a23582" ],
+    [ "spell_the_eye_countercharge_aura", "d4/d22/a23586.html", "d4/d22/a23586" ],
     [ "AddSC_instance_the_eye", "dc/df1/a00662.html#a2edbd129d024cabd379cca055dd3e341", null ],
     [ "boundaries", "dc/df1/a00662.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "dc/df1/a00662.html#a412286b689bd324fedd65ddd8dde8afb", null ],

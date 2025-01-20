@@ -1,7 +1,6 @@
 var a19454 =
 [
-    [ "HandlePeriodic", "d5/d10/a19454.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
-    [ "PrepareAuraScript", "d5/d10/a19454.html#ad78b06733a8609dd39e885db2f23edba", null ],
-    [ "Register", "d5/d10/a19454.html#ac9ae9be546964752869163896c4045dd", null ],
-    [ "Validate", "d5/d10/a19454.html#afcca84d03b29ef7569c03f973a6c191b", null ]
+    [ "CastRunesEvent", "d5/d10/a19454.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "d5/d10/a19454.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "d5/d10/a19454.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

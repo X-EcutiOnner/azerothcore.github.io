@@ -1,15 +1,15 @@
 var a17826 =
 [
-    [ "npc_spinestalkerAI", "dc/df6/a17826.html#ad758068ccfc12cead2e3a6b646bea374", null ],
-    [ "DoAction", "dc/df6/a17826.html#a263d897b4c94c71fe6597c0753722ce8", null ],
-    [ "InitializeAI", "dc/df6/a17826.html#ab87abc1a65e48325c31a52517477297b", null ],
-    [ "JustDied", "dc/df6/a17826.html#ada5ab1c21b13acc0aee4e7a4907d76d9", null ],
-    [ "JustReachedHome", "dc/df6/a17826.html#a56e9b760fd28219bee8a3aa604010d07", null ],
-    [ "JustRespawned", "dc/df6/a17826.html#a6ae99a71f8517055acc6e637b54c78d0", null ],
-    [ "MovementInform", "dc/df6/a17826.html#aebb6606d219bd6ee59c01718374576e9", null ],
-    [ "Reset", "dc/df6/a17826.html#a892d973ca4e04138eda70b09e16c9b2a", null ],
-    [ "UpdateAI", "dc/df6/a17826.html#a94ad98a558ed8df7c17f75a0a6c0ec26", null ],
-    [ "_events", "dc/df6/a17826.html#a45d8828fc3324d91387a26c560cf725b", null ],
-    [ "_instance", "dc/df6/a17826.html#a73dfcbf2ea0162cfb69f1ec169f659d4", null ],
-    [ "_summoned", "dc/df6/a17826.html#a324cd480e056750c61318446c97df48d", null ]
+    [ "npc_sindragosa_trashAI", "dc/df6/a17826.html#a7401a422bc4c2140c631bc118f396f25", null ],
+    [ "GetData", "dc/df6/a17826.html#a701b8189869bf20d2b3da31b73aed9da", null ],
+    [ "InitializeAI", "dc/df6/a17826.html#a3a8b341c7304faa2c238305f9dde29b0", null ],
+    [ "JustEngagedWith", "dc/df6/a17826.html#a0a7a0012105dea55fe4c8b51d9df5fc7", null ],
+    [ "JustRespawned", "dc/df6/a17826.html#a6438b9f864f178dc4e35e24a48066980", null ],
+    [ "Reset", "dc/df6/a17826.html#a823df6bb8b36ab38aa059e6d1313f2c0", null ],
+    [ "SetData", "dc/df6/a17826.html#a4aaa7f3963b24ac03e2fb8aaea7b62b2", null ],
+    [ "UpdateAI", "dc/df6/a17826.html#a12b995cc8c836efbf0eecc6591c85ff4", null ],
+    [ "_events", "dc/df6/a17826.html#ab789c21e742fe261f9f8aa63509a7d45", null ],
+    [ "_frostwyrmId", "dc/df6/a17826.html#ac2853246532bd913211fc743f4723ce0", null ],
+    [ "_instance", "dc/df6/a17826.html#aa2199507fdabe850b6af9a5ae0283fdc", null ],
+    [ "_isTaunted", "dc/df6/a17826.html#a50632ee1a85936748aabc5fb10f5e982", null ]
 ];

@@ -1,6 +1,5 @@
 var a25618 =
 [
-    [ "HandleOpenObject", "d4/d04/a25618.html#ab658c13615fac1861470bb4b853e76a4", null ],
-    [ "PrepareSpellScript", "d4/d04/a25618.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
-    [ "Register", "d4/d04/a25618.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
+    [ "PrepareSpellScript", "d4/d04/a25618.html#a5f3b3fb1c42f21d309923e12f1272408", null ],
+    [ "Register", "d4/d04/a25618.html#afc19789732c46589dca40d46cdb12d9e", null ]
 ];

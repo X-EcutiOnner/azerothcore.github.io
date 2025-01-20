@@ -1,7 +1,7 @@
 var a15626 =
 [
-    [ "HandleEffectRemove", "da/db2/a15626.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
-    [ "PrepareAuraScript", "da/db2/a15626.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
-    [ "Register", "da/db2/a15626.html#a7c0533650e772713233ea45b0264cbff", null ],
-    [ "Validate", "da/db2/a15626.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
+    [ "instance_azjol_nerub_InstanceScript", "da/db2/a15626.html#a886ed4c1485fdedcc176341210eee31a", null ],
+    [ "OnCreatureCreate", "da/db2/a15626.html#a7a99d985a4b465ae87c04211a7a83a77", null ],
+    [ "OnGameObjectCreate", "da/db2/a15626.html#a1ef3dc88400345998d03f3c993b9a181", null ],
+    [ "OnGameObjectRemove", "da/db2/a15626.html#a3a2776b83272d81de9ddcb0c90ac881c", null ]
 ];

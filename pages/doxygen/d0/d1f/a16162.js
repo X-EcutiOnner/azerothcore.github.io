@@ -1,8 +1,7 @@
 var a16162 =
 [
-    [ "npc_toc_boomkinAI", "d0/d1f/a16162.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "d0/d1f/a16162.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "d0/d1f/a16162.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "d0/d1f/a16162.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "d0/d1f/a16162.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "npc_toc_rogueAI", "d0/d1f/a16162.html#a34027e7d10edbfba8e046f4785e37899", null ],
+    [ "myCanCast", "d0/d1f/a16162.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
+    [ "UpdateAI", "d0/d1f/a16162.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
+    [ "events", "d0/d1f/a16162.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
 ];

@@ -1,5 +1,5 @@
 var a21342 =
 [
-    [ "npc_leryssaAI", "d5/d6f/a21342.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
-    [ "MovementInform", "d5/d6f/a21342.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
+    [ "npc_steam_powered_auctioneerAI", "d5/d6f/a21342.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "d5/d6f/a21342.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

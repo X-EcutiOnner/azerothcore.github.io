@@ -1,7 +1,6 @@
 var a25130 =
 [
-    [ "HandleDummy", "d2/d1b/a25130.html#a4b23e39151d0bced8bb729435a56352d", null ],
-    [ "Load", "d2/d1b/a25130.html#aaa341815d71652a13f3ca449af6ac14f", null ],
-    [ "PrepareSpellScript", "d2/d1b/a25130.html#ac0e7d279312a59dd62d7d91eb3ef82b7", null ],
-    [ "Register", "d2/d1b/a25130.html#a19a2247cebd2af38a1bd30af213ad633", null ]
+    [ "OnRemove", "d2/d1b/a25130.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
+    [ "PrepareAuraScript", "d2/d1b/a25130.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
+    [ "Register", "d2/d1b/a25130.html#aecd068248e174c4b676ff9f43dd0856f", null ]
 ];

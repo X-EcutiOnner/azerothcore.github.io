@@ -1,6 +1,6 @@
 var a16038 =
 [
-    [ "boss_anubarak_trialAI", "d8/d91/a16042.html", "d8/d91/a16042" ],
-    [ "boss_anubarak_trial", "d5/db0/a16038.html#a5204e33a412608b53cc155a043356d58", null ],
-    [ "GetAI", "d5/db0/a16038.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
+    [ "npc_nerubian_burrowerAI", "d8/d91/a16042.html", "d8/d91/a16042" ],
+    [ "npc_nerubian_burrower", "d5/db0/a16038.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
+    [ "GetAI", "d5/db0/a16038.html#a145ebac6f95f9190429b9bfa37e23312", null ]
 ];

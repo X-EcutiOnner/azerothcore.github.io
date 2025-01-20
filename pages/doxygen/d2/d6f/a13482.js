@@ -1,8 +1,5 @@
 var a13482 =
 [
-    [ "npc_the_scourge_cauldronAI", "d2/d6f/a13482.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
-    [ "DoDie", "d2/d6f/a13482.html#a9f720a27db2943a66b11ad6355690bf5", null ],
-    [ "JustEngagedWith", "d2/d6f/a13482.html#a89954dec2f7d57d933c18822333243ac", null ],
-    [ "MoveInLineOfSight", "d2/d6f/a13482.html#a256195dbe75859d72afcd0defb9ff76e", null ],
-    [ "Reset", "d2/d6f/a13482.html#ab18bb2eb344f45827685786c665b1750", null ]
+    [ "npc_mikhail", "d2/d6f/a13482.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
+    [ "OnQuestAccept", "d2/d6f/a13482.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
 ];

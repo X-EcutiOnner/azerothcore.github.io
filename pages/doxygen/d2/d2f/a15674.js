@@ -1,6 +1,6 @@
 var a15674 =
 [
-    [ "boss_sartharion_tenebronAI", "da/d79/a15678.html", "da/d79/a15678" ],
-    [ "boss_sartharion_tenebron", "d2/d2f/a15674.html#ada445771d2d3d01fb586f15d62e21755", null ],
-    [ "GetAI", "d2/d2f/a15674.html#a2eb4555506167a4aee7b844e305d7107", null ]
+    [ "npc_twilight_summonAI", "da/d79/a15678.html", "da/d79/a15678" ],
+    [ "npc_twilight_summon", "d2/d2f/a15674.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
+    [ "GetAI", "d2/d2f/a15674.html#a98bf5ce96c25bc252acd46163644bf33", null ]
 ];

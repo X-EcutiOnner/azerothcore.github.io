@@ -1,7 +1,6 @@
 var a18466 =
 [
-    [ "HandleEffectPeriodic", "d6/d89/a18466.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "d6/d89/a18466.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "d6/d89/a18466.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "d6/d89/a18466.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "df/dfd/a18470.html", "df/dfd/a18470" ],
+    [ "npc_icc_skybreaker_marksman", "d6/d89/a18466.html#a1d870b78e1acf2d17782265e28698d1c", null ],
+    [ "GetAI", "d6/d89/a18466.html#a374017d37da15705d51ab8edc75683ff", null ]
 ];

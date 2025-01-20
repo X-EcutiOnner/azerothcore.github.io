@@ -1,8 +1,11 @@
 var a22362 =
 [
-    [ "boss_darkweaver_syth", "dd/dac/a22362.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "dd/dac/a22362.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "dd/dac/a22362.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "dd/dac/a22362.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "dd/dac/a22362.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "boss_blackheart_the_inciter", "dd/dac/a22362.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "dd/dac/a22362.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "dd/dac/a22362.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "dd/dac/a22362.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "dd/dac/a22362.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "dd/dac/a22362.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "dd/dac/a22362.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "dd/dac/a22362.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

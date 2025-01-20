@@ -1,6 +1,7 @@
 var a20942 =
 [
-    [ "boss_emalonAI", "dd/df0/a20946.html", "dd/df0/a20946" ],
-    [ "boss_emalon", "d2/ddb/a20942.html#a2dd481292e02337bebd450f5c9821886", null ],
-    [ "GetAI", "d2/ddb/a20942.html#a345b0663ba89de5e37b87a436c48e446", null ]
+    [ "HandleDummy", "d2/ddb/a20942.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "d2/ddb/a20942.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "d2/ddb/a20942.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "d2/ddb/a20942.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

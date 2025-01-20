@@ -1,6 +1,6 @@
 var a19194 =
 [
-    [ "boss_bjarngrimAI", "d9/d8b/a19198.html", "d9/d8b/a19198" ],
-    [ "boss_bjarngrim", "d5/de6/a19194.html#ab509688547d41ec1fd094fdc45291959", null ],
-    [ "GetAI", "d5/de6/a19194.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
+    [ "npc_spark_of_ionarAI", "d9/d8b/a19198.html", "d9/d8b/a19198" ],
+    [ "npc_spark_of_ionar", "d5/de6/a19194.html#a63578a0d77331849b7a48272870af04d", null ],
+    [ "GetAI", "d5/de6/a19194.html#aa1e524327b76ddc11a32e7a094e39dd1", null ]
 ];

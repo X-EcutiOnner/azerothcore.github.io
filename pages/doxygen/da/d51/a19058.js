@@ -1,8 +1,6 @@
 var a19058 =
 [
-    [ "npc_crystal_spike", "da/d51/a19058.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "da/d51/a19058.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "da/d51/a19058.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "da/d51/a19058.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "da/d51/a19058.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "npc_oculus_unstable_sphereAI", "d7/d3e/a19062.html", "d7/d3e/a19062" ],
+    [ "npc_oculus_unstable_sphere", "da/d51/a19058.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
+    [ "GetAI", "da/d51/a19058.html#adda2a9e7eab03444742e85729673ab2f", null ]
 ];

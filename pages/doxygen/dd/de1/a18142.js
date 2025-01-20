@@ -1,5 +1,6 @@
 var a18142 =
 [
-    [ "achievement_neck_deep_in_vile", "dd/de1/a18142.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "dd/de1/a18142.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "boss_valithria_dreamwalkerAI", "db/d99/a18146.html", "db/d99/a18146" ],
+    [ "boss_valithria_dreamwalker", "dd/de1/a18142.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
+    [ "GetAI", "dd/de1/a18142.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
 ];

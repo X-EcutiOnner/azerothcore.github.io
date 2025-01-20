@@ -1,7 +1,5 @@
 var a17406 =
 [
-    [ "HandleDummy", "db/d9a/a17406.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "db/d9a/a17406.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "db/d9a/a17406.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "db/d9a/a17406.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "achievement_im_on_a_boat", "db/d9a/a17406.html#aa25d330534aab023ec798e86976a6d50", null ],
+    [ "OnCheck", "db/d9a/a17406.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
 ];

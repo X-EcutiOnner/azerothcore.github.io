@@ -1,9 +1,9 @@
 var a13898 =
 [
-    [ "HandleEffectPeriodic", "dc/d07/a13898.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
-    [ "HandleEffectRemove", "dc/d07/a13898.html#a96ed7366e568b70e82d622586740aa56", null ],
-    [ "Load", "dc/d07/a13898.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
-    [ "PrepareAuraScript", "dc/d07/a13898.html#abd1f851112a50b79e815cdd894275bab", null ],
-    [ "Register", "dc/d07/a13898.html#aa3cd85aed063017c4737e7660fa81f37", null ],
-    [ "questTick", "dc/d07/a13898.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
+    [ "CheckCast", "dc/d07/a13898.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "dc/d07/a13898.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "dc/d07/a13898.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "dc/d07/a13898.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "dc/d07/a13898.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "dc/d07/a13898.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

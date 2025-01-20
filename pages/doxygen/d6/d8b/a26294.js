@@ -1,9 +1,6 @@
 var a26294 =
 [
-    [ "Absorb", "d6/d8b/a26294.html#a22b175a7a07f950b5be1aad60e096e4f", null ],
-    [ "CalculateAmount", "d6/d8b/a26294.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6", null ],
-    [ "Load", "d6/d8b/a26294.html#acf7851d34fa2368c9e711e8b3943c09b", null ],
-    [ "PrepareAuraScript", "d6/d8b/a26294.html#ac273b669dc396561d9ec8b523659363f", null ],
-    [ "Register", "d6/d8b/a26294.html#a656f4770b0f7099f5926a8063f7d740c", null ],
-    [ "absorbPct", "d6/d8b/a26294.html#a31d7ca52ace4e22652403292969baf55", null ]
+    [ "HandleRemove", "d6/d8b/a26294.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "d6/d8b/a26294.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "d6/d8b/a26294.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

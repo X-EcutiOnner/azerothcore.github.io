@@ -1,6 +1,6 @@
 var a15550 =
 [
-    [ "ModDestHeight", "d3/db3/a15550.html#a8bda9327c4244af41c513528ad5c818c", null ],
-    [ "PrepareSpellScript", "d3/db3/a15550.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
-    [ "Register", "d3/db3/a15550.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
+    [ "instance_ahnkahet_InstanceScript", "d4/d00/a15554.html", "d4/d00/a15554" ],
+    [ "instance_ahnkahet", "d3/db3/a15550.html#afbe11bc040019231878cf31cc357830b", null ],
+    [ "GetInstanceScript", "d3/db3/a15550.html#a8847099c88f11de363c45e27998f10b7", null ]
 ];

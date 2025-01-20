@@ -1,8 +1,7 @@
 var a17934 =
 [
-    [ "FilterTargets", "db/d39/a17934.html#a242fa53c2da9ac557623281bccf2af92", null ],
-    [ "HandleSendEvent", "db/d39/a17934.html#a6120e057e2ee39d34eaeab79782add8d", null ],
-    [ "Load", "db/d39/a17934.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
-    [ "PrepareSpellScript", "db/d39/a17934.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
-    [ "Register", "db/d39/a17934.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
+    [ "OnPeriodic", "db/d39/a17934.html#accd12b06341f3168c74cb18926614f7f", null ],
+    [ "OnUpdate", "db/d39/a17934.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
+    [ "PrepareAuraScript", "db/d39/a17934.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
+    [ "Register", "db/d39/a17934.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
 ];

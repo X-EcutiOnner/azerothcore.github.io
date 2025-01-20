@@ -1,26 +1,9 @@
 var a14514 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "df/d96/a14514.html#a31fbc078e2c8d2a0f070a8a52c34ef90", null ],
-    [ "CleanupInstance", "df/d96/a14514.html#a20b8aa23c6c9e29f34cda71554c6d7a7", null ],
-    [ "EnsureGridLoaded", "df/d96/a14514.html#a337693ca3ad4527249b0f9f5c9a62d0f", null ],
-    [ "GetData", "df/d96/a14514.html#aa7ae89c6d23a061385a756cf0b0200bf", null ],
-    [ "GetGuidData", "df/d96/a14514.html#a119965a939e79b0fb395e8e3695359aa", null ],
-    [ "Initialize", "df/d96/a14514.html#ac9e53a8a406110bbc1d454be7b87fb34", null ],
-    [ "OnCreatureCreate", "df/d96/a14514.html#a04bf5f844ab8e802f95745f56d996716", null ],
-    [ "OnGameObjectCreate", "df/d96/a14514.html#ae5f9223af1488f1edd99f35f7b1c7207", null ],
-    [ "OnPlayerEnter", "df/d96/a14514.html#a29ebe48953ba6be93da519c7a43c356e", null ],
-    [ "ReadSaveDataMore", "df/d96/a14514.html#a81322de635b72f95de486ccd1abf9644", null ],
-    [ "Reposition", "df/d96/a14514.html#a7fcd0c449edfe21933ee055549ea7ddf", null ],
-    [ "SetData", "df/d96/a14514.html#a961dd71754113ce6b5aecde16b6426d2", null ],
-    [ "Update", "df/d96/a14514.html#ac0bb22a2f69eecc269c69005777d9c38", null ],
-    [ "WriteSaveDataMore", "df/d96/a14514.html#ae409ddd2759f8eea883cefa21d045a40", null ],
-    [ "_attemptsCount", "df/d96/a14514.html#ac5c012148a60cc7dd26e36ba6950494b", null ],
-    [ "_barrelCount", "df/d96/a14514.html#aeb5828d54f327c5d2a30004afa86c4af", null ],
-    [ "_encounterProgress", "df/d96/a14514.html#a9b5fff035fb76116f0cea6f6786d506e", null ],
-    [ "_events", "df/d96/a14514.html#ab3a9785a2240d62de4dfcf0b2523520f", null ],
-    [ "_finalFlamesSet", "df/d96/a14514.html#a914232c182475a17e3583435f2fde9bc", null ],
-    [ "_initalFlamesSet", "df/d96/a14514.html#a2404c19bd154f8277aa539f48ae99963", null ],
-    [ "_prisonersSet", "df/d96/a14514.html#a43e3b3d3cb4797a8c03731df72e7cb5a", null ],
-    [ "_tarethaGUID", "df/d96/a14514.html#ada3dcc37cba14ae8361989f1b842b462", null ],
-    [ "_thrallGUID", "df/d96/a14514.html#add8e04fa930e970ab0e88258c10f9c5d", null ]
+    [ "boss_chrono_lord_deja", "df/d96/a14514.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
+    [ "JustDied", "df/d96/a14514.html#a68eb4941364f9fac121aa3d610d45f48", null ],
+    [ "JustEngagedWith", "df/d96/a14514.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
+    [ "KilledUnit", "df/d96/a14514.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
+    [ "MoveInLineOfSight", "df/d96/a14514.html#a535c0c157c60804188ad8c4413c277dd", null ],
+    [ "OwnTalk", "df/d96/a14514.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
 ];

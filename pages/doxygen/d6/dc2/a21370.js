@@ -1,6 +1,6 @@
 var a21370 =
 [
-    [ "npc_mei_francis_mountAI", "d1/da8/a21374.html", "d1/da8/a21374" ],
-    [ "npc_mei_francis_mount", "d6/dc2/a21370.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "d6/dc2/a21370.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "npc_mageguard_dalaranAI", "d1/da8/a21374.html", "d1/da8/a21374" ],
+    [ "npc_mageguard_dalaran", "d6/dc2/a21370.html#a0cec4f232b665325c421cecb5839885f", null ],
+    [ "GetAI", "d6/dc2/a21370.html#a10cbddceb53a2d432da2224128c59b28", null ]
 ];

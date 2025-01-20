@@ -1,6 +1,7 @@
 var a27294 =
 [
-    [ "npc_garments_of_questsAI", "da/d4f/a27298.html", "da/d4f/a27298" ],
-    [ "npc_garments_of_quests", "d1/d8c/a27294.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "d1/d8c/a27294.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "npc_steam_tonkAI", "d1/d8c/a27294.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "d1/d8c/a27294.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "d1/d8c/a27294.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "d1/d8c/a27294.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

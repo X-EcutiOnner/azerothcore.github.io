@@ -1,8 +1,7 @@
 var a25242 =
 [
-    [ "OnApply", "da/d31/a25242.html#a75b45732648d5ba90b49725a48609a89", null ],
-    [ "OnBaseRemove", "da/d31/a25242.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "OnRemove", "da/d31/a25242.html#a0331b3860691db793c5a7bcf53550c6f", null ],
-    [ "PrepareAuraScript", "da/d31/a25242.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "da/d31/a25242.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "HandleScriptEffect", "da/d31/a25242.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
+    [ "Load", "da/d31/a25242.html#af89783564da25769be15e22291717f6a", null ],
+    [ "PrepareSpellScript", "da/d31/a25242.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
+    [ "Register", "da/d31/a25242.html#addbe722d9f3727578f817789e3010bab", null ]
 ];

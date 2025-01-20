@@ -1,6 +1,7 @@
 var a23890 =
 [
-    [ "npc_dragonmaw_peonAI", "d9/dd6/a23894.html", "d9/dd6/a23894" ],
-    [ "npc_dragonmaw_peon", "d6/d23/a23890.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "d6/d23/a23890.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "o", "d6/d23/a23890.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "d6/d23/a23890.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "d6/d23/a23890.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "d6/d23/a23890.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

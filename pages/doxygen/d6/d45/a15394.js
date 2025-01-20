@@ -1,9 +1,7 @@
 var a15394 =
 [
-    [ "npc_pluckyAI", "d6/d45/a15394.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "d6/d45/a15394.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "d6/d45/a15394.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "d6/d45/a15394.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "d6/d45/a15394.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "d6/d45/a15394.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "npc_ringoAI", "d0/d58/a15398.html", "d0/d58/a15398" ],
+    [ "npc_ringo", "d6/d45/a15394.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
+    [ "GetAI", "d6/d45/a15394.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
+    [ "OnQuestAccept", "d6/d45/a15394.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
 ];

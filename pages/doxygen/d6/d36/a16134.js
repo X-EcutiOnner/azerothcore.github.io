@@ -1,6 +1,6 @@
 var a16134 =
 [
-    [ "npc_toc_warlockAI", "d6/d5e/a16138.html", "d6/d5e/a16138" ],
-    [ "npc_toc_warlock", "d6/d36/a16134.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
-    [ "GetAI", "d6/d36/a16134.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
+    [ "npc_toc_boomkinAI", "d6/d5e/a16138.html", "d6/d5e/a16138" ],
+    [ "npc_toc_boomkin", "d6/d36/a16134.html#a17274ff748cd364592a551ad2c547eac", null ],
+    [ "GetAI", "d6/d36/a16134.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
 ];

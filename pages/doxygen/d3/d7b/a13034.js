@@ -1,14 +1,6 @@
 var a13034 =
 [
-    [ "boss_felmyst", "d3/d7b/a13034.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
-    [ "DoAction", "d3/d7b/a13034.html#ad6a578f2b47ed6bc804785e1f9d0c604", null ],
-    [ "JustDied", "d3/d7b/a13034.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
-    [ "JustEngagedWith", "d3/d7b/a13034.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
-    [ "KilledUnit", "d3/d7b/a13034.html#a0233ebbcbb21d100425ac76223e839be", null ],
-    [ "MovementInform", "d3/d7b/a13034.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
-    [ "Reset", "d3/d7b/a13034.html#ae5181c789809a859edb40488e206c0d3", null ],
-    [ "ScheduleFlightAbilities", "d3/d7b/a13034.html#abd384c7754aedeb35a9358bc4e7888c8", null ],
-    [ "ScheduleFlightSequence", "d3/d7b/a13034.html#a2cf8def19df423fe3fb188ec35934e9a", null ],
-    [ "StartIntro", "d3/d7b/a13034.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
-    [ "UpdateAI", "d3/d7b/a13034.html#a0e429d8cf49946c0232b9c405c340356", null ]
+    [ "FilterTargets", "d3/d7b/a13034.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
+    [ "PrepareSpellScript", "d3/d7b/a13034.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
+    [ "Register", "d3/d7b/a13034.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
 ];

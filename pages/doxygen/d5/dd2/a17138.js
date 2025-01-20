@@ -1,8 +1,9 @@
 var a17138 =
 [
-    [ "npc_high_overlord_saurfangAI", "d0/d7e/a17142.html", "d0/d7e/a17142" ],
-    [ "npc_high_overlord_saurfang_icc", "d5/dd2/a17138.html#ac02fe80550572e142406c2d80c0392df", null ],
-    [ "GetAI", "d5/dd2/a17138.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
-    [ "OnGossipHello", "d5/dd2/a17138.html#a515a87f751527412222cfdd968febe7c", null ],
-    [ "OnGossipSelect", "d5/dd2/a17138.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
+    [ "CheckProc", "d5/dd2/a17138.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "d5/dd2/a17138.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "d5/dd2/a17138.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "d5/dd2/a17138.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "d5/dd2/a17138.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "d5/dd2/a17138.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

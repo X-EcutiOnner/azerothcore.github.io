@@ -1,7 +1,6 @@
 var a17962 =
 [
-    [ "OnRemove", "d6/d48/a17962.html#ac1a58d605156c03d05eb99605287e762", null ],
-    [ "PrepareAuraScript", "d6/d48/a17962.html#a2db820022631647e942b5ec84e63717e", null ],
-    [ "Register", "d6/d48/a17962.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
-    [ "Validate", "d6/d48/a17962.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
+    [ "npc_icc_ice_sphereAI", "d3/d52/a17966.html", "d3/d52/a17966" ],
+    [ "npc_icc_ice_sphere", "d6/d48/a17962.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
+    [ "GetAI", "d6/d48/a17962.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
 ];

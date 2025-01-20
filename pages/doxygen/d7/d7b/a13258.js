@@ -1,7 +1,11 @@
 var a13258 =
 [
-    [ "npc_eris_hevenfireAI", "d5/d42/a13262.html", "d5/d42/a13262" ],
-    [ "npc_eris_hevenfire", "d7/d7b/a13258.html#a77f0836dc0b19114316b8b67839d8033", null ],
-    [ "GetAI", "d7/d7b/a13258.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
-    [ "OnQuestAccept", "d7/d7b/a13258.html#a1e0baec5706cfddd678b58eb9359997e", null ]
+    [ "npc_supervisor_raelen", "d7/d7b/a13258.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
+    [ "CallPeasent", "d7/d7b/a13258.html#a0b8d661a86ec334adeb502d6936135ee", null ],
+    [ "Reset", "d7/d7b/a13258.html#a656029c56da84d2d3cee7380d6032e3d", null ],
+    [ "SetData", "d7/d7b/a13258.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
+    [ "UpdateAI", "d7/d7b/a13258.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
+    [ "_events", "d7/d7b/a13258.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
+    [ "_PeasentId", "d7/d7b/a13258.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
+    [ "peasentGUIDs", "d7/d7b/a13258.html#a6e290a29c8205b22bd668f0516e8904a", null ]
 ];

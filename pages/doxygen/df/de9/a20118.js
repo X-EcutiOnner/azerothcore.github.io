@@ -1,6 +1,6 @@
 var a20118 =
 [
-    [ "npc_ulduar_leviathan_mkiiAI", "dd/d6b/a20122.html", "dd/d6b/a20122" ],
-    [ "npc_ulduar_leviathan_mkii", "df/de9/a20118.html#a9e4671adcb2409a7c83460d28d29f579", null ],
-    [ "GetAI", "df/de9/a20118.html#afe438e97b6989a8899850619c87cd7e6", null ]
+    [ "npc_ulduar_proximity_mineAI", "dd/d6b/a20122.html", "dd/d6b/a20122" ],
+    [ "npc_ulduar_proximity_mine", "df/de9/a20118.html#ac33beb07e17712cdda1b3434d9dc8222", null ],
+    [ "GetAI", "df/de9/a20118.html#a7d8237b965699004f9df731e357b4020", null ]
 ];

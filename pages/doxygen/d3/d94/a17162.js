@@ -1,9 +1,7 @@
 var a17162 =
 [
-    [ "CheckProc", "d3/d94/a17162.html#a13426f7a45e9434f980b42f174b22da8", null ],
-    [ "HandlePeriodicTick", "d3/d94/a17162.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
-    [ "HandleProc", "d3/d94/a17162.html#abf744d64dae5835bff3877eeaa919af3", null ],
-    [ "PrepareAuraScript", "d3/d94/a17162.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
-    [ "Register", "d3/d94/a17162.html#a1b72c10256365de71b8f9fadf5886338", null ],
-    [ "Validate", "d3/d94/a17162.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
+    [ "FilterTargets", "d3/d94/a17162.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "d3/d94/a17162.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "d3/d94/a17162.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "d3/d94/a17162.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

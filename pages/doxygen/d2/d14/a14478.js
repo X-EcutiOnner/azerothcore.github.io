@@ -1,7 +1,7 @@
 var a14478 =
 [
-    [ "npc_cos_chromie_middle", "d2/d14/a14478.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "d2/d14/a14478.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "d2/d14/a14478.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "d2/d14/a14478.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "boss_epoch_hunter", "d2/d14/a14478.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "d2/d14/a14478.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "d2/d14/a14478.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "d2/d14/a14478.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

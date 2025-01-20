@@ -1,8 +1,9 @@
 var a17362 =
 [
-    [ "Load", "d6/dae/a17362.html#ad1105149d5e42318382af6c07149d522", null ],
-    [ "PeriodicTick", "d6/dae/a17362.html#a8e675178256746d08af50a6b75ec582e", null ],
-    [ "PrepareAuraScript", "d6/dae/a17362.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
-    [ "Register", "d6/dae/a17362.html#a0fa7d86214827711edd019dd3b40c667", null ],
-    [ "_tickNo", "d6/dae/a17362.html#a418212d2daa873d69a83b4c1341a8903", null ]
+    [ "HandleApply", "d6/dae/a17362.html#a5f23d41765ec949486094a0da45be7e8", null ],
+    [ "HandleRemove", "d6/dae/a17362.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
+    [ "Load", "d6/dae/a17362.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
+    [ "PrepareAuraScript", "d6/dae/a17362.html#aabf5fdf4578935db11e041e638fba187", null ],
+    [ "Register", "d6/dae/a17362.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
+    [ "SendClientControl", "d6/dae/a17362.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
 ];

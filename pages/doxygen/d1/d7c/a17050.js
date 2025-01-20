@@ -1,6 +1,6 @@
 var a17050 =
 [
-    [ "ChangeSummonPos", "d1/d7c/a17050.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "d1/d7c/a17050.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "d1/d7c/a17050.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "VampiricBiteTargetSelector", "d1/d7c/a17050.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
+    [ "operator()", "d1/d7c/a17050.html#ac16204f50f62cb2568998d1ea137f55d", null ],
+    [ "_source", "d1/d7c/a17050.html#af23a69491c915909566249b109b1f0e8", null ]
 ];

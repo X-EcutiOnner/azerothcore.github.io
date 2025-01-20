@@ -1,5 +1,7 @@
 var a26046 =
 [
-    [ "PrepareSpellScript", "d8/dc9/a26046.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
-    [ "Register", "d8/dc9/a26046.html#a721430db1738b255f114483bdddef5e2", null ]
+    [ "HandleEffectPeriodic", "d8/dc9/a26046.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
+    [ "PrepareAuraScript", "d8/dc9/a26046.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
+    [ "Register", "d8/dc9/a26046.html#ac3741617faacf83a707f1359aab1886e", null ],
+    [ "Validate", "d8/dc9/a26046.html#a9378252b6711cc0bec3e63efce026495", null ]
 ];

@@ -1,6 +1,6 @@
 var a14986 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "d6/de2/a14990.html", "d6/de2/a14990" ],
-    [ "instance_wailing_caverns", "df/d23/a14986.html#a906f59c39f59237e9eedb479dfc7d825", null ],
-    [ "GetInstanceScript", "df/d23/a14986.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
+    [ "npc_depth_chargeAI", "d6/de2/a14990.html", "d6/de2/a14990" ],
+    [ "npc_depth_charge", "df/d23/a14986.html#ad16e3431b06fdd6797bfb51dda9005f5", null ],
+    [ "GetAI", "df/d23/a14986.html#a16de1a207304ea2ad7f47d5674deeec1", null ]
 ];

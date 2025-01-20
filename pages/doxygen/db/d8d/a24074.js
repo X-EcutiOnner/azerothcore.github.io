@@ -1,5 +1,5 @@
 var a24074 =
 [
-    [ "npc_pet_dk_ghoulAI", "db/d8d/a24074.html#a7e747ba9e709eb532b0c16c8a1c1763a", null ],
-    [ "JustDied", "db/d8d/a24074.html#a7d964fafeb0a7746a7749a9e0eb93080", null ]
+    [ "npc_pet_dk_dancing_rune_weaponAI", "db/d8d/a24074.html#a6d57990a8ff05cc74356b0ed4d7d39b6", null ],
+    [ "InitializeAI", "db/d8d/a24074.html#a620ebac7c7cd5f81af47ea2e35de128c", null ]
 ];

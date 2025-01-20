@@ -1,8 +1,6 @@
 var a25798 =
 [
-    [ "HandleApply", "d5/da1/a25798.html#aafdf3712f163919f010d11d0becb398f", null ],
-    [ "HandleRemove", "d5/da1/a25798.html#ac3e33cb37d13b633f3938a48917a4975", null ],
-    [ "PrepareAuraScript", "d5/da1/a25798.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
-    [ "Register", "d5/da1/a25798.html#a84e7337494dc2e1772ca10dea26c675f", null ],
-    [ "Validate", "d5/da1/a25798.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
+    [ "HandleEffectCalcSpellMod", "d5/da1/a25798.html#a81395c735b9546632af71319067b575b", null ],
+    [ "PrepareAuraScript", "d5/da1/a25798.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
+    [ "Register", "d5/da1/a25798.html#ae49a0ec525819981595c12839133a35b", null ]
 ];

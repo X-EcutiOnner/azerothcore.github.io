@@ -1,9 +1,9 @@
 var a16770 =
 [
-    [ "npc_pos_after_first_bossAI", "d7/d4f/a16770.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "d7/d4f/a16770.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "d7/d4f/a16770.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "d7/d4f/a16770.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "d7/d4f/a16770.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "d7/d4f/a16770.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "npc_pos_collapsing_icicleAI", "d7/d4f/a16770.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
+    [ "SpellHitTarget", "d7/d4f/a16770.html#aea107ede3b11726b3f7caae590edaf52", null ],
+    [ "UpdateAI", "d7/d4f/a16770.html#ade416a422e67ce61e8874320cce7143b", null ],
+    [ "pInstance", "d7/d4f/a16770.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
+    [ "timer1", "d7/d4f/a16770.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
+    [ "timer2", "d7/d4f/a16770.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
 ];

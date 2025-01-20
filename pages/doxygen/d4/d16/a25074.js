@@ -1,6 +1,7 @@
 var a25074 =
 [
-    [ "OnProc", "d4/d16/a25074.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "d4/d16/a25074.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "d4/d16/a25074.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "HandleOnEffectApply", "d4/d16/a25074.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "d4/d16/a25074.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "d4/d16/a25074.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "d4/d16/a25074.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

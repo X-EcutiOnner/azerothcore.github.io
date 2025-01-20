@@ -1,7 +1,10 @@
 var a12910 =
 [
-    [ "HandleScript", "d2/d3f/a12910.html#ab705220b48be16090107135f9e2272cf", null ],
-    [ "PrepareSpellScript", "d2/d3f/a12910.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
-    [ "Register", "d2/d3f/a12910.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
-    [ "Validate", "d2/d3f/a12910.html#ad1d90693a427a52fa728e5ae455932a3", null ]
+    [ "HandleDummyTick", "d2/d3f/a12910.html#a036291aee8b08212ecead4afce01adf4", null ],
+    [ "Load", "d2/d3f/a12910.html#aaecea41af42790dfe9aeba3c56480668", null ],
+    [ "OnApply", "d2/d3f/a12910.html#a37b425f877e7415b245c119c29521c4b", null ],
+    [ "PrepareAuraScript", "d2/d3f/a12910.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
+    [ "Register", "d2/d3f/a12910.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
+    [ "Validate", "d2/d3f/a12910.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
+    [ "_forsakenSpell", "d2/d3f/a12910.html#ae2aee05482e4854120fc581ecec41f95", null ]
 ];

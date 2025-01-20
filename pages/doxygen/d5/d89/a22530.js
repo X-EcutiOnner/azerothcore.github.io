@@ -1,13 +1,9 @@
 var a22530 =
 [
-    [ "boss_illidari_council_memberAI", "d5/d89/a22530.html#ac32366dfad13cd37ced2428d041e25c9", null ],
-    [ "DamageTaken", "d5/d89/a22530.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
-    [ "DoAction", "d5/d89/a22530.html#a203310b84d71a24145b1c39e7faff182", null ],
-    [ "EnterEvadeMode", "d5/d89/a22530.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
-    [ "JustDied", "d5/d89/a22530.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
-    [ "JustEngagedWith", "d5/d89/a22530.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
-    [ "KilledUnit", "d5/d89/a22530.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
-    [ "Reset", "d5/d89/a22530.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
-    [ "events", "d5/d89/a22530.html#ad47a350f5ed066e04816e72961a80bd0", null ],
-    [ "instance", "d5/d89/a22530.html#adb11720cd0fd87a42b9a78490a70251e", null ]
+    [ "HandleAfterCast", "d5/d89/a22530.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
+    [ "HandleDummy", "d5/d89/a22530.html#ae94594e337c2e0e6864f3723df8349bf", null ],
+    [ "Load", "d5/d89/a22530.html#a301008eff6b13a43070b3916925391ae", null ],
+    [ "PrepareSpellScript", "d5/d89/a22530.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
+    [ "Register", "d5/d89/a22530.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
+    [ "_targetCount", "d5/d89/a22530.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
 ];

@@ -1,6 +1,6 @@
 var a17034 =
 [
-    [ "AddExtraDamage", "da/d3d/a17034.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "da/d3d/a17034.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "da/d3d/a17034.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "OnAbsorb", "da/d3d/a17034.html#aa6582457cd0502ca263433d04b40b64f", null ],
+    [ "PrepareAuraScript", "da/d3d/a17034.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
+    [ "Register", "da/d3d/a17034.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
 ];

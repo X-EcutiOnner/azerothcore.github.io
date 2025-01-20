@@ -1,10 +1,6 @@
 var a22994 =
 [
-    [ "npc_frozen_core", "d1/d35/a22994.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
-    [ "DoAction", "d1/d35/a22994.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
-    [ "Initialize", "d1/d35/a22994.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
-    [ "JustDied", "d1/d35/a22994.html#a476e086b0379e0cef3a44d250b020d6a", null ],
-    [ "UpdateAI", "d1/d35/a22994.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
-    [ "_events", "d1/d35/a22994.html#a3a5efec3279644ef713722e1556a3c84", null ],
-    [ "_instance", "d1/d35/a22994.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
+    [ "HandleScript", "d1/d35/a22994.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "d1/d35/a22994.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "d1/d35/a22994.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

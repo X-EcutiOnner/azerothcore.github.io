@@ -1,7 +1,8 @@
 var a14742 =
 [
-    [ "boss_rajaxx", "d6/da2/a14742.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "d6/da2/a14742.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "d6/da2/a14742.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "d6/da2/a14742.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "npc_obsidian_destroyer", "d6/da2/a14742.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "d6/da2/a14742.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "d6/da2/a14742.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "d6/da2/a14742.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "d6/da2/a14742.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

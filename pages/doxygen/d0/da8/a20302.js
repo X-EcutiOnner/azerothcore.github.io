@@ -1,6 +1,6 @@
 var a20302 =
 [
-    [ "boss_thorimAI", "d6/d1a/a20306.html", "d6/d1a/a20306" ],
-    [ "boss_thorim", "d0/da8/a20302.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
-    [ "GetAI", "d0/da8/a20302.html#a70895451317569f50adc11474e653515", null ]
+    [ "boss_thorim_trapAI", "d6/d1a/a20306.html", "d6/d1a/a20306" ],
+    [ "boss_thorim_trap", "d0/da8/a20302.html#af529112badd88f9ebe4cec216d9edaeb", null ],
+    [ "GetAI", "d0/da8/a20302.html#afd4ee85d73354b790c0d55abbfad75fd", null ]
 ];

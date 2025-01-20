@@ -1,7 +1,11 @@
 var a13090 =
 [
-    [ "OnRemove", "dd/dde/a13090.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
-    [ "PrepareAuraScript", "dd/dde/a13090.html#ade353aafb960cabdb615718f41f485e8", null ],
-    [ "Register", "dd/dde/a13090.html#af1c312778a13f7fe8d174247f69258ac", null ],
-    [ "Validate", "dd/dde/a13090.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
+    [ "npc_kalecgos_kj", "dd/dde/a13090.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
+    [ "DoAction", "dd/dde/a13090.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
+    [ "JustSummoned", "dd/dde/a13090.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
+    [ "Reset", "dd/dde/a13090.html#ab3cd4229999bddc16fe8152acb187111", null ],
+    [ "UpdateAI", "dd/dde/a13090.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
+    [ "events", "dd/dde/a13090.html#ab5cc58e293e20172558e15fa28670633", null ],
+    [ "instance", "dd/dde/a13090.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
+    [ "summons", "dd/dde/a13090.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
 ];

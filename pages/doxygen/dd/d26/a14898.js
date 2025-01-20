@@ -1,5 +1,6 @@
 var a14898 =
 [
-    [ "at_twin_emperors", "dd/d26/a14898.html#a343d482857fa0a45c42f593e591f7754", null ],
-    [ "_OnTrigger", "dd/d26/a14898.html#adf3120b7bf611e0246abb2970711ada3", null ]
+    [ "HandleOnHit", "dd/d26/a14898.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
+    [ "PrepareSpellScript", "dd/d26/a14898.html#a9e568a1608715973fc438ff5e4356714", null ],
+    [ "Register", "dd/d26/a14898.html#a752d697aada626440fdff2bd889f890f", null ]
 ];

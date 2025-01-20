@@ -1,7 +1,8 @@
 var a25914 =
 [
-    [ "CalculateAmount", "db/d67/a25914.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
-    [ "HandleUpdateSpellclick", "db/d67/a25914.html#a89956d7f3a6404d5b60e46034867c82c", null ],
-    [ "PrepareAuraScript", "db/d67/a25914.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
-    [ "Register", "db/d67/a25914.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ]
+    [ "CalculateAmount", "db/d67/a25914.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
+    [ "PrepareAuraScript", "db/d67/a25914.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
+    [ "ReflectDamage", "db/d67/a25914.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
+    [ "Register", "db/d67/a25914.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
+    [ "Validate", "db/d67/a25914.html#af2936ba4a29fc8735a3cabe805c77355", null ]
 ];

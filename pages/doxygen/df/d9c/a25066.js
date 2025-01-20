@@ -1,6 +1,6 @@
 var a25066 =
 [
-    [ "HandleScript", "df/d9c/a25066.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
-    [ "PrepareSpellScript", "df/d9c/a25066.html#a438c4c1763688210384b24305aeebe52", null ],
-    [ "Register", "df/d9c/a25066.html#a27b25fbbdd912505738728414b79380c", null ]
+    [ "CalculateAmount", "df/d9c/a25066.html#ac0018b57967a3d3ae71aa81745032f15", null ],
+    [ "PrepareAuraScript", "df/d9c/a25066.html#ab249a493050c5527eeec8913e94cfc64", null ],
+    [ "Register", "df/d9c/a25066.html#a8f078f8370eacba197ceb2068b6a538d", null ]
 ];

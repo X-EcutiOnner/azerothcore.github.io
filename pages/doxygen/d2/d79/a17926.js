@@ -1,6 +1,6 @@
 var a17926 =
 [
-    [ "npc_tirion_fordringAI", "db/dee/a17930.html", "db/dee/a17930" ],
-    [ "npc_tirion_fordring_tft", "d2/d79/a17926.html#a04036d958e7ac643c9ba8d9073bca404", null ],
-    [ "GetAI", "d2/d79/a17926.html#a41dcfa415831091531cbf46e946f442d", null ]
+    [ "npc_shambling_horror_iccAI", "db/dee/a17930.html", "db/dee/a17930" ],
+    [ "npc_shambling_horror_icc", "d2/d79/a17926.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
+    [ "GetAI", "d2/d79/a17926.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
 ];

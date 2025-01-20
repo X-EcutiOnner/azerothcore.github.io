@@ -1,7 +1,6 @@
 var a13298 =
 [
-    [ "npc_ranger_lilatha", "d5/d21/a13298.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "d5/d21/a13298.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "d5/d21/a13298.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "d5/d21/a13298.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "dc/d34/a13302.html", "dc/d34/a13302" ],
+    [ "npc_bh_thalorien_dawnseeker", "d5/d21/a13298.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
+    [ "GetAI", "d5/d21/a13298.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
 ];

@@ -1,10 +1,6 @@
 var a23638 =
 [
-    [ "boss_nethermancer_sepethrea", "d8/d8f/a23638.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "CanAIAttack", "d8/d8f/a23638.html#a34fbf871d99519306469c010d5fed9c7", null ],
-    [ "EnterEvadeMode", "d8/d8f/a23638.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "d8/d8f/a23638.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "d8/d8f/a23638.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "d8/d8f/a23638.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "d8/d8f/a23638.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "da/ddb/a23642.html", "da/ddb/a23642" ],
+    [ "npc_deaths_door_fell_cannon_target_bunny", "d8/d8f/a23638.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
+    [ "GetAI", "d8/d8f/a23638.html#a250707096229da28024960beeb7725bf", null ]
 ];

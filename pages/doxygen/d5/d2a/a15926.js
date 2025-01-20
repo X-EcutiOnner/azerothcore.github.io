@@ -1,6 +1,6 @@
 var a15926 =
 [
-    [ "boss_eadricAI", "d4/d18/a15930.html", "d4/d18/a15930" ],
-    [ "boss_eadric", "d5/d2a/a15926.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
-    [ "GetAI", "d5/d2a/a15926.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
+    [ "npc_argent_soldierAI", "d4/d18/a15930.html", "d4/d18/a15930" ],
+    [ "npc_argent_soldier", "d5/d2a/a15926.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
+    [ "GetAI", "d5/d2a/a15926.html#adfeed3d533104b9617dfbb06925a3d44", null ]
 ];

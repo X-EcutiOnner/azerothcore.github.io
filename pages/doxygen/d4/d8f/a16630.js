@@ -1,5 +1,8 @@
 var a16630 =
 [
-    [ "at_hor_shadow_throne", "d4/d8f/a16630.html#a342808808be75079acf6a2f930afe930", null ],
-    [ "OnTrigger", "d4/d8f/a16630.html#a0166b1a58f4171c4d9893010df5831c4", null ]
+    [ "npc_hor_raging_ghoulAI", "d4/d8f/a16630.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
+    [ "JustDied", "d4/d8f/a16630.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
+    [ "Reset", "d4/d8f/a16630.html#aa52576d94e230797209dfc938d62187f", null ],
+    [ "UpdateAI", "d4/d8f/a16630.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
+    [ "leaped", "d4/d8f/a16630.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
 ];

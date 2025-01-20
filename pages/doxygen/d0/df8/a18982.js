@@ -1,8 +1,6 @@
 var a18982 =
 [
-    [ "npc_alexstraszaAI", "d0/df8/a18982.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
-    [ "AttackStart", "d0/df8/a18982.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
-    [ "MoveInLineOfSight", "d0/df8/a18982.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
-    [ "UpdateAI", "d0/df8/a18982.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
-    [ "events", "d0/df8/a18982.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
+    [ "instance_eye_of_eternity_InstanceMapScript", "d3/d72/a18986.html", "d3/d72/a18986" ],
+    [ "instance_eye_of_eternity", "d0/df8/a18982.html#afcab4ba969d0423871a4e398627a323d", null ],
+    [ "GetInstanceScript", "d0/df8/a18982.html#af51319609d355fe87a77a87eb697f434", null ]
 ];

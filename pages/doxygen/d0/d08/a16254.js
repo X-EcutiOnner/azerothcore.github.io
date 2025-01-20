@@ -1,7 +1,6 @@
 var a16254 =
 [
-    [ "FilterTargets", "d0/d08/a16254.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "d0/d08/a16254.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "d0/d08/a16254.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "d0/d08/a16254.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "boss_acidmawAI", "db/d06/a16258.html", "db/d06/a16258" ],
+    [ "boss_acidmaw", "d0/d08/a16254.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
+    [ "GetAI", "d0/d08/a16254.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
 ];

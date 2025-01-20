@@ -1,9 +1,8 @@
 var a18242 =
 [
-    [ "npc_gluttonous_abominationAI", "dc/d54/a18242.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
-    [ "JustDied", "dc/d54/a18242.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
-    [ "JustSummoned", "dc/d54/a18242.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
-    [ "Reset", "dc/d54/a18242.html#a45588181429a74ac024e0390c76fa57a", null ],
-    [ "UpdateAI", "dc/d54/a18242.html#a33ef03a9f005ff187493275a9c2683a7", null ],
-    [ "_events", "dc/d54/a18242.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
+    [ "FilterTargets", "dc/d54/a18242.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
+    [ "HandleForceCast", "dc/d54/a18242.html#ae783cf255be823bf7c9125f288479e97", null ],
+    [ "Load", "dc/d54/a18242.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
+    [ "PrepareSpellScript", "dc/d54/a18242.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
+    [ "Register", "dc/d54/a18242.html#a454a8909be4bb85f255ea696041ea447", null ]
 ];

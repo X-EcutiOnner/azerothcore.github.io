@@ -1,9 +1,8 @@
 var a28106 =
 [
-    [ "TimeSeg", "d8/dd2/a28106.html#a16782e722a5bada41691841fe594b7a6", null ],
-    [ "TransportEntry", "d8/dd2/a28106.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
-    [ "W", "d8/dd2/a28106.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
-    [ "X", "d8/dd2/a28106.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
-    [ "Y", "d8/dd2/a28106.html#a7f0ff898e752e2e904ebee1412643df6", null ],
-    [ "Z", "d8/dd2/a28106.html#a87647d71a965e80154ca36dc05421585", null ]
+    [ "MapDifficulty", "d8/dd2/a28106.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
+    [ "MapDifficulty", "d8/dd2/a28106.html#a227aec55b5b774076882ea34f70d5d88", null ],
+    [ "hasErrorMessage", "d8/dd2/a28106.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
+    [ "maxPlayers", "d8/dd2/a28106.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
+    [ "resetTime", "d8/dd2/a28106.html#a7190131620b9eee0897ac7b4dd62949e", null ]
 ];

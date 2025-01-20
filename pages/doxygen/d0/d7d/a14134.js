@@ -1,7 +1,8 @@
 var a14134 =
 [
-    [ "npc_love_in_air_supply_sentry", "d0/d7d/a14134.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "d0/d7d/a14134.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "d0/d7d/a14134.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "d0/d7d/a14134.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "OnApply", "d0/d7d/a14134.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
+    [ "OnRemove", "d0/d7d/a14134.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
+    [ "PrepareAuraScript", "d0/d7d/a14134.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
+    [ "Register", "d0/d7d/a14134.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
+    [ "Validate", "d0/d7d/a14134.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
 ];

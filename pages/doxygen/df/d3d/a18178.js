@@ -1,14 +1,7 @@
 var a18178 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "df/d3d/a18178.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
-    [ "AttackStart", "df/d3d/a18178.html#a5457c18c60a8301ea60ef34d810a14c9", null ],
-    [ "CanAIAttack", "df/d3d/a18178.html#aaf12ae21dddfa6b47ffa7880f65487a4", null ],
-    [ "DoAction", "df/d3d/a18178.html#abbd08537ed245084ca7d4cf852a749a2", null ],
-    [ "EnterEvadeMode", "df/d3d/a18178.html#a32bd4ed61bc62206ccedcf4acaeb8df8", null ],
-    [ "JustEngagedWith", "df/d3d/a18178.html#ad7385306f8058699ee004b7bc5f1b538", null ],
-    [ "JustReachedHome", "df/d3d/a18178.html#a2ae1c178a84c6d6899cf6400cb963e44", null ],
-    [ "MoveInLineOfSight", "df/d3d/a18178.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
-    [ "Reset", "df/d3d/a18178.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ],
-    [ "UpdateAI", "df/d3d/a18178.html#a89ce158e08b3da1e54b0be6caa3950b8", null ],
-    [ "checkTimer", "df/d3d/a18178.html#ae5c238e2e201c431ceccc59a3a26078b", null ]
+    [ "npc_valithria_portalAI", "df/d3d/a18178.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
+    [ "GetData", "df/d3d/a18178.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
+    [ "OnSpellClick", "df/d3d/a18178.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
+    [ "_used", "df/d3d/a18178.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
 ];

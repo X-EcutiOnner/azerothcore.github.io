@@ -1,6 +1,6 @@
 var a17622 =
 [
-    [ "HandleScript", "d6/d62/a17622.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
-    [ "PrepareSpellScript", "d6/d62/a17622.html#a50560d754709e6b9ec6863142c1ffce3", null ],
-    [ "Register", "d6/d62/a17622.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
+    [ "FilterTargetsInitial", "d6/d62/a17622.html#a92cc71f268793c616bed66d9a489a145", null ],
+    [ "PrepareSpellScript", "d6/d62/a17622.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
+    [ "Register", "d6/d62/a17622.html#a91b96940a9e72e632989b49f7e475dba", null ]
 ];

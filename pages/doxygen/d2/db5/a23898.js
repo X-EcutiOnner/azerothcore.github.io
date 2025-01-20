@@ -1,6 +1,6 @@
 var a23898 =
 [
-    [ "npc_drake_dealer_hurlunk", "d2/db5/a23898.html#ae6d095365d23c30d5b772b047b459ddb", null ],
-    [ "OnGossipHello", "d2/db5/a23898.html#ad04b7f906f029d9935e29c585b0de421", null ],
-    [ "OnGossipSelect", "d2/db5/a23898.html#aa23833dcdefb909899120c25d5376111", null ]
+    [ "npc_torloth_the_magnificentAI", "d8/d38/a23902.html", "d8/d38/a23902" ],
+    [ "npc_torloth_the_magnificent", "d2/db5/a23898.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
+    [ "GetAI", "d2/db5/a23898.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
 ];

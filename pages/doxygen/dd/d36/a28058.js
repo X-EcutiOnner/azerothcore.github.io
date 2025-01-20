@@ -1,8 +1,10 @@
 var a28058 =
 [
-    [ "Color", "dd/d36/a28058.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "dd/d36/a28058.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "dd/d36/a28058.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "dd/d36/a28058.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "dd/d36/a28058.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "ID", "dd/d36/a28058.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "dd/d36/a28058.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "dd/d36/a28058.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "dd/d36/a28058.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "dd/d36/a28058.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "dd/d36/a28058.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "dd/d36/a28058.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

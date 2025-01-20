@@ -1,9 +1,8 @@
 var a23422 =
 [
-    [ "boss_dalliah_the_doomsayer", "d5/d77/a23422.html#ad6edf9623942297b28bc7420ec0cc733", null ],
-    [ "InitializeAI", "d5/d77/a23422.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
-    [ "JustDied", "d5/d77/a23422.html#a431edc9c25fb125d7d267073eb1c1423", null ],
-    [ "JustEngagedWith", "d5/d77/a23422.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
-    [ "KilledUnit", "d5/d77/a23422.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
-    [ "Reset", "d5/d77/a23422.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
+    [ "boss_commander_sarannis", "d5/d77/a23422.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d5/d77/a23422.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d5/d77/a23422.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d5/d77/a23422.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d5/d77/a23422.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

@@ -1,9 +1,6 @@
 var a19186 =
 [
-    [ "HandleOnEffectApply", "d5/d37/a19186.html#a6ab047004cc901331d747641f218cf6a", null ],
-    [ "HandleOnEffectRemove", "d5/d37/a19186.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
-    [ "PrepareAuraScript", "d5/d37/a19186.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
-    [ "Register", "d5/d37/a19186.html#a83b0d414a6e97b434f82492fa01ac385", null ],
-    [ "Validate", "d5/d37/a19186.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
-    [ "_drakeGUID", "d5/d37/a19186.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
+    [ "boss_ionarAI", "d8/d3f/a19190.html", "d8/d3f/a19190" ],
+    [ "boss_ionar", "d5/d37/a19186.html#a284da7d86f0b386e352587e0321bf465", null ],
+    [ "GetAI", "d5/d37/a19186.html#a0c0f28f832458df7326842f04413af5d", null ]
 ];

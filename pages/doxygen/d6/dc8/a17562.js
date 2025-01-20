@@ -1,6 +1,7 @@
 var a17562 =
 [
-    [ "npc_volatile_oozeAI", "d4/d67/a17566.html", "d4/d67/a17566" ],
-    [ "npc_volatile_ooze", "d6/dc8/a17562.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "d6/dc8/a17562.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "HandleTriggerSpell", "d6/dc8/a17562.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d6/dc8/a17562.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d6/dc8/a17562.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d6/dc8/a17562.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

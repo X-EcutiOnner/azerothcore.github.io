@@ -1,6 +1,10 @@
 var a16858 =
 [
-    [ "entry", "d6/dee/a16858.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "d6/dee/a16858.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "d6/dee/a16858.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "npc_living_mojoAI", "d6/dee/a16858.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
+    [ "AttackStart", "d6/dee/a16858.html#ad3f73a040176cd804f9715141063d176", null ],
+    [ "DoAction", "d6/dee/a16858.html#a9d942e99f358a7488d473969ab461d6f", null ],
+    [ "MoveInLineOfSight", "d6/dee/a16858.html#a7981568666269e25580ae839f1f97f09", null ],
+    [ "Reset", "d6/dee/a16858.html#a139df1207438dbd3793a2fbc58c2396c", null ],
+    [ "UpdateAI", "d6/dee/a16858.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
+    [ "events", "d6/dee/a16858.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
 ];

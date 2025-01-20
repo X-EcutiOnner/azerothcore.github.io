@@ -1,13 +1,21 @@
 var a18302 =
 [
-    [ "npc_highlord_tirion_fordringAI", "dc/d22/a18302.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "dc/d22/a18302.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "dc/d22/a18302.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "dc/d22/a18302.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "dc/d22/a18302.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "dc/d22/a18302.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "dc/d22/a18302.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "dc/d22/a18302.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "dc/d22/a18302.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "dc/d22/a18302.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "npc_crok_scourgebaneAI", "dc/d22/a18302.html#a0b59ffcc00aeb1b9ac23ddc0b1504054", null ],
+    [ "CanAIAttack", "dc/d22/a18302.html#a0a26fdecc1748b96d0e7598a80449dc9", null ],
+    [ "DamageTaken", "dc/d22/a18302.html#ae727d192e29c63d5aa699b491425cdc6", null ],
+    [ "DoAction", "dc/d22/a18302.html#aaf9b034a97510ce7d58aa2d9ecfc0c14", null ],
+    [ "Reset", "dc/d22/a18302.html#a6c1d480fff0a4a6361986dc82a945534", null ],
+    [ "SetGUID", "dc/d22/a18302.html#ad2493bd37a68c9b2709e25231863a863", null ],
+    [ "UpdateAI", "dc/d22/a18302.html#a109b1bf28de7903557c9c03957fa7d71", null ],
+    [ "UpdateEscortAI", "dc/d22/a18302.html#ae424685131ee51e8d6390e4ddb341b04", null ],
+    [ "WaypointReached", "dc/d22/a18302.html#a58c3e2ed37552b3adde1aa4f1a8ba0ba", null ],
+    [ "WaypointStart", "dc/d22/a18302.html#a900611179c3c9d4ceffd86261f62151b", null ],
+    [ "_aliveTrash", "dc/d22/a18302.html#ae0c99157db5daa07643715a56217bccd", null ],
+    [ "_currentWPid", "dc/d22/a18302.html#a541f03486042a87f3ff223d7424d32f8", null ],
+    [ "_didUnderTenPercentText", "dc/d22/a18302.html#a8cb4c0126549dbb10e0b60d164ba7924", null ],
+    [ "_events", "dc/d22/a18302.html#a8f6b1618223d4660cce33d34d215f323", null ],
+    [ "_handledWP4", "dc/d22/a18302.html#acf6f70f93dbca7f5139af17ec411b971", null ],
+    [ "_instance", "dc/d22/a18302.html#a0698a3297da669fd5440743be200c378", null ],
+    [ "_isEventDone", "dc/d22/a18302.html#a184a0a5b62cfc33c9ae71c0d2d651c27", null ],
+    [ "_wipeCheckTimer", "dc/d22/a18302.html#a91be80fbce6f6f0ae6a249128ba319c9", null ]
 ];

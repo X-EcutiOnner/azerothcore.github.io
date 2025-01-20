@@ -1,6 +1,9 @@
 var a16478 =
 [
-    [ "PrepareSpellScript", "d9/db4/a16478.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "d9/db4/a16478.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "d9/db4/a16478.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "HandlePeriodicTick", "d9/db4/a16478.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "d9/db4/a16478.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "d9/db4/a16478.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "d9/db4/a16478.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "d9/db4/a16478.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "d9/db4/a16478.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

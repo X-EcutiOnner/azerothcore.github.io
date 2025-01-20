@@ -1,6 +1,7 @@
 var a18898 =
 [
-    [ "npc_teslaAI", "d3/d13/a18902.html", "d3/d13/a18902" ],
-    [ "npc_tesla", "db/dc5/a18898.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
-    [ "GetAI", "db/dc5/a18898.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
+    [ "boss_naxxramas_miscAI", "db/dc5/a18898.html#affd990236c101d91b31f60eea7135cdf", null ],
+    [ "JustDied", "db/dc5/a18898.html#aae92d4b538907ef829f5f534f16feef1", null ],
+    [ "UpdateAI", "db/dc5/a18898.html#a02fabc7b8669f3e9358a623b4cf0e84c", null ],
+    [ "timer", "db/dc5/a18898.html#a39af06c7bc635bf85eebf4ed40798006", null ]
 ];

@@ -1,6 +1,6 @@
 var a17074 =
 [
-    [ "VampiricBiteTargetSelector", "d5/d74/a17074.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
-    [ "operator()", "d5/d74/a17074.html#ac16204f50f62cb2568998d1ea137f55d", null ],
-    [ "_source", "d5/d74/a17074.html#af23a69491c915909566249b109b1f0e8", null ]
+    [ "BloodboltHitCheck", "d5/d74/a17074.html#a84873f1ec2c1e214e35d32954622e9af", null ],
+    [ "operator()", "d5/d74/a17074.html#a1eddfd7bbea8def20dcc080413af6364", null ],
+    [ "_ai", "d5/d74/a17074.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
 ];

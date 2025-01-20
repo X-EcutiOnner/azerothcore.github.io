@@ -1,6 +1,6 @@
 var a14222 =
 [
-    [ "HandleDummy", "d3/d21/a14222.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "d3/d21/a14222.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "d3/d21/a14222.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "OnAuraRemove", "d3/d21/a14222.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d3/d21/a14222.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d3/d21/a14222.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

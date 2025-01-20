@@ -1,7 +1,7 @@
 var a22654 =
 [
-    [ "CalculateAmount", "da/d9b/a22654.html#adad1c8a513ce8a1badbd40c291363de1", null ],
-    [ "PrepareAuraScript", "da/d9b/a22654.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
-    [ "Register", "da/d9b/a22654.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
-    [ "Update", "da/d9b/a22654.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
+    [ "npc_ashtongue_channeler", "da/d9b/a22654.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "da/d9b/a22654.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "da/d9b/a22654.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "da/d9b/a22654.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

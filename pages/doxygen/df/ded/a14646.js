@@ -1,6 +1,7 @@
 var a14646 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "d8/de4/a14650.html", "d8/de4/a14650" ],
-    [ "instance_razorfen_kraul", "df/ded/a14646.html#aedd65b901c8131a7ac21e8576734f76f", null ],
-    [ "GetInstanceScript", "df/ded/a14646.html#a78e77010ebb055b9530733ca25533110", null ]
+    [ "HandleScript", "df/ded/a14646.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
+    [ "PrepareSpellScript", "df/ded/a14646.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
+    [ "Register", "df/ded/a14646.html#aff966352a2babe6e6daed91f02e1190a", null ],
+    [ "Validate", "df/ded/a14646.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
 ];

@@ -1,6 +1,6 @@
 var a21002 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "dc/d17/a21006.html", "dc/d17/a21006" ],
-    [ "instance_vault_of_archavon", "da/d6d/a21002.html#a0be8d95ff0f3b751e6f833689e436310", null ],
-    [ "GetInstanceScript", "da/d6d/a21002.html#abb955a8873a3a3021e164225dd1f857a", null ]
+    [ "npc_erekem_guardAI", "dc/d17/a21006.html", "dc/d17/a21006" ],
+    [ "npc_erekem_guard", "da/d6d/a21002.html#a78592996e90f77f81eec0325a7f11956", null ],
+    [ "GetAI", "da/d6d/a21002.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
 ];

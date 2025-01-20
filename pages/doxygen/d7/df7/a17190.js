@@ -1,5 +1,7 @@
 var a17190 =
 [
-    [ "achievement_ive_gone_and_made_a_mess", "d7/df7/a17190.html#a0e71ea3afae02176f81231e51155c038", null ],
-    [ "OnCheck", "d7/df7/a17190.html#a638cead986783523c7c35ecb9d885b11", null ]
+    [ "ExtraEffect", "d7/df7/a17190.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "d7/df7/a17190.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "d7/df7/a17190.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "d7/df7/a17190.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

@@ -1,6 +1,6 @@
 var a14614 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "db/df3/a14618.html", "db/df3/a14618" ],
-    [ "instance_ragefire_chasm", "d3/dd9/a14614.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
-    [ "GetInstanceScript", "d3/dd9/a14614.html#a0568996a61ef91688b9f223cb3782e5a", null ]
+    [ "npc_idol_room_spawnerAI", "db/df3/a14618.html", "db/df3/a14618" ],
+    [ "npc_idol_room_spawner", "d3/dd9/a14614.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "d3/dd9/a14614.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

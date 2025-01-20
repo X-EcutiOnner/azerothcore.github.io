@@ -1,6 +1,8 @@
 var a18374 =
 [
-    [ "npc_frostwing_vrykulAI", "d5/d08/a18378.html", "d5/d08/a18378" ],
-    [ "npc_frostwing_vrykul", "d5/d81/a18374.html#ab915aa094ddebd9201a1c626e6427409", null ],
-    [ "GetAI", "d5/d81/a18374.html#a11678e59b6db9a41c7b6a575339995fd", null ]
+    [ "npc_arthas_teleport_visualAI", "d5/d81/a18374.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "d5/d81/a18374.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "d5/d81/a18374.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "d5/d81/a18374.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "d5/d81/a18374.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

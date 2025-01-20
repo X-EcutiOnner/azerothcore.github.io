@@ -1,6 +1,6 @@
 var a25918 =
 [
-    [ "HandleAfterHit", "dd/d6c/a25918.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "dd/d6c/a25918.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "dd/d6c/a25918.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "CheckCast", "dd/d6c/a25918.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
+    [ "PrepareSpellScript", "dd/d6c/a25918.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
+    [ "Register", "dd/d6c/a25918.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
 ];

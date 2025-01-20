@@ -1,8 +1,6 @@
 var a15862 =
 [
-    [ "OnApply", "d4/dab/a15862.html#a7165da94ce589afcd24411a308802c18", null ],
-    [ "OnRemove", "d4/dab/a15862.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49", null ],
-    [ "PrepareAuraScript", "d4/dab/a15862.html#ab8361bc1d2cc786b52f1fc2b7ff09527", null ],
-    [ "Register", "d4/dab/a15862.html#a0ff7bbd0dea458b15231ecf419b1c49c", null ],
-    [ "Validate", "d4/dab/a15862.html#acf29b80b7b74c3f409e1f046b8062994", null ]
+    [ "HandleHealPct", "d4/dab/a15862.html#ad13b3924815ac3da7902c8292a760943", null ],
+    [ "PrepareSpellScript", "d4/dab/a15862.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
+    [ "Register", "d4/dab/a15862.html#a3016c31c072d6417bbe47c2891059718", null ]
 ];

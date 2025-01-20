@@ -1,7 +1,6 @@
 var a27306 =
 [
-    [ "npc_guardianAI", "dc/d9c/a27306.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "dc/d9c/a27306.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "dc/d9c/a27306.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "dc/d9c/a27306.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "npc_pet_trainerAI", "da/d7f/a27310.html", "da/d7f/a27310" ],
+    [ "npc_pet_trainer", "dc/d9c/a27306.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "dc/d9c/a27306.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

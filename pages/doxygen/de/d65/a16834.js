@@ -1,6 +1,6 @@
 var a16834 =
 [
-    [ "HandleDummy", "de/d65/a16834.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
-    [ "PrepareSpellScript", "de/d65/a16834.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
-    [ "Register", "de/d65/a16834.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
+    [ "entry", "de/d65/a16834.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "de/d65/a16834.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "de/d65/a16834.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

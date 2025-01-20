@@ -1,6 +1,8 @@
 var a25978 =
 [
-    [ "HandleDummyEffect", "d3/d27/a25978.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
-    [ "PrepareSpellScript", "d3/d27/a25978.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
-    [ "Register", "d3/d27/a25978.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
+    [ "HandleDummy", "d3/d27/a25978.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "d3/d27/a25978.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "d3/d27/a25978.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "d3/d27/a25978.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "d3/d27/a25978.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

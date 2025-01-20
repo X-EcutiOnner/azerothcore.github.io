@@ -1,6 +1,5 @@
 var a22086 =
 [
-    [ "HandleSummon", "d6/d1a/a22086.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
-    [ "PrepareSpellScript", "d6/d1a/a22086.html#ae7f071e9d9a82892be31090385679c9f", null ],
-    [ "Register", "d6/d1a/a22086.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "d6/d1a/a22086.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "d6/d1a/a22086.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

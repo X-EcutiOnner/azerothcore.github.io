@@ -1,8 +1,12 @@
 var a16586 =
 [
-    [ "npc_phantom_hallucinationAI", "d5/dfa/a16586.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
-    [ "EnterEvadeMode", "d5/dfa/a16586.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
-    [ "JustDied", "d5/dfa/a16586.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
-    [ "UpdateAI", "d5/dfa/a16586.html#ad874a741c641dbac6380aa682d582d7c", null ],
-    [ "numOfUpd", "d5/dfa/a16586.html#adb78f5dcd272e8223f895079885a5461", null ]
+    [ "npc_tortured_riflemanAI", "d5/dfa/a16586.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
+    [ "AttackStart", "d5/dfa/a16586.html#aaf2b73d0b60791f887207842580d91dc", null ],
+    [ "DoAction", "d5/dfa/a16586.html#acb941c20d911a567c93bb0f92105fdfd", null ],
+    [ "EnterEvadeMode", "d5/dfa/a16586.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
+    [ "JustDied", "d5/dfa/a16586.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
+    [ "JustEngagedWith", "d5/dfa/a16586.html#ac5d8f17c48269da06c14643e82c88567", null ],
+    [ "Reset", "d5/dfa/a16586.html#a04f9c7056e063d436df66f079127d1a7", null ],
+    [ "UpdateAI", "d5/dfa/a16586.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
+    [ "events", "d5/dfa/a16586.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
 ];

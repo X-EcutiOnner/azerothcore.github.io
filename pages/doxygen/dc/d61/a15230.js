@@ -1,7 +1,6 @@
 var a15230 =
 [
-    [ "npc_shenthulAI", "dc/d98/a15234.html", "dc/d98/a15234" ],
-    [ "npc_shenthul", "dc/d61/a15230.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "dc/d61/a15230.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "dc/d61/a15230.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "SpellId", "dc/d61/a15230.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "dc/d61/a15230.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "dc/d61/a15230.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

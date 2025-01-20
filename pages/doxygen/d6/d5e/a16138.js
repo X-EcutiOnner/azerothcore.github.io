@@ -1,8 +1,8 @@
 var a16138 =
 [
-    [ "npc_toc_warlockAI", "d6/d5e/a16138.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
-    [ "JustSummoned", "d6/d5e/a16138.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
-    [ "myCanCast", "d6/d5e/a16138.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
-    [ "UpdateAI", "d6/d5e/a16138.html#a554849d02d923439bd810b7d8c242afa", null ],
-    [ "events", "d6/d5e/a16138.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
+    [ "npc_toc_boomkinAI", "d6/d5e/a16138.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "d6/d5e/a16138.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "d6/d5e/a16138.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "d6/d5e/a16138.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "d6/d5e/a16138.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

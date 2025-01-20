@@ -1,7 +1,6 @@
 var a16950 =
 [
-    [ "HandlePeriodic", "d1/da4/a16950.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
-    [ "PrepareAuraScript", "d1/da4/a16950.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
-    [ "Register", "d1/da4/a16950.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
-    [ "Validate", "d1/da4/a16950.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
+    [ "boss_prince_kelesethAI", "d3/d06/a16954.html", "d3/d06/a16954" ],
+    [ "boss_prince_keleseth_icc", "d1/da4/a16950.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
+    [ "GetAI", "d1/da4/a16950.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
 ];

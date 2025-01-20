@@ -525,11 +525,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa07846_html_acb4a26180cdcb2266736f6aea4a695d8"><div class="ttname"><a href="../../d8/d56/a07846.html#acb4a26180cdcb2266736f6aea4a695d8">Creature::SetWalk</a></div><div class="ttdeci">bool SetWalk(bool enable) override</div><div class="ttdoc">Enable or disable the creature's walk mode by removing: MOVEMENTFLAG_WALKING. Infom also the client.</div><div class="ttdef"><b>Definition:</b> Creature.cpp:3191</div></div>
 <div class="ttc" id="aa08598_html_a49593df9652f3474f6de436e6f82e51e"><div class="ttname"><a href="../../d4/d46/a08598.html#a49593df9652f3474f6de436e6f82e51e">Unit::ReplaceAllUnitFlags</a></div><div class="ttdeci">void ReplaceAllUnitFlags(UnitFlags flags)</div><div class="ttdoc">Remove the Unit flag specify only.</div><div class="ttdef"><b>Definition:</b> Unit.h:721</div></div>
 <div class="ttc" id="aa08598_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../d4/d46/a08598.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition:</b> Unit.h:1670</div></div>
-<div class="ttc" id="aa08598_html_ab30ea03b94379b25f1d75ea879b4a61c"><div class="ttname"><a href="../../d4/d46/a08598.html#ab30ea03b94379b25f1d75ea879b4a61c">Unit::SetSpeed</a></div><div class="ttdeci">void SetSpeed(UnitMoveType mtype, float rate, bool forced=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:14450</div></div>
+<div class="ttc" id="aa08598_html_ab30ea03b94379b25f1d75ea879b4a61c"><div class="ttname"><a href="../../d4/d46/a08598.html#ab30ea03b94379b25f1d75ea879b4a61c">Unit::SetSpeed</a></div><div class="ttdeci">void SetSpeed(UnitMoveType mtype, float rate, bool forced=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:14462</div></div>
 <div class="ttc" id="aa09730_html_a46ca73c3acc43c9f0aaef6e847eb79fa"><div class="ttname"><a href="../../d8/dc2/a09730.html#a46ca73c3acc43c9f0aaef6e847eb79fa">MotionMaster::MoveFollow</a></div><div class="ttdeci">void MoveFollow(Unit *target, float dist, float angle, MovementSlot slot=MOTION_SLOT_ACTIVE, bool inheritWalkState=true)</div><div class="ttdoc">The unit will follow this target. Doesn't work with UNIT_FLAG_DISABLE_MOVE.</div><div class="ttdef"><b>Definition:</b> MotionMaster.cpp:409</div></div>
 <div class="ttc" id="aa12686_html_a084e80b43b5b30b5e1794feff305e9b3"><div class="ttname"><a href="../../d1/db0/a12686.html#a084e80b43b5b30b5e1794feff305e9b3">npc_scarlet_miner_cart::npc_scarlet_miner_cartAI::minerGUID</a></div><div class="ttdeci">ObjectGuid minerGUID</div><div class="ttdef"><b>Definition:</b> chapter1.cpp:955</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00201">FACTION_FRIENDLY</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l01670">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, <a class="el" href="../../#l00955">minerGUID</a>, <a class="el" href="../../#l00350">MOVE_RUN</a>, <a class="el" href="../../#l00409">MotionMaster::MoveFollow()</a>, <a class="el" href="../../#l00721">Unit::ReplaceAllUnitFlags()</a>, <a class="el" href="../../#l10077">Unit::SetFaction()</a>, <a class="el" href="../../#l00880">Unit::SetImmuneToAll()</a>, <a class="el" href="../../#l14450">Unit::SetSpeed()</a>, <a class="el" href="../../#l03191">Creature::SetWalk()</a>, and <a class="el" href="../../#l00251">UNIT_FLAG_NON_ATTACKABLE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00201">FACTION_FRIENDLY</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l01670">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, <a class="el" href="../../#l00955">minerGUID</a>, <a class="el" href="../../#l00350">MOVE_RUN</a>, <a class="el" href="../../#l00409">MotionMaster::MoveFollow()</a>, <a class="el" href="../../#l00721">Unit::ReplaceAllUnitFlags()</a>, <a class="el" href="../../#l10077">Unit::SetFaction()</a>, <a class="el" href="../../#l00880">Unit::SetImmuneToAll()</a>, <a class="el" href="../../#l14462">Unit::SetSpeed()</a>, <a class="el" href="../../#l03191">Creature::SetWalk()</a>, and <a class="el" href="../../#l00251">UNIT_FLAG_NON_ATTACKABLE</a>.</p>
 
 </div>
 </div>
@@ -583,7 +583,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  984</span>                    miner-&gt;DisappearAndDie();</div>
 <div class="line"><span class="lineno">  985</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, <a class="el" href="../../#l00955">minerGUID</a>, and <a class="el" href="../../#l14253">Unit::SetVisible()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, <a class="el" href="../../#l00955">minerGUID</a>, and <a class="el" href="../../#l14265">Unit::SetVisible()</a>.</p>
 
 </div>
 </div>
@@ -653,7 +653,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d22/a12682.html">npc_scarlet_miner_cart</a></li><li class="navelem"><a class="el" href="../../d1/db0/a12686.html">npc_scarlet_miner_cartAI</a></li>
-    <li class="footer">Generated on Mon Jan 13 2025 20:43:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 20 2025 20:41:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

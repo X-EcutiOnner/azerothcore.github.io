@@ -1,7 +1,6 @@
 var a17246 =
 [
-    [ "DelayedMovementEvent", "d6/dfd/a17246.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "d6/dfd/a17246.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "d6/dfd/a17246.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "d6/dfd/a17246.html#a046942728282a997068de447271f3cbe", null ]
+    [ "npc_muradin_bronzebeard_igbAI", "d3/d3e/a17250.html", "d3/d3e/a17250" ],
+    [ "npc_muradin_bronzebeard_igb", "d6/dfd/a17246.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
+    [ "GetAI", "d6/dfd/a17246.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
 ];

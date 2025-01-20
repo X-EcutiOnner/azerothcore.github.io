@@ -1,6 +1,6 @@
 var a20474 =
 [
-    [ "HandleScript", "df/df3/a20474.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
-    [ "PrepareSpellScript", "df/df3/a20474.html#a4fd05478a145157dbd8377532033ab95", null ],
-    [ "Register", "df/df3/a20474.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
+    [ "boss_yoggsaron_saraAI", "db/de6/a20478.html", "db/de6/a20478" ],
+    [ "boss_yoggsaron_sara", "df/df3/a20474.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
+    [ "GetAI", "df/df3/a20474.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
 ];

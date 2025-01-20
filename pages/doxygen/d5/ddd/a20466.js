@@ -1,6 +1,5 @@
 var a20466 =
 [
-    [ "PrepareSpellScript", "d5/ddd/a20466.html#a525025d429743f9d606289ca1a660796", null ],
-    [ "Register", "d5/ddd/a20466.html#a66f565c07d495f27aaba393fdcce9d24", null ],
-    [ "SelectTarget", "d5/ddd/a20466.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
+    [ "achievement_xt002_nerf_gravity_bombs", "d5/ddd/a20466.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
+    [ "OnCheck", "d5/ddd/a20466.html#a03f61470694399ab32aea354cd697771", null ]
 ];

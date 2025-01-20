@@ -1,13 +1,9 @@
 var a16646 =
 [
-    [ "npc_hor_leader_secondAI", "d0/d74/a16646.html#a54a5094dc533755efc249ebc96663b62", null ],
-    [ "DamageTaken", "d0/d74/a16646.html#ae534779315b04b3dde495b13a1cb28e4", null ],
-    [ "DoAction", "d0/d74/a16646.html#a4185259006017e85fade721796851dd0", null ],
-    [ "MovementInform", "d0/d74/a16646.html#afe93165a3e96496b52a2be8de5022164", null ],
-    [ "MoveToNextStopPoint", "d0/d74/a16646.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
-    [ "Reset", "d0/d74/a16646.html#ae5d125deab31e6425e94b4523d8251eb", null ],
-    [ "UpdateAI", "d0/d74/a16646.html#ae991e18a6729a1b088c60060802c01c2", null ],
-    [ "currentStopPoint", "d0/d74/a16646.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
-    [ "events", "d0/d74/a16646.html#a3510e246908f4e5b758e05ca06a29e47", null ],
-    [ "pInstance", "d0/d74/a16646.html#a32cebea12e13c87b45dd2a4c6cf495e5", null ]
+    [ "npc_hor_lumbering_abominationAI", "d0/d74/a16646.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
+    [ "JustDied", "d0/d74/a16646.html#af243a79da3028d3d66facc8a15132f78", null ],
+    [ "JustEngagedWith", "d0/d74/a16646.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
+    [ "Reset", "d0/d74/a16646.html#a4270f405bbade0028fce4df0655a1987", null ],
+    [ "UpdateAI", "d0/d74/a16646.html#a995d0f7902cb70280d1448ac7731a816", null ],
+    [ "events", "d0/d74/a16646.html#aee9063950477b50e38ec904e91882689", null ]
 ];

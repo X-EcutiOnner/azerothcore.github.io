@@ -1,6 +1,6 @@
 var a20350 =
 [
-    [ "boss_thorim_start_npcsAI", "dc/d1c/a20354.html", "dc/d1c/a20354" ],
-    [ "boss_thorim_start_npcs", "d6/d95/a20350.html#a3aa11a487ae00b2e397fd25ed2e42702", null ],
-    [ "GetAI", "d6/d95/a20350.html#a6c529b19d071b4966ccc74b44279cb08", null ]
+    [ "boss_thorim_ancient_rune_giantAI", "dc/d1c/a20354.html", "dc/d1c/a20354" ],
+    [ "boss_thorim_ancient_rune_giant", "d6/d95/a20350.html#ad87dca7c6058e4b8b1234410644523dd", null ],
+    [ "GetAI", "d6/d95/a20350.html#aa8a0ff1416d5678a5d6bb7bdc36d6617", null ]
 ];

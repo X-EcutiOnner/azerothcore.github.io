@@ -1,6 +1,6 @@
 var a19726 =
 [
-    [ "achievement_flame_leviathan_towers", "d1/d41/a19726.html#a491d66bdd373b6044e406126719ef910", null ],
-    [ "OnCheck", "d1/d41/a19726.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
-    [ "_towerCount", "d1/d41/a19726.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
+    [ "boss_freya_elder_stonebarkAI", "d3/dff/a19730.html", "d3/dff/a19730" ],
+    [ "boss_freya_elder_stonebark", "d1/d41/a19726.html#a9c90c504d78456580ae657a42fac4075", null ],
+    [ "GetAI", "d1/d41/a19726.html#a0b529bb8755c56046c40b620ef4b7448", null ]
 ];

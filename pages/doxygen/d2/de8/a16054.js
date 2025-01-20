@@ -1,6 +1,7 @@
 var a16054 =
 [
-    [ "npc_frost_sphereAI", "d7/d3b/a16058.html", "d7/d3b/a16058" ],
-    [ "npc_frost_sphere", "d2/de8/a16054.html#a0256ba1c53853307f8b66e22b10bef24", null ],
-    [ "GetAI", "d2/de8/a16054.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
+    [ "HandleEffectPeriodic", "d2/de8/a16054.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
+    [ "PrepareAuraScript", "d2/de8/a16054.html#a4506f7d723b85c7555296f5ade11cd29", null ],
+    [ "Register", "d2/de8/a16054.html#aeac7e6abc89209e14451439cdf1d416e", null ],
+    [ "Validate", "d2/de8/a16054.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
 ];

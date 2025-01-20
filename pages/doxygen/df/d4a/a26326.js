@@ -1,8 +1,12 @@
 var a26326 =
 [
-    [ "HandleRootRemove", "df/d4a/a26326.html#a9678ce2254825b67eb7a16312e960ba9", null ],
-    [ "HandleSnareRemove", "df/d4a/a26326.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
-    [ "PrepareSpellScript", "df/d4a/a26326.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
-    [ "Register", "df/d4a/a26326.html#a119675dccea898932ca090577022b6ba", null ],
-    [ "Validate", "df/d4a/a26326.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
+    [ "CalcPeriodic", "df/d4a/a26326.html#a35d58947074659d2692877dfcf13e4bd", null ],
+    [ "CalculateAPAmount", "df/d4a/a26326.html#ac72434a046c28a4887971cf83d574a6e", null ],
+    [ "CalculateResistanceAmount", "df/d4a/a26326.html#a82067899470366c2cbf21bba08061ce1", null ],
+    [ "CalculateSPAmount", "df/d4a/a26326.html#a527213b389be9b1953f423ae84eb16ee", null ],
+    [ "CalculateStatAmount", "df/d4a/a26326.html#ad7185292820feb168565648133c9e2cc", null ],
+    [ "HandleEffectApply", "df/d4a/a26326.html#aa333430da4cf3303822d5f048cb9d5a4", null ],
+    [ "HandlePeriodic", "df/d4a/a26326.html#ae2bca6c841d1ba02a8a39b1a2179ac97", null ],
+    [ "PrepareAuraScript", "df/d4a/a26326.html#a671a588ae36323c11b33a45d652290de", null ],
+    [ "Register", "df/d4a/a26326.html#a8aae94d6d6a9ec1fa7d47f88874cce4f", null ]
 ];

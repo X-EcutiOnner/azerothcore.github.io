@@ -1,7 +1,8 @@
 var a20642 =
 [
-    [ "OnApply", "d4/deb/a20642.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
-    [ "OnRemove", "d4/deb/a20642.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
-    [ "PrepareAuraScript", "d4/deb/a20642.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
-    [ "Register", "d4/deb/a20642.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
+    [ "FilterTargets", "d4/deb/a20642.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
+    [ "HandleDummyEffect", "d4/deb/a20642.html#ab1f662fa107d176386067ffc6467d90f", null ],
+    [ "PrepareSpellScript", "d4/deb/a20642.html#a069cc54bf009830ad781c790b4fcedad", null ],
+    [ "Register", "d4/deb/a20642.html#ac91532151b689bde35d7120b1e9aec5b", null ],
+    [ "Validate", "d4/deb/a20642.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
 ];

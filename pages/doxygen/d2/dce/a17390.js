@@ -1,9 +1,7 @@
 var a17390 =
 [
-    [ "CalculatePower", "d2/dce/a17390.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
-    [ "Load", "d2/dce/a17390.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
-    [ "PrepareSpellScript", "d2/dce/a17390.html#a49489a8e4e39735efa560f53236dfc2c", null ],
-    [ "PreventPowerGainOnHit", "d2/dce/a17390.html#a5eebe6f82a6d7306d6e232b755531939", null ],
-    [ "Register", "d2/dce/a17390.html#a67b59c096848adaad5566cbc2140da59", null ],
-    [ "Validate", "d2/dce/a17390.html#a355500a6f3bfed084030738041d0e3b9", null ]
+    [ "HandleScript", "d2/dce/a17390.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "d2/dce/a17390.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "d2/dce/a17390.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "d2/dce/a17390.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

@@ -1,6 +1,7 @@
 var a14342 =
 [
-    [ "FilterTargets", "dd/d56/a14342.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
-    [ "PrepareSpellScript", "dd/d56/a14342.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
-    [ "Register", "dd/d56/a14342.html#a164b8b946dc801db878603488c978adb", null ]
+    [ "hyjalJainaAI", "d7/d4d/a14346.html", "d7/d4d/a14346" ],
+    [ "npc_hyjal_jaina", "dd/d56/a14342.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "dd/d56/a14342.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "dd/d56/a14342.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

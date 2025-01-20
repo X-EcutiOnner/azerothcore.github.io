@@ -1,8 +1,6 @@
 var a22006 =
 [
-    [ "npc_freed_protodrakeAI", "d8/de9/a22006.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "d8/de9/a22006.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "d8/de9/a22006.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "d8/de9/a22006.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "d8/de9/a22006.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "HandleScriptEffect", "d8/de9/a22006.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
+    [ "PrepareSpellScript", "d8/de9/a22006.html#afa4ad1b205bf963b4230881738baf938", null ],
+    [ "Register", "d8/de9/a22006.html#a0d8925effced854471e2fbec9c631b91", null ]
 ];

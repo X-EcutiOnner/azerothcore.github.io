@@ -1,9 +1,6 @@
 var a17386 =
 [
-    [ "HandleApply", "de/da3/a17386.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "de/da3/a17386.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "de/da3/a17386.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "de/da3/a17386.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "de/da3/a17386.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "de/da3/a17386.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "IgbArtilleryCheck", "de/da3/a17386.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "de/da3/a17386.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "de/da3/a17386.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

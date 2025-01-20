@@ -1,6 +1,6 @@
 var a18050 =
 [
-    [ "ModDestHeight", "da/d7d/a18050.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
-    [ "PrepareSpellScript", "da/d7d/a18050.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
-    [ "Register", "da/d7d/a18050.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
+    [ "npc_terenas_menethilAI", "d8/d9e/a18054.html", "d8/d9e/a18054" ],
+    [ "npc_terenas_menethil", "da/d7d/a18050.html#a6b6850598c582e3d44c13275302fd32d", null ],
+    [ "GetAI", "da/d7d/a18050.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
 ];

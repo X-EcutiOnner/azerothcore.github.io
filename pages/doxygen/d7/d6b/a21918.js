@@ -1,8 +1,6 @@
 var a21918 =
 [
-    [ "npc_adventurous_dwarfAI", "d0/d18/a21922.html", "d0/d18/a21922" ],
-    [ "npc_adventurous_dwarf", "d7/d6b/a21918.html#a15c39e217907189db9be7799e696f310", null ],
-    [ "GetAI", "d7/d6b/a21918.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
-    [ "OnGossipHello", "d7/d6b/a21918.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
-    [ "OnGossipSelect", "d7/d6b/a21918.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
+    [ "HandleScript", "d7/d6b/a21918.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
+    [ "PrepareSpellScript", "d7/d6b/a21918.html#a5a4ce9453638d61fe52514240f0a9384", null ],
+    [ "Register", "d7/d6b/a21918.html#a889f931aaa37d3a283f4d585b384a68e", null ]
 ];

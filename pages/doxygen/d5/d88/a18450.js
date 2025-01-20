@@ -1,5 +1,7 @@
 var a18450 =
 [
-    [ "at_icc_start_frostwing_gauntlet", "d5/d88/a18450.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
-    [ "OnTrigger", "d5/d88/a18450.html#a7137166f281876f00d4e03c846875d85", null ]
+    [ "HandleDummyLaunch", "d5/d88/a18450.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
+    [ "PrepareSpellScript", "d5/d88/a18450.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
+    [ "Register", "d5/d88/a18450.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
+    [ "Validate", "d5/d88/a18450.html#a577166695c1479e3730a70637bc18cf1", null ]
 ];

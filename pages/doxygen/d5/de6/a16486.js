@@ -1,7 +1,8 @@
 var a16486 =
 [
-    [ "HandlePeriodicTick", "d5/de6/a16486.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
-    [ "PrepareAuraScript", "d5/de6/a16486.html#a93e894c642101160dd51f30952c82d24", null ],
-    [ "Register", "d5/de6/a16486.html#a49172ede0f888e391b9b4a835475220a", null ],
-    [ "Validate", "d5/de6/a16486.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
+    [ "npc_fos_leaderAI", "d5/de6/a16486.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "d5/de6/a16486.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "d5/de6/a16486.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "d5/de6/a16486.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "d5/de6/a16486.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

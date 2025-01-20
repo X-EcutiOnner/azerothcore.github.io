@@ -1,6 +1,6 @@
 var a23674 =
 [
-    [ "npc_deaths_fel_cannonAI", "df/d1c/a23674.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
-    [ "Reset", "df/d1c/a23674.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
-    [ "UpdateAI", "df/d1c/a23674.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
+    [ "npc_simon_bunnyAI", "d4/d77/a23678.html", "d4/d77/a23678" ],
+    [ "npc_simon_bunny", "df/d1c/a23674.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
+    [ "GetAI", "df/d1c/a23674.html#ac0c97609916321a1599c0722803a050f", null ]
 ];

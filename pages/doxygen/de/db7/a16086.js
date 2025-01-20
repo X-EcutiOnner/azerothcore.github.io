@@ -1,7 +1,6 @@
 var a16086 =
 [
-    [ "HandleAfterHit", "de/db7/a16086.html#a6fc446385881ddb4c94de73199649816", null ],
-    [ "PrepareSpellScript", "de/db7/a16086.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
-    [ "Register", "de/db7/a16086.html#aaae368b2f647aa6a56827550e50dafe1", null ],
-    [ "Validate", "de/db7/a16086.html#ad4c84071b538b657fa1302982f8799b4", null ]
+    [ "npc_toc_paladinAI", "d0/d0c/a16090.html", "d0/d0c/a16090" ],
+    [ "npc_toc_paladin", "de/db7/a16086.html#af11025a2a4be2b2c982ad31241d47180", null ],
+    [ "GetAI", "de/db7/a16086.html#a15766ea4414701040c738251302177af", null ]
 ];

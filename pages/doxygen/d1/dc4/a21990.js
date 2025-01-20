@@ -1,6 +1,12 @@
 var a21990 =
 [
-    [ "npc_roxi_ramrocket", "d1/dc4/a21990.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "d1/dc4/a21990.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "d1/dc4/a21990.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "npc_icefangAI", "d1/dc4/a21990.html#ab74b58a77e3c1349ed308f7febef794a", null ],
+    [ "AttackStart", "d1/dc4/a21990.html#a56615ecdb45389aa793374d26a636d45", null ],
+    [ "EnterEvadeMode", "d1/dc4/a21990.html#a1465c4779ea8b080f934163c8db6c99c", null ],
+    [ "JustDied", "d1/dc4/a21990.html#a3140c8306a384833cca1580ad964d73a", null ],
+    [ "JustEngagedWith", "d1/dc4/a21990.html#a8455dd4afb5ef5a694ca9237848df907", null ],
+    [ "OnCharmed", "d1/dc4/a21990.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
+    [ "PassengerBoarded", "d1/dc4/a21990.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
+    [ "UpdateAI", "d1/dc4/a21990.html#ab4d752f2273062c48339b53e611e617c", null ],
+    [ "WaypointReached", "d1/dc4/a21990.html#ae315a1d22317edb2864e4d796f808ffb", null ]
 ];

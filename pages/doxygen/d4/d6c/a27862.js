@@ -1,4 +1,11 @@
 var a27862 =
 [
-    [ "ratio", "d4/d6c/a27862.html#ad5d1466406daa3696314ef2f6f18cd15", null ]
+    [ "ClassID", "d4/d6c/a27862.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
+    [ "DisplayInfoID", "d4/d6c/a27862.html#a87657df2ad024245ccb2192303f76b7a", null ],
+    [ "ID", "d4/d6c/a27862.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
+    [ "InventoryType", "d4/d6c/a27862.html#a6dc33fc40a299b010c18a7009aff648b", null ],
+    [ "Material", "d4/d6c/a27862.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
+    [ "SheatheType", "d4/d6c/a27862.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
+    [ "SoundOverrideSubclassID", "d4/d6c/a27862.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
+    [ "SubclassID", "d4/d6c/a27862.html#ac39254716573e335caf312f635353a2e", null ]
 ];

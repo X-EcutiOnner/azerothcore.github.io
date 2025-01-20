@@ -1,7 +1,8 @@
 var a16130 =
 [
-    [ "npc_toc_shadow_priestAI", "da/d28/a16130.html#af13a18be542fb314c19af52f89d216b8", null ],
-    [ "myCanCast", "da/d28/a16130.html#a83422ff3e140b57a484d98876a9a8070", null ],
-    [ "UpdateAI", "da/d28/a16130.html#afc23ba15d3ee925212e77b5211504c2b", null ],
-    [ "events", "da/d28/a16130.html#a31665a22920b416d7423958a3e2928ec", null ]
+    [ "npc_toc_hunterAI", "da/d28/a16130.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "da/d28/a16130.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "da/d28/a16130.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "da/d28/a16130.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "da/d28/a16130.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

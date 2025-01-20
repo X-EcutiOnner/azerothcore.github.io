@@ -1,6 +1,5 @@
 var a27362 =
 [
-    [ "npc_stable_masterAI", "da/d84/a27366.html", "da/d84/a27366" ],
-    [ "npc_stable_master", "df/d11/a27362.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "df/d11/a27362.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "npc_controller", "df/d11/a27362.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "df/d11/a27362.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

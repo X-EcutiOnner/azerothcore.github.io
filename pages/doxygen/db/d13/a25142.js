@@ -1,9 +1,8 @@
 var a25142 =
 [
-    [ "CheckCast", "db/d13/a25142.html#a005565dd77de97b5aa04553a1d6a0185", null ],
-    [ "HandleScript", "db/d13/a25142.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
-    [ "Load", "db/d13/a25142.html#aadfc8a873c72e31d65001ce00518ca45", null ],
-    [ "PrepareSpellScript", "db/d13/a25142.html#a169b60644259855f0614271e4769f6b9", null ],
-    [ "Register", "db/d13/a25142.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
-    [ "Validate", "db/d13/a25142.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
+    [ "OnApply", "db/d13/a25142.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
+    [ "OnRemove", "db/d13/a25142.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
+    [ "PrepareAuraScript", "db/d13/a25142.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
+    [ "Register", "db/d13/a25142.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
+    [ "Validate", "db/d13/a25142.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
 ];

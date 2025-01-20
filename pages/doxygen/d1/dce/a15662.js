@@ -1,6 +1,8 @@
 var a15662 =
 [
-    [ "boss_sartharionAI", "d6/d94/a15666.html", "d6/d94/a15666" ],
-    [ "boss_sartharion", "d1/dce/a15662.html#a6605aee69372d08fba8f4b4523896588", null ],
-    [ "GetAI", "d1/dce/a15662.html#aca5d66e0f5cdcafd6f9cd2c173f43839", null ]
+    [ "boss_sartharion_shadronAI", "d1/dce/a15662.html#a02e2e657ac74ab37a4568589511de664", null ],
+    [ "ExecuteEvent", "d1/dce/a15662.html#a6a26f1f777988be6eaf8b1a675bbbabb", null ],
+    [ "HandleExtraEvent", "d1/dce/a15662.html#a3db5e816f6253f9c4251690bfbbe1912", null ],
+    [ "Reset", "d1/dce/a15662.html#a7054cde1de2166c2b06489187115cb3f", null ],
+    [ "SummonedCreatureDies", "d1/dce/a15662.html#a8b70b3b7287108ad13caeb85a83cf26f", null ]
 ];

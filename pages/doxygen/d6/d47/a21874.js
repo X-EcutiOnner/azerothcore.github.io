@@ -1,6 +1,6 @@
 var a21874 =
 [
-    [ "npc_mcmanus", "d6/d47/a21874.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "d6/d47/a21874.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "d6/d47/a21874.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "npc_bushwhackerAI", "d6/d47/a21874.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d6/d47/a21874.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d6/d47/a21874.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

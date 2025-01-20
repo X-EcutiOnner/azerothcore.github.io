@@ -1,6 +1,7 @@
 var a15202 =
 [
-    [ "npc_silva_filnaveth", "d6/d55/a15202.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "d6/d55/a15202.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "d6/d55/a15202.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npc_giant_spotlightAI", "d6/d55/a15202.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "d6/d55/a15202.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "d6/d55/a15202.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "d6/d55/a15202.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

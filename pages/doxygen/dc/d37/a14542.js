@@ -1,9 +1,5 @@
 var a14542 =
 [
-    [ "boss_temporus", "dc/d37/a14542.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "dc/d37/a14542.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "dc/d37/a14542.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "dc/d37/a14542.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "dc/d37/a14542.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "dc/d37/a14542.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "npc_black_morass_summoned_add", "dc/d37/a14542.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
+    [ "EnterEvadeMode", "dc/d37/a14542.html#a437e7b72b985713d22883f3e33f30942", null ]
 ];

@@ -1,7 +1,7 @@
 var a14122 =
 [
-    [ "go_loosely_turned_soilAI", "df/da3/a14126.html", "df/da3/a14126" ],
-    [ "go_loosely_turned_soil", "d4/da7/a14122.html#a3b4d51e2b3a604e030962127269236f1", null ],
-    [ "GetAI", "d4/da7/a14122.html#acead5810a848f8837fa65af1f2ac00bd", null ],
-    [ "OnQuestReward", "d4/da7/a14122.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
+    [ "HandleEffectApply", "d4/da7/a14122.html#ad48d832fef881bfb517fb8df694b7507", null ],
+    [ "HandleEffectRemove", "d4/da7/a14122.html#a1534b010301dbaff66d41443142c50b7", null ],
+    [ "PrepareAuraScript", "d4/da7/a14122.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
+    [ "Register", "d4/da7/a14122.html#a97a0003cca808e5b03f720bb3be07419", null ]
 ];

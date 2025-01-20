@@ -1,6 +1,6 @@
 var a14466 =
 [
-    [ "npc_crate_helperAI", "d7/d74/a14470.html", "d7/d74/a14470" ],
-    [ "npc_crate_helper", "da/d8b/a14466.html#ae08751928234656dcda84dd5c7e4cc37", null ],
-    [ "GetAI", "da/d8b/a14466.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
+    [ "instance_culling_of_stratholme_InstanceMapScript", "d7/d74/a14470.html", "d7/d74/a14470" ],
+    [ "instance_culling_of_stratholme", "da/d8b/a14466.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
+    [ "GetInstanceScript", "da/d8b/a14466.html#ad8cbcb198666d44d79d6255d066c8315", null ]
 ];

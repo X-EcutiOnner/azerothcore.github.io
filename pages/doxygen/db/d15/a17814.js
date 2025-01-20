@@ -1,7 +1,7 @@
 var a17814 =
 [
-    [ "PeriodicTick", "db/d15/a17814.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4", null ],
-    [ "PrepareAuraScript", "db/d15/a17814.html#afcadfbdd84608e827b89c64bf03c8501", null ],
-    [ "Register", "db/d15/a17814.html#a0e8e8685ce8c1eea2b60e8bf6aeed782", null ],
-    [ "Validate", "db/d15/a17814.html#a879b657d94c1faf6225fe64f907cdf82", null ]
+    [ "HandleTriggerMissile", "db/d15/a17814.html#af6370594be48d35a12009fa10a38d91d", null ],
+    [ "PrepareSpellScript", "db/d15/a17814.html#aeeca4381273f382c3abb68f34d229213", null ],
+    [ "Register", "db/d15/a17814.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
+    [ "Validate", "db/d15/a17814.html#abe0b9290ddf9beaa60a583840d90d914", null ]
 ];

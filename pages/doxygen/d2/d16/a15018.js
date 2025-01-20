@@ -1,6 +1,5 @@
 var a15018 =
 [
-    [ "npc_draenei_survivorAI", "dc/df0/a15022.html", "dc/df0/a15022" ],
-    [ "npc_draenei_survivor", "d2/d16/a15018.html#a1dca668a7c3f868677a9bf306288430c", null ],
-    [ "GetAI", "d2/d16/a15018.html#aa8dde30279bb898a4412491faca79267", null ]
+    [ "go_ravager_cage", "d2/d16/a15018.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "d2/d16/a15018.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

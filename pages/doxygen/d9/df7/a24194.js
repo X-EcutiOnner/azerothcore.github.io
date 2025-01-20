@@ -1,7 +1,6 @@
 var a24194 =
 [
-    [ "CheckCast", "d9/df7/a24194.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d9/df7/a24194.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d9/df7/a24194.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d9/df7/a24194.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "HandleAfterCast", "d9/df7/a24194.html#aaa65e67362ded5318e89272acf073bf3", null ],
+    [ "PrepareSpellScript", "d9/df7/a24194.html#a7d0dd936965845c14e7b54846facdb89", null ],
+    [ "Register", "d9/df7/a24194.html#ab7b767743d62d9763bea710b7552a8cf", null ]
 ];

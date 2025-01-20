@@ -1,11 +1,11 @@
 var a15014 =
 [
-    [ "npc_depth_chargeAI", "d8/db2/a15014.html#a088848c16418964973107e125c20f508", null ],
-    [ "AttackStart", "d8/db2/a15014.html#a1ec6e2ea0cc61262932f63f764273cdb", null ],
-    [ "JustEngagedWith", "d8/db2/a15014.html#a90cc6eab8b63588f2567f59941eafc59", null ],
-    [ "MoveInLineOfSight", "d8/db2/a15014.html#a8342b7fc7677ac94757c725ec4063e9e", null ],
-    [ "Reset", "d8/db2/a15014.html#aaccf632a50749c0f6d6f29bb1b1bf5a4", null ],
-    [ "UpdateAI", "d8/db2/a15014.html#af34e55c3aee40f840edf695adc06495e", null ],
-    [ "WeMustDie", "d8/db2/a15014.html#a7b25b1228cf5029f1ebe653c76cf9843", null ],
-    [ "WeMustDieTimer", "d8/db2/a15014.html#a23e4f1f7079d12e78c74c21171d95cc7", null ]
+    [ "npc_magwinAI", "d8/db2/a15014.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
+    [ "JustEngagedWith", "d8/db2/a15014.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
+    [ "Reset", "d8/db2/a15014.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
+    [ "sQuestAccept", "d8/db2/a15014.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
+    [ "UpdateEscortAI", "d8/db2/a15014.html#a34236331be8842a9e2a98036ea382e18", null ],
+    [ "WaypointReached", "d8/db2/a15014.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
+    [ "_events", "d8/db2/a15014.html#a32dad2bde92efab7e0f0d16e809df665", null ],
+    [ "_player", "d8/db2/a15014.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
 ];

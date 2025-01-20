@@ -1,18 +1,14 @@
 var a14862 =
 [
-    [ "boss_ouro", "d0/d77/a14862.html#a624700c5010edda9e7880070bd7495d7", null ],
-    [ "CanAIAttack", "d0/d77/a14862.html#a7b9682b239a2d436069b9e6be1d90648", null ],
-    [ "CastGroundRupture", "d0/d77/a14862.html#a2b8d88aeb824890a090f3bec544f5de2", null ],
-    [ "DamageTaken", "d0/d77/a14862.html#aa571cee2fee8a79917f4c63b94a9a1b6", null ],
-    [ "Emerge", "d0/d77/a14862.html#ac0b0c890f8cec105e6c284f6c1c5dd78", null ],
-    [ "EnterEvadeMode", "d0/d77/a14862.html#aee5769af48127617d40fa440d042e434", null ],
-    [ "IsPlayerWithinMeleeRange", "d0/d77/a14862.html#a9f9b4a53cf5c7e9d4e98d2d57e500172", null ],
-    [ "JustEngagedWith", "d0/d77/a14862.html#a20b0b4a3770564595f40e1375b2811d7", null ],
-    [ "Reset", "d0/d77/a14862.html#a8d8e471d0a76950d4bcbdb3e6d1b77bf", null ],
-    [ "SpellHitTarget", "d0/d77/a14862.html#a53fb0c076ce60d769d21fa740fa73308", null ],
-    [ "Submerge", "d0/d77/a14862.html#aa39a371112f585da952331c200b8b5aa", null ],
-    [ "UpdateAI", "d0/d77/a14862.html#ab59237535be7a86cb4c0db4819a4d9d5", null ],
-    [ "_enraged", "d0/d77/a14862.html#a14a147b2cb47bbc5bd7cdeb49fd22328", null ],
-    [ "_submerged", "d0/d77/a14862.html#aff594fd1558ac0c150ef7dc44b185863", null ],
-    [ "_submergeMelee", "d0/d77/a14862.html#a1f9afe42fad602f470456929214f40d3", null ]
+    [ "boss_twinemperorsAI", "d0/d77/a14862.html#ae0857b191dbbf086533062aee5885237", null ],
+    [ "DamageTaken", "d0/d77/a14862.html#a118151851f36de9dfc22971a965cb047", null ],
+    [ "DoAction", "d0/d77/a14862.html#a2b5e585749b7a59663813c7a9d56c223", null ],
+    [ "EnterEvadeMode", "d0/d77/a14862.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
+    [ "GetTwin", "d0/d77/a14862.html#af23aa54bca9752c242e80331862ace4d", null ],
+    [ "IAmVeklor", "d0/d77/a14862.html#acdccdde2ee573f51e1783ea493577258", null ],
+    [ "JustDied", "d0/d77/a14862.html#a9cc74619908c2aa9f8deda2689616735", null ],
+    [ "JustEngagedWith", "d0/d77/a14862.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
+    [ "KilledUnit", "d0/d77/a14862.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
+    [ "UpdateAI", "d0/d77/a14862.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
+    [ "_introDone", "d0/d77/a14862.html#a1b4689b0c403f7246ae100e4f716b138", null ]
 ];

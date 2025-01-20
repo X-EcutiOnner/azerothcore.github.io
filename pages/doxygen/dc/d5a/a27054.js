@@ -1,5 +1,6 @@
 var a27054 =
 [
-    [ "go_soulwellAI", "dc/d5a/a27054.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "dc/d5a/a27054.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "go_bellsAI", "d9/dc9/a27058.html", "d9/dc9/a27058" ],
+    [ "go_bells", "dc/d5a/a27054.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
+    [ "GetAI", "dc/d5a/a27054.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
 ];

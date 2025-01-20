@@ -1,7 +1,6 @@
 var a24830 =
 [
-    [ "HandleDummy", "de/d2b/a24830.html#af5d0fc4e596c04c6ca3faf4079f6b602", null ],
-    [ "Load", "de/d2b/a24830.html#a4098aa621012c5e3623ee905d2d2c8eb", null ],
-    [ "PrepareSpellScript", "de/d2b/a24830.html#ad9d1823fa4302334419e6f9a01f0a728", null ],
-    [ "Register", "de/d2b/a24830.html#a4d683270dc086454630475d39f0105e8", null ]
+    [ "HandleEffectPeriodic", "de/d2b/a24830.html#a248ba0e88498e36355491b2b89063e17", null ],
+    [ "PrepareAuraScript", "de/d2b/a24830.html#ac9aed434fe7602ef846e9f052402620e", null ],
+    [ "Register", "de/d2b/a24830.html#a039eec910c802276b9e979253141cdee", null ]
 ];

@@ -1,12 +1,6 @@
 var a19546 =
 [
-    [ "npc_auriaya_feral_defenderAI", "d4/d52/a19546.html#a32e6fa30e4c56fdd055a728ba7227beb", null ],
-    [ "DoAction", "d4/d52/a19546.html#a2b0a176dba865e90bdc22727b2860509", null ],
-    [ "JustDied", "d4/d52/a19546.html#a7e9c49d8dc47663e70c8fcbed68746e5", null ],
-    [ "Reset", "d4/d52/a19546.html#ae127a88f18f3348a0bc388d79dcd13d4", null ],
-    [ "UpdateAI", "d4/d52/a19546.html#a1edc249808e1ebdb88605c56e19c272a", null ],
-    [ "_feralEssenceStack", "d4/d52/a19546.html#aab51096b8f57528a0a27e23a306d6762", null ],
-    [ "_feralPounceTimer", "d4/d52/a19546.html#ab91df5ebee9c12d067ff83ee64effece", null ],
-    [ "_feralRushTimer", "d4/d52/a19546.html#aa45e0baf1ad43cc4b2c223d1b9d1c3c6", null ],
-    [ "summons", "d4/d52/a19546.html#a599679f93e4fc4b3b9aa00ea33dcb047", null ]
+    [ "boss_flame_leviathan_seatAI", "d8/d38/a19550.html", "d8/d38/a19550" ],
+    [ "boss_flame_leviathan_seat", "d4/d52/a19546.html#a0fc90640a5142d889f1c043270582a16", null ],
+    [ "GetAI", "d4/d52/a19546.html#a0e17225aeb93e0a5f5442c4ac2362af8", null ]
 ];

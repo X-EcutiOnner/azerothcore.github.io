@@ -1,10 +1,8 @@
 var a29262 =
 [
-    [ "generic_creatureAI", "d6/db1/a29262.html#a60c4e4b2a8a4f491f9b2dcb36c20f9b7", null ],
-    [ "JustEngagedWith", "d6/db1/a29262.html#a88ce541945380f091ebff5b998f9e7fc", null ],
-    [ "Reset", "d6/db1/a29262.html#ac59911aa3c60c561f13cbf7f78c8eab3", null ],
-    [ "UpdateAI", "d6/db1/a29262.html#ac7c88d443ff736682b120c9624b3462f", null ],
-    [ "BuffTimer", "d6/db1/a29262.html#a525d1366c39a6d270a0fdff8512d9021", null ],
-    [ "GlobalCooldown", "d6/db1/a29262.html#ac207d761103c132943a8a2451d832b5c", null ],
-    [ "IsSelfRooted", "d6/db1/a29262.html#abe7f86db0d9b3aed1c6128464452cfae", null ]
+    [ "_ACORE_DB_IMPORT_CONFIG", "d6/db1/a29262.html#a97392c73658eeeb49d256527b19ad90f", null ],
+    [ "GetConsoleArguments", "d6/db1/a29262.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
+    [ "main", "d6/db1/a29262.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "StartDB", "d6/db1/a29262.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
+    [ "StopDB", "d6/db1/a29262.html#a927af1587546ee7503a3b9a18f6439c0", null ]
 ];

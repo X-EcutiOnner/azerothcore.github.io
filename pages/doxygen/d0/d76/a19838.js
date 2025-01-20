@@ -1,6 +1,7 @@
 var a19838 =
 [
-    [ "npc_ulduar_saronite_animusAI", "df/ddb/a19842.html", "df/ddb/a19842" ],
-    [ "npc_ulduar_saronite_animus", "d0/d76/a19838.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
-    [ "GetAI", "d0/d76/a19838.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
+    [ "HandleAfterHit", "d0/d76/a19838.html#a75953cbb3a288fd373e602ed07d84441", null ],
+    [ "PrepareSpellScript", "d0/d76/a19838.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
+    [ "Register", "d0/d76/a19838.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
+    [ "Validate", "d0/d76/a19838.html#aea2b951dd2353800958f654df58d8fd8", null ]
 ];

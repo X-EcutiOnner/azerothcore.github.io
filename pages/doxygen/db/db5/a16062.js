@@ -1,6 +1,7 @@
 var a16062 =
 [
-    [ "npc_nerubian_burrowerAI", "da/d7e/a16066.html", "da/d7e/a16066" ],
-    [ "npc_nerubian_burrower", "db/db5/a16062.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
-    [ "GetAI", "db/db5/a16062.html#a145ebac6f95f9190429b9bfa37e23312", null ]
+    [ "HandleAfterHit", "db/db5/a16062.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "db/db5/a16062.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "db/db5/a16062.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "db/db5/a16062.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

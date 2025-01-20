@@ -1,6 +1,7 @@
 var a17846 =
 [
-    [ "npc_sindragosa_trashAI", "d4/d7d/a17850.html", "d4/d7d/a17850" ],
-    [ "npc_sindragosa_trash", "d5/dca/a17846.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
-    [ "GetAI", "d5/dca/a17846.html#ab1de715d98236a853a793d830bc601d7", null ]
+    [ "HandleInfusion", "d5/dca/a17846.html#a9f77330d81fef646dd5d5399800cba66", null ],
+    [ "PrepareSpellScript", "d5/dca/a17846.html#ae0a272902b0a9f74058c1dbe62974358", null ],
+    [ "Register", "d5/dca/a17846.html#ad759f6215e722f799156b4bdddcb7af1", null ],
+    [ "Validate", "d5/dca/a17846.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
 ];

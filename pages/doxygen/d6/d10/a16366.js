@@ -1,6 +1,6 @@
 var a16366 =
 [
-    [ "OnPeriodic", "d6/d10/a16366.html#a6f2e191d76f894517aed395866b7e508", null ],
-    [ "PrepareAuraScript", "d6/d10/a16366.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
-    [ "Register", "d6/d10/a16366.html#a6094dc303c034e49fb4e543874db080b", null ]
+    [ "HandleEffectApply", "d6/d10/a16366.html#aaea2c3733dadc19072c81774468e345a", null ],
+    [ "PrepareAuraScript", "d6/d10/a16366.html#a3848997e9f775add50d40342b6211ff0", null ],
+    [ "Register", "d6/d10/a16366.html#a775b1cf494049ed13d149ca6318142c3", null ]
 ];

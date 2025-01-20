@@ -1,6 +1,6 @@
 var a14422 =
 [
-    [ "boss_infinite_corruptorAI", "d9/d76/a14426.html", "d9/d76/a14426" ],
-    [ "boss_infinite_corruptor", "de/db3/a14422.html#a78a939073ab44b818cefdb25419f92be", null ],
-    [ "GetAI", "de/db3/a14422.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
+    [ "boss_salrammAI", "d9/d76/a14426.html", "d9/d76/a14426" ],
+    [ "boss_salramm", "de/db3/a14422.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
+    [ "GetAI", "de/db3/a14422.html#ab6b400f0d329d4def074d012de47f53d", null ]
 ];

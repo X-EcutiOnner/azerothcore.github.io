@@ -1,6 +1,6 @@
 var a20394 =
 [
-    [ "OnPeriodic", "db/d91/a20394.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "db/d91/a20394.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "db/d91/a20394.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "npc_xt002_heartAI", "dd/db1/a20398.html", "dd/db1/a20398" ],
+    [ "npc_xt002_heart", "db/d91/a20394.html#ab914ce1e945080b873cf6f93e3a6a32c", null ],
+    [ "GetAI", "db/d91/a20394.html#af59c6623b97d1adff765e8ba4958d482", null ]
 ];

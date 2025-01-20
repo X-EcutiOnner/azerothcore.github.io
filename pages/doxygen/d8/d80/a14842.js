@@ -1,9 +1,13 @@
 var a14842 =
 [
-    [ "boss_fankriss", "d8/d80/a14842.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
-    [ "JustEngagedWith", "d8/d80/a14842.html#a9eaae719a271a95f64ac8076fe807c13", null ],
-    [ "Reset", "d8/d80/a14842.html#af84010ee103eb81c1e269b03fc640f81", null ],
-    [ "SummonHatchlingWaves", "d8/d80/a14842.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
-    [ "SummonWorms", "d8/d80/a14842.html#ada23537921c3a11195450db89eb8fcfe", null ],
-    [ "summonWormSpells", "d8/d80/a14842.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
+    [ "npc_dirt_mound", "d8/d80/a14842.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
+    [ "ChaseNewTarget", "d8/d80/a14842.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
+    [ "EnterEvadeMode", "d8/d80/a14842.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
+    [ "JustEngagedWith", "d8/d80/a14842.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
+    [ "JustSummoned", "d8/d80/a14842.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
+    [ "Reset", "d8/d80/a14842.html#ae1662eb73f21351e07d00a717421de68", null ],
+    [ "SetData", "d8/d80/a14842.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
+    [ "UpdateAI", "d8/d80/a14842.html#a88447191070cf8b84df96db565eef48d", null ],
+    [ "_instance", "d8/d80/a14842.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
+    [ "_ouroHealth", "d8/d80/a14842.html#ac83391fa5069ae4574748f82d15e833d", null ]
 ];

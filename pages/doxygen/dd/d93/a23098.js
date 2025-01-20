@@ -1,6 +1,6 @@
 var a23098 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "df/d33/a23102.html", "df/d33/a23102" ],
-    [ "instance_steam_vault", "dd/d93/a23098.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "dd/d93/a23098.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "HandlePeriodic", "dd/d93/a23098.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
+    [ "PrepareAuraScript", "dd/d93/a23098.html#a75515896f3d94d227963a3c5258e2d0d", null ],
+    [ "Register", "dd/d93/a23098.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
 ];

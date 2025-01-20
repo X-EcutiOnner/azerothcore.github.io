@@ -1,9 +1,6 @@
 var a15694 =
 [
-    [ "boss_sartharion_vesperonAI", "d4/d34/a15694.html#afd67bf2c7a479771976673b05b0fc29e", null ],
-    [ "ClearInstance", "d4/d34/a15694.html#aad9556374e26cbea7641461510fef9ba", null ],
-    [ "ExecuteEvent", "d4/d34/a15694.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09", null ],
-    [ "HandleExtraEvent", "d4/d34/a15694.html#ab2080a14c105aeb6a9c155cf6f4ec17d", null ],
-    [ "Reset", "d4/d34/a15694.html#aacf26c52f77ef4eb084814934f00aab1", null ],
-    [ "SummonedCreatureDies", "d4/d34/a15694.html#a1e6fc9b1c734e73e5e27f6a17cf65d0b", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d1/dcc/a15698.html", "d1/dcc/a15698" ],
+    [ "instance_obsidian_sanctum", "d4/d34/a15694.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "d4/d34/a15694.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

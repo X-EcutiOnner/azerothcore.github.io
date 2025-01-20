@@ -1,16 +1,6 @@
 var a23686 =
 [
-    [ "npc_nether_drakeAI", "db/d17/a23686.html#a82f2c29b380be95303e1558776ea2d88", null ],
-    [ "JustEngagedWith", "db/d17/a23686.html#a5f20faa7f7007989298009b88b3ecbc8", null ],
-    [ "MoveInLineOfSight", "db/d17/a23686.html#a9e122d4533155c926904a13e8534d32e", null ],
-    [ "MovementInform", "db/d17/a23686.html#ae1f5248397b606b7872f05cfc929ac0d", null ],
-    [ "Reset", "db/d17/a23686.html#acb03513dd67988e0961632846021a42d", null ],
-    [ "SpellHit", "db/d17/a23686.html#a40f05363f38d71954c9fb8773c382444", null ],
-    [ "UpdateAI", "db/d17/a23686.html#aa538d9d2ead26d6e085ecf62ec7d310f", null ],
-    [ "ArcaneBlast_Timer", "db/d17/a23686.html#ace872917954f4978f3568d7ddecf22ad", null ],
-    [ "IntangiblePresence_Timer", "db/d17/a23686.html#acecff3846090fa83c8fc43537d788501", null ],
-    [ "IsNihil", "db/d17/a23686.html#a37c393101e0f9b07e20cc21beb80ba44", null ],
-    [ "ManaBurn_Timer", "db/d17/a23686.html#ae6c33df878497d29d5f61234b048009d", null ],
-    [ "NihilSpeech_Phase", "db/d17/a23686.html#a3e68f0fdb59ce6d8749b5d8629b7ec0b", null ],
-    [ "NihilSpeech_Timer", "db/d17/a23686.html#a40d7584c68f5f6516eb9a7deaaad7c86", null ]
+    [ "go_apexis_relic", "db/d17/a23686.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "db/d17/a23686.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "db/d17/a23686.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

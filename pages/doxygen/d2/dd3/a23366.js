@@ -1,7 +1,6 @@
 var a23366 =
 [
-    [ "FilterTargets", "d2/dd3/a23366.html#a834163302ff10875227806d7d4945988", null ],
-    [ "HandleScriptEffect", "d2/dd3/a23366.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
-    [ "PrepareSpellScript", "d2/dd3/a23366.html#a079e72d57550e03956088b4be1d11422", null ],
-    [ "Register", "d2/dd3/a23366.html#abd4e0f268652652d3828ba8d350de849", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "dc/dbe/a23370.html", "dc/dbe/a23370" ],
+    [ "instance_shattered_halls", "d2/dd3/a23366.html#a9d0d3b6baec34c679151791610cff3a7", null ],
+    [ "GetInstanceScript", "d2/dd3/a23366.html#a82388466811b022a725ba721845cadf3", null ]
 ];

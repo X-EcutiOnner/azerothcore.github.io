@@ -1,6 +1,6 @@
 var a20562 =
 [
-    [ "boss_yoggsaron_constrictor_tentacleAI", "dc/d04/a20566.html", "dc/d04/a20566" ],
-    [ "boss_yoggsaron_constrictor_tentacle", "d1/d93/a20562.html#a131809f1c691e55a33863caf6fe0c5dc", null ],
-    [ "GetAI", "d1/d93/a20562.html#ac469d5661eb664c73bf5ab38084cb03e", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "d1/d93/a20562.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
+    [ "DamageTaken", "d1/d93/a20562.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
+    [ "JustDied", "d1/d93/a20562.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
 ];

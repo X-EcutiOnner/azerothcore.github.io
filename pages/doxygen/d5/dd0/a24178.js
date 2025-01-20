@@ -1,6 +1,6 @@
 var a24178 =
 [
-    [ "npc_pet_pri_shadowfiend", "d5/dd0/a24178.html#ac35e3bcf59dc2d65a313e315516ea09b", null ],
-    [ "JustDied", "d5/dd0/a24178.html#a6d50edf62bf4547117f3f7b5b520f71b", null ],
-    [ "Reset", "d5/dd0/a24178.html#aeff1bada59ee80ae0166a82207729bad", null ]
+    [ "FilterTargets", "d5/dd0/a24178.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
+    [ "PrepareSpellScript", "d5/dd0/a24178.html#aea49df3f6b93223ed72c3a9875232b74", null ],
+    [ "Register", "d5/dd0/a24178.html#a8f0e0b6363303def780d35415c88b4d6", null ]
 ];

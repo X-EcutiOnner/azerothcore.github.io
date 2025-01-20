@@ -1,6 +1,7 @@
 var a15794 =
 [
-    [ "boss_twilight_halionAI", "d3/d8a/a15798.html", "d3/d8a/a15798" ],
-    [ "boss_twilight_halion", "d6/d09/a15794.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
-    [ "GetAI", "d6/d09/a15794.html#a56842d74b16cbd5636649cbc643c50d8", null ]
+    [ "HandleDummy", "d6/d09/a15794.html#ad0782bfbd977954aac6170ee9111aef6", null ],
+    [ "PrepareSpellScript", "d6/d09/a15794.html#ac456524856c4a3c4913423693a8fd50c", null ],
+    [ "Register", "d6/d09/a15794.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
+    [ "Validate", "d6/d09/a15794.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
 ];

@@ -1,10 +1,6 @@
 var a15758 =
 [
-    [ "npc_xerestraszaAI", "de/ddc/a15758.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
-    [ "DoAction", "de/ddc/a15758.html#af696ecee315892b2bf0233113d2f89f9", null ],
-    [ "Reset", "de/ddc/a15758.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
-    [ "UpdateAI", "de/ddc/a15758.html#a6389ab58f4b44c668590113ec75f2adf", null ],
-    [ "_events", "de/ddc/a15758.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
-    [ "_introDone", "de/ddc/a15758.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
-    [ "_isIntro", "de/ddc/a15758.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
+    [ "SendEncounterUnit", "de/ddc/a15758.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
+    [ "Execute", "de/ddc/a15758.html#ae21b67f8fe8a0677778436563872495f", null ],
+    [ "_owner", "de/ddc/a15758.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
 ];

@@ -1,6 +1,6 @@
 var a15962 =
 [
-    [ "FilterTargets", "d0/dfb/a15962.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "d0/dfb/a15962.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "d0/dfb/a15962.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "npc_black_knight_ghoulAI", "da/d74/a15966.html", "da/d74/a15966" ],
+    [ "npc_black_knight_ghoul", "d0/dfb/a15962.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
+    [ "GetAI", "d0/dfb/a15962.html#a52308f8d168e1ccea22de653813b7f6f", null ]
 ];

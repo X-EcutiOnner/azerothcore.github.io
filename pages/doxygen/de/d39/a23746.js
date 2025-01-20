@@ -1,6 +1,6 @@
 var a23746 =
 [
-    [ "npc_wounded_blood_elfAI", "db/d57/a23750.html", "db/d57/a23750" ],
-    [ "npc_wounded_blood_elf", "de/d39/a23746.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "de/d39/a23746.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "go_beaconAI", "de/d39/a23746.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
+    [ "OnStateChanged", "de/d39/a23746.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
+    [ "creatureList", "de/d39/a23746.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
 ];

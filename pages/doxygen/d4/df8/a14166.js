@@ -1,15 +1,17 @@
 var a14166 =
 [
-    [ "npc_midsummer_bonfire", "d4/df8/a14166.html#a07c8b1add555697fdb29fda89f42c4af", null ],
-    [ "Ignite", "d4/df8/a14166.html#a2a398299b3584e3a871b1b6e83b4ff5f", null ],
-    [ "InitBonfire", "d4/df8/a14166.html#a9210a0a472d609f66895bfa0a8e324b0", null ],
-    [ "SpellHit", "d4/df8/a14166.html#a9ad2102b2dea60fbb81c1578b97f34dc", null ],
-    [ "StampOut", "d4/df8/a14166.html#a1f8bd11d0f49c0a44764a2f34e6ee147", null ],
-    [ "UpdateAI", "d4/df8/a14166.html#a46733a171006e4693a32391cfe954050", null ],
-    [ "UpdateBonfireBlessingBuffs", "d4/df8/a14166.html#a1236b61f21ff1a1b85bbc7058ca8e17c", null ],
-    [ "_bonfire", "d4/df8/a14166.html#aaa2f2822cb5c104ec2d90c2a344b409d", null ],
-    [ "_isStampedOut", "d4/df8/a14166.html#aa21c9f7a5d7ac29663d94da55ef34373", null ],
-    [ "_spellFocus", "d4/df8/a14166.html#abef815568f7d39bbda20f9611e3abc52", null ],
-    [ "_teamId", "d4/df8/a14166.html#a5c0894721d13dd49961c0687c100d7a5", null ],
-    [ "_type", "d4/df8/a14166.html#a7c26b81f24dc2fc0ed9fc53d1d5935f5", null ]
+    [ "npc_midsummer_ribbon_pole_target", "d4/df8/a14166.html#ac09222eff300a11e03e8a3a1c9a3fd5f", null ],
+    [ "DoCleanupChecks", "d4/df8/a14166.html#a5e5a67ed5492db34fd6c2e28a2cd7f74", null ],
+    [ "DoDancingFLameChecks", "d4/df8/a14166.html#af4e76d832c3fd47eb88c1a69d0cdf9ff", null ],
+    [ "DoFireworkChecks", "d4/df8/a14166.html#a19eb48c537d58ad8f2021e9eabe4fae2", null ],
+    [ "DoFlameCircleChecks", "d4/df8/a14166.html#af37e104b67dcf9a2c181c142d56cc708", null ],
+    [ "DoGroundFlowerChecks", "d4/df8/a14166.html#a0a9961eb0c2d5afde8f96bb0580d1974", null ],
+    [ "DoSpewLavaChecks", "d4/df8/a14166.html#a94086429fe5cf506c64ea79ebcf03317", null ],
+    [ "LocateRibbonPole", "d4/df8/a14166.html#a55f16f2ced0045ea373e9d0a239301d1", null ],
+    [ "SpawnFireSpiralBunny", "d4/df8/a14166.html#ae91d1899212fa391f6ae4ec3a1de6e85", null ],
+    [ "SpellHit", "d4/df8/a14166.html#ab732995946655894611eb1c12ce4e8a8", null ],
+    [ "UpdateAI", "d4/df8/a14166.html#affeb3025627dd5697f0c4dccab66d3b6", null ],
+    [ "_bunny", "d4/df8/a14166.html#a0161d569d4c1fb2e1bf69936312be8df", null ],
+    [ "_dancerList", "d4/df8/a14166.html#a41e453f742a06bc7485e290756dbc746", null ],
+    [ "_ribbonPole", "d4/df8/a14166.html#aeea38608ae98cd5597c104ea04e32523", null ]
 ];

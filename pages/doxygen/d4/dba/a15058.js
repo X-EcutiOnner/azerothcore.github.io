@@ -1,11 +1,10 @@
 var a15058 =
 [
-    [ "npc_stillpine_capitiveAI", "d4/dba/a15058.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
-    [ "MovementInform", "d4/dba/a15058.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
-    [ "Reset", "d4/dba/a15058.html#a9c884f892e64044057d477bdc0f89eed", null ],
-    [ "StartMoving", "d4/dba/a15058.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
-    [ "UpdateAI", "d4/dba/a15058.html#a25dc06767382b5fee2a7098b58726fb2", null ],
-    [ "_events", "d4/dba/a15058.html#a93dd55d392836d8d085e34293344b700", null ],
-    [ "_movementComplete", "d4/dba/a15058.html#ae8e39ca782aee412e39d65a33d14014e", null ],
-    [ "_playerGUID", "d4/dba/a15058.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
+    [ "npc_murkdeepAI", "d4/dba/a15058.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
+    [ "JustEngagedWith", "d4/dba/a15058.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
+    [ "Reset", "d4/dba/a15058.html#aa89316a0fe4f99630a4a129aed305e24", null ],
+    [ "UpdateAI", "d4/dba/a15058.html#aeca85a1324791d18ac825401fb8a31e8", null ],
+    [ "events", "d4/dba/a15058.html#ae3d344829aeba22ef0c5947863720390", null ],
+    [ "phase", "d4/dba/a15058.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
+    [ "spawnTimer", "d4/dba/a15058.html#a6b139fb5cc0776103934f14be15c34d1", null ]
 ];

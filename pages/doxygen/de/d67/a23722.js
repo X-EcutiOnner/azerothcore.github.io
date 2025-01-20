@@ -1,7 +1,6 @@
 var a23722 =
 [
-    [ "HandleEffect", "de/d67/a23722.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "de/d67/a23722.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "de/d67/a23722.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "de/d67/a23722.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "npc_wounded_blood_elfAI", "d0/d4f/a23726.html", "d0/d4f/a23726" ],
+    [ "npc_wounded_blood_elf", "de/d67/a23722.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "de/d67/a23722.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

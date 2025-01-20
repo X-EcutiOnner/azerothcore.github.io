@@ -1,11 +1,9 @@
 var a22154 =
 [
-    [ "npc_drakuru_shacklesAI", "d0/dbb/a22154.html#aeb55bf23d97e963b0fb9a18596bb58b1", null ],
-    [ "LockRageclaw", "d0/dbb/a22154.html#aa58fff9ee8e6cbe4d2dd0d391215f1f4", null ],
-    [ "Reset", "d0/dbb/a22154.html#a566fba51edcddab8c5b0bf5688571f80", null ],
-    [ "SpellHit", "d0/dbb/a22154.html#a04a9f0cc28cd8cab89120e66972b74cf", null ],
-    [ "UnlockRageclaw", "d0/dbb/a22154.html#a65a4b408ac09ffa3155b955dc054d971", null ],
-    [ "UpdateAI", "d0/dbb/a22154.html#a8a04ac89e5ec9ce841445913765a1a73", null ],
-    [ "_rageclawGUID", "d0/dbb/a22154.html#a1c991305f4ef30146930747881e57de4", null ],
-    [ "timer", "d0/dbb/a22154.html#a2a6484216abd731ad016284a79575e1c", null ]
+    [ "npc_crusade_recruitAI", "d0/dbb/a22154.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
+    [ "Reset", "d0/dbb/a22154.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
+    [ "sGossipSelect", "d0/dbb/a22154.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
+    [ "UpdateAI", "d0/dbb/a22154.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
+    [ "_events", "d0/dbb/a22154.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
+    [ "_heading", "d0/dbb/a22154.html#a6e260a6e085962d54b765bff4cb17963", null ]
 ];

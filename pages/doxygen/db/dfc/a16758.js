@@ -1,6 +1,6 @@
 var a16758 =
 [
-    [ "npc_pos_deathwhisper_necrolyteAI", "df/d9c/a16762.html", "df/d9c/a16762" ],
-    [ "npc_pos_deathwhisper_necrolyte", "db/dfc/a16758.html#a0dcdb5b1dfed44f74b04663758b531a0", null ],
-    [ "GetAI", "db/dfc/a16758.html#ae765669f95f4f14b393b88bf7ecbbfd6", null ]
+    [ "npc_pos_icicle_triggerAI", "df/d9c/a16762.html", "df/d9c/a16762" ],
+    [ "npc_pos_icicle_trigger", "db/dfc/a16758.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
+    [ "GetAI", "db/dfc/a16758.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
 ];

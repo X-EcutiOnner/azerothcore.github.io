@@ -1,10 +1,6 @@
 var a16522 =
 [
-    [ "HandleAfterEffectAbsorb", "d7/de7/a16522.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "d7/de7/a16522.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "d7/de7/a16522.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "d7/de7/a16522.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "d7/de7/a16522.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "d7/de7/a16522.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "d7/de7/a16522.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "boss_marwynAI", "d1/d9e/a16526.html", "d1/d9e/a16526" ],
+    [ "boss_marwyn", "d7/de7/a16522.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
+    [ "GetAI", "d7/de7/a16522.html#af1c83878d2121163994bc327ae8e04f7", null ]
 ];

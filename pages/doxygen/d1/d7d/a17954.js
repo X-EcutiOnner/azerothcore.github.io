@@ -1,10 +1,7 @@
 var a17954 =
 [
-    [ "npc_shambling_horror_iccAI", "d1/d7d/a17954.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
-    [ "CanAIAttack", "d1/d7d/a17954.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
-    [ "DamageTaken", "d1/d7d/a17954.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
-    [ "Reset", "d1/d7d/a17954.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
-    [ "UpdateAI", "d1/d7d/a17954.html#abae6058591022057e93d48da3db1b8bc", null ],
-    [ "_events", "d1/d7d/a17954.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
-    [ "_frenzied", "d1/d7d/a17954.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
+    [ "CheckTargetCount", "d1/d7d/a17954.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "d1/d7d/a17954.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "d1/d7d/a17954.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "d1/d7d/a17954.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

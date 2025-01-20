@@ -1,6 +1,7 @@
 var a17582 =
 [
-    [ "PrepareSpellScript", "dc/d86/a17582.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "dc/d86/a17582.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "dc/d86/a17582.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "HandleDummy", "dc/d86/a17582.html#aa61db53d7395fd45b8569e12978fed0b", null ],
+    [ "PrepareSpellScript", "dc/d86/a17582.html#ab63054debe6763027ab52ad122277719", null ],
+    [ "Register", "dc/d86/a17582.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
+    [ "Validate", "dc/d86/a17582.html#adb7e30d10c2071de5d5070b64a10af30", null ]
 ];

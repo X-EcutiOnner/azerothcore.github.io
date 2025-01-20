@@ -1,8 +1,6 @@
 var a22598 =
 [
-    [ "FilterTargets", "d2/db8/a22598.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
-    [ "HandleDummy", "d2/db8/a22598.html#ab89ab441f022ee017548ba49d128b92e", null ],
-    [ "PrepareSpellScript", "d2/db8/a22598.html#aa8578390d7d9379328c02ceb209e94ed", null ],
-    [ "Register", "d2/db8/a22598.html#a486387d707b7ad66ecb443ab2bb60778", null ],
-    [ "Validate", "d2/db8/a22598.html#ad5d695978794d796eb7139fce1530d57", null ]
+    [ "boss_essence_of_desireAI", "da/dce/a22602.html", "da/dce/a22602" ],
+    [ "boss_essence_of_desire", "d2/db8/a22598.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
+    [ "GetAI", "d2/db8/a22598.html#a14b66470c508fa24e214062aeec0aae6", null ]
 ];

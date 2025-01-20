@@ -1,7 +1,6 @@
 var a16918 =
 [
-    [ "HandleScriptEffect", "db/dc1/a16918.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "db/dc1/a16918.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "db/dc1/a16918.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "db/dc1/a16918.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "boss_slad_ranAI", "d8/d8a/a16922.html", "d8/d8a/a16922" ],
+    [ "boss_slad_ran", "db/dc1/a16918.html#a9b960242e2f186d334d7ce04b999e274", null ],
+    [ "GetAI", "db/dc1/a16918.html#a26651b7ca111bd64549283c37e34db11", null ]
 ];

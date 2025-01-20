@@ -1,6 +1,6 @@
 var a15934 =
 [
-    [ "boss_paletressAI", "d0/d29/a15938.html", "d0/d29/a15938" ],
-    [ "boss_paletress", "dc/d0b/a15934.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
-    [ "GetAI", "dc/d0b/a15934.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
+    [ "FilterTargets", "dc/d0b/a15934.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
+    [ "PrepareSpellScript", "dc/d0b/a15934.html#a5ede43deece629a38f5482280983b59a", null ],
+    [ "Register", "dc/d0b/a15934.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
 ];

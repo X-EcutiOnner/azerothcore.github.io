@@ -1,6 +1,8 @@
 var a22346 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "d2/d87/a22350.html", "d2/d87/a22350" ],
-    [ "instance_mana_tombs", "dd/de6/a22346.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
-    [ "GetInstanceScript", "dd/de6/a22346.html#a26e4dad0957df886bc446396ab48ceda", null ]
+    [ "FilterTargets", "dd/de6/a22346.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "dd/de6/a22346.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "dd/de6/a22346.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "dd/de6/a22346.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "dd/de6/a22346.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

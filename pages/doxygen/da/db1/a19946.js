@@ -1,6 +1,7 @@
 var a19946 =
 [
-    [ "DestroyWinterCache", "da/db1/a19946.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
-    [ "PrepareSpellScript", "da/db1/a19946.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
-    [ "Register", "da/db1/a19946.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
+    [ "HandleEffectPeriodic", "da/db1/a19946.html#af6c50396e9b47cd909184aea80244728", null ],
+    [ "PrepareAuraScript", "da/db1/a19946.html#aeb41825334049c8e3a39b48cbf271477", null ],
+    [ "Register", "da/db1/a19946.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
+    [ "Validate", "da/db1/a19946.html#a0098e4949fc75b1a2464128f4df869aa", null ]
 ];

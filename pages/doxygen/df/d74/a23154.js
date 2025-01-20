@@ -1,6 +1,5 @@
 var a23154 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "de/d74/a23158.html", "de/d74/a23158" ],
-    [ "instance_the_underbog", "df/d74/a23154.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "df/d74/a23154.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "npc_invisible_tractor_beam_source", "df/d74/a23154.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "df/d74/a23154.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

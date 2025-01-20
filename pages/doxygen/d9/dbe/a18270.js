@@ -1,7 +1,6 @@
 var a18270 =
 [
-    [ "PeriodicTick", "d9/dbe/a18270.html#ac1bace4fc66349364c84b5784967e9bf", null ],
-    [ "PrepareAuraScript", "d9/dbe/a18270.html#a358193e3340112c04f79c043548c3de0", null ],
-    [ "Register", "d9/dbe/a18270.html#a28f52bc253899aa407e67f9a089c815c", null ],
-    [ "Validate", "d9/dbe/a18270.html#a0dde3447e38e45cea94df44449a19a01", null ]
+    [ "CaptainSurviveTalk", "d9/dbe/a18270.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "d9/dbe/a18270.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "d9/dbe/a18270.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

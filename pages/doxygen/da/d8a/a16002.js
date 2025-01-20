@@ -1,6 +1,8 @@
 var a16002 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "d8/d63/a16006.html", "d8/d63/a16006" ],
-    [ "npc_toc5_grand_champion_minion", "da/d8a/a16002.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
-    [ "GetAI", "da/d8a/a16002.html#a55acf397b94ba63b1db626dc1041b28e", null ]
+    [ "npc_announcer_toc5AI", "d8/d63/a16006.html", "d8/d63/a16006" ],
+    [ "npc_announcer_toc5", "da/d8a/a16002.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "da/d8a/a16002.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "da/d8a/a16002.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "da/d8a/a16002.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

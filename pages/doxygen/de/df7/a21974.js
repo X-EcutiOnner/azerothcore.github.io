@@ -1,6 +1,9 @@
 var a21974 =
 [
-    [ "npc_wild_wyrmAI", "da/d10/a21978.html", "da/d10/a21978" ],
-    [ "npc_wild_wyrm", "de/df7/a21974.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
-    [ "GetAI", "de/df7/a21974.html#aedba91446fe12997047070f123d925d2", null ]
+    [ "npc_brunnhildar_prisonerAI", "de/df7/a21974.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "de/df7/a21974.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "de/df7/a21974.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "de/df7/a21974.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "de/df7/a21974.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "de/df7/a21974.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

@@ -1,7 +1,7 @@
 var a16098 =
 [
-    [ "npc_toc_druidAI", "df/dbe/a16098.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "df/dbe/a16098.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "df/dbe/a16098.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "df/dbe/a16098.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "npc_toc_priestAI", "df/dbe/a16098.html#aa362d2136193a8738e311bba18b87c90", null ],
+    [ "myCanCast", "df/dbe/a16098.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
+    [ "UpdateAI", "df/dbe/a16098.html#ae51d2ac95320909150c673b76c9856c7", null ],
+    [ "events", "df/dbe/a16098.html#aa5be20e87351424e0e4698540fc1fef4", null ]
 ];

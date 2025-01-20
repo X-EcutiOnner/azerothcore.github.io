@@ -1,7 +1,7 @@
 var a13714 =
 [
-    [ "OnRemove", "de/da9/a13714.html#ab909660f32a77e86fde5da35e2f69302", null ],
-    [ "PrepareAuraScript", "de/da9/a13714.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
-    [ "Register", "de/da9/a13714.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
-    [ "Validate", "de/da9/a13714.html#abd1254c53c04f72f848d8641affc729d", null ]
+    [ "HandleScriptEffect", "de/da9/a13714.html#ace68732d578fbaeb2b209bfded88853a", null ],
+    [ "PrepareSpellScript", "de/da9/a13714.html#a42a69995e8f527a383e96e2ead832f72", null ],
+    [ "Register", "de/da9/a13714.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
+    [ "Validate", "de/da9/a13714.html#a7697caf8e5390d290b353fb6a291aa10", null ]
 ];

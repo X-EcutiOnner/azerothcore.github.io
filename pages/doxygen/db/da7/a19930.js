@@ -1,6 +1,10 @@
 var a19930 =
 [
-    [ "npc_ulduar_hodir_shamanAI", "d8/d42/a19934.html", "d8/d42/a19934" ],
-    [ "npc_ulduar_hodir_shaman", "db/da7/a19930.html#ae73a416c72441ab531d8a5db88183d47", null ],
-    [ "GetAI", "db/da7/a19930.html#ab06a67b72a3954c65792a478ac90672c", null ]
+    [ "HandleEffectPeriodic", "db/da7/a19930.html#aa62be73e00d9cb512806787eaf1c4144", null ],
+    [ "Load", "db/da7/a19930.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
+    [ "PrepareAuraScript", "db/da7/a19930.html#ad9664bff267b330565d3c706e1752e9d", null ],
+    [ "Register", "db/da7/a19930.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
+    [ "Validate", "db/da7/a19930.html#a3f6653b4ca202d9b0971189930e8b463", null ],
+    [ "_counter", "db/da7/a19930.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
+    [ "_prev", "db/da7/a19930.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
 ];

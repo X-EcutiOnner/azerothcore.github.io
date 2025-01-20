@@ -1,8 +1,9 @@
 var a19426 =
 [
-    [ "go_celestial_planetarium_accessAI", "df/dd9/a19426.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
-    [ "GossipHello", "df/dd9/a19426.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
-    [ "UpdateAI", "df/dd9/a19426.html#a9b2bfb74a12e3258476387fc78cde574", null ],
-    [ "_locked", "df/dd9/a19426.html#a37f83dbbb05e461d613a4c38001f785c", null ],
-    [ "events", "df/dd9/a19426.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
+    [ "CheckTargets", "df/dd9/a19426.html#a9340c167ef70508635092e273c23dcde", null ],
+    [ "CountTargets", "df/dd9/a19426.html#a996db37b678143fbc0a392032d29fff5", null ],
+    [ "Load", "df/dd9/a19426.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
+    [ "PrepareSpellScript", "df/dd9/a19426.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
+    [ "Register", "df/dd9/a19426.html#aed312a4408134589fd02bbcb844fd1b7", null ],
+    [ "_targetCount", "df/dd9/a19426.html#ac780614674e748274081f9f99a5165fe", null ]
 ];

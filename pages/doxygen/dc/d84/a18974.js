@@ -1,12 +1,8 @@
 var a18974 =
 [
-    [ "npc_hover_diskAI", "dc/d84/a18974.html#a1ee618b8e6393437f0e4193fc57725f3", null ],
-    [ "AttackStart", "dc/d84/a18974.html#aec7920845132af74ecf83bbbcf221f06", null ],
-    [ "DoAction", "dc/d84/a18974.html#a802681ba91854eec0a5d9ac1c2df761c", null ],
-    [ "MoveInLineOfSight", "dc/d84/a18974.html#a770bbfc63a3aef7801b6ba9a542c459c", null ],
-    [ "MovementInform", "dc/d84/a18974.html#a97c5039553d267fc3d955cb6e5eafb47", null ],
-    [ "PassengerBoarded", "dc/d84/a18974.html#a130a40916bb42945531b02d2f3385ece", null ],
-    [ "UpdateAI", "dc/d84/a18974.html#a5213e9b9a750e53b83621cd981741773", null ],
-    [ "events", "dc/d84/a18974.html#adeed5599c5416f3a5d171f70b53d0023", null ],
-    [ "pInstance", "dc/d84/a18974.html#a5141cd8297bf3dc67ce9195867a4152c", null ]
+    [ "FilterTargets", "dc/d84/a18974.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "dc/d84/a18974.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "dc/d84/a18974.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "dc/d84/a18974.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "dc/d84/a18974.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

@@ -1,6 +1,6 @@
 var a20670 =
 [
-    [ "OnRemove", "dd/dab/a20670.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
-    [ "PrepareAuraScript", "dd/dab/a20670.html#a5fb0837417b915676549370cc76c477d", null ],
-    [ "Register", "dd/dab/a20670.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
+    [ "HandleScript", "dd/dab/a20670.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "dd/dab/a20670.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "dd/dab/a20670.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

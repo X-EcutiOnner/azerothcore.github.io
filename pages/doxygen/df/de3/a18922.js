@@ -1,7 +1,6 @@
 var a18922 =
 [
-    [ "boss_naxxramas_miscAI", "df/de3/a18922.html#affd990236c101d91b31f60eea7135cdf", null ],
-    [ "JustDied", "df/de3/a18922.html#aae92d4b538907ef829f5f534f16feef1", null ],
-    [ "UpdateAI", "df/de3/a18922.html#a02fabc7b8669f3e9358a623b4cf0e84c", null ],
-    [ "timer", "df/de3/a18922.html#a39af06c7bc635bf85eebf4ed40798006", null ]
+    [ "npc_power_sparkAI", "db/dc9/a18926.html", "db/dc9/a18926" ],
+    [ "npc_power_spark", "df/de3/a18922.html#a9efd2810feb5f90f9f12f51ec7282410", null ],
+    [ "GetAI", "df/de3/a18922.html#a573198b86697d222c693581bf430453f", null ]
 ];

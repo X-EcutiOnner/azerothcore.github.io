@@ -1,7 +1,6 @@
 var a21790 =
 [
-    [ "HandleDummy", "d7/dcb/a21790.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "d7/dcb/a21790.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "d7/dcb/a21790.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "d7/dcb/a21790.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "ChangeSummonPos", "d7/dcb/a21790.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "d7/dcb/a21790.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "d7/dcb/a21790.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

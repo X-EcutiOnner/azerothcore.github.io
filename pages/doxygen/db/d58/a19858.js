@@ -1,7 +1,6 @@
 var a19858 =
 [
-    [ "HandleAfterEffectApply", "db/d58/a19858.html#a672526de2c71dcae79bacef88f34dc26", null ],
-    [ "PrepareAuraScript", "db/d58/a19858.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
-    [ "Register", "db/d58/a19858.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
-    [ "Validate", "db/d58/a19858.html#ab5833f6218760a7d9829b5d453436302", null ]
+    [ "boss_hodirAI", "d7/d8f/a19862.html", "d7/d8f/a19862" ],
+    [ "boss_hodir", "db/d58/a19858.html#a5740f489f57380d2633a8ee5a18de339", null ],
+    [ "GetAI", "db/d58/a19858.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c", null ]
 ];

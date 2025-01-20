@@ -1,6 +1,5 @@
 var a23974 =
 [
-    [ "CheckRequirement", "d1/dcb/a23974.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
-    [ "PrepareSpellScript", "d1/dcb/a23974.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
-    [ "Register", "d1/dcb/a23974.html#aa4f62292b32347179a5534e4bc0417f8", null ]
+    [ "npc_shattrath_daily_quest", "d1/dcb/a23974.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d1/dcb/a23974.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

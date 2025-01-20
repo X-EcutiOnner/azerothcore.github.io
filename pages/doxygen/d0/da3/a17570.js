@@ -1,6 +1,6 @@
 var a17570 =
 [
-    [ "npc_gas_cloudAI", "df/d32/a17574.html", "df/d32/a17574" ],
-    [ "npc_gas_cloud", "d0/da3/a17570.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
-    [ "GetAI", "d0/da3/a17570.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
+    [ "FilterTargets", "d0/da3/a17570.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
+    [ "PrepareSpellScript", "d0/da3/a17570.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
+    [ "Register", "d0/da3/a17570.html#a32e04a1110d651701b8eab1648c69a57", null ]
 ];

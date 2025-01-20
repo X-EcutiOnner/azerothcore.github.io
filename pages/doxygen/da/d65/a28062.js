@@ -1,5 +1,7 @@
 var a28062 =
 [
-    [ "HasMissile", "da/d65/a28062.html#af8f9e79164ee3c7a617f63552bb23816", null ],
-    [ "MissileModel", "da/d65/a28062.html#ae9ab544537448113f628c22ed8c91a27", null ]
+    [ "from", "da/d65/a28062.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
+    [ "ID", "da/d65/a28062.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
+    [ "price", "da/d65/a28062.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
+    [ "to", "da/d65/a28062.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
 ];

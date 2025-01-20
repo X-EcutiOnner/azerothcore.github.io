@@ -1,6 +1,7 @@
 var a18250 =
 [
-    [ "HandleScript", "dd/d8c/a18250.html#a930b8a515b5d156c16925dc218cf8172", null ],
-    [ "PrepareSpellScript", "dd/d8c/a18250.html#a892b0ba0f6541b3557a0200be5028479", null ],
-    [ "Register", "dd/d8c/a18250.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
+    [ "HandleForceCast", "dd/d8c/a18250.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "dd/d8c/a18250.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "dd/d8c/a18250.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "dd/d8c/a18250.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

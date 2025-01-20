@@ -1,5 +1,6 @@
 var a27110 =
 [
-    [ "item_incendiary_explosives", "d8/d98/a27110.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "d8/d98/a27110.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "trigger_periodicAI", "d8/d7a/a27114.html", "d8/d7a/a27114" ],
+    [ "trigger_periodic", "d8/d98/a27110.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
+    [ "GetAI", "d8/d98/a27110.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
 ];

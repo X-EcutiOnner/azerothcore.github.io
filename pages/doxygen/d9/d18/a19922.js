@@ -1,6 +1,6 @@
 var a19922 =
 [
-    [ "npc_ulduar_hodir_druidAI", "d0/d03/a19926.html", "d0/d03/a19926" ],
-    [ "npc_ulduar_hodir_druid", "d9/d18/a19922.html#a07809d61d55756a847467043b0e90989", null ],
-    [ "GetAI", "d9/d18/a19922.html#a4b0503e20bf8caddf0ea544a88124263", null ]
+    [ "DestroyWinterCache", "d9/d18/a19922.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "d9/d18/a19922.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "d9/d18/a19922.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

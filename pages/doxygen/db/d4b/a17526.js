@@ -1,6 +1,6 @@
 var a17526 =
 [
-    [ "HandleScriptEffect", "db/d4b/a17526.html#ac6017cbe86b328aef00f707051c67e5f", null ],
-    [ "PrepareSpellScript", "db/d4b/a17526.html#a3e21794652b0ffea67571f9b294b4961", null ],
-    [ "Register", "db/d4b/a17526.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
+    [ "boss_professor_putricideAI", "df/dc9/a17530.html", "df/dc9/a17530" ],
+    [ "boss_professor_putricide", "db/d4b/a17526.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "db/d4b/a17526.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

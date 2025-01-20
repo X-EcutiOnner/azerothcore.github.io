@@ -1,16 +1,6 @@
 var a19214 =
 [
-    [ "boss_ionarAI", "d4/dbd/a19214.html#af212102febe4e0ef406475f5e1452695", null ],
-    [ "JustDied", "d4/dbd/a19214.html#a12ad910d0838b1fbb626f761b70c86c5", null ],
-    [ "JustEngagedWith", "d4/dbd/a19214.html#a17bff3df427ad65453cfc440e46f76fa", null ],
-    [ "KilledUnit", "d4/dbd/a19214.html#aa74b2b6cd2358b11596d34357fac194c", null ],
-    [ "Reset", "d4/dbd/a19214.html#acbb2807142af2ef570aec0f12c861d36", null ],
-    [ "ScheduleEvents", "d4/dbd/a19214.html#ad3f0bf773bc091cc14491cd309a4b531", null ],
-    [ "SpellHit", "d4/dbd/a19214.html#a5954749594cf76a2f8db7a61874a0279", null ],
-    [ "Split", "d4/dbd/a19214.html#ab10351b157e6e370d910780febdbda74", null ],
-    [ "UpdateAI", "d4/dbd/a19214.html#a41767f4b491b4d59824bac8854c3090d", null ],
-    [ "events", "d4/dbd/a19214.html#ae87ba5970d8d4f9fc33b94dc9abefa2f", null ],
-    [ "HealthCheck", "d4/dbd/a19214.html#a05006b60fa4e7b33f589ca87b3374aa5", null ],
-    [ "m_pInstance", "d4/dbd/a19214.html#a752059e06a6971d94243f283ef75be91", null ],
-    [ "summons", "d4/dbd/a19214.html#ac67332dd2f94ea8bdd7c7871bc022239", null ]
+    [ "boss_volkhanAI", "d3/db9/a19218.html", "d3/db9/a19218" ],
+    [ "boss_volkhan", "d4/dbd/a19214.html#a9dcb6026fbf3116df9abf5acaf1bfcc2", null ],
+    [ "GetAI", "d4/dbd/a19214.html#aa0f76b387f9f74e0eb6dedd1b44ce34a", null ]
 ];

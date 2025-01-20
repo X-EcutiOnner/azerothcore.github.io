@@ -1,6 +1,6 @@
 var a21262 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "d4/d5e/a21266.html", "d4/d5e/a21266" ],
-    [ "npc_imprisoned_beryl_sorcerer", "dc/dff/a21262.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
-    [ "GetAI", "dc/dff/a21262.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d4/d5e/a21266.html", "d4/d5e/a21266" ],
+    [ "npc_valiance_keep_cannoneer", "dc/dff/a21262.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
+    [ "GetAI", "dc/dff/a21262.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
 ];

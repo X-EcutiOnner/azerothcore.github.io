@@ -1,6 +1,6 @@
 var a16634 =
 [
-    [ "npc_hor_lich_kingAI", "db/d2b/a16638.html", "db/d2b/a16638" ],
-    [ "npc_hor_lich_king", "d3/d8c/a16634.html#aab2562a7a204699735a89e7a15b3b472", null ],
-    [ "GetAI", "d3/d8c/a16634.html#ad670ae69daa742c19c06267399445a11", null ]
+    [ "npc_hor_risen_witch_doctorAI", "db/d2b/a16638.html", "db/d2b/a16638" ],
+    [ "npc_hor_risen_witch_doctor", "d3/d8c/a16634.html#add06a10c9b4342b136b5cab49338b095", null ],
+    [ "GetAI", "d3/d8c/a16634.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
 ];

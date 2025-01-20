@@ -1,6 +1,6 @@
 var a18126 =
 [
-    [ "ActivateSpirit", "d5/dff/a18126.html#ae5c9f8e693a98c828e0e922870552952", null ],
-    [ "PrepareSpellScript", "d5/dff/a18126.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
-    [ "Register", "d5/dff/a18126.html#a2b1d27e93a879681098a83d17c4d686a", null ]
+    [ "ManaVoidSelector", "d5/dff/a18126.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "d5/dff/a18126.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "d5/dff/a18126.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

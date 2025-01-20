@@ -1,6 +1,8 @@
 var a13642 =
 [
-    [ "boss_arlokkAI", "d1/d3e/a13646.html", "d1/d3e/a13646" ],
-    [ "boss_arlokk", "da/de2/a13642.html#a55bb21239e05acff18d2fb147449800e", null ],
-    [ "GetAI", "da/de2/a13642.html#a58b8cc7a198784b48faaab1b069d397c", null ]
+    [ "FilterTargets", "da/de2/a13642.html#a3405b21202d423c649e0b8d341b42d9c", null ],
+    [ "HandleWipeThreat", "da/de2/a13642.html#a2bbcce83bffebc509e9ec54778e82639", null ],
+    [ "PrepareSpellScript", "da/de2/a13642.html#a59948484b528cab69c695f08b39b886d", null ],
+    [ "Register", "da/de2/a13642.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
+    [ "_wipeThreat", "da/de2/a13642.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
 ];

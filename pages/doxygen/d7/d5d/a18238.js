@@ -1,6 +1,8 @@
 var a18238 =
 [
-    [ "npc_gluttonous_abominationAI", "dc/d54/a18242.html", "dc/d54/a18242" ],
-    [ "npc_gluttonous_abomination", "d7/d5d/a18238.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
-    [ "GetAI", "d7/d5d/a18238.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
+    [ "DecayPeriodicTimer", "d7/d5d/a18238.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "d7/d5d/a18238.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "d7/d5d/a18238.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "d7/d5d/a18238.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "d7/d5d/a18238.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

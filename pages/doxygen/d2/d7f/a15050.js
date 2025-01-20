@@ -1,8 +1,7 @@
 var a15050 =
 [
-    [ "npc_death_ravagerAI", "d2/d7f/a15050.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "d2/d7f/a15050.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "d2/d7f/a15050.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "d2/d7f/a15050.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "d2/d7f/a15050.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "npc_webbed_creatureAI", "d2/d7f/a15050.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "d2/d7f/a15050.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "d2/d7f/a15050.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "d2/d7f/a15050.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

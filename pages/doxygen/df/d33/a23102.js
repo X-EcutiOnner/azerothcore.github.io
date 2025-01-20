@@ -1,6 +1,6 @@
 var a23102 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "df/d33/a23102.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
-    [ "OnGameObjectCreate", "df/d33/a23102.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
-    [ "SetBossState", "df/d33/a23102.html#ab1e344fbf169ee40f28741217f3dca14", null ]
+    [ "HandleScript", "df/d33/a23102.html#ae45f8a366c1594d3723b83ee6e006957", null ],
+    [ "PrepareSpellScript", "df/d33/a23102.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
+    [ "Register", "df/d33/a23102.html#a6b9e449a64747f0a5715424295b1c30f", null ]
 ];

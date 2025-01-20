@@ -1,8 +1,10 @@
 var a24138 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "d5/dcf/a24138.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "d5/dcf/a24138.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "d5/dcf/a24138.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "d5/dcf/a24138.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "d5/dcf/a24138.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "npc_pet_hunter_snake_trap", "d5/dcf/a24138.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "EnterEvadeMode", "d5/dcf/a24138.html#a819add0c7b968063403d10275fdc289f", null ],
+    [ "MoveInLineOfSight", "d5/dcf/a24138.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
+    [ "Reset", "d5/dcf/a24138.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
+    [ "UpdateAI", "d5/dcf/a24138.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_init", "d5/dcf/a24138.html#a1b5c1301389749f82667c35f3daff847", null ],
+    [ "_spellTimer", "d5/dcf/a24138.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

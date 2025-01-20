@@ -1,6 +1,10 @@
 var a15682 =
 [
-    [ "boss_sartharion_shadronAI", "d6/de5/a15686.html", "d6/de5/a15686" ],
-    [ "boss_sartharion_shadron", "d2/db3/a15682.html#ac297719abff8c795af10973492fc6fbe", null ],
-    [ "GetAI", "d2/db3/a15682.html#a95c7184ee7589f01920adc57a7df963b", null ]
+    [ "HandleDummy", "d2/db3/a15682.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
+    [ "HandleSchoolDamage", "d2/db3/a15682.html#a8372b7d176c94689b1b7fe99add7812e", null ],
+    [ "Load", "d2/db3/a15682.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
+    [ "PrepareSpellScript", "d2/db3/a15682.html#a3fd71e2a93f99f19443640a2147b1663", null ],
+    [ "Register", "d2/db3/a15682.html#a8278d362a4354ccf81665ce0067c9a06", null ],
+    [ "Validate", "d2/db3/a15682.html#a414b1e1396910b87a671305ce9dcab09", null ],
+    [ "_spawned", "d2/db3/a15682.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
 ];

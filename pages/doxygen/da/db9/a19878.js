@@ -1,6 +1,8 @@
 var a19878 =
 [
-    [ "id", "da/db9/a19878.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "x", "da/db9/a19878.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
-    [ "y", "da/db9/a19878.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
+    [ "npc_ulduar_flash_freezeAI", "da/db9/a19878.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
+    [ "DamageTaken", "da/db9/a19878.html#af0c18460b4cc331f51c44a3306f516b8", null ],
+    [ "UpdateAI", "da/db9/a19878.html#ab2efa0a8d06297bff05502c40079efe9", null ],
+    [ "pInstance", "da/db9/a19878.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
+    [ "timer", "da/db9/a19878.html#a590117afe9e9943d8dc8a44af9386066", null ]
 ];

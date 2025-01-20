@@ -1,6 +1,6 @@
 var a17154 =
 [
-    [ "npc_saurfang_eventAI", "d4/d7e/a17158.html", "d4/d7e/a17158" ],
-    [ "npc_saurfang_event", "d5/da4/a17154.html#a3bfce5457466360458498833098d660c", null ],
-    [ "GetAI", "d5/da4/a17154.html#a953842d2fa3380a8331faf3a42cb3177", null ]
+    [ "PrepareAuraScript", "d5/da4/a17154.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "d5/da4/a17154.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "d5/da4/a17154.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

@@ -1,7 +1,6 @@
 var a21670 =
 [
-    [ "HandleAfterEffectApply", "d1/dcb/a21670.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "d1/dcb/a21670.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "d1/dcb/a21670.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "d1/dcb/a21670.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "HandleOnEffectRemove", "d1/dcb/a21670.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "d1/dcb/a21670.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "d1/dcb/a21670.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

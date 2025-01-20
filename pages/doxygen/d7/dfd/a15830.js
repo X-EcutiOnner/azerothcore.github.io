@@ -1,6 +1,7 @@
 var a15830 =
 [
-    [ "HandleForceCast", "d7/dfd/a15830.html#a975b69649aba9de341f4e52c82a3c111", null ],
-    [ "PrepareSpellScript", "d7/dfd/a15830.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
-    [ "Register", "d7/dfd/a15830.html#a794a59e5fd3bda75f30d559f422895b5", null ]
+    [ "OnApply", "d7/dfd/a15830.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "d7/dfd/a15830.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "d7/dfd/a15830.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "d7/dfd/a15830.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

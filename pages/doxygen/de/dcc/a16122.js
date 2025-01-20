@@ -1,7 +1,7 @@
 var a16122 =
 [
-    [ "npc_toc_priestAI", "de/dcc/a16122.html#aa362d2136193a8738e311bba18b87c90", null ],
-    [ "myCanCast", "de/dcc/a16122.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
-    [ "UpdateAI", "de/dcc/a16122.html#ae51d2ac95320909150c673b76c9856c7", null ],
-    [ "events", "de/dcc/a16122.html#aa5be20e87351424e0e4698540fc1fef4", null ]
+    [ "npc_toc_mageAI", "de/dcc/a16122.html#a188831088c892f68cef7498468b24899", null ],
+    [ "myCanCast", "de/dcc/a16122.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
+    [ "UpdateAI", "de/dcc/a16122.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
+    [ "events", "de/dcc/a16122.html#ab1910ce98f3d1b14e45acba22782d536", null ]
 ];

@@ -1,8 +1,10 @@
 var a22502 =
 [
-    [ "Load", "d3/d0e/a22502.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "d3/d0e/a22502.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "d3/d0e/a22502.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "d3/d0e/a22502.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "d3/d0e/a22502.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "boss_illidari_council", "d3/d0e/a22502.html#a078c36be39b377f6d1cdbf061d70270d", null ],
+    [ "AttackStart", "d3/d0e/a22502.html#a260b15ec58164f17543aa044a89875a8", null ],
+    [ "DamageTaken", "d3/d0e/a22502.html#af8e88c307efaba392cc2a1d2f3862078", null ],
+    [ "DoAction", "d3/d0e/a22502.html#a6c3c57523ed2775ba553af1171b46463", null ],
+    [ "EnterEvadeMode", "d3/d0e/a22502.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
+    [ "MoveInLineOfSight", "d3/d0e/a22502.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
+    [ "UpdateAI", "d3/d0e/a22502.html#a8b30df956aa4ce1727756f1d19e151be", null ]
 ];

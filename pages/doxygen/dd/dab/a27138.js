@@ -1,8 +1,10 @@
 var a27138 =
 [
-    [ "trigger_periodicAI", "dd/dab/a27138.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "dd/dab/a27138.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "dd/dab/a27138.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "dd/dab/a27138.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "dd/dab/a27138.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "npc_prof_tailor", "dd/dab/a27138.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
+    [ "HasTailorSpell", "dd/dab/a27138.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
+    [ "OnGossipHello", "dd/dab/a27138.html#a686098ac43916ea2f82b7c321527863d", null ],
+    [ "OnGossipSelect", "dd/dab/a27138.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
+    [ "SendActionMenu", "dd/dab/a27138.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
+    [ "SendConfirmLearn", "dd/dab/a27138.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
+    [ "SendConfirmUnlearn", "dd/dab/a27138.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
 ];

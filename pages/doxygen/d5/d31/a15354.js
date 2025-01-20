@@ -1,14 +1,7 @@
 var a15354 =
 [
-    [ "npc_taskmaster_fizzuleAI", "d5/d31/a15354.html#ac792f91930c869ce919f8fd96b3fb076", null ],
-    [ "DoFriend", "d5/d31/a15354.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
-    [ "JustEngagedWith", "d5/d31/a15354.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
-    [ "ReceiveEmote", "d5/d31/a15354.html#a21d0d70086f085b715a12d05fbe5d611", null ],
-    [ "Reset", "d5/d31/a15354.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
-    [ "SpellHit", "d5/d31/a15354.html#a4c35104935a3a6264c853a657dc42244", null ],
-    [ "UpdateAI", "d5/d31/a15354.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
-    [ "factionNorm", "d5/d31/a15354.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
-    [ "FlareCount", "d5/d31/a15354.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
-    [ "IsFriend", "d5/d31/a15354.html#ab7e6bd2e023545c73fba758267551eee", null ],
-    [ "ResetTimer", "d5/d31/a15354.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
+    [ "npc_lakota_windsongAI", "d5/d31/a15354.html#a922172a38ca75adef66a2653eda7fa98", null ],
+    [ "DoSpawnBandits", "d5/d31/a15354.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
+    [ "Reset", "d5/d31/a15354.html#aee7a86275f93021e0e5db249b636bcd4", null ],
+    [ "WaypointReached", "d5/d31/a15354.html#a6435c8b1521206789131889e5fa527a6", null ]
 ];

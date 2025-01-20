@@ -1,11 +1,13 @@
 var a19054 =
 [
-    [ "boss_ormorok", "dd/df9/a19054.html#aa4862339ed41d5c593a93ef605d85a39", null ],
-    [ "JustDied", "dd/df9/a19054.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
-    [ "JustEngagedWith", "dd/df9/a19054.html#a22ac203db7c3b445e653798743e48764", null ],
-    [ "JustSummoned", "dd/df9/a19054.html#acc149b49e6658454610a7871e3c82b5e", null ],
-    [ "KilledUnit", "dd/df9/a19054.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
-    [ "Reset", "dd/df9/a19054.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
-    [ "UpdateAI", "dd/df9/a19054.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
-    [ "_spikesCount", "dd/df9/a19054.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
+    [ "boss_drakosAI", "dd/df9/a19054.html#a75d771095897081457353be898b332c3", null ],
+    [ "JustDied", "dd/df9/a19054.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
+    [ "JustEngagedWith", "dd/df9/a19054.html#a4bc15075d9e9a913783da482a7a167c7", null ],
+    [ "JustSummoned", "dd/df9/a19054.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
+    [ "KilledUnit", "dd/df9/a19054.html#a4bd3e45b45660311d7510f58a1850648", null ],
+    [ "MoveInLineOfSight", "dd/df9/a19054.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
+    [ "Reset", "dd/df9/a19054.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
+    [ "UpdateAI", "dd/df9/a19054.html#abf761c7cda4031c31354d8c8d42963e0", null ],
+    [ "events", "dd/df9/a19054.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
+    [ "pInstance", "dd/df9/a19054.html#adc9461ae5334634a9140f338547688b4", null ]
 ];

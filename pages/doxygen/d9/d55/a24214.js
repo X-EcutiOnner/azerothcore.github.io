@@ -1,7 +1,7 @@
 var a24214 =
 [
-    [ "HandleEffectApply", "d9/d55/a24214.html#a9923e38a2b5999d932d85be17a50ac83", null ],
-    [ "HandleEffectRemove", "d9/d55/a24214.html#a4c1f611b4fd0cf33f654d59e783db32a", null ],
-    [ "PrepareAuraScript", "d9/d55/a24214.html#a105df22901477c34757e62a0305006d4", null ],
-    [ "Register", "d9/d55/a24214.html#a16f2daff28dc07f2cac8d53f4813909f", null ]
+    [ "CheckProc", "d9/d55/a24214.html#abd74252153fc4fc9a4e561005ea58b3f", null ],
+    [ "HandleProc", "d9/d55/a24214.html#a911b81552e7193dbf1cfc11037b44d84", null ],
+    [ "PrepareAuraScript", "d9/d55/a24214.html#ae169eb2c0e194f8f34ee2a0d5fd973d3", null ],
+    [ "Register", "d9/d55/a24214.html#a72d89db31c1fbd5c3b49b4c05a2d90f4", null ]
 ];

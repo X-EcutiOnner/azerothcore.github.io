@@ -1,6 +1,6 @@
 var a17434 =
 [
-    [ "CheckProc", "d2/d16/a17434.html#a86e62fa26606a77284c80583e7b35d27", null ],
-    [ "PrepareAuraScript", "d2/d16/a17434.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
-    [ "Register", "d2/d16/a17434.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
+    [ "npc_cult_adherentAI", "d4/dbf/a17438.html", "d4/dbf/a17438" ],
+    [ "npc_cult_adherent", "d2/d16/a17434.html#a74496518cf30674044a4a8a166e4c345", null ],
+    [ "GetAI", "d2/d16/a17434.html#a2bfe464c738c983b9539f9216cabd63a", null ]
 ];

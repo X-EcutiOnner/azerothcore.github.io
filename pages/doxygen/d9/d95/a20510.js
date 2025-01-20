@@ -1,14 +1,18 @@
 var a20510 =
 [
-    [ "boss_yoggsaron_cloudAI", "d9/d95/a20510.html#a6a13c31fb0649387ac411ed7ec2fb66a", null ],
-    [ "AttackStart", "d9/d95/a20510.html#a3ecf6a1c74780aa250be3f4e2dd04ea1", null ],
-    [ "DoAction", "d9/d95/a20510.html#a68caf08c015a0048be7858e435bbc84d", null ],
-    [ "InitWaypoint", "d9/d95/a20510.html#ae68d5d5f5c1edb74596761dccecb614d", null ],
-    [ "JustSummoned", "d9/d95/a20510.html#a70e74c2a1c19468e25edcc3d0e41df06", null ],
-    [ "MoveInLineOfSight", "d9/d95/a20510.html#a48fb6de45d47ab4fbe02da835056f4ce", null ],
-    [ "Reset", "d9/d95/a20510.html#adffbc99bb2fff0ce2082cd9e2d3608d7", null ],
-    [ "UpdateEscortAI", "d9/d95/a20510.html#a3661ecf52a93c7d769eaa9dcfa2ac202", null ],
-    [ "WaypointReached", "d9/d95/a20510.html#a3933d6c39c060db0da18d174e5b2e01a", null ],
-    [ "_checkTimer", "d9/d95/a20510.html#a883307a4134b269fb2bbe6efa371b945", null ],
-    [ "_isSummoning", "d9/d95/a20510.html#a118ccef4158c49bddf2b503f3a3090d0", null ]
+    [ "boss_yoggsaron_brainAI", "d9/d95/a20510.html#a556f89a88f4af04c09bec268661d4dae", null ],
+    [ "DamageTaken", "d9/d95/a20510.html#abc6d2996727b22b2fd178c348f2dc7db", null ],
+    [ "DoAction", "d9/d95/a20510.html#a902318367cf4d8fdb7abfc1d48d1a935", null ],
+    [ "GetData", "d9/d95/a20510.html#a0ea15cc63073ebf36d15967a87b542d5", null ],
+    [ "JustSummoned", "d9/d95/a20510.html#ae93711e3607a60105ee8005b27b93506", null ],
+    [ "PrepareChamberIllusion", "d9/d95/a20510.html#af9abd21e8fad7949362c0830c14a9d0c", null ],
+    [ "PrepareIceCrownIllusion", "d9/d95/a20510.html#ab361073608a293347fa82e829eb7c8cb", null ],
+    [ "PrepareStormwindIllusion", "d9/d95/a20510.html#a641ebeadcf257d1eddf61cef9bcdc913", null ],
+    [ "Reset", "d9/d95/a20510.html#a309cca56ff6b853b21c910c1b4c99681", null ],
+    [ "UpdateAI", "d9/d95/a20510.html#a6c8fe143ff212f32cf284b749f55857d", null ],
+    [ "_activeIllusion", "d9/d95/a20510.html#a47524945c021303a5dd791d38dc0543c", null ],
+    [ "_brainDamaged", "d9/d95/a20510.html#a4c784f57e0f29673583529e1e8fb157b", null ],
+    [ "_induceTimer", "d9/d95/a20510.html#ab532ef181da9fa4267c987e4aa173b69", null ],
+    [ "_tentacleCount", "d9/d95/a20510.html#adef4e382bc15a03c432f46880bb076d6", null ],
+    [ "summons", "d9/d95/a20510.html#a090dfe58a5629733a425591b3de48413", null ]
 ];

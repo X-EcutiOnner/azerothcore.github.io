@@ -1,8 +1,19 @@
 var a15538 =
 [
-    [ "HandleScriptEffect", "d4/d0b/a15538.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
-    [ "Load", "d4/d0b/a15538.html#ab293f8b536957558fa8886e1f4a23e74", null ],
-    [ "PrepareSpellScript", "d4/d0b/a15538.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
-    [ "Register", "d4/d0b/a15538.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
-    [ "Validate", "d4/d0b/a15538.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
+    [ "boss_taldaram", "d4/d0b/a15538.html#a6438d3534aca5e4a92afb3e6c6e24f73", null ],
+    [ "DamageTaken", "d4/d0b/a15538.html#a44d94f39e23720810acb40550f1c178a", null ],
+    [ "DoAction", "d4/d0b/a15538.html#aee1cf0553e8c7ebebea4a83f2d7e6d5d", null ],
+    [ "InitializeAI", "d4/d0b/a15538.html#a3d5b4628d6fb2db91ed073b042eefdc4", null ],
+    [ "JustDied", "d4/d0b/a15538.html#a4b6c0f51fd3a2a8c00ef095eeeea785d", null ],
+    [ "JustEngagedWith", "d4/d0b/a15538.html#a07e1cb5b53906f92a1f485340aa004e5", null ],
+    [ "JustSummoned", "d4/d0b/a15538.html#a5ae9201a71fa665908f924647b262825", null ],
+    [ "KilledUnit", "d4/d0b/a15538.html#a8fe516a08547ec03e8114b07e9c87d1f", null ],
+    [ "MovementInform", "d4/d0b/a15538.html#a17ca98f742a06b1496b2216e984811d8", null ],
+    [ "Reset", "d4/d0b/a15538.html#ae26fec572206d2f1f9acc229ee797496", null ],
+    [ "ScheduleCombatEvents", "d4/d0b/a15538.html#a247e5357fcdf8da8e00bef09f3568ca3", null ],
+    [ "SpellHitTarget", "d4/d0b/a15538.html#a0f228ea10a538a9ecf70b9f54d399150", null ],
+    [ "UpdateAI", "d4/d0b/a15538.html#a8ae18c5fd1c5df67edaf1921b5504ce1", null ],
+    [ "vanishDamage", "d4/d0b/a15538.html#a85d8c95320e6f1f486a39043218f0350", null ],
+    [ "vanishTarget_GUID", "d4/d0b/a15538.html#a211707b3e9476a22be011567882f018a", null ],
+    [ "victimSperePos", "d4/d0b/a15538.html#a06efb376b0d08207a0efce74770f21dc", null ]
 ];

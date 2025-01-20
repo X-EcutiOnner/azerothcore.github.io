@@ -1,7 +1,12 @@
 var a16554 =
 [
-    [ "OnRemove", "de/dec/a16554.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "de/dec/a16554.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "de/dec/a16554.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "de/dec/a16554.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "npc_phantom_mageAI", "de/dec/a16554.html#ac919dc1ba167cc68714320f9351b99d0", null ],
+    [ "AttackStart", "de/dec/a16554.html#ade9ba7071cff655f2c0133481cb9c2bc", null ],
+    [ "DoAction", "de/dec/a16554.html#a6c66df8b8e59a9dc62f1f944da2afc2c", null ],
+    [ "EnterEvadeMode", "de/dec/a16554.html#a6ca0be233e8866b6154fa6e7164b856d", null ],
+    [ "JustDied", "de/dec/a16554.html#a3a522e4c741bc321469ed87c10cf7904", null ],
+    [ "JustEngagedWith", "de/dec/a16554.html#a5a1bf4aaf716674a63e31d24ae4a5d7c", null ],
+    [ "Reset", "de/dec/a16554.html#a5c29c8d54956a0917df3997118348590", null ],
+    [ "UpdateAI", "de/dec/a16554.html#a7135acfbc36212306a68fc8b758e2881", null ],
+    [ "events", "de/dec/a16554.html#afa0f0b5cac0759db324cea7c64463f75", null ]
 ];

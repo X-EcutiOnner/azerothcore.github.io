@@ -1,7 +1,10 @@
 var a15814 =
 [
-    [ "npc_orb_carrierAI", "d4/db4/a15814.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "d4/db4/a15814.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "d4/db4/a15814.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "d4/db4/a15814.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "spell_halion_marks_aura", "d4/db4/a15814.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
+    [ "BeforeDispel", "d4/db4/a15814.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
+    [ "OnRemove", "d4/db4/a15814.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
+    [ "PrepareAuraScript", "d4/db4/a15814.html#acd5285ea5c378b31526440d263c54770", null ],
+    [ "Register", "d4/db4/a15814.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
+    [ "_removeSpellId", "d4/db4/a15814.html#aeef9d928c6a8739337251e144558b169", null ],
+    [ "_summonSpellId", "d4/db4/a15814.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
 ];

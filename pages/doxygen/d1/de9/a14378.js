@@ -1,8 +1,10 @@
 var a14378 =
 [
-    [ "hyjalThrallAI", "d1/de9/a14378.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "d1/de9/a14378.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "d1/de9/a14378.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "d1/de9/a14378.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "d1/de9/a14378.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "npc_hyjal_frost_wyrm", "d1/de9/a14378.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "d1/de9/a14378.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "d1/de9/a14378.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "d1/de9/a14378.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "d1/de9/a14378.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "d1/de9/a14378.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "d1/de9/a14378.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

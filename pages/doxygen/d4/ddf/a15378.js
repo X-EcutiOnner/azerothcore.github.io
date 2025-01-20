@@ -1,7 +1,6 @@
 var a15378 =
 [
-    [ "npc_lakota_windsongAI", "d4/ddf/a15378.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "d4/ddf/a15378.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "d4/ddf/a15378.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "d4/ddf/a15378.html#a6435c8b1521206789131889e5fa527a6", null ]
+    [ "npc_cairne_bloodhoofAI", "da/dbb/a15382.html", "da/dbb/a15382" ],
+    [ "npc_cairne_bloodhoof", "d4/ddf/a15378.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
+    [ "GetAI", "d4/ddf/a15378.html#a1c34470c46ae9e98684de0e786be28b7", null ]
 ];

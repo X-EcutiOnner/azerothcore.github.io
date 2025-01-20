@@ -1,9 +1,16 @@
 var a13294 =
 [
-    [ "npc_partygoer", "d3/d90/a13294.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "d3/d90/a13294.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "d3/d90/a13294.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "d3/d90/a13294.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "d3/d90/a13294.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "d3/d90/a13294.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "npc_rinjiAI", "d3/d90/a13294.html#ab613818b92530269f0802077eccc92d0", null ],
+    [ "DoSpawnAmbush", "d3/d90/a13294.html#af2535d7364641fadc98bca91ace9c906", null ],
+    [ "JustEngagedWith", "d3/d90/a13294.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
+    [ "JustRespawned", "d3/d90/a13294.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
+    [ "JustSummoned", "d3/d90/a13294.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
+    [ "Reset", "d3/d90/a13294.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
+    [ "sQuestAccept", "d3/d90/a13294.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
+    [ "UpdateEscortAI", "d3/d90/a13294.html#a60f05b58b115f3f2ea11206778893547", null ],
+    [ "WaypointReached", "d3/d90/a13294.html#a9463060a57b85113b71482c8a0974f60", null ],
+    [ "_IsByOutrunner", "d3/d90/a13294.html#adecc4eb9f90969621b52b97ff594558d", null ],
+    [ "postEventCount", "d3/d90/a13294.html#a601f142bd2a04ed303611044bac91035", null ],
+    [ "postEventTimer", "d3/d90/a13294.html#a5154e551143e81d431f706ad07b78ca0", null ],
+    [ "spawnId", "d3/d90/a13294.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
 ];

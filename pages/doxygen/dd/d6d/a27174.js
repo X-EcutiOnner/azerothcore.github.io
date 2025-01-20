@@ -1,11 +1,13 @@
 var a27174 =
 [
-    [ "npc_artoriusAI", "dd/d6d/a27174.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
-    [ "DamageTaken", "dd/d6d/a27174.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
-    [ "DoAction", "dd/d6d/a27174.html#abbfc9ee752d97f1694dbd739719843c2", null ],
-    [ "JustEngagedWith", "dd/d6d/a27174.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
-    [ "Reset", "dd/d6d/a27174.html#a862cc52a9251e2dfe486f1152dae9500", null ],
-    [ "SpellHit", "dd/d6d/a27174.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
-    [ "UpdateAI", "dd/d6d/a27174.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
-    [ "events", "dd/d6d/a27174.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
+    [ "npc_nelsonAI", "dd/d6d/a27174.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
+    [ "DoAction", "dd/d6d/a27174.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
+    [ "JustEngagedWith", "dd/d6d/a27174.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
+    [ "JustSummoned", "dd/d6d/a27174.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
+    [ "Reset", "dd/d6d/a27174.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
+    [ "SpellHit", "dd/d6d/a27174.html#afab81d8a6077c755c186bb619944d78d", null ],
+    [ "SummonedCreatureDies", "dd/d6d/a27174.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
+    [ "UpdateAI", "dd/d6d/a27174.html#ac68749942f37de5f9105556fe7b904b7", null ],
+    [ "events", "dd/d6d/a27174.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
+    [ "shouldDespawn", "dd/d6d/a27174.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
 ];

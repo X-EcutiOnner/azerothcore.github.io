@@ -1,12 +1,11 @@
 var a16594 =
 [
-    [ "npc_shadowy_mercenaryAI", "d8/d9e/a16594.html#ac631624615653a4f82ecfae2aa418455", null ],
-    [ "AttackStart", "d8/d9e/a16594.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
-    [ "DoAction", "d8/d9e/a16594.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
-    [ "EnterEvadeMode", "d8/d9e/a16594.html#a31a9ddf038046534fad1d41afcf76548", null ],
-    [ "JustDied", "d8/d9e/a16594.html#a33e576c92d1b10492cb6e65000ca8198", null ],
-    [ "JustEngagedWith", "d8/d9e/a16594.html#ae12ade5e863a0022ea99620f354ca51b", null ],
-    [ "Reset", "d8/d9e/a16594.html#afad174f812e2aadf6db86703a46f61d2", null ],
-    [ "UpdateAI", "d8/d9e/a16594.html#a7a0238f32aa0d608b9d883db5f170052", null ],
-    [ "events", "d8/d9e/a16594.html#a4c6e5a49dc4364477187a0189a166578", null ]
+    [ "boss_frostsworn_generalAI", "d8/d9e/a16594.html#afd3e486cd9a0ac18d10675f40f7f6314", null ],
+    [ "EnterEvadeMode", "d8/d9e/a16594.html#a4f45facb49cb5c1a8b0565e87dccf50e", null ],
+    [ "JustDied", "d8/d9e/a16594.html#ac2653a5664c87045df16f2fdcf850edf", null ],
+    [ "JustEngagedWith", "d8/d9e/a16594.html#a64f2b0426491f1471c8cf653e94a2fa2", null ],
+    [ "Reset", "d8/d9e/a16594.html#a8333b3f2637f029de4182ca16e2fb634", null ],
+    [ "UpdateAI", "d8/d9e/a16594.html#aea65a8fab859db4396690d846d10f5a1", null ],
+    [ "events", "d8/d9e/a16594.html#a4e5c714486cdba1fc4a6db609d8b6a97", null ],
+    [ "pInstance", "d8/d9e/a16594.html#a01cc3db24e03600501b9980aa966ad7d", null ]
 ];

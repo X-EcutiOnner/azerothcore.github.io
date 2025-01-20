@@ -1,6 +1,8 @@
 var a12962 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "d7/d03/a12966.html", "d7/d03/a12966" ],
-    [ "instance_sunken_temple", "d0/d95/a12962.html#a123b052c1cd1487588c88bf2611bc53b", null ],
-    [ "GetInstanceScript", "d0/d95/a12962.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
+    [ "npc_madrigosa", "d0/d95/a12962.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
+    [ "DoAction", "d0/d95/a12962.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
+    [ "UpdateAI", "d0/d95/a12962.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
+    [ "events", "d0/d95/a12962.html#a5859e4c8454371eb71740616d4763c0e", null ],
+    [ "instance", "d0/d95/a12962.html#a09525d3bb35d1da4246bd84bbadea304", null ]
 ];

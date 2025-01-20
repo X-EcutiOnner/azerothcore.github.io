@@ -1,7 +1,6 @@
 var a21686 =
 [
-    [ "HandleDummy", "d4/d59/a21686.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
-    [ "PrepareSpellScript", "d4/d59/a21686.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
-    [ "Register", "d4/d59/a21686.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
-    [ "Validate", "d4/d59/a21686.html#aeec15705a41ad2ac0e59d90086591d96", null ]
+    [ "npc_your_inner_turmoilAI", "d7/d36/a21690.html", "d7/d36/a21690" ],
+    [ "npc_your_inner_turmoil", "d4/d59/a21686.html#a72856ef469bb8f6ff4a89a16159479af", null ],
+    [ "GetAI", "d4/d59/a21686.html#a29c8f76b072e891face1225770688ca6", null ]
 ];

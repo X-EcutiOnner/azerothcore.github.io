@@ -1,6 +1,8 @@
 var a18634 =
 [
-    [ "npc_ioc_gunship_captainAI", "d9/dab/a18638.html", "d9/dab/a18638" ],
-    [ "npc_ioc_gunship_captain", "de/d6c/a18634.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
-    [ "GetAI", "de/d6c/a18634.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
+    [ "HandleScript", "de/d6c/a18634.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
+    [ "HandleScript2", "de/d6c/a18634.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
+    [ "Load", "de/d6c/a18634.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
+    [ "PrepareSpellScript", "de/d6c/a18634.html#a2d1dbae570206b358878020879708000", null ],
+    [ "Register", "de/d6c/a18634.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
 ];

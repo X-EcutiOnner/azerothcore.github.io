@@ -1,8 +1,8 @@
 var a26538 =
 [
-    [ "HandleDummyTick", "d5/d23/a26538.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "d5/d23/a26538.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "d5/d23/a26538.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "d5/d23/a26538.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "d5/d23/a26538.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "Load", "d5/d23/a26538.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
+    [ "OnRemove", "d5/d23/a26538.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
+    [ "PrepareAuraScript", "d5/d23/a26538.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
+    [ "Register", "d5/d23/a26538.html#a932760326c822f1b47df1afdec6bb9cb", null ],
+    [ "Validate", "d5/d23/a26538.html#a69bcfedb7f566c572201aadc9e75df08", null ]
 ];

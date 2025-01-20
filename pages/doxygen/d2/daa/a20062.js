@@ -1,6 +1,6 @@
 var a20062 =
 [
-    [ "boss_kologarn_eyebeamAI", "de/df4/a20066.html", "de/df4/a20066" ],
-    [ "boss_kologarn_eyebeam", "d2/daa/a20062.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
-    [ "GetAI", "d2/daa/a20062.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
+    [ "HandleInstaKill", "d2/daa/a20062.html#a593786eb89bf77e05dad4b502ffc1925", null ],
+    [ "PrepareSpellScript", "d2/daa/a20062.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
+    [ "Register", "d2/daa/a20062.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
 ];

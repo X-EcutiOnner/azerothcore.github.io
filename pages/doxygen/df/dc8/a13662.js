@@ -1,6 +1,11 @@
 var a13662 =
 [
-    [ "boss_gahzranka", "df/dc8/a13662.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "df/dc8/a13662.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "df/dc8/a13662.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "boss_hakkarAI", "df/dc8/a13662.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
+    [ "ApplyHakkarPowerStacks", "df/dc8/a13662.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
+    [ "CheckInRoom", "df/dc8/a13662.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
+    [ "EnterEvadeMode", "df/dc8/a13662.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
+    [ "JustDied", "df/dc8/a13662.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
+    [ "JustEngagedWith", "df/dc8/a13662.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
+    [ "Reset", "df/dc8/a13662.html#a52db5743c09088e2e9f1aff1513960f2", null ],
+    [ "UpdateAI", "df/dc8/a13662.html#a1119212465bcf293991d7a520c6ffe42", null ]
 ];

@@ -1,6 +1,9 @@
 var a21214 =
 [
-    [ "npc_khunok_the_behemothAI", "d8/d71/a21218.html", "d8/d71/a21218" ],
-    [ "npc_khunok_the_behemoth", "db/d1e/a21214.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "db/d1e/a21214.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "npc_lurgglbrAI", "db/d1e/a21214.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "db/d1e/a21214.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "db/d1e/a21214.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "db/d1e/a21214.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "IntroPhase", "db/d1e/a21214.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "db/d1e/a21214.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

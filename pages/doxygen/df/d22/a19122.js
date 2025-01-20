@@ -1,11 +1,7 @@
 var a19122 =
 [
-    [ "npc_oculus_drakegiverAI", "dc/dd8/a19126.html", "dc/dd8/a19126" ],
-    [ "npc_oculus_drakegiver", "df/d22/a19122.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "df/d22/a19122.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "df/d22/a19122.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "df/d22/a19122.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "df/d22/a19122.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "df/d22/a19122.html#ac8bbe890722aa924a7f0dee161d342c4", null ],
-    [ "openedMenu", "df/d22/a19122.html#a650d1cd18700e29328e0fc97b1709f38", null ]
+    [ "Apply", "df/d22/a19122.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "df/d22/a19122.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "df/d22/a19122.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "df/d22/a19122.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

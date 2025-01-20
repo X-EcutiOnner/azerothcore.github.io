@@ -1,9 +1,7 @@
 var a24606 =
 [
-    [ "spell_gen_select_target_count", "d6/dee/a24606.html#a65507c155a8746ff49c58c051b7868e4", null ],
-    [ "FilterTargets", "d6/dee/a24606.html#a5de89be9ce321a0f4ac49853a700b502", null ],
-    [ "PrepareSpellScript", "d6/dee/a24606.html#a42ddce15414dcdf495b572e0f75e9486", null ],
-    [ "Register", "d6/dee/a24606.html#a94f86992275123e2e3989655cf077efd", null ],
-    [ "_count", "d6/dee/a24606.html#acdf5daa848ae185b859c45a1271df68c", null ],
-    [ "_effTarget", "d6/dee/a24606.html#a9c54508790062277c8275d2466e93fb3", null ]
+    [ "HandleApply", "d6/dee/a24606.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
+    [ "HandlePeriodicTimer", "d6/dee/a24606.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
+    [ "PrepareAuraScript", "d6/dee/a24606.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
+    [ "Register", "d6/dee/a24606.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
 ];

@@ -1,6 +1,5 @@
 var a13670 =
 [
-    [ "OnEffect", "da/df7/a13670.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
-    [ "PrepareSpellScript", "da/df7/a13670.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
-    [ "Register", "da/df7/a13670.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
+    [ "at_zulgurub_bridge_speech", "da/df7/a13670.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
+    [ "_OnTrigger", "da/df7/a13670.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
 ];

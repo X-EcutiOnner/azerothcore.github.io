@@ -1,13 +1,7 @@
 var a23002 =
 [
-    [ "npc_earthen_ring_flamecaller", "d7/d5b/a23002.html#ab402dd321fa0df641b674324386d7591", null ],
-    [ "DoAction", "d7/d5b/a23002.html#af745c83529a34a89c430d6113703fff5", null ],
-    [ "LookOpening", "d7/d5b/a23002.html#adfc752e7700a816b66b639007a1a90fa", null ],
-    [ "MovementInform", "d7/d5b/a23002.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
-    [ "Reset", "d7/d5b/a23002.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
-    [ "SpellHit", "d7/d5b/a23002.html#ab9c5ad7e56033997042031566748ee2b", null ],
-    [ "UpdateAI", "d7/d5b/a23002.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
-    [ "_events", "d7/d5b/a23002.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
-    [ "_instance", "d7/d5b/a23002.html#a79aa6e628a50ed485cc55513c28362dc", null ],
-    [ "_mySpot", "d7/d5b/a23002.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
+    [ "PeriodicTick", "d7/d5b/a23002.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
+    [ "PrepareAuraScript", "d7/d5b/a23002.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
+    [ "Register", "d7/d5b/a23002.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
+    [ "Validate", "d7/d5b/a23002.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
 ];

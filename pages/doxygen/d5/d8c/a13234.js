@@ -1,9 +1,7 @@
 var a13234 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d5/d8c/a13234.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "d5/d8c/a13234.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "d5/d8c/a13234.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "d5/d8c/a13234.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "d5/d8c/a13234.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "d5/d8c/a13234.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ]
+    [ "npc_eris_hevenfireAI", "d8/d3b/a13238.html", "d8/d3b/a13238" ],
+    [ "npc_eris_hevenfire", "d5/d8c/a13234.html#a77f0836dc0b19114316b8b67839d8033", null ],
+    [ "GetAI", "d5/d8c/a13234.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
+    [ "OnQuestAccept", "d5/d8c/a13234.html#a1e0baec5706cfddd678b58eb9359997e", null ]
 ];

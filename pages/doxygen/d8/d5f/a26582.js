@@ -1,6 +1,7 @@
 var a26582 =
 [
-    [ "PrepareAuraScript", "d8/d5f/a26582.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "d8/d5f/a26582.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "d8/d5f/a26582.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "HandleApplyAura", "d8/d5f/a26582.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "d8/d5f/a26582.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "d8/d5f/a26582.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "d8/d5f/a26582.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

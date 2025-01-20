@@ -1,10 +1,6 @@
 var a14398 =
 [
-    [ "npc_hyjal_gargoyle", "d7/d09/a14398.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
-    [ "AttackStart", "d7/d09/a14398.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
-    [ "DoAction", "d7/d09/a14398.html#ae213c71426f438dd2b27699d7de23664", null ],
-    [ "JustEngagedWith", "d7/d09/a14398.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
-    [ "PathEndReached", "d7/d09/a14398.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
-    [ "Reset", "d7/d09/a14398.html#af314bb183bde44680eeb136d2a08c142", null ],
-    [ "UpdateAI", "d7/d09/a14398.html#ac1ca0648b08430a8bcbf99980222b684", null ]
+    [ "boss_infinite_corruptorAI", "df/d82/a14402.html", "df/d82/a14402" ],
+    [ "boss_infinite_corruptor", "d7/d09/a14398.html#a78a939073ab44b818cefdb25419f92be", null ],
+    [ "GetAI", "d7/d09/a14398.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
 ];

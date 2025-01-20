@@ -1,6 +1,10 @@
 var a13810 =
 [
-    [ "HandleObjectAreaTargetSelect", "db/d93/a13810.html#aa7695bddd766d5adefb04710d41894f6", null ],
-    [ "PrepareSpellScript", "db/d93/a13810.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
-    [ "Register", "db/d93/a13810.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
+    [ "npc_zealot_lorkhan", "db/d93/a13810.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
+    [ "JustDied", "db/d93/a13810.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
+    [ "JustEngagedWith", "db/d93/a13810.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
+    [ "Reset", "db/d93/a13810.html#abecbd4a2ea2cf3281244933fe7484239", null ],
+    [ "UpdateAI", "db/d93/a13810.html#a68c35734f8886b2c241dcbc178899206", null ],
+    [ "_scheduler", "db/d93/a13810.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
+    [ "instance", "db/d93/a13810.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
 ];

@@ -1,5 +1,6 @@
 var a20894 =
 [
-    [ "npc_ritual_channelerAI", "db/d0d/a20894.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "db/d0d/a20894.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "instance_utgarde_pinnacle_InstanceMapScript", "d2/d66/a20898.html", "d2/d66/a20898" ],
+    [ "instance_utgarde_pinnacle", "db/d0d/a20894.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
+    [ "GetInstanceScript", "db/d0d/a20894.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
 ];

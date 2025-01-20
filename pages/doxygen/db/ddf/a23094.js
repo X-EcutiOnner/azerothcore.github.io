@@ -1,5 +1,7 @@
 var a23094 =
 [
-    [ "go_main_chambers_access_panel", "db/ddf/a23094.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "db/ddf/a23094.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "npc_underbog_mushroom", "db/ddf/a23094.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "db/ddf/a23094.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "db/ddf/a23094.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "db/ddf/a23094.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

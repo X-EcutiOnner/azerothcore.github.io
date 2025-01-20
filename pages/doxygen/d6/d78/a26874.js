@@ -1,7 +1,6 @@
 var a26874 =
 [
-    [ "HandlePeriodic", "d6/d78/a26874.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d6/d78/a26874.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d6/d78/a26874.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d6/d78/a26874.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "go_witherbark_totem_bundleAI", "d5/d4e/a26878.html", "d5/d4e/a26878" ],
+    [ "go_witherbark_totem_bundle", "d6/d78/a26874.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "d6/d78/a26874.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

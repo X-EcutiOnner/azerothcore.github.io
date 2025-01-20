@@ -1,5 +1,7 @@
 var a25638 =
 [
-    [ "PrepareSpellScript", "d6/dbc/a25638.html#ac08a5b38ac3012ad31c8ecdf4ca36585", null ],
-    [ "Register", "d6/dbc/a25638.html#a7d6187a7aa8f8d67efe15ffc74fa1873", null ]
+    [ "CheckCast", "d6/dbc/a25638.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
+    [ "HandleEffect", "d6/dbc/a25638.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
+    [ "PrepareSpellScript", "d6/dbc/a25638.html#aa63cb903e7c6037a6c08381334ccc126", null ],
+    [ "Register", "d6/dbc/a25638.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
 ];

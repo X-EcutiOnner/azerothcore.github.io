@@ -1,7 +1,7 @@
 var a24986 =
 [
-    [ "PrepareAuraScript", "df/d99/a24986.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
-    [ "Register", "df/d99/a24986.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
-    [ "TriggerFoodBuff", "df/d99/a24986.html#a5d125413491dd377d61b8e30c4979fdd", null ],
-    [ "Validate", "df/d99/a24986.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
+    [ "HandleDamage", "df/d99/a24986.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
+    [ "PrepareSpellScript", "df/d99/a24986.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
+    [ "Register", "df/d99/a24986.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
+    [ "Validate", "df/d99/a24986.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
 ];

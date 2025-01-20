@@ -1,5 +1,5 @@
 var a26886 =
 [
-    [ "go_noblegarden_colored_egg", "df/d2d/a26886.html#a7e85d492a6c9f4e50a2c47d6e6dae535", null ],
-    [ "OnGossipHello", "df/d2d/a26886.html#ab3d349dfa5b4c0f58ed70f80cd084029", null ]
+    [ "go_ethereum_prison", "df/d2d/a26886.html#a1872dab11a8470194ab35f87e217aa8a", null ],
+    [ "OnGossipHello", "df/d2d/a26886.html#a73479b0512ea778336fad4bd5cd9b909", null ]
 ];

@@ -1,9 +1,9 @@
 var a02273 =
 [
-    [ "npc_the_scourge_cauldron", "d8/d7d/a13478.html", "d8/d7d/a13478" ],
-    [ "npc_the_scourge_cauldron::npc_the_scourge_cauldronAI", "d2/d6f/a13482.html", "d2/d6f/a13482" ],
-    [ "npc_andorhal_tower", "db/d87/a13486.html", "db/d87/a13486" ],
-    [ "npc_andorhal_tower::npc_andorhal_towerAI", "d3/dae/a13490.html", "d3/dae/a13490" ],
+    [ "npc_the_scourge_cauldron", "d3/d9e/a13450.html", "d3/d9e/a13450" ],
+    [ "npc_the_scourge_cauldron::npc_the_scourge_cauldronAI", "d9/d43/a13454.html", "d9/d43/a13454" ],
+    [ "npc_andorhal_tower", "d0/db9/a13458.html", "d0/db9/a13458" ],
+    [ "npc_andorhal_tower::npc_andorhal_towerAI", "d4/df0/a13462.html", "d4/df0/a13462" ],
     [ "AndorhalTower", "d7/d6e/a02273.html#a07061f0cf471fb1cb236b428c31965c8", [
       [ "GO_BEACON_TORCH", "d7/d6e/a02273.html#a07061f0cf471fb1cb236b428c31965c8ace3e47469a19c76e79a7ae1ca2b4f798", null ]
     ] ],

@@ -1,7 +1,6 @@
 var a15658 =
 [
-    [ "OnRemove", "de/d57/a15658.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "de/d57/a15658.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "de/d57/a15658.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "de/d57/a15658.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "boss_sartharion_shadronAI", "d1/dce/a15662.html", "d1/dce/a15662" ],
+    [ "boss_sartharion_shadron", "de/d57/a15658.html#ac297719abff8c795af10973492fc6fbe", null ],
+    [ "GetAI", "de/d57/a15658.html#a95c7184ee7589f01920adc57a7df963b", null ]
 ];

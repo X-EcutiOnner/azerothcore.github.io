@@ -1,7 +1,5 @@
 var a18426 =
 [
-    [ "Land", "de/d9a/a18426.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
-    [ "PrepareSpellScript", "de/d9a/a18426.html#a31e45adb87719c311fb5b94b2b744487", null ],
-    [ "Register", "de/d9a/a18426.html#a652eca6ec8079b2835d911807857c8a8", null ],
-    [ "RemoveAliveTarget", "de/d9a/a18426.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
+    [ "at_icc_start_frostwing_gauntlet", "de/d9a/a18426.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
+    [ "OnTrigger", "de/d9a/a18426.html#a7137166f281876f00d4e03c846875d85", null ]
 ];

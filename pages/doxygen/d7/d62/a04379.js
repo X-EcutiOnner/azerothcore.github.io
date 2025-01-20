@@ -16,6 +16,9 @@ var a04379 =
       [ "ALLSPELLHOOK_ON_DUMMY_EFFECT_GAMEOBJECT", "d7/d62/a04379.html#afe0b21412f82a634ffd412b1aca51cbcaa327077f9d0fac21f2a738ab97c1463f", null ],
       [ "ALLSPELLHOOK_ON_DUMMY_EFFECT_CREATURE", "d7/d62/a04379.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034", null ],
       [ "ALLSPELLHOOK_ON_DUMMY_EFFECT_ITEM", "d7/d62/a04379.html#afe0b21412f82a634ffd412b1aca51cbca3b9b961851d5db88a1c04f914440a7a1", null ],
+      [ "ALLSPELLHOOK_ON_CAST_CANCEL", "d7/d62/a04379.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b", null ],
+      [ "ALLSPELLHOOK_ON_CAST", "d7/d62/a04379.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e", null ],
+      [ "ALLSPELLHOOK_ON_PREPARE", "d7/d62/a04379.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058", null ],
       [ "ALLSPELLHOOK_END", "d7/d62/a04379.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f", null ]
     ] ]
 ];

@@ -1,7 +1,6 @@
 var a16334 =
 [
-    [ "HandleAfterEffectAbsorb", "d2/d0c/a16334.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "d2/d0c/a16334.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "d2/d0c/a16334.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "d2/d0c/a16334.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "boss_dredAI", "d2/d8c/a16338.html", "d2/d8c/a16338" ],
+    [ "boss_dred", "d2/d0c/a16334.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "d2/d0c/a16334.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

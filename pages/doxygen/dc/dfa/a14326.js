@@ -1,18 +1,12 @@
 var a14326 =
 [
-    [ "boss_archimonde", "dc/dfa/a14326.html#a25e52499f80d4c3edb4dd5cf02b95d18", null ],
-    [ "DoAction", "dc/dfa/a14326.html#aba420f926ccdfc6feeb16a0e6d67267f", null ],
-    [ "DoCastDoomFire", "dc/dfa/a14326.html#a409cad381c6562f44fcf8f66a5965ec4", null ],
-    [ "EnterEvadeMode", "dc/dfa/a14326.html#aac09090d17c336e9935cfce7ff1c8d60", null ],
-    [ "JustEngagedWith", "dc/dfa/a14326.html#a31c526a5e72c4244df101918388c777c", null ],
-    [ "JustSummoned", "dc/dfa/a14326.html#a6db990f64d884f1290c77b8ec73b8fb0", null ],
-    [ "KilledUnit", "dc/dfa/a14326.html#a341ab97e59cfe989572fdcceff434e4e", null ],
-    [ "Reset", "dc/dfa/a14326.html#a905918f9fc654c4c1fa1aa99980d39e6", null ],
-    [ "SetGUID", "dc/dfa/a14326.html#a9008cf454dc7e2eeba36c0a45193db7a", null ],
-    [ "UnleashSoulCharge", "dc/dfa/a14326.html#a93f93fe116c75a24dc15bb521b038a27", null ],
-    [ "_availableAuras", "dc/dfa/a14326.html#a552869a0fd5141094a021e3aaaada051", null ],
-    [ "_availableSpells", "dc/dfa/a14326.html#a388a8bafb4407e371a58d3a7d090c754", null ],
-    [ "_enraged", "dc/dfa/a14326.html#a1e295ff6ae857c7a022acf967afd0de0", null ],
-    [ "_isChanneling", "dc/dfa/a14326.html#ad967688caad8a6c7530bfd4709aecb06", null ],
-    [ "_wispCount", "dc/dfa/a14326.html#aa2ec2fcd92ed81f76fb238af9dbad53e", null ]
+    [ "boss_kazrogal", "dc/dfa/a14326.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
+    [ "DoAction", "dc/dfa/a14326.html#a7721debceeefaeb69e71855b8e8742f8", null ],
+    [ "GetMarkRepeatTimer", "dc/dfa/a14326.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
+    [ "JustDied", "dc/dfa/a14326.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
+    [ "JustEngagedWith", "dc/dfa/a14326.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
+    [ "KilledUnit", "dc/dfa/a14326.html#ab1439114a84d85947106d979f38d12fa", null ],
+    [ "Reset", "dc/dfa/a14326.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
+    [ "_markCounter", "dc/dfa/a14326.html#a54ef8b88bf62e260e19a964d1926ef4a", null ],
+    [ "_recentlySpoken", "dc/dfa/a14326.html#ad7401abae1b25d58ed93cc800d75bc26", null ]
 ];

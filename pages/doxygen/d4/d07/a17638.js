@@ -1,7 +1,6 @@
 var a17638 =
 [
-    [ "HandleSummon", "d4/d07/a17638.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d4/d07/a17638.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d4/d07/a17638.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d4/d07/a17638.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "boss_rotfaceAI", "d5/dfa/a17642.html", "d5/dfa/a17642" ],
+    [ "boss_rotface", "d4/d07/a17638.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "d4/d07/a17638.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

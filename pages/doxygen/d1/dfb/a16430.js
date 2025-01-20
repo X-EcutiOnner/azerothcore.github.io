@@ -1,7 +1,7 @@
 var a16430 =
 [
-    [ "HandleScriptEffect", "d1/dfb/a16430.html#a62cef31900cd61167823f3e66aa2d64b", null ],
-    [ "PrepareSpellScript", "d1/dfb/a16430.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
-    [ "Register", "d1/dfb/a16430.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
-    [ "Validate", "d1/dfb/a16430.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
+    [ "HandleEffectRemove", "d1/dfb/a16430.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "d1/dfb/a16430.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "d1/dfb/a16430.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "d1/dfb/a16430.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

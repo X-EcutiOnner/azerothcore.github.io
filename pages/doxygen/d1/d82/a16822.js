@@ -1,7 +1,5 @@
 var a16822 =
 [
-    [ "HandleEffectPeriodic", "d1/d82/a16822.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
-    [ "PrepareAuraScript", "d1/d82/a16822.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
-    [ "Register", "d1/d82/a16822.html#a5a44978cec95fef30c9ea4308bda2508", null ],
-    [ "Validate", "d1/d82/a16822.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
+    [ "at_tyrannus_event_starter", "d1/d82/a16822.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
+    [ "OnTrigger", "d1/d82/a16822.html#a8dcfce4cd24dbc45df987b4a9bfcbbc0", null ]
 ];

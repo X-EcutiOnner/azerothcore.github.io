@@ -1,8 +1,7 @@
 var a18134 =
 [
-    [ "npc_lk_wicked_spiritAI", "de/d4c/a18134.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
-    [ "CanAIAttack", "de/d4c/a18134.html#ae094420b1a6e134632baa0b086c806c6", null ],
-    [ "JustDied", "de/d4c/a18134.html#adf153fab1c8639b2b5790ed418afb85d", null ],
-    [ "JustRespawned", "de/d4c/a18134.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
-    [ "Reset", "de/d4c/a18134.html#a8b15079251b6855679d738a342126006", null ]
+    [ "AuraRemoveEvent", "de/d4c/a18134.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "de/d4c/a18134.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "de/d4c/a18134.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "de/d4c/a18134.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

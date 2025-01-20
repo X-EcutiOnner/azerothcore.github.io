@@ -1,12 +1,7 @@
 var a21246 =
 [
-    [ "npc_beryl_sorcererAI", "db/da9/a21246.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
-    [ "Initialize", "db/da9/a21246.html#a40400e4e993d20d9bbe4faf063102521", null ],
-    [ "JustEngagedWith", "db/da9/a21246.html#afae877e8dac583c9420d214f77c2b438", null ],
-    [ "Reset", "db/da9/a21246.html#a17a16337c09013483c58cae38576d969", null ],
-    [ "SpellHit", "db/da9/a21246.html#a762ee3ae8df3757279821af13101e0be", null ],
-    [ "UpdateAI", "db/da9/a21246.html#a42ec665b06988d13be6cbee646afc898", null ],
-    [ "_chainsCast", "db/da9/a21246.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
-    [ "_events", "db/da9/a21246.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
-    [ "_playerGUID", "db/da9/a21246.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
+    [ "npc_mootoo_the_youngerAI", "df/d30/a21250.html", "df/d30/a21250" ],
+    [ "npc_mootoo_the_younger", "db/da9/a21246.html#a91e10489ed6a98cfa764fd4de8448317", null ],
+    [ "GetAI", "db/da9/a21246.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
+    [ "OnQuestAccept", "db/da9/a21246.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
 ];

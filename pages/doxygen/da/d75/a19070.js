@@ -1,13 +1,15 @@
 var a19070 =
 [
-    [ "npc_crystalline_frayer", "da/d75/a19070.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
-    [ "DamageTaken", "da/d75/a19070.html#a2580575a58353e8cb94561bafd74f502", null ],
-    [ "EnterEvadeMode", "da/d75/a19070.html#a9240adcfe966f11c925db82add432aa5", null ],
-    [ "JustEngagedWith", "da/d75/a19070.html#a91e8c4015b9b238fd2144999bcef9362", null ],
-    [ "Reset", "da/d75/a19070.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
-    [ "UpdateAI", "da/d75/a19070.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
-    [ "_allowDeath", "da/d75/a19070.html#adc85054030146067d2cff47db2886a07", null ],
-    [ "abilityTimer1", "da/d75/a19070.html#ae4a140cd9fccecea24982d7aa90c6bf0", null ],
-    [ "abilityTimer2", "da/d75/a19070.html#a6d2bf3e1cc05860eb6a7706102438f32", null ],
-    [ "restoreTimer", "da/d75/a19070.html#a5ab2990b41f485417af6272194035fc3", null ]
+    [ "boss_eregosAI", "da/d75/a19070.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
+    [ "DamageTaken", "da/d75/a19070.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
+    [ "JustDied", "da/d75/a19070.html#ade16be2804b857fc8e93a62d4be42380", null ],
+    [ "JustEngagedWith", "da/d75/a19070.html#a1544782732beba5d7114c3bb70419ae1", null ],
+    [ "JustSummoned", "da/d75/a19070.html#a33ef5a080e457f4e08e7997b467b0974", null ],
+    [ "KilledUnit", "da/d75/a19070.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
+    [ "MoveInLineOfSight", "da/d75/a19070.html#ac622481abb0190bdc7654b383766a9ed", null ],
+    [ "Reset", "da/d75/a19070.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
+    [ "UpdateAI", "da/d75/a19070.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
+    [ "events", "da/d75/a19070.html#ae6f1f2e3146525596c3dbb646283b744", null ],
+    [ "pInstance", "da/d75/a19070.html#abf0b366d7b0931ccc30711a33736dda8", null ],
+    [ "shiftNumber", "da/d75/a19070.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
 ];

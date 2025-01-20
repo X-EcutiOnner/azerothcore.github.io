@@ -1,12 +1,9 @@
 var a19598 =
 [
-    [ "npc_freya_wardAI", "db/d79/a19598.html#afbc2f3d88173e240b87915cf0520b3cf", null ],
-    [ "DoAction", "db/d79/a19598.html#a4c9418b5474eb572a76168d4a460159a", null ],
-    [ "JustSummoned", "db/d79/a19598.html#a9075d763014ca50b4e0d2c815e1c23b7", null ],
-    [ "Reset", "db/d79/a19598.html#a65d304edd3b00b4a45c58bf36b926900", null ],
-    [ "SummonedCreatureDespawn", "db/d79/a19598.html#a6273b024ebde2fb36ed79eb122f7ac68", null ],
-    [ "UpdateAI", "db/d79/a19598.html#a11dd073b70e5126f580ec5122dce7bbd", null ],
-    [ "_castTimer", "db/d79/a19598.html#a6308aadc8ebf41cf045b04ac58e2244b", null ],
-    [ "_summoned", "db/d79/a19598.html#a5df6604055c5f3936a95f8d0ca5be8c1", null ],
-    [ "summons", "db/d79/a19598.html#a82932e9f2d570fa6d8394bfd3954c41e", null ]
+    [ "npc_thorims_hammerAI", "db/d79/a19598.html#aafda36c8d784252d271ef031ab6a3d34", null ],
+    [ "Reset", "db/d79/a19598.html#a57975d0dc00c86946e547ba43c7151ec", null ],
+    [ "UpdateAI", "db/d79/a19598.html#a4e01a61d09c11647e06c3547d6fa91fa", null ],
+    [ "_beamTimer", "db/d79/a19598.html#aba7c6c078977a8187a7e673ba3126bfd", null ],
+    [ "_finishTime", "db/d79/a19598.html#a218bd28d18a2c2f0aef6906619437209", null ],
+    [ "_removeTimer", "db/d79/a19598.html#a958e4c975d1ae634745107af7d204f82", null ]
 ];

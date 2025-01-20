@@ -1,6 +1,7 @@
 var a20046 =
 [
-    [ "boss_kologarnAI", "df/d2b/a20050.html", "df/d2b/a20050" ],
-    [ "boss_kologarn", "de/df6/a20046.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
-    [ "GetAI", "de/df6/a20046.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
+    [ "boss_kologarn_pit_kill_bunny", "de/df6/a20046.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
+    [ "Reset", "de/df6/a20046.html#afd7482896b66f040b8d57b9b6ac37059", null ],
+    [ "UpdateAI", "de/df6/a20046.html#ad863666aec3db81f73165148ffc98033", null ],
+    [ "_boundaryIntersect", "de/df6/a20046.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
 ];

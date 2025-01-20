@@ -1,5 +1,9 @@
 var a23462 =
 [
-    [ "modelId", "dd/d44/a23462.html#a6a7f030a6445a46fe55640356e9c5124", null ],
-    [ "spellId", "dd/d44/a23462.html#a6cfbffba97934cc420964f9b6d7645a3", null ]
+    [ "HandleEffectApply", "dd/d44/a23462.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "dd/d44/a23462.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "dd/d44/a23462.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "dd/d44/a23462.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "dd/d44/a23462.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "dd/d44/a23462.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

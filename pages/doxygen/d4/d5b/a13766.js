@@ -1,6 +1,6 @@
 var a13766 =
 [
-    [ "boss_mandokirAI", "d6/d8f/a13770.html", "d6/d8f/a13770" ],
-    [ "boss_mandokir", "d4/d5b/a13766.html#aad13c8302cef7fb4981f0d2178630def", null ],
-    [ "GetAI", "d4/d5b/a13766.html#a215842d5ab23824ec20db64e2fa4407e", null ]
+    [ "OnRemove", "d4/d5b/a13766.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
+    [ "PrepareAuraScript", "d4/d5b/a13766.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
+    [ "Register", "d4/d5b/a13766.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
 ];

@@ -1,6 +1,6 @@
 var a24222 =
 [
-    [ "HandlePeriodic", "da/d67/a24222.html#adc387a1b001119b95179856c030853ad", null ],
-    [ "PrepareAuraScript", "da/d67/a24222.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
-    [ "Register", "da/d67/a24222.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
+    [ "HandleProc", "da/d67/a24222.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
+    [ "PrepareAuraScript", "da/d67/a24222.html#a2840931b939b95e6a476c07f08ca66b5", null ],
+    [ "Register", "da/d67/a24222.html#ae769fddc14aed4d1055d2f947d292fcf", null ]
 ];

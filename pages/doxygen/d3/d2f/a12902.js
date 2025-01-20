@@ -1,8 +1,13 @@
 var a12902 =
 [
-    [ "FilterTargets", "d3/d2f/a12902.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
-    [ "HandleScript", "d3/d2f/a12902.html#aecb62c147905d0a4fe60086b8028df0b", null ],
-    [ "PrepareSpellScript", "d3/d2f/a12902.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
-    [ "Register", "d3/d2f/a12902.html#a2832f131d99608923ade8070e17da86d", null ],
-    [ "Validate", "d3/d2f/a12902.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "d3/d2f/a12902.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
+    [ "Initialize", "d3/d2f/a12902.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
+    [ "OnCreatureCreate", "d3/d2f/a12902.html#a3f9cca96886b97f7657edc04f4997d41", null ],
+    [ "OnGameObjectCreate", "d3/d2f/a12902.html#ad420b6b549b8d76a80844d81548b1143", null ],
+    [ "ReadSaveDataMore", "d3/d2f/a12902.html#a83a24703aafb973809618d3ac3ac0375", null ],
+    [ "SetData", "d3/d2f/a12902.html#abdc105e9306d9abc776259be97e2488f", null ],
+    [ "WriteSaveDataMore", "d3/d2f/a12902.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
+    [ "_apothecaryHummel", "d3/d2f/a12902.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
+    [ "_crazedApothecaryGeneratorGUIDs", "d3/d2f/a12902.html#a00880eedbbc2deb4dc36e4c851558861", null ],
+    [ "_encounters", "d3/d2f/a12902.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
 ];

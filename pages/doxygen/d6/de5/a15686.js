@@ -1,8 +1,7 @@
 var a15686 =
 [
-    [ "boss_sartharion_shadronAI", "d6/de5/a15686.html#a02e2e657ac74ab37a4568589511de664", null ],
-    [ "ExecuteEvent", "d6/de5/a15686.html#a6a26f1f777988be6eaf8b1a675bbbabb", null ],
-    [ "HandleExtraEvent", "d6/de5/a15686.html#a3db5e816f6253f9c4251690bfbbe1912", null ],
-    [ "Reset", "d6/de5/a15686.html#a7054cde1de2166c2b06489187115cb3f", null ],
-    [ "SummonedCreatureDies", "d6/de5/a15686.html#a8b70b3b7287108ad13caeb85a83cf26f", null ]
+    [ "HandleHit", "d6/de5/a15686.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
+    [ "PrepareSpellScript", "d6/de5/a15686.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
+    [ "Register", "d6/de5/a15686.html#af132eee38064c5123f4e01d52efb9314", null ],
+    [ "Validate", "d6/de5/a15686.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
 ];

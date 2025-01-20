@@ -1,7 +1,7 @@
 var a22518 =
 [
-    [ "OnPeriodic", "d9/d53/a22518.html#a165d47b116b0a53e37b05f664960e6ec", null ],
-    [ "PrepareAuraScript", "d9/d53/a22518.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
-    [ "Register", "d9/d53/a22518.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
-    [ "Validate", "d9/d53/a22518.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
+    [ "boss_lady_malande", "d9/d53/a22518.html#a8cb693d203463dcba809e7ffc23c6868", null ],
+    [ "AttackStart", "d9/d53/a22518.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
+    [ "JustEngagedWith", "d9/d53/a22518.html#af4b5f376e387851e15517de03636acde", null ],
+    [ "UpdateAI", "d9/d53/a22518.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
 ];

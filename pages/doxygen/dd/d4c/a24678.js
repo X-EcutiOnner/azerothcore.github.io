@@ -1,6 +1,8 @@
 var a24678 =
 [
-    [ "HandleDummy", "dd/d4c/a24678.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
-    [ "PrepareSpellScript", "dd/d4c/a24678.html#af310c2b28ed816b9fbe494f81c42043c", null ],
-    [ "Register", "dd/d4c/a24678.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
+    [ "CheckProc", "dd/d4c/a24678.html#a88cdab428be20027d939fe4765afc9e0", null ],
+    [ "HandleProc", "dd/d4c/a24678.html#a8e49a1bc11fdfc1b7d3f8225c890206f", null ],
+    [ "PrepareAuraScript", "dd/d4c/a24678.html#a33f53dc5834a3be78e24a1a58bdfd15a", null ],
+    [ "Register", "dd/d4c/a24678.html#aacb126d871c0df43f5096124b8cda376", null ],
+    [ "Validate", "dd/d4c/a24678.html#aa81adc61bd1149d9c43c4670f02a91ba", null ]
 ];

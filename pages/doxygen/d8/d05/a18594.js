@@ -1,5 +1,6 @@
 var a18594 =
 [
-    [ "at_frozen_throne_teleport", "d8/d05/a18594.html#a8065b9f9b55b267be1757775f84de349", null ],
-    [ "OnTrigger", "d8/d05/a18594.html#ae1f9476b7f47320f545e702e9317bd03", null ]
+    [ "npc_isle_of_conquest_turretAI", "d1/dad/a18598.html", "d1/dad/a18598" ],
+    [ "npc_isle_of_conquest_turret", "d8/d05/a18594.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "d8/d05/a18594.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

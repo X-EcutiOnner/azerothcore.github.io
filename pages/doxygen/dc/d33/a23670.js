@@ -1,6 +1,7 @@
 var a23670 =
 [
-    [ "npc_deaths_fel_cannonAI", "df/d1c/a23674.html", "df/d1c/a23674" ],
-    [ "npc_deaths_fel_cannon", "dc/d33/a23670.html#a87ecaca75061928600b5114d3913dd26", null ],
-    [ "GetAI", "dc/d33/a23670.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
+    [ "npc_daranelleAI", "dc/d33/a23670.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "dc/d33/a23670.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "dc/d33/a23670.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "dc/d33/a23670.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

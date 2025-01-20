@@ -1,6 +1,6 @@
 var a15470 =
 [
-    [ "npc_sergeant_blyAI", "de/d0e/a15474.html", "de/d0e/a15474" ],
-    [ "npc_sergeant_bly", "dc/dc8/a15470.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
-    [ "GetAI", "dc/dc8/a15470.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
+    [ "npc_shadowpriest_sezzizAI", "de/d0e/a15474.html", "de/d0e/a15474" ],
+    [ "npc_shadowpriest_sezziz", "dc/dc8/a15470.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
+    [ "GetAI", "dc/dc8/a15470.html#a1513b766f18dbc290b6682582fd33b1d", null ]
 ];

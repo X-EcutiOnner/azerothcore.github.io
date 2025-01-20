@@ -1,8 +1,7 @@
 var a25018 =
 [
-    [ "HandleApply", "db/d4f/a25018.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
-    [ "OnPeriodic", "db/d4f/a25018.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
-    [ "PrepareAuraScript", "db/d4f/a25018.html#a344d1a92623865876174c0e88ce8ab4b", null ],
-    [ "Register", "db/d4f/a25018.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
-    [ "Validate", "db/d4f/a25018.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
+    [ "HandleScript", "db/d4f/a25018.html#a27e2575e538732ac76add53f2f8f6832", null ],
+    [ "PrepareSpellScript", "db/d4f/a25018.html#ad7c98be6cca23fb1484a6b77bcc7bc9d", null ],
+    [ "Register", "db/d4f/a25018.html#a4ee74f6d8a61a8ba38ece33176c18f84", null ],
+    [ "Validate", "db/d4f/a25018.html#aef9eef1819652e0fce1cd4b3ba9c387c", null ]
 ];

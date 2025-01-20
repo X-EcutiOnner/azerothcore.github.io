@@ -1,8 +1,6 @@
 var a16030 =
 [
-    [ "npc_announcer_toc5AI", "d3/d47/a16030.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "d3/d47/a16030.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "d3/d47/a16030.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "d3/d47/a16030.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "d3/d47/a16030.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "npc_frost_sphereAI", "d5/d77/a16034.html", "d5/d77/a16034" ],
+    [ "npc_frost_sphere", "d3/d47/a16030.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "d3/d47/a16030.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

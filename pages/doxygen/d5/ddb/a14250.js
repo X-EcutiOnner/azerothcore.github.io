@@ -1,6 +1,6 @@
 var a14250 =
 [
-    [ "PrepareAuraScript", "d5/ddb/a14250.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "d5/ddb/a14250.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "d5/ddb/a14250.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "HandleTriggerSpell", "d5/ddb/a14250.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
+    [ "PrepareSpellScript", "d5/ddb/a14250.html#a76a070da8e719198463010499f595599", null ],
+    [ "Register", "d5/ddb/a14250.html#ae237c4972167a5a17b59800983496a9d", null ]
 ];

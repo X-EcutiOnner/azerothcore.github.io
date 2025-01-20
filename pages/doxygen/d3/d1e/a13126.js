@@ -1,6 +1,6 @@
 var a13126 =
 [
-    [ "FilterTargets", "d3/d1e/a13126.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
-    [ "PrepareSpellScript", "d3/d1e/a13126.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
-    [ "Register", "d3/d1e/a13126.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
+    [ "PrepareSpellScript", "d3/d1e/a13126.html#a6a9436d744865971e635f23c2b331688", null ],
+    [ "Register", "d3/d1e/a13126.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
+    [ "SetDest", "d3/d1e/a13126.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
 ];

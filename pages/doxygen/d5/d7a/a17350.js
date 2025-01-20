@@ -1,6 +1,6 @@
 var a17350 =
 [
-    [ "PrepareSpellScript", "d5/d7a/a17350.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "d5/d7a/a17350.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "d5/d7a/a17350.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "IgbTeleportOnVictoryCheck", "d5/d7a/a17350.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "d5/d7a/a17350.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "d5/d7a/a17350.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

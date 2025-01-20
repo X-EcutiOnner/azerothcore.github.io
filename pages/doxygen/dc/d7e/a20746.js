@@ -1,11 +1,18 @@
 var a20746 =
 [
-    [ "npc_ulduar_storm_tempered_keeperAI", "dc/d7e/a20746.html#a97ffe70fab090c7182b2a8dce3c7c54f", null ],
-    [ "JustDied", "dc/d7e/a20746.html#a4778b4c1d7afedc4c8ea3a0b2c2509e1", null ],
-    [ "JustEngagedWith", "dc/d7e/a20746.html#a5ae632ba4da1e78dfa6980fce492ec8e", null ],
-    [ "JustSummoned", "dc/d7e/a20746.html#a7962e2148fb55d96cde4e2fed48e71f4", null ],
-    [ "Reset", "dc/d7e/a20746.html#a521fd2c3f8fb1319daaecfb203d9ebb8", null ],
-    [ "UpdateAI", "dc/d7e/a20746.html#a9d5bc84572934b4fba19d2996e1c89f0", null ],
-    [ "events", "dc/d7e/a20746.html#a0281fd23155c73768a09f60b3a04ce9d", null ],
-    [ "otherGUID", "dc/d7e/a20746.html#a627aa7ff4ffe264d4ea3e78469954170", null ]
+    [ "boss_ingvar_the_plunderer", "dc/d7e/a20746.html#af37159882b0faabe46e6f7c26ea84913", null ],
+    [ "DamageTaken", "dc/d7e/a20746.html#a14ec746bb57e77373e4c3f924dd9f952", null ],
+    [ "EnterEvadeMode", "dc/d7e/a20746.html#a5bd8e575292b487a3381854f5ae87306", null ],
+    [ "FeignDeath", "dc/d7e/a20746.html#afb732c1e7c74e88f63b2c3eee5ba3dd3", null ],
+    [ "JustDied", "dc/d7e/a20746.html#ab3b0ea55dfb6bb90f7d60fec7f2ff8ff", null ],
+    [ "JustEngagedWith", "dc/d7e/a20746.html#aedd8ccb3ab3b89cae9d80443ffa3edaa", null ],
+    [ "JustSummoned", "dc/d7e/a20746.html#a9101d4c988585f221b503971df87621b", null ],
+    [ "KilledUnit", "dc/d7e/a20746.html#ae8d5a148c7089f644db8ee686a04a2a8", null ],
+    [ "Reset", "dc/d7e/a20746.html#a57ecf5f8008714c3f067afe5a2ec2ffe", null ],
+    [ "UpdateAI", "dc/d7e/a20746.html#a59ee4cc1cf9cfe95ac77bdb637d01f71", null ],
+    [ "events", "dc/d7e/a20746.html#ae2155e079dc748bfa1026a05916a8534", null ],
+    [ "pInstance", "dc/d7e/a20746.html#ad4855d14fe94168f454a6b77a1ce5fde", null ],
+    [ "summons", "dc/d7e/a20746.html#a687b5cd37794ff530180f6ba5c208162", null ],
+    [ "ThrowGUID", "dc/d7e/a20746.html#af3b3c0ff36d28a3a7151a27a13879fe2", null ],
+    [ "ValkyrGUID", "dc/d7e/a20746.html#a556e9720346ba84a858170bfd8e9f358", null ]
 ];

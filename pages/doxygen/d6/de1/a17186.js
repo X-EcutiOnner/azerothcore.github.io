@@ -1,7 +1,7 @@
 var a17186 =
 [
-    [ "FilterTargets", "d6/de1/a17186.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
-    [ "Load", "d6/de1/a17186.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
-    [ "PrepareSpellScript", "d6/de1/a17186.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
-    [ "Register", "d6/de1/a17186.html#a33342cc676adaabe5e3896fa559631b7", null ]
+    [ "HandleScript", "d6/de1/a17186.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
+    [ "Load", "d6/de1/a17186.html#ab1d81386ae3ccd332c01864d7f456017", null ],
+    [ "PrepareSpellScript", "d6/de1/a17186.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
+    [ "Register", "d6/de1/a17186.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
 ];

@@ -1,6 +1,11 @@
 var a29256 =
 [
-    [ "go_fel_crystalforge", "db/dea/a29256.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "db/dea/a29256.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "db/dea/a29256.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "_ACORE_REALM_CONFIG", "db/dea/a29256.html#a139668c786d564a415e0626b3344dc83", null ],
+    [ "BanExpiryHandler", "db/dea/a29256.html#a625d6480b04e88fcbc85e5b8d29502a6", null ],
+    [ "GetConsoleArguments", "db/dea/a29256.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
+    [ "KeepDatabaseAliveHandler", "db/dea/a29256.html#a56e4613e7e60d171b9ce45f52758a057", null ],
+    [ "main", "db/dea/a29256.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "SignalHandler", "db/dea/a29256.html#abb73d9c1332263ddf049505e1b12672d", null ],
+    [ "StartDB", "db/dea/a29256.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
+    [ "StopDB", "db/dea/a29256.html#ga927af1587546ee7503a3b9a18f6439c0", null ]
 ];

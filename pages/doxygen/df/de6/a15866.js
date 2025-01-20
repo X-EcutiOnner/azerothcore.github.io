@@ -1,6 +1,6 @@
 var a15866 =
 [
-    [ "HandlePeriodic", "df/de6/a15866.html#a7753587518171689f86f3f76269c1b8a", null ],
-    [ "PrepareAuraScript", "df/de6/a15866.html#aa73351e7200bee94b0068fb8dabfada5", null ],
-    [ "Register", "df/de6/a15866.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
+    [ "npc_living_infernoAI", "d4/d2f/a15870.html", "d4/d2f/a15870" ],
+    [ "npc_living_inferno", "df/de6/a15866.html#a7df2bb522e67b6f1864604c7b0182078", null ],
+    [ "GetAI", "df/de6/a15866.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
 ];

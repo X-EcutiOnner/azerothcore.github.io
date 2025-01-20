@@ -1,8 +1,6 @@
 var a23162 =
 [
-    [ "npc_underbat", "dd/df4/a23162.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "dd/df4/a23162.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "dd/df4/a23162.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "dd/df4/a23162.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "dd/df4/a23162.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "HandleScriptEffect", "dd/df4/a23162.html#abba5817280db6579e3e6e0b964655c6e", null ],
+    [ "PrepareSpellScript", "dd/df4/a23162.html#a846fa43c9907ddb6243c006327757a1c", null ],
+    [ "Register", "dd/df4/a23162.html#a7daa26f4035912bff4811b0bfee35fee", null ]
 ];

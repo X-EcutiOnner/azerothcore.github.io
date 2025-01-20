@@ -1,10 +1,5 @@
 var a27094 =
 [
-    [ "guard_shattrath_scryerAI", "dd/dba/a27094.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "dd/dba/a27094.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "dd/dba/a27094.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "dd/dba/a27094.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "dd/dba/a27094.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "dd/dba/a27094.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "dd/dba/a27094.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "item_disgusting_jar", "dd/dba/a27094.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "dd/dba/a27094.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

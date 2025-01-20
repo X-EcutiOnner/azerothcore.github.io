@@ -1,7 +1,6 @@
 var a24758 =
 [
-    [ "HandleEffectApply", "dc/d8b/a24758.html#a65ad32ded4246c3469f15b6ab167830e", null ],
-    [ "HandleEffectRemove", "dc/d8b/a24758.html#a8aab4a5dab173bd0296843a0c2991142", null ],
-    [ "PrepareAuraScript", "dc/d8b/a24758.html#a4925868cc5b61b7f35d59fdb27af27b6", null ],
-    [ "Register", "dc/d8b/a24758.html#a0635d5e34bfc62df1ec006b7818bffb2", null ]
+    [ "PrepareSpellScript", "dc/d8b/a24758.html#a47d6dbe250410458fe54421158545efb", null ],
+    [ "Register", "dc/d8b/a24758.html#ae2334b3fcfa916eb4b9ae1ca85a9687e", null ],
+    [ "SetDest", "dc/d8b/a24758.html#aa037240eae1a1dd2c2670fed7dcc4e8c", null ]
 ];

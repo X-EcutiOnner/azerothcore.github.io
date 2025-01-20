@@ -1,7 +1,10 @@
 var a16222 =
 [
-    [ "HandleDispel", "d7/dfb/a16222.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "d7/dfb/a16222.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "d7/dfb/a16222.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "d7/dfb/a16222.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "npc_mistress_of_painAI", "d7/dfb/a16222.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "d7/dfb/a16222.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "d7/dfb/a16222.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "d7/dfb/a16222.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "d7/dfb/a16222.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "d7/dfb/a16222.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "d7/dfb/a16222.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

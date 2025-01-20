@@ -1,11 +1,12 @@
 var a13282 =
 [
-    [ "npc_supervisor_raelen", "d1/d6e/a13282.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "d1/d6e/a13282.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "d1/d6e/a13282.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "d1/d6e/a13282.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "d1/d6e/a13282.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "d1/d6e/a13282.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "d1/d6e/a13282.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "d1/d6e/a13282.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "npc_sentinel_infiltrator", "d1/d6e/a13282.html#a40ce6808a4d0622eb88a669485335020", null ],
+    [ "Initialize", "d1/d6e/a13282.html#acc94269a3ede4c897f457a270e9a9c12", null ],
+    [ "JustEngagedWith", "d1/d6e/a13282.html#a2c9927468b92d00b60efac851eacfef1", null ],
+    [ "MovementInform", "d1/d6e/a13282.html#a57aef1c4ce7a491408c2c6b19d4d4cf2", null ],
+    [ "Reset", "d1/d6e/a13282.html#a0f26dbe23efdf572f81723dff1d3eeaf", null ],
+    [ "UpdateAI", "d1/d6e/a13282.html#ac676246948689c891c0f9cca7f8bc8b6", null ],
+    [ "_events", "d1/d6e/a13282.html#a296d6c70b6c439319cc69a9d39005e62", null ],
+    [ "_fleedForAssistance", "d1/d6e/a13282.html#a948c9d2081b33e18aa927fb18598c8ad", null ],
+    [ "_path", "d1/d6e/a13282.html#a32d531478df327ccb0bb85e262420813", null ]
 ];

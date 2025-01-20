@@ -1,11 +1,8 @@
 var a15154 =
 [
-    [ "npc_troll_volunteerAI", "da/d67/a15154.html#a7eb0c508122616a6781c8b23210e4062", null ],
-    [ "GetMountId", "da/d67/a15154.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
-    [ "InitializeAI", "da/d67/a15154.html#a1c758c7601624e0620778e13e8ec60a0", null ],
-    [ "MovementInform", "da/d67/a15154.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
-    [ "Reset", "da/d67/a15154.html#a31439533de41c2a459af2b4d3af76139", null ],
-    [ "SpellHit", "da/d67/a15154.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
-    [ "_complete", "da/d67/a15154.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
-    [ "_mountModel", "da/d67/a15154.html#ae226345bd324b9c337dc96570117d82b", null ]
+    [ "FilterTargets", "da/d67/a15154.html#a47b8055fa1b28968e8323ca98613aa83", null ],
+    [ "HandleScript", "da/d67/a15154.html#a8f7984e510d8947a2ae4b0734409866b", null ],
+    [ "PrepareSpellScript", "da/d67/a15154.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
+    [ "Register", "da/d67/a15154.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
+    [ "Validate", "da/d67/a15154.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
 ];

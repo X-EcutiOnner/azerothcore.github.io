@@ -1,10 +1,8 @@
 var a27898 =
 [
-    [ "ID", "df/d0c/a27898.html#a906c42770a619884f08b67e2870bff93", null ],
-    [ "reqarenapoints", "df/d0c/a27898.html#a5d45007a832d6120e29c7821c07646de", null ],
-    [ "reqarenaslot", "df/d0c/a27898.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
-    [ "reqhonorpoints", "df/d0c/a27898.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
-    [ "reqitem", "df/d0c/a27898.html#a9cba8872c909260a55dcfdf7f4726899", null ],
-    [ "reqitemcount", "df/d0c/a27898.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
-    [ "reqpersonalarenarating", "df/d0c/a27898.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
+    [ "Id", "df/d0c/a27898.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "df/d0c/a27898.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "df/d0c/a27898.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "df/d0c/a27898.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "df/d0c/a27898.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

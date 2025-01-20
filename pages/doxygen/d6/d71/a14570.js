@@ -1,8 +1,10 @@
 var a14570 =
 [
-    [ "Load", "d6/d71/a14570.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
-    [ "PeriodicTick", "d6/d71/a14570.html#ae4761ac3bce02903a7266511d80503f9", null ],
-    [ "PrepareAuraScript", "d6/d71/a14570.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
-    [ "Register", "d6/d71/a14570.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
-    [ "_ticks", "d6/d71/a14570.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
+    [ "CurrId", "d6/d71/a14570.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
+    [ "DestId", "d6/d71/a14570.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
+    [ "o", "d6/d71/a14570.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
+    [ "spellId", "d6/d71/a14570.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
+    [ "x", "d6/d71/a14570.html#a41c7bdb057d984f552a41835651d84f5", null ],
+    [ "y", "d6/d71/a14570.html#abe083129d7a4e514e97eeae7cff40af5", null ],
+    [ "z", "d6/d71/a14570.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
 ];

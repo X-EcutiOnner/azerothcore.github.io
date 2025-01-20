@@ -1,9 +1,12 @@
 var a13630 =
 [
-    [ "npc_amanishi_scout", "d1/db3/a13630.html#a74bed56c21c184e661f62c30ce6d9140", null ],
-    [ "JustEngagedWith", "d1/db3/a13630.html#a5969fadd871094e993c4d3fe0b08054c", null ],
-    [ "MovementInform", "d1/db3/a13630.html#a49585a3a67d934aed21919223201cb4e", null ],
-    [ "Reset", "d1/db3/a13630.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
-    [ "ScheduleCombat", "d1/db3/a13630.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
-    [ "UpdateAI", "d1/db3/a13630.html#a3740a4fde31e1e81edb34dde61403acc", null ]
+    [ "npc_zulian_prowlerAI", "d1/db3/a13630.html#a367613efead335b060173011267ddcff", null ],
+    [ "JustDied", "d1/db3/a13630.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
+    [ "JustEngagedWith", "d1/db3/a13630.html#a207504b15ecd22b78088593b80433581", null ],
+    [ "Reset", "d1/db3/a13630.html#a62d14bae970d8a70a997c683e0e94259", null ],
+    [ "SpellHit", "d1/db3/a13630.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
+    [ "UpdateAI", "d1/db3/a13630.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
+    [ "_events", "d1/db3/a13630.html#a994ae5b4e72429141155d1342830e5ad", null ],
+    [ "_instance", "d1/db3/a13630.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
+    [ "_sideData", "d1/db3/a13630.html#afa44e09c5677c2fc567be6a67b766bde", null ]
 ];

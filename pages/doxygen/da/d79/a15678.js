@@ -1,11 +1,8 @@
 var a15678 =
 [
-    [ "boss_sartharion_tenebronAI", "da/d79/a15678.html#a9996fce9320390ead967ad82bcef9554", null ],
-    [ "ClearInstance", "da/d79/a15678.html#af9e0459fff845bf4f6e53d06e4a9447f", null ],
-    [ "ExecuteEvent", "da/d79/a15678.html#a6a7f8255aa1dcbb979354467d0e6949d", null ],
-    [ "HandleExtraEvent", "da/d79/a15678.html#ad78a939f0584b775e29341ff08f0eee1", null ],
-    [ "JustDied", "da/d79/a15678.html#ac3e03263a174dd147854fa6d714ec003", null ],
-    [ "JustSummoned", "da/d79/a15678.html#a50d000b322e3d3a61cc02dea96c2979d", null ],
-    [ "Reset", "da/d79/a15678.html#a1aa8277ddc91989ed7480d4221a6e534", null ],
-    [ "summons2", "da/d79/a15678.html#a5060b01175ece5ad782e96bdf3d2c82d", null ]
+    [ "npc_twilight_summonAI", "da/d79/a15678.html#a8f5dfe54a5ac1d7a058c5efb9bead77a", null ],
+    [ "DoAction", "da/d79/a15678.html#aac4c1e3bc635b30f1ceed8b25f2c7829", null ],
+    [ "Reset", "da/d79/a15678.html#a1174c827aef1b05603214e4717c78f8a", null ],
+    [ "UpdateAI", "da/d79/a15678.html#addb312c34c668b8189087de6cf89543b", null ],
+    [ "fadeArmorTimer", "da/d79/a15678.html#ace4028c8f4d0240b4e2939481312d0d2", null ]
 ];

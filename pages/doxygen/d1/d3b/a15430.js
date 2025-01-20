@@ -1,6 +1,6 @@
 var a15430 =
 [
-    [ "SayerEntry", "d1/d3b/a15430.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
-    [ "SayTimer", "d1/d3b/a15430.html#a942073f24fd12da712184243d9f098f2", null ],
-    [ "TextEntry", "d1/d3b/a15430.html#a360822e4c069be6019c0a465cb2499cf", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "d5/d9f/a15434.html", "d5/d9f/a15434" ],
+    [ "instance_zulfarrak", "d1/d3b/a15430.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "d1/d3b/a15430.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

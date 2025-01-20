@@ -1,6 +1,10 @@
 var a27234 =
 [
-    [ "npc_training_dummyAI", "d2/d6f/a27238.html", "d2/d6f/a27238" ],
-    [ "npc_training_dummy", "da/d05/a27234.html#acfed4da3b1a01bc58e599d2dc134cb7d", null ],
-    [ "GetAI", "da/d05/a27234.html#a87a48a42e8349ce9125de91a429d4ffa", null ]
+    [ "npc_air_force_botsAI", "da/d05/a27234.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "da/d05/a27234.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "da/d05/a27234.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "da/d05/a27234.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "da/d05/a27234.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "da/d05/a27234.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "da/d05/a27234.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

@@ -1,9 +1,11 @@
 var a16794 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d2/dc3/a16794.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
-    [ "SpellHitTarget", "d2/dc3/a16794.html#aea107ede3b11726b3f7caae590edaf52", null ],
-    [ "UpdateAI", "d2/dc3/a16794.html#ade416a422e67ce61e8874320cce7143b", null ],
-    [ "pInstance", "d2/dc3/a16794.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
-    [ "timer1", "d2/dc3/a16794.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
-    [ "timer2", "d2/dc3/a16794.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
+    [ "npc_pos_leader_secondAI", "d2/dc3/a16794.html#a2ded8591da2548921cd016d592d1f1c8", null ],
+    [ "DoAction", "d2/dc3/a16794.html#a941d3b42d6a0e58496b724af56fee44a", null ],
+    [ "MovementInform", "d2/dc3/a16794.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
+    [ "SpellHitTarget", "d2/dc3/a16794.html#ae630b7b225379831d15a11f66507bc6a", null ],
+    [ "UpdateAI", "d2/dc3/a16794.html#a640aea9ce4a47dd13d417748e533fc33", null ],
+    [ "barrierGUID", "d2/dc3/a16794.html#a452c096475581c12bf2f4ccb12448026", null ],
+    [ "events", "d2/dc3/a16794.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
+    [ "pInstance", "d2/dc3/a16794.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
 ];

@@ -1,9 +1,7 @@
 var a16662 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d2/dfd/a16662.html#acd33d4811521f6d41bce21270198db45", null ],
-    [ "JustDied", "d2/dfd/a16662.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
-    [ "JustEngagedWith", "d2/dfd/a16662.html#a54378daf294fcbee4ba1abf14927cc52", null ],
-    [ "Reset", "d2/dfd/a16662.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
-    [ "UpdateAI", "d2/dfd/a16662.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
-    [ "events", "d2/dfd/a16662.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
+    [ "UtherBatteredHiltEvent", "d2/dfd/a16662.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "d2/dfd/a16662.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "d2/dfd/a16662.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "d2/dfd/a16662.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

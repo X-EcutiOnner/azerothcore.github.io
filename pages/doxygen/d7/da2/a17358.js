@@ -1,8 +1,6 @@
 var a17358 =
 [
-    [ "Load", "d7/da2/a17358.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
-    [ "PrepareSpellScript", "d7/da2/a17358.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
-    [ "Register", "d7/da2/a17358.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
-    [ "RelocateDest", "d7/da2/a17358.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
-    [ "SelectTransport", "d7/da2/a17358.html#a0564852176d80ee6593baa3abb18238a", null ]
+    [ "HandlePeriodicTick", "d7/da2/a17358.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "d7/da2/a17358.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "d7/da2/a17358.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

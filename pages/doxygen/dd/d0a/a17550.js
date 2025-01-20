@@ -1,6 +1,6 @@
 var a17550 =
 [
-    [ "boss_professor_putricideAI", "d2/d4b/a17554.html", "d2/d4b/a17554" ],
-    [ "boss_professor_putricide", "dd/d0a/a17550.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "dd/d0a/a17550.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "npc_gas_cloudAI", "dd/d0a/a17550.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
+    [ "CastMainSpell", "dd/d0a/a17550.html#a61681f6f9616fe33274302d4160c709b", null ],
+    [ "_newTargetSelectTimer", "dd/d0a/a17550.html#a6989b904abaa5b71362e43664f4b084d", null ]
 ];

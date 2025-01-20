@@ -1,6 +1,7 @@
 var a13274 =
 [
-    [ "npc_augustus_the_touched", "d1/d4e/a13274.html#abc84c884345f44cf780410569cdee10c", null ],
-    [ "OnGossipHello", "d1/d4e/a13274.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
-    [ "OnGossipSelect", "d1/d4e/a13274.html#a992da9b22693c1fac1148b4ba545b819", null ]
+    [ "npc_ranger_lilatha", "d1/d4e/a13274.html#abd13a89b41a289edefb9bc21588f8d29", null ],
+    [ "Reset", "d1/d4e/a13274.html#a3e804e483b51961193ee1079caba40be", null ],
+    [ "sQuestAccept", "d1/d4e/a13274.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
+    [ "WaypointReached", "d1/d4e/a13274.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
 ];

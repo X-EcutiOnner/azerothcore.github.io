@@ -1,6 +1,6 @@
 var a20022 =
 [
-    [ "boss_ignisAI", "de/dda/a20026.html", "de/dda/a20026" ],
-    [ "boss_ignis", "df/d1d/a20022.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
-    [ "GetAI", "df/d1d/a20022.html#ac11ff148e9cbc985875f859268a3de01", null ]
+    [ "boss_kologarnAI", "de/dda/a20026.html", "de/dda/a20026" ],
+    [ "boss_kologarn", "df/d1d/a20022.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
+    [ "GetAI", "df/d1d/a20022.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
 ];

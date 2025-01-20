@@ -1,6 +1,7 @@
 var a13110 =
 [
-    [ "FixOrientation", "d8/d4f/a13110.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
-    [ "Execute", "d8/d4f/a13110.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
-    [ "_owner", "d8/d4f/a13110.html#a5f12db3774bdeef25a300780c00db1fb", null ]
+    [ "HandleRemove", "d8/d4f/a13110.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
+    [ "PrepareAuraScript", "d8/d4f/a13110.html#a6fa407996b59d98d0eeef877ee89784d", null ],
+    [ "Register", "d8/d4f/a13110.html#a7dc81b47954ee8c10b99f389740de0be", null ],
+    [ "Validate", "d8/d4f/a13110.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
 ];

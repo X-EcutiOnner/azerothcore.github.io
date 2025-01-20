@@ -1,13 +1,7 @@
 var a26058 =
 [
-    [ "spell_generic_quest_update_entry_SpellScript", "d4/dfc/a26058.html#ac4308aa1d8701e79888046e1c19137a7", null ],
-    [ "HandleDummy", "d4/dfc/a26058.html#a891c357279ecee2e7fce323761607285", null ],
-    [ "PrepareSpellScript", "d4/dfc/a26058.html#a3bf2605d8aa31e694b479f0de9f1703e", null ],
-    [ "Register", "d4/dfc/a26058.html#af04e51cff5344f1acef7607080501736", null ],
-    [ "_despawnTime", "d4/dfc/a26058.html#a0495a98565cd8292c252745956206743", null ],
-    [ "_effIndex", "d4/dfc/a26058.html#a46dd459dc324dfea871c93a0b3b5d8f1", null ],
-    [ "_newEntry", "d4/dfc/a26058.html#ad76d907c9200985e9aa1e2c5006d0c46", null ],
-    [ "_originalEntry", "d4/dfc/a26058.html#ad7d8ddda30c4b9f322ddaee8b014c233", null ],
-    [ "_shouldAttack", "d4/dfc/a26058.html#acf0c48dd134c5e8bb207983e8f520f22", null ],
-    [ "_spellEffect", "d4/dfc/a26058.html#af02e04bbac8a4ad1d84c72b7f337249e", null ]
+    [ "HandleEffectApply", "d4/dfc/a26058.html#a475d0bab96e226853368be3b68c5a2d3", null ],
+    [ "HandleEffectRemove", "d4/dfc/a26058.html#aa22a095e40789ac562a64c20d7eadb28", null ],
+    [ "PrepareAuraScript", "d4/dfc/a26058.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
+    [ "Register", "d4/dfc/a26058.html#a91e75a059828a30d509fd22be19048f8", null ]
 ];

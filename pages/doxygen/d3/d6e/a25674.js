@@ -1,9 +1,12 @@
 var a25674 =
 [
-    [ "HandleAfterCast", "d3/d6e/a25674.html#afd2fbc51ac1e99789994021af36688f3", null ],
-    [ "HandleTriggerSpell", "d3/d6e/a25674.html#ae140ab00101f081454b55e12a7c54440", null ],
-    [ "Load", "d3/d6e/a25674.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
-    [ "PrepareSpellScript", "d3/d6e/a25674.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
-    [ "Register", "d3/d6e/a25674.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
-    [ "_triggerSpellId", "d3/d6e/a25674.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
+    [ "CalcPeriodic", "d3/d6e/a25674.html#a5b57273e0d9fc39a000c7bf4e232acb4", null ],
+    [ "CalculateAPAmount", "d3/d6e/a25674.html#a65b6f1a2b322c928fd9a5992380d2e95", null ],
+    [ "CalculateResistanceAmount", "d3/d6e/a25674.html#a3860e12ea334cb61a437941b6f9b81e0", null ],
+    [ "CalculateSPAmount", "d3/d6e/a25674.html#abf0d76c220911d88990f3071f14a9d5a", null ],
+    [ "CalculateStatAmount", "d3/d6e/a25674.html#a56489b52592e63dd00640de388926512", null ],
+    [ "HandleEffectApply", "d3/d6e/a25674.html#a5180cc8beb5244bd0b957dfc89dc9cf4", null ],
+    [ "HandlePeriodic", "d3/d6e/a25674.html#a67cb7b817f29dd41aa7d0dc8c87dc820", null ],
+    [ "PrepareAuraScript", "d3/d6e/a25674.html#a5b65221c67283a29cbeb63cafe64457a", null ],
+    [ "Register", "d3/d6e/a25674.html#acc22795ea812f31b0b9e21e6494c2d19", null ]
 ];

@@ -1,7 +1,11 @@
 var a15746 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "dd/da8/a15746.html#aed531e61508d4d404827f47c6348a5e6", null ],
-    [ "JustEngagedWith", "dd/da8/a15746.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
-    [ "UpdateAI", "dd/da8/a15746.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
-    [ "_events", "dd/da8/a15746.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
+    [ "boss_general_zarithrianAI", "dd/da8/a15746.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "dd/da8/a15746.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "dd/da8/a15746.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "dd/da8/a15746.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "dd/da8/a15746.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "dd/da8/a15746.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "dd/da8/a15746.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "dd/da8/a15746.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

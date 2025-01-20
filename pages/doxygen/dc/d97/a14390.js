@@ -1,6 +1,6 @@
 var a14390 =
 [
-    [ "HandleHeal", "dc/d97/a14390.html#a953536a9a393af9472bdd89018449df0", null ],
-    [ "PrepareSpellScript", "dc/d97/a14390.html#a70503fc6042001a860d361f2597b7153", null ],
-    [ "Register", "dc/d97/a14390.html#a383479896e6deb96e50b827370ccfd4d", null ]
+    [ "boss_epochAI", "dd/dc4/a14394.html", "dd/dc4/a14394" ],
+    [ "boss_epoch", "dc/d97/a14390.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
+    [ "GetAI", "dc/d97/a14390.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
 ];

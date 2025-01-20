@@ -1,7 +1,10 @@
 var a24026 =
 [
-    [ "HandlePeriodic", "d4/d05/a24026.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "d4/d05/a24026.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "d4/d05/a24026.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "d4/d05/a24026.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "npc_isla_starmaneAI", "d4/d05/a24026.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "d4/d05/a24026.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "d4/d05/a24026.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "d4/d05/a24026.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "d4/d05/a24026.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "d4/d05/a24026.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "events", "d4/d05/a24026.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

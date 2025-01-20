@@ -1,6 +1,6 @@
 var a18150 =
 [
-    [ "ManaVoidSelector", "d4/d85/a18150.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
-    [ "operator()", "d4/d85/a18150.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
-    [ "_source", "d4/d85/a18150.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d7/d4f/a18154.html", "d7/d4f/a18154" ],
+    [ "npc_green_dragon_combat_trigger", "d4/d85/a18150.html#acec675494f5e5e9609bf34b7f25cb569", null ],
+    [ "GetAI", "d4/d85/a18150.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
 ];

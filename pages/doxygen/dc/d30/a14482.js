@@ -1,6 +1,12 @@
 var a14482 =
 [
-    [ "npc_cos_stratholme_citizienAI", "de/d98/a14486.html", "de/d98/a14486" ],
-    [ "npc_cos_stratholme_citizien", "dc/d30/a14482.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "dc/d30/a14482.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "boss_lieutenant_drake", "dc/d30/a14482.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
+    [ "InitializeAI", "dc/d30/a14482.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
+    [ "JustDied", "dc/d30/a14482.html#aca7654e30aac96fa509f99f3447121ec", null ],
+    [ "JustEngagedWith", "dc/d30/a14482.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
+    [ "KilledUnit", "dc/d30/a14482.html#a833c889c28ea35a6198fe753b604a8ed", null ],
+    [ "MovementInform", "dc/d30/a14482.html#aec6e332bc5739552cbbec27569c55759", null ],
+    [ "UpdateAI", "dc/d30/a14482.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
+    [ "pathId", "dc/d30/a14482.html#ac63f9c885296a797799c0cd83b0ade64", null ],
+    [ "runSecondPath", "dc/d30/a14482.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
 ];

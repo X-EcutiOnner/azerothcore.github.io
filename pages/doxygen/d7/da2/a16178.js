@@ -1,7 +1,7 @@
 var a16178 =
 [
-    [ "npc_toc_dkAI", "d7/da2/a16178.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
-    [ "myCanCast", "d7/da2/a16178.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
-    [ "UpdateAI", "d7/da2/a16178.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
-    [ "events", "d7/da2/a16178.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
+    [ "npc_toc_retro_paladinAI", "d7/da2/a16178.html#afe933281cea61c9a4f3ded76290a3b72", null ],
+    [ "myCanCast", "d7/da2/a16178.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
+    [ "UpdateAI", "d7/da2/a16178.html#a105d6b9c133c1147b310826d7be416f5", null ],
+    [ "events", "d7/da2/a16178.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
 ];

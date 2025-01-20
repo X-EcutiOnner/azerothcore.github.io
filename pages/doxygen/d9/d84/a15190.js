@@ -1,6 +1,6 @@
 var a15190 =
 [
-    [ "HandleDummy", "d9/d84/a15190.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
-    [ "PrepareSpellScript", "d9/d84/a15190.html#adc581ed46587afcc8be3800ae79105f6", null ],
-    [ "Register", "d9/d84/a15190.html#a7d09808ea2fdec450fcd129e996bd245", null ]
+    [ "npc_omenAI", "dc/dbb/a15194.html", "dc/dbb/a15194" ],
+    [ "npc_omen", "d9/d84/a15190.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d9/d84/a15190.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

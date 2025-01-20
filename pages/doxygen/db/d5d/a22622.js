@@ -1,6 +1,6 @@
 var a22622 =
 [
-    [ "boss_essence_of_desireAI", "d9/d00/a22626.html", "d9/d00/a22626" ],
-    [ "boss_essence_of_desire", "db/d5d/a22622.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "db/d5d/a22622.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "HandleEffectRemove", "db/d5d/a22622.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
+    [ "PrepareAuraScript", "db/d5d/a22622.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
+    [ "Register", "db/d5d/a22622.html#acd7e22159d262a9888c744eecb978c09", null ]
 ];

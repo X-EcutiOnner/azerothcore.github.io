@@ -1,7 +1,6 @@
 var a17506 =
 [
-    [ "npc_coldflameAI", "d1/df7/a17506.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "d1/df7/a17506.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "d1/df7/a17506.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "d1/df7/a17506.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "PrepareSpellScript", "d1/df7/a17506.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "d1/df7/a17506.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "d1/df7/a17506.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

@@ -1,9 +1,14 @@
 var a18154 =
 [
-    [ "DelayedCastEvent", "d7/d4f/a18154.html#ae6d57612065d56ce79197aedebedf9f9", null ],
-    [ "Execute", "d7/d4f/a18154.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "d7/d4f/a18154.html#acc9e22eb1908e4c458199fc4cccd56c6", null ],
-    [ "_originalCaster", "d7/d4f/a18154.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "d7/d4f/a18154.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "d7/d4f/a18154.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d7/d4f/a18154.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
+    [ "AttackStart", "d7/d4f/a18154.html#a5457c18c60a8301ea60ef34d810a14c9", null ],
+    [ "CanAIAttack", "d7/d4f/a18154.html#aaf12ae21dddfa6b47ffa7880f65487a4", null ],
+    [ "DoAction", "d7/d4f/a18154.html#abbd08537ed245084ca7d4cf852a749a2", null ],
+    [ "EnterEvadeMode", "d7/d4f/a18154.html#a32bd4ed61bc62206ccedcf4acaeb8df8", null ],
+    [ "JustEngagedWith", "d7/d4f/a18154.html#ad7385306f8058699ee004b7bc5f1b538", null ],
+    [ "JustReachedHome", "d7/d4f/a18154.html#a2ae1c178a84c6d6899cf6400cb963e44", null ],
+    [ "MoveInLineOfSight", "d7/d4f/a18154.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
+    [ "Reset", "d7/d4f/a18154.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ],
+    [ "UpdateAI", "d7/d4f/a18154.html#a89ce158e08b3da1e54b0be6caa3950b8", null ],
+    [ "checkTimer", "d7/d4f/a18154.html#ae5c238e2e201c431ceccc59a3a26078b", null ]
 ];

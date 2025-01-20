@@ -1,12 +1,8 @@
 var a13782 =
 [
-    [ "npc_chained_spirit", "d1/dc7/a13782.html#a5f407e700a2086f971bed0e8c0def0db", null ],
-    [ "DoAction", "d1/dc7/a13782.html#a7205ef13ca0d164a9222c049bc582254", null ],
-    [ "JustDied", "d1/dc7/a13782.html#a3b405503231173e7ff7aa52e34f63da5", null ],
-    [ "MovementInform", "d1/dc7/a13782.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
-    [ "Reset", "d1/dc7/a13782.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
-    [ "SetGUID", "d1/dc7/a13782.html#acbe42c0692e8c1d671f2745ff8c2f9bb", null ],
-    [ "UpdateAI", "d1/dc7/a13782.html#a38d14b69c71bf2902a916028580fbfad", null ],
-    [ "instance", "d1/dc7/a13782.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
-    [ "revivePlayerGUID", "d1/dc7/a13782.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
+    [ "npc_spawn_of_marli", "d1/dc7/a13782.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "d1/dc7/a13782.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "d1/dc7/a13782.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "d1/dc7/a13782.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "d1/dc7/a13782.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

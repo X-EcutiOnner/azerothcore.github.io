@@ -1,7 +1,6 @@
 var a21422 =
 [
-    [ "npc_cosmetic_toy_plane", "d5/d22/a21422.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "d5/d22/a21422.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "d5/d22/a21422.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "d5/d22/a21422.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_future_youAI", "d3/dd6/a21426.html", "d3/dd6/a21426" ],
+    [ "npc_future_you", "d5/d22/a21422.html#a36e363156bcb32fee468989062817bd5", null ],
+    [ "GetAI", "d5/d22/a21422.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
 ];

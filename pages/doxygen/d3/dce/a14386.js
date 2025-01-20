@@ -1,8 +1,27 @@
 var a14386 =
 [
-    [ "hyjalTyrandeAI", "d3/dce/a14386.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
-    [ "JustDied", "d3/dce/a14386.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
-    [ "JustEngagedWith", "d3/dce/a14386.html#a158589b567d22c8f6e0be462bad8299d", null ],
-    [ "Reset", "d3/dce/a14386.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
-    [ "UpdateAI", "d3/dce/a14386.html#a9e825f9d87df6227b73eb965488eff8a", null ]
+    [ "instance_mount_hyjal_InstanceMapScript", "d3/dce/a14386.html#ab824542973eede5a3a3f7dc995e8cc28", null ],
+    [ "GetData", "d3/dce/a14386.html#ae30c50dfcced56db0c3f42c4deb2bef9", null ],
+    [ "Initialize", "d3/dce/a14386.html#ac3fffb02ed557b60e22852bdd79cdc9a", null ],
+    [ "OnCreatureCreate", "d3/dce/a14386.html#a28b8c1e3332dd9ccce42fd3fcb262e2f", null ],
+    [ "OnGameObjectCreate", "d3/dce/a14386.html#a2048cde72727c5d6b493d67b56ed91f8", null ],
+    [ "OnPlayerInWaterStateUpdate", "d3/dce/a14386.html#ac07e909721d1416608ea01e8819e3b00", null ],
+    [ "OnUnitDeath", "d3/dce/a14386.html#a1626532eb4df7ae481032fb9991c5d8f", null ],
+    [ "ScheduleWaves", "d3/dce/a14386.html#afdcceea6e0459b9c5c1e4098227d20dd", null ],
+    [ "SetData", "d3/dce/a14386.html#a87fd932691795e2d3fb9c8e6de12a20f", null ],
+    [ "Update", "d3/dce/a14386.html#a4f3824bd9afad19cbffa05c62fdf517b", null ],
+    [ "_ancientGemAlliance", "d3/dce/a14386.html#a1dc1a47ecf057b4d08e9827c5a859213", null ],
+    [ "_ancientGemHorde", "d3/dce/a14386.html#a3cd0132363583f8ab24f37e74743abd8", null ],
+    [ "_baseAlliance", "d3/dce/a14386.html#add9c97be76cdb85bb0cfd24bdf5c99e9", null ],
+    [ "_baseHorde", "d3/dce/a14386.html#a74d576ec11f4b6027b42ed503e54d3e3", null ],
+    [ "_baseNightElf", "d3/dce/a14386.html#a4f6a23e1e4c3c406a169908dddc64c00", null ],
+    [ "_bossWave", "d3/dce/a14386.html#a57e6038adc5c5bfcf30c79559de8dd1e", null ],
+    [ "_currentWave", "d3/dce/a14386.html#a419ef8bcf249e7aac9c8ea11611fb0c1", null ],
+    [ "_encounterNPCs", "d3/dce/a14386.html#ae8cdcced3902234317dc419bd04126e0", null ],
+    [ "_infernalTargets", "d3/dce/a14386.html#a6d48f27c687dc23bb2e60cae55fd33f4", null ],
+    [ "_retreat", "d3/dce/a14386.html#ad9242c9a8e4ea51243b8e526eb82a51b", null ],
+    [ "_roaringFlameAlliance", "d3/dce/a14386.html#a9c5f35107d7e4311e7d8f65a6eccfb7a", null ],
+    [ "_roaringFlameHorde", "d3/dce/a14386.html#ac4a2ec6b3fb06cfd9b11486e62e076a3", null ],
+    [ "_summonedNPCs", "d3/dce/a14386.html#a9bea0d89252e7b6154b2acd67960818a", null ],
+    [ "trash", "d3/dce/a14386.html#a2e464c6ca35c53fab15f45381ca06aae", null ]
 ];

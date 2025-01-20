@@ -1,6 +1,6 @@
 var a21322 =
 [
-    [ "npc_thassarianAI", "d0/d68/a21326.html", "d0/d68/a21326" ],
-    [ "npc_thassarian", "d9/d78/a21322.html#a82bde4555821f84a6d07a69669528313", null ],
-    [ "GetAI", "d9/d78/a21322.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
+    [ "npc_counselor_talbotAI", "d0/d68/a21326.html", "d0/d68/a21326" ],
+    [ "npc_counselor_talbot", "d9/d78/a21322.html#a9223380bb78afeda617482bea0a3110c", null ],
+    [ "GetAI", "d9/d78/a21322.html#a3debd13352146a247d635042ecbfa155", null ]
 ];

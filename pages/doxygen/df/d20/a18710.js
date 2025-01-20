@@ -1,6 +1,12 @@
 var a18710 =
 [
-    [ "NotOnSameSide", "df/d20/a18710.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
-    [ "operator()", "df/d20/a18710.html#a59ea48b9633049180ec62d3616fe4dea", null ],
-    [ "m_inLiveSide", "df/d20/a18710.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
+    [ "npc_gothik_triggerAI", "df/d20/a18710.html#ae45c6de238755eb069e0c182943da58c", null ],
+    [ "DamageTaken", "df/d20/a18710.html#ada8e501edfadbb55162532f081a4b48b", null ],
+    [ "EnterEvadeMode", "df/d20/a18710.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
+    [ "JustEngagedWith", "df/d20/a18710.html#ab5403383f1fcd539cacf975dffbe2817", null ],
+    [ "JustSummoned", "df/d20/a18710.html#a35be0135b77a3e62ac8d421910cf0674", null ],
+    [ "SelectRandomSkullPile", "df/d20/a18710.html#aeafc63047c9059afdf668b8c22d2937f", null ],
+    [ "SpellHit", "df/d20/a18710.html#a18a8135ab0395991afc4896950783ae5", null ],
+    [ "SummonedCreatureDespawn", "df/d20/a18710.html#ad7ed092509dd41fddd44a4024c011364", null ],
+    [ "UpdateAI", "df/d20/a18710.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
 ];

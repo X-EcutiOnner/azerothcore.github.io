@@ -1,6 +1,7 @@
 var a26602 =
 [
-    [ "PrepareSpellScript", "db/ddf/a26602.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "db/ddf/a26602.html#a81bc86c83ffc70602410912870e61700", null ],
-    [ "VictoryRushHit", "db/ddf/a26602.html#a89387a25e67af1d47ef7f5b95344ccb0", null ]
+    [ "HandleDummy", "db/ddf/a26602.html#a436ed0843e0035308c69f0854decd7f2", null ],
+    [ "PrepareSpellScript", "db/ddf/a26602.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
+    [ "Register", "db/ddf/a26602.html#a0b69f667ea83dee61206bbc723020cbc", null ],
+    [ "Validate", "db/ddf/a26602.html#a93e68d77227297883aae472ef08fb67c", null ]
 ];

@@ -1,6 +1,6 @@
 var a18782 =
 [
-    [ "boss_kelthuzad_minionAI", "da/d70/a18786.html", "da/d70/a18786" ],
-    [ "boss_kelthuzad_minion", "d5/db7/a18782.html#a4c6d430035c964b4063139c0cda6bfff", null ],
-    [ "GetAI", "d5/db7/a18782.html#ab951068fedced148653ebf9124ba5e3d", null ]
+    [ "WebTargetSelector", "d5/db7/a18782.html#a2f19cffab18fd6f2f5a1d296aa1db47d", null ],
+    [ "operator()", "d5/db7/a18782.html#a289821eaae114ba384a9ee9b8c19325f", null ],
+    [ "_maexxna", "d5/db7/a18782.html#ad21c9ac380f7b97aacc06f08f1c45974", null ]
 ];

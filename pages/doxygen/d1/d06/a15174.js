@@ -1,7 +1,6 @@
 var a15174 =
 [
-    [ "HandleDummy", "d1/d06/a15174.html#a30a87266b89021caf7d05c45397f70d1", null ],
-    [ "PrepareSpellScript", "d1/d06/a15174.html#a43a92b346088d710719722e8feed9634", null ],
-    [ "Register", "d1/d06/a15174.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
-    [ "Validate", "d1/d06/a15174.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
+    [ "npc_great_bear_spirit", "d1/d06/a15174.html#a141470a3623aa1152d3505661f1532c8", null ],
+    [ "OnGossipHello", "d1/d06/a15174.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
+    [ "OnGossipSelect", "d1/d06/a15174.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
 ];

@@ -1,9 +1,7 @@
 var a17102 =
 [
-    [ "FilterTargets", "d8/d14/a17102.html#a7b490400378893a19cdaf52af25f3a51", null ],
-    [ "HandleScript", "d8/d14/a17102.html#acee46fb0af45364478a92db59fcc3f24", null ],
-    [ "Load", "d8/d14/a17102.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
-    [ "PrepareSpellScript", "d8/d14/a17102.html#abb8fac43566f92b19e644edc38ab5d73", null ],
-    [ "Register", "d8/d14/a17102.html#a1add221102b7067ffc130969f5172eae", null ],
-    [ "Validate", "d8/d14/a17102.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
+    [ "achievement_once_bitten_twice_shy", "d8/d14/a17102.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
+    [ "OnCheck", "d8/d14/a17102.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
+    [ "_spawnMode", "d8/d14/a17102.html#a6f02f5ab07143ddff553279049714902", null ],
+    [ "_wasVampire", "d8/d14/a17102.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
 ];

@@ -1,6 +1,6 @@
 var a19294 =
 [
-    [ "boss_sjonnirAI", "d9/d1e/a19298.html", "d9/d1e/a19298" ],
-    [ "boss_sjonnir", "d9/d1c/a19294.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d9/d1c/a19294.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d9/d1e/a19298.html", "d9/d1e/a19298" ],
+    [ "boss_sjonnir_malformed_ooze", "d9/d1c/a19294.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "d9/d1c/a19294.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

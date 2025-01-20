@@ -1,5 +1,6 @@
 var a19998 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "dd/d2b/a19998.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "dd/d2b/a19998.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "boss_ignisAI", "dc/d15/a20002.html", "dc/d15/a20002" ],
+    [ "boss_ignis", "dd/d2b/a19998.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
+    [ "GetAI", "dd/d2b/a19998.html#ac11ff148e9cbc985875f859268a3de01", null ]
 ];

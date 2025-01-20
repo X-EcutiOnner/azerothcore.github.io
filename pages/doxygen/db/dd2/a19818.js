@@ -1,6 +1,8 @@
 var a19818 =
 [
-    [ "achievement_freya_knock_on_wood", "db/dd2/a19818.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "db/dd2/a19818.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "db/dd2/a19818.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "npc_ulduar_saronite_animusAI", "db/dd2/a19818.html#a2b94427feb24a7bda075b6a8f403433a", null ],
+    [ "JustDied", "db/dd2/a19818.html#a30abcab01de3732bc5525864576615b0", null ],
+    [ "UpdateAI", "db/dd2/a19818.html#a1490961adc8fc03ab28a992aff55b43b", null ],
+    [ "pInstance", "db/dd2/a19818.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
+    [ "timer", "db/dd2/a19818.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
 ];

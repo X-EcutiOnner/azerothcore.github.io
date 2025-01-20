@@ -1,6 +1,7 @@
 var a19482 =
 [
-    [ "boss_runemaster_molgeimAI", "d2/ded/a19486.html", "d2/ded/a19486" ],
-    [ "boss_runemaster_molgeim", "d2/dfd/a19482.html#a440e4e43b941ac2b956c7c586a95f991", null ],
-    [ "GetAI", "d2/dfd/a19482.html#a080e70913be1e6ad9521bab5b90a92a6", null ]
+    [ "OnRemove", "d2/dfd/a19482.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "d2/dfd/a19482.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "d2/dfd/a19482.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "d2/dfd/a19482.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

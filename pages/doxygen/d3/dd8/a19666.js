@@ -1,5 +1,6 @@
 var a19666 =
 [
-    [ "go_ulduar_tower", "d3/dd8/a19666.html#afc1add1a0543921f52afe1eb907f5de3", null ],
-    [ "OnDestroyed", "d3/dd8/a19666.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
+    [ "HandleScript", "d3/dd8/a19666.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
+    [ "PrepareSpellScript", "d3/dd8/a19666.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
+    [ "Register", "d3/dd8/a19666.html#a04a5b3a4f768200d74f4641508633d35", null ]
 ];

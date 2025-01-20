@@ -1,7 +1,9 @@
 var a17214 =
 [
-    [ "ExtraEffect", "d2/d39/a17214.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "d2/d39/a17214.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "d2/d39/a17214.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "d2/d39/a17214.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "BattleExperienceEvent", "d2/d39/a17214.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
+    [ "Execute", "d2/d39/a17214.html#a3971962ec90f682baeae96fe6098fa97", null ],
+    [ "_creature", "d2/d39/a17214.html#a0155536d5c2be329a1f3b57c4d852098", null ],
+    [ "_level", "d2/d39/a17214.html#a22f0d7e59f579362be4576180d0977b8", null ],
+    [ "ExperiencedSpells", "d2/d39/a17214.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
+    [ "ExperiencedTimes", "d2/d39/a17214.html#a4daf5818472ebe7c8d3938e2189d8e02", null ]
 ];

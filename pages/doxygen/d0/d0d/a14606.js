@@ -1,6 +1,6 @@
 var a14606 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "d5/d21/a14610.html", "d5/d21/a14610" ],
-    [ "instance_onyxias_lair", "d0/d0d/a14606.html#a1be32e45cb8af86477d300efb6e545cc", null ],
-    [ "GetInstanceScript", "d0/d0d/a14606.html#abbdc474ce17bca0cb55180661c5204a8", null ]
+    [ "npc_belnistraszAI", "d5/d21/a14610.html", "d5/d21/a14610" ],
+    [ "npc_belnistrasz", "d0/d0d/a14606.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
+    [ "GetAI", "d0/d0d/a14606.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
 ];

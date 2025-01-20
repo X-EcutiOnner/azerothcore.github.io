@@ -1,8 +1,11 @@
 var a21938 =
 [
-    [ "npc_vics_flying_machineAI", "d7/d10/a21938.html#a4464e0b1433c4ffb24ae7809b1a0eec5", null ],
-    [ "MovementInform", "d7/d10/a21938.html#ac4bbe0a3cccb6878d050b717b9efb320", null ],
-    [ "PassengerBoarded", "d7/d10/a21938.html#aa67dcbb4b43b047398fec2619ad61829", null ],
-    [ "SpellHit", "d7/d10/a21938.html#aa81229a104e1521d570abec4b6f7bca7", null ],
-    [ "pointId", "d7/d10/a21938.html#aa1412c23f0c3b964262e145c51aea974", null ]
+    [ "npc_iron_watcherAI", "d7/d10/a21938.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
+    [ "MovementInform", "d7/d10/a21938.html#aaf329f0160efa778abdebf86b1cf230b", null ],
+    [ "Reset", "d7/d10/a21938.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
+    [ "SpellHit", "d7/d10/a21938.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
+    [ "UpdateAI", "d7/d10/a21938.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
+    [ "charging", "d7/d10/a21938.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
+    [ "hpTimer", "d7/d10/a21938.html#afcbb113387345361baf0351a19e6eb1d", null ],
+    [ "spellTimer", "d7/d10/a21938.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
 ];

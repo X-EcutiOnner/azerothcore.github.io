@@ -1,6 +1,6 @@
 var a14074 =
 [
-    [ "HandleDummy", "dd/d4e/a14074.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
-    [ "PrepareSpellScript", "dd/d4e/a14074.html#a87a787c6ab3804847c90266f570381c6", null ],
-    [ "Register", "dd/d4e/a14074.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
+    [ "npc_soh_fire_trigger", "dd/d4e/a14074.html#a8bddde264f4848c9a8ed83dcad190223", null ],
+    [ "Reset", "dd/d4e/a14074.html#acbec442907a8b40ae04496c53f210aa2", null ],
+    [ "SpellHit", "dd/d4e/a14074.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
 ];

@@ -1,6 +1,6 @@
 var a22134 =
 [
-    [ "npc_feedin_da_goolzAI", "dd/d80/a22138.html", "dd/d80/a22138" ],
-    [ "npc_feedin_da_goolz", "dc/d50/a22134.html#ace9fd4ca5809c0d47b49fc63ca8363be", null ],
-    [ "GetAI", "dc/d50/a22134.html#a61ab3189e2525a995a87eec06d45e355", null ]
+    [ "npc_captured_rageclawAI", "dd/d80/a22138.html", "dd/d80/a22138" ],
+    [ "npc_captured_rageclaw", "dc/d50/a22134.html#ad49176279e9d16a6a24c0649c576c0be", null ],
+    [ "GetAI", "dc/d50/a22134.html#aa39b6c518fe22d91b8673cfd576866a4", null ]
 ];

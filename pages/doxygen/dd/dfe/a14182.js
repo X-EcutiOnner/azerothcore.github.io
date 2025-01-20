@@ -1,6 +1,8 @@
 var a14182 =
 [
-    [ "OnApply", "dd/dfe/a14182.html#a30d33268b58507c228a4628031bffca0", null ],
-    [ "PrepareAuraScript", "dd/dfe/a14182.html#a16dc3f52152d63b5512690c761f9915a", null ],
-    [ "Register", "dd/dfe/a14182.html#a6494e4d7277e910ffa3b30c333117f00", null ]
+    [ "HandleEffectApply", "dd/dfe/a14182.html#a31d4e0da71893a8a673a2ac4f7c26c70", null ],
+    [ "HandleEffectRemove", "dd/dfe/a14182.html#af8661463589640c9550bc62e8f74afcd", null ],
+    [ "PrepareAuraScript", "dd/dfe/a14182.html#a2885eb37d4af8f1e90e2a4967f5acc75", null ],
+    [ "Register", "dd/dfe/a14182.html#ada4a148e0b50f5853eaf02c465f6e876", null ],
+    [ "torchGUID", "dd/dfe/a14182.html#a8ccf51241d3792c8c36d983bf471167e", null ]
 ];

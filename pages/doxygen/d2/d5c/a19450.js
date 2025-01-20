@@ -1,9 +1,16 @@
 var a19450 =
 [
-    [ "CheckTargets", "d2/d5c/a19450.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "d2/d5c/a19450.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "d2/d5c/a19450.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "d2/d5c/a19450.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "d2/d5c/a19450.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "d2/d5c/a19450.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "boss_steelbreakerAI", "d2/d5c/a19450.html#aeec79a009137be8b6290366d8d6bcfa3", null ],
+    [ "DoAction", "d2/d5c/a19450.html#ac5bc8a9512c2e6e5169366cc5bbc79c2", null ],
+    [ "JustDied", "d2/d5c/a19450.html#a001f8b206f0d00fff77e964f49cbdb58", null ],
+    [ "JustEngagedWith", "d2/d5c/a19450.html#a0f207b2a274c7266f6882205e510f346", null ],
+    [ "JustReachedHome", "d2/d5c/a19450.html#a3fd5d7c8baf6d6b4651d4d54df2e7fa8", null ],
+    [ "KilledUnit", "d2/d5c/a19450.html#a5a0a92144412259bfa02abc04bdc4425", null ],
+    [ "Reset", "d2/d5c/a19450.html#a9544ce38a210da1ac867d5cabf9ffbec", null ],
+    [ "SpellHit", "d2/d5c/a19450.html#a21d891d8f8f6fa89b1f1883800d8d578", null ],
+    [ "UpdateAI", "d2/d5c/a19450.html#ac4adabf023663df7b4c1fdc8c027b52d", null ],
+    [ "UpdatePhase", "d2/d5c/a19450.html#af217acbeab5032b8a16180f4ff021e0a", null ],
+    [ "_phase", "d2/d5c/a19450.html#ae71145ec4a82d1f024892181daebace9", null ],
+    [ "events", "d2/d5c/a19450.html#a8085a615ff5d252452616ef69dfd3249", null ],
+    [ "pInstance", "d2/d5c/a19450.html#ac99cd9678f209b0cf2e8e8e3457d0f55", null ]
 ];

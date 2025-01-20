@@ -1,6 +1,16 @@
 var a16690 =
 [
-    [ "instance_halls_of_reflection_InstanceMapScript", "d9/d53/a16694.html", "d9/d53/a16694" ],
-    [ "instance_halls_of_reflection", "da/db9/a16690.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
-    [ "GetInstanceScript", "da/db9/a16690.html#aca27a4f654f41fe6f238c905b48285b7", null ]
+    [ "boss_ickAI", "da/db9/a16690.html#a72c90af745b63202edc36b84b3f4df12", null ],
+    [ "CanAIAttack", "da/db9/a16690.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
+    [ "DamageTaken", "da/db9/a16690.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
+    [ "GetKrick", "da/db9/a16690.html#a2d6192f314e76886204c7248d141260a", null ],
+    [ "JustDied", "da/db9/a16690.html#afd7752ee19dcc6be0b28181bb4485146", null ],
+    [ "JustEngagedWith", "da/db9/a16690.html#a27598604e65417225acd41d6f05cc717", null ],
+    [ "JustSummoned", "da/db9/a16690.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
+    [ "KilledUnit", "da/db9/a16690.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
+    [ "Reset", "da/db9/a16690.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
+    [ "SpellHitTarget", "da/db9/a16690.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
+    [ "UpdateAI", "da/db9/a16690.html#a74bd63ac9558ecec52affaa7440360a1", null ],
+    [ "events", "da/db9/a16690.html#aab514bb5f930d9eb545a279181632796", null ],
+    [ "pInstance", "da/db9/a16690.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
 ];

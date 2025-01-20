@@ -1,6 +1,7 @@
 var a18434 =
 [
-    [ "PrepareSpellScript", "d2/d7a/a18434.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "d2/d7a/a18434.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "d2/d7a/a18434.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "OnPeriodic", "d2/d7a/a18434.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
+    [ "PrepareAuraScript", "d2/d7a/a18434.html#a87260a1cd06190f5412f3cab0f448a01", null ],
+    [ "Register", "d2/d7a/a18434.html#a00827210671b959a030655f6be5edac6", null ],
+    [ "Validate", "d2/d7a/a18434.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
 ];

@@ -1,11 +1,7 @@
 var a16618 =
 [
-    [ "boss_frostsworn_generalAI", "df/d1a/a16618.html#afd3e486cd9a0ac18d10675f40f7f6314", null ],
-    [ "EnterEvadeMode", "df/d1a/a16618.html#a4f45facb49cb5c1a8b0565e87dccf50e", null ],
-    [ "JustDied", "df/d1a/a16618.html#ac2653a5664c87045df16f2fdcf850edf", null ],
-    [ "JustEngagedWith", "df/d1a/a16618.html#a64f2b0426491f1471c8cf653e94a2fa2", null ],
-    [ "Reset", "df/d1a/a16618.html#a8333b3f2637f029de4182ca16e2fb634", null ],
-    [ "UpdateAI", "df/d1a/a16618.html#aea65a8fab859db4396690d846d10f5a1", null ],
-    [ "events", "df/d1a/a16618.html#a4e5c714486cdba1fc4a6db609d8b6a97", null ],
-    [ "pInstance", "df/d1a/a16618.html#a01cc3db24e03600501b9980aa966ad7d", null ]
+    [ "npc_hor_leader_secondAI", "d7/d99/a16622.html", "d7/d99/a16622" ],
+    [ "npc_hor_leader_second", "df/d1a/a16618.html#a9fa1f38ab8a0b5d2207857b75e272ee0", null ],
+    [ "GetAI", "df/d1a/a16618.html#af5b97ecca35501a75658919d384a18f7", null ],
+    [ "OnGossipSelect", "df/d1a/a16618.html#a8355f7f2f8e7655c7ebc7145a847ab87", null ]
 ];

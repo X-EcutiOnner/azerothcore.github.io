@@ -1,6 +1,7 @@
 var a17710 =
 [
-    [ "CheckTarget", "da/d9b/a17710.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "da/d9b/a17710.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "da/d9b/a17710.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "IceTombSummonEvent", "da/d9b/a17710.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "da/d9b/a17710.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "da/d9b/a17710.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "da/d9b/a17710.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

@@ -1,11 +1,6 @@
 var a22822 =
 [
-    [ "boss_doomwalker", "da/daf/a22822.html#a47811086ff98b1a09af5300af94b6c0e", null ],
-    [ "JustDied", "da/daf/a22822.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
-    [ "JustEngagedWith", "da/daf/a22822.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
-    [ "KilledUnit", "da/daf/a22822.html#a2335eb642940397f73ee2a8051624e8e", null ],
-    [ "MoveInLineOfSight", "da/daf/a22822.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
-    [ "Reset", "da/daf/a22822.html#aba08b227d629c9f35e59f465e29c267b", null ],
-    [ "UpdateAI", "da/daf/a22822.html#a3105c50e512c6f709985cece619b131f", null ],
-    [ "_inEnrage", "da/daf/a22822.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
+    [ "OnPeriodic", "da/daf/a22822.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
+    [ "PrepareAuraScript", "da/daf/a22822.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
+    [ "Register", "da/daf/a22822.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
 ];

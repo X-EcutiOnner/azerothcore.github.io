@@ -1,7 +1,7 @@
 var a15882 =
 [
-    [ "HandleDummy", "db/d4e/a15882.html#a96b430cb0546fb599da22cd675660187", null ],
-    [ "PrepareSpellScript", "db/d4e/a15882.html#ad0330cb78a330f05c18f33375f231fbc", null ],
-    [ "Register", "db/d4e/a15882.html#a70a36683a235dec6044a8a32f20c606c", null ],
-    [ "Validate", "db/d4e/a15882.html#affa7ccf869e98eacd3a153cc645d704e", null ]
+    [ "HandleDummy", "db/d4e/a15882.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
+    [ "PrepareSpellScript", "db/d4e/a15882.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
+    [ "Register", "db/d4e/a15882.html#a144224b42aabc0402b729dcc808d779d", null ],
+    [ "Validate", "db/d4e/a15882.html#a985e843e856a7322bccf8544c45df48c", null ]
 ];

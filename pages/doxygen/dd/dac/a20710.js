@@ -1,6 +1,7 @@
 var a20710 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "dd/dac/a20710.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "dd/dac/a20710.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "dd/dac/a20710.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "HandleEffectPeriodic", "dd/dac/a20710.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
+    [ "PrepareAuraScript", "dd/dac/a20710.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
+    [ "Register", "dd/dac/a20710.html#a74052d7da1523b3c4010465510e5fe04", null ],
+    [ "Validate", "dd/dac/a20710.html#a587a469c649877f80e8fe80062e8b5d4", null ]
 ];

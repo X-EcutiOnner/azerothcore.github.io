@@ -1,6 +1,6 @@
 var a16346 =
 [
-    [ "instance_trial_of_the_crusader_InstanceMapScript", "d7/df9/a16350.html", "d7/df9/a16350" ],
-    [ "instance_trial_of_the_crusader", "da/db0/a16346.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
-    [ "GetInstanceScript", "da/db0/a16346.html#a792034e9e5687bf5fa543175692bed66", null ]
+    [ "HandleDummy", "da/db0/a16346.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
+    [ "PrepareSpellScript", "da/db0/a16346.html#accbf8f40b1ab123a2be81a514c94c836", null ],
+    [ "Register", "da/db0/a16346.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
 ];

@@ -1,8 +1,6 @@
 var a16210 =
 [
-    [ "npc_toc_pet_warlockAI", "d5/d0d/a16210.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
-    [ "EnterEvadeMode", "d5/d0d/a16210.html#a62219f63e82fc67f63db2cbd713647a0", null ],
-    [ "myCanCast", "d5/d0d/a16210.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
-    [ "UpdateAI", "d5/d0d/a16210.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
-    [ "events", "d5/d0d/a16210.html#a8edadebd7e6660041233a24fb07173bf", null ]
+    [ "npc_fel_infernalAI", "d0/dd5/a16214.html", "d0/dd5/a16214" ],
+    [ "npc_fel_infernal", "d5/d0d/a16210.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "d5/d0d/a16210.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

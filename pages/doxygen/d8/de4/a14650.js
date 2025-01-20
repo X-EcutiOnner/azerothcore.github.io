@@ -1,4 +1,7 @@
 var a14650 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "d8/de4/a14650.html#a60715ab6220e798f16b16bcaa3714ad9", null ]
+    [ "HandleScript", "d8/de4/a14650.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "d8/de4/a14650.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "d8/de4/a14650.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "d8/de4/a14650.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

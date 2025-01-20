@@ -1,11 +1,7 @@
 var a25002 =
 [
-    [ "spell_gen_apply_aura_after_expiration", "db/dbe/a25002.html#a391e5089eb034618c5e3edde26685a00", null ],
-    [ "AfterRemove", "db/dbe/a25002.html#afea2221ceeebf90cf352084d8aacf7c9", null ],
-    [ "PrepareAuraScript", "db/dbe/a25002.html#a494123635eda4c43d92a08c9c8cd5627", null ],
-    [ "Register", "db/dbe/a25002.html#a3189ba65a1d9adf252d9f0dfb70abd16", null ],
-    [ "Validate", "db/dbe/a25002.html#ad405128104d8a6528e8db96281ad0f0b", null ],
-    [ "_aura", "db/dbe/a25002.html#a8a79aef777e1397b031149c54ae9d81d", null ],
-    [ "_effect", "db/dbe/a25002.html#aa276a986ba9b67964ddeec56d6455cf9", null ],
-    [ "_spellId", "db/dbe/a25002.html#a330f1311911ba9f3ebd704c7f9a09246", null ]
+    [ "HandleScript", "db/dbe/a25002.html#a1097b1548b2785ac7ffd916ee5531fe9", null ],
+    [ "PrepareSpellScript", "db/dbe/a25002.html#a47dc9761bf10b1290963ff7eebe0121a", null ],
+    [ "Register", "db/dbe/a25002.html#a984b2af5268fbf294a0292502b8ddb44", null ],
+    [ "Validate", "db/dbe/a25002.html#a0cfbc2dcb836e7c37dd03cb3d0728621", null ]
 ];

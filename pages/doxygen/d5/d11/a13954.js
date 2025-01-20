@@ -1,6 +1,7 @@
 var a13954 =
 [
-    [ "npc_direbrew_antagonist", "d5/d11/a13954.html#a30fed4e6888d98af576dea8e13c510d3", null ],
-    [ "DoAction", "d5/d11/a13954.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
-    [ "JustEngagedWith", "d5/d11/a13954.html#aaf54b03d66d726901c289ff28d362787", null ]
+    [ "PeriodicTick", "d5/d11/a13954.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
+    [ "PrepareAuraScript", "d5/d11/a13954.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
+    [ "Register", "d5/d11/a13954.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
+    [ "Validate", "d5/d11/a13954.html#a68247c2afa553411fac34582e83635c9", null ]
 ];

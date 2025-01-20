@@ -1,12 +1,11 @@
 var a20354 =
 [
-    [ "boss_thorim_start_npcsAI", "dc/d1c/a20354.html#a9602af25cbe9d4b3fe8534093c237a20", null ],
-    [ "DamageTaken", "dc/d1c/a20354.html#a9a848662671380a726eb7288c6507f68", null ],
-    [ "JustDied", "dc/d1c/a20354.html#a3c4b8928e1e0264e88eb49d930529c41", null ],
-    [ "JustEngagedWith", "dc/d1c/a20354.html#ab6c0a8ae05a408cafb8ffe359d4d0d4e", null ],
-    [ "Reset", "dc/d1c/a20354.html#aedf26a4b5baaf464d70316ce79ec32b3", null ],
-    [ "UpdateAI", "dc/d1c/a20354.html#a5a84827d8d85e3a9b8e374da68d2c7ed", null ],
-    [ "_isCaster", "dc/d1c/a20354.html#a6b2729ab9bce244da0a7d7fe6a4280f7", null ],
-    [ "_playerAttack", "dc/d1c/a20354.html#adb868f1910859c79625cfb7f9a2b4101", null ],
-    [ "events", "dc/d1c/a20354.html#a8dc5693814c49003727204623cef29b7", null ]
+    [ "boss_thorim_ancient_rune_giantAI", "dc/d1c/a20354.html#a75df92817fb5eafa28e5d9c33679dcf8", null ],
+    [ "DoAction", "dc/d1c/a20354.html#a1ee097badabf5264517bc0e9d9a45051", null ],
+    [ "JustDied", "dc/d1c/a20354.html#ac69a6187be136fa53c65a7eb13bf19d4", null ],
+    [ "JustEngagedWith", "dc/d1c/a20354.html#acbfd05bbbae2f5b8a6fa2ee8bc440498", null ],
+    [ "Reset", "dc/d1c/a20354.html#a280a68af0d6b65bc99bb9b7116b801ad", null ],
+    [ "UpdateAI", "dc/d1c/a20354.html#aef980c0fe0c50beca167ea0ef46ff0c7", null ],
+    [ "_isInCombat", "dc/d1c/a20354.html#ab015a6dc76067be1d51d3ce67b6a7aff", null ],
+    [ "events", "dc/d1c/a20354.html#afff251a2cc56b7ce686a5b58c196c16c", null ]
 ];

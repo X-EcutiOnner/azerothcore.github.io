@@ -1,5 +1,6 @@
 var a22050 =
 [
-    [ "npc_wg_spirit_guideAI", "df/dab/a22050.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "df/dab/a22050.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "go_wg_vehicle_teleporterAI", "d8/da2/a22054.html", "d8/da2/a22054" ],
+    [ "go_wg_vehicle_teleporter", "df/dab/a22050.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "df/dab/a22050.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

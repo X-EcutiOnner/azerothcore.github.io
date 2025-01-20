@@ -1,6 +1,9 @@
 var a15298 =
 [
-    [ "npc_braug_dimspirit", "d4/d38/a15298.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
-    [ "OnGossipHello", "d4/d38/a15298.html#aeaed026edf5a1fa82c941f667c05815b", null ],
-    [ "OnGossipSelect", "d4/d38/a15298.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
+    [ "npc_custodian_of_timeAI", "d4/d38/a15298.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "d4/d38/a15298.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "d4/d38/a15298.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "d4/d38/a15298.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "d4/d38/a15298.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "d4/d38/a15298.html#a963736e62fbd0caea631ee3fb69fca46", null ]
 ];

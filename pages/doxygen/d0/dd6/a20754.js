@@ -1,13 +1,8 @@
 var a20754 =
 [
-    [ "npc_ulduar_arachnopod_destroyerAI", "d0/dd6/a20754.html#a52bbedf267aaa3cea68e8a5960cbc34b", null ],
-    [ "AttackStart", "d0/dd6/a20754.html#aed91dafbc50a785875b8b41c5e328d73", null ],
-    [ "DamageTaken", "d0/dd6/a20754.html#a4c2ec3cf0c5561b1b9f309bb8f180f8c", null ],
-    [ "EnterEvadeMode", "d0/dd6/a20754.html#a671a27f00e279e0a4c0827999ce26d8b", null ],
-    [ "OnCharmed", "d0/dd6/a20754.html#ae268a425326efbea1282ce116ff76e3f", null ],
-    [ "PassengerBoarded", "d0/dd6/a20754.html#a83409607638100fddd229829ee2bea40", null ],
-    [ "Reset", "d0/dd6/a20754.html#a2a7bda0ee585a7aa652081ce7ede3fa6", null ],
-    [ "UpdateAI", "d0/dd6/a20754.html#ac10669fddd193d583ecead8ed37879b3", null ],
-    [ "_spawnedMechanic", "d0/dd6/a20754.html#a2db3016e32b4e77724fea98d605eaa59", null ],
-    [ "events", "d0/dd6/a20754.html#ac61064ee3e22b476a35dce4564f65882", null ]
+    [ "boss_keleseth", "d0/dd6/a20754.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
+    [ "AttackStart", "d0/dd6/a20754.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
+    [ "JustDied", "d0/dd6/a20754.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
+    [ "JustEngagedWith", "d0/dd6/a20754.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
+    [ "KilledUnit", "d0/dd6/a20754.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
 ];

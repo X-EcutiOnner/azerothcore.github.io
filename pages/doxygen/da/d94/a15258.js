@@ -1,6 +1,5 @@
 var a15258 =
 [
-    [ "npc_anachronos_the_ancientAI", "da/d02/a15262.html", "da/d02/a15262" ],
-    [ "npc_anachronos_the_ancient", "da/d94/a15258.html#a720884359886e6f881190471005f4cfc", null ],
-    [ "GetAI", "da/d94/a15258.html#a345c801231907d98f2ab2425b1d35cbc", null ]
+    [ "go_crystalline_tear", "da/d94/a15258.html#a9e19c6538ecd1a758f2639171321d965", null ],
+    [ "OnQuestAccept", "da/d94/a15258.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
 ];

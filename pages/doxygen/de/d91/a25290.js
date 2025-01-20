@@ -1,6 +1,6 @@
 var a25290 =
 [
-    [ "HandleScriptEffect", "de/d91/a25290.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
-    [ "PrepareSpellScript", "de/d91/a25290.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
-    [ "Register", "de/d91/a25290.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
+    [ "HandleProc", "de/d91/a25290.html#a9a38fab6b581e9f9b4e092d7a4ecaebd", null ],
+    [ "PrepareAuraScript", "de/d91/a25290.html#a5299aaeacead013e00e81ec7960528f8", null ],
+    [ "Register", "de/d91/a25290.html#a3b46c5dd891d856e08cbcb9a494f2dd2", null ]
 ];

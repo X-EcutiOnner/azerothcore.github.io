@@ -1,15 +1,9 @@
 var a17850 =
 [
-    [ "npc_sindragosa_trashAI", "d4/d7d/a17850.html#a7401a422bc4c2140c631bc118f396f25", null ],
-    [ "GetData", "d4/d7d/a17850.html#a701b8189869bf20d2b3da31b73aed9da", null ],
-    [ "InitializeAI", "d4/d7d/a17850.html#a3a8b341c7304faa2c238305f9dde29b0", null ],
-    [ "JustEngagedWith", "d4/d7d/a17850.html#a0a7a0012105dea55fe4c8b51d9df5fc7", null ],
-    [ "JustRespawned", "d4/d7d/a17850.html#a6438b9f864f178dc4e35e24a48066980", null ],
-    [ "Reset", "d4/d7d/a17850.html#a823df6bb8b36ab38aa059e6d1313f2c0", null ],
-    [ "SetData", "d4/d7d/a17850.html#a4aaa7f3963b24ac03e2fb8aaea7b62b2", null ],
-    [ "UpdateAI", "d4/d7d/a17850.html#a12b995cc8c836efbf0eecc6591c85ff4", null ],
-    [ "_events", "d4/d7d/a17850.html#ab789c21e742fe261f9f8aa63509a7d45", null ],
-    [ "_frostwyrmId", "d4/d7d/a17850.html#ac2853246532bd913211fc743f4723ce0", null ],
-    [ "_instance", "d4/d7d/a17850.html#aa2199507fdabe850b6af9a5ae0283fdc", null ],
-    [ "_isTaunted", "d4/d7d/a17850.html#a50632ee1a85936748aabc5fb10f5e982", null ]
+    [ "ShadowTrapLKTargetSelector", "d4/d7d/a17850.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "d4/d7d/a17850.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "d4/d7d/a17850.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "d4/d7d/a17850.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "d4/d7d/a17850.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "d4/d7d/a17850.html#af416013aabf3b217b07228072076603d", null ]
 ];

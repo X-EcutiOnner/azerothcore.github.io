@@ -1,6 +1,7 @@
 var a17314 =
 [
-    [ "npc_gunship_boarding_add_realAI", "d6/d89/a17314.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
-    [ "UpdateAI", "d6/d89/a17314.html#a33ac355c8f61907574a0736a24cbee82", null ],
-    [ "_events", "d6/d89/a17314.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
+    [ "npc_gunship_rocketeerAI", "d6/d89/a17314.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "d6/d89/a17314.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "d6/d89/a17314.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "d6/d89/a17314.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

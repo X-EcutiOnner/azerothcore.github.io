@@ -1,6 +1,8 @@
 var a20622 =
 [
-    [ "boss_yoggsaron_voiceAI", "d8/d3a/a20626.html", "d8/d3a/a20626" ],
-    [ "boss_yoggsaron_voice", "df/d8e/a20622.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
-    [ "GetAI", "df/d8e/a20622.html#a50abcde0313df06a114a2f5f44a1d481", null ]
+    [ "FilterTargets", "df/d8e/a20622.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
+    [ "HandleDummyEffect", "df/d8e/a20622.html#afbf3aab6724d12426ab0197fb9459562", null ],
+    [ "PrepareSpellScript", "df/d8e/a20622.html#a7ec441904bc100c6b15ee219617489ff", null ],
+    [ "Register", "df/d8e/a20622.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
+    [ "Validate", "df/d8e/a20622.html#a85388adbc15d449e687f9f463cce3833", null ]
 ];

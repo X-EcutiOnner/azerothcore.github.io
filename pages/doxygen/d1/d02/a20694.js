@@ -1,6 +1,6 @@
 var a20694 =
 [
-    [ "HandleScript", "d1/d02/a20694.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
-    [ "PrepareSpellScript", "d1/d02/a20694.html#ab2a4155f6029850c61e84d7c180addae", null ],
-    [ "Register", "d1/d02/a20694.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
+    [ "instance_ulduar_InstanceMapScript", "df/d9d/a20698.html", "df/d9d/a20698" ],
+    [ "instance_ulduar", "d1/d02/a20694.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "d1/d02/a20694.html#ad15f003a90e656910fc32d661ca9baba", null ]
 ];

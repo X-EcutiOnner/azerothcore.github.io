@@ -1,7 +1,6 @@
 var a14954 =
 [
-    [ "npc_vekniss_stinger", "d1/dce/a14954.html#ad48098961715a924270cb8bbbe77e4b0", null ],
-    [ "JustEngagedWith", "d1/dce/a14954.html#ae7c758687c81cfb223066f0a9348eab8", null ],
-    [ "Reset", "d1/dce/a14954.html#a2a79f3775aad83410ff2670aa438e811", null ],
-    [ "UpdateAI", "d1/dce/a14954.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
+    [ "HandleApply", "d1/dce/a14954.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
+    [ "PrepareAuraScript", "d1/dce/a14954.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
+    [ "Register", "d1/dce/a14954.html#ade5c710416516760cc69f77750aa2a1f", null ]
 ];

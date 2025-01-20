@@ -14,5 +14,8 @@ var a10034 =
     [ "OnDummyEffect", "de/d67/a10034.html#afe06aa2578b89fbc5ed5784aed38912a", null ],
     [ "OnRemoveAuraScaleTargets", "de/d67/a10034.html#aa055f00fe76ba2768f97e23ecf379a18", null ],
     [ "OnScaleAuraUnitAdd", "de/d67/a10034.html#abf3758ff33e5be1492ed4e45979a7a8d", null ],
-    [ "OnSpellCheckCast", "de/d67/a10034.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ]
+    [ "OnSpellCast", "de/d67/a10034.html#aac6481ca905c3f44f85c55aaf694afca", null ],
+    [ "OnSpellCastCancel", "de/d67/a10034.html#ad5dd3e0f697edb93df6ee764fe2a1d99", null ],
+    [ "OnSpellCheckCast", "de/d67/a10034.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ],
+    [ "OnSpellPrepare", "de/d67/a10034.html#addb78dc29f771ec376922a4a2bff558b", null ]
 ];

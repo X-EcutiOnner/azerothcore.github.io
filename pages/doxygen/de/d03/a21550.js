@@ -1,6 +1,7 @@
 var a21550 =
 [
-    [ "npc_q24545_vegardAI", "d9/da7/a21554.html", "d9/da7/a21554" ],
-    [ "npc_q24545_vegard", "de/d03/a21550.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "de/d03/a21550.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "HandleDummy", "de/d03/a21550.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
+    [ "PrepareSpellScript", "de/d03/a21550.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
+    [ "Register", "de/d03/a21550.html#a45f80e0436f93a597deb4653852df6a1", null ],
+    [ "Validate", "de/d03/a21550.html#ad13fdade1fb7455485bfd68687de53c5", null ]
 ];

@@ -1,6 +1,8 @@
 var a15510 =
 [
-    [ "HandleApply", "d2/d5a/a15510.html#aee4d5908035d06be2f1469a50db02e26", null ],
-    [ "PrepareAuraScript", "d2/d5a/a15510.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
-    [ "Register", "d2/d5a/a15510.html#ac83962bef84b68cef6d7937769730598", null ]
+    [ "HandleAfterCast", "d2/d5a/a15510.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
+    [ "HandleDummyEffect", "d2/d5a/a15510.html#a539c233fc820248930e1988c4074b9c8", null ],
+    [ "Load", "d2/d5a/a15510.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
+    [ "PrepareSpellScript", "d2/d5a/a15510.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
+    [ "Register", "d2/d5a/a15510.html#ae90184fd34636b33755b732ec82fd52f", null ]
 ];

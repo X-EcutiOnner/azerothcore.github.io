@@ -1,7 +1,6 @@
 var a13362 =
 [
-    [ "npc_deathstalker_erlandAI", "dd/de0/a13362.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
-    [ "JustEngagedWith", "dd/de0/a13362.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
-    [ "Reset", "dd/de0/a13362.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
-    [ "WaypointReached", "dd/de0/a13362.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ]
+    [ "npc_marzon_silent_bladeAI", "da/d92/a13366.html", "da/d92/a13366" ],
+    [ "npc_marzon_silent_blade", "dd/de0/a13362.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
+    [ "GetAI", "dd/de0/a13362.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
 ];

@@ -1,10 +1,10 @@
 var a15082 =
 [
-    [ "npc_murkdeepAI", "da/d01/a15082.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "da/d01/a15082.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "da/d01/a15082.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "da/d01/a15082.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "da/d01/a15082.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "da/d01/a15082.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "da/d01/a15082.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "npc_rabid_thistle_bearAI", "da/d01/a15082.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
+    [ "Initialize", "da/d01/a15082.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
+    [ "Reset", "da/d01/a15082.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
+    [ "SpellHit", "da/d01/a15082.html#a62bde5a122748564cc806046bf9dcbaa", null ],
+    [ "UpdateAI", "da/d01/a15082.html#a8f6c5b873756a58760b2861bc8b86804", null ],
+    [ "_events", "da/d01/a15082.html#ad3852bf4588c453642e75fcdc544767b", null ],
+    [ "_playerGUID", "da/d01/a15082.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
 ];

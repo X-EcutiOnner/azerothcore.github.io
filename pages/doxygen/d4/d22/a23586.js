@@ -1,6 +1,6 @@
 var a23586 =
 [
-    [ "FilterTargets", "d4/d22/a23586.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
-    [ "PrepareSpellScript", "d4/d22/a23586.html#afa186c0b0728e3462f8984189613f9a7", null ],
-    [ "Register", "d4/d22/a23586.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
+    [ "PrepareAuraScript", "d4/d22/a23586.html#a14d4d1a75130a77e7e59e41720491bec", null ],
+    [ "PrepareProc", "d4/d22/a23586.html#abea217f4bfdffc70007fbc29849e9a49", null ],
+    [ "Register", "d4/d22/a23586.html#a9dbcd4c940f5941472bebb64829125e3", null ]
 ];

@@ -1,12 +1,11 @@
 var a27182 =
 [
-    [ "npc_preciousAI", "d3/d1f/a27182.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
-    [ "FlagForDespawn", "d3/d1f/a27182.html#a934a5147c1cc9937189011fb061657da", null ],
-    [ "InitializeAI", "d3/d1f/a27182.html#aa15843c4029f2df2ee04d21b5157602a", null ],
-    [ "JustEngagedWith", "d3/d1f/a27182.html#a58bc4149111605850f070a77ee776313", null ],
-    [ "JustReachedHome", "d3/d1f/a27182.html#a31893e9441b24398554370a58ef8bd78", null ],
-    [ "Reset", "d3/d1f/a27182.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
-    [ "UpdateAI", "d3/d1f/a27182.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
-    [ "events", "d3/d1f/a27182.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
-    [ "flaggedForDespawn", "d3/d1f/a27182.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
+    [ "npc_franklinAI", "d3/d1f/a27182.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "d3/d1f/a27182.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "d3/d1f/a27182.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "d3/d1f/a27182.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "d3/d1f/a27182.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "d3/d1f/a27182.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "d3/d1f/a27182.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "d3/d1f/a27182.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

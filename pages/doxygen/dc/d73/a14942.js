@@ -1,6 +1,8 @@
 var a14942 =
 [
-    [ "OnPeriodic", "dc/d73/a14942.html#a5945e24db52c6bacae7221b085dc877b", null ],
-    [ "PrepareAuraScript", "dc/d73/a14942.html#acc987aa864a8333de7bd0b770eb9018d", null ],
-    [ "Register", "dc/d73/a14942.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
+    [ "npc_obsidian_nullifier", "dc/d73/a14942.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "dc/d73/a14942.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "dc/d73/a14942.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "dc/d73/a14942.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "dc/d73/a14942.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

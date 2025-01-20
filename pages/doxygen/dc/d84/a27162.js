@@ -1,10 +1,8 @@
 var a27162 =
 [
-    [ "npc_prof_tailor", "dc/d84/a27162.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "dc/d84/a27162.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "dc/d84/a27162.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "dc/d84/a27162.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "dc/d84/a27162.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "dc/d84/a27162.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "dc/d84/a27162.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "npc_simoneAI", "d9/d8a/a27166.html", "d9/d8a/a27166" ],
+    [ "npc_simone", "dc/d84/a27162.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
+    [ "GetAI", "dc/d84/a27162.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
+    [ "OnGossipHello", "dc/d84/a27162.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
+    [ "OnGossipSelect", "dc/d84/a27162.html#ae2b1a653be3767881769b54607219757", null ]
 ];

@@ -1,6 +1,6 @@
 var a13442 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d4/daf/a13446.html", "d4/daf/a13446" ],
-    [ "npc_jaina_proudmoore_bfu", "df/d28/a13442.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "df/d28/a13442.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d4/daf/a13446.html", "d4/daf/a13446" ],
+    [ "npc_lady_sylvanas_windrunner_bfu", "df/d28/a13442.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
+    [ "GetAI", "df/d28/a13442.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
 ];

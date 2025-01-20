@@ -1,6 +1,7 @@
 var a16798 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "d2/d40/a16802.html", "d2/d40/a16802" ],
-    [ "npc_pos_martin_or_gorkun_second", "d8/d8b/a16798.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
-    [ "GetAI", "d8/d8b/a16798.html#a180936e3bb98eb55d29ebd51350906c0", null ]
+    [ "HandleEffectPeriodic", "d8/d8b/a16798.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
+    [ "PrepareAuraScript", "d8/d8b/a16798.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
+    [ "Register", "d8/d8b/a16798.html#a5a44978cec95fef30c9ea4308bda2508", null ],
+    [ "Validate", "d8/d8b/a16798.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
 ];

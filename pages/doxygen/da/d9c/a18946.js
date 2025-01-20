@@ -1,6 +1,6 @@
 var a18946 =
 [
-    [ "npc_power_sparkAI", "d9/d28/a18950.html", "d9/d28/a18950" ],
-    [ "npc_power_spark", "da/d9c/a18946.html#a9efd2810feb5f90f9f12f51ec7282410", null ],
-    [ "GetAI", "da/d9c/a18946.html#a573198b86697d222c693581bf430453f", null ]
+    [ "npc_hover_diskAI", "d9/d28/a18950.html", "d9/d28/a18950" ],
+    [ "npc_hover_disk", "da/d9c/a18946.html#af0ab534387a2af4e168915801ee855e5", null ],
+    [ "GetAI", "da/d9c/a18946.html#adbe9285126089ca998e9b6360f42c553", null ]
 ];

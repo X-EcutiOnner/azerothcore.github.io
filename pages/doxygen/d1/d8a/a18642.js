@@ -1,6 +1,7 @@
 var a18642 =
 [
-    [ "boss_isle_of_conquestAI", "d3/ddc/a18646.html", "d3/ddc/a18646" ],
-    [ "boss_isle_of_conquest", "d1/d8a/a18642.html#ad4052d1b6865585d32016e1240449659", null ],
-    [ "GetAI", "d1/d8a/a18642.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
+    [ "HandleScript", "d1/d8a/a18642.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
+    [ "Launch", "d1/d8a/a18642.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
+    [ "PrepareSpellScript", "d1/d8a/a18642.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
+    [ "Register", "d1/d8a/a18642.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
 ];

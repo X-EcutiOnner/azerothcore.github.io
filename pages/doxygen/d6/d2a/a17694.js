@@ -1,7 +1,6 @@
 var a17694 =
 [
-    [ "HandleScript", "d6/d2a/a17694.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "d6/d2a/a17694.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "d6/d2a/a17694.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "d6/d2a/a17694.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "npc_precious_iccAI", "da/d97/a17698.html", "da/d97/a17698" ],
+    [ "npc_precious_icc", "d6/d2a/a17694.html#a463eb0df1edb17e154658dac131f0898", null ],
+    [ "GetAI", "d6/d2a/a17694.html#aa63840c5968a089bff41dcd9c86d5849", null ]
 ];

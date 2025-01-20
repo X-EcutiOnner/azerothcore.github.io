@@ -1,6 +1,8 @@
 var a17226 =
 [
-    [ "npc_stinky_iccAI", "d2/dea/a17230.html", "d2/dea/a17230" ],
-    [ "npc_stinky_icc", "d0/d9d/a17226.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "d0/d9d/a17226.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "ResetEncounterEvent", "d0/d9d/a17226.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "d0/d9d/a17226.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "d0/d9d/a17226.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "d0/d9d/a17226.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "d0/d9d/a17226.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

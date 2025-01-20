@@ -1,5 +1,6 @@
 var a18906 =
 [
-    [ "at_thaddius_entrance", "df/df6/a18906.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "OnTrigger", "df/df6/a18906.html#af8635a58d4da0421b72b4451c1ebafc5", null ]
+    [ "boss_malygosAI", "df/d6f/a18910.html", "df/d6f/a18910" ],
+    [ "boss_malygos", "df/df6/a18906.html#aeac3c63d4ccd2947a6f7e4c007dc6aa1", null ],
+    [ "GetAI", "df/df6/a18906.html#a9e1d821311fa8b92318a99ea79ddb1e3", null ]
 ];

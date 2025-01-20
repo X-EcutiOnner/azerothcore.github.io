@@ -1,7 +1,7 @@
 var a24982 =
 [
-    [ "OnApply", "d2/de5/a24982.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "d2/de5/a24982.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "d2/de5/a24982.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "d2/de5/a24982.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "ModDest", "d2/de5/a24982.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "d2/de5/a24982.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "d2/de5/a24982.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "d2/de5/a24982.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

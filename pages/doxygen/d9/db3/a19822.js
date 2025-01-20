@@ -1,6 +1,8 @@
 var a19822 =
 [
-    [ "boss_vezaxAI", "dd/d12/a19826.html", "dd/d12/a19826" ],
-    [ "boss_vezax", "d9/db3/a19822.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
-    [ "GetAI", "d9/db3/a19822.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
+    [ "OnApply", "d9/db3/a19822.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "d9/db3/a19822.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "d9/db3/a19822.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "d9/db3/a19822.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "d9/db3/a19822.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

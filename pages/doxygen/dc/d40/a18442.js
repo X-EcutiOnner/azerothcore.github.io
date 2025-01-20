@@ -1,5 +1,7 @@
 var a18442 =
 [
-    [ "at_icc_shutdown_traps", "dc/d40/a18442.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "dc/d40/a18442.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "HandleEffectPeriodic", "dc/d40/a18442.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "dc/d40/a18442.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "dc/d40/a18442.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "dc/d40/a18442.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

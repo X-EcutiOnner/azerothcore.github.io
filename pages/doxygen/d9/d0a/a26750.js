@@ -1,5 +1,5 @@
 var a26750 =
 [
-    [ "achievement_not_even_a_scratch", "d9/d0a/a26750.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d9/d0a/a26750.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "AreaTrigger_at_voltarus_middle", "d9/d0a/a26750.html#a45ca444350fe4cfde02ab33da4ce8466", null ],
+    [ "OnTrigger", "d9/d0a/a26750.html#a296b300feb6cf999e9e2c2625a911e9b", null ]
 ];

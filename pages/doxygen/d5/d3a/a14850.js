@@ -1,6 +1,7 @@
 var a14850 =
 [
-    [ "OnRemove", "d5/d3a/a14850.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
-    [ "PrepareAuraScript", "d5/d3a/a14850.html#a47849d8241ed17ad0fb541c1178b0760", null ],
-    [ "Register", "d5/d3a/a14850.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
+    [ "npc_sartura_royal_guard", "d5/d3a/a14850.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "d5/d3a/a14850.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "d5/d3a/a14850.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "d5/d3a/a14850.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

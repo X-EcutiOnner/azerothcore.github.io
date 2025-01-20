@@ -1,7 +1,9 @@
 var a18470 =
 [
-    [ "HandleEffectPeriodic", "df/dfd/a18470.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
-    [ "PrepareAuraScript", "df/dfd/a18470.html#ae040da0db1147652266e1f373838df37", null ],
-    [ "Register", "df/dfd/a18470.html#ab11b84522134ee4d13504df3c19f69b8", null ],
-    [ "Validate", "df/dfd/a18470.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "df/dfd/a18470.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
+    [ "AttackStart", "df/dfd/a18470.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
+    [ "JustEngagedWith", "df/dfd/a18470.html#a7648c626ded6d3abef798b46c77f991d", null ],
+    [ "Reset", "df/dfd/a18470.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
+    [ "UpdateAI", "df/dfd/a18470.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
+    [ "events", "df/dfd/a18470.html#a5aaffc1e78c255c95893be1537e520d6", null ]
 ];

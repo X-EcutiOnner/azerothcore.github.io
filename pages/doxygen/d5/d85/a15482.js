@@ -1,7 +1,11 @@
 var a15482 =
 [
-    [ "go_troll_cageAI", "d5/d85/a15482.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "d5/d85/a15482.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "d5/d85/a15482.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "d5/d85/a15482.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "npc_amanitar_mushrooms", "d5/d85/a15482.html#ad5603426c71c107ff439cea2efeea3f9", null ],
+    [ "AttackStart", "d5/d85/a15482.html#a0cc90c924a12a8be32c78e76ca798943", null ],
+    [ "DamageTaken", "d5/d85/a15482.html#a4c21a448535e1fc0f0116257194b9732", null ],
+    [ "EnterEvadeMode", "d5/d85/a15482.html#ae17ee367c9d206868c7dfc64d438806a", null ],
+    [ "JustEngagedWith", "d5/d85/a15482.html#ac50bf479e8c891af432cfccdf9d49c55", null ],
+    [ "Reset", "d5/d85/a15482.html#ae597d5a64765f5304773f9a38e9c719a", null ],
+    [ "UpdateAI", "d5/d85/a15482.html#ae71058353be43935aa45eb28eb41170f", null ],
+    [ "events", "d5/d85/a15482.html#a0be93d15582a5511963721510652e76d", null ]
 ];

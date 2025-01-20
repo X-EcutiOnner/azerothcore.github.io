@@ -1,5 +1,6 @@
 var a22378 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d8/dcf/a22378.html#a037ee225b626b64436570680ae4e9ea0", null ],
-    [ "ProcessEvent", "d8/dcf/a22378.html#aba05b0edb57e6c42bd45593a51598365", null ]
+    [ "PrepareSpellScript", "d8/dcf/a22378.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
+    [ "Register", "d8/dcf/a22378.html#aa41700bf097963c5a352442723181037", null ],
+    [ "SelectTarget", "d8/dcf/a22378.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
 ];

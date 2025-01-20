@@ -1,7 +1,6 @@
 var a24910 =
 [
-    [ "HandleStun", "d0/d15/a24910.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
-    [ "PrepareAuraScript", "d0/d15/a24910.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
-    [ "Register", "d0/d15/a24910.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
-    [ "Validate", "d0/d15/a24910.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
+    [ "HandleScript", "d0/d15/a24910.html#a1055ce8e5cbcc9d475bd9dab1f99cf92", null ],
+    [ "PrepareSpellScript", "d0/d15/a24910.html#a460823e5ad006c08d5b6378b7df279f0", null ],
+    [ "Register", "d0/d15/a24910.html#a7099938c5f14238b5afdadb6d040f931", null ]
 ];

@@ -1,9 +1,6 @@
 var a27246 =
 [
-    [ "npc_target_dummyAI", "d4/d20/a27246.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "d4/d20/a27246.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "d4/d20/a27246.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "d4/d20/a27246.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "d4/d20/a27246.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "d4/d20/a27246.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "npc_dancing_flamesAI", "de/d66/a27250.html", "de/d66/a27250" ],
+    [ "npc_dancing_flames", "d4/d20/a27246.html#adec0401f876ddf159f28fdda8bc4d563", null ],
+    [ "GetAI", "d4/d20/a27246.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
 ];

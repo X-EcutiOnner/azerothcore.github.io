@@ -1,6 +1,7 @@
 var a26842 =
 [
-    [ "npc_spirit_shadeAI", "d0/d4c/a26846.html", "d0/d4c/a26846" ],
-    [ "npc_spirit_shade", "d3/d8e/a26842.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "d3/d8e/a26842.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "FilterTargets", "d3/d8e/a26842.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
+    [ "HandleEffect", "d3/d8e/a26842.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
+    [ "PrepareSpellScript", "d3/d8e/a26842.html#a53b5772c87574beb5b295c26fe983b76", null ],
+    [ "Register", "d3/d8e/a26842.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
 ];

@@ -1,10 +1,7 @@
 var a13338 =
 [
-    [ "npc_grand_magister_rommathAI", "d2/dc0/a13338.html#a5e9404dd8bf4b513e05daac53c076314", null ],
-    [ "DoAction", "d2/dc0/a13338.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
-    [ "MoveInLineOfSight", "d2/dc0/a13338.html#ad35b64b37915484b133bcd185a832011", null ],
-    [ "UpdateAI", "d2/dc0/a13338.html#ac687bd20f0ae66b21ce52c21561af417", null ],
-    [ "announced", "d2/dc0/a13338.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
-    [ "events", "d2/dc0/a13338.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
-    [ "playerGUID", "d2/dc0/a13338.html#ad0ac0647feb998e837a44b0a688694e9", null ]
+    [ "npc_deathstalker_erlandAI", "d2/dc0/a13338.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
+    [ "JustEngagedWith", "d2/dc0/a13338.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
+    [ "Reset", "d2/dc0/a13338.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
+    [ "WaypointReached", "d2/dc0/a13338.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ]
 ];

@@ -1,7 +1,7 @@
 var a19002 =
 [
-    [ "EoEDrakeEnterVehicleEvent", "d2/d94/a19002.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
-    [ "Execute", "d2/d94/a19002.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
-    [ "_owner", "d2/d94/a19002.html#ab48302fdff800afddfeec2c0d756873c", null ],
-    [ "_playerGUID", "d2/d94/a19002.html#add56bff0695453e01f300e0434a39ec8", null ]
+    [ "boss_commander_stoutbeard", "d2/d94/a19002.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "d2/d94/a19002.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "d2/d94/a19002.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "d2/d94/a19002.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

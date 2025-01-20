@@ -1,17 +1,6 @@
 var a18338 =
 [
-    [ "npc_argent_captainAI", "da/df2/a18338.html#a4e9d65fa7c870c98d79ff30ae262385d", null ],
-    [ "CanAIAttack", "da/df2/a18338.html#a542075fcf2d487dedc6f11672e3507ba", null ],
-    [ "DoAction", "da/df2/a18338.html#a77f0b2d41d631f3ff7a3ea8d13716de1", null ],
-    [ "EnterEvadeMode", "da/df2/a18338.html#afaebff86ad9be5835c2e289625c07d16", null ],
-    [ "JustDied", "da/df2/a18338.html#a7f132fa843ba292cc89a64c77ce48bc4", null ],
-    [ "JustEngagedWith", "da/df2/a18338.html#a43818e75274cad597fd883f75119d63c", null ],
-    [ "KilledUnit", "da/df2/a18338.html#abc2dbc233082f9d7626759fbcccb34a2", null ],
-    [ "Reset", "da/df2/a18338.html#a0709350a6841b6008935c050a1db7784", null ],
-    [ "SpellHit", "da/df2/a18338.html#a8aee635d2739564281b5af04955e4d4a", null ],
-    [ "Events", "da/df2/a18338.html#a1cffce3d371bef959d76270608247def", null ],
-    [ "FollowAngle", "da/df2/a18338.html#a059c34261439fc80b0bff9d62b537489", null ],
-    [ "FollowDist", "da/df2/a18338.html#a4fde069032f7c6578f7f518b45f141d2", null ],
-    [ "instance", "da/df2/a18338.html#a131f11a8a67e3eb60759c699fc2cec1b", null ],
-    [ "IsUndead", "da/df2/a18338.html#a9eaf5d2c9e52650c28b8f7feef0e681c", null ]
+    [ "npc_captain_grondelAI", "da/df2/a18338.html#afbc971fc03584b87229318309d51a2f5", null ],
+    [ "Reset", "da/df2/a18338.html#a7d3878822e77fba66891e87e23bd3740", null ],
+    [ "UpdateAI", "da/df2/a18338.html#a4af8548092b49653805224bd4c0ac0a2", null ]
 ];

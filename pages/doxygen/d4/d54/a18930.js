@@ -1,6 +1,6 @@
 var a18930 =
 [
-    [ "boss_malygosAI", "d1/d48/a18934.html", "d1/d48/a18934" ],
-    [ "boss_malygos", "d4/d54/a18930.html#aeac3c63d4ccd2947a6f7e4c007dc6aa1", null ],
-    [ "GetAI", "d4/d54/a18930.html#a9e1d821311fa8b92318a99ea79ddb1e3", null ]
+    [ "npc_nexus_lordAI", "d1/d48/a18934.html", "d1/d48/a18934" ],
+    [ "npc_nexus_lord", "d4/d54/a18930.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
+    [ "GetAI", "d4/d54/a18930.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
 ];

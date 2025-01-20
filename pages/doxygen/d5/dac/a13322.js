@@ -1,6 +1,7 @@
 var a13322 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "dd/d3d/a13326.html", "dd/d3d/a13326" ],
-    [ "npc_bh_thalorien_dawnseeker", "d5/dac/a13322.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
-    [ "GetAI", "d5/dac/a13322.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
+    [ "npc_greengill_slaveAI", "d5/dac/a13322.html#a1a4268b745e63992f4d0fc2028b717aa", null ],
+    [ "JustEngagedWith", "d5/dac/a13322.html#ad7fcb8c711782d3a76e9e4566334fc21", null ],
+    [ "SpellHit", "d5/dac/a13322.html#a0e75a3e8eb3503fdb3aea12e65ccc6e4", null ],
+    [ "UpdateAI", "d5/dac/a13322.html#a6fa27328cf47bef81c3465b8a3e2ace1", null ]
 ];

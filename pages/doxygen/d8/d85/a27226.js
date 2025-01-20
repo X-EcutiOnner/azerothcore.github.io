@@ -1,8 +1,6 @@
 var a27226 =
 [
-    [ "npc_riggle_bassbaitAI", "d5/ddd/a27230.html", "d5/ddd/a27230" ],
-    [ "npc_riggle_bassbait", "d8/d85/a27226.html#afc4280099cda3c28c4634d649e636839", null ],
-    [ "GetAI", "d8/d85/a27226.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
-    [ "OnGossipHello", "d8/d85/a27226.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
-    [ "OnQuestReward", "d8/d85/a27226.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
+    [ "spawnedCreatureEntry", "d8/d85/a27226.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "d8/d85/a27226.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "d8/d85/a27226.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

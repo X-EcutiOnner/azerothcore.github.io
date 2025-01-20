@@ -1,5 +1,6 @@
 var a15526 =
 [
-    [ "achievement_respect_your_elders", "d5/d2b/a15526.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
-    [ "OnCheck", "d5/d2b/a15526.html#a770922be3ab19848f7a8f43a82d78b88", null ]
+    [ "ModDestHeight", "d5/d2b/a15526.html#a8bda9327c4244af41c513528ad5c818c", null ],
+    [ "PrepareSpellScript", "d5/d2b/a15526.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
+    [ "Register", "d5/d2b/a15526.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
 ];

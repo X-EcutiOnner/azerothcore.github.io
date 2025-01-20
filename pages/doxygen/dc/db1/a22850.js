@@ -1,6 +1,6 @@
 var a22850 =
 [
-    [ "OnPeriodic", "dc/db1/a22850.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
-    [ "PrepareAuraScript", "dc/db1/a22850.html#ac9231c238adf7e733d55bc6098daddc0", null ],
-    [ "Register", "dc/db1/a22850.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
+    [ "HandleEffectRemove", "dc/db1/a22850.html#adfbbb75ace34ab5c0fec35e6aa88505a", null ],
+    [ "PrepareAuraScript", "dc/db1/a22850.html#a94b91d27b9a218b5fdce91d6a6e72f62", null ],
+    [ "Register", "dc/db1/a22850.html#a2b7fb2d6d0f92a970a45e0b9c409408d", null ]
 ];

@@ -1,7 +1,7 @@
 var a15846 =
 [
-    [ "HandleScriptEffect", "d0/d96/a15846.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "d0/d96/a15846.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "d0/d96/a15846.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "d0/d96/a15846.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "TwilightCutterSelector", "d0/d96/a15846.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
+    [ "operator()", "d0/d96/a15846.html#a6374425df156bdf202d53a2c73ef784c", null ],
+    [ "_caster", "d0/d96/a15846.html#a784c95ef6472e711f4200f194222d179", null ],
+    [ "_cutterCaster", "d0/d96/a15846.html#a7f713777a36a8d127c2865e4610b1288", null ]
 ];

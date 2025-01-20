@@ -1,6 +1,6 @@
 var a19170 =
 [
-    [ "PrepareSpellScript", "d7/d5b/a19170.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "d7/d5b/a19170.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "d7/d5b/a19170.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "boss_bjarngrimAI", "d0/d2e/a19174.html", "d0/d2e/a19174" ],
+    [ "boss_bjarngrim", "d7/d5b/a19170.html#ab509688547d41ec1fd094fdc45291959", null ],
+    [ "GetAI", "d7/d5b/a19170.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
 ];

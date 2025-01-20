@@ -1,5 +1,10 @@
 var a18926 =
 [
-    [ "at_naxxramas_hub_portal", "db/dc9/a18926.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "db/dc9/a18926.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "npc_power_sparkAI", "db/dc9/a18926.html#a3f0fd553d859c5709ed2dbd9051db3d3", null ],
+    [ "DamageTaken", "db/dc9/a18926.html#aebd86516e17e77711d3877a11a159105", null ],
+    [ "DoAction", "db/dc9/a18926.html#a54b4578be614da76cc886dedbe3d853e", null ],
+    [ "UpdateAI", "db/dc9/a18926.html#a7e9b2a161fc88d269e631d47c38bfd5e", null ],
+    [ "CheckTimer", "db/dc9/a18926.html#af98dff7dd45c258d45ce81b8520e56a8", null ],
+    [ "MoveTimer", "db/dc9/a18926.html#af16a57b82fb94eb464c51b6006f2a66b", null ],
+    [ "pInstance", "db/dc9/a18926.html#a4142b3872dd17015eeabb2eaee0c3369", null ]
 ];

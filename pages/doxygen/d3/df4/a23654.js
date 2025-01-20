@@ -1,6 +1,7 @@
 var a23654 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d9/dcf/a23658.html", "d9/dcf/a23658" ],
-    [ "instance_mechanar", "d3/df4/a23654.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "d3/df4/a23654.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "OnPeriodic", "d3/df4/a23654.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d3/df4/a23654.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d3/df4/a23654.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d3/df4/a23654.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

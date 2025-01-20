@@ -1,6 +1,8 @@
 var a23634 =
 [
-    [ "HandleDummy", "d8/ddc/a23634.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "d8/ddc/a23634.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "d8/ddc/a23634.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "instance_mechanar_InstanceMapScript", "d8/ddc/a23634.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "d8/ddc/a23634.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "d8/ddc/a23634.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "d8/ddc/a23634.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "d8/ddc/a23634.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

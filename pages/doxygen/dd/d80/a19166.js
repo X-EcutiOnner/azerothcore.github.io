@@ -1,6 +1,7 @@
 var a19166 =
 [
-    [ "HandleEffectCalcAmount", "dd/d80/a19166.html#afa50ce616d36dd59c7195209074d6182", null ],
-    [ "PrepareAuraScript", "dd/d80/a19166.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
-    [ "Register", "dd/d80/a19166.html#a691d5a99eec9e367c518d0244f25bd41", null ]
+    [ "HandleOnEffectApply", "dd/d80/a19166.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "dd/d80/a19166.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "dd/d80/a19166.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "dd/d80/a19166.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

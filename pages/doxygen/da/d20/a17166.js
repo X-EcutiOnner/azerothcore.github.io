@@ -1,8 +1,5 @@
 var a17166 =
 [
-    [ "CheckProc", "da/d20/a17166.html#a11620e4d645b3bfd35924700b5dad289", null ],
-    [ "HandleProc", "da/d20/a17166.html#aa80a032f2ec80aba36f6fe0208412587", null ],
-    [ "PrepareAuraScript", "da/d20/a17166.html#afe04f0cb6539238412253b63dd3c82b9", null ],
-    [ "Register", "da/d20/a17166.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
-    [ "Validate", "da/d20/a17166.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
+    [ "achievement_ive_gone_and_made_a_mess", "da/d20/a17166.html#a0e71ea3afae02176f81231e51155c038", null ],
+    [ "OnCheck", "da/d20/a17166.html#a638cead986783523c7c35ecb9d885b11", null ]
 ];

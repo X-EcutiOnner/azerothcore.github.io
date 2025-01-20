@@ -1,6 +1,6 @@
 var a20086 =
 [
-    [ "HandleInstaKill", "df/dc8/a20086.html#a593786eb89bf77e05dad4b502ffc1925", null ],
-    [ "PrepareSpellScript", "df/dc8/a20086.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
-    [ "Register", "df/dc8/a20086.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
+    [ "boss_mimironAI", "da/d77/a20090.html", "da/d77/a20090" ],
+    [ "boss_mimiron", "df/dc8/a20086.html#a72904837bd85e9f711fcf3da04c459c3", null ],
+    [ "GetAI", "df/dc8/a20086.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
 ];

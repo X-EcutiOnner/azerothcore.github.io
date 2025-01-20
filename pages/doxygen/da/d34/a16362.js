@@ -1,10 +1,7 @@
 var a16362 =
 [
-    [ "boss_dredAI", "da/d34/a16362.html#a4ad04fe31990a37fd6d3a23329350248", null ],
-    [ "GetData", "da/d34/a16362.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
-    [ "JustEngagedWith", "da/d34/a16362.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
-    [ "Reset", "da/d34/a16362.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
-    [ "SetData", "da/d34/a16362.html#a884f48aabc26b054dcd303a91cb88301", null ],
-    [ "UpdateAI", "da/d34/a16362.html#afc12ced9b5026fe3b297560c30e129ed", null ],
-    [ "_raptorCount", "da/d34/a16362.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
+    [ "HandleScriptEffect", "da/d34/a16362.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "da/d34/a16362.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "da/d34/a16362.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "da/d34/a16362.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

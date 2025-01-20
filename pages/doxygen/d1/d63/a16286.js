@@ -1,6 +1,5 @@
 var a16286 =
 [
-    [ "boss_dreadscaleAI", "d5/d7e/a16290.html", "d5/d7e/a16290" ],
-    [ "boss_dreadscale", "d1/d63/a16286.html#ab3276e515419303358b0ee59bc92c12e", null ],
-    [ "GetAI", "d1/d63/a16286.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
+    [ "boss_eydisAI", "d1/d63/a16286.html#a0e97e184b2a2f610730cd3d455702955", null ],
+    [ "JustSummoned", "d1/d63/a16286.html#aa5ae64cfe003a25859364a12cb871199", null ]
 ];

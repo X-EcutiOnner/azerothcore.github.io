@@ -1,7 +1,7 @@
 var a21474 =
 [
-    [ "CheckCast", "db/d19/a21474.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "db/d19/a21474.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "db/d19/a21474.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "db/d19/a21474.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "HandleApplyEffect", "db/d19/a21474.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "db/d19/a21474.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "db/d19/a21474.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "db/d19/a21474.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

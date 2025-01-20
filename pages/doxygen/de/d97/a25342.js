@@ -1,6 +1,6 @@
 var a25342 =
 [
-    [ "HandlePeriodicTick", "de/d97/a25342.html#a058eeb1e0489340763a58d92d4bed832", null ],
-    [ "PrepareAuraScript", "de/d97/a25342.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
-    [ "Register", "de/d97/a25342.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
+    [ "CalculateAmount", "de/d97/a25342.html#ad80edf403addb2d907d0d3d778b6745f", null ],
+    [ "PrepareAuraScript", "de/d97/a25342.html#a96c2e2cdd259d96bb7aa12eb42856cf4", null ],
+    [ "Register", "de/d97/a25342.html#a538ab0fdebbafa3c96183f639fe8968b", null ]
 ];

@@ -1,6 +1,6 @@
 var a15462 =
 [
-    [ "HandleSummon", "d4/d39/a15462.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "d4/d39/a15462.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "d4/d39/a15462.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "npc_weegli_blastfuseAI", "d7/d5a/a15466.html", "d7/d5a/a15466" ],
+    [ "npc_weegli_blastfuse", "d4/d39/a15462.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
+    [ "GetAI", "d4/d39/a15462.html#a701681d8771756dac20d30c2e03a1349", null ]
 ];

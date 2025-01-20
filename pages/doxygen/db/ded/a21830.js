@@ -1,6 +1,6 @@
 var a21830 =
 [
-    [ "npc_tournament_training_dummyAI", "db/dce/a21834.html", "db/dce/a21834" ],
-    [ "npc_tournament_training_dummy", "db/ded/a21830.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
-    [ "GetAI", "db/ded/a21830.html#a31257c155c3a49c69771156800cf6340", null ]
+    [ "HandleHealPct", "db/ded/a21830.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "db/ded/a21830.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "db/ded/a21830.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

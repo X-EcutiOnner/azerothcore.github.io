@@ -1,7 +1,6 @@
 var a12898 =
 [
-    [ "HandleAfterCast", "d4/d1e/a12898.html#afa662fbe1b777047259ac6212961f7a5", null ],
-    [ "HandleScript", "d4/d1e/a12898.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
-    [ "PrepareSpellScript", "d4/d1e/a12898.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
-    [ "Register", "d4/d1e/a12898.html#a4a898b0b096583af33f1f691a252b2ed", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "d3/d2f/a12902.html", "d3/d2f/a12902" ],
+    [ "instance_shadowfang_keep", "d4/d1e/a12898.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "d4/d1e/a12898.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

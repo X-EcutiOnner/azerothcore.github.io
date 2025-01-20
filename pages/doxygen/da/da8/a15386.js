@@ -1,7 +1,7 @@
 var a15386 =
 [
-    [ "npc_paoka_swiftmountainAI", "da/da8/a15386.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "da/da8/a15386.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "da/da8/a15386.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "da/da8/a15386.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
+    [ "npc_ameAI", "d0/d49/a15390.html", "d0/d49/a15390" ],
+    [ "npc_ame", "da/da8/a15386.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "da/da8/a15386.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "da/da8/a15386.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

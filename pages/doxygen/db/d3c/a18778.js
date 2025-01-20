@@ -1,19 +1,16 @@
 var a18778 =
 [
-    [ "boss_kelthuzadAI", "db/d3c/a18778.html#a3fa1e67bf942824cd40c5591f4e63a08", null ],
-    [ "EnterEvadeMode", "db/d3c/a18778.html#ac99064d95afff73680df1fe96749665a", null ],
-    [ "JustDied", "db/d3c/a18778.html#a49066a2fa1dc424a27262706c8af046a", null ],
-    [ "JustEngagedWith", "db/d3c/a18778.html#a8fd3938c0e91a0773eacba9fbdb4a60e", null ],
-    [ "JustSummoned", "db/d3c/a18778.html#a0b305ec3029d149c3ca273cb7ba52e1b", null ],
-    [ "KilledUnit", "db/d3c/a18778.html#ad2fa9b4d11b158e3fadf0c304be6b431", null ],
-    [ "MoveInLineOfSight", "db/d3c/a18778.html#a440b758486cd95b7884fe2ce9bdfb28f", null ],
-    [ "NormalizeOrientation", "db/d3c/a18778.html#a21ac290b79119d47b7509b04b34ea16e", null ],
-    [ "Reset", "db/d3c/a18778.html#a5df92ebc5bd4ee8d06b17e31381be8c4", null ],
-    [ "SpawnHelpers", "db/d3c/a18778.html#ad81fa9c3449ba347de09b1519be6d408", null ],
-    [ "SummonHelper", "db/d3c/a18778.html#a3a21a45072144b6f0421733466770267", null ],
-    [ "UpdateAI", "db/d3c/a18778.html#a3004d23e6eaa3f2ef5942e96e0c17308", null ],
-    [ "_justSpawned", "db/d3c/a18778.html#a4f573ad3f6f6cf130e262bba96d6a63f", null ],
-    [ "events", "db/d3c/a18778.html#a1ac1341c022c65f46b30a9c70b3f37ba", null ],
-    [ "pInstance", "db/d3c/a18778.html#aca5ecad3993753902e211479c84e5ad6", null ],
-    [ "summons", "db/d3c/a18778.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e", null ]
+    [ "boss_loathebAI", "db/d3c/a18778.html#a60256114947b0e9c01f5308108485935", null ],
+    [ "IsInRoom", "db/d3c/a18778.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
+    [ "JustDied", "db/d3c/a18778.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
+    [ "JustEngagedWith", "db/d3c/a18778.html#a1abcf157e05eeb634f8e857a2de35538", null ],
+    [ "JustSummoned", "db/d3c/a18778.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
+    [ "KilledUnit", "db/d3c/a18778.html#a4dac78bba24069050dd9df729dd58b45", null ],
+    [ "Reset", "db/d3c/a18778.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
+    [ "SummonedCreatureDies", "db/d3c/a18778.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
+    [ "UpdateAI", "db/d3c/a18778.html#ab009008f892493b822e5ea5491c58525", null ],
+    [ "doomCounter", "db/d3c/a18778.html#aed5c631ede2eea27451a74ae21221325", null ],
+    [ "events", "db/d3c/a18778.html#adc49463bbe227f892e31716516032c64", null ],
+    [ "pInstance", "db/d3c/a18778.html#ac91a2f174571d0700bd50f66a2a66718", null ],
+    [ "summons", "db/d3c/a18778.html#a37ef117714403002afb4faa4978f136b", null ]
 ];

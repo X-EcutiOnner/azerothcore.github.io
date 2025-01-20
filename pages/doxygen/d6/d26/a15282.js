@@ -1,5 +1,7 @@
 var a15282 =
 [
-    [ "go_crystalline_tear", "d6/d26/a15282.html#a9e19c6538ecd1a758f2639171321d965", null ],
-    [ "OnQuestAccept", "d6/d26/a15282.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
+    [ "npc_kaya_flathoofAI", "d6/d26/a15282.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "d6/d26/a15282.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "d6/d26/a15282.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "d6/d26/a15282.html#a8fcbb19279b925138ba96d2a450fc404", null ]
 ];

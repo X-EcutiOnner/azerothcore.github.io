@@ -1,25 +1,8 @@
 var a17082 =
 [
-    [ "boss_blood_queen_lana_thelAI", "d6/d52/a17082.html#ab28467f9b11a87162dae0306a1f2fb20", null ],
-    [ "CanAIAttack", "d6/d52/a17082.html#a4b6ce34090fcf21eb68560c078278303", null ],
-    [ "CleanAuras", "d6/d52/a17082.html#a78b0d391090e9d2424da315bf1f696e9", null ],
-    [ "DoAction", "d6/d52/a17082.html#a2e7d45ce9d7a0e05b60c9e94f736d1b3", null ],
-    [ "EnterEvadeMode", "d6/d52/a17082.html#afb02799e3fad05e2e0d48ea5b3be7526", null ],
-    [ "GoToMinchar", "d6/d52/a17082.html#acb939a02a912d1db13947a939f4c554c", null ],
-    [ "JustDied", "d6/d52/a17082.html#a475fcf43849c5cd2144020f57c2a461f", null ],
-    [ "JustEngagedWith", "d6/d52/a17082.html#a01866a1f5a20bd9b4ccf754051dedd10", null ],
-    [ "KilledUnit", "d6/d52/a17082.html#aebb53f7599dd3a55953946b7cc9e76d6", null ],
-    [ "MovementInform", "d6/d52/a17082.html#a4b74cb2b2f36ae115327e8a0532fdc23", null ],
-    [ "Reset", "d6/d52/a17082.html#abc58e7c6c384ea4c342d6b153557c4b1", null ],
-    [ "SetGUID", "d6/d52/a17082.html#ac1620cfe6e8f20a8ef54b211a5641bea", null ],
-    [ "UpdateAI", "d6/d52/a17082.html#a13fe9d7463efbecf63d78fce59fc4fab", null ],
-    [ "WasBloodbolted", "d6/d52/a17082.html#a76f5eca557f9d25c8025a909b1de8faf", null ],
-    [ "WasVampire", "d6/d52/a17082.html#a7a74b7241f0ff736bdff7088ee384695", null ],
-    [ "_bloodboltedPlayers", "d6/d52/a17082.html#a1c5ef6d44112d67a29dde74371ab644a", null ],
-    [ "_creditBloodQuickening", "d6/d52/a17082.html#a3534b15706cd35ad8de485fc430207b1", null ],
-    [ "_killMinchar", "d6/d52/a17082.html#ac617b5511beacd7b98d0e9ae8773e7dc", null ],
-    [ "_offtankGUID", "d6/d52/a17082.html#a8a4d21d7ab9ad827c88a7869000c3628", null ],
-    [ "_tankGUID", "d6/d52/a17082.html#a231f68b31fdd105559c186d4edbfc47b", null ],
-    [ "_vampires", "d6/d52/a17082.html#af808b2b543ea9b27b4b03d0e561fb90e", null ],
-    [ "bEnteredCombat", "d6/d52/a17082.html#aca37d322e154ae01ceb4e96b3b42d5d0", null ]
+    [ "OnApply", "d6/d52/a17082.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "d6/d52/a17082.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "d6/d52/a17082.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "d6/d52/a17082.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "d6/d52/a17082.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

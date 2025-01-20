@@ -1,6 +1,7 @@
 var a22566 =
 [
-    [ "HandleSharedRule", "da/d20/a22566.html#a94b783490dafae872b65e0bbfed156b9", null ],
-    [ "PrepareSpellScript", "da/d20/a22566.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
-    [ "Register", "da/d20/a22566.html#a31f2d90059e62da77a719a192d62328b", null ]
+    [ "CheckProc", "da/d20/a22566.html#a0968b7b32f2d2bef6035e030f544088a", null ],
+    [ "PrepareAuraScript", "da/d20/a22566.html#ac424e41948196a6e60b790ebcf40783f", null ],
+    [ "Register", "da/d20/a22566.html#a06bdac68e36b43ee534e937ffd974086", null ],
+    [ "Update", "da/d20/a22566.html#af6c228840f6af96e353ba964fdd01e54", null ]
 ];

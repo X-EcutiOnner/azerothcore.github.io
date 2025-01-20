@@ -1,7 +1,8 @@
 var a13454 =
 [
-    [ "boss_blight_wormAI", "d9/d43/a13454.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "d9/d43/a13454.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "d9/d43/a13454.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "d9/d43/a13454.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "npc_the_scourge_cauldronAI", "d9/d43/a13454.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
+    [ "DoDie", "d9/d43/a13454.html#a9f720a27db2943a66b11ad6355690bf5", null ],
+    [ "JustEngagedWith", "d9/d43/a13454.html#a89954dec2f7d57d933c18822333243ac", null ],
+    [ "MoveInLineOfSight", "d9/d43/a13454.html#a256195dbe75859d72afcd0defb9ff76e", null ],
+    [ "Reset", "d9/d43/a13454.html#ab18bb2eb344f45827685786c665b1750", null ]
 ];

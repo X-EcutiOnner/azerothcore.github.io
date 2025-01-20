@@ -1,7 +1,6 @@
 var a15166 =
 [
-    [ "HandleDummy", "da/dcc/a15166.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "da/dcc/a15166.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "da/dcc/a15166.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "da/dcc/a15166.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "HandleDummy", "da/dcc/a15166.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
+    [ "PrepareSpellScript", "da/dcc/a15166.html#adc581ed46587afcc8be3800ae79105f6", null ],
+    [ "Register", "da/dcc/a15166.html#a7d09808ea2fdec450fcd129e996bd245", null ]
 ];

@@ -1,8 +1,6 @@
 var a18226 =
 [
-    [ "npc_suppresserAI", "dc/d07/a18226.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
-    [ "AttackStart", "dc/d07/a18226.html#ae36105de1df1dd9841332d9a8e7799be", null ],
-    [ "IsSummonedBy", "dc/d07/a18226.html#a35ec340b2d02a14707fc353428b1298d", null ],
-    [ "UpdateAI", "dc/d07/a18226.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
-    [ "_instance", "dc/d07/a18226.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
+    [ "HandleScript", "dc/d07/a18226.html#a930b8a515b5d156c16925dc218cf8172", null ],
+    [ "PrepareSpellScript", "dc/d07/a18226.html#a892b0ba0f6541b3557a0200be5028479", null ],
+    [ "Register", "dc/d07/a18226.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
 ];

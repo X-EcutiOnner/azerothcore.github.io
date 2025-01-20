@@ -1,13 +1,15 @@
 var a16738 =
 [
-    [ "boss_tyrannusAI", "dd/d62/a16738.html#a753de14d2cecaaed2c7b24e09397b008", null ],
-    [ "CanAIAttack", "dd/d62/a16738.html#a0cb60f308637cbd152faf274b3e5f636", null ],
-    [ "DoAction", "dd/d62/a16738.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
-    [ "EnterEvadeMode", "dd/d62/a16738.html#a9d18bab323c676020dede77a498a5b77", null ],
-    [ "JustDied", "dd/d62/a16738.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
-    [ "KilledUnit", "dd/d62/a16738.html#abf7c8909143dac641c00cca160bef964", null ],
-    [ "Reset", "dd/d62/a16738.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
-    [ "UpdateAI", "dd/d62/a16738.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
-    [ "events", "dd/d62/a16738.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
-    [ "pInstance", "dd/d62/a16738.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
+    [ "npc_pos_deathwhisper_necrolyteAI", "dd/d62/a16738.html#ae03f3fef42fcbcecedaf38692d1e9131", null ],
+    [ "DamageTaken", "dd/d62/a16738.html#aad000cc1310f22325a29131fad169cbc", null ],
+    [ "DoAction", "dd/d62/a16738.html#a5d7a324073cfdbd01ae267964959f15b", null ],
+    [ "InitializeAI", "dd/d62/a16738.html#ad84905d1385bce0e431c2baf1158a343", null ],
+    [ "JustEngagedWith", "dd/d62/a16738.html#ae095fa3ceb484cc289a086be8c2f2552", null ],
+    [ "MoveInLineOfSight", "dd/d62/a16738.html#a1d43b002628080d5faf2fd59347a7f79", null ],
+    [ "MovementInform", "dd/d62/a16738.html#a849b06a045de5529706e83b03febe135", null ],
+    [ "Reset", "dd/d62/a16738.html#a0e6b326b3c8102dd711c002537f2c339", null ],
+    [ "UpdateAI", "dd/d62/a16738.html#ade1c91217b6c6e33bfca60a69a51bbc0", null ],
+    [ "events", "dd/d62/a16738.html#a30d65bc3625ed22e11ed7e040451643c", null ],
+    [ "isInvincible", "dd/d62/a16738.html#a0216b301112656fb75907ff1f0d50d0f", null ],
+    [ "pInstance", "dd/d62/a16738.html#afb71e537115d36795c2568360b2d58ce", null ]
 ];

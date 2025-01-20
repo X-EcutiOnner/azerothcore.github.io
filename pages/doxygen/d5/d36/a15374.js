@@ -1,7 +1,6 @@
 var a15374 =
 [
-    [ "npc_lakota_windsongAI", "d4/ddf/a15378.html", "d4/ddf/a15378" ],
-    [ "npc_lakota_windsong", "d5/d36/a15374.html#a08a585ac36189ec23354c7acb26d223d", null ],
-    [ "GetAI", "d5/d36/a15374.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
-    [ "OnQuestAccept", "d5/d36/a15374.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
+    [ "HandleDummy", "d5/d36/a15374.html#a2750ae788168e7496ea2345c5535509c", null ],
+    [ "PrepareSpellScript", "d5/d36/a15374.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
+    [ "Register", "d5/d36/a15374.html#ab6c961d89d22761402eb4f5881cbd318", null ]
 ];

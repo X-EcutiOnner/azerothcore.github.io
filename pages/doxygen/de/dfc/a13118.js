@@ -1,6 +1,8 @@
 var a13118 =
 [
-    [ "HandlePeriodic", "de/dfc/a13118.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
-    [ "PrepareAuraScript", "de/dfc/a13118.html#a7ac99d626990f068a00f403847bfa6bc", null ],
-    [ "Register", "de/dfc/a13118.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
+    [ "HandleApply", "de/dfc/a13118.html#a2c64240e8675fc76598600ae2632570f", null ],
+    [ "HandleRemove", "de/dfc/a13118.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
+    [ "PrepareAuraScript", "de/dfc/a13118.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
+    [ "Register", "de/dfc/a13118.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
+    [ "Validate", "de/dfc/a13118.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
 ];

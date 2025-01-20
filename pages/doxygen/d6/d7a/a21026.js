@@ -1,6 +1,6 @@
 var a21026 =
 [
-    [ "npc_erekem_guardAI", "d0/d27/a21030.html", "d0/d27/a21030" ],
-    [ "npc_erekem_guard", "d6/d7a/a21026.html#a78592996e90f77f81eec0325a7f11956", null ],
-    [ "GetAI", "d6/d7a/a21026.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
+    [ "boss_lavanthorAI", "d0/d27/a21030.html", "d0/d27/a21030" ],
+    [ "boss_lavanthor", "d6/d7a/a21026.html#aa935ffe07f59db59b9b8484f22927026", null ],
+    [ "GetAI", "d6/d7a/a21026.html#aae09ecbe56efac6538bdfb6120e0be40", null ]
 ];

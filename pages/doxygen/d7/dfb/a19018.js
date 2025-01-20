@@ -1,14 +1,9 @@
 var a19018 =
 [
-    [ "boss_anomalus", "d7/dfb/a19018.html#aa4dd8fac7c360beb834382f624ed2246", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d7/dfb/a19018.html#ada0735330bff29a8c04706c980e6bbfc", null ],
-    [ "GetData", "d7/dfb/a19018.html#ad48aebb50cda7ee621f71803669f04c2", null ],
-    [ "JustDied", "d7/dfb/a19018.html#a41e257481921a122dba30348559e05fb", null ],
-    [ "JustEngagedWith", "d7/dfb/a19018.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
-    [ "JustSummoned", "d7/dfb/a19018.html#a3c0413f30d96268cab724856334e61ee", null ],
-    [ "Reset", "d7/dfb/a19018.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
-    [ "SetData", "d7/dfb/a19018.html#aa79ec9829862b573cd0f38f965d737e8", null ],
-    [ "UpdateAI", "d7/dfb/a19018.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
-    [ "achievement", "d7/dfb/a19018.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
-    [ "activeRifts", "d7/dfb/a19018.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
+    [ "HandleApply", "d7/dfb/a19018.html#a29679ed64fc288dc0e85beed2971d4be", null ],
+    [ "HandleRemove", "d7/dfb/a19018.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
+    [ "Load", "d7/dfb/a19018.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
+    [ "PrepareAuraScript", "d7/dfb/a19018.html#a2804f25643e59f3922291abcb055b641", null ],
+    [ "Register", "d7/dfb/a19018.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
+    [ "Validate", "d7/dfb/a19018.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
 ];

@@ -1,6 +1,6 @@
 var a15970 =
 [
-    [ "boss_black_knightAI", "d8/d94/a15974.html", "d8/d94/a15974" ],
-    [ "boss_black_knight", "d4/dcd/a15970.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "d4/dcd/a15970.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "npc_toc5_player_vehicleAI", "d8/d94/a15974.html", "d8/d94/a15974" ],
+    [ "npc_toc5_player_vehicle", "d4/dcd/a15970.html#a8786627999d3d1681d9de58cd8c46744", null ],
+    [ "GetAI", "d4/dcd/a15970.html#af89c559eff828130df821c0c30c61f7a", null ]
 ];

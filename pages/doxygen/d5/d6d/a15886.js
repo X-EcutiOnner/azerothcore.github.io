@@ -1,6 +1,6 @@
 var a15886 =
 [
-    [ "HandleHealPct", "d5/d6d/a15886.html#ad13b3924815ac3da7902c8292a760943", null ],
-    [ "PrepareSpellScript", "d5/d6d/a15886.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
-    [ "Register", "d5/d6d/a15886.html#a3016c31c072d6417bbe47c2891059718", null ]
+    [ "HandleScript", "d5/d6d/a15886.html#a647f39eb125537cd7545ab4115be1091", null ],
+    [ "PrepareSpellScript", "d5/d6d/a15886.html#a55dec84643f9bd536c7c73b5909ab303", null ],
+    [ "Register", "d5/d6d/a15886.html#a0077abbe11092b9636c3bb7b5c367946", null ]
 ];

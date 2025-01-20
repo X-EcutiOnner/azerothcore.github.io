@@ -1,7 +1,9 @@
 var a25986 =
 [
-    [ "if", "dd/d03/a25986.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
-    [ "PrepareAuraScript", "dd/d03/a25986.html#aa31810077c241e77193e378cb297b7de", null ],
-    [ "Register", "dd/d03/a25986.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
-    [ "AuraEffectHandleModes", "dd/d03/a25986.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
+    [ "HandleAfterCast", "dd/d03/a25986.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "dd/d03/a25986.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "dd/d03/a25986.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "dd/d03/a25986.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "dd/d03/a25986.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "dd/d03/a25986.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

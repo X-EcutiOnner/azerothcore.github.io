@@ -1,10 +1,7 @@
 var a24802 =
 [
-    [ "Load", "de/da6/a24802.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
-    [ "OnApply", "de/da6/a24802.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
-    [ "OnRemove", "de/da6/a24802.html#a29834c598d6ef8299d54e48a3461e603", null ],
-    [ "PrepareAuraScript", "de/da6/a24802.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
-    [ "Register", "de/da6/a24802.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
-    [ "Validate", "de/da6/a24802.html#aeaf16594f569af671d221234a4aa2c8b", null ],
-    [ "prevItem", "de/da6/a24802.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
+    [ "CalculateAmount", "de/da6/a24802.html#a40ba021accd581745f07f2586545853c", null ],
+    [ "Load", "de/da6/a24802.html#aa963b658637360305bb5f3d59eb9d061", null ],
+    [ "PrepareAuraScript", "de/da6/a24802.html#a8fedbff305709145a7c004787ee50402", null ],
+    [ "Register", "de/da6/a24802.html#ade9b6a408a1d5a83bdadd5bd2b0fbb2a", null ]
 ];

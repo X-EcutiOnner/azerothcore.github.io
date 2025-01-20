@@ -1,6 +1,6 @@
 var a17770 =
 [
-    [ "CheckProc", "da/d45/a17770.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "da/d45/a17770.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "da/d45/a17770.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "FilterTargets", "da/d45/a17770.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
+    [ "PrepareSpellScript", "da/d45/a17770.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
+    [ "Register", "da/d45/a17770.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
 ];

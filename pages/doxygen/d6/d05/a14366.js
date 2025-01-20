@@ -1,7 +1,6 @@
 var a14366 =
 [
-    [ "hyjalJainaAI", "d1/d38/a14370.html", "d1/d38/a14370" ],
-    [ "npc_hyjal_jaina", "d6/d05/a14366.html#a6616aa6c38818770610259312a392a3f", null ],
-    [ "GetAI", "d6/d05/a14366.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
-    [ "OnGossipSelect", "d6/d05/a14366.html#a47853fa317b1a9325fcbe555867139f6", null ]
+    [ "HandleHeal", "d6/d05/a14366.html#a953536a9a393af9472bdd89018449df0", null ],
+    [ "PrepareSpellScript", "d6/d05/a14366.html#a70503fc6042001a860d361f2597b7153", null ],
+    [ "Register", "d6/d05/a14366.html#a383479896e6deb96e50b827370ccfd4d", null ]
 ];

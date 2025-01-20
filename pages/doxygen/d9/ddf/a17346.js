@@ -1,9 +1,6 @@
 var a17346 =
 [
-    [ "CheckAreaTarget", "d9/ddf/a17346.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
-    [ "HandleApply", "d9/ddf/a17346.html#a9ce86d32957af07313af379b4176d0b3", null ],
-    [ "HandleRemove", "d9/ddf/a17346.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
-    [ "Load", "d9/ddf/a17346.html#aa10821981f3e80262850e5c46449d5d0", null ],
-    [ "PrepareAuraScript", "d9/ddf/a17346.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
-    [ "Register", "d9/ddf/a17346.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
+    [ "PrepareSpellScript", "d9/ddf/a17346.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
+    [ "Register", "d9/ddf/a17346.html#a651f52f7d242251ff69d100fd69376e4", null ],
+    [ "SelectTarget", "d9/ddf/a17346.html#aede083ebebe38deb5898ff028564ef95", null ]
 ];

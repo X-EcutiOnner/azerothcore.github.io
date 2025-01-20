@@ -1,7 +1,6 @@
 var a18458 =
 [
-    [ "OnPeriodic", "d8/d24/a18458.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
-    [ "PrepareAuraScript", "d8/d24/a18458.html#a87260a1cd06190f5412f3cab0f448a01", null ],
-    [ "Register", "d8/d24/a18458.html#a00827210671b959a030655f6be5edac6", null ],
-    [ "Validate", "d8/d24/a18458.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "d9/d71/a18462.html", "d9/d71/a18462" ],
+    [ "npc_icc_skybreaker_hierophant", "d8/d24/a18458.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
+    [ "GetAI", "d8/d24/a18458.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
 ];

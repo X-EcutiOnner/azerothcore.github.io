@@ -1,7 +1,7 @@
 var a22778 =
 [
-    [ "PrepareAuraScript", "d2/de9/a22778.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "d2/de9/a22778.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "d2/de9/a22778.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "d2/de9/a22778.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "HandleScriptEffect", "d2/de9/a22778.html#a0038e566bc5054e4208fd727fcc266fa", null ],
+    [ "PrepareSpellScript", "d2/de9/a22778.html#abb661bacf4cec1f2e15f4aeda2ab991e", null ],
+    [ "Register", "d2/de9/a22778.html#a416b811c2676c598df0ac0e5906a94d3", null ],
+    [ "Validate", "d2/de9/a22778.html#a11e82a2b40dbbd9949a1dda3bd715679", null ]
 ];

@@ -1,6 +1,8 @@
 var a23278 =
 [
-    [ "HandleScriptEffect", "d3/d91/a23278.html#afae95a49843aa956d627e9bd92f8820f", null ],
-    [ "PrepareSpellScript", "d3/d91/a23278.html#a434945da0a6b64db79cab0e09cbbb286", null ],
-    [ "Register", "d3/d91/a23278.html#a396acb663b8c9151196b8fedea3660c7", null ]
+    [ "npc_target_trigger", "d3/d91/a23278.html#a238058ba80130c6239b7267db3247196", null ],
+    [ "Reset", "d3/d91/a23278.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
+    [ "UpdateAI", "d3/d91/a23278.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
+    [ "_cast", "d3/d91/a23278.html#a4ec89ca960323f7ad135d5a425a82416", null ],
+    [ "_scheduler", "d3/d91/a23278.html#a9b418b09e25c8f96692b4e2626339c96", null ]
 ];

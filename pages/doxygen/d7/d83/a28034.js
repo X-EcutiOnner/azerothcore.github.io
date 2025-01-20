@@ -1,7 +1,8 @@
 var a28034 =
 [
-    [ "ID", "d7/d83/a28034.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "d7/d83/a28034.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "d7/d83/a28034.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "d7/d83/a28034.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "Color", "d7/d83/a28034.html#a670fb4e2a31958f81d46047f74d9916f", null ],
+    [ "Comparator", "d7/d83/a28034.html#ace0bdad11edd9db12e45d374da623793", null ],
+    [ "CompareColor", "d7/d83/a28034.html#a801e2221bbb1b6aab67a57381901cf08", null ],
+    [ "ID", "d7/d83/a28034.html#aae73769db40326d298bb1d04eef38871", null ],
+    [ "Value", "d7/d83/a28034.html#ac314a9a6b447d386e31a286811f66538", null ]
 ];

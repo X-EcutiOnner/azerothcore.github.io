@@ -1,5 +1,8 @@
 var a19034 =
 [
-    [ "achievement_intense_cold", "d8/da0/a19034.html#a2377357d6bfc03e5b91354428d3da3de", null ],
-    [ "OnCheck", "d8/da0/a19034.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
+    [ "npc_crystal_spike", "d8/da0/a19034.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "d8/da0/a19034.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "d8/da0/a19034.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "d8/da0/a19034.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "d8/da0/a19034.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

@@ -1,8 +1,7 @@
 var a25166 =
 [
-    [ "OnApply", "da/d76/a25166.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
-    [ "OnRemove", "da/d76/a25166.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
-    [ "PrepareAuraScript", "da/d76/a25166.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
-    [ "Register", "da/d76/a25166.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
-    [ "Validate", "da/d76/a25166.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
+    [ "FilterTargets", "da/d76/a25166.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "da/d76/a25166.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "da/d76/a25166.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "da/d76/a25166.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

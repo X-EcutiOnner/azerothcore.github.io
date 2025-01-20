@@ -1,6 +1,6 @@
 var a26246 =
 [
-    [ "PrepareAuraScript", "d4/d9f/a26246.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
-    [ "Register", "d4/d9f/a26246.html#a91f4b2b8796c7efab2f622893a393619", null ],
-    [ "AuraEffectHandleModes", "d4/d9f/a26246.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
+    [ "CheckProc", "d4/d9f/a26246.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
+    [ "PrepareAuraScript", "d4/d9f/a26246.html#af15109e926eb717c3f3cb2f7f617428c", null ],
+    [ "Register", "d4/d9f/a26246.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
 ];

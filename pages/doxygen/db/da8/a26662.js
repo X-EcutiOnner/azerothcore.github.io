@@ -1,6 +1,6 @@
 var a26662 =
 [
-    [ "FilterTargets", "db/da8/a26662.html#af85da0bcf8c311472e6a75667fa125d0", null ],
-    [ "PrepareSpellScript", "db/da8/a26662.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
-    [ "Register", "db/da8/a26662.html#a2fab1592d19331239b1ef63045389886", null ]
+    [ "HandleEffectCalcSpellMod", "db/da8/a26662.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "db/da8/a26662.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "db/da8/a26662.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

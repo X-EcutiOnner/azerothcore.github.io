@@ -1,6 +1,5 @@
 var a13674 =
 [
-    [ "boss_grilekAI", "da/d4d/a13678.html", "da/d4d/a13678" ],
-    [ "boss_grilek", "d4/dfd/a13674.html#acffe0061db18c5725c8c290822c5fed7", null ],
-    [ "GetAI", "d4/dfd/a13674.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
+    [ "at_zulgurub_temple_speech", "d4/dfd/a13674.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
+    [ "_OnTrigger", "d4/dfd/a13674.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
 ];

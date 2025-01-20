@@ -1,7 +1,6 @@
 var a12914 =
 [
-    [ "OnPeriodic", "db/d73/a12914.html#aa48b6f35302a8857465c6567f811dec6", null ],
-    [ "PrepareAuraScript", "db/d73/a12914.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
-    [ "Register", "db/d73/a12914.html#aa7708067531131738b86077638eda7ac", null ],
-    [ "Validate", "db/d73/a12914.html#a665698b54201184185d96bd33f53e584", null ]
+    [ "boss_baroness_anastariAI", "dd/d29/a12918.html", "dd/d29/a12918" ],
+    [ "boss_baroness_anastari", "db/d73/a12914.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
+    [ "GetAI", "db/d73/a12914.html#a38073f80afbceb5535cc18ab524378a6", null ]
 ];

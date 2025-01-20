@@ -1,9 +1,10 @@
 var a18622 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d6/d7d/a18622.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
-    [ "JustDied", "d6/d7d/a18622.html#a88390da94298bea9c445bb422a806d23", null ],
-    [ "SpellHit", "d6/d7d/a18622.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
-    [ "UpdateAI", "d6/d7d/a18622.html#a81c039a2a230b261967842161757b6f8", null ],
-    [ "events", "d6/d7d/a18622.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
-    [ "faction", "d6/d7d/a18622.html#aca941c070a97278c8ec27d7e6b4edede", null ]
+    [ "boss_isle_of_conquestAI", "d6/d7d/a18622.html#a7880ea86e7a03f5b14875065a83a206a", null ],
+    [ "CheckRageBuff", "d6/d7d/a18622.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
+    [ "JustEngagedWith", "d6/d7d/a18622.html#a878635ef0673325943e6026ad76c2b06", null ],
+    [ "Reset", "d6/d7d/a18622.html#add59669e5f6c3c882ac008c720349573", null ],
+    [ "UpdateAI", "d6/d7d/a18622.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
+    [ "events", "d6/d7d/a18622.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
+    [ "rage", "d6/d7d/a18622.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
 ];

@@ -1,10 +1,9 @@
 var a24162 =
 [
-    [ "npc_pet_hunter_snake_trap", "dc/db9/a24162.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "EnterEvadeMode", "dc/db9/a24162.html#a819add0c7b968063403d10275fdc289f", null ],
-    [ "MoveInLineOfSight", "dc/db9/a24162.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
-    [ "Reset", "dc/db9/a24162.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
-    [ "UpdateAI", "dc/db9/a24162.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_init", "dc/db9/a24162.html#a1b5c1301389749f82667c35f3daff847", null ],
-    [ "_spellTimer", "dc/db9/a24162.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "npc_pet_shaman_fire_elemental", "dc/db9/a24162.html#a3428642963fc9e7588ec92fd838f1af9", null ],
+    [ "InitializeAI", "dc/db9/a24162.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
+    [ "JustEngagedWith", "dc/db9/a24162.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
+    [ "UpdateAI", "dc/db9/a24162.html#a2280e5cc5187a91917a1e517e80e960d", null ],
+    [ "_events", "dc/db9/a24162.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
+    [ "_initAttack", "dc/db9/a24162.html#a2df79acc05dd8489e9e994e044b45404", null ]
 ];

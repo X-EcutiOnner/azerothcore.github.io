@@ -1,10 +1,10 @@
 var a02018 =
 [
-    [ "instance_naxxramas", "df/d6f/a18910.html", "df/d6f/a18910" ],
-    [ "instance_naxxramas::instance_naxxramas_InstanceMapScript", "d0/dcf/a18914.html", "d0/dcf/a18914" ],
-    [ "boss_naxxramas_misc", "dd/d6e/a18918.html", "dd/d6e/a18918" ],
-    [ "boss_naxxramas_misc::boss_naxxramas_miscAI", "df/de3/a18922.html", "df/de3/a18922" ],
-    [ "at_naxxramas_hub_portal", "db/dc9/a18926.html", "db/dc9/a18926" ],
+    [ "instance_naxxramas", "de/ded/a18886.html", "de/ded/a18886" ],
+    [ "instance_naxxramas::instance_naxxramas_InstanceMapScript", "d0/d28/a18890.html", "d0/d28/a18890" ],
+    [ "boss_naxxramas_misc", "d5/dc7/a18894.html", "d5/dc7/a18894" ],
+    [ "boss_naxxramas_misc::boss_naxxramas_miscAI", "db/dc5/a18898.html", "db/dc5/a18898" ],
+    [ "at_naxxramas_hub_portal", "d3/d13/a18902.html", "d3/d13/a18902" ],
     [ "AddSC_instance_naxxramas", "da/d2d/a02018.html#aba1e1afda4423e51a1849a33da49a334", null ],
     [ "GetEruptionSection", "da/d2d/a02018.html#a901343efd9af23ac79087eef84926a75", null ],
     [ "creatureData", "da/d2d/a02018.html#a412286b689bd324fedd65ddd8dde8afb", null ],
@@ -12,5 +12,6 @@ var a02018 =
     [ "gameObjectData", "da/d2d/a02018.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
     [ "HeiganEruptionSlope", "da/d2d/a02018.html#afc813e25da4423b11b3f71a4c3434b43", null ],
     [ "HeiganPos", "da/d2d/a02018.html#a329c88a19bf7f6ee06251fb30b96aa80", null ],
+    [ "HorsemanCount", "da/d2d/a02018.html#ad95f54c0a227c67f4b8d5d346ffb7ec0", null ],
     [ "sapphironEntryTP", "da/d2d/a02018.html#a11d995fa7a0e4c0af781d298ab2ce3a7", null ]
 ];

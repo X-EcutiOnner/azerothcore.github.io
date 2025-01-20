@@ -1,14 +1,11 @@
 var a21022 =
 [
-    [ "boss_erekemAI", "d8/d49/a21022.html#aedf10fef3f0f2ac6797efa5f5a809f4a", null ],
-    [ "EnterEvadeMode", "d8/d49/a21022.html#a2c9f8f444b3b28d5cfdbaa234e9d76ee", null ],
-    [ "GetChainHealTargetGUID", "d8/d49/a21022.html#aa346cbaded883bbb3806acf9cb32579a", null ],
-    [ "JustDied", "d8/d49/a21022.html#a12e7fb5389977dcacb4e1eadda771467", null ],
-    [ "JustEngagedWith", "d8/d49/a21022.html#ad380838dbb6c2a3488fa57f2999e137c", null ],
-    [ "KilledUnit", "d8/d49/a21022.html#a120a2c9a6af821ce9a5e68dbab6e800d", null ],
-    [ "MoveInLineOfSight", "d8/d49/a21022.html#a5905809cba20d426c4d222b1e91055bc", null ],
-    [ "Reset", "d8/d49/a21022.html#a338bbc123b1d3adef4f014c3302c4590", null ],
-    [ "UpdateAI", "d8/d49/a21022.html#a234ae447260ae30a137a53fb986e5dc4", null ],
-    [ "events", "d8/d49/a21022.html#a8d4445b6d35f534061818f7708f39f7e", null ],
-    [ "pInstance", "d8/d49/a21022.html#aa68ece744a21ed2ef8d3e7c4b4081d8e", null ]
+    [ "npc_ichor_globuleAI", "d8/d49/a21022.html#a4d581f89c8385276fd407c000af9e569", null ],
+    [ "AttackStart", "d8/d49/a21022.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
+    [ "JustDied", "d8/d49/a21022.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
+    [ "MoveInLineOfSight", "d8/d49/a21022.html#af8ef8296512d57d934a171f1a5060e73", null ],
+    [ "SpellHit", "d8/d49/a21022.html#a1396538a446545408e3c304f3e56400f", null ],
+    [ "UpdateAI", "d8/d49/a21022.html#a6ff13c853583e5178fb3a690e17303de", null ],
+    [ "pInstance", "d8/d49/a21022.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
+    [ "uiRangeCheck_Timer", "d8/d49/a21022.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
 ];

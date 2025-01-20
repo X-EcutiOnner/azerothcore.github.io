@@ -1,13 +1,6 @@
 var a14806 =
 [
-    [ "boss_cthun", "df/db3/a14806.html#a287ee7b65708971e4fdfa7b814486935", null ],
-    [ "DoAction", "df/db3/a14806.html#a04ae38b67d358f1d34820b855aab3869", null ],
-    [ "JustDied", "df/db3/a14806.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
-    [ "JustEngagedWith", "df/db3/a14806.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
-    [ "Reset", "df/db3/a14806.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
-    [ "ScheduleTasks", "df/db3/a14806.html#a5a0514e56217bb3b30b22b2681542adb", null ],
-    [ "SummonedCreatureDies", "df/db3/a14806.html#a49d76bb4cf30ee66fae6114313394961", null ],
-    [ "UpdateAI", "df/db3/a14806.html#a7d2685597f1eec2459fe509e5b97681f", null ],
-    [ "_fleshTentaclesKilled", "df/db3/a14806.html#a139de83ae488c40d40a4587509cd197d", null ],
-    [ "WisperTimer", "df/db3/a14806.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
+    [ "OnPeriodic", "df/db3/a14806.html#a08dce8b98afadc134166a615b4496151", null ],
+    [ "PrepareAuraScript", "df/db3/a14806.html#a9ebb34665b176e4e60f085da65183d8e", null ],
+    [ "Register", "df/db3/a14806.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
 ];

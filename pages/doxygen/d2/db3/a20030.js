@@ -1,7 +1,6 @@
 var a20030 =
 [
-    [ "HandleEffectPeriodic", "d2/db3/a20030.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "d2/db3/a20030.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "d2/db3/a20030.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "d2/db3/a20030.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "boss_kologarn_armsAI", "d6/d47/a20034.html", "d6/d47/a20034" ],
+    [ "boss_kologarn_arms", "d2/db3/a20030.html#ad540d28bb4b8a2be0ca0769f114c3eda", null ],
+    [ "GetAI", "d2/db3/a20030.html#a9ffe4db97d937e01c5ab2008a011f67d", null ]
 ];

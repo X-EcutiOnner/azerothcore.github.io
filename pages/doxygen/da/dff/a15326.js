@@ -1,7 +1,6 @@
 var a15326 =
 [
-    [ "npc_steward_of_time", "da/dff/a15326.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnGossipHello", "da/dff/a15326.html#a3b61038393c3addbbfa6643438164db3", null ],
-    [ "OnGossipSelect", "da/dff/a15326.html#af4fe13e266a98129b92e5a25188d947c", null ],
-    [ "OnQuestAccept", "da/dff/a15326.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "npc_taskmaster_fizzuleAI", "d4/d74/a15330.html", "d4/d74/a15330" ],
+    [ "npc_taskmaster_fizzule", "da/dff/a15326.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
+    [ "GetAI", "da/dff/a15326.html#a6281de7424932fe6580ffefa199498d9", null ]
 ];

@@ -1,7 +1,6 @@
 var a20458 =
 [
-    [ "npc_xt002_life_sparkAI", "d7/ded/a20458.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
-    [ "Reset", "d7/ded/a20458.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
-    [ "UpdateAI", "d7/ded/a20458.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
-    [ "_attackTimer", "d7/ded/a20458.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
+    [ "OnRemove", "d7/ded/a20458.html#a492bd9e9c82937e00897e19362b40901", null ],
+    [ "PrepareAuraScript", "d7/ded/a20458.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
+    [ "Register", "d7/ded/a20458.html#adfcaf82ff48225ea0e0314d421795644", null ]
 ];

@@ -1,9 +1,5 @@
 var a26882 =
 [
-    [ "ChatLogScript", "d4/d47/a26882.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnChat", "d4/d47/a26882.html#a44694358d5babfd988c6c64e738a4f80", null ],
-    [ "OnChat", "d4/d47/a26882.html#ac0a0f2e7d63cb5ff94be3d1a7c7a62b4", null ],
-    [ "OnChat", "d4/d47/a26882.html#a53b69eaa690266d38f08aa3920048353", null ],
-    [ "OnChat", "d4/d47/a26882.html#a7b6ce21ddcda078a0ed32ce130a3b376", null ],
-    [ "OnChat", "d4/d47/a26882.html#ab7e9d4f50e33c4ddd49e98157deb29ba", null ]
+    [ "go_arena_ready_marker", "d4/d47/a26882.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "d4/d47/a26882.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

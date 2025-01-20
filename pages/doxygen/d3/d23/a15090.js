@@ -1,11 +1,13 @@
 var a15090 =
 [
-    [ "npc_kerlonianAI", "d3/d23/a15090.html#a0f7a4566ca93a174c92fe10e904af480", null ],
-    [ "ClearSleeping", "d3/d23/a15090.html#aea2815d79da4fa006ea150f052255b9d", null ],
-    [ "MoveInLineOfSight", "d3/d23/a15090.html#a8b0a606510d278f26099a125d583377a", null ],
-    [ "Reset", "d3/d23/a15090.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
-    [ "SetSleeping", "d3/d23/a15090.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
-    [ "SpellHit", "d3/d23/a15090.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
-    [ "UpdateFollowerAI", "d3/d23/a15090.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
-    [ "FallAsleepTimer", "d3/d23/a15090.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
+    [ "npc_tharnarianAI", "d3/d23/a15090.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
+    [ "Initialize", "d3/d23/a15090.html#ad1d89491b42a56406273a04045e7e91d", null ],
+    [ "Reset", "d3/d23/a15090.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
+    [ "SetGUID", "d3/d23/a15090.html#a7ac84aac946afc312d8ce27f04127dfd", null ],
+    [ "sGossipSelect", "d3/d23/a15090.html#a33b5898def48e17ba27363b98f51849b", null ],
+    [ "UpdateAI", "d3/d23/a15090.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
+    [ "_bearGUID", "d3/d23/a15090.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
+    [ "_events", "d3/d23/a15090.html#aff73052a4b7407d760af3dde09fa8a07", null ],
+    [ "_facing", "d3/d23/a15090.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
+    [ "_scriptRunning", "d3/d23/a15090.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
 ];

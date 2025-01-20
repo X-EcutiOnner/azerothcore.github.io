@@ -1,7 +1,7 @@
 var a26434 =
 [
-    [ "HandleDummy", "d8/d59/a26434.html#a6990bc24605167d38772f391aa2a5376", null ],
-    [ "PrepareSpellScript", "d8/d59/a26434.html#af85da0790eb36b91266ffa45888068d6", null ],
-    [ "Register", "d8/d59/a26434.html#a619dab878b3d6e332a15d772dd148e26", null ],
-    [ "Validate", "d8/d59/a26434.html#a5a39713deabac73334442e1bdeb00aad", null ]
+    [ "HandleAuraApply", "d8/d59/a26434.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
+    [ "HandleAuraRemove", "d8/d59/a26434.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
+    [ "PrepareAuraScript", "d8/d59/a26434.html#a5c7d7c0b8880128121d66d39094f1965", null ],
+    [ "Register", "d8/d59/a26434.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
 ];

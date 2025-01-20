@@ -1,6 +1,7 @@
 var a15206 =
 [
-    [ "npc_clintar_spiritAI", "d8/df1/a15210.html", "d8/df1/a15210" ],
-    [ "npc_clintar_spirit", "d0/d53/a15206.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "d0/d53/a15206.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "npc_shenthulAI", "d8/df1/a15210.html", "d8/df1/a15210" ],
+    [ "npc_shenthul", "d0/d53/a15206.html#a77815503c7d9c811fe3821232e308714", null ],
+    [ "GetAI", "d0/d53/a15206.html#a1683f8c89add6270277c59951c74027e", null ],
+    [ "OnQuestAccept", "d0/d53/a15206.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
 ];

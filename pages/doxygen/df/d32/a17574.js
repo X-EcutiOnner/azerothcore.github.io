@@ -1,6 +1,7 @@
 var a17574 =
 [
-    [ "npc_gas_cloudAI", "df/d32/a17574.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
-    [ "CastMainSpell", "df/d32/a17574.html#a61681f6f9616fe33274302d4160c709b", null ],
-    [ "_newTargetSelectTimer", "df/d32/a17574.html#a6989b904abaa5b71362e43664f4b084d", null ]
+    [ "HandleExtraEffect", "df/d32/a17574.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "df/d32/a17574.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "df/d32/a17574.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "df/d32/a17574.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

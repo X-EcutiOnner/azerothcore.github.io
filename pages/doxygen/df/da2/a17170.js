@@ -1,7 +1,6 @@
 var a17170 =
 [
-    [ "HandleDummy", "df/da2/a17170.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "df/da2/a17170.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "df/da2/a17170.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "df/da2/a17170.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "npc_icc_blood_beastAI", "d9/d66/a17174.html", "d9/d66/a17174" ],
+    [ "npc_icc_blood_beast", "df/da2/a17170.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
+    [ "GetAI", "df/da2/a17170.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
 ];

@@ -1,9 +1,6 @@
 var a20170 =
 [
-    [ "npc_ulduar_bot_summon_triggerAI", "d0/d0c/a20170.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
-    [ "DoAction", "d0/d0c/a20170.html#ac5d0e28ee330741da3b287d965537f39", null ],
-    [ "Reset", "d0/d0c/a20170.html#a91207c04ecee6fc0e906133e054bf51b", null ],
-    [ "UpdateAI", "d0/d0c/a20170.html#aebec433e806d4f63f5593db0301612b4", null ],
-    [ "option", "d0/d0c/a20170.html#a98bb19fea19a05127b4b32df039acf05", null ],
-    [ "timer", "d0/d0c/a20170.html#a118d048557b0ed314180299c3cd2bcbc", null ]
+    [ "npc_ulduar_flames_spreadAI", "d6/dee/a20174.html", "d6/dee/a20174" ],
+    [ "npc_ulduar_flames_spread", "d0/d0c/a20170.html#aca9713b28d6d0c7b13b85a00c8a53ab0", null ],
+    [ "GetAI", "d0/d0c/a20170.html#af492a5bc9304a05f8475a39458c6abdb", null ]
 ];

@@ -1,7 +1,7 @@
 var a17606 =
 [
-    [ "HandleDummy", "d7/d04/a17606.html#aa61db53d7395fd45b8569e12978fed0b", null ],
-    [ "PrepareSpellScript", "d7/d04/a17606.html#ab63054debe6763027ab52ad122277719", null ],
-    [ "Register", "d7/d04/a17606.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
-    [ "Validate", "d7/d04/a17606.html#adb7e30d10c2071de5d5070b64a10af30", null ]
+    [ "CheckRequirement", "d7/d04/a17606.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
+    [ "CheckRequirementInternal", "d7/d04/a17606.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
+    [ "PrepareSpellScript", "d7/d04/a17606.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
+    [ "Register", "d7/d04/a17606.html#a95a250aeb3a41922c529f476d39f18e4", null ]
 ];

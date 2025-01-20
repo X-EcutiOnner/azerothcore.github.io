@@ -1,13 +1,8 @@
 var a27298 =
 [
-    [ "npc_garments_of_questsAI", "da/d4f/a27298.html#a079f719ca488ed6fde2783b5db4f328b", null ],
-    [ "JustEngagedWith", "da/d4f/a27298.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
-    [ "Reset", "da/d4f/a27298.html#aaaaa3e41deae0057bd659be5c579d226", null ],
-    [ "SpellHit", "da/d4f/a27298.html#ad22195dba70ced744b319bc1ad83c083", null ],
-    [ "UpdateAI", "da/d4f/a27298.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
-    [ "WaypointReached", "da/d4f/a27298.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
-    [ "CanRun", "da/d4f/a27298.html#a93c41781e4cb037b56773bbbf36181b7", null ],
-    [ "CasterGUID", "da/d4f/a27298.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
-    [ "IsHealed", "da/d4f/a27298.html#a96db66704eabf028362d5f8b5c424712", null ],
-    [ "RunAwayTimer", "da/d4f/a27298.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
+    [ "npc_wormholeAI", "d6/d4d/a27302.html", "d6/d4d/a27302" ],
+    [ "npc_wormhole", "da/d4f/a27298.html#aeace4cbf665409786b86140709191cb0", null ],
+    [ "GetAI", "da/d4f/a27298.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
+    [ "OnGossipHello", "da/d4f/a27298.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
+    [ "OnGossipSelect", "da/d4f/a27298.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
 ];

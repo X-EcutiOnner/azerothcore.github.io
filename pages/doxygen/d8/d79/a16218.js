@@ -1,8 +1,6 @@
 var a16218 =
 [
-    [ "npc_toc_pet_hunterAI", "d8/d79/a16218.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
-    [ "EnterEvadeMode", "d8/d79/a16218.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
-    [ "myCanCast", "d8/d79/a16218.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
-    [ "UpdateAI", "d8/d79/a16218.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
-    [ "events", "d8/d79/a16218.html#ade038312363f976b34868ed2cbebb58d", null ]
+    [ "npc_mistress_of_painAI", "d7/dfb/a16222.html", "d7/dfb/a16222" ],
+    [ "npc_mistress_of_pain", "d8/d79/a16218.html#a0261ed835454725e0e5629c295be4330", null ],
+    [ "GetAI", "d8/d79/a16218.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
 ];

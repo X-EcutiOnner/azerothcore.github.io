@@ -1,7 +1,5 @@
 var a19026 =
 [
-    [ "boss_commander_stoutbeard", "d6/d54/a19026.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
-    [ "JustDied", "d6/d54/a19026.html#a2fd835408045715058ba476aa56cb4f7", null ],
-    [ "JustEngagedWith", "d6/d54/a19026.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
-    [ "KilledUnit", "d6/d54/a19026.html#acf7016c65f020dca9228bd2d2fd89299", null ]
+    [ "achievement_split_personality", "d6/d54/a19026.html#aac29ae7c321306a663e55493987af45d", null ],
+    [ "OnCheck", "d6/d54/a19026.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
 ];

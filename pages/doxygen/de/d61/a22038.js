@@ -1,6 +1,7 @@
 var a22038 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "de/d61/a22038.html#afd54b130725aa724b80f150f968ce09d", null ],
-    [ "MovementInform", "de/d61/a22038.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
-    [ "PassengerBoarded", "de/d61/a22038.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
+    [ "npc_wg_quest_giver", "de/d61/a22038.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "de/d61/a22038.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "de/d61/a22038.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "de/d61/a22038.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

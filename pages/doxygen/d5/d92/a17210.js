@@ -1,7 +1,6 @@
 var a17210 =
 [
-    [ "HandleScript", "d5/d92/a17210.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "d5/d92/a17210.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "d5/d92/a17210.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "d5/d92/a17210.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "Cooldown", "d5/d92/a17210.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
+    [ "Entry", "d5/d92/a17210.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
+    [ "TargetPosition", "d5/d92/a17210.html#ac47af49622012b4ad40357cadc5214b3", null ]
 ];

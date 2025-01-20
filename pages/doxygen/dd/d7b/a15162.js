@@ -1,7 +1,5 @@
 var a15162 =
 [
-    [ "HandleDummy", "dd/d7b/a15162.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
-    [ "PrepareSpellScript", "dd/d7b/a15162.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
-    [ "Register", "dd/d7b/a15162.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
-    [ "Validate", "dd/d7b/a15162.html#a041c84fd605abd36b8f774903a5200dc", null ]
+    [ "at_ancient_leaf", "dd/d7b/a15162.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
+    [ "OnTrigger", "dd/d7b/a15162.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
 ];

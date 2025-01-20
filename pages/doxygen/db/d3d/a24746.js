@@ -1,7 +1,7 @@
 var a24746 =
 [
-    [ "HandleScript", "db/d3d/a24746.html#ad1ca4c264e1f89adf479254e6436dd55", null ],
-    [ "Load", "db/d3d/a24746.html#a66db2b82a0f014e49bbfeeaade4d1731", null ],
-    [ "PrepareSpellScript", "db/d3d/a24746.html#a7616d761e7a7a708c88918302b488bb9", null ],
-    [ "Register", "db/d3d/a24746.html#a8ca351c9e0e254369328865eefa3ff91", null ]
+    [ "HandleScript", "db/d3d/a24746.html#a8ec57aed0788f58e2c50fc08793a5749", null ],
+    [ "PrepareSpellScript", "db/d3d/a24746.html#a56c9ab120239252982cab8b96ac8c5fe", null ],
+    [ "Register", "db/d3d/a24746.html#a8c727b2b00858abcce058b16d66ca62a", null ],
+    [ "Validate", "db/d3d/a24746.html#af3ffb9930eaba8703065719bbcf02f56", null ]
 ];

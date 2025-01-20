@@ -1,7 +1,5 @@
 var a26682 =
 [
-    [ "HandleScript", "d0/d5c/a26682.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
-    [ "PrepareSpellScript", "d0/d5c/a26682.html#ab363d596d2d1e030f0cc07126b40e921", null ],
-    [ "Register", "d0/d5c/a26682.html#ab9041b811e80e220828d5db59b724682", null ],
-    [ "Validate", "d0/d5c/a26682.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
+    [ "achievement_save_the_day", "d0/d5c/a26682.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
+    [ "OnCheck", "d0/d5c/a26682.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
 ];

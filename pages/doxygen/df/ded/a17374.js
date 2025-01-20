@@ -1,6 +1,6 @@
 var a17374 =
 [
-    [ "IgbTeleportOnVictoryCheck", "df/ded/a17374.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "df/ded/a17374.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "df/ded/a17374.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "BurningPitchFilterCheck", "df/ded/a17374.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
+    [ "operator()", "df/ded/a17374.html#a24be987c8471d8a7096025debf6e60b1", null ],
+    [ "_entry", "df/ded/a17374.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
 ];

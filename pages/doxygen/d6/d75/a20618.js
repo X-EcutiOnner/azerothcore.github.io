@@ -1,11 +1,7 @@
 var a20618 =
 [
-    [ "boss_yoggsaron_neltharionAI", "d6/d75/a20618.html#aacefe32de32513bdf46c0dd526768e25", null ],
-    [ "NextStep", "d6/d75/a20618.html#a4770948240ac56ec151c262c8996e4e4", null ],
-    [ "Reset", "d6/d75/a20618.html#a03841acfd21e920bc6589203448709a0", null ],
-    [ "Say", "d6/d75/a20618.html#ae45f051ab64ce1f96f32e5b8d073356e", null ],
-    [ "UpdateAI", "d6/d75/a20618.html#a80c174a8ffa15550627ed27ab0d8925d", null ],
-    [ "_checkTimer", "d6/d75/a20618.html#a7eef651198e09cf25c2f039bcb4a1876", null ],
-    [ "_running", "d6/d75/a20618.html#a6b2f01ed2ffe8113cbddd4a033886059", null ],
-    [ "_step", "d6/d75/a20618.html#a0ac37717e940b094d322a7e492202718", null ]
+    [ "OnApply", "d6/d75/a20618.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
+    [ "OnRemove", "d6/d75/a20618.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
+    [ "PrepareAuraScript", "d6/d75/a20618.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
+    [ "Register", "d6/d75/a20618.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
 ];

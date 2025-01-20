@@ -1,9 +1,8 @@
 var a25814 =
 [
-    [ "Load", "dd/d94/a25814.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "dd/d94/a25814.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "dd/d94/a25814.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "dd/d94/a25814.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "dd/d94/a25814.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "dd/d94/a25814.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "Load", "dd/d94/a25814.html#a7662d85a5469c20edf6d2eefca820db3", null ],
+    [ "PrepareAuraScript", "dd/d94/a25814.html#a252bd975a7639eab4e151249db974b7c", null ],
+    [ "Register", "dd/d94/a25814.html#a51723a22f1062f44e8eb6848e1398595", null ],
+    [ "Split", "dd/d94/a25814.html#a08e982eae6030fdc679663bfd38bca47", null ],
+    [ "remainingAmount", "dd/d94/a25814.html#afaab88988769ddc720deb44f06de3d7d", null ]
 ];

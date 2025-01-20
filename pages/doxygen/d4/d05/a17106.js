@@ -1,8 +1,6 @@
 var a17106 =
 [
-    [ "OnApply", "d4/d05/a17106.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
-    [ "OnRemove", "d4/d05/a17106.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
-    [ "PrepareAuraScript", "d4/d05/a17106.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
-    [ "Register", "d4/d05/a17106.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
-    [ "Validate", "d4/d05/a17106.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
+    [ "boss_deathbringer_saurfangAI", "de/d71/a17110.html", "de/d71/a17110" ],
+    [ "boss_deathbringer_saurfang", "d4/d05/a17106.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "d4/d05/a17106.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

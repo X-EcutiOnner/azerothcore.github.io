@@ -1,7 +1,7 @@
 var a25498 =
 [
-    [ "Load", "d3/d4d/a25498.html#a8be944ae201f4f8406948aff78f982d9", null ],
-    [ "OnDummyEffect", "d3/d4d/a25498.html#adcb707400963e549a295e115d6f3583b", null ],
-    [ "PrepareSpellScript", "d3/d4d/a25498.html#a5b2175a933df10d775bc3381f515aa96", null ],
-    [ "Register", "d3/d4d/a25498.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
+    [ "HandleDummy", "d3/d4d/a25498.html#a630b3359dcecdb65992df67fbc4b197b", null ],
+    [ "PrepareSpellScript", "d3/d4d/a25498.html#a9960211eda513e642a386e0ff3bcd4c5", null ],
+    [ "Register", "d3/d4d/a25498.html#aaa1c9db89ddd7a7590b3b41b377d4cec", null ],
+    [ "Validate", "d3/d4d/a25498.html#a9af89aba8006d93b8c0ae2ce7143255e", null ]
 ];

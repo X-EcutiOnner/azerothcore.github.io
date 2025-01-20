@@ -1,7 +1,8 @@
 var a16194 =
 [
-    [ "npc_toc_enh_shamanAI", "dc/d5a/a16194.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "dc/d5a/a16194.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "dc/d5a/a16194.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "dc/d5a/a16194.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "npc_toc_pet_hunterAI", "dc/d5a/a16194.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "dc/d5a/a16194.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "dc/d5a/a16194.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "dc/d5a/a16194.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "dc/d5a/a16194.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];
