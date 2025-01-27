@@ -1,21 +1,23 @@
 var a01535 =
 [
-    [ "AddSC_achievement_scripts", "dc/d93/a01535.html#a5091d6f933800f3313078304ad5c38ca", null ],
-    [ "AddSC_action_ip_logger", "dc/d93/a01535.html#a530be5efb251d5ca58e97804e48ad953", null ],
-    [ "AddSC_areatrigger_scripts", "dc/d93/a01535.html#a992f2da647f1f8748c7c9239b52079ad", null ],
-    [ "AddSC_chat_log", "dc/d93/a01535.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ],
-    [ "AddSC_emerald_dragons", "dc/d93/a01535.html#aabef9c5c7a434027ce4d3af6e2b77430", null ],
-    [ "AddSC_generic_creature", "dc/d93/a01535.html#a50f66c4d6429b38157e35a75a0daa31d", null ],
-    [ "AddSC_go_scripts", "dc/d93/a01535.html#a279b19d9fff015d16fc8bbd2fbc9325a", null ],
-    [ "AddSC_guards", "dc/d93/a01535.html#acba582cbc90c710c629dd30926acdca4", null ],
-    [ "AddSC_item_scripts", "dc/d93/a01535.html#a3e28ebf5a580887bb117f786689a34c6", null ],
-    [ "AddSC_npc_innkeeper", "dc/d93/a01535.html#a3ffce1ea6cca981888af85ba67364df9", null ],
-    [ "AddSC_npc_professions", "dc/d93/a01535.html#a428ec531a2dc4e479b5c73e0d0694091", null ],
-    [ "AddSC_npc_stave_of_ancients", "dc/d93/a01535.html#a81e200e5d045a2403cd76a0559a6fd8c", null ],
-    [ "AddSC_npc_taxi", "dc/d93/a01535.html#a36f8a13e2844278c955f3a8155e7a11c", null ],
-    [ "AddSC_npcs_special", "dc/d93/a01535.html#aac822f73be6c9bf1dfaa4bbaec0e5aef", null ],
-    [ "AddSC_player_scripts", "dc/d93/a01535.html#a1f476a8466c12651b57fd55bf13b9617", null ],
-    [ "AddSC_server_mail", "dc/d93/a01535.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ],
-    [ "AddSC_transport_zeppelins", "dc/d93/a01535.html#a29051596b0a3382db98c6b72f7ff3173", null ],
-    [ "AddWorldScripts", "dc/d93/a01535.html#a5e7b18db76511725a47c51e9ce748575", null ]
+    [ "PathGenerator", "da/d2b/a09790.html", "da/d2b/a09790" ],
+    [ "DISALLOW_TIME_AFTER_FAIL", "dc/d93/a01535.html#ad29d27e72c40ec9a02fbdc29ee093857", null ],
+    [ "INVALID_POLYREF", "dc/d93/a01535.html#a6ed37c24cf4f8cd0008c13f111e01092", null ],
+    [ "MAX_PATH_LENGTH", "dc/d93/a01535.html#a9eb6992d76f02128388ae95c0415604a", null ],
+    [ "MAX_POINT_PATH_LENGTH", "dc/d93/a01535.html#ac4c3ae34e2d3733cc39fc1c207d4b814", null ],
+    [ "SMOOTH_PATH_SLOP", "dc/d93/a01535.html#a9439d6d260a5bf3c1bba446a935b2ce4", null ],
+    [ "SMOOTH_PATH_STEP_SIZE", "dc/d93/a01535.html#ab1ec8eeebdd39a1cceb896f6fcb996bc", null ],
+    [ "VERTEX_SIZE", "dc/d93/a01535.html#a14571eb5f0eee95bf614e04c59b0207a", null ],
+    [ "PathType", "dc/d93/a01535.html#ae093c9a96eda0463cdd2501ba83f10c3", [
+      [ "PATHFIND_BLANK", "dc/d93/a01535.html#ae093c9a96eda0463cdd2501ba83f10c3ae3e554bae74ad71bf12ba2eea8cc74d0", null ],
+      [ "PATHFIND_NORMAL", "dc/d93/a01535.html#ae093c9a96eda0463cdd2501ba83f10c3a58a5a66492944c141d0f386ce330b2c1", null ],
+      [ "PATHFIND_SHORTCUT", "dc/d93/a01535.html#ae093c9a96eda0463cdd2501ba83f10c3ae3c910a168f98f0694e99440aad8028f", null ],
+      [ "PATHFIND_INCOMPLETE", "dc/d93/a01535.html#ae093c9a96eda0463cdd2501ba83f10c3aee2f2083277a36e471f1bf1170fba3be", null ],
+      [ "PATHFIND_NOPATH", "dc/d93/a01535.html#ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984", null ],
+      [ "PATHFIND_NOT_USING_PATH", "dc/d93/a01535.html#ae093c9a96eda0463cdd2501ba83f10c3a4246537a1b739abb599260d9fbb83cdf", null ],
+      [ "PATHFIND_SHORT", "dc/d93/a01535.html#ae093c9a96eda0463cdd2501ba83f10c3a8a25c1fe0f8142291e2183102e647cc2", null ],
+      [ "PATHFIND_FARFROMPOLY_START", "dc/d93/a01535.html#ae093c9a96eda0463cdd2501ba83f10c3a6a98cd66fb2172475b98b7fa120a64ab", null ],
+      [ "PATHFIND_FARFROMPOLY_END", "dc/d93/a01535.html#ae093c9a96eda0463cdd2501ba83f10c3a100828592997ee8c90d192befefac0a9", null ],
+      [ "PATHFIND_FARFROMPOLY", "dc/d93/a01535.html#ae093c9a96eda0463cdd2501ba83f10c3a71d670c0e84fb7296854813de6452e6c", null ]
+    ] ]
 ];

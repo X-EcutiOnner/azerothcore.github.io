@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/tools/vmap4_extractor/wdtfile.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Time/GameTime.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,57 +105,49 @@ $(document).ready(function(){initNavTree('dd/d5c/a00578.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#namespaces">Namespaces</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">wdtfile.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">GameTime.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">wdtfile.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">adtfile.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">vmapexport.h</a>&quot;</code><br />
-<code>#include &lt;cstdio&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d0/dfa/a04759"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dfa/a04759.html">GameTime</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aec756087655d9d993d4475947742ba56"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d5c/a00578.html#aec756087655d9d993d4475947742ba56">wdtGetPlainName</a> (char *FileName)</td></tr>
-<tr class="separator:aec756087655d9d993d4475947742ba56"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a872d34d3f9d420cfc749073c809931f9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dfa/a04759.html#a872d34d3f9d420cfc749073c809931f9">GameTime::GetStartTime</a> ()</td></tr>
+<tr class="separator:a872d34d3f9d420cfc749073c809931f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adbe1785d1327dedf2ac403b7cc8e99c2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dfa/a04759.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a> ()</td></tr>
+<tr class="separator:adbe1785d1327dedf2ac403b7cc8e99c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d0d49f37e25e497391157b2a2ec90c1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dfa/a04759.html#a6d0d49f37e25e497391157b2a2ec90c1">GameTime::GetGameTimeMS</a> ()</td></tr>
+<tr class="separator:a6d0d49f37e25e497391157b2a2ec90c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a443eccf314fe436192278d425d6d8220"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#ada798961abc5a533d616ff780f567bb6">SystemTimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dfa/a04759.html#a443eccf314fe436192278d425d6d8220">GameTime::GetSystemTime</a> ()</td></tr>
+<tr class="memdesc:a443eccf314fe436192278d425d6d8220"><td class="mdescLeft">&#160;</td><td class="mdescRight">Current chrono system_clock time point.  <a href="../../d0/dfa/a04759.html#a443eccf314fe436192278d425d6d8220">More...</a><br /></td></tr>
+<tr class="separator:a443eccf314fe436192278d425d6d8220"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae5cc9f17fc6b8b15c678fa7a84a6e117"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dfa/a04759.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a> ()</td></tr>
+<tr class="memdesc:ae5cc9f17fc6b8b15c678fa7a84a6e117"><td class="mdescLeft">&#160;</td><td class="mdescRight">Current chrono steady_clock time point.  <a href="../../d0/dfa/a04759.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">More...</a><br /></td></tr>
+<tr class="separator:ae5cc9f17fc6b8b15c678fa7a84a6e117"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2ff9233756dd88fa1aafcc1e1c0be4d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dfa/a04759.html#ae2ff9233756dd88fa1aafcc1e1c0be4d">GameTime::GetUptime</a> ()</td></tr>
+<tr class="memdesc:ae2ff9233756dd88fa1aafcc1e1c0be4d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Uptime.  <a href="../../d0/dfa/a04759.html#ae2ff9233756dd88fa1aafcc1e1c0be4d">More...</a><br /></td></tr>
+<tr class="separator:ae2ff9233756dd88fa1aafcc1e1c0be4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a45712735241c9563a12fc3da54fb144d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dfa/a04759.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a> ()</td></tr>
+<tr class="memdesc:a45712735241c9563a12fc3da54fb144d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Update all timers.  <a href="../../d0/dfa/a04759.html#a45712735241c9563a12fc3da54fb144d">More...</a><br /></td></tr>
+<tr class="separator:a45712735241c9563a12fc3da54fb144d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="aec756087655d9d993d4475947742ba56" name="aec756087655d9d993d4475947742ba56"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec756087655d9d993d4475947742ba56">&#9670;&#160;</a></span>wdtGetPlainName()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">char * wdtGetPlainName </td>
-          <td>(</td>
-          <td class="paramtype">char *&#160;</td>
-          <td class="paramname"><em>FileName</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
-<div class="line"><span class="lineno">   26</span>    <span class="keywordtype">char</span>* szTemp;</div>
-<div class="line"><span class="lineno">   27</span> </div>
-<div class="line"><span class="lineno">   28</span>    <span class="keywordflow">if</span> ((szTemp = strrchr(FileName, <span class="charliteral">&#39;\\&#39;</span>)) != <span class="keyword">nullptr</span>)</div>
-<div class="line"><span class="lineno">   29</span>        FileName = szTemp + 1;</div>
-<div class="line"><span class="lineno">   30</span>    <span class="keywordflow">return</span> FileName;</div>
-<div class="line"><span class="lineno">   31</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00038">WDTFile::init()</a>.</p>
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_b604cd515113e1b9d14f26b265d784ac.html">vmap4_extractor</a></li><li class="navelem"><a class="el" href="../../dd/d5c/a00578.html">wdtfile.cpp</a></li>
-    <li class="footer">Generated on Mon Jan 20 2025 20:41:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7c8cab10b3149c3fa669be6ae86b4819.html">Time</a></li><li class="navelem"><a class="el" href="../../dd/d5c/a00578.html">GameTime.h</a></li>
+    <li class="footer">Generated on Mon Jan 27 2025 20:41:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

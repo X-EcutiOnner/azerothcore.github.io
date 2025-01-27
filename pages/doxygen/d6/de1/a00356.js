@@ -1,6 +1,6 @@
 var a00356 =
 [
-    [ "Acore::Impl::GenericHMAC< HashCreator, DigestLength >", "db/df6/a05082.html", "db/df6/a05082" ],
-    [ "HMAC_SHA1", "d6/de1/a00356.html#a5186a2a02e2301ec3ea7b37d8b41097f", null ],
-    [ "HMAC_SHA256", "d6/de1/a00356.html#a80d906d20826d6c963f50eba5f7c4c2a", null ]
+    [ "mean", "d6/de1/a00356.html#a64ba279a3d3edca415239118167c0206", null ],
+    [ "median", "d6/de1/a00356.html#a4840fd449eb626bea901860e4c1be22a", null ],
+    [ "standard_deviation", "d6/de1/a00356.html#a60ce9c7718ec2901f037e2368f93026d", null ]
 ];

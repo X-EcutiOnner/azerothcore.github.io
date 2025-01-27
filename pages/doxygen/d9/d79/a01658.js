@@ -1,7 +1,6 @@
 var a01658 =
 [
-    [ "instance_gundrak", "d1/d23/a16934.html", "d1/d23/a16934" ],
-    [ "instance_gundrak::instance_gundrak_InstanceMapScript", "dc/d7d/a16938.html", "dc/d7d/a16938" ],
-    [ "AddSC_instance_gundrak", "d9/d79/a01658.html#a232822e6236513eb23c90943d98fd6dc", null ],
-    [ "doorData", "d9/d79/a01658.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "GameEventAIHookWorker", "de/d8f/a08658.html", "de/d8f/a08658" ],
+    [ "IsEventActive", "d9/d79/a01658.html#aaddb0f1fada20faf4702603241206f91", null ],
+    [ "IsHolidayActive", "d9/d79/a01658.html#a429db26781d2673aa2f031fc1327ffaf", null ]
 ];

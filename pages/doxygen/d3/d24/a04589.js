@@ -1,24 +1,24 @@
 var a04589 =
 [
-    [ "CharacterDatabasePreparedStatement", "d3/d24/a04589.html#adabd50def0511ee540f8e1296c8cf782", null ],
-    [ "CharacterDatabaseQueryHolder", "d3/d24/a04589.html#a350c68a4024b7fe5ae02a70f35c149d8", null ],
-    [ "CharacterDatabaseTransaction", "d3/d24/a04589.html#a96bac9a371212c6bab7a9448214666c0", null ],
-    [ "LoginDatabasePreparedStatement", "d3/d24/a04589.html#acd39cc80301f953b6d9adfee2f9585c8", null ],
-    [ "LoginDatabaseQueryHolder", "d3/d24/a04589.html#a3e04fac4bd7cb26970c374dd1787cbbb", null ],
-    [ "LoginDatabaseTransaction", "d3/d24/a04589.html#aa0ef7192ac59bc820849e5e21e3e08b7", null ],
-    [ "PreparedQueryResult", "d3/d24/a04589.html#ac6110b8d867b5f84f677555d07037acb", null ],
-    [ "PreparedQueryResultFuture", "d3/d24/a04589.html#a2011f9efd3a5d95695395eba86e79fab", null ],
-    [ "PreparedQueryResultPromise", "d3/d24/a04589.html#a1b3aab1f5d953820d83af94034da3da2", null ],
-    [ "QueryCallbackProcessor", "d3/d24/a04589.html#ab28e91495454917e2f4623ba259c3b2a", null ],
-    [ "QueryResult", "d3/d24/a04589.html#ab0c9feeec448a181290fcb39565b8253", null ],
-    [ "QueryResultFuture", "d3/d24/a04589.html#aaafe95f05c6db404e8bb61be587c7ca1", null ],
-    [ "QueryResultHolderFuture", "d3/d24/a04589.html#afa682c0dbd4467d34bc28101c82c8959", null ],
-    [ "QueryResultHolderPromise", "d3/d24/a04589.html#ad57a63776c96b99707576dd6f1ff7c29", null ],
-    [ "QueryResultPromise", "d3/d24/a04589.html#a57de3b80b12c90e51398bf934fdc828b", null ],
-    [ "SQLTransaction", "d3/d24/a04589.html#ab2badaea4b4827995daef3e2dec0f9cd", null ],
-    [ "TransactionFuture", "d3/d24/a04589.html#ad8826e834522c9cacfd021d4529b4f87", null ],
-    [ "TransactionPromise", "d3/d24/a04589.html#a363198b2c33dce9fd461ffd94bf063ac", null ],
-    [ "WorldDatabasePreparedStatement", "d3/d24/a04589.html#a9a67db2ce35b3ac1d187318422f3ee95", null ],
-    [ "WorldDatabaseQueryHolder", "d3/d24/a04589.html#a671c534314a7e095bb2bf72e2cc0fcbb", null ],
-    [ "WorldDatabaseTransaction", "d3/d24/a04589.html#a858dac975c33053feb33400380cec907", null ]
+    [ "MMAP::MeshData", "de/dfe/a28374.html", "de/dfe/a28374" ],
+    [ "MMAP::TerrainBuilder", "d8/de3/a28378.html", "d8/de3/a28378" ],
+    [ "Grid", "d3/d24/a04589.html#a6ddcf7a168396ad1ecedfc4e5fe04c09", [
+      [ "GRID_V8", "d3/d24/a04589.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a1b3d969edeab4d39be8a3a59ebca6e0b", null ],
+      [ "GRID_V9", "d3/d24/a04589.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a90e846a47ab162703bf2dc5664a61289", null ]
+    ] ],
+    [ "Spot", "d3/d24/a04589.html#aa0140172b3856ff5a4e0db0227a41165", [
+      [ "TOP", "d3/d24/a04589.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1", null ],
+      [ "RIGHT", "d3/d24/a04589.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e", null ],
+      [ "LEFT", "d3/d24/a04589.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b", null ],
+      [ "BOTTOM", "d3/d24/a04589.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04", null ],
+      [ "ENTIRE", "d3/d24/a04589.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12", null ]
+    ] ],
+    [ "GRID_PART_SIZE", "d3/d24/a04589.html#a39bc2d4fa649e77addef85b06c49b369", null ],
+    [ "GRID_SIZE", "d3/d24/a04589.html#a16e4fdf7de4239156a5a8eb83dcc9e8c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT", "d3/d24/a04589.html#a44bbf7085ddd1deacaae673ea4ec357c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT_MAX", "d3/d24/a04589.html#a26a6da9ce81eb096651bf47cb90f947f", null ],
+    [ "V8_SIZE", "d3/d24/a04589.html#a6918d13eba00db309998162fbff2fb7c", null ],
+    [ "V8_SIZE_SQ", "d3/d24/a04589.html#a94a0ee7c4f225dfc488737a7ba825bae", null ],
+    [ "V9_SIZE", "d3/d24/a04589.html#a32c90e1638c0f8693e2fc95201d2ec3f", null ],
+    [ "V9_SIZE_SQ", "d3/d24/a04589.html#a7eb8c24e8759cfd1ebd37b1efc72618b", null ]
 ];

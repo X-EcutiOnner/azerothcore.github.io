@@ -12,7 +12,7 @@ var a11530 =
     [ "HandleServerRestartCommand", "d7/d90/a11530.html#a3ec7dd1f81f3b4b8adcb5f04f4d20f3f", null ],
     [ "HandleServerSetClosedCommand", "d7/d90/a11530.html#a2ba489469cdb3c8da944f7d6547ae462", null ],
     [ "HandleServerSetLogLevelCommand", "d7/d90/a11530.html#a1ce5627c1d948b5a5c86db54357de02a", null ],
-    [ "HandleServerSetMotdCommand", "d7/d90/a11530.html#ae64908e20c0c247d86b11e8422c0fa8c", null ],
+    [ "HandleServerSetMotdCommand", "d7/d90/a11530.html#a8cf2076d5e5fa3b35fddba117cd990bb", null ],
     [ "HandleServerShutDownCancelCommand", "d7/d90/a11530.html#ae64357518538c1ce4d03a8d9968b4035", null ],
     [ "HandleServerShutDownCommand", "d7/d90/a11530.html#a514149a8d1dfc4513e0c71b69901767d", null ]
 ];

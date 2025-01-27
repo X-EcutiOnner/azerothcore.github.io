@@ -5,5 +5,6 @@ var a12602 =
     [ "JustSummoned", "d8/db4/a12602.html#a9bc7808889da754bae9c935418975f90", null ],
     [ "KilledUnit", "d8/db4/a12602.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
     [ "Reset", "d8/db4/a12602.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
-    [ "SummonedCreatureDies", "d8/db4/a12602.html#a4bd88222143d8db098312cff8a2fc969", null ]
+    [ "SummonedCreatureDies", "d8/db4/a12602.html#a4bd88222143d8db098312cff8a2fc969", null ],
+    [ "_energyCooldown", "d8/db4/a12602.html#a395d2186d70d1b7e29dbada7750da354", null ]
 ];

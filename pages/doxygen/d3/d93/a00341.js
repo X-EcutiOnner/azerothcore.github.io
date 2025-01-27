@@ -1,17 +1,15 @@
 var a00341 =
 [
-    [ "apply", "d3/d93/a00341.html#a6177d7ac84a4ea6819c57a124345540e", null ],
-    [ "convert", "d3/d93/a00341.html#a5628479f846d755da3ff53b0e2a66c26", null ],
-    [ "convert< 0 >", "d3/d93/a00341.html#aa8017307aa0aa935f062b4f701563d09", null ],
-    [ "convert< 1 >", "d3/d93/a00341.html#a3717e304a2b8b074fcd513ca8e0db116", null ],
-    [ "EndianConvert", "d3/d93/a00341.html#a49a7404e8b8e7030c609822047db18e8", null ],
-    [ "EndianConvert", "d3/d93/a00341.html#a9d20b1e463a04f0a22d79ca802902be6", null ],
-    [ "EndianConvert", "d3/d93/a00341.html#af2e19073fdc053bb0299b663fa1ee757", null ],
-    [ "EndianConvert", "d3/d93/a00341.html#a7a138a6c8a71f6e9bd8eb436a598f628", null ],
-    [ "EndianConvertPtr", "d3/d93/a00341.html#a73b1f88261dfd018f7f185b0ea941c88", null ],
-    [ "EndianConvertPtrReverse", "d3/d93/a00341.html#a8b9f1be37ef60cffbb862512d9374dd4", null ],
-    [ "EndianConvertReverse", "d3/d93/a00341.html#acdb2b3cf0ea55e72e1d4047380cbd260", null ],
-    [ "EndianConvertReverse", "d3/d93/a00341.html#a71946d011105dec5ad60c6875066ed86", null ],
-    [ "EndianConvertReverse", "d3/d93/a00341.html#a1fa1c447bec92bbf436d429b422cc2e7", null ],
-    [ "EndianConvertReverse", "d3/d93/a00341.html#a2adbd00f9fd7adfc4bd3d26ae1565a0b", null ]
+    [ "RandomEngine", "d5/d84/a05394.html", "d5/d84/a05394" ],
+    [ "frand", "d3/d93/a00341.html#aa28484fcb823a22578601847e4b0ddb4", null ],
+    [ "irand", "d3/d93/a00341.html#a0a5e53ee066789ecb565abc05fe36dbc", null ],
+    [ "rand32", "d3/d93/a00341.html#ab91ed86274e1e52eb314784862b61696", null ],
+    [ "rand_chance", "d3/d93/a00341.html#a60564a0d93e0c87809379e0c1fa7acd1", null ],
+    [ "rand_norm", "d3/d93/a00341.html#ad552d8147f66d6ec0cd44271e8799599", null ],
+    [ "randtime", "d3/d93/a00341.html#a2fc61a89dc958460e6eabe08d87a4021", null ],
+    [ "roll_chance_f", "d3/d93/a00341.html#a4b15099bc81731469c5078a778673c94", null ],
+    [ "roll_chance_i", "d3/d93/a00341.html#a50320d4edff86db31b25138ae72161ad", null ],
+    [ "urand", "d3/d93/a00341.html#a3648faa6a1353eac6d2eec0b399c5aba", null ],
+    [ "urandms", "d3/d93/a00341.html#a1a4ee564518371004a4d34135600bfa0", null ],
+    [ "urandweighted", "d3/d93/a00341.html#a673de62907a2657190e58678691d3b36", null ]
 ];

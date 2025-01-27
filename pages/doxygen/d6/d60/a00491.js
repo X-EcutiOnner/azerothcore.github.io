@@ -1,7 +1,9 @@
 var a00491 =
 [
-    [ "CleanStringForMysqlQuery", "d6/d60/a00491.html#a4750695bf6f728da1b0356af3ddaabc9", null ],
-    [ "GetLocaleByName", "d6/d60/a00491.html#a8051d28826d995169bd4ce60310d5d65", null ],
-    [ "GetNameByLocaleConstant", "d6/d60/a00491.html#a3a6dbe16dbe45905c1f3aabc858c1fe1", null ],
-    [ "localeNames", "d6/d60/a00491.html#a32b3de4eb98b686cc6472385a449e4e9", null ]
+    [ "NodeArray< Node >", "dc/d66/a05014.html", "dc/d66/a05014" ],
+    [ "NodeCreator< Node >", "d8/d10/a05018.html", "d8/d10/a05018" ],
+    [ "RegularGrid2D< T, Node, NodeCreatorFunc, PositionFunc >", "df/dab/a05022.html", "df/dab/a05022" ],
+    [ "RegularGrid2D< T, Node, NodeCreatorFunc, PositionFunc >::Cell", "d2/df7/a05026.html", "d2/df7/a05026" ],
+    [ "CELL_SIZE", "d6/d60/a00491.html#a7a4127f14f16563da90eb3c836bc404f", null ],
+    [ "HGRID_MAP_SIZE", "d6/d60/a00491.html#ac836977c6cb1a34ebc070436978fb2bb", null ]
 ];

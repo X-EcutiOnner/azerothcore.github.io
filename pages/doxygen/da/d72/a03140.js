@@ -1,12 +1,21 @@
 var a03140 =
 [
-    [ "WorldObjectScript", "d6/d82/a10118.html", "d6/d82/a10118" ],
-    [ "WorldObjectHook", "da/d72/a03140.html#ab8a14556853bd2637a19973d68ba6d1c", [
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_DESTROY", "da/d72/a03140.html#ab8a14556853bd2637a19973d68ba6d1ca19911e8e8d81b83808647214673201ce", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_CREATE", "da/d72/a03140.html#ab8a14556853bd2637a19973d68ba6d1caa4f7a14c3e5de3e6ace4c9a4bacc656c", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_SET_MAP", "da/d72/a03140.html#ab8a14556853bd2637a19973d68ba6d1ca06f900f1b11de87d54d283b4433d5100", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_RESET_MAP", "da/d72/a03140.html#ab8a14556853bd2637a19973d68ba6d1cac1f7c2d5eb2a8755ef8e628c8c769241", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_UPDATE", "da/d72/a03140.html#ab8a14556853bd2637a19973d68ba6d1ca7fcc241c6d7db7844d86f1d88fb06144", null ],
-      [ "WORLDOBJECTHOOK_END", "da/d72/a03140.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59", null ]
-    ] ]
+    [ "instance_sunwell_plateau", "d8/d9e/a13166.html", "d8/d9e/a13166" ],
+    [ "instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript", "de/d6b/a13170.html", "de/d6b/a13170" ],
+    [ "spell_cataclysm_breath", "db/d69/a13174.html", "db/d69/a13174" ],
+    [ "cataclysmBreath", "da/d72/a03140.html#a6a5181bd462eed11e28ffb04c14a901c", [
+      [ "SPELL_CORROSIVE_POISON", "da/d72/a03140.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3", null ],
+      [ "SPELL_FEVERED_FATIGUE", "da/d72/a03140.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222", null ],
+      [ "SPELL_HEX", "da/d72/a03140.html#a6a5181bd462eed11e28ffb04c14a901ca88cd9f67c5feb7f0ba6c853b8520a00b", null ],
+      [ "SPELL_NECROTIC_POISON", "da/d72/a03140.html#a6a5181bd462eed11e28ffb04c14a901ca91659ae45d576a823387ef54f56e2c4b", null ],
+      [ "SPELL_PIERCING_SHADOW", "da/d72/a03140.html#a6a5181bd462eed11e28ffb04c14a901cadfad6c0302dc1ae7b545b95f9b85b58d", null ],
+      [ "SPELL_SHRINK", "da/d72/a03140.html#a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f", null ],
+      [ "SPELL_WAVERING_WILL", "da/d72/a03140.html#a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8", null ],
+      [ "SPELL_WITHERED_TOUCH", "da/d72/a03140.html#a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b", null ]
+    ] ],
+    [ "AddSC_instance_sunwell_plateau", "da/d72/a03140.html#a6f050a93b62a1391ae6321d1d2d6450a", null ],
+    [ "creatureData", "da/d72/a03140.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "da/d72/a03140.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "da/d72/a03140.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
+    [ "summonData", "da/d72/a03140.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

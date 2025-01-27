@@ -1,13 +1,26 @@
 var a04406 =
 [
-    [ "PetScript", "d0/d93/a10162.html", "d0/d93/a10162" ],
-    [ "PetHook", "d4/d61/a04406.html#a2e6398af59b176e045eece50b1a5d404", [
-      [ "PETHOOK_ON_INIT_STATS_FOR_LEVEL", "d4/d61/a04406.html#a2e6398af59b176e045eece50b1a5d404a1aa219c404710f806516a47fb4a2c421", null ],
-      [ "PETHOOK_ON_CALCULATE_MAX_TALENT_POINTS_FOR_LEVEL", "d4/d61/a04406.html#a2e6398af59b176e045eece50b1a5d404af4173fac4396520c8d5f664cb15cd09a", null ],
-      [ "PETHOOK_CAN_UNLEARN_SPELL_SET", "d4/d61/a04406.html#a2e6398af59b176e045eece50b1a5d404a73a664bf8c79a8347a66639e7f4585ed", null ],
-      [ "PETHOOK_CAN_UNLEARN_SPELL_DEFAULT", "d4/d61/a04406.html#a2e6398af59b176e045eece50b1a5d404afd7165a69bf431cabc9b485460fde1ce", null ],
-      [ "PETHOOK_CAN_RESET_TALENTS", "d4/d61/a04406.html#a2e6398af59b176e045eece50b1a5d404a7c81bb255968b85119ef74e3124abe11", null ],
-      [ "PETHOOK_ON_PET_ADD_TO_WORLD", "d4/d61/a04406.html#a2e6398af59b176e045eece50b1a5d404a34b989d3a1e33e5ab31d98bf4a36ee56", null ],
-      [ "PETHOOK_END", "d4/d61/a04406.html#a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911", null ]
-    ] ]
+    [ "boss_supremus", "d7/d94/a22666.html", "d7/d94/a22666" ],
+    [ "npc_supremus_punch_invisible_stalker", "d7/de0/a22670.html", "d7/de0/a22670" ],
+    [ "Supremus", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1ab", [
+      [ "EMOTE_NEW_TARGET", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1abacce041f211d3aacd7153648b2b22657d", null ],
+      [ "EMOTE_PUNCH_GROUND", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1aba18c2c02f5902d5eb449f84ea9b0dda48", null ],
+      [ "EMOTE_GROUND_CRACK", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1abaf6e451c3b6d1ba936baa236a0676e9da", null ],
+      [ "EMOTE_BERSERK", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1abad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
+      [ "SPELL_SNARE_SELF", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1aba088a20b95bb9f7f7225f39e5785ef4ea", null ],
+      [ "SPELL_MOLTEN_PUNCH", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1abad4325a0886f125ee1e818a2b0b78ceed", null ],
+      [ "SPELL_MOLTEN_FLAME", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1aba75a6d3be947216957892ac27dcf52a1d", null ],
+      [ "SPELL_HATEFUL_STRIKE", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1ababad6e8ef38e36b223ac12f2dbb1711b1", null ],
+      [ "SPELL_VOLCANIC_ERUPTION", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1aba35f23f72605836bef98b77ae75bb8103", null ],
+      [ "SPELL_VOLCANIC_ERUPTION_TRIGGER", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1abad1c54825503fd69f4f3beb7d4079ad6c", null ],
+      [ "SPELL_VOLCANIC_GEYSER", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1aba6c3253da2383661bc757e74284163365", null ],
+      [ "SPELL_BERSERK", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1abad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
+      [ "SPELL_CHARGE", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1aba379cd345f5bd4f776413760e5e279963", null ],
+      [ "SPELL_SERVERSIDE_RANDOM_TARGET", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1aba4afeaddc7e00f338f7033e0421934935", null ],
+      [ "NPC_SUPREMUS_VOLCANO", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1aba01e88a8ace84793859cb15cd5301cf2e", null ],
+      [ "GROUP_ABILITIES", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1abab77bbe102634006229e15f0a32fb6c9a", null ],
+      [ "GROUP_MOLTEN_PUNCH", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1abafd320e90ca8fd7f4c9b70c71f92e4bd6", null ],
+      [ "GROUP_PHASE_CHANGE", "d4/d61/a04406.html#a5a2dccece1c55769858f3285c94af1aba9ef91e5b4ca91a9b1f730f400fef1c78", null ]
+    ] ],
+    [ "AddSC_boss_supremus", "d4/d61/a04406.html#aca4140213fae739c682d7d7e241294e0", null ]
 ];

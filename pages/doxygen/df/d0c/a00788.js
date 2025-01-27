@@ -1,23 +1,18 @@
 var a00788 =
 [
-    [ "boss_ghazan", "d1/d23/a23082.html", "d1/d23/a23082" ],
-    [ "at_underbog_ghazan", "dd/d2b/a23086.html", "dd/d2b/a23086" ],
-    [ "eBlackStalker", "df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954", [
-      [ "SPELL_ACID_BREATH", "df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c", null ],
-      [ "SPELL_ACID_SPIT", "df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806", null ],
-      [ "SPELL_TAIL_SWEEP", "df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823", null ],
-      [ "SPELL_ENRAGE", "df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e", null ],
-      [ "ACTION_MOVE_TO_PLATFORM", "df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa", null ],
-      [ "SPELL_LEVITATE", "da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2", null ],
-      [ "SPELL_CHAIN_LIGHTNING", "da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_STATIC_CHARGE", "da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0", null ],
-      [ "SPELL_SUMMON_SPORE_STRIDER", "da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed", null ],
-      [ "SPELL_LEVITATION_PULSE", "da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1", null ],
-      [ "SPELL_SOMEONE_GRAB_ME", "da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b", null ],
-      [ "SPELL_MAGNETIC_PULL", "da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5", null ],
-      [ "SPELL_SUSPENSION_PRIMER", "da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de", null ],
-      [ "SPELL_SUSPENSION", "da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0", null ],
-      [ "ENTRY_SPORE_STRIDER", "da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2", null ]
-    ] ],
-    [ "AddSC_boss_ghazan", "df/d0c/a00788.html#a6b7605f750dab7f676edcd83f54c249a", null ]
+    [ "AuctionHouseScript", "df/d38/a10054.html", "df/d38/a10054" ],
+    [ "AuctionHouseHook", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9", [
+      [ "AUCTIONHOUSEHOOK_ON_AUCTION_ADD", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0", null ],
+      [ "AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2", null ],
+      [ "AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff", null ],
+      [ "AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e", null ],
+      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9", null ],
+      [ "AUCTIONHOUSEHOOK_END", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc", null ]
+    ] ]
 ];

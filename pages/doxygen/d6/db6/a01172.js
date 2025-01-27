@@ -1,37 +1,37 @@
 var a01172 =
 [
-    [ "npc_ame", "da/da8/a15386.html", "da/da8/a15386" ],
-    [ "npc_ame::npc_ameAI", "d0/d49/a15390.html", "d0/d49/a15390" ],
-    [ "npc_ringo", "d6/d45/a15394.html", "d6/d45/a15394" ],
-    [ "npc_ringo::npc_ringoAI", "d0/d58/a15398.html", "d0/d58/a15398" ],
-    [ "AmeData", "d6/db6/a01172.html#abbb0f5e31bd003a50e94cc712dbab7c0", [
-      [ "SAY_READY", "d6/db6/a01172.html#abbb0f5e31bd003a50e94cc712dbab7c0a82af2bd2787802be3ff2ee4588ea9be4", null ],
-      [ "SAY_AGGRO1", "d6/db6/a01172.html#abbb0f5e31bd003a50e94cc712dbab7c0a17fd4d94120185f67ee94a41652285a5", null ],
-      [ "SAY_SEARCH", "d6/db6/a01172.html#abbb0f5e31bd003a50e94cc712dbab7c0a843a1ad765b601ed599c443b66ae5d77", null ],
-      [ "SAY_AGGRO2", "d6/db6/a01172.html#abbb0f5e31bd003a50e94cc712dbab7c0af73eb45ca3cf512147f1d25e1254c224", null ],
-      [ "SAY_AGGRO3", "d6/db6/a01172.html#abbb0f5e31bd003a50e94cc712dbab7c0aa623912b4ba266583234ba5df070e02e", null ],
-      [ "SAY_FINISH", "d6/db6/a01172.html#abbb0f5e31bd003a50e94cc712dbab7c0a0e5b4f2c41b1953cea52b7f41d134838", null ],
-      [ "SPELL_DEMORALIZINGSHOUT", "d6/db6/a01172.html#abbb0f5e31bd003a50e94cc712dbab7c0a8477c04b326171f69326346981b724e1", null ],
-      [ "QUEST_CHASING_AME", "d6/db6/a01172.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827", null ],
-      [ "ENTRY_TARLORD", "d6/db6/a01172.html#abbb0f5e31bd003a50e94cc712dbab7c0ab6db2c46b771ac7d038f25d35308beec", null ],
-      [ "ENTRY_TARLORD1", "d6/db6/a01172.html#abbb0f5e31bd003a50e94cc712dbab7c0ae1f81eb98b3fa0fc40666dedb0ece35f", null ],
-      [ "ENTRY_STOMPER", "d6/db6/a01172.html#abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a", null ]
+    [ "GlobalCooldown", "db/df9/a08518.html", "db/df9/a08518" ],
+    [ "GlobalCooldownMgr", "d0/d32/a08522.html", "d0/d32/a08522" ],
+    [ "UnitActionBarEntry", "d6/d15/a08526.html", "d6/d15/a08526" ],
+    [ "CharmInfo", "de/d71/a08530.html", "de/d71/a08530" ],
+    [ "MAKE_UNIT_ACTION_BUTTON", "d6/db6/a01172.html#aa4580ef0cb84c2cc5983e75cb92e3ed1", null ],
+    [ "MAX_SPELL_CHARM", "d6/db6/a01172.html#a05307279d313f131c83ace9bf30d5722", null ],
+    [ "MAX_SPELL_CONTROL_BAR", "d6/db6/a01172.html#af3f4a89bfde2856dbf998cc7d89f8c51", null ],
+    [ "MAX_SPELL_POSSESS", "d6/db6/a01172.html#a19b65e7e2b9f40fcfa66e74212d561c9", null ],
+    [ "MAX_SPELL_VEHICLE", "d6/db6/a01172.html#a6b632c5f71fb4538f4477a66a9ac63f4", null ],
+    [ "MAX_UNIT_ACTION_BAR_INDEX", "d6/db6/a01172.html#a155b8633f243004497699c184b903901", null ],
+    [ "UNIT_ACTION_BUTTON_ACTION", "d6/db6/a01172.html#a374f41406d42023d52c29bb269ccb2b3", null ],
+    [ "UNIT_ACTION_BUTTON_TYPE", "d6/db6/a01172.html#ab00914d5fa4caf6cad7209786ffaf17c", null ],
+    [ "CharmSpellInfo", "d6/db6/a01172.html#a127d601b79cebafada7224b7b4e0c4a2", null ],
+    [ "GlobalCooldownList", "d6/db6/a01172.html#a2f37b877a5fc8dc31f4543660a5b1af9", null ],
+    [ "ActionBarIndex", "d6/db6/a01172.html#a5656c6dd354cdc76da16094dd6f96724", [
+      [ "ACTION_BAR_INDEX_START", "d6/db6/a01172.html#a5656c6dd354cdc76da16094dd6f96724ac963f447654b9785c3236c79ea310b09", null ],
+      [ "ACTION_BAR_INDEX_PET_SPELL_START", "d6/db6/a01172.html#a5656c6dd354cdc76da16094dd6f96724a1b9025dc7f8331f6ca9fd0cfce1b0ae9", null ],
+      [ "ACTION_BAR_INDEX_PET_SPELL_END", "d6/db6/a01172.html#a5656c6dd354cdc76da16094dd6f96724a56eab700626db82e8012fc8daac5cee9", null ],
+      [ "ACTION_BAR_INDEX_END", "d6/db6/a01172.html#a5656c6dd354cdc76da16094dd6f96724a64eaabebc81e8d02513089d4d5591264", null ]
     ] ],
-    [ "Ringo", "d6/db6/a01172.html#a1eb7864fe2b6e6ec59692fb2f7c02592", [
-      [ "SAY_RIN_START", "d6/db6/a01172.html#a1eb7864fe2b6e6ec59692fb2f7c02592abd4cb0c4d5414164403e75fca667915b", null ],
-      [ "SAY_FAINT", "d6/db6/a01172.html#a1eb7864fe2b6e6ec59692fb2f7c02592a39f7b5e8a7fc4ed40e62cedfa93923bd", null ],
-      [ "SAY_WAKE", "d6/db6/a01172.html#a1eb7864fe2b6e6ec59692fb2f7c02592aadb6c63e08a18de76bcc95ca2e830a6e", null ],
-      [ "SAY_RIN_END_1", "d6/db6/a01172.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae8753384ff9e53b533a5a1cebd16ce64", null ],
-      [ "SAY_SPR_END_2", "d6/db6/a01172.html#a1eb7864fe2b6e6ec59692fb2f7c02592a1a913192c37c18a19114eebee21e1a85", null ],
-      [ "SAY_RIN_END_3", "d6/db6/a01172.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae29a03470647c5d13bcb1729160b1d8b", null ],
-      [ "EMOTE_RIN_END_4", "d6/db6/a01172.html#a1eb7864fe2b6e6ec59692fb2f7c02592aeeed58bd2d47e0450374129434bcf296", null ],
-      [ "EMOTE_RIN_END_5", "d6/db6/a01172.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac0c11a39be96e25065c399ff7dd7c484", null ],
-      [ "SAY_RIN_END_6", "d6/db6/a01172.html#a1eb7864fe2b6e6ec59692fb2f7c02592a699867c1deab61d85853622b099cd728", null ],
-      [ "SAY_SPR_END_7", "d6/db6/a01172.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac165214832e6be5740245dd6239ef2c9", null ],
-      [ "EMOTE_RIN_END_8", "d6/db6/a01172.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac034860ad6513469b74ad5b7cc76edc7", null ],
-      [ "SPELL_REVIVE_RINGO", "d6/db6/a01172.html#a1eb7864fe2b6e6ec59692fb2f7c02592a9fc3d4c57ff3ca56f344b70df866e766", null ],
-      [ "QUEST_A_LITTLE_HELP", "d6/db6/a01172.html#a1eb7864fe2b6e6ec59692fb2f7c02592a6ab7d20ae4eca495ad164638b1e68b51", null ],
-      [ "NPC_SPRAGGLE", "d6/db6/a01172.html#a1eb7864fe2b6e6ec59692fb2f7c02592a4bc3afbb0cf9626825ffda0b610e2e64", null ]
+    [ "ActiveStates", "d6/db6/a01172.html#aaec28a439b9086a5fd69bd5358bb46da", [
+      [ "ACT_PASSIVE", "d6/db6/a01172.html#aaec28a439b9086a5fd69bd5358bb46daad917b891f555940a135b2634d2e72b3b", null ],
+      [ "ACT_DISABLED", "d6/db6/a01172.html#aaec28a439b9086a5fd69bd5358bb46daadeaf81cdbd16fe7cfbb9afd2ae17cc17", null ],
+      [ "ACT_ENABLED", "d6/db6/a01172.html#aaec28a439b9086a5fd69bd5358bb46daa60dbce51e005270fd5bc183457883952", null ],
+      [ "ACT_COMMAND", "d6/db6/a01172.html#aaec28a439b9086a5fd69bd5358bb46daa33c1330b175929e3016c6bb437b60ae8", null ],
+      [ "ACT_REACTION", "d6/db6/a01172.html#aaec28a439b9086a5fd69bd5358bb46daa0435ad3a133e548a54374e9d90d39f0d", null ],
+      [ "ACT_DECIDE", "d6/db6/a01172.html#aaec28a439b9086a5fd69bd5358bb46daa24d8db1d523431e423ef8354296ed162", null ]
     ] ],
-    [ "AddSC_ungoro_crater", "d6/db6/a01172.html#a6e2c88161cee97e0e405ef83abcc653f", null ]
+    [ "CharmType", "d6/db6/a01172.html#a8a31720d588fad9fce4a74dabc39df8b", [
+      [ "CHARM_TYPE_CHARM", "d6/db6/a01172.html#a8a31720d588fad9fce4a74dabc39df8ba1a1eeed651d163cde9401370f9684249", null ],
+      [ "CHARM_TYPE_POSSESS", "d6/db6/a01172.html#a8a31720d588fad9fce4a74dabc39df8ba2a5727b1c99073b12be5d2e5413cc9eb", null ],
+      [ "CHARM_TYPE_VEHICLE", "d6/db6/a01172.html#a8a31720d588fad9fce4a74dabc39df8ba5db5c00596b83fd1ed870c3fea737fa6", null ],
+      [ "CHARM_TYPE_CONVERT", "d6/db6/a01172.html#a8a31720d588fad9fce4a74dabc39df8ba3086533ebf4fa00b6546f53176b512db", null ]
+    ] ]
 ];

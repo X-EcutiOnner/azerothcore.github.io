@@ -1,10 +1,9 @@
 var a04307 =
 [
-    [ "GameEventScript", "dc/d01/a10102.html", "dc/d01/a10102" ],
-    [ "GameEventHook", "d9/d4e/a04307.html#a6f634b591917b5ff2ab57f9739afa44b", [
-      [ "GAMEEVENTHOOK_ON_START", "d9/d4e/a04307.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
-      [ "GAMEEVENTHOOK_ON_STOP", "d9/d4e/a04307.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
-      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "d9/d4e/a04307.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
-      [ "GAMEEVENTHOOK_END", "d9/d4e/a04307.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
-    ] ]
+    [ "instance_blood_furnace", "db/d45/a23226.html", "db/d45/a23226" ],
+    [ "instance_blood_furnace::instance_blood_furnace_InstanceMapScript", "d6/d9b/a23230.html", "d6/d9b/a23230" ],
+    [ "AddSC_instance_blood_furnace", "d9/d4e/a04307.html#af803a0e2dfb7f53b6682e02b90bef865", null ],
+    [ "creatureData", "d9/d4e/a04307.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d9/d4e/a04307.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameobjectData", "d9/d4e/a04307.html#a845a92716bd40c99a93eb0715cd737b0", null ]
 ];

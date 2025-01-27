@@ -1,14 +1,10 @@
 var a01514 =
 [
-    [ "guard_shattrath_scryer", "dd/d39/a27066.html", "dd/d39/a27066" ],
-    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "de/d60/a27070.html", "de/d60/a27070" ],
-    [ "guard_shattrath_aldor", "df/def/a27074.html", "df/def/a27074" ],
-    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "dd/dc0/a27078.html", "dd/dc0/a27078" ],
-    [ "GuardShattrath", "d7/d22/a01514.html#a7c8fcdd86e1aa9eab132e6321290e79c", [
-      [ "SPELL_BANISHED_SHATTRATH_A", "d7/d22/a01514.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe", null ],
-      [ "SPELL_BANISHED_SHATTRATH_S", "d7/d22/a01514.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48", null ],
-      [ "SPELL_BANISH_TELEPORT", "d7/d22/a01514.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0", null ],
-      [ "SPELL_EXILE", "d7/d22/a01514.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d", null ]
-    ] ],
-    [ "AddSC_guards", "d7/d22/a01514.html#acba582cbc90c710c629dd30926acdca4", null ]
+    [ "SavedAddonsList", "d7/d22/a01514.html#afa468163a23ed58507a89e5724c06eac", null ],
+    [ "GetAddonInfo", "d7/d22/a01514.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "d7/d22/a01514.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "d7/d22/a01514.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "d7/d22/a01514.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
+    [ "m_bannedAddons", "d7/d22/a01514.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
+    [ "m_knownAddons", "d7/d22/a01514.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
 ];

@@ -1,16 +1,16 @@
 var a00557 =
 [
-    [ "DBCFileLoader", "dc/d78/a05094.html", "dc/d78/a05094" ],
-    [ "DBCFileLoader::Record", "d8/dc2/a05098.html", "d8/dc2/a05098" ],
-    [ "DbcFieldFormat", "d8/df0/a00557.html#a969264ba91452f632e809db524c68960", [
-      [ "FT_NA", "d8/df0/a00557.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c", null ],
-      [ "FT_NA_BYTE", "d8/df0/a00557.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c", null ],
-      [ "FT_STRING", "d8/df0/a00557.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29", null ],
-      [ "FT_FLOAT", "d8/df0/a00557.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a", null ],
-      [ "FT_INT", "d8/df0/a00557.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a", null ],
-      [ "FT_BYTE", "d8/df0/a00557.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095", null ],
-      [ "FT_SORT", "d8/df0/a00557.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642", null ],
-      [ "FT_IND", "d8/df0/a00557.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036", null ],
-      [ "FT_LOGIC", "d8/df0/a00557.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc", null ]
-    ] ]
+    [ "LinkValidator< T >", "da/dde/a07566.html", "da/dde/a07566" ],
+    [ "LinkValidator< LinkTags::achievement >", "da/d6b/a07570.html", "da/d6b/a07570" ],
+    [ "LinkValidator< LinkTags::item >", "d0/dd3/a07574.html", "d0/dd3/a07574" ],
+    [ "LinkValidator< LinkTags::quest >", "df/d2f/a07578.html", "df/d2f/a07578" ],
+    [ "LinkValidator< LinkTags::spell >", "df/dd7/a07582.html", "df/dd7/a07582" ],
+    [ "LinkValidator< LinkTags::enchant >", "d2/d62/a07586.html", "d2/d62/a07586" ],
+    [ "LinkValidator< LinkTags::glyph >", "d7/da3/a07590.html", "d7/da3/a07590" ],
+    [ "LinkValidator< LinkTags::talent >", "d0/db4/a07594.html", "d0/db4/a07594" ],
+    [ "LinkValidator< LinkTags::trade >", "d9/da8/a07598.html", "d9/da8/a07598" ],
+    [ "TryValidateAs", "d8/df0/a00557.html#af1c86bff85f30ff113d5f78421c280af", null ],
+    [ "toHex", "d8/df0/a00557.html#a0b5e4d40ad5549ddc48c127306499b6c", null ],
+    [ "ValidateAs", "d8/df0/a00557.html#a1021653ddd2d2e78df34d8c4a2a7ed93", null ],
+    [ "ValidateLinkInfo", "d8/df0/a00557.html#a7de61dd7d7c595063ae73f415e961cc9", null ]
 ];

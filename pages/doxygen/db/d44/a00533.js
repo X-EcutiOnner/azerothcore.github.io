@@ -1,6 +1,9 @@
 var a00533 =
 [
-    [ "GameObjectModelOwnerBase", "d2/d68/a04954.html", "d2/d68/a04954" ],
-    [ "GameObjectModel", "d1/dd4/a04958.html", "d1/dd4/a04958" ],
-    [ "LoadGameObjectModelList", "db/d44/a00533.html#a5a80774080fc05f90c7d92213fda6788", null ]
+    [ "AchievementVisitor", "d4/da1/a07414.html", "d4/da1/a07414" ],
+    [ "GameTeleVisitor", "d8/d85/a07418.html", "d8/d85/a07418" ],
+    [ "ItemTemplateVisitor", "d4/dec/a07422.html", "d4/dec/a07422" ],
+    [ "SpellInfoVisitor", "dc/dad/a07426.html", "dc/dad/a07426" ],
+    [ "QuestVisitor", "d5/d8e/a07430.html", "d5/d8e/a07430" ],
+    [ "ChatCommandResult", "db/d44/a00533.html#ad9c9d483b96ed400318aed8441ebe7f1", null ]
 ];

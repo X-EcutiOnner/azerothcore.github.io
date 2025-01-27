@@ -1,6 +1,8 @@
 var a04601 =
 [
-    [ "CharacterDatabase", "d8/d7c/a04601.html#a7e7534bc66d79434bd280b77cb124eec", null ],
-    [ "LoginDatabase", "d8/d7c/a04601.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
-    [ "WorldDatabase", "d8/d7c/a04601.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
+    [ "wdt_MPHD", "d8/dff/a28322.html", "d8/dff/a28322" ],
+    [ "wdt_MAIN", "de/d08/a28330.html", "de/d08/a28330" ],
+    [ "wdt_MAIN::adtData", "da/d0b/a28338.html", "da/d0b/a28338" ],
+    [ "WDT_file", "d6/dfb/a28342.html", "d6/dfb/a28342" ],
+    [ "WDT_MAP_SIZE", "d8/d7c/a04601.html#a0cf0c1d4bd3ed48612ab2a5e36b8cf10", null ]
 ];

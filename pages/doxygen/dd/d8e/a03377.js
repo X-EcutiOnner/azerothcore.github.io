@@ -1,8 +1,5 @@
 var a03377 =
 [
-    [ "PassiveAI", "de/d1f/a05994.html", "de/d1f/a05994" ],
-    [ "PossessedAI", "dd/d5d/a05998.html", "dd/d5d/a05998" ],
-    [ "NullCreatureAI", "d1/df7/a06002.html", "d1/df7/a06002" ],
-    [ "CritterAI", "dc/dd4/a06006.html", "dc/dd4/a06006" ],
-    [ "TriggerAI", "d3/d56/a06010.html", "d3/d56/a06010" ]
+    [ "spell_q12779_an_end_to_all_things", "d2/df3/a12754.html", "d2/df3/a12754" ],
+    [ "AddSC_the_scarlet_enclave_c3", "dd/d8e/a03377.html#add963c2bc2b515348b9b7c636d176927", null ]
 ];

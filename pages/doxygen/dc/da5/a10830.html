@@ -137,7 +137,7 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a2f41a91c1af6e5ad7c2cf9639df72747 inherit pub_methods_a28118"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a59c5558451742998e0e655f44bec2674 inherit pub_methods_a28118"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a28118.html#a59c5558451742998e0e655f44bec2674">Wait</a> ()</td></tr>
 <tr class="separator:a59c5558451742998e0e655f44bec2674 inherit pub_methods_a28118"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1cda269b54a5c18ea852e8eec1c1ed1a inherit pub_methods_a28118"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d1e/a00497.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a28118.html#a1cda269b54a5c18ea852e8eec1c1ed1a">GetConnectionCount</a> () const</td></tr>
+<tr class="memitem:a1cda269b54a5c18ea852e8eec1c1ed1a inherit pub_methods_a28118"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df8/a00155.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a28118.html#a1cda269b54a5c18ea852e8eec1c1ed1a">GetConnectionCount</a> () const</td></tr>
 <tr class="separator:a1cda269b54a5c18ea852e8eec1c1ed1a inherit pub_methods_a28118"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a77ff5884c64dad273ba2e29a848abb8b inherit pub_methods_a28118"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a28118.html#a77ff5884c64dad273ba2e29a848abb8b">AddSocket</a> (std::shared_ptr&lt; <a class="el" href="../../d6/dd9/a10826.html">WorldSocket</a> &gt; sock)</td></tr>
 <tr class="separator:a77ff5884c64dad273ba2e29a848abb8b inherit pub_methods_a28118"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -191,9 +191,9 @@ Additional Inherited Members</h2></td></tr>
 <p>Reimplemented from <a class="el" href="../../d5/d8a/a28118.html#a40bed7f56035f9d97f7091f608e7294c">NetworkThread&lt; WorldSocket &gt;</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">   29</span>    {</div>
 <div class="line"><span class="lineno">   30</span>        sock-&gt;SetSendBufferSize(<a class="code hl_define" href="../../d5/dfd/a04680.html#ga43ae464e29649083953e305b20b3e27f">sWorldSocketMgr</a>.GetApplicationSendBufferSize());</div>
-<div class="line"><span class="lineno">   31</span>        <a class="code hl_define" href="../../d1/d8f/a04202.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnSocketOpen(sock);</div>
+<div class="line"><span class="lineno">   31</span>        <a class="code hl_define" href="../../d8/dbb/a00932.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnSocketOpen(sock);</div>
 <div class="line"><span class="lineno">   32</span>    }</div>
-<div class="ttc" id="aa04202_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d1/d8f/a04202.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:712</div></div>
+<div class="ttc" id="aa00932_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d8/dbb/a00932.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:712</div></div>
 <div class="ttc" id="aa04680_html_ga43ae464e29649083953e305b20b3e27f"><div class="ttname"><a href="../../d5/dfd/a04680.html#ga43ae464e29649083953e305b20b3e27f">sWorldSocketMgr</a></div><div class="ttdeci">#define sWorldSocketMgr</div><div class="ttdef"><b>Definition:</b> WorldSocketMgr.h:64</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00712">sScriptMgr</a>, and <a class="el" href="../../#l00064">sWorldSocketMgr</a>.</p>
@@ -226,7 +226,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d5/d8a/a28118.html#a010615f231a56078c952cd4036072581">NetworkThread&lt; WorldSocket &gt;</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
-<div class="line"><span class="lineno">   36</span>        <a class="code hl_define" href="../../d1/d8f/a04202.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnSocketClose(sock);</div>
+<div class="line"><span class="lineno">   36</span>        <a class="code hl_define" href="../../d8/dbb/a00932.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnSocketClose(sock);</div>
 <div class="line"><span class="lineno">   37</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00712">sScriptMgr</a>.</p>
@@ -239,7 +239,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/da5/a10830.html">WorldSocketThread</a></li>
-    <li class="footer">Generated on Mon Jan 20 2025 20:42:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jan 27 2025 20:43:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

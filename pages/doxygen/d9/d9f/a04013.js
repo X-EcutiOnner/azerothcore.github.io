@@ -1,6 +1,5 @@
 var a04013 =
 [
-    [ "LogHeader", "d2/d13/a10746.html", "d2/d13/a10746" ],
-    [ "PacketHeader", "db/d29/a10750.html", "db/d29/a10750" ],
-    [ "PacketHeader::OptionalData", "d1/d5e/a10754.html", "d1/d5e/a10754" ]
+    [ "lookup_commandscript", "d5/db4/a11466.html", "d5/db4/a11466" ],
+    [ "AddSC_lookup_commandscript", "d9/d9f/a04013.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
 ];

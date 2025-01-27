@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Northrend/Gundrak/instance_gundrak.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Events/GameEventMgr.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,91 +106,107 @@ $(document).ready(function(){initNavTree('d9/d79/a01658.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">instance_gundrak.cpp File Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">GameEventMgr.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">gundrak.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">GameEventMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BattlegroundMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DisableMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Language.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">PoolMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">UnitAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldStatePackets.h</a>&quot;</code><br />
+<code>#include &lt;time.h&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d23/a16934.html">instance_gundrak</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d7d/a16938.html">instance_gundrak::instance_gundrak_InstanceMapScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d8f/a08658.html">GameEventAIHookWorker</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a232822e6236513eb23c90943d98fd6dc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d79/a01658.html#a232822e6236513eb23c90943d98fd6dc">AddSC_instance_gundrak</a> ()</td></tr>
-<tr class="separator:a232822e6236513eb23c90943d98fd6dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dc8/a09410.html">DoorData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d79/a01658.html#a69c4a0ca4694d5ed1d42f0373dd5d80c">doorData</a> []</td></tr>
-<tr class="separator:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a429db26781d2673aa2f031fc1327ffaf"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d79/a01658.html#a429db26781d2673aa2f031fc1327ffaf">IsHolidayActive</a> (<a class="el" href="../../dd/df4/a02510.html#ad279224fea61f9754572051fc5ff1fab">HolidayIds</a> id)</td></tr>
+<tr class="separator:a429db26781d2673aa2f031fc1327ffaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaddb0f1fada20faf4702603241206f91"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d79/a01658.html#aaddb0f1fada20faf4702603241206f91">IsEventActive</a> (<a class="el" href="../../d3/df8/a00155.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> event_id)</td></tr>
+<tr class="separator:aaddb0f1fada20faf4702603241206f91"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a232822e6236513eb23c90943d98fd6dc" name="a232822e6236513eb23c90943d98fd6dc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a232822e6236513eb23c90943d98fd6dc">&#9670;&#160;</a></span>AddSC_instance_gundrak()</h2>
+<a id="aaddb0f1fada20faf4702603241206f91" name="aaddb0f1fada20faf4702603241206f91"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaddb0f1fada20faf4702603241206f91">&#9670;&#160;</a></span>IsEventActive()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_instance_gundrak </td>
+          <td class="memname">bool IsEventActive </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>event_id</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  219</span>{</div>
-<div class="line"><span class="lineno">  220</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d23/a16934.html">instance_gundrak</a>();</div>
-<div class="line"><span class="lineno">  221</span>}</div>
-<div class="ttc" id="aa16934_html"><div class="ttname"><a href="../../d1/d23/a16934.html">instance_gundrak</a></div><div class="ttdef"><b>Definition:</b> instance_gundrak.cpp:33</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1949</span>{</div>
+<div class="line"><span class="lineno"> 1950</span>    <a class="code hl_typedef" href="../../d1/d2a/a08682.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf">GameEventMgr::ActiveEvents</a> <span class="keyword">const</span>&amp; ae = <a class="code hl_define" href="../../d4/d41/a01661.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetActiveEventList();</div>
+<div class="line"><span class="lineno"> 1951</span>    <span class="keywordflow">return</span> ae.find(event_id) != ae.end();</div>
+<div class="line"><span class="lineno"> 1952</span>}</div>
+<div class="ttc" id="aa01661_html_a3c1c916d94272dfe845b9cc5e8fc292a"><div class="ttname"><a href="../../d4/d41/a01661.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a></div><div class="ttdeci">#define sGameEventMgr</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:188</div></div>
+<div class="ttc" id="aa08682_html_a9d1e67f8edbe01fedd10c5fb0aeac2cf"><div class="ttname"><a href="../../d1/d2a/a08682.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf">GameEventMgr::ActiveEvents</a></div><div class="ttdeci">std::set&lt; uint16 &gt; ActiveEvents</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:106</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00188">sGameEventMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l15813">Player::_LoadBrewOfTheMonth()</a>, <a class="el" href="../../#l00787">Battleground::EndBattleground()</a>, <a class="el" href="../../#l00239">GameEventMgr::LoadEventVendors()</a>, <a class="el" href="../../#l00036">npc_innkeeper::OnGossipHello()</a>, and <a class="el" href="../../#l00063">npc_innkeeper::OnGossipSelect()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a69c4a0ca4694d5ed1d42f0373dd5d80c" name="a69c4a0ca4694d5ed1d42f0373dd5d80c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a69c4a0ca4694d5ed1d42f0373dd5d80c">&#9670;&#160;</a></span>doorData</h2>
+<a id="a429db26781d2673aa2f031fc1327ffaf" name="a429db26781d2673aa2f031fc1327ffaf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a429db26781d2673aa2f031fc1327ffaf">&#9670;&#160;</a></span>IsHolidayActive()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/dc8/a09410.html">DoorData</a> const doorData[]</td>
+          <td class="memname">bool IsHolidayActive </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/df4/a02510.html#ad279224fea61f9754572051fc5ff1fab">HolidayIds</a>&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d9/df5/a01673.html#a11b4fe9f4efc221e06a058a1b6650e3daab9f97444ba185eb58f305f61ae08c83">GO_ECK_DOORS</a>,             <a class="code hl_enumvalue" href="../../d9/df5/a01673.html#af5baa506e65b4caa6be6d1c6661dfe63a4d6384c29b6e14d0308fc0240c2afabe">DATA_MOORABI</a>,           <a class="code hl_enumvalue" href="../../dc/d23/a03041.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d9/df5/a01673.html#a11b4fe9f4efc221e06a058a1b6650e3daabb4ea9921292a31a1a031979aebf812">GO_ECK_UNDERWATER_GATE</a>,   <a class="code hl_enumvalue" href="../../d9/df5/a01673.html#af5baa506e65b4caa6be6d1c6661dfe63ac039a49a9b97fc453a4e5f873d5e1288">DATA_ECK_THE_FEROCIOUS</a>, <a class="code hl_enumvalue" href="../../dc/d23/a03041.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d9/df5/a01673.html#a11b4fe9f4efc221e06a058a1b6650e3da1c988e844b4d6b11c228d8428b88d3cf">GO_GAL_DARAH_DOORS0</a>,      <a class="code hl_enumvalue" href="../../d9/df5/a01673.html#af5baa506e65b4caa6be6d1c6661dfe63a6c2628ab4e3a8aa192d2ff8685f8066d">DATA_GAL_DARAH</a>,         <a class="code hl_enumvalue" href="../../dc/d23/a03041.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>    },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d9/df5/a01673.html#a11b4fe9f4efc221e06a058a1b6650e3da771518726c2dbf6dca38226916216a34">GO_GAL_DARAH_DOORS1</a>,      <a class="code hl_enumvalue" href="../../d9/df5/a01673.html#af5baa506e65b4caa6be6d1c6661dfe63a6c2628ab4e3a8aa192d2ff8685f8066d">DATA_GAL_DARAH</a>,         <a class="code hl_enumvalue" href="../../dc/d23/a03041.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d9/df5/a01673.html#a11b4fe9f4efc221e06a058a1b6650e3dabd6da605ab7465041fd96a5f1675b8be">GO_GAL_DARAH_DOORS2</a>,      <a class="code hl_enumvalue" href="../../d9/df5/a01673.html#af5baa506e65b4caa6be6d1c6661dfe63a6c2628ab4e3a8aa192d2ff8685f8066d">DATA_GAL_DARAH</a>,         <a class="code hl_enumvalue" href="../../dc/d23/a03041.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a> },</div>
-<div class="line">    { 0,                        0,                      <a class="code hl_enumvalue" href="../../dc/d23/a03041.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>    }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa01673_html_a11b4fe9f4efc221e06a058a1b6650e3da1c988e844b4d6b11c228d8428b88d3cf"><div class="ttname"><a href="../../d9/df5/a01673.html#a11b4fe9f4efc221e06a058a1b6650e3da1c988e844b4d6b11c228d8428b88d3cf">GO_GAL_DARAH_DOORS0</a></div><div class="ttdeci">@ GO_GAL_DARAH_DOORS0</div><div class="ttdef"><b>Definition:</b> gundrak.h:58</div></div>
-<div class="ttc" id="aa01673_html_a11b4fe9f4efc221e06a058a1b6650e3da771518726c2dbf6dca38226916216a34"><div class="ttname"><a href="../../d9/df5/a01673.html#a11b4fe9f4efc221e06a058a1b6650e3da771518726c2dbf6dca38226916216a34">GO_GAL_DARAH_DOORS1</a></div><div class="ttdeci">@ GO_GAL_DARAH_DOORS1</div><div class="ttdef"><b>Definition:</b> gundrak.h:59</div></div>
-<div class="ttc" id="aa01673_html_a11b4fe9f4efc221e06a058a1b6650e3daab9f97444ba185eb58f305f61ae08c83"><div class="ttname"><a href="../../d9/df5/a01673.html#a11b4fe9f4efc221e06a058a1b6650e3daab9f97444ba185eb58f305f61ae08c83">GO_ECK_DOORS</a></div><div class="ttdeci">@ GO_ECK_DOORS</div><div class="ttdef"><b>Definition:</b> gundrak.h:56</div></div>
-<div class="ttc" id="aa01673_html_a11b4fe9f4efc221e06a058a1b6650e3daabb4ea9921292a31a1a031979aebf812"><div class="ttname"><a href="../../d9/df5/a01673.html#a11b4fe9f4efc221e06a058a1b6650e3daabb4ea9921292a31a1a031979aebf812">GO_ECK_UNDERWATER_GATE</a></div><div class="ttdeci">@ GO_ECK_UNDERWATER_GATE</div><div class="ttdef"><b>Definition:</b> gundrak.h:57</div></div>
-<div class="ttc" id="aa01673_html_a11b4fe9f4efc221e06a058a1b6650e3dabd6da605ab7465041fd96a5f1675b8be"><div class="ttname"><a href="../../d9/df5/a01673.html#a11b4fe9f4efc221e06a058a1b6650e3dabd6da605ab7465041fd96a5f1675b8be">GO_GAL_DARAH_DOORS2</a></div><div class="ttdeci">@ GO_GAL_DARAH_DOORS2</div><div class="ttdef"><b>Definition:</b> gundrak.h:60</div></div>
-<div class="ttc" id="aa01673_html_af5baa506e65b4caa6be6d1c6661dfe63a4d6384c29b6e14d0308fc0240c2afabe"><div class="ttname"><a href="../../d9/df5/a01673.html#af5baa506e65b4caa6be6d1c6661dfe63a4d6384c29b6e14d0308fc0240c2afabe">DATA_MOORABI</a></div><div class="ttdeci">@ DATA_MOORABI</div><div class="ttdef"><b>Definition:</b> gundrak.h:30</div></div>
-<div class="ttc" id="aa01673_html_af5baa506e65b4caa6be6d1c6661dfe63a6c2628ab4e3a8aa192d2ff8685f8066d"><div class="ttname"><a href="../../d9/df5/a01673.html#af5baa506e65b4caa6be6d1c6661dfe63a6c2628ab4e3a8aa192d2ff8685f8066d">DATA_GAL_DARAH</a></div><div class="ttdeci">@ DATA_GAL_DARAH</div><div class="ttdef"><b>Definition:</b> gundrak.h:32</div></div>
-<div class="ttc" id="aa01673_html_af5baa506e65b4caa6be6d1c6661dfe63ac039a49a9b97fc453a4e5f873d5e1288"><div class="ttname"><a href="../../d9/df5/a01673.html#af5baa506e65b4caa6be6d1c6661dfe63ac039a49a9b97fc453a4e5f873d5e1288">DATA_ECK_THE_FEROCIOUS</a></div><div class="ttdeci">@ DATA_ECK_THE_FEROCIOUS</div><div class="ttdef"><b>Definition:</b> gundrak.h:34</div></div>
-<div class="ttc" id="aa03041_html_ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70"><div class="ttname"><a href="../../dc/d23/a03041.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a></div><div class="ttdeci">@ DOOR_TYPE_ROOM</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:67</div></div>
-<div class="ttc" id="aa03041_html_ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905"><div class="ttname"><a href="../../dc/d23/a03041.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a></div><div class="ttdeci">@ DOOR_TYPE_PASSAGE</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:68</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1934</span>{</div>
+<div class="line"><span class="lineno"> 1935</span>    <span class="keywordflow">if</span> (<span class="keywordtype">id</span> == <a class="code hl_enumvalue" href="../../dd/df4/a02510.html#ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7">HOLIDAY_NONE</a>)</div>
+<div class="line"><span class="lineno"> 1936</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1937</span> </div>
+<div class="line"><span class="lineno"> 1938</span>    <a class="code hl_typedef" href="../../d1/d2a/a08682.html#a2d313485105c8ef04b27833f312a2601">GameEventMgr::GameEventDataMap</a> <span class="keyword">const</span>&amp; <a class="code hl_enumeration" href="../../d8/d46/a03881.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a> = <a class="code hl_define" href="../../d4/d41/a01661.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetEventMap();</div>
+<div class="line"><span class="lineno"> 1939</span>    <a class="code hl_typedef" href="../../d1/d2a/a08682.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf">GameEventMgr::ActiveEvents</a> <span class="keyword">const</span>&amp; ae = <a class="code hl_define" href="../../d4/d41/a01661.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetActiveEventList();</div>
+<div class="line"><span class="lineno"> 1940</span> </div>
+<div class="line"><span class="lineno"> 1941</span>    <span class="keywordflow">for</span> (GameEventMgr::ActiveEvents::const_iterator itr = ae.begin(); itr != ae.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 1942</span>        <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../d8/d46/a03881.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>[*itr].holiday_id == <span class="keywordtype">id</span>)</div>
+<div class="line"><span class="lineno"> 1943</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1944</span> </div>
+<div class="line"><span class="lineno"> 1945</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1946</span>}</div>
+<div class="ttc" id="aa02510_html_ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7"><div class="ttname"><a href="../../dd/df4/a02510.html#ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7">HOLIDAY_NONE</a></div><div class="ttdeci">@ HOLIDAY_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:2742</div></div>
+<div class="ttc" id="aa03881_html_ad29858f6d8ab73f2970f41cb21a76b84"><div class="ttname"><a href="../../d8/d46/a03881.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a></div><div class="ttdeci">events</div><div class="ttdef"><b>Definition:</b> boss_sartura.cpp:43</div></div>
+<div class="ttc" id="aa08682_html_a2d313485105c8ef04b27833f312a2601"><div class="ttname"><a href="../../d1/d2a/a08682.html#a2d313485105c8ef04b27833f312a2601">GameEventMgr::GameEventDataMap</a></div><div class="ttdeci">std::vector&lt; GameEventData &gt; GameEventDataMap</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:107</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00056">instance_gundrak::instance_gundrak_InstanceMapScript::Initialize()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02742">HOLIDAY_NONE</a>, and <a class="el" href="../../#l00188">sGameEventMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02275">Player::CanUseItem()</a>, <a class="el" href="../../#l00896">BattlegroundMgr::IsBGWeekend()</a>, <a class="el" href="../../#l02748">lfg::LFGMgr::IsSeasonActive()</a>, <a class="el" href="../../#l00300">AchievementCriteriaData::Meets()</a>, <a class="el" href="../../#l00183">npc_midsummer_bonfire::npc_midsummer_bonfire()</a>, <a class="el" href="../../#l00544">spell_bonfires_blessing::OnApply()</a>, <a class="el" href="../../#l00160">MidsummerPlayerScript::OnUpdateZone()</a>, <a class="el" href="../../#l01207">BattlegroundAV::SetupBattleground()</a>, <a class="el" href="../../#l00582">go_brewfest_music::go_brewfest_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00729">go_pirate_day_music::go_pirate_day_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00784">go_darkmoon_faire_music::go_darkmoon_faire_musicAI::UpdateAI()</a>, and <a class="el" href="../../#l00839">go_midsummer_music::go_midsummer_musicAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -199,8 +215,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_a9e39583c43309d922435a1f60a156f4.html">Gundrak</a></li><li class="navelem"><a class="el" href="../../d9/d79/a01658.html">instance_gundrak.cpp</a></li>
-    <li class="footer">Generated on Mon Jan 20 2025 20:40:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_be7ddcf5a4570b7daa864eaef60ffbc7.html">Events</a></li><li class="navelem"><a class="el" href="../../d9/d79/a01658.html">GameEventMgr.cpp</a></li>
+    <li class="footer">Generated on Mon Jan 27 2025 20:41:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

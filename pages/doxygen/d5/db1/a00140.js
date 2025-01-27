@@ -1,4 +1,4 @@
 var a00140 =
 [
-    [ "VMAP::VMapFactory", "d1/d0b/a04890.html", "d1/d0b/a04890" ]
+    [ "ObjectRegistry< T, Key >", "d9/dcb/a05154.html", "d9/dcb/a05154" ]
 ];

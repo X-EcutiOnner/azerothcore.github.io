@@ -1,12 +1,19 @@
 var a00143 =
 [
-    [ "MMAP::MMapFactory", "dd/d60/a04878.html", "dd/d60/a04878" ],
-    [ "MMAP_LOAD_RESULT", "d7/dce/a00143.html#a329271d76c3ed7ad6d255d45094b4868", [
-      [ "MMAP_LOAD_RESULT_ERROR", "d7/dce/a00143.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
-      [ "MMAP_LOAD_RESULT_OK", "d7/dce/a00143.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
-      [ "MMAP_LOAD_RESULT_IGNORED", "d7/dce/a00143.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ],
-      [ "MMAP_LOAD_RESULT_ERROR", "d7/dce/a00143.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
-      [ "MMAP_LOAD_RESULT_OK", "d7/dce/a00143.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
-      [ "MMAP_LOAD_RESULT_IGNORED", "d7/dce/a00143.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ]
-    ] ]
+    [ "Find", "d7/dce/a00143.html#a516e9fe262b5a1c4dcd65da7ccf71b5a", null ],
+    [ "Find", "d7/dce/a00143.html#a6823f2f647f14752459f26981d4c26b7", null ],
+    [ "Find", "d7/dce/a00143.html#a4bfb4bddc798432f29bd818e89944edf", null ],
+    [ "Find", "d7/dce/a00143.html#a19feef3708a949a3dcdf70f3fe86ff0e", null ],
+    [ "Find", "d7/dce/a00143.html#ae166e7e76c33c81464ce6c03126a9851", null ],
+    [ "Find", "d7/dce/a00143.html#a6c9d620966c3418af1971dc8326ccb4a", null ],
+    [ "Find", "d7/dce/a00143.html#a5ebe906ee0f2f706bcc950236459a7f8", null ],
+    [ "Find", "d7/dce/a00143.html#a63a0d0d14ac1e3ecbed175c4206b87f2", null ],
+    [ "Insert", "d7/dce/a00143.html#ae7e83af9675f10ea565b725be25b8c5e", null ],
+    [ "Insert", "d7/dce/a00143.html#a2cb738cb02deb5f4d7d30a7d860a45ff", null ],
+    [ "Insert", "d7/dce/a00143.html#a9113786a11594dfcecc6d3bb4e1aadb2", null ],
+    [ "Insert", "d7/dce/a00143.html#a3bc394692e5fd3b096a149b1208e3675", null ],
+    [ "Remove", "d7/dce/a00143.html#a3714737e66e682a43beb71292ccd564e", null ],
+    [ "Remove", "d7/dce/a00143.html#ac344e92ea8d73f94dc08c6a52001ec3e", null ],
+    [ "Remove", "d7/dce/a00143.html#aecc909b333bb7f55f438bfcf1ea3085f", null ],
+    [ "Remove", "d7/dce/a00143.html#a36e61ba9bc4e287e215444ea9314a656", null ]
 ];

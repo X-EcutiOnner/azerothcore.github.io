@@ -1,25 +1,16 @@
 var a03587 =
 [
-    [ "PlayerDump", "d3/dfc/a11150.html", "d3/dfc/a11150" ],
-    [ "PlayerDumpWriter", "df/d70/a11154.html", "df/d70/a11154" ],
-    [ "PlayerDumpReader", "dd/d1c/a11158.html", "dd/d1c/a11158" ],
-    [ "DumpReturn", "df/d38/a03587.html#a4471667403db9bc7532f371d28743866", [
-      [ "DUMP_SUCCESS", "df/d38/a03587.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
-      [ "DUMP_FILE_OPEN_ERROR", "df/d38/a03587.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
-      [ "DUMP_TOO_MANY_CHARS", "df/d38/a03587.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
-      [ "DUMP_FILE_BROKEN", "df/d38/a03587.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
-      [ "DUMP_CHARACTER_DELETED", "df/d38/a03587.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
+    [ "boss_grizzle", "dd/da4/a11698.html", "dd/da4/a11698" ],
+    [ "boss_grizzle::boss_grizzleAI", "d4/de1/a11702.html", "d4/de1/a11702" ],
+    [ "Grizzle", "df/d38/a03587.html#acfff5d4b983e4db1d5efb6bd5da7e7aa", [
+      [ "SPELL_GROUNDTREMOR", "df/d38/a03587.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb", null ],
+      [ "SPELL_FRENZY", "df/d38/a03587.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293", null ],
+      [ "EMOTE_FRENZY_KILL", "df/d38/a03587.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63", null ]
     ] ],
-    [ "DumpTableType", "df/d38/a03587.html#ad4739d865080bb5590831b606365e7ef", [
-      [ "DTT_CHARACTER", "df/d38/a03587.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
-      [ "DTT_CHAR_TABLE", "df/d38/a03587.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
-      [ "DTT_EQSET_TABLE", "df/d38/a03587.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
-      [ "DTT_INVENTORY", "df/d38/a03587.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
-      [ "DTT_MAIL", "df/d38/a03587.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
-      [ "DTT_MAIL_ITEM", "df/d38/a03587.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
-      [ "DTT_ITEM", "df/d38/a03587.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
-      [ "DTT_ITEM_GIFT", "df/d38/a03587.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
-      [ "DTT_PET", "df/d38/a03587.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
-      [ "DTT_PET_TABLE", "df/d38/a03587.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
-    ] ]
+    [ "Timer", "df/d38/a03587.html#a6e0035edd58cc6ca8c94b5f9723a0d80", [
+      [ "TIMER_GROUNDTREMOR", "df/d38/a03587.html#a6e0035edd58cc6ca8c94b5f9723a0d80a5046fe24f2bd1c59407d77496c82dd59", null ],
+      [ "TIMER_FRENZY", "df/d38/a03587.html#a6e0035edd58cc6ca8c94b5f9723a0d80a31ac972cb44128c4662a608b8f6eeb83", null ],
+      [ "TIMER_WAR_STOMP", "db/d1b/a03461.html#a6e0035edd58cc6ca8c94b5f9723a0d80a77d3bf4a5b183f5934aa399d3e185eef", null ]
+    ] ],
+    [ "AddSC_boss_grizzle", "df/d38/a03587.html#adb6c19fe584b9ecd11ab67084570a0be", null ]
 ];

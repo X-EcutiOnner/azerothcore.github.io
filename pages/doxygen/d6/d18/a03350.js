@@ -1,16 +1,11 @@
 var a03350 =
 [
-    [ "SmartAI", "d6/de0/a06138.html", "d6/de0/a06138" ],
-    [ "SmartGameObjectAI", "d0/d2a/a06142.html", "d0/d2a/a06142" ],
-    [ "SmartEscortState", "d6/d18/a03350.html#a0911043eb49fd7958a828a60e0537d54", [
-      [ "SMART_ESCORT_NONE", "d6/d18/a03350.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],
-      [ "SMART_ESCORT_ESCORTING", "d6/d18/a03350.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19", null ],
-      [ "SMART_ESCORT_RETURNING", "d6/d18/a03350.html#a0911043eb49fd7958a828a60e0537d54a404e4c2ac36fc3f87779560b58af7fe8", null ],
-      [ "SMART_ESCORT_PAUSED", "d6/d18/a03350.html#a0911043eb49fd7958a828a60e0537d54a35650bf0f6f9a142acfb5b6e5cd194f7", null ]
-    ] ],
-    [ "SmartEscortVars", "d6/d18/a03350.html#a598eb331d977fa893d589fe3e6cebfbf", [
-      [ "SMART_ESCORT_MAX_PLAYER_DIST", "d6/d18/a03350.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba", null ],
-      [ "SMART_MAX_AID_DIST", "d6/d18/a03350.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f", null ]
-    ] ],
-    [ "AddSC_SmartScripts", "d6/d18/a03350.html#ab6012619ba76775b314475ec60f8c7d7", null ]
+    [ "instance_magisters_terrace", "d8/df3/a12606.html", "d8/df3/a12606" ],
+    [ "instance_magisters_terrace::instance_magisters_terrace_InstanceMapScript", "df/d23/a12610.html", "df/d23/a12610" ],
+    [ "AddSC_instance_magisters_terrace", "d6/d18/a03350.html#a39e3bff767d59081afebb72eeb3a1646", null ],
+    [ "creatureData", "d6/d18/a03350.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d6/d18/a03350.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameobjectData", "d6/d18/a03350.html#a845a92716bd40c99a93eb0715cd737b0", null ],
+    [ "KalecgosSpawnPos", "d6/d18/a03350.html#a6fd9df921f79258a02d22baaf7a1caca", null ],
+    [ "summonerData", "d6/d18/a03350.html#acefca1a118e299acbb631fc6166a1526", null ]
 ];

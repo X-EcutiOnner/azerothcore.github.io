@@ -1,26 +1,19 @@
 var a00497 =
 [
-    [ "AC_API_EXPORT", "d4/d1e/a00497.html#a2c5b5e664ed3daebece45d89595e3105", null ],
-    [ "AC_API_IMPORT", "d4/d1e/a00497.html#ae8a7a9ab4a727295d96a5645d592be1a", null ],
-    [ "AC_COMMON_API", "d4/d1e/a00497.html#aae2dc50bce825b002235487401b252e8", null ],
-    [ "AC_DATABASE_API", "d4/d1e/a00497.html#a4239bd747d930d5084e8f6e489980585", null ],
-    [ "AC_GAME_API", "d4/d1e/a00497.html#a00a04eccc2ca042486601576eccae409", null ],
-    [ "AC_SHARED_API", "d4/d1e/a00497.html#a0bf4fe16e9c0242e08723860b589d648", null ],
-    [ "ACORE_BIGENDIAN", "d4/d1e/a00497.html#a1ea3ec26cc8112e6b4750ed2e3099e23", null ],
-    [ "ACORE_ENDIAN", "d4/d1e/a00497.html#a31363a4567529bac0c62af57b8249f37", null ],
-    [ "ACORE_INLINE", "d4/d1e/a00497.html#ae4e9017a1f7c4a30d42240994c73707d", null ],
-    [ "ACORE_LITTLEENDIAN", "d4/d1e/a00497.html#aa52f254470010db28f546a042d5d2dd3", null ],
-    [ "ACORE_PATH_MAX", "d4/d1e/a00497.html#a0e8f3cfd1a18017c3996550aed13d45b", null ],
-    [ "ATTR_PRINTF", "d4/d1e/a00497.html#a9fb5e8106efcc99703798f63ee0ee655", null ],
-    [ "SI64LIT", "d4/d1e/a00497.html#a9fb461803e0a17b90422b7166f79bd87", null ],
-    [ "STRING_VIEW_FMT_ARG", "d4/d1e/a00497.html#a426f0c72f52eca709249d5962bf31b6d", null ],
-    [ "UI64LIT", "d4/d1e/a00497.html#abf772f43caa1c9ba44098b6bf2bf355c", null ],
-    [ "int16", "d4/d1e/a00497.html#aecf4e3680a32207d17f62a3426731878", null ],
-    [ "int32", "d4/d1e/a00497.html#a0bf9964a3ce962c07ad3d8b5432bbbcd", null ],
-    [ "int64", "d4/d1e/a00497.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1", null ],
-    [ "int8", "d4/d1e/a00497.html#a3bb8a71f4ae9af551f71e9eb2c9c3325", null ],
-    [ "uint16", "d4/d1e/a00497.html#ad9c79638db63f1dfe2b085743b5cbf7b", null ],
-    [ "uint32", "d4/d1e/a00497.html#a22f78cc9780bf32aff91ae17c3101c8d", null ],
-    [ "uint64", "d4/d1e/a00497.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b", null ],
-    [ "uint8", "d4/d1e/a00497.html#a15a8d014fadf85c99a2268d8cbd00767", null ]
+    [ "MmapTileHeader", "d8/de5/a04902.html", "d8/de5/a04902" ],
+    [ "MAX_NUMBER_OF_GRIDS", "d4/d1e/a00497.html#a857252154f120575d940ffbdf63bace6", null ],
+    [ "MMAP_MAGIC", "d4/d1e/a00497.html#af7a9a5e840ab3ad1c160e832500016d1", null ],
+    [ "MMAP_VERSION", "d4/d1e/a00497.html#aea71555fdd0af33ccc21c76c67574421", null ],
+    [ "SIZE_OF_GRIDS", "d4/d1e/a00497.html#a55c9adba46c0c14cd4ac80ab51228816", null ],
+    [ "NavTerrain", "d4/d1e/a00497.html#a8a4d0b36dd46d60b691b894fb8c1c5db", [
+      [ "NAV_EMPTY", "d4/d1e/a00497.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5", null ],
+      [ "NAV_GROUND", "d4/d1e/a00497.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98", null ],
+      [ "NAV_MAGMA", "d4/d1e/a00497.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670", null ],
+      [ "NAV_SLIME", "d4/d1e/a00497.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75", null ],
+      [ "NAV_WATER", "d4/d1e/a00497.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1", null ],
+      [ "NAV_UNUSED1", "d4/d1e/a00497.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03", null ],
+      [ "NAV_UNUSED2", "d4/d1e/a00497.html#a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb", null ],
+      [ "NAV_UNUSED3", "d4/d1e/a00497.html#a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530", null ],
+      [ "NAV_UNUSED4", "d4/d1e/a00497.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56", null ]
+    ] ]
 ];

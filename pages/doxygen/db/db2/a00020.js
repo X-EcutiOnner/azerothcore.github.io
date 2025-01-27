@@ -1,14 +1,14 @@
 var a00020 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "db/db2/a00020.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "isHole", "db/db2/a00020.html#a3a7e248f31dc8d832dc118d469a98bd4", null ],
-    [ "holetab_h", "db/db2/a00020.html#a7424dd5c858116f845a676e31fe5ae5d", null ],
-    [ "holetab_v", "db/db2/a00020.html#a2b1bf69bcdb58ff1605821d486da3acb", null ],
-    [ "MCINMagic", "db/db2/a00020.html#a6f946547b65d321100fd6efa2966180c", null ],
-    [ "MCLQMagic", "db/db2/a00020.html#a35ae9924cb4e3ad0020167b89d5ea86f", null ],
-    [ "MCNKMagic", "db/db2/a00020.html#aa2d85d3b667d3755f6f7a993e60c574b", null ],
-    [ "MCVTMagic", "db/db2/a00020.html#a32010e610a970d3891ae5effca03de37", null ],
-    [ "MFBOMagic", "db/db2/a00020.html#a329d005a0989137286469e197dc0c812", null ],
-    [ "MH2OMagic", "db/db2/a00020.html#aaeaf747e4bc5c25257f9e0ef1153b5a7", null ],
-    [ "MHDRMagic", "db/db2/a00020.html#ac97bd684dd5bacba0e790f355a3bdddf", null ]
+    [ "Acore::Runnable", "d2/d63/a05306.html", "d2/d63/a05306" ],
+    [ "Acore::Thread", "d8/dfd/a05310.html", "d8/dfd/a05310" ],
+    [ "Priority", "db/db2/a00020.html#a98ce3c3a6bb5eee03a544054eae9f9f0", [
+      [ "Priority_Idle", "db/db2/a00020.html#a98ce3c3a6bb5eee03a544054eae9f9f0a6540dbe098806722de7130f0cf978d24", null ],
+      [ "Priority_Lowest", "db/db2/a00020.html#a98ce3c3a6bb5eee03a544054eae9f9f0a2c1092f67a3addf9410ac00e8a8f62b0", null ],
+      [ "Priority_Low", "db/db2/a00020.html#a98ce3c3a6bb5eee03a544054eae9f9f0a726dc1791c20e19bbdb47763ffec6cc8", null ],
+      [ "Priority_Normal", "db/db2/a00020.html#a98ce3c3a6bb5eee03a544054eae9f9f0a9724af5d135432316625274c94d9d53c", null ],
+      [ "Priority_High", "db/db2/a00020.html#a98ce3c3a6bb5eee03a544054eae9f9f0ae26951cdc5145b7d4710a65f64fcc15d", null ],
+      [ "Priority_Highest", "db/db2/a00020.html#a98ce3c3a6bb5eee03a544054eae9f9f0afe73cf9f67a66d8eeb50511bffc0349f", null ],
+      [ "Priority_Realtime", "db/db2/a00020.html#a98ce3c3a6bb5eee03a544054eae9f9f0aea947a97dfe2d923de21531be29b1fe1", null ]
+    ] ]
 ];

@@ -1,5 +1,6 @@
 var a03080 =
 [
-    [ "DispelList", "d1/d7a/a03080.html#a711d5a2b2f8cbeb49153d9e33ea51bf1", null ],
-    [ "SpellEffects", "d1/d7a/a03080.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
+    [ "instance_vault_of_archavon", "d3/dbe/a20978.html", "d3/dbe/a20978" ],
+    [ "instance_vault_of_archavon::instance_vault_of_archavon_InstanceMapScript", "d3/de6/a20982.html", "d3/de6/a20982" ],
+    [ "AddSC_instance_vault_of_archavon", "d1/d7a/a03080.html#af85fa677904908fe364917364696be77", null ]
 ];

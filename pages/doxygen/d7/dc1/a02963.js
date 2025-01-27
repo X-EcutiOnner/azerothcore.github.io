@@ -1,6 +1,6 @@
 var a02963 =
 [
-    [ "SelectAI", "d7/dc1/a02963.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
-    [ "SelectGameObjectAI", "d7/dc1/a02963.html#a2ce404e9b85f551638d8783c01a19860", null ],
-    [ "SelectMovementGenerator", "d7/dc1/a02963.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
+    [ "instance_pit_of_saron", "d3/d91/a16718.html", "d3/d91/a16718" ],
+    [ "instance_pit_of_saron::instance_pit_of_saron_InstanceScript", "d6/d21/a16722.html", "d6/d21/a16722" ],
+    [ "AddSC_instance_pit_of_saron", "d7/dc1/a02963.html#a0793b7a11993f477eea1066a2da4bbb2", null ]
 ];

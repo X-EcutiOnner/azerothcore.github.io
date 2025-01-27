@@ -1,7 +1,11 @@
 var a01724 =
 [
-    [ "instance_ulduar", "d1/d02/a20694.html", "d1/d02/a20694" ],
-    [ "instance_ulduar::instance_ulduar_InstanceMapScript", "df/d9d/a20698.html", "df/d9d/a20698" ],
-    [ "AddSC_instance_ulduar", "d3/d4c/a01724.html#a93e6e71a7717be3946c53d3b6093e517", null ],
-    [ "vehiclePositions", "d3/d4c/a01724.html#a41c6fcb7a2c575fa74a8e566a49bf1e1", null ]
+    [ "StableResultCode", "d3/d4c/a01724.html#abee8740a43e35bc796d1287225999514", [
+      [ "STABLE_ERR_MONEY", "d3/d4c/a01724.html#abee8740a43e35bc796d1287225999514a2e1a0a641b8771fd5ac124129e76b8c2", null ],
+      [ "STABLE_ERR_STABLE", "d3/d4c/a01724.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898", null ],
+      [ "STABLE_SUCCESS_STABLE", "d3/d4c/a01724.html#abee8740a43e35bc796d1287225999514a87d687b90cdb7cc884567156b95da61e", null ],
+      [ "STABLE_SUCCESS_UNSTABLE", "d3/d4c/a01724.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1", null ],
+      [ "STABLE_SUCCESS_BUY_SLOT", "d3/d4c/a01724.html#abee8740a43e35bc796d1287225999514aaa2a19926ebaa7372be4a798c5513317", null ],
+      [ "STABLE_ERR_EXOTIC", "d3/d4c/a01724.html#abee8740a43e35bc796d1287225999514ac96f0f7b1cccb7a29b30b8152c780f47", null ]
+    ] ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/GuildScript.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/OutdoorPvP/OutdoorPvPGH.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,107 +107,74 @@ $(document).ready(function(){initNavTree('d8/dc4/a04487.html','../../'); initRes
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">GuildScript.h File Reference</div></div>
+  <div class="headertitle"><div class="title">OutdoorPvPGH.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
-<code>#include &lt;vector&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">OutdoorPvP.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dab/a10126.html">GuildScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d61/a22198.html">OutdoorPvPGH</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/db4/a22202.html">OPvPCapturePointGH</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a5cb9f5f21f7f7d0e793d70058163507e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507e">GuildHook</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d">GUILDHOOK_ON_ADD_MEMBER</a>
+<tr class="memitem:a68fd4e51a6ab53a5f6bc93fe7800623b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623b">OutdoorPvPGHenum</a> { <br />
+&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3">GH_ALLIANCE_DEFENSE_EVENT</a> = 65
 , <br />
-&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51">GUILDHOOK_ON_REMOVE_MEMBER</a>
+&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10">GH_HORDE_DEFENSE_EVENT</a> = 66
 , <br />
-&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5">GUILDHOOK_ON_MOTD_CHANGED</a>
+&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f">GH_ZONE</a> = 394
 , <br />
-&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f">GUILDHOOK_ON_INFO_CHANGED</a>
+&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba645403f643483d0cac92332aa51b77bd">GH_UI_SLIDER_DISPLAY</a> = 3466
 , <br />
-&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e">GUILDHOOK_ON_CREATE</a>
+&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623baa45bc7342ad5ac9b73578034a648f460">GH_UI_SLIDER_POS</a> = 3467
 , <br />
-&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58">GUILDHOOK_ON_DISBAND</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b">GUILDHOOK_ON_MEMBER_WITDRAW_MONEY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc">GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8">GUILDHOOK_ON_ITEM_MOVE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7">GUILDHOOK_ON_EVENT</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9">GUILDHOOK_ON_BANK_EVENT</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b">GUILDHOOK_CAN_GUILD_SEND_BANK_LIST</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb">GUILDHOOK_END</a>
+&#160;&#160;<a class="el" href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba44cb783273dce4056ade8dafd3ea3bc0">GH_UI_SLIDER_N</a> = 3468
 <br />
  }</td></tr>
-<tr class="separator:a5cb9f5f21f7f7d0e793d70058163507e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a68fd4e51a6ab53a5f6bc93fe7800623b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a5cb9f5f21f7f7d0e793d70058163507e" name="a5cb9f5f21f7f7d0e793d70058163507e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5cb9f5f21f7f7d0e793d70058163507e">&#9670;&#160;</a></span>GuildHook</h2>
+<a id="a68fd4e51a6ab53a5f6bc93fe7800623b" name="a68fd4e51a6ab53a5f6bc93fe7800623b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a68fd4e51a6ab53a5f6bc93fe7800623b">&#9670;&#160;</a></span>OutdoorPvPGHenum</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507e">GuildHook</a></td>
+          <td class="memname">enum <a class="el" href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623b">OutdoorPvPGHenum</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d" name="a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d"></a>GUILDHOOK_ON_ADD_MEMBER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51" name="a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51"></a>GUILDHOOK_ON_REMOVE_MEMBER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5" name="a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5"></a>GUILDHOOK_ON_MOTD_CHANGED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f" name="a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f"></a>GUILDHOOK_ON_INFO_CHANGED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e" name="a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e"></a>GUILDHOOK_ON_CREATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58" name="a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58"></a>GUILDHOOK_ON_DISBAND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b" name="a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b"></a>GUILDHOOK_ON_MEMBER_WITDRAW_MONEY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc" name="a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc"></a>GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8" name="a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8"></a>GUILDHOOK_ON_ITEM_MOVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7" name="a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7"></a>GUILDHOOK_ON_EVENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9" name="a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9"></a>GUILDHOOK_ON_BANK_EVENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b" name="a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b"></a>GUILDHOOK_CAN_GUILD_SEND_BANK_LIST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb" name="a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb"></a>GUILDHOOK_END&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3" name="a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3"></a>GH_ALLIANCE_DEFENSE_EVENT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10" name="a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10"></a>GH_HORDE_DEFENSE_EVENT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f" name="a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f"></a>GH_ZONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a68fd4e51a6ab53a5f6bc93fe7800623ba645403f643483d0cac92332aa51b77bd" name="a68fd4e51a6ab53a5f6bc93fe7800623ba645403f643483d0cac92332aa51b77bd"></a>GH_UI_SLIDER_DISPLAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a68fd4e51a6ab53a5f6bc93fe7800623baa45bc7342ad5ac9b73578034a648f460" name="a68fd4e51a6ab53a5f6bc93fe7800623baa45bc7342ad5ac9b73578034a648f460"></a>GH_UI_SLIDER_POS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a68fd4e51a6ab53a5f6bc93fe7800623ba44cb783273dce4056ade8dafd3ea3bc0" name="a68fd4e51a6ab53a5f6bc93fe7800623ba44cb783273dce4056ade8dafd3ea3bc0"></a>GH_UI_SLIDER_N&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d">GUILDHOOK_ON_ADD_MEMBER</a>,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51">GUILDHOOK_ON_REMOVE_MEMBER</a>,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5">GUILDHOOK_ON_MOTD_CHANGED</a>,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f">GUILDHOOK_ON_INFO_CHANGED</a>,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e">GUILDHOOK_ON_CREATE</a>,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58">GUILDHOOK_ON_DISBAND</a>,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b">GUILDHOOK_ON_MEMBER_WITDRAW_MONEY</a>,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc">GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY</a>,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8">GUILDHOOK_ON_ITEM_MOVE</a>,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7">GUILDHOOK_ON_EVENT</a>,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9">GUILDHOOK_ON_BANK_EVENT</a>,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b">GUILDHOOK_CAN_GUILD_SEND_BANK_LIST</a>,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb">GUILDHOOK_END</a></div>
-<div class="line"><span class="lineno">   40</span>};</div>
-<div class="ttc" id="aa04487_html_a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc"><div class="ttname"><a href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc">GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY</a></div><div class="ttdeci">@ GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY</div><div class="ttdef"><b>Definition:</b> GuildScript.h:34</div></div>
-<div class="ttc" id="aa04487_html_a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b"><div class="ttname"><a href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b">GUILDHOOK_ON_MEMBER_WITDRAW_MONEY</a></div><div class="ttdeci">@ GUILDHOOK_ON_MEMBER_WITDRAW_MONEY</div><div class="ttdef"><b>Definition:</b> GuildScript.h:33</div></div>
-<div class="ttc" id="aa04487_html_a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8"><div class="ttname"><a href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8">GUILDHOOK_ON_ITEM_MOVE</a></div><div class="ttdeci">@ GUILDHOOK_ON_ITEM_MOVE</div><div class="ttdef"><b>Definition:</b> GuildScript.h:35</div></div>
-<div class="ttc" id="aa04487_html_a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb"><div class="ttname"><a href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb">GUILDHOOK_END</a></div><div class="ttdeci">@ GUILDHOOK_END</div><div class="ttdef"><b>Definition:</b> GuildScript.h:39</div></div>
-<div class="ttc" id="aa04487_html_a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5"><div class="ttname"><a href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5">GUILDHOOK_ON_MOTD_CHANGED</a></div><div class="ttdeci">@ GUILDHOOK_ON_MOTD_CHANGED</div><div class="ttdef"><b>Definition:</b> GuildScript.h:29</div></div>
-<div class="ttc" id="aa04487_html_a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e"><div class="ttname"><a href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e">GUILDHOOK_ON_CREATE</a></div><div class="ttdeci">@ GUILDHOOK_ON_CREATE</div><div class="ttdef"><b>Definition:</b> GuildScript.h:31</div></div>
-<div class="ttc" id="aa04487_html_a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9"><div class="ttname"><a href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9">GUILDHOOK_ON_BANK_EVENT</a></div><div class="ttdeci">@ GUILDHOOK_ON_BANK_EVENT</div><div class="ttdef"><b>Definition:</b> GuildScript.h:37</div></div>
-<div class="ttc" id="aa04487_html_a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7"><div class="ttname"><a href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7">GUILDHOOK_ON_EVENT</a></div><div class="ttdeci">@ GUILDHOOK_ON_EVENT</div><div class="ttdef"><b>Definition:</b> GuildScript.h:36</div></div>
-<div class="ttc" id="aa04487_html_a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58"><div class="ttname"><a href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58">GUILDHOOK_ON_DISBAND</a></div><div class="ttdeci">@ GUILDHOOK_ON_DISBAND</div><div class="ttdef"><b>Definition:</b> GuildScript.h:32</div></div>
-<div class="ttc" id="aa04487_html_a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51"><div class="ttname"><a href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51">GUILDHOOK_ON_REMOVE_MEMBER</a></div><div class="ttdeci">@ GUILDHOOK_ON_REMOVE_MEMBER</div><div class="ttdef"><b>Definition:</b> GuildScript.h:28</div></div>
-<div class="ttc" id="aa04487_html_a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d"><div class="ttname"><a href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d">GUILDHOOK_ON_ADD_MEMBER</a></div><div class="ttdeci">@ GUILDHOOK_ON_ADD_MEMBER</div><div class="ttdef"><b>Definition:</b> GuildScript.h:27</div></div>
-<div class="ttc" id="aa04487_html_a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b"><div class="ttname"><a href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b">GUILDHOOK_CAN_GUILD_SEND_BANK_LIST</a></div><div class="ttdeci">@ GUILDHOOK_CAN_GUILD_SEND_BANK_LIST</div><div class="ttdef"><b>Definition:</b> GuildScript.h:38</div></div>
-<div class="ttc" id="aa04487_html_a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f"><div class="ttname"><a href="../../d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f">GUILDHOOK_ON_INFO_CHANGED</a></div><div class="ttdeci">@ GUILDHOOK_ON_INFO_CHANGED</div><div class="ttdef"><b>Definition:</b> GuildScript.h:30</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
+<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3">GH_ALLIANCE_DEFENSE_EVENT</a>           = 65,</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10">GH_HORDE_DEFENSE_EVENT</a>              = 66,</div>
+<div class="line"><span class="lineno">   27</span> </div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f">GH_ZONE</a>                             = 394,</div>
+<div class="line"><span class="lineno">   29</span> </div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba645403f643483d0cac92332aa51b77bd">GH_UI_SLIDER_DISPLAY</a>                = 3466,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623baa45bc7342ad5ac9b73578034a648f460">GH_UI_SLIDER_POS</a>                    = 3467,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba44cb783273dce4056ade8dafd3ea3bc0">GH_UI_SLIDER_N</a>                      = 3468,</div>
+<div class="line"><span class="lineno">   33</span>};</div>
+<div class="ttc" id="aa04487_html_a68fd4e51a6ab53a5f6bc93fe7800623ba44cb783273dce4056ade8dafd3ea3bc0"><div class="ttname"><a href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba44cb783273dce4056ade8dafd3ea3bc0">GH_UI_SLIDER_N</a></div><div class="ttdeci">@ GH_UI_SLIDER_N</div><div class="ttdef"><b>Definition:</b> OutdoorPvPGH.h:32</div></div>
+<div class="ttc" id="aa04487_html_a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3"><div class="ttname"><a href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3">GH_ALLIANCE_DEFENSE_EVENT</a></div><div class="ttdeci">@ GH_ALLIANCE_DEFENSE_EVENT</div><div class="ttdef"><b>Definition:</b> OutdoorPvPGH.h:25</div></div>
+<div class="ttc" id="aa04487_html_a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f"><div class="ttname"><a href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f">GH_ZONE</a></div><div class="ttdeci">@ GH_ZONE</div><div class="ttdef"><b>Definition:</b> OutdoorPvPGH.h:28</div></div>
+<div class="ttc" id="aa04487_html_a68fd4e51a6ab53a5f6bc93fe7800623ba645403f643483d0cac92332aa51b77bd"><div class="ttname"><a href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba645403f643483d0cac92332aa51b77bd">GH_UI_SLIDER_DISPLAY</a></div><div class="ttdeci">@ GH_UI_SLIDER_DISPLAY</div><div class="ttdef"><b>Definition:</b> OutdoorPvPGH.h:30</div></div>
+<div class="ttc" id="aa04487_html_a68fd4e51a6ab53a5f6bc93fe7800623baa45bc7342ad5ac9b73578034a648f460"><div class="ttname"><a href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623baa45bc7342ad5ac9b73578034a648f460">GH_UI_SLIDER_POS</a></div><div class="ttdeci">@ GH_UI_SLIDER_POS</div><div class="ttdef"><b>Definition:</b> OutdoorPvPGH.h:31</div></div>
+<div class="ttc" id="aa04487_html_a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10"><div class="ttname"><a href="../../d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10">GH_HORDE_DEFENSE_EVENT</a></div><div class="ttdeci">@ GH_HORDE_DEFENSE_EVENT</div><div class="ttdef"><b>Definition:</b> OutdoorPvPGH.h:26</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -216,8 +183,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d8/dc4/a04487.html">GuildScript.h</a></li>
-    <li class="footer">Generated on Mon Jan 20 2025 20:40:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ad9d2bd1e1e418dea010d25c4d4f5d3.html">OutdoorPvP</a></li><li class="navelem"><a class="el" href="../../d8/dc4/a04487.html">OutdoorPvPGH.h</a></li>
+    <li class="footer">Generated on Mon Jan 27 2025 20:42:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

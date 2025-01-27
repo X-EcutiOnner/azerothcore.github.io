@@ -1,23 +1,35 @@
 var a02261 =
 [
-    [ "npc_eris_hevenfire", "d5/d8c/a13234.html", "d5/d8c/a13234" ],
-    [ "npc_eris_hevenfire::npc_eris_hevenfireAI", "d8/d3b/a13238.html", "d8/d3b/a13238" ],
-    [ "npc_balance_of_light_and_shadow", "d7/d06/a13242.html", "d7/d06/a13242" ],
-    [ "npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI", "dd/d72/a13246.html", "dd/d72/a13246" ],
-    [ "npc_augustus_the_touched", "d9/d27/a13250.html", "d9/d27/a13250" ],
-    [ "eEris", "d7/d24/a02261.html#a0846b7169aa45fd1ef72775a5f6e36fe", [
-      [ "QUEST_BALANCE_OF_LIGHT_AND_SHADOW", "d7/d24/a02261.html#a0846b7169aa45fd1ef72775a5f6e36fea893fed7c9aba464b46eda93ba0ff910e", null ],
-      [ "ITEM_EYE_OF_DIVINITY", "d7/d24/a02261.html#a0846b7169aa45fd1ef72775a5f6e36feaa330f1e90d7e18c5cec4f6ac9eccbf9b", null ],
-      [ "NPC_INJURED_PEASANT", "d7/d24/a02261.html#a0846b7169aa45fd1ef72775a5f6e36feaae13148e0ec5731f2bc25c5cd83fb54a", null ],
-      [ "NPC_PLAGUED_PEASANT", "d7/d24/a02261.html#a0846b7169aa45fd1ef72775a5f6e36fea2e04645dc1fe7fae413d5c2c903c89d2", null ],
-      [ "NPC_SCOURGE_ARCHER", "d7/d24/a02261.html#a0846b7169aa45fd1ef72775a5f6e36fea50dd59f1eeb08594a61c6ad576ad2814", null ],
-      [ "EVENT_SUMMON_PEASANTS", "d7/d24/a02261.html#a0846b7169aa45fd1ef72775a5f6e36fea499f23b6c79690c613e046b3e6394937", null ],
-      [ "EVENT_CHECK_PLAYER", "d7/d24/a02261.html#a0846b7169aa45fd1ef72775a5f6e36fea3d3d147dbdefaa5a8280f3d1bcc15ea8", null ],
-      [ "EVENT_SUMMON_ARCHERS", "d7/d24/a02261.html#a0846b7169aa45fd1ef72775a5f6e36fea84afa1291830b37278989be41610fb72", null ],
-      [ "SPELL_SHOOT", "d7/d24/a02261.html#a0846b7169aa45fd1ef72775a5f6e36fea1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "SPELL_DEATHS_DOOR", "d7/d24/a02261.html#a0846b7169aa45fd1ef72775a5f6e36fea59bc5812f6dcf3f0e45b673f923490e7", null ],
-      [ "SPELL_SEETHING_PLAGUE", "d7/d24/a02261.html#a0846b7169aa45fd1ef72775a5f6e36feac366f4ed224210fd4352c0ac9fb1c12a", null ],
-      [ "SPELL_ERIS_BLESSING", "d7/d24/a02261.html#a0846b7169aa45fd1ef72775a5f6e36feaaedc6f0db3ab3db342fe3379082ce633", null ]
+    [ "CreatureAI", "db/dd3/a06070.html", "db/dd3/a06070" ],
+    [ "TIME_INTERVAL_LOOK", "d7/d24/a02261.html#a8de08a341cdd207e19eef425c2f5f152", null ],
+    [ "VISIBILITY_RANGE", "d7/d24/a02261.html#a5548091cca58d569e4226b6915ec8cb2", null ],
+    [ "CreatureBoundary", "d7/d24/a02261.html#a7994a32cb10f6de9d90e32ef2d6c1f37", null ],
+    [ "Permitions", "d7/d24/a02261.html#adf806592547de59418c6070d69c5efb9", [
+      [ "PERMIT_BASE_NO", "d7/d24/a02261.html#adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0", null ],
+      [ "PERMIT_BASE_IDLE", "d7/d24/a02261.html#adf806592547de59418c6070d69c5efb9aa30fb6bbae2f275b7c269df6b7bac2c0", null ],
+      [ "PERMIT_BASE_REACTIVE", "d7/d24/a02261.html#adf806592547de59418c6070d69c5efb9a8781eb0d588151b618bd98b03423dc58", null ],
+      [ "PERMIT_BASE_PROACTIVE", "d7/d24/a02261.html#adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c", null ],
+      [ "PERMIT_BASE_FACTION_SPECIFIC", "d7/d24/a02261.html#adf806592547de59418c6070d69c5efb9a9935ee057ed82483ff6a6363709db059", null ],
+      [ "PERMIT_BASE_SPECIAL", "d7/d24/a02261.html#adf806592547de59418c6070d69c5efb9a01dc7d3add2acacf44721592378df415", null ]
     ] ],
-    [ "AddSC_eastern_plaguelands", "d7/d24/a02261.html#aaef7747656518bf0ce052d780430ed88", null ]
+    [ "SCEquip", "d7/d24/a02261.html#a8561d766fce1bb059293efa6256c9717", [
+      [ "EQUIP_NO_CHANGE", "d7/d24/a02261.html#a8561d766fce1bb059293efa6256c9717a52eb65358cd8ffabf53e7104b78e95a2", null ],
+      [ "EQUIP_UNEQUIP", "d7/d24/a02261.html#a8561d766fce1bb059293efa6256c9717a435fadd0e5fa209afb6fd9363afbe54c", null ]
+    ] ],
+    [ "SelectEffect", "d7/d24/a02261.html#a8b21f6463e7db78be55dee9160352869", [
+      [ "SELECT_EFFECT_DONTCARE", "d7/d24/a02261.html#a8b21f6463e7db78be55dee9160352869a391dc42f0a158e8fdffbc0b18d9250e9", null ],
+      [ "SELECT_EFFECT_DAMAGE", "d7/d24/a02261.html#a8b21f6463e7db78be55dee9160352869ae1b4806793cac829bda8b64d0233adae", null ],
+      [ "SELECT_EFFECT_HEALING", "d7/d24/a02261.html#a8b21f6463e7db78be55dee9160352869a7c5e00f75a32eb7e8f1a5ea2dcb7d404", null ],
+      [ "SELECT_EFFECT_AURA", "d7/d24/a02261.html#a8b21f6463e7db78be55dee9160352869a5e73a49eeb722bf496ce76b4448280e5", null ]
+    ] ],
+    [ "SelectTargetType", "d7/d24/a02261.html#a09291ebbaa06245b9f65d046a8b67621", [
+      [ "SELECT_TARGET_DONTCARE", "d7/d24/a02261.html#a09291ebbaa06245b9f65d046a8b67621a3a0e529ee20cdfb171df9e8d67f0f749", null ],
+      [ "SELECT_TARGET_SELF", "d7/d24/a02261.html#a09291ebbaa06245b9f65d046a8b67621ae0e226db3f7e8c664ce1958c8fdc8e4a", null ],
+      [ "SELECT_TARGET_SINGLE_ENEMY", "d7/d24/a02261.html#a09291ebbaa06245b9f65d046a8b67621a371e0b7a2a0f1bc7809a2651c1ee6261", null ],
+      [ "SELECT_TARGET_AOE_ENEMY", "d7/d24/a02261.html#a09291ebbaa06245b9f65d046a8b67621af8f6f83b9b85f662ac5ce0dfb463daa4", null ],
+      [ "SELECT_TARGET_ANY_ENEMY", "d7/d24/a02261.html#a09291ebbaa06245b9f65d046a8b67621a25807921690235c31bdc32b599e04508", null ],
+      [ "SELECT_TARGET_SINGLE_FRIEND", "d7/d24/a02261.html#a09291ebbaa06245b9f65d046a8b67621a316f9dbbb2b5f3bc0667436767f540cb", null ],
+      [ "SELECT_TARGET_AOE_FRIEND", "d7/d24/a02261.html#a09291ebbaa06245b9f65d046a8b67621a21f9e37e67ab22ebd4bec53351757e38", null ],
+      [ "SELECT_TARGET_ANY_FRIEND", "d7/d24/a02261.html#a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3", null ]
+    ] ]
 ];

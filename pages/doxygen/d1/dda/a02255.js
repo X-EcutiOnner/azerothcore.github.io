@@ -1,18 +1,20 @@
 var a02255 =
 [
-    [ "npc_maredis_firestar", "dd/d70/a13218.html", "dd/d70/a13218" ],
-    [ "npc_maredis_firestar::npc_maredis_firestarAI", "dc/dc4/a13222.html", "dc/dc4/a13222" ],
-    [ "MaredisFirestar", "d1/dda/a02255.html#a85e4eeb368c070d1186f1c7c07ab1a42", [
-      [ "ITEM_LIBRAM_OF_RUMINATION", "d1/dda/a02255.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e", null ],
-      [ "ITEM_LIBRAM_OF_CONSTITUTION", "d1/dda/a02255.html#a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277", null ],
-      [ "ITEM_LIBRAM_OF_TENACITY", "d1/dda/a02255.html#a85e4eeb368c070d1186f1c7c07ab1a42acee05c856cffac557e6f7f8b4b32f173", null ],
-      [ "ITEM_LIBRAM_OF_RESILIENCE", "d1/dda/a02255.html#a85e4eeb368c070d1186f1c7c07ab1a42a1dc0b7882355b2615ad112a6ffb2d5eb", null ],
-      [ "ITEM_LIBRAM_OF_VORACITY", "d1/dda/a02255.html#a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f", null ],
-      [ "GOSSIP_LIBRAM_OF_RUMINATION", "d1/dda/a02255.html#a85e4eeb368c070d1186f1c7c07ab1a42a25fa31f89537239dc264cdc4afa11c44", null ],
-      [ "GOSSIP_LIBRAM_OF_CONSTITUTION", "d1/dda/a02255.html#a85e4eeb368c070d1186f1c7c07ab1a42ab11fb925c43c8e71171b5468f9bfbb41", null ],
-      [ "GOSSIP_LIBRAM_OF_TENACITY", "d1/dda/a02255.html#a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e", null ],
-      [ "GOSSIP_LIBRAM_OF_RESILIENCE", "d1/dda/a02255.html#a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde", null ],
-      [ "GOSSIP_LIBRAM_OF_VORACITY", "d1/dda/a02255.html#a85e4eeb368c070d1186f1c7c07ab1a42a2bc47c8c26124b40bfcf34e4fc21d733", null ]
-    ] ],
-    [ "AddSC_burning_steppes", "d1/dda/a02255.html#a8cf2165dba1d5e845d5e20fbc1ce33d6", null ]
+    [ "PetAI", "d0/da6/a06022.html", "d0/da6/a06022" ],
+    [ "SpecialPets", "d1/dda/a02255.html#a22fe79e956db2d74e141a56fef6d1cff", [
+      [ "ENTRY_IMP", "d1/dda/a02255.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896", null ],
+      [ "ENTRY_WATER_ELEMENTAL", "d1/dda/a02255.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5", null ],
+      [ "ENTRY_WATER_ELEMENTAL_PERM", "d1/dda/a02255.html#a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99", null ],
+      [ "IMP_FIREBOLT_RANK_1", "d1/dda/a02255.html#a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c", null ],
+      [ "IMP_FIREBOLT_RANK_2", "d1/dda/a02255.html#a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406", null ],
+      [ "IMP_FIREBOLT_RANK_3", "d1/dda/a02255.html#a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6", null ],
+      [ "IMP_FIREBOLT_RANK_4", "d1/dda/a02255.html#a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7", null ],
+      [ "IMP_FIREBOLT_RANK_5", "d1/dda/a02255.html#a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac", null ],
+      [ "IMP_FIREBOLT_RANK_6", "d1/dda/a02255.html#a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5", null ],
+      [ "IMP_FIREBOLT_RANK_7", "d1/dda/a02255.html#a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a", null ],
+      [ "IMP_FIREBOLT_RANK_8", "d1/dda/a02255.html#a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25", null ],
+      [ "IMP_FIREBOLT_RANK_9", "d1/dda/a02255.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948", null ],
+      [ "WATER_ELEMENTAL_WATERBOLT_1", "d1/dda/a02255.html#a22fe79e956db2d74e141a56fef6d1cffa1afbd4a095d65be61fa03e05a1c49e1d", null ],
+      [ "WATER_ELEMENTAL_WATERBOLT_2", "d1/dda/a02255.html#a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1", null ]
+    ] ]
 ];

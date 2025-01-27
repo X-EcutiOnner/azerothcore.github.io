@@ -1,5 +1,7 @@
 var a00278 =
 [
-    [ "ACORE_LINKAGE_TYPE_STR", "dc/d5d/a00278.html#a498cc8d79612cf645e7afc2ceb4174f3", null ],
-    [ "AZEROTH_PLATFORM_STR", "dc/d5d/a00278.html#af7cd76a18bc19a0ec34ac7693e406971", null ]
+    [ "Crash", "dc/d5d/a00278.html#a510bae7d9948cf497418ec913452009f", null ],
+    [ "GetDebugInfo", "dc/d5d/a00278.html#a29601d3ea684d75bac9c331eb4866951", null ],
+    [ "MakeAbortMessage", "dc/d5d/a00278.html#a52b8a43ee2424672ac8de45dcc283eda", null ],
+    [ "MakeMessage", "dc/d5d/a00278.html#a31219fe016a9b170fc6ae111157ba552", null ]
 ];

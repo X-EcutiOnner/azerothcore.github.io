@@ -1,4 +1,5 @@
 var a04448 =
 [
-    [ "ScriptRegistry< ConditionScript >", "d5/d8e/a04448.html#af6b3c804d07f366580a1a5b9dd95f5fd", null ]
+    [ "OutdoorPvP_zangarmarsh", "df/d55/a22262.html", "df/d55/a22262" ],
+    [ "AddSC_outdoorpvp_zm", "d5/d8e/a04448.html#a3077d08865fa83f84cf956c392a9091c", null ]
 ];

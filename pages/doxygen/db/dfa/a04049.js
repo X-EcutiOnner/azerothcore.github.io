@@ -1,8 +1,6 @@
 var a04049 =
 [
-    [ "WorldPackets::Bank::AutoBankItem", "d6/d7b/a10250.html", "d6/d7b/a10250" ],
-    [ "WorldPackets::Bank::AutoStoreBankItem", "d9/d50/a10254.html", "d9/d50/a10254" ],
-    [ "WorldPackets::Bank::BuyBankSlot", "d9/dbb/a10258.html", "d9/dbb/a10258" ],
-    [ "WorldPackets::Bank::BuyBankSlotResult", "d0/d6c/a10262.html", "d0/d6c/a10262" ],
-    [ "WorldPackets::Bank::ShowBank", "de/d4e/a10266.html", "de/d4e/a10266" ]
+    [ "bg_commandscript", "d0/d60/a11362.html", "d0/d60/a11362" ],
+    [ "AddSC_bag_commandscript", "db/dfa/a04049.html#a8fa1e803122341d611168b2b62fde4e5", null ],
+    [ "itemQualityToString", "db/dfa/a04049.html#af266597924b9d3f439ffc9908001d2cb", null ]
 ];

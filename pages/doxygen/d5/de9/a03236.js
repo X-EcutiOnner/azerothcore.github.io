@@ -1,10 +1,13 @@
 var a03236 =
 [
-    [ "GetGameTime", "d5/de9/a03236.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
-    [ "GetGameTimeMS", "d5/de9/a03236.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
-    [ "GetStartTime", "d5/de9/a03236.html#a872d34d3f9d420cfc749073c809931f9", null ],
-    [ "GetSystemTime", "d5/de9/a03236.html#a443eccf314fe436192278d425d6d8220", null ],
-    [ "GetUptime", "d5/de9/a03236.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
-    [ "Now", "d5/de9/a03236.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
-    [ "UpdateGameTimers", "d5/de9/a03236.html#a45712735241c9563a12fc3da54fb144d", null ]
+    [ "instance_sunken_temple", "dd/d09/a12938.html", "dd/d09/a12938" ],
+    [ "instance_sunken_temple::instance_sunken_temple_InstanceMapScript", "d9/d53/a12942.html", "d9/d53/a12942" ],
+    [ "at_malfurion_stormrage", "d0/d1f/a12946.html", "d0/d1f/a12946" ],
+    [ "spell_temple_of_atal_hakkar_hex_of_jammal_an_aura", "d4/d97/a12950.html", "d4/d97/a12950" ],
+    [ "spell_temple_of_atal_hakkar_awaken_the_soulflayer", "df/d9f/a12954.html", "df/d9f/a12954" ],
+    [ "MalfurionMisc", "d5/de9/a03236.html#a754fcfafd80b5a6c2ea444f49cfbc7d1", [
+      [ "QUEST_ERANIKUS_TYRANT_OF_DREAMS", "d5/de9/a03236.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d", null ],
+      [ "QUEST_THE_CHARGE_OF_DRAGONFLIGHTS", "d5/de9/a03236.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526", null ]
+    ] ],
+    [ "AddSC_instance_sunken_temple", "d5/de9/a03236.html#ab3f2a91fe096585f54078e8884cb25f7", null ]
 ];

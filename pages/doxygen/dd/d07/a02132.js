@@ -1,4 +1,6 @@
 var a02132 =
 [
-    [ "AddCustomScripts", "dd/d07/a02132.html#a068af514420f658f0c087bbb77628173", null ]
+    [ "WorldPackets::Packet", "d4/dff/a10238.html", "d4/dff/a10238" ],
+    [ "WorldPackets::ServerPacket", "de/db2/a10242.html", "de/db2/a10242" ],
+    [ "WorldPackets::ClientPacket", "db/d0e/a10246.html", "db/d0e/a10246" ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/tools/vmap4_extractor/vec3d.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Time/UpdateTime.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,34 +106,33 @@ $(document).ready(function(){initNavTree('d8/dc8/a00581.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">vec3d.h File Reference</div></div>
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">UpdateTime.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;cmath&gt;</code><br />
-<code>#include &lt;iostream&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
+<code>#include &lt;array&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0e/a28406.html">Vec3D</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d3e/a11202.html">UpdateTime</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d8d/a28410.html">AaBox3D</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d13/a28414.html">Vec2D</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d57/a28418.html">Quaternion</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d23/a11206.html">WorldUpdateTime</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a36f9f3de1d3e6935da68df2c6e347a4d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc8/a00581.html#a36f9f3de1d3e6935da68df2c6e347a4d">rotate</a> (float x0, float y0, float *x, float *y, float angle)</td></tr>
-<tr class="separator:a36f9f3de1d3e6935da68df2c6e347a4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:ac09527fd6979f77130f2ef6be46850eb"><td class="memItemLeft" align="right" valign="top">constexpr auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc8/a00581.html#ac09527fd6979f77130f2ef6be46850eb">AVG_DIFF_COUNT</a> = 500</td></tr>
+<tr class="separator:ac09527fd6979f77130f2ef6be46850eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a911ff49ac052e337a0927c080aec20b2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df8/a00155.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> <a class="el" href="../../da/d23/a11206.html">WorldUpdateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc8/a00581.html#a911ff49ac052e337a0927c080aec20b2">sWorldUpdateTime</a></td></tr>
+<tr class="separator:a911ff49ac052e337a0927c080aec20b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a36f9f3de1d3e6935da68df2c6e347a4d" name="a36f9f3de1d3e6935da68df2c6e347a4d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a36f9f3de1d3e6935da68df2c6e347a4d">&#9670;&#160;</a></span>rotate()</h2>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="ac09527fd6979f77130f2ef6be46850eb" name="ac09527fd6979f77130f2ef6be46850eb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac09527fd6979f77130f2ef6be46850eb">&#9670;&#160;</a></span>AVG_DIFF_COUNT</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -142,53 +141,40 @@ Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void rotate </td>
-          <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>x0</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>y0</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float *&#160;</td>
-          <td class="paramname"><em>x</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float *&#160;</td>
-          <td class="paramname"><em>y</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>angle</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">constexpr auto AVG_DIFF_COUNT = 500</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  248</span>{</div>
-<div class="line"><span class="lineno">  249</span>    <span class="keywordtype">float</span> xa = *x - x0, ya = *y - y0;</div>
-<div class="line"><span class="lineno">  250</span>    *x = xa * cosf(angle) - ya * sinf(angle) + x0;</div>
-<div class="line"><span class="lineno">  251</span>    *y = xa * sinf(angle) + ya * cosf(angle) + y0;</div>
-<div class="line"><span class="lineno">  252</span>}</div>
-</div><!-- fragment -->
+
+</div>
+</div>
+<a id="a911ff49ac052e337a0927c080aec20b2" name="a911ff49ac052e337a0927c080aec20b2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a911ff49ac052e337a0927c080aec20b2">&#9670;&#160;</a></span>sWorldUpdateTime</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/df8/a00155.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> <a class="el" href="../../da/d23/a11206.html">WorldUpdateTime</a> sWorldUpdateTime</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">extern</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00259">server_commandscript::HandleServerInfoCommand()</a>, <a class="el" href="../../#l00409">World::LoadConfigSettings()</a>, and <a class="el" href="../../#l02273">World::Update()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -196,8 +182,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_b604cd515113e1b9d14f26b265d784ac.html">vmap4_extractor</a></li><li class="navelem"><a class="el" href="../../d8/dc8/a00581.html">vec3d.h</a></li>
-    <li class="footer">Generated on Mon Jan 20 2025 20:41:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7c8cab10b3149c3fa669be6ae86b4819.html">Time</a></li><li class="navelem"><a class="el" href="../../d8/dc8/a00581.html">UpdateTime.h</a></li>
+    <li class="footer">Generated on Mon Jan 27 2025 20:41:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

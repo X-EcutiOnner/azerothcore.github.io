@@ -1,7 +1,22 @@
 var a04655 =
 [
-    [ "UpdateResult", "dc/d5c/a05810.html", "dc/d5c/a05810" ],
-    [ "UpdateFetcher", "d6/db5/a05814.html", "d6/db5/a05814" ],
-    [ "UpdateFetcher::AppliedFileEntry", "dc/d03/a05818.html", "dc/d03/a05818" ],
-    [ "UpdateFetcher::PathCompare", "da/d1d/a05822.html", "da/d1d/a05822" ]
+    [ "WMO::MODS", "db/d83/a28426.html", "db/d83/a28426" ],
+    [ "WMO::MODD", "d8/dd0/a28430.html", "d8/dd0/a28430" ],
+    [ "WMODoodadData", "df/d15/a28434.html", "df/d15/a28434" ],
+    [ "WMORoot", "dd/d1d/a28438.html", "dd/d1d/a28438" ],
+    [ "WMOLiquidHeader", "d5/d24/a28442.html", "d5/d24/a28442" ],
+    [ "WMOLiquidVert", "d7/da4/a28446.html", "d7/da4/a28446" ],
+    [ "WMOGroup", "d7/dc2/a28450.html", "d7/dc2/a28450" ],
+    [ "MopyFlags", "d0/d5e/a04655.html#a0673ad4a8399eb24693f8694a261e3da", [
+      [ "WHO_MATERIAL_UNK01", "d0/d5e/a04655.html#a0673ad4a8399eb24693f8694a261e3daa4887238124bff7f472762f37b14f084b", null ],
+      [ "WMO_MATERIAL_NOCAMCOLLIDE", "d0/d5e/a04655.html#a0673ad4a8399eb24693f8694a261e3daae8fbdf74c986d20ec35a1bc8540ab5f6", null ],
+      [ "WMO_MATERIAL_DETAIL", "d0/d5e/a04655.html#a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20", null ],
+      [ "WMO_MATERIAL_COLLISION", "d0/d5e/a04655.html#a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192", null ],
+      [ "WMO_MATERIAL_HINT", "d0/d5e/a04655.html#a0673ad4a8399eb24693f8694a261e3daaeda4c860284ded0a951980ea981503f2", null ],
+      [ "WMO_MATERIAL_RENDER", "d0/d5e/a04655.html#a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc", null ],
+      [ "WMO_MATERIAL_WALL_SURFACE", "d0/d5e/a04655.html#a0673ad4a8399eb24693f8694a261e3daaa806842158937b60f3b6af093b50497a", null ],
+      [ "WMO_MATERIAL_COLLIDE_HIT", "d0/d5e/a04655.html#a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885", null ]
+    ] ],
+    [ "Extract", "d0/d5e/a04655.html#a9148b3ef5b412564a285737b0bd104dd", null ],
+    [ "fixCoords", "d0/d5e/a04655.html#ab265837fe64577975f97318431c69e9c", null ]
 ];

@@ -1,4 +1,5 @@
 var a03995 =
 [
-    [ "WorldPacket", "dc/dc5/a10766.html", "dc/dc5/a10766" ]
+    [ "cheat_commandscript", "d9/d4f/a11390.html", "d9/d4f/a11390" ],
+    [ "AddSC_cheat_commandscript", "d9/d0d/a03995.html#aafc88882ff0af0beb4632ec2c929fc8c", null ]
 ];

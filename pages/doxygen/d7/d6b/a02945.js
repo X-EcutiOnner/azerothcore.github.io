@@ -1,9 +1,7 @@
 var a02945 =
 [
-    [ "ePoints", "d7/d6b/a02945.html#a2604bd06487e34b78d3e50cd892f3c4d", [
-      [ "POINT_LAST_POINT", "d4/dbc/a02954.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
-      [ "POINT_HOME", "d4/dbc/a02954.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
-      [ "POINT_COMBAT_START", "d7/d6b/a02945.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
-    ] ],
-    [ "MAX_PLAYER_DISTANCE", "d7/d6b/a02945.html#acd0b392fc88f24b24201fba8b76d33a2", null ]
+    [ "instance_forge_of_souls", "db/dce/a16506.html", "db/dce/a16506" ],
+    [ "instance_forge_of_souls::instance_forge_of_souls_InstanceScript", "da/df6/a16510.html", "da/df6/a16510" ],
+    [ "AddSC_instance_forge_of_souls", "d7/d6b/a02945.html#a1ec461fda59c652788d1a38e62cdea20", null ],
+    [ "boundaries", "d7/d6b/a02945.html#aa75d7d0ffe0cef214f982966c33db1c1", null ]
 ];

@@ -1,100 +1,97 @@
 var a02624 =
 [
-    [ "HalaaIds", "dd/ddd/a22226.html", "dd/ddd/a22226" ],
-    [ "OPvPCapturePointNA", "de/da4/a22230.html", "de/da4/a22230" ],
-    [ "OutdoorPvPNA", "dd/dfb/a22234.html", "dd/dfb/a22234" ],
-    [ "HalaaNPCS", "d8/d09/a02624.html#a3951c5b11bab0eeb9b06c1e19b25c036", null ],
-    [ "ControlGOTypes", "d8/d09/a02624.html#a671e2c9be7783733226427ebd264eb19", [
-      [ "NA_ROOST_S", "d8/d09/a02624.html#a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad", null ],
-      [ "NA_ROOST_W", "d8/d09/a02624.html#a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623", null ],
-      [ "NA_ROOST_N", "d8/d09/a02624.html#a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520", null ],
-      [ "NA_ROOST_E", "d8/d09/a02624.html#a671e2c9be7783733226427ebd264eb19ac2360c16ea760d37dcec325a5165ec8c", null ],
-      [ "NA_BOMB_WAGON_S", "d8/d09/a02624.html#a671e2c9be7783733226427ebd264eb19a8fe4900cb979a36257cc3ee70cfcd56e", null ],
-      [ "NA_BOMB_WAGON_W", "d8/d09/a02624.html#a671e2c9be7783733226427ebd264eb19a7ff23be34578fcc2d55e1f088b3e00cb", null ],
-      [ "NA_BOMB_WAGON_N", "d8/d09/a02624.html#a671e2c9be7783733226427ebd264eb19a7b1be1932fafd2586d4706e8541b85b8", null ],
-      [ "NA_BOMB_WAGON_E", "d8/d09/a02624.html#a671e2c9be7783733226427ebd264eb19a2447af22ca220eab12dbc987125a6870", null ],
-      [ "NA_DESTROYED_ROOST_S", "d8/d09/a02624.html#a671e2c9be7783733226427ebd264eb19a6267ce0c271fd7e77fcebb63e09b4099", null ],
-      [ "NA_DESTROYED_ROOST_W", "d8/d09/a02624.html#a671e2c9be7783733226427ebd264eb19ab023c62e57c5d189c91a4babd13525cf", null ],
-      [ "NA_DESTROYED_ROOST_N", "d8/d09/a02624.html#a671e2c9be7783733226427ebd264eb19a9cbe15da02cd0024dbedf82b2c752f0f", null ],
-      [ "NA_DESTROYED_ROOST_E", "d8/d09/a02624.html#a671e2c9be7783733226427ebd264eb19a81fe1a37a84a9d647898f65913718e3e", null ],
-      [ "NA_CONTROL_GO_NUM", "d8/d09/a02624.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7", null ]
+    [ "npc_frosthound", "df/df8/a21926.html", "df/df8/a21926" ],
+    [ "npc_frosthound::npc_frosthoundAI", "d8/dcd/a21930.html", "d8/dcd/a21930" ],
+    [ "npc_iron_watcher", "d4/d03/a21934.html", "d4/d03/a21934" ],
+    [ "npc_iron_watcher::npc_iron_watcherAI", "d7/d10/a21938.html", "d7/d10/a21938" ],
+    [ "npc_time_lost_proto_drake", "d4/d76/a21942.html", "d4/d76/a21942" ],
+    [ "npc_time_lost_proto_drake::npc_time_lost_proto_drakeAI", "d2/db7/a21946.html", "d2/db7/a21946" ],
+    [ "npc_wild_wyrm", "d2/db7/a21950.html", "d2/db7/a21950" ],
+    [ "npc_wild_wyrm::npc_wild_wyrmAI", "dc/dde/a21954.html", "dc/dde/a21954" ],
+    [ "spell_q13003_thursting_hodirs_spear_aura", "d4/d35/a21958.html", "d4/d35/a21958" ],
+    [ "spell_q13007_iron_colossus", "d6/d59/a21962.html", "d6/d59/a21962" ],
+    [ "npc_roxi_ramrocket", "d6/dba/a21966.html", "d6/dba/a21966" ],
+    [ "npc_brunnhildar_prisoner", "d6/db9/a21970.html", "d6/db9/a21970" ],
+    [ "npc_brunnhildar_prisoner::npc_brunnhildar_prisonerAI", "de/df7/a21974.html", "de/df7/a21974" ],
+    [ "npc_freed_protodrake", "da/d10/a21978.html", "da/d10/a21978" ],
+    [ "npc_freed_protodrake::npc_freed_protodrakeAI", "da/d93/a21982.html", "da/d93/a21982" ],
+    [ "npc_icefang", "d6/df5/a21986.html", "d6/df5/a21986" ],
+    [ "npc_icefang::npc_icefangAI", "d1/dc4/a21990.html", "d1/dc4/a21990" ],
+    [ "npc_hyldsmeet_protodrake", "df/dda/a21994.html", "df/dda/a21994" ],
+    [ "npc_hyldsmeet_protodrake::npc_hyldsmeet_protodrakeAI", "d6/d9b/a21998.html", "d6/d9b/a21998" ],
+    [ "spell_close_rift_aura", "d5/def/a22002.html", "d5/def/a22002" ],
+    [ "spell_q12823_remove_collapsing_cave_aura", "d8/de9/a22006.html", "d8/de9/a22006" ],
+    [ "npc_vehicle_d16_propelled_delivery", "d5/dd0/a22010.html", "d5/dd0/a22010" ],
+    [ "npc_vehicle_d16_propelled_delivery::npc_vehicle_d16_propelled_deliveryAI", "d5/d54/a22014.html", "d5/d54/a22014" ],
+    [ "BrunnhildarPrisoner", "d8/d09/a02624.html#a2b3662a99dee3fb091ed7fe9dc34a709", [
+      [ "SPELL_ICE_PRISON", "d8/d09/a02624.html#a2b3662a99dee3fb091ed7fe9dc34a709a9b000c0577f729a8bbf761c4027c988c", null ],
+      [ "SPELL_ICE_LANCE", "d8/d09/a02624.html#a2b3662a99dee3fb091ed7fe9dc34a709aa1488ccf76f0a0098f140e9ddb95794d", null ],
+      [ "SPELL_FREE_PRISONER", "d8/d09/a02624.html#a2b3662a99dee3fb091ed7fe9dc34a709a925c65c2e29b49b806662a8eb662cbd8", null ],
+      [ "SPELL_RIDE_DRAKE", "d8/d09/a02624.html#a2b3662a99dee3fb091ed7fe9dc34a709ad081a8077df8f055143aed59eea51ed9", null ],
+      [ "SPELL_SHARD_IMPACT", "d8/d09/a02624.html#a2b3662a99dee3fb091ed7fe9dc34a709ac25cc7b06441c788ebfe392822513ac3", null ]
     ] ],
-    [ "FlightSpellsNA", "d8/d09/a02624.html#a68fd902d513cc8e7bf37946f9d26a80b", [
-      [ "NA_SPELL_FLY_SOUTH", "d8/d09/a02624.html#a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f", null ],
-      [ "NA_SPELL_FLY_WEST", "d8/d09/a02624.html#a68fd902d513cc8e7bf37946f9d26a80ba9a9deaeede3e488499190b425fd3bdc2", null ],
-      [ "NA_SPELL_FLY_NORTH", "d8/d09/a02624.html#a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3", null ],
-      [ "NA_SPELL_FLY_EAST", "d8/d09/a02624.html#a68fd902d513cc8e7bf37946f9d26a80bab97171fab8df1e600228b3da1456452d", null ]
+    [ "CloseRift", "d8/d09/a02624.html#a36178b08160d5717735f19eda88aa085", [
+      [ "SPELL_DESPAWN_RIFT", "d8/d09/a02624.html#a36178b08160d5717735f19eda88aa085a00e22ffca5dc82706eccd3a85838bcdd", null ]
     ] ],
-    [ "HalaaCreaturesSpawn", "d8/d09/a02624.html#a394f453184d3eefd51298b772b4c789a", [
-      [ "NA_HALAA_CREATURES", "d8/d09/a02624.html#a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910", null ],
-      [ "NA_HALAA_CREATURE_TEAM_SPAWN", "d8/d09/a02624.html#a394f453184d3eefd51298b772b4c789aa79500d69d3c666a75f664fa63f63de94", null ],
-      [ "NA_HALAA_MAX_CREATURE_SPAWN", "d8/d09/a02624.html#a394f453184d3eefd51298b772b4c789aa3d72e7f62a2349039b0c269f0c469553", null ]
+    [ "CollapsingCave", "d8/d09/a02624.html#a3c3daa7deb54b462a75f105c0baebd01", [
+      [ "SPELL_COLLAPSING_CAVE", "d8/d09/a02624.html#a3c3daa7deb54b462a75f105c0baebd01a3be68ebd35e3687a852a433899580628", null ]
     ] ],
-    [ "HalaaGuardsNA", "d8/d09/a02624.html#a4e91f98214fe304c148fea20beaa5fae", [
-      [ "NA_HALAANI_GUARD_A", "d8/d09/a02624.html#a4e91f98214fe304c148fea20beaa5faeaa2b1c68dc890890449426eb6d46ff6c0", null ],
-      [ "NA_HALAANI_GUARD_H", "d8/d09/a02624.html#a4e91f98214fe304c148fea20beaa5faea6486eb6f2da8e52df614e7728a1f4304", null ]
+    [ "eIronWatcher", "d8/d09/a02624.html#ac0dfdb79063698c8140e5423b6ec36ed", [
+      [ "SPELL_THUNDERING_STOMP", "d8/d09/a02624.html#ac0dfdb79063698c8140e5423b6ec36eda626925ba86f88514659778da36ed7122", null ],
+      [ "SPELL_STORM_HAMMER", "d8/d09/a02624.html#ac0dfdb79063698c8140e5423b6ec36eda4fdbea404819b5f53d2fa2195205c8de", null ],
+      [ "SPELL_SHATTERED_EYES", "d8/d09/a02624.html#ac0dfdb79063698c8140e5423b6ec36eda0ab0f58505a9df3f497f065b7b82c995", null ],
+      [ "SPELL_STORM_HAMMER_DUMMY", "d8/d09/a02624.html#ac0dfdb79063698c8140e5423b6ec36edac135fe33f063d714edde9a2a5c3216e4", null ]
     ] ],
-    [ "HalaaStates", "d8/d09/a02624.html#a2c40def86e302e716c09a15f01e5b809", [
-      [ "HALAA_N", "d8/d09/a02624.html#a2c40def86e302e716c09a15f01e5b809a255888833d6c2bfcb48d6300e3a00e76", null ],
-      [ "HALAA_N_A", "d8/d09/a02624.html#a2c40def86e302e716c09a15f01e5b809a5e75a8ea3c221ca8d430a5c3a059ffba", null ],
-      [ "HALAA_A", "d8/d09/a02624.html#a2c40def86e302e716c09a15f01e5b809a7e97d445255ae31253d61c6042240799", null ],
-      [ "HALAA_N_H", "d8/d09/a02624.html#a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889", null ],
-      [ "HALAA_H", "d8/d09/a02624.html#a2c40def86e302e716c09a15f01e5b809a7159ad16ee5d51946529c3cd325c6547", null ]
+    [ "eTimeLost", "d8/d09/a02624.html#ae562cc946c36ab373babd16dad7493d7", [
+      [ "NPC_TIME_LOST_PROTO_DRAKE", "d8/d09/a02624.html#ae562cc946c36ab373babd16dad7493d7a5d38574cee111f6e50341380b20c0c26", null ],
+      [ "NPC_VYRAGOSA", "d8/d09/a02624.html#ae562cc946c36ab373babd16dad7493d7a7fc208b2a88944b4c011d71b5a40ec78", null ],
+      [ "SPELL_TIME_SHIFT", "d8/d09/a02624.html#ae562cc946c36ab373babd16dad7493d7ac57a87cb312f3d95f613c22e48a0ef10", null ],
+      [ "SPELL_TIME_LAPSE", "d8/d09/a02624.html#ae562cc946c36ab373babd16dad7493d7abf276d995824f99a65014da1cac10b65", null ],
+      [ "SPELL_FROST_BREATH", "d8/d09/a02624.html#ae562cc946c36ab373babd16dad7493d7a21d2702c1c121e1139359d986fbab12a", null ],
+      [ "SPELL_FROST_CLEAVE", "d8/d09/a02624.html#ae562cc946c36ab373babd16dad7493d7ad956a4247c496b57f6cc7830638007ef", null ]
     ] ],
-    [ "OutdoorPvPNASpells", "d8/d09/a02624.html#a933dca48e43f02c2e7846375e0e3a3e2", [
-      [ "NA_KILL_TOKEN_ALLIANCE", "d8/d09/a02624.html#a933dca48e43f02c2e7846375e0e3a3e2aae0070f813d277d5864226d25a571413", null ],
-      [ "NA_KILL_TOKEN_HORDE", "d8/d09/a02624.html#a933dca48e43f02c2e7846375e0e3a3e2aacbd3b5420e976421bab93b50cfa1f0c", null ],
-      [ "NA_CAPTURE_BUFF", "d8/d09/a02624.html#a933dca48e43f02c2e7846375e0e3a3e2a734083143cec178f24ecabb449f0637c", null ]
+    [ "eWildWyrm", "d8/d09/a02624.html#a1d8b3fe9b89bdddf273544e5f2685cee", [
+      [ "SPELL_FIGHT_WYRM_BASE", "d8/d09/a02624.html#a1d8b3fe9b89bdddf273544e5f2685ceeae9c5316a44f6aabec0560520f2714213", null ],
+      [ "SPELL_FIGHT_WYRM_NEXT", "d8/d09/a02624.html#a1d8b3fe9b89bdddf273544e5f2685ceea9903134f04818fffd11af3c69aca7053", null ],
+      [ "SPELL_SPEAR_OF_HODIR", "d8/d09/a02624.html#a1d8b3fe9b89bdddf273544e5f2685ceeab724d61a4559b27c4512cd8168d6db1e", null ],
+      [ "SPELL_DODGE_CLAWS", "d8/d09/a02624.html#a1d8b3fe9b89bdddf273544e5f2685ceea83d89284f483b36bed64cd61c597a289", null ],
+      [ "SPELL_WYRM_GRIP", "d8/d09/a02624.html#a1d8b3fe9b89bdddf273544e5f2685ceeadb17c9a6dbec4722b8ea5d2ca9087ac0", null ],
+      [ "SPELL_GRAB_ON", "d8/d09/a02624.html#a1d8b3fe9b89bdddf273544e5f2685ceeafdfdf7b225fb4eaecaafd18458a7e8e0", null ],
+      [ "SPELL_THRUST_SPEAR", "d8/d09/a02624.html#a1d8b3fe9b89bdddf273544e5f2685ceeaa5091a81264f90c13fc30c56c0152994", null ],
+      [ "SPELL_MIGHTY_SPEAR_THRUST", "d8/d09/a02624.html#a1d8b3fe9b89bdddf273544e5f2685ceea189032763f0efaa7516effaa4352af54", null ],
+      [ "SPELL_FATAL_STRIKE", "d8/d09/a02624.html#a1d8b3fe9b89bdddf273544e5f2685ceea268dd0e7aca5fa4e9ff65f33ab1b9b71", null ],
+      [ "SPELL_PRY_JAWS_OPEN", "d8/d09/a02624.html#a1d8b3fe9b89bdddf273544e5f2685ceead685cfc89c277ad5fce5c6943abf5cf2", null ],
+      [ "SPELL_JAWS_OF_DEATH", "d8/d09/a02624.html#a1d8b3fe9b89bdddf273544e5f2685ceea0e531d9bf92c9a71c24e097d8f1fd381", null ]
     ] ],
-    [ "OutdoorPvPNAWorldStates", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4", [
-      [ "NA_UI_HORDE_GUARDS_SHOW", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a46b1f69332f51942a69d5cd7f67c4060", null ],
-      [ "NA_UI_ALLIANCE_GUARDS_SHOW", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a18435bb3a2f55ccca54de96446c11c76", null ],
-      [ "NA_UI_GUARDS_MAX", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a78242c0e11a3b54151abc16a62c13155", null ],
-      [ "NA_UI_GUARDS_LEFT", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a9a1ac167627348793911b3eaa4eaf53f", null ],
-      [ "NA_UI_TOWER_SLIDER_DISPLAY", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a1d92d9a19c333accc776ec42292a9d99", null ],
-      [ "NA_UI_TOWER_SLIDER_POS", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a7e18ded329932acb1fadaea0aef590f2", null ],
-      [ "NA_UI_TOWER_SLIDER_N", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a692bf9811d4e43b5cb6592603420fbd0", null ],
-      [ "NA_MAP_WYVERN_NORTH_NEU_H", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a4681dce2da233ead15dba6679a4d4e47", null ],
-      [ "NA_MAP_WYVERN_NORTH_NEU_A", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a1ab284fdfbbfc708edd83a8d89077a61", null ],
-      [ "NA_MAP_WYVERN_NORTH_H", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a81ff4445d826a3ccc2b9cc3c3cdd9f8c", null ],
-      [ "NA_MAP_WYVERN_NORTH_A", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4af1a0af9ad4fc7843beb09e7690888001", null ],
-      [ "NA_MAP_WYVERN_SOUTH_NEU_H", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a0c6989cca039b53419eca78e0e80f2bc", null ],
-      [ "NA_MAP_WYVERN_SOUTH_NEU_A", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a2f3e15db5f33aa0098e664a4fc87e60a", null ],
-      [ "NA_MAP_WYVERN_SOUTH_H", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4af7f9e1b3fca047093d3fb6185d0f0e68", null ],
-      [ "NA_MAP_WYVERN_SOUTH_A", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a647b4b194ccecc222b2f641c4922dd15", null ],
-      [ "NA_MAP_WYVERN_WEST_NEU_H", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4aec85f147209dedfec2dbad91ab82d069", null ],
-      [ "NA_MAP_WYVERN_WEST_NEU_A", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a2cd7bee50399d66b488991819345a49f", null ],
-      [ "NA_MAP_WYVERN_WEST_H", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a3d338e189e3e1486c9e4ea368074e0bf", null ],
-      [ "NA_MAP_WYVERN_WEST_A", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4abcee1ec94244ad1c50af5baae35a68cf", null ],
-      [ "NA_MAP_WYVERN_EAST_NEU_H", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4ad77abb574994240e2aa2e7e23c5e3ac5", null ],
-      [ "NA_MAP_WYVERN_EAST_NEU_A", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4ad4dff8ecf2f435b8fdfb92798a300b89", null ],
-      [ "NA_MAP_WYVERN_EAST_H", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a5819d09734d5965cde5ff2d0342166e6", null ],
-      [ "NA_MAP_WYVERN_EAST_A", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a7d32a3b4d8eee8fe173cd43385457603", null ],
-      [ "NA_MAP_HALAA_NEUTRAL", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a25f97ed867e096cf488dd3c9e3c26506", null ],
-      [ "NA_MAP_HALAA_NEU_A", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a077e9ee539e99324b160b42186e8e6e5", null ],
-      [ "NA_MAP_HALAA_NEU_H", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4ae9b05219d2e4f96b937bc4c0e4d62fa1", null ],
-      [ "NA_MAP_HALAA_HORDE", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a14610fd9aae7251bc5652691bc33dcbe", null ],
-      [ "NA_MAP_HALAA_ALLIANCE", "d8/d09/a02624.html#a9d08dd162b413a84763f631ffd350fa4a57a31768a82d5e2224ba8ad48f3b4393", null ]
+    [ "FreedProtoDrake", "d8/d09/a02624.html#a0cfcc61ebd7905935d3b9472af3edfc4", [
+      [ "NPC_DRAKE", "d8/d09/a02624.html#a0cfcc61ebd7905935d3b9472af3edfc4aa28430f0a5d0543cda73d5c7b6edf40a", null ],
+      [ "AREA_VALLEY_OF_ANCIENT_WINTERS", "d8/d09/a02624.html#a0cfcc61ebd7905935d3b9472af3edfc4a6d6a91ed1a5bcb5c280ffb406261e164", null ],
+      [ "TEXT_EMOTE", "d8/d09/a02624.html#a0cfcc61ebd7905935d3b9472af3edfc4a77d76bfa1c6234b9866a0162468137a6", null ],
+      [ "SPELL_KILL_CREDIT_PRISONER", "d8/d09/a02624.html#a0cfcc61ebd7905935d3b9472af3edfc4aa7a7afd87ce65cacea1c3cc271699f32", null ],
+      [ "SPELL_SUMMON_LIBERATED", "d8/d09/a02624.html#a0cfcc61ebd7905935d3b9472af3edfc4a84e4b95b5297798ba7bf31a801cda331", null ],
+      [ "SPELL_KILL_CREDIT_DRAKE", "d8/d09/a02624.html#a0cfcc61ebd7905935d3b9472af3edfc4aef782ab1e88176f53486813628fea63d", null ],
+      [ "EVENT_CHECK_AREA", "d8/d09/a02624.html#a0cfcc61ebd7905935d3b9472af3edfc4a1afe71f4391266cff2080bee59e58245", null ],
+      [ "EVENT_REACHED_HOME", "d8/d09/a02624.html#a0cfcc61ebd7905935d3b9472af3edfc4af05b24d3a5043dee4eec0d79b5af232b", null ]
     ] ],
-    [ "WyvernStates", "d8/d09/a02624.html#a408ccf9c409baffb9c6d03f2edde557c", [
-      [ "WYVERN_NEU_HORDE", "d8/d09/a02624.html#a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5", null ],
-      [ "WYVERN_NEU_ALLIANCE", "d8/d09/a02624.html#a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200", null ],
-      [ "WYVERN_HORDE", "d8/d09/a02624.html#a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578", null ],
-      [ "WYVERN_ALLIANCE", "d8/d09/a02624.html#a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e", null ]
+    [ "q13007IronColossus", "d8/d09/a02624.html#a087b056704b91fae2c93eba42a026a26", [
+      [ "SPELL_JORMUNGAR_SUBMERGE", "d8/d09/a02624.html#a087b056704b91fae2c93eba42a026a26aed224fcf38261c2346031905865da961", null ],
+      [ "SPELL_JORMUNGAR_EMERGE", "d8/d09/a02624.html#a087b056704b91fae2c93eba42a026a26ac9f68e52ae04ed769ef8584e4d1c28f8", null ],
+      [ "SPELL_JORMUNGAR_SUBMERGE_VISUAL", "d8/d09/a02624.html#a087b056704b91fae2c93eba42a026a26a216b4c566f3bb6e1ccb804989b5534ec", null ],
+      [ "SPELL_COLOSSUS_GROUND_SLAM", "d8/d09/a02624.html#a087b056704b91fae2c93eba42a026a26a392dcbdfd30138c1cc769a3bfeb68430", null ]
     ] ],
-    [ "AllianceControlGOs", "d8/d09/a02624.html#a6da5d6b9a0ecd5b15ced61c27d1c8aa4", null ],
-    [ "FLIGHT_NODES_NUM", "d8/d09/a02624.html#a767a89853ad9fbcea5e94bae963b3168", null ],
-    [ "FlightPathEndNodes", "d8/d09/a02624.html#aa4cf9c47955c274ca0bdce61e98a3a5a", null ],
-    [ "FlightPathStartNodes", "d8/d09/a02624.html#ac9bda252b1c34c9a478d3251069384b8", null ],
-    [ "HordeControlGOs", "d8/d09/a02624.html#a2ca90cdca32c0c9a0fef5ece362bb3e6", null ],
-    [ "NA_BUFF_ZONE", "d8/d09/a02624.html#ae9287f13e383331fe53c5a514989ca99", null ],
-    [ "NA_CREDIT_MARKER", "d8/d09/a02624.html#a8c04516b1462a78d64563849fe3136a1", null ],
-    [ "NA_GUARD_CHECK_TIME", "d8/d09/a02624.html#a0f69597d7fce786cae5202cb06be06cf", null ],
-    [ "NA_GUARDS_MAX", "d8/d09/a02624.html#a3fba4585a3d42e96191aa62b6938472f", null ],
-    [ "NA_HALAA_BOMB", "d8/d09/a02624.html#a793a1d2d8d6683df19de9b728d2af1de", null ],
-    [ "NA_HALAA_GRAVEYARD", "d8/d09/a02624.html#a23eddcc072a261674acb3acb48f637cb", null ],
-    [ "NA_HALAA_GRAVEYARD_ZONE", "d8/d09/a02624.html#a74f493038b14c5e7e5a00c661339278e", null ],
-    [ "NA_HALAA_ZONE_ID", "d8/d09/a02624.html#adca7c435af0a29cf2e0ed3525ec6a7df", null ],
-    [ "NA_RESPAWN_TIME", "d8/d09/a02624.html#a6fd5686dd6cf4251b3b33513928f44bd", null ],
-    [ "PatrolCreatureEntry", "d8/d09/a02624.html#aac17891901d073bcbdc4b9b919bb8f43", null ]
+    [ "qSniffing", "d8/d09/a02624.html#a72aa32e04cd59045853af5772e3d687a", [
+      [ "SPELL_SUMMON_PURSUERS_PERIODIC", "d8/d09/a02624.html#a72aa32e04cd59045853af5772e3d687aae8457fa3c07267f329e0540b0a3b1549", null ],
+      [ "SPELL_SNIFFING_CREDIT", "d8/d09/a02624.html#a72aa32e04cd59045853af5772e3d687aa5436d9053113a8e073fc91da29feae33", null ]
+    ] ],
+    [ "RoxiRamrocket", "d8/d09/a02624.html#a058d6572cf39f2cc3c25d28e576fdaff", [
+      [ "SPELL_MECHANO_HOG", "d8/d09/a02624.html#a058d6572cf39f2cc3c25d28e576fdaffa3e2dee241927533a2d68385a01272ffe", null ],
+      [ "SPELL_MEKGINEERS_CHOPPER", "d8/d09/a02624.html#a058d6572cf39f2cc3c25d28e576fdaffac82446ffb1ea10bf1e736999e287b9f6", null ]
+    ] ],
+    [ "WhenAllElseFailsAlliance", "d8/d09/a02624.html#a9fdba13d991fbaa7ff1363f4a4ca7144", [
+      [ "NPC_PROPELLED_DEVICE_1", "d8/d09/a02624.html#a9fdba13d991fbaa7ff1363f4a4ca7144afef7f466c30209c4d2ef04320dc1b8da", null ],
+      [ "NPC_PROPELLED_DEVICE_2", "d8/d09/a02624.html#a9fdba13d991fbaa7ff1363f4a4ca7144ac943cef8ef9283a27474714f809fa92d", null ],
+      [ "SPELL_EJECT_PLAYER", "d8/d09/a02624.html#a9fdba13d991fbaa7ff1363f4a4ca7144a6923288b5e7614e6f220db0c42710b47", null ],
+      [ "SPELL_KNOCKBACK_PLAYER", "d8/d09/a02624.html#a9fdba13d991fbaa7ff1363f4a4ca7144ad069ba965740c548f4d1c0618c4184e0", null ]
+    ] ],
+    [ "AddSC_storm_peaks", "d8/d09/a02624.html#ac8298d2bc33aa6752bc997cb838fe008", null ]
 ];

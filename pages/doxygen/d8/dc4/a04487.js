@@ -1,19 +1,13 @@
 var a04487 =
 [
-    [ "GuildScript", "d1/dab/a10126.html", "d1/dab/a10126" ],
-    [ "GuildHook", "d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507e", [
-      [ "GUILDHOOK_ON_ADD_MEMBER", "d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d", null ],
-      [ "GUILDHOOK_ON_REMOVE_MEMBER", "d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51", null ],
-      [ "GUILDHOOK_ON_MOTD_CHANGED", "d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5", null ],
-      [ "GUILDHOOK_ON_INFO_CHANGED", "d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f", null ],
-      [ "GUILDHOOK_ON_CREATE", "d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e", null ],
-      [ "GUILDHOOK_ON_DISBAND", "d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58", null ],
-      [ "GUILDHOOK_ON_MEMBER_WITDRAW_MONEY", "d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b", null ],
-      [ "GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY", "d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc", null ],
-      [ "GUILDHOOK_ON_ITEM_MOVE", "d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8", null ],
-      [ "GUILDHOOK_ON_EVENT", "d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7", null ],
-      [ "GUILDHOOK_ON_BANK_EVENT", "d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9", null ],
-      [ "GUILDHOOK_CAN_GUILD_SEND_BANK_LIST", "d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b", null ],
-      [ "GUILDHOOK_END", "d8/dc4/a04487.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb", null ]
+    [ "OutdoorPvPGH", "d8/d61/a22198.html", "d8/d61/a22198" ],
+    [ "OPvPCapturePointGH", "d6/db4/a22202.html", "d6/db4/a22202" ],
+    [ "OutdoorPvPGHenum", "d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623b", [
+      [ "GH_ALLIANCE_DEFENSE_EVENT", "d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3", null ],
+      [ "GH_HORDE_DEFENSE_EVENT", "d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10", null ],
+      [ "GH_ZONE", "d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f", null ],
+      [ "GH_UI_SLIDER_DISPLAY", "d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba645403f643483d0cac92332aa51b77bd", null ],
+      [ "GH_UI_SLIDER_POS", "d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623baa45bc7342ad5ac9b73578034a648f460", null ],
+      [ "GH_UI_SLIDER_N", "d8/dc4/a04487.html#a68fd4e51a6ab53a5f6bc93fe7800623ba44cb783273dce4056ade8dafd3ea3bc0", null ]
     ] ]
 ];

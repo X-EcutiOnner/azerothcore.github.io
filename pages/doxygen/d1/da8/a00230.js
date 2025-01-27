@@ -1,4 +1,4 @@
 var a00230 =
 [
-    [ "MessageBuffer", "d3/d73/a05382.html", "d3/d73/a05382" ]
+    [ "BigNumber", "df/d0f/a05070.html", "df/d0f/a05070" ]
 ];

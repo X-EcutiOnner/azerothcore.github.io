@@ -1,8 +1,6 @@
 var a04361 =
 [
-    [ "GameObjectScript", "d7/d08/a10106.html", "d7/d08/a10106" ],
-    [ "GenericGameObjectScript< AI >", "d9/d77/a10110.html", "d9/d77/a10110" ],
-    [ "FactoryGameObjectScript< AI, AIFactory >", "d4/d79/a10114.html", "d4/d79/a10114" ],
-    [ "RegisterGameObjectAI", "d1/d04/a04361.html#a87397a2ba2a1acd88f62793eae9aa30e", null ],
-    [ "RegisterGameObjectAIWithFactory", "d1/d04/a04361.html#a1614f98721d8a94351c4be15a72e499f", null ]
+    [ "instance_auchenai_crypts", "da/d26/a22298.html", "da/d26/a22298" ],
+    [ "instance_auchenai_crypts::instance_auchenai_crypts_InstanceMapScript", "d5/d5f/a22302.html", "d5/d5f/a22302" ],
+    [ "AddSC_instance_auchenai_crypts", "d1/d04/a04361.html#a3a9866226f3a0e32fdb3501e506ab0b5", null ]
 ];

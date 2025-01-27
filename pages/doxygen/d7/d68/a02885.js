@@ -1,5 +1,6 @@
 var a02885 =
 [
-    [ "GetIdleMovementGenerator", "d7/d68/a02885.html#ab03e344726a074f17f8c63d10b67fcc1", null ],
-    [ "isStatic", "d7/d68/a02885.html#a05fec3371a9aee5a6448115a645a505d", null ]
+    [ "instance_halls_of_lightning", "d1/d31/a19238.html", "d1/d31/a19238" ],
+    [ "instance_halls_of_lightning::instance_halls_of_lightning_InstanceMapScript", "d5/dea/a19242.html", "d5/dea/a19242" ],
+    [ "AddSC_instance_halls_of_lightning", "d7/d68/a02885.html#acb5e7d848388449d05e307ed07fbcfc6", null ]
 ];

@@ -1,9 +1,6 @@
 var a04070 =
 [
-    [ "Creature", "dc/dbf/a07754.html", "dc/dbf/a07754" ],
-    [ "AssistDelayEvent", "d3/da5/a07762.html", "d3/da5/a07762" ],
-    [ "ForcedDespawnDelayEvent", "dd/d73/a07766.html", "dd/d73/a07766" ],
-    [ "TemporaryThreatModifierEvent", "d1/d66/a07770.html", "d1/d66/a07770" ],
-    [ "CREATURE_Z_ATTACK_RANGE", "d0/d18/a04070.html#a91a03a879f1b4df44968ae2f9f22fb0d", null ],
-    [ "MAX_VENDOR_ITEMS", "d0/d18/a04070.html#a44c3a813b92331e325ba5aae11ed72a3", null ]
+    [ "character_commandscript", "d8/d58/a11382.html", "d8/d58/a11382" ],
+    [ "character_commandscript::DeletedInfo", "d4/d18/a11386.html", "d4/d18/a11386" ],
+    [ "AddSC_character_commandscript", "d0/d18/a04070.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
 ];

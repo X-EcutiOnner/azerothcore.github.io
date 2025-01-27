@@ -1,6 +1,5 @@
 var a00968 =
 [
-    [ "instance_ragefire_chasm", "d2/d7e/a14590.html", "d2/d7e/a14590" ],
-    [ "instance_ragefire_chasm::instance_ragefire_chasm_InstanceMapScript", "d6/d56/a14594.html", "d6/d56/a14594" ],
-    [ "AddSC_instance_ragefire_chasm", "d7/dd4/a00968.html#ace0e54ffe3a81b932d5ce1977698f5ac", null ]
+    [ "_characterCacheByNameStore", "d7/dd4/a00968.html#a409431c82eb6a62b40d55a773cdb02c6", null ],
+    [ "_characterCacheStore", "d7/dd4/a00968.html#a2a209686002fed926e50d55f7c7ca795", null ]
 ];

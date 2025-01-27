@@ -1,15 +1,6 @@
 var a00161 =
 [
-    [ "VMAP::ManagedModel", "d8/dd4/a04894.html", "d8/dd4/a04894" ],
-    [ "VMAP::VMapMgr2", "da/dd2/a04898.html", "da/dd2/a04898" ],
-    [ "FILENAMEBUFFER_SIZE", "d6/d7d/a00161.html#aebe91d3f560a4221b135ef03b21a485f", null ],
-    [ "MAP_FILENAME_EXTENSION2", "d6/d7d/a00161.html#aad39c14e5fae9fd5141df154332ae6fd", null ],
-    [ "InstanceTreeMap", "d6/d7d/a00161.html#a38798cd0b87931dbaeda34fa316c2f6f", null ],
-    [ "ModelFileMap", "d6/d7d/a00161.html#a6efa1bd5795cb2fcc8688e7500a8570f", null ],
-    [ "DisableTypes", "d6/d7d/a00161.html#ae6fa86a61cff3bac928739b18ffb8c1b", [
-      [ "VMAP_DISABLE_AREAFLAG", "d6/d7d/a00161.html#ae6fa86a61cff3bac928739b18ffb8c1ba4fc4dc95e6df57c161e146d8da4b4a19", null ],
-      [ "VMAP_DISABLE_HEIGHT", "d6/d7d/a00161.html#ae6fa86a61cff3bac928739b18ffb8c1ba2f9e18e9b167ecc25202f607e29af926", null ],
-      [ "VMAP_DISABLE_LOS", "d6/d7d/a00161.html#ae6fa86a61cff3bac928739b18ffb8c1ba26f8933b26a6ce62d8bddafde8ebb108", null ],
-      [ "VMAP_DISABLE_LIQUIDSTATUS", "d6/d7d/a00161.html#ae6fa86a61cff3bac928739b18ffb8c1ba191004652b9fbcccb26c14ce81a94cec", null ]
-    ] ]
+    [ "GetDefaultNetmaskV4", "d6/d7d/a00161.html#af75b2c10ca445dc89c53b7ed8d17eae0", null ],
+    [ "IsInNetwork", "d6/d7d/a00161.html#af108d05a57113d16ab9c8f3b26870be2", null ],
+    [ "IsInNetwork", "d6/d7d/a00161.html#a2617cb1c747a45e5af4e2c32cc29d5de", null ]
 ];

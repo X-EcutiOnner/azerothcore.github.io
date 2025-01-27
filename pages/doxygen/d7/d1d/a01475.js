@@ -1,6 +1,14 @@
 var a01475 =
 [
-    [ "go_firework_show", "d8/da9/a14014.html", "d8/da9/a14014" ],
-    [ "AddSC_event_firework_show_scripts", "d7/d1d/a01475.html#af7a6296c13b6615a14e0823fe7e5b577", null ],
-    [ "FireworkShowStore", "d7/d1d/a01475.html#a7e7f0c2a7b605ff7a9a4fb3302ed279e", null ]
+    [ "BattlegroundData", "d1/d77/a07154.html", "d1/d77/a07154" ],
+    [ "BattlegroundTemplate", "d1/d40/a07158.html", "d1/d40/a07158" ],
+    [ "BattlegroundMgr", "d9/dc8/a07162.html", "d9/dc8/a07162" ],
+    [ "sBattlegroundMgr", "d7/d1d/a01475.html#abe50926a988d0fff4ee6ba0358c6b278", null ],
+    [ "BattlegroundClientIdsContainer", "d7/d1d/a01475.html#aa4d7efc49483e1820c6d759f0f3613f2", null ],
+    [ "BattlegroundContainer", "d7/d1d/a01475.html#a33858c5514cd62b25f056e4ba170de59", null ],
+    [ "BattleMastersMap", "d7/d1d/a01475.html#a0167dc8561c0fb4a41f0eaa6bea38980", null ],
+    [ "BGFreeSlotQueueContainer", "d7/d1d/a01475.html#a356842317f4215b2ee31abb25b4d54e7", null ],
+    [ "bgMapRef", "d7/d1d/a01475.html#a91490e6276f571e959bcc65a1a7e4007", null ],
+    [ "bgRef", "d7/d1d/a01475.html#a1d8c1781106a97335f700c82ac98e915", null ],
+    [ "bgTypeRef", "d7/d1d/a01475.html#ab13257a97cde6f35eb3aed651e61e20c", null ]
 ];

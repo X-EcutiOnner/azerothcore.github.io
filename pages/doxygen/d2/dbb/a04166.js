@@ -1,5 +1,5 @@
 var a04166 =
 [
-    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data", "d2/dbb/a04166.html#a650e9d2ed03f4896b697097e2116298e", null ],
-    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Key", "d2/dbb/a04166.html#aba4af9417ad91ebf078cf0ff83ecf503", null ]
+    [ "at_quagmirran_lair", "d5/d5c/a23050.html", "d5/d5c/a23050" ],
+    [ "AddSC_the_slave_pens", "d2/dbb/a04166.html#acc273464c0a5ce338fdb03fdd7877dd9", null ]
 ];

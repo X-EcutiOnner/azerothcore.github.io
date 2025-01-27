@@ -1,5 +1,10 @@
 var a01346 =
 [
-    [ "modify_commandscript", "d2/d54/a11482.html", "d2/d54/a11482" ],
-    [ "AddSC_modify_commandscript", "d9/de4/a01346.html#a9cbb6ad3c630cbeb9ba39b4552f72e87", null ]
+    [ "ObjectPosSelector", "d8/d84/a08286.html", "d8/d84/a08286" ],
+    [ "ObjectPosSelector::UsedPos", "da/da7/a08290.html", "da/da7/a08290" ],
+    [ "UsedPosType", "d9/de4/a01346.html#a2f1e7723f9d73cff4490d29d2b3df397", [
+      [ "USED_POS_PLUS", "d9/de4/a01346.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e", null ],
+      [ "USED_POS_MINUS", "d9/de4/a01346.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816", null ]
+    ] ],
+    [ "operator~", "d9/de4/a01346.html#a083d37b8f4388d54d83aeb6562b5fe09", null ]
 ];

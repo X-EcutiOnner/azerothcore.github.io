@@ -1,8 +1,7 @@
 var a02933 =
 [
-    [ "SelectableGameObjectAI", "dc/d9a/a06090.html", "dc/d9a/a06090" ],
-    [ "GameObjectAIFactory< REAL_GO_AI >", "d4/dc6/a06094.html", "d4/dc6/a06094" ],
-    [ "sGameObjectAIRegistry", "df/d5c/a02933.html#ac9d2663769f7235631c142a4346922a9", null ],
-    [ "GameObjectAICreator", "df/d5c/a02933.html#abf0182bf1e43c6ea243acb940a03e6fa", null ],
-    [ "GameObjectAIRegistry", "df/d5c/a02933.html#a9482a5649b9d911e3d058c099101f929", null ]
+    [ "UtherBatteredHiltEvent", "d2/dfd/a16662.html", "d2/dfd/a16662" ],
+    [ "instance_halls_of_reflection", "da/df8/a16666.html", "da/df8/a16666" ],
+    [ "instance_halls_of_reflection::instance_halls_of_reflection_InstanceMapScript", "d3/d7d/a16670.html", "d3/d7d/a16670" ],
+    [ "AddSC_instance_halls_of_reflection", "df/d5c/a02933.html#a0f581d4a1a046db6b8b7729c87457646", null ]
 ];

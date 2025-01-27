@@ -1,6 +1,5 @@
 var a00425 =
 [
-    [ "mean", "dc/d2f/a00425.html#a64ba279a3d3edca415239118167c0206", null ],
-    [ "median", "dc/d2f/a00425.html#a4840fd449eb626bea901860e4c1be22a", null ],
-    [ "standard_deviation", "dc/d2f/a00425.html#a60ce9c7718ec2901f037e2368f93026d", null ]
+    [ "MAP_FILE_NAME_FORMAT", "dc/d2f/a00425.html#a1d57d156046bda88886b7488ab0b83bc", null ],
+    [ "TILE_FILE_NAME_FORMAT", "dc/d2f/a00425.html#a27e34ce3b8808f2aa889e5c4e623059a", null ]
 ];

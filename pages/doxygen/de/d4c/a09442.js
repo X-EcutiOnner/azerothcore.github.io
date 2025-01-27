@@ -84,6 +84,7 @@ var a09442 =
     [ "SetHeaders", "de/d4c/a09442.html#af245e9c6f05b94e3ca41f7f25915db95", null ],
     [ "SetPersistentDataCount", "de/d4c/a09442.html#a7a4c24cd9accd749ef1b402bedfdb97b", null ],
     [ "SetSummoner", "de/d4c/a09442.html#af7832c833c3d996cd0c0a30209e3efe1", null ],
+    [ "SetTeamIdInInstance", "de/d4c/a09442.html#a01a470669bcb4dc92361d66a8f0f2357", null ],
     [ "StoreGameObjectState", "de/d4c/a09442.html#a33669bd91132f4f7adcf7837bd3dc79a", null ],
     [ "StorePersistentData", "de/d4c/a09442.html#a90352246c6aca70f025fe4233ac32d04", null ],
     [ "Update", "de/d4c/a09442.html#acbfafe42a012a82f968d92ea93bd7870", null ],

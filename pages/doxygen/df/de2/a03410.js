@@ -1,6 +1,16 @@
 var a03410 =
 [
-    [ "Bag", "dc/d06/a08166.html", "dc/d06/a08166" ],
-    [ "MAX_BAG_SIZE", "df/de2/a03410.html#a60a065b8fab298fb24dfd8f22f657d77", null ],
-    [ "NewItemOrBag", "df/de2/a03410.html#a6b74a54b7de3ced0e27f4128f0d95c64", null ]
+    [ "npc_corporal_keeshan", "dd/d3d/a13326.html", "dd/d3d/a13326" ],
+    [ "npc_corporal_keeshan::npc_corporal_keeshanAI", "dd/d99/a13330.html", "dd/d99/a13330" ],
+    [ "CorporalKeeshan", "df/de2/a03410.html#aeff5ef215a48fcd7bb6837e1d77e4b45", [
+      [ "QUEST_MISSING_IN_ACTION", "df/de2/a03410.html#aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210", null ],
+      [ "SAY_CORPORAL_1", "df/de2/a03410.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364", null ],
+      [ "SAY_CORPORAL_2", "df/de2/a03410.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f", null ],
+      [ "SAY_CORPORAL_3", "df/de2/a03410.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445", null ],
+      [ "SAY_CORPORAL_4", "df/de2/a03410.html#aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe", null ],
+      [ "SAY_CORPORAL_5", "df/de2/a03410.html#aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf", null ],
+      [ "SPELL_MOCKING_BLOW", "df/de2/a03410.html#aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e", null ],
+      [ "SPELL_SHIELD_BASH", "df/de2/a03410.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4", null ]
+    ] ],
+    [ "AddSC_redridge_mountains", "df/de2/a03410.html#a0e7af4a9a0f1dcec20ae3d284f9721c5", null ]
 ];

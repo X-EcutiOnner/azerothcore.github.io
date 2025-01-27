@@ -1,56 +1,56 @@
 var a03575 =
 [
-    [ "npc_maghar_captive", "d4/dae/a24014.html", "d4/dae/a24014" ],
-    [ "npc_maghar_captive::npc_maghar_captiveAI", "d0/d03/a24018.html", "d0/d03/a24018" ],
-    [ "npc_creditmarker_visit_with_ancestors", "d3/d47/a24022.html", "d3/d47/a24022" ],
-    [ "npc_creditmarker_visit_with_ancestors::npc_creditmarker_visit_with_ancestorsAI", "d4/d05/a24026.html", "d4/d05/a24026" ],
-    [ "npc_kurenai_captive", "df/d4b/a24030.html", "df/d4b/a24030" ],
-    [ "npc_kurenai_captive::npc_kurenai_captiveAI", "d1/d37/a24034.html", "d1/d37/a24034" ],
-    [ "go_warmaul_prison", "d2/da5/a24038.html", "d2/da5/a24038" ],
-    [ "FindingTheSurvivorsData", "d3/dbd/a03575.html#a05f629c8a0695e51bcc6a217d469c6d6", [
-      [ "QUEST_FINDING_THE_SURVIVORS", "d3/dbd/a03575.html#a05f629c8a0695e51bcc6a217d469c6d6a9065a5318b6cfd6783abc721a30c2ce5", null ],
-      [ "NPC_MAGHAR_PRISONER", "d3/dbd/a03575.html#a05f629c8a0695e51bcc6a217d469c6d6adcae59340797ae5aaa36b217e81dbe0f", null ],
-      [ "SAY_FREE", "d3/dbd/a03575.html#a05f629c8a0695e51bcc6a217d469c6d6a27368277122194007f925387131a1eb9", null ]
+    [ "go_shadowforge_brazier", "de/d53/a11594.html", "de/d53/a11594" ],
+    [ "ironhand_guardian", "d5/da2/a11598.html", "d5/da2/a11598" ],
+    [ "ironhand_guardian::ironhand_guardianAI", "d1/ddf/a11602.html", "d1/ddf/a11602" ],
+    [ "WaveCreature", "d4/d0f/a11606.html", "d4/d0f/a11606" ],
+    [ "at_ring_of_law", "d2/d96/a11610.html", "d2/d96/a11610" ],
+    [ "npc_grimstone", "de/dff/a11614.html", "de/dff/a11614" ],
+    [ "npc_grimstone::npc_grimstoneAI", "d1/dfd/a11618.html", "d1/dfd/a11618" ],
+    [ "npc_phalanx", "d0/db0/a11622.html", "d0/db0/a11622" ],
+    [ "npc_phalanx::npc_phalanxAI", "de/dde/a11626.html", "de/dde/a11626" ],
+    [ "npc_lokhtos_darkbargainer", "df/db1/a11630.html", "df/db1/a11630" ],
+    [ "npc_rocknot", "d5/def/a11634.html", "d5/def/a11634" ],
+    [ "npc_rocknot::npc_rocknotAI", "d3/d73/a11638.html", "d3/d73/a11638" ],
+    [ "GrimstoneTexts", "d3/dbd/a03575.html#a0c9ac53db659fd636b9dc88ea37a3954", [
+      [ "SAY_TEXT1", "d3/dbd/a03575.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f", null ],
+      [ "SAY_TEXT2", "d3/dbd/a03575.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134", null ],
+      [ "SAY_TEXT3", "d3/dbd/a03575.html#a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9", null ],
+      [ "SAY_TEXT4", "d3/dbd/a03575.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c", null ],
+      [ "SAY_TEXT5", "d3/dbd/a03575.html#a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d", null ],
+      [ "SAY_TEXT6", "d3/dbd/a03575.html#a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803", null ]
     ] ],
-    [ "KurenaiCaptive", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5d", [
-      [ "SAY_KUR_START", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5daf36e600606009fc75721c58ff3291777", null ],
-      [ "SAY_KUR_NO_ESCAPE", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5da23c48674cfb86f376ec29a45dfc7bae7", null ],
-      [ "SAY_KUR_MORE", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5daa43be8740522cf897de5d4034c52d874", null ],
-      [ "SAY_KUR_MORE_TWO", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5da415a94ee05b8fad2385a6988ab1c554c", null ],
-      [ "SAY_KUR_LIGHTNING", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5da83064d04d456c201f607bea516054183", null ],
-      [ "SAY_KUR_SHOCK", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5daf550dcd801470acffb15daacb0d1303b", null ],
-      [ "SAY_KUR_COMPLETE", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5daccc181ea2bfdaf46a258c6df185143cd", null ],
-      [ "SPELL_KUR_CHAIN_LIGHTNING", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5da947d09acef568031d0a63aa3b491c6be", null ],
-      [ "SPELL_KUR_EARTHBIND_TOTEM", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5da9036ad57839bc33a33771f3426f66b00", null ],
-      [ "SPELL_KUR_FROST_SHOCK", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5da8a33a6376ae25b08e61a6c434797a76c", null ],
-      [ "SPELL_KUR_HEALING_WAVE", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5da3ccb8a60d8d82c84658c9eb76cee2bdb", null ],
-      [ "QUEST_TOTEM_KARDASH_A", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5da01677503ea95582bedb4bd6396f037e1", null ],
-      [ "NPC_KUR_MURK_RAIDER", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5dafeb58f1ee686b5fa30edd41591ea25e3", null ],
-      [ "NPC_KUR_MURK_BRUTE", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5da1d5b2ff1254efae5b9ebff19733b070a", null ],
-      [ "NPC_KUR_MURK_SCAVENGER", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5dafda581d2af0e7405bfe68fb2156b753d", null ],
-      [ "NPC_KUR_MURK_PUTRIFIER", "d3/dbd/a03575.html#a0ebafaa2428c27b956f306522427fc5daa9ec76c542a3b9a882fd5726109d5a17", null ]
+    [ "IronhandData", "d3/dbd/a03575.html#a2351df48f090013a8239bcb029c39779", [
+      [ "IRONHAND_FLAMES_TIMER", "d3/dbd/a03575.html#a2351df48f090013a8239bcb029c39779abbe9eb5c7fa7c6fdad2b47486ffaca97", null ],
+      [ "IRONHAND_FLAMES_TIMER_RAND", "d3/dbd/a03575.html#a2351df48f090013a8239bcb029c39779ac69d13ee833747626073318984c0b3eb", null ],
+      [ "IRONHAND_N_GROUPS", "d3/dbd/a03575.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451", null ],
+      [ "SPELL_GOUT_OF_FLAMES", "d3/dbd/a03575.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a", null ]
     ] ],
-    [ "MagharCaptive", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691", [
-      [ "SAY_MAG_START", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691a29faea8cf997895585774bb65c97b205", null ],
-      [ "SAY_MAG_NO_ESCAPE", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691aff816814506c0e82043fe9e276874ec6", null ],
-      [ "SAY_MAG_MORE", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691a6e5c0dfc40eb68f851dea6d3b488b247", null ],
-      [ "SAY_MAG_MORE_REPLY", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691a574b0d10ccf84ca4768fd3b39c57cb45", null ],
-      [ "SAY_MAG_LIGHTNING", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691a6723c065e3ed755f5efb93d02d35bec2", null ],
-      [ "SAY_MAG_SHOCK", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691a50d672d4f8be24fa62f23e2540f9db57", null ],
-      [ "SAY_MAG_COMPLETE", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691a7467c2088e602d856074e0039bf6ebae", null ],
-      [ "SPELL_CHAIN_LIGHTNING", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_EARTHBIND_TOTEM", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691a13680bcb421d2a16426689737c48ec23", null ],
-      [ "SPELL_FROST_SHOCK", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691a73b0724093ccf1b7960c55c236c1502c", null ],
-      [ "SPELL_HEALING_WAVE", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691ab47ffc8cbbcb587bbe1a3e348c95bee3", null ],
-      [ "QUEST_TOTEM_KARDASH_H", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691a095bbe561ca6af50a827376ce33a4e8b", null ],
-      [ "NPC_MURK_RAIDER", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691a1fc0911b4a3959e89ede86e46a586c10", null ],
-      [ "NPC_MURK_BRUTE", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691ad944339a6462815fbe9e60d05957e345", null ],
-      [ "NPC_MURK_SCAVENGER", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691a1fb10d1a472423ae56074270a7309ec9", null ],
-      [ "NPC_MURK_PUTRIFIER", "d3/dbd/a03575.html#ac649bf8486588b328f8f21294adb4691ab5280b4b4033ccf6ca5af78f1efc185e", null ]
+    [ "LokhtosItems", "d3/dbd/a03575.html#a2399740be44cbcc9b6a925a61d042f94", [
+      [ "ITEM_THRORIUM_BROTHERHOOD_CONTRACT", "d3/dbd/a03575.html#a2399740be44cbcc9b6a925a61d042f94a8abbc79e28968f5cdca0fc6e1b0df40b", null ],
+      [ "ITEM_SULFURON_INGOT", "d3/dbd/a03575.html#a2399740be44cbcc9b6a925a61d042f94ac62a268f952750403ff0af9ac3cc7700", null ]
     ] ],
-    [ "AddSC_nagrand", "d3/dbd/a03575.html#a2b4868ea3ab720314139038db0c44257", null ],
-    [ "kurenaiAmbushA", "d3/dbd/a03575.html#aa062949c44a2a3ecfbcdc3f2bfcac8c1", null ],
-    [ "kurenaiAmbushB", "d3/dbd/a03575.html#ae406cbcbcb2947b1f5ac7604043506b8", null ],
-    [ "m_afAmbushA", "d3/dbd/a03575.html#ae32e4397b99880f7a5c6abf419f311ed", null ],
-    [ "m_afAmbushB", "d3/dbd/a03575.html#ad37d6fb6fab11f73d99eb4c0d48e9162", null ]
+    [ "LokhtosQuests", "d3/dbd/a03575.html#a45b983ab1cb7b86457cb9e2996c3db7e", [
+      [ "QUEST_A_BINDING_CONTRACT", "d3/dbd/a03575.html#a45b983ab1cb7b86457cb9e2996c3db7ea67a74b63a45269bd88d4e62ac086b7e6", null ]
+    ] ],
+    [ "LokhtosSpells", "d3/dbd/a03575.html#afc72f18a766ff75425d24ce4bff0b174", [
+      [ "SPELL_CREATE_THORIUM_BROTHERHOOD_CONTRACT_DND", "d3/dbd/a03575.html#afc72f18a766ff75425d24ce4bff0b174a225499c386065b2bb904086ec6bc68c7", null ]
+    ] ],
+    [ "PhalanxSpells", "d3/dbd/a03575.html#a4e5bf673237e04bd7162baff3a0cec21", [
+      [ "SPELL_THUNDERCLAP", "d3/dbd/a03575.html#a4e5bf673237e04bd7162baff3a0cec21a7f4e66bb0a1b5b2705975420f645b16e", null ],
+      [ "SPELL_FIREBALLVOLLEY", "d3/dbd/a03575.html#a4e5bf673237e04bd7162baff3a0cec21a725c2e5b9167c2cb646bf3e8c31492df", null ],
+      [ "SPELL_MIGHTYBLOW", "d3/dbd/a03575.html#a4e5bf673237e04bd7162baff3a0cec21a16caf5a86b691c031c87f3f5ea65a251", null ]
+    ] ],
+    [ "RocknotQuests", "d3/dbd/a03575.html#a6b0d084d8af18bd5f9b8b009e51137db", [
+      [ "QUEST_ALE", "d3/dbd/a03575.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a", null ]
+    ] ],
+    [ "RocknotSays", "d3/dbd/a03575.html#a0fcf46ec361ec3eb9f40c6701294d8e0", [
+      [ "SAY_GOT_BEER", "d3/dbd/a03575.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22", null ]
+    ] ],
+    [ "RocknotSpells", "d3/dbd/a03575.html#aecb1fc71fc0abbbddedbf095e934edb4", [
+      [ "SPELL_DRUNKEN_RAGE", "d3/dbd/a03575.html#aecb1fc71fc0abbbddedbf095e934edb4a4523bad97d4b588a1cf849bee5a67125", null ]
+    ] ],
+    [ "AddSC_blackrock_depths", "d3/dbd/a03575.html#a2070b23fe45e3ac60f1b2db9b07efb22", null ],
+    [ "RingBoss", "d3/dbd/a03575.html#af2fce71fa3dcd5348828dd274e1872ec", null ],
+    [ "RingMobs", "d3/dbd/a03575.html#a26123366b238dd51ab03de9e763db822", null ]
 ];

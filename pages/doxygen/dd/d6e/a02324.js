@@ -1,6 +1,6 @@
 var a02324 =
 [
-    [ "DataHeader", "dd/d6e/a02324.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ScarletMonasteryScriptName", "dd/d6e/a02324.html#ac64beb71a88e1265849782b79406b585", null ],
-    [ "GetScarletMonasteryAI", "dd/d6e/a02324.html#aecdcabc87b1cc31996b702fd11416f35", null ]
+    [ "DBUpdater< CharacterDatabaseConnection >", "dd/d6e/a02324.html#a753e207671f7af3815a056247f2de3ce", null ],
+    [ "DBUpdater< LoginDatabaseConnection >", "dd/d6e/a02324.html#a16a33693c8570aff221401b100547fb7", null ],
+    [ "DBUpdater< WorldDatabaseConnection >", "dd/d6e/a02324.html#ace05c45d1df6cb7f16487ef1aa8bc9f7", null ]
 ];

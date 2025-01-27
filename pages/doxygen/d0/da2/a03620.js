@@ -1,23 +1,17 @@
 var a03620 =
 [
-    [ "BattlegroundBE", "d1/d1a/a07130.html", "d1/d1a/a07130" ],
-    [ "BattlegroundBEGameObjects", "d0/da2/a03620.html#a1b0280d2208da5214e6132c85687575e", [
-      [ "BG_BE_OBJECT_TYPE_DOOR_1", "d0/da2/a03620.html#a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_2", "d0/da2/a03620.html#a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_3", "d0/da2/a03620.html#a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_4", "d0/da2/a03620.html#a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6", null ],
-      [ "BG_BE_OBJECT_TYPE_BUFF_1", "d0/da2/a03620.html#a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10", null ],
-      [ "BG_BE_OBJECT_TYPE_BUFF_2", "d0/da2/a03620.html#a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab", null ]
-    ] ],
-    [ "BattlegroundBEObjectTypes", "d0/da2/a03620.html#ac30a97954fa7cc5e46429c1b15e02aa6", [
-      [ "BG_BE_OBJECT_DOOR_1", "d0/da2/a03620.html#ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17", null ],
-      [ "BG_BE_OBJECT_DOOR_2", "d0/da2/a03620.html#ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e", null ],
-      [ "BG_BE_OBJECT_DOOR_3", "d0/da2/a03620.html#ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb", null ],
-      [ "BG_BE_OBJECT_DOOR_4", "d0/da2/a03620.html#ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5", null ],
-      [ "BG_BE_OBJECT_BUFF_1", "d0/da2/a03620.html#ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176", null ],
-      [ "BG_BE_OBJECT_BUFF_2", "d0/da2/a03620.html#ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb", null ],
-      [ "BG_BE_OBJECT_READY_MARKER_1", "d0/da2/a03620.html#ac30a97954fa7cc5e46429c1b15e02aa6a24a38ed55bbaaed44bea527c0b11cd09", null ],
-      [ "BG_BE_OBJECT_READY_MARKER_2", "d0/da2/a03620.html#ac30a97954fa7cc5e46429c1b15e02aa6a6bd3edd28c4d84ebc22f367173a2704d", null ],
-      [ "BG_BE_OBJECT_MAX", "d0/da2/a03620.html#ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f", null ]
-    ] ]
+    [ "AddSC_deathknight_spell_scripts", "d0/da2/a03620.html#adcd4982e9aa1bb7ee8b4b39976cb7273", null ],
+    [ "AddSC_druid_spell_scripts", "d0/da2/a03620.html#a27c286499ee0c44de84c8f14e5c82d50", null ],
+    [ "AddSC_generic_spell_scripts", "d0/da2/a03620.html#ac2941716297c47e58e65de027a53ce16", null ],
+    [ "AddSC_hunter_spell_scripts", "d0/da2/a03620.html#af7e6bdb12ab989b575a1dca18382ea7c", null ],
+    [ "AddSC_item_spell_scripts", "d0/da2/a03620.html#a7c83be18daa3cdaab096b0caf49520a2", null ],
+    [ "AddSC_mage_spell_scripts", "d0/da2/a03620.html#a504d82c8e95f93fa88a54d34e919ed57", null ],
+    [ "AddSC_paladin_spell_scripts", "d0/da2/a03620.html#a1b3a1eb790e51c96829e92e5c922f437", null ],
+    [ "AddSC_priest_spell_scripts", "d0/da2/a03620.html#a0b0a2df1c9b8607784e59887025677c4", null ],
+    [ "AddSC_quest_spell_scripts", "d0/da2/a03620.html#aeb9d6863ab0326c3d6f1ac2c16d9f75c", null ],
+    [ "AddSC_rogue_spell_scripts", "d0/da2/a03620.html#a540405afe3345e19487d2db693272b2a", null ],
+    [ "AddSC_shaman_spell_scripts", "d0/da2/a03620.html#a3082f46075e4e453c37bc429c9d57a1a", null ],
+    [ "AddSC_warlock_spell_scripts", "d0/da2/a03620.html#a2054657c41c2347732a7d2903e3b8138", null ],
+    [ "AddSC_warrior_spell_scripts", "d0/da2/a03620.html#a9c003dba1ff10c2e27f5ee3d4109549f", null ],
+    [ "AddSpellsScripts", "d0/da2/a03620.html#aed7f09583615630437020215a3851296", null ]
 ];

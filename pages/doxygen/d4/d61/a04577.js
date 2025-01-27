@@ -1,10 +1,20 @@
 var a04577 =
 [
-    [ "PreparedStatementData", "d1/d9f/a05714.html", "d1/d9f/a05714" ],
-    [ "PreparedStatementBase", "dd/d08/a05718.html", "dd/d08/a05718" ],
-    [ "PreparedStatement< T >", "d4/d20/a05586.html", "d4/d20/a05586" ],
-    [ "PreparedStatementTask", "d6/dcf/a05722.html", "d6/dcf/a05722" ],
-    [ "is_default", "d4/d61/a04577.html#a6d4fe40146df0d52c6917d8cc920ac84", null ],
-    [ "is_enum_v", "d4/d61/a04577.html#ae544e1b7f5a34959b1b48592f67dd4e7", null ],
-    [ "is_non_string_view_v", "d4/d61/a04577.html#a67eb68c20f5616b2ea2a16a87784360a", null ]
+    [ "map_fileheader", "da/de5/a09574.html", "da/de5/a09574" ],
+    [ "map_heightHeader", "d5/d6e/a09582.html", "d5/d6e/a09582" ],
+    [ "map_liquidHeader", "dc/df3/a09586.html", "dc/df3/a09586" ],
+    [ "MAP_HEIGHT_AS_INT16", "d4/d61/a04577.html#aefa74fa33f3eba2d39b407c2fd2e8aba", null ],
+    [ "MAP_HEIGHT_AS_INT8", "d4/d61/a04577.html#a15a9245a53c00f1a8a89dd2d798cea9d", null ],
+    [ "MAP_HEIGHT_NO_HEIGHT", "d4/d61/a04577.html#aa5c2437972b2be5c5ff23a7ac04e2680", null ],
+    [ "MAP_LIQUID_NO_HEIGHT", "d4/d61/a04577.html#a59daadc7c96729526e05982ec6600bb1", null ],
+    [ "MAP_LIQUID_NO_TYPE", "d4/d61/a04577.html#a42b8b790a3d284e7116bcad1c391b8f9", null ],
+    [ "MAP_LIQUID_TYPE_DARK_WATER", "d4/d61/a04577.html#a661f965d11d7da56890b64484d871441", null ],
+    [ "MAP_LIQUID_TYPE_MAGMA", "d4/d61/a04577.html#a14e2a0a2291347b0ef877bc9d70f7384", null ],
+    [ "MAP_LIQUID_TYPE_NO_WATER", "d4/d61/a04577.html#a17d4c5ea32412f0fbe04a27f63d50e13", null ],
+    [ "MAP_LIQUID_TYPE_OCEAN", "d4/d61/a04577.html#a6d257e0effb928fba7534eeee5de602d", null ],
+    [ "MAP_LIQUID_TYPE_SLIME", "d4/d61/a04577.html#aa56f76510545ed9c706b8fee3061b6cb", null ],
+    [ "MAP_LIQUID_TYPE_WATER", "d4/d61/a04577.html#a5ec110bd30ec47fcd087aaf5d572de28", null ],
+    [ "holetab_h", "d4/d61/a04577.html#abeb39e913287295598939165f99abe3b", null ],
+    [ "holetab_v", "d4/d61/a04577.html#a8c5ddef856ef804076860bb176c6d9e1", null ],
+    [ "MAP_VERSION_MAGIC", "d4/d61/a04577.html#aee23c8e21c084824373ce587f8fe1f04", null ]
 ];

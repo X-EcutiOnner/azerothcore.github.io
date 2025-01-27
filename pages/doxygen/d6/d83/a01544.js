@@ -1,5 +1,7 @@
 var a01544 =
 [
-    [ "ServerMailReward", "df/d34/a27370.html", "df/d34/a27370" ],
-    [ "AddSC_server_mail", "d6/d83/a01544.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ]
+    [ "IdleMovementGenerator", "d2/d64/a09774.html", "d2/d64/a09774" ],
+    [ "RotateMovementGenerator", "de/d09/a09778.html", "de/d09/a09778" ],
+    [ "DistractMovementGenerator", "d2/db9/a09782.html", "d2/db9/a09782" ],
+    [ "AssistanceDistractMovementGenerator", "de/d1a/a09786.html", "de/d1a/a09786" ]
 ];

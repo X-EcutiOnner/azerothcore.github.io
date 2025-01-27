@@ -1,14 +1,8 @@
 var a02258 =
 [
-    [ "npc_tapoke_slim_jahn", "d8/dd2/a13474.html", "d8/dd2/a13474" ],
-    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "d8/d7d/a13478.html", "d8/d7d/a13478" ],
-    [ "npc_mikhail", "d2/d6f/a13482.html", "d2/d6f/a13482" ],
-    [ "TapokeSlim", "dc/db6/a02258.html#ad5b3ef2d2393f509f0cbf4e70303fab9", [
-      [ "QUEST_MISSING_DIPLO_PT11", "dc/db6/a02258.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2", null ],
-      [ "SPELL_STEALTH", "dc/db6/a02258.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576", null ],
-      [ "SPELL_CALL_FRIENDS", "dc/db6/a02258.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779", null ],
-      [ "NPC_SLIMS_FRIEND", "dc/db6/a02258.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1", null ],
-      [ "NPC_TAPOKE_SLIM_JAHN", "dc/db6/a02258.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda", null ]
-    ] ],
-    [ "AddSC_wetlands", "dc/db6/a02258.html#a96be3075a4a99658d93ffe3d69ba369a", null ]
+    [ "SelectableAI", "dc/d36/a06074.html", "dc/d36/a06074" ],
+    [ "CreatureAIFactory< REAL_AI >", "d3/d26/a06078.html", "d3/d26/a06078" ],
+    [ "sCreatureAIRegistry", "dc/db6/a02258.html#a08e073e90e01d97b74e2331f15bf6122", null ],
+    [ "CreatureAICreator", "dc/db6/a02258.html#a0979444cdc957651f0b4bc9e3c24934b", null ],
+    [ "CreatureAIRegistry", "dc/db6/a02258.html#a3eebee4b886bee76d38357a472a9a5ae", null ]
 ];

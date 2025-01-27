@@ -1,9 +1,22 @@
 var a00926 =
 [
-    [ "instance_magtheridons_lair", "df/d6f/a23306.html", "df/d6f/a23306" ],
-    [ "instance_magtheridons_lair::instance_magtheridons_lair_InstanceMapScript", "de/d5b/a23310.html", "de/d5b/a23310" ],
-    [ "AddSC_instance_magtheridons_lair", "d8/d38/a00926.html#a77e256ce8ca932c8d162a30715dc7c6f", null ],
-    [ "boundaries", "d8/d38/a00926.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "doorData", "d8/d38/a00926.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "minionData", "d8/d38/a00926.html#a6720238df140a3c574a711042b7f5bd3", null ]
+    [ "ScriptPointMove", "d4/d7b/a10230.html", "d4/d7b/a10230" ],
+    [ "SystemMgr", "d4/df3/a10234.html", "d4/df3/a10234" ],
+    [ "sScriptSystemMgr", "d8/d38/a00926.html#a95cfdf568913b08b669f19b401f888a7", null ],
+    [ "TEXT_SOURCE_RANGE", "d8/d38/a00926.html#a55d384db121a9bd513042ebdeb40e602", null ],
+    [ "ScriptPointVector", "d8/d38/a00926.html#aab50bb2bd1f4c2c015d1ed573408733a", null ],
+    [ "eEscortFaction", "d8/d38/a00926.html#a3c2424ea523bc5d5e44a7fa49a67f476", [
+      [ "FACTION_ESCORT_A_NEUTRAL_PASSIVE", "d8/d38/a00926.html#a3c2424ea523bc5d5e44a7fa49a67f476ae8f5cc64dc2681d7820b83cf2706b6d9", null ],
+      [ "FACTION_ESCORT_H_NEUTRAL_PASSIVE", "d8/d38/a00926.html#a3c2424ea523bc5d5e44a7fa49a67f476a76f714900c0c47ea2066410f61de6bea", null ],
+      [ "FACTION_ESCORT_N_NEUTRAL_PASSIVE", "d8/d38/a00926.html#a3c2424ea523bc5d5e44a7fa49a67f476a19efd80bb177a094d312d3ad2c957e54", null ],
+      [ "FACTION_ESCORT_A_NEUTRAL_ACTIVE", "d8/d38/a00926.html#a3c2424ea523bc5d5e44a7fa49a67f476a38e0e3e6e5620e31120d084e73b63cf1", null ],
+      [ "FACTION_ESCORT_H_NEUTRAL_ACTIVE", "d8/d38/a00926.html#a3c2424ea523bc5d5e44a7fa49a67f476aa2786ec02fa5514ae8d0091a51d8dd04", null ],
+      [ "FACTION_ESCORT_N_NEUTRAL_ACTIVE", "d8/d38/a00926.html#a3c2424ea523bc5d5e44a7fa49a67f476aed8fe9002c1d3c315038f7df31c6f7ae", null ],
+      [ "FACTION_ESCORT_N_FRIEND_PASSIVE", "d8/d38/a00926.html#a3c2424ea523bc5d5e44a7fa49a67f476aac0cf8b8049ca4f1750637f7eaa1d96b", null ],
+      [ "FACTION_ESCORT_N_FRIEND_ACTIVE", "d8/d38/a00926.html#a3c2424ea523bc5d5e44a7fa49a67f476af9b814fa1617dc2a10a9764234998470", null ],
+      [ "FACTION_ESCORT_A_PASSIVE", "d8/d38/a00926.html#a3c2424ea523bc5d5e44a7fa49a67f476a569c2ddb2269af72a41a1a3cd525b013", null ],
+      [ "FACTION_ESCORT_H_PASSIVE", "d8/d38/a00926.html#a3c2424ea523bc5d5e44a7fa49a67f476ad766637f2bae4d1bbb75b2ac4ffd7e73", null ],
+      [ "FACTION_ESCORT_N_ACTIVE", "d8/d38/a00926.html#a3c2424ea523bc5d5e44a7fa49a67f476a088789de59f359faa6e7270fbc3282cb", null ],
+      [ "FACTION_ESCORT_H_ACTIVE", "d8/d38/a00926.html#a3c2424ea523bc5d5e44a7fa49a67f476aa84d311b43a21c70f8891649f42f48cb", null ]
+    ] ]
 ];

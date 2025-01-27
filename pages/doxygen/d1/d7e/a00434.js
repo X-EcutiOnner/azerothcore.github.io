@@ -1,5 +1,12 @@
 var a00434 =
 [
-    [ "HMAC_RESULT_SIZE", "d1/d7e/a00434.html#abdb09168f87cd99a498636550843012d", null ],
-    [ "TOTP_INTERVAL", "d1/d7e/a00434.html#abcaccdfb09251b1b2856cc0c48c64eda", null ]
+    [ "MMAP::MMapFactory", "dd/d60/a04878.html", "dd/d60/a04878" ],
+    [ "MMAP_LOAD_RESULT", "d1/d7e/a00434.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "d1/d7e/a00434.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d1/d7e/a00434.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d1/d7e/a00434.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ],
+      [ "MMAP_LOAD_RESULT_ERROR", "d1/d7e/a00434.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d1/d7e/a00434.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d1/d7e/a00434.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ]
+    ] ]
 ];

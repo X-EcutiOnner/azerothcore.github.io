@@ -1,13 +1,12 @@
 var a03428 =
 [
-    [ "FollowerAI", "d2/d44/a06130.html", "d2/d44/a06130" ],
-    [ "eFollowState", "d5/d6b/a03428.html#a1ec9c3a60a913ecbf16778626ccf0138", [
-      [ "STATE_FOLLOW_NONE", "d5/d6b/a03428.html#a1ec9c3a60a913ecbf16778626ccf0138a8d3724990b83869077eeef397588a9ae", null ],
-      [ "STATE_FOLLOW_INPROGRESS", "d5/d6b/a03428.html#a1ec9c3a60a913ecbf16778626ccf0138aa4c302e4ec6ca00eb8d737e1b43e9e0b", null ],
-      [ "STATE_FOLLOW_RETURNING", "d5/d6b/a03428.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523", null ],
-      [ "STATE_FOLLOW_PAUSED", "d5/d6b/a03428.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6", null ],
-      [ "STATE_FOLLOW_COMPLETE", "d5/d6b/a03428.html#a1ec9c3a60a913ecbf16778626ccf0138a73636e044fe9883bf259a17bc617e7c9", null ],
-      [ "STATE_FOLLOW_PREEVENT", "d5/d6b/a03428.html#a1ec9c3a60a913ecbf16778626ccf0138a5ed17b2670a724e36c47de32fa5e821b", null ],
-      [ "STATE_FOLLOW_POSTEVENT", "d5/d6b/a03428.html#a1ec9c3a60a913ecbf16778626ccf0138a77b50e5da22490d74b38dcebae6e6c6a", null ]
-    ] ]
+    [ "instance_stratholme", "d2/dc7/a12930.html", "d2/dc7/a12930" ],
+    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "de/d9e/a12934.html", "de/d9e/a12934" ],
+    [ "AddSC_instance_stratholme", "d5/d6b/a03428.html#add44fd9ad05267cc5db256b112db2585", null ],
+    [ "aGateTrap", "d5/d6b/a03428.html#aa404f6799978911e2f0e4de3b4386c59", null ],
+    [ "aPlaguedCritters", "d5/d6b/a03428.html#a4108af811b2731f9784942b89f333054", null ],
+    [ "BarthilasPos", "d5/d6b/a03428.html#a3c5bc53064d7ed19146d61fbe2f25502", null ],
+    [ "BlackGuardPos", "d5/d6b/a03428.html#a8ed1ccc03c022b129aa9bb9464fedd0a", null ],
+    [ "MindlessUndeadPos", "d5/d6b/a03428.html#a1a89feed6c582c3bf3e51bf3a1027081", null ],
+    [ "SlaughterPos", "d5/d6b/a03428.html#aec64d79cbf450b10fd485f2e559e0472", null ]
 ];

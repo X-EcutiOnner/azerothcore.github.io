@@ -1,39 +1,44 @@
 var a02600 =
 [
-    [ "npc_lord_gregor_lescovar", "dd/d89/a13354.html", "dd/d89/a13354" ],
-    [ "npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI", "db/d2a/a13358.html", "db/d2a/a13358" ],
-    [ "npc_marzon_silent_blade", "dd/de0/a13362.html", "dd/de0/a13362" ],
-    [ "npc_marzon_silent_blade::npc_marzon_silent_bladeAI", "da/d92/a13366.html", "da/d92/a13366" ],
-    [ "npc_tyrion_spybot", "d9/d0d/a13370.html", "d9/d0d/a13370" ],
-    [ "npc_tyrion_spybot::npc_tyrion_spybotAI", "d5/d5a/a13374.html", "d5/d5a/a13374" ],
-    [ "npc_tyrion", "d3/ddc/a13378.html", "d3/ddc/a13378" ],
-    [ "LordGregorLescovar", "d1/d88/a02600.html#a1e4dca432ca60e815b6e871483cbe4e7", [
-      [ "SAY_GUARD_2", "d1/d88/a02600.html#a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91", null ],
-      [ "SAY_LESCOVAR_2", "d1/d88/a02600.html#a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603", null ],
-      [ "SAY_LESCOVAR_3", "d1/d88/a02600.html#a1e4dca432ca60e815b6e871483cbe4e7ab0afa663e4044b81b4b05e29a88cd45a", null ],
-      [ "SAY_LESCOVAR_4", "d1/d88/a02600.html#a1e4dca432ca60e815b6e871483cbe4e7a560401a00335748429691c21614a4c76", null ],
-      [ "SAY_MARZON_1", "d1/d88/a02600.html#a1e4dca432ca60e815b6e871483cbe4e7ad19de95b33b84ba449bdc585d534f3bb", null ],
-      [ "SAY_MARZON_2", "d1/d88/a02600.html#a1e4dca432ca60e815b6e871483cbe4e7aafffef47f5909f07b5aa3b77975ec171", null ],
-      [ "SAY_TYRION_2", "d1/d88/a02600.html#a1e4dca432ca60e815b6e871483cbe4e7a83253082d516a61481fa2396e8e421db", null ],
-      [ "NPC_STORMWIND_ROYAL", "d1/d88/a02600.html#a1e4dca432ca60e815b6e871483cbe4e7af9d88994485cf4511078f883c1db22db", null ],
-      [ "NPC_MARZON_BLADE", "d1/d88/a02600.html#a1e4dca432ca60e815b6e871483cbe4e7a3100dd88fab725a47c86deb05c2a57cd", null ],
-      [ "NPC_TYRION", "d1/d88/a02600.html#a1e4dca432ca60e815b6e871483cbe4e7a87ee81f943a1bcb5ee89b1c646035696", null ],
-      [ "QUEST_THE_ATTACK", "d1/d88/a02600.html#a1e4dca432ca60e815b6e871483cbe4e7a2035fa37d7029761409d06dfdbfcfc68", null ]
+    [ "AhnKahetScriptName", "d1/d88/a02600.html#a506431ce00265fd3122a043804560c86", null ],
+    [ "DataHeader", "d1/d88/a02600.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterAhnKahetCreatureAI", "d1/d88/a02600.html#aa9d11f00daa1d5fe3fccebf717ab93f6", null ],
+    [ "AhnKahetActions", "d1/d88/a02600.html#ab602224ee107d47ea7a8fd34e7e11dcf", [
+      [ "ACTION_REMOVE_PRISON", "d1/d88/a02600.html#ab602224ee107d47ea7a8fd34e7e11dcfa16fb04e016b069c88508a114006910a8", null ]
     ] ],
-    [ "Tyrion", "d1/d88/a02600.html#affa30c579e72ac17979d6590547e9cde", [
-      [ "NPC_TYRION_SPYBOT", "d1/d88/a02600.html#affa30c579e72ac17979d6590547e9cdeaa7d8f055bd91fb38ec823e32df381407", null ]
+    [ "AhnKahetCreatures", "d1/d88/a02600.html#a0a7022dbeba8e4c5922bca61c1ac6be0", [
+      [ "NPC_ELDER_NADOX", "d1/d88/a02600.html#a0a7022dbeba8e4c5922bca61c1ac6be0adefb6eeafb4e1c648ef5431666cee303", null ],
+      [ "NPC_PRINCE_TALDARAM", "d1/d88/a02600.html#a0a7022dbeba8e4c5922bca61c1ac6be0ae7602060d95905d39d735be974c99c5f", null ],
+      [ "NPC_JEDOGA_SHADOWSEEKER", "d1/d88/a02600.html#a0a7022dbeba8e4c5922bca61c1ac6be0a8f4808be30a572ba6dc967dde518e092", null ],
+      [ "NPC_HERALD_VOLAZJ", "d1/d88/a02600.html#a0a7022dbeba8e4c5922bca61c1ac6be0a5c1e93f3700ea72caa137ad6848e3c85", null ],
+      [ "NPC_AMANITAR", "d1/d88/a02600.html#a0a7022dbeba8e4c5922bca61c1ac6be0a34c1714ae003f663cb2b8951810d661f", null ],
+      [ "NPC_JEDOGA_CONTROLLER", "d1/d88/a02600.html#a0a7022dbeba8e4c5922bca61c1ac6be0acf6f2f93580795c52ed4700df297d549", null ]
     ] ],
-    [ "TyrionSpybot", "d1/d88/a02600.html#ab61d02c4c07338130c8927cc8120aa82", [
-      [ "SAY_QUEST_ACCEPT_ATTACK", "d1/d88/a02600.html#ab61d02c4c07338130c8927cc8120aa82aeec93897a6676c7262cd237a03b3c75c", null ],
-      [ "SAY_SPYBOT_1", "d1/d88/a02600.html#ab61d02c4c07338130c8927cc8120aa82a5f538e2baf878a43cdc9d1856e978372", null ],
-      [ "SAY_SPYBOT_2", "d1/d88/a02600.html#ab61d02c4c07338130c8927cc8120aa82a93f30c745248ddf8f06e9acd6152a8dc", null ],
-      [ "SAY_SPYBOT_3", "d1/d88/a02600.html#ab61d02c4c07338130c8927cc8120aa82af13ce48c683aa75a00cdecd473e15566", null ],
-      [ "SAY_SPYBOT_4", "d1/d88/a02600.html#ab61d02c4c07338130c8927cc8120aa82a461198cb836bfd590945213473abfea9", null ],
-      [ "SAY_TYRION_1", "d1/d88/a02600.html#ab61d02c4c07338130c8927cc8120aa82a0124003837e7afa98fe1fd7385e021b8", null ],
-      [ "SAY_GUARD_1", "d1/d88/a02600.html#ab61d02c4c07338130c8927cc8120aa82a97779823d343820b34531f4b2e3a88c5", null ],
-      [ "SAY_LESCOVAR_1", "d1/d88/a02600.html#ab61d02c4c07338130c8927cc8120aa82abdb322c060b497308c09f195091521fb", null ],
-      [ "NPC_PRIESTESS_TYRIONA", "d1/d88/a02600.html#ab61d02c4c07338130c8927cc8120aa82a1dae5d8b98957d3a79a37b8a5d200537", null ],
-      [ "NPC_LORD_GREGOR_LESCOVAR", "d1/d88/a02600.html#ab61d02c4c07338130c8927cc8120aa82a51dc64fb93f3e5982bfd7746b6d359ea", null ]
+    [ "AhnkahetData", "d1/d88/a02600.html#aff905f3bb30004af8919ddfe3d29e8dd", [
+      [ "DATA_ELDER_NADOX", "d1/d88/a02600.html#aff905f3bb30004af8919ddfe3d29e8dda770adca9032e015945b302877eea180f", null ],
+      [ "DATA_PRINCE_TALDARAM", "d1/d88/a02600.html#aff905f3bb30004af8919ddfe3d29e8ddaaedbd25489af19057ce8227250867ce0", null ],
+      [ "DATA_JEDOGA_SHADOWSEEKER", "d1/d88/a02600.html#aff905f3bb30004af8919ddfe3d29e8dda5898d17f647609f063f3a809dc2fec66", null ],
+      [ "DATA_HERALD_VOLAZJ", "d1/d88/a02600.html#aff905f3bb30004af8919ddfe3d29e8dda30b8528fb302a8f32b4db9e72b4889e5", null ],
+      [ "DATA_AMANITAR", "d1/d88/a02600.html#aff905f3bb30004af8919ddfe3d29e8dda7146f172ca0fe8e80c667a510874a94f", null ],
+      [ "DATA_PRINCE_TALDARAM_PLATFORM", "d1/d88/a02600.html#aff905f3bb30004af8919ddfe3d29e8dda75ab4b9865126fdcf77107ef317fe7cc", null ]
     ] ],
-    [ "AddSC_stormwind_city", "d1/d88/a02600.html#ac865e7add4724f06be48735f6bf1a542", null ]
+    [ "AhnkahetObjects", "d1/d88/a02600.html#a497b1d427e80ac610cd1cc5e3bc2a02f", [
+      [ "GO_TELDARAM_DOOR", "d1/d88/a02600.html#a497b1d427e80ac610cd1cc5e3bc2a02fa597526245130273d3e77a1e411a81811", null ],
+      [ "GO_TELDARAM_SPHERE1", "d1/d88/a02600.html#a497b1d427e80ac610cd1cc5e3bc2a02fa4586ff1377f4e4c184e57a56e7f962ed", null ],
+      [ "GO_TELDARAM_SPHERE2", "d1/d88/a02600.html#a497b1d427e80ac610cd1cc5e3bc2a02fa637eb0aff225b388e0c611a9cbccd03e", null ],
+      [ "GO_TELDARAM_PLATFORM", "d1/d88/a02600.html#a497b1d427e80ac610cd1cc5e3bc2a02fa9ae027e64960ba5d20a93c5123469e74", null ]
+    ] ],
+    [ "AhnKahetPersistentData", "d1/d88/a02600.html#acc056f2f7be3fe09395716ca57e7c7f3", [
+      [ "DATA_TELDRAM_SPHERE1", "d1/d88/a02600.html#acc056f2f7be3fe09395716ca57e7c7f3a748636fe536f29e09b02edcebc095d56", null ],
+      [ "DATA_TELDRAM_SPHERE2", "d1/d88/a02600.html#acc056f2f7be3fe09395716ca57e7c7f3aa71df9961714e4f37168c84236d3ca51", null ],
+      [ "MAX_PERSISTENT_DATA", "d1/d88/a02600.html#acc056f2f7be3fe09395716ca57e7c7f3ade8daf2d97d89b7bc637c9b5550e0449", null ]
+    ] ],
+    [ "AhnkahetSpells", "d1/d88/a02600.html#a04c8c0beb3d5fd05b695be78e77cfe8d", [
+      [ "SPELL_SHADOW_SICKLE", "d1/d88/a02600.html#a04c8c0beb3d5fd05b695be78e77cfe8dacf16c95dd7397632ddf94f2d9f3c3c39", null ]
+    ] ],
+    [ "AhnKahetTexts", "d1/d88/a02600.html#ad2ad73bb93c442e3d70b9efad1b6c305", [
+      [ "SAY_SPHERE_ACTIVATED", "d1/d88/a02600.html#ad2ad73bb93c442e3d70b9efad1b6c305aea5e4c72402492816a8bafad5323cff8", null ]
+    ] ],
+    [ "GetAhnKahetAI", "d1/d88/a02600.html#a7d67882176cbe7ff747f0bb785985b00", null ],
+    [ "MAX_ENCOUNTER", "d1/d88/a02600.html#a42b654ad1177faa1b68541d8c6ca1fae", null ]
 ];

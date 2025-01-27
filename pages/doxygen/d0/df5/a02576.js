@@ -1,17 +1,14 @@
 var a02576 =
 [
-    [ "instance_zulgurub", "d6/d6c/a13830.html", "d6/d6c/a13830" ],
-    [ "instance_zulgurub::instance_zulgurub_InstanceMapScript", "dd/dab/a13834.html", "dd/dab/a13834" ],
-    [ "go_brazier_of_madness", "d8/da6/a13838.html", "d8/da6/a13838" ],
-    [ "EdgeOfMadnessEnum", "d0/df5/a02576.html#a45822838f1310b1a812eba191cb3d416", [
-      [ "EVENT_EDGE_OF_MADNESS_GRILEK", "d0/df5/a02576.html#a45822838f1310b1a812eba191cb3d416ad02945634d7affb86fe4a6fa1baee9e7", null ],
-      [ "EVENT_EDGE_OF_MADNESS_HAZZARAH", "d0/df5/a02576.html#a45822838f1310b1a812eba191cb3d416a8ec0daec449beba98b500943bcacc8e4", null ],
-      [ "EVENT_EDGE_OF_MADNESS_RENATAKI", "d0/df5/a02576.html#a45822838f1310b1a812eba191cb3d416a4d7aeb529f52ed41b6c933726f9e2e1d", null ],
-      [ "EVENT_EDGE_OF_MADNESS_WUSHOOLAY", "d0/df5/a02576.html#a45822838f1310b1a812eba191cb3d416ac13476b6183a6ba6aad91191ef3c1073", null ]
+    [ "guard_shattrath_scryer", "dd/d39/a27066.html", "dd/d39/a27066" ],
+    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "de/d60/a27070.html", "de/d60/a27070" ],
+    [ "guard_shattrath_aldor", "df/def/a27074.html", "df/def/a27074" ],
+    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "dd/dc0/a27078.html", "dd/dc0/a27078" ],
+    [ "GuardShattrath", "d0/df5/a02576.html#a7c8fcdd86e1aa9eab132e6321290e79c", [
+      [ "SPELL_BANISHED_SHATTRATH_A", "d0/df5/a02576.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe", null ],
+      [ "SPELL_BANISHED_SHATTRATH_S", "d0/df5/a02576.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48", null ],
+      [ "SPELL_BANISH_TELEPORT", "d0/df5/a02576.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0", null ],
+      [ "SPELL_EXILE", "d0/df5/a02576.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d", null ]
     ] ],
-    [ "AddSC_instance_zulgurub", "d0/df5/a02576.html#a224e147b1990c0996e0ac61a1865e34c", null ],
-    [ "BrazierOfMadnessContainer", "d0/df5/a02576.html#a808ff75d7f4ab6555cdc154544ef727f", null ],
-    [ "creatureData", "d0/df5/a02576.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d0/df5/a02576.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "edgeOfMagnessSummonPos", "d0/df5/a02576.html#a352683729da59da9923d0f67d510f73c", null ]
+    [ "AddSC_guards", "d0/df5/a02576.html#acba582cbc90c710c629dd30926acdca4", null ]
 ];

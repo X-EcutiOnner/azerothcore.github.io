@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['days_0',['Days',['../dc/d84/a00338.html#af5dc5e7ad7b3f6d8e84530de842d125b',1,'Duration.h']]],
+  ['days_0',['Days',['../d0/d61/a00302.html#af5dc5e7ad7b3f6d8e84530de842d125b',1,'Duration.h']]],
   ['deletedinfolist_1',['DeletedInfoList',['../d8/d58/a11382.html#afea1b495e99ebd5b9b1481caf700aa42',1,'character_commandscript']]],
   ['dfquestsdonelist_2',['DFQuestsDoneList',['../dc/d06/a08466.html#a4976a84f1a7e5019ccccdad3cba0e743',1,'Player']]],
   ['difference_5ftype_3',['difference_type',['../d5/d6d/a05142.html#ad9960b552714f9d608e1a3d1b42b4d1f',1,'LinkedListHead::Iterator::difference_type()'],['../d7/d24/a05350.html#aeb2086c6034a734b92b3cb8d0382a293',1,'Acore::CheckedBufferOutputIterator::difference_type()'],['../d9/d54/a05418.html#a87c56269252a45d93cb7a6817d851d9b',1,'EnumUtils::Iterator::difference_type()'],['../d7/d3f/a05754.html#aa5abd2b7fa1dc64ac1eb085521b27d6f',1,'ResultIterator::difference_type()'],['../df/ddb/a27394.html#ae4b37510a14d178636d2caeb518152d8',1,'DBCStorageIterator::difference_type()']]],
@@ -11,16 +11,16 @@ var searchData=
   ['disablemap_8',['DisableMap',['../dc/d6b/a04731.html#a2b8dd8b0bc5f58e812c1bd969ee833d6',1,'DisableMgr::anonymous_namespace{DisableMgr.cpp}']]],
   ['disabletypemap_9',['DisableTypeMap',['../dc/d6b/a04731.html#a1dc7ac8fd11c81da83700d364483165a',1,'DisableMgr::anonymous_namespace{DisableMgr.cpp}']]],
   ['disconnectmap_10',['DisconnectMap',['../d5/de4/a11342.html#accca2966669fe118b484ea3f643634c4',1,'World']]],
-  ['dispelchargeslist_11',['DispelChargesList',['../de/d3d/a03515.html#ac60ae645aa0b9216de7dac56c3ed8c37',1,'Unit.h']]],
-  ['dispellist_12',['DispelList',['../d1/d7a/a03080.html#a711d5a2b2f8cbeb49153d9e33ea51bf1',1,'SpellEffects.cpp']]],
+  ['dispelchargeslist_11',['DispelChargesList',['../d9/d25/a01157.html#ac60ae645aa0b9216de7dac56c3ed8c37',1,'Unit.h']]],
+  ['dispellist_12',['DispelList',['../db/d14/a01040.html#a711d5a2b2f8cbeb49153d9e33ea51bf1',1,'SpellEffects.cpp']]],
   ['distance_5ftype_13',['distance_type',['../d5/d6d/a05142.html#ae9542dfc90ba68a923d41092a7b56c76',1,'LinkedListHead::Iterator']]],
-  ['doorinfomap_14',['DoorInfoMap',['../dc/d23/a03041.html#ab665e2d424a75aeb6703ccd08050676c',1,'InstanceScript.h']]],
-  ['doorinfomapbounds_15',['DoorInfoMapBounds',['../dc/d23/a03041.html#ac55e7bd9aa319ccb4e7a22a3e35c3326',1,'InstanceScript.h']]],
-  ['doorset_16',['DoorSet',['../dc/d23/a03041.html#a17be047bdb4b0361cdee9637ff279e9f',1,'InstanceScript.h']]],
-  ['dungeonencountercontainer_17',['DungeonEncounterContainer',['../d0/d45/a02843.html#a876f6d2b05951f015c0982bec4b71d49',1,'ObjectMgr.h']]],
-  ['dungeonencounterlist_18',['DungeonEncounterList',['../d0/d45/a02843.html#aebea323597e23bf0f45fd9c0c6bd78f5',1,'ObjectMgr.h']]],
+  ['doorinfomap_14',['DoorInfoMap',['../d6/d06/a00572.html#ab665e2d424a75aeb6703ccd08050676c',1,'InstanceScript.h']]],
+  ['doorinfomapbounds_15',['DoorInfoMapBounds',['../d6/d06/a00572.html#ac55e7bd9aa319ccb4e7a22a3e35c3326',1,'InstanceScript.h']]],
+  ['doorset_16',['DoorSet',['../d6/d06/a00572.html#a17be047bdb4b0361cdee9637ff279e9f',1,'InstanceScript.h']]],
+  ['dungeonencountercontainer_17',['DungeonEncounterContainer',['../db/d40/a00959.html#a876f6d2b05951f015c0982bec4b71d49',1,'ObjectMgr.h']]],
+  ['dungeonencounterlist_18',['DungeonEncounterList',['../db/d40/a00959.html#aebea323597e23bf0f45fd9c0c6bd78f5',1,'ObjectMgr.h']]],
   ['dungeonprogressionrequirementscontainer_19',['DungeonProgressionRequirementsContainer',['../df/d30/a08890.html#af9d25a87c05988cfaf58425a28716c03',1,'ObjectMgr']]],
   ['duration_5ft_20',['duration_t',['../d1/db8/a05450.html#a9c6be5fc079684953f911548fb66cb21',1,'TaskScheduler']]],
-  ['dynamicobjectmaptype_21',['DynamicObjectMapType',['../d3/d8b/a02996.html#a5957bb381cc7067b3da243bb5999e870',1,'GridDefines.h']]],
+  ['dynamicobjectmaptype_21',['DynamicObjectMapType',['../dd/d2e/a01949.html#a5957bb381cc7067b3da243bb5999e870',1,'GridDefines.h']]],
   ['dynobjectlist_22',['DynObjectList',['../d4/d46/a08598.html#ae8858c524be551c72bf88127c354c990',1,'Unit']]]
 ];

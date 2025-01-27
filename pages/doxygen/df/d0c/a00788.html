@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Outland/CoilfangReservoir/underbog/boss_ghazan.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/AuctionHouseScript.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,140 +106,103 @@ $(document).ready(function(){initNavTree('df/d0c/a00788.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">boss_ghazan.cpp File Reference</div></div>
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">AuctionHouseScript.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaTriggerScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">the_underbog.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d23/a23082.html">boss_ghazan</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2b/a23086.html">at_underbog_ghazan</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d38/a10054.html">AuctionHouseScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:afbee42c6927db9ad2cf9d9096eeac954"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954">eBlackStalker</a> { <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c">SPELL_ACID_BREATH</a> = 34268
+<tr class="memitem:a12159e90d998de411ceb193c223f26c9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9">AuctionHouseHook</a> { <br />
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0">AUCTIONHOUSEHOOK_ON_AUCTION_ADD</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806">SPELL_ACID_SPIT</a> = 34290
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2">AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823">SPELL_TAIL_SWEEP</a> = 34267
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff">AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e">SPELL_ENRAGE</a> = 15716
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25">AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa">ACTION_MOVE_TO_PLATFORM</a> = 1
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2">SPELL_LEVITATE</a> = 31704
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d">SPELL_CHAIN_LIGHTNING</a> = 31717
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0">SPELL_STATIC_CHARGE</a> = 31715
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed">SPELL_SUMMON_SPORE_STRIDER</a> = 38755
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1">SPELL_LEVITATION_PULSE</a> = 31701
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b">SPELL_SOMEONE_GRAB_ME</a> = 31702
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5">SPELL_MAGNETIC_PULL</a> = 31703
-, <br />
-&#160;&#160;<a class="el" href="../../da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de">SPELL_SUSPENSION_PRIMER</a> = 31720
-, <br />
-&#160;&#160;<a class="el" href="../../da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0">SPELL_SUSPENSION</a> = 31719
-, <br />
-&#160;&#160;<a class="el" href="../../da/db8/a00797.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2">ENTRY_SPORE_STRIDER</a> = 22299
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc">AUCTIONHOUSEHOOK_END</a>
 <br />
  }</td></tr>
-<tr class="separator:afbee42c6927db9ad2cf9d9096eeac954"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a6b7605f750dab7f676edcd83f54c249a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0c/a00788.html#a6b7605f750dab7f676edcd83f54c249a">AddSC_boss_ghazan</a> ()</td></tr>
-<tr class="separator:a6b7605f750dab7f676edcd83f54c249a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a12159e90d998de411ceb193c223f26c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="afbee42c6927db9ad2cf9d9096eeac954" name="afbee42c6927db9ad2cf9d9096eeac954"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afbee42c6927db9ad2cf9d9096eeac954">&#9670;&#160;</a></span>eBlackStalker</h2>
+<a id="a12159e90d998de411ceb193c223f26c9" name="a12159e90d998de411ceb193c223f26c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a12159e90d998de411ceb193c223f26c9">&#9670;&#160;</a></span>AuctionHouseHook</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954">eBlackStalker</a></td>
+          <td class="memname">enum <a class="el" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9">AuctionHouseHook</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c" name="afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c"></a>SPELL_ACID_BREATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806" name="afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806"></a>SPELL_ACID_SPIT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823" name="afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823"></a>SPELL_TAIL_SWEEP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e" name="afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e"></a>SPELL_ENRAGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa" name="afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa"></a>ACTION_MOVE_TO_PLATFORM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2" name="afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2"></a>SPELL_LEVITATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d" name="afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d"></a>SPELL_CHAIN_LIGHTNING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0" name="afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0"></a>SPELL_STATIC_CHARGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed" name="afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed"></a>SPELL_SUMMON_SPORE_STRIDER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1" name="afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1"></a>SPELL_LEVITATION_PULSE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b" name="afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b"></a>SPELL_SOMEONE_GRAB_ME&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5" name="afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5"></a>SPELL_MAGNETIC_PULL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de" name="afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de"></a>SPELL_SUSPENSION_PRIMER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0" name="afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0"></a>SPELL_SUSPENSION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2" name="afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2"></a>ENTRY_SPORE_STRIDER&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0" name="a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0"></a>AUCTIONHOUSEHOOK_ON_AUCTION_ADD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2" name="a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2"></a>AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff" name="a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff"></a>AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25" name="a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25"></a>AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f" name="a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223" name="a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112" name="a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff" name="a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f" name="a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e" name="a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9" name="a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc" name="a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc"></a>AUCTIONHOUSEHOOK_END&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c">SPELL_ACID_BREATH</a>               = 34268,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806">SPELL_ACID_SPIT</a>                 = 34290,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823">SPELL_TAIL_SWEEP</a>                = 34267,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e">SPELL_ENRAGE</a>                    = 15716,</div>
-<div class="line"><span class="lineno">   31</span> </div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa">ACTION_MOVE_TO_PLATFORM</a>         = 1</div>
-<div class="line"><span class="lineno">   33</span>};</div>
-<div class="ttc" id="aa00788_html_afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e"><div class="ttname"><a href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e">SPELL_ENRAGE</a></div><div class="ttdeci">@ SPELL_ENRAGE</div><div class="ttdef"><b>Definition:</b> boss_ghazan.cpp:30</div></div>
-<div class="ttc" id="aa00788_html_afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa"><div class="ttname"><a href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa">ACTION_MOVE_TO_PLATFORM</a></div><div class="ttdeci">@ ACTION_MOVE_TO_PLATFORM</div><div class="ttdef"><b>Definition:</b> boss_ghazan.cpp:32</div></div>
-<div class="ttc" id="aa00788_html_afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823"><div class="ttname"><a href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823">SPELL_TAIL_SWEEP</a></div><div class="ttdeci">@ SPELL_TAIL_SWEEP</div><div class="ttdef"><b>Definition:</b> boss_ghazan.cpp:29</div></div>
-<div class="ttc" id="aa00788_html_afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c"><div class="ttname"><a href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c">SPELL_ACID_BREATH</a></div><div class="ttdeci">@ SPELL_ACID_BREATH</div><div class="ttdef"><b>Definition:</b> boss_ghazan.cpp:27</div></div>
-<div class="ttc" id="aa00788_html_afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806"><div class="ttname"><a href="../../df/d0c/a00788.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806">SPELL_ACID_SPIT</a></div><div class="ttdeci">@ SPELL_ACID_SPIT</div><div class="ttdef"><b>Definition:</b> boss_ghazan.cpp:28</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0">AUCTIONHOUSEHOOK_ON_AUCTION_ADD</a>,</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2">AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE</a>,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff">AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL</a>,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25">AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE</a>,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL</a>,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL</a>,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL</a>,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL</a>,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL</a>,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL</a>,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE</a>,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc">AUCTIONHOUSEHOOK_END</a></div>
+<div class="line"><span class="lineno">   38</span>};</div>
+<div class="ttc" id="aa00788_html_a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e"><div class="ttname"><a href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:35</div></div>
+<div class="ttc" id="aa00788_html_a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f"><div class="ttname"><a href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:30</div></div>
+<div class="ttc" id="aa00788_html_a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff"><div class="ttname"><a href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff">AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:28</div></div>
+<div class="ttc" id="aa00788_html_a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0"><div class="ttname"><a href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0">AUCTIONHOUSEHOOK_ON_AUCTION_ADD</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_AUCTION_ADD</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:26</div></div>
+<div class="ttc" id="aa00788_html_a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9"><div class="ttname"><a href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:36</div></div>
+<div class="ttc" id="aa00788_html_a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2"><div class="ttname"><a href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2">AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:27</div></div>
+<div class="ttc" id="aa00788_html_a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223"><div class="ttname"><a href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:31</div></div>
+<div class="ttc" id="aa00788_html_a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff"><div class="ttname"><a href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:33</div></div>
+<div class="ttc" id="aa00788_html_a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112"><div class="ttname"><a href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:32</div></div>
+<div class="ttc" id="aa00788_html_a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f"><div class="ttname"><a href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:34</div></div>
+<div class="ttc" id="aa00788_html_a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25"><div class="ttname"><a href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25">AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:29</div></div>
+<div class="ttc" id="aa00788_html_a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc"><div class="ttname"><a href="../../df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc">AUCTIONHOUSEHOOK_END</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_END</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:37</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a6b7605f750dab7f676edcd83f54c249a" name="a6b7605f750dab7f676edcd83f54c249a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6b7605f750dab7f676edcd83f54c249a">&#9670;&#160;</a></span>AddSC_boss_ghazan()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AddSC_boss_ghazan </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  158</span>{</div>
-<div class="line"><span class="lineno">  159</span>    <a class="code hl_define" href="../../d4/d45/a00791.html#afcd42fc90cff2a3292b19b2ea80bdd38">RegisterUnderbogCreatureAI</a>(<a class="code hl_struct" href="../../d1/d23/a23082.html">boss_ghazan</a>);</div>
-<div class="line"><span class="lineno">  160</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/d2b/a23086.html">at_underbog_ghazan</a>();</div>
-<div class="line"><span class="lineno">  161</span>}</div>
-<div class="ttc" id="aa00791_html_afcd42fc90cff2a3292b19b2ea80bdd38"><div class="ttname"><a href="../../d4/d45/a00791.html#afcd42fc90cff2a3292b19b2ea80bdd38">RegisterUnderbogCreatureAI</a></div><div class="ttdeci">#define RegisterUnderbogCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> the_underbog.h:48</div></div>
-<div class="ttc" id="aa23082_html"><div class="ttname"><a href="../../d1/d23/a23082.html">boss_ghazan</a></div><div class="ttdef"><b>Definition:</b> boss_ghazan.cpp:36</div></div>
-<div class="ttc" id="aa23086_html"><div class="ttname"><a href="../../dd/d2b/a23086.html">at_underbog_ghazan</a></div><div class="ttdef"><b>Definition:</b> boss_ghazan.cpp:138</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00048">RegisterUnderbogCreatureAI</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00122">AddOutlandScripts()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -247,8 +210,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_aa56e8ce1c3e0d32a59f1a16b86dbc72.html">Outland</a></li><li class="navelem"><a class="el" href="../../dir_22de0d38c781b430619603c756a2179f.html">CoilfangReservoir</a></li><li class="navelem"><a class="el" href="../../dir_0357f93aab1892c02aa89cc280efb408.html">underbog</a></li><li class="navelem"><a class="el" href="../../df/d0c/a00788.html">boss_ghazan.cpp</a></li>
-    <li class="footer">Generated on Mon Jan 20 2025 20:41:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../df/d0c/a00788.html">AuctionHouseScript.h</a></li>
+    <li class="footer">Generated on Mon Jan 27 2025 20:41:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>
