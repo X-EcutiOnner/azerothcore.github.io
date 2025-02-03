@@ -1,12 +1,6 @@
 var a17118 =
 [
-    [ "npc_high_overlord_saurfangAI", "d0/d5a/a17118.html#a5c31259d9eb26e09d2b645d826e75328", null ],
-    [ "DoAction", "d0/d5a/a17118.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
-    [ "MovementInform", "d0/d5a/a17118.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
-    [ "Reset", "d0/d5a/a17118.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
-    [ "SpellHit", "d0/d5a/a17118.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
-    [ "UpdateAI", "d0/d5a/a17118.html#a92124e7490a066bf63836397a3bdc71b", null ],
-    [ "_events", "d0/d5a/a17118.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
-    [ "_guardList", "d0/d5a/a17118.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
-    [ "_instance", "d0/d5a/a17118.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
+    [ "HandleScript", "d0/d5a/a17118.html#acd11d50f398857dc2a24bd2d63e52222", null ],
+    [ "PrepareSpellScript", "d0/d5a/a17118.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
+    [ "Register", "d0/d5a/a17118.html#ad7f12515dc21ab6b19148370fd491629", null ]
 ];

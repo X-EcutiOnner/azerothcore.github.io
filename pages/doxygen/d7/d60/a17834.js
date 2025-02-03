@@ -1,8 +1,7 @@
 var a17834 =
 [
-    [ "FilterTargets", "d7/d60/a17834.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "d7/d60/a17834.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "d7/d60/a17834.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "d7/d60/a17834.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "d7/d60/a17834.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "HandleTriggerMissile", "d7/d60/a17834.html#af6370594be48d35a12009fa10a38d91d", null ],
+    [ "PrepareSpellScript", "d7/d60/a17834.html#aeeca4381273f382c3abb68f34d229213", null ],
+    [ "Register", "d7/d60/a17834.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
+    [ "Validate", "d7/d60/a17834.html#abe0b9290ddf9beaa60a583840d90d914", null ]
 ];

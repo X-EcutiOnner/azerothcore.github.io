@@ -1,10 +1,7 @@
 var a13814 =
 [
-    [ "npc_zealot_zath", "d7/d6d/a13814.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
-    [ "JustDied", "d7/d6d/a13814.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
-    [ "JustEngagedWith", "d7/d6d/a13814.html#a25e059f40de51d880f4ec209ff4dd924", null ],
-    [ "Reset", "d7/d6d/a13814.html#abc4e40afd644f2c89444f3fe475817c0", null ],
-    [ "UpdateAI", "d7/d6d/a13814.html#a467ce2437ec112b42f864ef412c0c976", null ],
-    [ "_scheduler", "d7/d6d/a13814.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
-    [ "instance", "d7/d6d/a13814.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
+    [ "HandleApply", "d7/d6d/a13814.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
+    [ "HandleRemove", "d7/d6d/a13814.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
+    [ "PrepareAuraScript", "d7/d6d/a13814.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
+    [ "Register", "d7/d6d/a13814.html#af2343add2ed014832bd34d11519b391b", null ]
 ];

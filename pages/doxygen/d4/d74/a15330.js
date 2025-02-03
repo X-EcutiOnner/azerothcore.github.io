@@ -1,14 +1,7 @@
 var a15330 =
 [
-    [ "npc_taskmaster_fizzuleAI", "d4/d74/a15330.html#ac792f91930c869ce919f8fd96b3fb076", null ],
-    [ "DoFriend", "d4/d74/a15330.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
-    [ "JustEngagedWith", "d4/d74/a15330.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
-    [ "ReceiveEmote", "d4/d74/a15330.html#a21d0d70086f085b715a12d05fbe5d611", null ],
-    [ "Reset", "d4/d74/a15330.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
-    [ "SpellHit", "d4/d74/a15330.html#a4c35104935a3a6264c853a657dc42244", null ],
-    [ "UpdateAI", "d4/d74/a15330.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
-    [ "factionNorm", "d4/d74/a15330.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
-    [ "FlareCount", "d4/d74/a15330.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
-    [ "IsFriend", "d4/d74/a15330.html#ab7e6bd2e023545c73fba758267551eee", null ],
-    [ "ResetTimer", "d4/d74/a15330.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
+    [ "npc_toogaAI", "df/dd9/a15334.html", "df/dd9/a15334" ],
+    [ "npc_tooga", "d4/d74/a15330.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "d4/d74/a15330.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "d4/d74/a15330.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
 ];

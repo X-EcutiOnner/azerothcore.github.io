@@ -1,12 +1,12 @@
 var a13490 =
 [
-    [ "npc_akilzon_eagle", "d3/dae/a13490.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
-    [ "JustEngagedWith", "d3/dae/a13490.html#aa5c3d77a1086ad90397d47f081b25476", null ],
-    [ "MoveInLineOfSight", "d3/dae/a13490.html#adefd384b8a273ca52343d836a399f3cb", null ],
-    [ "MovementInform", "d3/dae/a13490.html#abf69be0c32356e65e6d451c33fb389f0", null ],
-    [ "Reset", "d3/dae/a13490.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
-    [ "UpdateAI", "d3/dae/a13490.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
-    [ "arrived", "d3/dae/a13490.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
-    [ "EagleSwoop_Timer", "d3/dae/a13490.html#a37a5861ef690729e2a8bfafddce168be", null ],
-    [ "TargetGUID", "d3/dae/a13490.html#a14d4f82f932569d24f6014ad39640619", null ]
+    [ "npc_daphne_stilwellAI", "d3/dae/a13490.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
+    [ "AttackStart", "d3/dae/a13490.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
+    [ "JustSummoned", "d3/dae/a13490.html#ae56554d30e9de7644efab891555c57e0", null ],
+    [ "Reset", "d3/dae/a13490.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
+    [ "SummonedCreatureDies", "d3/dae/a13490.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
+    [ "Update", "d3/dae/a13490.html#a4099d75c4a6bca1525781a5753ef9972", null ],
+    [ "WaypointReached", "d3/dae/a13490.html#a1035eb0a1696730d8304593b5fb079e4", null ],
+    [ "summons", "d3/dae/a13490.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
+    [ "textCounter", "d3/dae/a13490.html#a62ab24169c1b7c3028ab33303b217f63", null ]
 ];

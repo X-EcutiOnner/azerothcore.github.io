@@ -1,6 +1,11 @@
 var a18954 =
 [
-    [ "npc_alexstraszaAI", "de/d27/a18958.html", "de/d27/a18958" ],
-    [ "npc_alexstrasza", "df/d3f/a18954.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
-    [ "GetAI", "df/d3f/a18954.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
+    [ "npc_nexus_lordAI", "df/d3f/a18954.html#a8d26337fdcd055027a20ea91faf7e01b", null ],
+    [ "AttackStart", "df/d3f/a18954.html#a2f56dcac815431c887b95e9c09aec361", null ],
+    [ "JustDied", "df/d3f/a18954.html#a828007757a618affad71b955681945cf", null ],
+    [ "JustEngagedWith", "df/d3f/a18954.html#acfcf227557b1e212eda385e22ccdb981", null ],
+    [ "UpdateAI", "df/d3f/a18954.html#ad7ddb98d2daaed386e713e423de4cac9", null ],
+    [ "events", "df/d3f/a18954.html#ad20a56e52b22306ca31406d8defa4aa5", null ],
+    [ "pInstance", "df/d3f/a18954.html#a81fae70688bcd8c733ea90b06900503d", null ],
+    [ "timer", "df/d3f/a18954.html#a8edb133f7ca01a4aa75345c572a505c7", null ]
 ];

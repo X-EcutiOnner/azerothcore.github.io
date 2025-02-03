@@ -1,8 +1,9 @@
 var a08426 =
 [
-    [ "EnchantDuration", "d3/d29/a08426.html#a1ce5f81deaa60494c247673c113632d8", null ],
-    [ "EnchantDuration", "d3/d29/a08426.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
-    [ "item", "d3/d29/a08426.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
-    [ "leftduration", "d3/d29/a08426.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
-    [ "slot", "d3/d29/a08426.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
+    [ "areaFlag", "d3/d29/a08426.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
+    [ "areaID", "d3/d29/a08426.html#a455a890a1d82d31873873ac497cb83b7", null ],
+    [ "x1", "d3/d29/a08426.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
+    [ "x2", "d3/d29/a08426.html#aebdb021c0b9c40d624d5115b24616a12", null ],
+    [ "y1", "d3/d29/a08426.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
+    [ "y2", "d3/d29/a08426.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
 ];

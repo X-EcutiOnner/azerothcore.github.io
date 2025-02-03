@@ -1,8 +1,6 @@
 var a15678 =
 [
-    [ "npc_twilight_summonAI", "da/d79/a15678.html#a8f5dfe54a5ac1d7a058c5efb9bead77a", null ],
-    [ "DoAction", "da/d79/a15678.html#aac4c1e3bc635b30f1ceed8b25f2c7829", null ],
-    [ "Reset", "da/d79/a15678.html#a1174c827aef1b05603214e4717c78f8a", null ],
-    [ "UpdateAI", "da/d79/a15678.html#addb312c34c668b8189087de6cf89543b", null ],
-    [ "fadeArmorTimer", "da/d79/a15678.html#ace4028c8f4d0240b4e2939481312d0d2", null ]
+    [ "boss_sartharion_shadronAI", "d2/db3/a15682.html", "d2/db3/a15682" ],
+    [ "boss_sartharion_shadron", "da/d79/a15678.html#ac297719abff8c795af10973492fc6fbe", null ],
+    [ "GetAI", "da/d79/a15678.html#a95c7184ee7589f01920adc57a7df963b", null ]
 ];

@@ -1,7 +1,6 @@
 var a22566 =
 [
-    [ "CheckProc", "da/d20/a22566.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "da/d20/a22566.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "da/d20/a22566.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "da/d20/a22566.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "HandleScriptEffect", "da/d20/a22566.html#aeafb2893534c8e188bbb519b6c7a0113", null ],
+    [ "PrepareSpellScript", "da/d20/a22566.html#a6caaa93244719d7fc8c3f28280a3c1c5", null ],
+    [ "Register", "da/d20/a22566.html#a99e2243ca4372eab1a742f8979d61334", null ]
 ];

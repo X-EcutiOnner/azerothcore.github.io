@@ -1,13 +1,7 @@
 var a22186 =
 [
-    [ "OPvPCapturePointEP_PWT", "d0/dfc/a22186.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
-    [ "ChangeState", "d0/dfc/a22186.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
-    [ "FillInitialWorldStates", "d0/dfc/a22186.html#a823b74c3f4e2dac7e02b060ccfb93c89", null ],
-    [ "HandlePlayerEnter", "d0/dfc/a22186.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
-    [ "HandlePlayerLeave", "d0/dfc/a22186.html#a5772e54263c613eee365856def5e74e6", null ],
-    [ "SendChangePhase", "d0/dfc/a22186.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
-    [ "SummonFlightMaster", "d0/dfc/a22186.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
-    [ "UpdateTowerState", "d0/dfc/a22186.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
-    [ "m_FlightMasterSpawnedId", "d0/dfc/a22186.html#afeefd804849b925e6d0a880d8efb5319", null ],
-    [ "m_TowerState", "d0/dfc/a22186.html#a914dcbb37baf457750cfe9829d95d88c", null ]
+    [ "npc_storm_cloudAI", "d0/dfc/a22186.html#aa4dd9409cd74f3c2c878974715e43394", null ],
+    [ "JustRespawned", "d0/dfc/a22186.html#ad0f99362f7ab506b322b6d75890881c1", null ],
+    [ "Reset", "d0/dfc/a22186.html#a99654ac86502e3ac2f899082269ccb01", null ],
+    [ "SpellHit", "d0/dfc/a22186.html#ac51313cec4d76216f3c716d988fc4857", null ]
 ];

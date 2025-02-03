@@ -1,6 +1,16 @@
 var a18698 =
 [
-    [ "npc_boss_gothik_minionAI", "d7/df5/a18702.html", "d7/df5/a18702" ],
-    [ "npc_boss_gothik_minion", "d2/db5/a18698.html#a6cabeae812639ac179133245d85a0e15", null ],
-    [ "GetAI", "d2/db5/a18698.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
+    [ "boss_gluthAI", "d2/db5/a18698.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
+    [ "JustDied", "d2/db5/a18698.html#ada2c5f6b7025f5f2fb67b8ebe3b2d56c", null ],
+    [ "JustEngagedWith", "d2/db5/a18698.html#a25cf670d7254cc8331752987a854c63b", null ],
+    [ "JustSummoned", "d2/db5/a18698.html#acc09328210fbf1a6e81999d548676ae4", null ],
+    [ "KilledUnit", "d2/db5/a18698.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
+    [ "MoveInLineOfSight", "d2/db5/a18698.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
+    [ "Reset", "d2/db5/a18698.html#acb9f68205a2a210737d43893a414ca52", null ],
+    [ "SelectPlayerInRoom", "d2/db5/a18698.html#a1f8f87b00291d8164f607ac6262506cf", null ],
+    [ "SummonedCreatureDies", "d2/db5/a18698.html#a115a1f1327a931067223734dbf414675", null ],
+    [ "UpdateAI", "d2/db5/a18698.html#a2505f7ebda7b623edfedf96979a4a920", null ],
+    [ "events", "d2/db5/a18698.html#adaf9581259a774087ce02725b42b6b47", null ],
+    [ "pInstance", "d2/db5/a18698.html#a2546d250e59df4666ac536e371b3aa66", null ],
+    [ "summons", "d2/db5/a18698.html#a18f6aa3d949e68e9b38398780c017082", null ]
 ];

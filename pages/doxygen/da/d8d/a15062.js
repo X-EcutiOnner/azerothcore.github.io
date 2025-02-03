@@ -1,7 +1,7 @@
 var a15062 =
 [
-    [ "npc_kerlonianAI", "d7/d6e/a15066.html", "d7/d6e/a15066" ],
-    [ "npc_kerlonian", "da/d8d/a15062.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "da/d8d/a15062.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "da/d8d/a15062.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "HandleEffectRemove", "da/d8d/a15062.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "da/d8d/a15062.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "da/d8d/a15062.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "da/d8d/a15062.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

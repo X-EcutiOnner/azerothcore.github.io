@@ -1,6 +1,7 @@
 var a19186 =
 [
-    [ "boss_ionarAI", "d8/d3f/a19190.html", "d8/d3f/a19190" ],
-    [ "boss_ionar", "d5/d37/a19186.html#a284da7d86f0b386e352587e0321bf465", null ],
-    [ "GetAI", "d5/d37/a19186.html#a0c0f28f832458df7326842f04413af5d", null ]
+    [ "HandleOnEffectApply", "d5/d37/a19186.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "d5/d37/a19186.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "d5/d37/a19186.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "d5/d37/a19186.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

@@ -1,5 +1,7 @@
 var a10934 =
 [
-    [ "WorldObjectSpellTrajTargetCheck", "dd/d3a/a10934.html#a0c08b6b4c7878678eb419a556f718be0", null ],
-    [ "operator()", "dd/d3a/a10934.html#aa1f7772cdb19914cc365a325f801b5d5", null ]
+    [ "WorldObjectSpellNearbyTargetCheck", "dd/d3a/a10934.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
+    [ "operator()", "dd/d3a/a10934.html#a731ee07d028a5ee63ecd14321c83664d", null ],
+    [ "_position", "dd/d3a/a10934.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
+    [ "_range", "dd/d3a/a10934.html#abfec0df490876b2b83dcdee4da75a77f", null ]
 ];

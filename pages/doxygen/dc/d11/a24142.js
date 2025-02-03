@@ -1,6 +1,9 @@
 var a24142 =
 [
-    [ "DeathEvent", "dc/d11/a24142.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "dc/d11/a24142.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "dc/d11/a24142.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "npc_pet_gen_toxic_wasteling", "dc/d11/a24142.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "dc/d11/a24142.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "dc/d11/a24142.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "dc/d11/a24142.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "dc/d11/a24142.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "dc/d11/a24142.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

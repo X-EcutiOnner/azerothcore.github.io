@@ -1,6 +1,7 @@
 var a25234 =
 [
-    [ "HandleHeal", "de/dee/a25234.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
-    [ "PrepareSpellScript", "de/dee/a25234.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "de/dee/a25234.html#a313abe6367e5494bd81a557ab42f9f50", null ]
+    [ "CheckProc", "de/dee/a25234.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
+    [ "HandleProc", "de/dee/a25234.html#a5cf9cea911ead2f261522e55e94c745a", null ],
+    [ "PrepareAuraScript", "de/dee/a25234.html#a3f2b20607f90ad641769eb284ddfab85", null ],
+    [ "Register", "de/dee/a25234.html#a55557026689613e91aeabce1af442237", null ]
 ];

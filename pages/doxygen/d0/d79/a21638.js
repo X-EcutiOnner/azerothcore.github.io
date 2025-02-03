@@ -1,11 +1,9 @@
 var a21638 =
 [
-    [ "npc_lake_frogAI", "d0/d79/a21638.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
-    [ "ReceiveEmote", "d0/d79/a21638.html#abd58e65b6829c70818c578ed615a980b", null ],
-    [ "Reset", "d0/d79/a21638.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
-    [ "sGossipSelect", "d0/d79/a21638.html#a95906677ff65e004408ae65df3f49b5c", null ],
-    [ "UpdateAI", "d0/d79/a21638.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
-    [ "_events", "d0/d79/a21638.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
-    [ "_following", "d0/d79/a21638.html#a0078f9134a61f0ec2465ce103523e341", null ],
-    [ "_runningScript", "d0/d79/a21638.html#af76102ba6c9ffd80baa95623b7312980", null ]
+    [ "npc_wounded_skirmisher", "d0/d79/a21638.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "d0/d79/a21638.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "d0/d79/a21638.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "d0/d79/a21638.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "d0/d79/a21638.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "d0/d79/a21638.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

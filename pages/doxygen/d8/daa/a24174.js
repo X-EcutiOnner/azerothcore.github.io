@@ -1,6 +1,6 @@
 var a24174 =
 [
-    [ "HandleEffectRemove", "d8/daa/a24174.html#a9472b79a272aff36be657b66883d822f", null ],
-    [ "PrepareAuraScript", "d8/daa/a24174.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
-    [ "Register", "d8/daa/a24174.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
+    [ "npc_pet_pri_shadowfiend", "d8/daa/a24174.html#ac35e3bcf59dc2d65a313e315516ea09b", null ],
+    [ "JustDied", "d8/daa/a24174.html#a6d50edf62bf4547117f3f7b5b520f71b", null ],
+    [ "Reset", "d8/daa/a24174.html#aeff1bada59ee80ae0166a82207729bad", null ]
 ];

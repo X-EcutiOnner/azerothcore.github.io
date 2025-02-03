@@ -1,7 +1,7 @@
 var a12074 =
 [
-    [ "HandleDummy", "d5/daa/a12074.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
-    [ "PrepareSpellScript", "d5/daa/a12074.html#a5308de47023b89e4ff8680158a502ac0", null ],
-    [ "Register", "d5/daa/a12074.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
-    [ "Validate", "d5/daa/a12074.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
+    [ "HandlePeriodic", "d5/daa/a12074.html#a72e043202c587e6c12d0b36d679cd071", null ],
+    [ "PrepareAuraScript", "d5/daa/a12074.html#a7ca007283e34855ee825ae160653f4a3", null ],
+    [ "Register", "d5/daa/a12074.html#aebad39c65167042be8db3c3a1811a235", null ],
+    [ "Validate", "d5/daa/a12074.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
 ];

@@ -1,6 +1,10 @@
 var a22938 =
 [
-    [ "HandleEffectRemove", "de/ddc/a22938.html#ab4c215a735ead9959fd78972a6da72e4", null ],
-    [ "PrepareAuraScript", "de/ddc/a22938.html#a75be2f838d6773b619dfac80e32557b8", null ],
-    [ "Register", "de/ddc/a22938.html#a239068b4e4ad88b5be93a031043ad7ca", null ]
+    [ "boss_morogrim_tidewalker", "de/ddc/a22938.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "de/ddc/a22938.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "de/ddc/a22938.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "de/ddc/a22938.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "de/ddc/a22938.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "de/ddc/a22938.html#a78ed1d1f8c55407497a4fb679587975d", null ],
+    [ "_recentlySpoken", "de/ddc/a22938.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
 ];

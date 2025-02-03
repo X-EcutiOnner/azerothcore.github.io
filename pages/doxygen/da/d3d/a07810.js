@@ -1,20 +1,15 @@
 var a07810 =
 [
-    [ "LFGDungeonData", "da/d3d/a07810.html#af609ccb3be2e80fa6cd0339f91f6d094", null ],
-    [ "LFGDungeonData", "da/d3d/a07810.html#ada24faec77a2174bd436535eb283ebc2", null ],
-    [ "Entry", "da/d3d/a07810.html#ad421a384c1e1c37ff897cc50421fe3d9", null ],
-    [ "difficulty", "da/d3d/a07810.html#a310b9d83b84a6f8896ac62b89ca16be3", null ],
-    [ "expansion", "da/d3d/a07810.html#a0d5bc7c615666f52aca24ee34d849992", null ],
-    [ "group", "da/d3d/a07810.html#a8791fcc476a5ebec99327f497f53db04", null ],
-    [ "id", "da/d3d/a07810.html#ae25732254c64f1a2bca8a938a240e509", null ],
-    [ "map", "da/d3d/a07810.html#ac981fbb0aaf96ea75482273c50bc53e7", null ],
-    [ "maxlevel", "da/d3d/a07810.html#a9419e8826804b6d0a2c8b65de3b513dd", null ],
-    [ "minlevel", "da/d3d/a07810.html#a4ef8f3bbf52a2ac8c45eeaa61aa22e2d", null ],
-    [ "name", "da/d3d/a07810.html#a6eef80ccf8defe89696cec1675033ea2", null ],
-    [ "o", "da/d3d/a07810.html#a42dd178512ebfbba612889f3ff5384bb", null ],
-    [ "seasonal", "da/d3d/a07810.html#ad8b1d936512ebb1075fe2a15f29abff1", null ],
-    [ "type", "da/d3d/a07810.html#aaea170ae5069dc46022652bfacd22edf", null ],
-    [ "x", "da/d3d/a07810.html#a90ca0afe02dfe5aa50bfd378e38de865", null ],
-    [ "y", "da/d3d/a07810.html#a32ef5d26a8c16690889eed2e3e230de1", null ],
-    [ "z", "da/d3d/a07810.html#a7ec9ddbd30f0cd2c602cfef7d2eb8956", null ]
+    [ "LfgProposal", "da/d3d/a07810.html#ad67e8b90ee53576adcab0ac41e523699", null ],
+    [ "cancelTime", "da/d3d/a07810.html#ad702ce8bccc9fbb81457456f1133e2e0", null ],
+    [ "dungeonId", "da/d3d/a07810.html#a3f4f1e3120ed950e2272789c757a401f", null ],
+    [ "encounters", "da/d3d/a07810.html#a6f0fb2094c6237c8bba4321b432115ad", null ],
+    [ "group", "da/d3d/a07810.html#ac04263773858dfe70e7dd627a62113dc", null ],
+    [ "id", "da/d3d/a07810.html#a580dfb67b8040a6267cbd20938cb8667", null ],
+    [ "isNew", "da/d3d/a07810.html#a81989ce9df0046cfde2d805cc4edb59f", null ],
+    [ "leader", "da/d3d/a07810.html#a12f8574ad017641808e522e1e9fdff49", null ],
+    [ "players", "da/d3d/a07810.html#a7d0cc59e08db6fd186de1875c7313b3d", null ],
+    [ "queues", "da/d3d/a07810.html#a7d0a8fabf7aaa632df03f8838fd2a3b4", null ],
+    [ "showorder", "da/d3d/a07810.html#a3d388b633378c35f0efe5927fa78beef", null ],
+    [ "state", "da/d3d/a07810.html#abd3f0fe86587f41c443735164924a3ae", null ]
 ];

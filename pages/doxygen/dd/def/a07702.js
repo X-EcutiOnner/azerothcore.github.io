@@ -1,8 +1,10 @@
 var a07702 =
 [
-    [ "UnitBaseEvent", "dd/def/a07702.html#a2d4586c59a7595374d427a15924c34fd", null ],
-    [ "getType", "dd/def/a07702.html#a7619b09043a8a729df77502786216aff", null ],
-    [ "matchesTypeMask", "dd/def/a07702.html#a05103aacf99310a6c9e602296d56f168", null ],
-    [ "setType", "dd/def/a07702.html#a1a3ae3042df9ca91d17a1c3320579867", null ],
-    [ "iType", "dd/def/a07702.html#a528a4023be375f43f4ac33b55f5c95d9", null ]
+    [ "RedirectThreatInfo", "dd/def/a07702.html#a23b5adf3087ddba3b92133199aa42cf8", null ],
+    [ "GetTargetGUID", "dd/def/a07702.html#ae206110e4d7155bb87079ebd58800e3d", null ],
+    [ "GetThreatPct", "dd/def/a07702.html#a58bd2c745f92625ff7eac0ddca6a23a0", null ],
+    [ "ModifyThreatPct", "dd/def/a07702.html#ac7093218d9b8c6ea03683dd5624bde8f", null ],
+    [ "Set", "dd/def/a07702.html#a140b7a0adb6e6b71b21e8d6db7125ae2", null ],
+    [ "_targetGUID", "dd/def/a07702.html#a98f9efc5209ef7200e71ff39310520dd", null ],
+    [ "_threatPct", "dd/def/a07702.html#a95d6d366d664888f532d40afd1cc57d2", null ]
 ];

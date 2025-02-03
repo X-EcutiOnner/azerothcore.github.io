@@ -1,10 +1,10 @@
 var a09722 =
 [
-    [ "ChaseRange", "d9/d0e/a09722.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "d9/d0e/a09722.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "d9/d0e/a09722.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "d9/d0e/a09722.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "d9/d0e/a09722.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "d9/d0e/a09722.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "d9/d0e/a09722.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "CreateWorldPacket", "d9/d0e/a09722.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
+    [ "GetMotd", "d9/d0e/a09722.html#ab589dd8bfad950e02ee716ea9005253f", null ],
+    [ "GetMotdPacket", "d9/d0e/a09722.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
+    [ "instance", "d9/d0e/a09722.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
+    [ "LoadMotd", "d9/d0e/a09722.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
+    [ "LoadMotdLocale", "d9/d0e/a09722.html#a21aa89787d5b0bbf69158f799122edd5", null ],
+    [ "SetMotd", "d9/d0e/a09722.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
 ];

@@ -1,6 +1,7 @@
 var a17374 =
 [
-    [ "BurningPitchFilterCheck", "df/ded/a17374.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
-    [ "operator()", "df/ded/a17374.html#a24be987c8471d8a7096025debf6e60b1", null ],
-    [ "_entry", "df/ded/a17374.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
+    [ "FilterTargets", "df/ded/a17374.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "df/ded/a17374.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "df/ded/a17374.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "df/ded/a17374.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

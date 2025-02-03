@@ -1,6 +1,6 @@
 var a18894 =
 [
-    [ "boss_naxxramas_miscAI", "db/dc5/a18898.html", "db/dc5/a18898" ],
-    [ "boss_naxxramas_misc", "d5/dc7/a18894.html#a9cbca6381ba430739918064d5556b8fb", null ],
-    [ "GetAI", "d5/dc7/a18894.html#a2972b551be161560b6df00e2105f2ce4", null ]
+    [ "npc_teslaAI", "db/dc5/a18898.html", "db/dc5/a18898" ],
+    [ "npc_tesla", "d5/dc7/a18894.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "d5/dc7/a18894.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

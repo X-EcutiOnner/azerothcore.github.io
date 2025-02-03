@@ -1,6 +1,8 @@
 var a17610 =
 [
-    [ "OnRemove", "d9/d9c/a17610.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
-    [ "PrepareAuraScript", "d9/d9c/a17610.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
-    [ "Register", "d9/d9c/a17610.html#afa993cb14444989feac16c9fa2d7b8df", null ]
+    [ "FilterTargets", "d9/d9c/a17610.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
+    [ "HandleScript", "d9/d9c/a17610.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
+    [ "PrepareSpellScript", "d9/d9c/a17610.html#ae6b30b8da52141c385f985435cac99a1", null ],
+    [ "Register", "d9/d9c/a17610.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
+    [ "Validate", "d9/d9c/a17610.html#accff1f03fb7c0d56cb197bb18348635c", null ]
 ];

@@ -1,9 +1,6 @@
 var a18562 =
 [
-    [ "spell_trigger_spell_from_caster", "d5/de7/a18562.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
-    [ "HandleTrigger", "d5/de7/a18562.html#afc11c9408ea11cb04e476999a9bdf522", null ],
-    [ "PrepareSpellScript", "d5/de7/a18562.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
-    [ "Register", "d5/de7/a18562.html#ae44cc1a87267c1d08603d1aff2384957", null ],
-    [ "Validate", "d5/de7/a18562.html#a3aace9a309bc848b887b03c949c921bd", null ],
-    [ "_triggerId", "d5/de7/a18562.html#a29af52a9035f18936515a464889fefe5", null ]
+    [ "npc_icc_putricades_trapAI", "d2/daa/a18566.html", "d2/daa/a18566" ],
+    [ "npc_icc_putricades_trap", "d5/de7/a18562.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
+    [ "GetAI", "d5/de7/a18562.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
 ];

@@ -1,8 +1,13 @@
 var a08998 =
 [
-    [ "GameObjectListSearcher", "d8/df9/a08998.html#a28282af745f658ad38a9492acc22b194", null ],
-    [ "Visit", "d8/df9/a08998.html#a1dea8a4d12e916ae64f4d1129ea6d185", null ],
-    [ "Visit", "d8/df9/a08998.html#a82522912fde5ea92f70fa76bb127504c", null ],
-    [ "i_check", "d8/df9/a08998.html#a85a67a285acadc451978e134d80180e7", null ],
-    [ "i_phaseMask", "d8/df9/a08998.html#aba5302d04dad7dfe3ed8dce1ec87bfbd", null ]
+    [ "WorldObjectWorker", "d8/df9/a08998.html#a15dd68579f1a92f015cfac8577db7422", null ],
+    [ "Visit", "d8/df9/a08998.html#ae264461e49602fd0b8a17e30ed554c64", null ],
+    [ "Visit", "d8/df9/a08998.html#a3021825347d132f1368a77d29a8318df", null ],
+    [ "Visit", "d8/df9/a08998.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
+    [ "Visit", "d8/df9/a08998.html#a7de6ea339a8113d242dd099ca4d36927", null ],
+    [ "Visit", "d8/df9/a08998.html#a29196fa36ce32a0cec68d0d67372a400", null ],
+    [ "Visit", "d8/df9/a08998.html#a17097541c49264c15ebfe474f54aeca2", null ],
+    [ "i_do", "d8/df9/a08998.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
+    [ "i_mapTypeMask", "d8/df9/a08998.html#a6f8e447b9693154f56ce010869acadb9", null ],
+    [ "i_phaseMask", "d8/df9/a08998.html#affa6245985c5d271900be12104ab6bb6", null ]
 ];

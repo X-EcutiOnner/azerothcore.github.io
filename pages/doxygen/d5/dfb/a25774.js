@@ -1,8 +1,6 @@
 var a25774 =
 [
-    [ "HandleApply", "d5/dfb/a25774.html#aafdf3712f163919f010d11d0becb398f", null ],
-    [ "HandleRemove", "d5/dfb/a25774.html#ac3e33cb37d13b633f3938a48917a4975", null ],
-    [ "PrepareAuraScript", "d5/dfb/a25774.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
-    [ "Register", "d5/dfb/a25774.html#a84e7337494dc2e1772ca10dea26c675f", null ],
-    [ "Validate", "d5/dfb/a25774.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
+    [ "FilterTargets", "d5/dfb/a25774.html#aad5d183d0d7ea229cbfc11f751536624", null ],
+    [ "PrepareSpellScript", "d5/dfb/a25774.html#a68ba19142ae6eb04a2547495233700df", null ],
+    [ "Register", "d5/dfb/a25774.html#a22c313409438f94d29ab3e236a56c115", null ]
 ];

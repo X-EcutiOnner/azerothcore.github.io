@@ -1,8 +1,7 @@
 var a10938 =
 [
-    [ "ReflectEvent", "d2/dac/a10938.html#a1669aec08a3a09143c57e4889c8fad08", null ],
-    [ "Execute", "d2/dac/a10938.html#a37fb766d70932e8a431dba363c603531", null ],
-    [ "_caster", "d2/dac/a10938.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
-    [ "_spellInfo", "d2/dac/a10938.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
-    [ "_targetGUID", "d2/dac/a10938.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
+    [ "WorldObjectSpellAreaTargetCheck", "d2/dac/a10938.html#a2b017300220426ac42de18e3a8699219", null ],
+    [ "operator()", "d2/dac/a10938.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
+    [ "_position", "d2/dac/a10938.html#a680c45dd148161657da011a1772375ca", null ],
+    [ "_range", "d2/dac/a10938.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ]
 ];

@@ -1,7 +1,6 @@
 var a16090 =
 [
-    [ "npc_toc_paladinAI", "d0/d0c/a16090.html#a025d39c04e864ebd77f4f930ec20b1e5", null ],
-    [ "myCanCast", "d0/d0c/a16090.html#a06130e6e440d0b25d8b5566de6190cbc", null ],
-    [ "UpdateAI", "d0/d0c/a16090.html#a32943f1c3ffd0239c85ac1b81786f049", null ],
-    [ "events", "d0/d0c/a16090.html#ae47a32bbb05cf2f634ae18bc672ec004", null ]
+    [ "npc_toc_druidAI", "dc/ded/a16094.html", "dc/ded/a16094" ],
+    [ "npc_toc_druid", "d0/d0c/a16090.html#a07321d5ee164b8e47f652f9bad65216b", null ],
+    [ "GetAI", "d0/d0c/a16090.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
 ];

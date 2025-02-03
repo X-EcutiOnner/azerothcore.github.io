@@ -1,6 +1,6 @@
 var a17522 =
 [
-    [ "MalleableGooSelector", "d2/deb/a17522.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
-    [ "operator()", "d2/deb/a17522.html#adf73957539fdcc604f849944473e0015", null ],
-    [ "me", "d2/deb/a17522.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
+    [ "HandleScriptEffect", "d2/deb/a17522.html#ac6017cbe86b328aef00f707051c67e5f", null ],
+    [ "PrepareSpellScript", "d2/deb/a17522.html#a3e21794652b0ffea67571f9b294b4961", null ],
+    [ "Register", "d2/deb/a17522.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
 ];

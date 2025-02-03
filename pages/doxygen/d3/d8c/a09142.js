@@ -1,10 +1,9 @@
 var a09142 =
 [
-    [ "AnyAoETargetUnitInObjectRangeCheck", "d3/d8c/a09142.html#a93d850e2d5f094b97ca5c09bf1d236a9", null ],
-    [ "operator()", "d3/d8c/a09142.html#af9a0c32593544a73aae22cd397eef63a", null ],
-    [ "_spellInfo", "d3/d8c/a09142.html#a1317c9df0d5792ad3122ff1ed1a31458", null ],
-    [ "i_funit", "d3/d8c/a09142.html#aa00b184a24ea73293114f92126f58f24", null ],
-    [ "i_obj", "d3/d8c/a09142.html#aa4acf0089c978408e30b08d539f2512f", null ],
-    [ "i_range", "d3/d8c/a09142.html#ad386efa8206906fd99816694a6a8d69b", null ],
-    [ "i_targetForPlayer", "d3/d8c/a09142.html#af5ce329f3493b97f59c61c3e87af48b1", null ]
+    [ "AnyGroupedUnitInObjectRangeCheck", "d3/d8c/a09142.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
+    [ "operator()", "d3/d8c/a09142.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
+    [ "_raid", "d3/d8c/a09142.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
+    [ "_range", "d3/d8c/a09142.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
+    [ "_refUnit", "d3/d8c/a09142.html#ad083243ef5487aa374b19e3c82b0457c", null ],
+    [ "_source", "d3/d8c/a09142.html#a91de967d2376ea96b1fc0838094915cf", null ]
 ];

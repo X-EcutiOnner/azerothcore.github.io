@@ -1,10 +1,7 @@
 var a11370 =
 [
-    [ "bf_commandscript", "da/d75/a11370.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "da/d75/a11370.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "da/d75/a11370.html#a08dd3bdd279c760fe0f126200a01619e", null ],
-    [ "HandleBattlefieldEnd", "da/d75/a11370.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
-    [ "HandleBattlefieldStart", "da/d75/a11370.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
-    [ "HandleBattlefieldSwitch", "da/d75/a11370.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
-    [ "HandleBattlefieldTimer", "da/d75/a11370.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
+    [ "achievement_commandscript", "da/d75/a11370.html#ac1c40d7b3b628cc206c44eae18592292", null ],
+    [ "GetCommands", "da/d75/a11370.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
+    [ "HandleAchievementAddCommand", "da/d75/a11370.html#ac4f6addfb0c52d584bf8081436aa3d7a", null ],
+    [ "HandleAchievementCheckAllCommand", "da/d75/a11370.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
 ];

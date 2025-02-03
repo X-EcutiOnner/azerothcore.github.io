@@ -1,5 +1,6 @@
 var a19530 =
 [
-    [ "achievement_auriaya_crazy_cat_lady", "d9/d45/a19530.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
-    [ "OnCheck", "d9/d45/a19530.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
+    [ "npc_auriaya_sanctum_sentryAI", "d4/dc7/a19534.html", "d4/dc7/a19534" ],
+    [ "npc_auriaya_sanctum_sentry", "d9/d45/a19530.html#aa275374ba3a19a2e6a8768d4f01752b2", null ],
+    [ "GetAI", "d9/d45/a19530.html#a6a8843d3f24378a2fd334e773618ab72", null ]
 ];

@@ -1,5 +1,5 @@
 var a04010 =
 [
-    [ "cast_commandscript", "d2/dbf/a11378.html", "d2/dbf/a11378" ],
-    [ "AddSC_cast_commandscript", "df/d75/a04010.html#a7b374923a29bdbff68b6e78d2ef4a3e0", null ]
+    [ "HandleLearnSpellCommand", "df/d75/a04010.html#acbe37f872cbc981a27671ebdf10904de", null ],
+    [ "HandleUnlearnSpellCommand", "df/d75/a04010.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
 ];

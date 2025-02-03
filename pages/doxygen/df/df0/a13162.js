@@ -1,7 +1,6 @@
 var a13162 =
 [
-    [ "PeriodicTick", "df/df0/a13162.html#acca46d585d06d461f735cddb6075b3b1", null ],
-    [ "PrepareAuraScript", "df/df0/a13162.html#abd7382ab22efd3d82c4f00745255d024", null ],
-    [ "Register", "df/df0/a13162.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
-    [ "Validate", "df/df0/a13162.html#acb31ba162452a30ff0c208829560f9fd", null ]
+    [ "npc_singularity", "df/df0/a13162.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "Reset", "df/df0/a13162.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "df/df0/a13162.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

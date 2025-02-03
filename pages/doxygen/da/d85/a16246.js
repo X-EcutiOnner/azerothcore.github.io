@@ -1,17 +1,7 @@
 var a16246 =
 [
-    [ "boss_gormokAI", "da/d85/a16246.html#aff3dab2b81e39198ca84330e6094aa8e", null ],
-    [ "DoAction", "da/d85/a16246.html#ac335bc89ad58f80a2e8db2dd8a31e2c9", null ],
-    [ "EnterEvadeMode", "da/d85/a16246.html#a244f37a3c6a1037100de20a074c74a63", null ],
-    [ "JustDied", "da/d85/a16246.html#a3fa8eb85ce94273b30f1f3d2de3527bd", null ],
-    [ "JustEngagedWith", "da/d85/a16246.html#a7310e20839a7a57f65d97c5d0b8fa796", null ],
-    [ "JustReachedHome", "da/d85/a16246.html#a3cec01072fe761e4b5141255eed08d9e", null ],
-    [ "JustSummoned", "da/d85/a16246.html#a5e2efeace2d5f6b58f023b4ff23d93cf", null ],
-    [ "MoveInLineOfSight", "da/d85/a16246.html#a278b8ce2e656a2e6e7882de87ec2ff9c", null ],
-    [ "Reset", "da/d85/a16246.html#a277293d51fbaa54f9deea49af7602ae2", null ],
-    [ "UpdateAI", "da/d85/a16246.html#adf5d8f5a9e275f12da122701f0606083", null ],
-    [ "events", "da/d85/a16246.html#ad74b771ba3f84e7dc5b038559c4e7bbb", null ],
-    [ "pInstance", "da/d85/a16246.html#a0421082f444bc4234012362b92cac132", null ],
-    [ "PlayerGUID", "da/d85/a16246.html#ac3cddf6197c638289f6841740b78bd88", null ],
-    [ "summons", "da/d85/a16246.html#a84c1fa0cc33bee6747fa9b4f0517cdc8", null ]
+    [ "HandleEffectPeriodic", "da/d85/a16246.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
+    [ "PrepareAuraScript", "da/d85/a16246.html#a66dcb98f38ed6b040928543015f59c9b", null ],
+    [ "Register", "da/d85/a16246.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
+    [ "Validate", "da/d85/a16246.html#a1131f0014f298b87483412d960bc0221", null ]
 ];

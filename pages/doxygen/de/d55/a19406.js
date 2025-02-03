@@ -1,8 +1,11 @@
 var a19406 =
 [
-    [ "HandlePeriodic", "de/d55/a19406.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "de/d55/a19406.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "de/d55/a19406.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "de/d55/a19406.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "de/d55/a19406.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "npc_living_constellationAI", "de/d55/a19406.html#a54f4e946fad895bca07a59f4e00d10a5", null ],
+    [ "DoAction", "de/d55/a19406.html#acdc93a7dc3019940d730fa20d115a929", null ],
+    [ "GetData", "de/d55/a19406.html#acb5cc31d7a084e82d8bde3852f9668dd", null ],
+    [ "Reset", "de/d55/a19406.html#a664b03bdaea184ab8dd8298ed9952790", null ],
+    [ "SpellHit", "de/d55/a19406.html#a4c83ef2d5fe161a90d465a8fbd7eb4f8", null ],
+    [ "UpdateAI", "de/d55/a19406.html#ad5b23c3db46b455c9321e7fb29b88572", null ],
+    [ "_isActive", "de/d55/a19406.html#a786d2d05f83e59dd0da34f44037bdd35", null ],
+    [ "events", "de/d55/a19406.html#a679c9fe1ed357b7c7e1ed1fac01ef8d3", null ]
 ];

@@ -1,7 +1,16 @@
 var a16226 =
 [
-    [ "HandleEffectPeriodic", "d5/dd5/a16226.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "d5/dd5/a16226.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "d5/dd5/a16226.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "d5/dd5/a16226.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "boss_jaraxxusAI", "d5/dd5/a16226.html#af05dd6ee301cfe4fdfbc511b07f21b48", null ],
+    [ "EnterEvadeMode", "d5/dd5/a16226.html#a45fc8cbc3b1e59be8f13f1ebae73bfa1", null ],
+    [ "JustDied", "d5/dd5/a16226.html#a5fce156ec839c4799e3585e9674636c1", null ],
+    [ "JustEngagedWith", "d5/dd5/a16226.html#a59f21f25fbe83c9710ac6377753ce8d3", null ],
+    [ "JustReachedHome", "d5/dd5/a16226.html#a5961b5563c1d140f31a348a1ea8dc4ba", null ],
+    [ "JustSummoned", "d5/dd5/a16226.html#a6efea02e03c4d7e97c357afbc320b5bf", null ],
+    [ "MoveInLineOfSight", "d5/dd5/a16226.html#aee8b894518e9091f4e52c4048562d08a", null ],
+    [ "Reset", "d5/dd5/a16226.html#ad4a2bce95988f030387d74b5cf90f223", null ],
+    [ "SpellHit", "d5/dd5/a16226.html#a5103f7808134a67f06af4be1d848aa91", null ],
+    [ "UpdateAI", "d5/dd5/a16226.html#a5e733b9e5b63801a1ca2778e58fedb61", null ],
+    [ "events", "d5/dd5/a16226.html#a6aff4c78989d99d49d697e9900375e28", null ],
+    [ "pInstance", "d5/dd5/a16226.html#aa9d9cb25b827c48e1fd5cd8e75ac92a0", null ],
+    [ "summons", "d5/dd5/a16226.html#abeddfd1bb9b5391da578f794d6c618b7", null ]
 ];

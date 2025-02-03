@@ -1,6 +1,6 @@
 var a24054 =
 [
-    [ "npc_pet_dk_risen_allyAI", "d4/d49/a24058.html", "d4/d49/a24058" ],
-    [ "npc_pet_dk_risen_ally", "d3/d99/a24054.html#a2f568fd9062b2423edcf0ab4e749efc3", null ],
-    [ "GetAI", "d3/d99/a24054.html#a7aca5d410a1a28241943914a0d1c71df", null ]
+    [ "npc_slim", "d3/d99/a24054.html#aa227fbe22126bed821939873973e6a20", null ],
+    [ "OnGossipHello", "d3/d99/a24054.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
+    [ "OnGossipSelect", "d3/d99/a24054.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
 ];

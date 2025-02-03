@@ -1,7 +1,7 @@
 var a09582 =
 [
-    [ "flags", "d5/d6e/a09582.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
-    [ "fourcc", "d5/d6e/a09582.html#a93b48dd741d13ff036eac8a77df9f916", null ],
-    [ "gridHeight", "d5/d6e/a09582.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
-    [ "gridMaxHeight", "d5/d6e/a09582.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
+    [ "ownerGUID", "d5/d6e/a09582.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
+    [ "script", "d5/d6e/a09582.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
+    [ "sourceGUID", "d5/d6e/a09582.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
+    [ "targetGUID", "d5/d6e/a09582.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
 ];

@@ -1,7 +1,7 @@
 var a01004 =
 [
-    [ "SkillPerfectItemEntry", "da/dce/a10842.html", "da/dce/a10842" ],
-    [ "SkillExtraItemEntry", "d5/d56/a10846.html", "d5/d56/a10846" ],
+    [ "SkillPerfectItemEntry", "d7/dfc/a10854.html", "d7/dfc/a10854" ],
+    [ "SkillExtraItemEntry", "de/de2/a10858.html", "de/de2/a10858" ],
     [ "SkillExtraItemMap", "df/dbc/a01004.html#a9ba2d7d2e815aee57a701990b858db7b", null ],
     [ "SkillPerfectItemMap", "df/dbc/a01004.html#ad732be66d93ed6e8f498077f27e2766b", null ],
     [ "canCreateExtraItems", "df/dbc/a01004.html#a49687e255d65fa15dac5e6a428c5739d", null ],

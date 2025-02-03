@@ -1,7 +1,6 @@
 var a18770 =
 [
-    [ "HandleScript", "db/dc3/a18770.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "db/dc3/a18770.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "db/dc3/a18770.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "db/dc3/a18770.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "boss_kelthuzadAI", "d9/db8/a18774.html", "d9/db8/a18774" ],
+    [ "boss_kelthuzad", "db/dc3/a18770.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
+    [ "GetAI", "db/dc3/a18770.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
 ];

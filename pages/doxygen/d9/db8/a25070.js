@@ -1,11 +1,6 @@
 var a25070 =
 [
-    [ "CalcPeriodic", "d9/db8/a25070.html#ab5feede17fa79c9d02fa459586eaca41", null ],
-    [ "CalculateAPAmount", "d9/db8/a25070.html#af2b1da799f1b3c0373dc6782dabbf89c", null ],
-    [ "CalculateResistanceAmount", "d9/db8/a25070.html#a51828f07b0e099c5931161f7aeebaab7", null ],
-    [ "CalculateSPAmount", "d9/db8/a25070.html#a255ed8f5158e715313e44b13f30b099f", null ],
-    [ "CalculateStatAmount", "d9/db8/a25070.html#ade1b7256d19b526a7f4b1520f6b2f663", null ],
-    [ "HandlePeriodic", "d9/db8/a25070.html#a136c8cedca7630543b8937e77571ead1", null ],
-    [ "PrepareAuraScript", "d9/db8/a25070.html#a638a2544d9216bec90c433100c0663a0", null ],
-    [ "Register", "d9/db8/a25070.html#a55605257006d8218250932357f325bb8", null ]
+    [ "OnProc", "d9/db8/a25070.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
+    [ "PrepareAuraScript", "d9/db8/a25070.html#a6a7b011f151ff81672221b84eb4456b8", null ],
+    [ "Register", "d9/db8/a25070.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
 ];

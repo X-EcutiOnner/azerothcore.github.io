@@ -1,6 +1,6 @@
 var a18014 =
 [
-    [ "HandleScript", "d2/d2e/a18014.html#a9489c3454830d3826cb077c95947bf2d", null ],
-    [ "PrepareSpellScript", "d2/d2e/a18014.html#a19492e616ac6e69187bca4499175071e", null ],
-    [ "Register", "d2/d2e/a18014.html#a3446174d3308f535c27581b63ade9e8a", null ]
+    [ "npc_valkyr_shadowguardAI", "d0/dab/a18018.html", "d0/dab/a18018" ],
+    [ "npc_valkyr_shadowguard", "d2/d2e/a18014.html#a8ee90e21499eebf240c57419454c3829", null ],
+    [ "GetAI", "d2/d2e/a18014.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
 ];

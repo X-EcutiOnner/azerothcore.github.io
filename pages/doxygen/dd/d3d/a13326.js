@@ -1,6 +1,6 @@
 var a13326 =
 [
-    [ "npc_corporal_keeshanAI", "dd/d99/a13330.html", "dd/d99/a13330" ],
-    [ "npc_corporal_keeshan", "dd/d3d/a13326.html#a0ca9459a7f283e040f14e0052762f587", null ],
-    [ "GetAI", "dd/d3d/a13326.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
+    [ "OnEffect", "dd/d3d/a13326.html#a41903586310ec274dd10537ccb8655f3", null ],
+    [ "PrepareSpellScript", "dd/d3d/a13326.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
+    [ "Register", "dd/d3d/a13326.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
 ];

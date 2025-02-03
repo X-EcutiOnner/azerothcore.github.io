@@ -1,8 +1,6 @@
 var a20130 =
 [
-    [ "npc_ulduar_mimiron_rocketAI", "de/d45/a20130.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
-    [ "InitializeAI", "de/d45/a20130.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
-    [ "Reset", "de/d45/a20130.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
-    [ "SetData", "de/d45/a20130.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
-    [ "UpdateAI", "de/d45/a20130.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
+    [ "npc_ulduar_aerial_command_unitAI", "db/d2e/a20134.html", "db/d2e/a20134" ],
+    [ "npc_ulduar_aerial_command_unit", "de/d45/a20130.html#ac0c1ecef78b92dd4ae072f6eeca9f733", null ],
+    [ "GetAI", "de/d45/a20130.html#a406e828a902d75bb1946fd8f5090044f", null ]
 ];

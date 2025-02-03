@@ -1,6 +1,6 @@
 var a21886 =
 [
-    [ "npc_jungle_punch_targetAI", "dd/da0/a21890.html", "dd/da0/a21890" ],
-    [ "npc_jungle_punch_target", "dd/d61/a21886.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "dd/d61/a21886.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "npc_avatar_of_freya", "dd/d61/a21886.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
+    [ "OnGossipHello", "dd/d61/a21886.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
+    [ "OnGossipSelect", "dd/d61/a21886.html#aba1b13e922873e939b2510b4bc77f49d", null ]
 ];

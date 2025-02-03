@@ -1,8 +1,7 @@
 var a10994 =
 [
-    [ "target_mapId", "db/df0/a10994.html#a6dbbb558810388e0d051d84a0279a444", null ],
-    [ "target_Orientation", "db/df0/a10994.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
-    [ "target_X", "db/df0/a10994.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
-    [ "target_Y", "db/df0/a10994.html#a6f432d8770adebf513346713b7890b5c", null ],
-    [ "target_Z", "db/df0/a10994.html#a3af706b81f8fbef12277c518964f717a", null ]
+    [ "ap_bonus", "db/df0/a10994.html#a98410b8bb89434cd7e1747462f8039dc", null ],
+    [ "ap_dot_bonus", "db/df0/a10994.html#a09caeec47b138d9eff3539795416a09a", null ],
+    [ "direct_damage", "db/df0/a10994.html#abab1af227a6c8e592b8a9bd15589535d", null ],
+    [ "dot_damage", "db/df0/a10994.html#a92491d8d1e61612d88c7c830d7912be5", null ]
 ];

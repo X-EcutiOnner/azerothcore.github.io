@@ -1,5 +1,7 @@
 var a17634 =
 [
-    [ "RotfaceHeightCheck", "dd/d7a/a17634.html#aabdeaee465989c339fc7a3f186e20498", null ],
-    [ "operator()", "dd/d7a/a17634.html#a585743e0e76c64a5caa37acab46d04d5", null ]
+    [ "HandleSummon", "dd/d7a/a17634.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
+    [ "PrepareSpellScript", "dd/d7a/a17634.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
+    [ "Register", "dd/d7a/a17634.html#a01281869dc98a0af5027695391f1221f", null ],
+    [ "Validate", "dd/d7a/a17634.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
 ];

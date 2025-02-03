@@ -1,7 +1,6 @@
 var a10466 =
 [
-    [ "GuildBankBuyTab", "d1/d4e/a10466.html#af2195db72eeaefea13c958e5ef62c411", null ],
-    [ "Read", "d1/d4e/a10466.html#a502153232a314d099ed43e1101bdfc1f", null ],
-    [ "Banker", "d1/d4e/a10466.html#a46f3b910aa6d69f4a82c7a603f9f0fb3", null ],
-    [ "BankTab", "d1/d4e/a10466.html#a5df7be995a177706fa364e31a6f8df1e", null ]
+    [ "GuildOfficerRemoveMember", "d1/d4e/a10466.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
+    [ "Read", "d1/d4e/a10466.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
+    [ "Removee", "d1/d4e/a10466.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
 ];

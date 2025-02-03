@@ -1,7 +1,6 @@
 var a27710 =
 [
-    [ "bit_index", "d6/d7d/a27710.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "d6/d7d/a27710.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "d6/d7d/a27710.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "d6/d7d/a27710.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "AreaGroupId", "d6/d7d/a27710.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "d6/d7d/a27710.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "d6/d7d/a27710.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

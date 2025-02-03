@@ -1,6 +1,6 @@
 var a17526 =
 [
-    [ "boss_professor_putricideAI", "df/dc9/a17530.html", "df/dc9/a17530" ],
-    [ "boss_professor_putricide", "db/d4b/a17526.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "db/d4b/a17526.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "PrepareSpellScript", "db/d4b/a17526.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "db/d4b/a17526.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "db/d4b/a17526.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

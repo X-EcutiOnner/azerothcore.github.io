@@ -1,9 +1,7 @@
 var a21274 =
 [
-    [ "npc_warmage_coldarraAI", "db/dc6/a21274.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "db/dc6/a21274.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "db/dc6/a21274.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "db/dc6/a21274.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "db/dc6/a21274.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "db/dc6/a21274.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "npc_bonker_togglevoltAI", "dc/df1/a21278.html", "dc/df1/a21278" ],
+    [ "npc_bonker_togglevolt", "db/dc6/a21274.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
+    [ "GetAI", "db/dc6/a21274.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
+    [ "OnQuestAccept", "db/dc6/a21274.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
 ];

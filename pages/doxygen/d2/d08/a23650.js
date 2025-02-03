@@ -1,6 +1,6 @@
 var a23650 =
 [
-    [ "npc_deaths_fel_cannonAI", "d2/d08/a23650.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
-    [ "Reset", "d2/d08/a23650.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
-    [ "UpdateAI", "d2/d08/a23650.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
+    [ "instance_mechanar_InstanceMapScript", "d3/df4/a23654.html", "d3/df4/a23654" ],
+    [ "instance_mechanar", "d2/d08/a23650.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
+    [ "GetInstanceScript", "d2/d08/a23650.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
 ];

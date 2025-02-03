@@ -1,6 +1,8 @@
 var a21686 =
 [
-    [ "npc_your_inner_turmoilAI", "d7/d36/a21690.html", "d7/d36/a21690" ],
-    [ "npc_your_inner_turmoil", "d4/d59/a21686.html#a72856ef469bb8f6ff4a89a16159479af", null ],
-    [ "GetAI", "d4/d59/a21686.html#a29c8f76b072e891face1225770688ca6", null ]
+    [ "HandleEffectApply", "d4/d59/a21686.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "d4/d59/a21686.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "d4/d59/a21686.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "d4/d59/a21686.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "d4/d59/a21686.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

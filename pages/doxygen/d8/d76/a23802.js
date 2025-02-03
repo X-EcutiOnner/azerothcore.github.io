@@ -1,7 +1,8 @@
 var a23802 =
 [
-    [ "npc_bessyAI", "de/d93/a23806.html", "de/d93/a23806" ],
-    [ "npc_bessy", "d8/d76/a23802.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "d8/d76/a23802.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "d8/d76/a23802.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "npc_captain_saeedAI", "de/d93/a23806.html", "de/d93/a23806" ],
+    [ "npc_captain_saeed", "d8/d76/a23802.html#a8a5bee9f908b10451b8d4720dff85670", null ],
+    [ "GetAI", "d8/d76/a23802.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
+    [ "OnGossipHello", "d8/d76/a23802.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
+    [ "OnGossipSelect", "d8/d76/a23802.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
 ];

@@ -1,12 +1,17 @@
 var a11470 =
 [
-    [ "message_commandscript", "da/ddf/a11470.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
-    [ "GetCommands", "da/ddf/a11470.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
-    [ "HandleAnnounceCommand", "da/ddf/a11470.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
-    [ "HandleGMAnnounceCommand", "da/ddf/a11470.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
-    [ "HandleGMNameAnnounceCommand", "da/ddf/a11470.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
-    [ "HandleGMNotifyCommand", "da/ddf/a11470.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
-    [ "HandleNameAnnounceCommand", "da/ddf/a11470.html#a786902b70345712c6dba9f638695dd9e", null ],
-    [ "HandleNotifyCommand", "da/ddf/a11470.html#a0d53b2414931451b30abd2fe5acee1af", null ],
-    [ "HandleWhispersCommand", "da/ddf/a11470.html#a9a02c97677250136f9717968a9f47b73", null ]
+    [ "learn_commandscript", "da/ddf/a11470.html#a7ef51367ab7ab1c360390ff5552c0f51", null ],
+    [ "GetCommands", "da/ddf/a11470.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8", null ],
+    [ "HandleLearnAllCraftsCommand", "da/ddf/a11470.html#ae25064fa03d022277a368f52a17e5b70", null ],
+    [ "HandleLearnAllDefaultCommand", "da/ddf/a11470.html#a985d2a10f01808c4bff2922b1530e911", null ],
+    [ "HandleLearnAllGMCommand", "da/ddf/a11470.html#a88e28ec43968c5a8b0bfd1f190d89a98", null ],
+    [ "HandleLearnAllLangCommand", "da/ddf/a11470.html#aaf4d779b47511db72727fe44fb1bbd2d", null ],
+    [ "HandleLearnAllMyClassCommand", "da/ddf/a11470.html#a956716b7743dfc6de922b0badf40aeda", null ],
+    [ "HandleLearnAllMyPetTalentsCommand", "da/ddf/a11470.html#a2a7cc02eb4417907b50d49bab39110cf", null ],
+    [ "HandleLearnAllMySpellsCommand", "da/ddf/a11470.html#af95e27d3bfb3cd421a0fd13f9f655755", null ],
+    [ "HandleLearnAllMyTalentsCommand", "da/ddf/a11470.html#aaa19e92798ac56355a95e625ead56556", null ],
+    [ "HandleLearnAllRecipesCommand", "da/ddf/a11470.html#a44b538a1031ad69bec762f1a791cf11f", null ],
+    [ "HandleLearnCommand", "da/ddf/a11470.html#ab59da6873596596ee84509cb0060e760", null ],
+    [ "HandleLearnSkillRecipesHelper", "da/ddf/a11470.html#ae8bd0389415fdeb70d369b694b953619", null ],
+    [ "HandleUnLearnCommand", "da/ddf/a11470.html#a2dc980af9662b3b1c783e3603732ca01", null ]
 ];

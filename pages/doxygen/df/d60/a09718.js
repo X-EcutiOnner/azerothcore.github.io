@@ -1,8 +1,17 @@
 var a09718 =
 [
-    [ "Finalize", "df/d60/a09718.html#abf4c6547449605e703b424d8aa7f46b5", null ],
-    [ "GetMovementGeneratorType", "df/d60/a09718.html#aa1eb3228e14c5b145f7074e97ccdab5f", null ],
-    [ "Initialize", "df/d60/a09718.html#a68c249f25ef86f2e50d69698e190ed03", null ],
-    [ "Reset", "df/d60/a09718.html#a124e4f9506ef6f31e991e905ce38dc43", null ],
-    [ "Update", "df/d60/a09718.html#a4d96b744fa55fa11764873a2c4a891c5", null ]
+    [ "GraveyardContainer", "df/d60/a09718.html#a21ce8ad954d37b385e339c5247f17ffd", null ],
+    [ "AddGraveyardLink", "df/d60/a09718.html#ab4884f2b2b4f00dd9ea65c1ceb2af1bb", null ],
+    [ "FindGraveyardData", "df/d60/a09718.html#a54a4461db550d5383fded30a6ecd0408", null ],
+    [ "GetClosestGraveyard", "df/d60/a09718.html#af989ee1a2f802a0cb5addf50a0586d63", null ],
+    [ "GetDefaultGraveyard", "df/d60/a09718.html#ab6ef1306db71eb2f2d72167314d5e1c2", null ],
+    [ "GetGraveyard", "df/d60/a09718.html#addd1a184b9791c8c6a74fb228545741b", null ],
+    [ "GetGraveyard", "df/d60/a09718.html#aeb72f07dd677dfe31d0e4b45f2f9ddd6", null ],
+    [ "GetGraveyardData", "df/d60/a09718.html#ab9ebb6afa55d30e64d460b81f9297f09", null ],
+    [ "instance", "df/d60/a09718.html#aaaf39d71af738cac8dd427ca94a5689b", null ],
+    [ "LoadGraveyardFromDB", "df/d60/a09718.html#aff7880b8c557fac494e3b8213a048f32", null ],
+    [ "LoadGraveyardZones", "df/d60/a09718.html#ac398379a421eabea55729e867d57383f", null ],
+    [ "RemoveGraveyardLink", "df/d60/a09718.html#af957c28b4ccfc7b1853280b7441c958d", null ],
+    [ "_graveyardStore", "df/d60/a09718.html#a77fb8dad0ae4ea7af0823c0bcafba787", null ],
+    [ "GraveyardStore", "df/d60/a09718.html#afe83a8248fa6617b868cadd0699af96e", null ]
 ];

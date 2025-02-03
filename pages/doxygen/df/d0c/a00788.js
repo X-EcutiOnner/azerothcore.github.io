@@ -1,6 +1,6 @@
 var a00788 =
 [
-    [ "AuctionHouseScript", "df/d38/a10054.html", "df/d38/a10054" ],
+    [ "AuctionHouseScript", "d8/d5b/a10066.html", "d8/d5b/a10066" ],
     [ "AuctionHouseHook", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9", [
       [ "AUCTIONHOUSEHOOK_ON_AUCTION_ADD", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0", null ],
       [ "AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE", "df/d0c/a00788.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2", null ],

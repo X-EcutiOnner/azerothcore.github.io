@@ -1,21 +1,14 @@
 var a07046 =
 [
-    [ "BfGraveyard", "de/d0a/a07046.html#a2e10ab7e731167473f5bbf194163660d", null ],
-    [ "AddPlayer", "de/d0a/a07046.html#acce3c0eade3e8e8afe08359de4dd7c88", null ],
-    [ "GetControlTeamId", "de/d0a/a07046.html#ac417eb4b9ff8f7c6f19e2148eb81131c", null ],
-    [ "GetDistance", "de/d0a/a07046.html#ae290db2a83278c27803d62267aebfb71", null ],
-    [ "GetGraveyardId", "de/d0a/a07046.html#ac7944db0403c37282ca90550f8ca4118", null ],
-    [ "GiveControlTo", "de/d0a/a07046.html#a9fe22d9ebbe1b652322b9a8e5f18ee91", null ],
-    [ "HasNpc", "de/d0a/a07046.html#a5f02be27972ae3f9aa8213ddb8c8b8d2", null ],
-    [ "HasPlayer", "de/d0a/a07046.html#ae85731d5d7d184749be9ec8704dde5e5", null ],
-    [ "Initialize", "de/d0a/a07046.html#ac81acd9801591e13c9f26d625d004b2f", null ],
-    [ "RelocateDeadPlayers", "de/d0a/a07046.html#ae0c6607ccfd39a3bf6806d437ce114ae", null ],
-    [ "RemovePlayer", "de/d0a/a07046.html#af21ac9d3e58cfedc9c12316e77eb875c", null ],
-    [ "Resurrect", "de/d0a/a07046.html#a94569ad820914c1f467aeaf30f977c3e", null ],
-    [ "SetSpirit", "de/d0a/a07046.html#ab4385a55321e8cf90e91bd10a04f1ddf", null ],
-    [ "m_Bf", "de/d0a/a07046.html#aa8e80e3722d725b02bfb5d450998f01a", null ],
-    [ "m_ControlTeam", "de/d0a/a07046.html#ab008468a642fb2fa450fb881704c4fbb", null ],
-    [ "m_GraveyardId", "de/d0a/a07046.html#a88e2a83e4aa220da8bc6036c2eb3fde0", null ],
-    [ "m_ResurrectQueue", "de/d0a/a07046.html#aa70f427dfa7ddd551c3880a8cc3ce445", null ],
-    [ "m_SpiritGuide", "de/d0a/a07046.html#aa8a700b633c79c7887cccebffceb772b", null ]
+    [ "AutobroadcastsMap", "de/d0a/a07046.html#a9064ad588e8a02d9b60974af4da1c7cf", null ],
+    [ "AutobroadcastsWeightMap", "de/d0a/a07046.html#a75e5b978794a7010c8d9d3390d8690f9", null ],
+    [ "instance", "de/d0a/a07046.html#aead196df7f590d43c89f179ca0bd4a68", null ],
+    [ "LoadAutobroadcasts", "de/d0a/a07046.html#a48748969b122aee47d03697b6e9a2ee1", null ],
+    [ "LoadAutobroadcastsLocalized", "de/d0a/a07046.html#a105fa2c33da0662785551027430d40c6", null ],
+    [ "SendAutobroadcasts", "de/d0a/a07046.html#a225907be4944713af11c312185c8aea7", null ],
+    [ "SendNotificationAnnouncement", "de/d0a/a07046.html#ace584bb6b66c8944e1405ec0af686d3a", null ],
+    [ "SendWorldAnnouncement", "de/d0a/a07046.html#a8be8fd36f843ffd435989c99ce0f9229", null ],
+    [ "_announceType", "de/d0a/a07046.html#a3889edc4001e26519d9df042a8b477fc", null ],
+    [ "_autobroadcasts", "de/d0a/a07046.html#a06d42010fea307a03aac0ca4e6886f1d", null ],
+    [ "_autobroadcastsWeights", "de/d0a/a07046.html#aadbd8ca926a64be4fbbe832fd633ee88", null ]
 ];

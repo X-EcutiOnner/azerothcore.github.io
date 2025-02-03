@@ -1,8 +1,6 @@
 var a15006 =
 [
-    [ "npc_injured_draeneiAI", "dd/d34/a15006.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
-    [ "JustEngagedWith", "dd/d34/a15006.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
-    [ "MoveInLineOfSight", "dd/d34/a15006.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
-    [ "Reset", "dd/d34/a15006.html#adcb601f739a91ce71926791885152471", null ],
-    [ "UpdateAI", "dd/d34/a15006.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
+    [ "npc_depth_chargeAI", "d5/d3b/a15010.html", "d5/d3b/a15010" ],
+    [ "npc_depth_charge", "dd/d34/a15006.html#ad16e3431b06fdd6797bfb51dda9005f5", null ],
+    [ "GetAI", "dd/d34/a15006.html#a16de1a207304ea2ad7f47d5674deeec1", null ]
 ];

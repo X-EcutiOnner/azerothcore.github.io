@@ -1,6 +1,7 @@
 var a19830 =
 [
-    [ "FilterTargets", "d5/dc2/a19830.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "d5/dc2/a19830.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "d5/dc2/a19830.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "d5/dc2/a19830.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
+    [ "IsSummonedBy", "d5/dc2/a19830.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
+    [ "JustDied", "d5/dc2/a19830.html#a5be637500e7b5735d90e19fa40fde467", null ],
+    [ "pInstance", "d5/dc2/a19830.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
 ];

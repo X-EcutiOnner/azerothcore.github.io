@@ -1,7 +1,7 @@
 var a02198 =
 [
-    [ "Escort_Waypoint", "d2/d44/a06130.html", "d2/d44/a06130" ],
-    [ "npc_escortAI", "dc/d40/a06134.html", "dc/d40/a06134" ],
+    [ "Escort_Waypoint", "dc/d40/a06134.html", "dc/d40/a06134" ],
+    [ "npc_escortAI", "d6/de0/a06138.html", "d6/de0/a06138" ],
     [ "DEFAULT_MAX_PLAYER_DISTANCE", "d7/db7/a02198.html#ad23dc39ce2da634e67360fab90e3b9e2", null ],
     [ "eEscortState", "d7/db7/a02198.html#af40ca4990501264cb0359ab6d93fb08a", [
       [ "STATE_ESCORT_NONE", "d7/db7/a02198.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5", null ],

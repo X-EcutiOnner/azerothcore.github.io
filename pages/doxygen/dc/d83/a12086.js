@@ -1,5 +1,7 @@
 var a12086 =
 [
-    [ "go_orb_of_domination", "dc/d83/a12086.html#a1d4659e21344a12ec6084ef7ef5df7d0", null ],
-    [ "OnGossipHello", "dc/d83/a12086.html#aa88cebf1bd539b55cf63f10a25cc1bbb", null ]
+    [ "HandleDummy", "dc/d83/a12086.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
+    [ "PrepareSpellScript", "dc/d83/a12086.html#a6ec124990f202af0c6063c285bf04d88", null ],
+    [ "Register", "dc/d83/a12086.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
+    [ "Validate", "dc/d83/a12086.html#ae35efa08f507aac5b72166a216d01870", null ]
 ];

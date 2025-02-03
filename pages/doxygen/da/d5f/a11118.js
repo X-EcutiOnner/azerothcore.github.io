@@ -1,7 +1,6 @@
 var a11118 =
 [
-    [ "EffectApplyHandler", "da/d5f/a11118.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
-    [ "Call", "da/d5f/a11118.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
-    [ "mode", "da/d5f/a11118.html#ac776375c5a5de321edc572c87e983193", null ],
-    [ "pEffectHandlerScript", "da/d5f/a11118.html#acd715556a7661f688ce0de9afe62250a", null ]
+    [ "EffectCalcAmountHandler", "da/d5f/a11118.html#a4fe66bbf0433e80b602683a278e3a709", null ],
+    [ "Call", "da/d5f/a11118.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
+    [ "pEffectHandlerScript", "da/d5f/a11118.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
 ];

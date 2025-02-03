@@ -1,9 +1,12 @@
 var a12358 =
 [
-    [ "boss_curator", "d5/de3/a12358.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
-    [ "JustDied", "d5/de3/a12358.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
-    [ "JustEngagedWith", "d5/de3/a12358.html#a848f477a101956662389cab5ffcc0727", null ],
-    [ "JustSummoned", "d5/de3/a12358.html#ac779d275e03e6ba190617d215b217ce5", null ],
-    [ "KilledUnit", "d5/de3/a12358.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
-    [ "Reset", "d5/de3/a12358.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
+    [ "BoardCell", "d5/de3/a12358.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
+    [ "Reset", "d5/de3/a12358.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
+    [ "SetData", "d5/de3/a12358.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
+    [ "SetPiece", "d5/de3/a12358.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
+    [ "col", "d5/de3/a12358.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
+    [ "pieceEntry", "d5/de3/a12358.html#a7697506ccc800d38968e457c44bfa019", null ],
+    [ "pieceGUID", "d5/de3/a12358.html#a74f494e406c56d4c61d79539acea684c", null ],
+    [ "row", "d5/de3/a12358.html#a195c187e134be546f224cbb0eef8c844", null ],
+    [ "triggerGUID", "d5/de3/a12358.html#a9cafdea50739b014a97e60611adcd3f1", null ]
 ];

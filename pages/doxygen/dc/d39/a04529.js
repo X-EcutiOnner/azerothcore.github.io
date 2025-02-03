@@ -1,6 +1,6 @@
 var a04529 =
 [
-    [ "fireworkShowGameobjectShattrath", "dc/d39/a04529.html#a2a4be2c9e5e5d0d215bc1bf7e3ea592c", null ],
-    [ "fireworkShowScheduleShattrath", "dc/d39/a04529.html#ad36558abe06e5db19b60204279c4606e", null ],
-    [ "fireworkShowShattrath", "dc/d39/a04529.html#a5fcd036e2fe28c58f38d59d0ade0e4ed", null ]
+    [ "fireworkShowBootyBay", "dc/d39/a04529.html#ade8881c3a797a7937c46526f8c8adf99", null ],
+    [ "FireworkShowGameobjectBootyBay", "dc/d39/a04529.html#aeff31f29bacaf8ca10d5caee61627422", null ],
+    [ "fireworkShowScheduleBootyBay", "dc/d39/a04529.html#aed5048221cf1d35ad3d4989da8786617", null ]
 ];

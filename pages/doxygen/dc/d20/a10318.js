@@ -1,7 +1,8 @@
 var a10318 =
 [
-    [ "ChatServerMessage", "dc/d20/a10318.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
-    [ "Write", "dc/d20/a10318.html#af8bad4d39693290674bda2e2ad8685bf", null ],
-    [ "MessageID", "dc/d20/a10318.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
-    [ "StringParam", "dc/d20/a10318.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
+    [ "PlayedTime", "dc/d20/a10318.html#abc477d90a27dc41a7c643448302464cf", null ],
+    [ "Write", "dc/d20/a10318.html#a147071f2545cd91213d6c92dab7438c7", null ],
+    [ "LevelTime", "dc/d20/a10318.html#a2bf832827f9497a59bbfac714799b4b5", null ],
+    [ "TotalTime", "dc/d20/a10318.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
+    [ "TriggerScriptEvent", "dc/d20/a10318.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
 ];

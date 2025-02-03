@@ -1,5 +1,8 @@
 var a01865 =
 [
+    [ "DisableData", "d3/d49/a07738.html", "d3/d49/a07738" ],
+    [ "DisableMgr", "db/d4e/a07742.html", "db/d4e/a07742" ],
+    [ "sDisableMgr", "d5/da8/a01865.html#a1a184d22bd27210ea5af79573927826a", null ],
     [ "DisableType", "d5/da8/a01865.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c", [
       [ "DISABLE_TYPE_SPELL", "d5/da8/a01865.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27", null ],
       [ "DISABLE_TYPE_QUEST", "d5/da8/a01865.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e", null ],
@@ -11,7 +14,8 @@ var a01865 =
       [ "DISABLE_TYPE_GO_LOS", "d5/da8/a01865.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a", null ],
       [ "DISABLE_TYPE_LFG_MAP", "d5/da8/a01865.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68", null ],
       [ "DISABLE_TYPE_GAME_EVENT", "d5/da8/a01865.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0", null ],
-      [ "DISABLE_TYPE_LOOT", "d5/da8/a01865.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f", null ]
+      [ "DISABLE_TYPE_LOOT", "d5/da8/a01865.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f", null ],
+      [ "MAX_DISABLE_TYPES", "d5/da8/a01865.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f", null ]
     ] ],
     [ "SpellDisableTypes", "d5/da8/a01865.html#a7b9e8ca1dcd13802fa528f955deaefd7", [
       [ "SPELL_DISABLE_PLAYER", "d5/da8/a01865.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41", null ],
@@ -22,10 +26,5 @@ var a01865 =
       [ "SPELL_DISABLE_AREA", "d5/da8/a01865.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268", null ],
       [ "SPELL_DISABLE_LOS", "d5/da8/a01865.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437", null ],
       [ "MAX_SPELL_DISABLE_TYPE", "d5/da8/a01865.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d", null ]
-    ] ],
-    [ "CheckQuestDisables", "d5/da8/a01865.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
-    [ "IsDisabledFor", "d5/da8/a01865.html#a6673bbc719c96febfc86a4220a988ed0", null ],
-    [ "IsPathfindingEnabled", "d5/da8/a01865.html#ad6a338e6f295d785a4f9256703ffbd71", null ],
-    [ "IsVMAPDisabledFor", "d5/da8/a01865.html#a38b182e1836b2197303b2809006f5148", null ],
-    [ "LoadDisables", "d5/da8/a01865.html#adb464165caf6cd436499fa84969eeaf8", null ]
+    ] ]
 ];

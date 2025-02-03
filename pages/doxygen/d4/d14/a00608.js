@@ -984,7 +984,6 @@ var a00608 =
       [ "LANG_GM_NOTIFY", "d4/d14/a00608.html#af9ee42b1cf006ecb2d2e74fe71c0761aa17e2484b882cc422944e39379358396e", null ],
       [ "LANG_GM_ANNOUNCE_COLOR", "d4/d14/a00608.html#af9ee42b1cf006ecb2d2e74fe71c0761aa862c1ea605a017a75e79e088c1536803", null ],
       [ "LANG_GM_SILENCE", "d4/d14/a00608.html#af9ee42b1cf006ecb2d2e74fe71c0761aa241fbdebd3c508ea6884739397dc15b5", null ],
-      [ "LANG_NO_ACORE_STRING_FOUND", "d4/d14/a00608.html#af9ee42b1cf006ecb2d2e74fe71c0761aad2c9377fccd8fa9d8d3eda74188a2b7e", null ],
       [ "LANG_WORLD_CLOSED", "d4/d14/a00608.html#af9ee42b1cf006ecb2d2e74fe71c0761aa90912b02b4ebb2933b3bf8692b2218f2", null ],
       [ "LANG_WORLD_OPENED", "d4/d14/a00608.html#af9ee42b1cf006ecb2d2e74fe71c0761aac4102a1b32ba2abc88f6df4264ddd740", null ],
       [ "LANG_LFG_PLAYER_INFO", "d4/d14/a00608.html#af9ee42b1cf006ecb2d2e74fe71c0761aa7c627f255c49c871cacb33f9a7ff70b1", null ],

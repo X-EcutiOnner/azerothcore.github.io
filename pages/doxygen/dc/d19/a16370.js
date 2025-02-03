@@ -1,7 +1,5 @@
 var a16370 =
 [
-    [ "HandleScript", "dc/d19/a16370.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "dc/d19/a16370.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "dc/d19/a16370.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "dc/d19/a16370.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "achievement_better_off_dred", "dc/d19/a16370.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
+    [ "OnCheck", "dc/d19/a16370.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
 ];

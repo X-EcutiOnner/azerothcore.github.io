@@ -1,6 +1,6 @@
 var a04523 =
 [
-    [ "fireworkShowBootyBay", "d7/ddc/a04523.html#ade8881c3a797a7937c46526f8c8adf99", null ],
-    [ "FireworkShowGameobjectBootyBay", "d7/ddc/a04523.html#aeff31f29bacaf8ca10d5caee61627422", null ],
-    [ "fireworkShowScheduleBootyBay", "d7/ddc/a04523.html#aed5048221cf1d35ad3d4989da8786617", null ]
+    [ "fireworkShowGameobjectSilvermoon", "d7/ddc/a04523.html#a6e36b6efb126a2fe4d53b641a9084409", null ],
+    [ "fireworkShowScheduleSilvermoon", "d7/ddc/a04523.html#af7d182f04e0fa03858c410b014e3f161", null ],
+    [ "fireworkShowSilvermoon", "d7/ddc/a04523.html#accc2d205eed4478e8e14ed4d88aeeb02", null ]
 ];

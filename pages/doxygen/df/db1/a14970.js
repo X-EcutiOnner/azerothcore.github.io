@@ -1,6 +1,6 @@
 var a14970 =
 [
-    [ "npc_muglashAI", "d1/dd6/a14974.html", "d1/dd6/a14974" ],
-    [ "npc_muglash", "df/db1/a14970.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
-    [ "GetAI", "df/db1/a14970.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
+    [ "HandleDummy", "df/db1/a14970.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
+    [ "PrepareSpellScript", "df/db1/a14970.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
+    [ "Register", "df/db1/a14970.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
 ];

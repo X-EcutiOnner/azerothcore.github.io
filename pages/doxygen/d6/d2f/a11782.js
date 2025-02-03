@@ -1,8 +1,11 @@
 var a11782 =
 [
-    [ "boss_drakkisathAI", "d6/d2f/a11782.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
-    [ "JustEngagedWith", "d6/d2f/a11782.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
-    [ "UpdateAI", "d6/d2f/a11782.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
-    [ "_conflagrateTarget", "d6/d2f/a11782.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
-    [ "_conflagrateThreat", "d6/d2f/a11782.html#aae3762b27c3d99b32f47293c544e4afe", null ]
+    [ "boss_doomrelAI", "d6/d2f/a11782.html#a231cc3989d1c575af941a5462ad94cbd", null ],
+    [ "EnterEvadeMode", "d6/d2f/a11782.html#ae633f4cc1747f291a3911ca50ee39370", null ],
+    [ "JustEngagedWith", "d6/d2f/a11782.html#a622f673548b0a6f1db2a59ef69f31ac7", null ],
+    [ "Reset", "d6/d2f/a11782.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc", null ],
+    [ "UpdateAI", "d6/d2f/a11782.html#a3d851f7bd5a78858fd228cac78c05f27", null ],
+    [ "_events", "d6/d2f/a11782.html#aaf800dd1d20dc8288cad5aa21cd602b0", null ],
+    [ "instance", "d6/d2f/a11782.html#aa0fc44bb955e83c2ef7b7373751fc2c2", null ],
+    [ "Voidwalkers", "d6/d2f/a11782.html#af29d871a370a534f508f225d49c3dc9f", null ]
 ];

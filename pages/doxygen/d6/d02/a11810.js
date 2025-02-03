@@ -1,8 +1,11 @@
 var a11810 =
 [
-    [ "boss_highlordomokkAI", "d6/d02/a11810.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
-    [ "JustDied", "d6/d02/a11810.html#ac7e125b4350880d3d195b915c8be9de0", null ],
-    [ "JustEngagedWith", "d6/d02/a11810.html#a072dc582f931deb7d1e0db9ad535f146", null ],
-    [ "Reset", "d6/d02/a11810.html#a627390013798de7a53a95817624417e3", null ],
-    [ "UpdateAI", "d6/d02/a11810.html#a38e6008d616131d2876ae5a085a083ff", null ]
+    [ "boss_gythAI", "d6/d02/a11810.html#aeec049af24b3a6f94051f1008ce107e6", null ],
+    [ "EnterEvadeMode", "d6/d02/a11810.html#a20296c618ad366d7ac956f16671cc408", null ],
+    [ "IsSummonedBy", "d6/d02/a11810.html#a6800421a2e9e889e649e792ee642d8ac", null ],
+    [ "JustDied", "d6/d02/a11810.html#a979da1f3922d9575b6c237b85952fb6c", null ],
+    [ "JustEngagedWith", "d6/d02/a11810.html#a6c0ca15d87851c205d94679ea65e5193", null ],
+    [ "JustSummoned", "d6/d02/a11810.html#ab9024ce261129c82d4304d2a13834a5f", null ],
+    [ "Reset", "d6/d02/a11810.html#aa3c86b403af5394a4e4cb30781bcb46b", null ],
+    [ "UpdateAI", "d6/d02/a11810.html#a66f27f6d49b40dcc2894f177b281570f", null ]
 ];

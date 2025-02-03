@@ -1,8 +1,9 @@
 var a08954 =
 [
-    [ "AIRelocationNotifier", "dc/d5e/a08954.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
-    [ "Visit", "dc/d5e/a08954.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
-    [ "Visit", "dc/d5e/a08954.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
-    [ "i_unit", "dc/d5e/a08954.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
-    [ "isCreature", "dc/d5e/a08954.html#a199f4b91d00dd4db90855e5521d87a95", null ]
+    [ "VisibleChangesNotifier", "dc/d5e/a08954.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
+    [ "Visit", "dc/d5e/a08954.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
+    [ "Visit", "dc/d5e/a08954.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
+    [ "Visit", "dc/d5e/a08954.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
+    [ "Visit", "dc/d5e/a08954.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
+    [ "i_object", "dc/d5e/a08954.html#a496b982d081957cfc288f29b99b8739d", null ]
 ];

@@ -1,9 +1,6 @@
 var a22154 =
 [
-    [ "npc_crusade_recruitAI", "d0/dbb/a22154.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
-    [ "Reset", "d0/dbb/a22154.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
-    [ "sGossipSelect", "d0/dbb/a22154.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
-    [ "UpdateAI", "d0/dbb/a22154.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
-    [ "_events", "d0/dbb/a22154.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
-    [ "_heading", "d0/dbb/a22154.html#a6e260a6e085962d54b765bff4cb17963", null ]
+    [ "npc_captured_rageclawAI", "d0/d19/a22158.html", "d0/d19/a22158" ],
+    [ "npc_captured_rageclaw", "d0/dbb/a22154.html#ad49176279e9d16a6a24c0649c576c0be", null ],
+    [ "GetAI", "d0/dbb/a22154.html#aa39b6c518fe22d91b8673cfd576866a4", null ]
 ];

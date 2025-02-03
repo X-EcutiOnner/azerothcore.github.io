@@ -1,9 +1,6 @@
 var a14786 =
 [
-    [ "npc_eye_tentacle", "d7/d86/a14786.html#a106deeb95d74597377d32e81695dc3c9", null ],
-    [ "JustDied", "d7/d86/a14786.html#aac965d97034f4f623172297e4f82647e", null ],
-    [ "JustEngagedWith", "d7/d86/a14786.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
-    [ "Reset", "d7/d86/a14786.html#a715439dfa31b4cf9df7ddd678d912108", null ],
-    [ "UpdateAI", "d7/d86/a14786.html#a48f9067f27d61e609a014669c1daedb9", null ],
-    [ "_portalGUID", "d7/d86/a14786.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
+    [ "HandleScriptEffect", "d7/d86/a14786.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
+    [ "PrepareSpellScript", "d7/d86/a14786.html#aa109d61baba87acf5bce5d44bff55214", null ],
+    [ "Register", "d7/d86/a14786.html#ac8412777c84abfe56262d6d83163e9a1", null ]
 ];

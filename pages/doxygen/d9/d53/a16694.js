@@ -1,6 +1,6 @@
 var a16694 =
 [
-    [ "boss_krickAI", "db/dcc/a16698.html", "db/dcc/a16698" ],
-    [ "boss_krick", "d9/d53/a16694.html#a8921ff79c0af7db7f7910634239bcd0c", null ],
-    [ "GetAI", "d9/d53/a16694.html#a9aa994da7c667b20c00b1bd1e994fed1", null ]
+    [ "boss_garfrostAI", "db/dcc/a16698.html", "db/dcc/a16698" ],
+    [ "boss_garfrost", "d9/d53/a16694.html#ac116491cf252ee476cedee55ea292827", null ],
+    [ "GetAI", "d9/d53/a16694.html#a8a67bb09249655a8706868bb26b5124d", null ]
 ];

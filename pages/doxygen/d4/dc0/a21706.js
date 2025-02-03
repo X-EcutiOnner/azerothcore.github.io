@@ -1,6 +1,6 @@
 var a21706 =
 [
-    [ "npc_plaguehound_trackerAI", "d4/dc0/a21706.html#a7530f500b42ad9bb38593193d3113da8", null ],
-    [ "Reset", "d4/dc0/a21706.html#a05c351ab3aca0cd18209405075bb0f47", null ],
-    [ "WaypointReached", "d4/dc0/a21706.html#a67c345f49572cde76d9109a1baff6788", null ]
+    [ "npc_your_inner_turmoilAI", "d2/d0e/a21710.html", "d2/d0e/a21710" ],
+    [ "npc_your_inner_turmoil", "d4/dc0/a21706.html#a72856ef469bb8f6ff4a89a16159479af", null ],
+    [ "GetAI", "d4/dc0/a21706.html#a29c8f76b072e891face1225770688ca6", null ]
 ];

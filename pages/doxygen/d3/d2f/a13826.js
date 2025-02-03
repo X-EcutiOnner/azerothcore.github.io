@@ -1,6 +1,19 @@
 var a13826 =
 [
-    [ "boss_wushoolayAI", "d3/d2f/a13826.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
-    [ "JustEngagedWith", "d3/d2f/a13826.html#af519da543fff63a39a6fbe48f90f2f22", null ],
-    [ "UpdateAI", "d3/d2f/a13826.html#acfaacee2a97212eb15056c1552b9e06b", null ]
+    [ "boss_thekal", "d3/d2f/a13826.html#a91e8fd9ba169d5096fd06471f8bd16e9", null ],
+    [ "CheckPhaseTransition", "d3/d2f/a13826.html#a95aeb81565f5863eec67106ae1118ac4", null ],
+    [ "DamageTaken", "d3/d2f/a13826.html#a98be9a4d815f6fdc01acbfaa916b721c", null ],
+    [ "DoAction", "d3/d2f/a13826.html#aa3d81738fbb42d5575dd8e5b30d84563", null ],
+    [ "Initialize", "d3/d2f/a13826.html#aec365f330eed69513e988f895ec780e7", null ],
+    [ "JustDied", "d3/d2f/a13826.html#a79bc19df134cbeb17f0941865461bd0d", null ],
+    [ "JustEngagedWith", "d3/d2f/a13826.html#af5e2b2b5665270f29243921e51280190", null ],
+    [ "Reset", "d3/d2f/a13826.html#a684bf1fc087970a41cf79959ba57b31b", null ],
+    [ "ReviveZealot", "d3/d2f/a13826.html#aab84b3390cf8cc95dc8a2067ed38b4ab", null ],
+    [ "SetData", "d3/d2f/a13826.html#a586805c5f8d20a35055cf12a3c9f673f", null ],
+    [ "UpdateAI", "d3/d2f/a13826.html#a4b5e7dae10900a197d047b6ea32c33ed", null ],
+    [ "UpdateZealotStatus", "d3/d2f/a13826.html#ac69068240dfc1ecf30f37e36c3e51353", null ],
+    [ "_enraged", "d3/d2f/a13826.html#aba5ac2c4cdac1d4a0e37e9d6cd3b1422", null ],
+    [ "_lorkhanDied", "d3/d2f/a13826.html#a0f84ad2f224fe29fc4ddde3258200e10", null ],
+    [ "_wasDead", "d3/d2f/a13826.html#aec4eea1f0d8ebffb1bbc2646e986f300", null ],
+    [ "_zathDied", "d3/d2f/a13826.html#ae3df1561ee3dcb3887f6e646b6277b29", null ]
 ];

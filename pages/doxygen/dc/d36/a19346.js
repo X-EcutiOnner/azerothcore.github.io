@@ -1,6 +1,8 @@
 var a19346 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "de/da7/a19350.html", "de/da7/a19350" ],
-    [ "instance_halls_of_stone", "dc/d36/a19346.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "dc/d36/a19346.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "dark_rune_stormcallerAI", "dc/d36/a19346.html#ad889fb0c50e879c958c9b8bb681e4bf7", null ],
+    [ "JustEngagedWith", "dc/d36/a19346.html#a7ddfb8afac3ff28a84b26255628fab50", null ],
+    [ "Reset", "dc/d36/a19346.html#afa9cc2e1a9f7d21cd885479e9afdcd12", null ],
+    [ "UpdateAI", "dc/d36/a19346.html#adbd245fc5180dc7c78704595a9592864", null ],
+    [ "events", "dc/d36/a19346.html#aa7d8d1d075eeb03952b47cc16846a3db", null ]
 ];

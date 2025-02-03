@@ -1,6 +1,6 @@
 var a17266 =
 [
-    [ "npc_igb_ship_crewAI", "d0/da8/a17266.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "d0/da8/a17266.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "d0/da8/a17266.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "npc_muradin_bronzebeard_igbAI", "d3/df0/a17270.html", "d3/df0/a17270" ],
+    [ "npc_muradin_bronzebeard_igb", "d0/da8/a17266.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
+    [ "GetAI", "d0/da8/a17266.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
 ];

@@ -1,6 +1,6 @@
 var a00662 =
 [
-    [ "PlayerScript", "d0/d2b/a10166.html", "d0/d2b/a10166" ],
+    [ "PlayerScript", "d0/d6f/a10178.html", "d0/d6f/a10178" ],
     [ "PlayerHook", "dc/df1/a00662.html#a7d525e751616f7554a64c9ae6e12a357", [
       [ "PLAYERHOOK_ON_PLAYER_JUST_DIED", "dc/df1/a00662.html#a7d525e751616f7554a64c9ae6e12a357a5b36d5121754e80347cec73da33b380e", null ],
       [ "PLAYERHOOK_ON_CALCULATE_TALENTS_POINTS", "dc/df1/a00662.html#a7d525e751616f7554a64c9ae6e12a357aff039f45bb556c0812237f31d398672f", null ],
@@ -178,6 +178,7 @@ var a00662 =
       [ "PLAYERHOOK_CAN_SEND_ERROR_ALREADY_LOOTED", "dc/df1/a00662.html#a7d525e751616f7554a64c9ae6e12a357a7bb8eb90ca195c4a126c319072b92de6", null ],
       [ "PLAYERHOOK_ON_AFTER_CREATURE_LOOT", "dc/df1/a00662.html#a7d525e751616f7554a64c9ae6e12a357ac0399502c9c935fec9513ecfde9a28ce", null ],
       [ "PLAYERHOOK_ON_AFTER_CREATURE_LOOT_MONEY", "dc/df1/a00662.html#a7d525e751616f7554a64c9ae6e12a357a19afa7b760fabff04425d40c21f03cb9", null ],
+      [ "PLAYERHOOK_CAN_RESURRECT", "dc/df1/a00662.html#a7d525e751616f7554a64c9ae6e12a357a1cd44b42c86b09f221025742a6262c1c", null ],
       [ "PLAYERHOOK_END", "dc/df1/a00662.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9", null ]
     ] ]
 ];

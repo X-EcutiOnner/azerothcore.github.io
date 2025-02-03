@@ -1,7 +1,8 @@
 var a11018 =
 [
-    [ "CategoryRecoveryTime", "d1/d5a/a11018.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "d1/d5a/a11018.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "d1/d5a/a11018.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "d1/d5a/a11018.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "first", "d1/d5a/a11018.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
+    [ "last", "d1/d5a/a11018.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
+    [ "next", "d1/d5a/a11018.html#a0a7791b7069912a013299e7afaf4142f", null ],
+    [ "prev", "d1/d5a/a11018.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
+    [ "rank", "d1/d5a/a11018.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
 ];

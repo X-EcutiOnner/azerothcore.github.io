@@ -1,6 +1,6 @@
 var a02396 =
 [
-    [ "WorldDatabaseConnection", "d7/d1a/a05634.html", "d7/d1a/a05634" ],
+    [ "WorldDatabaseConnection", "de/df7/a05638.html", "de/df7/a05638" ],
     [ "WorldDatabaseStatements", "d5/d10/a02396.html#a736c0fca3c789518de967ddf4d44fc32", [
       [ "WORLD_SEL_QUEST_POOLS", "d5/d10/a02396.html#a736c0fca3c789518de967ddf4d44fc32a3118e05fb78f0cbb8246213722964db3", null ],
       [ "WORLD_DEL_CRELINKED_RESPAWN", "d5/d10/a02396.html#a736c0fca3c789518de967ddf4d44fc32aeadd642135eb3d6d44554c8536ce54b2", null ],

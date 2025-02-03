@@ -1,5 +1,9 @@
 var a26994 =
 [
-    [ "go_tele_to_dalaran_crystal", "df/dc9/a26994.html#ab41268b7d568e8f189338f27cd90a62c", null ],
-    [ "OnGossipHello", "df/dc9/a26994.html#a7f754a29249653ca7848494310ef1a8d", null ]
+    [ "go_gilded_brazierAI", "df/dc9/a26994.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
+    [ "GossipHello", "df/dc9/a26994.html#afac9e217c294e72ff5f2526422e6321e", null ],
+    [ "Initialize", "df/dc9/a26994.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
+    [ "UpdateAI", "df/dc9/a26994.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
+    [ "_events", "df/dc9/a26994.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
+    [ "_playerGUID", "df/dc9/a26994.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
 ];

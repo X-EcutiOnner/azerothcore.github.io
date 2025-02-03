@@ -1,5 +1,5 @@
 var a04019 =
 [
-    [ "mmaps_commandscript", "d6/d8c/a11478.html", "d6/d8c/a11478" ],
-    [ "AddSC_mmaps_commandscript", "da/d6d/a04019.html#aa9672a1e32f85f31a4be02f505768ecd", null ]
+    [ "lookup_commandscript", "d2/d54/a11482.html", "d2/d54/a11482" ],
+    [ "AddSC_lookup_commandscript", "da/d6d/a04019.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
 ];

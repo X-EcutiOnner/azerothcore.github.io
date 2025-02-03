@@ -1,6 +1,8 @@
 var a23378 =
 [
-    [ "npc_millhouse_manastormAI", "d6/d49/a23382.html", "d6/d49/a23382" ],
-    [ "npc_millhouse_manastorm", "dd/d8e/a23378.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
-    [ "GetAI", "dd/d8e/a23378.html#ac4516785f7daf544718fc201197ba977", null ]
+    [ "npc_warchief_portal", "dd/d8e/a23378.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "dd/d8e/a23378.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "dd/d8e/a23378.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "dd/d8e/a23378.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "dd/d8e/a23378.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

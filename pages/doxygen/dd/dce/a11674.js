@@ -1,6 +1,9 @@
 var a11674 =
 [
-    [ "boss_evisceratorAI", "dc/d76/a11678.html", "dc/d76/a11678" ],
-    [ "boss_eviscerator", "dd/dce/a11674.html#aca65400afa5ca9ca81043687d79cdad0", null ],
-    [ "GetAI", "dd/dce/a11674.html#a21203f69267ec93c46d9ff56321b8169", null ]
+    [ "npc_burning_spiritAI", "dd/dce/a11674.html#a52f63423d09794446b0c01da2feb325d", null ],
+    [ "EnterEvadeMode", "dd/dce/a11674.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
+    [ "IsSummonedBy", "dd/dce/a11674.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
+    [ "MovementInform", "dd/dce/a11674.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
+    [ "_events", "dd/dce/a11674.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
+    [ "_flamelasherGUID", "dd/dce/a11674.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
 ];

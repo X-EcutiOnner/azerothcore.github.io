@@ -1,12 +1,14 @@
 var a11838 =
 [
-    [ "boss_pyroguard_emberseerAI", "d5/d62/a11838.html#ac08deea0d151d109f36bb3cf66a34f29", null ],
-    [ "JustDied", "d5/d62/a11838.html#aa35fc50d327c0bf7506bfd166d098522", null ],
-    [ "JustEngagedWith", "d5/d62/a11838.html#a9eff335ff04e3da1e4488e00b55ecbaa", null ],
-    [ "OpenDoors", "d5/d62/a11838.html#a8002f8d7b6b06b970d38d9824d57d737", null ],
-    [ "Reset", "d5/d62/a11838.html#ab82a2bc6e9596d14dd2fd65b859af74d", null ],
-    [ "SetData", "d5/d62/a11838.html#a5892ccaf9107e2da47c22c21bf5b2ed9", null ],
-    [ "SpellHit", "d5/d62/a11838.html#a236f20c40eb1c37a25b04b5cf83e2488", null ],
-    [ "UpdateAI", "d5/d62/a11838.html#a075147c4409174652e732293426b732d", null ],
-    [ "UpdateRunes", "d5/d62/a11838.html#a87d7d63893a9feb6bb6c44adf1c637eb", null ]
+    [ "boss_lord_valthalakAI", "d5/d62/a11838.html#a7f10837eafefefb87b338410c5994362", null ],
+    [ "DamageTaken", "d5/d62/a11838.html#a6fe691c8dd5c5b387eed08e3a010bec7", null ],
+    [ "IsSummonedBy", "d5/d62/a11838.html#a852589ca84562ad1a9dcdd403fe5aa83", null ],
+    [ "JustDied", "d5/d62/a11838.html#a4c9bd060e62f1c4d3819350bf549a39a", null ],
+    [ "JustEngagedWith", "d5/d62/a11838.html#acee7b1758b670a688fe1afcdef3b9f8c", null ],
+    [ "Reset", "d5/d62/a11838.html#abcc993a205602484fb46a67bc68dbbd9", null ],
+    [ "StartFighting", "d5/d62/a11838.html#af06da24e8bedf922895c8c591c1def04", null ],
+    [ "StartTalking", "d5/d62/a11838.html#ac1d7b3844f9019ea6485de7616caff95", null ],
+    [ "UpdateAI", "d5/d62/a11838.html#a2b39a384ac7133aa013e21b0e873c4e2", null ],
+    [ "frenzy15", "d5/d62/a11838.html#aabd65fc1a1bdbbc9c3a46c918bc7dff5", null ],
+    [ "frenzy40", "d5/d62/a11838.html#a75aa55580bed475e88e9071fa5284267", null ]
 ];

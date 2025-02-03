@@ -1,6 +1,5 @@
 var a12170 =
 [
-    [ "boss_golemaggAI", "d2/daf/a12174.html", "d2/daf/a12174" ],
-    [ "boss_golemagg", "dc/d79/a12170.html#a66720a143f8987dfa5d6e2acb7cd73cd", null ],
-    [ "GetAI", "dc/d79/a12170.html#a6899f30975e0984306feabe47bbc8317", null ]
+    [ "npc_garr_fireswornAI", "dc/d79/a12170.html#af2454b2ddf93102378ebf9780d260e56", null ],
+    [ "DamageTaken", "dc/d79/a12170.html#ae9582b14e82b163ff97b99cb603e0179", null ]
 ];

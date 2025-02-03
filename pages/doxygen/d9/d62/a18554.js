@@ -1,5 +1,6 @@
 var a18554 =
 [
-    [ "at_icc_putricide_trap", "d9/d62/a18554.html#a9d4183629deada9c22750b8a34e94583", null ],
-    [ "OnTrigger", "d9/d62/a18554.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
+    [ "npc_icc_gauntlet_controllerAI", "d6/da9/a18558.html", "d6/da9/a18558" ],
+    [ "npc_icc_gauntlet_controller", "d9/d62/a18554.html#a5fc4c941842e25bc3da93686e588627b", null ],
+    [ "GetAI", "d9/d62/a18554.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
 ];

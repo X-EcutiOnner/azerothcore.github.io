@@ -1,5 +1,6 @@
 var a10278 =
 [
-    [ "LogoutRequest", "df/d88/a10278.html#ab92b0a8a5d3d076adbd465fcf24b7975", null ],
-    [ "Read", "df/d88/a10278.html#a84701a16603f8b0f1e8dda1020ec1161", null ]
+    [ "ShowBank", "df/d88/a10278.html#a57c189db7f6338f73d4e0028d846cfcf", null ],
+    [ "Write", "df/d88/a10278.html#a39e1b86a7d4d6163ab504797be1af505", null ],
+    [ "Banker", "df/d88/a10278.html#aeceda879d837508d95b79fbd3ee8d892", null ]
 ];

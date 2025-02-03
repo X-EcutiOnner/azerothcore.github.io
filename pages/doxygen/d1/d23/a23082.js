@@ -1,13 +1,10 @@
 var a23082 =
 [
-    [ "boss_ghazan", "d1/d23/a23082.html#ae730362fcf3606c67b6b85147de98fb6", null ],
-    [ "DoAction", "d1/d23/a23082.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
-    [ "InitializeAI", "d1/d23/a23082.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
-    [ "JustEngagedWith", "d1/d23/a23082.html#ad4136f0f63d267284f36756793c0efa7", null ],
-    [ "JustReachedHome", "d1/d23/a23082.html#af9f2dd854036d5c8b9c6703499836199", null ],
-    [ "MovementInform", "d1/d23/a23082.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
-    [ "Reset", "d1/d23/a23082.html#afc9522a26060643f2f9d25a8a98691b7", null ],
-    [ "UpdateAI", "d1/d23/a23082.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
-    [ "_movedToPlatform", "d1/d23/a23082.html#aa6c0c391355ac0b698d67796efd63062", null ],
-    [ "_reachedPlatform", "d1/d23/a23082.html#af3476318b4721bd52facaf735eabb1f9", null ]
+    [ "boss_warlord_kalithresh", "d1/d23/a23082.html#afcf2288fbea2d5010c41344ce0247559", null ],
+    [ "JustDied", "d1/d23/a23082.html#a1947562aa9dafea371e2f2da824a3f65", null ],
+    [ "JustEngagedWith", "d1/d23/a23082.html#a2712f5c363c3929550b77ef2536b1385", null ],
+    [ "KilledUnit", "d1/d23/a23082.html#a06855288497f5335a236867ef681d3f8", null ],
+    [ "MoveInLineOfSight", "d1/d23/a23082.html#a544da19b6c3a6f159ed6b1639def1071", null ],
+    [ "Reset", "d1/d23/a23082.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
+    [ "_introDone", "d1/d23/a23082.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
 ];

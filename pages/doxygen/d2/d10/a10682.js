@@ -1,6 +1,6 @@
 var a10682 =
 [
-    [ "PetLearnedSpell", "d2/d10/a10682.html#a5d105cca08515b9550998f2c86b13a1a", null ],
-    [ "Write", "d2/d10/a10682.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
-    [ "SpellID", "d2/d10/a10682.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
+    [ "PetAbandon", "d2/d10/a10682.html#aeac05969ce6bdb41a02f7ffe56126dfd", null ],
+    [ "Read", "d2/d10/a10682.html#a58ebb244de4bd65a85f75dcc24250883", null ],
+    [ "PetGUID", "d2/d10/a10682.html#a7175c081b7cb691ceb4729c1abc5028e", null ]
 ];

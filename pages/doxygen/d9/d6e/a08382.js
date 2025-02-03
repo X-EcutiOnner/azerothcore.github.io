@@ -1,6 +1,9 @@
 var a08382 =
 [
-    [ "PlayerClassLevelInfo", "d9/d6e/a08382.html#a60153094e3179bfc6c028d2b76775805", null ],
-    [ "basehealth", "d9/d6e/a08382.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
-    [ "basemana", "d9/d6e/a08382.html#a939a8d8739a553c919d84e399ce17d22", null ]
+    [ "category", "d9/d6e/a08382.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
+    [ "end", "d9/d6e/a08382.html#a8cc857ef51745900398765164a450a50", null ],
+    [ "itemid", "d9/d6e/a08382.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
+    [ "maxduration", "d9/d6e/a08382.html#a94b98afb7651e2c6b99ee79f85702259", null ],
+    [ "needSendToClient", "d9/d6e/a08382.html#a678f56b6723567f984a0188b85a6f9df", null ],
+    [ "sendToSpectator", "d9/d6e/a08382.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
 ];

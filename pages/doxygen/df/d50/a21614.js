@@ -1,7 +1,7 @@
 var a21614 =
 [
-    [ "npc_amberpine_woodsmanAI", "df/d50/a21614.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
-    [ "Reset", "df/d50/a21614.html#a8da613c7bbaadf331c95667e7a361702", null ],
-    [ "UpdateAI", "df/d50/a21614.html#a64dbf41424a710c400d51507f6457b41", null ],
-    [ "_events", "df/d50/a21614.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
+    [ "HandleScriptEffect", "df/d50/a21614.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "df/d50/a21614.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "df/d50/a21614.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "df/d50/a21614.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

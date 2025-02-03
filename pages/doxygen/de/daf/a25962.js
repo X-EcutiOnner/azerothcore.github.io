@@ -1,7 +1,7 @@
 var a25962 =
 [
-    [ "if", "de/daf/a25962.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
-    [ "PrepareAuraScript", "de/daf/a25962.html#aa31810077c241e77193e378cb297b7de", null ],
-    [ "Register", "de/daf/a25962.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
-    [ "AuraEffectHandleModes", "de/daf/a25962.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
+    [ "HandleProc", "de/daf/a25962.html#ad5bf7ab28ac2f359c65606a1772a40d2", null ],
+    [ "PrepareAuraScript", "de/daf/a25962.html#af4fec7fb65e1327b1a74d48453b9fddd", null ],
+    [ "Register", "de/daf/a25962.html#a44a82b94d509eeb04f3520ded1d62891", null ],
+    [ "Validate", "de/daf/a25962.html#a7b222bba8f0c4ced50bf4945bf0423ca", null ]
 ];

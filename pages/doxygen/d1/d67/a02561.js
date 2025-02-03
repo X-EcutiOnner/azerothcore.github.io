@@ -1,11 +1,11 @@
 var a02561 =
 [
-    [ "npc_prof_alchemy", "de/d55/a27122.html", "de/d55/a27122" ],
-    [ "npc_prof_blacksmith", "df/d42/a27126.html", "df/d42/a27126" ],
-    [ "npc_engineering_tele_trinket", "dc/d22/a27130.html", "dc/d22/a27130" ],
-    [ "npc_prof_leather", "d5/dd4/a27134.html", "d5/dd4/a27134" ],
-    [ "npc_prof_tailor", "dd/dab/a27138.html", "dd/dab/a27138" ],
-    [ "go_evil_book_for_dummies", "d3/d82/a27142.html", "d3/d82/a27142" ],
+    [ "npc_prof_alchemy", "d3/d82/a27142.html", "d3/d82/a27142" ],
+    [ "npc_prof_blacksmith", "d6/dee/a27146.html", "d6/dee/a27146" ],
+    [ "npc_engineering_tele_trinket", "de/d4d/a27150.html", "de/d4d/a27150" ],
+    [ "npc_prof_leather", "d1/dde/a27154.html", "d1/dde/a27154" ],
+    [ "npc_prof_tailor", "d0/dd7/a27158.html", "d0/dd7/a27158" ],
+    [ "go_evil_book_for_dummies", "dc/d84/a27162.html", "dc/d84/a27162" ],
     [ "BOX_LEARN_ENGIN_SPEC", "d1/d67/a02561.html#acfda6f8765d038ad07388078d3242c47", null ],
     [ "BOX_UNLEARN_ALCHEMY_SPEC", "d1/d67/a02561.html#a3c6725cfafc91c379f0cb5c4e524a1bd", null ],
     [ "BOX_UNLEARN_ARMORORWEAPON", "d1/d67/a02561.html#a3c0bbd141b0ae46377b5d769349c3ceb", null ],
@@ -67,10 +67,10 @@ var a02561 =
       [ "SPELL_TO_TOSHLEY", "d1/d67/a02561.html#af2aeb8d1dd1a9b06762216ad2c6abe19ae95d91b3c10b4498efc69fd9bba28a94", null ]
     ] ],
     [ "Gossips", "d1/d67/a02561.html#a482f31893e512222b2812fb2e025019d", [
-      [ "GOSSIP_MENU_SYLVANAS", "d0/d08/a02936.html#a482f31893e512222b2812fb2e025019da5c7dfcba805ad95672703283387dca3a", null ],
-      [ "GOSISP_MENU_JAINA", "d0/d08/a02936.html#a482f31893e512222b2812fb2e025019daa56a8ecaddc59cfb1185b268f279171a", null ],
-      [ "GOSSIP_OPTION_START", "d0/d08/a02936.html#a482f31893e512222b2812fb2e025019da38ec399ecfd73857e6ac074ad74c6abc", null ],
-      [ "GOSSIP_OPTION_START_SKIP", "d0/d08/a02936.html#a482f31893e512222b2812fb2e025019da4bed0c062e8da9b58e1424165ff770f2", null ],
+      [ "GOSSIP_MENU_SYLVANAS", "de/d87/a02939.html#a482f31893e512222b2812fb2e025019da5c7dfcba805ad95672703283387dca3a", null ],
+      [ "GOSISP_MENU_JAINA", "de/d87/a02939.html#a482f31893e512222b2812fb2e025019daa56a8ecaddc59cfb1185b268f279171a", null ],
+      [ "GOSSIP_OPTION_START", "de/d87/a02939.html#a482f31893e512222b2812fb2e025019da38ec399ecfd73857e6ac074ad74c6abc", null ],
+      [ "GOSSIP_OPTION_START_SKIP", "de/d87/a02939.html#a482f31893e512222b2812fb2e025019da4bed0c062e8da9b58e1424165ff770f2", null ],
       [ "GOSSIP_MENU_PETER_GALEN", "d1/d67/a02561.html#a482f31893e512222b2812fb2e025019da080668d699a94ebf540f6b9a5cfc321d", null ],
       [ "GOSSIP_MENU_THORKAF_DRAGONEYE", "d1/d67/a02561.html#a482f31893e512222b2812fb2e025019daa99a5fed55a6cf2bea7a727ff6072cc3", null ],
       [ "GOSSIP_MENU_BRUMN_WINTERHOOF", "d1/d67/a02561.html#a482f31893e512222b2812fb2e025019dae113277224eacbd5e8ca9db8d9584b9e", null ],

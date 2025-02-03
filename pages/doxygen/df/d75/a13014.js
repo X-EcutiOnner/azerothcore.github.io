@@ -1,6 +1,7 @@
 var a13014 =
 [
-    [ "npc_demonic_vapor", "df/d75/a13014.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
-    [ "Reset", "df/d75/a13014.html#a7d2b88ab26904cedaac34f03567806bc", null ],
-    [ "UpdateAI", "df/d75/a13014.html#ae80c50c2599e607b54349a87dda5f6f6", null ]
+    [ "CheckCast", "df/d75/a13014.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "df/d75/a13014.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "df/d75/a13014.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "df/d75/a13014.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

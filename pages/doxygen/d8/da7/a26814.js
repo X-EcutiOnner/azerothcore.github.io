@@ -1,9 +1,6 @@
 var a26814 =
 [
-    [ "boss_lethonAI", "d8/da7/a26814.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "d8/da7/a26814.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "d8/da7/a26814.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "d8/da7/a26814.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "d8/da7/a26814.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "d8/da7/a26814.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "npc_dream_fogAI", "dc/dc0/a26818.html", "dc/dc0/a26818" ],
+    [ "npc_dream_fog", "d8/da7/a26814.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "d8/da7/a26814.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

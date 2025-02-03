@@ -1,13 +1,7 @@
 var a13754 =
 [
-    [ "npc_ohganAI", "df/de9/a13754.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
-    [ "JustDied", "df/de9/a13754.html#a89e506868e3191362545e34d21528b8f", null ],
-    [ "JustEngagedWith", "df/de9/a13754.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
-    [ "KilledUnit", "df/de9/a13754.html#a4e202eef928e54bd52160705bba5cc35", null ],
-    [ "Reset", "df/de9/a13754.html#ac3e1bc9dc819138741eb3b4448051547", null ],
-    [ "SetGUID", "df/de9/a13754.html#a5baf8e15902d4d8ff06c8410314327f6", null ],
-    [ "UpdateAI", "df/de9/a13754.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
-    [ "_scheduler", "df/de9/a13754.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
-    [ "instance", "df/de9/a13754.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
-    [ "reviveGUID", "df/de9/a13754.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
+    [ "HandleOnHit", "df/de9/a13754.html#a561799e6241b1fe17cd09f17c447107b", null ],
+    [ "PrepareSpellScript", "df/de9/a13754.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
+    [ "Register", "df/de9/a13754.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
+    [ "Validate", "df/de9/a13754.html#adb339686c5e9dcb298712455dc8435bf", null ]
 ];

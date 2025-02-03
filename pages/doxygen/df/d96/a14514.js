@@ -1,9 +1,8 @@
 var a14514 =
 [
-    [ "boss_chrono_lord_deja", "df/d96/a14514.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "df/d96/a14514.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "df/d96/a14514.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "df/d96/a14514.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "df/d96/a14514.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "df/d96/a14514.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "npc_thrall_old_hillsbradAI", "d5/d02/a14518.html", "d5/d02/a14518" ],
+    [ "npc_thrall_old_hillsbrad", "df/d96/a14514.html#a3e6fa750b095af3beac806a619e18328", null ],
+    [ "GetAI", "df/d96/a14514.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
+    [ "OnGossipHello", "df/d96/a14514.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
+    [ "OnGossipSelect", "df/d96/a14514.html#a17fcb00850503903f430506654e035c0", null ]
 ];

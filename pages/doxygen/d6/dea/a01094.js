@@ -1,7 +1,7 @@
 var a01094 =
 [
-    [ "FactionState", "d2/d97/a09990.html", "d2/d97/a09990" ],
-    [ "ReputationMgr", "de/dad/a09994.html", "de/dad/a09994" ],
+    [ "FactionState", "dd/daa/a10002.html", "dd/daa/a10002" ],
+    [ "ReputationMgr", "dd/d45/a10006.html", "dd/d45/a10006" ],
     [ "FactionStateList", "d6/dea/a01094.html#ad6532434415723ae38cfd01814db70c4", null ],
     [ "ForcedReactions", "d6/dea/a01094.html#a7f488a06b2477791f620e975ea444f4e", null ],
     [ "RepListID", "d6/dea/a01094.html#a5d6355bb0de767f549aeb8f1e6481624", null ],

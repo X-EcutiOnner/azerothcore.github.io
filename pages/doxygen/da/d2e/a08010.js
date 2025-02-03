@@ -1,7 +1,12 @@
 var a08010 =
 [
-    [ "IsInSpec", "da/d2e/a08010.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
-    [ "Active", "da/d2e/a08010.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
-    [ "specMask", "da/d2e/a08010.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
-    [ "State", "da/d2e/a08010.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
+    [ "GameObjectModelOwnerImpl", "da/d2e/a08010.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
+    [ "DebugVisualizeCorner", "da/d2e/a08010.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
+    [ "GetDisplayId", "da/d2e/a08010.html#a4a694456955c19e76d8c84befc02c920", null ],
+    [ "GetOrientation", "da/d2e/a08010.html#acb968e3bd921aac111a2e06f2604b040", null ],
+    [ "GetPhaseMask", "da/d2e/a08010.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
+    [ "GetPosition", "da/d2e/a08010.html#a9ba2b29d30b38895effe97637e050988", null ],
+    [ "GetScale", "da/d2e/a08010.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
+    [ "IsSpawned", "da/d2e/a08010.html#ae47eb25d16de37122042402443db6f3d", null ],
+    [ "_owner", "da/d2e/a08010.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
 ];

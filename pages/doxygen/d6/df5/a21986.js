@@ -1,6 +1,6 @@
 var a21986 =
 [
-    [ "npc_icefangAI", "d1/dc4/a21990.html", "d1/dc4/a21990" ],
-    [ "npc_icefang", "d6/df5/a21986.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "d6/df5/a21986.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "npc_roxi_ramrocket", "d6/df5/a21986.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
+    [ "OnGossipHello", "d6/df5/a21986.html#adec28f778921246c56f11d09753e566e", null ],
+    [ "OnGossipSelect", "d6/df5/a21986.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
 ];

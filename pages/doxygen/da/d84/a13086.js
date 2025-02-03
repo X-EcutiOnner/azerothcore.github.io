@@ -1,6 +1,7 @@
 var a13086 =
 [
-    [ "FixOrientation", "da/d84/a13086.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
-    [ "Execute", "da/d84/a13086.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
-    [ "_owner", "da/d84/a13086.html#a5f12db3774bdeef25a300780c00db1fb", null ]
+    [ "OnRemove", "da/d84/a13086.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
+    [ "PrepareAuraScript", "da/d84/a13086.html#ade353aafb960cabdb615718f41f485e8", null ],
+    [ "Register", "da/d84/a13086.html#af1c312778a13f7fe8d174247f69258ac", null ],
+    [ "Validate", "da/d84/a13086.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
 ];

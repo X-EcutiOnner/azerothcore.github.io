@@ -1,9 +1,11 @@
 var a10562 =
 [
-    [ "LevelUpInfo", "d0/dad/a10562.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
-    [ "Write", "d0/dad/a10562.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
-    [ "HealthDelta", "d0/dad/a10562.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
-    [ "Level", "d0/dad/a10562.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
-    [ "PowerDelta", "d0/dad/a10562.html#a697da64ac234c24fe73e68d408697ee6", null ],
-    [ "StatDelta", "d0/dad/a10562.html#a580e4a3cd77631e960b7753542375d6d", null ]
+    [ "LFGJoin", "d0/dad/a10562.html#a50c79bdef7393907673a328bc36ff8ae", null ],
+    [ "Read", "d0/dad/a10562.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
+    [ "Achievements", "d0/dad/a10562.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
+    [ "Comment", "d0/dad/a10562.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
+    [ "Needs", "d0/dad/a10562.html#a313c16e84e2cd0b55551d16273e95917", null ],
+    [ "NoPartialClear", "d0/dad/a10562.html#aad54be871d0978034fb69a464fd5b9df", null ],
+    [ "Roles", "d0/dad/a10562.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
+    [ "Slots", "d0/dad/a10562.html#aa14a07716504723283ad80c6357cf53f", null ]
 ];

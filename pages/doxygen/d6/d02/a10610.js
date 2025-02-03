@@ -1,6 +1,5 @@
 var a10610 =
 [
-    [ "InvalidStringValueException", "d6/d02/a10610.html#a4b5442d97f2bc8005cb20eefa6c13dc8", null ],
-    [ "GetInvalidValue", "d6/d02/a10610.html#a5ef59243610de6d0a9db22ddb9cd7bdd", null ],
-    [ "_value", "d6/d02/a10610.html#a8a8c86a63c34789ab7cce999455eb4bb", null ]
+    [ "DurabilityDamageDeath", "d6/d02/a10610.html#a9b4350d37291b9b714be1563b28dcb43", null ],
+    [ "Write", "d6/d02/a10610.html#a35a93d9abeeb029f3da080487423f495", null ]
 ];

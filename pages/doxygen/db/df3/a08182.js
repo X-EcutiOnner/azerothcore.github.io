@@ -1,6 +1,6 @@
 var a08182 =
 [
-    [ "DamageMax", "db/df3/a08182.html#afc0bd7960848f6434c182a3fadc1e256", null ],
-    [ "DamageMin", "db/df3/a08182.html#acbab962cbc25ad032c97216feac281bb", null ],
-    [ "DamageType", "db/df3/a08182.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
+    [ "item_count", "db/df3/a08182.html#a437fe00f34ad414e3c9f81d01a153d13", null ],
+    [ "setid", "db/df3/a08182.html#ab8c24b76b1c0eb92c0fe52ca9baf293a", null ],
+    [ "spells", "db/df3/a08182.html#af8156bad9771ed816fd861d3eb992aaa", null ]
 ];

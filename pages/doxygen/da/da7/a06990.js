@@ -1,12 +1,11 @@
 var a06990 =
 [
-    [ "Type", "da/da7/a06990.html#abfb75b18c4a43f1818cd78212c668109", [
-      [ "LIST", "da/da7/a06990.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
-      [ "OWNER_LIST", "da/da7/a06990.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
-      [ "BIDDER_LIST", "da/da7/a06990.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
-    ] ],
-    [ "AuctionSearcherRequest", "da/da7/a06990.html#afadcce053f82ae124263a501671f35e3", null ],
-    [ "~AuctionSearcherRequest", "da/da7/a06990.html#a8122177f0ca9b5c2393e87998a15e950", null ],
-    [ "listFaction", "da/da7/a06990.html#a1847f75715da2de1098d0f767163f62d", null ],
-    [ "requestType", "da/da7/a06990.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
+    [ "GetSkillValue", "da/da7/a06990.html#a8f5894a5729d4c8d26376bbe1a2ac29e", null ],
+    [ "HasSpell", "da/da7/a06990.html#a3400ad05d8423ae6878fab815521ec6f", null ],
+    [ "PlayerCanUseItem", "da/da7/a06990.html#aee11f4f45f83664483344e3bbfba7463", null ],
+    [ "classMask", "da/da7/a06990.html#a41a57c372871c84a572d2f3697cb18aa", null ],
+    [ "level", "da/da7/a06990.html#a870f632b54e4638b1f5a4e93b6bd9e52", null ],
+    [ "raceMask", "da/da7/a06990.html#a96e56943da42f1a1258fc1d716259e1a", null ],
+    [ "skills", "da/da7/a06990.html#a55c2ad9d1cdea4913cb35deb4adc87fd", null ],
+    [ "spells", "da/da7/a06990.html#ac83cc019ceb1752ce8d6b5a3aa3d350f", null ]
 ];

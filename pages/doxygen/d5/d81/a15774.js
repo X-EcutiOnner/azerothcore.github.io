@@ -1,13 +1,14 @@
 var a15774 =
 [
-    [ "boss_twilight_halionAI", "d5/d81/a15774.html#aab05bab963d603c3cb70edfd62a84b49", null ],
-    [ "DamageTaken", "d5/d81/a15774.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
-    [ "EnterEvadeMode", "d5/d81/a15774.html#af7076251fc1fad1dc259d747934910e2", null ],
-    [ "JustDied", "d5/d81/a15774.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
-    [ "JustEngagedWith", "d5/d81/a15774.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
-    [ "KilledUnit", "d5/d81/a15774.html#ada770d51f63c841c500ffc3197a7a89f", null ],
-    [ "Reset", "d5/d81/a15774.html#a9c945841926d5b08f37c6a720dd25a14", null ],
-    [ "UpdateAI", "d5/d81/a15774.html#a6ab1d215ed077883781b0c0188282c5e", null ],
-    [ "_events", "d5/d81/a15774.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
-    [ "_instance", "d5/d81/a15774.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
+    [ "npc_onyx_flamecallerAI", "d5/d81/a15774.html#aa0633855e57f6681cfc68a8dfee9a733", null ],
+    [ "AddWaypoints", "d5/d81/a15774.html#a308b99ee4d07ed1de0cabd94dafd5dd8", null ],
+    [ "EnterEvadeMode", "d5/d81/a15774.html#ac29163e2e69cffbf21249eb3828b5b72", null ],
+    [ "IsSummonedBy", "d5/d81/a15774.html#afc6c4faffd83b2fa4ddbb4ae78b622d9", null ],
+    [ "JustEngagedWith", "d5/d81/a15774.html#a3cba2cd9a920816bee993ae2986639a0", null ],
+    [ "Reset", "d5/d81/a15774.html#a756a44feb79eb56f443ee16995a2566d", null ],
+    [ "UpdateEscortAI", "d5/d81/a15774.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
+    [ "WaypointReached", "d5/d81/a15774.html#a8b510bce47929e85741f5debd857de8d", null ],
+    [ "_events", "d5/d81/a15774.html#a9280b604135308078860c20667da9819", null ],
+    [ "_instance", "d5/d81/a15774.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
+    [ "_lavaGoutCount", "d5/d81/a15774.html#a1f46c988316c1870f506a66f2390e79b", null ]
 ];

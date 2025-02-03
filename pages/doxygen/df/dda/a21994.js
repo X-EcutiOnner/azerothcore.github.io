@@ -1,9 +1,9 @@
 var a21994 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "d6/d9b/a21998.html", "d6/d9b/a21998" ],
-    [ "NPCs", "df/dda/a21994.html#a8f2ea95c836ba6bab370301fbf3e6822", [
-      [ "NPC_HYLDSMEET_DRAKERIDER", "df/dda/a21994.html#a8f2ea95c836ba6bab370301fbf3e6822a1b77c38a75142cff5392a89db3e765df", null ]
-    ] ],
-    [ "npc_hyldsmeet_protodrake", "df/dda/a21994.html#a2471f1d858d7ae8f801208e35860a95e", null ],
-    [ "GetAI", "df/dda/a21994.html#a791e5cff3901f9a3ec365d4049b82d25", null ]
+    [ "npc_brunnhildar_prisonerAI", "df/dda/a21994.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "df/dda/a21994.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "df/dda/a21994.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "df/dda/a21994.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "df/dda/a21994.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "df/dda/a21994.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

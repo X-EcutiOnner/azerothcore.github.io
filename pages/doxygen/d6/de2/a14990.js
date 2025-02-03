@@ -1,11 +1,6 @@
 var a14990 =
 [
-    [ "npc_depth_chargeAI", "d6/de2/a14990.html#a088848c16418964973107e125c20f508", null ],
-    [ "AttackStart", "d6/de2/a14990.html#a1ec6e2ea0cc61262932f63f764273cdb", null ],
-    [ "JustEngagedWith", "d6/de2/a14990.html#a90cc6eab8b63588f2567f59941eafc59", null ],
-    [ "MoveInLineOfSight", "d6/de2/a14990.html#a8342b7fc7677ac94757c725ec4063e9e", null ],
-    [ "Reset", "d6/de2/a14990.html#aaccf632a50749c0f6d6f29bb1b1bf5a4", null ],
-    [ "UpdateAI", "d6/de2/a14990.html#af34e55c3aee40f840edf695adc06495e", null ],
-    [ "WeMustDie", "d6/de2/a14990.html#a7b25b1228cf5029f1ebe653c76cf9843", null ],
-    [ "WeMustDieTimer", "d6/de2/a14990.html#a23e4f1f7079d12e78c74c21171d95cc7", null ]
+    [ "npc_muglashAI", "dc/ddb/a14994.html", "dc/ddb/a14994" ],
+    [ "npc_muglash", "d6/de2/a14990.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
+    [ "GetAI", "d6/de2/a14990.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
 ];

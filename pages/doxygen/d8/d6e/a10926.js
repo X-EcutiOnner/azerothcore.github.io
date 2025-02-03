@@ -1,7 +1,7 @@
 var a10926 =
 [
-    [ "WorldObjectSpellAreaTargetCheck", "d8/d6e/a10926.html#a2b017300220426ac42de18e3a8699219", null ],
-    [ "operator()", "d8/d6e/a10926.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
-    [ "_position", "d8/d6e/a10926.html#a680c45dd148161657da011a1772375ca", null ],
-    [ "_range", "d8/d6e/a10926.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ]
+    [ "chance", "d8/d6e/a10926.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "d8/d6e/a10926.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "d8/d6e/a10926.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "d8/d6e/a10926.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

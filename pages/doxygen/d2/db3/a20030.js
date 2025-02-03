@@ -1,6 +1,7 @@
 var a20030 =
 [
-    [ "boss_kologarn_armsAI", "d6/d47/a20034.html", "d6/d47/a20034" ],
-    [ "boss_kologarn_arms", "d2/db3/a20030.html#ad540d28bb4b8a2be0ca0769f114c3eda", null ],
-    [ "GetAI", "d2/db3/a20030.html#a9ffe4db97d937e01c5ab2008a011f67d", null ]
+    [ "HandleScript", "d2/db3/a20030.html#a760bb60198017605111d02af98c827b1", null ],
+    [ "PrepareSpellScript", "d2/db3/a20030.html#a6128956f1037b62fff2e6f10ec22d956", null ],
+    [ "Register", "d2/db3/a20030.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
+    [ "Validate", "d2/db3/a20030.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
 ];

@@ -1,8 +1,7 @@
 var a13578 =
 [
-    [ "npc_zulaman_hostageAI", "db/d4d/a13582.html", "db/d4d/a13582" ],
-    [ "npc_zulaman_hostage", "d2/d46/a13578.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
-    [ "GetAI", "d2/d46/a13578.html#a0ae144dc154dd028b409c9d2393f890c", null ],
-    [ "OnGossipHello", "d2/d46/a13578.html#a89d68a976f916a4de2196b57ec0026b0", null ],
-    [ "OnGossipSelect", "d2/d46/a13578.html#a114f6fbfab90944fd49babcba4b48a11", null ]
+    [ "HandleScript", "d2/d46/a13578.html#ac45614416a710794b3e3a5cee239e28a", null ],
+    [ "PrepareSpellScript", "d2/d46/a13578.html#a832aee6557e27bfa418957297a05bea3", null ],
+    [ "Register", "d2/d46/a13578.html#a2f5d255de09818203e498c0090bdd3fb", null ],
+    [ "Validate", "d2/d46/a13578.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
 ];

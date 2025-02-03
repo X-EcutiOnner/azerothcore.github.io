@@ -1,6 +1,7 @@
 var a15962 =
 [
-    [ "npc_black_knight_ghoulAI", "da/d74/a15966.html", "da/d74/a15966" ],
-    [ "npc_black_knight_ghoul", "d0/dfb/a15962.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
-    [ "GetAI", "d0/dfb/a15962.html#a52308f8d168e1ccea22de653813b7f6f", null ]
+    [ "HandleAfterEffectAbsorb", "d0/dfb/a15962.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "d0/dfb/a15962.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "d0/dfb/a15962.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "d0/dfb/a15962.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

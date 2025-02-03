@@ -1,6 +1,6 @@
 var a17558 =
 [
-    [ "PrepareSpellScript", "d3/d10/a17558.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "d3/d10/a17558.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "d3/d10/a17558.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "npc_volatile_oozeAI", "d6/dc8/a17562.html", "d6/dc8/a17562" ],
+    [ "npc_volatile_ooze", "d3/d10/a17558.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "d3/d10/a17558.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

@@ -1,8 +1,13 @@
 var a08014 =
 [
-    [ "IsInSpec", "d6/d4e/a08014.html#a77968b5562467f85bda04b6f2f41ca29", null ],
-    [ "inSpellBook", "d6/d4e/a08014.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
-    [ "specMask", "d6/d4e/a08014.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
-    [ "State", "d6/d4e/a08014.html#a062758af7e92f7e2263ca0a0fd329151", null ],
-    [ "talentID", "d6/d4e/a08014.html#aca9b191361652002f5178179a939e41b", null ]
+    [ "AnimationInfo", "d6/d4e/a08014.html#aa443028e95ae416e09f1acfef0575803", null ],
+    [ "Building", "d6/d4e/a08014.html#aae3dbb59dc70ee4d5d0a10390200c66e", null ],
+    [ "CapturePoint", "d6/d4e/a08014.html#a6be6a6549054045466f377cf8a55790a", null ],
+    [ "FishingHole", "d6/d4e/a08014.html#a7c7b99d5e85617c9f74ba20babb8f08b", null ],
+    [ "Health", "d6/d4e/a08014.html#af70b72663064c9c4b88c93a824f1e14b", null ],
+    [ "MaxHealth", "d6/d4e/a08014.html#ab606f11596c1dd3d1cf7588346338721", null ],
+    [ "MaxOpens", "d6/d4e/a08014.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
+    [ "OPvPObj", "d6/d4e/a08014.html#a565624b690fa7fabf21b175548765652", null ],
+    [ "PathProgress", "d6/d4e/a08014.html#a9e07a147b2be08a78f052e0cdb817111", null ],
+    [ "Transport", "d6/d4e/a08014.html#a3fe65f8be0137e71908c037b0d279c27", null ]
 ];

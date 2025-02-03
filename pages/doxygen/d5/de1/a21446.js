@@ -1,12 +1,8 @@
 var a21446 =
 [
-    [ "npc_wintergarde_gryphon", "d5/de1/a21446.html#ada46ecdbc8c3a33a7b3ce09296c0db72", null ],
-    [ "getVillager", "d5/de1/a21446.html#a7f20f5e124e013ad8f57ca31b9fb86d7", null ],
-    [ "IsSummonedBy", "d5/de1/a21446.html#acd7cea6226034d53b854c5ed659ff949", null ],
-    [ "JustDied", "d5/de1/a21446.html#a6c87d55ef29e14b4b8b87a0321179542", null ],
-    [ "MovementInform", "d5/de1/a21446.html#a8f2faf49533d27d971110681e050c060", null ],
-    [ "PassengerBoarded", "d5/de1/a21446.html#a16c01d26aef06358f979f59fe68c09ca", null ],
-    [ "SpellHit", "d5/de1/a21446.html#acf64143ea83321556156fde30e1a34d4", null ],
-    [ "UpdateAI", "d5/de1/a21446.html#aa161f280e7a7370696cecc27c51ee55c", null ],
-    [ "villagerGUID", "d5/de1/a21446.html#a56a7973a05061197192111ecf55ef14a", null ]
+    [ "npc_future_youAI", "d5/de1/a21446.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "d5/de1/a21446.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "d5/de1/a21446.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "d5/de1/a21446.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "d5/de1/a21446.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

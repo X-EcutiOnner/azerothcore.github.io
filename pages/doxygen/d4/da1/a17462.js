@@ -1,7 +1,6 @@
 var a17462 =
 [
-    [ "OnPeriodic", "d4/da1/a17462.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
-    [ "PrepareAuraScript", "d4/da1/a17462.html#a0e87dae1be4f69e6412129f14056eb79", null ],
-    [ "Register", "d4/da1/a17462.html#a1b26d102252bf7e0fd480076820d343f", null ],
-    [ "Validate", "d4/da1/a17462.html#a211d52aa385a874730abc43b083f2d22", null ]
+    [ "npc_vengeful_shadeAI", "dc/d19/a17466.html", "dc/d19/a17466" ],
+    [ "npc_vengeful_shade", "d4/da1/a17462.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
+    [ "GetAI", "d4/da1/a17462.html#afa2c672015b43d83bd55050ed020f7e5", null ]
 ];

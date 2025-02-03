@@ -1,5 +1,6 @@
 var a22170 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "dc/d99/a22170.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
-    [ "GetOutdoorPvP", "dc/d99/a22170.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
+    [ "npc_crusade_recruitAI", "d2/df6/a22174.html", "d2/df6/a22174" ],
+    [ "npc_crusade_recruit", "dc/d99/a22170.html#a6e130f153c506255ef5ece1baf006028", null ],
+    [ "GetAI", "dc/d99/a22170.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
 ];

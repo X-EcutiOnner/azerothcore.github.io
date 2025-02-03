@@ -1,6 +1,9 @@
 var a17870 =
 [
-    [ "VileSpiritActivateEvent", "df/d55/a17870.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
-    [ "Execute", "df/d55/a17870.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
-    [ "_owner", "df/d55/a17870.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
+    [ "ShadowTrapLKTargetSelector", "df/d55/a17870.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "df/d55/a17870.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "df/d55/a17870.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "df/d55/a17870.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "df/d55/a17870.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "df/d55/a17870.html#af416013aabf3b217b07228072076603d", null ]
 ];

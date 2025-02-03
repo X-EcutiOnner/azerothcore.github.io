@@ -1,8 +1,7 @@
 var a13134 =
 [
-    [ "boss_muru", "d6/d2d/a13134.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
-    [ "DamageTaken", "d6/d2d/a13134.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
-    [ "JustEngagedWith", "d6/d2d/a13134.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
-    [ "JustSummoned", "d6/d2d/a13134.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
-    [ "Reset", "d6/d2d/a13134.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
+    [ "HandleScriptEffect", "d6/d2d/a13134.html#ae631c634c77cc207338e3549a664969b", null ],
+    [ "PrepareSpellScript", "d6/d2d/a13134.html#ac9f825f10512be5849c46460e9cdbec8", null ],
+    [ "Register", "d6/d2d/a13134.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
+    [ "Validate", "d6/d2d/a13134.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
 ];

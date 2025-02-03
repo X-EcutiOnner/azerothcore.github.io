@@ -1,7 +1,27 @@
 var a12362 =
 [
-    [ "boss_maiden_of_virtue", "db/d6b/a12362.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "db/d6b/a12362.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "db/d6b/a12362.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "db/d6b/a12362.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "npc_echo_of_medivh", "db/d6b/a12362.html#a8daae7bf56be7abea6a2b4e44a456e8d", null ],
+    [ "CastChangeFacing", "db/d6b/a12362.html#ab4e7bfde2f557adecd2babe92ec80c61", null ],
+    [ "GetHostileTargetForChangeFacing", "db/d6b/a12362.html#ad1618ff00a38db0e009dc51ff72a56d9", null ],
+    [ "GetPiece", "db/d6b/a12362.html#a05127264eb0816e706fdffbcebadde62", null ],
+    [ "HandleCellInitialData", "db/d6b/a12362.html#a70a29e7257d501867b546a4f2ac3d2cb", null ],
+    [ "HandleCheat", "db/d6b/a12362.html#a49c0f6bb15d9ac92e4ce5472c1d19c8e", null ],
+    [ "HandlePieceJustDied", "db/d6b/a12362.html#aaaafdd11e6535a50a52eb4ec8eca068d", null ],
+    [ "HandlePieceMove", "db/d6b/a12362.html#a46368e189117fd61bd3dde3c9f603e97", null ],
+    [ "HandlePieceMoveByAI", "db/d6b/a12362.html#ad1e39dc9dc1dae049fbd94e94cfd535e", null ],
+    [ "HandlePieceRotate", "db/d6b/a12362.html#a81ca97597748bdb3c3b85b7afd8650be", null ],
+    [ "IsMedivhPiece", "db/d6b/a12362.html#ac6e38bc98f89ea6f6eabaf0321fe6793", null ],
+    [ "JustSummoned", "db/d6b/a12362.html#a5df890b728d6fb7d092543b53d9928a6", null ],
+    [ "RemoveCheats", "db/d6b/a12362.html#a36bb27743c6c8de777741fea6a16202b", null ],
+    [ "Reset", "db/d6b/a12362.html#a022322f875e81d18573806226ff10a9c", null ],
+    [ "SetupBoard", "db/d6b/a12362.html#ab8c6f0ff4495332429734665d86c7157", null ],
+    [ "sGossipHello", "db/d6b/a12362.html#a48bfda5cf3fe7778d24be4b85768eea6", null ],
+    [ "sGossipSelect", "db/d6b/a12362.html#a734e5b7531437304f780fe56309d9a6b", null ],
+    [ "SummonedCreatureDespawn", "db/d6b/a12362.html#a997122c3611cdc26b62b2840e5823cfb", null ],
+    [ "UpdateAI", "db/d6b/a12362.html#ac147e299fef7421b7a6932161a6139f7", null ],
+    [ "_boards", "db/d6b/a12362.html#a1822e85399368edeac079c4778efc66b", null ],
+    [ "_cheatTimer", "db/d6b/a12362.html#aa6b9738bc5ad08fa8afab028f1b440cc", null ],
+    [ "_deadCount", "db/d6b/a12362.html#af401c33d5dfe5b6b28f941353333d92d", null ],
+    [ "_instance", "db/d6b/a12362.html#abcc815f169610660cb4e13a5be3be602", null ],
+    [ "_summons", "db/d6b/a12362.html#ac15d663d4905f9ae30485ba0104bee82", null ]
 ];

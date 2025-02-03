@@ -1,10 +1,7 @@
 var a13710 =
 [
-    [ "npc_batrider", "d7/d05/a13710.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
-    [ "DamageTaken", "d7/d05/a13710.html#ad4818b1363082a91223526908c38777c", null ],
-    [ "JustEngagedWith", "d7/d05/a13710.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
-    [ "Reset", "d7/d05/a13710.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
-    [ "UpdateAI", "d7/d05/a13710.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
-    [ "_mode", "d7/d05/a13710.html#acd53ec78a754219511af1ad2f11422a9", null ],
-    [ "_scheduler", "d7/d05/a13710.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
+    [ "OnRemove", "d7/d05/a13710.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "d7/d05/a13710.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "d7/d05/a13710.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "d7/d05/a13710.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

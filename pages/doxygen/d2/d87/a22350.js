@@ -1,6 +1,12 @@
 var a22350 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d9/dd9/a22354.html", "d9/dd9/a22354" ],
-    [ "instance_sethekk_halls", "d2/d87/a22350.html#ab50d296266cf377bfb34750ec36963ef", null ],
-    [ "GetInstanceScript", "d2/d87/a22350.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
+    [ "boss_anzu", "d2/d87/a22350.html#aef8c5c57afa95936d8c2809fa1257799", null ],
+    [ "JustEngagedWith", "d2/d87/a22350.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
+    [ "Reset", "d2/d87/a22350.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
+    [ "SummonBroods", "d2/d87/a22350.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
+    [ "SummonedCreatureDies", "d2/d87/a22350.html#a2e35df609db069c8d31afffabcfead34", null ],
+    [ "SummonSpirits", "d2/d87/a22350.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
+    [ "UpdateAI", "d2/d87/a22350.html#a06373460d454bfaf8db793e591cc0abd", null ],
+    [ "AnzuSpiritPos", "d2/d87/a22350.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
+    [ "talkTimer", "d2/d87/a22350.html#a2afae53534d9e777c90d09456f834b5d", null ]
 ];

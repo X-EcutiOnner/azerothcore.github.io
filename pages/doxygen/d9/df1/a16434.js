@@ -1,7 +1,6 @@
 var a16434 =
 [
-    [ "HandleScriptEffect", "d9/df1/a16434.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "d9/df1/a16434.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "d9/df1/a16434.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "d9/df1/a16434.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "HandleScriptEffect", "d9/df1/a16434.html#a90b13b2a093fdd430a383d7ea4126290", null ],
+    [ "PrepareSpellScript", "d9/df1/a16434.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
+    [ "Register", "d9/df1/a16434.html#a53c8d47ee21637055ad901946be1e2c2", null ]
 ];

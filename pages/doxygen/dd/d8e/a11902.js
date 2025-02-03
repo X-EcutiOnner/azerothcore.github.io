@@ -1,6 +1,6 @@
 var a11902 =
 [
-    [ "boss_urok_doomhowlAI", "da/df4/a11906.html", "da/df4/a11906" ],
-    [ "boss_urok_doomhowl", "dd/d8e/a11902.html#a0ca9cea9919648baa5ff7db2d5a5b530", null ],
-    [ "GetAI", "dd/d8e/a11902.html#ac77756af77191e02df49161da0ace268", null ]
+    [ "OrcDeathEvent", "dd/d8e/a11902.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
+    [ "Execute", "dd/d8e/a11902.html#a293ec6667da669a27fe75965f919cd68", null ],
+    [ "_me", "dd/d8e/a11902.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
 ];

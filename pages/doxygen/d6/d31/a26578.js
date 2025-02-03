@@ -1,6 +1,6 @@
 var a26578 =
 [
-    [ "PrepareSpellScript", "d6/d31/a26578.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "d6/d31/a26578.html#a81bc86c83ffc70602410912870e61700", null ],
-    [ "VictoryRushHit", "d6/d31/a26578.html#a89387a25e67af1d47ef7f5b95344ccb0", null ]
+    [ "PrepareAuraScript", "d6/d31/a26578.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "d6/d31/a26578.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "d6/d31/a26578.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

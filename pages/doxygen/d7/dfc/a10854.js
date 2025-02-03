@@ -1,5 +1,8 @@
 var a10854 =
 [
-    [ "AbsorbAuraOrderPred", "d7/dfc/a10854.html#a30283854715c90496e14d260f913f5fa", null ],
-    [ "operator()", "d7/dfc/a10854.html#a8f705a8b053ef6ff2e2827b4c7f9c643", null ]
+    [ "SkillPerfectItemEntry", "d7/dfc/a10854.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
+    [ "SkillPerfectItemEntry", "d7/dfc/a10854.html#a678f9908440187faad38c0e1ffaf82de", null ],
+    [ "perfectCreateChance", "d7/dfc/a10854.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
+    [ "perfectItemType", "d7/dfc/a10854.html#a057605f8867d4df5cb290318598a2908", null ],
+    [ "requiredSpecialization", "d7/dfc/a10854.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
 ];

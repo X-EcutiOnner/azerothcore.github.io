@@ -1,11 +1,6 @@
 var a15130 =
 [
-    [ "npc_troll_volunteerAI", "db/d6e/a15130.html#a7eb0c508122616a6781c8b23210e4062", null ],
-    [ "GetMountId", "db/d6e/a15130.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
-    [ "InitializeAI", "db/d6e/a15130.html#a1c758c7601624e0620778e13e8ec60a0", null ],
-    [ "MovementInform", "db/d6e/a15130.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
-    [ "Reset", "db/d6e/a15130.html#a31439533de41c2a459af2b4d3af76139", null ],
-    [ "SpellHit", "db/d6e/a15130.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
-    [ "_complete", "db/d6e/a15130.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
-    [ "_mountModel", "db/d6e/a15130.html#ae226345bd324b9c337dc96570117d82b", null ]
+    [ "npc_tiger_matriarch_creditAI", "df/d2f/a15134.html", "df/d2f/a15134" ],
+    [ "npc_tiger_matriarch_credit", "db/d6e/a15130.html#a9d76e8e808c828da501551025eecd8ea", null ],
+    [ "GetAI", "db/d6e/a15130.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
 ];

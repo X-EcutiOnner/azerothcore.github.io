@@ -1,11 +1,6 @@
 var a18934 =
 [
-    [ "npc_nexus_lordAI", "d1/d48/a18934.html#a8d26337fdcd055027a20ea91faf7e01b", null ],
-    [ "AttackStart", "d1/d48/a18934.html#a2f56dcac815431c887b95e9c09aec361", null ],
-    [ "JustDied", "d1/d48/a18934.html#a828007757a618affad71b955681945cf", null ],
-    [ "JustEngagedWith", "d1/d48/a18934.html#acfcf227557b1e212eda385e22ccdb981", null ],
-    [ "UpdateAI", "d1/d48/a18934.html#ad7ddb98d2daaed386e713e423de4cac9", null ],
-    [ "events", "d1/d48/a18934.html#ad20a56e52b22306ca31406d8defa4aa5", null ],
-    [ "pInstance", "d1/d48/a18934.html#a81fae70688bcd8c733ea90b06900503d", null ],
-    [ "timer", "d1/d48/a18934.html#a8edb133f7ca01a4aa75345c572a505c7", null ]
+    [ "npc_vortex_rideAI", "de/db7/a18938.html", "de/db7/a18938" ],
+    [ "npc_vortex_ride", "d1/d48/a18934.html#ad794cda407c9dfc35dd9bc2724f5014a", null ],
+    [ "GetAI", "d1/d48/a18934.html#a23ef53feb432127db2620810a55d02ff", null ]
 ];

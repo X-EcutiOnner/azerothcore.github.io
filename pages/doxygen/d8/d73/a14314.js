@@ -1,9 +1,9 @@
 var a14314 =
 [
-    [ "boss_azgalor", "d8/d73/a14314.html#ac794e0eacc2d543fa62e4b521089f080", null ],
-    [ "DoAction", "d8/d73/a14314.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
-    [ "JustDied", "d8/d73/a14314.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
-    [ "JustEngagedWith", "d8/d73/a14314.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
-    [ "KilledUnit", "d8/d73/a14314.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
-    [ "_recentlySpoken", "d8/d73/a14314.html#abea34396ddde0aa02a073b2f3119fec9", null ]
+    [ "npc_ancient_wisp", "d8/d73/a14314.html#a70e45e500b3490a034b058ca2ec16d39", null ],
+    [ "DamageTaken", "d8/d73/a14314.html#ad7d96e6b54cdc23a5101338474125e71", null ],
+    [ "JustEngagedWith", "d8/d73/a14314.html#a755ed852b3149ada65c5750410776fc8", null ],
+    [ "Reset", "d8/d73/a14314.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
+    [ "UpdateAI", "d8/d73/a14314.html#a51ca214de826d7126f32e49f6852bca3", null ],
+    [ "_instance", "d8/d73/a14314.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
 ];

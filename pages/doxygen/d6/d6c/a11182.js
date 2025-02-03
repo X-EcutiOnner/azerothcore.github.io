@@ -1,8 +1,13 @@
 var a11182 =
 [
-    [ "CreatureTextId", "d6/d6c/a11182.html#ae8058e922bafc69b718ca4be1be39688", null ],
-    [ "operator<", "d6/d6c/a11182.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
-    [ "entry", "d6/d6c/a11182.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
-    [ "textGroup", "d6/d6c/a11182.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
-    [ "textId", "d6/d6c/a11182.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
+    [ "PlayerTextBuilder", "d6/d6c/a11182.html#a0740c581636009448fe2c29084db41ae", null ],
+    [ "operator()", "d6/d6c/a11182.html#a64d2905971ecd645e364a774f320a721", null ],
+    [ "_gender", "d6/d6c/a11182.html#aece205d3d523dcf6fefbdd9914943723", null ],
+    [ "_language", "d6/d6c/a11182.html#a934d4a519c2c7b4017805b3bc24a4714", null ],
+    [ "_msgType", "d6/d6c/a11182.html#af546f2788870b8b10b3405695ef81171", null ],
+    [ "_source", "d6/d6c/a11182.html#a9fe9f865b0ba84b5497e63947893533e", null ],
+    [ "_talker", "d6/d6c/a11182.html#a8a8cd00cc76e048500800938a773aa06", null ],
+    [ "_target", "d6/d6c/a11182.html#ac97cf187d079c5162e47bebb7024faa5", null ],
+    [ "_textGroup", "d6/d6c/a11182.html#ab44fe12e73da36acb1199987e8573467", null ],
+    [ "_textId", "d6/d6c/a11182.html#a17b33a9a05a77722219a85a71f3bbc5e", null ]
 ];

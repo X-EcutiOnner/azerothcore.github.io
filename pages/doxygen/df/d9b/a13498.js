@@ -1,7 +1,11 @@
 var a13498 =
 [
-    [ "FilterTargets", "df/d9b/a13498.html#aebe9055301495dd3a21736b9a2a35f31", null ],
-    [ "HandleDamageCalc", "df/d9b/a13498.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
-    [ "PrepareSpellScript", "df/d9b/a13498.html#a03b8e21e58988d9fc774205263c0817f", null ],
-    [ "Register", "df/d9b/a13498.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
+    [ "npc_tapoke_slim_jahnAI", "df/d9b/a13498.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
+    [ "AttackedBy", "df/d9b/a13498.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
+    [ "DamageTaken", "df/d9b/a13498.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
+    [ "JustEngagedWith", "df/d9b/a13498.html#a544b8eaee365217a4a735ed39b4607b2", null ],
+    [ "JustSummoned", "df/d9b/a13498.html#ae468305fbe930baf0a1547f2e6de9953", null ],
+    [ "Reset", "df/d9b/a13498.html#a5aeaa5511584d1095639e7df584019c5", null ],
+    [ "WaypointReached", "df/d9b/a13498.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
+    [ "IsFriendSummoned", "df/d9b/a13498.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
 ];

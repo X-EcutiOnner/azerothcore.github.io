@@ -1,5 +1,5 @@
 var a03986 =
 [
-    [ "tele_commandscript", "dd/d35/a11538.html", "dd/d35/a11538" ],
-    [ "AddSC_tele_commandscript", "d7/df2/a03986.html#a75673ffc02c68c43cefd69bb0648dd53", null ]
+    [ "player_settings_commandscript", "da/dbd/a11526.html", "da/dbd/a11526" ],
+    [ "AddSC_player_settings_commandscript", "d7/df2/a03986.html#a366685affd5565d164c65f8cd4a20b61", null ]
 ];

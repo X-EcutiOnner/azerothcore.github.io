@@ -1,6 +1,5 @@
 var a16314 =
 [
-    [ "HandleEffectPeriodic", "d7/d89/a16314.html#a8775f4e2cb6be96f57596413d560206c", null ],
-    [ "PrepareAuraScript", "d7/d89/a16314.html#a45118f9887d248a5eb840b945dee5b79", null ],
-    [ "Register", "d7/d89/a16314.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
+    [ "boss_fjolaAI", "d7/d89/a16314.html#aa46fdff841d01f28ef50aa5363082f71", null ],
+    [ "JustSummoned", "d7/d89/a16314.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
 ];

@@ -1,8 +1,10 @@
 var a14946 =
 [
-    [ "npc_ahnqiraji_critter", "dc/d7a/a14946.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "dc/d7a/a14946.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "dc/d7a/a14946.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "dc/d7a/a14946.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "dc/d7a/a14946.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "npc_anubisath_defender", "dc/d7a/a14946.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "dc/d7a/a14946.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "dc/d7a/a14946.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "dc/d7a/a14946.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "dc/d7a/a14946.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "dc/d7a/a14946.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "dc/d7a/a14946.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

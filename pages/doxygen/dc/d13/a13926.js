@@ -1,7 +1,9 @@
 var a13926 =
 [
-    [ "npc_direbrew_minion", "dc/d13/a13926.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
-    [ "IsSummonedBy", "dc/d13/a13926.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
-    [ "Reset", "dc/d13/a13926.html#a21fb7a778e9025ca4185951460a96d08", null ],
-    [ "_instance", "dc/d13/a13926.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
+    [ "npc_brew_bubble", "dc/d13/a13926.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "dc/d13/a13926.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "dc/d13/a13926.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "dc/d13/a13926.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "dc/d13/a13926.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "dc/d13/a13926.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

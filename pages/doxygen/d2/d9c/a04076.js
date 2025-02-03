@@ -1,5 +1,6 @@
 var a04076 =
 [
-    [ "list_commandscript", "da/d10/a11462.html", "da/d10/a11462" ],
-    [ "AddSC_list_commandscript", "d2/d9c/a04076.html#a81af00772e7a06ad952109222b1f53a3", null ]
+    [ "character_commandscript", "d6/d0f/a11398.html", "d6/d0f/a11398" ],
+    [ "character_commandscript::DeletedInfo", "d2/d1a/a11402.html", "d2/d1a/a11402" ],
+    [ "AddSC_character_commandscript", "d2/d9c/a04076.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
 ];

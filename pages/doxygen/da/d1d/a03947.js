@@ -1,5 +1,5 @@
 var a03947 =
 [
-    [ "item_commandscript", "d5/df9/a11450.html", "d5/df9/a11450" ],
-    [ "AddSC_item_commandscript", "da/d1d/a03947.html#ad129450eb89b9c3e5c98717b2c44de8e", null ]
+    [ "go_commandscript", "d7/d35/a11438.html", "d7/d35/a11438" ],
+    [ "AddSC_go_commandscript", "da/d1d/a03947.html#a95fcb467686a27e069827ed3775df197", null ]
 ];

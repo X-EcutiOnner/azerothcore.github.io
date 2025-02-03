@@ -1,6 +1,8 @@
 var a12274 =
 [
-    [ "bossId", "d5/d3c/a12274.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
-    [ "circleId", "d5/d3c/a12274.html#aaa379e61fda2f7225ab4089757df5d24", null ],
-    [ "runeId", "d5/d3c/a12274.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
+    [ "FilterTargets", "d5/d3c/a12274.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
+    [ "HandleScript", "d5/d3c/a12274.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
+    [ "PrepareSpellScript", "d5/d3c/a12274.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
+    [ "Register", "d5/d3c/a12274.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
+    [ "Validate", "d5/d3c/a12274.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
 ];

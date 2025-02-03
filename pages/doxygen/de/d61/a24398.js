@@ -1,6 +1,7 @@
 var a24398 =
 [
-    [ "CheckCast", "de/d61/a24398.html#a583e19667a83ada4cd793fbf391f9e93", null ],
-    [ "PrepareSpellScript", "de/d61/a24398.html#ac6adda0dbe544cf2457060647c01de0f", null ],
-    [ "Register", "de/d61/a24398.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
+    [ "AfterApply", "de/d61/a24398.html#adae232af9445638b3d54e81d414483b7", null ],
+    [ "AfterRemove", "de/d61/a24398.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
+    [ "PrepareAuraScript", "de/d61/a24398.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
+    [ "Register", "de/d61/a24398.html#abff75ea597dcc017a359a5ef3ada4314", null ]
 ];

@@ -1,8 +1,6 @@
 var a21894 =
 [
-    [ "npc_adventurous_dwarfAI", "df/dc1/a21898.html", "df/dc1/a21898" ],
-    [ "npc_adventurous_dwarf", "d7/da8/a21894.html#a15c39e217907189db9be7799e696f310", null ],
-    [ "GetAI", "d7/da8/a21894.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
-    [ "OnGossipHello", "d7/da8/a21894.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
-    [ "OnGossipSelect", "d7/da8/a21894.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
+    [ "npc_bushwhackerAI", "d7/da8/a21894.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d7/da8/a21894.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d7/da8/a21894.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

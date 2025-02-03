@@ -1,5 +1,7 @@
 var a14958 =
 [
-    [ "at_battleguard_sartura", "d5/dac/a14958.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
-    [ "OnTrigger", "d5/dac/a14958.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
+    [ "npc_anubisath_warder", "d5/dac/a14958.html#aebe14673e5c31000a9626e39d87c6775", null ],
+    [ "JustEngagedWith", "d5/dac/a14958.html#a579318fa519eb669573b2cea78c2fee3", null ],
+    [ "Reset", "d5/dac/a14958.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
+    [ "UpdateAI", "d5/dac/a14958.html#aba428f1f1a016191aa4f168c616c3a29", null ]
 ];

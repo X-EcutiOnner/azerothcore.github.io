@@ -1,6 +1,6 @@
 var a12278 =
 [
-    [ "instance_molten_core_InstanceMapScript", "de/db5/a12282.html", "de/db5/a12282" ],
-    [ "instance_molten_core", "d0/d48/a12278.html#ad83dac834feb2fcae872dfe09b833950", null ],
-    [ "GetInstanceScript", "d0/d48/a12278.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
+    [ "boss_sulfuronAI", "de/db5/a12282.html", "de/db5/a12282" ],
+    [ "boss_sulfuron", "d0/d48/a12278.html#aed72791db02009136592b905cc4f4df3", null ],
+    [ "GetAI", "d0/d48/a12278.html#aced001845e4a9bb9f517d45a36f474c7", null ]
 ];

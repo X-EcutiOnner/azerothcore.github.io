@@ -1,7 +1,9 @@
 var a12066 =
 [
-    [ "HandleDummy", "dd/d80/a12066.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
-    [ "PrepareSpellScript", "dd/d80/a12066.html#a6ec124990f202af0c6063c285bf04d88", null ],
-    [ "Register", "dd/d80/a12066.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
-    [ "Validate", "dd/d80/a12066.html#ae35efa08f507aac5b72166a216d01870", null ]
+    [ "npc_drakonid_spawner", "dd/d80/a12066.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "dd/d80/a12066.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "dd/d80/a12066.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "dd/d80/a12066.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "dd/d80/a12066.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "dd/d80/a12066.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

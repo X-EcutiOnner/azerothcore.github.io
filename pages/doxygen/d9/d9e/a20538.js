@@ -1,6 +1,6 @@
 var a20538 =
 [
-    [ "boss_yoggsaron_constrictor_tentacleAI", "d8/d85/a20542.html", "d8/d85/a20542" ],
-    [ "boss_yoggsaron_constrictor_tentacle", "d9/d9e/a20538.html#a131809f1c691e55a33863caf6fe0c5dc", null ],
-    [ "GetAI", "d9/d9e/a20538.html#ac469d5661eb664c73bf5ab38084cb03e", null ]
+    [ "boss_yoggsaron_death_orbAI", "d9/d9e/a20538.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
+    [ "UpdateAI", "d9/d9e/a20538.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
+    [ "_startTimer", "d9/d9e/a20538.html#aebc8edef5f84219e1c50f2394d129443", null ]
 ];

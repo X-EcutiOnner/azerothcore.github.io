@@ -1,6 +1,6 @@
 var a15870 =
 [
-    [ "npc_living_infernoAI", "d4/d2f/a15870.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "d4/d2f/a15870.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "d4/d2f/a15870.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "PrepareSpellScript", "d4/d2f/a15870.html#a743f910c3854e2c4e726e97c55fa7038", null ],
+    [ "Register", "d4/d2f/a15870.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
+    [ "RemoveNotBetween", "d4/d2f/a15870.html#aba462e5b8e9336a508d19606f98750b5", null ]
 ];

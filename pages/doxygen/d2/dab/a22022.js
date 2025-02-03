@@ -1,8 +1,9 @@
 var a22022 =
 [
-    [ "npc_wg_spirit_guideAI", "d6/de3/a22026.html", "d6/de3/a22026" ],
-    [ "npc_wg_spirit_guide", "d2/dab/a22022.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
-    [ "GetAI", "d2/dab/a22022.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
-    [ "OnGossipHello", "d2/dab/a22022.html#a2d46078cb47f817239685d168f7f2e35", null ],
-    [ "OnGossipSelect", "d2/dab/a22022.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
+    [ "HandlePeriodic", "d2/dab/a22022.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "d2/dab/a22022.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "d2/dab/a22022.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "d2/dab/a22022.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "d2/dab/a22022.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "d2/dab/a22022.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

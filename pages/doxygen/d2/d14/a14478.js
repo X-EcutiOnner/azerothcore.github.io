@@ -1,7 +1,6 @@
 var a14478 =
 [
-    [ "boss_epoch_hunter", "d2/d14/a14478.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "d2/d14/a14478.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "d2/d14/a14478.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "d2/d14/a14478.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "npc_cos_stratholme_citizienAI", "dc/d30/a14482.html", "dc/d30/a14482" ],
+    [ "npc_cos_stratholme_citizien", "d2/d14/a14478.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
+    [ "GetAI", "d2/d14/a14478.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
 ];

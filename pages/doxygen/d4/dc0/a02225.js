@@ -1,5 +1,5 @@
 var a02225 =
 [
-    [ "GameObjectAI", "d9/d7a/a05990.html", "d9/d7a/a05990" ],
-    [ "NullGameObjectAI", "de/d1f/a05994.html", "de/d1f/a05994" ]
+    [ "GameObjectAI", "de/d1f/a05994.html", "de/d1f/a05994" ],
+    [ "NullGameObjectAI", "dd/d5d/a05998.html", "dd/d5d/a05998" ]
 ];

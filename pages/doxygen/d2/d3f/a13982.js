@@ -1,11 +1,8 @@
 var a13982 =
 [
-    [ "npc_elder_kekek", "d2/d3f/a13982.html#a6084af39be5c70699c9fdcf3cd58e954", null ],
-    [ "MoveInLineOfSight", "d2/d3f/a13982.html#a0c673e4fdf8e75d3bc8570db166bcd95", null ],
-    [ "Reset", "d2/d3f/a13982.html#a97e615bdefba5baf459960fc2987cd69", null ],
-    [ "UpdateAI", "d2/d3f/a13982.html#a5823bc7164d797c40d48b9b74642d9b5", null ],
-    [ "orphanGUID", "d2/d3f/a13982.html#a98c79e46e051c35819c6025828a519cb", null ],
-    [ "phase", "d2/d3f/a13982.html#a99fd9d984f92d5ba8b5876675855d4f6", null ],
-    [ "playerGUID", "d2/d3f/a13982.html#a614ed3332f4af3c5178aa69da968a3d3", null ],
-    [ "timer", "d2/d3f/a13982.html#a445c048d8858f5dc7c1e88308ed7e5ab", null ]
+    [ "OnApply", "d2/d3f/a13982.html#a6f3f05316f025ef638672a82cc855136", null ],
+    [ "PeriodicTick", "d2/d3f/a13982.html#a051d292f9483e6b82d773fba3ab52460", null ],
+    [ "PrepareAuraScript", "d2/d3f/a13982.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
+    [ "Register", "d2/d3f/a13982.html#a0004de73250b8523db2b9ab714c8a246", null ],
+    [ "Validate", "d2/d3f/a13982.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
 ];

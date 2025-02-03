@@ -1,6 +1,6 @@
 var a15294 =
 [
-    [ "npc_custodian_of_timeAI", "d4/d38/a15298.html", "d4/d38/a15298" ],
-    [ "npc_custodian_of_time", "d8/d42/a15294.html#a6018b30119ce819853a3c662b3d5347e", null ],
-    [ "GetAI", "d8/d42/a15294.html#a57217b2dab1cab110f1c59526ca13c86", null ]
+    [ "npc_braug_dimspirit", "d8/d42/a15294.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
+    [ "OnGossipHello", "d8/d42/a15294.html#aeaed026edf5a1fa82c941f667c05815b", null ],
+    [ "OnGossipSelect", "d8/d42/a15294.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
 ];

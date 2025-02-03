@@ -1,6 +1,6 @@
 var a12830 =
 [
-    [ "instance_scholomance_InstanceMapScript", "d3/dd3/a12834.html", "d3/dd3/a12834" ],
-    [ "instance_scholomance", "d2/def/a12830.html#ace7a781c45623419daad6143480d8fe2", null ],
-    [ "GetInstanceScript", "d2/def/a12830.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
+    [ "boss_kirtonos_the_heraldAI", "d3/dd3/a12834.html", "d3/dd3/a12834" ],
+    [ "boss_kirtonos_the_herald", "d2/def/a12830.html#a0e81153a0da7910cda4c9b6d32544318", null ],
+    [ "GetAI", "d2/def/a12830.html#aa5e0fe2386aae52fd53ff309282db652", null ]
 ];

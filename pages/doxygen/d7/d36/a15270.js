@@ -1,9 +1,6 @@
 var a15270 =
 [
-    [ "go_wind_stoneAI", "d7/d36/a15270.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
-    [ "GossipHello", "d7/d36/a15270.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
-    [ "GossipSelect", "d7/d36/a15270.html#aff4dedbf3a6fea405722f7064633edb1", null ],
-    [ "InitializeAI", "d7/d36/a15270.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
-    [ "SummonNPC", "d7/d36/a15270.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
-    [ "_creatureGuid", "d7/d36/a15270.html#a50ad8b248381a6d9fac7a291796966d6", null ]
+    [ "npc_anachronos_quest_triggerAI", "d0/ddc/a15274.html", "d0/ddc/a15274" ],
+    [ "npc_anachronos_quest_trigger", "d7/d36/a15270.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "d7/d36/a15270.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

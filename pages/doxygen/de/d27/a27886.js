@@ -1,7 +1,12 @@
 var a27886 =
 [
-    [ "AllocationPct", "de/d27/a27886.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
-    [ "Enchantment", "de/d27/a27886.html#a45e694082c1dbdeef5229561f617d584", null ],
-    [ "ID", "de/d27/a27886.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
-    [ "Name", "de/d27/a27886.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
+    [ "CalendarFilterType", "de/d27/a27886.html#a082b59a0ead8223e590cbb371f3ad122", null ],
+    [ "CalendarFlags", "de/d27/a27886.html#a6f9cf483200ac982bab7a66ff8bef33d", null ],
+    [ "Date", "de/d27/a27886.html#ac5b08b086ef0668508ea9da48642e95b", null ],
+    [ "Duration", "de/d27/a27886.html#a10cae1b1fbb91930209a714c545b129b", null ],
+    [ "Id", "de/d27/a27886.html#a1119824959b87fb312209a998a5869b1", null ],
+    [ "Looping", "de/d27/a27886.html#afa2d93998650f88e62bfa76807961274", null ],
+    [ "Priority", "de/d27/a27886.html#a6d82bc7a66d227f61c3be2260a3d03f5", null ],
+    [ "Region", "de/d27/a27886.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0", null ],
+    [ "TextureFilename", "de/d27/a27886.html#a2209ecbb78f1f467491506cc97df57e4", null ]
 ];

@@ -1,5 +1,6 @@
 var a19850 =
 [
-    [ "go_ulduar_pure_saronite_deposit", "df/d53/a19850.html#a39da51a78b9f27392ed7494e18e89b93", null ],
-    [ "OnGossipHello", "df/d53/a19850.html#ab69c5b514e0b79ff7155e0080841d4a2", null ]
+    [ "FilterTargets", "df/d53/a19850.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
+    [ "PrepareSpellScript", "df/d53/a19850.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
+    [ "Register", "df/d53/a19850.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
 ];

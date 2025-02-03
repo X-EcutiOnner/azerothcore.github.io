@@ -1,8 +1,8 @@
 var a17134 =
 [
-    [ "npc_saurfang_eventAI", "d5/d70/a17134.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "d5/d70/a17134.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "SetData", "d5/d70/a17134.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "d5/d70/a17134.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "_index", "d5/d70/a17134.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "npc_high_overlord_saurfangAI", "d5/dd2/a17138.html", "d5/dd2/a17138" ],
+    [ "npc_high_overlord_saurfang_icc", "d5/d70/a17134.html#ac02fe80550572e142406c2d80c0392df", null ],
+    [ "GetAI", "d5/d70/a17134.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
+    [ "OnGossipHello", "d5/d70/a17134.html#a515a87f751527412222cfdd968febe7c", null ],
+    [ "OnGossipSelect", "d5/d70/a17134.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
 ];

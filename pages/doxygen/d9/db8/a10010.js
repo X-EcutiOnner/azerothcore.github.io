@@ -1,22 +1,13 @@
 var a10010 =
 [
-    [ "AllBattlegroundScript", "d9/db8/a10010.html#af2c4a52b8bfc4a0ac7ac1a081e4cdd03", null ],
-    [ "CanFillPlayersToBG", "d9/db8/a10010.html#a3c70c7c71f2b941cf42607806ea19874", null ],
-    [ "CanSendMessageBGQueue", "d9/db8/a10010.html#a1407ab7e2b4630ec8def2f7e6e532831", null ],
-    [ "IsCheckNormalMatch", "d9/db8/a10010.html#a638cd6beb9edf2c538f4ac079560a07c", null ],
-    [ "IsDatabaseBound", "d9/db8/a10010.html#a91c57b646aae6467e06b4cc13b89cfb4", null ],
-    [ "OnAddGroup", "d9/db8/a10010.html#ae315ebbf606d85f59b6c0e6558283088", null ],
-    [ "OnBattlegroundAddPlayer", "d9/db8/a10010.html#aa6affc2d98448a93ac15a2a54327cba9", null ],
-    [ "OnBattlegroundBeforeAddPlayer", "d9/db8/a10010.html#a30ec158dc1fdc13712de9db261eac589", null ],
-    [ "OnBattlegroundCreate", "d9/db8/a10010.html#adea000f8e6470a2d69843c2894102086", null ],
-    [ "OnBattlegroundDestroy", "d9/db8/a10010.html#a1991c567eb8578f1874613987526ce10", null ],
-    [ "OnBattlegroundEnd", "d9/db8/a10010.html#a8c2588bb5b7c193b0c85b26de5210dd5", null ],
-    [ "OnBattlegroundEndReward", "d9/db8/a10010.html#a91225952a9567a2408ea8b1f52660599", null ],
-    [ "OnBattlegroundRemovePlayerAtLeave", "d9/db8/a10010.html#acf48de938b3535c1d64d5e69b7e4c3cc", null ],
-    [ "OnBattlegroundStart", "d9/db8/a10010.html#a00e6e5d7ec0925a28b84719f1ef32b8d", null ],
-    [ "OnBattlegroundUpdate", "d9/db8/a10010.html#a4a5c88793e3147af07482f5081106173", null ],
-    [ "OnBeforeSendExitMessageArenaQueue", "d9/db8/a10010.html#a53eb5af1d9dc2a4bfbba33ce75170f34", null ],
-    [ "OnBeforeSendJoinMessageArenaQueue", "d9/db8/a10010.html#a159e7e138cb75f57f013cd50a4a16a49", null ],
-    [ "OnQueueUpdate", "d9/db8/a10010.html#a46675aeb8e2d066d0efaf2559ec6754c", null ],
-    [ "OnQueueUpdateValidity", "d9/db8/a10010.html#a39a66e14a6e18f233ce33a86492142f7", null ]
+    [ "AccountScript", "d9/db8/a10010.html#a3720bf412499a13ba4b41fc5c9f96b7c", null ],
+    [ "CanAccountCreateCharacter", "d9/db8/a10010.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
+    [ "OnAccountLogin", "d9/db8/a10010.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
+    [ "OnBeforeAccountDelete", "d9/db8/a10010.html#a631f7deca08644da2613142c667618a8", null ],
+    [ "OnEmailChange", "d9/db8/a10010.html#adf20bd20cdc97b91db664dca95f82670", null ],
+    [ "OnFailedAccountLogin", "d9/db8/a10010.html#aae3401d74bdc9e8328a5f084462ae740", null ],
+    [ "OnFailedEmailChange", "d9/db8/a10010.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
+    [ "OnFailedPasswordChange", "d9/db8/a10010.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
+    [ "OnLastIpUpdate", "d9/db8/a10010.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
+    [ "OnPasswordChange", "d9/db8/a10010.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
 ];

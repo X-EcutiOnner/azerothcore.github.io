@@ -1,8 +1,13 @@
 var a23202 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "dd/d80/a23202.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "dd/d80/a23202.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "dd/d80/a23202.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "dd/d80/a23202.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "dd/d80/a23202.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "boss_olm_the_summoner", "dd/d80/a23202.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
+    [ "AttackStart", "dd/d80/a23202.html#a334ab95cfc3320db1a568bcb5a1d9542", null ],
+    [ "JustDied", "dd/d80/a23202.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
+    [ "JustEngagedWith", "dd/d80/a23202.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
+    [ "JustSummoned", "dd/d80/a23202.html#a546bede780b7d67b98ec251ae2e1b812", null ],
+    [ "Reset", "dd/d80/a23202.html#a8dcdc816276a1932612d554cff703a45", null ],
+    [ "UpdateAI", "dd/d80/a23202.html#a967f330966fdb29f26ab24e8f40d2152", null ],
+    [ "_scheduler", "dd/d80/a23202.html#a448ba3a88156e80eebad44585791ab21", null ],
+    [ "instance", "dd/d80/a23202.html#a8caabc31bb7a8548eb936c34c655df68", null ],
+    [ "summons", "dd/d80/a23202.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
 ];

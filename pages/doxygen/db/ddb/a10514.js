@@ -1,6 +1,5 @@
 var a10514 =
 [
-    [ "GuildBankLogQuery", "db/ddb/a10514.html#ab094e91a48d0259b4247157b92997bb2", null ],
-    [ "Read", "db/ddb/a10514.html#a5eed269e9285a33ffc61fcfa7d639083", null ],
-    [ "Tab", "db/ddb/a10514.html#ae966e3ac144b86e20f65b742ff3be9e3", null ]
+    [ "Icon", "db/ddb/a10514.html#ae47c09144b18e42aa48499de3e3fe276", null ],
+    [ "Name", "db/ddb/a10514.html#a19c79529bbfe25701c9f8253f3e0f9d8", null ]
 ];

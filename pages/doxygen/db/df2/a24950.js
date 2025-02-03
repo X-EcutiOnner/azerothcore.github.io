@@ -1,6 +1,5 @@
 var a24950 =
 [
-    [ "HandleCast", "db/df2/a24950.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "db/df2/a24950.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "db/df2/a24950.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "PrepareSpellScript", "db/df2/a24950.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
+    [ "Register", "db/df2/a24950.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
 ];

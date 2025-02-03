@@ -1,5 +1,6 @@
 var a12522 =
 [
-    [ "textid", "da/de7/a12522.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
-    [ "timer", "da/de7/a12522.html#ab7851f383e7221c6ff2700ee345d9504", null ]
+    [ "instance_karazhan_InstanceMapScript", "d7/d6a/a12526.html", "d7/d6a/a12526" ],
+    [ "instance_karazhan", "da/de7/a12522.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
+    [ "GetInstanceScript", "da/de7/a12522.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
 ];

@@ -1,11 +1,6 @@
 var a18186 =
 [
-    [ "npc_valithria_cloudAI", "d1/db3/a18186.html#a5b550d0154f302cecc509fbd868a53bb", null ],
-    [ "AttackStart", "d1/db3/a18186.html#a5835d5ba19e1480016e585c1e49489c9", null ],
-    [ "EnterEvadeMode", "d1/db3/a18186.html#a346fd998d41451d7d1e605afdb13b65c", null ],
-    [ "MoveInLineOfSight", "d1/db3/a18186.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
-    [ "Reset", "d1/db3/a18186.html#abca34d7285ef23c062006df8f8ae6d53", null ],
-    [ "UpdateAI", "d1/db3/a18186.html#a6908f5731915bf7d15bb4921c960aa30", null ],
-    [ "_events", "d1/db3/a18186.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
-    [ "_instance", "d1/db3/a18186.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
+    [ "npc_risen_archmageAI", "de/d93/a18190.html", "de/d93/a18190" ],
+    [ "npc_risen_archmage", "d1/db3/a18186.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
+    [ "GetAI", "d1/db3/a18186.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
 ];

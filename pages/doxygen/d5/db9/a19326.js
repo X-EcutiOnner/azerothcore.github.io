@@ -1,8 +1,8 @@
 var a19326 =
 [
-    [ "dark_rune_stormcallerAI", "d5/db9/a19326.html#ad889fb0c50e879c958c9b8bb681e4bf7", null ],
-    [ "JustEngagedWith", "d5/db9/a19326.html#a7ddfb8afac3ff28a84b26255628fab50", null ],
-    [ "Reset", "d5/db9/a19326.html#afa9cc2e1a9f7d21cd885479e9afdcd12", null ],
-    [ "UpdateAI", "d5/db9/a19326.html#adbd245fc5180dc7c78704595a9592864", null ],
-    [ "events", "d5/db9/a19326.html#aa7d8d1d075eeb03952b47cc16846a3db", null ]
+    [ "brann_bronzebeardAI", "d4/dd9/a19330.html", "d4/dd9/a19330" ],
+    [ "brann_bronzebeard", "d5/db9/a19326.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "d5/db9/a19326.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "d5/db9/a19326.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "d5/db9/a19326.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

@@ -1,6 +1,6 @@
 var a18102 =
 [
-    [ "ActivateSpirit", "d9/d65/a18102.html#ae5c9f8e693a98c828e0e922870552952", null ],
-    [ "PrepareSpellScript", "d9/d65/a18102.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
-    [ "Register", "d9/d65/a18102.html#a2b1d27e93a879681098a83d17c4d686a", null ]
+    [ "npc_icc_lk_checktargetAI", "d8/de6/a18106.html", "d8/de6/a18106" ],
+    [ "npc_icc_lk_checktarget", "d9/d65/a18102.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "d9/d65/a18102.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

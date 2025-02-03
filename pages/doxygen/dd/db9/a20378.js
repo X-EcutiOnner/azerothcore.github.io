@@ -1,5 +1,6 @@
 var a20378 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "dd/db9/a20378.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "dd/db9/a20378.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "boss_thorim_arena_npcsAI", "d2/db7/a20382.html", "d2/db7/a20382" ],
+    [ "boss_thorim_arena_npcs", "dd/db9/a20378.html#a60d22280bb1eb3c9da92deb08e887942", null ],
+    [ "GetAI", "dd/db9/a20378.html#a3709e1c9df32755f5932398ba3535f2f", null ]
 ];

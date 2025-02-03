@@ -1,6 +1,7 @@
 var a21634 =
 [
-    [ "npc_lake_frogAI", "d0/d79/a21638.html", "d0/d79/a21638" ],
-    [ "npc_lake_frog", "d4/dff/a21634.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
-    [ "GetAI", "d4/dff/a21634.html#a9730da684a81fced304f10b2806c10e5", null ]
+    [ "npc_amberpine_woodsmanAI", "d4/dff/a21634.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
+    [ "Reset", "d4/dff/a21634.html#a8da613c7bbaadf331c95667e7a361702", null ],
+    [ "UpdateAI", "d4/dff/a21634.html#a64dbf41424a710c400d51507f6457b41", null ],
+    [ "_events", "d4/dff/a21634.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
 ];

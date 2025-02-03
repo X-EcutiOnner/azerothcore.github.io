@@ -1,5 +1,7 @@
 var a24934 =
 [
-    [ "PrepareSpellScript", "d2/d9b/a24934.html#a096abf53c6e622875c463060e986b5ef", null ],
-    [ "Register", "d2/d9b/a24934.html#a68905cc33f09dbb42db67139193530cb", null ]
+    [ "HandleScript", "d2/d9b/a24934.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
+    [ "PrepareSpellScript", "d2/d9b/a24934.html#a7909f23da8385abdabb62e5196d88d38", null ],
+    [ "Register", "d2/d9b/a24934.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
+    [ "Validate", "d2/d9b/a24934.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
 ];

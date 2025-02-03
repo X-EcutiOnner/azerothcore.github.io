@@ -6,7 +6,7 @@ var dir_0a0414616ece51a8570c4e36029d4e29 =
     [ "boss_emerald_dragons.cpp", "d0/df5/a02549.html", "d0/df5/a02549" ],
     [ "chat_log.cpp", "d8/d65/a02528.html", "d8/d65/a02528" ],
     [ "go_scripts.cpp", "d1/d2e/a02537.html", "d1/d2e/a02537" ],
-    [ "guards.cpp", "d0/df5/a02576.html", "d0/df5/a02576" ],
+    [ "guards.cpp", "d4/d70/a02579.html", "d4/d70/a02579" ],
     [ "item_scripts.cpp", "db/dab/a02567.html", "db/dab/a02567" ],
     [ "mob_generic_creature.cpp", "d1/d57/a02543.html", "d1/d57/a02543" ],
     [ "npc_innkeeper.cpp", "d7/da8/a02522.html", "d7/da8/a02522" ],
@@ -16,8 +16,9 @@ var dir_0a0414616ece51a8570c4e36029d4e29 =
     [ "npc_taxi.cpp", "db/d44/a02564.html", "db/d44/a02564" ],
     [ "npcs_special.cpp", "d8/d1b/a02555.html", "d8/d1b/a02555" ],
     [ "player_scripts.cpp", "db/de8/a02525.html", "db/de8/a02525" ],
-    [ "server_mail.cpp", "d2/ddf/a02573.html", "d2/ddf/a02573" ],
+    [ "server_mail.cpp", "d0/df5/a02576.html", "d0/df5/a02576" ],
+    [ "suns_reach_reclamation.cpp", "d2/ddf/a02573.html", "d2/ddf/a02573" ],
     [ "transport_zeppelin.h", "db/df5/a02534.html", "db/df5/a02534" ],
     [ "transport_zeppelins.cpp", "d1/d0c/a02570.html", "d1/d0c/a02570" ],
-    [ "world_script_loader.cpp", "d4/d70/a02579.html", "d4/d70/a02579" ]
+    [ "world_script_loader.cpp", "d1/d03/a02582.html", "d1/d03/a02582" ]
 ];

@@ -1,7 +1,6 @@
 var a21334 =
 [
-    [ "npc_warmage_violetstand", "d4/d11/a21334.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d4/d11/a21334.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d4/d11/a21334.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d4/d11/a21334.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_leryssaAI", "de/d15/a21338.html", "de/d15/a21338" ],
+    [ "npc_leryssa", "d4/d11/a21334.html#a549bed4476f88c313e6b42c0fe1fffb8", null ],
+    [ "GetAI", "d4/d11/a21334.html#a4725831580b206d91dbd8c21a703893f", null ]
 ];

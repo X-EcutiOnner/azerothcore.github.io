@@ -1,5 +1,9 @@
 var a16658 =
 [
-    [ "at_hor_battered_hilt_throw", "da/d22/a16658.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
-    [ "OnTrigger", "da/d22/a16658.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
+    [ "npc_hor_risen_witch_doctorAI", "da/d22/a16658.html#acd33d4811521f6d41bce21270198db45", null ],
+    [ "JustDied", "da/d22/a16658.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
+    [ "JustEngagedWith", "da/d22/a16658.html#a54378daf294fcbee4ba1abf14927cc52", null ],
+    [ "Reset", "da/d22/a16658.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
+    [ "UpdateAI", "da/d22/a16658.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
+    [ "events", "da/d22/a16658.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
 ];

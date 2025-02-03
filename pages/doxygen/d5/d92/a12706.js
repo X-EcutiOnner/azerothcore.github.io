@@ -1,7 +1,8 @@
 var a12706 =
 [
-    [ "HandleEffectApply", "d5/d92/a12706.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "d5/d92/a12706.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "d5/d92/a12706.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "d5/d92/a12706.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "npc_scarlet_miner_cartAI", "d5/d92/a12706.html#a4256e3bc9f6678dc85a3b702e1c531f8", null ],
+    [ "DoAction", "d5/d92/a12706.html#a99ac60b1a60cc5f269aa7f02f3fd5083", null ],
+    [ "PassengerBoarded", "d5/d92/a12706.html#a3539847efa7014a8e31a78ace83b6bc5", null ],
+    [ "SetGUID", "d5/d92/a12706.html#a5679fef6f40d0e48547e7bd57a93a176", null ],
+    [ "minerGUID", "d5/d92/a12706.html#a084e80b43b5b30b5e1794feff305e9b3", null ]
 ];

@@ -1,6 +1,6 @@
 var a02261 =
 [
-    [ "CreatureAI", "db/dd3/a06070.html", "db/dd3/a06070" ],
+    [ "CreatureAI", "dc/d36/a06074.html", "dc/d36/a06074" ],
     [ "TIME_INTERVAL_LOOK", "d7/d24/a02261.html#a8de08a341cdd207e19eef425c2f5f152", null ],
     [ "VISIBILITY_RANGE", "d7/d24/a02261.html#a5548091cca58d569e4226b6915ec8cb2", null ],
     [ "CreatureBoundary", "d7/d24/a02261.html#a7994a32cb10f6de9d90e32ef2d6c1f37", null ],

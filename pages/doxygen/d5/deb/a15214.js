@@ -1,9 +1,10 @@
 var a15214 =
 [
-    [ "npc_thrall_warchiefAI", "d4/d27/a15218.html", "d4/d27/a15218" ],
-    [ "npc_thrall_warchief", "d5/deb/a15214.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
-    [ "GetAI", "d5/deb/a15214.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
-    [ "OnGossipHello", "d5/deb/a15214.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
-    [ "OnGossipSelect", "d5/deb/a15214.html#a63367ca0b252c148f625b305575fd768", null ],
-    [ "OnQuestReward", "d5/deb/a15214.html#aea53462e94121ad44e366d2743807c3c", null ]
+    [ "npc_omenAI", "d5/deb/a15214.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
+    [ "JustDied", "d5/deb/a15214.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
+    [ "JustEngagedWith", "d5/deb/a15214.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
+    [ "MovementInform", "d5/deb/a15214.html#a92e59bde1f0da2ee537a836304a3c385", null ],
+    [ "SpellHit", "d5/deb/a15214.html#a4e3960d506fd0435de055a365906a9c9", null ],
+    [ "UpdateAI", "d5/deb/a15214.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
+    [ "events", "d5/deb/a15214.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
 ];

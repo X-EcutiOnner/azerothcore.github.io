@@ -1,7 +1,6 @@
 var a18802 =
 [
-    [ "OnPeriodic", "d7/da0/a18802.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
-    [ "PrepareAuraScript", "d7/da0/a18802.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
-    [ "Register", "d7/da0/a18802.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
-    [ "Validate", "d7/da0/a18802.html#a54cfed486827216817adb740efa6646e", null ]
+    [ "WebTargetSelector", "d7/da0/a18802.html#a2f19cffab18fd6f2f5a1d296aa1db47d", null ],
+    [ "operator()", "d7/da0/a18802.html#a289821eaae114ba384a9ee9b8c19325f", null ],
+    [ "_maexxna", "d7/da0/a18802.html#ad21c9ac380f7b97aacc06f08f1c45974", null ]
 ];

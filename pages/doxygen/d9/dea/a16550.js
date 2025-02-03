@@ -1,6 +1,7 @@
 var a16550 =
 [
-    [ "npc_phantom_mageAI", "de/dec/a16554.html", "de/dec/a16554" ],
-    [ "npc_phantom_mage", "d9/dea/a16550.html#ad57414231c40917bf55d6155fa9c05db", null ],
-    [ "GetAI", "d9/dea/a16550.html#ae2134b8be3052da659390bde7c2aac2e", null ]
+    [ "OnRemove", "d9/dea/a16550.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "d9/dea/a16550.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "d9/dea/a16550.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "d9/dea/a16550.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

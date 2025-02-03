@@ -1,6 +1,7 @@
 var a13902 =
 [
-    [ "HandleDummyEffect", "d4/d99/a13902.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
-    [ "PrepareSpellScript", "d4/d99/a13902.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
-    [ "Register", "d4/d99/a13902.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
+    [ "FilterTargets", "d4/d99/a13902.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "d4/d99/a13902.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "d4/d99/a13902.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "d4/d99/a13902.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

@@ -1,7 +1,6 @@
 var a19418 =
 [
-    [ "HandleDummyEffect", "de/d0d/a19418.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "de/d0d/a19418.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "de/d0d/a19418.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "de/d0d/a19418.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "go_celestial_planetarium_accessAI", "d8/deb/a19422.html", "d8/deb/a19422" ],
+    [ "go_celestial_planetarium_access", "de/d0d/a19418.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
+    [ "GetAI", "de/d0d/a19418.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
 ];

@@ -1,12 +1,11 @@
 var a11566 =
 [
-    [ "boss_balinda", "d5/da0/a11566.html#a2f3ce696dbc66843cddc13196800866b", null ],
-    [ "DamageTaken", "d5/da0/a11566.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
-    [ "JustDied", "d5/da0/a11566.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
-    [ "JustEngagedWith", "d5/da0/a11566.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
-    [ "JustSummoned", "d5/da0/a11566.html#a3c2306326d2f85fbb6766352117a1f91", null ],
-    [ "Reset", "d5/da0/a11566.html#a1ecfa5d743682997076a47cce44b19f5", null ],
-    [ "UpdateAI", "d5/da0/a11566.html#af3506dd75baef12fd0328aed21636978", null ],
-    [ "_hasCastIceBlock", "d5/da0/a11566.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
-    [ "summons", "d5/da0/a11566.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
+    [ "worldstate_commandscript", "d5/da0/a11566.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
+    [ "GetCommands", "d5/da0/a11566.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
+    [ "HandleSunsReachReclamationCounterCommand", "d5/da0/a11566.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
+    [ "HandleSunsReachReclamationPhaseCommand", "d5/da0/a11566.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
+    [ "HandleSunsReachReclamationStatusCommand", "d5/da0/a11566.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
+    [ "HandleSunsReachReclamationSubPhaseCommand", "d5/da0/a11566.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
+    [ "HandleSunwellGateCommand", "d5/da0/a11566.html#a45b73e47c8e9b21063d02922a83e103b", null ],
+    [ "HandleSunwellGateCounterCommand", "d5/da0/a11566.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
 ];

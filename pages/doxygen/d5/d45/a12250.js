@@ -1,6 +1,6 @@
 var a12250 =
 [
-    [ "boss_shazzrahAI", "d5/d45/a12250.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
-    [ "ExecuteEvent", "d5/d45/a12250.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
-    [ "JustEngagedWith", "d5/d45/a12250.html#aaa8111d42cacd58f767513026976668c", null ]
+    [ "boss_ragnarosAI", "d2/d45/a12254.html", "d2/d45/a12254" ],
+    [ "boss_ragnaros", "d5/d45/a12250.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5", null ],
+    [ "GetAI", "d5/d45/a12250.html#af54e36608e160811ca06952fd2c63f6e", null ]
 ];

@@ -1,6 +1,6 @@
 var a18358 =
 [
-    [ "npc_impaling_spearAI", "d2/dba/a18362.html", "d2/dba/a18362" ],
-    [ "npc_impaling_spear", "d4/d91/a18358.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
-    [ "GetAI", "d4/d91/a18358.html#aad49164a3e7541b755c1c622b996bb9a", null ]
+    [ "npc_captain_grondelAI", "d4/d91/a18358.html#afbc971fc03584b87229318309d51a2f5", null ],
+    [ "Reset", "d4/d91/a18358.html#a7d3878822e77fba66891e87e23bd3740", null ],
+    [ "UpdateAI", "d4/d91/a18358.html#a4af8548092b49653805224bd4c0ac0a2", null ]
 ];

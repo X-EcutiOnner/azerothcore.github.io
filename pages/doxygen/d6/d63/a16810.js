@@ -1,6 +1,6 @@
 var a16810 =
 [
-    [ "HandleDummy", "d6/d63/a16810.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
-    [ "PrepareSpellScript", "d6/d63/a16810.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
-    [ "Register", "d6/d63/a16810.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
+    [ "npc_pos_leader_secondAI", "df/d64/a16814.html", "df/d64/a16814" ],
+    [ "npc_pos_leader_second", "d6/d63/a16810.html#ac4758674cc97eae0937264fa028e6da5", null ],
+    [ "GetAI", "d6/d63/a16810.html#ac403cfc86247990d78c9cf4179df8b87", null ]
 ];

@@ -1,11 +1,6 @@
 var a19266 =
 [
-    [ "boss_maiden_of_griefAI", "d6/d4c/a19266.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
-    [ "JustDied", "d6/d4c/a19266.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
-    [ "JustEngagedWith", "d6/d4c/a19266.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
-    [ "KilledUnit", "d6/d4c/a19266.html#a3d2173db5a852a356c187b2d2771b75f", null ],
-    [ "Reset", "d6/d4c/a19266.html#a46776004549b0dcfcf73351225adaad8", null ],
-    [ "UpdateAI", "d6/d4c/a19266.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
-    [ "events", "d6/d4c/a19266.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
-    [ "pInstance", "d6/d4c/a19266.html#abc195718a208a926f978d7f0fe0e7925", null ]
+    [ "boss_krystallusAI", "da/da3/a19270.html", "da/da3/a19270" ],
+    [ "boss_krystallus", "d6/d4c/a19266.html#a1d7453c9d67594bfdbd650fea897666a", null ],
+    [ "GetAI", "d6/d4c/a19266.html#aba14bcfa00a5d997959abd94af647bf4", null ]
 ];

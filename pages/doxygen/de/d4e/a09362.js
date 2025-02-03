@@ -1,9 +1,16 @@
 var a09362 =
 [
-    [ "LoginQueryHolder", "de/d4e/a09362.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
-    [ "GetAccountId", "de/d4e/a09362.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
-    [ "GetGuid", "de/d4e/a09362.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
-    [ "Initialize", "de/d4e/a09362.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
-    [ "m_accountId", "de/d4e/a09362.html#abc8056182803af44a062fe6153fdd009", null ],
-    [ "m_guid", "de/d4e/a09362.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
+    [ "BankMoveItemData", "de/d4e/a09362.html#a9edb987f4866e8bc473fe853597bebae", null ],
+    [ "_ReserveSpace", "de/d4e/a09362.html#a109e8d55108b005426110626815ba866", null ],
+    [ "_StoreItem", "de/d4e/a09362.html#aa11267f5d6202753310da567c0be0e57", null ],
+    [ "CanStore", "de/d4e/a09362.html#ade47c73460329ca1af752921173ca75e", null ],
+    [ "CanStoreItemInTab", "de/d4e/a09362.html#a5ca7975887e5583466d066c86b3a205f", null ],
+    [ "HasStoreRights", "de/d4e/a09362.html#acd684824cab9ccb4d8fd9cbb1f1782e1", null ],
+    [ "HasWithdrawRights", "de/d4e/a09362.html#ae9d8f497b4459c982ac73ee8b5742aad", null ],
+    [ "InitItem", "de/d4e/a09362.html#a69d6b28ccdda7790f821f5181da0db96", null ],
+    [ "IsBank", "de/d4e/a09362.html#a6f1787e15918092ba000ee8bd0852b09", null ],
+    [ "LogAction", "de/d4e/a09362.html#a4f23cdffba39ffa78c38851ff7aa7d0c", null ],
+    [ "LogBankEvent", "de/d4e/a09362.html#a054ca0f7eecfd404651c11b886d106bf", null ],
+    [ "RemoveItem", "de/d4e/a09362.html#abd15e25136ec2a00bcddbc0e81978a78", null ],
+    [ "StoreItem", "de/d4e/a09362.html#a9367b938768eefcaf5bb88e74dde9aa3", null ]
 ];

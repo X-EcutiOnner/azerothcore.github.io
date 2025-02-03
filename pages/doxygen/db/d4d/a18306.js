@@ -1,6 +1,8 @@
 var a18306 =
 [
-    [ "boss_sister_svalnaAI", "d1/d6d/a18310.html", "d1/d6d/a18310" ],
-    [ "boss_sister_svalna", "db/d4d/a18306.html#a233a9606db61f6ab945350e98a0929ff", null ],
-    [ "GetAI", "db/d4d/a18306.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
+    [ "npc_rotting_frost_giantAI", "db/d4d/a18306.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "db/d4d/a18306.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "db/d4d/a18306.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "db/d4d/a18306.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "db/d4d/a18306.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

@@ -1,9 +1,10 @@
 var a25102 =
 [
-    [ "DoCheckCast", "dc/dec/a25102.html#a09c7bd66988c38cb019656842ed87366", null ],
-    [ "HandleDummy", "dc/dec/a25102.html#a183e2ac37a432ea2902b31e24a474cea", null ],
-    [ "HandleScriptEffect", "dc/dec/a25102.html#a396b1129f15056d0b22c7887f56bea99", null ],
-    [ "PrepareSpellScript", "dc/dec/a25102.html#aad4de93de822a742e02ac8d5d395d482", null ],
-    [ "Register", "dc/dec/a25102.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
-    [ "Validate", "dc/dec/a25102.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
+    [ "CheckProc", "dc/dec/a25102.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "dc/dec/a25102.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "dc/dec/a25102.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "dc/dec/a25102.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "dc/dec/a25102.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "dc/dec/a25102.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "dc/dec/a25102.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

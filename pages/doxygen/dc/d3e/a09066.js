@@ -1,8 +1,9 @@
 var a09066 =
 [
-    [ "RespawnDo", "dc/d3e/a09066.html#a79f6424f2849c4c05998fe29a8510aeb", null ],
-    [ "operator()", "dc/d3e/a09066.html#ac15ff63f29e313556b8f66e0cd80514f", null ],
-    [ "operator()", "dc/d3e/a09066.html#a23408bf4da497d1007e4e88e0d9c0e19", null ],
-    [ "operator()", "dc/d3e/a09066.html#a66335f45bb1f3c770887b263e9d84236", null ],
-    [ "operator()", "dc/d3e/a09066.html#a4551ca2e0fdb6540a724c9c2b43484c6", null ]
+    [ "PlayerDistWorker", "dc/d3e/a09066.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
+    [ "Visit", "dc/d3e/a09066.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
+    [ "Visit", "dc/d3e/a09066.html#a2658f12f90953f1057a9377b21824879", null ],
+    [ "i_dist", "dc/d3e/a09066.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
+    [ "i_do", "dc/d3e/a09066.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
+    [ "i_searcher", "dc/d3e/a09066.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
 ];

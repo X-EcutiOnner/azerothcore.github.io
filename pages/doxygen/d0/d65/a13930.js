@@ -1,6 +1,6 @@
 var a13930 =
 [
-    [ "npc_direbrew_antagonist", "d0/d65/a13930.html#a30fed4e6888d98af576dea8e13c510d3", null ],
-    [ "DoAction", "d0/d65/a13930.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
-    [ "JustEngagedWith", "d0/d65/a13930.html#aaf54b03d66d726901c289ff28d362787", null ]
+    [ "OnApply", "d0/d65/a13930.html#a4a276b00d4912c210598057620368934", null ],
+    [ "PrepareAuraScript", "d0/d65/a13930.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
+    [ "Register", "d0/d65/a13930.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
 ];

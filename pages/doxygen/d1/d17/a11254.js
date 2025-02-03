@@ -1,7 +1,7 @@
 var a11254 =
 [
-    [ "Command", "d1/d17/a11254.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "d1/d17/a11254.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "d1/d17/a11254.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "d1/d17/a11254.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "PlayerDumpReader", "d1/d17/a11254.html#ad630b61e298fb1ddf165481c9a14e077", null ],
+    [ "LoadDump", "d1/d17/a11254.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
+    [ "LoadDumpFromFile", "d1/d17/a11254.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
+    [ "LoadDumpFromString", "d1/d17/a11254.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
 ];

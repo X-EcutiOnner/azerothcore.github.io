@@ -1,8 +1,5 @@
 var a13654 =
 [
-    [ "boss_grilekAI", "d6/d67/a13654.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
-    [ "JustEngagedWith", "d6/d67/a13654.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
-    [ "Reset", "d6/d67/a13654.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
-    [ "UpdateAI", "d6/d67/a13654.html#a19438103c9a582a7d36d805c80131e8c", null ],
-    [ "_pursuitTargetGUID", "d6/d67/a13654.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
+    [ "go_gong_of_bethekk", "d6/d67/a13654.html#ae261467be63f1a744eb20f81473c2239", null ],
+    [ "OnGossipHello", "d6/d67/a13654.html#a82072ff8c030aec1a5ed447865680788", null ]
 ];

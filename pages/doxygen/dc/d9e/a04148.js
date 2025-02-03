@@ -1,14 +1,7 @@
 var a04148 =
 [
-    [ "go_main_chambers_access_panel", "d1/df1/a23070.html", "d1/df1/a23070" ],
-    [ "instance_steam_vault", "d8/d79/a23074.html", "d8/d79/a23074" ],
-    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "d2/d37/a23078.html", "d2/d37/a23078" ],
-    [ "MainChambersAccessPanelSays", "dc/d9e/a04148.html#aa8d293574a308aad41f620556eb63b6a", [
-      [ "SAY_FAINT_ECHO", "dc/d9e/a04148.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992", null ],
-      [ "SAY_LOUD_RUMBLE", "dc/d9e/a04148.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884", null ]
-    ] ],
-    [ "AddSC_instance_steam_vault", "dc/d9e/a04148.html#a944f7f7f41e047f2a4f82fb9af0b4829", null ],
-    [ "creatureData", "dc/d9e/a04148.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "minionData", "dc/d9e/a04148.html#a6720238df140a3c574a711042b7f5bd3", null ],
-    [ "objectData", "dc/d9e/a04148.html#a59ddfa91084111da23b5d47482e4ff8d", null ]
+    [ "instance_the_underbog", "d0/daf/a23150.html", "d0/daf/a23150" ],
+    [ "instance_the_underbog::instance_the_underbog_InstanceMapScript", "df/d74/a23154.html", "df/d74/a23154" ],
+    [ "AddSC_instance_the_underbog", "dc/d9e/a04148.html#acc5edb97f1bda7cd30a38061e4676698", null ],
+    [ "creatureData", "dc/d9e/a04148.html#a412286b689bd324fedd65ddd8dde8afb", null ]
 ];

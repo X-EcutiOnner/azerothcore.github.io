@@ -1,7 +1,6 @@
 var a17222 =
 [
-    [ "DelayedMovementEvent", "d3/dd5/a17222.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "d3/dd5/a17222.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "d3/dd5/a17222.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "d3/dd5/a17222.html#a046942728282a997068de447271f3cbe", null ]
+    [ "npc_stinky_iccAI", "d0/d9d/a17226.html", "d0/d9d/a17226" ],
+    [ "npc_stinky_icc", "d3/dd5/a17222.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "d3/dd5/a17222.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

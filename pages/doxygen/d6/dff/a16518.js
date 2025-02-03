@@ -1,15 +1,10 @@
 var a16518 =
 [
-    [ "boss_falricAI", "d6/dff/a16518.html#a8b333fe1571f98b4e9f44152d130a22d", null ],
-    [ "DoAction", "d6/dff/a16518.html#a2a7de8f939cd3cdc113c841da36e28c8", null ],
-    [ "EnterEvadeMode", "d6/dff/a16518.html#aacb6a3b13fe5ea08ab2ff0e77ff841a4", null ],
-    [ "JustDied", "d6/dff/a16518.html#a4ee3163afcda23102d639740fd628f39", null ],
-    [ "JustEngagedWith", "d6/dff/a16518.html#ae5a8b14e1984dbd2866af7c442c02df2", null ],
-    [ "KilledUnit", "d6/dff/a16518.html#a4a8b45eb85c1328af6beec69f2db1842", null ],
-    [ "Reset", "d6/dff/a16518.html#a0af8ef161bc2a37a5c7f7fa880194251", null ],
-    [ "UpdateAI", "d6/dff/a16518.html#a640036111dcd14e40016342ffdef7d63", null ],
-    [ "events", "d6/dff/a16518.html#aa94ca00db157378071b78142b213de23", null ],
-    [ "pInstance", "d6/dff/a16518.html#aebeae3541bbbf392c44fd52516bb2d98", null ],
-    [ "startFightTimer", "d6/dff/a16518.html#addd560074b840aed36f41883f893340e", null ],
-    [ "uiHopelessnessCount", "d6/dff/a16518.html#a0ad83fb57263116a59976834c6667ea9", null ]
+    [ "HandleAfterEffectAbsorb", "d6/dff/a16518.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "d6/dff/a16518.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "d6/dff/a16518.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "d6/dff/a16518.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "d6/dff/a16518.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "d6/dff/a16518.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "d6/dff/a16518.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

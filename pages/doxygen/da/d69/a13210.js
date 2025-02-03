@@ -1,9 +1,14 @@
 var a13210 =
 [
-    [ "npc_professor_phizzlethorpeAI", "da/d69/a13210.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "da/d69/a13210.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "da/d69/a13210.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "da/d69/a13210.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "da/d69/a13210.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "da/d69/a13210.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ]
+    [ "instance_uldaman_InstanceMapScript", "da/d69/a13210.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "da/d69/a13210.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "da/d69/a13210.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "da/d69/a13210.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "da/d69/a13210.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "da/d69/a13210.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "da/d69/a13210.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "da/d69/a13210.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "da/d69/a13210.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "da/d69/a13210.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "da/d69/a13210.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

@@ -1,6 +1,6 @@
 var a23874 =
 [
-    [ "npc_drake_dealer_hurlunk", "da/dc1/a23874.html#ae6d095365d23c30d5b772b047b459ddb", null ],
-    [ "OnGossipHello", "da/dc1/a23874.html#ad04b7f906f029d9935e29c585b0de421", null ],
-    [ "OnGossipSelect", "da/dc1/a23874.html#aa23833dcdefb909899120c25d5376111", null ]
+    [ "npc_mature_netherwing_drakeAI", "d6/d93/a23878.html", "d6/d93/a23878" ],
+    [ "npc_mature_netherwing_drake", "da/dc1/a23874.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "da/dc1/a23874.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

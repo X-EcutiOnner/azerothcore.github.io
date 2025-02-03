@@ -1,6 +1,6 @@
 var a19474 =
 [
-    [ "boss_stormcaller_brundirAI", "d6/ddc/a19478.html", "d6/ddc/a19478" ],
-    [ "boss_stormcaller_brundir", "d9/dfe/a19474.html#aa966d1534a58e3832c46772043956533", null ],
-    [ "GetAI", "d9/dfe/a19474.html#a399b1b7cf2ee74c1e672231e922ff4fa", null ]
+    [ "CastRunesEvent", "d9/dfe/a19474.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "d9/dfe/a19474.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "d9/dfe/a19474.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

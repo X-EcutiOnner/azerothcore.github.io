@@ -1,6 +1,8 @@
 var a12502 =
 [
-    [ "instance_karazhan_InstanceMapScript", "d9/d86/a12506.html", "d9/d86/a12506" ],
-    [ "instance_karazhan", "dc/d2e/a12502.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
-    [ "GetInstanceScript", "dc/d2e/a12502.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
+    [ "npc_cyclone", "dc/d2e/a12502.html#afdc4f98b031f832702929c6a7f192ab5", null ],
+    [ "JustEngagedWith", "dc/d2e/a12502.html#a61d0710868c91f707643a436c0d79485", null ],
+    [ "Reset", "dc/d2e/a12502.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
+    [ "UpdateAI", "dc/d2e/a12502.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
+    [ "_scheduler", "dc/d2e/a12502.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
 ];

@@ -1,42 +1,65 @@
 var a04445 =
 [
-    [ "tf_tower_world_state", "d7/d27/a22250.html", "d7/d27/a22250" ],
-    [ "OPvPCapturePointTF", "d7/de8/a22254.html", "d7/de8/a22254" ],
-    [ "OutdoorPvPTF", "db/d16/a22258.html", "db/d16/a22258" ],
-    [ "TF_CAPTURE_BUFF", "d6/d70/a04445.html#a82bc235ec6d43b48511d1b3d903a934b", null ],
-    [ "OutdoorPvPTF_TowerType", "d6/d70/a04445.html#a7a4347e10a530d56e3c3ae66a5eae999", [
-      [ "TF_TOWER_NW", "d6/d70/a04445.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16", null ],
-      [ "TF_TOWER_N", "d6/d70/a04445.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b", null ],
-      [ "TF_TOWER_NE", "d6/d70/a04445.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97", null ],
-      [ "TF_TOWER_SE", "d6/d70/a04445.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65", null ],
-      [ "TF_TOWER_S", "d6/d70/a04445.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0", null ],
-      [ "TF_TOWER_NUM", "d6/d70/a04445.html#a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3", null ]
+    [ "spell_q10935_the_exorcism_of_colonel_jules", "de/d67/a23722.html", "de/d67/a23722" ],
+    [ "npc_aeranas", "d0/d4f/a23726.html", "d0/d4f/a23726" ],
+    [ "npc_aeranas::npc_aeranasAI", "d4/dc7/a23730.html", "d4/dc7/a23730" ],
+    [ "npc_ancestral_wolf", "dd/dfd/a23734.html", "dd/dfd/a23734" ],
+    [ "npc_ancestral_wolf::npc_ancestral_wolfAI", "d7/de5/a23738.html", "d7/de5/a23738" ],
+    [ "npc_wounded_blood_elf", "de/ddf/a23742.html", "de/ddf/a23742" ],
+    [ "npc_wounded_blood_elf::npc_wounded_blood_elfAI", "de/d39/a23746.html", "de/d39/a23746" ],
+    [ "npc_fel_guard_hound", "db/d57/a23750.html", "db/d57/a23750" ],
+    [ "npc_fel_guard_hound::npc_fel_guard_houndAI", "d6/d28/a23754.html", "d6/d28/a23754" ],
+    [ "npc_magister_aledis", "d6/d14/a23758.html", "d6/d14/a23758" ],
+    [ "go_beacon", "d9/d64/a23762.html", "d9/d64/a23762" ],
+    [ "go_beacon::go_beaconAI", "d1/d58/a23766.html", "d1/d58/a23766" ],
+    [ "go_magtheridons_head", "dc/dd9/a23770.html", "dc/dd9/a23770" ],
+    [ "Aeranas", "d6/d70/a04445.html#a35e86459585ec89189aab3acab8ed4ca", [
+      [ "SAY_SUMMON", "d6/d70/a04445.html#a35e86459585ec89189aab3acab8ed4caacebbfa1f13b8de4f039f5d550063c7bf", null ],
+      [ "SAY_FREE", "d6/d70/a04445.html#a35e86459585ec89189aab3acab8ed4caa27368277122194007f925387131a1eb9", null ],
+      [ "SPELL_ENVELOPING_WINDS", "d6/d70/a04445.html#a35e86459585ec89189aab3acab8ed4caacf98b779c795324d47e44b043eeacf92", null ],
+      [ "SPELL_SHOCK", "d6/d70/a04445.html#a35e86459585ec89189aab3acab8ed4caa30aa4cac2f70a310466b3fb0f2d10eab", null ]
     ] ],
-    [ "TFTowerStates", "d6/d70/a04445.html#a5815248809b8fd06bd664886846a7126", [
-      [ "TF_TOWERSTATE_N", "d6/d70/a04445.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f", null ],
-      [ "TF_TOWERSTATE_H", "d6/d70/a04445.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1", null ],
-      [ "TF_TOWERSTATE_A", "d6/d70/a04445.html#a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d", null ]
+    [ "Aledis", "d6/d70/a04445.html#a03c6f57f8a159946f896f5702ca14dce", [
+      [ "SAY_CHALLENGE", "d6/d70/a04445.html#a03c6f57f8a159946f896f5702ca14dcea3673de22d7f7ff97fa58d05bda2e1e19", null ],
+      [ "SAY_DEFEATED", "d6/d70/a04445.html#a03c6f57f8a159946f896f5702ca14dceac03c09df1ddcc4faeb33ce6334bdf677", null ],
+      [ "EVENT_TALK", "d6/d70/a04445.html#a03c6f57f8a159946f896f5702ca14dcead8d5fcaf7b3bfdd91e6337d222c1620f", null ],
+      [ "EVENT_ATTACK", "d6/d70/a04445.html#a03c6f57f8a159946f896f5702ca14dcea0ae9cb03e0fdc3b6ba005dcf01279360", null ],
+      [ "EVENT_EVADE", "d6/d70/a04445.html#a03c6f57f8a159946f896f5702ca14dceac76f74b24db9c237bcec4674c4783ca4", null ],
+      [ "EVENT_FIREBALL", "d6/d70/a04445.html#a03c6f57f8a159946f896f5702ca14dcea2f41794aafc9d878c1d2e3aa735cbf44", null ],
+      [ "EVENT_FROSTNOVA", "d6/d70/a04445.html#a03c6f57f8a159946f896f5702ca14dceadaeaec1cfb428809aea8f40a63d94a3e", null ],
+      [ "SPELL_FIREBALL", "d6/d70/a04445.html#a03c6f57f8a159946f896f5702ca14dcea846055c995374082714483a6b39bc963", null ],
+      [ "SPELL_FROSTNOVA", "d6/d70/a04445.html#a03c6f57f8a159946f896f5702ca14dcead434ff150c6b4a05fa0e2d914374690b", null ]
     ] ],
-    [ "TFWorldStates", "d6/d70/a04445.html#a4134a455195e5cc1be9288227500b258", [
-      [ "TF_UI_TOWER_SLIDER_POS", "d6/d70/a04445.html#a4134a455195e5cc1be9288227500b258a01fef84454cee087b39e06f40fa95336", null ],
-      [ "TF_UI_TOWER_SLIDER_N", "d6/d70/a04445.html#a4134a455195e5cc1be9288227500b258a789327b4fc1d2e623b1a0a18d70328dd", null ],
-      [ "TF_UI_TOWER_SLIDER_DISPLAY", "d6/d70/a04445.html#a4134a455195e5cc1be9288227500b258a0137c97cdf1617d73e09085174a9842b", null ],
-      [ "TF_UI_TOWER_COUNT_H", "d6/d70/a04445.html#a4134a455195e5cc1be9288227500b258a9f05bf2230c06a169b0a884bb33a94cc", null ],
-      [ "TF_UI_TOWER_COUNT_A", "d6/d70/a04445.html#a4134a455195e5cc1be9288227500b258ae98ffdfa2845c1411a02a1e8afba6b30", null ],
-      [ "TF_UI_TOWERS_CONTROLLED_DISPLAY", "d6/d70/a04445.html#a4134a455195e5cc1be9288227500b258abb0bd82d464ffe5f0ab6ab68c71f8219", null ],
-      [ "TF_UI_LOCKED_TIME_MINUTES_FIRST_DIGIT", "d6/d70/a04445.html#a4134a455195e5cc1be9288227500b258a09a446e5fb19482131f119d4ffe75ec3", null ],
-      [ "TF_UI_LOCKED_TIME_MINUTES_SECOND_DIGIT", "d6/d70/a04445.html#a4134a455195e5cc1be9288227500b258a6e71bc9f10b277d16c6ba22b6f4cb381", null ],
-      [ "TF_UI_LOCKED_TIME_HOURS", "d6/d70/a04445.html#a4134a455195e5cc1be9288227500b258af4e7d7c6926dae8b9f55258bd66c4b6b", null ],
-      [ "TF_UI_LOCKED_DISPLAY_NEUTRAL", "d6/d70/a04445.html#a4134a455195e5cc1be9288227500b258a75d5f388814344dcdaafdb7cc434532d", null ],
-      [ "TF_UI_LOCKED_DISPLAY_HORDE", "d6/d70/a04445.html#a4134a455195e5cc1be9288227500b258a7b43f99b2120863099d31e07029b5dd2", null ],
-      [ "TF_UI_LOCKED_DISPLAY_ALLIANCE", "d6/d70/a04445.html#a4134a455195e5cc1be9288227500b258a3ad3af0875c04da341c52ec43710eee0", null ]
+    [ "AncestralWolf", "d6/d70/a04445.html#ae0ad636572003d2f340b9f5853329b31", [
+      [ "EMOTE_WOLF_LIFT_HEAD", "d6/d70/a04445.html#ae0ad636572003d2f340b9f5853329b31a3d71eb68225f60940079e2c6d5b848bb", null ],
+      [ "EMOTE_WOLF_HOWL", "d6/d70/a04445.html#ae0ad636572003d2f340b9f5853329b31a89cae72f3324d089afca2e6ec3bab2b0", null ],
+      [ "SAY_WOLF_WELCOME", "d6/d70/a04445.html#ae0ad636572003d2f340b9f5853329b31a129ec8cc004776adf7eede6faee16398", null ],
+      [ "SPELL_GUIDED_BY_THE_SPIRITS", "d6/d70/a04445.html#ae0ad636572003d2f340b9f5853329b31a49de5a0a57dffbeebdb91a8ad307328d", null ],
+      [ "NPC_RYGA", "d6/d70/a04445.html#ae0ad636572003d2f340b9f5853329b31a4c5c75439f08ad6a8f448db8931dd14d", null ]
     ] ],
-    [ "OutdoorPvPTFBuffZones", "d6/d70/a04445.html#a6b09030102f8c0dbb4b0e6bbfdee9b24", null ],
-    [ "OutdoorPvPTFBuffZonesNum", "d6/d70/a04445.html#acde5c9331776adb4ed27c2319476e550", null ],
-    [ "TF_ALLY_QUEST", "d6/d70/a04445.html#a3967b7bb2df0e330fbd21a68d557b19a", null ],
-    [ "TF_HORDE_QUEST", "d6/d70/a04445.html#a1bbe00a4cf0ae9f6750d23ef10539c0a", null ],
-    [ "TF_LOCK_TIME", "d6/d70/a04445.html#a925c2f6bf9c7a6d1b694382b888fa85f", null ],
-    [ "TF_LOCK_TIME_UPDATE", "d6/d70/a04445.html#a9ef7be226d98726081fd3cb435d223b5", null ],
-    [ "TFCapturePoints", "d6/d70/a04445.html#a19e9cf9859a7578f154dcdcfa0670620", null ],
-    [ "TFTowerWorldStates", "d6/d70/a04445.html#ac5dbb8989285178cfea88af6f03dd6a6", null ]
+    [ "Beacon", "d6/d70/a04445.html#aa0353d38e414033b4eac645836037a9c", [
+      [ "NPC_STONESCHYE_WHELP", "d6/d70/a04445.html#aa0353d38e414033b4eac645836037a9ca735f9b0923e7a2f2b40c91e7bfd5a6c8", null ]
+    ] ],
+    [ "FelGuard", "d6/d70/a04445.html#af0944e670cdc4872cb4e1de78159ef88", [
+      [ "SPELL_SUMMON_POO", "d6/d70/a04445.html#af0944e670cdc4872cb4e1de78159ef88acaf3b07d165603ce6a87d5e137c8bc6c", null ],
+      [ "NPC_DERANGED_HELBOAR", "d6/d70/a04445.html#af0944e670cdc4872cb4e1de78159ef88a74a22ffd9e172700137c4a85ec978333", null ],
+      [ "QUEST_SHIZZ_WORK", "d6/d70/a04445.html#af0944e670cdc4872cb4e1de78159ef88a22cc94ada0c254f3d3848e67f5701588", null ]
+    ] ],
+    [ "q10935Exorcism", "d6/d70/a04445.html#a2b917ea5e39342011ca6dcdac24e869e", [
+      [ "SPELL_HOLY_FIRE", "d6/d70/a04445.html#a2b917ea5e39342011ca6dcdac24e869eac3a4396238fbb11f537aa061424abe2b", null ],
+      [ "SPELL_HEAL_BARADA", "d6/d70/a04445.html#a2b917ea5e39342011ca6dcdac24e869eae33e5e18452ad49b09d4403d2b856efd", null ]
+    ] ],
+    [ "WoundedBloodElf", "d6/d70/a04445.html#a1b44ea4940860848073d89e7761e5d9e", [
+      [ "SAY_ELF_START", "d6/d70/a04445.html#a1b44ea4940860848073d89e7761e5d9ea52186d9cbaa4a5d1e385d2fe13503a97", null ],
+      [ "SAY_ELF_SUMMON1", "d6/d70/a04445.html#a1b44ea4940860848073d89e7761e5d9ea3b168b2787eb695fadbe796416731ba3", null ],
+      [ "SAY_ELF_RESTING", "d6/d70/a04445.html#a1b44ea4940860848073d89e7761e5d9ea6cd155f2503f730d0d12456613b29964", null ],
+      [ "SAY_ELF_SUMMON2", "d6/d70/a04445.html#a1b44ea4940860848073d89e7761e5d9ea678e628b153b8961e58fe7f936fd9c61", null ],
+      [ "SAY_ELF_COMPLETE", "d6/d70/a04445.html#a1b44ea4940860848073d89e7761e5d9eae06761dd5b07e038a394a2c7e72e93a7", null ],
+      [ "SAY_ELF_AGGRO", "d6/d70/a04445.html#a1b44ea4940860848073d89e7761e5d9eabfc964a1cc07a0fdf8782361353d8a5c", null ],
+      [ "QUEST_ROAD_TO_FALCON_WATCH", "d6/d70/a04445.html#a1b44ea4940860848073d89e7761e5d9eaaca23046d9ea87abc77d28689e3349ed", null ],
+      [ "NPC_HAALESHI_WINDWALKER", "d6/d70/a04445.html#a1b44ea4940860848073d89e7761e5d9eafbcba9ddc06cf15e740c08aa796f43ba", null ],
+      [ "NPC_HAALESHI_TALONGUARD", "d6/d70/a04445.html#a1b44ea4940860848073d89e7761e5d9ea338245af1e86a4794f18dc3072957088", null ],
+      [ "ARAKKOA_CAGE", "d6/d70/a04445.html#a1b44ea4940860848073d89e7761e5d9eafe47930a46107b8a21f186ef6f97ddf7", null ]
+    ] ],
+    [ "AddSC_hellfire_peninsula", "d6/d70/a04445.html#ae450311c68322300a0e6fb8091cd8936", null ]
 ];

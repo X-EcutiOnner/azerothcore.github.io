@@ -1,5 +1,6 @@
 var a27342 =
 [
-    [ "npc_stable_masterAI", "d1/d27/a27342.html#a5c6f9bca1004af163ddb074b606330be", null ],
-    [ "sGossipSelect", "d1/d27/a27342.html#a09205661674dd011ffe425deaadde053", null ]
+    [ "npc_fireworkAI", "da/dc9/a27346.html", "da/dc9/a27346" ],
+    [ "npc_firework", "d1/d27/a27342.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "d1/d27/a27342.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

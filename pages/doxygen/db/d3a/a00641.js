@@ -1,4 +1,4 @@
 var a00641 =
 [
-    [ "AllGameObjectScript", "d3/d59/a10022.html", "d3/d59/a10022" ]
+    [ "AllGameObjectScript", "de/d67/a10034.html", "de/d67/a10034" ]
 ];

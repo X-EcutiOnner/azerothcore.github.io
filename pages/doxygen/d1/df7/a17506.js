@@ -1,6 +1,6 @@
 var a17506 =
 [
-    [ "PrepareSpellScript", "d1/df7/a17506.html#a9041ce6139de9a48621d6898ddcca673", null ],
-    [ "RecalculateDamage", "d1/df7/a17506.html#abfb7c002577a59864fb2aa069b713c0a", null ],
-    [ "Register", "d1/df7/a17506.html#a4308449e8cbe7ed59598a837024141cb", null ]
+    [ "npc_bone_spikeAI", "d5/d76/a17510.html", "d5/d76/a17510" ],
+    [ "npc_bone_spike", "d1/df7/a17506.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "d1/df7/a17506.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

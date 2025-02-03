@@ -1,5 +1,15 @@
 var a15606 =
 [
-    [ "achievement_hadronox_denied", "db/d11/a15606.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
-    [ "OnCheck", "db/d11/a15606.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
+    [ "boss_hadronoxAI", "db/d11/a15606.html#a75430465e2329252581c2522ff14d82b", null ],
+    [ "AnyPlayerValid", "db/d11/a15606.html#a5b4dc381ff6df8a4badc61196e2687bd", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "db/d11/a15606.html#aa5c858b2702744f24ac1d22078df1d7b", null ],
+    [ "DamageTaken", "db/d11/a15606.html#a31ddd8521366da9cb862334c659288b3", null ],
+    [ "DoAction", "db/d11/a15606.html#ab3bf3ca6a2adcf4c50a9bf1ddc8bac0e", null ],
+    [ "GetData", "db/d11/a15606.html#a6fdb9b9650382600086f5646a627af52", null ],
+    [ "JustDied", "db/d11/a15606.html#a42ffdf5a3d2ee43ddf0fc0d29f580491", null ],
+    [ "JustEngagedWith", "db/d11/a15606.html#af8bcc00fbf757e0a0129111cca0a0a5c", null ],
+    [ "JustSummoned", "db/d11/a15606.html#a65b93a213a69edf864ca123b6560b0a8", null ],
+    [ "KilledUnit", "db/d11/a15606.html#ac4b6a589939bdc8a23f182ebf955e242", null ],
+    [ "Reset", "db/d11/a15606.html#a1063db2596a0d57381011c2a6ceeb34e", null ],
+    [ "UpdateAI", "db/d11/a15606.html#a10aa0f67aeb12d3d9a34f6213fe3d28f", null ]
 ];

@@ -1,9 +1,6 @@
 var a15922 =
 [
-    [ "npc_memoryAI", "d3/d87/a15922.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "d3/d87/a15922.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "d3/d87/a15922.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "d3/d87/a15922.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "d3/d87/a15922.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "d3/d87/a15922.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "boss_eadricAI", "d5/d2a/a15926.html", "d5/d2a/a15926" ],
+    [ "boss_eadric", "d3/d87/a15922.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
+    [ "GetAI", "d3/d87/a15922.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
 ];

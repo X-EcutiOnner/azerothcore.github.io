@@ -1,7 +1,6 @@
 var a18362 =
 [
-    [ "npc_impaling_spearAI", "d2/dba/a18362.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "d2/dba/a18362.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "d2/dba/a18362.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "d2/dba/a18362.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "npc_captain_rupertAI", "da/d0e/a18366.html", "da/d0e/a18366" ],
+    [ "npc_captain_rupert", "d2/dba/a18362.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
+    [ "GetAI", "d2/dba/a18362.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
 ];

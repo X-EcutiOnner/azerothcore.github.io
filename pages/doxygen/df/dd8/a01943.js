@@ -1,6 +1,6 @@
 var a01943 =
 [
-    [ "ObjectWorldLoader", "d7/d42/a09262.html", "d7/d42/a09262" ],
+    [ "ObjectWorldLoader", "de/d9e/a09274.html", "de/d9e/a09274" ],
     [ "AddObjectHelper", "df/dd8/a01943.html#a68fc5e61b78a475e024a4f3e0f1f7197", null ],
     [ "AddObjectHelper", "df/dd8/a01943.html#a0881e3c2e2147fefcd2460f09f1fce04", null ],
     [ "AddObjectHelper", "df/dd8/a01943.html#af04925817412dce977fbf9dd300f0d94", null ],

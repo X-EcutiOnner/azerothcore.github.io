@@ -1,10 +1,12 @@
 var a20786 =
 [
-    [ "npc_enslaved_proto_drake", "d7/d2e/a20786.html#aec835fdc8b1beb270176d5341d26c265", null ],
-    [ "MovementInform", "d7/d2e/a20786.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
-    [ "Reset", "d7/d2e/a20786.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
-    [ "SetData", "d7/d2e/a20786.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
-    [ "UpdateAI", "d7/d2e/a20786.html#a252f84198df610bac44b6bd9cd80602e", null ],
-    [ "_events", "d7/d2e/a20786.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
-    [ "_setData", "d7/d2e/a20786.html#adb997badd8831dea7763eaecc93b7773", null ]
+    [ "boss_skarvald_the_constructor", "d7/d2e/a20786.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
+    [ "DoAction", "d7/d2e/a20786.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
+    [ "JustDied", "d7/d2e/a20786.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
+    [ "JustEngagedWith", "d7/d2e/a20786.html#a529439d257abf78f76db0043549964e6", null ],
+    [ "KilledUnit", "d7/d2e/a20786.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
+    [ "Reset", "d7/d2e/a20786.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
+    [ "UpdateAI", "d7/d2e/a20786.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
+    [ "events", "d7/d2e/a20786.html#a28837280e161f6971564a4725c97a154", null ],
+    [ "pInstance", "d7/d2e/a20786.html#ab5b773a9960f611a6383578a607ba258", null ]
 ];

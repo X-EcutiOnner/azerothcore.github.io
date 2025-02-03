@@ -1,7 +1,11 @@
 var a15142 =
 [
-    [ "HandleDummy", "d4/d3c/a15142.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "d4/d3c/a15142.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "d4/d3c/a15142.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "d4/d3c/a15142.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "npc_tiger_matriarchAI", "d4/d3c/a15142.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
+    [ "DamageTaken", "d4/d3c/a15142.html#ab41c4275fe4f42b36615f746a100ccda", null ],
+    [ "IsSummonedBy", "d4/d3c/a15142.html#a8b02683be93944a65b38658bba0af4d8", null ],
+    [ "JustEngagedWith", "d4/d3c/a15142.html#a9a9295008552f5330f778dd3a0c591ea", null ],
+    [ "KilledUnit", "d4/d3c/a15142.html#aabde7633ac07966ee1cd2d9817582189", null ],
+    [ "UpdateAI", "d4/d3c/a15142.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
+    [ "_events", "d4/d3c/a15142.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
+    [ "_tigerGuid", "d4/d3c/a15142.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
 ];

@@ -1,12 +1,6 @@
 var a18046 =
 [
-    [ "npc_strangulate_vehicleAI", "d8/dca/a18046.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
-    [ "DoAction", "d8/dca/a18046.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
-    [ "IsHeroic", "d8/dca/a18046.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
-    [ "IsSummonedBy", "d8/dca/a18046.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
-    [ "OnCharmed", "d8/dca/a18046.html#a40e5537897c452d35093920ddd3669b0", null ],
-    [ "PassengerBoarded", "d8/dca/a18046.html#a819746e13af95fa964c6da3d765a7c21", null ],
-    [ "UpdateAI", "d8/dca/a18046.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
-    [ "_events", "d8/dca/a18046.html#a19b493e994d246128f63d9109e87737a", null ],
-    [ "_instance", "d8/dca/a18046.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
+    [ "ModDestHeight", "d8/dca/a18046.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "d8/dca/a18046.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "d8/dca/a18046.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

@@ -1,6 +1,5 @@
 var a14894 =
 [
-    [ "HandleOnHit", "d5/def/a14894.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "d5/def/a14894.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "d5/def/a14894.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "at_twin_emperors", "d5/def/a14894.html#a343d482857fa0a45c42f593e591f7754", null ],
+    [ "_OnTrigger", "d5/def/a14894.html#adf3120b7bf611e0246abb2970711ada3", null ]
 ];

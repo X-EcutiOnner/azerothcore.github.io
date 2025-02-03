@@ -1,14 +1,13 @@
 var a14862 =
 [
-    [ "boss_twinemperorsAI", "d0/d77/a14862.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "d0/d77/a14862.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "d0/d77/a14862.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "d0/d77/a14862.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "d0/d77/a14862.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "d0/d77/a14862.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "d0/d77/a14862.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "d0/d77/a14862.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "d0/d77/a14862.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "d0/d77/a14862.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "d0/d77/a14862.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "npc_dirt_mound", "d0/d77/a14862.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
+    [ "ChaseNewTarget", "d0/d77/a14862.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
+    [ "EnterEvadeMode", "d0/d77/a14862.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
+    [ "JustEngagedWith", "d0/d77/a14862.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
+    [ "JustSummoned", "d0/d77/a14862.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
+    [ "Reset", "d0/d77/a14862.html#ae1662eb73f21351e07d00a717421de68", null ],
+    [ "SetData", "d0/d77/a14862.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
+    [ "UpdateAI", "d0/d77/a14862.html#a88447191070cf8b84df96db565eef48d", null ],
+    [ "_instance", "d0/d77/a14862.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
+    [ "_ouroHealth", "d0/d77/a14862.html#ac83391fa5069ae4574748f82d15e833d", null ]
 ];

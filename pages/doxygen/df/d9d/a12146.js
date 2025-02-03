@@ -1,6 +1,9 @@
 var a12146 =
 [
-    [ "npc_garr_fireswornAI", "d2/dd3/a12150.html", "d2/dd3/a12150" ],
-    [ "npc_garr_firesworn", "df/d9d/a12146.html#a54c8f5daab9b8c4e1e7ff5d7777fcddf", null ],
-    [ "GetAI", "df/d9d/a12146.html#a07e47767a44d3613f8cba2c3dfb1d14e", null ]
+    [ "boss_baron_geddonAI", "df/d9d/a12146.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
+    [ "DamageTaken", "df/d9d/a12146.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
+    [ "ExecuteEvent", "df/d9d/a12146.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
+    [ "JustEngagedWith", "df/d9d/a12146.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
+    [ "Reset", "df/d9d/a12146.html#aaf47fc993e672877f51b5095f682906c", null ],
+    [ "armageddonCasted", "df/d9d/a12146.html#a1a034601a7dda94becbf1801bda63d55", null ]
 ];

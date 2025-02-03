@@ -1,6 +1,5 @@
 var a18578 =
 [
-    [ "RespawnEvent", "d3/d36/a18578.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
-    [ "Execute", "d3/d36/a18578.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
-    [ "_owner", "d3/d36/a18578.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
+    [ "at_icc_spire_frostwyrm", "d3/d36/a18578.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "d3/d36/a18578.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

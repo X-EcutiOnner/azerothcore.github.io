@@ -1,16 +1,6 @@
 var a18746 =
 [
-    [ "boss_heiganAI", "dd/d7a/a18746.html#a7aab8f8d2c3ccb434c2290362d03f89e", null ],
-    [ "IsInRoom", "dd/d7a/a18746.html#a3aee27fdbb0ce9c60f2115b878112ea8", null ],
-    [ "JustDied", "dd/d7a/a18746.html#a4a7389a2f81677fa5c0e871bc996fe26", null ],
-    [ "JustEngagedWith", "dd/d7a/a18746.html#a72a2ae89b7abede9f8a4cb3ee9d76258", null ],
-    [ "KilledUnit", "dd/d7a/a18746.html#a58160aefd36208ad7f0fec161a3f8b85", null ],
-    [ "Reset", "dd/d7a/a18746.html#a515a86419bdd1f755943a371b3601795", null ],
-    [ "StartFightPhase", "dd/d7a/a18746.html#a211387ae4f89d54a22a4f8515239d1c3", null ],
-    [ "UpdateAI", "dd/d7a/a18746.html#a9009ae9392e183758a48ebe59b9c0cf0", null ],
-    [ "currentPhase", "dd/d7a/a18746.html#a7b0a9b9f53cded3bc24ed22c1b643a30", null ],
-    [ "currentSection", "dd/d7a/a18746.html#a848fbc5aa8a497ae01057c6f0ba59e7a", null ],
-    [ "events", "dd/d7a/a18746.html#a7cc35d445aadf1eb252482522b8cc26d", null ],
-    [ "moveRight", "dd/d7a/a18746.html#a12da8a2326f0ac72e6ee8733c55139c8", null ],
-    [ "pInstance", "dd/d7a/a18746.html#a4b64769f2e10e7ba598fcc115b021fd4", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d0/d14/a18750.html", "d0/d14/a18750" ],
+    [ "boss_grobbulus_poison_cloud", "dd/d7a/a18746.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
+    [ "GetAI", "dd/d7a/a18746.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
 ];

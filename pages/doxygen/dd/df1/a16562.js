@@ -1,8 +1,6 @@
 var a16562 =
 [
-    [ "npc_phantom_hallucinationAI", "dd/df1/a16562.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
-    [ "EnterEvadeMode", "dd/df1/a16562.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
-    [ "JustDied", "dd/df1/a16562.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
-    [ "UpdateAI", "dd/df1/a16562.html#ad874a741c641dbac6380aa682d582d7c", null ],
-    [ "numOfUpd", "dd/df1/a16562.html#adb78f5dcd272e8223f895079885a5461", null ]
+    [ "npc_ghostly_priestAI", "dc/d05/a16566.html", "dc/d05/a16566" ],
+    [ "npc_ghostly_priest", "dd/df1/a16562.html#a7c03bb327cfc65f4df515969da482ddb", null ],
+    [ "GetAI", "dd/df1/a16562.html#a0fab76345c5459efcedff02123e4fc8d", null ]
 ];

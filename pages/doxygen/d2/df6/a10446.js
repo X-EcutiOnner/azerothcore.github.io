@@ -1,6 +1,6 @@
 var a10446 =
 [
-    [ "GuildDemoteMember", "d2/df6/a10446.html#aa3d68021828c516d7b1995811e8df7d7", null ],
-    [ "Read", "d2/df6/a10446.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
-    [ "Demotee", "d2/df6/a10446.html#a60c7e56c201d794fb473a62fccc160bb", null ]
+    [ "GuildUpdateInfoText", "d2/df6/a10446.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
+    [ "Read", "d2/df6/a10446.html#a7019344fef99c5479602d7bc1176e9ee", null ],
+    [ "InfoText", "d2/df6/a10446.html#a786802ce427465d66a4cea1365743975", null ]
 ];

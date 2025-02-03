@@ -1,5 +1,6 @@
 var a13678 =
 [
-    [ "at_zulgurub_bloodfire_pit_speech", "da/d4d/a13678.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
-    [ "_OnTrigger", "da/d4d/a13678.html#a8f1e477942ba9a5f653077632a98930f", null ]
+    [ "boss_hakkarAI", "d1/d01/a13682.html", "d1/d01/a13682" ],
+    [ "boss_hakkar", "da/d4d/a13678.html#a834bd1f223154fbf1be94bf43136da28", null ],
+    [ "GetAI", "da/d4d/a13678.html#aff3a089e30dcddfde4db372104153723", null ]
 ];

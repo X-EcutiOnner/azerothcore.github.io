@@ -1,11 +1,6 @@
 var a21562 =
 [
-    [ "npc_torturer_lecraftAI", "d9/da4/a21562.html#a0886d83c8ab8b7db728928ecf922031b", null ],
-    [ "JustEngagedWith", "d9/da4/a21562.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
-    [ "Reset", "d9/da4/a21562.html#a13177e318e7777ecb13ba71c4f10f425", null ],
-    [ "SpellHit", "d9/da4/a21562.html#a837805efcb6c99de55646a232f151ae8", null ],
-    [ "UpdateAI", "d9/da4/a21562.html#a45919da006b0e767ec38810a6fcbac5d", null ],
-    [ "_events", "d9/da4/a21562.html#a7879e11a94c32266ed11dc352ae7e802", null ],
-    [ "_playerGUID", "d9/da4/a21562.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
-    [ "_textCounter", "d9/da4/a21562.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "dd/d8d/a21566.html", "dd/d8d/a21566" ],
+    [ "npc_commander_eligor_dawnbringer", "d9/da4/a21562.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "d9/da4/a21562.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

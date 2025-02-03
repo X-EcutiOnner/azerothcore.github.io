@@ -1,7 +1,7 @@
 var a23990 =
 [
-    [ "HandleEffectRemove", "d1/daf/a23990.html#a317c238b165ad331beb447ea5d0de7e1", null ],
-    [ "PrepareAuraScript", "d1/daf/a23990.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
-    [ "Register", "d1/daf/a23990.html#a13fdde1557249328306a57e159d821a7", null ],
-    [ "Validate", "d1/daf/a23990.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
+    [ "npc_kservantAI", "d1/daf/a23990.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d1/daf/a23990.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d1/daf/a23990.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "d1/daf/a23990.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
 ];

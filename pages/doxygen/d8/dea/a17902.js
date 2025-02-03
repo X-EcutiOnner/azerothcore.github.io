@@ -1,6 +1,6 @@
 var a17902 =
 [
-    [ "npc_tirion_fordringAI", "d0/d9b/a17906.html", "d0/d9b/a17906" ],
-    [ "npc_tirion_fordring_tft", "d8/dea/a17902.html#a04036d958e7ac643c9ba8d9073bca404", null ],
-    [ "GetAI", "d8/dea/a17902.html#a41dcfa415831091531cbf46e946f442d", null ]
+    [ "LichKingMovieEvent", "d8/dea/a17902.html#a3e48e13dc5166c73a9f379045988f86a", null ],
+    [ "Execute", "d8/dea/a17902.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
+    [ "_owner", "d8/dea/a17902.html#a7ed68f442a644d6bb7a036812351d89e", null ]
 ];

@@ -1,13 +1,8 @@
 var a08614 =
 [
-    [ "MMapTargetData", "dc/d59/a08614.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
-    [ "MMapTargetData", "dc/d59/a08614.html#a8312ea3187617e78b28aab842a8284cc", null ],
-    [ "MMapTargetData", "dc/d59/a08614.html#a4108ff5fbbf7c468ff7d90ac7beea4fa", null ],
-    [ "MMapTargetData", "dc/d59/a08614.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
-    [ "operator=", "dc/d59/a08614.html#a4053689f5f675cf1a621dfb39211b3cc", null ],
-    [ "operator=", "dc/d59/a08614.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
-    [ "PosChanged", "dc/d59/a08614.html#ade55876b7781b47a72dac9fea1f2e420", null ],
-    [ "_endTime", "dc/d59/a08614.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
-    [ "_posOwner", "dc/d59/a08614.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
-    [ "_posTarget", "dc/d59/a08614.html#a7f089d873690e8ea549f6345b6598fc4", null ]
+    [ "PowerPctOrderPred", "dc/d59/a08614.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
+    [ "operator()", "dc/d59/a08614.html#a215b641a9364c7fcb82778c98f214271", null ],
+    [ "operator()", "dc/d59/a08614.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
+    [ "_ascending", "dc/d59/a08614.html#aed7be288f876fdd35c1cdba53626b03c", null ],
+    [ "_power", "dc/d59/a08614.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
 ];

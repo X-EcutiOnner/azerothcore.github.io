@@ -1,5 +1,5 @@
 var a03968 =
 [
-    [ "achievement_commandscript", "d2/d98/a11354.html", "d2/d98/a11354" ],
-    [ "AddSC_achievement_commandscript", "db/de8/a03968.html#afeb482a8cffe8416071764bc4e78bff2", null ]
+    [ "message_commandscript", "d3/d9c/a11486.html", "d3/d9c/a11486" ],
+    [ "AddSC_message_commandscript", "db/de8/a03968.html#a85760eb92ac87e8dcb18c91d31f09fc0", null ]
 ];

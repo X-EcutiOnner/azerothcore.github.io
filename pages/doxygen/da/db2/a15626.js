@@ -1,7 +1,5 @@
 var a15626 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "da/db2/a15626.html#a886ed4c1485fdedcc176341210eee31a", null ],
-    [ "OnCreatureCreate", "da/db2/a15626.html#a7a99d985a4b465ae87c04211a7a83a77", null ],
-    [ "OnGameObjectCreate", "da/db2/a15626.html#a1ef3dc88400345998d03f3c993b9a181", null ],
-    [ "OnGameObjectRemove", "da/db2/a15626.html#a3a2776b83272d81de9ddcb0c90ac881c", null ]
+    [ "achievement_hadronox_denied", "da/db2/a15626.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
+    [ "OnCheck", "da/db2/a15626.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
 ];

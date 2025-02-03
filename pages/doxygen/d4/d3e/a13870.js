@@ -1,10 +1,6 @@
 var a13870 =
 [
-    [ "npc_brewfest_super_brew_trigger", "d4/d3e/a13870.html#a3d2189978683150b1c431fa0fd637358", null ],
-    [ "AttackStart", "d4/d3e/a13870.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
-    [ "JustEngagedWith", "d4/d3e/a13870.html#a61be52cb8ba0cc10285820ad5324816e", null ],
-    [ "MoveInLineOfSight", "d4/d3e/a13870.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
-    [ "Reset", "d4/d3e/a13870.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
-    [ "UpdateAI", "d4/d3e/a13870.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
-    [ "timer", "d4/d3e/a13870.html#a2ebb06175e3142cca156e57e8386fe02", null ]
+    [ "npc_brewfest_keg_reciver", "d4/d3e/a13870.html#af12e7608f3f715650e6c265ac18920e4", null ],
+    [ "MoveInLineOfSight", "d4/d3e/a13870.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
+    [ "sGossipSelect", "d4/d3e/a13870.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
 ];

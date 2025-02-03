@@ -1,9 +1,6 @@
 var a13898 =
 [
-    [ "CheckCast", "dc/d07/a13898.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
-    [ "FilterTargets", "dc/d07/a13898.html#a9638048b4107db116474abf8e18d7760", null ],
-    [ "HandleBeforeHit", "dc/d07/a13898.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
-    [ "HandleScriptEffect", "dc/d07/a13898.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
-    [ "PrepareSpellScript", "dc/d07/a13898.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
-    [ "Register", "dc/d07/a13898.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
+    [ "HandleEffectRemove", "dc/d07/a13898.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
+    [ "PrepareAuraScript", "dc/d07/a13898.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
+    [ "Register", "dc/d07/a13898.html#aa436788f638fedacb217ca508da5f426", null ]
 ];

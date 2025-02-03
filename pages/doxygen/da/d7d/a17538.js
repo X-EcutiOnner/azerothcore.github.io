@@ -1,6 +1,6 @@
 var a17538 =
 [
-    [ "npc_volatile_oozeAI", "de/dd5/a17542.html", "de/dd5/a17542" ],
-    [ "npc_volatile_ooze", "da/d7d/a17538.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "da/d7d/a17538.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "UnboundPlagueTargetSelector", "da/d7d/a17538.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "da/d7d/a17538.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "da/d7d/a17538.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

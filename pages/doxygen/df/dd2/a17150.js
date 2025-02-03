@@ -1,6 +1,6 @@
 var a17150 =
 [
-    [ "ModAuraValue", "df/dd2/a17150.html#a359453c6253beb6f729209c6d3d79af7", null ],
-    [ "PrepareSpellScript", "df/dd2/a17150.html#a4f916abef69782be10cc6be9ba0124f5", null ],
-    [ "Register", "df/dd2/a17150.html#a4a387df07c88144288c4327ce86b730a", null ]
+    [ "npc_saurfang_eventAI", "d5/da4/a17154.html", "d5/da4/a17154" ],
+    [ "npc_saurfang_event", "df/dd2/a17150.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "df/dd2/a17150.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

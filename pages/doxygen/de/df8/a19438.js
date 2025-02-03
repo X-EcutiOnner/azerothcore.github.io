@@ -1,5 +1,7 @@
 var a19438 =
 [
-    [ "achievement_algalon_he_feeds_on_your_tears", "de/df8/a19438.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
-    [ "OnCheck", "de/df8/a19438.html#affea33614581545c65513bfe533d7246", null ]
+    [ "HandleDummyEffect", "de/df8/a19438.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "de/df8/a19438.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "de/df8/a19438.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "de/df8/a19438.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

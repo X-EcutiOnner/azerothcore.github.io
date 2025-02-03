@@ -1,5 +1,6 @@
 var a12866 =
 [
-    [ "npc_apothecary_frye", "d2/dd3/a12866.html#a5546099958a9a267d237e65720588456", null ],
-    [ "JustDied", "d2/dd3/a12866.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
+    [ "npc_scholomance_occultistAI", "d6/dbb/a12870.html", "d6/dbb/a12870" ],
+    [ "npc_scholomance_occultist", "d2/dd3/a12866.html#adf100912a15ff8edf056efa7eebd13ff", null ],
+    [ "GetAI", "d2/dd3/a12866.html#a5da2b011ec4859523c1f713dc18e4d5b", null ]
 ];

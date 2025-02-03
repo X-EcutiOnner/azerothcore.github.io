@@ -1,6 +1,8 @@
 var a12318 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "db/de2/a12322.html", "db/de2/a12322" ],
-    [ "instance_gnomeregan", "de/d44/a12318.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "de/d44/a12318.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "npc_lava_spawn", "de/d44/a12318.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "de/d44/a12318.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "de/d44/a12318.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "de/d44/a12318.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "de/d44/a12318.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

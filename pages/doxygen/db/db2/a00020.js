@@ -1,7 +1,7 @@
 var a00020 =
 [
-    [ "Acore::Runnable", "d2/d63/a05306.html", "d2/d63/a05306" ],
-    [ "Acore::Thread", "d8/dfd/a05310.html", "d8/dfd/a05310" ],
+    [ "Acore::Runnable", "d8/dfd/a05310.html", "d8/dfd/a05310" ],
+    [ "Acore::Thread", "db/dc8/a05314.html", "db/dc8/a05314" ],
     [ "Priority", "db/db2/a00020.html#a98ce3c3a6bb5eee03a544054eae9f9f0", [
       [ "Priority_Idle", "db/db2/a00020.html#a98ce3c3a6bb5eee03a544054eae9f9f0a6540dbe098806722de7130f0cf978d24", null ],
       [ "Priority_Lowest", "db/db2/a00020.html#a98ce3c3a6bb5eee03a544054eae9f9f0a2c1092f67a3addf9410ac00e8a8f62b0", null ],

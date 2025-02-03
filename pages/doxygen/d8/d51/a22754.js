@@ -1,7 +1,6 @@
 var a22754 =
 [
-    [ "PrepareAuraScript", "d8/d51/a22754.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "d8/d51/a22754.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "d8/d51/a22754.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "d8/d51/a22754.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "HandleScriptEffect", "d8/d51/a22754.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
+    [ "PrepareSpellScript", "d8/d51/a22754.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
+    [ "Register", "d8/d51/a22754.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
 ];

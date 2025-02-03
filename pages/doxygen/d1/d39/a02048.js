@@ -1,4 +1,4 @@
 var a02048 =
 [
-    [ "WorldPacket", "dc/dc5/a10766.html", "dc/dc5/a10766" ]
+    [ "WorldPacket", "de/d41/a10778.html", "de/d41/a10778" ]
 ];

@@ -1,8 +1,12 @@
 var a13406 =
 [
-    [ "npc_varian_wrynnAI", "d2/dd5/a13410.html", "d2/dd5/a13410" ],
-    [ "npc_varian_wrynn", "d3/d83/a13406.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "d3/d83/a13406.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "d3/d83/a13406.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "d3/d83/a13406.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d3/d83/a13406.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
+    [ "JustEngagedWith", "d3/d83/a13406.html#a36324482fb264cc3cacf11c3ed542eee", null ],
+    [ "JustSummoned", "d3/d83/a13406.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
+    [ "Reset", "d3/d83/a13406.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
+    [ "SetGUID", "d3/d83/a13406.html#aa5270e7468dcafba98d3ee72752771ce", null ],
+    [ "UpdateAI", "d3/d83/a13406.html#ab704e4f3af8aa734910efd259db31407", null ],
+    [ "_events", "d3/d83/a13406.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
+    [ "LamentEvent", "d3/d83/a13406.html#ace9e901a965665e0f97cb9646af308aa", null ],
+    [ "playerGUID", "d3/d83/a13406.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
 ];

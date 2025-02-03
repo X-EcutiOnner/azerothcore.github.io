@@ -1,6 +1,12 @@
 var a18190 =
 [
-    [ "npc_blazing_skeletonAI", "d9/d4b/a18194.html", "d9/d4b/a18194" ],
-    [ "npc_blazing_skeleton", "de/d93/a18190.html#a158720704479946048472ffe0beec492", null ],
-    [ "GetAI", "de/d93/a18190.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
+    [ "npc_risen_archmageAI", "de/d93/a18190.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
+    [ "CanAIAttack", "de/d93/a18190.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
+    [ "DoAction", "de/d93/a18190.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
+    [ "JustEngagedWith", "de/d93/a18190.html#aef3a1631b4bb8d28d4056036981b0192", null ],
+    [ "JustSummoned", "de/d93/a18190.html#aff6e86057086db1319bb680e52e41634", null ],
+    [ "Reset", "de/d93/a18190.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
+    [ "UpdateAI", "de/d93/a18190.html#ae78dc64f858573b234210ca175e5bdd9", null ],
+    [ "_events", "de/d93/a18190.html#a6dff9ff5332c0bc337840882689f47ed", null ],
+    [ "_instance", "de/d93/a18190.html#a1b4e12b199bf3ada517c895c5f387c4a", null ]
 ];

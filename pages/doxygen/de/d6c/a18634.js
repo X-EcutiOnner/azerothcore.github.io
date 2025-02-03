@@ -1,8 +1,7 @@
 var a18634 =
 [
-    [ "HandleScript", "de/d6c/a18634.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
-    [ "HandleScript2", "de/d6c/a18634.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
-    [ "Load", "de/d6c/a18634.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
-    [ "PrepareSpellScript", "de/d6c/a18634.html#a2d1dbae570206b358878020879708000", null ],
-    [ "Register", "de/d6c/a18634.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
+    [ "npc_ioc_gunship_captainAI", "de/d6c/a18634.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
+    [ "DoAction", "de/d6c/a18634.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
+    [ "UpdateAI", "de/d6c/a18634.html#a222b304633143bba47d3edde67ea093b", null ],
+    [ "_events", "de/d6c/a18634.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
 ];

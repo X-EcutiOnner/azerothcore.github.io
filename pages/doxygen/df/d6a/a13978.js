@@ -1,11 +1,6 @@
 var a13978 =
 [
-    [ "npc_high_oracle_soo_roo", "df/d6a/a13978.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
-    [ "MoveInLineOfSight", "df/d6a/a13978.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
-    [ "Reset", "df/d6a/a13978.html#a89a60a83a46e0095045b2353e50483ed", null ],
-    [ "UpdateAI", "df/d6a/a13978.html#ac22cfa519e478da643a51ae887f306fd", null ],
-    [ "orphanGUID", "df/d6a/a13978.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
-    [ "phase", "df/d6a/a13978.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
-    [ "playerGUID", "df/d6a/a13978.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
-    [ "timer", "df/d6a/a13978.html#aa5238d3ee361374681947de874391a1f", null ]
+    [ "PeriodicTick", "df/d6a/a13978.html#a0832c36a9497674374b2998398bfc3a4", null ],
+    [ "PrepareAuraScript", "df/d6a/a13978.html#a89acb64235da1ff59da90a509fbeec9d", null ],
+    [ "Register", "df/d6a/a13978.html#aab689a2cb84dcd064736171035640584", null ]
 ];

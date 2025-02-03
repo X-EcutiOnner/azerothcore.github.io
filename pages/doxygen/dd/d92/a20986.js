@@ -1,6 +1,8 @@
 var a20986 =
 [
-    [ "boss_cyanigosaAI", "de/d13/a20990.html", "de/d13/a20990" ],
-    [ "boss_cyanigosa", "dd/d92/a20986.html#a4db12e2fb873ad3595a437df09663a22", null ],
-    [ "GetAI", "dd/d92/a20986.html#a779c7c3a5f0002501361fa92fe14af69", null ]
+    [ "npc_frozen_orbAI", "dd/d92/a20986.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "dd/d92/a20986.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "dd/d92/a20986.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "dd/d92/a20986.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "dd/d92/a20986.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

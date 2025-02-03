@@ -1,9 +1,12 @@
 var a09650 =
 [
-    [ "MapUpdateRequest", "d7/da8/a09650.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "d7/da8/a09650.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "d7/da8/a09650.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "d7/da8/a09650.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "d7/da8/a09650.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "d7/da8/a09650.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "MapReference", "d7/da8/a09650.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
+    [ "~MapReference", "d7/da8/a09650.html#a1e93b44871737991140718322fd1cd69", null ],
+    [ "next", "d7/da8/a09650.html#a352ef695a8968a17e921861b7d6242c1", null ],
+    [ "next", "d7/da8/a09650.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
+    [ "nocheck_prev", "d7/da8/a09650.html#a6cfff18295cf049ff554b0f140680890", null ],
+    [ "nockeck_prev", "d7/da8/a09650.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
+    [ "sourceObjectDestroyLink", "d7/da8/a09650.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
+    [ "targetObjectBuildLink", "d7/da8/a09650.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
+    [ "targetObjectDestroyLink", "d7/da8/a09650.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
 ];

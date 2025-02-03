@@ -1,7 +1,9 @@
 var a15942 =
 [
-    [ "HandleAfterEffectAbsorb", "db/d73/a15942.html#ab3d9f3679931b4b3b29713602d08701d", null ],
-    [ "PrepareAuraScript", "db/d73/a15942.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
-    [ "Register", "db/d73/a15942.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
-    [ "Validate", "db/d73/a15942.html#a87750183d2b2d6adb67bba4a1f767029", null ]
+    [ "npc_memoryAI", "db/d73/a15942.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "db/d73/a15942.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "db/d73/a15942.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "db/d73/a15942.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "db/d73/a15942.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "db/d73/a15942.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

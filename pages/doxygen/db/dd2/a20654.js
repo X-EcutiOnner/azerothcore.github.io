@@ -1,6 +1,8 @@
 var a20654 =
 [
-    [ "OnEffect", "db/dd2/a20654.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "db/dd2/a20654.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "db/dd2/a20654.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "Absorb", "db/dd2/a20654.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
+    [ "CalculateAmount", "db/dd2/a20654.html#afe50bf22d07e68757caffb056ad55811", null ],
+    [ "PrepareAuraScript", "db/dd2/a20654.html#afa4ef1f7faa36a521c208dde10d09437", null ],
+    [ "Register", "db/dd2/a20654.html#aae020936d42da81c445f7d296660987b", null ],
+    [ "Validate", "db/dd2/a20654.html#a5852135c5214ee3938603632b0f21917", null ]
 ];

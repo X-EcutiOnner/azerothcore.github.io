@@ -1,6 +1,6 @@
 var a21862 =
 [
-    [ "npc_vekjik", "de/d26/a21862.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "de/d26/a21862.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "de/d26/a21862.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "npc_still_at_it_triggerAI", "dd/daf/a21866.html", "dd/daf/a21866" ],
+    [ "npc_still_at_it_trigger", "de/d26/a21862.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "de/d26/a21862.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

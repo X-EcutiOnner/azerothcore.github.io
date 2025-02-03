@@ -1,8 +1,6 @@
 var a16486 =
 [
-    [ "npc_fos_leaderAI", "d5/de6/a16486.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "d5/de6/a16486.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "d5/de6/a16486.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "d5/de6/a16486.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "d5/de6/a16486.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "FilterTargets", "d5/de6/a16486.html#a36879a2920f43562bb0ff89c76d758e4", null ],
+    [ "PrepareSpellScript", "d5/de6/a16486.html#afeb95c5fe970ebc147d509981b026e98", null ],
+    [ "Register", "d5/de6/a16486.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
 ];

@@ -1,6 +1,6 @@
 var a25158 =
 [
-    [ "CheckProc", "df/dcb/a25158.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
-    [ "PrepareAuraScript", "df/dcb/a25158.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
-    [ "Register", "df/dcb/a25158.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
+    [ "CheckCast", "df/dcb/a25158.html#a7fa12be149f0cb2202142d7f44cde0a6", null ],
+    [ "PrepareSpellScript", "df/dcb/a25158.html#ad6867dad8bda358bd1479935c80b82e7", null ],
+    [ "Register", "df/dcb/a25158.html#a0ab2f1f2a87db93e54dc883c4e53d7ba", null ]
 ];

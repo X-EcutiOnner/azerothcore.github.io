@@ -1,8 +1,10 @@
 var a20250 =
 [
-    [ "npc_ulduar_dark_rune_guardianAI", "d3/db7/a20250.html#aedb43124c923621aadecb77511204fc6", null ],
-    [ "CanAIAttack", "d3/db7/a20250.html#af23cb4a19d28f5aa57ba96de95f87c87", null ],
-    [ "Reset", "d3/db7/a20250.html#a4c1f53fbbc6189ca9ee0420bc4198684", null ],
-    [ "UpdateAI", "d3/db7/a20250.html#ad21127654d5511b6b1d9b22cdd77bd08", null ],
-    [ "timer2", "d3/db7/a20250.html#aa66f1aa48cf928ac12751cb3ca2358f3", null ]
+    [ "npc_ulduar_harpoonfirestateAI", "d3/db7/a20250.html#acc6853671f37e35c746ffa3807ae10b2", null ],
+    [ "GetData", "d3/db7/a20250.html#ac23f2c901ef8c2160ceea43a0a15e185", null ],
+    [ "GetHarpoonGunIdForThisHFS", "d3/db7/a20250.html#af21c4d50febac02eb0572efe564a19b1", null ],
+    [ "Reset", "d3/db7/a20250.html#af300a8271762fe1b5582384114902ee8", null ],
+    [ "SetData", "d3/db7/a20250.html#abf485123f0a73aa84ad5178e23c4192e", null ],
+    [ "pInstance", "d3/db7/a20250.html#af576864ded6610daad973ac420d2fdb8", null ],
+    [ "repairPoints", "d3/db7/a20250.html#a5e9bcd384285b9046da93bd18804d07b", null ]
 ];

@@ -1,10 +1,7 @@
 var a16338 =
 [
-    [ "boss_dredAI", "d2/d8c/a16338.html#a4ad04fe31990a37fd6d3a23329350248", null ],
-    [ "GetData", "d2/d8c/a16338.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
-    [ "JustEngagedWith", "d2/d8c/a16338.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
-    [ "Reset", "d2/d8c/a16338.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
-    [ "SetData", "d2/d8c/a16338.html#a884f48aabc26b054dcd303a91cb88301", null ],
-    [ "UpdateAI", "d2/d8c/a16338.html#afc12ced9b5026fe3b297560c30e129ed", null ],
-    [ "_raptorCount", "d2/d8c/a16338.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
+    [ "HandleEffectPeriodic", "d2/d8c/a16338.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
+    [ "PrepareAuraScript", "d2/d8c/a16338.html#af84222492b3209c97695895c4c991f4a", null ],
+    [ "Register", "d2/d8c/a16338.html#a4d1741913631bb649508ef238e25a6c8", null ],
+    [ "Validate", "d2/d8c/a16338.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
 ];

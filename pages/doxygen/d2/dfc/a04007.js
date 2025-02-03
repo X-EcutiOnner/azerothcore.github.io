@@ -1,5 +1,5 @@
 var a04007 =
 [
-    [ "group_commandscript", "d0/d67/a11430.html", "d0/d67/a11430" ],
-    [ "AddSC_group_commandscript", "d2/dfc/a04007.html#ac4c9434ed910cd9636e0a8644a8e91e1", null ]
+    [ "modify_commandscript", "de/d9f/a11498.html", "de/d9f/a11498" ],
+    [ "AddSC_modify_commandscript", "d2/dfc/a04007.html#a9cbb6ad3c630cbeb9ba39b4552f72e87", null ]
 ];

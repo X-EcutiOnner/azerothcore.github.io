@@ -1,5 +1,8 @@
 var a12350 =
 [
-    [ "npc_chess_move_trigger", "da/d26/a12350.html#a6c0c37677db45ee11ebe158893d99632", null ],
-    [ "DamageTaken", "da/d26/a12350.html#af413c7af2254c1cc06462b2a62ac88db", null ]
+    [ "npc_kernobeeAI", "da/d26/a12350.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
+    [ "SetGUID", "da/d26/a12350.html#a34999b470697ba0a27701facd63625f8", null ],
+    [ "UpdateAI", "da/d26/a12350.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
+    [ "checkTimer", "da/d26/a12350.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
+    [ "playerGUID", "da/d26/a12350.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
 ];

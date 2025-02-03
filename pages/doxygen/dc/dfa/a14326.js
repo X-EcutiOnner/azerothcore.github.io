@@ -1,12 +1,6 @@
 var a14326 =
 [
-    [ "boss_kazrogal", "dc/dfa/a14326.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
-    [ "DoAction", "dc/dfa/a14326.html#a7721debceeefaeb69e71855b8e8742f8", null ],
-    [ "GetMarkRepeatTimer", "dc/dfa/a14326.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
-    [ "JustDied", "dc/dfa/a14326.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
-    [ "JustEngagedWith", "dc/dfa/a14326.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
-    [ "KilledUnit", "dc/dfa/a14326.html#ab1439114a84d85947106d979f38d12fa", null ],
-    [ "Reset", "dc/dfa/a14326.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
-    [ "_markCounter", "dc/dfa/a14326.html#a54ef8b88bf62e260e19a964d1926ef4a", null ],
-    [ "_recentlySpoken", "dc/dfa/a14326.html#ad7401abae1b25d58ed93cc800d75bc26", null ]
+    [ "HandleHit", "dc/dfa/a14326.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
+    [ "PrepareSpellScript", "dc/dfa/a14326.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
+    [ "Register", "dc/dfa/a14326.html#a64a861b5c25df5780390aa55899393d7", null ]
 ];

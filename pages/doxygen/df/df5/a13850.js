@@ -1,6 +1,6 @@
 var a13850 =
 [
-    [ "npc_brewfest_keg_reciver", "df/df5/a13850.html#af12e7608f3f715650e6c265ac18920e4", null ],
-    [ "MoveInLineOfSight", "df/df5/a13850.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
-    [ "sGossipSelect", "df/df5/a13850.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
+    [ "instance_zulgurub_InstanceMapScript", "d3/d19/a13854.html", "d3/d19/a13854" ],
+    [ "instance_zulgurub", "df/df5/a13850.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
+    [ "GetInstanceScript", "df/df5/a13850.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
 ];

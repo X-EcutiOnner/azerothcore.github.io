@@ -1,7 +1,8 @@
 var a08438 =
 [
-    [ "ItemPosCount", "d6/ded/a08438.html#a43458da1fc31d827b6de726754f7901e", null ],
-    [ "isContainedIn", "d6/ded/a08438.html#a6977c544a2d39ca5872b75f27517974f", null ],
-    [ "count", "d6/ded/a08438.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
-    [ "pos", "d6/ded/a08438.html#ad8954f1a6323316510cfe0f332ee495f", null ]
+    [ "EnchantDuration", "d6/ded/a08438.html#a1ce5f81deaa60494c247673c113632d8", null ],
+    [ "EnchantDuration", "d6/ded/a08438.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
+    [ "item", "d6/ded/a08438.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
+    [ "leftduration", "d6/ded/a08438.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
+    [ "slot", "d6/ded/a08438.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
 ];

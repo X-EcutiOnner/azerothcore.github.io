@@ -1,6 +1,6 @@
 var a08442 =
 [
-    [ "SavedItem", "d5/db3/a08442.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
-    [ "dstpos", "d5/db3/a08442.html#af844c8b955858b1ead94798c6326fa03", null ],
-    [ "item", "d5/db3/a08442.html#afaa651441e306c13acc3cd1aa3084170", null ]
+    [ "SkillStatusData", "d5/db3/a08442.html#a7594ceb20110da34f3aa68ac69996b94", null ],
+    [ "pos", "d5/db3/a08442.html#a51ccb328b807f2c7fd275d843218f466", null ],
+    [ "uState", "d5/db3/a08442.html#a232801ad25897a82739916d5be4fdc22", null ]
 ];

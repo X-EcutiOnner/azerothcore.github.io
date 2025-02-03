@@ -1,6 +1,6 @@
 var a16786 =
 [
-    [ "npc_pos_freed_slaveAI", "df/dd2/a16786.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
-    [ "CanAIAttack", "df/dd2/a16786.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
-    [ "EnterEvadeMode", "df/dd2/a16786.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
+    [ "npc_pos_collapsing_icicleAI", "d6/d87/a16790.html", "d6/d87/a16790" ],
+    [ "npc_pos_collapsing_icicle", "df/dd2/a16786.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "df/dd2/a16786.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

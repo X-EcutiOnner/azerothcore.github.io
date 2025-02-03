@@ -1,11 +1,7 @@
 var a15746 =
 [
-    [ "boss_general_zarithrianAI", "dd/da8/a15746.html#a4168a5883052810d137f59d3b104bc24", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "dd/da8/a15746.html#a22f6ff041e61c94df73a938162fa26f5", null ],
-    [ "JustDied", "dd/da8/a15746.html#a49be533142c82a95a136dc2dcbf4843c", null ],
-    [ "JustEngagedWith", "dd/da8/a15746.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
-    [ "JustSummoned", "dd/da8/a15746.html#acb694d20b35d57a315aa4662562af210", null ],
-    [ "KilledUnit", "dd/da8/a15746.html#ad385477740b728e63acff7c184df3c09", null ],
-    [ "Reset", "dd/da8/a15746.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
-    [ "UpdateAI", "dd/da8/a15746.html#a3a7e578d64a760cd38712c725eecc97d", null ]
+    [ "CheckDistance", "dd/da8/a15746.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
+    [ "PrepareSpellScript", "dd/da8/a15746.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
+    [ "Register", "dd/da8/a15746.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
+    [ "Validate", "dd/da8/a15746.html#aa5d7a420154b156ca24e73de2faf912a", null ]
 ];

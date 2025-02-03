@@ -1,6 +1,5 @@
 var a21738 =
 [
-    [ "npc_lord_areteAI", "d8/d89/a21742.html", "d8/d89/a21742" ],
-    [ "npc_lord_arete", "de/ded/a21738.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "de/ded/a21738.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "npc_black_knight_graveyardAI", "de/ded/a21738.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "de/ded/a21738.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

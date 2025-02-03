@@ -1,6 +1,6 @@
 var a12198 =
 [
-    [ "boss_magmadarAI", "df/d96/a12198.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
-    [ "ExecuteEvent", "df/d96/a12198.html#a7d4c1807cb320fdc331057209a4ce166", null ],
-    [ "JustEngagedWith", "df/d96/a12198.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
+    [ "npc_core_ragerAI", "d2/db3/a12202.html", "d2/db3/a12202" ],
+    [ "npc_core_rager", "df/d96/a12198.html#ada4acfa2a1934d1609a8f9c78da6377d", null ],
+    [ "GetAI", "df/d96/a12198.html#a0ace94ecc1ebfb0e880c50d9b68087db", null ]
 ];

@@ -1,6 +1,6 @@
 var a19934 =
 [
-    [ "FilterTargets", "d8/d42/a19934.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "d8/d42/a19934.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "d8/d42/a19934.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "npc_ulduar_hodir_mageAI", "d4/d55/a19938.html", "d4/d55/a19938" ],
+    [ "npc_ulduar_hodir_mage", "d8/d42/a19934.html#afebdd0f99f0c7eaaf0a2d5731335105d", null ],
+    [ "GetAI", "d8/d42/a19934.html#abcbe0337b2a83b6eb0a64f7465d7f79a", null ]
 ];

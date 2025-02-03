@@ -1,6 +1,6 @@
 var a19378 =
 [
-    [ "npc_collapsing_starAI", "d3/d16/a19378.html#ac389b380a8f315ae50a8cd809393a773", null ],
-    [ "DamageTaken", "d3/d16/a19378.html#a424fac98093eb9d02cda5027523ad06a", null ],
-    [ "JustSummoned", "d3/d16/a19378.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
+    [ "boss_algalon_the_observerAI", "d5/d41/a19382.html", "d5/d41/a19382" ],
+    [ "boss_algalon_the_observer", "d3/d16/a19378.html#a0691b47a116401da58b246203ecba2cb", null ],
+    [ "GetAI", "d3/d16/a19378.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
 ];

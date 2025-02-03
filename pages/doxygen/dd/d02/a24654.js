@@ -1,6 +1,5 @@
 var a24654 =
 [
-    [ "HandleDummy", "dd/d02/a24654.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
-    [ "PrepareSpellScript", "dd/d02/a24654.html#af310c2b28ed816b9fbe494f81c42043c", null ],
-    [ "Register", "dd/d02/a24654.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
+    [ "PrepareSpellScript", "dd/d02/a24654.html#a054677572d74a740f1c14715608f7b1b", null ],
+    [ "Register", "dd/d02/a24654.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
 ];

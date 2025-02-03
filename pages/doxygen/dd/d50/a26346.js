@@ -1,9 +1,12 @@
 var a26346 =
 [
-    [ "HandleHeal", "dd/d50/a26346.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "dd/d50/a26346.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "dd/d50/a26346.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "dd/d50/a26346.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "dd/d50/a26346.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "dd/d50/a26346.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "CalcPeriodic", "dd/d50/a26346.html#a35d58947074659d2692877dfcf13e4bd", null ],
+    [ "CalculateAPAmount", "dd/d50/a26346.html#ac72434a046c28a4887971cf83d574a6e", null ],
+    [ "CalculateResistanceAmount", "dd/d50/a26346.html#a82067899470366c2cbf21bba08061ce1", null ],
+    [ "CalculateSPAmount", "dd/d50/a26346.html#a527213b389be9b1953f423ae84eb16ee", null ],
+    [ "CalculateStatAmount", "dd/d50/a26346.html#ad7185292820feb168565648133c9e2cc", null ],
+    [ "HandleEffectApply", "dd/d50/a26346.html#aa333430da4cf3303822d5f048cb9d5a4", null ],
+    [ "HandlePeriodic", "dd/d50/a26346.html#ae2bca6c841d1ba02a8a39b1a2179ac97", null ],
+    [ "PrepareAuraScript", "dd/d50/a26346.html#a671a588ae36323c11b33a45d652290de", null ],
+    [ "Register", "dd/d50/a26346.html#a8aae94d6d6a9ec1fa7d47f88874cce4f", null ]
 ];

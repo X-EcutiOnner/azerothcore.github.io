@@ -1,8 +1,8 @@
 var a01418 =
 [
-    [ "BG_AV_NodeInfo", "d7/dc6/a07210.html", "d7/dc6/a07210" ],
-    [ "BattlegroundAVScore", "de/dfd/a07214.html", "de/dfd/a07214" ],
-    [ "BattlegroundAV", "d2/d40/a07218.html", "d2/d40/a07218" ],
+    [ "BG_AV_NodeInfo", "d2/d40/a07218.html", "d2/d40/a07218" ],
+    [ "BattlegroundAVScore", "d5/d05/a07222.html", "d5/d05/a07222" ],
+    [ "BattlegroundAV", "d8/dd4/a07226.html", "d8/dd4/a07226" ],
     [ "AV_EVENT_START_BATTLE", "d4/d3c/a01418.html#a333f1c045e3883c4f54cc0de87aa6dc3", null ],
     [ "BG_AV_CAPTIME", "d4/d3c/a01418.html#adba9089f02e391f1f399363010d17252", null ],
     [ "BG_AV_GET_COMMANDER", "d4/d3c/a01418.html#a3864f63a19a39505b3a45326ddb31d21", null ],

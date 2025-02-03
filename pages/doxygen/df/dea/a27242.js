@@ -1,9 +1,9 @@
 var a27242 =
 [
-    [ "npc_chicken_cluckAI", "df/dea/a27242.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "df/dea/a27242.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "df/dea/a27242.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "df/dea/a27242.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "df/dea/a27242.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "df/dea/a27242.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "npc_target_dummyAI", "df/dea/a27242.html#a117e45559ea721877d73df4b3c18a259", null ],
+    [ "EnterEvadeMode", "df/dea/a27242.html#a8f7f2e4decc676e378b4929516f8a147", null ],
+    [ "MoveInLineOfSight", "df/dea/a27242.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
+    [ "Reset", "df/dea/a27242.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
+    [ "UpdateAI", "df/dea/a27242.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
+    [ "deathTimer", "df/dea/a27242.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
 ];

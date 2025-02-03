@@ -1,6 +1,19 @@
 var a15558 =
 [
-    [ "HandlePeriodic", "d8/d80/a15558.html#ad22b433005b2678bde3516a01eaaaa60", null ],
-    [ "PrepareAuraScript", "d8/d80/a15558.html#a3711004edaef7242d9cae1f23f9b7467", null ],
-    [ "Register", "d8/d80/a15558.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
+    [ "boss_taldaram", "d8/d80/a15558.html#a6438d3534aca5e4a92afb3e6c6e24f73", null ],
+    [ "DamageTaken", "d8/d80/a15558.html#a44d94f39e23720810acb40550f1c178a", null ],
+    [ "DoAction", "d8/d80/a15558.html#aee1cf0553e8c7ebebea4a83f2d7e6d5d", null ],
+    [ "InitializeAI", "d8/d80/a15558.html#a3d5b4628d6fb2db91ed073b042eefdc4", null ],
+    [ "JustDied", "d8/d80/a15558.html#a4b6c0f51fd3a2a8c00ef095eeeea785d", null ],
+    [ "JustEngagedWith", "d8/d80/a15558.html#a07e1cb5b53906f92a1f485340aa004e5", null ],
+    [ "JustSummoned", "d8/d80/a15558.html#a5ae9201a71fa665908f924647b262825", null ],
+    [ "KilledUnit", "d8/d80/a15558.html#a8fe516a08547ec03e8114b07e9c87d1f", null ],
+    [ "MovementInform", "d8/d80/a15558.html#a17ca98f742a06b1496b2216e984811d8", null ],
+    [ "Reset", "d8/d80/a15558.html#ae26fec572206d2f1f9acc229ee797496", null ],
+    [ "ScheduleCombatEvents", "d8/d80/a15558.html#a247e5357fcdf8da8e00bef09f3568ca3", null ],
+    [ "SpellHitTarget", "d8/d80/a15558.html#a0f228ea10a538a9ecf70b9f54d399150", null ],
+    [ "UpdateAI", "d8/d80/a15558.html#a8ae18c5fd1c5df67edaf1921b5504ce1", null ],
+    [ "vanishDamage", "d8/d80/a15558.html#a85d8c95320e6f1f486a39043218f0350", null ],
+    [ "vanishTarget_GUID", "d8/d80/a15558.html#a211707b3e9476a22be011567882f018a", null ],
+    [ "victimSperePos", "d8/d80/a15558.html#a06efb376b0d08207a0efce74770f21dc", null ]
 ];

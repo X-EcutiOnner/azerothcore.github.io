@@ -1,16 +1,16 @@
 var a02195 =
 [
-    [ "TSpellSummary", "d7/d79/a06098.html", "d7/d79/a06098" ],
+    [ "TSpellSummary", "df/d5b/a06102.html", "df/d5b/a06102" ],
     [ "eNPCs", "df/d0e/a02195.html#abaecf87f40b40c4c71ec596a0b73e911", [
       [ "NPC_BROODLORD", "df/d0e/a02195.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
       [ "NPC_JAN_ALAI", "df/d0e/a02195.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],
       [ "NPC_SARTHARION", "df/d0e/a02195.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10", null ],
       [ "NPC_FREYA", "df/d0e/a02195.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752", null ],
-      [ "NPC_INGVAR_UNDEAD", "db/d86/a02663.html#abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906", null ],
-      [ "NPC_ANNHYLDE", "db/d86/a02663.html#abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4", null ],
-      [ "NPC_THROW", "db/d86/a02663.html#abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546", null ],
-      [ "NPC_FROST_TOMB", "de/d7b/a02660.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76", null ],
-      [ "NPC_SKELETON", "de/d7b/a02660.html#abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3", null ]
+      [ "NPC_INGVAR_UNDEAD", "d1/d0c/a02666.html#abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906", null ],
+      [ "NPC_ANNHYLDE", "d1/d0c/a02666.html#abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4", null ],
+      [ "NPC_THROW", "d1/d0c/a02666.html#abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546", null ],
+      [ "NPC_FROST_TOMB", "db/d86/a02663.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76", null ],
+      [ "NPC_SKELETON", "db/d86/a02663.html#abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3", null ]
     ] ],
     [ "GetClosestCreatureWithEntry", "df/d0e/a02195.html#a136c0c059281a05f9cb91237ce55be7b", null ],
     [ "GetClosestGameObjectWithEntry", "df/d0e/a02195.html#a80b13d7c0fa3b835b0834955ed0f93d8", null ],

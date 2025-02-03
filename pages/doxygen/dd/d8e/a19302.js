@@ -1,7 +1,5 @@
 var a19302 =
 [
-    [ "creature", "dd/d8e/a19302.html#a55a6ee677ab51120867f542e5a5745b0", null ],
-    [ "sound", "dd/d8e/a19302.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
-    [ "text", "dd/d8e/a19302.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
-    [ "timer", "dd/d8e/a19302.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
+    [ "boss_sjonnir_dwarfAI", "dd/d8e/a19302.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
+    [ "UpdateAI", "dd/d8e/a19302.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
 ];

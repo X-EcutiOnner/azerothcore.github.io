@@ -1,11 +1,8 @@
 var a13662 =
 [
-    [ "boss_hakkarAI", "df/dc8/a13662.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
-    [ "ApplyHakkarPowerStacks", "df/dc8/a13662.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
-    [ "CheckInRoom", "df/dc8/a13662.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
-    [ "EnterEvadeMode", "df/dc8/a13662.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
-    [ "JustDied", "df/dc8/a13662.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
-    [ "JustEngagedWith", "df/dc8/a13662.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
-    [ "Reset", "df/dc8/a13662.html#a52db5743c09088e2e9f1aff1513960f2", null ],
-    [ "UpdateAI", "df/dc8/a13662.html#a1119212465bcf293991d7a520c6ffe42", null ]
+    [ "FilterTargets", "df/dc8/a13662.html#a3405b21202d423c649e0b8d341b42d9c", null ],
+    [ "HandleWipeThreat", "df/dc8/a13662.html#a2bbcce83bffebc509e9ec54778e82639", null ],
+    [ "PrepareSpellScript", "df/dc8/a13662.html#a59948484b528cab69c695f08b39b886d", null ],
+    [ "Register", "df/dc8/a13662.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
+    [ "_wipeThreat", "df/dc8/a13662.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
 ];

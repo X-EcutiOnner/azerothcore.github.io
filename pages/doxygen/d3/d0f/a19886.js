@@ -1,6 +1,6 @@
 var a19886 =
 [
-    [ "npc_ulduar_toasty_fireAI", "d3/d0f/a19886.html#a145001c6f1c1d505f810ae545ec62c69", null ],
-    [ "DoAction", "d3/d0f/a19886.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
-    [ "SpellHit", "d3/d0f/a19886.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
+    [ "npc_ulduar_icicleAI", "db/dee/a19890.html", "db/dee/a19890" ],
+    [ "npc_ulduar_icicle", "d3/d0f/a19886.html#a1ab79b2fa3e64779f62b96c195222683", null ],
+    [ "GetAI", "d3/d0f/a19886.html#a71dd83d544307b11bcde58f9aeea097c", null ]
 ];

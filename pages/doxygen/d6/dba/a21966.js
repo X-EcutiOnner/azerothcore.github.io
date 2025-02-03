@@ -1,6 +1,12 @@
 var a21966 =
 [
-    [ "npc_roxi_ramrocket", "d6/dba/a21966.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "d6/dba/a21966.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "d6/dba/a21966.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "npc_time_lost_proto_drakeAI", "d6/dba/a21966.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "JustEngagedWith", "d6/dba/a21966.html#a14f41b30451b8ac8fe2411ec7102ae81", null ],
+    [ "Reset", "d6/dba/a21966.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "RollPath", "d6/dba/a21966.html#aabb3dd1d54a1290d500429efc8fa9e41", null ],
+    [ "UpdateEscortAI", "d6/dba/a21966.html#a1a5442a5796b27d04eaa3ab62c613199", null ],
+    [ "WaypointReached", "d6/dba/a21966.html#ad262b9dbc0edd2bac126fafbb5eb5f01", null ],
+    [ "events", "d6/dba/a21966.html#aa2e4c3396d63d85a5d0abc8c74e58a79", null ],
+    [ "rollPath", "d6/dba/a21966.html#a5431fd5a0801569bc03507818461aa7d", null ],
+    [ "setVisible", "d6/dba/a21966.html#a63558b3406c241ecb27f3e485eeb439b", null ]
 ];

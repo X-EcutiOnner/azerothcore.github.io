@@ -1,8 +1,12 @@
 var a15366 =
 [
-    [ "npc_pluckyAI", "d4/d4b/a15370.html", "d4/d4b/a15370" ],
-    [ "npc_plucky", "d8/dab/a15366.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "d8/dab/a15366.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "d8/dab/a15366.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "d8/dab/a15366.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "npc_wizzlecrank_shredderAI", "d8/dab/a15366.html#a055c4b426219aa3372a83d2e2021d916", null ],
+    [ "JustSummoned", "d8/dab/a15366.html#a7cad21f0b3286ed75256a49c315069ce", null ],
+    [ "Reset", "d8/dab/a15366.html#a86929e8a2f3433f37e4dda03e3011193", null ],
+    [ "UpdateEscortAI", "d8/dab/a15366.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
+    [ "WaypointReached", "d8/dab/a15366.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
+    [ "WaypointStart", "d8/dab/a15366.html#a00857e372e53950338ed71d672edb780", null ],
+    [ "IsPostEvent", "d8/dab/a15366.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
+    [ "PostEventCount", "d8/dab/a15366.html#aa5284a284c074f32cee85d29aea00f2f", null ],
+    [ "PostEventTimer", "d8/dab/a15366.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
 ];

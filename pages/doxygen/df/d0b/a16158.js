@@ -1,6 +1,8 @@
 var a16158 =
 [
-    [ "npc_toc_rogueAI", "d0/d1f/a16162.html", "d0/d1f/a16162" ],
-    [ "npc_toc_rogue", "df/d0b/a16158.html#a925840be9698e381358235a827c20b8a", null ],
-    [ "GetAI", "df/d0b/a16158.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
+    [ "npc_toc_boomkinAI", "df/d0b/a16158.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "df/d0b/a16158.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "df/d0b/a16158.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "df/d0b/a16158.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "df/d0b/a16158.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

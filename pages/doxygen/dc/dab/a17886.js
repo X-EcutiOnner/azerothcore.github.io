@@ -1,8 +1,7 @@
 var a17886 =
 [
-    [ "NecroticPlagueTargetCheck", "dc/dab/a17886.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
-    [ "operator()", "dc/dab/a17886.html#a801a176e367a9f4446fe080845477654", null ],
-    [ "_notAura1", "dc/dab/a17886.html#a4f52417f233e1ab06210726670f719f3", null ],
-    [ "_notAura2", "dc/dab/a17886.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
-    [ "_sourceObj", "dc/dab/a17886.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
+    [ "StartMovementEvent", "dc/dab/a17886.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
+    [ "Execute", "dc/dab/a17886.html#af1a043d953bcffe9341292e85cae2f55", null ],
+    [ "_owner", "dc/dab/a17886.html#ac2f4166af128a161c471b243144856ba", null ],
+    [ "_summoner", "dc/dab/a17886.html#afe1f7bcb3569758bc075380a24527067", null ]
 ];

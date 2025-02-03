@@ -1,11 +1,8 @@
 var a17854 =
 [
-    [ "NonTankLKTargetSelector", "d3/dfd/a17854.html#a41c5372505c0c74e93f2c583a0259777", null ],
-    [ "operator()", "d3/dfd/a17854.html#a2e496088092b9885f8e2391c2df91993", null ],
-    [ "_exclude1", "d3/dfd/a17854.html#abe4e56597fa2918b15a003413887ac71", null ],
-    [ "_exclude2", "d3/dfd/a17854.html#a6aa63c93c4e68998f621349760d9ab43", null ],
-    [ "_maxDist", "d3/dfd/a17854.html#ac7e28c908079fbd2e1ca5374731d521e", null ],
-    [ "_playerOnly", "d3/dfd/a17854.html#a5ab89af79aa4840c9a024996a848540c", null ],
-    [ "_reqLOS", "d3/dfd/a17854.html#a61966d6b825f25b6bbf589676cef19f9", null ],
-    [ "_source", "d3/dfd/a17854.html#a86e3ebd2425b76103df7413b5ed4af70", null ]
+    [ "FilterTargets", "d3/dfd/a17854.html#a14e392760361b95578bc95de10cdd8aa", null ],
+    [ "HandleForcedCast", "d3/dfd/a17854.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
+    [ "PrepareSpellScript", "d3/dfd/a17854.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
+    [ "Register", "d3/dfd/a17854.html#ac2105e66f692c6a991ac9190b1901505", null ],
+    [ "Validate", "d3/dfd/a17854.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
 ];

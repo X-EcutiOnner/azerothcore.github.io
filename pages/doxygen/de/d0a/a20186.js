@@ -1,6 +1,12 @@
 var a20186 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "d6/da8/a20190.html", "d6/da8/a20190" ],
-    [ "npc_ulduar_rocket_strike_trigger", "de/d0a/a20186.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
-    [ "GetAI", "de/d0a/a20186.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
+    [ "npc_ulduar_flames_initialAI", "de/d0a/a20186.html#a5d7202463d12fbdfcc5efdfba786ca19", null ],
+    [ "DoAction", "de/d0a/a20186.html#a6169d12043e73e7991064decccf0926a", null ],
+    [ "RemoveAll", "de/d0a/a20186.html#a2c39dd0d4d8040db5b18af1c1b27071a", null ],
+    [ "RemoveFlame", "de/d0a/a20186.html#ab992d2df928b9ca2699ca48e64fb2606", null ],
+    [ "SpreadFlame", "de/d0a/a20186.html#ae801181472a8e29208a4f305fb0307f9", null ],
+    [ "UpdateAI", "de/d0a/a20186.html#a9d628d32d3519d0e7152c772e540b7ef", null ],
+    [ "CreateTime", "de/d0a/a20186.html#ae50820bb38d0ed61b8687b4023aac5b9", null ],
+    [ "events", "de/d0a/a20186.html#a89217e11f9930b336665969791fc84b9", null ],
+    [ "FlameList", "de/d0a/a20186.html#a75b218699a42ece4959d0a1fe40713d7", null ]
 ];

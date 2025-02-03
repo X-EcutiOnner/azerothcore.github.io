@@ -1,6 +1,5 @@
 var a27066 =
 [
-    [ "guard_shattrath_scryerAI", "de/d60/a27070.html", "de/d60/a27070" ],
-    [ "guard_shattrath_scryer", "dd/d39/a27066.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "dd/d39/a27066.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "go_massive_seaforium_charge", "dd/d39/a27066.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "dd/d39/a27066.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

@@ -1,10 +1,12 @@
 var a11450 =
 [
-    [ "item_commandscript", "d5/df9/a11450.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
-    [ "GetCommands", "d5/df9/a11450.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
-    [ "HandleItemMoveCommand", "d5/df9/a11450.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
-    [ "HandleItemRefundCommand", "d5/df9/a11450.html#af914e33be05148062abd89c754d939c9", null ],
-    [ "HandleItemRestoreCommand", "d5/df9/a11450.html#a84c67a46c513c1aac2b9d2563d693929", null ],
-    [ "HandleItemRestoreListCommand", "d5/df9/a11450.html#a40181310f4187a71a6f5f5f600a8f468", null ],
-    [ "HasItemDeletionConfig", "d5/df9/a11450.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
+    [ "guild_commandscript", "d5/df9/a11450.html#a4394d242740505ad128e4cebf4b617f0", null ],
+    [ "GetCommands", "d5/df9/a11450.html#a6b0a700e7fa3251373c1405d245f6931", null ],
+    [ "HandleGuildCreateCommand", "d5/df9/a11450.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
+    [ "HandleGuildDeleteCommand", "d5/df9/a11450.html#a4bbef641c86de37611e7ff1c906b4048", null ],
+    [ "HandleGuildInfoCommand", "d5/df9/a11450.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
+    [ "HandleGuildInviteCommand", "d5/df9/a11450.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
+    [ "HandleGuildRankCommand", "d5/df9/a11450.html#adbea3b610c98354866fec52a43fedda0", null ],
+    [ "HandleGuildRenameCommand", "d5/df9/a11450.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
+    [ "HandleGuildUninviteCommand", "d5/df9/a11450.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
 ];

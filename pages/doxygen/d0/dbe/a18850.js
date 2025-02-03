@@ -1,6 +1,6 @@
 var a18850 =
 [
-    [ "boss_thaddiusAI", "d3/d92/a18854.html", "d3/d92/a18854" ],
-    [ "boss_thaddius", "d0/dbe/a18850.html#aff97b030b861feb646e1b22f60ee3605", null ],
-    [ "GetAI", "d0/dbe/a18850.html#acf841c6897396f517a74932fc3480e69", null ]
+    [ "boss_razuvious_minionAI", "d3/d92/a18854.html", "d3/d92/a18854" ],
+    [ "boss_razuvious_minion", "d0/dbe/a18850.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "d0/dbe/a18850.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

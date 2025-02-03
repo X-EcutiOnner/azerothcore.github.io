@@ -1,8 +1,6 @@
 var a16630 =
 [
-    [ "npc_hor_raging_ghoulAI", "d4/d8f/a16630.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
-    [ "JustDied", "d4/d8f/a16630.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
-    [ "Reset", "d4/d8f/a16630.html#aa52576d94e230797209dfc938d62187f", null ],
-    [ "UpdateAI", "d4/d8f/a16630.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
-    [ "leaped", "d4/d8f/a16630.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
+    [ "npc_hor_lich_kingAI", "d3/d8c/a16634.html", "d3/d8c/a16634" ],
+    [ "npc_hor_lich_king", "d4/d8f/a16630.html#aab2562a7a204699735a89e7a15b3b472", null ],
+    [ "GetAI", "d4/d8f/a16630.html#ad670ae69daa742c19c06267399445a11", null ]
 ];

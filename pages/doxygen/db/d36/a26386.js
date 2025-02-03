@@ -1,8 +1,6 @@
 var a26386 =
 [
-    [ "ApplyDebuff", "db/d36/a26386.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
-    [ "PrepareSpellScript", "db/d36/a26386.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
-    [ "Register", "db/d36/a26386.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
-    [ "RemoveInvalidTargets", "db/d36/a26386.html#a1374c764b20b95febbca44c593bde218", null ],
-    [ "Validate", "db/d36/a26386.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
+    [ "FilterTargets", "db/d36/a26386.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
+    [ "PrepareSpellScript", "db/d36/a26386.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
+    [ "Register", "db/d36/a26386.html#abe63ec69fe15fd8924fb63235489e088", null ]
 ];

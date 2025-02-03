@@ -1,6 +1,5 @@
 var a19990 =
 [
-    [ "npc_ulduar_iron_constructAI", "d0/d49/a19994.html", "d0/d49/a19994" ],
-    [ "npc_ulduar_iron_construct", "d7/d31/a19990.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
-    [ "GetAI", "d7/d31/a19990.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
+    [ "achievement_getting_cold_in_here", "d7/d31/a19990.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "d7/d31/a19990.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

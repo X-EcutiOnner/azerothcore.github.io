@@ -1,5 +1,5 @@
 var a20854 =
 [
-    [ "go_harpoon_canon", "de/da7/a20854.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
-    [ "OnGossipHello", "de/da7/a20854.html#ad0098bafd1233636bde181312126e65f", null ]
+    [ "go_palehoof_sphere", "de/da7/a20854.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
+    [ "OnGossipHello", "de/da7/a20854.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
 ];

@@ -1,5 +1,5 @@
 var a15038 =
 [
-    [ "go_bristlelimb_cage", "d6/dec/a15038.html#ab965b9c529577a5e58639285fa35d3d7", null ],
-    [ "OnGossipHello", "d6/dec/a15038.html#a6f29e07550767c1c0610f46e4921503f", null ]
+    [ "go_ravager_cage", "d6/dec/a15038.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "d6/dec/a15038.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

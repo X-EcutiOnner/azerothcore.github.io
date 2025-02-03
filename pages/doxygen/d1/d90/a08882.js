@@ -1,6 +1,6 @@
 var a08882 =
 [
-    [ "lang_id", "d1/d90/a08882.html#a1fa900a467834103ac595a8a96dd28c0", null ],
-    [ "skill_id", "d1/d90/a08882.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
-    [ "spell_id", "d1/d90/a08882.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
+    [ "Conditions", "d1/d90/a08882.html#a93edc2f0d71164b683c844b713befa85", null ],
+    [ "MenuID", "d1/d90/a08882.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
+    [ "TextID", "d1/d90/a08882.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
 ];

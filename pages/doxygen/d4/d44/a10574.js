@@ -1,7 +1,9 @@
 var a10574 =
 [
-    [ "Playsound", "d4/d44/a10574.html#a955f91d0d65c64f154f99b3b9472e273", null ],
-    [ "Playsound", "d4/d44/a10574.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
-    [ "Write", "d4/d44/a10574.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
-    [ "SoundKitID", "d4/d44/a10574.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
+    [ "LevelUpInfo", "d4/d44/a10574.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
+    [ "Write", "d4/d44/a10574.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
+    [ "HealthDelta", "d4/d44/a10574.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
+    [ "Level", "d4/d44/a10574.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
+    [ "PowerDelta", "d4/d44/a10574.html#a697da64ac234c24fe73e68d408697ee6", null ],
+    [ "StatDelta", "d4/d44/a10574.html#a580e4a3cd77631e960b7753542375d6d", null ]
 ];

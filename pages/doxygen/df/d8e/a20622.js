@@ -1,8 +1,10 @@
 var a20622 =
 [
-    [ "FilterTargets", "df/d8e/a20622.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "df/d8e/a20622.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "df/d8e/a20622.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "df/d8e/a20622.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "df/d8e/a20622.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "boss_yoggsaron_voiceAI", "df/d8e/a20622.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
+    [ "Reset", "df/d8e/a20622.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
+    [ "SpellHitTarget", "df/d8e/a20622.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
+    [ "UpdateAI", "df/d8e/a20622.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
+    [ "_current", "df/d8e/a20622.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
+    [ "_targets", "df/d8e/a20622.html#ab6132214a2249fbb5de8a5115b114381", null ],
+    [ "events", "df/d8e/a20622.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
 ];

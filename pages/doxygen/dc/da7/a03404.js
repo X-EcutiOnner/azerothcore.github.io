@@ -1,57 +1,43 @@
 var a03404 =
 [
-    [ "npc_deathstalker_erland", "df/d68/a13334.html", "df/d68/a13334" ],
-    [ "npc_deathstalker_erland::npc_deathstalker_erlandAI", "d2/dc0/a13338.html", "d2/dc0/a13338" ],
-    [ "npc_deathstalker_fearleia", "d6/d72/a13342.html", "d6/d72/a13342" ],
-    [ "npc_ravenclaw_apparition", "d3/d4e/a13346.html", "d3/d4e/a13346" ],
-    [ "npc_ravenclaw_apparition::npc_ravenclaw_apparitionAI", "d0/d3e/a13350.html", "d0/d3e/a13350" ],
-    [ "ApparitionEvents", "dc/da7/a03404.html#ac7d12f884ef22dca36021fe54df83416", [
-      [ "EVENT_APPA_INTRO", "dc/da7/a03404.html#ac7d12f884ef22dca36021fe54df83416acb7d83e4f63d87d9e07acd3fe790cf3f", null ],
-      [ "EVENT_APPA_SAY_1", "dc/da7/a03404.html#ac7d12f884ef22dca36021fe54df83416a5a70df4d34c2d8566d6f1f2223da8358", null ],
-      [ "EVENT_APPA_SAY_2", "dc/da7/a03404.html#ac7d12f884ef22dca36021fe54df83416aef4150f2e8b273cda80a22afb309dcbd", null ],
-      [ "EVENT_APPA_SAY_3", "dc/da7/a03404.html#ac7d12f884ef22dca36021fe54df83416a50dff15dc08a087b69b6e1f3e759e873", null ],
-      [ "EVENT_APPA_SAY_4", "dc/da7/a03404.html#ac7d12f884ef22dca36021fe54df83416aef8c0d8bbd31ac1280da5e1d047b090c", null ],
-      [ "EVENT_APPA_OUTRO", "dc/da7/a03404.html#ac7d12f884ef22dca36021fe54df83416a282f4f3128aee30886a27079ebbadade", null ],
-      [ "EVENT_APPA_OUTRO_CROWD", "dc/da7/a03404.html#ac7d12f884ef22dca36021fe54df83416a43a816ba27d12306c8859a065298090a", null ],
-      [ "EVENT_APPA_OUTRO_END", "dc/da7/a03404.html#ac7d12f884ef22dca36021fe54df83416a67c26d38a1c04c6defc255ec84508341", null ]
+    [ "npc_ranger_lilatha", "d3/d90/a13294.html", "d3/d90/a13294" ],
+    [ "npc_sentinel_leader", "d5/d21/a13298.html", "d5/d21/a13298" ],
+    [ "npc_sentinel_infiltrator", "dc/d34/a13302.html", "dc/d34/a13302" ],
+    [ "RangerLilatha", "dc/da7/a03404.html#a74dc890829d87be230ff5350c12e090a", [
+      [ "SAY_START", "dc/da7/a03404.html#a74dc890829d87be230ff5350c12e090aa2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_PROGRESS1", "dc/da7/a03404.html#a74dc890829d87be230ff5350c12e090aa1a7ff39fa30eb8719e4a1d4d8eea41bd", null ],
+      [ "SAY_PROGRESS2", "dc/da7/a03404.html#a74dc890829d87be230ff5350c12e090aa6b66c233baa6dd334abb1b7798066894", null ],
+      [ "SAY_PROGRESS3", "dc/da7/a03404.html#a74dc890829d87be230ff5350c12e090aa541cce8e829316638c92542a766209b6", null ],
+      [ "SAY_END1", "dc/da7/a03404.html#a74dc890829d87be230ff5350c12e090aa944891a3d2f715c9e1c8f47d65f16eca", null ],
+      [ "SAY_END2", "dc/da7/a03404.html#a74dc890829d87be230ff5350c12e090aaa0efc3eab3d2447cc17568f7ceed8cba", null ],
+      [ "SAY_CAPTAIN_ANSWER", "dc/da7/a03404.html#a74dc890829d87be230ff5350c12e090aaf92ec5f68682db4db5c776edd0e207c0", null ],
+      [ "QUEST_ESCAPE_FROM_THE_CATACOMBS", "dc/da7/a03404.html#a74dc890829d87be230ff5350c12e090aaf838b4afb069e6a501691db32ccd1e16", null ],
+      [ "GO_CAGE", "dc/da7/a03404.html#a74dc890829d87be230ff5350c12e090aab8d35951eed2c9e47bed2aa4da3fab8b", null ],
+      [ "NPC_CAPTAIN_HELIOS", "dc/da7/a03404.html#a74dc890829d87be230ff5350c12e090aaf9140f9834cba6679a2dd4d3dccc02a8", null ],
+      [ "NPC_MUMMIFIED_HEADHUNTER", "dc/da7/a03404.html#a74dc890829d87be230ff5350c12e090aa981d62936965028299a53927f91db057", null ],
+      [ "NPC_SHADOWPINE_ORACLE", "dc/da7/a03404.html#a74dc890829d87be230ff5350c12e090aa84adb37d4c2fc9348d6fc31abfd0306a", null ]
     ] ],
-    [ "ApparitionMisc", "dc/da7/a03404.html#a5909181236bb4736208a6dab8aa72de3", [
-      [ "NPC_GNOLL_RUNNER", "dc/da7/a03404.html#a5909181236bb4736208a6dab8aa72de3aa926c07b3e0e442ce56cd705d02adbb1", null ],
-      [ "NPC_GNOLL_MYSTIC", "dc/da7/a03404.html#a5909181236bb4736208a6dab8aa72de3acd80c1eed7ee155c06297c43fe4ded15", null ],
-      [ "EMOTE_CHEER", "dc/da7/a03404.html#a5909181236bb4736208a6dab8aa72de3a91a471fc43ea92dee1d1ab4ee7792204", null ],
-      [ "EMOTE_GNOLL_CHEER", "dc/da7/a03404.html#a5909181236bb4736208a6dab8aa72de3a989ea1d9c4ed491fb34d5c665e00cd07", null ],
-      [ "SAY_APPA_INTRO", "dc/da7/a03404.html#a5909181236bb4736208a6dab8aa72de3a48c8c5efde4afd1945ded15985be957e", null ],
-      [ "SAY_APPA_OUTRO", "dc/da7/a03404.html#a5909181236bb4736208a6dab8aa72de3aeaee8eb03b5ecc83ec4c4bce61234a14", null ],
-      [ "SAY_APPA_OPTION_1_1", "dc/da7/a03404.html#a5909181236bb4736208a6dab8aa72de3a7ce5157a61c4ae4a36c10e911838c759", null ],
-      [ "SAY_APPA_OPTION_1_2", "dc/da7/a03404.html#a5909181236bb4736208a6dab8aa72de3a09f22f871c7677ce21215036738e9599", null ],
-      [ "SAY_APPA_OPTION_1_3", "dc/da7/a03404.html#a5909181236bb4736208a6dab8aa72de3a7d6be30b7c3a5eaf04bb4faf64258f4c", null ],
-      [ "SAY_APPA_OPTION_1_4", "dc/da7/a03404.html#a5909181236bb4736208a6dab8aa72de3ac5f229a48574f471bef97c854953dd56", null ],
-      [ "SAY_APPA_OPTION_2_1", "dc/da7/a03404.html#a5909181236bb4736208a6dab8aa72de3ae47c4533188c68c14269a2ae1e03495a", null ],
-      [ "SAY_APPA_OPTION_2_2", "dc/da7/a03404.html#a5909181236bb4736208a6dab8aa72de3a906e509283cd756dd51d23385e635c52", null ],
-      [ "SAY_APPA_OPTION_2_3", "dc/da7/a03404.html#a5909181236bb4736208a6dab8aa72de3a500da27ff93fe5afe164b9cfadf8c97f", null ],
-      [ "SAY_APPA_OPTION_2_4", "dc/da7/a03404.html#a5909181236bb4736208a6dab8aa72de3a9c27b474b7cc468aa2d897347fb9ddab", null ]
+    [ "SentinelInfiltrator", "dc/da7/a03404.html#a0b373714eadff6852c9ed5560abd70e5", [
+      [ "EMOTE_FLEE", "dc/da7/a03404.html#a0b373714eadff6852c9ed5560abd70e5a9d88a2f0a0929d045f07a5386f6a4431", null ],
+      [ "EVENT_TALK2", "dc/da7/a03404.html#a0b373714eadff6852c9ed5560abd70e5a5fbd3336be08db01eeeefc355f4fa541", null ],
+      [ "EVENT_QUESTION2", "dc/da7/a03404.html#a0b373714eadff6852c9ed5560abd70e5a16f3686cedbbcd372b458f36b8fef69d", null ],
+      [ "EVENT_EXCLAMATION", "dc/da7/a03404.html#a0b373714eadff6852c9ed5560abd70e5a235ba44e8ac06bf6c5da1072784d2736", null ],
+      [ "EVENT_SALUTE", "dc/da7/a03404.html#a0b373714eadff6852c9ed5560abd70e5a20c28745aea8562e2f30166e0ceec0ea", null ],
+      [ "EVENT_GOUGE2", "dc/da7/a03404.html#a0b373714eadff6852c9ed5560abd70e5a9c0323353380c86a1dd4583ba40430da", null ],
+      [ "EVENT_BACKSTAB2", "dc/da7/a03404.html#a0b373714eadff6852c9ed5560abd70e5aaf1d9b7bb592c2a5e42e3e0f3e2671cc", null ],
+      [ "NPC_SENTINEL_INFILTRATOR", "dc/da7/a03404.html#a0b373714eadff6852c9ed5560abd70e5a7cb437b950b46596afc196f0864a74fe", null ],
+      [ "PATH_ONE", "dc/da7/a03404.html#a0b373714eadff6852c9ed5560abd70e5a9dabcd3a092570c71edfb732f847d854", null ],
+      [ "PATH_TWO", "dc/da7/a03404.html#a0b373714eadff6852c9ed5560abd70e5a5c1049e5a354a320e8c4ead179675760", null ],
+      [ "SPELL_GOUGE", "dc/da7/a03404.html#a0b373714eadff6852c9ed5560abd70e5ad29cb58b32c3fccaec3fde84e2355de6", null ]
     ] ],
-    [ "Erland", "dc/da7/a03404.html#a17833146260016bd364b0aeabe951117", [
-      [ "SAY_QUESTACCEPT", "dc/da7/a03404.html#a17833146260016bd364b0aeabe951117ac55a400e0f3da4381ab1048e5115d2d7", null ],
-      [ "SAY_START", "dc/da7/a03404.html#a17833146260016bd364b0aeabe951117a2eae21cbf7d110ee89a9798ef6f00239", null ],
-      [ "SAY_AGGRO", "dc/da7/a03404.html#a17833146260016bd364b0aeabe951117a47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_PROGRESS", "dc/da7/a03404.html#a17833146260016bd364b0aeabe951117a0a1c1c8ee2f4fb58f4e107f259c6a7a5", null ],
-      [ "SAY_LAST", "dc/da7/a03404.html#a17833146260016bd364b0aeabe951117a37a618ea7771d6b731851ae8b9a71789", null ],
-      [ "SAY_RANE", "dc/da7/a03404.html#a17833146260016bd364b0aeabe951117aa74f95bb40d8ed4f48055905dc06d093", null ],
-      [ "SAY_RANE_ANSWER", "dc/da7/a03404.html#a17833146260016bd364b0aeabe951117ab0a630e891967ea5f9e0b2b1d4ff8c7b", null ],
-      [ "SAY_MOVE_QUINN", "dc/da7/a03404.html#a17833146260016bd364b0aeabe951117a8b9954338ee30878ef14f9fb11ed1139", null ],
-      [ "SAY_QUINN", "dc/da7/a03404.html#a17833146260016bd364b0aeabe951117ac996a5c00ede30152bc87c96f2f29344", null ],
-      [ "SAY_QUINN_ANSWER", "dc/da7/a03404.html#a17833146260016bd364b0aeabe951117a5f9017092c9843fc6c48bd100c50f167", null ],
-      [ "SAY_BYE", "dc/da7/a03404.html#a17833146260016bd364b0aeabe951117abad8d0d4b1cbadaec38e64cea8c488c4", null ],
-      [ "QUEST_ESCORTING", "dc/da7/a03404.html#a17833146260016bd364b0aeabe951117a9dd84d8712737f5cf17048c4475c3c42", null ],
-      [ "NPC_RANE", "dc/da7/a03404.html#a17833146260016bd364b0aeabe951117ac32a913ef393de880014e21b55d9f566", null ],
-      [ "NPC_QUINN", "dc/da7/a03404.html#a17833146260016bd364b0aeabe951117aa0a34bb710b174abf06aa875f3a3e82e", null ]
+    [ "SentinelLeader", "dc/da7/a03404.html#acb58e7629bec88c770da1efed549d96c", [
+      [ "EVENT_QUESTION", "dc/da7/a03404.html#acb58e7629bec88c770da1efed549d96cae7206febd87cb3058c3f99ed717131a7", null ],
+      [ "EVENT_TALK", "dc/da7/a03404.html#acb58e7629bec88c770da1efed549d96cad8d5fcaf7b3bfdd91e6337d222c1620f", null ],
+      [ "EVENT_SINISTER_STRIKE", "dc/da7/a03404.html#acb58e7629bec88c770da1efed549d96ca23b5677e1eb390f2bbe16d2b30a05498", null ],
+      [ "EVENT_BACKSTAB", "dc/da7/a03404.html#acb58e7629bec88c770da1efed549d96ca1c1d8055d31bb2fb8238437b243852ca", null ],
+      [ "NPC_SENTINEL_SPY", "dc/da7/a03404.html#acb58e7629bec88c770da1efed549d96cae75b24a241dff855e6dc0e3d51e0c9e9", null ],
+      [ "SPELL_SINISTER_STRIKE", "dc/da7/a03404.html#acb58e7629bec88c770da1efed549d96ca3217132d497cc70e674432067fd431a7", null ],
+      [ "SPELL_BACKSTAB", "dc/da7/a03404.html#acb58e7629bec88c770da1efed549d96ca4ff7524487add866a452db82c2791b68", null ]
     ] ],
-    [ "PyrewoodAmbush", "dc/da7/a03404.html#a877721d69d53f57a970e68fafa98f026", [
-      [ "QUEST_PYREWOOD_AMBUSH", "dc/da7/a03404.html#a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77", null ],
-      [ "NPCSAY_INIT", "dc/da7/a03404.html#a877721d69d53f57a970e68fafa98f026aaa92536cc818f1566c861be10809e186", null ],
-      [ "NPCSAY_END", "dc/da7/a03404.html#a877721d69d53f57a970e68fafa98f026a4cdea1fd3d42985ec1def690f032a68c", null ]
-    ] ],
-    [ "AddSC_silverpine_forest", "dc/da7/a03404.html#a2ba39a6181a7eb3cea0c26335739a06c", null ],
-    [ "PyrewoodSpawnPoints", "dc/da7/a03404.html#aa6dde45459ce647040655253e287cd41", null ]
+    [ "AddSC_ghostlands", "dc/da7/a03404.html#a1093517f6bb08d3a1c9e52cf36b6a054", null ]
 ];

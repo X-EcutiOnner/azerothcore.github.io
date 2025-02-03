@@ -1,16 +1,9 @@
 var a14534 =
 [
-    [ "npc_medivh_bm", "d0/d1f/a14534.html#a23f04c433faf7da663b2edffb2a0440d", null ],
-    [ "AttackStart", "d0/d1f/a14534.html#a8eb87f4d80d83725af017657c599d458", null ],
-    [ "DoAction", "d0/d1f/a14534.html#aa5a54d0b2b069947dd59eee77cbdf21b", null ],
-    [ "JustDied", "d0/d1f/a14534.html#ad6dbbef1b6fbccd9dd224af1a15a6c90", null ],
-    [ "JustSummoned", "d0/d1f/a14534.html#a16d8d3be1dd148e149f4e49570f092a6", null ],
-    [ "MoveInLineOfSight", "d0/d1f/a14534.html#a87f092fccd5b485bdf0bd0449bd57265", null ],
-    [ "Reset", "d0/d1f/a14534.html#a1a33f613b083763c952882cdb82a35c1", null ],
-    [ "SummonOrcs", "d0/d1f/a14534.html#a9206f380773fff5df6dc7c67e37a9ba8", null ],
-    [ "UpdateAI", "d0/d1f/a14534.html#aefc693d7be0c06c5056cae18d4e4eb1e", null ],
-    [ "_airArray", "d0/d1f/a14534.html#a6e766596b69b52690635ee91e6e8d164", null ],
-    [ "_events", "d0/d1f/a14534.html#a1d4fe5bc964d12e812a178c68e2f037f", null ],
-    [ "_groundArray", "d0/d1f/a14534.html#a6fd3a75ddec2a6bda3e5d1bd3e33722c", null ],
-    [ "_instance", "d0/d1f/a14534.html#a45e129d61c3987e4bff94485db739eb1", null ]
+    [ "boss_chrono_lord_deja", "d0/d1f/a14534.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
+    [ "JustDied", "d0/d1f/a14534.html#a68eb4941364f9fac121aa3d610d45f48", null ],
+    [ "JustEngagedWith", "d0/d1f/a14534.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
+    [ "KilledUnit", "d0/d1f/a14534.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
+    [ "MoveInLineOfSight", "d0/d1f/a14534.html#a535c0c157c60804188ad8c4413c277dd", null ],
+    [ "OwnTalk", "d0/d1f/a14534.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
 ];

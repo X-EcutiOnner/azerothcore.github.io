@@ -1,6 +1,7 @@
 var a20646 =
 [
-    [ "OnRemove", "d5/d16/a20646.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
-    [ "PrepareAuraScript", "d5/d16/a20646.html#a5fb0837417b915676549370cc76c477d", null ],
-    [ "Register", "d5/d16/a20646.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
+    [ "FilterTargets", "d5/d16/a20646.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "d5/d16/a20646.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "d5/d16/a20646.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "d5/d16/a20646.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

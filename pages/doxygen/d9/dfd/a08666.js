@@ -1,6 +1,9 @@
 var a08666 =
 [
-    [ "condition", "d9/dfd/a08666.html#aad28ca93ce5c4fc8194b3df8b63e2c3a", null ],
-    [ "event_id", "d9/dfd/a08666.html#a9b29b2a432f6f39829de20397f864de0", null ],
-    [ "num", "d9/dfd/a08666.html#a1907e263ef0facb4cf5145f1f0783ec1", null ]
+    [ "TransportBase", "d9/dfd/a08666.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "d9/dfd/a08666.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "d9/dfd/a08666.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "d9/dfd/a08666.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "d9/dfd/a08666.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "d9/dfd/a08666.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

@@ -1,6 +1,7 @@
 var a11050 =
 [
-    [ "CheckCastHandler", "d8/d06/a11050.html#a8647582abeea09779e05d809cbdb0d06", null ],
-    [ "Call", "d8/d06/a11050.html#a805de70601b15de19639ca01c75ae7f7", null ],
-    [ "_checkCastHandlerScript", "d8/d06/a11050.html#af13f11d14772afbea06f0020df4bbe6c", null ]
+    [ "EffectAuraNameCheck", "d8/d06/a11050.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
+    [ "Check", "d8/d06/a11050.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
+    [ "ToString", "d8/d06/a11050.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
+    [ "effAurName", "d8/d06/a11050.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
 ];

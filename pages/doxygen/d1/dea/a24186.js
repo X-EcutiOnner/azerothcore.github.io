@@ -1,6 +1,6 @@
 var a24186 =
 [
-    [ "HandlePeriodic", "d1/dea/a24186.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
-    [ "PrepareAuraScript", "d1/dea/a24186.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
-    [ "Register", "d1/dea/a24186.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
+    [ "FilterTargets", "d1/dea/a24186.html#adab73c94c659d7421c9c6887d956cd83", null ],
+    [ "PrepareSpellScript", "d1/dea/a24186.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
+    [ "Register", "d1/dea/a24186.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
 ];

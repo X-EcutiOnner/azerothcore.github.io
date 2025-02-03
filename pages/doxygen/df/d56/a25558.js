@@ -1,6 +1,7 @@
 var a25558 =
 [
-    [ "HandleDummy", "df/d56/a25558.html#af306009f2c418e898478720b9c4ad6ab", null ],
-    [ "PrepareSpellScript", "df/d56/a25558.html#a44cb481fe93fd1c691495cc1ead35e5e", null ],
-    [ "Register", "df/d56/a25558.html#af51e3b3cbfb469fa6230a36d8d5fcec7", null ]
+    [ "HandleEnergize", "df/d56/a25558.html#a283e713252166a863aa96530d6e7608b", null ],
+    [ "Load", "df/d56/a25558.html#a89847e0e9435a708c5722ff928f7033f", null ],
+    [ "PrepareSpellScript", "df/d56/a25558.html#a8847e05e6eeafd801fca5423d0689432", null ],
+    [ "Register", "df/d56/a25558.html#ae0778ffd8cf203e22510ee91b0394303", null ]
 ];

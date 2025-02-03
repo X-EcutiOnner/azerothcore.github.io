@@ -1,7 +1,5 @@
 var a10730 =
 [
-    [ "OpcodeHandler", "d5/dfd/a04680.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "d5/dfd/a04680.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "d5/dfd/a04680.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "d5/dfd/a04680.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "PacketHandler", "db/d77/a10730.html#a7ca20eda3de42ab35ef45c56f1d6d73e", null ],
+    [ "Call", "db/d77/a10730.html#a42ac77b81d5280c7f1c54991649ab501", null ]
 ];

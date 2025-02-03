@@ -1,6 +1,6 @@
 var a19342 =
 [
-    [ "HandleApplyTouch", "df/d41/a19342.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "df/d41/a19342.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "df/d41/a19342.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "dark_rune_stormcallerAI", "dc/d36/a19346.html", "dc/d36/a19346" ],
+    [ "dark_rune_stormcaller", "df/d41/a19342.html#ab31774011fc3e1e8ffa1a3b7c5cbfbcc", null ],
+    [ "GetAI", "df/d41/a19342.html#a9072aaf482106cfae0d3901507b47f60", null ]
 ];

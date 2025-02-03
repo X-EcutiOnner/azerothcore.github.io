@@ -1,7 +1,6 @@
 var a20534 =
 [
-    [ "boss_yoggsaron_corruptor_tentacleAI", "d0/d57/a20534.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
-    [ "DoAction", "d0/d57/a20534.html#abac26b3be775eea734403be36cbed4d2", null ],
-    [ "SelectCorruptionTarget", "d0/d57/a20534.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
-    [ "UpdateAI", "d0/d57/a20534.html#a0269d1dc655af5680d7074cb093740b8", null ]
+    [ "boss_yoggsaron_death_orbAI", "d9/d9e/a20538.html", "d9/d9e/a20538" ],
+    [ "boss_yoggsaron_death_orb", "d0/d57/a20534.html#a862d01f012cee832b41bc7c584816b93", null ],
+    [ "GetAI", "d0/d57/a20534.html#a3169cd0e78642503f394a6cb74307871", null ]
 ];

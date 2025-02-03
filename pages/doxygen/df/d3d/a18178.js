@@ -1,7 +1,6 @@
 var a18178 =
 [
-    [ "npc_valithria_portalAI", "df/d3d/a18178.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "df/d3d/a18178.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "df/d3d/a18178.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "df/d3d/a18178.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "npc_the_lich_king_controllerAI", "dc/def/a18182.html", "dc/def/a18182" ],
+    [ "npc_the_lich_king_controller", "df/d3d/a18178.html#a32b14d699737497ba7c90d8ef17557d7", null ],
+    [ "GetAI", "df/d3d/a18178.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
 ];

@@ -1,5 +1,6 @@
 var a10082 =
 [
-    [ "FactoryCreatureScript", "d2/d7a/a10082.html#a62cd4db9e8dd3dab606f1166fdf0ce44", null ],
-    [ "GetAI", "d2/d7a/a10082.html#a0e491e4cda2b03456d798f6726dbde54", null ]
+    [ "ConditionScript", "d2/d7a/a10082.html#a546130ee7ed33c7763115cb0d1506a1b", null ],
+    [ "IsDatabaseBound", "d2/d7a/a10082.html#ac4f8325e3fa1e11437056818a0267342", null ],
+    [ "OnConditionCheck", "d2/d7a/a10082.html#a2d8a4e71f20c290428c3a86cedfcaab7", null ]
 ];

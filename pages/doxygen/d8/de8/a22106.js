@@ -1,5 +1,5 @@
 var a22106 =
 [
-    [ "go_finklestein_cauldron", "d8/de8/a22106.html#a8aa352319c54526069588dacd75ab883", null ],
-    [ "OnGossipHello", "d8/de8/a22106.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "d8/de8/a22106.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "d8/de8/a22106.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

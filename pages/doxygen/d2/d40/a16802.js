@@ -1,6 +1,6 @@
 var a16802 =
 [
-    [ "SlaveRunEvent", "d2/d40/a16802.html#a4560b275b0870cdbd192b2610893b47c", null ],
-    [ "Execute", "d2/d40/a16802.html#a81db67be136525dea5a9cd84180be165", null ],
-    [ "_owner", "d2/d40/a16802.html#a33e2ce4cea1edf2e0967696c41667f15", null ]
+    [ "npc_pos_freed_slaveAI", "d6/da7/a16806.html", "d6/da7/a16806" ],
+    [ "npc_pos_freed_slave", "d2/d40/a16802.html#a19fd79279646cb1c49c04056636615fc", null ],
+    [ "GetAI", "d2/d40/a16802.html#ac798c2584d48892162cc2bc779701e16", null ]
 ];

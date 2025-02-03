@@ -1,6 +1,8 @@
 var a16506 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "da/df6/a16510.html", "da/df6/a16510" ],
-    [ "instance_forge_of_souls", "db/dce/a16506.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "db/dce/a16506.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "npc_fos_leaderAI", "db/dce/a16506.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "db/dce/a16506.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "db/dce/a16506.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "db/dce/a16506.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "db/dce/a16506.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

@@ -1,10 +1,7 @@
 var a16382 =
 [
-    [ "boss_tharon_jaAI", "de/d0c/a16382.html#a03025fa529e932f23479ff19b0cd8238", null ],
-    [ "DoAction", "de/d0c/a16382.html#a655fd83c2d671847fea9ae393c132fb9", null ],
-    [ "JustDied", "de/d0c/a16382.html#a7928b5db061f1073e1decc2d40601195", null ],
-    [ "JustEngagedWith", "de/d0c/a16382.html#aab194a8f802eeb625d1a74960acbe154", null ],
-    [ "KilledUnit", "de/d0c/a16382.html#a41e929a3768768eb06bafdee3269fd24", null ],
-    [ "Reset", "de/d0c/a16382.html#a272e8565a9b00a27505b301d52814eee", null ],
-    [ "UpdateAI", "de/d0c/a16382.html#a6f482cabcb0bd56711878a5ea297b950", null ]
+    [ "HandleScriptEffect", "de/d0c/a16382.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "de/d0c/a16382.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "de/d0c/a16382.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "de/d0c/a16382.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

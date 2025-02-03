@@ -1,6 +1,8 @@
 var a18886 =
 [
-    [ "instance_naxxramas_InstanceMapScript", "d0/d28/a18890.html", "d0/d28/a18890" ],
-    [ "instance_naxxramas", "de/ded/a18886.html#a9d4b57f9f0f7a44565bb8d9bd3aa24a1", null ],
-    [ "GetInstanceScript", "de/ded/a18886.html#ac5dd8d591af2239faab17727eb1ef66e", null ]
+    [ "HandleDamage", "de/ded/a18886.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "de/ded/a18886.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "de/ded/a18886.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "de/ded/a18886.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "de/ded/a18886.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

@@ -1,7 +1,5 @@
 var a26746 =
 [
-    [ "CharacterDeleteActionIpLogger", "dd/df0/a26746.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "dd/df0/a26746.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnDelete", "dd/df0/a26746.html#a35ea1362df09fccf0c4cee2e9ef6deb9", null ],
-    [ "OnFailedDelete", "dd/df0/a26746.html#a34efd44289746078fdcfae63641b5580", null ]
+    [ "achievement_not_even_a_scratch", "dd/df0/a26746.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "dd/df0/a26746.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

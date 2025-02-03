@@ -1,9 +1,11 @@
 var a20258 =
 [
-    [ "npc_ulduar_dark_rune_watcherAI", "de/d0e/a20258.html#a2239253c2c4760b130ace4a07ef1e8c4", null ],
-    [ "CanAIAttack", "de/d0e/a20258.html#a891e354dc27f0d53e06a0cf2eea46970", null ],
-    [ "Reset", "de/d0e/a20258.html#a79a1081a50ded7afc5f81ed4234be59d", null ],
-    [ "UpdateAI", "de/d0e/a20258.html#a58c5f53f74055b89c11ed27ffe908732", null ],
-    [ "timer1", "de/d0e/a20258.html#aab38ff79ca8fc867a3d6c6512d0376c8", null ],
-    [ "timer2", "de/d0e/a20258.html#a7b4eb188939c15f11a6b2532853ad798", null ]
+    [ "npc_ulduar_expedition_engineerAI", "de/d0e/a20258.html#a48e29edad38f8ecbab54579203c93044", null ],
+    [ "Reset", "de/d0e/a20258.html#a8a68e3a58133913d0eb0bf9fd2532db2", null ],
+    [ "SetData", "de/d0e/a20258.html#a31db1ae61777b8f1a38d381e785ce158", null ],
+    [ "UpdateAI", "de/d0e/a20258.html#ab6d29aaae95038282fece78479448459", null ],
+    [ "fixingGUID", "de/d0e/a20258.html#ae0ba3ddbff054a948709e70f0bf9961a", null ],
+    [ "pInstance", "de/d0e/a20258.html#a6b858d46eda05493ec0cac22e174854c", null ],
+    [ "timer", "de/d0e/a20258.html#a926b343da3d3953d386b18f24bc72867", null ],
+    [ "working", "de/d0e/a20258.html#ab8e436472efd91f2d400c02c1b500746", null ]
 ];

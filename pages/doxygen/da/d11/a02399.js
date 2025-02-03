@@ -1,6 +1,6 @@
 var a02399 =
 [
-    [ "LoginDatabaseConnection", "d6/df7/a05630.html", "d6/df7/a05630" ],
+    [ "LoginDatabaseConnection", "d7/d1a/a05634.html", "d7/d1a/a05634" ],
     [ "LoginDatabaseStatements", "da/d11/a02399.html#a2bc6eef17d8ecd1b7027058f5fecc9fb", [
       [ "LOGIN_SEL_REALMLIST", "da/d11/a02399.html#a2bc6eef17d8ecd1b7027058f5fecc9fba60f76dbe533e0e45479c1da3cf119ec9", null ],
       [ "LOGIN_DEL_EXPIRED_IP_BANS", "da/d11/a02399.html#a2bc6eef17d8ecd1b7027058f5fecc9fba391d5d5679155b59c7c5e62479acb721", null ],

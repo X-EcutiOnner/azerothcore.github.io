@@ -1,20 +1,23 @@
 var a03398 =
 [
-    [ "npc_partygoer_pather", "d4/d2a/a13266.html", "d4/d2a/a13266" ],
-    [ "npc_partygoer", "d0/db6/a13270.html", "d0/db6/a13270" ],
-    [ "Partygoer", "d1/d35/a03398.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
-      [ "EVENT_RANDOM_ACTION", "d1/d35/a03398.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
-      [ "EVENT_REMOVE_EQUIPMENT", "d1/d35/a03398.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
-      [ "EVENT_STOP_DANCING", "d1/d35/a03398.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
-      [ "EVENT_THROW_FIREWORKS", "d1/d35/a03398.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
-      [ "EVENT_RESET_FACING", "d1/d35/a03398.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
-      [ "GO_FIREWORKS_LAUNCHER", "d1/d35/a03398.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
+    [ "npc_eris_hevenfire", "db/d70/a13254.html", "db/d70/a13254" ],
+    [ "npc_eris_hevenfire::npc_eris_hevenfireAI", "d7/d7b/a13258.html", "d7/d7b/a13258" ],
+    [ "npc_balance_of_light_and_shadow", "d5/d42/a13262.html", "d5/d42/a13262" ],
+    [ "npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI", "d4/d2a/a13266.html", "d4/d2a/a13266" ],
+    [ "npc_augustus_the_touched", "d0/db6/a13270.html", "d0/db6/a13270" ],
+    [ "eEris", "d1/d35/a03398.html#a0846b7169aa45fd1ef72775a5f6e36fe", [
+      [ "QUEST_BALANCE_OF_LIGHT_AND_SHADOW", "d1/d35/a03398.html#a0846b7169aa45fd1ef72775a5f6e36fea893fed7c9aba464b46eda93ba0ff910e", null ],
+      [ "ITEM_EYE_OF_DIVINITY", "d1/d35/a03398.html#a0846b7169aa45fd1ef72775a5f6e36feaa330f1e90d7e18c5cec4f6ac9eccbf9b", null ],
+      [ "NPC_INJURED_PEASANT", "d1/d35/a03398.html#a0846b7169aa45fd1ef72775a5f6e36feaae13148e0ec5731f2bc25c5cd83fb54a", null ],
+      [ "NPC_PLAGUED_PEASANT", "d1/d35/a03398.html#a0846b7169aa45fd1ef72775a5f6e36fea2e04645dc1fe7fae413d5c2c903c89d2", null ],
+      [ "NPC_SCOURGE_ARCHER", "d1/d35/a03398.html#a0846b7169aa45fd1ef72775a5f6e36fea50dd59f1eeb08594a61c6ad576ad2814", null ],
+      [ "EVENT_SUMMON_PEASANTS", "d1/d35/a03398.html#a0846b7169aa45fd1ef72775a5f6e36fea499f23b6c79690c613e046b3e6394937", null ],
+      [ "EVENT_CHECK_PLAYER", "d1/d35/a03398.html#a0846b7169aa45fd1ef72775a5f6e36fea3d3d147dbdefaa5a8280f3d1bcc15ea8", null ],
+      [ "EVENT_SUMMON_ARCHERS", "d1/d35/a03398.html#a0846b7169aa45fd1ef72775a5f6e36fea84afa1291830b37278989be41610fb72", null ],
+      [ "SPELL_SHOOT", "d1/d35/a03398.html#a0846b7169aa45fd1ef72775a5f6e36fea1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "SPELL_DEATHS_DOOR", "d1/d35/a03398.html#a0846b7169aa45fd1ef72775a5f6e36fea59bc5812f6dcf3f0e45b673f923490e7", null ],
+      [ "SPELL_SEETHING_PLAGUE", "d1/d35/a03398.html#a0846b7169aa45fd1ef72775a5f6e36feac366f4ed224210fd4352c0ac9fb1c12a", null ],
+      [ "SPELL_ERIS_BLESSING", "d1/d35/a03398.html#a0846b7169aa45fd1ef72775a5f6e36feaaedc6f0db3ab3db342fe3379082ce633", null ]
     ] ],
-    [ "Partygoer_Pather", "d1/d35/a03398.html#a3222d14ce03d75912e65560ebf2a961b", [
-      [ "EVENT_PATH", "d1/d35/a03398.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
-      [ "EVENT_RANDOM_ACTION_PATHER", "d1/d35/a03398.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
-      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "d1/d35/a03398.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
-      [ "EVENT_STOP_DANCING_PATHER", "d1/d35/a03398.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
-    ] ],
-    [ "AddSC_eversong_woods", "d1/d35/a03398.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
+    [ "AddSC_eastern_plaguelands", "d1/d35/a03398.html#aaef7747656518bf0ce052d780430ed88", null ]
 ];

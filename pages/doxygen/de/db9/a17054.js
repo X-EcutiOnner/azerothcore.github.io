@@ -1,6 +1,6 @@
 var a17054 =
 [
-    [ "boss_blood_queen_lana_thelAI", "db/db5/a17058.html", "db/db5/a17058" ],
-    [ "boss_blood_queen_lana_thel", "de/db9/a17054.html#a9f8fa906f01082caacd106abc2707b07", null ],
-    [ "GetAI", "de/db9/a17054.html#a7873efd945bdb24228866f639e32879b", null ]
+    [ "OnAbsorb", "de/db9/a17054.html#aa6582457cd0502ca263433d04b40b64f", null ],
+    [ "PrepareAuraScript", "de/db9/a17054.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
+    [ "Register", "de/db9/a17054.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
 ];

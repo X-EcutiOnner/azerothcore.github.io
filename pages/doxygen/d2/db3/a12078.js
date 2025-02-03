@@ -1,6 +1,7 @@
 var a12078 =
 [
-    [ "boss_razorgoreAI", "dc/d30/a12082.html", "dc/d30/a12082" ],
-    [ "boss_razorgore", "d2/db3/a12078.html#aee534a04797c5938e6da00f2ab119943", null ],
-    [ "GetAI", "d2/db3/a12078.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
+    [ "HandlePeriodic", "d2/db3/a12078.html#ac2196cc9de34e286581d44d147fe9d04", null ],
+    [ "PrepareAuraScript", "d2/db3/a12078.html#a149c974371f23268d2d929b483637b14", null ],
+    [ "Register", "d2/db3/a12078.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
+    [ "Validate", "d2/db3/a12078.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
 ];

@@ -1,9 +1,8 @@
 var a16214 =
 [
-    [ "npc_fel_infernalAI", "d0/dd5/a16214.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
-    [ "EnterEvadeMode", "d0/dd5/a16214.html#aedec8729b9be931a74fe00d1aa649848", null ],
-    [ "JustDied", "d0/dd5/a16214.html#a599786069f98231eeb7f9ca809f8e671", null ],
-    [ "Reset", "d0/dd5/a16214.html#a09f408c9250467228b91ef9f6c9544f4", null ],
-    [ "UpdateAI", "d0/dd5/a16214.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
-    [ "events", "d0/dd5/a16214.html#acf955037c246f7b5f12cc5338b300b63", null ]
+    [ "npc_toc_pet_hunterAI", "d0/dd5/a16214.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "d0/dd5/a16214.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "d0/dd5/a16214.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "d0/dd5/a16214.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "d0/dd5/a16214.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

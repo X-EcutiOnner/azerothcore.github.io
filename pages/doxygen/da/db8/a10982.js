@@ -1,7 +1,12 @@
 var a10982 =
 [
-    [ "ap_bonus", "da/db8/a10982.html#a98410b8bb89434cd7e1747462f8039dc", null ],
-    [ "ap_dot_bonus", "da/db8/a10982.html#a09caeec47b138d9eff3539795416a09a", null ],
-    [ "direct_damage", "da/db8/a10982.html#abab1af227a6c8e592b8a9bd15589535d", null ],
-    [ "dot_damage", "da/db8/a10982.html#a92491d8d1e61612d88c7c830d7912be5", null ]
+    [ "cooldown", "da/db8/a10982.html#a0cd88c27979ccc5284aa46846db32a7c", null ],
+    [ "customChance", "da/db8/a10982.html#adf6742b70f0b00abddf1da6f45da3d16", null ],
+    [ "ppmRate", "da/db8/a10982.html#a931b2df4a187482e32ef252c3320080a", null ],
+    [ "procEx", "da/db8/a10982.html#a911770f28fe36243593b12fe92d6fbec", null ],
+    [ "procFlags", "da/db8/a10982.html#af253ef32b9de49fe85d0fe6f06855a60", null ],
+    [ "procPhase", "da/db8/a10982.html#a179d83770a02e4ab13f809ed3943a399", null ],
+    [ "schoolMask", "da/db8/a10982.html#a9a6d38ee4e4a35066780ef924c63f92f", null ],
+    [ "spellFamilyMask", "da/db8/a10982.html#a2aa57bf419ab51129fe7240750ee8910", null ],
+    [ "spellFamilyName", "da/db8/a10982.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a", null ]
 ];

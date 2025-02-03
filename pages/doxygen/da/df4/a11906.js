@@ -1,7 +1,6 @@
 var a11906 =
 [
-    [ "boss_urok_doomhowlAI", "da/df4/a11906.html#ade3d87a05eed0fd077b2e3245099ed74", null ],
-    [ "InitializeAI", "da/df4/a11906.html#a530bef523a27523827d3a94aa5f88698", null ],
-    [ "JustEngagedWith", "da/df4/a11906.html#abd74d844bcae5f9bd8fdd3797323af2c", null ],
-    [ "UpdateAI", "da/df4/a11906.html#a6ab5793a48534b7c338a915a7ed8faf9", null ]
+    [ "boss_thebeastAI", "d4/da7/a11910.html", "d4/da7/a11910" ],
+    [ "boss_the_beast", "da/df4/a11906.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
+    [ "GetAI", "da/df4/a11906.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
 ];

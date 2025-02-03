@@ -1,6 +1,7 @@
 var a14598 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "dc/d12/a14602.html", "dc/d12/a14602" ],
-    [ "instance_razorfen_downs", "d1/d34/a14598.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
-    [ "GetInstanceScript", "d1/d34/a14598.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
+    [ "npc_onyxian_lair_guard", "d1/d34/a14598.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "d1/d34/a14598.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "d1/d34/a14598.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "d1/d34/a14598.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

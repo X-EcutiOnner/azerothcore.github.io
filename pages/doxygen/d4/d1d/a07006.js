@@ -1,5 +1,5 @@
 var a07006 =
 [
-    [ "packet", "d4/d1d/a07006.html#ad266cc5bd8e3637534055a7564047f87", null ],
-    [ "playerGuid", "d4/d1d/a07006.html#a824393dda7676d4a5268d2d7d2e9d17b", null ]
+    [ "AuctionSearchOwnerListRequest", "d4/d1d/a07006.html#a1b774f8d2f77886669b8724be58713ef", null ],
+    [ "ownerGuid", "d4/d1d/a07006.html#a37d5d9356fa738e8263fdf7eb9c015a5", null ]
 ];

@@ -1,7 +1,6 @@
 var a16458 =
 [
-    [ "HandlePeriodicTick", "d5/d84/a16458.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
-    [ "PrepareAuraScript", "d5/d84/a16458.html#aabaef31a3c699c322e24e064f357f82f", null ],
-    [ "Register", "d5/d84/a16458.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
-    [ "Validate", "d5/d84/a16458.html#a18d92a82760992bc5d8503e3f774f208", null ]
+    [ "boss_bronjahmAI", "d6/d10/a16462.html", "d6/d10/a16462" ],
+    [ "boss_bronjahm", "d5/d84/a16458.html#a699e1be5273979c76cd5d06b60f0ee05", null ],
+    [ "GetAI", "d5/d84/a16458.html#a04676028f1f324b6eecea625122794ed", null ]
 ];

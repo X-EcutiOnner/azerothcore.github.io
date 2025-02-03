@@ -1,8 +1,9 @@
 var a09170 =
 [
-    [ "AnyAssistCreatureInRangeCheck", "d0/d3e/a09170.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
-    [ "operator()", "d0/d3e/a09170.html#a314a4800047f7e661cd011010b3f148e", null ],
-    [ "i_enemy", "d0/d3e/a09170.html#a37318ae783e6cf4a658063aab149e8a3", null ],
-    [ "i_funit", "d0/d3e/a09170.html#add1071091d1696c3f537483810dcb6f1", null ],
-    [ "i_range", "d0/d3e/a09170.html#a4bcf67be5bae4649d82586349d30be04", null ]
+    [ "NearestHostileUnitCheck", "d0/d3e/a09170.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
+    [ "NearestHostileUnitCheck", "d0/d3e/a09170.html#a2fe620370289850eb0362823de2072d1", null ],
+    [ "operator()", "d0/d3e/a09170.html#a04c85a77d660bbc74279d1062dabc375", null ],
+    [ "i_playerOnly", "d0/d3e/a09170.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
+    [ "m_range", "d0/d3e/a09170.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
+    [ "me", "d0/d3e/a09170.html#a67cef25e6f725ea42f0377df34d48495", null ]
 ];

@@ -1,7 +1,5 @@
 var a18138 =
 [
-    [ "ValithriaDespawner", "da/d52/a18138.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
-    [ "Execute", "da/d52/a18138.html#a4f8c63f52996da14078a7196cae3a00d", null ],
-    [ "operator()", "da/d52/a18138.html#a05bae39d642f294f2ef98151d66ba382", null ],
-    [ "_creature", "da/d52/a18138.html#a64bf6181ad867efd987edec141ca3bf0", null ]
+    [ "achievement_neck_deep_in_vile", "da/d52/a18138.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "da/d52/a18138.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

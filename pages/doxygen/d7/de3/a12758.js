@@ -1,8 +1,6 @@
 var a12758 =
 [
-    [ "DelayedSummonEvent", "d7/de3/a12758.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
-    [ "Execute", "d7/de3/a12758.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
-    [ "_entry", "d7/de3/a12758.html#a24d72110a070eb0bd03af081ef616de4", null ],
-    [ "_owner", "d7/de3/a12758.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
-    [ "_pos", "d7/de3/a12758.html#aef19987803a1cce47cbd8d9005a288ac", null ]
+    [ "npc_high_inquisitor_valrothAI", "d4/dba/a12762.html", "d4/dba/a12762" ],
+    [ "npc_high_inquisitor_valroth", "d7/de3/a12758.html#a6e244a411249667a84f0d34ca1b1f17b", null ],
+    [ "GetAI", "d7/de3/a12758.html#a6374b80425da8bc41d9d076e6e7d7bef", null ]
 ];

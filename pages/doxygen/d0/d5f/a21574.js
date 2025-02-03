@@ -1,10 +1,6 @@
 var a21574 =
 [
-    [ "npc_emilyAI", "d0/d5f/a21574.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "d0/d5f/a21574.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "d0/d5f/a21574.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "d0/d5f/a21574.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "d0/d5f/a21574.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "_mrfloppyGUID", "d0/d5f/a21574.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "d0/d5f/a21574.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "HandleDummy", "d0/d5f/a21574.html#afe86744c6ab901750731fca486ff2e6c", null ],
+    [ "PrepareSpellScript", "d0/d5f/a21574.html#a47e8a3187fa523c61842885f1cbd041d", null ],
+    [ "Register", "d0/d5f/a21574.html#a61b1b63167b3dc562b9916ffce1e4eee", null ]
 ];

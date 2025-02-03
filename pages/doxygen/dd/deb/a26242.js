@@ -1,7 +1,6 @@
 var a26242 =
 [
-    [ "CalcPeriodic", "dd/deb/a26242.html#af787d0c8738284e757f808e7d138bdc6", null ],
-    [ "PrepareAuraScript", "dd/deb/a26242.html#a383db196133bbecee06fe443fdb1bc24", null ],
-    [ "Register", "dd/deb/a26242.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
-    [ "Update", "dd/deb/a26242.html#af3f4a7b82e099313d609df7f85f02d00", null ]
+    [ "PrepareAuraScript", "dd/deb/a26242.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
+    [ "Register", "dd/deb/a26242.html#a91f4b2b8796c7efab2f622893a393619", null ],
+    [ "AuraEffectHandleModes", "dd/deb/a26242.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
 ];

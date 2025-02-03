@@ -1,17 +1,18 @@
 var a09302 =
 [
-    [ "EmblemInfo", "dc/d65/a09302.html#a8d053ab27856955bf6013ef4c61ed33f", null ],
-    [ "GetBackgroundColor", "dc/d65/a09302.html#a66da2cd78cee9e929ff0f2439caed0e5", null ],
-    [ "GetBorderColor", "dc/d65/a09302.html#ac5ea55d7fd129524630dd0d486b457a7", null ],
-    [ "GetBorderStyle", "dc/d65/a09302.html#a7a791a3f467e72a3e8e941e3179d7709", null ],
-    [ "GetColor", "dc/d65/a09302.html#a15108f3a2a93ebbc01111672dd238d63", null ],
-    [ "GetStyle", "dc/d65/a09302.html#a0e6d684542535d537bdeba4104b7a18d", null ],
-    [ "LoadFromDB", "dc/d65/a09302.html#a17de371e72a2b29a7f249dbe912636bc", null ],
-    [ "ReadPacket", "dc/d65/a09302.html#abd73ea3db00fa900d7b3a8eeffa8b1bf", null ],
-    [ "SaveToDB", "dc/d65/a09302.html#aea1326261d893ef3beff026402bf8272", null ],
-    [ "m_backgroundColor", "dc/d65/a09302.html#a0bc92e459910ab6aad3ac35c8b613a5f", null ],
-    [ "m_borderColor", "dc/d65/a09302.html#a5aff1dcb9db9bc1477f2f37ac5b2c6cf", null ],
-    [ "m_borderStyle", "dc/d65/a09302.html#aa3e49b5f76fdb4e2139aeccb79c19390", null ],
-    [ "m_color", "dc/d65/a09302.html#ace48f189e9a1ae685dfbe97f35f49ec5", null ],
-    [ "m_style", "dc/d65/a09302.html#a08191c3c9cc48bde61ef0de81be34c90", null ]
+    [ "GroupContainer", "dc/d65/a09302.html#a417c5798d50cac5c1bc5b0eae13945cc", null ],
+    [ "GroupIds", "dc/d65/a09302.html#ad3a9005c50a5957d3f47adf60624b9aa", null ],
+    [ "GroupMgr", "dc/d65/a09302.html#a663dbeb2e20161d8d6cf72f322c05f0e", null ],
+    [ "~GroupMgr", "dc/d65/a09302.html#ad5a5efeed7f78146983611c2349c111f", null ],
+    [ "AddGroup", "dc/d65/a09302.html#abb97c613417573dc4cafa117065e7cf8", null ],
+    [ "GenerateGroupId", "dc/d65/a09302.html#ad881433a3836a70e44734bde5a1afc6f", null ],
+    [ "GetGroupByGUID", "dc/d65/a09302.html#a2af93882e217f762df95ba21af191c89", null ],
+    [ "InitGroupIds", "dc/d65/a09302.html#a6881453ec34dc2d9416069a87b1a3234", null ],
+    [ "instance", "dc/d65/a09302.html#a1b7275cfd70d46216df8c353e70d64c8", null ],
+    [ "LoadGroups", "dc/d65/a09302.html#ab8548ce88b015ae3040cd5f2cd7b1990", null ],
+    [ "RegisterGroupId", "dc/d65/a09302.html#a8bface2b6600801ebcd1cbb9070ec3ef", null ],
+    [ "RemoveGroup", "dc/d65/a09302.html#a654b7c795c9c3d77a7a39bce58dec2c7", null ],
+    [ "_groupIds", "dc/d65/a09302.html#af260c73ba61242f741103bdfe6d6fb9e", null ],
+    [ "_nextGroupId", "dc/d65/a09302.html#a4e41d7444f8b7d3dbb54569be80b65f9", null ],
+    [ "GroupStore", "dc/d65/a09302.html#ae897c661dd4b185d205c3a12d17ccb2b", null ]
 ];

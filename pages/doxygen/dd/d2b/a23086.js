@@ -1,5 +1,6 @@
 var a23086 =
 [
-    [ "at_underbog_ghazan", "dd/d2b/a23086.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
-    [ "_OnTrigger", "dd/d2b/a23086.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
+    [ "HandleAfterRemove", "dd/d2b/a23086.html#a74610b06095572aa2c898cd84e0fb229", null ],
+    [ "PrepareAuraScript", "dd/d2b/a23086.html#ac0d686490ff37810e0116dea4d0b6077", null ],
+    [ "Register", "dd/d2b/a23086.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
 ];

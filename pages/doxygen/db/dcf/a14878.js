@@ -1,7 +1,6 @@
 var a14878 =
 [
-    [ "FilterTargets", "db/dcf/a14878.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "db/dcf/a14878.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "db/dcf/a14878.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "db/dcf/a14878.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "FilterTargets", "db/dcf/a14878.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
+    [ "PrepareSpellScript", "db/dcf/a14878.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
+    [ "Register", "db/dcf/a14878.html#aaf7b4fba94d94331f6b35add2b836061", null ]
 ];

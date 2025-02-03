@@ -1,6 +1,6 @@
 var a18234 =
 [
-    [ "PeriodicTick", "df/d1a/a18234.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
-    [ "PrepareAuraScript", "df/d1a/a18234.html#a0767ac60151517b803e871a0fcb25967", null ],
-    [ "Register", "df/d1a/a18234.html#afd1e28b224035aef5ac109f38d7e118d", null ]
+    [ "npc_gluttonous_abominationAI", "d7/d5d/a18238.html", "d7/d5d/a18238" ],
+    [ "npc_gluttonous_abomination", "df/d1a/a18234.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
+    [ "GetAI", "df/d1a/a18234.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
 ];

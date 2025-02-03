@@ -1,6 +1,10 @@
 var a22990 =
 [
-    [ "go_ahune_ice_stone", "dc/d0a/a22990.html#ab7b665f01da80751ea97705c5113bde7", null ],
-    [ "GossipSelect", "dc/d0a/a22990.html#aadb4db41ed84922c0a2d0463b8616876", null ],
-    [ "_instance", "dc/d0a/a22990.html#a43651f471ac777b59fb8ba67b830cd35", null ]
+    [ "npc_frozen_core", "dc/d0a/a22990.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
+    [ "DoAction", "dc/d0a/a22990.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
+    [ "Initialize", "dc/d0a/a22990.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
+    [ "JustDied", "dc/d0a/a22990.html#a476e086b0379e0cef3a44d250b020d6a", null ],
+    [ "UpdateAI", "dc/d0a/a22990.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
+    [ "_events", "dc/d0a/a22990.html#a3a5efec3279644ef713722e1556a3c84", null ],
+    [ "_instance", "dc/d0a/a22990.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
 ];

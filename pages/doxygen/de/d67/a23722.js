@@ -1,6 +1,7 @@
 var a23722 =
 [
-    [ "npc_wounded_blood_elfAI", "d0/d4f/a23726.html", "d0/d4f/a23726" ],
-    [ "npc_wounded_blood_elf", "de/d67/a23722.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "de/d67/a23722.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "HandleDummy", "de/d67/a23722.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "de/d67/a23722.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "de/d67/a23722.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "de/d67/a23722.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

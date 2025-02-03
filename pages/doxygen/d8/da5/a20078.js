@@ -1,5 +1,6 @@
 var a20078 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "d8/da5/a20078.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "d8/da5/a20078.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "OnRemoveStun", "d8/da5/a20078.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
+    [ "PrepareAuraScript", "d8/da5/a20078.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
+    [ "Register", "d8/da5/a20078.html#a3166cfcd2acdcd4460217503d4008367", null ]
 ];

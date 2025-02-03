@@ -1,6 +1,11 @@
 var a08378 =
 [
-    [ "PlayerCreateInfoItem", "de/d6b/a08378.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
-    [ "item_amount", "de/d6b/a08378.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
-    [ "item_id", "de/d6b/a08378.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
+    [ "SpellModifier", "de/d6b/a08378.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
+    [ "charges", "de/d6b/a08378.html#a1aaf71299c2dd27b58a049d252efdee8", null ],
+    [ "mask", "de/d6b/a08378.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
+    [ "op", "de/d6b/a08378.html#a21d017f0c8d3108a0eb5f48798103356", null ],
+    [ "ownerAura", "de/d6b/a08378.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
+    [ "spellId", "de/d6b/a08378.html#a465803efab27b2ba0a49c6571b65b908", null ],
+    [ "type", "de/d6b/a08378.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
+    [ "value", "de/d6b/a08378.html#a31742662ba8112c9e9b972897a928e57", null ]
 ];

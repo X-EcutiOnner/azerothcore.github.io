@@ -1,6 +1,7 @@
 var a19358 =
 [
-    [ "boss_algalon_the_observerAI", "d5/dca/a19362.html", "d5/dca/a19362" ],
-    [ "boss_algalon_the_observer", "d1/d5c/a19358.html#a0691b47a116401da58b246203ecba2cb", null ],
-    [ "GetAI", "d1/d5c/a19358.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
+    [ "HandleEffectRemove", "d1/d5c/a19358.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "d1/d5c/a19358.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "d1/d5c/a19358.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "d1/d5c/a19358.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];

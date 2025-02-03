@@ -1,10 +1,21 @@
 var a10046 =
 [
-    [ "ArenaScript", "dc/d25/a10046.html#acba88d9008e08873f3f20b92d69e8912", null ],
-    [ "CanAddMember", "dc/d25/a10046.html#aa85728dd471c2f4d58ed1794e741d060", null ],
-    [ "CanSaveToDB", "dc/d25/a10046.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
-    [ "IsDatabaseBound", "dc/d25/a10046.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
-    [ "OnArenaStart", "dc/d25/a10046.html#ae67b000b16f56309da56f672a9f2b423", null ],
-    [ "OnBeforeArenaCheckWinConditions", "dc/d25/a10046.html#a2b46190a3243f2306a74295975dca317", null ],
-    [ "OnGetPoints", "dc/d25/a10046.html#a13b22ad00d3742589532e6e522258834", null ]
+    [ "AllSpellScript", "dc/d25/a10046.html#a95e37ac5e1e253fb6d759103ec55ac7a", null ],
+    [ "CanModAuraEffectDamageDone", "dc/d25/a10046.html#a95cc4310fb4bc275c7f467a4d71d790c", null ],
+    [ "CanModAuraEffectModDamagePercentDone", "dc/d25/a10046.html#a05230c0a96e7096b64f1bb03acedb337", null ],
+    [ "CanPrepare", "dc/d25/a10046.html#aeb2d438fdd7ca823ce670a94941bafff", null ],
+    [ "CanScalingEverything", "dc/d25/a10046.html#a026842dcd2d8c0e0c3f99718b04e86b0", null ],
+    [ "CanSelectSpecTalent", "dc/d25/a10046.html#a3cf7b45d8e9f5b23e2753d1624c4af78", null ],
+    [ "IsDatabaseBound", "dc/d25/a10046.html#a0854a57b62e310575a3e5cd8d35e8532", null ],
+    [ "OnBeforeAuraRankForLevel", "dc/d25/a10046.html#ae5a4590e4fb49d4cfe73c5ce307773ca", null ],
+    [ "OnCalcMaxDuration", "dc/d25/a10046.html#a5d02de785a4e1cf5103110828fac5e75", null ],
+    [ "OnDummyEffect", "dc/d25/a10046.html#a54e0b823c538c41507c541db025d5295", null ],
+    [ "OnDummyEffect", "dc/d25/a10046.html#a36061e5bcec2ef4dea35d1b5c9e703b4", null ],
+    [ "OnDummyEffect", "dc/d25/a10046.html#afe06aa2578b89fbc5ed5784aed38912a", null ],
+    [ "OnRemoveAuraScaleTargets", "dc/d25/a10046.html#aa055f00fe76ba2768f97e23ecf379a18", null ],
+    [ "OnScaleAuraUnitAdd", "dc/d25/a10046.html#abf3758ff33e5be1492ed4e45979a7a8d", null ],
+    [ "OnSpellCast", "dc/d25/a10046.html#aac6481ca905c3f44f85c55aaf694afca", null ],
+    [ "OnSpellCastCancel", "dc/d25/a10046.html#ad5dd3e0f697edb93df6ee764fe2a1d99", null ],
+    [ "OnSpellCheckCast", "dc/d25/a10046.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ],
+    [ "OnSpellPrepare", "dc/d25/a10046.html#addb78dc29f771ec376922a4a2bff558b", null ]
 ];

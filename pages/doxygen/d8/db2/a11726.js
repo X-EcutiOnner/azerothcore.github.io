@@ -1,7 +1,6 @@
 var a11726 =
 [
-    [ "boss_magmusAI", "d8/db2/a11726.html#a8a3e5361bda492007013af9228899b8f", null ],
-    [ "JustEngagedWith", "d8/db2/a11726.html#a11e4868628564078997694373315a9d6", null ],
-    [ "Reset", "d8/db2/a11726.html#a5fe304cec86831b7e64f83caee1392d0", null ],
-    [ "UpdateAI", "d8/db2/a11726.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
+    [ "boss_hedrumAI", "d3/d0c/a11730.html", "d3/d0c/a11730" ],
+    [ "boss_hedrum", "d8/db2/a11726.html#a655d348dec9ce9b585ea12f3629b0aa7", null ],
+    [ "GetAI", "d8/db2/a11726.html#a7033d315852aa4905784e957679ee261", null ]
 ];

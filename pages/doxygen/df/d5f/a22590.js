@@ -1,6 +1,9 @@
 var a22590 =
 [
-    [ "boss_essence_of_sufferingAI", "d9/d4a/a22594.html", "d9/d4a/a22594" ],
-    [ "boss_essence_of_suffering", "df/d5f/a22590.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "df/d5f/a22590.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "FilterTargets", "df/d5f/a22590.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "df/d5f/a22590.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "df/d5f/a22590.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "df/d5f/a22590.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "df/d5f/a22590.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "df/d5f/a22590.html#a814083360970284a325621f45e109b5b", null ]
 ];

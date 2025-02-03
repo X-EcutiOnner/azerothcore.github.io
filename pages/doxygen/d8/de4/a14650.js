@@ -1,7 +1,14 @@
 var a14650 =
 [
-    [ "HandleScript", "d8/de4/a14650.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
-    [ "Load", "d8/de4/a14650.html#a2dc1edf537f58133fb4daabde9f43843", null ],
-    [ "PrepareSpellScript", "d8/de4/a14650.html#ae856c6e70ededa95c0308596a9f980af", null ],
-    [ "Register", "d8/de4/a14650.html#ac2e82c7e626658faa968f75c26688b43", null ]
+    [ "boss_ayamiss", "d8/de4/a14650.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
+    [ "DoAction", "d8/de4/a14650.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
+    [ "EnterEvadeMode", "d8/de4/a14650.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
+    [ "JustDied", "d8/de4/a14650.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
+    [ "JustEngagedWith", "d8/de4/a14650.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
+    [ "JustSummoned", "d8/de4/a14650.html#a4281f761256cd93c19aea0a76239512d", null ],
+    [ "MovementInform", "d8/de4/a14650.html#a6bc1f0767785efb5a5fb005b49338032", null ],
+    [ "Reset", "d8/de4/a14650.html#a10111f97236c2846181aa20f7d9b64fd", null ],
+    [ "ScheduleTasks", "d8/de4/a14650.html#a166238b9395a426a7333cf71a38c6c5c", null ],
+    [ "_swarmers", "d8/de4/a14650.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
+    [ "homePos", "d8/de4/a14650.html#ab098ee0f8872d1cf9d34993c01971921", null ]
 ];

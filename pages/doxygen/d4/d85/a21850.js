@@ -1,6 +1,6 @@
 var a21850 =
 [
-    [ "npc_mcmanus", "d4/d85/a21850.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "d4/d85/a21850.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "d4/d85/a21850.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "HandleHealPct", "d4/d85/a21850.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "d4/d85/a21850.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "d4/d85/a21850.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

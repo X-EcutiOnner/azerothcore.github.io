@@ -1,12 +1,12 @@
 var a11166 =
 [
-    [ "CreatureTextBuilder", "de/df4/a11166.html#a582eed3ab284675e72261a1db9808925", null ],
-    [ "operator()", "de/df4/a11166.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
-    [ "_gender", "de/df4/a11166.html#a615c3046f749bf44b036958fb1a50128", null ],
-    [ "_language", "de/df4/a11166.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
-    [ "_msgType", "de/df4/a11166.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
-    [ "_source", "de/df4/a11166.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
-    [ "_target", "de/df4/a11166.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
-    [ "_textGroup", "de/df4/a11166.html#afcd842c1482980c6232f3f19d21a1481", null ],
-    [ "_textId", "de/df4/a11166.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
+    [ "BroadcastTextBuilder", "de/df4/a11166.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
+    [ "operator()", "de/df4/a11166.html#a16f9719278e00013c25902846fa1be5b", null ],
+    [ "operator()", "de/df4/a11166.html#ac87701626dddffb6b09bf504b97c4d55", null ],
+    [ "_achievementId", "de/df4/a11166.html#a82de25331657b17ce0de33f2b374abda", null ],
+    [ "_gender", "de/df4/a11166.html#a71032b0749dd75f552107503528e8166", null ],
+    [ "_msgType", "de/df4/a11166.html#a232325cefa217843da5cc6db7e5d80fe", null ],
+    [ "_source", "de/df4/a11166.html#ab73315225b3aa36a309f45596f7089f4", null ],
+    [ "_target", "de/df4/a11166.html#a958b154f3c82188e9684be0f0b7dae56", null ],
+    [ "_textId", "de/df4/a11166.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
 ];

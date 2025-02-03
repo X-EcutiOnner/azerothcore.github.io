@@ -1,7 +1,10 @@
 var a08422 =
 [
-    [ "SetRuneState", "d4/dc6/a08422.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
-    [ "lastUsedRune", "d4/dc6/a08422.html#a88c702716eb3032c20ae5ed74922d923", null ],
-    [ "runes", "d4/dc6/a08422.html#aac485530bfa81d54d9da3213fe917c29", null ],
-    [ "runeState", "d4/dc6/a08422.html#ae58297e0766578b234604a97641501a1", null ]
+    [ "DuelInfo", "d4/dc6/a08422.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
+    [ "Initiator", "d4/dc6/a08422.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
+    [ "IsMounted", "d4/dc6/a08422.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
+    [ "Opponent", "d4/dc6/a08422.html#a2765770367c839ad28f804e2df3205cb", null ],
+    [ "OutOfBoundsTime", "d4/dc6/a08422.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
+    [ "StartTime", "d4/dc6/a08422.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
+    [ "State", "d4/dc6/a08422.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
 ];

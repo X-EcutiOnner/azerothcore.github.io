@@ -1,8 +1,7 @@
 var a10722 =
 [
-    [ "PacketFilter", "dd/dfd/a10722.html#accfa43359c62d2e9d6c38086c77374bd", null ],
-    [ "~PacketFilter", "dd/dfd/a10722.html#a669531cfd9c06d5cf525986069117687", null ],
-    [ "Process", "dd/dfd/a10722.html#a03679e3c241a535757608c63ca933ac9", null ],
-    [ "ProcessUnsafe", "dd/dfd/a10722.html#a3e2bdc6d15cfd5cac1b9c130937599e3", null ],
-    [ "m_pSession", "dd/dfd/a10722.html#ad3723289ea93f1095cf82584268335d9", null ]
+    [ "UpdateWorldState", "dd/dfd/a10722.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
+    [ "Write", "dd/dfd/a10722.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
+    [ "Value", "dd/dfd/a10722.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
+    [ "VariableID", "dd/dfd/a10722.html#aa73278b324822f509f48e6edcdaed457", null ]
 ];

@@ -1,5 +1,6 @@
 var a14542 =
 [
-    [ "npc_black_morass_summoned_add", "dc/d37/a14542.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
-    [ "EnterEvadeMode", "dc/d37/a14542.html#a437e7b72b985713d22883f3e33f30942", null ]
+    [ "instance_the_black_morass_InstanceMapScript", "d8/dad/a14546.html", "d8/dad/a14546" ],
+    [ "instance_the_black_morass", "dc/d37/a14542.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
+    [ "GetInstanceScript", "dc/d37/a14542.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
 ];

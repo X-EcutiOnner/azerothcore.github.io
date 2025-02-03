@@ -1,8 +1,8 @@
 var a09114 =
 [
-    [ "NearestAttackableNoTotemUnitInObjectRangeCheck", "d4/d6b/a09114.html#a1f0bf90a7b9c57d05c54e3db6827aec1", null ],
-    [ "operator()", "d4/d6b/a09114.html#a08f8e473914c8a7bddbf26568294c18b", null ],
-    [ "i_obj", "d4/d6b/a09114.html#a949ff3bcc3530206d83512d293647a2b", null ],
-    [ "i_owner", "d4/d6b/a09114.html#a64f58427bbab3276bdc53450b33eca12", null ],
-    [ "i_range", "d4/d6b/a09114.html#af52388830cec17e32b1d368739b4555a", null ]
+    [ "FriendlyMissingBuffInRange", "d4/d6b/a09114.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
+    [ "operator()", "d4/d6b/a09114.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
+    [ "i_obj", "d4/d6b/a09114.html#aba43edf48b2b0184b52143707c3531f4", null ],
+    [ "i_range", "d4/d6b/a09114.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
+    [ "i_spell", "d4/d6b/a09114.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
 ];

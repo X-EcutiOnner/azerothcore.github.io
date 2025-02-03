@@ -1,5 +1,6 @@
 var a10806 =
 [
-    [ "amountCounter", "d5/db1/a10806.html#a8de1f899f55a371b77ae007c1f9a981c", null ],
-    [ "lastReceiveTime", "d5/db1/a10806.html#ae0f3f2a90a24b48d239e3df3525f8fdc", null ]
+    [ "WorldSession", "d5/db1/a10806.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Guid", "d5/db1/a10806.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
+    [ "Name", "d5/db1/a10806.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
 ];

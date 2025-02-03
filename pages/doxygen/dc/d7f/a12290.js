@@ -1,9 +1,9 @@
 var a12290 =
 [
-    [ "npc_mc_core_houndAI", "dc/d7f/a12290.html#a9b07d662e32a342419a848ecd59d6391", null ],
-    [ "DamageTaken", "dc/d7f/a12290.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
-    [ "Reset", "dc/d7f/a12290.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
-    [ "UpdateAI", "dc/d7f/a12290.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
-    [ "instance", "dc/d7f/a12290.html#ab47451dfeff84c8467be2b76554df897", null ],
-    [ "serratedBiteTimer", "dc/d7f/a12290.html#a3a49df32c788497d3e82912d423683b7", null ]
+    [ "npc_flamewaker_priestAI", "dc/d7f/a12290.html#aa0508dda5bc365896128f088b6de30f4", null ],
+    [ "JustDied", "dc/d7f/a12290.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
+    [ "JustEngagedWith", "dc/d7f/a12290.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
+    [ "Reset", "dc/d7f/a12290.html#a3c3629a6c6987e861e40a893363d2508", null ],
+    [ "UpdateAI", "dc/d7f/a12290.html#a28c0ed65521f3d2150874ddc1b913933", null ],
+    [ "events", "dc/d7f/a12290.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
 ];

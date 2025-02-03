@@ -1,7 +1,8 @@
 var a26534 =
 [
-    [ "HandleDispel", "d0/d77/a26534.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
-    [ "PrepareAuraScript", "d0/d77/a26534.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
-    [ "Register", "d0/d77/a26534.html#a2c67e4327fdd034978d4822311632980", null ],
-    [ "Validate", "d0/d77/a26534.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
+    [ "HandleDummyTick", "d0/d77/a26534.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
+    [ "HandleRemove", "d0/d77/a26534.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
+    [ "PrepareAuraScript", "d0/d77/a26534.html#a06e45d5f63ef1395b5949482e8393098", null ],
+    [ "Register", "d0/d77/a26534.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
+    [ "Validate", "d0/d77/a26534.html#a9a2da4d163a96526e14f5de76798a784", null ]
 ];

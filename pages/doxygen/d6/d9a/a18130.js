@@ -1,9 +1,8 @@
 var a18130 =
 [
-    [ "DelayedCastEvent", "d6/d9a/a18130.html#ae6d57612065d56ce79197aedebedf9f9", null ],
-    [ "Execute", "d6/d9a/a18130.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "d6/d9a/a18130.html#acc9e22eb1908e4c458199fc4cccd56c6", null ],
-    [ "_originalCaster", "d6/d9a/a18130.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "d6/d9a/a18130.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "d6/d9a/a18130.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "npc_lk_wicked_spiritAI", "d6/d9a/a18130.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "d6/d9a/a18130.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "d6/d9a/a18130.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "d6/d9a/a18130.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "d6/d9a/a18130.html#a8b15079251b6855679d738a342126006", null ]
 ];

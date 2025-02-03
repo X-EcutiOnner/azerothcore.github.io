@@ -1,6 +1,6 @@
 var a14918 =
 [
-    [ "OnPeriodic", "da/d7c/a14918.html#a5945e24db52c6bacae7221b085dc877b", null ],
-    [ "PrepareAuraScript", "da/d7c/a14918.html#acc987aa864a8333de7bd0b770eb9018d", null ],
-    [ "Register", "da/d7c/a14918.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
+    [ "HandleOnHit", "da/d7c/a14918.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
+    [ "PrepareSpellScript", "da/d7c/a14918.html#a9e568a1608715973fc438ff5e4356714", null ],
+    [ "Register", "da/d7c/a14918.html#a752d697aada626440fdff2bd889f890f", null ]
 ];

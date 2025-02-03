@@ -1,5 +1,6 @@
 var a13670 =
 [
-    [ "at_zulgurub_bridge_speech", "da/df7/a13670.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "da/df7/a13670.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
+    [ "boss_grilekAI", "d4/dfd/a13674.html", "d4/dfd/a13674" ],
+    [ "boss_grilek", "da/df7/a13670.html#acffe0061db18c5725c8c290822c5fed7", null ],
+    [ "GetAI", "da/df7/a13670.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
 ];

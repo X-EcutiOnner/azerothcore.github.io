@@ -1,7 +1,5 @@
 var a20762 =
 [
-    [ "HandleEffectPeriodic", "da/d1b/a20762.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
-    [ "PrepareAuraScript", "da/d1b/a20762.html#a748cd347867557b5048d9ba0c112cd80", null ],
-    [ "Register", "da/d1b/a20762.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
-    [ "Validate", "da/d1b/a20762.html#afa86789ef14b1d06094705ba6cfb9205", null ]
+    [ "npc_salvaged_siege_engine", "da/d1b/a20762.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
+    [ "BeforeSpellClick", "da/d1b/a20762.html#aed2500b2315b5e508ea3d06a2355d023", null ]
 ];

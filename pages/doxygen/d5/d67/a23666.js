@@ -1,6 +1,6 @@
 var a23666 =
 [
-    [ "npc_daranelleAI", "dc/d33/a23670.html", "dc/d33/a23670" ],
-    [ "npc_daranelle", "d5/d67/a23666.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
-    [ "GetAI", "d5/d67/a23666.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
+    [ "npc_deaths_fel_cannonAI", "dc/d33/a23670.html", "dc/d33/a23670" ],
+    [ "npc_deaths_fel_cannon", "d5/d67/a23666.html#a87ecaca75061928600b5114d3913dd26", null ],
+    [ "GetAI", "d5/d67/a23666.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
 ];

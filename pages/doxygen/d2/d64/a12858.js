@@ -1,14 +1,7 @@
 var a12858 =
 [
-    [ "boss_apothecary_hummelAI", "d2/d64/a12858.html#a75796eb8dc83729f2f726ff51317bd66", null ],
-    [ "DamageTaken", "d2/d64/a12858.html#a2af77fbe7f089b5da20d2ff693cfcedf", null ],
-    [ "DoAction", "d2/d64/a12858.html#a03fb543ba20f92d5528bf4667c457631", null ],
-    [ "JustDied", "d2/d64/a12858.html#a3c7bc5f9aa04f155debbdacafed6163d", null ],
-    [ "Reset", "d2/d64/a12858.html#a31381343d2533af670941baf872b3635", null ],
-    [ "sGossipSelect", "d2/d64/a12858.html#a1a9953c37286fd40c0aa0eebfec3eb86", null ],
-    [ "SummonedCreatureDies", "d2/d64/a12858.html#a8947cbd1c2856334a0d6529bc664f71b", null ],
-    [ "UpdateAI", "d2/d64/a12858.html#a61e4d85ecd592142ba07588512505990", null ],
-    [ "_deadCount", "d2/d64/a12858.html#aaac2018e16b80997f884745732605559", null ],
-    [ "_isDead", "d2/d64/a12858.html#aa3c37a38b95c6b3bec4e3b787d2155df", null ],
-    [ "_phase", "d2/d64/a12858.html#a951d68d4e645860cdb5c5e348bf1fff4", null ]
+    [ "HandleEffectApply", "d2/d64/a12858.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "d2/d64/a12858.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "d2/d64/a12858.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "d2/d64/a12858.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

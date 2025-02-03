@@ -1,8 +1,8 @@
 var a17318 =
 [
-    [ "HandlePeriodic", "dc/d7c/a17318.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "dc/d7c/a17318.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "dc/d7c/a17318.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "dc/d7c/a17318.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "dc/d7c/a17318.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "npc_gunship_mageAI", "dc/d7c/a17318.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
+    [ "AttackStart", "dc/d7c/a17318.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
+    [ "CanAIAttack", "dc/d7c/a17318.html#aadcb217a9df96bee02287d75a23e32c2", null ],
+    [ "MovementInform", "dc/d7c/a17318.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
+    [ "UpdateAI", "dc/d7c/a17318.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
 ];

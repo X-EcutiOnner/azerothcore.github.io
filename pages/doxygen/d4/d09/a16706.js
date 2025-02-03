@@ -1,7 +1,6 @@
 var a16706 =
 [
-    [ "HandlePeriodicTick", "d4/d09/a16706.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
-    [ "PrepareAuraScript", "d4/d09/a16706.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
-    [ "Register", "d4/d09/a16706.html#a4653ccb0d93d056adf3b14056865787c", null ],
-    [ "Validate", "d4/d09/a16706.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
+    [ "boss_ickAI", "d1/dbe/a16710.html", "d1/dbe/a16710" ],
+    [ "boss_ick", "d4/d09/a16706.html#af97d7f96bc48ba245e28c18614b9369e", null ],
+    [ "GetAI", "d4/d09/a16706.html#a355285766712a31b704c23fe85d19e5f", null ]
 ];

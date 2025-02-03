@@ -1,6 +1,6 @@
 var a13142 =
 [
-    [ "npc_singularity", "de/da3/a13142.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
-    [ "Reset", "de/da3/a13142.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
-    [ "UpdateAI", "de/da3/a13142.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
+    [ "HandlePeriodic", "de/da3/a13142.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
+    [ "PrepareAuraScript", "de/da3/a13142.html#a2722b97e12e9371745d7f38504d9efdf", null ],
+    [ "Register", "de/da3/a13142.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
 ];

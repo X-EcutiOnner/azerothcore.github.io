@@ -1,7 +1,6 @@
 var a19926 =
 [
-    [ "HandleEffectPeriodic", "d0/d03/a19926.html#a428d1251465cc9947e7474eab83494e3", null ],
-    [ "PrepareAuraScript", "d0/d03/a19926.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
-    [ "Register", "d0/d03/a19926.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
-    [ "Validate", "d0/d03/a19926.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
+    [ "npc_ulduar_hodir_shamanAI", "db/da7/a19930.html", "db/da7/a19930" ],
+    [ "npc_ulduar_hodir_shaman", "d0/d03/a19926.html#ae73a416c72441ab531d8a5db88183d47", null ],
+    [ "GetAI", "d0/d03/a19926.html#ab06a67b72a3954c65792a478ac90672c", null ]
 ];

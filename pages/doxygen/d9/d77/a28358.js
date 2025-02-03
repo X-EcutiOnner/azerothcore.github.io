@@ -1,8 +1,9 @@
 var a28358 =
 [
-    [ "TileConfig", "d9/d77/a28358.html#a67b10c747fb0d2bc2a263e5009d42e1b", null ],
-    [ "BASE_UNIT_DIM", "d9/d77/a28358.html#a5a882b0595456ab3fcca85c80af3b6f8", null ],
-    [ "TILES_PER_MAP", "d9/d77/a28358.html#ae3443f89a8a698823c91096abe51a6a9", null ],
-    [ "VERTEX_PER_MAP", "d9/d77/a28358.html#a46640a80428b1ab93d65d593c03d13ed", null ],
-    [ "VERTEX_PER_TILE", "d9/d77/a28358.html#ae0331739074e5546818e13527a76524a", null ]
+    [ "adtData", "d1/df9/a28366.html", "d1/df9/a28366" ],
+    [ "prepareLoadedData", "d9/d77/a28358.html#a6b755c9e341918d05105d993391429c6", null ],
+    [ "adt_list", "d9/d77/a28358.html#abe28c39e8856412c4fb182baab3218f0", null ],
+    [ "fcc", "d9/d77/a28358.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
+    [ "fcc_txt", "d9/d77/a28358.html#a0657c323732de8d83b9c360c1dd03b61", null ],
+    [ "size", "d9/d77/a28358.html#a797c02773dd470a318474c7ef033ba7c", null ]
 ];

@@ -1,6 +1,7 @@
 var a17210 =
 [
-    [ "Cooldown", "d5/d92/a17210.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
-    [ "Entry", "d5/d92/a17210.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
-    [ "TargetPosition", "d5/d92/a17210.html#ac47af49622012b4ad40357cadc5214b3", null ]
+    [ "ExtraEffect", "d5/d92/a17210.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "d5/d92/a17210.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "d5/d92/a17210.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "d5/d92/a17210.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

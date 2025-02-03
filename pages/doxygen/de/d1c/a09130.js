@@ -1,9 +1,7 @@
 var a09130 =
 [
-    [ "AnyGroupedUnitInObjectRangeCheck", "de/d1c/a09130.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
-    [ "operator()", "de/d1c/a09130.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
-    [ "_raid", "de/d1c/a09130.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
-    [ "_range", "de/d1c/a09130.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
-    [ "_refUnit", "de/d1c/a09130.html#ad083243ef5487aa374b19e3c82b0457c", null ],
-    [ "_source", "de/d1c/a09130.html#a91de967d2376ea96b1fc0838094915cf", null ]
+    [ "AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck", "de/d1c/a09130.html#a038f512c564e4ae18571ac1836897edb", null ],
+    [ "operator()", "de/d1c/a09130.html#a3bc09bf6fc4481c67190f57dc4198f6e", null ],
+    [ "i_funit", "de/d1c/a09130.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6", null ],
+    [ "i_range", "de/d1c/a09130.html#a953943e53e25b6887bfab8cc1c19620a", null ]
 ];

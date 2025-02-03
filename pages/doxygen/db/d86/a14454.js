@@ -1,7 +1,8 @@
 var a14454 =
 [
-    [ "npc_cos_chromie_middle", "db/d86/a14454.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "db/d86/a14454.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "db/d86/a14454.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "db/d86/a14454.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "npc_arthasAI", "da/db5/a14458.html", "da/db5/a14458" ],
+    [ "npc_arthas", "db/d86/a14454.html#a87c280ff9861187b0a713f795e657266", null ],
+    [ "GetAI", "db/d86/a14454.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
+    [ "OnGossipHello", "db/d86/a14454.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
+    [ "OnGossipSelect", "db/d86/a14454.html#aeca2f4baa3c943281c676c6498393165", null ]
 ];

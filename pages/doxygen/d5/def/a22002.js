@@ -1,9 +1,8 @@
 var a22002 =
 [
-    [ "HandlePeriodic", "d5/def/a22002.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
-    [ "Load", "d5/def/a22002.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
-    [ "PrepareAuraScript", "d5/def/a22002.html#a1057e5262d413149a023bc904a3c3751", null ],
-    [ "Register", "d5/def/a22002.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
-    [ "Validate", "d5/def/a22002.html#a85d7ac258d50f690574ad7656256cd05", null ],
-    [ "_counter", "d5/def/a22002.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
+    [ "npc_freed_protodrakeAI", "d5/def/a22002.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "d5/def/a22002.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "d5/def/a22002.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "d5/def/a22002.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "d5/def/a22002.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

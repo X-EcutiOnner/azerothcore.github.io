@@ -1,4 +1,4 @@
 var a10738 =
 [
-    [ "ServerOpcodeHandler", "d5/dfd/a04680.html#ga15d54f5e037e138c90bd0c9bf9628ac9", null ]
+    [ "type", "d0/d24/a10738.html#aa3307afff20191a467f7e948d9fd00ed", null ]
 ];

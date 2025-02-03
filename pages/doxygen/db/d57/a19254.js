@@ -1,7 +1,12 @@
 var a19254 =
 [
-    [ "HandleScript", "db/d57/a19254.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "db/d57/a19254.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "db/d57/a19254.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "db/d57/a19254.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "npc_hol_monumentAI", "db/d57/a19254.html#a4a59b95e32acf8920082e4159b7e384c", null ],
+    [ "AttackStart", "db/d57/a19254.html#a6db6528cf3d53bc6de9caf55fb18a28b", null ],
+    [ "JustEngagedWith", "db/d57/a19254.html#a105f8e66ba3cf752af455c787df7568e", null ],
+    [ "MoveInLineOfSight", "db/d57/a19254.html#ab37c5c22456c06f78b53505ae7973658", null ],
+    [ "Reset", "db/d57/a19254.html#a03dd56d6801194333288a2edc7ae4eaa", null ],
+    [ "UpdateAI", "db/d57/a19254.html#a7c911cf24b21c959ee5c62d664e1879a", null ],
+    [ "_attackGUID", "db/d57/a19254.html#a0421f258f2cd871ad1f87decf5e23bc8", null ],
+    [ "_isActive", "db/d57/a19254.html#a0993cfde30a492ae8dfeeda2e01a1124", null ],
+    [ "events", "db/d57/a19254.html#aeff0f7526f12f0e09e53c0e43a423799", null ]
 ];

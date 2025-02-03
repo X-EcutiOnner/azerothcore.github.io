@@ -1,5 +1,8 @@
 var a08690 =
 [
-    [ "NextPage", "df/d36/a08690.html#a5ea0eba89ecb21a09b184efd5dc57dc0", null ],
-    [ "Text", "df/d36/a08690.html#a9c13498341adce66590cb198b720f96f", null ]
+    [ "entry", "df/d36/a08690.html#a924aaeec6de12ef02b5d2f9801571a1f", null ],
+    [ "ExtendedCost", "df/d36/a08690.html#ac826dc078ef456ed93bf23175bce243d", null ],
+    [ "incrtime", "df/d36/a08690.html#ab86bdb08475c1c2b75755fffcb6b8275", null ],
+    [ "item", "df/d36/a08690.html#a8f2e01fb177f33afeef9e37ffd456ff2", null ],
+    [ "maxcount", "df/d36/a08690.html#a48cb32b398e0dc6928a30bb254b05a11", null ]
 ];

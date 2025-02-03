@@ -1,6 +1,6 @@
 var a19814 =
 [
-    [ "npc_ulduar_saronite_animusAI", "db/dd2/a19818.html", "db/dd2/a19818" ],
-    [ "npc_ulduar_saronite_animus", "dc/df5/a19814.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
-    [ "GetAI", "dc/df5/a19814.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
+    [ "achievement_freya_knock_on_wood", "dc/df5/a19814.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "dc/df5/a19814.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "dc/df5/a19814.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

@@ -1,6 +1,6 @@
 var a15886 =
 [
-    [ "HandleScript", "d5/d6d/a15886.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "d5/d6d/a15886.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "d5/d6d/a15886.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "npc_living_infernoAI", "d8/dad/a15890.html", "d8/dad/a15890" ],
+    [ "npc_living_inferno", "d5/d6d/a15886.html#a7df2bb522e67b6f1864604c7b0182078", null ],
+    [ "GetAI", "d5/d6d/a15886.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
 ];

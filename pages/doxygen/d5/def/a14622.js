@@ -1,6 +1,12 @@
 var a14622 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "d2/d67/a14626.html", "d2/d67/a14626" ],
-    [ "instance_razorfen_kraul", "d5/def/a14622.html#aedd65b901c8131a7ac21e8576734f76f", null ],
-    [ "GetInstanceScript", "d5/def/a14622.html#a78e77010ebb055b9530733ca25533110", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d5/def/a14622.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
+    [ "GetData", "d5/def/a14622.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
+    [ "Initialize", "d5/def/a14622.html#aed9ab9542badb0296ca0660c39541cb8", null ],
+    [ "OnGameObjectCreate", "d5/def/a14622.html#a567ac5d9a17514ede5b84c5d78204072", null ],
+    [ "ReadSaveDataMore", "d5/def/a14622.html#a7d6fefed563b0b9763b9c63136c65952", null ],
+    [ "SetData", "d5/def/a14622.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
+    [ "WriteSaveDataMore", "d5/def/a14622.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
+    [ "_firesState", "d5/def/a14622.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
+    [ "_gongPhase", "d5/def/a14622.html#a23485a35f0aa2f2ffad53398882d163a", null ]
 ];

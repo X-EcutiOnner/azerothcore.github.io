@@ -1,10 +1,7 @@
 var a10322 =
 [
-    [ "EnvironmentalDamageLog", "d9/d3c/a10322.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
-    [ "Write", "d9/d3c/a10322.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
-    [ "Absorbed", "d9/d3c/a10322.html#a443df04be3afe2021532716140ffb099", null ],
-    [ "Amount", "d9/d3c/a10322.html#a073e22176d44f5806313c2a4bd3e263a", null ],
-    [ "Resisted", "d9/d3c/a10322.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
-    [ "Type", "d9/d3c/a10322.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
-    [ "Victim", "d9/d3c/a10322.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
+    [ "Emote", "d9/d3c/a10322.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
+    [ "Write", "d9/d3c/a10322.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
+    [ "EmoteID", "d9/d3c/a10322.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
+    [ "Guid", "d9/d3c/a10322.html#ab96a1c0933e90872f54eb0995098274a", null ]
 ];

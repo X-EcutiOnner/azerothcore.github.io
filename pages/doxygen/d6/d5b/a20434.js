@@ -1,7 +1,9 @@
 var a20434 =
 [
-    [ "npc_xt002_life_sparkAI", "d6/d5b/a20434.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
-    [ "Reset", "d6/d5b/a20434.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
-    [ "UpdateAI", "d6/d5b/a20434.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
-    [ "_attackTimer", "d6/d5b/a20434.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
+    [ "npc_xt002_pummellerAI", "d6/d5b/a20434.html#a2942c05c93036c2e02b9a72c784441b1", null ],
+    [ "Reset", "d6/d5b/a20434.html#a6542fb3e585f100f06f6be14a1346306", null ],
+    [ "UpdateAI", "d6/d5b/a20434.html#a959990310303ff2102f1c03852b4ab8e", null ],
+    [ "_arcingSmashTimer", "d6/d5b/a20434.html#a830fda66756dc3f34a530939116e7556", null ],
+    [ "_trampleTimer", "d6/d5b/a20434.html#ae5e450601861f83b20419405bb92ef6d", null ],
+    [ "_uppercutTimer", "d6/d5b/a20434.html#a5a1bdb380438070effc091ec37db6aec", null ]
 ];

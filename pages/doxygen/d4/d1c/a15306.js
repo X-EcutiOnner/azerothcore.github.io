@@ -1,6 +1,6 @@
 var a15306 =
 [
-    [ "npc_stone_watcher_of_norgannon", "d4/d1c/a15306.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
-    [ "OnGossipHello", "d4/d1c/a15306.html#a00f526b1b17b68f31a86e892e0997856", null ],
-    [ "OnGossipSelect", "d4/d1c/a15306.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
+    [ "npc_aquementasAI", "d0/dd3/a15310.html", "d0/dd3/a15310" ],
+    [ "npc_aquementas", "d4/d1c/a15306.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "d4/d1c/a15306.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

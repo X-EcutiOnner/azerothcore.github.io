@@ -1,5 +1,7 @@
 var a19974 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "d9/d2e/a19974.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "d9/d2e/a19974.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "HandleEffectPeriodic", "d9/d2e/a19974.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "d9/d2e/a19974.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "d9/d2e/a19974.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "d9/d2e/a19974.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

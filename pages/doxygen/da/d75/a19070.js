@@ -1,15 +1,6 @@
 var a19070 =
 [
-    [ "boss_eregosAI", "da/d75/a19070.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
-    [ "DamageTaken", "da/d75/a19070.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
-    [ "JustDied", "da/d75/a19070.html#ade16be2804b857fc8e93a62d4be42380", null ],
-    [ "JustEngagedWith", "da/d75/a19070.html#a1544782732beba5d7114c3bb70419ae1", null ],
-    [ "JustSummoned", "da/d75/a19070.html#a33ef5a080e457f4e08e7997b467b0974", null ],
-    [ "KilledUnit", "da/d75/a19070.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
-    [ "MoveInLineOfSight", "da/d75/a19070.html#ac622481abb0190bdc7654b383766a9ed", null ],
-    [ "Reset", "da/d75/a19070.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
-    [ "UpdateAI", "da/d75/a19070.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
-    [ "events", "da/d75/a19070.html#ae6f1f2e3146525596c3dbb646283b744", null ],
-    [ "pInstance", "da/d75/a19070.html#abf0b366d7b0931ccc30711a33736dda8", null ],
-    [ "shiftNumber", "da/d75/a19070.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
+    [ "boss_drakosAI", "d9/dc5/a19074.html", "d9/dc5/a19074" ],
+    [ "boss_drakos", "da/d75/a19070.html#aa70ae2809af4f24eea0b83b42d695448", null ],
+    [ "GetAI", "da/d75/a19070.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
 ];

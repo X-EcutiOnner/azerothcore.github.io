@@ -1,15 +1,11 @@
 var a12474 =
 [
-    [ "boss_tinhead", "d5/d0f/a12474.html#aa56375e9b031db15bee833375b7a4405", null ],
-    [ "DoAction", "d5/d0f/a12474.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
-    [ "EnterEvadeMode", "d5/d0f/a12474.html#ae83464d571103a67980b413325988921", null ],
-    [ "JustDied", "d5/d0f/a12474.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
-    [ "JustEngagedWith", "d5/d0f/a12474.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
-    [ "JustReachedHome", "d5/d0f/a12474.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
-    [ "KilledUnit", "d5/d0f/a12474.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
-    [ "Reset", "d5/d0f/a12474.html#ac22d86f58d59c81429e45fba9393fd37", null ],
-    [ "UpdateAI", "d5/d0f/a12474.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
-    [ "_rustCount", "d5/d0f/a12474.html#a48901503085fd3d4ee5624626a526ce2", null ],
-    [ "_scheduler", "d5/d0f/a12474.html#ababc9f32611a9ea35ef41725bce22df5", null ],
-    [ "instance", "d5/d0f/a12474.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
+    [ "boss_terestian_illhoof", "d5/d0f/a12474.html#a5750bf4f12ac01216335a926f885e136", null ],
+    [ "JustDied", "d5/d0f/a12474.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
+    [ "JustEngagedWith", "d5/d0f/a12474.html#adc1f9195954eda7ec406ac9a084b7508", null ],
+    [ "JustSummoned", "d5/d0f/a12474.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
+    [ "KilledUnit", "d5/d0f/a12474.html#ab7de8b406de200eec981fab79a56dcd7", null ],
+    [ "Reset", "d5/d0f/a12474.html#a685b00f0e3317740412adfc48df1c3fb", null ],
+    [ "SpellHit", "d5/d0f/a12474.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
+    [ "SummonKilrek", "d5/d0f/a12474.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
 ];

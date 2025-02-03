@@ -1,5 +1,6 @@
 var a13666 =
 [
-    [ "at_zulgurub_entrance_speech", "d4/dd2/a13666.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "d4/dd2/a13666.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
+    [ "OnEffect", "d4/dd2/a13666.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
+    [ "PrepareSpellScript", "d4/dd2/a13666.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
+    [ "Register", "d4/dd2/a13666.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
 ];

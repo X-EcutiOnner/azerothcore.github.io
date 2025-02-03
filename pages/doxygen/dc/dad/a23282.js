@@ -1,6 +1,6 @@
 var a23282 =
 [
-    [ "HandleScriptEffect", "dc/dad/a23282.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "dc/dad/a23282.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "dc/dad/a23282.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "CheckProc", "dc/dad/a23282.html#add583b34b9052fbb37c43c558f0f8b96", null ],
+    [ "PrepareAuraScript", "dc/dad/a23282.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
+    [ "Register", "dc/dad/a23282.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
 ];

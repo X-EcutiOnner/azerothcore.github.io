@@ -1,9 +1,6 @@
 var a17370 =
 [
-    [ "CalculateDamage", "de/d5f/a17370.html#a6a9e90d9463825b38b69afc234b35b39", null ],
-    [ "PrepareSpellScript", "de/d5f/a17370.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
-    [ "Register", "de/d5f/a17370.html#a2722814a55469e5bae572766ed36309b", null ],
-    [ "RemoveEnergy", "de/d5f/a17370.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
-    [ "StoreEnergy", "de/d5f/a17370.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
-    [ "_energyLeft", "de/d5f/a17370.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
+    [ "IgbTeleportOnVictoryCheck", "de/d5f/a17370.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "de/d5f/a17370.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "de/d5f/a17370.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

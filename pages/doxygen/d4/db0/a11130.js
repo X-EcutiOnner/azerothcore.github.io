@@ -1,6 +1,7 @@
 var a11130 =
 [
-    [ "EffectSplitHandler", "d4/db0/a11130.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
-    [ "Call", "d4/db0/a11130.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
-    [ "pEffectHandlerScript", "d4/db0/a11130.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
+    [ "EffectApplyHandler", "d4/db0/a11130.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "d4/db0/a11130.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "d4/db0/a11130.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "d4/db0/a11130.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

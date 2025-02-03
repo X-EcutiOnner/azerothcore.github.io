@@ -1,7 +1,6 @@
 var a20010 =
 [
-    [ "HandleScript", "db/dcd/a20010.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "db/dcd/a20010.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "db/dcd/a20010.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "db/dcd/a20010.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "npc_ulduar_iron_constructAI", "d2/d54/a20014.html", "d2/d54/a20014" ],
+    [ "npc_ulduar_iron_construct", "db/dcd/a20010.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
+    [ "GetAI", "db/dcd/a20010.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
 ];

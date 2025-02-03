@@ -1,7 +1,7 @@
 var a14210 =
 [
-    [ "GetVisualThrow", "d7/d49/a14210.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d7/d49/a14210.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d7/d49/a14210.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d7/d49/a14210.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "HandleFinish", "d7/d49/a14210.html#a8927aaa07145b46067d5807c2048330a", null ],
+    [ "PrepareSpellScript", "d7/d49/a14210.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
+    [ "Register", "d7/d49/a14210.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
+    [ "Validate", "d7/d49/a14210.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
 ];

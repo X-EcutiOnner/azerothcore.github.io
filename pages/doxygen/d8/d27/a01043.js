@@ -1,6 +1,6 @@
 var a01043 =
 [
-    [ "SpellEvent", "d2/d74/a10874.html", "d2/d74/a10874" ],
+    [ "SpellEvent", "d2/d3a/a10886.html", "d2/d3a/a10886" ],
     [ "CHECK_DIST", "d8/d27/a01043.html#aa16c8b27baa496c2fdf0afffaf4485a0", null ],
     [ "DEBUG_TRAJ", "d8/d27/a01043.html#ac27bc73435b380df600d6da0b753a144", null ],
     [ "GCDLimits", "d8/d27/a01043.html#aea36520bcbaa2ebe9c062b9c5d9df777", [

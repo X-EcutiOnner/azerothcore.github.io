@@ -1,8 +1,6 @@
 var a19402 =
 [
-    [ "go_celestial_planetarium_accessAI", "dc/d54/a19402.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
-    [ "GossipHello", "dc/d54/a19402.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
-    [ "UpdateAI", "dc/d54/a19402.html#a9b2bfb74a12e3258476387fc78cde574", null ],
-    [ "_locked", "dc/d54/a19402.html#a37f83dbbb05e461d613a4c38001f785c", null ],
-    [ "events", "dc/d54/a19402.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
+    [ "npc_living_constellationAI", "de/d55/a19406.html", "de/d55/a19406" ],
+    [ "npc_living_constellation", "dc/d54/a19402.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
+    [ "GetAI", "dc/d54/a19402.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
 ];

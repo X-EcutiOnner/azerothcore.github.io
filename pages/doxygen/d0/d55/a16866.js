@@ -1,7 +1,6 @@
 var a16866 =
 [
-    [ "HandleDummy", "d0/d55/a16866.html#a367f4ebd296aa0fd54ff9ef6185a1c92", null ],
-    [ "PrepareSpellScript", "d0/d55/a16866.html#ab6e33bf137a54c9cd792aefb0ecd2ef1", null ],
-    [ "Register", "d0/d55/a16866.html#a371073fb37337719115242fc8758026f", null ],
-    [ "Validate", "d0/d55/a16866.html#ad5df08da54defc89a7a552c39de089c3", null ]
+    [ "boss_drakkari_elementalAI", "d6/de1/a16870.html", "d6/de1/a16870" ],
+    [ "boss_drakkari_elemental", "d0/d55/a16866.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "d0/d55/a16866.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

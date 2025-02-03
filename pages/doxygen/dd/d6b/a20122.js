@@ -1,12 +1,6 @@
 var a20122 =
 [
-    [ "npc_ulduar_proximity_mineAI", "dd/d6b/a20122.html#aa3001a71c8a298be688631d618745495", null ],
-    [ "AttackStart", "dd/d6b/a20122.html#afe5572c8fd1f8acc64ca57304d8be254", null ],
-    [ "CanAIAttack", "dd/d6b/a20122.html#a0216f41bf596eb43a9b9eea13152d262", null ],
-    [ "MoveInLineOfSight", "dd/d6b/a20122.html#afe07e3cd341d6a84592ab9b33e02d6d5", null ],
-    [ "SpellHitTarget", "dd/d6b/a20122.html#aaf6c9c8843a61d29326ab6c662b174f9", null ],
-    [ "UpdateAI", "dd/d6b/a20122.html#adadc4c33ff356bd5eed6d82115dc888a", null ],
-    [ "exploded", "dd/d6b/a20122.html#a1706ff0cfd7192040c32f13a37610c43", null ],
-    [ "timer", "dd/d6b/a20122.html#a4c743646055b4c95bf379a751eb5892e", null ],
-    [ "timer2", "dd/d6b/a20122.html#a446b7658fa4c165f43947a05562827b2", null ]
+    [ "npc_ulduar_vx001AI", "d5/df7/a20126.html", "d5/df7/a20126" ],
+    [ "npc_ulduar_vx001", "dd/d6b/a20122.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
+    [ "GetAI", "dd/d6b/a20122.html#acdab817141b851deb09861230323ee58", null ]
 ];

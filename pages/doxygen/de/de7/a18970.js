@@ -1,5 +1,12 @@
 var a18970 =
 [
-    [ "go_the_focusing_iris", "de/de7/a18970.html#a9c2fa1e739ff98ebdd9b9fdcc2ab5ece", null ],
-    [ "OnGossipHello", "de/de7/a18970.html#a7f3f1170713d63f912ca5732453a7e33", null ]
+    [ "npc_hover_diskAI", "de/de7/a18970.html#a1ee618b8e6393437f0e4193fc57725f3", null ],
+    [ "AttackStart", "de/de7/a18970.html#aec7920845132af74ecf83bbbcf221f06", null ],
+    [ "DoAction", "de/de7/a18970.html#a802681ba91854eec0a5d9ac1c2df761c", null ],
+    [ "MoveInLineOfSight", "de/de7/a18970.html#a770bbfc63a3aef7801b6ba9a542c459c", null ],
+    [ "MovementInform", "de/de7/a18970.html#a97c5039553d267fc3d955cb6e5eafb47", null ],
+    [ "PassengerBoarded", "de/de7/a18970.html#a130a40916bb42945531b02d2f3385ece", null ],
+    [ "UpdateAI", "de/de7/a18970.html#a5213e9b9a750e53b83621cd981741773", null ],
+    [ "events", "de/de7/a18970.html#adeed5599c5416f3a5d171f70b53d0023", null ],
+    [ "pInstance", "de/de7/a18970.html#a5141cd8297bf3dc67ce9195867a4152c", null ]
 ];

@@ -1,6 +1,6 @@
 var a20858 =
 [
-    [ "boss_svalaAI", "dd/d3f/a20862.html", "dd/d3f/a20862" ],
-    [ "boss_svala", "df/d98/a20858.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
-    [ "GetAI", "df/d98/a20858.html#a0c3b94635eca667a28496cf799efad25", null ]
+    [ "boss_skadiAI", "dd/d3f/a20862.html", "dd/d3f/a20862" ],
+    [ "boss_skadi", "df/d98/a20858.html#a124c1c1de7ba232b3256a65547370464", null ],
+    [ "GetAI", "df/d98/a20858.html#a4b66199169442af5ec6542be71c19033", null ]
 ];

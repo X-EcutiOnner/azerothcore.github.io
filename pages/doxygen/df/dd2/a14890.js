@@ -1,5 +1,8 @@
 var a14890 =
 [
-    [ "npc_toxic_slime", "df/dd2/a14890.html#a4c3a03916280342ec9aec07049de161f", null ],
-    [ "InitializeAI", "df/dd2/a14890.html#ae69f228040aaa5bc4df40a652f551992", null ]
+    [ "boss_veklor", "df/dd2/a14890.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "df/dd2/a14890.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "df/dd2/a14890.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "df/dd2/a14890.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "df/dd2/a14890.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

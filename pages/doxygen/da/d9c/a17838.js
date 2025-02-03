@@ -1,6 +1,5 @@
 var a17838 =
 [
-    [ "HandleScript", "da/d9c/a17838.html#a038a827f7fe179ff56ab581efdf08790", null ],
-    [ "PrepareSpellScript", "da/d9c/a17838.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
-    [ "Register", "da/d9c/a17838.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
+    [ "at_sindragosa_lair", "da/d9c/a17838.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
+    [ "OnTrigger", "da/d9c/a17838.html#a07074bff20272042ed05be83dd818ee9", null ]
 ];

@@ -1,6 +1,6 @@
 var a12022 =
 [
-    [ "boss_flamegorAI", "d9/df9/a12022.html#a4b3d46c3faa566095b0cedad3df9f057", null ],
-    [ "JustEngagedWith", "d9/df9/a12022.html#a6005dca71e2f20ee599e053e531377d6", null ],
-    [ "UpdateAI", "d9/df9/a12022.html#a2e5146815e533cf62e0084a54aa222d5", null ]
+    [ "boss_ebonrocAI", "d8/d02/a12026.html", "d8/d02/a12026" ],
+    [ "boss_ebonroc", "d9/df9/a12022.html#a3f71b5a687ab10a228e560429b8a4709", null ],
+    [ "GetAI", "d9/df9/a12022.html#acf2dc7391e1f642dff3c7f56024aaea5", null ]
 ];

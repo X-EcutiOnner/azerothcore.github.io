@@ -1,7 +1,6 @@
 var a23094 =
 [
-    [ "npc_underbog_mushroom", "db/ddf/a23094.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "db/ddf/a23094.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "db/ddf/a23094.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "db/ddf/a23094.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "instance_steam_vault_InstanceMapScript", "dd/d93/a23098.html", "dd/d93/a23098" ],
+    [ "instance_steam_vault", "db/ddf/a23094.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "db/ddf/a23094.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

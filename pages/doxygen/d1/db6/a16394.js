@@ -1,6 +1,5 @@
 var a16394 =
 [
-    [ "HandleScript", "d1/db6/a16394.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "d1/db6/a16394.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "d1/db6/a16394.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "achievement_oh_novos", "d1/db6/a16394.html#a31ca1f458c384401af107cb8f709ef61", null ],
+    [ "OnCheck", "d1/db6/a16394.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
 ];

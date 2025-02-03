@@ -1,5 +1,5 @@
 var a27106 =
 [
-    [ "item_generic_limit_chance_above_60", "d1/ddb/a27106.html#abc18809810f0a7668020d01c482be84b", null ],
-    [ "OnCastItemCombatSpell", "d1/ddb/a27106.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
+    [ "item_incendiary_explosives", "d1/ddb/a27106.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "d1/ddb/a27106.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

@@ -1,9 +1,6 @@
 var a15670 =
 [
-    [ "boss_sartharion_vesperonAI", "d0/de6/a15670.html#afd67bf2c7a479771976673b05b0fc29e", null ],
-    [ "ClearInstance", "d0/de6/a15670.html#aad9556374e26cbea7641461510fef9ba", null ],
-    [ "ExecuteEvent", "d0/de6/a15670.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09", null ],
-    [ "HandleExtraEvent", "d0/de6/a15670.html#ab2080a14c105aeb6a9c155cf6f4ec17d", null ],
-    [ "Reset", "d0/de6/a15670.html#aacf26c52f77ef4eb084814934f00aab1", null ],
-    [ "SummonedCreatureDies", "d0/de6/a15670.html#a1e6fc9b1c734e73e5e27f6a17cf65d0b", null ]
+    [ "boss_sartharion_tenebronAI", "d2/d2f/a15674.html", "d2/d2f/a15674" ],
+    [ "boss_sartharion_tenebron", "d0/de6/a15670.html#ada445771d2d3d01fb586f15d62e21755", null ],
+    [ "GetAI", "d0/de6/a15670.html#a2eb4555506167a4aee7b844e305d7107", null ]
 ];

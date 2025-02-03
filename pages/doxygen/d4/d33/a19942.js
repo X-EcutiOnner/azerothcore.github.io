@@ -1,6 +1,6 @@
 var a19942 =
 [
-    [ "FilterTargets", "d4/d33/a19942.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "d4/d33/a19942.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "d4/d33/a19942.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "DestroyWinterCache", "d4/d33/a19942.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "d4/d33/a19942.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "d4/d33/a19942.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

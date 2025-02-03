@@ -1,12 +1,6 @@
 var a16586 =
 [
-    [ "npc_tortured_riflemanAI", "d5/dfa/a16586.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
-    [ "AttackStart", "d5/dfa/a16586.html#aaf2b73d0b60791f887207842580d91dc", null ],
-    [ "DoAction", "d5/dfa/a16586.html#acb941c20d911a567c93bb0f92105fdfd", null ],
-    [ "EnterEvadeMode", "d5/dfa/a16586.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
-    [ "JustDied", "d5/dfa/a16586.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
-    [ "JustEngagedWith", "d5/dfa/a16586.html#ac5d8f17c48269da06c14643e82c88567", null ],
-    [ "Reset", "d5/dfa/a16586.html#a04f9c7056e063d436df66f079127d1a7", null ],
-    [ "UpdateAI", "d5/dfa/a16586.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
-    [ "events", "d5/dfa/a16586.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
+    [ "npc_shadowy_mercenaryAI", "d8/d48/a16590.html", "d8/d48/a16590" ],
+    [ "npc_shadowy_mercenary", "d5/dfa/a16586.html#a3ace4bb80f6771c586caa7f2dedf2b93", null ],
+    [ "GetAI", "d5/dfa/a16586.html#ada4b63bf708b3d19ce6d3a2b36c96672", null ]
 ];

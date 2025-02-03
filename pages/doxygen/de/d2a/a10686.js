@@ -1,6 +1,6 @@
 var a10686 =
 [
-    [ "PetUnlearnedSpell", "de/d2a/a10686.html#aa2b125a271228aee0d942a207de170b7", null ],
-    [ "Write", "de/d2a/a10686.html#a11cf7780eba530026a0898bfafd27109", null ],
-    [ "SpellID", "de/d2a/a10686.html#adfca5feb5be2408e489edc44e9cd215b", null ]
+    [ "PetStopAttack", "de/d2a/a10686.html#a4a68127f3290d4f2e288600757dd3282", null ],
+    [ "Read", "de/d2a/a10686.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
+    [ "PetGUID", "de/d2a/a10686.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
 ];

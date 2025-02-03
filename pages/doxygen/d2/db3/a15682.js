@@ -1,10 +1,8 @@
 var a15682 =
 [
-    [ "HandleDummy", "d2/db3/a15682.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
-    [ "HandleSchoolDamage", "d2/db3/a15682.html#a8372b7d176c94689b1b7fe99add7812e", null ],
-    [ "Load", "d2/db3/a15682.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
-    [ "PrepareSpellScript", "d2/db3/a15682.html#a3fd71e2a93f99f19443640a2147b1663", null ],
-    [ "Register", "d2/db3/a15682.html#a8278d362a4354ccf81665ce0067c9a06", null ],
-    [ "Validate", "d2/db3/a15682.html#a414b1e1396910b87a671305ce9dcab09", null ],
-    [ "_spawned", "d2/db3/a15682.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
+    [ "boss_sartharion_shadronAI", "d2/db3/a15682.html#a02e2e657ac74ab37a4568589511de664", null ],
+    [ "ExecuteEvent", "d2/db3/a15682.html#a6a26f1f777988be6eaf8b1a675bbbabb", null ],
+    [ "HandleExtraEvent", "d2/db3/a15682.html#a3db5e816f6253f9c4251690bfbbe1912", null ],
+    [ "Reset", "d2/db3/a15682.html#a7054cde1de2166c2b06489187115cb3f", null ],
+    [ "SummonedCreatureDies", "d2/db3/a15682.html#a8b70b3b7287108ad13caeb85a83cf26f", null ]
 ];

@@ -1,7 +1,6 @@
 var a11966 =
 [
-    [ "go_suppression_deviceAI", "db/d54/a11970.html", "db/d54/a11970" ],
-    [ "go_suppression_device", "d6/d4f/a11966.html#a900713d6b029015f8868a96e5e1b9018", null ],
-    [ "GetAI", "d6/d4f/a11966.html#aa51bb6f9616022c1f4e1e711ca1130e8", null ],
-    [ "OnLootStateChanged", "d6/d4f/a11966.html#a684546c3ce0c0785d52a87eb011ef313", null ]
+    [ "OnEffect", "d6/d4f/a11966.html#a1b5999f392cec9fea4431c3f746ee034", null ],
+    [ "PrepareSpellScript", "d6/d4f/a11966.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
+    [ "Register", "d6/d4f/a11966.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
 ];

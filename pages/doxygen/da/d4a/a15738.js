@@ -1,5 +1,6 @@
 var a15738 =
 [
-    [ "at_baltharus_plateau", "da/d4a/a15738.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "da/d4a/a15738.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d2/dd6/a15742.html", "d2/dd6/a15742" ],
+    [ "npc_baltharus_the_warborn_clone", "da/d4a/a15738.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
+    [ "GetAI", "da/d4a/a15738.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
 ];

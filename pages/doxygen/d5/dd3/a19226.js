@@ -1,10 +1,16 @@
 var a19226 =
 [
-    [ "npc_molten_golemAI", "d5/dd3/a19226.html#a5172d70649be5030fd91e1adbcad4f06", null ],
-    [ "DamageTaken", "d5/dd3/a19226.html#a0dd2ca5b83f5d75c51dfa358544c018a", null ],
-    [ "DoAction", "d5/dd3/a19226.html#ada2e9c39ce16f00b47df2f52971d99b1", null ],
-    [ "Reset", "d5/dd3/a19226.html#a9f90e791c77377c02c66e5d809c555cc", null ],
-    [ "UpdateAI", "d5/dd3/a19226.html#ade3cfd0deb27508f5f084b1b49caf13f", null ],
-    [ "events", "d5/dd3/a19226.html#ad97142df8344df59eddfb92471d1a737", null ],
-    [ "m_pInstance", "d5/dd3/a19226.html#ad1a300c13e98965b935c1e3fc26b9606", null ]
+    [ "boss_lokenAI", "d5/dd3/a19226.html#abdadd98c337f97f6a1daf1657f2f3ab2", null ],
+    [ "JustDied", "d5/dd3/a19226.html#a2ab2adb8c9fb2048e2c3c341d8c2ff37", null ],
+    [ "JustEngagedWith", "d5/dd3/a19226.html#afd9634d8665b946991ccd777072cf70a", null ],
+    [ "KilledUnit", "d5/dd3/a19226.html#af6f6ebfffa9e2719c3a18bd53d704018", null ],
+    [ "LokenSpeach", "d5/dd3/a19226.html#a853a371812a856f39137c665fcc09b86", null ],
+    [ "MoveInLineOfSight", "d5/dd3/a19226.html#a0855580a471661925fdf272dedb418fd", null ],
+    [ "Reset", "d5/dd3/a19226.html#a51c7ca1ce5a0b4837d2fbc033c06a864", null ],
+    [ "UpdateAI", "d5/dd3/a19226.html#acc5b453efca847a6cada43606b8a08ed", null ],
+    [ "events", "d5/dd3/a19226.html#ac3b98aeba2741ee49d262b33d30f8b2a", null ],
+    [ "HealthCheck", "d5/dd3/a19226.html#ad9f9e369ce64bab66f29899659440b62", null ],
+    [ "IntroTimer", "d5/dd3/a19226.html#ae92b9ff0abd8580baf7a2fca56e0df23", null ],
+    [ "isActive", "d5/dd3/a19226.html#a8f20ce4cddf7eae09ddc659b9bf75919", null ],
+    [ "m_pInstance", "d5/dd3/a19226.html#aba89a46dae1d4d195c8be10d89fb72ab", null ]
 ];

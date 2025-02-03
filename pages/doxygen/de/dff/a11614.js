@@ -1,6 +1,5 @@
 var a11614 =
 [
-    [ "npc_grimstoneAI", "d1/dfd/a11618.html", "d1/dfd/a11618" ],
-    [ "npc_grimstone", "de/dff/a11614.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb", null ],
-    [ "GetAI", "de/dff/a11614.html#a24cf0aa69ac28c13ac3c44e14c35406c", null ]
+    [ "go_shadowforge_brazier", "de/dff/a11614.html#aafc1d2e865294bb102c918d6016aab4b", null ],
+    [ "OnGossipHello", "de/dff/a11614.html#a83b188cd2ee68e1ebfe75060465f8f38", null ]
 ];

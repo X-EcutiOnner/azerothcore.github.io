@@ -1,7 +1,7 @@
 var a12874 =
 [
-    [ "HandleAfterCast", "d2/d6c/a12874.html#afa662fbe1b777047259ac6212961f7a5", null ],
-    [ "HandleScript", "d2/d6c/a12874.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
-    [ "PrepareSpellScript", "d2/d6c/a12874.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
-    [ "Register", "d2/d6c/a12874.html#a4a898b0b096583af33f1f691a252b2ed", null ]
+    [ "boss_apothecary_hummelAI", "d9/db6/a12878.html", "d9/db6/a12878" ],
+    [ "boss_apothecary_hummel", "d2/d6c/a12874.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
+    [ "GetAI", "d2/d6c/a12874.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
+    [ "OnQuestReward", "d2/d6c/a12874.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
 ];

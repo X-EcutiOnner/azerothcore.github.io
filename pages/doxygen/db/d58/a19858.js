@@ -1,6 +1,7 @@
 var a19858 =
 [
-    [ "boss_hodirAI", "d7/d8f/a19862.html", "d7/d8f/a19862" ],
-    [ "boss_hodir", "db/d58/a19858.html#a5740f489f57380d2633a8ee5a18de339", null ],
-    [ "GetAI", "db/d58/a19858.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c", null ]
+    [ "HandleAfterHit", "db/d58/a19858.html#a75953cbb3a288fd373e602ed07d84441", null ],
+    [ "PrepareSpellScript", "db/d58/a19858.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
+    [ "Register", "db/d58/a19858.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
+    [ "Validate", "db/d58/a19858.html#aea2b951dd2353800958f654df58d8fd8", null ]
 ];

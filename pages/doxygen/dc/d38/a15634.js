@@ -1,7 +1,15 @@
 var a15634 =
 [
-    [ "OnRemove", "dc/d38/a15634.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "dc/d38/a15634.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "dc/d38/a15634.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "dc/d38/a15634.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "boss_krik_thirAI", "dc/d38/a15634.html#a92a2b2089c890901cd438c8d8ea432c7", null ],
+    [ "GetData", "dc/d38/a15634.html#adcca5f21a596ffae3c50f102c4698c4e", null ],
+    [ "JustDied", "dc/d38/a15634.html#ab4a576f9746f7ade8f6b8f8c08795433", null ],
+    [ "JustEngagedWith", "dc/d38/a15634.html#aa99c241641fc7e94412d08bebed07475", null ],
+    [ "JustSummoned", "dc/d38/a15634.html#afff556f4bc00b87b3d2a37ffbf54c919", null ],
+    [ "KilledUnit", "dc/d38/a15634.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d", null ],
+    [ "MoveInLineOfSight", "dc/d38/a15634.html#a6c72cebac0e09f66bf0a60cdc328aa4d", null ],
+    [ "Reset", "dc/d38/a15634.html#a613441fcb7bd851a03729be84d27650c", null ],
+    [ "SummonedCreatureDies", "dc/d38/a15634.html#acb7b45fbe3a736ad65b0a2556ead40ae", null ],
+    [ "UpdateAI", "dc/d38/a15634.html#ae37227df78ad9ffb9722caa0c16ffa5f", null ],
+    [ "_initTalk", "dc/d38/a15634.html#a68a4994c750979b91e46160b0cba77b4", null ],
+    [ "events2", "dc/d38/a15634.html#a8f706239d33861105a37476eecb977ec", null ]
 ];

@@ -1,5 +1,6 @@
 var a24058 =
 [
-    [ "npc_pet_dk_risen_allyAI", "d4/d49/a24058.html#ac9f42a8f6d87ab65e78d9a3951102705", null ],
-    [ "OnCharmed", "d4/d49/a24058.html#ada01d7ab11b7bf240cad932c96978a06", null ]
+    [ "npc_pet_dk_ebon_gargoyleAI", "d1/d78/a24062.html", "d1/d78/a24062" ],
+    [ "npc_pet_dk_ebon_gargoyle", "d4/d49/a24058.html#ae4dcaff120a52c20a8b73d97a08604d7", null ],
+    [ "GetAI", "d4/d49/a24058.html#a19ff9fd627aab738c91ce23cf6acfffd", null ]
 ];

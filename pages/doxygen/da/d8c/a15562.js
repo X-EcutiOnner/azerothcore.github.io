@@ -1,6 +1,7 @@
 var a15562 =
 [
-    [ "boss_anub_arakAI", "da/d05/a15566.html", "da/d05/a15566" ],
-    [ "boss_anub_arak", "da/d8c/a15562.html#ac2594f561b07069a312ed38c01d9c7da", null ],
-    [ "GetAI", "da/d8c/a15562.html#a8687594354d514b99e026797ee71c70d", null ]
+    [ "HandleScript", "da/d8c/a15562.html#ae9939f2795b8ba428277c7d658af715c", null ],
+    [ "PrepareSpellScript", "da/d8c/a15562.html#aabe244008103ff317e3fc1e26b04115a", null ],
+    [ "Register", "da/d8c/a15562.html#a4f492bdd96ef190354f37c95217bb696", null ],
+    [ "Validate", "da/d8c/a15562.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
 ];

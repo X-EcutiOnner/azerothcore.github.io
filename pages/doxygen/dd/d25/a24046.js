@@ -1,6 +1,10 @@
 var a24046 =
 [
-    [ "npc_pet_dk_ghoulAI", "d1/d98/a24050.html", "d1/d98/a24050" ],
-    [ "npc_pet_dk_ghoul", "dd/d25/a24046.html#ac8af6ae753151a08e80d434a04ef58db", null ],
-    [ "GetAI", "dd/d25/a24046.html#a74b068bdccf5d9b25b4ef3bff0a193ef", null ]
+    [ "npc_isla_starmaneAI", "dd/d25/a24046.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "dd/d25/a24046.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "dd/d25/a24046.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "dd/d25/a24046.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "dd/d25/a24046.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "dd/d25/a24046.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "events", "dd/d25/a24046.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

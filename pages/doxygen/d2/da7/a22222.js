@@ -1,5 +1,9 @@
 var a22222 =
 [
-    [ "outdoorpvp_na_halaa_creatures", "d2/da7/a22222.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
-    [ "UpdateAI", "d2/da7/a22222.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
+    [ "OPvPCapturePointGH", "d2/da7/a22222.html#a6e46100e50212310af4301c492d5773e", null ],
+    [ "ChangeState", "d2/da7/a22222.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
+    [ "FillInitialWorldStates", "d2/da7/a22222.html#ad1c3ece363da12750c851cf510228a06", null ],
+    [ "HandlePlayerEnter", "d2/da7/a22222.html#afea733c44d129d9a5af78a8337d9e04a", null ],
+    [ "HandlePlayerLeave", "d2/da7/a22222.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
+    [ "SendChangePhase", "d2/da7/a22222.html#aec741b9102829bf77850dc06a49bb8da", null ]
 ];

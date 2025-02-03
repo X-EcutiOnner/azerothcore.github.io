@@ -1,7 +1,11 @@
 var a21658 =
 [
-    [ "HandleDummy", "d4/d6c/a21658.html#abb5726c8afa66a946eefc8767094ea9b", null ],
-    [ "PrepareSpellScript", "d4/d6c/a21658.html#ab5d9f8125c75bbd8fbb2717516d3eddd", null ],
-    [ "Register", "d4/d6c/a21658.html#a38efc59fcbb40469521419723a1dceb3", null ],
-    [ "Validate", "d4/d6c/a21658.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e", null ]
+    [ "npc_lake_frogAI", "d4/d6c/a21658.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
+    [ "ReceiveEmote", "d4/d6c/a21658.html#abd58e65b6829c70818c578ed615a980b", null ],
+    [ "Reset", "d4/d6c/a21658.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
+    [ "sGossipSelect", "d4/d6c/a21658.html#a95906677ff65e004408ae65df3f49b5c", null ],
+    [ "UpdateAI", "d4/d6c/a21658.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
+    [ "_events", "d4/d6c/a21658.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
+    [ "_following", "d4/d6c/a21658.html#a0078f9134a61f0ec2465ce103523e341", null ],
+    [ "_runningScript", "d4/d6c/a21658.html#af76102ba6c9ffd80baa95623b7312980", null ]
 ];

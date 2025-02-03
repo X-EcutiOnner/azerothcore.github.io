@@ -1,4 +1,7 @@
 var a27738 =
 [
-    [ "DisplayRaceID", "d9/d4e/a27738.html#a5f3897281f18061c4508d752b2291552", null ]
+    [ "bit_index", "d9/d4e/a27738.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "d9/d4e/a27738.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "d9/d4e/a27738.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "d9/d4e/a27738.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

@@ -1,6 +1,7 @@
 var a11746 =
 [
-    [ "boss_okthorAI", "d7/d7c/a11750.html", "d7/d7c/a11750" ],
-    [ "boss_okthor", "dd/d9e/a11746.html#a9e75c1da85a6db6692dfabfbb3ee3e87", null ],
-    [ "GetAI", "dd/d9e/a11746.html#a15d13a6c879ae260c0676fd4a4aff645", null ]
+    [ "boss_magmusAI", "dd/d9e/a11746.html#a8a3e5361bda492007013af9228899b8f", null ],
+    [ "JustEngagedWith", "dd/d9e/a11746.html#a11e4868628564078997694373315a9d6", null ],
+    [ "Reset", "dd/d9e/a11746.html#a5fe304cec86831b7e64f83caee1392d0", null ],
+    [ "UpdateAI", "dd/d9e/a11746.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
 ];

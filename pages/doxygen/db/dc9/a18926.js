@@ -1,10 +1,6 @@
 var a18926 =
 [
-    [ "npc_power_sparkAI", "db/dc9/a18926.html#a3f0fd553d859c5709ed2dbd9051db3d3", null ],
-    [ "DamageTaken", "db/dc9/a18926.html#aebd86516e17e77711d3877a11a159105", null ],
-    [ "DoAction", "db/dc9/a18926.html#a54b4578be614da76cc886dedbe3d853e", null ],
-    [ "UpdateAI", "db/dc9/a18926.html#a7e9b2a161fc88d269e631d47c38bfd5e", null ],
-    [ "CheckTimer", "db/dc9/a18926.html#af98dff7dd45c258d45ce81b8520e56a8", null ],
-    [ "MoveTimer", "db/dc9/a18926.html#af16a57b82fb94eb464c51b6006f2a66b", null ],
-    [ "pInstance", "db/dc9/a18926.html#a4142b3872dd17015eeabb2eaee0c3369", null ]
+    [ "boss_malygosAI", "d4/d54/a18930.html", "d4/d54/a18930" ],
+    [ "boss_malygos", "db/dc9/a18926.html#aeac3c63d4ccd2947a6f7e4c007dc6aa1", null ],
+    [ "GetAI", "db/dc9/a18926.html#a9e1d821311fa8b92318a99ea79ddb1e3", null ]
 ];

@@ -1,6 +1,8 @@
 var a21610 =
 [
-    [ "npc_amberpine_woodsmanAI", "df/d50/a21614.html", "df/d50/a21614" ],
-    [ "npc_amberpine_woodsman", "d3/df0/a21610.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
-    [ "GetAI", "d3/df0/a21610.html#a9c1df6c01c163ca68712d72b14c46139", null ]
+    [ "npc_ravenous_worgAI", "d3/df0/a21610.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d3/df0/a21610.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d3/df0/a21610.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d3/df0/a21610.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d3/df0/a21610.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

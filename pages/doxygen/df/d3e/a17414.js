@@ -1,6 +1,7 @@
 var a17414 =
 [
-    [ "DaranavanMoveEvent", "df/d3e/a17414.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
-    [ "Execute", "df/d3e/a17414.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
-    [ "_darnavan", "df/d3e/a17414.html#a7585edb957755efbc6064f232d50ea4e", null ]
+    [ "DamageGunship", "df/d3e/a17414.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "df/d3e/a17414.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "df/d3e/a17414.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "df/d3e/a17414.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

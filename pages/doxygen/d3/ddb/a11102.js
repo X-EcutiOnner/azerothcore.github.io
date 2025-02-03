@@ -1,6 +1,6 @@
 var a11102 =
 [
-    [ "EffectUpdatePeriodicHandler", "d3/ddb/a11102.html#a6b18a259aa84c847bcc064c5243eb590", null ],
-    [ "Call", "d3/ddb/a11102.html#a38802863e7859453cbbe58ad91018c67", null ],
-    [ "pEffectHandlerScript", "d3/ddb/a11102.html#a0e51245e089fcd9532d5789056ab944c", null ]
+    [ "AuraDispelHandler", "d3/ddb/a11102.html#ab6e675b4db931c601b3d6aef65ae0ff6", null ],
+    [ "Call", "d3/ddb/a11102.html#a147d8a6d95f011f27600d052ef7b4000", null ],
+    [ "pHandlerScript", "d3/ddb/a11102.html#ab7dd73a36aa517354a023deb7db0cf19", null ]
 ];

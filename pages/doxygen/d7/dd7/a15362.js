@@ -1,7 +1,7 @@
 var a15362 =
 [
-    [ "npc_paoka_swiftmountainAI", "d7/dd7/a15362.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "d7/dd7/a15362.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "d7/dd7/a15362.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "d7/dd7/a15362.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
+    [ "npc_wizzlecrank_shredderAI", "d8/dab/a15366.html", "d8/dab/a15366" ],
+    [ "npc_wizzlecrank_shredder", "d7/dd7/a15362.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "d7/dd7/a15362.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "d7/dd7/a15362.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

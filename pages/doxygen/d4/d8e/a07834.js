@@ -1,9 +1,13 @@
 var a07834 =
 [
-    [ "LFGPlayerScript", "d4/d8e/a07834.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
-    [ "OnBindToInstance", "d4/d8e/a07834.html#a12958084d0e4a4908ee899036a5e0f8e", null ],
-    [ "OnLevelChanged", "d4/d8e/a07834.html#a4ec12e956164a0e71122f1d5ed52afe6", null ],
-    [ "OnLogin", "d4/d8e/a07834.html#aa5568ad54c5834dbdc4ffb54196092e6", null ],
-    [ "OnLogout", "d4/d8e/a07834.html#a56a595f37a27a9872c8f13f2a30fd9a6", null ],
-    [ "OnMapChanged", "d4/d8e/a07834.html#a9311b2e84c4056a2659643ec715aeeb7", null ]
+    [ "LfgQueueData", "d4/d8e/a07834.html#a1d0b74e82f50dc6baaf6b5a79b0af0cd", null ],
+    [ "LfgQueueData", "d4/d8e/a07834.html#a363aa2cc53bce304893335ca93755103", null ],
+    [ "bestCompatible", "d4/d8e/a07834.html#a10fe592a7d0b3fc53701d1946d55f0af", null ],
+    [ "dps", "d4/d8e/a07834.html#ab78711eaf7285a5d4821e52354124646", null ],
+    [ "dungeons", "d4/d8e/a07834.html#a6b115f3a5e0ff996279db044f47f5823", null ],
+    [ "healers", "d4/d8e/a07834.html#a8b2049474102332ddca53f0892565216", null ],
+    [ "joinTime", "d4/d8e/a07834.html#a240fcc11f3fd9d27fa913f80828522f2", null ],
+    [ "lastRefreshTime", "d4/d8e/a07834.html#a727d35760b716270c5f326f343106d0c", null ],
+    [ "roles", "d4/d8e/a07834.html#a20218584ba5c3dbaf9ff7ae520eba9a3", null ],
+    [ "tanks", "d4/d8e/a07834.html#a500f93175d7a25f7c2e0dc0f3943e639", null ]
 ];

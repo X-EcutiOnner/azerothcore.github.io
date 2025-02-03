@@ -1,6 +1,5 @@
 var a15442 =
 [
-    [ "HandleOpenLock", "db/d8e/a15442.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "db/d8e/a15442.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "db/d8e/a15442.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "go_elune_fire", "db/d8e/a15442.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
+    [ "OnGossipHello", "db/d8e/a15442.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
 ];

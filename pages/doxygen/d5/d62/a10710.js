@@ -1,7 +1,9 @@
 var a10710 =
 [
-    [ "UpdateWorldState", "d5/d62/a10710.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
-    [ "Write", "d5/d62/a10710.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
-    [ "Value", "d5/d62/a10710.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
-    [ "VariableID", "d5/d62/a10710.html#aa73278b324822f509f48e6edcdaed457", null ]
+    [ "TotemCreated", "d5/d62/a10710.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "d5/d62/a10710.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "d5/d62/a10710.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "d5/d62/a10710.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "d5/d62/a10710.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "d5/d62/a10710.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

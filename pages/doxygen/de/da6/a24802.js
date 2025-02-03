@@ -1,7 +1,8 @@
 var a24802 =
 [
-    [ "CalculateAmount", "de/da6/a24802.html#a40ba021accd581745f07f2586545853c", null ],
-    [ "Load", "de/da6/a24802.html#aa963b658637360305bb5f3d59eb9d061", null ],
-    [ "PrepareAuraScript", "de/da6/a24802.html#a8fedbff305709145a7c004787ee50402", null ],
-    [ "Register", "de/da6/a24802.html#ade9b6a408a1d5a83bdadd5bd2b0fbb2a", null ]
+    [ "AchievementCredit", "de/da6/a24802.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "de/da6/a24802.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "de/da6/a24802.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "de/da6/a24802.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "de/da6/a24802.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

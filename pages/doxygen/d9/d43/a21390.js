@@ -1,6 +1,6 @@
 var a21390 =
 [
-    [ "npc_dalaran_warriorAI", "d2/d1a/a21394.html", "d2/d1a/a21394" ],
-    [ "npc_dalaran_warrior", "d9/d43/a21390.html#a13d44b85173232ddedcc35184d50549c", null ],
-    [ "GetAI", "d9/d43/a21390.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
+    [ "npc_mageguard_dalaranAI", "d2/d1a/a21394.html", "d2/d1a/a21394" ],
+    [ "npc_mageguard_dalaran", "d9/d43/a21390.html#a0cec4f232b665325c421cecb5839885f", null ],
+    [ "GetAI", "d9/d43/a21390.html#a10cbddceb53a2d432da2224128c59b28", null ]
 ];

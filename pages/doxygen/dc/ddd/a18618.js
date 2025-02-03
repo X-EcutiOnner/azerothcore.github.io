@@ -1,6 +1,9 @@
 var a18618 =
 [
-    [ "boss_isle_of_conquestAI", "d6/d7d/a18622.html", "d6/d7d/a18622" ],
-    [ "boss_isle_of_conquest", "dc/ddd/a18618.html#ad4052d1b6865585d32016e1240449659", null ],
-    [ "GetAI", "dc/ddd/a18618.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
+    [ "npc_isle_of_conquest_turretAI", "dc/ddd/a18618.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
+    [ "JustDied", "dc/ddd/a18618.html#a88390da94298bea9c445bb422a806d23", null ],
+    [ "SpellHit", "dc/ddd/a18618.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
+    [ "UpdateAI", "dc/ddd/a18618.html#a81c039a2a230b261967842161757b6f8", null ],
+    [ "events", "dc/ddd/a18618.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
+    [ "faction", "dc/ddd/a18618.html#aca941c070a97278c8ec27d7e6b4edede", null ]
 ];

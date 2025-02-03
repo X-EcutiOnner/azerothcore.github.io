@@ -1,11 +1,8 @@
 var a18818 =
 [
-    [ "boss_patchwerkAI", "de/d32/a18818.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "de/d32/a18818.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "de/d32/a18818.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "de/d32/a18818.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "de/d32/a18818.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "de/d32/a18818.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "de/d32/a18818.html#a00c98ee5cdb3c512ba0d92a48d441006", null ],
-    [ "pInstance", "de/d32/a18818.html#a78a3e9a6ef289e82c3ccaedc4399607a", null ]
+    [ "boss_maexxna_webwrapAI", "de/d32/a18818.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
+    [ "IsSummonedBy", "de/d32/a18818.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
+    [ "JustDied", "de/d32/a18818.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
+    [ "UpdateAI", "de/d32/a18818.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
+    [ "victimGUID", "de/d32/a18818.html#a54081ebfc0df639b7e18b5f079802c92", null ]
 ];

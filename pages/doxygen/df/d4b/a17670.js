@@ -1,7 +1,11 @@
 var a17670 =
 [
-    [ "HandleScript", "df/d4b/a17670.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "df/d4b/a17670.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "df/d4b/a17670.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "df/d4b/a17670.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "npc_little_oozeAI", "df/d4b/a17670.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
+    [ "EnterEvadeMode", "df/d4b/a17670.html#a0bd4bfcc8c373a449f297011289e5530", null ],
+    [ "IsSummonedBy", "df/d4b/a17670.html#afb9763ade36bd742398a8bca961c136b", null ],
+    [ "JustDied", "df/d4b/a17670.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
+    [ "UpdateAI", "df/d4b/a17670.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
+    [ "events", "df/d4b/a17670.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
+    [ "firstUpdate", "df/d4b/a17670.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
+    [ "instance", "df/d4b/a17670.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
 ];

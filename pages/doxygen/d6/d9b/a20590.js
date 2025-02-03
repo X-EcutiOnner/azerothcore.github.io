@@ -1,6 +1,10 @@
 var a20590 =
 [
-    [ "boss_yoggsaron_neltharionAI", "d7/dbb/a20594.html", "d7/dbb/a20594" ],
-    [ "boss_yoggsaron_neltharion", "d6/d9b/a20590.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
-    [ "GetAI", "d6/d9b/a20590.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "d6/d9b/a20590.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
+    [ "DamageTaken", "d6/d9b/a20590.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
+    [ "Reset", "d6/d9b/a20590.html#a763f772414f00c0f83402e1a635b6bd0", null ],
+    [ "SpellHit", "d6/d9b/a20590.html#a60721961f2eb5e91c15890252166b872", null ],
+    [ "UpdateAI", "d6/d9b/a20590.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
+    [ "_spellTimer", "d6/d9b/a20590.html#a4ed360380707195e10753436020b67eb", null ],
+    [ "_visualTimer", "d6/d9b/a20590.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
 ];

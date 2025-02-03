@@ -1,8 +1,9 @@
 var a18238 =
 [
-    [ "DecayPeriodicTimer", "d7/d5d/a18238.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "d7/d5d/a18238.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "d7/d5d/a18238.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "d7/d5d/a18238.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "d7/d5d/a18238.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "npc_gluttonous_abominationAI", "d7/d5d/a18238.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
+    [ "JustDied", "d7/d5d/a18238.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
+    [ "JustSummoned", "d7/d5d/a18238.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
+    [ "Reset", "d7/d5d/a18238.html#a45588181429a74ac024e0390c76fa57a", null ],
+    [ "UpdateAI", "d7/d5d/a18238.html#a33ef03a9f005ff187493275a9c2683a7", null ],
+    [ "_events", "d7/d5d/a18238.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
 ];

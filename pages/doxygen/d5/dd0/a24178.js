@@ -1,6 +1,9 @@
 var a24178 =
 [
-    [ "FilterTargets", "d5/dd0/a24178.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
-    [ "PrepareSpellScript", "d5/dd0/a24178.html#aea49df3f6b93223ed72c3a9875232b74", null ],
-    [ "Register", "d5/dd0/a24178.html#a8f0e0b6363303def780d35415c88b4d6", null ]
+    [ "npc_pet_shaman_earth_elemental", "d5/dd0/a24178.html#a07f3792cb3b5264d209f1b4726867773", null ],
+    [ "InitializeAI", "d5/dd0/a24178.html#a8bbca6686ae324a50cd1598125280446", null ],
+    [ "JustEngagedWith", "d5/dd0/a24178.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
+    [ "UpdateAI", "d5/dd0/a24178.html#ab28951b483cab31bf5672fc74e7323e1", null ],
+    [ "_events", "d5/dd0/a24178.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
+    [ "_initAttack", "d5/dd0/a24178.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
 ];

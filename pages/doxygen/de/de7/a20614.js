@@ -1,9 +1,11 @@
 var a20614 =
 [
-    [ "HandleOnEffectApply", "de/de7/a20614.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
-    [ "OnPeriodic", "de/de7/a20614.html#a49ad44eba19416743bd26252d1b40d71", null ],
-    [ "PrepareAuraScript", "de/de7/a20614.html#ae0c475babb67cebb245d6d85b50cd694", null ],
-    [ "Register", "de/de7/a20614.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
-    [ "Validate", "de/de7/a20614.html#ab383a0a207aa78b7efcd400765ad0838", null ],
-    [ "_targetGUID", "de/de7/a20614.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
+    [ "boss_yoggsaron_neltharionAI", "de/de7/a20614.html#aacefe32de32513bdf46c0dd526768e25", null ],
+    [ "NextStep", "de/de7/a20614.html#a4770948240ac56ec151c262c8996e4e4", null ],
+    [ "Reset", "de/de7/a20614.html#a03841acfd21e920bc6589203448709a0", null ],
+    [ "Say", "de/de7/a20614.html#ae45f051ab64ce1f96f32e5b8d073356e", null ],
+    [ "UpdateAI", "de/de7/a20614.html#a80c174a8ffa15550627ed27ab0d8925d", null ],
+    [ "_checkTimer", "de/de7/a20614.html#a7eef651198e09cf25c2f039bcb4a1876", null ],
+    [ "_running", "de/de7/a20614.html#a6b2f01ed2ffe8113cbddd4a033886059", null ],
+    [ "_step", "de/de7/a20614.html#a0ac37717e940b094d322a7e492202718", null ]
 ];

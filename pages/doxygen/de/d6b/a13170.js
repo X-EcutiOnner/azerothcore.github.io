@@ -1,6 +1,7 @@
 var a13170 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "de/d6b/a13170.html#aae99b35ff990fd7486d5b70693b6729a", null ],
-    [ "OnCreatureCreate", "de/d6b/a13170.html#a7a81957fbb79b8ac77be7e9f1c5f8d00", null ],
-    [ "OnPlayerEnter", "de/d6b/a13170.html#ab45827eaa92aea4746378b3c11fda219", null ]
+    [ "OnPeriodic", "de/d6b/a13170.html#a25e7a59384f262a36c74696a1befa01d", null ],
+    [ "PrepareAuraScript", "de/d6b/a13170.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
+    [ "Register", "de/d6b/a13170.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
+    [ "Validate", "de/d6b/a13170.html#a6843deda5be8b684c06a86920714f255", null ]
 ];

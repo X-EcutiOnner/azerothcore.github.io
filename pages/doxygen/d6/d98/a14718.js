@@ -1,7 +1,6 @@
 var a14718 =
 [
-    [ "boss_rajaxx", "d6/d98/a14718.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "d6/d98/a14718.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "d6/d98/a14718.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "d6/d98/a14718.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "go_ossirian_crystalAI", "d5/d9c/a14722.html", "d5/d9c/a14722" ],
+    [ "go_ossirian_crystal", "d6/d98/a14718.html#a783f0f0570ee0f667920e29613b565b2", null ],
+    [ "GetAI", "d6/d98/a14718.html#a2f7b12eddc6504917614913e347ec0a0", null ]
 ];

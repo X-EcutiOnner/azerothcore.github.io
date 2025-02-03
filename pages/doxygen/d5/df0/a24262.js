@@ -1,9 +1,6 @@
 var a24262 =
 [
-    [ "HandleAfterHit", "d5/df0/a24262.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
-    [ "Load", "d5/df0/a24262.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
-    [ "PrepareSpellScript", "d5/df0/a24262.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
-    [ "Register", "d5/df0/a24262.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
-    [ "Validate", "d5/df0/a24262.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
-    [ "_executed", "d5/df0/a24262.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
+    [ "CheckProc", "d5/df0/a24262.html#ace3662e092d02de975929741c470230d", null ],
+    [ "PrepareAuraScript", "d5/df0/a24262.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
+    [ "Register", "d5/df0/a24262.html#ae6432106538261827c3eac3dde1450f2", null ]
 ];

@@ -1,7 +1,6 @@
 var a20050 =
 [
-    [ "StoneGripTargetSelector", "df/d2b/a20050.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
-    [ "operator()", "df/d2b/a20050.html#ae40653def55e656f2347029a97605395", null ],
-    [ "_me", "df/d2b/a20050.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
-    [ "_victim", "df/d2b/a20050.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
+    [ "boss_kologarn_armsAI", "d6/dfd/a20054.html", "d6/dfd/a20054" ],
+    [ "boss_kologarn_arms", "df/d2b/a20050.html#ad540d28bb4b8a2be0ca0769f114c3eda", null ],
+    [ "GetAI", "df/d2b/a20050.html#a9ffe4db97d937e01c5ab2008a011f67d", null ]
 ];

@@ -1,5 +1,5 @@
 var a01193 =
 [
-    [ "Vehicle", "d4/d95/a08630.html", "d4/d95/a08630" ],
-    [ "VehicleDespawnEvent", "df/d76/a08634.html", "df/d76/a08634" ]
+    [ "Vehicle", "d8/dad/a08642.html", "d8/dad/a08642" ],
+    [ "VehicleDespawnEvent", "dd/d5e/a08646.html", "dd/d5e/a08646" ]
 ];

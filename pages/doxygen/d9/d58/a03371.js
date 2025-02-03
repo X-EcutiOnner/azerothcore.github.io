@@ -1,12 +1,17 @@
 var a03371 =
 [
-    [ "npc_valkyr_battle_maiden", "d8/d02/a12778.html", "d8/d02/a12778" ],
-    [ "npc_valkyr_battle_maiden::npc_valkyr_battle_maidenAI", "de/d9b/a12782.html", "de/d9b/a12782" ],
-    [ "Says_VBM", "d9/d58/a03371.html#a1e8eb132ddeee98b584395e0a134c9e4", [
-      [ "WHISPER_REVIVE", "d9/d58/a03371.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833", null ]
+    [ "npc_daphne_stilwell", "db/d87/a13486.html", "db/d87/a13486" ],
+    [ "npc_daphne_stilwell::npc_daphne_stilwellAI", "d3/dae/a13490.html", "d3/dae/a13490" ],
+    [ "DaphneStilwell", "d9/d58/a03371.html#a49d1cb4d511d2524f3bf3459da05a2fd", [
+      [ "SAY_DS_START", "d9/d58/a03371.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e", null ],
+      [ "SAY_DS_DOWN_1", "d9/d58/a03371.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46", null ],
+      [ "SAY_DS_DOWN_2", "d9/d58/a03371.html#a49d1cb4d511d2524f3bf3459da05a2fda2fd750f4c8a0d85a69375e139be43d75", null ],
+      [ "SAY_DS_DOWN_3", "d9/d58/a03371.html#a49d1cb4d511d2524f3bf3459da05a2fda14433601b23e5a16dcc971ea746d1128", null ],
+      [ "SAY_DS_PROLOGUE", "d9/d58/a03371.html#a49d1cb4d511d2524f3bf3459da05a2fda402570a024e9b48018ca6b53ff7b83f8", null ],
+      [ "SPELL_SHOOT", "d9/d58/a03371.html#a49d1cb4d511d2524f3bf3459da05a2fda1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "QUEST_TOME_VALOR", "d9/d58/a03371.html#a49d1cb4d511d2524f3bf3459da05a2fda041a2f4b3f03948fc2f61e32e673973c", null ],
+      [ "NPC_DEFIAS_RAIDER", "d9/d58/a03371.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050", null ],
+      [ "EQUIP_ID_RIFLE", "d9/d58/a03371.html#a49d1cb4d511d2524f3bf3459da05a2fda31e0ac414da424f6923680055dd801d3", null ]
     ] ],
-    [ "Spells_VBM", "d9/d58/a03371.html#a97df4b07a8686c29a9700c8d11af35e3", [
-      [ "SPELL_REVIVE", "d9/d58/a03371.html#a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38", null ]
-    ] ],
-    [ "AddSC_the_scarlet_enclave", "d9/d58/a03371.html#a86bbb652876f394aaca15b4ed6e2bfa7", null ]
+    [ "AddSC_westfall", "d9/d58/a03371.html#a9c6e961944f462fc3c48a6400c76266c", null ]
 ];

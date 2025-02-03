@@ -1,6 +1,6 @@
 var a11126 =
 [
-    [ "EffectManaShieldHandler", "d1/d35/a11126.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
-    [ "Call", "d1/d35/a11126.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
-    [ "pEffectHandlerScript", "d1/d35/a11126.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
+    [ "EffectCalcSpellModHandler", "d1/d35/a11126.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
+    [ "Call", "d1/d35/a11126.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
+    [ "pEffectHandlerScript", "d1/d35/a11126.html#a15c0b24641cb04f31bb3d651dae59448", null ]
 ];

@@ -1,7 +1,7 @@
 var a26842 =
 [
-    [ "FilterTargets", "d3/d8e/a26842.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d3/d8e/a26842.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d3/d8e/a26842.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d3/d8e/a26842.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "npc_spirit_shadeAI", "d3/d8e/a26842.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "d3/d8e/a26842.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "d3/d8e/a26842.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "d3/d8e/a26842.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

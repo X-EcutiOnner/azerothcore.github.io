@@ -1,7 +1,9 @@
 var a13894 =
 [
-    [ "GetEmptyEntry", "df/ded/a13894.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "df/ded/a13894.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "df/ded/a13894.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "df/ded/a13894.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "HandleEffectPeriodic", "df/ded/a13894.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
+    [ "HandleEffectRemove", "df/ded/a13894.html#a96ed7366e568b70e82d622586740aa56", null ],
+    [ "Load", "df/ded/a13894.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
+    [ "PrepareAuraScript", "df/ded/a13894.html#abd1f851112a50b79e815cdd894275bab", null ],
+    [ "Register", "df/ded/a13894.html#aa3cd85aed063017c4737e7660fa81f37", null ],
+    [ "questTick", "df/ded/a13894.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
 ];

@@ -1,5 +1,5 @@
 var a01520 =
 [
-    [ "FleeingMovementGenerator< T >", "df/d21/a09758.html", "df/d21/a09758" ],
-    [ "TimedFleeingMovementGenerator", "d4/d57/a09762.html", "d4/d57/a09762" ]
+    [ "FleeingMovementGenerator< T >", "d3/df7/a09770.html", "d3/df7/a09770" ],
+    [ "TimedFleeingMovementGenerator", "d2/d64/a09774.html", "d2/d64/a09774" ]
 ];

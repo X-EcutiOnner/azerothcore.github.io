@@ -1,7 +1,6 @@
 var a16662 =
 [
-    [ "UtherBatteredHiltEvent", "d2/dfd/a16662.html#a7bb34b75a3e371260a231aea72f75b40", null ],
-    [ "Execute", "d2/dfd/a16662.html#ad2eb37877155b6dbc9916338e30d0306", null ],
-    [ "_eventId", "d2/dfd/a16662.html#a5045e057b2c5d468aa579751d2c799b8", null ],
-    [ "_owner", "d2/dfd/a16662.html#a588974708f4a48f5a7b097a63a0c0899", null ]
+    [ "npc_hor_lumbering_abominationAI", "da/df8/a16666.html", "da/df8/a16666" ],
+    [ "npc_hor_lumbering_abomination", "d2/dfd/a16662.html#a0d394d1ba52a05a6db0ae983daea7123", null ],
+    [ "GetAI", "d2/dfd/a16662.html#a0601ac0af85e545617013846c48de29a", null ]
 ];

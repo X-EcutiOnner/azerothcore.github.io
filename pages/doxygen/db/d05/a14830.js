@@ -1,6 +1,5 @@
 var a14830 =
 [
-    [ "FilterTargets", "db/d05/a14830.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
-    [ "PrepareSpellScript", "db/d05/a14830.html#a32b0be74a9127f920e22aa03c910a005", null ],
-    [ "Register", "db/d05/a14830.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
+    [ "at_cthun_stomach_exit", "db/d05/a14830.html#ab37174eff353cdbba1f300464645ac63", null ],
+    [ "OnTrigger", "db/d05/a14830.html#ab56dca3fe200dc7822459a22912247bf", null ]
 ];

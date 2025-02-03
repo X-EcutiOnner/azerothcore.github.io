@@ -1,6 +1,6 @@
 var a12246 =
 [
-    [ "boss_shazzrahAI", "d5/d45/a12250.html", "d5/d45/a12250" ],
-    [ "boss_shazzrah", "d9/d21/a12246.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
-    [ "GetAI", "d9/d21/a12246.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
+    [ "HandleHit", "d9/d21/a12246.html#a5245f935c0cafd14e492214a51d85ad3", null ],
+    [ "PrepareSpellScript", "d9/d21/a12246.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
+    [ "Register", "d9/d21/a12246.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
 ];

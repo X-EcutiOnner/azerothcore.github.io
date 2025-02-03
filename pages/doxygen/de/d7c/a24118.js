@@ -1,10 +1,8 @@
 var a24118 =
 [
-    [ "npc_pet_gen_plump_turkey", "de/d7c/a24118.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
-    [ "MovementInform", "de/d7c/a24118.html#af27c91388891add6d00e251bf3187743", null ],
-    [ "UpdateAI", "de/d7c/a24118.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
-    [ "checkTimer", "de/d7c/a24118.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
-    [ "goGUID", "de/d7c/a24118.html#a5fa88e045430adea9e72a3744bf72780", null ],
-    [ "jumping", "de/d7c/a24118.html#a8486512b7594f2ce759fcb580f1baf34", null ],
-    [ "jumpTimer", "de/d7c/a24118.html#ad53a9abad41ab6a792a55b854155135d", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "de/d7c/a24118.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "de/d7c/a24118.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "de/d7c/a24118.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "de/d7c/a24118.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "de/d7c/a24118.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

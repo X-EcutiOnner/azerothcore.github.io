@@ -1,7 +1,6 @@
 var a22690 =
 [
-    [ "CalculateAmount", "d4/df1/a22690.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
-    [ "PrepareAuraScript", "d4/df1/a22690.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
-    [ "Register", "d4/df1/a22690.html#a6d0d47536e6ef74a88c97019843d478c", null ],
-    [ "Update", "d4/df1/a22690.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d4/df1/a22690.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d4/df1/a22690.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "d4/df1/a22690.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

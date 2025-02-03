@@ -1,12 +1,6 @@
 var a19522 =
 [
-    [ "npc_auriaya_feral_defenderAI", "d4/d74/a19522.html#a32e6fa30e4c56fdd055a728ba7227beb", null ],
-    [ "DoAction", "d4/d74/a19522.html#a2b0a176dba865e90bdc22727b2860509", null ],
-    [ "JustDied", "d4/d74/a19522.html#a7e9c49d8dc47663e70c8fcbed68746e5", null ],
-    [ "Reset", "d4/d74/a19522.html#ae127a88f18f3348a0bc388d79dcd13d4", null ],
-    [ "UpdateAI", "d4/d74/a19522.html#a1edc249808e1ebdb88605c56e19c272a", null ],
-    [ "_feralEssenceStack", "d4/d74/a19522.html#aab51096b8f57528a0a27e23a306d6762", null ],
-    [ "_feralPounceTimer", "d4/d74/a19522.html#ab91df5ebee9c12d067ff83ee64effece", null ],
-    [ "_feralRushTimer", "d4/d74/a19522.html#aa45e0baf1ad43cc4b2c223d1b9d1c3c6", null ],
-    [ "summons", "d4/d74/a19522.html#a599679f93e4fc4b3b9aa00ea33dcb047", null ]
+    [ "boss_auriayaAI", "dd/db6/a19526.html", "dd/db6/a19526" ],
+    [ "boss_auriaya", "d4/d74/a19522.html#a8acecf02a63e846d1a46633a6ade6083", null ],
+    [ "GetAI", "d4/d74/a19522.html#a09c7cd124672eb12ec349dbbbd3c87ef", null ]
 ];

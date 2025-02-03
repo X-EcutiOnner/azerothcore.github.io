@@ -1,6 +1,6 @@
 var a11086 =
 [
-    [ "CheckAreaTargetHandler", "d2/df7/a11086.html#a641b633e37079949c8b1b71a32f4222e", null ],
-    [ "Call", "d2/df7/a11086.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
-    [ "pHandlerScript", "d2/df7/a11086.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
+    [ "ObjectTargetSelectHandler", "d2/df7/a11086.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
+    [ "Call", "d2/df7/a11086.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
+    [ "pObjectTargetSelectHandlerScript", "d2/df7/a11086.html#a6982985537c0ddb8dd79647766c9ae70", null ]
 ];

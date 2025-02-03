@@ -1,5 +1,6 @@
 var a20462 =
 [
-    [ "achievement_xt002_nerf_engineering", "dd/d2e/a20462.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "dd/d2e/a20462.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "PrepareSpellScript", "dd/d2e/a20462.html#a525025d429743f9d606289ca1a660796", null ],
+    [ "Register", "dd/d2e/a20462.html#a66f565c07d495f27aaba393fdcce9d24", null ],
+    [ "SelectTarget", "dd/d2e/a20462.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
 ];

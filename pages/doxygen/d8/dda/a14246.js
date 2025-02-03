@@ -1,6 +1,6 @@
 var a14246 =
 [
-    [ "HandleScriptEffect", "d8/dda/a14246.html#aebd700897688157ca62405c92fe58680", null ],
-    [ "PrepareSpellScript", "d8/dda/a14246.html#a09e11d1938279a2302fb8805e71c6c36", null ],
-    [ "Register", "d8/dda/a14246.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
+    [ "PrepareAuraScript", "d8/dda/a14246.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "d8/dda/a14246.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "d8/dda/a14246.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

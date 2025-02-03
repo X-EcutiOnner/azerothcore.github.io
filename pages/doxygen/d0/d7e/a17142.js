@@ -1,8 +1,8 @@
 var a17142 =
 [
-    [ "CheckProc", "d0/d7e/a17142.html#a11620e4d645b3bfd35924700b5dad289", null ],
-    [ "HandleProc", "d0/d7e/a17142.html#aa80a032f2ec80aba36f6fe0208412587", null ],
-    [ "PrepareAuraScript", "d0/d7e/a17142.html#afe04f0cb6539238412253b63dd3c82b9", null ],
-    [ "Register", "d0/d7e/a17142.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
-    [ "Validate", "d0/d7e/a17142.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "de/dcc/a17146.html", "de/dcc/a17146" ],
+    [ "npc_muradin_bronzebeard_icc", "d0/d7e/a17142.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
+    [ "GetAI", "d0/d7e/a17142.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
+    [ "OnGossipHello", "d0/d7e/a17142.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
+    [ "OnGossipSelect", "d0/d7e/a17142.html#a46c4893be723a848d985ff55e28d55a2", null ]
 ];

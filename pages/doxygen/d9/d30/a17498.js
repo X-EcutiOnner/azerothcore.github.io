@@ -1,7 +1,6 @@
 var a17498 =
 [
-    [ "HandleSpikes", "d9/d30/a17498.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "d9/d30/a17498.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "d9/d30/a17498.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "d9/d30/a17498.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "npc_coldflameAI", "d7/d6a/a17502.html", "d7/d6a/a17502" ],
+    [ "npc_coldflame", "d9/d30/a17498.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "d9/d30/a17498.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

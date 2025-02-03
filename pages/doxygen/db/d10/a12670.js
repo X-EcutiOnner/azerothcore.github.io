@@ -1,6 +1,8 @@
 var a12670 =
 [
-    [ "npc_unworthy_initiate_anchorAI", "df/d27/a12674.html", "df/d27/a12674" ],
-    [ "npc_unworthy_initiate_anchor", "db/d10/a12670.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
-    [ "GetAI", "db/d10/a12670.html#ab012983661d20a3ffa4f58136bd2d808", null ]
+    [ "npc_dkc1_gothikAI", "db/d10/a12670.html#a35e65bd943f86ba3a1d6841569289df6", null ],
+    [ "DoAction", "db/d10/a12670.html#a3193c562973bbf995ab5e0173a93d01f", null ],
+    [ "MoveInLineOfSight", "db/d10/a12670.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
+    [ "UpdateAI", "db/d10/a12670.html#a346d32c9831babe6fb5f675b70b7a897", null ],
+    [ "spoken", "db/d10/a12670.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
 ];

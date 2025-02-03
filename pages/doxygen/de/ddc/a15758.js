@@ -1,6 +1,5 @@
 var a15758 =
 [
-    [ "SendEncounterUnit", "de/ddc/a15758.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
-    [ "Execute", "de/ddc/a15758.html#ae21b67f8fe8a0677778436563872495f", null ],
-    [ "_owner", "de/ddc/a15758.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
+    [ "at_baltharus_plateau", "de/ddc/a15758.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
+    [ "OnTrigger", "de/ddc/a15758.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
 ];

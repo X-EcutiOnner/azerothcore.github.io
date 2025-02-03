@@ -1,6 +1,6 @@
 var a19170 =
 [
-    [ "boss_bjarngrimAI", "d0/d2e/a19174.html", "d0/d2e/a19174" ],
-    [ "boss_bjarngrim", "d7/d5b/a19170.html#ab509688547d41ec1fd094fdc45291959", null ],
-    [ "GetAI", "d7/d5b/a19170.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
+    [ "HandlePeriodic", "d7/d5b/a19170.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
+    [ "PrepareAuraScript", "d7/d5b/a19170.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
+    [ "Register", "d7/d5b/a19170.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
 ];

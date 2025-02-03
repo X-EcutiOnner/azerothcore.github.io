@@ -1,6 +1,7 @@
 var a16834 =
 [
-    [ "entry", "de/d65/a16834.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "de/d65/a16834.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "de/d65/a16834.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "HandleEffectPeriodic", "de/d65/a16834.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "de/d65/a16834.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "de/d65/a16834.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "de/d65/a16834.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

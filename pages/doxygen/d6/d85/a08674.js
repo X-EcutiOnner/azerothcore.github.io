@@ -1,7 +1,7 @@
 var a08674 =
 [
-    [ "equipement_id_prev", "d6/d85/a08674.html#a93a895fa31cef29fa739225316886e78", null ],
-    [ "equipment_id", "d6/d85/a08674.html#af21361c600fb9609f554b64bc5cfb4c2", null ],
-    [ "modelid", "d6/d85/a08674.html#a53296cbdf02039d19610c21e0f7d5d1d", null ],
-    [ "modelid_prev", "d6/d85/a08674.html#a976ce0cdd7c8e95465bc999d26347bde", null ]
+    [ "done", "d6/d85/a08674.html#a498ebc454773a2c4c8d9452ed5bd3015", null ],
+    [ "done_world_state", "d6/d85/a08674.html#a679379a2b44542e74d103ba851811b52", null ],
+    [ "max_world_state", "d6/d85/a08674.html#a819dcff56a5795a63146aca64b46811b", null ],
+    [ "reqNum", "d6/d85/a08674.html#ae74eb755e1a6f5d8800790351f662d21", null ]
 ];

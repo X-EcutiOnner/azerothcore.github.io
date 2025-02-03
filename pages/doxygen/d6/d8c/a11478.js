@@ -1,10 +1,13 @@
 var a11478 =
 [
-    [ "mmaps_commandscript", "d6/d8c/a11478.html#a1dbdfd26bdb685315a3012453080a56f", null ],
-    [ "GetCommands", "d6/d8c/a11478.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
-    [ "HandleMmapLoadedTilesCommand", "d6/d8c/a11478.html#a40d5b7e733298210c686fe89490b6f61", null ],
-    [ "HandleMmapLocCommand", "d6/d8c/a11478.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
-    [ "HandleMmapPathCommand", "d6/d8c/a11478.html#a2c876439ad6d9ff7523f140d97743dea", null ],
-    [ "HandleMmapStatsCommand", "d6/d8c/a11478.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
-    [ "HandleMmapTestArea", "d6/d8c/a11478.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
+    [ "list_commandscript", "d6/d8c/a11478.html#a5a85953a46afe08fe05a11fe69c934dc", null ],
+    [ "GetCommands", "d6/d8c/a11478.html#a949c6e6f372afb50e1116b6414acdd7c", null ],
+    [ "HandleListAllAurasCommand", "d6/d8c/a11478.html#a93f1fe9131b917c813058899efede2a5", null ],
+    [ "HandleListAurasByIdCommand", "d6/d8c/a11478.html#a3c59e8b85175ef056b07f566c231c221", null ],
+    [ "HandleListAurasByNameCommand", "d6/d8c/a11478.html#a78d6be53ddae80068e2d9c04ea494e24", null ],
+    [ "HandleListCreatureCommand", "d6/d8c/a11478.html#a48388f1c839cec6597c74740ec49fa68", null ],
+    [ "HandleListItemCommand", "d6/d8c/a11478.html#a7d0aadb081f25c3d533951bd9841f103", null ],
+    [ "HandleListObjectCommand", "d6/d8c/a11478.html#ac8b32be8650c9e54388320d650c9761b", null ],
+    [ "ListAurasCommand", "d6/d8c/a11478.html#a98c9f6fb42e8030d76f234cdb02a72fb", null ],
+    [ "ShouldListAura", "d6/d8c/a11478.html#afc42154ec5e978b366780fb600b17e8d", null ]
 ];

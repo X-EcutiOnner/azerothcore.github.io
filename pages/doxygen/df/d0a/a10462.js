@@ -1,7 +1,6 @@
 var a10462 =
 [
-    [ "GuildBankActivate", "df/d0a/a10462.html#a5b27541a26ada694d9635f6d6873ef20", null ],
-    [ "Read", "df/d0a/a10462.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
-    [ "Banker", "df/d0a/a10462.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
-    [ "FullUpdate", "df/d0a/a10462.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
+    [ "GuildPromoteMember", "df/d0a/a10462.html#af623a381aa80e827c2c29987501626ae", null ],
+    [ "Read", "df/d0a/a10462.html#a3350c1a8c81aa1368a254288849b462b", null ],
+    [ "Promotee", "df/d0a/a10462.html#af8addf6e9bc45364f595582e8f285cde", null ]
 ];

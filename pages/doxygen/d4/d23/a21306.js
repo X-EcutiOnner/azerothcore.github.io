@@ -1,6 +1,6 @@
 var a21306 =
 [
-    [ "npc_thassarian2AI", "de/d4e/a21310.html", "de/d4e/a21310" ],
-    [ "npc_thassarian2", "d4/d23/a21306.html#a8a2f1e1595349e4fa9968e85f17d0468", null ],
-    [ "GetAI", "d4/d23/a21306.html#adb87c99f3375f88eca55b39e1cd0bbd5", null ]
+    [ "HandleEffect", "d4/d23/a21306.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
+    [ "PrepareSpellScript", "d4/d23/a21306.html#aec199e9f9651267fac88bd86be326bb4", null ],
+    [ "Register", "d4/d23/a21306.html#a14bd854db86750704c8377d457dea360", null ]
 ];

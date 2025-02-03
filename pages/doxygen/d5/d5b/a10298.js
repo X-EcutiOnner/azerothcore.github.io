@@ -1,5 +1,5 @@
 var a10298 =
 [
-    [ "PlayerLogout", "d5/d5b/a10298.html#afacee5b02c2adc4bec608b6f280fbcf1", null ],
-    [ "Read", "d5/d5b/a10298.html#accbe1ced6a10ea2fa699df5e74575795", null ]
+    [ "LogoutComplete", "d5/d5b/a10298.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
+    [ "Write", "d5/d5b/a10298.html#a0d958bc07b674ed3339833351fec7d3a", null ]
 ];

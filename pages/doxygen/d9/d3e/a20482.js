@@ -1,6 +1,5 @@
 var a20482 =
 [
-    [ "boss_yoggsaron_cloudAI", "d0/d6b/a20486.html", "d0/d6b/a20486" ],
-    [ "boss_yoggsaron_cloud", "d9/d3e/a20482.html#ab52cc1fa8b45b70dde340b9f463ef2f1", null ],
-    [ "GetAI", "d9/d3e/a20482.html#a2005f062eb9d78c7b09b045eba570b98", null ]
+    [ "achievement_xt002_nerf_engineering", "d9/d3e/a20482.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "d9/d3e/a20482.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

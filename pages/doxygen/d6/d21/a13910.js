@@ -1,6 +1,6 @@
 var a13910 =
 [
-    [ "OnApply", "d6/d21/a13910.html#a4a276b00d4912c210598057620368934", null ],
-    [ "PrepareAuraScript", "d6/d21/a13910.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
-    [ "Register", "d6/d21/a13910.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
+    [ "HandleAfterHit", "d6/d21/a13910.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
+    [ "PrepareSpellScript", "d6/d21/a13910.html#a284796ec70bdfaea9919f54da94f0021", null ],
+    [ "Register", "d6/d21/a13910.html#a30dcb608c20df17de9597ece1930d59d", null ]
 ];

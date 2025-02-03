@@ -1,9 +1,9 @@
 var a18506 =
 [
-    [ "npc_icc_severed_essenceAI", "d4/dbe/a18506.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "d4/dbe/a18506.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "d4/dbe/a18506.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "d4/dbe/a18506.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "d4/dbe/a18506.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "d4/dbe/a18506.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d4/dbe/a18506.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "d4/dbe/a18506.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "d4/dbe/a18506.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "d4/dbe/a18506.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "d4/dbe/a18506.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "d4/dbe/a18506.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

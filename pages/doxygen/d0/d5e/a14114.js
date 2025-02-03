@@ -1,9 +1,10 @@
 var a14114 =
 [
-    [ "npc_love_in_air_snivel", "d0/d5e/a14114.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
-    [ "AllowAction", "d0/d5e/a14114.html#af1097317f62bbb8f8456124001c73576", null ],
-    [ "MoveInLineOfSight", "d0/d5e/a14114.html#ae6537707109b95fad20e521d07867cdd", null ],
-    [ "Reset", "d0/d5e/a14114.html#a2385ea44d9f44735b193add4a0d0485b", null ],
-    [ "UpdateAI", "d0/d5e/a14114.html#a9e712994663e3442359d2f574ebc812c", null ],
-    [ "delay", "d0/d5e/a14114.html#a548db6245ef875ec47279246e437934c", null ]
+    [ "boss_headless_horseman_pumpkin", "d0/d5e/a14114.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "d0/d5e/a14114.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "d0/d5e/a14114.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "d0/d5e/a14114.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "d0/d5e/a14114.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "d0/d5e/a14114.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "d0/d5e/a14114.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

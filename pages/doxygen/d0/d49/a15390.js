@@ -1,10 +1,9 @@
 var a15390 =
 [
-    [ "npc_ameAI", "d0/d49/a15390.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
-    [ "JustDied", "d0/d49/a15390.html#a9b77f94f112477509c3163945ceb8201", null ],
-    [ "JustSummoned", "d0/d49/a15390.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
-    [ "Reset", "d0/d49/a15390.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
-    [ "UpdateAI", "d0/d49/a15390.html#a0a073e4c216985607aa51099044ff6c5", null ],
-    [ "WaypointReached", "d0/d49/a15390.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
-    [ "DemoralizingShoutTimer", "d0/d49/a15390.html#ab5d1786735adea4bce1bba8adf42a877", null ]
+    [ "npc_pluckyAI", "d0/d49/a15390.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
+    [ "ReceiveEmote", "d0/d49/a15390.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
+    [ "Reset", "d0/d49/a15390.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
+    [ "UpdateAI", "d0/d49/a15390.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
+    [ "NormFaction", "d0/d49/a15390.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
+    [ "ResetTimer", "d0/d49/a15390.html#ac9808c21666cd17b0603e7e67a61d015", null ]
 ];

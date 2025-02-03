@@ -1,6 +1,6 @@
 var a23706 =
 [
-    [ "npc_aeranasAI", "dc/d7a/a23710.html", "dc/d7a/a23710" ],
-    [ "npc_aeranas", "d6/d9f/a23706.html#a6ea71481ef6a223a329b805081122537", null ],
-    [ "GetAI", "d6/d9f/a23706.html#a81167df6665bdca81ee13468dec19643", null ]
+    [ "go_apexis_relic", "d6/d9f/a23706.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "d6/d9f/a23706.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "d6/d9f/a23706.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

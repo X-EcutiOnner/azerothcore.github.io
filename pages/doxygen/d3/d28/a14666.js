@@ -1,9 +1,7 @@
 var a14666 =
 [
-    [ "npc_buru_egg", "d3/d28/a14666.html#a6aa2896342b802caecde1c1dffcf4907", null ],
-    [ "JustDied", "d3/d28/a14666.html#a3de169b252374f0b2daed3ecb5a11502", null ],
-    [ "JustEngagedWith", "d3/d28/a14666.html#a8cde6848569671876a17b00d75228ebe", null ],
-    [ "JustSummoned", "d3/d28/a14666.html#abebb96dcb3d653bddd4210da6567fb87", null ],
-    [ "UpdateAI", "d3/d28/a14666.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
-    [ "_instance", "d3/d28/a14666.html#a5b168226755a57368f17827e3457a0ca", null ]
+    [ "HandleScript", "d3/d28/a14666.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
+    [ "PrepareSpellScript", "d3/d28/a14666.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
+    [ "Register", "d3/d28/a14666.html#aff966352a2babe6e6daed91f02e1190a", null ],
+    [ "Validate", "d3/d28/a14666.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
 ];

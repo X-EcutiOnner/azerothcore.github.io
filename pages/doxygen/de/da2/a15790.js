@@ -1,7 +1,6 @@
 var a15790 =
 [
-    [ "npc_orb_carrierAI", "de/da2/a15790.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "de/da2/a15790.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "de/da2/a15790.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "de/da2/a15790.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "boss_twilight_halionAI", "d6/d09/a15794.html", "d6/d09/a15794" ],
+    [ "boss_twilight_halion", "de/da2/a15790.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
+    [ "GetAI", "de/da2/a15790.html#a56842d74b16cbd5636649cbc643c50d8", null ]
 ];

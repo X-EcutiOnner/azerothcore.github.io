@@ -1,6 +1,6 @@
 var a13206 =
 [
-    [ "npc_professor_phizzlethorpeAI", "da/d69/a13210.html", "da/d69/a13210" ],
-    [ "npc_professor_phizzlethorpe", "d0/db6/a13206.html#a8d32b4a107533c81033c617b0b97027d", null ],
-    [ "GetAI", "d0/db6/a13206.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
+    [ "instance_uldaman_InstanceMapScript", "da/d69/a13210.html", "da/d69/a13210" ],
+    [ "instance_uldaman", "d0/db6/a13206.html#a854807db729d15aa4a09aad051fe3bda", null ],
+    [ "GetInstanceScript", "d0/db6/a13206.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
 ];

@@ -1,6 +1,8 @@
 var a21146 =
 [
-    [ "npc_azure_captainAI", "d6/d07/a21150.html", "d6/d07/a21150" ],
-    [ "npc_azure_captain", "d0/d3c/a21146.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
-    [ "GetAI", "d0/d3c/a21146.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
+    [ "npc_azure_raiderAI", "d0/d3c/a21146.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
+    [ "Reset", "d0/d3c/a21146.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
+    [ "UpdateAI", "d0/d3c/a21146.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
+    [ "uiConcussionBlowTimer", "d0/d3c/a21146.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
+    [ "uiMagicReflectionTimer", "d0/d3c/a21146.html#acb262ab506ea58201abfe2057525c548", null ]
 ];

@@ -1,8 +1,5 @@
 var a04037 =
 [
-    [ "misc_commandscript", "d4/d57/a11474.html", "d4/d57/a11474" ],
-    [ "AddSC_misc_commandscript", "df/d11/a04037.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
-    [ "GetLocalizeCreatureName", "df/d11/a04037.html#aaedbdfd3cae227b11684151f41e3b977", null ],
-    [ "SPELL_FREEZE", "df/d11/a04037.html#a181bdc61e4eb1d21db975ca0227cb086", null ],
-    [ "SPELL_STUCK", "df/d11/a04037.html#a1706df7feb0ef4f693c388033ace5fb7", null ]
+    [ "reload_commandscript", "df/d71/a11534.html", "df/d71/a11534" ],
+    [ "AddSC_reload_commandscript", "df/d11/a04037.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ]
 ];

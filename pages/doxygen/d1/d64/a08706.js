@@ -1,7 +1,8 @@
 var a08706 =
 [
-    [ "IsFitToRequirements", "d1/d64/a08706.html#ac175634ed2eab2911c3749fa208a073a", null ],
-    [ "castFlags", "d1/d64/a08706.html#a03cd65a460ea252818de9230cb656c1c", null ],
-    [ "spellId", "d1/d64/a08706.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
-    [ "userType", "d1/d64/a08706.html#adcf285572403481cb418bddebc5f4bfa", null ]
+    [ "TempSummonGroupKey", "d1/d64/a08706.html#ae1bd752c8fc7d037d6942b32859ce1ad", null ],
+    [ "operator<", "d1/d64/a08706.html#ae92c7712bd58b9b773ddaac3d2b8a345", null ],
+    [ "_summonerEntry", "d1/d64/a08706.html#a0ecac0e82ce63c9e64f2e17d941df447", null ],
+    [ "_summonerType", "d1/d64/a08706.html#ac6bf8fb36092134f63409f3cddc5f810", null ],
+    [ "_summonGroup", "d1/d64/a08706.html#a1a90f3bf90363f88828cc217dd7ceda6", null ]
 ];

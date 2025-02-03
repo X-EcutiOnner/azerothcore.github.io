@@ -1,12 +1,6 @@
 var a18170 =
 [
-    [ "npc_risen_archmageAI", "dc/d84/a18170.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
-    [ "CanAIAttack", "dc/d84/a18170.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
-    [ "DoAction", "dc/d84/a18170.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
-    [ "JustEngagedWith", "dc/d84/a18170.html#aef3a1631b4bb8d28d4056036981b0192", null ],
-    [ "JustSummoned", "dc/d84/a18170.html#aff6e86057086db1319bb680e52e41634", null ],
-    [ "Reset", "dc/d84/a18170.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
-    [ "UpdateAI", "dc/d84/a18170.html#ae78dc64f858573b234210ca175e5bdd9", null ],
-    [ "_events", "dc/d84/a18170.html#a6dff9ff5332c0bc337840882689f47ed", null ],
-    [ "_instance", "dc/d84/a18170.html#a1b4e12b199bf3ada517c895c5f387c4a", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d3/d75/a18174.html", "d3/d75/a18174" ],
+    [ "npc_green_dragon_combat_trigger", "dc/d84/a18170.html#acec675494f5e5e9609bf34b7f25cb569", null ],
+    [ "GetAI", "dc/d84/a18170.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
 ];

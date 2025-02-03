@@ -1,6 +1,6 @@
 var a11642 =
 [
-    [ "boss_ambassador_flamelashAI", "da/ddd/a11646.html", "da/ddd/a11646" ],
-    [ "boss_ambassador_flamelash", "d8/d8c/a11642.html#a53d24a240e48033b0474970e8acac1f4", null ],
-    [ "GetAI", "d8/d8c/a11642.html#a332e347d803a58989445ec57d75361ab", null ]
+    [ "npc_phalanxAI", "da/ddd/a11646.html", "da/ddd/a11646" ],
+    [ "npc_phalanx", "d8/d8c/a11642.html#a947ee4659fe2a46d775119ddcefeb939", null ],
+    [ "GetAI", "d8/d8c/a11642.html#ab1e2a0950ab286d5abae3d46aef3c623", null ]
 ];

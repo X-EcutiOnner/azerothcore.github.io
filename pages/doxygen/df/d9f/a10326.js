@@ -1,6 +1,6 @@
 var a10326 =
 [
-    [ "SetSheathed", "df/d9f/a10326.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
-    [ "Read", "df/d9f/a10326.html#ae2158689450e3a9207b6992ea5223106", null ],
-    [ "CurrentSheathState", "df/d9f/a10326.html#a8363787ac7959f19234def2707ef0b32", null ]
+    [ "EmoteClient", "df/d9f/a10326.html#af98c098cb1019057d8027f39c168e1a9", null ],
+    [ "Read", "df/d9f/a10326.html#abad5fca865b7b99e595ce95137e8105c", null ],
+    [ "EmoteID", "df/d9f/a10326.html#a24503de36535106220984ffbf6ba0338", null ]
 ];

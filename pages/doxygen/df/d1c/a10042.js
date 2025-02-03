@@ -1,8 +1,11 @@
 var a10042 =
 [
-    [ "_OnTrigger", "df/d1c/a10042.html#a6da93a21c84345bd77e467377810e756", null ],
-    [ "AreaTriggerScript", "df/d1c/a10042.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
-    [ "OnTrigger", "df/d1c/a10042.html#a4ac7e4963d36c8163a560dc8401b5f34", null ],
-    [ "ResetAreaTriggerDone", "df/d1c/a10042.html#a3b44c1892c1100028b387d15bfbdae60", null ],
-    [ "ResetAreaTriggerDone", "df/d1c/a10042.html#a3917da4a6f605077720172cda25322ee", null ]
+    [ "AllMapScript", "df/d1c/a10042.html#aea5284ac6b227dd44b83dc944e220f00", null ],
+    [ "OnBeforeCreateInstanceScript", "df/d1c/a10042.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
+    [ "OnCreateMap", "df/d1c/a10042.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
+    [ "OnDestroyInstance", "df/d1c/a10042.html#a990130b4cd594c1cd04368aea300a49e", null ],
+    [ "OnDestroyMap", "df/d1c/a10042.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
+    [ "OnMapUpdate", "df/d1c/a10042.html#a6edbb719d998c57caba09eef7ad559e0", null ],
+    [ "OnPlayerEnterAll", "df/d1c/a10042.html#a42e4af596effb07a00b353164f32cec9", null ],
+    [ "OnPlayerLeaveAll", "df/d1c/a10042.html#adcfd501bee055317bff2a63ef28c3eab", null ]
 ];

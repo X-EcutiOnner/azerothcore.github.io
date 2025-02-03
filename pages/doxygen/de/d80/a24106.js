@@ -1,6 +1,6 @@
 var a24106 =
 [
-    [ "PrepareSpellScript", "de/d80/a24106.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
-    [ "RecalculateDamage", "de/d80/a24106.html#af01757d0968da2a096d800782ed7e66e", null ],
-    [ "Register", "de/d80/a24106.html#a62b6613707a2a9b78d52bffe92de604e", null ]
+    [ "achievement", "de/d80/a24106.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "de/d80/a24106.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "de/d80/a24106.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

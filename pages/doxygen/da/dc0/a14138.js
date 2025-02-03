@@ -1,5 +1,8 @@
 var a14138 =
 [
-    [ "MidsummerPlayerScript", "da/dc0/a14138.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
-    [ "OnUpdateZone", "da/dc0/a14138.html#af9b22522b5e3f9530482861f932c5489", null ]
+    [ "npc_love_in_air_snivel_real", "da/dc0/a14138.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
+    [ "Talk", "da/dc0/a14138.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
+    [ "UpdateAI", "da/dc0/a14138.html#a22ed25da8fe3441ef0e4183390983f40", null ],
+    [ "actionCounter", "da/dc0/a14138.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
+    [ "actionTimer", "da/dc0/a14138.html#a3bbee1ff355581772b337268775b8fbc", null ]
 ];

@@ -1,9 +1,6 @@
 var a17322 =
 [
-    [ "CheckAreaTarget", "d3/d2b/a17322.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
-    [ "HandleApply", "d3/d2b/a17322.html#a9ce86d32957af07313af379b4176d0b3", null ],
-    [ "HandleRemove", "d3/d2b/a17322.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
-    [ "Load", "d3/d2b/a17322.html#aa10821981f3e80262850e5c46449d5d0", null ],
-    [ "PrepareAuraScript", "d3/d2b/a17322.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
-    [ "Register", "d3/d2b/a17322.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
+    [ "npc_gunship_gunnerAI", "d1/d6d/a17326.html", "d1/d6d/a17326" ],
+    [ "npc_gunship_gunner", "d3/d2b/a17322.html#a409711f22b35eae0c0d48bc23545e592", null ],
+    [ "GetAI", "d3/d2b/a17322.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
 ];

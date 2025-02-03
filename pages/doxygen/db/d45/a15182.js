@@ -1,6 +1,5 @@
 var a15182 =
 [
-    [ "npc_clintar_spiritAI", "da/d72/a15186.html", "da/d72/a15186" ],
-    [ "npc_clintar_spirit", "db/d45/a15182.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "db/d45/a15182.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "at_ancient_leaf", "db/d45/a15182.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
+    [ "OnTrigger", "db/d45/a15182.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
 ];

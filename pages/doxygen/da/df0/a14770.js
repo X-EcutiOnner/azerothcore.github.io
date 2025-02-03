@@ -1,6 +1,19 @@
 var a14770 =
 [
-    [ "FilterTargets", "da/df0/a14770.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
-    [ "PrepareSpellScript", "da/df0/a14770.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
-    [ "Register", "da/df0/a14770.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
+    [ "boss_bug_trio", "da/df0/a14770.html#acfef187b77a745686cb64bec64398dd4", null ],
+    [ "CheckInRoom", "da/df0/a14770.html#a9b78f1f7beee555460bd24338a25506d", null ],
+    [ "DamageTaken", "da/df0/a14770.html#a41e1d62badcad8d360983f07b4101f7e", null ],
+    [ "DoAction", "da/df0/a14770.html#a808939fbc1a9f2bc9e3a6dda5dce02f4", null ],
+    [ "DoFinalSpell", "da/df0/a14770.html#a46b943e5d5f5b0972b42edc4134c1f98", null ],
+    [ "EnterCombatWithTrio", "da/df0/a14770.html#af7d3159f505f5f3dd6e273d47fd9bc80", null ],
+    [ "EnterEvadeMode", "da/df0/a14770.html#ae6809cc35969618ecfaf1767e8c9ae92", null ],
+    [ "EvadeAllBosses", "da/df0/a14770.html#a09c60b117f2cb194eeb1a2b13b7e5d37", null ],
+    [ "JustDied", "da/df0/a14770.html#a2d4d6a43de7ce16b6cf5b7603fbacd87", null ],
+    [ "MovementInform", "da/df0/a14770.html#aa24ae95cbe50f24abef4ab4ac30278b8", null ],
+    [ "Reset", "da/df0/a14770.html#a8f07a98ed21c3e362bec3c8d3bd5ea09", null ],
+    [ "UpdateAI", "da/df0/a14770.html#a26896dd5f3f2e0ca6251bd96f8199e10", null ],
+    [ "_creatureDying", "da/df0/a14770.html#a89dbaf8c1bba75369b978dd366806bb4", null ],
+    [ "_dying", "da/df0/a14770.html#a4ad80d1c623a86396d180bc6a6f14bb5", null ],
+    [ "_isEating", "da/df0/a14770.html#a331eb32e0713aee8d5a84ed32c72de12", null ],
+    [ "_scheduler", "da/df0/a14770.html#a121d3abe2854c5b798ee1eebdaea699f", null ]
 ];

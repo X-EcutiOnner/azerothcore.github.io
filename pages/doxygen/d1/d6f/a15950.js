@@ -1,17 +1,15 @@
 var a15950 =
 [
-    [ "boss_black_knightAI", "d1/d6f/a15950.html#a46c906dfeb367134885dc5248b50dbd0", null ],
-    [ "DamageTaken", "d1/d6f/a15950.html#a8a9b3f248f3d889b1804c387396d3054", null ],
-    [ "DoAction", "d1/d6f/a15950.html#a1b16dda892b2e6c94352cf13e6b961f4", null ],
-    [ "EnterEvadeMode", "d1/d6f/a15950.html#a77d1dc632828691fa07a543544bd266c", null ],
-    [ "JustDied", "d1/d6f/a15950.html#a3bb0698d0d66e4a26e25569f97ea720d", null ],
-    [ "JustSummoned", "d1/d6f/a15950.html#a58c32a4802a93755d7c8129c01901cdf", null ],
-    [ "KilledUnit", "d1/d6f/a15950.html#a01121270bc30a75630e5da96c9f61519", null ],
-    [ "Reset", "d1/d6f/a15950.html#ae67498247b9d631c4ca6af0acb1c76af", null ],
-    [ "SpellHitTarget", "d1/d6f/a15950.html#a718a51ec39cb9a10225a7bc76a069a3b", null ],
-    [ "UpdateAI", "d1/d6f/a15950.html#af8600ff24856d079df7e9c59f49850b2", null ],
-    [ "events", "d1/d6f/a15950.html#a189de3b3ef51c7870399a7a31503ae24", null ],
-    [ "Phase", "d1/d6f/a15950.html#ac25e3299bc9787d5bbad22263ebab235", null ],
-    [ "pInstance", "d1/d6f/a15950.html#acde711225a78e54d4bc1e0fde41e951d", null ],
-    [ "summons", "d1/d6f/a15950.html#a73e1c3688a853b70527e862efe05bc11", null ]
+    [ "npc_argent_soldierAI", "d1/d6f/a15950.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
+    [ "DamageTaken", "d1/d6f/a15950.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
+    [ "JustDied", "d1/d6f/a15950.html#aedf4dcd909c1009fedfde593522454ec", null ],
+    [ "JustEngagedWith", "d1/d6f/a15950.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
+    [ "Reset", "d1/d6f/a15950.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
+    [ "SetData", "d1/d6f/a15950.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
+    [ "UpdateAI", "d1/d6f/a15950.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
+    [ "WaypointReached", "d1/d6f/a15950.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
+    [ "bCheck", "d1/d6f/a15950.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
+    [ "events", "d1/d6f/a15950.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
+    [ "pInstance", "d1/d6f/a15950.html#ac9951514f27f343ae96e856f484e7baf", null ],
+    [ "uiWaypoint", "d1/d6f/a15950.html#a87382571221c608017fd2d4cb99193dc", null ]
 ];

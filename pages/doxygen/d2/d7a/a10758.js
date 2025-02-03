@@ -1,12 +1,12 @@
 var a10758 =
 [
-    [ "PacketLog", "d2/d7a/a10758.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
-    [ "~PacketLog", "d2/d7a/a10758.html#a595a42f9aaa94d6c46d185955df801e0", null ],
-    [ "CanLogPacket", "d2/d7a/a10758.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
-    [ "Initialize", "d2/d7a/a10758.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
-    [ "instance", "d2/d7a/a10758.html#a484418a51ca0bf150d17b23d97979bf4", null ],
-    [ "LogPacket", "d2/d7a/a10758.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
-    [ "_file", "d2/d7a/a10758.html#a03346a709f7586f6445e03b9a3b6af04", null ],
-    [ "_initializeFlag", "d2/d7a/a10758.html#a490cafe009f7b2ecb303a76c781f8960", null ],
-    [ "_logPacketLock", "d2/d7a/a10758.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
+    [ "Build", "d2/d7a/a10758.html#aa5ed2806342a36723f1317105ebc13fa", null ],
+    [ "FormatVersion", "d2/d7a/a10758.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
+    [ "Locale", "d2/d7a/a10758.html#acdcbe4c10ad6143b756638349c185ae5", null ],
+    [ "OptionalDataSize", "d2/d7a/a10758.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
+    [ "SessionKey", "d2/d7a/a10758.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
+    [ "Signature", "d2/d7a/a10758.html#a34b88d6d83daeee7827176993c152de4", null ],
+    [ "SnifferId", "d2/d7a/a10758.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
+    [ "SniffStartTicks", "d2/d7a/a10758.html#a1884076ea4fe5af08964471d0058fd4d", null ],
+    [ "SniffStartUnixtime", "d2/d7a/a10758.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
 ];

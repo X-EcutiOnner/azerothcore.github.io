@@ -1,6 +1,7 @@
 var a11226 =
 [
-    [ "FieldGuidType", "dc/dc7/a11226.html#a88e763ed9715ad76a0eb1c1a9ad7a59b", null ],
-    [ "FieldName", "dc/dc7/a11226.html#a669f1ecf12148799e59e7b3e3124d681", null ],
-    [ "IsDependentField", "dc/dc7/a11226.html#a241b9e8f5672e30732f0b938b02046d4", null ]
+    [ "PlayerGuid", "dc/dc7/a11226.html#a629a600c48376d04293c225390f747ff", null ],
+    [ "PrimaryKey", "dc/dc7/a11226.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
+    [ "StoredType", "dc/dc7/a11226.html#a9bea7cf549813010b55c23417d65edc6", null ],
+    [ "TableName", "dc/dc7/a11226.html#a0f308af88812c110c490c94368bda482", null ]
 ];

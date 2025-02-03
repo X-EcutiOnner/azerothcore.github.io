@@ -1,7 +1,9 @@
 var a10362 =
 [
-    [ "Flags", "d8/d78/a10362.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
-    [ "TabFlags", "d8/d78/a10362.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
-    [ "TabWithdrawItemLimit", "d8/d78/a10362.html#af16392abbddf27a8b21fd21d998501e6", null ],
-    [ "WithdrawGoldLimit", "d8/d78/a10362.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
+    [ "GuildInfoResponse", "d8/d78/a10362.html#a256cb81ad2e08050be99c9e1061c2009", null ],
+    [ "Write", "d8/d78/a10362.html#a3222d0018c9593400d3d01258b82371e", null ],
+    [ "CreateDate", "d8/d78/a10362.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
+    [ "GuildName", "d8/d78/a10362.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
+    [ "NumAccounts", "d8/d78/a10362.html#a21b42f1654aa10f7872d87635fea66ac", null ],
+    [ "NumMembers", "d8/d78/a10362.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
 ];

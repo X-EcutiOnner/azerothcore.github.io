@@ -1,8 +1,7 @@
 var a17082 =
 [
-    [ "OnApply", "d6/d52/a17082.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
-    [ "OnRemove", "d6/d52/a17082.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
-    [ "PrepareAuraScript", "d6/d52/a17082.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
-    [ "Register", "d6/d52/a17082.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
-    [ "Validate", "d6/d52/a17082.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
+    [ "PeriodicTick", "d6/d52/a17082.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
+    [ "PrepareAuraScript", "d6/d52/a17082.html#ac1abcbe62887678adad0194fdf27825a", null ],
+    [ "Register", "d6/d52/a17082.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
+    [ "Validate", "d6/d52/a17082.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
 ];

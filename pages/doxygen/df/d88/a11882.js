@@ -1,6 +1,6 @@
 var a11882 =
 [
-    [ "OrcDeathEvent", "df/d88/a11882.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
-    [ "Execute", "df/d88/a11882.html#a293ec6667da669a27fe75965f919cd68", null ],
-    [ "_me", "df/d88/a11882.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
+    [ "npc_rookery_hatcherAI", "d2/d0a/a11886.html", "d2/d0a/a11886" ],
+    [ "npc_rookery_hatcher", "df/d88/a11882.html#aa385f8a93384d4db9b92eecd1b152ce0", null ],
+    [ "GetAI", "df/d88/a11882.html#a76e27f10dd58ec15a8e8f9d579f1c176", null ]
 ];

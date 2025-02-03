@@ -1,5 +1,5 @@
 var a12698 =
 [
-    [ "go_inconspicuous_mine_car", "df/d4c/a12698.html#a34e941a813079b55f66bea15cffe8f42", null ],
-    [ "OnGossipHello", "df/d4c/a12698.html#a256a8f766dd045613c0c7159db9f74e0", null ]
+    [ "go_acherus_soul_prison", "df/d4c/a12698.html#a13c858f74080b8f7963fdacc4b554019", null ],
+    [ "OnGossipHello", "df/d4c/a12698.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
 ];

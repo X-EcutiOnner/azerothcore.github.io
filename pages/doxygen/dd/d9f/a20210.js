@@ -1,6 +1,5 @@
 var a20210 =
 [
-    [ "boss_razorscaleAI", "d9/d98/a20214.html", "d9/d98/a20214" ],
-    [ "boss_razorscale", "dd/d9f/a20210.html#ad8fe81f1b553414df3fa07c646029065", null ],
-    [ "GetAI", "dd/d9f/a20210.html#a01cf25d901a5eddae9ef3ea291020ba1", null ]
+    [ "npc_ulduar_rocket_strike_triggerAI", "dd/d9f/a20210.html#a6308129d11989dadf0a5948c4a268e4b", null ],
+    [ "SpellHitTarget", "dd/d9f/a20210.html#a3c254e16f62e7d2414d81062c91c2468", null ]
 ];

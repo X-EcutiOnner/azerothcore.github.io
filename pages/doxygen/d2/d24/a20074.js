@@ -1,5 +1,7 @@
 var a20074 =
 [
-    [ "achievement_kologarn_looks_could_kill", "d2/d24/a20074.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
-    [ "OnCheck", "d2/d24/a20074.html#a0e7be4fb00808fab9a231530822fc93d", null ]
+    [ "FilterTargetsInitial", "d2/d24/a20074.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "d2/d24/a20074.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "d2/d24/a20074.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "d2/d24/a20074.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

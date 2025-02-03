@@ -1,6 +1,7 @@
 var a16078 =
 [
-    [ "npc_toc_shamanAI", "d4/db8/a16082.html", "d4/db8/a16082" ],
-    [ "npc_toc_shaman", "da/da6/a16078.html#a26e3a539d8d918057e9f81b9ee83f17d", null ],
-    [ "GetAI", "da/da6/a16078.html#a7102a3aec6c229a04b617c562512bf29", null ]
+    [ "HandleEffectPeriodic", "da/da6/a16078.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "da/da6/a16078.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "da/da6/a16078.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "da/da6/a16078.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

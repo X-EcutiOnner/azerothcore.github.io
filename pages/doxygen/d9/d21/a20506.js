@@ -1,6 +1,14 @@
 var a20506 =
 [
-    [ "boss_yoggsaron_brainAI", "d9/d95/a20510.html", "d9/d95/a20510" ],
-    [ "boss_yoggsaron_brain", "d9/d21/a20506.html#a8094e2a062f06c5a954c1d3401ca18d4", null ],
-    [ "GetAI", "d9/d21/a20506.html#a02e6b07087765d75d0f49b864e2f323f", null ]
+    [ "boss_yoggsaron_cloudAI", "d9/d21/a20506.html#a6a13c31fb0649387ac411ed7ec2fb66a", null ],
+    [ "AttackStart", "d9/d21/a20506.html#a3ecf6a1c74780aa250be3f4e2dd04ea1", null ],
+    [ "DoAction", "d9/d21/a20506.html#a68caf08c015a0048be7858e435bbc84d", null ],
+    [ "InitWaypoint", "d9/d21/a20506.html#ae68d5d5f5c1edb74596761dccecb614d", null ],
+    [ "JustSummoned", "d9/d21/a20506.html#a70e74c2a1c19468e25edcc3d0e41df06", null ],
+    [ "MoveInLineOfSight", "d9/d21/a20506.html#a48fb6de45d47ab4fbe02da835056f4ce", null ],
+    [ "Reset", "d9/d21/a20506.html#adffbc99bb2fff0ce2082cd9e2d3608d7", null ],
+    [ "UpdateEscortAI", "d9/d21/a20506.html#a3661ecf52a93c7d769eaa9dcfa2ac202", null ],
+    [ "WaypointReached", "d9/d21/a20506.html#a3933d6c39c060db0da18d174e5b2e01a", null ],
+    [ "_checkTimer", "d9/d21/a20506.html#a883307a4134b269fb2bbe6efa371b945", null ],
+    [ "_isSummoning", "d9/d21/a20506.html#a118ccef4158c49bddf2b503f3a3090d0", null ]
 ];

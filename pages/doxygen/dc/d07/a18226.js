@@ -1,6 +1,6 @@
 var a18226 =
 [
-    [ "HandleScript", "dc/d07/a18226.html#a930b8a515b5d156c16925dc218cf8172", null ],
-    [ "PrepareSpellScript", "dc/d07/a18226.html#a892b0ba0f6541b3557a0200be5028479", null ],
-    [ "Register", "dc/d07/a18226.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
+    [ "npc_blistering_zombieAI", "d6/da9/a18230.html", "d6/da9/a18230" ],
+    [ "npc_blistering_zombie", "dc/d07/a18226.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
+    [ "GetAI", "dc/d07/a18226.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
 ];

@@ -1,11 +1,7 @@
 var a14370 =
 [
-    [ "npc_hyjal_ground_trash", "d1/d38/a14370.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
-    [ "AttackStart", "d1/d38/a14370.html#a0ab86d651644dcc579585176c2b5c07e", null ],
-    [ "DoAction", "d1/d38/a14370.html#aa92481bcf993c4eda5ef271145200d77", null ],
-    [ "GetNearbyFriendlyTrashCreature", "d1/d38/a14370.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
-    [ "JustEngagedWith", "d1/d38/a14370.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
-    [ "PathEndReached", "d1/d38/a14370.html#a035610284a56e690200f978b0fd496ab", null ],
-    [ "Reset", "d1/d38/a14370.html#aa38b45f63841c049a2add0a9832268ef", null ],
-    [ "UpdateAI", "d1/d38/a14370.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
+    [ "hyjalThrallAI", "df/d7a/a14374.html", "df/d7a/a14374" ],
+    [ "npc_hyjal_thrall", "d1/d38/a14370.html#a232f085f208a47f7fae08128de1d06b8", null ],
+    [ "GetAI", "d1/d38/a14370.html#a699b5df19e4e84166348ecfba2dd0172", null ],
+    [ "OnGossipSelect", "d1/d38/a14370.html#af833f26d79d34655c010aa04f984a94a", null ]
 ];

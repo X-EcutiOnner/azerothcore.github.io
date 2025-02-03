@@ -1,7 +1,6 @@
 var a21770 =
 [
-    [ "Absorb", "da/df4/a21770.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "da/df4/a21770.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "da/df4/a21770.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "da/df4/a21770.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "npc_boneguard_footmanAI", "da/df4/a21770.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "da/df4/a21770.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "da/df4/a21770.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

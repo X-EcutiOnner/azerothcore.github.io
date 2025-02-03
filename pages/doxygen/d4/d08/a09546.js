@@ -1,13 +1,8 @@
 var a09546 =
 [
-    [ "ParallelogramBoundary", "d4/d08/a09546.html#ace1e1ffbcb84343ca2641541fe000691", null ],
-    [ "IsWithinBoundaryArea", "d4/d08/a09546.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
-    [ "_a", "d4/d08/a09546.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
-    [ "_abx", "d4/d08/a09546.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
-    [ "_aby", "d4/d08/a09546.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
-    [ "_b", "d4/d08/a09546.html#a9d5d06cc3673f89644e45e62f96510db", null ],
-    [ "_c", "d4/d08/a09546.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
-    [ "_d", "d4/d08/a09546.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
-    [ "_dax", "d4/d08/a09546.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
-    [ "_day", "d4/d08/a09546.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
+    [ "CircleBoundary", "d4/d08/a09546.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
+    [ "CircleBoundary", "d4/d08/a09546.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
+    [ "IsWithinBoundaryArea", "d4/d08/a09546.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
+    [ "_center", "d4/d08/a09546.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
+    [ "_radiusSq", "d4/d08/a09546.html#acbb3cc0c546f0e557a48a45425355950", null ]
 ];

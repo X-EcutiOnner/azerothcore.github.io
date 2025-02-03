@@ -1,10 +1,11 @@
 var a10898 =
 [
-    [ "TriggeredByAuraSpellData", "d2/db6/a10898.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
-    [ "Init", "d2/db6/a10898.html#a782e0056967e006748318af3112c0e43", null ],
-    [ "operator bool", "d2/db6/a10898.html#a85d4782b76b060c172aaa6f914d400da", null ],
-    [ "operator!", "d2/db6/a10898.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
-    [ "effectIndex", "d2/db6/a10898.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
-    [ "spellInfo", "d2/db6/a10898.html#af58f62fb168e9da7011f7b570f08e977", null ],
-    [ "tickNumber", "d2/db6/a10898.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
+    [ "SpellValue", "d2/db6/a10898.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
+    [ "AuraDuration", "d2/db6/a10898.html#af44c190ba8a8636d78f8d271656bdd02", null ],
+    [ "AuraStackAmount", "d2/db6/a10898.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
+    [ "EffectBasePoints", "d2/db6/a10898.html#a4de44adea4dc620f0871215e4d4f611d", null ],
+    [ "ForcedCritResult", "d2/db6/a10898.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
+    [ "MaxAffectedTargets", "d2/db6/a10898.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
+    [ "MiscVal", "d2/db6/a10898.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
+    [ "RadiusMod", "d2/db6/a10898.html#a135bbce8300101411e87a70467dbbd57", null ]
 ];

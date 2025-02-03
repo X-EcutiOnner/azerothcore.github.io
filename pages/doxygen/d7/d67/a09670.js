@@ -1,12 +1,20 @@
 var a09670 =
 [
-    [ "TransportTemplate", "d7/d67/a09670.html#aef4781a37808827e3ceaffc782c3af1e", null ],
-    [ "~TransportTemplate", "d7/d67/a09670.html#afc385d824c171d13a184bc0a16121110", null ],
-    [ "accelDist", "d7/d67/a09670.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
-    [ "accelTime", "d7/d67/a09670.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
-    [ "entry", "d7/d67/a09670.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
-    [ "inInstance", "d7/d67/a09670.html#a971c84762c229b01cab656945f0c16de", null ],
-    [ "keyFrames", "d7/d67/a09670.html#ac714531f226ca06c3586cf3f6cc06808", null ],
-    [ "mapsUsed", "d7/d67/a09670.html#a93899b0648871ed8ca32dfe8394347c1", null ],
-    [ "pathTime", "d7/d67/a09670.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
+    [ "MapUpdater", "d7/d67/a09670.html#a96424fd90677e0f2d0908f9c25b58d04", null ],
+    [ "~MapUpdater", "d7/d67/a09670.html#aadb5781f6ab6ffd1410486399ccaa0ee", null ],
+    [ "activate", "d7/d67/a09670.html#a7a1362a9b916a0919f0fa6fcbf82ff22", null ],
+    [ "activated", "d7/d67/a09670.html#a9cd15656fd974278fa1d4ba30d6fcea8", null ],
+    [ "deactivate", "d7/d67/a09670.html#ab579ca346d4d19e16bd552ce84bd95b7", null ],
+    [ "schedule_lfg_update", "d7/d67/a09670.html#a4141350af5d8a86481a8e5f29f0ad7e2", null ],
+    [ "schedule_task", "d7/d67/a09670.html#a9a6a4c2260e0bb48e42b1a7d3216326b", null ],
+    [ "schedule_update", "d7/d67/a09670.html#aafda5775622dcce2e4869cf5d015fefc", null ],
+    [ "update_finished", "d7/d67/a09670.html#ab874c53de215037c8fae77f9dac6601c", null ],
+    [ "wait", "d7/d67/a09670.html#a608eb61de2bacf082422562b049e8652", null ],
+    [ "WorkerThread", "d7/d67/a09670.html#a3cce7e3bbab4e3e875dad9a549c142e8", null ],
+    [ "_cancelationToken", "d7/d67/a09670.html#a96c38c13ce5a71ce63ee0b83e83d5cfd", null ],
+    [ "_condition", "d7/d67/a09670.html#acf5b180bd52ae9244e0eda41bcc7573a", null ],
+    [ "_lock", "d7/d67/a09670.html#a0ed1652ffa76199e1e7d659b5c451549", null ],
+    [ "_queue", "d7/d67/a09670.html#afba30ac2a8ce0540b73f034b73ce5956", null ],
+    [ "_workerThreads", "d7/d67/a09670.html#a06a1943fe78ea8a5da2d4b0453748d90", null ],
+    [ "pending_requests", "d7/d67/a09670.html#aa5243a9d4d3753060570cecde9a3a6e7", null ]
 ];

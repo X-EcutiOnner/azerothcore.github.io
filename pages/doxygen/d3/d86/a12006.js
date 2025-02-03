@@ -1,7 +1,6 @@
 var a12006 =
 [
-    [ "boss_ebonrocAI", "d3/d86/a12006.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
-    [ "JustEngagedWith", "d3/d86/a12006.html#a2c74e0030b1093d79245978939043d53", null ],
-    [ "MovementInform", "d3/d86/a12006.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
-    [ "UpdateAI", "d3/d86/a12006.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
+    [ "go_chromaggus_leverAI", "dd/dbc/a12010.html", "dd/dbc/a12010" ],
+    [ "go_chromaggus_lever", "d3/d86/a12006.html#a88f8078cd5aa1863ca20c9b02a0e52d2", null ],
+    [ "GetAI", "d3/d86/a12006.html#ae307b36029147b8385b3c40878d1a3e4", null ]
 ];

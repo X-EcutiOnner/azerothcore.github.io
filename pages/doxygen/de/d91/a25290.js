@@ -1,6 +1,6 @@
 var a25290 =
 [
-    [ "HandleProc", "de/d91/a25290.html#a9a38fab6b581e9f9b4e092d7a4ecaebd", null ],
-    [ "PrepareAuraScript", "de/d91/a25290.html#a5299aaeacead013e00e81ec7960528f8", null ],
-    [ "Register", "de/d91/a25290.html#a3b46c5dd891d856e08cbcb9a494f2dd2", null ]
+    [ "OnRemove", "de/d91/a25290.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "de/d91/a25290.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "de/d91/a25290.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

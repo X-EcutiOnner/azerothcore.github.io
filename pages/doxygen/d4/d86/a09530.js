@@ -1,9 +1,16 @@
 var a09530 =
 [
-    [ "RectangleBoundary", "d4/d86/a09530.html#af401f84700a15fa1d4fcf78358a74735", null ],
-    [ "IsWithinBoundaryArea", "d4/d86/a09530.html#a2d6c735d080382263a401d91da37b934", null ],
-    [ "_maxX", "d4/d86/a09530.html#a3eff421dfe942634814e7526334f1c07", null ],
-    [ "_maxY", "d4/d86/a09530.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
-    [ "_minX", "d4/d86/a09530.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
-    [ "_minY", "d4/d86/a09530.html#af5a7e35d5d9ff23c722643141f01a916", null ]
+    [ "ServerMail", "d4/d86/a09530.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
+    [ "active", "d4/d86/a09530.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
+    [ "body", "d4/d86/a09530.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
+    [ "id", "d4/d86/a09530.html#a6b47994eff9201a6a75f8c621b64716c", null ],
+    [ "itemA", "d4/d86/a09530.html#a2d5232d5e111f5af7446940f92aaf9df", null ],
+    [ "itemCountA", "d4/d86/a09530.html#abb24673f0b21f715f3e112e232cec35b", null ],
+    [ "itemCountH", "d4/d86/a09530.html#ac9b6e655136616b040788c55d80706da", null ],
+    [ "itemH", "d4/d86/a09530.html#ab7dc4da9b86a39ecb5c28ec071f17112", null ],
+    [ "moneyA", "d4/d86/a09530.html#a6a84ca583beef891422f67bef7919c47", null ],
+    [ "moneyH", "d4/d86/a09530.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
+    [ "reqLevel", "d4/d86/a09530.html#a494ce9c800d1545b023b9ff526f8b994", null ],
+    [ "reqPlayTime", "d4/d86/a09530.html#abfa7c7fe76fd085fc8726dcba600e10e", null ],
+    [ "subject", "d4/d86/a09530.html#a246e499c69c57a436aac4c039ea37d31", null ]
 ];

@@ -1,6 +1,6 @@
 var a20878 =
 [
-    [ "CalculateAmount", "dc/d3e/a20878.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "dc/d3e/a20878.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "dc/d3e/a20878.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "boss_svalaAI", "de/de3/a20882.html", "de/de3/a20882" ],
+    [ "boss_svala", "dc/d3e/a20878.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "dc/d3e/a20878.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

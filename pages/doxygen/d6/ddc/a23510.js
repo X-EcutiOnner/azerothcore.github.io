@@ -1,5 +1,11 @@
 var a23510 =
 [
-    [ "npc_lord_sanguinar", "d6/ddc/a23510.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "d6/ddc/a23510.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "boss_high_astromancer_solarian", "d6/ddc/a23510.html#a2db48cc179539f81b55188de08a7e180", null ],
+    [ "AttackStart", "d6/ddc/a23510.html#acaf94134aef553447e766a5e431c8b83", null ],
+    [ "JustDied", "d6/ddc/a23510.html#a510eb2e4f0770670d6767bc2545375b7", null ],
+    [ "JustEngagedWith", "d6/ddc/a23510.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
+    [ "JustSummoned", "d6/ddc/a23510.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
+    [ "KilledUnit", "d6/ddc/a23510.html#a561a78193615575b7e43e0f21387f1b8", null ],
+    [ "Reset", "d6/ddc/a23510.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
+    [ "UpdateAI", "d6/ddc/a23510.html#a07a76c34a978c31212390cf10ed3e382", null ]
 ];

@@ -1,12 +1,10 @@
 var a22646 =
 [
-    [ "npc_creature_generator_akama", "d8/da7/a22646.html#a8e91cadea7f135ff692635e4d39923e0", null ],
-    [ "DoAction", "d8/da7/a22646.html#a01efeecd374056da287e4a1e468472b6", null ],
-    [ "JustSummoned", "d8/da7/a22646.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
-    [ "Reset", "d8/da7/a22646.html#a23cf08661802f247147bb23cff30eeab", null ],
-    [ "SummonedCreatureDies", "d8/da7/a22646.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
-    [ "UpdateAI", "d8/da7/a22646.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
-    [ "instance", "d8/da7/a22646.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
-    [ "spawnCounter", "d8/da7/a22646.html#a02d8acace195438fe6e8d4705a043078", null ],
-    [ "summons", "d8/da7/a22646.html#a3d532e607c48298ca0464ee630dd27b3", null ]
+    [ "CalculateAmount", "d8/da7/a22646.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "d8/da7/a22646.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "d8/da7/a22646.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "d8/da7/a22646.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "d8/da7/a22646.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "d8/da7/a22646.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "d8/da7/a22646.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

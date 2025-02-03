@@ -1,6 +1,6 @@
 var a22562 =
 [
-    [ "PrepareAuraScript", "da/d19/a22562.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
-    [ "Register", "da/d19/a22562.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
-    [ "Update", "da/d19/a22562.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
+    [ "HandleSharedRule", "da/d19/a22562.html#a94b783490dafae872b65e0bbfed156b9", null ],
+    [ "PrepareSpellScript", "da/d19/a22562.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
+    [ "Register", "da/d19/a22562.html#a31f2d90059e62da77a719a192d62328b", null ]
 ];

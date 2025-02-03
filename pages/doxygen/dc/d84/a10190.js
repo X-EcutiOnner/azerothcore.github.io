@@ -1,10 +1,10 @@
 var a10190 =
 [
-    [ "VehicleScript", "dc/d84/a10190.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
-    [ "OnAddPassenger", "dc/d84/a10190.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
-    [ "OnInstall", "dc/d84/a10190.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
-    [ "OnInstallAccessory", "dc/d84/a10190.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
-    [ "OnRemovePassenger", "dc/d84/a10190.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
-    [ "OnReset", "dc/d84/a10190.html#a38fca3fec8785f015084b832f9e3b08c", null ],
-    [ "OnUninstall", "dc/d84/a10190.html#a7d4bafe42756ee73b5ce79783842c243", null ]
+    [ "ArgsType", "dc/d84/a10190.html#a4ea4d3b165a196482ebe96af9c462658", null ],
+    [ "AuraScriptType", "dc/d84/a10190.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
+    [ "SpellScriptType", "dc/d84/a10190.html#a790a8ef2b59bfe6298486648858506ed", null ],
+    [ "GenericSpellAndAuraScriptLoader", "dc/d84/a10190.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
+    [ "GetAuraScript", "dc/d84/a10190.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
+    [ "GetSpellScript", "dc/d84/a10190.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
+    [ "_args", "dc/d84/a10190.html#aad6527f64ede0d896880ffa90d05a378", null ]
 ];

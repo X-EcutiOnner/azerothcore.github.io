@@ -1,6 +1,7 @@
 var a23846 =
 [
-    [ "npc_infernal_attackerAI", "dd/d51/a23850.html", "dd/d51/a23850" ],
-    [ "npc_infernal_attacker", "d8/ded/a23846.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d8/ded/a23846.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "CheckRequirement", "d8/ded/a23846.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "d8/ded/a23846.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "d8/ded/a23846.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "d8/ded/a23846.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

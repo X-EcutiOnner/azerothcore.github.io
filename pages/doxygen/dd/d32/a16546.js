@@ -1,12 +1,14 @@
 var a16546 =
 [
-    [ "npc_ghostly_priestAI", "dd/d32/a16546.html#abb6815d1395b68654eeb6ab8b4217388", null ],
-    [ "AttackStart", "dd/d32/a16546.html#a9719d1ad6e58b727bc1720cb815be3e9", null ],
-    [ "DoAction", "dd/d32/a16546.html#a89c991a1d4c07f1229436871f503c949", null ],
-    [ "EnterEvadeMode", "dd/d32/a16546.html#ab8fd2df32ef12f5f648b8af9abcc3201", null ],
-    [ "JustDied", "dd/d32/a16546.html#a004e8aec05741b9ee36b0695840e6c2a", null ],
-    [ "JustEngagedWith", "dd/d32/a16546.html#a780d530e224ca1f72e26db17cd57f44a", null ],
-    [ "Reset", "dd/d32/a16546.html#ab8f7559110be76633153842e0714554a", null ],
-    [ "UpdateAI", "dd/d32/a16546.html#ab431f451963d0b608f11129934496700", null ],
-    [ "events", "dd/d32/a16546.html#a9b49c143b5a29b4f9b4ce34ce0aecca7", null ]
+    [ "boss_marwynAI", "dd/d32/a16546.html#abfc074b89e4edcf461c4df4d00c90856", null ],
+    [ "DoAction", "dd/d32/a16546.html#adc68f202aa2e78bd3a7969bfddcce710", null ],
+    [ "EnterEvadeMode", "dd/d32/a16546.html#acb0b5675c2ff9f614ddafd88ff96e62e", null ],
+    [ "JustDied", "dd/d32/a16546.html#a11f64dbf0333c212584d441d4b719d9c", null ],
+    [ "JustEngagedWith", "dd/d32/a16546.html#ae7509cf8b3b93e97b2e617c1ac181c87", null ],
+    [ "KilledUnit", "dd/d32/a16546.html#a43b40959a22a1767c1c717f5bf7200ad", null ],
+    [ "Reset", "dd/d32/a16546.html#a7433e7ed2007ccde768e1e15640ac99d", null ],
+    [ "UpdateAI", "dd/d32/a16546.html#abaa8f609099423c9d8db5b93f2dd411e", null ],
+    [ "events", "dd/d32/a16546.html#a87c1f1785612cfd42667bd635ce16f2a", null ],
+    [ "pInstance", "dd/d32/a16546.html#a524e6c4145851d67edfdc0d9cb5b2e7c", null ],
+    [ "startFightTimer", "dd/d32/a16546.html#a2a1d7531025f136e368fc7d2b4c0d163", null ]
 ];

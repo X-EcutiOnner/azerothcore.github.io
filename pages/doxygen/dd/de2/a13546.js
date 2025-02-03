@@ -1,16 +1,15 @@
 var a13546 =
 [
-    [ "boss_zuljin", "dd/de2/a13546.html#a8acdf347d7f982c07614c89a101daae0", null ],
-    [ "EnterEvadeMode", "dd/de2/a13546.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
-    [ "EnterPhase", "dd/de2/a13546.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
-    [ "GetGUID", "dd/de2/a13546.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
-    [ "JustDied", "dd/de2/a13546.html#a2e00e8311c0463a37de87668882ffeec", null ],
-    [ "JustEngagedWith", "dd/de2/a13546.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
-    [ "KilledUnit", "dd/de2/a13546.html#adf220cb760b77cfd09ed746705529064", null ],
-    [ "MovementInform", "dd/de2/a13546.html#a61501941861f8838392fc8cdbe59feff", null ],
-    [ "Reset", "dd/de2/a13546.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
-    [ "SpawnAdds", "dd/de2/a13546.html#a83eb0799a25f19eedddd96e609134778", null ],
-    [ "SpellHitTarget", "dd/de2/a13546.html#aab3558edc5b90be23040077d88e21725", null ],
-    [ "_chargeTargetGUID", "dd/de2/a13546.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
-    [ "_nextPhase", "dd/de2/a13546.html#a4fc9983cb34313affa56c243a4164a4a", null ]
+    [ "npc_janalai_hatcher", "dd/de2/a13546.html#a337e21f5a014d0f9d7a1f614b7245f36", null ],
+    [ "AttackStart", "dd/de2/a13546.html#a5a7826964349ed9adbbdeb7c733dd915", null ],
+    [ "JustEngagedWith", "dd/de2/a13546.html#a54c251278dcfa22052b6c6e49a4abd89", null ],
+    [ "MoveInLineOfSight", "dd/de2/a13546.html#a4ae2157e37bb93b7465e029e526a6ce4", null ],
+    [ "MovementInform", "dd/de2/a13546.html#a3a0170bc53f9f8f96090e34097b90c2c", null ],
+    [ "MoveToNewWaypoint", "dd/de2/a13546.html#ab775a888ae1002eed3ed548ab89ca2e4", null ],
+    [ "Reset", "dd/de2/a13546.html#ab1c3945160c55b2b2d63763eacced473", null ],
+    [ "UpdateAI", "dd/de2/a13546.html#ab5cc0c5f73593128b6d6e023aa4ce609", null ],
+    [ "_isHatching", "dd/de2/a13546.html#aae712db69c870d00d07a37b8611ecaf4", null ],
+    [ "_repeatCount", "dd/de2/a13546.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12", null ],
+    [ "_side", "dd/de2/a13546.html#a177ddd5ff96902363ab708f0c737fc20", null ],
+    [ "_waypoint", "dd/de2/a13546.html#ab39ab27d8057b52b77637faefd48e8e6", null ]
 ];

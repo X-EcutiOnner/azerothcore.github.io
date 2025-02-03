@@ -1,6 +1,5 @@
 var a19458 =
 [
-    [ "boss_runemaster_molgeimAI", "d7/d58/a19462.html", "d7/d58/a19462" ],
-    [ "boss_runemaster_molgeim", "dc/d3f/a19458.html#a440e4e43b941ac2b956c7c586a95f991", null ],
-    [ "GetAI", "dc/d3f/a19458.html#a080e70913be1e6ad9521bab5b90a92a6", null ]
+    [ "achievement_algalon_he_feeds_on_your_tears", "dc/d3f/a19458.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
+    [ "OnCheck", "dc/d3f/a19458.html#affea33614581545c65513bfe533d7246", null ]
 ];

@@ -1,7 +1,7 @@
 var a15106 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "d0/d36/a15106.html#aaed19d0c915891d8afecda7df75a8a75", null ],
-    [ "JustRespawned", "d0/d36/a15106.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
-    [ "MoveInLineOfSight", "d0/d36/a15106.html#a295d4bef97b97c7deb31a81274f0818d", null ],
-    [ "SpellHit", "d0/d36/a15106.html#a021b82aa6bd2e118fe810f18349fda42", null ]
+    [ "npc_tharnarianAI", "d0/ddd/a15110.html", "d0/ddd/a15110" ],
+    [ "npc_tharnarian", "d0/d36/a15106.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "d0/d36/a15106.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "d0/d36/a15106.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
 ];

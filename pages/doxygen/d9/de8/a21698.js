@@ -1,9 +1,6 @@
 var a21698 =
 [
-    [ "npc_Apothecary_HanesAI", "d9/de8/a21698.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
-    [ "JustDied", "d9/de8/a21698.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
-    [ "Reset", "d9/de8/a21698.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
-    [ "UpdateEscortAI", "d9/de8/a21698.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
-    [ "WaypointReached", "d9/de8/a21698.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
-    [ "PotTimer", "d9/de8/a21698.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
+    [ "npc_attracted_reef_bullAI", "dc/deb/a21702.html", "dc/deb/a21702" ],
+    [ "npc_attracted_reef_bull", "d9/de8/a21698.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
+    [ "GetAI", "d9/de8/a21698.html#af705e2768cd41c955af7f944c670ac85", null ]
 ];

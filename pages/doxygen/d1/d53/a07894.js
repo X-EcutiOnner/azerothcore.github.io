@@ -1,4 +1,5 @@
 var a07894 =
 [
-    [ "ItemEntry", "d1/d53/a07894.html#aa941274a50c076189d0957120ca25e5e", null ]
+    [ "Name", "d1/d53/a07894.html#aa971d38e5169f2b7b610cf6cf0aec928", null ],
+    [ "Title", "d1/d53/a07894.html#a344cbaef4846d4c9c76e1d783dd2b4fc", null ]
 ];

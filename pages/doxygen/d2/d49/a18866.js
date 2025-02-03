@@ -1,8 +1,6 @@
 var a18866 =
 [
-    [ "HandleDamage", "d2/d49/a18866.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
-    [ "HandleTargets", "d2/d49/a18866.html#ac36e689bad93aa17738f390680764a7e", null ],
-    [ "PrepareSpellScript", "d2/d49/a18866.html#a149db071722ce12cded16087c8eec1df", null ],
-    [ "Register", "d2/d49/a18866.html#abd073f34a414fab7ee23ee933863f1c7", null ],
-    [ "Validate", "d2/d49/a18866.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
+    [ "FilterTargets", "d2/d49/a18866.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
+    [ "PrepareSpellScript", "d2/d49/a18866.html#a452937a4e95b40366f915213ec475a84", null ],
+    [ "Register", "d2/d49/a18866.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
 ];

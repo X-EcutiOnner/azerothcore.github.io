@@ -1,7 +1,7 @@
 var a21570 =
 [
-    [ "npc_emilyAI", "d0/d5f/a21574.html", "d0/d5f/a21574" ],
-    [ "npc_emily", "d9/d1a/a21570.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "d9/d1a/a21570.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "d9/d1a/a21570.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "HandleDummy", "d9/d1a/a21570.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
+    [ "PrepareSpellScript", "d9/d1a/a21570.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
+    [ "Register", "d9/d1a/a21570.html#a45f80e0436f93a597deb4653852df6a1", null ],
+    [ "Validate", "d9/d1a/a21570.html#ad13fdade1fb7455485bfd68687de53c5", null ]
 ];

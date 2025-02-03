@@ -1,6 +1,6 @@
 var a26490 =
 [
-    [ "FilterTargets", "da/d55/a26490.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
-    [ "PrepareSpellScript", "da/d55/a26490.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
-    [ "Register", "da/d55/a26490.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
+    [ "HandleBanish", "da/d55/a26490.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
+    [ "PrepareSpellScript", "da/d55/a26490.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
+    [ "Register", "da/d55/a26490.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
 ];

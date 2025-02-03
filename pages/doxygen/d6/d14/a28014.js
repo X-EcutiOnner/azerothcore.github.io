@@ -1,7 +1,4 @@
 var a28014 =
 [
-    [ "Flags", "d6/d14/a28014.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "d6/d14/a28014.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "d6/d14/a28014.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "d6/d14/a28014.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "Id", "d6/d14/a28014.html#aebb809589854147a8a521263968ed6d9", null ]
 ];

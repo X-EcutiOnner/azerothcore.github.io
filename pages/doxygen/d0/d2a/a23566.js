@@ -1,6 +1,6 @@
 var a23566 =
 [
-    [ "HandleScriptEffect", "d0/d2a/a23566.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
-    [ "PrepareSpellScript", "d0/d2a/a23566.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
-    [ "Register", "d0/d2a/a23566.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
+    [ "lapseTeleport", "d0/d2a/a23566.html#a55c4330397214bf3a43628b3067d4634", null ],
+    [ "Execute", "d0/d2a/a23566.html#a122023ed13fce2f5bb3721e459964443", null ],
+    [ "_owner", "d0/d2a/a23566.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
 ];

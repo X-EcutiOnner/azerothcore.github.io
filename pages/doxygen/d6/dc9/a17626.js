@@ -1,8 +1,7 @@
 var a17626 =
 [
-    [ "HandleScript", "d6/dc9/a17626.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "d6/dc9/a17626.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "d6/dc9/a17626.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "d6/dc9/a17626.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "d6/dc9/a17626.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "CheckRequirement", "d6/dc9/a17626.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
+    [ "CheckRequirementInternal", "d6/dc9/a17626.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
+    [ "PrepareSpellScript", "d6/dc9/a17626.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
+    [ "Register", "d6/dc9/a17626.html#a95a250aeb3a41922c529f476d39f18e4", null ]
 ];

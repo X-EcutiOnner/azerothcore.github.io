@@ -1,7 +1,7 @@
 var a01058 =
 [
-    [ "AuraEffect", "d1/d17/a10850.html", "d1/d17/a10850" ],
-    [ "Acore::AbsorbAuraOrderPred", "d7/dfc/a10854.html", "d7/dfc/a10854" ],
+    [ "AuraEffect", "d1/dfa/a10862.html", "d1/dfa/a10862" ],
+    [ "Acore::AbsorbAuraOrderPred", "db/d3b/a10866.html", "db/d3b/a10866" ],
     [ "pAuraEffectHandler", "d5/d4c/a01058.html#a9e98d9a1c1cc41922f386b184fd7ce67", null ],
     [ "BrewfestEntries", "d5/d4c/a01058.html#a4ee83f582e4ebba3a5aea9ab1a5c9354", [
       [ "BREWFEST_KODO", "d5/d4c/a01058.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5", null ],

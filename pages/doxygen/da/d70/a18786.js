@@ -1,6 +1,7 @@
 var a18786 =
 [
-    [ "boss_maexxnaAI", "df/d26/a18790.html", "df/d26/a18790" ],
-    [ "boss_maexxna", "da/d70/a18786.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "da/d70/a18786.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "FilterTargets", "da/d70/a18786.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "da/d70/a18786.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "da/d70/a18786.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "da/d70/a18786.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

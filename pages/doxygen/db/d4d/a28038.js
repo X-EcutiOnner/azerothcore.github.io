@@ -1,5 +1,7 @@
 var a28038 =
 [
-    [ "HasMissile", "db/d4d/a28038.html#af8f9e79164ee3c7a617f63552bb23816", null ],
-    [ "MissileModel", "db/d4d/a28038.html#ae9ab544537448113f628c22ed8c91a27", null ]
+    [ "ID", "db/d4d/a28038.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
+    [ "RadiusMax", "db/d4d/a28038.html#ab82c1acb9309b17104958182d80b01d1", null ],
+    [ "RadiusMin", "db/d4d/a28038.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
+    [ "RadiusPerLevel", "db/d4d/a28038.html#a74bb59afb808af45ceff6367468fca1e", null ]
 ];

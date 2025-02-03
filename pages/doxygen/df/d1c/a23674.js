@@ -1,6 +1,7 @@
 var a23674 =
 [
-    [ "npc_simon_bunnyAI", "d4/d77/a23678.html", "d4/d77/a23678" ],
-    [ "npc_simon_bunny", "df/d1c/a23674.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
-    [ "GetAI", "df/d1c/a23674.html#ac0c97609916321a1599c0722803a050f", null ]
+    [ "OnPeriodic", "df/d1c/a23674.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "df/d1c/a23674.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "df/d1c/a23674.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "df/d1c/a23674.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

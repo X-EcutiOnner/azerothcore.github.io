@@ -1,7 +1,6 @@
 var a12822 =
 [
-    [ "HandleScript", "d0/d70/a12822.html#a6ce169d6c1b106195f787b52ea433311", null ],
-    [ "PrepareSpellScript", "d0/d70/a12822.html#a4f71583df2193274365944e6d228247c", null ],
-    [ "Register", "d0/d70/a12822.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
-    [ "Validate", "d0/d70/a12822.html#a51025308f88001f1f66d7f68f174f325", null ]
+    [ "npc_risen_guardianAI", "de/d69/a12826.html", "de/d69/a12826" ],
+    [ "npc_risen_guardian", "d0/d70/a12822.html#a472274c69abe912f5781c60911204eb5", null ],
+    [ "GetAI", "d0/d70/a12822.html#a568f57a442adcd64c8c3d2e4d5df729f", null ]
 ];

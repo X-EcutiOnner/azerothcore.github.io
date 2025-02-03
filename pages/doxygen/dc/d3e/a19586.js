@@ -1,6 +1,5 @@
 var a19586 =
 [
-    [ "npc_mimirons_infernoAI", "d5/db3/a19590.html", "d5/db3/a19590" ],
-    [ "npc_mimirons_inferno", "dc/d3e/a19586.html#a7a531a65a179b5d56c888c055b72d269", null ],
-    [ "GetAI", "dc/d3e/a19586.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
+    [ "boss_flame_leviathan_overload_deviceAI", "dc/d3e/a19586.html#ab28c1371c20672e717f92fbc3656fb99", null ],
+    [ "OnSpellClick", "dc/d3e/a19586.html#af432be27e1b91ecf5a5a53c7b6add39e", null ]
 ];

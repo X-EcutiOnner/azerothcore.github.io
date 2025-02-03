@@ -1,13 +1,17 @@
 var a12478 =
 [
-    [ "boss_crone", "dd/d4f/a12478.html#a710bdf6fac05be54cf10e40cd661c837", null ],
-    [ "EnterEvadeMode", "dd/d4f/a12478.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
-    [ "JustDied", "dd/d4f/a12478.html#a545de2a25b48590d11896c41b6e94df0", null ],
-    [ "JustEngagedWith", "dd/d4f/a12478.html#a9801cd39667d1a08770820bd17beac00", null ],
-    [ "JustReachedHome", "dd/d4f/a12478.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
-    [ "KilledUnit", "dd/d4f/a12478.html#ae4d343636955589d740d1df4e21fba99", null ],
-    [ "Reset", "dd/d4f/a12478.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
-    [ "UpdateAI", "dd/d4f/a12478.html#a8bd505acd55ca5292d29c96916a461e5", null ],
-    [ "_scheduler", "dd/d4f/a12478.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
-    [ "instance", "dd/d4f/a12478.html#a3795fe3185005693ed9bba49177bb35a", null ]
+    [ "boss_dorothee", "dd/d4f/a12478.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
+    [ "DoAction", "dd/d4f/a12478.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
+    [ "EnterEvadeMode", "dd/d4f/a12478.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
+    [ "JustDied", "dd/d4f/a12478.html#a289dfa1f257ca25acba9487908e6223c", null ],
+    [ "JustEngagedWith", "dd/d4f/a12478.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
+    [ "JustReachedHome", "dd/d4f/a12478.html#a762209d2bf78cc21c48a426732f2354e", null ],
+    [ "Reset", "dd/d4f/a12478.html#ae3f123a6a9223b7928295812326b0cb4", null ],
+    [ "SummonedCreatureDies", "dd/d4f/a12478.html#a0e76c828a1c7c49741963b6e98003a66", null ],
+    [ "SummonTito", "dd/d4f/a12478.html#a5c04074aab40ecaeeb84b33205b40144", null ],
+    [ "UpdateAI", "dd/d4f/a12478.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
+    [ "_scheduler", "dd/d4f/a12478.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
+    [ "_startIntro", "dd/d4f/a12478.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
+    [ "instance", "dd/d4f/a12478.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
+    [ "titoDied", "dd/d4f/a12478.html#a258cc9ce32f314e723d5345ac18336bf", null ]
 ];

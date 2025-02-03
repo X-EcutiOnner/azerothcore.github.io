@@ -1,6 +1,6 @@
 var a12586 =
 [
-    [ "boss_garaxxas", "d5/d48/a12586.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "d5/d48/a12586.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "d5/d48/a12586.html#a56e6489ce49971cb066444888355626e", null ]
+    [ "boss_kagani_nightstrike", "d5/d48/a12586.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
+    [ "JustEngagedWith", "d5/d48/a12586.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
+    [ "MovementInform", "d5/d48/a12586.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
 ];

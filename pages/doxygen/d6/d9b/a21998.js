@@ -1,8 +1,6 @@
 var a21998 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "d6/d9b/a21998.html#a30794392a32b1323fb0a86615b341741", null ],
-    [ "PassengerBoarded", "d6/d9b/a21998.html#acb699d519bf79702a34b7d9910fe7c9e", null ],
-    [ "UpdateAI", "d6/d9b/a21998.html#afd2168f8dc7328898f5e769c31c6da5a", null ],
-    [ "_accessoryRespawnTimer", "d6/d9b/a21998.html#a4c6b4236bf35278d05c4b78f1eda6b75", null ],
-    [ "_vehicleKit", "d6/d9b/a21998.html#aba68a138ef44af7d012c8c7dd4c06c6d", null ]
+    [ "npc_freed_protodrakeAI", "d5/def/a22002.html", "d5/def/a22002" ],
+    [ "npc_freed_protodrake", "d6/d9b/a21998.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "d6/d9b/a21998.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

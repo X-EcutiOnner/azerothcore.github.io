@@ -1,11 +1,10 @@
 var a10334 =
 [
-    [ "BackgroundColor", "d9/d14/a10334.html#abab86dd497de86088873178bf1d54b5b", null ],
-    [ "BorderColor", "d9/d14/a10334.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
-    [ "BorderStyle", "d9/d14/a10334.html#acd5105c31e0f56e680f3384e86186872", null ],
-    [ "EmblemColor", "d9/d14/a10334.html#a2e8a4768292d3566bb61009056a8a230", null ],
-    [ "EmblemStyle", "d9/d14/a10334.html#aa6309467f9f09725a8698de864b4e63c", null ],
-    [ "GuildName", "d9/d14/a10334.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
-    [ "RankCount", "d9/d14/a10334.html#acddb77850a86348df197afc724c4eaa0", null ],
-    [ "Ranks", "d9/d14/a10334.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
+    [ "EnvironmentalDamageLog", "d9/d14/a10334.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
+    [ "Write", "d9/d14/a10334.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
+    [ "Absorbed", "d9/d14/a10334.html#a443df04be3afe2021532716140ffb099", null ],
+    [ "Amount", "d9/d14/a10334.html#a073e22176d44f5806313c2a4bd3e263a", null ],
+    [ "Resisted", "d9/d14/a10334.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
+    [ "Type", "d9/d14/a10334.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
+    [ "Victim", "d9/d14/a10334.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
 ];

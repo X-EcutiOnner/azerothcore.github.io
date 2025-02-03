@@ -1,6 +1,7 @@
 var a18094 =
 [
-    [ "npc_lk_spirit_bombAI", "d4/d57/a18098.html", "d4/d57/a18098" ],
-    [ "npc_lk_spirit_bomb", "d5/dba/a18094.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "d5/dba/a18094.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "HandleProc", "d5/dba/a18094.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "d5/dba/a18094.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "d5/dba/a18094.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "d5/dba/a18094.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

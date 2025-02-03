@@ -1,7 +1,9 @@
 var a21902 =
 [
-    [ "HandleSendEvent", "db/d5c/a21902.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "db/d5c/a21902.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "db/d5c/a21902.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "db/d5c/a21902.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "npc_engineer_heliceAI", "db/d5c/a21902.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "db/d5c/a21902.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "db/d5c/a21902.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "db/d5c/a21902.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "db/d5c/a21902.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "m_uiChatTimer", "db/d5c/a21902.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

@@ -1,6 +1,6 @@
 var a19718 =
 [
-    [ "boss_freyaAI", "d5/d8d/a19722.html", "d5/d8d/a19722" ],
-    [ "boss_freya", "d2/dbb/a19718.html#ae366f60526e7c948dee148cdd12f0752", null ],
-    [ "GetAI", "d2/dbb/a19718.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
+    [ "CheckCast", "d2/dbb/a19718.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "d2/dbb/a19718.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "d2/dbb/a19718.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

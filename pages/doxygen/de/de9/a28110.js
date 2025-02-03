@@ -1,7 +1,9 @@
 var a28110 =
 [
-    [ "TalentSpellPos", "de/de9/a28110.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
-    [ "TalentSpellPos", "de/de9/a28110.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
-    [ "rank", "de/de9/a28110.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
-    [ "talent_id", "de/de9/a28110.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
+    [ "TimeSeg", "de/de9/a28110.html#a16782e722a5bada41691841fe594b7a6", null ],
+    [ "TransportEntry", "de/de9/a28110.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
+    [ "W", "de/de9/a28110.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
+    [ "X", "de/de9/a28110.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
+    [ "Y", "de/de9/a28110.html#a7f0ff898e752e2e904ebee1412643df6", null ],
+    [ "Z", "de/de9/a28110.html#a87647d71a965e80154ca36dc05421585", null ]
 ];

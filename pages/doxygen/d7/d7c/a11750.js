@@ -1,7 +1,7 @@
 var a11750 =
 [
-    [ "boss_okthorAI", "d7/d7c/a11750.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
-    [ "JustEngagedWith", "d7/d7c/a11750.html#a466a618e52f40e04e873dd50f3728755", null ],
-    [ "UpdateAI", "d7/d7c/a11750.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
-    [ "nextArcaneExplosionTime", "d7/d7c/a11750.html#a89d8cdd528775ee77caeac1d0465d4f2", null ]
+    [ "boss_moira_bronzebeardAI", "d7/d7c/a11750.html#a11265b6aad76574c2c76253128c79165", null ],
+    [ "CastOnEmperorIfPossible", "d7/d7c/a11750.html#a3f42c37e9f4cc14974106bf67ee4e583", null ],
+    [ "JustEngagedWith", "d7/d7c/a11750.html#a40ae00eb86e2bec048a9394d4deef106", null ],
+    [ "UpdateAI", "d7/d7c/a11750.html#ae3f22a059330fb564cd30e581fc0198d", null ]
 ];

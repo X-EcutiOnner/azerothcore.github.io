@@ -1,6 +1,11 @@
 var a23198 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "dd/d80/a23202.html", "dd/d80/a23202" ],
-    [ "instance_gruuls_lair", "d1/d36/a23198.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "d1/d36/a23198.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "boss_high_king_maulgar", "d1/d36/a23198.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
+    [ "DoAction", "d1/d36/a23198.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
+    [ "JustDied", "d1/d36/a23198.html#ad235febd755745313b72394c633c3723", null ],
+    [ "JustEngagedWith", "d1/d36/a23198.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
+    [ "KilledUnit", "d1/d36/a23198.html#a2059016597039929103c053d6524ebf7", null ],
+    [ "Reset", "d1/d36/a23198.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
+    [ "UpdateAI", "d1/d36/a23198.html#ae540909dbbb3cf93e37503cd755c3001", null ],
+    [ "_recentlySpoken", "d1/d36/a23198.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
 ];

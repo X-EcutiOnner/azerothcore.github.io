@@ -1,6 +1,6 @@
 var a22546 =
 [
-    [ "HandleScriptEffect", "de/d5a/a22546.html#aeafb2893534c8e188bbb519b6c7a0113", null ],
-    [ "PrepareSpellScript", "de/d5a/a22546.html#a6caaa93244719d7fc8c3f28280a3c1c5", null ],
-    [ "Register", "de/d5a/a22546.html#a99e2243ca4372eab1a742f8979d61334", null ]
+    [ "CalculateAmount", "de/d5a/a22546.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
+    [ "PrepareAuraScript", "de/d5a/a22546.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
+    [ "Register", "de/d5a/a22546.html#a0d2e97463f268892965e307628aaa931", null ]
 ];

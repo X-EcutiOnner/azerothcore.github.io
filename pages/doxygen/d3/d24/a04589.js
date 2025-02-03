@@ -1,24 +1,10 @@
 var a04589 =
 [
-    [ "MMAP::MeshData", "de/dfe/a28374.html", "de/dfe/a28374" ],
-    [ "MMAP::TerrainBuilder", "d8/de3/a28378.html", "d8/de3/a28378" ],
-    [ "Grid", "d3/d24/a04589.html#a6ddcf7a168396ad1ecedfc4e5fe04c09", [
-      [ "GRID_V8", "d3/d24/a04589.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a1b3d969edeab4d39be8a3a59ebca6e0b", null ],
-      [ "GRID_V9", "d3/d24/a04589.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a90e846a47ab162703bf2dc5664a61289", null ]
-    ] ],
-    [ "Spot", "d3/d24/a04589.html#aa0140172b3856ff5a4e0db0227a41165", [
-      [ "TOP", "d3/d24/a04589.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1", null ],
-      [ "RIGHT", "d3/d24/a04589.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e", null ],
-      [ "LEFT", "d3/d24/a04589.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b", null ],
-      [ "BOTTOM", "d3/d24/a04589.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04", null ],
-      [ "ENTIRE", "d3/d24/a04589.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12", null ]
-    ] ],
-    [ "GRID_PART_SIZE", "d3/d24/a04589.html#a39bc2d4fa649e77addef85b06c49b369", null ],
-    [ "GRID_SIZE", "d3/d24/a04589.html#a16e4fdf7de4239156a5a8eb83dcc9e8c", null ],
-    [ "INVALID_MAP_LIQ_HEIGHT", "d3/d24/a04589.html#a44bbf7085ddd1deacaae673ea4ec357c", null ],
-    [ "INVALID_MAP_LIQ_HEIGHT_MAX", "d3/d24/a04589.html#a26a6da9ce81eb096651bf47cb90f947f", null ],
-    [ "V8_SIZE", "d3/d24/a04589.html#a6918d13eba00db309998162fbff2fb7c", null ],
-    [ "V8_SIZE_SQ", "d3/d24/a04589.html#a94a0ee7c4f225dfc488737a7ba825bae", null ],
-    [ "V9_SIZE", "d3/d24/a04589.html#a32c90e1638c0f8693e2fc95201d2ec3f", null ],
-    [ "V9_SIZE_SQ", "d3/d24/a04589.html#a7eb8c24e8759cfd1ebd37b1efc72618b", null ]
+    [ "MMAP::MapTiles", "d8/de3/a28378.html", "d8/de3/a28378" ],
+    [ "MMAP::Tile", "d0/d06/a28382.html", "d0/d06/a28382" ],
+    [ "MMAP::TileConfig", "da/d36/a28386.html", "da/d36/a28386" ],
+    [ "MMAP::TileInfo", "d2/d58/a28390.html", "d2/d58/a28390" ],
+    [ "MMAP::TileBuilder", "de/da5/a28394.html", "de/da5/a28394" ],
+    [ "MMAP::MapBuilder", "d5/d9c/a28398.html", "d5/d9c/a28398" ],
+    [ "TileList", "d3/d24/a04589.html#aa2aae6f254337f29866a5d240d5ec2b1", null ]
 ];

@@ -1,13 +1,6 @@
 var a15210 =
 [
-    [ "npc_shenthulAI", "d8/df1/a15210.html#ae056474022c27be5565bf018a1b56f0b", null ],
-    [ "JustEngagedWith", "d8/df1/a15210.html#acb202ef530bc11ea807f580ff5dfc621", null ],
-    [ "ReceiveEmote", "d8/df1/a15210.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
-    [ "Reset", "d8/df1/a15210.html#af077e96eb8bf89af2d6eb79907444a17", null ],
-    [ "UpdateAI", "d8/df1/a15210.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
-    [ "CanEmote", "d8/df1/a15210.html#a920209c374e611e96347d209337c044f", null ],
-    [ "CanTalk", "d8/df1/a15210.html#a82ea8d2ee50538135add120be7616f86", null ],
-    [ "PlayerGUID", "d8/df1/a15210.html#a4b262388aca789d19231426a8cb73379", null ],
-    [ "ResetTimer", "d8/df1/a15210.html#a475a141d639f0136ac943e6afb1ecd15", null ],
-    [ "SaluteTimer", "d8/df1/a15210.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
+    [ "npc_omenAI", "d5/deb/a15214.html", "d5/deb/a15214" ],
+    [ "npc_omen", "d8/df1/a15210.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d8/df1/a15210.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

@@ -1,5 +1,5 @@
 var a10078 =
 [
-    [ "GenericCreatureScript", "d6/dd8/a10078.html#a52157430320e253a5897612623eb796c", null ],
-    [ "GetAI", "d6/dd8/a10078.html#a9e8eb28ece41af0c4159710c6eb51395", null ]
+    [ "CommandScript", "d6/dd8/a10078.html#afb9ef0145bb5eedee7fd61609868ba20", null ],
+    [ "GetCommands", "d6/dd8/a10078.html#a97dc7d00b78e0030ba2a950d23b2ebd2", null ]
 ];

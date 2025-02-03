@@ -1,8 +1,7 @@
 var a18038 =
 [
-    [ "Load", "d9/db1/a18038.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
-    [ "OnRemove", "d9/db1/a18038.html#a43b23e5c53cca872a26737d790f2893d", null ],
-    [ "PrepareAuraScript", "d9/db1/a18038.html#ae51bcb37894240c6fd064cd329698a55", null ],
-    [ "Register", "d9/db1/a18038.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
-    [ "Validate", "d9/db1/a18038.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
+    [ "PrepareSpellScript", "d9/db1/a18038.html#a3283e829757b50bb52f66ee1e64033ae", null ],
+    [ "Register", "d9/db1/a18038.html#a0162c92c32210f2873686610f4f00b87", null ],
+    [ "TriggerHeal", "d9/db1/a18038.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
+    [ "Validate", "d9/db1/a18038.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
 ];

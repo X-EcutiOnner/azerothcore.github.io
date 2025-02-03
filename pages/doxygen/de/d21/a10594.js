@@ -1,7 +1,9 @@
 var a10594 =
 [
-    [ "StopMirrorTimer", "de/d21/a10594.html#aabd646c82f3dcdff2eef2158c6724dff", null ],
-    [ "StopMirrorTimer", "de/d21/a10594.html#a25f930852c7124cdfbf73687e62a26d1", null ],
-    [ "Write", "de/d21/a10594.html#ae99dab4406316eac99a6e0e0146d879e", null ],
-    [ "Timer", "de/d21/a10594.html#a5e5cf56b83aca514cff34c1a17f2d3b1", null ]
+    [ "RandomRoll", "de/d21/a10594.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
+    [ "Write", "de/d21/a10594.html#aab5879874745603dd448a7f5084d60d4", null ],
+    [ "Max", "de/d21/a10594.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
+    [ "Min", "de/d21/a10594.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
+    [ "Result", "de/d21/a10594.html#a34fd2c1d018bb292836724671163ff07", null ],
+    [ "Roller", "de/d21/a10594.html#af02aa97826259885791d0f4afc0c1a84", null ]
 ];

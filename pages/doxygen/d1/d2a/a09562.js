@@ -1,5 +1,7 @@
 var a09562 =
 [
-    [ "asChar", "d1/d2a/a09562.html#a3c1546425a9287498d23753f51e27de2", null ],
-    [ "asUInt", "d1/d2a/a09562.html#a87b4e38a5c10dba382bd0761b70c2234", null ]
+    [ "ZRangeBoundary", "d1/d2a/a09562.html#ab9c77783e059de4478625f7c97713c49", null ],
+    [ "IsWithinBoundaryArea", "d1/d2a/a09562.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
+    [ "_maxZ", "d1/d2a/a09562.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
+    [ "_minZ", "d1/d2a/a09562.html#aee142d5bc4cfae80584b84ae451da05c", null ]
 ];

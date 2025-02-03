@@ -1,7 +1,6 @@
 var a10338 =
 [
-    [ "QueryGuildInfoResponse", "d5/d54/a10338.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
-    [ "Write", "d5/d54/a10338.html#abda9452eba38e76c460f910eb3aad5fa", null ],
-    [ "GuildId", "d5/d54/a10338.html#a04eec0531238fa55a91afa11c394fbce", null ],
-    [ "Info", "d5/d54/a10338.html#a749e992a19264b259f62d403b4925abe", null ]
+    [ "SetSheathed", "d5/d54/a10338.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
+    [ "Read", "d5/d54/a10338.html#ae2158689450e3a9207b6992ea5223106", null ],
+    [ "CurrentSheathState", "d5/d54/a10338.html#a8363787ac7959f19234def2707ef0b32", null ]
 ];

@@ -1,7 +1,7 @@
 var a24386 =
 [
-    [ "CalculateAmount", "db/dfe/a24386.html#af51a8e22ddfe0648f08a4190d730fbda", null ],
-    [ "CheckProc", "db/dfe/a24386.html#a2f80dcd9e5922af55dee096c95079062", null ],
-    [ "PrepareAuraScript", "db/dfe/a24386.html#af54ef254d0897140255960146507e986", null ],
-    [ "Register", "db/dfe/a24386.html#ad6e4bd4390f6f88494984af792a11b90", null ]
+    [ "CalculateAmount", "db/dfe/a24386.html#a44c3c1c97f0b87b261614e7eb0ce7d4d", null ],
+    [ "PrepareAuraScript", "db/dfe/a24386.html#aaf070525419cc8af56cd0002bbef2391", null ],
+    [ "Register", "db/dfe/a24386.html#ad37c82f88ebfb8c68aef2e574c0c4dcf", null ],
+    [ "Validate", "db/dfe/a24386.html#a3b8d5d04ec015240d941790bd02598f8", null ]
 ];

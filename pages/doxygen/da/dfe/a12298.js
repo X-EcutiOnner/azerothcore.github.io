@@ -1,8 +1,6 @@
 var a12298 =
 [
-    [ "npc_lava_spawn", "da/dfe/a12298.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "da/dfe/a12298.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "da/dfe/a12298.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "da/dfe/a12298.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "da/dfe/a12298.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "instance_molten_core_InstanceMapScript", "d2/d7b/a12302.html", "d2/d7b/a12302" ],
+    [ "instance_molten_core", "da/dfe/a12298.html#ad83dac834feb2fcae872dfe09b833950", null ],
+    [ "GetInstanceScript", "da/dfe/a12298.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: CreatureMovementData Struct Reference</title>
+<title>AzerothCore: AssistDelayEvent Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,87 +106,130 @@ $(document).ready(function(){initNavTree('d0/db7/a07866.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d2/dbb/a07863.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">CreatureMovementData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">AssistDelayEvent Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">CreatureData.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for AssistDelayEvent:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d0/db7/a07866.png" usemap="#AssistDelayEvent_map" alt=""/>
+  <map id="AssistDelayEvent_map" name="AssistDelayEvent_map">
+<area href="../../dd/d9e/a05378.html" alt="BasicEvent" shape="rect" coords="0,0,110,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:acb8099aff89bb3526a78073fd5503e9b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#acb8099aff89bb3526a78073fd5503e9b">CreatureMovementData</a> ()</td></tr>
-<tr class="separator:acb8099aff89bb3526a78073fd5503e9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0820b5840321870dafa9119d404ad0d9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#a0820b5840321870dafa9119d404ad0d9">IsGroundAllowed</a> () const</td></tr>
-<tr class="separator:a0820b5840321870dafa9119d404ad0d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3ed4b7f140537f9d066344c50a79b0b1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#a3ed4b7f140537f9d066344c50a79b0b1">IsSwimAllowed</a> () const</td></tr>
-<tr class="separator:a3ed4b7f140537f9d066344c50a79b0b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad2e480bc7a0b98c417be077305392647"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#ad2e480bc7a0b98c417be077305392647">IsFlightAllowed</a> () const</td></tr>
-<tr class="separator:ad2e480bc7a0b98c417be077305392647"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a530b2bbf530e553687c23555f3ffe655"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#a530b2bbf530e553687c23555f3ffe655">IsRooted</a> () const</td></tr>
-<tr class="separator:a530b2bbf530e553687c23555f3ffe655"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa9e0267e4c73ec837653113394841fcf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d1c/a01229.html#a3686a5cf358c5282e94cd850b1173bc9">CreatureChaseMovementType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#aa9e0267e4c73ec837653113394841fcf">GetChase</a> () const</td></tr>
-<tr class="separator:aa9e0267e4c73ec837653113394841fcf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af2c8281192f6234bd19e030237c77b5a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d1c/a01229.html#ac5419660ed841edccfaa5c7290083846">CreatureRandomMovementType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#af2c8281192f6234bd19e030237c77b5a">GetRandom</a> () const</td></tr>
-<tr class="separator:af2c8281192f6234bd19e030237c77b5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac16489cdc845f350e98da595269b7770"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#ac16489cdc845f350e98da595269b7770">GetInteractionPauseTimer</a> () const</td></tr>
-<tr class="separator:ac16489cdc845f350e98da595269b7770"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad76c73b59fa83682a9ae43389fed95b0"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#ad76c73b59fa83682a9ae43389fed95b0">ToString</a> () const</td></tr>
-<tr class="separator:ad76c73b59fa83682a9ae43389fed95b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a022b9cf38b8e059df2dceca38e366b7d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#a022b9cf38b8e059df2dceca38e366b7d">AssistDelayEvent</a> (<a class="el" href="../../d7/dac/a08278.html">ObjectGuid</a> victim, <a class="el" href="../../d6/dd4/a07858.html">Creature</a> *owner)</td></tr>
+<tr class="separator:a022b9cf38b8e059df2dceca38e366b7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5afd295abeb1295e43f48b8951b24c35"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#a5afd295abeb1295e43f48b8951b24c35">Execute</a> (<a class="el" href="../../d3/df8/a00155.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> e_time, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> p_time) override</td></tr>
+<tr class="separator:a5afd295abeb1295e43f48b8951b24c35"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a987303ec41927528e9a5abfd9ab75512"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#a987303ec41927528e9a5abfd9ab75512">AddAssistant</a> (<a class="el" href="../../d7/dac/a08278.html">ObjectGuid</a> guid)</td></tr>
+<tr class="separator:a987303ec41927528e9a5abfd9ab75512"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a05378"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05378')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../dd/d9e/a05378.html">BasicEvent</a></td></tr>
+<tr class="memitem:a9c3cd17edab7fc410f88bb680d756975 inherit pub_methods_a05378"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9e/a05378.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent</a> ()=default</td></tr>
+<tr class="separator:a9c3cd17edab7fc410f88bb680d756975 inherit pub_methods_a05378"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c3860e1c8854c2db20a225944792afd inherit pub_methods_a05378"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9e/a05378.html#a0c3860e1c8854c2db20a225944792afd">~BasicEvent</a> ()=default</td></tr>
+<tr class="separator:a0c3860e1c8854c2db20a225944792afd inherit pub_methods_a05378"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89297a10b64d01895332655122ed8ccb inherit pub_methods_a05378"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9e/a05378.html#a89297a10b64d01895332655122ed8ccb">Execute</a> (<a class="el" href="../../d3/df8/a00155.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:a89297a10b64d01895332655122ed8ccb inherit pub_methods_a05378"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a62c0483af9fd1885e779cf088a50eb02 inherit pub_methods_a05378"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9e/a05378.html#a62c0483af9fd1885e779cf088a50eb02">IsDeletable</a> () const</td></tr>
+<tr class="separator:a62c0483af9fd1885e779cf088a50eb02 inherit pub_methods_a05378"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5584968148a48bd7ba072515bd489963 inherit pub_methods_a05378"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9e/a05378.html#a5584968148a48bd7ba072515bd489963">Abort</a> (<a class="el" href="../../d3/df8/a00155.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>)</td></tr>
+<tr class="separator:a5584968148a48bd7ba072515bd489963 inherit pub_methods_a05378"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afafade0729f08b8f1193a66f50c18348 inherit pub_methods_a05378"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9e/a05378.html#afafade0729f08b8f1193a66f50c18348">ScheduleAbort</a> ()</td></tr>
+<tr class="separator:afafade0729f08b8f1193a66f50c18348 inherit pub_methods_a05378"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:ae603273724f448c95dc3a7cd3aec5b68"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d1c/a01229.html#a41d8876d4a61c87754a0a48348de49bf">CreatureGroundMovementType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#ae603273724f448c95dc3a7cd3aec5b68">Ground</a></td></tr>
-<tr class="separator:ae603273724f448c95dc3a7cd3aec5b68"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa535d32995ba28e11915dd56494f4a72"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d1c/a01229.html#a2d939485aee8367ac402f581fd13d705">CreatureFlightMovementType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#aa535d32995ba28e11915dd56494f4a72">Flight</a></td></tr>
-<tr class="separator:aa535d32995ba28e11915dd56494f4a72"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a04966dc48fffcd65574314f238ba9be2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#a04966dc48fffcd65574314f238ba9be2">Swim</a></td></tr>
-<tr class="separator:a04966dc48fffcd65574314f238ba9be2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ca3905bb168b81853091a7d56796c1f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#a0ca3905bb168b81853091a7d56796c1f">Rooted</a></td></tr>
-<tr class="separator:a0ca3905bb168b81853091a7d56796c1f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae2a19ebf47bacb304a450f7d9c6dbc6d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d1c/a01229.html#a3686a5cf358c5282e94cd850b1173bc9">CreatureChaseMovementType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#ae2a19ebf47bacb304a450f7d9c6dbc6d">Chase</a></td></tr>
-<tr class="separator:ae2a19ebf47bacb304a450f7d9c6dbc6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1457436a01d5007235224fa9bfb93745"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d1c/a01229.html#ac5419660ed841edccfaa5c7290083846">CreatureRandomMovementType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#a1457436a01d5007235224fa9bfb93745">Random</a></td></tr>
-<tr class="separator:a1457436a01d5007235224fa9bfb93745"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae701d7622d7e24c0b8673863a2d75742"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#ae701d7622d7e24c0b8673863a2d75742">InteractionPauseTimer</a></td></tr>
-<tr class="separator:ae701d7622d7e24c0b8673863a2d75742"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a5371fc2a2f9334b821058b96d0c6bc13"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#a5371fc2a2f9334b821058b96d0c6bc13">AssistDelayEvent</a> ()</td></tr>
+<tr class="separator:a5371fc2a2f9334b821058b96d0c6bc13"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a47aff9ce39f5fec3718d6564e53b799e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dac/a08278.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#a47aff9ce39f5fec3718d6564e53b799e">m_victim</a></td></tr>
+<tr class="separator:a47aff9ce39f5fec3718d6564e53b799e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac6de6befda582bd38f92afda01204e94"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d85/a01352.html#a5951d383f157ff0ed6d23ecef2213a4b">GuidList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#ac6de6befda582bd38f92afda01204e94">m_assistants</a></td></tr>
+<tr class="separator:ac6de6befda582bd38f92afda01204e94"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aabcce364c8009e8172b9d090059ce48c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/dd4/a07858.html">Creature</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/a07866.html#aabcce364c8009e8172b9d090059ce48c">m_owner</a></td></tr>
+<tr class="separator:aabcce364c8009e8172b9d090059ce48c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="acb8099aff89bb3526a78073fd5503e9b" name="acb8099aff89bb3526a78073fd5503e9b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acb8099aff89bb3526a78073fd5503e9b">&#9670;&#160;</a></span>CreatureMovementData()</h2>
+<a id="a022b9cf38b8e059df2dceca38e366b7d" name="a022b9cf38b8e059df2dceca38e366b7d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a022b9cf38b8e059df2dceca38e366b7d">&#9670;&#160;</a></span>AssistDelayEvent() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">CreatureMovementData::CreatureMovementData </td>
+          <td class="memname">AssistDelayEvent::AssistDelayEvent </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/dac/a08278.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>victim</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/dd4/a07858.html">Creature</a> *&#160;</td>
+          <td class="paramname"><em>owner</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  532</span>: <a class="code hl_function" href="../../dd/d9e/a05378.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent</a>(), <a class="code hl_variable" href="../../d0/db7/a07866.html#a47aff9ce39f5fec3718d6564e53b799e">m_victim</a>(victim), <a class="code hl_variable" href="../../d0/db7/a07866.html#aabcce364c8009e8172b9d090059ce48c">m_owner</a>(owner) { }</div>
+<div class="ttc" id="aa05378_html_a9c3cd17edab7fc410f88bb680d756975"><div class="ttname"><a href="../../dd/d9e/a05378.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent::BasicEvent</a></div><div class="ttdeci">BasicEvent()=default</div></div>
+<div class="ttc" id="aa07866_html_a47aff9ce39f5fec3718d6564e53b799e"><div class="ttname"><a href="../../d0/db7/a07866.html#a47aff9ce39f5fec3718d6564e53b799e">AssistDelayEvent::m_victim</a></div><div class="ttdeci">ObjectGuid m_victim</div><div class="ttdef"><b>Definition:</b> Creature.h:540</div></div>
+<div class="ttc" id="aa07866_html_aabcce364c8009e8172b9d090059ce48c"><div class="ttname"><a href="../../d0/db7/a07866.html#aabcce364c8009e8172b9d090059ce48c">AssistDelayEvent::m_owner</a></div><div class="ttdeci">Creature * m_owner</div><div class="ttdef"><b>Definition:</b> Creature.h:542</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a5371fc2a2f9334b821058b96d0c6bc13" name="a5371fc2a2f9334b821058b96d0c6bc13"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5371fc2a2f9334b821058b96d0c6bc13">&#9670;&#160;</a></span>AssistDelayEvent() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">AssistDelayEvent::AssistDelayEvent </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../d5/def/a04676.html#_todo000031">Todo:</a></b></dt><dd>: this import is not necessary for compilation and marked as unused by the IDE </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">   57</span>                                           : <a class="code hl_variable" href="../../d0/db7/a07866.html#ae603273724f448c95dc3a7cd3aec5b68">Ground</a>(CreatureGroundMovementType::Run), <a class="code hl_variable" href="../../d0/db7/a07866.html#aa535d32995ba28e11915dd56494f4a72">Flight</a>(CreatureFlightMovementType::None),</div>
-<div class="line"><span class="lineno">   58</span>                                               <a class="code hl_variable" href="../../d0/db7/a07866.html#a04966dc48fffcd65574314f238ba9be2">Swim</a>(<span class="keyword">true</span>), <a class="code hl_variable" href="../../d0/db7/a07866.html#a0ca3905bb168b81853091a7d56796c1f">Rooted</a>(<span class="keyword">false</span>), <a class="code hl_variable" href="../../d0/db7/a07866.html#ae2a19ebf47bacb304a450f7d9c6dbc6d">Chase</a>(CreatureChaseMovementType::Run),</div>
-<div class="line"><span class="lineno">   59</span>                                               <a class="code hl_variable" href="../../d0/db7/a07866.html#a1457436a01d5007235224fa9bfb93745">Random</a>(CreatureRandomMovementType::Walk), <a class="code hl_variable" href="../../d0/db7/a07866.html#ae701d7622d7e24c0b8673863a2d75742">InteractionPauseTimer</a>(<a class="code hl_define" href="../../d2/db6/a04681.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../df/d6f/a00623.html#a17aac4c166ebe43e3b8fdccf9e012e41ab98bc19e298768e137f85e592d07867b">CONFIG_CREATURE_STOP_FOR_PLAYER</a>)) {}</div>
-<div class="ttc" id="aa00623_html_a17aac4c166ebe43e3b8fdccf9e012e41ab98bc19e298768e137f85e592d07867b"><div class="ttname"><a href="../../df/d6f/a00623.html#a17aac4c166ebe43e3b8fdccf9e012e41ab98bc19e298768e137f85e592d07867b">CONFIG_CREATURE_STOP_FOR_PLAYER</a></div><div class="ttdeci">@ CONFIG_CREATURE_STOP_FOR_PLAYER</div><div class="ttdef"><b>Definition:</b> IWorld.h:232</div></div>
-<div class="ttc" id="aa04681_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d2/db6/a04681.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:443</div></div>
-<div class="ttc" id="aa07866_html_a04966dc48fffcd65574314f238ba9be2"><div class="ttname"><a href="../../d0/db7/a07866.html#a04966dc48fffcd65574314f238ba9be2">CreatureMovementData::Swim</a></div><div class="ttdeci">bool Swim</div><div class="ttdef"><b>Definition:</b> CreatureData.h:124</div></div>
-<div class="ttc" id="aa07866_html_a0ca3905bb168b81853091a7d56796c1f"><div class="ttname"><a href="../../d0/db7/a07866.html#a0ca3905bb168b81853091a7d56796c1f">CreatureMovementData::Rooted</a></div><div class="ttdeci">bool Rooted</div><div class="ttdef"><b>Definition:</b> CreatureData.h:125</div></div>
-<div class="ttc" id="aa07866_html_a1457436a01d5007235224fa9bfb93745"><div class="ttname"><a href="../../d0/db7/a07866.html#a1457436a01d5007235224fa9bfb93745">CreatureMovementData::Random</a></div><div class="ttdeci">CreatureRandomMovementType Random</div><div class="ttdef"><b>Definition:</b> CreatureData.h:127</div></div>
-<div class="ttc" id="aa07866_html_aa535d32995ba28e11915dd56494f4a72"><div class="ttname"><a href="../../d0/db7/a07866.html#aa535d32995ba28e11915dd56494f4a72">CreatureMovementData::Flight</a></div><div class="ttdeci">CreatureFlightMovementType Flight</div><div class="ttdef"><b>Definition:</b> CreatureData.h:123</div></div>
-<div class="ttc" id="aa07866_html_ae2a19ebf47bacb304a450f7d9c6dbc6d"><div class="ttname"><a href="../../d0/db7/a07866.html#ae2a19ebf47bacb304a450f7d9c6dbc6d">CreatureMovementData::Chase</a></div><div class="ttdeci">CreatureChaseMovementType Chase</div><div class="ttdef"><b>Definition:</b> CreatureData.h:126</div></div>
-<div class="ttc" id="aa07866_html_ae603273724f448c95dc3a7cd3aec5b68"><div class="ttname"><a href="../../d0/db7/a07866.html#ae603273724f448c95dc3a7cd3aec5b68">CreatureMovementData::Ground</a></div><div class="ttdeci">CreatureGroundMovementType Ground</div><div class="ttdef"><b>Definition:</b> CreatureData.h:122</div></div>
-<div class="ttc" id="aa07866_html_ae701d7622d7e24c0b8673863a2d75742"><div class="ttname"><a href="../../d0/db7/a07866.html#ae701d7622d7e24c0b8673863a2d75742">CreatureMovementData::InteractionPauseTimer</a></div><div class="ttdeci">uint32 InteractionPauseTimer</div><div class="ttdef"><b>Definition:</b> CreatureData.h:128</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="aa9e0267e4c73ec837653113394841fcf" name="aa9e0267e4c73ec837653113394841fcf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa9e0267e4c73ec837653113394841fcf">&#9670;&#160;</a></span>GetChase()</h2>
+<a id="a987303ec41927528e9a5abfd9ab75512" name="a987303ec41927528e9a5abfd9ab75512"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a987303ec41927528e9a5abfd9ab75512">&#9670;&#160;</a></span>AddAssistant()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -195,10 +238,11 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d1c/a01229.html#a3686a5cf358c5282e94cd850b1173bc9">CreatureChaseMovementType</a> CreatureMovementData::GetChase </td>
+          <td class="memname">void AssistDelayEvent::AddAssistant </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="paramtype"><a class="el" href="../../d7/dac/a08278.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>guid</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
@@ -207,18 +251,17 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  151</span>    {</div>
-<div class="line"><span class="lineno">  152</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/db7/a07866.html#ae2a19ebf47bacb304a450f7d9c6dbc6d">Chase</a>;</div>
-<div class="line"><span class="lineno">  153</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  535</span>{ <a class="code hl_variable" href="../../d0/db7/a07866.html#ac6de6befda582bd38f92afda01204e94">m_assistants</a>.push_back(guid); }</div>
+<div class="ttc" id="aa07866_html_ac6de6befda582bd38f92afda01204e94"><div class="ttname"><a href="../../d0/db7/a07866.html#ac6de6befda582bd38f92afda01204e94">AssistDelayEvent::m_assistants</a></div><div class="ttdeci">GuidList m_assistants</div><div class="ttdef"><b>Definition:</b> Creature.h:541</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00126">Chase</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00541">m_assistants</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00066">ChaseMovementGenerator&lt; T &gt;::DoUpdate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02440">Creature::CallAssistance()</a>.</p>
 
 </div>
 </div>
-<a id="ac16489cdc845f350e98da595269b7770" name="ac16489cdc845f350e98da595269b7770"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac16489cdc845f350e98da595269b7770">&#9670;&#160;</a></span>GetInteractionPauseTimer()</h2>
+<a id="a5afd295abeb1295e43f48b8951b24c35" name="a5afd295abeb1295e43f48b8951b24c35"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5afd295abeb1295e43f48b8951b24c35">&#9670;&#160;</a></span>Execute()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -227,337 +270,145 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureMovementData::GetInteractionPauseTimer </td>
+          <td class="memname">bool AssistDelayEvent::Execute </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td>
+          <td class="paramname"><em>e_time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>p_time</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  161</span>    {</div>
-<div class="line"><span class="lineno">  162</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/db7/a07866.html#ae701d7622d7e24c0b8673863a2d75742">InteractionPauseTimer</a>;</div>
-<div class="line"><span class="lineno">  163</span>    }</div>
+
+<p>Reimplemented from <a class="el" href="../../dd/d9e/a05378.html#a89297a10b64d01895332655122ed8ccb">BasicEvent</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  219</span>{</div>
+<div class="line"><span class="lineno">  220</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/d3a/a08610.html">Unit</a>* victim = <a class="code hl_function" href="../../d9/dda/a04740.html#a02c2dfb59db7d7e2501dcc9a4f9baf07">ObjectAccessor::GetUnit</a>(*<a class="code hl_variable" href="../../d0/db7/a07866.html#aabcce364c8009e8172b9d090059ce48c">m_owner</a>, <a class="code hl_variable" href="../../d0/db7/a07866.html#a47aff9ce39f5fec3718d6564e53b799e">m_victim</a>))</div>
+<div class="line"><span class="lineno">  221</span>    {</div>
+<div class="line"><span class="lineno">  222</span>        <span class="keywordflow">while</span> (!<a class="code hl_variable" href="../../d0/db7/a07866.html#ac6de6befda582bd38f92afda01204e94">m_assistants</a>.empty())</div>
+<div class="line"><span class="lineno">  223</span>        {</div>
+<div class="line"><span class="lineno">  224</span>            <a class="code hl_class" href="../../d6/dd4/a07858.html">Creature</a>* assistant = <a class="code hl_function" href="../../d9/dda/a04740.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../d0/db7/a07866.html#aabcce364c8009e8172b9d090059ce48c">m_owner</a>, *<a class="code hl_variable" href="../../d0/db7/a07866.html#ac6de6befda582bd38f92afda01204e94">m_assistants</a>.begin());</div>
+<div class="line"><span class="lineno">  225</span>            <a class="code hl_variable" href="../../d0/db7/a07866.html#ac6de6befda582bd38f92afda01204e94">m_assistants</a>.pop_front();</div>
+<div class="line"><span class="lineno">  226</span> </div>
+<div class="line"><span class="lineno">  227</span>            <span class="keywordflow">if</span> (assistant &amp;&amp; assistant-&gt;<a class="code hl_function" href="../../d6/dd4/a07858.html#ab6b53aeb869c6542525bddfad563098a">CanAssistTo</a>(<a class="code hl_variable" href="../../d0/db7/a07866.html#aabcce364c8009e8172b9d090059ce48c">m_owner</a>, victim))</div>
+<div class="line"><span class="lineno">  228</span>            {</div>
+<div class="line"><span class="lineno">  229</span>                assistant-&gt;<a class="code hl_function" href="../../d6/dd4/a07858.html#ae0de152b2fd7b000237f2e6f8d7bfc6e">SetNoCallAssistance</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  230</span>                assistant-&gt;<a class="code hl_function" href="../../d4/d3a/a08610.html#a582e569d125ef994b2a36faa0a4502c7">CombatStart</a>(victim);</div>
+<div class="line"><span class="lineno">  231</span>                <span class="keywordflow">if</span> (assistant-&gt;<a class="code hl_variable" href="../../d4/d3a/a08610.html#ab395fef0b407c0af40ba6274c32730a6">IsAIEnabled</a>)</div>
+<div class="line"><span class="lineno">  232</span>                {</div>
+<div class="line"><span class="lineno">  233</span>                    assistant-&gt;<a class="code hl_function" href="../../d6/dd4/a07858.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d9/de2/a06062.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(victim);</div>
+<div class="line"><span class="lineno">  234</span> </div>
+<div class="line"><span class="lineno">  235</span>                    <span class="comment">// When nearby mobs aggro from another mob&#39;s initial call for assistance</span></div>
+<div class="line"><span class="lineno">  236</span>                    <span class="comment">// their leash timers become linked and attacking one will keep the rest from evading.</span></div>
+<div class="line"><span class="lineno">  237</span>                    <span class="keywordflow">if</span> (assistant-&gt;<a class="code hl_function" href="../../d4/d3a/a08610.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
+<div class="line"><span class="lineno">  238</span>                        assistant-&gt;<a class="code hl_function" href="../../d6/dd4/a07858.html#addfadfbf1d491f97420fa7d9d6042914">SetLastLeashExtensionTimePtr</a>(<a class="code hl_variable" href="../../d0/db7/a07866.html#aabcce364c8009e8172b9d090059ce48c">m_owner</a>-&gt;<a class="code hl_function" href="../../d6/dd4/a07858.html#aa4ab3aec6cfebf9c742d6d6d14464b70">GetLastLeashExtensionTimePtr</a>());</div>
+<div class="line"><span class="lineno">  239</span>                }</div>
+<div class="line"><span class="lineno">  240</span>            }</div>
+<div class="line"><span class="lineno">  241</span>        }</div>
+<div class="line"><span class="lineno">  242</span>    }</div>
+<div class="line"><span class="lineno">  243</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  244</span>}</div>
+<div class="ttc" id="aa04740_html_a02c2dfb59db7d7e2501dcc9a4f9baf07"><div class="ttname"><a href="../../d9/dda/a04740.html#a02c2dfb59db7d7e2501dcc9a4f9baf07">ObjectAccessor::GetUnit</a></div><div class="ttdeci">Unit * GetUnit(WorldObject const &amp;, ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:199</div></div>
+<div class="ttc" id="aa04740_html_ae42e503fe79bbeaea1aaa665418c43f8"><div class="ttname"><a href="../../d9/dda/a04740.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(WorldObject const &amp;u, ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:210</div></div>
+<div class="ttc" id="aa06062_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d9/de2/a06062.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:27</div></div>
+<div class="ttc" id="aa07858_html"><div class="ttname"><a href="../../d6/dd4/a07858.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:43</div></div>
+<div class="ttc" id="aa07858_html_aa4ab3aec6cfebf9c742d6d6d14464b70"><div class="ttname"><a href="../../d6/dd4/a07858.html#aa4ab3aec6cfebf9c742d6d6d14464b70">Creature::GetLastLeashExtensionTimePtr</a></div><div class="ttdeci">std::shared_ptr&lt; time_t &gt; const &amp; GetLastLeashExtensionTimePtr() const</div><div class="ttdef"><b>Definition:</b> Creature.cpp:3710</div></div>
+<div class="ttc" id="aa07858_html_ab6b53aeb869c6542525bddfad563098a"><div class="ttname"><a href="../../d6/dd4/a07858.html#ab6b53aeb869c6542525bddfad563098a">Creature::CanAssistTo</a></div><div class="ttdeci">bool CanAssistTo(Unit const *u, Unit const *enemy, bool checkfaction=true) const</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2498</div></div>
+<div class="ttc" id="aa07858_html_addfadfbf1d491f97420fa7d9d6042914"><div class="ttname"><a href="../../d6/dd4/a07858.html#addfadfbf1d491f97420fa7d9d6042914">Creature::SetLastLeashExtensionTimePtr</a></div><div class="ttdeci">void SetLastLeashExtensionTimePtr(std::shared_ptr&lt; time_t &gt; const &amp;timer)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:3717</div></div>
+<div class="ttc" id="aa07858_html_ae0de152b2fd7b000237f2e6f8d7bfc6e"><div class="ttname"><a href="../../d6/dd4/a07858.html#ae0de152b2fd7b000237f2e6f8d7bfc6e">Creature::SetNoCallAssistance</a></div><div class="ttdeci">void SetNoCallAssistance(bool val)</div><div class="ttdef"><b>Definition:</b> Creature.h:270</div></div>
+<div class="ttc" id="aa07858_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../d6/dd4/a07858.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition:</b> Creature.h:140</div></div>
+<div class="ttc" id="aa08610_html"><div class="ttname"><a href="../../d4/d3a/a08610.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:636</div></div>
+<div class="ttc" id="aa08610_html_a582e569d125ef994b2a36faa0a4502c7"><div class="ttname"><a href="../../d4/d3a/a08610.html#a582e569d125ef994b2a36faa0a4502c7">Unit::CombatStart</a></div><div class="ttdeci">void CombatStart(Unit *target, bool initialAggro=true)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:13685</div></div>
+<div class="ttc" id="aa08610_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../d4/d3a/a08610.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition:</b> Unit.h:862</div></div>
+<div class="ttc" id="aa08610_html_ab395fef0b407c0af40ba6274c32730a6"><div class="ttname"><a href="../../d4/d3a/a08610.html#ab395fef0b407c0af40ba6274c32730a6">Unit::IsAIEnabled</a></div><div class="ttdeci">bool IsAIEnabled</div><div class="ttdef"><b>Definition:</b> Unit.h:2015</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00128">InteractionPauseTimer</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00035">WorldSession::HandleBattlemasterHelloOpcode()</a>, <a class="el" href="../../#l00273">WorldSession::HandleGossipHelloOpcode()</a>, <a class="el" href="../../#l00078">WorldSession::HandleQuestgiverHelloOpcode()</a>, and <a class="el" href="../../#l01035">WorldSession::SendListInventory()</a>.</p>
-
-</div>
-</div>
-<a id="af2c8281192f6234bd19e030237c77b5a" name="af2c8281192f6234bd19e030237c77b5a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af2c8281192f6234bd19e030237c77b5a">&#9670;&#160;</a></span>GetRandom()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d1c/a01229.html#ac5419660ed841edccfaa5c7290083846">CreatureRandomMovementType</a> CreatureMovementData::GetRandom </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  156</span>    {</div>
-<div class="line"><span class="lineno">  157</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/db7/a07866.html#a1457436a01d5007235224fa9bfb93745">Random</a>;</div>
-<div class="line"><span class="lineno">  158</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00127">Random</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>.</p>
-
-</div>
-</div>
-<a id="ad2e480bc7a0b98c417be077305392647" name="ad2e480bc7a0b98c417be077305392647"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad2e480bc7a0b98c417be077305392647">&#9670;&#160;</a></span>IsFlightAllowed()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool CreatureMovementData::IsFlightAllowed </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  141</span>    {</div>
-<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/db7/a07866.html#aa535d32995ba28e11915dd56494f4a72">Flight</a> != CreatureFlightMovementType::None;</div>
-<div class="line"><span class="lineno">  143</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00123">Flight</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00081">Creature::CanFly()</a>, and <a class="el" href="../../#l03453">Creature::UpdateMovementFlags()</a>.</p>
-
-</div>
-</div>
-<a id="a0820b5840321870dafa9119d404ad0d9" name="a0820b5840321870dafa9119d404ad0d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0820b5840321870dafa9119d404ad0d9">&#9670;&#160;</a></span>IsGroundAllowed()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool CreatureMovementData::IsGroundAllowed </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  131</span>    {</div>
-<div class="line"><span class="lineno">  132</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/db7/a07866.html#ae603273724f448c95dc3a7cd3aec5b68">Ground</a> != CreatureGroundMovementType::None;</div>
-<div class="line"><span class="lineno">  133</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00122">Ground</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00078">Creature::CanWalk()</a>.</p>
-
-</div>
-</div>
-<a id="a530b2bbf530e553687c23555f3ffe655" name="a530b2bbf530e553687c23555f3ffe655"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a530b2bbf530e553687c23555f3ffe655">&#9670;&#160;</a></span>IsRooted()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool CreatureMovementData::IsRooted </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  146</span>    {</div>
-<div class="line"><span class="lineno">  147</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/db7/a07866.html#a0ca3905bb168b81853091a7d56796c1f">Rooted</a>;</div>
-<div class="line"><span class="lineno">  148</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00125">Rooted</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00083">Creature::IsRooted()</a>.</p>
-
-</div>
-</div>
-<a id="a3ed4b7f140537f9d066344c50a79b0b1" name="a3ed4b7f140537f9d066344c50a79b0b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3ed4b7f140537f9d066344c50a79b0b1">&#9670;&#160;</a></span>IsSwimAllowed()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool CreatureMovementData::IsSwimAllowed </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  136</span>    {</div>
-<div class="line"><span class="lineno">  137</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/db7/a07866.html#a04966dc48fffcd65574314f238ba9be2">Swim</a>;</div>
-<div class="line"><span class="lineno">  138</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00124">Swim</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l03288">Creature::CanEnterWater()</a>.</p>
-
-</div>
-</div>
-<a id="ad76c73b59fa83682a9ae43389fed95b0" name="ad76c73b59fa83682a9ae43389fed95b0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad76c73b59fa83682a9ae43389fed95b0">&#9670;&#160;</a></span>ToString()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string CreatureMovementData::ToString </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   62</span>{</div>
-<div class="line"><span class="lineno">   63</span>    <span class="keyword">constexpr</span> std::array&lt;char const*, 3&gt; GroundStates = {<span class="stringliteral">&quot;None&quot;</span>, <span class="stringliteral">&quot;Run&quot;</span>, <span class="stringliteral">&quot;Hover&quot;</span>};</div>
-<div class="line"><span class="lineno">   64</span>    <span class="keyword">constexpr</span> std::array&lt;char const*, 3&gt; FlightStates = {<span class="stringliteral">&quot;None&quot;</span>, <span class="stringliteral">&quot;DisableGravity&quot;</span>, <span class="stringliteral">&quot;CanFly&quot;</span>};</div>
-<div class="line"><span class="lineno">   65</span>    <span class="keyword">constexpr</span> std::array&lt;char const*, 3&gt; ChaseStates  = {<span class="stringliteral">&quot;Run&quot;</span>, <span class="stringliteral">&quot;CanWalk&quot;</span>, <span class="stringliteral">&quot;AlwaysWalk&quot;</span>};</div>
-<div class="line"><span class="lineno">   66</span>    <span class="keyword">constexpr</span> std::array&lt;char const*, 3&gt; RandomStates = {<span class="stringliteral">&quot;Walk&quot;</span>, <span class="stringliteral">&quot;CanRun&quot;</span>, <span class="stringliteral">&quot;AlwaysRun&quot;</span>};</div>
-<div class="line"><span class="lineno">   67</span> </div>
-<div class="line"><span class="lineno">   68</span>    std::ostringstream str;</div>
-<div class="line"><span class="lineno">   69</span>    str &lt;&lt; std::boolalpha</div>
-<div class="line"><span class="lineno">   70</span>        &lt;&lt; <span class="stringliteral">&quot;Ground: &quot;</span> &lt;&lt; GroundStates[<a class="code hl_function" href="../../db/d10/a00350.html#aa9f8f55551b813f0996c6fd351a4e4be">AsUnderlyingType</a>(<a class="code hl_variable" href="../../d0/db7/a07866.html#ae603273724f448c95dc3a7cd3aec5b68">Ground</a>)]</div>
-<div class="line"><span class="lineno">   71</span>        &lt;&lt; <span class="stringliteral">&quot;, Swim: &quot;</span> &lt;&lt; <a class="code hl_variable" href="../../d0/db7/a07866.html#a04966dc48fffcd65574314f238ba9be2">Swim</a></div>
-<div class="line"><span class="lineno">   72</span>        &lt;&lt; <span class="stringliteral">&quot;, Flight: &quot;</span> &lt;&lt; FlightStates[<a class="code hl_function" href="../../db/d10/a00350.html#aa9f8f55551b813f0996c6fd351a4e4be">AsUnderlyingType</a>(<a class="code hl_variable" href="../../d0/db7/a07866.html#aa535d32995ba28e11915dd56494f4a72">Flight</a>)]</div>
-<div class="line"><span class="lineno">   73</span>        &lt;&lt; <span class="stringliteral">&quot;, Chase: &quot;</span> &lt;&lt; ChaseStates[<a class="code hl_function" href="../../db/d10/a00350.html#aa9f8f55551b813f0996c6fd351a4e4be">AsUnderlyingType</a>(<a class="code hl_variable" href="../../d0/db7/a07866.html#ae2a19ebf47bacb304a450f7d9c6dbc6d">Chase</a>)]</div>
-<div class="line"><span class="lineno">   74</span>        &lt;&lt; <span class="stringliteral">&quot;, Random: &quot;</span> &lt;&lt; RandomStates[<a class="code hl_function" href="../../db/d10/a00350.html#aa9f8f55551b813f0996c6fd351a4e4be">AsUnderlyingType</a>(<a class="code hl_variable" href="../../d0/db7/a07866.html#a1457436a01d5007235224fa9bfb93745">Random</a>)];</div>
-<div class="line"><span class="lineno">   75</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/db7/a07866.html#a0ca3905bb168b81853091a7d56796c1f">Rooted</a>)</div>
-<div class="line"><span class="lineno">   76</span>        str &lt;&lt; <span class="stringliteral">&quot;, Rooted&quot;</span>;</div>
-<div class="line"><span class="lineno">   77</span>    str &lt;&lt; <span class="stringliteral">&quot;, InteractionPauseTimer: &quot;</span> &lt;&lt; <a class="code hl_variable" href="../../d0/db7/a07866.html#ae701d7622d7e24c0b8673863a2d75742">InteractionPauseTimer</a>;</div>
-<div class="line"><span class="lineno">   78</span> </div>
-<div class="line"><span class="lineno">   79</span>    <span class="keywordflow">return</span> str.str();</div>
-<div class="line"><span class="lineno">   80</span>}</div>
-<div class="ttc" id="aa00350_html_aa9f8f55551b813f0996c6fd351a4e4be"><div class="ttname"><a href="../../db/d10/a00350.html#aa9f8f55551b813f0996c6fd351a4e4be">AsUnderlyingType</a></div><div class="ttdeci">constexpr std::underlying_type&lt; E &gt;::type AsUnderlyingType(E enumValue)</div><div class="ttdef"><b>Definition:</b> Util.h:619</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00619">AsUnderlyingType()</a>, <a class="el" href="../../#l00126">Chase</a>, <a class="el" href="../../#l00123">Flight</a>, <a class="el" href="../../#l00122">Ground</a>, <a class="el" href="../../#l00128">InteractionPauseTimer</a>, <a class="el" href="../../#l00127">Random</a>, <a class="el" href="../../#l00125">Rooted</a>, and <a class="el" href="../../#l00124">Swim</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00140">Creature::AI()</a>, <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../#l02498">Creature::CanAssistTo()</a>, <a class="el" href="../../#l13685">Unit::CombatStart()</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l03710">Creature::GetLastLeashExtensionTimePtr()</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l00862">Unit::GetVictim()</a>, <a class="el" href="../../#l02015">Unit::IsAIEnabled</a>, <a class="el" href="../../#l00541">m_assistants</a>, <a class="el" href="../../#l00542">m_owner</a>, <a class="el" href="../../#l00540">m_victim</a>, <a class="el" href="../../#l03717">Creature::SetLastLeashExtensionTimePtr()</a>, and <a class="el" href="../../#l00270">Creature::SetNoCallAssistance()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ae2a19ebf47bacb304a450f7d9c6dbc6d" name="ae2a19ebf47bacb304a450f7d9c6dbc6d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae2a19ebf47bacb304a450f7d9c6dbc6d">&#9670;&#160;</a></span>Chase</h2>
+<a id="ac6de6befda582bd38f92afda01204e94" name="ac6de6befda582bd38f92afda01204e94"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac6de6befda582bd38f92afda01204e94">&#9670;&#160;</a></span>m_assistants</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d1c/a01229.html#a3686a5cf358c5282e94cd850b1173bc9">CreatureChaseMovementType</a> CreatureMovementData::Chase</td>
+          <td class="memname"><a class="el" href="../../d0/d85/a01352.html#a5951d383f157ff0ed6d23ecef2213a4b">GuidList</a> AssistDelayEvent::m_assistants</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01245">ObjectMgr::CheckCreatureMovement()</a>, <a class="el" href="../../#l00150">GetChase()</a>, <a class="el" href="../../#l01561">ObjectMgr::LoadCreatureMovementOverrides()</a>, and <a class="el" href="../../#l00061">ToString()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00535">AddAssistant()</a>, and <a class="el" href="../../#l00218">Execute()</a>.</p>
 
 </div>
 </div>
-<a id="aa535d32995ba28e11915dd56494f4a72" name="aa535d32995ba28e11915dd56494f4a72"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa535d32995ba28e11915dd56494f4a72">&#9670;&#160;</a></span>Flight</h2>
+<a id="aabcce364c8009e8172b9d090059ce48c" name="aabcce364c8009e8172b9d090059ce48c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aabcce364c8009e8172b9d090059ce48c">&#9670;&#160;</a></span>m_owner</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d1c/a01229.html#a2d939485aee8367ac402f581fd13d705">CreatureFlightMovementType</a> CreatureMovementData::Flight</td>
+          <td class="memname"><a class="el" href="../../d6/dd4/a07858.html">Creature</a>* AssistDelayEvent::m_owner</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01245">ObjectMgr::CheckCreatureMovement()</a>, <a class="el" href="../../#l00140">IsFlightAllowed()</a>, <a class="el" href="../../#l01561">ObjectMgr::LoadCreatureMovementOverrides()</a>, <a class="el" href="../../#l00061">ToString()</a>, and <a class="el" href="../../#l03453">Creature::UpdateMovementFlags()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00218">Execute()</a>.</p>
 
 </div>
 </div>
-<a id="ae603273724f448c95dc3a7cd3aec5b68" name="ae603273724f448c95dc3a7cd3aec5b68"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae603273724f448c95dc3a7cd3aec5b68">&#9670;&#160;</a></span>Ground</h2>
+<a id="a47aff9ce39f5fec3718d6564e53b799e" name="a47aff9ce39f5fec3718d6564e53b799e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a47aff9ce39f5fec3718d6564e53b799e">&#9670;&#160;</a></span>m_victim</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d1c/a01229.html#a41d8876d4a61c87754a0a48348de49bf">CreatureGroundMovementType</a> CreatureMovementData::Ground</td>
+          <td class="memname"><a class="el" href="../../d7/dac/a08278.html">ObjectGuid</a> AssistDelayEvent::m_victim</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00082">Creature::CanHover()</a>, <a class="el" href="../../#l01245">ObjectMgr::CheckCreatureMovement()</a>, <a class="el" href="../../#l00130">IsGroundAllowed()</a>, <a class="el" href="../../#l01561">ObjectMgr::LoadCreatureMovementOverrides()</a>, and <a class="el" href="../../#l00061">ToString()</a>.</p>
-
-</div>
-</div>
-<a id="ae701d7622d7e24c0b8673863a2d75742" name="ae701d7622d7e24c0b8673863a2d75742"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae701d7622d7e24c0b8673863a2d75742">&#9670;&#160;</a></span>InteractionPauseTimer</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureMovementData::InteractionPauseTimer</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00160">GetInteractionPauseTimer()</a>, <a class="el" href="../../#l01561">ObjectMgr::LoadCreatureMovementOverrides()</a>, and <a class="el" href="../../#l00061">ToString()</a>.</p>
-
-</div>
-</div>
-<a id="a1457436a01d5007235224fa9bfb93745" name="a1457436a01d5007235224fa9bfb93745"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1457436a01d5007235224fa9bfb93745">&#9670;&#160;</a></span>Random</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d1c/a01229.html#ac5419660ed841edccfaa5c7290083846">CreatureRandomMovementType</a> CreatureMovementData::Random</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01245">ObjectMgr::CheckCreatureMovement()</a>, <a class="el" href="../../#l00155">GetRandom()</a>, <a class="el" href="../../#l01561">ObjectMgr::LoadCreatureMovementOverrides()</a>, and <a class="el" href="../../#l00061">ToString()</a>.</p>
-
-</div>
-</div>
-<a id="a0ca3905bb168b81853091a7d56796c1f" name="a0ca3905bb168b81853091a7d56796c1f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ca3905bb168b81853091a7d56796c1f">&#9670;&#160;</a></span>Rooted</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool CreatureMovementData::Rooted</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00145">IsRooted()</a>, <a class="el" href="../../#l01561">ObjectMgr::LoadCreatureMovementOverrides()</a>, and <a class="el" href="../../#l00061">ToString()</a>.</p>
-
-</div>
-</div>
-<a id="a04966dc48fffcd65574314f238ba9be2" name="a04966dc48fffcd65574314f238ba9be2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a04966dc48fffcd65574314f238ba9be2">&#9670;&#160;</a></span>Swim</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool CreatureMovementData::Swim</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00135">IsSwimAllowed()</a>, <a class="el" href="../../#l01561">ObjectMgr::LoadCreatureMovementOverrides()</a>, and <a class="el" href="../../#l00061">ToString()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00218">Execute()</a>.</p>
 
 </div>
 </div>
@@ -566,8 +417,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/db7/a07866.html">CreatureMovementData</a></li>
-    <li class="footer">Generated on Mon Jan 27 2025 20:42:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/db7/a07866.html">AssistDelayEvent</a></li>
+    <li class="footer">Generated on Mon Feb 3 2025 20:41:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

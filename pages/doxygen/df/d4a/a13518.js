@@ -1,7 +1,7 @@
 var a13518 =
 [
-    [ "HandleDispel", "df/d4a/a13518.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "df/d4a/a13518.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "df/d4a/a13518.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "df/d4a/a13518.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "FilterTargets", "df/d4a/a13518.html#aebe9055301495dd3a21736b9a2a35f31", null ],
+    [ "HandleDamageCalc", "df/d4a/a13518.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
+    [ "PrepareSpellScript", "df/d4a/a13518.html#a03b8e21e58988d9fc774205263c0817f", null ],
+    [ "Register", "df/d4a/a13518.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
 ];

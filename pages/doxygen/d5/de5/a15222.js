@@ -1,6 +1,7 @@
 var a15222 =
 [
-    [ "Creature", "d5/de5/a15222.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "d5/de5/a15222.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "d5/de5/a15222.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "npc_giant_spotlightAI", "d5/de5/a15222.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "d5/de5/a15222.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "d5/de5/a15222.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "d5/de5/a15222.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

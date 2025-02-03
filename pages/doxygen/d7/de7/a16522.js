@@ -1,6 +1,6 @@
 var a16522 =
 [
-    [ "boss_marwynAI", "d1/d9e/a16526.html", "d1/d9e/a16526" ],
-    [ "boss_marwyn", "d7/de7/a16522.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
-    [ "GetAI", "d7/de7/a16522.html#af1c83878d2121163994bc327ae8e04f7", null ]
+    [ "entry", "d7/de7/a16522.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d7/de7/a16522.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d7/de7/a16522.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

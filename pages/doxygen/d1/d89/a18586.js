@@ -1,6 +1,6 @@
 var a18586 =
 [
-    [ "instance_icecrown_citadel_InstanceMapScript", "d8/d3c/a18590.html", "d8/d3c/a18590" ],
-    [ "instance_icecrown_citadel", "d1/d89/a18586.html#a0901e23025cff08d1a7516bbef099ffa", null ],
-    [ "GetInstanceScript", "d1/d89/a18586.html#a787c32626681f15f5515385a9ba6b848", null ]
+    [ "icecrown_citadel_teleport", "d1/d89/a18586.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "d1/d89/a18586.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "d1/d89/a18586.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

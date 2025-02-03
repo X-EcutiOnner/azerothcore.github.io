@@ -1,5 +1,6 @@
 var a23302 =
 [
-    [ "go_manticron_cube", "d7/d72/a23302.html#a87d9571aea57f16d38067ebd9e22200d", null ],
-    [ "OnGossipHello", "d7/d72/a23302.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
+    [ "HandleScriptEffect", "d7/d72/a23302.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
+    [ "PrepareSpellScript", "d7/d72/a23302.html#a287bff28e57a86f0176921500de78fa9", null ],
+    [ "Register", "d7/d72/a23302.html#ad5fb101794dfdef0c08551dd9397b965", null ]
 ];

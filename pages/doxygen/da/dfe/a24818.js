@@ -1,7 +1,6 @@
 var a24818 =
 [
-    [ "HandleDummy", "da/dfe/a24818.html#ab00358dc50fa943685fdd87e5a8ac224", null ],
-    [ "Load", "da/dfe/a24818.html#a31075533c24011797bd0f99dce5e8330", null ],
-    [ "PrepareSpellScript", "da/dfe/a24818.html#abf0acc8765f6e02674b8e93aca575a98", null ],
-    [ "Register", "da/dfe/a24818.html#ad1bd05a154b506424954ef879e5b9fba", null ]
+    [ "CheckSeat", "da/dfe/a24818.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
+    [ "PrepareSpellScript", "da/dfe/a24818.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
+    [ "Register", "da/dfe/a24818.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
 ];

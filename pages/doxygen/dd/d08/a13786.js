@@ -1,6 +1,6 @@
 var a13786 =
 [
-    [ "HandleObjectAreaTargetSelect", "dd/d08/a13786.html#aa7695bddd766d5adefb04710d41894f6", null ],
-    [ "PrepareSpellScript", "dd/d08/a13786.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
-    [ "Register", "dd/d08/a13786.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
+    [ "OnRemove", "dd/d08/a13786.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
+    [ "PrepareAuraScript", "dd/d08/a13786.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
+    [ "Register", "dd/d08/a13786.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
 ];

@@ -1,7 +1,7 @@
 var a22038 =
 [
-    [ "npc_wg_quest_giver", "de/d61/a22038.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "de/d61/a22038.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "de/d61/a22038.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "de/d61/a22038.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "npc_wg_demolisher_engineer", "de/d61/a22038.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "de/d61/a22038.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "de/d61/a22038.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "de/d61/a22038.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

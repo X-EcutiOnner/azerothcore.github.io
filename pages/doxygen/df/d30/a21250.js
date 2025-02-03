@@ -1,7 +1,9 @@
 var a21250 =
 [
-    [ "npc_mootoo_the_youngerAI", "df/d30/a21250.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "df/d30/a21250.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "df/d30/a21250.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "df/d30/a21250.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "npc_captured_beryl_sorcererAI", "df/d30/a21250.html#a3c3f47022aee418f228803a2504470a3", null ],
+    [ "Initialize", "df/d30/a21250.html#a98b2ff2f0e152a41106eaace5273aa69", null ],
+    [ "MoveInLineOfSight", "df/d30/a21250.html#a4f7edf7bc7480bf0c9f6aec113b2e058", null ],
+    [ "Reset", "df/d30/a21250.html#ac96af1fd018e88950d1c58562dffdb83", null ],
+    [ "UpdateAI", "df/d30/a21250.html#a1bbefa59abce0c7b3d7b343ddc467c98", null ],
+    [ "_events", "df/d30/a21250.html#a0ba1f7ffa792c93ccd4df8ec2c80fb42", null ]
 ];

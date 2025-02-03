@@ -1,7 +1,6 @@
 var a18378 =
 [
-    [ "OnApply", "d5/d08/a18378.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "d5/d08/a18378.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "d5/d08/a18378.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "d5/d08/a18378.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "npc_impaling_spearAI", "d3/deb/a18382.html", "d3/deb/a18382" ],
+    [ "npc_impaling_spear", "d5/d08/a18378.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "d5/d08/a18378.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

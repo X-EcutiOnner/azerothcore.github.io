@@ -1,6 +1,7 @@
 var a21626 =
 [
-    [ "npc_venture_co_stragglerAI", "d1/d10/a21630.html", "d1/d10/a21630" ],
-    [ "npc_venture_co_straggler", "d3/d13/a21626.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "d3/d13/a21626.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "npc_tallhorn_stagAI", "d3/d13/a21626.html#a50947c450eece979193b45728e5e1f82", null ],
+    [ "Reset", "d3/d13/a21626.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
+    [ "UpdateAI", "d3/d13/a21626.html#adf60f62fa92238cb315c42e0179c3f17", null ],
+    [ "_phase", "d3/d13/a21626.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
 ];

@@ -1,7 +1,9 @@
 var a09738 =
 [
-    [ "Finalize", "d3/d85/a09738.html#a90c8b42ef67968bf58acae5678dc7496", null ],
-    [ "Initialize", "d3/d85/a09738.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
-    [ "Reset", "d3/d85/a09738.html#a6db99ea9863dc60d032bacda37afa078", null ],
-    [ "Update", "d3/d85/a09738.html#af044c8725ef11e8a152987225521ef8b", null ]
+    [ "ChaseAngle", "d3/d85/a09738.html#a0744c615f437514a52b5a26fb717013a", null ],
+    [ "IsAngleOkay", "d3/d85/a09738.html#aec86c653850655b723e5224ea20b0e21", null ],
+    [ "LowerBound", "d3/d85/a09738.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
+    [ "UpperBound", "d3/d85/a09738.html#a275d01ce57b23d42d4150b10c8433dee", null ],
+    [ "RelativeAngle", "d3/d85/a09738.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
+    [ "Tolerance", "d3/d85/a09738.html#a2bb42885da594380cb742c29b6518ea3", null ]
 ];

@@ -1,5 +1,5 @@
 var a12610 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "df/d23/a12610.html#ad083ab5aa00902987e18f4e9423a705a", null ],
-    [ "ProcessEvent", "df/d23/a12610.html#a8dbe1537ea00412a6fa366891204d645", null ]
+    [ "boss_apoko", "df/d23/a12610.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
+    [ "JustEngagedWith", "df/d23/a12610.html#a7ad52b258863bd818b3e5d1143de7629", null ]
 ];

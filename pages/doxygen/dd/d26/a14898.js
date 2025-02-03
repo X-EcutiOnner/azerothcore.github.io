@@ -1,6 +1,7 @@
 var a14898 =
 [
-    [ "HandleOnHit", "dd/d26/a14898.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
-    [ "PrepareSpellScript", "dd/d26/a14898.html#a9e568a1608715973fc438ff5e4356714", null ],
-    [ "Register", "dd/d26/a14898.html#a752d697aada626440fdff2bd889f890f", null ]
+    [ "FilterTargets", "dd/d26/a14898.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
+    [ "HandleOnHit", "dd/d26/a14898.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
+    [ "PrepareSpellScript", "dd/d26/a14898.html#ad7372e543391a23c003b4121e0dd8a09", null ],
+    [ "Register", "dd/d26/a14898.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
 ];

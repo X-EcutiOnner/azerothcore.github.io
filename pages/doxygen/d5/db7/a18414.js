@@ -1,5 +1,7 @@
 var a18414 =
 [
-    [ "at_icc_saurfang_portal", "d5/db7/a18414.html#a7f30058251c520634a0b7bad08380e5d", null ],
-    [ "OnTrigger", "d5/db7/a18414.html#a8980fe0e67aa33335f0fdb947a294213", null ]
+    [ "HandleQuestComplete", "d5/db7/a18414.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "d5/db7/a18414.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "d5/db7/a18414.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "d5/db7/a18414.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

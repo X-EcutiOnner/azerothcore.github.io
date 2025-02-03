@@ -1,5 +1,6 @@
 var a18086 =
 [
-    [ "npc_icc_lk_checktargetAI", "d6/d5e/a18086.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
-    [ "CanAIAttack", "d6/d5e/a18086.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
+    [ "npc_spirit_wardenAI", "d4/d3a/a18090.html", "d4/d3a/a18090" ],
+    [ "npc_spirit_warden", "d6/d5e/a18086.html#ab585d20eadb7876752d731702db44293", null ],
+    [ "GetAI", "d6/d5e/a18086.html#ab33ab494d7fee64eed7c75464ce60489", null ]
 ];

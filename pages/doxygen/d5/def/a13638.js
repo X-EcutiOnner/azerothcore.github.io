@@ -1,6 +1,6 @@
 var a13638 =
 [
-    [ "boss_gahzranka", "d5/def/a13638.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "d5/def/a13638.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "d5/def/a13638.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "boss_arlokkAI", "da/de2/a13642.html", "da/de2/a13642" ],
+    [ "boss_arlokk", "d5/def/a13638.html#a55bb21239e05acff18d2fb147449800e", null ],
+    [ "GetAI", "d5/def/a13638.html#a58b8cc7a198784b48faaab1b069d397c", null ]
 ];

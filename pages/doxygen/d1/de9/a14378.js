@@ -1,10 +1,7 @@
 var a14378 =
 [
-    [ "npc_hyjal_frost_wyrm", "d1/de9/a14378.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "d1/de9/a14378.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "d1/de9/a14378.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "d1/de9/a14378.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "d1/de9/a14378.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "d1/de9/a14378.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "d1/de9/a14378.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "hyjalTyrandeAI", "d8/de8/a14382.html", "d8/de8/a14382" ],
+    [ "npc_hyjal_tyrande", "d1/de9/a14378.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
+    [ "GetAI", "d1/de9/a14378.html#a2f863e616352a98763eef9a717d73388", null ],
+    [ "OnGossipSelect", "d1/de9/a14378.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
 ];

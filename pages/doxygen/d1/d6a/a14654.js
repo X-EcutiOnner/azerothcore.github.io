@@ -1,8 +1,7 @@
 var a14654 =
 [
-    [ "HandleScript", "d1/d6a/a14654.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "d1/d6a/a14654.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "d1/d6a/a14654.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "d1/d6a/a14654.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "d1/d6a/a14654.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "npc_hive_zara_larva", "d1/d6a/a14654.html#a50fb5738d7b0818689216fee0915a0de", null ],
+    [ "JustSummoned", "d1/d6a/a14654.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
+    [ "MovementInform", "d1/d6a/a14654.html#a6890c58106450d654062f548a80cb42f", null ],
+    [ "_instance", "d1/d6a/a14654.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
 ];

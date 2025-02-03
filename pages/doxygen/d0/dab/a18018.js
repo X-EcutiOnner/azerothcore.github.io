@@ -1,7 +1,21 @@
 var a18018 =
 [
-    [ "PrepareSpellScript", "d0/dab/a18018.html#a3283e829757b50bb52f66ee1e64033ae", null ],
-    [ "Register", "d0/dab/a18018.html#a0162c92c32210f2873686610f4f00b87", null ],
-    [ "TriggerHeal", "d0/dab/a18018.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
-    [ "Validate", "d0/dab/a18018.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
+    [ "npc_valkyr_shadowguardAI", "d0/dab/a18018.html#af547ffffa48ee8d7b0f6babbd0e9875e", null ],
+    [ "DamageTaken", "d0/dab/a18018.html#a1b0e94459893f8d5e1bc68248f78d3f0", null ],
+    [ "GoSiphon", "d0/dab/a18018.html#a1ea3393d5438a39c15e68320880be7ab", null ],
+    [ "HandleSpeedChangeIfNeeded", "d0/dab/a18018.html#a022ed151fca8c540e65cc8dda3acb2a7", null ],
+    [ "IsHeroic", "d0/dab/a18018.html#acd70f755f4a14f5f8749b59c953fdb5d", null ],
+    [ "MovementInform", "d0/dab/a18018.html#a9b75af98b11bf1115dfd7ce852ab7591", null ],
+    [ "OnCharmed", "d0/dab/a18018.html#a2b99d9de8ccc94725510c97e170ac8d5", null ],
+    [ "PassengerBoarded", "d0/dab/a18018.html#ada0a8d7e47f22f1c80dd9e9cdd30e9cd", null ],
+    [ "SetGUID", "d0/dab/a18018.html#a91766f8e2fb70b1452cbb2c075717b1a", null ],
+    [ "UpdateAI", "d0/dab/a18018.html#a0a6516088aa077f3e01c892cde9e05ae", null ],
+    [ "_destPoint", "d0/dab/a18018.html#a2b8c47299a68e7d69008083d49aa1c33", null ],
+    [ "_events", "d0/dab/a18018.html#a46c748273b495368255f8668f5da8bdd", null ],
+    [ "_grabbedPlayer", "d0/dab/a18018.html#ad2d2e3f45a7cb8e9bece6a46036d75b6", null ],
+    [ "_instance", "d0/dab/a18018.html#a575802dd7bf6d7359724d725b62ce604", null ],
+    [ "_lastSpeed", "d0/dab/a18018.html#a8a6d32250ac109bd20bde1aa139621ea", null ],
+    [ "didbelow50pct", "d0/dab/a18018.html#a4e4a3d24f853fda03c52dc11b56f4306", null ],
+    [ "dropped", "d0/dab/a18018.html#ae13cffcbcec48bb26f5d301a543615f5", null ],
+    [ "grabbed", "d0/dab/a18018.html#aea20be843c1f9c3402edd903b938292d", null ]
 ];

@@ -1,6 +1,5 @@
 var a27390 =
 [
-    [ "X", "d5/d36/a27390.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "d5/d36/a27390.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "d5/d36/a27390.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "ServerMailReward", "d5/d36/a27390.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnLogin", "d5/d36/a27390.html#a8ab4fb6042c3f32ca327cf965330afd2", null ]
 ];

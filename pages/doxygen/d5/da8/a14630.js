@@ -1,14 +1,16 @@
 var a14630 =
 [
-    [ "boss_ayamiss", "d5/da8/a14630.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
-    [ "DoAction", "d5/da8/a14630.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
-    [ "EnterEvadeMode", "d5/da8/a14630.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
-    [ "JustDied", "d5/da8/a14630.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
-    [ "JustEngagedWith", "d5/da8/a14630.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
-    [ "JustSummoned", "d5/da8/a14630.html#a4281f761256cd93c19aea0a76239512d", null ],
-    [ "MovementInform", "d5/da8/a14630.html#a6bc1f0767785efb5a5fb005b49338032", null ],
-    [ "Reset", "d5/da8/a14630.html#a10111f97236c2846181aa20f7d9b64fd", null ],
-    [ "ScheduleTasks", "d5/da8/a14630.html#a166238b9395a426a7333cf71a38c6c5c", null ],
-    [ "_swarmers", "d5/da8/a14630.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
-    [ "homePos", "d5/da8/a14630.html#ab098ee0f8872d1cf9d34993c01971921", null ]
+    [ "npc_belnistraszAI", "d5/da8/a14630.html#ac57c5de9140d8d37b15b4a30f4ffc0a1", null ],
+    [ "JustDied", "d5/da8/a14630.html#aece63cabcfb2bcf54992dc2b4832ca92", null ],
+    [ "JustEngagedWith", "d5/da8/a14630.html#ab03f29b1f76b7d67e7d7bb3407e2cd41", null ],
+    [ "MovementInform", "d5/da8/a14630.html#ae64e10d0cc860bf033b76538455b9f8e", null ],
+    [ "Reset", "d5/da8/a14630.html#aecf1ef9b7f6eecec9489d27ce41deea2", null ],
+    [ "sQuestAccept", "d5/da8/a14630.html#aa18258b7f80c040d6a5fb9fbbb321efe", null ],
+    [ "UpdateAI", "d5/da8/a14630.html#a45481c2ef18ab3fec727813de96eb1b6", null ],
+    [ "channeling", "d5/da8/a14630.html#a88ff13ec705d11475de5a2080998c905", null ],
+    [ "eventInProgress", "d5/da8/a14630.html#ae9ce796b17c7791d83e949fa406a2b80", null ],
+    [ "eventProgress", "d5/da8/a14630.html#ad32a0387dbf95b6aa40b3311d6ba8348", null ],
+    [ "events", "d5/da8/a14630.html#af9c1f14a7a7b7380e9fb99ecdaf80126", null ],
+    [ "instance", "d5/da8/a14630.html#a61f3bcbf36e630bbb455405eb89ccf00", null ],
+    [ "spawnerCount", "d5/da8/a14630.html#aa5124160ecba044a3752f68945068776", null ]
 ];

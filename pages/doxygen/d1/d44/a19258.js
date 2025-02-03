@@ -1,6 +1,6 @@
 var a19258 =
 [
-    [ "CalculateDamage", "d1/d44/a19258.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
-    [ "PrepareSpellScript", "d1/d44/a19258.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
-    [ "Register", "d1/d44/a19258.html#a02851f0b94687512a8e016bfb9b826e3", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d8/d36/a19262.html", "d8/d36/a19262" ],
+    [ "instance_halls_of_lightning", "d1/d44/a19258.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "d1/d44/a19258.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

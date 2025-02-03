@@ -1,6 +1,6 @@
 var a12010 =
 [
-    [ "boss_firemawAI", "d2/d2c/a12014.html", "d2/d2c/a12014" ],
-    [ "boss_firemaw", "dd/dbc/a12010.html#a71174eb128356802be0029fd9e24fe1f", null ],
-    [ "GetAI", "dd/dbc/a12010.html#a3a20bcefa86a21daaecaef14396dadc4", null ]
+    [ "go_chromaggus_leverAI", "dd/dbc/a12010.html#a51406a7e313702282cebfbf067c9ce4e", null ],
+    [ "GossipHello", "dd/dbc/a12010.html#a44ece597fcfcf290234cc1ef073fbf18", null ],
+    [ "_instance", "dd/dbc/a12010.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90", null ]
 ];

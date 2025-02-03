@@ -1,9 +1,7 @@
 var a12046 =
 [
-    [ "npc_drakonid_spawner", "d4/d19/a12046.html#a2b657e800dc5cc30c618391413ded116", null ],
-    [ "DoAction", "d4/d19/a12046.html#ab013cff0430c09fe1045fdc735e45182", null ],
-    [ "IsSummonedBy", "d4/d19/a12046.html#a6a2170e0f20736d69006ce6d6c769476", null ],
-    [ "SummonedCreatureDies", "d4/d19/a12046.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
-    [ "UpdateAI", "d4/d19/a12046.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
-    [ "_owner", "d4/d19/a12046.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
+    [ "ClassCallSelector", "d4/d19/a12046.html#a223895c97121b0727aac258c12c89e0b", null ],
+    [ "operator()", "d4/d19/a12046.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
+    [ "_me", "d4/d19/a12046.html#a5347a24609a21ae0a342682104b1dc14", null ],
+    [ "_targetClass", "d4/d19/a12046.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
 ];

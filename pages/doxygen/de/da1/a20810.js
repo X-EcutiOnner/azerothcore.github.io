@@ -1,6 +1,7 @@
 var a20810 =
 [
-    [ "npc_ferocious_rhinoAI", "dc/d30/a20814.html", "dc/d30/a20814" ],
-    [ "npc_ferocious_rhino", "de/da1/a20810.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "de/da1/a20810.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "HandleOnEffectRemove", "de/da1/a20810.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
+    [ "PrepareAuraScript", "de/da1/a20810.html#a72e6468602d40eb479a80c611d60eb2e", null ],
+    [ "Register", "de/da1/a20810.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
+    [ "Validate", "de/da1/a20810.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
 ];

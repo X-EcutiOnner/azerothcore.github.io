@@ -1,7 +1,6 @@
 var a22370 =
 [
-    [ "npc_voidtraveler", "df/d30/a22370.html#a07e473c14836a0612acd52078a93f2d8", null ],
-    [ "Reset", "df/d30/a22370.html#a6efe0725917c92657220de2b60579289", null ],
-    [ "UpdateAI", "df/d30/a22370.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
-    [ "_scheduler", "df/d30/a22370.html#a1809494e7803103f6bc1698e780dcfbc", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "db/d8b/a22374.html", "db/d8b/a22374" ],
+    [ "instance_sethekk_halls", "df/d30/a22370.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "df/d30/a22370.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

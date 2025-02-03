@@ -1,7 +1,9 @@
 var a09246 =
 [
-    [ "PowerCheck", "df/dc1/a09246.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
-    [ "operator()", "df/dc1/a09246.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
-    [ "_equals", "df/dc1/a09246.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
-    [ "_power", "df/dc1/a09246.html#a922a57b62b4289835b539a69b0f58fa1", null ]
+    [ "UnitAuraCheck", "df/dc1/a09246.html#acbc0c969db8b768720ab3b8235c28352", null ],
+    [ "operator()", "df/dc1/a09246.html#abc385cad226ac51c09a908864d360fd3", null ],
+    [ "operator()", "df/dc1/a09246.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
+    [ "_casterGUID", "df/dc1/a09246.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
+    [ "_present", "df/dc1/a09246.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
+    [ "_spellId", "df/dc1/a09246.html#a0dd71c851f803fb70a4543c77b672889", null ]
 ];

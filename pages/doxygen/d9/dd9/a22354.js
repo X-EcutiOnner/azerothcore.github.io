@@ -1,5 +1,8 @@
 var a22354 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d9/dd9/a22354.html#a037ee225b626b64436570680ae4e9ea0", null ],
-    [ "ProcessEvent", "d9/dd9/a22354.html#aba05b0edb57e6c42bd45593a51598365", null ]
+    [ "npc_anzu_spirit", "d9/dd9/a22354.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "d9/dd9/a22354.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "d9/dd9/a22354.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "d9/dd9/a22354.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "d9/dd9/a22354.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

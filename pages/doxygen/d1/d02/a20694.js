@@ -1,6 +1,7 @@
 var a20694 =
 [
-    [ "instance_ulduar_InstanceMapScript", "df/d9d/a20698.html", "df/d9d/a20698" ],
-    [ "instance_ulduar", "d1/d02/a20694.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "d1/d02/a20694.html#ad15f003a90e656910fc32d661ca9baba", null ]
+    [ "HandleProc", "d1/d02/a20694.html#a1b8782a4f22522cfe224073515abdf45", null ],
+    [ "PrepareAuraScript", "d1/d02/a20694.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
+    [ "Register", "d1/d02/a20694.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
+    [ "Validate", "d1/d02/a20694.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
 ];

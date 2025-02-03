@@ -1,8 +1,8 @@
 var a01484 =
 [
-    [ "BattlegroundObjectInfo", "d9/d5f/a07142.html", "d9/d5f/a07142" ],
-    [ "ArenaLogEntryData", "de/d85/a07146.html", "de/d85/a07146" ],
-    [ "Battleground", "df/ddd/a07150.html", "df/ddd/a07150" ],
+    [ "BattlegroundObjectInfo", "df/ddd/a07150.html", "df/ddd/a07150" ],
+    [ "ArenaLogEntryData", "d1/d77/a07154.html", "d1/d77/a07154" ],
+    [ "Battleground", "d1/d40/a07158.html", "d1/d40/a07158" ],
     [ "ARENA_READY_MARKER_ENTRY", "d2/d21/a01484.html#a6a7fd9b1828af2ddf38c218262c12c4e", null ],
     [ "ARENA_TIMELIMIT_POINTS_LOSS", "d2/d21/a01484.html#ac5cce663c0f08dc6af7fb2d1ddf35e30", null ],
     [ "BATTLEGROUND_UPDATE_INTERVAL", "d2/d21/a01484.html#a0d902c83a67b6fe19e8257bb23cef6bc", null ],

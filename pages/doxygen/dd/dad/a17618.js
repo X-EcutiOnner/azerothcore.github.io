@@ -1,6 +1,6 @@
 var a17618 =
 [
-    [ "OnRemove", "dd/dad/a17618.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
-    [ "PrepareAuraScript", "dd/dad/a17618.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
-    [ "Register", "dd/dad/a17618.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
+    [ "HandleScript", "dd/dad/a17618.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
+    [ "PrepareSpellScript", "dd/dad/a17618.html#a50560d754709e6b9ec6863142c1ffce3", null ],
+    [ "Register", "dd/dad/a17618.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
 ];

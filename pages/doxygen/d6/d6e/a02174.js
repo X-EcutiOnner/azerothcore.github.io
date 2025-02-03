@@ -1,13 +1,13 @@
 var a02174 =
 [
-    [ "WayPoint", "d4/d3a/a06162.html", "d4/d3a/a06162" ],
-    [ "SmartEvent", "d0/d64/a06166.html", "d0/d64/a06166" ],
-    [ "SmartAction", "db/d59/a06346.html", "db/d59/a06346" ],
-    [ "SmartTarget", "d6/df9/a06826.html", "d6/df9/a06826" ],
-    [ "SmartScriptHolder", "d9/dbb/a06934.html", "d9/dbb/a06934" ],
-    [ "ObjectGuidVector", "d6/d02/a06938.html", "d6/d02/a06938" ],
-    [ "SmartWaypointMgr", "d5/deb/a06942.html", "d5/deb/a06942" ],
-    [ "SmartAIMgr", "d0/d21/a06946.html", "d0/d21/a06946" ],
+    [ "WayPoint", "d0/d64/a06166.html", "d0/d64/a06166" ],
+    [ "SmartEvent", "d4/de0/a06170.html", "d4/de0/a06170" ],
+    [ "SmartAction", "dc/d1c/a06350.html", "dc/d1c/a06350" ],
+    [ "SmartTarget", "d2/d8d/a06834.html", "d2/d8d/a06834" ],
+    [ "SmartScriptHolder", "d5/deb/a06942.html", "d5/deb/a06942" ],
+    [ "ObjectGuidVector", "d0/d21/a06946.html", "d0/d21/a06946" ],
+    [ "SmartWaypointMgr", "d7/d30/a06950.html", "d7/d30/a06950" ],
+    [ "SmartAIMgr", "d0/d1d/a06954.html", "d0/d1d/a06954" ],
     [ "sSmartScriptMgr", "d6/d6e/a02174.html#a6fcbfe722a7e6345cf5c655c860d9ad3", null ],
     [ "sSmartWaypointMgr", "d6/d6e/a02174.html#a2f98805bdaae76c9a1c2b6ce9e815d84", null ],
     [ "ObjectVector", "d6/d6e/a02174.html#a3d080db7fa99da7af5bcaa7720f359d1", null ],
@@ -202,6 +202,7 @@ var a02174 =
       [ "SMART_ACTION_MOVEMENT_PAUSE", "d6/d6e/a02174.html#a7b5604e647b8ac28cc6a4a64deceeebcaaf59e3054ca8582e258de99e02a156f9", null ],
       [ "SMART_ACTION_MOVEMENT_RESUME", "d6/d6e/a02174.html#a7b5604e647b8ac28cc6a4a64deceeebca2b1608d8533efbcc9a63811f09c6c2ef", null ],
       [ "SMART_ACTION_WORLD_SCRIPT", "d6/d6e/a02174.html#a7b5604e647b8ac28cc6a4a64deceeebca4c6f10882f7a391d9a57c4837ab6790d", null ],
+      [ "SMART_ACTION_DISABLE_REWARD", "d6/d6e/a02174.html#a7b5604e647b8ac28cc6a4a64deceeebcaf206e07c1061964cce3d2ed7869276dd", null ],
       [ "SMART_ACTION_AC_END", "d6/d6e/a02174.html#a7b5604e647b8ac28cc6a4a64deceeebcaacf291aa22d320776664fc49e057aae6", null ]
     ] ],
     [ "SMART_EVENT", "d6/d6e/a02174.html#a8e5d5aa0dedbff31bb70e7955ad5bf97", [

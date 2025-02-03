@@ -1,12 +1,16 @@
 var a09318 =
 [
-    [ "LogEntry", "dd/d31/a09318.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
-    [ "LogEntry", "dd/d31/a09318.html#aba3f6f501c59e356166abe71082c421b", null ],
-    [ "~LogEntry", "dd/d31/a09318.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
-    [ "GetGUID", "dd/d31/a09318.html#a7af4eac577f8da07540f81e185b2ad49", null ],
-    [ "GetTimestamp", "dd/d31/a09318.html#a643c92439463707671bb08b72bf3a447", null ],
-    [ "SaveToDB", "dd/d31/a09318.html#a1c00aa88973423a1c112c2776a14e78f", null ],
-    [ "m_guid", "dd/d31/a09318.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
-    [ "m_guildId", "dd/d31/a09318.html#a89e0192732a43dc44aff3730bc5ad445", null ],
-    [ "m_timestamp", "dd/d31/a09318.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
+    [ "GuildBankRightsAndSlots", "dd/d31/a09318.html#ae00a8b8f227d7afdcf08847e3787ee0d", null ],
+    [ "GuildBankRightsAndSlots", "dd/d31/a09318.html#af5f0087090a7145a22baa1396822318b", null ],
+    [ "GuildBankRightsAndSlots", "dd/d31/a09318.html#a4bdf40d99704211b9e80b554ebade54f", null ],
+    [ "GetRights", "dd/d31/a09318.html#a19b76bebdb62434191189ba789c2810f", null ],
+    [ "GetSlots", "dd/d31/a09318.html#a51780060b5699bed6b78cc9ba4e95371", null ],
+    [ "GetTabId", "dd/d31/a09318.html#a6ba7c49480a1c5325d3702fb61d397cc", null ],
+    [ "SetGuildMasterValues", "dd/d31/a09318.html#a1399f191b3b0a44dc1e76fc49adc1412", null ],
+    [ "SetRights", "dd/d31/a09318.html#abf4e1f1556554e7f756dc566fbdd7f40", null ],
+    [ "SetSlots", "dd/d31/a09318.html#a8ed33a4e1d2a957d61c5f7556533f225", null ],
+    [ "SetTabId", "dd/d31/a09318.html#abe84f6bcdfd48d70b894470d025f3aae", null ],
+    [ "rights", "dd/d31/a09318.html#a2a8f5acf21828bfa15d0b3dd6874b5cb", null ],
+    [ "slots", "dd/d31/a09318.html#a5a327399d94704bc290199baa21ff8d7", null ],
+    [ "tabId", "dd/d31/a09318.html#ab09825a02a7a21a4915595230d2a5839", null ]
 ];

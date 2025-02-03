@@ -1,11 +1,7 @@
 var a02753 =
 [
-    [ "npc_announcer_toc10", "d9/d2d/a16330.html", "d9/d2d/a16330" ],
-    [ "MenuTexts", "d9/d93/a02753.html#a5e87c460d493df2d4629af8c1a30fc5a", [
-      [ "MSG_TESTED", "d9/d93/a02753.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
-      [ "MSG_NEXT_STAGE", "d9/d93/a02753.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
-      [ "MSG_CRUSADERS", "d9/d93/a02753.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
-      [ "MSG_ANUBARAK", "d9/d93/a02753.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
-    ] ],
-    [ "AddSC_trial_of_the_crusader", "d9/d93/a02753.html#aae8fa1928137dde06462a753ceebcca6", null ]
+    [ "instance_trial_of_the_crusader", "d9/dc6/a16342.html", "d9/dc6/a16342" ],
+    [ "instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript", "da/db0/a16346.html", "da/db0/a16346" ],
+    [ "AddSC_instance_trial_of_the_crusader", "d9/d93/a02753.html#af823cabf441f9e6a5443da42df4fda4f", null ],
+    [ "validDedicatedInsanityItems", "d9/d93/a02753.html#ad29a01125872f689fb9953e9b3beb8e8", null ]
 ];

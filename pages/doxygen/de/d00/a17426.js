@@ -1,6 +1,5 @@
 var a17426 =
 [
-    [ "npc_cult_fanaticAI", "d4/d6d/a17430.html", "d4/d6d/a17430" ],
-    [ "npc_cult_fanatic", "de/d00/a17426.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "de/d00/a17426.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "achievement_im_on_a_boat", "de/d00/a17426.html#aa25d330534aab023ec798e86976a6d50", null ],
+    [ "OnCheck", "de/d00/a17426.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
 ];

@@ -1,6 +1,6 @@
 var a00758 =
 [
-    [ "AllMapScript", "d8/d23/a10030.html", "d8/d23/a10030" ],
+    [ "AllMapScript", "df/d1c/a10042.html", "df/d1c/a10042" ],
     [ "AllMapHook", "d2/d4a/a00758.html#a78db4e64fe232d8b547270090d8e3b92", [
       [ "ALLMAPHOOK_ON_PLAYER_ENTER_ALL", "d2/d4a/a00758.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa", null ],
       [ "ALLMAPHOOK_ON_PLAYER_LEAVE_ALL", "d2/d4a/a00758.html#a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae", null ],

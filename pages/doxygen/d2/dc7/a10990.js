@@ -1,6 +1,7 @@
 var a10990 =
 [
-    [ "apPctMod", "d2/dc7/a10990.html#a35f5f8f7a3ac33768299913fecc1cf8d", null ],
-    [ "flatMod", "d2/dc7/a10990.html#a0d66e48d986f246e6aea08dd00837158", null ],
-    [ "pctMod", "d2/dc7/a10990.html#af13802a7f6872cfce3a1d14655f30287", null ]
+    [ "attributeMask", "d2/dc7/a10990.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
+    [ "customChance", "d2/dc7/a10990.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
+    [ "PPMChance", "d2/dc7/a10990.html#adb76c11f0073a2738374c98c01fda009", null ],
+    [ "procEx", "d2/dc7/a10990.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
 ];

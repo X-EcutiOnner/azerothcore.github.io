@@ -1,11 +1,9 @@
 var a10886 =
 [
-    [ "SpellValue", "d2/d3a/a10886.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
-    [ "AuraDuration", "d2/d3a/a10886.html#af44c190ba8a8636d78f8d271656bdd02", null ],
-    [ "AuraStackAmount", "d2/d3a/a10886.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
-    [ "EffectBasePoints", "d2/d3a/a10886.html#a4de44adea4dc620f0871215e4d4f611d", null ],
-    [ "ForcedCritResult", "d2/d3a/a10886.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
-    [ "MaxAffectedTargets", "d2/d3a/a10886.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
-    [ "MiscVal", "d2/d3a/a10886.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
-    [ "RadiusMod", "d2/d3a/a10886.html#a135bbce8300101411e87a70467dbbd57", null ]
+    [ "SpellEvent", "d2/d3a/a10886.html#abca64eb7d39df9788cef9df7e8634368", null ],
+    [ "~SpellEvent", "d2/d3a/a10886.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
+    [ "Abort", "d2/d3a/a10886.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
+    [ "Execute", "d2/d3a/a10886.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
+    [ "IsDeletable", "d2/d3a/a10886.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
+    [ "m_Spell", "d2/d3a/a10886.html#a22cce1d722f5086932ae3e97c58d2921", null ]
 ];

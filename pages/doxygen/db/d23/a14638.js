@@ -1,5 +1,5 @@
 var a14638 =
 [
-    [ "npc_hive_zara_swarmer", "db/d23/a14638.html#a374fa63e210e0be8a074af9199126a9e", null ],
-    [ "PathEndReached", "db/d23/a14638.html#a3b3510bd00853395b756e1d83d96a474", null ]
+    [ "npc_idol_room_spawnerAI", "db/d23/a14638.html#a77c4aa88d213271166158c8e75d41a69", null ],
+    [ "SetData", "db/d23/a14638.html#aa0626c837086b4a275f4d51d1659a242", null ]
 ];

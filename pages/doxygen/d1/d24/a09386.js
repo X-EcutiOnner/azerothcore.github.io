@@ -1,6 +1,9 @@
 var a09386 =
 [
-    [ "NpcTextLocale", "d1/d24/a09386.html#af1ddddeff75a1a51c51ebb1fec3f4f05", null ],
-    [ "Text_0", "d1/d24/a09386.html#adf17307b9d00e0b63b9c2827fca96320", null ],
-    [ "Text_1", "d1/d24/a09386.html#a40f69a13a202c350fdce2177288727e9", null ]
+    [ "BroadcastTextID", "d1/d24/a09386.html#a756f24dbee852a7fbe152c0cb082c412", null ],
+    [ "Emotes", "d1/d24/a09386.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
+    [ "Language", "d1/d24/a09386.html#a33bc5a0c156918b00380710aeb275d3d", null ],
+    [ "Probability", "d1/d24/a09386.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
+    [ "Text_0", "d1/d24/a09386.html#a046d637b91807db067c6e7050184322d", null ],
+    [ "Text_1", "d1/d24/a09386.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
 ];

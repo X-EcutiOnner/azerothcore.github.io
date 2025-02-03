@@ -1,7 +1,7 @@
 var a00623 =
 [
-    [ "CliCommandHolder", "d0/dfa/a11326.html", "d0/dfa/a11326" ],
-    [ "IWorld", "d5/d8e/a11330.html", "d5/d8e/a11330" ],
+    [ "CliCommandHolder", "d9/d07/a11338.html", "d9/d07/a11338" ],
+    [ "IWorld", "d5/de4/a11342.html", "d5/de4/a11342" ],
     [ "SessionMap", "df/d6f/a00623.html#a24a95911e6375202b09db2333ec94fc1", null ],
     [ "Rates", "df/d6f/a00623.html#a7ba5c3e6b385572c3bd751b6c9da9a20", [
       [ "RATE_HEALTH", "df/d6f/a00623.html#a7ba5c3e6b385572c3bd751b6c9da9a20a8bdee348b397c9fbaa19c38d23814cb2", null ],
@@ -462,6 +462,7 @@ var a00623 =
       [ "CONFIG_DAILY_RBG_MIN_LEVEL_AP_REWARD", "df/d6f/a00623.html#a17aac4c166ebe43e3b8fdccf9e012e41a1ba708497da36f4c2f99063e50fc62d9", null ],
       [ "CONFIG_AUCTIONHOUSE_WORKERTHREADS", "df/d6f/a00623.html#a17aac4c166ebe43e3b8fdccf9e012e41acbf04c7b237f0ea807ec2f3b3aa88de6", null ],
       [ "CONFIG_SPELL_QUEUE_WINDOW", "df/d6f/a00623.html#a17aac4c166ebe43e3b8fdccf9e012e41a5e104e52d4032d6b6507b8e7c9997ac3", null ],
+      [ "CONFIG_SUNSREACH_COUNTER_MAX", "df/d6f/a00623.html#a17aac4c166ebe43e3b8fdccf9e012e41aa665c623ee4ce5d5942b73e3864328f4", null ],
       [ "INT_CONFIG_VALUE_COUNT", "df/d6f/a00623.html#a17aac4c166ebe43e3b8fdccf9e012e41a17d8a53ae2d7130180aac066b2f64adb", null ]
     ] ]
 ];

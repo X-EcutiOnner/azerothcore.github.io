@@ -1,6 +1,6 @@
 var a15650 =
 [
-    [ "boss_sartharion_tenebronAI", "de/dea/a15654.html", "de/dea/a15654" ],
-    [ "boss_sartharion_tenebron", "d8/dd5/a15650.html#ada445771d2d3d01fb586f15d62e21755", null ],
-    [ "GetAI", "d8/dd5/a15650.html#a2eb4555506167a4aee7b844e305d7107", null ]
+    [ "HandleScriptEffect", "d8/dd5/a15650.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d8/dd5/a15650.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d8/dd5/a15650.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

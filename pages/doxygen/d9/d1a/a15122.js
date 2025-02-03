@@ -1,11 +1,7 @@
 var a15122 =
 [
-    [ "npc_tiger_matriarchAI", "d9/d1a/a15122.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
-    [ "DamageTaken", "d9/d1a/a15122.html#ab41c4275fe4f42b36615f746a100ccda", null ],
-    [ "IsSummonedBy", "d9/d1a/a15122.html#a8b02683be93944a65b38658bba0af4d8", null ],
-    [ "JustEngagedWith", "d9/d1a/a15122.html#a9a9295008552f5330f778dd3a0c591ea", null ],
-    [ "KilledUnit", "d9/d1a/a15122.html#aabde7633ac07966ee1cd2d9817582189", null ],
-    [ "UpdateAI", "d9/d1a/a15122.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
-    [ "_events", "d9/d1a/a15122.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
-    [ "_tigerGuid", "d9/d1a/a15122.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "d7/de6/a15126.html", "d7/de6/a15126" ],
+    [ "npc_aged_dying_ancient_kodo", "d9/d1a/a15122.html#a676170a319d3a8e46c9d017e61396c28", null ],
+    [ "GetAI", "d9/d1a/a15122.html#a886bc82764e4ca6d98dc94ea73415375", null ],
+    [ "OnGossipHello", "d9/d1a/a15122.html#a8489b3f23d8eca39f2750711512672e4", null ]
 ];

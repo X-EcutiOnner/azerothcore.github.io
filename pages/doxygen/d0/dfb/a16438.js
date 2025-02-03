@@ -1,6 +1,5 @@
 var a16438 =
 [
-    [ "boss_bronjahmAI", "d1/dfc/a16442.html", "d1/dfc/a16442" ],
-    [ "boss_bronjahm", "d0/dfb/a16438.html#a699e1be5273979c76cd5d06b60f0ee05", null ],
-    [ "GetAI", "d0/dfb/a16438.html#a04676028f1f324b6eecea625122794ed", null ]
+    [ "achievement_consumption_junction", "d0/dfb/a16438.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
+    [ "OnCheck", "d0/dfb/a16438.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
 ];

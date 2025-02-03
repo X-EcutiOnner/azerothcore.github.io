@@ -1,5 +1,6 @@
 var a27370 =
 [
-    [ "ServerMailReward", "df/d34/a27370.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnLogin", "df/d34/a27370.html#a8ab4fb6042c3f32ca327cf965330afd2", null ]
+    [ "npc_venomhide_hatchlingAI", "df/d34/a27370.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "df/d34/a27370.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "df/d34/a27370.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

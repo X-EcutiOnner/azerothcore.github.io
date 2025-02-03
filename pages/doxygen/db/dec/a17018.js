@@ -1,7 +1,6 @@
 var a17018 =
 [
-    [ "HandleScript", "db/dec/a17018.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "db/dec/a17018.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "db/dec/a17018.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "db/dec/a17018.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "npc_kinetic_bombAI", "df/d1d/a17022.html", "df/d1d/a17022" ],
+    [ "npc_kinetic_bomb", "db/dec/a17018.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
+    [ "GetAI", "db/dec/a17018.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
 ];

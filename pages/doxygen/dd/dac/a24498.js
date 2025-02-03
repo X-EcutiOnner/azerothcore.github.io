@@ -1,9 +1,8 @@
 var a24498 =
 [
-    [ "FilterTargets", "dd/dac/a24498.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
-    [ "PrepareSpellScript", "dd/dac/a24498.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
-    [ "Register", "dd/dac/a24498.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
-    [ "SetTargets", "dd/dac/a24498.html#ac77e95af9b08118e87e3329eab5515ea", null ],
-    [ "Validate", "dd/dac/a24498.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
-    [ "_targets", "dd/dac/a24498.html#acc66768f54c514552f0ab01274c24f17", null ]
+    [ "AfterApply", "dd/dac/a24498.html#a9c2591beacd941893338109719c03e3f", null ],
+    [ "AfterRemove", "dd/dac/a24498.html#a0be2a66b615dd926de7073392a8e5062", null ],
+    [ "PrepareAuraScript", "dd/dac/a24498.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
+    [ "Register", "dd/dac/a24498.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
+    [ "Validate", "dd/dac/a24498.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
 ];

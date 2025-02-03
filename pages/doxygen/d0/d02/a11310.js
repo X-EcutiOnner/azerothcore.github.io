@@ -1,18 +1,12 @@
 var a11310 =
 [
-    [ "WardenWin", "d0/d02/a11310.html#ace17ee6e11a0c88478dc9f24c1c7db8f", null ],
-    [ "~WardenWin", "d0/d02/a11310.html#ac1264c71c1e6f80fa70bf1794aa41368", null ],
-    [ "ForceChecks", "d0/d02/a11310.html#a2a0e780572b1870f692803caa1ef673d", null ],
-    [ "GetModuleForClient", "d0/d02/a11310.html#ad5dbc585ebb22eda2e1265f14129aa5c", null ],
-    [ "HandleData", "d0/d02/a11310.html#a9860f6b2c0beb6d730b02c99e6172690", null ],
-    [ "HandleHashResult", "d0/d02/a11310.html#a05ab06f2a7928affab20fd1b795a2d3f", null ],
-    [ "Init", "d0/d02/a11310.html#a3222620148b84a4d95593800a83ba3fa", null ],
-    [ "InitializeModule", "d0/d02/a11310.html#a2082c6a634c5b1f6cb63d376ff9a9695", null ],
-    [ "IsCheckInProgress", "d0/d02/a11310.html#aee57f10f6f4f676908c54f305210b6bc", null ],
-    [ "RequestChecks", "d0/d02/a11310.html#a9a3e9b53f66e97a615c288058b9adcf3", null ],
-    [ "RequestHash", "d0/d02/a11310.html#abb53eb2b1d9dc95f8e77d12d4086c6c1", null ],
-    [ "_ChecksTodo", "d0/d02/a11310.html#a61d85f3e94cb64aedbc977c74a64e0be", null ],
-    [ "_CurrentChecks", "d0/d02/a11310.html#a9cb49a2629d08e0f54d363f81c284425", null ],
-    [ "_PendingChecks", "d0/d02/a11310.html#a463e1f12600b12ddf54f762093ae57f0", null ],
-    [ "_serverTicks", "d0/d02/a11310.html#a79e969e649fa057cd3a1a835837188c6", null ]
+    [ "WardenMac", "d0/d02/a11310.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
+    [ "~WardenMac", "d0/d02/a11310.html#a5f3832580c73a0af34fa83669a92ceab", null ],
+    [ "GetModuleForClient", "d0/d02/a11310.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
+    [ "HandleData", "d0/d02/a11310.html#a024be47d39641cb0e7654b0e0999e444", null ],
+    [ "HandleHashResult", "d0/d02/a11310.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
+    [ "Init", "d0/d02/a11310.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
+    [ "InitializeModule", "d0/d02/a11310.html#a4fceef34e83db1a357d9eadce35efdef", null ],
+    [ "RequestChecks", "d0/d02/a11310.html#a2437a3a5650305b05fc22d312d0006da", null ],
+    [ "RequestHash", "d0/d02/a11310.html#af031f18554c5a96b4eb39371a92b9c51", null ]
 ];

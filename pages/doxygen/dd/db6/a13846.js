@@ -1,6 +1,6 @@
 var a13846 =
 [
-    [ "npc_brewfest_keg_thrower", "dd/db6/a13846.html#a29da1efd21fe6737684607e5b360ea84", null ],
-    [ "CanBeSeen", "dd/db6/a13846.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
-    [ "MoveInLineOfSight", "dd/db6/a13846.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
+    [ "boss_wushoolayAI", "dd/db6/a13846.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
+    [ "JustEngagedWith", "dd/db6/a13846.html#af519da543fff63a39a6fbe48f90f2f22", null ],
+    [ "UpdateAI", "dd/db6/a13846.html#acfaacee2a97212eb15056c1552b9e06b", null ]
 ];

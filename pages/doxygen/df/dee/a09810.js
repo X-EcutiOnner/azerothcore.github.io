@@ -1,6 +1,6 @@
 var a09810 =
 [
-    [ "TargetedMovementGeneratorBase", "df/dee/a09810.html#a670b36c578b32b7d582e8f4b6ef656c3", null ],
-    [ "stopFollowing", "df/dee/a09810.html#adb0a6f1a63ce265fc63bf362e2f60488", null ],
-    [ "i_target", "df/dee/a09810.html#a427d8512cbd0ccbaca65dcf48bbe39f6", null ]
+    [ "AssistanceMovementGenerator", "df/dee/a09810.html#a649b7d2833aaf895a5f6f290131c88f5", null ],
+    [ "Finalize", "df/dee/a09810.html#a6fc296a5283726cca409d7df1137743d", null ],
+    [ "GetMovementGeneratorType", "df/dee/a09810.html#a1d4b6fe8693fdd21c364b53075c27439", null ]
 ];

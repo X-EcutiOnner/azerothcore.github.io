@@ -1,7 +1,6 @@
 var a17674 =
 [
-    [ "HandleScript", "d3/d2b/a17674.html#a802f667b20bccd3395c233482aa2485b", null ],
-    [ "PrepareSpellScript", "d3/d2b/a17674.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
-    [ "Register", "d3/d2b/a17674.html#a730fded490df68f501010f952ceea40b", null ],
-    [ "Validate", "d3/d2b/a17674.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
+    [ "npc_big_oozeAI", "d8/dc3/a17678.html", "d8/dc3/a17678" ],
+    [ "npc_big_ooze", "d3/d2b/a17674.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "d3/d2b/a17674.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

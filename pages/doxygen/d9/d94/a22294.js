@@ -1,8 +1,17 @@
 var a22294 =
 [
-    [ "CalcPeriodic", "d9/d94/a22294.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "d9/d94/a22294.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "d9/d94/a22294.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "d9/d94/a22294.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "d9/d94/a22294.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "OPvPCapturePointZM_GraveYard", "d9/d94/a22294.html#a4996bc1787009cc204047f574fc55aa3", null ],
+    [ "CanTalkTo", "d9/d94/a22294.html#aabcde0e8e3e089dccea0ae6a439e7c4a", null ],
+    [ "ChangeState", "d9/d94/a22294.html#a95394b3e6863c367e4a6257c9b9864df", null ],
+    [ "FillInitialWorldStates", "d9/d94/a22294.html#a745acfba4972d64dca84287d8db292fc", null ],
+    [ "GetGraveYardState", "d9/d94/a22294.html#a8c01f60011d967344df5895f05e1f80e", null ],
+    [ "HandleDropFlag", "d9/d94/a22294.html#a2962a45d4c4145f6ba135477ef362ec8", null ],
+    [ "HandleGossipOption", "d9/d94/a22294.html#a28ce2dba96ff5784c4758bd3d0d4e640", null ],
+    [ "HandleOpenGo", "d9/d94/a22294.html#af72356107675ab5ad6c74fda1c3b69fa", null ],
+    [ "SetBeaconState", "d9/d94/a22294.html#a8ed94a0433eab7ae25ea2686fd8e4e9a", null ],
+    [ "Update", "d9/d94/a22294.html#a5210c40f88803137e4a8fe3ea69eda14", null ],
+    [ "UpdateTowerState", "d9/d94/a22294.html#abee798494628344c9f8c1052ec248501", null ],
+    [ "m_BothControllingFactionId", "d9/d94/a22294.html#acac201bebe2ec8e214e5632a21aa8331", null ],
+    [ "m_FlagCarrierGUID", "d9/d94/a22294.html#a103cb36247799a5826c47978d451d2b7", null ],
+    [ "m_GraveYardState", "d9/d94/a22294.html#af281f3b638d2af3d3e8378614a23457f", null ]
 ];

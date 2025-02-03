@@ -1,10 +1,7 @@
 var a11030 =
 [
-    [ "EffectHook", "d3/dae/a11030.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "d3/dae/a11030.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "d3/dae/a11030.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "d3/dae/a11030.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "d3/dae/a11030.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "d3/dae/a11030.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "d3/dae/a11030.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "CategoryRecoveryTime", "d3/dae/a11030.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
+    [ "RecoveryTime", "d3/dae/a11030.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
+    [ "StartRecoveryCategory", "d3/dae/a11030.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
+    [ "StartRecoveryTime", "d3/dae/a11030.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
 ];

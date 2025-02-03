@@ -1,8 +1,8 @@
 var a13154 =
 [
-    [ "HandleApply", "d1/d76/a13154.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "d1/d76/a13154.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "d1/d76/a13154.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "d1/d76/a13154.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "d1/d76/a13154.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "boss_muru", "d1/d76/a13154.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
+    [ "DamageTaken", "d1/d76/a13154.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
+    [ "JustEngagedWith", "d1/d76/a13154.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
+    [ "JustSummoned", "d1/d76/a13154.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
+    [ "Reset", "d1/d76/a13154.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
 ];

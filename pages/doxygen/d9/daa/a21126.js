@@ -1,8 +1,6 @@
 var a21126 =
 [
-    [ "npc_azure_raiderAI", "d9/daa/a21126.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
-    [ "Reset", "d9/daa/a21126.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
-    [ "UpdateAI", "d9/daa/a21126.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
-    [ "uiConcussionBlowTimer", "d9/daa/a21126.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
-    [ "uiMagicReflectionTimer", "d9/daa/a21126.html#acb262ab506ea58201abfe2057525c548", null ]
+    [ "npc_azure_binderAI", "d0/d10/a21130.html", "d0/d10/a21130" ],
+    [ "npc_azure_binder", "d9/daa/a21126.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
+    [ "GetAI", "d9/daa/a21126.html#aad091206a8bd06a1064b68b81510eb56", null ]
 ];

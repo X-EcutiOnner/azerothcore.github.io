@@ -1,7 +1,6 @@
 var a15602 =
 [
-    [ "HandleEffectRemove", "d7/de8/a15602.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
-    [ "PrepareAuraScript", "d7/de8/a15602.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
-    [ "Register", "d7/de8/a15602.html#a7c0533650e772713233ea45b0264cbff", null ],
-    [ "Validate", "d7/de8/a15602.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
+    [ "boss_hadronoxAI", "db/d11/a15606.html", "db/d11/a15606" ],
+    [ "boss_hadronox", "d7/de8/a15602.html#ae3457fd6108cc350cf9eedab3178f781", null ],
+    [ "GetAI", "d7/de8/a15602.html#a90bf0ecb218e30e61852baffeabc3dc1", null ]
 ];

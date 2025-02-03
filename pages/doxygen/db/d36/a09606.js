@@ -1,9 +1,8 @@
 var a09606 =
 [
-    [ "TransportAnimation", "db/d36/a09606.html#a775b84b54deefd38af40222afd82d572", null ],
-    [ "GetAnimNode", "db/d36/a09606.html#a73b56750c90afce38dbf57793bae16f3", null ],
-    [ "GetAnimRotation", "db/d36/a09606.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
-    [ "Path", "db/d36/a09606.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
-    [ "Rotations", "db/d36/a09606.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
-    [ "TotalTime", "db/d36/a09606.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
+    [ "PositionFullTerrainStatus", "db/d36/a09606.html#ae0349ed89530b35af91b7b1862acaffe", null ],
+    [ "areaId", "db/d36/a09606.html#ac04966fa31b30f341a937906223463d4", null ],
+    [ "floorZ", "db/d36/a09606.html#abbd186ca681e532d567b5a221a62c02b", null ],
+    [ "liquidInfo", "db/d36/a09606.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
+    [ "outdoors", "db/d36/a09606.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
 ];

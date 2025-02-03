@@ -1,6 +1,7 @@
 var a17518 =
 [
-    [ "UnboundPlagueTargetSelector", "de/da3/a17518.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "de/da3/a17518.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "de/da3/a17518.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "HandleSpikes", "de/da3/a17518.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "de/da3/a17518.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "de/da3/a17518.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "de/da3/a17518.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

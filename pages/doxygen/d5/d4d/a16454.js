@@ -1,6 +1,7 @@
 var a16454 =
 [
-    [ "PrepareSpellScript", "d5/d4d/a16454.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "d5/d4d/a16454.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "d5/d4d/a16454.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "HandleScriptEffect", "d5/d4d/a16454.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "d5/d4d/a16454.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "d5/d4d/a16454.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "d5/d4d/a16454.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

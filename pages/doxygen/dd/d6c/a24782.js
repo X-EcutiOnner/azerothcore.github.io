@@ -1,8 +1,8 @@
 var a24782 =
 [
-    [ "AchievementCredit", "dd/d6c/a24782.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "dd/d6c/a24782.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "dd/d6c/a24782.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "dd/d6c/a24782.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "dd/d6c/a24782.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "HandleScript", "dd/d6c/a24782.html#af7330c1b586b809c78e0bc080cb92c65", null ],
+    [ "Load", "dd/d6c/a24782.html#a262fc7f4bc3f1fae07f69dde765d8228", null ],
+    [ "PrepareSpellScript", "dd/d6c/a24782.html#af0fda52cff0361cf6c4a69957459ddf3", null ],
+    [ "Register", "dd/d6c/a24782.html#a41225a9f5d9304df4a02a681e8b73ff6", null ],
+    [ "Validate", "dd/d6c/a24782.html#a520341dc41dcce5fd9346e3f5ed6ee51", null ]
 ];

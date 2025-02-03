@@ -1,5 +1,5 @@
 var a04016 =
 [
-    [ "server_commandscript", "d7/d90/a11530.html", "d7/d90/a11530" ],
-    [ "AddSC_server_commandscript", "d9/d97/a04016.html#aaa97392c09b5045a6040d75b224bdf22", null ]
+    [ "cast_commandscript", "d7/d69/a11394.html", "d7/d69/a11394" ],
+    [ "AddSC_cast_commandscript", "d9/d97/a04016.html#a7b374923a29bdbff68b6e78d2ef4a3e0", null ]
 ];

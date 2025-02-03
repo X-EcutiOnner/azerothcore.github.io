@@ -1,9 +1,6 @@
 var a25842 =
 [
-    [ "CheckCast", "da/dc7/a25842.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
-    [ "HandleTriggerSpellHit", "da/dc7/a25842.html#aca027bb2995456bfcedd33c06966eb88", null ],
-    [ "HandleTriggerSpellLaunch", "da/dc7/a25842.html#aa67bf9f81086a3837037d67306979072", null ],
-    [ "PrepareSpellScript", "da/dc7/a25842.html#a9247b5f3a376bebdcf857565b5049944", null ],
-    [ "Register", "da/dc7/a25842.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
-    [ "Validate", "da/dc7/a25842.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
+    [ "CalculateAmount", "da/dc7/a25842.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
+    [ "PrepareAuraScript", "da/dc7/a25842.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
+    [ "Register", "da/dc7/a25842.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
 ];

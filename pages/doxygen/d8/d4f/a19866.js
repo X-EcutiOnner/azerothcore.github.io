@@ -1,6 +1,5 @@
 var a19866 =
 [
-    [ "npc_ulduar_icicleAI", "d3/dc1/a19870.html", "d3/dc1/a19870" ],
-    [ "npc_ulduar_icicle", "d8/d4f/a19866.html#a1ab79b2fa3e64779f62b96c195222683", null ],
-    [ "GetAI", "d8/d4f/a19866.html#a71dd83d544307b11bcde58f9aeea097c", null ]
+    [ "achievement_shadowdodger", "d8/d4f/a19866.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
+    [ "OnCheck", "d8/d4f/a19866.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
 ];

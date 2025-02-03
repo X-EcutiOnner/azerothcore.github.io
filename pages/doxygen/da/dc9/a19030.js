@@ -1,11 +1,5 @@
 var a19030 =
 [
-    [ "boss_ormorok", "da/dc9/a19030.html#aa4862339ed41d5c593a93ef605d85a39", null ],
-    [ "JustDied", "da/dc9/a19030.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
-    [ "JustEngagedWith", "da/dc9/a19030.html#a22ac203db7c3b445e653798743e48764", null ],
-    [ "JustSummoned", "da/dc9/a19030.html#acc149b49e6658454610a7871e3c82b5e", null ],
-    [ "KilledUnit", "da/dc9/a19030.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
-    [ "Reset", "da/dc9/a19030.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
-    [ "UpdateAI", "da/dc9/a19030.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
-    [ "_spikesCount", "da/dc9/a19030.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
+    [ "achievement_intense_cold", "da/dc9/a19030.html#a2377357d6bfc03e5b91354428d3da3de", null ],
+    [ "OnCheck", "da/dc9/a19030.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
 ];

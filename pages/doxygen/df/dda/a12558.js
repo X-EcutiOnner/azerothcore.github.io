@@ -1,14 +1,15 @@
 var a12558 =
 [
-    [ "boss_priestess_delrissa", "df/dda/a12558.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
-    [ "CheckInRoom", "df/dda/a12558.html#afa963761e44412915a6d89f097f33b5d", null ],
-    [ "InitializeAI", "df/dda/a12558.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
-    [ "JustDied", "df/dda/a12558.html#a82d8c198f38c2aa881386e739dea6a08", null ],
-    [ "JustEngagedWith", "df/dda/a12558.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
-    [ "JustSummoned", "df/dda/a12558.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
-    [ "KilledUnit", "df/dda/a12558.html#af0b41306f53c42745cce39069f446704", null ],
-    [ "Reset", "df/dda/a12558.html#a60e39157aa3043284b2e1e032c0d9241", null ],
-    [ "SummonedCreatureDies", "df/dda/a12558.html#a14757692ab4af5c1b5b311f059be9091", null ],
-    [ "HelpersKilled", "df/dda/a12558.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
-    [ "PlayersKilled", "df/dda/a12558.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
+    [ "npc_image_of_medivhAI", "df/dda/a12558.html#a1afe3245dc18db3c0bf6801b5ca20d31", null ],
+    [ "JustEngagedWith", "df/dda/a12558.html#a1013be426b3567d8cbd1c45debc914c5", null ],
+    [ "NextStep", "df/dda/a12558.html#a87160b37ba61af4866fe3f410813fe9f", null ],
+    [ "Reset", "df/dda/a12558.html#af2e7dd7f1038bb5662fe7375a7e052c4", null ],
+    [ "UpdateAI", "df/dda/a12558.html#a321d689d645b4630e2e93e6251d5130c", null ],
+    [ "ArcanagosGUID", "df/dda/a12558.html#a877c693b6ac736aa874926d8efe0d79a", null ],
+    [ "ATimer", "df/dda/a12558.html#a28aef0767b6adb0ccf0479dd50dc11a8", null ],
+    [ "EventStarted", "df/dda/a12558.html#a9a662b435218a3e13ca58eb4a6b3af86", null ],
+    [ "instance", "df/dda/a12558.html#a2e02aa8d441426aa51f46121eec0becb", null ],
+    [ "MTimer", "df/dda/a12558.html#a16c3f6d5bd1cc288590bd096233e0bfb", null ],
+    [ "Step", "df/dda/a12558.html#a9d7b9bdcf9e185284dba5251a0deb0b3", null ],
+    [ "YellTimer", "df/dda/a12558.html#a34ad7cabe4cb86e23deb30ca0ce77db0", null ]
 ];

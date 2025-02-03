@@ -1,7 +1,6 @@
 var a14930 =
 [
-    [ "npc_vekniss_stinger", "d9/d5a/a14930.html#ad48098961715a924270cb8bbbe77e4b0", null ],
-    [ "JustEngagedWith", "d9/d5a/a14930.html#ae7c758687c81cfb223066f0a9348eab8", null ],
-    [ "Reset", "d9/d5a/a14930.html#a2a79f3775aad83410ff2670aa438e811", null ],
-    [ "UpdateAI", "d9/d5a/a14930.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
+    [ "aqsentinelAI", "d8/d19/a14934.html", "d8/d19/a14934" ],
+    [ "npc_anubisath_sentinel", "d9/d5a/a14930.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
+    [ "GetAI", "d9/d5a/a14930.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
 ];

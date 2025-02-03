@@ -1,19 +1,16 @@
 var a18810 =
 [
-    [ "boss_nothAI", "dc/dcc/a18810.html#a0a1f8e88396b04d070c4034b2419f0bb", null ],
-    [ "EnterEvadeMode", "dc/dcc/a18810.html#af0c4cfb04564b23840ee88dfa1badf55", null ],
-    [ "IsInRoom", "dc/dcc/a18810.html#a8e9c27804ae01e46285a3bed42091754", null ],
-    [ "JustDied", "dc/dcc/a18810.html#a18dd73c178eff3170d371c4bd4062b76", null ],
-    [ "JustEngagedWith", "dc/dcc/a18810.html#aed044bf36d56b2241e591eb45999900b", null ],
-    [ "JustSummoned", "dc/dcc/a18810.html#a61e814ce0a861ba98ccc21d8d6df128a", null ],
-    [ "KilledUnit", "dc/dcc/a18810.html#a1d5b013cdbaab702a85fc1d344ad6f6a", null ],
-    [ "Reset", "dc/dcc/a18810.html#a311754fa1fa1b112272395179e3b1bff", null ],
-    [ "StartBalconyPhase", "dc/dcc/a18810.html#ac890e5f4e6e9e40d78e75d2c86bd6740", null ],
-    [ "StartGroundPhase", "dc/dcc/a18810.html#a3ae5f948e2faf051b1cb88cd638c612e", null ],
-    [ "SummonHelper", "dc/dcc/a18810.html#abfe6252bec42fdc3d7738aef3dd2ec74", null ],
-    [ "UpdateAI", "dc/dcc/a18810.html#a87f4e825fb8f9f48991d5dcf94af78e3", null ],
-    [ "events", "dc/dcc/a18810.html#a3f3e282c6ee1d259f1f2a401f6195251", null ],
-    [ "pInstance", "dc/dcc/a18810.html#a91cdc214420c5f54bc1f35b8ae42656d", null ],
-    [ "summons", "dc/dcc/a18810.html#a4e95ad18274331e402124d4a8424cb18", null ],
-    [ "timesInBalcony", "dc/dcc/a18810.html#a249c96d4230bd2b43c4be733317c4bc4", null ]
+    [ "boss_maexxnaAI", "dc/dcc/a18810.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
+    [ "DoCastWebWrap", "dc/dcc/a18810.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
+    [ "IsInRoom", "dc/dcc/a18810.html#a957bd38232c020611fc24dd8a6e55640", null ],
+    [ "JustDied", "dc/dcc/a18810.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
+    [ "JustEngagedWith", "dc/dcc/a18810.html#a9974fc771b3663878964aeb20914fe43", null ],
+    [ "JustSummoned", "dc/dcc/a18810.html#ab45b74b3067b42089fee804844ea41dd", null ],
+    [ "KilledUnit", "dc/dcc/a18810.html#a11cda2b905ef2381c317a01e4163be00", null ],
+    [ "Reset", "dc/dcc/a18810.html#a78385da6845ce8e3075616c24696d0cc", null ],
+    [ "UpdateAI", "dc/dcc/a18810.html#a6f0453babfa84764467970369894eb97", null ],
+    [ "events", "dc/dcc/a18810.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
+    [ "pInstance", "dc/dcc/a18810.html#adeda3cc5a174e3d940621e3024a1043f", null ],
+    [ "summons", "dc/dcc/a18810.html#a7ea3de40dfd638db7e34c523a0461335", null ],
+    [ "wraps", "dc/dcc/a18810.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
 ];

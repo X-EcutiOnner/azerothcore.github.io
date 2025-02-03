@@ -1,8 +1,9 @@
 var a21178 =
 [
-    [ "HandleEffectRemove", "df/da0/a21178.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "df/da0/a21178.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "df/da0/a21178.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "df/da0/a21178.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "df/da0/a21178.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "npc_azure_sorcerorAI", "df/da0/a21178.html#a474a7144908d4820341dc56f77436b90", null ],
+    [ "Reset", "df/da0/a21178.html#a4c637288f79e1da4bdace6516cd887b1", null ],
+    [ "UpdateAI", "df/da0/a21178.html#a928d789e2cbd35b228857a23c4204ea1", null ],
+    [ "uiArcaneStreamTimer", "df/da0/a21178.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
+    [ "uiArcaneStreamTimerStartingValueHolder", "df/da0/a21178.html#af044879e8e064e28a491c87d0c6cde74", null ],
+    [ "uiManaDetonationTimer", "df/da0/a21178.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
 ];

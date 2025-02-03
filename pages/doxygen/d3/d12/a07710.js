@@ -1,10 +1,8 @@
 var a07710 =
 [
-    [ "LfgUpdateData", "d3/d12/a07710.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
-    [ "LfgUpdateData", "d3/d12/a07710.html#a656873ea6ef9b3f23791827617a000c6", null ],
-    [ "LfgUpdateData", "d3/d12/a07710.html#a248682a712dd43b8c4601830aae4ddec", null ],
-    [ "comment", "d3/d12/a07710.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
-    [ "dungeons", "d3/d12/a07710.html#a0e9b49693248b438dbc508e230a870db", null ],
-    [ "state", "d3/d12/a07710.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
-    [ "updateType", "d3/d12/a07710.html#a146e43854f66bf57f703d7089a24481e", null ]
+    [ "UnitBaseEvent", "d3/d12/a07710.html#a2d4586c59a7595374d427a15924c34fd", null ],
+    [ "getType", "d3/d12/a07710.html#a7619b09043a8a729df77502786216aff", null ],
+    [ "matchesTypeMask", "d3/d12/a07710.html#a05103aacf99310a6c9e602296d56f168", null ],
+    [ "setType", "d3/d12/a07710.html#a1a3ae3042df9ca91d17a1c3320579867", null ],
+    [ "iType", "d3/d12/a07710.html#a528a4023be375f43f4ac33b55f5c95d9", null ]
 ];

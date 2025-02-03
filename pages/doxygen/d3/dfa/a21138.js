@@ -1,6 +1,8 @@
 var a21138 =
 [
-    [ "npc_azure_spellbreakerAI", "d0/dfd/a21142.html", "d0/dfd/a21142" ],
-    [ "npc_azure_spellbreaker", "d3/dfa/a21138.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
-    [ "GetAI", "d3/dfa/a21138.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
+    [ "npc_azure_mage_slayerAI", "d3/dfa/a21138.html#af1a57574d70a48b16d70d8a056f54018", null ],
+    [ "Reset", "d3/dfa/a21138.html#aabe921f0d4fd147c457779791a7af619", null ],
+    [ "UpdateAI", "d3/dfa/a21138.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
+    [ "uiArcaneEmpowermentTimer", "d3/dfa/a21138.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
+    [ "uiSpellLockTimer", "d3/dfa/a21138.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
 ];

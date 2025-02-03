@@ -1,7 +1,7 @@
 var a10578 =
 [
-    [ "RandomRollClient", "de/dfd/a10578.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "de/dfd/a10578.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "de/dfd/a10578.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "de/dfd/a10578.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "PlayMusic", "de/dfd/a10578.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
+    [ "PlayMusic", "de/dfd/a10578.html#ad3d833f70de5937365c2351aa5206bbf", null ],
+    [ "Write", "de/dfd/a10578.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
+    [ "SoundKitID", "de/dfd/a10578.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
 ];

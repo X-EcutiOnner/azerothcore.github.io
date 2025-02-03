@@ -1,10 +1,11 @@
 var a11458 =
 [
-    [ "lfg_commandscript", "d7/d97/a11458.html#a90faaca821e4162e0aea40a4d98af62c", null ],
-    [ "GetCommands", "d7/d97/a11458.html#a324310f9b04675c277ceae44ea09fbaf", null ],
-    [ "HandleLfgCleanCommand", "d7/d97/a11458.html#a93db689dbdb97a0318d62409a863767e", null ],
-    [ "HandleLfgGroupInfoCommand", "d7/d97/a11458.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
-    [ "HandleLfgOptionsCommand", "d7/d97/a11458.html#a73187a97c883d8d1bb3765943dd98c39", null ],
-    [ "HandleLfgPlayerInfoCommand", "d7/d97/a11458.html#acdf12aff45f16904df5724ab158e3b97", null ],
-    [ "HandleLfgQueueInfoCommand", "d7/d97/a11458.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
+    [ "instance_commandscript", "d7/d97/a11458.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
+    [ "GetCommands", "d7/d97/a11458.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
+    [ "HandleInstanceGetBossStateCommand", "d7/d97/a11458.html#a0530ca6481073d6bafd11596546140b0", null ],
+    [ "HandleInstanceListBindsCommand", "d7/d97/a11458.html#abf42411f9c78ce59b21b34691e3d4233", null ],
+    [ "HandleInstanceSaveDataCommand", "d7/d97/a11458.html#a4b494a8b1de470612436fbb9fa433416", null ],
+    [ "HandleInstanceSetBossStateCommand", "d7/d97/a11458.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
+    [ "HandleInstanceStatsCommand", "d7/d97/a11458.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
+    [ "HandleInstanceUnbindCommand", "d7/d97/a11458.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
 ];

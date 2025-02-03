@@ -1,5 +1,6 @@
 var a20274 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "d8/d2d/a20274.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "d8/d2d/a20274.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "npc_ulduar_dark_rune_watcherAI", "d6/d16/a20278.html", "d6/d16/a20278" ],
+    [ "npc_ulduar_dark_rune_watcher", "d8/d2d/a20274.html#a0536c61d70d5c6d61496fc1720d37950", null ],
+    [ "GetAI", "d8/d2d/a20274.html#a6677d6dc0d07b508e921064f3299b302", null ]
 ];

@@ -1,6 +1,6 @@
 var a01154 =
 [
-    [ "Totem", "de/df3/a08502.html", "de/df3/a08502" ],
+    [ "Totem", "d2/d7f/a08514.html", "d2/d7f/a08514" ],
     [ "EARTHBIND_TOTEM_ENTRY", "d5/d16/a01154.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
     [ "SENTRY_TOTEM_ENTRY", "d5/d16/a01154.html#a2bd46e1df17fdee45cd35896306092fb", null ],
     [ "TotemImmunitySpells", "d5/d16/a01154.html#a526213bf692d4f8d189a61617f4a59c9", [

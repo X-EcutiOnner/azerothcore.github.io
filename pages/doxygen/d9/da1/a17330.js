@@ -1,11 +1,6 @@
 var a17330 =
 [
-    [ "CountTargets", "d9/da1/a17330.html#a54f6526359fba124a988ba35c2876fd1", null ],
-    [ "Load", "d9/da1/a17330.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
-    [ "PrepareSpellScript", "d9/da1/a17330.html#a4991d88429ea951c55ef08a90f364d31", null ],
-    [ "Register", "d9/da1/a17330.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
-    [ "TeleportPlayer", "d9/da1/a17330.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
-    [ "TriggerWipe", "d9/da1/a17330.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
-    [ "Validate", "d9/da1/a17330.html#ad2e586d688b413f9ef9a5688d203106a", null ],
-    [ "_playerCount", "d9/da1/a17330.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
+    [ "npc_gunship_rocketeerAI", "d3/dda/a17334.html", "d3/dda/a17334" ],
+    [ "npc_gunship_rocketeer", "d9/da1/a17330.html#a7ed2cf258269f239bb73f2f06411db07", null ],
+    [ "GetAI", "d9/da1/a17330.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
 ];

@@ -1,7 +1,6 @@
 var a17922 =
 [
-    [ "HandleScript", "d5/d1f/a17922.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
-    [ "PrepareSpellScript", "d5/d1f/a17922.html#a598baad08c685bba54ad5306e0d521b4", null ],
-    [ "Register", "d5/d1f/a17922.html#a471bac09c68708daefe6a39f283caa4c", null ],
-    [ "Validate", "d5/d1f/a17922.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
+    [ "npc_tirion_fordringAI", "d2/d79/a17926.html", "d2/d79/a17926" ],
+    [ "npc_tirion_fordring_tft", "d5/d1f/a17922.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "d5/d1f/a17922.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

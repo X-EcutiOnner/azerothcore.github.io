@@ -1,6 +1,7 @@
 var a11714 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "d6/dac/a11718.html", "d6/dac/a11718" ],
-    [ "boss_high_interrogator_gerstahn", "d9/dc8/a11714.html#a700eb542c041e9ca540f2676fc42aff9", null ],
-    [ "GetAI", "d9/dc8/a11714.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
+    [ "boss_gorosh_the_dervishAI", "d9/dc8/a11714.html#adac003c51a2d1d0a8daa6ba552114c25", null ],
+    [ "JustEngagedWith", "d9/dc8/a11714.html#a52bc5f76baff626b8834aa604fdd8e6a", null ],
+    [ "UpdateAI", "d9/dc8/a11714.html#aa17e26419a8e3f7cd99c5e9b44be8ed8", null ],
+    [ "nextWhirlwindTime", "d9/dc8/a11714.html#a07f1af63bc54d1b4c8d8e1cd87a787a1", null ]
 ];

@@ -1,8 +1,7 @@
 var a14354 =
 [
-    [ "hyjalThrallAI", "d6/d7b/a14354.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "d6/d7b/a14354.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "d6/d7b/a14354.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "d6/d7b/a14354.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "d6/d7b/a14354.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "OnPeriodic", "d6/d7b/a14354.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
+    [ "PrepareAuraScript", "d6/d7b/a14354.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
+    [ "Register", "d6/d7b/a14354.html#aeb388d608830aeb3b30f707304403b41", null ],
+    [ "Validate", "d6/d7b/a14354.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
 ];

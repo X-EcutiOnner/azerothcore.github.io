@@ -1,6 +1,6 @@
 var a13658 =
 [
-    [ "boss_hakkarAI", "df/dc8/a13662.html", "df/dc8/a13662" ],
-    [ "boss_hakkar", "db/dde/a13658.html#a834bd1f223154fbf1be94bf43136da28", null ],
-    [ "GetAI", "db/dde/a13658.html#aff3a089e30dcddfde4db372104153723", null ]
+    [ "boss_gahzranka", "db/dde/a13658.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "db/dde/a13658.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "db/dde/a13658.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

@@ -1,6 +1,6 @@
 var a14442 =
 [
-    [ "npc_crate_helperAI", "df/d5e/a14446.html", "df/d5e/a14446" ],
-    [ "npc_crate_helper", "d5/d40/a14442.html#ae08751928234656dcda84dd5c7e4cc37", null ],
-    [ "GetAI", "d5/d40/a14442.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
+    [ "boss_salrammAI", "df/d5e/a14446.html", "df/d5e/a14446" ],
+    [ "boss_salramm", "d5/d40/a14442.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
+    [ "GetAI", "d5/d40/a14442.html#ab6b400f0d329d4def074d012de47f53d", null ]
 ];

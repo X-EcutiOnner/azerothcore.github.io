@@ -1,7 +1,7 @@
 var a11242 =
 [
-    [ "PlayerDumpReader", "d8/d4e/a11242.html#ad630b61e298fb1ddf165481c9a14e077", null ],
-    [ "LoadDump", "d8/d4e/a11242.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
-    [ "LoadDumpFromFile", "d8/d4e/a11242.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
-    [ "LoadDumpFromString", "d8/d4e/a11242.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
+    [ "FieldIndices", "d8/d4e/a11242.html#a06a366c804088e6fbb170881004a5cff", null ],
+    [ "TableFields", "d8/d4e/a11242.html#ad5d909c6b4b062f3c4aac3f559c5eaec", null ],
+    [ "TableName", "d8/d4e/a11242.html#ab00ee028c72660db98e8108583701471", null ],
+    [ "WhereFieldName", "d8/d4e/a11242.html#af1be82a21f6172504e310ae27b899e5b", null ]
 ];

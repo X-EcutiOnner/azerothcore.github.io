@@ -1,5 +1,6 @@
 var a17818 =
 [
-    [ "at_sindragosa_lair", "d7/d7f/a17818.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
-    [ "OnTrigger", "d7/d7f/a17818.html#a07074bff20272042ed05be83dd818ee9", null ]
+    [ "npc_spinestalkerAI", "db/d96/a17822.html", "db/d96/a17822" ],
+    [ "npc_spinestalker", "d7/d7f/a17818.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
+    [ "GetAI", "d7/d7f/a17818.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
 ];

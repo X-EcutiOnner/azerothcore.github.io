@@ -1,11 +1,6 @@
 var a21066 =
 [
-    [ "npc_vh_void_sentryAI", "dd/d73/a21066.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
-    [ "DoAction", "dd/d73/a21066.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
-    [ "JustDied", "dd/d73/a21066.html#add5121ed38a74be9ae168df5f893f89e", null ],
-    [ "SummonedCreatureDespawn", "dd/d73/a21066.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
-    [ "UpdateAI", "dd/d73/a21066.html#ae1f683d5ef920213c9c86da35c626381", null ],
-    [ "checkTimer", "dd/d73/a21066.html#a675bcae4119e45490403013534c731ef", null ],
-    [ "pInstance", "dd/d73/a21066.html#a7527473944681143bab89fd12b475645", null ],
-    [ "SummonedGUID", "dd/d73/a21066.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
+    [ "boss_xevozzAI", "d6/dfe/a21070.html", "d6/dfe/a21070" ],
+    [ "boss_xevozz", "dd/d73/a21066.html#a814ac939c4570d33450c4a6664833087", null ],
+    [ "GetAI", "dd/d73/a21066.html#a712d8ed125d464da56b677914fbf8796", null ]
 ];

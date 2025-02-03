@@ -1,6 +1,6 @@
 var a10270 =
 [
-    [ "ShowingCloak", "d4/db5/a10270.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
-    [ "Read", "d4/db5/a10270.html#ad72ae43efc070655aa078d9985369442", null ],
-    [ "ShowCloak", "d4/db5/a10270.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
+    [ "BuyBankSlot", "d4/db5/a10270.html#a0bc11087e9359c6ac762f915b11287d8", null ],
+    [ "Read", "d4/db5/a10270.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
+    [ "Banker", "d4/db5/a10270.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
 ];

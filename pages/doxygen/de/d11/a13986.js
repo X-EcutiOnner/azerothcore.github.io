@@ -1,11 +1,11 @@
 var a13986 =
 [
-    [ "npc_the_etymidian", "de/d11/a13986.html#af491016ac89b67947650a5ca9c379875", null ],
-    [ "MoveInLineOfSight", "de/d11/a13986.html#adde2d86e30442eb1b47219e934e24407", null ],
-    [ "Reset", "de/d11/a13986.html#a714edf3ba5f7a6d59242c991764effc5", null ],
-    [ "UpdateAI", "de/d11/a13986.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
-    [ "orphanGUID", "de/d11/a13986.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
-    [ "phase", "de/d11/a13986.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
-    [ "playerGUID", "de/d11/a13986.html#a7371e361c018360315e20086b0b99079", null ],
-    [ "timer", "de/d11/a13986.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
+    [ "npc_winterfin_playmate", "de/d11/a13986.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
+    [ "MoveInLineOfSight", "de/d11/a13986.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
+    [ "Reset", "de/d11/a13986.html#aae6b51c22dc0448608c1cf9412565e25", null ],
+    [ "UpdateAI", "de/d11/a13986.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
+    [ "orphanGUID", "de/d11/a13986.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
+    [ "phase", "de/d11/a13986.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
+    [ "playerGUID", "de/d11/a13986.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
+    [ "timer", "de/d11/a13986.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
 ];

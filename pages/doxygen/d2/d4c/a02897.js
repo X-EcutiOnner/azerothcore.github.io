@@ -1,35 +1,29 @@
 var a02897 =
 [
-    [ "npc_attracted_reef_bull", "d7/dd5/a21678.html", "d7/dd5/a21678" ],
-    [ "npc_attracted_reef_bull::npc_attracted_reef_bullAI", "d0/d09/a21682.html", "d0/d09/a21682" ],
-    [ "npc_your_inner_turmoil", "d4/d59/a21686.html", "d4/d59/a21686" ],
-    [ "npc_your_inner_turmoil::npc_your_inner_turmoilAI", "d7/d36/a21690.html", "d7/d36/a21690" ],
-    [ "npc_apothecary_hanes", "dc/dd7/a21694.html", "dc/dd7/a21694" ],
-    [ "npc_apothecary_hanes::npc_Apothecary_HanesAI", "d9/de8/a21698.html", "d9/de8/a21698" ],
-    [ "npc_plaguehound_tracker", "dc/deb/a21702.html", "dc/deb/a21702" ],
-    [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "d4/dc0/a21706.html", "d4/dc0/a21706" ],
-    [ "npc_razael_and_lyana", "d2/d0e/a21710.html", "d2/d0e/a21710" ],
-    [ "Entries", "d2/d4c/a02897.html#a06de533fb3e7ec530f0493022ad98889", [
-      [ "NPC_APOTHECARY_HANES", "d2/d4c/a02897.html#a06de533fb3e7ec530f0493022ad98889acf2750295b6eec6dd126edd3e314b704", null ],
-      [ "NPC_HANES_FIRE_TRIGGER", "d2/d4c/a02897.html#a06de533fb3e7ec530f0493022ad98889a1d184f3197ea2249507f226925f86d51", null ],
-      [ "QUEST_TRAIL_OF_FIRE", "d2/d4c/a02897.html#a06de533fb3e7ec530f0493022ad98889a3b04eef2d1544dfd01157f3936b8931e", null ],
-      [ "SPELL_COSMETIC_LOW_POLY_FIRE", "d2/d4c/a02897.html#a06de533fb3e7ec530f0493022ad98889a3e64d85cd00e4529984f105930950743", null ],
-      [ "SPELL_HEALING_POTION", "d2/d4c/a02897.html#a06de533fb3e7ec530f0493022ad98889a13bb6f847a01b8a989be597f21d79b75", null ]
+    [ "DataHeader", "d2/d4c/a02897.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "HallsOfLightningScriptName", "d2/d4c/a02897.html#aba51f7e18d1bf5bcc9ac3cce40574989", null ],
+    [ "HoLEvents", "d2/d4c/a02897.html#aefe92b165daab54a3444c2b628b30e3d", [
+      [ "TYPE_BJARNGRIM", "d2/d4c/a02897.html#aefe92b165daab54a3444c2b628b30e3da608e0501ee5efb86eaa345e411780421", null ],
+      [ "TYPE_IONAR", "d2/d4c/a02897.html#aefe92b165daab54a3444c2b628b30e3da59c88d60acb5b3ce493a62ec2c6b39a8", null ],
+      [ "TYPE_LOKEN", "d2/d4c/a02897.html#aefe92b165daab54a3444c2b628b30e3daea98d03c17066d22bf4213faf6e7ce37", null ],
+      [ "TYPE_VOLKHAN", "d2/d4c/a02897.html#aefe92b165daab54a3444c2b628b30e3dae4210212c84f56ef4d82bf8ea8827989", null ],
+      [ "TYPE_LOKEN_INTRO", "d2/d4c/a02897.html#aefe92b165daab54a3444c2b628b30e3dad8aa4deed6efe52d7977576c5372bb6b", null ],
+      [ "MAX_ENCOUNTER", "d2/d4c/a02897.html#aefe92b165daab54a3444c2b628b30e3da7913656ef56deb3793c0c5f3d999d80d", null ],
+      [ "DATA_BJARNGRIM_ACHIEVEMENT", "d2/d4c/a02897.html#aefe92b165daab54a3444c2b628b30e3daa53ad80b7b459e535100197347853cd0", null ],
+      [ "DATA_VOLKHAN_ACHIEVEMENT", "d2/d4c/a02897.html#aefe92b165daab54a3444c2b628b30e3da7e42579182aec175c25270808bec35b0", null ]
     ] ],
-    [ "Razael", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbc", [
-      [ "QUEST_REPORTS_FROM_THE_FIELD", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbca7babf6a26e3dc43b61fa6284e07f955a", null ],
-      [ "NPC_RAZAEL", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbcae04ab9caff2861d2f49da40755b84e1c", null ],
-      [ "NPC_LYANA", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbca5efa419daacf74521ba680f68bed979e", null ],
-      [ "GOSSIP_TEXTID_RAZAEL1", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbca65b20fa216028b36c1a98b0af4e4239a", null ],
-      [ "GOSSIP_TEXTID_RAZAEL2", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbca313a7629a69c0bf528e79730249c4d51", null ],
-      [ "GOSSIP_TEXTID_LYANA1", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbca141f525bef4cf496e2f8aaf8cfa2799b", null ],
-      [ "GOSSIP_TEXTID_LYANA2", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbca43caf287e871cac2d4a7d2e821727377", null ]
+    [ "HoLGOs", "d2/d4c/a02897.html#a32c56077197ba30bb4a0f7c7ed0e30ba", [
+      [ "GO_BJARNGRIM_DOOR", "d2/d4c/a02897.html#a32c56077197ba30bb4a0f7c7ed0e30baac1bbf7a6b906762c973aacbe8d096a4f", null ],
+      [ "GO_VOLKHAN_DOOR", "d2/d4c/a02897.html#a32c56077197ba30bb4a0f7c7ed0e30baa43791493fa131c96383129d276d9ebfc", null ],
+      [ "GO_IONAR_DOOR", "d2/d4c/a02897.html#a32c56077197ba30bb4a0f7c7ed0e30baa98de6bec77b9ffcc83fbe12864534b5a", null ],
+      [ "GO_LOKEN_DOOR", "d2/d4c/a02897.html#a32c56077197ba30bb4a0f7c7ed0e30baa8eab9585e6640e1543ecee2cfc2753c7", null ],
+      [ "GO_LOKEN_THRONE", "d2/d4c/a02897.html#a32c56077197ba30bb4a0f7c7ed0e30baa34f7d3fb54b571aef3f476e267de512a", null ]
     ] ],
-    [ "TurmoilTexts", "d2/d4c/a02897.html#ae01e16ebe34a24a598f4b4fb26dbf919", [
-      [ "SAY_TURMOIL_0", "d2/d4c/a02897.html#ae01e16ebe34a24a598f4b4fb26dbf919a942b14a6948f52ce8970c678198ca200", null ],
-      [ "SAY_TURMOIL_1", "d2/d4c/a02897.html#ae01e16ebe34a24a598f4b4fb26dbf919a552b3da685e5d5c0ee068936387378c8", null ],
-      [ "SAY_TURMOIL_HALF_HP", "d2/d4c/a02897.html#ae01e16ebe34a24a598f4b4fb26dbf919a378c2c631bf845c1710a9d8cc64a2541", null ],
-      [ "SAY_TURMOIL_DEATH", "d2/d4c/a02897.html#ae01e16ebe34a24a598f4b4fb26dbf919ae008192ae78fbdcce408850140f26eb8", null ]
+    [ "HoLNPCs", "d2/d4c/a02897.html#a142cf2087e521648bd7ea9b7495afc85", [
+      [ "NPC_BJARNGRIM", "d2/d4c/a02897.html#a142cf2087e521648bd7ea9b7495afc85a90b60cbba2fea788c3a7d279124aac96", null ],
+      [ "NPC_VOLKHAN", "d2/d4c/a02897.html#a142cf2087e521648bd7ea9b7495afc85ad22174c12671fe5c85401bb03873d3f1", null ],
+      [ "NPC_IONAR", "d2/d4c/a02897.html#a142cf2087e521648bd7ea9b7495afc85ac505a17c17ad621b6be0363e7c51fe22", null ],
+      [ "NPC_LOKEN", "d2/d4c/a02897.html#a142cf2087e521648bd7ea9b7495afc85abf84dbe001b0bc7669edfe88687365f6", null ]
     ] ],
-    [ "AddSC_howling_fjord", "d2/d4c/a02897.html#a1f2f485d0649e510913e07a28b6082a5", null ]
+    [ "GetHallsOfLightningAI", "d2/d4c/a02897.html#ae17388a1ba919f74b2068aafe1637537", null ]
 ];

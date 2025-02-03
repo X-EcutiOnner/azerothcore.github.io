@@ -1,7 +1,10 @@
 var a27902 =
 [
-    [ "Id", "dc/dc9/a27902.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
-    [ "SoundBank", "dc/dc9/a27902.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
-    [ "SpellId", "dc/dc9/a27902.html#aa010947f5fbec6867b005b25728e720b", null ],
-    [ "Type", "dc/dc9/a27902.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
+    [ "ID", "dc/dc9/a27902.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "dc/dc9/a27902.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "dc/dc9/a27902.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "dc/dc9/a27902.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "dc/dc9/a27902.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "dc/dc9/a27902.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "dc/dc9/a27902.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

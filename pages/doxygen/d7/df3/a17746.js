@@ -1,6 +1,6 @@
 var a17746 =
 [
-    [ "CheckProc", "d7/df3/a17746.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "d7/df3/a17746.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "d7/df3/a17746.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "npc_ice_tombAI", "dd/d8f/a17750.html", "dd/d8f/a17750" ],
+    [ "npc_ice_tomb", "d7/df3/a17746.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "d7/df3/a17746.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

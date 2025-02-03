@@ -1,6 +1,8 @@
 var a11814 =
 [
-    [ "boss_lord_valthalakAI", "db/d60/a11818.html", "db/d60/a11818" ],
-    [ "boss_lord_valthalak", "df/d11/a11814.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
-    [ "GetAI", "df/d11/a11814.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
+    [ "CheckProc", "df/d11/a11814.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "df/d11/a11814.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "df/d11/a11814.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "df/d11/a11814.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "df/d11/a11814.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

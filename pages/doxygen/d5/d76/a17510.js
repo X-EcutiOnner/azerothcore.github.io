@@ -1,9 +1,10 @@
 var a17510 =
 [
-    [ "CountTargets", "d5/d76/a17510.html#aa72b762d802c27047d485a8a314c6c6d", null ],
-    [ "Load", "d5/d76/a17510.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
-    [ "PrepareSpellScript", "d5/d76/a17510.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
-    [ "Register", "d5/d76/a17510.html#a86cad92c07fa31c730a3b560d33ed824", null ],
-    [ "SplitDamage", "d5/d76/a17510.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
-    [ "_targetCount", "d5/d76/a17510.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
+    [ "npc_bone_spikeAI", "d5/d76/a17510.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
+    [ "DoAction", "d5/d76/a17510.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
+    [ "IsSummonedBy", "d5/d76/a17510.html#af2794484ee3ebf0579ce7357d222240d", null ],
+    [ "JustDied", "d5/d76/a17510.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
+    [ "UpdateAI", "d5/d76/a17510.html#a8eff2bcc6507c65e563ed272977f224e", null ],
+    [ "events", "d5/d76/a17510.html#a6a35900435d41d0603919f29415667a5", null ],
+    [ "hasTrappedUnit", "d5/d76/a17510.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
 ];

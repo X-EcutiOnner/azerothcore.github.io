@@ -1,6 +1,7 @@
 var a12654 =
 [
-    [ "npc_scarlet_cannonAI", "dd/d89/a12658.html", "dd/d89/a12658" ],
-    [ "npc_scarlet_cannon", "de/dd5/a12654.html#a10bb35cbbdae3508a2300ba3dacc1ea3", null ],
-    [ "GetAI", "de/dd5/a12654.html#ae2b74a4dab4b34f026fd17d5ed381c99", null ]
+    [ "HandleScriptEffect", "de/dd5/a12654.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "de/dd5/a12654.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "de/dd5/a12654.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "de/dd5/a12654.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

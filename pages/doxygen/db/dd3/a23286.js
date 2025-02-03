@@ -1,8 +1,6 @@
 var a23286 =
 [
-    [ "HandleDummyApply", "db/dd3/a23286.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "db/dd3/a23286.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "db/dd3/a23286.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "db/dd3/a23286.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "db/dd3/a23286.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d7/d56/a23290.html", "d7/d56/a23290" ],
+    [ "instance_hellfire_ramparts", "db/dd3/a23286.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "db/dd3/a23286.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

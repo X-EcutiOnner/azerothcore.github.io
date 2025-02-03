@@ -1,5 +1,5 @@
 var a26734 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "d6/d89/a26734.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "d6/d89/a26734.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "achievement_bg_av_perfection", "d6/d89/a26734.html#a8a0ef996bdb1244026268922b301184c", null ],
+    [ "OnCheck", "d6/d89/a26734.html#a17e700c17b5144b571f2aeed92a77749", null ]
 ];

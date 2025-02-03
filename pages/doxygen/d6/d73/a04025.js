@@ -1,5 +1,5 @@
 var a04025 =
 [
-    [ "quest_commandscript", "d5/dcb/a11514.html", "d5/dcb/a11514" ],
-    [ "AddSC_quest_commandscript", "d6/d73/a04025.html#ae9edb5f21eaacbfd73cc01543cb2fcdd", null ]
+    [ "mmaps_commandscript", "d5/df1/a11494.html", "d5/df1/a11494" ],
+    [ "AddSC_mmaps_commandscript", "d6/d73/a04025.html#aa9672a1e32f85f31a4be02f505768ecd", null ]
 ];

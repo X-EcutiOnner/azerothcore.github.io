@@ -1,6 +1,7 @@
 var a10794 =
 [
-    [ "WorldSession", "df/d4a/a10794.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "df/d4a/a10794.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "df/d4a/a10794.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "MapSessionFilter", "df/d4a/a10794.html#ad11a700c36f8f45640402e96edc74b49", null ],
+    [ "~MapSessionFilter", "df/d4a/a10794.html#a82960e741c8f64d24a764a915f14e2b8", null ],
+    [ "Process", "df/d4a/a10794.html#a54483596fe2a5a0d30fab9a13506b375", null ],
+    [ "ProcessUnsafe", "df/d4a/a10794.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
 ];

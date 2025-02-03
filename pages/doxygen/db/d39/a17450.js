@@ -1,6 +1,10 @@
 var a17450 =
 [
-    [ "npc_darnavanAI", "de/d40/a17454.html", "de/d40/a17454" ],
-    [ "npc_darnavan", "db/d39/a17450.html#ac358ca123155165395fa5f7ec02c9dab", null ],
-    [ "GetAI", "db/d39/a17450.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
+    [ "npc_cult_fanaticAI", "db/d39/a17450.html#a766e536288b84110f88a8bd282e97932", null ],
+    [ "JustEngagedWith", "db/d39/a17450.html#a709b75f4b1519bc7c6988985a22d076f", null ],
+    [ "Reset", "db/d39/a17450.html#a772830df1d16d0463c8c00f14c337db0", null ],
+    [ "SpellHit", "db/d39/a17450.html#a17c02a83b522c9717de3d89517104e42", null ],
+    [ "UpdateAI", "db/d39/a17450.html#ac79afdab3721d78d2b7e5da360083cea", null ],
+    [ "_instance", "db/d39/a17450.html#a7448fdf85cccfcb12509b0274205bff4", null ],
+    [ "events", "db/d39/a17450.html#a9576978141062fa1babbbc5ed42483c4", null ]
 ];

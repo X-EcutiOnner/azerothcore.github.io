@@ -1,6 +1,6 @@
 var a21174 =
 [
-    [ "npc_violet_hold_defense_system", "d1/d86/a21174.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "d1/d86/a21174.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "d1/d86/a21174.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
+    [ "npc_azure_sorcerorAI", "df/da0/a21178.html", "df/da0/a21178" ],
+    [ "npc_azure_sorceror", "d1/d86/a21174.html#ab81ec144680a37312b0a5e0110365a1a", null ],
+    [ "GetAI", "d1/d86/a21174.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
 ];

@@ -1,7 +1,7 @@
 var a15282 =
 [
-    [ "npc_kaya_flathoofAI", "d6/d26/a15282.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "d6/d26/a15282.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "d6/d26/a15282.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "d6/d26/a15282.html#a8fcbb19279b925138ba96d2a450fc404", null ]
+    [ "DelayedWindstoneSummonEvent", "d6/d26/a15282.html#aa97daf8cf3479395ffd6558b6699436a", null ],
+    [ "Execute", "d6/d26/a15282.html#aa413bc8709bc543b89ffb3df42185475", null ],
+    [ "_playerGUID", "d6/d26/a15282.html#ad83bb6d87b569f59e99abcc16517745b", null ],
+    [ "_summon", "d6/d26/a15282.html#af9804d276da5daebab3a37f2c75301ea", null ]
 ];

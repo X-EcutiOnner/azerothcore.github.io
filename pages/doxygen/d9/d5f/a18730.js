@@ -1,9 +1,12 @@
 var a18730 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d9/d5f/a18730.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
-    [ "KilledUnit", "d9/d5f/a18730.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
-    [ "Reset", "d9/d5f/a18730.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
-    [ "UpdateAI", "d9/d5f/a18730.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
-    [ "auraVisualTimer", "d9/d5f/a18730.html#a74aea4294c26414d3b60983d14d36e31", null ],
-    [ "sizeTimer", "d9/d5f/a18730.html#a73f775b30ad36a595e0d8532067ba042", null ]
+    [ "npc_gothik_triggerAI", "d9/d5f/a18730.html#ae45c6de238755eb069e0c182943da58c", null ],
+    [ "DamageTaken", "d9/d5f/a18730.html#ada8e501edfadbb55162532f081a4b48b", null ],
+    [ "EnterEvadeMode", "d9/d5f/a18730.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
+    [ "JustEngagedWith", "d9/d5f/a18730.html#ab5403383f1fcd539cacf975dffbe2817", null ],
+    [ "JustSummoned", "d9/d5f/a18730.html#a35be0135b77a3e62ac8d421910cf0674", null ],
+    [ "SelectRandomSkullPile", "d9/d5f/a18730.html#aeafc63047c9059afdf668b8c22d2937f", null ],
+    [ "SpellHit", "d9/d5f/a18730.html#a18a8135ab0395991afc4896950783ae5", null ],
+    [ "SummonedCreatureDespawn", "d9/d5f/a18730.html#ad7ed092509dd41fddd44a4024c011364", null ],
+    [ "UpdateAI", "d9/d5f/a18730.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
 ];

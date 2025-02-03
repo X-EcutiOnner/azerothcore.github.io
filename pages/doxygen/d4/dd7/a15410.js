@@ -1,12 +1,10 @@
 var a15410 =
 [
-    [ "DialogueHelper", "d4/dd7/a15410.html#a3566655e8781bf5f9dff514fcd659421", null ],
-    [ "DialogueUpdate", "d4/dd7/a15410.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
-    [ "DoNextDialogueStep", "d4/dd7/a15410.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
-    [ "GetSpeakerByEntry", "d4/dd7/a15410.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
-    [ "JustDidDialogueStep", "d4/dd7/a15410.html#a79e80634f1780895669f5c810958fd4f", null ],
-    [ "StartNextDialogueText", "d4/dd7/a15410.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
-    [ "_actionTimer", "d4/dd7/a15410.html#a33b8551c136bcbc896b29d935c155a75", null ],
-    [ "_currentEntry", "d4/dd7/a15410.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
-    [ "_dialogueArray", "d4/dd7/a15410.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
+    [ "npc_ameAI", "d4/dd7/a15410.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
+    [ "JustDied", "d4/dd7/a15410.html#a9b77f94f112477509c3163945ceb8201", null ],
+    [ "JustSummoned", "d4/dd7/a15410.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
+    [ "Reset", "d4/dd7/a15410.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
+    [ "UpdateAI", "d4/dd7/a15410.html#a0a073e4c216985607aa51099044ff6c5", null ],
+    [ "WaypointReached", "d4/dd7/a15410.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
+    [ "DemoralizingShoutTimer", "d4/dd7/a15410.html#ab5d1786735adea4bce1bba8adf42a877", null ]
 ];

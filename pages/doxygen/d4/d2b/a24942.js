@@ -1,6 +1,7 @@
 var a24942 =
 [
-    [ "PrepareSpellScript", "d4/d2b/a24942.html#abb178100d4e5fa4032118f86aa34127d", null ],
-    [ "Register", "d4/d2b/a24942.html#a50e902cc281b909259097a8bed5651f2", null ],
-    [ "RemoveVehicleAuras", "d4/d2b/a24942.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
+    [ "PrepareSpellScript", "d4/d2b/a24942.html#a65d5717a25e371e09c44148c679dd390", null ],
+    [ "Register", "d4/d2b/a24942.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
+    [ "RemoveInvalidTargets", "d4/d2b/a24942.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
+    [ "Validate", "d4/d2b/a24942.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
 ];

@@ -1,6 +1,6 @@
 var a21870 =
 [
-    [ "npc_bushwhackerAI", "d6/d47/a21874.html", "d6/d47/a21874" ],
-    [ "npc_bushwhacker", "da/d7c/a21870.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
-    [ "GetAI", "da/d7c/a21870.html#ab3190b66069e820abf3637bb877066a0", null ]
+    [ "npc_mcmanus", "da/d7c/a21870.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "da/d7c/a21870.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "da/d7c/a21870.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

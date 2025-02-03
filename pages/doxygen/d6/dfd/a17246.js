@@ -1,6 +1,8 @@
 var a17246 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "d3/d3e/a17250.html", "d3/d3e/a17250" ],
-    [ "npc_muradin_bronzebeard_igb", "d6/dfd/a17246.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "d6/dfd/a17246.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "ResetEncounterEvent", "d6/dfd/a17246.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "d6/dfd/a17246.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "d6/dfd/a17246.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "d6/dfd/a17246.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "d6/dfd/a17246.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

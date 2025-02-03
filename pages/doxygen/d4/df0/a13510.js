@@ -1,14 +1,12 @@
 var a13510 =
 [
-    [ "boss_hexlord_malacrass", "d4/df0/a13510.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
-    [ "JustEngagedWith", "d4/df0/a13510.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
-    [ "KilledUnit", "d4/df0/a13510.html#a69e7a3aa2cb068706651bad34363099f", null ],
-    [ "Reset", "d4/df0/a13510.html#af00159c9e2c54033f52f46d60881f22e", null ],
-    [ "ScheduleClassAbility", "d4/df0/a13510.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
-    [ "SpawnAdds", "d4/df0/a13510.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
-    [ "UseAbility", "d4/df0/a13510.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
-    [ "_classAbilityTimer", "d4/df0/a13510.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
-    [ "_creatureIndex", "d4/df0/a13510.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
-    [ "_currentClass", "d4/df0/a13510.html#ab7e531fccbb486b7b429d77d804841c2", null ],
-    [ "_timeUntilNextDrainPower", "d4/df0/a13510.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
+    [ "npc_akilzon_eagle", "d4/df0/a13510.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
+    [ "JustEngagedWith", "d4/df0/a13510.html#aa5c3d77a1086ad90397d47f081b25476", null ],
+    [ "MoveInLineOfSight", "d4/df0/a13510.html#adefd384b8a273ca52343d836a399f3cb", null ],
+    [ "MovementInform", "d4/df0/a13510.html#abf69be0c32356e65e6d451c33fb389f0", null ],
+    [ "Reset", "d4/df0/a13510.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
+    [ "UpdateAI", "d4/df0/a13510.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
+    [ "arrived", "d4/df0/a13510.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
+    [ "EagleSwoop_Timer", "d4/df0/a13510.html#a37a5861ef690729e2a8bfafddce168be", null ],
+    [ "TargetGUID", "d4/df0/a13510.html#a14d4f82f932569d24f6014ad39640619", null ]
 ];

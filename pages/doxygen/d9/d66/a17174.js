@@ -1,7 +1,6 @@
 var a17174 =
 [
-    [ "npc_icc_blood_beastAI", "d9/d66/a17174.html#af52eff9f66451444c5acba6930c1bff6", null ],
-    [ "DoAction", "d9/d66/a17174.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
-    [ "UpdateAI", "d9/d66/a17174.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
-    [ "timer1", "d9/d66/a17174.html#a1074059162f818088808795119f081be", null ]
+    [ "PrepareAuraScript", "d9/d66/a17174.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "d9/d66/a17174.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "d9/d66/a17174.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

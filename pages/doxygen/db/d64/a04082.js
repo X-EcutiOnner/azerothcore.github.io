@@ -1,5 +1,5 @@
 var a04082 =
 [
-    [ "arena_commandscript", "df/d0d/a11358.html", "df/d0d/a11358" ],
-    [ "AddSC_arena_commandscript", "db/d64/a04082.html#aa94d37f012ac02e97a1021713b7dbeeb", null ]
+    [ "list_commandscript", "d6/d8c/a11478.html", "d6/d8c/a11478" ],
+    [ "AddSC_list_commandscript", "db/d64/a04082.html#a81af00772e7a06ad952109222b1f53a3", null ]
 ];

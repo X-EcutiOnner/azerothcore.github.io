@@ -1,5 +1,6 @@
 var a27910 =
 [
-    [ "content", "dd/d1f/a27910.html#a936eb07adb8a41480dfc196127b7e5c0", null ],
-    [ "ID", "dd/d1f/a27910.html#a1a33aff67b979c3c7a76c26debb5fc25", null ]
+    [ "Enchantment", "dd/d1f/a27910.html#a480ab806214bb138d56dfd5e9e43936f", null ],
+    [ "ID", "dd/d1f/a27910.html#acb673be771124b84dd3fdd5deb300de7", null ],
+    [ "Name", "dd/d1f/a27910.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
 ];

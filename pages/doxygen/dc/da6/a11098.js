@@ -1,6 +1,6 @@
 var a11098 =
 [
-    [ "EffectPeriodicHandler", "dc/da6/a11098.html#aad44956783e9c044eb92065cc62e97f6", null ],
-    [ "Call", "dc/da6/a11098.html#a938e987363972fbd58e42f19880016d8", null ],
-    [ "pEffectHandlerScript", "dc/da6/a11098.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
+    [ "CheckAreaTargetHandler", "dc/da6/a11098.html#a641b633e37079949c8b1b71a32f4222e", null ],
+    [ "Call", "dc/da6/a11098.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
+    [ "pHandlerScript", "dc/da6/a11098.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
 ];

@@ -1,11 +1,9 @@
 var a26290 =
 [
-    [ "CheckProc", "da/d3a/a26290.html#a7a6eea8debb09c4c9086a92d8e6ee59c", null ],
-    [ "HandleProc", "da/d3a/a26290.html#af29b1d6d8553003514918a383cb08b4a", null ],
-    [ "Load", "da/d3a/a26290.html#a8861c2415c0f705cb4a06c02eabb54d2", null ],
-    [ "OnRemove", "da/d3a/a26290.html#a9227147dd6e621deddd0088b95e9db2f", null ],
-    [ "PrepareAuraScript", "da/d3a/a26290.html#a149881d517edbb15032452554fc64948", null ],
-    [ "Register", "da/d3a/a26290.html#ac81d60d54a87a23bd9481934f5753de0", null ],
-    [ "Validate", "da/d3a/a26290.html#a7a4d1bddd1dbeb41e0f6f8fe272b4ad6", null ],
-    [ "_redirectTarget", "da/d3a/a26290.html#af3ee2a283d8942ab3652a6386c26f737", null ]
+    [ "Absorb", "da/d3a/a26290.html#a22b175a7a07f950b5be1aad60e096e4f", null ],
+    [ "CalculateAmount", "da/d3a/a26290.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6", null ],
+    [ "Load", "da/d3a/a26290.html#acf7851d34fa2368c9e711e8b3943c09b", null ],
+    [ "PrepareAuraScript", "da/d3a/a26290.html#ac273b669dc396561d9ec8b523659363f", null ],
+    [ "Register", "da/d3a/a26290.html#a656f4770b0f7099f5926a8063f7d740c", null ],
+    [ "absorbPct", "da/d3a/a26290.html#a31d7ca52ace4e22652403292969baf55", null ]
 ];

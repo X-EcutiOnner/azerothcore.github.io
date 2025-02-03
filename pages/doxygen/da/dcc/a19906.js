@@ -1,6 +1,6 @@
 var a19906 =
 [
-    [ "npc_ulduar_hodir_shamanAI", "d6/d1d/a19910.html", "d6/d1d/a19910" ],
-    [ "npc_ulduar_hodir_shaman", "da/dcc/a19906.html#ae73a416c72441ab531d8a5db88183d47", null ],
-    [ "GetAI", "da/dcc/a19906.html#ab06a67b72a3954c65792a478ac90672c", null ]
+    [ "npc_ulduar_toasty_fireAI", "da/dcc/a19906.html#a145001c6f1c1d505f810ae545ec62c69", null ],
+    [ "DoAction", "da/dcc/a19906.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
+    [ "SpellHit", "da/dcc/a19906.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
 ];

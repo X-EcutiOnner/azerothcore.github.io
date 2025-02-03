@@ -1,7 +1,10 @@
 var a17950 =
 [
-    [ "OnRemove", "dd/dee/a17950.html#a106935d92ef6ba7909c57264e26b5522", null ],
-    [ "PrepareAuraScript", "dd/dee/a17950.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
-    [ "Register", "dd/dee/a17950.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
-    [ "Validate", "dd/dee/a17950.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
+    [ "npc_shambling_horror_iccAI", "dd/dee/a17950.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
+    [ "CanAIAttack", "dd/dee/a17950.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
+    [ "DamageTaken", "dd/dee/a17950.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
+    [ "Reset", "dd/dee/a17950.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
+    [ "UpdateAI", "dd/dee/a17950.html#abae6058591022057e93d48da3db1b8bc", null ],
+    [ "_events", "dd/dee/a17950.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
+    [ "_frenzied", "dd/dee/a17950.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
 ];

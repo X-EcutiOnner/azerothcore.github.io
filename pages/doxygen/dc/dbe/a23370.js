@@ -1,14 +1,7 @@
 var a23370 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "dc/dbe/a23370.html#aa438091d2868b26d961ee4f81e9cea11", null ],
-    [ "GetGuidData", "dc/dbe/a23370.html#a1a0623204ecaaa3623fc503783c4d766", null ],
-    [ "Initialize", "dc/dbe/a23370.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
-    [ "OnCreatureCreate", "dc/dbe/a23370.html#a9fa5637791d249553472b31c024f9fc1", null ],
-    [ "ReadSaveDataMore", "dc/dbe/a23370.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
-    [ "SetData", "dc/dbe/a23370.html#a566090f29d13977354fb50e68d92f046", null ],
-    [ "Update", "dc/dbe/a23370.html#aad1666c364feff4e2b7654f5894c129f", null ],
-    [ "WriteSaveDataMore", "dc/dbe/a23370.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
-    [ "ExecutionerGUID", "dc/dbe/a23370.html#aa879398b1732952eba7b2b8a822a959e", null ],
-    [ "PrisonerGUID", "dc/dbe/a23370.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
-    [ "RescueTimer", "dc/dbe/a23370.html#a8df2961264a192ab2692e3c8ca507666", null ]
+    [ "HandleOnApply", "dc/dbe/a23370.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "dc/dbe/a23370.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "dc/dbe/a23370.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "dc/dbe/a23370.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

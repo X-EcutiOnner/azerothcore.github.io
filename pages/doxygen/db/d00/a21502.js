@@ -1,6 +1,6 @@
 var a21502 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "df/d52/a21506.html", "df/d52/a21506" ],
-    [ "npc_q24545_wretched_ghoul", "db/d00/a21502.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "db/d00/a21502.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "npc_q24545_lich_kingAI", "df/d52/a21506.html", "df/d52/a21506" ],
+    [ "npc_q24545_lich_king", "db/d00/a21502.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
+    [ "GetAI", "db/d00/a21502.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
 ];

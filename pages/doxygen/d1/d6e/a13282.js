@@ -1,12 +1,12 @@
 var a13282 =
 [
-    [ "npc_sentinel_infiltrator", "d1/d6e/a13282.html#a40ce6808a4d0622eb88a669485335020", null ],
-    [ "Initialize", "d1/d6e/a13282.html#acc94269a3ede4c897f457a270e9a9c12", null ],
-    [ "JustEngagedWith", "d1/d6e/a13282.html#a2c9927468b92d00b60efac851eacfef1", null ],
-    [ "MovementInform", "d1/d6e/a13282.html#a57aef1c4ce7a491408c2c6b19d4d4cf2", null ],
-    [ "Reset", "d1/d6e/a13282.html#a0f26dbe23efdf572f81723dff1d3eeaf", null ],
-    [ "UpdateAI", "d1/d6e/a13282.html#ac676246948689c891c0f9cca7f8bc8b6", null ],
-    [ "_events", "d1/d6e/a13282.html#a296d6c70b6c439319cc69a9d39005e62", null ],
-    [ "_fleedForAssistance", "d1/d6e/a13282.html#a948c9d2081b33e18aa927fb18598c8ad", null ],
-    [ "_path", "d1/d6e/a13282.html#a32d531478df327ccb0bb85e262420813", null ]
+    [ "npc_eastvale_peasent", "d1/d6e/a13282.html#a5282dac41228569d4431d84c1f160f05", null ],
+    [ "Initialize", "d1/d6e/a13282.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
+    [ "PathEndReached", "d1/d6e/a13282.html#a002ec21e0715b020aa19cd0839408033", null ],
+    [ "Reset", "d1/d6e/a13282.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
+    [ "SetData", "d1/d6e/a13282.html#add14d9505880727e208e7ef9428f5acd", null ],
+    [ "UpdateAI", "d1/d6e/a13282.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
+    [ "_events", "d1/d6e/a13282.html#a1b310b07481366042dc45f7a27ce6408", null ],
+    [ "_path", "d1/d6e/a13282.html#a907db8e6148947248b5bcfdb35023e16", null ],
+    [ "_realenGUID", "d1/d6e/a13282.html#aad06364be8698b5ba69cd229e2a5085b", null ]
 ];

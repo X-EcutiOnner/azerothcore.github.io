@@ -1,7 +1,7 @@
 var a25890 =
 [
-    [ "CalculateAmount", "d8/d75/a25890.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
-    [ "HandleUpdateSpellclick", "d8/d75/a25890.html#a89956d7f3a6404d5b60e46034867c82c", null ],
-    [ "PrepareAuraScript", "d8/d75/a25890.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
-    [ "Register", "d8/d75/a25890.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ]
+    [ "HandleProc", "d8/d75/a25890.html#a72463db57f87387aa3ff3175c45ca9df", null ],
+    [ "PrepareAuraScript", "d8/d75/a25890.html#ae158b4b624b50ad984b2c5e9c16d7670", null ],
+    [ "Register", "d8/d75/a25890.html#a2da64a27cfa5a68464f8f3a885e09751", null ],
+    [ "Validate", "d8/d75/a25890.html#a798f51ee6333d3ebb2bbb617ea88ea2b", null ]
 ];

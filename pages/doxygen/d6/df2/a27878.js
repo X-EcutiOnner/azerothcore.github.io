@@ -1,6 +1,4 @@
 var a27878 =
 [
-    [ "ID", "d6/df2/a27878.html#a7d40e334785d96a2e57d28f87a59778a", null ],
-    [ "maxCount", "d6/df2/a27878.html#a5edc6442e026b12dae654fa86440a11a", null ],
-    [ "mode", "d6/df2/a27878.html#a76553ecf9f880a5e5967f818123742fd", null ]
+    [ "ratio", "d6/df2/a27878.html#ad3cdf9a27817d39d05b8b785f5ba5ac7", null ]
 ];

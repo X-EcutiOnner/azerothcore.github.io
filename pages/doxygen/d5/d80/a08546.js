@@ -1,11 +1,6 @@
 var a08546 =
 [
-    [ "AuraMunchingQueue", "d5/d80/a08546.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
-    [ "Execute", "d5/d80/a08546.html#a8f025a0ea1db81fb283db563402d1c40", null ],
-    [ "_auraType", "d5/d80/a08546.html#add694e24c38d585784f236acf9118b76", null ],
-    [ "_aurEff", "d5/d80/a08546.html#a8ac00964608170d5375242c1b19c4be3", null ],
-    [ "_basePoints", "d5/d80/a08546.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
-    [ "_owner", "d5/d80/a08546.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
-    [ "_spellId", "d5/d80/a08546.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
-    [ "_targetGUID", "d5/d80/a08546.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
+    [ "SplineHandler", "d5/d80/a08546.html#a7c5aac2d12e13bad1c38c4e8860ed27f", null ],
+    [ "operator()", "d5/d80/a08546.html#aa5d1bddc2435eee76f493229740ecf9e", null ],
+    [ "_unit", "d5/d80/a08546.html#aaafb07271736d8bc89d07aafbbae7f25", null ]
 ];

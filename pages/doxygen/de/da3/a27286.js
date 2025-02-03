@@ -1,7 +1,11 @@
 var a27286 =
 [
-    [ "npc_sayge", "de/da3/a27286.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "de/da3/a27286.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "de/da3/a27286.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "de/da3/a27286.html#aed1988335672423d024546654aa95298", null ]
+    [ "npc_injured_patientAI", "de/da3/a27286.html#a0973487623f1771c598648bc06a6d9a3", null ],
+    [ "JustEngagedWith", "de/da3/a27286.html#a621a8cc3f6b9655760431d52766ca589", null ],
+    [ "Reset", "de/da3/a27286.html#a007c9c7a4047374574cad17e9309d7c1", null ],
+    [ "SpellHit", "de/da3/a27286.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
+    [ "UpdateAI", "de/da3/a27286.html#a54d0a5574175747779878dce0ebfd44f", null ],
+    [ "_scheduler", "de/da3/a27286.html#a60428fa97c8f6520338d53ed368c4c35", null ],
+    [ "Coord", "de/da3/a27286.html#af5a6f87c0379edd07a8756018b0c8661", null ],
+    [ "DoctorGUID", "de/da3/a27286.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
 ];

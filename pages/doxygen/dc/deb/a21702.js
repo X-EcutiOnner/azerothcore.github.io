@@ -1,6 +1,6 @@
 var a21702 =
 [
-    [ "npc_plaguehound_trackerAI", "d4/dc0/a21706.html", "d4/dc0/a21706" ],
-    [ "npc_plaguehound_tracker", "dc/deb/a21702.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
-    [ "GetAI", "dc/deb/a21702.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
+    [ "npc_attracted_reef_bullAI", "dc/deb/a21702.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "dc/deb/a21702.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "dc/deb/a21702.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];
