@@ -1,6 +1,5 @@
 var a27046 =
 [
-    [ "go_soulwellAI", "dc/d8d/a27050.html", "dc/d8d/a27050" ],
-    [ "go_soulwell", "df/d3f/a27046.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "df/d3f/a27046.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "go_table_theka", "df/d3f/a27046.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
+    [ "OnGossipHello", "df/d3f/a27046.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
 ];

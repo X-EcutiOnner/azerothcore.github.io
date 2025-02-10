@@ -1,6 +1,6 @@
 var a27250 =
 [
-    [ "npc_air_force_botsAI", "db/d9c/a27254.html", "db/d9c/a27254" ],
-    [ "npc_air_force_bots", "de/d66/a27250.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "de/d66/a27250.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "spawnedCreatureEntry", "de/d66/a27250.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "de/d66/a27250.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "de/d66/a27250.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

@@ -22,6 +22,7 @@ var a10198 =
     [ "OnUnitDeath", "d9/dd0/a10198.html#a7bb5f4ea3ae8edb55df455648863d93f", null ],
     [ "OnUnitEnterCombat", "d9/dd0/a10198.html#a8d04617af120a1e23ad57a45440744bb", null ],
     [ "OnUnitEnterEvadeMode", "d9/dd0/a10198.html#a9df6f81297f53007f1227778466e912f", null ],
+    [ "OnUnitSetShapeshiftForm", "d9/dd0/a10198.html#acacf12c000646710abf931429a0852c0", null ],
     [ "OnUnitUpdate", "d9/dd0/a10198.html#a36e7ba9d74892f59d0a36b76e78f4f80", null ],
     [ "ShouldTrackValuesUpdatePosByIndex", "d9/dd0/a10198.html#a7b74be81d24bc7265d5566d67d044aad", null ]
 ];

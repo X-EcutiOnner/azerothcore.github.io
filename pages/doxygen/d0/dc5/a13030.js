@@ -1,7 +1,7 @@
 var a13030 =
 [
     [ "boss_felmyst", "d0/dc5/a13030.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
-    [ "DoAction", "d0/dc5/a13030.html#ad6a578f2b47ed6bc804785e1f9d0c604", null ],
+    [ "InitializeAI", "d0/dc5/a13030.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
     [ "JustDied", "d0/dc5/a13030.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
     [ "JustEngagedWith", "d0/dc5/a13030.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
     [ "KilledUnit", "d0/dc5/a13030.html#a0233ebbcbb21d100425ac76223e839be", null ],

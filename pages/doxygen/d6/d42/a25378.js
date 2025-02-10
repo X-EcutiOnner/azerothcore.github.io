@@ -1,10 +1,8 @@
 var a25378 =
 [
-    [ "spell_item_defibrillate", "d6/d42/a25378.html#ab64fdd36fc646ca0bcb2010380199ede", null ],
-    [ "HandleScript", "d6/d42/a25378.html#a7abbc5b8e5c5231d5c6809c45b815b69", null ],
-    [ "PrepareSpellScript", "d6/d42/a25378.html#a6a7ad6c9bb9bee3b093bd06b1b259468", null ],
-    [ "Register", "d6/d42/a25378.html#ad2faa26a2874f68e8e419e59cafbf10b", null ],
-    [ "Validate", "d6/d42/a25378.html#ad871a6bef7ba074f32abe1bf062dffe1", null ],
-    [ "_chance", "d6/d42/a25378.html#a680092f30ebc6b322e5d01a1100b308c", null ],
-    [ "_failSpell", "d6/d42/a25378.html#a4cb3e7f0b0b85c57f27fe2f3ab70647b", null ]
+    [ "CheckProc", "d6/d42/a25378.html#a06d76f258699bd4f78834ef33752a351", null ],
+    [ "HandleProc", "d6/d42/a25378.html#af22f22cbc38fabe4181b853727df83f8", null ],
+    [ "PrepareAuraScript", "d6/d42/a25378.html#adbc2bc54974837a9784cbf8b30ef2c1e", null ],
+    [ "Register", "d6/d42/a25378.html#a8db2cf628d44fa962bb3889b20f5dfb1", null ],
+    [ "Validate", "d6/d42/a25378.html#aa5604d45c0c11bef130d9242c4357163", null ]
 ];

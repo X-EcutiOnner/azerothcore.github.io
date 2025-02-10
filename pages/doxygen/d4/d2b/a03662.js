@@ -136,6 +136,7 @@ var a03662 =
     [ "spell_gen_set_health", "d0/d31/a25062.html", "d0/d31/a25062" ],
     [ "spell_pet_spellhit_expertise_spellpen_scaling", "df/d9c/a25066.html", "df/d9c/a25066" ],
     [ "spell_gen_proc_on_victim", "d9/db8/a25070.html", "d9/db8/a25070" ],
+    [ "spell_gen_translocate", "d4/d16/a25074.html", "d4/d16/a25074" ],
     [ "AdaptiveWarding", "d4/d2b/a03662.html#a79ff609ca4141ec4d6a457edc207fa59", [
       [ "SPELL_GEN_ADAPTIVE_WARDING_FIRE", "d4/d2b/a03662.html#a79ff609ca4141ec4d6a457edc207fa59a4facfb8d4581572904cb314fde2a66f0", null ],
       [ "SPELL_GEN_ADAPTIVE_WARDING_NATURE", "d4/d2b/a03662.html#a79ff609ca4141ec4d6a457edc207fa59a6e5208fa2df777e0c38c675c037ce7c4", null ],
@@ -502,6 +503,10 @@ var a03662 =
       [ "QUEST_A_VALIANT_OF_UNDERCITY", "d4/d2b/a03662.html#a0d36545e46b8e4d1fbb74bd77f2ba601ab8d2b248810e881cf8df405c0fade7ee", null ],
       [ "QUEST_VALIANT_OF_SILVERMOON", "d4/d2b/a03662.html#a0d36545e46b8e4d1fbb74bd77f2ba601a7cbf996a4020775140afbd44a7c9aaa8", null ],
       [ "QUEST_A_VALIANT_OF_SILVERMOON", "d4/d2b/a03662.html#a0d36545e46b8e4d1fbb74bd77f2ba601a7e027173eecac13112653d2ad85eb7ca", null ]
+    ] ],
+    [ "TranslocateSpells", "d4/d2b/a03662.html#af23dc55719e8841fa8e33066176130b4", [
+      [ "SPELL_TRANSLOCATION_DOWN", "d4/d2b/a03662.html#af23dc55719e8841fa8e33066176130b4aaef24651ef5fef7e8db0aae1194268fb", null ],
+      [ "SPELL_TRANSLOCATION_UP", "d4/d2b/a03662.html#af23dc55719e8841fa8e33066176130b4ab14af7f64a5d038d207ad39a7d2fc7b0", null ]
     ] ],
     [ "TransporterBackfires", "d4/d2b/a03662.html#a2e35569a890d85938ce046a63ada28eb", [
       [ "SPELL_TRANSPORTER_MALFUNCTION_POLYMORPH", "d4/d2b/a03662.html#a2e35569a890d85938ce046a63ada28ebae3dbe038ce1db94abb07c9fba15e3bd9", null ],

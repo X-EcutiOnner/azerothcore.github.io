@@ -98,6 +98,7 @@ var a07858 =
     [ "GetVendorItems", "d6/dd4/a07858.html#a183c5a3700f70bce2a2f9e3912e3328d", null ],
     [ "GetWanderDistance", "d6/dd4/a07858.html#adbdbb5b9dc6da1d57c9c3de5fc9f7f7d", null ],
     [ "GetWaypointPath", "d6/dd4/a07858.html#a436b88db852badef5f6a10210886b7be", null ],
+    [ "HasFlagsExtra", "d6/dd4/a07858.html#a527cd042842be888c384015eb9ce65f0", null ],
     [ "hasInvolvedQuest", "d6/dd4/a07858.html#a8be835ff19d38759cece98685a26526a", null ],
     [ "HasLootMode", "d6/dd4/a07858.html#a115b3848cc05b8262eab08704a7e9f94", null ],
     [ "hasLootRecipient", "d6/dd4/a07858.html#a639a1cdc8ce6647634a0a9c841f896a0", null ],

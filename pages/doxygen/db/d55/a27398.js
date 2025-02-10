@@ -1,5 +1,5 @@
 var a27398 =
 [
-    [ "npc_sunwell_gate", "db/d55/a27398.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
-    [ "OnQuestReward", "db/d55/a27398.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
+    [ "npc_suns_reach_reclamation", "db/d55/a27398.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "db/d55/a27398.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
 ];

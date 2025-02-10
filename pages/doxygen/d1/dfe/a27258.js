@@ -1,8 +1,10 @@
 var a27258 =
 [
-    [ "npc_chicken_cluckAI", "d1/da0/a27262.html", "d1/da0/a27262" ],
-    [ "npc_chicken_cluck", "d1/dfe/a27258.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "d1/dfe/a27258.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "d1/dfe/a27258.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "d1/dfe/a27258.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "npc_air_force_botsAI", "d1/dfe/a27258.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "d1/dfe/a27258.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "d1/dfe/a27258.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "d1/dfe/a27258.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "d1/dfe/a27258.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "d1/dfe/a27258.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "d1/dfe/a27258.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

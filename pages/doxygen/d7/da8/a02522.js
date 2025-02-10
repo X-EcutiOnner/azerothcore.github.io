@@ -1,6 +1,6 @@
 var a02522 =
 [
-    [ "npc_innkeeper", "dd/dab/a27138.html", "dd/dab/a27138" ],
+    [ "npc_innkeeper", "d3/d82/a27142.html", "d3/d82/a27142" ],
     [ "AddSC_npc_innkeeper", "d7/da8/a02522.html#a3ffce1ea6cca981888af85ba67364df9", null ],
     [ "GOSSIP_MENU", "d7/da8/a02522.html#a3115623eb3e0408aad7cd637686aaaee", null ],
     [ "GOSSIP_MENU_EVENT", "d7/da8/a02522.html#a6bb09725b9e6b10b76686a9059038e6b", null ],

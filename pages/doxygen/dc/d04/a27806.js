@@ -1,7 +1,5 @@
 var a27806 =
 [
-    [ "EmoteType", "dc/d04/a27806.html#a2d319652021081fdb02472c32a28e318", null ],
-    [ "Flags", "dc/d04/a27806.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
-    [ "Id", "dc/d04/a27806.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
-    [ "UnitStandState", "dc/d04/a27806.html#ada83e548faa01917a5db19eaa15dbbec", null ]
+    [ "Id", "dc/d04/a27806.html#a79e4b857b811a044aed0ce33422df801", null ],
+    [ "quality_mod", "dc/d04/a27806.html#a756e7b316cc365f15f24e5e4637303a6", null ]
 ];

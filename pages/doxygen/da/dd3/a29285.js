@@ -1,10 +1,18 @@
 var a29285 =
 [
-    [ "npc_air_force_botsAI", "da/dd3/a29285.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "da/dd3/a29285.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "da/dd3/a29285.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "da/dd3/a29285.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "da/dd3/a29285.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "da/dd3/a29285.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "da/dd3/a29285.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "_ACORE_CORE_CONFIG", "d7/d47/a04685.html#ga1d466b8deaea4c5b80b4abcdc38991fd", null ],
+    [ "ClearOnlineAccounts", "d7/d47/a04685.html#ga285010ee0ae83f9198f08fa3145877d7", null ],
+    [ "GetConsoleArguments", "d7/d47/a04685.html#gab889056920cce8fbe96e920cea5fd9e6", null ],
+    [ "LoadRealmInfo", "d7/d47/a04685.html#ga74b21e249952fe0d6d779ee217c76dc5", null ],
+    [ "main", "d7/d47/a04685.html#ga3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "ShutdownCLIThread", "d7/d47/a04685.html#gaafe46b3c9a56a31faa60963b6a1f202a", null ],
+    [ "SignalHandler", "d7/d47/a04685.html#gad82d96de9a84a7d0325afcd3121344a4", null ],
+    [ "StartDB", "d7/d47/a04685.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
+    [ "StartRaSocketAcceptor", "d7/d47/a04685.html#ga0781c2ca38d89a89b174f81fb895285b", null ],
+    [ "StopDB", "d7/d47/a04685.html#ga927af1587546ee7503a3b9a18f6439c0", null ],
+    [ "WorldUpdateLoop", "d7/d47/a04685.html#ga62605923595bdfa644784c8a929fa1a7", null ],
+    [ "m_ServiceStatus", "d7/d47/a04685.html#gabad888b856358b30aa3928d7e01916fb", null ],
+    [ "serviceDescription", "d7/d47/a04685.html#ga2994dda4045f1e2d3d675565a16a4dd2", null ],
+    [ "serviceLongName", "d7/d47/a04685.html#ga34b5207234887e0d62724cf770037f6f", null ],
+    [ "serviceName", "d7/d47/a04685.html#ga69c549a4f4a1e88fa4a2c38cde62f569", null ]
 ];

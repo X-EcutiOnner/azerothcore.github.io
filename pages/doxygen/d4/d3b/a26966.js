@@ -1,6 +1,7 @@
 var a26966 =
 [
-    [ "go_pirate_day_musicAI", "d8/da1/a26970.html", "d8/da1/a26970" ],
-    [ "go_pirate_day_music", "d4/d3b/a26966.html#aa8d19102357639bd160eae9e90a87505", null ],
-    [ "GetAI", "d4/d3b/a26966.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
+    [ "go_brewfest_musicAI", "d4/d3b/a26966.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "d4/d3b/a26966.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "d4/d3b/a26966.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "d4/d3b/a26966.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

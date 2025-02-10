@@ -1,7 +1,6 @@
 var a27314 =
 [
-    [ "npc_steam_tonkAI", "d1/d39/a27314.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "d1/d39/a27314.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "d1/d39/a27314.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "d1/d39/a27314.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "npc_steam_tonkAI", "da/df7/a27318.html", "da/df7/a27318" ],
+    [ "npc_steam_tonk", "d1/d39/a27314.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "d1/d39/a27314.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

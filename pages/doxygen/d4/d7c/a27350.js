@@ -1,6 +1,9 @@
 var a27350 =
 [
-    [ "npc_spring_rabbitAI", "d3/da0/a27354.html", "d3/da0/a27354" ],
-    [ "npc_spring_rabbit", "d4/d7c/a27350.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "d4/d7c/a27350.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "npc_fireworkAI", "d4/d7c/a27350.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "d4/d7c/a27350.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "d4/d7c/a27350.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "d4/d7c/a27350.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "d4/d7c/a27350.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "d4/d7c/a27350.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

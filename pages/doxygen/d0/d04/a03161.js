@@ -746,5 +746,22 @@ var a03161 =
       [ "GO_STASIS_POD_OMEGA", "d1/d7a/a04262.html#a57d2d4154291532e405ab880a40a999fa2f261d39734bd8bbdd0d2ebc5d36d497", null ],
       [ "GO_WARDENS_SHIELD", "d1/d7a/a04262.html#a57d2d4154291532e405ab880a40a999fa14ef942a9e83dcfe0a6529f12da04ac8", null ]
     ] ],
+    [ "SpellIds", "d0/d04/a03161.html#a2cd0f1a61f215e1bdcde5cbbd34da57e", [
+      [ "HEX_OF_JAMMAL_AN", "d6/d19/a03242.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea69f27809bb75172648a8556f0f746846", null ],
+      [ "HEX_OF_JAMMAL_AN_CHARM", "d6/d19/a03242.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae5c5fb3a95e85644746e7ea68b61f61f", null ],
+      [ "SPELL_SUMMON_FELBLAZE", "d0/d04/a03161.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae7c0ec69e05b573c37d93c72f3c02928", null ],
+      [ "SPELL_HAKKAR_POWER", "d9/d33/a03269.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea3283f0f4da944506f44c3bf9237adb5a", null ],
+      [ "SPELL_HAKKAR_POWER_DOWN", "d9/d33/a03269.html#a2cd0f1a61f215e1bdcde5cbbd34da57eaf9b994d61f732943910298c55aa69605", null ],
+      [ "SPELL_KARGATHS_EXECUTIONER_1", "d9/d57/a04295.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae503c4471d43b67c9370f5d6f185762c", null ],
+      [ "SPELL_KARGATHS_EXECUTIONER_2", "d9/d57/a04295.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea722d32cb48f5efa1492c4547df687fff", null ],
+      [ "SPELL_KARGATHS_EXECUTIONER_3", "d9/d57/a04295.html#a2cd0f1a61f215e1bdcde5cbbd34da57ead5913bf5ac10d4e02b2fcd2ad0b9275b", null ],
+      [ "SPELL_TELEPORT_VISUAL", "d1/d7a/a04262.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea73cc106ecf58fcd3a75fa23f9ff7a21c", null ],
+      [ "SPELL_SOUL_STEAL", "d1/d7a/a04262.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea2e66041668230e4c27cda68dbf63df22", null ],
+      [ "SPELL_ARCANE_FORM", "d0/dd6/a04238.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea5eb8b318e75f7fafb22bd9fbc40ed420", null ],
+      [ "SPELL_FIRE_FORM", "d0/dd6/a04238.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae79530671a5f0f569a679ff8017fe7a6", null ],
+      [ "SPELL_FROST_FORM", "d0/dd6/a04238.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea8870ee908e189b299d97dec0da566017", null ],
+      [ "SPELL_SHADOW_FORM", "d0/dd6/a04238.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea2e23df1f4d8b45ea8f7c0460f0e298f9", null ],
+      [ "SPELL_TELEPORT_VISUAL", "d1/dde/a04223.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea73cc106ecf58fcd3a75fa23f9ff7a21c", null ]
+    ] ],
     [ "GetSunwellPlateauAI", "d0/d04/a03161.html#a0198140f94836b058b6c839d2880dbbf", null ]
 ];

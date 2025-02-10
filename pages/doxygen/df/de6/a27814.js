@@ -1,16 +1,5 @@
 var a27814 =
 [
-    [ "CanBeSetAtWar", "df/de6/a27814.html#ae165dc23f25386eb086e1fa2cb820153", null ],
-    [ "CanHaveReputation", "df/de6/a27814.html#ab3da6918e197c1098a932418d5c51799", null ],
-    [ "BaseRepClassMask", "df/de6/a27814.html#ae73655de567de3766fcb3bbfb7f9eed3", null ],
-    [ "BaseRepRaceMask", "df/de6/a27814.html#aa8e1c08416d07882af7075fbb020ae5a", null ],
-    [ "BaseRepValue", "df/de6/a27814.html#a52f0753d1e1e69a4994eb6b1eab6824c", null ],
-    [ "ID", "df/de6/a27814.html#a1953f7a343201113dae80cdd97e1ac90", null ],
-    [ "name", "df/de6/a27814.html#ad9d326ed1aac5ea66825775665dfea00", null ],
-    [ "ReputationFlags", "df/de6/a27814.html#ae23a3c94554b2043928d6e1ea748e709", null ],
-    [ "reputationListID", "df/de6/a27814.html#aee99121c2d7298e16540229923391aee", null ],
-    [ "spilloverMaxRankIn", "df/de6/a27814.html#a14cea5365f14880850e788ba328d0c8e", null ],
-    [ "spilloverRateIn", "df/de6/a27814.html#a7a72bc65fb3fe76ffa1d072800c5daed", null ],
-    [ "spilloverRateOut", "df/de6/a27814.html#a7cea150843bf48277aa9cc917d210fcb", null ],
-    [ "team", "df/de6/a27814.html#a6210fabf2688f26a0a0050f6c148485d", null ]
+    [ "Id", "df/de6/a27814.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
+    [ "textid", "df/de6/a27814.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
 ];

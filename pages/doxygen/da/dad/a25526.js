@@ -1,9 +1,8 @@
 var a25526 =
 [
-    [ "CheckRequirement", "da/dad/a25526.html#adab261a5221ca54b15cc414d291908fe", null ],
-    [ "HandleDummy", "da/dad/a25526.html#abb7a734244bb18d75304a0510f9efb8d", null ],
-    [ "Load", "da/dad/a25526.html#a418eef16d1e3aeff67013f45409c092a", null ],
-    [ "PrepareSpellScript", "da/dad/a25526.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
-    [ "Register", "da/dad/a25526.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
-    [ "Validate", "da/dad/a25526.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
+    [ "HandleDummy", "da/dad/a25526.html#ae5487bc9e4c7444468d076785af473ca", null ],
+    [ "Load", "da/dad/a25526.html#a3bf16100687a002a0d3b95bea11dc90f", null ],
+    [ "PrepareSpellScript", "da/dad/a25526.html#a8586b480a304f19741de62b606c9f456", null ],
+    [ "Register", "da/dad/a25526.html#a4698eab378b8cf6d4aeb595b53a9df13", null ],
+    [ "Validate", "da/dad/a25526.html#ab3e697ba71654bf9b67e1d1660b3a7ea", null ]
 ];

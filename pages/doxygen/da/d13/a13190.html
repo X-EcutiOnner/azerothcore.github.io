@@ -125,6 +125,8 @@ Inheritance diagram for instance_sunwell_plateau::instance_sunwell_plateau_Insta
 Public Member Functions</h2></td></tr>
 <tr class="memitem:aae99b35ff990fd7486d5b70693b6729a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d13/a13190.html#aae99b35ff990fd7486d5b70693b6729a">instance_sunwell_plateau_InstanceMapScript</a> (<a class="el" href="../../d5/d8e/a09630.html">Map</a> *map)</td></tr>
 <tr class="separator:aae99b35ff990fd7486d5b70693b6729a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5398f0aa153f7c4eaea390e33c400b02"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d13/a13190.html#a5398f0aa153f7c4eaea390e33c400b02">Load</a> (char const *data) override</td></tr>
+<tr class="separator:a5398f0aa153f7c4eaea390e33c400b02"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab45827eaa92aea4746378b3c11fda219"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d13/a13190.html#ab45827eaa92aea4746378b3c11fda219">OnPlayerEnter</a> (<a class="el" href="../../df/d29/a08478.html">Player</a> *player) override</td></tr>
 <tr class="separator:ab45827eaa92aea4746378b3c11fda219"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_a09454"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a09454')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d1/d2d/a09454.html">InstanceScript</a></td></tr>
@@ -411,6 +413,58 @@ Additional Inherited Members</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="a5398f0aa153f7c4eaea390e33c400b02" name="a5398f0aa153f7c4eaea390e33c400b02"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5398f0aa153f7c4eaea390e33c400b02">&#9670;&#160;</a></span>Load()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript::Load </td>
+          <td>(</td>
+          <td class="paramtype">char const *&#160;</td>
+          <td class="paramname"><em>data</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../d1/d2d/a09454.html#a37ec54dd873f77cf63b2b9a2d0ab7a01">InstanceScript</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   93</span>        {</div>
+<div class="line"><span class="lineno">   94</span>            <a class="code hl_function" href="../../d1/d2d/a09454.html#a37ec54dd873f77cf63b2b9a2d0ab7a01">InstanceScript::Load</a>(data);</div>
+<div class="line"><span class="lineno">   95</span> </div>
+<div class="line"><span class="lineno">   96</span>            <a class="code hl_variable" href="../../d1/d2d/a09454.html#aaf098718cd0212593342678c1eb959e2">scheduler</a>.<a class="code hl_function" href="../../db/d2b/a05454.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(3s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../da/d10/a05470.html">TaskContext</a> <span class="comment">/*context*/</span>)</div>
+<div class="line"><span class="lineno">   97</span>            {</div>
+<div class="line"><span class="lineno">   98</span>                <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d1/d2d/a09454.html#a7aaa52e19edf18424e12a0457b5d45b6">IsBossDone</a>(<a class="code hl_enumvalue" href="../../d0/d04/a03161.html#a6a8e02a45c1f96a77680add79636d4d8a16cf9740b8a8855e8bd622f7d6d13449">DATA_BRUTALLUS</a>) &amp;&amp; !<a class="code hl_function" href="../../d1/d2d/a09454.html#a7aaa52e19edf18424e12a0457b5d45b6">IsBossDone</a>(<a class="code hl_enumvalue" href="../../d0/d04/a03161.html#a6a8e02a45c1f96a77680add79636d4d8a8244063ae9be398c5c0d7d738bf808f5">DATA_FELMYST</a>))</div>
+<div class="line"><span class="lineno">   99</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/dd4/a07858.html">Creature</a>* madrigosa = <a class="code hl_function" href="../../d1/d2d/a09454.html#a1541c403bcc65b54c0a2c523c8eaf0b1">GetCreature</a>(<a class="code hl_enumvalue" href="../../d0/d04/a03161.html#afb6eb4f28419b652027fad41104a6d22aec6185d6a9e33d57fdd4898753868328">DATA_MADRIGOSA</a>))</div>
+<div class="line"><span class="lineno">  100</span>                        madrigosa-&gt;CastSpell((<a class="code hl_class" href="../../d4/d3a/a08610.html">Unit</a>*)<span class="keyword">nullptr</span>, <a class="code hl_enumvalue" href="../../d0/d04/a03161.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae7c0ec69e05b573c37d93c72f3c02928">SPELL_SUMMON_FELBLAZE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  101</span>            });</div>
+<div class="line"><span class="lineno">  102</span>        }</div>
+<div class="ttc" id="aa03161_html_a2cd0f1a61f215e1bdcde5cbbd34da57eae7c0ec69e05b573c37d93c72f3c02928"><div class="ttname"><a href="../../d0/d04/a03161.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae7c0ec69e05b573c37d93c72f3c02928">SPELL_SUMMON_FELBLAZE</a></div><div class="ttdeci">@ SPELL_SUMMON_FELBLAZE</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:111</div></div>
+<div class="ttc" id="aa03161_html_a6a8e02a45c1f96a77680add79636d4d8a16cf9740b8a8855e8bd622f7d6d13449"><div class="ttname"><a href="../../d0/d04/a03161.html#a6a8e02a45c1f96a77680add79636d4d8a16cf9740b8a8855e8bd622f7d6d13449">DATA_BRUTALLUS</a></div><div class="ttdeci">@ DATA_BRUTALLUS</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:30</div></div>
+<div class="ttc" id="aa03161_html_a6a8e02a45c1f96a77680add79636d4d8a8244063ae9be398c5c0d7d738bf808f5"><div class="ttname"><a href="../../d0/d04/a03161.html#a6a8e02a45c1f96a77680add79636d4d8a8244063ae9be398c5c0d7d738bf808f5">DATA_FELMYST</a></div><div class="ttdeci">@ DATA_FELMYST</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:31</div></div>
+<div class="ttc" id="aa03161_html_afb6eb4f28419b652027fad41104a6d22aec6185d6a9e33d57fdd4898753868328"><div class="ttname"><a href="../../d0/d04/a03161.html#afb6eb4f28419b652027fad41104a6d22aec6185d6a9e33d57fdd4898753868328">DATA_MADRIGOSA</a></div><div class="ttdeci">@ DATA_MADRIGOSA</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:43</div></div>
+<div class="ttc" id="aa05454_html_a0e0579d2a2397de5a79c756d5e59a830"><div class="ttname"><a href="../../db/d2b/a05454.html#a0e0579d2a2397de5a79c756d5e59a830">TaskScheduler::Schedule</a></div><div class="ttdeci">TaskScheduler &amp; Schedule(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;time, task_handler_t const &amp;task)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:232</div></div>
+<div class="ttc" id="aa05470_html"><div class="ttname"><a href="../../da/d10/a05470.html">TaskContext</a></div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:421</div></div>
+<div class="ttc" id="aa07858_html"><div class="ttname"><a href="../../d6/dd4/a07858.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:43</div></div>
+<div class="ttc" id="aa08610_html"><div class="ttname"><a href="../../d4/d3a/a08610.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:636</div></div>
+<div class="ttc" id="aa09454_html_a1541c403bcc65b54c0a2c523c8eaf0b1"><div class="ttname"><a href="../../d1/d2d/a09454.html#a1541c403bcc65b54c0a2c523c8eaf0b1">InstanceScript::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(uint32 type)</div><div class="ttdef"><b>Definition:</b> InstanceScript.cpp:115</div></div>
+<div class="ttc" id="aa09454_html_a37ec54dd873f77cf63b2b9a2d0ab7a01"><div class="ttname"><a href="../../d1/d2d/a09454.html#a37ec54dd873f77cf63b2b9a2d0ab7a01">InstanceScript::Load</a></div><div class="ttdeci">virtual void Load(char const *data)</div><div class="ttdef"><b>Definition:</b> InstanceScript.cpp:451</div></div>
+<div class="ttc" id="aa09454_html_a7aaa52e19edf18424e12a0457b5d45b6"><div class="ttname"><a href="../../d1/d2d/a09454.html#a7aaa52e19edf18424e12a0457b5d45b6">InstanceScript::IsBossDone</a></div><div class="ttdeci">bool IsBossDone(uint32 bossId) const</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:284</div></div>
+<div class="ttc" id="aa09454_html_aaf098718cd0212593342678c1eb959e2"><div class="ttname"><a href="../../d1/d2d/a09454.html#aaf098718cd0212593342678c1eb959e2">InstanceScript::scheduler</a></div><div class="ttdeci">TaskScheduler scheduler</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:292</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00030">DATA_BRUTALLUS</a>, <a class="el" href="../../#l00031">DATA_FELMYST</a>, <a class="el" href="../../#l00043">DATA_MADRIGOSA</a>, <a class="el" href="../../#l00115">InstanceScript::GetCreature()</a>, <a class="el" href="../../#l00284">InstanceScript::IsBossDone()</a>, <a class="el" href="../../#l00451">InstanceScript::Load()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00292">InstanceScript::scheduler</a>, and <a class="el" href="../../#l00111">SPELL_SUMMON_FELBLAZE</a>.</p>
+
+</div>
+</div>
 <a id="ab45827eaa92aea4746378b3c11fda219" name="ab45827eaa92aea4746378b3c11fda219"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ab45827eaa92aea4746378b3c11fda219">&#9670;&#160;</a></span>OnPlayerEnter()</h2>
 
@@ -436,12 +490,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d1/d2d/a09454.html#aa4895e949a3f054bdd6e0e918a9fae06">InstanceScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   93</span>        {</div>
-<div class="line"><span class="lineno">   94</span>            <a class="code hl_variable" href="../../d1/d2d/a09454.html#a4b84b9635742380ce5dc6e2f8d76e30b">instance</a>-&gt;<a class="code hl_function" href="../../d5/d8e/a09630.html#a2bde51e9e566b6752bbc03bfe3633700">LoadGrid</a>(1477.94f, 643.22f);</div>
-<div class="line"><span class="lineno">   95</span>            <a class="code hl_variable" href="../../d1/d2d/a09454.html#a4b84b9635742380ce5dc6e2f8d76e30b">instance</a>-&gt;<a class="code hl_function" href="../../d5/d8e/a09630.html#a2bde51e9e566b6752bbc03bfe3633700">LoadGrid</a>(1641.45f, 988.08f);</div>
-<div class="line"><span class="lineno">   96</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d58/a08034.html">GameObject</a>* gobj = <a class="code hl_function" href="../../d1/d2d/a09454.html#ad5b9b0f0203d87894c7df0364babfe87">GetGameObject</a>(<a class="code hl_enumvalue" href="../../d0/d04/a03161.html#a1ba2fefc89093ca142a4492c1f9334e4a0606a3b5c339e60928ac75714f1aa1f1">DATA_ICEBARRIER</a>))</div>
-<div class="line"><span class="lineno">   97</span>                gobj-&gt;SendUpdateToPlayer(player);</div>
-<div class="line"><span class="lineno">   98</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  105</span>        {</div>
+<div class="line"><span class="lineno">  106</span>            <a class="code hl_variable" href="../../d1/d2d/a09454.html#a4b84b9635742380ce5dc6e2f8d76e30b">instance</a>-&gt;<a class="code hl_function" href="../../d5/d8e/a09630.html#a2bde51e9e566b6752bbc03bfe3633700">LoadGrid</a>(1477.94f, 643.22f);</div>
+<div class="line"><span class="lineno">  107</span>            <a class="code hl_variable" href="../../d1/d2d/a09454.html#a4b84b9635742380ce5dc6e2f8d76e30b">instance</a>-&gt;<a class="code hl_function" href="../../d5/d8e/a09630.html#a2bde51e9e566b6752bbc03bfe3633700">LoadGrid</a>(1641.45f, 988.08f);</div>
+<div class="line"><span class="lineno">  108</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d58/a08034.html">GameObject</a>* gobj = <a class="code hl_function" href="../../d1/d2d/a09454.html#ad5b9b0f0203d87894c7df0364babfe87">GetGameObject</a>(<a class="code hl_enumvalue" href="../../d0/d04/a03161.html#a1ba2fefc89093ca142a4492c1f9334e4a0606a3b5c339e60928ac75714f1aa1f1">DATA_ICEBARRIER</a>))</div>
+<div class="line"><span class="lineno">  109</span>                gobj-&gt;SendUpdateToPlayer(player);</div>
+<div class="line"><span class="lineno">  110</span>        }</div>
 <div class="ttc" id="aa03161_html_a1ba2fefc89093ca142a4492c1f9334e4a0606a3b5c339e60928ac75714f1aa1f1"><div class="ttname"><a href="../../d0/d04/a03161.html#a1ba2fefc89093ca142a4492c1f9334e4a0606a3b5c339e60928ac75714f1aa1f1">DATA_ICEBARRIER</a></div><div class="ttdeci">@ DATA_ICEBARRIER</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:56</div></div>
 <div class="ttc" id="aa08034_html"><div class="ttname"><a href="../../d9/d58/a08034.html">GameObject</a></div><div class="ttdef"><b>Definition:</b> GameObject.h:120</div></div>
 <div class="ttc" id="aa09454_html_a4b84b9635742380ce5dc6e2f8d76e30b"><div class="ttname"><a href="../../d1/d2d/a09454.html#a4b84b9635742380ce5dc6e2f8d76e30b">InstanceScript::instance</a></div><div class="ttdeci">Map * instance</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:148</div></div>
@@ -458,7 +512,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d78/a13186.html">instance_sunwell_plateau</a></li><li class="navelem"><a class="el" href="../../da/d13/a13190.html">instance_sunwell_plateau_InstanceMapScript</a></li>
-    <li class="footer">Generated on Mon Feb 3 2025 20:42:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 10 2025 20:44:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

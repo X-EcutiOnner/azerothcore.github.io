@@ -1,8 +1,5 @@
 var a25654 =
 [
-    [ "CheckQuest", "d4/d09/a25654.html#ab7ebff0894832ac009cda89b7c28e252", null ],
-    [ "HandleDummy", "d4/d09/a25654.html#a365df14504a54e95e7d68d22a284e441", null ],
-    [ "HandleOpenObject", "d4/d09/a25654.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
-    [ "PrepareSpellScript", "d4/d09/a25654.html#a479e313031a2e71473238d8f645bf2d4", null ],
-    [ "Register", "d4/d09/a25654.html#a70f1a91e611cc2092aad44a909cd53db", null ]
+    [ "PrepareSpellScript", "d4/d09/a25654.html#ad7b3235062959af1f28bb6c7b2f929c3", null ],
+    [ "Register", "d4/d09/a25654.html#ae35dad0d33ee0dd571a8f5fcccd2ce58", null ]
 ];

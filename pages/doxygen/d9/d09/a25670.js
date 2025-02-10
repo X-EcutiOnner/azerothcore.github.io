@@ -1,9 +1,7 @@
 var a25670 =
 [
-    [ "HandleAfterCast", "d9/d09/a25670.html#afd2fbc51ac1e99789994021af36688f3", null ],
-    [ "HandleTriggerSpell", "d9/d09/a25670.html#ae140ab00101f081454b55e12a7c54440", null ],
-    [ "Load", "d9/d09/a25670.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
-    [ "PrepareSpellScript", "d9/d09/a25670.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
-    [ "Register", "d9/d09/a25670.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
-    [ "_triggerSpellId", "d9/d09/a25670.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
+    [ "OnApply", "d9/d09/a25670.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
+    [ "OnRemove", "d9/d09/a25670.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
+    [ "PrepareAuraScript", "d9/d09/a25670.html#aa93b45e31c33caf3ea51a26846566b34", null ],
+    [ "Register", "d9/d09/a25670.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
 ];

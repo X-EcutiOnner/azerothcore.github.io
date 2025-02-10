@@ -1,6 +1,6 @@
 var a26178 =
 [
-    [ "HandleEffectPeriodic", "d3/dd4/a26178.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "d3/dd4/a26178.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "d3/dd4/a26178.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "HandleDummy", "d3/dd4/a26178.html#a73628636431d3549d6e3530c6ef23c08", null ],
+    [ "PrepareSpellScript", "d3/dd4/a26178.html#ab90d3031b356e8004fa62c9562f1ba1f", null ],
+    [ "Register", "d3/dd4/a26178.html#a7f42cf47831d3c8544453530a1454ddc", null ]
 ];

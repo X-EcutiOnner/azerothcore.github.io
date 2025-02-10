@@ -435,6 +435,7 @@ var a10222 =
     [ "OnUnitDeath", "d3/d57/a10222.html#a9f91315435a0c8c5383bc89c6bacfb4f", null ],
     [ "OnUnitEnterCombat", "d3/d57/a10222.html#af3d959fef12bb74fa1f41a6dcd57c9d3", null ],
     [ "OnUnitEnterEvadeMode", "d3/d57/a10222.html#abb0071b70d2830304cedde77c6c01dc8", null ],
+    [ "OnUnitSetShapeshiftForm", "d3/d57/a10222.html#afebd2c8dbe07c66a60a59484e65361ce", null ],
     [ "OnUnitUpdate", "d3/d57/a10222.html#abe2d98c9efde480ec3050efaa6b45c37", null ],
     [ "OnUnloadGridMap", "d3/d57/a10222.html#ac3e38b09a8cae93b9b1a00990ac97a7f", null ],
     [ "OnUpdateCraftingSkill", "d3/d57/a10222.html#ac16253d6f86a32d461f39b985ebcec40", null ],

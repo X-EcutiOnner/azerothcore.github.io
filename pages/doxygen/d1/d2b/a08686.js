@@ -1,7 +1,7 @@
 var a08686 =
 [
-    [ "equipement_id_prev", "d1/d2b/a08686.html#a93a895fa31cef29fa739225316886e78", null ],
-    [ "equipment_id", "d1/d2b/a08686.html#af21361c600fb9609f554b64bc5cfb4c2", null ],
-    [ "modelid", "d1/d2b/a08686.html#a53296cbdf02039d19610c21e0f7d5d1d", null ],
-    [ "modelid_prev", "d1/d2b/a08686.html#a976ce0cdd7c8e95465bc999d26347bde", null ]
+    [ "EquipementIdPrev", "d1/d2b/a08686.html#a719c716f8914a200bfde4f5bb3275f26", null ],
+    [ "EquipmentId", "d1/d2b/a08686.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
+    [ "ModelId", "d1/d2b/a08686.html#ade2b2413020be410428b9fee9aa284d6", null ],
+    [ "ModelIdPrev", "d1/d2b/a08686.html#a9de7aa11788b22692738b72718193057", null ]
 ];

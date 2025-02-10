@@ -1,7 +1,8 @@
 var a26766 =
 [
-    [ "CharacterDeleteActionIpLogger", "d5/d99/a26766.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "d5/d99/a26766.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnDelete", "d5/d99/a26766.html#a35ea1362df09fccf0c4cee2e9ef6deb9", null ],
-    [ "OnFailedDelete", "d5/d99/a26766.html#a34efd44289746078fdcfae63641b5580", null ]
+    [ "CharacterActionIpLogger", "d5/d99/a26766.html#a39861f7348a79031a8215b435ba81059", null ],
+    [ "CharacterIPLogAction", "d5/d99/a26766.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
+    [ "OnCreate", "d5/d99/a26766.html#ae25875eed131046444874c4109619748", null ],
+    [ "OnLogin", "d5/d99/a26766.html#af430f10fe536ac40df50bc9424a7decb", null ],
+    [ "OnLogout", "d5/d99/a26766.html#aca289740b022dcaa0ae681327785cb72", null ]
 ];

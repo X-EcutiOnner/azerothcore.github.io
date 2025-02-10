@@ -516,6 +516,7 @@ var a04223 =
     [ "SpellIds", "d1/dde/a04223.html#a2cd0f1a61f215e1bdcde5cbbd34da57e", [
       [ "HEX_OF_JAMMAL_AN", "d6/d19/a03242.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea69f27809bb75172648a8556f0f746846", null ],
       [ "HEX_OF_JAMMAL_AN_CHARM", "d6/d19/a03242.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae5c5fb3a95e85644746e7ea68b61f61f", null ],
+      [ "SPELL_SUMMON_FELBLAZE", "d0/d04/a03161.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae7c0ec69e05b573c37d93c72f3c02928", null ],
       [ "SPELL_HAKKAR_POWER", "d9/d33/a03269.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea3283f0f4da944506f44c3bf9237adb5a", null ],
       [ "SPELL_HAKKAR_POWER_DOWN", "d9/d33/a03269.html#a2cd0f1a61f215e1bdcde5cbbd34da57eaf9b994d61f732943910298c55aa69605", null ],
       [ "SPELL_KARGATHS_EXECUTIONER_1", "d9/d57/a04295.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae503c4471d43b67c9370f5d6f185762c", null ],

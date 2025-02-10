@@ -1,7 +1,7 @@
 var a08674 =
 [
-    [ "done", "d6/d85/a08674.html#a498ebc454773a2c4c8d9452ed5bd3015", null ],
-    [ "done_world_state", "d6/d85/a08674.html#a679379a2b44542e74d103ba851811b52", null ],
-    [ "max_world_state", "d6/d85/a08674.html#a819dcff56a5795a63146aca64b46811b", null ],
-    [ "reqNum", "d6/d85/a08674.html#ae74eb755e1a6f5d8800790351f662d21", null ]
+    [ "Done", "d6/d85/a08674.html#abc88850d392fb4b62e778d09445de0be", null ],
+    [ "DoneWorldState", "d6/d85/a08674.html#a380755d90c958b6532bae7f8a4d70b44", null ],
+    [ "MaxWorldState", "d6/d85/a08674.html#a8c144531f876b6def613c0011e0efe47", null ],
+    [ "ReqNum", "d6/d85/a08674.html#ae1d182aef449388993e4965de447d971", null ]
 ];

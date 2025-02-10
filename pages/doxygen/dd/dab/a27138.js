@@ -1,6 +1,8 @@
 var a27138 =
 [
-    [ "npc_innkeeper", "dd/dab/a27138.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "dd/dab/a27138.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "dd/dab/a27138.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "trigger_periodicAI", "dd/dab/a27138.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "dd/dab/a27138.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "dd/dab/a27138.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "dd/dab/a27138.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "dd/dab/a27138.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

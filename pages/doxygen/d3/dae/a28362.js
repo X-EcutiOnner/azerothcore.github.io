@@ -1,8 +1,9 @@
 var a28362 =
 [
-    [ "TileInfo", "d3/dae/a28362.html#af1a25ded4212f141ab4f32db95709210", null ],
-    [ "m_mapId", "d3/dae/a28362.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
-    [ "m_navMeshParams", "d3/dae/a28362.html#a9d7c909370359edafa8a9b6a91cef354", null ],
-    [ "m_tileX", "d3/dae/a28362.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
-    [ "m_tileY", "d3/dae/a28362.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
+    [ "adtData", "d7/d4d/a28370.html", "d7/d4d/a28370" ],
+    [ "prepareLoadedData", "d3/dae/a28362.html#a6b755c9e341918d05105d993391429c6", null ],
+    [ "adt_list", "d3/dae/a28362.html#abe28c39e8856412c4fb182baab3218f0", null ],
+    [ "fcc", "d3/dae/a28362.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
+    [ "fcc_txt", "d3/dae/a28362.html#a0657c323732de8d83b9c360c1dd03b61", null ],
+    [ "size", "d3/dae/a28362.html#a797c02773dd470a318474c7ef033ba7c", null ]
 ];

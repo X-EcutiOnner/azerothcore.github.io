@@ -1,5 +1,5 @@
 var a27394 =
 [
-    [ "npc_suns_reach_reclamation", "df/ddb/a27394.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "df/ddb/a27394.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "ServerMailReward", "df/ddb/a27394.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnLogin", "df/ddb/a27394.html#a8ab4fb6042c3f32ca327cf965330afd2", null ]
 ];

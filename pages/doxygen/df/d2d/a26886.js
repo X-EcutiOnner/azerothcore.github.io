@@ -1,5 +1,5 @@
 var a26886 =
 [
-    [ "go_seer_of_zebhalak", "df/d2d/a26886.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
-    [ "OnGossipHello", "df/d2d/a26886.html#a84009789ce8e8d0d7c42996fde161135", null ]
+    [ "go_noblegarden_colored_egg", "df/d2d/a26886.html#a7e85d492a6c9f4e50a2c47d6e6dae535", null ],
+    [ "OnGossipHello", "df/d2d/a26886.html#ab3d349dfa5b4c0f58ed70f80cd084029", null ]
 ];

@@ -199,7 +199,7 @@ var a09630 =
     [ "resetMarkedCellsLarge", "d5/d8e/a09630.html#a46073daa3185f7e93c0e35c71ce825d6", null ],
     [ "SaveCreatureRespawnTime", "d5/d8e/a09630.html#a8910310aea20a0747375bf5a24330c73", null ],
     [ "SaveGORespawnTime", "d5/d8e/a09630.html#a5b90b1ebb6a3f6ba7ff2be945d4a19c9", null ],
-    [ "ScheduleCreatureRespawn", "d5/d8e/a09630.html#a98c7c2a2616e3069e8f2c2ac3f47f9fc", null ],
+    [ "ScheduleCreatureRespawn", "d5/d8e/a09630.html#aaf74a176fa4d0ccccfa114af19d43057", null ],
     [ "ScriptCommandStart", "d5/d8e/a09630.html#a77e5cf02a43c34433d9b34924544762d", null ],
     [ "ScriptsProcess", "d5/d8e/a09630.html#a6fa4399d7c32cd8691c92e1a15ffb5b6", null ],
     [ "ScriptsStart", "d5/d8e/a09630.html#a0fe34e1ebcf27ed7b47a29341720cbc4", null ],

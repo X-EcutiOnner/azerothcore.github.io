@@ -1,6 +1,6 @@
 var a26806 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "da/d1a/a26806.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "da/d1a/a26806.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "da/d1a/a26806.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "AreaTrigger_at_brewfest", "da/d1a/a26806.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
+    [ "OnTrigger", "da/d1a/a26806.html#a17e4a8d671136466c7673789e4f69a84", null ],
+    [ "_triggerTimes", "da/d1a/a26806.html#ab763765427796ad17338bcc8d63cf891", null ]
 ];
