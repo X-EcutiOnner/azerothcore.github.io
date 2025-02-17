@@ -1,6 +1,7 @@
 var a20794 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "d8/dbe/a20798.html", "d8/dbe/a20798" ],
-    [ "instance_utgarde_keep", "d5/d12/a20794.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "d5/d12/a20794.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "HandleEffectCalcPeriodic", "d5/d12/a20794.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "d5/d12/a20794.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "d5/d12/a20794.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "d5/d12/a20794.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

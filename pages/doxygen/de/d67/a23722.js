@@ -1,7 +1,6 @@
 var a23722 =
 [
-    [ "HandleDummy", "de/d67/a23722.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "de/d67/a23722.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "de/d67/a23722.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "de/d67/a23722.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "PrepareAuraScript", "de/d67/a23722.html#a14d4d1a75130a77e7e59e41720491bec", null ],
+    [ "PrepareProc", "de/d67/a23722.html#abea217f4bfdffc70007fbc29849e9a49", null ],
+    [ "Register", "de/d67/a23722.html#a9dbcd4c940f5941472bebb64829125e3", null ]
 ];

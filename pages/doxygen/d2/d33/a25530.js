@@ -1,9 +1,7 @@
 var a25530 =
 [
-    [ "CheckRequirement", "d2/d33/a25530.html#adab261a5221ca54b15cc414d291908fe", null ],
-    [ "HandleDummy", "d2/d33/a25530.html#abb7a734244bb18d75304a0510f9efb8d", null ],
-    [ "Load", "d2/d33/a25530.html#a418eef16d1e3aeff67013f45409c092a", null ],
-    [ "PrepareSpellScript", "d2/d33/a25530.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
-    [ "Register", "d2/d33/a25530.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
-    [ "Validate", "d2/d33/a25530.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
+    [ "HandleDummy", "d2/d33/a25530.html#a7a8016e1403caa0432242c5c3240f107", null ],
+    [ "PrepareSpellScript", "d2/d33/a25530.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
+    [ "Register", "d2/d33/a25530.html#abd09f5df3f31af619f24214f90791a53", null ],
+    [ "Validate", "d2/d33/a25530.html#ab14aedfdb61d54334f60e57968fcf081", null ]
 ];

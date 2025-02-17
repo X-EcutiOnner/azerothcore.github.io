@@ -1,9 +1,7 @@
 var a23962 =
 [
-    [ "npc_korkron_or_wildhammer", "dc/dfe/a23962.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
-    [ "IsSummonedBy", "dc/dfe/a23962.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
-    [ "JustDied", "dc/dfe/a23962.html#a2b216f372b3681b4c96a711568c2a93b", null ],
-    [ "MovementInform", "dc/dfe/a23962.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
-    [ "Reset", "dc/dfe/a23962.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
-    [ "_playerGUID", "dc/dfe/a23962.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
+    [ "CheckRequirement", "dc/dfe/a23962.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "dc/dfe/a23962.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "dc/dfe/a23962.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "dc/dfe/a23962.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

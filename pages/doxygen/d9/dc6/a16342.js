@@ -1,6 +1,7 @@
 var a16342 =
 [
-    [ "instance_trial_of_the_crusader_InstanceMapScript", "da/db0/a16346.html", "da/db0/a16346" ],
-    [ "instance_trial_of_the_crusader", "d9/dc6/a16342.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
-    [ "GetInstanceScript", "d9/dc6/a16342.html#a792034e9e5687bf5fa543175692bed66", null ]
+    [ "HandleDispel", "d9/dc6/a16342.html#a7b24f38bbb7813826520f928b22d30aa", null ],
+    [ "PrepareAuraScript", "d9/dc6/a16342.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
+    [ "Register", "d9/dc6/a16342.html#a2bf6921550da3c13730fd98bded2c927", null ],
+    [ "Validate", "d9/dc6/a16342.html#ad8b0bb389d232c74acf106b711414fa1", null ]
 ];

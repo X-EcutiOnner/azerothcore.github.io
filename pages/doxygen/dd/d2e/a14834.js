@@ -1,5 +1,6 @@
 var a14834 =
 [
-    [ "at_cthun_center", "dd/d2e/a14834.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
-    [ "OnTrigger", "dd/d2e/a14834.html#af744df9577e84ab64749076324e574c9", null ]
+    [ "HandleScript", "dd/d2e/a14834.html#a7e6ec873a252106ba865bdef05f757f5", null ],
+    [ "PrepareSpellScript", "dd/d2e/a14834.html#a98e80c8726c350aca850b6c87c5861da", null ],
+    [ "Register", "dd/d2e/a14834.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
 ];

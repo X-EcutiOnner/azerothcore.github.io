@@ -1,8 +1,8 @@
 var a07798 =
 [
-    [ "LfgPlayerRewardData", "d3/d43/a07798.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
-    [ "done", "d3/d43/a07798.html#a91ba12acf66d631af2de45513f20b702", null ],
-    [ "quest", "d3/d43/a07798.html#abd051091fec6835f63bafa98a045142b", null ],
-    [ "rdungeonEntry", "d3/d43/a07798.html#a87623ce14ef1d123d226e37e227a566d", null ],
-    [ "sdungeonEntry", "d3/d43/a07798.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
+    [ "UnitBaseEvent", "d3/d43/a07798.html#a2d4586c59a7595374d427a15924c34fd", null ],
+    [ "getType", "d3/d43/a07798.html#a7619b09043a8a729df77502786216aff", null ],
+    [ "matchesTypeMask", "d3/d43/a07798.html#a05103aacf99310a6c9e602296d56f168", null ],
+    [ "setType", "d3/d43/a07798.html#a1a3ae3042df9ca91d17a1c3320579867", null ],
+    [ "iType", "d3/d43/a07798.html#a528a4023be375f43f4ac33b55f5c95d9", null ]
 ];

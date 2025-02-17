@@ -1,7 +1,6 @@
 var a26974 =
 [
-    [ "go_pirate_day_musicAI", "d2/d10/a26974.html#a1abe263949b7a07e5143779efcddc7eb", null ],
-    [ "UpdateAI", "d2/d10/a26974.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
-    [ "_events", "d2/d10/a26974.html#a233ae55a05876c665455b106ef50d57e", null ],
-    [ "rnd", "d2/d10/a26974.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
+    [ "boss_taerarAI", "d8/dc5/a26978.html", "d8/dc5/a26978" ],
+    [ "boss_taerar", "d2/d10/a26974.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "d2/d10/a26974.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

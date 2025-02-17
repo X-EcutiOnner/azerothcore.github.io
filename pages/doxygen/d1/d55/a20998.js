@@ -1,6 +1,5 @@
 var a20998 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "da/d6d/a21002.html", "da/d6d/a21002" ],
-    [ "instance_vault_of_archavon", "d1/d55/a20998.html#a0be8d95ff0f3b751e6f833689e436310", null ],
-    [ "GetInstanceScript", "d1/d55/a20998.html#abb955a8873a3a3021e164225dd1f857a", null ]
+    [ "go_harpoon_canon", "d1/d55/a20998.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
+    [ "OnGossipHello", "d1/d55/a20998.html#ad0098bafd1233636bde181312126e65f", null ]
 ];

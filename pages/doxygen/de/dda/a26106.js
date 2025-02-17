@@ -1,6 +1,6 @@
 var a26106 =
 [
-    [ "HandleDummy", "de/dda/a26106.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
-    [ "PrepareSpellScript", "de/dda/a26106.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
-    [ "Register", "de/dda/a26106.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
+    [ "HandleScriptEffect", "de/dda/a26106.html#a8b60ae77f13045a582548fe5d1186d54", null ],
+    [ "PrepareSpellScript", "de/dda/a26106.html#ad68619783c4a1aad5a24826bf5d89858", null ],
+    [ "Register", "de/dda/a26106.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
 ];

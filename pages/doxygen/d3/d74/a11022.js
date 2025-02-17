@@ -1,7 +1,11 @@
 var a11022 =
 [
-    [ "maxvalue", "d3/d74/a11022.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
-    [ "skill", "d3/d74/a11022.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
-    [ "step", "d3/d74/a11022.html#a1c882f7d43c65954cb99566225660312", null ],
-    [ "value", "d3/d74/a11022.html#a064fece53cdaf07b072510b14200a968", null ]
+    [ "SpellValue", "d3/d74/a11022.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
+    [ "AuraDuration", "d3/d74/a11022.html#af44c190ba8a8636d78f8d271656bdd02", null ],
+    [ "AuraStackAmount", "d3/d74/a11022.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
+    [ "EffectBasePoints", "d3/d74/a11022.html#a4de44adea4dc620f0871215e4d4f611d", null ],
+    [ "ForcedCritResult", "d3/d74/a11022.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
+    [ "MaxAffectedTargets", "d3/d74/a11022.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
+    [ "MiscVal", "d3/d74/a11022.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
+    [ "RadiusMod", "d3/d74/a11022.html#a135bbce8300101411e87a70467dbbd57", null ]
 ];

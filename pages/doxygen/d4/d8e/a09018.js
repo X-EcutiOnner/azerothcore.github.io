@@ -1,10 +1,15 @@
 var a09018 =
 [
-    [ "UnitSearcher", "d4/d8e/a09018.html#a4c50b4594650d9f3f83a40ac02f1a954", null ],
-    [ "Visit", "d4/d8e/a09018.html#a5e419d2cb0de5ae58373e521d3a84ac6", null ],
-    [ "Visit", "d4/d8e/a09018.html#a4bf8a315ab9464bbc5b0c8cae5c27fed", null ],
-    [ "Visit", "d4/d8e/a09018.html#ac65516ed337b509ff5c316fb29727854", null ],
-    [ "i_check", "d4/d8e/a09018.html#a3618df5a6ae33e76b802eae9cac1e1bd", null ],
-    [ "i_object", "d4/d8e/a09018.html#a3029760131a6f50883246afe2533c062", null ],
-    [ "i_phaseMask", "d4/d8e/a09018.html#ab94911f3f275de6a9ce9f15f1169c81c", null ]
+    [ "CoordPair", "d4/d8e/a09018.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
+    [ "CoordPair", "d4/d8e/a09018.html#aab92ece0f01ebc00cdac4966e02fa8fd", null ],
+    [ "dec_x", "d4/d8e/a09018.html#a69be5b72b710722120104f0c502fbb70", null ],
+    [ "dec_y", "d4/d8e/a09018.html#aefa33f8766212bb71e5fd19a318142cc", null ],
+    [ "GetId", "d4/d8e/a09018.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
+    [ "inc_x", "d4/d8e/a09018.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
+    [ "inc_y", "d4/d8e/a09018.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
+    [ "IsCoordValid", "d4/d8e/a09018.html#a082960c54e2077df370f891c0534b44f", null ],
+    [ "normalize", "d4/d8e/a09018.html#afac8086374bfc499e3a8d74d6afc58db", null ],
+    [ "operator=", "d4/d8e/a09018.html#a27f81c359c4ae278d663e85eccbeebb9", null ],
+    [ "x_coord", "d4/d8e/a09018.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
+    [ "y_coord", "d4/d8e/a09018.html#aacae12844cc0c0d70e26b137ad28f700", null ]
 ];

@@ -1,8 +1,13 @@
 var a09158 =
 [
-    [ "AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck", "d2/dd7/a09158.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf", null ],
-    [ "operator()", "d2/dd7/a09158.html#a2b38f9e66b1ba3bb678d763937852e02", null ],
-    [ "i_funit", "d2/dd7/a09158.html#aed6fe2e6d17e2076a373b32de071cd18", null ],
-    [ "i_obj", "d2/dd7/a09158.html#a65245ce627d5ccfde557f2d7e744ead6", null ],
-    [ "i_range", "d2/dd7/a09158.html#aff91ead572f2ed0d1912dbd0180196d5", null ]
+    [ "WorldObjectListSearcher", "d2/dd7/a09158.html#aad6ee62da3f21c7838767dd3af871ad7", null ],
+    [ "Visit", "d2/dd7/a09158.html#a154998e616ba17d66cf4899debc92ca1", null ],
+    [ "Visit", "d2/dd7/a09158.html#a64e8d7854baa93e4390703fe986f6777", null ],
+    [ "Visit", "d2/dd7/a09158.html#a28ded6ec2d69f1a1bd298a9aa11206e1", null ],
+    [ "Visit", "d2/dd7/a09158.html#a18572bc1f4cfde19476ac9df393296b2", null ],
+    [ "Visit", "d2/dd7/a09158.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7", null ],
+    [ "Visit", "d2/dd7/a09158.html#a8cebd0149bfccc4fdeb30dda9505f0c0", null ],
+    [ "i_check", "d2/dd7/a09158.html#a6ae05d2ed15201356600cda7d0d5a6c3", null ],
+    [ "i_mapTypeMask", "d2/dd7/a09158.html#a1d6dc64937ae790d7414456e4644c13b", null ],
+    [ "i_phaseMask", "d2/dd7/a09158.html#a6b29bb94ed2ec6f508b25d45c11f72fd", null ]
 ];

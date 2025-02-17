@@ -1,6 +1,5 @@
 var a21222 =
 [
-    [ "npc_nerubar_victimAI", "df/d91/a21226.html", "df/d91/a21226" ],
-    [ "npc_nerubar_victim", "dd/dc7/a21222.html#a4fe80597d3e56776f0f04965fc706097", null ],
-    [ "GetAI", "dd/dc7/a21222.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
+    [ "go_vh_activation_crystal", "dd/dc7/a21222.html#a4af485ac7ab6144282f3204a6d045cea", null ],
+    [ "OnGossipHello", "dd/dc7/a21222.html#a47a61ba67086580135559332931e9c6e", null ]
 ];

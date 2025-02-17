@@ -1,6 +1,6 @@
 var a14974 =
 [
-    [ "HandleApply", "d1/dd6/a14974.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
-    [ "PrepareAuraScript", "d1/dd6/a14974.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
-    [ "Register", "d1/dd6/a14974.html#ade5c710416516760cc69f77750aa2a1f", null ]
+    [ "FilterTargets", "d1/dd6/a14974.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
+    [ "PrepareSpellScript", "d1/dd6/a14974.html#a32b0be74a9127f920e22aa03c910a005", null ],
+    [ "Register", "d1/dd6/a14974.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
 ];

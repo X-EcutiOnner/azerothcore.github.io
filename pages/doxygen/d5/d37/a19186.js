@@ -1,7 +1,10 @@
 var a19186 =
 [
-    [ "HandleOnEffectApply", "d5/d37/a19186.html#a4841f7a44f5df964c4eb9965383fd747", null ],
-    [ "PrepareAuraScript", "d5/d37/a19186.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
-    [ "Register", "d5/d37/a19186.html#a68fba646552678744f49d10b59704a35", null ],
-    [ "Validate", "d5/d37/a19186.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
+    [ "instance_nexus_InstanceMapScript", "d5/d37/a19186.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d5/d37/a19186.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "OnCreatureCreate", "d5/d37/a19186.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d5/d37/a19186.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d5/d37/a19186.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d5/d37/a19186.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d5/d37/a19186.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ]
 ];

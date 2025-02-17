@@ -1,9 +1,6 @@
 var a13394 =
 [
-    [ "npc_tyrion_spybotAI", "df/dee/a13394.html#aedad685279012266637d29069ead9063", null ],
-    [ "Reset", "df/dee/a13394.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
-    [ "UpdateAI", "df/dee/a13394.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
-    [ "WaypointReached", "df/dee/a13394.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
-    [ "uiPhase", "df/dee/a13394.html#af5dbb99fe18d96665efd04bd53294636", null ],
-    [ "uiTimer", "df/dee/a13394.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
+    [ "npc_augustus_the_touched", "df/dee/a13394.html#abc84c884345f44cf780410569cdee10c", null ],
+    [ "OnGossipHello", "df/dee/a13394.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
+    [ "OnGossipSelect", "df/dee/a13394.html#a992da9b22693c1fac1148b4ba545b819", null ]
 ];

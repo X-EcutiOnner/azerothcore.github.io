@@ -1,6 +1,5 @@
 var a10354 =
 [
-    [ "GuildCreate", "d2/d1f/a10354.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
-    [ "Read", "d2/d1f/a10354.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
-    [ "GuildName", "d2/d1f/a10354.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
+    [ "UpdatableScript", "d2/d1f/a10354.html#a2d6cf85d1eb98438b5022804296eff11", null ],
+    [ "OnUpdate", "d2/d1f/a10354.html#abf328325e08aa0d6adf36e6f70b02328", null ]
 ];

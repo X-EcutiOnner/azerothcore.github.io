@@ -1,11 +1,7 @@
 var a15502 =
 [
-    [ "npc_amanitar_mushrooms", "d4/dec/a15502.html#ad5603426c71c107ff439cea2efeea3f9", null ],
-    [ "AttackStart", "d4/dec/a15502.html#a0cc90c924a12a8be32c78e76ca798943", null ],
-    [ "DamageTaken", "d4/dec/a15502.html#a4c21a448535e1fc0f0116257194b9732", null ],
-    [ "EnterEvadeMode", "d4/dec/a15502.html#ae17ee367c9d206868c7dfc64d438806a", null ],
-    [ "JustEngagedWith", "d4/dec/a15502.html#ac50bf479e8c891af432cfccdf9d49c55", null ],
-    [ "Reset", "d4/dec/a15502.html#ae597d5a64765f5304773f9a38e9c719a", null ],
-    [ "UpdateAI", "d4/dec/a15502.html#ae71058353be43935aa45eb28eb41170f", null ],
-    [ "events", "d4/dec/a15502.html#a0be93d15582a5511963721510652e76d", null ]
+    [ "npc_paoka_swiftmountainAI", "d6/d5e/a15506.html", "d6/d5e/a15506" ],
+    [ "npc_paoka_swiftmountain", "d4/dec/a15502.html#abb3f6fab7cca158c2e139159430f880a", null ],
+    [ "GetAI", "d4/dec/a15502.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
+    [ "OnQuestAccept", "d4/dec/a15502.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
 ];

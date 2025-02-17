@@ -1,12 +1,12 @@
 var a18190 =
 [
-    [ "npc_risen_archmageAI", "de/d93/a18190.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
-    [ "CanAIAttack", "de/d93/a18190.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
-    [ "DoAction", "de/d93/a18190.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
-    [ "JustEngagedWith", "de/d93/a18190.html#aef3a1631b4bb8d28d4056036981b0192", null ],
-    [ "JustSummoned", "de/d93/a18190.html#aff6e86057086db1319bb680e52e41634", null ],
-    [ "Reset", "de/d93/a18190.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
-    [ "UpdateAI", "de/d93/a18190.html#ae78dc64f858573b234210ca175e5bdd9", null ],
-    [ "_events", "de/d93/a18190.html#a6dff9ff5332c0bc337840882689f47ed", null ],
-    [ "_instance", "de/d93/a18190.html#a1b4e12b199bf3ada517c895c5f387c4a", null ]
+    [ "npc_strangulate_vehicleAI", "de/d93/a18190.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
+    [ "DoAction", "de/d93/a18190.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
+    [ "IsHeroic", "de/d93/a18190.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
+    [ "IsSummonedBy", "de/d93/a18190.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
+    [ "OnCharmed", "de/d93/a18190.html#a40e5537897c452d35093920ddd3669b0", null ],
+    [ "PassengerBoarded", "de/d93/a18190.html#a819746e13af95fa964c6da3d765a7c21", null ],
+    [ "UpdateAI", "de/d93/a18190.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
+    [ "_events", "de/d93/a18190.html#a19b493e994d246128f63d9109e87737a", null ],
+    [ "_instance", "de/d93/a18190.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
 ];

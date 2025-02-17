@@ -1,6 +1,6 @@
 var a13338 =
 [
-    [ "npc_greengill_slaveAI", "d6/d72/a13342.html", "d6/d72/a13342" ],
-    [ "npc_greengill_slave", "d2/dc0/a13338.html#a46fb36fadb5ed5fc94a563473edd8732", null ],
-    [ "GetAI", "d2/dc0/a13338.html#ab2cb9adfeef75384becfbb3c5188b8d7", null ]
+    [ "HandleSendEvent", "d2/dc0/a13338.html#af62c176d53589228d5e0077c9fc268a3", null ],
+    [ "PrepareSpellScript", "d2/dc0/a13338.html#acea8e256f267dd496e5f573e982dba5f", null ],
+    [ "Register", "d2/dc0/a13338.html#a0827e177a8268994bb4e63f07993a354", null ]
 ];

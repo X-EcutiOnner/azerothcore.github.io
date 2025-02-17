@@ -1,8 +1,6 @@
 var a20662 =
 [
-    [ "FilterTargets", "d9/d2b/a20662.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
-    [ "HandleDummyEffect", "d9/d2b/a20662.html#ab1f662fa107d176386067ffc6467d90f", null ],
-    [ "PrepareSpellScript", "d9/d2b/a20662.html#a069cc54bf009830ad781c790b4fcedad", null ],
-    [ "Register", "d9/d2b/a20662.html#ac91532151b689bde35d7120b1e9aec5b", null ],
-    [ "Validate", "d9/d2b/a20662.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
+    [ "boss_yoggsaron_death_orbAI", "d9/d2b/a20662.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
+    [ "UpdateAI", "d9/d2b/a20662.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
+    [ "_startTimer", "d9/d2b/a20662.html#aebc8edef5f84219e1c50f2394d129443", null ]
 ];

@@ -1,6 +1,6 @@
 var a13310 =
 [
-    [ "npc_rinjiAI", "d9/d3b/a13314.html", "d9/d3b/a13314" ],
-    [ "npc_rinji", "db/d65/a13310.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
-    [ "GetAI", "db/d65/a13310.html#a5457ac00ce0b195752640358b912af10", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "d9/d3b/a13314.html", "d9/d3b/a13314" ],
+    [ "instance_sunwell_plateau", "db/d65/a13310.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
+    [ "GetInstanceScript", "db/d65/a13310.html#a5960785a845c87e2e1730cfd865b44b4", null ]
 ];

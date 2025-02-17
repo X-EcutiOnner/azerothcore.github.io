@@ -1,10 +1,7 @@
 var a07958 =
 [
-    [ "BoxMessage", "d0/d8c/a07958.html#a450f6063a89db2d152370bc997c844a3", null ],
-    [ "BoxMoney", "d0/d8c/a07958.html#a52a12645b55f5757cc61e9a014a71f32", null ],
-    [ "IsCoded", "d0/d8c/a07958.html#accca334730f578bd28c0e9a7fe7ec0ab", null ],
-    [ "MenuItemIcon", "d0/d8c/a07958.html#a987724c4673be20f5386f44245267bc9", null ],
-    [ "Message", "d0/d8c/a07958.html#af130b33294cd49261b3c093cf6f9542c", null ],
-    [ "OptionType", "d0/d8c/a07958.html#a3df0c5fedb028b4fcce8ad5884cc0e6f", null ],
-    [ "Sender", "d0/d8c/a07958.html#aacc07cb5c755d698fe4cb2e228185e34", null ]
+    [ "ForcedDespawnDelayEvent", "d0/d8c/a07958.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
+    [ "Execute", "d0/d8c/a07958.html#a735c709b269458911bd93da1902cbe25", null ],
+    [ "m_owner", "d0/d8c/a07958.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
+    [ "m_respawnTimer", "d0/d8c/a07958.html#a5db78930a1fda07f2020b23158ebb93d", null ]
 ];

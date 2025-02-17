@@ -1,7 +1,8 @@
 var a13342 =
 [
-    [ "npc_greengill_slaveAI", "d6/d72/a13342.html#a1a4268b745e63992f4d0fc2028b717aa", null ],
-    [ "JustEngagedWith", "d6/d72/a13342.html#ad7fcb8c711782d3a76e9e4566334fc21", null ],
-    [ "SpellHit", "d6/d72/a13342.html#a0e75a3e8eb3503fdb3aea12e65ccc6e4", null ],
-    [ "UpdateAI", "d6/d72/a13342.html#a6fa27328cf47bef81c3465b8a3e2ace1", null ]
+    [ "HandleEffectApply", "d6/d72/a13342.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "d6/d72/a13342.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "d6/d72/a13342.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "d6/d72/a13342.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "d6/d72/a13342.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

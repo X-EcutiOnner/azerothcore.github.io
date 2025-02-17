@@ -1,10 +1,7 @@
 var a19122 =
 [
-    [ "npc_oculus_drakegiverAI", "df/d22/a19122.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "df/d22/a19122.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "df/d22/a19122.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "df/d22/a19122.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "df/d22/a19122.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "df/d22/a19122.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "df/d22/a19122.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "EoEDrakeEnterVehicleEvent", "df/d22/a19122.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
+    [ "Execute", "df/d22/a19122.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
+    [ "_owner", "df/d22/a19122.html#ab48302fdff800afddfeec2c0d756873c", null ],
+    [ "_playerGUID", "df/d22/a19122.html#add56bff0695453e01f300e0434a39ec8", null ]
 ];

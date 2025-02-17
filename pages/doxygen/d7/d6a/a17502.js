@@ -1,7 +1,6 @@
 var a17502 =
 [
-    [ "npc_coldflameAI", "d7/d6a/a17502.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "d7/d6a/a17502.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "d7/d6a/a17502.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "d7/d6a/a17502.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "HandlePeriodicTick", "d7/d6a/a17502.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "d7/d6a/a17502.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "d7/d6a/a17502.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

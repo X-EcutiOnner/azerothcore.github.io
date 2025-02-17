@@ -1,6 +1,7 @@
 var a17826 =
 [
-    [ "npc_rimefangAI", "d3/d1d/a17830.html", "d3/d1d/a17830" ],
-    [ "npc_rimefang", "dc/df6/a17826.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
-    [ "GetAI", "dc/df6/a17826.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
+    [ "HandleCast", "dc/df6/a17826.html#aaa3262bc782e342825d4caba2954e95d", null ],
+    [ "PrepareSpellScript", "dc/df6/a17826.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
+    [ "Register", "dc/df6/a17826.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
+    [ "Validate", "dc/df6/a17826.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
 ];

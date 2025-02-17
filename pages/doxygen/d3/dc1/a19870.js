@@ -1,5 +1,6 @@
 var a19870 =
 [
-    [ "go_ulduar_pure_saronite_deposit", "d3/dc1/a19870.html#a39da51a78b9f27392ed7494e18e89b93", null ],
-    [ "OnGossipHello", "d3/dc1/a19870.html#ab69c5b514e0b79ff7155e0080841d4a2", null ]
+    [ "boss_freya_elder_stonebarkAI", "d6/da2/a19874.html", "d6/da2/a19874" ],
+    [ "boss_freya_elder_stonebark", "d3/dc1/a19870.html#a9c90c504d78456580ae657a42fac4075", null ],
+    [ "GetAI", "d3/dc1/a19870.html#a0b529bb8755c56046c40b620ef4b7448", null ]
 ];

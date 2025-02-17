@@ -1,12 +1,9 @@
 var a07934 =
 [
-    [ "TrainerSpell", "d6/de8/a07934.html#a87a098774b32babfcf2000e3330a25b9", null ],
-    [ "IsCastable", "d6/de8/a07934.html#a2f638f0e068623d38f0dab7c346ac8ed", null ],
-    [ "learnedSpell", "d6/de8/a07934.html#a2396712a58fa61f340632de48dac9b78", null ],
-    [ "reqLevel", "d6/de8/a07934.html#ac71afa7c180905ae4247011b2f40f929", null ],
-    [ "reqSkill", "d6/de8/a07934.html#ac0a74c104994e36ba95703689ed92964", null ],
-    [ "reqSkillValue", "d6/de8/a07934.html#a1187d182a512ae0f40af6ea36a4911db", null ],
-    [ "reqSpell", "d6/de8/a07934.html#a6f2d3fa6a5f4403822b924f64e796deb", null ],
-    [ "spell", "d6/de8/a07934.html#af7649fcfa5e6ca77c7d0aa9ef474b44c", null ],
-    [ "spellCost", "d6/de8/a07934.html#a9adb80199e22a0db5d4eb262d9edbfe8", null ]
+    [ "LFGPlayerScript", "d6/de8/a07934.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
+    [ "OnPlayerBindToInstance", "d6/de8/a07934.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
+    [ "OnPlayerLevelChanged", "d6/de8/a07934.html#afd530a2823a7187b49645c9d0625c8ba", null ],
+    [ "OnPlayerLogin", "d6/de8/a07934.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
+    [ "OnPlayerLogout", "d6/de8/a07934.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
+    [ "OnPlayerMapChanged", "d6/de8/a07934.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
 ];

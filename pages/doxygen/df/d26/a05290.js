@@ -1,17 +1,19 @@
 var a05290 =
 [
-    [ "LockedQueue", "df/d26/a05290.html#a5ce001c1fba3468b513aa7e345113128", null ],
-    [ "~LockedQueue", "df/d26/a05290.html#a259a03cc68a36181edebe088ef669c46", null ],
-    [ "add", "df/d26/a05290.html#a03f459044b4ffb413fb8d1ba98179ab8", null ],
-    [ "cancel", "df/d26/a05290.html#ab3d04497f8a07c5c6b6208b136a297a4", null ],
-    [ "cancelled", "df/d26/a05290.html#af9e2adfcd3800e9e9fa858fcacf22e2e", null ],
-    [ "empty", "df/d26/a05290.html#a8d62ae6a4bb93f89816714ccbb519753", null ],
-    [ "next", "df/d26/a05290.html#ac818ec56d60e2ec059857e0aaa99f8a4", null ],
-    [ "next", "df/d26/a05290.html#acaade33a01794600c72efbf389fe7664", null ],
-    [ "peek", "df/d26/a05290.html#af1de22fd872bb07a5ad42779d2ddbac3", null ],
-    [ "pop_front", "df/d26/a05290.html#aa57d3a3964071fd3e0ba6b7840041c65", null ],
-    [ "readd", "df/d26/a05290.html#a4eb9aea8b399a2acc2dd893e83d16120", null ],
-    [ "_canceled", "df/d26/a05290.html#a175454f5bf20f3a312d83e2dd5fc5d7c", null ],
-    [ "_lock", "df/d26/a05290.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb", null ],
-    [ "_queue", "df/d26/a05290.html#a55ced2abb0a6dd64554597347b61ebf1", null ]
+    [ "Appender", "df/d26/a05290.html#aed555d5a182fefce9bb570201e9f005f", null ],
+    [ "~Appender", "df/d26/a05290.html#a7194b4ff5130399352c356852023004d", null ],
+    [ "_write", "df/d26/a05290.html#a04e6bf8aca909a3fbadcd053dda85b83", null ],
+    [ "getFlags", "df/d26/a05290.html#a57fad2f7bd4da733633051f47efd6555", null ],
+    [ "getId", "df/d26/a05290.html#a643046505390b3988572c53051d7d4c1", null ],
+    [ "getLogLevel", "df/d26/a05290.html#a0013fabdf34579153a2d145fdbd8009b", null ],
+    [ "getLogLevelString", "df/d26/a05290.html#aa0ec99ab59463bfe249b64e5f9a7645d", null ],
+    [ "getName", "df/d26/a05290.html#a8414d7de4187a3deb55024278734836f", null ],
+    [ "getType", "df/d26/a05290.html#a0efa3e131b7c130a9ece375135682ea4", null ],
+    [ "setLogLevel", "df/d26/a05290.html#ae6c4e7120a54b7069e157fe9a397d455", null ],
+    [ "setRealmId", "df/d26/a05290.html#ae13f18ba2b26260f64aedc1ce1806fef", null ],
+    [ "write", "df/d26/a05290.html#a33d9f53e1853633d15c78f4edc33e5d3", null ],
+    [ "flags", "df/d26/a05290.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd", null ],
+    [ "id", "df/d26/a05290.html#a2cf4849307b65727645d3caf4205064f", null ],
+    [ "level", "df/d26/a05290.html#a2dd9209b754c6676ef86f1a6f7f2295f", null ],
+    [ "name", "df/d26/a05290.html#a0d47660ee41c8816342001825f626a8b", null ]
 ];

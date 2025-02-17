@@ -1,9 +1,6 @@
 var a12826 =
 [
-    [ "npc_risen_guardianAI", "de/d69/a12826.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
-    [ "IsSummonedBy", "de/d69/a12826.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
-    [ "KilledUnit", "de/d69/a12826.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
-    [ "Gandling", "de/d69/a12826.html#a93013b905260aa51341b22d1627cc986", null ],
-    [ "instance", "de/d69/a12826.html#a96f1835989f646c708b8ef0cc9999e63", null ],
-    [ "room", "de/d69/a12826.html#a5862a184b6daa92da133cc6c360a993d", null ]
+    [ "npc_scarlet_miner_cartAI", "d2/def/a12830.html", "d2/def/a12830" ],
+    [ "npc_scarlet_miner_cart", "de/d69/a12826.html#a987247939c6fd576d4b8d541175ecb6b", null ],
+    [ "GetAI", "de/d69/a12826.html#a0f1436f0f6784af5ab62bf91df355731", null ]
 ];

@@ -1,6 +1,7 @@
 var a21542 =
 [
-    [ "npc_q24545_vegard_dummyAI", "de/dc4/a21542.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "de/dc4/a21542.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "de/dc4/a21542.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "npc_cosmetic_toy_plane", "de/dc4/a21542.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "de/dc4/a21542.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "de/dc4/a21542.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "de/dc4/a21542.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

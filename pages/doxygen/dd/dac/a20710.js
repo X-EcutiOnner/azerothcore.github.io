@@ -1,5 +1,6 @@
 var a20710 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "dd/dac/a20710.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "dd/dac/a20710.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "d4/d1e/a20714.html", "d4/d1e/a20714" ],
+    [ "boss_yoggsaron_immortal_guardian", "dd/dac/a20710.html#a4009759d284b54cb958ee0bb80c45f14", null ],
+    [ "GetAI", "dd/dac/a20710.html#ac532ca090d93ce6d11a0332329111f2b", null ]
 ];

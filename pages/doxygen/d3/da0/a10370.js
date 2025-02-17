@@ -1,16 +1,12 @@
 var a10370 =
 [
-    [ "AreaID", "d3/da0/a10370.html#a7bd695ba9365b53703204e45c930b254", null ],
-    [ "ClassID", "d3/da0/a10370.html#a794961a2e9f4773254b2439837150b50", null ],
-    [ "Gender", "d3/da0/a10370.html#aadb29895c835e820168ad7d3f608d3b8", null ],
-    [ "Guid", "d3/da0/a10370.html#a9dad860d61da34048ab2d52ada0cb43f", null ],
-    [ "LastSave", "d3/da0/a10370.html#acb553637ff289603411fa5795a361deb", null ],
-    [ "Level", "d3/da0/a10370.html#a585acb139537e8def9e4ba076a332b6b", null ],
-    [ "Name", "d3/da0/a10370.html#ad50c43162525d8ad2ea33e48c01e838e", null ],
-    [ "Note", "d3/da0/a10370.html#aa351a270de4cba2faddc5179cb854b94", null ],
-    [ "OfficerNote", "d3/da0/a10370.html#aedaee0b4511ddd82cc75e91cb04e175a", null ],
-    [ "RankID", "d3/da0/a10370.html#a02f6f0dcf1be3a6befe959388d9aedd8", null ],
-    [ "Status", "d3/da0/a10370.html#aa6342565a23693718b5ef84f90b83350", null ],
-    [ "TotalXP", "d3/da0/a10370.html#ad3ee1ba956ea725db8588e3be3c57b18", null ],
-    [ "WeeklyXP", "d3/da0/a10370.html#a7fb40a5bce99fcf70176ebe344424ed2", null ]
+    [ "Packet", "d3/da0/a10370.html#a316af2b7ce1ac7189fb1e57f534bad11", null ],
+    [ "~Packet", "d3/da0/a10370.html#a2ca1e6377bb2fb10bf042311e72eb5d4", null ],
+    [ "Packet", "d3/da0/a10370.html#a00213b64110a99004b3d9a6b38876cd4", null ],
+    [ "GetRawPacket", "d3/da0/a10370.html#a9d8649e1b035fe7387dcee3e0b062a5e", null ],
+    [ "GetSize", "d3/da0/a10370.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a", null ],
+    [ "operator=", "d3/da0/a10370.html#a6d2afd0d4b0d7daff11868854b7c4715", null ],
+    [ "Read", "d3/da0/a10370.html#a94afc4d66c2b5bced3063bab5a666bfd", null ],
+    [ "Write", "d3/da0/a10370.html#af7c79156d7b6cfe3142fc530f9ed262a", null ],
+    [ "_worldPacket", "d3/da0/a10370.html#ab85f1c9f20117bc5015180165c7b458a", null ]
 ];

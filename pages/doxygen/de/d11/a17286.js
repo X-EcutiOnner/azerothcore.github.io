@@ -1,6 +1,8 @@
 var a17286 =
 [
-    [ "npc_igb_ship_crewAI", "de/d11/a17286.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "de/d11/a17286.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "de/d11/a17286.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "CheckProc", "de/d11/a17286.html#a11620e4d645b3bfd35924700b5dad289", null ],
+    [ "HandleProc", "de/d11/a17286.html#aa80a032f2ec80aba36f6fe0208412587", null ],
+    [ "PrepareAuraScript", "de/d11/a17286.html#afe04f0cb6539238412253b63dd3c82b9", null ],
+    [ "Register", "de/d11/a17286.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
+    [ "Validate", "de/d11/a17286.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
 ];

@@ -1,13 +1,8 @@
 var a20750 =
 [
-    [ "npc_ulduar_arachnopod_destroyerAI", "dd/d7b/a20750.html#a52bbedf267aaa3cea68e8a5960cbc34b", null ],
-    [ "AttackStart", "dd/d7b/a20750.html#aed91dafbc50a785875b8b41c5e328d73", null ],
-    [ "DamageTaken", "dd/d7b/a20750.html#a4c2ec3cf0c5561b1b9f309bb8f180f8c", null ],
-    [ "EnterEvadeMode", "dd/d7b/a20750.html#a671a27f00e279e0a4c0827999ce26d8b", null ],
-    [ "OnCharmed", "dd/d7b/a20750.html#ae268a425326efbea1282ce116ff76e3f", null ],
-    [ "PassengerBoarded", "dd/d7b/a20750.html#a83409607638100fddd229829ee2bea40", null ],
-    [ "Reset", "dd/d7b/a20750.html#a2a7bda0ee585a7aa652081ce7ede3fa6", null ],
-    [ "UpdateAI", "dd/d7b/a20750.html#ac10669fddd193d583ecead8ed37879b3", null ],
-    [ "_spawnedMechanic", "dd/d7b/a20750.html#a2db3016e32b4e77724fea98d605eaa59", null ],
-    [ "events", "dd/d7b/a20750.html#ac61064ee3e22b476a35dce4564f65882", null ]
+    [ "OnApply", "dd/d7b/a20750.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "dd/d7b/a20750.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "dd/d7b/a20750.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "dd/d7b/a20750.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "dd/d7b/a20750.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

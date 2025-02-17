@@ -1,6 +1,5 @@
 var a14786 =
 [
-    [ "HandleScriptEffect", "d7/d86/a14786.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
-    [ "PrepareSpellScript", "d7/d86/a14786.html#aa109d61baba87acf5bce5d44bff55214", null ],
-    [ "Register", "d7/d86/a14786.html#ac8412777c84abfe56262d6d83163e9a1", null ]
+    [ "pathId", "d7/d86/a14786.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
+    [ "spellId", "d7/d86/a14786.html#af495f984d5b81baeaa61ddca127a9508", null ]
 ];

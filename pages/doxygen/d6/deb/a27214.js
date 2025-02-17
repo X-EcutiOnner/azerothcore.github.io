@@ -1,6 +1,6 @@
 var a27214 =
 [
-    [ "npc_taxi", "d6/deb/a27214.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d6/deb/a27214.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d6/deb/a27214.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "guard_shattrath_aldorAI", "d9/d09/a27218.html", "d9/d09/a27218" ],
+    [ "guard_shattrath_aldor", "d6/deb/a27214.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "d6/deb/a27214.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

@@ -1,7 +1,7 @@
 var a21786 =
 [
-    [ "HandleDummy", "db/d2e/a21786.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "db/d2e/a21786.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "db/d2e/a21786.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "db/d2e/a21786.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "HandleScript", "db/d2e/a21786.html#a95de3ae27cfd764380ab1648b49af38d", null ],
+    [ "Load", "db/d2e/a21786.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
+    [ "PrepareSpellScript", "db/d2e/a21786.html#a442138710213b9b120d8ce57b733205a", null ],
+    [ "Register", "db/d2e/a21786.html#af9d8f764a6a02737f8b559f067156df6", null ]
 ];

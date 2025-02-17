@@ -1,6 +1,6 @@
 var a21118 =
 [
-    [ "npc_azure_invaderAI", "de/def/a21122.html", "de/def/a21122" ],
-    [ "npc_azure_invader", "d1/d2e/a21118.html#ab318178a618f2bfdcd5ea3105c240d32", null ],
-    [ "GetAI", "d1/d2e/a21118.html#a19c000084ea74a401ece81ee0e20b65c", null ]
+    [ "npc_frozen_orb_stalkerAI", "d1/d2e/a21118.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "d1/d2e/a21118.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "d1/d2e/a21118.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

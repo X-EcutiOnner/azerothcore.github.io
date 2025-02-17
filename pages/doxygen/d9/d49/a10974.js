@@ -1,5 +1,8 @@
 var a10974 =
 [
-    [ "ImplicitTargetType", "d9/d49/a10974.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
-    [ "UsedTargetObjectType", "d9/d49/a10974.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
+    [ "SkillDiscoveryEntry", "d9/d49/a10974.html#a54c0f12153c6e63a37e5da44d233b271", null ],
+    [ "SkillDiscoveryEntry", "d9/d49/a10974.html#a301cae078fe1943cae045e94dc3d38ad", null ],
+    [ "chance", "d9/d49/a10974.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
+    [ "reqSkillValue", "d9/d49/a10974.html#a61e0edc8fee1fa4045d846668d08449c", null ],
+    [ "spellId", "d9/d49/a10974.html#a75ca40729917317173b2953c8f47f833", null ]
 ];

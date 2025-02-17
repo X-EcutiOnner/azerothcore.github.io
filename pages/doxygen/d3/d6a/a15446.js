@@ -1,6 +1,7 @@
 var a15446 =
 [
-    [ "creatureID", "d3/d6a/a15446.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "d3/d6a/a15446.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "d3/d6a/a15446.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "npc_steward_of_time", "d3/d6a/a15446.html#ad49973464c96f44506033b73a85f6360", null ],
+    [ "OnGossipHello", "d3/d6a/a15446.html#a3b61038393c3addbbfa6643438164db3", null ],
+    [ "OnGossipSelect", "d3/d6a/a15446.html#af4fe13e266a98129b92e5a25188d947c", null ],
+    [ "OnQuestAccept", "d3/d6a/a15446.html#a53d552282da49e8246089b2799fff9ca", null ]
 ];

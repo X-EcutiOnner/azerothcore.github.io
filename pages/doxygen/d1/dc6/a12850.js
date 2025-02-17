@@ -1,6 +1,7 @@
 var a12850 =
 [
-    [ "instance_scholomance_InstanceMapScript", "df/d9a/a12854.html", "df/d9a/a12854" ],
-    [ "instance_scholomance", "d1/dc6/a12850.html#ace7a781c45623419daad6143480d8fe2", null ],
-    [ "GetInstanceScript", "d1/dc6/a12850.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
+    [ "HandleEffectApply", "d1/dc6/a12850.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
+    [ "PrepareAuraScript", "d1/dc6/a12850.html#a9829789fe5544429454e29d228ce0daf", null ],
+    [ "Register", "d1/dc6/a12850.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
+    [ "Validate", "d1/dc6/a12850.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
 ];

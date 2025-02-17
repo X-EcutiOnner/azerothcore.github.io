@@ -1,7 +1,5 @@
 var a15646 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "df/dbd/a15646.html#a886ed4c1485fdedcc176341210eee31a", null ],
-    [ "OnCreatureCreate", "df/dbd/a15646.html#a7a99d985a4b465ae87c04211a7a83a77", null ],
-    [ "OnGameObjectCreate", "df/dbd/a15646.html#a1ef3dc88400345998d03f3c993b9a181", null ],
-    [ "OnGameObjectRemove", "df/dbd/a15646.html#a3a2776b83272d81de9ddcb0c90ac881c", null ]
+    [ "achievement_respect_your_elders", "df/dbd/a15646.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
+    [ "OnCheck", "df/dbd/a15646.html#a770922be3ab19848f7a8f43a82d78b88", null ]
 ];

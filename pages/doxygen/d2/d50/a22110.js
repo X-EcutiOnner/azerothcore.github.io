@@ -1,5 +1,6 @@
 var a22110 =
 [
-    [ "achievement_wg_vehicular_gnomeslaughter", "d2/d50/a22110.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
-    [ "OnCheck", "d2/d50/a22110.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
+    [ "npc_roxi_ramrocket", "d2/d50/a22110.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
+    [ "OnGossipHello", "d2/d50/a22110.html#adec28f778921246c56f11d09753e566e", null ],
+    [ "OnGossipSelect", "d2/d50/a22110.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
 ];

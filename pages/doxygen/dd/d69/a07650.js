@@ -1,6 +1,10 @@
 var a07650 =
 [
-    [ "value_type", "dd/d69/a07650.html#a8ce1d08e5d320ef2c6301475fba4a7c2", null ],
-    [ "StoreTo", "dd/d69/a07650.html#ac01b3840e65515853e26c16dd3caaf58", null ],
-    [ "tag", "dd/d69/a07650.html#abd9c16378ed02e10a25cd45111e6fc69", null ]
+    [ "storage_type", "dd/d69/a07650.html#a054c554d9d812e571455bce39655a9ac", null ],
+    [ "value_type", "dd/d69/a07650.html#a5c55c97d4dd08c5e71563596e0c59111", null ],
+    [ "operator value_type", "dd/d69/a07650.html#a2d439c3664d398cebfc503b2769bfa9c", null ],
+    [ "operator*", "dd/d69/a07650.html#a9d4cf547beb996e5945acb84f5305200", null ],
+    [ "operator->", "dd/d69/a07650.html#afb5bb4e6e4a32db89e3b8a68e9c0d901", null ],
+    [ "TryConsume", "dd/d69/a07650.html#a57892ca7457ca93bdcdbbb8309311c8f", null ],
+    [ "val", "dd/d69/a07650.html#aef50fdfc79df3ca784eb90a69bd43076", null ]
 ];

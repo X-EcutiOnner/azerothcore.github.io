@@ -1,7 +1,7 @@
 var a22674 =
 [
-    [ "npc_ashtongue_channeler", "dc/d98/a22674.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "dc/d98/a22674.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "dc/d98/a22674.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "dc/d98/a22674.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "PrepareAuraScript", "dc/d98/a22674.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "dc/d98/a22674.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "dc/d98/a22674.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "dc/d98/a22674.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

@@ -1,7 +1,6 @@
 var a24314 =
 [
-    [ "HandleDummy", "d7/dc1/a24314.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
-    [ "PrepareSpellScript", "d7/dc1/a24314.html#a2fe4b009fa3741c180e18730af5853e3", null ],
-    [ "Register", "d7/dc1/a24314.html#a762c2320ab8d48e1284d81962a4b078f", null ],
-    [ "Validate", "d7/dc1/a24314.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
+    [ "FilterTargets", "d7/dc1/a24314.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
+    [ "PrepareSpellScript", "d7/dc1/a24314.html#aea49df3f6b93223ed72c3a9875232b74", null ],
+    [ "Register", "d7/dc1/a24314.html#a8f0e0b6363303def780d35415c88b4d6", null ]
 ];

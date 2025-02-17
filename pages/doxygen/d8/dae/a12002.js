@@ -1,14 +1,20 @@
 var a12002 =
 [
-    [ "boss_chromaggusAI", "d8/dae/a12002.html#a06f811fb8aa0c15e07e8a771ac722056", null ],
-    [ "CanAIAttack", "d8/dae/a12002.html#a4643974601831ced1f6173965009ad20", null ],
-    [ "Initialize", "d8/dae/a12002.html#a0697edb4aa9fb60a0db2ccf54c32dc19", null ],
-    [ "JustEngagedWith", "d8/dae/a12002.html#a66b6f31ebcfdb2fe9adba85311e655bb", null ],
-    [ "PathEndReached", "d8/dae/a12002.html#a2805052cd90212ecb9b5f313f4ecc384", null ],
-    [ "Reset", "d8/dae/a12002.html#aaa72a25326e9c4e1936020a1e6e7b87a", null ],
-    [ "SetGUID", "d8/dae/a12002.html#a9b5889af178418a3750ae84707818cf7", null ],
-    [ "UpdateAI", "d8/dae/a12002.html#a4a120f99c6586fd06af6699bfe913d24", null ],
-    [ "_breathSpells", "d8/dae/a12002.html#a10e18592d163d4be586701de47da48c9", null ],
-    [ "_playerGUID", "d8/dae/a12002.html#a03a7fc87c67b04eb0b1289276023c1b4", null ],
-    [ "Enraged", "d8/dae/a12002.html#acc8b5cfbae8debb22a0493400ec310c4", null ]
+    [ "boss_rend_blackhandAI", "d8/dae/a12002.html#a2814a327bc7a9f757f7a05912a662f44", null ],
+    [ "EnterEvadeMode", "d8/dae/a12002.html#a144c325de23530f4d77d6ab0a82bd341", null ],
+    [ "IsSummonedBy", "d8/dae/a12002.html#aaa526ce953dd90de0d2459e74b96d3b7", null ],
+    [ "JustDied", "d8/dae/a12002.html#a4e41038af6075585346ce7acc40f5d16", null ],
+    [ "JustEngagedWith", "d8/dae/a12002.html#ad2800c1ca9785cf9a4445bb298635464", null ],
+    [ "JustSummoned", "d8/dae/a12002.html#ab003c8952ff1d7c71295621967a29bbd", null ],
+    [ "MovementInform", "d8/dae/a12002.html#a0219dfff536ebb0663dbd575c2955630", null ],
+    [ "Reset", "d8/dae/a12002.html#adf7859684e871f844db8d39ae29d4229", null ],
+    [ "SetData", "d8/dae/a12002.html#ae8da177a417f420f63b318477ad2fa9c", null ],
+    [ "SummonedCreatureDespawn", "d8/dae/a12002.html#a09f814167a86eed5e13dec8a34a5d2e8", null ],
+    [ "SummonedCreatureDies", "d8/dae/a12002.html#af0467f9f8cf7f552cd90994b6a208394", null ],
+    [ "SummonWave", "d8/dae/a12002.html#a51a96beb5c271191c52a0b12d3824043", null ],
+    [ "UpdateAI", "d8/dae/a12002.html#a89970f47673bc2ce1290900251970fe4", null ],
+    [ "_currentWave", "d8/dae/a12002.html#aff4797532d1ab098dc8f52454c2ecd05", null ],
+    [ "gythEvent", "d8/dae/a12002.html#ac5c2ee831c560ef96338dd08a61ec4c1", null ],
+    [ "victorGUID", "d8/dae/a12002.html#a414de083616e4b77a84af8617a3b5f8e", null ],
+    [ "waveDoorGUID", "d8/dae/a12002.html#a0f426a5f2cde0f522ba2a236d34f9d5a", null ]
 ];

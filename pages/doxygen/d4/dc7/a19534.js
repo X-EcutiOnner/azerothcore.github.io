@@ -1,9 +1,6 @@
 var a19534 =
 [
-    [ "npc_auriaya_sanctum_sentryAI", "d4/dc7/a19534.html#afffb62c4db56bb4e7baa095ae75cd7e3", null ],
-    [ "JustEngagedWith", "d4/dc7/a19534.html#aeeb0aa4667a110dabcc70d422ebd6de5", null ],
-    [ "Reset", "d4/dc7/a19534.html#a5ab87ac858782cd7f05d9778ca3a6214", null ],
-    [ "UpdateAI", "d4/dc7/a19534.html#ab1862b4bd4b4fdfaeac8ad9c52cc5ed6", null ],
-    [ "_ripFleshTimer", "d4/dc7/a19534.html#a83920afb7f6930d780abd2d6fba2aa4c", null ],
-    [ "_savagePounceTimer", "d4/dc7/a19534.html#a9a6b14ece9a0bf812a04ea765b546735", null ]
+    [ "npc_algalon_worm_holeAI", "d2/d36/a19538.html", "d2/d36/a19538" ],
+    [ "npc_algalon_worm_hole", "d4/dc7/a19534.html#a72516a4824fa61a331caff46d2784c64", null ],
+    [ "GetAI", "d4/dc7/a19534.html#aac6ff3a41f08f5a11baa78c0526a3556", null ]
 ];

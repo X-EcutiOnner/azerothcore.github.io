@@ -1,6 +1,6 @@
 var a15098 =
 [
-    [ "npc_rabid_thistle_bearAI", "d3/d85/a15102.html", "d3/d85/a15102" ],
-    [ "npc_rabid_thistle_bear", "d4/dcc/a15098.html#a34b20a4ea22d74352712dee105247d56", null ],
-    [ "GetAI", "d4/dcc/a15098.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
+    [ "HandleApply", "d4/dcc/a15098.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
+    [ "PrepareAuraScript", "d4/dcc/a15098.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
+    [ "Register", "d4/dcc/a15098.html#ade5c710416516760cc69f77750aa2a1f", null ]
 ];

@@ -1,5 +1,7 @@
 var a20294 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "d1/d2f/a20294.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "d1/d2f/a20294.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "HandleEffectPeriodic", "d1/d2f/a20294.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "d1/d2f/a20294.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "d1/d2f/a20294.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "d1/d2f/a20294.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

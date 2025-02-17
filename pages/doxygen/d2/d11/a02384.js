@@ -1,7 +1,8 @@
 var a02384 =
 [
-    [ "GetCleanAliasName", "d2/d11/a02384.html#ae187308862c39923e2b843bc9d4c989c", null ],
-    [ "GetDefaultValue", "d2/d11/a02384.html#a2ea1ae2c2289bdc9068ec9c886d124c8", null ],
-    [ "IsCorrectAlias", "d2/d11/a02384.html#a56e834d391c0eb5187d3c7dd0dad88b7", null ],
-    [ "IsCorrectFieldType", "d2/d11/a02384.html#a61bef7957f008e8cd937746ba03feb73", null ]
+    [ "SelectableAI", "dc/d1e/a06126.html", "dc/d1e/a06126" ],
+    [ "CreatureAIFactory< REAL_AI >", "d2/d44/a06130.html", "d2/d44/a06130" ],
+    [ "sCreatureAIRegistry", "d2/d11/a02384.html#a08e073e90e01d97b74e2331f15bf6122", null ],
+    [ "CreatureAICreator", "d2/d11/a02384.html#a0979444cdc957651f0b4bc9e3c24934b", null ],
+    [ "CreatureAIRegistry", "d2/d11/a02384.html#a3eebee4b886bee76d38357a472a9a5ae", null ]
 ];

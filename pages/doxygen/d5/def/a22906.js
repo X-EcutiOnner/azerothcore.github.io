@@ -1,6 +1,6 @@
 var a22906 =
 [
-    [ "FilterTargets", "d5/def/a22906.html#ac20676c292d87276e444bad56d71960d", null ],
-    [ "PrepareSpellScript", "d5/def/a22906.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
-    [ "Register", "d5/def/a22906.html#ae356b768872de3e87806c19bf8cccb08", null ]
+    [ "OnPeriodic", "d5/def/a22906.html#aef6afe014ce90711cd7628563aada2a4", null ],
+    [ "PrepareAuraScript", "d5/def/a22906.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
+    [ "Register", "d5/def/a22906.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
 ];

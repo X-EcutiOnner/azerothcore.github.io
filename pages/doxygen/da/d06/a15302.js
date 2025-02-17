@@ -1,7 +1,6 @@
 var a15302 =
 [
-    [ "npc_kaya_flathoofAI", "da/d06/a15302.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "da/d06/a15302.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "da/d06/a15302.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "da/d06/a15302.html#a8fcbb19279b925138ba96d2a450fc404", null ]
+    [ "npcs_riverbreeze_and_silversky", "da/d06/a15302.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "da/d06/a15302.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "da/d06/a15302.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

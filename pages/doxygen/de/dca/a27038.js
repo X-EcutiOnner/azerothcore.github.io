@@ -1,5 +1,6 @@
 var a27038 =
 [
-    [ "go_arcane_prison", "de/dca/a27038.html#ad73ac33d843027de0e516de8f90c45a0", null ],
-    [ "OnGossipHello", "de/dca/a27038.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
+    [ "go_tadpole_cageAI", "d3/da1/a27042.html", "d3/da1/a27042" ],
+    [ "go_tadpole_cage", "de/dca/a27038.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "de/dca/a27038.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

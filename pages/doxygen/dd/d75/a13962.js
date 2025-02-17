@@ -1,7 +1,8 @@
 var a13962 =
 [
-    [ "HandleScriptEffect", "dd/d75/a13962.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
-    [ "PrepareSpellScript", "dd/d75/a13962.html#a3d906994c11e52e89c842189be73ddfd", null ],
-    [ "Register", "dd/d75/a13962.html#a4cdab36e2265c696207a39e16549ab13", null ],
-    [ "Validate", "dd/d75/a13962.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
+    [ "boss_venoxis", "dd/d75/a13962.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "dd/d75/a13962.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "dd/d75/a13962.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "dd/d75/a13962.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "dd/d75/a13962.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

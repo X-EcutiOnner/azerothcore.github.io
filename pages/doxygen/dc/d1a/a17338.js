@@ -1,8 +1,7 @@
 var a17338 =
 [
-    [ "HandlePeriodic", "dc/d1a/a17338.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "dc/d1a/a17338.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "dc/d1a/a17338.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "dc/d1a/a17338.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "dc/d1a/a17338.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "HandleScript", "dc/d1a/a17338.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "dc/d1a/a17338.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "dc/d1a/a17338.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "dc/d1a/a17338.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

@@ -1,6 +1,5 @@
 var a11070 =
 [
-    [ "BeforeHitHandler", "d0/dd9/a11070.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
-    [ "Call", "d0/dd9/a11070.html#a393057cca72c41e193508bf150ed0b1f", null ],
-    [ "_pBeforeHitHandlerScript", "d0/dd9/a11070.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
+    [ "WorldObjectSpellTrajTargetCheck", "d0/dd9/a11070.html#a0c08b6b4c7878678eb419a556f718be0", null ],
+    [ "operator()", "d0/dd9/a11070.html#aa1f7772cdb19914cc365a325f801b5d5", null ]
 ];

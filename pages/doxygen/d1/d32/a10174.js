@@ -1,11 +1,10 @@
 var a10174 =
 [
-    [ "PetScript", "d1/d32/a10174.html#acccf0b5fa2e346c800925142ed52c917", null ],
-    [ "CanResetTalents", "d1/d32/a10174.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
-    [ "CanUnlearnSpellDefault", "d1/d32/a10174.html#af150efd719bbb619df792ebc6705bb0a", null ],
-    [ "CanUnlearnSpellSet", "d1/d32/a10174.html#a84cba94813ffa26e1a245b814feb0349", null ],
-    [ "IsDatabaseBound", "d1/d32/a10174.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
-    [ "OnCalculateMaxTalentPointsForLevel", "d1/d32/a10174.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
-    [ "OnInitStatsForLevel", "d1/d32/a10174.html#a65a33c4f374f2e9739680ad172118c26", null ],
-    [ "OnPetAddToWorld", "d1/d32/a10174.html#a3012323c5c1424512b611b6956a32554", null ]
+    [ "ArenaTeamScript", "d1/d32/a10174.html#ab86543c6ce76ff21e4306c799b99c896", null ],
+    [ "IsDatabaseBound", "d1/d32/a10174.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
+    [ "OnGetArenaPoints", "d1/d32/a10174.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
+    [ "OnGetSlotByType", "d1/d32/a10174.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
+    [ "OnQueueIdToArenaType", "d1/d32/a10174.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
+    [ "OnSetArenaMaxPlayersPerTeam", "d1/d32/a10174.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
+    [ "OnTypeIDToQueueID", "d1/d32/a10174.html#abcdd905b695f926e503db610d80ada3c", null ]
 ];

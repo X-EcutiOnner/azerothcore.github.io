@@ -1,13 +1,10 @@
 var a16642 =
 [
-    [ "npc_hor_leader_secondAI", "dd/d29/a16642.html#a54a5094dc533755efc249ebc96663b62", null ],
-    [ "DamageTaken", "dd/d29/a16642.html#ae534779315b04b3dde495b13a1cb28e4", null ],
-    [ "DoAction", "dd/d29/a16642.html#a4185259006017e85fade721796851dd0", null ],
-    [ "MovementInform", "dd/d29/a16642.html#afe93165a3e96496b52a2be8de5022164", null ],
-    [ "MoveToNextStopPoint", "dd/d29/a16642.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
-    [ "Reset", "dd/d29/a16642.html#ae5d125deab31e6425e94b4523d8251eb", null ],
-    [ "UpdateAI", "dd/d29/a16642.html#ae991e18a6729a1b088c60060802c01c2", null ],
-    [ "currentStopPoint", "dd/d29/a16642.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
-    [ "events", "dd/d29/a16642.html#a3510e246908f4e5b758e05ca06a29e47", null ],
-    [ "pInstance", "dd/d29/a16642.html#a32cebea12e13c87b45dd2a4c6cf495e5", null ]
+    [ "HandleAfterEffectAbsorb", "dd/d29/a16642.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "dd/d29/a16642.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "dd/d29/a16642.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "dd/d29/a16642.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "dd/d29/a16642.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "dd/d29/a16642.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "dd/d29/a16642.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

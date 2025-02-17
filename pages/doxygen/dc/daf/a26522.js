@@ -1,8 +1,7 @@
 var a26522 =
 [
-    [ "Detonate", "dc/daf/a26522.html#a89f46334c78fc190afd7b03706fa2513", null ],
-    [ "HandleProc", "dc/daf/a26522.html#a82ad88c757eed35f7e0f2af38ceb2273", null ],
-    [ "PrepareAuraScript", "dc/daf/a26522.html#a7268602da6dc74d7c501fb90c8167226", null ],
-    [ "Register", "dc/daf/a26522.html#ac1574e943840e5f15a808ed4d338cd5f", null ],
-    [ "Validate", "dc/daf/a26522.html#abbc5c9d069e716d9356ec366713abb84", null ]
+    [ "HandleDummy", "dc/daf/a26522.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
+    [ "PrepareSpellScript", "dc/daf/a26522.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
+    [ "Register", "dc/daf/a26522.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
+    [ "Validate", "dc/daf/a26522.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
 ];

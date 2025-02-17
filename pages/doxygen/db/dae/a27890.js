@@ -1,12 +1,12 @@
 var a27890 =
 [
-    [ "CalendarFilterType", "db/dae/a27890.html#a082b59a0ead8223e590cbb371f3ad122", null ],
-    [ "CalendarFlags", "db/dae/a27890.html#a6f9cf483200ac982bab7a66ff8bef33d", null ],
-    [ "Date", "db/dae/a27890.html#ac5b08b086ef0668508ea9da48642e95b", null ],
-    [ "Duration", "db/dae/a27890.html#a10cae1b1fbb91930209a714c545b129b", null ],
-    [ "Id", "db/dae/a27890.html#a1119824959b87fb312209a998a5869b1", null ],
-    [ "Looping", "db/dae/a27890.html#afa2d93998650f88e62bfa76807961274", null ],
-    [ "Priority", "db/dae/a27890.html#a6d82bc7a66d227f61c3be2260a3d03f5", null ],
-    [ "Region", "db/dae/a27890.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0", null ],
-    [ "TextureFilename", "db/dae/a27890.html#a2209ecbb78f1f467491506cc97df57e4", null ]
+    [ "ID", "db/dae/a27890.html#a84ba697182123cb3e7dd3ba07241e971", null ],
+    [ "maxScale", "db/dae/a27890.html#a23ca0ae7c45790a24f58546970194abf", null ],
+    [ "maxScaleLevel", "db/dae/a27890.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
+    [ "minScale", "db/dae/a27890.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
+    [ "minScaleLevel", "db/dae/a27890.html#a49d9d7847cc4d54891d83166eb277740", null ],
+    [ "Name", "db/dae/a27890.html#a937fc579ab2790f4a972f07d3453a762", null ],
+    [ "petFoodMask", "db/dae/a27890.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
+    [ "petTalentType", "db/dae/a27890.html#a802000cefb6c4d357edfc45cc291e21e", null ],
+    [ "skillLine", "db/dae/a27890.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
 ];

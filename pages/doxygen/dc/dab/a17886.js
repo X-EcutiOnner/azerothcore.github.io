@@ -1,7 +1,6 @@
 var a17886 =
 [
-    [ "StartMovementEvent", "dc/dab/a17886.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
-    [ "Execute", "dc/dab/a17886.html#af1a043d953bcffe9341292e85cae2f55", null ],
-    [ "_owner", "dc/dab/a17886.html#ac2f4166af128a161c471b243144856ba", null ],
-    [ "_summoner", "dc/dab/a17886.html#afe1f7bcb3569758bc075380a24527067", null ]
+    [ "FilterTargets", "dc/dab/a17886.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
+    [ "PrepareSpellScript", "dc/dab/a17886.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
+    [ "Register", "dc/dab/a17886.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
 ];

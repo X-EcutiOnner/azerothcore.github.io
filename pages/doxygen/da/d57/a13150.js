@@ -1,6 +1,6 @@
 var a13150 =
 [
-    [ "FilterTargets", "da/d57/a13150.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
-    [ "PrepareSpellScript", "da/d57/a13150.html#a905e1f979284a368463ad4829891b6ee", null ],
-    [ "Register", "da/d57/a13150.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
+    [ "CorruptTriggers", "da/d57/a13150.html#a5ec60254ee2ac299ce99164189087a1c", null ],
+    [ "Execute", "da/d57/a13150.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "da/d57/a13150.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ]
 ];

@@ -1,5 +1,6 @@
 var a21214 =
 [
-    [ "npc_khunok_the_behemothAI", "db/d1e/a21214.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "db/d1e/a21214.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "instance_violet_hold_InstanceMapScript", "d8/d71/a21218.html", "d8/d71/a21218" ],
+    [ "instance_violet_hold", "db/d1e/a21214.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "db/d1e/a21214.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
 ];

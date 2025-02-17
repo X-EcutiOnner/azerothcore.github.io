@@ -1,8 +1,8 @@
 var dir_c22643033d4d5dfd5506f8ab7d5a4197 =
 [
-    [ "boss_bronjahm.cpp", "dd/d08/a02957.html", "dd/d08/a02957" ],
-    [ "boss_devourer_of_souls.cpp", "d4/d32/a02951.html", "d4/d32/a02951" ],
-    [ "forge_of_souls.cpp", "d7/d6b/a02945.html", "d7/d6b/a02945" ],
-    [ "forge_of_souls.h", "d4/dbc/a02954.html", "d4/dbc/a02954" ],
-    [ "instance_forge_of_souls.cpp", "d2/d9c/a02948.html", "d2/d9c/a02948" ]
+    [ "boss_bronjahm.cpp", "dc/d91/a00659.html", "dc/d91/a00659" ],
+    [ "boss_devourer_of_souls.cpp", "d8/d13/a00671.html", "d8/d13/a00671" ],
+    [ "forge_of_souls.cpp", "d0/d5c/a00668.html", "d0/d5c/a00668" ],
+    [ "forge_of_souls.h", "da/d46/a00665.html", "da/d46/a00665" ],
+    [ "instance_forge_of_souls.cpp", "dc/df1/a00662.html", "dc/df1/a00662" ]
 ];

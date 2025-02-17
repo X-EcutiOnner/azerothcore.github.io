@@ -1,6 +1,9 @@
 var a28350 =
 [
-    [ "id", "dc/df0/a28350.html#a5acc1b246a76073e1c97513251a4143d", null ],
-    [ "id", "dc/df0/a28350.html#aaf844f570afdf7439ae7fbe0bbdc39e7", null ],
-    [ "name", "dc/df0/a28350.html#ae5d1244981224aed1b7477caedd70175", null ]
+    [ "SetUp", "dc/df0/a28350.html#abb28ef64461635a540dad471b7b12ebc", null ],
+    [ "TearDown", "dc/df0/a28350.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
+    [ "arenaTeams", "dc/df0/a28350.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
+    [ "team1", "dc/df0/a28350.html#a325d8058950e53d17e16fd90cd105776", null ],
+    [ "team2", "dc/df0/a28350.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
+    [ "team3", "dc/df0/a28350.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
 ];

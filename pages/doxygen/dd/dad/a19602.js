@@ -1,9 +1,6 @@
 var a19602 =
 [
-    [ "npc_hodirs_furyAI", "dd/dad/a19602.html#ae08a68a79a3fef952f6dfa50b4eaabca", null ],
-    [ "MovementInform", "dd/dad/a19602.html#a37b07ddee5403ee2de8f69904412ed42", null ],
-    [ "Reset", "dd/dad/a19602.html#a389f0f17fbc7860c5531f4859be561d3", null ],
-    [ "UpdateAI", "dd/dad/a19602.html#a5417d68891ad0f93c8130c9a14d57513", null ],
-    [ "_switchTargetTimer", "dd/dad/a19602.html#a8d15c1e290438c8a4aa50887cfffccba", null ],
-    [ "_timeToHit", "dd/dad/a19602.html#a594356602bd0068fba82bea64e284837", null ]
+    [ "boss_runemaster_molgeimAI", "db/da5/a19606.html", "db/da5/a19606" ],
+    [ "boss_runemaster_molgeim", "dd/dad/a19602.html#a440e4e43b941ac2b956c7c586a95f991", null ],
+    [ "GetAI", "dd/dad/a19602.html#a080e70913be1e6ad9521bab5b90a92a6", null ]
 ];

@@ -1,5 +1,6 @@
 var a17562 =
 [
-    [ "npc_volatile_oozeAI", "d6/dc8/a17562.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "d6/dc8/a17562.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "boss_lady_deathwhisperAI", "d4/d67/a17566.html", "d4/d67/a17566" ],
+    [ "boss_lady_deathwhisper", "d6/dc8/a17562.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "d6/dc8/a17562.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

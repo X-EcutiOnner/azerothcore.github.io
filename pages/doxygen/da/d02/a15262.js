@@ -1,6 +1,6 @@
 var a15262 =
 [
-    [ "npc_qiraj_war_spawnAI", "da/db8/a15266.html", "da/db8/a15266" ],
-    [ "npc_qiraj_war_spawn", "da/d02/a15262.html#a2afba33e9fd879ac3fea206768b14334", null ],
-    [ "GetAI", "da/d02/a15262.html#a32339f20251c188b895c02b6cc9217e9", null ]
+    [ "npc_tiger_matriarchAI", "da/db8/a15266.html", "da/db8/a15266" ],
+    [ "npc_tiger_matriarch", "da/d02/a15262.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "da/d02/a15262.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

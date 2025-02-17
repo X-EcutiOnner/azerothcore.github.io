@@ -1,6 +1,6 @@
 var a20502 =
 [
-    [ "boss_yoggsaron_cloudAI", "d9/d21/a20506.html", "d9/d21/a20506" ],
-    [ "boss_yoggsaron_cloud", "da/db3/a20502.html#ab52cc1fa8b45b70dde340b9f463ef2f1", null ],
-    [ "GetAI", "da/db3/a20502.html#a2005f062eb9d78c7b09b045eba570b98", null ]
+    [ "boss_thorim_arena_npcsAI", "d9/d21/a20506.html", "d9/d21/a20506" ],
+    [ "boss_thorim_arena_npcs", "da/db3/a20502.html#a60d22280bb1eb3c9da92deb08e887942", null ],
+    [ "GetAI", "da/db3/a20502.html#a3709e1c9df32755f5932398ba3535f2f", null ]
 ];

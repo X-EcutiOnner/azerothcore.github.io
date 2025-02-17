@@ -1,5 +1,6 @@
 var a18434 =
 [
-    [ "at_icc_saurfang_portal", "d2/d7a/a18434.html#a7f30058251c520634a0b7bad08380e5d", null ],
-    [ "OnTrigger", "d2/d7a/a18434.html#a8980fe0e67aa33335f0fdb947a294213", null ]
+    [ "npc_frost_freeze_trapAI", "de/d03/a18438.html", "de/d03/a18438" ],
+    [ "npc_frost_freeze_trap", "d2/d7a/a18434.html#ac58ed2598fd4250f220208a91343f9b8", null ],
+    [ "GetAI", "d2/d7a/a18434.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
 ];

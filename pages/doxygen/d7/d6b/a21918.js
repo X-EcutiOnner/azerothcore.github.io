@@ -1,4 +1,7 @@
 var a21918 =
 [
-    [ "npc_adventurous_dwarfAI", "d7/d6b/a21918.html#af953c5fef2ea8abbf7835b0bc5cf1b23", null ]
+    [ "HandleDummy", "d7/d6b/a21918.html#a85874062bceced2694fff725649df892", null ],
+    [ "PrepareSpellScript", "d7/d6b/a21918.html#a47bae4bdc488480f91517465d8e1b784", null ],
+    [ "Register", "d7/d6b/a21918.html#a7131340678ca685db98e2087661321a9", null ],
+    [ "Validate", "d7/d6b/a21918.html#af1b74ceee10fc48a0b85d4a284103950", null ]
 ];

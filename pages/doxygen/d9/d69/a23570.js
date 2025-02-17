@@ -1,8 +1,9 @@
 var a23570 =
 [
-    [ "HandleScriptEffect", "d9/d69/a23570.html#a7cde39fc0844f19604c8026a853e8216", null ],
-    [ "Load", "d9/d69/a23570.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
-    [ "PrepareSpellScript", "d9/d69/a23570.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
-    [ "Register", "d9/d69/a23570.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
-    [ "_currentSpellId", "d9/d69/a23570.html#a0ad25535ba345fe9672150af67687305", null ]
+    [ "boss_high_botanist_freywinn", "d9/d69/a23570.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "d9/d69/a23570.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "d9/d69/a23570.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "d9/d69/a23570.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "d9/d69/a23570.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "d9/d69/a23570.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

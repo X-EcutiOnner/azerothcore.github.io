@@ -1,6 +1,5 @@
 var a10902 =
 [
-    [ "ChannelTargetData", "dd/d6e/a10902.html#a26f2a2037750712d8718d9537603e3a1", null ],
-    [ "channelGUID", "dd/d6e/a10902.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
-    [ "spellDst", "dd/d6e/a10902.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
+    [ "AccountInfoQueryHolderPerRealm", "dd/d6e/a10902.html#a9d821669804cd04cf121e141d94ead36", null ],
+    [ "Initialize", "dd/d6e/a10902.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
 ];

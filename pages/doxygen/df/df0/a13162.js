@@ -1,6 +1,9 @@
 var a13162 =
 [
-    [ "npc_singularity", "df/df0/a13162.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
-    [ "Reset", "df/df0/a13162.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
-    [ "UpdateAI", "df/df0/a13162.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
+    [ "npc_demonic_vapor_trail", "df/df0/a13162.html#a5bd024ea050372e982a183da59b45904", null ],
+    [ "JustSummoned", "df/df0/a13162.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
+    [ "Reset", "df/df0/a13162.html#a9da762ab640abfaf5092034f284239af", null ],
+    [ "SpellHitTarget", "df/df0/a13162.html#a21e2223f58156da2fbe1803554623ecd", null ],
+    [ "UpdateAI", "df/df0/a13162.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
+    [ "timer", "df/df0/a13162.html#ac73d55019f44f702843e22a442c2e432", null ]
 ];

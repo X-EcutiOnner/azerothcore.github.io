@@ -1,8 +1,7 @@
 var a08458 =
 [
-    [ "checkLeaderOnly", "dd/da3/a08458.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "dd/da3/a08458.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "dd/da3/a08458.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "dd/da3/a08458.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "dd/da3/a08458.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "IsInSpec", "dd/da3/a08458.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "dd/da3/a08458.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "dd/da3/a08458.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "dd/da3/a08458.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

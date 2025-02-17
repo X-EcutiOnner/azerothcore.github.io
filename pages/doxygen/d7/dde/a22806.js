@@ -1,6 +1,6 @@
 var a22806 =
 [
-    [ "boss_doomlordkazzakAI", "db/d4a/a22810.html", "db/d4a/a22810" ],
-    [ "boss_doomlord_kazzak", "d7/dde/a22806.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
-    [ "GetAI", "d7/dde/a22806.html#a460a32ce37aae852b48f1990406da9a4", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d7/dde/a22806.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d7/dde/a22806.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "d7/dde/a22806.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

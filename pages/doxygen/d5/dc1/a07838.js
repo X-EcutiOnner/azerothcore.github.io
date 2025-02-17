@@ -1,6 +1,6 @@
 var a07838 =
 [
-    [ "LfgWaitTime", "d5/dc1/a07838.html#a1d80e0848c06c658a4c0587b686fe09d", null ],
-    [ "number", "d5/dc1/a07838.html#ae6bd7db37ac17752edbc8d336081b91e", null ],
-    [ "time", "d5/dc1/a07838.html#a0d0ef1b3552e5298763a3f28714bc864", null ]
+    [ "p0", "d5/dc1/a07838.html#aaf1df5d479ef12c6bfa9b02c8d9a54ad", null ],
+    [ "p1", "d5/dc1/a07838.html#a8c5a9c6371f264469203575be48684fa", null ],
+    [ "p2", "d5/dc1/a07838.html#a40d46738768d6c2037e5978ce32a9fb8", null ]
 ];

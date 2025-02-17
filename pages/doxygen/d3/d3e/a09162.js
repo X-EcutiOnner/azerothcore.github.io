@@ -1,8 +1,13 @@
 var a09162 =
 [
-    [ "CallOfHelpCreatureInRangeDo", "d3/d3e/a09162.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
-    [ "operator()", "d3/d3e/a09162.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
-    [ "i_enemy", "d3/d3e/a09162.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
-    [ "i_funit", "d3/d3e/a09162.html#aff1768cd844e4e23821cf78f9d360e06", null ],
-    [ "i_range", "d3/d3e/a09162.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
+    [ "WorldObjectWorker", "d3/d3e/a09162.html#a15dd68579f1a92f015cfac8577db7422", null ],
+    [ "Visit", "d3/d3e/a09162.html#ae264461e49602fd0b8a17e30ed554c64", null ],
+    [ "Visit", "d3/d3e/a09162.html#a3021825347d132f1368a77d29a8318df", null ],
+    [ "Visit", "d3/d3e/a09162.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
+    [ "Visit", "d3/d3e/a09162.html#a7de6ea339a8113d242dd099ca4d36927", null ],
+    [ "Visit", "d3/d3e/a09162.html#a29196fa36ce32a0cec68d0d67372a400", null ],
+    [ "Visit", "d3/d3e/a09162.html#a17097541c49264c15ebfe474f54aeca2", null ],
+    [ "i_do", "d3/d3e/a09162.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
+    [ "i_mapTypeMask", "d3/d3e/a09162.html#a6f8e447b9693154f56ce010869acadb9", null ],
+    [ "i_phaseMask", "d3/d3e/a09162.html#affa6245985c5d271900be12104ab6bb6", null ]
 ];

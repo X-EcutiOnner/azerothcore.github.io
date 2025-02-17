@@ -1,6 +1,5 @@
 var a27842 =
 [
-    [ "Id", "da/dc6/a27842.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
-    [ "Order", "da/dc6/a27842.html#a16fca42d9a0a98e034a93984c4362b53", null ],
-    [ "TypeFlags", "da/dc6/a27842.html#ac7246adc7c6c3217de8ac093983b7553", null ]
+    [ "ID", "da/dc6/a27842.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "da/dc6/a27842.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

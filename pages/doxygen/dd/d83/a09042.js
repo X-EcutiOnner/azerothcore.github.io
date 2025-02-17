@@ -1,8 +1,5 @@
 var a09042 =
 [
-    [ "CreatureWorker", "dd/d83/a09042.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
-    [ "Visit", "dd/d83/a09042.html#ae67044250380c521055f80c55de0bba5", null ],
-    [ "Visit", "dd/d83/a09042.html#aa9a450b147aafe46a49135f5c5be668e", null ],
-    [ "i_do", "dd/d83/a09042.html#ac22f86d9a41701e7527d4840da256f11", null ],
-    [ "i_phaseMask", "dd/d83/a09042.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
+    [ "asChar", "dd/d83/a09042.html#a3c1546425a9287498d23753f51e27de2", null ],
+    [ "asUInt", "dd/d83/a09042.html#a87b4e38a5c10dba382bd0761b70c2234", null ]
 ];

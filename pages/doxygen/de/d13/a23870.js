@@ -1,10 +1,9 @@
 var a23870 =
 [
-    [ "npc_infernal_attackerAI", "de/d13/a23870.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "de/d13/a23870.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "de/d13/a23870.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "de/d13/a23870.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "de/d13/a23870.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "de/d13/a23870.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "de/d13/a23870.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "npc_fel_guard_houndAI", "de/d13/a23870.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "de/d13/a23870.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "de/d13/a23870.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "de/d13/a23870.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "de/d13/a23870.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "de/d13/a23870.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

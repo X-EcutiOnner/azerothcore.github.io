@@ -1,11 +1,7 @@
 var a13986 =
 [
-    [ "npc_winterfin_playmate", "de/d11/a13986.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
-    [ "MoveInLineOfSight", "de/d11/a13986.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
-    [ "Reset", "de/d11/a13986.html#aae6b51c22dc0448608c1cf9412565e25", null ],
-    [ "UpdateAI", "de/d11/a13986.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
-    [ "orphanGUID", "de/d11/a13986.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
-    [ "phase", "de/d11/a13986.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
-    [ "playerGUID", "de/d11/a13986.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
-    [ "timer", "de/d11/a13986.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
+    [ "FilterTargets", "de/d11/a13986.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
+    [ "HandleEffect", "de/d11/a13986.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
+    [ "PrepareSpellScript", "de/d11/a13986.html#a08127992c96fb02e87e9ade65a5375d5", null ],
+    [ "Register", "de/d11/a13986.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
 ];

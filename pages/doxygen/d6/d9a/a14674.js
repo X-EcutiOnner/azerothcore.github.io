@@ -1,8 +1,6 @@
 var a14674 =
 [
-    [ "HandleScript", "d6/d9a/a14674.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "d6/d9a/a14674.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "d6/d9a/a14674.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "d6/d9a/a14674.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "d6/d9a/a14674.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "NpcRunToHome", "d6/d9a/a14674.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
+    [ "Execute", "d6/d9a/a14674.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
+    [ "_owner", "d6/d9a/a14674.html#a7dd38171a6e55665fc28a74212313e51", null ]
 ];

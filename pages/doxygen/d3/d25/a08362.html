@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellModPred Class Reference</title>
+<title>AzerothCore: PackedGuidReader Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,22 +106,28 @@ $(document).ready(function(){initNavTree('d3/d25/a08362.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d3/d11/a08359.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellModPred Class Reference</div></div>
+  <div class="headertitle"><div class="title">PackedGuidReader Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad27be78223b010f22730363dd56032ba"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d25/a08362.html#ad27be78223b010f22730363dd56032ba">SpellModPred</a> ()</td></tr>
-<tr class="separator:ad27be78223b010f22730363dd56032ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0cb5fc09a4171b42fdd59c065720bcae"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d25/a08362.html#a0cb5fc09a4171b42fdd59c065720bcae">operator()</a> (<a class="el" href="../../de/d6b/a08378.html">SpellModifier</a> const *a, <a class="el" href="../../de/d6b/a08378.html">SpellModifier</a> const *b) const</td></tr>
-<tr class="separator:a0cb5fc09a4171b42fdd59c065720bcae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec7af2ed383e06998a0fa12b94da90e3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d25/a08362.html#aec7af2ed383e06998a0fa12b94da90e3">PackedGuidReader</a> (<a class="el" href="../../db/de7/a08366.html">ObjectGuid</a> &amp;guid)</td></tr>
+<tr class="separator:aec7af2ed383e06998a0fa12b94da90e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a4de5d725a22f0a8ae4bb83cb51a72588"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/de7/a08366.html">ObjectGuid</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d25/a08362.html#a4de5d725a22f0a8ae4bb83cb51a72588">Guid</a></td></tr>
+<tr class="separator:a4de5d725a22f0a8ae4bb83cb51a72588"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad27be78223b010f22730363dd56032ba" name="ad27be78223b010f22730363dd56032ba"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad27be78223b010f22730363dd56032ba">&#9670;&#160;</a></span>SpellModPred()</h2>
+<a id="aec7af2ed383e06998a0fa12b94da90e3" name="aec7af2ed383e06998a0fa12b94da90e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec7af2ed383e06998a0fa12b94da90e3">&#9670;&#160;</a></span>PackedGuidReader()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -130,64 +136,38 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">SpellModPred::SpellModPred </td>
+          <td class="memname">PackedGuidReader::PackedGuidReader </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../db/de7/a08366.html">ObjectGuid</a> &amp;&#160;</td>
+          <td class="paramname"><em>guid</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9900</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  113</span>: <a class="code hl_variable" href="../../d3/d25/a08362.html#a4de5d725a22f0a8ae4bb83cb51a72588">Guid</a>(guid) { }</div>
+<div class="ttc" id="aa08362_html_a4de5d725a22f0a8ae4bb83cb51a72588"><div class="ttname"><a href="../../d3/d25/a08362.html#a4de5d725a22f0a8ae4bb83cb51a72588">PackedGuidReader::Guid</a></div><div class="ttdeci">ObjectGuid &amp; Guid</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:114</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a0cb5fc09a4171b42fdd59c065720bcae" name="a0cb5fc09a4171b42fdd59c065720bcae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0cb5fc09a4171b42fdd59c065720bcae">&#9670;&#160;</a></span>operator()()</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a4de5d725a22f0a8ae4bb83cb51a72588" name="a4de5d725a22f0a8ae4bb83cb51a72588"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4de5d725a22f0a8ae4bb83cb51a72588">&#9670;&#160;</a></span>Guid</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool SpellModPred::operator() </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d6b/a08378.html">SpellModifier</a> const *&#160;</td>
-          <td class="paramname"><em>a</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d6b/a08378.html">SpellModifier</a> const *&#160;</td>
-          <td class="paramname"><em>b</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
+          <td class="memname"><a class="el" href="../../db/de7/a08366.html">ObjectGuid</a>&amp; PackedGuidReader::Guid</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9902</span>    {</div>
-<div class="line"><span class="lineno"> 9903</span>        <span class="keywordflow">if</span> (a-&gt;type != b-&gt;type)</div>
-<div class="line"><span class="lineno"> 9904</span>            <span class="keywordflow">return</span> a-&gt;type == <a class="code hl_enumvalue" href="../../dc/dd9/a01268.html#a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7">SPELLMOD_FLAT</a>;</div>
-<div class="line"><span class="lineno"> 9905</span>        <span class="keywordflow">return</span> a-&gt;value &lt; b-&gt;value;</div>
-<div class="line"><span class="lineno"> 9906</span>    }</div>
-<div class="ttc" id="aa01268_html_a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7"><div class="ttname"><a href="../../dc/dd9/a01268.html#a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7">SPELLMOD_FLAT</a></div><div class="ttdeci">@ SPELLMOD_FLAT</div><div class="ttdef"><b>Definition:</b> Player.h:93</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00093">SPELLMOD_FLAT</a>, <a class="el" href="../../#l00184">SpellModifier::type</a>, and <a class="el" href="../../#l00186">SpellModifier::value</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00087">operator&gt;&gt;()</a>.</p>
 
 </div>
 </div>
@@ -196,8 +176,8 @@ Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d25/a08362.html">SpellModPred</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:45:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d25/a08362.html">PackedGuidReader</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:43:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

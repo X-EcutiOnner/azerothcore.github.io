@@ -1,8 +1,7 @@
 var a25378 =
 [
-    [ "CheckProc", "d6/d42/a25378.html#a06d76f258699bd4f78834ef33752a351", null ],
-    [ "HandleProc", "d6/d42/a25378.html#af22f22cbc38fabe4181b853727df83f8", null ],
-    [ "PrepareAuraScript", "d6/d42/a25378.html#adbc2bc54974837a9784cbf8b30ef2c1e", null ],
-    [ "Register", "d6/d42/a25378.html#a8db2cf628d44fa962bb3889b20f5dfb1", null ],
-    [ "Validate", "d6/d42/a25378.html#aa5604d45c0c11bef130d9242c4357163", null ]
+    [ "CalculateDamageAmount", "d6/d42/a25378.html#a2f608e8391e61434ef1b164c023854fe", null ],
+    [ "CalculateManaLeechAmount", "d6/d42/a25378.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
+    [ "PrepareAuraScript", "d6/d42/a25378.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
+    [ "Register", "d6/d42/a25378.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
 ];

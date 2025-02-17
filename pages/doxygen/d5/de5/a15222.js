@@ -1,7 +1,6 @@
 var a15222 =
 [
-    [ "npc_giant_spotlightAI", "d5/de5/a15222.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "d5/de5/a15222.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "d5/de5/a15222.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "d5/de5/a15222.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "npc_rabid_thistle_bearAI", "d6/dd4/a15226.html", "d6/dd4/a15226" ],
+    [ "npc_rabid_thistle_bear", "d5/de5/a15222.html#a34b20a4ea22d74352712dee105247d56", null ],
+    [ "GetAI", "d5/de5/a15222.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
 ];

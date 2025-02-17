@@ -1,8 +1,9 @@
 var a26398 =
 [
-    [ "CheckFireTotem", "dd/d15/a26398.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
-    [ "HandleDummy", "dd/d15/a26398.html#a179d07e7090cec396a7845754e545e8e", null ],
-    [ "PrepareSpellScript", "dd/d15/a26398.html#a8311cc106da26267e90acd98698cb737", null ],
-    [ "Register", "dd/d15/a26398.html#abae5a4961888e6ba2d876e450307e362", null ],
-    [ "Validate", "dd/d15/a26398.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
+    [ "HandleAfterHit", "dd/d15/a26398.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
+    [ "HandleBeforeHit", "dd/d15/a26398.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
+    [ "Load", "dd/d15/a26398.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
+    [ "PrepareSpellScript", "dd/d15/a26398.html#a496c27472579be3b8989868765ec19ef", null ],
+    [ "Register", "dd/d15/a26398.html#a133e338413e960c442446a2a4a13b85b", null ],
+    [ "_stackAmount", "dd/d15/a26398.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
 ];

@@ -1,9 +1,6 @@
 var a22086 =
 [
-    [ "HandleFinish", "d6/d1a/a22086.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "d6/d1a/a22086.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "d6/d1a/a22086.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "d6/d1a/a22086.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "d6/d1a/a22086.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "d6/d1a/a22086.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "npc_time_lost_proto_drakeAI", "db/d79/a22090.html", "db/d79/a22090" ],
+    [ "npc_time_lost_proto_drake", "d6/d1a/a22086.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "d6/d1a/a22086.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

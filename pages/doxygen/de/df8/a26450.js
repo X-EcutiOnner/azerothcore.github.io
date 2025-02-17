@@ -1,6 +1,6 @@
 var a26450 =
 [
-    [ "CheckProc", "de/df8/a26450.html#a945c4617cba249ee76045ce032f12c3c", null ],
-    [ "PrepareAuraScript", "de/df8/a26450.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
-    [ "Register", "de/df8/a26450.html#a912dd7ea10038103bb6d242bb7723830", null ]
+    [ "HandleAfterCast", "de/df8/a26450.html#a6f21938e84e45848fad74a16f1f52c48", null ],
+    [ "PrepareSpellScript", "de/df8/a26450.html#ac7abeee05c117595696faf1ec55e11bd", null ],
+    [ "Register", "de/df8/a26450.html#a9e90a6fa037627ac682f4ea050f557de", null ]
 ];

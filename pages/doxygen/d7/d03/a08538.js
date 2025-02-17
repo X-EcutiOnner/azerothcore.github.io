@@ -1,11 +1,7 @@
 var a08538 =
 [
-    [ "UnitActionBarEntry", "d7/d03/a08538.html#a41f9020c4811b14fc543ddece6af86d7", null ],
-    [ "GetAction", "d7/d03/a08538.html#afd77e2f64ec856059759d05ddf77876e", null ],
-    [ "GetType", "d7/d03/a08538.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
-    [ "IsActionBarForSpell", "d7/d03/a08538.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
-    [ "SetAction", "d7/d03/a08538.html#aa00953783b0b3de3beb755a054c77730", null ],
-    [ "SetActionAndType", "d7/d03/a08538.html#a110840d38445795957ee0425175b4fb6", null ],
-    [ "SetType", "d7/d03/a08538.html#a38e0dcad391d09e475f90be5a5382f78", null ],
-    [ "packedData", "d7/d03/a08538.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
+    [ "ItemPosCount", "d7/d03/a08538.html#a43458da1fc31d827b6de726754f7901e", null ],
+    [ "isContainedIn", "d7/d03/a08538.html#a6977c544a2d39ca5872b75f27517974f", null ],
+    [ "count", "d7/d03/a08538.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
+    [ "pos", "d7/d03/a08538.html#ad8954f1a6323316510cfe0f332ee495f", null ]
 ];

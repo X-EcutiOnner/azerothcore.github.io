@@ -1,6 +1,5 @@
 var a10686 =
 [
-    [ "PetStopAttack", "de/d2a/a10686.html#a4a68127f3290d4f2e288600757dd3282", null ],
-    [ "Read", "de/d2a/a10686.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
-    [ "PetGUID", "de/d2a/a10686.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
+    [ "LFGLeave", "de/d2a/a10686.html#aba31f53e0e13c13fd96f1b6ea1d42310", null ],
+    [ "Read", "de/d2a/a10686.html#abae9c55efce73edf5edf1940cb8b61eb", null ]
 ];

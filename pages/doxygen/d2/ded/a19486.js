@@ -1,6 +1,6 @@
 var a19486 =
 [
-    [ "npc_assembly_lightningAI", "dc/db8/a19490.html", "dc/db8/a19490" ],
-    [ "npc_assembly_lightning", "d2/ded/a19486.html#ac9776fc8cb3dd3f8bfecb1d367afefd2", null ],
-    [ "GetAI", "d2/ded/a19486.html#a4054ea8bb68b2742847b359e19b477df", null ]
+    [ "HandleApplyTouch", "d2/ded/a19486.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "d2/ded/a19486.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "d2/ded/a19486.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

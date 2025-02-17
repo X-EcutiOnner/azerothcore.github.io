@@ -1,7 +1,5 @@
 var a12262 =
 [
-    [ "HandleScript", "da/d0a/a12262.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
-    [ "PrepareSpellScript", "da/d0a/a12262.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
-    [ "Register", "da/d0a/a12262.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
-    [ "Validate", "da/d0a/a12262.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
+    [ "at_orb_of_command", "da/d0a/a12262.html#a1f0b196362b76e050eba66d3ce612623", null ],
+    [ "OnTrigger", "da/d0a/a12262.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
 ];

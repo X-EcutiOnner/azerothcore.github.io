@@ -1,5 +1,4 @@
 var a07578 =
 [
-    [ "IsColorValid", "df/d2f/a07578.html#ab291dc8bdb852a8386c2a3d1bd18cfad", null ],
-    [ "IsTextValid", "df/d2f/a07578.html#ab9c8e4926f593058bf247f33b6089bc3", null ]
+    [ "TryConsume", "df/d2f/a07578.html#a8a72f0b40aea9bf9d965bbbbe8a6cc82", null ]
 ];

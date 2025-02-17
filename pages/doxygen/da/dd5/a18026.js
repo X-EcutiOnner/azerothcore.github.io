@@ -1,6 +1,6 @@
 var a18026 =
 [
-    [ "ModDest", "da/dd5/a18026.html#a71638bdecb0f580dceff7858441056d8", null ],
-    [ "PrepareSpellScript", "da/dd5/a18026.html#a741227928e07585b156ec716ae8b13da", null ],
-    [ "Register", "da/dd5/a18026.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
+    [ "LichKingMovieEvent", "da/dd5/a18026.html#a3e48e13dc5166c73a9f379045988f86a", null ],
+    [ "Execute", "da/dd5/a18026.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
+    [ "_owner", "da/dd5/a18026.html#a7ed68f442a644d6bb7a036812351d89e", null ]
 ];

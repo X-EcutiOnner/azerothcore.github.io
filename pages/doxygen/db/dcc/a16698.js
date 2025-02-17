@@ -1,18 +1,12 @@
 var a16698 =
 [
-    [ "boss_garfrostAI", "db/dcc/a16698.html#af9f0a6bc8b982b025312d6b2c1f91549", null ],
-    [ "DamageTaken", "db/dcc/a16698.html#a7a033f54f2c994c74b7125fb549af513", null ],
-    [ "EnterEvadeMode", "db/dcc/a16698.html#acca25c3bf34760ed1f0e451d8d304ab6", null ],
-    [ "JustDied", "db/dcc/a16698.html#a6439d3163c49973b36ae10c85b9dd11e", null ],
-    [ "JustEngagedWith", "db/dcc/a16698.html#a06e1b8d8e0b1f0fd5fac0b2a4bad4ad6", null ],
-    [ "KilledUnit", "db/dcc/a16698.html#af3751410e925a20c21b282d1b2de3bf3", null ],
-    [ "MovementInform", "db/dcc/a16698.html#aadebdb2dd4402be150711f98dfab3f5f", null ],
-    [ "Reset", "db/dcc/a16698.html#a916fd78cf3fd309ab8b13c96325002f2", null ],
-    [ "SetData", "db/dcc/a16698.html#a3563e70e731836857837b1d4ac135130", null ],
-    [ "SpellHitTarget", "db/dcc/a16698.html#ab7a4941d3d4565215ab3ac200ee1d534", null ],
-    [ "UpdateAI", "db/dcc/a16698.html#a27cf76c48504dfb21f1a4a0caf9dd4cb", null ],
-    [ "bCanSayBoulderHit", "db/dcc/a16698.html#a587196314c341334418ea19c7f9ea597", null ],
-    [ "events", "db/dcc/a16698.html#addafeb61c54f95e71d9c45de3bddd25b", null ],
-    [ "phase", "db/dcc/a16698.html#a917a6a57e8c55b9be92f01e2e7422508", null ],
-    [ "pInstance", "db/dcc/a16698.html#a57ded0b0c7085ea978c01efa28e7d096", null ]
+    [ "npc_phantom_mageAI", "db/dcc/a16698.html#ac919dc1ba167cc68714320f9351b99d0", null ],
+    [ "AttackStart", "db/dcc/a16698.html#ade9ba7071cff655f2c0133481cb9c2bc", null ],
+    [ "DoAction", "db/dcc/a16698.html#a6c66df8b8e59a9dc62f1f944da2afc2c", null ],
+    [ "EnterEvadeMode", "db/dcc/a16698.html#a6ca0be233e8866b6154fa6e7164b856d", null ],
+    [ "JustDied", "db/dcc/a16698.html#a3a522e4c741bc321469ed87c10cf7904", null ],
+    [ "JustEngagedWith", "db/dcc/a16698.html#a5a1bf4aaf716674a63e31d24ae4a5d7c", null ],
+    [ "Reset", "db/dcc/a16698.html#a5c29c8d54956a0917df3997118348590", null ],
+    [ "UpdateAI", "db/dcc/a16698.html#a7135acfbc36212306a68fc8b758e2881", null ],
+    [ "events", "db/dcc/a16698.html#afa0f0b5cac0759db324cea7c64463f75", null ]
 ];

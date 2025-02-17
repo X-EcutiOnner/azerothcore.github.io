@@ -1,6 +1,8 @@
 var a17462 =
 [
-    [ "npc_vengeful_shadeAI", "dc/d19/a17466.html", "dc/d19/a17466" ],
-    [ "npc_vengeful_shade", "d4/da1/a17462.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "d4/da1/a17462.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "HandlePeriodic", "d4/da1/a17462.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "d4/da1/a17462.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "d4/da1/a17462.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "d4/da1/a17462.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "d4/da1/a17462.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

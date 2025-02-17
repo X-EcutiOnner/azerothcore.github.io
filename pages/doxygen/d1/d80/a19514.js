@@ -1,6 +1,9 @@
 var a19514 =
 [
-    [ "achievement_assembly_of_iron", "d1/d80/a19514.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "d1/d80/a19514.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "d1/d80/a19514.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "npc_brann_bronzebeard_algalonAI", "d1/d80/a19514.html#a5ab0ff088866cf9d6af99ee3f42e897a", null ],
+    [ "DoAction", "d1/d80/a19514.html#a9de9e9b19b8a635ec4bc0a4f8c8d13c6", null ],
+    [ "MovementInform", "d1/d80/a19514.html#a7f8d3efed49f0d43a5e9e73ee8bd36e0", null ],
+    [ "UpdateAI", "d1/d80/a19514.html#a16e3fcd7f082e04f648d2341a7e83cba", null ],
+    [ "_currentPoint", "d1/d80/a19514.html#ae9da41b5b4cae16e1ed4709ab41b8964", null ],
+    [ "events", "d1/d80/a19514.html#ab71b71ac63517349cb8702bb29d76334", null ]
 ];

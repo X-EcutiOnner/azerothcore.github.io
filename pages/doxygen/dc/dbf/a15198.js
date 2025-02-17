@@ -1,6 +1,6 @@
 var a15198 =
 [
-    [ "npc_silva_filnaveth", "dc/dbf/a15198.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "dc/dbf/a15198.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "dc/dbf/a15198.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npc_murkdeepAI", "d6/d55/a15202.html", "d6/d55/a15202" ],
+    [ "npc_murkdeep", "dc/dbf/a15198.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
+    [ "GetAI", "dc/dbf/a15198.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
 ];

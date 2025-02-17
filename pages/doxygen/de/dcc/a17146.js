@@ -1,12 +1,13 @@
 var a17146 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "de/dcc/a17146.html#a4313164857ebd174fe33a9a16340b332", null ],
-    [ "DoAction", "de/dcc/a17146.html#a16eeb7d0ed6c943c088285462131cd51", null ],
-    [ "MovementInform", "de/dcc/a17146.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
-    [ "Reset", "de/dcc/a17146.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
-    [ "SpellHit", "de/dcc/a17146.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
-    [ "UpdateAI", "de/dcc/a17146.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
-    [ "_events", "de/dcc/a17146.html#ae7079b335373cc06a040756328e7f714", null ],
-    [ "_guardList", "de/dcc/a17146.html#a1cbd87af34584979b37dfff8b29f9623", null ],
-    [ "_instance", "de/dcc/a17146.html#af1d8694678b10e5393c658ba0b20f47a", null ]
+    [ "npc_kinetic_bombAI", "de/dcc/a17146.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
+    [ "DoAction", "de/dcc/a17146.html#a52e913b244e58f99745926d021dc0d95", null ],
+    [ "IsSummonedBy", "de/dcc/a17146.html#a03dc3870b23105bb1d0d207adefe2541", null ],
+    [ "Reset", "de/dcc/a17146.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
+    [ "UpdateAI", "de/dcc/a17146.html#a1ce9bf99879796652878990a773e6a2c", null ],
+    [ "_events", "de/dcc/a17146.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
+    [ "_groundZ", "de/dcc/a17146.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
+    [ "_x", "de/dcc/a17146.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
+    [ "_y", "de/dcc/a17146.html#a5d9f4039c87e1e57234af51cd4617022", null ],
+    [ "exploded", "de/dcc/a17146.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
 ];

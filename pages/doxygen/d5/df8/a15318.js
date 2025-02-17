@@ -1,9 +1,6 @@
 var a15318 =
 [
-    [ "npc_custodian_of_timeAI", "d5/df8/a15318.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
-    [ "JustEngagedWith", "d5/df8/a15318.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
-    [ "MoveInLineOfSight", "d5/df8/a15318.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
-    [ "Reset", "d5/df8/a15318.html#a56bcc694ac286488ed4b3f2328c30573", null ],
-    [ "UpdateAI", "d5/df8/a15318.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
-    [ "WaypointReached", "d5/df8/a15318.html#a963736e62fbd0caea631ee3fb69fca46", null ]
+    [ "npc_great_bear_spirit", "d5/df8/a15318.html#a141470a3623aa1152d3505661f1532c8", null ],
+    [ "OnGossipHello", "d5/df8/a15318.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
+    [ "OnGossipSelect", "d5/df8/a15318.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
 ];

@@ -1,7 +1,7 @@
 var a24838 =
 [
-    [ "HandleDummy", "dd/dfc/a24838.html#ab00358dc50fa943685fdd87e5a8ac224", null ],
-    [ "Load", "dd/dfc/a24838.html#a31075533c24011797bd0f99dce5e8330", null ],
-    [ "PrepareSpellScript", "dd/dfc/a24838.html#abf0acc8765f6e02674b8e93aca575a98", null ],
-    [ "Register", "dd/dfc/a24838.html#ad1bd05a154b506424954ef879e5b9fba", null ]
+    [ "HandleProc", "dd/dfc/a24838.html#af768269d315e998fc2042794c3a03b58", null ],
+    [ "PrepareAuraScript", "dd/dfc/a24838.html#ae3da67d626ee11c57a85a3af99ff07a5", null ],
+    [ "Register", "dd/dfc/a24838.html#a2df1cff47861cbf3198e573c6031b54e", null ],
+    [ "Validate", "dd/dfc/a24838.html#a84f40eec148c55108085db5e7b05cb0e", null ]
 ];

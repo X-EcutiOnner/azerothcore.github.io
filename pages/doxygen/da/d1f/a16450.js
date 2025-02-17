@@ -1,7 +1,9 @@
 var a16450 =
 [
-    [ "HandleEffectRemove", "da/d1f/a16450.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
-    [ "Load", "da/d1f/a16450.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
-    [ "PrepareAuraScript", "da/d1f/a16450.html#a97411ddf89a10a962ba74d294eb653e7", null ],
-    [ "Register", "da/d1f/a16450.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
+    [ "npc_concentrated_ballAI", "da/d1f/a16450.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
+    [ "DoAction", "da/d1f/a16450.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
+    [ "MovementInform", "da/d1f/a16450.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
+    [ "MoveToNextPoint", "da/d1f/a16450.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
+    [ "UpdateAI", "da/d1f/a16450.html#a6509ff14639bca29b6877db54102d004", null ],
+    [ "despawning", "da/d1f/a16450.html#a24145c6c4c38b5a1853647d24871090d", null ]
 ];

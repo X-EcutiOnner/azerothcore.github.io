@@ -1,7 +1,6 @@
 var a08962 =
 [
-    [ "CreatureRelocationNotifier", "dd/da9/a08962.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
-    [ "Visit", "dd/da9/a08962.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
-    [ "Visit", "dd/da9/a08962.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
-    [ "i_creature", "dd/da9/a08962.html#a3116f6245816ba8fb9edb5995faa9927", null ]
+    [ "EmoteDelay", "dd/da9/a08962.html#a053adbedc95026b192360e13d32c9401", null ],
+    [ "EmoteType", "dd/da9/a08962.html#aa5189cb250b3f46086ecd69dee23414b", null ],
+    [ "Greeting", "dd/da9/a08962.html#a84aa5fced9b8989487d1468c4eccb976", null ]
 ];

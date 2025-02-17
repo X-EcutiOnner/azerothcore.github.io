@@ -1,9 +1,9 @@
 var a21762 =
 [
-    [ "npc_lord_areteAI", "d7/d5f/a21762.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "d7/d5f/a21762.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "d7/d5f/a21762.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "d7/d5f/a21762.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "d7/d5f/a21762.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "d7/d5f/a21762.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "npc_wounded_skirmisher", "d7/d5f/a21762.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "d7/d5f/a21762.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "d7/d5f/a21762.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "d7/d5f/a21762.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "d7/d5f/a21762.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "d7/d5f/a21762.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

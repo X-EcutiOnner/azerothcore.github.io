@@ -1,6 +1,8 @@
 var a18534 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "d4/d4f/a18538.html", "d4/d4f/a18538" ],
-    [ "npc_icc_vengeful_fleshreaper", "df/d79/a18534.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
-    [ "GetAI", "df/d79/a18534.html#abf1903616dbf52718313c8b404b504a5", null ]
+    [ "CountTargets", "df/d79/a18534.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "df/d79/a18534.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "df/d79/a18534.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "df/d79/a18534.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "df/d79/a18534.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

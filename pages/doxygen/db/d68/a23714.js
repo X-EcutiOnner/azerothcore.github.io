@@ -1,9 +1,6 @@
 var a23714 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "db/d68/a23714.html#a273d585416dc92d39d5ec3824c08504d", null ],
-    [ "IsSummonedBy", "db/d68/a23714.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
-    [ "Reset", "db/d68/a23714.html#a06fa50580efeab8d847a05f20956d175", null ],
-    [ "UpdateAI", "db/d68/a23714.html#a8261a259cfbee0d3610ee441406fafcd", null ],
-    [ "playerGuid", "db/d68/a23714.html#aab717dd49284c483759a6223dbd7e6ea", null ],
-    [ "timer", "db/d68/a23714.html#afba1b71178c563a3db906057cd20de45", null ]
+    [ "instance_the_eye_InstanceMapScript", "d0/d96/a23718.html", "d0/d96/a23718" ],
+    [ "instance_the_eye", "db/d68/a23714.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "db/d68/a23714.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

@@ -1,6 +1,11 @@
 var a13390 =
 [
-    [ "npc_tyrion_spybotAI", "df/dee/a13394.html", "df/dee/a13394" ],
-    [ "npc_tyrion_spybot", "dc/df2/a13390.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
-    [ "GetAI", "dc/df2/a13390.html#af81b70437703edc8d99fe24249891dd6", null ]
+    [ "npc_balance_of_light_and_shadowAI", "dc/df2/a13390.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
+    [ "CanBeSeen", "dc/df2/a13390.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
+    [ "JustDied", "dc/df2/a13390.html#ae862f8763614a98dae6b982414caf30a", null ],
+    [ "MovementInform", "dc/df2/a13390.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
+    [ "SpellHit", "dc/df2/a13390.html#abfddfff72b63fd05673584915d647958", null ],
+    [ "UpdateAI", "dc/df2/a13390.html#a540e3c28cc36917cde0153dd372d0287", null ],
+    [ "_targetGUID", "dc/df2/a13390.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
+    [ "timer", "dc/df2/a13390.html#a204e0a809e9c392f20ec900e9a90a075", null ]
 ];

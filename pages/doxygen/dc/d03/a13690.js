@@ -1,5 +1,16 @@
 var a13690 =
 [
-    [ "at_zulgurub_bridge_speech", "dc/d03/a13690.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "dc/d03/a13690.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
+    [ "boss_zuljin", "dc/d03/a13690.html#a8acdf347d7f982c07614c89a101daae0", null ],
+    [ "EnterEvadeMode", "dc/d03/a13690.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
+    [ "EnterPhase", "dc/d03/a13690.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
+    [ "GetGUID", "dc/d03/a13690.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
+    [ "JustDied", "dc/d03/a13690.html#a2e00e8311c0463a37de87668882ffeec", null ],
+    [ "JustEngagedWith", "dc/d03/a13690.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
+    [ "KilledUnit", "dc/d03/a13690.html#adf220cb760b77cfd09ed746705529064", null ],
+    [ "MovementInform", "dc/d03/a13690.html#a61501941861f8838392fc8cdbe59feff", null ],
+    [ "Reset", "dc/d03/a13690.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
+    [ "SpawnAdds", "dc/d03/a13690.html#a83eb0799a25f19eedddd96e609134778", null ],
+    [ "SpellHitTarget", "dc/d03/a13690.html#aab3558edc5b90be23040077d88e21725", null ],
+    [ "_chargeTargetGUID", "dc/d03/a13690.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
+    [ "_nextPhase", "dc/d03/a13690.html#a4fc9983cb34313affa56c243a4164a4a", null ]
 ];

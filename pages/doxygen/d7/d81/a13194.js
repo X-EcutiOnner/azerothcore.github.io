@@ -1,7 +1,6 @@
 var a13194 =
 [
-    [ "HandleAfterCast", "d7/d81/a13194.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "d7/d81/a13194.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "d7/d81/a13194.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "d7/d81/a13194.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "SpectralBlastCheck", "d7/d81/a13194.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
+    [ "operator()", "d7/d81/a13194.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
+    [ "_victim", "d7/d81/a13194.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
 ];

@@ -1,7 +1,6 @@
 var a23362 =
 [
-    [ "FilterTargets", "d3/df6/a23362.html#a834163302ff10875227806d7d4945988", null ],
-    [ "HandleScriptEffect", "d3/df6/a23362.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
-    [ "PrepareSpellScript", "d3/df6/a23362.html#a079e72d57550e03956088b4be1d11422", null ],
-    [ "Register", "d3/df6/a23362.html#abd4e0f268652652d3828ba8d350de849", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "d2/dd3/a23366.html", "d2/dd3/a23366" ],
+    [ "instance_blood_furnace", "d3/df6/a23362.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "d3/df6/a23362.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

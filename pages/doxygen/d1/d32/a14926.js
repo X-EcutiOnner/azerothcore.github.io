@@ -1,13 +1,13 @@
 var a14926 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d1/d32/a14926.html#a454f677dddce956534d6f5a253ed587b", null ],
-    [ "GetData", "d1/d32/a14926.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
-    [ "Initialize", "d1/d32/a14926.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
-    [ "OnCreatureCreate", "d1/d32/a14926.html#affc7045f944251fb27683133f511029f", null ],
-    [ "OnGameObjectCreate", "d1/d32/a14926.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
-    [ "OnUnitDeath", "d1/d32/a14926.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
-    [ "SetBossState", "d1/d32/a14926.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
-    [ "SetData", "d1/d32/a14926.html#a25f4e12aad6325e87b31770c1243d746", null ],
-    [ "BugTrioDeathCount", "d1/d32/a14926.html#aab0191f5b31264f0632a24df0607d05b", null ],
-    [ "CThunGraspGUIDs", "d1/d32/a14926.html#aea180c0b623e919f56f9210ce15724e8", null ]
+    [ "boss_cthun", "d1/d32/a14926.html#a287ee7b65708971e4fdfa7b814486935", null ],
+    [ "DoAction", "d1/d32/a14926.html#a04ae38b67d358f1d34820b855aab3869", null ],
+    [ "JustDied", "d1/d32/a14926.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
+    [ "JustEngagedWith", "d1/d32/a14926.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
+    [ "Reset", "d1/d32/a14926.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
+    [ "ScheduleTasks", "d1/d32/a14926.html#a5a0514e56217bb3b30b22b2681542adb", null ],
+    [ "SummonedCreatureDies", "d1/d32/a14926.html#a49d76bb4cf30ee66fae6114313394961", null ],
+    [ "UpdateAI", "d1/d32/a14926.html#a7d2685597f1eec2459fe509e5b97681f", null ],
+    [ "_fleshTentaclesKilled", "d1/d32/a14926.html#a139de83ae488c40d40a4587509cd197d", null ],
+    [ "WisperTimer", "d1/d32/a14926.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
 ];

@@ -1,6 +1,6 @@
 var a15630 =
 [
-    [ "boss_krik_thirAI", "dc/d38/a15634.html", "dc/d38/a15634" ],
-    [ "boss_krik_thir", "da/d48/a15630.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "da/d48/a15630.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "HandleApply", "da/d48/a15630.html#aee4d5908035d06be2f1469a50db02e26", null ],
+    [ "PrepareAuraScript", "da/d48/a15630.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
+    [ "Register", "da/d48/a15630.html#ac83962bef84b68cef6d7937769730598", null ]
 ];

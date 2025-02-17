@@ -1,5 +1,7 @@
 var a22046 =
 [
-    [ "npc_wg_spirit_guideAI", "dd/d1c/a22046.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "dd/d1c/a22046.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "HandleSendEvent", "dd/d1c/a22046.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
+    [ "PrepareSpellScript", "dd/d1c/a22046.html#af698a946e07235c18c8b785a1f775ec9", null ],
+    [ "Register", "dd/d1c/a22046.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
+    [ "Validate", "dd/d1c/a22046.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
 ];

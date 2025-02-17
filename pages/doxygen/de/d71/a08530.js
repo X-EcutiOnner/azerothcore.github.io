@@ -1,6 +1,6 @@
 var a08530 =
 [
-    [ "GlobalCooldown", "de/d71/a08530.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
-    [ "cast_time", "de/d71/a08530.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
-    [ "duration", "de/d71/a08530.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
+    [ "SkillStatusData", "de/d71/a08530.html#a7594ceb20110da34f3aa68ac69996b94", null ],
+    [ "pos", "de/d71/a08530.html#a51ccb328b807f2c7fd275d843218f466", null ],
+    [ "uState", "de/d71/a08530.html#a232801ad25897a82739916d5be4fdc22", null ]
 ];

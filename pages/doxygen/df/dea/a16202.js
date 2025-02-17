@@ -1,6 +1,7 @@
 var a16202 =
 [
-    [ "npc_toc_pet_warlockAI", "db/d43/a16206.html", "db/d43/a16206" ],
-    [ "npc_toc_pet_warlock", "df/dea/a16202.html#a4703f506d677d7e490c6813c6d9b060b", null ],
-    [ "GetAI", "df/dea/a16202.html#aebcaff82726508a14028cb22a1ef944b", null ]
+    [ "HandleEffectPeriodic", "df/dea/a16202.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "df/dea/a16202.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "df/dea/a16202.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "df/dea/a16202.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

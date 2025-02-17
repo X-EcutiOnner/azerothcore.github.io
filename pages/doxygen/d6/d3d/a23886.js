@@ -1,6 +1,6 @@
 var a23886 =
 [
-    [ "npc_dragonmaw_peonAI", "d6/d23/a23890.html", "d6/d23/a23890" ],
-    [ "npc_dragonmaw_peon", "d6/d3d/a23886.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "d6/d3d/a23886.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "go_magtheridons_head", "d6/d3d/a23886.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "d6/d3d/a23886.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "d6/d3d/a23886.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

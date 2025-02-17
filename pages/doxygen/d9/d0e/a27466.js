@@ -1,7 +1,9 @@
 var a27466 =
 [
-    [ "npc_sayge", "d9/d0e/a27466.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "d9/d0e/a27466.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "d9/d0e/a27466.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "d9/d0e/a27466.html#aed1988335672423d024546654aa95298", null ]
+    [ "npc_fireworkAI", "d9/d0e/a27466.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "d9/d0e/a27466.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "d9/d0e/a27466.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "d9/d0e/a27466.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "d9/d0e/a27466.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "d9/d0e/a27466.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

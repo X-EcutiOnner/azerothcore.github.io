@@ -1,7 +1,6 @@
 var a08618 =
 [
-    [ "HealthPctOrderPred", "dc/d26/a08618.html#a5c83c0ba35b9febbe6a62dae63995f97", null ],
-    [ "operator()", "dc/d26/a08618.html#a2c7f4043e5268b13bf0d9f46e9709a9b", null ],
-    [ "operator()", "dc/d26/a08618.html#a23f2dc594fd531d02cd6eae0faa7f6b7", null ],
-    [ "_ascending", "dc/d26/a08618.html#a4c34feefafc014b50ba2869a9bdb9959", null ]
+    [ "GlobalCooldown", "dc/d26/a08618.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
+    [ "cast_time", "dc/d26/a08618.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
+    [ "duration", "dc/d26/a08618.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
 ];

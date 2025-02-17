@@ -1,7 +1,7 @@
 var a11254 =
 [
-    [ "PlayerDumpReader", "d1/d17/a11254.html#ad630b61e298fb1ddf165481c9a14e077", null ],
-    [ "LoadDump", "d1/d17/a11254.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
-    [ "LoadDumpFromFile", "d1/d17/a11254.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
-    [ "LoadDumpFromString", "d1/d17/a11254.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
+    [ "EffectApplyHandler", "d1/d17/a11254.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "d1/d17/a11254.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "d1/d17/a11254.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "d1/d17/a11254.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

@@ -1,12 +1,4 @@
 var a10770 =
 [
-    [ "PacketLog", "dd/d60/a10770.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
-    [ "~PacketLog", "dd/d60/a10770.html#a595a42f9aaa94d6c46d185955df801e0", null ],
-    [ "CanLogPacket", "dd/d60/a10770.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
-    [ "Initialize", "dd/d60/a10770.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
-    [ "instance", "dd/d60/a10770.html#a484418a51ca0bf150d17b23d97979bf4", null ],
-    [ "LogPacket", "dd/d60/a10770.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
-    [ "_file", "dd/d60/a10770.html#a03346a709f7586f6445e03b9a3b6af04", null ],
-    [ "_initializeFlag", "dd/d60/a10770.html#a490cafe009f7b2ecb303a76c781f8960", null ],
-    [ "_logPacketLock", "dd/d60/a10770.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
+    [ "Validate", "dd/d60/a10770.html#a33ba7592ac6571144fc3a7385dbc49f0", null ]
 ];

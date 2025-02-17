@@ -1,7 +1,9 @@
 var a21470 =
 [
-    [ "CheckCast", "d2/d4e/a21470.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "d2/d4e/a21470.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "d2/d4e/a21470.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "d2/d4e/a21470.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "npc_counselor_talbotAI", "d2/d4e/a21470.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
+    [ "JustDied", "d2/d4e/a21470.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
+    [ "JustEngagedWith", "d2/d4e/a21470.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
+    [ "Reset", "d2/d4e/a21470.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
+    [ "UpdateAI", "d2/d4e/a21470.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
+    [ "_events", "d2/d4e/a21470.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
 ];

@@ -1,6 +1,8 @@
 var a15014 =
 [
-    [ "npc_draenei_survivorAI", "d2/d16/a15018.html", "d2/d16/a15018" ],
-    [ "npc_draenei_survivor", "d8/db2/a15014.html#a1dca668a7c3f868677a9bf306288430c", null ],
-    [ "GetAI", "d8/db2/a15014.html#aa8dde30279bb898a4412491faca79267", null ]
+    [ "boss_veklor", "d8/db2/a15014.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d8/db2/a15014.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d8/db2/a15014.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d8/db2/a15014.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d8/db2/a15014.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

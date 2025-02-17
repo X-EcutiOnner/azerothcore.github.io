@@ -1,12 +1,13 @@
 var a22954 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d6/db4/a22954.html#a3e83985648f2951ee33d440c9c98bf72", null ],
-    [ "GetData", "d6/db4/a22954.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
-    [ "Initialize", "d6/db4/a22954.html#a8a2214e169acace8578c1863daf0a04c", null ],
-    [ "OnCreatureCreate", "d6/db4/a22954.html#ae5f77169c337420852962fe7ddba3006", null ],
-    [ "OnGameObjectCreate", "d6/db4/a22954.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
-    [ "SetBossState", "d6/db4/a22954.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
-    [ "SetData", "d6/db4/a22954.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
-    [ "_aliveKeepersCount", "d6/db4/a22954.html#a85b7cbeab4149b0a379f27bdb459cfd7", null ],
-    [ "_shieldGeneratorGUID", "d6/db4/a22954.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
+    [ "boss_fathomguard_caribdis", "d6/db4/a22954.html#a9172b9717e5137ddde7df38bb237478c", null ],
+    [ "EnterEvadeMode", "d6/db4/a22954.html#aa666a491a776b12a042ee140aedc95eb", null ],
+    [ "JustDied", "d6/db4/a22954.html#ab821365b35a48f70a11c6033fe2ca714", null ],
+    [ "JustEngagedWith", "d6/db4/a22954.html#a5503519998f51f475420ada2210f32f0", null ],
+    [ "JustSummoned", "d6/db4/a22954.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
+    [ "Reset", "d6/db4/a22954.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
+    [ "UpdateAI", "d6/db4/a22954.html#af4a544f37d178de21d84f2544f24431e", null ],
+    [ "_instance", "d6/db4/a22954.html#a73f567f2269aeca1435af82e1c6880e9", null ],
+    [ "_scheduler", "d6/db4/a22954.html#a08b01e9735e421d8d5bbc2b552217762", null ],
+    [ "_summons", "d6/db4/a22954.html#ac8b53cb81547a2423a13c997badb77e3", null ]
 ];

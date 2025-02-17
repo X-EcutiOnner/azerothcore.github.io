@@ -1,7 +1,7 @@
 var a26458 =
 [
-    [ "HandleAuraApply", "de/d10/a26458.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
-    [ "HandleAuraRemove", "de/d10/a26458.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
-    [ "PrepareAuraScript", "de/d10/a26458.html#a5c7d7c0b8880128121d66d39094f1965", null ],
-    [ "Register", "de/d10/a26458.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
+    [ "CheckProc", "de/d10/a26458.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
+    [ "HandleProc", "de/d10/a26458.html#a91ee1b654a3a26e027407635a45b80b3", null ],
+    [ "PrepareAuraScript", "de/d10/a26458.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
+    [ "Register", "de/d10/a26458.html#ab06a732203303d5533bdc4b217640d2d", null ]
 ];

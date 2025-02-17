@@ -1,14 +1,7 @@
 var a07890 =
 [
-    [ "GenerateArmor", "da/de7/a07890.html#ad197fff9ab9cd6b45ca703d656d1d930", null ],
-    [ "GenerateBaseDamage", "da/de7/a07890.html#aa11e229aed1ba159219e6d1a291b1c80", null ],
-    [ "GenerateHealth", "da/de7/a07890.html#ac8ec122f7d16f89b50301a636ebade6e", null ],
-    [ "GenerateMana", "da/de7/a07890.html#aa6f523ebb8ef75db99db555547fd55d7", null ],
-    [ "GetBaseStats", "da/de7/a07890.html#a72249bb49bbcf08708bd30fc61e2cdea", null ],
-    [ "AttackPower", "da/de7/a07890.html#a8108d924e4de3ba741749e9386085e4f", null ],
-    [ "BaseArmor", "da/de7/a07890.html#a9fed8e3227aa2ad7b40579b0be615030", null ],
-    [ "BaseDamage", "da/de7/a07890.html#a40f54b64689ca8c3d2b0de81384dbea9", null ],
-    [ "BaseHealth", "da/de7/a07890.html#a83cee007ec623b19bb2b002d16180d2d", null ],
-    [ "BaseMana", "da/de7/a07890.html#a204af635372cb4a2c6ede1f79579385c", null ],
-    [ "RangedAttackPower", "da/de7/a07890.html#a684901a59108e94987c23ad5085e306a", null ]
+    [ "LfgReward", "da/de7/a07890.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
+    [ "firstQuest", "da/de7/a07890.html#a28162b1e43a5309ab01ca99b45d29799", null ],
+    [ "maxLevel", "da/de7/a07890.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
+    [ "otherQuest", "da/de7/a07890.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
 ];

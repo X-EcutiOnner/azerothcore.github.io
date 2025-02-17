@@ -1,6 +1,6 @@
 var a14750 =
 [
-    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d8/d2f/a14754.html", "d8/d2f/a14754" ],
-    [ "instance_ruins_of_ahnqiraj", "d6/d25/a14750.html#adeacb1c68e4b12995a335d1bedde075a", null ],
-    [ "GetInstanceScript", "d6/d25/a14750.html#a6a661e961c2599498de0ccd41c0763b4", null ]
+    [ "npc_belnistraszAI", "d8/d2f/a14754.html", "d8/d2f/a14754" ],
+    [ "npc_belnistrasz", "d6/d25/a14750.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
+    [ "GetAI", "d6/d25/a14750.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
 ];

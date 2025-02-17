@@ -1,12 +1,9 @@
 var a13282 =
 [
-    [ "npc_eastvale_peasent", "d1/d6e/a13282.html#a5282dac41228569d4431d84c1f160f05", null ],
-    [ "Initialize", "d1/d6e/a13282.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
-    [ "PathEndReached", "d1/d6e/a13282.html#a002ec21e0715b020aa19cd0839408033", null ],
-    [ "Reset", "d1/d6e/a13282.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
-    [ "SetData", "d1/d6e/a13282.html#add14d9505880727e208e7ef9428f5acd", null ],
-    [ "UpdateAI", "d1/d6e/a13282.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
-    [ "_events", "d1/d6e/a13282.html#a1b310b07481366042dc45f7a27ce6408", null ],
-    [ "_path", "d1/d6e/a13282.html#a907db8e6148947248b5bcfdb35023e16", null ],
-    [ "_realenGUID", "d1/d6e/a13282.html#aad06364be8698b5ba69cd229e2a5085b", null ]
+    [ "boss_entropius", "d1/d6e/a13282.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "d1/d6e/a13282.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "d1/d6e/a13282.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "d1/d6e/a13282.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "d1/d6e/a13282.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "d1/d6e/a13282.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

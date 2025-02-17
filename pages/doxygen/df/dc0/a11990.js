@@ -1,12 +1,11 @@
 var a11990 =
 [
-    [ "go_suppression_deviceAI", "df/dc0/a11990.html#a32767442eeabab896032333e42d3e496", null ],
-    [ "Activate", "df/dc0/a11990.html#aa52ca9fb60793e33ae3fe911cd4be379", null ],
-    [ "Deactivate", "df/dc0/a11990.html#aec459270ff4965b79430c5bb66cb18f6", null ],
-    [ "DoAction", "df/dc0/a11990.html#a60bcafdf76e6735756a43c780bda7baf", null ],
-    [ "InitializeAI", "df/dc0/a11990.html#a1dd83a1e393ef47d8bd4917aff5df13f", null ],
-    [ "UpdateAI", "df/dc0/a11990.html#afaa70c968a0994fbcd01dd40b6d060a5", null ],
-    [ "_active", "df/dc0/a11990.html#a00fb57e180148622e564712611705218", null ],
-    [ "_events", "df/dc0/a11990.html#a0c6436834b4aca4bed2a8361941c553c", null ],
-    [ "_instance", "df/dc0/a11990.html#a69dbc36ce80cf12cdcee5c42fe4f0a72", null ]
+    [ "npc_blackhand_incarceratorAI", "df/dc0/a11990.html#adecfd5bcc6bf5fee0688459ebac03e18", null ],
+    [ "DamageTaken", "df/dc0/a11990.html#a3bc090518cba2bc64fb5c454bbb47b72", null ],
+    [ "JustEngagedWith", "df/dc0/a11990.html#a2026328f428c4e5c15551773255da21f", null ],
+    [ "Reset", "df/dc0/a11990.html#a3a98f2d5fd764c852a1d9418315cd56b", null ],
+    [ "SetData", "df/dc0/a11990.html#ae9d92237c6327abd78ada9a306ee8a09", null ],
+    [ "UpdateAI", "df/dc0/a11990.html#a1bc6aa88d7bc5163e2cc4e2cc1779076", null ],
+    [ "_events", "df/dc0/a11990.html#abcd817233c0cb85656856c4107d86793", null ],
+    [ "_fleedForAssistance", "df/dc0/a11990.html#ab4e59b91b47dffc19db6b49ecd4c9fd8", null ]
 ];

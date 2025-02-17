@@ -1,6 +1,6 @@
 var a15450 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "df/d38/a15454.html", "df/d38/a15454" ],
-    [ "instance_zulfarrak", "d4/d8a/a15450.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "d4/d8a/a15450.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "npc_stone_watcher_of_norgannon", "d4/d8a/a15450.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
+    [ "OnGossipHello", "d4/d8a/a15450.html#a00f526b1b17b68f31a86e892e0997856", null ],
+    [ "OnGossipSelect", "d4/d8a/a15450.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
 ];

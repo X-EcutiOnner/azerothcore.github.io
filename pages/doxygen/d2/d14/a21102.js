@@ -1,6 +1,13 @@
 var a21102 =
 [
-    [ "npc_vh_sinclari", "d2/d14/a21102.html#ad0235f207a3031420532174c04e0c348", null ],
-    [ "OnGossipHello", "d2/d14/a21102.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
-    [ "OnGossipSelect", "d2/d14/a21102.html#af0a260d7868f601ae239c226b10d4de3", null ]
+    [ "boss_toravonAI", "d2/d14/a21102.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "d2/d14/a21102.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "d2/d14/a21102.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "d2/d14/a21102.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "d2/d14/a21102.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "d2/d14/a21102.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "d2/d14/a21102.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "d2/d14/a21102.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "d2/d14/a21102.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "d2/d14/a21102.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

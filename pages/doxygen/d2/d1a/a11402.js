@@ -1,8 +1,7 @@
 var a11402 =
 [
-    [ "accountId", "d2/d1a/a11402.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
-    [ "accountName", "d2/d1a/a11402.html#a4849bd1f43fd15eea1991948abdc576d", null ],
-    [ "deleteDate", "d2/d1a/a11402.html#a65a101727094841d34e8775bb7504cba", null ],
-    [ "lowGuid", "d2/d1a/a11402.html#a11fd07e662184f750ac0a5e547a22437", null ],
-    [ "name", "d2/d1a/a11402.html#a0e85dce38305e222c5654315ed68bfc1", null ]
+    [ "CompressedData", "d2/d1a/a11402.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
+    [ "CompressedSize", "d2/d1a/a11402.html#ab57879b41c825623a989db13a53f2f4e", null ],
+    [ "Id", "d2/d1a/a11402.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
+    [ "Key", "d2/d1a/a11402.html#ad100540b5c6722a19c938b134a985aed", null ]
 ];

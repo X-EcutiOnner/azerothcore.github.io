@@ -1,13 +1,11 @@
 var a08014 =
 [
-    [ "AnimationInfo", "d6/d4e/a08014.html#aa443028e95ae416e09f1acfef0575803", null ],
-    [ "Building", "d6/d4e/a08014.html#aae3dbb59dc70ee4d5d0a10390200c66e", null ],
-    [ "CapturePoint", "d6/d4e/a08014.html#a6be6a6549054045466f377cf8a55790a", null ],
-    [ "FishingHole", "d6/d4e/a08014.html#a7c7b99d5e85617c9f74ba20babb8f08b", null ],
-    [ "Health", "d6/d4e/a08014.html#af70b72663064c9c4b88c93a824f1e14b", null ],
-    [ "MaxHealth", "d6/d4e/a08014.html#ab606f11596c1dd3d1cf7588346338721", null ],
-    [ "MaxOpens", "d6/d4e/a08014.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
-    [ "OPvPObj", "d6/d4e/a08014.html#a565624b690fa7fabf21b175548765652", null ],
-    [ "PathProgress", "d6/d4e/a08014.html#a9e07a147b2be08a78f052e0cdb817111", null ],
-    [ "Transport", "d6/d4e/a08014.html#a3fe65f8be0137e71908c037b0d279c27", null ]
+    [ "AddItem", "d6/d4e/a08014.html#a46f6533323fd15632c3f9a8b96ef6f3f", null ],
+    [ "Clear", "d6/d4e/a08014.html#a70c7400c4bc60923fd538890774445de", null ],
+    [ "Empty", "d6/d4e/a08014.html#ab55fa73ab327294de2c5f6906fc1fbdb", null ],
+    [ "FindItemCostPair", "d6/d4e/a08014.html#a61dc4394afdd3a360559ffec1655c343", null ],
+    [ "GetItem", "d6/d4e/a08014.html#aa764da5b4647c84813e3aa6b46de7593", null ],
+    [ "GetItemCount", "d6/d4e/a08014.html#ae80634592ce705c77c5aa53960f89c24", null ],
+    [ "RemoveItem", "d6/d4e/a08014.html#a974925f2979910348a0af795893b310b", null ],
+    [ "m_items", "d6/d4e/a08014.html#aa16668e54fce8fffe8651644cdef4335", null ]
 ];

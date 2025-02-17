@@ -1,6 +1,6 @@
 var a13874 =
 [
-    [ "npc_brewfest_bark_trigger", "d6/dae/a13874.html#a110d654792e1f5dae8b17f014ea3d425", null ],
-    [ "GetTextFor", "d6/dae/a13874.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
-    [ "MoveInLineOfSight", "d6/dae/a13874.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
+    [ "HandleOnHit", "d6/dae/a13874.html#a76b09288d14d399735250607e2105eb3", null ],
+    [ "PrepareSpellScript", "d6/dae/a13874.html#a2270ce546ae286ffa701d094df591aa2", null ],
+    [ "Register", "d6/dae/a13874.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
 ];

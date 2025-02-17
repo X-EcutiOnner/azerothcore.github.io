@@ -1,6 +1,7 @@
 var a12110 =
 [
-    [ "HandleOnHit", "d1/dab/a12110.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "d1/dab/a12110.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "d1/dab/a12110.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "go_suppression_deviceAI", "d7/dee/a12114.html", "d7/dee/a12114" ],
+    [ "go_suppression_device", "d1/dab/a12110.html#a900713d6b029015f8868a96e5e1b9018", null ],
+    [ "GetAI", "d1/dab/a12110.html#aa51bb6f9616022c1f4e1e711ca1130e8", null ],
+    [ "OnLootStateChanged", "d1/dab/a12110.html#a684546c3ce0c0785d52a87eb011ef313", null ]
 ];

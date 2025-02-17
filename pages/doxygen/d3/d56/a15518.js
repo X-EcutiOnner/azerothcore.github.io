@@ -1,7 +1,6 @@
 var a15518 =
 [
-    [ "HandleDummy", "d3/d56/a15518.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
-    [ "PrepareSpellScript", "d3/d56/a15518.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
-    [ "Register", "d3/d56/a15518.html#a4359ad73b513a368509a066a039ddf53", null ],
-    [ "_targetCount", "d3/d56/a15518.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
+    [ "HandleDummy", "d3/d56/a15518.html#a2750ae788168e7496ea2345c5535509c", null ],
+    [ "PrepareSpellScript", "d3/d56/a15518.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
+    [ "Register", "d3/d56/a15518.html#ab6c961d89d22761402eb4f5881cbd318", null ]
 ];

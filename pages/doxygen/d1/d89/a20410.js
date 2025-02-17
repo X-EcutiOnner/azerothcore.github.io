@@ -1,23 +1,9 @@
 var a20410 =
 [
-    [ "boss_xt002AI", "d1/d89/a20410.html#a7a58f65a29c6c28639946532a4c5afce", null ],
-    [ "AttachHeart", "d1/d89/a20410.html#a26c4d37ac38434682e6ed357cb03c3f2", null ],
-    [ "DoAction", "d1/d89/a20410.html#a7a1f0462bdc64874d9ec04c3e4a1d097", null ],
-    [ "GetData", "d1/d89/a20410.html#a259aea1cd4fce938748d8ee3af75f9bd", null ],
-    [ "JustDied", "d1/d89/a20410.html#a6152a51884e5617ce76deae550df3e5c", null ],
-    [ "JustEngagedWith", "d1/d89/a20410.html#a4d00f75136c7770bb9f5fdfcc3e6a7bb", null ],
-    [ "JustReachedHome", "d1/d89/a20410.html#a98ef7a2c173f22ef748893b561b573cb", null ],
-    [ "JustSummoned", "d1/d89/a20410.html#a67a123574487a9d8a45023105fcdbd3f", null ],
-    [ "KilledUnit", "d1/d89/a20410.html#a0a0024d6f8f7937a062d6b51c5dcced4", null ],
-    [ "RescheduleEvents", "d1/d89/a20410.html#a046e8cdc1343e94823fa7dc7fa491590", null ],
-    [ "Reset", "d1/d89/a20410.html#a5e6022926c19360e6aa784acd6e3d964", null ],
-    [ "SummonedCreatureDespawn", "d1/d89/a20410.html#a73719780759cb75494c75d1b7985974c", null ],
-    [ "UpdateAI", "d1/d89/a20410.html#a46db16865544e10ba05bb637dade4bc3", null ],
-    [ "_gravityAchievement", "d1/d89/a20410.html#a70e91c1dc557117f48190e632b4332b2", null ],
-    [ "_hardMode", "d1/d89/a20410.html#a0933ed4cc6638e85146e92231dd82aab", null ],
-    [ "_healthCheck", "d1/d89/a20410.html#a60903f0bcf827503254d6e18c319e5d3", null ],
-    [ "_nerfAchievement", "d1/d89/a20410.html#addf29c529fa671f95678f62b5c00c246", null ],
-    [ "events", "d1/d89/a20410.html#a611d8e9ff1c84665f893a5638500dd29", null ],
-    [ "m_pInstance", "d1/d89/a20410.html#aeaaa5a6ef611324b6cd50d5a9a087b58", null ],
-    [ "summons", "d1/d89/a20410.html#aed6c11f1050a988a98ae325e822e8b88", null ]
+    [ "npc_ulduar_dark_rune_sentinelAI", "d1/d89/a20410.html#a533ae31e0507f12f7d94e347b6b7ebf2", null ],
+    [ "CanAIAttack", "d1/d89/a20410.html#a12b2e5c621a8b04a4d80dde706a4bb2b", null ],
+    [ "Reset", "d1/d89/a20410.html#ada2897f48effedd5d5baa5a260497b5a", null ],
+    [ "UpdateAI", "d1/d89/a20410.html#aa9b319928a9b23cf4d47a07c1eaeb0cd", null ],
+    [ "timer1", "d1/d89/a20410.html#a383a2ee113822b7eff52466f0cc0e137", null ],
+    [ "timer2", "d1/d89/a20410.html#ad5c4698c5d12ff42179d62c47d9f7719", null ]
 ];

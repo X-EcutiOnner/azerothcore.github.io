@@ -1,6 +1,7 @@
 var a10698 =
 [
-    [ "PetUnlearnedSpell", "d0/d90/a10698.html#aa2b125a271228aee0d942a207de170b7", null ],
-    [ "Write", "d0/d90/a10698.html#a11cf7780eba530026a0898bfafd27109", null ],
-    [ "SpellID", "d0/d90/a10698.html#adfca5feb5be2408e489edc44e9cd215b", null ]
+    [ "PlayMusic", "d0/d90/a10698.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
+    [ "PlayMusic", "d0/d90/a10698.html#ad3d833f70de5937365c2351aa5206bbf", null ],
+    [ "Write", "d0/d90/a10698.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
+    [ "SoundKitID", "d0/d90/a10698.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
 ];

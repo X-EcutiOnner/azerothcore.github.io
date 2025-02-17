@@ -1,6 +1,7 @@
 var a23966 =
 [
-    [ "PrepareSpellScript", "df/db4/a23966.html#aa858fff409e5c75d865c91cb5fbef679", null ],
-    [ "Register", "df/db4/a23966.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
-    [ "SetDest", "df/db4/a23966.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
+    [ "HandleScriptEffect", "df/db4/a23966.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "df/db4/a23966.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "df/db4/a23966.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "df/db4/a23966.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

@@ -1,8 +1,8 @@
 var a09250 =
 [
-    [ "AllWorldObjectsInExactRange", "d2/d3d/a09250.html#a0281d22587b9b1bdbfbdd8dccc625186", null ],
-    [ "operator()", "d2/d3d/a09250.html#afe0bea69ddd5e275363361bf37284840", null ],
-    [ "_equals", "d2/d3d/a09250.html#aebb4cb9e84cf91cca235fe663dba8d60", null ],
-    [ "_object", "d2/d3d/a09250.html#a5fba0e3c7cde76bfe56f8e9e9716412b", null ],
-    [ "_range", "d2/d3d/a09250.html#ae40de8ce49bb429243e5059b6d14398f", null ]
+    [ "NearestGameObjectFishingHole", "d2/d3d/a09250.html#ab0e4734202edf26b69881ab85abe1d93", null ],
+    [ "NearestGameObjectFishingHole", "d2/d3d/a09250.html#a256c64e6c82d98349b958647d98bf4ce", null ],
+    [ "operator()", "d2/d3d/a09250.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
+    [ "i_obj", "d2/d3d/a09250.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
+    [ "i_range", "d2/d3d/a09250.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
 ];

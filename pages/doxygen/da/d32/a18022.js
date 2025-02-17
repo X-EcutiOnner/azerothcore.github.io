@@ -1,6 +1,6 @@
 var a18022 =
 [
-    [ "ModDestHeight", "da/d32/a18022.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
-    [ "PrepareSpellScript", "da/d32/a18022.html#a288f8917d73be30234e465778b1f6544", null ],
-    [ "Register", "da/d32/a18022.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
+    [ "LichKingDeathEvent", "da/d32/a18022.html#a9aa328b60358034355b1eed5caacb9f8", null ],
+    [ "Execute", "da/d32/a18022.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
+    [ "_owner", "da/d32/a18022.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
 ];

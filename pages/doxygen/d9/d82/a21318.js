@@ -1,6 +1,6 @@
 var a21318 =
 [
-    [ "npc_thassarianAI", "d9/d78/a21322.html", "d9/d78/a21322" ],
-    [ "npc_thassarian", "d9/d82/a21318.html#a82bde4555821f84a6d07a69669528313", null ],
-    [ "GetAI", "d9/d82/a21318.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
+    [ "npc_violet_hold_defense_system", "d9/d82/a21318.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "d9/d82/a21318.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "d9/d82/a21318.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
 ];

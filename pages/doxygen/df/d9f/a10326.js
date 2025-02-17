@@ -1,6 +1,6 @@
 var a10326 =
 [
-    [ "EmoteClient", "df/d9f/a10326.html#af98c098cb1019057d8027f39c168e1a9", null ],
-    [ "Read", "df/d9f/a10326.html#abad5fca865b7b99e595ce95137e8105c", null ],
-    [ "EmoteID", "df/d9f/a10326.html#a24503de36535106220984ffbf6ba0338", null ]
+    [ "WeatherScript", "df/d9f/a10326.html#a4f86b051364c95f5389d7ed473429b7b", null ],
+    [ "IsDatabaseBound", "df/d9f/a10326.html#a2547902149ce080711ccacb709b10e8a", null ],
+    [ "OnChange", "df/d9f/a10326.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
 ];

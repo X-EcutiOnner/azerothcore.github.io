@@ -1,9 +1,5 @@
 var a22306 =
 [
-    [ "npc_stolen_soul", "de/dc7/a22306.html#a84a0bb8320b2332545748e010d855884", null ],
-    [ "DoAction", "de/dc7/a22306.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
-    [ "Reset", "de/dc7/a22306.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
-    [ "UpdateAI", "de/dc7/a22306.html#a7bf369dd943ee36600a364d56b85db5a", null ],
-    [ "_scheduler", "de/dc7/a22306.html#ab62526916f0ccd681383d37d19d94ccc", null ],
-    [ "myClass", "de/dc7/a22306.html#ab2ad92983075320ce389aa583c341d21", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "de/dc7/a22306.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "de/dc7/a22306.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

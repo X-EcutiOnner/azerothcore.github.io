@@ -1,6 +1,8 @@
 var a14690 =
 [
-    [ "HandleDummyHitTarget", "db/d99/a14690.html#ae773d73496578170061baedd8f7daec1", null ],
-    [ "PrepareSpellScript", "db/d99/a14690.html#a822fe6d19c2ee0d02dc5561b4f910cf9", null ],
-    [ "Register", "db/d99/a14690.html#a651cc94581130224ba23e864f8ad7060", null ]
+    [ "Load", "db/d99/a14690.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "db/d99/a14690.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "db/d99/a14690.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "db/d99/a14690.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "db/d99/a14690.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

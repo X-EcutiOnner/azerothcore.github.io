@@ -1,6 +1,7 @@
 var a17706 =
 [
-    [ "CheckTarget", "dc/d2d/a17706.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "dc/d2d/a17706.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "dc/d2d/a17706.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "HandleTriggerSpell", "dc/d2d/a17706.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "dc/d2d/a17706.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "dc/d2d/a17706.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "dc/d2d/a17706.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

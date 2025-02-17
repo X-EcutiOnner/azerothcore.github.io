@@ -1,5 +1,5 @@
 var a27126 =
 [
-    [ "item_captured_frog", "df/d42/a27126.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "df/d42/a27126.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "go_sacred_fire_of_life", "df/d42/a27126.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "df/d42/a27126.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

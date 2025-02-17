@@ -1,8 +1,9 @@
 var a12502 =
 [
-    [ "npc_cyclone", "dc/d2e/a12502.html#afdc4f98b031f832702929c6a7f192ab5", null ],
-    [ "JustEngagedWith", "dc/d2e/a12502.html#a61d0710868c91f707643a436c0d79485", null ],
-    [ "Reset", "dc/d2e/a12502.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
-    [ "UpdateAI", "dc/d2e/a12502.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
-    [ "_scheduler", "dc/d2e/a12502.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
+    [ "boss_curator", "dc/d2e/a12502.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
+    [ "JustDied", "dc/d2e/a12502.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
+    [ "JustEngagedWith", "dc/d2e/a12502.html#a848f477a101956662389cab5ffcc0727", null ],
+    [ "JustSummoned", "dc/d2e/a12502.html#ac779d275e03e6ba190617d215b217ce5", null ],
+    [ "KilledUnit", "dc/d2e/a12502.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
+    [ "Reset", "dc/d2e/a12502.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
 ];

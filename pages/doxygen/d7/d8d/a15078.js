@@ -1,10 +1,8 @@
 var a15078 =
 [
-    [ "npc_murkdeepAI", "d7/d8d/a15078.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "d7/d8d/a15078.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "d7/d8d/a15078.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "d7/d8d/a15078.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "d7/d8d/a15078.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "d7/d8d/a15078.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "d7/d8d/a15078.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "npc_obsidian_eradicator", "d7/d8d/a15078.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "d7/d8d/a15078.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "d7/d8d/a15078.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "d7/d8d/a15078.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "d7/d8d/a15078.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

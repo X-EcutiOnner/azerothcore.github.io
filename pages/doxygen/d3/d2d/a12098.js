@@ -1,6 +1,9 @@
 var a12098 =
 [
-    [ "boss_razorgoreAI", "dc/d62/a12102.html", "dc/d62/a12102" ],
-    [ "boss_razorgore", "d3/d2d/a12098.html#aee534a04797c5938e6da00f2ab119943", null ],
-    [ "GetAI", "d3/d2d/a12098.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
+    [ "npc_vaelastrasz_the_redAI", "d3/d2d/a12098.html#aa800617f887a21d8a61cac099c86faed", null ],
+    [ "IsSummonedBy", "d3/d2d/a12098.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
+    [ "UpdateAI", "d3/d2d/a12098.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
+    [ "_combatEnabled", "d3/d2d/a12098.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
+    [ "_events2", "d3/d2d/a12098.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
+    [ "_victorGUID", "d3/d2d/a12098.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
 ];

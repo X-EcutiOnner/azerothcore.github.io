@@ -1,6 +1,6 @@
 var a17862 =
 [
-    [ "PeriodicTick", "de/d4c/a17862.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
-    [ "PrepareAuraScript", "de/d4c/a17862.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
-    [ "Register", "de/d4c/a17862.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
+    [ "boss_sindragosaAI", "dc/d6e/a17866.html", "dc/d6e/a17866" ],
+    [ "boss_sindragosa", "de/d4c/a17862.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
+    [ "GetAI", "de/d4c/a17862.html#a005a6da9f4f9690416a108872b3c2b36", null ]
 ];

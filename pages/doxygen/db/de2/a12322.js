@@ -1,6 +1,6 @@
 var a12322 =
 [
-    [ "boss_mr_smiteAI", "d7/def/a12326.html", "d7/def/a12326" ],
-    [ "boss_mr_smite", "db/de2/a12322.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "db/de2/a12322.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "npc_core_ragerAI", "d7/def/a12326.html", "d7/def/a12326" ],
+    [ "npc_core_rager", "db/de2/a12322.html#ada4acfa2a1934d1609a8f9c78da6377d", null ],
+    [ "GetAI", "db/de2/a12322.html#a0ace94ecc1ebfb0e880c50d9b68087db", null ]
 ];

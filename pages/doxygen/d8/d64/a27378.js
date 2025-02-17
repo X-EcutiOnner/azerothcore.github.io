@@ -1,9 +1,8 @@
 var a27378 =
 [
-    [ "npc_arcanite_dragonling", "d8/d64/a27378.html#a9b7e4cefa312a16c90018d655ad94758", null ],
-    [ "CanAIAttack", "d8/d64/a27378.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
-    [ "IsSummonedBy", "d8/d64/a27378.html#a921b35a91c4f21258efdb41fd87413db", null ],
-    [ "JustEngagedWith", "d8/d64/a27378.html#a65f6d779681861117f750b70154b3e0d", null ],
-    [ "Reset", "d8/d64/a27378.html#a4468d91430add821bf7a7ab11d8063da", null ],
-    [ "UpdateAI", "d8/d64/a27378.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
+    [ "npc_chicken_cluckAI", "df/d1b/a27382.html", "df/d1b/a27382" ],
+    [ "npc_chicken_cluck", "d8/d64/a27378.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "d8/d64/a27378.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "d8/d64/a27378.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "d8/d64/a27378.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

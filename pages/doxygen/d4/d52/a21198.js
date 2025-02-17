@@ -1,8 +1,6 @@
 var a21198 =
 [
-    [ "HandleEffectRemove", "d4/d52/a21198.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "d4/d52/a21198.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "d4/d52/a21198.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "d4/d52/a21198.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "d4/d52/a21198.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "boss_zuramatAI", "da/d3b/a21202.html", "da/d3b/a21202" ],
+    [ "boss_zuramat", "d4/d52/a21198.html#a1d169e786dcf846026b48d9be389f9ab", null ],
+    [ "GetAI", "d4/d52/a21198.html#a1008c053a2c9ad14cf9ce994db931670", null ]
 ];

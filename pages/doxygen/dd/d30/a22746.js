@@ -1,8 +1,12 @@
 var a22746 =
 [
-    [ "instance_black_temple_InstanceMapScript", "dd/d30/a22746.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
-    [ "OnCreatureCreate", "dd/d30/a22746.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
-    [ "OnGameObjectCreate", "dd/d30/a22746.html#a564a49814ceb3b3161a6476335ab653a", null ],
-    [ "SetBossState", "dd/d30/a22746.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
-    [ "ashtongueGUIDs", "dd/d30/a22746.html#a85fa9c5231f13529a0741b0f92266c90", null ]
+    [ "boss_essence_of_angerAI", "dd/d30/a22746.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "dd/d30/a22746.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "dd/d30/a22746.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "dd/d30/a22746.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "dd/d30/a22746.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "dd/d30/a22746.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "dd/d30/a22746.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "_recentlySpoken", "dd/d30/a22746.html#a056aa8fd704d832e83735cf2a1a22888", null ],
+    [ "targetGUID", "dd/d30/a22746.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

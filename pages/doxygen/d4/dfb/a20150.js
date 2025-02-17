@@ -1,8 +1,7 @@
 var a20150 =
 [
-    [ "npc_ulduar_mimiron_rocketAI", "d4/dfb/a20150.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
-    [ "InitializeAI", "d4/dfb/a20150.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
-    [ "Reset", "d4/dfb/a20150.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
-    [ "SetData", "d4/dfb/a20150.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
-    [ "UpdateAI", "d4/dfb/a20150.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
+    [ "HandleEffectPeriodic", "d4/dfb/a20150.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "d4/dfb/a20150.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "d4/dfb/a20150.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "d4/dfb/a20150.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

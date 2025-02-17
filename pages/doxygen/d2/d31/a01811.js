@@ -1,11 +1,14 @@
 var a01811 =
 [
-    [ "instance_azjol_nerub", "d2/dde/a15622.html", "d2/dde/a15622" ],
-    [ "instance_azjol_nerub::instance_azjol_nerub_InstanceScript", "da/db2/a15626.html", "da/db2/a15626" ],
-    [ "spell_azjol_nerub_fixate", "da/d48/a15630.html", "da/d48/a15630" ],
-    [ "spell_azjol_nerub_web_wrap_aura", "dc/d38/a15634.html", "dc/d38/a15634" ],
-    [ "AddSC_instance_azjol_nerub", "d2/d31/a01811.html#a58deb67f6fb8962cfe1dfd044fdaabdb", null ],
-    [ "boundaries", "d2/d31/a01811.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d2/d31/a01811.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d2/d31/a01811.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "guard_shattrath_scryer", "d8/db7/a27206.html", "d8/db7/a27206" ],
+    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "de/d18/a27210.html", "de/d18/a27210" ],
+    [ "guard_shattrath_aldor", "d6/deb/a27214.html", "d6/deb/a27214" ],
+    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "d9/d09/a27218.html", "d9/d09/a27218" ],
+    [ "GuardShattrath", "d2/d31/a01811.html#a7c8fcdd86e1aa9eab132e6321290e79c", [
+      [ "SPELL_BANISHED_SHATTRATH_A", "d2/d31/a01811.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe", null ],
+      [ "SPELL_BANISHED_SHATTRATH_S", "d2/d31/a01811.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48", null ],
+      [ "SPELL_BANISH_TELEPORT", "d2/d31/a01811.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0", null ],
+      [ "SPELL_EXILE", "d2/d31/a01811.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d", null ]
+    ] ],
+    [ "AddSC_guards", "d2/d31/a01811.html#acba582cbc90c710c629dd30926acdca4", null ]
 ];

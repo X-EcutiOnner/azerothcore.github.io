@@ -1,6 +1,5 @@
 var a13810 =
 [
-    [ "HandleOnHit", "db/d93/a13810.html#a36909ef786940eb1a05539c968d78e80", null ],
-    [ "PrepareSpellScript", "db/d93/a13810.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
-    [ "Register", "db/d93/a13810.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
+    [ "at_zulgurub_entrance_speech", "db/d93/a13810.html#afef11c6a7e97befd07072826fa13be55", null ],
+    [ "_OnTrigger", "db/d93/a13810.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
 ];

@@ -1,9 +1,10 @@
 var a11202 =
 [
-    [ "CreatureTextLocalizer", "da/d3e/a11202.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "da/d3e/a11202.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "da/d3e/a11202.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "da/d3e/a11202.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "da/d3e/a11202.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "da/d3e/a11202.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "TargetHook", "da/d3e/a11202.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
+    [ "CheckEffect", "da/d3e/a11202.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
+    [ "GetTarget", "da/d3e/a11202.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
+    [ "ToString", "da/d3e/a11202.html#a424e03e457dc15a2689f344e614a882f", null ],
+    [ "area", "da/d3e/a11202.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
+    [ "dest", "da/d3e/a11202.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
+    [ "targetType", "da/d3e/a11202.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
 ];

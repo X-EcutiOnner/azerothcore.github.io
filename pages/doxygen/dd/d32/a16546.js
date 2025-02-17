@@ -1,14 +1,12 @@
 var a16546 =
 [
-    [ "boss_marwynAI", "dd/d32/a16546.html#abfc074b89e4edcf461c4df4d00c90856", null ],
-    [ "DoAction", "dd/d32/a16546.html#adc68f202aa2e78bd3a7969bfddcce710", null ],
-    [ "EnterEvadeMode", "dd/d32/a16546.html#acb0b5675c2ff9f614ddafd88ff96e62e", null ],
-    [ "JustDied", "dd/d32/a16546.html#a11f64dbf0333c212584d441d4b719d9c", null ],
-    [ "JustEngagedWith", "dd/d32/a16546.html#ae7509cf8b3b93e97b2e617c1ac181c87", null ],
-    [ "KilledUnit", "dd/d32/a16546.html#a43b40959a22a1767c1c717f5bf7200ad", null ],
-    [ "Reset", "dd/d32/a16546.html#a7433e7ed2007ccde768e1e15640ac99d", null ],
-    [ "UpdateAI", "dd/d32/a16546.html#abaa8f609099423c9d8db5b93f2dd411e", null ],
-    [ "events", "dd/d32/a16546.html#a87c1f1785612cfd42667bd635ce16f2a", null ],
-    [ "pInstance", "dd/d32/a16546.html#a524e6c4145851d67edfdc0d9cb5b2e7c", null ],
-    [ "startFightTimer", "dd/d32/a16546.html#a2a1d7531025f136e368fc7d2b4c0d163", null ]
+    [ "boss_trollgoreAI", "dd/d32/a16546.html#a958deb54a8460cc2dc61958bd9acb338", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "dd/d32/a16546.html#a39be832be97a27a3358c2f6c939ca728", null ],
+    [ "JustDied", "dd/d32/a16546.html#a32a309084b6b7c4b4e5db10d9c8a95bd", null ],
+    [ "JustEngagedWith", "dd/d32/a16546.html#a25414dc1b13aa1372e397c5cb11afdaa", null ],
+    [ "JustSummoned", "dd/d32/a16546.html#abd2199877e0e1465a7e5783b80ad2a44", null ],
+    [ "KilledUnit", "dd/d32/a16546.html#aa65d03d8879c6177753b8316c1343ad4", null ],
+    [ "Reset", "dd/d32/a16546.html#a4fe22aebe6e814196ac1914d158a62de", null ],
+    [ "UpdateAI", "dd/d32/a16546.html#a3fa3247442edb81136647f7fdf5834cf", null ],
+    [ "events2", "dd/d32/a16546.html#a94e8c9616ac332f33f2b976c074092af", null ]
 ];

@@ -1,5 +1,9 @@
 var a22670 =
 [
-    [ "npc_ashtongue_sorcerer", "d7/de0/a22670.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
-    [ "MovementInform", "d7/de0/a22670.html#a56fa93f83e8a536b13667c8f780961b7", null ]
+    [ "HandleAfterCast", "d7/de0/a22670.html#a32928b579ef42f377e911ef27197ed61", null ],
+    [ "HandleDummy", "d7/de0/a22670.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
+    [ "Load", "d7/de0/a22670.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
+    [ "PrepareSpellScript", "d7/de0/a22670.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
+    [ "Register", "d7/de0/a22670.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
+    [ "_targetCount", "d7/de0/a22670.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
 ];

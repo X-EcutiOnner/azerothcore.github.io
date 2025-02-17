@@ -1,7 +1,11 @@
 var a13130 =
 [
-    [ "HandleRemove", "d9/d61/a13130.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
-    [ "PrepareAuraScript", "d9/d61/a13130.html#a6fa407996b59d98d0eeef877ee89784d", null ],
-    [ "Register", "d9/d61/a13130.html#a7dc81b47954ee8c10b99f389740de0be", null ],
-    [ "Validate", "d9/d61/a13130.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
+    [ "boss_alythess", "d9/d61/a13130.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "DoAction", "d9/d61/a13130.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
+    [ "EnterEvadeMode", "d9/d61/a13130.html#a451ac5ac016d9739efda276865bc8c64", null ],
+    [ "JustDied", "d9/d61/a13130.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
+    [ "JustEngagedWith", "d9/d61/a13130.html#ac5047ee0124864304284c1142e885158", null ],
+    [ "KilledUnit", "d9/d61/a13130.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
+    [ "Reset", "d9/d61/a13130.html#ab5f990d305f42a2d00e182f617175672", null ],
+    [ "_isSisterDead", "d9/d61/a13130.html#a9f9fa0823685066b4990a17880782b9a", null ]
 ];

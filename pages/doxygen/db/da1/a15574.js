@@ -1,8 +1,6 @@
 var a15574 =
 [
-    [ "instance_ahnkahet_InstanceScript", "db/da1/a15574.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
-    [ "IsAllSpheresActivated", "db/da1/a15574.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
-    [ "OnGameObjectCreate", "db/da1/a15574.html#ad00fdc90a61e1c927323daa2149f8466", null ],
-    [ "SetData", "db/da1/a15574.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
-    [ "taldaramPlatform_GUID", "db/da1/a15574.html#a840ce69595c384be321c1167513d151e", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "d8/d99/a15578.html", "d8/d99/a15578" ],
+    [ "instance_zulfarrak", "db/da1/a15574.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "db/da1/a15574.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

@@ -1,6 +1,7 @@
 var a12050 =
 [
-    [ "boss_victor_nefariusAI", "df/db4/a12054.html", "df/db4/a12054" ],
-    [ "boss_victor_nefarius", "d0/d69/a12050.html#a85c529c49a0373a553bc59818fb18f49", null ],
-    [ "GetAI", "d0/d69/a12050.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
+    [ "boss_urok_doomhowlAI", "d0/d69/a12050.html#ade3d87a05eed0fd077b2e3245099ed74", null ],
+    [ "InitializeAI", "d0/d69/a12050.html#a530bef523a27523827d3a94aa5f88698", null ],
+    [ "JustEngagedWith", "d0/d69/a12050.html#abd74d844bcae5f9bd8fdd3797323af2c", null ],
+    [ "UpdateAI", "d0/d69/a12050.html#a6ab5793a48534b7c338a915a7ed8faf9", null ]
 ];

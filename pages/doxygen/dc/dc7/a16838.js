@@ -1,6 +1,6 @@
 var a16838 =
 [
-    [ "HandleEffectPeriodic", "dc/dc7/a16838.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
-    [ "PrepareAuraScript", "dc/dc7/a16838.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
-    [ "Register", "dc/dc7/a16838.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
+    [ "boss_krickAI", "d0/dd4/a16842.html", "d0/dd4/a16842" ],
+    [ "boss_krick", "dc/dc7/a16838.html#a8921ff79c0af7db7f7910634239bcd0c", null ],
+    [ "GetAI", "dc/dc7/a16838.html#a9aa994da7c667b20c00b1bd1e994fed1", null ]
 ];

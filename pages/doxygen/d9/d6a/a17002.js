@@ -1,6 +1,10 @@
 var a17002 =
 [
-    [ "npc_dark_nucleusAI", "dc/d14/a17006.html", "dc/d14/a17006" ],
-    [ "npc_dark_nucleus", "d9/d6a/a17002.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "d9/d6a/a17002.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "npc_living_mojoAI", "d9/d6a/a17002.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
+    [ "AttackStart", "d9/d6a/a17002.html#ad3f73a040176cd804f9715141063d176", null ],
+    [ "DoAction", "d9/d6a/a17002.html#a9d942e99f358a7488d473969ab461d6f", null ],
+    [ "MoveInLineOfSight", "d9/d6a/a17002.html#a7981568666269e25580ae839f1f97f09", null ],
+    [ "Reset", "d9/d6a/a17002.html#a139df1207438dbd3793a2fbc58c2396c", null ],
+    [ "UpdateAI", "d9/d6a/a17002.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
+    [ "events", "d9/d6a/a17002.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
 ];

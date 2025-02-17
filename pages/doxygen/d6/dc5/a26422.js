@@ -1,8 +1,7 @@
 var a26422 =
 [
-    [ "CheckProc", "d6/dc5/a26422.html#a33412f2b5abb1ce2160408ef13e7f0cb", null ],
-    [ "HandleProc", "d6/dc5/a26422.html#ab24c3d3f697a7ebd146d6135305c7741", null ],
-    [ "PrepareAuraScript", "d6/dc5/a26422.html#a8eccfbb749b85bbb850874324f17bbde", null ],
-    [ "Register", "d6/dc5/a26422.html#a482dd09de6cba9f5a36a6cdad1b82a0a", null ],
-    [ "Validate", "d6/dc5/a26422.html#a0c3020d44608920a2820e73e0b9e4b42", null ]
+    [ "CalculateAmount", "d6/dc5/a26422.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "d6/dc5/a26422.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "d6/dc5/a26422.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "d6/dc5/a26422.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

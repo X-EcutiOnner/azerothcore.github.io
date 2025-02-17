@@ -1,6 +1,6 @@
 var a17738 =
 [
-    [ "boss_sindragosaAI", "da/d27/a17742.html", "da/d27/a17742" ],
-    [ "boss_sindragosa", "da/d14/a17738.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "da/d14/a17738.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "HandlePeriodic", "da/d14/a17738.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
+    [ "PrepareAuraScript", "da/d14/a17738.html#a5d855d79247dff6f949a5e099abb9352", null ],
+    [ "Register", "da/d14/a17738.html#ae797de0ed29b3ca179c07d759b469228", null ]
 ];

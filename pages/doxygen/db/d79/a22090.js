@@ -1,7 +1,12 @@
 var a22090 =
 [
-    [ "HandleScript", "db/d79/a22090.html#a1811115f1732912bdfaeeb8272db2304", null ],
-    [ "PrepareSpellScript", "db/d79/a22090.html#a50c24464dd88717bf78971d679715d7b", null ],
-    [ "Register", "db/d79/a22090.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
-    [ "Validate", "db/d79/a22090.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
+    [ "npc_time_lost_proto_drakeAI", "db/d79/a22090.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "JustEngagedWith", "db/d79/a22090.html#a14f41b30451b8ac8fe2411ec7102ae81", null ],
+    [ "Reset", "db/d79/a22090.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "RollPath", "db/d79/a22090.html#aabb3dd1d54a1290d500429efc8fa9e41", null ],
+    [ "UpdateEscortAI", "db/d79/a22090.html#a1a5442a5796b27d04eaa3ab62c613199", null ],
+    [ "WaypointReached", "db/d79/a22090.html#ad262b9dbc0edd2bac126fafbb5eb5f01", null ],
+    [ "events", "db/d79/a22090.html#aa2e4c3396d63d85a5d0abc8c74e58a79", null ],
+    [ "rollPath", "db/d79/a22090.html#a5431fd5a0801569bc03507818461aa7d", null ],
+    [ "setVisible", "db/d79/a22090.html#a63558b3406c241ecb27f3e485eeb439b", null ]
 ];

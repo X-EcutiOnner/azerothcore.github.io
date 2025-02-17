@@ -1,6 +1,6 @@
 var a15270 =
 [
-    [ "npc_anachronos_quest_triggerAI", "d0/ddc/a15274.html", "d0/ddc/a15274" ],
-    [ "npc_anachronos_quest_trigger", "d7/d36/a15270.html#ad39871952acd3152b51820fe360f4ebd", null ],
-    [ "GetAI", "d7/d36/a15270.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
+    [ "npc_troll_volunteerAI", "d0/ddc/a15274.html", "d0/ddc/a15274" ],
+    [ "npc_troll_volunteer", "d7/d36/a15270.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
+    [ "GetAI", "d7/d36/a15270.html#aba0208b0910ace75686941c462ecca56", null ]
 ];

@@ -1,5 +1,6 @@
 var a20210 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "dd/d9f/a20210.html#a6308129d11989dadf0a5948c4a268e4b", null ],
-    [ "SpellHitTarget", "dd/d9f/a20210.html#a3c254e16f62e7d2414d81062c91c2468", null ]
+    [ "FilterTargets", "dd/d9f/a20210.html#ae8d940a89be9b63286911bd55dcd3844", null ],
+    [ "PrepareSpellScript", "dd/d9f/a20210.html#a8f4b4d82e53c8f820b620896478681a9", null ],
+    [ "Register", "dd/d9f/a20210.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
 ];

@@ -1,7 +1,5 @@
 var a26846 =
 [
-    [ "npc_spirit_shadeAI", "d0/d4c/a26846.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d0/d4c/a26846.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d0/d4c/a26846.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d0/d4c/a26846.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "achievement_sickly_gazelle", "d0/d4c/a26846.html#abb613cb222c727923c4c5ce843db3a5f", null ],
+    [ "OnCheck", "d0/d4c/a26846.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
 ];

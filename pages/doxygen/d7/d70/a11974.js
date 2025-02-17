@@ -1,9 +1,9 @@
 var a11974 =
 [
-    [ "npc_vaelastrasz_the_redAI", "d7/d70/a11974.html#aa800617f887a21d8a61cac099c86faed", null ],
-    [ "IsSummonedBy", "d7/d70/a11974.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
-    [ "UpdateAI", "d7/d70/a11974.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
-    [ "_combatEnabled", "d7/d70/a11974.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
-    [ "_events2", "d7/d70/a11974.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
-    [ "_victorGUID", "d7/d70/a11974.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
+    [ "boss_overlordwyrmthalakAI", "d7/d70/a11974.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
+    [ "JustDied", "d7/d70/a11974.html#ade379755d256c4c290e6dc8bbd862261", null ],
+    [ "JustEngagedWith", "d7/d70/a11974.html#af7780f467df92c9218700773d1257a8c", null ],
+    [ "Reset", "d7/d70/a11974.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
+    [ "UpdateAI", "d7/d70/a11974.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
+    [ "Summoned", "d7/d70/a11974.html#a8183e3f02d931809440adc8cc0cd3654", null ]
 ];

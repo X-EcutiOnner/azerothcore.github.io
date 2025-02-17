@@ -1,6 +1,6 @@
 var a12006 =
 [
-    [ "go_chromaggus_leverAI", "dd/dbc/a12010.html", "dd/dbc/a12010" ],
-    [ "go_chromaggus_lever", "d3/d86/a12006.html#a88f8078cd5aa1863ca20c9b02a0e52d2", null ],
-    [ "GetAI", "d3/d86/a12006.html#ae307b36029147b8385b3c40878d1a3e4", null ]
+    [ "npc_rookery_hatcherAI", "dd/dbc/a12010.html", "dd/dbc/a12010" ],
+    [ "npc_rookery_hatcher", "d3/d86/a12006.html#aa385f8a93384d4db9b92eecd1b152ce0", null ],
+    [ "GetAI", "d3/d86/a12006.html#a76e27f10dd58ec15a8e8f9d579f1c176", null ]
 ];

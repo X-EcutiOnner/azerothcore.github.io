@@ -1,6 +1,7 @@
 var a22790 =
 [
-    [ "OnPeriodic", "df/dff/a22790.html#aef6afe014ce90711cd7628563aada2a4", null ],
-    [ "PrepareAuraScript", "df/dff/a22790.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
-    [ "Register", "df/dff/a22790.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
+    [ "npc_ashtongue_channeler", "df/dff/a22790.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "df/dff/a22790.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "df/dff/a22790.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "df/dff/a22790.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

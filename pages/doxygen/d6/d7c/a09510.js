@@ -1,15 +1,16 @@
 var a09510 =
 [
-    [ "MailSender", "d6/d7c/a09510.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
-    [ "MailSender", "d6/d7c/a09510.html#a735cfef6950357644d6965978dde0309", null ],
-    [ "MailSender", "d6/d7c/a09510.html#a145000f5ef63627ee26a5699846e06cf", null ],
-    [ "MailSender", "d6/d7c/a09510.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
-    [ "MailSender", "d6/d7c/a09510.html#a7d5a5e40aa20de720f310b739f159225", null ],
-    [ "MailSender", "d6/d7c/a09510.html#a12c87bb414a3e8889c95091f3b51716b", null ],
-    [ "GetMailMessageType", "d6/d7c/a09510.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
-    [ "GetSenderId", "d6/d7c/a09510.html#a03145c3fdc5bbabc64019e63e121132b", null ],
-    [ "GetStationery", "d6/d7c/a09510.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
-    [ "m_messageType", "d6/d7c/a09510.html#a45a312eda342d2197f15d73b47d7787b", null ],
-    [ "m_senderId", "d6/d7c/a09510.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
-    [ "m_stationery", "d6/d7c/a09510.html#a1bbced35b4600f9a45a421d28a33393b", null ]
+    [ "BankMoveItemData", "d6/d7c/a09510.html#a9edb987f4866e8bc473fe853597bebae", null ],
+    [ "_ReserveSpace", "d6/d7c/a09510.html#a109e8d55108b005426110626815ba866", null ],
+    [ "_StoreItem", "d6/d7c/a09510.html#aa11267f5d6202753310da567c0be0e57", null ],
+    [ "CanStore", "d6/d7c/a09510.html#ade47c73460329ca1af752921173ca75e", null ],
+    [ "CanStoreItemInTab", "d6/d7c/a09510.html#a5ca7975887e5583466d066c86b3a205f", null ],
+    [ "HasStoreRights", "d6/d7c/a09510.html#acd684824cab9ccb4d8fd9cbb1f1782e1", null ],
+    [ "HasWithdrawRights", "d6/d7c/a09510.html#ae9d8f497b4459c982ac73ee8b5742aad", null ],
+    [ "InitItem", "d6/d7c/a09510.html#a69d6b28ccdda7790f821f5181da0db96", null ],
+    [ "IsBank", "d6/d7c/a09510.html#a6f1787e15918092ba000ee8bd0852b09", null ],
+    [ "LogAction", "d6/d7c/a09510.html#a4f23cdffba39ffa78c38851ff7aa7d0c", null ],
+    [ "LogBankEvent", "d6/d7c/a09510.html#a054ca0f7eecfd404651c11b886d106bf", null ],
+    [ "RemoveItem", "d6/d7c/a09510.html#abd15e25136ec2a00bcddbc0e81978a78", null ],
+    [ "StoreItem", "d6/d7c/a09510.html#a9367b938768eefcaf5bb88e74dde9aa3", null ]
 ];

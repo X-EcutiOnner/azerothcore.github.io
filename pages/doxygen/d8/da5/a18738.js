@@ -1,6 +1,6 @@
 var a18738 =
 [
-    [ "boss_grobbulusAI", "de/dac/a18742.html", "de/dac/a18742" ],
-    [ "boss_grobbulus", "d8/da5/a18738.html#acf1b781e86e33a363b68354d34d3c015", null ],
-    [ "GetAI", "d8/da5/a18738.html#ae918614566a0b9979aef4e1aeaac394c", null ]
+    [ "npc_isle_of_conquest_turretAI", "de/dac/a18742.html", "de/dac/a18742" ],
+    [ "npc_isle_of_conquest_turret", "d8/da5/a18738.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "d8/da5/a18738.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

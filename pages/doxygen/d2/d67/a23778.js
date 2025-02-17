@@ -1,14 +1,14 @@
 var a23778 =
 [
-    [ "npc_maghar_captiveAI", "d2/d67/a23778.html#abab2cfe84f4bb83fea3b35202a957bb5", null ],
-    [ "JustDied", "d2/d67/a23778.html#adbef78d8c908bfbce6ea506c55fb6922", null ],
-    [ "JustEngagedWith", "d2/d67/a23778.html#a2a0ec4a496c7352ba88ceef99eb769e4", null ],
-    [ "JustSummoned", "d2/d67/a23778.html#afe55f91acd8c47a758b8d08bd07d763f", null ],
-    [ "Reset", "d2/d67/a23778.html#abebcdcb102f8d338ae0b792708940cd7", null ],
-    [ "SpellHitTarget", "d2/d67/a23778.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
-    [ "UpdateAI", "d2/d67/a23778.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
-    [ "WaypointReached", "d2/d67/a23778.html#abfbba8942df57e974ab24ad693c16e70", null ],
-    [ "ChainLightningTimer", "d2/d67/a23778.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
-    [ "FrostShockTimer", "d2/d67/a23778.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
-    [ "HealTimer", "d2/d67/a23778.html#a31613adba706f3b5f948f2f7c4222038", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d2/d67/a23778.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "d2/d67/a23778.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "d2/d67/a23778.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "d2/d67/a23778.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "d2/d67/a23778.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "d2/d67/a23778.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "d2/d67/a23778.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "d2/d67/a23778.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "d2/d67/a23778.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "d2/d67/a23778.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "d2/d67/a23778.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

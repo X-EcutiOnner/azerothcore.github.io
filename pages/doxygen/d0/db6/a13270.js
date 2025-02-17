@@ -1,6 +1,6 @@
 var a13270 =
 [
-    [ "npc_augustus_the_touched", "d0/db6/a13270.html#abc84c884345f44cf780410569cdee10c", null ],
-    [ "OnGossipHello", "d0/db6/a13270.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
-    [ "OnGossipSelect", "d0/db6/a13270.html#a992da9b22693c1fac1148b4ba545b819", null ]
+    [ "PrepareSpellScript", "d0/db6/a13270.html#a6a9436d744865971e635f23c2b331688", null ],
+    [ "Register", "d0/db6/a13270.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
+    [ "SetDest", "d0/db6/a13270.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
 ];

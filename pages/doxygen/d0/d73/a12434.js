@@ -1,10 +1,9 @@
 var a12434 =
 [
-    [ "npc_netherspite_infernal", "d0/d73/a12434.html#af9837d7a671533523ce323c083c4e847", null ],
-    [ "DamageTaken", "d0/d73/a12434.html#aee9b38f3590e08b16de1789576986a09", null ],
-    [ "JustEngagedWith", "d0/d73/a12434.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
-    [ "KilledUnit", "d0/d73/a12434.html#a49c37fbebed2951c493962c1a3bd0339", null ],
-    [ "MoveInLineOfSight", "d0/d73/a12434.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
-    [ "SpellHit", "d0/d73/a12434.html#abb6c7d0b5e231e460b069198b16106b7", null ],
-    [ "UpdateAI", "d0/d73/a12434.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
+    [ "npc_mc_core_houndAI", "d0/d73/a12434.html#a9b07d662e32a342419a848ecd59d6391", null ],
+    [ "DamageTaken", "d0/d73/a12434.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
+    [ "Reset", "d0/d73/a12434.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
+    [ "UpdateAI", "d0/d73/a12434.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
+    [ "instance", "d0/d73/a12434.html#ab47451dfeff84c8467be2b76554df897", null ],
+    [ "serratedBiteTimer", "d0/d73/a12434.html#a3a49df32c788497d3e82912d423683b7", null ]
 ];

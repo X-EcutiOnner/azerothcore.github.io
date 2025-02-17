@@ -1,6 +1,6 @@
 var a16302 =
 [
-    [ "boss_eydisAI", "d7/dfc/a16306.html", "d7/dfc/a16306" ],
-    [ "boss_eydis", "dd/da6/a16302.html#aa555f80882499bc4627e622fbb48b2a4", null ],
-    [ "GetAI", "dd/da6/a16302.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
+    [ "npc_toc_rogueAI", "d7/dfc/a16306.html", "d7/dfc/a16306" ],
+    [ "npc_toc_rogue", "dd/da6/a16302.html#a925840be9698e381358235a827c20b8a", null ],
+    [ "GetAI", "dd/da6/a16302.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
 ];

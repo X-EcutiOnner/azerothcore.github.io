@@ -1,6 +1,7 @@
 var a25786 =
 [
-    [ "CheckProc", "d6/d48/a25786.html#a0f1461140b08deac3f044142067368e7", null ],
-    [ "PrepareAuraScript", "d6/d48/a25786.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
-    [ "Register", "d6/d48/a25786.html#a05e31c2252c9054a18b4267be84895b9", null ]
+    [ "OnApply", "d6/d48/a25786.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
+    [ "OnRemove", "d6/d48/a25786.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
+    [ "PrepareAuraScript", "d6/d48/a25786.html#aa93b45e31c33caf3ea51a26846566b34", null ],
+    [ "Register", "d6/d48/a25786.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
 ];

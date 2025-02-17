@@ -1,6 +1,12 @@
 var a23998 =
 [
-    [ "PrepareSpellScript", "d6/df3/a23998.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "d6/df3/a23998.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "d6/df3/a23998.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "npc_enslaved_netherwing_drake", "d6/df3/a23998.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
+    [ "_GetPlayer", "d6/df3/a23998.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
+    [ "JustDied", "d6/df3/a23998.html#acde70c9d8c675a9a9dd14695dc752184", null ],
+    [ "MovementInform", "d6/df3/a23998.html#afa030a380365daa33c156a0d6be6a6d9", null ],
+    [ "Reset", "d6/df3/a23998.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
+    [ "SpellHit", "d6/df3/a23998.html#a195794e88870a0b1ca35473f5f0378a7", null ],
+    [ "UpdateAI", "d6/df3/a23998.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
+    [ "_playerGUID", "d6/df3/a23998.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
+    [ "_tapped", "d6/df3/a23998.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
 ];

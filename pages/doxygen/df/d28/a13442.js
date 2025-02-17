@@ -1,6 +1,6 @@
 var a13442 =
 [
-    [ "boss_blight_wormAI", "d4/daf/a13446.html", "d4/daf/a13446" ],
-    [ "boss_blight_worm", "df/d28/a13442.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "df/d28/a13442.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "d4/daf/a13446.html", "d4/daf/a13446" ],
+    [ "npc_bh_thalorien_dawnseeker", "df/d28/a13442.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
+    [ "GetAI", "df/d28/a13442.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
 ];

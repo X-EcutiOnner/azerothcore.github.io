@@ -1,7 +1,9 @@
 var a16914 =
 [
-    [ "HandleScriptEffect", "d7/dc0/a16914.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "d7/dc0/a16914.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "d7/dc0/a16914.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "d7/dc0/a16914.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "npc_pos_collapsing_icicleAI", "d7/dc0/a16914.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
+    [ "SpellHitTarget", "d7/dc0/a16914.html#aea107ede3b11726b3f7caae590edaf52", null ],
+    [ "UpdateAI", "d7/dc0/a16914.html#ade416a422e67ce61e8874320cce7143b", null ],
+    [ "pInstance", "d7/dc0/a16914.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
+    [ "timer1", "d7/dc0/a16914.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
+    [ "timer2", "d7/dc0/a16914.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
 ];

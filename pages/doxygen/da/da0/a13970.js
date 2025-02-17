@@ -1,7 +1,6 @@
 var a13970 =
 [
-    [ "HandleScriptEffect", "da/da0/a13970.html#ae758c224878aebdde0124b5d4ec902a5", null ],
-    [ "PrepareSpellScript", "da/da0/a13970.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
-    [ "Register", "da/da0/a13970.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
-    [ "Validate", "da/da0/a13970.html#a56f71954e122f651c6e2ec68453e16cc", null ]
+    [ "boss_wushoolayAI", "da/da0/a13970.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
+    [ "JustEngagedWith", "da/da0/a13970.html#af519da543fff63a39a6fbe48f90f2f22", null ],
+    [ "UpdateAI", "da/da0/a13970.html#acfaacee2a97212eb15056c1552b9e06b", null ]
 ];

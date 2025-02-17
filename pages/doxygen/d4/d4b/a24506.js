@@ -1,6 +1,7 @@
 var a24506 =
 [
-    [ "OnHit", "d4/d4b/a24506.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
-    [ "PrepareSpellScript", "d4/d4b/a24506.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
-    [ "Register", "d4/d4b/a24506.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
+    [ "CheckProc", "d4/d4b/a24506.html#a5a74f30b941460c8347dca81dcee1bf6", null ],
+    [ "HandleProc", "d4/d4b/a24506.html#a15592382213762145eb30d85bfcbd60a", null ],
+    [ "PrepareAuraScript", "d4/d4b/a24506.html#a82201b03b7b642e7898889412a617712", null ],
+    [ "Register", "d4/d4b/a24506.html#aba014f9b0000d19cabbc5a9c763b934b", null ]
 ];

@@ -1,8 +1,7 @@
 var a13138 =
 [
-    [ "HandleApply", "d7/d5b/a13138.html#a2c64240e8675fc76598600ae2632570f", null ],
-    [ "HandleRemove", "d7/d5b/a13138.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
-    [ "PrepareAuraScript", "d7/d5b/a13138.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
-    [ "Register", "d7/d5b/a13138.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
-    [ "Validate", "d7/d5b/a13138.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
+    [ "CheckCast", "d7/d5b/a13138.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "d7/d5b/a13138.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "d7/d5b/a13138.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "d7/d5b/a13138.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

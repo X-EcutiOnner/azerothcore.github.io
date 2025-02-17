@@ -1,10 +1,10 @@
 var a24922 =
 [
-    [ "spell_gen_summon_elemental", "da/d63/a24922.html#ae2dece3ac20afe16430e741fab909fa1", null ],
-    [ "AfterApply", "da/d63/a24922.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
-    [ "AfterRemove", "da/d63/a24922.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
-    [ "PrepareAuraScript", "da/d63/a24922.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
-    [ "Register", "da/d63/a24922.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
-    [ "Validate", "da/d63/a24922.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
-    [ "_spellId", "da/d63/a24922.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
+    [ "Load", "da/d63/a24922.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
+    [ "OnPeriodic", "da/d63/a24922.html#ab1dc8acb8072f70625375480742fee5e", null ],
+    [ "PrepareAuraScript", "da/d63/a24922.html#a2e81d03893b23aa8dc9c615683206f75", null ],
+    [ "Register", "da/d63/a24922.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
+    [ "Validate", "da/d63/a24922.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
+    [ "_applyTimes", "da/d63/a24922.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
+    [ "stackAmount", "da/d63/a24922.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
 ];

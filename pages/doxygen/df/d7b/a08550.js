@@ -1,6 +1,9 @@
 var a08550 =
 [
-    [ "spellIdImmunityPredicate", "df/d7b/a08550.html#a04893e34d418a0649d51dfa82b559d9c", null ],
-    [ "operator()", "df/d7b/a08550.html#ae97afff7a6b3ea5dca917d3dbb9ef818", null ],
-    [ "_type", "df/d7b/a08550.html#a125dfe727d668b5b9820adf1f7f0e0a8", null ]
+    [ "achievements", "df/d7b/a08550.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
+    [ "items", "df/d7b/a08550.html#a2873836588f37b9a5cf691da2b6fa715", null ],
+    [ "levelMax", "df/d7b/a08550.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
+    [ "levelMin", "df/d7b/a08550.html#a823016216268e13116a46bcb40ea0e70", null ],
+    [ "quests", "df/d7b/a08550.html#a6150aa58762a13dcbfcb55507df77809", null ],
+    [ "reqItemLevel", "df/d7b/a08550.html#a97f262e488e178dad0c33f228808f69e", null ]
 ];

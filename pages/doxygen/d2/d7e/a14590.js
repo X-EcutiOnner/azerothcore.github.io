@@ -1,10 +1,6 @@
 var a14590 =
 [
-    [ "CurrId", "d2/d7e/a14590.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
-    [ "DestId", "d2/d7e/a14590.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
-    [ "o", "d2/d7e/a14590.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
-    [ "spellId", "d2/d7e/a14590.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
-    [ "x", "d2/d7e/a14590.html#a41c7bdb057d984f552a41835651d84f5", null ],
-    [ "y", "d2/d7e/a14590.html#abe083129d7a4e514e97eeae7cff40af5", null ],
-    [ "z", "d2/d7e/a14590.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
+    [ "npc_crate_helperAI", "d2/d7e/a14590.html#ad58a2f3746da7862658fb3b9e1580836", null ],
+    [ "SpellHit", "d2/d7e/a14590.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
+    [ "_marked", "d2/d7e/a14590.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
 ];

@@ -1,6 +1,6 @@
 var a17710 =
 [
-    [ "DespawnSelf", "da/d9b/a17710.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "da/d9b/a17710.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "da/d9b/a17710.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "HandleScript", "da/d9b/a17710.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
+    [ "PrepareSpellScript", "da/d9b/a17710.html#a68c0462bd108b04621f8288328f78b18", null ],
+    [ "Register", "da/d9b/a17710.html#aedaec0afc414800bc481a434592ffb5d", null ]
 ];

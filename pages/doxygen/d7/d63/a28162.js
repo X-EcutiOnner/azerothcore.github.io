@@ -1,7 +1,7 @@
 var a28162 =
 [
-    [ "~ByteBufferException", "d7/d63/a28162.html#a0ab73f9061c040127f70dbfc9a176509", null ],
-    [ "message", "d7/d63/a28162.html#ab1a64d8fc18565a04c347de29184f68c", null ],
-    [ "what", "d7/d63/a28162.html#a87896f7ab19f3032937f5f84e8cf440a", null ],
-    [ "msg_", "d7/d63/a28162.html#a314bdbb7063219f8256df894602e6b02", null ]
+    [ "Flags", "d7/d63/a28162.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
+    [ "ID", "d7/d63/a28162.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
+    [ "RangeMax", "d7/d63/a28162.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
+    [ "RangeMin", "d7/d63/a28162.html#a127a46f2382edea750ca567d5ea3d304", null ]
 ];

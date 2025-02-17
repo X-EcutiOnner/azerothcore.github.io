@@ -1,6 +1,10 @@
 var a16526 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "de/d67/a16530.html", "de/d67/a16530" ],
-    [ "instance_forge_of_souls", "d1/d9e/a16526.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "d1/d9e/a16526.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "boss_tharon_jaAI", "d1/d9e/a16526.html#a03025fa529e932f23479ff19b0cd8238", null ],
+    [ "DoAction", "d1/d9e/a16526.html#a655fd83c2d671847fea9ae393c132fb9", null ],
+    [ "JustDied", "d1/d9e/a16526.html#a7928b5db061f1073e1decc2d40601195", null ],
+    [ "JustEngagedWith", "d1/d9e/a16526.html#aab194a8f802eeb625d1a74960acbe154", null ],
+    [ "KilledUnit", "d1/d9e/a16526.html#a41e929a3768768eb06bafdee3269fd24", null ],
+    [ "Reset", "d1/d9e/a16526.html#a272e8565a9b00a27505b301d52814eee", null ],
+    [ "UpdateAI", "d1/d9e/a16526.html#a6f482cabcb0bd56711878a5ea297b950", null ]
 ];

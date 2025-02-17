@@ -1,27 +1,9 @@
 var a14458 =
 [
-    [ "npc_arthasAI", "da/db5/a14458.html#abaddb70881894577e50a01294ab1c8de", null ],
-    [ "DoAction", "da/db5/a14458.html#ac54fa660cf90d16e8088d15d2faf59c9", null ],
-    [ "GetEventNpc", "da/db5/a14458.html#aae8b1d8c4e51aadfb46e8ed664ce3c74", null ],
-    [ "JustDied", "da/db5/a14458.html#a22ff78f354f7bfcc4bda3eba934a1953", null ],
-    [ "JustEngagedWith", "da/db5/a14458.html#aace0b9c977da69b311eecf6de0cf42bb", null ],
-    [ "JustSummoned", "da/db5/a14458.html#a2e582bfb89c21ec6bc1451b70d0664ea", null ],
-    [ "ReorderInstance", "da/db5/a14458.html#aca7309b36c531ffdbdee842a69d11e84", null ],
-    [ "Reset", "da/db5/a14458.html#a4d839cda5bd7a6e20b2ee3052624f23a", null ],
-    [ "ScheduleNextEvent", "da/db5/a14458.html#a17eb5452fed26a8c4f64dd41b018fe74", null ],
-    [ "SendNextWave", "da/db5/a14458.html#ace215df8a11c009aa5b4f29ffa6ec5e3", null ],
-    [ "SpawnTimeRift", "da/db5/a14458.html#aa4908055e48e76ee1189c7bc7046b01d", null ],
-    [ "SummonedCreatureDespawn", "da/db5/a14458.html#a29e7be7b161f8add8e7f502dc29efcb2", null ],
-    [ "SummonedCreatureDies", "da/db5/a14458.html#a28044cc9374c63dd7cd853918eeab5bd", null ],
-    [ "SummonNextWave", "da/db5/a14458.html#abf90e835139da0fdfca443a690e49a0b", null ],
-    [ "UpdateAI", "da/db5/a14458.html#ac17e7dd501117025ea07c3d834e4e598", null ],
-    [ "WaypointReached", "da/db5/a14458.html#a32c42420cad46b39db528611893ffc12", null ],
-    [ "actionEvents", "da/db5/a14458.html#a581e9b0704ebb1d154e81b772dcf5dea", null ],
-    [ "combatEvents", "da/db5/a14458.html#a4ca63fe136d8acacedb1a3770c36beab", null ],
-    [ "eventInRun", "da/db5/a14458.html#abd0371c89f2d0986c73ac26080b61a4e", null ],
-    [ "pInstance", "da/db5/a14458.html#a57aa8b51d0c55b196dbbcc6aa4e300c3", null ],
-    [ "summons", "da/db5/a14458.html#a820fda0dce1083821b7a121e8ffc148a", null ],
-    [ "timeRiftId", "da/db5/a14458.html#aa1896b017eecc8a87715ac0cd2383266", null ],
-    [ "waveGroupId", "da/db5/a14458.html#a552bf13e89cb6f5fe9a79c596a3d7b99", null ],
-    [ "waveKillCount", "da/db5/a14458.html#a37d5ead96159ee03d31a2ac3bcf955de", null ]
+    [ "boss_azgalor", "da/db5/a14458.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "da/db5/a14458.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "da/db5/a14458.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "da/db5/a14458.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "da/db5/a14458.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
+    [ "_recentlySpoken", "da/db5/a14458.html#abea34396ddde0aa02a073b2f3119fec9", null ]
 ];

@@ -1,25 +1,11 @@
 var a12786 =
 [
-    [ "npc_highlord_darion_mograineAI", "d5/d79/a12786.html#a04be4c12a255c082b2a00daf40e86d96", null ],
-    [ "DoAction", "d5/d79/a12786.html#a7103aa11bc2dff6942f4a4de5cd8d759", null ],
-    [ "FinishFight", "d5/d79/a12786.html#ab3fef458ca3180f49d78579f7485e76c", null ],
-    [ "GetData", "d5/d79/a12786.html#aa3eae106cf85eb7cb163f9780bf16b9f", null ],
-    [ "GetEntryFromSummons", "d5/d79/a12786.html#a2c9e336d14667aabc3e1a8f3a99fc1e7", null ],
-    [ "JustDied", "d5/d79/a12786.html#a2875789a251381677106f74e61efaa77", null ],
-    [ "JustEngagedWith", "d5/d79/a12786.html#ac6ca07a76351dfc5a82b0a57fdfa08d8", null ],
-    [ "JustRespawned", "d5/d79/a12786.html#a3116088116fe6b4a6b42014f7f5fb3a8", null ],
-    [ "JustSummoned", "d5/d79/a12786.html#a9ddc2350ffbbf6e3ae91410da55bd326", null ],
-    [ "MovementInform", "d5/d79/a12786.html#a205b7ebb74ca3be7a6a11fb2d8670288", null ],
-    [ "Reset", "d5/d79/a12786.html#a7dde645763bab79e34fa7421dbec518e", null ],
-    [ "SendInitialWorldStates", "d5/d79/a12786.html#ab49e38e481fcb263337f5224c1db7383", null ],
-    [ "SendUpdateWorldState", "d5/d79/a12786.html#a32fed806170c3664eeb1dd2a1bfdf278", null ],
-    [ "SummonedCreatureDies", "d5/d79/a12786.html#aa0935ab5c5a8a3ad41719e520703ff92", null ],
-    [ "UpdateAI", "d5/d79/a12786.html#a086efd646a7298ce17f7ead4688fa022", null ],
-    [ "battleStarted", "d5/d79/a12786.html#aecb7e1bdebf943e1793656f8a9c39917", null ],
-    [ "defendersRemaining", "d5/d79/a12786.html#a49b41a9719548bffd2020caea7a94a3d", null ],
-    [ "events", "d5/d79/a12786.html#a2155cbea373225904a3645a77738dea4", null ],
-    [ "resetExecuted", "d5/d79/a12786.html#ae1431b2f46cf2ae096e7ddfb22e54a28", null ],
-    [ "scourgeRemaining", "d5/d79/a12786.html#aabaa1fb49467d4dc5abf2a14ec833d15", null ],
-    [ "startTimeRemaining", "d5/d79/a12786.html#a503f8e5166ec08664085ae032611de61", null ],
-    [ "summons", "d5/d79/a12786.html#ae592eef844350ca8fa8415f343d8dffc", null ]
+    [ "npc_scarlet_ghoulAI", "d5/d79/a12786.html#a194795143717de5aa8f0ca4c4e516136", null ],
+    [ "InitializeAI", "d5/d79/a12786.html#ad0fd204d15350332508b0c9d9decefb1", null ],
+    [ "MovementInform", "d5/d79/a12786.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
+    [ "OwnerAttackedBy", "d5/d79/a12786.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
+    [ "SetGUID", "d5/d79/a12786.html#a832602498643a03087efbc0a5a2f81c3", null ],
+    [ "UpdateAI", "d5/d79/a12786.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
+    [ "events", "d5/d79/a12786.html#a105ac0982d28be590d514d2e452109c0", null ],
+    [ "gothikGUID", "d5/d79/a12786.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
 ];

@@ -1,6 +1,7 @@
 var a27838 =
 [
-    [ "Id", "d6/d9a/a27838.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
-    [ "SpellId", "d6/d9a/a27838.html#ae8c119bacf706916f331d3f316fb1347", null ],
-    [ "TypeFlags", "d6/d9a/a27838.html#aae92871758e9a738a888cacf0946f16b", null ]
+    [ "cutPercent", "d6/d9a/a27838.html#a8581a6a5198dab10680f477a477a7c80", null ],
+    [ "depositPercent", "d6/d9a/a27838.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
+    [ "faction", "d6/d9a/a27838.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
+    [ "houseId", "d6/d9a/a27838.html#a1bf77c1b14731def0e3de44143df2eed", null ]
 ];

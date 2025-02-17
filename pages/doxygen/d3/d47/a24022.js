@@ -1,7 +1,5 @@
 var a24022 =
 [
-    [ "HandlePeriodic", "d3/d47/a24022.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "d3/d47/a24022.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "d3/d47/a24022.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "d3/d47/a24022.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "creature", "d3/d47/a24022.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
+    [ "Timer", "d3/d47/a24022.html#a2be497dc190c1f01f939e12083739882", null ]
 ];

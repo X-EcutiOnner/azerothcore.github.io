@@ -1,7 +1,6 @@
 var a17810 =
 [
-    [ "PeriodicTick", "d0/d49/a17810.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4", null ],
-    [ "PrepareAuraScript", "d0/d49/a17810.html#afcadfbdd84608e827b89c64bf03c8501", null ],
-    [ "Register", "d0/d49/a17810.html#a0e8e8685ce8c1eea2b60e8bf6aeed782", null ],
-    [ "Validate", "d0/d49/a17810.html#a879b657d94c1faf6225fe64f907cdf82", null ]
+    [ "ExtraRemoveEffect", "d0/d49/a17810.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
+    [ "PrepareAuraScript", "d0/d49/a17810.html#a41992ed6c23275d3a910915755b682f9", null ],
+    [ "Register", "d0/d49/a17810.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
 ];

@@ -1,6 +1,6 @@
 var a25394 =
 [
-    [ "PartyTimeEmoteEvent", "db/df0/a25394.html#a525efd58fc8465658208058e6dc5d31c", null ],
-    [ "Execute", "db/df0/a25394.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
-    [ "_player", "db/df0/a25394.html#a61ecb44828c6e4c868def8899791feb3", null ]
+    [ "HandleDummy", "db/df0/a25394.html#ad086618ff3caadcf5126e12a1359503f", null ],
+    [ "PrepareSpellScript", "db/df0/a25394.html#a4b3a79a9ba01226038a1da886f6a2f7c", null ],
+    [ "Register", "db/df0/a25394.html#a214526ddc986ee829daf9090678e3a7b", null ]
 ];

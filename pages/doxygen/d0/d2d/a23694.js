@@ -1,6 +1,6 @@
 var a23694 =
 [
-    [ "npc_simon_bunnyAI", "d8/df6/a23698.html", "d8/df6/a23698" ],
-    [ "npc_simon_bunny", "d0/d2d/a23694.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
-    [ "GetAI", "d0/d2d/a23694.html#ac0c97609916321a1599c0722803a050f", null ]
+    [ "HandleScriptEffect", "d0/d2d/a23694.html#a724e857ad8604ef4546c8823bb7bd632", null ],
+    [ "PrepareSpellScript", "d0/d2d/a23694.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
+    [ "Register", "d0/d2d/a23694.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
 ];

@@ -1,12 +1,8 @@
 var a18182 =
 [
-    [ "npc_the_lich_king_controllerAI", "dc/def/a18182.html#a211c370e9c370e00fba3c83e51738886", null ],
-    [ "AttackStart", "dc/def/a18182.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
-    [ "DoAction", "dc/def/a18182.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
-    [ "JustSummoned", "dc/def/a18182.html#aa610e24316505165cbb826ff5bece5c5", null ],
-    [ "MoveInLineOfSight", "dc/def/a18182.html#a0ee33ab5733c12163e92213376e893e4", null ],
-    [ "Reset", "dc/def/a18182.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
-    [ "UpdateAI", "dc/def/a18182.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
-    [ "_events", "dc/def/a18182.html#a90c3d818318004c7c21ec66d4d080615", null ],
-    [ "_instance", "dc/def/a18182.html#a480a284881ba5f56bc6222607bd01a76", null ]
+    [ "Load", "dc/def/a18182.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
+    [ "OnRemove", "dc/def/a18182.html#a43b23e5c53cca872a26737d790f2893d", null ],
+    [ "PrepareAuraScript", "dc/def/a18182.html#ae51bcb37894240c6fd064cd329698a55", null ],
+    [ "Register", "dc/def/a18182.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
+    [ "Validate", "dc/def/a18182.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
 ];

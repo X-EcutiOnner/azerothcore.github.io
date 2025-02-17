@@ -1,7 +1,6 @@
 var a23850 =
 [
-    [ "HandleScriptEffect", "dd/d51/a23850.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
-    [ "PrepareSpellScript", "dd/d51/a23850.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
-    [ "Register", "dd/d51/a23850.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
-    [ "Validate", "dd/d51/a23850.html#a5209de3456c374010502a94f67ff4544", null ]
+    [ "npc_ancestral_wolfAI", "d2/d4f/a23854.html", "d2/d4f/a23854" ],
+    [ "npc_ancestral_wolf", "dd/d51/a23850.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "dd/d51/a23850.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

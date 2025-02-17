@@ -1,6 +1,7 @@
 var a20578 =
 [
-    [ "boss_yoggsaron_influence_tentacleAI", "d4/d2e/a20582.html", "d4/d2e/a20582" ],
-    [ "boss_yoggsaron_influence_tentacle", "de/d43/a20578.html#a44155d82364bdde7e00131be3b6edfb6", null ],
-    [ "GetAI", "de/d43/a20578.html#afb691fae90c0add07cfc8c02b9d2b975", null ]
+    [ "npc_xt002_life_sparkAI", "de/d43/a20578.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
+    [ "Reset", "de/d43/a20578.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
+    [ "UpdateAI", "de/d43/a20578.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
+    [ "_attackTimer", "de/d43/a20578.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
 ];

@@ -1,6 +1,6 @@
 var a19598 =
 [
-    [ "npc_hodirs_furyAI", "dd/dad/a19602.html", "dd/dad/a19602" ],
-    [ "npc_hodirs_fury", "db/d79/a19598.html#af5e0f1cb4c478bd4fc9ec246aa7d7e08", null ],
-    [ "GetAI", "db/d79/a19598.html#ad8856a6da86a8f4ce744d57614ee16e6", null ]
+    [ "CastRunesEvent", "db/d79/a19598.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "db/d79/a19598.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "db/d79/a19598.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

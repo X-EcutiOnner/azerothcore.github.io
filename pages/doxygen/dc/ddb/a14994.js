@@ -1,16 +1,7 @@
 var a14994 =
 [
-    [ "npc_muglashAI", "dc/ddb/a14994.html#af1988703aaaac04e5853c33e5b915ca2", null ],
-    [ "DoAction", "dc/ddb/a14994.html#afba6c4441ff4da54f89709b3c2bcd4d4", null ],
-    [ "DoWaveSummon", "dc/ddb/a14994.html#aaf862468f5ba0c6f99056a81a472c6e2", null ],
-    [ "JustDied", "dc/ddb/a14994.html#a5936dd183091c462e4835a00f81020f5", null ],
-    [ "JustEngagedWith", "dc/ddb/a14994.html#a587c8cb4562e93cecccb20e93cabba05", null ],
-    [ "JustSummoned", "dc/ddb/a14994.html#a07e451149dbf6b72e01f94dc8f07edf3", null ],
-    [ "Reset", "dc/ddb/a14994.html#a98933c32f2550989356b3e876d302b88", null ],
-    [ "sQuestAccept", "dc/ddb/a14994.html#a6c93a53a7b8bcd200ebca0e9d366f6fe", null ],
-    [ "UpdateAI", "dc/ddb/a14994.html#a6b479f50428536997faef96e510dbd84", null ],
-    [ "WaypointReached", "dc/ddb/a14994.html#a8f91b74c0d8778a73e0bc95dce339f2b", null ],
-    [ "_isBrazierExtinguished", "dc/ddb/a14994.html#aeec098d6a65b6852598a4e4b6888a410", null ],
-    [ "eventTimer", "dc/ddb/a14994.html#a548e142bb509b4606b6fcf98d926cd44", null ],
-    [ "waveId", "dc/ddb/a14994.html#a06c0af398e53b5ea6bfd6fa80256f845", null ]
+    [ "npc_sartura_royal_guard", "dc/ddb/a14994.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "dc/ddb/a14994.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "dc/ddb/a14994.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "dc/ddb/a14994.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

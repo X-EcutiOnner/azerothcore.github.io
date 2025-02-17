@@ -1,6 +1,8 @@
 var a26810 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "d2/db2/a26810.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "d2/db2/a26810.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "d2/db2/a26810.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "CheckProc", "d2/db2/a26810.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
+    [ "HandleEffectProc", "d2/db2/a26810.html#af01d160cb2a55124361a2dd113acd0a7", null ],
+    [ "PrepareAuraScript", "d2/db2/a26810.html#aeffb8490a7208ae6e32a505283afbc03", null ],
+    [ "Register", "d2/db2/a26810.html#a5436413d098dde4b0fa1ed2259a47779", null ],
+    [ "Validate", "d2/db2/a26810.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
 ];

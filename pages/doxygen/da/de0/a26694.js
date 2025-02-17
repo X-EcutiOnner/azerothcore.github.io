@@ -1,8 +1,10 @@
 var a26694 =
 [
-    [ "CheckProc", "da/de0/a26694.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
-    [ "HandleEffectProc", "da/de0/a26694.html#af01d160cb2a55124361a2dd113acd0a7", null ],
-    [ "PrepareAuraScript", "da/de0/a26694.html#aeffb8490a7208ae6e32a505283afbc03", null ],
-    [ "Register", "da/de0/a26694.html#a5436413d098dde4b0fa1ed2259a47779", null ],
-    [ "Validate", "da/de0/a26694.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
+    [ "CheckProc", "da/de0/a26694.html#a257202ac9b80a67ce58d9e3491164d22", null ],
+    [ "HandleProc", "da/de0/a26694.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
+    [ "HandleTick", "da/de0/a26694.html#a5e436c530e5ef70bc4de4305676ed196", null ],
+    [ "PrepareAuraScript", "da/de0/a26694.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
+    [ "Register", "da/de0/a26694.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
+    [ "RemoveEffect", "da/de0/a26694.html#a333ad80d8478f59713ee049f935d7885", null ],
+    [ "Validate", "da/de0/a26694.html#aed3cb37f0230463978b210add84bd31d", null ]
 ];

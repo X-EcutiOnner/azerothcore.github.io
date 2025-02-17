@@ -1,7 +1,6 @@
 var a04061 =
 [
-    [ "gobject_commandscript", "d1/dbe/a11442.html", "d1/dbe/a11442" ],
-    [ "GameObjectEntry", "d7/dfc/a04061.html#af6e4fdc2f36213d5f2a9fa6f335517b8", null ],
-    [ "GameObjectSpawnId", "d7/dfc/a04061.html#ad5bd2a208bd6c6213df595ee7369126f", null ],
-    [ "AddSC_gobject_commandscript", "d7/dfc/a04061.html#a0cc4be9c12b1a892f031cb1ff47e23d9", null ]
+    [ "DatabaseWorkerPool< T >", "db/d53/a05650.html", "db/d53/a05650" ],
+    [ "MIN_MYSQL_CLIENT_VERSION", "d7/dfc/a04061.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
+    [ "MIN_MYSQL_SERVER_VERSION", "d7/dfc/a04061.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
 ];

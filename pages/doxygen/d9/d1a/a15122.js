@@ -1,7 +1,7 @@
 var a15122 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "d7/de6/a15126.html", "d7/de6/a15126" ],
-    [ "npc_aged_dying_ancient_kodo", "d9/d1a/a15122.html#a676170a319d3a8e46c9d017e61396c28", null ],
-    [ "GetAI", "d9/d1a/a15122.html#a886bc82764e4ca6d98dc94ea73415375", null ],
-    [ "OnGossipHello", "d9/d1a/a15122.html#a8489b3f23d8eca39f2750711512672e4", null ]
+    [ "npc_rizzle_sprysprocketAI", "d7/de6/a15126.html", "d7/de6/a15126" ],
+    [ "npc_rizzle_sprysprocket", "d9/d1a/a15122.html#a3bd65f716b42200cc37d2264ddedf735", null ],
+    [ "GetAI", "d9/d1a/a15122.html#ae445545476b4046db305117fa635e7f5", null ],
+    [ "OnGossipHello", "d9/d1a/a15122.html#a3a42f3ffc35683b55de5bcc8d2b24647", null ]
 ];

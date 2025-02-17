@@ -1,5 +1,6 @@
 var a14910 =
 [
-    [ "npc_toxic_slime", "db/de2/a14910.html#a4c3a03916280342ec9aec07049de161f", null ],
-    [ "InitializeAI", "db/de2/a14910.html#ae69f228040aaa5bc4df40a652f551992", null ]
+    [ "HandleScriptEffect", "db/de2/a14910.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
+    [ "PrepareSpellScript", "db/de2/a14910.html#aa109d61baba87acf5bce5d44bff55214", null ],
+    [ "Register", "db/de2/a14910.html#ac8412777c84abfe56262d6d83163e9a1", null ]
 ];

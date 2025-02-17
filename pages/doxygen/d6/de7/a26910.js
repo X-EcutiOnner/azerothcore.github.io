@@ -1,5 +1,5 @@
 var a26910 =
 [
-    [ "go_ethereum_prison", "d6/de7/a26910.html#a1872dab11a8470194ab35f87e217aa8a", null ],
-    [ "OnGossipHello", "d6/de7/a26910.html#a73479b0512ea778336fad4bd5cd9b909", null ]
+    [ "AreaTrigger_at_last_rites", "d6/de7/a26910.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
+    [ "OnTrigger", "d6/de7/a26910.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
 ];

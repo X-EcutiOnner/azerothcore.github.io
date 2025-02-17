@@ -1,10 +1,9 @@
 var a09190 =
 [
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d4/d14/a09190.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d4/d14/a09190.html#a1e25384d08beeee84d83e401f5a5a565", null ],
-    [ "operator()", "d4/d14/a09190.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
-    [ "i_alive", "d4/d14/a09190.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
-    [ "i_entry", "d4/d14/a09190.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
-    [ "i_obj", "d4/d14/a09190.html#aa0340c79c37f3494b01c52f034705aa4", null ],
-    [ "i_range", "d4/d14/a09190.html#a695af00612b17e0182ad76a5c3be2356", null ]
+    [ "UnitListSearcher", "d4/d14/a09190.html#a24c0de32dc3baa927962626421a343ae", null ],
+    [ "Visit", "d4/d14/a09190.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
+    [ "Visit", "d4/d14/a09190.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
+    [ "Visit", "d4/d14/a09190.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
+    [ "i_check", "d4/d14/a09190.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
+    [ "i_phaseMask", "d4/d14/a09190.html#a43c863350bea423cf4a720c4c680fd4c", null ]
 ];

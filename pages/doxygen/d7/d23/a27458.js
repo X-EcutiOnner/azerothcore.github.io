@@ -1,6 +1,6 @@
 var a27458 =
 [
-    [ "npc_guardianAI", "d5/d04/a27462.html", "d5/d04/a27462" ],
-    [ "npc_guardian", "d7/d23/a27458.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "d7/d23/a27458.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "npc_experience", "d7/d23/a27458.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "d7/d23/a27458.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "d7/d23/a27458.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

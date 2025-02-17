@@ -1,7 +1,5 @@
 var a14146 =
 [
-    [ "HandleScript", "dc/d14/a14146.html#a78899a874a645d531dd4d89f2bd5478a", null ],
-    [ "PrepareSpellScript", "dc/d14/a14146.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
-    [ "Register", "dc/d14/a14146.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
-    [ "Validate", "dc/d14/a14146.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
+    [ "npc_cw_area_triggerAI", "dc/d14/a14146.html#aede21e01dfe762922562b6f5d57bc406", null ],
+    [ "MoveInLineOfSight", "dc/d14/a14146.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
 ];

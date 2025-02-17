@@ -1,7 +1,6 @@
 var a16082 =
 [
-    [ "HandleAfterHit", "d4/db8/a16082.html#a6fc446385881ddb4c94de73199649816", null ],
-    [ "PrepareSpellScript", "d4/db8/a16082.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
-    [ "Register", "d4/db8/a16082.html#aaae368b2f647aa6a56827550e50dafe1", null ],
-    [ "Validate", "d4/db8/a16082.html#ad4c84071b538b657fa1302982f8799b4", null ]
+    [ "FilterTargets", "d4/db8/a16082.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
+    [ "PrepareSpellScript", "d4/db8/a16082.html#a697a52cbc50eafd2b0377621afb01557", null ],
+    [ "Register", "d4/db8/a16082.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
 ];

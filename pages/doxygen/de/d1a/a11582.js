@@ -1,12 +1,11 @@
 var a11582 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "de/d1a/a11582.html#af3620678992778edbb859622e057893a", null ],
-    [ "AttackStart", "de/d1a/a11582.html#aed39eaed8648ce78349c49ee33918b93", null ],
-    [ "EnterEvadeMode", "de/d1a/a11582.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
-    [ "JustRespawned", "de/d1a/a11582.html#a460c6912063587214ba0f2e01878d827", null ],
-    [ "Reset", "de/d1a/a11582.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
-    [ "UpdateAI", "de/d1a/a11582.html#a7bf1631810c8446bc157f8ff220199b7", null ],
-    [ "_attacked", "de/d1a/a11582.html#a56d7211a3565c19b499f7de2eda6c862", null ],
-    [ "_hasAura", "de/d1a/a11582.html#a1c0049100cde1c62daf80779d1135156", null ],
-    [ "events", "de/d1a/a11582.html#a49b8e01897cd5347bbd06cac254163f4", null ]
+    [ "instance_commandscript", "de/d1a/a11582.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
+    [ "GetCommands", "de/d1a/a11582.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
+    [ "HandleInstanceGetBossStateCommand", "de/d1a/a11582.html#a0530ca6481073d6bafd11596546140b0", null ],
+    [ "HandleInstanceListBindsCommand", "de/d1a/a11582.html#abf42411f9c78ce59b21b34691e3d4233", null ],
+    [ "HandleInstanceSaveDataCommand", "de/d1a/a11582.html#a4b494a8b1de470612436fbb9fa433416", null ],
+    [ "HandleInstanceSetBossStateCommand", "de/d1a/a11582.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
+    [ "HandleInstanceStatsCommand", "de/d1a/a11582.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
+    [ "HandleInstanceUnbindCommand", "de/d1a/a11582.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
 ];

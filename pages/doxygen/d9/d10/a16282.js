@@ -1,6 +1,8 @@
 var a16282 =
 [
-    [ "boss_dreadscaleAI", "d1/d63/a16286.html", "d1/d63/a16286" ],
-    [ "boss_dreadscale", "d9/d10/a16282.html#ab3276e515419303358b0ee59bc92c12e", null ],
-    [ "GetAI", "d9/d10/a16282.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
+    [ "npc_toc_boomkinAI", "d9/d10/a16282.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "d9/d10/a16282.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "d9/d10/a16282.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "d9/d10/a16282.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "d9/d10/a16282.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

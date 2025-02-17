@@ -1,5 +1,7 @@
 var a07894 =
 [
-    [ "Name", "d1/d53/a07894.html#aa971d38e5169f2b7b610cf6cf0aec928", null ],
-    [ "Title", "d1/d53/a07894.html#a344cbaef4846d4c9c76e1d783dd2b4fc", null ]
+    [ "LfgProposalPlayer", "d1/d53/a07894.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
+    [ "accept", "d1/d53/a07894.html#acbf0ce1e12307569487096dc5ca544a6", null ],
+    [ "group", "d1/d53/a07894.html#a900f24e9caaa1569eeea93b4284139a1", null ],
+    [ "role", "d1/d53/a07894.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
 ];

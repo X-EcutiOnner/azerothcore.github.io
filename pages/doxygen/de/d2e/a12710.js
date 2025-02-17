@@ -1,6 +1,6 @@
 var a12710 =
 [
-    [ "npc_scarlet_minerAI", "df/d93/a12714.html", "df/d93/a12714" ],
-    [ "npc_scarlet_miner", "de/d2e/a12710.html#a8948afd8a41c23ab3afbda9949d9019d", null ],
-    [ "GetAI", "de/d2e/a12710.html#abd2973972788ce9b39572aaa819d0690", null ]
+    [ "boss_kagani_nightstrike", "de/d2e/a12710.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
+    [ "JustEngagedWith", "de/d2e/a12710.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
+    [ "MovementInform", "de/d2e/a12710.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
 ];

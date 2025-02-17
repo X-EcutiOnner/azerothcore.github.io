@@ -1,8 +1,7 @@
 var a09550 =
 [
-    [ "EllipseBoundary", "d1/dbc/a09550.html#aeb8c822a8c4c745de0c848721a624545", null ],
-    [ "IsWithinBoundaryArea", "d1/dbc/a09550.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
-    [ "_center", "d1/dbc/a09550.html#aa84bae8bced77e38fec652e473cf39c7", null ],
-    [ "_radiusYSq", "d1/dbc/a09550.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
-    [ "_scaleXSq", "d1/dbc/a09550.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
+    [ "InstancePlayerBind", "d1/dbc/a09550.html#abc20bba094d04eb724d03b8290102981", null ],
+    [ "extended", "d1/dbc/a09550.html#a9327f62b74eea3a1a525b2fec6d90b69", null ],
+    [ "perm", "d1/dbc/a09550.html#ab35249eb791941b484ecc321b1102b24", null ],
+    [ "save", "d1/dbc/a09550.html#a24ef1e0e0a38033a16b697c32e3d8234", null ]
 ];

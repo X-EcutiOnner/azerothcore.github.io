@@ -1,8 +1,10 @@
 var a15534 =
 [
-    [ "HandleScriptEffect", "d0/de0/a15534.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
-    [ "Load", "d0/de0/a15534.html#ab293f8b536957558fa8886e1f4a23e74", null ],
-    [ "PrepareSpellScript", "d0/de0/a15534.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
-    [ "Register", "d0/de0/a15534.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
-    [ "Validate", "d0/de0/a15534.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
+    [ "npc_ameAI", "d0/de0/a15534.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
+    [ "JustDied", "d0/de0/a15534.html#a9b77f94f112477509c3163945ceb8201", null ],
+    [ "JustSummoned", "d0/de0/a15534.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
+    [ "Reset", "d0/de0/a15534.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
+    [ "UpdateAI", "d0/de0/a15534.html#a0a073e4c216985607aa51099044ff6c5", null ],
+    [ "WaypointReached", "d0/de0/a15534.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
+    [ "DemoralizingShoutTimer", "d0/de0/a15534.html#ab5d1786735adea4bce1bba8adf42a877", null ]
 ];

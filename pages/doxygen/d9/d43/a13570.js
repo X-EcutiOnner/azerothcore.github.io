@@ -1,7 +1,7 @@
 var a13570 =
 [
-    [ "npc_zuljin_vortex", "d9/d43/a13570.html#af3af996adc0a0dba4af992234f8356fb", null ],
-    [ "ChangeToNewPlayer", "d9/d43/a13570.html#ab353794ef978151999fdd2294783e757", null ],
-    [ "Reset", "d9/d43/a13570.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
-    [ "UpdateAI", "d9/d43/a13570.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
+    [ "boss_blight_wormAI", "d9/d43/a13570.html#af267e395fbd539f871e498dc6745c610", null ],
+    [ "Reset", "d9/d43/a13570.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
+    [ "UpdateAI", "d9/d43/a13570.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
+    [ "_events", "d9/d43/a13570.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
 ];

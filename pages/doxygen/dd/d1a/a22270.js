@@ -1,6 +1,6 @@
 var a22270 =
 [
-    [ "a", "dd/d1a/a22270.html#af01321c0fa24acf26086f7dccb326640", null ],
-    [ "h", "dd/d1a/a22270.html#a0b9b712fc851286077ee5bbd8136a413", null ],
-    [ "n", "dd/d1a/a22270.html#aad82b0a6ff47c6997a6b8d5492748b63", null ]
+    [ "npc_captured_rageclawAI", "d0/d8f/a22274.html", "d0/d8f/a22274" ],
+    [ "npc_captured_rageclaw", "dd/d1a/a22270.html#ad49176279e9d16a6a24c0649c576c0be", null ],
+    [ "GetAI", "dd/d1a/a22270.html#aa39b6c518fe22d91b8673cfd576866a4", null ]
 ];

@@ -1,11 +1,14 @@
 var a00035 =
 [
-    [ "Acore::GeneralLock< MUTEX >", "d2/d74/a05318.html", "d2/d74/a05318" ],
-    [ "Acore::SingleThreaded< T >", "da/d4d/a05322.html", "da/d4d/a05322" ],
-    [ "Acore::SingleThreaded< T >::Lock", "d9/d7c/a05326.html", "d9/d7c/a05326" ],
-    [ "Acore::ObjectLevelLockable< T, MUTEX >", "db/d4c/a05330.html", "db/d4c/a05330" ],
-    [ "Acore::ObjectLevelLockable< T, MUTEX >::Lock", "dc/dcf/a05334.html", "dc/dcf/a05334" ],
-    [ "Acore::ClassLevelLockable< T, MUTEX >", "da/da3/a05338.html", "da/da3/a05338" ],
-    [ "Acore::ClassLevelLockable< T, MUTEX >::Lock", "dc/dbc/a05342.html", "dc/dbc/a05342" ],
-    [ "INSTANTIATE_CLASS_MUTEX", "d4/d8c/a00035.html#a517f069300d9fa1587cf281664c72a75", null ]
+    [ "AccountInfo", "d9/dc0/a05606.html", "d9/dc0/a05606" ],
+    [ "AuthSession", "d6/dea/a05610.html", "d6/dea/a05610" ],
+    [ "AuthHandler", "dc/d69/a05614.html", "dc/d69/a05614" ],
+    [ "AuthStatus", "d4/d8c/a00035.html#a9bc15a6035dd7c4983d87a5ccb3d5834", [
+      [ "STATUS_CHALLENGE", "d4/d8c/a00035.html#a9bc15a6035dd7c4983d87a5ccb3d5834a90b814e742d5a0b33f968164487ecac4", null ],
+      [ "STATUS_LOGON_PROOF", "d4/d8c/a00035.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16", null ],
+      [ "STATUS_RECONNECT_PROOF", "d4/d8c/a00035.html#a9bc15a6035dd7c4983d87a5ccb3d5834a2a06e7508d5944327eec6c08c11db734", null ],
+      [ "STATUS_AUTHED", "d4/d8c/a00035.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b", null ],
+      [ "STATUS_WAITING_FOR_REALM_LIST", "d4/d8c/a00035.html#a9bc15a6035dd7c4983d87a5ccb3d5834a570e0aef98212ddcd09f1ec9254ffdf0", null ],
+      [ "STATUS_CLOSED", "d4/d8c/a00035.html#a9bc15a6035dd7c4983d87a5ccb3d5834a78785eb1e6f5b92eaea5c78b3cc0dd94", null ]
+    ] ]
 ];

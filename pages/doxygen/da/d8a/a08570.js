@@ -1,8 +1,10 @@
 var a08570 =
 [
-    [ "CleanDamage", "da/d8a/a08570.html#ad25ab816a679e323c07873efbc1c2f20", null ],
-    [ "absorbed_damage", "da/d8a/a08570.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
-    [ "attackType", "da/d8a/a08570.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
-    [ "hitOutCome", "da/d8a/a08570.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
-    [ "mitigated_damage", "da/d8a/a08570.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
+    [ "Index", "da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084bac", [
+      [ "REGULAR", "da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
+      [ "ADDON", "da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
+      [ "MAX", "da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
+    ] ],
+    [ "Count", "da/d8a/a08570.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
+    [ "Time", "da/d8a/a08570.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
 ];

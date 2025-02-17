@@ -1,6 +1,6 @@
 var a22742 =
 [
-    [ "instance_black_temple_InstanceMapScript", "dd/d30/a22746.html", "dd/d30/a22746" ],
-    [ "instance_black_temple", "d9/da4/a22742.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
-    [ "GetInstanceScript", "d9/da4/a22742.html#a947a1279eabde75d9884b1ef84b295a3", null ]
+    [ "boss_essence_of_angerAI", "dd/d30/a22746.html", "dd/d30/a22746" ],
+    [ "boss_essence_of_anger", "d9/da4/a22742.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "d9/da4/a22742.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

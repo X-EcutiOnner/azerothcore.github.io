@@ -1,6 +1,6 @@
 var a17890 =
 [
-    [ "VileSpiritActivateEvent", "d5/dc5/a17890.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
-    [ "Execute", "d5/dc5/a17890.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
-    [ "_owner", "d5/dc5/a17890.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
+    [ "CheckProc", "d5/dc5/a17890.html#ad701d353f03eb5a1ccca28a6530555db", null ],
+    [ "PrepareAuraScript", "d5/dc5/a17890.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
+    [ "Register", "d5/dc5/a17890.html#a4f787e29064c15f4dad9047ff618982a", null ]
 ];

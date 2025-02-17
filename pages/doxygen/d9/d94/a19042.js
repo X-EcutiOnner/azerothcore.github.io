@@ -1,7 +1,7 @@
 var a19042 =
 [
-    [ "HandlePull", "d9/d94/a19042.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "d9/d94/a19042.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "d9/d94/a19042.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "d9/d94/a19042.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "boss_naxxramas_miscAI", "d9/d94/a19042.html#affd990236c101d91b31f60eea7135cdf", null ],
+    [ "JustDied", "d9/d94/a19042.html#aae92d4b538907ef829f5f534f16feef1", null ],
+    [ "UpdateAI", "d9/d94/a19042.html#a02fabc7b8669f3e9358a623b4cf0e84c", null ],
+    [ "timer", "d9/d94/a19042.html#a39af06c7bc635bf85eebf4ed40798006", null ]
 ];

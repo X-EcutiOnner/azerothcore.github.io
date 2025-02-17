@@ -1,9 +1,6 @@
 var a13742 =
 [
-    [ "npc_healing_ward", "df/dca/a13742.html#a3d3c35f61502d3a83cb2581119e08903", null ],
-    [ "JustEngagedWith", "df/dca/a13742.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
-    [ "Reset", "df/dca/a13742.html#a756d27a43d86c7ecde859df255c6bd62", null ],
-    [ "UpdateAI", "df/dca/a13742.html#a8b8635af33ce814602206064e0815520", null ],
-    [ "_instance", "df/dca/a13742.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
-    [ "_scheduler", "df/dca/a13742.html#a0c62fe945b491cab76175217a7d10c06", null ]
+    [ "npc_eagle_trash_aggro_trigger", "df/dca/a13742.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "df/dca/a13742.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "df/dca/a13742.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

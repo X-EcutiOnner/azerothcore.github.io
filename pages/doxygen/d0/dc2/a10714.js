@@ -1,10 +1,9 @@
 var a10714 =
 [
-    [ "WorldStateInfo", "d1/de3/a10718.html", "d1/de3/a10718" ],
-    [ "InitWorldStates", "d0/dc2/a10714.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
-    [ "Write", "d0/dc2/a10714.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
-    [ "AreaID", "d0/dc2/a10714.html#a98ac08c68b5c004fd352f38c7084531f", null ],
-    [ "MapID", "d0/dc2/a10714.html#a657c3043204c6957e8438c3c3c7068f3", null ],
-    [ "Worldstates", "d0/dc2/a10714.html#a29ffba2a130f0b93d61b2025255502fb", null ],
-    [ "ZoneID", "d0/dc2/a10714.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
+    [ "RandomRoll", "d0/dc2/a10714.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
+    [ "Write", "d0/dc2/a10714.html#aab5879874745603dd448a7f5084d60d4", null ],
+    [ "Max", "d0/dc2/a10714.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
+    [ "Min", "d0/dc2/a10714.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
+    [ "Result", "d0/dc2/a10714.html#a34fd2c1d018bb292836724671163ff07", null ],
+    [ "Roller", "d0/dc2/a10714.html#af02aa97826259885791d0f4afc0c1a84", null ]
 ];

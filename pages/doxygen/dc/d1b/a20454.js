@@ -1,7 +1,6 @@
 var a20454 =
 [
-    [ "npc_xt002_life_sparkAI", "dc/d1b/a20454.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
-    [ "Reset", "dc/d1b/a20454.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
-    [ "UpdateAI", "dc/d1b/a20454.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
-    [ "_attackTimer", "dc/d1b/a20454.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
+    [ "boss_thorim_sif_blizzardAI", "d7/ded/a20458.html", "d7/ded/a20458" ],
+    [ "boss_thorim_sif_blizzard", "dc/d1b/a20454.html#acc42b4c9434f9eece2d93c2e4f3697fc", null ],
+    [ "GetAI", "dc/d1b/a20454.html#afbff96363951c952a195f5c2a105e279", null ]
 ];

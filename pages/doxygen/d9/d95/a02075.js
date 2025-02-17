@@ -1,5 +1,5 @@
 var a02075 =
 [
-    [ "WorldPackets::LFG::LFGJoin", "d0/dad/a10562.html", "d0/dad/a10562" ],
-    [ "WorldPackets::LFG::LFGLeave", "df/dd4/a10566.html", "df/dd4/a10566" ]
+    [ "pet_commandscript", "d8/d8c/a11642.html", "d8/d8c/a11642" ],
+    [ "AddSC_pet_commandscript", "d9/d95/a02075.html#a9c7b2cae4f7afb6ae0c9ccc623877625", null ]
 ];

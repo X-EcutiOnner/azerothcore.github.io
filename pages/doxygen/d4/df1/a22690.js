@@ -1,6 +1,9 @@
 var a22690 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "d4/df1/a22690.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "d4/df1/a22690.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "d4/df1/a22690.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "boss_mother_shahraz", "d4/df1/a22690.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "d4/df1/a22690.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "d4/df1/a22690.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "d4/df1/a22690.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "d4/df1/a22690.html#ab9e4162ac92e786b84b6497c37251386", null ],
+    [ "_canTalk", "d4/df1/a22690.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
 ];

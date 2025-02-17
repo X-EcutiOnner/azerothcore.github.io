@@ -1,6 +1,8 @@
 var a14886 =
 [
-    [ "boss_veknilash", "d9/dc7/a14886.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "d9/dc7/a14886.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "d9/dc7/a14886.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "npc_obsidian_destroyer", "d9/dc7/a14886.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "d9/dc7/a14886.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "d9/dc7/a14886.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "d9/dc7/a14886.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "d9/dc7/a14886.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

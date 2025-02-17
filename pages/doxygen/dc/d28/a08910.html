@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: CellArea Struct Reference</title>
+<title>AzerothCore: SpellClickInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,145 +108,45 @@ $(document).ready(function(){initNavTree('dc/d28/a08910.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d1/db9/a08907.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">CellArea Struct Reference</div></div>
+  <div class="headertitle"><div class="title">SpellClickInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Cell.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ace8ca84753b4ec8681415386fb135053"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d28/a08910.html#ace8ca84753b4ec8681415386fb135053">CellArea</a> ()=default</td></tr>
-<tr class="separator:ace8ca84753b4ec8681415386fb135053"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a547aa2c544abb8de2c6defdd6ec77fa3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d28/a08910.html#a547aa2c544abb8de2c6defdd6ec77fa3">CellArea</a> (<a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> low, <a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> high)</td></tr>
-<tr class="separator:a547aa2c544abb8de2c6defdd6ec77fa3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a386d4a562c27155012daedc361541e3b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d28/a08910.html#a386d4a562c27155012daedc361541e3b">operator!</a> () const</td></tr>
-<tr class="separator:a386d4a562c27155012daedc361541e3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aebb8a0eb3210fa09d647d89ce8a0c7b8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d28/a08910.html#aebb8a0eb3210fa09d647d89ce8a0c7b8">ResizeBorders</a> (<a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;begin_cell, <a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;end_cell) const</td></tr>
-<tr class="separator:aebb8a0eb3210fa09d647d89ce8a0c7b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac175634ed2eab2911c3749fa208a073a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d28/a08910.html#ac175634ed2eab2911c3749fa208a073a">IsFitToRequirements</a> (<a class="el" href="../../d3/dfd/a08698.html">Unit</a> const *clicker, <a class="el" href="../../d3/dfd/a08698.html">Unit</a> const *clickee) const</td></tr>
+<tr class="separator:ac175634ed2eab2911c3749fa208a073a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a374fe9802c798e6ece359a8025b6e1df"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d28/a08910.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a></td></tr>
-<tr class="separator:a374fe9802c798e6ece359a8025b6e1df"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0c90f0474902deaafc4a64faaf6e8071"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d28/a08910.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a></td></tr>
-<tr class="separator:a0c90f0474902deaafc4a64faaf6e8071"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34641755a5267b7a907d320cc5b4ddb4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d28/a08910.html#a34641755a5267b7a907d320cc5b4ddb4">spellId</a></td></tr>
+<tr class="separator:a34641755a5267b7a907d320cc5b4ddb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03cd65a460ea252818de9230cb656c1c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d28/a08910.html#a03cd65a460ea252818de9230cb656c1c">castFlags</a></td></tr>
+<tr class="separator:a03cd65a460ea252818de9230cb656c1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adcf285572403481cb418bddebc5f4bfa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d3a/a00101.html#a8c185aa149e45af04af679431cac0776">SpellClickUserTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d28/a08910.html#adcf285572403481cb418bddebc5f4bfa">userType</a></td></tr>
+<tr class="separator:adcf285572403481cb418bddebc5f4bfa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ace8ca84753b4ec8681415386fb135053" name="ace8ca84753b4ec8681415386fb135053"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ace8ca84753b4ec8681415386fb135053">&#9670;&#160;</a></span>CellArea() <span class="overload">[1/2]</span></h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="ac175634ed2eab2911c3749fa208a073a" name="ac175634ed2eab2911c3749fa208a073a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac175634ed2eab2911c3749fa208a073a">&#9670;&#160;</a></span>IsFitToRequirements()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">CellArea::CellArea </td>
+          <td class="memname">bool SpellClickInfo::IsFitToRequirements </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a547aa2c544abb8de2c6defdd6ec77fa3" name="a547aa2c544abb8de2c6defdd6ec77fa3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a547aa2c544abb8de2c6defdd6ec77fa3">&#9670;&#160;</a></span>CellArea() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">CellArea::CellArea </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td>
-          <td class="paramname"><em>low</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d3/dfd/a08698.html">Unit</a> const *&#160;</td>
+          <td class="paramname"><em>clicker</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td>
-          <td class="paramname"><em>high</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   30</span>: <a class="code hl_variable" href="../../dc/d28/a08910.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a>(low), <a class="code hl_variable" href="../../dc/d28/a08910.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>(high) {}</div>
-<div class="ttc" id="aa08910_html_a0c90f0474902deaafc4a64faaf6e8071"><div class="ttname"><a href="../../dc/d28/a08910.html#a0c90f0474902deaafc4a64faaf6e8071">CellArea::high_bound</a></div><div class="ttdeci">CellCoord high_bound</div><div class="ttdef"><b>Definition:</b> Cell.h:41</div></div>
-<div class="ttc" id="aa08910_html_a374fe9802c798e6ece359a8025b6e1df"><div class="ttname"><a href="../../dc/d28/a08910.html#a374fe9802c798e6ece359a8025b6e1df">CellArea::low_bound</a></div><div class="ttdeci">CellCoord low_bound</div><div class="ttdef"><b>Definition:</b> Cell.h:40</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a386d4a562c27155012daedc361541e3b" name="a386d4a562c27155012daedc361541e3b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a386d4a562c27155012daedc361541e3b">&#9670;&#160;</a></span>operator!()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool CellArea::operator! </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   32</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d28/a08910.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a> == <a class="code hl_variable" href="../../dc/d28/a08910.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">high_bound</a>, and <a class="el" href="../../#l00040">low_bound</a>.</p>
-
-</div>
-</div>
-<a id="aebb8a0eb3210fa09d647d89ce8a0c7b8" name="aebb8a0eb3210fa09d647d89ce8a0c7b8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aebb8a0eb3210fa09d647d89ce8a0c7b8">&#9670;&#160;</a></span>ResizeBorders()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void CellArea::ResizeBorders </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;&#160;</td>
-          <td class="paramname"><em>begin_cell</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;&#160;</td>
-          <td class="paramname"><em>end_cell</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d3/dfd/a08698.html">Unit</a> const *&#160;</td>
+          <td class="paramname"><em>clickee</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -254,51 +154,101 @@ Public Attributes</h2></td></tr>
           <td></td><td> const</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
-<div class="line"><span class="lineno">   36</span>        begin_cell = <a class="code hl_variable" href="../../dc/d28/a08910.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a>;</div>
-<div class="line"><span class="lineno">   37</span>        end_cell = <a class="code hl_variable" href="../../dc/d28/a08910.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>;</div>
-<div class="line"><span class="lineno">   38</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  265</span>{</div>
+<div class="line"><span class="lineno">  266</span>    <a class="code hl_class" href="../../d3/d4a/a08566.html">Player</a> <span class="keyword">const</span>* playerClicker = clicker-&gt;<a class="code hl_function" href="../../d0/dc4/a08318.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
+<div class="line"><span class="lineno">  267</span>    <span class="keywordflow">if</span> (!playerClicker)</div>
+<div class="line"><span class="lineno">  268</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  269</span> </div>
+<div class="line"><span class="lineno">  270</span>    <a class="code hl_class" href="../../d3/dfd/a08698.html">Unit</a> <span class="keyword">const</span>* summoner = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  271</span>    <span class="comment">// Check summoners for party</span></div>
+<div class="line"><span class="lineno">  272</span>    <span class="keywordflow">if</span> (clickee-&gt;IsSummon())</div>
+<div class="line"><span class="lineno">  273</span>        summoner = clickee-&gt;<a class="code hl_function" href="../../d3/dfd/a08698.html#a6649e9ba10948d634bc0ac9c4a5800e5">ToTempSummon</a>()-&gt;<a class="code hl_function" href="../../d4/d98/a08074.html#ae76cc9614974a4e0ae95c3715aab3a70">GetSummonerUnit</a>();</div>
+<div class="line"><span class="lineno">  274</span>    <span class="keywordflow">if</span> (!summoner)</div>
+<div class="line"><span class="lineno">  275</span>        summoner = clickee;</div>
+<div class="line"><span class="lineno">  276</span> </div>
+<div class="line"><span class="lineno">  277</span>    <span class="comment">// This only applies to players</span></div>
+<div class="line"><span class="lineno">  278</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../dc/d28/a08910.html#adcf285572403481cb418bddebc5f4bfa">userType</a>)</div>
+<div class="line"><span class="lineno">  279</span>    {</div>
+<div class="line"><span class="lineno">  280</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d4/d3a/a00101.html#a8c185aa149e45af04af679431cac0776a663d3ff524f49239afc413f11ba51661">SPELL_CLICK_USER_FRIEND</a>:</div>
+<div class="line"><span class="lineno">  281</span>            <span class="keywordflow">if</span> (!playerClicker-&gt;<a class="code hl_function" href="../../d3/dfd/a08698.html#abdfe022523c40277d917754f75edb722">IsFriendlyTo</a>(summoner))</div>
+<div class="line"><span class="lineno">  282</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  283</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  284</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d4/d3a/a00101.html#a8c185aa149e45af04af679431cac0776a5901df316bc2f7e99ff8f4345270ac93">SPELL_CLICK_USER_RAID</a>:</div>
+<div class="line"><span class="lineno">  285</span>            <span class="keywordflow">if</span> (!playerClicker-&gt;<a class="code hl_function" href="../../d3/dfd/a08698.html#aba37c290cf4f3e5dbeb170714eb711b1">IsInRaidWith</a>(summoner))</div>
+<div class="line"><span class="lineno">  286</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  287</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  288</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d4/d3a/a00101.html#a8c185aa149e45af04af679431cac0776a3943de32359eefe202455cb08f4c5cb9">SPELL_CLICK_USER_PARTY</a>:</div>
+<div class="line"><span class="lineno">  289</span>            <span class="keywordflow">if</span> (!playerClicker-&gt;<a class="code hl_function" href="../../d3/dfd/a08698.html#aefb32cb21b4b745ed8fd3cc49644e5d7">IsInPartyWith</a>(summoner))</div>
+<div class="line"><span class="lineno">  290</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  291</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  292</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  293</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  294</span>    }</div>
+<div class="line"><span class="lineno">  295</span> </div>
+<div class="line"><span class="lineno">  296</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  297</span>}</div>
+<div class="ttc" id="aa00101_html_a8c185aa149e45af04af679431cac0776a3943de32359eefe202455cb08f4c5cb9"><div class="ttname"><a href="../../d4/d3a/a00101.html#a8c185aa149e45af04af679431cac0776a3943de32359eefe202455cb08f4c5cb9">SPELL_CLICK_USER_PARTY</a></div><div class="ttdeci">@ SPELL_CLICK_USER_PARTY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:684</div></div>
+<div class="ttc" id="aa00101_html_a8c185aa149e45af04af679431cac0776a5901df316bc2f7e99ff8f4345270ac93"><div class="ttname"><a href="../../d4/d3a/a00101.html#a8c185aa149e45af04af679431cac0776a5901df316bc2f7e99ff8f4345270ac93">SPELL_CLICK_USER_RAID</a></div><div class="ttdeci">@ SPELL_CLICK_USER_RAID</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:683</div></div>
+<div class="ttc" id="aa00101_html_a8c185aa149e45af04af679431cac0776a663d3ff524f49239afc413f11ba51661"><div class="ttname"><a href="../../d4/d3a/a00101.html#a8c185aa149e45af04af679431cac0776a663d3ff524f49239afc413f11ba51661">SPELL_CLICK_USER_FRIEND</a></div><div class="ttdeci">@ SPELL_CLICK_USER_FRIEND</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:682</div></div>
+<div class="ttc" id="aa08074_html_ae76cc9614974a4e0ae95c3715aab3a70"><div class="ttname"><a href="../../d4/d98/a08074.html#ae76cc9614974a4e0ae95c3715aab3a70">TempSummon::GetSummonerUnit</a></div><div class="ttdeci">Unit * GetSummonerUnit() const</div><div class="ttdef"><b>Definition:</b> TemporarySummon.cpp:44</div></div>
+<div class="ttc" id="aa08318_html_a328d5f752cc33ed398b3d9861ef6929d"><div class="ttname"><a href="../../d0/dc4/a08318.html#a328d5f752cc33ed398b3d9861ef6929d">Object::ToPlayer</a></div><div class="ttdeci">Player * ToPlayer()</div><div class="ttdef"><b>Definition:</b> Object.h:201</div></div>
+<div class="ttc" id="aa08566_html"><div class="ttname"><a href="../../d3/d4a/a08566.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1081</div></div>
+<div class="ttc" id="aa08698_html"><div class="ttname"><a href="../../d3/dfd/a08698.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:636</div></div>
+<div class="ttc" id="aa08698_html_a6649e9ba10948d634bc0ac9c4a5800e5"><div class="ttname"><a href="../../d3/dfd/a08698.html#a6649e9ba10948d634bc0ac9c4a5800e5">Unit::ToTempSummon</a></div><div class="ttdeci">TempSummon * ToTempSummon()</div><div class="ttdef"><b>Definition:</b> Unit.h:702</div></div>
+<div class="ttc" id="aa08698_html_aba37c290cf4f3e5dbeb170714eb711b1"><div class="ttname"><a href="../../d3/dfd/a08698.html#aba37c290cf4f3e5dbeb170714eb711b1">Unit::IsInRaidWith</a></div><div class="ttdeci">bool IsInRaidWith(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:18860</div></div>
+<div class="ttc" id="aa08698_html_abdfe022523c40277d917754f75edb722"><div class="ttname"><a href="../../d3/dfd/a08698.html#abdfe022523c40277d917754f75edb722">Unit::IsFriendlyTo</a></div><div class="ttdeci">bool IsFriendlyTo(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10293</div></div>
+<div class="ttc" id="aa08698_html_aefb32cb21b4b745ed8fd3cc49644e5d7"><div class="ttname"><a href="../../d3/dfd/a08698.html#aefb32cb21b4b745ed8fd3cc49644e5d7">Unit::IsInPartyWith</a></div><div class="ttdeci">bool IsInPartyWith(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:18837</div></div>
+<div class="ttc" id="aa08910_html_adcf285572403481cb418bddebc5f4bfa"><div class="ttname"><a href="../../dc/d28/a08910.html#adcf285572403481cb418bddebc5f4bfa">SpellClickInfo::userType</a></div><div class="ttdeci">SpellClickUserTypes userType</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:401</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">high_bound</a>, and <a class="el" href="../../#l00040">low_bound</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00044">TempSummon::GetSummonerUnit()</a>, <a class="el" href="../../#l10293">Unit::IsFriendlyTo()</a>, <a class="el" href="../../#l18837">Unit::IsInPartyWith()</a>, <a class="el" href="../../#l18860">Unit::IsInRaidWith()</a>, <a class="el" href="../../#l00760">Unit::IsSummon()</a>, <a class="el" href="../../#l00682">SPELL_CLICK_USER_FRIEND</a>, <a class="el" href="../../#l00684">SPELL_CLICK_USER_PARTY</a>, <a class="el" href="../../#l00683">SPELL_CLICK_USER_RAID</a>, <a class="el" href="../../#l00201">Object::ToPlayer()</a>, <a class="el" href="../../#l00702">Unit::ToTempSummon()</a>, and <a class="el" href="../../#l00401">userType</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a0c90f0474902deaafc4a64faaf6e8071" name="a0c90f0474902deaafc4a64faaf6e8071"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0c90f0474902deaafc4a64faaf6e8071">&#9670;&#160;</a></span>high_bound</h2>
+<a id="a03cd65a460ea252818de9230cb656c1c" name="a03cd65a460ea252818de9230cb656c1c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a03cd65a460ea252818de9230cb656c1c">&#9670;&#160;</a></span>castFlags</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> CellArea::high_bound</td>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> SpellClickInfo::castFlags</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00032">operator!()</a>, <a class="el" href="../../#l00034">ResizeBorders()</a>, <a class="el" href="../../#l00069">Cell::Visit()</a>, <a class="el" href="../../#l00699">Map::VisitNearbyCellsOf()</a>, and <a class="el" href="../../#l00664">Map::VisitNearbyCellsOfPlayer()</a>.</p>
-
 </div>
 </div>
-<a id="a374fe9802c798e6ece359a8025b6e1df" name="a374fe9802c798e6ece359a8025b6e1df"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a374fe9802c798e6ece359a8025b6e1df">&#9670;&#160;</a></span>low_bound</h2>
+<a id="a34641755a5267b7a907d320cc5b4ddb4" name="a34641755a5267b7a907d320cc5b4ddb4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a34641755a5267b7a907d320cc5b4ddb4">&#9670;&#160;</a></span>spellId</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> CellArea::low_bound</td>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellClickInfo::spellId</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00032">operator!()</a>, <a class="el" href="../../#l00034">ResizeBorders()</a>, <a class="el" href="../../#l00069">Cell::Visit()</a>, <a class="el" href="../../#l00699">Map::VisitNearbyCellsOf()</a>, and <a class="el" href="../../#l00664">Map::VisitNearbyCellsOfPlayer()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l08001">ObjectMgr::LoadNPCSpellClickSpells()</a>.</p>
+
+</div>
+</div>
+<a id="adcf285572403481cb418bddebc5f4bfa" name="adcf285572403481cb418bddebc5f4bfa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adcf285572403481cb418bddebc5f4bfa">&#9670;&#160;</a></span>userType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d3a/a00101.html#a8c185aa149e45af04af679431cac0776">SpellClickUserTypes</a> SpellClickInfo::userType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00264">IsFitToRequirements()</a>.</p>
 
 </div>
 </div>
@@ -307,8 +257,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/d28/a08910.html">CellArea</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:44:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/d28/a08910.html">SpellClickInfo</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:43:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

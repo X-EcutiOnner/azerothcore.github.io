@@ -1,6 +1,6 @@
 var a14462 =
 [
-    [ "npc_crate_helperAI", "da/d8b/a14466.html", "da/d8b/a14466" ],
-    [ "npc_crate_helper", "d7/d3b/a14462.html#ae08751928234656dcda84dd5c7e4cc37", null ],
-    [ "GetAI", "d7/d3b/a14462.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
+    [ "FilterTargets", "d7/d3b/a14462.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
+    [ "PrepareSpellScript", "d7/d3b/a14462.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
+    [ "Register", "d7/d3b/a14462.html#a164b8b946dc801db878603488c978adb", null ]
 ];

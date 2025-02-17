@@ -1,6 +1,6 @@
 var a19430 =
 [
-    [ "HandlePeriodic", "de/db7/a19430.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "de/db7/a19430.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "de/db7/a19430.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "d0/d67/a19434.html", "d0/d67/a19434" ],
+    [ "boss_sjonnir_iron_sludge", "de/db7/a19430.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
+    [ "GetAI", "de/db7/a19430.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
 ];

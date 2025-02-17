@@ -1,7 +1,10 @@
 var a15226 =
 [
-    [ "npc_shenthulAI", "dc/d61/a15230.html", "dc/d61/a15230" ],
-    [ "npc_shenthul", "d6/dd4/a15226.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "d6/dd4/a15226.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "d6/dd4/a15226.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "npc_rabid_thistle_bearAI", "d6/dd4/a15226.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
+    [ "Initialize", "d6/dd4/a15226.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
+    [ "Reset", "d6/dd4/a15226.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
+    [ "SpellHit", "d6/dd4/a15226.html#a62bde5a122748564cc806046bf9dcbaa", null ],
+    [ "UpdateAI", "d6/dd4/a15226.html#a8f6c5b873756a58760b2861bc8b86804", null ],
+    [ "_events", "d6/dd4/a15226.html#ad3852bf4588c453642e75fcdc544767b", null ],
+    [ "_playerGUID", "d6/dd4/a15226.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
 ];

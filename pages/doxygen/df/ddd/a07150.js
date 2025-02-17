@@ -1,7 +1,7 @@
 var a07150 =
 [
-    [ "BattlegroundObjectInfo", "df/ddd/a07150.html#a848f2b15f47ceeb91c40e916d5659486", null ],
-    [ "object", "df/ddd/a07150.html#a6722b83d6969c1a34b4846f19865075a", null ],
-    [ "spellid", "df/ddd/a07150.html#ae0233a1078bc735e40855ea7608f5f11", null ],
-    [ "timer", "df/ddd/a07150.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
+    [ "attackText", "df/ddd/a07150.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
+    [ "id", "df/ddd/a07150.html#a7f28adc30e9293df2f2c124469550d75", null ],
+    [ "takenText", "df/ddd/a07150.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
+    [ "worldstate", "df/ddd/a07150.html#a342ef087df4f9326952728c2192a3da3", null ]
 ];

@@ -1,9 +1,6 @@
 var a20726 =
 [
-    [ "npc_ulduar_keeperAI", "d0/d0a/a20726.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "d0/d0a/a20726.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "d0/d0a/a20726.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "d0/d0a/a20726.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "d0/d0a/a20726.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "d0/d0a/a20726.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "boss_yoggsaron_llaneAI", "de/d3a/a20730.html", "de/d3a/a20730" ],
+    [ "boss_yoggsaron_llane", "d0/d0a/a20726.html#a671df488222583aa12bc1c75695918b9", null ],
+    [ "GetAI", "d0/d0a/a20726.html#a1e7d1b4bce0ca1dbfbbe8c044b451b92", null ]
 ];

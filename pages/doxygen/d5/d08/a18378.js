@@ -1,6 +1,6 @@
 var a18378 =
 [
-    [ "npc_impaling_spearAI", "d3/deb/a18382.html", "d3/deb/a18382" ],
-    [ "npc_impaling_spear", "d5/d08/a18378.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
-    [ "GetAI", "d5/d08/a18378.html#aad49164a3e7541b755c1c622b996bb9a", null ]
+    [ "PeriodicTick", "d5/d08/a18378.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
+    [ "PrepareAuraScript", "d5/d08/a18378.html#a0767ac60151517b803e871a0fcb25967", null ],
+    [ "Register", "d5/d08/a18378.html#afd1e28b224035aef5ac109f38d7e118d", null ]
 ];

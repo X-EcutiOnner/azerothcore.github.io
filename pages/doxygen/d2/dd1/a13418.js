@@ -1,6 +1,7 @@
 var a13418 =
 [
-    [ "npc_parqual_fintallas", "d2/dd1/a13418.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
-    [ "OnGossipHello", "d2/dd1/a13418.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
-    [ "OnGossipSelect", "d2/dd1/a13418.html#a39276ef82ec5214a1727ebd60235a506", null ]
+    [ "npc_ranger_lilatha", "d2/dd1/a13418.html#abd13a89b41a289edefb9bc21588f8d29", null ],
+    [ "Reset", "d2/dd1/a13418.html#a3e804e483b51961193ee1079caba40be", null ],
+    [ "sQuestAccept", "d2/dd1/a13418.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
+    [ "WaypointReached", "d2/dd1/a13418.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
 ];

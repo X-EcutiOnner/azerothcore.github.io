@@ -1,5 +1,6 @@
 var a27366 =
 [
-    [ "npc_stable_masterAI", "da/d84/a27366.html#a5c6f9bca1004af163ddb074b606330be", null ],
-    [ "sGossipSelect", "da/d84/a27366.html#a09205661674dd011ffe425deaadde053", null ]
+    [ "spawnedCreatureEntry", "da/d84/a27366.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "da/d84/a27366.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "da/d84/a27366.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

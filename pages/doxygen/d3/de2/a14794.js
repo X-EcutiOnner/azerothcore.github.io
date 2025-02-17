@@ -1,5 +1,7 @@
 var a14794 =
 [
-    [ "NotInStomachSelector", "d3/de2/a14794.html#a766a75e73261ac8bb76c90e8befd21ad", null ],
-    [ "operator()", "d3/de2/a14794.html#a189c90e585ecef8ffbcbe9227c588946", null ]
+    [ "HandleScript", "d3/de2/a14794.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "d3/de2/a14794.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "d3/de2/a14794.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "d3/de2/a14794.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

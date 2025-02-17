@@ -1,11 +1,11 @@
 var a14006 =
 [
-    [ "npc_the_etymidian", "d8/d47/a14006.html#af491016ac89b67947650a5ca9c379875", null ],
-    [ "MoveInLineOfSight", "d8/d47/a14006.html#adde2d86e30442eb1b47219e934e24407", null ],
-    [ "Reset", "d8/d47/a14006.html#a714edf3ba5f7a6d59242c991764effc5", null ],
-    [ "UpdateAI", "d8/d47/a14006.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
-    [ "orphanGUID", "d8/d47/a14006.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
-    [ "phase", "d8/d47/a14006.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
-    [ "playerGUID", "d8/d47/a14006.html#a7371e361c018360315e20086b0b99079", null ],
-    [ "timer", "d8/d47/a14006.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
+    [ "npc_dark_iron_attack_mole_machine", "d8/d47/a14006.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "d8/d47/a14006.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "d8/d47/a14006.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "d8/d47/a14006.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "d8/d47/a14006.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "d8/d47/a14006.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "d8/d47/a14006.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "d8/d47/a14006.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

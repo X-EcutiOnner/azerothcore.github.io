@@ -1,7 +1,6 @@
 var a23622 =
 [
-    [ "HandleDamage", "d4/db7/a23622.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "d4/db7/a23622.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "d4/db7/a23622.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "d4/db7/a23622.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "OnApply", "d4/db7/a23622.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "d4/db7/a23622.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "d4/db7/a23622.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

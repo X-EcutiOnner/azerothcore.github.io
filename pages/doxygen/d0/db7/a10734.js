@@ -1,6 +1,8 @@
 var a10734 =
 [
-    [ "ClientOpcodeHandler", "d5/dfd/a04680.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
-    [ "Call", "d5/dfd/a04680.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
-    [ "ProcessingPlace", "d5/dfd/a04680.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
+    [ "CrossedInebriationThreshold", "d0/db7/a10734.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
+    [ "Write", "d0/db7/a10734.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
+    [ "Guid", "d0/db7/a10734.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
+    [ "ItemID", "d0/db7/a10734.html#a9e48a650bf21872099cdb0626e875fd7", null ],
+    [ "Threshold", "d0/db7/a10734.html#a87b756b64cbfb8f292f46cce38308095", null ]
 ];

@@ -1,7 +1,9 @@
 var a18214 =
 [
-    [ "npc_blazing_skeletonAI", "dd/d1d/a18214.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "dd/d1d/a18214.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "dd/d1d/a18214.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "dd/d1d/a18214.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "npc_spirit_wardenAI", "dd/d1d/a18214.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "dd/d1d/a18214.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "dd/d1d/a18214.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "dd/d1d/a18214.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "dd/d1d/a18214.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "dd/d1d/a18214.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

@@ -1,5 +1,5 @@
 var a03971 =
 [
-    [ "achievement_commandscript", "da/d75/a11370.html", "da/d75/a11370" ],
-    [ "AddSC_achievement_commandscript", "d0/dce/a03971.html#afeb482a8cffe8416071764bc4e78bff2", null ]
+    [ "achievIdByArenaSlot", "d0/dce/a03971.html#a5264f22d916c9472e9a16ac52140f87c", null ],
+    [ "achievIdForDungeon", "d0/dce/a03971.html#ac50d520adf892744d066d8c5187046b0", null ]
 ];

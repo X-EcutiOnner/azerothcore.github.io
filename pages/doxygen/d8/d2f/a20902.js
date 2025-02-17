@@ -1,13 +1,9 @@
 var a20902 =
 [
-    [ "MoveX", "d8/d2f/a20902.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "d8/d2f/a20902.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "d8/d2f/a20902.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "d8/d2f/a20902.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "d8/d2f/a20902.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "d8/d2f/a20902.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "d8/d2f/a20902.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "d8/d2f/a20902.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "d8/d2f/a20902.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "d8/d2f/a20902.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "npc_vrykul_skeleton", "d8/d2f/a20902.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
+    [ "DamageTaken", "d8/d2f/a20902.html#a840244c4183987e4fda533edb2ddeff2", null ],
+    [ "Reset", "d8/d2f/a20902.html#af950342b2177c84c101485736855b998", null ],
+    [ "UpdateAI", "d8/d2f/a20902.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
+    [ "events", "d8/d2f/a20902.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
+    [ "pInstance", "d8/d2f/a20902.html#a834f0162540683c20f9fa0f9e32eee33", null ]
 ];

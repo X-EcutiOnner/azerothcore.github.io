@@ -1,9 +1,6 @@
 var a17798 =
 [
-    [ "AfterApply", "d4/db2/a17798.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
-    [ "ExtraRemoveEffect", "d4/db2/a17798.html#a9f427761fcca9029eb75d586e5876fcd", null ],
-    [ "PeriodicTick", "d4/db2/a17798.html#a82430399e44001343f322b2c3b7769a5", null ],
-    [ "PrepareAuraScript", "d4/db2/a17798.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
-    [ "Register", "d4/db2/a17798.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
-    [ "Validate", "d4/db2/a17798.html#ae20873e93fbace6272a793993fb45349", null ]
+    [ "npc_big_oozeAI", "d5/d9c/a17802.html", "d5/d9c/a17802" ],
+    [ "npc_big_ooze", "d4/db2/a17798.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "d4/db2/a17798.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

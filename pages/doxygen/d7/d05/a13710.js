@@ -1,7 +1,6 @@
 var a13710 =
 [
-    [ "OnRemove", "d7/d05/a13710.html#ab909660f32a77e86fde5da35e2f69302", null ],
-    [ "PrepareAuraScript", "d7/d05/a13710.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
-    [ "Register", "d7/d05/a13710.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
-    [ "Validate", "d7/d05/a13710.html#abd1254c53c04f72f848d8641affc729d", null ]
+    [ "instance_zulaman_InstanceMapScript", "de/da9/a13714.html", "de/da9/a13714" ],
+    [ "instance_zulaman", "d7/d05/a13710.html#a5a81dddc07dea599e2a197737206427b", null ],
+    [ "GetInstanceScript", "d7/d05/a13710.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
 ];

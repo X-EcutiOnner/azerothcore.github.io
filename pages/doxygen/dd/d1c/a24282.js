@@ -1,9 +1,13 @@
 var a24282 =
 [
-    [ "HandleAfterHit", "dd/d1c/a24282.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
-    [ "Load", "dd/d1c/a24282.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
-    [ "PrepareSpellScript", "dd/d1c/a24282.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
-    [ "Register", "dd/d1c/a24282.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
-    [ "Validate", "dd/d1c/a24282.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
-    [ "_executed", "dd/d1c/a24282.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
+    [ "npc_pet_mage_mirror_image", "dd/d1c/a24282.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
+    [ "EnterEvadeMode", "dd/d1c/a24282.html#a858b070fb53112dc78554f0b20cd876a", null ],
+    [ "InitializeAI", "dd/d1c/a24282.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
+    [ "MySelectNextTarget", "dd/d1c/a24282.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
+    [ "Reset", "dd/d1c/a24282.html#a79a8c153ab61c619d928ec5535e67077", null ],
+    [ "UpdateAI", "dd/d1c/a24282.html#aa219b3adc38b625c6885089895b941b4", null ],
+    [ "_ebonGargoyleGUID", "dd/d1c/a24282.html#a8be57d06114f108e74b850ce66722bf3", null ],
+    [ "checktarget", "dd/d1c/a24282.html#a074611355768dc2072da69ed9d72242b", null ],
+    [ "dist", "dd/d1c/a24282.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
+    [ "selectionTimer", "dd/d1c/a24282.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
 ];

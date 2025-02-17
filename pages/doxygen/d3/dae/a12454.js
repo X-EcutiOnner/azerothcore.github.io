@@ -1,9 +1,6 @@
 var a12454 =
 [
-    [ "FilterTargets", "d3/dae/a12454.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "d3/dae/a12454.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "d3/dae/a12454.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "d3/dae/a12454.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "d3/dae/a12454.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "d3/dae/a12454.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "instance_deadmines_InstanceMapScript", "dc/d55/a12458.html", "dc/d55/a12458" ],
+    [ "instance_deadmines", "d3/dae/a12454.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
+    [ "GetInstanceScript", "d3/dae/a12454.html#ac5cb65972d52324cedf662cc44dca626", null ]
 ];

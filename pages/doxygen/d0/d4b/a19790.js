@@ -1,7 +1,8 @@
 var a19790 =
 [
-    [ "boss_freya_healthy_sporeAI", "d0/d4b/a19790.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
-    [ "Reset", "d0/d4b/a19790.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
-    [ "UpdateAI", "d0/d4b/a19790.html#ace79c59d62e597ae31425b4006e1363f", null ],
-    [ "_despawnTimer", "d0/d4b/a19790.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
+    [ "OnApply", "d0/d4b/a19790.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "d0/d4b/a19790.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "d0/d4b/a19790.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "d0/d4b/a19790.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "d0/d4b/a19790.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

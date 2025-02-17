@@ -1,7 +1,6 @@
 var a20694 =
 [
-    [ "HandleProc", "d1/d02/a20694.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "d1/d02/a20694.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "d1/d02/a20694.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "d1/d02/a20694.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "boss_yoggsaron_descend_portalAI", "df/d9d/a20698.html", "df/d9d/a20698" ],
+    [ "boss_yoggsaron_descend_portal", "d1/d02/a20694.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
+    [ "GetAI", "d1/d02/a20694.html#aceb50c808eed17ca468a80b823af1907", null ]
 ];

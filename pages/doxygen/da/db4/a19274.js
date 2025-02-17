@@ -1,7 +1,7 @@
 var a19274 =
 [
-    [ "HandleScript", "da/db4/a19274.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "da/db4/a19274.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "da/db4/a19274.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "da/db4/a19274.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "CalcDamage", "da/db4/a19274.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
+    [ "PrepareSpellScript", "da/db4/a19274.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
+    [ "Register", "da/db4/a19274.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
+    [ "Validate", "da/db4/a19274.html#a773c608119a84cc3f02e7b4d786f2741", null ]
 ];

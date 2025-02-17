@@ -1,6 +1,8 @@
 var a17370 =
 [
-    [ "IgbTeleportOnVictoryCheck", "de/d5f/a17370.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "de/d5f/a17370.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "de/d5f/a17370.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "ResetEncounterEvent", "de/d5f/a17370.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "de/d5f/a17370.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "de/d5f/a17370.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "de/d5f/a17370.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "de/d5f/a17370.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

@@ -1,11 +1,14 @@
 var a12770 =
 [
-    [ "npc_a_special_surpriseAI", "df/d3f/a12770.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
-    [ "MeetQuestCondition", "df/d3f/a12770.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
-    [ "MoveInLineOfSight", "df/d3f/a12770.html#af0b183b951f1eba8114da1f7a1284d09", null ],
-    [ "Reset", "df/d3f/a12770.html#a9526f6b257eade275b828d2b30328533", null ],
-    [ "UpdateAI", "df/d3f/a12770.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
-    [ "ExecuteSpeech_Counter", "df/d3f/a12770.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
-    [ "ExecuteSpeech_Timer", "df/d3f/a12770.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
-    [ "PlayerGUID", "df/d3f/a12770.html#a683cdbd0ef9d0562842aace5b440594f", null ]
+    [ "npc_death_knight_initiateAI", "df/d3f/a12770.html#aa03a128068072b85bf0926cdececaaf2", null ],
+    [ "DamageTaken", "df/d3f/a12770.html#ac83f7d28886eaf5fb44c3c6ce44a7acd", null ],
+    [ "GetData", "df/d3f/a12770.html#ac3216c0cf7284fd7a8d5ece153467b41", null ],
+    [ "Reset", "df/d3f/a12770.html#ad152856d614c8f4c900f77749ac55dd9", null ],
+    [ "SpellHit", "df/d3f/a12770.html#a308f2f29ec7f9277d102564ff6d39e32", null ],
+    [ "UpdateAI", "df/d3f/a12770.html#a6e67cda0b83578818a5e3b34ed9517cf", null ],
+    [ "_duelGUID", "df/d3f/a12770.html#a32dd4a91841f2e75c8bca109015fc56a", null ],
+    [ "_duelInProgress", "df/d3f/a12770.html#a3fdcf062b22c08b1dd616dad591a1021", null ],
+    [ "events", "df/d3f/a12770.html#aa1c6d513e04253d0b83522c9c1cc2ac8", null ],
+    [ "playerGUIDs", "df/d3f/a12770.html#ac12adec2cb751e2e41008954bbe20248", null ],
+    [ "timer", "df/d3f/a12770.html#ad22e8bc9e0d22a5ba164a60e438d98a7", null ]
 ];

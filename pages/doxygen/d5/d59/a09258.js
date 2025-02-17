@@ -1,7 +1,10 @@
 var a09258 =
 [
-    [ "PowerCheck", "d5/d59/a09258.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
-    [ "operator()", "d5/d59/a09258.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
-    [ "_equals", "d5/d59/a09258.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
-    [ "_power", "d5/d59/a09258.html#a922a57b62b4289835b539a69b0f58fa1", null ]
+    [ "NearestGameObjectEntryInObjectRangeCheck", "d5/d59/a09258.html#a7d57ae865868d4848caf088c4520b2a7", null ],
+    [ "NearestGameObjectEntryInObjectRangeCheck", "d5/d59/a09258.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
+    [ "operator()", "d5/d59/a09258.html#ad0c6798e28784ed547102414f4c6a31f", null ],
+    [ "i_entry", "d5/d59/a09258.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
+    [ "i_obj", "d5/d59/a09258.html#a104b8bece6ea78ba049dc592e54311be", null ],
+    [ "i_onlySpawned", "d5/d59/a09258.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
+    [ "i_range", "d5/d59/a09258.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
 ];

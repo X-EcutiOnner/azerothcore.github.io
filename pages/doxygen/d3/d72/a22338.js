@@ -1,8 +1,9 @@
 var a22338 =
 [
-    [ "boss_tavarok", "d3/d72/a22338.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
-    [ "JustDied", "d3/d72/a22338.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
-    [ "JustEngagedWith", "d3/d72/a22338.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
-    [ "KilledUnit", "d3/d72/a22338.html#a2c99df9457c548ee562fde920592ea88", null ],
-    [ "Reset", "d3/d72/a22338.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
+    [ "OPvPCapturePointGH", "d3/d72/a22338.html#a6e46100e50212310af4301c492d5773e", null ],
+    [ "ChangeState", "d3/d72/a22338.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
+    [ "FillInitialWorldStates", "d3/d72/a22338.html#ad1c3ece363da12750c851cf510228a06", null ],
+    [ "HandlePlayerEnter", "d3/d72/a22338.html#afea733c44d129d9a5af78a8337d9e04a", null ],
+    [ "HandlePlayerLeave", "d3/d72/a22338.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
+    [ "SendChangePhase", "d3/d72/a22338.html#aec741b9102829bf77850dc06a49bb8da", null ]
 ];

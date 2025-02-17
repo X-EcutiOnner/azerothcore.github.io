@@ -1,8 +1,6 @@
 var a15046 =
 [
-    [ "npc_death_ravagerAI", "de/da5/a15046.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "de/da5/a15046.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "de/da5/a15046.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "de/da5/a15046.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "de/da5/a15046.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d2/d7f/a15050.html", "d2/d7f/a15050" ],
+    [ "instance_temple_of_ahnqiraj", "de/da5/a15046.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "de/da5/a15046.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

@@ -1,10 +1,7 @@
 var a09274 =
 [
-    [ "ObjectWorldLoader", "de/d9e/a09274.html#a0a8c45ae44540c419b5835d89b5344f3", null ],
-    [ "Visit", "de/d9e/a09274.html#a71682452fdaa18866cb8f5cb233003e1", null ],
-    [ "Visit", "de/d9e/a09274.html#a8d670d361e01ff4ac05518ac52ebdee9", null ],
-    [ "i_cell", "de/d9e/a09274.html#ac4435eef761adcc938b6ca7996f0e1b7", null ],
-    [ "i_corpses", "de/d9e/a09274.html#a360b772d5dab408faf62c9c0fd381fbe", null ],
-    [ "i_grid", "de/d9e/a09274.html#ab8cc37ce842ca73e8971a88680b5f453", null ],
-    [ "i_map", "de/d9e/a09274.html#aeafce0a2c8bd7f5a1201c8b2af469284", null ]
+    [ "FriendlyCCedInRange", "de/d9e/a09274.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
+    [ "operator()", "de/d9e/a09274.html#a0e241f930cee855664aeac3604d5c023", null ],
+    [ "i_obj", "de/d9e/a09274.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
+    [ "i_range", "de/d9e/a09274.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
 ];

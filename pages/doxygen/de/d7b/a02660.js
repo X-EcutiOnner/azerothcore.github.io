@@ -1,7 +1,6 @@
 var a02660 =
 [
-    [ "instance_utgarde_keep", "d5/d12/a20794.html", "d5/d12/a20794" ],
-    [ "instance_utgarde_keep::instance_utgarde_keep_InstanceMapScript", "d8/dbe/a20798.html", "d8/dbe/a20798" ],
-    [ "AddSC_instance_utgarde_keep", "de/d7b/a02660.html#a1691f35071d744591cc1be4a314edbec", null ],
-    [ "creatureData", "de/d7b/a02660.html#a412286b689bd324fedd65ddd8dde8afb", null ]
+    [ "PLAYER_FLIGHT_SPEED", "de/d7b/a02660.html#a2efde26aed42919892139c2ffb51b279", null ],
+    [ "SKIP_SPLINE_POINT_DISTANCE_SQ", "de/d7b/a02660.html#a55b33fb4c6265551b0327903da9bff4c", null ],
+    [ "IsNodeIncludedInShortenedPath", "de/d7b/a02660.html#a47a5affa854677472690918c4d16f998", null ]
 ];

@@ -1,7 +1,8 @@
 var a22058 =
 [
-    [ "npc_wg_quest_giver", "d8/dc9/a22058.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d8/dc9/a22058.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d8/dc9/a22058.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d8/dc9/a22058.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "npc_vics_flying_machineAI", "d8/dc9/a22058.html#a4464e0b1433c4ffb24ae7809b1a0eec5", null ],
+    [ "MovementInform", "d8/dc9/a22058.html#ac4bbe0a3cccb6878d050b717b9efb320", null ],
+    [ "PassengerBoarded", "d8/dc9/a22058.html#aa67dcbb4b43b047398fec2619ad61829", null ],
+    [ "SpellHit", "d8/dc9/a22058.html#aa81229a104e1521d570abec4b6f7bca7", null ],
+    [ "pointId", "d8/dc9/a22058.html#aa1412c23f0c3b964262e145c51aea974", null ]
 ];

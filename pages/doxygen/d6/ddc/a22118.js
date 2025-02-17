@@ -1,9 +1,9 @@
 var a22118 =
 [
-    [ "npc_finklesteinAI", "db/d17/a22122.html", "db/d17/a22122" ],
-    [ "npc_finklestein", "d6/ddc/a22118.html#aa719b4bb95012c22ef8123e255e32edd", null ],
-    [ "GetAI", "d6/ddc/a22118.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
-    [ "OnGossipHello", "d6/ddc/a22118.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
-    [ "OnGossipSelect", "d6/ddc/a22118.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
-    [ "OnQuestAccept", "d6/ddc/a22118.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
+    [ "npc_brunnhildar_prisonerAI", "d6/ddc/a22118.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "d6/ddc/a22118.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "d6/ddc/a22118.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "d6/ddc/a22118.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "d6/ddc/a22118.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "d6/ddc/a22118.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

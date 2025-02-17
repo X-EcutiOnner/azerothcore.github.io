@@ -1,7 +1,8 @@
 var a22474 =
 [
-    [ "HandleEffectRemove", "de/d43/a22474.html#a09124a4351930a35e33359e95ca88580", null ],
-    [ "PrepareAuraScript", "de/d43/a22474.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
-    [ "Register", "de/d43/a22474.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
-    [ "Validate", "de/d43/a22474.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
+    [ "boss_darkweaver_syth", "de/d43/a22474.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "de/d43/a22474.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "de/d43/a22474.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "de/d43/a22474.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "de/d43/a22474.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

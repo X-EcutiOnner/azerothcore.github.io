@@ -1,20 +1,15 @@
 var a13766 =
 [
-    [ "boss_mandokirAI", "d4/d5b/a13766.html#a4ba4ac7fabd3e74dc10a00a3188252e9", null ],
-    [ "CalculateThreat", "d4/d5b/a13766.html#ad86e2b4c9078bc1b11b304f05679ca94", null ],
-    [ "DamageDealt", "d4/d5b/a13766.html#a7df606ab7059bdac98255ddfd5fffe80", null ],
-    [ "DoAction", "d4/d5b/a13766.html#a7358c7abb58a6c9ec200d06246d00d41", null ],
-    [ "DoMeleeAttackIfReady", "d4/d5b/a13766.html#acf13e5898f110ad98a1aa745d3b998d7", null ],
-    [ "JustDied", "d4/d5b/a13766.html#a6bbc3ae1131f9becba0a35ea2e3a57dd", null ],
-    [ "JustEngagedWith", "d4/d5b/a13766.html#aa7ea6260e403a92ba415b82b4dd71026", null ],
-    [ "KilledUnit", "d4/d5b/a13766.html#a6230dc14db38d43fb060f028cfde9d32", null ],
-    [ "MovementInform", "d4/d5b/a13766.html#a909f7fffc7e38cc6b0bba4edd45cb348", null ],
-    [ "OnTeleportUnreacheablePlayer", "d4/d5b/a13766.html#a875c046b8a2f4a01bded282143c6d1d0", null ],
-    [ "Reset", "d4/d5b/a13766.html#a2b2267e3d7be6d16ffab031d2cb4a1a6", null ],
-    [ "SetGUID", "d4/d5b/a13766.html#a7c40febfbc4c594891b6eb87740b7345", null ],
-    [ "UpdateAI", "d4/d5b/a13766.html#a1037b770bb46400aef0ec034f86468fc", null ],
-    [ "_chargeTarget", "d4/d5b/a13766.html#a5040c31467e9d3c6edc30b9133ec6873", null ],
-    [ "_useExecute", "d4/d5b/a13766.html#a305f064869874d8620d794a7d26f6358", null ],
-    [ "killCount", "d4/d5b/a13766.html#a280e27385988e0f5cc65c60511bd4100", null ],
-    [ "reviveGUID", "d4/d5b/a13766.html#a7f955c8399167d3f3aa974596f398c13", null ]
+    [ "boss_arlokkAI", "d4/d5b/a13766.html#adb598bf47620cd077fb689fb8f9a4ad8", null ],
+    [ "EnterEvadeMode", "d4/d5b/a13766.html#a8553c4d173e7c39315f022f69587c6c0", null ],
+    [ "JustDied", "d4/d5b/a13766.html#ac03a6599a5b41e01bd4ed9ebd55cc0ba", null ],
+    [ "JustEngagedWith", "d4/d5b/a13766.html#ac4ee55299a9389c4fee1ad96140b00d0", null ],
+    [ "JustReachedHome", "d4/d5b/a13766.html#ab0499a80ea8406457e6bfaac96eae975", null ],
+    [ "Reset", "d4/d5b/a13766.html#a3ea2c720ac5c4b1fa6ea4d2eb8bf163f", null ],
+    [ "SetData", "d4/d5b/a13766.html#a7eedf1d1b55740698c314d4afbb2b0b2", null ],
+    [ "UpdateAI", "d4/d5b/a13766.html#a3a2d07d42be88244c0c72b998792dd28", null ],
+    [ "_summonCountA", "d4/d5b/a13766.html#a77f83909fca59d1c5d72dc583d7ec22e", null ],
+    [ "_summonCountB", "d4/d5b/a13766.html#a7e7d091ea00fb42e7f97cb79168e0dc3", null ],
+    [ "_triggersSideAGUID", "d4/d5b/a13766.html#aedc8dda728ed849f33dc83396da51bce", null ],
+    [ "_triggersSideBGUID", "d4/d5b/a13766.html#a0fc797fd56c4f12272b647087492670a", null ]
 ];

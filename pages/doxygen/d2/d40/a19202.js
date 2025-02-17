@@ -1,9 +1,6 @@
 var a19202 =
 [
-    [ "npc_stormforged_lieutenantAI", "d2/d40/a19202.html#a74d84534c39e7e6f3774099fd6b28d29", null ],
-    [ "JustEngagedWith", "d2/d40/a19202.html#a112bd4adaa290afd04d229347a96ff4a", null ],
-    [ "Reset", "d2/d40/a19202.html#aaef10316b8f7c3e980082cab722ffe9f", null ],
-    [ "UpdateAI", "d2/d40/a19202.html#a3944886823dad81bcd5d72e020910143", null ],
-    [ "BjarngrimGUID", "d2/d40/a19202.html#a4003deba30ff47ed3296325112b6cb0e", null ],
-    [ "events", "d2/d40/a19202.html#a530d16086a9e613f6f0299186f8bcc33", null ]
+    [ "npc_oculus_unstable_sphereAI", "df/d28/a19206.html", "df/d28/a19206" ],
+    [ "npc_oculus_unstable_sphere", "d2/d40/a19202.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
+    [ "GetAI", "d2/d40/a19202.html#adda2a9e7eab03444742e85729673ab2f", null ]
 ];

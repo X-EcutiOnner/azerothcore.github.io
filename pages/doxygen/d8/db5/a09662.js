@@ -1,9 +1,10 @@
 var a09662 =
 [
-    [ "MapUpdateRequest", "d8/db5/a09662.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "d8/db5/a09662.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "d8/db5/a09662.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "d8/db5/a09662.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "d8/db5/a09662.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "d8/db5/a09662.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "MailReceiver", "d8/db5/a09662.html#a6fba3ff0ab3167197f569631d766ce14", null ],
+    [ "MailReceiver", "d8/db5/a09662.html#af0b094a704463ed76b1c08bc3cab0380", null ],
+    [ "MailReceiver", "d8/db5/a09662.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
+    [ "GetPlayer", "d8/db5/a09662.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
+    [ "GetPlayerGUIDLow", "d8/db5/a09662.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
+    [ "m_receiver", "d8/db5/a09662.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
+    [ "m_receiver_lowguid", "d8/db5/a09662.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
 ];

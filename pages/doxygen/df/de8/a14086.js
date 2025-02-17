@@ -1,8 +1,7 @@
 var a14086 =
 [
-    [ "CalcPeriodic", "df/de8/a14086.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
-    [ "HandleEffectApply", "df/de8/a14086.html#a4321da69ee59416bd50e621b804e5423", null ],
-    [ "HandleEffectPeriodicUpdate", "df/de8/a14086.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
-    [ "PrepareAuraScript", "df/de8/a14086.html#a956136be8cb484efc9af2429d8779a03", null ],
-    [ "Register", "df/de8/a14086.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
+    [ "HandleScriptEffect", "df/de8/a14086.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
+    [ "PrepareSpellScript", "df/de8/a14086.html#a3d906994c11e52e89c842189be73ddfd", null ],
+    [ "Register", "df/de8/a14086.html#a4cdab36e2265c696207a39e16549ab13", null ],
+    [ "Validate", "df/de8/a14086.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
 ];

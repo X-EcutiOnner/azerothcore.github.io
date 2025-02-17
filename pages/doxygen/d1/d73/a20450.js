@@ -1,6 +1,7 @@
 var a20450 =
 [
-    [ "npc_xt002_life_sparkAI", "dc/d1b/a20454.html", "dc/d1b/a20454" ],
-    [ "npc_xt002_life_spark", "d1/d73/a20450.html#a9644718d192708e391b833468a0ff21e", null ],
-    [ "GetAI", "d1/d73/a20450.html#a09a1ce332d55fad146947c94bb53f564", null ]
+    [ "boss_thorim_trapAI", "d1/d73/a20450.html#aaab278dc6557a49624099b0064b8d6f3", null ],
+    [ "Reset", "d1/d73/a20450.html#ab0715e75a475409ffb6c623bf363a65d", null ],
+    [ "UpdateAI", "d1/d73/a20450.html#a40078609a67aa029f71df7971449b056", null ],
+    [ "_checkTimer", "d1/d73/a20450.html#ad3ed8edb4d06e5b98a5afc82170f3233", null ]
 ];

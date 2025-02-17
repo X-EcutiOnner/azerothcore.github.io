@@ -1,6 +1,6 @@
 var a10458 =
 [
-    [ "GuildDemoteMember", "d6/d6e/a10458.html#aa3d68021828c516d7b1995811e8df7d7", null ],
-    [ "Read", "d6/d6e/a10458.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
-    [ "Demotee", "d6/d6e/a10458.html#a60c7e56c201d794fb473a62fccc160bb", null ]
+    [ "SetSheathed", "d6/d6e/a10458.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
+    [ "Read", "d6/d6e/a10458.html#ae2158689450e3a9207b6992ea5223106", null ],
+    [ "CurrentSheathState", "d6/d6e/a10458.html#a8363787ac7959f19234def2707ef0b32", null ]
 ];

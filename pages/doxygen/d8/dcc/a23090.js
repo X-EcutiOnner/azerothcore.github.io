@@ -1,5 +1,9 @@
 var a23090 =
 [
-    [ "go_main_chambers_access_panel", "d8/dcc/a23090.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d8/dcc/a23090.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "CalcPeriodic", "d8/dcc/a23090.html#a4c5a034d23253b2cf08cb86f12821184", null ],
+    [ "HandleEffectApply", "d8/dcc/a23090.html#af60491946062054504b20e16273ed594", null ],
+    [ "HandleEffectRemove", "d8/dcc/a23090.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
+    [ "HandlePeriodic", "d8/dcc/a23090.html#a5137e24394fa14129c44d92c79eef117", null ],
+    [ "PrepareAuraScript", "d8/dcc/a23090.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
+    [ "Register", "d8/dcc/a23090.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
 ];

@@ -1,9 +1,10 @@
 var a09270 =
 [
-    [ "WorldPacketList", "d9/d08/a09270.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
-    [ "LocalizedPacketListDo", "d9/d08/a09270.html#ab52133e238752f725f18580018a84cd2", null ],
-    [ "~LocalizedPacketListDo", "d9/d08/a09270.html#a8442452027bcb5c98d60830e016803b5", null ],
-    [ "operator()", "d9/d08/a09270.html#adea9610e36d436563ba1f472481aed85", null ],
-    [ "i_builder", "d9/d08/a09270.html#a83bda52b10d30f7fd633c285b79e740b", null ],
-    [ "i_data_cache", "d9/d08/a09270.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
+    [ "MostHPPercentMissingInRange", "d9/d08/a09270.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
+    [ "operator()", "d9/d08/a09270.html#ab1734490a3db95ad715756e85ecfaf77", null ],
+    [ "i_hpPct", "d9/d08/a09270.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
+    [ "i_maxHpPct", "d9/d08/a09270.html#afd12795ef0cd99e05e4e21f869582416", null ],
+    [ "i_minHpPct", "d9/d08/a09270.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
+    [ "i_obj", "d9/d08/a09270.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
+    [ "i_range", "d9/d08/a09270.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
 ];

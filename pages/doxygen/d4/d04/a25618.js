@@ -1,6 +1,6 @@
 var a25618 =
 [
-    [ "HandleOpenObject", "d4/d04/a25618.html#ab658c13615fac1861470bb4b853e76a4", null ],
-    [ "PrepareSpellScript", "d4/d04/a25618.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
-    [ "Register", "d4/d04/a25618.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
+    [ "HandleTriggerSpell", "d4/d04/a25618.html#a2c9f565aec4c42900037dd387549df18", null ],
+    [ "PrepareAuraScript", "d4/d04/a25618.html#a5864bbba50001cdb84b0015d08134c56", null ],
+    [ "Register", "d4/d04/a25618.html#a5a41ac9e41201ec3defc05c324a792c9", null ]
 ];

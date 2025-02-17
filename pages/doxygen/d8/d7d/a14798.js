@@ -1,17 +1,8 @@
 var a14798 =
 [
-    [ "boss_eye_of_cthun", "d8/d7d/a14798.html#ac780d2e04a1fab6bd02db049bc6eaab2", null ],
-    [ "DamageTaken", "d8/d7d/a14798.html#a1a28da1eefd61303201d1f3150fe405f", null ],
-    [ "DoAction", "d8/d7d/a14798.html#a102aabe3ce6d89b6403760c11eac87ec", null ],
-    [ "JustDied", "d8/d7d/a14798.html#a4dec255ac49195d835390772a8f1f517", null ],
-    [ "JustEngagedWith", "d8/d7d/a14798.html#ae83ed5b888df95ad0b854f67192cbd4a", null ],
-    [ "JustSummoned", "d8/d7d/a14798.html#a5c037c1fa7adb8355242bf36beb9c61d", null ],
-    [ "MoveInLineOfSight", "d8/d7d/a14798.html#a4555b8c931f9d02b7bd3af1c1f569c6c", null ],
-    [ "Reset", "d8/d7d/a14798.html#a66aec1afcbaa46ede6be2ffc32b67faa", null ],
-    [ "ScheduleTask", "d8/d7d/a14798.html#a14e5b518f2c8534096b8a8059458636d", null ],
-    [ "_beamTarget", "d8/d7d/a14798.html#a2c217290b988d06397c52e3485a7dae8", null ],
-    [ "_eyeTentacleCounter", "d8/d7d/a14798.html#a559d6ba31ed626d8c42a00c230d647b8", null ],
-    [ "ClockWise", "d8/d7d/a14798.html#a701a24f3a06657467b8665d2e4216710", null ],
-    [ "DarkGlareAngle", "d8/d7d/a14798.html#ac71992a2cf223d65c0e06cd8bd440164", null ],
-    [ "DarkGlareTick", "d8/d7d/a14798.html#af546d3325ad456d335148cd7284f7cad", null ]
+    [ "HandleScript", "d8/d7d/a14798.html#ac58aef1b295e32c8a44852278edc18f8", null ],
+    [ "Load", "d8/d7d/a14798.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
+    [ "PrepareSpellScript", "d8/d7d/a14798.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
+    [ "Register", "d8/d7d/a14798.html#a95f4abd67d6baf75980ff28a7518503d", null ],
+    [ "Validate", "d8/d7d/a14798.html#a98271e7adb17b11e39241154a83b0d0d", null ]
 ];

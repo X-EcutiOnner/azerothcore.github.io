@@ -1,6 +1,6 @@
 var a20618 =
 [
-    [ "boss_yoggsaron_voiceAI", "df/d8e/a20622.html", "df/d8e/a20622" ],
-    [ "boss_yoggsaron_voice", "d6/d75/a20618.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
-    [ "GetAI", "d6/d75/a20618.html#a50abcde0313df06a114a2f5f44a1d481", null ]
+    [ "boss_yoggsaron_saraAI", "df/d8e/a20622.html", "df/d8e/a20622" ],
+    [ "boss_yoggsaron_sara", "d6/d75/a20618.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
+    [ "GetAI", "d6/d75/a20618.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
 ];

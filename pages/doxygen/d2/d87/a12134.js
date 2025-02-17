@@ -1,7 +1,6 @@
 var a12134 =
 [
-    [ "HandleEffectScriptEffect", "d2/d87/a12134.html#a8157c4b213b3b4e260222976e283e2ae", null ],
-    [ "PrepareSpellScript", "d2/d87/a12134.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
-    [ "Register", "d2/d87/a12134.html#aeda056b568b4956ba35b32a3f20c053e", null ],
-    [ "Validate", "d2/d87/a12134.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
+    [ "go_chromaggus_leverAI", "d2/d87/a12134.html#a51406a7e313702282cebfbf067c9ce4e", null ],
+    [ "GossipHello", "d2/d87/a12134.html#a44ece597fcfcf290234cc1ef073fbf18", null ],
+    [ "_instance", "d2/d87/a12134.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90", null ]
 ];

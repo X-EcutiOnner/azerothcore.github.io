@@ -1,13 +1,11 @@
 var a28010 =
 [
-    [ "AcquireMethod", "d1/d75/a28010.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
-    [ "ClassMask", "d1/d75/a28010.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
-    [ "ID", "d1/d75/a28010.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
-    [ "MinSkillLineRank", "d1/d75/a28010.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
-    [ "RaceMask", "d1/d75/a28010.html#acfd38780584b90ca40a1e1cd59605832", null ],
-    [ "SkillLine", "d1/d75/a28010.html#a0050dcf5c82f785dfc93079debe54a13", null ],
-    [ "Spell", "d1/d75/a28010.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
-    [ "SupercededBySpell", "d1/d75/a28010.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
-    [ "TrivialSkillLineRankHigh", "d1/d75/a28010.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
-    [ "TrivialSkillLineRankLow", "d1/d75/a28010.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
+    [ "ClassID", "d1/d75/a28010.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
+    [ "DisplayInfoID", "d1/d75/a28010.html#a87657df2ad024245ccb2192303f76b7a", null ],
+    [ "ID", "d1/d75/a28010.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
+    [ "InventoryType", "d1/d75/a28010.html#a6dc33fc40a299b010c18a7009aff648b", null ],
+    [ "Material", "d1/d75/a28010.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
+    [ "SheatheType", "d1/d75/a28010.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
+    [ "SoundOverrideSubclassID", "d1/d75/a28010.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
+    [ "SubclassID", "d1/d75/a28010.html#ac39254716573e335caf312f635353a2e", null ]
 ];

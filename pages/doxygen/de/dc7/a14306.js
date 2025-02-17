@@ -1,11 +1,8 @@
 var a14306 =
 [
-    [ "boss_anetheron", "de/dc7/a14306.html#a6c103caa3f137756599a75bff03a6648", null ],
-    [ "DoAction", "de/dc7/a14306.html#a2fd485de26c820fec5240f9141a09964", null ],
-    [ "JustDied", "de/dc7/a14306.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
-    [ "JustEngagedWith", "de/dc7/a14306.html#aa34ac87ad4014fbecb481be7896c577c", null ],
-    [ "JustSummoned", "de/dc7/a14306.html#af9c156e28c7eca710d8367bd2a99387d", null ],
-    [ "KilledUnit", "de/dc7/a14306.html#a4471af823278a3664574729bf5c749be", null ],
-    [ "PathEndReached", "de/dc7/a14306.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
-    [ "_recentlySpoken", "de/dc7/a14306.html#accd9455c3b1d536ca177be6028f3503d", null ]
+    [ "OnApply", "de/dc7/a14306.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
+    [ "OnRemove", "de/dc7/a14306.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
+    [ "PrepareAuraScript", "de/dc7/a14306.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
+    [ "Register", "de/dc7/a14306.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
+    [ "Validate", "de/dc7/a14306.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
 ];

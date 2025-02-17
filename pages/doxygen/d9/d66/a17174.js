@@ -1,6 +1,7 @@
 var a17174 =
 [
-    [ "PrepareAuraScript", "d9/d66/a17174.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
-    [ "RecalculateHook", "d9/d66/a17174.html#a829e96cabbb565922f7183adb3edf13c", null ],
-    [ "Register", "d9/d66/a17174.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
+    [ "HandleDummyTick", "d9/d66/a17174.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
+    [ "PrepareAuraScript", "d9/d66/a17174.html#a577523701b5a4ea2def4999e634c8862", null ],
+    [ "Register", "d9/d66/a17174.html#aaad9185c62333de4d6704b22780edd28", null ],
+    [ "Validate", "d9/d66/a17174.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
 ];

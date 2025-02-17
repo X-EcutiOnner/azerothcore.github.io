@@ -1,7 +1,6 @@
 var a17518 =
 [
-    [ "HandleSpikes", "de/da3/a17518.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "de/da3/a17518.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "de/da3/a17518.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "de/da3/a17518.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "BurningPitchFilterCheck", "de/da3/a17518.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
+    [ "operator()", "de/da3/a17518.html#a24be987c8471d8a7096025debf6e60b1", null ],
+    [ "_entry", "de/da3/a17518.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
 ];

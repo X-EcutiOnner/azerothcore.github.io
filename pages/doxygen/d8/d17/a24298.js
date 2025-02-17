@@ -1,8 +1,9 @@
 var a24298 =
 [
-    [ "CheckCast", "d8/d17/a24298.html#a94851a2b6a62138e28466317e9e88480", null ],
-    [ "HandleDummy", "d8/d17/a24298.html#a970684d219c99519512c437a8efd8d43", null ],
-    [ "PrepareSpellScript", "d8/d17/a24298.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
-    [ "Register", "d8/d17/a24298.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
-    [ "Validate", "d8/d17/a24298.html#a59cca008a97447e257bf24071301b366", null ]
+    [ "npc_pet_shaman_fire_elemental", "d8/d17/a24298.html#a3428642963fc9e7588ec92fd838f1af9", null ],
+    [ "InitializeAI", "d8/d17/a24298.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
+    [ "JustEngagedWith", "d8/d17/a24298.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
+    [ "UpdateAI", "d8/d17/a24298.html#a2280e5cc5187a91917a1e517e80e960d", null ],
+    [ "_events", "d8/d17/a24298.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
+    [ "_initAttack", "d8/d17/a24298.html#a2df79acc05dd8489e9e994e044b45404", null ]
 ];

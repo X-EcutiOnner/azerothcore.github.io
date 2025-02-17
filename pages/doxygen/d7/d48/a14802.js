@@ -1,13 +1,9 @@
 var a14802 =
 [
-    [ "boss_cthun", "d7/d48/a14802.html#a287ee7b65708971e4fdfa7b814486935", null ],
-    [ "DoAction", "d7/d48/a14802.html#a04ae38b67d358f1d34820b855aab3869", null ],
-    [ "JustDied", "d7/d48/a14802.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
-    [ "JustEngagedWith", "d7/d48/a14802.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
-    [ "Reset", "d7/d48/a14802.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
-    [ "ScheduleTasks", "d7/d48/a14802.html#a5a0514e56217bb3b30b22b2681542adb", null ],
-    [ "SummonedCreatureDies", "d7/d48/a14802.html#a49d76bb4cf30ee66fae6114313394961", null ],
-    [ "UpdateAI", "d7/d48/a14802.html#a7d2685597f1eec2459fe509e5b97681f", null ],
-    [ "_fleshTentaclesKilled", "d7/d48/a14802.html#a139de83ae488c40d40a4587509cd197d", null ],
-    [ "WisperTimer", "d7/d48/a14802.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
+    [ "spell_gen_ayamiss_swarmer_loop", "d7/d48/a14802.html#ad910e172ef6866f102fa3407f676169a", null ],
+    [ "HandleScript", "d7/d48/a14802.html#acd0dffad436cb414deb546b192957783", null ],
+    [ "Load", "d7/d48/a14802.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
+    [ "PrepareSpellScript", "d7/d48/a14802.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
+    [ "Register", "d7/d48/a14802.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
+    [ "_pathId", "d7/d48/a14802.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
 ];

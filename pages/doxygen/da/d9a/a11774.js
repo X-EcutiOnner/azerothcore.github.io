@@ -1,6 +1,6 @@
 var a11774 =
 [
-    [ "boss_gloomrel", "da/d9a/a11774.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
-    [ "OnGossipHello", "da/d9a/a11774.html#a6ce6898142d767a130ec09769f2be488", null ],
-    [ "OnGossipSelect", "da/d9a/a11774.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
+    [ "npc_lokhtos_darkbargainer", "da/d9a/a11774.html#af91685ecf0f63313968b3d82373668d2", null ],
+    [ "OnGossipHello", "da/d9a/a11774.html#a39547487ef7db8a3942556665099893f", null ],
+    [ "OnGossipSelect", "da/d9a/a11774.html#a5a4640678a5669c75b1fa5d787999c02", null ]
 ];

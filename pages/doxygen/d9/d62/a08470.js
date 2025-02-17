@@ -1,9 +1,9 @@
 var a08470 =
 [
-    [ "EntryPointData", "d9/d62/a08470.html#a1852523ba9ca889cdd6731c63de759e2", null ],
-    [ "ClearTaxiPath", "d9/d62/a08470.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
-    [ "HasTaxiPath", "d9/d62/a08470.html#afd310b2f367ec7df76f01689ea120e6e", null ],
-    [ "joinPos", "d9/d62/a08470.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
-    [ "mountSpell", "d9/d62/a08470.html#a06e1cadac24a2ab90e57373692f829dc", null ],
-    [ "taxiPath", "d9/d62/a08470.html#a5af670fa420b250c22e0f3237e753a6f", null ]
+    [ "category", "d9/d62/a08470.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
+    [ "end", "d9/d62/a08470.html#a8cc857ef51745900398765164a450a50", null ],
+    [ "itemid", "d9/d62/a08470.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
+    [ "maxduration", "d9/d62/a08470.html#a94b98afb7651e2c6b99ee79f85702259", null ],
+    [ "needSendToClient", "d9/d62/a08470.html#a678f56b6723567f984a0188b85a6f9df", null ],
+    [ "sendToSpectator", "d9/d62/a08470.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
 ];

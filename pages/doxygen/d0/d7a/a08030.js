@@ -1,6 +1,7 @@
 var a08030 =
 [
-    [ "PlayerCreateInfoItem", "d0/d7a/a08030.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
-    [ "item_amount", "d0/d7a/a08030.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
-    [ "item_id", "d0/d7a/a08030.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
+    [ "CreatureSpellCooldown", "d0/d7a/a08030.html#a6d234a93951992640df5720a2885be3e", null ],
+    [ "CreatureSpellCooldown", "d0/d7a/a08030.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
+    [ "category", "d0/d7a/a08030.html#a27330a80d711087f1894b2ce816c33b8", null ],
+    [ "end", "d0/d7a/a08030.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Grids/ObjectGridLoader.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/OutdoorPvP/OutdoorPvPNA.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,444 +106,857 @@ $(document).ready(function(){initNavTree('df/dd8/a01943.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">ObjectGridLoader.cpp File Reference</div></div>
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">OutdoorPvPNA.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ObjectGridLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Corpse.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DynamicObject.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObject.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">OutdoorPvP.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9e/a09274.html">ObjectWorldLoader</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dac/a22362.html">HalaaIds</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d74/a22366.html">OPvPCapturePointNA</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d30/a22370.html">OutdoorPvPNA</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:af04925817412dce977fbf9dd300f0d94"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:af04925817412dce977fbf9dd300f0d94"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#af04925817412dce977fbf9dd300f0d94">AddObjectHelper</a> (<a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;cell, <a class="el" href="../../df/d6e/a08938.html">GridRefMgr</a>&lt; T &gt; &amp;m, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;count, <a class="el" href="../../d5/d8e/a09630.html">Map</a> *, T *obj)</td></tr>
-<tr class="separator:af04925817412dce977fbf9dd300f0d94"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a68fc5e61b78a475e024a4f3e0f1f7197"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:a68fc5e61b78a475e024a4f3e0f1f7197"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a68fc5e61b78a475e024a4f3e0f1f7197">AddObjectHelper</a> (<a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;cell, <a class="el" href="../../dd/d2e/a01949.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;m, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;count, <a class="el" href="../../d5/d8e/a09630.html">Map</a> *map, <a class="el" href="../../d6/dd4/a07858.html">Creature</a> *obj)</td></tr>
-<tr class="separator:a68fc5e61b78a475e024a4f3e0f1f7197"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0881e3c2e2147fefcd2460f09f1fce04"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:a0881e3c2e2147fefcd2460f09f1fce04"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a0881e3c2e2147fefcd2460f09f1fce04">AddObjectHelper</a> (<a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;cell, <a class="el" href="../../dd/d2e/a01949.html#aad35d1efe9e8a57f45c0740a89bf9fbf">GameObjectMapType</a> &amp;m, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;count, <a class="el" href="../../d5/d8e/a09630.html">Map</a> *map, <a class="el" href="../../d9/d58/a08034.html">GameObject</a> *obj)</td></tr>
-<tr class="separator:a0881e3c2e2147fefcd2460f09f1fce04"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a230249fa0e98051e01a6fb2b61b3c74d"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:a230249fa0e98051e01a6fb2b61b3c74d"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a230249fa0e98051e01a6fb2b61b3c74d">LoadHelper</a> (<a class="el" href="../../db/d40/a00959.html#a156fd3db7b515ae005bc7d35fededc3e">CellGuidSet</a> const &amp;, <a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;, <a class="el" href="../../df/d6e/a08938.html">GridRefMgr</a>&lt; T &gt; &amp;, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;, <a class="el" href="../../d5/d8e/a09630.html">Map</a> *)</td></tr>
-<tr class="separator:a230249fa0e98051e01a6fb2b61b3c74d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afee9d1c6de56ec77cc8f4c9936f1d7fd"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:afee9d1c6de56ec77cc8f4c9936f1d7fd"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#afee9d1c6de56ec77cc8f4c9936f1d7fd">LoadHelper</a> (<a class="el" href="../../db/d40/a00959.html#a156fd3db7b515ae005bc7d35fededc3e">CellGuidSet</a> const &amp;guid_set, <a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;cell, <a class="el" href="../../df/d6e/a08938.html">GridRefMgr</a>&lt; <a class="el" href="../../d6/dd4/a07858.html">Creature</a> &gt; &amp;m, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;count, <a class="el" href="../../d5/d8e/a09630.html">Map</a> *map)</td></tr>
-<tr class="separator:afee9d1c6de56ec77cc8f4c9936f1d7fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a58b3bbef087ecc286d081a0f8d4c1fde"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:a58b3bbef087ecc286d081a0f8d4c1fde"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a58b3bbef087ecc286d081a0f8d4c1fde">LoadHelper</a> (<a class="el" href="../../db/d40/a00959.html#a156fd3db7b515ae005bc7d35fededc3e">CellGuidSet</a> const &amp;guid_set, <a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;cell, <a class="el" href="../../df/d6e/a08938.html">GridRefMgr</a>&lt; <a class="el" href="../../d9/d58/a08034.html">GameObject</a> &gt; &amp;m, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;count, <a class="el" href="../../d5/d8e/a09630.html">Map</a> *map)</td></tr>
-<tr class="separator:a58b3bbef087ecc286d081a0f8d4c1fde"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a3951c5b11bab0eeb9b06c1e19b25c036"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../db/de7/a08366.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a3951c5b11bab0eeb9b06c1e19b25c036">HalaaNPCS</a></td></tr>
+<tr class="separator:a3951c5b11bab0eeb9b06c1e19b25c036"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a933dca48e43f02c2e7846375e0e3a3e2"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a933dca48e43f02c2e7846375e0e3a3e2">OutdoorPvPNASpells</a> { <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a933dca48e43f02c2e7846375e0e3a3e2aae0070f813d277d5864226d25a571413">NA_KILL_TOKEN_ALLIANCE</a> = 33005
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a933dca48e43f02c2e7846375e0e3a3e2aacbd3b5420e976421bab93b50cfa1f0c">NA_KILL_TOKEN_HORDE</a> = 33004
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a933dca48e43f02c2e7846375e0e3a3e2a734083143cec178f24ecabb449f0637c">NA_CAPTURE_BUFF</a> = 33795
+<br />
+ }</td></tr>
+<tr class="separator:a933dca48e43f02c2e7846375e0e3a3e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d08dd162b413a84763f631ffd350fa4"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4">OutdoorPvPNAWorldStates</a> { <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a46b1f69332f51942a69d5cd7f67c4060">NA_UI_HORDE_GUARDS_SHOW</a> = 2503
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a18435bb3a2f55ccca54de96446c11c76">NA_UI_ALLIANCE_GUARDS_SHOW</a> = 2502
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a78242c0e11a3b54151abc16a62c13155">NA_UI_GUARDS_MAX</a> = 2493
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a9a1ac167627348793911b3eaa4eaf53f">NA_UI_GUARDS_LEFT</a> = 2491
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a1d92d9a19c333accc776ec42292a9d99">NA_UI_TOWER_SLIDER_DISPLAY</a> = 2495
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a7e18ded329932acb1fadaea0aef590f2">NA_UI_TOWER_SLIDER_POS</a> = 2494
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a692bf9811d4e43b5cb6592603420fbd0">NA_UI_TOWER_SLIDER_N</a> = 2497
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a4681dce2da233ead15dba6679a4d4e47">NA_MAP_WYVERN_NORTH_NEU_H</a> = 2762
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a1ab284fdfbbfc708edd83a8d89077a61">NA_MAP_WYVERN_NORTH_NEU_A</a> = 2662
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a81ff4445d826a3ccc2b9cc3c3cdd9f8c">NA_MAP_WYVERN_NORTH_H</a> = 2663
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4af1a0af9ad4fc7843beb09e7690888001">NA_MAP_WYVERN_NORTH_A</a> = 2664
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a0c6989cca039b53419eca78e0e80f2bc">NA_MAP_WYVERN_SOUTH_NEU_H</a> = 2760
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a2f3e15db5f33aa0098e664a4fc87e60a">NA_MAP_WYVERN_SOUTH_NEU_A</a> = 2670
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4af7f9e1b3fca047093d3fb6185d0f0e68">NA_MAP_WYVERN_SOUTH_H</a> = 2668
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a647b4b194ccecc222b2f641c4922dd15">NA_MAP_WYVERN_SOUTH_A</a> = 2669
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4aec85f147209dedfec2dbad91ab82d069">NA_MAP_WYVERN_WEST_NEU_H</a> = 2761
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a2cd7bee50399d66b488991819345a49f">NA_MAP_WYVERN_WEST_NEU_A</a> = 2667
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a3d338e189e3e1486c9e4ea368074e0bf">NA_MAP_WYVERN_WEST_H</a> = 2665
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4abcee1ec94244ad1c50af5baae35a68cf">NA_MAP_WYVERN_WEST_A</a> = 2666
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4ad77abb574994240e2aa2e7e23c5e3ac5">NA_MAP_WYVERN_EAST_NEU_H</a> = 2763
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4ad4dff8ecf2f435b8fdfb92798a300b89">NA_MAP_WYVERN_EAST_NEU_A</a> = 2659
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a5819d09734d5965cde5ff2d0342166e6">NA_MAP_WYVERN_EAST_H</a> = 2660
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a7d32a3b4d8eee8fe173cd43385457603">NA_MAP_WYVERN_EAST_A</a> = 2661
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a25f97ed867e096cf488dd3c9e3c26506">NA_MAP_HALAA_NEUTRAL</a> = 2671
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a077e9ee539e99324b160b42186e8e6e5">NA_MAP_HALAA_NEU_A</a> = 2676
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4ae9b05219d2e4f96b937bc4c0e4d62fa1">NA_MAP_HALAA_NEU_H</a> = 2677
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a14610fd9aae7251bc5652691bc33dcbe">NA_MAP_HALAA_HORDE</a> = 2672
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a57a31768a82d5e2224ba8ad48f3b4393">NA_MAP_HALAA_ALLIANCE</a> = 2673
+<br />
+ }</td></tr>
+<tr class="separator:a9d08dd162b413a84763f631ffd350fa4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a671e2c9be7783733226427ebd264eb19"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19">ControlGOTypes</a> { <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad">NA_ROOST_S</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623">NA_ROOST_W</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520">NA_ROOST_N</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ac2360c16ea760d37dcec325a5165ec8c">NA_ROOST_E</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a8fe4900cb979a36257cc3ee70cfcd56e">NA_BOMB_WAGON_S</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a7ff23be34578fcc2d55e1f088b3e00cb">NA_BOMB_WAGON_W</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a7b1be1932fafd2586d4706e8541b85b8">NA_BOMB_WAGON_N</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a2447af22ca220eab12dbc987125a6870">NA_BOMB_WAGON_E</a> = 7
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a6267ce0c271fd7e77fcebb63e09b4099">NA_DESTROYED_ROOST_S</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ab023c62e57c5d189c91a4babd13525cf">NA_DESTROYED_ROOST_W</a> = 9
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a9cbe15da02cd0024dbedf82b2c752f0f">NA_DESTROYED_ROOST_N</a> = 10
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a81fe1a37a84a9d647898f65913718e3e">NA_DESTROYED_ROOST_E</a> = 11
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7">NA_CONTROL_GO_NUM</a> = 12
+<br />
+ }</td></tr>
+<tr class="separator:a671e2c9be7783733226427ebd264eb19"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a68fd902d513cc8e7bf37946f9d26a80b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a68fd902d513cc8e7bf37946f9d26a80b">FlightSpellsNA</a> { <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f">NA_SPELL_FLY_SOUTH</a> = 32059
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a68fd902d513cc8e7bf37946f9d26a80ba9a9deaeede3e488499190b425fd3bdc2">NA_SPELL_FLY_WEST</a> = 32068
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3">NA_SPELL_FLY_NORTH</a> = 32075
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a68fd902d513cc8e7bf37946f9d26a80bab97171fab8df1e600228b3da1456452d">NA_SPELL_FLY_EAST</a> = 32081
+<br />
+ }</td></tr>
+<tr class="separator:a68fd902d513cc8e7bf37946f9d26a80b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e91f98214fe304c148fea20beaa5fae"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a4e91f98214fe304c148fea20beaa5fae">HalaaGuardsNA</a> { <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a4e91f98214fe304c148fea20beaa5faeaa2b1c68dc890890449426eb6d46ff6c0">NA_HALAANI_GUARD_A</a> = 18256
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a4e91f98214fe304c148fea20beaa5faea6486eb6f2da8e52df614e7728a1f4304">NA_HALAANI_GUARD_H</a> = 18192
+<br />
+ }</td></tr>
+<tr class="separator:a4e91f98214fe304c148fea20beaa5fae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a394f453184d3eefd51298b772b4c789a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a394f453184d3eefd51298b772b4c789a">HalaaCreaturesSpawn</a> { <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910">NA_HALAA_CREATURES</a> = 12
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a394f453184d3eefd51298b772b4c789aa79500d69d3c666a75f664fa63f63de94">NA_HALAA_CREATURE_TEAM_SPAWN</a> = 20
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a394f453184d3eefd51298b772b4c789aa3d72e7f62a2349039b0c269f0c469553">NA_HALAA_MAX_CREATURE_SPAWN</a> = 40
+<br />
+ }</td></tr>
+<tr class="separator:a394f453184d3eefd51298b772b4c789a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a408ccf9c409baffb9c6d03f2edde557c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a408ccf9c409baffb9c6d03f2edde557c">WyvernStates</a> { <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5">WYVERN_NEU_HORDE</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200">WYVERN_NEU_ALLIANCE</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578">WYVERN_HORDE</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e">WYVERN_ALLIANCE</a> = 8
+<br />
+ }</td></tr>
+<tr class="separator:a408ccf9c409baffb9c6d03f2edde557c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c40def86e302e716c09a15f01e5b809"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809">HalaaStates</a> { <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809a255888833d6c2bfcb48d6300e3a00e76">HALAA_N</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809a5e75a8ea3c221ca8d430a5c3a059ffba">HALAA_N_A</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809a7e97d445255ae31253d61c6042240799">HALAA_A</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889">HALAA_N_H</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809a7159ad16ee5d51946529c3cd325c6547">HALAA_H</a> = 16
+<br />
+ }</td></tr>
+<tr class="separator:a2c40def86e302e716c09a15f01e5b809"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a8c04516b1462a78d64563849fe3136a1"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a8c04516b1462a78d64563849fe3136a1">NA_CREDIT_MARKER</a> = 24867</td></tr>
+<tr class="separator:a8c04516b1462a78d64563849fe3136a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3fba4585a3d42e96191aa62b6938472f"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a3fba4585a3d42e96191aa62b6938472f">NA_GUARDS_MAX</a> = 15</td></tr>
+<tr class="separator:a3fba4585a3d42e96191aa62b6938472f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9287f13e383331fe53c5a514989ca99"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#ae9287f13e383331fe53c5a514989ca99">NA_BUFF_ZONE</a> = 3518</td></tr>
+<tr class="separator:ae9287f13e383331fe53c5a514989ca99"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23eddcc072a261674acb3acb48f637cb"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a23eddcc072a261674acb3acb48f637cb">NA_HALAA_GRAVEYARD</a> = 993</td></tr>
+<tr class="separator:a23eddcc072a261674acb3acb48f637cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a74f493038b14c5e7e5a00c661339278e"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a74f493038b14c5e7e5a00c661339278e">NA_HALAA_GRAVEYARD_ZONE</a> = 3518</td></tr>
+<tr class="separator:a74f493038b14c5e7e5a00c661339278e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adca7c435af0a29cf2e0ed3525ec6a7df"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#adca7c435af0a29cf2e0ed3525ec6a7df">NA_HALAA_ZONE_ID</a> = 3628</td></tr>
+<tr class="separator:adca7c435af0a29cf2e0ed3525ec6a7df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6fd5686dd6cf4251b3b33513928f44bd"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a6fd5686dd6cf4251b3b33513928f44bd">NA_RESPAWN_TIME</a> = 3600000</td></tr>
+<tr class="separator:a6fd5686dd6cf4251b3b33513928f44bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f69597d7fce786cae5202cb06be06cf"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a0f69597d7fce786cae5202cb06be06cf">NA_GUARD_CHECK_TIME</a> = 500</td></tr>
+<tr class="separator:a0f69597d7fce786cae5202cb06be06cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a793a1d2d8d6683df19de9b728d2af1de"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a793a1d2d8d6683df19de9b728d2af1de">NA_HALAA_BOMB</a> = 24538</td></tr>
+<tr class="separator:a793a1d2d8d6683df19de9b728d2af1de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a767a89853ad9fbcea5e94bae963b3168"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a767a89853ad9fbcea5e94bae963b3168">FLIGHT_NODES_NUM</a> = 4</td></tr>
+<tr class="separator:a767a89853ad9fbcea5e94bae963b3168"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac9bda252b1c34c9a478d3251069384b8"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#ac9bda252b1c34c9a478d3251069384b8">FlightPathStartNodes</a> [<a class="el" href="../../df/dd8/a01943.html#a767a89853ad9fbcea5e94bae963b3168">FLIGHT_NODES_NUM</a>] = {103, 105, 107, 109}</td></tr>
+<tr class="separator:ac9bda252b1c34c9a478d3251069384b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4cf9c47955c274ca0bdce61e98a3a5a"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#aa4cf9c47955c274ca0bdce61e98a3a5a">FlightPathEndNodes</a> [<a class="el" href="../../df/dd8/a01943.html#a767a89853ad9fbcea5e94bae963b3168">FLIGHT_NODES_NUM</a>] = {104, 106, 108, 110}</td></tr>
+<tr class="separator:aa4cf9c47955c274ca0bdce61e98a3a5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ca90cdca32c0c9a0fef5ece362bb3e6"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../de/d67/a10034.html">go_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a2ca90cdca32c0c9a0fef5ece362bb3e6">HordeControlGOs</a> [<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7">NA_CONTROL_GO_NUM</a>]</td></tr>
+<tr class="separator:a2ca90cdca32c0c9a0fef5ece362bb3e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6da5d6b9a0ecd5b15ced61c27d1c8aa4"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../de/d67/a10034.html">go_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#a6da5d6b9a0ecd5b15ced61c27d1c8aa4">AllianceControlGOs</a> [<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7">NA_CONTROL_GO_NUM</a>]</td></tr>
+<tr class="separator:a6da5d6b9a0ecd5b15ced61c27d1c8aa4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac17891901d073bcbdc4b9b919bb8f43"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../dd/dac/a22362.html">HalaaIds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd8/a01943.html#aac17891901d073bcbdc4b9b919bb8f43">PatrolCreatureEntry</a> [<a class="el" href="../../df/dd8/a01943.html#a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910">NA_HALAA_CREATURES</a>]</td></tr>
+<tr class="separator:aac17891901d073bcbdc4b9b919bb8f43"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a68fc5e61b78a475e024a4f3e0f1f7197" name="a68fc5e61b78a475e024a4f3e0f1f7197"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a68fc5e61b78a475e024a4f3e0f1f7197">&#9670;&#160;</a></span>AddObjectHelper() <span class="overload">[1/3]</span></h2>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a3951c5b11bab0eeb9b06c1e19b25c036" name="a3951c5b11bab0eeb9b06c1e19b25c036"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3951c5b11bab0eeb9b06c1e19b25c036">&#9670;&#160;</a></span>HalaaNPCS</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">void AddObjectHelper </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;&#160;</td>
-          <td class="paramname"><em>cell</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/d2e/a01949.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;&#160;</td>
-          <td class="paramname"><em>m</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td>
-          <td class="paramname"><em>count</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d8e/a09630.html">Map</a> *&#160;</td>
-          <td class="paramname"><em>map</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/dd4/a07858.html">Creature</a> *&#160;</td>
-          <td class="paramname"><em>obj</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../db/de7/a08366.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&gt; <a class="el" href="../../df/dd8/a01943.html#a3951c5b11bab0eeb9b06c1e19b25c036">HalaaNPCS</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   76</span>{</div>
-<div class="line"><span class="lineno">   77</span>    obj-&gt;<a class="code hl_function" href="../../de/d0d/a08250.html#a178e3cc30d983d739e1f3f98d9eefbf0">AddToGrid</a>(m);</div>
-<div class="line"><span class="lineno">   78</span>    <a class="code hl_function" href="../../dd/dc7/a09278.html#a2992965ffdf65b713f60b83abf698459">ObjectGridLoader::SetObjectCell</a>(obj, cell);</div>
-<div class="line"><span class="lineno">   79</span>    obj-&gt;<a class="code hl_function" href="../../d6/dd4/a07858.html#a6d311e9c851be9c80455de68e3fe65d9">AddToWorld</a>();</div>
-<div class="line"><span class="lineno">   80</span>    <span class="keywordflow">if</span> (obj-&gt;<a class="code hl_function" href="../../dd/d7d/a08262.html#a5cfdcda6e5530175c824a7f9e2d5c50d">isActiveObject</a>())</div>
-<div class="line"><span class="lineno">   81</span>        map-&gt;<a class="code hl_function" href="../../d5/d8e/a09630.html#ac07f125a1ad7ad6f22cd18dbe20208f3">AddToActive</a>(obj);</div>
-<div class="line"><span class="lineno">   82</span> </div>
-<div class="line"><span class="lineno">   83</span>    ++count;</div>
-<div class="line"><span class="lineno">   84</span>}</div>
-<div class="ttc" id="aa07858_html_a6d311e9c851be9c80455de68e3fe65d9"><div class="ttname"><a href="../../d6/dd4/a07858.html#a6d311e9c851be9c80455de68e3fe65d9">Creature::AddToWorld</a></div><div class="ttdeci">void AddToWorld() override</div><div class="ttdef"><b>Definition:</b> Creature.cpp:312</div></div>
-<div class="ttc" id="aa08250_html_a178e3cc30d983d739e1f3f98d9eefbf0"><div class="ttname"><a href="../../de/d0d/a08250.html#a178e3cc30d983d739e1f3f98d9eefbf0">GridObject::AddToGrid</a></div><div class="ttdeci">void AddToGrid(GridRefMgr&lt; T &gt; &amp;m)</div><div class="ttdef"><b>Definition:</b> Object.h:355</div></div>
-<div class="ttc" id="aa08262_html_a5cfdcda6e5530175c824a7f9e2d5c50d"><div class="ttname"><a href="../../dd/d7d/a08262.html#a5cfdcda6e5530175c824a7f9e2d5c50d">WorldObject::isActiveObject</a></div><div class="ttdeci">bool isActiveObject() const</div><div class="ttdef"><b>Definition:</b> Object.h:580</div></div>
-<div class="ttc" id="aa09278_html_a2992965ffdf65b713f60b83abf698459"><div class="ttname"><a href="../../dd/dc7/a09278.html#a2992965ffdf65b713f60b83abf698459">ObjectGridLoader::SetObjectCell</a></div><div class="ttdeci">static void SetObjectCell(T *obj, CellCoord const &amp;cellCoord)</div><div class="ttdef"><b>Definition:</b> ObjectGridLoader.cpp:49</div></div>
-<div class="ttc" id="aa09630_html_ac07f125a1ad7ad6f22cd18dbe20208f3"><div class="ttname"><a href="../../d5/d8e/a09630.html#ac07f125a1ad7ad6f22cd18dbe20208f3">Map::AddToActive</a></div><div class="ttdeci">void AddToActive(T *obj)</div><div class="ttdef"><b>Definition:</b> Map.cpp:2764</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02764">Map::AddToActive()</a>, <a class="el" href="../../#l00355">GridObject&lt; T &gt;::AddToGrid()</a>, <a class="el" href="../../#l00312">Creature::AddToWorld()</a>, <a class="el" href="../../#l00580">WorldObject::isActiveObject()</a>, and <a class="el" href="../../#l00049">ObjectGridLoader::SetObjectCell()</a>.</p>
 
 </div>
 </div>
-<a id="a0881e3c2e2147fefcd2460f09f1fce04" name="a0881e3c2e2147fefcd2460f09f1fce04"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0881e3c2e2147fefcd2460f09f1fce04">&#9670;&#160;</a></span>AddObjectHelper() <span class="overload">[2/3]</span></h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a671e2c9be7783733226427ebd264eb19" name="a671e2c9be7783733226427ebd264eb19"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a671e2c9be7783733226427ebd264eb19">&#9670;&#160;</a></span>ControlGOTypes</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">void AddObjectHelper </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;&#160;</td>
-          <td class="paramname"><em>cell</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/d2e/a01949.html#aad35d1efe9e8a57f45c0740a89bf9fbf">GameObjectMapType</a> &amp;&#160;</td>
-          <td class="paramname"><em>m</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td>
-          <td class="paramname"><em>count</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d8e/a09630.html">Map</a> *&#160;</td>
-          <td class="paramname"><em>map</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d58/a08034.html">GameObject</a> *&#160;</td>
-          <td class="paramname"><em>obj</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">enum <a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19">ControlGOTypes</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   88</span>{</div>
-<div class="line"><span class="lineno">   89</span>    obj-&gt;<a class="code hl_function" href="../../de/d0d/a08250.html#a178e3cc30d983d739e1f3f98d9eefbf0">AddToGrid</a>(m);</div>
-<div class="line"><span class="lineno">   90</span>    <a class="code hl_function" href="../../dd/dc7/a09278.html#a2992965ffdf65b713f60b83abf698459">ObjectGridLoader::SetObjectCell</a>(obj, cell);</div>
-<div class="line"><span class="lineno">   91</span>    obj-&gt;<a class="code hl_function" href="../../d9/d58/a08034.html#adcd109089dc736a312e7ca246d084437">AddToWorld</a>();</div>
-<div class="line"><span class="lineno">   92</span>    <span class="keywordflow">if</span> (obj-&gt;<a class="code hl_function" href="../../dd/d7d/a08262.html#a5cfdcda6e5530175c824a7f9e2d5c50d">isActiveObject</a>())</div>
-<div class="line"><span class="lineno">   93</span>        map-&gt;<a class="code hl_function" href="../../d5/d8e/a09630.html#ac07f125a1ad7ad6f22cd18dbe20208f3">AddToActive</a>(obj);</div>
-<div class="line"><span class="lineno">   94</span> </div>
-<div class="line"><span class="lineno">   95</span>    ++count;</div>
-<div class="line"><span class="lineno">   96</span>}</div>
-<div class="ttc" id="aa08034_html_adcd109089dc736a312e7ca246d084437"><div class="ttname"><a href="../../d9/d58/a08034.html#adcd109089dc736a312e7ca246d084437">GameObject::AddToWorld</a></div><div class="ttdeci">void AddToWorld() override</div><div class="ttdef"><b>Definition:</b> GameObject.cpp:140</div></div>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad" name="a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad"></a>NA_ROOST_S&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623" name="a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623"></a>NA_ROOST_W&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520" name="a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520"></a>NA_ROOST_N&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a671e2c9be7783733226427ebd264eb19ac2360c16ea760d37dcec325a5165ec8c" name="a671e2c9be7783733226427ebd264eb19ac2360c16ea760d37dcec325a5165ec8c"></a>NA_ROOST_E&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a671e2c9be7783733226427ebd264eb19a8fe4900cb979a36257cc3ee70cfcd56e" name="a671e2c9be7783733226427ebd264eb19a8fe4900cb979a36257cc3ee70cfcd56e"></a>NA_BOMB_WAGON_S&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a671e2c9be7783733226427ebd264eb19a7ff23be34578fcc2d55e1f088b3e00cb" name="a671e2c9be7783733226427ebd264eb19a7ff23be34578fcc2d55e1f088b3e00cb"></a>NA_BOMB_WAGON_W&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a671e2c9be7783733226427ebd264eb19a7b1be1932fafd2586d4706e8541b85b8" name="a671e2c9be7783733226427ebd264eb19a7b1be1932fafd2586d4706e8541b85b8"></a>NA_BOMB_WAGON_N&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a671e2c9be7783733226427ebd264eb19a2447af22ca220eab12dbc987125a6870" name="a671e2c9be7783733226427ebd264eb19a2447af22ca220eab12dbc987125a6870"></a>NA_BOMB_WAGON_E&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a671e2c9be7783733226427ebd264eb19a6267ce0c271fd7e77fcebb63e09b4099" name="a671e2c9be7783733226427ebd264eb19a6267ce0c271fd7e77fcebb63e09b4099"></a>NA_DESTROYED_ROOST_S&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a671e2c9be7783733226427ebd264eb19ab023c62e57c5d189c91a4babd13525cf" name="a671e2c9be7783733226427ebd264eb19ab023c62e57c5d189c91a4babd13525cf"></a>NA_DESTROYED_ROOST_W&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a671e2c9be7783733226427ebd264eb19a9cbe15da02cd0024dbedf82b2c752f0f" name="a671e2c9be7783733226427ebd264eb19a9cbe15da02cd0024dbedf82b2c752f0f"></a>NA_DESTROYED_ROOST_N&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a671e2c9be7783733226427ebd264eb19a81fe1a37a84a9d647898f65913718e3e" name="a671e2c9be7783733226427ebd264eb19a81fe1a37a84a9d647898f65913718e3e"></a>NA_DESTROYED_ROOST_E&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7" name="a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7"></a>NA_CONTROL_GO_NUM&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   93</span>{</div>
+<div class="line"><span class="lineno">   94</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad">NA_ROOST_S</a> = 0,</div>
+<div class="line"><span class="lineno">   95</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623">NA_ROOST_W</a> = 1,</div>
+<div class="line"><span class="lineno">   96</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520">NA_ROOST_N</a> = 2,</div>
+<div class="line"><span class="lineno">   97</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ac2360c16ea760d37dcec325a5165ec8c">NA_ROOST_E</a> = 3,</div>
+<div class="line"><span class="lineno">   98</span> </div>
+<div class="line"><span class="lineno">   99</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a8fe4900cb979a36257cc3ee70cfcd56e">NA_BOMB_WAGON_S</a> = 4,</div>
+<div class="line"><span class="lineno">  100</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a7ff23be34578fcc2d55e1f088b3e00cb">NA_BOMB_WAGON_W</a> = 5,</div>
+<div class="line"><span class="lineno">  101</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a7b1be1932fafd2586d4706e8541b85b8">NA_BOMB_WAGON_N</a> = 6,</div>
+<div class="line"><span class="lineno">  102</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a2447af22ca220eab12dbc987125a6870">NA_BOMB_WAGON_E</a> = 7,</div>
+<div class="line"><span class="lineno">  103</span> </div>
+<div class="line"><span class="lineno">  104</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a6267ce0c271fd7e77fcebb63e09b4099">NA_DESTROYED_ROOST_S</a> = 8,</div>
+<div class="line"><span class="lineno">  105</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ab023c62e57c5d189c91a4babd13525cf">NA_DESTROYED_ROOST_W</a> = 9,</div>
+<div class="line"><span class="lineno">  106</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a9cbe15da02cd0024dbedf82b2c752f0f">NA_DESTROYED_ROOST_N</a> = 10,</div>
+<div class="line"><span class="lineno">  107</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a81fe1a37a84a9d647898f65913718e3e">NA_DESTROYED_ROOST_E</a> = 11,</div>
+<div class="line"><span class="lineno">  108</span> </div>
+<div class="line"><span class="lineno">  109</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7">NA_CONTROL_GO_NUM</a> = 12</div>
+<div class="line"><span class="lineno">  110</span>};</div>
+<div class="ttc" id="aa01943_html_a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623"><div class="ttname"><a href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623">NA_ROOST_W</a></div><div class="ttdeci">@ NA_ROOST_W</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:95</div></div>
+<div class="ttc" id="aa01943_html_a671e2c9be7783733226427ebd264eb19a2447af22ca220eab12dbc987125a6870"><div class="ttname"><a href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a2447af22ca220eab12dbc987125a6870">NA_BOMB_WAGON_E</a></div><div class="ttdeci">@ NA_BOMB_WAGON_E</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:102</div></div>
+<div class="ttc" id="aa01943_html_a671e2c9be7783733226427ebd264eb19a6267ce0c271fd7e77fcebb63e09b4099"><div class="ttname"><a href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a6267ce0c271fd7e77fcebb63e09b4099">NA_DESTROYED_ROOST_S</a></div><div class="ttdeci">@ NA_DESTROYED_ROOST_S</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:104</div></div>
+<div class="ttc" id="aa01943_html_a671e2c9be7783733226427ebd264eb19a7b1be1932fafd2586d4706e8541b85b8"><div class="ttname"><a href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a7b1be1932fafd2586d4706e8541b85b8">NA_BOMB_WAGON_N</a></div><div class="ttdeci">@ NA_BOMB_WAGON_N</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:101</div></div>
+<div class="ttc" id="aa01943_html_a671e2c9be7783733226427ebd264eb19a7ff23be34578fcc2d55e1f088b3e00cb"><div class="ttname"><a href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a7ff23be34578fcc2d55e1f088b3e00cb">NA_BOMB_WAGON_W</a></div><div class="ttdeci">@ NA_BOMB_WAGON_W</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:100</div></div>
+<div class="ttc" id="aa01943_html_a671e2c9be7783733226427ebd264eb19a81fe1a37a84a9d647898f65913718e3e"><div class="ttname"><a href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a81fe1a37a84a9d647898f65913718e3e">NA_DESTROYED_ROOST_E</a></div><div class="ttdeci">@ NA_DESTROYED_ROOST_E</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:107</div></div>
+<div class="ttc" id="aa01943_html_a671e2c9be7783733226427ebd264eb19a8fe4900cb979a36257cc3ee70cfcd56e"><div class="ttname"><a href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a8fe4900cb979a36257cc3ee70cfcd56e">NA_BOMB_WAGON_S</a></div><div class="ttdeci">@ NA_BOMB_WAGON_S</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:99</div></div>
+<div class="ttc" id="aa01943_html_a671e2c9be7783733226427ebd264eb19a9cbe15da02cd0024dbedf82b2c752f0f"><div class="ttname"><a href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19a9cbe15da02cd0024dbedf82b2c752f0f">NA_DESTROYED_ROOST_N</a></div><div class="ttdeci">@ NA_DESTROYED_ROOST_N</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:106</div></div>
+<div class="ttc" id="aa01943_html_a671e2c9be7783733226427ebd264eb19ab023c62e57c5d189c91a4babd13525cf"><div class="ttname"><a href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ab023c62e57c5d189c91a4babd13525cf">NA_DESTROYED_ROOST_W</a></div><div class="ttdeci">@ NA_DESTROYED_ROOST_W</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:105</div></div>
+<div class="ttc" id="aa01943_html_a671e2c9be7783733226427ebd264eb19ac2360c16ea760d37dcec325a5165ec8c"><div class="ttname"><a href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ac2360c16ea760d37dcec325a5165ec8c">NA_ROOST_E</a></div><div class="ttdeci">@ NA_ROOST_E</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:97</div></div>
+<div class="ttc" id="aa01943_html_a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7"><div class="ttname"><a href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7">NA_CONTROL_GO_NUM</a></div><div class="ttdeci">@ NA_CONTROL_GO_NUM</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:109</div></div>
+<div class="ttc" id="aa01943_html_a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520"><div class="ttname"><a href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520">NA_ROOST_N</a></div><div class="ttdeci">@ NA_ROOST_N</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:96</div></div>
+<div class="ttc" id="aa01943_html_a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad"><div class="ttname"><a href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad">NA_ROOST_S</a></div><div class="ttdeci">@ NA_ROOST_S</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:94</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02764">Map::AddToActive()</a>, <a class="el" href="../../#l00355">GridObject&lt; T &gt;::AddToGrid()</a>, <a class="el" href="../../#l00140">GameObject::AddToWorld()</a>, <a class="el" href="../../#l00580">WorldObject::isActiveObject()</a>, and <a class="el" href="../../#l00049">ObjectGridLoader::SetObjectCell()</a>.</p>
-
 </div>
 </div>
-<a id="af04925817412dce977fbf9dd300f0d94" name="af04925817412dce977fbf9dd300f0d94"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af04925817412dce977fbf9dd300f0d94">&#9670;&#160;</a></span>AddObjectHelper() <span class="overload">[3/3]</span></h2>
+<a id="a68fd902d513cc8e7bf37946f9d26a80b" name="a68fd902d513cc8e7bf37946f9d26a80b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a68fd902d513cc8e7bf37946f9d26a80b">&#9670;&#160;</a></span>FlightSpellsNA</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class T &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">void AddObjectHelper </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;&#160;</td>
-          <td class="paramname"><em>cell</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../df/d6e/a08938.html">GridRefMgr</a>&lt; T &gt; &amp;&#160;</td>
-          <td class="paramname"><em>m</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td>
-          <td class="paramname"><em>count</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d8e/a09630.html">Map</a> *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">T *&#160;</td>
-          <td class="paramname"><em>obj</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">enum <a class="el" href="../../df/dd8/a01943.html#a68fd902d513cc8e7bf37946f9d26a80b">FlightSpellsNA</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   67</span>{</div>
-<div class="line"><span class="lineno">   68</span>    obj-&gt;AddToGrid(m);</div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_function" href="../../dd/dc7/a09278.html#a2992965ffdf65b713f60b83abf698459">ObjectGridLoader::SetObjectCell</a>(obj, cell);</div>
-<div class="line"><span class="lineno">   70</span>    obj-&gt;AddToWorld();</div>
-<div class="line"><span class="lineno">   71</span>    ++count;</div>
-<div class="line"><span class="lineno">   72</span>}</div>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f" name="a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f"></a>NA_SPELL_FLY_SOUTH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a68fd902d513cc8e7bf37946f9d26a80ba9a9deaeede3e488499190b425fd3bdc2" name="a68fd902d513cc8e7bf37946f9d26a80ba9a9deaeede3e488499190b425fd3bdc2"></a>NA_SPELL_FLY_WEST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3" name="a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3"></a>NA_SPELL_FLY_NORTH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a68fd902d513cc8e7bf37946f9d26a80bab97171fab8df1e600228b3da1456452d" name="a68fd902d513cc8e7bf37946f9d26a80bab97171fab8df1e600228b3da1456452d"></a>NA_SPELL_FLY_EAST&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  116</span>{</div>
+<div class="line"><span class="lineno">  117</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f">NA_SPELL_FLY_SOUTH</a> = 32059,</div>
+<div class="line"><span class="lineno">  118</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a68fd902d513cc8e7bf37946f9d26a80ba9a9deaeede3e488499190b425fd3bdc2">NA_SPELL_FLY_WEST</a> = 32068,</div>
+<div class="line"><span class="lineno">  119</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3">NA_SPELL_FLY_NORTH</a> = 32075,</div>
+<div class="line"><span class="lineno">  120</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a68fd902d513cc8e7bf37946f9d26a80bab97171fab8df1e600228b3da1456452d">NA_SPELL_FLY_EAST</a> = 32081</div>
+<div class="line"><span class="lineno">  121</span>};</div>
+<div class="ttc" id="aa01943_html_a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f"><div class="ttname"><a href="../../df/dd8/a01943.html#a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f">NA_SPELL_FLY_SOUTH</a></div><div class="ttdeci">@ NA_SPELL_FLY_SOUTH</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:117</div></div>
+<div class="ttc" id="aa01943_html_a68fd902d513cc8e7bf37946f9d26a80ba9a9deaeede3e488499190b425fd3bdc2"><div class="ttname"><a href="../../df/dd8/a01943.html#a68fd902d513cc8e7bf37946f9d26a80ba9a9deaeede3e488499190b425fd3bdc2">NA_SPELL_FLY_WEST</a></div><div class="ttdeci">@ NA_SPELL_FLY_WEST</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:118</div></div>
+<div class="ttc" id="aa01943_html_a68fd902d513cc8e7bf37946f9d26a80bab97171fab8df1e600228b3da1456452d"><div class="ttname"><a href="../../df/dd8/a01943.html#a68fd902d513cc8e7bf37946f9d26a80bab97171fab8df1e600228b3da1456452d">NA_SPELL_FLY_EAST</a></div><div class="ttdeci">@ NA_SPELL_FLY_EAST</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:120</div></div>
+<div class="ttc" id="aa01943_html_a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3"><div class="ttname"><a href="../../df/dd8/a01943.html#a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3">NA_SPELL_FLY_NORTH</a></div><div class="ttdeci">@ NA_SPELL_FLY_NORTH</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:119</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00049">ObjectGridLoader::SetObjectCell()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00104">LoadHelper()</a>.</p>
-
 </div>
 </div>
-<a id="a230249fa0e98051e01a6fb2b61b3c74d" name="a230249fa0e98051e01a6fb2b61b3c74d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a230249fa0e98051e01a6fb2b61b3c74d">&#9670;&#160;</a></span>LoadHelper() <span class="overload">[1/3]</span></h2>
+<a id="a394f453184d3eefd51298b772b4c789a" name="a394f453184d3eefd51298b772b4c789a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a394f453184d3eefd51298b772b4c789a">&#9670;&#160;</a></span>HalaaCreaturesSpawn</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class T &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">void LoadHelper </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d40/a00959.html#a156fd3db7b515ae005bc7d35fededc3e">CellGuidSet</a> const &amp;&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../df/d6e/a08938.html">GridRefMgr</a>&lt; T &gt; &amp;&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d8e/a09630.html">Map</a> *&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">enum <a class="el" href="../../df/dd8/a01943.html#a394f453184d3eefd51298b772b4c789a">HalaaCreaturesSpawn</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  100</span>{</div>
-<div class="line"><span class="lineno">  101</span>}</div>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910" name="a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910"></a>NA_HALAA_CREATURES&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a394f453184d3eefd51298b772b4c789aa79500d69d3c666a75f664fa63f63de94" name="a394f453184d3eefd51298b772b4c789aa79500d69d3c666a75f664fa63f63de94"></a>NA_HALAA_CREATURE_TEAM_SPAWN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a394f453184d3eefd51298b772b4c789aa3d72e7f62a2349039b0c269f0c469553" name="a394f453184d3eefd51298b772b4c789aa3d72e7f62a2349039b0c269f0c469553"></a>NA_HALAA_MAX_CREATURE_SPAWN&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  131</span>{</div>
+<div class="line"><span class="lineno">  132</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910">NA_HALAA_CREATURES</a> = 12, <span class="comment">//Quantity of creatures_templates contains HALAA</span></div>
+<div class="line"><span class="lineno">  133</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a394f453184d3eefd51298b772b4c789aa79500d69d3c666a75f664fa63f63de94">NA_HALAA_CREATURE_TEAM_SPAWN</a> = 20, <span class="comment">//Number of creatures by team</span></div>
+<div class="line"><span class="lineno">  134</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a394f453184d3eefd51298b772b4c789aa3d72e7f62a2349039b0c269f0c469553">NA_HALAA_MAX_CREATURE_SPAWN</a> = 40 <span class="comment">//Number of creatures by both teams</span></div>
+<div class="line"><span class="lineno">  135</span>};</div>
+<div class="ttc" id="aa01943_html_a394f453184d3eefd51298b772b4c789aa3d72e7f62a2349039b0c269f0c469553"><div class="ttname"><a href="../../df/dd8/a01943.html#a394f453184d3eefd51298b772b4c789aa3d72e7f62a2349039b0c269f0c469553">NA_HALAA_MAX_CREATURE_SPAWN</a></div><div class="ttdeci">@ NA_HALAA_MAX_CREATURE_SPAWN</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:134</div></div>
+<div class="ttc" id="aa01943_html_a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910"><div class="ttname"><a href="../../df/dd8/a01943.html#a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910">NA_HALAA_CREATURES</a></div><div class="ttdeci">@ NA_HALAA_CREATURES</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:132</div></div>
+<div class="ttc" id="aa01943_html_a394f453184d3eefd51298b772b4c789aa79500d69d3c666a75f664fa63f63de94"><div class="ttname"><a href="../../df/dd8/a01943.html#a394f453184d3eefd51298b772b4c789aa79500d69d3c666a75f664fa63f63de94">NA_HALAA_CREATURE_TEAM_SPAWN</a></div><div class="ttdeci">@ NA_HALAA_CREATURE_TEAM_SPAWN</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:133</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00149">ObjectGridLoader::Visit()</a>.</p>
-
 </div>
 </div>
-<a id="afee9d1c6de56ec77cc8f4c9936f1d7fd" name="afee9d1c6de56ec77cc8f4c9936f1d7fd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afee9d1c6de56ec77cc8f4c9936f1d7fd">&#9670;&#160;</a></span>LoadHelper() <span class="overload">[2/3]</span></h2>
+<a id="a4e91f98214fe304c148fea20beaa5fae" name="a4e91f98214fe304c148fea20beaa5fae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4e91f98214fe304c148fea20beaa5fae">&#9670;&#160;</a></span>HalaaGuardsNA</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">void LoadHelper </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d40/a00959.html#a156fd3db7b515ae005bc7d35fededc3e">CellGuidSet</a> const &amp;&#160;</td>
-          <td class="paramname"><em>guid_set</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;&#160;</td>
-          <td class="paramname"><em>cell</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../df/d6e/a08938.html">GridRefMgr</a>&lt; <a class="el" href="../../d6/dd4/a07858.html">Creature</a> &gt; &amp;&#160;</td>
-          <td class="paramname"><em>m</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td>
-          <td class="paramname"><em>count</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d8e/a09630.html">Map</a> *&#160;</td>
-          <td class="paramname"><em>map</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">enum <a class="el" href="../../df/dd8/a01943.html#a4e91f98214fe304c148fea20beaa5fae">HalaaGuardsNA</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  105</span>{</div>
-<div class="line"><span class="lineno">  106</span>    <span class="keywordflow">for</span> (CellGuidSet::const_iterator i_guid = guid_set.begin(); i_guid != guid_set.end(); ++i_guid)</div>
-<div class="line"><span class="lineno">  107</span>    {</div>
-<div class="line"><span class="lineno">  108</span>        <a class="code hl_class" href="../../d6/dd4/a07858.html">Creature</a>* obj = <span class="keyword">new</span> <a class="code hl_class" href="../../d6/dd4/a07858.html">Creature</a>();</div>
-<div class="line"><span class="lineno">  109</span>        <a class="code hl_typedef" href="../../d7/dac/a08278.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> guid = *i_guid;</div>
-<div class="line"><span class="lineno">  110</span>        <span class="keywordflow">if</span> (!obj-&gt;<a class="code hl_function" href="../../d6/dd4/a07858.html#adc4f35223eb98a4ce674a2c4b7e5b7bf">LoadFromDB</a>(guid, map))</div>
-<div class="line"><span class="lineno">  111</span>        {</div>
-<div class="line"><span class="lineno">  112</span>            <span class="keyword">delete</span> obj;</div>
-<div class="line"><span class="lineno">  113</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  114</span>        }</div>
-<div class="line"><span class="lineno">  115</span> </div>
-<div class="line"><span class="lineno">  116</span>        <a class="code hl_function" href="../../df/dd8/a01943.html#af04925817412dce977fbf9dd300f0d94">AddObjectHelper</a>(cell, m, count, map, obj);</div>
-<div class="line"><span class="lineno">  117</span> </div>
-<div class="line"><span class="lineno">  118</span>        <span class="keywordflow">if</span> (!obj-&gt;<a class="code hl_function" href="../../d6/dd4/a07858.html#a87b6d6ec4f245c550c48c57325fe44dd">IsMoveInLineOfSightDisabled</a>() &amp;&amp; obj-&gt;<a class="code hl_function" href="../../d6/dd4/a07858.html#ace3244d1ca6f0af9ca70ae6a4da76e1a">GetDefaultMovementType</a>() == <a class="code hl_enumvalue" href="../../d7/d29/a01589.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e">IDLE_MOTION_TYPE</a> &amp;&amp; !obj-&gt;<a class="code hl_function" href="../../dd/d7d/a08262.html#a266350f5eebd01138f89f659d1eb7505">isNeedNotify</a>(<a class="code hl_enumvalue" href="../../de/d6c/a01349.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053">NOTIFY_VISIBILITY_CHANGED</a> | <a class="code hl_enumvalue" href="../../de/d6c/a01349.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d">NOTIFY_AI_RELOCATION</a>))</div>
-<div class="line"><span class="lineno">  119</span>        {</div>
-<div class="line"><span class="lineno">  120</span>            <span class="keywordflow">if</span> (obj-&gt;<a class="code hl_function" href="../../d4/d3a/a08610.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; !obj-&gt;<a class="code hl_function" href="../../d4/d3a/a08610.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../dc/dee/a01166.html#ae51d2ecb71f7a5cb3882982a622c9544a6109dcad21a2eaf7e1d57bc2ad917558">UNIT_STATE_SIGHTLESS</a>) &amp;&amp; obj-&gt;<a class="code hl_function" href="../../d6/dd4/a07858.html#a46a7576522c3b964bd50388091f95951">HasReactState</a>(<a class="code hl_enumvalue" href="../../d9/d25/a01157.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc">REACT_AGGRESSIVE</a>) &amp;&amp; !obj-&gt;<a class="code hl_function" href="../../d4/d3a/a08610.html#a78fa5ef65274d8db2ba98306e98e2209">IsImmuneToNPC</a>())</div>
-<div class="line"><span class="lineno">  121</span>            {</div>
-<div class="line"><span class="lineno">  122</span>                <span class="comment">// call MoveInLineOfSight for nearby grid creatures</span></div>
-<div class="line"><span class="lineno">  123</span>                <a class="code hl_struct" href="../../d0/d59/a08966.html">Acore::AIRelocationNotifier</a> notifier(*obj);</div>
-<div class="line"><span class="lineno">  124</span>                <a class="code hl_function" href="../../d4/df8/a08914.html#a7040fac6edc9c2b742ff1d91f786afa0">Cell::VisitGridObjects</a>(obj, notifier, 60.f);</div>
-<div class="line"><span class="lineno">  125</span>            }</div>
-<div class="line"><span class="lineno">  126</span>        }</div>
-<div class="line"><span class="lineno">  127</span>    }</div>
-<div class="line"><span class="lineno">  128</span>}</div>
-<div class="ttc" id="aa01157_html_a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc"><div class="ttname"><a href="../../d9/d25/a01157.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc">REACT_AGGRESSIVE</a></div><div class="ttdeci">@ REACT_AGGRESSIVE</div><div class="ttdef"><b>Definition:</b> Unit.h:550</div></div>
-<div class="ttc" id="aa01166_html_ae51d2ecb71f7a5cb3882982a622c9544a6109dcad21a2eaf7e1d57bc2ad917558"><div class="ttname"><a href="../../dc/dee/a01166.html#ae51d2ecb71f7a5cb3882982a622c9544a6109dcad21a2eaf7e1d57bc2ad917558">UNIT_STATE_SIGHTLESS</a></div><div class="ttdeci">@ UNIT_STATE_SIGHTLESS</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:213</div></div>
-<div class="ttc" id="aa01349_html_ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d"><div class="ttname"><a href="../../de/d6c/a01349.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d">NOTIFY_AI_RELOCATION</a></div><div class="ttdeci">@ NOTIFY_AI_RELOCATION</div><div class="ttdef"><b>Definition:</b> Object.h:67</div></div>
-<div class="ttc" id="aa01349_html_ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053"><div class="ttname"><a href="../../de/d6c/a01349.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053">NOTIFY_VISIBILITY_CHANGED</a></div><div class="ttdeci">@ NOTIFY_VISIBILITY_CHANGED</div><div class="ttdef"><b>Definition:</b> Object.h:68</div></div>
-<div class="ttc" id="aa01589_html_a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e"><div class="ttname"><a href="../../d7/d29/a01589.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e">IDLE_MOTION_TYPE</a></div><div class="ttdeci">@ IDLE_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:39</div></div>
-<div class="ttc" id="aa01943_html_af04925817412dce977fbf9dd300f0d94"><div class="ttname"><a href="../../df/dd8/a01943.html#af04925817412dce977fbf9dd300f0d94">AddObjectHelper</a></div><div class="ttdeci">void AddObjectHelper(CellCoord &amp;cell, GridRefMgr&lt; T &gt; &amp;m, uint32 &amp;count, Map *, T *obj)</div><div class="ttdef"><b>Definition:</b> ObjectGridLoader.cpp:66</div></div>
-<div class="ttc" id="aa07858_html"><div class="ttname"><a href="../../d6/dd4/a07858.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:43</div></div>
-<div class="ttc" id="aa07858_html_a46a7576522c3b964bd50388091f95951"><div class="ttname"><a href="../../d6/dd4/a07858.html#a46a7576522c3b964bd50388091f95951">Creature::HasReactState</a></div><div class="ttdeci">bool HasReactState(ReactStates state) const</div><div class="ttdef"><b>Definition:</b> Creature.h:97</div></div>
-<div class="ttc" id="aa07858_html_a87b6d6ec4f245c550c48c57325fe44dd"><div class="ttname"><a href="../../d6/dd4/a07858.html#a87b6d6ec4f245c550c48c57325fe44dd">Creature::IsMoveInLineOfSightDisabled</a></div><div class="ttdeci">bool IsMoveInLineOfSightDisabled()</div><div class="ttdef"><b>Definition:</b> Creature.h:280</div></div>
-<div class="ttc" id="aa07858_html_ace3244d1ca6f0af9ca70ae6a4da76e1a"><div class="ttname"><a href="../../d6/dd4/a07858.html#ace3244d1ca6f0af9ca70ae6a4da76e1a">Creature::GetDefaultMovementType</a></div><div class="ttdeci">MovementGeneratorType GetDefaultMovementType() const override</div><div class="ttdoc">-------—End of Pet responses methods-------—</div><div class="ttdef"><b>Definition:</b> Creature.h:86</div></div>
-<div class="ttc" id="aa07858_html_adc4f35223eb98a4ce674a2c4b7e5b7bf"><div class="ttname"><a href="../../d6/dd4/a07858.html#adc4f35223eb98a4ce674a2c4b7e5b7bf">Creature::LoadFromDB</a></div><div class="ttdeci">bool LoadFromDB(ObjectGuid::LowType guid, Map *map, bool allowDuplicate=false)</div><div class="ttdef"><b>Definition:</b> Creature.h:223</div></div>
-<div class="ttc" id="aa08262_html_a266350f5eebd01138f89f659d1eb7505"><div class="ttname"><a href="../../dd/d7d/a08262.html#a266350f5eebd01138f89f659d1eb7505">WorldObject::isNeedNotify</a></div><div class="ttdeci">bool isNeedNotify(uint16 f) const</div><div class="ttdef"><b>Definition:</b> Object.h:574</div></div>
-<div class="ttc" id="aa08278_html_aa278d50613c05dc1333df5185a6993eb"><div class="ttname"><a href="../../d7/dac/a08278.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a></div><div class="ttdeci">uint32 LowType</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:122</div></div>
-<div class="ttc" id="aa08610_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d4/d3a/a08610.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1707</div></div>
-<div class="ttc" id="aa08610_html_a78fa5ef65274d8db2ba98306e98e2209"><div class="ttname"><a href="../../d4/d3a/a08610.html#a78fa5ef65274d8db2ba98306e98e2209">Unit::IsImmuneToNPC</a></div><div class="ttdeci">bool IsImmuneToNPC() const</div><div class="ttdef"><b>Definition:</b> Unit.h:888</div></div>
-<div class="ttc" id="aa08610_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../d4/d3a/a08610.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:707</div></div>
-<div class="ttc" id="aa08914_html_a7040fac6edc9c2b742ff1d91f786afa0"><div class="ttname"><a href="../../d4/df8/a08914.html#a7040fac6edc9c2b742ff1d91f786afa0">Cell::VisitGridObjects</a></div><div class="ttdeci">static void VisitGridObjects(WorldObject const *obj, T &amp;visitor, float radius, bool dont_load=true)</div><div class="ttdef"><b>Definition:</b> CellImpl.h:178</div></div>
-<div class="ttc" id="aa08966_html"><div class="ttname"><a href="../../d0/d59/a08966.html">Acore::AIRelocationNotifier</a></div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:91</div></div>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4e91f98214fe304c148fea20beaa5faeaa2b1c68dc890890449426eb6d46ff6c0" name="a4e91f98214fe304c148fea20beaa5faeaa2b1c68dc890890449426eb6d46ff6c0"></a>NA_HALAANI_GUARD_A&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4e91f98214fe304c148fea20beaa5faea6486eb6f2da8e52df614e7728a1f4304" name="a4e91f98214fe304c148fea20beaa5faea6486eb6f2da8e52df614e7728a1f4304"></a>NA_HALAANI_GUARD_H&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  125</span>{</div>
+<div class="line"><span class="lineno">  126</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a4e91f98214fe304c148fea20beaa5faeaa2b1c68dc890890449426eb6d46ff6c0">NA_HALAANI_GUARD_A</a> = 18256,</div>
+<div class="line"><span class="lineno">  127</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a4e91f98214fe304c148fea20beaa5faea6486eb6f2da8e52df614e7728a1f4304">NA_HALAANI_GUARD_H</a> = 18192</div>
+<div class="line"><span class="lineno">  128</span>};</div>
+<div class="ttc" id="aa01943_html_a4e91f98214fe304c148fea20beaa5faea6486eb6f2da8e52df614e7728a1f4304"><div class="ttname"><a href="../../df/dd8/a01943.html#a4e91f98214fe304c148fea20beaa5faea6486eb6f2da8e52df614e7728a1f4304">NA_HALAANI_GUARD_H</a></div><div class="ttdeci">@ NA_HALAANI_GUARD_H</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:127</div></div>
+<div class="ttc" id="aa01943_html_a4e91f98214fe304c148fea20beaa5faeaa2b1c68dc890890449426eb6d46ff6c0"><div class="ttname"><a href="../../df/dd8/a01943.html#a4e91f98214fe304c148fea20beaa5faeaa2b1c68dc890890449426eb6d46ff6c0">NA_HALAANI_GUARD_A</a></div><div class="ttdeci">@ NA_HALAANI_GUARD_A</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:126</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00066">AddObjectHelper()</a>, <a class="el" href="../../#l00086">Creature::GetDefaultMovementType()</a>, <a class="el" href="../../#l00097">Creature::HasReactState()</a>, <a class="el" href="../../#l00707">Unit::HasUnitState()</a>, <a class="el" href="../../#l00039">IDLE_MOTION_TYPE</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, <a class="el" href="../../#l00888">Unit::IsImmuneToNPC()</a>, <a class="el" href="../../#l00280">Creature::IsMoveInLineOfSightDisabled()</a>, <a class="el" href="../../#l00574">WorldObject::isNeedNotify()</a>, <a class="el" href="../../#l00223">Creature::LoadFromDB()</a>, <a class="el" href="../../#l00067">NOTIFY_AI_RELOCATION</a>, <a class="el" href="../../#l00068">NOTIFY_VISIBILITY_CHANGED</a>, <a class="el" href="../../#l00550">REACT_AGGRESSIVE</a>, <a class="el" href="../../#l00213">UNIT_STATE_SIGHTLESS</a>, and <a class="el" href="../../#l00178">Cell::VisitGridObjects()</a>.</p>
-
 </div>
 </div>
-<a id="a58b3bbef087ecc286d081a0f8d4c1fde" name="a58b3bbef087ecc286d081a0f8d4c1fde"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a58b3bbef087ecc286d081a0f8d4c1fde">&#9670;&#160;</a></span>LoadHelper() <span class="overload">[3/3]</span></h2>
+<a id="a2c40def86e302e716c09a15f01e5b809" name="a2c40def86e302e716c09a15f01e5b809"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2c40def86e302e716c09a15f01e5b809">&#9670;&#160;</a></span>HalaaStates</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">void LoadHelper </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d40/a00959.html#a156fd3db7b515ae005bc7d35fededc3e">CellGuidSet</a> const &amp;&#160;</td>
-          <td class="paramname"><em>guid_set</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/d2e/a01949.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;&#160;</td>
-          <td class="paramname"><em>cell</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../df/d6e/a08938.html">GridRefMgr</a>&lt; <a class="el" href="../../d9/d58/a08034.html">GameObject</a> &gt; &amp;&#160;</td>
-          <td class="paramname"><em>m</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td>
-          <td class="paramname"><em>count</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d8e/a09630.html">Map</a> *&#160;</td>
-          <td class="paramname"><em>map</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">enum <a class="el" href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809">HalaaStates</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  132</span>{</div>
-<div class="line"><span class="lineno">  133</span>    <span class="keywordflow">for</span> (CellGuidSet::const_iterator i_guid = guid_set.begin(); i_guid != guid_set.end(); ++i_guid)</div>
-<div class="line"><span class="lineno">  134</span>    {</div>
-<div class="line"><span class="lineno">  135</span>        <a class="code hl_typedef" href="../../d7/dac/a08278.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> guid = *i_guid;</div>
-<div class="line"><span class="lineno">  136</span>        <a class="code hl_struct" href="../../d3/d4c/a08174.html">GameObjectData</a> <span class="keyword">const</span>* data = <a class="code hl_define" href="../../db/d40/a00959.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGameObjectData(guid);</div>
-<div class="line"><span class="lineno">  137</span>        <a class="code hl_class" href="../../d9/d58/a08034.html">GameObject</a>* obj = data &amp;&amp; <a class="code hl_define" href="../../db/d40/a00959.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;IsGameObjectStaticTransport(data-&gt;<a class="code hl_variable" href="../../d3/d4c/a08174.html#ae12c8c5e7b3c848a57960e4c51d76e84">id</a>) ? <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d15/a08526.html">StaticTransport</a>() : new <a class="code hl_class" href="../../d9/d58/a08034.html">GameObject</a>();</div>
-<div class="line"><span class="lineno">  138</span> </div>
-<div class="line"><span class="lineno">  139</span>        <span class="keywordflow">if</span> (!obj-&gt;<a class="code hl_function" href="../../d9/d58/a08034.html#ade83e85cc1a0644ce566f76e7a467771">LoadFromDB</a>(guid, map))</div>
-<div class="line"><span class="lineno">  140</span>        {</div>
-<div class="line"><span class="lineno">  141</span>            <span class="keyword">delete</span> obj;</div>
-<div class="line"><span class="lineno">  142</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  143</span>        }</div>
-<div class="line"><span class="lineno">  144</span> </div>
-<div class="line"><span class="lineno">  145</span>        <a class="code hl_function" href="../../df/dd8/a01943.html#af04925817412dce977fbf9dd300f0d94">AddObjectHelper</a>(cell, m, count, map, obj);</div>
-<div class="line"><span class="lineno">  146</span>    }</div>
-<div class="line"><span class="lineno">  147</span>}</div>
-<div class="ttc" id="aa00959_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../db/d40/a00959.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1643</div></div>
-<div class="ttc" id="aa08034_html"><div class="ttname"><a href="../../d9/d58/a08034.html">GameObject</a></div><div class="ttdef"><b>Definition:</b> GameObject.h:120</div></div>
-<div class="ttc" id="aa08034_html_ade83e85cc1a0644ce566f76e7a467771"><div class="ttname"><a href="../../d9/d58/a08034.html#ade83e85cc1a0644ce566f76e7a467771">GameObject::LoadFromDB</a></div><div class="ttdeci">bool LoadFromDB(ObjectGuid::LowType guid, Map *map)</div><div class="ttdef"><b>Definition:</b> GameObject.h:159</div></div>
-<div class="ttc" id="aa08174_html"><div class="ttname"><a href="../../d3/d4c/a08174.html">GameObjectData</a></div><div class="ttdef"><b>Definition:</b> GameObjectData.h:696</div></div>
-<div class="ttc" id="aa08174_html_ae12c8c5e7b3c848a57960e4c51d76e84"><div class="ttname"><a href="../../d3/d4c/a08174.html#ae12c8c5e7b3c848a57960e4c51d76e84">GameObjectData::id</a></div><div class="ttdeci">uint32 id</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:698</div></div>
-<div class="ttc" id="aa08526_html"><div class="ttname"><a href="../../d6/d15/a08526.html">StaticTransport</a></div><div class="ttdef"><b>Definition:</b> Transport.h:112</div></div>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2c40def86e302e716c09a15f01e5b809a255888833d6c2bfcb48d6300e3a00e76" name="a2c40def86e302e716c09a15f01e5b809a255888833d6c2bfcb48d6300e3a00e76"></a>HALAA_N&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2c40def86e302e716c09a15f01e5b809a5e75a8ea3c221ca8d430a5c3a059ffba" name="a2c40def86e302e716c09a15f01e5b809a5e75a8ea3c221ca8d430a5c3a059ffba"></a>HALAA_N_A&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2c40def86e302e716c09a15f01e5b809a7e97d445255ae31253d61c6042240799" name="a2c40def86e302e716c09a15f01e5b809a7e97d445255ae31253d61c6042240799"></a>HALAA_A&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889" name="a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889"></a>HALAA_N_H&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2c40def86e302e716c09a15f01e5b809a7159ad16ee5d51946529c3cd325c6547" name="a2c40def86e302e716c09a15f01e5b809a7159ad16ee5d51946529c3cd325c6547"></a>HALAA_H&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  207</span>{</div>
+<div class="line"><span class="lineno">  208</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809a255888833d6c2bfcb48d6300e3a00e76">HALAA_N</a> = 1,</div>
+<div class="line"><span class="lineno">  209</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809a5e75a8ea3c221ca8d430a5c3a059ffba">HALAA_N_A</a> = 2,</div>
+<div class="line"><span class="lineno">  210</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809a7e97d445255ae31253d61c6042240799">HALAA_A</a> = 4,</div>
+<div class="line"><span class="lineno">  211</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889">HALAA_N_H</a> = 8,</div>
+<div class="line"><span class="lineno">  212</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809a7159ad16ee5d51946529c3cd325c6547">HALAA_H</a> = 16</div>
+<div class="line"><span class="lineno">  213</span>};</div>
+<div class="ttc" id="aa01943_html_a2c40def86e302e716c09a15f01e5b809a255888833d6c2bfcb48d6300e3a00e76"><div class="ttname"><a href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809a255888833d6c2bfcb48d6300e3a00e76">HALAA_N</a></div><div class="ttdeci">@ HALAA_N</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:208</div></div>
+<div class="ttc" id="aa01943_html_a2c40def86e302e716c09a15f01e5b809a5e75a8ea3c221ca8d430a5c3a059ffba"><div class="ttname"><a href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809a5e75a8ea3c221ca8d430a5c3a059ffba">HALAA_N_A</a></div><div class="ttdeci">@ HALAA_N_A</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:209</div></div>
+<div class="ttc" id="aa01943_html_a2c40def86e302e716c09a15f01e5b809a7159ad16ee5d51946529c3cd325c6547"><div class="ttname"><a href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809a7159ad16ee5d51946529c3cd325c6547">HALAA_H</a></div><div class="ttdeci">@ HALAA_H</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:212</div></div>
+<div class="ttc" id="aa01943_html_a2c40def86e302e716c09a15f01e5b809a7e97d445255ae31253d61c6042240799"><div class="ttname"><a href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809a7e97d445255ae31253d61c6042240799">HALAA_A</a></div><div class="ttdeci">@ HALAA_A</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:210</div></div>
+<div class="ttc" id="aa01943_html_a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889"><div class="ttname"><a href="../../df/dd8/a01943.html#a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889">HALAA_N_H</a></div><div class="ttdeci">@ HALAA_N_H</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:211</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00066">AddObjectHelper()</a>, <a class="el" href="../../#l00698">GameObjectData::id</a>, <a class="el" href="../../#l00159">GameObject::LoadFromDB()</a>, and <a class="el" href="../../#l01643">sObjectMgr</a>.</p>
+</div>
+</div>
+<a id="a933dca48e43f02c2e7846375e0e3a3e2" name="a933dca48e43f02c2e7846375e0e3a3e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a933dca48e43f02c2e7846375e0e3a3e2">&#9670;&#160;</a></span>OutdoorPvPNASpells</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../df/dd8/a01943.html#a933dca48e43f02c2e7846375e0e3a3e2">OutdoorPvPNASpells</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<dl class="todo"><dt><b><a class="el" href="../../db/d62/a04730.html#_todo000197">Todo:</a></b></dt><dd>: "sometimes" set to neutral </dd></dl>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a933dca48e43f02c2e7846375e0e3a3e2aae0070f813d277d5864226d25a571413" name="a933dca48e43f02c2e7846375e0e3a3e2aae0070f813d277d5864226d25a571413"></a>NA_KILL_TOKEN_ALLIANCE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a933dca48e43f02c2e7846375e0e3a3e2aacbd3b5420e976421bab93b50cfa1f0c" name="a933dca48e43f02c2e7846375e0e3a3e2aacbd3b5420e976421bab93b50cfa1f0c"></a>NA_KILL_TOKEN_HORDE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a933dca48e43f02c2e7846375e0e3a3e2a734083143cec178f24ecabb449f0637c" name="a933dca48e43f02c2e7846375e0e3a3e2a734083143cec178f24ecabb449f0637c"></a>NA_CAPTURE_BUFF&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a933dca48e43f02c2e7846375e0e3a3e2aae0070f813d277d5864226d25a571413">NA_KILL_TOKEN_ALLIANCE</a> = 33005,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a933dca48e43f02c2e7846375e0e3a3e2aacbd3b5420e976421bab93b50cfa1f0c">NA_KILL_TOKEN_HORDE</a> = 33004,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a933dca48e43f02c2e7846375e0e3a3e2a734083143cec178f24ecabb449f0637c">NA_CAPTURE_BUFF</a> = 33795  <span class="comment">// strength of the halaani</span></div>
+<div class="line"><span class="lineno">   30</span>};</div>
+<div class="ttc" id="aa01943_html_a933dca48e43f02c2e7846375e0e3a3e2a734083143cec178f24ecabb449f0637c"><div class="ttname"><a href="../../df/dd8/a01943.html#a933dca48e43f02c2e7846375e0e3a3e2a734083143cec178f24ecabb449f0637c">NA_CAPTURE_BUFF</a></div><div class="ttdeci">@ NA_CAPTURE_BUFF</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:29</div></div>
+<div class="ttc" id="aa01943_html_a933dca48e43f02c2e7846375e0e3a3e2aacbd3b5420e976421bab93b50cfa1f0c"><div class="ttname"><a href="../../df/dd8/a01943.html#a933dca48e43f02c2e7846375e0e3a3e2aacbd3b5420e976421bab93b50cfa1f0c">NA_KILL_TOKEN_HORDE</a></div><div class="ttdeci">@ NA_KILL_TOKEN_HORDE</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:28</div></div>
+<div class="ttc" id="aa01943_html_a933dca48e43f02c2e7846375e0e3a3e2aae0070f813d277d5864226d25a571413"><div class="ttname"><a href="../../df/dd8/a01943.html#a933dca48e43f02c2e7846375e0e3a3e2aae0070f813d277d5864226d25a571413">NA_KILL_TOKEN_ALLIANCE</a></div><div class="ttdeci">@ NA_KILL_TOKEN_ALLIANCE</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:27</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a9d08dd162b413a84763f631ffd350fa4" name="a9d08dd162b413a84763f631ffd350fa4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d08dd162b413a84763f631ffd350fa4">&#9670;&#160;</a></span>OutdoorPvPNAWorldStates</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4">OutdoorPvPNAWorldStates</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a46b1f69332f51942a69d5cd7f67c4060" name="a9d08dd162b413a84763f631ffd350fa4a46b1f69332f51942a69d5cd7f67c4060"></a>NA_UI_HORDE_GUARDS_SHOW&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a18435bb3a2f55ccca54de96446c11c76" name="a9d08dd162b413a84763f631ffd350fa4a18435bb3a2f55ccca54de96446c11c76"></a>NA_UI_ALLIANCE_GUARDS_SHOW&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a78242c0e11a3b54151abc16a62c13155" name="a9d08dd162b413a84763f631ffd350fa4a78242c0e11a3b54151abc16a62c13155"></a>NA_UI_GUARDS_MAX&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a9a1ac167627348793911b3eaa4eaf53f" name="a9d08dd162b413a84763f631ffd350fa4a9a1ac167627348793911b3eaa4eaf53f"></a>NA_UI_GUARDS_LEFT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a1d92d9a19c333accc776ec42292a9d99" name="a9d08dd162b413a84763f631ffd350fa4a1d92d9a19c333accc776ec42292a9d99"></a>NA_UI_TOWER_SLIDER_DISPLAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a7e18ded329932acb1fadaea0aef590f2" name="a9d08dd162b413a84763f631ffd350fa4a7e18ded329932acb1fadaea0aef590f2"></a>NA_UI_TOWER_SLIDER_POS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a692bf9811d4e43b5cb6592603420fbd0" name="a9d08dd162b413a84763f631ffd350fa4a692bf9811d4e43b5cb6592603420fbd0"></a>NA_UI_TOWER_SLIDER_N&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a4681dce2da233ead15dba6679a4d4e47" name="a9d08dd162b413a84763f631ffd350fa4a4681dce2da233ead15dba6679a4d4e47"></a>NA_MAP_WYVERN_NORTH_NEU_H&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a1ab284fdfbbfc708edd83a8d89077a61" name="a9d08dd162b413a84763f631ffd350fa4a1ab284fdfbbfc708edd83a8d89077a61"></a>NA_MAP_WYVERN_NORTH_NEU_A&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a81ff4445d826a3ccc2b9cc3c3cdd9f8c" name="a9d08dd162b413a84763f631ffd350fa4a81ff4445d826a3ccc2b9cc3c3cdd9f8c"></a>NA_MAP_WYVERN_NORTH_H&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4af1a0af9ad4fc7843beb09e7690888001" name="a9d08dd162b413a84763f631ffd350fa4af1a0af9ad4fc7843beb09e7690888001"></a>NA_MAP_WYVERN_NORTH_A&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a0c6989cca039b53419eca78e0e80f2bc" name="a9d08dd162b413a84763f631ffd350fa4a0c6989cca039b53419eca78e0e80f2bc"></a>NA_MAP_WYVERN_SOUTH_NEU_H&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a2f3e15db5f33aa0098e664a4fc87e60a" name="a9d08dd162b413a84763f631ffd350fa4a2f3e15db5f33aa0098e664a4fc87e60a"></a>NA_MAP_WYVERN_SOUTH_NEU_A&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4af7f9e1b3fca047093d3fb6185d0f0e68" name="a9d08dd162b413a84763f631ffd350fa4af7f9e1b3fca047093d3fb6185d0f0e68"></a>NA_MAP_WYVERN_SOUTH_H&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a647b4b194ccecc222b2f641c4922dd15" name="a9d08dd162b413a84763f631ffd350fa4a647b4b194ccecc222b2f641c4922dd15"></a>NA_MAP_WYVERN_SOUTH_A&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4aec85f147209dedfec2dbad91ab82d069" name="a9d08dd162b413a84763f631ffd350fa4aec85f147209dedfec2dbad91ab82d069"></a>NA_MAP_WYVERN_WEST_NEU_H&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a2cd7bee50399d66b488991819345a49f" name="a9d08dd162b413a84763f631ffd350fa4a2cd7bee50399d66b488991819345a49f"></a>NA_MAP_WYVERN_WEST_NEU_A&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a3d338e189e3e1486c9e4ea368074e0bf" name="a9d08dd162b413a84763f631ffd350fa4a3d338e189e3e1486c9e4ea368074e0bf"></a>NA_MAP_WYVERN_WEST_H&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4abcee1ec94244ad1c50af5baae35a68cf" name="a9d08dd162b413a84763f631ffd350fa4abcee1ec94244ad1c50af5baae35a68cf"></a>NA_MAP_WYVERN_WEST_A&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4ad77abb574994240e2aa2e7e23c5e3ac5" name="a9d08dd162b413a84763f631ffd350fa4ad77abb574994240e2aa2e7e23c5e3ac5"></a>NA_MAP_WYVERN_EAST_NEU_H&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4ad4dff8ecf2f435b8fdfb92798a300b89" name="a9d08dd162b413a84763f631ffd350fa4ad4dff8ecf2f435b8fdfb92798a300b89"></a>NA_MAP_WYVERN_EAST_NEU_A&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a5819d09734d5965cde5ff2d0342166e6" name="a9d08dd162b413a84763f631ffd350fa4a5819d09734d5965cde5ff2d0342166e6"></a>NA_MAP_WYVERN_EAST_H&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a7d32a3b4d8eee8fe173cd43385457603" name="a9d08dd162b413a84763f631ffd350fa4a7d32a3b4d8eee8fe173cd43385457603"></a>NA_MAP_WYVERN_EAST_A&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a25f97ed867e096cf488dd3c9e3c26506" name="a9d08dd162b413a84763f631ffd350fa4a25f97ed867e096cf488dd3c9e3c26506"></a>NA_MAP_HALAA_NEUTRAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a077e9ee539e99324b160b42186e8e6e5" name="a9d08dd162b413a84763f631ffd350fa4a077e9ee539e99324b160b42186e8e6e5"></a>NA_MAP_HALAA_NEU_A&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4ae9b05219d2e4f96b937bc4c0e4d62fa1" name="a9d08dd162b413a84763f631ffd350fa4ae9b05219d2e4f96b937bc4c0e4d62fa1"></a>NA_MAP_HALAA_NEU_H&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a14610fd9aae7251bc5652691bc33dcbe" name="a9d08dd162b413a84763f631ffd350fa4a14610fd9aae7251bc5652691bc33dcbe"></a>NA_MAP_HALAA_HORDE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9d08dd162b413a84763f631ffd350fa4a57a31768a82d5e2224ba8ad48f3b4393" name="a9d08dd162b413a84763f631ffd350fa4a57a31768a82d5e2224ba8ad48f3b4393"></a>NA_MAP_HALAA_ALLIANCE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   52</span>{</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a46b1f69332f51942a69d5cd7f67c4060">NA_UI_HORDE_GUARDS_SHOW</a> = 2503,</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a18435bb3a2f55ccca54de96446c11c76">NA_UI_ALLIANCE_GUARDS_SHOW</a> = 2502,</div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a78242c0e11a3b54151abc16a62c13155">NA_UI_GUARDS_MAX</a> = 2493,</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a9a1ac167627348793911b3eaa4eaf53f">NA_UI_GUARDS_LEFT</a> = 2491,</div>
+<div class="line"><span class="lineno">   57</span> </div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a1d92d9a19c333accc776ec42292a9d99">NA_UI_TOWER_SLIDER_DISPLAY</a> = 2495,</div>
+<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a7e18ded329932acb1fadaea0aef590f2">NA_UI_TOWER_SLIDER_POS</a> = 2494,</div>
+<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a692bf9811d4e43b5cb6592603420fbd0">NA_UI_TOWER_SLIDER_N</a> = 2497,</div>
+<div class="line"><span class="lineno">   61</span> </div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a4681dce2da233ead15dba6679a4d4e47">NA_MAP_WYVERN_NORTH_NEU_H</a> = 2762,</div>
+<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a1ab284fdfbbfc708edd83a8d89077a61">NA_MAP_WYVERN_NORTH_NEU_A</a> = 2662,</div>
+<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a81ff4445d826a3ccc2b9cc3c3cdd9f8c">NA_MAP_WYVERN_NORTH_H</a> = 2663,</div>
+<div class="line"><span class="lineno">   65</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4af1a0af9ad4fc7843beb09e7690888001">NA_MAP_WYVERN_NORTH_A</a> = 2664,</div>
+<div class="line"><span class="lineno">   66</span> </div>
+<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a0c6989cca039b53419eca78e0e80f2bc">NA_MAP_WYVERN_SOUTH_NEU_H</a> = 2760,</div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a2f3e15db5f33aa0098e664a4fc87e60a">NA_MAP_WYVERN_SOUTH_NEU_A</a> = 2670,</div>
+<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4af7f9e1b3fca047093d3fb6185d0f0e68">NA_MAP_WYVERN_SOUTH_H</a> = 2668,</div>
+<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a647b4b194ccecc222b2f641c4922dd15">NA_MAP_WYVERN_SOUTH_A</a> = 2669,</div>
+<div class="line"><span class="lineno">   71</span> </div>
+<div class="line"><span class="lineno">   72</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4aec85f147209dedfec2dbad91ab82d069">NA_MAP_WYVERN_WEST_NEU_H</a> = 2761,</div>
+<div class="line"><span class="lineno">   73</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a2cd7bee50399d66b488991819345a49f">NA_MAP_WYVERN_WEST_NEU_A</a> = 2667,</div>
+<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a3d338e189e3e1486c9e4ea368074e0bf">NA_MAP_WYVERN_WEST_H</a> = 2665,</div>
+<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4abcee1ec94244ad1c50af5baae35a68cf">NA_MAP_WYVERN_WEST_A</a> = 2666,</div>
+<div class="line"><span class="lineno">   76</span> </div>
+<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4ad77abb574994240e2aa2e7e23c5e3ac5">NA_MAP_WYVERN_EAST_NEU_H</a> = 2763,</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4ad4dff8ecf2f435b8fdfb92798a300b89">NA_MAP_WYVERN_EAST_NEU_A</a> = 2659,</div>
+<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a5819d09734d5965cde5ff2d0342166e6">NA_MAP_WYVERN_EAST_H</a> = 2660,</div>
+<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a7d32a3b4d8eee8fe173cd43385457603">NA_MAP_WYVERN_EAST_A</a> = 2661,</div>
+<div class="line"><span class="lineno">   81</span> </div>
+<div class="line"><span class="lineno">   82</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a25f97ed867e096cf488dd3c9e3c26506">NA_MAP_HALAA_NEUTRAL</a> = 2671,</div>
+<div class="line"><span class="lineno">   83</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a077e9ee539e99324b160b42186e8e6e5">NA_MAP_HALAA_NEU_A</a> = 2676,</div>
+<div class="line"><span class="lineno">   84</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4ae9b05219d2e4f96b937bc4c0e4d62fa1">NA_MAP_HALAA_NEU_H</a> = 2677,</div>
+<div class="line"><span class="lineno">   85</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a14610fd9aae7251bc5652691bc33dcbe">NA_MAP_HALAA_HORDE</a> = 2672,</div>
+<div class="line"><span class="lineno">   86</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a57a31768a82d5e2224ba8ad48f3b4393">NA_MAP_HALAA_ALLIANCE</a> = 2673</div>
+<div class="line"><span class="lineno">   87</span>};</div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a077e9ee539e99324b160b42186e8e6e5"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a077e9ee539e99324b160b42186e8e6e5">NA_MAP_HALAA_NEU_A</a></div><div class="ttdeci">@ NA_MAP_HALAA_NEU_A</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:83</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a0c6989cca039b53419eca78e0e80f2bc"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a0c6989cca039b53419eca78e0e80f2bc">NA_MAP_WYVERN_SOUTH_NEU_H</a></div><div class="ttdeci">@ NA_MAP_WYVERN_SOUTH_NEU_H</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:67</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a14610fd9aae7251bc5652691bc33dcbe"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a14610fd9aae7251bc5652691bc33dcbe">NA_MAP_HALAA_HORDE</a></div><div class="ttdeci">@ NA_MAP_HALAA_HORDE</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:85</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a18435bb3a2f55ccca54de96446c11c76"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a18435bb3a2f55ccca54de96446c11c76">NA_UI_ALLIANCE_GUARDS_SHOW</a></div><div class="ttdeci">@ NA_UI_ALLIANCE_GUARDS_SHOW</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:54</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a1ab284fdfbbfc708edd83a8d89077a61"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a1ab284fdfbbfc708edd83a8d89077a61">NA_MAP_WYVERN_NORTH_NEU_A</a></div><div class="ttdeci">@ NA_MAP_WYVERN_NORTH_NEU_A</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:63</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a1d92d9a19c333accc776ec42292a9d99"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a1d92d9a19c333accc776ec42292a9d99">NA_UI_TOWER_SLIDER_DISPLAY</a></div><div class="ttdeci">@ NA_UI_TOWER_SLIDER_DISPLAY</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:58</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a25f97ed867e096cf488dd3c9e3c26506"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a25f97ed867e096cf488dd3c9e3c26506">NA_MAP_HALAA_NEUTRAL</a></div><div class="ttdeci">@ NA_MAP_HALAA_NEUTRAL</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:82</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a2cd7bee50399d66b488991819345a49f"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a2cd7bee50399d66b488991819345a49f">NA_MAP_WYVERN_WEST_NEU_A</a></div><div class="ttdeci">@ NA_MAP_WYVERN_WEST_NEU_A</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:73</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a2f3e15db5f33aa0098e664a4fc87e60a"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a2f3e15db5f33aa0098e664a4fc87e60a">NA_MAP_WYVERN_SOUTH_NEU_A</a></div><div class="ttdeci">@ NA_MAP_WYVERN_SOUTH_NEU_A</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:68</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a3d338e189e3e1486c9e4ea368074e0bf"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a3d338e189e3e1486c9e4ea368074e0bf">NA_MAP_WYVERN_WEST_H</a></div><div class="ttdeci">@ NA_MAP_WYVERN_WEST_H</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:74</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a4681dce2da233ead15dba6679a4d4e47"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a4681dce2da233ead15dba6679a4d4e47">NA_MAP_WYVERN_NORTH_NEU_H</a></div><div class="ttdeci">@ NA_MAP_WYVERN_NORTH_NEU_H</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:62</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a46b1f69332f51942a69d5cd7f67c4060"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a46b1f69332f51942a69d5cd7f67c4060">NA_UI_HORDE_GUARDS_SHOW</a></div><div class="ttdeci">@ NA_UI_HORDE_GUARDS_SHOW</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:53</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a57a31768a82d5e2224ba8ad48f3b4393"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a57a31768a82d5e2224ba8ad48f3b4393">NA_MAP_HALAA_ALLIANCE</a></div><div class="ttdeci">@ NA_MAP_HALAA_ALLIANCE</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:86</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a5819d09734d5965cde5ff2d0342166e6"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a5819d09734d5965cde5ff2d0342166e6">NA_MAP_WYVERN_EAST_H</a></div><div class="ttdeci">@ NA_MAP_WYVERN_EAST_H</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:79</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a647b4b194ccecc222b2f641c4922dd15"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a647b4b194ccecc222b2f641c4922dd15">NA_MAP_WYVERN_SOUTH_A</a></div><div class="ttdeci">@ NA_MAP_WYVERN_SOUTH_A</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:70</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a692bf9811d4e43b5cb6592603420fbd0"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a692bf9811d4e43b5cb6592603420fbd0">NA_UI_TOWER_SLIDER_N</a></div><div class="ttdeci">@ NA_UI_TOWER_SLIDER_N</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:60</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a78242c0e11a3b54151abc16a62c13155"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a78242c0e11a3b54151abc16a62c13155">NA_UI_GUARDS_MAX</a></div><div class="ttdeci">@ NA_UI_GUARDS_MAX</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:55</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a7d32a3b4d8eee8fe173cd43385457603"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a7d32a3b4d8eee8fe173cd43385457603">NA_MAP_WYVERN_EAST_A</a></div><div class="ttdeci">@ NA_MAP_WYVERN_EAST_A</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:80</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a7e18ded329932acb1fadaea0aef590f2"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a7e18ded329932acb1fadaea0aef590f2">NA_UI_TOWER_SLIDER_POS</a></div><div class="ttdeci">@ NA_UI_TOWER_SLIDER_POS</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:59</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a81ff4445d826a3ccc2b9cc3c3cdd9f8c"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a81ff4445d826a3ccc2b9cc3c3cdd9f8c">NA_MAP_WYVERN_NORTH_H</a></div><div class="ttdeci">@ NA_MAP_WYVERN_NORTH_H</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:64</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4a9a1ac167627348793911b3eaa4eaf53f"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4a9a1ac167627348793911b3eaa4eaf53f">NA_UI_GUARDS_LEFT</a></div><div class="ttdeci">@ NA_UI_GUARDS_LEFT</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:56</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4abcee1ec94244ad1c50af5baae35a68cf"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4abcee1ec94244ad1c50af5baae35a68cf">NA_MAP_WYVERN_WEST_A</a></div><div class="ttdeci">@ NA_MAP_WYVERN_WEST_A</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:75</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4ad4dff8ecf2f435b8fdfb92798a300b89"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4ad4dff8ecf2f435b8fdfb92798a300b89">NA_MAP_WYVERN_EAST_NEU_A</a></div><div class="ttdeci">@ NA_MAP_WYVERN_EAST_NEU_A</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:78</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4ad77abb574994240e2aa2e7e23c5e3ac5"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4ad77abb574994240e2aa2e7e23c5e3ac5">NA_MAP_WYVERN_EAST_NEU_H</a></div><div class="ttdeci">@ NA_MAP_WYVERN_EAST_NEU_H</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:77</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4ae9b05219d2e4f96b937bc4c0e4d62fa1"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4ae9b05219d2e4f96b937bc4c0e4d62fa1">NA_MAP_HALAA_NEU_H</a></div><div class="ttdeci">@ NA_MAP_HALAA_NEU_H</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:84</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4aec85f147209dedfec2dbad91ab82d069"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4aec85f147209dedfec2dbad91ab82d069">NA_MAP_WYVERN_WEST_NEU_H</a></div><div class="ttdeci">@ NA_MAP_WYVERN_WEST_NEU_H</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:72</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4af1a0af9ad4fc7843beb09e7690888001"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4af1a0af9ad4fc7843beb09e7690888001">NA_MAP_WYVERN_NORTH_A</a></div><div class="ttdeci">@ NA_MAP_WYVERN_NORTH_A</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:65</div></div>
+<div class="ttc" id="aa01943_html_a9d08dd162b413a84763f631ffd350fa4af7f9e1b3fca047093d3fb6185d0f0e68"><div class="ttname"><a href="../../df/dd8/a01943.html#a9d08dd162b413a84763f631ffd350fa4af7f9e1b3fca047093d3fb6185d0f0e68">NA_MAP_WYVERN_SOUTH_H</a></div><div class="ttdeci">@ NA_MAP_WYVERN_SOUTH_H</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:69</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a408ccf9c409baffb9c6d03f2edde557c" name="a408ccf9c409baffb9c6d03f2edde557c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a408ccf9c409baffb9c6d03f2edde557c">&#9670;&#160;</a></span>WyvernStates</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../df/dd8/a01943.html#a408ccf9c409baffb9c6d03f2edde557c">WyvernStates</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5" name="a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5"></a>WYVERN_NEU_HORDE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200" name="a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200"></a>WYVERN_NEU_ALLIANCE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578" name="a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578"></a>WYVERN_HORDE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e" name="a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e"></a>WYVERN_ALLIANCE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  199</span>{</div>
+<div class="line"><span class="lineno">  200</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5">WYVERN_NEU_HORDE</a> = 1,</div>
+<div class="line"><span class="lineno">  201</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200">WYVERN_NEU_ALLIANCE</a> = 2,</div>
+<div class="line"><span class="lineno">  202</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578">WYVERN_HORDE</a> = 4,</div>
+<div class="line"><span class="lineno">  203</span>    <a class="code hl_enumvalue" href="../../df/dd8/a01943.html#a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e">WYVERN_ALLIANCE</a> = 8</div>
+<div class="line"><span class="lineno">  204</span>};</div>
+<div class="ttc" id="aa01943_html_a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5"><div class="ttname"><a href="../../df/dd8/a01943.html#a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5">WYVERN_NEU_HORDE</a></div><div class="ttdeci">@ WYVERN_NEU_HORDE</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:200</div></div>
+<div class="ttc" id="aa01943_html_a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200"><div class="ttname"><a href="../../df/dd8/a01943.html#a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200">WYVERN_NEU_ALLIANCE</a></div><div class="ttdeci">@ WYVERN_NEU_ALLIANCE</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:201</div></div>
+<div class="ttc" id="aa01943_html_a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e"><div class="ttname"><a href="../../df/dd8/a01943.html#a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e">WYVERN_ALLIANCE</a></div><div class="ttdeci">@ WYVERN_ALLIANCE</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:203</div></div>
+<div class="ttc" id="aa01943_html_a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578"><div class="ttname"><a href="../../df/dd8/a01943.html#a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578">WYVERN_HORDE</a></div><div class="ttdeci">@ WYVERN_HORDE</div><div class="ttdef"><b>Definition:</b> OutdoorPvPNA.h:202</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a6da5d6b9a0ecd5b15ced61c27d1c8aa4" name="a6da5d6b9a0ecd5b15ced61c27d1c8aa4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6da5d6b9a0ecd5b15ced61c27d1c8aa4">&#9670;&#160;</a></span>AllianceControlGOs</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../de/d67/a10034.html">go_type</a> AllianceControlGOs[<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7">NA_CONTROL_GO_NUM</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    {182301, 530, -1815.8f, 8036.51f, -26.2354f, -2.89725f, 0.0f, 0.0f, 0.992546f, -0.121869f}, </div>
+<div class="line">    {182302, 530, -1507.95f, 8132.1f, -19.5585f, -1.3439f, 0.0f, 0.0f, 0.622515f, -0.782608f}, </div>
+<div class="line">    {182303, 530, -1384.52f, 7779.33f, -11.1663f, -0.575959f, 0.0f, 0.0f, 0.284015f, -0.95882f}, </div>
+<div class="line">    {182304, 530, -1650.11f, 7732.56f, -15.4505f, -2.80998f, 0.0f, 0.0f, 0.986286f, -0.165048f}, </div>
+<div class="line"> </div>
+<div class="line">    {182305, 530, -1825.4022f, 8039.2602f, -26.08f, -2.89725f, 0.0f, 0.0f, 0.992546f, -0.121869f}, </div>
+<div class="line">    {182306, 530, -1517.44f, 8140.24f, -20.17f, -2.8099f, 0.0f, 0.0f, 0.622515f, -0.782608f}, </div>
+<div class="line">    {182307, 530, -1389.53f, 7782.50f, -11.62f, -1.5184f, 0.0f, 0.0f, 0.284015f, -0.95882f}, </div>
+<div class="line">    {182308, 530, -1662.28f, 7735.00f, -15.96f, 1.8845f, 0.0f, 0.0f, 0.986286f, -0.165048f}, </div>
+<div class="line"> </div>
+<div class="line">    {182297, 530, -1815.8f, 8036.51f, -26.2354f, -2.89725f, 0.0f, 0.0f, 0.992546f, -0.121869f}, </div>
+<div class="line">    {182298, 530, -1507.95f, 8132.1f, -19.5585f, -1.3439f, 0.0f, 0.0f, 0.622515f, -0.782608f}, </div>
+<div class="line">    {182299, 530, -1384.52f, 7779.33f, -11.1663f, -0.575959f, 0.0f, 0.0f, 0.284015f, -0.95882f}, </div>
+<div class="line">    {182300, 530, -1650.11f, 7732.56f, -15.4505f, -2.80998f, 0.0f, 0.0f, 0.986286f, -0.165048f}  </div>
+<div class="line">}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00473">OPvPCapturePointNA::HandleOpenGo()</a>, and <a class="el" href="../../#l00160">OPvPCapturePointNA::SpawnGOsForTeam()</a>.</p>
+
+</div>
+</div>
+<a id="a767a89853ad9fbcea5e94bae963b3168" name="a767a89853ad9fbcea5e94bae963b3168"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a767a89853ad9fbcea5e94bae963b3168">&#9670;&#160;</a></span>FLIGHT_NODES_NUM</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> FLIGHT_NODES_NUM = 4</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa4cf9c47955c274ca0bdce61e98a3a5a" name="aa4cf9c47955c274ca0bdce61e98a3a5a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4cf9c47955c274ca0bdce61e98a3a5a">&#9670;&#160;</a></span>FlightPathEndNodes</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> FlightPathEndNodes[<a class="el" href="../../df/dd8/a01943.html#a767a89853ad9fbcea5e94bae963b3168">FLIGHT_NODES_NUM</a>] = {104, 106, 108, 110}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00403">OPvPCapturePointNA::HandleCustomSpell()</a>.</p>
+
+</div>
+</div>
+<a id="ac9bda252b1c34c9a478d3251069384b8" name="ac9bda252b1c34c9a478d3251069384b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac9bda252b1c34c9a478d3251069384b8">&#9670;&#160;</a></span>FlightPathStartNodes</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> FlightPathStartNodes[<a class="el" href="../../df/dd8/a01943.html#a767a89853ad9fbcea5e94bae963b3168">FLIGHT_NODES_NUM</a>] = {103, 105, 107, 109}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00403">OPvPCapturePointNA::HandleCustomSpell()</a>.</p>
+
+</div>
+</div>
+<a id="a2ca90cdca32c0c9a0fef5ece362bb3e6" name="a2ca90cdca32c0c9a0fef5ece362bb3e6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ca90cdca32c0c9a0fef5ece362bb3e6">&#9670;&#160;</a></span>HordeControlGOs</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../de/d67/a10034.html">go_type</a> HordeControlGOs[<a class="el" href="../../df/dd8/a01943.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7">NA_CONTROL_GO_NUM</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    {182267, 530, -1815.8f, 8036.51f, -26.2354f, -2.89725f, 0.0f, 0.0f, 0.992546f, -0.121869f}, </div>
+<div class="line">    {182280, 530, -1507.95f, 8132.1f, -19.5585f, -1.3439f, 0.0f, 0.0f, 0.622515f, -0.782608f}, </div>
+<div class="line">    {182281, 530, -1384.52f, 7779.33f, -11.1663f, -0.575959f, 0.0f, 0.0f, 0.284015f, -0.95882f}, </div>
+<div class="line">    {182282, 530, -1650.11f, 7732.56f, -15.4505f, -2.80998f, 0.0f, 0.0f, 0.986286f, -0.165048f}, </div>
+<div class="line"> </div>
+<div class="line">    {182222, 530, -1825.4022f, 8039.2602f, -26.08f, -2.89725f, 0.0f, 0.0f, 0.992546f, -0.121869f}, </div>
+<div class="line">    {182272, 530, -1517.44f, 8140.24f, -20.17f, -2.8099f, 0.0f, 0.0f, 0.622515f, -0.782608f}, </div>
+<div class="line">    {182273, 530, -1389.53f, 7782.50f, -11.62f, -1.5184f, 0.0f, 0.0f, 0.284015f, -0.95882f}, </div>
+<div class="line">    {182274, 530, -1662.28f, 7735.00f, -15.96f, 1.8845f, 0.0f, 0.0f, 0.986286f, -0.165048f}, </div>
+<div class="line"> </div>
+<div class="line">    {182266, 530, -1815.8f, 8036.51f, -26.2354f, -2.89725f, 0.0f, 0.0f, 0.992546f, -0.121869f}, </div>
+<div class="line">    {182275, 530, -1507.95f, 8132.1f, -19.5585f, -1.3439f, 0.0f, 0.0f, 0.622515f, -0.782608f}, </div>
+<div class="line">    {182276, 530, -1384.52f, 7779.33f, -11.1663f, -0.575959f, 0.0f, 0.0f, 0.284015f, -0.95882f}, </div>
+<div class="line">    {182277, 530, -1650.11f, 7732.56f, -15.4505f, -2.80998f, 0.0f, 0.0f, 0.986286f, -0.165048f}  </div>
+<div class="line">}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00473">OPvPCapturePointNA::HandleOpenGo()</a>, and <a class="el" href="../../#l00160">OPvPCapturePointNA::SpawnGOsForTeam()</a>.</p>
+
+</div>
+</div>
+<a id="ae9287f13e383331fe53c5a514989ca99" name="ae9287f13e383331fe53c5a514989ca99"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae9287f13e383331fe53c5a514989ca99">&#9670;&#160;</a></span>NA_BUFF_ZONE</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> NA_BUFF_ZONE = 3518</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00268">OutdoorPvPNA::SetupOutdoorPvP()</a>.</p>
+
+</div>
+</div>
+<a id="a8c04516b1462a78d64563849fe3136a1" name="a8c04516b1462a78d64563849fe3136a1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8c04516b1462a78d64563849fe3136a1">&#9670;&#160;</a></span>NA_CREDIT_MARKER</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> NA_CREDIT_MARKER = 24867</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00076">OutdoorPvPNA::HandleKillImpl()</a>.</p>
+
+</div>
+</div>
+<a id="a0f69597d7fce786cae5202cb06be06cf" name="a0f69597d7fce786cae5202cb06be06cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f69597d7fce786cae5202cb06be06cf">&#9670;&#160;</a></span>NA_GUARD_CHECK_TIME</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> NA_GUARD_CHECK_TIME = 500</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00603">OPvPCapturePointNA::Update()</a>.</p>
+
+</div>
+</div>
+<a id="a3fba4585a3d42e96191aa62b6938472f" name="a3fba4585a3d42e96191aa62b6938472f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3fba4585a3d42e96191aa62b6938472f">&#9670;&#160;</a></span>NA_GUARDS_MAX</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> NA_GUARDS_MAX = 15</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00192">OPvPCapturePointNA::FactionTakeOver()</a>, and <a class="el" href="../../#l00308">OPvPCapturePointNA::FillInitialWorldStates()</a>.</p>
+
+</div>
+</div>
+<a id="a793a1d2d8d6683df19de9b728d2af1de" name="a793a1d2d8d6683df19de9b728d2af1de"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a793a1d2d8d6683df19de9b728d2af1de">&#9670;&#160;</a></span>NA_HALAA_BOMB</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> NA_HALAA_BOMB = 24538</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00403">OPvPCapturePointNA::HandleCustomSpell()</a>.</p>
+
+</div>
+</div>
+<a id="a23eddcc072a261674acb3acb48f637cb" name="a23eddcc072a261674acb3acb48f637cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a23eddcc072a261674acb3acb48f637cb">&#9670;&#160;</a></span>NA_HALAA_GRAVEYARD</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> NA_HALAA_GRAVEYARD = 993</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00192">OPvPCapturePointNA::FactionTakeOver()</a>, and <a class="el" href="../../#l00268">OutdoorPvPNA::SetupOutdoorPvP()</a>.</p>
+
+</div>
+</div>
+<a id="a74f493038b14c5e7e5a00c661339278e" name="a74f493038b14c5e7e5a00c661339278e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a74f493038b14c5e7e5a00c661339278e">&#9670;&#160;</a></span>NA_HALAA_GRAVEYARD_ZONE</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> NA_HALAA_GRAVEYARD_ZONE = 3518</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00192">OPvPCapturePointNA::FactionTakeOver()</a>, <a class="el" href="../../#l00268">OutdoorPvPNA::SetupOutdoorPvP()</a>, and <a class="el" href="../../#l00603">OPvPCapturePointNA::Update()</a>.</p>
+
+</div>
+</div>
+<a id="adca7c435af0a29cf2e0ed3525ec6a7df" name="adca7c435af0a29cf2e0ed3525ec6a7df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adca7c435af0a29cf2e0ed3525ec6a7df">&#9670;&#160;</a></span>NA_HALAA_ZONE_ID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const NA_HALAA_ZONE_ID = 3628</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00043">OutdoorPvPNA::HandleKill()</a>.</p>
+
+</div>
+</div>
+<a id="a6fd5686dd6cf4251b3b33513928f44bd" name="a6fd5686dd6cf4251b3b33513928f44bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6fd5686dd6cf4251b3b33513928f44bd">&#9670;&#160;</a></span>NA_RESPAWN_TIME</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> NA_RESPAWN_TIME = 3600000</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00603">OPvPCapturePointNA::Update()</a>.</p>
+
+</div>
+</div>
+<a id="aac17891901d073bcbdc4b9b919bb8f43" name="aac17891901d073bcbdc4b9b919bb8f43"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aac17891901d073bcbdc4b9b919bb8f43">&#9670;&#160;</a></span>PatrolCreatureEntry</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../dd/dac/a22362.html">HalaaIds</a> PatrolCreatureEntry[<a class="el" href="../../df/dd8/a01943.html#a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910">NA_HALAA_CREATURES</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    </div>
+<div class="line">    {18192},</div>
+<div class="line">    {18816},</div>
+<div class="line">    {18821},</div>
+<div class="line">    {21474},</div>
+<div class="line">    {21484},</div>
+<div class="line">    {21483},</div>
+<div class="line">    </div>
+<div class="line">    {18256},</div>
+<div class="line">    {18817},</div>
+<div class="line">    {18822},</div>
+<div class="line">    {21485},</div>
+<div class="line">    {21487},</div>
+<div class="line">    {21488}</div>
+<div class="line">}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00896">outdoorpvp_na_halaa_creatures::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -552,8 +965,8 @@ template&lt;&gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_444e7ca7970920cb061ebbb02397ba46.html">Grids</a></li><li class="navelem"><a class="el" href="../../df/dd8/a01943.html">ObjectGridLoader.cpp</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:43:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ad9d2bd1e1e418dea010d25c4d4f5d3.html">OutdoorPvP</a></li><li class="navelem"><a class="el" href="../../df/dd8/a01943.html">OutdoorPvPNA.h</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:41:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

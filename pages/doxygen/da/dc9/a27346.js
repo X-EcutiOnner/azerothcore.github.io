@@ -1,6 +1,7 @@
 var a27346 =
 [
-    [ "npc_fireworkAI", "d4/d7c/a27350.html", "d4/d7c/a27350" ],
-    [ "npc_firework", "da/dc9/a27346.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "da/dc9/a27346.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "npc_riggle_bassbaitAI", "da/dc9/a27346.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "da/dc9/a27346.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "da/dc9/a27346.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "da/dc9/a27346.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

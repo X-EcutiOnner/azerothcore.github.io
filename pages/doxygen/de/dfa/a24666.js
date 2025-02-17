@@ -1,6 +1,6 @@
 var a24666 =
 [
-    [ "ModDest", "de/dfa/a24666.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "de/dfa/a24666.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "de/dfa/a24666.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "PrepareSpellScript", "de/dfa/a24666.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
+    [ "RecalculateDamage", "de/dfa/a24666.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
+    [ "Register", "de/dfa/a24666.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
 ];

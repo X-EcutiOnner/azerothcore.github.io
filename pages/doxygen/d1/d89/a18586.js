@@ -1,6 +1,7 @@
 var a18586 =
 [
-    [ "icecrown_citadel_teleport", "d1/d89/a18586.html#ab74d5962073dcf3b4488c33aaa935377", null ],
-    [ "OnGossipHello", "d1/d89/a18586.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
-    [ "OnGossipSelect", "d1/d89/a18586.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
+    [ "HandleEffectPeriodic", "d1/d89/a18586.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "d1/d89/a18586.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "d1/d89/a18586.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "d1/d89/a18586.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

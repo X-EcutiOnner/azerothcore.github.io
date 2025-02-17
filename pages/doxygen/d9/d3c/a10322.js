@@ -1,7 +1,10 @@
 var a10322 =
 [
-    [ "Emote", "d9/d3c/a10322.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
-    [ "Write", "d9/d3c/a10322.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
-    [ "EmoteID", "d9/d3c/a10322.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
-    [ "Guid", "d9/d3c/a10322.html#ab96a1c0933e90872f54eb0995098274a", null ]
+    [ "VehicleScript", "d9/d3c/a10322.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "OnAddPassenger", "d9/d3c/a10322.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "d9/d3c/a10322.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "d9/d3c/a10322.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "d9/d3c/a10322.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "d9/d3c/a10322.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "d9/d3c/a10322.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

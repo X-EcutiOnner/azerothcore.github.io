@@ -1,6 +1,8 @@
 var a18346 =
 [
-    [ "npc_captain_brandonAI", "dc/dcc/a18350.html", "dc/dcc/a18350" ],
-    [ "npc_captain_brandon", "d7/d9f/a18346.html#ad522dd280882d894b5d32e7c888f2360", null ],
-    [ "GetAI", "d7/d9f/a18346.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
+    [ "npc_suppresserAI", "d7/d9f/a18346.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "d7/d9f/a18346.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "d7/d9f/a18346.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "d7/d9f/a18346.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "d7/d9f/a18346.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

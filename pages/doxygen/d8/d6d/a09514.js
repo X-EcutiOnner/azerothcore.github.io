@@ -1,10 +1,19 @@
 var a09514 =
 [
-    [ "MailReceiver", "d8/d6d/a09514.html#a6fba3ff0ab3167197f569631d766ce14", null ],
-    [ "MailReceiver", "d8/d6d/a09514.html#af0b094a704463ed76b1c08bc3cab0380", null ],
-    [ "MailReceiver", "d8/d6d/a09514.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
-    [ "GetPlayer", "d8/d6d/a09514.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
-    [ "GetPlayerGUIDLow", "d8/d6d/a09514.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
-    [ "m_receiver", "d8/d6d/a09514.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
-    [ "m_receiver_lowguid", "d8/d6d/a09514.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
+    [ "GuildContainer", "d8/d6d/a09514.html#aa9afb05ecb2eb6ee427503a4ea76f7ca", null ],
+    [ "GuildMgr", "d8/d6d/a09514.html#a0d4a44461eb4c54ddb6646dfd1c11a68", null ],
+    [ "~GuildMgr", "d8/d6d/a09514.html#ae90afb785961e122afc419a61dfb20c1", null ],
+    [ "AddGuild", "d8/d6d/a09514.html#a5b63dae4f2252c452c797b83477d2280", null ],
+    [ "GenerateGuildId", "d8/d6d/a09514.html#a8ad7c4fc3e292e6cecd4964ad22cd135", null ],
+    [ "GetGuildById", "d8/d6d/a09514.html#a04f4586ea6461c6f7165efba2bf666a1", null ],
+    [ "GetGuildByLeader", "d8/d6d/a09514.html#a5198534a243b70104ce17a7871fcfb27", null ],
+    [ "GetGuildByName", "d8/d6d/a09514.html#af9ff736e84a18d8dfce3826c9459df37", null ],
+    [ "GetGuildNameById", "d8/d6d/a09514.html#ad32af675831da389755da5f3e4e47361", null ],
+    [ "instance", "d8/d6d/a09514.html#aef69fd59528ec594c76ae390a4ba05bd", null ],
+    [ "LoadGuilds", "d8/d6d/a09514.html#ac1eb56686e276e11838e9150696b5045", null ],
+    [ "RemoveGuild", "d8/d6d/a09514.html#a51728f1c2780cdb105cb35947739cbd7", null ],
+    [ "ResetTimes", "d8/d6d/a09514.html#ad2670ee42ff5252a879ccc5cbb730833", null ],
+    [ "SetNextGuildId", "d8/d6d/a09514.html#ae1ae88575b7fcb37d4ee1d76f79c0c45", null ],
+    [ "GuildStore", "d8/d6d/a09514.html#a174158d11bf6102462a094ff4a8fa402", null ],
+    [ "NextGuildId", "d8/d6d/a09514.html#a75e150f66ebccfc05824a4f7b66a9210", null ]
 ];

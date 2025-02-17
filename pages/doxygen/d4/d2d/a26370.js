@@ -1,9 +1,8 @@
 var a26370 =
 [
-    [ "HandleHeal", "d4/d2d/a26370.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "d4/d2d/a26370.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "d4/d2d/a26370.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "d4/d2d/a26370.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "d4/d2d/a26370.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "d4/d2d/a26370.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "CheckCast", "d4/d2d/a26370.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
+    [ "CheckQuest", "d4/d2d/a26370.html#abc927d932c1d5e05eab1918364d68ed5", null ],
+    [ "HandleActiveObject", "d4/d2d/a26370.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
+    [ "PrepareSpellScript", "d4/d2d/a26370.html#a96e69476965cc2466213a5371a57093a", null ],
+    [ "Register", "d4/d2d/a26370.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
 ];

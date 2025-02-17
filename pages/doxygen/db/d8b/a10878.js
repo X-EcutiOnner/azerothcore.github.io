@@ -1,12 +1,12 @@
 var a10878 =
 [
-    [ "UnitAura", "db/d8b/a10878.html#ada4033955271dfb21d16a95b316087f5", null ],
-    [ "_ApplyForTarget", "db/d8b/a10878.html#a920549cf55c8def37149b00ae971127d", null ],
-    [ "_UnapplyForTarget", "db/d8b/a10878.html#af4d453cee6758e633bdcae0049581898", null ],
-    [ "FillTargetMap", "db/d8b/a10878.html#add5ce04446338e078c5986420abfd16e", null ],
-    [ "GetDiminishGroup", "db/d8b/a10878.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
-    [ "Remove", "db/d8b/a10878.html#a28f714404942bb5c614ac844cf937546", null ],
-    [ "SetDiminishGroup", "db/d8b/a10878.html#a6d858a153c5d3046574f3387ab852050", null ],
-    [ "Aura::Create", "db/d8b/a10878.html#ae2c0fdfb409846fec5e861de60797112", null ],
-    [ "m_AuraDRGroup", "db/d8b/a10878.html#a4b413c5e62eee76875a22345059e6124", null ]
+    [ "Build", "db/d8b/a10878.html#aa5ed2806342a36723f1317105ebc13fa", null ],
+    [ "FormatVersion", "db/d8b/a10878.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
+    [ "Locale", "db/d8b/a10878.html#acdcbe4c10ad6143b756638349c185ae5", null ],
+    [ "OptionalDataSize", "db/d8b/a10878.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
+    [ "SessionKey", "db/d8b/a10878.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
+    [ "Signature", "db/d8b/a10878.html#a34b88d6d83daeee7827176993c152de4", null ],
+    [ "SnifferId", "db/d8b/a10878.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
+    [ "SniffStartTicks", "db/d8b/a10878.html#a1884076ea4fe5af08964471d0058fd4d", null ],
+    [ "SniffStartUnixtime", "db/d8b/a10878.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
 ];

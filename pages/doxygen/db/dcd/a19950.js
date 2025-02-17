@@ -1,10 +1,6 @@
 var a19950 =
 [
-    [ "HandleEffectPeriodic", "db/dcd/a19950.html#aa62be73e00d9cb512806787eaf1c4144", null ],
-    [ "Load", "db/dcd/a19950.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
-    [ "PrepareAuraScript", "db/dcd/a19950.html#ad9664bff267b330565d3c706e1752e9d", null ],
-    [ "Register", "db/dcd/a19950.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
-    [ "Validate", "db/dcd/a19950.html#a3f6653b4ca202d9b0971189930e8b463", null ],
-    [ "_counter", "db/dcd/a19950.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
-    [ "_prev", "db/dcd/a19950.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "d7/d45/a19954.html", "d7/d45/a19954" ],
+    [ "npc_ulduar_saronite_vapors", "db/dcd/a19950.html#a567c3aca8c381167ca278c2c3562e6f6", null ],
+    [ "GetAI", "db/dcd/a19950.html#a3c2e7b6263f8935da9291c736b14d139", null ]
 ];

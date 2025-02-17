@@ -1,6 +1,6 @@
 var a12798 =
 [
-    [ "npc_valkyr_battle_maidenAI", "d1/ded/a12802.html", "d1/ded/a12802" ],
-    [ "npc_valkyr_battle_maiden", "d6/d66/a12798.html#a4316dd483b262e637ea39ba9e972744b", null ],
-    [ "GetAI", "d6/d66/a12798.html#ab067ea6f5f92039d471708039089e79c", null ]
+    [ "npc_scarlet_cannonAI", "d1/ded/a12802.html", "d1/ded/a12802" ],
+    [ "npc_scarlet_cannon", "d6/d66/a12798.html#a10bb35cbbdae3508a2300ba3dacc1ea3", null ],
+    [ "GetAI", "d6/d66/a12798.html#ae2b74a4dab4b34f026fd17d5ed381c99", null ]
 ];

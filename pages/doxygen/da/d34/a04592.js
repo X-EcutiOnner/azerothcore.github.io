@@ -1,4 +1,5 @@
 var a04592 =
 [
-    [ "DEBUG_WRITE", "da/d34/a04592.html#a4ebf72895c1d62f0bc7d45804db4bc91", null ]
+    [ "ACORE_LINKAGE_TYPE_STR", "da/d34/a04592.html#a498cc8d79612cf645e7afc2ceb4174f3", null ],
+    [ "AZEROTH_PLATFORM_STR", "da/d34/a04592.html#af7cd76a18bc19a0ec34ac7693e406971", null ]
 ];

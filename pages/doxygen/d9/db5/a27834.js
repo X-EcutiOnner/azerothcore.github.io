@@ -1,6 +1,11 @@
 var a27834 =
 [
-    [ "color", "d9/db5/a27834.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "d9/db5/a27834.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "d9/db5/a27834.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "icon", "d9/db5/a27834.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
+    [ "id", "d9/db5/a27834.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
+    [ "mapId", "d9/db5/a27834.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
+    [ "worldState", "d9/db5/a27834.html#a9d745d26316726c861cc5a242f6a4f57", null ],
+    [ "x", "d9/db5/a27834.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
+    [ "y", "d9/db5/a27834.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
+    [ "z", "d9/db5/a27834.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
+    [ "zoneId", "d9/db5/a27834.html#a0cc33089981237694ca550cba6793a3e", null ]
 ];

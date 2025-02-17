@@ -1,6 +1,8 @@
 var a26598 =
 [
-    [ "HandleOnHit", "d8/def/a26598.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
-    [ "PrepareSpellScript", "d8/def/a26598.html#a999b019665dec9b0690a1019be428072", null ],
-    [ "Register", "d8/def/a26598.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
+    [ "CalcPeriodic", "d8/def/a26598.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
+    [ "CalculateAmount", "d8/def/a26598.html#a525009acb345d6b0a9857c30cfce2230", null ],
+    [ "HandlePeriodic", "d8/def/a26598.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
+    [ "PrepareAuraScript", "d8/def/a26598.html#a5627212e48a3044a9a7480851787a839", null ],
+    [ "Register", "d8/def/a26598.html#a09ea5265d7105a4bd487d383948901a0", null ]
 ];

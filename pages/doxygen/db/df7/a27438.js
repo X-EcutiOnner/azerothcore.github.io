@@ -1,12 +1,8 @@
 var a27438 =
 [
-    [ "categoryId", "db/df7/a27438.html#a1de0e4302757f18c08b90b40e059737b", null ],
-    [ "count", "db/df7/a27438.html#a93aac150067979467f56d9919ff665a4", null ],
-    [ "flags", "db/df7/a27438.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
-    [ "ID", "db/df7/a27438.html#a843fee247948d02f7aaf04144cb37ef5", null ],
-    [ "mapID", "db/df7/a27438.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
-    [ "name", "db/df7/a27438.html#a806cfeddc475994f1b421679bd9699e6", null ],
-    [ "points", "db/df7/a27438.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
-    [ "refAchievement", "db/df7/a27438.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
-    [ "requiredFaction", "db/df7/a27438.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
+    [ "npc_wormholeAI", "df/d78/a27442.html", "df/d78/a27442" ],
+    [ "npc_wormhole", "db/df7/a27438.html#aeace4cbf665409786b86140709191cb0", null ],
+    [ "GetAI", "db/df7/a27438.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
+    [ "OnGossipHello", "db/df7/a27438.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
+    [ "OnGossipSelect", "db/df7/a27438.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
 ];

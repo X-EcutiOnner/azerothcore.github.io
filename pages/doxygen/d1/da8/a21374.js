@@ -1,8 +1,9 @@
 var a21374 =
 [
-    [ "npc_shandy_dalaranAI", "d2/d3b/a21378.html", "d2/d3b/a21378" ],
-    [ "npc_shandy_dalaran", "d1/da8/a21374.html#a7077c769a252af8ba37b5ff5d524463e", null ],
-    [ "GetAI", "d1/da8/a21374.html#a641551a2aef739e1679912ae27ddb888", null ],
-    [ "OnGossipHello", "d1/da8/a21374.html#a91287aaba09fce091c9d826e75208f84", null ],
-    [ "OnGossipSelect", "d1/da8/a21374.html#ad005a17da187e0cfd03d2faf0099c448", null ]
+    [ "npc_captured_beryl_sorcererAI", "d1/da8/a21374.html#a3c3f47022aee418f228803a2504470a3", null ],
+    [ "Initialize", "d1/da8/a21374.html#a98b2ff2f0e152a41106eaace5273aa69", null ],
+    [ "MoveInLineOfSight", "d1/da8/a21374.html#a4f7edf7bc7480bf0c9f6aec113b2e058", null ],
+    [ "Reset", "d1/da8/a21374.html#ac96af1fd018e88950d1c58562dffdb83", null ],
+    [ "UpdateAI", "d1/da8/a21374.html#a1bbefa59abce0c7b3d7b343ddc467c98", null ],
+    [ "_events", "d1/da8/a21374.html#a0ba1f7ffa792c93ccd4df8ec2c80fb42", null ]
 ];

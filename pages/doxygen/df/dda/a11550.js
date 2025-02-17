@@ -1,11 +1,9 @@
 var a11550 =
 [
-    [ "spectator_commandscript", "df/dda/a11550.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
-    [ "GetCommands", "df/dda/a11550.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
-    [ "HandleSpectatorCommand", "df/dda/a11550.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
-    [ "HandleSpectatorLeaveCommand", "df/dda/a11550.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
-    [ "HandleSpectatorResetCommand", "df/dda/a11550.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
-    [ "HandleSpectatorSpectateCommand", "df/dda/a11550.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
-    [ "HandleSpectatorVersionCommand", "df/dda/a11550.html#aaf7c57603d263f7ab919f12d9680f058", null ],
-    [ "HandleSpectatorWatchCommand", "df/dda/a11550.html#a1ee822e332374b375962d1ae87adbc61", null ]
+    [ "event_commandscript", "df/dda/a11550.html#a160db0ad8874b0834ef863043b1796ae", null ],
+    [ "GetCommands", "df/dda/a11550.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
+    [ "HandleEventActiveListCommand", "df/dda/a11550.html#a6752be35103bb585984083a449c85714", null ],
+    [ "HandleEventInfoCommand", "df/dda/a11550.html#a1f0815bccd6cef61826ada4e349708d9", null ],
+    [ "HandleEventStartCommand", "df/dda/a11550.html#ad46dbd8892db3548d889d4127461c8e3", null ],
+    [ "HandleEventStopCommand", "df/dda/a11550.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
 ];

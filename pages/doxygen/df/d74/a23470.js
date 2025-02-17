@@ -1,7 +1,6 @@
 var a23470 =
 [
-    [ "boss_warp_splinter", "df/d74/a23470.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "df/d74/a23470.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "df/d74/a23470.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "df/d74/a23470.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "boss_porung", "df/d74/a23470.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "df/d74/a23470.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "df/d74/a23470.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

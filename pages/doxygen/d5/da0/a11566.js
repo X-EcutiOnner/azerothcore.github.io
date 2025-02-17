@@ -1,11 +1,17 @@
 var a11566 =
 [
-    [ "worldstate_commandscript", "d5/da0/a11566.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
-    [ "GetCommands", "d5/da0/a11566.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
-    [ "HandleSunsReachReclamationCounterCommand", "d5/da0/a11566.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
-    [ "HandleSunsReachReclamationPhaseCommand", "d5/da0/a11566.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
-    [ "HandleSunsReachReclamationStatusCommand", "d5/da0/a11566.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
-    [ "HandleSunsReachReclamationSubPhaseCommand", "d5/da0/a11566.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
-    [ "HandleSunwellGateCommand", "d5/da0/a11566.html#a45b73e47c8e9b21063d02922a83e103b", null ],
-    [ "HandleSunwellGateCounterCommand", "d5/da0/a11566.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
+    [ "gobject_commandscript", "d5/da0/a11566.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
+    [ "GetCommands", "d5/da0/a11566.html#a75124102670615a7b3a0ecd457ab631a", null ],
+    [ "HandleGameObjectActivateCommand", "d5/da0/a11566.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
+    [ "HandleGameObjectAddCommand", "d5/da0/a11566.html#a23717867956cc0da99e3640d2b790346", null ],
+    [ "HandleGameObjectAddTempCommand", "d5/da0/a11566.html#a49908d7c180d778c43702563add17d2d", null ],
+    [ "HandleGameObjectDeleteCommand", "d5/da0/a11566.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
+    [ "HandleGameObjectInfoCommand", "d5/da0/a11566.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
+    [ "HandleGameObjectMoveCommand", "d5/da0/a11566.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
+    [ "HandleGameObjectNearCommand", "d5/da0/a11566.html#a156f293b3bf9c7439b62814ee8f27650", null ],
+    [ "HandleGameObjectRespawn", "d5/da0/a11566.html#aafed57aa556c8cdc0c380185b056d705", null ],
+    [ "HandleGameObjectSetPhaseCommand", "d5/da0/a11566.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
+    [ "HandleGameObjectSetStateCommand", "d5/da0/a11566.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
+    [ "HandleGameObjectTargetCommand", "d5/da0/a11566.html#a11d33046310495c0a6d883a307c95632", null ],
+    [ "HandleGameObjectTurnCommand", "d5/da0/a11566.html#a75883394613b2c3501cd48f5334199b7", null ]
 ];

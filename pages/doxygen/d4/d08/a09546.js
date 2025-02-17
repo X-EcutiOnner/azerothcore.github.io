@@ -1,8 +1,6 @@
 var a09546 =
 [
-    [ "CircleBoundary", "d4/d08/a09546.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
-    [ "CircleBoundary", "d4/d08/a09546.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
-    [ "IsWithinBoundaryArea", "d4/d08/a09546.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
-    [ "_center", "d4/d08/a09546.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
-    [ "_radiusSq", "d4/d08/a09546.html#acbb3cc0c546f0e557a48a45425355950", null ]
+    [ "NpcTextLocale", "d4/d08/a09546.html#af1ddddeff75a1a51c51ebb1fec3f4f05", null ],
+    [ "Text_0", "d4/d08/a09546.html#adf17307b9d00e0b63b9c2827fca96320", null ],
+    [ "Text_1", "d4/d08/a09546.html#a40f69a13a202c350fdce2177288727e9", null ]
 ];

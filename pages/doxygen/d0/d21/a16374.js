@@ -1,6 +1,7 @@
 var a16374 =
 [
-    [ "boss_novosAI", "d6/d9f/a16378.html", "d6/d9f/a16378" ],
-    [ "boss_novos", "d0/d21/a16374.html#a898a5ee1de69df17fde66c84dd065ac1", null ],
-    [ "GetAI", "d0/d21/a16374.html#aaf28e2a23a8139197dccc92ae29a8be4", null ]
+    [ "FilterTargets", "d0/d21/a16374.html#a304da18e36ff67c34b80ab39583f8c96", null ],
+    [ "HandleScript", "d0/d21/a16374.html#adf99670bcf862288f513d2a26cbc256a", null ],
+    [ "PrepareSpellScript", "d0/d21/a16374.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
+    [ "Register", "d0/d21/a16374.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
 ];

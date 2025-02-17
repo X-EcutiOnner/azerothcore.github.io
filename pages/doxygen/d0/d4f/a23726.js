@@ -1,6 +1,7 @@
 var a23726 =
 [
-    [ "npc_aeranasAI", "d4/dc7/a23730.html", "d4/dc7/a23730" ],
-    [ "npc_aeranas", "d0/d4f/a23726.html#a6ea71481ef6a223a329b805081122537", null ],
-    [ "GetAI", "d0/d4f/a23726.html#a81167df6665bdca81ee13468dec19643", null ]
+    [ "boss_gatewatcher_gyrokill", "d0/d4f/a23726.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d0/d4f/a23726.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d0/d4f/a23726.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d0/d4f/a23726.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

@@ -1,6 +1,11 @@
 var a21798 =
 [
-    [ "HandleDummy", "d2/d25/a21798.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "d2/d25/a21798.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "d2/d25/a21798.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "npc_rocket_propelled_warheadAI", "d2/d25/a21798.html#aab27045dff817457d5858c48c174f3a2", null ],
+    [ "DoAction", "d2/d25/a21798.html#abfd9618bd029ae56d846cac9cf5b7e80", null ],
+    [ "FinishQuest", "d2/d25/a21798.html#a1ccb00801fbfc87cbe04f19dc15e4a10", null ],
+    [ "JustReachedHome", "d2/d25/a21798.html#a680f46b5d7c88bafc5d3af669e9886ef", null ],
+    [ "PassengerBoarded", "d2/d25/a21798.html#aba8121b207be2c7be161d9ea0c903d6e", null ],
+    [ "SpellHit", "d2/d25/a21798.html#ae347c0817e145ec333bd5b1c87dd01ef", null ],
+    [ "_faction", "d2/d25/a21798.html#a423bead0525222a132e22531f640c461", null ],
+    [ "_finished", "d2/d25/a21798.html#ad676c377ea08cbb33f1ff226f864849c", null ]
 ];

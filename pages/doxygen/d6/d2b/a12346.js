@@ -1,7 +1,7 @@
 var a12346 =
 [
-    [ "npc_kernobeeAI", "da/d26/a12350.html", "da/d26/a12350" ],
-    [ "npc_kernobee", "d6/d2b/a12346.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
-    [ "GetAI", "d6/d2b/a12346.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
-    [ "OnQuestAccept", "d6/d2b/a12346.html#aa830285cf19211b8233620257735ab62", null ]
+    [ "HandleDummy", "d6/d2b/a12346.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
+    [ "PrepareSpellScript", "d6/d2b/a12346.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
+    [ "Register", "d6/d2b/a12346.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
+    [ "Validate", "d6/d2b/a12346.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
 ];

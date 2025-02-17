@@ -1,6 +1,7 @@
 var a15250 =
 [
-    [ "SpellId", "d4/d0e/a15250.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d4/d0e/a15250.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d4/d0e/a15250.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "d4/d0e/a15250.html#aaed19d0c915891d8afecda7df75a8a75", null ],
+    [ "JustRespawned", "d4/d0e/a15250.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
+    [ "MoveInLineOfSight", "d4/d0e/a15250.html#a295d4bef97b97c7deb31a81274f0818d", null ],
+    [ "SpellHit", "d4/d0e/a15250.html#a021b82aa6bd2e118fe810f18349fda42", null ]
 ];

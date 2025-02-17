@@ -1,5 +1,4 @@
 var a10766 =
 [
-    [ "SocketIPBytes", "dc/dc5/a10766.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
-    [ "SocketPort", "dc/dc5/a10766.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
+    [ "Validate", "dc/dc5/a10766.html#ab0d4c07b4ce9903a913bdced5e05bbd6", null ]
 ];

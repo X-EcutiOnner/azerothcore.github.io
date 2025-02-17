@@ -1,6 +1,12 @@
 var a11106 =
 [
-    [ "EffectBase", "dd/dec/a11106.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
-    [ "CheckEffect", "dd/dec/a11106.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
-    [ "ToString", "dd/dec/a11106.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
+    [ "cooldown", "dd/dec/a11106.html#a0cd88c27979ccc5284aa46846db32a7c", null ],
+    [ "customChance", "dd/dec/a11106.html#adf6742b70f0b00abddf1da6f45da3d16", null ],
+    [ "ppmRate", "dd/dec/a11106.html#a931b2df4a187482e32ef252c3320080a", null ],
+    [ "procEx", "dd/dec/a11106.html#a911770f28fe36243593b12fe92d6fbec", null ],
+    [ "procFlags", "dd/dec/a11106.html#af253ef32b9de49fe85d0fe6f06855a60", null ],
+    [ "procPhase", "dd/dec/a11106.html#a179d83770a02e4ab13f809ed3943a399", null ],
+    [ "schoolMask", "dd/dec/a11106.html#a9a6d38ee4e4a35066780ef924c63f92f", null ],
+    [ "spellFamilyMask", "dd/dec/a11106.html#a2aa57bf419ab51129fe7240750ee8910", null ],
+    [ "spellFamilyName", "dd/dec/a11106.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a", null ]
 ];

@@ -1,6 +1,8 @@
 var a11526 =
 [
-    [ "player_settings_commandscript", "da/dbd/a11526.html#ab8585064d4d358d7d48eed97379a3a78", null ],
-    [ "GetCommands", "da/dbd/a11526.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
-    [ "HandleSettingsAnnouncerFlags", "da/dbd/a11526.html#af505117caa66ed4222e52ff91c486b6e", null ]
+    [ "accountId", "da/dbd/a11526.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
+    [ "accountName", "da/dbd/a11526.html#a4849bd1f43fd15eea1991948abdc576d", null ],
+    [ "deleteDate", "da/dbd/a11526.html#a65a101727094841d34e8775bb7504cba", null ],
+    [ "lowGuid", "da/dbd/a11526.html#a11fd07e662184f750ac0a5e547a22437", null ],
+    [ "name", "da/dbd/a11526.html#a0e85dce38305e222c5654315ed68bfc1", null ]
 ];

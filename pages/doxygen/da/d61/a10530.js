@@ -1,10 +1,8 @@
 var a10530 =
 [
-    [ "Count", "da/d61/a10530.html#a97b56650a40ff3d39c6281d43261f06f", null ],
-    [ "EntryType", "da/d61/a10530.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
-    [ "ItemID", "da/d61/a10530.html#a1daad03864355f94d90315fea68892d4", null ],
-    [ "Money", "da/d61/a10530.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
-    [ "OtherTab", "da/d61/a10530.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
-    [ "PlayerGUID", "da/d61/a10530.html#a90e01e455d373204617b2747ca95fe04", null ],
-    [ "TimeOffset", "da/d61/a10530.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
+    [ "OtherGUID", "da/d61/a10530.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
+    [ "PlayerGUID", "da/d61/a10530.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
+    [ "RankID", "da/d61/a10530.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
+    [ "TransactionDate", "da/d61/a10530.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
+    [ "TransactionType", "da/d61/a10530.html#aa48b69aa9078fb150470d66201b34786", null ]
 ];

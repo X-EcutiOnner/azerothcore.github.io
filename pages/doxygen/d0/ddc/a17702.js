@@ -1,7 +1,6 @@
 var a17702 =
 [
-    [ "HandleCast", "d0/ddc/a17702.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "d0/ddc/a17702.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "d0/ddc/a17702.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "d0/ddc/a17702.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "PrepareSpellScript", "d0/ddc/a17702.html#a16eadb50b6038f16ea28464d00df3381", null ],
+    [ "Register", "d0/ddc/a17702.html#ac6e304d391011863b8eff8105fab5191", null ],
+    [ "SelectDest", "d0/ddc/a17702.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
 ];

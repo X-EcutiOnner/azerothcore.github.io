@@ -1,8 +1,8 @@
 var a12670 =
 [
-    [ "npc_dkc1_gothikAI", "db/d10/a12670.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "db/d10/a12670.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "db/d10/a12670.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "db/d10/a12670.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "db/d10/a12670.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "npc_barnesAI", "df/d27/a12674.html", "df/d27/a12674" ],
+    [ "npc_barnes", "db/d10/a12670.html#aacdc737a94397a90b48b635293fe9c80", null ],
+    [ "GetAI", "db/d10/a12670.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
+    [ "OnGossipHello", "db/d10/a12670.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
+    [ "OnGossipSelect", "db/d10/a12670.html#aa04d577e318f16f581f82761b6014eb5", null ]
 ];

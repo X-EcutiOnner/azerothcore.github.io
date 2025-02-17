@@ -1,12 +1,9 @@
 var a06998 =
 [
-    [ "Type", "d2/d4e/a06998.html#abfb75b18c4a43f1818cd78212c668109", [
-      [ "LIST", "d2/d4e/a06998.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
-      [ "OWNER_LIST", "d2/d4e/a06998.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
-      [ "BIDDER_LIST", "d2/d4e/a06998.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
-    ] ],
-    [ "AuctionSearcherRequest", "d2/d4e/a06998.html#afadcce053f82ae124263a501671f35e3", null ],
-    [ "~AuctionSearcherRequest", "d2/d4e/a06998.html#a8122177f0ca9b5c2393e87998a15e950", null ],
-    [ "listFaction", "d2/d4e/a06998.html#a1847f75715da2de1098d0f767163f62d", null ],
-    [ "requestType", "d2/d4e/a06998.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
+    [ "SmartWaypointMgr", "d2/d4e/a06998.html#ad9168edcc4fd16260178d4a9277f71ba", null ],
+    [ "~SmartWaypointMgr", "d2/d4e/a06998.html#a300be22ad39e320833297c3f05cdcecc", null ],
+    [ "GetPath", "d2/d4e/a06998.html#ac3ea00baf665a3a201c911c875600010", null ],
+    [ "instance", "d2/d4e/a06998.html#a7ae477d4d210d938e167453d9085e520", null ],
+    [ "LoadFromDB", "d2/d4e/a06998.html#a9b5cdb29d31e7de0a407f600aef482af", null ],
+    [ "waypoint_map", "d2/d4e/a06998.html#a6acec90c526e47c3b16d1ba556f79c35", null ]
 ];

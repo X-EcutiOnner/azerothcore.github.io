@@ -1,18 +1,18 @@
 var dir_4741540d90fc7603479c20e4d5a7e517 =
 [
-    [ "boss_chess_event.cpp", "d3/d1b/a03227.html", "d3/d1b/a03227" ],
-    [ "boss_curator.cpp", "d9/dc1/a03194.html", "d9/dc1/a03194" ],
-    [ "boss_maiden_of_virtue.cpp", "d1/d86/a03209.html", "d1/d86/a03209" ],
-    [ "boss_midnight.cpp", "de/d3a/a03200.html", "de/d3a/a03200" ],
-    [ "boss_moroes.cpp", "d1/da3/a03221.html", "d1/da3/a03221" ],
-    [ "boss_netherspite.cpp", "d9/d4f/a03206.html", "d9/d4f/a03206" ],
-    [ "boss_nightbane.cpp", "d5/d73/a03203.html", "d5/d73/a03203" ],
-    [ "boss_prince_malchezaar.cpp", "d9/d65/a03215.html", "d9/d65/a03215" ],
-    [ "boss_servant_quarters.cpp", "d7/de1/a03224.html", "d7/de1/a03224" ],
-    [ "boss_shade_of_aran.cpp", "dd/d61/a03197.html", "dd/d61/a03197" ],
-    [ "boss_terestian_illhoof.cpp", "d1/d48/a03218.html", "d1/d48/a03218" ],
-    [ "bosses_opera.cpp", "d5/de9/a03236.html", "d5/de9/a03236" ],
-    [ "instance_karazhan.cpp", "df/dc9/a03230.html", "df/dc9/a03230" ],
-    [ "karazhan.cpp", "df/d1e/a03212.html", "df/d1e/a03212" ],
-    [ "karazhan.h", "dd/d07/a03233.html", "dd/d07/a03233" ]
+    [ "boss_chess_event.cpp", "db/d10/a00350.html", "db/d10/a00350" ],
+    [ "boss_curator.cpp", "d6/de1/a00356.html", "d6/de1/a00356" ],
+    [ "boss_maiden_of_virtue.cpp", "dd/de2/a00320.html", "dd/de2/a00320" ],
+    [ "boss_midnight.cpp", "df/d91/a00335.html", "df/d91/a00335" ],
+    [ "boss_moroes.cpp", "dc/d84/a00338.html", "dc/d84/a00338" ],
+    [ "boss_netherspite.cpp", "da/de0/a00317.html", "da/de0/a00317" ],
+    [ "boss_nightbane.cpp", "db/ddc/a00353.html", "db/ddc/a00353" ],
+    [ "boss_prince_malchezaar.cpp", "dd/d4e/a00329.html", "dd/d4e/a00329" ],
+    [ "boss_servant_quarters.cpp", "d1/dc6/a00347.html", "d1/dc6/a00347" ],
+    [ "boss_shade_of_aran.cpp", "de/d55/a00323.html", "de/d55/a00323" ],
+    [ "boss_terestian_illhoof.cpp", "d0/d39/a00314.html", "d0/d39/a00314" ],
+    [ "bosses_opera.cpp", "dc/d50/a00332.html", "dc/d50/a00332" ],
+    [ "instance_karazhan.cpp", "d3/d93/a00341.html", "d3/d93/a00341" ],
+    [ "karazhan.cpp", "d8/d23/a00326.html", "d8/d23/a00326" ],
+    [ "karazhan.h", "d8/d8e/a00344.html", "d8/d8e/a00344" ]
 ];

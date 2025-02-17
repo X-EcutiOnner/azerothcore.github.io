@@ -1,5 +1,7 @@
 var a21738 =
 [
-    [ "npc_black_knight_graveyardAI", "de/ded/a21738.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
-    [ "MoveInLineOfSight", "de/ded/a21738.html#aa5c80b5759656e3865d6721161f9f005", null ]
+    [ "HandleScriptEffect", "de/ded/a21738.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "de/ded/a21738.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "de/ded/a21738.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "de/ded/a21738.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

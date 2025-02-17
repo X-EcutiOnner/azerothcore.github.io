@@ -1,6 +1,6 @@
 var a16978 =
 [
-    [ "boss_prince_taldaramAI", "db/dd3/a16982.html", "db/dd3/a16982" ],
-    [ "boss_prince_taldaram_icc", "df/d21/a16978.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
-    [ "GetAI", "df/d21/a16978.html#a2a8c89206ab72afc68260f41a246da3b", null ]
+    [ "entry", "df/d21/a16978.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "df/d21/a16978.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "df/d21/a16978.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

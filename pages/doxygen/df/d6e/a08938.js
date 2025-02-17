@@ -1,10 +1,10 @@
 var a08938 =
 [
-    [ "iterator", "df/d6e/a08938.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
-    [ "begin", "df/d6e/a08938.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
-    [ "end", "df/d6e/a08938.html#a266acb421cfc6ccc56dc2acff3202971", null ],
-    [ "getFirst", "df/d6e/a08938.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
-    [ "getLast", "df/d6e/a08938.html#a46a36813eaf752815a3f8c739db88a5d", null ],
-    [ "rbegin", "df/d6e/a08938.html#ae69734978b5eec009a696861b7b7152b", null ],
-    [ "rend", "df/d6e/a08938.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
+    [ "PetLevelInfo", "df/d6e/a08938.html#ad8e757abeae500063e963ffef5469809", null ],
+    [ "armor", "df/d6e/a08938.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
+    [ "health", "df/d6e/a08938.html#a322dcab3af8f98726aa6addf38e8891b", null ],
+    [ "mana", "df/d6e/a08938.html#a27352e73d6ed3945e398e0634dee1e96", null ],
+    [ "max_dmg", "df/d6e/a08938.html#a092f2600f64f2af885142b2e96d1fe64", null ],
+    [ "min_dmg", "df/d6e/a08938.html#a299d1c7f4c28893e09de79cd816afa95", null ],
+    [ "stats", "df/d6e/a08938.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
 ];

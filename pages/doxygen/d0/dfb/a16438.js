@@ -1,5 +1,5 @@
 var a16438 =
 [
-    [ "achievement_consumption_junction", "d0/dfb/a16438.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
-    [ "OnCheck", "d0/dfb/a16438.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
+    [ "boss_fjolaAI", "d0/dfb/a16438.html#aa46fdff841d01f28ef50aa5363082f71", null ],
+    [ "JustSummoned", "d0/dfb/a16438.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
 ];

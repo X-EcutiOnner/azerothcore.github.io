@@ -1,9 +1,12 @@
 var a25814 =
 [
-    [ "Load", "dd/d94/a25814.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "dd/d94/a25814.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "dd/d94/a25814.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "dd/d94/a25814.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "dd/d94/a25814.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "dd/d94/a25814.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "CalcPeriodic", "dd/d94/a25814.html#a5b57273e0d9fc39a000c7bf4e232acb4", null ],
+    [ "CalculateAPAmount", "dd/d94/a25814.html#a65b6f1a2b322c928fd9a5992380d2e95", null ],
+    [ "CalculateResistanceAmount", "dd/d94/a25814.html#a3860e12ea334cb61a437941b6f9b81e0", null ],
+    [ "CalculateSPAmount", "dd/d94/a25814.html#abf0d76c220911d88990f3071f14a9d5a", null ],
+    [ "CalculateStatAmount", "dd/d94/a25814.html#a56489b52592e63dd00640de388926512", null ],
+    [ "HandleEffectApply", "dd/d94/a25814.html#a5180cc8beb5244bd0b957dfc89dc9cf4", null ],
+    [ "HandlePeriodic", "dd/d94/a25814.html#a67cb7b817f29dd41aa7d0dc8c87dc820", null ],
+    [ "PrepareAuraScript", "dd/d94/a25814.html#a5b65221c67283a29cbeb63cafe64457a", null ],
+    [ "Register", "dd/d94/a25814.html#acc22795ea812f31b0b9e21e6494c2d19", null ]
 ];

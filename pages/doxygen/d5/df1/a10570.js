@@ -1,9 +1,7 @@
 var a10570 =
 [
-    [ "Weather", "d5/df1/a10570.html#aa404c94fec05b825454a7309827767c6", null ],
-    [ "Weather", "d5/df1/a10570.html#a28f45d81441d2dde6917380978dfb4d0", null ],
-    [ "Write", "d5/df1/a10570.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
-    [ "Abrupt", "d5/df1/a10570.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
-    [ "Intensity", "d5/df1/a10570.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
-    [ "WeatherID", "d5/df1/a10570.html#a32e56458b1e562c124cfc0288a578134", null ]
+    [ "GuildSetMemberNote", "d5/df1/a10570.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "d5/df1/a10570.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "d5/df1/a10570.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "d5/df1/a10570.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

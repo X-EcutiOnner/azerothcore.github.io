@@ -1,5 +1,8 @@
 var a26710 =
 [
-    [ "achievement_bg_ic_resource_glut", "d8/dee/a26710.html#ace247962dccee2601ceade593b0874d4", null ],
-    [ "OnCheck", "d8/dee/a26710.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
+    [ "AfterCheckProc", "d8/dee/a26710.html#acfdce5bcda30fc7c498d4f7aba37933f", null ],
+    [ "HandleProc", "d8/dee/a26710.html#ac24bde081e118b347a3cad6832cd96da", null ],
+    [ "PrepareAuraScript", "d8/dee/a26710.html#a5d33fbbc36417bd229fb9b1576f4f42b", null ],
+    [ "Register", "d8/dee/a26710.html#ac60630c5d36b1e9cc4fc809ecde1fe20", null ],
+    [ "Validate", "d8/dee/a26710.html#aecc372443f71834aaeab97ba77757e2a", null ]
 ];

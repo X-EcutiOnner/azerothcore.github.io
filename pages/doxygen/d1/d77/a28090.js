@@ -1,10 +1,10 @@
 var a28090 =
 [
-    [ "ID", "d1/d77/a28090.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "d1/d77/a28090.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "d1/d77/a28090.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "d1/d77/a28090.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "d1/d77/a28090.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "d1/d77/a28090.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "d1/d77/a28090.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "PvPDifficultyEntry", "d1/d77/a28090.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
+    [ "GetBracketId", "d1/d77/a28090.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
+    [ "bracketId", "d1/d77/a28090.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
+    [ "difficulty", "d1/d77/a28090.html#a33ac017d785a4586a78e715d97836720", null ],
+    [ "mapId", "d1/d77/a28090.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
+    [ "maxLevel", "d1/d77/a28090.html#a1385166568239f2118b65377df8b4b55", null ],
+    [ "minLevel", "d1/d77/a28090.html#acd07e8d759af1b73ec7543f6e70df242", null ]
 ];

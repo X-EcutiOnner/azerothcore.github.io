@@ -1,10 +1,7 @@
 var a27274 =
 [
-    [ "npc_dancing_flamesAI", "dc/d5b/a27274.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "dc/d5b/a27274.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "dc/d5b/a27274.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "dc/d5b/a27274.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "dc/d5b/a27274.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "dc/d5b/a27274.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "dc/d5b/a27274.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "npc_prof_leather", "dc/d5b/a27274.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
+    [ "HasLeatherSpecialty", "dc/d5b/a27274.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
+    [ "OnGossipHello", "dc/d5b/a27274.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
+    [ "OnGossipSelect", "dc/d5b/a27274.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
 ];

@@ -1,5 +1,6 @@
 var a20486 =
 [
-    [ "achievement_xt002_nerf_gravity_bombs", "d0/d6b/a20486.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
-    [ "OnCheck", "d0/d6b/a20486.html#a03f61470694399ab32aea354cd697771", null ]
+    [ "boss_thorim_runic_colossusAI", "dc/d56/a20490.html", "dc/d56/a20490" ],
+    [ "boss_thorim_runic_colossus", "d0/d6b/a20486.html#a2ea1c08a98b689cd6c766578e98a3191", null ],
+    [ "GetAI", "d0/d6b/a20486.html#a6d64427ff427a1054e10c9d987b77f53", null ]
 ];

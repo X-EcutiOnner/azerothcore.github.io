@@ -1,6 +1,6 @@
 var a22486 =
 [
-    [ "FilterTargets", "d2/dad/a22486.html#a91b9fdebdffcae06da1882d7d46f5460", null ],
-    [ "PrepareSpellScript", "d2/dad/a22486.html#ae8f3906007580963bda33cd0e420299b", null ],
-    [ "Register", "d2/dad/a22486.html#a5e191d4fca7cc95ddec8730cc3fd8ffe", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "de/d95/a22490.html", "de/d95/a22490" ],
+    [ "instance_sethekk_halls", "d2/dad/a22486.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "d2/dad/a22486.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

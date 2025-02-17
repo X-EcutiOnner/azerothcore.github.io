@@ -1,5 +1,5 @@
 var a19586 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "dc/d3e/a19586.html#ab28c1371c20672e717f92fbc3656fb99", null ],
-    [ "OnSpellClick", "dc/d3e/a19586.html#af432be27e1b91ecf5a5a53c7b6add39e", null ]
+    [ "achievement_algalon_herald_of_the_titans", "dc/d3e/a19586.html#a13c75b878f4669d212eeb09b55336384", null ],
+    [ "OnCheck", "dc/d3e/a19586.html#a20811d7bb453b1758967c11545e630e9", null ]
 ];

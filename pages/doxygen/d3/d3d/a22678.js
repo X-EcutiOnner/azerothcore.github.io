@@ -1,7 +1,6 @@
 var a22678 =
 [
-    [ "HandleEffectApply", "d3/d3d/a22678.html#a5857dbdb088de67cc15717dca0c5f7b5", null ],
-    [ "HandleEffectRemove", "d3/d3d/a22678.html#aab0536f7f73d9e354a526f56f587fff0", null ],
-    [ "PrepareAuraScript", "d3/d3d/a22678.html#a80a6b51bc6c1457edc0fb8a0089513d1", null ],
-    [ "Register", "d3/d3d/a22678.html#a194ff31e6168bca23881f3804154d479", null ]
+    [ "HandleSharedRule", "d3/d3d/a22678.html#a94b783490dafae872b65e0bbfed156b9", null ],
+    [ "PrepareSpellScript", "d3/d3d/a22678.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
+    [ "Register", "d3/d3d/a22678.html#a31f2d90059e62da77a719a192d62328b", null ]
 ];

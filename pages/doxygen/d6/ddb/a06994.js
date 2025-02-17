@@ -1,8 +1,9 @@
 var a06994 =
 [
-    [ "faction", "d6/ddb/a06994.html#acb80e9b49dda9771679b871cf862d876", null ],
-    [ "loc_idx", "d6/ddb/a06994.html#ac88c2c37d92c9e4a8502a870a580fa01", null ],
-    [ "locdbc_idx", "d6/ddb/a06994.html#a572c98b3437aff883f68d0eea4b26eb6", null ],
-    [ "playerGuid", "d6/ddb/a06994.html#a6aaee409b729275b9089d7db5145ba58", null ],
-    [ "usablePlayerInfo", "d6/ddb/a06994.html#a0a2be15a1a7c4d84fe53930c15571157", null ]
+    [ "ObjectGuidVector", "d6/ddb/a06994.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "d6/ddb/a06994.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "d6/ddb/a06994.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "d6/ddb/a06994.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "d6/ddb/a06994.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "d6/ddb/a06994.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

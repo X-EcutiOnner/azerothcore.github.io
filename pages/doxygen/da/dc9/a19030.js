@@ -1,5 +1,6 @@
 var a19030 =
 [
-    [ "achievement_intense_cold", "da/dc9/a19030.html#a2377357d6bfc03e5b91354428d3da3de", null ],
-    [ "OnCheck", "da/dc9/a19030.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
+    [ "instance_naxxramas_InstanceMapScript", "d8/da0/a19034.html", "d8/da0/a19034" ],
+    [ "instance_naxxramas", "da/dc9/a19030.html#a9d4b57f9f0f7a44565bb8d9bd3aa24a1", null ],
+    [ "GetInstanceScript", "da/dc9/a19030.html#ac5dd8d591af2239faab17727eb1ef66e", null ]
 ];

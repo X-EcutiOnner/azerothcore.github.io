@@ -1,8 +1,14 @@
 var a11518 =
 [
-    [ "pet_commandscript", "d9/db3/a11518.html#a84595dcb908398e80deee0b0aa47e335", null ],
-    [ "GetCommands", "d9/db3/a11518.html#a01026a4936774d2225d10e0f6e27b08c", null ],
-    [ "HandlePetCreateCommand", "d9/db3/a11518.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
-    [ "HandlePetLearnCommand", "d9/db3/a11518.html#a59a2a6bd9af23fe3a775319216337bda", null ],
-    [ "HandlePetUnlearnCommand", "d9/db3/a11518.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
+    [ "cast_commandscript", "d9/db3/a11518.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
+    [ "CheckSpellCastResult", "d9/db3/a11518.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
+    [ "CheckSpellExistsAndIsValid", "d9/db3/a11518.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
+    [ "GetCommands", "d9/db3/a11518.html#ab0890c036a8d301b382fdd1b6371f671", null ],
+    [ "GetTriggerFlags", "d9/db3/a11518.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
+    [ "HandleCastBackCommand", "d9/db3/a11518.html#a964a40278f609a5c5a0bae651484c726", null ],
+    [ "HandleCastCommand", "d9/db3/a11518.html#ac28430cc0623209b891bacbb4845509b", null ],
+    [ "HandleCastDestCommand", "d9/db3/a11518.html#a156ca81fba7155205dae106aa4c221d6", null ],
+    [ "HandleCastDistCommand", "d9/db3/a11518.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
+    [ "HandleCastSelfCommand", "d9/db3/a11518.html#a69e88bb174c2518584a9ae622e2850bf", null ],
+    [ "HandleCastTargetCommad", "d9/db3/a11518.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
 ];

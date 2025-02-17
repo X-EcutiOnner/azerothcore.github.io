@@ -1,6 +1,6 @@
 var a20878 =
 [
-    [ "boss_svalaAI", "de/de3/a20882.html", "de/de3/a20882" ],
-    [ "boss_svala", "dc/d3e/a20878.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
-    [ "GetAI", "dc/d3e/a20878.html#a0c3b94635eca667a28496cf799efad25", null ]
+    [ "HandleEffectPeriodic", "dc/d3e/a20878.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
+    [ "PrepareAuraScript", "dc/d3e/a20878.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
+    [ "Register", "dc/d3e/a20878.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
 ];

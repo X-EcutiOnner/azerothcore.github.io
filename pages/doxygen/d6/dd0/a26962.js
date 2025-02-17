@@ -1,6 +1,7 @@
 var a26962 =
 [
-    [ "go_brewfest_musicAI", "d4/d3b/a26966.html", "d4/d3b/a26966" ],
-    [ "go_brewfest_music", "d6/dd0/a26962.html#a787963a5ee591933d62fdb52911f9a77", null ],
-    [ "GetAI", "d6/dd0/a26962.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
+    [ "npc_spirit_shadeAI", "d6/dd0/a26962.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "d6/dd0/a26962.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "d6/dd0/a26962.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "d6/dd0/a26962.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

@@ -1,6 +1,7 @@
 var a09398 =
 [
-    [ "NpcTextLocale", "dd/d93/a09398.html#af1ddddeff75a1a51c51ebb1fec3f4f05", null ],
-    [ "Text_0", "dd/d93/a09398.html#adf17307b9d00e0b63b9c2827fca96320", null ],
-    [ "Text_1", "dd/d93/a09398.html#a40f69a13a202c350fdce2177288727e9", null ]
+    [ "AllWorldObjectsInRange", "dd/d93/a09398.html#a63f46d510df0fa3153d4b3325676a468", null ],
+    [ "operator()", "dd/d93/a09398.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
+    [ "m_fRange", "dd/d93/a09398.html#a6afe3ef05369dce8ee205db219f97846", null ],
+    [ "m_pObject", "dd/d93/a09398.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
 ];

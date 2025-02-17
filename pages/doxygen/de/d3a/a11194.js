@@ -1,8 +1,6 @@
 var a11194 =
 [
-    [ "CreatureTextId", "de/d3a/a11194.html#ae8058e922bafc69b718ca4be1be39688", null ],
-    [ "operator<", "de/d3a/a11194.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
-    [ "entry", "de/d3a/a11194.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
-    [ "textGroup", "de/d3a/a11194.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
-    [ "textId", "de/d3a/a11194.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
+    [ "BeforeHitHandler", "de/d3a/a11194.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
+    [ "Call", "de/d3a/a11194.html#a393057cca72c41e193508bf150ed0b1f", null ],
+    [ "_pBeforeHitHandlerScript", "de/d3a/a11194.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
 ];

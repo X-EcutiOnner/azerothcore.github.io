@@ -1,6 +1,6 @@
 var a16098 =
 [
-    [ "npc_toc_shamanAI", "d6/d0c/a16102.html", "d6/d0c/a16102" ],
-    [ "npc_toc_shaman", "df/dbe/a16098.html#a26e3a539d8d918057e9f81b9ee83f17d", null ],
-    [ "GetAI", "df/dbe/a16098.html#a7102a3aec6c229a04b617c562512bf29", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d6/d0c/a16102.html", "d6/d0c/a16102" ],
+    [ "npc_black_knight_skeletal_gryphon", "df/dbe/a16098.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
+    [ "GetAI", "df/dbe/a16098.html#aad244f95877a208b56a2b6544984d724", null ]
 ];

@@ -1,7 +1,6 @@
 var a15062 =
 [
-    [ "HandleEffectRemove", "da/d8d/a15062.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "da/d8d/a15062.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "da/d8d/a15062.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "da/d8d/a15062.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "OnPeriodic", "da/d8d/a15062.html#a5945e24db52c6bacae7221b085dc877b", null ],
+    [ "PrepareAuraScript", "da/d8d/a15062.html#acc987aa864a8333de7bd0b770eb9018d", null ],
+    [ "Register", "da/d8d/a15062.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
 ];

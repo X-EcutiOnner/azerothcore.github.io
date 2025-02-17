@@ -1,8 +1,5 @@
 var a17610 =
 [
-    [ "FilterTargets", "d9/d9c/a17610.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
-    [ "HandleScript", "d9/d9c/a17610.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
-    [ "PrepareSpellScript", "d9/d9c/a17610.html#ae6b30b8da52141c385f985435cac99a1", null ],
-    [ "Register", "d9/d9c/a17610.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
-    [ "Validate", "d9/d9c/a17610.html#accff1f03fb7c0d56cb197bb18348635c", null ]
+    [ "at_lady_deathwhisper_entrance", "d9/d9c/a17610.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
+    [ "OnTrigger", "d9/d9c/a17610.html#a769c838c94a88af5492057909d88f3de", null ]
 ];

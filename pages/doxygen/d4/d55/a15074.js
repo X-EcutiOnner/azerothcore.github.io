@@ -1,6 +1,7 @@
 var a15074 =
 [
-    [ "npc_murkdeepAI", "d7/d8d/a15078.html", "d7/d8d/a15078" ],
-    [ "npc_murkdeep", "d4/d55/a15074.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "d4/d55/a15074.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "npc_vekniss_stinger", "d4/d55/a15074.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "d4/d55/a15074.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "d4/d55/a15074.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "d4/d55/a15074.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

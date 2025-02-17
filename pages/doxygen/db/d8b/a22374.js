@@ -1,5 +1,5 @@
 var a22374 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "db/d8b/a22374.html#a037ee225b626b64436570680ae4e9ea0", null ],
-    [ "ProcessEvent", "db/d8b/a22374.html#aba05b0edb57e6c42bd45593a51598365", null ]
+    [ "OutdoorPvP_silithus", "db/d8b/a22374.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
+    [ "GetOutdoorPvP", "db/d8b/a22374.html#a126d6acc77218addd10072199ccd2470", null ]
 ];

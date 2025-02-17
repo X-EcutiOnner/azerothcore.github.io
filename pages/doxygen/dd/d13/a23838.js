@@ -1,6 +1,7 @@
 var a23838 =
 [
-    [ "CheckCast", "dd/d13/a23838.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "dd/d13/a23838.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "dd/d13/a23838.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "HandleDummy", "dd/d13/a23838.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "dd/d13/a23838.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "dd/d13/a23838.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "dd/d13/a23838.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

@@ -1,11 +1,6 @@
 var a13994 =
 [
-    [ "npc_the_biggest_tree", "d1/d38/a13994.html#a7366f46c4864fa0f1372c920b94c6e97", null ],
-    [ "MoveInLineOfSight", "d1/d38/a13994.html#a572c0b146d461b6a8504163452570954", null ],
-    [ "Reset", "d1/d38/a13994.html#a3fd4c5e522e8945925124426a8ff870b", null ],
-    [ "UpdateAI", "d1/d38/a13994.html#a3d1b33ab7cd28de5438f53a00657170a", null ],
-    [ "orphanGUID", "d1/d38/a13994.html#a36c170fb178a19256fd41fb2cbbb7830", null ],
-    [ "phase", "d1/d38/a13994.html#a7101fe10b15ce1779d3d131e597ef636", null ],
-    [ "playerGUID", "d1/d38/a13994.html#ab39af61d9ab7d9f7210f96b65971654d", null ],
-    [ "timer", "d1/d38/a13994.html#a7525783692c3bc9642f534296b71a5f5", null ]
+    [ "npc_brewfest_keg_reciver", "d1/d38/a13994.html#af12e7608f3f715650e6c265ac18920e4", null ],
+    [ "MoveInLineOfSight", "d1/d38/a13994.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
+    [ "sGossipSelect", "d1/d38/a13994.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
 ];

@@ -1,8 +1,6 @@
 var a00827 =
 [
-    [ "GameObjectScript", "d6/d82/a10118.html", "d6/d82/a10118" ],
-    [ "GenericGameObjectScript< AI >", "d7/dfe/a10122.html", "d7/dfe/a10122" ],
-    [ "FactoryGameObjectScript< AI, AIFactory >", "d1/dab/a10126.html", "d1/dab/a10126" ],
-    [ "RegisterGameObjectAI", "dc/d1b/a00827.html#a87397a2ba2a1acd88f62793eae9aa30e", null ],
-    [ "RegisterGameObjectAIWithFactory", "dc/d1b/a00827.html#a1614f98721d8a94351c4be15a72e499f", null ]
+    [ "instance_utgarde_pinnacle", "d0/df1/a21038.html", "d0/df1/a21038" ],
+    [ "instance_utgarde_pinnacle::instance_utgarde_pinnacle_InstanceMapScript", "d8/d52/a21042.html", "d8/d52/a21042" ],
+    [ "AddSC_instance_utgarde_pinnacle", "dc/d1b/a00827.html#a3469cdfafe3d81dca68950e7a6a6370d", null ]
 ];

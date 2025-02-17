@@ -1,8 +1,7 @@
 var a15530 =
 [
-    [ "HandleAfterCast", "d4/d4b/a15530.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "d4/d4b/a15530.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "d4/d4b/a15530.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "d4/d4b/a15530.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "d4/d4b/a15530.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "npc_ameAI", "d0/de0/a15534.html", "d0/de0/a15534" ],
+    [ "npc_ame", "d4/d4b/a15530.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "d4/d4b/a15530.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "d4/d4b/a15530.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

@@ -1,10 +1,7 @@
 var a15238 =
 [
-    [ "npc_thrall_warchiefAI", "d3/d76/a15238.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
-    [ "DoAction", "d3/d76/a15238.html#a511da19703e30f6e82e59c5223bf2770", null ],
-    [ "JustEngagedWith", "d3/d76/a15238.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
-    [ "Reset", "d3/d76/a15238.html#a920a29258228c9c2e7e0791d38b648e1", null ],
-    [ "UpdateAI", "d3/d76/a15238.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
-    [ "ChainLightningTimer", "d3/d76/a15238.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
-    [ "ShockTimer", "d3/d76/a15238.html#aa8609f8824f68ce7259465284c01dd35", null ]
+    [ "npc_cork_gizeltonAI", "da/d64/a15242.html", "da/d64/a15242" ],
+    [ "npc_cork_gizelton", "d3/d76/a15238.html#a915aa2abc18109e7d0197863f59536f2", null ],
+    [ "GetAI", "d3/d76/a15238.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
+    [ "OnQuestAccept", "d3/d76/a15238.html#a11dc1fea0a24add451272b537298fc13", null ]
 ];

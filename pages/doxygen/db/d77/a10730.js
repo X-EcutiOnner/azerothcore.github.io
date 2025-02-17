@@ -1,5 +1,5 @@
 var a10730 =
 [
-    [ "PacketHandler", "db/d77/a10730.html#a7ca20eda3de42ab35ef45c56f1d6d73e", null ],
-    [ "Call", "db/d77/a10730.html#a42ac77b81d5280c7f1c54991649ab501", null ]
+    [ "DurabilityDamageDeath", "db/d77/a10730.html#a9b4350d37291b9b714be1563b28dcb43", null ],
+    [ "Write", "db/d77/a10730.html#a35a93d9abeeb029f3da080487423f495", null ]
 ];

@@ -1,14 +1,9 @@
 var a04625 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "d4/d0f/a04625.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "isHole", "d4/d0f/a04625.html#a3a7e248f31dc8d832dc118d469a98bd4", null ],
-    [ "holetab_h", "d4/d0f/a04625.html#a7424dd5c858116f845a676e31fe5ae5d", null ],
-    [ "holetab_v", "d4/d0f/a04625.html#a2b1bf69bcdb58ff1605821d486da3acb", null ],
-    [ "MCINMagic", "d4/d0f/a04625.html#a6f946547b65d321100fd6efa2966180c", null ],
-    [ "MCLQMagic", "d4/d0f/a04625.html#a35ae9924cb4e3ad0020167b89d5ea86f", null ],
-    [ "MCNKMagic", "d4/d0f/a04625.html#aa2d85d3b667d3755f6f7a993e60c574b", null ],
-    [ "MCVTMagic", "d4/d0f/a04625.html#a32010e610a970d3891ae5effca03de37", null ],
-    [ "MFBOMagic", "d4/d0f/a04625.html#a329d005a0989137286469e197dc0c812", null ],
-    [ "MH2OMagic", "d4/d0f/a04625.html#aaeaf747e4bc5c25257f9e0ef1153b5a7", null ],
-    [ "MHDRMagic", "d4/d0f/a04625.html#ac97bd684dd5bacba0e790f355a3bdddf", null ]
+    [ "TEST", "d4/d0f/a04625.html#a7a11632378897367b979b12423a3f5dd", null ],
+    [ "TEST", "d4/d0f/a04625.html#ac23831b7258f696b9e9a4972c42b5a4c", null ],
+    [ "TEST", "d4/d0f/a04625.html#a5fcf85473a490662471938a1f773d6e2", null ],
+    [ "TEST", "d4/d0f/a04625.html#a8ffadf8c8dbffb858cf2a925473d6bff", null ],
+    [ "TEST", "d4/d0f/a04625.html#a23ac78cb09ef0a7b924b271ffefbc6a9", null ],
+    [ "TEST", "d4/d0f/a04625.html#a9b7a926251db0fa2bd2678cee360e161", null ]
 ];

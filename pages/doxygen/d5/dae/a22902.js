@@ -1,6 +1,6 @@
 var a22902 =
 [
-    [ "HandleDummy", "d5/dae/a22902.html#a3347413822ce083085bcf1418fbdbae2", null ],
-    [ "PrepareSpellScript", "d5/dae/a22902.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
-    [ "Register", "d5/dae/a22902.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
+    [ "HandleProc", "d5/dae/a22902.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
+    [ "PrepareAuraScript", "d5/dae/a22902.html#a94b244ef26355d53c874aec6d26f3a53", null ],
+    [ "Register", "d5/dae/a22902.html#a9499d88802213ceb877e19d1651324f2", null ]
 ];

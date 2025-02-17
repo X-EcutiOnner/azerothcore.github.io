@@ -1,5 +1,6 @@
 var a26714 =
 [
-    [ "achievement_bg_ic_glaive_grave", "d3/d8b/a26714.html#a97e1cead0102a120b3bd14592ea26034", null ],
-    [ "OnCheck", "d3/d8b/a26714.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
+    [ "HandleOnHit", "d3/d8b/a26714.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
+    [ "PrepareSpellScript", "d3/d8b/a26714.html#a999b019665dec9b0690a1019be428072", null ],
+    [ "Register", "d3/d8b/a26714.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
 ];

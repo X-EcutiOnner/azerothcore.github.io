@@ -1,6 +1,7 @@
 var a17642 =
 [
-    [ "FilterTargetsInitial", "d5/dfa/a17642.html#a92cc71f268793c616bed66d9a489a145", null ],
-    [ "PrepareSpellScript", "d5/dfa/a17642.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
-    [ "Register", "d5/dfa/a17642.html#a91b96940a9e72e632989b49f7e475dba", null ]
+    [ "HandleSpikes", "d5/dfa/a17642.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "d5/dfa/a17642.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "d5/dfa/a17642.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "d5/dfa/a17642.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

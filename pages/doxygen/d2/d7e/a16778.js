@@ -1,6 +1,6 @@
 var a16778 =
 [
-    [ "npc_pos_icicle_triggerAI", "d3/d62/a16782.html", "d3/d62/a16782" ],
-    [ "npc_pos_icicle_trigger", "d2/d7e/a16778.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
-    [ "GetAI", "d2/d7e/a16778.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
+    [ "npc_hor_risen_witch_doctorAI", "d3/d62/a16782.html", "d3/d62/a16782" ],
+    [ "npc_hor_risen_witch_doctor", "d2/d7e/a16778.html#add06a10c9b4342b136b5cab49338b095", null ],
+    [ "GetAI", "d2/d7e/a16778.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
 ];

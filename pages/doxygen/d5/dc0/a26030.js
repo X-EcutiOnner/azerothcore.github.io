@@ -1,7 +1,7 @@
 var a26030 =
 [
-    [ "CheckTarget", "d5/dc0/a26030.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "d5/dc0/a26030.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "d5/dc0/a26030.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "d5/dc0/a26030.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "CalculateAmount", "d5/dc0/a26030.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
+    [ "HandleUpdateSpellclick", "d5/dc0/a26030.html#a89956d7f3a6404d5b60e46034867c82c", null ],
+    [ "PrepareAuraScript", "d5/dc0/a26030.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
+    [ "Register", "d5/dc0/a26030.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ]
 ];

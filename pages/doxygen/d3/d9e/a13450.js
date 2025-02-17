@@ -1,7 +1,6 @@
 var a13450 =
 [
-    [ "HandleScript", "d3/d9e/a13450.html#acd4373ab762d00d262984c36190d6f93", null ],
-    [ "PrepareSpellScript", "d3/d9e/a13450.html#a113216b272d0386f248a75bfcf30c6a3", null ],
-    [ "Register", "d3/d9e/a13450.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
-    [ "Validate", "d3/d9e/a13450.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
+    [ "OnEffect", "d3/d9e/a13450.html#a41903586310ec274dd10537ccb8655f3", null ],
+    [ "PrepareSpellScript", "d3/d9e/a13450.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
+    [ "Register", "d3/d9e/a13450.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
 ];

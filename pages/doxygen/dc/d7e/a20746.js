@@ -1,6 +1,10 @@
 var a20746 =
 [
-    [ "npc_ulduar_arachnopod_destroyerAI", "dd/d7b/a20750.html", "dd/d7b/a20750" ],
-    [ "npc_ulduar_arachnopod_destroyer", "dc/d7e/a20746.html#aec69c3c143ec27734dd3f2d8db0da9fd", null ],
-    [ "GetAI", "dc/d7e/a20746.html#ad667e7bacc181e79cb002181c71aac7c", null ]
+    [ "boss_yoggsaron_voiceAI", "dc/d7e/a20746.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
+    [ "Reset", "dc/d7e/a20746.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
+    [ "SpellHitTarget", "dc/d7e/a20746.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
+    [ "UpdateAI", "dc/d7e/a20746.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
+    [ "_current", "dc/d7e/a20746.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
+    [ "_targets", "dc/d7e/a20746.html#ab6132214a2249fbb5de8a5115b114381", null ],
+    [ "events", "dc/d7e/a20746.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
 ];

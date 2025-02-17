@@ -1,6 +1,6 @@
 var a27050 =
 [
-    [ "go_soulwellAI", "dc/d5a/a27054.html", "dc/d5a/a27054" ],
-    [ "go_soulwell", "dc/d8d/a27050.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "dc/d8d/a27050.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "go_flamesAI", "dc/d8d/a27050.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
+    [ "UpdateAI", "dc/d8d/a27050.html#a2d4c91f0bff924335881d1096c0af313", null ],
+    [ "timer", "dc/d8d/a27050.html#ae53c7c6c669e982babf304f173b58b1a", null ]
 ];

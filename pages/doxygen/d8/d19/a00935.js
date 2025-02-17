@@ -1,7 +1,8 @@
 var a00935 =
 [
-    [ "ScriptObject", "d4/d7b/a10230.html", "d4/d7b/a10230" ],
-    [ "UpdatableScript< TObject >", "d4/df3/a10234.html", "d4/df3/a10234" ],
-    [ "MapScript< TMap >", "d4/dff/a10238.html", "d4/dff/a10238" ],
-    [ "VISIBLE_RANGE", "d8/d19/a00935.html#ac7e3013df774904b0d331e5b0c6e93ad", null ]
+    [ "instance_trial_of_the_champion", "d6/d5e/a16138.html", "d6/d5e/a16138" ],
+    [ "instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript", "d8/dac/a16142.html", "d8/dac/a16142" ],
+    [ "CLEANUP_CHECK_INTERVAL", "d8/d19/a00935.html#a736c9181af440341040d67d6b54e5700", null ],
+    [ "AddSC_instance_trial_of_the_champion", "d8/d19/a00935.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd", null ],
+    [ "SpawnPosition", "d8/d19/a00935.html#a70438d12d4153aa7d510c89551abf7c9", null ]
 ];

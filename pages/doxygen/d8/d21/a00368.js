@@ -1,7 +1,11 @@
 var a00368 =
 [
-    [ "Tokenize", "d8/d21/a00368.html#ac486e8c9cdad8809eacd83339cdb121d", null ],
-    [ "Tokenize", "d8/d21/a00368.html#a6d70d7cc315896984da481f843d6f95f", null ],
-    [ "Tokenize", "d8/d21/a00368.html#aafa458089884fd3ec682db1762ced09d", null ],
-    [ "Tokenize", "d8/d21/a00368.html#a6b121485ace4118b9006db1fb89f90f2", null ]
+    [ "npc_the_scourge_cauldron", "dc/de8/a13594.html", "dc/de8/a13594" ],
+    [ "npc_the_scourge_cauldron::npc_the_scourge_cauldronAI", "dd/d76/a13598.html", "dd/d76/a13598" ],
+    [ "npc_andorhal_tower", "d6/d95/a13602.html", "d6/d95/a13602" ],
+    [ "npc_andorhal_tower::npc_andorhal_towerAI", "dc/de5/a13606.html", "dc/de5/a13606" ],
+    [ "AndorhalTower", "d8/d21/a00368.html#a07061f0cf471fb1cb236b428c31965c8", [
+      [ "GO_BEACON_TORCH", "d8/d21/a00368.html#a07061f0cf471fb1cb236b428c31965c8ace3e47469a19c76e79a7ae1ca2b4f798", null ]
+    ] ],
+    [ "AddSC_western_plaguelands", "d8/d21/a00368.html#a978fbc9b0f23371fedcca17926c637cb", null ]
 ];

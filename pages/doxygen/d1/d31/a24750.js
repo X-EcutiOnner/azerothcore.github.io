@@ -1,7 +1,6 @@
 var a24750 =
 [
-    [ "HandleScript", "d1/d31/a24750.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
-    [ "PrepareSpellScript", "d1/d31/a24750.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
-    [ "Register", "d1/d31/a24750.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
-    [ "Validate", "d1/d31/a24750.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
+    [ "HandleScriptEffect", "d1/d31/a24750.html#a1ace281bf2fd53722f8328a79369b5df", null ],
+    [ "PrepareSpellScript", "d1/d31/a24750.html#ac9a0019091f291b1b3a770ec57bd83e8", null ],
+    [ "Register", "d1/d31/a24750.html#a821a6b11a177bf7586ab666081ab222a", null ]
 ];

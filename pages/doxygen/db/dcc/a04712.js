@@ -1,8 +1,8 @@
 var a04712 =
 [
-    [ "DisableData", "de/def/a07628.html", "de/def/a07628" ],
-    [ "DisableMap", "db/dcc/a04712.html#a2b8dd8b0bc5f58e812c1bd969ee833d6", null ],
-    [ "DisableTypeMap", "db/dcc/a04712.html#a1dc7ac8fd11c81da83700d364483165a", null ],
-    [ "m_DisableMap", "db/dcc/a04712.html#a15af74f7cffff305a48d31529df515e7", null ],
-    [ "MAX_DISABLE_TYPES", "db/dcc/a04712.html#a55c2ff1d7d10ed3d5f30071472d692fb", null ]
+    [ "fixname2", "db/dcc/a04712.html#ac0029be4572a61d00eb1435db5526a74", null ],
+    [ "fixnamen", "db/dcc/a04712.html#abdc56edc46e0804c456749761cff8daf", null ],
+    [ "GetExtension", "db/dcc/a04712.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
+    [ "GetPlainName", "db/dcc/a04712.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
+    [ "GetPlainName", "db/dcc/a04712.html#a939d4568b4058bf826a517f55cb963af", null ]
 ];

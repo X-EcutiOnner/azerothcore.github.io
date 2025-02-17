@@ -1,8 +1,7 @@
 var a28298 =
 [
-    [ "ADT_file", "d3/d84/a28298.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
-    [ "~ADT_file", "d3/d84/a28298.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
-    [ "free", "d3/d84/a28298.html#a8fc207b8cc83596577166a0008965dc6", null ],
-    [ "prepareLoadedData", "d3/d84/a28298.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
-    [ "a_grid", "d3/d84/a28298.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
+    [ "RealmHandle", "d3/d84/a28298.html#a120fb45f2301188a843ab2e712f768e4", null ],
+    [ "RealmHandle", "d3/d84/a28298.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
+    [ "operator<", "d3/d84/a28298.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
+    [ "Realm", "d3/d84/a28298.html#a31af0d9064a295b1579fce3c80217bfd", null ]
 ];

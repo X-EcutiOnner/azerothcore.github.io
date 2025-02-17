@@ -1,6 +1,6 @@
 var a15042 =
 [
-    [ "npc_death_ravagerAI", "de/da5/a15046.html", "de/da5/a15046" ],
-    [ "npc_death_ravager", "db/dbf/a15042.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
-    [ "GetAI", "db/dbf/a15042.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
+    [ "HandleOnHit", "db/dbf/a15042.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
+    [ "PrepareSpellScript", "db/dbf/a15042.html#a9e568a1608715973fc438ff5e4356714", null ],
+    [ "Register", "db/dbf/a15042.html#a752d697aada626440fdff2bd889f890f", null ]
 ];

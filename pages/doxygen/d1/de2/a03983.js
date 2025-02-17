@@ -1,5 +1,6 @@
 var a03983 =
 [
-    [ "cache_commandscript", "d9/d4f/a11390.html", "d9/d4f/a11390" ],
-    [ "AddSC_cache_commandscript", "d1/de2/a03983.html#a293f65606c1750692d4046d4fe4c4adc", null ]
+    [ "DBUpdater< CharacterDatabaseConnection >", "d1/de2/a03983.html#a753e207671f7af3815a056247f2de3ce", null ],
+    [ "DBUpdater< LoginDatabaseConnection >", "d1/de2/a03983.html#a16a33693c8570aff221401b100547fb7", null ],
+    [ "DBUpdater< WorldDatabaseConnection >", "d1/de2/a03983.html#ace05c45d1df6cb7f16487ef1aa8bc9f7", null ]
 ];

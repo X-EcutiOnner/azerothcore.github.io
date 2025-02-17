@@ -1,5 +1,7 @@
 var a18578 =
 [
-    [ "at_icc_spire_frostwyrm", "d3/d36/a18578.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
-    [ "_OnTrigger", "d3/d36/a18578.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
+    [ "OnPeriodic", "d3/d36/a18578.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
+    [ "PrepareAuraScript", "d3/d36/a18578.html#a87260a1cd06190f5412f3cab0f448a01", null ],
+    [ "Register", "d3/d36/a18578.html#a00827210671b959a030655f6be5edac6", null ],
+    [ "Validate", "d3/d36/a18578.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
 ];

@@ -1,7 +1,6 @@
 var a24906 =
 [
-    [ "HandleStun", "d6/da6/a24906.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
-    [ "PrepareAuraScript", "d6/da6/a24906.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
-    [ "Register", "d6/da6/a24906.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
-    [ "Validate", "d6/da6/a24906.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
+    [ "HandleScriptEffect", "d6/da6/a24906.html#a514697f3fdcbf9274453d6d71c0c4816", null ],
+    [ "PrepareSpellScript", "d6/da6/a24906.html#a5bcff624e9a396a2f90115dc99d93ae9", null ],
+    [ "Register", "d6/da6/a24906.html#aebcc23e4f4a1c5ab90fb06a47755ec2b", null ]
 ];

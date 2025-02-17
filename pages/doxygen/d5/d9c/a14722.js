@@ -1,9 +1,7 @@
 var a14722 =
 [
-    [ "go_ossirian_crystalAI", "d5/d9c/a14722.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
-    [ "DoAction", "d5/d9c/a14722.html#a581436335d190466520c07fde56ad441", null ],
-    [ "GossipHello", "d5/d9c/a14722.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
-    [ "SetGUID", "d5/d9c/a14722.html#a9c983aa02285dbebc545b4056191200c", null ],
-    [ "_instance", "d5/d9c/a14722.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
-    [ "_triggerGUID", "d5/d9c/a14722.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
+    [ "npc_onyxian_lair_guard", "d5/d9c/a14722.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "d5/d9c/a14722.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "d5/d9c/a14722.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "d5/d9c/a14722.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

@@ -1,7 +1,6 @@
 var a25946 =
 [
-    [ "HandleHeal", "d7/d9b/a25946.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "d7/d9b/a25946.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "d7/d9b/a25946.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "d7/d9b/a25946.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "FilterTargets", "d7/d9b/a25946.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
+    [ "PrepareSpellScript", "d7/d9b/a25946.html#a5992d94317d3da7400d5a9ab115e621e", null ],
+    [ "Register", "d7/d9b/a25946.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
 ];

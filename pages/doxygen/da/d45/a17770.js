@@ -1,7 +1,8 @@
 var a17770 =
 [
-    [ "OnRemove", "da/d45/a17770.html#aa096174465120bde1994c85f72682be1", null ],
-    [ "PrepareAuraScript", "da/d45/a17770.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
-    [ "Register", "da/d45/a17770.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
-    [ "Validate", "da/d45/a17770.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
+    [ "HandleScript", "da/d45/a17770.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
+    [ "PrepareSpellScript", "da/d45/a17770.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
+    [ "Register", "da/d45/a17770.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
+    [ "SelectTarget", "da/d45/a17770.html#a36d575c6a63e94905bf435bc9d39e588", null ],
+    [ "Validate", "da/d45/a17770.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
 ];

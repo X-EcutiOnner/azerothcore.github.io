@@ -1,12 +1,9 @@
 var a08010 =
 [
-    [ "GameObjectModelOwnerImpl", "da/d2e/a08010.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
-    [ "DebugVisualizeCorner", "da/d2e/a08010.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
-    [ "GetDisplayId", "da/d2e/a08010.html#a4a694456955c19e76d8c84befc02c920", null ],
-    [ "GetOrientation", "da/d2e/a08010.html#acb968e3bd921aac111a2e06f2604b040", null ],
-    [ "GetPhaseMask", "da/d2e/a08010.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
-    [ "GetPosition", "da/d2e/a08010.html#a9ba2b29d30b38895effe97637e050988", null ],
-    [ "GetScale", "da/d2e/a08010.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
-    [ "IsSpawned", "da/d2e/a08010.html#ae47eb25d16de37122042402443db6f3d", null ],
-    [ "_owner", "da/d2e/a08010.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
+    [ "VendorItem", "da/d2e/a08010.html#ae79c26c304bee575a722f8a82fc79fd2", null ],
+    [ "IsGoldRequired", "da/d2e/a08010.html#a5f335ffdb5d82418cdb4eb7a606692c1", null ],
+    [ "ExtendedCost", "da/d2e/a08010.html#a18234f38ff242b8687265f9acf70dbe0", null ],
+    [ "incrtime", "da/d2e/a08010.html#afe3bb3324faf1beae6ee17c223678e9b", null ],
+    [ "item", "da/d2e/a08010.html#a6b26a96440c885684c173ee17d788896", null ],
+    [ "maxcount", "da/d2e/a08010.html#a98be1e0499d9ae9cfb176063991f72ee", null ]
 ];

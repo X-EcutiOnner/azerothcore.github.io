@@ -1,7 +1,6 @@
 var a23022 =
 [
-    [ "PeriodicTick", "d5/d16/a23022.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
-    [ "PrepareAuraScript", "d5/d16/a23022.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
-    [ "Register", "d5/d16/a23022.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
-    [ "Validate", "d5/d16/a23022.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
+    [ "FilterTargets", "d5/d16/a23022.html#ac20676c292d87276e444bad56d71960d", null ],
+    [ "PrepareSpellScript", "d5/d16/a23022.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
+    [ "Register", "d5/d16/a23022.html#ae356b768872de3e87806c19bf8cccb08", null ]
 ];

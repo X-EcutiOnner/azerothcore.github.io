@@ -1,8 +1,6 @@
 var a15174 =
 [
-    [ "FilterTargets", "d1/d06/a15174.html#a47b8055fa1b28968e8323ca98613aa83", null ],
-    [ "HandleScript", "d1/d06/a15174.html#a8f7984e510d8947a2ae4b0734409866b", null ],
-    [ "PrepareSpellScript", "d1/d06/a15174.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
-    [ "Register", "d1/d06/a15174.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
-    [ "Validate", "d1/d06/a15174.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
+    [ "npc_stillpine_capitiveAI", "d6/d63/a15178.html", "d6/d63/a15178" ],
+    [ "npc_stillpine_capitive", "d1/d06/a15174.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
+    [ "GetAI", "d1/d06/a15174.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
 ];

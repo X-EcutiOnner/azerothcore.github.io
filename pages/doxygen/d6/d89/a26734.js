@@ -1,5 +1,6 @@
 var a26734 =
 [
-    [ "achievement_everything_counts", "d6/d89/a26734.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
-    [ "OnCheck", "d6/d89/a26734.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
+    [ "HandleRemove", "d6/d89/a26734.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "d6/d89/a26734.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "d6/d89/a26734.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

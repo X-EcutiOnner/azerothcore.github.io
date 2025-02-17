@@ -1,9 +1,10 @@
 var a21386 =
 [
-    [ "npc_archmage_landalockAI", "d3/d28/a21386.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "d3/d28/a21386.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "d3/d28/a21386.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "d3/d28/a21386.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "d3/d28/a21386.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "d3/d28/a21386.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d3/d28/a21386.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "d3/d28/a21386.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "d3/d28/a21386.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "d3/d28/a21386.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "d3/d28/a21386.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "d3/d28/a21386.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "d3/d28/a21386.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

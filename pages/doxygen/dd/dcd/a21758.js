@@ -1,6 +1,7 @@
 var a21758 =
 [
-    [ "npc_lord_areteAI", "d7/d5f/a21762.html", "d7/d5f/a21762" ],
-    [ "npc_lord_arete", "dd/dcd/a21758.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "dd/dcd/a21758.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "npc_amberpine_woodsmanAI", "dd/dcd/a21758.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
+    [ "Reset", "dd/dcd/a21758.html#a8da613c7bbaadf331c95667e7a361702", null ],
+    [ "UpdateAI", "dd/dcd/a21758.html#a64dbf41424a710c400d51507f6457b41", null ],
+    [ "_events", "dd/dcd/a21758.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
 ];

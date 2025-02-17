@@ -1,6 +1,9 @@
 var a11326 =
 [
-    [ "rainChance", "d2/ddb/a04687.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
-    [ "snowChance", "d2/ddb/a04687.html#ga474650c5237c4a7428e858775fea7b86", null ],
-    [ "stormChance", "d2/ddb/a04687.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
+    [ "CreatureTextLocalizer", "d0/dfa/a11326.html#a799f1007b9977224d71da1451c3454e1", null ],
+    [ "~CreatureTextLocalizer", "d0/dfa/a11326.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
+    [ "operator()", "d0/dfa/a11326.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
+    [ "_builder", "d0/dfa/a11326.html#a1d8d97d3e423810d044a8155b182899d", null ],
+    [ "_msgType", "d0/dfa/a11326.html#adf9260955b0141e85ff47c66350244e2", null ],
+    [ "_packetCache", "d0/dfa/a11326.html#a660b352a1c1855f4b10a8aebef88133f", null ]
 ];

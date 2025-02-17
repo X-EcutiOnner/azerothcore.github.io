@@ -1,7 +1,7 @@
 var a28258 =
 [
-    [ "asyncId", "d5/dcc/a28258.html#afd18849875b4562e4a532903676ce25d", null ],
-    [ "flags", "d5/dcc/a28258.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
-    [ "offsMCNK", "d5/dcc/a28258.html#a063c5dc62c44038e882340221bf8228a", null ],
-    [ "size", "d5/dcc/a28258.html#a47a5eeb595d53de009651ae02d2b416d", null ]
+    [ "TalentSpellPos", "d5/dcc/a28258.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "d5/dcc/a28258.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "d5/dcc/a28258.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "d5/dcc/a28258.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

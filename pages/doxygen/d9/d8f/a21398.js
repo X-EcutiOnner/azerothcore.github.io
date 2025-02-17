@@ -1,9 +1,7 @@
 var a21398 =
 [
-    [ "npc_minigob_manabonk", "d9/d8f/a21398.html#aade5e005b68b25ede4e653629390ceb9", null ],
-    [ "Reset", "d9/d8f/a21398.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
-    [ "SelectTargetInDalaran", "d9/d8f/a21398.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
-    [ "SendMailToPlayer", "d9/d8f/a21398.html#a1973b7885c9fce15aab9843722bf112e", null ],
-    [ "UpdateAI", "d9/d8f/a21398.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
-    [ "playerGUID", "d9/d8f/a21398.html#ac8dccd333691f717fdbffe22126330d5", null ]
+    [ "npc_bonker_togglevoltAI", "da/dd3/a21402.html", "da/dd3/a21402" ],
+    [ "npc_bonker_togglevolt", "d9/d8f/a21398.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
+    [ "GetAI", "d9/d8f/a21398.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
+    [ "OnQuestAccept", "d9/d8f/a21398.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
 ];

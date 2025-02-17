@@ -1,6 +1,5 @@
 var a17042 =
 [
-    [ "ModAuraStack", "d3/d91/a17042.html#a7535ef148e047e32a5f7a1944585e396", null ],
-    [ "PrepareSpellScript", "d3/d91/a17042.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
-    [ "Register", "d3/d91/a17042.html#ab44b362197e74b98b3ffeb98eff52742", null ]
+    [ "achievement_share_the_love", "d3/d91/a17042.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
+    [ "OnCheck", "d3/d91/a17042.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
 ];

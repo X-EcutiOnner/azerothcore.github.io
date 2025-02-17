@@ -1,9 +1,8 @@
 var a22930 =
 [
-    [ "CalcPeriodic", "d1/d65/a22930.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
-    [ "HandleEffectApply", "d1/d65/a22930.html#adb983cc531fa666648bbdb432684ff1d", null ],
-    [ "HandleEffectRemove", "d1/d65/a22930.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
-    [ "OnPeriodic", "d1/d65/a22930.html#aecefab535157dbe8e42aff3b23cd685b", null ],
-    [ "PrepareAuraScript", "d1/d65/a22930.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
-    [ "Register", "d1/d65/a22930.html#a3771abcc829883ba0cbae9587adbe751", null ]
+    [ "CalculateAmount", "d1/d65/a22930.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
+    [ "OnPeriodic", "d1/d65/a22930.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
+    [ "PrepareAuraScript", "d1/d65/a22930.html#a1278420b279449c1c6a53b1a7b53f539", null ],
+    [ "Register", "d1/d65/a22930.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
+    [ "Validate", "d1/d65/a22930.html#a601c2db3a8e47d48b956ed102cbca104", null ]
 ];

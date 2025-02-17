@@ -1,6 +1,7 @@
 var a08338 =
 [
-    [ "active", "de/d8f/a08338.html#a9460571d6fc219ab8c475aab34fc9494", null ],
-    [ "state", "de/d8f/a08338.html#a0600418cb460fdaf8093bfa609e796c8", null ],
-    [ "type", "de/d8f/a08338.html#a4c4a7d0f299ae4e2ceb146a741057032", null ]
+    [ "AddToGrid", "de/d8f/a08338.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
+    [ "IsInGrid", "de/d8f/a08338.html#a996724d21d62e478f50031faa7637cd5", null ],
+    [ "RemoveFromGrid", "de/d8f/a08338.html#a29740a98fea7db66cdffd824940a2ec2", null ],
+    [ "_gridRef", "de/d8f/a08338.html#aa44ba47734267ac07b733f218623f3c5", null ]
 ];

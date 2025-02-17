@@ -1,6 +1,6 @@
 var a23514 =
 [
-    [ "AfterRemove", "d0/d9d/a23514.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d0/d9d/a23514.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d0/d9d/a23514.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "npc_millhouse_manastormAI", "dc/dbf/a23518.html", "dc/dbf/a23518" ],
+    [ "npc_millhouse_manastorm", "d0/d9d/a23514.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "d0/d9d/a23514.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

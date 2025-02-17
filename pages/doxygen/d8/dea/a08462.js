@@ -1,9 +1,8 @@
 var a08462 =
 [
-    [ "achievements", "d8/dea/a08462.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
-    [ "items", "d8/dea/a08462.html#a2873836588f37b9a5cf691da2b6fa715", null ],
-    [ "levelMax", "d8/dea/a08462.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
-    [ "levelMin", "d8/dea/a08462.html#a823016216268e13116a46bcb40ea0e70", null ],
-    [ "quests", "d8/dea/a08462.html#a6150aa58762a13dcbfcb55507df77809", null ],
-    [ "reqItemLevel", "d8/dea/a08462.html#a97f262e488e178dad0c33f228808f69e", null ]
+    [ "IsInSpec", "d8/dea/a08462.html#a77968b5562467f85bda04b6f2f41ca29", null ],
+    [ "inSpellBook", "d8/dea/a08462.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
+    [ "specMask", "d8/dea/a08462.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
+    [ "State", "d8/dea/a08462.html#a062758af7e92f7e2263ca0a0fd329151", null ],
+    [ "talentID", "d8/dea/a08462.html#aca9b191361652002f5178179a939e41b", null ]
 ];

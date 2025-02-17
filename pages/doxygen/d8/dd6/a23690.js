@@ -1,7 +1,6 @@
 var a23690 =
 [
-    [ "npc_daranelleAI", "d8/dd6/a23690.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d8/dd6/a23690.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d8/dd6/a23690.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d8/dd6/a23690.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "HandleScriptEffect", "d8/dd6/a23690.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
+    [ "PrepareSpellScript", "d8/dd6/a23690.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
+    [ "Register", "d8/dd6/a23690.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
 ];

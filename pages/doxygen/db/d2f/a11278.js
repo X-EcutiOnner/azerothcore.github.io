@@ -1,7 +1,6 @@
 var a11278 =
 [
-    [ "CompressedData", "db/d2f/a11278.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
-    [ "CompressedSize", "db/d2f/a11278.html#ab57879b41c825623a989db13a53f2f4e", null ],
-    [ "Id", "db/d2f/a11278.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
-    [ "Key", "db/d2f/a11278.html#ad100540b5c6722a19c938b134a985aed", null ]
+    [ "AuraProcHandler", "db/d2f/a11278.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
+    [ "Call", "db/d2f/a11278.html#abc0c3be9dee08e995c282f20900f3c46", null ],
+    [ "_HandlerScript", "db/d2f/a11278.html#ada8d7a5659598b0092739a91ba2653bd", null ]
 ];

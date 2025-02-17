@@ -1,5 +1,9 @@
 var a09434 =
 [
-    [ "bossId", "db/d55/a09434.html#ac7be12fc714b2760399185e96b01efe0", null ],
-    [ "entry", "db/d55/a09434.html#adae739bf9cf30d1a8ca5c5790dc61c01", null ]
+    [ "WorldPacketList", "db/d55/a09434.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
+    [ "LocalizedPacketListDo", "db/d55/a09434.html#ab52133e238752f725f18580018a84cd2", null ],
+    [ "~LocalizedPacketListDo", "db/d55/a09434.html#a8442452027bcb5c98d60830e016803b5", null ],
+    [ "operator()", "db/d55/a09434.html#adea9610e36d436563ba1f472481aed85", null ],
+    [ "i_builder", "db/d55/a09434.html#a83bda52b10d30f7fd633c285b79e740b", null ],
+    [ "i_data_cache", "db/d55/a09434.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
 ];

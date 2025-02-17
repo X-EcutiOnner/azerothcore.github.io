@@ -1,6 +1,6 @@
 var a20430 =
 [
-    [ "npc_xt002_pummellerAI", "d6/d5b/a20434.html", "d6/d5b/a20434" ],
-    [ "npc_xt002_pummeller", "db/d6c/a20430.html#af620e31a231ca8fb812324521bad4673", null ],
-    [ "GetAI", "db/d6c/a20430.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
+    [ "boss_thorim_sifAI", "d6/d5b/a20434.html", "d6/d5b/a20434" ],
+    [ "boss_thorim_sif", "db/d6c/a20430.html#a71ef8a92f648cbea6553ed1cc657f13d", null ],
+    [ "GetAI", "db/d6c/a20430.html#ae4eadf2bf83c41a8f05b853267b5fcf9", null ]
 ];

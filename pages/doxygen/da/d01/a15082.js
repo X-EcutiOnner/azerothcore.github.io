@@ -1,7 +1,7 @@
 var a15082 =
 [
-    [ "npc_kerlonianAI", "dc/d2f/a15086.html", "dc/d2f/a15086" ],
-    [ "npc_kerlonian", "da/d01/a15082.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "da/d01/a15082.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "da/d01/a15082.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "npc_anubisath_warder", "da/d01/a15082.html#aebe14673e5c31000a9626e39d87c6775", null ],
+    [ "JustEngagedWith", "da/d01/a15082.html#a579318fa519eb669573b2cea78c2fee3", null ],
+    [ "Reset", "da/d01/a15082.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
+    [ "UpdateAI", "da/d01/a15082.html#aba428f1f1a016191aa4f168c616c3a29", null ]
 ];

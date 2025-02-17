@@ -1,6 +1,5 @@
 var a19850 =
 [
-    [ "FilterTargets", "df/d53/a19850.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "df/d53/a19850.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "df/d53/a19850.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "achievement_flame_leviathan_shutout", "df/d53/a19850.html#a555e0d206b7f730665d301c7e03b23e6", null ],
+    [ "OnCheck", "df/d53/a19850.html#af548232f563fd387bc8ee25b696a2f99", null ]
 ];

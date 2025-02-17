@@ -1,8 +1,9 @@
 var a09298 =
 [
-    [ "flags", "d8/db6/a09298.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "d8/db6/a09298.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "d8/db6/a09298.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "d8/db6/a09298.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "d8/db6/a09298.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "AnyFriendlyUnitInObjectRangeCheck", "d8/db6/a09298.html#a4ed3a469f35cb7b64ad5f144281b7910", null ],
+    [ "operator()", "d8/db6/a09298.html#a6e1026191fd4b1b45696a60f45b1b7b8", null ],
+    [ "i_funit", "d8/db6/a09298.html#a9ebd1a1d9716dfda55509396947c1a83", null ],
+    [ "i_obj", "d8/db6/a09298.html#adacade7450b0af19540ea705e1bd438b", null ],
+    [ "i_playerOnly", "d8/db6/a09298.html#a6b0d852333ee74a20281ce7de5a45b98", null ],
+    [ "i_range", "d8/db6/a09298.html#a2af638499152888a698b0fc1570e46ed", null ]
 ];

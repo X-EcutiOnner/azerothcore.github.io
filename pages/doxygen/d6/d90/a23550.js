@@ -1,6 +1,6 @@
 var a23550 =
 [
-    [ "HandleScriptEffect", "d6/d90/a23550.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
-    [ "PrepareSpellScript", "d6/d90/a23550.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
-    [ "Register", "d6/d90/a23550.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d4/dcc/a23554.html", "d4/dcc/a23554" ],
+    [ "instance_arcatraz", "d6/d90/a23550.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "d6/d90/a23550.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];

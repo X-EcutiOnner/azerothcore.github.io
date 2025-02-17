@@ -1,7 +1,8 @@
 var a11746 =
 [
-    [ "boss_magmusAI", "dd/d9e/a11746.html#a8a3e5361bda492007013af9228899b8f", null ],
-    [ "JustEngagedWith", "dd/d9e/a11746.html#a11e4868628564078997694373315a9d6", null ],
-    [ "Reset", "dd/d9e/a11746.html#a5fe304cec86831b7e64f83caee1392d0", null ],
-    [ "UpdateAI", "dd/d9e/a11746.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
+    [ "ironhand_guardianAI", "dd/d9e/a11746.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
+    [ "SetData", "dd/d9e/a11746.html#ab4e6402951bf45910fb3399ea107b207", null ],
+    [ "UpdateAI", "dd/d9e/a11746.html#a095b11f44935c8ddb43a20c095495507", null ],
+    [ "events", "dd/d9e/a11746.html#a13ed887285809d2fcad0d23fdf37face", null ],
+    [ "flames_enabled", "dd/d9e/a11746.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
 ];

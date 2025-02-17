@@ -1,7 +1,16 @@
 var a23718 =
 [
-    [ "HandleEffect", "d0/d96/a23718.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d0/d96/a23718.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d0/d96/a23718.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d0/d96/a23718.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "instance_the_eye_InstanceMapScript", "d0/d96/a23718.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
+    [ "GetGuidData", "d0/d96/a23718.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
+    [ "OnCreatureCreate", "d0/d96/a23718.html#a8a89f56945022e34cc5d9ead06a58b63", null ],
+    [ "OnGameObjectCreate", "d0/d96/a23718.html#a56c6933c2c231c228ca147107fbfc930", null ],
+    [ "AlarGUID", "d0/d96/a23718.html#a2a5323d92963da3b4b99ef1f7debaa4d", null ],
+    [ "BridgeWindowGUID", "d0/d96/a23718.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
+    [ "GrandAstromancerCapernianGUID", "d0/d96/a23718.html#aa8e267617231a7816a43e9957c745c58", null ],
+    [ "KaelStateLeftGUID", "d0/d96/a23718.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
+    [ "KaelStateRightGUID", "d0/d96/a23718.html#a25ba703325800d2976eff860437f3d57", null ],
+    [ "KaelthasGUID", "d0/d96/a23718.html#a547528fbfe31974759b0e6fbdf12df31", null ],
+    [ "LordSanguinarGUID", "d0/d96/a23718.html#a5794e1c326ad2eb4fee2bdfab8261257", null ],
+    [ "MasterEngineerTelonicusGUID", "d0/d96/a23718.html#abded7dc13c226ccad53c151d75ced243", null ],
+    [ "ThaladredTheDarkenerGUID", "d0/d96/a23718.html#ada64ef9f71d61ea19144cec596ba06e2", null ]
 ];

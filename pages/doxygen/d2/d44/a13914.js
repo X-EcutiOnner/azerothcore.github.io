@@ -1,7 +1,6 @@
 var a13914 =
 [
-    [ "GetEmptyEntry", "d2/d44/a13914.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "d2/d44/a13914.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "d2/d44/a13914.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "d2/d44/a13914.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "LaunchHit", "d2/d44/a13914.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
+    [ "PrepareSpellScript", "d2/d44/a13914.html#a4ad316b68d84921255577aedabb5ad3f", null ],
+    [ "Register", "d2/d44/a13914.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
 ];

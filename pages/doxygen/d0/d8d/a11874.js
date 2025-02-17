@@ -1,6 +1,7 @@
 var a11874 =
 [
-    [ "boss_rend_blackhandAI", "da/d27/a11878.html", "da/d27/a11878" ],
-    [ "boss_rend_blackhand", "d0/d8d/a11874.html#afd12818c33de25332bf207f30c8490a1", null ],
-    [ "GetAI", "d0/d8d/a11874.html#aed65d31a5a841af8aed015555bf811cb", null ]
+    [ "boss_moira_bronzebeardAI", "d0/d8d/a11874.html#a11265b6aad76574c2c76253128c79165", null ],
+    [ "CastOnEmperorIfPossible", "d0/d8d/a11874.html#a3f42c37e9f4cc14974106bf67ee4e583", null ],
+    [ "JustEngagedWith", "d0/d8d/a11874.html#a40ae00eb86e2bec048a9394d4deef106", null ],
+    [ "UpdateAI", "d0/d8d/a11874.html#ae3f22a059330fb564cd30e581fc0198d", null ]
 ];

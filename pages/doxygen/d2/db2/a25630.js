@@ -1,8 +1,7 @@
 var a25630 =
 [
-    [ "HandleScript", "d2/db2/a25630.html#ad99c741ef4bf707ec4b4726a3610d827", null ],
-    [ "Load", "d2/db2/a25630.html#ab7aac5c557c76fdd195565a99d746dc9", null ],
-    [ "PrepareSpellScript", "d2/db2/a25630.html#abb6e76d537d61b5b38ce4488d230d6de", null ],
-    [ "Register", "d2/db2/a25630.html#a2f7e819dfa30f4f0d3645fde9c87408c", null ],
-    [ "Validate", "d2/db2/a25630.html#a0767c66cbc288bee6ee0eb3a4fde315f", null ]
+    [ "HandleDummy", "d2/db2/a25630.html#ad6d449ac393851166d8be653639c7d05", null ],
+    [ "PrepareSpellScript", "d2/db2/a25630.html#acb0b66631c0b3df227ee371e2e4000ac", null ],
+    [ "Register", "d2/db2/a25630.html#a8dcd509be4d9034e8c0262bdcb2cf189", null ],
+    [ "Validate", "d2/db2/a25630.html#af8f4e6bb32120c8113ddddcda17ae51d", null ]
 ];

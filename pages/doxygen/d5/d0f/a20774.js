@@ -1,8 +1,6 @@
 var a20774 =
 [
-    [ "boss_keleseth", "d5/d0f/a20774.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "d5/d0f/a20774.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "d5/d0f/a20774.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "d5/d0f/a20774.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "d5/d0f/a20774.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "FilterTargets", "d5/d0f/a20774.html#a7efa78a7991b7ca859c7d622f973265d", null ],
+    [ "PrepareSpellScript", "d5/d0f/a20774.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
+    [ "Register", "d5/d0f/a20774.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
 ];

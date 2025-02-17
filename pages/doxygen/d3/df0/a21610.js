@@ -1,8 +1,6 @@
 var a21610 =
 [
-    [ "npc_ravenous_worgAI", "d3/df0/a21610.html#a5404516869e171c84b774f2a7b8be15d", null ],
-    [ "AttackStart", "d3/df0/a21610.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
-    [ "UpdateAI", "d3/df0/a21610.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
-    [ "_attack", "d3/df0/a21610.html#a3df5c98821ba33a40e25e7b050858b96", null ],
-    [ "_pacified", "d3/df0/a21610.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
+    [ "npc_heated_battleAI", "d3/df0/a21610.html#a2b73957d7890549f4b02488c5527fcef", null ],
+    [ "DamageTaken", "d3/df0/a21610.html#a8422c157214195d7166ede35c9c05d19", null ],
+    [ "Reset", "d3/df0/a21610.html#a11a4f3270ff260e30da89017dad38433", null ]
 ];

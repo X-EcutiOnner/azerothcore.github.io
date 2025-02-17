@@ -1,6 +1,5 @@
 var a15714 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "d0/d35/a15718.html", "d0/d35/a15718" ],
-    [ "instance_obsidian_sanctum", "da/d13/a15714.html#a6cf2121c4167156f5748c144372b3c0b", null ],
-    [ "GetInstanceScript", "da/d13/a15714.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
+    [ "PrepareAuraScript", "da/d13/a15714.html#a94b3a8e0a610afa69c3a9771f8f22b13", null ],
+    [ "Register", "da/d13/a15714.html#a1203cbec26f64aa97d10783b567c2d62", null ]
 ];

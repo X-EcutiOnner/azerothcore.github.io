@@ -1,7 +1,8 @@
 var a19022 =
 [
-    [ "boss_commander_stoutbeard", "d2/d7c/a19022.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
-    [ "JustDied", "d2/d7c/a19022.html#a2fd835408045715058ba476aa56cb4f7", null ],
-    [ "JustEngagedWith", "d2/d7c/a19022.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
-    [ "KilledUnit", "d2/d7c/a19022.html#acf7016c65f020dca9228bd2d2fd89299", null ]
+    [ "npc_teslaAI", "d2/d7c/a19022.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "d2/d7c/a19022.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "d2/d7c/a19022.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "d2/d7c/a19022.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "d2/d7c/a19022.html#a962745569b07e368067ee483d2379840", null ]
 ];

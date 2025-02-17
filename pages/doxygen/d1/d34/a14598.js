@@ -1,7 +1,7 @@
 var a14598 =
 [
-    [ "npc_onyxian_lair_guard", "d1/d34/a14598.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "d1/d34/a14598.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "d1/d34/a14598.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "d1/d34/a14598.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "npc_cos_chromie_middle", "d1/d34/a14598.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "d1/d34/a14598.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "d1/d34/a14598.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "d1/d34/a14598.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
 ];

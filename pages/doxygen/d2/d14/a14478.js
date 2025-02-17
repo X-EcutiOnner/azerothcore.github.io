@@ -1,6 +1,7 @@
 var a14478 =
 [
-    [ "npc_cos_stratholme_citizienAI", "dc/d30/a14482.html", "dc/d30/a14482" ],
-    [ "npc_cos_stratholme_citizien", "d2/d14/a14478.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "d2/d14/a14478.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "OnPeriodic", "d2/d14/a14478.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
+    [ "PrepareAuraScript", "d2/d14/a14478.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
+    [ "Register", "d2/d14/a14478.html#aeb388d608830aeb3b30f707304403b41", null ],
+    [ "Validate", "d2/d14/a14478.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
 ];

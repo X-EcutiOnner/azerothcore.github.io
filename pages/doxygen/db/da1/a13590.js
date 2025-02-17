@@ -1,22 +1,10 @@
 var a13590 =
 [
-    [ "instance_zulaman_InstanceMapScript", "db/da1/a13590.html#a55a0c486845dc63865cf557271304c20", null ],
-    [ "CheckInstanceStatus", "db/da1/a13590.html#a195e4175f943bfaf42ded378cde928e4", null ],
-    [ "DoAction", "db/da1/a13590.html#ad5eed417fb2a38a1b02bc6275e9f229a", null ],
-    [ "GetData", "db/da1/a13590.html#ad6c1123183e28dd91f78a993a79bf3e8", null ],
-    [ "Initialize", "db/da1/a13590.html#a070925eb76b8af866819844411da1beb", null ],
-    [ "OnCreatureCreate", "db/da1/a13590.html#a92d7ca86c2ecbad6a64a2bc7131b7260", null ],
-    [ "OnCreatureEvade", "db/da1/a13590.html#a654947f2b1dce457f56327e7dff8ccf4", null ],
-    [ "OnGameObjectCreate", "db/da1/a13590.html#a4545b6c8ff9e9908466ce105b484ef70", null ],
-    [ "OnPlayerEnter", "db/da1/a13590.html#a1cf2834e928692c69fdfcf7ae8910745", null ],
-    [ "OnUnitDeath", "db/da1/a13590.html#a5cb0702b7cad42f0760d360dfc3345f3", null ],
-    [ "ResetAkilzonGauntlet", "db/da1/a13590.html#a1623080f2466aeca03f048decc34bdb5", null ],
-    [ "SetBossState", "db/da1/a13590.html#a79b3f358115fecb63e1cfb45801fdffb", null ],
-    [ "SetData", "db/da1/a13590.html#a7381d84943028f66b339168724b467b8", null ],
-    [ "StartAkilzonGauntlet", "db/da1/a13590.html#a16b67dce6407db52ec7571c9bbc9f8c5", null ],
-    [ "SummonHostage", "db/da1/a13590.html#a907b3f4a59cbd366f702daeffe05d607", null ],
-    [ "Update", "db/da1/a13590.html#a826800c63083d2af31847118c8b05e57", null ],
-    [ "_akilzonGauntlet", "db/da1/a13590.html#a57cf874e315f0f9686b684151c37e740", null ],
-    [ "AkilzonTrash", "db/da1/a13590.html#a9f2fc91191dfaac5218f95fed71e2bcf", null ],
-    [ "RandVendor", "db/da1/a13590.html#ae1e7cad436566533b7673438884e6210", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "db/da1/a13590.html#af7d495f489979690615d091bbd9d539b", null ],
+    [ "CanAIAttack", "db/da1/a13590.html#af332a66852c9499912d8ef4959f394f5", null ],
+    [ "InitializeAI", "db/da1/a13590.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
+    [ "JustRespawned", "db/da1/a13590.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
+    [ "Reset", "db/da1/a13590.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
+    [ "UpdateAI", "db/da1/a13590.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
+    [ "_events", "db/da1/a13590.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
 ];

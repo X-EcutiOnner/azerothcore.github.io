@@ -1,20 +1,12 @@
 var a17270 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "d3/df0/a17270.html#aa29123d2482962c17a48e66db205207b", null ],
-    [ "AttackStart", "d3/df0/a17270.html#a7b5de4a7fd5fd49847a749a82d3dbb3e", null ],
-    [ "CanAIAttack", "d3/df0/a17270.html#a2e0d4d678cf315ac1d58e6bab290479f", null ],
-    [ "DamageTaken", "d3/df0/a17270.html#afd7e3b65e8091e5f24367c8de65df200", null ],
-    [ "DoAction", "d3/df0/a17270.html#ae57b20a747ec0421f28f6d12a55d48d3", null ],
-    [ "EnterEvadeMode", "d3/df0/a17270.html#ac3ab7ebfd6ae536743d557bb26434d28", null ],
-    [ "JustEngagedWith", "d3/df0/a17270.html#ad2693aba63dec87b5d57aeac7969819a", null ],
-    [ "SetData", "d3/df0/a17270.html#a5416f116eb1a8707d546c99af157642d", null ],
-    [ "sGossipSelect", "d3/df0/a17270.html#ad6362193938539f78d3726687f03badc", null ],
-    [ "UpdateAI", "d3/df0/a17270.html#a7fe22201514986bc20fbe9e7f27d410a", null ],
-    [ "_controller", "d3/df0/a17270.html#aec8a2a424ff10099437cbc7e7ca03ae3", null ],
-    [ "_events", "d3/df0/a17270.html#ab72a5bf5b6313b51002ff96ca8ee4971", null ],
-    [ "_firstMageCooldown", "d3/df0/a17270.html#a7cb5e81a09283c1ca915ec4419363af4", null ],
-    [ "_instance", "d3/df0/a17270.html#a5d6a8a6c7b0469de2151c9363d63c0ce", null ],
-    [ "_mortarYellCooldown", "d3/df0/a17270.html#af13f2f59692b16ad24d17442efe9f834", null ],
-    [ "_riflemanYellCooldown", "d3/df0/a17270.html#ac7f039bb890fdd08dc616f23680d37e4", null ],
-    [ "checkTimer", "d3/df0/a17270.html#a0416f980547177f722cdd4305823d99e", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "d3/df0/a17270.html#a4313164857ebd174fe33a9a16340b332", null ],
+    [ "DoAction", "d3/df0/a17270.html#a16eeb7d0ed6c943c088285462131cd51", null ],
+    [ "MovementInform", "d3/df0/a17270.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
+    [ "Reset", "d3/df0/a17270.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
+    [ "SpellHit", "d3/df0/a17270.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
+    [ "UpdateAI", "d3/df0/a17270.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
+    [ "_events", "d3/df0/a17270.html#ae7079b335373cc06a040756328e7f714", null ],
+    [ "_guardList", "d3/df0/a17270.html#a1cbd87af34584979b37dfff8b29f9623", null ],
+    [ "_instance", "d3/df0/a17270.html#af1d8694678b10e5393c658ba0b20f47a", null ]
 ];

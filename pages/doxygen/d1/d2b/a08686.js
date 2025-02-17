@@ -1,7 +1,11 @@
 var a08686 =
 [
-    [ "EquipementIdPrev", "d1/d2b/a08686.html#a719c716f8914a200bfde4f5bb3275f26", null ],
-    [ "EquipmentId", "d1/d2b/a08686.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
-    [ "ModelId", "d1/d2b/a08686.html#ade2b2413020be410428b9fee9aa284d6", null ],
-    [ "ModelIdPrev", "d1/d2b/a08686.html#a9de7aa11788b22692738b72718193057", null ]
+    [ "SpellPeriodicAuraLogInfo", "d1/d2b/a08686.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
+    [ "absorb", "d1/d2b/a08686.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
+    [ "auraEff", "d1/d2b/a08686.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
+    [ "critical", "d1/d2b/a08686.html#a51041b901727b4f595d2a886520626ff", null ],
+    [ "damage", "d1/d2b/a08686.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
+    [ "multiplier", "d1/d2b/a08686.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
+    [ "overDamage", "d1/d2b/a08686.html#a51904be3790c99bded697b2cf7c8db23", null ],
+    [ "resist", "d1/d2b/a08686.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
 ];

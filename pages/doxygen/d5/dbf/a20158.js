@@ -1,8 +1,9 @@
 var a20158 =
 [
-    [ "npc_ulduar_magnetic_coreAI", "d5/dbf/a20158.html#a585437dff0c49ac1a6bf7929ab266ff5", null ],
-    [ "SetData", "d5/dbf/a20158.html#a27c31856d2bfe3228ae3b0b361064d7a", null ],
-    [ "UpdateAI", "d5/dbf/a20158.html#ab9113a021844aa7ea8ac46df9c50b205", null ],
-    [ "despawnTimer", "d5/dbf/a20158.html#ad244ccbaeda814b9e56fad93f06f12fe", null ],
-    [ "pInstance", "d5/dbf/a20158.html#a3e01c612a689d89bdbe3529c429a413d", null ]
+    [ "HandleEffectPeriodic", "d5/dbf/a20158.html#adc6e83abb52a21528c07a1d989818dcf", null ],
+    [ "OnApply", "d5/dbf/a20158.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
+    [ "OnRemove", "d5/dbf/a20158.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
+    [ "PrepareAuraScript", "d5/dbf/a20158.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
+    [ "Register", "d5/dbf/a20158.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
+    [ "Validate", "d5/dbf/a20158.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
 ];

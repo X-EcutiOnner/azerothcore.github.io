@@ -1,13 +1,7 @@
 var a12058 =
 [
-    [ "boss_nefarian", "d9/dc7/a12058.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
-    [ "JustDied", "d9/dc7/a12058.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
-    [ "JustEngagedWith", "d9/dc7/a12058.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
-    [ "KilledUnit", "d9/dc7/a12058.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
-    [ "MovementInform", "d9/dc7/a12058.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
-    [ "PathEndReached", "d9/dc7/a12058.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
-    [ "Reset", "d9/dc7/a12058.html#a5d687fce34b17e22c605c263395e823b", null ],
-    [ "UpdateAI", "d9/dc7/a12058.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
-    [ "_introDone", "d9/dc7/a12058.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
-    [ "classesPresent", "d9/dc7/a12058.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
+    [ "boss_warmastervooneAI", "d9/dc7/a12058.html#aa22519c8d3037cf07c275080b9bedcaf", null ],
+    [ "DamageTaken", "d9/dc7/a12058.html#adce28de25fa74557000d60188346e2d2", null ],
+    [ "ExecuteEvent", "d9/dc7/a12058.html#ac9dc6ef78503a87ea68d0e232b0376da", null ],
+    [ "JustEngagedWith", "d9/dc7/a12058.html#ac419c5118a45264e24e391f7575d90fb", null ]
 ];

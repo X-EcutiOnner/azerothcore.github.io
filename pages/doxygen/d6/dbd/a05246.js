@@ -1,4 +1,8 @@
 var a05246 =
 [
-    [ "InvalidAppenderArgsException", "d6/dbd/a05246.html#a5cfc42ea2456b9c7d60f06a1d469f1ae", null ]
+    [ "Count", "d6/dbd/a05246.html#a4ab8f061208d7733ee65ba768f85f513", null ],
+    [ "GetElements", "d6/dbd/a05246.html#af75467b56830b1447bebbf974b2747b6", null ],
+    [ "GetElements", "d6/dbd/a05246.html#abbdfddc576af5f2d49dddf5e49ad2864", null ],
+    [ "insert", "d6/dbd/a05246.html#a026880bb3378687143ed19fa7b99b41b", null ],
+    [ "i_elements", "d6/dbd/a05246.html#a8ef4a180d448dcba2141fc389621433d", null ]
 ];

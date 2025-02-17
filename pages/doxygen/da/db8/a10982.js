@@ -1,12 +1,8 @@
 var a10982 =
 [
-    [ "cooldown", "da/db8/a10982.html#a0cd88c27979ccc5284aa46846db32a7c", null ],
-    [ "customChance", "da/db8/a10982.html#adf6742b70f0b00abddf1da6f45da3d16", null ],
-    [ "ppmRate", "da/db8/a10982.html#a931b2df4a187482e32ef252c3320080a", null ],
-    [ "procEx", "da/db8/a10982.html#a911770f28fe36243593b12fe92d6fbec", null ],
-    [ "procFlags", "da/db8/a10982.html#af253ef32b9de49fe85d0fe6f06855a60", null ],
-    [ "procPhase", "da/db8/a10982.html#a179d83770a02e4ab13f809ed3943a399", null ],
-    [ "schoolMask", "da/db8/a10982.html#a9a6d38ee4e4a35066780ef924c63f92f", null ],
-    [ "spellFamilyMask", "da/db8/a10982.html#a2aa57bf419ab51129fe7240750ee8910", null ],
-    [ "spellFamilyName", "da/db8/a10982.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a", null ]
+    [ "SkillExtraItemEntry", "da/db8/a10982.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
+    [ "SkillExtraItemEntry", "da/db8/a10982.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
+    [ "additionalCreateChance", "da/db8/a10982.html#a299d886468e9caf22f9d6ce80a64c247", null ],
+    [ "newMaxOrEntry", "da/db8/a10982.html#adfda967d36154b039495f0b289a5c9d1", null ],
+    [ "requiredSpecialization", "da/db8/a10982.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
 ];

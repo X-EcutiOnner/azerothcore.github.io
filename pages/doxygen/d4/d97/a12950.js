@@ -1,6 +1,9 @@
 var a12950 =
 [
-    [ "instance_stratholme_InstanceMapScript", "df/d9f/a12954.html", "df/d9f/a12954" ],
-    [ "instance_stratholme", "d4/d97/a12950.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
-    [ "GetInstanceScript", "d4/d97/a12950.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
+    [ "npc_risen_guardianAI", "d4/d97/a12950.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
+    [ "IsSummonedBy", "d4/d97/a12950.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
+    [ "KilledUnit", "d4/d97/a12950.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
+    [ "Gandling", "d4/d97/a12950.html#a93013b905260aa51341b22d1627cc986", null ],
+    [ "instance", "d4/d97/a12950.html#a96f1835989f646c708b8ef0cc9999e63", null ],
+    [ "room", "d4/d97/a12950.html#a5862a184b6daa92da133cc6c360a993d", null ]
 ];

@@ -1,7 +1,9 @@
 var a17302 =
 [
-    [ "npc_gunship_boarding_leaderAI", "db/d01/a17302.html#ac20099905fd6fddda2561b88cf077b77", null ],
-    [ "JustEngagedWith", "db/d01/a17302.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
-    [ "UpdateAI", "db/d01/a17302.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
-    [ "_events", "db/d01/a17302.html#affb899bbaa288e72a48d5518367b023d", null ]
+    [ "FilterTargetsInitial", "db/d01/a17302.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "db/d01/a17302.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "db/d01/a17302.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "db/d01/a17302.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "db/d01/a17302.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "db/d01/a17302.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

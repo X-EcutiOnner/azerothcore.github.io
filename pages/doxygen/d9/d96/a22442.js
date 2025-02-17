@@ -1,18 +1,14 @@
 var a22442 =
 [
-    [ "npc_akama_illidan", "d9/d96/a22442.html#ae300c0493c788863d69a7d9f5ab40ff5", null ],
-    [ "DamageTaken", "d9/d96/a22442.html#a4b95cb3a3502805a915f7c6751ecf70c", null ],
-    [ "DoAction", "d9/d96/a22442.html#af68f04faaf8a1893a82674cf1f2dd453", null ],
-    [ "JustEngagedWith", "d9/d96/a22442.html#a8c78b3586673ee9e330272494ee74eab", null ],
-    [ "JustReachedHome", "d9/d96/a22442.html#a8804c0e0b77673fee6beb3c0cd58be59", null ],
-    [ "JustSummoned", "d9/d96/a22442.html#a54b185a813a4271eef06173b8109d6cf", null ],
-    [ "KilledUnit", "d9/d96/a22442.html#a7838b6161a2ea9e0231f142a534de767", null ],
-    [ "MovementInform", "d9/d96/a22442.html#a32116d23bd508d9791f31fbc257398d0", null ],
-    [ "PathEndReached", "d9/d96/a22442.html#abd9dd31fe80a96d656c7dafd77564ad0", null ],
-    [ "Reset", "d9/d96/a22442.html#ac3af6f0ddb0f07a6a254e2c0b3bd3ef0", null ],
-    [ "sGossipSelect", "d9/d96/a22442.html#a6ab4ddfeaa2448e79577936d87d66398", null ],
-    [ "SummonedCreatureDies", "d9/d96/a22442.html#a1b4a1bfec1034feccba676b35a3caf93", null ],
-    [ "UpdateAI", "d9/d96/a22442.html#a3531d35b6d996bde197447e69e50a6fb", null ],
-    [ "instance", "d9/d96/a22442.html#a752a22acf6eab1d1045cac099b22fe57", null ],
-    [ "summons", "d9/d96/a22442.html#ab63791d4fd316a47af93a6f93118d331", null ]
+    [ "boss_nexusprince_shaffar", "d9/d96/a22442.html#a2e861fb53bca7a40e967971b5e7be533", null ],
+    [ "JustDied", "d9/d96/a22442.html#abf2fef0888bced83511883027bf4d500", null ],
+    [ "JustEngagedWith", "d9/d96/a22442.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
+    [ "JustSummoned", "d9/d96/a22442.html#a576240b46ce0988f0ef86e1460c831ef", null ],
+    [ "KilledUnit", "d9/d96/a22442.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
+    [ "MoveInLineOfSight", "d9/d96/a22442.html#a71e501225d88851210d2e0e58de27f99", null ],
+    [ "Reset", "d9/d96/a22442.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
+    [ "SummonedCreatureDespawn", "d9/d96/a22442.html#ab806564e96708ca12f444249abd3c88c", null ],
+    [ "UpdateAI", "d9/d96/a22442.html#a147500575a3821262ec718ec023b458c", null ],
+    [ "HasTaunted", "d9/d96/a22442.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
+    [ "summons", "d9/d96/a22442.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
 ];

@@ -1,13 +1,9 @@
 var a09306 =
 [
-    [ "GroupReference", "df/d6f/a09306.html#ab1a008e85d413c67696d4d568a98bde7", null ],
-    [ "~GroupReference", "df/d6f/a09306.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
-    [ "getSubGroup", "df/d6f/a09306.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
-    [ "next", "df/d6f/a09306.html#a6f8f406f1209dd7060904d40f5424b41", null ],
-    [ "next", "df/d6f/a09306.html#ac913ec0703c28cda068375d01c9cd72d", null ],
-    [ "setSubGroup", "df/d6f/a09306.html#a303caf55ea463398237e6a825f30b143", null ],
-    [ "sourceObjectDestroyLink", "df/d6f/a09306.html#a458157654c27def9b36b68ae099ca7b3", null ],
-    [ "targetObjectBuildLink", "df/d6f/a09306.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
-    [ "targetObjectDestroyLink", "df/d6f/a09306.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
-    [ "iSubGroup", "df/d6f/a09306.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
+    [ "AnyGroupedUnitInObjectRangeCheck", "df/d6f/a09306.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
+    [ "operator()", "df/d6f/a09306.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
+    [ "_raid", "df/d6f/a09306.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
+    [ "_range", "df/d6f/a09306.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
+    [ "_refUnit", "df/d6f/a09306.html#ad083243ef5487aa374b19e3c82b0457c", null ],
+    [ "_source", "df/d6f/a09306.html#a91de967d2376ea96b1fc0838094915cf", null ]
 ];

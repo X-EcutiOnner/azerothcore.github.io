@@ -1,12 +1,5 @@
 var a09598 =
 [
-    [ "flags", "de/d53/a09598.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
-    [ "fourcc", "de/d53/a09598.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
-    [ "height", "de/d53/a09598.html#ab064dde684394c3aa84f9b151749d524", null ],
-    [ "liquidFlags", "de/d53/a09598.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
-    [ "liquidLevel", "de/d53/a09598.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
-    [ "liquidType", "de/d53/a09598.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
-    [ "offsetX", "de/d53/a09598.html#a2ddee980eda8b7321b55ba44697688b5", null ],
-    [ "offsetY", "de/d53/a09598.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
-    [ "width", "de/d53/a09598.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
+    [ "MinionInfo", "de/d53/a09598.html#a537dd49ffb504aeab8b2b1734d5f44d7", null ],
+    [ "bossInfo", "de/d53/a09598.html#a04750e14ecb53ce6e3fac35844a713cd", null ]
 ];

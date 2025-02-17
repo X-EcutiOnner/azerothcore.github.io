@@ -1,10 +1,11 @@
 var a16898 =
 [
-    [ "boss_eckAI", "de/d11/a16898.html#a9de9ad13286c625241242a72c8c3ef2b", null ],
-    [ "InitializeAI", "de/d11/a16898.html#a37ed08383c43c53ea5a46ad8e03adb35", null ],
-    [ "JustDied", "de/d11/a16898.html#afa625b388a7495e7f83ea3149ad2020c", null ],
-    [ "JustEngagedWith", "de/d11/a16898.html#a393630157bb1b9d80a19b2da3bf0b377", null ],
-    [ "MovementInform", "de/d11/a16898.html#a4826dee262817fbdfa38bcf17f5723da", null ],
-    [ "Reset", "de/d11/a16898.html#afc33618907cb06591cc57751dfc14ca5", null ],
-    [ "UpdateAI", "de/d11/a16898.html#a697ceea1e138d484d80b39c80078de58", null ]
+    [ "npc_pos_tyrannus_eventsAI", "de/d11/a16898.html#a51769d22a4cb448fae90d827e2494581", null ],
+    [ "MovementInform", "de/d11/a16898.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
+    [ "SetData", "de/d11/a16898.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
+    [ "UpdateAI", "de/d11/a16898.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
+    [ "deathbringerGUID", "de/d11/a16898.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
+    [ "events", "de/d11/a16898.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
+    [ "killsLeft", "de/d11/a16898.html#ac81d85e0ceb0b571373f44475baa36df", null ],
+    [ "pInstance", "de/d11/a16898.html#a44460335986bcedf35dc295c242df6da", null ]
 ];

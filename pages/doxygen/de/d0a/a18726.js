@@ -1,6 +1,7 @@
 var a18726 =
 [
-    [ "npc_gothik_triggerAI", "d9/d5f/a18730.html", "d9/d5f/a18730" ],
-    [ "npc_gothik_trigger", "de/d0a/a18726.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
-    [ "GetAI", "de/d0a/a18726.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
+    [ "DelayedCastMincharEvent", "de/d0a/a18726.html#a76d8a08ca273eec5b2e083d136336a15", null ],
+    [ "Execute", "de/d0a/a18726.html#a12aeff246d07e541ed192974320842cb", null ],
+    [ "_spellId", "de/d0a/a18726.html#af4ea90407b2c8a283f137d213ffe97be", null ],
+    [ "_trigger", "de/d0a/a18726.html#a9f3cd02e77ad35b98a6753b792383548", null ]
 ];

@@ -1,8 +1,13 @@
 var a18654 =
 [
-    [ "HandleScript", "d8/deb/a18654.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
-    [ "HandleScript2", "d8/deb/a18654.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
-    [ "Load", "d8/deb/a18654.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
-    [ "PrepareSpellScript", "d8/deb/a18654.html#a2d1dbae570206b358878020879708000", null ],
-    [ "Register", "d8/deb/a18654.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
+    [ "npc_icc_spire_frostwyrm", "d8/deb/a18654.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
+    [ "CanAIAttack", "d8/deb/a18654.html#ab3364130aacf675602317651a244ae2c", null ],
+    [ "DoAction", "d8/deb/a18654.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
+    [ "JustEngagedWith", "d8/deb/a18654.html#abfc762cea6b7e40aaaff50b933410127", null ],
+    [ "JustReachedHome", "d8/deb/a18654.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
+    [ "MovementInform", "d8/deb/a18654.html#a8e7f148580d91d42959e972ef18b271b", null ],
+    [ "Reset", "d8/deb/a18654.html#a572add30e78af15a8d5d6918169802da", null ],
+    [ "UpdateAI", "d8/deb/a18654.html#ad193a9355e11ea25792e6285d375a488", null ],
+    [ "_canResetFlyingEffects", "d8/deb/a18654.html#a262d843fcb13a444ae377729135ca14d", null ],
+    [ "_scheduler", "d8/deb/a18654.html#a822096df7b1803d92e05ca27d544bd26", null ]
 ];

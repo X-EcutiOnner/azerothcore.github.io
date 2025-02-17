@@ -1,9 +1,12 @@
 var a18090 =
 [
-    [ "npc_spirit_wardenAI", "d4/d3a/a18090.html#a3391168478345d8b5c1fee151f6e9f04", null ],
-    [ "JustDied", "d4/d3a/a18090.html#aa762c0bea6361107312e8231508dc655", null ],
-    [ "Reset", "d4/d3a/a18090.html#ad6076663f65f43874feb0ecfc57718a4", null ],
-    [ "UpdateAI", "d4/d3a/a18090.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
-    [ "_events", "d4/d3a/a18090.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
-    [ "_instance", "d4/d3a/a18090.html#a58ebb8e42e77add79fc888248013eb24", null ]
+    [ "AfterDispel", "d4/d3a/a18090.html#a1c7b15cf6adbe78be1c17a78596dee55", null ],
+    [ "Load", "d4/d3a/a18090.html#a490251d9afd2ab5a075f254603170d4d", null ],
+    [ "OnApply", "d4/d3a/a18090.html#af78da685e156bebea9f0a4881ebdfc9d", null ],
+    [ "OnDispel", "d4/d3a/a18090.html#adf24ec3793a34e8bed38aa87d0c3c60b", null ],
+    [ "OnRemove", "d4/d3a/a18090.html#a33b586de90e3ff698bb0efbb4b8d4d30", null ],
+    [ "PrepareAuraScript", "d4/d3a/a18090.html#acd4f8d3c98147c22124e64ccf7d9a6d0", null ],
+    [ "Register", "d4/d3a/a18090.html#a68a909d9510761295bf7b6dfe44a1d26", null ],
+    [ "Validate", "d4/d3a/a18090.html#a2de18da71b68275d8d55f859df3ca74c", null ],
+    [ "_lastAmount", "d4/d3a/a18090.html#a64610d30731f6aa5f3f155ca5c5e8d61", null ]
 ];

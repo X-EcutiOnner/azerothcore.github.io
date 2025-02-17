@@ -1,7 +1,6 @@
 var a09594 =
 [
-    [ "flags", "d1/d51/a09594.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
-    [ "fourcc", "d1/d51/a09594.html#a93b48dd741d13ff036eac8a77df9f916", null ],
-    [ "gridHeight", "d1/d51/a09594.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
-    [ "gridMaxHeight", "d1/d51/a09594.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
+    [ "DoorInfo", "d1/d51/a09594.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
+    [ "bossInfo", "d1/d51/a09594.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
+    [ "type", "d1/d51/a09594.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
 ];

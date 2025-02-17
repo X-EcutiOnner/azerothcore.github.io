@@ -1,14 +1,6 @@
 var a20826 =
 [
-    [ "npc_massive_jormungarAI", "d5/d4a/a20826.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
-    [ "DoAction", "d5/d4a/a20826.html#a8084994ba056c907b2e487568fa7502a", null ],
-    [ "JustDied", "d5/d4a/a20826.html#a02b4e75227811250e2210f754e6e04f2", null ],
-    [ "JustEngagedWith", "d5/d4a/a20826.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
-    [ "JustReachedHome", "d5/d4a/a20826.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
-    [ "MoveInLineOfSight", "d5/d4a/a20826.html#a55c817111fab479c3abcfca8942f16e8", null ],
-    [ "Reset", "d5/d4a/a20826.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
-    [ "UpdateAI", "d5/d4a/a20826.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
-    [ "events", "d5/d4a/a20826.html#a92334b8178317a91a7d4336096d75f33", null ],
-    [ "m_pInstance", "d5/d4a/a20826.html#ad50a9852370798817fda318f71f27653", null ],
-    [ "summons", "d5/d4a/a20826.html#acfa84efc38b994706015e6d82fe1f653", null ]
+    [ "achievement_yogg_saron_darkness", "d5/d4a/a20826.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
+    [ "OnCheck", "d5/d4a/a20826.html#a809902fca87abaeb4334132763624ed6", null ],
+    [ "_keepersCount", "d5/d4a/a20826.html#a765ec4606bb489760ed1e15db10de1dc", null ]
 ];

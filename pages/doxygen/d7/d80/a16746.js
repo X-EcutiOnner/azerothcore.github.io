@@ -1,6 +1,10 @@
 var a16746 =
 [
-    [ "npc_pos_leaderAI", "d8/d7e/a16750.html", "d8/d7e/a16750" ],
-    [ "npc_pos_leader", "d7/d80/a16746.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
-    [ "GetAI", "d7/d80/a16746.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
+    [ "npc_hor_spiritual_reflectionAI", "d7/d80/a16746.html#aac0a916bfa325284b354e7241fe857ab", null ],
+    [ "EnterEvadeMode", "d7/d80/a16746.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
+    [ "JustDied", "d7/d80/a16746.html#a72073c44f881d4a78552de4119a716d7", null ],
+    [ "JustEngagedWith", "d7/d80/a16746.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
+    [ "Reset", "d7/d80/a16746.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
+    [ "UpdateAI", "d7/d80/a16746.html#af9613e9309b85317bc6e3a84013dcf89", null ],
+    [ "events", "d7/d80/a16746.html#a89a466917aa5634c4c86ecbce21280b7", null ]
 ];

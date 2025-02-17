@@ -1,9 +1,11 @@
 var a20434 =
 [
-    [ "npc_xt002_pummellerAI", "d6/d5b/a20434.html#a2942c05c93036c2e02b9a72c784441b1", null ],
-    [ "Reset", "d6/d5b/a20434.html#a6542fb3e585f100f06f6be14a1346306", null ],
-    [ "UpdateAI", "d6/d5b/a20434.html#a959990310303ff2102f1c03852b4ab8e", null ],
-    [ "_arcingSmashTimer", "d6/d5b/a20434.html#a830fda66756dc3f34a530939116e7556", null ],
-    [ "_trampleTimer", "d6/d5b/a20434.html#ae5e450601861f83b20419405bb92ef6d", null ],
-    [ "_uppercutTimer", "d6/d5b/a20434.html#a5a1bdb380438070effc091ec37db6aec", null ]
+    [ "boss_thorim_sifAI", "d6/d5b/a20434.html#af63f344d3a5650baaa9b96204abc39a9", null ],
+    [ "AttackStart", "d6/d5b/a20434.html#ae9354f2e97c88cd1af86fae050e810d6", null ],
+    [ "DoAction", "d6/d5b/a20434.html#a8aac66a64c5ca6491595c2b3b6cbbd95", null ],
+    [ "MoveInLineOfSight", "d6/d5b/a20434.html#a3e7d07ca6fc8f4619173f3fd74d63ccb", null ],
+    [ "Reset", "d6/d5b/a20434.html#ab30d73613bafac5b92021677d69b3aae", null ],
+    [ "UpdateAI", "d6/d5b/a20434.html#a09ee3373177e84a5e4e51ebb48c68525", null ],
+    [ "_allowCast", "d6/d5b/a20434.html#ade272764f09375d8e5fda937d42aad90", null ],
+    [ "events", "d6/d5b/a20434.html#a8fd3c7073a250d054e3edc73d5867fbd", null ]
 ];

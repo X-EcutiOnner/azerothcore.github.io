@@ -1,7 +1,6 @@
 var a21794 =
 [
-    [ "HandleDummy", "d4/d3f/a21794.html#a85874062bceced2694fff725649df892", null ],
-    [ "PrepareSpellScript", "d4/d3f/a21794.html#a47bae4bdc488480f91517465d8e1b784", null ],
-    [ "Register", "d4/d3f/a21794.html#a7131340678ca685db98e2087661321a9", null ],
-    [ "Validate", "d4/d3f/a21794.html#af1b74ceee10fc48a0b85d4a284103950", null ]
+    [ "npc_rocket_propelled_warheadAI", "d2/d25/a21798.html", "d2/d25/a21798" ],
+    [ "npc_rocket_propelled_warhead", "d4/d3f/a21794.html#a5c945efc6e3ca847363ac47abc5f51ca", null ],
+    [ "GetAI", "d4/d3f/a21794.html#a803702c480107d197845a0ef447a5380", null ]
 ];

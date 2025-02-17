@@ -1,9 +1,14 @@
 var a09150 =
 [
-    [ "NearestAttackableUnitInObjectRangeCheck", "df/d4a/a09150.html#ae2f43e2036047622ec88de3db08ea668", null ],
-    [ "NearestAttackableUnitInObjectRangeCheck", "df/d4a/a09150.html#a8deef14a2c11f9ccd9613614124a7d8e", null ],
-    [ "operator()", "df/d4a/a09150.html#a2f966e38682e6a02a120ad90ba19f7a4", null ],
-    [ "i_funit", "df/d4a/a09150.html#a88be7342d10008fc394f21b9a5e14162", null ],
-    [ "i_obj", "df/d4a/a09150.html#a6c1c4e5b85f6f7958578afb6c6f2af98", null ],
-    [ "i_range", "df/d4a/a09150.html#a26242657d6f2eb61d6f8fcac30357381", null ]
+    [ "WorldObjectSearcher", "df/d4a/a09150.html#a4c8b6202710f1539e55eb8d30031ce62", null ],
+    [ "Visit", "df/d4a/a09150.html#ace0642ee6949a06f9b94e350b49e64c1", null ],
+    [ "Visit", "df/d4a/a09150.html#ac484deeb43ead6b9ea73182da97ff3ba", null ],
+    [ "Visit", "df/d4a/a09150.html#a28a30052c55b2ffad85e8d2f4f008ff3", null ],
+    [ "Visit", "df/d4a/a09150.html#a42fce9834443194e090e022f3f7618b0", null ],
+    [ "Visit", "df/d4a/a09150.html#aae2b654236e3a85d9ba0b5ce48d5c315", null ],
+    [ "Visit", "df/d4a/a09150.html#aa2742bc25a4773a487e9e8ff760644ea", null ],
+    [ "i_check", "df/d4a/a09150.html#aa8af931f3d562aa1c31e774347db2e24", null ],
+    [ "i_mapTypeMask", "df/d4a/a09150.html#a2910a3c0a932f2d3ea7d10d4541cbb39", null ],
+    [ "i_object", "df/d4a/a09150.html#a8f705e476d2a32ca90d589d9b58b2c8d", null ],
+    [ "i_phaseMask", "df/d4a/a09150.html#a5688db61fc9d297252987830eadb0ee5", null ]
 ];

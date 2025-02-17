@@ -1,12 +1,21 @@
 var a12358 =
 [
-    [ "BoardCell", "d5/de3/a12358.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
-    [ "Reset", "d5/de3/a12358.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
-    [ "SetData", "d5/de3/a12358.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
-    [ "SetPiece", "d5/de3/a12358.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
-    [ "col", "d5/de3/a12358.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
-    [ "pieceEntry", "d5/de3/a12358.html#a7697506ccc800d38968e457c44bfa019", null ],
-    [ "pieceGUID", "d5/de3/a12358.html#a74f494e406c56d4c61d79539acea684c", null ],
-    [ "row", "d5/de3/a12358.html#a195c187e134be546f224cbb0eef8c844", null ],
-    [ "triggerGUID", "d5/de3/a12358.html#a9cafdea50739b014a97e60611adcd3f1", null ]
+    [ "boss_majordomoAI", "d5/de3/a12358.html#a55c13b164aa2d0bc2bd4a18f3043fca2", null ],
+    [ "CanAIAttack", "d5/de3/a12358.html#adcd7b8ced551c2ee3868f6586778ca64", null ],
+    [ "DamageTaken", "d5/de3/a12358.html#a7cc99275d0b798a56aeb189f364669e9", null ],
+    [ "DoAction", "d5/de3/a12358.html#ae3820f98568287d44b6366416f858858", null ],
+    [ "InitializeAI", "d5/de3/a12358.html#ae3adee89e63c289f1dd38e0f7700e67b", null ],
+    [ "JustDied", "d5/de3/a12358.html#a8db4401bfec6986abe2490e1bb05b9ee", null ],
+    [ "JustEngagedWith", "d5/de3/a12358.html#a8ff20148be5869f2ab4bb8d66f2fea5b", null ],
+    [ "JustReachedHome", "d5/de3/a12358.html#aaeccf6f1c74dc1109b3b0968f5cc57c6", null ],
+    [ "JustSummoned", "d5/de3/a12358.html#a51bea2ba94084c0ea6a8da98f08e02ce", null ],
+    [ "KilledUnit", "d5/de3/a12358.html#a986f347bfe35f17fada815595825b547", null ],
+    [ "MovementInform", "d5/de3/a12358.html#a49ed1d7da066305a46ab99fbd897572a", null ],
+    [ "Reset", "d5/de3/a12358.html#aba684c09253ba1cccf788fbf01a10d71", null ],
+    [ "SpellHit", "d5/de3/a12358.html#ae40ac9fdd49c182daff81f411d316bb4", null ],
+    [ "SummonedCreatureDies", "d5/de3/a12358.html#af1e7213b798cdab457d8b32024da414e", null ],
+    [ "UpdateAI", "d5/de3/a12358.html#ae3b52ef5527ab932d1bfa479ed767b0f", null ],
+    [ "aliveMinionsGUIDS", "d5/de3/a12358.html#a9571e4fca8a95459d9037e656ecd6454", null ],
+    [ "majordomoSummonsData", "d5/de3/a12358.html#a2cf09a0ea3428cd7f49e00b0ab629c3e", null ],
+    [ "static_minionsGUIDS", "d5/de3/a12358.html#ab06ea927cb87aabbd5367399cb2b17eb", null ]
 ];

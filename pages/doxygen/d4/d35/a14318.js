@@ -1,8 +1,7 @@
 var a14318 =
 [
-    [ "npc_doomfire_spirit", "d4/d35/a14318.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "d4/d35/a14318.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "d4/d35/a14318.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "d4/d35/a14318.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "d4/d35/a14318.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "HandleEffectApply", "d4/d35/a14318.html#a404f2134734e1d21201033b3f26e611e", null ],
+    [ "HandleEffectPeriodic", "d4/d35/a14318.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
+    [ "PrepareAuraScript", "d4/d35/a14318.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
+    [ "Register", "d4/d35/a14318.html#ad239472c15ca0c73b053d112f538ecff", null ]
 ];

@@ -1,6 +1,7 @@
 var a23062 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "db/d4a/a23066.html", "db/d4a/a23066" ],
-    [ "instance_the_slave_pens", "d2/d94/a23062.html#a765f7b66ad3bed1828524ecb143742f2", null ],
-    [ "GetInstanceScript", "d2/d94/a23062.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
+    [ "FilterTargets", "d2/d94/a23062.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "d2/d94/a23062.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "d2/d94/a23062.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "d2/d94/a23062.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

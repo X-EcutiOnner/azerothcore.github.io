@@ -1,6 +1,10 @@
 var a03056 =
 [
-    [ "instance_eye_of_eternity", "d2/d94/a19002.html", "d2/d94/a19002" ],
-    [ "instance_eye_of_eternity::instance_eye_of_eternity_InstanceMapScript", "d4/d82/a19006.html", "d4/d82/a19006" ],
-    [ "AddSC_instance_eye_of_eternity", "d4/d90/a03056.html#acd10e2ef086dd7938d397abc8ced1de3", null ]
+    [ "ObjectPosSelector", "d0/dc6/a08386.html", "d0/dc6/a08386" ],
+    [ "ObjectPosSelector::UsedPos", "db/dff/a08390.html", "db/dff/a08390" ],
+    [ "UsedPosType", "d4/d90/a03056.html#a2f1e7723f9d73cff4490d29d2b3df397", [
+      [ "USED_POS_PLUS", "d4/d90/a03056.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e", null ],
+      [ "USED_POS_MINUS", "d4/d90/a03056.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816", null ]
+    ] ],
+    [ "operator~", "d4/d90/a03056.html#a083d37b8f4388d54d83aeb6562b5fe09", null ]
 ];

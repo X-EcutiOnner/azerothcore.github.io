@@ -1,12 +1,7 @@
 var a20014 =
 [
-    [ "npc_ulduar_iron_constructAI", "d2/d54/a20014.html#ab81224d24ab1925cde97ab76c2a514d1", null ],
-    [ "DamageTaken", "d2/d54/a20014.html#a5235538b755dd83615d80a1f7d0ec1b9", null ],
-    [ "JustDied", "d2/d54/a20014.html#a5b8e1c38257fc13c59bcaf8cb251fee2", null ],
-    [ "JustReachedHome", "d2/d54/a20014.html#a12416ffe731f96a1ca2949d995eb909c", null ],
-    [ "MoveInLineOfSight", "d2/d54/a20014.html#a12b228a1edb9460ddcb2b8232bb8209e", null ],
-    [ "Reset", "d2/d54/a20014.html#ac6dba374d72247be14923aa54898b9b5", null ],
-    [ "SpellHit", "d2/d54/a20014.html#a10a5444576af84ae50ad8af930ed5970", null ],
-    [ "UpdateAI", "d2/d54/a20014.html#ac5aabd4a48b6a2f5057eb5ee8a8c99f8", null ],
-    [ "timer", "d2/d54/a20014.html#ae1996cf79f8a82df7fe02cd60e5ce3a4", null ]
+    [ "npc_ulduar_icicleAI", "d2/d54/a20014.html#a258376e257fbe3c8a6c70b2585d44df1", null ],
+    [ "UpdateAI", "d2/d54/a20014.html#a0edf734ae2dac7a5378b21b73e3714c8", null ],
+    [ "timer1", "d2/d54/a20014.html#aa912acbe225d9056e44bc22b8d9f7473", null ],
+    [ "timer2", "d2/d54/a20014.html#a82e034fc4ccb8eb92abeb72a222764c7", null ]
 ];

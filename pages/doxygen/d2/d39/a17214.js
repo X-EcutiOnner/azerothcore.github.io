@@ -1,7 +1,6 @@
 var a17214 =
 [
-    [ "HandleScript", "d2/d39/a17214.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "d2/d39/a17214.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "d2/d39/a17214.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "d2/d39/a17214.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "FilterTargets", "d2/d39/a17214.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
+    [ "PrepareSpellScript", "d2/d39/a17214.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
+    [ "Register", "d2/d39/a17214.html#add40d7731b07b30b595f76f7d4e983f4", null ]
 ];

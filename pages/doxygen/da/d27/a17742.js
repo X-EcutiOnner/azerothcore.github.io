@@ -1,25 +1,6 @@
 var a17742 =
 [
-    [ "boss_sindragosaAI", "da/d27/a17742.html#ab02e42a863496b27a8f2b745085e30ea", null ],
-    [ "CanAIAttack", "da/d27/a17742.html#aea65b981e8b9461750a53fca3919c27f", null ],
-    [ "DamageTaken", "da/d27/a17742.html#ab4bc9869ad6074a1671b0b18f681a913", null ],
-    [ "DoAction", "da/d27/a17742.html#a93859d74931e5b810e3c48e492103919", null ],
-    [ "EnterEvadeMode", "da/d27/a17742.html#acb1e677b2347e0464df832e1d86cd3b5", null ],
-    [ "GetData", "da/d27/a17742.html#abbdaf0b2fe76e6f79126d15a1cecca2a", null ],
-    [ "JustDied", "da/d27/a17742.html#a0a41a38ba0577f9b4f10bd1143a1e615", null ],
-    [ "JustEngagedWith", "da/d27/a17742.html#af0151f1cb6776a3a180b4e24332c8489", null ],
-    [ "JustSummoned", "da/d27/a17742.html#ac3d9b66097202719781ede743fabc1ea", null ],
-    [ "KilledUnit", "da/d27/a17742.html#a27f5953a9cf68ec10a63622cf0f33d9b", null ],
-    [ "MoveInLineOfSight", "da/d27/a17742.html#a17d93e98d5c8f91e8009674a4117bd39", null ],
-    [ "MovementInform", "da/d27/a17742.html#abff1b505e9d2d6c826f814b2d43409af", null ],
-    [ "Reset", "da/d27/a17742.html#a5350ca3791fb777959de068933d121ba", null ],
-    [ "SpellHitTarget", "da/d27/a17742.html#ad2d10d5aeebea48809a61eee293ff9da", null ],
-    [ "SummonedCreatureDespawn", "da/d27/a17742.html#a5245dbb8a3065f2da4815be744dce357", null ],
-    [ "UpdateAI", "da/d27/a17742.html#a0e92f831d702eda65309787c651f221b", null ],
-    [ "_bombCount", "da/d27/a17742.html#a8ef89884c8d1b272d28dd7a6d2048964", null ],
-    [ "_isBelow20Pct", "da/d27/a17742.html#a87663e3f6d1c87c9def8eb1852adc029", null ],
-    [ "_isInAirPhase", "da/d27/a17742.html#addc25d8f87dd9fd627c0bde5944c037a", null ],
-    [ "_isLanding", "da/d27/a17742.html#a3de52bd0571eab9df13809ff5a4b891c", null ],
-    [ "_isThirdPhase", "da/d27/a17742.html#a741a811fd9832fb4275c51d2272d98f0", null ],
-    [ "_mysticBuffetStack", "da/d27/a17742.html#a9cfaa3b61da9a7aad88c2d2a537f0821", null ]
+    [ "HandleScript", "da/d27/a17742.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
+    [ "PrepareSpellScript", "da/d27/a17742.html#a50560d754709e6b9ec6863142c1ffce3", null ],
+    [ "Register", "da/d27/a17742.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
 ];

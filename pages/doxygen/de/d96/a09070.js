@@ -1,10 +1,8 @@
 var a09070 =
 [
-    [ "AnyDeadUnitObjectInRangeCheck", "de/d96/a09070.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
-    [ "operator()", "de/d96/a09070.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
-    [ "operator()", "de/d96/a09070.html#ae885f49537043421a92b44c201bec358", null ],
-    [ "operator()", "de/d96/a09070.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
-    [ "operator()", "de/d96/a09070.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
-    [ "i_range", "de/d96/a09070.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
-    [ "i_searchObj", "de/d96/a09070.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
+    [ "V8Type", "de/d96/a09070.html#ad1b1f07eef9dda43d6ba20d37087e1df", null ],
+    [ "V9Type", "de/d96/a09070.html#ac514014328ca676e610cef54710d2430", null ],
+    [ "gridIntHeightMultiplier", "de/d96/a09070.html#a6255362ae498172495394e1f0fad44ca", null ],
+    [ "v8", "de/d96/a09070.html#a3201a1f3e7307af860396ca26a78dbf9", null ],
+    [ "v9", "de/d96/a09070.html#ad31af604d44f964e9c502f36b6717c77", null ]
 ];

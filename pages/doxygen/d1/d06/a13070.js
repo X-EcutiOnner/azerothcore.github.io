@@ -1,6 +1,14 @@
 var a13070 =
 [
-    [ "SpectralBlastCheck", "d1/d06/a13070.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
-    [ "operator()", "d1/d06/a13070.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
-    [ "_victim", "d1/d06/a13070.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
+    [ "boss_sothos", "d1/d06/a13070.html#a2e7283078d4049ff339f29c3fdfc69cf", null ],
+    [ "DoAction", "d1/d06/a13070.html#a1433dddccb71896016bc014bdf92b453", null ],
+    [ "IsSummonedBy", "d1/d06/a13070.html#aaaf7e317f146bb296c4ba6f57c5f72d4", null ],
+    [ "JustDied", "d1/d06/a13070.html#a2d634aade37ea887f6bbf4b43baf061d", null ],
+    [ "JustEngagedWith", "d1/d06/a13070.html#ace8a0c92ec3ab3e76cceb63c5b4a277b", null ],
+    [ "Reset", "d1/d06/a13070.html#a042578148cae9a0b9befb7c5747a8e99", null ],
+    [ "UpdateAI", "d1/d06/a13070.html#a35e247fa9bfe00927b844af8d0ef916f", null ],
+    [ "_jarienDied", "d1/d06/a13070.html#a74725d8a4b3ce9fbfb9f06868fa02055", null ],
+    [ "_phase", "d1/d06/a13070.html#a5719cd4a85527c256fb7f048be6489f7", null ],
+    [ "_scheduler", "d1/d06/a13070.html#a5e18256858cd594b45628508500e5f1a", null ],
+    [ "_talked", "d1/d06/a13070.html#a3f3c0d0a079aad1306b638e8ff34f2f6", null ]
 ];

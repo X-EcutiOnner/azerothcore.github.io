@@ -1,6 +1,7 @@
 var a28106 =
 [
-    [ "categoryMask", "d8/dd2/a28106.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "d8/dd2/a28106.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "d8/dd2/a28106.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "EpicPropertiesPoints", "d8/dd2/a28106.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "d8/dd2/a28106.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "d8/dd2/a28106.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "d8/dd2/a28106.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

@@ -1,6 +1,6 @@
 var a16786 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d6/d87/a16790.html", "d6/d87/a16790" ],
-    [ "npc_pos_collapsing_icicle", "df/dd2/a16786.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
-    [ "GetAI", "df/dd2/a16786.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
+    [ "npc_hor_lumbering_abominationAI", "d6/d87/a16790.html", "d6/d87/a16790" ],
+    [ "npc_hor_lumbering_abomination", "df/dd2/a16786.html#a0d394d1ba52a05a6db0ae983daea7123", null ],
+    [ "GetAI", "df/dd2/a16786.html#a0601ac0af85e545617013846c48de29a", null ]
 ];

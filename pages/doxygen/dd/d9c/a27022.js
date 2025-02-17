@@ -1,5 +1,5 @@
 var a27022 =
 [
-    [ "go_tele_to_violet_stand", "dd/d9c/a27022.html#a63350db1dfd400c565e30775378d48cc", null ],
-    [ "OnGossipHello", "dd/d9c/a27022.html#a4d075584f065501a2c3be9ef82387f43", null ]
+    [ "go_arena_ready_marker", "dd/d9c/a27022.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "dd/d9c/a27022.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

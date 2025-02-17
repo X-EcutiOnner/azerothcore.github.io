@@ -1,9 +1,7 @@
 var a16234 =
 [
-    [ "npc_fel_infernalAI", "de/d60/a16234.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
-    [ "EnterEvadeMode", "de/d60/a16234.html#aedec8729b9be931a74fe00d1aa649848", null ],
-    [ "JustDied", "de/d60/a16234.html#a599786069f98231eeb7f9ca809f8e671", null ],
-    [ "Reset", "de/d60/a16234.html#a09f408c9250467228b91ef9f6c9544f4", null ],
-    [ "UpdateAI", "de/d60/a16234.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
-    [ "events", "de/d60/a16234.html#acf955037c246f7b5f12cc5338b300b63", null ]
+    [ "npc_toc_paladinAI", "de/d60/a16234.html#a025d39c04e864ebd77f4f930ec20b1e5", null ],
+    [ "myCanCast", "de/d60/a16234.html#a06130e6e440d0b25d8b5566de6190cbc", null ],
+    [ "UpdateAI", "de/d60/a16234.html#a32943f1c3ffd0239c85ac1b81786f049", null ],
+    [ "events", "de/d60/a16234.html#ae47a32bbb05cf2f634ae18bc672ec004", null ]
 ];

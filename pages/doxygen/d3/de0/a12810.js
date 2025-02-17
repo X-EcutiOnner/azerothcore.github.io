@@ -1,16 +1,16 @@
 var a12810 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "d3/de0/a12810.html#a4abdd53f735be815cb2d43497d1531e0", null ],
-    [ "GetData", "d3/de0/a12810.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
-    [ "GetGuidData", "d3/de0/a12810.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
-    [ "OnCreatureCreate", "d3/de0/a12810.html#a71fcfc166f945325a4ee149645a9ccef", null ],
-    [ "OnGameObjectCreate", "d3/de0/a12810.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
-    [ "SetData", "d3/de0/a12810.html#aaf498d563d070d6250a182f583651777", null ],
-    [ "_ashbringerNpcGUID", "d3/de0/a12810.html#a1abdafc284def7ab4069a17c0aeda535", null ],
-    [ "_ashencounter", "d3/de0/a12810.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
-    [ "_doorChapelGUID", "d3/de0/a12810.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
-    [ "_doorHighInquisitorGUID", "d3/de0/a12810.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
-    [ "_encounter", "d3/de0/a12810.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
-    [ "_mograineGUID", "d3/de0/a12810.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
-    [ "_whitemaneGUID", "d3/de0/a12810.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
+    [ "npc_unworthy_initiateAI", "d3/de0/a12810.html#ae535d3335eb7865400f9e5c24b1dd3b5", null ],
+    [ "EventStart", "d3/de0/a12810.html#a1973d5a14a1ac19be1d74cf57693cabe", null ],
+    [ "JustEngagedWith", "d3/de0/a12810.html#aeedb0af23823ec5c7ff4f951c872552e", null ],
+    [ "MovementInform", "d3/de0/a12810.html#afbf6d71b196067400256df98949ae963", null ],
+    [ "Reset", "d3/de0/a12810.html#aba37cb6291a2e7436f8af796c50dead9", null ],
+    [ "UpdateAI", "d3/de0/a12810.html#a485695877f48aea0bb191e8b312f9c99", null ],
+    [ "anchorGUID", "d3/de0/a12810.html#acb1b338fae07b3ececfc8c15cc5ea80b", null ],
+    [ "anchorX", "d3/de0/a12810.html#a69455d3e3f822c2f2a4f8c3f89e4586d", null ],
+    [ "anchorY", "d3/de0/a12810.html#a67bbfac4014f2907cc9ad9caca80a4be", null ],
+    [ "events", "d3/de0/a12810.html#a4eff6a50c098c3f851274ece860fb6fb", null ],
+    [ "phase", "d3/de0/a12810.html#a299de7b4e1992edebd0a87c119d06d0a", null ],
+    [ "playerGUID", "d3/de0/a12810.html#a02d1e6dd7a302e170b08f0c90f038ca9", null ],
+    [ "wait_timer", "d3/de0/a12810.html#a9270c6e57cf77805769cfe692beefbe0", null ]
 ];

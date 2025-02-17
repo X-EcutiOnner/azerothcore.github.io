@@ -1,7 +1,6 @@
 var a21922 =
 [
-    [ "HandleSendEvent", "d0/d18/a21922.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "d0/d18/a21922.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "d0/d18/a21922.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "d0/d18/a21922.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "HandleDummy", "d0/d18/a21922.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "d0/d18/a21922.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "d0/d18/a21922.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

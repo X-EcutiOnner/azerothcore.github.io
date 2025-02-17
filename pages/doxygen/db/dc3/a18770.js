@@ -1,6 +1,7 @@
 var a18770 =
 [
-    [ "boss_kelthuzadAI", "d9/db8/a18774.html", "d9/db8/a18774" ],
-    [ "boss_kelthuzad", "db/dc3/a18770.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
-    [ "GetAI", "db/dc3/a18770.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
+    [ "OnRemove", "db/dc3/a18770.html#a4e6a66934a01d01c50208459f6771353", null ],
+    [ "PrepareAuraScript", "db/dc3/a18770.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
+    [ "Register", "db/dc3/a18770.html#a4890d35f2b0889156a437c95e49f528c", null ],
+    [ "Validate", "db/dc3/a18770.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
 ];

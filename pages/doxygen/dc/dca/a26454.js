@@ -1,7 +1,6 @@
 var a26454 =
 [
-    [ "HandleProc", "dc/dca/a26454.html#a85df8d4086a980d2b0a441097a909143", null ],
-    [ "PrepareAuraScript", "dc/dca/a26454.html#a4576f3d5af2d9265fa173f66d68ed512", null ],
-    [ "Register", "dc/dca/a26454.html#ab5308a36bc3b878a2913a89a84051ad7", null ],
-    [ "Validate", "dc/dca/a26454.html#a760a018b8410233e09065d94abeeb1ff", null ]
+    [ "CheckCast", "dc/dca/a26454.html#aecbecbd753b8ed32d51971a090063ef4", null ],
+    [ "PrepareSpellScript", "dc/dca/a26454.html#a0efb319154edb2c798460de72d6a56ed", null ],
+    [ "Register", "dc/dca/a26454.html#acd6ecb0204dd369c410e465551328f56", null ]
 ];

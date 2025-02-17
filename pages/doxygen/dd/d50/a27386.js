@@ -1,5 +1,6 @@
 var a27386 =
 [
-    [ "npc_controller", "dd/d50/a27386.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "dd/d50/a27386.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "npc_dancing_flamesAI", "d5/d36/a27390.html", "d5/d36/a27390" ],
+    [ "npc_dancing_flames", "dd/d50/a27386.html#adec0401f876ddf159f28fdda8bc4d563", null ],
+    [ "GetAI", "dd/d50/a27386.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
 ];

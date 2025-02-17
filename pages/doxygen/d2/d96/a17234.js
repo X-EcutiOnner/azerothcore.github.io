@@ -1,9 +1,9 @@
 var a17234 =
 [
-    [ "BattleExperienceEvent", "d2/d96/a17234.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "d2/d96/a17234.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "d2/d96/a17234.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "d2/d96/a17234.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "d2/d96/a17234.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "d2/d96/a17234.html#a4daf5818472ebe7c8d3938e2189d8e02", null ]
+    [ "CheckTarget", "d2/d96/a17234.html#a43fc6a16aca217ef043fa34a58391357", null ],
+    [ "HandlePresence", "d2/d96/a17234.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
+    [ "OnCast", "d2/d96/a17234.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
+    [ "PrepareSpellScript", "d2/d96/a17234.html#abe559b32aa82f19abb0a6d664b75c748", null ],
+    [ "Register", "d2/d96/a17234.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
+    [ "Validate", "d2/d96/a17234.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
 ];

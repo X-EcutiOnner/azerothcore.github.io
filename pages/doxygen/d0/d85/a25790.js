@@ -1,8 +1,9 @@
 var a25790 =
 [
-    [ "CalculateAmount", "d0/d85/a25790.html#a8751483423726ffa8a33c70b7e55db23", null ],
-    [ "CheckProc", "d0/d85/a25790.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
-    [ "HandleProc", "d0/d85/a25790.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
-    [ "PrepareAuraScript", "d0/d85/a25790.html#a6bb54cea419145875c4086a69e1e55e8", null ],
-    [ "Register", "d0/d85/a25790.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
+    [ "HandleAfterCast", "d0/d85/a25790.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "d0/d85/a25790.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "d0/d85/a25790.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "d0/d85/a25790.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "d0/d85/a25790.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "d0/d85/a25790.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

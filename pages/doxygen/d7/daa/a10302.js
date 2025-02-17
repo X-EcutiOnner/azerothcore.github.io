@@ -1,5 +1,7 @@
 var a10302 =
 [
-    [ "LogoutCancel", "d7/daa/a10302.html#a179fccf74fa969e6a32492f35d6f28c8", null ],
-    [ "Read", "d7/daa/a10302.html#a9ed27bc4472b7e4e225793b4f2e5a34d", null ]
+    [ "SpellScriptLoader", "d7/daa/a10302.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
+    [ "GetAuraScript", "d7/daa/a10302.html#a9c60850e39ffe3d151a128b12777859d", null ],
+    [ "GetSpellScript", "d7/daa/a10302.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
+    [ "IsDatabaseBound", "d7/daa/a10302.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
 ];

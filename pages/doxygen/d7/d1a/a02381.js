@@ -1,24 +1,35 @@
 var a02381 =
 [
-    [ "CharacterDatabasePreparedStatement", "d7/d1a/a02381.html#adabd50def0511ee540f8e1296c8cf782", null ],
-    [ "CharacterDatabaseQueryHolder", "d7/d1a/a02381.html#a350c68a4024b7fe5ae02a70f35c149d8", null ],
-    [ "CharacterDatabaseTransaction", "d7/d1a/a02381.html#a96bac9a371212c6bab7a9448214666c0", null ],
-    [ "LoginDatabasePreparedStatement", "d7/d1a/a02381.html#acd39cc80301f953b6d9adfee2f9585c8", null ],
-    [ "LoginDatabaseQueryHolder", "d7/d1a/a02381.html#a3e04fac4bd7cb26970c374dd1787cbbb", null ],
-    [ "LoginDatabaseTransaction", "d7/d1a/a02381.html#aa0ef7192ac59bc820849e5e21e3e08b7", null ],
-    [ "PreparedQueryResult", "d7/d1a/a02381.html#ac6110b8d867b5f84f677555d07037acb", null ],
-    [ "PreparedQueryResultFuture", "d7/d1a/a02381.html#a2011f9efd3a5d95695395eba86e79fab", null ],
-    [ "PreparedQueryResultPromise", "d7/d1a/a02381.html#a1b3aab1f5d953820d83af94034da3da2", null ],
-    [ "QueryCallbackProcessor", "d7/d1a/a02381.html#ab28e91495454917e2f4623ba259c3b2a", null ],
-    [ "QueryResult", "d7/d1a/a02381.html#ab0c9feeec448a181290fcb39565b8253", null ],
-    [ "QueryResultFuture", "d7/d1a/a02381.html#aaafe95f05c6db404e8bb61be587c7ca1", null ],
-    [ "QueryResultHolderFuture", "d7/d1a/a02381.html#afa682c0dbd4467d34bc28101c82c8959", null ],
-    [ "QueryResultHolderPromise", "d7/d1a/a02381.html#ad57a63776c96b99707576dd6f1ff7c29", null ],
-    [ "QueryResultPromise", "d7/d1a/a02381.html#a57de3b80b12c90e51398bf934fdc828b", null ],
-    [ "SQLTransaction", "d7/d1a/a02381.html#ab2badaea4b4827995daef3e2dec0f9cd", null ],
-    [ "TransactionFuture", "d7/d1a/a02381.html#ad8826e834522c9cacfd021d4529b4f87", null ],
-    [ "TransactionPromise", "d7/d1a/a02381.html#a363198b2c33dce9fd461ffd94bf063ac", null ],
-    [ "WorldDatabasePreparedStatement", "d7/d1a/a02381.html#a9a67db2ce35b3ac1d187318422f3ee95", null ],
-    [ "WorldDatabaseQueryHolder", "d7/d1a/a02381.html#a671c534314a7e095bb2bf72e2cc0fcbb", null ],
-    [ "WorldDatabaseTransaction", "d7/d1a/a02381.html#a858dac975c33053feb33400380cec907", null ]
+    [ "CreatureAI", "d8/d2f/a06122.html", "d8/d2f/a06122" ],
+    [ "TIME_INTERVAL_LOOK", "d7/d1a/a02381.html#a8de08a341cdd207e19eef425c2f5f152", null ],
+    [ "VISIBILITY_RANGE", "d7/d1a/a02381.html#a5548091cca58d569e4226b6915ec8cb2", null ],
+    [ "CreatureBoundary", "d7/d1a/a02381.html#a7994a32cb10f6de9d90e32ef2d6c1f37", null ],
+    [ "Permitions", "d7/d1a/a02381.html#adf806592547de59418c6070d69c5efb9", [
+      [ "PERMIT_BASE_NO", "d7/d1a/a02381.html#adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0", null ],
+      [ "PERMIT_BASE_IDLE", "d7/d1a/a02381.html#adf806592547de59418c6070d69c5efb9aa30fb6bbae2f275b7c269df6b7bac2c0", null ],
+      [ "PERMIT_BASE_REACTIVE", "d7/d1a/a02381.html#adf806592547de59418c6070d69c5efb9a8781eb0d588151b618bd98b03423dc58", null ],
+      [ "PERMIT_BASE_PROACTIVE", "d7/d1a/a02381.html#adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c", null ],
+      [ "PERMIT_BASE_FACTION_SPECIFIC", "d7/d1a/a02381.html#adf806592547de59418c6070d69c5efb9a9935ee057ed82483ff6a6363709db059", null ],
+      [ "PERMIT_BASE_SPECIAL", "d7/d1a/a02381.html#adf806592547de59418c6070d69c5efb9a01dc7d3add2acacf44721592378df415", null ]
+    ] ],
+    [ "SCEquip", "d7/d1a/a02381.html#a8561d766fce1bb059293efa6256c9717", [
+      [ "EQUIP_NO_CHANGE", "d7/d1a/a02381.html#a8561d766fce1bb059293efa6256c9717a52eb65358cd8ffabf53e7104b78e95a2", null ],
+      [ "EQUIP_UNEQUIP", "d7/d1a/a02381.html#a8561d766fce1bb059293efa6256c9717a435fadd0e5fa209afb6fd9363afbe54c", null ]
+    ] ],
+    [ "SelectEffect", "d7/d1a/a02381.html#a8b21f6463e7db78be55dee9160352869", [
+      [ "SELECT_EFFECT_DONTCARE", "d7/d1a/a02381.html#a8b21f6463e7db78be55dee9160352869a391dc42f0a158e8fdffbc0b18d9250e9", null ],
+      [ "SELECT_EFFECT_DAMAGE", "d7/d1a/a02381.html#a8b21f6463e7db78be55dee9160352869ae1b4806793cac829bda8b64d0233adae", null ],
+      [ "SELECT_EFFECT_HEALING", "d7/d1a/a02381.html#a8b21f6463e7db78be55dee9160352869a7c5e00f75a32eb7e8f1a5ea2dcb7d404", null ],
+      [ "SELECT_EFFECT_AURA", "d7/d1a/a02381.html#a8b21f6463e7db78be55dee9160352869a5e73a49eeb722bf496ce76b4448280e5", null ]
+    ] ],
+    [ "SelectTargetType", "d7/d1a/a02381.html#a09291ebbaa06245b9f65d046a8b67621", [
+      [ "SELECT_TARGET_DONTCARE", "d7/d1a/a02381.html#a09291ebbaa06245b9f65d046a8b67621a3a0e529ee20cdfb171df9e8d67f0f749", null ],
+      [ "SELECT_TARGET_SELF", "d7/d1a/a02381.html#a09291ebbaa06245b9f65d046a8b67621ae0e226db3f7e8c664ce1958c8fdc8e4a", null ],
+      [ "SELECT_TARGET_SINGLE_ENEMY", "d7/d1a/a02381.html#a09291ebbaa06245b9f65d046a8b67621a371e0b7a2a0f1bc7809a2651c1ee6261", null ],
+      [ "SELECT_TARGET_AOE_ENEMY", "d7/d1a/a02381.html#a09291ebbaa06245b9f65d046a8b67621af8f6f83b9b85f662ac5ce0dfb463daa4", null ],
+      [ "SELECT_TARGET_ANY_ENEMY", "d7/d1a/a02381.html#a09291ebbaa06245b9f65d046a8b67621a25807921690235c31bdc32b599e04508", null ],
+      [ "SELECT_TARGET_SINGLE_FRIEND", "d7/d1a/a02381.html#a09291ebbaa06245b9f65d046a8b67621a316f9dbbb2b5f3bc0667436767f540cb", null ],
+      [ "SELECT_TARGET_AOE_FRIEND", "d7/d1a/a02381.html#a09291ebbaa06245b9f65d046a8b67621a21f9e37e67ab22ebd4bec53351757e38", null ],
+      [ "SELECT_TARGET_ANY_FRIEND", "d7/d1a/a02381.html#a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3", null ]
+    ] ]
 ];

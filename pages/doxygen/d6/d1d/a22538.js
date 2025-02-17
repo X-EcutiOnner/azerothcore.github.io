@@ -1,7 +1,12 @@
 var a22538 =
 [
-    [ "boss_lady_malande", "d6/d1d/a22538.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "d6/d1d/a22538.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "d6/d1d/a22538.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "d6/d1d/a22538.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "boss_gurtogg_bloodboil", "d6/d1d/a22538.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
+    [ "CanAIAttack", "d6/d1d/a22538.html#a60e6439bab689eb88a18612b6b46c713", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d6/d1d/a22538.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
+    [ "JustDied", "d6/d1d/a22538.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
+    [ "JustEngagedWith", "d6/d1d/a22538.html#a0847173efbae252c2fbbaf1be17097cb", null ],
+    [ "JustSummoned", "d6/d1d/a22538.html#ae718666a1da0e93cb0965c42c40b51df", null ],
+    [ "KilledUnit", "d6/d1d/a22538.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
+    [ "Reset", "d6/d1d/a22538.html#add25677d422b8bddcb753465451f0584", null ],
+    [ "_recentlySpoken", "d6/d1d/a22538.html#a74af813b84f7787a5b764cfe574c087b", null ]
 ];

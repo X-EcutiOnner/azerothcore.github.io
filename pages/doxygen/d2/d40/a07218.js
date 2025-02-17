@@ -1,10 +1,9 @@
 var a07218 =
 [
-    [ "OwnerId", "d2/d40/a07218.html#ae6203d7a867838b279825925841a99df", null ],
-    [ "PrevOwnerId", "d2/d40/a07218.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
-    [ "PrevState", "d2/d40/a07218.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
-    [ "State", "d2/d40/a07218.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
-    [ "Timer", "d2/d40/a07218.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
-    [ "TotalOwnerId", "d2/d40/a07218.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
-    [ "Tower", "d2/d40/a07218.html#a222db96ad937e31986c0c39a5a371dd7", null ]
+    [ "Rank", "d2/d40/a07218.html#a9bcd8dc00437bcf015565eeb43263578", null ],
+    [ "Rating", "d2/d40/a07218.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
+    [ "SeasonGames", "d2/d40/a07218.html#a124c6d64f22c13707764eedd79fe1912", null ],
+    [ "SeasonWins", "d2/d40/a07218.html#ad274601b85ea634524b1c00979e09465", null ],
+    [ "WeekGames", "d2/d40/a07218.html#a1d0092200b2c9428e821473949cfda77", null ],
+    [ "WeekWins", "d2/d40/a07218.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
 ];

@@ -1,6 +1,6 @@
 var a18626 =
 [
-    [ "npc_four_car_garageAI", "d6/d4e/a18626.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
-    [ "JustDied", "d6/d4e/a18626.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
-    [ "PassengerBoarded", "d6/d4e/a18626.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d5/d68/a18630.html", "d5/d68/a18630" ],
+    [ "npc_icc_skybreaker_luminary", "d6/d4e/a18626.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
+    [ "GetAI", "d6/d4e/a18626.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
 ];

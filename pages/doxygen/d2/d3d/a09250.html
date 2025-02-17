@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::AllWorldObjectsInExactRange Class Reference</title>
+<title>AzerothCore: Acore::NearestGameObjectFishingHole Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,9 +106,10 @@ $(document).ready(function(){initNavTree('d2/d3d/a09250.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d0/df9/a09247.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::AllWorldObjectsInExactRange Class Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::NearestGameObjectFishingHole Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -116,24 +117,27 @@ $(document).ready(function(){initNavTree('d2/d3d/a09250.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a0281d22587b9b1bdbfbdd8dccc625186"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3d/a09250.html#a0281d22587b9b1bdbfbdd8dccc625186">AllWorldObjectsInExactRange</a> (<a class="el" href="../../dd/d7d/a08262.html">WorldObject</a> const *object, float range, bool equals)</td></tr>
-<tr class="separator:a0281d22587b9b1bdbfbdd8dccc625186"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afe0bea69ddd5e275363361bf37284840"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3d/a09250.html#afe0bea69ddd5e275363361bf37284840">operator()</a> (<a class="el" href="../../dd/d7d/a08262.html">WorldObject</a> const *object)</td></tr>
-<tr class="separator:afe0bea69ddd5e275363361bf37284840"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab0e4734202edf26b69881ab85abe1d93"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3d/a09250.html#ab0e4734202edf26b69881ab85abe1d93">NearestGameObjectFishingHole</a> (<a class="el" href="../../d5/d43/a08350.html">WorldObject</a> const &amp;obj, float range)</td></tr>
+<tr class="separator:ab0e4734202edf26b69881ab85abe1d93"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52e2c64f8209ab364f4e85e1f4e947dc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3d/a09250.html#a52e2c64f8209ab364f4e85e1f4e947dc">operator()</a> (<a class="el" href="../../d8/dc8/a08122.html">GameObject</a> *go)</td></tr>
+<tr class="separator:a52e2c64f8209ab364f4e85e1f4e947dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a256c64e6c82d98349b958647d98bf4ce"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3d/a09250.html#a256c64e6c82d98349b958647d98bf4ce">NearestGameObjectFishingHole</a> (<a class="el" href="../../d2/d3d/a09250.html">NearestGameObjectFishingHole</a> const &amp;)</td></tr>
+<tr class="separator:a256c64e6c82d98349b958647d98bf4ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a5fba0e3c7cde76bfe56f8e9e9716412b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7d/a08262.html">WorldObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3d/a09250.html#a5fba0e3c7cde76bfe56f8e9e9716412b">_object</a></td></tr>
-<tr class="separator:a5fba0e3c7cde76bfe56f8e9e9716412b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae40de8ce49bb429243e5059b6d14398f"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3d/a09250.html#ae40de8ce49bb429243e5059b6d14398f">_range</a></td></tr>
-<tr class="separator:ae40de8ce49bb429243e5059b6d14398f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aebb4cb9e84cf91cca235fe663dba8d60"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3d/a09250.html#aebb4cb9e84cf91cca235fe663dba8d60">_equals</a></td></tr>
-<tr class="separator:aebb4cb9e84cf91cca235fe663dba8d60"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a182fbf6b5cc68fb0eba6be26568c9d78"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d43/a08350.html">WorldObject</a> const  &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3d/a09250.html#a182fbf6b5cc68fb0eba6be26568c9d78">i_obj</a></td></tr>
+<tr class="separator:a182fbf6b5cc68fb0eba6be26568c9d78"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af27a870fb654a130bf1e4ac1472fdffc"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3d/a09250.html#af27a870fb654a130bf1e4ac1472fdffc">i_range</a></td></tr>
+<tr class="separator:af27a870fb654a130bf1e4ac1472fdffc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a0281d22587b9b1bdbfbdd8dccc625186" name="a0281d22587b9b1bdbfbdd8dccc625186"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0281d22587b9b1bdbfbdd8dccc625186">&#9670;&#160;</a></span>AllWorldObjectsInExactRange()</h2>
+<a id="ab0e4734202edf26b69881ab85abe1d93" name="ab0e4734202edf26b69881ab85abe1d93"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab0e4734202edf26b69881ab85abe1d93">&#9670;&#160;</a></span>NearestGameObjectFishingHole() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -142,22 +146,16 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Acore::AllWorldObjectsInExactRange::AllWorldObjectsInExactRange </td>
+          <td class="memname">Acore::NearestGameObjectFishingHole::NearestGameObjectFishingHole </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d7d/a08262.html">WorldObject</a> const *&#160;</td>
-          <td class="paramname"><em>object</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d5/d43/a08350.html">WorldObject</a> const &amp;&#160;</td>
+          <td class="paramname"><em>obj</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>range</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>equals</em>&#160;</td>
+          <td class="paramname"><em>range</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -171,16 +169,14 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1649</span>: <a class="code hl_variable" href="../../d2/d3d/a09250.html#a5fba0e3c7cde76bfe56f8e9e9716412b">_object</a>(<span class="keywordtype">object</span>), <a class="code hl_variable" href="../../d2/d3d/a09250.html#ae40de8ce49bb429243e5059b6d14398f">_range</a>(range), <a class="code hl_variable" href="../../d2/d3d/a09250.html#aebb4cb9e84cf91cca235fe663dba8d60">_equals</a>(equals) { }</div>
-<div class="ttc" id="aa09250_html_a5fba0e3c7cde76bfe56f8e9e9716412b"><div class="ttname"><a href="../../d2/d3d/a09250.html#a5fba0e3c7cde76bfe56f8e9e9716412b">Acore::AllWorldObjectsInExactRange::_object</a></div><div class="ttdeci">WorldObject const  * _object</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1656</div></div>
-<div class="ttc" id="aa09250_html_ae40de8ce49bb429243e5059b6d14398f"><div class="ttname"><a href="../../d2/d3d/a09250.html#ae40de8ce49bb429243e5059b6d14398f">Acore::AllWorldObjectsInExactRange::_range</a></div><div class="ttdeci">float _range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1657</div></div>
-<div class="ttc" id="aa09250_html_aebb4cb9e84cf91cca235fe663dba8d60"><div class="ttname"><a href="../../d2/d3d/a09250.html#aebb4cb9e84cf91cca235fe663dba8d60">Acore::AllWorldObjectsInExactRange::_equals</a></div><div class="ttdeci">bool _equals</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1658</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  684</span>: <a class="code hl_variable" href="../../d2/d3d/a09250.html#a182fbf6b5cc68fb0eba6be26568c9d78">i_obj</a>(obj), <a class="code hl_variable" href="../../d2/d3d/a09250.html#af27a870fb654a130bf1e4ac1472fdffc">i_range</a>(range) {}</div>
+<div class="ttc" id="aa09250_html_a182fbf6b5cc68fb0eba6be26568c9d78"><div class="ttname"><a href="../../d2/d3d/a09250.html#a182fbf6b5cc68fb0eba6be26568c9d78">Acore::NearestGameObjectFishingHole::i_obj</a></div><div class="ttdeci">WorldObject const  &amp; i_obj</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:695</div></div>
+<div class="ttc" id="aa09250_html_af27a870fb654a130bf1e4ac1472fdffc"><div class="ttname"><a href="../../d2/d3d/a09250.html#af27a870fb654a130bf1e4ac1472fdffc">Acore::NearestGameObjectFishingHole::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:696</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="afe0bea69ddd5e275363361bf37284840" name="afe0bea69ddd5e275363361bf37284840"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afe0bea69ddd5e275363361bf37284840">&#9670;&#160;</a></span>operator()()</h2>
+<a id="a256c64e6c82d98349b958647d98bf4ce" name="a256c64e6c82d98349b958647d98bf4ce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a256c64e6c82d98349b958647d98bf4ce">&#9670;&#160;</a></span>NearestGameObjectFishingHole() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -189,10 +185,37 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool Acore::AllWorldObjectsInExactRange::operator() </td>
+          <td class="memname">Acore::NearestGameObjectFishingHole::NearestGameObjectFishingHole </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d7d/a08262.html">WorldObject</a> const *&#160;</td>
-          <td class="paramname"><em>object</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d2/d3d/a09250.html">NearestGameObjectFishingHole</a> const &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a52e2c64f8209ab364f4e85e1f4e947dc" name="a52e2c64f8209ab364f4e85e1f4e947dc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a52e2c64f8209ab364f4e85e1f4e947dc">&#9670;&#160;</a></span>operator()()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Acore::NearestGameObjectFishingHole::operator() </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/dc8/a08122.html">GameObject</a> *&#160;</td>
+          <td class="paramname"><em>go</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -202,18 +225,30 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1651</span>        {</div>
-<div class="line"><span class="lineno"> 1652</span>            <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d2/d3d/a09250.html#a5fba0e3c7cde76bfe56f8e9e9716412b">_object</a>-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#a2c4639bb74233e1c02c99c465e28895e">GetExactDist2d</a>(<span class="keywordtype">object</span>) &gt; <a class="code hl_variable" href="../../d2/d3d/a09250.html#ae40de8ce49bb429243e5059b6d14398f">_range</a>) == <a class="code hl_variable" href="../../d2/d3d/a09250.html#aebb4cb9e84cf91cca235fe663dba8d60">_equals</a>;</div>
-<div class="line"><span class="lineno"> 1653</span>        }</div>
-<div class="ttc" id="aa08306_html_a2c4639bb74233e1c02c99c465e28895e"><div class="ttname"><a href="../../d3/d02/a08306.html#a2c4639bb74233e1c02c99c465e28895e">Position::GetExactDist2d</a></div><div class="ttdeci">float GetExactDist2d(const float x, const float y) const</div><div class="ttdef"><b>Definition:</b> Position.h:165</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  686</span>        {</div>
+<div class="line"><span class="lineno">  687</span>            <span class="keywordflow">if</span> (go-&gt;<a class="code hl_function" href="../../d8/dc8/a08122.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../df/d48/a08126.html#a1c78664b7272010dac83e9f4ea132330">type</a> == <a class="code hl_enumvalue" href="../../d4/d3a/a00101.html#a0233096c29a8a39f15373e06434985f9a621022b3f9bd3e04f5e7221e7aaf44bc">GAMEOBJECT_TYPE_FISHINGHOLE</a> &amp;&amp; go-&gt;<a class="code hl_function" href="../../d8/dc8/a08122.html#a462386b3457bdd1da4821cd6e6f9c64c">isSpawned</a>() &amp;&amp; <a class="code hl_variable" href="../../d2/d3d/a09250.html#a182fbf6b5cc68fb0eba6be26568c9d78">i_obj</a>.<a class="code hl_function" href="../../d5/d43/a08350.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(go, <a class="code hl_variable" href="../../d2/d3d/a09250.html#af27a870fb654a130bf1e4ac1472fdffc">i_range</a>) &amp;&amp; <a class="code hl_variable" href="../../d2/d3d/a09250.html#a182fbf6b5cc68fb0eba6be26568c9d78">i_obj</a>.<a class="code hl_function" href="../../d5/d43/a08350.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(go, (<span class="keywordtype">float</span>)go-&gt;<a class="code hl_function" href="../../d8/dc8/a08122.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../df/d48/a08126.html#a8e80173abf9d3c72849bd1e2d6deb8fc">fishinghole</a>.<a class="code hl_variable" href="../../df/d48/a08126.html#a303ebbf7423f0f937bd81f5e4039dede">radius</a>))</div>
+<div class="line"><span class="lineno">  688</span>            {</div>
+<div class="line"><span class="lineno">  689</span>                <a class="code hl_variable" href="../../d2/d3d/a09250.html#af27a870fb654a130bf1e4ac1472fdffc">i_range</a> = <a class="code hl_variable" href="../../d2/d3d/a09250.html#a182fbf6b5cc68fb0eba6be26568c9d78">i_obj</a>.<a class="code hl_function" href="../../d5/d43/a08350.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(go);</div>
+<div class="line"><span class="lineno">  690</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  691</span>            }</div>
+<div class="line"><span class="lineno">  692</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  693</span>        }</div>
+<div class="ttc" id="aa00101_html_a0233096c29a8a39f15373e06434985f9a621022b3f9bd3e04f5e7221e7aaf44bc"><div class="ttname"><a href="../../d4/d3a/a00101.html#a0233096c29a8a39f15373e06434985f9a621022b3f9bd3e04f5e7221e7aaf44bc">GAMEOBJECT_TYPE_FISHINGHOLE</a></div><div class="ttdeci">@ GAMEOBJECT_TYPE_FISHINGHOLE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1585</div></div>
+<div class="ttc" id="aa08122_html_a1415b5cb9b3b3f4f6691584c5b6d7324"><div class="ttname"><a href="../../d8/dc8/a08122.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GameObject::GetGOInfo</a></div><div class="ttdeci">GameObjectTemplate const * GetGOInfo() const</div><div class="ttdef"><b>Definition:</b> GameObject.h:136</div></div>
+<div class="ttc" id="aa08122_html_a462386b3457bdd1da4821cd6e6f9c64c"><div class="ttname"><a href="../../d8/dc8/a08122.html#a462386b3457bdd1da4821cd6e6f9c64c">GameObject::isSpawned</a></div><div class="ttdeci">bool isSpawned() const</div><div class="ttdef"><b>Definition:</b> GameObject.h:189</div></div>
+<div class="ttc" id="aa08126_html_a1c78664b7272010dac83e9f4ea132330"><div class="ttname"><a href="../../df/d48/a08126.html#a1c78664b7272010dac83e9f4ea132330">GameObjectTemplate::type</a></div><div class="ttdeci">uint32 type</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:33</div></div>
+<div class="ttc" id="aa08126_html_a303ebbf7423f0f937bd81f5e4039dede"><div class="ttname"><a href="../../df/d48/a08126.html#a303ebbf7423f0f937bd81f5e4039dede">GameObjectTemplate::radius</a></div><div class="ttdeci">uint32 radius</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:196</div></div>
+<div class="ttc" id="aa08126_html_a8e80173abf9d3c72849bd1e2d6deb8fc"><div class="ttname"><a href="../../df/d48/a08126.html#a8e80173abf9d3c72849bd1e2d6deb8fc">GameObjectTemplate::fishinghole</a></div><div class="ttdeci">struct GameObjectTemplate::@231::@252 fishinghole</div></div>
+<div class="ttc" id="aa08350_html_ab73407bcdf13a30519a953d24773ed02"><div class="ttname"><a href="../../d5/d43/a08350.html#ab73407bcdf13a30519a953d24773ed02">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1332</div></div>
+<div class="ttc" id="aa08350_html_acaa0cccbbb9cac74080c8279a571a68c"><div class="ttname"><a href="../../d5/d43/a08350.html#acaa0cccbbb9cac74080c8279a571a68c">WorldObject::GetDistance</a></div><div class="ttdeci">float GetDistance(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1256</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01658">_equals</a>, <a class="el" href="../../#l01656">_object</a>, <a class="el" href="../../#l01657">_range</a>, and <a class="el" href="../../#l00165">Position::GetExactDist2d()</a>.</p>
+<p class="reference">References <a class="el" href="../../df/d48/a08126.html#a8e80173abf9d3c72849bd1e2d6deb8fc">GameObjectTemplate::fishinghole</a>, <a class="el" href="../../#l01585">GAMEOBJECT_TYPE_FISHINGHOLE</a>, <a class="el" href="../../#l01256">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00136">GameObject::GetGOInfo()</a>, <a class="el" href="../../#l00695">i_obj</a>, <a class="el" href="../../#l00696">i_range</a>, <a class="el" href="../../#l00189">GameObject::isSpawned()</a>, <a class="el" href="../../#l01332">WorldObject::IsWithinDistInMap()</a>, <a class="el" href="../../#l00196">GameObjectTemplate::radius</a>, and <a class="el" href="../../#l00033">GameObjectTemplate::type</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="aebb4cb9e84cf91cca235fe663dba8d60" name="aebb4cb9e84cf91cca235fe663dba8d60"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aebb4cb9e84cf91cca235fe663dba8d60">&#9670;&#160;</a></span>_equals</h2>
+<a id="a182fbf6b5cc68fb0eba6be26568c9d78" name="a182fbf6b5cc68fb0eba6be26568c9d78"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a182fbf6b5cc68fb0eba6be26568c9d78">&#9670;&#160;</a></span>i_obj</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -222,7 +257,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool Acore::AllWorldObjectsInExactRange::_equals</td>
+          <td class="memname"><a class="el" href="../../d5/d43/a08350.html">WorldObject</a> const&amp; Acore::NearestGameObjectFishingHole::i_obj</td>
         </tr>
       </table>
   </td>
@@ -232,12 +267,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01650">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00685">operator()()</a>.</p>
 
 </div>
 </div>
-<a id="a5fba0e3c7cde76bfe56f8e9e9716412b" name="a5fba0e3c7cde76bfe56f8e9e9716412b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5fba0e3c7cde76bfe56f8e9e9716412b">&#9670;&#160;</a></span>_object</h2>
+<a id="af27a870fb654a130bf1e4ac1472fdffc" name="af27a870fb654a130bf1e4ac1472fdffc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af27a870fb654a130bf1e4ac1472fdffc">&#9670;&#160;</a></span>i_range</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -246,7 +281,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/d7d/a08262.html">WorldObject</a> const* Acore::AllWorldObjectsInExactRange::_object</td>
+          <td class="memname">float Acore::NearestGameObjectFishingHole::i_range</td>
         </tr>
       </table>
   </td>
@@ -256,31 +291,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01650">operator()()</a>.</p>
-
-</div>
-</div>
-<a id="ae40de8ce49bb429243e5059b6d14398f" name="ae40de8ce49bb429243e5059b6d14398f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae40de8ce49bb429243e5059b6d14398f">&#9670;&#160;</a></span>_range</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">float Acore::AllWorldObjectsInExactRange::_range</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01650">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00685">operator()()</a>.</p>
 
 </div>
 </div>
@@ -289,8 +300,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/dcf/a04692.html">Acore</a></li><li class="navelem"><a class="el" href="../../d2/d3d/a09250.html">AllWorldObjectsInExactRange</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:45:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/dda/a04740.html">Acore</a></li><li class="navelem"><a class="el" href="../../d2/d3d/a09250.html">NearestGameObjectFishingHole</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:43:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

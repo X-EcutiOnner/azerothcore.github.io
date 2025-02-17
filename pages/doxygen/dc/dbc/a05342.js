@@ -1,7 +1,12 @@
 var a05342 =
 [
-    [ "Lock", "dc/dbc/a05342.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6", null ],
-    [ "Lock", "dc/dbc/a05342.html#a231cacf52a05959e927bc8514bfa1cf3", null ],
-    [ "Lock", "dc/dbc/a05342.html#a342f976604dd6d072e781f27dc511030", null ],
-    [ "~Lock", "dc/dbc/a05342.html#a08c6dbf00950b05d493e28ec95906c4e", null ]
+    [ "Node", "d5/d30/a05346.html", "d5/d30/a05346" ],
+    [ "MPSCQueueNonIntrusive", "dc/dbc/a05342.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
+    [ "~MPSCQueueNonIntrusive", "dc/dbc/a05342.html#a599e2093215f70dc4f2f7db08965d816", null ],
+    [ "MPSCQueueNonIntrusive", "dc/dbc/a05342.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
+    [ "Dequeue", "dc/dbc/a05342.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
+    [ "Enqueue", "dc/dbc/a05342.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
+    [ "operator=", "dc/dbc/a05342.html#a75063e89049903fb5305d67ea1a02034", null ],
+    [ "_head", "dc/dbc/a05342.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
+    [ "_tail", "dc/dbc/a05342.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
 ];

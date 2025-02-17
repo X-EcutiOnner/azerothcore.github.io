@@ -1,10 +1,8 @@
 var a08778 =
 [
-    [ "creatureRate", "d5/d99/a08778.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
-    [ "questDailyRate", "d5/d99/a08778.html#a1798044bdf25ce774191b00e261add1e", null ],
-    [ "questMonthlyRate", "d5/d99/a08778.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
-    [ "questRate", "d5/d99/a08778.html#a914118aa28b3736ff4e6c5b61d738834", null ],
-    [ "questRepeatableRate", "d5/d99/a08778.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
-    [ "questWeeklyRate", "d5/d99/a08778.html#a0fb31ebc33d0ce11f392be845907e043", null ],
-    [ "spellRate", "d5/d99/a08778.html#a508485f1e6833c58a11706667a2c24fd", null ]
+    [ "Entry", "d5/d99/a08778.html#ac9fa29db15e06513805124a56cd073e8", null ],
+    [ "ExtendedCost", "d5/d99/a08778.html#ac826dc078ef456ed93bf23175bce243d", null ],
+    [ "Incrtime", "d5/d99/a08778.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
+    [ "Item", "d5/d99/a08778.html#aa500da847d94a9b70cb3a26b782059b3", null ],
+    [ "MaxCount", "d5/d99/a08778.html#a04534ff42e5889995b5203a3257bc864", null ]
 ];

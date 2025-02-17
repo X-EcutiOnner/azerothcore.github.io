@@ -1,6 +1,9 @@
 var a09798 =
 [
-    [ "AssistanceDistractMovementGenerator", "d0/d6d/a09798.html#ae472d28ebb4624855632ac7f0bd7b219", null ],
-    [ "Finalize", "d0/d6d/a09798.html#a1511f74a52e5ad92471e554eb77c235a", null ],
-    [ "GetMovementGeneratorType", "d0/d6d/a09798.html#a233eb9333ea365955589932ddbd18d8a", null ]
+    [ "TransportAnimation", "d0/d6d/a09798.html#a775b84b54deefd38af40222afd82d572", null ],
+    [ "GetAnimNode", "d0/d6d/a09798.html#a73b56750c90afce38dbf57793bae16f3", null ],
+    [ "GetAnimRotation", "d0/d6d/a09798.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
+    [ "Path", "d0/d6d/a09798.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
+    [ "Rotations", "d0/d6d/a09798.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
+    [ "TotalTime", "d0/d6d/a09798.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
 ];

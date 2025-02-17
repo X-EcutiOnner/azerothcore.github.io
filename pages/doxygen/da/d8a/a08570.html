@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: CleanDamage Struct Reference</title>
+<title>AzerothCore: Player::ChatFloodThrottle Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,149 +105,89 @@ $(document).ready(function(){initNavTree('da/d8a/a08570.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d7/dae/a08567.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">CleanDamage Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Player::ChatFloodThrottle Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:ad25ab816a679e323c07873efbc1c2f20"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8a/a08570.html#ad25ab816a679e323c07873efbc1c2f20">CleanDamage</a> (<a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mitigated, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> absorbed, <a class="el" href="../../d9/d25/a01157.html#a85524ab4e1fb005ed500bd190f79c352">WeaponAttackType</a> _attackType, <a class="el" href="../../d9/d25/a01157.html#aba4a9525e87c7e76c6c005bc3c3f53a5">MeleeHitOutcome</a> _hitOutCome)</td></tr>
-<tr class="separator:ad25ab816a679e323c07873efbc1c2f20"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:a28b25d822326a1b7d5ec7f95ce084bac"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084bac">Index</a> { <br />
+&#160;&#160;<a class="el" href="../../da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68">REGULAR</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb">ADDON</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5">MAX</a>
+<br />
+ }</td></tr>
+<tr class="separator:a28b25d822326a1b7d5ec7f95ce084bac"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a7ba8e32e564b43915889a23ecb9d5297"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8a/a08570.html#a7ba8e32e564b43915889a23ecb9d5297">absorbed_damage</a></td></tr>
-<tr class="separator:a7ba8e32e564b43915889a23ecb9d5297"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6aeffc94560ac510c0b89e4384a2f41a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8a/a08570.html#a6aeffc94560ac510c0b89e4384a2f41a">mitigated_damage</a></td></tr>
-<tr class="separator:a6aeffc94560ac510c0b89e4384a2f41a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad9b56ae5faabe67a8fdec8cd5a7988b1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d25/a01157.html#a85524ab4e1fb005ed500bd190f79c352">WeaponAttackType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8a/a08570.html#ad9b56ae5faabe67a8fdec8cd5a7988b1">attackType</a></td></tr>
-<tr class="separator:ad9b56ae5faabe67a8fdec8cd5a7988b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a040977b1579b62695b4cbcf0c2ffeaa8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d25/a01157.html#aba4a9525e87c7e76c6c005bc3c3f53a5">MeleeHitOutcome</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8a/a08570.html#a040977b1579b62695b4cbcf0c2ffeaa8">hitOutCome</a></td></tr>
-<tr class="separator:a040977b1579b62695b4cbcf0c2ffeaa8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a20b83dcc96256f2ab16326b2b8ec925e"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8a/a08570.html#a20b83dcc96256f2ab16326b2b8ec925e">Time</a> = 0</td></tr>
+<tr class="separator:a20b83dcc96256f2ab16326b2b8ec925e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0dc1d4dc63d5289fde92bbb2c28a7e2e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8a/a08570.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e">Count</a> = 0</td></tr>
+<tr class="separator:a0dc1d4dc63d5289fde92bbb2c28a7e2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad25ab816a679e323c07873efbc1c2f20" name="ad25ab816a679e323c07873efbc1c2f20"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad25ab816a679e323c07873efbc1c2f20">&#9670;&#160;</a></span>CleanDamage()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Enumeration Documentation</h2>
+<a id="a28b25d822326a1b7d5ec7f95ce084bac" name="a28b25d822326a1b7d5ec7f95ce084bac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a28b25d822326a1b7d5ec7f95ce084bac">&#9670;&#160;</a></span>Index</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">CleanDamage::CleanDamage </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>mitigated</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>absorbed</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d25/a01157.html#a85524ab4e1fb005ed500bd190f79c352">WeaponAttackType</a>&#160;</td>
-          <td class="paramname"><em>_attackType</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d25/a01157.html#aba4a9525e87c7e76c6c005bc3c3f53a5">MeleeHitOutcome</a>&#160;</td>
-          <td class="paramname"><em>_hitOutCome</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">enum <a class="el" href="../../da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084bac">Player::ChatFloodThrottle::Index</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  316</span>                                                                                                              :</div>
-<div class="line"><span class="lineno">  317</span>        <a class="code hl_variable" href="../../da/d8a/a08570.html#a7ba8e32e564b43915889a23ecb9d5297">absorbed_damage</a>(absorbed), <a class="code hl_variable" href="../../da/d8a/a08570.html#a6aeffc94560ac510c0b89e4384a2f41a">mitigated_damage</a>(mitigated), <a class="code hl_variable" href="../../da/d8a/a08570.html#ad9b56ae5faabe67a8fdec8cd5a7988b1">attackType</a>(_attackType), <a class="code hl_variable" href="../../da/d8a/a08570.html#a040977b1579b62695b4cbcf0c2ffeaa8">hitOutCome</a>(_hitOutCome) {}</div>
-<div class="ttc" id="aa08570_html_a040977b1579b62695b4cbcf0c2ffeaa8"><div class="ttname"><a href="../../da/d8a/a08570.html#a040977b1579b62695b4cbcf0c2ffeaa8">CleanDamage::hitOutCome</a></div><div class="ttdeci">MeleeHitOutcome hitOutCome</div><div class="ttdef"><b>Definition:</b> Unit.h:323</div></div>
-<div class="ttc" id="aa08570_html_a6aeffc94560ac510c0b89e4384a2f41a"><div class="ttname"><a href="../../da/d8a/a08570.html#a6aeffc94560ac510c0b89e4384a2f41a">CleanDamage::mitigated_damage</a></div><div class="ttdeci">uint32 mitigated_damage</div><div class="ttdef"><b>Definition:</b> Unit.h:320</div></div>
-<div class="ttc" id="aa08570_html_a7ba8e32e564b43915889a23ecb9d5297"><div class="ttname"><a href="../../da/d8a/a08570.html#a7ba8e32e564b43915889a23ecb9d5297">CleanDamage::absorbed_damage</a></div><div class="ttdeci">uint32 absorbed_damage</div><div class="ttdef"><b>Definition:</b> Unit.h:319</div></div>
-<div class="ttc" id="aa08570_html_ad9b56ae5faabe67a8fdec8cd5a7988b1"><div class="ttname"><a href="../../da/d8a/a08570.html#ad9b56ae5faabe67a8fdec8cd5a7988b1">CleanDamage::attackType</a></div><div class="ttdeci">WeaponAttackType attackType</div><div class="ttdef"><b>Definition:</b> Unit.h:322</div></div>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68" name="a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68"></a>REGULAR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb" name="a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb"></a>ADDON&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5" name="a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5"></a>MAX&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno"> 2324</span>        {</div>
+<div class="line"><span class="lineno"> 2325</span>            <a class="code hl_enumvalue" href="../../da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68">REGULAR</a> = 0,</div>
+<div class="line"><span class="lineno"> 2326</span>            <a class="code hl_enumvalue" href="../../da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb">ADDON</a> = 1,</div>
+<div class="line"><span class="lineno"> 2327</span>            <a class="code hl_enumvalue" href="../../da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5">MAX</a></div>
+<div class="line"><span class="lineno"> 2328</span>        };</div>
+<div class="ttc" id="aa08570_html_a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb"><div class="ttname"><a href="../../da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb">Player::ChatFloodThrottle::ADDON</a></div><div class="ttdeci">@ ADDON</div><div class="ttdef"><b>Definition:</b> Player.h:2326</div></div>
+<div class="ttc" id="aa08570_html_a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5"><div class="ttname"><a href="../../da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5">Player::ChatFloodThrottle::MAX</a></div><div class="ttdeci">@ MAX</div><div class="ttdef"><b>Definition:</b> Player.h:2327</div></div>
+<div class="ttc" id="aa08570_html_a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68"><div class="ttname"><a href="../../da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68">Player::ChatFloodThrottle::REGULAR</a></div><div class="ttdeci">@ REGULAR</div><div class="ttdef"><b>Definition:</b> Player.h:2325</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a7ba8e32e564b43915889a23ecb9d5297" name="a7ba8e32e564b43915889a23ecb9d5297"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7ba8e32e564b43915889a23ecb9d5297">&#9670;&#160;</a></span>absorbed_damage</h2>
+<a id="a0dc1d4dc63d5289fde92bbb2c28a7e2e" name="a0dc1d4dc63d5289fde92bbb2c28a7e2e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0dc1d4dc63d5289fde92bbb2c28a7e2e">&#9670;&#160;</a></span>Count</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CleanDamage::absorbed_damage</td>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Player::ChatFloodThrottle::Count = 0</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00810">Unit::DealDamage()</a>.</p>
-
 </div>
 </div>
-<a id="ad9b56ae5faabe67a8fdec8cd5a7988b1" name="ad9b56ae5faabe67a8fdec8cd5a7988b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad9b56ae5faabe67a8fdec8cd5a7988b1">&#9670;&#160;</a></span>attackType</h2>
+<a id="a20b83dcc96256f2ab16326b2b8ec925e" name="a20b83dcc96256f2ab16326b2b8ec925e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a20b83dcc96256f2ab16326b2b8ec925e">&#9670;&#160;</a></span>Time</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d25/a01157.html#a85524ab4e1fb005ed500bd190f79c352">WeaponAttackType</a> CleanDamage::attackType</td>
+          <td class="memname">time_t Player::ChatFloodThrottle::Time = 0</td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00810">Unit::DealDamage()</a>.</p>
-
-</div>
-</div>
-<a id="a040977b1579b62695b4cbcf0c2ffeaa8" name="a040977b1579b62695b4cbcf0c2ffeaa8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a040977b1579b62695b4cbcf0c2ffeaa8">&#9670;&#160;</a></span>hitOutCome</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/d25/a01157.html#aba4a9525e87c7e76c6c005bc3c3f53a5">MeleeHitOutcome</a> CleanDamage::hitOutCome</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00810">Unit::DealDamage()</a>.</p>
-
-</div>
-</div>
-<a id="a6aeffc94560ac510c0b89e4384a2f41a" name="a6aeffc94560ac510c0b89e4384a2f41a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6aeffc94560ac510c0b89e4384a2f41a">&#9670;&#160;</a></span>mitigated_damage</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CleanDamage::mitigated_damage</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06594">AuraEffect::HandlePeriodicDamageAurasTick()</a>, and <a class="el" href="../../#l06748">AuraEffect::HandlePeriodicHealthLeechAuraTick()</a>.</p>
 
 </div>
 </div>
@@ -256,8 +196,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/d8a/a08570.html">CleanDamage</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:44:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d4a/a08566.html">Player</a></li><li class="navelem"><a class="el" href="../../da/d8a/a08570.html">ChatFloodThrottle</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:43:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

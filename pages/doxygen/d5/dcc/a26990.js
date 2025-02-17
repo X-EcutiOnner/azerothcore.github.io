@@ -1,6 +1,7 @@
 var a26990 =
 [
-    [ "go_midsummer_musicAI", "d5/dcc/a26990.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
-    [ "UpdateAI", "d5/dcc/a26990.html#adf185ee702e9e74f65204b90786f9eb4", null ],
-    [ "_events", "d5/dcc/a26990.html#a31e45a754930cdc3206fe2b7f754d234", null ]
+    [ "HandlePeriodic", "d5/dcc/a26990.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "d5/dcc/a26990.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "d5/dcc/a26990.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "d5/dcc/a26990.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

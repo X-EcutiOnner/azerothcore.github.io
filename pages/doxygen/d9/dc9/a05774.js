@@ -1,11 +1,10 @@
 var a05774 =
 [
-    [ "SQLOperation", "d9/dc9/a05774.html#a0f69657715b7d24458227b22a3b40b1a", null ],
-    [ "~SQLOperation", "d9/dc9/a05774.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
-    [ "SQLOperation", "d9/dc9/a05774.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
-    [ "call", "d9/dc9/a05774.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
-    [ "Execute", "d9/dc9/a05774.html#aff1090554bc4a6fe7a33270e63416e19", null ],
-    [ "operator=", "d9/dc9/a05774.html#ac31349ed45ea051540ac345bd4b814d5", null ],
-    [ "SetConnection", "d9/dc9/a05774.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
-    [ "m_conn", "d9/dc9/a05774.html#adf322db48064fcf4528f713f857f1b40", null ]
+    [ "PreparedStatementTask", "d9/dc9/a05774.html#a332f6ddad1ee338da3fa4bd2461a9c29", null ],
+    [ "~PreparedStatementTask", "d9/dc9/a05774.html#a4ca96ab46d5015b2c673164652146886", null ],
+    [ "Execute", "d9/dc9/a05774.html#ad4058410f5eba4f0f935696d38ba85ab", null ],
+    [ "GetFuture", "d9/dc9/a05774.html#a07031e5cff28553e33d98140847b9e0d", null ],
+    [ "m_has_result", "d9/dc9/a05774.html#a7c2841b7638c42caa4e8c1116110f8a3", null ],
+    [ "m_result", "d9/dc9/a05774.html#a841a7aefd9ea58a76cead1da65a786b2", null ],
+    [ "m_stmt", "d9/dc9/a05774.html#aba9082a717729915a4e4d640220a49d2", null ]
 ];

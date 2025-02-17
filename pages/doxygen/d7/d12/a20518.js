@@ -1,6 +1,6 @@
 var a20518 =
 [
-    [ "boss_yoggsaronAI", "dc/dc5/a20522.html", "dc/dc5/a20522" ],
-    [ "boss_yoggsaron", "d7/d12/a20518.html#a3fa3ada3979b55100b8ca9e21ec655a1", null ],
-    [ "GetAI", "d7/d12/a20518.html#a113eb034acc46a2edd4a84598413a63e", null ]
+    [ "OnPeriodic", "d7/d12/a20518.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "d7/d12/a20518.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "d7/d12/a20518.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

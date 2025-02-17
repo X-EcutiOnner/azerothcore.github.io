@@ -1,8 +1,7 @@
 var a07874 =
 [
-    [ "TemporaryThreatModifierEvent", "d9/d64/a07874.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
-    [ "Execute", "d9/d64/a07874.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
-    [ "m_owner", "d9/d64/a07874.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
-    [ "m_threatValue", "d9/d64/a07874.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
-    [ "m_threatVictimGUID", "d9/d64/a07874.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
+    [ "LfgJoinResultData", "d9/d64/a07874.html#a1d711d49a6b49f55eb3771352b294b95", null ],
+    [ "lockmap", "d9/d64/a07874.html#aff918b3c02ca76982a964402175f8ad7", null ],
+    [ "result", "d9/d64/a07874.html#aa713cbc1930962d520883523f6f6446c", null ],
+    [ "state", "d9/d64/a07874.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
 ];

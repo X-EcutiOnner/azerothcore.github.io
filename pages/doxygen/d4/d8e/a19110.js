@@ -1,6 +1,6 @@
 var a19110 =
 [
-    [ "instance_oculus_InstanceMapScript", "d9/d93/a19114.html", "d9/d93/a19114" ],
-    [ "instance_oculus", "d4/d8e/a19110.html#a404205ea7106531ea57307c40b9589bb", null ],
-    [ "GetInstanceScript", "d4/d8e/a19110.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
+    [ "npc_eoe_wyrmrest_skytalonAI", "d4/d8e/a19110.html#a0878695bc4179e3b6e92dde9f2b5cf19", null ],
+    [ "JustDied", "d4/d8e/a19110.html#aaa88ff236fd49a9c672ab29feb7377b8", null ],
+    [ "PassengerBoarded", "d4/d8e/a19110.html#aa3352276e87d805cc8722eb97d10ca46", null ]
 ];

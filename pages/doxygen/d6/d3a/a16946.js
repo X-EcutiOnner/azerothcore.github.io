@@ -1,7 +1,6 @@
 var a16946 =
 [
-    [ "HandlePeriodic", "d6/d3a/a16946.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
-    [ "PrepareAuraScript", "d6/d3a/a16946.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
-    [ "Register", "d6/d3a/a16946.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
-    [ "Validate", "d6/d3a/a16946.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
+    [ "SlaveRunEvent", "d6/d3a/a16946.html#a4560b275b0870cdbd192b2610893b47c", null ],
+    [ "Execute", "d6/d3a/a16946.html#a81db67be136525dea5a9cd84180be165", null ],
+    [ "_owner", "d6/d3a/a16946.html#a33e2ce4cea1edf2e0967696c41667f15", null ]
 ];

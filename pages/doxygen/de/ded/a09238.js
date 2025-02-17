@@ -1,7 +1,10 @@
 var a09238 =
 [
-    [ "ObjectTypeIdCheck", "de/ded/a09238.html#a40af6d4d15e92aaaf2c9bb53ce9bb290", null ],
-    [ "operator()", "de/ded/a09238.html#a9cbd09a6021bef7819a0002952264293", null ],
-    [ "_equals", "de/ded/a09238.html#ab08a6e18731ccb822a71a1530f6966c3", null ],
-    [ "_typeId", "de/ded/a09238.html#a70e9a07e4c2c559bc55b8003db3af3be", null ]
+    [ "AnyDeadUnitSpellTargetInRangeCheck", "de/ded/a09238.html#a212c308a02716ff382e820e86e233ed3", null ],
+    [ "operator()", "de/ded/a09238.html#af328df880d17a62e2dbed0ff4231fc39", null ],
+    [ "operator()", "de/ded/a09238.html#adcc69b9ef03a68aa235e40449a80b701", null ],
+    [ "operator()", "de/ded/a09238.html#a2f2483cf7078681cb3acf28560e61184", null ],
+    [ "operator()", "de/ded/a09238.html#aba0bf4c320a684b68743a06e724a369e", null ],
+    [ "i_check", "de/ded/a09238.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
+    [ "i_spellInfo", "de/ded/a09238.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
 ];

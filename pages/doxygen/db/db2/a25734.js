@@ -1,7 +1,6 @@
 var a25734 =
 [
-    [ "CalculateAmount", "db/db2/a25734.html#a0934aa8eaf442314aa6050d85304c15b", null ],
-    [ "CalculateSpellAmount", "db/db2/a25734.html#ab765b87350bd3e73ac43879abef72d98", null ],
-    [ "PrepareAuraScript", "db/db2/a25734.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
-    [ "Register", "db/db2/a25734.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
+    [ "HandleOpenObject", "db/db2/a25734.html#ab658c13615fac1861470bb4b853e76a4", null ],
+    [ "PrepareSpellScript", "db/db2/a25734.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
+    [ "Register", "db/db2/a25734.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
 ];

@@ -1,15 +1,7 @@
 var a03062 =
 [
-    [ "instance_nexus", "da/d51/a19058.html", "da/d51/a19058" ],
-    [ "instance_nexus::instance_nexus_InstanceMapScript", "d7/d3e/a19062.html", "d7/d3e/a19062" ],
-    [ "npc_crystalline_frayer", "db/d43/a19066.html", "db/d43/a19066" ],
-    [ "eFrayer", "d6/d2a/a03062.html#afccbdf6b1fcd1d08834c371ae089cd34", [
-      [ "SPELL_SUMMON_SEED_POD", "d6/d2a/a03062.html#afccbdf6b1fcd1d08834c371ae089cd34a574104b14cbcd24794ab8666fa8dbd76", null ],
-      [ "SPELL_SEED_POD", "d6/d2a/a03062.html#afccbdf6b1fcd1d08834c371ae089cd34ac55a6fa8082947a3cf2c03a7a6698eb7", null ],
-      [ "SPELL_AURA_OF_REGENERATION", "d6/d2a/a03062.html#afccbdf6b1fcd1d08834c371ae089cd34a16a68348d55363d0fa476afad65ed165", null ],
-      [ "SPELL_CRYSTAL_BLOOM", "d6/d2a/a03062.html#afccbdf6b1fcd1d08834c371ae089cd34a2628113ed0f8c81fec3cbb2dd01123f7", null ],
-      [ "SPELL_ENSNARE", "d6/d2a/a03062.html#afccbdf6b1fcd1d08834c371ae089cd34aa84bf40a2daa426466ad7322a0ab325d", null ]
-    ] ],
-    [ "AddSC_instance_nexus", "d6/d2a/a03062.html#a77d0cce0724befee65efa7555f62f8f1", null ],
-    [ "doorData", "d6/d2a/a03062.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "operator<<", "d6/d2a/a03062.html#a71323635f122d24189054da615cb39e1", null ],
+    [ "operator<<", "d6/d2a/a03062.html#ab63323f8a9ade40ddd90338538b5c9b5", null ],
+    [ "operator>>", "d6/d2a/a03062.html#a72e22c3226b5f361848aef2c75a6d3fb", null ],
+    [ "operator>>", "d6/d2a/a03062.html#af223d782e9dcf0f80ed4009360aa0d80", null ]
 ];

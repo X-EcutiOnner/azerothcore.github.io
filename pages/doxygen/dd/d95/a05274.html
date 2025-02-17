@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MetricData Struct Reference</title>
+<title>AzerothCore: Acore::Encoding::Base64 Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,142 +105,84 @@ $(document).ready(function(){initNavTree('dd/d95/a05274.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../de/d07/a05271.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">MetricData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Encoding::Base64 Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Metric.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Base64.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a6a7956fedac99271428968ba339f464f"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d95/a05274.html#a6a7956fedac99271428968ba339f464f">Category</a></td></tr>
-<tr class="separator:a6a7956fedac99271428968ba339f464f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8248a27d920ca431493750e3f2dec48b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#ada798961abc5a533d616ff780f567bb6">SystemTimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d95/a05274.html#a8248a27d920ca431493750e3f2dec48b">Timestamp</a></td></tr>
-<tr class="separator:a8248a27d920ca431493750e3f2dec48b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af9962592650ba24fd9b3c0ee9ce06f7f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d35/a00266.html#a0bb9cc086e32544cb0e43338f83d8e62">MetricDataType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d95/a05274.html#af9962592650ba24fd9b3c0ee9ce06f7f">Type</a></td></tr>
-<tr class="separator:af9962592650ba24fd9b3c0ee9ce06f7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac22787b2dadd4d3991f72f6ccab5c225"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d5/d35/a00266.html#a8fdc9a93c03faef11e4c36679e79e3f1">MetricTag</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d95/a05274.html#ac22787b2dadd4d3991f72f6ccab5c225">Tags</a></td></tr>
-<tr class="separator:ac22787b2dadd4d3991f72f6ccab5c225"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a09832a09e989c3851e72f4ec198f0e20"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d95/a05274.html#a09832a09e989c3851e72f4ec198f0e20">Value</a></td></tr>
-<tr class="separator:a09832a09e989c3851e72f4ec198f0e20"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a857d2d4843480b9967334f079351292a"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d95/a05274.html#a857d2d4843480b9967334f079351292a">Title</a></td></tr>
-<tr class="separator:a857d2d4843480b9967334f079351292a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab63598f64896186fde81048550767b28"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d95/a05274.html#ab63598f64896186fde81048550767b28">Text</a></td></tr>
-<tr class="separator:ab63598f64896186fde81048550767b28"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a2b0f76655d4e56d8a7aa9a98de87f6cf"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d95/a05274.html#a2b0f76655d4e56d8a7aa9a98de87f6cf">Encode</a> (std::vector&lt; <a class="el" href="../../d3/d56/a04553.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; const &amp;data)</td></tr>
+<tr class="separator:a2b0f76655d4e56d8a7aa9a98de87f6cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c18a834b227a8f60104100bd5c47df5"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d4/d86/a04421.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::vector&lt; <a class="el" href="../../d3/d56/a04553.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d95/a05274.html#a9c18a834b227a8f60104100bd5c47df5">Decode</a> (std::string const &amp;data)</td></tr>
+<tr class="separator:a9c18a834b227a8f60104100bd5c47df5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a6a7956fedac99271428968ba339f464f" name="a6a7956fedac99271428968ba339f464f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6a7956fedac99271428968ba339f464f">&#9670;&#160;</a></span>Category</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a9c18a834b227a8f60104100bd5c47df5" name="a9c18a834b227a8f60104100bd5c47df5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c18a834b227a8f60104100bd5c47df5">&#9670;&#160;</a></span>Decode()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string MetricData::Category</td>
+          <td class="memname"><a class="el" href="../../d4/d86/a04421.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::vector&lt; <a class="el" href="../../d3/d56/a04553.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; &gt; Acore::Encoding::Base64::Decode </td>
+          <td>(</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>data</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00147">Metric::LogEvent()</a>, <a class="el" href="../../#l00110">Metric::LogValue()</a>, and <a class="el" href="../../#l00161">Metric::SendBatch()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   55</span>{</div>
+<div class="line"><span class="lineno">   56</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d6/d9e/a05278.html#a1017c0ca9db8f38832271dbe04a6c22c">Acore::Impl::GenericBaseEncoding&lt;B64Impl&gt;::Decode</a>(data);</div>
+<div class="line"><span class="lineno">   57</span>}</div>
+<div class="ttc" id="aa05278_html_a1017c0ca9db8f38832271dbe04a6c22c"><div class="ttname"><a href="../../d6/d9e/a05278.html#a1017c0ca9db8f38832271dbe04a6c22c">Acore::Impl::GenericBaseEncoding::Decode</a></div><div class="ttdeci">static Optional&lt; std::vector&lt; uint8 &gt; &gt; Decode(std::string const &amp;data)</div><div class="ttdef"><b>Definition:</b> BaseEncoding.h:113</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00113">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt;::Decode()</a>.</p>
 
 </div>
 </div>
-<a id="ac22787b2dadd4d3991f72f6ccab5c225" name="ac22787b2dadd4d3991f72f6ccab5c225"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac22787b2dadd4d3991f72f6ccab5c225">&#9670;&#160;</a></span>Tags</h2>
+<a id="a2b0f76655d4e56d8a7aa9a98de87f6cf" name="a2b0f76655d4e56d8a7aa9a98de87f6cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2b0f76655d4e56d8a7aa9a98de87f6cf">&#9670;&#160;</a></span>Encode()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;<a class="el" href="../../d5/d35/a00266.html#a8fdc9a93c03faef11e4c36679e79e3f1">MetricTag</a>&gt; MetricData::Tags</td>
+          <td class="memname">std::string Acore::Encoding::Base64::Encode </td>
+          <td>(</td>
+          <td class="paramtype">std::vector&lt; <a class="el" href="../../d3/d56/a04553.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; const &amp;&#160;</td>
+          <td class="paramname"><em>data</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00110">Metric::LogValue()</a>, and <a class="el" href="../../#l00161">Metric::SendBatch()</a>.</p>
-
-</div>
-</div>
-<a id="ab63598f64896186fde81048550767b28" name="ab63598f64896186fde81048550767b28"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab63598f64896186fde81048550767b28">&#9670;&#160;</a></span>Text</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string MetricData::Text</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00147">Metric::LogEvent()</a>, and <a class="el" href="../../#l00161">Metric::SendBatch()</a>.</p>
-
-</div>
-</div>
-<a id="a8248a27d920ca431493750e3f2dec48b" name="a8248a27d920ca431493750e3f2dec48b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8248a27d920ca431493750e3f2dec48b">&#9670;&#160;</a></span>Timestamp</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#ada798961abc5a533d616ff780f567bb6">SystemTimePoint</a> MetricData::Timestamp</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00147">Metric::LogEvent()</a>, <a class="el" href="../../#l00110">Metric::LogValue()</a>, and <a class="el" href="../../#l00161">Metric::SendBatch()</a>.</p>
-
-</div>
-</div>
-<a id="a857d2d4843480b9967334f079351292a" name="a857d2d4843480b9967334f079351292a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a857d2d4843480b9967334f079351292a">&#9670;&#160;</a></span>Title</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string MetricData::Title</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00147">Metric::LogEvent()</a>, and <a class="el" href="../../#l00161">Metric::SendBatch()</a>.</p>
-
-</div>
-</div>
-<a id="af9962592650ba24fd9b3c0ee9ce06f7f" name="af9962592650ba24fd9b3c0ee9ce06f7f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af9962592650ba24fd9b3c0ee9ce06f7f">&#9670;&#160;</a></span>Type</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d5/d35/a00266.html#a0bb9cc086e32544cb0e43338f83d8e62">MetricDataType</a> MetricData::Type</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00147">Metric::LogEvent()</a>, <a class="el" href="../../#l00110">Metric::LogValue()</a>, and <a class="el" href="../../#l00161">Metric::SendBatch()</a>.</p>
-
-</div>
-</div>
-<a id="a09832a09e989c3851e72f4ec198f0e20" name="a09832a09e989c3851e72f4ec198f0e20"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a09832a09e989c3851e72f4ec198f0e20">&#9670;&#160;</a></span>Value</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string MetricData::Value</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00110">Metric::LogValue()</a>, and <a class="el" href="../../#l00161">Metric::SendBatch()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   50</span>{</div>
+<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d6/d9e/a05278.html#a9132df0434948b03df8f79b6cc48252c">Acore::Impl::GenericBaseEncoding&lt;B64Impl&gt;::Encode</a>(data);</div>
+<div class="line"><span class="lineno">   52</span>}</div>
+<div class="ttc" id="aa05278_html_a9132df0434948b03df8f79b6cc48252c"><div class="ttname"><a href="../../d6/d9e/a05278.html#a9132df0434948b03df8f79b6cc48252c">Acore::Impl::GenericBaseEncoding::Encode</a></div><div class="ttdeci">static std::string Encode(std::vector&lt; uint8 &gt; const &amp;data)</div><div class="ttdef"><b>Definition:</b> BaseEncoding.h:60</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00060">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt;::Encode()</a>.</p>
 
 </div>
 </div>
@@ -249,8 +191,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/d95/a05274.html">MetricData</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:44:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/dda/a04740.html">Acore</a></li><li class="navelem"><a class="el" href="../../df/d9b/a04755.html">Encoding</a></li><li class="navelem"><a class="el" href="../../dd/d95/a05274.html">Base64</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:43:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,7 @@
 var a27066 =
 [
-    [ "go_hive_pod", "dd/d39/a27066.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
-    [ "OnGossipHello", "dd/d39/a27066.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
+    [ "go_bear_trapAI", "dd/d39/a27066.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "dd/d39/a27066.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "dd/d39/a27066.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "dd/d39/a27066.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

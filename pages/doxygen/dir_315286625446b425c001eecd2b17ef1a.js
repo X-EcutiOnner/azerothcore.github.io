@@ -2,13 +2,15 @@ var dir_315286625446b425c001eecd2b17ef1a =
 [
     [ "Packets", "dir_07fbe19a361de996bef604f9408f4a7b.html", "dir_07fbe19a361de996bef604f9408f4a7b" ],
     [ "Protocol", "dir_1fd92d9a30d0fdf42a981ea00259f736.html", "dir_1fd92d9a30d0fdf42a981ea00259f736" ],
-    [ "Packet.cpp", "df/daa/a02135.html", null ],
-    [ "Packet.h", "dd/d07/a02132.html", "dd/d07/a02132" ],
-    [ "WorldPacket.h", "d1/d39/a02048.html", "d1/d39/a02048" ],
-    [ "WorldSession.cpp", "db/df6/a02138.html", "db/df6/a02138" ],
-    [ "WorldSession.h", "d3/d28/a02147.html", "d3/d28/a02147" ],
-    [ "WorldSocket.cpp", "dc/d29/a02144.html", "dc/d29/a02144" ],
-    [ "WorldSocket.h", "d4/d2e/a02051.html", "d4/d2e/a02051" ],
-    [ "WorldSocketMgr.cpp", "d5/d88/a02141.html", "d5/d88/a02141" ],
-    [ "WorldSocketMgr.h", "db/d26/a02129.html", "db/d26/a02129" ]
+    [ "Packet.cpp", "d3/d7e/a02768.html", null ],
+    [ "Packet.h", "d6/d0b/a02741.html", "d6/d0b/a02741" ],
+    [ "WorldPacket.h", "de/d8c/a02747.html", "de/d8c/a02747" ],
+    [ "WorldSession.cpp", "df/d91/a02774.html", "df/d91/a02774" ],
+    [ "WorldSession.h", "d0/dbd/a02771.html", "d0/dbd/a02771" ],
+    [ "WorldSessionMgr.cpp", "d7/d14/a02750.html", null ],
+    [ "WorldSessionMgr.h", "d6/df4/a02735.html", "d6/df4/a02735" ],
+    [ "WorldSocket.cpp", "df/de4/a02780.html", "df/de4/a02780" ],
+    [ "WorldSocket.h", "d5/db0/a02777.html", "d5/db0/a02777" ],
+    [ "WorldSocketMgr.cpp", "da/d62/a02738.html", "da/d62/a02738" ],
+    [ "WorldSocketMgr.h", "d5/dc7/a02744.html", "d5/dc7/a02744" ]
 ];

@@ -1,9 +1,7 @@
 var a19806 =
 [
-    [ "boss_freya_nature_bombAI", "df/d43/a19806.html#acbf4d330bb5bf4a032732895e8f7e35b", null ],
-    [ "Reset", "df/d43/a19806.html#a60738702870e2cacbcdf600e9e7073b5", null ],
-    [ "UpdateAI", "df/d43/a19806.html#a4bfa9df3e3151743485f59c4d318d7f9", null ],
-    [ "_explodeTimer", "df/d43/a19806.html#a2af9ed2067097eec2a647f17f8b1ef71", null ],
-    [ "_goGUID", "df/d43/a19806.html#a1a7579cc6957a52d65a1d302d5ba1da0", null ],
-    [ "Timer", "df/d43/a19806.html#a714a582c6ec552b969624244d709d14d", null ]
+    [ "FilterTargets", "df/d43/a19806.html#a3d864f0428b7e53774d06069037ca5b2", null ],
+    [ "HandleScript", "df/d43/a19806.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
+    [ "PrepareSpellScript", "df/d43/a19806.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
+    [ "Register", "df/d43/a19806.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
 ];

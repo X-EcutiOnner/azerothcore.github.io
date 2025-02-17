@@ -1,7 +1,8 @@
 var a10722 =
 [
-    [ "UpdateWorldState", "dd/dfd/a10722.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
-    [ "Write", "dd/dfd/a10722.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
-    [ "Value", "dd/dfd/a10722.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
-    [ "VariableID", "dd/dfd/a10722.html#aa73278b324822f509f48e6edcdaed457", null ]
+    [ "PauseMirrorTimer", "dd/dfd/a10722.html#a05ccc52cb56d38cadb27fbde2563df45", null ],
+    [ "PauseMirrorTimer", "dd/dfd/a10722.html#ad6e7a6eb3edadc235dc5bb97802381ac", null ],
+    [ "Write", "dd/dfd/a10722.html#aea61f9e668173b65eac3b9f42ddd68a1", null ],
+    [ "Paused", "dd/dfd/a10722.html#a7adf6dcd7e712792ea94bad77f8be232", null ],
+    [ "Timer", "dd/dfd/a10722.html#a4a041bf772ef3f145bde6be9f8ecdc13", null ]
 ];

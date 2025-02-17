@@ -1,6 +1,9 @@
 var a23598 =
 [
-    [ "instance_the_eye_InstanceMapScript", "d6/d86/a23602.html", "d6/d86/a23602" ],
-    [ "instance_the_eye", "da/d98/a23598.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
-    [ "GetInstanceScript", "da/d98/a23598.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
+    [ "HandleEffectApply", "da/d98/a23598.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "da/d98/a23598.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "da/d98/a23598.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "da/d98/a23598.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "da/d98/a23598.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "da/d98/a23598.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

@@ -1,7 +1,11 @@
 var a12894 =
 [
-    [ "HandleAfterCast", "dc/de4/a12894.html#afa662fbe1b777047259ac6212961f7a5", null ],
-    [ "HandleScript", "dc/de4/a12894.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
-    [ "PrepareSpellScript", "dc/de4/a12894.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
-    [ "Register", "dc/de4/a12894.html#a4a898b0b096583af33f1f691a252b2ed", null ]
+    [ "npc_a_special_surpriseAI", "dc/de4/a12894.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
+    [ "MeetQuestCondition", "dc/de4/a12894.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
+    [ "MoveInLineOfSight", "dc/de4/a12894.html#af0b183b951f1eba8114da1f7a1284d09", null ],
+    [ "Reset", "dc/de4/a12894.html#a9526f6b257eade275b828d2b30328533", null ],
+    [ "UpdateAI", "dc/de4/a12894.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
+    [ "ExecuteSpeech_Counter", "dc/de4/a12894.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
+    [ "ExecuteSpeech_Timer", "dc/de4/a12894.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
+    [ "PlayerGUID", "dc/de4/a12894.html#a683cdbd0ef9d0562842aace5b440594f", null ]
 ];

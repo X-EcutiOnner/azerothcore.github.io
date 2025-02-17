@@ -1,6 +1,7 @@
 var a15946 =
 [
-    [ "npc_argent_soldierAI", "d1/d6f/a15950.html", "d1/d6f/a15950" ],
-    [ "npc_argent_soldier", "d6/d2d/a15946.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
-    [ "GetAI", "d6/d2d/a15946.html#adfeed3d533104b9617dfbb06925a3d44", null ]
+    [ "HandlePeriodic", "d6/d2d/a15946.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
+    [ "PrepareAuraScript", "d6/d2d/a15946.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
+    [ "Register", "d6/d2d/a15946.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
+    [ "Validate", "d6/d2d/a15946.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
 ];

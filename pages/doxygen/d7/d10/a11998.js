@@ -1,6 +1,6 @@
 var a11998 =
 [
-    [ "boss_chromaggusAI", "d8/dae/a12002.html", "d8/dae/a12002" ],
-    [ "boss_chromaggus", "d7/d10/a11998.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
-    [ "GetAI", "d7/d10/a11998.html#ace78172cafb122ce5961ed837201c32b", null ]
+    [ "boss_rend_blackhandAI", "d8/dae/a12002.html", "d8/dae/a12002" ],
+    [ "boss_rend_blackhand", "d7/d10/a11998.html#afd12818c33de25332bf207f30c8490a1", null ],
+    [ "GetAI", "d7/d10/a11998.html#aed65d31a5a841af8aed015555bf811cb", null ]
 ];

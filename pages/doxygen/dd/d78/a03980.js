@@ -1,5 +1,7 @@
 var a03980 =
 [
-    [ "worldstate_commandscript", "d5/da0/a11566.html", "d5/da0/a11566" ],
-    [ "AddSC_worldstate_commandscript", "dd/d78/a03980.html#a2ff66ad19f50180b9878cf95696fd09b", null ]
+    [ "UpdateResult", "d7/d69/a05862.html", "d7/d69/a05862" ],
+    [ "UpdateFetcher", "d1/d9a/a05866.html", "d1/d9a/a05866" ],
+    [ "UpdateFetcher::AppliedFileEntry", "d5/d43/a05870.html", "d5/d43/a05870" ],
+    [ "UpdateFetcher::PathCompare", "d4/d3e/a05874.html", "d4/d3e/a05874" ]
 ];

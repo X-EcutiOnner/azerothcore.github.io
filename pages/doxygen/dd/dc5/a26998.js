@@ -1,9 +1,9 @@
 var a26998 =
 [
-    [ "go_gilded_brazierAI", "dd/dc5/a26998.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
-    [ "GossipHello", "dd/dc5/a26998.html#afac9e217c294e72ff5f2526422e6321e", null ],
-    [ "Initialize", "dd/dc5/a26998.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
-    [ "UpdateAI", "dd/dc5/a26998.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
-    [ "_events", "dd/dc5/a26998.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
-    [ "_playerGUID", "dd/dc5/a26998.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
+    [ "ChatLogScript", "dd/dc5/a26998.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerChat", "dd/dc5/a26998.html#a9dc39835aac01da34c57c420fc82790e", null ],
+    [ "OnPlayerChat", "dd/dc5/a26998.html#a64e047261c3d3de22614950c6b6f6f79", null ],
+    [ "OnPlayerChat", "dd/dc5/a26998.html#ac9a4dc6a35325a87c69f08f50a26750c", null ],
+    [ "OnPlayerChat", "dd/dc5/a26998.html#af6e61405ba6642fa451465e27c4b47d8", null ],
+    [ "OnPlayerChat", "dd/dc5/a26998.html#a9962307a0e073ee3f5e7139f059e01b8", null ]
 ];

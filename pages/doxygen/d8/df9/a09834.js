@@ -1,9 +1,10 @@
 var a09834 =
 [
-    [ "PathMovementBase", "d8/df9/a09834.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
-    [ "PathMovementBase", "d8/df9/a09834.html#a953fcda0cf7764f659fc5a4a19408550", null ],
-    [ "~PathMovementBase", "d8/df9/a09834.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
-    [ "GetCurrentNode", "d8/df9/a09834.html#a7ceb52928f2198392980c3926516fd82", null ],
-    [ "i_currentNode", "d8/df9/a09834.html#a5420aef90d3529881ef41362ebb29934", null ],
-    [ "i_path", "d8/df9/a09834.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
+    [ "CreateWorldPacket", "d8/df9/a09834.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
+    [ "GetMotd", "d8/df9/a09834.html#ab589dd8bfad950e02ee716ea9005253f", null ],
+    [ "GetMotdPacket", "d8/df9/a09834.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
+    [ "instance", "d8/df9/a09834.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
+    [ "LoadMotd", "d8/df9/a09834.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
+    [ "LoadMotdLocale", "d8/df9/a09834.html#a21aa89787d5b0bbf69158f799122edd5", null ],
+    [ "SetMotd", "d8/df9/a09834.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
 ];

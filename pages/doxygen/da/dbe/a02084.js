@@ -1,6 +1,5 @@
 var a02084 =
 [
-    [ "instance_utgarde_pinnacle", "db/d0d/a20894.html", "db/d0d/a20894" ],
-    [ "instance_utgarde_pinnacle::instance_utgarde_pinnacle_InstanceMapScript", "d2/d66/a20898.html", "d2/d66/a20898" ],
-    [ "AddSC_instance_utgarde_pinnacle", "da/dbe/a02084.html#a3469cdfafe3d81dca68950e7a6a6370d", null ]
+    [ "gear_commandscript", "d6/d22/a11554.html", "d6/d22/a11554" ],
+    [ "AddSC_gear_commandscript", "da/dbe/a02084.html#a8f5ae2609cea7d63d76141e1a5feaf27", null ]
 ];

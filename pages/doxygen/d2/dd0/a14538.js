@@ -1,9 +1,12 @@
 var a14538 =
 [
-    [ "boss_temporus", "d2/dd0/a14538.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "d2/dd0/a14538.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "d2/dd0/a14538.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "d2/dd0/a14538.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "d2/dd0/a14538.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "d2/dd0/a14538.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "boss_epochAI", "d2/dd0/a14538.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
+    [ "JustDied", "d2/dd0/a14538.html#a780aa5bc86c80aaeeffad441b2873121", null ],
+    [ "JustEngagedWith", "d2/dd0/a14538.html#ae742dceac5979faebb58a133e9bd91f0", null ],
+    [ "KilledUnit", "d2/dd0/a14538.html#af41946feab7b86d812f706bd7abbf1bd", null ],
+    [ "Reset", "d2/dd0/a14538.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
+    [ "SpellHitTarget", "d2/dd0/a14538.html#ab87dfcf635a65b02be29186d2990fef3", null ],
+    [ "UpdateAI", "d2/dd0/a14538.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
+    [ "events", "d2/dd0/a14538.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
+    [ "warps", "d2/dd0/a14538.html#a478113af1ce565c729604c6039f55551", null ]
 ];

@@ -1,6 +1,9 @@
 var a26270 =
 [
-    [ "CheckProc", "db/d7e/a26270.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
-    [ "PrepareAuraScript", "db/d7e/a26270.html#af15109e926eb717c3f3cb2f7f617428c", null ],
-    [ "Register", "db/d7e/a26270.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
+    [ "CheckCast", "db/d7e/a26270.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
+    [ "HandleActiveObject", "db/d7e/a26270.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
+    [ "HandleDummy", "db/d7e/a26270.html#a39dd06ae92d04060ee41897318a701fd", null ],
+    [ "Load", "db/d7e/a26270.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
+    [ "PrepareSpellScript", "db/d7e/a26270.html#a016e480d7b2267c9bf824c9cb029f134", null ],
+    [ "Register", "db/d7e/a26270.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
 ];

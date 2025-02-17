@@ -1,6 +1,11 @@
 var a24074 =
 [
-    [ "npc_pet_dk_risen_allyAI", "d6/df6/a24078.html", "d6/df6/a24078" ],
-    [ "npc_pet_dk_risen_ally", "db/d8d/a24074.html#a2f568fd9062b2423edcf0ab4e749efc3", null ],
-    [ "GetAI", "db/d8d/a24074.html#a7aca5d410a1a28241943914a0d1c71df", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "db/d8d/a24074.html#af24a8d5ead256d158c86379e032aa889", null ],
+    [ "Reset", "db/d8d/a24074.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
+    [ "SetData", "db/d8d/a24074.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
+    [ "SpellHit", "db/d8d/a24074.html#a14523a24042d23efbafc7924f394dd04", null ],
+    [ "UpdateAI", "db/d8d/a24074.html#ae5cd38aa2a9cc1727141298323639660", null ],
+    [ "resetTimer", "db/d8d/a24074.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
+    [ "tapped", "db/d8d/a24074.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
+    [ "tuberGUID", "db/d8d/a24074.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
 ];

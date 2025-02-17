@@ -1,7 +1,6 @@
 var a24002 =
 [
-    [ "HandleEffectRemove", "d9/d2a/a24002.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
-    [ "PrepareAuraScript", "d9/d2a/a24002.html#a19ce53b5731b0789896612fa55f38849", null ],
-    [ "Register", "d9/d2a/a24002.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
-    [ "Validate", "d9/d2a/a24002.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
+    [ "npc_dragonmaw_peonAI", "d7/df5/a24006.html", "d7/df5/a24006" ],
+    [ "npc_dragonmaw_peon", "d9/d2a/a24002.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
+    [ "GetAI", "d9/d2a/a24002.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
 ];

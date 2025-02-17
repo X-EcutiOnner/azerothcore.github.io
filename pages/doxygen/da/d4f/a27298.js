@@ -1,13 +1,12 @@
 var a27298 =
 [
-    [ "npc_garments_of_questsAI", "da/d4f/a27298.html#a079f719ca488ed6fde2783b5db4f328b", null ],
-    [ "JustEngagedWith", "da/d4f/a27298.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
-    [ "Reset", "da/d4f/a27298.html#aaaaa3e41deae0057bd659be5c579d226", null ],
-    [ "SpellHit", "da/d4f/a27298.html#ad22195dba70ced744b319bc1ad83c083", null ],
-    [ "UpdateAI", "da/d4f/a27298.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
-    [ "WaypointReached", "da/d4f/a27298.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
-    [ "CanRun", "da/d4f/a27298.html#a93c41781e4cb037b56773bbbf36181b7", null ],
-    [ "CasterGUID", "da/d4f/a27298.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
-    [ "IsHealed", "da/d4f/a27298.html#a96db66704eabf028362d5f8b5c424712", null ],
-    [ "RunAwayTimer", "da/d4f/a27298.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
+    [ "npc_preciousAI", "da/d4f/a27298.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
+    [ "FlagForDespawn", "da/d4f/a27298.html#a934a5147c1cc9937189011fb061657da", null ],
+    [ "InitializeAI", "da/d4f/a27298.html#aa15843c4029f2df2ee04d21b5157602a", null ],
+    [ "JustEngagedWith", "da/d4f/a27298.html#a58bc4149111605850f070a77ee776313", null ],
+    [ "JustReachedHome", "da/d4f/a27298.html#a31893e9441b24398554370a58ef8bd78", null ],
+    [ "Reset", "da/d4f/a27298.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
+    [ "UpdateAI", "da/d4f/a27298.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
+    [ "events", "da/d4f/a27298.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
+    [ "flaggedForDespawn", "da/d4f/a27298.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
 ];

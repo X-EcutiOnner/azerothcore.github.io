@@ -1,7 +1,6 @@
 var a19502 =
 [
-    [ "OnRemove", "d4/df9/a19502.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "d4/df9/a19502.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "d4/df9/a19502.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "d4/df9/a19502.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "boss_algalon_the_observerAI", "d3/dca/a19506.html", "d3/dca/a19506" ],
+    [ "boss_algalon_the_observer", "d4/df9/a19502.html#a0691b47a116401da58b246203ecba2cb", null ],
+    [ "GetAI", "d4/df9/a19502.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
 ];

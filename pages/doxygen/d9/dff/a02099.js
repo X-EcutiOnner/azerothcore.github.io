@@ -1,6 +1,5 @@
 var a02099 =
 [
-    [ "WorldPackets::WorldState::InitWorldStates", "d0/dc2/a10714.html", "d0/dc2/a10714" ],
-    [ "WorldPackets::WorldState::InitWorldStates::WorldStateInfo", "d1/de3/a10718.html", "d1/de3/a10718" ],
-    [ "WorldPackets::WorldState::UpdateWorldState", "dd/dfd/a10722.html", "dd/dfd/a10722" ]
+    [ "player_settings_commandscript", "d5/d06/a11650.html", "d5/d06/a11650" ],
+    [ "AddSC_player_settings_commandscript", "d9/dff/a02099.html#a366685affd5565d164c65f8cd4a20b61", null ]
 ];

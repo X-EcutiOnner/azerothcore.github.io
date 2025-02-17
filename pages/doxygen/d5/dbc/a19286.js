@@ -1,11 +1,6 @@
 var a19286 =
 [
-    [ "boss_maiden_of_griefAI", "d5/dbc/a19286.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
-    [ "JustDied", "d5/dbc/a19286.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
-    [ "JustEngagedWith", "d5/dbc/a19286.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
-    [ "KilledUnit", "d5/dbc/a19286.html#a3d2173db5a852a356c187b2d2771b75f", null ],
-    [ "Reset", "d5/dbc/a19286.html#a46776004549b0dcfcf73351225adaad8", null ],
-    [ "UpdateAI", "d5/dbc/a19286.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
-    [ "events", "d5/dbc/a19286.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
-    [ "pInstance", "d5/dbc/a19286.html#abc195718a208a926f978d7f0fe0e7925", null ]
+    [ "HandleEffectCalcAmount", "d5/dbc/a19286.html#afa50ce616d36dd59c7195209074d6182", null ],
+    [ "PrepareAuraScript", "d5/dbc/a19286.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
+    [ "Register", "d5/dbc/a19286.html#a691d5a99eec9e367c518d0244f25bd41", null ]
 ];

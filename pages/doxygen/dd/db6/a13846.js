@@ -1,6 +1,6 @@
 var a13846 =
 [
-    [ "boss_wushoolayAI", "dd/db6/a13846.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
-    [ "JustEngagedWith", "dd/db6/a13846.html#af519da543fff63a39a6fbe48f90f2f22", null ],
-    [ "UpdateAI", "dd/db6/a13846.html#acfaacee2a97212eb15056c1552b9e06b", null ]
+    [ "FilterTargets", "dd/db6/a13846.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
+    [ "PrepareSpellScript", "dd/db6/a13846.html#a0a1cbde8aff10303d91a791276a865f4", null ],
+    [ "Register", "dd/db6/a13846.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
 ];

@@ -1,6 +1,5 @@
 var a14246 =
 [
-    [ "PrepareAuraScript", "d8/dda/a14246.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "d8/dda/a14246.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "d8/dda/a14246.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "go_loosely_turned_soilAI", "d8/dda/a14246.html#a603641bc52d26521d64afaaeed3abc4d", null ],
+    [ "CanBeSeen", "d8/dda/a14246.html#a424b51b08d17ceb04b015cd535256889", null ]
 ];

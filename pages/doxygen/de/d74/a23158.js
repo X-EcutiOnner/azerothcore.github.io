@@ -1,8 +1,6 @@
 var a23158 =
 [
-    [ "npc_underbat", "de/d74/a23158.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "de/d74/a23158.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "de/d74/a23158.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "de/d74/a23158.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "de/d74/a23158.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "HandleScript", "de/d74/a23158.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
+    [ "PrepareSpellScript", "de/d74/a23158.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
+    [ "Register", "de/d74/a23158.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
 ];

@@ -1,10 +1,13 @@
 var a07418 =
 [
-    [ "InvokerEntry", "d8/d85/a07418.html#aa195cc806a02e56a8125bfc039b83c37", null ],
-    [ "InvokerEntry", "d8/d85/a07418.html#ab0ae915bcd0b6cb738f66398ba06bd63", null ],
-    [ "InvokerEntry", "d8/d85/a07418.html#ae0b19dcb745635a783d52bae6f237b47", null ],
-    [ "operator*", "d8/d85/a07418.html#ae42d24aad13fe622f6d5ec35d72c1c96", null ],
-    [ "_help", "d8/d85/a07418.html#a107ccda1e3b21600fd133a243a8d2c9c", null ],
-    [ "_invoker", "d8/d85/a07418.html#a1f9da7b4e2a968b1cf51b227c79f0d1d", null ],
-    [ "_permissions", "d8/d85/a07418.html#a9567278ccb4896bcb2e8293df0ab909f", null ]
+    [ "WhoListCacheMgr", "d8/d85/a07418.html#a2190c113c3d38bd316b17a4400c113e6", null ],
+    [ "~WhoListCacheMgr", "d8/d85/a07418.html#ae32706d7786014e142dc1cb9ccd29d70", null ],
+    [ "WhoListCacheMgr", "d8/d85/a07418.html#a366e452317179d647042c24c56faafa1", null ],
+    [ "WhoListCacheMgr", "d8/d85/a07418.html#ae0358ae9260f929410f6518f89135161", null ],
+    [ "GetWhoList", "d8/d85/a07418.html#a4dec6544342fdc5052b69dcc61148453", null ],
+    [ "instance", "d8/d85/a07418.html#a1e8ce970e3213cd0361af303df98b387", null ],
+    [ "operator=", "d8/d85/a07418.html#a80615aa0a66ac29765f27598e605c712", null ],
+    [ "operator=", "d8/d85/a07418.html#ab8aff37f9e66aef40ccb794928bc001c", null ],
+    [ "Update", "d8/d85/a07418.html#a3db2ef832cf1413fb2e565ca0d922a80", null ],
+    [ "_whoListStorage", "d8/d85/a07418.html#a75495cb910c6de65d60a5080248e1e25", null ]
 ];

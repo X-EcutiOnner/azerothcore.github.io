@@ -1,6 +1,7 @@
 var a14094 =
 [
-    [ "npc_soh_fire_trigger", "d7/dc5/a14094.html#a8bddde264f4848c9a8ed83dcad190223", null ],
-    [ "Reset", "d7/dc5/a14094.html#acbec442907a8b40ae04496c53f210aa2", null ],
-    [ "SpellHit", "d7/dc5/a14094.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
+    [ "HandleScriptEffect", "d7/dc5/a14094.html#ae758c224878aebdde0124b5d4ec902a5", null ],
+    [ "PrepareSpellScript", "d7/dc5/a14094.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
+    [ "Register", "d7/dc5/a14094.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
+    [ "Validate", "d7/dc5/a14094.html#a56f71954e122f651c6e2ec68453e16cc", null ]
 ];

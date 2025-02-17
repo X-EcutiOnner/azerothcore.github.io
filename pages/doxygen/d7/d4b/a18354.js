@@ -1,6 +1,8 @@
 var a18354 =
 [
-    [ "npc_captain_grondelAI", "d4/d91/a18358.html", "d4/d91/a18358" ],
-    [ "npc_captain_grondel", "d7/d4b/a18354.html#a54a53f8e3cde87405219c815a56d523c", null ],
-    [ "GetAI", "d7/d4b/a18354.html#a2a7725e81294e80701b7742d2605ec00", null ]
+    [ "npc_blistering_zombieAI", "d7/d4b/a18354.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
+    [ "DamageTaken", "d7/d4b/a18354.html#adf031992078214f90d859df2b54aac91", null ],
+    [ "UpdateAI", "d7/d4b/a18354.html#ae081898b8dcaf45cd3069e79021de452", null ],
+    [ "casted", "d7/d4b/a18354.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
+    [ "timer", "d7/d4b/a18354.html#a8b865c2a87b1fc020d8250767febab0a", null ]
 ];

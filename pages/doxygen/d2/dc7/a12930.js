@@ -1,10 +1,6 @@
 var a12930 =
 [
-    [ "HandleDummyTick", "d2/dc7/a12930.html#a036291aee8b08212ecead4afce01adf4", null ],
-    [ "Load", "d2/dc7/a12930.html#aaecea41af42790dfe9aeba3c56480668", null ],
-    [ "OnApply", "d2/dc7/a12930.html#a37b425f877e7415b245c119c29521c4b", null ],
-    [ "PrepareAuraScript", "d2/dc7/a12930.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
-    [ "Register", "d2/dc7/a12930.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
-    [ "Validate", "d2/dc7/a12930.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
-    [ "_forsakenSpell", "d2/dc7/a12930.html#ae2aee05482e4854120fc581ecec41f95", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "de/d9e/a12934.html", "de/d9e/a12934" ],
+    [ "instance_scarlet_monastery", "d2/dc7/a12930.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
+    [ "GetInstanceScript", "d2/dc7/a12930.html#a1c66031217457809fbe56303085715a0", null ]
 ];

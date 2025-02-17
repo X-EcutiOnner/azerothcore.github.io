@@ -1,11 +1,14 @@
 var a15142 =
 [
-    [ "npc_tiger_matriarchAI", "d4/d3c/a15142.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
-    [ "DamageTaken", "d4/d3c/a15142.html#ab41c4275fe4f42b36615f746a100ccda", null ],
-    [ "IsSummonedBy", "d4/d3c/a15142.html#a8b02683be93944a65b38658bba0af4d8", null ],
-    [ "JustEngagedWith", "d4/d3c/a15142.html#a9a9295008552f5330f778dd3a0c591ea", null ],
-    [ "KilledUnit", "d4/d3c/a15142.html#aabde7633ac07966ee1cd2d9817582189", null ],
-    [ "UpdateAI", "d4/d3c/a15142.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
-    [ "_events", "d4/d3c/a15142.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
-    [ "_tigerGuid", "d4/d3c/a15142.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
+    [ "npc_draenei_survivorAI", "d4/d3c/a15142.html#a8766dcf9afd6d26d619bead82b549a8f", null ],
+    [ "JustEngagedWith", "d4/d3c/a15142.html#a6d0b790ad7466b14bf0bba0aa37eebf2", null ],
+    [ "MoveInLineOfSight", "d4/d3c/a15142.html#a2b3f0a595fde04ad1e054331a596e225", null ],
+    [ "Reset", "d4/d3c/a15142.html#a3db19a846ce3b4810321eb02d314633f", null ],
+    [ "SpellHit", "d4/d3c/a15142.html#a079789d2f6a03b1c7b0ac7dc43a2550a", null ],
+    [ "UpdateAI", "d4/d3c/a15142.html#aa3fd8e3747fa69b5156e932fddaf6fa7", null ],
+    [ "CanSayHelp", "d4/d3c/a15142.html#a6bf8c4eb06fe661da0c850424843bd42", null ],
+    [ "pCaster", "d4/d3c/a15142.html#a35ad8350e51fd520b75cd0289f19cb09", null ],
+    [ "RunAwayTimer", "d4/d3c/a15142.html#a233885b12615bfbc927d8845d0cff3fd", null ],
+    [ "SayHelpTimer", "d4/d3c/a15142.html#a8d77b110c6af6615d5d39e0870cbe890", null ],
+    [ "SayThanksTimer", "d4/d3c/a15142.html#a4f2d829af97d6fb5ef13e3922ebe99e8", null ]
 ];

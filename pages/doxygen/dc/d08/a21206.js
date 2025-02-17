@@ -1,10 +1,6 @@
 var a21206 =
 [
-    [ "npc_sinkhole_kill_creditAI", "dc/d08/a21206.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
-    [ "Reset", "dc/d08/a21206.html#a677990d64d2963ff995d9d8522c5aa81", null ],
-    [ "SpellHit", "dc/d08/a21206.html#a95eaf518fb18b67820d6195cd525b017", null ],
-    [ "UpdateAI", "dc/d08/a21206.html#a75611004a543bece9d3f51914547f2fe", null ],
-    [ "casterGuid", "dc/d08/a21206.html#a147921788b07f5e776e03aaf15049cf0", null ],
-    [ "phase", "dc/d08/a21206.html#aa45455a8d540d6f942c948cf56d11f05", null ],
-    [ "phaseTimer", "dc/d08/a21206.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
+    [ "npc_vh_void_sentryAI", "de/dff/a21210.html", "de/dff/a21210" ],
+    [ "npc_vh_void_sentry", "dc/d08/a21206.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
+    [ "GetAI", "dc/d08/a21206.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
 ];

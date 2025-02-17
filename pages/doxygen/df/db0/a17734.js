@@ -1,6 +1,8 @@
 var a17734 =
 [
-    [ "LastPhaseIceTombTargetSelector", "df/db0/a17734.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
-    [ "operator()", "df/db0/a17734.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
-    [ "_source", "df/db0/a17734.html#ab10d10dd0de7717078d31ac026d4c933", null ]
+    [ "FilterTargets", "df/db0/a17734.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
+    [ "HandleScript", "df/db0/a17734.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
+    [ "PrepareSpellScript", "df/db0/a17734.html#ae6b30b8da52141c385f985435cac99a1", null ],
+    [ "Register", "df/db0/a17734.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
+    [ "Validate", "df/db0/a17734.html#accff1f03fb7c0d56cb197bb18348635c", null ]
 ];

@@ -1,6 +1,6 @@
 var a27062 =
 [
-    [ "go_amberpine_outhouse", "d4/df5/a27062.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
-    [ "OnGossipHello", "d4/df5/a27062.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
-    [ "OnGossipSelect", "d4/df5/a27062.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
+    [ "go_bear_trapAI", "dd/d39/a27066.html", "dd/d39/a27066" ],
+    [ "go_bear_trap", "d4/df5/a27062.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
+    [ "GetAI", "d4/df5/a27062.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
 ];

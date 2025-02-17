@@ -1,15 +1,12 @@
 var a12746 =
 [
-    [ "npc_koltira_deathweaverAI", "dc/d61/a12746.html#adbc46fce90170aec986faacf012bd2b2", null ],
-    [ "AttackStart", "dc/d61/a12746.html#aa219afbaedb108e7384479de3bbb4135", null ],
-    [ "EnterEvadeMode", "dc/d61/a12746.html#aaf9e9df5a7124b4fe6b9348d5c8931fa", null ],
-    [ "JustSummoned", "dc/d61/a12746.html#ae93b1dd675d2f2b8aca93e9ccff42a2e", null ],
-    [ "Reset", "dc/d61/a12746.html#ac07053d3798d57449c23bfff68e12f1b", null ],
-    [ "SummonAcolyte", "dc/d61/a12746.html#ac74e57e84fa6d1166fe950a46492cc2b", null ],
-    [ "UpdateAI", "dc/d61/a12746.html#a87e87ebfaaf7a633f799d2a0f9df18ba", null ],
-    [ "WaypointReached", "dc/d61/a12746.html#a5714e781a73cf2774aa21a083cd8301a", null ],
-    [ "m_uiValrothGUID", "dc/d61/a12746.html#acee9c0c42cc8a692526ef73b19292ceb", null ],
-    [ "m_uiWave", "dc/d61/a12746.html#a35ec3a0a78240966a0e06753873e5956", null ],
-    [ "m_uiWave_Timer", "dc/d61/a12746.html#a8e94cd2de591f06e395f2d116e3e533b", null ],
-    [ "summons", "dc/d61/a12746.html#a38fc03a63df38b02eab07f3bffd969da", null ]
+    [ "boss_vexallus", "dc/d61/a12746.html#a68c32ed70274e9f135b7a9107f888c91", null ],
+    [ "JustDied", "dc/d61/a12746.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
+    [ "JustEngagedWith", "dc/d61/a12746.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
+    [ "JustSummoned", "dc/d61/a12746.html#a9bc7808889da754bae9c935418975f90", null ],
+    [ "KilledUnit", "dc/d61/a12746.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
+    [ "Reset", "dc/d61/a12746.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
+    [ "SummonedCreatureDies", "dc/d61/a12746.html#a4bd88222143d8db098312cff8a2fc969", null ],
+    [ "_energyCooldown", "dc/d61/a12746.html#a395d2186d70d1b7e29dbada7750da354", null ],
+    [ "_energyCount", "dc/d61/a12746.html#a4afa4a245b8863c7b0898773932642c8", null ]
 ];

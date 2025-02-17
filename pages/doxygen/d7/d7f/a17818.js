@@ -1,6 +1,7 @@
 var a17818 =
 [
-    [ "npc_spinestalkerAI", "db/d96/a17822.html", "db/d96/a17822" ],
-    [ "npc_spinestalker", "d7/d7f/a17818.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "d7/d7f/a17818.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "HandleScript", "d7/d7f/a17818.html#a802f667b20bccd3395c233482aa2485b", null ],
+    [ "PrepareSpellScript", "d7/d7f/a17818.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
+    [ "Register", "d7/d7f/a17818.html#a730fded490df68f501010f952ceea40b", null ],
+    [ "Validate", "d7/d7f/a17818.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
 ];

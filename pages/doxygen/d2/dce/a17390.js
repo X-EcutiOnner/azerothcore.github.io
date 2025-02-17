@@ -1,9 +1,6 @@
 var a17390 =
 [
-    [ "CalculateDamage", "d2/dce/a17390.html#a6a9e90d9463825b38b69afc234b35b39", null ],
-    [ "PrepareSpellScript", "d2/dce/a17390.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
-    [ "Register", "d2/dce/a17390.html#a2722814a55469e5bae572766ed36309b", null ],
-    [ "RemoveEnergy", "d2/dce/a17390.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
-    [ "StoreEnergy", "d2/dce/a17390.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
-    [ "_energyLeft", "d2/dce/a17390.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
+    [ "npc_muradin_bronzebeard_igbAI", "db/dd1/a17394.html", "db/dd1/a17394" ],
+    [ "npc_muradin_bronzebeard_igb", "d2/dce/a17390.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
+    [ "GetAI", "d2/dce/a17390.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
 ];

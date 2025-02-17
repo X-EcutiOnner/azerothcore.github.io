@@ -1,9 +1,10 @@
 var a25218 =
 [
-    [ "getMountSpellId", "d9/d88/a25218.html#afe306ed6057050baf342ee717723764d", null ],
-    [ "OnApply", "d9/d88/a25218.html#aa8bee986d413be60d00ac1d2111ef719", null ],
-    [ "OnRemove", "d9/d88/a25218.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
-    [ "PrepareAuraScript", "d9/d88/a25218.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
-    [ "Register", "d9/d88/a25218.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
-    [ "Validate", "d9/d88/a25218.html#a6868f6e88c9179efd921b266c83f6daf", null ]
+    [ "Load", "d9/d88/a25218.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "d9/d88/a25218.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "d9/d88/a25218.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "d9/d88/a25218.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "d9/d88/a25218.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "d9/d88/a25218.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "d9/d88/a25218.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

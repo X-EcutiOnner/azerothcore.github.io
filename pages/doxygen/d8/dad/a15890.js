@@ -1,6 +1,11 @@
 var a15890 =
 [
-    [ "npc_living_infernoAI", "d8/dad/a15890.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "d8/dad/a15890.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "d8/dad/a15890.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "boss_general_zarithrianAI", "d8/dad/a15890.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d8/dad/a15890.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "d8/dad/a15890.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "d8/dad/a15890.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "d8/dad/a15890.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "d8/dad/a15890.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "d8/dad/a15890.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "d8/dad/a15890.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

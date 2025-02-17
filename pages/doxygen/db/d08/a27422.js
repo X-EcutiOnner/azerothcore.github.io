@@ -1,6 +1,7 @@
 var a27422 =
 [
-    [ "X", "db/d08/a27422.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "db/d08/a27422.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "db/d08/a27422.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "npc_guardianAI", "db/d08/a27422.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "db/d08/a27422.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "db/d08/a27422.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "db/d08/a27422.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

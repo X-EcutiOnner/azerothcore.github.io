@@ -1,11 +1,7 @@
 var a24366 =
 [
-    [ "HandleAfterHit", "df/d56/a24366.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
-    [ "HandleDummy", "df/d56/a24366.html#abb3f92850fa6fff94c682b990c361fe6", null ],
-    [ "Load", "df/d56/a24366.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
-    [ "PrepareSpellScript", "df/d56/a24366.html#adea0e24654cd87b3aee07ce2183b9517", null ],
-    [ "Register", "df/d56/a24366.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
-    [ "Validate", "df/d56/a24366.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
-    [ "guid", "df/d56/a24366.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
-    [ "multiplier", "df/d56/a24366.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
+    [ "CheckProc", "df/d56/a24366.html#a64414347ed5e132c3268451653082821", null ],
+    [ "HandleProc", "df/d56/a24366.html#a8a3eab47b8214b59275aeaa8a02e4240", null ],
+    [ "PrepareAuraScript", "df/d56/a24366.html#a88277eeea14f7799e27a4a897e6e8c0c", null ],
+    [ "Register", "df/d56/a24366.html#a3ce0dcd5becd38e10e2bb6e3d2f28e89", null ]
 ];

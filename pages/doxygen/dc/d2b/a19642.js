@@ -1,7 +1,5 @@
 var a19642 =
 [
-    [ "npc_storm_beacon_spawnAI", "dc/d2b/a19642.html#a031c1941f177a18af58efcf4a1270654", null ],
-    [ "UpdateAI", "dc/d2b/a19642.html#a249bf56b905ef0c8b34c737d95518c91", null ],
-    [ "_amount", "dc/d2b/a19642.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
-    [ "_checkTimer", "dc/d2b/a19642.html#a7fd6d449b6a20ba9463896244c513a67", null ]
+    [ "achievement_cant_do_that_while_stunned", "dc/d2b/a19642.html#a4d474b36f61631688ea723d2e4033574", null ],
+    [ "OnCheck", "dc/d2b/a19642.html#a0b108bdcab0bc412975e61247f226bf8", null ]
 ];

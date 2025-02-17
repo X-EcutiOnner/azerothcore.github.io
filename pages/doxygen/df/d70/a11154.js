@@ -1,6 +1,7 @@
 var a11154 =
 [
-    [ "AuraProcHandler", "df/d70/a11154.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
-    [ "Call", "df/d70/a11154.html#abc0c3be9dee08e995c282f20900f3c46", null ],
-    [ "_HandlerScript", "df/d70/a11154.html#ada8d7a5659598b0092739a91ba2653bd", null ]
+    [ "CategoryRecoveryTime", "df/d70/a11154.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
+    [ "RecoveryTime", "df/d70/a11154.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
+    [ "StartRecoveryCategory", "df/d70/a11154.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
+    [ "StartRecoveryTime", "df/d70/a11154.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
 ];

@@ -1,6 +1,5 @@
 var a16562 =
 [
-    [ "npc_ghostly_priestAI", "dc/d05/a16566.html", "dc/d05/a16566" ],
-    [ "npc_ghostly_priest", "dd/df1/a16562.html#a7c03bb327cfc65f4df515969da482ddb", null ],
-    [ "GetAI", "dd/df1/a16562.html#a0fab76345c5459efcedff02123e4fc8d", null ]
+    [ "achievement_consumption_junction", "dd/df1/a16562.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
+    [ "OnCheck", "dd/df1/a16562.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
 ];

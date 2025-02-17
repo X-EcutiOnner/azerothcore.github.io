@@ -1,7 +1,8 @@
 var a12654 =
 [
-    [ "HandleScriptEffect", "de/dd5/a12654.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
-    [ "PrepareSpellScript", "de/dd5/a12654.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
-    [ "Register", "de/dd5/a12654.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
-    [ "Validate", "de/dd5/a12654.html#a20f7416465ba1cc04426f24037e8074e", null ]
+    [ "CalcPeriodic", "de/dd5/a12654.html#a493609298c152df8216641ba2e5861cd", null ],
+    [ "PrepareAuraScript", "de/dd5/a12654.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
+    [ "Register", "de/dd5/a12654.html#a44002db5980dfc1db816cf61fd446491", null ],
+    [ "Update", "de/dd5/a12654.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
+    [ "Validate", "de/dd5/a12654.html#a060e189aaa4396681d42906b65c9196f", null ]
 ];

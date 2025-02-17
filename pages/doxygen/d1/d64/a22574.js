@@ -1,9 +1,9 @@
 var a22574 =
 [
-    [ "boss_mother_shahraz", "d1/d64/a22574.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "d1/d64/a22574.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "d1/d64/a22574.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "d1/d64/a22574.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "d1/d64/a22574.html#ab9e4162ac92e786b84b6497c37251386", null ],
-    [ "_canTalk", "d1/d64/a22574.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
+    [ "npc_flame_of_azzinoth", "d1/d64/a22574.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
+    [ "IsSummonedBy", "d1/d64/a22574.html#a5254057af0371a08ea01fe91502c2a20", null ],
+    [ "JustEngagedWith", "d1/d64/a22574.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
+    [ "JustSummoned", "d1/d64/a22574.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
+    [ "UpdateAI", "d1/d64/a22574.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
+    [ "_bladeGUID", "d1/d64/a22574.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
 ];

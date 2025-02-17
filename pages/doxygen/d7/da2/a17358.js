@@ -1,8 +1,9 @@
 var a17358 =
 [
-    [ "Load", "d7/da2/a17358.html#ad1105149d5e42318382af6c07149d522", null ],
-    [ "PeriodicTick", "d7/da2/a17358.html#a8e675178256746d08af50a6b75ec582e", null ],
-    [ "PrepareAuraScript", "d7/da2/a17358.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
-    [ "Register", "d7/da2/a17358.html#a0fa7d86214827711edd019dd3b40c667", null ],
-    [ "_tickNo", "d7/da2/a17358.html#a418212d2daa873d69a83b4c1341a8903", null ]
+    [ "BattleExperienceEvent", "d7/da2/a17358.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
+    [ "Execute", "d7/da2/a17358.html#a3971962ec90f682baeae96fe6098fa97", null ],
+    [ "_creature", "d7/da2/a17358.html#a0155536d5c2be329a1f3b57c4d852098", null ],
+    [ "_level", "d7/da2/a17358.html#a22f0d7e59f579362be4576180d0977b8", null ],
+    [ "ExperiencedSpells", "d7/da2/a17358.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
+    [ "ExperiencedTimes", "d7/da2/a17358.html#a4daf5818472ebe7c8d3938e2189d8e02", null ]
 ];

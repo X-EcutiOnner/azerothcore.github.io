@@ -1,5 +1,5 @@
 var a23818 =
 [
-    [ "at_commander_dawnforge", "d2/d9c/a23818.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d2/d9c/a23818.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "go_simon_cluster", "d2/d9c/a23818.html#adac53a8451abd6ace227a66afc7e61e8", null ],
+    [ "OnGossipHello", "d2/d9c/a23818.html#a9fd9799604de44c91803511c45b67786", null ]
 ];

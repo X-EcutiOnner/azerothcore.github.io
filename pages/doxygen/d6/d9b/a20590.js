@@ -1,10 +1,8 @@
 var a20590 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "d6/d9b/a20590.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
-    [ "DamageTaken", "d6/d9b/a20590.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
-    [ "Reset", "d6/d9b/a20590.html#a763f772414f00c0f83402e1a635b6bd0", null ],
-    [ "SpellHit", "d6/d9b/a20590.html#a60721961f2eb5e91c15890252166b872", null ],
-    [ "UpdateAI", "d6/d9b/a20590.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
-    [ "_spellTimer", "d6/d9b/a20590.html#a4ed360380707195e10753436020b67eb", null ],
-    [ "_visualTimer", "d6/d9b/a20590.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
+    [ "OnPeriodic", "d6/d9b/a20590.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
+    [ "OnRemove", "d6/d9b/a20590.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
+    [ "PrepareAuraScript", "d6/d9b/a20590.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
+    [ "Register", "d6/d9b/a20590.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
+    [ "Validate", "d6/d9b/a20590.html#aa56622a1e57c157260940023a6c70a35", null ]
 ];

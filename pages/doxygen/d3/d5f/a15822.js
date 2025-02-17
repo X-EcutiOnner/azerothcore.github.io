@@ -1,7 +1,8 @@
 var a15822 =
 [
-    [ "HandlePeriodic", "d3/d5f/a15822.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "d3/d5f/a15822.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "d3/d5f/a15822.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "d3/d5f/a15822.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "npc_twilight_summonAI", "d3/d5f/a15822.html#a8f5dfe54a5ac1d7a058c5efb9bead77a", null ],
+    [ "DoAction", "d3/d5f/a15822.html#aac4c1e3bc635b30f1ceed8b25f2c7829", null ],
+    [ "Reset", "d3/d5f/a15822.html#a1174c827aef1b05603214e4717c78f8a", null ],
+    [ "UpdateAI", "d3/d5f/a15822.html#addb312c34c668b8189087de6cf89543b", null ],
+    [ "fadeArmorTimer", "d3/d5f/a15822.html#ace4028c8f4d0240b4e2939481312d0d2", null ]
 ];

@@ -1,18 +1,6 @@
 var a13098 =
 [
-    [ "boss_kiljaeden", "d9/d25/a13098.html#a573b32098eac346f3f9485eb46792b1b", null ],
-    [ "AttackStart", "d9/d25/a13098.html#a9ad882dda480a564406628bfde386e57", null ],
-    [ "DamageTaken", "d9/d25/a13098.html#afd668a9d98182d7e05ca38040e55e908", null ],
-    [ "DoAction", "d9/d25/a13098.html#a53f78e51932d98886fadd9422adf96ce", null ],
-    [ "EmpowerOrb", "d9/d25/a13098.html#ade10c2e693f41d5d0240bce37d5c1168", null ],
-    [ "EnterEvadeMode", "d9/d25/a13098.html#a8e765740602b4f9efddafa5f2bdc8909", null ],
-    [ "InitializeAI", "d9/d25/a13098.html#ac72d5d9615040c981e8e4e932be8c362", null ],
-    [ "JustDied", "d9/d25/a13098.html#a82376e807061529bfd8fb4e52d409acf", null ],
-    [ "JustEngagedWith", "d9/d25/a13098.html#aac01e1f8b7b7dfb80a62f3eb0105ed10", null ],
-    [ "JustSummoned", "d9/d25/a13098.html#a3b983a903618b5bfebf7b45819207fde", null ],
-    [ "KilledUnit", "d9/d25/a13098.html#a220cf460466c44a82ce3933d2c5f27f8", null ],
-    [ "Reset", "d9/d25/a13098.html#aa45b8e5f598f68183b390e3239f0f75c", null ],
-    [ "ScheduleBasicAbilities", "d9/d25/a13098.html#a345f52703c9d72be2a67ff46ac1a0472", null ],
-    [ "UpdateAI", "d9/d25/a13098.html#aedcd604a535ce354881d7e59a05a79b9", null ],
-    [ "_phase", "d9/d25/a13098.html#a6878b5b88a45f1a5d70d866e9850041d", null ]
+    [ "HandleSendEvent", "d9/d25/a13098.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
+    [ "PrepareSpellScript", "d9/d25/a13098.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
+    [ "Register", "d9/d25/a13098.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
 ];

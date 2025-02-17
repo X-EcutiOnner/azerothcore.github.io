@@ -1,6 +1,6 @@
 var a18878 =
 [
-    [ "boss_thaddius_summonAI", "d8/da2/a18882.html", "d8/da2/a18882" ],
-    [ "boss_thaddius_summon", "d2/d86/a18878.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
-    [ "GetAI", "d2/d86/a18878.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
+    [ "FilterTargets", "d2/d86/a18878.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "d2/d86/a18878.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "d2/d86/a18878.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

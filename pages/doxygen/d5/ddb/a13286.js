@@ -1,10 +1,6 @@
 var a13286 =
 [
-    [ "npc_partygoer_pather", "d5/ddb/a13286.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
-    [ "Initialize", "d5/ddb/a13286.html#afb114b0587c550e39c41e131364da663", null ],
-    [ "PathEndReached", "d5/ddb/a13286.html#a55833d306716ba411f96ecd024cc7c72", null ],
-    [ "Reset", "d5/ddb/a13286.html#ade2cc36ff49001138eee5b607ec83b12", null ],
-    [ "UpdateAI", "d5/ddb/a13286.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
-    [ "_events", "d5/ddb/a13286.html#ac210dc0286ded980e78743237a08bb23", null ],
-    [ "_path", "d5/ddb/a13286.html#a4da184c44858e99eca2b07193fd48f13", null ]
+    [ "npc_singularity", "d5/ddb/a13286.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "Reset", "d5/ddb/a13286.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "d5/ddb/a13286.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

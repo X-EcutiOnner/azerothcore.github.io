@@ -1,5 +1,5 @@
 var a11626 =
 [
-    [ "amount", "de/dde/a11626.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b", null ],
-    [ "entry", "de/dde/a11626.html#ac3d4d211ebb927b1b9a376ee956e1b26", null ]
+    [ "flag", "de/dde/a11626.html#ae1419ecdb46b888ad0250ff77ccb9b6e", null ],
+    [ "text", "de/dde/a11626.html#a87700bc5f863f448b346c2aec2152ba4", null ]
 ];

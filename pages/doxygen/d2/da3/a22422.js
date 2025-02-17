@@ -1,12 +1,9 @@
 var a22422 =
 [
-    [ "boss_gurtogg_bloodboil", "d2/da3/a22422.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "d2/da3/a22422.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d2/da3/a22422.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "d2/da3/a22422.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "d2/da3/a22422.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "d2/da3/a22422.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "d2/da3/a22422.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "d2/da3/a22422.html#add25677d422b8bddcb753465451f0584", null ],
-    [ "_recentlySpoken", "d2/da3/a22422.html#a74af813b84f7787a5b764cfe574c087b", null ]
+    [ "npc_stolen_soul", "d2/da3/a22422.html#a84a0bb8320b2332545748e010d855884", null ],
+    [ "DoAction", "d2/da3/a22422.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
+    [ "Reset", "d2/da3/a22422.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
+    [ "UpdateAI", "d2/da3/a22422.html#a7bf369dd943ee36600a364d56b85db5a", null ],
+    [ "_scheduler", "d2/da3/a22422.html#ab62526916f0ccd681383d37d19d94ccc", null ],
+    [ "myClass", "d2/da3/a22422.html#ab2ad92983075320ce389aa583c341d21", null ]
 ];

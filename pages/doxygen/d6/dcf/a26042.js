@@ -1,6 +1,6 @@
 var a26042 =
 [
-    [ "CheckRequirement", "d6/dcf/a26042.html#acaae3858de4d56028e3cb4581a57450c", null ],
-    [ "PrepareSpellScript", "d6/dcf/a26042.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
-    [ "Register", "d6/dcf/a26042.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
+    [ "FilterTargets", "d6/dcf/a26042.html#a23c7b977f7e213322b3702367d6a28c7", null ],
+    [ "PrepareSpellScript", "d6/dcf/a26042.html#a7000b2fd940c914933c486e847932b62", null ],
+    [ "Register", "d6/dcf/a26042.html#a870ee08d0341f6640710a87c97a6b98b", null ]
 ];

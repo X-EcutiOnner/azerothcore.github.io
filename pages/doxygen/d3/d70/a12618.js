@@ -1,14 +1,15 @@
 var a12618 =
 [
-    [ "boss_selin_fireheart", "d3/d70/a12618.html#ae3270a227550391fd752d3f241e5ea46", null ],
-    [ "CanAIAttack", "d3/d70/a12618.html#a36f409a006a09812452052d554d5e810", null ],
-    [ "JustDied", "d3/d70/a12618.html#a1330c499c04aee849bcbb3ebfe30eb1e", null ],
-    [ "JustEngagedWith", "d3/d70/a12618.html#ad414ec34127bffbae1b6b5f9a794f28c", null ],
-    [ "KilledUnit", "d3/d70/a12618.html#a0fc74ba75a482a67d19f4323df1f5e6c", null ],
-    [ "MovementInform", "d3/d70/a12618.html#a8072412acc5f52fdeea3b4f740021a91", null ],
-    [ "OnPowerUpdate", "d3/d70/a12618.html#a71677fbd88ab14b6fb40e3bc9897c982", null ],
-    [ "Reset", "d3/d70/a12618.html#a6d6cab76647794f971c9a6837d8fbf8c", null ],
-    [ "SelectNearestCrystal", "d3/d70/a12618.html#afe01bdf64e5f84c7aa5ee0f164ac29c0", null ],
-    [ "SpawnCrystals", "d3/d70/a12618.html#a5c874662b9bf518782b2dc824f1eb03d", null ],
-    [ "SummonedCreatureDies", "d3/d70/a12618.html#a396341d39bead723a7c6f716c08aa447", null ]
+    [ "boss_tinhead", "d3/d70/a12618.html#aa56375e9b031db15bee833375b7a4405", null ],
+    [ "DoAction", "d3/d70/a12618.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
+    [ "EnterEvadeMode", "d3/d70/a12618.html#ae83464d571103a67980b413325988921", null ],
+    [ "JustDied", "d3/d70/a12618.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
+    [ "JustEngagedWith", "d3/d70/a12618.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
+    [ "JustReachedHome", "d3/d70/a12618.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
+    [ "KilledUnit", "d3/d70/a12618.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
+    [ "Reset", "d3/d70/a12618.html#ac22d86f58d59c81429e45fba9393fd37", null ],
+    [ "UpdateAI", "d3/d70/a12618.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
+    [ "_rustCount", "d3/d70/a12618.html#a48901503085fd3d4ee5624626a526ce2", null ],
+    [ "_scheduler", "d3/d70/a12618.html#ababc9f32611a9ea35ef41725bce22df5", null ],
+    [ "instance", "d3/d70/a12618.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
 ];

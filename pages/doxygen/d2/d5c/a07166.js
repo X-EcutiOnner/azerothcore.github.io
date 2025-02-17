@@ -1,14 +1,9 @@
 var a07166 =
 [
-    [ "IsArena", "d2/d5c/a07166.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
-    [ "BattlemasterEntry", "d2/d5c/a07166.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
-    [ "Id", "d2/d5c/a07166.html#a0fca37318585903f68695452a95011a9", null ],
-    [ "MaxLevel", "d2/d5c/a07166.html#a790f55d480d1454a5f6e5713c04314b7", null ],
-    [ "MaxPlayersPerTeam", "d2/d5c/a07166.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
-    [ "MaxStartDistSq", "d2/d5c/a07166.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
-    [ "MinLevel", "d2/d5c/a07166.html#a49fdf96a08376830a06956fd501cfa78", null ],
-    [ "MinPlayersPerTeam", "d2/d5c/a07166.html#ac1bea263b53de8573cdb8eb890175495", null ],
-    [ "ScriptId", "d2/d5c/a07166.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
-    [ "StartLocation", "d2/d5c/a07166.html#a8477d2156c8aa5bb89da038d1a779698", null ],
-    [ "Weight", "d2/d5c/a07166.html#aa7a051e8453599a7e82da763a6f91da2", null ]
+    [ "ArenaScore", "d2/d5c/a07166.html#a58f1391de4e67750dad211b10704499f", null ],
+    [ "AppendToPacket", "d2/d5c/a07166.html#a3fe2ab34a9abc4d8c4ff863334cf2c84", null ],
+    [ "BuildObjectivesBlock", "d2/d5c/a07166.html#ac96461b865fc7a9ba0cdfad6ae3fa96f", null ],
+    [ "ToString", "d2/d5c/a07166.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b", null ],
+    [ "Arena", "d2/d5c/a07166.html#a5f488c25aa439166d145713c67e7d085", null ],
+    [ "PvPTeamId", "d2/d5c/a07166.html#a486ee0e05ac5160f0fb174e2a1e061bb", null ]
 ];

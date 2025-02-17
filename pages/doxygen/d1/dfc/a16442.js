@@ -1,6 +1,5 @@
 var a16442 =
 [
-    [ "instance_drak_tharon_keep_InstanceScript", "dc/d4d/a16446.html", "dc/d4d/a16446" ],
-    [ "instance_drak_tharon_keep", "d1/dfc/a16442.html#a1f375185dba1619fee36160549eb91f4", null ],
-    [ "GetInstanceScript", "d1/dfc/a16442.html#aca6364452dc39e747af152695d479bf8", null ]
+    [ "npc_essence_of_twin", "d1/dfc/a16442.html#a019de64e5e01e611acfda5db4c279b19", null ],
+    [ "OnGossipHello", "d1/dfc/a16442.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
 ];

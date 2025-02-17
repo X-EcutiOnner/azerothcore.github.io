@@ -1,8 +1,7 @@
 var a25850 =
 [
-    [ "CheckCast", "d4/df1/a25850.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
-    [ "HandleDummy", "d4/df1/a25850.html#a1eac1eb5f39093ff48942e82728478dd", null ],
-    [ "PrepareSpellScript", "d4/df1/a25850.html#adbb58b75232560d101b291c0d99a2a20", null ],
-    [ "Register", "d4/df1/a25850.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
-    [ "Validate", "d4/df1/a25850.html#a4b67c348685a8094668e4ed2f0c78446", null ]
+    [ "CalculateAmount", "d4/df1/a25850.html#a0934aa8eaf442314aa6050d85304c15b", null ],
+    [ "CalculateSpellAmount", "d4/df1/a25850.html#ab765b87350bd3e73ac43879abef72d98", null ],
+    [ "PrepareAuraScript", "d4/df1/a25850.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
+    [ "Register", "d4/df1/a25850.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
 ];

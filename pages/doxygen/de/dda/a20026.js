@@ -1,7 +1,6 @@
 var a20026 =
 [
-    [ "HandleEffectPeriodic", "de/dda/a20026.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "de/dda/a20026.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "de/dda/a20026.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "de/dda/a20026.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "npc_ulduar_toasty_fireAI", "d2/db3/a20030.html", "d2/db3/a20030" ],
+    [ "npc_ulduar_toasty_fire", "de/dda/a20026.html#a5a5b77088b24f1c5743c58034190d5ab", null ],
+    [ "GetAI", "de/dda/a20026.html#a2518ec39c3cea2f3efc5000e0a7779d0", null ]
 ];

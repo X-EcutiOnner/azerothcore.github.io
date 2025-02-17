@@ -1,8 +1,6 @@
 var a23826 =
 [
-    [ "npc_bessyAI", "dc/d3e/a23826.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "dc/d3e/a23826.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "dc/d3e/a23826.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "dc/d3e/a23826.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "dc/d3e/a23826.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d5/d27/a23830.html", "d5/d27/a23830" ],
+    [ "npc_oscillating_frequency_scanner_master_bunny", "dc/d3e/a23826.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
+    [ "GetAI", "dc/d3e/a23826.html#a60d55e2eda4484ceea4e475ac8653977", null ]
 ];

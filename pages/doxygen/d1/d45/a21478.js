@@ -1,7 +1,7 @@
 var a21478 =
 [
-    [ "CheckRequirement", "d1/d45/a21478.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "d1/d45/a21478.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "d1/d45/a21478.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "d1/d45/a21478.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "npc_warmage_violetstand", "d1/d45/a21478.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "d1/d45/a21478.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "d1/d45/a21478.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "d1/d45/a21478.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

@@ -1,17 +1,17 @@
 var a11594 =
 [
-    [ "boss_drektharAI", "de/d53/a11594.html#a4cd7f817b3dfe457cb330e73316e18d1", null ],
-    [ "AttackStart", "de/d53/a11594.html#a058d9683179756e49aa4e243d270105c", null ],
-    [ "EnterEvadeMode", "de/d53/a11594.html#a7f8677796d1b9dbe7021c056252278d3", null ],
-    [ "JustEngagedWith", "de/d53/a11594.html#aea7fad4bfdc14e5526a6620ee5d3ba2e", null ],
-    [ "JustRespawned", "de/d53/a11594.html#aef244c80a915eaf4c1e0ff1c1080b18a", null ],
-    [ "Reset", "de/d53/a11594.html#a87e1f67ae379360bc0843d7bb3cd0acb", null ],
-    [ "UpdateAI", "de/d53/a11594.html#a79f1f0430496d2a1759ded7cca5cdef3", null ],
-    [ "Attacked", "de/d53/a11594.html#a6a6b5b2b00e85231441f5a8a0213e5ec", null ],
-    [ "FrenzyTimer", "de/d53/a11594.html#afd2d5fc6b7091fb019048d32a8b3631e", null ],
-    [ "KnockdownTimer", "de/d53/a11594.html#a235912a2cb78bd10b6b3a45c51ee0cff", null ],
-    [ "ResetTimer", "de/d53/a11594.html#a7d7b0a8d19d540e998db3b6e189cc16d", null ],
-    [ "Whirlwind2Timer", "de/d53/a11594.html#a788359b7f2df1794dbff643d75b2c561", null ],
-    [ "WhirlwindTimer", "de/d53/a11594.html#aef399775e552d7e80224fbb0c2f62aff", null ],
-    [ "YellTimer", "de/d53/a11594.html#ad45ea624603c427fa5b3e40cd6ba7f5d", null ]
+    [ "learn_commandscript", "de/d53/a11594.html#a7ef51367ab7ab1c360390ff5552c0f51", null ],
+    [ "GetCommands", "de/d53/a11594.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8", null ],
+    [ "HandleLearnAllCraftsCommand", "de/d53/a11594.html#ae25064fa03d022277a368f52a17e5b70", null ],
+    [ "HandleLearnAllDefaultCommand", "de/d53/a11594.html#a985d2a10f01808c4bff2922b1530e911", null ],
+    [ "HandleLearnAllGMCommand", "de/d53/a11594.html#a88e28ec43968c5a8b0bfd1f190d89a98", null ],
+    [ "HandleLearnAllLangCommand", "de/d53/a11594.html#aaf4d779b47511db72727fe44fb1bbd2d", null ],
+    [ "HandleLearnAllMyClassCommand", "de/d53/a11594.html#a956716b7743dfc6de922b0badf40aeda", null ],
+    [ "HandleLearnAllMyPetTalentsCommand", "de/d53/a11594.html#a2a7cc02eb4417907b50d49bab39110cf", null ],
+    [ "HandleLearnAllMySpellsCommand", "de/d53/a11594.html#af95e27d3bfb3cd421a0fd13f9f655755", null ],
+    [ "HandleLearnAllMyTalentsCommand", "de/d53/a11594.html#aaa19e92798ac56355a95e625ead56556", null ],
+    [ "HandleLearnAllRecipesCommand", "de/d53/a11594.html#a44b538a1031ad69bec762f1a791cf11f", null ],
+    [ "HandleLearnCommand", "de/d53/a11594.html#ab59da6873596596ee84509cb0060e760", null ],
+    [ "HandleLearnSkillRecipesHelper", "de/d53/a11594.html#ae8bd0389415fdeb70d369b694b953619", null ],
+    [ "HandleUnLearnCommand", "de/d53/a11594.html#a2dc980af9662b3b1c783e3603732ca01", null ]
 ];

@@ -1,11 +1,7 @@
 var a21658 =
 [
-    [ "npc_lake_frogAI", "d4/d6c/a21658.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
-    [ "ReceiveEmote", "d4/d6c/a21658.html#abd58e65b6829c70818c578ed615a980b", null ],
-    [ "Reset", "d4/d6c/a21658.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
-    [ "sGossipSelect", "d4/d6c/a21658.html#a95906677ff65e004408ae65df3f49b5c", null ],
-    [ "UpdateAI", "d4/d6c/a21658.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
-    [ "_events", "d4/d6c/a21658.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
-    [ "_following", "d4/d6c/a21658.html#a0078f9134a61f0ec2465ce103523e341", null ],
-    [ "_runningScript", "d4/d6c/a21658.html#af76102ba6c9ffd80baa95623b7312980", null ]
+    [ "FilterTargets", "d4/d6c/a21658.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "d4/d6c/a21658.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "d4/d6c/a21658.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "d4/d6c/a21658.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

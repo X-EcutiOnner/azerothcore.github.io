@@ -1,12 +1,11 @@
 var a03374 =
 [
-    [ "npc_valkyr_battle_maiden", "d6/d66/a12798.html", "d6/d66/a12798" ],
-    [ "npc_valkyr_battle_maiden::npc_valkyr_battle_maidenAI", "d1/ded/a12802.html", "d1/ded/a12802" ],
-    [ "Says_VBM", "d4/d6f/a03374.html#a1e8eb132ddeee98b584395e0a134c9e4", [
-      [ "WHISPER_REVIVE", "d4/d6f/a03374.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833", null ]
-    ] ],
-    [ "Spells_VBM", "d4/d6f/a03374.html#a97df4b07a8686c29a9700c8d11af35e3", [
-      [ "SPELL_REVIVE", "d4/d6f/a03374.html#a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38", null ]
-    ] ],
-    [ "AddSC_the_scarlet_enclave", "d4/d6f/a03374.html#a86bbb652876f394aaca15b4ed6e2bfa7", null ]
+    [ "StableResultCode", "d4/d6f/a03374.html#abee8740a43e35bc796d1287225999514", [
+      [ "STABLE_ERR_MONEY", "d4/d6f/a03374.html#abee8740a43e35bc796d1287225999514a2e1a0a641b8771fd5ac124129e76b8c2", null ],
+      [ "STABLE_ERR_STABLE", "d4/d6f/a03374.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898", null ],
+      [ "STABLE_SUCCESS_STABLE", "d4/d6f/a03374.html#abee8740a43e35bc796d1287225999514a87d687b90cdb7cc884567156b95da61e", null ],
+      [ "STABLE_SUCCESS_UNSTABLE", "d4/d6f/a03374.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1", null ],
+      [ "STABLE_SUCCESS_BUY_SLOT", "d4/d6f/a03374.html#abee8740a43e35bc796d1287225999514aaa2a19926ebaa7372be4a798c5513317", null ],
+      [ "STABLE_ERR_EXOTIC", "d4/d6f/a03374.html#abee8740a43e35bc796d1287225999514ac96f0f7b1cccb7a29b30b8152c780f47", null ]
+    ] ]
 ];

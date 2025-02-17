@@ -1,6 +1,7 @@
 var a24522 =
 [
-    [ "HandleAfterCast", "d4/d59/a24522.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
-    [ "PrepareSpellScript", "d4/d59/a24522.html#a602d7c920aa73a9c3c69222854093036", null ],
-    [ "Register", "d4/d59/a24522.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
+    [ "CalculateAmount", "d4/d59/a24522.html#af51a8e22ddfe0648f08a4190d730fbda", null ],
+    [ "CheckProc", "d4/d59/a24522.html#a2f80dcd9e5922af55dee096c95079062", null ],
+    [ "PrepareAuraScript", "d4/d59/a24522.html#af54ef254d0897140255960146507e986", null ],
+    [ "Register", "d4/d59/a24522.html#ad6e4bd4390f6f88494984af792a11b90", null ]
 ];

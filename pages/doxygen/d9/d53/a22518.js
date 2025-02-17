@@ -1,7 +1,7 @@
 var a22518 =
 [
-    [ "VerasEnvenom", "d9/d53/a22518.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
-    [ "Execute", "d9/d53/a22518.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
-    [ "_owner", "d9/d53/a22518.html#af9cf231119ab5592be9829784f20d2e0", null ],
-    [ "_targetGUID", "d9/d53/a22518.html#a90d62907c775565765fa87903adb94ea", null ]
+    [ "HandleOnHit", "d9/d53/a22518.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
+    [ "PrepareSpellScript", "d9/d53/a22518.html#a734b735c7e87938bff185be91f9de6e8", null ],
+    [ "Register", "d9/d53/a22518.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
+    [ "Validate", "d9/d53/a22518.html#a162f60784fdec6b748151e5c2a7ed257", null ]
 ];

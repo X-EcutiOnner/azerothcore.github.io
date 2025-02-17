@@ -1,7 +1,6 @@
 var a22186 =
 [
-    [ "npc_storm_cloudAI", "d0/dfc/a22186.html#aa4dd9409cd74f3c2c878974715e43394", null ],
-    [ "JustRespawned", "d0/dfc/a22186.html#ad0f99362f7ab506b322b6d75890881c1", null ],
-    [ "Reset", "d0/dfc/a22186.html#a99654ac86502e3ac2f899082269ccb01", null ],
-    [ "SpellHit", "d0/dfc/a22186.html#ac51313cec4d76216f3c716d988fc4857", null ]
+    [ "npc_wg_siege_machineAI", "de/d50/a22190.html", "de/d50/a22190" ],
+    [ "npc_wg_siege_machine", "d0/dfc/a22186.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
+    [ "GetAI", "d0/dfc/a22186.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
 ];

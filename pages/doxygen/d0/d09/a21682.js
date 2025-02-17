@@ -1,7 +1,6 @@
 var a21682 =
 [
-    [ "HandleDummy", "d0/d09/a21682.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
-    [ "PrepareSpellScript", "d0/d09/a21682.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
-    [ "Register", "d0/d09/a21682.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
-    [ "Validate", "d0/d09/a21682.html#aeec15705a41ad2ac0e59d90086591d96", null ]
+    [ "npc_spiritual_insightAI", "d0/d09/a21682.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "d0/d09/a21682.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "d0/d09/a21682.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

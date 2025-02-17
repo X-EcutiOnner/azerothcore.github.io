@@ -1,8 +1,5 @@
 var a08490 =
 [
-    [ "AddFlag", "de/d75/a08490.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
-    [ "HasFlag", "de/d75/a08490.html#aba5227bee5d5e928e0fa171730f57385", null ],
-    [ "IsEnabled", "de/d75/a08490.html#a115b220747f7b2d687ec81716dbad69f", null ],
-    [ "RemoveFlag", "de/d75/a08490.html#a4ca3645233a466345d6be217d7a0df2b", null ],
-    [ "value", "de/d75/a08490.html#a74592e45f8ae4c5f411a982227f809f3", null ]
+    [ "PlayerLevelInfo", "de/d75/a08490.html#af0d716577a3645fe1cef95968382ec80", null ],
+    [ "stats", "de/d75/a08490.html#a796af7d07604474adebf5a6f3518ca30", null ]
 ];

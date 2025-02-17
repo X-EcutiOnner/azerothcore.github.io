@@ -1,7 +1,10 @@
 var a10834 =
 [
-    [ "IsValidOpcode", "d3/dcf/a10834.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "d3/dcf/a10834.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "d3/dcf/a10834.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "d3/dcf/a10834.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "WorldStateInfo", "d9/d64/a10838.html", "d9/d64/a10838" ],
+    [ "InitWorldStates", "d3/dcf/a10834.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
+    [ "Write", "d3/dcf/a10834.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
+    [ "AreaID", "d3/dcf/a10834.html#a98ac08c68b5c004fd352f38c7084531f", null ],
+    [ "MapID", "d3/dcf/a10834.html#a657c3043204c6957e8438c3c3c7068f3", null ],
+    [ "Worldstates", "d3/dcf/a10834.html#a29ffba2a130f0b93d61b2025255502fb", null ],
+    [ "ZoneID", "d3/dcf/a10834.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
 ];

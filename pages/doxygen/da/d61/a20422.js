@@ -1,6 +1,6 @@
 var a20422 =
 [
-    [ "npc_xt002_scrapbotAI", "d2/d22/a20426.html", "d2/d22/a20426" ],
-    [ "npc_xt002_scrapbot", "da/d61/a20422.html#accfd75266d058af3856bdb625728c18d", null ],
-    [ "GetAI", "da/d61/a20422.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
+    [ "boss_thorimAI", "d2/d22/a20426.html", "d2/d22/a20426" ],
+    [ "boss_thorim", "da/d61/a20422.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
+    [ "GetAI", "da/d61/a20422.html#a70895451317569f50adc11474e653515", null ]
 ];

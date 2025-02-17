@@ -1,8 +1,8 @@
 var a13550 =
 [
-    [ "FilterTargets", "d1/d8d/a13550.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "d1/d8d/a13550.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "d1/d8d/a13550.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "d1/d8d/a13550.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "d1/d8d/a13550.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "npc_varian_wrynnAI", "d3/d18/a13554.html", "d3/d18/a13554" ],
+    [ "npc_varian_wrynn", "d1/d8d/a13550.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "d1/d8d/a13550.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "d1/d8d/a13550.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "d1/d8d/a13550.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

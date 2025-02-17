@@ -1,7 +1,5 @@
 var a12842 =
 [
-    [ "HandleScript", "d2/de1/a12842.html#a6ce169d6c1b106195f787b52ea433311", null ],
-    [ "PrepareSpellScript", "d2/de1/a12842.html#a4f71583df2193274365944e6d228247c", null ],
-    [ "Register", "d2/de1/a12842.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
-    [ "Validate", "d2/de1/a12842.html#a51025308f88001f1f66d7f68f174f325", null ]
+    [ "go_inconspicuous_mine_car", "d2/de1/a12842.html#a34e941a813079b55f66bea15cffe8f42", null ],
+    [ "OnGossipHello", "d2/de1/a12842.html#a256a8f766dd045613c0c7159db9f74e0", null ]
 ];

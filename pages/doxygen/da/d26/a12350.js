@@ -1,8 +1,8 @@
 var a12350 =
 [
-    [ "npc_kernobeeAI", "da/d26/a12350.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
-    [ "SetGUID", "da/d26/a12350.html#a34999b470697ba0a27701facd63625f8", null ],
-    [ "UpdateAI", "da/d26/a12350.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
-    [ "checkTimer", "da/d26/a12350.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
-    [ "playerGUID", "da/d26/a12350.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
+    [ "MajordomoAddData", "da/d26/a12350.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "da/d26/a12350.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "da/d26/a12350.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "da/d26/a12350.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "da/d26/a12350.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

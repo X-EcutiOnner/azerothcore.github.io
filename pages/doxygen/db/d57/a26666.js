@@ -1,6 +1,6 @@
 var a26666 =
 [
-    [ "CalculateAmount", "db/d57/a26666.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
-    [ "PrepareAuraScript", "db/d57/a26666.html#a845476e27b3751fd5aab505d41d8696d", null ],
-    [ "Register", "db/d57/a26666.html#aa5141f11bcd97cc501297a5309df1079", null ]
+    [ "HandleAfterHit", "db/d57/a26666.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
+    [ "PrepareSpellScript", "db/d57/a26666.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
+    [ "Register", "db/d57/a26666.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
 ];

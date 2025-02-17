@@ -1,5 +1,10 @@
 var a14014 =
 [
-    [ "at_bring_your_orphan_to", "d8/da9/a14014.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
-    [ "OnTrigger", "d8/da9/a14014.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
+    [ "npc_brewfest_super_brew_trigger", "d8/da9/a14014.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "d8/da9/a14014.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "d8/da9/a14014.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "d8/da9/a14014.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "d8/da9/a14014.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "d8/da9/a14014.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "d8/da9/a14014.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

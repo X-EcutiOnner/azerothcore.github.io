@@ -1,6 +1,5 @@
 var a21014 =
 [
-    [ "boss_erekemAI", "dd/d3f/a21018.html", "dd/d3f/a21018" ],
-    [ "boss_erekem", "d4/da0/a21014.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
-    [ "GetAI", "d4/da0/a21014.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
+    [ "npc_ritual_channelerAI", "d4/da0/a21014.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
+    [ "AttackStart", "d4/da0/a21014.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
 ];

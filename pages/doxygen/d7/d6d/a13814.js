@@ -1,7 +1,5 @@
 var a13814 =
 [
-    [ "HandleApply", "d7/d6d/a13814.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
-    [ "HandleRemove", "d7/d6d/a13814.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
-    [ "PrepareAuraScript", "d7/d6d/a13814.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
-    [ "Register", "d7/d6d/a13814.html#af2343add2ed014832bd34d11519b391b", null ]
+    [ "at_zulgurub_bridge_speech", "d7/d6d/a13814.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
+    [ "_OnTrigger", "d7/d6d/a13814.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
 ];

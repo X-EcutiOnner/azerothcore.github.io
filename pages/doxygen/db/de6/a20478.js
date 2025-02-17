@@ -1,6 +1,6 @@
 var a20478 =
 [
-    [ "OnRemove", "db/de6/a20478.html#a492bd9e9c82937e00897e19362b40901", null ],
-    [ "PrepareAuraScript", "db/de6/a20478.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
-    [ "Register", "db/de6/a20478.html#adfcaf82ff48225ea0e0314d421795644", null ]
+    [ "boss_thorim_gauntlet_npcsAI", "d9/d3e/a20482.html", "d9/d3e/a20482" ],
+    [ "boss_thorim_gauntlet_npcs", "db/de6/a20478.html#abdf2e90c5b86d3724fac46bff5e15d97", null ],
+    [ "GetAI", "db/de6/a20478.html#a2a71153ed2a9091de6668ab0b6f7674f", null ]
 ];

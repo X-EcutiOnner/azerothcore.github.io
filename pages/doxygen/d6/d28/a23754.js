@@ -1,9 +1,10 @@
 var a23754 =
 [
-    [ "npc_fel_guard_houndAI", "d6/d28/a23754.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
-    [ "MovementInform", "d6/d28/a23754.html#a127a0d7b61fde64c0ced52192f438f12", null ],
-    [ "Reset", "d6/d28/a23754.html#ab979c3602897b1148ffd5d4a81941197", null ],
-    [ "UpdateAI", "d6/d28/a23754.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
-    [ "checkTimer", "d6/d28/a23754.html#ad22bb6efafb4396cd0137c1384240029", null ],
-    [ "helboarGUID", "d6/d28/a23754.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
+    [ "npc_raging_flames", "d6/d28/a23754.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
+    [ "EnterEvadeMode", "d6/d28/a23754.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
+    [ "FixateRandomTarget", "d6/d28/a23754.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
+    [ "InitializeAI", "d6/d28/a23754.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
+    [ "IsSummonedBy", "d6/d28/a23754.html#ae42c4329be355807af92c1c803e61500", null ],
+    [ "Reset", "d6/d28/a23754.html#a34ac2249e507784d81c4040e87a646e0", null ],
+    [ "UpdateAI", "d6/d28/a23754.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
 ];

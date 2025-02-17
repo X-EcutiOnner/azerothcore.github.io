@@ -1,14 +1,8 @@
 var a03758 =
 [
-    [ "npc_cairne_bloodhoof", "d0/d58/a15398.html", "d0/d58/a15398" ],
-    [ "npc_cairne_bloodhoof::npc_cairne_bloodhoofAI", "d6/d01/a15402.html", "d6/d01/a15402" ],
-    [ "CairneBloodhoof", "da/d85/a03758.html#a1d11da63be1309061cba3b5e10f2bbd9", [
-      [ "SPELL_BERSERKER_CHARGE", "da/d85/a03758.html#a1d11da63be1309061cba3b5e10f2bbd9ae34e5e229d0caf06536a990d65605f66", null ],
-      [ "SPELL_CLEAVE", "da/d85/a03758.html#a1d11da63be1309061cba3b5e10f2bbd9a0de0a536dbf18ec5c2e76cfee1d751eb", null ],
-      [ "SPELL_MORTAL_STRIKE", "da/d85/a03758.html#a1d11da63be1309061cba3b5e10f2bbd9a7794ace87705e2898f8b60f1f5228110", null ],
-      [ "SPELL_THUNDERCLAP", "da/d85/a03758.html#a1d11da63be1309061cba3b5e10f2bbd9a7f4e66bb0a1b5b2705975420f645b16e", null ],
-      [ "SPELL_UPPERCUT", "da/d85/a03758.html#a1d11da63be1309061cba3b5e10f2bbd9aec5ad6f4170f697acf9499e4e06bb065", null ],
-      [ "SPELL_CAIRNES_HOOFPRINT", "da/d85/a03758.html#a1d11da63be1309061cba3b5e10f2bbd9aa5dbce7c49b1794438bd8cfc874c7104", null ]
-    ] ],
-    [ "AddSC_thunder_bluff", "da/d85/a03758.html#ae5d674fbd346082d81f6f6720eed1081", null ]
+    [ "MailScript", "d4/db5/a10270.html", "d4/db5/a10270" ],
+    [ "MailHook", "da/d85/a03758.html#a7a2fb0cc0937712e8aff65574e1068d6", [
+      [ "MAILHOOK_ON_BEFORE_MAIL_DRAFT_SEND_MAIL_TO", "da/d85/a03758.html#a7a2fb0cc0937712e8aff65574e1068d6a8f3555a10968fd2749e256067782760f", null ],
+      [ "MAILHOOK_END", "da/d85/a03758.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285", null ]
+    ] ]
 ];

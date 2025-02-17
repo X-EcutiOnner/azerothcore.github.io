@@ -1,7 +1,7 @@
 var a21898 =
 [
-    [ "npc_engineer_heliceAI", "db/d5c/a21902.html", "db/d5c/a21902" ],
-    [ "npc_engineer_helice", "df/dc1/a21898.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
-    [ "GetAI", "df/dc1/a21898.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
-    [ "OnQuestAccept", "df/dc1/a21898.html#ae0979d68744372d5d4669b6f014eb123", null ]
+    [ "npc_tirions_gambit_tirionAI", "db/d5c/a21902.html", "db/d5c/a21902" ],
+    [ "npc_tirions_gambit_tirion", "df/dc1/a21898.html#ad52abd46ccdd3b4409671679434c193c", null ],
+    [ "GetAI", "df/dc1/a21898.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
+    [ "OnGossipSelect", "df/dc1/a21898.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
 ];

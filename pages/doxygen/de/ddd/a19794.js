@@ -1,6 +1,8 @@
 var a19794 =
 [
-    [ "boss_freya_summonsAI", "d0/d0d/a19798.html", "d0/d0d/a19798" ],
-    [ "boss_freya_summons", "de/ddd/a19794.html#a3445ed89967cc9a610472f18e862ecd4", null ],
-    [ "GetAI", "de/ddd/a19794.html#ac68f231c37c61d262d6c16bc87a0f1c7", null ]
+    [ "FilterTargets", "de/ddd/a19794.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
+    [ "HandleScript", "de/ddd/a19794.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
+    [ "PrepareSpellScript", "de/ddd/a19794.html#aea46762f43b31923617f740e0545fe98", null ],
+    [ "Register", "de/ddd/a19794.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
+    [ "Validate", "de/ddd/a19794.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
 ];

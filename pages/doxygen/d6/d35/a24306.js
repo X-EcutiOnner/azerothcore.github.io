@@ -1,9 +1,7 @@
 var a24306 =
 [
-    [ "CheckCast", "d6/d35/a24306.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "d6/d35/a24306.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "d6/d35/a24306.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "d6/d35/a24306.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "d6/d35/a24306.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "d6/d35/a24306.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "CheckCast", "d6/d35/a24306.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
+    [ "HandleDummy", "d6/d35/a24306.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
+    [ "PrepareSpellScript", "d6/d35/a24306.html#a465da282630352a289d5daae7ccb1d01", null ],
+    [ "Register", "d6/d35/a24306.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
 ];

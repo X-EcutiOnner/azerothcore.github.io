@@ -1,6 +1,9 @@
 var a17994 =
 [
-    [ "npc_raging_spiritAI", "da/da5/a17998.html", "da/da5/a17998" ],
-    [ "npc_raging_spirit", "df/dcf/a17994.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "df/dcf/a17994.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "ShadowTrapLKTargetSelector", "df/dcf/a17994.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "df/dcf/a17994.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "df/dcf/a17994.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "df/dcf/a17994.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "df/dcf/a17994.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "df/dcf/a17994.html#af416013aabf3b217b07228072076603d", null ]
 ];

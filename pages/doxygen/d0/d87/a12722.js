@@ -1,6 +1,5 @@
 var a12722 =
 [
-    [ "HandleScriptEffect", "d0/d87/a12722.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
-    [ "PrepareSpellScript", "d0/d87/a12722.html#ad110e0dba330acde845c47501256cf5d", null ],
-    [ "Register", "d0/d87/a12722.html#ab6971aa466055a1280cd258e26645157", null ]
+    [ "boss_yazzai", "d0/d87/a12722.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
+    [ "JustEngagedWith", "d0/d87/a12722.html#ab504de0e51a3715485eb65e006352a6f", null ]
 ];

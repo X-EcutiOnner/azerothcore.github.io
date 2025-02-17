@@ -1,6 +1,8 @@
 var a15806 =
 [
-    [ "npc_orb_carrierAI", "d5/d8c/a15810.html", "d5/d8c/a15810" ],
-    [ "npc_orb_carrier", "dc/dd5/a15806.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
-    [ "GetAI", "dc/dd5/a15806.html#ab5b7bbffc43b840c686dc889805ea401", null ]
+    [ "boss_sartharion_shadronAI", "dc/dd5/a15806.html#a02e2e657ac74ab37a4568589511de664", null ],
+    [ "ExecuteEvent", "dc/dd5/a15806.html#a6a26f1f777988be6eaf8b1a675bbbabb", null ],
+    [ "HandleExtraEvent", "dc/dd5/a15806.html#a3db5e816f6253f9c4251690bfbbe1912", null ],
+    [ "Reset", "dc/dd5/a15806.html#a7054cde1de2166c2b06489187115cb3f", null ],
+    [ "SummonedCreatureDies", "dc/dd5/a15806.html#a8b70b3b7287108ad13caeb85a83cf26f", null ]
 ];

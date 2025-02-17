@@ -1,6 +1,7 @@
 var a24026 =
 [
-    [ "PrepareSpellScript", "d4/d05/a24026.html#a190f6dc3d9b336324da29f627a743fe9", null ],
-    [ "Register", "d4/d05/a24026.html#a3afc8035b852bc31abd3228e88d59819", null ],
-    [ "SetDest", "d4/d05/a24026.html#a85d66a58597954501305ad5b674cc8a2", null ]
+    [ "o", "d4/d05/a24026.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "d4/d05/a24026.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "d4/d05/a24026.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "d4/d05/a24026.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

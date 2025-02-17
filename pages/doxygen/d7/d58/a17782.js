@@ -1,7 +1,6 @@
 var a17782 =
 [
-    [ "PeriodicTick", "d7/d58/a17782.html#a79b63e30f37df8a961b57c4b10669800", null ],
-    [ "PrepareAuraScript", "d7/d58/a17782.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
-    [ "Register", "d7/d58/a17782.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
-    [ "Validate", "d7/d58/a17782.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
+    [ "boss_rotfaceAI", "d1/de5/a17786.html", "d1/de5/a17786" ],
+    [ "boss_rotface", "d7/d58/a17782.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "d7/d58/a17782.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

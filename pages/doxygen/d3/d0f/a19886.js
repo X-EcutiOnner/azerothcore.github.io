@@ -1,6 +1,6 @@
 var a19886 =
 [
-    [ "npc_ulduar_icicleAI", "db/dee/a19890.html", "db/dee/a19890" ],
-    [ "npc_ulduar_icicle", "d3/d0f/a19886.html#a1ab79b2fa3e64779f62b96c195222683", null ],
-    [ "GetAI", "d3/d0f/a19886.html#a71dd83d544307b11bcde58f9aeea097c", null ]
+    [ "boss_freya_elder_ironbranchAI", "db/dee/a19890.html", "db/dee/a19890" ],
+    [ "boss_freya_elder_ironbranch", "d3/d0f/a19886.html#a066083e4d6fde6439f7dce80be209075", null ],
+    [ "GetAI", "d3/d0f/a19886.html#a67f483d12fe801c1d840dd0f74396564", null ]
 ];

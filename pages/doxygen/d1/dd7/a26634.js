@@ -1,8 +1,10 @@
 var a26634 =
 [
-    [ "HandleDummy", "d1/dd7/a26634.html#ad2eec86cff225cc0bd806e31596fb127", null ],
-    [ "PrepareSpellScript", "d1/dd7/a26634.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
-    [ "Register", "d1/dd7/a26634.html#a6c72b4c813368774283ae94036a43ee2", null ],
-    [ "SendMiss", "d1/dd7/a26634.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
-    [ "Validate", "d1/dd7/a26634.html#a9a5014de08f73ad5dad29354812030ac", null ]
+    [ "CalculateAmount", "d1/dd7/a26634.html#a9e0e28d871f9d3c89cf2dc862971321d", null ],
+    [ "Detonate", "d1/dd7/a26634.html#adc622aae157984546dfe3d8373c0c413", null ],
+    [ "HandleProc", "d1/dd7/a26634.html#a3b5812649b67830d8dc6d10b5dd1c937", null ],
+    [ "OnRemove", "d1/dd7/a26634.html#a5067cef0afc99d487f995f8d6edea21f", null ],
+    [ "PrepareAuraScript", "d1/dd7/a26634.html#abc23ebb3761e3505486ac578bdeaeeed", null ],
+    [ "Register", "d1/dd7/a26634.html#acc4819698e175889a0491d7f7cc680fd", null ],
+    [ "Validate", "d1/dd7/a26634.html#a0649826ce0d66c9f21be8d47c76f4941", null ]
 ];

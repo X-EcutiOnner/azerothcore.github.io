@@ -1,6 +1,6 @@
 var a27330 =
 [
-    [ "npc_pet_trainerAI", "d2/da4/a27334.html", "d2/da4/a27334" ],
-    [ "npc_pet_trainer", "db/d59/a27330.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "db/d59/a27330.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_taxi", "db/d59/a27330.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "db/d59/a27330.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "db/d59/a27330.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

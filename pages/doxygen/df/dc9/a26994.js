@@ -1,6 +1,8 @@
 var a26994 =
 [
-    [ "go_gilded_brazierAI", "dd/dc5/a26998.html", "dd/dc5/a26998" ],
-    [ "go_gilded_brazier", "df/dc9/a26994.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "df/dc9/a26994.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "FilterTargets", "df/dc9/a26994.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "df/dc9/a26994.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "df/dc9/a26994.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "df/dc9/a26994.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "df/dc9/a26994.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

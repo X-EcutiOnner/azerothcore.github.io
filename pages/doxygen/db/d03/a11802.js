@@ -1,8 +1,6 @@
 var a11802 =
 [
-    [ "boss_drakkisathAI", "db/d03/a11802.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
-    [ "JustEngagedWith", "db/d03/a11802.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
-    [ "UpdateAI", "db/d03/a11802.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
-    [ "_conflagrateTarget", "db/d03/a11802.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
-    [ "_conflagrateThreat", "db/d03/a11802.html#aae3762b27c3d99b32f47293c544e4afe", null ]
+    [ "boss_anubshiahAI", "d6/d25/a11806.html", "d6/d25/a11806" ],
+    [ "boss_anubshiah", "db/d03/a11802.html#a7176d98f966dac62f7ac1a10d3f2afa1", null ],
+    [ "GetAI", "db/d03/a11802.html#a157420b5f0c4c05e7dc2ee327ef81cb9", null ]
 ];

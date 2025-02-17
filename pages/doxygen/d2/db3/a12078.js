@@ -1,7 +1,5 @@
 var a12078 =
 [
-    [ "HandlePeriodic", "d2/db3/a12078.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "d2/db3/a12078.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "d2/db3/a12078.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "d2/db3/a12078.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "go_father_flame", "d2/db3/a12078.html#aa992bd7029a56faca4b92637688fe845", null ],
+    [ "OnLootStateChanged", "d2/db3/a12078.html#a84c7055e791a3dac66b75d327c7662c3", null ]
 ];

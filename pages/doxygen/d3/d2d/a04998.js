@@ -1,10 +1,13 @@
 var a04998 =
 [
-    [ "WModelAreaCallback", "d3/d2d/a04998.html#ad59e5b281d60d2489d0100e728612e65", null ],
-    [ "operator()", "d3/d2d/a04998.html#a4c0bb86ba4d8238e8f7740c4699dfa0f", null ],
-    [ "hit", "d3/d2d/a04998.html#a136cf475a8246611c52b3af41707fe83", null ],
-    [ "minVol", "d3/d2d/a04998.html#a169a35e4d1b33b28014ad753993a1c27", null ],
-    [ "prims", "d3/d2d/a04998.html#a7a45b1c8e16c7840a45b96b15ca200b4", null ],
-    [ "zDist", "d3/d2d/a04998.html#ade19ec7931454c375bf8564f05556c8e", null ],
-    [ "zVec", "d3/d2d/a04998.html#a423995c8ce4c4846da978cc49aeee2b9", null ]
+    [ "GroupModel_Raw", "d3/d2d/a04998.html#a8decfdc365b823f8f147ee9bfa3613b0", null ],
+    [ "~GroupModel_Raw", "d3/d2d/a04998.html#a1381249a1bbe9c1cf383097ef94c6eb7", null ],
+    [ "Read", "d3/d2d/a04998.html#ad3bcd782124868cd1df0efea2b500ba5", null ],
+    [ "bounds", "d3/d2d/a04998.html#a830d79fdd2f21164bd805051352a3aa8", null ],
+    [ "GroupWMOID", "d3/d2d/a04998.html#ab9e9650c5ebf5a81b92cff27dd23a25a", null ],
+    [ "liquid", "d3/d2d/a04998.html#ac801d04ca4c643d2b8eba5199a8d0fac", null ],
+    [ "liquidflags", "d3/d2d/a04998.html#ac379f459d0fff6b1848dc52bd21ef393", null ],
+    [ "mogpflags", "d3/d2d/a04998.html#a339767ed24a9f0ecf426e47d3bf6e4b5", null ],
+    [ "triangles", "d3/d2d/a04998.html#af692734697f525672027f251addebe6d", null ],
+    [ "vertexArray", "d3/d2d/a04998.html#ad73c215408218900973df4dbdd8fcd18", null ]
 ];

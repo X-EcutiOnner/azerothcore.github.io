@@ -1,7 +1,7 @@
 var a17334 =
 [
-    [ "npc_gunship_rocketeerAI", "d3/dda/a17334.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
-    [ "CanAIAttack", "d3/dda/a17334.html#a4b4e2839e426bdb752beea09394f13dc", null ],
-    [ "MovementInform", "d3/dda/a17334.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
-    [ "UpdateAI", "d3/dda/a17334.html#af73d71750f116fb90be1c2acba75ca70", null ]
+    [ "ExtraEffect", "d3/dda/a17334.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "d3/dda/a17334.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "d3/dda/a17334.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "d3/dda/a17334.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

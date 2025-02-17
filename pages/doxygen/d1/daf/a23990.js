@@ -1,7 +1,6 @@
 var a23990 =
 [
-    [ "npc_kservantAI", "d1/daf/a23990.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "d1/daf/a23990.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "d1/daf/a23990.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "d1/daf/a23990.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
+    [ "npc_mature_netherwing_drakeAI", "d8/d4e/a23994.html", "d8/d4e/a23994" ],
+    [ "npc_mature_netherwing_drake", "d1/daf/a23990.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "d1/daf/a23990.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

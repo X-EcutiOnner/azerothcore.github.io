@@ -1,8 +1,10 @@
 var a08374 =
 [
-    [ "IsInSpec", "d9/d8d/a08374.html#a77968b5562467f85bda04b6f2f41ca29", null ],
-    [ "inSpellBook", "d9/d8d/a08374.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
-    [ "specMask", "d9/d8d/a08374.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
-    [ "State", "d9/d8d/a08374.html#a062758af7e92f7e2263ca0a0fd329151", null ],
-    [ "talentID", "d9/d8d/a08374.html#aca9b191361652002f5178179a939e41b", null ]
+    [ "ObjectGuidGeneratorBase", "d9/d8d/a08374.html#a8af6741cc884915ee86b489fc970fed1", null ],
+    [ "~ObjectGuidGeneratorBase", "d9/d8d/a08374.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
+    [ "Generate", "d9/d8d/a08374.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
+    [ "GetNextAfterMaxUsed", "d9/d8d/a08374.html#abf1f20b97af8071459bd850e7106a442", null ],
+    [ "HandleCounterOverflow", "d9/d8d/a08374.html#ada7a44ac47b112491c575c38465740fc", null ],
+    [ "Set", "d9/d8d/a08374.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
+    [ "_nextGuid", "d9/d8d/a08374.html#a4a14102e019aa10f41b050054cacca22", null ]
 ];

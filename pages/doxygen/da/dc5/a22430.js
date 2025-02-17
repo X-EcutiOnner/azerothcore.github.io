@@ -1,6 +1,8 @@
 var a22430 =
 [
-    [ "HandleScriptEffect", "da/dc5/a22430.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
-    [ "PrepareSpellScript", "da/dc5/a22430.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
-    [ "Register", "da/dc5/a22430.html#aad6959f74932db219e991efd3b3af44a", null ]
+    [ "CalcPeriodic", "da/dc5/a22430.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
+    [ "OnRemove", "da/dc5/a22430.html#af120bb9d6a0c3d338706613540849412", null ],
+    [ "PrepareAuraScript", "da/dc5/a22430.html#ad413f14193013058e1775f80b457a81d", null ],
+    [ "Register", "da/dc5/a22430.html#aa35fc5865f108712e450661e67c384ce", null ],
+    [ "Update", "da/dc5/a22430.html#aebc61b57ed8038488ec06c14483b2099", null ]
 ];

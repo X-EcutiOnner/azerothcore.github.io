@@ -1,7 +1,12 @@
 var a22466 =
 [
-    [ "HandleEffectRemove", "df/d7a/a22466.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
-    [ "PrepareAuraScript", "df/d7a/a22466.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
-    [ "Register", "df/d7a/a22466.html#a9ee8e71020c17f593472de5a9c130753", null ],
-    [ "Validate", "df/d7a/a22466.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
+    [ "boss_anzu", "df/d7a/a22466.html#aef8c5c57afa95936d8c2809fa1257799", null ],
+    [ "JustEngagedWith", "df/d7a/a22466.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
+    [ "Reset", "df/d7a/a22466.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
+    [ "SummonBroods", "df/d7a/a22466.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
+    [ "SummonedCreatureDies", "df/d7a/a22466.html#a2e35df609db069c8d31afffabcfead34", null ],
+    [ "SummonSpirits", "df/d7a/a22466.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
+    [ "UpdateAI", "df/d7a/a22466.html#a06373460d454bfaf8db793e591cc0abd", null ],
+    [ "AnzuSpiritPos", "df/d7a/a22466.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
+    [ "talkTimer", "df/d7a/a22466.html#a2afae53534d9e777c90d09456f834b5d", null ]
 ];

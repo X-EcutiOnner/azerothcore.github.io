@@ -1,11 +1,11 @@
 var a10554 =
 [
-    [ "SaveGuildEmblem", "d6/de1/a10554.html#ae3e507a567dfbead91c84629008539d2", null ],
-    [ "Read", "d6/de1/a10554.html#aeea281ed99165947de4b5d1b4449ea5d", null ],
-    [ "BColor", "d6/de1/a10554.html#a48cfbac2214bfc406d8bc80c175dac8f", null ],
-    [ "Bg", "d6/de1/a10554.html#a53e3f146f6a925bbe1fdae2105b79952", null ],
-    [ "BStyle", "d6/de1/a10554.html#a44fdd025f87e13db6d83afca6c49f5f8", null ],
-    [ "EColor", "d6/de1/a10554.html#ad3775c0839dd9aeb5a708a26ea4ec640", null ],
-    [ "EStyle", "d6/de1/a10554.html#a60c52a080284fabe96c579f39fb0834f", null ],
-    [ "Vendor", "d6/de1/a10554.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0", null ]
+    [ "GuildSetRankPermissions", "d6/de1/a10554.html#a8b3fd3e4da77c6fb70db28721ec46714", null ],
+    [ "Read", "d6/de1/a10554.html#a534550862a3c634697e8277f31ad4c25", null ],
+    [ "Flags", "d6/de1/a10554.html#adea48131efa7c05b84c4de596933bfbe", null ],
+    [ "RankID", "d6/de1/a10554.html#a0c4a8b29918d69580c749e3b48485515", null ],
+    [ "RankName", "d6/de1/a10554.html#a24dde2aa8dd0ae1b9e8b37317334e0d4", null ],
+    [ "TabFlags", "d6/de1/a10554.html#af19e6fd8ddfe980f8c1f1110e9332bad", null ],
+    [ "TabWithdrawItemLimit", "d6/de1/a10554.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c", null ],
+    [ "WithdrawGoldLimit", "d6/de1/a10554.html#a1c02002facce05010028ac8dcae7fa3f", null ]
 ];

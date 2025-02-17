@@ -1,6 +1,6 @@
 var a17902 =
 [
-    [ "LichKingMovieEvent", "d8/dea/a17902.html#a3e48e13dc5166c73a9f379045988f86a", null ],
-    [ "Execute", "d8/dea/a17902.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
-    [ "_owner", "d8/dea/a17902.html#a7ed68f442a644d6bb7a036812351d89e", null ]
+    [ "HandleSpecial", "d8/dea/a17902.html#afa540e8c748ca3083667528e2449bc65", null ],
+    [ "PrepareSpellScript", "d8/dea/a17902.html#a9472211ffdaa33802099b22b2a721645", null ],
+    [ "Register", "d8/dea/a17902.html#ab868b10372ff2ef401d19b126acf00c6", null ]
 ];

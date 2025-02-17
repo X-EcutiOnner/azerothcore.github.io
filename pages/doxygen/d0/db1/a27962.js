@@ -1,4 +1,4 @@
 var a27962 =
 [
-    [ "Pattern", "d0/db1/a27962.html#abcd404cd99f0a41b266db09ddae4da68", null ]
+    [ "cost", "d0/db1/a27962.html#a624313c8b56b9755593b2f4bacd306d7", null ]
 ];

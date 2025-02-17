@@ -1,6 +1,5 @@
 var a12038 =
 [
-    [ "boss_flamegorAI", "dd/d8c/a12042.html", "dd/d8c/a12042" ],
-    [ "boss_flamegor", "dc/d09/a12038.html#abc6f068c81466d08306d94667bb1974b", null ],
-    [ "GetAI", "dc/d09/a12038.html#a56fb8425c55703fbda14a982d8fdcb2d", null ]
+    [ "at_trigger_the_beast_movement", "dc/d09/a12038.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "dc/d09/a12038.html#a333d685d765497a950fde35067d876a1", null ]
 ];

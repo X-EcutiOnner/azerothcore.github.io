@@ -1,9 +1,8 @@
 var a17226 =
 [
-    [ "npc_stinky_iccAI", "d0/d9d/a17226.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "d0/d9d/a17226.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "d0/d9d/a17226.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "d0/d9d/a17226.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "d0/d9d/a17226.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "d0/d9d/a17226.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "OnApply", "d0/d9d/a17226.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "d0/d9d/a17226.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "d0/d9d/a17226.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "d0/d9d/a17226.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "d0/d9d/a17226.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

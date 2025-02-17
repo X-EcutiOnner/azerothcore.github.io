@@ -1,6 +1,6 @@
 var a10538 =
 [
-    [ "GuildBankTextQuery", "d5/d4e/a10538.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
-    [ "Read", "d5/d4e/a10538.html#af20bd5c8e58b891028613625fb14807d", null ],
-    [ "Tab", "d5/d4e/a10538.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
+    [ "GuildEventLogQueryResults", "d5/d4e/a10538.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
+    [ "Write", "d5/d4e/a10538.html#aa24738cdd040a883782b50189abdf240", null ],
+    [ "Entry", "d5/d4e/a10538.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
 ];

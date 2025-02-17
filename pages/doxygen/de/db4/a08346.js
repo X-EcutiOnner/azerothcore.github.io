@@ -1,9 +1,11 @@
 var a08346 =
 [
-    [ "PetInfo", "d5/d43/a08350.html", "d5/d43/a08350" ],
-    [ "GetUnslottedHunterPet", "de/db4/a08346.html#a4e0e22a135703c989976694a32912cbd", null ],
-    [ "CurrentPet", "de/db4/a08346.html#a7a9f76452985abc65560773ac413208f", null ],
-    [ "MaxStabledPets", "de/db4/a08346.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
-    [ "StabledPets", "de/db4/a08346.html#a6bd064e692fff316581d08680b163026", null ],
-    [ "UnslottedPets", "de/db4/a08346.html#a8e6f6e36722dd883e6df962a1e950346", null ]
+    [ "MovableMapObject", "de/db4/a08346.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
+    [ "GetCurrentCell", "de/db4/a08346.html#a6d7d87cff5f00f3b370584675caf7870", null ],
+    [ "SetCurrentCell", "de/db4/a08346.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
+    [ "Map", "de/db4/a08346.html#ad2f32e921244459f7cc6d50355429cc6", null ],
+    [ "ObjectGridLoader", "de/db4/a08346.html#a9551c85ae0e43e4d212225c643da2262", null ],
+    [ "RandomMovementGenerator", "de/db4/a08346.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
+    [ "_currentCell", "de/db4/a08346.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
+    [ "_moveState", "de/db4/a08346.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
 ];

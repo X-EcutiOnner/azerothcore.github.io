@@ -1,10 +1,7 @@
 var a16242 =
 [
-    [ "npc_mistress_of_painAI", "df/d86/a16242.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
-    [ "EnterEvadeMode", "df/d86/a16242.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
-    [ "JustDied", "df/d86/a16242.html#ae60f294f902a2f687446f7599d071e42", null ],
-    [ "Reset", "df/d86/a16242.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
-    [ "SpellHit", "df/d86/a16242.html#a077843a7ead2034da695be816de42f9e", null ],
-    [ "UpdateAI", "df/d86/a16242.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
-    [ "events", "df/d86/a16242.html#a941ae1faab010551db6a8e6749993357", null ]
+    [ "npc_toc_priestAI", "df/d86/a16242.html#aa362d2136193a8738e311bba18b87c90", null ],
+    [ "myCanCast", "df/d86/a16242.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
+    [ "UpdateAI", "df/d86/a16242.html#ae51d2ac95320909150c673b76c9856c7", null ],
+    [ "events", "df/d86/a16242.html#aa5be20e87351424e0e4698540fc1fef4", null ]
 ];

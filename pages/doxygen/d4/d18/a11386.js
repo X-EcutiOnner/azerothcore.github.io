@@ -1,10 +1,9 @@
 var a11386 =
 [
-    [ "bf_commandscript", "d4/d18/a11386.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "d4/d18/a11386.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "d4/d18/a11386.html#a08dd3bdd279c760fe0f126200a01619e", null ],
-    [ "HandleBattlefieldEnd", "d4/d18/a11386.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
-    [ "HandleBattlefieldStart", "d4/d18/a11386.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
-    [ "HandleBattlefieldSwitch", "d4/d18/a11386.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
-    [ "HandleBattlefieldTimer", "d4/d18/a11386.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
+    [ "bytes", "d4/d18/a11386.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
+    [ "bytes", "d4/d18/a11386.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
+    [ "bytes", "d4/d18/a11386.html#ad0213e5de805b0decb4730efa2d412e0", null ],
+    [ "ints", "d4/d18/a11386.html#a0518eb4b0a91697500a5a370068425a8", null ],
+    [ "ints", "d4/d18/a11386.html#a08efba5e78b64fef020453f689bcc5f0", null ],
+    [ "ints", "d4/d18/a11386.html#a36edc530bfb803c2f122e6758d20193a", null ]
 ];

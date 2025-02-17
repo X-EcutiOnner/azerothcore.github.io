@@ -1,6 +1,7 @@
 var a27090 =
 [
-    [ "guard_shattrath_scryerAI", "dd/dba/a27094.html", "dd/dba/a27094" ],
-    [ "guard_shattrath_scryer", "d8/d71/a27090.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "d8/d71/a27090.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "go_pirate_day_musicAI", "d8/d71/a27090.html#a1abe263949b7a07e5143779efcddc7eb", null ],
+    [ "UpdateAI", "d8/d71/a27090.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
+    [ "_events", "d8/d71/a27090.html#a233ae55a05876c665455b106ef50d57e", null ],
+    [ "rnd", "d8/d71/a27090.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
 ];

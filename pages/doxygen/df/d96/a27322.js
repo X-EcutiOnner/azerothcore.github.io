@@ -1,8 +1,11 @@
 var a27322 =
 [
-    [ "npc_wormholeAI", "d7/dc8/a27326.html", "d7/dc8/a27326" ],
-    [ "npc_wormhole", "df/d96/a27322.html#aeace4cbf665409786b86140709191cb0", null ],
-    [ "GetAI", "df/d96/a27322.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
-    [ "OnGossipHello", "df/d96/a27322.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
-    [ "OnGossipSelect", "df/d96/a27322.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
+    [ "npc_franklinAI", "df/d96/a27322.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "df/d96/a27322.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "df/d96/a27322.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "df/d96/a27322.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "df/d96/a27322.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "df/d96/a27322.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "df/d96/a27322.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "df/d96/a27322.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

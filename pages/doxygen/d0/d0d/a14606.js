@@ -1,12 +1,14 @@
 var a14606 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "d0/d0d/a14606.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64", null ],
-    [ "CheckAchievementCriteriaMeet", "d0/d0d/a14606.html#a20761aa41e0f70836c4525f17faf064f", null ],
-    [ "Initialize", "d0/d0d/a14606.html#a5d109b5acfa2e21e3c50e35dcdf119dd", null ],
-    [ "OnGameObjectCreate", "d0/d0d/a14606.html#a1e99600992673d165382d99236e0c59f", null ],
-    [ "SetBossState", "d0/d0d/a14606.html#a2a28e42ec49fce2ef47288c1ad4b6e61", null ],
-    [ "SetData", "d0/d0d/a14606.html#ac5df2ecb9f88dbedbb1f59ad2bdc8b96", null ],
-    [ "bDeepBreath", "d0/d0d/a14606.html#a96211e4e0e033e16d4de57b6e40f2023", null ],
-    [ "ManyWhelpsCounter", "d0/d0d/a14606.html#aea148b562a4f2cd752ac73240f902993", null ],
-    [ "str_data", "d0/d0d/a14606.html#ad0b65a3cfccdf07d017757751f4e15fa", null ]
+    [ "npc_cos_stratholme_citizienAI", "d0/d0d/a14606.html#a591aaf16ef5befada12378acfbef9465", null ],
+    [ "DoAction", "d0/d0d/a14606.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
+    [ "InfectMe", "d0/d0d/a14606.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
+    [ "MoveInLineOfSight", "d0/d0d/a14606.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
+    [ "Reset", "d0/d0d/a14606.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
+    [ "SpellHit", "d0/d0d/a14606.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
+    [ "UpdateAI", "d0/d0d/a14606.html#a81a1382493091a99cae1c2bb580a7f32", null ],
+    [ "allowTimer", "d0/d0d/a14606.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
+    [ "changeTimer", "d0/d0d/a14606.html#aa757ab2eef813dceaaad65d84681099b", null ],
+    [ "locked", "d0/d0d/a14606.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
+    [ "pInstance", "d0/d0d/a14606.html#aadae06c487a7755114f856a835d48c7e", null ]
 ];

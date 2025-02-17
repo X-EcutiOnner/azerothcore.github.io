@@ -1,5 +1,5 @@
 var a10422 =
 [
-    [ "GuildPermissionsQuery", "d5/d45/a10422.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
-    [ "Read", "d5/d45/a10422.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
+    [ "LogoutCancel", "d5/d45/a10422.html#a179fccf74fa969e6a32492f35d6f28c8", null ],
+    [ "Read", "d5/d45/a10422.html#a9ed27bc4472b7e4e225793b4f2e5a34d", null ]
 ];

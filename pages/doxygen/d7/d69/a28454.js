@@ -1,10 +1,16 @@
 var a28454 =
 [
-    [ "WDTFile", "d7/d69/a28454.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
-    [ "~WDTFile", "d7/d69/a28454.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
-    [ "GetMap", "d7/d69/a28454.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
-    [ "init", "d7/d69/a28454.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
-    [ "_file", "d7/d69/a28454.html#a54ab64288144b9cf4904e67bb359e524", null ],
-    [ "_wmoNames", "d7/d69/a28454.html#a6ec4f95ff866585403670b620a42a857", null ],
-    [ "filename", "d7/d69/a28454.html#ab3dac8623598bac1152a514a00126bf6", null ]
+    [ "Iterator", "d7/d69/a28454.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
+    [ "Iterator", "d7/d69/a28454.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
+    [ "operator!=", "d7/d69/a28454.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
+    [ "operator!=", "d7/d69/a28454.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
+    [ "operator*", "d7/d69/a28454.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
+    [ "operator*", "d7/d69/a28454.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
+    [ "operator++", "d7/d69/a28454.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
+    [ "operator++", "d7/d69/a28454.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
+    [ "operator->", "d7/d69/a28454.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
+    [ "operator->", "d7/d69/a28454.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
+    [ "operator==", "d7/d69/a28454.html#a2d9cf3e798a1fcce3682c186952290df", null ],
+    [ "operator==", "d7/d69/a28454.html#a2d9cf3e798a1fcce3682c186952290df", null ],
+    [ "record", "d7/d69/a28454.html#a948512c44e53dfa177b85f82e9fd6160", null ]
 ];

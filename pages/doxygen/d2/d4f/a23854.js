@@ -1,7 +1,8 @@
 var a23854 =
 [
-    [ "HandleEffectApply", "d2/d4f/a23854.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
-    [ "HandleEffectRemove", "d2/d4f/a23854.html#a96769390468dc132df62b5a0ec3a2da4", null ],
-    [ "PrepareAuraScript", "d2/d4f/a23854.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
-    [ "Register", "d2/d4f/a23854.html#a95905ec163c42463314a5f5bb023b4d6", null ]
+    [ "npc_ancestral_wolfAI", "d2/d4f/a23854.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "d2/d4f/a23854.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "d2/d4f/a23854.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "d2/d4f/a23854.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "ryga", "d2/d4f/a23854.html#ac238214604720e298124b58c35d58e05", null ]
 ];

@@ -1,7 +1,6 @@
 var a18646 =
 [
-    [ "OnRemove", "d3/ddc/a18646.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "d3/ddc/a18646.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "d3/ddc/a18646.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "d3/ddc/a18646.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "npc_icc_severed_essenceAI", "d5/d3d/a18650.html", "d5/d3d/a18650" ],
+    [ "npc_icc_severed_essence", "d3/ddc/a18646.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
+    [ "GetAI", "d3/ddc/a18646.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
 ];

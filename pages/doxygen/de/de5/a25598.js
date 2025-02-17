@@ -1,9 +1,8 @@
 var a25598 =
 [
-    [ "OnEffectHitTargetDisarm", "de/de5/a25598.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
-    [ "OnEffectHitTargetStun", "de/de5/a25598.html#a5a5253b6d152b1af78de663c09451536", null ],
-    [ "OnEffectLaunchTargetDisarm", "de/de5/a25598.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
-    [ "OnEffectLaunchTargetStun", "de/de5/a25598.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
-    [ "PrepareSpellScript", "de/de5/a25598.html#a113219d3376a23f8889f26f10744e7cb", null ],
-    [ "Register", "de/de5/a25598.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
+    [ "HandleDummy", "de/de5/a25598.html#a3db6982f1162ac6b03771a0e7e432e6d", null ],
+    [ "Load", "de/de5/a25598.html#a9671be7920dfd3bde2033f0ae43259b0", null ],
+    [ "PrepareSpellScript", "de/de5/a25598.html#ad50c9141d40b7089fd24a8657d496a8d", null ],
+    [ "Register", "de/de5/a25598.html#a249a857b1cf5b0c3be6018cb233c75d1", null ],
+    [ "Validate", "de/de5/a25598.html#ac209048bd5688417c391c2c9b8a72d8b", null ]
 ];

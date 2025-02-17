@@ -1,11 +1,20 @@
 var a04938 =
 [
-    [ "material", "d4/d47/a04938.html#a29addcb613bc63a100633e612d1dc2d2", null ],
-    [ "pos_x", "d4/d47/a04938.html#a02e9d8789336d77e34bffa19adbab394", null ],
-    [ "pos_y", "d4/d47/a04938.html#ac3162ce321a1f21e4e6fe35041e49a6a", null ],
-    [ "pos_z", "d4/d47/a04938.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3", null ],
-    [ "xtiles", "d4/d47/a04938.html#a94789843c68d705184e6332ac46bd69d", null ],
-    [ "xverts", "d4/d47/a04938.html#a0548c3fdb216c115a7d3843e4fbc6de3", null ],
-    [ "ytiles", "d4/d47/a04938.html#ac50224cdce231460c78c3e0f077b555d", null ],
-    [ "yverts", "d4/d47/a04938.html#aa9ecb62b53af527b3bd855b8e93ba604", null ]
+    [ "MMapMgr", "d4/d47/a04938.html#abd4bd2ef84d57be5000ab37ed36ded8c", null ],
+    [ "~MMapMgr", "d4/d47/a04938.html#a09b83a0d5246838d42a49c5103957480", null ],
+    [ "getLoadedMapsCount", "d4/d47/a04938.html#a8b087a39387a10c17dca364b9db537f9", null ],
+    [ "getLoadedTilesCount", "d4/d47/a04938.html#a14fe8d762bac4d5d179af1acf8bfe84e", null ],
+    [ "GetMMapData", "d4/d47/a04938.html#a755d34666349eba1d7665e510afa3453", null ],
+    [ "GetNavMesh", "d4/d47/a04938.html#aeae84fe910639b71a40949de59e41c91", null ],
+    [ "GetNavMeshQuery", "d4/d47/a04938.html#af9b97f1e32233fef4e4828a4c8907abc", null ],
+    [ "InitializeThreadUnsafe", "d4/d47/a04938.html#a88c7145d0475a2e5d9be5baa72a2ca7e", null ],
+    [ "loadMap", "d4/d47/a04938.html#aa27722de47fd0f5ea0d0afac8b08e161", null ],
+    [ "loadMapData", "d4/d47/a04938.html#ac677ea014721d0631195ba64b05c66a0", null ],
+    [ "packTileID", "d4/d47/a04938.html#ace3265c248ccf2a34ca4b7c43f294e43", null ],
+    [ "unloadMap", "d4/d47/a04938.html#a83acf8ce1357052ccb8aa6b63f6860ca", null ],
+    [ "unloadMap", "d4/d47/a04938.html#a2d933fd783126e48423d81d1c06fb3f9", null ],
+    [ "unloadMapInstance", "d4/d47/a04938.html#aa97a8352cad200ea1243e968dc1629a6", null ],
+    [ "loadedMMaps", "d4/d47/a04938.html#a98a7d0bf952eb80340863f2336ae84d1", null ],
+    [ "loadedTiles", "d4/d47/a04938.html#a9e2154958fcfa78d8906ccb5ccf2597c", null ],
+    [ "thread_safe_environment", "d4/d47/a04938.html#a89c7b087891d313e69437504dc0e449f", null ]
 ];

@@ -1,18 +1,10 @@
 var a27282 =
 [
-    [ "npc_doctorAI", "d2/d00/a27282.html#a8efc303041393347eaaf38aff05f7b9c", null ],
-    [ "BeginEvent", "d2/d00/a27282.html#a1439b4eb147700ca493dc5eaa1e2d5a4", null ],
-    [ "JustEngagedWith", "d2/d00/a27282.html#aca786ccf8cf99d7ba49a08046147f121", null ],
-    [ "PatientDied", "d2/d00/a27282.html#ad3e2a36e774d2dbd2a6779d8fb19ea88", null ],
-    [ "PatientSaved", "d2/d00/a27282.html#af8a61f187f6bd57b98d8bf4c8c45e494", null ],
-    [ "Reset", "d2/d00/a27282.html#af2d84b163d41b1b32e191200f54085c2", null ],
-    [ "UpdateAI", "d2/d00/a27282.html#abe156e2303a9c743fa66b4f82808c707", null ],
-    [ "Coordinates", "d2/d00/a27282.html#acda1ada9d7868bfd93ceaaa39f82731b", null ],
-    [ "Event", "d2/d00/a27282.html#ad558d5c0a5fe07904445e893c09be980", null ],
-    [ "PatientDiedCount", "d2/d00/a27282.html#a0774874d9d75feb8d8bf6ce201e719d9", null ],
-    [ "Patients", "d2/d00/a27282.html#a75cd1e01322c09204ffe54cd92ad9543", null ],
-    [ "PatientSavedCount", "d2/d00/a27282.html#abeda2ee514c6ed1544a7e27955fc86b8", null ],
-    [ "PlayerGUID", "d2/d00/a27282.html#a97e2b2bd8a750817f23c51d36c49ae1c", null ],
-    [ "SummonPatientCount", "d2/d00/a27282.html#a320c2e32c5003e880f7567c89db8ca8c", null ],
-    [ "SummonPatientTimer", "d2/d00/a27282.html#adb9cd2ed50dd02f88c4f375a0be8ee89", null ]
+    [ "go_evil_book_for_dummies", "d2/d00/a27282.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "d2/d00/a27282.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "d2/d00/a27282.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "d2/d00/a27282.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "d2/d00/a27282.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "d2/d00/a27282.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "d2/d00/a27282.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

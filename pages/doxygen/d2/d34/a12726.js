@@ -1,7 +1,5 @@
 var a12726 =
 [
-    [ "HandleEffectApply", "d2/d34/a12726.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "d2/d34/a12726.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "d2/d34/a12726.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "d2/d34/a12726.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "boss_warlord_salaris", "d2/d34/a12726.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
+    [ "JustEngagedWith", "d2/d34/a12726.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
 ];

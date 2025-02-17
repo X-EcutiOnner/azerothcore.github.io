@@ -1,12 +1,6 @@
 var a19542 =
 [
-    [ "npc_auriaya_feral_defenderAI", "d5/d8c/a19542.html#a32e6fa30e4c56fdd055a728ba7227beb", null ],
-    [ "DoAction", "d5/d8c/a19542.html#a2b0a176dba865e90bdc22727b2860509", null ],
-    [ "JustDied", "d5/d8c/a19542.html#a7e9c49d8dc47663e70c8fcbed68746e5", null ],
-    [ "Reset", "d5/d8c/a19542.html#ae127a88f18f3348a0bc388d79dcd13d4", null ],
-    [ "UpdateAI", "d5/d8c/a19542.html#a1edc249808e1ebdb88605c56e19c272a", null ],
-    [ "_feralEssenceStack", "d5/d8c/a19542.html#aab51096b8f57528a0a27e23a306d6762", null ],
-    [ "_feralPounceTimer", "d5/d8c/a19542.html#ab91df5ebee9c12d067ff83ee64effece", null ],
-    [ "_feralRushTimer", "d5/d8c/a19542.html#aa45e0baf1ad43cc4b2c223d1b9d1c3c6", null ],
-    [ "summons", "d5/d8c/a19542.html#a599679f93e4fc4b3b9aa00ea33dcb047", null ]
+    [ "go_celestial_planetarium_accessAI", "d4/d52/a19546.html", "d4/d52/a19546" ],
+    [ "go_celestial_planetarium_access", "d5/d8c/a19542.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
+    [ "GetAI", "d5/d8c/a19542.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
 ];

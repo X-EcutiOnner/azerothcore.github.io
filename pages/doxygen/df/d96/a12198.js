@@ -1,6 +1,7 @@
 var a12198 =
 [
-    [ "npc_core_ragerAI", "d2/db3/a12202.html", "d2/db3/a12202" ],
-    [ "npc_core_rager", "df/d96/a12198.html#ada4acfa2a1934d1609a8f9c78da6377d", null ],
-    [ "GetAI", "df/d96/a12198.html#a0ace94ecc1ebfb0e880c50d9b68087db", null ]
+    [ "HandlePeriodic", "df/d96/a12198.html#a72e043202c587e6c12d0b36d679cd071", null ],
+    [ "PrepareAuraScript", "df/d96/a12198.html#a7ca007283e34855ee825ae160653f4a3", null ],
+    [ "Register", "df/d96/a12198.html#aebad39c65167042be8db3c3a1811a235", null ],
+    [ "Validate", "df/d96/a12198.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
 ];

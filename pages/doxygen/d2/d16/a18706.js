@@ -1,6 +1,9 @@
 var a18706 =
 [
-    [ "NotOnSameSide", "d2/d16/a18706.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
-    [ "operator()", "d2/d16/a18706.html#a59ea48b9633049180ec62d3616fe4dea", null ],
-    [ "m_inLiveSide", "d2/d16/a18706.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
+    [ "spell_trigger_spell_from_caster", "d2/d16/a18706.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
+    [ "HandleTrigger", "d2/d16/a18706.html#afc11c9408ea11cb04e476999a9bdf522", null ],
+    [ "PrepareSpellScript", "d2/d16/a18706.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
+    [ "Register", "d2/d16/a18706.html#ae44cc1a87267c1d08603d1aff2384957", null ],
+    [ "Validate", "d2/d16/a18706.html#a3aace9a309bc848b887b03c949c921bd", null ],
+    [ "_triggerId", "d2/d16/a18706.html#a29af52a9035f18936515a464889fefe5", null ]
 ];

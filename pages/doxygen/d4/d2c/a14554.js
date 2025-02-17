@@ -1,16 +1,12 @@
 var a14554 =
 [
-    [ "npc_medivh_bm", "d4/d2c/a14554.html#a23f04c433faf7da663b2edffb2a0440d", null ],
-    [ "AttackStart", "d4/d2c/a14554.html#a8eb87f4d80d83725af017657c599d458", null ],
-    [ "DoAction", "d4/d2c/a14554.html#aa5a54d0b2b069947dd59eee77cbdf21b", null ],
-    [ "JustDied", "d4/d2c/a14554.html#ad6dbbef1b6fbccd9dd224af1a15a6c90", null ],
-    [ "JustSummoned", "d4/d2c/a14554.html#a16d8d3be1dd148e149f4e49570f092a6", null ],
-    [ "MoveInLineOfSight", "d4/d2c/a14554.html#a87f092fccd5b485bdf0bd0449bd57265", null ],
-    [ "Reset", "d4/d2c/a14554.html#a1a33f613b083763c952882cdb82a35c1", null ],
-    [ "SummonOrcs", "d4/d2c/a14554.html#a9206f380773fff5df6dc7c67e37a9ba8", null ],
-    [ "UpdateAI", "d4/d2c/a14554.html#aefc693d7be0c06c5056cae18d4e4eb1e", null ],
-    [ "_airArray", "d4/d2c/a14554.html#a6e766596b69b52690635ee91e6e8d164", null ],
-    [ "_events", "d4/d2c/a14554.html#a1d4fe5bc964d12e812a178c68e2f037f", null ],
-    [ "_groundArray", "d4/d2c/a14554.html#a6fd3a75ddec2a6bda3e5d1bd3e33722c", null ],
-    [ "_instance", "d4/d2c/a14554.html#a45e129d61c3987e4bff94485db739eb1", null ]
+    [ "boss_mal_ganisAI", "d4/d2c/a14554.html#aa8b70930372cd0729686f7c6032d3152", null ],
+    [ "DamageTaken", "d4/d2c/a14554.html#a4873386266ce3b4b849377028ff746a5", null ],
+    [ "JustDied", "d4/d2c/a14554.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
+    [ "JustEngagedWith", "d4/d2c/a14554.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
+    [ "KilledUnit", "d4/d2c/a14554.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
+    [ "Reset", "d4/d2c/a14554.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
+    [ "UpdateAI", "d4/d2c/a14554.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
+    [ "events", "d4/d2c/a14554.html#a194c002efe244b8c94a072faf72be771", null ],
+    [ "finished", "d4/d2c/a14554.html#ac4c90c814aa55781f863c958253e9df2", null ]
 ];

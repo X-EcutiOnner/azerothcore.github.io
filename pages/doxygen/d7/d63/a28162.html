@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ByteBufferException Class Reference</title>
+<title>AzerothCore: SpellRangeEntry Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,154 +105,88 @@ $(document).ready(function(){initNavTree('d7/d63/a28162.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pro-methods">Protected Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d1/d34/a28159.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ByteBufferException Class Reference</div></div>
+  <div class="headertitle"><div class="title">SpellRangeEntry Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ByteBuffer.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for ByteBufferException:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d7/d63/a28162.png" usemap="#ByteBufferException_map" alt=""/>
-  <map id="ByteBufferException_map" name="ByteBufferException_map">
-<area href="../../d0/dbc/a28174.html" alt="ByteBufferInvalidValueException" shape="rect" coords="305,112,600,136"/>
-<area href="../../d7/d24/a28166.html" alt="ByteBufferPositionException" shape="rect" coords="610,112,905,136"/>
-<area href="../../da/d4e/a28170.html" alt="ByteBufferSourceException" shape="rect" coords="915,112,1210,136"/>
-<area href="../../db/d96/a10662.html" alt="WorldPackets::PacketArrayMaxCapacityException" shape="rect" coords="1220,112,1515,136"/>
-<area href="../../dc/d72/a10622.html" alt="WorldPackets::InvalidStringValueException" shape="rect" coords="305,168,600,192"/>
-<area href="../../db/d64/a10634.html" alt="WorldPackets::IllegalHyperlinkException" shape="rect" coords="0,224,295,248"/>
-<area href="../../d8/d1e/a10630.html" alt="WorldPackets::InvalidHyperlinkException" shape="rect" coords="305,224,600,248"/>
-<area href="../../da/da2/a10626.html" alt="WorldPackets::InvalidUtf8ValueException" shape="rect" coords="610,224,905,248"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">DBCStructure.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a0ab73f9061c040127f70dbfc9a176509"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d63/a28162.html#a0ab73f9061c040127f70dbfc9a176509">~ByteBufferException</a> () noexcept override=default</td></tr>
-<tr class="separator:a0ab73f9061c040127f70dbfc9a176509"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a87896f7ab19f3032937f5f84e8cf440a"><td class="memItemLeft" align="right" valign="top">char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d63/a28162.html#a87896f7ab19f3032937f5f84e8cf440a">what</a> () const noexcept override</td></tr>
-<tr class="separator:a87896f7ab19f3032937f5f84e8cf440a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
-Protected Member Functions</h2></td></tr>
-<tr class="memitem:ab1a64d8fc18565a04c347de29184f68c"><td class="memItemLeft" align="right" valign="top">std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d63/a28162.html#ab1a64d8fc18565a04c347de29184f68c">message</a> () noexcept</td></tr>
-<tr class="separator:ab1a64d8fc18565a04c347de29184f68c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a314bdbb7063219f8256df894602e6b02"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d63/a28162.html#a314bdbb7063219f8256df894602e6b02">msg_</a></td></tr>
-<tr class="separator:a314bdbb7063219f8256df894602e6b02"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ab6ccf4a64672a6ade01f59cdeeeb85cb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d63/a28162.html#ab6ccf4a64672a6ade01f59cdeeeb85cb">ID</a></td></tr>
+<tr class="separator:ab6ccf4a64672a6ade01f59cdeeeb85cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a127a46f2382edea750ca567d5ea3d304"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d63/a28162.html#a127a46f2382edea750ca567d5ea3d304">RangeMin</a> [2]</td></tr>
+<tr class="separator:a127a46f2382edea750ca567d5ea3d304"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9691134e5cb1e15e3c93ea05a653975d"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d63/a28162.html#a9691134e5cb1e15e3c93ea05a653975d">RangeMax</a> [2]</td></tr>
+<tr class="separator:a9691134e5cb1e15e3c93ea05a653975d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a12b3cb0e28ed0f47ff5ccea09fc8b860"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d63/a28162.html#a12b3cb0e28ed0f47ff5ccea09fc8b860">Flags</a></td></tr>
+<tr class="separator:a12b3cb0e28ed0f47ff5ccea09fc8b860"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a0ab73f9061c040127f70dbfc9a176509" name="a0ab73f9061c040127f70dbfc9a176509"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ab73f9061c040127f70dbfc9a176509">&#9670;&#160;</a></span>~ByteBufferException()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="a12b3cb0e28ed0f47ff5ccea09fc8b860" name="a12b3cb0e28ed0f47ff5ccea09fc8b860"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a12b3cb0e28ed0f47ff5ccea09fc8b860">&#9670;&#160;</a></span>Flags</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ByteBufferException::~ByteBufferException </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellRangeEntry::Flags</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">default</span><span class="mlabel">noexcept</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l07054">Spell::CheckRange()</a>, <a class="el" href="../../#l00389">SpellTargetSelector::operator()()</a>, and <a class="el" href="../../#l00651">Pet::Update()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="ab1a64d8fc18565a04c347de29184f68c" name="ab1a64d8fc18565a04c347de29184f68c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab1a64d8fc18565a04c347de29184f68c">&#9670;&#160;</a></span>message()</h2>
+<a id="ab6ccf4a64672a6ade01f59cdeeeb85cb" name="ab6ccf4a64672a6ade01f59cdeeeb85cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab6ccf4a64672a6ade01f59cdeeeb85cb">&#9670;&#160;</a></span>ID</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string &amp; ByteBufferException::message </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellRangeEntry::ID</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">noexcept</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   39</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d63/a28162.html#a314bdbb7063219f8256df894602e6b02">msg_</a>; }</div>
-<div class="ttc" id="aa28162_html_a314bdbb7063219f8256df894602e6b02"><div class="ttname"><a href="../../d7/d63/a28162.html#a314bdbb7063219f8256df894602e6b02">ByteBufferException::msg_</a></div><div class="ttdeci">std::string msg_</div><div class="ttdef"><b>Definition:</b> ByteBuffer.h:42</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00052">ByteBufferInvalidValueException::ByteBufferInvalidValueException()</a>, <a class="el" href="../../#l00030">ByteBufferPositionException::ByteBufferPositionException()</a>, and <a class="el" href="../../#l00041">ByteBufferSourceException::ByteBufferSourceException()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l07054">Spell::CheckRange()</a>.</p>
 
 </div>
 </div>
-<a id="a87896f7ab19f3032937f5f84e8cf440a" name="a87896f7ab19f3032937f5f84e8cf440a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a87896f7ab19f3032937f5f84e8cf440a">&#9670;&#160;</a></span>what()</h2>
+<a id="a9691134e5cb1e15e3c93ea05a653975d" name="a9691134e5cb1e15e3c93ea05a653975d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9691134e5cb1e15e3c93ea05a653975d">&#9670;&#160;</a></span>RangeMax</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">char const  * ByteBufferException::what </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="memname">float SpellRangeEntry::RangeMax[2]</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">noexcept</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d63/a28162.html#a314bdbb7063219f8256df894602e6b02">msg_</a>.c_str(); }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00300">WorldSession::Update()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02323">SpellInfo::GetMaxRange()</a>, <a class="el" href="../../#l15210">Unit::GetSpellMaxRangeForTarget()</a>, and <a class="el" href="../../#l00039">SpellMgr::LoadSpellInfoCorrections()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a314bdbb7063219f8256df894602e6b02" name="a314bdbb7063219f8256df894602e6b02"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a314bdbb7063219f8256df894602e6b02">&#9670;&#160;</a></span>msg_</h2>
+<a id="a127a46f2382edea750ca567d5ea3d304" name="a127a46f2382edea750ca567d5ea3d304"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a127a46f2382edea750ca567d5ea3d304">&#9670;&#160;</a></span>RangeMin</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string ByteBufferException::msg_</td>
+          <td class="memname">float SpellRangeEntry::RangeMin[2]</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02314">SpellInfo::GetMinRange()</a>, and <a class="el" href="../../#l15230">Unit::GetSpellMinRangeForTarget()</a>.</p>
 
 </div>
 </div>
@@ -261,8 +195,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/d63/a28162.html">ByteBufferException</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:44:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/d63/a28162.html">SpellRangeEntry</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:43:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

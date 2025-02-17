@@ -1,7 +1,11 @@
 var a15742 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "d2/dd6/a15742.html#aed531e61508d4d404827f47c6348a5e6", null ],
-    [ "JustEngagedWith", "d2/dd6/a15742.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
-    [ "UpdateAI", "d2/dd6/a15742.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
-    [ "_events", "d2/dd6/a15742.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
+    [ "spell_hadronox_summon_periodic_aura", "d2/dd6/a15742.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
+    [ "HandlePeriodic", "d2/dd6/a15742.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "d2/dd6/a15742.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "d2/dd6/a15742.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "d2/dd6/a15742.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "d2/dd6/a15742.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "d2/dd6/a15742.html#a191d7eec948e0753835bd41eef66f1ec", null ],
+    [ "_spellEntry", "d2/dd6/a15742.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

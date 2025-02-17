@@ -1,16 +1,10 @@
 var a11294 =
 [
-    [ "CheckContainer", "d0/d74/a11294.html#a08e083224760d2bca1996da9cd9cb014", null ],
-    [ "CheckResultContainer", "d0/d74/a11294.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
-    [ "WardenCheckMgr", "d0/d74/a11294.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
-    [ "~WardenCheckMgr", "d0/d74/a11294.html#a0d89190f580435337c328da4bf2497b8", null ],
-    [ "GetMaxValidCheckId", "d0/d74/a11294.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
-    [ "GetWardenDataById", "d0/d74/a11294.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
-    [ "GetWardenResultById", "d0/d74/a11294.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
-    [ "instance", "d0/d74/a11294.html#aba9de1e123070338dc0049db8d8f0663", null ],
-    [ "LoadWardenChecks", "d0/d74/a11294.html#ad02847547a06d98c582d09992dce9d11", null ],
-    [ "LoadWardenOverrides", "d0/d74/a11294.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
-    [ "CheckIdPool", "d0/d74/a11294.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
-    [ "CheckResultStore", "d0/d74/a11294.html#a4f0224b8377827aced304b28fdefbda7", null ],
-    [ "CheckStore", "d0/d74/a11294.html#aac59e154d81b838f27c577af87b86bd1", null ]
+    [ "CustomChatTextBuilder", "d0/d74/a11294.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "d0/d74/a11294.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "d0/d74/a11294.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "d0/d74/a11294.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "d0/d74/a11294.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "d0/d74/a11294.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "d0/d74/a11294.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

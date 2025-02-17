@@ -1,25 +1,10 @@
 var a07954 =
 [
-    [ "CreatureGroupMemberType", "d8/de1/a07954.html#a0c8f7d4ceda056e0d39d80d434e4feca", null ],
-    [ "CreatureGroup", "d8/de1/a07954.html#aa5016e1ecda1477992e159bf604e4280", null ],
-    [ "~CreatureGroup", "d8/de1/a07954.html#a16be792f604999ba80b361b59ea77a76", null ],
-    [ "AddMember", "d8/de1/a07954.html#afca7fafddd0f361507469f875bf5d17c", null ],
-    [ "FormationReset", "d8/de1/a07954.html#a1b206e69df855ed13f3b687017474a1a", null ],
-    [ "GetId", "d8/de1/a07954.html#a0d67df48ef040fc8f14b1ddf307aed14", null ],
-    [ "GetLeader", "d8/de1/a07954.html#a160d77342c8e11d97f66def5ff795929", null ],
-    [ "GetMembers", "d8/de1/a07954.html#a889df9f73068078942c5e4cef1669e35", null ],
-    [ "GetNewTargetForMember", "d8/de1/a07954.html#af6204f37e817c59cd556d76a5a19bf77", null ],
-    [ "IsAnyMemberAlive", "d8/de1/a07954.html#adf09b1ad9b9f48f56ea1f2e0e6579689", null ],
-    [ "IsEmpty", "d8/de1/a07954.html#ad88320d89fba23f6cdf5fd0b4de33c18", null ],
-    [ "IsFormationInCombat", "d8/de1/a07954.html#a6e2dc8bde0b1c0db11bb04f31dafe96d", null ],
-    [ "IsFormed", "d8/de1/a07954.html#a60d646229e75ac6bf0be825f43e7368c", null ],
-    [ "LeaderMoveTo", "d8/de1/a07954.html#a360758d7c0e812514cc2ab0f986bbe2f", null ],
-    [ "MemberEngagingTarget", "d8/de1/a07954.html#a9964d390c9276d3e058c20afc6932367", null ],
-    [ "MemberEvaded", "d8/de1/a07954.html#a2547bae861879c20724c1d04db55e88a", null ],
-    [ "RemoveMember", "d8/de1/a07954.html#a8080ff17f223119659870c49db3ae6d9", null ],
-    [ "RespawnFormation", "d8/de1/a07954.html#a4777b1e1b5a4d084ba0648917b372c47", null ],
-    [ "m_Formed", "d8/de1/a07954.html#a2215d3dc155916d657c499fac6d4ce3e", null ],
-    [ "m_groupID", "d8/de1/a07954.html#afd1a31d9316e6cca399bea0e328b8333", null ],
-    [ "m_leader", "d8/de1/a07954.html#ae9689e23f755a12f1be14601bb2f2677", null ],
-    [ "m_members", "d8/de1/a07954.html#a63805a04ef3ef80270ae7e7d03014d83", null ]
+    [ "AssistDelayEvent", "d8/de1/a07954.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
+    [ "AssistDelayEvent", "d8/de1/a07954.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
+    [ "AddAssistant", "d8/de1/a07954.html#a987303ec41927528e9a5abfd9ab75512", null ],
+    [ "Execute", "d8/de1/a07954.html#a5afd295abeb1295e43f48b8951b24c35", null ],
+    [ "m_assistants", "d8/de1/a07954.html#ac6de6befda582bd38f92afda01204e94", null ],
+    [ "m_owner", "d8/de1/a07954.html#aabcce364c8009e8172b9d090059ce48c", null ],
+    [ "m_victim", "d8/de1/a07954.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
 ];

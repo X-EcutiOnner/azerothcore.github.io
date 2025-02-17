@@ -1,16 +1,9 @@
 var a14170 =
 [
-    [ "npc_midsummer_torch_target", "d9/d12/a14170.html#a2abb5371f151c8d3c4f7247c411635a0", null ],
-    [ "CanBeSeen", "d9/d12/a14170.html#afd53ae2c07091553025f5af7c170a046", null ],
-    [ "FillPositions", "d9/d12/a14170.html#ae5717304f44407fb34713990d15279d4", null ],
-    [ "SelectPosition", "d9/d12/a14170.html#a4d35d972cafccf892bfd3adb255e1c5b", null ],
-    [ "SetPlayerGUID", "d9/d12/a14170.html#ab4b115eb02ce96996e06cafd8a1cd867", null ],
-    [ "SpellHit", "d9/d12/a14170.html#a93a6b9ebbda5685a5d2caa1bc9e06941", null ],
-    [ "UpdateAI", "d9/d12/a14170.html#a2c3431cab03347f3f64c95742b2f5a35", null ],
-    [ "counter", "d9/d12/a14170.html#a165c1c1a406256f5651fb01ef6843531", null ],
-    [ "maxCount", "d9/d12/a14170.html#aaf046d64175bcd1382e475843128a139", null ],
-    [ "playerGUID", "d9/d12/a14170.html#ad25b68318dc06ad9c835e81b73d4a766", null ],
-    [ "posVec", "d9/d12/a14170.html#a72a71ea9db5c4f3aeb3edca285f94935", null ],
-    [ "startTimer", "d9/d12/a14170.html#a7bbd7251f3cf0ad46c8584b42b41ea6d", null ],
-    [ "teleTimer", "d9/d12/a14170.html#a22190728dc2b82db70eeb0caa8531647", null ]
+    [ "entries", "d9/d12/a14170.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "d9/d12/a14170.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "d9/d12/a14170.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "d9/d12/a14170.html#ad849701425622001519334f352ea6f3e", null ],
+    [ "size", "d9/d12/a14170.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "d9/d12/a14170.html#aa081965795e3b9473be5b322b0c46505", null ]
 ];

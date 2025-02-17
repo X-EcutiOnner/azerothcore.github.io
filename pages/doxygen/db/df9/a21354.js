@@ -1,7 +1,7 @@
 var a21354 =
 [
-    [ "npc_warmage_violetstand", "db/df9/a21354.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "db/df9/a21354.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "db/df9/a21354.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "db/df9/a21354.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_lurgglbrAI", "d6/d7a/a21358.html", "d6/d7a/a21358" ],
+    [ "npc_lurgglbr", "db/df9/a21354.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "db/df9/a21354.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "db/df9/a21354.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

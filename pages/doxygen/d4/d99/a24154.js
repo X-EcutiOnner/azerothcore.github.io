@@ -1,8 +1,12 @@
 var a24154 =
 [
-    [ "npc_pet_darting_hatchling", "d4/d99/a24154.html#a7ae5973061068396bf382dc21e88cd44", null ],
-    [ "SpellHit", "d4/d99/a24154.html#a29ea5438bab7e606175c02165a607f9b", null ],
-    [ "UpdateAI", "d4/d99/a24154.html#a23196d05aebe5fa4a65455c55368820a", null ],
-    [ "checkTimer", "d4/d99/a24154.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
-    [ "goFast", "d4/d99/a24154.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
+    [ "npc_unkor_the_ruthlessAI", "d4/d99/a24154.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
+    [ "DamageTaken", "d4/d99/a24154.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
+    [ "DoNice", "d4/d99/a24154.html#aa673fc892b9c0d59b2789271140e6054", null ],
+    [ "JustEngagedWith", "d4/d99/a24154.html#a537225016bfeba51b607d250c0a09be5", null ],
+    [ "Reset", "d4/d99/a24154.html#a14ca75417c623d6d6e5fce50521963da", null ],
+    [ "UpdateAI", "d4/d99/a24154.html#a744ea41d7f9450965419085a296c8df2", null ],
+    [ "CanDoQuest", "d4/d99/a24154.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
+    [ "Pulverize_Timer", "d4/d99/a24154.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
+    [ "UnkorUnfriendly_Timer", "d4/d99/a24154.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
 ];

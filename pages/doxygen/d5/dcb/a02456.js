@@ -1,10 +1,8 @@
 var a02456 =
 [
-    [ "ByteBufferException", "d7/d63/a28162.html", "d7/d63/a28162" ],
-    [ "ByteBufferPositionException", "d7/d24/a28166.html", "d7/d24/a28166" ],
-    [ "ByteBufferSourceException", "da/d4e/a28170.html", "da/d4e/a28170" ],
-    [ "ByteBufferInvalidValueException", "d0/dbc/a28174.html", "d0/dbc/a28174" ],
-    [ "ByteBuffer", "d4/df4/a28178.html", "d4/df4/a28178" ],
-    [ "ByteBuffer::read< std::string >", "d5/dcb/a02456.html#a31d035bbbf2d8edc4942e9f676b32878", null ],
-    [ "ByteBuffer::read_skip< std::string >", "d5/dcb/a02456.html#a3550abfaebcca85d45dd39281be0101d", null ]
+    [ "ePoints", "d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4d", [
+      [ "POINT_LAST_POINT", "d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
+      [ "POINT_HOME", "d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
+      [ "POINT_COMBAT_START", "dc/d5c/a02459.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
+    ] ]
 ];

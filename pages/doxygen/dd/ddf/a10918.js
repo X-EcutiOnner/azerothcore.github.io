@@ -1,7 +1,6 @@
 var a10918 =
 [
-    [ "effectMask", "dd/ddf/a10918.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
-    [ "processed", "dd/ddf/a10918.html#aedfa36678be863a558ecd0ecc07cc544", null ],
-    [ "targetGUID", "dd/ddf/a10918.html#a619f98bf094d2667048204f733d64d0c", null ],
-    [ "timeDelay", "dd/ddf/a10918.html#ab552326c0780fe62ff95b02249458492", null ]
+    [ "WorldSessionFilter", "dd/ddf/a10918.html#aba91eb2dfd56201534743b2d458fa111", null ],
+    [ "~WorldSessionFilter", "dd/ddf/a10918.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
+    [ "Process", "dd/ddf/a10918.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
 ];

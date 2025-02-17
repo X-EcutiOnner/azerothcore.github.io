@@ -1,6 +1,5 @@
 var a10270 =
 [
-    [ "BuyBankSlot", "d4/db5/a10270.html#a0bc11087e9359c6ac762f915b11287d8", null ],
-    [ "Read", "d4/db5/a10270.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
-    [ "Banker", "d4/db5/a10270.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
+    [ "MailScript", "d4/db5/a10270.html#a009eaf9dd8d44427e8e5c91a92ebb5c5", null ],
+    [ "OnBeforeMailDraftSendMailTo", "d4/db5/a10270.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
 ];

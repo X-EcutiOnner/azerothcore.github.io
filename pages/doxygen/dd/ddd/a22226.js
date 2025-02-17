@@ -1,5 +1,6 @@
 var a22226 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "dd/ddd/a22226.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
-    [ "GetOutdoorPvP", "dd/ddd/a22226.html#aee93a8191457d7a264053809a5c082e8", null ]
+    [ "PrepareSpellScript", "dd/ddd/a22226.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
+    [ "RecalculateDamage", "dd/ddd/a22226.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
+    [ "Register", "dd/ddd/a22226.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
 ];

@@ -1,5 +1,7 @@
 var a23350 =
 [
-    [ "at_rp_nethekurse", "d5/dd0/a23350.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
-    [ "_OnTrigger", "d5/dd0/a23350.html#a93001d6dda7b2711f1efe100ffab5879", null ]
+    [ "PeriodicTick", "d5/dd0/a23350.html#a53541105e40202e4a73ecc38d84e9eca", null ],
+    [ "PrepareAuraScript", "d5/dd0/a23350.html#a79c8829a86db535e254db009d5286430", null ],
+    [ "Register", "d5/dd0/a23350.html#a58cd762eb10d224bb188aaf167c816b9", null ],
+    [ "Validate", "d5/dd0/a23350.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
 ];

@@ -1,7 +1,8 @@
 var a22454 =
 [
-    [ "npc_blade_of_azzinoth", "da/d58/a22454.html#a55afe56313c237afe8080662b2ed2dba", null ],
-    [ "DoAction", "da/d58/a22454.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
-    [ "IsSummonedBy", "da/d58/a22454.html#af2925da1235b809ee81469fe32ab0f92", null ],
-    [ "JustSummoned", "da/d58/a22454.html#a501e2d1ae9af813fd9c30395e7774983", null ]
+    [ "boss_tavarok", "da/d58/a22454.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
+    [ "JustDied", "da/d58/a22454.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
+    [ "JustEngagedWith", "da/d58/a22454.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
+    [ "KilledUnit", "da/d58/a22454.html#a2c99df9457c548ee562fde920592ea88", null ],
+    [ "Reset", "da/d58/a22454.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
 ];

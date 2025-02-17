@@ -1,6 +1,6 @@
 var a21434 =
 [
-    [ "npc_hourglass_of_eternityAI", "d8/d4b/a21438.html", "d8/d4b/a21438" ],
-    [ "npc_hourglass_of_eternity", "d3/d7b/a21434.html#a40500ff582ead06bd646be86baad7d35", null ],
-    [ "GetAI", "d3/d7b/a21434.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
+    [ "npc_bloodmage_laurithAI", "d8/d4b/a21438.html", "d8/d4b/a21438" ],
+    [ "npc_bloodmage_laurith", "d3/d7b/a21434.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
+    [ "GetAI", "d3/d7b/a21434.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
 ];

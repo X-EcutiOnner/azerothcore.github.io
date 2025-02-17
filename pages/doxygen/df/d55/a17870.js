@@ -1,9 +1,6 @@
 var a17870 =
 [
-    [ "ShadowTrapLKTargetSelector", "df/d55/a17870.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "df/d55/a17870.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "df/d55/a17870.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "df/d55/a17870.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "df/d55/a17870.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "df/d55/a17870.html#af416013aabf3b217b07228072076603d", null ]
+    [ "npc_ice_tombAI", "d1/d15/a17874.html", "d1/d15/a17874" ],
+    [ "npc_ice_tomb", "df/d55/a17870.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "df/d55/a17870.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

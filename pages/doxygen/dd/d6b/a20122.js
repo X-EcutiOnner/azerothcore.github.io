@@ -1,6 +1,5 @@
 var a20122 =
 [
-    [ "npc_ulduar_vx001AI", "d5/df7/a20126.html", "d5/df7/a20126" ],
-    [ "npc_ulduar_vx001", "dd/d6b/a20122.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
-    [ "GetAI", "dd/d6b/a20122.html#acdab817141b851deb09861230323ee58", null ]
+    [ "achievement_i_have_the_coolest_friends", "dd/d6b/a20122.html#a87fd2d5702fe33ee8b09042c66897636", null ],
+    [ "OnCheck", "dd/d6b/a20122.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
 ];

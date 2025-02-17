@@ -1,7 +1,9 @@
 var a24570 =
 [
-    [ "CheckRequirement", "d0/d60/a24570.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "d0/d60/a24570.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "d0/d60/a24570.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "d0/d60/a24570.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "Absorb", "d0/d60/a24570.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
+    [ "CalculateAmount", "d0/d60/a24570.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
+    [ "Load", "d0/d60/a24570.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
+    [ "PrepareAuraScript", "d0/d60/a24570.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
+    [ "Register", "d0/d60/a24570.html#a47bd5ef93255a2d926874d6d70861374", null ],
+    [ "absorbPct", "d0/d60/a24570.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
 ];

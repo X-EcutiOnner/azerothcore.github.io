@@ -1,44 +1,70 @@
 var a02147 =
 [
-    [ "WorldSession::DosProtection", "d6/dd9/a10826.html", "d6/dd9/a10826" ],
-    [ "GLOBAL_CACHE_MASK", "d8/d20/a04686.html#gabaf56bd86a496e0886a553118d6ffb08", null ],
-    [ "NUM_ACCOUNT_DATA_TYPES", "d8/d20/a04686.html#gafb353aeb5e84007c9b55aa50ba6e3ddc", null ],
-    [ "PER_CHARACTER_CACHE_MASK", "d8/d20/a04686.html#ga38a03c6cd9103a9891842f233758fbe7", null ],
-    [ "AccountDataType", "d8/d20/a04686.html#gadab21b8c7fecf26675a55eea7811812d", [
-      [ "GLOBAL_CONFIG_CACHE", "d8/d20/a04686.html#ggadab21b8c7fecf26675a55eea7811812daada79ad8567ef8c1839bb4aa1388f59c", null ],
-      [ "PER_CHARACTER_CONFIG_CACHE", "d8/d20/a04686.html#ggadab21b8c7fecf26675a55eea7811812da3199deafd9678b717f9357659ed271b0", null ],
-      [ "GLOBAL_BINDINGS_CACHE", "d8/d20/a04686.html#ggadab21b8c7fecf26675a55eea7811812da580bf2ae915070c0cb1dfa2a2c470936", null ],
-      [ "PER_CHARACTER_BINDINGS_CACHE", "d8/d20/a04686.html#ggadab21b8c7fecf26675a55eea7811812daaa2164f22e7a6cd3e9211bdd39c1c4e6", null ],
-      [ "GLOBAL_MACROS_CACHE", "d8/d20/a04686.html#ggadab21b8c7fecf26675a55eea7811812da2bffb16258c4258924334e7231928217", null ],
-      [ "PER_CHARACTER_MACROS_CACHE", "d8/d20/a04686.html#ggadab21b8c7fecf26675a55eea7811812da0d53cc3dcb154b042fe7a1b81404752c", null ],
-      [ "PER_CHARACTER_LAYOUT_CACHE", "d8/d20/a04686.html#ggadab21b8c7fecf26675a55eea7811812da8db107b5c382a0630b177b9f521dd87c", null ],
-      [ "PER_CHARACTER_CHAT_CACHE", "d8/d20/a04686.html#ggadab21b8c7fecf26675a55eea7811812da5dbeffe8a7f8c60877f3f41a4e813327", null ]
+    [ "spell_pri_shadowfiend_scaling", "dd/de3/a25994.html", "dd/de3/a25994" ],
+    [ "spell_pri_circle_of_healing", "dd/d46/a25998.html", "dd/d46/a25998" ],
+    [ "spell_pri_divine_aegis", "d3/db3/a26002.html", "d3/db3/a26002" ],
+    [ "spell_pri_divine_hymn", "d2/d90/a26006.html", "d2/d90/a26006" ],
+    [ "spell_pri_glyph_of_prayer_of_healing", "d7/d32/a26010.html", "d7/d32/a26010" ],
+    [ "spell_pri_guardian_spirit", "db/dc9/a26014.html", "db/dc9/a26014" ],
+    [ "spell_pri_hymn_of_hope", "d0/d54/a26018.html", "d0/d54/a26018" ],
+    [ "spell_pri_item_greater_heal_refund", "dc/ddf/a26022.html", "dc/ddf/a26022" ],
+    [ "spell_pri_lightwell", "d6/dfe/a26026.html", "d6/dfe/a26026" ],
+    [ "spell_pri_lightwell_renew", "d5/dc0/a26030.html", "d5/dc0/a26030" ],
+    [ "spell_pri_mana_burn", "da/df6/a26034.html", "da/df6/a26034" ],
+    [ "spell_pri_mana_leech", "d1/dd4/a26038.html", "d1/dd4/a26038" ],
+    [ "spell_pri_mind_sear", "d6/dcf/a26042.html", "d6/dcf/a26042" ],
+    [ "spell_pri_pain_and_suffering_proc", "d8/dc9/a26046.html", "d8/dc9/a26046" ],
+    [ "spell_pri_penance", "db/daf/a26050.html", "db/daf/a26050" ],
+    [ "spell_pri_power_word_shield_aura", "d9/d41/a26054.html", "d9/d41/a26054" ],
+    [ "spell_pri_power_word_shield", "d4/dfc/a26058.html", "d4/dfc/a26058" ],
+    [ "spell_pri_prayer_of_mending_heal", "d1/dfd/a26062.html", "d1/dfd/a26062" ],
+    [ "spell_pri_renew", "dc/dca/a26066.html", "dc/dca/a26066" ],
+    [ "spell_pri_shadow_word_death", "d4/d6d/a26070.html", "d4/d6d/a26070" ],
+    [ "spell_pri_vampiric_touch", "d7/d38/a26074.html", "d7/d38/a26074" ],
+    [ "spell_pri_mind_control", "d0/df4/a26078.html", "d0/df4/a26078" ],
+    [ "spell_pri_t4_4p_bonus", "d9/dc9/a26082.html", "d9/dc9/a26082" ],
+    [ "Mics", "d3/d28/a02147.html#a439ae212e5fed4e154fe58fdb86af08f", [
+      [ "PRIEST_LIGHTWELL_NPC_1", "d3/d28/a02147.html#a439ae212e5fed4e154fe58fdb86af08fa9bfaa0e89cf08c8ab24187cae961c97c", null ],
+      [ "PRIEST_LIGHTWELL_NPC_2", "d3/d28/a02147.html#a439ae212e5fed4e154fe58fdb86af08fa5d0adab14c7d27efd1fbee48054ba5b8", null ],
+      [ "PRIEST_LIGHTWELL_NPC_3", "d3/d28/a02147.html#a439ae212e5fed4e154fe58fdb86af08fa05cec601ad40b4e8cec88b99c08d319b", null ],
+      [ "PRIEST_LIGHTWELL_NPC_4", "d3/d28/a02147.html#a439ae212e5fed4e154fe58fdb86af08fa98c7454ab11639256776039df0d734ed", null ],
+      [ "PRIEST_LIGHTWELL_NPC_5", "d3/d28/a02147.html#a439ae212e5fed4e154fe58fdb86af08fad6392938a0dad3deb3aa4baf51a0f6a4", null ],
+      [ "PRIEST_LIGHTWELL_NPC_6", "d3/d28/a02147.html#a439ae212e5fed4e154fe58fdb86af08fa8b0fe0e610be0d419811728348fd6ecf", null ]
     ] ],
-    [ "BFLeaveReason", "d8/d20/a04686.html#gae00b3f15198199be79029b7f245cba4e", [
-      [ "BF_LEAVE_REASON_CLOSE", "d8/d20/a04686.html#ggae00b3f15198199be79029b7f245cba4eaa804834f71e74d728992a144bc3a4bf7", null ],
-      [ "BF_LEAVE_REASON_EXITED", "d8/d20/a04686.html#ggae00b3f15198199be79029b7f245cba4eac58152c3c20952288b738bbcd94b6e04", null ],
-      [ "BF_LEAVE_REASON_LOW_LEVEL", "d8/d20/a04686.html#ggae00b3f15198199be79029b7f245cba4ea409833e268b63d87c8329740d22f8d6d", null ]
+    [ "PriestSpellIcons", "d3/d28/a02147.html#abe70daab495ab444be54480721d6740d", [
+      [ "PRIEST_ICON_ID_BORROWED_TIME", "d3/d28/a02147.html#abe70daab495ab444be54480721d6740daa3df6a2068f628d09dfdd5106fcde997", null ],
+      [ "PRIEST_ICON_ID_EMPOWERED_RENEW_TALENT", "d3/d28/a02147.html#abe70daab495ab444be54480721d6740dab3f4d7ef8d37b8c64bbc01c12e847376", null ],
+      [ "PRIEST_ICON_ID_PAIN_AND_SUFFERING", "d3/d28/a02147.html#abe70daab495ab444be54480721d6740dad94a6e01fcc1a664d89fdd064aaa29f4", null ]
     ] ],
-    [ "CharterTypes", "d8/d20/a04686.html#gae6a6780680157e01b09a257d84b150c7", [
-      [ "GUILD_CHARTER_TYPE", "d8/d20/a04686.html#ggae6a6780680157e01b09a257d84b150c7abc99a46e1b6360a30376c4500292e27c", null ],
-      [ "ARENA_TEAM_CHARTER_2v2_TYPE", "d8/d20/a04686.html#ggae6a6780680157e01b09a257d84b150c7a917d335b0e9d21fec525d5daed0c1356", null ],
-      [ "ARENA_TEAM_CHARTER_3v3_TYPE", "d8/d20/a04686.html#ggae6a6780680157e01b09a257d84b150c7aed12afbbdd721e734868da792db28482", null ],
-      [ "ARENA_TEAM_CHARTER_5v5_TYPE", "d8/d20/a04686.html#ggae6a6780680157e01b09a257d84b150c7afa2e8ef459ee0af6eea7b2be7ce30841", null ]
+    [ "PriestSpells", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110f", [
+      [ "SPELL_PRIEST_GLYPH_OF_SHADOWFIEND", "da/d20/a01160.html#a8aaecfe4214ff7bd567980dd904b110faabcd07781394f6b318b9bf42c0938014", null ],
+      [ "SPELL_PRIEST_GLYPH_OF_SHADOWFIEND_MANA", "da/d20/a01160.html#a8aaecfe4214ff7bd567980dd904b110fa24b5ecb3171baa6a2e1c79957bcd7fde", null ],
+      [ "SPELL_PRIEST_SHADOWFIEND_DODGE", "da/d20/a01160.html#a8aaecfe4214ff7bd567980dd904b110fadb00d04038b22b42cfdff3f568a5c51a", null ],
+      [ "SPELL_PRIEST_LIGHTWELL_CHARGES", "da/d20/a01160.html#a8aaecfe4214ff7bd567980dd904b110faa3a53a7bde25a970e5c29b0f7f8984b2", null ],
+      [ "SPELL_PRIEST_DIVINE_AEGIS", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa4bd6adc8070fcaa774451c5cac40ded1", null ],
+      [ "SPELL_PRIEST_EMPOWERED_RENEW", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fad78a13deca5dca1beb7e7304ae3e2014", null ],
+      [ "SPELL_PRIEST_GLYPH_OF_CIRCLE_OF_HEALING", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110faa6155b51d0796813e0d96b14449698d5", null ],
+      [ "SPELL_PRIEST_GLYPH_OF_LIGHTWELL", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa08ad85769dce5870b0201048c1537b8d", null ],
+      [ "SPELL_PRIEST_GLYPH_OF_PRAYER_OF_HEALING_HEAL", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fadbaba8ea6d37743ef668662c895fcb4e", null ],
+      [ "SPELL_PRIEST_GUARDIAN_SPIRIT_HEAL", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa2e82dca38567004533ff9b39360424c4", null ],
+      [ "SPELL_PRIEST_ITEM_EFFICIENCY", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fad0b9beecf2b1e0f1fadc6cf162bbd07d", null ],
+      [ "SPELL_PRIEST_LIGHTWELL_CHARGES", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110faa3a53a7bde25a970e5c29b0f7f8984b2", null ],
+      [ "SPELL_PRIEST_MANA_LEECH_PROC", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa4c5f8599ef6dfe01071d94bf15fdb366", null ],
+      [ "SPELL_PRIEST_PENANCE_R1", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa9ffd23299d870bb46db11bc57af21099", null ],
+      [ "SPELL_PRIEST_PENANCE_R1_DAMAGE", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa8768589bceb883d84b4e911a44d5267d", null ],
+      [ "SPELL_PRIEST_PENANCE_R1_HEAL", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110faf42f043dbb422920b04d0521f2103c68", null ],
+      [ "SPELL_PRIEST_REFLECTIVE_SHIELD_TRIGGERED", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa1fbf9f6af5e3402822cc04234cddaba4", null ],
+      [ "SPELL_PRIEST_REFLECTIVE_SHIELD_R1", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa22705e4341a9c87d475363cb0a9f78eb", null ],
+      [ "SPELL_PRIEST_SHADOW_WORD_DEATH", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fad1d6a6bd6506f7e5a302ca1ad7256c4f", null ],
+      [ "SPELL_PRIEST_T9_HEALING_2P", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110faecf270b72f7ced3aab3ce3b2f24b8a87", null ],
+      [ "SPELL_PRIEST_VAMPIRIC_TOUCH_DISPEL", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa0ecf37a43c562bc7eae7041fc137ba03", null ],
+      [ "SPELL_PRIEST_T4_4P_FLEXIBILITY", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110faec0fc5ca32e9a185d596c0a931d65d9c", null ],
+      [ "SPELL_GENERIC_ARENA_DAMPENING", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa60a12ecf7b0c16a82500a97110ff35f0", null ],
+      [ "SPELL_GENERIC_BATTLEGROUND_DAMPENING", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110faf1c99f5067e5ef0ef1fb7f96bd317bf4", null ],
+      [ "SPELL_PRIEST_TWIN_DISCIPLINE_R1", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa58a40bf575a212bf832d151e37267690", null ],
+      [ "SPELL_PRIEST_SPIRITUAL_HEALING_R1", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110faeee484b733ad552750cbbd4bb82f11af", null ],
+      [ "SPELL_PRIEST_DIVINE_PROVIDENCE_R1", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110faead2486496bee0d1c950addeca1be8ae", null ]
     ] ],
-    [ "ChatRestrictionType", "d8/d20/a04686.html#ga54cc6595f95ac4f430e8540afc94f13d", [
-      [ "ERR_CHAT_RESTRICTED", "d8/d20/a04686.html#gga54cc6595f95ac4f430e8540afc94f13da86e568474f13bb72e15b8e92a270b1c9", null ],
-      [ "ERR_CHAT_THROTTLED", "d8/d20/a04686.html#gga54cc6595f95ac4f430e8540afc94f13da34a062f33bdc742a4c6be1f28ef613e7", null ],
-      [ "ERR_USER_SQUELCHED", "d8/d20/a04686.html#gga54cc6595f95ac4f430e8540afc94f13da9bbb4686187f6e5c88606f90f22b18c8", null ],
-      [ "ERR_YELL_RESTRICTED", "d8/d20/a04686.html#gga54cc6595f95ac4f430e8540afc94f13da584e0c0e91185b9f8d415b89e5cbacd7", null ]
-    ] ],
-    [ "DeclinedNameResult", "d8/d20/a04686.html#ga98490641bb011ba9187ee1ed5c94b406", [
-      [ "DECLINED_NAMES_RESULT_SUCCESS", "d8/d20/a04686.html#gga98490641bb011ba9187ee1ed5c94b406add610d06699db29b6f69db8b69d87267", null ],
-      [ "DECLINED_NAMES_RESULT_ERROR", "d8/d20/a04686.html#gga98490641bb011ba9187ee1ed5c94b406ae7ea9b45868387cbcd0f7aff13476683", null ]
-    ] ],
-    [ "PartyOperation", "d8/d20/a04686.html#gaa4a0361b2172789575d5eac42ecb612a", [
-      [ "PARTY_OP_INVITE", "d8/d20/a04686.html#ggaa4a0361b2172789575d5eac42ecb612aa8b30d82ca0b8d909d0445472f4003036", null ],
-      [ "PARTY_OP_UNINVITE", "d8/d20/a04686.html#ggaa4a0361b2172789575d5eac42ecb612aaea450b61d9aa99430d227f2bc20ba66e", null ],
-      [ "PARTY_OP_LEAVE", "d8/d20/a04686.html#ggaa4a0361b2172789575d5eac42ecb612aaf8c14598abfe7de9431f923cce924457", null ],
-      [ "PARTY_OP_SWAP", "d8/d20/a04686.html#ggaa4a0361b2172789575d5eac42ecb612aac2c1d8e8f575d57bed2ae682d80c1a14", null ]
-    ] ]
+    [ "AddSC_priest_spell_scripts", "d3/d28/a02147.html#a0b0a2df1c9b8607784e59887025677c4", null ],
+    [ "CalculateSpellAmount", "d3/d28/a02147.html#a76dafc0c87fe43a1d174f254d1822859", null ]
 ];

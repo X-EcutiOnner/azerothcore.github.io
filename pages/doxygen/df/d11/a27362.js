@@ -1,6 +1,9 @@
 var a27362 =
 [
-    [ "npc_stable_masterAI", "da/d84/a27366.html", "da/d84/a27366" ],
-    [ "npc_stable_master", "df/d11/a27362.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "df/d11/a27362.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "npc_target_dummyAI", "df/d11/a27362.html#a117e45559ea721877d73df4b3c18a259", null ],
+    [ "EnterEvadeMode", "df/d11/a27362.html#a8f7f2e4decc676e378b4929516f8a147", null ],
+    [ "MoveInLineOfSight", "df/d11/a27362.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
+    [ "Reset", "df/d11/a27362.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
+    [ "UpdateAI", "df/d11/a27362.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
+    [ "deathTimer", "df/d11/a27362.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
 ];

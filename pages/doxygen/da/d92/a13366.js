@@ -1,6 +1,6 @@
 var a13366 =
 [
-    [ "npc_ravenclaw_apparitionAI", "d9/d0d/a13370.html", "d9/d0d/a13370" ],
-    [ "npc_ravenclaw_apparition", "da/d92/a13366.html#a961044571250519e62d7d33633974038", null ],
-    [ "GetAI", "da/d92/a13366.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
+    [ "npc_maredis_firestarAI", "da/d92/a13366.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
+    [ "sGossipHello", "da/d92/a13366.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
+    [ "sGossipSelect", "da/d92/a13366.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
 ];

@@ -1,8 +1,6 @@
 var a24050 =
 [
-    [ "go_skull_pile", "d1/d98/a24050.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "d1/d98/a24050.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "d1/d98/a24050.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "d1/d98/a24050.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "d1/d98/a24050.html#af74fcd75404c0886128401d661067394", null ]
+    [ "npc_illidari_spawnAI", "d3/d99/a24054.html", "d3/d99/a24054" ],
+    [ "npc_illidari_spawn", "d1/d98/a24050.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "d1/d98/a24050.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

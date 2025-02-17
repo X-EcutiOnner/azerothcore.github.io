@@ -1,9 +1,6 @@
 var a21846 =
 [
-    [ "npc_frostbrood_skytalonAI", "d1/d47/a21846.html#afc14c60466f9f0f1b20062758f18c00d", null ],
-    [ "IsSummonedBy", "d1/d47/a21846.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
-    [ "MovementInform", "d1/d47/a21846.html#ae763333503176eb7e8ce407868243958", null ],
-    [ "SpellHit", "d1/d47/a21846.html#a24bb49f47dcf85c95039d0495a89e126", null ],
-    [ "UpdateAI", "d1/d47/a21846.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
-    [ "events", "d1/d47/a21846.html#a8575d258d63e28626cffd7fc2160bee6", null ]
+    [ "npc_plaguehound_trackerAI", "d4/d85/a21850.html", "d4/d85/a21850" ],
+    [ "npc_plaguehound_tracker", "d1/d47/a21846.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "d1/d47/a21846.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

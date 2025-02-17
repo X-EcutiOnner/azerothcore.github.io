@@ -1,7 +1,6 @@
 var a16426 =
 [
-    [ "HandleScriptEffect", "d3/d35/a16426.html#a62cef31900cd61167823f3e66aa2d64b", null ],
-    [ "PrepareSpellScript", "d3/d35/a16426.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
-    [ "Register", "d3/d35/a16426.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
-    [ "Validate", "d3/d35/a16426.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
+    [ "boss_eydisAI", "d1/dfb/a16430.html", "d1/dfb/a16430" ],
+    [ "boss_eydis", "d3/d35/a16426.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "d3/d35/a16426.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

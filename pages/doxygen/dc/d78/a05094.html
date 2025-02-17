@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt; Class Template Reference</title>
+<title>AzerothCore: ConfigMgr Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,121 +105,182 @@ $(document).ready(function(){initNavTree('dc/d78/a05094.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d9/de1/a05091.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">ConfigMgr Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">HMAC.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:a4d7f68dcd7fdc00ae2df6451b5d7b2cd"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a4d7f68dcd7fdc00ae2df6451b5d7b2cd">Digest</a> = std::array&lt; <a class="el" href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, <a class="el" href="../../dc/d78/a05094.html#ab2115b35bccc49517eec5d59b0950de4">DIGEST_LENGTH</a> &gt;</td></tr>
-<tr class="separator:a4d7f68dcd7fdc00ae2df6451b5d7b2cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a45adf5614c182e03eea750fd336e926a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a45adf5614c182e03eea750fd336e926a">GenericHMAC</a> (<a class="el" href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> const *seed, std::size_t len)</td></tr>
-<tr class="separator:a45adf5614c182e03eea750fd336e926a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa08e4ea008f4642f01cddb895c7713af"><td class="memTemplParams" colspan="2">template&lt;typename <a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </td></tr>
-<tr class="memitem:aa08e4ea008f4642f01cddb895c7713af"><td class="memTemplItemLeft" align="right" valign="top">&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#aa08e4ea008f4642f01cddb895c7713af">GenericHMAC</a> (<a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> const &amp;container)</td></tr>
-<tr class="separator:aa08e4ea008f4642f01cddb895c7713af"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab443d5ecc1c5ce6c3cafae724e7d2d3e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#ab443d5ecc1c5ce6c3cafae724e7d2d3e">GenericHMAC</a> (<a class="el" href="../../dc/d78/a05094.html">GenericHMAC</a> const &amp;right)</td></tr>
-<tr class="separator:ab443d5ecc1c5ce6c3cafae724e7d2d3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a976861745d69b282bf15b0f3ea215937"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a976861745d69b282bf15b0f3ea215937">GenericHMAC</a> (<a class="el" href="../../dc/d78/a05094.html">GenericHMAC</a> &amp;&amp;right) noexcept</td></tr>
-<tr class="separator:a976861745d69b282bf15b0f3ea215937"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a57f8cfd9da10c9a2c1e97045c0792e72"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a57f8cfd9da10c9a2c1e97045c0792e72">~GenericHMAC</a> ()</td></tr>
-<tr class="separator:a57f8cfd9da10c9a2c1e97045c0792e72"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a51d42e0933431c28579f61714dc1316b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d78/a05094.html">GenericHMAC</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a51d42e0933431c28579f61714dc1316b">operator=</a> (<a class="el" href="../../dc/d78/a05094.html">GenericHMAC</a> const &amp;right)</td></tr>
-<tr class="separator:a51d42e0933431c28579f61714dc1316b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab26cb7c7dfaf765aee2c91c629d528db"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d78/a05094.html">GenericHMAC</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#ab26cb7c7dfaf765aee2c91c629d528db">operator=</a> (<a class="el" href="../../dc/d78/a05094.html">GenericHMAC</a> &amp;&amp;right) noexcept</td></tr>
-<tr class="separator:ab26cb7c7dfaf765aee2c91c629d528db"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8793a29e20d9ad3a8214dfd83d0c60fd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a8793a29e20d9ad3a8214dfd83d0c60fd">UpdateData</a> (<a class="el" href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> const *data, std::size_t len)</td></tr>
-<tr class="separator:a8793a29e20d9ad3a8214dfd83d0c60fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab2132d901023ee70ddcf647438e81e8d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#ab2132d901023ee70ddcf647438e81e8d">UpdateData</a> (std::string_view str)</td></tr>
-<tr class="separator:ab2132d901023ee70ddcf647438e81e8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a70ead2f037579bbc088c560114f902c6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a70ead2f037579bbc088c560114f902c6">UpdateData</a> (std::string const &amp;str)</td></tr>
-<tr class="separator:a70ead2f037579bbc088c560114f902c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c73a9275615d3cfda283ec910af759d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a9c73a9275615d3cfda283ec910af759d">UpdateData</a> (char const *str)</td></tr>
-<tr class="separator:a9c73a9275615d3cfda283ec910af759d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac693bf817c41351bbf4c1c4c625940fd"><td class="memTemplParams" colspan="2">template&lt;typename <a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </td></tr>
-<tr class="memitem:ac693bf817c41351bbf4c1c4c625940fd"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#ac693bf817c41351bbf4c1c4c625940fd">UpdateData</a> (<a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> const &amp;c)</td></tr>
-<tr class="separator:ac693bf817c41351bbf4c1c4c625940fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aedfd7b158be9825a58db629e5253422e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#aedfd7b158be9825a58db629e5253422e">Finalize</a> ()</td></tr>
-<tr class="separator:aedfd7b158be9825a58db629e5253422e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8a261b6c1f1c131674ad93d606abe321"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d78/a05094.html#a4d7f68dcd7fdc00ae2df6451b5d7b2cd">Digest</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a8a261b6c1f1c131674ad93d606abe321">GetDigest</a> () const</td></tr>
-<tr class="separator:a8a261b6c1f1c131674ad93d606abe321"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8b4473b24540d12468cb994b89b78b8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#ae8b4473b24540d12468cb994b89b78b8">LoadAppConfigs</a> (bool isReload=false)</td></tr>
+<tr class="separator:ae8b4473b24540d12468cb994b89b78b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4752375243302e81a5e8fb3f5615e776"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a4752375243302e81a5e8fb3f5615e776">LoadModulesConfigs</a> (bool isReload=false, bool isNeedPrintInfo=true)</td></tr>
+<tr class="separator:a4752375243302e81a5e8fb3f5615e776"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a600438259fbb2939b482792a550bd7a4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a600438259fbb2939b482792a550bd7a4">Configure</a> (std::string const &amp;initFileName, std::vector&lt; std::string &gt; args, std::string_view modulesConfigList={})</td></tr>
+<tr class="separator:a600438259fbb2939b482792a550bd7a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a66363d8377945f4b29061ce9e4ea6dc7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a66363d8377945f4b29061ce9e4ea6dc7">Reload</a> ()</td></tr>
+<tr class="separator:a66363d8377945f4b29061ce9e4ea6dc7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03a1bed0e7b07a3fb3e41ea5fd80d983"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a03a1bed0e7b07a3fb3e41ea5fd80d983">OverrideWithEnvVariablesIfAny</a> ()</td></tr>
+<tr class="memdesc:a03a1bed0e7b07a3fb3e41ea5fd80d983"><td class="mdescLeft">&#160;</td><td class="mdescRight">Overrides configuration with environment variables and returns overridden keys.  <a href="../../dc/d78/a05094.html#a03a1bed0e7b07a3fb3e41ea5fd80d983">More...</a><br /></td></tr>
+<tr class="separator:a03a1bed0e7b07a3fb3e41ea5fd80d983"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad002777983ff9399976fc5d4447536de"><td class="memItemLeft" align="right" valign="top">std::string const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#ad002777983ff9399976fc5d4447536de">GetFilename</a> ()</td></tr>
+<tr class="separator:ad002777983ff9399976fc5d4447536de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a104bef8d83f8c3b643f7538ac7bf5c30"><td class="memItemLeft" align="right" valign="top">std::string const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a104bef8d83f8c3b643f7538ac7bf5c30">GetConfigPath</a> ()</td></tr>
+<tr class="separator:a104bef8d83f8c3b643f7538ac7bf5c30"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a824a06c1dc274c92c33d1f5681994be0"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::string &gt; const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a824a06c1dc274c92c33d1f5681994be0">GetArguments</a> () const</td></tr>
+<tr class="separator:a824a06c1dc274c92c33d1f5681994be0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6172d618b5f96b7f58c8dca984afecb4"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a6172d618b5f96b7f58c8dca984afecb4">GetKeysByString</a> (std::string const &amp;name)</td></tr>
+<tr class="separator:a6172d618b5f96b7f58c8dca984afecb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a711be8eda4077d967a3677bd138998ac"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a711be8eda4077d967a3677bd138998ac"><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a711be8eda4077d967a3677bd138998ac">GetOption</a> (std::string const &amp;name, T const &amp;def, bool showLogs=true) const</td></tr>
+<tr class="separator:a711be8eda4077d967a3677bd138998ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a951307027c22fea8c88c3d0e78232413"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a951307027c22fea8c88c3d0e78232413">isDryRun</a> ()</td></tr>
+<tr class="separator:a951307027c22fea8c88c3d0e78232413"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac2d5c14f32b1d8dfb3e8736f5aef5e7e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#ac2d5c14f32b1d8dfb3e8736f5aef5e7e">setDryRun</a> (bool mode)</td></tr>
+<tr class="separator:ac2d5c14f32b1d8dfb3e8736f5aef5e7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac30a389fa563bf0360ac833a4a029573"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
+<tr class="memitem:ac30a389fa563bf0360ac833a4a029573"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#ac30a389fa563bf0360ac833a4a029573">GetOption</a> (std::string const &amp;name, bool const &amp;def, bool showLogs) const</td></tr>
+<tr class="separator:ac30a389fa563bf0360ac833a4a029573"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a8e703b2867d33ef241032b7b74cc86ce"><td class="memTemplParams" colspan="2">template&lt;typename <a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </td></tr>
-<tr class="memitem:a8e703b2867d33ef241032b7b74cc86ce"><td class="memTemplItemLeft" align="right" valign="top">static <a class="el" href="../../dc/d78/a05094.html#a4d7f68dcd7fdc00ae2df6451b5d7b2cd">Digest</a>&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a8e703b2867d33ef241032b7b74cc86ce">GetDigestOf</a> (<a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> const &amp;seed, <a class="el" href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> const *data, std::size_t len)</td></tr>
-<tr class="separator:a8e703b2867d33ef241032b7b74cc86ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abbbfe21337c9f222da3a21bae43e541a"><td class="memTemplParams" colspan="2">template&lt;typename <a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> , typename... Ts&gt; </td></tr>
-<tr class="memitem:abbbfe21337c9f222da3a21bae43e541a"><td class="memTemplItemLeft" align="right" valign="top">static auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#abbbfe21337c9f222da3a21bae43e541a">GetDigestOf</a> (<a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> const &amp;seed, Ts &amp;&amp;... pack) -&gt; std::enable_if_t&lt;!(std::is_integral_v&lt; std::decay_t&lt; Ts &gt; &gt;||...), <a class="el" href="../../dc/d78/a05094.html#a4d7f68dcd7fdc00ae2df6451b5d7b2cd">Digest</a> &gt;</td></tr>
-<tr class="separator:abbbfe21337c9f222da3a21bae43e541a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a775439020c2e5577206c2559bbb2b042"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../dc/d78/a05094.html">ConfigMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a775439020c2e5577206c2559bbb2b042">instance</a> ()</td></tr>
+<tr class="separator:a775439020c2e5577206c2559bbb2b042"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
-Static Public Attributes</h2></td></tr>
-<tr class="memitem:ab2115b35bccc49517eec5d59b0950de4"><td class="memItemLeft" align="right" valign="top">static constexpr std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#ab2115b35bccc49517eec5d59b0950de4">DIGEST_LENGTH</a> = DigestLength</td></tr>
-<tr class="separator:ab2115b35bccc49517eec5d59b0950de4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:af5206e9fdadc2123af20aba4534d2988"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#af5206e9fdadc2123af20aba4534d2988">ConfigMgr</a> ()=default</td></tr>
+<tr class="separator:af5206e9fdadc2123af20aba4534d2988"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a809bc22f24f6330edac8f95bbdc1be2e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a809bc22f24f6330edac8f95bbdc1be2e">ConfigMgr</a> (<a class="el" href="../../dc/d78/a05094.html">ConfigMgr</a> const &amp;)=delete</td></tr>
+<tr class="separator:a809bc22f24f6330edac8f95bbdc1be2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7257754613b850d43951a0d6e1074b9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d78/a05094.html">ConfigMgr</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#ac7257754613b850d43951a0d6e1074b9">operator=</a> (<a class="el" href="../../dc/d78/a05094.html">ConfigMgr</a> const &amp;)=delete</td></tr>
+<tr class="separator:ac7257754613b850d43951a0d6e1074b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a25f0f8dba4b71b9679ec631339ef5a57"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a25f0f8dba4b71b9679ec631339ef5a57">~ConfigMgr</a> ()=default</td></tr>
+<tr class="separator:a25f0f8dba4b71b9679ec631339ef5a57"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab44a44b2613fc787f60937835bf4878f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#ab44a44b2613fc787f60937835bf4878f">LoadInitial</a> (std::string const &amp;file, bool isReload=false)</td></tr>
+<tr class="memdesc:ab44a44b2613fc787f60937835bf4878f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Method used only for loading main configuration files (authserver.conf and worldserver.conf)  <a href="../../dc/d78/a05094.html#ab44a44b2613fc787f60937835bf4878f">More...</a><br /></td></tr>
+<tr class="separator:ab44a44b2613fc787f60937835bf4878f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a58c320a6a1cf51bbeb51b90f0e4f2a71"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a58c320a6a1cf51bbeb51b90f0e4f2a71">LoadAdditionalFile</a> (std::string file, bool isOptional=false, bool isReload=false)</td></tr>
+<tr class="separator:a58c320a6a1cf51bbeb51b90f0e4f2a71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a122373714bb95f10e6532e30735e55"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a4a122373714bb95f10e6532e30735e55"><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a4a122373714bb95f10e6532e30735e55">GetValueDefault</a> (std::string const &amp;name, T const &amp;def, bool showLogs=true) const</td></tr>
+<tr class="separator:a4a122373714bb95f10e6532e30735e55"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:ae96a0500880d30109c61efd6450453de"><td class="memItemLeft" align="right" valign="top">EVP_MD_CTX *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#ae96a0500880d30109c61efd6450453de">_ctx</a> {}</td></tr>
-<tr class="separator:ae96a0500880d30109c61efd6450453de"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a86c8c6b7d776042053e7ba5ae95b7be5"><td class="memItemLeft" align="right" valign="top">EVP_PKEY *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a86c8c6b7d776042053e7ba5ae95b7be5">_key</a> {}</td></tr>
-<tr class="separator:a86c8c6b7d776042053e7ba5ae95b7be5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c8bb5aa9eb4e206b77b6556022391d9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d78/a05094.html#a4d7f68dcd7fdc00ae2df6451b5d7b2cd">Digest</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a9c8bb5aa9eb4e206b77b6556022391d9">_digest</a> {}</td></tr>
-<tr class="separator:a9c8bb5aa9eb4e206b77b6556022391d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a555709e27a884d16ef6dd91cc21b806b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#a555709e27a884d16ef6dd91cc21b806b">dryRun</a> = false</td></tr>
+<tr class="separator:a555709e27a884d16ef6dd91cc21b806b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5a8c891e53c6d76cf63d0a40fd799e1"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d78/a05094.html#aa5a8c891e53c6d76cf63d0a40fd799e1">_moduleConfigFiles</a></td></tr>
+<tr class="separator:aa5a8c891e53c6d76cf63d0a40fd799e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt;<br />
-class Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a4d7f68dcd7fdc00ae2df6451b5d7b2cd" name="a4d7f68dcd7fdc00ae2df6451b5d7b2cd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4d7f68dcd7fdc00ae2df6451b5d7b2cd">&#9670;&#160;</a></span>Digest</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="af5206e9fdadc2123af20aba4534d2988" name="af5206e9fdadc2123af20aba4534d2988"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af5206e9fdadc2123af20aba4534d2988">&#9670;&#160;</a></span>ConfigMgr() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::Digest =  std::array&lt;<a class="el" href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, <a class="el" href="../../dc/d78/a05094.html#ab2115b35bccc49517eec5d59b0950de4">DIGEST_LENGTH</a>&gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a45adf5614c182e03eea750fd336e926a" name="a45adf5614c182e03eea750fd336e926a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a45adf5614c182e03eea750fd336e926a">&#9670;&#160;</a></span>GenericHMAC() <span class="overload">[1/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::GenericHMAC </td>
+          <td class="memname">ConfigMgr::ConfigMgr </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> const *&#160;</td>
-          <td class="paramname"><em>seed</em>, </td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a809bc22f24f6330edac8f95bbdc1be2e" name="a809bc22f24f6330edac8f95bbdc1be2e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a809bc22f24f6330edac8f95bbdc1be2e">&#9670;&#160;</a></span>ConfigMgr() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">ConfigMgr::ConfigMgr </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/d78/a05094.html">ConfigMgr</a> const &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a25f0f8dba4b71b9679ec631339ef5a57" name="a25f0f8dba4b71b9679ec631339ef5a57"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a25f0f8dba4b71b9679ec631339ef5a57">&#9670;&#160;</a></span>~ConfigMgr()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">ConfigMgr::~ConfigMgr </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a600438259fbb2939b482792a550bd7a4" name="a600438259fbb2939b482792a550bd7a4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a600438259fbb2939b482792a550bd7a4">&#9670;&#160;</a></span>Configure()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ConfigMgr::Configure </td>
+          <td>(</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>initFileName</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::size_t&#160;</td>
-          <td class="paramname"><em>len</em>&#160;</td>
+          <td class="paramtype">std::vector&lt; std::string &gt;&#160;</td>
+          <td class="paramname"><em>args</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>modulesConfigList</em> = <code>{}</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -227,573 +288,432 @@ template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b85799
           <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   57</span>                                                          : <a class="code hl_variable" href="../../dc/d78/a05094.html#ae96a0500880d30109c61efd6450453de">_ctx</a>(<a class="code hl_function" href="../../d2/d69/a05086.html#a59487cdc54d416f8b2a88eb54ae21c8d">GenericHashImpl::MakeCTX</a>()), <a class="code hl_variable" href="../../dc/d78/a05094.html#a86c8c6b7d776042053e7ba5ae95b7be5">_key</a>(EVP_PKEY_new_mac_key(EVP_PKEY_HMAC, <span class="keyword">nullptr</span>, seed, len))</div>
-<div class="line"><span class="lineno">   58</span>            {</div>
-<div class="line"><span class="lineno">   59</span>                <span class="keywordtype">int</span> result = EVP_DigestSignInit(<a class="code hl_variable" href="../../dc/d78/a05094.html#ae96a0500880d30109c61efd6450453de">_ctx</a>, <span class="keyword">nullptr</span>, HashCreator(), <span class="keyword">nullptr</span>, <a class="code hl_variable" href="../../dc/d78/a05094.html#a86c8c6b7d776042053e7ba5ae95b7be5">_key</a>);</div>
-<div class="line"><span class="lineno">   60</span>                <a class="code hl_define" href="../../d5/d42/a00269.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(result == 1);</div>
-<div class="line"><span class="lineno">   61</span>            }</div>
-<div class="ttc" id="aa00269_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d5/d42/a00269.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa05086_html_a59487cdc54d416f8b2a88eb54ae21c8d"><div class="ttname"><a href="../../d2/d69/a05086.html#a59487cdc54d416f8b2a88eb54ae21c8d">Acore::Impl::GenericHashImpl::MakeCTX</a></div><div class="ttdeci">static EVP_MD_CTX * MakeCTX() noexcept</div><div class="ttdef"><b>Definition:</b> CryptoHash.h:37</div></div>
-<div class="ttc" id="aa05094_html_a86c8c6b7d776042053e7ba5ae95b7be5"><div class="ttname"><a href="../../dc/d78/a05094.html#a86c8c6b7d776042053e7ba5ae95b7be5">Acore::Impl::GenericHMAC::_key</a></div><div class="ttdeci">EVP_PKEY * _key</div><div class="ttdef"><b>Definition:</b> HMAC.h:132</div></div>
-<div class="ttc" id="aa05094_html_ae96a0500880d30109c61efd6450453de"><div class="ttname"><a href="../../dc/d78/a05094.html#ae96a0500880d30109c61efd6450453de">Acore::Impl::GenericHMAC::_ctx</a></div><div class="ttdeci">EVP_MD_CTX * _ctx</div><div class="ttdef"><b>Definition:</b> HMAC.h:131</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  550</span>{</div>
+<div class="line"><span class="lineno">  551</span>    <a class="code hl_variable" href="../../dc/d64/a04750.html#a8bfa20db83fbdc4e649e394ea8d05d0d">_filename</a> = initFileName;</div>
+<div class="line"><span class="lineno">  552</span>    <a class="code hl_variable" href="../../dc/d64/a04750.html#aa324820f5ede7eec5a4d8eefc77298f4">_args</a> = std::move(args);</div>
+<div class="line"><span class="lineno">  553</span> </div>
+<div class="line"><span class="lineno">  554</span>    <span class="comment">// Add modules config if exist</span></div>
+<div class="line"><span class="lineno">  555</span>    <span class="keywordflow">if</span> (!modulesConfigList.empty())</div>
+<div class="line"><span class="lineno">  556</span>    {</div>
+<div class="line"><span class="lineno">  557</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_function" href="../../d9/dda/a04740.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a>(modulesConfigList, <span class="charliteral">&#39;,&#39;</span>, <span class="keyword">false</span>))</div>
+<div class="line"><span class="lineno">  558</span>        {</div>
+<div class="line"><span class="lineno">  559</span>            <a class="code hl_variable" href="../../dc/d64/a04750.html#ac4608b63b3297653b81c9c4196c12141">_additonalFiles</a>.emplace_back(itr);</div>
+<div class="line"><span class="lineno">  560</span>        }</div>
+<div class="line"><span class="lineno">  561</span>    }</div>
+<div class="line"><span class="lineno">  562</span>}</div>
+<div class="ttc" id="aa04740_html_a6b121485ace4118b9006db1fb89f90f2"><div class="ttname"><a href="../../d9/dda/a04740.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a></div><div class="ttdeci">std::vector&lt; std::string_view &gt; Tokenize(std::string_view str, char sep, bool keepEmpty)</div><div class="ttdef"><b>Definition:</b> Tokenize.cpp:20</div></div>
+<div class="ttc" id="aa04750_html_a8bfa20db83fbdc4e649e394ea8d05d0d"><div class="ttname"><a href="../../dc/d64/a04750.html#a8bfa20db83fbdc4e649e394ea8d05d0d">anonymous_namespace{Config.cpp}::_filename</a></div><div class="ttdeci">std::string _filename</div><div class="ttdef"><b>Definition:</b> Config.cpp:31</div></div>
+<div class="ttc" id="aa04750_html_aa324820f5ede7eec5a4d8eefc77298f4"><div class="ttname"><a href="../../dc/d64/a04750.html#aa324820f5ede7eec5a4d8eefc77298f4">anonymous_namespace{Config.cpp}::_args</a></div><div class="ttdeci">std::vector&lt; std::string &gt; _args</div><div class="ttdef"><b>Definition:</b> Config.cpp:33</div></div>
+<div class="ttc" id="aa04750_html_ac4608b63b3297653b81c9c4196c12141"><div class="ttname"><a href="../../dc/d64/a04750.html#ac4608b63b3297653b81c9c4196c12141">anonymous_namespace{Config.cpp}::_additonalFiles</a></div><div class="ttdeci">std::vector&lt; std::string &gt; _additonalFiles</div><div class="ttdef"><b>Definition:</b> Config.cpp:32</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::_ctx</a>, <a class="el" href="../../#l00132">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::_key</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
 
 </div>
 </div>
-<a id="aa08e4ea008f4642f01cddb895c7713af" name="aa08e4ea008f4642f01cddb895c7713af"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa08e4ea008f4642f01cddb895c7713af">&#9670;&#160;</a></span>GenericHMAC() <span class="overload">[2/4]</span></h2>
+<a id="a824a06c1dc274c92c33d1f5681994be0" name="a824a06c1dc274c92c33d1f5681994be0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a824a06c1dc274c92c33d1f5681994be0">&#9670;&#160;</a></span>GetArguments()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<div class="memtemplate">
-template&lt;typename <a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::GenericHMAC </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> const &amp;&#160;</td>
-          <td class="paramname"><em>container</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   64</span>: <a class="code hl_function" href="../../dc/d78/a05094.html#a45adf5614c182e03eea750fd336e926a">GenericHMAC</a>(std::data(container), std::size(container)) {}</div>
-<div class="ttc" id="aa05094_html_a45adf5614c182e03eea750fd336e926a"><div class="ttname"><a href="../../dc/d78/a05094.html#a45adf5614c182e03eea750fd336e926a">Acore::Impl::GenericHMAC::GenericHMAC</a></div><div class="ttdeci">GenericHMAC(uint8 const *seed, std::size_t len)</div><div class="ttdef"><b>Definition:</b> HMAC.h:57</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ab443d5ecc1c5ce6c3cafae724e7d2d3e" name="ab443d5ecc1c5ce6c3cafae724e7d2d3e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab443d5ecc1c5ce6c3cafae724e7d2d3e">&#9670;&#160;</a></span>GenericHMAC() <span class="overload">[3/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::GenericHMAC </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d78/a05094.html">GenericHMAC</a>&lt; HashCreator, DigestLength &gt; const &amp;&#160;</td>
-          <td class="paramname"><em>right</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   66</span>                                                  : <a class="code hl_variable" href="../../dc/d78/a05094.html#ae96a0500880d30109c61efd6450453de">_ctx</a>(<a class="code hl_function" href="../../d2/d69/a05086.html#a59487cdc54d416f8b2a88eb54ae21c8d">GenericHashImpl::MakeCTX</a>())</div>
-<div class="line"><span class="lineno">   67</span>            {</div>
-<div class="line"><span class="lineno">   68</span>                *<span class="keyword">this</span> = right;</div>
-<div class="line"><span class="lineno">   69</span>            }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a976861745d69b282bf15b0f3ea215937" name="a976861745d69b282bf15b0f3ea215937"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a976861745d69b282bf15b0f3ea215937">&#9670;&#160;</a></span>GenericHMAC() <span class="overload">[4/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::GenericHMAC </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d78/a05094.html">GenericHMAC</a>&lt; HashCreator, DigestLength &gt; &amp;&amp;&#160;</td>
-          <td class="paramname"><em>right</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">noexcept</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   72</span>            {</div>
-<div class="line"><span class="lineno">   73</span>                *<span class="keyword">this</span> = std::move(right);</div>
-<div class="line"><span class="lineno">   74</span>            }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a57f8cfd9da10c9a2c1e97045c0792e72" name="a57f8cfd9da10c9a2c1e97045c0792e72"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a57f8cfd9da10c9a2c1e97045c0792e72">&#9670;&#160;</a></span>~GenericHMAC()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::~<a class="el" href="../../dc/d78/a05094.html">GenericHMAC</a> </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   77</span>            {</div>
-<div class="line"><span class="lineno">   78</span>                <a class="code hl_function" href="../../d2/d69/a05086.html#a7e607b03e0758d10156e201e8d601db4">GenericHashImpl::DestroyCTX</a>(<a class="code hl_variable" href="../../dc/d78/a05094.html#ae96a0500880d30109c61efd6450453de">_ctx</a>);</div>
-<div class="line"><span class="lineno">   79</span>                <a class="code hl_variable" href="../../dc/d78/a05094.html#ae96a0500880d30109c61efd6450453de">_ctx</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   80</span>                EVP_PKEY_free(<a class="code hl_variable" href="../../dc/d78/a05094.html#a86c8c6b7d776042053e7ba5ae95b7be5">_key</a>);</div>
-<div class="line"><span class="lineno">   81</span>                <a class="code hl_variable" href="../../dc/d78/a05094.html#a86c8c6b7d776042053e7ba5ae95b7be5">_key</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   82</span>            }</div>
-<div class="ttc" id="aa05086_html_a7e607b03e0758d10156e201e8d601db4"><div class="ttname"><a href="../../d2/d69/a05086.html#a7e607b03e0758d10156e201e8d601db4">Acore::Impl::GenericHashImpl::DestroyCTX</a></div><div class="ttdeci">static void DestroyCTX(EVP_MD_CTX *ctx)</div><div class="ttdef"><b>Definition:</b> CryptoHash.h:38</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::_ctx</a>, <a class="el" href="../../#l00132">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::_key</a>, and <a class="el" href="../../#l00038">Acore::Impl::GenericHashImpl::DestroyCTX()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="aedfd7b158be9825a58db629e5253422e" name="aedfd7b158be9825a58db629e5253422e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aedfd7b158be9825a58db629e5253422e">&#9670;&#160;</a></span>Finalize()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::Finalize </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  122</span>            {</div>
-<div class="line"><span class="lineno">  123</span>                std::size_t length = <a class="code hl_variable" href="../../dc/d78/a05094.html#ab2115b35bccc49517eec5d59b0950de4">DIGEST_LENGTH</a>;</div>
-<div class="line"><span class="lineno">  124</span>                <span class="keywordtype">int</span> result = EVP_DigestSignFinal(<a class="code hl_variable" href="../../dc/d78/a05094.html#ae96a0500880d30109c61efd6450453de">_ctx</a>, <a class="code hl_variable" href="../../dc/d78/a05094.html#a9c8bb5aa9eb4e206b77b6556022391d9">_digest</a>.data(), &amp;length);</div>
-<div class="line"><span class="lineno">  125</span>                <a class="code hl_define" href="../../d5/d42/a00269.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(result == 1);</div>
-<div class="line"><span class="lineno">  126</span>                <a class="code hl_define" href="../../d5/d42/a00269.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(length == <a class="code hl_variable" href="../../dc/d78/a05094.html#ab2115b35bccc49517eec5d59b0950de4">DIGEST_LENGTH</a>);</div>
-<div class="line"><span class="lineno">  127</span>            }</div>
-<div class="ttc" id="aa05094_html_a9c8bb5aa9eb4e206b77b6556022391d9"><div class="ttname"><a href="../../dc/d78/a05094.html#a9c8bb5aa9eb4e206b77b6556022391d9">Acore::Impl::GenericHMAC::_digest</a></div><div class="ttdeci">Digest _digest</div><div class="ttdef"><b>Definition:</b> HMAC.h:133</div></div>
-<div class="ttc" id="aa05094_html_ab2115b35bccc49517eec5d59b0950de4"><div class="ttname"><a href="../../dc/d78/a05094.html#ab2115b35bccc49517eec5d59b0950de4">Acore::Impl::GenericHMAC::DIGEST_LENGTH</a></div><div class="ttdeci">static constexpr std::size_t DIGEST_LENGTH</div><div class="ttdef"><b>Definition:</b> HMAC.h:36</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::_ctx</a>, <a class="el" href="../../#l00133">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::_digest</a>, <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00036">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::DIGEST_LENGTH</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00040">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::GetDigestOf()</a>.</p>
-
-</div>
-</div>
-<a id="a8a261b6c1f1c131674ad93d606abe321" name="a8a261b6c1f1c131674ad93d606abe321"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8a261b6c1f1c131674ad93d606abe321">&#9670;&#160;</a></span>GetDigest()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/d78/a05094.html#a4d7f68dcd7fdc00ae2df6451b5d7b2cd">Digest</a> const  &amp; <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::GetDigest </td>
+          <td class="memname">std::vector&lt; std::string &gt; const  &amp; ConfigMgr::GetArguments </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  129</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d78/a05094.html#a9c8bb5aa9eb4e206b77b6556022391d9">_digest</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  534</span>{</div>
+<div class="line"><span class="lineno">  535</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d64/a04750.html#aa324820f5ede7eec5a4d8eefc77298f4">_args</a>;</div>
+<div class="line"><span class="lineno">  536</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00133">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::_digest</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00040">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::GetDigestOf()</a>.</p>
-
 </div>
 </div>
-<a id="abbbfe21337c9f222da3a21bae43e541a" name="abbbfe21337c9f222da3a21bae43e541a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abbbfe21337c9f222da3a21bae43e541a">&#9670;&#160;</a></span>GetDigestOf() <span class="overload">[1/2]</span></h2>
+<a id="a104bef8d83f8c3b643f7538ac7bf5c30" name="a104bef8d83f8c3b643f7538ac7bf5c30"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a104bef8d83f8c3b643f7538ac7bf5c30">&#9670;&#160;</a></span>GetConfigPath()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<div class="memtemplate">
-template&lt;typename <a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> , typename... Ts&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static auto <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::GetDigestOf </td>
+          <td class="memname">std::string const ConfigMgr::GetConfigPath </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> const &amp;&#160;</td>
-          <td class="paramname"><em>seed</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Ts &amp;&amp;...&#160;</td>
-          <td class="paramname"><em>pack</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> -&gt; std::enable_if_t&lt;!(std::is_integral_v&lt;std::decay_t&lt;Ts&gt;&gt; || ...), <a class="el" href="../../dc/d78/a05094.html#a4d7f68dcd7fdc00ae2df6451b5d7b2cd">Digest</a>&gt;
-            </td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   50</span>            {</div>
-<div class="line"><span class="lineno">   51</span>                <a class="code hl_function" href="../../dc/d78/a05094.html#a45adf5614c182e03eea750fd336e926a">GenericHMAC</a> hash(seed);</div>
-<div class="line"><span class="lineno">   52</span>                (hash.UpdateData(std::forward&lt;Ts&gt;(pack)), ...);</div>
-<div class="line"><span class="lineno">   53</span>                hash.Finalize();</div>
-<div class="line"><span class="lineno">   54</span>                <span class="keywordflow">return</span> hash.GetDigest();</div>
-<div class="line"><span class="lineno">   55</span>            }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00121">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::Finalize()</a>, <a class="el" href="../../#l00129">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::GetDigest()</a>, and <a class="el" href="../../#l00108">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::UpdateData()</a>.</p>
-
-</div>
-</div>
-<a id="a8e703b2867d33ef241032b7b74cc86ce" name="a8e703b2867d33ef241032b7b74cc86ce"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8e703b2867d33ef241032b7b74cc86ce">&#9670;&#160;</a></span>GetDigestOf() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<div class="memtemplate">
-template&lt;typename <a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static <a class="el" href="../../dc/d78/a05094.html#a4d7f68dcd7fdc00ae2df6451b5d7b2cd">Digest</a> <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::GetDigestOf </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> const &amp;&#160;</td>
-          <td class="paramname"><em>seed</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> const *&#160;</td>
-          <td class="paramname"><em>data</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::size_t&#160;</td>
-          <td class="paramname"><em>len</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   41</span>            {</div>
-<div class="line"><span class="lineno">   42</span>                <a class="code hl_function" href="../../dc/d78/a05094.html#a45adf5614c182e03eea750fd336e926a">GenericHMAC</a> hash(seed);</div>
-<div class="line"><span class="lineno">   43</span>                hash.UpdateData(data, len);</div>
-<div class="line"><span class="lineno">   44</span>                hash.Finalize();</div>
-<div class="line"><span class="lineno">   45</span>                <span class="keywordflow">return</span> hash.GetDigest();</div>
-<div class="line"><span class="lineno">   46</span>            }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00121">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::Finalize()</a>, <a class="el" href="../../#l00129">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::GetDigest()</a>, and <a class="el" href="../../#l00108">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::UpdateData()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00022">AuthCrypt::Init()</a>, and <a class="el" href="../../#l00276">WardenWin::RequestChecks()</a>.</p>
-
-</div>
-</div>
-<a id="ab26cb7c7dfaf765aee2c91c629d528db" name="ab26cb7c7dfaf765aee2c91c629d528db"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab26cb7c7dfaf765aee2c91c629d528db">&#9670;&#160;</a></span>operator=() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/d78/a05094.html">GenericHMAC</a> &amp; <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::operator= </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d78/a05094.html">GenericHMAC</a>&lt; HashCreator, DigestLength &gt; &amp;&amp;&#160;</td>
-          <td class="paramname"><em>right</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">noexcept</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>            {</div>
-<div class="line"><span class="lineno">   99</span>                <span class="keywordflow">if</span> (<span class="keyword">this</span> == &amp;right)</div>
-<div class="line"><span class="lineno">  100</span>                    <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  101</span> </div>
-<div class="line"><span class="lineno">  102</span>                <a class="code hl_variable" href="../../dc/d78/a05094.html#ae96a0500880d30109c61efd6450453de">_ctx</a> = std::exchange(right._ctx, <a class="code hl_function" href="../../d2/d69/a05086.html#a59487cdc54d416f8b2a88eb54ae21c8d">GenericHashImpl::MakeCTX</a>());</div>
-<div class="line"><span class="lineno">  103</span>                <a class="code hl_variable" href="../../dc/d78/a05094.html#a86c8c6b7d776042053e7ba5ae95b7be5">_key</a> = std::exchange(right._key, EVP_PKEY_new());</div>
-<div class="line"><span class="lineno">  104</span>                <a class="code hl_variable" href="../../dc/d78/a05094.html#a9c8bb5aa9eb4e206b77b6556022391d9">_digest</a> = std::exchange(right._digest, <a class="code hl_typedef" href="../../dc/d78/a05094.html#a4d7f68dcd7fdc00ae2df6451b5d7b2cd">Digest</a>{});</div>
-<div class="line"><span class="lineno">  105</span>                <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  106</span>            }</div>
-<div class="ttc" id="aa05094_html_a4d7f68dcd7fdc00ae2df6451b5d7b2cd"><div class="ttname"><a href="../../dc/d78/a05094.html#a4d7f68dcd7fdc00ae2df6451b5d7b2cd">Acore::Impl::GenericHMAC::Digest</a></div><div class="ttdeci">std::array&lt; uint8, DIGEST_LENGTH &gt; Digest</div><div class="ttdef"><b>Definition:</b> HMAC.h:37</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  539</span>{</div>
+<div class="line"><span class="lineno">  540</span>    std::lock_guard&lt;std::mutex&gt; lock(_configLock);</div>
+<div class="line"><span class="lineno">  541</span> </div>
+<div class="line"><span class="lineno">  542</span><span class="preprocessor">#if AC_PLATFORM == AC_PLATFORM_WINDOWS</span></div>
+<div class="line"><span class="lineno">  543</span>    <span class="keywordflow">return</span> <span class="stringliteral">&quot;configs/&quot;</span>;</div>
+<div class="line"><span class="lineno">  544</span><span class="preprocessor">#else</span></div>
+<div class="line"><span class="lineno">  545</span>    <span class="keywordflow">return</span> std::string(_CONF_DIR) + <span class="stringliteral">&quot;/&quot;</span>;</div>
+<div class="line"><span class="lineno">  546</span><span class="preprocessor">#endif</span></div>
+<div class="line"><span class="lineno">  547</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::_ctx</a>, <a class="el" href="../../#l00133">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::_digest</a>, <a class="el" href="../../#l00132">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::_key</a>, and <a class="el" href="../../#l00037">Acore::Impl::GenericHashImpl::MakeCTX()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00575">LoadModulesConfigs()</a>.</p>
 
 </div>
 </div>
-<a id="a51d42e0933431c28579f61714dc1316b" name="a51d42e0933431c28579f61714dc1316b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a51d42e0933431c28579f61714dc1316b">&#9670;&#160;</a></span>operator=() <span class="overload">[2/2]</span></h2>
+<a id="ad002777983ff9399976fc5d4447536de" name="ad002777983ff9399976fc5d4447536de"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad002777983ff9399976fc5d4447536de">&#9670;&#160;</a></span>GetFilename()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d78/a05094.html">GenericHMAC</a> &amp; <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::operator= </td>
+          <td class="memname">std::string const ConfigMgr::GetFilename </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d78/a05094.html">GenericHMAC</a>&lt; HashCreator, DigestLength &gt; const &amp;&#160;</td>
-          <td class="paramname"><em>right</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   85</span>            {</div>
-<div class="line"><span class="lineno">   86</span>                <span class="keywordflow">if</span> (<span class="keyword">this</span> == &amp;right)</div>
-<div class="line"><span class="lineno">   87</span>                    <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">   88</span> </div>
-<div class="line"><span class="lineno">   89</span>                <span class="keywordtype">int</span> result = EVP_MD_CTX_copy_ex(<a class="code hl_variable" href="../../dc/d78/a05094.html#ae96a0500880d30109c61efd6450453de">_ctx</a>, right._ctx);</div>
-<div class="line"><span class="lineno">   90</span>                <a class="code hl_define" href="../../d5/d42/a00269.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(result == 1);</div>
-<div class="line"><span class="lineno">   91</span>                <a class="code hl_variable" href="../../dc/d78/a05094.html#a86c8c6b7d776042053e7ba5ae95b7be5">_key</a> = right._key;      <span class="comment">// EVP_PKEY uses reference counting internally, just copy the pointer</span></div>
-<div class="line"><span class="lineno">   92</span>                EVP_PKEY_up_ref(<a class="code hl_variable" href="../../dc/d78/a05094.html#a86c8c6b7d776042053e7ba5ae95b7be5">_key</a>);  <span class="comment">// Bump reference count for PKEY, as every instance of this class holds two references to PKEY and destructor decrements it twice</span></div>
-<div class="line"><span class="lineno">   93</span>                <a class="code hl_variable" href="../../dc/d78/a05094.html#a9c8bb5aa9eb4e206b77b6556022391d9">_digest</a> = right._digest;</div>
-<div class="line"><span class="lineno">   94</span>                <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">   95</span>            }</div>
+<div class="fragment"><div class="line"><span class="lineno">  528</span>{</div>
+<div class="line"><span class="lineno">  529</span>    std::lock_guard&lt;std::mutex&gt; lock(_configLock);</div>
+<div class="line"><span class="lineno">  530</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d64/a04750.html#a8bfa20db83fbdc4e649e394ea8d05d0d">_filename</a>;</div>
+<div class="line"><span class="lineno">  531</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::_ctx</a>, <a class="el" href="../../#l00133">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::_digest</a>, <a class="el" href="../../#l00132">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::_key</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
-
 </div>
 </div>
-<a id="a9c73a9275615d3cfda283ec910af759d" name="a9c73a9275615d3cfda283ec910af759d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c73a9275615d3cfda283ec910af759d">&#9670;&#160;</a></span>UpdateData() <span class="overload">[1/5]</span></h2>
+<a id="a6172d618b5f96b7f58c8dca984afecb4" name="a6172d618b5f96b7f58c8dca984afecb4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6172d618b5f96b7f58c8dca984afecb4">&#9670;&#160;</a></span>GetKeysByString()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;<a class="el" href="../../d2/d63/a08326.html">::UpdateData</a> </td>
-          <td>(</td>
-          <td class="paramtype">char const *&#160;</td>
-          <td class="paramname"><em>str</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  116</span>{ <a class="code hl_class" href="../../d2/d63/a08326.html">UpdateData</a>(std::string_view(str)); } <span class="comment">/* explicit overload to avoid using the container template */</span></div>
-<div class="ttc" id="aa08326_html"><div class="ttname"><a href="../../d2/d63/a08326.html">UpdateData</a></div><div class="ttdef"><b>Definition:</b> UpdateData.h:52</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00116">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::UpdateData()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00116">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::UpdateData()</a>.</p>
-
-</div>
-</div>
-<a id="ac693bf817c41351bbf4c1c4c625940fd" name="ac693bf817c41351bbf4c1c4c625940fd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac693bf817c41351bbf4c1c4c625940fd">&#9670;&#160;</a></span>UpdateData() <span class="overload">[2/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<div class="memtemplate">
-template&lt;typename <a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;<a class="el" href="../../d2/d63/a08326.html">::UpdateData</a> </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d85/a01352.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> const &amp;&#160;</td>
-          <td class="paramname"><em>c</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  119</span>{ <a class="code hl_class" href="../../d2/d63/a08326.html">UpdateData</a>(std::data(c), std::size(c)); }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00119">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::UpdateData()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00119">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::UpdateData()</a>.</p>
-
-</div>
-</div>
-<a id="a70ead2f037579bbc088c560114f902c6" name="a70ead2f037579bbc088c560114f902c6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a70ead2f037579bbc088c560114f902c6">&#9670;&#160;</a></span>UpdateData() <span class="overload">[3/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;<a class="el" href="../../d2/d63/a08326.html">::UpdateData</a> </td>
+          <td class="memname">std::vector&lt; std::string &gt; ConfigMgr::GetKeysByString </td>
           <td>(</td>
           <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>str</em></td><td>)</td>
+          <td class="paramname"><em>name</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  115</span>{ <a class="code hl_class" href="../../d2/d63/a08326.html">UpdateData</a>(std::string_view(str)); } <span class="comment">/* explicit overload to avoid using the container template */</span></div>
+<div class="fragment"><div class="line"><span class="lineno">  511</span>{</div>
+<div class="line"><span class="lineno">  512</span>    std::lock_guard&lt;std::mutex&gt; lock(_configLock);</div>
+<div class="line"><span class="lineno">  513</span> </div>
+<div class="line"><span class="lineno">  514</span>    std::vector&lt;std::string&gt; keys;</div>
+<div class="line"><span class="lineno">  515</span> </div>
+<div class="line"><span class="lineno">  516</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [optionName, key] : _configOptions)</div>
+<div class="line"><span class="lineno">  517</span>    {</div>
+<div class="line"><span class="lineno">  518</span>        <span class="keywordflow">if</span> (!optionName.compare(0, name.length(), name))</div>
+<div class="line"><span class="lineno">  519</span>        {</div>
+<div class="line"><span class="lineno">  520</span>            keys.emplace_back(optionName);</div>
+<div class="line"><span class="lineno">  521</span>        }</div>
+<div class="line"><span class="lineno">  522</span>    }</div>
+<div class="line"><span class="lineno">  523</span> </div>
+<div class="line"><span class="lineno">  524</span>    <span class="keywordflow">return</span> keys;</div>
+<div class="line"><span class="lineno">  525</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00115">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::UpdateData()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00115">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::UpdateData()</a>.</p>
-
 </div>
 </div>
-<a id="ab2132d901023ee70ddcf647438e81e8d" name="ab2132d901023ee70ddcf647438e81e8d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab2132d901023ee70ddcf647438e81e8d">&#9670;&#160;</a></span>UpdateData() <span class="overload">[4/5]</span></h2>
+<a id="ac30a389fa563bf0360ac833a4a029573" name="ac30a389fa563bf0360ac833a4a029573"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac30a389fa563bf0360ac833a4a029573">&#9670;&#160;</a></span>GetOption() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
+template&lt;&gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;<a class="el" href="../../d2/d63/a08326.html">::UpdateData</a> </td>
+          <td class="memname">bool ConfigMgr::GetOption </td>
           <td>(</td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>str</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  114</span>{ <a class="code hl_class" href="../../d2/d63/a08326.html">UpdateData</a>(<span class="keyword">reinterpret_cast&lt;</span><a class="code hl_typedef" href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> const*<span class="keyword">&gt;</span>(str.data()), str.size()); }</div>
-<div class="ttc" id="aa00155_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00114">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::UpdateData()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00114">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::UpdateData()</a>.</p>
-
-</div>
-</div>
-<a id="a8793a29e20d9ad3a8214dfd83d0c60fd" name="a8793a29e20d9ad3a8214dfd83d0c60fd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8793a29e20d9ad3a8214dfd83d0c60fd">&#9670;&#160;</a></span>UpdateData() <span class="overload">[5/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;<a class="el" href="../../d2/d63/a08326.html">::UpdateData</a> </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> const *&#160;</td>
-          <td class="paramname"><em>data</em>, </td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>name</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::size_t&#160;</td>
-          <td class="paramname"><em>len</em>&#160;</td>
+          <td class="paramtype">bool const &amp;&#160;</td>
+          <td class="paramname"><em>def</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>showLogs</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  492</span>{</div>
+<div class="line"><span class="lineno">  493</span>    std::string val = <a class="code hl_function" href="../../dc/d78/a05094.html#a4a122373714bb95f10e6532e30735e55">GetValueDefault</a>(name, std::string(def ? <span class="stringliteral">&quot;1&quot;</span> : <span class="stringliteral">&quot;0&quot;</span>), showLogs);</div>
+<div class="line"><span class="lineno">  494</span> </div>
+<div class="line"><span class="lineno">  495</span>    <span class="keyword">auto</span> boolVal = Acore::StringTo&lt;bool&gt;(val);</div>
+<div class="line"><span class="lineno">  496</span>    <span class="keywordflow">if</span> (!boolVal)</div>
+<div class="line"><span class="lineno">  497</span>    {</div>
+<div class="line"><span class="lineno">  498</span>        <span class="keywordflow">if</span> (showLogs)</div>
+<div class="line"><span class="lineno">  499</span>        {</div>
+<div class="line"><span class="lineno">  500</span>            <a class="code hl_define" href="../../d9/d88/a04175.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt; Config: Bad value defined for name &#39;{}&#39;, going to use &#39;{}&#39; instead&quot;</span>,</div>
+<div class="line"><span class="lineno">  501</span>                name, def ? <span class="stringliteral">&quot;true&quot;</span> : <span class="stringliteral">&quot;false&quot;</span>);</div>
+<div class="line"><span class="lineno">  502</span>        }</div>
+<div class="line"><span class="lineno">  503</span> </div>
+<div class="line"><span class="lineno">  504</span>        <span class="keywordflow">return</span> def;</div>
+<div class="line"><span class="lineno">  505</span>    }</div>
+<div class="line"><span class="lineno">  506</span> </div>
+<div class="line"><span class="lineno">  507</span>    <span class="keywordflow">return</span> *boolVal;</div>
+<div class="line"><span class="lineno">  508</span>}</div>
+<div class="ttc" id="aa04175_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d88/a04175.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
+<div class="ttc" id="aa05094_html_a4a122373714bb95f10e6532e30735e55"><div class="ttname"><a href="../../dc/d78/a05094.html#a4a122373714bb95f10e6532e30735e55">ConfigMgr::GetValueDefault</a></div><div class="ttdeci">T GetValueDefault(std::string const &amp;name, T const &amp;def, bool showLogs=true) const</div><div class="ttdef"><b>Definition:</b> Config.cpp:380</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00380">GetValueDefault()</a>, and <a class="el" href="../../#l00157">LOG_ERROR</a>.</p>
+
+</div>
+</div>
+<a id="a711be8eda4077d967a3677bd138998ac" name="a711be8eda4077d967a3677bd138998ac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a711be8eda4077d967a3677bd138998ac">&#9670;&#160;</a></span>GetOption() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">T ConfigMgr::GetOption </td>
+          <td>(</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>name</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">T const &amp;&#160;</td>
+          <td class="paramname"><em>def</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>showLogs</em> = <code>true</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  486</span>{</div>
+<div class="line"><span class="lineno">  487</span>    <span class="keywordflow">return</span> GetValueDefault&lt;T&gt;(name, def, showLogs);</div>
+<div class="line"><span class="lineno">  488</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a4a122373714bb95f10e6532e30735e55" name="a4a122373714bb95f10e6532e30735e55"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a122373714bb95f10e6532e30735e55">&#9670;&#160;</a></span>GetValueDefault()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">T ConfigMgr::GetValueDefault </td>
+          <td>(</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>name</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">T const &amp;&#160;</td>
+          <td class="paramname"><em>def</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>showLogs</em> = <code>true</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  381</span>{</div>
+<div class="line"><span class="lineno">  382</span>    std::string strValue;</div>
+<div class="line"><span class="lineno">  383</span> </div>
+<div class="line"><span class="lineno">  384</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr = <a class="code hl_variable" href="../../dc/d64/a04750.html#a4c4d5bd9313e617a40ed0f27d79dbae9">_configOptions</a>.find(name);</div>
+<div class="line"><span class="lineno">  385</span>    <span class="keywordtype">bool</span> fatalConfig = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  386</span>    <span class="keywordtype">bool</span> notFound = itr == <a class="code hl_variable" href="../../dc/d64/a04750.html#a4c4d5bd9313e617a40ed0f27d79dbae9">_configOptions</a>.end();</div>
+<div class="line"><span class="lineno">  387</span>    <span class="keyword">auto</span> envVarName = <a class="code hl_function" href="../../dc/d64/a04750.html#a037f48efd9ff4f980901dc23f9062cfe">GetEnvVarName</a>(name);</div>
+<div class="line"><span class="lineno">  388</span>    <a class="code hl_typedef" href="../../d4/d86/a04421.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;std::string&gt;</a> envVar = <a class="code hl_function" href="../../da/d0e/a29408.html#aa22b6bcf6d5dd7e02cab1b0aea10bbee">GetEnvFromCache</a>(name, envVarName);</div>
+<div class="line"><span class="lineno">  389</span>    <span class="keywordflow">if</span> (envVar)</div>
+<div class="line"><span class="lineno">  390</span>    {</div>
+<div class="line"><span class="lineno">  391</span>        <span class="comment">// If showLogs and this key/value pair wasn&#39;t found in the currently saved config</span></div>
+<div class="line"><span class="lineno">  392</span>        <span class="keywordflow">if</span> (showLogs &amp;&amp; (notFound || itr-&gt;second != envVar-&gt;c_str()))</div>
+<div class="line"><span class="lineno">  393</span>        {</div>
+<div class="line"><span class="lineno">  394</span>            <a class="code hl_define" href="../../d9/d88/a04175.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt; Config: Found config value &#39;{}&#39; from environment variable &#39;{}&#39;.&quot;</span>, name, envVarName );</div>
+<div class="line"><span class="lineno">  395</span>            <a class="code hl_function" href="../../dc/d64/a04750.html#ab573c6a7facb635d7c4787e5b6f346fa">AddKey</a>(name, envVar-&gt;c_str(), <span class="stringliteral">&quot;ENVIRONMENT&quot;</span>, <span class="keyword">false</span>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  396</span>        }</div>
+<div class="line"><span class="lineno">  397</span> </div>
+<div class="line"><span class="lineno">  398</span>        strValue = *envVar;</div>
+<div class="line"><span class="lineno">  399</span>    }</div>
+<div class="line"><span class="lineno">  400</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (notFound)</div>
+<div class="line"><span class="lineno">  401</span>    {</div>
+<div class="line"><span class="lineno">  402</span>        <span class="keywordflow">if</span> (showLogs)</div>
+<div class="line"><span class="lineno">  403</span>        {</div>
+<div class="line"><span class="lineno">  404</span>            <span class="keywordflow">for</span> (std::string s : _fatalConfigOptions)</div>
+<div class="line"><span class="lineno">  405</span>                <span class="keywordflow">if</span> (s == name)</div>
+<div class="line"><span class="lineno">  406</span>                {</div>
+<div class="line"><span class="lineno">  407</span>                    fatalConfig = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  408</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  409</span>                }</div>
+<div class="line"><span class="lineno">  410</span> </div>
+<div class="line"><span class="lineno">  411</span>            <span class="keywordflow">if</span> (fatalConfig)</div>
+<div class="line"><span class="lineno">  412</span>                <a class="code hl_define" href="../../d9/d88/a04175.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt; Config:\n\nFATAL ERROR: Missing property {} in config file {}, add \&quot;{} = {}\&quot; to this file or define &#39;{}&#39; as an environment variable\n\nYour server cannot start without this option!&quot;</span>,</div>
+<div class="line"><span class="lineno">  413</span>                    name, _filename, name, <a class="code hl_function" href="../../d9/dda/a04740.html#ac2cb308fb001c35fbaa90489ea6cf478">Acore::ToString</a>(def), envVarName);</div>
+<div class="line"><span class="lineno">  414</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  415</span>                <a class="code hl_define" href="../../d9/d88/a04175.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt; Config: Missing property {} in config file {}, add \&quot;{} = {}\&quot; to this file or define &#39;{}&#39; as an environment variable.&quot;</span>,</div>
+<div class="line"><span class="lineno">  416</span>                    name, _filename, name, <a class="code hl_function" href="../../d9/dda/a04740.html#ac2cb308fb001c35fbaa90489ea6cf478">Acore::ToString</a>(def), envVarName);</div>
+<div class="line"><span class="lineno">  417</span>        }</div>
+<div class="line"><span class="lineno">  418</span>        <span class="keywordflow">return</span> def;</div>
+<div class="line"><span class="lineno">  419</span>    }</div>
+<div class="line"><span class="lineno">  420</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  421</span>    {</div>
+<div class="line"><span class="lineno">  422</span>        strValue = itr-&gt;second;</div>
+<div class="line"><span class="lineno">  423</span>    }</div>
+<div class="line"><span class="lineno">  424</span> </div>
+<div class="line"><span class="lineno">  425</span>    <span class="keyword">auto</span> value = Acore::StringTo&lt;T&gt;(strValue);</div>
+<div class="line"><span class="lineno">  426</span>    <span class="keywordflow">if</span> (!value)</div>
+<div class="line"><span class="lineno">  427</span>    {</div>
+<div class="line"><span class="lineno">  428</span>        <span class="keywordflow">if</span> (showLogs)</div>
+<div class="line"><span class="lineno">  429</span>        {</div>
+<div class="line"><span class="lineno">  430</span>            <a class="code hl_define" href="../../d9/d88/a04175.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt; Config: Bad value defined for name &#39;{}&#39;, going to use &#39;{}&#39; instead&quot;</span>,</div>
+<div class="line"><span class="lineno">  431</span>                name, <a class="code hl_function" href="../../d9/dda/a04740.html#ac2cb308fb001c35fbaa90489ea6cf478">Acore::ToString</a>(def));</div>
+<div class="line"><span class="lineno">  432</span>        }</div>
+<div class="line"><span class="lineno">  433</span> </div>
+<div class="line"><span class="lineno">  434</span>        <span class="keywordflow">return</span> def;</div>
+<div class="line"><span class="lineno">  435</span>    }</div>
+<div class="line"><span class="lineno">  436</span> </div>
+<div class="line"><span class="lineno">  437</span>    <span class="keywordflow">return</span> *value;</div>
+<div class="line"><span class="lineno">  438</span>}</div>
+<div class="ttc" id="aa04175_html_a0e09b50c268dc6897a1c70aa46de936e"><div class="ttname"><a href="../../d9/d88/a04175.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a></div><div class="ttdeci">#define LOG_FATAL(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:153</div></div>
+<div class="ttc" id="aa04175_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d9/d88/a04175.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:165</div></div>
+<div class="ttc" id="aa04175_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d9/d88/a04175.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:161</div></div>
+<div class="ttc" id="aa04421_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../d4/d86/a04421.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition:</b> Optional.h:24</div></div>
+<div class="ttc" id="aa04740_html_ac2cb308fb001c35fbaa90489ea6cf478"><div class="ttname"><a href="../../d9/dda/a04740.html#ac2cb308fb001c35fbaa90489ea6cf478">Acore::ToString</a></div><div class="ttdeci">std::string ToString(Type &amp;&amp;val, Params &amp;&amp;... params)</div><div class="ttdef"><b>Definition:</b> StringConvert.h:250</div></div>
+<div class="ttc" id="aa04750_html_a037f48efd9ff4f980901dc23f9062cfe"><div class="ttname"><a href="../../dc/d64/a04750.html#a037f48efd9ff4f980901dc23f9062cfe">anonymous_namespace{Config.cpp}::GetEnvVarName</a></div><div class="ttdeci">std::string GetEnvVarName(std::string const &amp;configName)</div><div class="ttdef"><b>Definition:</b> Config.cpp:281</div></div>
+<div class="ttc" id="aa04750_html_a4c4d5bd9313e617a40ed0f27d79dbae9"><div class="ttname"><a href="../../dc/d64/a04750.html#a4c4d5bd9313e617a40ed0f27d79dbae9">anonymous_namespace{Config.cpp}::_configOptions</a></div><div class="ttdeci">std::unordered_map&lt; std::string, std::string &gt; _configOptions</div><div class="ttdef"><b>Definition:</b> Config.cpp:34</div></div>
+<div class="ttc" id="aa04750_html_ab573c6a7facb635d7c4787e5b6f346fa"><div class="ttname"><a href="../../dc/d64/a04750.html#ab573c6a7facb635d7c4787e5b6f346fa">anonymous_namespace{Config.cpp}::AddKey</a></div><div class="ttdeci">void AddKey(std::string const &amp;optionName, std::string const &amp;optionKey, std::string_view fileName, bool isOptional, bool isReload)</div><div class="ttdef"><b>Definition:</b> Config.cpp:80</div></div>
+<div class="ttc" id="aa29408_html_aa22b6bcf6d5dd7e02cab1b0aea10bbee"><div class="ttname"><a href="../../da/d0e/a29408.html#aa22b6bcf6d5dd7e02cab1b0aea10bbee">GetEnvFromCache</a></div><div class="ttdeci">Optional&lt; std::string &gt; GetEnvFromCache(std::string const &amp;configName, std::string const &amp;envVarName)</div><div class="ttdef"><b>Definition:</b> Config.cpp:335</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00335">GetEnvFromCache()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_FATAL</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00161">LOG_WARN</a>, and <a class="el" href="../../#l00250">Acore::ToString()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00491">GetOption()</a>.</p>
+
+</div>
+</div>
+<a id="a775439020c2e5577206c2559bbb2b042" name="a775439020c2e5577206c2559bbb2b042"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a775439020c2e5577206c2559bbb2b042">&#9670;&#160;</a></span>instance()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dc/d78/a05094.html">ConfigMgr</a> * ConfigMgr::instance </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  311</span>{</div>
+<div class="line"><span class="lineno">  312</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../dc/d78/a05094.html">ConfigMgr</a> <a class="code hl_function" href="../../dc/d78/a05094.html#a775439020c2e5577206c2559bbb2b042">instance</a>;</div>
+<div class="line"><span class="lineno">  313</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../dc/d78/a05094.html#a775439020c2e5577206c2559bbb2b042">instance</a>;</div>
+<div class="line"><span class="lineno">  314</span>}</div>
+<div class="ttc" id="aa05094_html"><div class="ttname"><a href="../../dc/d78/a05094.html">ConfigMgr</a></div><div class="ttdef"><b>Definition:</b> Config.h:26</div></div>
+<div class="ttc" id="aa05094_html_a775439020c2e5577206c2559bbb2b042"><div class="ttname"><a href="../../dc/d78/a05094.html#a775439020c2e5577206c2559bbb2b042">ConfigMgr::instance</a></div><div class="ttdeci">static ConfigMgr * instance()</div><div class="ttdef"><b>Definition:</b> Config.cpp:310</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00310">instance()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00310">instance()</a>.</p>
+
+</div>
+</div>
+<a id="a951307027c22fea8c88c3d0e78232413" name="a951307027c22fea8c88c3d0e78232413"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a951307027c22fea8c88c3d0e78232413">&#9670;&#160;</a></span>isDryRun()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ConfigMgr::isDryRun </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   52</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d78/a05094.html#a555709e27a884d16ef6dd91cc21b806b">dryRun</a>; }</div>
+<div class="ttc" id="aa05094_html_a555709e27a884d16ef6dd91cc21b806b"><div class="ttname"><a href="../../dc/d78/a05094.html#a555709e27a884d16ef6dd91cc21b806b">ConfigMgr::dryRun</a></div><div class="ttdeci">bool dryRun</div><div class="ttdef"><b>Definition:</b> Config.h:63</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00063">dryRun</a>.</p>
+
+</div>
+</div>
+<a id="a58c320a6a1cf51bbeb51b90f0e4f2a71" name="a58c320a6a1cf51bbeb51b90f0e4f2a71"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a58c320a6a1cf51bbeb51b90f0e4f2a71">&#9670;&#160;</a></span>LoadAdditionalFile()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ConfigMgr::LoadAdditionalFile </td>
+          <td>(</td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>file</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>isOptional</em> = <code>false</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>isReload</em> = <code>false</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -803,35 +723,355 @@ template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b85799
       </table>
   </td>
   <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  305</span>{</div>
+<div class="line"><span class="lineno">  306</span>    std::lock_guard&lt;std::mutex&gt; lock(_configLock);</div>
+<div class="line"><span class="lineno">  307</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/d64/a04750.html#a04d7cd62693d073b89d11aab4ba3342d">LoadFile</a>(file, isOptional, isReload);</div>
+<div class="line"><span class="lineno">  308</span>}</div>
+<div class="ttc" id="aa04750_html_a04d7cd62693d073b89d11aab4ba3342d"><div class="ttname"><a href="../../dc/d64/a04750.html#a04d7cd62693d073b89d11aab4ba3342d">anonymous_namespace{Config.cpp}::LoadFile</a></div><div class="ttdeci">bool LoadFile(std::string const &amp;file, bool isOptional, bool isReload)</div><div class="ttdef"><b>Definition:</b> Config.cpp:202</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00575">LoadModulesConfigs()</a>.</p>
+
+</div>
+</div>
+<a id="ae8b4473b24540d12468cb994b89b78b8" name="ae8b4473b24540d12468cb994b89b78b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae8b4473b24540d12468cb994b89b78b8">&#9670;&#160;</a></span>LoadAppConfigs()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ConfigMgr::LoadAppConfigs </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>isReload</em> = <code>false</code></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  565</span>{</div>
+<div class="line"><span class="lineno">  566</span>    <span class="comment">// #1 - Load init config file .conf</span></div>
+<div class="line"><span class="lineno">  567</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dc/d78/a05094.html#ab44a44b2613fc787f60937835bf4878f">LoadInitial</a>(_filename, isReload))</div>
+<div class="line"><span class="lineno">  568</span>    {</div>
+<div class="line"><span class="lineno">  569</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  570</span>    }</div>
+<div class="line"><span class="lineno">  571</span> </div>
+<div class="line"><span class="lineno">  572</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  573</span>}</div>
+<div class="ttc" id="aa05094_html_ab44a44b2613fc787f60937835bf4878f"><div class="ttname"><a href="../../dc/d78/a05094.html#ab44a44b2613fc787f60937835bf4878f">ConfigMgr::LoadInitial</a></div><div class="ttdeci">bool LoadInitial(std::string const &amp;file, bool isReload=false)</div><div class="ttdoc">Method used only for loading main configuration files (authserver.conf and worldserver....</div><div class="ttdef"><b>Definition:</b> Config.cpp:297</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00297">LoadInitial()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00316">Reload()</a>.</p>
+
+</div>
+</div>
+<a id="ab44a44b2613fc787f60937835bf4878f" name="ab44a44b2613fc787f60937835bf4878f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab44a44b2613fc787f60937835bf4878f">&#9670;&#160;</a></span>LoadInitial()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ConfigMgr::LoadInitial </td>
+          <td>(</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>file</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>isReload</em> = <code>false</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Method used only for loading main configuration files (authserver.conf and worldserver.conf) </p>
+<div class="fragment"><div class="line"><span class="lineno">  298</span>{</div>
+<div class="line"><span class="lineno">  299</span>    std::lock_guard&lt;std::mutex&gt; lock(_configLock);</div>
+<div class="line"><span class="lineno">  300</span>    <a class="code hl_variable" href="../../dc/d64/a04750.html#a4c4d5bd9313e617a40ed0f27d79dbae9">_configOptions</a>.clear();</div>
+<div class="line"><span class="lineno">  301</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/d64/a04750.html#a04d7cd62693d073b89d11aab4ba3342d">LoadFile</a>(file, <span class="keyword">false</span>, isReload);</div>
+<div class="line"><span class="lineno">  302</span>}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00564">LoadAppConfigs()</a>.</p>
+
+</div>
+</div>
+<a id="a4752375243302e81a5e8fb3f5615e776" name="a4752375243302e81a5e8fb3f5615e776"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4752375243302e81a5e8fb3f5615e776">&#9670;&#160;</a></span>LoadModulesConfigs()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ConfigMgr::LoadModulesConfigs </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>isReload</em> = <code>false</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>isNeedPrintInfo</em> = <code>true</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  576</span>{</div>
+<div class="line"><span class="lineno">  577</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d64/a04750.html#ac4608b63b3297653b81c9c4196c12141">_additonalFiles</a>.empty())</div>
+<div class="line"><span class="lineno">  578</span>    {</div>
+<div class="line"><span class="lineno">  579</span>        <span class="comment">// Send successful load if no found files</span></div>
+<div class="line"><span class="lineno">  580</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  581</span>    }</div>
+<div class="line"><span class="lineno">  582</span> </div>
+<div class="line"><span class="lineno">  583</span>    <span class="keywordflow">if</span> (isNeedPrintInfo)</div>
+<div class="line"><span class="lineno">  584</span>    {</div>
+<div class="line"><span class="lineno">  585</span>        <a class="code hl_define" href="../../d9/d88/a04175.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  586</span>        <a class="code hl_define" href="../../d9/d88/a04175.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Loading Modules Configuration...&quot;</span>);</div>
+<div class="line"><span class="lineno">  587</span>    }</div>
+<div class="line"><span class="lineno">  588</span> </div>
+<div class="line"><span class="lineno">  589</span>    <span class="comment">// Start loading module configs</span></div>
+<div class="line"><span class="lineno">  590</span>    std::string <span class="keyword">const</span>&amp; moduleConfigPath = <a class="code hl_function" href="../../dc/d78/a05094.html#a104bef8d83f8c3b643f7538ac7bf5c30">GetConfigPath</a>() + <span class="stringliteral">&quot;modules/&quot;</span>;</div>
+<div class="line"><span class="lineno">  591</span>    <span class="keywordtype">bool</span> isExistDefaultConfig = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  592</span>    <span class="keywordtype">bool</span> isExistDistConfig = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  593</span> </div>
+<div class="line"><span class="lineno">  594</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; distFileName : _additonalFiles)</div>
+<div class="line"><span class="lineno">  595</span>    {</div>
+<div class="line"><span class="lineno">  596</span>        std::string defaultFileName = distFileName;</div>
+<div class="line"><span class="lineno">  597</span> </div>
+<div class="line"><span class="lineno">  598</span>        <span class="keywordflow">if</span> (!defaultFileName.empty())</div>
+<div class="line"><span class="lineno">  599</span>        {</div>
+<div class="line"><span class="lineno">  600</span>            defaultFileName.erase(defaultFileName.end() - 5, defaultFileName.end());</div>
+<div class="line"><span class="lineno">  601</span>        }</div>
+<div class="line"><span class="lineno">  602</span> </div>
+<div class="line"><span class="lineno">  603</span>        <span class="comment">// Load .conf.dist config</span></div>
+<div class="line"><span class="lineno">  604</span>        isExistDistConfig = <a class="code hl_function" href="../../dc/d78/a05094.html#a58c320a6a1cf51bbeb51b90f0e4f2a71">LoadAdditionalFile</a>(moduleConfigPath + distFileName, <span class="keyword">false</span>, isReload);</div>
+<div class="line"><span class="lineno">  605</span> </div>
+<div class="line"><span class="lineno">  606</span>        <span class="keywordflow">if</span> (!isReload &amp;&amp; !isExistDistConfig)</div>
+<div class="line"><span class="lineno">  607</span>        {</div>
+<div class="line"><span class="lineno">  608</span>            <a class="code hl_define" href="../../d9/d88/a04175.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt; ConfigMgr::LoadModulesConfigs: Not found original config &#39;{}&#39;. Stop loading&quot;</span>, distFileName);</div>
+<div class="line"><span class="lineno">  609</span>            <a class="code hl_define" href="../../d6/df1/a04535.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>();</div>
+<div class="line"><span class="lineno">  610</span>        }</div>
+<div class="line"><span class="lineno">  611</span> </div>
+<div class="line"><span class="lineno">  612</span>        <span class="comment">// Load .conf config</span></div>
+<div class="line"><span class="lineno">  613</span>        isExistDefaultConfig = <a class="code hl_function" href="../../dc/d78/a05094.html#a58c320a6a1cf51bbeb51b90f0e4f2a71">LoadAdditionalFile</a>(moduleConfigPath + defaultFileName, <span class="keyword">true</span>, isReload);</div>
+<div class="line"><span class="lineno">  614</span> </div>
+<div class="line"><span class="lineno">  615</span>        <span class="keywordflow">if</span> (isExistDefaultConfig &amp;&amp; isExistDistConfig)</div>
+<div class="line"><span class="lineno">  616</span>        {</div>
+<div class="line"><span class="lineno">  617</span>            <a class="code hl_variable" href="../../dc/d78/a05094.html#aa5a8c891e53c6d76cf63d0a40fd799e1">_moduleConfigFiles</a>.emplace_back(defaultFileName);</div>
+<div class="line"><span class="lineno">  618</span>        }</div>
+<div class="line"><span class="lineno">  619</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!isExistDefaultConfig &amp;&amp; isExistDistConfig)</div>
+<div class="line"><span class="lineno">  620</span>        {</div>
+<div class="line"><span class="lineno">  621</span>            <a class="code hl_variable" href="../../dc/d78/a05094.html#aa5a8c891e53c6d76cf63d0a40fd799e1">_moduleConfigFiles</a>.emplace_back(distFileName);</div>
+<div class="line"><span class="lineno">  622</span>        }</div>
+<div class="line"><span class="lineno">  623</span>    }</div>
+<div class="line"><span class="lineno">  624</span> </div>
+<div class="line"><span class="lineno">  625</span>    <span class="keywordflow">if</span> (isNeedPrintInfo)</div>
+<div class="line"><span class="lineno">  626</span>    {</div>
+<div class="line"><span class="lineno">  627</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dc/d78/a05094.html#aa5a8c891e53c6d76cf63d0a40fd799e1">_moduleConfigFiles</a>.empty())</div>
+<div class="line"><span class="lineno">  628</span>        {</div>
+<div class="line"><span class="lineno">  629</span>            <span class="comment">// Print modules configurations</span></div>
+<div class="line"><span class="lineno">  630</span>            <a class="code hl_define" href="../../d9/d88/a04175.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  631</span>            <a class="code hl_define" href="../../d9/d88/a04175.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Using modules configuration:&quot;</span>);</div>
+<div class="line"><span class="lineno">  632</span> </div>
+<div class="line"><span class="lineno">  633</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../dc/d78/a05094.html#aa5a8c891e53c6d76cf63d0a40fd799e1">_moduleConfigFiles</a>)</div>
+<div class="line"><span class="lineno">  634</span>            {</div>
+<div class="line"><span class="lineno">  635</span>                <a class="code hl_define" href="../../d9/d88/a04175.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt; {}&quot;</span>, itr);</div>
+<div class="line"><span class="lineno">  636</span>            }</div>
+<div class="line"><span class="lineno">  637</span>        }</div>
+<div class="line"><span class="lineno">  638</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  639</span>        {</div>
+<div class="line"><span class="lineno">  640</span>            <a class="code hl_define" href="../../d9/d88/a04175.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt; Not found modules config files&quot;</span>);</div>
+<div class="line"><span class="lineno">  641</span>        }</div>
+<div class="line"><span class="lineno">  642</span>    }</div>
+<div class="line"><span class="lineno">  643</span> </div>
+<div class="line"><span class="lineno">  644</span>    <span class="keywordflow">if</span> (isNeedPrintInfo)</div>
+<div class="line"><span class="lineno">  645</span>    {</div>
+<div class="line"><span class="lineno">  646</span>        <a class="code hl_define" href="../../d9/d88/a04175.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  647</span>    }</div>
+<div class="line"><span class="lineno">  648</span> </div>
+<div class="line"><span class="lineno">  649</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  650</span>}</div>
+<div class="ttc" id="aa04535_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../d6/df1/a04535.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition:</b> Errors.h:76</div></div>
+<div class="ttc" id="aa05094_html_a104bef8d83f8c3b643f7538ac7bf5c30"><div class="ttname"><a href="../../dc/d78/a05094.html#a104bef8d83f8c3b643f7538ac7bf5c30">ConfigMgr::GetConfigPath</a></div><div class="ttdeci">std::string const GetConfigPath()</div><div class="ttdef"><b>Definition:</b> Config.cpp:538</div></div>
+<div class="ttc" id="aa05094_html_a58c320a6a1cf51bbeb51b90f0e4f2a71"><div class="ttname"><a href="../../dc/d78/a05094.html#a58c320a6a1cf51bbeb51b90f0e4f2a71">ConfigMgr::LoadAdditionalFile</a></div><div class="ttdeci">bool LoadAdditionalFile(std::string file, bool isOptional=false, bool isReload=false)</div><div class="ttdef"><b>Definition:</b> Config.cpp:304</div></div>
+<div class="ttc" id="aa05094_html_aa5a8c891e53c6d76cf63d0a40fd799e1"><div class="ttname"><a href="../../dc/d78/a05094.html#aa5a8c891e53c6d76cf63d0a40fd799e1">ConfigMgr::_moduleConfigFiles</a></div><div class="ttdeci">std::vector&lt; std::string &gt; _moduleConfigFiles</div><div class="ttdef"><b>Definition:</b> Config.h:65</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00065">_moduleConfigFiles</a>, <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00538">GetConfigPath()</a>, <a class="el" href="../../#l00304">LoadAdditionalFile()</a>, <a class="el" href="../../#l00153">LOG_FATAL</a>, and <a class="el" href="../../#l00165">LOG_INFO</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00316">Reload()</a>.</p>
+
+</div>
+</div>
+<a id="ac7257754613b850d43951a0d6e1074b9" name="ac7257754613b850d43951a0d6e1074b9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac7257754613b850d43951a0d6e1074b9">&#9670;&#160;</a></span>operator=()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dc/d78/a05094.html">ConfigMgr</a> &amp; ConfigMgr::operator= </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/d78/a05094.html">ConfigMgr</a> const &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a03a1bed0e7b07a3fb3e41ea5fd80d983" name="a03a1bed0e7b07a3fb3e41ea5fd80d983"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a03a1bed0e7b07a3fb3e41ea5fd80d983">&#9670;&#160;</a></span>OverrideWithEnvVariablesIfAny()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt; std::string &gt; ConfigMgr::OverrideWithEnvVariablesIfAny </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Overrides configuration with environment variables and returns overridden keys. </p>
+<div class="fragment"><div class="line"><span class="lineno">  357</span>{</div>
+<div class="line"><span class="lineno">  358</span>    std::lock_guard&lt;std::mutex&gt; lock(_configLock);</div>
+<div class="line"><span class="lineno">  359</span> </div>
+<div class="line"><span class="lineno">  360</span>    std::vector&lt;std::string&gt; overriddenKeys;</div>
+<div class="line"><span class="lineno">  361</span> </div>
+<div class="line"><span class="lineno">  362</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; itr : _configOptions)</div>
+<div class="line"><span class="lineno">  363</span>    {</div>
+<div class="line"><span class="lineno">  364</span>        <span class="keywordflow">if</span> (itr.first.empty())</div>
+<div class="line"><span class="lineno">  365</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  366</span> </div>
+<div class="line"><span class="lineno">  367</span>        <a class="code hl_typedef" href="../../d4/d86/a04421.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;std::string&gt;</a> envVar = <a class="code hl_function" href="../../dc/d64/a04750.html#a4b39ee4aeace82542c39141c4c052417">EnvVarForIniKey</a>(itr.first);</div>
+<div class="line"><span class="lineno">  368</span>        <span class="keywordflow">if</span> (!envVar)</div>
+<div class="line"><span class="lineno">  369</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  370</span> </div>
+<div class="line"><span class="lineno">  371</span>        itr.second = *envVar;</div>
+<div class="line"><span class="lineno">  372</span> </div>
+<div class="line"><span class="lineno">  373</span>        overriddenKeys.push_back(itr.first);</div>
+<div class="line"><span class="lineno">  374</span>    }</div>
+<div class="line"><span class="lineno">  375</span> </div>
+<div class="line"><span class="lineno">  376</span>    <span class="keywordflow">return</span> overriddenKeys;</div>
+<div class="line"><span class="lineno">  377</span>}</div>
+<div class="ttc" id="aa04750_html_a4b39ee4aeace82542c39141c4c052417"><div class="ttname"><a href="../../dc/d64/a04750.html#a4b39ee4aeace82542c39141c4c052417">anonymous_namespace{Config.cpp}::EnvVarForIniKey</a></div><div class="ttdeci">Optional&lt; std::string &gt; EnvVarForIniKey(std::string const &amp;key)</div><div class="ttdef"><b>Definition:</b> Config.cpp:286</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00316">Reload()</a>.</p>
+
+</div>
+</div>
+<a id="a66363d8377945f4b29061ce9e4ea6dc7" name="a66363d8377945f4b29061ce9e4ea6dc7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a66363d8377945f4b29061ce9e4ea6dc7">&#9670;&#160;</a></span>Reload()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ConfigMgr::Reload </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  317</span>{</div>
+<div class="line"><span class="lineno">  318</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dc/d78/a05094.html#ae8b4473b24540d12468cb994b89b78b8">LoadAppConfigs</a>(<span class="keyword">true</span>))</div>
+<div class="line"><span class="lineno">  319</span>    {</div>
+<div class="line"><span class="lineno">  320</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  321</span>    }</div>
+<div class="line"><span class="lineno">  322</span> </div>
+<div class="line"><span class="lineno">  323</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dc/d78/a05094.html#a4752375243302e81a5e8fb3f5615e776">LoadModulesConfigs</a>(<span class="keyword">true</span>, <span class="keyword">false</span>))</div>
+<div class="line"><span class="lineno">  324</span>    {</div>
+<div class="line"><span class="lineno">  325</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  326</span>    }</div>
+<div class="line"><span class="lineno">  327</span> </div>
+<div class="line"><span class="lineno">  328</span>    <a class="code hl_function" href="../../dc/d78/a05094.html#a03a1bed0e7b07a3fb3e41ea5fd80d983">OverrideWithEnvVariablesIfAny</a>();</div>
+<div class="line"><span class="lineno">  329</span> </div>
+<div class="line"><span class="lineno">  330</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  331</span>}</div>
+<div class="ttc" id="aa05094_html_a03a1bed0e7b07a3fb3e41ea5fd80d983"><div class="ttname"><a href="../../dc/d78/a05094.html#a03a1bed0e7b07a3fb3e41ea5fd80d983">ConfigMgr::OverrideWithEnvVariablesIfAny</a></div><div class="ttdeci">std::vector&lt; std::string &gt; OverrideWithEnvVariablesIfAny()</div><div class="ttdoc">Overrides configuration with environment variables and returns overridden keys.</div><div class="ttdef"><b>Definition:</b> Config.cpp:356</div></div>
+<div class="ttc" id="aa05094_html_a4752375243302e81a5e8fb3f5615e776"><div class="ttname"><a href="../../dc/d78/a05094.html#a4752375243302e81a5e8fb3f5615e776">ConfigMgr::LoadModulesConfigs</a></div><div class="ttdeci">bool LoadModulesConfigs(bool isReload=false, bool isNeedPrintInfo=true)</div><div class="ttdef"><b>Definition:</b> Config.cpp:575</div></div>
+<div class="ttc" id="aa05094_html_ae8b4473b24540d12468cb994b89b78b8"><div class="ttname"><a href="../../dc/d78/a05094.html#ae8b4473b24540d12468cb994b89b78b8">ConfigMgr::LoadAppConfigs</a></div><div class="ttdeci">bool LoadAppConfigs(bool isReload=false)</div><div class="ttdef"><b>Definition:</b> Config.cpp:564</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00564">LoadAppConfigs()</a>, <a class="el" href="../../#l00575">LoadModulesConfigs()</a>, and <a class="el" href="../../#l00356">OverrideWithEnvVariablesIfAny()</a>.</p>
+
+</div>
+</div>
+<a id="ac2d5c14f32b1d8dfb3e8736f5aef5e7e" name="ac2d5c14f32b1d8dfb3e8736f5aef5e7e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac2d5c14f32b1d8dfb3e8736f5aef5e7e">&#9670;&#160;</a></span>setDryRun()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ConfigMgr::setDryRun </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>mode</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
 <span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  109</span>            {</div>
-<div class="line"><span class="lineno">  110</span>                <span class="keywordtype">int</span> result = EVP_DigestSignUpdate(<a class="code hl_variable" href="../../dc/d78/a05094.html#ae96a0500880d30109c61efd6450453de">_ctx</a>, data, len);</div>
-<div class="line"><span class="lineno">  111</span>                <a class="code hl_define" href="../../d5/d42/a00269.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(result == 1);</div>
-<div class="line"><span class="lineno">  112</span>            }</div>
+<div class="fragment"><div class="line"><span class="lineno">   53</span>{ <a class="code hl_variable" href="../../dc/d78/a05094.html#a555709e27a884d16ef6dd91cc21b806b">dryRun</a> = mode; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::_ctx</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00040">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::GetDigestOf()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00063">dryRun</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ae96a0500880d30109c61efd6450453de" name="ae96a0500880d30109c61efd6450453de"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae96a0500880d30109c61efd6450453de">&#9670;&#160;</a></span>_ctx</h2>
+<a id="aa5a8c891e53c6d76cf63d0a40fd799e1" name="aa5a8c891e53c6d76cf63d0a40fd799e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5a8c891e53c6d76cf63d0a40fd799e1">&#9670;&#160;</a></span>_moduleConfigFiles</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">EVP_MD_CTX* <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::_ctx {}</td>
+          <td class="memname">std::vector&lt;std::string &gt; ConfigMgr::_moduleConfigFiles</td>
         </tr>
       </table>
   </td>
@@ -841,23 +1081,21 @@ template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b85799
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00121">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::Finalize()</a>, <a class="el" href="../../#l00057">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::GenericHMAC()</a>, <a class="el" href="../../#l00084">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::operator=()</a>, <a class="el" href="../../#l00108">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::UpdateData()</a>, and <a class="el" href="../../#l00076">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::~GenericHMAC()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00575">LoadModulesConfigs()</a>.</p>
 
 </div>
 </div>
-<a id="a9c8bb5aa9eb4e206b77b6556022391d9" name="a9c8bb5aa9eb4e206b77b6556022391d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c8bb5aa9eb4e206b77b6556022391d9">&#9670;&#160;</a></span>_digest</h2>
+<a id="a555709e27a884d16ef6dd91cc21b806b" name="a555709e27a884d16ef6dd91cc21b806b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a555709e27a884d16ef6dd91cc21b806b">&#9670;&#160;</a></span>dryRun</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d78/a05094.html#a4d7f68dcd7fdc00ae2df6451b5d7b2cd">Digest</a> <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::_digest {}</td>
+          <td class="memname">bool ConfigMgr::dryRun = false</td>
         </tr>
       </table>
   </td>
@@ -867,59 +1105,7 @@ template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b85799
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00121">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::Finalize()</a>, <a class="el" href="../../#l00129">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::GetDigest()</a>, and <a class="el" href="../../#l00084">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::operator=()</a>.</p>
-
-</div>
-</div>
-<a id="a86c8c6b7d776042053e7ba5ae95b7be5" name="a86c8c6b7d776042053e7ba5ae95b7be5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a86c8c6b7d776042053e7ba5ae95b7be5">&#9670;&#160;</a></span>_key</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">EVP_PKEY* <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::_key {}</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00057">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::GenericHMAC()</a>, <a class="el" href="../../#l00084">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::operator=()</a>, and <a class="el" href="../../#l00076">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::~GenericHMAC()</a>.</p>
-
-</div>
-</div>
-<a id="ab2115b35bccc49517eec5d59b0950de4" name="ab2115b35bccc49517eec5d59b0950de4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab2115b35bccc49517eec5d59b0950de4">&#9670;&#160;</a></span>DIGEST_LENGTH</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b857997a0272f90b">GenericHashImpl::HashCreator</a> HashCreator, std::size_t DigestLength&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr std::size_t <a class="el" href="../../dc/d78/a05094.html">Acore::Impl::GenericHMAC</a>&lt; HashCreator, DigestLength &gt;::DIGEST_LENGTH = DigestLength</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00121">Acore::Impl::GenericHMAC&lt; HashCreator, DigestLength &gt;::Finalize()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00052">isDryRun()</a>, and <a class="el" href="../../#l00053">setDryRun()</a>.</p>
 
 </div>
 </div>
@@ -928,8 +1114,8 @@ template&lt;<a class="el" href="../../d2/d69/a05086.html#a03a4f6e31f0cb838b85799
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/dcf/a04692.html">Acore</a></li><li class="navelem"><a class="el" href="../../d2/d88/a04704.html">Impl</a></li><li class="navelem"><a class="el" href="../../dc/d78/a05094.html">GenericHMAC</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:45:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/d78/a05094.html">ConfigMgr</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:42:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

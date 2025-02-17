@@ -1,12 +1,6 @@
 var a21050 =
 [
-    [ "boss_lavanthorAI", "d5/d47/a21050.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
-    [ "EnterEvadeMode", "d5/d47/a21050.html#a0334d92f1ddf30235efe298df622535b", null ],
-    [ "JustDied", "d5/d47/a21050.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
-    [ "JustEngagedWith", "d5/d47/a21050.html#a9820ec47af72af19f00b172ee138f908", null ],
-    [ "MoveInLineOfSight", "d5/d47/a21050.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
-    [ "Reset", "d5/d47/a21050.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
-    [ "UpdateAI", "d5/d47/a21050.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
-    [ "events", "d5/d47/a21050.html#a273adc56adefe9810013bc80950f2624", null ],
-    [ "pInstance", "d5/d47/a21050.html#ad6059577c5e131523f39316c2291b421", null ]
+    [ "boss_archavonAI", "d0/da1/a21054.html", "d0/da1/a21054" ],
+    [ "boss_archavon", "d5/d47/a21050.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "d5/d47/a21050.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

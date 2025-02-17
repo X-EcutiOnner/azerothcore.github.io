@@ -1,14 +1,9 @@
 var a01208 =
 [
-    [ "TempSummonData", "dc/da9/a07982.html", "dc/da9/a07982" ],
-    [ "TempSummon", "d0/d36/a07986.html", "d0/d36/a07986" ],
-    [ "Minion", "d0/db8/a07990.html", "d0/db8/a07990" ],
-    [ "Guardian", "d0/dae/a07994.html", "d0/dae/a07994" ],
-    [ "Puppet", "df/d00/a07998.html", "df/d00/a07998" ],
-    [ "ForcedUnsummonDelayEvent", "d6/dfc/a08002.html", "d6/dfc/a08002" ],
-    [ "SummonerType", "d9/d31/a01208.html#ac8a8d6d0515f6d559068f8aaae56e188", [
-      [ "SUMMONER_TYPE_CREATURE", "d9/d31/a01208.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a", null ],
-      [ "SUMMONER_TYPE_GAMEOBJECT", "d9/d31/a01208.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347", null ],
-      [ "SUMMONER_TYPE_MAP", "d9/d31/a01208.html#ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270", null ]
-    ] ]
+    [ "instance_shattered_halls", "dd/d07/a23502.html", "dd/d07/a23502" ],
+    [ "instance_shattered_halls::instance_shattered_halls_InstanceMapScript", "d0/dad/a23506.html", "d0/dad/a23506" ],
+    [ "at_shattered_halls_execution", "d6/ddc/a23510.html", "d6/ddc/a23510" ],
+    [ "AddSC_instance_shattered_halls", "d9/d31/a01208.html#a206458c4d90391b7cb2b182c06ad6360", null ],
+    [ "creatureData", "d9/d31/a01208.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d9/d31/a01208.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

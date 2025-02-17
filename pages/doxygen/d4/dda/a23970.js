@@ -1,6 +1,7 @@
 var a23970 =
 [
-    [ "CheckRequirement", "d4/dda/a23970.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
-    [ "PrepareSpellScript", "d4/dda/a23970.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
-    [ "Register", "d4/dda/a23970.html#aa4f62292b32347179a5534e4bc0417f8", null ]
+    [ "HandleEffectApply", "d4/dda/a23970.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d4/dda/a23970.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d4/dda/a23970.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d4/dda/a23970.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

@@ -1,17 +1,10 @@
 var a07378 =
 [
-    [ "ChatHandler", "d1/d1e/a07378.html#aae585fad45749fd46fa28d36fdad9760", null ],
-    [ "ChatHandler", "d1/d1e/a07378.html#a7ab2c0deb500bef6654274630815bb75", null ],
-    [ "IsHumanReadable", "d1/d1e/a07378.html#acd17995bc95b6e449d5e185bfe523b84", null ],
-    [ "ParseCommands", "d1/d1e/a07378.html#abd1bb7d3ca143479bd50d908dc1f4136", null ],
-    [ "Send", "d1/d1e/a07378.html#a2961b609065a68245d1556d3b32af013", null ],
-    [ "SendAck", "d1/d1e/a07378.html#a0e886c68796eb6a2a529186279dd778d", null ],
-    [ "SendFailed", "d1/d1e/a07378.html#aa3a06fffce2472b941163d062f1b3569", null ],
-    [ "SendOK", "d1/d1e/a07378.html#a8ece640cb81b50ed8e0b90c40ff71f47", null ],
-    [ "SendSysMessage", "d1/d1e/a07378.html#a289a9806b8a083e063b8c83ea7016718", null ],
-    [ "SendSysMessage", "d1/d1e/a07378.html#ac1ed346507097817b3f8e00f0ae657a0", null ],
-    [ "SendSysMessage", "d1/d1e/a07378.html#a1f915beeda589704808dc727c3edcb63", null ],
-    [ "echo", "d1/d1e/a07378.html#a9c87777b4249795b41163b2294f44746", null ],
-    [ "hadAck", "d1/d1e/a07378.html#a8262279e3e11d7abc952b2ab3b67a99f", null ],
-    [ "humanReadable", "d1/d1e/a07378.html#a85407d3478890e8f4c43377de7eb0993", null ]
+    [ "BattlegroundRL", "d1/d1e/a07378.html#ae2e0ccf2badc174b7f5c909f805fe669", null ],
+    [ "FillInitialWorldStates", "d1/d1e/a07378.html#acafb9d927c8ca559c4c5b78f001ba056", null ],
+    [ "HandleAreaTrigger", "d1/d1e/a07378.html#ad1184e3e2f09a6665d40a75006e6f863", null ],
+    [ "HandlePlayerUnderMap", "d1/d1e/a07378.html#a2d03a49dee964bcaa3421a93d0735e63", null ],
+    [ "SetupBattleground", "d1/d1e/a07378.html#a3393353028ffd35eaad1d5e121654366", null ],
+    [ "StartingEventCloseDoors", "d1/d1e/a07378.html#aae633887d9689898c8b73efa8257eb34", null ],
+    [ "StartingEventOpenDoors", "d1/d1e/a07378.html#adb2ec6770c2b25b94f8f7dff7486d5cf", null ]
 ];

@@ -1,8 +1,12 @@
 var a23378 =
 [
-    [ "npc_warchief_portal", "dd/d8e/a23378.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "dd/d8e/a23378.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "dd/d8e/a23378.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "dd/d8e/a23378.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "dd/d8e/a23378.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "boss_nazan", "dd/d8e/a23378.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "dd/d8e/a23378.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "dd/d8e/a23378.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "dd/d8e/a23378.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "dd/d8e/a23378.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "dd/d8e/a23378.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "dd/d8e/a23378.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "dd/d8e/a23378.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "dd/d8e/a23378.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

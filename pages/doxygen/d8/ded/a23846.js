@@ -1,7 +1,9 @@
 var a23846 =
 [
-    [ "CheckRequirement", "d8/ded/a23846.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "d8/ded/a23846.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "d8/ded/a23846.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "d8/ded/a23846.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "npc_aeranasAI", "d8/ded/a23846.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "Reset", "d8/ded/a23846.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d8/ded/a23846.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "envelopingWinds_Timer", "d8/ded/a23846.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d8/ded/a23846.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d8/ded/a23846.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

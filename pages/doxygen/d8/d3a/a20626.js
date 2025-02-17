@@ -1,8 +1,6 @@
 var a20626 =
 [
-    [ "OnApply", "d8/d3a/a20626.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
-    [ "OnRemove", "d8/d3a/a20626.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "d8/d3a/a20626.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "d8/d3a/a20626.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "d8/d3a/a20626.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "boss_yoggsaron_cloudAI", "d4/dbd/a20630.html", "d4/dbd/a20630" ],
+    [ "boss_yoggsaron_cloud", "d8/d3a/a20626.html#ab52cc1fa8b45b70dde340b9f463ef2f1", null ],
+    [ "GetAI", "d8/d3a/a20626.html#a2005f062eb9d78c7b09b045eba570b98", null ]
 ];

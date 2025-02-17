@@ -1,5 +1,6 @@
 var a24170 =
 [
-    [ "npc_pet_pri_lightwell", "db/ddf/a24170.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "db/ddf/a24170.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "npc_slim", "db/ddf/a24170.html#aa227fbe22126bed821939873973e6a20", null ],
+    [ "OnGossipHello", "db/ddf/a24170.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
+    [ "OnGossipSelect", "db/ddf/a24170.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
 ];

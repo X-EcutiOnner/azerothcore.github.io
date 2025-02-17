@@ -1,6 +1,8 @@
 var a23194 =
 [
-    [ "CalculateDamage", "da/db1/a23194.html#a170fb61e3a7358d42cc6506067fb978a", null ],
-    [ "PrepareSpellScript", "da/db1/a23194.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
-    [ "Register", "da/db1/a23194.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
+    [ "boss_mekgineer_steamrigger", "da/db1/a23194.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "da/db1/a23194.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "da/db1/a23194.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "da/db1/a23194.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "da/db1/a23194.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

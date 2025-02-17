@@ -1,6 +1,7 @@
 var a23282 =
 [
-    [ "CheckProc", "dc/dad/a23282.html#add583b34b9052fbb37c43c558f0f8b96", null ],
-    [ "PrepareAuraScript", "dc/dad/a23282.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
-    [ "Register", "dc/dad/a23282.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
+    [ "CalcPeriodic", "dc/dad/a23282.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
+    [ "PrepareAuraScript", "dc/dad/a23282.html#a290913502dfe3dfb42b44a964468b97c", null ],
+    [ "Register", "dc/dad/a23282.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
+    [ "Update", "dc/dad/a23282.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
 ];

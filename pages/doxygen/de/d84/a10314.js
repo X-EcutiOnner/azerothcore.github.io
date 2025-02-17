@@ -1,6 +1,9 @@
 var a10314 =
 [
-    [ "PlayedTimeClient", "de/d84/a10314.html#a1c82d4d153606da9887d64599f319883", null ],
-    [ "Read", "de/d84/a10314.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
-    [ "TriggerScriptEvent", "de/d84/a10314.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
+    [ "TransportScript", "de/d84/a10314.html#a4b83123b122fa98831d304670a3de50a", null ],
+    [ "IsDatabaseBound", "de/d84/a10314.html#a956f0d757e5d974566fa8fac0df731e5", null ],
+    [ "OnAddCreaturePassenger", "de/d84/a10314.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
+    [ "OnAddPassenger", "de/d84/a10314.html#a806f4829b47429900271f6dde7eaa625", null ],
+    [ "OnRelocate", "de/d84/a10314.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
+    [ "OnRemovePassenger", "de/d84/a10314.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
 ];

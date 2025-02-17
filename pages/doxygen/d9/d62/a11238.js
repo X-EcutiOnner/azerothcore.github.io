@@ -1,6 +1,6 @@
 var a11238 =
 [
-    [ "FieldGuidType", "d9/d62/a11238.html#a88e763ed9715ad76a0eb1c1a9ad7a59b", null ],
-    [ "FieldName", "d9/d62/a11238.html#a669f1ecf12148799e59e7b3e3124d681", null ],
-    [ "IsDependentField", "d9/d62/a11238.html#a241b9e8f5672e30732f0b938b02046d4", null ]
+    [ "EffectUpdatePeriodicHandler", "d9/d62/a11238.html#a6b18a259aa84c847bcc064c5243eb590", null ],
+    [ "Call", "d9/d62/a11238.html#a38802863e7859453cbbe58ad91018c67", null ],
+    [ "pEffectHandlerScript", "d9/d62/a11238.html#a0e51245e089fcd9532d5789056ab944c", null ]
 ];

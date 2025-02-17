@@ -1,6 +1,6 @@
 var a17118 =
 [
-    [ "HandleScript", "d0/d5a/a17118.html#acd11d50f398857dc2a24bd2d63e52222", null ],
-    [ "PrepareSpellScript", "d0/d5a/a17118.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
-    [ "Register", "d0/d5a/a17118.html#ad7f12515dc21ab6b19148370fd491629", null ]
+    [ "npc_blood_queen_lana_thelAI", "d1/d16/a17122.html", "d1/d16/a17122" ],
+    [ "npc_blood_queen_lana_thel", "d0/d5a/a17118.html#a39adef3ae54efd4433805bd8ad4719be", null ],
+    [ "GetAI", "d0/d5a/a17118.html#a02d928ac4ef1704cee2498ebe6533561", null ]
 ];

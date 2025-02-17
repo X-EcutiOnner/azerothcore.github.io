@@ -1,9 +1,8 @@
 var a09374 =
 [
-    [ "LoginQueryHolder", "dd/d62/a09374.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
-    [ "GetAccountId", "dd/d62/a09374.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
-    [ "GetGuid", "dd/d62/a09374.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
-    [ "Initialize", "dd/d62/a09374.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
-    [ "m_accountId", "dd/d62/a09374.html#abc8056182803af44a062fe6153fdd009", null ],
-    [ "m_guid", "dd/d62/a09374.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
+    [ "AllGameObjectsWithEntryInRange", "dd/d62/a09374.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56", null ],
+    [ "operator()", "dd/d62/a09374.html#a342aa18d98413620fce4c676fcf75305", null ],
+    [ "m_fRange", "dd/d62/a09374.html#a7cce16670c95c19f3eb68e5914160513", null ],
+    [ "m_pObject", "dd/d62/a09374.html#a5c898c20992999f11204aab6479d71f6", null ],
+    [ "m_uiEntry", "dd/d62/a09374.html#a64ff0c14c71e218b8f9a8888b1017fec", null ]
 ];

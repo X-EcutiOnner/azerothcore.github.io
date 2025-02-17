@@ -1,8 +1,6 @@
 var a15094 =
 [
-    [ "npc_prospector_remtravelAI", "d3/dd4/a15094.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
-    [ "JustEngagedWith", "d3/dd4/a15094.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
-    [ "JustSummoned", "d3/dd4/a15094.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
-    [ "Reset", "d3/dd4/a15094.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
-    [ "WaypointReached", "d3/dd4/a15094.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
+    [ "HandleDummy", "d3/dd4/a15094.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
+    [ "PrepareSpellScript", "d3/dd4/a15094.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
+    [ "Register", "d3/dd4/a15094.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
 ];

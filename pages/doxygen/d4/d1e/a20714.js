@@ -1,6 +1,10 @@
 var a20714 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d0/ddb/a20718.html", "d0/ddb/a20718" ],
-    [ "instance_ulduar", "d4/d1e/a20714.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "d4/d1e/a20714.html#ad15f003a90e656910fc32d661ca9baba", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "d4/d1e/a20714.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
+    [ "DamageTaken", "d4/d1e/a20714.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
+    [ "Reset", "d4/d1e/a20714.html#a763f772414f00c0f83402e1a635b6bd0", null ],
+    [ "SpellHit", "d4/d1e/a20714.html#a60721961f2eb5e91c15890252166b872", null ],
+    [ "UpdateAI", "d4/d1e/a20714.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
+    [ "_spellTimer", "d4/d1e/a20714.html#a4ed360380707195e10753436020b67eb", null ],
+    [ "_visualTimer", "d4/d1e/a20714.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
 ];

@@ -1,5 +1,7 @@
 var a16514 =
 [
-    [ "npc_fos_leader_secondAI", "dc/d25/a16514.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
-    [ "MovementInform", "dc/d25/a16514.html#a9cc0b500f1289dc8b764b3755468e639", null ]
+    [ "HandleScript", "dc/d25/a16514.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
+    [ "PrepareSpellScript", "dc/d25/a16514.html#a71b28156c628aacbc6cb481038c0e76c", null ],
+    [ "Register", "dc/d25/a16514.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
+    [ "Validate", "dc/d25/a16514.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
 ];

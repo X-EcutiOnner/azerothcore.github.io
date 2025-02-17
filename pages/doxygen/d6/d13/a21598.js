@@ -1,6 +1,6 @@
 var a21598 =
 [
-    [ "npc_mrfloppyAI", "d6/d2e/a21602.html", "d6/d2e/a21602" ],
-    [ "npc_mrfloppy", "d6/d13/a21598.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "d6/d13/a21598.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "CheckCast", "d6/d13/a21598.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
+    [ "PrepareSpellScript", "d6/d13/a21598.html#abff433d61c798d17882292b6b0956a58", null ],
+    [ "Register", "d6/d13/a21598.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
 ];

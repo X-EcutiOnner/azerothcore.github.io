@@ -1,9 +1,6 @@
 var a18618 =
 [
-    [ "npc_isle_of_conquest_turretAI", "dc/ddd/a18618.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
-    [ "JustDied", "dc/ddd/a18618.html#a88390da94298bea9c445bb422a806d23", null ],
-    [ "SpellHit", "dc/ddd/a18618.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
-    [ "UpdateAI", "dc/ddd/a18618.html#a81c039a2a230b261967842161757b6f8", null ],
-    [ "events", "dc/ddd/a18618.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
-    [ "faction", "dc/ddd/a18618.html#aca941c070a97278c8ec27d7e6b4edede", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d6/d7d/a18622.html", "d6/d7d/a18622" ],
+    [ "npc_icc_skybreaker_vicar", "dc/ddd/a18618.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
+    [ "GetAI", "dc/ddd/a18618.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
 ];

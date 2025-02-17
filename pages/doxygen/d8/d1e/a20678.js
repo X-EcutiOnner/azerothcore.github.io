@@ -1,7 +1,7 @@
 var a20678 =
 [
-    [ "HandleScriptEffect", "d8/d1e/a20678.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "d8/d1e/a20678.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "d8/d1e/a20678.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "d8/d1e/a20678.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "boss_yoggsaron_corruptor_tentacleAI", "d8/d1e/a20678.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
+    [ "DoAction", "d8/d1e/a20678.html#abac26b3be775eea734403be36cbed4d2", null ],
+    [ "SelectCorruptionTarget", "d8/d1e/a20678.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
+    [ "UpdateAI", "d8/d1e/a20678.html#a0269d1dc655af5680d7074cb093740b8", null ]
 ];

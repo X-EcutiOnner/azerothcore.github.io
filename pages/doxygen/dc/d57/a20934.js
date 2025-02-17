@@ -1,7 +1,7 @@
 var a20934 =
 [
-    [ "HandleScript", "dc/d57/a20934.html#a47b991c20c523d151893fefd9d487714", null ],
-    [ "PrepareSpellScript", "dc/d57/a20934.html#ab2db47d0a2694c0734db600e810e190d", null ],
-    [ "Register", "dc/d57/a20934.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
-    [ "Validate", "dc/d57/a20934.html#a89d601f6036fe38238767281f3427e54", null ]
+    [ "HandleOnEffectRemove", "dc/d57/a20934.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
+    [ "PrepareAuraScript", "dc/d57/a20934.html#a72e6468602d40eb479a80c611d60eb2e", null ],
+    [ "Register", "dc/d57/a20934.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
+    [ "Validate", "dc/d57/a20934.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
 ];

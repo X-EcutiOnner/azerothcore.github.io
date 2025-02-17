@@ -1,12 +1,6 @@
 var a16590 =
 [
-    [ "npc_shadowy_mercenaryAI", "d8/d48/a16590.html#ac631624615653a4f82ecfae2aa418455", null ],
-    [ "AttackStart", "d8/d48/a16590.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
-    [ "DoAction", "d8/d48/a16590.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
-    [ "EnterEvadeMode", "d8/d48/a16590.html#a31a9ddf038046534fad1d41afcf76548", null ],
-    [ "JustDied", "d8/d48/a16590.html#a33e576c92d1b10492cb6e65000ca8198", null ],
-    [ "JustEngagedWith", "d8/d48/a16590.html#ae12ade5e863a0022ea99620f354ca51b", null ],
-    [ "Reset", "d8/d48/a16590.html#afad174f812e2aadf6db86703a46f61d2", null ],
-    [ "UpdateAI", "d8/d48/a16590.html#a7a0238f32aa0d608b9d883db5f170052", null ],
-    [ "events", "d8/d48/a16590.html#a4c6e5a49dc4364477187a0189a166578", null ]
+    [ "npc_fos_corrupted_soul_fragmentAI", "d8/d9e/a16594.html", "d8/d9e/a16594" ],
+    [ "npc_fos_corrupted_soul_fragment", "d8/d48/a16590.html#a4caefccfdfee2e906eb94e34bceb064c", null ],
+    [ "GetAI", "d8/d48/a16590.html#aed663e0a313223fcaa988b89b1b02df3", null ]
 ];

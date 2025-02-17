@@ -1,10 +1,9 @@
 var a16622 =
 [
-    [ "npc_hor_spiritual_reflectionAI", "d7/d99/a16622.html#aac0a916bfa325284b354e7241fe857ab", null ],
-    [ "EnterEvadeMode", "d7/d99/a16622.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
-    [ "JustDied", "d7/d99/a16622.html#a72073c44f881d4a78552de4119a716d7", null ],
-    [ "JustEngagedWith", "d7/d99/a16622.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
-    [ "Reset", "d7/d99/a16622.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
-    [ "UpdateAI", "d7/d99/a16622.html#af9613e9309b85317bc6e3a84013dcf89", null ],
-    [ "events", "d7/d99/a16622.html#a89a466917aa5634c4c86ecbce21280b7", null ]
+    [ "HandlePeriodicTick", "d7/d99/a16622.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "d7/d99/a16622.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "d7/d99/a16622.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "d7/d99/a16622.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "d7/d99/a16622.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "d7/d99/a16622.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

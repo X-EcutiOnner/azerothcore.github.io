@@ -1,8 +1,8 @@
 var a22050 =
 [
-    [ "npc_wg_queueAI", "d8/da2/a22054.html", "d8/da2/a22054" ],
-    [ "npc_wg_queue", "df/dab/a22050.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "df/dab/a22050.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "df/dab/a22050.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "df/dab/a22050.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "CheckCast", "df/dab/a22050.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "df/dab/a22050.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "df/dab/a22050.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "df/dab/a22050.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "df/dab/a22050.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

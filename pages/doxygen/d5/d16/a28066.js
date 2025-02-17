@@ -1,8 +1,8 @@
 var a28066 =
 [
-    [ "Color", "d5/d16/a28066.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "d5/d16/a28066.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "d5/d16/a28066.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "d5/d16/a28066.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "d5/d16/a28066.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "areaTriggerText", "d5/d16/a28066.html#a32bb8c4a4defce661d108627e25b645a", null ],
+    [ "Difficulty", "d5/d16/a28066.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
+    [ "MapId", "d5/d16/a28066.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
+    [ "maxPlayers", "d5/d16/a28066.html#a7ab33229ffee11a27861439053c79831", null ],
+    [ "resetTime", "d5/d16/a28066.html#a891a741efb049b51996e1a6110efc52d", null ]
 ];

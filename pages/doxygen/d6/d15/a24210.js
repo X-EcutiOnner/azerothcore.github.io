@@ -1,7 +1,5 @@
 var a24210 =
 [
-    [ "HandleEffectApply", "d6/d15/a24210.html#a9923e38a2b5999d932d85be17a50ac83", null ],
-    [ "HandleEffectRemove", "d6/d15/a24210.html#a4c1f611b4fd0cf33f654d59e783db32a", null ],
-    [ "PrepareAuraScript", "d6/d15/a24210.html#a105df22901477c34757e62a0305006d4", null ],
-    [ "Register", "d6/d15/a24210.html#a16f2daff28dc07f2cac8d53f4813909f", null ]
+    [ "npc_pet_dk_dancing_rune_weaponAI", "d6/d15/a24210.html#a6d57990a8ff05cc74356b0ed4d7d39b6", null ],
+    [ "InitializeAI", "d6/d15/a24210.html#a620ebac7c7cd5f81af47ea2e35de128c", null ]
 ];

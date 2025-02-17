@@ -1,6 +1,6 @@
 var a08638 =
 [
-    [ "BuildValuesCachedBuffer", "db/d1a/a08638.html#a87a3167ae060c8556700e4a137294053", null ],
-    [ "buffer", "db/d1a/a08638.html#add7150533a48434b0e606add9cff04d2", null ],
-    [ "posPointers", "db/d1a/a08638.html#affa098684782f15383a7df063b178cf1", null ]
+    [ "spellIdImmunityPredicate", "db/d1a/a08638.html#a04893e34d418a0649d51dfa82b559d9c", null ],
+    [ "operator()", "db/d1a/a08638.html#ae97afff7a6b3ea5dca917d3dbb9ef818", null ],
+    [ "_type", "db/d1a/a08638.html#a125dfe727d668b5b9820adf1f7f0e0a8", null ]
 ];

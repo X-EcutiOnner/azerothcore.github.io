@@ -1,5 +1,8 @@
 var a23530 =
 [
-    [ "npc_lord_sanguinar", "d5/d64/a23530.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "d5/d64/a23530.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "HandleEffectApply", "d5/d64/a23530.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
+    [ "HandleEffectRemove", "d5/d64/a23530.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
+    [ "PrepareAuraScript", "d5/d64/a23530.html#a438a8ba3688e0832853bae4183695494", null ],
+    [ "Register", "d5/d64/a23530.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
+    [ "Validate", "d5/d64/a23530.html#ab07b244e53b397bc9e9842655617a80d", null ]
 ];

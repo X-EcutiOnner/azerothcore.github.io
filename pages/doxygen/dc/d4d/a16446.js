@@ -1,6 +1,6 @@
 var a16446 =
 [
-    [ "instance_drak_tharon_keep_InstanceScript", "dc/d4d/a16446.html#a15f13e67c33a7d5cfb4793b6b641842c", null ],
-    [ "OnGameObjectCreate", "dc/d4d/a16446.html#ab727f29fc768c00ab48bfd7e7717a29a", null ],
-    [ "OnGameObjectRemove", "dc/d4d/a16446.html#ad8115d5e1ee45a586ec0c1149d690db5", null ]
+    [ "npc_concentrated_ballAI", "da/d1f/a16450.html", "da/d1f/a16450" ],
+    [ "npc_concentrated_ball", "dc/d4d/a16446.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
+    [ "GetAI", "dc/d4d/a16446.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
 ];

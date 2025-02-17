@@ -1,5 +1,6 @@
 var a12370 =
 [
-    [ "npc_chess_move_trigger", "d7/da2/a12370.html#a6c0c37677db45ee11ebe158893d99632", null ],
-    [ "DamageTaken", "d7/da2/a12370.html#af413c7af2254c1cc06462b2a62ac88db", null ]
+    [ "HandleHit", "d7/da2/a12370.html#a5245f935c0cafd14e492214a51d85ad3", null ],
+    [ "PrepareSpellScript", "d7/da2/a12370.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
+    [ "Register", "d7/da2/a12370.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
 ];

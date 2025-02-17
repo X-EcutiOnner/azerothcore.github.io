@@ -1,10 +1,11 @@
 var a14114 =
 [
-    [ "boss_headless_horseman_pumpkin", "d0/d5e/a14114.html#a62191ae523401ac57a947db96a245f7a", null ],
-    [ "AttackStart", "d0/d5e/a14114.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
-    [ "MoveInLineOfSight", "d0/d5e/a14114.html#a212f9803f66d297cd276ef842247776a", null ],
-    [ "Reset", "d0/d5e/a14114.html#a9d5f6922a52146b61168f1c50b378294", null ],
-    [ "SpellHit", "d0/d5e/a14114.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
-    [ "UpdateAI", "d0/d5e/a14114.html#aca53b8839bce5e180ba8583490d694c3", null ],
-    [ "timer", "d0/d5e/a14114.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
+    [ "npc_snowfall_glade_playmate", "d0/d5e/a14114.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
+    [ "MoveInLineOfSight", "d0/d5e/a14114.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
+    [ "Reset", "d0/d5e/a14114.html#a89040d9843852b01123e102b49509857", null ],
+    [ "UpdateAI", "d0/d5e/a14114.html#a6dedc1cae1e568a792341842e8a922e8", null ],
+    [ "orphanGUID", "d0/d5e/a14114.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
+    [ "phase", "d0/d5e/a14114.html#a9a5b2348313063bc389b99158fc72e3f", null ],
+    [ "playerGUID", "d0/d5e/a14114.html#a4ca4198fdbf3c98291255916ee53c637", null ],
+    [ "timer", "d0/d5e/a14114.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
 ];

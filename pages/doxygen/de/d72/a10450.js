@@ -1,7 +1,7 @@
 var a10450 =
 [
-    [ "GuildSetMemberNote", "de/d72/a10450.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
-    [ "Read", "de/d72/a10450.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
-    [ "Note", "de/d72/a10450.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
-    [ "NoteeName", "de/d72/a10450.html#acf6beb0a5b122a04162e9d2c027203af", null ]
+    [ "ChatServerMessage", "de/d72/a10450.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
+    [ "Write", "de/d72/a10450.html#af8bad4d39693290674bda2e2ad8685bf", null ],
+    [ "MessageID", "de/d72/a10450.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
+    [ "StringParam", "de/d72/a10450.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
 ];

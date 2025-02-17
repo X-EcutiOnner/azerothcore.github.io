@@ -1,6 +1,8 @@
 var a16706 =
 [
-    [ "boss_ickAI", "d1/dbe/a16710.html", "d1/dbe/a16710" ],
-    [ "boss_ick", "d4/d09/a16706.html#af97d7f96bc48ba245e28c18614b9369e", null ],
-    [ "GetAI", "d4/d09/a16706.html#a355285766712a31b704c23fe85d19e5f", null ]
+    [ "npc_phantom_hallucinationAI", "d4/d09/a16706.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
+    [ "EnterEvadeMode", "d4/d09/a16706.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
+    [ "JustDied", "d4/d09/a16706.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
+    [ "UpdateAI", "d4/d09/a16706.html#ad874a741c641dbac6380aa682d582d7c", null ],
+    [ "numOfUpd", "d4/d09/a16706.html#adb78f5dcd272e8223f895079885a5461", null ]
 ];

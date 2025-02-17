@@ -1,7 +1,7 @@
 var a19146 =
 [
-    [ "HandleProc", "df/db6/a19146.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "df/db6/a19146.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "df/db6/a19146.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "df/db6/a19146.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "boss_commander_stoutbeard", "df/db6/a19146.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "df/db6/a19146.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "df/db6/a19146.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "df/db6/a19146.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

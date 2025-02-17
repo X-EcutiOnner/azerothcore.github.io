@@ -1,7 +1,6 @@
 var a20682 =
 [
-    [ "HandleScriptEffect", "de/df0/a20682.html#a173ee086127655cdfcca507fd5b15b2e", null ],
-    [ "PrepareSpellScript", "de/df0/a20682.html#a005d47b18a820c35ec596b5539db94eb", null ],
-    [ "Register", "de/df0/a20682.html#a20a0d554e80707c1517422cb747f38e8", null ],
-    [ "Validate", "de/df0/a20682.html#a5ca44686e26def56adc2b98d88145235", null ]
+    [ "boss_yoggsaron_constrictor_tentacleAI", "dd/da4/a20686.html", "dd/da4/a20686" ],
+    [ "boss_yoggsaron_constrictor_tentacle", "de/df0/a20682.html#a131809f1c691e55a33863caf6fe0c5dc", null ],
+    [ "GetAI", "de/df0/a20682.html#ac469d5661eb664c73bf5ab38084cb03e", null ]
 ];

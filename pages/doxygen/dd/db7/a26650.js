@@ -1,8 +1,9 @@
 var a26650 =
 [
-    [ "HandleDamage", "dd/db7/a26650.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "dd/db7/a26650.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "dd/db7/a26650.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "dd/db7/a26650.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "dd/db7/a26650.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "CheckCast", "dd/db7/a26650.html#a846862b62f5750801cd804133f290d5d", null ],
+    [ "HandleDummy", "dd/db7/a26650.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
+    [ "Load", "dd/db7/a26650.html#acec7437ba80e4ae491020448a36e4559", null ],
+    [ "PrepareSpellScript", "dd/db7/a26650.html#ab5e281028c009a4b317111de9a0a17e3", null ],
+    [ "Register", "dd/db7/a26650.html#a865fa526f2131703a668e113ba0d7849", null ],
+    [ "Validate", "dd/db7/a26650.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
 ];

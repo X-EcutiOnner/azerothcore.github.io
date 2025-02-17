@@ -1,6 +1,6 @@
 var a24206 =
 [
-    [ "HandlePeriodic", "d3/d1d/a24206.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
-    [ "PrepareAuraScript", "d3/d1d/a24206.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
-    [ "Register", "d3/d1d/a24206.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
+    [ "npc_pet_dk_dancing_rune_weaponAI", "d6/d15/a24210.html", "d6/d15/a24210" ],
+    [ "npc_pet_dk_dancing_rune_weapon", "d3/d1d/a24206.html#aaa0881509c2842d6c0442884d0947e28", null ],
+    [ "GetAI", "d3/d1d/a24206.html#aae11c76fbcf729f44136c53b2b3e0982", null ]
 ];

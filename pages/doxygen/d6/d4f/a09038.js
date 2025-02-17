@@ -1,8 +1,9 @@
 var a09038 =
 [
-    [ "CreatureListSearcher", "d6/d4f/a09038.html#a7b16bf9b7a847a08fa6582b81b607e20", null ],
-    [ "Visit", "d6/d4f/a09038.html#a48c084b8fbcbf7db7c051d1aa2aff523", null ],
-    [ "Visit", "d6/d4f/a09038.html#a91fcbdcfb08964ebaacec8acae13476b", null ],
-    [ "i_check", "d6/d4f/a09038.html#a985d622243d5c7c6c91eb01377b0f91b", null ],
-    [ "i_phaseMask", "d6/d4f/a09038.html#a10e4e1fb5749d2b1065dd6a1245783d0", null ]
+    [ "GridReference", "d6/d4f/a09038.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
+    [ "~GridReference", "d6/d4f/a09038.html#afd6a4f88eb066818afde1b752600bb12", null ],
+    [ "next", "d6/d4f/a09038.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
+    [ "sourceObjectDestroyLink", "d6/d4f/a09038.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
+    [ "targetObjectBuildLink", "d6/d4f/a09038.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
+    [ "targetObjectDestroyLink", "d6/d4f/a09038.html#ac4c863d059b5c826e9597056dc7c887a", null ]
 ];

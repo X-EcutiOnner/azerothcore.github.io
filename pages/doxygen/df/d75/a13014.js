@@ -1,7 +1,8 @@
 var a13014 =
 [
-    [ "CheckCast", "df/d75/a13014.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
-    [ "PrepareSpellScript", "df/d75/a13014.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
-    [ "Register", "df/d75/a13014.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
-    [ "Validate", "df/d75/a13014.html#a9208b9c010bb9cc379c195939351aa45", null ]
+    [ "npc_apothecary_baxter", "df/d75/a13014.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
+    [ "JustDied", "df/d75/a13014.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
+    [ "Reset", "df/d75/a13014.html#afee5103029bd761c48cbf6a11655c44a", null ],
+    [ "UpdateAI", "df/d75/a13014.html#ad06090f599d0fda3a88f3182c990a49f", null ],
+    [ "_scheduler", "df/d75/a13014.html#a6d813041e055f3c2b28be7cba3acde13", null ]
 ];

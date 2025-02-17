@@ -1,7 +1,6 @@
 var a18470 =
 [
-    [ "HandleDummyLaunch", "df/dfd/a18470.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
-    [ "PrepareSpellScript", "df/dfd/a18470.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
-    [ "Register", "df/dfd/a18470.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
-    [ "Validate", "df/dfd/a18470.html#a577166695c1479e3730a70637bc18cf1", null ]
+    [ "npc_captain_brandonAI", "d6/d4c/a18474.html", "d6/d4c/a18474" ],
+    [ "npc_captain_brandon", "df/dfd/a18470.html#ad522dd280882d894b5d32e7c888f2360", null ],
+    [ "GetAI", "df/dfd/a18470.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
 ];

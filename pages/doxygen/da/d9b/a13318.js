@@ -1,6 +1,7 @@
 var a13318 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "d5/dac/a13322.html", "d5/dac/a13322" ],
-    [ "npc_bh_thalorien_dawnseeker", "da/d9b/a13318.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
-    [ "GetAI", "da/d9b/a13318.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
+    [ "HandleAfterCast", "da/d9b/a13318.html#a251ddadd9d26039da542c402e4ee254f", null ],
+    [ "PrepareSpellScript", "da/d9b/a13318.html#a91114aeb4f917ec5138a0c7b20688174", null ],
+    [ "Register", "da/d9b/a13318.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
+    [ "Validate", "da/d9b/a13318.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
 ];

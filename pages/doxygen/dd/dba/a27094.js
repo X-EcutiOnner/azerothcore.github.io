@@ -1,10 +1,6 @@
 var a27094 =
 [
-    [ "guard_shattrath_scryerAI", "dd/dba/a27094.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "dd/dba/a27094.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "dd/dba/a27094.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "dd/dba/a27094.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "dd/dba/a27094.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "dd/dba/a27094.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "dd/dba/a27094.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "go_darkmoon_faire_musicAI", "d4/d23/a27098.html", "d4/d23/a27098" ],
+    [ "go_darkmoon_faire_music", "dd/dba/a27094.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "dd/dba/a27094.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

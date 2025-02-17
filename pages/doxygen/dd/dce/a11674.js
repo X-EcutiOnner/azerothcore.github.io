@@ -1,9 +1,11 @@
 var a11674 =
 [
-    [ "npc_burning_spiritAI", "dd/dce/a11674.html#a52f63423d09794446b0c01da2feb325d", null ],
-    [ "EnterEvadeMode", "dd/dce/a11674.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
-    [ "IsSummonedBy", "dd/dce/a11674.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
-    [ "MovementInform", "dd/dce/a11674.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
-    [ "_events", "dd/dce/a11674.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
-    [ "_flamelasherGUID", "dd/dce/a11674.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
+    [ "spectator_commandscript", "dd/dce/a11674.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
+    [ "GetCommands", "dd/dce/a11674.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
+    [ "HandleSpectatorCommand", "dd/dce/a11674.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
+    [ "HandleSpectatorLeaveCommand", "dd/dce/a11674.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
+    [ "HandleSpectatorResetCommand", "dd/dce/a11674.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
+    [ "HandleSpectatorSpectateCommand", "dd/dce/a11674.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
+    [ "HandleSpectatorVersionCommand", "dd/dce/a11674.html#aaf7c57603d263f7ab919f12d9680f058", null ],
+    [ "HandleSpectatorWatchCommand", "dd/dce/a11674.html#a1ee822e332374b375962d1ae87adbc61", null ]
 ];

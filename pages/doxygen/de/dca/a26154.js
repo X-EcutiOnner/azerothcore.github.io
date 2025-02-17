@@ -1,9 +1,6 @@
 var a26154 =
 [
-    [ "CheckCast", "de/dca/a26154.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
-    [ "HandleActiveObject", "de/dca/a26154.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
-    [ "HandleDummy", "de/dca/a26154.html#a39dd06ae92d04060ee41897318a701fd", null ],
-    [ "Load", "de/dca/a26154.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
-    [ "PrepareSpellScript", "de/dca/a26154.html#a016e480d7b2267c9bf824c9cb029f134", null ],
-    [ "Register", "de/dca/a26154.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
+    [ "HandleScript", "de/dca/a26154.html#ae81570045d4984ee5682a0333b1b142d", null ],
+    [ "PrepareSpellScript", "de/dca/a26154.html#acb074781e07961998362349a7616fc4e", null ],
+    [ "Register", "de/dca/a26154.html#aaf41593da5ebb1118ccb10a5d4d32b26", null ]
 ];

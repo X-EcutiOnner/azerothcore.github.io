@@ -1,6 +1,6 @@
 var a20106 =
 [
-    [ "boss_mimironAI", "d2/d5a/a20110.html", "d2/d5a/a20110" ],
-    [ "boss_mimiron", "d6/de9/a20106.html#a72904837bd85e9f711fcf3da04c459c3", null ],
-    [ "GetAI", "d6/de9/a20106.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
+    [ "HandleAfterEffectApply", "d6/de9/a20106.html#af655bb31dc24a3cede08ca371f784913", null ],
+    [ "PrepareAuraScript", "d6/de9/a20106.html#a1824853d0b369deac0745fabe2df657c", null ],
+    [ "Register", "d6/de9/a20106.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
 ];

@@ -1,6 +1,6 @@
 var a21422 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "d3/dd6/a21426.html", "d3/dd6/a21426" ],
-    [ "npc_conversing_with_the_depths_trigger", "d5/d22/a21422.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
-    [ "GetAI", "d5/d22/a21422.html#a61c337bfe1efb3589cf0df91d9082236", null ]
+    [ "npc_hidden_cultistAI", "d3/dd6/a21426.html", "d3/dd6/a21426" ],
+    [ "npc_hidden_cultist", "d5/d22/a21422.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "d5/d22/a21422.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

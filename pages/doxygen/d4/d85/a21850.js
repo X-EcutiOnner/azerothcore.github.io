@@ -1,6 +1,6 @@
 var a21850 =
 [
-    [ "HandleHealPct", "d4/d85/a21850.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "d4/d85/a21850.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "d4/d85/a21850.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "npc_plaguehound_trackerAI", "d4/d85/a21850.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d4/d85/a21850.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d4/d85/a21850.html#a67c345f49572cde76d9109a1baff6788", null ]
 ];

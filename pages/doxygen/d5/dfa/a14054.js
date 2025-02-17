@@ -1,7 +1,6 @@
 var a14054 =
 [
-    [ "HandleEffectApply", "d5/dfa/a14054.html#a22f3143b10155635194abe22994a397c", null ],
-    [ "HandleEffectRemove", "d5/dfa/a14054.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
-    [ "PrepareAuraScript", "d5/dfa/a14054.html#abb4f53a42e701323b2fc66598ec3503c", null ],
-    [ "Register", "d5/dfa/a14054.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
+    [ "OnApply", "d5/dfa/a14054.html#a4a276b00d4912c210598057620368934", null ],
+    [ "PrepareAuraScript", "d5/dfa/a14054.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
+    [ "Register", "d5/dfa/a14054.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
 ];

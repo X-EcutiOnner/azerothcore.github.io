@@ -1,7 +1,6 @@
 var a15722 =
 [
-    [ "DelayedTalk", "d6/da4/a15722.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
-    [ "Execute", "d6/da4/a15722.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
-    [ "_owner", "d6/da4/a15722.html#a9d13769bb3fbaed32919fc919da35006", null ],
-    [ "_talkId", "d6/da4/a15722.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
+    [ "PrepareSpellScript", "d6/da4/a15722.html#a2a3602af522bb8658c1bfdede1234efd", null ],
+    [ "Register", "d6/da4/a15722.html#aba235111ea4e186064a85295466f2a3f", null ],
+    [ "SetDest", "d6/da4/a15722.html#a89827e4db37bea4847c79265d95386c6", null ]
 ];

@@ -1,9 +1,7 @@
 var a25142 =
 [
-    [ "CheckCast", "db/d13/a25142.html#a005565dd77de97b5aa04553a1d6a0185", null ],
-    [ "HandleScript", "db/d13/a25142.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
-    [ "Load", "db/d13/a25142.html#aadfc8a873c72e31d65001ce00518ca45", null ],
-    [ "PrepareSpellScript", "db/d13/a25142.html#a169b60644259855f0614271e4769f6b9", null ],
-    [ "Register", "db/d13/a25142.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
-    [ "Validate", "db/d13/a25142.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
+    [ "HandleScript", "db/d13/a25142.html#a12f4c4a85f19ceb55d274428cf2b25a4", null ],
+    [ "PrepareSpellScript", "db/d13/a25142.html#acf1173670c35c84ae7aba29be00d31cf", null ],
+    [ "Register", "db/d13/a25142.html#a5a2c59463a0546b6f5cd375b3671b86b", null ],
+    [ "Validate", "db/d13/a25142.html#a437a018fd6917bee51bdbba7cf29e53d", null ]
 ];

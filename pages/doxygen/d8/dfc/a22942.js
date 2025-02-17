@@ -1,9 +1,6 @@
 var a22942 =
 [
-    [ "FilterTargets", "d8/dfc/a22942.html#a9049c113d65b15a9a8e1143980a84b23", null ],
-    [ "HandleDummy", "d8/dfc/a22942.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
-    [ "Load", "d8/dfc/a22942.html#a8cad82701e0147e14f826243175e1c32", null ],
-    [ "PrepareSpellScript", "d8/dfc/a22942.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
-    [ "Register", "d8/dfc/a22942.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
-    [ "_targetNumber", "d8/dfc/a22942.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
+    [ "LeechingThrowSelector", "d8/dfc/a22942.html#a4308c7be06e2e70d3a269b6dc78420cb", null ],
+    [ "operator()", "d8/dfc/a22942.html#a76c7746a9b0aee52201881c4d9572bde", null ],
+    [ "_source", "d8/dfc/a22942.html#a22a123333a8fbd50ccd4c37afe28d2f0", null ]
 ];

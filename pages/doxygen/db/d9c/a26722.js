@@ -1,5 +1,7 @@
 var a26722 =
 [
-    [ "achievement_bg_sa_artillery", "db/d9c/a26722.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "db/d9c/a26722.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "HandleApplyAura", "db/d9c/a26722.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "db/d9c/a26722.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "db/d9c/a26722.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "db/d9c/a26722.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

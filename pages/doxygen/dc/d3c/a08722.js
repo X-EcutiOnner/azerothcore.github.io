@@ -1,13 +1,13 @@
 var a08722 =
 [
-    [ "entry", "dc/d3c/a08722.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
-    [ "height", "dc/d3c/a08722.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
-    [ "length", "dc/d3c/a08722.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
-    [ "map", "dc/d3c/a08722.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
-    [ "orientation", "dc/d3c/a08722.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
-    [ "radius", "dc/d3c/a08722.html#ae4195d9f29b425394296009c22654380", null ],
-    [ "width", "dc/d3c/a08722.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
-    [ "x", "dc/d3c/a08722.html#a423077ceaf75c367831a6d9f55427a6f", null ],
-    [ "y", "dc/d3c/a08722.html#a55ab832828addcef1b2f570bda81f2ce", null ],
-    [ "z", "dc/d3c/a08722.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
+    [ "BuildValuesCachePosPointers", "dc/d3c/a08722.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
+    [ "ApplyOffset", "dc/d3c/a08722.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
+    [ "other", "dc/d3c/a08722.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
+    [ "UnitDynamicFlagsPos", "dc/d3c/a08722.html#a230385a8646ebce01faaadce648b1a61", null ],
+    [ "UnitFieldAuraStatePos", "dc/d3c/a08722.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
+    [ "UnitFieldBytes2Pos", "dc/d3c/a08722.html#aa1df8492f0a3c576b067469ee3552796", null ],
+    [ "UnitFieldDisplayPos", "dc/d3c/a08722.html#a1058d1650d656498f7dcd5139363a315", null ],
+    [ "UnitFieldFactionTemplatePos", "dc/d3c/a08722.html#a9b8eae9da685231956dca3e92b845cbb", null ],
+    [ "UnitFieldFlagsPos", "dc/d3c/a08722.html#a04e607123d1d1dde24611b573d25fedb", null ],
+    [ "UnitNPCFlagsPos", "dc/d3c/a08722.html#aa9412413e1a867d1f3857d18f4d52906", null ]
 ];

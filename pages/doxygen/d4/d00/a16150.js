@@ -1,8 +1,8 @@
 var a16150 =
 [
-    [ "npc_toc_hunterAI", "d4/d00/a16150.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
-    [ "JustSummoned", "d4/d00/a16150.html#aa270248ad9e0c319234ff0741270b465", null ],
-    [ "myCanCast", "d4/d00/a16150.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
-    [ "UpdateAI", "d4/d00/a16150.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
-    [ "events", "d4/d00/a16150.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
+    [ "npc_announcer_toc5AI", "d4/d00/a16150.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
+    [ "DamageTaken", "d4/d00/a16150.html#a53458483699ac026ff2cd36b5f061571", null ],
+    [ "MovementInform", "d4/d00/a16150.html#acdcf4110b3815635ad173a70e7a1e603", null ],
+    [ "Reset", "d4/d00/a16150.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
+    [ "UpdateAI", "d4/d00/a16150.html#ad2c596253d67d051f497a8d77859846d", null ]
 ];

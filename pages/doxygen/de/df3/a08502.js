@@ -1,18 +1,18 @@
 var a08502 =
 [
-    [ "PlayerSocialMap", "de/df3/a08502.html#abfb2167fc86ea41b8cf66eebdaa95ceb", null ],
-    [ "PlayerSocial", "de/df3/a08502.html#ad505f01fad548b70cf070a86dce40278", null ],
-    [ "_checkContact", "de/df3/a08502.html#a56e7be93e0ed5e55e21c2b827e73f16b", null ],
-    [ "AddToSocialList", "de/df3/a08502.html#ae21a947058622c611f8ffc1430f7f3c3", null ],
-    [ "GetNumberOfSocialsWithFlag", "de/df3/a08502.html#ad4b6d7563aa448307c71fd01d0b748c3", null ],
-    [ "GetPlayerGUID", "de/df3/a08502.html#aa14bba47d54e94391d494a6752d45949", null ],
-    [ "HasFriend", "de/df3/a08502.html#a85c9c9320e8fa0c673e75d11d7e7b91c", null ],
-    [ "HasIgnore", "de/df3/a08502.html#ab4a6c0eab682fbdfa98a0a71fa6aced8", null ],
-    [ "RemoveFromSocialList", "de/df3/a08502.html#a8fb0fc85204ea32cc000a2d711f1245b", null ],
-    [ "SendSocialList", "de/df3/a08502.html#aa31ca078f363c5d5f6cfabcc4126fa9b", null ],
-    [ "SetFriendNote", "de/df3/a08502.html#a0ee1c5bebc234010f60f79618b541613", null ],
-    [ "SetPlayerGUID", "de/df3/a08502.html#af913d007399dede4ddf59c2811fc3b8a", null ],
-    [ "SocialMgr", "de/df3/a08502.html#ac90a13e772eca1f96d98f76cfc8bf396", null ],
-    [ "m_playerGUID", "de/df3/a08502.html#accf6a40286cca75dd9d5eed8cc3c6790", null ],
-    [ "m_playerSocialMap", "de/df3/a08502.html#a608444605a276e67a868b7ceac94a954", null ]
+    [ "PlayerInfo", "de/df3/a08502.html#a8a26bdeb267824135b3f84baa2585baa", null ],
+    [ "action", "de/df3/a08502.html#a0f68412598a9741e9b5ce7a42c82d129", null ],
+    [ "areaId", "de/df3/a08502.html#a60d086c6e6879e6c5d8b5a24c0ae7bf8", null ],
+    [ "castSpells", "de/df3/a08502.html#a35ab273058db0828c91f01d823467e02", null ],
+    [ "customSpells", "de/df3/a08502.html#ab40e5fd724fab03afbbd38713e1dd4bf", null ],
+    [ "displayId_f", "de/df3/a08502.html#adf14854368c9351fe2fba3215194f2f9", null ],
+    [ "displayId_m", "de/df3/a08502.html#a2ce7d9aa7fc52bd9768c75b88f88b256", null ],
+    [ "item", "de/df3/a08502.html#ad76819034c64c0c691561eff683b7e57", null ],
+    [ "levelInfo", "de/df3/a08502.html#abbff546bbe2cc0ea643c41456c1f0d9f", null ],
+    [ "mapId", "de/df3/a08502.html#ad8d359374f74de40c1c591bb61976405", null ],
+    [ "orientation", "de/df3/a08502.html#a041a37c356d50860cab9f1ced33a28d0", null ],
+    [ "positionX", "de/df3/a08502.html#a55a076dc53e8c2d0b2ab11b1087ebccd", null ],
+    [ "positionY", "de/df3/a08502.html#a7314ecd469357e2eb46ed3d133a5a7a0", null ],
+    [ "positionZ", "de/df3/a08502.html#ad21a8dd3353d3f141bcc9af65e607aee", null ],
+    [ "skills", "de/df3/a08502.html#a3bec7891e115ab3cff40c3d95174981c", null ]
 ];

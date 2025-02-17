@@ -1,9 +1,8 @@
 var a08942 =
 [
-    [ "GridReference", "dd/dbd/a08942.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
-    [ "~GridReference", "dd/dbd/a08942.html#afd6a4f88eb066818afde1b752600bb12", null ],
-    [ "next", "dd/dbd/a08942.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
-    [ "sourceObjectDestroyLink", "dd/dbd/a08942.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
-    [ "targetObjectBuildLink", "dd/dbd/a08942.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
-    [ "targetObjectDestroyLink", "dd/dbd/a08942.html#ac4c863d059b5c826e9597056dc7c887a", null ]
+    [ "MailLevelReward", "dd/dbd/a08942.html#accd52642cbbab457b69dba54a6ffa23b", null ],
+    [ "MailLevelReward", "dd/dbd/a08942.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
+    [ "mailTemplateId", "dd/dbd/a08942.html#afdf6684bcd2751822bd00ba1509ef933", null ],
+    [ "raceMask", "dd/dbd/a08942.html#a341088acd89b79161d932367f4f1798d", null ],
+    [ "senderEntry", "dd/dbd/a08942.html#a2b678ac953209691b38d583cffab55b5", null ]
 ];

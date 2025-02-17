@@ -1,9 +1,13 @@
 var a13718 =
 [
-    [ "boss_hazzarah", "dc/db0/a13718.html#a73ba49b91addc9c03e1692587fe66a52", null ],
-    [ "CanAIAttack", "dc/db0/a13718.html#a9038a5b4276fda8a6865217a7c494eec", null ],
-    [ "JustEngagedWith", "dc/db0/a13718.html#a18e382c03ff923bb851a9cd8e2541788", null ],
-    [ "JustSummoned", "dc/db0/a13718.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
-    [ "SummonedCreatureDies", "dc/db0/a13718.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
-    [ "UpdateAI", "dc/db0/a13718.html#a61d92f1650a84ed9684d33879e54bd09", null ]
+    [ "npc_forest_frog", "dc/db0/a13718.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
+    [ "DoSpawnRandom", "dc/db0/a13718.html#aac140826b8c4b7ce55925b5abeee936e", null ],
+    [ "JustEngagedWith", "dc/db0/a13718.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
+    [ "MovementInform", "dc/db0/a13718.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
+    [ "SpellHit", "dc/db0/a13718.html#a9501955507e1f236bb48384928fd6a32", null ],
+    [ "UpdateAI", "dc/db0/a13718.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
+    [ "events", "dc/db0/a13718.html#a8ef7e1eb3d7196c070cc3b6618291dc0", null ],
+    [ "eventTimer", "dc/db0/a13718.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
+    [ "instance", "dc/db0/a13718.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
+    [ "PlayerGUID", "dc/db0/a13718.html#a3544a83bb22e12d247e562ef32e378c0", null ]
 ];

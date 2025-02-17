@@ -1,13 +1,9 @@
 var a08998 =
 [
-    [ "WorldObjectWorker", "d8/df9/a08998.html#a15dd68579f1a92f015cfac8577db7422", null ],
-    [ "Visit", "d8/df9/a08998.html#ae264461e49602fd0b8a17e30ed554c64", null ],
-    [ "Visit", "d8/df9/a08998.html#a3021825347d132f1368a77d29a8318df", null ],
-    [ "Visit", "d8/df9/a08998.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
-    [ "Visit", "d8/df9/a08998.html#a7de6ea339a8113d242dd099ca4d36927", null ],
-    [ "Visit", "d8/df9/a08998.html#a29196fa36ce32a0cec68d0d67372a400", null ],
-    [ "Visit", "d8/df9/a08998.html#a17097541c49264c15ebfe474f54aeca2", null ],
-    [ "i_do", "d8/df9/a08998.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
-    [ "i_mapTypeMask", "d8/df9/a08998.html#a6f8e447b9693154f56ce010869acadb9", null ],
-    [ "i_phaseMask", "d8/df9/a08998.html#affa6245985c5d271900be12104ab6bb6", null ]
+    [ "CellArea", "d8/df9/a08998.html#ace8ca84753b4ec8681415386fb135053", null ],
+    [ "CellArea", "d8/df9/a08998.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
+    [ "operator!", "d8/df9/a08998.html#a386d4a562c27155012daedc361541e3b", null ],
+    [ "ResizeBorders", "d8/df9/a08998.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
+    [ "high_bound", "d8/df9/a08998.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
+    [ "low_bound", "d8/df9/a08998.html#a374fe9802c798e6ece359a8025b6e1df", null ]
 ];

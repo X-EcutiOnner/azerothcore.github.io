@@ -1,6 +1,5 @@
 var a27502 =
 [
-    [ "npc_fireworkAI", "d6/dec/a27506.html", "d6/dec/a27506" ],
-    [ "npc_firework", "de/d71/a27502.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "de/d71/a27502.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "npc_controller", "de/d71/a27502.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "de/d71/a27502.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

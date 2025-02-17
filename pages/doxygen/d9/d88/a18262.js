@@ -1,8 +1,5 @@
 var a18262 =
 [
-    [ "FilterTargets", "d9/d88/a18262.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
-    [ "HandleForceCast", "d9/d88/a18262.html#ae783cf255be823bf7c9125f288479e97", null ],
-    [ "Load", "d9/d88/a18262.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
-    [ "PrepareSpellScript", "d9/d88/a18262.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
-    [ "Register", "d9/d88/a18262.html#a454a8909be4bb85f255ea696041ea447", null ]
+    [ "achievement_neck_deep_in_vile", "d9/d88/a18262.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "d9/d88/a18262.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

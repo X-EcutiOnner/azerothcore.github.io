@@ -1,8 +1,9 @@
 var a12274 =
 [
-    [ "FilterTargets", "d5/d3c/a12274.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
-    [ "HandleScript", "d5/d3c/a12274.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
-    [ "PrepareSpellScript", "d5/d3c/a12274.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
-    [ "Register", "d5/d3c/a12274.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
-    [ "Validate", "d5/d3c/a12274.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
+    [ "HandleAfterApply", "d5/d3c/a12274.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
+    [ "HandleAfterRemove", "d5/d3c/a12274.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
+    [ "PeriodicTick", "d5/d3c/a12274.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
+    [ "PrepareAuraScript", "d5/d3c/a12274.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
+    [ "Register", "d5/d3c/a12274.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
+    [ "Validate", "d5/d3c/a12274.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
 ];

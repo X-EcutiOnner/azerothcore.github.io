@@ -1,7 +1,7 @@
 var a10934 =
 [
-    [ "WorldObjectSpellNearbyTargetCheck", "dd/d3a/a10934.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
-    [ "operator()", "dd/d3a/a10934.html#a731ee07d028a5ee63ecd14321c83664d", null ],
-    [ "_position", "dd/d3a/a10934.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
-    [ "_range", "dd/d3a/a10934.html#abfec0df490876b2b83dcdee4da75a77f", null ]
+    [ "Player", "dd/d3a/a10934.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "dd/d3a/a10934.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "FactionChange", "dd/d3a/a10934.html#adff657ead29df26ead5e20a8ecf44e87", null ],
+    [ "Race", "dd/d3a/a10934.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
 ];

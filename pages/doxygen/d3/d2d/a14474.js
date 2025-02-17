@@ -1,7 +1,6 @@
 var a14474 =
 [
-    [ "npc_cos_chromie_middle", "d3/d2d/a14474.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "d3/d2d/a14474.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "d3/d2d/a14474.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "d3/d2d/a14474.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "FilterTargets", "d3/d2d/a14474.html#a45b0713b2942199bf0e19752fe765aac", null ],
+    [ "PrepareSpellScript", "d3/d2d/a14474.html#a7f7177d7754a99743202f69a0342f587", null ],
+    [ "Register", "d3/d2d/a14474.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
 ];

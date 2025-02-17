@@ -1,6 +1,5 @@
 var a17686 =
 [
-    [ "ExtraRemoveEffect", "de/d2a/a17686.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
-    [ "PrepareAuraScript", "de/d2a/a17686.html#a41992ed6c23275d3a910915755b682f9", null ],
-    [ "Register", "de/d2a/a17686.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
+    [ "npc_volatile_oozeAI", "de/d2a/a17686.html#af042d4c22482aabcdad6fa867dfe093f", null ],
+    [ "CastMainSpell", "de/d2a/a17686.html#a91890785174ecc60c9553a0aedf1961b", null ]
 ];

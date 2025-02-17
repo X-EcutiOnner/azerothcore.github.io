@@ -1,7 +1,7 @@
 var a16550 =
 [
-    [ "OnRemove", "d9/dea/a16550.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "d9/dea/a16550.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "d9/dea/a16550.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "d9/dea/a16550.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "HandleScriptEffect", "d9/dea/a16550.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "d9/dea/a16550.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "d9/dea/a16550.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "d9/dea/a16550.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

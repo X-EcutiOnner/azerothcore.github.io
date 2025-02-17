@@ -1,9 +1,6 @@
 var a19038 =
 [
-    [ "HandleApply", "d1/d00/a19038.html#a29679ed64fc288dc0e85beed2971d4be", null ],
-    [ "HandleRemove", "d1/d00/a19038.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
-    [ "Load", "d1/d00/a19038.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
-    [ "PrepareAuraScript", "d1/d00/a19038.html#a2804f25643e59f3922291abcb055b641", null ],
-    [ "Register", "d1/d00/a19038.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
-    [ "Validate", "d1/d00/a19038.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
+    [ "boss_naxxramas_miscAI", "d9/d94/a19042.html", "d9/d94/a19042" ],
+    [ "boss_naxxramas_misc", "d1/d00/a19038.html#a9cbca6381ba430739918064d5556b8fb", null ],
+    [ "GetAI", "d1/d00/a19038.html#a2972b551be161560b6df00e2105f2ce4", null ]
 ];

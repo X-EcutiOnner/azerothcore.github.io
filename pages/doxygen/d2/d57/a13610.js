@@ -1,6 +1,7 @@
 var a13610 =
 [
-    [ "OnEffect", "d2/d57/a13610.html#ab87d53faac04ced3c11088e260782068", null ],
-    [ "PrepareSpellScript", "d2/d57/a13610.html#af618e8d84029dda5e48b699cbcf671be", null ],
-    [ "Register", "d2/d57/a13610.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
+    [ "npc_daphne_stilwellAI", "dc/d3f/a13614.html", "dc/d3f/a13614" ],
+    [ "npc_daphne_stilwell", "d2/d57/a13610.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "d2/d57/a13610.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "d2/d57/a13610.html#ad7b293efc802506a825f202e34cb0f4d", null ]
 ];

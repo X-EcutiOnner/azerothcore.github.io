@@ -1,8 +1,6 @@
 var a23178 =
 [
-    [ "ApplyStun", "d2/d85/a23178.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "d2/d85/a23178.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "d2/d85/a23178.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "d2/d85/a23178.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "d2/d85/a23178.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "d3/d76/a23182.html", "d3/d76/a23182" ],
+    [ "instance_the_slave_pens", "d2/d85/a23178.html#a765f7b66ad3bed1828524ecb143742f2", null ],
+    [ "GetInstanceScript", "d2/d85/a23178.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
 ];

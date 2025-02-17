@@ -1,9 +1,5 @@
 var a22550 =
 [
-    [ "HandleAfterCast", "d6/d1a/a22550.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
-    [ "HandleDummy", "d6/d1a/a22550.html#ae94594e337c2e0e6864f3723df8349bf", null ],
-    [ "Load", "d6/d1a/a22550.html#a301008eff6b13a43070b3916925391ae", null ],
-    [ "PrepareSpellScript", "d6/d1a/a22550.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
-    [ "Register", "d6/d1a/a22550.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
-    [ "_targetCount", "d6/d1a/a22550.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
+    [ "ChargeTargetSelector", "d6/d1a/a22550.html#a064e7d9008bfc85b7c636490c7aaf714", null ],
+    [ "operator()", "d6/d1a/a22550.html#a596223da822f5a08281fe709cca95909", null ]
 ];

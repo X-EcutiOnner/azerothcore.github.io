@@ -1,12 +1,7 @@
 var a07114 =
 [
-    [ "Arena", "d4/dff/a07114.html#a74f105bc709d4728fb07f1984abfd345", null ],
-    [ "AddPlayer", "d4/dff/a07114.html#ae24fe304d35c0c09379203135e936450", null ],
-    [ "CheckWinConditions", "d4/dff/a07114.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
-    [ "EndBattleground", "d4/dff/a07114.html#a2be61602189b530a16a9ca954d180914", null ],
-    [ "FillInitialWorldStates", "d4/dff/a07114.html#a41e53f03488058fb635e42b525db5068", null ],
-    [ "HandleKillPlayer", "d4/dff/a07114.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
-    [ "RemovePlayer", "d4/dff/a07114.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
-    [ "RemovePlayerAtLeave", "d4/dff/a07114.html#acae21233e11b21b612e5c051bfa7720e", null ],
-    [ "UpdateArenaWorldState", "d4/dff/a07114.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
+    [ "BfGraveyardWG", "d4/dff/a07114.html#a040af569e6633e4ed4c7513b55d034ac", null ],
+    [ "GetTextId", "d4/dff/a07114.html#ae1dfdc2d5a36f10f1a116d56b27545ed", null ],
+    [ "SetTextId", "d4/dff/a07114.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
+    [ "m_GossipTextId", "d4/dff/a07114.html#ab85d716c0b93f8a17d7bf0dccabc21c6", null ]
 ];

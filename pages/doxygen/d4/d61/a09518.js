@@ -1,25 +1,7 @@
 var a09518 =
 [
-    [ "MailItemMap", "d4/d61/a09518.html#afad4472f25a020fd6c8d6452840d021c", null ],
-    [ "MailDraft", "d4/d61/a09518.html#a8a7a37890b6a280f2b08659e5e59b354", null ],
-    [ "MailDraft", "d4/d61/a09518.html#adbadad7d9522146672759298c981f7db", null ],
-    [ "AddCOD", "d4/d61/a09518.html#a8d863191bb48369359ad170aab7145e0", null ],
-    [ "AddItem", "d4/d61/a09518.html#ae0c2b4bac4dd8f2a8c53608c45cbb11a", null ],
-    [ "AddMoney", "d4/d61/a09518.html#a4d0be4ea780f25c5302278b5748b6a6b", null ],
-    [ "deleteIncludedItems", "d4/d61/a09518.html#a0b5a445213d5fcc598ed016f1cbf2cf8", null ],
-    [ "GetBody", "d4/d61/a09518.html#ae60b40718fffcdda286161e342d1738d", null ],
-    [ "GetCOD", "d4/d61/a09518.html#a2b4d799ab7ec945b60c07747981ad0a5", null ],
-    [ "GetMailTemplateId", "d4/d61/a09518.html#ab5906ccf0213f8be241fbb177fef53bd", null ],
-    [ "GetMoney", "d4/d61/a09518.html#a461ee77c1d85b07513d5f453c8c8507a", null ],
-    [ "GetSubject", "d4/d61/a09518.html#a671268ee9b384c5c8c954bb62b3a41a0", null ],
-    [ "prepareItems", "d4/d61/a09518.html#ad6481e16a4dbe15b30a942278943c1d2", null ],
-    [ "SendMailTo", "d4/d61/a09518.html#aaee8965aaa66351954bdc7db246151d7", null ],
-    [ "SendReturnToSender", "d4/d61/a09518.html#ab57f00b07519984be8e0f3eb03955ee2", null ],
-    [ "m_body", "d4/d61/a09518.html#aea4413d56053710844b37518596e7b38", null ],
-    [ "m_COD", "d4/d61/a09518.html#a73472d56d74d215494975e6ce6580008", null ],
-    [ "m_items", "d4/d61/a09518.html#a58eef2cacd7834941404a366afc52a9d", null ],
-    [ "m_mailTemplateId", "d4/d61/a09518.html#a8a7997191ebeaebbdd78677c99409278", null ],
-    [ "m_mailTemplateItemsNeed", "d4/d61/a09518.html#aa8fced0ed98a18667c9d9a55027e99e9", null ],
-    [ "m_money", "d4/d61/a09518.html#a8915b8116364db1265eba0ce0d0471c2", null ],
-    [ "m_subject", "d4/d61/a09518.html#aa71d5223f51ffe20c1bf0c91f567d6f8", null ]
+    [ "AddonHandler", "d4/d61/a09518.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
+    [ "~AddonHandler", "d4/d61/a09518.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
+    [ "BuildAddonPacket", "d4/d61/a09518.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
+    [ "instance", "d4/d61/a09518.html#a2925b829b803dd07e96685086357ef85", null ]
 ];

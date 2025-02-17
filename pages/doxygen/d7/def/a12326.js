@@ -1,11 +1,10 @@
 var a12326 =
 [
-    [ "boss_mr_smiteAI", "d7/def/a12326.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
-    [ "JustEngagedWith", "d7/def/a12326.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
-    [ "MovementInform", "d7/def/a12326.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
-    [ "Reset", "d7/def/a12326.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
-    [ "UpdateAI", "d7/def/a12326.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
-    [ "events", "d7/def/a12326.html#a3471692c39233f3c25cdc875c0078f2c", null ],
-    [ "health34", "d7/def/a12326.html#adc83683c2f6a7073469cd2f5aa325717", null ],
-    [ "health67", "d7/def/a12326.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
+    [ "npc_core_ragerAI", "d7/def/a12326.html#a3c5125e0a10043f6181c10ba749fa579", null ],
+    [ "DamageTaken", "d7/def/a12326.html#a758eb158eb9d232d74514281028efcb3", null ],
+    [ "Reset", "d7/def/a12326.html#acf83e469d3d8108276227a942fda28b3", null ],
+    [ "UpdateAI", "d7/def/a12326.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
+    [ "instance", "d7/def/a12326.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
+    [ "mangleTimer", "d7/def/a12326.html#a081333b967abb3812b9ddae2f933a324", null ],
+    [ "rangeCheckTimer", "d7/def/a12326.html#ade427bdd9ec99807b6f190c890136414", null ]
 ];

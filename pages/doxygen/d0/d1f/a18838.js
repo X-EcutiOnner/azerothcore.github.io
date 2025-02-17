@@ -1,11 +1,21 @@
 var a18838 =
 [
-    [ "boss_patchwerkAI", "d0/d1f/a18838.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "d0/d1f/a18838.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "d0/d1f/a18838.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "d0/d1f/a18838.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "d0/d1f/a18838.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "d0/d1f/a18838.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "d0/d1f/a18838.html#a00c98ee5cdb3c512ba0d92a48d441006", null ],
-    [ "pInstance", "d0/d1f/a18838.html#a78a3e9a6ef289e82c3ccaedc4399607a", null ]
+    [ "boss_gothikAI", "d0/d1f/a18838.html#a18ae481969ed0885122058b0ebf98cc8", null ],
+    [ "CheckGroupSplitted", "d0/d1f/a18838.html#a1efec7ad0793812f83e808b961059875", null ],
+    [ "DamageTaken", "d0/d1f/a18838.html#a40e40340002d05d97aa944c14af4030c", null ],
+    [ "IsInRoom", "d0/d1f/a18838.html#a73b20994a1949731b83a3a28b70ad9d1", null ],
+    [ "JustDied", "d0/d1f/a18838.html#a9c4e6647c05785664cd23fce73d8ca87", null ],
+    [ "JustEngagedWith", "d0/d1f/a18838.html#aa2e622be4faa605aa7b13af333bd1a91", null ],
+    [ "JustSummoned", "d0/d1f/a18838.html#a9bbe9412721e4173ef37a1dbd494c262", null ],
+    [ "KilledUnit", "d0/d1f/a18838.html#adde94c95fcfe2cacee16b06f73528651", null ],
+    [ "Reset", "d0/d1f/a18838.html#a31f3993b01755f45f3fe997d599a52d4", null ],
+    [ "SummonedCreatureDespawn", "d0/d1f/a18838.html#a2223b2c287b2b21a7377ed49b2a65628", null ],
+    [ "SummonHelpers", "d0/d1f/a18838.html#aaa751f216763deba29fde2d0aba09567", null ],
+    [ "UpdateAI", "d0/d1f/a18838.html#ada9b63a61fc4c8abb60fdff30fb9487d", null ],
+    [ "events", "d0/d1f/a18838.html#a756a5816615e02be0fc8308cc5088e49", null ],
+    [ "gateOpened", "d0/d1f/a18838.html#ad2de325f3fde87679503664de81a911e", null ],
+    [ "pInstance", "d0/d1f/a18838.html#ad4c7722be225a16f12abbb2207dc4101", null ],
+    [ "secondPhase", "d0/d1f/a18838.html#a1e4526d104670d4899ef6dd5760c2437", null ],
+    [ "summons", "d0/d1f/a18838.html#aa1786f68bc52722dead6d9a6c131d6cb", null ],
+    [ "waveCount", "d0/d1f/a18838.html#a4ed9dfac7e4d22fcb1f8396ca1318073", null ]
 ];

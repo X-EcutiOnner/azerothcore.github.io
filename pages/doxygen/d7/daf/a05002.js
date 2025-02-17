@@ -1,8 +1,6 @@
 var a05002 =
 [
-    [ "MeshTriangle", "d7/daf/a05002.html#af99ecf0b02af73e6727095df1dce8422", null ],
-    [ "MeshTriangle", "d7/daf/a05002.html#a36109fc79a9ca9c6bf19959fd1493e60", null ],
-    [ "idx0", "d7/daf/a05002.html#aed1048a2b6745215a7b8f70dec378371", null ],
-    [ "idx1", "d7/daf/a05002.html#a560bb163f63ff7202aade4d115f31664", null ],
-    [ "idx2", "d7/daf/a05002.html#ac939c5e66526c67c067288b9d6484cac", null ]
+    [ "Read", "d7/daf/a05002.html#a652bcf37d435efc3fb82f4d8cbf00e51", null ],
+    [ "groupsArray", "d7/daf/a05002.html#a79b2d93c2929aaddac1004aed4ecdd85", null ],
+    [ "RootWMOID", "d7/daf/a05002.html#a6b9058e7062c970438c79f08103c3c61", null ]
 ];

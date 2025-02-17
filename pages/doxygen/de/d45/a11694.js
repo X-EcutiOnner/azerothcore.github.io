@@ -1,6 +1,12 @@
 var a11694 =
 [
-    [ "boss_evisceratorAI", "dd/da4/a11698.html", "dd/da4/a11698" ],
-    [ "boss_eviscerator", "de/d45/a11694.html#aca65400afa5ca9ca81043687d79cdad0", null ],
-    [ "GetAI", "de/d45/a11694.html#a21203f69267ec93c46d9ff56321b8169", null ]
+    [ "wp_commandscript", "de/d45/a11694.html#a152610b5faf3ee05bb830bbf820b7162", null ],
+    [ "GetCommands", "de/d45/a11694.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
+    [ "HandleWpAddCommand", "de/d45/a11694.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
+    [ "HandleWpEventCommand", "de/d45/a11694.html#a16fdb79724677307198ccf2fd6aa670d", null ],
+    [ "HandleWpLoadCommand", "de/d45/a11694.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
+    [ "HandleWpModifyCommand", "de/d45/a11694.html#a83677a6b64c3e5f6e44345026775721a", null ],
+    [ "HandleWpReloadCommand", "de/d45/a11694.html#a671598d3727fa7e9358391008c690cb6", null ],
+    [ "HandleWpShowCommand", "de/d45/a11694.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
+    [ "HandleWpUnLoadCommand", "de/d45/a11694.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
 ];

@@ -1,6 +1,5 @@
 var a20082 =
 [
-    [ "HandleInstaKill", "df/db3/a20082.html#a593786eb89bf77e05dad4b502ffc1925", null ],
-    [ "PrepareSpellScript", "df/db3/a20082.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
-    [ "Register", "df/db3/a20082.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
+    [ "FlashFreezeCheck", "df/db3/a20082.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "df/db3/a20082.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

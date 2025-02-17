@@ -1,10 +1,6 @@
 var a23210 =
 [
-    [ "boss_blindeye_the_seer", "d7/da6/a23210.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
-    [ "JustDied", "d7/da6/a23210.html#ad70a72b18587da82d26bde8f10d63700", null ],
-    [ "JustEngagedWith", "d7/da6/a23210.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
-    [ "Reset", "d7/da6/a23210.html#aabbda75266615f64ce88ce092e68bfa4", null ],
-    [ "UpdateAI", "d7/da6/a23210.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
-    [ "_scheduler", "d7/da6/a23210.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
-    [ "instance", "d7/da6/a23210.html#a74462f26d66da3ca370825858060b1c2", null ]
+    [ "instance_steam_vault_InstanceMapScript", "da/d3c/a23214.html", "da/d3c/a23214" ],
+    [ "instance_steam_vault", "d7/da6/a23210.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "d7/da6/a23210.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

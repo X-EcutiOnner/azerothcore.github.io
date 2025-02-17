@@ -1,11 +1,6 @@
 var a14390 =
 [
-    [ "npc_hyjal_ground_trash", "dc/d97/a14390.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
-    [ "AttackStart", "dc/d97/a14390.html#a0ab86d651644dcc579585176c2b5c07e", null ],
-    [ "DoAction", "dc/d97/a14390.html#aa92481bcf993c4eda5ef271145200d77", null ],
-    [ "GetNearbyFriendlyTrashCreature", "dc/d97/a14390.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
-    [ "JustEngagedWith", "dc/d97/a14390.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
-    [ "PathEndReached", "dc/d97/a14390.html#a035610284a56e690200f978b0fd496ab", null ],
-    [ "Reset", "dc/d97/a14390.html#aa38b45f63841c049a2add0a9832268ef", null ],
-    [ "UpdateAI", "dc/d97/a14390.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
+    [ "HandleScriptEffect", "dc/d97/a14390.html#aebd700897688157ca62405c92fe58680", null ],
+    [ "PrepareSpellScript", "dc/d97/a14390.html#a09e11d1938279a2302fb8805e71c6c36", null ],
+    [ "Register", "dc/d97/a14390.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
 ];

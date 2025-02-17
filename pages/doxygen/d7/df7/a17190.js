@@ -1,6 +1,6 @@
 var a17190 =
 [
-    [ "npc_icc_blood_beastAI", "d8/d62/a17194.html", "d8/d62/a17194" ],
-    [ "npc_icc_blood_beast", "d7/df7/a17190.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
-    [ "GetAI", "d7/df7/a17190.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
+    [ "PrepareSpellScript", "d7/df7/a17190.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "d7/df7/a17190.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "d7/df7/a17190.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

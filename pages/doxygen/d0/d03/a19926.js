@@ -1,6 +1,6 @@
 var a19926 =
 [
-    [ "npc_ulduar_hodir_shamanAI", "db/da7/a19930.html", "db/da7/a19930" ],
-    [ "npc_ulduar_hodir_shaman", "d0/d03/a19926.html#ae73a416c72441ab531d8a5db88183d47", null ],
-    [ "GetAI", "d0/d03/a19926.html#ab06a67b72a3954c65792a478ac90672c", null ]
+    [ "boss_freya_nature_bombAI", "db/da7/a19930.html", "db/da7/a19930" ],
+    [ "boss_freya_nature_bomb", "d0/d03/a19926.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
+    [ "GetAI", "d0/d03/a19926.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
 ];

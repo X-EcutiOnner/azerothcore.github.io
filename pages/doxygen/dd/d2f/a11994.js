@@ -1,6 +1,11 @@
 var a11994 =
 [
-    [ "FilterTargets", "dd/d2f/a11994.html#ac630fb5f068e4d26adb078b118994c45", null ],
-    [ "PrepareSpellScript", "dd/d2f/a11994.html#a5f4986bfad79573e65d56ff276c49914", null ],
-    [ "Register", "dd/d2f/a11994.html#aa1f5838d43871fd7908ea3b914666000", null ]
+    [ "boss_quartermaster_zigris", "dd/d2f/a11994.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
+    [ "DamageTaken", "dd/d2f/a11994.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
+    [ "JustDied", "dd/d2f/a11994.html#a9295bbcffd7968051a789e8dfb634e23", null ],
+    [ "JustEngagedWith", "dd/d2f/a11994.html#af482c06e00e7f6c15b290115998a27a9", null ],
+    [ "Reset", "dd/d2f/a11994.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
+    [ "SpellHitTarget", "dd/d2f/a11994.html#a38197746cc73ada1378e6e1a5555ef79", null ],
+    [ "UpdateAI", "dd/d2f/a11994.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
+    [ "_hasDrunkPotion", "dd/d2f/a11994.html#a25335533bc43171687e03f1ed22d4fb3", null ]
 ];

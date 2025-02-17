@@ -1,6 +1,7 @@
 var a18406 =
 [
-    [ "HandleEvent", "d8/dfd/a18406.html#a7936a64a1142a47b2addfd746dccfcef", null ],
-    [ "PrepareSpellScript", "d8/dfd/a18406.html#a00e2be07131c674558d0364df98849ab", null ],
-    [ "Register", "d8/dfd/a18406.html#a89364583504d2eaa75473586850bc3d5", null ]
+    [ "FrostwingVrykulSearcher", "d8/dfd/a18406.html#a10aa54184b42a0538dc4f325204399e9", null ],
+    [ "operator()", "d8/dfd/a18406.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
+    [ "_range", "d8/dfd/a18406.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
+    [ "_source", "d8/dfd/a18406.html#af5d3c93f41698e71c867336d0453d40a", null ]
 ];

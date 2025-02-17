@@ -1,7 +1,6 @@
 var a24762 =
 [
-    [ "HandleEffectApply", "da/deb/a24762.html#a97a639459622c9e3e995057989cf9eda", null ],
-    [ "HandleEffectRemove", "da/deb/a24762.html#a7477bb78ffcc082c111bad4e93b9fd73", null ],
-    [ "PrepareAuraScript", "da/deb/a24762.html#aa3c4018e18eccd8f12e4607f4bc630ec", null ],
-    [ "Register", "da/deb/a24762.html#a40793c696a759db4920c4c34f5b9fa66", null ]
+    [ "OnPeriodic", "da/deb/a24762.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "da/deb/a24762.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "da/deb/a24762.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

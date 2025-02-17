@@ -1,13 +1,6 @@
 var a22206 =
 [
-    [ "OPvPCapturePointEP_PWT", "df/da6/a22206.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
-    [ "ChangeState", "df/da6/a22206.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
-    [ "FillInitialWorldStates", "df/da6/a22206.html#a823b74c3f4e2dac7e02b060ccfb93c89", null ],
-    [ "HandlePlayerEnter", "df/da6/a22206.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
-    [ "HandlePlayerLeave", "df/da6/a22206.html#a5772e54263c613eee365856def5e74e6", null ],
-    [ "SendChangePhase", "df/da6/a22206.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
-    [ "SummonFlightMaster", "df/da6/a22206.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
-    [ "UpdateTowerState", "df/da6/a22206.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
-    [ "m_FlightMasterSpawnedId", "df/da6/a22206.html#afeefd804849b925e6d0a880d8efb5319", null ],
-    [ "m_TowerState", "df/da6/a22206.html#a914dcbb37baf457750cfe9829d95d88c", null ]
+    [ "HandleSummon", "df/da6/a22206.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
+    [ "PrepareSpellScript", "df/da6/a22206.html#ae7f071e9d9a82892be31090385679c9f", null ],
+    [ "Register", "df/da6/a22206.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
 ];

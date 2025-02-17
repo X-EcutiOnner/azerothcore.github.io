@@ -1,8 +1,6 @@
 var a10582 =
 [
-    [ "PlayObjectSound", "df/d78/a10582.html#ab322044d36abddeb2fafbf99261bb70b", null ],
-    [ "PlayObjectSound", "df/d78/a10582.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
-    [ "Write", "df/d78/a10582.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
-    [ "SoundKitID", "df/d78/a10582.html#a5e794706b8793d164a1189e9a6918735", null ],
-    [ "SourceObjectGUID", "df/d78/a10582.html#a82b226eba66e569c1f377f529e511361", null ]
+    [ "GuildPromoteMember", "df/d78/a10582.html#af623a381aa80e827c2c29987501626ae", null ],
+    [ "Read", "df/d78/a10582.html#a3350c1a8c81aa1368a254288849b462b", null ],
+    [ "Promotee", "df/d78/a10582.html#af8addf6e9bc45364f595582e8f285cde", null ]
 ];

@@ -1,6 +1,8 @@
 var a12626 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "d0/d06/a12630.html", "d0/d06/a12630" ],
-    [ "instance_magisters_terrace", "da/d03/a12626.html#a81e23ce04c4d765193d2d2763ef78987", null ],
-    [ "GetInstanceScript", "da/d03/a12626.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
+    [ "npc_cyclone", "da/d03/a12626.html#afdc4f98b031f832702929c6a7f192ab5", null ],
+    [ "JustEngagedWith", "da/d03/a12626.html#a61d0710868c91f707643a436c0d79485", null ],
+    [ "Reset", "da/d03/a12626.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
+    [ "UpdateAI", "da/d03/a12626.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
+    [ "_scheduler", "da/d03/a12626.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
 ];

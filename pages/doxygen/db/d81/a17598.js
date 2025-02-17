@@ -1,11 +1,12 @@
 var a17598 =
 [
-    [ "Load", "db/d81/a17598.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "db/d81/a17598.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "db/d81/a17598.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "db/d81/a17598.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "db/d81/a17598.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "db/d81/a17598.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "db/d81/a17598.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "db/d81/a17598.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "npc_darnavanAI", "db/d81/a17598.html#ae06019c24910c873877398f29f5a1737", null ],
+    [ "JustDied", "db/d81/a17598.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
+    [ "JustEngagedWith", "db/d81/a17598.html#acbaedacea5ad19d82002c25b68623a27", null ],
+    [ "MovementInform", "db/d81/a17598.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
+    [ "Reset", "db/d81/a17598.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
+    [ "UpdateAI", "db/d81/a17598.html#a2b3b5e168989db21fc047acaf01413d9", null ],
+    [ "_canCharge", "db/d81/a17598.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
+    [ "_canShatter", "db/d81/a17598.html#aa7750edc8051c8ee453143491dccf122", null ],
+    [ "events", "db/d81/a17598.html#aa8a022ccb1367432480f72d305c752ac", null ]
 ];

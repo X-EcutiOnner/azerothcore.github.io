@@ -1,6 +1,9 @@
 var a21842 =
 [
-    [ "npc_frostbrood_skytalonAI", "d1/d47/a21846.html", "d1/d47/a21846" ],
-    [ "npc_frostbrood_skytalon", "dc/dbc/a21842.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "dc/dbc/a21842.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "npc_Apothecary_HanesAI", "dc/dbc/a21842.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "dc/dbc/a21842.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "dc/dbc/a21842.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "dc/dbc/a21842.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "dc/dbc/a21842.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "PotTimer", "dc/dbc/a21842.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

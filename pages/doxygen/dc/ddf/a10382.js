@@ -1,6 +1,7 @@
 var a10382 =
 [
-    [ "GuildUpdateMotdText", "dc/ddf/a10382.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "dc/ddf/a10382.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "dc/ddf/a10382.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "AutoBankItem", "dc/ddf/a10382.html#a02d39ddc9eda90be709b2fa9c1f6023d", null ],
+    [ "Read", "dc/ddf/a10382.html#a8651192c6040cdf5d257c134dde1208c", null ],
+    [ "Bag", "dc/ddf/a10382.html#a69f9b65ecb778c94c6e9278e5f98d31b", null ],
+    [ "Slot", "dc/ddf/a10382.html#a970f2ca85a76de1a25ad40a9ebf0029f", null ]
 ];

@@ -1,8 +1,6 @@
 var a24122 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "d6/d10/a24122.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "d6/d10/a24122.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "d6/d10/a24122.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "d6/d10/a24122.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "d6/d10/a24122.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "PrepareSpellScript", "d6/d10/a24122.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
+    [ "Register", "d6/d10/a24122.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
+    [ "SetDest", "d6/d10/a24122.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
 ];

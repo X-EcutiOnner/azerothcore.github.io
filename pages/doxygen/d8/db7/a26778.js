@@ -1,5 +1,6 @@
 var a26778 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "d8/db7/a26778.html#aa2e9a01adad7e195860bbc6c55131024", null ],
-    [ "OnTrigger", "d8/db7/a26778.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
+    [ "FilterTargets", "d8/db7/a26778.html#a6224b3193474f569d09edaf29b40c2fb", null ],
+    [ "PrepareSpellScript", "d8/db7/a26778.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
+    [ "Register", "d8/db7/a26778.html#a2fab1592d19331239b1ef63045389886", null ]
 ];

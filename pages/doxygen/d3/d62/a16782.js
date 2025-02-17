@@ -1,7 +1,9 @@
 var a16782 =
 [
-    [ "npc_pos_icicle_triggerAI", "d3/d62/a16782.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
-    [ "UpdateAI", "d3/d62/a16782.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
-    [ "pInstance", "d3/d62/a16782.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
-    [ "timer", "d3/d62/a16782.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
+    [ "npc_hor_risen_witch_doctorAI", "d3/d62/a16782.html#acd33d4811521f6d41bce21270198db45", null ],
+    [ "JustDied", "d3/d62/a16782.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
+    [ "JustEngagedWith", "d3/d62/a16782.html#a54378daf294fcbee4ba1abf14927cc52", null ],
+    [ "Reset", "d3/d62/a16782.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
+    [ "UpdateAI", "d3/d62/a16782.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
+    [ "events", "d3/d62/a16782.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
 ];

@@ -1,7 +1,7 @@
 var a18466 =
 [
-    [ "HandleEffectPeriodic", "d6/d89/a18466.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
-    [ "PrepareAuraScript", "d6/d89/a18466.html#ae040da0db1147652266e1f373838df37", null ],
-    [ "Register", "d6/d89/a18466.html#ab11b84522134ee4d13504df3c19f69b8", null ],
-    [ "Validate", "d6/d89/a18466.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
+    [ "npc_captain_arnathAI", "d6/d89/a18466.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "d6/d89/a18466.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "d6/d89/a18466.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "d6/d89/a18466.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

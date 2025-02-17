@@ -1,6 +1,6 @@
 var a19522 =
 [
-    [ "boss_auriayaAI", "dd/db6/a19526.html", "dd/db6/a19526" ],
-    [ "boss_auriaya", "d4/d74/a19522.html#a8acecf02a63e846d1a46633a6ade6083", null ],
-    [ "GetAI", "d4/d74/a19522.html#a09c7cd124672eb12ec349dbbbd3c87ef", null ]
+    [ "npc_collapsing_starAI", "d4/d74/a19522.html#ac389b380a8f315ae50a8cd809393a773", null ],
+    [ "DamageTaken", "d4/d74/a19522.html#a424fac98093eb9d02cda5027523ad06a", null ],
+    [ "JustSummoned", "d4/d74/a19522.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
 ];

@@ -1,7 +1,5 @@
 var a26874 =
 [
-    [ "HandlePeriodic", "d6/d78/a26874.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d6/d78/a26874.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d6/d78/a26874.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d6/d78/a26874.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "achievement_flirt_with_disaster_perf_check", "d6/d78/a26874.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
+    [ "OnCheck", "d6/d78/a26874.html#a15e620be2f37f930477ba94293dbaf63", null ]
 ];

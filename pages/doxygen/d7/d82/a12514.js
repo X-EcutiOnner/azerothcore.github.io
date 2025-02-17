@@ -1,20 +1,14 @@
 var a12514 =
 [
-    [ "boss_julianne", "d7/d82/a12514.html#a6433d08be0d5562e876e00225ebf7398", null ],
-    [ "DamageTaken", "d7/d82/a12514.html#a8ff7675405322c2d55bd01cec340f6b8", null ],
-    [ "DoAction", "d7/d82/a12514.html#a985c9c1f77b2769461bf42ddaab302d3", null ],
-    [ "EnterEvadeMode", "d7/d82/a12514.html#af2499ba9d9c25555c82d8d7ae95c7249", null ],
-    [ "JustDied", "d7/d82/a12514.html#abdfaf6fa147c6b35bed28bb2e3ed3c14", null ],
-    [ "JustEngagedWith", "d7/d82/a12514.html#a6c5bd97ad402cc5f5dcda421c5d2bad1", null ],
-    [ "JustReachedHome", "d7/d82/a12514.html#a6bda02d5534b9087741ee7146ec314b5", null ],
-    [ "KilledUnit", "d7/d82/a12514.html#a7430fb4f315ee5dcf5f9c49b2daa66b0", null ],
-    [ "Reset", "d7/d82/a12514.html#a1047e28950098b35bd8a8fc5bec4ed26", null ],
-    [ "ScheduleCombat", "d7/d82/a12514.html#ab0939f8fe0fc34cafbe2dab4ef449895", null ],
-    [ "SpellHit", "d7/d82/a12514.html#a1e142c56a514640dab0d5d7711085f9d", null ],
-    [ "UpdateAI", "d7/d82/a12514.html#ad1e1d5bb27fed12a203c8b10f6ea92a6", null ],
-    [ "_scheduler", "d7/d82/a12514.html#aae4be9b1035626ecc9ad2f3e5b918cbe", null ],
-    [ "instance", "d7/d82/a12514.html#acdc787ba6908e716517683a8536ecf3e", null ],
-    [ "isFakingDeath", "d7/d82/a12514.html#a7a1b3b2ead47a49e80f9ba2b49144a91", null ],
-    [ "phase", "d7/d82/a12514.html#a5b0b680916cd38b2e20a6a1b1a530362", null ],
-    [ "summonedRomulo", "d7/d82/a12514.html#a6938adccd5c781df04dabe6d860f9357", null ]
+    [ "boss_midnight", "d7/d82/a12514.html#aacf45b21a30d671d5e9720a30336f72c", null ],
+    [ "CanMeleeHit", "d7/d82/a12514.html#ad46a3726f398e5db56612d78d33fb13f", null ],
+    [ "DamageTaken", "d7/d82/a12514.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
+    [ "DoAction", "d7/d82/a12514.html#a6831149d56f432aa3116d4172ef95a18", null ],
+    [ "EnterEvadeMode", "d7/d82/a12514.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
+    [ "JustEngagedWith", "d7/d82/a12514.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
+    [ "JustSummoned", "d7/d82/a12514.html#a2644deaf0a2970835b0cd508565e7279", null ],
+    [ "KilledUnit", "d7/d82/a12514.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
+    [ "Reset", "d7/d82/a12514.html#a4f9cb414779705c179bc5447975b35e9", null ],
+    [ "UpdateAI", "d7/d82/a12514.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
+    [ "_phase", "d7/d82/a12514.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
 ];

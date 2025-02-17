@@ -1,8 +1,11 @@
 var a25114 =
 [
-    [ "CheckProc", "d8/dd2/a25114.html#a2b0ff2594877249d0bdb4656fa67b83f", null ],
-    [ "HandleProc", "d8/dd2/a25114.html#ac1aebc16e7944ac3f8305d9ff27bc998", null ],
-    [ "PrepareAuraScript", "d8/dd2/a25114.html#a19557020af9ca276f72c1d3e4ba8b27b", null ],
-    [ "Register", "d8/dd2/a25114.html#a43f7bb634cb165fab5e2187256f50c3f", null ],
-    [ "Validate", "d8/dd2/a25114.html#a7762ce25775b98dba14b4ac465cad711", null ]
+    [ "spell_gen_apply_aura_after_expiration", "d8/dd2/a25114.html#a391e5089eb034618c5e3edde26685a00", null ],
+    [ "AfterRemove", "d8/dd2/a25114.html#afea2221ceeebf90cf352084d8aacf7c9", null ],
+    [ "PrepareAuraScript", "d8/dd2/a25114.html#a494123635eda4c43d92a08c9c8cd5627", null ],
+    [ "Register", "d8/dd2/a25114.html#a3189ba65a1d9adf252d9f0dfb70abd16", null ],
+    [ "Validate", "d8/dd2/a25114.html#ad405128104d8a6528e8db96281ad0f0b", null ],
+    [ "_aura", "d8/dd2/a25114.html#a8a79aef777e1397b031149c54ae9d81d", null ],
+    [ "_effect", "d8/dd2/a25114.html#aa276a986ba9b67964ddeec56d6455cf9", null ],
+    [ "_spellId", "d8/dd2/a25114.html#a330f1311911ba9f3ebd704c7f9a09246", null ]
 ];

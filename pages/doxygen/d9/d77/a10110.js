@@ -1,13 +1,10 @@
 var a10110 =
 [
-    [ "FormulaScript", "d9/d77/a10110.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
-    [ "OnAfterArenaRatingCalculation", "d9/d77/a10110.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
-    [ "OnBaseGainCalculation", "d9/d77/a10110.html#ab154eaf469d5fe3e86c364940816270a", null ],
-    [ "OnBeforeUpdatingPersonalRating", "d9/d77/a10110.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
-    [ "OnColorCodeCalculation", "d9/d77/a10110.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
-    [ "OnGainCalculation", "d9/d77/a10110.html#aa83fab65cc89bd03021da2805e935ffb", null ],
-    [ "OnGrayLevelCalculation", "d9/d77/a10110.html#affeb57234f961b9e01f5898c7738f38f", null ],
-    [ "OnGroupRateCalculation", "d9/d77/a10110.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
-    [ "OnHonorCalculation", "d9/d77/a10110.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
-    [ "OnZeroDifferenceCalculation", "d9/d77/a10110.html#a7755c35bc56e6645e36de08c12a4847d", null ]
+    [ "QuestStatusData", "d9/d77/a10110.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "d9/d77/a10110.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "d9/d77/a10110.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "d9/d77/a10110.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "d9/d77/a10110.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "d9/d77/a10110.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "d9/d77/a10110.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

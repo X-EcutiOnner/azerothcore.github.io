@@ -1,12 +1,7 @@
 var a14622 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "d5/def/a14622.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
-    [ "GetData", "d5/def/a14622.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
-    [ "Initialize", "d5/def/a14622.html#aed9ab9542badb0296ca0660c39541cb8", null ],
-    [ "OnGameObjectCreate", "d5/def/a14622.html#a567ac5d9a17514ede5b84c5d78204072", null ],
-    [ "ReadSaveDataMore", "d5/def/a14622.html#a7d6fefed563b0b9763b9c63136c65952", null ],
-    [ "SetData", "d5/def/a14622.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
-    [ "WriteSaveDataMore", "d5/def/a14622.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
-    [ "_firesState", "d5/def/a14622.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
-    [ "_gongPhase", "d5/def/a14622.html#a23485a35f0aa2f2ffad53398882d163a", null ]
+    [ "boss_epoch_hunter", "d5/def/a14622.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "d5/def/a14622.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "d5/def/a14622.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "d5/def/a14622.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

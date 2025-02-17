@@ -1,7 +1,6 @@
 var a19730 =
 [
-    [ "achievement_flame_leviathan_garage", "d3/dff/a19730.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "d3/dff/a19730.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "d3/dff/a19730.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "d3/dff/a19730.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "npc_mimirons_infernoAI", "d7/de8/a19734.html", "d7/de8/a19734" ],
+    [ "npc_mimirons_inferno", "d3/dff/a19730.html#a7a531a65a179b5d56c888c055b72d269", null ],
+    [ "GetAI", "d3/dff/a19730.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
 ];

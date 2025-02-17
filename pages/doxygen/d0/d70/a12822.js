@@ -1,6 +1,5 @@
 var a12822 =
 [
-    [ "npc_risen_guardianAI", "de/d69/a12826.html", "de/d69/a12826" ],
-    [ "npc_risen_guardian", "d0/d70/a12822.html#a472274c69abe912f5781c60911204eb5", null ],
-    [ "GetAI", "d0/d70/a12822.html#a568f57a442adcd64c8c3d2e4d5df729f", null ]
+    [ "go_acherus_soul_prison", "d0/d70/a12822.html#a13c858f74080b8f7963fdacc4b554019", null ],
+    [ "OnGossipHello", "d0/d70/a12822.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
 ];

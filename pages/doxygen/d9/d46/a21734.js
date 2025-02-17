@@ -1,6 +1,8 @@
 var a21734 =
 [
-    [ "npc_black_knight_graveyardAI", "de/ded/a21738.html", "de/ded/a21738" ],
-    [ "npc_black_knight_graveyard", "d9/d46/a21734.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
-    [ "GetAI", "d9/d46/a21734.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
+    [ "npc_ravenous_worgAI", "d9/d46/a21734.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d9/d46/a21734.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d9/d46/a21734.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d9/d46/a21734.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d9/d46/a21734.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

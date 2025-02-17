@@ -1,10 +1,7 @@
 var a11494 =
 [
-    [ "mmaps_commandscript", "d5/df1/a11494.html#a1dbdfd26bdb685315a3012453080a56f", null ],
-    [ "GetCommands", "d5/df1/a11494.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
-    [ "HandleMmapLoadedTilesCommand", "d5/df1/a11494.html#a40d5b7e733298210c686fe89490b6f61", null ],
-    [ "HandleMmapLocCommand", "d5/df1/a11494.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
-    [ "HandleMmapPathCommand", "d5/df1/a11494.html#a2c876439ad6d9ff7523f140d97743dea", null ],
-    [ "HandleMmapStatsCommand", "d5/df1/a11494.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
-    [ "HandleMmapTestArea", "d5/df1/a11494.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
+    [ "achievement_commandscript", "d5/df1/a11494.html#ac1c40d7b3b628cc206c44eae18592292", null ],
+    [ "GetCommands", "d5/df1/a11494.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
+    [ "HandleAchievementAddCommand", "d5/df1/a11494.html#ac4f6addfb0c52d584bf8081436aa3d7a", null ],
+    [ "HandleAchievementCheckAllCommand", "d5/df1/a11494.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
 ];

@@ -1,6 +1,7 @@
 var a25350 =
 [
-    [ "HandleOnEffectHit", "d8/d76/a25350.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
-    [ "PrepareSpellScript", "d8/d76/a25350.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
-    [ "Register", "d8/d76/a25350.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
+    [ "HandleScriptEffect", "d8/d76/a25350.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
+    [ "PrepareSpellScript", "d8/d76/a25350.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
+    [ "Register", "d8/d76/a25350.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
+    [ "SelectTarget", "d8/d76/a25350.html#a6a59b7ce696f959b2026cf8088079e89", null ]
 ];

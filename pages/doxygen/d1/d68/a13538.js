@@ -1,7 +1,11 @@
 var a13538 =
 [
-    [ "HandleDispel", "d1/d68/a13538.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "d1/d68/a13538.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "d1/d68/a13538.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "d1/d68/a13538.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "npc_highborne_lamenterAI", "d1/d68/a13538.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
+    [ "JustEngagedWith", "d1/d68/a13538.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
+    [ "Reset", "d1/d68/a13538.html#a7cf9338767e8edf0a87a5552703de87a", null ],
+    [ "UpdateAI", "d1/d68/a13538.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
+    [ "EventCast", "d1/d68/a13538.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
+    [ "EventCastTimer", "d1/d68/a13538.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
+    [ "EventMove", "d1/d68/a13538.html#aca22c73db989f0393926067506794e43", null ],
+    [ "EventMoveTimer", "d1/d68/a13538.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
 ];

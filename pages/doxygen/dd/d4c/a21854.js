@@ -1,6 +1,6 @@
 var a21854 =
 [
-    [ "npc_artruis_the_hearthlessAI", "dc/dfc/a21858.html", "dc/dfc/a21858" ],
-    [ "npc_artruis_the_hearthless", "dd/d4c/a21854.html#abeed70f4306113bd5df242eae91bfdb0", null ],
-    [ "GetAI", "dd/d4c/a21854.html#a1a7674c5e3e9e0de848bfb0d906ac06c", null ]
+    [ "npc_razael_and_lyana", "dd/d4c/a21854.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "dd/d4c/a21854.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "dd/d4c/a21854.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

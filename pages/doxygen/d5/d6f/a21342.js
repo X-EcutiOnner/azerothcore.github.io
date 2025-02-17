@@ -1,6 +1,6 @@
 var a21342 =
 [
-    [ "npc_counselor_talbotAI", "d6/d6f/a21346.html", "d6/d6f/a21346" ],
-    [ "npc_counselor_talbot", "d5/d6f/a21342.html#a9223380bb78afeda617482bea0a3110c", null ],
-    [ "GetAI", "d5/d6f/a21342.html#a3debd13352146a247d635042ecbfa155", null ]
+    [ "npc_iruk", "d5/d6f/a21342.html#a721aeefd23371cc6bc16738a797bf50a", null ],
+    [ "OnGossipHello", "d5/d6f/a21342.html#a774669099330c75ab5e0bea8d460f517", null ],
+    [ "OnGossipSelect", "d5/d6f/a21342.html#ae6f7d54d224488a9e29c59c560eba471", null ]
 ];

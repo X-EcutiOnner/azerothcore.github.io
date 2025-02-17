@@ -1,7 +1,6 @@
 var a18414 =
 [
-    [ "HandleQuestComplete", "d5/db7/a18414.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
-    [ "HandleScript", "d5/db7/a18414.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
-    [ "PrepareSpellScript", "d5/db7/a18414.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
-    [ "Register", "d5/db7/a18414.html#a3258d4517cfc758080691bab429624d7", null ]
+    [ "CaptainSurviveTalk", "d5/db7/a18414.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "d5/db7/a18414.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "d5/db7/a18414.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

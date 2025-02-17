@@ -1,8 +1,5 @@
 var a27930 =
 [
-    [ "Id", "d6/dcf/a27930.html#a6943bf760d15b3f8af4109d131652d72", null ],
-    [ "MapId", "d6/dcf/a27930.html#ab0cccd760636a3b42af693d6c483bed9", null ],
-    [ "X", "d6/dcf/a27930.html#a91183890254546efeb3162173cc60dad", null ],
-    [ "Y", "d6/dcf/a27930.html#a19ab4d026b45d74f006479641afbc4d3", null ],
-    [ "Z", "d6/dcf/a27930.html#aaa23c59f20fc96aec148b82516f30036", null ]
+    [ "Id", "d6/dcf/a27930.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
+    [ "textid", "d6/dcf/a27930.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
 ];

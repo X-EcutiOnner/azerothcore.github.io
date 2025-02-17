@@ -1,6 +1,7 @@
 var a15194 =
 [
-    [ "npc_great_bear_spirit", "dc/dbb/a15194.html#a141470a3623aa1152d3505661f1532c8", null ],
-    [ "OnGossipHello", "dc/dbb/a15194.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
-    [ "OnGossipSelect", "dc/dbb/a15194.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
+    [ "npc_webbed_creatureAI", "dc/dbb/a15194.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "dc/dbb/a15194.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "dc/dbb/a15194.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "dc/dbb/a15194.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

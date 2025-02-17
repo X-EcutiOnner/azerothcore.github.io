@@ -1,6 +1,6 @@
 var a25194 =
 [
-    [ "HandleItemRemove", "d7/d44/a25194.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
-    [ "PrepareSpellScript", "d7/d44/a25194.html#a8b43e146724a2c8b3c495e886a79d021", null ],
-    [ "Register", "d7/d44/a25194.html#af8b02c31b81dce516ea47d6a1235d683", null ]
+    [ "CheckCast", "d7/d44/a25194.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
+    [ "PrepareSpellScript", "d7/d44/a25194.html#a0bc2de519e0c84688fad609444d28afa", null ],
+    [ "Register", "d7/d44/a25194.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
 ];

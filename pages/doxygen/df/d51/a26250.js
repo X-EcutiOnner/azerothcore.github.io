@@ -1,6 +1,7 @@
 var a26250 =
 [
-    [ "HandleFinish", "df/d51/a26250.html#ac4c50220d86f809644e339fc578d9b4a", null ],
-    [ "PrepareSpellScript", "df/d51/a26250.html#a5a14594ed93150e34626a7e0edb8171b", null ],
-    [ "Register", "df/d51/a26250.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
+    [ "HandleDummy", "df/d51/a26250.html#aef93741620dcf29179502f88891ad0b5", null ],
+    [ "Load", "df/d51/a26250.html#ab8e5dcd009cca538c9921dcb9c5fe109", null ],
+    [ "PrepareSpellScript", "df/d51/a26250.html#ac92fd133395705e4cb3730bc96e1f787", null ],
+    [ "Register", "df/d51/a26250.html#a69336bea35240c0014693ae167d4124b", null ]
 ];

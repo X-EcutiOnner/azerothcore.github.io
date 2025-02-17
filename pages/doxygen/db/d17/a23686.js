@@ -1,6 +1,8 @@
 var a23686 =
 [
-    [ "npc_daranelleAI", "d8/dd6/a23690.html", "d8/dd6/a23690" ],
-    [ "npc_daranelle", "db/d17/a23686.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
-    [ "GetAI", "db/d17/a23686.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
+    [ "HandleScriptEffect", "db/d17/a23686.html#a7cde39fc0844f19604c8026a853e8216", null ],
+    [ "Load", "db/d17/a23686.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
+    [ "PrepareSpellScript", "db/d17/a23686.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
+    [ "Register", "db/d17/a23686.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
+    [ "_currentSpellId", "db/d17/a23686.html#a0ad25535ba345fe9672150af67687305", null ]
 ];

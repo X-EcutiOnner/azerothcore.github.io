@@ -1,10 +1,7 @@
 var a11042 =
 [
-    [ "EffectHook", "d3/d80/a11042.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "d3/d80/a11042.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "d3/d80/a11042.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "d3/d80/a11042.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "d3/d80/a11042.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "d3/d80/a11042.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "d3/d80/a11042.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "effectMask", "d3/d80/a11042.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
+    [ "processed", "d3/d80/a11042.html#aedfa36678be863a558ecd0ecc07cc544", null ],
+    [ "targetGUID", "d3/d80/a11042.html#a619f98bf094d2667048204f733d64d0c", null ],
+    [ "timeDelay", "d3/d80/a11042.html#ab552326c0780fe62ff95b02249458492", null ]
 ];

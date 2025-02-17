@@ -1,10 +1,10 @@
 var a22646 =
 [
-    [ "CalculateAmount", "d8/da7/a22646.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
-    [ "CheckProc", "d8/da7/a22646.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
-    [ "HandleProc", "d8/da7/a22646.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
-    [ "PrepareAuraScript", "d8/da7/a22646.html#a6e066884663276dbba82e46ca5f66e59", null ],
-    [ "Register", "d8/da7/a22646.html#ac4154f0746e77229e8d349021d5b9c30", null ],
-    [ "Update", "d8/da7/a22646.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
-    [ "Validate", "d8/da7/a22646.html#a4f10d23f63c47b408b70373623b877a8", null ]
+    [ "boss_gathios_the_shatterer", "d8/da7/a22646.html#a34708f52c610e567c5acf62962e90d4e", null ],
+    [ "JustEngagedWith", "d8/da7/a22646.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
+    [ "SelectCouncilMember", "d8/da7/a22646.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
+    [ "UpdateAI", "d8/da7/a22646.html#a1541f1efd3978a4c91b80e411aec6442", null ],
+    [ "_toggleAura", "d8/da7/a22646.html#aa983e2d9018a9e53ee29840781f47c33", null ],
+    [ "_toggleBlessing", "d8/da7/a22646.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
+    [ "_toggleSeal", "d8/da7/a22646.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
 ];

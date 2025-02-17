@@ -1,10 +1,9 @@
 var a14438 =
 [
-    [ "boss_meathookAI", "d4/d9d/a14438.html#abb35c98da760db634545b81d740cd51a", null ],
-    [ "JustDied", "d4/d9d/a14438.html#a44ebee45de335ff6f653e9d60a364458", null ],
-    [ "JustEngagedWith", "d4/d9d/a14438.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
-    [ "KilledUnit", "d4/d9d/a14438.html#a54deac512294bb0901d072faef3166b1", null ],
-    [ "Reset", "d4/d9d/a14438.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
-    [ "UpdateAI", "d4/d9d/a14438.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
-    [ "events", "d4/d9d/a14438.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
+    [ "npc_ancient_wisp", "d4/d9d/a14438.html#a70e45e500b3490a034b058ca2ec16d39", null ],
+    [ "DamageTaken", "d4/d9d/a14438.html#ad7d96e6b54cdc23a5101338474125e71", null ],
+    [ "JustEngagedWith", "d4/d9d/a14438.html#a755ed852b3149ada65c5750410776fc8", null ],
+    [ "Reset", "d4/d9d/a14438.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
+    [ "UpdateAI", "d4/d9d/a14438.html#a51ca214de826d7126f32e49f6852bca3", null ],
+    [ "_instance", "d4/d9d/a14438.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
 ];

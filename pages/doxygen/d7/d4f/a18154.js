@@ -1,7 +1,10 @@
 var a18154 =
 [
-    [ "AuraRemoveEvent", "d7/d4f/a18154.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "d7/d4f/a18154.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "d7/d4f/a18154.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "d7/d4f/a18154.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "HandleScript", "d7/d4f/a18154.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
+    [ "Load", "d7/d4f/a18154.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
+    [ "PrepareSpellScript", "d7/d4f/a18154.html#afcc1efc69d73086a9ab686855911e516", null ],
+    [ "Register", "d7/d4f/a18154.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
+    [ "ReplaceTarget", "d7/d4f/a18154.html#a01cb7d25bef14a2266d81594544f6283", null ],
+    [ "SelectTarget", "d7/d4f/a18154.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
+    [ "_target", "d7/d4f/a18154.html#a3a84a9d7109845d201b395f05f66d109", null ]
 ];

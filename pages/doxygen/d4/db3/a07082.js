@@ -1,9 +1,7 @@
 var a07082 =
 [
-    [ "entryAlliance", "d4/db3/a07082.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
-    [ "entryHorde", "d4/db3/a07082.html#a374fff4b069e89489395246f378b4900", null ],
-    [ "o", "d4/db3/a07082.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
-    [ "x", "d4/db3/a07082.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
-    [ "y", "d4/db3/a07082.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
-    [ "z", "d4/db3/a07082.html#adebb903a00687e17d9088f5da2c97f4a", null ]
+    [ "AuctionSorter", "d4/db3/a07082.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b", null ],
+    [ "operator()", "d4/db3/a07082.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7", null ],
+    [ "_loc_idx", "d4/db3/a07082.html#a11708aa660757db95c88d9dc7e9b9521", null ],
+    [ "_sort", "d4/db3/a07082.html#a9c777b91d8b80940daee0b32c4f11c37", null ]
 ];

@@ -1,10 +1,10 @@
 var a28246 =
 [
-    [ "adt_CELLS", "d2/de2/a28254.html", "d2/de2/a28254" ],
-    [ "getMCNK", "dc/d64/a28246.html#a8330b7cb405146399d3d20e6952a8b40", null ],
-    [ "prepareLoadedData", "dc/d64/a28246.html#adc7346499aa51f4422c810b7e757f835", null ],
-    [ "cells", "dc/d64/a28246.html#a434ed0ca354ec27d5334cc63e5650038", null ],
-    [ "fcc", "dc/d64/a28246.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
-    [ "fcc_txt", "dc/d64/a28246.html#a514bae36851623daf76b26a9d63f1ae0", null ],
-    [ "size", "dc/d64/a28246.html#a1a40f52ea9eef3add8207da89cb71210", null ]
+    [ "area_id", "dc/d64/a28246.html#acbd77950bf9548d266e568640cf38458", null ],
+    [ "map_id", "dc/d64/a28246.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
+    [ "virtual_map_id", "dc/d64/a28246.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
+    [ "x1", "dc/d64/a28246.html#a78967fef40841f705c2564a177cb36f3", null ],
+    [ "x2", "dc/d64/a28246.html#a037dca812715df0b4f2551f8684b537c", null ],
+    [ "y1", "dc/d64/a28246.html#a7f90073656e1cd00a88add9f8d881d11", null ],
+    [ "y2", "dc/d64/a28246.html#ad8e0164952e5565488d5443f269ec79e", null ]
 ];

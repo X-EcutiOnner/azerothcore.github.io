@@ -1,7 +1,5 @@
 var a21634 =
 [
-    [ "npc_amberpine_woodsmanAI", "d4/dff/a21634.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
-    [ "Reset", "d4/dff/a21634.html#a8da613c7bbaadf331c95667e7a361702", null ],
-    [ "UpdateAI", "d4/dff/a21634.html#a64dbf41424a710c400d51507f6457b41", null ],
-    [ "_events", "d4/dff/a21634.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
+    [ "at_q24545_frostmourne_cavern", "d4/dff/a21634.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
+    [ "OnTrigger", "d4/dff/a21634.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
 ];

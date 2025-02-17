@@ -1,9 +1,9 @@
 var a25934 =
 [
-    [ "CheckCast", "db/d66/a25934.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
-    [ "HandleDummy", "db/d66/a25934.html#a7f79495525687fba6229f48935b2558a", null ],
-    [ "Load", "db/d66/a25934.html#a0c73457e44a3d64bdccee78d28893672", null ],
-    [ "PrepareSpellScript", "db/d66/a25934.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
-    [ "Register", "db/d66/a25934.html#ab9f09394ab301350a2abaefde90632fe", null ],
-    [ "Validate", "db/d66/a25934.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
+    [ "CountTargets", "db/d66/a25934.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
+    [ "HandleDummy", "db/d66/a25934.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
+    [ "PrepareSpellScript", "db/d66/a25934.html#adfb7e3fbb52aa349573b95c457823900", null ],
+    [ "Register", "db/d66/a25934.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
+    [ "Validate", "db/d66/a25934.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
+    [ "_targetCount", "db/d66/a25934.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
 ];

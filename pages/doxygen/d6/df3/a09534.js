@@ -1,10 +1,9 @@
 var a09534 =
 [
-    [ "DoublePosition", "d7/dc0/a09538.html", "d7/dc0/a09538" ],
-    [ "~AreaBoundary", "d6/df3/a09534.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
-    [ "AreaBoundary", "d6/df3/a09534.html#adf670910c492c08d3384c2dd1824e7ce", null ],
-    [ "IsWithinBoundary", "d6/df3/a09534.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
-    [ "IsWithinBoundary", "d6/df3/a09534.html#a1d407f77ce0388263fc0ee6224734213", null ],
-    [ "IsWithinBoundaryArea", "d6/df3/a09534.html#ae5580b0044dba24d100831fe51ee1abc", null ],
-    [ "_isInvertedBoundary", "d6/df3/a09534.html#ad416f29594688ce670549d6fdcce4314", null ]
+    [ "BroadcastTextID", "d6/df3/a09534.html#a756f24dbee852a7fbe152c0cb082c412", null ],
+    [ "Emotes", "d6/df3/a09534.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
+    [ "Language", "d6/df3/a09534.html#a33bc5a0c156918b00380710aeb275d3d", null ],
+    [ "Probability", "d6/df3/a09534.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
+    [ "Text_0", "d6/df3/a09534.html#a046d637b91807db067c6e7050184322d", null ],
+    [ "Text_1", "d6/df3/a09534.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
 ];

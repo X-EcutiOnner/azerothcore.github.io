@@ -1,8 +1,11 @@
 var a22498 =
 [
-    [ "Load", "d0/d35/a22498.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "d0/d35/a22498.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "d0/d35/a22498.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "d0/d35/a22498.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "d0/d35/a22498.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "boss_blackheart_the_inciter", "d0/d35/a22498.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "d0/d35/a22498.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "d0/d35/a22498.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "d0/d35/a22498.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "d0/d35/a22498.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "d0/d35/a22498.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "d0/d35/a22498.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "d0/d35/a22498.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

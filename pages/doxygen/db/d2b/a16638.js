@@ -1,7 +1,5 @@
 var a16638 =
 [
-    [ "npc_hor_leader_secondAI", "dd/d29/a16642.html", "dd/d29/a16642" ],
-    [ "npc_hor_leader_second", "db/d2b/a16638.html#a9fa1f38ab8a0b5d2207857b75e272ee0", null ],
-    [ "GetAI", "db/d2b/a16638.html#af5b97ecca35501a75658919d384a18f7", null ],
-    [ "OnGossipSelect", "db/d2b/a16638.html#a8355f7f2f8e7655c7ebc7145a847ab87", null ]
+    [ "npc_fos_leader_secondAI", "db/d2b/a16638.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "db/d2b/a16638.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

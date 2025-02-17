@@ -1,14 +1,12 @@
 var a11706 =
 [
-    [ "boss_general_angerforgeAI", "df/d44/a11706.html#af5537ccebc7ac6af49f9b6612d3a6138", null ],
-    [ "JustEngagedWith", "df/d44/a11706.html#ae99e11630596c62c4155a18f5a0a3dd5", null ],
-    [ "Reset", "df/d44/a11706.html#aff55a804bdca840016e0f6b1d11f7106", null ],
-    [ "SummonAdds", "df/d44/a11706.html#a218f4de2d057505f60b2977835e5fd91", null ],
-    [ "SummonMedics", "df/d44/a11706.html#aeabe71bde9b03a944beedeac68cffd19", null ],
-    [ "UpdateAI", "df/d44/a11706.html#a751c0d0015c235c8716a2a8ff18500ba", null ],
-    [ "Adds_Timer", "df/d44/a11706.html#a069f0008735b38c249ddfe5246025438", null ],
-    [ "Cleave_Timer", "df/d44/a11706.html#af80ac4df7aaab1469ee62ac8b054a0b9", null ],
-    [ "HamString_Timer", "df/d44/a11706.html#a04c51b1400d17454ca529d6aa257697b", null ],
-    [ "Medics", "df/d44/a11706.html#a06fc801b89c53430603f1a33bb3e7bd8", null ],
-    [ "MightyBlow_Timer", "df/d44/a11706.html#aeea6bb264e2d175d1906d8606eced529", null ]
+    [ "npc_av_marshal_or_warmasterAI", "df/d44/a11706.html#af3620678992778edbb859622e057893a", null ],
+    [ "AttackStart", "df/d44/a11706.html#aed39eaed8648ce78349c49ee33918b93", null ],
+    [ "EnterEvadeMode", "df/d44/a11706.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
+    [ "JustRespawned", "df/d44/a11706.html#a460c6912063587214ba0f2e01878d827", null ],
+    [ "Reset", "df/d44/a11706.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
+    [ "UpdateAI", "df/d44/a11706.html#a7bf1631810c8446bc157f8ff220199b7", null ],
+    [ "_attacked", "df/d44/a11706.html#a56d7211a3565c19b499f7de2eda6c862", null ],
+    [ "_hasAura", "df/d44/a11706.html#a1c0049100cde1c62daf80779d1135156", null ],
+    [ "events", "df/d44/a11706.html#a49b8e01897cd5347bbd06cac254163f4", null ]
 ];

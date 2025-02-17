@@ -1,8 +1,7 @@
 var a25058 =
 [
-    [ "OnApply", "d9/d21/a25058.html#acf25199409ab6f991db15a784749aaf1", null ],
-    [ "OnRemove", "d9/d21/a25058.html#a700513c27a2ae22581bbc61c8c4b523a", null ],
-    [ "PrepareAuraScript", "d9/d21/a25058.html#ae6f93ab542d8f05a95745d7b10d1856a", null ],
-    [ "Register", "d9/d21/a25058.html#a9332cb72f66e83f648b4ed02c8c074eb", null ],
-    [ "Validate", "d9/d21/a25058.html#a09017d12ecf0ae0c3091cea17640782c", null ]
+    [ "PrepareSpellScript", "d9/d21/a25058.html#a65d5717a25e371e09c44148c679dd390", null ],
+    [ "Register", "d9/d21/a25058.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
+    [ "RemoveInvalidTargets", "d9/d21/a25058.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
+    [ "Validate", "d9/d21/a25058.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
 ];

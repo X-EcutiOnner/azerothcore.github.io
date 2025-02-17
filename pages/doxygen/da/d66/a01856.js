@@ -1,10 +1,14 @@
 var a01856 =
 [
-    [ "AutobroadcastMgr", "de/d0a/a07046.html", "de/d0a/a07046" ],
-    [ "sAutobroadcastMgr", "da/d66/a01856.html#a34abff2dadcb74370b0749fe9fda3878", null ],
-    [ "AnnounceType", "da/d66/a01856.html#a28a4ef2f64643c76d8be05bf9eafc731", [
-      [ "World", "da/d66/a01856.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],
-      [ "Notification", "da/d66/a01856.html#a28a4ef2f64643c76d8be05bf9eafc731a96d008db67fc0b5551a926842bbb6a71", null ],
-      [ "Both", "da/d66/a01856.html#a28a4ef2f64643c76d8be05bf9eafc731a130c5b3473c57faa76e2a1c54e26f88e", null ]
-    ] ]
+    [ "npc_artorius", "de/da3/a27286.html", "de/da3/a27286" ],
+    [ "npc_artorius::npc_artoriusAI", "d6/d2d/a27290.html", "d6/d2d/a27290" ],
+    [ "npc_precious", "d1/d8c/a27294.html", "d1/d8c/a27294" ],
+    [ "npc_precious::npc_preciousAI", "da/d4f/a27298.html", "da/d4f/a27298" ],
+    [ "npc_simone", "d6/d4d/a27302.html", "d6/d4d/a27302" ],
+    [ "npc_simone::npc_simoneAI", "dc/d9c/a27306.html", "dc/d9c/a27306" ],
+    [ "npc_nelson", "da/d7f/a27310.html", "da/d7f/a27310" ],
+    [ "npc_nelson::npc_nelsonAI", "d1/d39/a27314.html", "d1/d39/a27314" ],
+    [ "npc_franklin", "da/df7/a27318.html", "da/df7/a27318" ],
+    [ "npc_franklin::npc_franklinAI", "df/d96/a27322.html", "df/d96/a27322" ],
+    [ "AddSC_npc_stave_of_ancients", "da/d66/a01856.html#a81e200e5d045a2403cd76a0559a6fd8c", null ]
 ];

@@ -1,6 +1,6 @@
 var a24550 =
 [
-    [ "PrepareSpellScript", "dd/d72/a24550.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
-    [ "RecalculateDamage", "dd/d72/a24550.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
-    [ "Register", "dd/d72/a24550.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
+    [ "HandleEffectCalcSpellMod", "dd/d72/a24550.html#aaf21dafa72b58245f548ed946a49659d", null ],
+    [ "PrepareAuraScript", "dd/d72/a24550.html#ac05d3ae466ad64ac590f399827aac0c9", null ],
+    [ "Register", "dd/d72/a24550.html#a46a643985647d8a8e033b637b31214a5", null ]
 ];

@@ -1,7 +1,6 @@
 var a22514 =
 [
-    [ "OnPeriodic", "d1/dcb/a22514.html#a165d47b116b0a53e37b05f664960e6ec", null ],
-    [ "PrepareAuraScript", "d1/dcb/a22514.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
-    [ "Register", "d1/dcb/a22514.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
-    [ "Validate", "d1/dcb/a22514.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
+    [ "PrepareSpellScript", "d1/dcb/a22514.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
+    [ "Register", "d1/dcb/a22514.html#aa41700bf097963c5a352442723181037", null ],
+    [ "SelectTarget", "d1/dcb/a22514.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
 ];

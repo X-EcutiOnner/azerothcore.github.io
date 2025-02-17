@@ -1,4 +1,6 @@
 var a10162 =
 [
-    [ "ModuleScript", "d0/d93/a10162.html#a145c67a6c12a18527a4e7011a66b1760", null ]
+    [ "AreaTriggerScript", "d0/d93/a10162.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
+    [ "IsDatabaseBound", "d0/d93/a10162.html#ac5234a2cd020cd8f90b6d19c28ad46ae", null ],
+    [ "OnTrigger", "d0/d93/a10162.html#abb6cdada718e9fad7da98fbb667c6d53", null ]
 ];

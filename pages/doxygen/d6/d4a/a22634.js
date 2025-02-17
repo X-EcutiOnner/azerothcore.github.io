@@ -1,8 +1,7 @@
 var a22634 =
 [
-    [ "HandleEffectApply", "d6/d4a/a22634.html#a94993441ef94f84c85aa10c693cf34fe", null ],
-    [ "HandleEffectRemove", "d6/d4a/a22634.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
-    [ "PrepareAuraScript", "d6/d4a/a22634.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
-    [ "Register", "d6/d4a/a22634.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
-    [ "Validate", "d6/d4a/a22634.html#a964637541cd64e64b4e02c00d36abf2d", null ]
+    [ "VerasEnvenom", "d6/d4a/a22634.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d6/d4a/a22634.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d6/d4a/a22634.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d6/d4a/a22634.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

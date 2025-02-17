@@ -1,19 +1,8 @@
 var a20022 =
 [
-    [ "boss_ignisAI", "df/d1d/a20022.html#a0301c4e7ef8b0789548a7a5a738ab69b", null ],
-    [ "EnterEvadeMode", "df/d1d/a20022.html#a09312f9c79bbf11070d28ac2bfb8c23f", null ],
-    [ "GetData", "df/d1d/a20022.html#abeebe81ee5940312206a152a79b7deaa", null ],
-    [ "JustDied", "df/d1d/a20022.html#ae9b51ea2a36b5662e771fe06ecacb40b", null ],
-    [ "JustEngagedWith", "df/d1d/a20022.html#a4a4fb281901ab0f791ea15b6ef48cc3c", null ],
-    [ "JustReachedHome", "df/d1d/a20022.html#ab6c7dab0a1b7770f041a7cdfff8535c6", null ],
-    [ "KilledUnit", "df/d1d/a20022.html#a0f39b7445c10f2f420eef94144cfd2fe", null ],
-    [ "MoveInLineOfSight", "df/d1d/a20022.html#a9c309fd71def24e53200987090a4d17d", null ],
-    [ "Reset", "df/d1d/a20022.html#af69db346a8e30cbdab2d3d567660388f", null ],
-    [ "SetData", "df/d1d/a20022.html#ae719af5e9d885103187944a40658481a", null ],
-    [ "SpellHit", "df/d1d/a20022.html#a12a583f6fd424596bb5a3078c57fa99a", null ],
-    [ "UpdateAI", "df/d1d/a20022.html#acfe100c8d6a4f52249e93ef2ab42fb1d", null ],
-    [ "bShattered", "df/d1d/a20022.html#a57d3121578f0ca74158fa964f9405254", null ],
-    [ "counter", "df/d1d/a20022.html#acbd2a5952ee35f8363df916fe22a1be9", null ],
-    [ "events", "df/d1d/a20022.html#abed79bfd8a3285f18b43a4f7e905d24c", null ],
-    [ "lastShatterMSTime", "df/d1d/a20022.html#a8f65b8d6f9977587a45208449afc9762", null ]
+    [ "npc_ulduar_flash_freezeAI", "df/d1d/a20022.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
+    [ "DamageTaken", "df/d1d/a20022.html#af0c18460b4cc331f51c44a3306f516b8", null ],
+    [ "UpdateAI", "df/d1d/a20022.html#ab2efa0a8d06297bff05502c40079efe9", null ],
+    [ "pInstance", "df/d1d/a20022.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
+    [ "timer", "df/d1d/a20022.html#a590117afe9e9943d8dc8a44af9386066", null ]
 ];

@@ -1,48 +1,74 @@
 var a01358 =
 [
-    [ "MailSender", "d6/d7c/a09510.html", "d6/d7c/a09510" ],
-    [ "MailReceiver", "d8/d6d/a09514.html", "d8/d6d/a09514" ],
-    [ "MailDraft", "d4/d61/a09518.html", "d4/d61/a09518" ],
-    [ "MailItemInfo", "d7/d60/a09522.html", "d7/d60/a09522" ],
-    [ "Mail", "d5/d47/a09526.html", "d5/d47/a09526" ],
-    [ "ServerMail", "d4/d86/a09530.html", "d4/d86/a09530" ],
-    [ "MAIL_BODY_ITEM_TEMPLATE", "de/d5c/a01358.html#a400524cb6bb97f3dfaa616a2afae05db", null ],
-    [ "MAX_MAIL_ITEMS", "de/d5c/a01358.html#a92d79b5b2210d828abe28a8834a50770", null ],
-    [ "MailItemInfoVec", "de/d5c/a01358.html#a5f97bcac5adeb0d52a6360c8aa0d0938", null ],
-    [ "MailCheckMask", "de/d5c/a01358.html#a9738cb9d4ddff5f3b2a406f8d9c469cc", [
-      [ "MAIL_CHECK_MASK_NONE", "de/d5c/a01358.html#a9738cb9d4ddff5f3b2a406f8d9c469cca65bb77bc25220e08e3c065ad070b9888", null ],
-      [ "MAIL_CHECK_MASK_READ", "de/d5c/a01358.html#a9738cb9d4ddff5f3b2a406f8d9c469cca3b48ed5fecdcd88c0a15e74b0853c03b", null ],
-      [ "MAIL_CHECK_MASK_RETURNED", "de/d5c/a01358.html#a9738cb9d4ddff5f3b2a406f8d9c469cca5f7f5d671d1137cc0dd8b88a6579454a", null ],
-      [ "MAIL_CHECK_MASK_COPIED", "de/d5c/a01358.html#a9738cb9d4ddff5f3b2a406f8d9c469cca9170ec2a04d365ca0a6167cad4a2e2fb", null ],
-      [ "MAIL_CHECK_MASK_COD_PAYMENT", "de/d5c/a01358.html#a9738cb9d4ddff5f3b2a406f8d9c469cca4cef0afe6ff002d8e7089cb2eddf1468", null ],
-      [ "MAIL_CHECK_MASK_HAS_BODY", "de/d5c/a01358.html#a9738cb9d4ddff5f3b2a406f8d9c469cca348c2227a2767173436f2f88dfe37716", null ]
+    [ "npc_captain_saeed", "d8/d26/a23918.html", "d8/d26/a23918" ],
+    [ "npc_captain_saeed::npc_captain_saeedAI", "df/da9/a23922.html", "df/da9/a23922" ],
+    [ "npc_commander_dawnforge", "d0/d14/a23926.html", "d0/d14/a23926" ],
+    [ "npc_commander_dawnforge::npc_commander_dawnforgeAI", "d6/d03/a23930.html", "d6/d03/a23930" ],
+    [ "at_commander_dawnforge", "d5/dc6/a23934.html", "d5/dc6/a23934" ],
+    [ "npc_bessy", "da/d00/a23938.html", "da/d00/a23938" ],
+    [ "npc_bessy::npc_bessyAI", "d6/dfe/a23942.html", "d6/dfe/a23942" ],
+    [ "npc_maxx_a_million_escort", "d5/df2/a23946.html", "d5/df2/a23946" ],
+    [ "npc_maxx_a_million_escort::npc_maxx_a_million_escortAI", "d1/d22/a23950.html", "d1/d22/a23950" ],
+    [ "spell_q10190_battery_recharging_blaster", "d7/d64/a23954.html", "d7/d64/a23954" ],
+    [ "spell_q10190_battery_recharging_blaster_aura", "d5/d77/a23958.html", "d5/d77/a23958" ],
+    [ "spell_challenge_veraku", "dc/dfe/a23962.html", "dc/dfe/a23962" ],
+    [ "BessyData", "de/d5c/a01358.html#a2a01e5c4cbe1dd73ba234f4da412a800", [
+      [ "Q_ALMABTRIEB", "de/d5c/a01358.html#a2a01e5c4cbe1dd73ba234f4da412a800a03d22d23fb95f8127b016cf43730aa78", null ],
+      [ "N_THADELL", "de/d5c/a01358.html#a2a01e5c4cbe1dd73ba234f4da412a800a5cec3d466829633ff29e687afd873a5e", null ],
+      [ "SPAWN_FIRST", "de/d5c/a01358.html#a2a01e5c4cbe1dd73ba234f4da412a800a82b0ec040f620e6d838f64ddc943fda2", null ],
+      [ "SPAWN_SECOND", "de/d5c/a01358.html#a2a01e5c4cbe1dd73ba234f4da412a800a3a88a7d2035f3e6702cb8fbbc4bf4ff0", null ],
+      [ "SAY_BESSY_0", "de/d5c/a01358.html#a2a01e5c4cbe1dd73ba234f4da412a800a55f40e4f36c80f45773efa04eff81b8f", null ],
+      [ "SAY_BESSY_1", "de/d5c/a01358.html#a2a01e5c4cbe1dd73ba234f4da412a800adb84ff3325e5e417b4181ca493f156f7", null ],
+      [ "SAY_THADELL_1", "de/d5c/a01358.html#a2a01e5c4cbe1dd73ba234f4da412a800aca2132a9fb3f52ef6b935470b5f0712b", null ],
+      [ "SAY_THADELL_2", "de/d5c/a01358.html#a2a01e5c4cbe1dd73ba234f4da412a800a7ff88b44b35f30f4f524eed2587fd081", null ]
     ] ],
-    [ "MailMessageType", "de/d5c/a01358.html#afb83216fd8c410f5d4bdfef0f9b302ed", [
-      [ "MAIL_NORMAL", "de/d5c/a01358.html#afb83216fd8c410f5d4bdfef0f9b302edaad2526a166df2caa50762ff348a2f54a", null ],
-      [ "MAIL_AUCTION", "de/d5c/a01358.html#afb83216fd8c410f5d4bdfef0f9b302eda1c6b723dd78af975a7ec8a3562361330", null ],
-      [ "MAIL_CREATURE", "de/d5c/a01358.html#afb83216fd8c410f5d4bdfef0f9b302eda462b01f59d339ec67b080f100e97256c", null ],
-      [ "MAIL_GAMEOBJECT", "de/d5c/a01358.html#afb83216fd8c410f5d4bdfef0f9b302eda4398082ad7546f3811f818835522100d", null ],
-      [ "MAIL_CALENDAR", "de/d5c/a01358.html#afb83216fd8c410f5d4bdfef0f9b302eda99dc24213703b6afb3639762a349c258", null ]
+    [ "CommanderDawnforgeData", "de/d5c/a01358.html#a470431f2b6d3fc2e926e101095179ffa", [
+      [ "SAY_COMMANDER_DAWNFORGE_1", "de/d5c/a01358.html#a470431f2b6d3fc2e926e101095179ffaa17fadf17bb33086bd1377d8916931647", null ],
+      [ "SAY_COMMANDER_DAWNFORGE_2", "de/d5c/a01358.html#a470431f2b6d3fc2e926e101095179ffaa9fa936b5180626943e1c8512d7562ff1", null ],
+      [ "SAY_COMMANDER_DAWNFORGE_3", "de/d5c/a01358.html#a470431f2b6d3fc2e926e101095179ffaaaedeb1e7eed6dd79cc086b20225e9803", null ],
+      [ "SAY_COMMANDER_DAWNFORGE_4", "de/d5c/a01358.html#a470431f2b6d3fc2e926e101095179ffaab44bd21d08ff8288337afcc2ed4ae00b", null ],
+      [ "SAY_COMMANDER_DAWNFORGE_5", "de/d5c/a01358.html#a470431f2b6d3fc2e926e101095179ffaa5d558f989528b52d59ad9892c4b66c3e", null ],
+      [ "SAY_ARCANIST_ARDONIS_1", "de/d5c/a01358.html#a470431f2b6d3fc2e926e101095179ffaaa381d1952765fc56a39909cf764ce22d", null ],
+      [ "SAY_ARCANIST_ARDONIS_2", "de/d5c/a01358.html#a470431f2b6d3fc2e926e101095179ffaab385079103654d04c489c6754eaec7c2", null ],
+      [ "SAY_PATHALEON_CULATOR_IMAGE_1", "de/d5c/a01358.html#a470431f2b6d3fc2e926e101095179ffaaa6a8fe8429cb51c4a8856d384925d680", null ],
+      [ "SAY_PATHALEON_CULATOR_IMAGE_2", "de/d5c/a01358.html#a470431f2b6d3fc2e926e101095179ffaaa4c5d4186e9d4d702539ce810a8a4d50", null ],
+      [ "SAY_PATHALEON_CULATOR_IMAGE_2_1", "de/d5c/a01358.html#a470431f2b6d3fc2e926e101095179ffaaff354996e7c20a0a9d703fff96ddc29a", null ],
+      [ "SAY_PATHALEON_CULATOR_IMAGE_2_2", "de/d5c/a01358.html#a470431f2b6d3fc2e926e101095179ffaae2950dd48e66ada992e02314865d9ba2", null ],
+      [ "QUEST_INFO_GATHERING", "de/d5c/a01358.html#a470431f2b6d3fc2e926e101095179ffaa0ee8f5f004065795c5f8caf9e789dcab", null ],
+      [ "SPELL_SUNFURY_DISGUISE", "de/d5c/a01358.html#a470431f2b6d3fc2e926e101095179ffaaec35af0de8c856a359d85fff1c277290", null ]
     ] ],
-    [ "MailShowFlags", "de/d5c/a01358.html#a03de18fb5d90aaaa9daa333ddbe2d394", [
-      [ "MAIL_SHOW_UNK0", "de/d5c/a01358.html#a03de18fb5d90aaaa9daa333ddbe2d394a5d741597d486fff4283ab7bfeaa32ecc", null ],
-      [ "MAIL_SHOW_DELETE", "de/d5c/a01358.html#a03de18fb5d90aaaa9daa333ddbe2d394a7d87ac4c7be1c9b63837bd39706eba07", null ],
-      [ "MAIL_SHOW_AUCTION", "de/d5c/a01358.html#a03de18fb5d90aaaa9daa333ddbe2d394ac82b5f53ff29204c00b9479712bfeb72", null ],
-      [ "MAIL_SHOW_UNK2", "de/d5c/a01358.html#a03de18fb5d90aaaa9daa333ddbe2d394a2fe725e9d54355a13c1322a8d81da6a3", null ],
-      [ "MAIL_SHOW_RETURN", "de/d5c/a01358.html#a03de18fb5d90aaaa9daa333ddbe2d394a9bfa489acd6be01c57410679c81d5a9e", null ]
+    [ "MaxxAMillion", "de/d5c/a01358.html#a58daffec60949e9530b1008476648a78", [
+      [ "QUEST_MARK_V_IS_ALIVE", "de/d5c/a01358.html#a58daffec60949e9530b1008476648a78ae3a71a08dee1eda35944a2dbc1fb5355", null ],
+      [ "GO_DRAENEI_MACHINE", "de/d5c/a01358.html#a58daffec60949e9530b1008476648a78a548cc083448b82c48e13a90bd8c26b71", null ]
     ] ],
-    [ "MailState", "de/d5c/a01358.html#a38d587a785c6fa4c4342574233684a20", [
-      [ "MAIL_STATE_UNCHANGED", "de/d5c/a01358.html#a38d587a785c6fa4c4342574233684a20ae16408762dbf072dd193ffe6b3097047", null ],
-      [ "MAIL_STATE_CHANGED", "de/d5c/a01358.html#a38d587a785c6fa4c4342574233684a20aac816c9be99273eb826bf89eda08f1bb", null ],
-      [ "MAIL_STATE_DELETED", "de/d5c/a01358.html#a38d587a785c6fa4c4342574233684a20a3645936325ffbfb6858bcbb312b9072a", null ]
+    [ "PhaseHunterData", "de/d5c/a01358.html#ac333c86fd13e6712ad127ce019744439", [
+      [ "NPC_PHASE_HUNTER_ENTRY", "de/d5c/a01358.html#ac333c86fd13e6712ad127ce019744439a09d6eaae37dca77a7d3e075aabecb9b1", null ],
+      [ "NPC_DRAINED_PHASE_HUNTER_ENTRY", "de/d5c/a01358.html#ac333c86fd13e6712ad127ce019744439a5e4744aa231e4fc00af57df04f110f21", null ]
     ] ],
-    [ "MailStationery", "de/d5c/a01358.html#a97c589393fcefa82854f195693493094", [
-      [ "MAIL_STATIONERY_TEST", "de/d5c/a01358.html#a97c589393fcefa82854f195693493094a08c959967722eb59a73866b06fff4ee1", null ],
-      [ "MAIL_STATIONERY_DEFAULT", "de/d5c/a01358.html#a97c589393fcefa82854f195693493094ab18c50370e3504660676eeab1fed7a68", null ],
-      [ "MAIL_STATIONERY_GM", "de/d5c/a01358.html#a97c589393fcefa82854f195693493094a39230800d1e1c4dbd3c46fbaaba39541", null ],
-      [ "MAIL_STATIONERY_AUCTION", "de/d5c/a01358.html#a97c589393fcefa82854f195693493094aef86d2a36ec87427177f03b971bf4fcd", null ],
-      [ "MAIL_STATIONERY_VAL", "de/d5c/a01358.html#a97c589393fcefa82854f195693493094acf69185a7c40dad17bf89924f8c89cd5", null ],
-      [ "MAIL_STATIONERY_CHR", "de/d5c/a01358.html#a97c589393fcefa82854f195693493094a3f6ed9e1ee49995d1854786d3ab7b5a0", null ],
-      [ "MAIL_STATIONERY_ORP", "de/d5c/a01358.html#a97c589393fcefa82854f195693493094aa349afbb838c106b8d4e161b7611583c", null ]
-    ] ]
+    [ "saeed", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57", [
+      [ "NPC_PROTECTORATE_AVENGER", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57af8455f0d1b05327995666bdf25460f4c", null ],
+      [ "NPC_PROTECTORATE_DEFENDER", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57adea2dcfdeb74be7b6dda3fa09fd5a5f4", null ],
+      [ "NPC_DIMENSIUS", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57a1f5b194a7bc9adfdca465ed52f959eea", null ],
+      [ "EVENT_START_WALK", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57a0604ae6fd60796af200de3f25402b10d", null ],
+      [ "EVENT_START_FIGHT1", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57a65e239873a9924d3244c803db81a375c", null ],
+      [ "EVENT_START_FIGHT2", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57ae1bc367e9c990b28427ea9b17ff2e2b5", null ],
+      [ "DATA_START_ENCOUNTER", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57ad749d95194b0d33afe0fb38e1c3cc303", null ],
+      [ "DATA_START_FIGHT", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57a14f033d696865e62368c34fac2b8526e", null ],
+      [ "SAY_SAEED_0", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57a1448e283171b21f006fd9a71f564a2ad", null ],
+      [ "SAY_SAEED_1", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57af52b0dfe76f04f87f8e2071d67c92c4d", null ],
+      [ "SAY_SAEED_2", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57ad67928da538988f5c88e918c70658042", null ],
+      [ "SAY_SAEED_3", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57ad02a0c5b499dbf349ef01e6996b5dce3", null ],
+      [ "SAY_DIMENSISIUS_1", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57a710e4e7c0d11193180d86d645bbcc77a", null ],
+      [ "QUEST_DIMENSIUS_DEVOURING", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57a0407bc0e2ffbef95681061e079eb4c4a", null ],
+      [ "SPELL_DIMENSIUS_TRANSFORM", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57a8f4b5a0091270005149f693e996a2a92", null ],
+      [ "GOSSIP_MENU_SAEED", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57a41bc4e4722aef08a2e0d78271c9190cb", null ],
+      [ "TEXT_NPC_SAEED_DEFAULT", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57a455d4416943ca7584612605e23dc8143", null ],
+      [ "TEXT_NPC_SAEED_START_FIGHT", "de/d5c/a01358.html#a94c12289aa5607c971cf8d9321c2bf57a568e9fcaed7ee3e38c31bed4640cbb7b", null ]
+    ] ],
+    [ "Veraku", "de/d5c/a01358.html#af18063468550fc13e844aa9bdecb6ab7", [
+      [ "NPC_VERAKU", "de/d5c/a01358.html#af18063468550fc13e844aa9bdecb6ab7abd31c036b8a79a737cae978516c5f087", null ],
+      [ "SPELL_CHALLENGE_VERAKU", "de/d5c/a01358.html#af18063468550fc13e844aa9bdecb6ab7af8e60521d2a469bf01d03351ca50b206", null ]
+    ] ],
+    [ "AddSC_netherstorm", "de/d5c/a01358.html#af51d6fe8cee4df374fd97aee6f3b65ca", null ],
+    [ "CreatureEntry", "de/d5c/a01358.html#ae6818d26ba96279223aa6d108a586f2d", null ]
 ];

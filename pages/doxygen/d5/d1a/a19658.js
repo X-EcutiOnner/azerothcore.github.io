@@ -1,8 +1,9 @@
 var a19658 =
 [
-    [ "npc_mechanoliftAI", "d5/d1a/a19658.html#ad772427e03c2bd2c3a51556b6e5968b5", null ],
-    [ "Reset", "d5/d1a/a19658.html#a8198e7db2c6f4f2ceec984cfd53982b1", null ],
-    [ "UpdateAI", "d5/d1a/a19658.html#a3f8634abde6b3aa00acf03c77df433be", null ],
-    [ "_evadeTimer", "d5/d1a/a19658.html#a53da6899ad0dcea569ca29f57e45bf61", null ],
-    [ "_startTimer", "d5/d1a/a19658.html#a9b1587bbadd8f0044e1d404d55b8ba1f", null ]
+    [ "npc_auriaya_sanctum_sentryAI", "d5/d1a/a19658.html#afffb62c4db56bb4e7baa095ae75cd7e3", null ],
+    [ "JustEngagedWith", "d5/d1a/a19658.html#aeeb0aa4667a110dabcc70d422ebd6de5", null ],
+    [ "Reset", "d5/d1a/a19658.html#a5ab87ac858782cd7f05d9778ca3a6214", null ],
+    [ "UpdateAI", "d5/d1a/a19658.html#ab1862b4bd4b4fdfaeac8ad9c52cc5ed6", null ],
+    [ "_ripFleshTimer", "d5/d1a/a19658.html#a83920afb7f6930d780abd2d6fba2aa4c", null ],
+    [ "_savagePounceTimer", "d5/d1a/a19658.html#a9a6b14ece9a0bf812a04ea765b546735", null ]
 ];

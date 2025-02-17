@@ -1,8 +1,6 @@
 var a19354 =
 [
-    [ "iron_golem_custodianAI", "d1/dcc/a19354.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
-    [ "JustEngagedWith", "d1/dcc/a19354.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
-    [ "Reset", "d1/dcc/a19354.html#af3193696d665746eecd9c62128d8684d", null ],
-    [ "UpdateAI", "d1/dcc/a19354.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
-    [ "events", "d1/dcc/a19354.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
+    [ "CalculateDamage", "d1/dcc/a19354.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "d1/dcc/a19354.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "d1/dcc/a19354.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

@@ -1,10 +1,6 @@
 var a24278 =
 [
-    [ "Absorb", "d5/d9b/a24278.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
-    [ "CalculateAmount", "d5/d9b/a24278.html#a279a025cac490ee3647f47584b59179f", null ],
-    [ "Load", "d5/d9b/a24278.html#a3fededdbfca9d12e6dbd097620e104be", null ],
-    [ "PrepareAuraScript", "d5/d9b/a24278.html#a818875a8073491eab2508182bd941e25", null ],
-    [ "Register", "d5/d9b/a24278.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
-    [ "Validate", "d5/d9b/a24278.html#a60eb14be1b3108b7b896a27eab35569b", null ],
-    [ "absorbPct", "d5/d9b/a24278.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
+    [ "DeathEvent", "d5/d9b/a24278.html#a2fb9a98c077d715c4648aede6597276e", null ],
+    [ "Execute", "d5/d9b/a24278.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
+    [ "_owner", "d5/d9b/a24278.html#a099d0d5ae50126f00220b3ed90907617", null ]
 ];

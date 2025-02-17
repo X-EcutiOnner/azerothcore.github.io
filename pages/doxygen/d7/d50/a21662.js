@@ -1,7 +1,6 @@
 var a21662 =
 [
-    [ "HandleScript", "d7/d50/a21662.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "d7/d50/a21662.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "d7/d50/a21662.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "d7/d50/a21662.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_q24545_vegard_dummyAI", "d0/de0/a21666.html", "d0/de0/a21666" ],
+    [ "npc_q24545_vegard_dummy", "d7/d50/a21662.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "d7/d50/a21662.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

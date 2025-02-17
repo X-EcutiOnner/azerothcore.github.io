@@ -1,7 +1,10 @@
 var a15370 =
 [
-    [ "npc_lakota_windsongAI", "d5/d36/a15374.html", "d5/d36/a15374" ],
-    [ "npc_lakota_windsong", "d4/d4b/a15370.html#a08a585ac36189ec23354c7acb26d223d", null ],
-    [ "GetAI", "d4/d4b/a15370.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
-    [ "OnQuestAccept", "d4/d4b/a15370.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
+    [ "CreatureId", "d4/d4b/a15370.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
+    [ "DespTimer", "d4/d4b/a15370.html#a0dfec745982b346ac1cd0af672be31fb", null ],
+    [ "SpawnCount", "d4/d4b/a15370.html#ad5347ee83eaa00fe0721279099c48433", null ],
+    [ "SpawnTimer", "d4/d4b/a15370.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
+    [ "UsedSpawnPoint", "d4/d4b/a15370.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
+    [ "WaveTextId", "d4/d4b/a15370.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
+    [ "YellTimer", "d4/d4b/a15370.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
 ];

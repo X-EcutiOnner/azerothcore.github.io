@@ -1,6 +1,6 @@
 var a20182 =
 [
-    [ "npc_ulduar_flames_initialAI", "de/d0a/a20186.html", "de/d0a/a20186" ],
-    [ "npc_ulduar_flames_initial", "d7/df4/a20182.html#aee0c62a38e3e0958e015faef2c434273", null ],
-    [ "GetAI", "d7/df4/a20182.html#ac0db78c361324a594220ad644001f4eb", null ]
+    [ "boss_kologarn_eyebeamAI", "de/d0a/a20186.html", "de/d0a/a20186" ],
+    [ "boss_kologarn_eyebeam", "d7/df4/a20182.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
+    [ "GetAI", "d7/df4/a20182.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
 ];

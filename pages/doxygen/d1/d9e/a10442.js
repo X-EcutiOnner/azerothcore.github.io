@@ -1,5 +1,7 @@
 var a10442 =
 [
-    [ "GuildDeleteRank", "d1/d9e/a10442.html#ae21057ea5cc30ed07deaa736149617b3", null ],
-    [ "Read", "d1/d9e/a10442.html#a91a7883299fe09e08c247c96987a8333", null ]
+    [ "Emote", "d1/d9e/a10442.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
+    [ "Write", "d1/d9e/a10442.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
+    [ "EmoteID", "d1/d9e/a10442.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
+    [ "Guid", "d1/d9e/a10442.html#ab96a1c0933e90872f54eb0995098274a", null ]
 ];

@@ -1,8 +1,6 @@
 var a23298 =
 [
-    [ "npc_target_trigger", "d0/d55/a23298.html#a238058ba80130c6239b7267db3247196", null ],
-    [ "Reset", "d0/d55/a23298.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
-    [ "UpdateAI", "d0/d55/a23298.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
-    [ "_cast", "d0/d55/a23298.html#a4ec89ca960323f7ad135d5a425a82416", null ],
-    [ "_scheduler", "d0/d55/a23298.html#a9b418b09e25c8f96692b4e2626339c96", null ]
+    [ "HandleScriptEffect", "d0/d55/a23298.html#abba5817280db6579e3e6e0b964655c6e", null ],
+    [ "PrepareSpellScript", "d0/d55/a23298.html#a846fa43c9907ddb6243c006327757a1c", null ],
+    [ "Register", "d0/d55/a23298.html#a7daa26f4035912bff4811b0bfee35fee", null ]
 ];

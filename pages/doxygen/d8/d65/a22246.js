@@ -1,4 +1,14 @@
 var a22246 =
 [
-    [ "idPatrol", "d8/d65/a22246.html#a1fbc40a9798b89ae8b903b1f5a6a8e67", null ]
+    [ "npc_finklesteinAI", "d8/d65/a22246.html#a075481689af110f8c20cd5ca13258ba3", null ],
+    [ "ClearPlayerOnTask", "d8/d65/a22246.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
+    [ "GetTaskAura", "d8/d65/a22246.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
+    [ "GetTaskCounter", "d8/d65/a22246.html#a240e8f556176b9571bd08407276402be", null ],
+    [ "GetTaskItemEntry", "d8/d65/a22246.html#a08a3005db6d192663a835b9ee192352b", null ],
+    [ "GetTaskItemName", "d8/d65/a22246.html#adce990629aa1833dc07c7dbb1297cead", null ],
+    [ "IsPlayerOnTask", "d8/d65/a22246.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
+    [ "RightClickCauldron", "d8/d65/a22246.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
+    [ "SelectRandomCode", "d8/d65/a22246.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
+    [ "StartNextTask", "d8/d65/a22246.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
+    [ "questList", "d8/d65/a22246.html#a5c3a3237579721b94dd433841b83bb02", null ]
 ];

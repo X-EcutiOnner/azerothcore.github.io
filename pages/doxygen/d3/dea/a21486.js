@@ -1,6 +1,5 @@
 var a21486 =
 [
-    [ "npc_heated_battleAI", "d3/dea/a21486.html#a2b73957d7890549f4b02488c5527fcef", null ],
-    [ "DamageTaken", "d3/dea/a21486.html#a8422c157214195d7166ede35c9c05d19", null ],
-    [ "Reset", "d3/dea/a21486.html#a11a4f3270ff260e30da89017dad38433", null ]
+    [ "npc_steam_powered_auctioneerAI", "d3/dea/a21486.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "d3/dea/a21486.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

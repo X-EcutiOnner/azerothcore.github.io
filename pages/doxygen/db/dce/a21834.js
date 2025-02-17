@@ -1,6 +1,12 @@
 var a21834 =
 [
-    [ "npc_blessed_bannerAI", "d3/d3e/a21838.html", "d3/d3e/a21838" ],
-    [ "npc_blessed_banner", "db/dce/a21834.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "db/dce/a21834.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "npc_your_inner_turmoilAI", "db/dce/a21834.html#a95e8039b174f6db267197e04b6bd2dd2", null ],
+    [ "DamageTaken", "db/dce/a21834.html#a0e14a306db46e817e6d8f7a358519f83", null ],
+    [ "JustDied", "db/dce/a21834.html#a142359bf1661542d044a7d27b764832b", null ],
+    [ "Reset", "db/dce/a21834.html#a4e17e9642ec11712652f41495974b716", null ],
+    [ "setphase", "db/dce/a21834.html#a17c00619bcf5818e49f67d4d8b8b35b0", null ],
+    [ "UpdateAI", "db/dce/a21834.html#a2a4b20fccb4b5ef0f590f0a7ee92e4d2", null ],
+    [ "health50", "db/dce/a21834.html#af5a9e355c2a5a927d38ea22fe96d89f0", null ],
+    [ "phase", "db/dce/a21834.html#a60212e1504bcb6f7db05ba5ed09df71f", null ],
+    [ "timer", "db/dce/a21834.html#af2c272de51aa15a41af9837f99256a62", null ]
 ];

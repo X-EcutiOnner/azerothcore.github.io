@@ -1,12 +1,13 @@
 var a14570 =
 [
-    [ "boss_isalien", "d6/d71/a14570.html#a736a25e60ae367a45c7d6451be96126d", null ],
-    [ "DamageTaken", "d6/d71/a14570.html#a95d461e099193b5e2c1363acb1b5939a", null ],
-    [ "JustDied", "d6/d71/a14570.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
-    [ "JustEngagedWith", "d6/d71/a14570.html#ad6714da515db77c7299ee80b3268433e", null ],
-    [ "JustSummoned", "d6/d71/a14570.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
-    [ "Reset", "d6/d71/a14570.html#a4995c18e2baa62d05717617d0b1e3529", null ],
-    [ "UpdateAI", "d6/d71/a14570.html#aa067bea34557a4b2fe840ef305852bc0", null ],
-    [ "_phase", "d6/d71/a14570.html#a954bbd32948e6c416197199d96142056", null ],
-    [ "_scheduler", "d6/d71/a14570.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
+    [ "boss_salrammAI", "d6/d71/a14570.html#ae1055878b3919e29d44ee26efcbe044f", null ],
+    [ "ExplodeGhoul", "d6/d71/a14570.html#adc64d8b10b28b98254c528732fff0516", null ],
+    [ "JustDied", "d6/d71/a14570.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
+    [ "JustEngagedWith", "d6/d71/a14570.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
+    [ "JustSummoned", "d6/d71/a14570.html#afd70403a8644f310f37335c6c9bf5b55", null ],
+    [ "KilledUnit", "d6/d71/a14570.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
+    [ "Reset", "d6/d71/a14570.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
+    [ "UpdateAI", "d6/d71/a14570.html#aa2350dc05884593b1361f9f09b8d9392", null ],
+    [ "events", "d6/d71/a14570.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
+    [ "summons", "d6/d71/a14570.html#a813c09e121730d4ae2e623ac3c37d570", null ]
 ];

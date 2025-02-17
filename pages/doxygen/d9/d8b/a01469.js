@@ -1,7 +1,8 @@
 var a01469 =
 [
-    [ "ArenaTeamMgr", "db/dcc/a07138.html", "db/dcc/a07138" ],
-    [ "sArenaTeamMgr", "d9/d8b/a01469.html#a94afc7262fb2f00293dc80de8ba547df", null ],
-    [ "MAX_ARENA_TEAM_ID", "d9/d8b/a01469.html#aa472ba6cfd587021965aece0e77797b7", null ],
-    [ "MAX_TEMP_ARENA_TEAM_ID", "d9/d8b/a01469.html#ade4bc52db611f6481d3c8f5e6f346b4c", null ]
+    [ "instance_the_botanica", "d5/db7/a23590.html", "d5/db7/a23590" ],
+    [ "instance_the_botanica::instance_the_botanica_InstanceMapScript", "dc/d59/a23594.html", "dc/d59/a23594" ],
+    [ "spell_botanica_call_of_the_falcon_aura", "da/d98/a23598.html", "da/d98/a23598" ],
+    [ "spell_botanica_shift_form_aura", "d6/d86/a23602.html", "d6/d86/a23602" ],
+    [ "AddSC_instance_the_botanica", "d9/d8b/a01469.html#a42bac8d93a9aac296390fec4cb6b94cb", null ]
 ];

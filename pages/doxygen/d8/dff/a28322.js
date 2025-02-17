@@ -1,16 +1,11 @@
 var a28322 =
 [
-    [ "Iterator", "d8/dff/a28322.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "Iterator", "d8/dff/a28322.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "operator!=", "d8/dff/a28322.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator!=", "d8/dff/a28322.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator*", "d8/dff/a28322.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator*", "d8/dff/a28322.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator++", "d8/dff/a28322.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator++", "d8/dff/a28322.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator->", "d8/dff/a28322.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator->", "d8/dff/a28322.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator==", "d8/dff/a28322.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "operator==", "d8/dff/a28322.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "record", "d8/dff/a28322.html#a948512c44e53dfa177b85f82e9fd6160", null ]
+    [ "IsAvailable", "d8/dff/a28322.html#adfebd7a162ebae8396669de031c768a6", null ],
+    [ "operator bool", "d8/dff/a28322.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
+    [ "operator*", "d8/dff/a28322.html#a24733bf06b4a91abcf4945aa5303a275", null ],
+    [ "operator->", "d8/dff/a28322.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
+    [ "SecretMgr", "d8/dff/a28322.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
+    [ "lock", "d8/dff/a28322.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
+    [ "state", "d8/dff/a28322.html#a01563e00123d442b82bd6389d838c23d", null ],
+    [ "value", "d8/dff/a28322.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
 ];

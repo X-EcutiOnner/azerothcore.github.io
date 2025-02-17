@@ -1,6 +1,6 @@
 var a26842 =
 [
-    [ "npc_spirit_shadeAI", "d0/d4c/a26846.html", "d0/d4c/a26846" ],
-    [ "npc_spirit_shade", "d3/d8e/a26842.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "d3/d8e/a26842.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "achievement_arena_by_type", "d3/d8e/a26842.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "d3/d8e/a26842.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "d3/d8e/a26842.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

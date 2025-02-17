@@ -1,7 +1,6 @@
 var a22078 =
 [
-    [ "HandleScript", "d9/dd2/a22078.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "d9/dd2/a22078.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "d9/dd2/a22078.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "d9/dd2/a22078.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "npc_iron_watcherAI", "d8/d4f/a22082.html", "d8/d4f/a22082" ],
+    [ "npc_iron_watcher", "d9/dd2/a22078.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
+    [ "GetAI", "d9/dd2/a22078.html#af3b80b838e192737762ceed599b0be9a", null ]
 ];

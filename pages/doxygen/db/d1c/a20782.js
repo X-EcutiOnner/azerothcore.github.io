@@ -1,7 +1,7 @@
 var a20782 =
 [
-    [ "HandleEffectPeriodic", "db/d1c/a20782.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
-    [ "PrepareAuraScript", "db/d1c/a20782.html#a748cd347867557b5048d9ba0c112cd80", null ],
-    [ "Register", "db/d1c/a20782.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
-    [ "Validate", "db/d1c/a20782.html#afa86789ef14b1d06094705ba6cfb9205", null ]
+    [ "OnPeriodic", "db/d1c/a20782.html#a529e89c1ae0074370da174defc086719", null ],
+    [ "PrepareAuraScript", "db/d1c/a20782.html#a587652095a5dfae229787a0c0ceacfbe", null ],
+    [ "Register", "db/d1c/a20782.html#acd5551b09882d720608bdec6036dee9a", null ],
+    [ "Validate", "db/d1c/a20782.html#aaed6604e39dd977f4e7c671052d718e8", null ]
 ];

@@ -1,11 +1,10 @@
 var a20374 =
 [
-    [ "boss_thorim_ancient_rune_giantAI", "de/d29/a20374.html#a75df92817fb5eafa28e5d9c33679dcf8", null ],
-    [ "DoAction", "de/d29/a20374.html#a1ee097badabf5264517bc0e9d9a45051", null ],
-    [ "JustDied", "de/d29/a20374.html#ac69a6187be136fa53c65a7eb13bf19d4", null ],
-    [ "JustEngagedWith", "de/d29/a20374.html#acbfd05bbbae2f5b8a6fa2ee8bc440498", null ],
-    [ "Reset", "de/d29/a20374.html#a280a68af0d6b65bc99bb9b7116b801ad", null ],
-    [ "UpdateAI", "de/d29/a20374.html#aef980c0fe0c50beca167ea0ef46ff0c7", null ],
-    [ "_isInCombat", "de/d29/a20374.html#ab015a6dc76067be1d51d3ce67b6a7aff", null ],
-    [ "events", "de/d29/a20374.html#afff251a2cc56b7ce686a5b58c196c16c", null ]
+    [ "npc_ulduar_harpoonfirestateAI", "de/d29/a20374.html#acc6853671f37e35c746ffa3807ae10b2", null ],
+    [ "GetData", "de/d29/a20374.html#ac23f2c901ef8c2160ceea43a0a15e185", null ],
+    [ "GetHarpoonGunIdForThisHFS", "de/d29/a20374.html#af21c4d50febac02eb0572efe564a19b1", null ],
+    [ "Reset", "de/d29/a20374.html#af300a8271762fe1b5582384114902ee8", null ],
+    [ "SetData", "de/d29/a20374.html#abf485123f0a73aa84ad5178e23c4192e", null ],
+    [ "pInstance", "de/d29/a20374.html#af576864ded6610daad973ac420d2fdb8", null ],
+    [ "repairPoints", "de/d29/a20374.html#a5e9bcd384285b9046da93bd18804d07b", null ]
 ];

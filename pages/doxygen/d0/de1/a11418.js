@@ -1,14 +1,16 @@
 var a11418 =
 [
-    [ "deserter_commandscript", "d0/de1/a11418.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
-    [ "GetCommands", "d0/de1/a11418.html#ab5b48b9dde89c9215c51560f26324649", null ],
-    [ "HandleDeserterAdd", "d0/de1/a11418.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
-    [ "HandleDeserterBGAdd", "d0/de1/a11418.html#a11fba09d369e7244244887947a91369e", null ],
-    [ "HandleDeserterBGRemove", "d0/de1/a11418.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
-    [ "HandleDeserterBGRemoveAll", "d0/de1/a11418.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
-    [ "HandleDeserterInstanceAdd", "d0/de1/a11418.html#aabd2b23e2dc61fac10890077b41d8179", null ],
-    [ "HandleDeserterInstanceRemove", "d0/de1/a11418.html#a3197e5228284ba50da7f3a31b3e76060", null ],
-    [ "HandleDeserterInstanceRemoveAll", "d0/de1/a11418.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
-    [ "HandleDeserterRemove", "d0/de1/a11418.html#a210dc9a7eddede6fe976157d6b22b683", null ],
-    [ "HandleDeserterRemoveAll", "d0/de1/a11418.html#a6274f79b9884586069f94137b44d89e9", null ]
+    [ "CheckContainer", "d0/de1/a11418.html#a08e083224760d2bca1996da9cd9cb014", null ],
+    [ "CheckResultContainer", "d0/de1/a11418.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
+    [ "WardenCheckMgr", "d0/de1/a11418.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
+    [ "~WardenCheckMgr", "d0/de1/a11418.html#a0d89190f580435337c328da4bf2497b8", null ],
+    [ "GetMaxValidCheckId", "d0/de1/a11418.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
+    [ "GetWardenDataById", "d0/de1/a11418.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
+    [ "GetWardenResultById", "d0/de1/a11418.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
+    [ "instance", "d0/de1/a11418.html#aba9de1e123070338dc0049db8d8f0663", null ],
+    [ "LoadWardenChecks", "d0/de1/a11418.html#ad02847547a06d98c582d09992dce9d11", null ],
+    [ "LoadWardenOverrides", "d0/de1/a11418.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
+    [ "CheckIdPool", "d0/de1/a11418.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
+    [ "CheckResultStore", "d0/de1/a11418.html#a4f0224b8377827aced304b28fdefbda7", null ],
+    [ "CheckStore", "d0/de1/a11418.html#aac59e154d81b838f27c577af87b86bd1", null ]
 ];

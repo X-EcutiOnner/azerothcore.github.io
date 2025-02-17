@@ -1,6 +1,6 @@
 var a22602 =
 [
-    [ "boss_reliquary_of_soulsAI", "df/d77/a22606.html", "df/d77/a22606" ],
-    [ "boss_reliquary_of_souls", "da/dce/a22602.html#a0c73fc6221da0b19903e534932ca6406", null ],
-    [ "GetAI", "da/dce/a22602.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
+    [ "FilterTargets", "da/dce/a22602.html#a91b9fdebdffcae06da1882d7d46f5460", null ],
+    [ "PrepareSpellScript", "da/dce/a22602.html#ae8f3906007580963bda33cd0e420299b", null ],
+    [ "Register", "da/dce/a22602.html#a5e191d4fca7cc95ddec8730cc3fd8ffe", null ]
 ];

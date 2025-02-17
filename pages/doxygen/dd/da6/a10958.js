@@ -1,7 +1,7 @@
 var a10958 =
 [
-    [ "SpellImmune", "dd/da6/a10958.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "dd/da6/a10958.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "dd/da6/a10958.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "dd/da6/a10958.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "IsValidOpcode", "dd/da6/a10958.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "dd/da6/a10958.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "dd/da6/a10958.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "dd/da6/a10958.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

@@ -1,6 +1,6 @@
 var a13618 =
 [
-    [ "npc_eagle_trash_aggro_trigger", "d7/dc0/a13618.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
-    [ "MoveInLineOfSight", "d7/dc0/a13618.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
-    [ "_instance", "d7/dc0/a13618.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
+    [ "npc_tapoke_slim_jahnAI", "de/d5e/a13622.html", "de/d5e/a13622" ],
+    [ "npc_tapoke_slim_jahn", "d7/dc0/a13618.html#a61e36b57f8ba78c371d454efb1512579", null ],
+    [ "GetAI", "d7/dc0/a13618.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
 ];

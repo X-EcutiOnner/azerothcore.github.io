@@ -1,7 +1,8 @@
 var a27310 =
 [
-    [ "npc_sayge", "da/d7f/a27310.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "da/d7f/a27310.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "da/d7f/a27310.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "da/d7f/a27310.html#aed1988335672423d024546654aa95298", null ]
+    [ "npc_nelsonAI", "d1/d39/a27314.html", "d1/d39/a27314" ],
+    [ "npc_nelson", "da/d7f/a27310.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "da/d7f/a27310.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "da/d7f/a27310.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "da/d7f/a27310.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

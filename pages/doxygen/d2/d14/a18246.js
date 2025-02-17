@@ -1,6 +1,6 @@
 var a18246 =
 [
-    [ "HandleScript", "d2/d14/a18246.html#a930b8a515b5d156c16925dc218cf8172", null ],
-    [ "PrepareSpellScript", "d2/d14/a18246.html#a892b0ba0f6541b3557a0200be5028479", null ],
-    [ "Register", "d2/d14/a18246.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
+    [ "ActivateSpirit", "d2/d14/a18246.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "d2/d14/a18246.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "d2/d14/a18246.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

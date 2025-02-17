@@ -1,16 +1,12 @@
 var a23374 =
 [
-    [ "boss_warchief_kargath_bladefist", "de/d23/a23374.html#a0957dbfd6c085575fa862f38c87b6b3d", null ],
-    [ "InitializeAI", "de/d23/a23374.html#a86d9b5b1500960235e76ae71337a6c90", null ],
-    [ "IsInRoom", "de/d23/a23374.html#af9d4bd9d94115a1040e1e4a4dbf8df83", null ],
-    [ "JustDied", "de/d23/a23374.html#a436b90336c90f6662f3ce704a62f0d90", null ],
-    [ "JustEngagedWith", "de/d23/a23374.html#ab3d7b0ebca4f8134e5c2f31422ff006b", null ],
-    [ "JustSummoned", "de/d23/a23374.html#aaa69f064d7eb3a0d107c835c806fa1de", null ],
-    [ "KilledUnit", "de/d23/a23374.html#a730bbd2f95a2919fba1a7300b4307b84", null ],
-    [ "MovementInform", "de/d23/a23374.html#a716eab9bda2b697252dde90aa513d7df", null ],
-    [ "Reset", "de/d23/a23374.html#a50fa7a5aed8d3f4916f0449c4fb075ac", null ],
-    [ "RespawnAssassins", "de/d23/a23374.html#a1397317259589ea69f77f52f60852043", null ],
-    [ "SummonedCreatureDies", "de/d23/a23374.html#a325da34f78d202708a58c1a543ecb8ca", null ],
-    [ "UpdateAI", "de/d23/a23374.html#acd463cac8e2fa8289ecb5567709db678", null ],
-    [ "_danceCount", "de/d23/a23374.html#af4a60caaef6388caff973295e3397a7d", null ]
+    [ "boss_vazruden_the_herald", "de/d23/a23374.html#a97f761b2e3477a22cdc65c68700de72c", null ],
+    [ "AttackStart", "de/d23/a23374.html#a190621f4130b913348a49d6dfe76b591", null ],
+    [ "JustSummoned", "de/d23/a23374.html#a66d8c6252e6baf88144da3af57bf65a4", null ],
+    [ "MovementInform", "de/d23/a23374.html#abd89aa3911c626864f8aada889ce99c9", null ],
+    [ "Reset", "de/d23/a23374.html#a18076b0fd12bc9a002394d5fe3aa5f81", null ],
+    [ "SetData", "de/d23/a23374.html#a7dcbec1c99fdf4f740656a8379a99080", null ],
+    [ "SummonedCreatureDespawn", "de/d23/a23374.html#a7621077082a3b53d1d21265e6dd00dce", null ],
+    [ "SummonedCreatureDies", "de/d23/a23374.html#a336feba0d88e4fccce28b2730a9aea9e", null ],
+    [ "UpdateAI", "de/d23/a23374.html#adc98e358a751fd9881589aada4baf320", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: TriggeredByAuraSpellData Struct Reference</title>
+<title>AzerothCore: PacketFilter Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,38 +106,44 @@ $(document).ready(function(){initNavTree('dd/df5/a10910.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="../../d9/d6d/a10907.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">TriggeredByAuraSpellData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">PacketFilter Class Reference<div class="ingroups"><a class="el" href="../../de/d41/a04734.html">User to World Communication</a></div></div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for PacketFilter:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../dd/df5/a10910.png" usemap="#PacketFilter_map" alt=""/>
+  <map id="PacketFilter_map" name="PacketFilter_map">
+<area href="../../d1/d6c/a10914.html" alt="MapSessionFilter" shape="rect" coords="0,56,118,80"/>
+<area href="../../dd/ddf/a10918.html" alt="WorldSessionFilter" shape="rect" coords="128,56,246,80"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a3f4704eed73af1e37a3d09434cfcddae"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a10910.html#a3f4704eed73af1e37a3d09434cfcddae">TriggeredByAuraSpellData</a> ()</td></tr>
-<tr class="separator:a3f4704eed73af1e37a3d09434cfcddae"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a782e0056967e006748318af3112c0e43"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a10910.html#a782e0056967e006748318af3112c0e43">Init</a> (<a class="el" href="../../d1/dfa/a10862.html">AuraEffect</a> const *aurEff)</td></tr>
-<tr class="separator:a782e0056967e006748318af3112c0e43"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a85d4782b76b060c172aaa6f914d400da"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a10910.html#a85d4782b76b060c172aaa6f914d400da">operator bool</a> () const</td></tr>
-<tr class="separator:a85d4782b76b060c172aaa6f914d400da"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af7290a4c37b1829a98e436486fa8b6cd"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a10910.html#af7290a4c37b1829a98e436486fa8b6cd">operator!</a> () const</td></tr>
-<tr class="separator:af7290a4c37b1829a98e436486fa8b6cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:accfa43359c62d2e9d6c38086c77374bd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a10910.html#accfa43359c62d2e9d6c38086c77374bd">PacketFilter</a> (<a class="el" href="../../de/de2/a10942.html">WorldSession</a> *pSession)</td></tr>
+<tr class="separator:accfa43359c62d2e9d6c38086c77374bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a669531cfd9c06d5cf525986069117687"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a10910.html#a669531cfd9c06d5cf525986069117687">~PacketFilter</a> ()=default</td></tr>
+<tr class="separator:a669531cfd9c06d5cf525986069117687"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03679e3c241a535757608c63ca933ac9"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a10910.html#a03679e3c241a535757608c63ca933ac9">Process</a> (<a class="el" href="../../d2/db6/a10898.html">WorldPacket</a> *)</td></tr>
+<tr class="separator:a03679e3c241a535757608c63ca933ac9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e2bdc6d15cfd5cac1b9c130937599e3"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a10910.html#a3e2bdc6d15cfd5cac1b9c130937599e3">ProcessUnsafe</a> () const</td></tr>
+<tr class="separator:a3e2bdc6d15cfd5cac1b9c130937599e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:af58f62fb168e9da7011f7b570f08e977"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d17/a10978.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a10910.html#af58f62fb168e9da7011f7b570f08e977">spellInfo</a></td></tr>
-<tr class="separator:af58f62fb168e9da7011f7b570f08e977"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9bbee8d48d4beb8a21721a10e0380c41"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df8/a00155.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a10910.html#a9bbee8d48d4beb8a21721a10e0380c41">effectIndex</a></td></tr>
-<tr class="separator:a9bbee8d48d4beb8a21721a10e0380c41"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afbb1ffd006dc6eb00ccd65add87b1b22"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a10910.html#afbb1ffd006dc6eb00ccd65add87b1b22">tickNumber</a></td></tr>
-<tr class="separator:afbb1ffd006dc6eb00ccd65add87b1b22"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:ad3723289ea93f1095cf82584268335d9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/de2/a10942.html">WorldSession</a> *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a10910.html#ad3723289ea93f1095cf82584268335d9">m_pSession</a></td></tr>
+<tr class="separator:ad3723289ea93f1095cf82584268335d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a3f4704eed73af1e37a3d09434cfcddae" name="a3f4704eed73af1e37a3d09434cfcddae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3f4704eed73af1e37a3d09434cfcddae">&#9670;&#160;</a></span>TriggeredByAuraSpellData()</h2>
+<a id="accfa43359c62d2e9d6c38086c77374bd" name="accfa43359c62d2e9d6c38086c77374bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#accfa43359c62d2e9d6c38086c77374bd">&#9670;&#160;</a></span>PacketFilter()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -146,7 +152,35 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">TriggeredByAuraSpellData::TriggeredByAuraSpellData </td>
+          <td class="memname">PacketFilter::PacketFilter </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/de2/a10942.html">WorldSession</a> *&#160;</td>
+          <td class="paramname"><em>pSession</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  233</span>: <a class="code hl_variable" href="../../dd/df5/a10910.html#ad3723289ea93f1095cf82584268335d9">m_pSession</a>(pSession) {}</div>
+<div class="ttc" id="aa10910_html_ad3723289ea93f1095cf82584268335d9"><div class="ttname"><a href="../../dd/df5/a10910.html#ad3723289ea93f1095cf82584268335d9">PacketFilter::m_pSession</a></div><div class="ttdeci">WorldSession *const m_pSession</div><div class="ttdef"><b>Definition:</b> WorldSession.h:240</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a669531cfd9c06d5cf525986069117687" name="a669531cfd9c06d5cf525986069117687"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a669531cfd9c06d5cf525986069117687">&#9670;&#160;</a></span>~PacketFilter()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual PacketFilter::~PacketFilter </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -154,47 +188,45 @@ Public Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  274</span>: <a class="code hl_variable" href="../../dd/df5/a10910.html#af58f62fb168e9da7011f7b570f08e977">spellInfo</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../dd/df5/a10910.html#a9bbee8d48d4beb8a21721a10e0380c41">effectIndex</a>(-1), <a class="code hl_variable" href="../../dd/df5/a10910.html#afbb1ffd006dc6eb00ccd65add87b1b22">tickNumber</a>(0) {}</div>
-<div class="ttc" id="aa10910_html_a9bbee8d48d4beb8a21721a10e0380c41"><div class="ttname"><a href="../../dd/df5/a10910.html#a9bbee8d48d4beb8a21721a10e0380c41">TriggeredByAuraSpellData::effectIndex</a></div><div class="ttdeci">int8 effectIndex</div><div class="ttdef"><b>Definition:</b> Spell.h:282</div></div>
-<div class="ttc" id="aa10910_html_af58f62fb168e9da7011f7b570f08e977"><div class="ttname"><a href="../../dd/df5/a10910.html#af58f62fb168e9da7011f7b570f08e977">TriggeredByAuraSpellData::spellInfo</a></div><div class="ttdeci">SpellInfo const  * spellInfo</div><div class="ttdef"><b>Definition:</b> Spell.h:281</div></div>
-<div class="ttc" id="aa10910_html_afbb1ffd006dc6eb00ccd65add87b1b22"><div class="ttname"><a href="../../dd/df5/a10910.html#afbb1ffd006dc6eb00ccd65add87b1b22">TriggeredByAuraSpellData::tickNumber</a></div><div class="ttdeci">uint32 tickNumber</div><div class="ttdef"><b>Definition:</b> Spell.h:283</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a782e0056967e006748318af3112c0e43" name="a782e0056967e006748318af3112c0e43"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a782e0056967e006748318af3112c0e43">&#9670;&#160;</a></span>Init()</h2>
+<a id="a03679e3c241a535757608c63ca933ac9" name="a03679e3c241a535757608c63ca933ac9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a03679e3c241a535757608c63ca933ac9">&#9670;&#160;</a></span>Process()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void TriggeredByAuraSpellData::Init </td>
+          <td class="memname">virtual bool PacketFilter::Process </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/dfa/a10862.html">AuraEffect</a> const *&#160;</td>
-          <td class="paramname"><em>aurEff</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d2/db6/a10898.html">WorldPacket</a> *&#160;</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 8945</span>{</div>
-<div class="line"><span class="lineno"> 8946</span>    <a class="code hl_variable" href="../../dd/df5/a10910.html#af58f62fb168e9da7011f7b570f08e977">spellInfo</a> = aurEff-&gt;GetSpellInfo();</div>
-<div class="line"><span class="lineno"> 8947</span>    <a class="code hl_variable" href="../../dd/df5/a10910.html#a9bbee8d48d4beb8a21721a10e0380c41">effectIndex</a> = aurEff-&gt;GetEffIndex();</div>
-<div class="line"><span class="lineno"> 8948</span>    <a class="code hl_variable" href="../../dd/df5/a10910.html#afbb1ffd006dc6eb00ccd65add87b1b22">tickNumber</a> = aurEff-&gt;GetTickNumber();</div>
-<div class="line"><span class="lineno"> 8949</span>}</div>
+
+<p>Reimplemented in <a class="el" href="../../d1/d6c/a10914.html#a54483596fe2a5a0d30fab9a13506b375">MapSessionFilter</a>, and <a class="el" href="../../dd/ddf/a10918.html#a0f0acf4ed9e61bf8aeb77ee7fb310660">WorldSessionFilter</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  236</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00282">effectIndex</a>, <a class="el" href="../../#l00056">AuraEffect::GetEffIndex()</a>, <a class="el" href="../../#l00054">AuraEffect::GetSpellInfo()</a>, <a class="el" href="../../#l00087">AuraEffect::GetTickNumber()</a>, <a class="el" href="../../#l00281">spellInfo</a>, and <a class="el" href="../../#l00283">tickNumber</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l03480">Spell::prepare()</a>.</p>
-
 </div>
 </div>
-<a id="a85d4782b76b060c172aaa6f914d400da" name="a85d4782b76b060c172aaa6f914d400da"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a85d4782b76b060c172aaa6f914d400da">&#9670;&#160;</a></span>operator bool()</h2>
+<a id="a3e2bdc6d15cfd5cac1b9c130937599e3" name="a3e2bdc6d15cfd5cac1b9c130937599e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3e2bdc6d15cfd5cac1b9c130937599e3">&#9670;&#160;</a></span>ProcessUnsafe()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -203,7 +235,7 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">TriggeredByAuraSpellData::operator bool </td>
+          <td class="memname">virtual bool PacketFilter::ProcessUnsafe </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -211,88 +243,40 @@ Public Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  278</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/df5/a10910.html#af58f62fb168e9da7011f7b570f08e977">spellInfo</a> != <span class="keyword">nullptr</span>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00281">spellInfo</a>.</p>
 
-</div>
-</div>
-<a id="af7290a4c37b1829a98e436486fa8b6cd" name="af7290a4c37b1829a98e436486fa8b6cd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af7290a4c37b1829a98e436486fa8b6cd">&#9670;&#160;</a></span>operator!()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool TriggeredByAuraSpellData::operator! </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  279</span>{ <span class="keywordflow">return</span> !(bool(*<span class="keyword">this</span>)); }</div>
+<p>Reimplemented in <a class="el" href="../../d1/d6c/a10914.html#a8e3a7dd5affb24305435aea2c57718fa">MapSessionFilter</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  237</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00300">WorldSession::Update()</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a9bbee8d48d4beb8a21721a10e0380c41" name="a9bbee8d48d4beb8a21721a10e0380c41"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9bbee8d48d4beb8a21721a10e0380c41">&#9670;&#160;</a></span>effectIndex</h2>
+<a id="ad3723289ea93f1095cf82584268335d9" name="ad3723289ea93f1095cf82584268335d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad3723289ea93f1095cf82584268335d9">&#9670;&#160;</a></span>m_pSession</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/df8/a00155.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> TriggeredByAuraSpellData::effectIndex</td>
+          <td class="memname"><a class="el" href="../../de/de2/a10942.html">WorldSession</a>* const PacketFilter::m_pSession</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l03815">Spell::_cast()</a>, <a class="el" href="../../#l04291">Spell::_handle_finish_phase()</a>, <a class="el" href="../../#l02613">Spell::DoAllEffectOnTarget()</a>, and <a class="el" href="../../#l08944">Init()</a>.</p>
-
-</div>
-</div>
-<a id="af58f62fb168e9da7011f7b570f08e977" name="af58f62fb168e9da7011f7b570f08e977"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af58f62fb168e9da7011f7b570f08e977">&#9670;&#160;</a></span>spellInfo</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../df/d17/a10978.html">SpellInfo</a> const* TriggeredByAuraSpellData::spellInfo</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l03815">Spell::_cast()</a>, <a class="el" href="../../#l04291">Spell::_handle_finish_phase()</a>, <a class="el" href="../../#l05664">Spell::CheckCast()</a>, <a class="el" href="../../#l07934">Spell::CheckEffectTarget()</a>, <a class="el" href="../../#l02613">Spell::DoAllEffectOnTarget()</a>, <a class="el" href="../../#l03002">Spell::DoSpellHitOnUnit()</a>, <a class="el" href="../../#l01844">Spell::EffectPersistentAA()</a>, <a class="el" href="../../#l00630">SpellScript::GetTriggeringSpell()</a>, <a class="el" href="../../#l08944">Init()</a>, <a class="el" href="../../#l08102">Spell::IsNeedSendToClient()</a>, and <a class="el" href="../../#l00278">operator bool()</a>.</p>
-
-</div>
-</div>
-<a id="afbb1ffd006dc6eb00ccd65add87b1b22" name="afbb1ffd006dc6eb00ccd65add87b1b22"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afbb1ffd006dc6eb00ccd65add87b1b22">&#9670;&#160;</a></span>tickNumber</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TriggeredByAuraSpellData::tickNumber</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00593">Spell::GetTriggeredByAuraTickNumber()</a>, and <a class="el" href="../../#l08944">Init()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00062">MapSessionFilter::Process()</a>, and <a class="el" href="../../#l00084">WorldSessionFilter::Process()</a>.</p>
 
 </div>
 </div>
@@ -301,8 +285,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/df5/a10910.html">TriggeredByAuraSpellData</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:45:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/df5/a10910.html">PacketFilter</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:43:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

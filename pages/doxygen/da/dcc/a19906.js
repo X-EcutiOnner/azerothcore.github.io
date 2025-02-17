@@ -1,6 +1,7 @@
 var a19906 =
 [
-    [ "npc_ulduar_toasty_fireAI", "da/dcc/a19906.html#a145001c6f1c1d505f810ae545ec62c69", null ],
-    [ "DoAction", "da/dcc/a19906.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
-    [ "SpellHit", "da/dcc/a19906.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
+    [ "boss_freya_lifebinderAI", "da/dcc/a19906.html#ae421aa209690e4a2908995b6b7d322cd", null ],
+    [ "Reset", "da/dcc/a19906.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
+    [ "UpdateAI", "da/dcc/a19906.html#afb06c217c1012d6463e44689359eada9", null ],
+    [ "_healTimer", "da/dcc/a19906.html#a7021d13dceb9af343f0e820cf086046e", null ]
 ];

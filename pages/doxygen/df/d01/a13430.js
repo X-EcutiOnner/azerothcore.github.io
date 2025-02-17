@@ -1,30 +1,6 @@
 var a13430 =
 [
-    [ "npc_varian_wrynnAI", "df/d01/a13430.html#a456af9e2d4eeef0d83f74121b86d2135", null ],
-    [ "EnterEvadeMode", "df/d01/a13430.html#a446788b34a7c79f73b3629054e7dd1dc", null ],
-    [ "JumpToNextStep", "df/d01/a13430.html#abbf343fb39222c312844b0ef41a32a56", null ],
-    [ "JustSummoned", "df/d01/a13430.html#ad8ed5358985d98734fc2820f78309a94", null ],
-    [ "Reset", "df/d01/a13430.html#a89e275d1a600fe3d84a306809069d0c2", null ],
-    [ "SetHoldState", "df/d01/a13430.html#abb90ecc6cd83ccdee1164080fc8343ea", null ],
-    [ "SpawnWave", "df/d01/a13430.html#ab02d388ee5ee549b4a23a12ddbca6799", null ],
-    [ "SummonedCreatureDies", "df/d01/a13430.html#aab3c4436f79e3293b78f5ecb0abbf604", null ],
-    [ "UpdateAI", "df/d01/a13430.html#abc90f62951ede3792dd2ea2d1794a040", null ],
-    [ "UpdateWorldState", "df/d01/a13430.html#a0f0948edb85f45cbd12faec72c23b129", null ],
-    [ "WaypointReached", "df/d01/a13430.html#ae8a2cbcffcfbf27d00fcfc6999b74b36", null ],
-    [ "_events", "df/d01/a13430.html#a93929fbbd33d7e95c95d93df87da4e32", null ],
-    [ "allianceForcesGUID", "df/d01/a13430.html#aaf9f3fc958530168ba4f3c86e1cf6fa4", null ],
-    [ "allianceGuardsGUID", "df/d01/a13430.html#aafeadcb50b34de9cb109f0293889aaf4", null ],
-    [ "blightWormGUID", "df/d01/a13430.html#a89790969afb35e87acbc59d9e387a709", null ],
-    [ "bStepping", "df/d01/a13430.html#a45677cab3e5ca17f320c4a949d4ed7f7", null ],
-    [ "generatorGUID", "df/d01/a13430.html#ab750f5d2e8a23dbc8bf557d6c543b3c6", null ],
-    [ "hordeForcesGUID", "df/d01/a13430.html#ac0c3b7e99d7b62d0966d1c3c76cf5634", null ],
-    [ "jainaGUID", "df/d01/a13430.html#a4bb7979acbcdbe3345289a5194dc6737", null ],
-    [ "khanokGUID", "df/d01/a13430.html#ab9d18b82abb4bb5c651588632bdb110f", null ],
-    [ "phaseTimer", "df/d01/a13430.html#afffeda9533746909712f2f4bb8606f1b", null ],
-    [ "putressGUID", "df/d01/a13430.html#a52dacd776aabd94f579bf947db6d138b", null ],
-    [ "step", "df/d01/a13430.html#ad0f9085317fba2b5f295218fd2cf3510", null ],
-    [ "summoned", "df/d01/a13430.html#a5213c73afd642b7a310110399850b52d", null ],
-    [ "sylvanasGUID", "df/d01/a13430.html#a94ea46630935a01ac146944e474a8c7d", null ],
-    [ "thrallGUID", "df/d01/a13430.html#ac37fc42a15732f5f71b94e31a62c41b6", null ],
-    [ "whirlwindTimer", "df/d01/a13430.html#a46b8bf23bd9c395358b66a9e62b719f6", null ]
+    [ "x", "df/d01/a13430.html#afeb59642abc7d5114668b2c27e315228", null ],
+    [ "y", "df/d01/a13430.html#a3e2454dd579de689289003a343e7f29c", null ],
+    [ "z", "df/d01/a13430.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
 ];

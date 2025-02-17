@@ -1,6 +1,6 @@
 var a13930 =
 [
-    [ "OnApply", "d0/d65/a13930.html#a4a276b00d4912c210598057620368934", null ],
-    [ "PrepareAuraScript", "d0/d65/a13930.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
-    [ "Register", "d0/d65/a13930.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
+    [ "HandleObjectAreaTargetSelect", "d0/d65/a13930.html#aa7695bddd766d5adefb04710d41894f6", null ],
+    [ "PrepareSpellScript", "d0/d65/a13930.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
+    [ "Register", "d0/d65/a13930.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
 ];

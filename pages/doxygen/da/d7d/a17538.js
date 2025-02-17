@@ -1,6 +1,7 @@
 var a17538 =
 [
-    [ "UnboundPlagueTargetSelector", "da/d7d/a17538.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "da/d7d/a17538.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "da/d7d/a17538.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "DamageGunship", "da/d7d/a17538.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "da/d7d/a17538.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "da/d7d/a17538.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "da/d7d/a17538.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

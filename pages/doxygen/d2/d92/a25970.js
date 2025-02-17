@@ -1,6 +1,10 @@
 var a25970 =
 [
-    [ "CheckCast", "d2/d92/a25970.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "d2/d92/a25970.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "d2/d92/a25970.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "spell_pal_judgement", "d2/d92/a25970.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "d2/d92/a25970.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "d2/d92/a25970.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "d2/d92/a25970.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "SealApplication", "d2/d92/a25970.html#a0bb55f122d560c70f416e448d03d2184", null ],
+    [ "Validate", "d2/d92/a25970.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "d2/d92/a25970.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

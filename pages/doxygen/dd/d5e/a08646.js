@@ -1,7 +1,11 @@
 var a08646 =
 [
-    [ "VehicleDespawnEvent", "dd/d5e/a08646.html#ab6f88e60f1068ab79049c158314a87ab", null ],
-    [ "Execute", "dd/d5e/a08646.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
-    [ "_duration", "dd/d5e/a08646.html#a3e9c695929c24728b2091940e511d5f0", null ],
-    [ "_self", "dd/d5e/a08646.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
+    [ "AuraMunchingQueue", "dd/d5e/a08646.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
+    [ "Execute", "dd/d5e/a08646.html#a8f025a0ea1db81fb283db563402d1c40", null ],
+    [ "_auraType", "dd/d5e/a08646.html#add694e24c38d585784f236acf9118b76", null ],
+    [ "_aurEff", "dd/d5e/a08646.html#a8ac00964608170d5375242c1b19c4be3", null ],
+    [ "_basePoints", "dd/d5e/a08646.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
+    [ "_owner", "dd/d5e/a08646.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
+    [ "_spellId", "dd/d5e/a08646.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
+    [ "_targetGUID", "dd/d5e/a08646.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
 ];

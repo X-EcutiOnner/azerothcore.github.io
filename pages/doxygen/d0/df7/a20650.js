@@ -1,6 +1,6 @@
 var a20650 =
 [
-    [ "FilterTargets", "d0/df7/a20650.html#a7efa78a7991b7ca859c7d622f973265d", null ],
-    [ "PrepareSpellScript", "d0/df7/a20650.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
-    [ "Register", "d0/df7/a20650.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
+    [ "boss_yoggsaron_brainAI", "db/dd2/a20654.html", "db/dd2/a20654" ],
+    [ "boss_yoggsaron_brain", "d0/df7/a20650.html#a8094e2a062f06c5a954c1d3401ca18d4", null ],
+    [ "GetAI", "d0/df7/a20650.html#a02e6b07087765d75d0f49b864e2f323f", null ]
 ];

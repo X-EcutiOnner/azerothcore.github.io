@@ -1,8 +1,7 @@
 var a28462 =
 [
-    [ "Color", "da/d42/a28462.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
-    [ "NameIndex", "da/d42/a28462.html#add893e045d13a3633fd7346457a10477", null ],
-    [ "Position", "da/d42/a28462.html#afae9056582e71160c151de2c172bc60a", null ],
-    [ "Rotation", "da/d42/a28462.html#a48d372bc1371fa5f94db9aa39669942a", null ],
-    [ "Scale", "da/d42/a28462.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
+    [ "fcc", "da/d42/a28462.html#afbaa5fdd612d1c93f7f07aa299d144ad", null ],
+    [ "fcc_txt", "da/d42/a28462.html#a89ed22b0a63dae9f1443309e54e9e421", null ],
+    [ "size", "da/d42/a28462.html#a0b9002c302e4dfef6dc533bf8c5bcdcc", null ],
+    [ "ver", "da/d42/a28462.html#adb92d3e9f7e35255a2e6e147d51ba8fc", null ]
 ];

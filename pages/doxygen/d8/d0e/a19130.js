@@ -1,12 +1,22 @@
 var a19130 =
 [
-    [ "npc_oculus_drakeAI", "d8/d0e/a19130.html#a214d9b77a5653f1a5f60106081eaf683", null ],
-    [ "IsSummonedBy", "d8/d0e/a19130.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
-    [ "MovementInform", "d8/d0e/a19130.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
-    [ "PassengerBoarded", "d8/d0e/a19130.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
-    [ "SpellHitTarget", "d8/d0e/a19130.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
-    [ "UpdateAI", "d8/d0e/a19130.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
-    [ "despawnTimer", "d8/d0e/a19130.html#a560dc0936a78267a4036b209c6718732", null ],
-    [ "JustSummoned", "d8/d0e/a19130.html#a8b656a464525e881944e72e9486b0eb9", null ],
-    [ "m_pInstance", "d8/d0e/a19130.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
+    [ "instance_eye_of_eternity_InstanceMapScript", "d8/d0e/a19130.html#a5d98695d6090d3805de4c26db0fb2d23", null ],
+    [ "CheckAchievementCriteriaMeet", "d8/d0e/a19130.html#a91fd1a35177ce6f29167ec20701e5ea6", null ],
+    [ "GetGuidData", "d8/d0e/a19130.html#a06adfadbd168118756fa457cfa814cf1", null ],
+    [ "Initialize", "d8/d0e/a19130.html#a9febece0b333f19b00ed3672bc24acf9", null ],
+    [ "IsEncounterInProgress", "d8/d0e/a19130.html#aa7a833aa22e9f99c10bc3f9c6b06fc9b", null ],
+    [ "OnCreatureCreate", "d8/d0e/a19130.html#abe14c696da1e452c2d79f20e4a729c12", null ],
+    [ "OnGameObjectCreate", "d8/d0e/a19130.html#accc79892118cce948568d7810ce64e23", null ],
+    [ "OnPlayerEnter", "d8/d0e/a19130.html#ae196d774c296cd8230946418832d158a", null ],
+    [ "ProcessEvent", "d8/d0e/a19130.html#a70b9ae907b6fe2a28333ea7f1a0999d9", null ],
+    [ "ReadSaveDataMore", "d8/d0e/a19130.html#a424b9a865e3d4f7953990b072599e98c", null ],
+    [ "SetData", "d8/d0e/a19130.html#a7795b115419ed6f74735535c2c9f3b74", null ],
+    [ "WriteSaveDataMore", "d8/d0e/a19130.html#ab03a08d80116947107b0279fa27d92f6", null ],
+    [ "bPokeAchiev", "d8/d0e/a19130.html#ae9ac88ac934fa86e28f5d4905b8defba", null ],
+    [ "EncounterStatus", "d8/d0e/a19130.html#acb95c03060aac2c7b022ffe9c09da7b2", null ],
+    [ "GO_ExitPortalGUID", "d8/d0e/a19130.html#a0ecf94e919fe425ea283a7929f33e96f", null ],
+    [ "GO_IrisGUID", "d8/d0e/a19130.html#a34fe2223ca6b0572357cc0c9f0a7ef52", null ],
+    [ "GO_PlatformGUID", "d8/d0e/a19130.html#a26cac92965b6eb53d5ceb0bb1a92773d", null ],
+    [ "NPC_MalygosGUID", "d8/d0e/a19130.html#a90666367e40a567c1adea7d444004db8", null ],
+    [ "str_data", "d8/d0e/a19130.html#a00839e8d0b4bc3673f576990dfc932cc", null ]
 ];

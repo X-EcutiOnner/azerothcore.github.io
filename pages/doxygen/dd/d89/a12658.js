@@ -1,6 +1,7 @@
 var a12658 =
 [
-    [ "npc_scarlet_ghoulAI", "d0/d1e/a12662.html", "d0/d1e/a12662" ],
-    [ "npc_scarlet_ghoul", "dd/d89/a12658.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "dd/d89/a12658.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "PeriodicTick", "dd/d89/a12658.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
+    [ "PrepareAuraScript", "dd/d89/a12658.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
+    [ "Register", "dd/d89/a12658.html#a2681d44b149e9f1d797df4147e20e686", null ],
+    [ "Validate", "dd/d89/a12658.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
 ];

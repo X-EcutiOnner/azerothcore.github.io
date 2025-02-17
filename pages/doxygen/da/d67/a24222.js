@@ -1,6 +1,6 @@
 var a24222 =
 [
-    [ "HandleSummon", "da/d67/a24222.html#a00e265d830ea3e8a0a1952984c438071", null ],
-    [ "PrepareSpellScript", "da/d67/a24222.html#a96df13b19964b6e89babb312465b90bc", null ],
-    [ "Register", "da/d67/a24222.html#a5341e4ddf1b1ef94099c337114164ba8", null ]
+    [ "achievement", "da/d67/a24222.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "da/d67/a24222.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "da/d67/a24222.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

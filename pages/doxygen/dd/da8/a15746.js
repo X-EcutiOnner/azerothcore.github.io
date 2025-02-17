@@ -1,7 +1,7 @@
 var a15746 =
 [
-    [ "CheckDistance", "dd/da8/a15746.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
-    [ "PrepareSpellScript", "dd/da8/a15746.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
-    [ "Register", "dd/da8/a15746.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
-    [ "Validate", "dd/da8/a15746.html#aa5d7a420154b156ca24e73de2faf912a", null ]
+    [ "HandleEffectRemove", "dd/da8/a15746.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
+    [ "PrepareAuraScript", "dd/da8/a15746.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
+    [ "Register", "dd/da8/a15746.html#a7c0533650e772713233ea45b0264cbff", null ],
+    [ "Validate", "dd/da8/a15746.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
 ];

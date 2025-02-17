@@ -1,6 +1,6 @@
 var a27294 =
 [
-    [ "npc_garments_of_questsAI", "da/d4f/a27298.html", "da/d4f/a27298" ],
-    [ "npc_garments_of_quests", "d1/d8c/a27294.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "d1/d8c/a27294.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "npc_preciousAI", "da/d4f/a27298.html", "da/d4f/a27298" ],
+    [ "npc_precious", "d1/d8c/a27294.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
+    [ "GetAI", "d1/d8c/a27294.html#a754ad85c8b1942b400a47c28297bad62", null ]
 ];

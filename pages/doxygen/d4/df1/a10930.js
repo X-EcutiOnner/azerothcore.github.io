@@ -1,12 +1,11 @@
 var a10930 =
 [
-    [ "WorldObjectSpellTargetCheck", "d4/df1/a10930.html#a370a66c484d486ac6d2d3419a019c7cd", null ],
-    [ "~WorldObjectSpellTargetCheck", "d4/df1/a10930.html#a1d519b04f171d230b21da3cc637497cf", null ],
-    [ "operator()", "d4/df1/a10930.html#a2ae263977948d2195b22a737c36bad20", null ],
-    [ "_caster", "d4/df1/a10930.html#ac090f8e47bcdfccb85fb791856355827", null ],
-    [ "_condList", "d4/df1/a10930.html#a70b9331b5871e2e4d92d642715c8192a", null ],
-    [ "_condSrcInfo", "d4/df1/a10930.html#a288c53998aa7b744f6e3eaeba68fe6d8", null ],
-    [ "_referer", "d4/df1/a10930.html#a1a24eaafdf716de984a5943e049d10f7", null ],
-    [ "_spellInfo", "d4/df1/a10930.html#a66bd07338943ee307be19f22326b29b7", null ],
-    [ "_targetSelectionType", "d4/df1/a10930.html#a0e629a6fd0da179ea0c98c93d2337603", null ]
+    [ "Player", "d4/df1/a10930.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d4/df1/a10930.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Face", "d4/df1/a10930.html#a6334464eea38be514f3faa7538b39a5a", null ],
+    [ "FacialHair", "d4/df1/a10930.html#a44643270b211d275eb94283842791407", null ],
+    [ "Gender", "d4/df1/a10930.html#a14321ea3595debe2836eceab8a82f944", null ],
+    [ "HairColor", "d4/df1/a10930.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
+    [ "HairStyle", "d4/df1/a10930.html#ade5b2dff213547ab4d707070f8979085", null ],
+    [ "Skin", "d4/df1/a10930.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
 ];

@@ -1,13 +1,7 @@
 var a23426 =
 [
-    [ "boss_wrath_scryer_soccothrates", "dc/d70/a23426.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "dc/d70/a23426.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "dc/d70/a23426.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "dc/d70/a23426.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "dc/d70/a23426.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "dc/d70/a23426.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "dc/d70/a23426.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "dc/d70/a23426.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "dc/d70/a23426.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "dc/d70/a23426.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "HandleDummyApply", "dc/d70/a23426.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
+    [ "HandleDummyRemove", "dc/d70/a23426.html#a5d68d9e15600119deca7179ffe00acda", null ],
+    [ "PrepareAuraScript", "dc/d70/a23426.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
+    [ "Register", "dc/d70/a23426.html#a094004ccf6b4cae4d27bca639b76b899", null ]
 ];

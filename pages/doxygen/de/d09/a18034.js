@@ -1,6 +1,8 @@
 var a18034 =
 [
-    [ "HandleScript", "de/d09/a18034.html#a9489c3454830d3826cb077c95947bf2d", null ],
-    [ "PrepareSpellScript", "de/d09/a18034.html#a19492e616ac6e69187bca4499175071e", null ],
-    [ "Register", "de/d09/a18034.html#a3446174d3308f535c27581b63ade9e8a", null ]
+    [ "HeightDifferenceCheck", "de/d09/a18034.html#aa8b61811e435cce456e5cb1d798be66e", null ],
+    [ "operator()", "de/d09/a18034.html#a1db203642683f85176f2a35eb3d10c34", null ],
+    [ "_baseObject", "de/d09/a18034.html#a7c274be02ca58429dffaee2ea34153c6", null ],
+    [ "_difference", "de/d09/a18034.html#af95e2bf67c8316dda982896978c45a68", null ],
+    [ "_reverse", "de/d09/a18034.html#a89074844d5fd8b02ed99c09ac4cc5b85", null ]
 ];

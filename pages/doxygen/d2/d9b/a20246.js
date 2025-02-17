@@ -1,6 +1,6 @@
 var a20246 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "d3/db7/a20250.html", "d3/db7/a20250" ],
-    [ "npc_ulduar_harpoonfirestate", "d2/d9b/a20246.html#a85043e64606ba7c9ce2da7a37bbf0e8e", null ],
-    [ "GetAI", "d2/d9b/a20246.html#a8c9e1882c0706cb0b576c24b62215238", null ]
+    [ "npc_ulduar_vx001AI", "d3/db7/a20250.html", "d3/db7/a20250" ],
+    [ "npc_ulduar_vx001", "d2/d9b/a20246.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
+    [ "GetAI", "d2/d9b/a20246.html#acdab817141b851deb09861230323ee58", null ]
 ];

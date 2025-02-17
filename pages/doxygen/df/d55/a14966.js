@@ -1,8 +1,10 @@
 var a14966 =
 [
-    [ "npc_ahnqiraji_critter", "df/d55/a14966.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "df/d55/a14966.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "df/d55/a14966.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "df/d55/a14966.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "df/d55/a14966.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "boss_huhuran", "df/d55/a14966.html#a64e0b20891992764c708cbb661c18196", null ],
+    [ "DamageTaken", "df/d55/a14966.html#adb47086f29b41f4168ad5d1b2728547d", null ],
+    [ "JustEngagedWith", "df/d55/a14966.html#a08f1d6550680d5bcf07332eade115730", null ],
+    [ "Reset", "df/d55/a14966.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
+    [ "UpdateAI", "df/d55/a14966.html#a23962e668f046b373f94ea6a2d75574a", null ],
+    [ "_berserk", "df/d55/a14966.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
+    [ "_hardEnrage", "df/d55/a14966.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
 ];

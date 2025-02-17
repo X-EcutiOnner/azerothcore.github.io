@@ -1,12 +1,6 @@
 var a23126 =
 [
-    [ "boss_swamplord_muselek", "d3/db8/a23126.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
-    [ "AttackStart", "d3/db8/a23126.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
-    [ "CanShootVictim", "d3/db8/a23126.html#af84af5e4b344fc5f5da9f2047519710a", null ],
-    [ "JustDied", "d3/db8/a23126.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
-    [ "JustEngagedWith", "d3/db8/a23126.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
-    [ "KilledUnit", "d3/db8/a23126.html#a9f2afd6aacb9befa956079a42fbace37", null ],
-    [ "Reset", "d3/db8/a23126.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
-    [ "_canChase", "d3/db8/a23126.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
-    [ "_markTarget", "d3/db8/a23126.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
+    [ "go_ahune_ice_stone", "d3/db8/a23126.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "d3/db8/a23126.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "d3/db8/a23126.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

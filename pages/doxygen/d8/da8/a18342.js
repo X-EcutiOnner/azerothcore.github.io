@@ -1,7 +1,6 @@
 var a18342 =
 [
-    [ "npc_captain_arnathAI", "d8/da8/a18342.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "d8/da8/a18342.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "d8/da8/a18342.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "d8/da8/a18342.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "npc_suppresserAI", "d7/d9f/a18346.html", "d7/d9f/a18346" ],
+    [ "npc_suppresser", "d8/da8/a18342.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
+    [ "GetAI", "d8/da8/a18342.html#a48869515abbac1491337a93b987231da", null ]
 ];

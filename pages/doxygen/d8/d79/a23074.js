@@ -1,7 +1,6 @@
 var a23074 =
 [
-    [ "boss_hydromancer_thespia", "d8/d79/a23074.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "d8/d79/a23074.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "d8/d79/a23074.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "d8/d79/a23074.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "HandleEffectRemove", "d8/d79/a23074.html#ab4c215a735ead9959fd78972a6da72e4", null ],
+    [ "PrepareAuraScript", "d8/d79/a23074.html#a75be2f838d6773b619dfac80e32557b8", null ],
+    [ "Register", "d8/d79/a23074.html#a239068b4e4ad88b5be93a031043ad7ca", null ]
 ];

@@ -1,8 +1,9 @@
 var a06006 =
 [
-    [ "PassiveAI", "dc/dd4/a06006.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
-    [ "AttackStart", "dc/dd4/a06006.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
-    [ "MoveInLineOfSight", "dc/dd4/a06006.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
-    [ "Permissible", "dc/dd4/a06006.html#a2960223799a5b3baedbdd7e664604865", null ],
-    [ "UpdateAI", "dc/dd4/a06006.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
+    [ "AddonInfo", "dc/dd4/a06006.html#a60ea66ed93b64c9e182226954a514f53", null ],
+    [ "CRC", "dc/dd4/a06006.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
+    [ "Enabled", "dc/dd4/a06006.html#ace9f109c395ed84cc01ca4381222c25b", null ],
+    [ "Name", "dc/dd4/a06006.html#a45692257c72286e670ab8c9c50014335", null ],
+    [ "State", "dc/dd4/a06006.html#a5301b19e44d68540434574f023e62f46", null ],
+    [ "UsePublicKeyOrCRC", "dc/dd4/a06006.html#a75e016fa7abee24757c89b97330a6192", null ]
 ];

@@ -1,6 +1,7 @@
 var a12298 =
 [
-    [ "instance_molten_core_InstanceMapScript", "d2/d7b/a12302.html", "d2/d7b/a12302" ],
-    [ "instance_molten_core", "da/dfe/a12298.html#ad83dac834feb2fcae872dfe09b833950", null ],
-    [ "GetInstanceScript", "da/dfe/a12298.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
+    [ "HandlePeriodic", "da/dfe/a12298.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
+    [ "PrepareAuraScript", "da/dfe/a12298.html#aae9d31049889eea5c5f09dd5437de950", null ],
+    [ "Register", "da/dfe/a12298.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
+    [ "Validate", "da/dfe/a12298.html#a462b882e41932f99e3501f32368cf4de", null ]
 ];

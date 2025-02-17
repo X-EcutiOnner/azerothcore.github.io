@@ -1,8 +1,5 @@
 var a23290 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d7/d56/a23290.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "d7/d56/a23290.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "d7/d56/a23290.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "d7/d56/a23290.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "d7/d56/a23290.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "npc_invisible_tractor_beam_source", "d7/d56/a23290.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "d7/d56/a23290.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

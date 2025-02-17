@@ -1,7 +1,6 @@
 var a20554 =
 [
-    [ "boss_yoggsaron_corruptor_tentacleAI", "d5/d6a/a20554.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
-    [ "DoAction", "d5/d6a/a20554.html#abac26b3be775eea734403be36cbed4d2", null ],
-    [ "SelectCorruptionTarget", "d5/d6a/a20554.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
-    [ "UpdateAI", "d5/d6a/a20554.html#a0269d1dc655af5680d7074cb093740b8", null ]
+    [ "npc_xt002_pummellerAI", "d0/d7a/a20558.html", "d0/d7a/a20558" ],
+    [ "npc_xt002_pummeller", "d5/d6a/a20554.html#af620e31a231ca8fb812324521bad4673", null ],
+    [ "GetAI", "d5/d6a/a20554.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
 ];

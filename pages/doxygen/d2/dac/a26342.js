@@ -1,7 +1,7 @@
 var a26342 =
 [
-    [ "CheckProc", "d2/dac/a26342.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
-    [ "HandleProc", "d2/dac/a26342.html#a91ee1b654a3a26e027407635a45b80b3", null ],
-    [ "PrepareAuraScript", "d2/dac/a26342.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
-    [ "Register", "d2/dac/a26342.html#ab06a732203303d5533bdc4b217640d2d", null ]
+    [ "HandleDummy", "d2/dac/a26342.html#ab046ef0adc63c32a153ba4ea866f8dcd", null ],
+    [ "PrepareSpellScript", "d2/dac/a26342.html#ac293d1c1aac41808f81cad2974424c2e", null ],
+    [ "Register", "d2/dac/a26342.html#ab145e1826eb63d0b6b1ea39a6c3c4d36", null ],
+    [ "Validate", "d2/dac/a26342.html#aa725a6ee483dfac46724d291de4ee54b", null ]
 ];

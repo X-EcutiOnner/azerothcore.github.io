@@ -1,6 +1,7 @@
 var a22714 =
 [
-    [ "HandleEffectRemove", "d0/d9e/a22714.html#a99891cf49d35a857cd014fe83bc83e43", null ],
-    [ "PrepareAuraScript", "d0/d9e/a22714.html#ab8fed8e7b561146cca35fe8534ea248c", null ],
-    [ "Register", "d0/d9e/a22714.html#a5a65a3fca846dc40aeb31e4ff56958ca", null ]
+    [ "SuckBackEvent", "d0/d9e/a22714.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
+    [ "Execute", "d0/d9e/a22714.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
+    [ "_action", "d0/d9e/a22714.html#abc54669df2dba0238723a40ababe4c0a", null ],
+    [ "_owner", "d0/d9e/a22714.html#a4d8bc09803f7786022c1836457ded488", null ]
 ];

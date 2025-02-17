@@ -1,6 +1,6 @@
 var a21642 =
 [
-    [ "CheckRequirement", "d5/d2b/a21642.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d5/d2b/a21642.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d5/d2b/a21642.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "SACDeactivateEvent", "d5/d2b/a21642.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
+    [ "Execute", "d5/d2b/a21642.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
+    [ "_owner", "d5/d2b/a21642.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
 ];

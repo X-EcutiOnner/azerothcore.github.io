@@ -1,8 +1,6 @@
 var a28222 =
 [
-    [ "prepareLoadedData", "de/d9b/a28222.html#a696cfebd8fe66840b316919519e9b319", null ],
-    [ "fcc", "de/d9b/a28222.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
-    [ "fcc_txt", "de/d9b/a28222.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
-    [ "height_map", "de/d9b/a28222.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
-    [ "size", "de/d9b/a28222.html#add2809c6e520cf4aa43807d61f973f0e", null ]
+    [ "categoryMask", "de/d9b/a28222.html#abd8816e5dda7bda455ccd6932647c4be", null ],
+    [ "categoryType", "de/d9b/a28222.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
+    [ "ID", "de/d9b/a28222.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
 ];

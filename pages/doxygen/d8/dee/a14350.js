@@ -1,6 +1,5 @@
 var a14350 =
 [
-    [ "FilterTargets", "d8/dee/a14350.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "d8/dee/a14350.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "d8/dee/a14350.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "npc_pilgrims_bounty_plate", "d8/dee/a14350.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "d8/dee/a14350.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

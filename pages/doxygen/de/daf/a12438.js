@@ -1,7 +1,9 @@
 var a12438 =
 [
-    [ "npc_malchezaar_axe", "de/daf/a12438.html#a1a5615f2def10add30e7917b770ebc74", null ],
-    [ "Initialize", "de/daf/a12438.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
-    [ "JustEngagedWith", "de/daf/a12438.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
-    [ "UpdateAI", "de/daf/a12438.html#a202ba6922a426f87909eefbccd070175", null ]
+    [ "HandleEffectApply", "de/daf/a12438.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "de/daf/a12438.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "de/daf/a12438.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "de/daf/a12438.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "de/daf/a12438.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "de/daf/a12438.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

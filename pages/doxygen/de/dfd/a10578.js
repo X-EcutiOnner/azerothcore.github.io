@@ -1,7 +1,6 @@
 var a10578 =
 [
-    [ "PlayMusic", "de/dfd/a10578.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
-    [ "PlayMusic", "de/dfd/a10578.html#ad3d833f70de5937365c2351aa5206bbf", null ],
-    [ "Write", "de/dfd/a10578.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
-    [ "SoundKitID", "de/dfd/a10578.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
+    [ "GuildDemoteMember", "de/dfd/a10578.html#aa3d68021828c516d7b1995811e8df7d7", null ],
+    [ "Read", "de/dfd/a10578.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
+    [ "Demotee", "de/dfd/a10578.html#a60c7e56c201d794fb473a62fccc160bb", null ]
 ];

@@ -1,7 +1,6 @@
 var a16190 =
 [
-    [ "npc_toc_enh_shamanAI", "d2/d07/a16190.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "d2/d07/a16190.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "d2/d07/a16190.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "d2/d07/a16190.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "npc_anubarak_spikeAI", "dc/d5a/a16194.html", "dc/d5a/a16194" ],
+    [ "npc_anubarak_spike", "d2/d07/a16190.html#a4e96de1910c23311ad4644960ccd5022", null ],
+    [ "GetAI", "d2/d07/a16190.html#a7d55b321eb7e595fe5886dc382134947", null ]
 ];

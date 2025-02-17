@@ -1,8 +1,6 @@
 var a09786 =
 [
-    [ "Finalize", "de/d1a/a09786.html#abf4c6547449605e703b424d8aa7f46b5", null ],
-    [ "GetMovementGeneratorType", "de/d1a/a09786.html#aa1eb3228e14c5b145f7074e97ccdab5f", null ],
-    [ "Initialize", "de/d1a/a09786.html#a68c249f25ef86f2e50d69698e190ed03", null ],
-    [ "Reset", "de/d1a/a09786.html#a124e4f9506ef6f31e991e905ce38dc43", null ],
-    [ "Update", "de/d1a/a09786.html#a4d96b744fa55fa11764873a2c4a891c5", null ]
+    [ "SplineRawInitializer", "de/d1a/a09786.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
+    [ "operator()", "de/d1a/a09786.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
+    [ "_points", "de/d1a/a09786.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
 ];

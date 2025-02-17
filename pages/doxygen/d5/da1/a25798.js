@@ -1,8 +1,6 @@
 var a25798 =
 [
-    [ "HandleApply", "d5/da1/a25798.html#aafdf3712f163919f010d11d0becb398f", null ],
-    [ "HandleRemove", "d5/da1/a25798.html#ac3e33cb37d13b633f3938a48917a4975", null ],
-    [ "PrepareAuraScript", "d5/da1/a25798.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
-    [ "Register", "d5/da1/a25798.html#a84e7337494dc2e1772ca10dea26c675f", null ],
-    [ "Validate", "d5/da1/a25798.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
+    [ "CheckProc", "d5/da1/a25798.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
+    [ "PrepareAuraScript", "d5/da1/a25798.html#a9c88f86a4edafda286725008ecfeab6c", null ],
+    [ "Register", "d5/da1/a25798.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
 ];

@@ -1,59 +1,46 @@
 var a02204 =
 [
-    [ "GOSSIP_TEXT_BROWSE_GOODS", "df/d4a/a02204.html#a8cfe68405860f8c9790211fcf1de821f", null ],
-    [ "GOSSIP_TEXT_TRAIN", "df/d4a/a02204.html#a1173986722a10754b5412d4788138674", null ],
-    [ "eTradeskill", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36d", [
-      [ "TRADESKILL_ALCHEMY", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da475964fdc4fa9938f5419a8e78f77362", null ],
-      [ "TRADESKILL_BLACKSMITHING", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da969ee5a77a9d373de407cd6081cfaa86", null ],
-      [ "TRADESKILL_COOKING", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36dab3561e17018ebfb293c600b647cdb413", null ],
-      [ "TRADESKILL_ENCHANTING", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36dac87393e700307eb79dd0cad567eba0dd", null ],
-      [ "TRADESKILL_ENGINEERING", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36dafe00db1fb0f6339d638a4721c9067e86", null ],
-      [ "TRADESKILL_FIRSTAID", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da4516cbe2e6e543c7edaafad4a168934b", null ],
-      [ "TRADESKILL_HERBALISM", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36dac76c8a1af68ff8d6f33c3be3fef900e3", null ],
-      [ "TRADESKILL_LEATHERWORKING", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da106ee3584da0b1c7d4f83a7f5197e64b", null ],
-      [ "TRADESKILL_POISONS", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36dac98e22b65d418e957b04a382fbe1b12f", null ],
-      [ "TRADESKILL_TAILORING", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da74961cb9067998b73aede1dc91568735", null ],
-      [ "TRADESKILL_MINING", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da6fc5e747d47f0ce1484abb1e308bf950", null ],
-      [ "TRADESKILL_FISHING", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36dad6d50dc8dc6de123eee0d2e67f12a40f", null ],
-      [ "TRADESKILL_SKINNING", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da689c5f60276c8789b50634715d718f83", null ],
-      [ "TRADESKILL_JEWLCRAFTING", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da204da8f945fc6490fd6c2a809db31d7f", null ],
-      [ "TRADESKILL_INSCRIPTION", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da9fe57220661e02241ca068c1a60a0a4e", null ],
-      [ "TRADESKILL_LEVEL_NONE", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36dab31d1186fd7ded851c9f1dee7489a698", null ],
-      [ "TRADESKILL_LEVEL_APPRENTICE", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36daeb88157fb28855d72a3a04a83d9d0380", null ],
-      [ "TRADESKILL_LEVEL_JOURNEYMAN", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da7a4af19043e1f22c82c28362fd3478cf", null ],
-      [ "TRADESKILL_LEVEL_EXPERT", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da4972fdbcc028529cda907dd1670396f2", null ],
-      [ "TRADESKILL_LEVEL_ARTISAN", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da833d8525e868dcd26cce8daebd02df7c", null ],
-      [ "TRADESKILL_LEVEL_MASTER", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36dab1f3c262e02c455f78c2406cfeab3366", null ],
-      [ "TRADESKILL_LEVEL_GRAND_MASTER", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da18b54e6197749c5468eb0fe7fefb474f", null ],
-      [ "GOSSIP_ACTION_TRADE", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da965006e32a608bd52f612167dec46573", null ],
-      [ "GOSSIP_ACTION_TRAIN", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36dab64daef30e35b637b27050fbc3a5b6dd", null ],
-      [ "GOSSIP_ACTION_TAXI", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da30589eb787232d92c8e4c5a2d3fca4bc", null ],
-      [ "GOSSIP_ACTION_GUILD", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da62a035d38f6092d2badda54f2d756799", null ],
-      [ "GOSSIP_ACTION_BATTLE", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da5b04f7b4c549c433df0c70d5d01c129b", null ],
-      [ "GOSSIP_ACTION_BANK", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da7802b547c7676b008f552f2dec200cdf", null ],
-      [ "GOSSIP_ACTION_INN", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da738bff94bbc7c86e115443b973af6972", null ],
-      [ "GOSSIP_ACTION_HEAL", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da7a7ed9b1fb3198fefb6efbc1521c51b5", null ],
-      [ "GOSSIP_ACTION_TABARD", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da75b76c4f028f36930e50b0a5f7fc968c", null ],
-      [ "GOSSIP_ACTION_AUCTION", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36daa1d4ae0f2197dd4f0fda2005242b7d37", null ],
-      [ "GOSSIP_ACTION_INN_INFO", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36dad3334f5105a2cd0b9e4d176bf087c4e9", null ],
-      [ "GOSSIP_ACTION_UNLEARN", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36daa654aa5772147c5c6c188647fddc6c93", null ],
-      [ "GOSSIP_ACTION_INFO_DEF", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8", null ],
-      [ "GOSSIP_SENDER_MAIN", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da650f01832933ccb3735a38413b779452", null ],
-      [ "GOSSIP_SENDER_INN_INFO", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da96d9f9858cba2a025b806aae59736ad1", null ],
-      [ "GOSSIP_SENDER_INFO", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36dafc9d96c9e0b2a2aa34752431211d108d", null ],
-      [ "GOSSIP_SENDER_SEC_PROFTRAIN", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36dafb71aeff9ec1a18f1ea4975287e8c512", null ],
-      [ "GOSSIP_SENDER_SEC_CLASSTRAIN", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da324319e2f62ad6934dde6147523895d9", null ],
-      [ "GOSSIP_SENDER_SEC_BATTLEINFO", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da10797f5fe97497c60d029b535f5cdd85", null ],
-      [ "GOSSIP_SENDER_SEC_BANK", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da3426957cb278a246f58666bc72532b4f", null ],
-      [ "GOSSIP_SENDER_SEC_INN", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36dac95576395bb99cc16cd14c471ba25091", null ],
-      [ "GOSSIP_SENDER_SEC_MAILBOX", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da3789bebe4ac5d7307d977ba3921b21e3", null ],
-      [ "GOSSIP_SENDER_SEC_STABLEMASTER", "df/d4a/a02204.html#ac61a667541c1c7c94a9aeb407e34d36da2a9e52407de64c5ac23bf3ff6faefd5d", null ]
+    [ "GmTicket", "d5/d8e/a11330.html", "d5/d8e/a11330" ],
+    [ "TicketMgr", "de/d98/a11334.html", "de/d98/a11334" ],
+    [ "sTicketMgr", "df/d4a/a02204.html#a20db6dadbe20767eb03327894588c7be", null ],
+    [ "GmTicketList", "df/d4a/a02204.html#a697d75cf06a963bad84903696288001a", null ],
+    [ "GMTicketEscalationStatus", "df/d4a/a02204.html#a878f9ec26e56dd05dd8f956cfaba754d", [
+      [ "TICKET_UNASSIGNED", "df/d4a/a02204.html#a878f9ec26e56dd05dd8f956cfaba754daa6e0f9ce9a37b89b10577eafedb4226a", null ],
+      [ "TICKET_ASSIGNED", "df/d4a/a02204.html#a878f9ec26e56dd05dd8f956cfaba754daf84dc8de23735d2da3c608744476ea28", null ],
+      [ "TICKET_IN_ESCALATION_QUEUE", "df/d4a/a02204.html#a878f9ec26e56dd05dd8f956cfaba754da5a63c2f2fcec47a0eaad7a4724c604e1", null ],
+      [ "TICKET_ESCALATED_ASSIGNED", "df/d4a/a02204.html#a878f9ec26e56dd05dd8f956cfaba754da4c8da0f38bac21e259f2f077722c46d2", null ]
     ] ],
-    [ "AddGossipItemFor", "df/d4a/a02204.html#a5c0683057fc01d221b0ae877a0ab54df", null ],
-    [ "AddGossipItemFor", "df/d4a/a02204.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5", null ],
-    [ "AddGossipItemFor", "df/d4a/a02204.html#acd7e8e52a911742a99728cf9408e23b8", null ],
-    [ "ClearGossipMenuFor", "df/d4a/a02204.html#af077a82741577a63a075c7d40b3b3dc5", null ],
-    [ "CloseGossipMenuFor", "df/d4a/a02204.html#af8f7e54dac5ecc86e92d780c3918cb09", null ],
-    [ "SendGossipMenuFor", "df/d4a/a02204.html#ad893abf2b09592b57715ef4a3222a2b3", null ],
-    [ "SendGossipMenuFor", "df/d4a/a02204.html#a18599cfc6649557de0d505ed4d4a0210", null ]
+    [ "GMTicketOpenedByGMStatus", "df/d4a/a02204.html#aeedacb4a8f5a99f7c38b120ef230820d", [
+      [ "GMTICKET_OPENEDBYGM_STATUS_NOT_OPENED", "df/d4a/a02204.html#aeedacb4a8f5a99f7c38b120ef230820da0acf204e62a9ac335f4d8e519401a4cd", null ],
+      [ "GMTICKET_OPENEDBYGM_STATUS_OPENED", "df/d4a/a02204.html#aeedacb4a8f5a99f7c38b120ef230820dae8a849a379231ad568354acea3c1686a", null ]
+    ] ],
+    [ "GMTicketResponse", "df/d4a/a02204.html#adb4cde78a930d8f04d2f7ba4167a27d3", [
+      [ "GMTICKET_RESPONSE_ALREADY_EXIST", "df/d4a/a02204.html#adb4cde78a930d8f04d2f7ba4167a27d3a51361b1b513a3edf01f314b6c8c14921", null ],
+      [ "GMTICKET_RESPONSE_CREATE_SUCCESS", "df/d4a/a02204.html#adb4cde78a930d8f04d2f7ba4167a27d3a841b790fadbc9573dd25dc12bacc2780", null ],
+      [ "GMTICKET_RESPONSE_CREATE_ERROR", "df/d4a/a02204.html#adb4cde78a930d8f04d2f7ba4167a27d3a08c10cb4c26d717228a5697ead5bbbc2", null ],
+      [ "GMTICKET_RESPONSE_UPDATE_SUCCESS", "df/d4a/a02204.html#adb4cde78a930d8f04d2f7ba4167a27d3af30fa9cd9828f4254eac75bd01ca49f5", null ],
+      [ "GMTICKET_RESPONSE_UPDATE_ERROR", "df/d4a/a02204.html#adb4cde78a930d8f04d2f7ba4167a27d3af4d4cdba2bdbb81d2ca25b1f4864e18f", null ],
+      [ "GMTICKET_RESPONSE_TICKET_DELETED", "df/d4a/a02204.html#adb4cde78a930d8f04d2f7ba4167a27d3aa0b33c09a7035bef00e6d174383c0804", null ]
+    ] ],
+    [ "GMTicketStatus", "df/d4a/a02204.html#aa9bdef2d04cda42105b540072878a959", [
+      [ "GMTICKET_STATUS_HASTEXT", "df/d4a/a02204.html#aa9bdef2d04cda42105b540072878a959aae8e16aa9f969c6f6553c6237125d0ad", null ],
+      [ "GMTICKET_STATUS_DEFAULT", "df/d4a/a02204.html#aa9bdef2d04cda42105b540072878a959a251de6cd21e96c676566232e9625b5a0", null ]
+    ] ],
+    [ "GMTicketSystemStatus", "df/d4a/a02204.html#a620665e68b03e8238c0f67a7d156ff20", [
+      [ "GMTICKET_QUEUE_STATUS_DISABLED", "df/d4a/a02204.html#a620665e68b03e8238c0f67a7d156ff20a4a66517fc7ca7d2754a456d10fb795f3", null ],
+      [ "GMTICKET_QUEUE_STATUS_ENABLED", "df/d4a/a02204.html#a620665e68b03e8238c0f67a7d156ff20a061a48ce23122a2783e2b9f1df7d9417", null ]
+    ] ],
+    [ "LagReportType", "df/d4a/a02204.html#a8c967ea39ca26744000413d362c7c100", [
+      [ "LAG_REPORT_TYPE_LOOT", "df/d4a/a02204.html#a8c967ea39ca26744000413d362c7c100a39753ee340eb3a338b2e4d18171da9f7", null ],
+      [ "LAG_REPORT_TYPE_AUCTION_HOUSE", "df/d4a/a02204.html#a8c967ea39ca26744000413d362c7c100aaedf06863e987c9b3fd5226f17680023", null ],
+      [ "LAG_REPORT_TYPE_MAIL", "df/d4a/a02204.html#a8c967ea39ca26744000413d362c7c100a11af2b0c93f6e60a08c02ad20c846c83", null ],
+      [ "LAG_REPORT_TYPE_CHAT", "df/d4a/a02204.html#a8c967ea39ca26744000413d362c7c100afe144b0bc7321e1a1999ae69cd76fd90", null ],
+      [ "LAG_REPORT_TYPE_MOVEMENT", "df/d4a/a02204.html#a8c967ea39ca26744000413d362c7c100ae2cb2d020d3795c948745bc52332d007", null ],
+      [ "LAG_REPORT_TYPE_SPELL", "df/d4a/a02204.html#a8c967ea39ca26744000413d362c7c100a48ba55ab4e85d0930ac31a7727276e9d", null ]
+    ] ],
+    [ "TicketType", "df/d4a/a02204.html#a4c0ab886570eedf7c4ab55ac06a3ce40", [
+      [ "TICKET_TYPE_OPEN", "df/d4a/a02204.html#a4c0ab886570eedf7c4ab55ac06a3ce40a08a09aed9108054a1ffb663d6be0a95e", null ],
+      [ "TICKET_TYPE_CLOSED", "df/d4a/a02204.html#a4c0ab886570eedf7c4ab55ac06a3ce40abdad221a4e0aac30acd6b1989781f190", null ],
+      [ "TICKET_TYPE_CHARACTER_DELETED", "df/d4a/a02204.html#a4c0ab886570eedf7c4ab55ac06a3ce40a39e587cb50470c90ae82c9d1570e1896", null ]
+    ] ]
 ];

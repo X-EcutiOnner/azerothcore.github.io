@@ -1,48 +1,57 @@
 var a00596 =
 [
-    [ "AuctionEntry", "db/dce/a06958.html", "db/dce/a06958" ],
-    [ "AuctionHouseObject", "dc/dcb/a06962.html", "dc/dcb/a06962" ],
-    [ "AuctionHouseMgr", "dc/dad/a06966.html", "dc/dad/a06966" ],
-    [ "AUCTION_SEARCH_DELAY", "dc/d25/a00596.html#a2f8bc5839b2833512daadb09efb7794d", null ],
-    [ "MAX_AUCTION_HOUSE_FACTIONS", "dc/d25/a00596.html#a948e0dd86eca242e8907f45c5f16edac", null ],
-    [ "MAX_AUCTION_ITEMS", "dc/d25/a00596.html#aa87bb3f5c1101ca4c260c6bb743a846e", null ],
-    [ "MAX_AUCTIONS_PER_PAGE", "dc/d25/a00596.html#aa815dc22ea52ecef37fa9285358247c9", null ],
-    [ "MAX_GETALL_RETURN", "dc/d25/a00596.html#aa7ea0efcb608c872aa3375218f3bf857", null ],
-    [ "MIN_AUCTION_TIME", "dc/d25/a00596.html#a65e0ff6290b1d068de3d9be0aa323d27", null ],
-    [ "sAuctionMgr", "dc/d25/a00596.html#ac3e168154709326e99ab24a7d1395906", null ],
-    [ "AuctionAction", "dc/d25/a00596.html#a6f0f1b824cc940197c2bc0cd6cb1dd18", [
-      [ "AUCTION_SELL_ITEM", "dc/d25/a00596.html#a6f0f1b824cc940197c2bc0cd6cb1dd18a47c59e2fd5e2b2cdafa124fee3f94796", null ],
-      [ "AUCTION_CANCEL", "dc/d25/a00596.html#a6f0f1b824cc940197c2bc0cd6cb1dd18ab9f7fb48c99015aed9fd3a2a0a57c72e", null ],
-      [ "AUCTION_PLACE_BID", "dc/d25/a00596.html#a6f0f1b824cc940197c2bc0cd6cb1dd18ab934fb55a314a6d1332d37e5fde04a80", null ]
+    [ "npc_deathstalker_erland", "d8/d7d/a13478.html", "d8/d7d/a13478" ],
+    [ "npc_deathstalker_erland::npc_deathstalker_erlandAI", "d2/d6f/a13482.html", "d2/d6f/a13482" ],
+    [ "npc_deathstalker_fearleia", "db/d87/a13486.html", "db/d87/a13486" ],
+    [ "npc_ravenclaw_apparition", "d3/dae/a13490.html", "d3/dae/a13490" ],
+    [ "npc_ravenclaw_apparition::npc_ravenclaw_apparitionAI", "d3/d2d/a13494.html", "d3/d2d/a13494" ],
+    [ "ApparitionEvents", "dc/d25/a00596.html#ac7d12f884ef22dca36021fe54df83416", [
+      [ "EVENT_APPA_INTRO", "dc/d25/a00596.html#ac7d12f884ef22dca36021fe54df83416acb7d83e4f63d87d9e07acd3fe790cf3f", null ],
+      [ "EVENT_APPA_SAY_1", "dc/d25/a00596.html#ac7d12f884ef22dca36021fe54df83416a5a70df4d34c2d8566d6f1f2223da8358", null ],
+      [ "EVENT_APPA_SAY_2", "dc/d25/a00596.html#ac7d12f884ef22dca36021fe54df83416aef4150f2e8b273cda80a22afb309dcbd", null ],
+      [ "EVENT_APPA_SAY_3", "dc/d25/a00596.html#ac7d12f884ef22dca36021fe54df83416a50dff15dc08a087b69b6e1f3e759e873", null ],
+      [ "EVENT_APPA_SAY_4", "dc/d25/a00596.html#ac7d12f884ef22dca36021fe54df83416aef8c0d8bbd31ac1280da5e1d047b090c", null ],
+      [ "EVENT_APPA_OUTRO", "dc/d25/a00596.html#ac7d12f884ef22dca36021fe54df83416a282f4f3128aee30886a27079ebbadade", null ],
+      [ "EVENT_APPA_OUTRO_CROWD", "dc/d25/a00596.html#ac7d12f884ef22dca36021fe54df83416a43a816ba27d12306c8859a065298090a", null ],
+      [ "EVENT_APPA_OUTRO_END", "dc/d25/a00596.html#ac7d12f884ef22dca36021fe54df83416a67c26d38a1c04c6defc255ec84508341", null ]
     ] ],
-    [ "AuctionError", "dc/d25/a00596.html#acd1082bcecaa4487e9f32ad1d4cd5225", [
-      [ "ERR_AUCTION_OK", "dc/d25/a00596.html#acd1082bcecaa4487e9f32ad1d4cd5225a3b16c2583b0b0097a95bc23126567b34", null ],
-      [ "ERR_AUCTION_INVENTORY", "dc/d25/a00596.html#acd1082bcecaa4487e9f32ad1d4cd5225a4db8ce7711bbc2b9a30b6c93f63a7f98", null ],
-      [ "ERR_AUCTION_DATABASE_ERROR", "dc/d25/a00596.html#acd1082bcecaa4487e9f32ad1d4cd5225ad9a6332f7dcf4f37c65a07880df64a8d", null ],
-      [ "ERR_AUCTION_NOT_ENOUGHT_MONEY", "dc/d25/a00596.html#acd1082bcecaa4487e9f32ad1d4cd5225a2e3c0e26a932a0d123c74cd6c025c189", null ],
-      [ "ERR_AUCTION_ITEM_NOT_FOUND", "dc/d25/a00596.html#acd1082bcecaa4487e9f32ad1d4cd5225aa75b2e1b0476195aeb1fe923d483a063", null ],
-      [ "ERR_AUCTION_HIGHER_BID", "dc/d25/a00596.html#acd1082bcecaa4487e9f32ad1d4cd5225a8b1421e42296f2d0141c2e2c8dfe5bac", null ],
-      [ "ERR_AUCTION_BID_INCREMENT", "dc/d25/a00596.html#acd1082bcecaa4487e9f32ad1d4cd5225ad31b9ca1c2b4338c2cc19ea57e81bf74", null ],
-      [ "ERR_AUCTION_BID_OWN", "dc/d25/a00596.html#acd1082bcecaa4487e9f32ad1d4cd5225a98a5a65a2cd34419689fe5d6154bf4e9", null ],
-      [ "ERR_AUCTION_RESTRICTED_ACCOUNT", "dc/d25/a00596.html#acd1082bcecaa4487e9f32ad1d4cd5225a5d35d3c3de8c5c8418934d758db2dc35", null ]
+    [ "ApparitionMisc", "dc/d25/a00596.html#a5909181236bb4736208a6dab8aa72de3", [
+      [ "NPC_GNOLL_RUNNER", "dc/d25/a00596.html#a5909181236bb4736208a6dab8aa72de3aa926c07b3e0e442ce56cd705d02adbb1", null ],
+      [ "NPC_GNOLL_MYSTIC", "dc/d25/a00596.html#a5909181236bb4736208a6dab8aa72de3acd80c1eed7ee155c06297c43fe4ded15", null ],
+      [ "EMOTE_CHEER", "dc/d25/a00596.html#a5909181236bb4736208a6dab8aa72de3a91a471fc43ea92dee1d1ab4ee7792204", null ],
+      [ "EMOTE_GNOLL_CHEER", "dc/d25/a00596.html#a5909181236bb4736208a6dab8aa72de3a989ea1d9c4ed491fb34d5c665e00cd07", null ],
+      [ "SAY_APPA_INTRO", "dc/d25/a00596.html#a5909181236bb4736208a6dab8aa72de3a48c8c5efde4afd1945ded15985be957e", null ],
+      [ "SAY_APPA_OUTRO", "dc/d25/a00596.html#a5909181236bb4736208a6dab8aa72de3aeaee8eb03b5ecc83ec4c4bce61234a14", null ],
+      [ "SAY_APPA_OPTION_1_1", "dc/d25/a00596.html#a5909181236bb4736208a6dab8aa72de3a7ce5157a61c4ae4a36c10e911838c759", null ],
+      [ "SAY_APPA_OPTION_1_2", "dc/d25/a00596.html#a5909181236bb4736208a6dab8aa72de3a09f22f871c7677ce21215036738e9599", null ],
+      [ "SAY_APPA_OPTION_1_3", "dc/d25/a00596.html#a5909181236bb4736208a6dab8aa72de3a7d6be30b7c3a5eaf04bb4faf64258f4c", null ],
+      [ "SAY_APPA_OPTION_1_4", "dc/d25/a00596.html#a5909181236bb4736208a6dab8aa72de3ac5f229a48574f471bef97c854953dd56", null ],
+      [ "SAY_APPA_OPTION_2_1", "dc/d25/a00596.html#a5909181236bb4736208a6dab8aa72de3ae47c4533188c68c14269a2ae1e03495a", null ],
+      [ "SAY_APPA_OPTION_2_2", "dc/d25/a00596.html#a5909181236bb4736208a6dab8aa72de3a906e509283cd756dd51d23385e635c52", null ],
+      [ "SAY_APPA_OPTION_2_3", "dc/d25/a00596.html#a5909181236bb4736208a6dab8aa72de3a500da27ff93fe5afe164b9cfadf8c97f", null ],
+      [ "SAY_APPA_OPTION_2_4", "dc/d25/a00596.html#a5909181236bb4736208a6dab8aa72de3a9c27b474b7cc468aa2d897347fb9ddab", null ]
     ] ],
-    [ "AuctionHouseFaction", "dc/d25/a00596.html#af4f47e9bbd0faf17478c06dd0660bb84", [
-      [ "Alliance", "dc/d25/a00596.html#af4f47e9bbd0faf17478c06dd0660bb84a05bd29b524f0851d42e7902d6af59bf1", null ],
-      [ "Horde", "dc/d25/a00596.html#af4f47e9bbd0faf17478c06dd0660bb84a05d822a409e1a677e40ee5ac1db7a796", null ],
-      [ "Neutral", "dc/d25/a00596.html#af4f47e9bbd0faf17478c06dd0660bb84ae9bb5320b3890b6747c91b5a71ae5a01", null ]
+    [ "Erland", "dc/d25/a00596.html#a17833146260016bd364b0aeabe951117", [
+      [ "SAY_QUESTACCEPT", "dc/d25/a00596.html#a17833146260016bd364b0aeabe951117ac55a400e0f3da4381ab1048e5115d2d7", null ],
+      [ "SAY_START", "dc/d25/a00596.html#a17833146260016bd364b0aeabe951117a2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_AGGRO", "dc/d25/a00596.html#a17833146260016bd364b0aeabe951117a47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_PROGRESS", "dc/d25/a00596.html#a17833146260016bd364b0aeabe951117a0a1c1c8ee2f4fb58f4e107f259c6a7a5", null ],
+      [ "SAY_LAST", "dc/d25/a00596.html#a17833146260016bd364b0aeabe951117a37a618ea7771d6b731851ae8b9a71789", null ],
+      [ "SAY_RANE", "dc/d25/a00596.html#a17833146260016bd364b0aeabe951117aa74f95bb40d8ed4f48055905dc06d093", null ],
+      [ "SAY_RANE_ANSWER", "dc/d25/a00596.html#a17833146260016bd364b0aeabe951117ab0a630e891967ea5f9e0b2b1d4ff8c7b", null ],
+      [ "SAY_MOVE_QUINN", "dc/d25/a00596.html#a17833146260016bd364b0aeabe951117a8b9954338ee30878ef14f9fb11ed1139", null ],
+      [ "SAY_QUINN", "dc/d25/a00596.html#a17833146260016bd364b0aeabe951117ac996a5c00ede30152bc87c96f2f29344", null ],
+      [ "SAY_QUINN_ANSWER", "dc/d25/a00596.html#a17833146260016bd364b0aeabe951117a5f9017092c9843fc6c48bd100c50f167", null ],
+      [ "SAY_BYE", "dc/d25/a00596.html#a17833146260016bd364b0aeabe951117abad8d0d4b1cbadaec38e64cea8c488c4", null ],
+      [ "QUEST_ESCORTING", "dc/d25/a00596.html#a17833146260016bd364b0aeabe951117a9dd84d8712737f5cf17048c4475c3c42", null ],
+      [ "NPC_RANE", "dc/d25/a00596.html#a17833146260016bd364b0aeabe951117ac32a913ef393de880014e21b55d9f566", null ],
+      [ "NPC_QUINN", "dc/d25/a00596.html#a17833146260016bd364b0aeabe951117aa0a34bb710b174abf06aa875f3a3e82e", null ]
     ] ],
-    [ "AuctionHouseId", "dc/d25/a00596.html#a6e313ffb5943e7c756e65c142ad1a28d", [
-      [ "Alliance", "dc/d25/a00596.html#a6e313ffb5943e7c756e65c142ad1a28da05bd29b524f0851d42e7902d6af59bf1", null ],
-      [ "Horde", "dc/d25/a00596.html#a6e313ffb5943e7c756e65c142ad1a28da05d822a409e1a677e40ee5ac1db7a796", null ],
-      [ "Neutral", "dc/d25/a00596.html#a6e313ffb5943e7c756e65c142ad1a28dae9bb5320b3890b6747c91b5a71ae5a01", null ]
+    [ "PyrewoodAmbush", "dc/d25/a00596.html#a877721d69d53f57a970e68fafa98f026", [
+      [ "QUEST_PYREWOOD_AMBUSH", "dc/d25/a00596.html#a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77", null ],
+      [ "NPCSAY_INIT", "dc/d25/a00596.html#a877721d69d53f57a970e68fafa98f026aaa92536cc818f1566c861be10809e186", null ],
+      [ "NPCSAY_END", "dc/d25/a00596.html#a877721d69d53f57a970e68fafa98f026a4cdea1fd3d42985ec1def690f032a68c", null ]
     ] ],
-    [ "MailAuctionAnswers", "dc/d25/a00596.html#a098b883868639271d82defd50dad764e", [
-      [ "AUCTION_OUTBIDDED", "dc/d25/a00596.html#a098b883868639271d82defd50dad764eafa59fd83ffed270500a83d207c19b3d0", null ],
-      [ "AUCTION_WON", "dc/d25/a00596.html#a098b883868639271d82defd50dad764eac51a47dbc7d47d70e051386979fa22c8", null ],
-      [ "AUCTION_SUCCESSFUL", "dc/d25/a00596.html#a098b883868639271d82defd50dad764eac212352bbd7fce3cb50b5673de71ae14", null ],
-      [ "AUCTION_EXPIRED", "dc/d25/a00596.html#a098b883868639271d82defd50dad764ea2ef6542e060c27e5364ddca4f77b5edc", null ],
-      [ "AUCTION_CANCELLED_TO_BIDDER", "dc/d25/a00596.html#a098b883868639271d82defd50dad764ea7a49299211b591c1b6b527754069a09c", null ],
-      [ "AUCTION_CANCELED", "dc/d25/a00596.html#a098b883868639271d82defd50dad764eaa56d99ef4cba6dc5afc2865810f0a4c6", null ],
-      [ "AUCTION_SALE_PENDING", "dc/d25/a00596.html#a098b883868639271d82defd50dad764ea9f1d5ad610d6e9d778e61d2f79643dd8", null ]
-    ] ]
+    [ "AddSC_silverpine_forest", "dc/d25/a00596.html#a2ba39a6181a7eb3cea0c26335739a06c", null ],
+    [ "PyrewoodSpawnPoints", "dc/d25/a00596.html#aa6dde45459ce647040655253e287cd41", null ]
 ];

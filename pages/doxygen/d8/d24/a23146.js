@@ -1,7 +1,8 @@
 var a23146 =
 [
-    [ "HandleScript", "d8/d24/a23146.html#a42052a416290a54d5479a402de578a73", null ],
-    [ "PrepareSpellScript", "d8/d24/a23146.html#a5f6aa972879b65c0207e47435d436a33", null ],
-    [ "Register", "d8/d24/a23146.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
-    [ "Validate", "d8/d24/a23146.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
+    [ "FilterTargets", "d8/d24/a23146.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
+    [ "HandleDummy", "d8/d24/a23146.html#addb3580259be74126b7de36d1b0a8a97", null ],
+    [ "PrepareSpellScript", "d8/d24/a23146.html#aba82de0886d03037de4564f9908b8c89", null ],
+    [ "Register", "d8/d24/a23146.html#a1650962493d48f5553a9e2771e594f1f", null ],
+    [ "Validate", "d8/d24/a23146.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
 ];

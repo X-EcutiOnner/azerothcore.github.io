@@ -1,6 +1,7 @@
 var a15778 =
 [
-    [ "SendEncounterUnit", "df/d40/a15778.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
-    [ "Execute", "df/d40/a15778.html#ae21b67f8fe8a0677778436563872495f", null ],
-    [ "_owner", "df/d40/a15778.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
+    [ "OnRemove", "df/d40/a15778.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "df/d40/a15778.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "df/d40/a15778.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "df/d40/a15778.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

@@ -1,6 +1,6 @@
 var a21482 =
 [
-    [ "npc_heated_battleAI", "d3/dea/a21486.html", "d3/dea/a21486" ],
-    [ "npc_heated_battle", "de/d30/a21482.html#aceafde04a60940c1027a6e838ffdc137", null ],
-    [ "GetAI", "de/d30/a21482.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
+    [ "npc_steam_powered_auctioneerAI", "d3/dea/a21486.html", "d3/dea/a21486" ],
+    [ "npc_steam_powered_auctioneer", "de/d30/a21482.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "de/d30/a21482.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

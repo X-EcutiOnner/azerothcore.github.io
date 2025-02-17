@@ -1,8 +1,7 @@
 var a00911 =
 [
-    [ "MailScript", "df/d8b/a10154.html", "df/d8b/a10154" ],
-    [ "MailHook", "d7/d12/a00911.html#a7a2fb0cc0937712e8aff65574e1068d6", [
-      [ "MAILHOOK_ON_BEFORE_MAIL_DRAFT_SEND_MAIL_TO", "d7/d12/a00911.html#a7a2fb0cc0937712e8aff65574e1068d6a8f3555a10968fd2749e256067782760f", null ],
-      [ "MAILHOOK_END", "d7/d12/a00911.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285", null ]
-    ] ]
+    [ "instance_trial_of_the_crusader", "da/dd1/a16466.html", "da/dd1/a16466" ],
+    [ "instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript", "d7/d57/a16470.html", "d7/d57/a16470" ],
+    [ "AddSC_instance_trial_of_the_crusader", "d7/d12/a00911.html#af823cabf441f9e6a5443da42df4fda4f", null ],
+    [ "validDedicatedInsanityItems", "d7/d12/a00911.html#ad29a01125872f689fb9953e9b3beb8e8", null ]
 ];

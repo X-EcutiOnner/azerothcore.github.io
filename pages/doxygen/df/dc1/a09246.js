@@ -1,9 +1,7 @@
 var a09246 =
 [
-    [ "UnitAuraCheck", "df/dc1/a09246.html#acbc0c969db8b768720ab3b8235c28352", null ],
-    [ "operator()", "df/dc1/a09246.html#abc385cad226ac51c09a908864d360fd3", null ],
-    [ "operator()", "df/dc1/a09246.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
-    [ "_casterGUID", "df/dc1/a09246.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
-    [ "_present", "df/dc1/a09246.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
-    [ "_spellId", "df/dc1/a09246.html#a0dd71c851f803fb70a4543c77b672889", null ]
+    [ "GameObjectFocusCheck", "df/dc1/a09246.html#a06607ffa0ebf51c230f4584632a7444a", null ],
+    [ "operator()", "df/dc1/a09246.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
+    [ "i_focusId", "df/dc1/a09246.html#ace009546c2dcc6dac5de98b3c34152a5", null ],
+    [ "i_unit", "df/dc1/a09246.html#a0afc07e086f5aa3301c2b46a0004213e", null ]
 ];

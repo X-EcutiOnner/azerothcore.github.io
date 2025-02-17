@@ -1,13 +1,6 @@
 var a10906 =
 [
-    [ "alive", "d4/db9/a10906.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
-    [ "crit", "d4/db9/a10906.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
-    [ "damage", "d4/db9/a10906.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
-    [ "effectMask", "d4/db9/a10906.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
-    [ "missCondition", "d4/db9/a10906.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
-    [ "processed", "d4/db9/a10906.html#a2de96d62297ff614fc3702bec035ce5b", null ],
-    [ "reflectResult", "d4/db9/a10906.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
-    [ "scaleAura", "d4/db9/a10906.html#a89bba366b26686d41288e9b2e725eb75", null ],
-    [ "targetGUID", "d4/db9/a10906.html#acf55c1dd6f00c94296c592d988f959cf", null ],
-    [ "timeDelay", "d4/db9/a10906.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
+    [ "AccountData", "d4/db9/a10906.html#a593303fb86ec3ac592ee933b8d057fe8", null ],
+    [ "Data", "d4/db9/a10906.html#aa45f3f93f643b4dd9ea4d269e3b5462d", null ],
+    [ "Time", "d4/db9/a10906.html#a38b2049e50845641cc380b6786e68ac5", null ]
 ];

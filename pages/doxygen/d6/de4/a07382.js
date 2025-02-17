@@ -1,14 +1,19 @@
 var a07382 =
 [
-    [ "FilteredCommandListIterator", "d6/de4/a07382.html#abd6dc5c1e3c56eb27856eddb46d5e6a6", null ],
-    [ "_skip", "d6/de4/a07382.html#ac2f0e09b76eb9d40d1b78279a81a5e65", null ],
-    [ "operator bool", "d6/de4/a07382.html#aaeb128830c7705a455343d173dc3ae5a", null ],
-    [ "operator!", "d6/de4/a07382.html#a864e81c56946ca97bf24b392ff8f0b8f", null ],
-    [ "operator*", "d6/de4/a07382.html#a7b1008103a94f6dc068d3e839c924ea6", null ],
-    [ "operator++", "d6/de4/a07382.html#a6d4a54adde98e638428a8d314a6e4356", null ],
-    [ "operator->", "d6/de4/a07382.html#ad83cb2c649a847d0cd04b5fd8ee8494c", null ],
-    [ "_end", "d6/de4/a07382.html#a294c3b743ac4b1a1b878d02a6580d3ca", null ],
-    [ "_handler", "d6/de4/a07382.html#a0c64270cd18f8988997882ceb3e10184", null ],
-    [ "_it", "d6/de4/a07382.html#abbf6ac9d50ba494221addff9aba11b80", null ],
-    [ "_token", "d6/de4/a07382.html#acb834f907b55195f2a27d69f89d84961", null ]
+    [ "BattlegroundRV", "d6/de4/a07382.html#ad8c16fa336cd5b0d98eb0009ef094632", null ],
+    [ "CheckPositionForUnit", "d6/de4/a07382.html#a17665265c5ab837b4e2a0cdc461a7d0a", null ],
+    [ "FillInitialWorldStates", "d6/de4/a07382.html#a507004e47e4ff6160fd34b736701e363", null ],
+    [ "GetPillarAtPosition", "d6/de4/a07382.html#a0cd6f84233993bde76be990abab75f23", null ],
+    [ "GetPillarIdForPos", "d6/de4/a07382.html#a4edb8efce09dece515e8b833142d2c55", null ],
+    [ "HandleAreaTrigger", "d6/de4/a07382.html#aa75f63f77d1f7e8bafffe1d8cb7de9b8", null ],
+    [ "HandlePlayerUnderMap", "d6/de4/a07382.html#a4cb2e77a45fd02a5db85b6979d622afa", null ],
+    [ "Init", "d6/de4/a07382.html#a67853fccaddfcd946015a96c5b108641", null ],
+    [ "PostUpdateImpl", "d6/de4/a07382.html#a9707d8805f031c01c14d78fdc1790a64", null ],
+    [ "SetupBattleground", "d6/de4/a07382.html#abbd1a364665655cfc4f059fa63384536", null ],
+    [ "StartingEventOpenDoors", "d6/de4/a07382.html#a450c1d8a9ad4712ab4042256ba7d9d08", null ],
+    [ "TeleportUnitToNewZ", "d6/de4/a07382.html#ac5b158259ccc5168275c0e00ea041db0", null ],
+    [ "UpdatePillars", "d6/de4/a07382.html#a76d16c8ab6778a6fc8a4c988a46f0306", null ],
+    [ "_checkPlayersTimer", "d6/de4/a07382.html#a7c876ff9156f81b168aec7cf673d39b3", null ],
+    [ "_state", "d6/de4/a07382.html#acce3fce40dbbb403749dcdb986e1d970", null ],
+    [ "_timer", "d6/de4/a07382.html#ac5f9a8627e919eb224d78d726da1a7a1", null ]
 ];

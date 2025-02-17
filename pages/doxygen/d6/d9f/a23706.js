@@ -1,6 +1,6 @@
 var a23706 =
 [
-    [ "go_apexis_relic", "d6/d9f/a23706.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
-    [ "OnGossipHello", "d6/d9f/a23706.html#ae8f7167ba5b973881e32d604691dc15a", null ],
-    [ "OnGossipSelect", "d6/d9f/a23706.html#a025cc7cc9c69f0eb461445170972ab52", null ]
+    [ "HandleScriptEffect", "d6/d9f/a23706.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
+    [ "PrepareSpellScript", "d6/d9f/a23706.html#af475c0968aabaf56e8ca38950ad651f0", null ],
+    [ "Register", "d6/d9f/a23706.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::find_type_if&lt; Check &gt; Struct Template Reference</title>
+<title>AzerothCore: TaskScheduler::Compare Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,36 +105,60 @@ $(document).ready(function(){initNavTree('da/d88/a05510.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="../../d0/d2f/a05507.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::find_type_if&lt; Check &gt; Struct Template Reference</div></div>
+  <div class="headertitle"><div class="title">TaskScheduler::Compare Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Types.h</a>&quot;</code></p>
+<p>Container which provides <a class="el" href="../../d0/dac/a05506.html">Task</a> order, insert and reschedule operations.  
+ <a href="../../da/d88/a05510.html#details">More...</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:a64a76023297787362eb6aae9746eee66"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d88/a05510.html#a64a76023297787362eb6aae9746eee66">type</a> = find_type_end</td></tr>
-<tr class="separator:a64a76023297787362eb6aae9746eee66"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a4f528af97bd248dc4532b303f4f38a63"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d88/a05510.html#a4f528af97bd248dc4532b303f4f38a63">operator()</a> (<a class="el" href="../../d3/dc0/a05502.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> const &amp;left, <a class="el" href="../../d3/dc0/a05502.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> const &amp;right) const</td></tr>
+<tr class="separator:a4f528af97bd248dc4532b303f4f38a63"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;template&lt; typename... &gt; typename Check&gt;<br />
-struct Acore::find_type_if&lt; Check &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a64a76023297787362eb6aae9746eee66" name="a64a76023297787362eb6aae9746eee66"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a64a76023297787362eb6aae9746eee66">&#9670;&#160;</a></span>type</h2>
+<div class="textblock"><p >Container which provides <a class="el" href="../../d0/dac/a05506.html">Task</a> order, insert and reschedule operations. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a4f528af97bd248dc4532b303f4f38a63" name="a4f528af97bd248dc4532b303f4f38a63"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4f528af97bd248dc4532b303f4f38a63">&#9670;&#160;</a></span>operator()()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;template&lt; typename... &gt; typename Check&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../d0/dac/a05506.html">Acore::find_type_if</a>&lt; Check &gt;::type =  find_type_end</td>
+          <td class="memname">bool TaskScheduler::Compare::operator() </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/dc0/a05502.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> const &amp;&#160;</td>
+          <td class="paramname"><em>left</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d3/dc0/a05502.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> const &amp;&#160;</td>
+          <td class="paramname"><em>right</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
+<div class="fragment"><div class="line"><span class="lineno">  124</span>        {</div>
+<div class="line"><span class="lineno">  125</span>            <span class="keywordflow">return</span> (*left.get()) &lt; (*right.get());</div>
+<div class="line"><span class="lineno">  126</span>        };</div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -142,8 +166,8 @@ template&lt;template&lt; typename... &gt; typename Check&gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/dcf/a04692.html">Acore</a></li><li class="navelem"><a class="el" href="../../da/d88/a05510.html">find_type_if&lt; Check &gt;</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:45:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/dc0/a05502.html">TaskScheduler</a></li><li class="navelem"><a class="el" href="../../da/d88/a05510.html">Compare</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:43:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

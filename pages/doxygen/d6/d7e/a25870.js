@@ -1,8 +1,10 @@
 var a25870 =
 [
-    [ "CheckProc", "d6/d7e/a25870.html#a7796d6b90bb3452d75d28e5a6a3e6287", null ],
-    [ "HandleProc", "d6/d7e/a25870.html#ab456eb468477ae465f058b05ea45aaeb", null ],
-    [ "PrepareAuraScript", "d6/d7e/a25870.html#a9d255b2878f11e0ce9f9ffa81f7e4b0e", null ],
-    [ "Register", "d6/d7e/a25870.html#a9c285da0ae22011d01eeed7415d37d42", null ],
-    [ "Validate", "d6/d7e/a25870.html#a714d9b7afc9ae0dd190030309f1e83ca", null ]
+    [ "AfterCheckProc", "d6/d7e/a25870.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
+    [ "HandleProc", "d6/d7e/a25870.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "d6/d7e/a25870.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "d6/d7e/a25870.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "d6/d7e/a25870.html#a3d2d6f1a00825ac66f507a790f468198", null ],
+    [ "_spellInfo", "d6/d7e/a25870.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
+    [ "_ticksModifier", "d6/d7e/a25870.html#ae23b54499fff879a096bd459e264c4f0", null ]
 ];

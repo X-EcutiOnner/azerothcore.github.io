@@ -1,6 +1,6 @@
 var a10798 =
 [
-    [ "WorldSessionFilter", "d4/d87/a10798.html#aba91eb2dfd56201534743b2d458fa111", null ],
-    [ "~WorldSessionFilter", "d4/d87/a10798.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
-    [ "Process", "d4/d87/a10798.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
+    [ "DismissCritter", "d4/d87/a10798.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "d4/d87/a10798.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "d4/d87/a10798.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

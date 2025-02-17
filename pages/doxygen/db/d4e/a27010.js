@@ -1,5 +1,5 @@
 var a27010 =
 [
-    [ "go_sacred_fire_of_life", "db/d4e/a27010.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "db/d4e/a27010.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "go_mistwhisper_treasure", "db/d4e/a27010.html#a87c90caa9f6a628cb0eea3556b58449e", null ],
+    [ "OnGossipHello", "db/d4e/a27010.html#a03b6b19faba005ced7ff921fdf8ab493", null ]
 ];

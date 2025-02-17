@@ -1,8 +1,8 @@
 var a26766 =
 [
-    [ "CharacterActionIpLogger", "d5/d99/a26766.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "d5/d99/a26766.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnCreate", "d5/d99/a26766.html#ae25875eed131046444874c4109619748", null ],
-    [ "OnLogin", "d5/d99/a26766.html#af430f10fe536ac40df50bc9424a7decb", null ],
-    [ "OnLogout", "d5/d99/a26766.html#aca289740b022dcaa0ae681327785cb72", null ]
+    [ "HandleDamage", "d5/d99/a26766.html#a371d3112e619453b7c92933a145bf4d2", null ],
+    [ "HandleDummy", "d5/d99/a26766.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
+    [ "PrepareSpellScript", "d5/d99/a26766.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
+    [ "Register", "d5/d99/a26766.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
+    [ "Validate", "d5/d99/a26766.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
 ];

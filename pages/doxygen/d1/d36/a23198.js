@@ -1,11 +1,10 @@
 var a23198 =
 [
-    [ "boss_high_king_maulgar", "d1/d36/a23198.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
-    [ "DoAction", "d1/d36/a23198.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
-    [ "JustDied", "d1/d36/a23198.html#ad235febd755745313b72394c633c3723", null ],
-    [ "JustEngagedWith", "d1/d36/a23198.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
-    [ "KilledUnit", "d1/d36/a23198.html#a2059016597039929103c053d6524ebf7", null ],
-    [ "Reset", "d1/d36/a23198.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
-    [ "UpdateAI", "d1/d36/a23198.html#ae540909dbbb3cf93e37503cd755c3001", null ],
-    [ "_recentlySpoken", "d1/d36/a23198.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
+    [ "boss_warlord_kalithresh", "d1/d36/a23198.html#afcf2288fbea2d5010c41344ce0247559", null ],
+    [ "JustDied", "d1/d36/a23198.html#a1947562aa9dafea371e2f2da824a3f65", null ],
+    [ "JustEngagedWith", "d1/d36/a23198.html#a2712f5c363c3929550b77ef2536b1385", null ],
+    [ "KilledUnit", "d1/d36/a23198.html#a06855288497f5335a236867ef681d3f8", null ],
+    [ "MoveInLineOfSight", "d1/d36/a23198.html#a544da19b6c3a6f159ed6b1639def1071", null ],
+    [ "Reset", "d1/d36/a23198.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
+    [ "_introDone", "d1/d36/a23198.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
 ];

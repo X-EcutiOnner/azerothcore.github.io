@@ -1,6 +1,6 @@
 var a13794 =
 [
-    [ "LaunchHit", "d4/dc7/a13794.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
-    [ "PrepareSpellScript", "d4/dc7/a13794.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
-    [ "Register", "d4/dc7/a13794.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
+    [ "boss_grilekAI", "dd/db2/a13798.html", "dd/db2/a13798" ],
+    [ "boss_grilek", "d4/dc7/a13794.html#acffe0061db18c5725c8c290822c5fed7", null ],
+    [ "GetAI", "d4/dc7/a13794.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
 ];

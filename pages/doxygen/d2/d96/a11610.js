@@ -1,15 +1,12 @@
 var a11610 =
 [
-    [ "boss_vanndarAI", "d2/d96/a11610.html#ada061b4363340602fd1f4744433d9cf9", null ],
-    [ "AttackStart", "d2/d96/a11610.html#a76ab9327e04b82b534a9b3ea59b377d1", null ],
-    [ "EnterEvadeMode", "d2/d96/a11610.html#a9ba6e2620a25728bf30d4d813a82b781", null ],
-    [ "JustEngagedWith", "d2/d96/a11610.html#abde00baf4099361b8c26e6e0cf6c1517", null ],
-    [ "Reset", "d2/d96/a11610.html#a1c2fdf4351a43047f02bec1d46423cb8", null ],
-    [ "UpdateAI", "d2/d96/a11610.html#ab410ed8d64cd91bd6c4b78b2ed678eab", null ],
-    [ "Attacked", "d2/d96/a11610.html#ac5994c76a9d84cf303021a9298673d68", null ],
-    [ "AvatarTimer", "d2/d96/a11610.html#a3bed38b10a87baf50e9c9a57229bd464", null ],
-    [ "ResetTimer", "d2/d96/a11610.html#ae1c4e16cd9ad68e4700d68ed64baa8e2", null ],
-    [ "StormboltTimer", "d2/d96/a11610.html#a71ef70c1b504be2b00be1a70e85bc18a", null ],
-    [ "ThunderclapTimer", "d2/d96/a11610.html#a681a103b6cf937dad3fb15e5be358c26", null ],
-    [ "YellTimer", "d2/d96/a11610.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3", null ]
+    [ "message_commandscript", "d2/d96/a11610.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
+    [ "GetCommands", "d2/d96/a11610.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
+    [ "HandleAnnounceCommand", "d2/d96/a11610.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
+    [ "HandleGMAnnounceCommand", "d2/d96/a11610.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
+    [ "HandleGMNameAnnounceCommand", "d2/d96/a11610.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
+    [ "HandleGMNotifyCommand", "d2/d96/a11610.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
+    [ "HandleNameAnnounceCommand", "d2/d96/a11610.html#a786902b70345712c6dba9f638695dd9e", null ],
+    [ "HandleNotifyCommand", "d2/d96/a11610.html#a0d53b2414931451b30abd2fe5acee1af", null ],
+    [ "HandleWhispersCommand", "d2/d96/a11610.html#a9a02c97677250136f9717968a9f47b73", null ]
 ];

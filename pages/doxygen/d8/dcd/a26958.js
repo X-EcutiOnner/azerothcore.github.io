@@ -1,6 +1,6 @@
 var a26958 =
 [
-    [ "go_l70_etc_musicAI", "d8/dcd/a26958.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "d8/dcd/a26958.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "d8/dcd/a26958.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "npc_spirit_shadeAI", "d6/dd0/a26962.html", "d6/dd0/a26962" ],
+    [ "npc_spirit_shade", "d8/dcd/a26958.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "d8/dcd/a26958.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

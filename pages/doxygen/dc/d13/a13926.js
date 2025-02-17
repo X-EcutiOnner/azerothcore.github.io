@@ -1,9 +1,8 @@
 var a13926 =
 [
-    [ "npc_brew_bubble", "dc/d13/a13926.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "dc/d13/a13926.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "dc/d13/a13926.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "dc/d13/a13926.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "dc/d13/a13926.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "dc/d13/a13926.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "npc_spawn_of_marli", "dc/d13/a13926.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "dc/d13/a13926.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "dc/d13/a13926.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "dc/d13/a13926.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "dc/d13/a13926.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

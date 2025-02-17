@@ -1,12 +1,8 @@
 var a21710 =
 [
-    [ "npc_your_inner_turmoilAI", "d2/d0e/a21710.html#a95e8039b174f6db267197e04b6bd2dd2", null ],
-    [ "DamageTaken", "d2/d0e/a21710.html#a0e14a306db46e817e6d8f7a358519f83", null ],
-    [ "JustDied", "d2/d0e/a21710.html#a142359bf1661542d044a7d27b764832b", null ],
-    [ "Reset", "d2/d0e/a21710.html#a4e17e9642ec11712652f41495974b716", null ],
-    [ "setphase", "d2/d0e/a21710.html#a17c00619bcf5818e49f67d4d8b8b35b0", null ],
-    [ "UpdateAI", "d2/d0e/a21710.html#a2a4b20fccb4b5ef0f590f0a7ee92e4d2", null ],
-    [ "health50", "d2/d0e/a21710.html#af5a9e355c2a5a927d38ea22fe96d89f0", null ],
-    [ "phase", "d2/d0e/a21710.html#a60212e1504bcb6f7db05ba5ed09df71f", null ],
-    [ "timer", "d2/d0e/a21710.html#af2c272de51aa15a41af9837f99256a62", null ]
+    [ "AfterApply", "d2/d0e/a21710.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "d2/d0e/a21710.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "d2/d0e/a21710.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "d2/d0e/a21710.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "d2/d0e/a21710.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

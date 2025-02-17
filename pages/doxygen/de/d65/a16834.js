@@ -1,7 +1,16 @@
 var a16834 =
 [
-    [ "HandleEffectPeriodic", "de/d65/a16834.html#a4802c810efd7dd8a9954845366398e7f", null ],
-    [ "PrepareAuraScript", "de/d65/a16834.html#a008166d25e7a278507e953325f40ccd5", null ],
-    [ "Register", "de/d65/a16834.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
-    [ "Validate", "de/d65/a16834.html#a3fc78060f881262c59151b6eb6a943f8", null ]
+    [ "boss_ickAI", "de/d65/a16834.html#a72c90af745b63202edc36b84b3f4df12", null ],
+    [ "CanAIAttack", "de/d65/a16834.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
+    [ "DamageTaken", "de/d65/a16834.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
+    [ "GetKrick", "de/d65/a16834.html#a2d6192f314e76886204c7248d141260a", null ],
+    [ "JustDied", "de/d65/a16834.html#afd7752ee19dcc6be0b28181bb4485146", null ],
+    [ "JustEngagedWith", "de/d65/a16834.html#a27598604e65417225acd41d6f05cc717", null ],
+    [ "JustSummoned", "de/d65/a16834.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
+    [ "KilledUnit", "de/d65/a16834.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
+    [ "Reset", "de/d65/a16834.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
+    [ "SpellHitTarget", "de/d65/a16834.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
+    [ "UpdateAI", "de/d65/a16834.html#a74bd63ac9558ecec52affaa7440360a1", null ],
+    [ "events", "de/d65/a16834.html#aab514bb5f930d9eb545a279181632796", null ],
+    [ "pInstance", "de/d65/a16834.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
 ];

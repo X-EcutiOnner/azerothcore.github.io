@@ -1,7 +1,6 @@
 var a17210 =
 [
-    [ "ExtraEffect", "d5/d92/a17210.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "d5/d92/a17210.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "d5/d92/a17210.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "d5/d92/a17210.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "FilterTargets", "d5/d92/a17210.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
+    [ "PrepareSpellScript", "d5/d92/a17210.html#a8e9d81b34e05506569f4b910c1958de3", null ],
+    [ "Register", "d5/d92/a17210.html#aa80980c3f68abcb0fac7a41172f70012", null ]
 ];

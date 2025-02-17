@@ -1,11 +1,10 @@
 var a27894 =
 [
-    [ "ClassID", "dd/dc2/a27894.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
-    [ "DisplayInfoID", "dd/dc2/a27894.html#a87657df2ad024245ccb2192303f76b7a", null ],
-    [ "ID", "dd/dc2/a27894.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
-    [ "InventoryType", "dd/dc2/a27894.html#a6dc33fc40a299b010c18a7009aff648b", null ],
-    [ "Material", "dd/dc2/a27894.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
-    [ "SheatheType", "dd/dc2/a27894.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
-    [ "SoundOverrideSubclassID", "dd/dc2/a27894.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
-    [ "SubclassID", "dd/dc2/a27894.html#ac39254716573e335caf312f635353a2e", null ]
+    [ "HasFlag", "dd/dc2/a27894.html#abe23ca5437589a38ea57bc93a6197911", null ],
+    [ "CollisionHeight", "dd/dc2/a27894.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
+    [ "CollisionWidth", "dd/dc2/a27894.html#ab79497759cf169348b8922301fc43b2f", null ],
+    [ "Flags", "dd/dc2/a27894.html#a3bb96e232124771e78f8b5db53405106", null ],
+    [ "Id", "dd/dc2/a27894.html#aa19fec147703c7542be260c8ec5a0446", null ],
+    [ "MountHeight", "dd/dc2/a27894.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
+    [ "Scale", "dd/dc2/a27894.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
 ];

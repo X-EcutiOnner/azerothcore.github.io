@@ -1,8 +1,8 @@
 var a19178 =
 [
-    [ "HandleEffectPeriodic", "d7/de0/a19178.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "d7/de0/a19178.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "d7/de0/a19178.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "d7/de0/a19178.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "d7/de0/a19178.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "npc_crystal_spike", "d7/de0/a19178.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "d7/de0/a19178.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "d7/de0/a19178.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "d7/de0/a19178.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "d7/de0/a19178.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

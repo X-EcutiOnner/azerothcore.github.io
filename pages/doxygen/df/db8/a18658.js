@@ -1,7 +1,6 @@
 var a18658 =
 [
-    [ "HandleTriggerSpell", "df/db8/a18658.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
-    [ "PrepareAuraScript", "df/db8/a18658.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
-    [ "Register", "df/db8/a18658.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
-    [ "Validate", "df/db8/a18658.html#a813bad39641956fff697580f271416d2", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "d3/dff/a18662.html", "d3/dff/a18662" ],
+    [ "npc_icc_vengeful_fleshreaper", "df/db8/a18658.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
+    [ "GetAI", "df/db8/a18658.html#abf1903616dbf52718313c8b404b504a5", null ]
 ];

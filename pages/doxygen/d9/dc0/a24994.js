@@ -1,11 +1,7 @@
 var a24994 =
 [
-    [ "spell_gen_consume", "d9/dc0/a24994.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
-    [ "AfterRemove", "d9/dc0/a24994.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
-    [ "HandleProc", "d9/dc0/a24994.html#af69251aa0415a2148162f32dd9113917", null ],
-    [ "PrepareAuraScript", "d9/dc0/a24994.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
-    [ "Register", "d9/dc0/a24994.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
-    [ "Validate", "d9/dc0/a24994.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
-    [ "_spellId1", "d9/dc0/a24994.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
-    [ "_spellId2", "d9/dc0/a24994.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
+    [ "CheckIfLanceEquipped", "d9/dc0/a24994.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
+    [ "PrepareSpellScript", "d9/dc0/a24994.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
+    [ "Register", "d9/dc0/a24994.html#a4421ceaedce16777f8f04b9c40855782", null ],
+    [ "Validate", "d9/dc0/a24994.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
 ];

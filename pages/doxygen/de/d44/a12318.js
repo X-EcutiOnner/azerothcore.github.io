@@ -1,8 +1,10 @@
 var a12318 =
 [
-    [ "npc_lava_spawn", "de/d44/a12318.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "de/d44/a12318.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "de/d44/a12318.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "de/d44/a12318.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "de/d44/a12318.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "boss_golemaggAI", "de/d44/a12318.html#a79e2416a55a1531316d891ebff4e5575", null ],
+    [ "DamageTaken", "de/d44/a12318.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
+    [ "Reset", "de/d44/a12318.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
+    [ "UpdateAI", "de/d44/a12318.html#af7b322731241dbb08041a92cd355f273", null ],
+    [ "earthquakeTimer", "de/d44/a12318.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
+    [ "enraged", "de/d44/a12318.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
+    [ "pyroblastTimer", "de/d44/a12318.html#a142ededff85d517c08744bdafd644c34", null ]
 ];

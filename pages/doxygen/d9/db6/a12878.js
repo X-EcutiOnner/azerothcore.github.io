@@ -1,14 +1,10 @@
 var a12878 =
 [
-    [ "boss_apothecary_hummelAI", "d9/db6/a12878.html#a75796eb8dc83729f2f726ff51317bd66", null ],
-    [ "DamageTaken", "d9/db6/a12878.html#a2af77fbe7f089b5da20d2ff693cfcedf", null ],
-    [ "DoAction", "d9/db6/a12878.html#a03fb543ba20f92d5528bf4667c457631", null ],
-    [ "JustDied", "d9/db6/a12878.html#a3c7bc5f9aa04f155debbdacafed6163d", null ],
-    [ "Reset", "d9/db6/a12878.html#a31381343d2533af670941baf872b3635", null ],
-    [ "sGossipSelect", "d9/db6/a12878.html#a1a9953c37286fd40c0aa0eebfec3eb86", null ],
-    [ "SummonedCreatureDies", "d9/db6/a12878.html#a8947cbd1c2856334a0d6529bc664f71b", null ],
-    [ "UpdateAI", "d9/db6/a12878.html#a61e4d85ecd592142ba07588512505990", null ],
-    [ "_deadCount", "d9/db6/a12878.html#aaac2018e16b80997f884745732605559", null ],
-    [ "_isDead", "d9/db6/a12878.html#aa3c37a38b95c6b3bec4e3b787d2155df", null ],
-    [ "_phase", "d9/db6/a12878.html#a951d68d4e645860cdb5c5e348bf1fff4", null ]
+    [ "npc_scarlet_courierAI", "d9/db6/a12878.html#a83c5e32659d38a513790322e46dcc283", null ],
+    [ "JustEngagedWith", "d9/db6/a12878.html#aa470197f0949a413c421bda8c7c09279", null ],
+    [ "MovementInform", "d9/db6/a12878.html#add19812d92d62b602f96ffc5fb513d6c", null ],
+    [ "Reset", "d9/db6/a12878.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
+    [ "UpdateAI", "d9/db6/a12878.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
+    [ "uiStage", "d9/db6/a12878.html#a2f920922f8c6f1a878d0e4978e081257", null ],
+    [ "uiStage_timer", "d9/db6/a12878.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
 ];

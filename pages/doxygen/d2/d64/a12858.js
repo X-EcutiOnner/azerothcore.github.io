@@ -1,7 +1,6 @@
 var a12858 =
 [
-    [ "HandleEffectApply", "d2/d64/a12858.html#a710536e0a3bacf173d037041e755bd82", null ],
-    [ "HandleEffectRemove", "d2/d64/a12858.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
-    [ "PrepareAuraScript", "d2/d64/a12858.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
-    [ "Register", "d2/d64/a12858.html#a9092818bdb15a12163aae633049cb7f6", null ]
+    [ "npc_crusade_persuadedAI", "d2/d0d/a12862.html", "d2/d0d/a12862" ],
+    [ "npc_crusade_persuaded", "d2/d64/a12858.html#a4048e164fc99b9dfff41fd168fb542b6", null ],
+    [ "GetAI", "d2/d64/a12858.html#a004833d7e6312b23eb6a07c0a6e41db6", null ]
 ];

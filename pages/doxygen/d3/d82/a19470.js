@@ -1,16 +1,8 @@
 var a19470 =
 [
-    [ "boss_steelbreakerAI", "d3/d82/a19470.html#aeec79a009137be8b6290366d8d6bcfa3", null ],
-    [ "DoAction", "d3/d82/a19470.html#ac5bc8a9512c2e6e5169366cc5bbc79c2", null ],
-    [ "JustDied", "d3/d82/a19470.html#a001f8b206f0d00fff77e964f49cbdb58", null ],
-    [ "JustEngagedWith", "d3/d82/a19470.html#a0f207b2a274c7266f6882205e510f346", null ],
-    [ "JustReachedHome", "d3/d82/a19470.html#a3fd5d7c8baf6d6b4651d4d54df2e7fa8", null ],
-    [ "KilledUnit", "d3/d82/a19470.html#a5a0a92144412259bfa02abc04bdc4425", null ],
-    [ "Reset", "d3/d82/a19470.html#a9544ce38a210da1ac867d5cabf9ffbec", null ],
-    [ "SpellHit", "d3/d82/a19470.html#a21d891d8f8f6fa89b1f1883800d8d578", null ],
-    [ "UpdateAI", "d3/d82/a19470.html#ac4adabf023663df7b4c1fdc8c027b52d", null ],
-    [ "UpdatePhase", "d3/d82/a19470.html#af217acbeab5032b8a16180f4ff021e0a", null ],
-    [ "_phase", "d3/d82/a19470.html#ae71145ec4a82d1f024892181daebace9", null ],
-    [ "events", "d3/d82/a19470.html#a8085a615ff5d252452616ef69dfd3249", null ],
-    [ "pInstance", "d3/d82/a19470.html#ac99cd9678f209b0cf2e8e8e3457d0f55", null ]
+    [ "dark_rune_stormcallerAI", "d3/d82/a19470.html#ad889fb0c50e879c958c9b8bb681e4bf7", null ],
+    [ "JustEngagedWith", "d3/d82/a19470.html#a7ddfb8afac3ff28a84b26255628fab50", null ],
+    [ "Reset", "d3/d82/a19470.html#afa9cc2e1a9f7d21cd885479e9afdcd12", null ],
+    [ "UpdateAI", "d3/d82/a19470.html#adbd245fc5180dc7c78704595a9592864", null ],
+    [ "events", "d3/d82/a19470.html#aa7d8d1d075eeb03952b47cc16846a3db", null ]
 ];

@@ -1,12 +1,16 @@
 var a19594 =
 [
-    [ "npc_freya_wardAI", "d4/d20/a19594.html#afbc2f3d88173e240b87915cf0520b3cf", null ],
-    [ "DoAction", "d4/d20/a19594.html#a4c9418b5474eb572a76168d4a460159a", null ],
-    [ "JustSummoned", "d4/d20/a19594.html#a9075d763014ca50b4e0d2c815e1c23b7", null ],
-    [ "Reset", "d4/d20/a19594.html#a65d304edd3b00b4a45c58bf36b926900", null ],
-    [ "SummonedCreatureDespawn", "d4/d20/a19594.html#a6273b024ebde2fb36ed79eb122f7ac68", null ],
-    [ "UpdateAI", "d4/d20/a19594.html#a11dd073b70e5126f580ec5122dce7bbd", null ],
-    [ "_castTimer", "d4/d20/a19594.html#a6308aadc8ebf41cf045b04ac58e2244b", null ],
-    [ "_summoned", "d4/d20/a19594.html#a5df6604055c5f3936a95f8d0ca5be8c1", null ],
-    [ "summons", "d4/d20/a19594.html#a82932e9f2d570fa6d8394bfd3954c41e", null ]
+    [ "boss_steelbreakerAI", "d4/d20/a19594.html#aeec79a009137be8b6290366d8d6bcfa3", null ],
+    [ "DoAction", "d4/d20/a19594.html#ac5bc8a9512c2e6e5169366cc5bbc79c2", null ],
+    [ "JustDied", "d4/d20/a19594.html#a001f8b206f0d00fff77e964f49cbdb58", null ],
+    [ "JustEngagedWith", "d4/d20/a19594.html#a0f207b2a274c7266f6882205e510f346", null ],
+    [ "JustReachedHome", "d4/d20/a19594.html#a3fd5d7c8baf6d6b4651d4d54df2e7fa8", null ],
+    [ "KilledUnit", "d4/d20/a19594.html#a5a0a92144412259bfa02abc04bdc4425", null ],
+    [ "Reset", "d4/d20/a19594.html#a9544ce38a210da1ac867d5cabf9ffbec", null ],
+    [ "SpellHit", "d4/d20/a19594.html#a21d891d8f8f6fa89b1f1883800d8d578", null ],
+    [ "UpdateAI", "d4/d20/a19594.html#ac4adabf023663df7b4c1fdc8c027b52d", null ],
+    [ "UpdatePhase", "d4/d20/a19594.html#af217acbeab5032b8a16180f4ff021e0a", null ],
+    [ "_phase", "d4/d20/a19594.html#ae71145ec4a82d1f024892181daebace9", null ],
+    [ "events", "d4/d20/a19594.html#a8085a615ff5d252452616ef69dfd3249", null ],
+    [ "pInstance", "d4/d20/a19594.html#ac99cd9678f209b0cf2e8e8e3457d0f55", null ]
 ];

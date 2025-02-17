@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AuctionHouseUsablePlayerInfo Struct Reference</title>
+<title>AzerothCore: SmartScriptHolder Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,244 +107,472 @@ $(document).ready(function(){initNavTree('da/da7/a06990.html','../../'); initRes
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
 <a href="../../da/d3c/a06987.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AuctionHouseUsablePlayerInfo Struct Reference</div></div>
+  <div class="headertitle"><div class="title">SmartScriptHolder Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">AuctionHouseSearcher.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SmartScriptMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aee11f4f45f83664483344e3bbfba7463"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#aee11f4f45f83664483344e3bbfba7463">PlayerCanUseItem</a> (<a class="el" href="../../dd/da2/a08210.html">ItemTemplate</a> const *proto) const</td></tr>
-<tr class="separator:aee11f4f45f83664483344e3bbfba7463"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8f5894a5729d4c8d26376bbe1a2ac29e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df8/a00155.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a8f5894a5729d4c8d26376bbe1a2ac29e">GetSkillValue</a> (<a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> skill) const</td></tr>
-<tr class="separator:a8f5894a5729d4c8d26376bbe1a2ac29e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3400ad05d8423ae6878fab815521ec6f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a3400ad05d8423ae6878fab815521ec6f">HasSpell</a> (<a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spell) const</td></tr>
-<tr class="separator:a3400ad05d8423ae6878fab815521ec6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4c4b6a7dd1237810eca3a2cefb98763"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#aa4c4b6a7dd1237810eca3a2cefb98763">SmartScriptHolder</a> ()</td></tr>
+<tr class="separator:aa4c4b6a7dd1237810eca3a2cefb98763"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a492a8e1a83e5cde0b6a92fffe54d128b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a492a8e1a83e5cde0b6a92fffe54d128b">GetScriptType</a> () const</td></tr>
+<tr class="separator:a492a8e1a83e5cde0b6a92fffe54d128b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d8e62e95e20a0e0875436d1f9ecc43c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a6d8e62e95e20a0e0875436d1f9ecc43c">GetEventType</a> () const</td></tr>
+<tr class="separator:a6d8e62e95e20a0e0875436d1f9ecc43c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec1d5886f4894e27896d05b4881bc44a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#aec1d5886f4894e27896d05b4881bc44a">GetActionType</a> () const</td></tr>
+<tr class="separator:aec1d5886f4894e27896d05b4881bc44a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa251efa27f361d0b7afe043b998f8f3d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#aa251efa27f361d0b7afe043b998f8f3d">GetTargetType</a> () const</td></tr>
+<tr class="separator:aa251efa27f361d0b7afe043b998f8f3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a436c9c5825e123acd282569d69736e0e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a436c9c5825e123acd282569d69736e0e">operator&lt;</a> (<a class="el" href="../../da/da7/a06990.html">SmartScriptHolder</a> const &amp;other) const</td></tr>
+<tr class="separator:a436c9c5825e123acd282569d69736e0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a41a57c372871c84a572d2f3697cb18aa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a41a57c372871c84a572d2f3697cb18aa">classMask</a></td></tr>
-<tr class="separator:a41a57c372871c84a572d2f3697cb18aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a96e56943da42f1a1258fc1d716259e1a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a96e56943da42f1a1258fc1d716259e1a">raceMask</a></td></tr>
-<tr class="separator:a96e56943da42f1a1258fc1d716259e1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a870f632b54e4638b1f5a4e93b6bd9e52"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a870f632b54e4638b1f5a4e93b6bd9e52">level</a></td></tr>
-<tr class="separator:a870f632b54e4638b1f5a4e93b6bd9e52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a55c2ad9d1cdea4913cb35deb4adc87fd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d1c/a00605.html#a1b900c09f81e1b28037da303e33bd597">AuctionPlayerSkills</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a55c2ad9d1cdea4913cb35deb4adc87fd">skills</a></td></tr>
-<tr class="separator:a55c2ad9d1cdea4913cb35deb4adc87fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac83cc019ceb1752ce8d6b5a3aa3d350f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d1c/a00605.html#add0df1394d287b79672ebf01c59138c1">AuctionPlayerSpells</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#ac83cc019ceb1752ce8d6b5a3aa3d350f">spells</a></td></tr>
-<tr class="separator:ac83cc019ceb1752ce8d6b5a3aa3d350f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3da9a6de4e29a275cae5d858a11a4f2c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a3da9a6de4e29a275cae5d858a11a4f2c">entryOrGuid</a></td></tr>
+<tr class="separator:a3da9a6de4e29a275cae5d858a11a4f2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acceded656fe45e2c9a963041b6ddd3b5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/dd7/a02375.html#a13c55333783218e0f0c80c780fb311ac">SmartScriptType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#acceded656fe45e2c9a963041b6ddd3b5">source_type</a></td></tr>
+<tr class="separator:acceded656fe45e2c9a963041b6ddd3b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3a6b9cda898c1e3250b9555ce820f263"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a3a6b9cda898c1e3250b9555ce820f263">event_id</a></td></tr>
+<tr class="separator:a3a6b9cda898c1e3250b9555ce820f263"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a16db4e21026983233ae8b3aebe926444"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a16db4e21026983233ae8b3aebe926444">link</a></td></tr>
+<tr class="separator:a16db4e21026983233ae8b3aebe926444"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adfc68e31edfe45897a042b121f24557b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d01/a06218.html">SmartEvent</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#adfc68e31edfe45897a042b121f24557b">event</a></td></tr>
+<tr class="separator:adfc68e31edfe45897a042b121f24557b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac8040e5a0d1c06b3b64600c878471932"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d9c/a06398.html">SmartAction</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#ac8040e5a0d1c06b3b64600c878471932">action</a></td></tr>
+<tr class="separator:ac8040e5a0d1c06b3b64600c878471932"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af0816b2a770d6d72febcbb9f95e0765f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d71/a06882.html">SmartTarget</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#af0816b2a770d6d72febcbb9f95e0765f">target</a></td></tr>
+<tr class="separator:af0816b2a770d6d72febcbb9f95e0765f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a73de49d2b85df3fe5d94e80c946a3d4c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a73de49d2b85df3fe5d94e80c946a3d4c">timer</a></td></tr>
+<tr class="separator:a73de49d2b85df3fe5d94e80c946a3d4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af66a375629eaf6e6780866ed515404a0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#af66a375629eaf6e6780866ed515404a0">priority</a></td></tr>
+<tr class="separator:af66a375629eaf6e6780866ed515404a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1106d3dbfa2cabbd40053b2e0c98f15b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a1106d3dbfa2cabbd40053b2e0c98f15b">active</a></td></tr>
+<tr class="separator:a1106d3dbfa2cabbd40053b2e0c98f15b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c8fa0e2ed443c676b148c9f81e8abdb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a0c8fa0e2ed443c676b148c9f81e8abdb">runOnce</a></td></tr>
+<tr class="separator:a0c8fa0e2ed443c676b148c9f81e8abdb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36d0ada3752320c9577bd92673fd0ced"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a36d0ada3752320c9577bd92673fd0ced">enableTimed</a></td></tr>
+<tr class="separator:a36d0ada3752320c9577bd92673fd0ced"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
+Static Public Attributes</h2></td></tr>
+<tr class="memitem:a05121b40d78dbf081642c23eed949cda"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da7/a06990.html#a05121b40d78dbf081642c23eed949cda">DEFAULT_PRIORITY</a> = std::numeric_limits&lt;<a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;::max()</td></tr>
+<tr class="separator:a05121b40d78dbf081642c23eed949cda"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a8f5894a5729d4c8d26376bbe1a2ac29e" name="a8f5894a5729d4c8d26376bbe1a2ac29e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8f5894a5729d4c8d26376bbe1a2ac29e">&#9670;&#160;</a></span>GetSkillValue()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="aa4c4b6a7dd1237810eca3a2cefb98763" name="aa4c4b6a7dd1237810eca3a2cefb98763"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4c4b6a7dd1237810eca3a2cefb98763">&#9670;&#160;</a></span>SmartScriptHolder()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/df8/a00155.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> AuctionHouseUsablePlayerInfo::GetSkillValue </td>
+          <td class="memname">SmartScriptHolder::SmartScriptHolder </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>skill</em></td><td>)</td>
-          <td> const</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  707</span>{</div>
-<div class="line"><span class="lineno">  708</span>    <span class="keywordflow">if</span> (!skill)</div>
-<div class="line"><span class="lineno">  709</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  710</span> </div>
-<div class="line"><span class="lineno">  711</span>    AuctionPlayerSkills::const_iterator itr = <a class="code hl_variable" href="../../da/da7/a06990.html#a55c2ad9d1cdea4913cb35deb4adc87fd">skills</a>.find(skill);</div>
-<div class="line"><span class="lineno">  712</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../da/da7/a06990.html#a55c2ad9d1cdea4913cb35deb4adc87fd">skills</a>.end())</div>
-<div class="line"><span class="lineno">  713</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  714</span> </div>
-<div class="line"><span class="lineno">  715</span>    <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  716</span>}</div>
-<div class="ttc" id="aa06990_html_a55c2ad9d1cdea4913cb35deb4adc87fd"><div class="ttname"><a href="../../da/da7/a06990.html#a55c2ad9d1cdea4913cb35deb4adc87fd">AuctionHouseUsablePlayerInfo::skills</a></div><div class="ttdeci">AuctionPlayerSkills skills</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:122</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1965</span>                        : <a class="code hl_variable" href="../../da/da7/a06990.html#a3da9a6de4e29a275cae5d858a11a4f2c">entryOrGuid</a>(0), <a class="code hl_variable" href="../../da/da7/a06990.html#acceded656fe45e2c9a963041b6ddd3b5">source_type</a>(<a class="code hl_enumvalue" href="../../d6/dd7/a02375.html#a13c55333783218e0f0c80c780fb311aca30b85f93a2b0164f43cf33c539cb1ca8">SMART_SCRIPT_TYPE_CREATURE</a>)</div>
+<div class="line"><span class="lineno"> 1966</span>        , <a class="code hl_variable" href="../../da/da7/a06990.html#a3a6b9cda898c1e3250b9555ce820f263">event_id</a>(0), <a class="code hl_variable" href="../../da/da7/a06990.html#a16db4e21026983233ae8b3aebe926444">link</a>(0), <a class="code hl_variable" href="../../da/da7/a06990.html#adfc68e31edfe45897a042b121f24557b">event</a>(), <a class="code hl_variable" href="../../da/da7/a06990.html#ac8040e5a0d1c06b3b64600c878471932">action</a>(), <a class="code hl_variable" href="../../da/da7/a06990.html#af0816b2a770d6d72febcbb9f95e0765f">target</a>(), <a class="code hl_variable" href="../../da/da7/a06990.html#a73de49d2b85df3fe5d94e80c946a3d4c">timer</a>(0), <a class="code hl_variable" href="../../da/da7/a06990.html#af66a375629eaf6e6780866ed515404a0">priority</a>(<a class="code hl_variable" href="../../da/da7/a06990.html#a05121b40d78dbf081642c23eed949cda">DEFAULT_PRIORITY</a>), <a class="code hl_variable" href="../../da/da7/a06990.html#a1106d3dbfa2cabbd40053b2e0c98f15b">active</a>(<span class="keyword">false</span>), <a class="code hl_variable" href="../../da/da7/a06990.html#a0c8fa0e2ed443c676b148c9f81e8abdb">runOnce</a>(<span class="keyword">false</span>)</div>
+<div class="line"><span class="lineno"> 1967</span>        , <a class="code hl_variable" href="../../da/da7/a06990.html#a36d0ada3752320c9577bd92673fd0ced">enableTimed</a>(<span class="keyword">false</span>) {}</div>
+<div class="ttc" id="aa02375_html_a13c55333783218e0f0c80c780fb311aca30b85f93a2b0164f43cf33c539cb1ca8"><div class="ttname"><a href="../../d6/dd7/a02375.html#a13c55333783218e0f0c80c780fb311aca30b85f93a2b0164f43cf33c539cb1ca8">SMART_SCRIPT_TYPE_CREATURE</a></div><div class="ttdeci">@ SMART_SCRIPT_TYPE_CREATURE</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1763</div></div>
+<div class="ttc" id="aa06990_html_a05121b40d78dbf081642c23eed949cda"><div class="ttname"><a href="../../da/da7/a06990.html#a05121b40d78dbf081642c23eed949cda">SmartScriptHolder::DEFAULT_PRIORITY</a></div><div class="ttdeci">static constexpr uint32 DEFAULT_PRIORITY</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1996</div></div>
+<div class="ttc" id="aa06990_html_a0c8fa0e2ed443c676b148c9f81e8abdb"><div class="ttname"><a href="../../da/da7/a06990.html#a0c8fa0e2ed443c676b148c9f81e8abdb">SmartScriptHolder::runOnce</a></div><div class="ttdeci">bool runOnce</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1987</div></div>
+<div class="ttc" id="aa06990_html_a1106d3dbfa2cabbd40053b2e0c98f15b"><div class="ttname"><a href="../../da/da7/a06990.html#a1106d3dbfa2cabbd40053b2e0c98f15b">SmartScriptHolder::active</a></div><div class="ttdeci">bool active</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1986</div></div>
+<div class="ttc" id="aa06990_html_a16db4e21026983233ae8b3aebe926444"><div class="ttname"><a href="../../da/da7/a06990.html#a16db4e21026983233ae8b3aebe926444">SmartScriptHolder::link</a></div><div class="ttdeci">uint32 link</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1972</div></div>
+<div class="ttc" id="aa06990_html_a36d0ada3752320c9577bd92673fd0ced"><div class="ttname"><a href="../../da/da7/a06990.html#a36d0ada3752320c9577bd92673fd0ced">SmartScriptHolder::enableTimed</a></div><div class="ttdeci">bool enableTimed</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1988</div></div>
+<div class="ttc" id="aa06990_html_a3a6b9cda898c1e3250b9555ce820f263"><div class="ttname"><a href="../../da/da7/a06990.html#a3a6b9cda898c1e3250b9555ce820f263">SmartScriptHolder::event_id</a></div><div class="ttdeci">uint32 event_id</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1971</div></div>
+<div class="ttc" id="aa06990_html_a3da9a6de4e29a275cae5d858a11a4f2c"><div class="ttname"><a href="../../da/da7/a06990.html#a3da9a6de4e29a275cae5d858a11a4f2c">SmartScriptHolder::entryOrGuid</a></div><div class="ttdeci">int32 entryOrGuid</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1969</div></div>
+<div class="ttc" id="aa06990_html_a73de49d2b85df3fe5d94e80c946a3d4c"><div class="ttname"><a href="../../da/da7/a06990.html#a73de49d2b85df3fe5d94e80c946a3d4c">SmartScriptHolder::timer</a></div><div class="ttdeci">uint32 timer</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1984</div></div>
+<div class="ttc" id="aa06990_html_ac8040e5a0d1c06b3b64600c878471932"><div class="ttname"><a href="../../da/da7/a06990.html#ac8040e5a0d1c06b3b64600c878471932">SmartScriptHolder::action</a></div><div class="ttdeci">SmartAction action</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1975</div></div>
+<div class="ttc" id="aa06990_html_acceded656fe45e2c9a963041b6ddd3b5"><div class="ttname"><a href="../../da/da7/a06990.html#acceded656fe45e2c9a963041b6ddd3b5">SmartScriptHolder::source_type</a></div><div class="ttdeci">SmartScriptType source_type</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1970</div></div>
+<div class="ttc" id="aa06990_html_adfc68e31edfe45897a042b121f24557b"><div class="ttname"><a href="../../da/da7/a06990.html#adfc68e31edfe45897a042b121f24557b">SmartScriptHolder::event</a></div><div class="ttdeci">SmartEvent event</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1974</div></div>
+<div class="ttc" id="aa06990_html_af0816b2a770d6d72febcbb9f95e0765f"><div class="ttname"><a href="../../da/da7/a06990.html#af0816b2a770d6d72febcbb9f95e0765f">SmartScriptHolder::target</a></div><div class="ttdeci">SmartTarget target</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1976</div></div>
+<div class="ttc" id="aa06990_html_af66a375629eaf6e6780866ed515404a0"><div class="ttname"><a href="../../da/da7/a06990.html#af66a375629eaf6e6780866ed515404a0">SmartScriptHolder::priority</a></div><div class="ttdeci">uint32 priority</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1985</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00122">skills</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00663">PlayerCanUseItem()</a>.</p>
-
 </div>
 </div>
-<a id="a3400ad05d8423ae6878fab815521ec6f" name="a3400ad05d8423ae6878fab815521ec6f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3400ad05d8423ae6878fab815521ec6f">&#9670;&#160;</a></span>HasSpell()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="aec1d5886f4894e27896d05b4881bc44a" name="aec1d5886f4894e27896d05b4881bc44a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec1d5886f4894e27896d05b4881bc44a">&#9670;&#160;</a></span>GetActionType()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool AuctionHouseUsablePlayerInfo::HasSpell </td>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartScriptHolder::GetActionType </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>spell</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  719</span>{</div>
-<div class="line"><span class="lineno">  720</span>    AuctionPlayerSpells::const_iterator itr = <a class="code hl_enumeration" href="../../d6/d92/a02867.html#abdbd89eacbc02a7997082886574e8ec2">spells</a>.find(spell);</div>
-<div class="line"><span class="lineno">  721</span>    <span class="keywordflow">return</span> (itr != <a class="code hl_enumeration" href="../../d6/d92/a02867.html#abdbd89eacbc02a7997082886574e8ec2">spells</a>.end());</div>
-<div class="line"><span class="lineno">  722</span>}</div>
-<div class="ttc" id="aa02867_html_abdbd89eacbc02a7997082886574e8ec2"><div class="ttname"><a href="../../d6/d92/a02867.html#abdbd89eacbc02a7997082886574e8ec2">spells</a></div><div class="ttdeci">spells</div><div class="ttdef"><b>Definition:</b> boss_krystallus.cpp:26</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1981</span>{ <span class="keywordflow">return</span> (<a class="code hl_typedef" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)<a class="code hl_variable" href="../../da/da7/a06990.html#ac8040e5a0d1c06b3b64600c878471932">action</a>.<a class="code hl_variable" href="../../dd/d9c/a06398.html#a91a5705a5bd845b4649ae25aac2fbdd2">type</a>; }</div>
+<div class="ttc" id="aa04553_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa06398_html_a91a5705a5bd845b4649ae25aac2fbdd2"><div class="ttname"><a href="../../dd/d9c/a06398.html#a91a5705a5bd845b4649ae25aac2fbdd2">SmartAction::type</a></div><div class="ttdeci">SMART_ACTION type</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:759</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00663">PlayerCanUseItem()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01975">action</a>, and <a class="el" href="../../#l00759">SmartAction::type</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00687">SmartAIMgr::CheckUnusedActionParams()</a>, <a class="el" href="../../#l00562">SmartAIMgr::CheckUnusedEventParams()</a>, <a class="el" href="../../#l00889">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03437">SmartScript::GetTargets()</a>, <a class="el" href="../../#l02209">SmartAIMgr::IsAreaTriggerValid()</a>, <a class="el" href="../../#l02139">SmartAIMgr::IsCreatureValid()</a>, <a class="el" href="../../#l02199">SmartAIMgr::IsEmoteValid()</a>, <a class="el" href="../../#l00953">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l02159">SmartAIMgr::IsGameObjectValid()</a>, <a class="el" href="../../#l02179">SmartAIMgr::IsItemValid()</a>, <a class="el" href="../../#l02109">SmartAIMgr::IsMinMaxValid()</a>, <a class="el" href="../../#l02149">SmartAIMgr::IsQuestValid()</a>, <a class="el" href="../../#l00030">SmartAIMgr::IsSAIBoolValid()</a>, <a class="el" href="../../#l02219">SmartAIMgr::IsSoundValid()</a>, <a class="el" href="../../#l02169">SmartAIMgr::IsSpellValid()</a>, <a class="el" href="../../#l00438">SmartAIMgr::IsTargetValid()</a>, <a class="el" href="../../#l02189">SmartAIMgr::IsTextEmoteValid()</a>, <a class="el" href="../../#l02008">SmartAIMgr::IsTextValid()</a>, <a class="el" href="../../#l02129">SmartAIMgr::NotNULL()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, <a class="el" href="../../#l05296">SmartScript::SetScript9()</a>, and <a class="el" href="../../#l04855">SmartScript::UpdateTimer()</a>.</p>
 
 </div>
 </div>
-<a id="aee11f4f45f83664483344e3bbfba7463" name="aee11f4f45f83664483344e3bbfba7463"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aee11f4f45f83664483344e3bbfba7463">&#9670;&#160;</a></span>PlayerCanUseItem()</h2>
+<a id="a6d8e62e95e20a0e0875436d1f9ecc43c" name="a6d8e62e95e20a0e0875436d1f9ecc43c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6d8e62e95e20a0e0875436d1f9ecc43c">&#9670;&#160;</a></span>GetEventType()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool AuctionHouseUsablePlayerInfo::PlayerCanUseItem </td>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartScriptHolder::GetEventType </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/da2/a08210.html">ItemTemplate</a> const *&#160;</td>
-          <td class="paramname"><em>proto</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  664</span>{</div>
-<div class="line"><span class="lineno">  665</span>    <a class="code hl_typedef" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> itemSkill = proto-&gt;GetSkill();</div>
-<div class="line"><span class="lineno">  666</span>    <span class="keywordflow">if</span> (itemSkill != 0)</div>
-<div class="line"><span class="lineno">  667</span>    {</div>
-<div class="line"><span class="lineno">  668</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../da/da7/a06990.html#a8f5894a5729d4c8d26376bbe1a2ac29e">GetSkillValue</a>(itemSkill) == 0)</div>
-<div class="line"><span class="lineno">  669</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  670</span>    }</div>
-<div class="line"><span class="lineno">  671</span> </div>
-<div class="line"><span class="lineno">  672</span>    <span class="keywordflow">if</span> ((proto-&gt;AllowableClass &amp; <a class="code hl_variable" href="../../da/da7/a06990.html#a41a57c372871c84a572d2f3697cb18aa">classMask</a>) == 0 || (proto-&gt;AllowableRace &amp; <a class="code hl_variable" href="../../da/da7/a06990.html#a96e56943da42f1a1258fc1d716259e1a">raceMask</a>) == 0)</div>
-<div class="line"><span class="lineno">  673</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  674</span> </div>
-<div class="line"><span class="lineno">  675</span>    <span class="keywordflow">if</span> (proto-&gt;RequiredSkill != 0)</div>
-<div class="line"><span class="lineno">  676</span>    {</div>
-<div class="line"><span class="lineno">  677</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../da/da7/a06990.html#a8f5894a5729d4c8d26376bbe1a2ac29e">GetSkillValue</a>(proto-&gt;RequiredSkill) == 0)</div>
-<div class="line"><span class="lineno">  678</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  679</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_function" href="../../da/da7/a06990.html#a8f5894a5729d4c8d26376bbe1a2ac29e">GetSkillValue</a>(proto-&gt;RequiredSkill) &lt; proto-&gt;RequiredSkillRank)</div>
-<div class="line"><span class="lineno">  680</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  681</span>    }</div>
-<div class="line"><span class="lineno">  682</span> </div>
-<div class="line"><span class="lineno">  683</span>    <span class="keywordflow">if</span> (proto-&gt;RequiredSpell != 0 &amp;&amp; !<a class="code hl_function" href="../../da/da7/a06990.html#a3400ad05d8423ae6878fab815521ec6f">HasSpell</a>(proto-&gt;RequiredSpell))</div>
-<div class="line"><span class="lineno">  684</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  685</span> </div>
-<div class="line"><span class="lineno">  686</span>    <span class="keywordflow">if</span> (level &lt; proto-&gt;RequiredLevel)</div>
-<div class="line"><span class="lineno">  687</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  688</span> </div>
-<div class="line"><span class="lineno">  689</span>    <span class="keywordflow">if</span> (proto-&gt;Spells[0].SpellId)</div>
-<div class="line"><span class="lineno">  690</span>    {</div>
-<div class="line"><span class="lineno">  691</span>        <span class="comment">// this check is for vanilla recipies. Spells are learned through individual learning spells instead of spell 483 and 55884</span></div>
-<div class="line"><span class="lineno">  692</span>        <a class="code hl_struct" href="../../d5/d01/a28022.html">SpellEntry</a> <span class="keyword">const</span>* spellEntry = <a class="code hl_variable" href="../../d2/df3/a01085.html#ab07c8126df92da43a32dfe00d7986cf6">sSpellStore</a>.LookupEntry(proto-&gt;Spells[0].SpellId);</div>
-<div class="line"><span class="lineno">  693</span>        <span class="keywordflow">if</span> (spellEntry &amp;&amp; spellEntry-&gt;<a class="code hl_variable" href="../../d5/d01/a28022.html#a9b37b50c55d7a887d61805e6197bfa21">Effect</a>[0] == <a class="code hl_enumvalue" href="../../dd/df4/a02510.html#a292c893150c454dd75628b719db1fe97acef490c9f3480852d33dbbec7727fa7f">SPELL_EFFECT_LEARN_SPELL</a> &amp;&amp; spellEntry-&gt;<a class="code hl_variable" href="../../d5/d01/a28022.html#a2a76a4db284742bee6b7293fb291c18d">EffectTriggerSpell</a>[0])</div>
-<div class="line"><span class="lineno">  694</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../da/da7/a06990.html#a3400ad05d8423ae6878fab815521ec6f">HasSpell</a>(spellEntry-&gt;<a class="code hl_variable" href="../../d5/d01/a28022.html#a2a76a4db284742bee6b7293fb291c18d">EffectTriggerSpell</a>[0]))</div>
-<div class="line"><span class="lineno">  695</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  696</span> </div>
-<div class="line"><span class="lineno">  697</span>        <span class="comment">// this check is for tbc/wotlk recipies. Spells are learned through 483 and 55884, the second spell in the item will be the actual spell learned.</span></div>
-<div class="line"><span class="lineno">  698</span>        <span class="keywordflow">if</span> (proto-&gt;Spells[0].SpellId == 483 || proto-&gt;Spells[0].SpellId == 55884)</div>
-<div class="line"><span class="lineno">  699</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../da/da7/a06990.html#a3400ad05d8423ae6878fab815521ec6f">HasSpell</a>(proto-&gt;Spells[1].SpellId))</div>
-<div class="line"><span class="lineno">  700</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  701</span>    }</div>
-<div class="line"><span class="lineno">  702</span> </div>
-<div class="line"><span class="lineno">  703</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  704</span>}</div>
-<div class="ttc" id="aa00155_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa01085_html_ab07c8126df92da43a32dfe00d7986cf6"><div class="ttname"><a href="../../d2/df3/a01085.html#ab07c8126df92da43a32dfe00d7986cf6">sSpellStore</a></div><div class="ttdeci">DBCStorage&lt; SpellEntry &gt; sSpellStore(SpellEntryfmt)</div></div>
-<div class="ttc" id="aa02510_html_a292c893150c454dd75628b719db1fe97acef490c9f3480852d33dbbec7727fa7f"><div class="ttname"><a href="../../dd/df4/a02510.html#a292c893150c454dd75628b719db1fe97acef490c9f3480852d33dbbec7727fa7f">SPELL_EFFECT_LEARN_SPELL</a></div><div class="ttdeci">@ SPELL_EFFECT_LEARN_SPELL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:814</div></div>
-<div class="ttc" id="aa06990_html_a3400ad05d8423ae6878fab815521ec6f"><div class="ttname"><a href="../../da/da7/a06990.html#a3400ad05d8423ae6878fab815521ec6f">AuctionHouseUsablePlayerInfo::HasSpell</a></div><div class="ttdeci">bool HasSpell(uint32 spell) const</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:718</div></div>
-<div class="ttc" id="aa06990_html_a41a57c372871c84a572d2f3697cb18aa"><div class="ttname"><a href="../../da/da7/a06990.html#a41a57c372871c84a572d2f3697cb18aa">AuctionHouseUsablePlayerInfo::classMask</a></div><div class="ttdeci">uint32 classMask</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:119</div></div>
-<div class="ttc" id="aa06990_html_a8f5894a5729d4c8d26376bbe1a2ac29e"><div class="ttname"><a href="../../da/da7/a06990.html#a8f5894a5729d4c8d26376bbe1a2ac29e">AuctionHouseUsablePlayerInfo::GetSkillValue</a></div><div class="ttdeci">uint16 GetSkillValue(uint32 skill) const</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:706</div></div>
-<div class="ttc" id="aa06990_html_a96e56943da42f1a1258fc1d716259e1a"><div class="ttname"><a href="../../da/da7/a06990.html#a96e56943da42f1a1258fc1d716259e1a">AuctionHouseUsablePlayerInfo::raceMask</a></div><div class="ttdeci">uint32 raceMask</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:120</div></div>
-<div class="ttc" id="aa28022_html"><div class="ttname"><a href="../../d5/d01/a28022.html">SpellEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1641</div></div>
-<div class="ttc" id="aa28022_html_a2a76a4db284742bee6b7293fb291c18d"><div class="ttname"><a href="../../d5/d01/a28022.html#a2a76a4db284742bee6b7293fb291c18d">SpellEntry::EffectTriggerSpell</a></div><div class="ttdeci">std::array&lt; uint32, MAX_SPELL_EFFECTS &gt; EffectTriggerSpell</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1711</div></div>
-<div class="ttc" id="aa28022_html_a9b37b50c55d7a887d61805e6197bfa21"><div class="ttname"><a href="../../d5/d01/a28022.html#a9b37b50c55d7a887d61805e6197bfa21">SpellEntry::Effect</a></div><div class="ttdeci">std::array&lt; uint32, MAX_SPELL_EFFECTS &gt; Effect</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1696</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1980</span>{ <span class="keywordflow">return</span> (<a class="code hl_typedef" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)<span class="keyword">event</span>.type; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00633">ItemTemplate::AllowableClass</a>, <a class="el" href="../../#l00634">ItemTemplate::AllowableRace</a>, <a class="el" href="../../#l00119">classMask</a>, <a class="el" href="../../#l01696">SpellEntry::Effect</a>, <a class="el" href="../../#l01711">SpellEntry::EffectTriggerSpell</a>, <a class="el" href="../../#l00784">ItemTemplate::GetSkill()</a>, <a class="el" href="../../#l00706">GetSkillValue()</a>, <a class="el" href="../../#l00718">HasSpell()</a>, <a class="el" href="../../#l00120">raceMask</a>, <a class="el" href="../../#l00637">ItemTemplate::RequiredSkill</a>, <a class="el" href="../../#l00638">ItemTemplate::RequiredSkillRank</a>, <a class="el" href="../../#l00639">ItemTemplate::RequiredSpell</a>, <a class="el" href="../../#l00814">SPELL_EFFECT_LEARN_SPELL</a>, <a class="el" href="../../#l00591">_Spell::SpellId</a>, <a class="el" href="../../#l00662">ItemTemplate::Spells</a>, and <a class="el" href="../../d2/df3/a01085.html#ab07c8126df92da43a32dfe00d7986cf6">sSpellStore</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00562">SmartAIMgr::CheckUnusedEventParams()</a>, <a class="el" href="../../#l04815">SmartScript::InitTimer()</a>, <a class="el" href="../../#l00953">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l00438">SmartAIMgr::IsTargetValid()</a>, <a class="el" href="../../#l02008">SmartAIMgr::IsTextValid()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, <a class="el" href="../../#l04024">SmartScript::ProcessEvent()</a>, <a class="el" href="../../#l05296">SmartScript::SetScript9()</a>, and <a class="el" href="../../#l04855">SmartScript::UpdateTimer()</a>.</p>
+
+</div>
+</div>
+<a id="a492a8e1a83e5cde0b6a92fffe54d128b" name="a492a8e1a83e5cde0b6a92fffe54d128b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a492a8e1a83e5cde0b6a92fffe54d128b">&#9670;&#160;</a></span>GetScriptType()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartScriptHolder::GetScriptType </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1979</span>{ <span class="keywordflow">return</span> (<a class="code hl_typedef" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)<a class="code hl_variable" href="../../da/da7/a06990.html#acceded656fe45e2c9a963041b6ddd3b5">source_type</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01970">source_type</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00687">SmartAIMgr::CheckUnusedActionParams()</a>, <a class="el" href="../../#l00562">SmartAIMgr::CheckUnusedEventParams()</a>, <a class="el" href="../../#l00889">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03437">SmartScript::GetTargets()</a>, <a class="el" href="../../#l03325">SmartScript::InstallTemplate()</a>, <a class="el" href="../../#l02209">SmartAIMgr::IsAreaTriggerValid()</a>, <a class="el" href="../../#l02139">SmartAIMgr::IsCreatureValid()</a>, <a class="el" href="../../#l02199">SmartAIMgr::IsEmoteValid()</a>, <a class="el" href="../../#l00953">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l02159">SmartAIMgr::IsGameObjectValid()</a>, <a class="el" href="../../#l02179">SmartAIMgr::IsItemValid()</a>, <a class="el" href="../../#l02109">SmartAIMgr::IsMinMaxValid()</a>, <a class="el" href="../../#l02149">SmartAIMgr::IsQuestValid()</a>, <a class="el" href="../../#l00030">SmartAIMgr::IsSAIBoolValid()</a>, <a class="el" href="../../#l02219">SmartAIMgr::IsSoundValid()</a>, <a class="el" href="../../#l02169">SmartAIMgr::IsSpellValid()</a>, <a class="el" href="../../#l00438">SmartAIMgr::IsTargetValid()</a>, <a class="el" href="../../#l02189">SmartAIMgr::IsTextEmoteValid()</a>, <a class="el" href="../../#l02008">SmartAIMgr::IsTextValid()</a>, <a class="el" href="../../#l02129">SmartAIMgr::NotNULL()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, <a class="el" href="../../#l05296">SmartScript::SetScript9()</a>, and <a class="el" href="../../#l04855">SmartScript::UpdateTimer()</a>.</p>
+
+</div>
+</div>
+<a id="aa251efa27f361d0b7afe043b998f8f3d" name="aa251efa27f361d0b7afe043b998f8f3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa251efa27f361d0b7afe043b998f8f3d">&#9670;&#160;</a></span>GetTargetType()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartScriptHolder::GetTargetType </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1982</span>{ <span class="keywordflow">return</span> (<a class="code hl_typedef" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)<a class="code hl_variable" href="../../da/da7/a06990.html#af0816b2a770d6d72febcbb9f95e0765f">target</a>.<a class="code hl_variable" href="../../d4/d71/a06882.html#acd89b43d2caa64668e5ed82cd4e7cda5">type</a>; }</div>
+<div class="ttc" id="aa06882_html_acd89b43d2caa64668e5ed82cd4e7cda5"><div class="ttname"><a href="../../d4/d71/a06882.html#acd89b43d2caa64668e5ed82cd4e7cda5">SmartTarget::type</a></div><div class="ttdeci">SMARTAI_TARGETS type</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1587</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01976">target</a>, and <a class="el" href="../../#l01587">SmartTarget::type</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00889">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03437">SmartScript::GetTargets()</a>, <a class="el" href="../../#l00953">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l00438">SmartAIMgr::IsTargetValid()</a>, <a class="el" href="../../#l02008">SmartAIMgr::IsTextValid()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, and <a class="el" href="../../#l04024">SmartScript::ProcessEvent()</a>.</p>
+
+</div>
+</div>
+<a id="a436c9c5825e123acd282569d69736e0e" name="a436c9c5825e123acd282569d69736e0e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a436c9c5825e123acd282569d69736e0e">&#9670;&#160;</a></span>operator&lt;()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool SmartScriptHolder::operator&lt; </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/da7/a06990.html">SmartScriptHolder</a> const &amp;&#160;</td>
+          <td class="paramname"><em>other</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1992</span>    {</div>
+<div class="line"><span class="lineno"> 1993</span>        <span class="keywordflow">return</span> std::tie(<a class="code hl_variable" href="../../da/da7/a06990.html#af66a375629eaf6e6780866ed515404a0">priority</a>, <a class="code hl_variable" href="../../da/da7/a06990.html#a3da9a6de4e29a275cae5d858a11a4f2c">entryOrGuid</a>, <a class="code hl_variable" href="../../da/da7/a06990.html#acceded656fe45e2c9a963041b6ddd3b5">source_type</a>, <a class="code hl_variable" href="../../da/da7/a06990.html#a3a6b9cda898c1e3250b9555ce820f263">event_id</a>, <a class="code hl_variable" href="../../da/da7/a06990.html#a16db4e21026983233ae8b3aebe926444">link</a>) &lt; std::tie(other.priority, other.entryOrGuid, other.source_type, other.event_id, other.link);</div>
+<div class="line"><span class="lineno"> 1994</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01969">entryOrGuid</a>, <a class="el" href="../../#l01971">event_id</a>, <a class="el" href="../../#l01972">link</a>, <a class="el" href="../../#l01985">priority</a>, and <a class="el" href="../../#l01970">source_type</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a41a57c372871c84a572d2f3697cb18aa" name="a41a57c372871c84a572d2f3697cb18aa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a41a57c372871c84a572d2f3697cb18aa">&#9670;&#160;</a></span>classMask</h2>
+<a id="ac8040e5a0d1c06b3b64600c878471932" name="ac8040e5a0d1c06b3b64600c878471932"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac8040e5a0d1c06b3b64600c878471932">&#9670;&#160;</a></span>action</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AuctionHouseUsablePlayerInfo::classMask</td>
+          <td class="memname"><a class="el" href="../../dd/d9c/a06398.html">SmartAction</a> SmartScriptHolder::action</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>, and <a class="el" href="../../#l00663">PlayerCanUseItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00687">SmartAIMgr::CheckUnusedActionParams()</a>, <a class="el" href="../../#l03404">SmartScript::CreateSmartEvent()</a>, <a class="el" href="../../#l01981">GetActionType()</a>, <a class="el" href="../../#l03325">SmartScript::InstallTemplate()</a>, <a class="el" href="../../#l00953">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, <a class="el" href="../../#l05296">SmartScript::SetScript9()</a>, and <a class="el" href="../../#l04855">SmartScript::UpdateTimer()</a>.</p>
 
 </div>
 </div>
-<a id="a870f632b54e4638b1f5a4e93b6bd9e52" name="a870f632b54e4638b1f5a4e93b6bd9e52"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a870f632b54e4638b1f5a4e93b6bd9e52">&#9670;&#160;</a></span>level</h2>
+<a id="a1106d3dbfa2cabbd40053b2e0c98f15b" name="a1106d3dbfa2cabbd40053b2e0c98f15b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1106d3dbfa2cabbd40053b2e0c98f15b">&#9670;&#160;</a></span>active</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> AuctionHouseUsablePlayerInfo::level</td>
+          <td class="memname">bool SmartScriptHolder::active</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l04961">SmartScript::CheckTimer()</a>, <a class="el" href="../../#l04815">SmartScript::InitTimer()</a>, <a class="el" href="../../#l04024">SmartScript::ProcessEvent()</a>, <a class="el" href="../../#l04848">SmartScript::RecalcTimer()</a>, and <a class="el" href="../../#l04855">SmartScript::UpdateTimer()</a>.</p>
 
 </div>
 </div>
-<a id="a96e56943da42f1a1258fc1d716259e1a" name="a96e56943da42f1a1258fc1d716259e1a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a96e56943da42f1a1258fc1d716259e1a">&#9670;&#160;</a></span>raceMask</h2>
+<a id="a05121b40d78dbf081642c23eed949cda" name="a05121b40d78dbf081642c23eed949cda"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a05121b40d78dbf081642c23eed949cda">&#9670;&#160;</a></span>DEFAULT_PRIORITY</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartScriptHolder::DEFAULT_PRIORITY = std::numeric_limits&lt;<a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;::max()</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00109">SmartScript::OnReset()</a>, <a class="el" href="../../#l05050">SmartScript::RaisePriority()</a>, and <a class="el" href="../../#l04855">SmartScript::UpdateTimer()</a>.</p>
+
+</div>
+</div>
+<a id="a36d0ada3752320c9577bd92673fd0ced" name="a36d0ada3752320c9577bd92673fd0ced"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a36d0ada3752320c9577bd92673fd0ced">&#9670;&#160;</a></span>enableTimed</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AuctionHouseUsablePlayerInfo::raceMask</td>
+          <td class="memname">bool SmartScriptHolder::enableTimed</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>, and <a class="el" href="../../#l00663">PlayerCanUseItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l04855">SmartScript::UpdateTimer()</a>.</p>
 
 </div>
 </div>
-<a id="a55c2ad9d1cdea4913cb35deb4adc87fd" name="a55c2ad9d1cdea4913cb35deb4adc87fd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a55c2ad9d1cdea4913cb35deb4adc87fd">&#9670;&#160;</a></span>skills</h2>
+<a id="a3da9a6de4e29a275cae5d858a11a4f2c" name="a3da9a6de4e29a275cae5d858a11a4f2c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3da9a6de4e29a275cae5d858a11a4f2c">&#9670;&#160;</a></span>entryOrGuid</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d1c/a00605.html#a1b900c09f81e1b28037da303e33bd597">AuctionPlayerSkills</a> AuctionHouseUsablePlayerInfo::skills</td>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> SmartScriptHolder::entryOrGuid</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00706">GetSkillValue()</a>, and <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00687">SmartAIMgr::CheckUnusedActionParams()</a>, <a class="el" href="../../#l00562">SmartAIMgr::CheckUnusedEventParams()</a>, <a class="el" href="../../#l00889">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03437">SmartScript::GetTargets()</a>, <a class="el" href="../../#l03325">SmartScript::InstallTemplate()</a>, <a class="el" href="../../#l02209">SmartAIMgr::IsAreaTriggerValid()</a>, <a class="el" href="../../#l02139">SmartAIMgr::IsCreatureValid()</a>, <a class="el" href="../../#l02199">SmartAIMgr::IsEmoteValid()</a>, <a class="el" href="../../#l00953">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l02159">SmartAIMgr::IsGameObjectValid()</a>, <a class="el" href="../../#l02179">SmartAIMgr::IsItemValid()</a>, <a class="el" href="../../#l02109">SmartAIMgr::IsMinMaxValid()</a>, <a class="el" href="../../#l02149">SmartAIMgr::IsQuestValid()</a>, <a class="el" href="../../#l00030">SmartAIMgr::IsSAIBoolValid()</a>, <a class="el" href="../../#l02219">SmartAIMgr::IsSoundValid()</a>, <a class="el" href="../../#l02169">SmartAIMgr::IsSpellValid()</a>, <a class="el" href="../../#l00438">SmartAIMgr::IsTargetValid()</a>, <a class="el" href="../../#l02189">SmartAIMgr::IsTextEmoteValid()</a>, <a class="el" href="../../#l02008">SmartAIMgr::IsTextValid()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, <a class="el" href="../../#l02129">SmartAIMgr::NotNULL()</a>, <a class="el" href="../../#l01991">operator&lt;()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, <a class="el" href="../../#l03310">SmartScript::ProcessTimedAction()</a>, and <a class="el" href="../../#l05296">SmartScript::SetScript9()</a>.</p>
 
 </div>
 </div>
-<a id="ac83cc019ceb1752ce8d6b5a3aa3d350f" name="ac83cc019ceb1752ce8d6b5a3aa3d350f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac83cc019ceb1752ce8d6b5a3aa3d350f">&#9670;&#160;</a></span>spells</h2>
+<a id="adfc68e31edfe45897a042b121f24557b" name="adfc68e31edfe45897a042b121f24557b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adfc68e31edfe45897a042b121f24557b">&#9670;&#160;</a></span>event</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d1c/a00605.html#add0df1394d287b79672ebf01c59138c1">AuctionPlayerSpells</a> AuctionHouseUsablePlayerInfo::spells</td>
+          <td class="memname"><a class="el" href="../../de/d01/a06218.html">SmartEvent</a> SmartScriptHolder::event</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00562">SmartAIMgr::CheckUnusedEventParams()</a>, <a class="el" href="../../#l03404">SmartScript::CreateSmartEvent()</a>, <a class="el" href="../../#l04815">SmartScript::InitTimer()</a>, <a class="el" href="../../#l00953">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l00438">SmartAIMgr::IsTargetValid()</a>, <a class="el" href="../../#l02008">SmartAIMgr::IsTextValid()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, <a class="el" href="../../#l04024">SmartScript::ProcessEvent()</a>, <a class="el" href="../../#l05061">SmartScript::RetryLater()</a>, and <a class="el" href="../../#l04855">SmartScript::UpdateTimer()</a>.</p>
+
+</div>
+</div>
+<a id="a3a6b9cda898c1e3250b9555ce820f263" name="a3a6b9cda898c1e3250b9555ce820f263"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3a6b9cda898c1e3250b9555ce820f263">&#9670;&#160;</a></span>event_id</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartScriptHolder::event_id</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00687">SmartAIMgr::CheckUnusedActionParams()</a>, <a class="el" href="../../#l00562">SmartAIMgr::CheckUnusedEventParams()</a>, <a class="el" href="../../#l00889">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03437">SmartScript::GetTargets()</a>, <a class="el" href="../../#l02209">SmartAIMgr::IsAreaTriggerValid()</a>, <a class="el" href="../../#l02139">SmartAIMgr::IsCreatureValid()</a>, <a class="el" href="../../#l02199">SmartAIMgr::IsEmoteValid()</a>, <a class="el" href="../../#l00953">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l02159">SmartAIMgr::IsGameObjectValid()</a>, <a class="el" href="../../#l02179">SmartAIMgr::IsItemValid()</a>, <a class="el" href="../../#l02109">SmartAIMgr::IsMinMaxValid()</a>, <a class="el" href="../../#l02149">SmartAIMgr::IsQuestValid()</a>, <a class="el" href="../../#l00030">SmartAIMgr::IsSAIBoolValid()</a>, <a class="el" href="../../#l02219">SmartAIMgr::IsSoundValid()</a>, <a class="el" href="../../#l02169">SmartAIMgr::IsSpellValid()</a>, <a class="el" href="../../#l00438">SmartAIMgr::IsTargetValid()</a>, <a class="el" href="../../#l02189">SmartAIMgr::IsTextEmoteValid()</a>, <a class="el" href="../../#l02008">SmartAIMgr::IsTextValid()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, <a class="el" href="../../#l02129">SmartAIMgr::NotNULL()</a>, <a class="el" href="../../#l01991">operator&lt;()</a>, <a class="el" href="../../#l03310">SmartScript::ProcessTimedAction()</a>, and <a class="el" href="../../#l04855">SmartScript::UpdateTimer()</a>.</p>
+
+</div>
+</div>
+<a id="a16db4e21026983233ae8b3aebe926444" name="a16db4e21026983233ae8b3aebe926444"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a16db4e21026983233ae8b3aebe926444">&#9670;&#160;</a></span>link</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartScriptHolder::link</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00953">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, and <a class="el" href="../../#l01991">operator&lt;()</a>.</p>
+
+</div>
+</div>
+<a id="af66a375629eaf6e6780866ed515404a0" name="af66a375629eaf6e6780866ed515404a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af66a375629eaf6e6780866ed515404a0">&#9670;&#160;</a></span>priority</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartScriptHolder::priority</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01991">operator&lt;()</a>, <a class="el" href="../../#l05050">SmartScript::RaisePriority()</a>, and <a class="el" href="../../#l04855">SmartScript::UpdateTimer()</a>.</p>
+
+</div>
+</div>
+<a id="a0c8fa0e2ed443c676b148c9f81e8abdb" name="a0c8fa0e2ed443c676b148c9f81e8abdb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0c8fa0e2ed443c676b148c9f81e8abdb">&#9670;&#160;</a></span>runOnce</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool SmartScriptHolder::runOnce</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, <a class="el" href="../../#l04024">SmartScript::ProcessEvent()</a>, and <a class="el" href="../../#l05061">SmartScript::RetryLater()</a>.</p>
+
+</div>
+</div>
+<a id="acceded656fe45e2c9a963041b6ddd3b5" name="acceded656fe45e2c9a963041b6ddd3b5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acceded656fe45e2c9a963041b6ddd3b5">&#9670;&#160;</a></span>source_type</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/dd7/a02375.html#a13c55333783218e0f0c80c780fb311ac">SmartScriptType</a> SmartScriptHolder::source_type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l03404">SmartScript::CreateSmartEvent()</a>, <a class="el" href="../../#l01979">GetScriptType()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, <a class="el" href="../../#l01991">operator&lt;()</a>, and <a class="el" href="../../#l03310">SmartScript::ProcessTimedAction()</a>.</p>
+
+</div>
+</div>
+<a id="af0816b2a770d6d72febcbb9f95e0765f" name="af0816b2a770d6d72febcbb9f95e0765f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af0816b2a770d6d72febcbb9f95e0765f">&#9670;&#160;</a></span>target</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d71/a06882.html">SmartTarget</a> SmartScriptHolder::target</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00889">SmartAIMgr::CheckUnusedTargetParams()</a>, <a class="el" href="../../#l03404">SmartScript::CreateSmartEvent()</a>, <a class="el" href="../../#l03437">SmartScript::GetTargets()</a>, <a class="el" href="../../#l01982">GetTargetType()</a>, <a class="el" href="../../#l03325">SmartScript::InstallTemplate()</a>, <a class="el" href="../../#l00953">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l00438">SmartAIMgr::IsTargetValid()</a>, <a class="el" href="../../#l00127">SmartAIMgr::LoadSmartAIFromDB()</a>, and <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>.</p>
+
+</div>
+</div>
+<a id="a73de49d2b85df3fe5d94e80c946a3d4c" name="a73de49d2b85df3fe5d94e80c946a3d4c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a73de49d2b85df3fe5d94e80c946a3d4c">&#9670;&#160;</a></span>timer</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartScriptHolder::timer</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l05050">SmartScript::RaisePriority()</a>, <a class="el" href="../../#l04848">SmartScript::RecalcTimer()</a>, and <a class="el" href="../../#l04855">SmartScript::UpdateTimer()</a>.</p>
 
 </div>
 </div>
@@ -353,8 +581,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/da7/a06990.html">AuctionHouseUsablePlayerInfo</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:43:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/da7/a06990.html">SmartScriptHolder</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:43:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

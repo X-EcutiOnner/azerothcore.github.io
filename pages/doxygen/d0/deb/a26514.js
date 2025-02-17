@@ -1,6 +1,8 @@
 var a26514 =
 [
-    [ "FilterTargets", "d0/deb/a26514.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
-    [ "PrepareSpellScript", "d0/deb/a26514.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
-    [ "Register", "d0/deb/a26514.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
+    [ "CheckFireTotem", "d0/deb/a26514.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d0/deb/a26514.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d0/deb/a26514.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d0/deb/a26514.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d0/deb/a26514.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

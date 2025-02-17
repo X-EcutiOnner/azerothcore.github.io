@@ -1,15 +1,8 @@
 var a28354 =
 [
-    [ "prepareLoadedData", "dc/d71/a28354.html#ace847b2eee40844bb3fa880e3c1d1aa5", null ],
-    [ "data1", "dc/d71/a28354.html#a9e2886eb133eb0e0bc8fa21a5b166d20", null ],
-    [ "data2", "dc/d71/a28354.html#a53f0a49fd2de7f29032556fe3a4e9110", null ],
-    [ "data3", "dc/d71/a28354.html#a2092bb81ccdea07c4752a2df49cba4c2", null ],
-    [ "data4", "dc/d71/a28354.html#a2bfc7b7268caaa684c6fece0d0769b9e", null ],
-    [ "data5", "dc/d71/a28354.html#a9536fcb98293d1c09a1975b753f02ae8", null ],
-    [ "data6", "dc/d71/a28354.html#ad43914a6df430c32a0c2f56bb8f1f4d7", null ],
-    [ "data7", "dc/d71/a28354.html#a7508e9fa38ab965ecf8e21b1f859a918", null ],
-    [ "data8", "dc/d71/a28354.html#ae926543e029695e268ed950edf625bdb", null ],
-    [ "fcc", "dc/d71/a28354.html#aa0ccc34e7e7a2de4e9866819dbe0c72a", null ],
-    [ "fcc_txt", "dc/d71/a28354.html#aaa61a13b39e23a3efba960645e3e14a9", null ],
-    [ "size", "dc/d71/a28354.html#a1af89d5193eff2f32cf37d131f9ef7b8", null ]
+    [ "prepareLoadedData", "dc/d71/a28354.html#a696cfebd8fe66840b316919519e9b319", null ],
+    [ "fcc", "dc/d71/a28354.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
+    [ "fcc_txt", "dc/d71/a28354.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
+    [ "height_map", "dc/d71/a28354.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
+    [ "size", "dc/d71/a28354.html#add2809c6e520cf4aa43807d61f973f0e", null ]
 ];

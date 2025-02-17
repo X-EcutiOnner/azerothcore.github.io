@@ -1,6 +1,6 @@
 var a13934 =
 [
-    [ "CheckItem", "df/d4b/a13934.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
-    [ "PrepareSpellScript", "df/d4b/a13934.html#a0fa160f1218cf838444f894716cb8aed", null ],
-    [ "Register", "df/d4b/a13934.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
+    [ "HandleOnHit", "df/d4b/a13934.html#a36909ef786940eb1a05539c968d78e80", null ],
+    [ "PrepareSpellScript", "df/d4b/a13934.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
+    [ "Register", "df/d4b/a13934.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
 ];

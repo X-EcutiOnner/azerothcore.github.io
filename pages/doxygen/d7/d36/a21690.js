@@ -1,6 +1,14 @@
 var a21690 =
 [
-    [ "HandleOnEffectRemove", "d7/d36/a21690.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d7/d36/a21690.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d7/d36/a21690.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d7/d36/a21690.html#a84beab3be0d7e5d5d3674a57b1928f09", null ],
+    [ "ChangeImage", "d7/d36/a21690.html#a815e5c67b282e2840676b5453d94d5dc", null ],
+    [ "MovementInform", "d7/d36/a21690.html#a2ed09d31771e9c225d8d8b40ba8f0f82", null ],
+    [ "Reset", "d7/d36/a21690.html#a71410a3e3e5134311bf7bc2ef3051eb3", null ],
+    [ "StoreTargets", "d7/d36/a21690.html#a0732307643a442bc3f070b9cc91d78c9", null ],
+    [ "TurnAudience", "d7/d36/a21690.html#afa7fce3a9cccfcc7b088e72df9f312a4", null ],
+    [ "UpdateAI", "d7/d36/a21690.html#a454984668ca58c8a6fdd9ad4f630dece", null ],
+    [ "_events", "d7/d36/a21690.html#a907626beb601f789a725d88d45689eb2", null ],
+    [ "audienceList", "d7/d36/a21690.html#a5bdb09658bd93e46387df8eeb8cf0221", null ],
+    [ "imageList", "d7/d36/a21690.html#a8177ed5bc5fd54b98f2f36c9389b8099", null ],
+    [ "talkWing", "d7/d36/a21690.html#ace957ffe4fba8f229946d61d63c1798c", null ]
 ];

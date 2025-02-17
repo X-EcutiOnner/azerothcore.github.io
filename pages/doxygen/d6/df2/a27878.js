@@ -1,4 +1,5 @@
 var a27878 =
 [
-    [ "ratio", "d6/df2/a27878.html#ac22c096d41c6fb7ebdc824fc1ca8601b", null ]
+    [ "cinematicCamera", "d6/df2/a27878.html#a87e5f6de255dc0c75423eace2768a1dc", null ],
+    [ "Id", "d6/df2/a27878.html#a9c3dc0e60728c1c76594385d6860f265", null ]
 ];

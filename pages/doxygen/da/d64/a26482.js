@@ -1,8 +1,8 @@
 var a26482 =
 [
-    [ "CalcPeriodic", "da/d64/a26482.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
-    [ "CalculateAmount", "da/d64/a26482.html#a525009acb345d6b0a9857c30cfce2230", null ],
-    [ "HandlePeriodic", "da/d64/a26482.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
-    [ "PrepareAuraScript", "da/d64/a26482.html#a5627212e48a3044a9a7480851787a839", null ],
-    [ "Register", "da/d64/a26482.html#a09ea5265d7105a4bd487d383948901a0", null ]
+    [ "ApplyDebuff", "da/d64/a26482.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "da/d64/a26482.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "da/d64/a26482.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "da/d64/a26482.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "da/d64/a26482.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

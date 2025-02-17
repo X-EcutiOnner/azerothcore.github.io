@@ -1,26 +1,62 @@
 var a01820 =
 [
-    [ "AzjolNerubScriptName", "d5/dd6/a01820.html#a49c3c3627ce229fce6b1f55755bcb7d7", null ],
-    [ "DataHeader", "d5/dd6/a01820.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ANData", "d5/dd6/a01820.html#a38e14ca59c29a20c7d83feecae87365e", [
-      [ "DATA_KRIKTHIR_THE_GATEWATCHER_EVENT", "d5/dd6/a01820.html#a38e14ca59c29a20c7d83feecae87365eafe7f087c1e8262a80b7f072fba6ae671", null ],
-      [ "DATA_HADRONOX_EVENT", "d5/dd6/a01820.html#a38e14ca59c29a20c7d83feecae87365eae18e711c44710c678c33ec4816ecbcdf", null ],
-      [ "DATA_ANUBARAK_EVENT", "d5/dd6/a01820.html#a38e14ca59c29a20c7d83feecae87365ea64e72a1a7491f71dc45c3ee0e6aba1a3", null ],
-      [ "MAX_ENCOUNTERS", "d5/dd6/a01820.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25", null ]
+    [ "AreaTrigger_at_voltarus_middle", "d4/d5e/a26890.html", "d4/d5e/a26890" ],
+    [ "AreaTrigger_at_coilfang_waterfall", "de/d60/a26894.html", "de/d60/a26894" ],
+    [ "AreaTrigger_at_legion_teleporter", "d7/d40/a26898.html", "d7/d40/a26898" ],
+    [ "AreaTrigger_at_stormwright_shelf", "da/dee/a26902.html", "da/dee/a26902" ],
+    [ "AreaTrigger_at_scent_larkorwi", "d5/d1a/a26906.html", "d5/d1a/a26906" ],
+    [ "AreaTrigger_at_last_rites", "d6/de7/a26910.html", "d6/de7/a26910" ],
+    [ "AreaTrigger_at_nats_landing", "d7/d4a/a26914.html", "d7/d4a/a26914" ],
+    [ "AreaTrigger_at_sentry_point", "dd/d2f/a26918.html", "dd/d2f/a26918" ],
+    [ "AreaTrigger_at_brewfest", "d3/dc4/a26922.html", "d3/dc4/a26922" ],
+    [ "AreaTrigger_at_area_52_entrance", "d0/dfe/a26926.html", "d0/dfe/a26926" ],
+    [ "Area52Entrance", "d5/dd6/a01820.html#a7ef276a75040392ab3315082a3518c67", [
+      [ "SPELL_A52_NEURALYZER", "d5/dd6/a01820.html#a7ef276a75040392ab3315082a3518c67afa491a434774607e1e712c2f79ac322a", null ],
+      [ "NPC_SPOTLIGHT", "d5/dd6/a01820.html#a7ef276a75040392ab3315082a3518c67acded8211c601c5b237d60a58f65b56ac", null ],
+      [ "SUMMON_COOLDOWN", "d5/dd6/a01820.html#a7ef276a75040392ab3315082a3518c67aa4b7173ec61f2859f8649f0adcbb37d1", null ],
+      [ "AT_AREA_52_SOUTH", "d5/dd6/a01820.html#a7ef276a75040392ab3315082a3518c67ac9b6a7b98c7a4b2013ccd61f637851f9", null ],
+      [ "AT_AREA_52_NORTH", "d5/dd6/a01820.html#a7ef276a75040392ab3315082a3518c67a7eb1ed4b6c4f3ef99e5cdd9b1505a09e", null ],
+      [ "AT_AREA_52_WEST", "d5/dd6/a01820.html#a7ef276a75040392ab3315082a3518c67a69d8c4647a15efe238a70b1f049ff97f", null ],
+      [ "AT_AREA_52_EAST", "d5/dd6/a01820.html#a7ef276a75040392ab3315082a3518c67a3173f419da9cf80efa68ca3e99c10528", null ]
     ] ],
-    [ "ANIds", "d5/dd6/a01820.html#a13c2be6ee4ddd01bcdde2acfa66080eb", [
-      [ "NPC_SKITTERING_SWARMER", "d5/dd6/a01820.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429", null ],
-      [ "NPC_SKITTERING_INFECTIOR", "d5/dd6/a01820.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b", null ],
-      [ "NPC_KRIKTHIR_THE_GATEWATCHER", "d5/dd6/a01820.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582", null ],
-      [ "NPC_HADRONOX", "d5/dd6/a01820.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a", null ],
-      [ "NPC_ANUB_AR_CHAMPION", "d5/dd6/a01820.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc", null ],
-      [ "NPC_ANUB_AR_NECROMANCER", "d5/dd6/a01820.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea", null ],
-      [ "NPC_ANUB_AR_CRYPTFIEND", "d5/dd6/a01820.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c", null ],
-      [ "GO_KRIKTHIR_DOORS", "d5/dd6/a01820.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b", null ],
-      [ "GO_ANUBARAK_DOORS1", "d5/dd6/a01820.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316", null ],
-      [ "GO_ANUBARAK_DOORS2", "d5/dd6/a01820.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc", null ],
-      [ "GO_ANUBARAK_DOORS3", "d5/dd6/a01820.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0", null ],
-      [ "SPELL_WEB_WRAP_TRIGGER", "d5/dd6/a01820.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b", null ]
+    [ "AtLastRites", "d5/dd6/a01820.html#aedd9d40d0b524b4a5da323938c6f1c99", [
+      [ "QUEST_LAST_RITES", "d5/dd6/a01820.html#aedd9d40d0b524b4a5da323938c6f1c99af622e93bef1f891f43c910aec65feef2", null ],
+      [ "QUEST_BREAKING_THROUGH", "d5/dd6/a01820.html#aedd9d40d0b524b4a5da323938c6f1c99a0d528966459def04c2372cb96fb03057", null ]
     ] ],
-    [ "GetAzjolNerubAI", "d5/dd6/a01820.html#a19b3f42ba299e1f42de805f494cd5812", null ]
+    [ "Brewfest", "d5/dd6/a01820.html#a9b234b18092b711f6f11cda755fe0bfd", [
+      [ "NPC_TAPPER_SWINDLEKEG", "d5/dd6/a01820.html#a9b234b18092b711f6f11cda755fe0bfda91dfef2ce070232ed51a69d9c6399130", null ],
+      [ "NPC_IPFELKOFER_IRONKEG", "d5/dd6/a01820.html#a9b234b18092b711f6f11cda755fe0bfda39440d09522df095e726cb1da7ab817e", null ],
+      [ "AT_BREWFEST_DUROTAR", "d5/dd6/a01820.html#a9b234b18092b711f6f11cda755fe0bfda6dbf4e730fdb44d7ceb232e60cee3091", null ],
+      [ "AT_BREWFEST_DUN_MOROGH", "d5/dd6/a01820.html#a9b234b18092b711f6f11cda755fe0bfda91d9e35e7360f1d853d2f54f54548c61", null ],
+      [ "SAY_WELCOME", "d5/dd6/a01820.html#a9b234b18092b711f6f11cda755fe0bfda53e43b5d6a57facfdbe1b6559295a32f", null ],
+      [ "AREATRIGGER_TALK_COOLDOWN", "d5/dd6/a01820.html#a9b234b18092b711f6f11cda755fe0bfda7105e5d2474e31860a9bc9f5075c31e4", null ]
+    ] ],
+    [ "CoilfangGOs", "d5/dd6/a01820.html#a9670aee8aef02c60b84d4c3d11c963b5", [
+      [ "GO_COILFANG_WATERFALL", "d5/dd6/a01820.html#a9670aee8aef02c60b84d4c3d11c963b5a30520dfb9388b8cc7b4cbc9b3420d65d", null ]
+    ] ],
+    [ "LegionTeleporter", "d5/dd6/a01820.html#ad9a6ea877cb24dbb530ccf0e03cb7012", [
+      [ "SPELL_TELE_A_TO", "d5/dd6/a01820.html#ad9a6ea877cb24dbb530ccf0e03cb7012a09569d3491e5bf73c2d9e897077cd162", null ],
+      [ "QUEST_GAINING_ACCESS_A", "d5/dd6/a01820.html#ad9a6ea877cb24dbb530ccf0e03cb7012a1746dcba888866f4914d5fa112323879", null ],
+      [ "SPELL_TELE_H_TO", "d5/dd6/a01820.html#ad9a6ea877cb24dbb530ccf0e03cb7012a0373689ced7bf6fcd5453719eff7dff9", null ],
+      [ "QUEST_GAINING_ACCESS_H", "d5/dd6/a01820.html#ad9a6ea877cb24dbb530ccf0e03cb7012a90bff047b5c92fa8418685d95440c5ea", null ]
+    ] ],
+    [ "NatsLanding", "d5/dd6/a01820.html#a5ee4c50b08414290f73ada43c1c71151", [
+      [ "QUEST_NATS_BARGAIN", "d5/dd6/a01820.html#a5ee4c50b08414290f73ada43c1c71151aeff02bfb540090dbb759b896b3b3627e", null ],
+      [ "SPELL_FISH_PASTE", "d5/dd6/a01820.html#a5ee4c50b08414290f73ada43c1c71151a84c85ea415f324f0acec6a0e8d8eb8a6", null ],
+      [ "NPC_LURKING_SHARK", "d5/dd6/a01820.html#a5ee4c50b08414290f73ada43c1c71151af67d7adb069812fe8e3d79aff3f18900", null ]
+    ] ],
+    [ "ScentLarkorwi", "d5/dd6/a01820.html#a743ca0b810fe5b376233e725f346d416", [
+      [ "QUEST_SCENT_OF_LARKORWI", "d5/dd6/a01820.html#a743ca0b810fe5b376233e725f346d416a105afbe1f1e3510efdd8ef9fbfe153ee", null ],
+      [ "NPC_LARKORWI_MATE", "d5/dd6/a01820.html#a743ca0b810fe5b376233e725f346d416adb746f23675f0b248d264a0557ceff5d", null ]
+    ] ],
+    [ "SentryPoint", "d5/dd6/a01820.html#a24ef89c28423d02750eff95a35b3a275", [
+      [ "SPELL_TELEPORT_VISUAL", "d5/dd6/a01820.html#a24ef89c28423d02750eff95a35b3a275a73cc106ecf58fcd3a75fa23f9ff7a21c", null ],
+      [ "QUEST_MISSING_DIPLO_PT14", "d5/dd6/a01820.html#a24ef89c28423d02750eff95a35b3a275a378a874d36260f01327d51d537b33d94", null ],
+      [ "NPC_TERVOSH", "d5/dd6/a01820.html#a24ef89c28423d02750eff95a35b3a275a0ef56679b82214bad2e052fb8e979c50", null ]
+    ] ],
+    [ "StormwrightShelf", "d5/dd6/a01820.html#abdd676bd524ed3ea6915b8b1348861dd", [
+      [ "QUEST_STRENGTH_OF_THE_TEMPEST", "d5/dd6/a01820.html#abdd676bd524ed3ea6915b8b1348861ddae6b91cb73e581fe9558469357a90ec24", null ],
+      [ "SPELL_CREATE_TRUE_POWER_OF_THE_TEMPEST", "d5/dd6/a01820.html#abdd676bd524ed3ea6915b8b1348861dda55079b9b218f67c0dcae1b7da0dcb277", null ]
+    ] ],
+    [ "AddSC_areatrigger_scripts", "d5/dd6/a01820.html#a992f2da647f1f8748c7c9239b52079ad", null ]
 ];

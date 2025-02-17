@@ -1,9 +1,7 @@
 var a18506 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "d4/dbe/a18506.html#a91868021309239f5582bb7ee89baec13", null ],
-    [ "AttackStart", "d4/dbe/a18506.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
-    [ "JustEngagedWith", "d4/dbe/a18506.html#a12927240144022174e3d190be6b34976", null ],
-    [ "Reset", "d4/dbe/a18506.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
-    [ "UpdateAI", "d4/dbe/a18506.html#a969a36e147006971a93711349f90c193", null ],
-    [ "events", "d4/dbe/a18506.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
+    [ "npc_impaling_spearAI", "d4/dbe/a18506.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
+    [ "Reset", "d4/dbe/a18506.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
+    [ "UpdateAI", "d4/dbe/a18506.html#acb187a58b0ba256b4e003655ac36db34", null ],
+    [ "_vehicleCheckTimer", "d4/dbe/a18506.html#a264874b9f6f0609792d4b3a325e54f59", null ]
 ];

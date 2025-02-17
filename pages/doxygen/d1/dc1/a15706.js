@@ -1,7 +1,6 @@
 var a15706 =
 [
-    [ "HandleHit", "d1/dc1/a15706.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "d1/dc1/a15706.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "d1/dc1/a15706.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "d1/dc1/a15706.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "boss_anub_arakAI", "d6/dc4/a15710.html", "d6/dc4/a15710" ],
+    [ "boss_anub_arak", "d1/dc1/a15706.html#ac2594f561b07069a312ed38c01d9c7da", null ],
+    [ "GetAI", "d1/dc1/a15706.html#a8687594354d514b99e026797ee71c70d", null ]
 ];

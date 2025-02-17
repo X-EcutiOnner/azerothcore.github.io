@@ -1,6 +1,6 @@
 var a15998 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "da/d8a/a16002.html", "da/d8a/a16002" ],
-    [ "npc_toc5_grand_champion_minion", "db/d00/a15998.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
-    [ "GetAI", "db/d00/a15998.html#a55acf397b94ba63b1db626dc1041b28e", null ]
+    [ "OnSummon", "db/d00/a15998.html#ae2766d12fb686356b46126848f356c5a", null ],
+    [ "PrepareSpellScript", "db/d00/a15998.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
+    [ "Register", "db/d00/a15998.html#a717394bfbea621ae637f9e87efddda62", null ]
 ];

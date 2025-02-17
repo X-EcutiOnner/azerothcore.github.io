@@ -1,6 +1,10 @@
 var a13906 =
 [
-    [ "HandleEffectApply", "d8/d41/a13906.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
-    [ "PrepareAuraScript", "d8/d41/a13906.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
-    [ "Register", "d8/d41/a13906.html#a2b39daf6fe325cfa909b964da62c2571", null ]
+    [ "npc_vilebranch_speaker", "d8/d41/a13906.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
+    [ "JustDied", "d8/d41/a13906.html#aa7708f176879db3acd50399b74e4a90c", null ],
+    [ "JustEngagedWith", "d8/d41/a13906.html#a236afb8512c2d941479f8a7c18f688a6", null ],
+    [ "Reset", "d8/d41/a13906.html#a248195a137cb91f10a882ec12974c7c5", null ],
+    [ "UpdateAI", "d8/d41/a13906.html#a75f263fa9241319b58bf77cbf1b75088", null ],
+    [ "_scheduler", "d8/d41/a13906.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
+    [ "instance", "d8/d41/a13906.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
 ];

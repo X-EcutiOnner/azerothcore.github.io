@@ -1,7 +1,9 @@
 var a22706 =
 [
-    [ "Absorb", "db/d6d/a22706.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
-    [ "HandleEffectRemove", "db/d6d/a22706.html#a3d4026e5208acb948c089a4bedba0de8", null ],
-    [ "PrepareAuraScript", "db/d6d/a22706.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
-    [ "Register", "db/d6d/a22706.html#a983cf678001efcbccc4b34a9ad919881", null ]
+    [ "FilterTargets", "db/d6d/a22706.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "db/d6d/a22706.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "db/d6d/a22706.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "db/d6d/a22706.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "db/d6d/a22706.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "db/d6d/a22706.html#a814083360970284a325621f45e109b5b", null ]
 ];

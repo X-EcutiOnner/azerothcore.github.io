@@ -1,6 +1,5 @@
 var a02366 =
 [
-    [ "DatabaseWorkerPool< T >", "dd/dd6/a05602.html", "dd/dd6/a05602" ],
-    [ "MIN_MYSQL_CLIENT_VERSION", "d9/d4f/a02366.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
-    [ "MIN_MYSQL_SERVER_VERSION", "d9/d4f/a02366.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
+    [ "SmartTrigger", "d8/df6/a06194.html", "d8/df6/a06194" ],
+    [ "AddSC_SmartScripts", "d9/d4f/a02366.html#ab6012619ba76775b314475ec60f8c7d7", null ]
 ];

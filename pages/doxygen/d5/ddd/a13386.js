@@ -1,9 +1,6 @@
 var a13386 =
 [
-    [ "npc_marzon_silent_bladeAI", "d5/ddd/a13386.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
-    [ "EnterEvadeMode", "d5/ddd/a13386.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
-    [ "JustEngagedWith", "d5/ddd/a13386.html#a116b3458f342811e378713e6a67f76a6", null ],
-    [ "MovementInform", "d5/ddd/a13386.html#a32201d45f0c19212becb6319a48366f8", null ],
-    [ "Reset", "d5/ddd/a13386.html#a51c2b16c767ce2922564dc9e4048e089", null ],
-    [ "UpdateAI", "d5/ddd/a13386.html#aa6686399b41d32429d530dcc2ec41185", null ]
+    [ "npc_balance_of_light_and_shadowAI", "dc/df2/a13390.html", "dc/df2/a13390" ],
+    [ "npc_balance_of_light_and_shadow", "d5/ddd/a13386.html#a55229e3ea8dd9c52972185b36c08908b", null ],
+    [ "GetAI", "d5/ddd/a13386.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
 ];

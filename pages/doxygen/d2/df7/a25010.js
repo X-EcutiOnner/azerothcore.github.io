@@ -1,7 +1,7 @@
 var a25010 =
 [
-    [ "HandleDummy", "d2/df7/a25010.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
-    [ "PrepareSpellScript", "d2/df7/a25010.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
-    [ "Register", "d2/df7/a25010.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
-    [ "Validate", "d2/df7/a25010.html#ad4bb369ef46122cd45c38d876884d350", null ]
+    [ "PrepareSpellScript", "d2/df7/a25010.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "d2/df7/a25010.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "d2/df7/a25010.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "d2/df7/a25010.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

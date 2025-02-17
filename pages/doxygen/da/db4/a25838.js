@@ -1,8 +1,7 @@
 var a25838 =
 [
-    [ "Load", "da/db4/a25838.html#a7662d85a5469c20edf6d2eefca820db3", null ],
-    [ "PrepareAuraScript", "da/db4/a25838.html#a252bd975a7639eab4e151249db974b7c", null ],
-    [ "Register", "da/db4/a25838.html#a51723a22f1062f44e8eb6848e1398595", null ],
-    [ "Split", "da/db4/a25838.html#a08e982eae6030fdc679663bfd38bca47", null ],
-    [ "remainingAmount", "da/db4/a25838.html#afaab88988769ddc720deb44f06de3d7d", null ]
+    [ "HandleDummy", "da/db4/a25838.html#a870b9834d0860a2d017b74fbf33ae668", null ],
+    [ "Load", "da/db4/a25838.html#ae971bd1dccc9280620b6ea44dd552bd4", null ],
+    [ "PrepareSpellScript", "da/db4/a25838.html#aac68e0f75f39ab25cf490dc381414b96", null ],
+    [ "Register", "da/db4/a25838.html#ad2840c719abd010c629747da138e9e32", null ]
 ];

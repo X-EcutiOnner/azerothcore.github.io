@@ -1,6 +1,6 @@
 var a23898 =
 [
-    [ "npcs_flanis_swiftwing_and_kagrosh", "d2/db5/a23898.html#aa95eceea94521947bd443805c8ddb52d", null ],
-    [ "OnGossipHello", "d2/db5/a23898.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
-    [ "OnGossipSelect", "d2/db5/a23898.html#aff34165955ba93e1fcd2b9731894d871", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d8/d38/a23902.html", "d8/d38/a23902" ],
+    [ "npc_creditmarker_visit_with_ancestors", "d2/db5/a23898.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "d2/db5/a23898.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

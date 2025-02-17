@@ -1,6 +1,5 @@
 var a23346 =
 [
-    [ "HandleEffect", "d0/d43/a23346.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
-    [ "PrepareSpellScript", "d0/d43/a23346.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
-    [ "Register", "d0/d43/a23346.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
+    [ "go_broggok_lever", "d0/d43/a23346.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
+    [ "OnGossipHello", "d0/d43/a23346.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
 ];

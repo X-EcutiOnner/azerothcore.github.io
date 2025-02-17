@@ -1,7 +1,10 @@
 var a15338 =
 [
-    [ "npc_giltharesAI", "da/d98/a15342.html", "da/d98/a15342" ],
-    [ "npc_gilthares", "d7/d0c/a15338.html#af1e0746350b32b68825710e1c3ed91a5", null ],
-    [ "GetAI", "d7/d0c/a15338.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
-    [ "OnQuestAccept", "d7/d0c/a15338.html#a018cc6240a79216acb371241f63e3234", null ]
+    [ "npc_omenAI", "d7/d0c/a15338.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
+    [ "JustDied", "d7/d0c/a15338.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
+    [ "JustEngagedWith", "d7/d0c/a15338.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
+    [ "MovementInform", "d7/d0c/a15338.html#a92e59bde1f0da2ee537a836304a3c385", null ],
+    [ "SpellHit", "d7/d0c/a15338.html#a4e3960d506fd0435de055a365906a9c9", null ],
+    [ "UpdateAI", "d7/d0c/a15338.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
+    [ "events", "d7/d0c/a15338.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
 ];

@@ -1,7 +1,8 @@
 var a28046 =
 [
-    [ "Flags", "df/d29/a28046.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "df/d29/a28046.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "df/d29/a28046.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "df/d29/a28046.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "Id", "df/d29/a28046.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "df/d29/a28046.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "df/d29/a28046.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "df/d29/a28046.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "df/d29/a28046.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

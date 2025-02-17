@@ -1,9 +1,17 @@
 var a23454 =
 [
-    [ "boss_high_botanist_freywinn", "dc/d5f/a23454.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
-    [ "JustDied", "dc/d5f/a23454.html#a7b370482ea195d0305cba339ce0cbab3", null ],
-    [ "JustEngagedWith", "dc/d5f/a23454.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
-    [ "KilledUnit", "dc/d5f/a23454.html#a80a997e0d12c175da0a46d7362890b9c", null ],
-    [ "ResumeEncounter", "dc/d5f/a23454.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
-    [ "SummonedCreatureDies", "dc/d5f/a23454.html#a7f1a02d4b944191471f59ba728b6372e", null ]
+    [ "boss_grand_warlock_nethekurse", "dc/d5f/a23454.html#a4eefeb639cf5f0753feb6cfd99cda187", null ],
+    [ "DoAction", "dc/d5f/a23454.html#a8288f8c28b61dac574254435534b5e3f", null ],
+    [ "IntroRP", "dc/d5f/a23454.html#ae071f8cc7ef44e6c6cf205295debea5f", null ],
+    [ "JustDied", "dc/d5f/a23454.html#a48a2ec7beeb5c9685fc627317acea949", null ],
+    [ "JustEngagedWith", "dc/d5f/a23454.html#a117d2d737433ea89b37ea1ee58e6c237", null ],
+    [ "JustReachedHome", "dc/d5f/a23454.html#afe62561de66fbe7fa92c365a51f01adc", null ],
+    [ "KilledUnit", "dc/d5f/a23454.html#ac29fa30bfa8377a07cbfdd1f0964ebfb", null ],
+    [ "Reset", "dc/d5f/a23454.html#aceef7aace38f5246ad67a1591b7f301c", null ],
+    [ "SetData", "dc/d5f/a23454.html#a6c647262ce7df78c46af6b725cbcc250", null ],
+    [ "UpdateAI", "dc/d5f/a23454.html#aca0bd4c71aafd2d1c54e2ca87d538e9a", null ],
+    [ "_canAggro", "dc/d5f/a23454.html#a9c577798d5bc87654e6984af02d95c34", null ],
+    [ "_introStarted", "dc/d5f/a23454.html#ac7d0737aa28c51cc63d93b8774e536f0", null ],
+    [ "PeonEngagedCount", "dc/d5f/a23454.html#a886a0e792cf5ac6afa9670703cb568ff", null ],
+    [ "PeonKilledCount", "dc/d5f/a23454.html#a8837d810df1d8b8a505d2d6c98ac8be8", null ]
 ];

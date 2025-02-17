@@ -1,6 +1,6 @@
 var a17346 =
 [
-    [ "PrepareSpellScript", "d9/ddf/a17346.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "d9/ddf/a17346.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "d9/ddf/a17346.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "npc_stinky_iccAI", "d5/d7a/a17350.html", "d5/d7a/a17350" ],
+    [ "npc_stinky_icc", "d9/ddf/a17346.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "d9/ddf/a17346.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

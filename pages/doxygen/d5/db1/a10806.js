@@ -1,6 +1,6 @@
 var a10806 =
 [
-    [ "WorldSession", "d5/db1/a10806.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "d5/db1/a10806.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "d5/db1/a10806.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "PetStopAttack", "d5/db1/a10806.html#a4a68127f3290d4f2e288600757dd3282", null ],
+    [ "Read", "d5/db1/a10806.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
+    [ "PetGUID", "d5/db1/a10806.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
 ];

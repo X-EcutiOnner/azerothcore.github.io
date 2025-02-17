@@ -1,6 +1,7 @@
 var a11114 =
 [
-    [ "EffectUpdatePeriodicHandler", "de/d2b/a11114.html#a6b18a259aa84c847bcc064c5243eb590", null ],
-    [ "Call", "de/d2b/a11114.html#a38802863e7859453cbbe58ad91018c67", null ],
-    [ "pEffectHandlerScript", "de/d2b/a11114.html#a0e51245e089fcd9532d5789056ab944c", null ]
+    [ "attributeMask", "de/d2b/a11114.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
+    [ "customChance", "de/d2b/a11114.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
+    [ "PPMChance", "de/d2b/a11114.html#adb76c11f0073a2738374c98c01fda009", null ],
+    [ "procEx", "de/d2b/a11114.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
 ];

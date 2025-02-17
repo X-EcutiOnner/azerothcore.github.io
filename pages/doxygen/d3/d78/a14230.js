@@ -1,7 +1,25 @@
 var a14230 =
 [
-    [ "GetVisualThrow", "d3/d78/a14230.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d3/d78/a14230.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d3/d78/a14230.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d3/d78/a14230.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "boss_headless_horseman", "d3/d78/a14230.html#a4f791099607d7861cfa193f9b5fc265b", null ],
+    [ "DamageTaken", "d3/d78/a14230.html#a76c6eddf1005774403498d0954571c19", null ],
+    [ "DoAction", "d3/d78/a14230.html#ad5d8645b879a2c97c68e815463a97b49", null ],
+    [ "GetRhymePlayer", "d3/d78/a14230.html#ad4bc4c5364d1c07c21f29747934efc01", null ],
+    [ "JustDied", "d3/d78/a14230.html#aea5a5ee1fce56cefd84ebde29bcc5a1d", null ],
+    [ "JustEngagedWith", "d3/d78/a14230.html#a149ae2b8c688c5b24d3db480b888e36e", null ],
+    [ "JustReachedHome", "d3/d78/a14230.html#a888d573450a2b09d22def41884ed2d30", null ],
+    [ "JustSummoned", "d3/d78/a14230.html#a06a654a822967c02dbab2c75f211e072", null ],
+    [ "KilledUnit", "d3/d78/a14230.html#ad98d9d303815f538e194a55578ae909a", null ],
+    [ "MoveInLineOfSight", "d3/d78/a14230.html#a57a5935e31ef5cc4df2657ddd358afdc", null ],
+    [ "MovementInform", "d3/d78/a14230.html#abccf1fc3c5475e50d45bbd596ff98ce9", null ],
+    [ "Reset", "d3/d78/a14230.html#ac52c6590f78c23149abfb062d5814ded", null ],
+    [ "SpellHit", "d3/d78/a14230.html#ace502054c0e570655be9ea1990b48f9f", null ],
+    [ "SpellHitTarget", "d3/d78/a14230.html#afa5e099de3899e41b3ee04f348c3d6a0", null ],
+    [ "UpdateAI", "d3/d78/a14230.html#aa6741999e5a9a826efb279e014ea4ab8", null ],
+    [ "events", "d3/d78/a14230.html#a2fe31482b5267bfc94d5d68062a46e0c", null ],
+    [ "health", "d3/d78/a14230.html#a076037b8bad3648551997915d97fb9b2", null ],
+    [ "inFight", "d3/d78/a14230.html#a8e33d87467086dc3eae778a579216256", null ],
+    [ "phase", "d3/d78/a14230.html#a9dde0cfcc41ec7d8b9f53e55057adab9", null ],
+    [ "playerGUID", "d3/d78/a14230.html#af0ee0c6da6398d6a84457aab942bb29c", null ],
+    [ "summons", "d3/d78/a14230.html#a5de04d5c0da7c199ec89de9ef40a59fd", null ],
+    [ "talkCount", "d3/d78/a14230.html#a091a925d7040e29efc54a4c5f123591d", null ]
 ];

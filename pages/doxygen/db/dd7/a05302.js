@@ -1,13 +1,17 @@
 var a05302 =
 [
-    [ "MPSCQueueIntrusive", "db/dd7/a05302.html#a8e05361abed759932c49b0fc71ed09c1", null ],
-    [ "~MPSCQueueIntrusive", "db/dd7/a05302.html#a8155857825ceb1b7154ea82a63dbce08", null ],
-    [ "MPSCQueueIntrusive", "db/dd7/a05302.html#afaee06af7734e53ce50674e4ef7277b2", null ],
-    [ "Dequeue", "db/dd7/a05302.html#a798e36f41ef34c226690f76e9dc03fd6", null ],
-    [ "Enqueue", "db/dd7/a05302.html#a233004b906cfa66cdd285233105dddf7", null ],
-    [ "operator=", "db/dd7/a05302.html#a93cdd07d00b7dff8a7da5bf4846b26c7", null ],
-    [ "_dummy", "db/dd7/a05302.html#ad4d3a9cebe46fc524e474b7854a20b03", null ],
-    [ "_dummyPtr", "db/dd7/a05302.html#a115e9affe6159ae8aa08c6fc358e400c", null ],
-    [ "_head", "db/dd7/a05302.html#a7fb32fbb507e82f9e8a6c1691e281fcd", null ],
-    [ "_tail", "db/dd7/a05302.html#ac7e333db415e6301a02052c53779d1d4", null ]
+    [ "AppenderFile", "db/dd7/a05302.html#a0437ef5c3d0106e52747ab57ccbf97a3", null ],
+    [ "~AppenderFile", "db/dd7/a05302.html#ae61ef8a7dbc41612f94513ee0da156e1", null ],
+    [ "_write", "db/dd7/a05302.html#a4c20fc9c6519eb63ca3bf74fd1d1f5b5", null ],
+    [ "CloseFile", "db/dd7/a05302.html#a039659a1e8e340c9522ff99f119ff5c8", null ],
+    [ "getType", "db/dd7/a05302.html#ad978ed158e068f5fa84f9f93aaf99b46", null ],
+    [ "OpenFile", "db/dd7/a05302.html#af4ee583cbcd00d8d564189b0d62a1bb8", null ],
+    [ "_backup", "db/dd7/a05302.html#a4e1f6ab329fa3dadf4e63584b92c456f", null ],
+    [ "_dynamicName", "db/dd7/a05302.html#a13cffedf98f8554f5a947dcc065caf65", null ],
+    [ "_fileName", "db/dd7/a05302.html#a53fcfcc6bf29a0e493d2ea9fdb1344fc", null ],
+    [ "_fileSize", "db/dd7/a05302.html#a03a7e6402f58136a0cc34eff3985d3fb", null ],
+    [ "_logDir", "db/dd7/a05302.html#a99f47e0f33b5d5f810470f45a4c885b7", null ],
+    [ "_maxFileSize", "db/dd7/a05302.html#a271930a4cb21d7efdc2243b6d33d177f", null ],
+    [ "logfile", "db/dd7/a05302.html#a8ce79405a7e19ae23fc4a93f70ad28b6", null ],
+    [ "type", "db/dd7/a05302.html#a6ec33bdb38ab0359620e008cf4793f8c", null ]
 ];

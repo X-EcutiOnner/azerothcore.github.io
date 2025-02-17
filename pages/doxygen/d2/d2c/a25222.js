@@ -1,6 +1,10 @@
 var a25222 =
 [
-    [ "HandlePreventAura", "d2/d2c/a25222.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
-    [ "PrepareSpellScript", "d2/d2c/a25222.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
-    [ "Register", "d2/d2c/a25222.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
+    [ "CheckProc", "d2/d2c/a25222.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "d2/d2c/a25222.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "d2/d2c/a25222.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "d2/d2c/a25222.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "d2/d2c/a25222.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "d2/d2c/a25222.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "d2/d2c/a25222.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

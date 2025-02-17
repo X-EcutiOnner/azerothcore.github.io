@@ -1,9 +1,6 @@
 var a21346 =
 [
-    [ "npc_counselor_talbotAI", "d6/d6f/a21346.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
-    [ "JustDied", "d6/d6f/a21346.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
-    [ "JustEngagedWith", "d6/d6f/a21346.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
-    [ "Reset", "d6/d6f/a21346.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
-    [ "UpdateAI", "d6/d6f/a21346.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
-    [ "_events", "d6/d6f/a21346.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
+    [ "npc_nerubar_victimAI", "da/dfc/a21350.html", "da/dfc/a21350" ],
+    [ "npc_nerubar_victim", "d6/d6f/a21346.html#a4fe80597d3e56776f0f04965fc706097", null ],
+    [ "GetAI", "d6/d6f/a21346.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
 ];

@@ -1,6 +1,6 @@
 var a16490 =
 [
-    [ "boss_devourer_of_soulsAI", "d1/d57/a16494.html", "d1/d57/a16494" ],
-    [ "boss_devourer_of_souls", "d8/d4c/a16490.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
-    [ "GetAI", "d8/d4c/a16490.html#a3de68fa630c5b74104c461f88edd1d36", null ]
+    [ "HandleDummy", "d8/d4c/a16490.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
+    [ "PrepareSpellScript", "d8/d4c/a16490.html#accbf8f40b1ab123a2be81a514c94c836", null ],
+    [ "Register", "d8/d4c/a16490.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
 ];

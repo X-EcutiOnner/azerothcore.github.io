@@ -1,7 +1,6 @@
 var a17974 =
 [
-    [ "CheckTargetCount", "d5/d0e/a17974.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
-    [ "PrepareSpellScript", "d5/d0e/a17974.html#abd32198867e7f01b21b7de6224a597d4", null ],
-    [ "Register", "d5/d0e/a17974.html#a671bede7fbc68085cd6075f412822869", null ],
-    [ "Validate", "d5/d0e/a17974.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
+    [ "OrderWhelpTargetSelector", "d5/d0e/a17974.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
+    [ "operator()", "d5/d0e/a17974.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
+    [ "_owner", "d5/d0e/a17974.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
 ];

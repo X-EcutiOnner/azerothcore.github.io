@@ -1,6 +1,6 @@
 var a16354 =
 [
-    [ "boss_dredAI", "d4/d26/a16358.html", "d4/d26/a16358" ],
-    [ "boss_dred", "d9/d78/a16354.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
-    [ "GetAI", "d9/d78/a16354.html#ab8276b185f80a92a54327ea28b19c704", null ]
+    [ "npc_fel_infernalAI", "d4/d26/a16358.html", "d4/d26/a16358" ],
+    [ "npc_fel_infernal", "d9/d78/a16354.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "d9/d78/a16354.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

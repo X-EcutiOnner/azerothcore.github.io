@@ -1,6 +1,6 @@
 var a12974 =
 [
-    [ "HandleSendEvent", "d6/d40/a12974.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
-    [ "PrepareSpellScript", "d6/d40/a12974.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
-    [ "Register", "d6/d40/a12974.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
+    [ "instance_scholomance_InstanceMapScript", "d9/d89/a12978.html", "d9/d89/a12978" ],
+    [ "instance_scholomance", "d6/d40/a12974.html#ace7a781c45623419daad6143480d8fe2", null ],
+    [ "GetInstanceScript", "d6/d40/a12974.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
 ];

@@ -1,6 +1,10 @@
 var a10150 =
 [
-    [ "LootScript", "d8/d61/a10150.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
-    [ "IsDatabaseBound", "d8/d61/a10150.html#ad60b605eac89be48efd339127e9cb9cd", null ],
-    [ "OnLootMoney", "d8/d61/a10150.html#a56a57baead49f6815a9979b181a55375", null ]
+    [ "AllItemScript", "d8/d61/a10150.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
+    [ "CanItemExpire", "d8/d61/a10150.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
+    [ "CanItemQuestAccept", "d8/d61/a10150.html#a545e2bc7436a064146025954eaf5ae92", null ],
+    [ "CanItemRemove", "d8/d61/a10150.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
+    [ "CanItemUse", "d8/d61/a10150.html#a89d237f426840658e4423fb9cc7428db", null ],
+    [ "OnItemGossipSelect", "d8/d61/a10150.html#a7157f72c6d09988b60480d1671892cde", null ],
+    [ "OnItemGossipSelectCode", "d8/d61/a10150.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
 ];

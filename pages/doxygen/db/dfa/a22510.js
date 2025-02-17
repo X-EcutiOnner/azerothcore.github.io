@@ -1,8 +1,11 @@
 var a22510 =
 [
-    [ "HandleScriptEffect", "db/dfa/a22510.html#a8e5b81581fff787f691521d03fed66fc", null ],
-    [ "Load", "db/dfa/a22510.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
-    [ "PrepareSpellScript", "db/dfa/a22510.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
-    [ "Register", "db/dfa/a22510.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
-    [ "Validate", "db/dfa/a22510.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
+    [ "boss_murmur", "db/dfa/a22510.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
+    [ "CanAIAttack", "db/dfa/a22510.html#a6b89c95747c0a37c0b37527cd360e524", null ],
+    [ "CastSuppressionOOC", "db/dfa/a22510.html#aab66339a7436c3c483297b25f6859558", null ],
+    [ "EnterEvadeMode", "db/dfa/a22510.html#aa0f549c83a92302ece2323c75dd29acc", null ],
+    [ "JustEngagedWith", "db/dfa/a22510.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
+    [ "Reset", "db/dfa/a22510.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
+    [ "SetGUID", "db/dfa/a22510.html#a88e18fd646a807ee92f1b24b43d500a6", null ],
+    [ "ShouldCastResonance", "db/dfa/a22510.html#ade07217a85655a513d7a472d24589691", null ]
 ];

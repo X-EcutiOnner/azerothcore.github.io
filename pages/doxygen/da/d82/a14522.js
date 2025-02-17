@@ -1,7 +1,10 @@
 var a14522 =
 [
-    [ "npc_tarethaAI", "d7/d27/a14526.html", "d7/d27/a14526" ],
-    [ "npc_taretha", "da/d82/a14522.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "da/d82/a14522.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "da/d82/a14522.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "npc_hyjal_frost_wyrm", "da/d82/a14522.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "da/d82/a14522.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "da/d82/a14522.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "da/d82/a14522.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "da/d82/a14522.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "da/d82/a14522.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "da/d82/a14522.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

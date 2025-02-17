@@ -1,6 +1,9 @@
 var a25258 =
 [
-    [ "HandleHeal", "d2/d8f/a25258.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
-    [ "PrepareSpellScript", "d2/d8f/a25258.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "d2/d8f/a25258.html#a313abe6367e5494bd81a557ab42f9f50", null ]
+    [ "CheckCast", "d2/d8f/a25258.html#a005565dd77de97b5aa04553a1d6a0185", null ],
+    [ "HandleScript", "d2/d8f/a25258.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
+    [ "Load", "d2/d8f/a25258.html#aadfc8a873c72e31d65001ce00518ca45", null ],
+    [ "PrepareSpellScript", "d2/d8f/a25258.html#a169b60644259855f0614271e4769f6b9", null ],
+    [ "Register", "d2/d8f/a25258.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
+    [ "Validate", "d2/d8f/a25258.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
 ];

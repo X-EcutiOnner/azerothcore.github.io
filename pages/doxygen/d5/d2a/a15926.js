@@ -1,13 +1,14 @@
 var a15926 =
 [
-    [ "boss_eadricAI", "d5/d2a/a15926.html#a461043fe1bff0f5478e2a57504e7477c", null ],
-    [ "DamageTaken", "d5/d2a/a15926.html#a440899ffdeda7794ef4fa5530638eecc", null ],
-    [ "JustEngagedWith", "d5/d2a/a15926.html#a09a0cebcdffb00e37e9d60111c582669", null ],
-    [ "KilledUnit", "d5/d2a/a15926.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
-    [ "MovementInform", "d5/d2a/a15926.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
-    [ "Reset", "d5/d2a/a15926.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
-    [ "SpellHit", "d5/d2a/a15926.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
-    [ "UpdateAI", "d5/d2a/a15926.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
-    [ "events", "d5/d2a/a15926.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
-    [ "pInstance", "d5/d2a/a15926.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
+    [ "npc_halion_controllerAI", "d5/d2a/a15926.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
+    [ "DoAction", "d5/d2a/a15926.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
+    [ "Reset", "d5/d2a/a15926.html#a3004aecb50815287d5f832f2a8a0d250", null ],
+    [ "SetData", "d5/d2a/a15926.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
+    [ "UpdateAI", "d5/d2a/a15926.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
+    [ "UpdateCorporeality", "d5/d2a/a15926.html#ac82987f2b2b069b90c509c477004bae6", null ],
+    [ "_corporeality", "d5/d2a/a15926.html#a4c23df1bb774ac724bdf537453592671", null ],
+    [ "_events", "d5/d2a/a15926.html#a92e3f116260265a2d0dbeef769eee03e", null ],
+    [ "_instance", "d5/d2a/a15926.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
+    [ "_materialDamage", "d5/d2a/a15926.html#afcc510b0d4be10ed057d1a304b803b69", null ],
+    [ "_twilightDamage", "d5/d2a/a15926.html#a13a9efcb11ed31725c45011508407287", null ]
 ];

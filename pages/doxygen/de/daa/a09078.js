@@ -1,8 +1,7 @@
 var a09078 =
 [
-    [ "RespawnDo", "de/daa/a09078.html#a79f6424f2849c4c05998fe29a8510aeb", null ],
-    [ "operator()", "de/daa/a09078.html#ac15ff63f29e313556b8f66e0cd80514f", null ],
-    [ "operator()", "de/daa/a09078.html#a23408bf4da497d1007e4e88e0d9c0e19", null ],
-    [ "operator()", "de/daa/a09078.html#a66335f45bb1f3c770887b263e9d84236", null ],
-    [ "operator()", "de/daa/a09078.html#a4551ca2e0fdb6540a724c9c2b43484c6", null ]
+    [ "V8Type", "de/daa/a09078.html#a385ac15640b76e43eda077c451dcd745", null ],
+    [ "V9Type", "de/daa/a09078.html#a9b7daa2ba0e72e137243ac061efaa2a5", null ],
+    [ "v8", "de/daa/a09078.html#a55d7b001e047c31686b110cc4b1aa295", null ],
+    [ "v9", "de/daa/a09078.html#ab4f6ec9aefc2721bd216582d7a882aa3", null ]
 ];

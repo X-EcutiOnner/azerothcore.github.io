@@ -1,12 +1,15 @@
 var a11310 =
 [
-    [ "WardenMac", "d0/d02/a11310.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
-    [ "~WardenMac", "d0/d02/a11310.html#a5f3832580c73a0af34fa83669a92ceab", null ],
-    [ "GetModuleForClient", "d0/d02/a11310.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
-    [ "HandleData", "d0/d02/a11310.html#a024be47d39641cb0e7654b0e0999e444", null ],
-    [ "HandleHashResult", "d0/d02/a11310.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
-    [ "Init", "d0/d02/a11310.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
-    [ "InitializeModule", "d0/d02/a11310.html#a4fceef34e83db1a357d9eadce35efdef", null ],
-    [ "RequestChecks", "d0/d02/a11310.html#a2437a3a5650305b05fc22d312d0006da", null ],
-    [ "RequestHash", "d0/d02/a11310.html#af031f18554c5a96b4eb39371a92b9c51", null ]
+    [ "BroadcastTextId", "d0/d02/a11310.html#a12ff00d59ce642d3c27978e919f6ca17", null ],
+    [ "duration", "d0/d02/a11310.html#a00b6d7cbf9ff377d30cd9e6cfab084b7", null ],
+    [ "emote", "d0/d02/a11310.html#aad433a0bc12717103936e6f89b5b31ea", null ],
+    [ "entry", "d0/d02/a11310.html#a3d1c888b73edee2474004de9d8714903", null ],
+    [ "group", "d0/d02/a11310.html#ae2161d1dc874efacd0131baa74b4e44a", null ],
+    [ "id", "d0/d02/a11310.html#ab80181d53770a2f64bd6898498b3e76e", null ],
+    [ "lang", "d0/d02/a11310.html#a8405ab49781ba0cbcd8680ff6715b675", null ],
+    [ "probability", "d0/d02/a11310.html#a9bec9c2053f2efbac076831d4e928045", null ],
+    [ "sound", "d0/d02/a11310.html#af312efff61026445caeb4be4b52c4e66", null ],
+    [ "text", "d0/d02/a11310.html#a82b3db36b60a343d340677e8df6c7925", null ],
+    [ "TextRange", "d0/d02/a11310.html#a2bb58a07abc9eb7ffeb4db131de03924", null ],
+    [ "type", "d0/d02/a11310.html#a5675f6bcf159e1da503029771557e2a6", null ]
 ];

@@ -1,9 +1,10 @@
 var a09034 =
 [
-    [ "CreatureLastSearcher", "df/d49/a09034.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d", null ],
-    [ "Visit", "df/d49/a09034.html#ae6774df4ffff18cd4f3b4c07724db4f4", null ],
-    [ "Visit", "df/d49/a09034.html#a08635cefbba5dca34734569816d2edb8", null ],
-    [ "i_check", "df/d49/a09034.html#a2b9afe2c43af6e68f7fa5ba661790ef9", null ],
-    [ "i_object", "df/d49/a09034.html#ab8a14acb8d0fc9835d1325430fa1a367", null ],
-    [ "i_phaseMask", "df/d49/a09034.html#a9dd25e3437e1c1e5e4c8d68ab3548500", null ]
+    [ "iterator", "df/d49/a09034.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
+    [ "begin", "df/d49/a09034.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
+    [ "end", "df/d49/a09034.html#a266acb421cfc6ccc56dc2acff3202971", null ],
+    [ "getFirst", "df/d49/a09034.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
+    [ "getLast", "df/d49/a09034.html#a46a36813eaf752815a3f8c739db88a5d", null ],
+    [ "rbegin", "df/d49/a09034.html#ae69734978b5eec009a696861b7b7152b", null ],
+    [ "rend", "df/d49/a09034.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
 ];

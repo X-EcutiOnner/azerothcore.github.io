@@ -1,14 +1,15 @@
 var a22326 =
 [
-    [ "boss_nexusprince_shaffar", "d9/d66/a22326.html#a2e861fb53bca7a40e967971b5e7be533", null ],
-    [ "JustDied", "d9/d66/a22326.html#abf2fef0888bced83511883027bf4d500", null ],
-    [ "JustEngagedWith", "d9/d66/a22326.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
-    [ "JustSummoned", "d9/d66/a22326.html#a576240b46ce0988f0ef86e1460c831ef", null ],
-    [ "KilledUnit", "d9/d66/a22326.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
-    [ "MoveInLineOfSight", "d9/d66/a22326.html#a71e501225d88851210d2e0e58de27f99", null ],
-    [ "Reset", "d9/d66/a22326.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
-    [ "SummonedCreatureDespawn", "d9/d66/a22326.html#ab806564e96708ca12f444249abd3c88c", null ],
-    [ "UpdateAI", "d9/d66/a22326.html#a147500575a3821262ec718ec023b458c", null ],
-    [ "HasTaunted", "d9/d66/a22326.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
-    [ "summons", "d9/d66/a22326.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
+    [ "OutdoorPvPEP", "d9/d66/a22326.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
+    [ "BuffTeams", "d9/d66/a22326.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
+    [ "FillInitialWorldStates", "d9/d66/a22326.html#a3e9ca34d696c3d644fdb7f495e11270c", null ],
+    [ "HandlePlayerEnterZone", "d9/d66/a22326.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
+    [ "HandlePlayerLeaveZone", "d9/d66/a22326.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
+    [ "SendRemoveWorldStates", "d9/d66/a22326.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
+    [ "SetControlledState", "d9/d66/a22326.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
+    [ "SetupOutdoorPvP", "d9/d66/a22326.html#acecc8126180c027cb3d685231e55d873", null ],
+    [ "Update", "d9/d66/a22326.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
+    [ "EP_ControlsId", "d9/d66/a22326.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
+    [ "m_AllianceTowersControlled", "d9/d66/a22326.html#a09e5cf029656af3fc740b236596d42ee", null ],
+    [ "m_HordeTowersControlled", "d9/d66/a22326.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
 ];

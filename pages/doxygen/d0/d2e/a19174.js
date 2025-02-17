@@ -1,8 +1,11 @@
 var a19174 =
 [
-    [ "HandleOnEffectApply", "d0/d2e/a19174.html#ac852d761940494f78b50ba3b060057a2", null ],
-    [ "HandleOnEffectRemove", "d0/d2e/a19174.html#a6764750586be8b57d52a2dba87d89e76", null ],
-    [ "PrepareAuraScript", "d0/d2e/a19174.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
-    [ "Register", "d0/d2e/a19174.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
-    [ "Validate", "d0/d2e/a19174.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
+    [ "boss_ormorok", "d0/d2e/a19174.html#aa4862339ed41d5c593a93ef605d85a39", null ],
+    [ "JustDied", "d0/d2e/a19174.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
+    [ "JustEngagedWith", "d0/d2e/a19174.html#a22ac203db7c3b445e653798743e48764", null ],
+    [ "JustSummoned", "d0/d2e/a19174.html#acc149b49e6658454610a7871e3c82b5e", null ],
+    [ "KilledUnit", "d0/d2e/a19174.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
+    [ "Reset", "d0/d2e/a19174.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
+    [ "UpdateAI", "d0/d2e/a19174.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
+    [ "_spikesCount", "d0/d2e/a19174.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
 ];

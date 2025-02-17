@@ -1,6 +1,6 @@
 var a22094 =
 [
-    [ "CheckCast", "d3/d7e/a22094.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "d3/d7e/a22094.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "d3/d7e/a22094.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "npc_wild_wyrmAI", "d3/d5a/a22098.html", "d3/d5a/a22098" ],
+    [ "npc_wild_wyrm", "d3/d7e/a22094.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
+    [ "GetAI", "d3/d7e/a22094.html#aedba91446fe12997047070f123d925d2", null ]
 ];

@@ -1,12 +1,8 @@
 var a09698 =
 [
-    [ "BanAccount", "d5/d58/a09698.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
-    [ "BanAccountByPlayerName", "d5/d58/a09698.html#a35f92762d69fe32e49b9b239c74e4734", null ],
-    [ "BanCharacter", "d5/d58/a09698.html#ad5048b36828bfe20a95dfb85515de831", null ],
-    [ "BanIP", "d5/d58/a09698.html#a404890eab19b97773e6c9aef8cc65707", null ],
-    [ "instance", "d5/d58/a09698.html#aa495dfaab6af98c43f645acf516a5630", null ],
-    [ "RemoveBanAccount", "d5/d58/a09698.html#ae831e6227442edc70469229d5d73fa3f", null ],
-    [ "RemoveBanAccountByPlayerName", "d5/d58/a09698.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
-    [ "RemoveBanCharacter", "d5/d58/a09698.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
-    [ "RemoveBanIP", "d5/d58/a09698.html#afcf4857007432ebff042c85c5daf2325", null ]
+    [ "EllipseBoundary", "d5/d58/a09698.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "d5/d58/a09698.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "d5/d58/a09698.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "d5/d58/a09698.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "d5/d58/a09698.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

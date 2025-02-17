@@ -1,10 +1,7 @@
 var a13834 =
 [
-    [ "npc_zealot_zath", "dd/dab/a13834.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
-    [ "JustDied", "dd/dab/a13834.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
-    [ "JustEngagedWith", "dd/dab/a13834.html#a25e059f40de51d880f4ec209ff4dd924", null ],
-    [ "Reset", "dd/dab/a13834.html#abc4e40afd644f2c89444f3fe475817c0", null ],
-    [ "UpdateAI", "dd/dab/a13834.html#a467ce2437ec112b42f864ef412c0c976", null ],
-    [ "_scheduler", "dd/dab/a13834.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
-    [ "instance", "dd/dab/a13834.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
+    [ "OnRemove", "dd/dab/a13834.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "dd/dab/a13834.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "dd/dab/a13834.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "dd/dab/a13834.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

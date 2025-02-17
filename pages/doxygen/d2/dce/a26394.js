@@ -1,7 +1,10 @@
 var a26394 =
 [
-    [ "CheckProc", "d2/dce/a26394.html#a4efa486733390dea566e1169902db915", null ],
-    [ "PrepareAuraScript", "d2/dce/a26394.html#a241b65bdcb6aefa4e37b61c5007149f6", null ],
-    [ "Register", "d2/dce/a26394.html#a5c70bb3ff8d2c3d9a2ab8aad729917bb", null ],
-    [ "Validate", "d2/dce/a26394.html#a7c5d82eba0bba896294cffc94843414c", null ]
+    [ "Absorb", "d2/dce/a26394.html#aedee311aa77597674b3665eaf74e98c8", null ],
+    [ "CalculateAmount", "d2/dce/a26394.html#a5fdabb367ab86589d733d1da906446ab", null ],
+    [ "Load", "d2/dce/a26394.html#a7418b17f23b9eeacceb0970df3cb1d99", null ],
+    [ "PrepareAuraScript", "d2/dce/a26394.html#a1de52fae7a5ed3eeeb46be11eb2eac21", null ],
+    [ "Register", "d2/dce/a26394.html#abfc540163e9eb34cbf8a48d39bede840", null ],
+    [ "Validate", "d2/dce/a26394.html#a6cca564b6d13063ce7cd72ed8b6adf67", null ],
+    [ "absorbChance", "d2/dce/a26394.html#a293be81af42d810126eda35b1d27e3bc", null ]
 ];

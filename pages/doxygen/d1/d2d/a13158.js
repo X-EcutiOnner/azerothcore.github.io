@@ -1,9 +1,6 @@
 var a13158 =
 [
-    [ "boss_entropius", "d1/d2d/a13158.html#a458deaa80c9694cd2608150bc5519c76", null ],
-    [ "EnterEvadeMode", "d1/d2d/a13158.html#a01889b192525af082471d092bff28c88", null ],
-    [ "JustDied", "d1/d2d/a13158.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
-    [ "JustEngagedWith", "d1/d2d/a13158.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
-    [ "Reset", "d1/d2d/a13158.html#ad9da990a540703d38cb45dd2da72c179", null ],
-    [ "UpdateAI", "d1/d2d/a13158.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
+    [ "npc_demonic_vapor", "d1/d2d/a13158.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
+    [ "Reset", "d1/d2d/a13158.html#a7d2b88ab26904cedaac34f03567806bc", null ],
+    [ "UpdateAI", "d1/d2d/a13158.html#ae80c50c2599e607b54349a87dda5f6f6", null ]
 ];

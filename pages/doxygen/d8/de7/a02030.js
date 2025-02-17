@@ -1,4 +1,10 @@
 var a02030 =
 [
-    [ "ZoneScript", "d5/d81/a09694.html", "d5/d81/a09694" ]
+    [ "ban_commandscript", "da/d63/a11506.html", "da/d63/a11506" ],
+    [ "BanMode", "d8/de7/a02030.html#aee9acfaac97a86a40bad738a75eb5264", [
+      [ "BAN_ACCOUNT", "d8/de7/a02030.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1", null ],
+      [ "BAN_CHARACTER", "d8/de7/a02030.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79", null ],
+      [ "BAN_IP", "d8/de7/a02030.html#aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b", null ]
+    ] ],
+    [ "AddSC_ban_commandscript", "d8/de7/a02030.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff", null ]
 ];

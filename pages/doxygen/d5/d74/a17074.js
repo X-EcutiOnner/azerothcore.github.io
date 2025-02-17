@@ -1,6 +1,5 @@
 var a17074 =
 [
-    [ "boss_blood_queen_lana_thelAI", "d7/d4c/a17078.html", "d7/d4c/a17078" ],
-    [ "boss_blood_queen_lana_thel", "d5/d74/a17074.html#a9f8fa906f01082caacd106abc2707b07", null ],
-    [ "GetAI", "d5/d74/a17074.html#a7873efd945bdb24228866f639e32879b", null ]
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "d5/d74/a17074.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
+    [ "OnCheck", "d5/d74/a17074.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
 ];

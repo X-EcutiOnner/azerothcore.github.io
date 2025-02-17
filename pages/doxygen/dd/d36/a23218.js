@@ -1,6 +1,13 @@
 var a23218 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d2/d9b/a23222.html", "d2/d9b/a23222" ],
-    [ "instance_gruuls_lair", "dd/d36/a23218.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "dd/d36/a23218.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "boss_ghazan", "dd/d36/a23218.html#ae730362fcf3606c67b6b85147de98fb6", null ],
+    [ "DoAction", "dd/d36/a23218.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
+    [ "InitializeAI", "dd/d36/a23218.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
+    [ "JustEngagedWith", "dd/d36/a23218.html#ad4136f0f63d267284f36756793c0efa7", null ],
+    [ "JustReachedHome", "dd/d36/a23218.html#af9f2dd854036d5c8b9c6703499836199", null ],
+    [ "MovementInform", "dd/d36/a23218.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
+    [ "Reset", "dd/d36/a23218.html#afc9522a26060643f2f9d25a8a98691b7", null ],
+    [ "UpdateAI", "dd/d36/a23218.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
+    [ "_movedToPlatform", "dd/d36/a23218.html#aa6c0c391355ac0b698d67796efd63062", null ],
+    [ "_reachedPlatform", "dd/d36/a23218.html#af3476318b4721bd52facaf735eabb1f9", null ]
 ];

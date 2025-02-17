@@ -1,7 +1,10 @@
 var a15070 =
 [
-    [ "npc_webbed_creatureAI", "d2/dc3/a15070.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
-    [ "JustDied", "d2/dc3/a15070.html#a153d461124ec9266ffcac147a217f6d9", null ],
-    [ "JustEngagedWith", "d2/dc3/a15070.html#ac52ad6512bcaee35932f856abdac80d4", null ],
-    [ "Reset", "d2/dc3/a15070.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
+    [ "npc_anubisath_defender", "d2/dc3/a15070.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "d2/dc3/a15070.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "d2/dc3/a15070.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "d2/dc3/a15070.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "d2/dc3/a15070.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "d2/dc3/a15070.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "d2/dc3/a15070.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

@@ -1,6 +1,7 @@
 var a13034 =
 [
-    [ "npc_demonic_vapor", "d3/d7b/a13034.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
-    [ "Reset", "d3/d7b/a13034.html#a7d2b88ab26904cedaac34f03567806bc", null ],
-    [ "UpdateAI", "d3/d7b/a13034.html#ae80c50c2599e607b54349a87dda5f6f6", null ]
+    [ "OnPeriodic", "d3/d7b/a13034.html#aa48b6f35302a8857465c6567f811dec6", null ],
+    [ "PrepareAuraScript", "d3/d7b/a13034.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
+    [ "Register", "d3/d7b/a13034.html#aa7708067531131738b86077638eda7ac", null ],
+    [ "Validate", "d3/d7b/a13034.html#a665698b54201184185d96bd33f53e584", null ]
 ];

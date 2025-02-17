@@ -1,9 +1,7 @@
 var a10594 =
 [
-    [ "RandomRoll", "de/d21/a10594.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
-    [ "Write", "de/d21/a10594.html#aab5879874745603dd448a7f5084d60d4", null ],
-    [ "Max", "de/d21/a10594.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
-    [ "Min", "de/d21/a10594.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
-    [ "Result", "de/d21/a10594.html#a34fd2c1d018bb292836724671163ff07", null ],
-    [ "Roller", "de/d21/a10594.html#af02aa97826259885791d0f4afc0c1a84", null ]
+    [ "GuildBankActivate", "de/d21/a10594.html#a5b27541a26ada694d9635f6d6873ef20", null ],
+    [ "Read", "de/d21/a10594.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
+    [ "Banker", "de/d21/a10594.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
+    [ "FullUpdate", "de/d21/a10594.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
 ];

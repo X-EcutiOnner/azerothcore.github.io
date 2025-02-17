@@ -1,6 +1,7 @@
 var a23434 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d1/d87/a23438.html", "d1/d87/a23438" ],
-    [ "instance_arcatraz", "d2/dff/a23434.html#a6fc8860651573353b54fd26bddea32aa", null ],
-    [ "GetInstanceScript", "d2/dff/a23434.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
+    [ "FilterTargets", "d2/dff/a23434.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
+    [ "HandleHit", "d2/dff/a23434.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
+    [ "PrepareSpellScript", "d2/dff/a23434.html#a376618b9811b2e1ec18697431094e22f", null ],
+    [ "Register", "d2/dff/a23434.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
 ];

@@ -1,7 +1,10 @@
 var a26606 =
 [
-    [ "HandleApplyAura", "d6/dd4/a26606.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "d6/dd4/a26606.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "d6/dd4/a26606.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "d6/dd4/a26606.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "CalculateAPAmount", "d6/dd4/a26606.html#ae76d10c68df1f149f83d4247122b47a7", null ],
+    [ "CalculateResistanceAmount", "d6/dd4/a26606.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
+    [ "CalculateSPAmount", "d6/dd4/a26606.html#a421996ca946d5b04c264718e6dd63fa9", null ],
+    [ "CalculateStatAmount", "d6/dd4/a26606.html#ae695515c915f2452dccb71aeb018f3a3", null ],
+    [ "HandleEffectApply", "d6/dd4/a26606.html#a207864c73e485e0db0fe47bde97d87a2", null ],
+    [ "PrepareAuraScript", "d6/dd4/a26606.html#a4179be48195872410bda69cac3454812", null ],
+    [ "Register", "d6/dd4/a26606.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
 ];

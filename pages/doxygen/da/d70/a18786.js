@@ -1,7 +1,7 @@
 var a18786 =
 [
-    [ "FilterTargets", "da/d70/a18786.html#af92aec0df6c962a10ccbebb366081cfd", null ],
-    [ "PrepareSpellScript", "da/d70/a18786.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
-    [ "Register", "da/d70/a18786.html#af59416debfc7685bec92541a00e1dafe", null ],
-    [ "Validate", "da/d70/a18786.html#abbe7ae557fb510457504f72adfa0aedc", null ]
+    [ "HandleScript", "da/d70/a18786.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
+    [ "Launch", "da/d70/a18786.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
+    [ "PrepareSpellScript", "da/d70/a18786.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
+    [ "Register", "da/d70/a18786.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
 ];

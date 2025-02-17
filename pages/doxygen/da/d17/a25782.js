@@ -1,6 +1,6 @@
 var a25782 =
 [
-    [ "HandleRemove", "da/d17/a25782.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "da/d17/a25782.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "da/d17/a25782.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "CalculateAmount", "da/d17/a25782.html#a2010f58ba86d6266e9549753fdec52ed", null ],
+    [ "PrepareAuraScript", "da/d17/a25782.html#aa9ddc9f2a0ded66e81be51cec24a0e4b", null ],
+    [ "Register", "da/d17/a25782.html#acf737f74e3cb9340f3449b491e923b7f", null ]
 ];

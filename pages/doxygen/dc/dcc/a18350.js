@@ -1,6 +1,6 @@
 var a18350 =
 [
-    [ "npc_captain_brandonAI", "dc/dcc/a18350.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "dc/dcc/a18350.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "dc/dcc/a18350.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "npc_blistering_zombieAI", "d7/d4b/a18354.html", "d7/d4b/a18354" ],
+    [ "npc_blistering_zombie", "dc/dcc/a18350.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
+    [ "GetAI", "dc/dcc/a18350.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
 ];

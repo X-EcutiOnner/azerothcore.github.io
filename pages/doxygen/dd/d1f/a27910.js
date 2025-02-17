@@ -1,6 +1,8 @@
 var a27910 =
 [
-    [ "ID", "dd/d1f/a27910.html#a7d40e334785d96a2e57d28f87a59778a", null ],
-    [ "maxCount", "dd/d1f/a27910.html#a5edc6442e026b12dae654fa86440a11a", null ],
-    [ "mode", "dd/d1f/a27910.html#a76553ecf9f880a5e5967f818123742fd", null ]
+    [ "DamagedDisplayId", "dd/d1f/a27910.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
+    [ "DestroyedDisplayId", "dd/d1f/a27910.html#afc891df0c9491a34f784e8f141434be5", null ],
+    [ "Id", "dd/d1f/a27910.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
+    [ "RebuildingDisplayId", "dd/d1f/a27910.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
+    [ "SmokeDisplayId", "dd/d1f/a27910.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
 ];

@@ -1,7 +1,6 @@
 var a13974 =
 [
-    [ "PeriodicTick", "d0/d0d/a13974.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
-    [ "PrepareAuraScript", "d0/d0d/a13974.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
-    [ "Register", "d0/d0d/a13974.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
-    [ "Validate", "d0/d0d/a13974.html#a68247c2afa553411fac34582e83635c9", null ]
+    [ "instance_zulgurub_InstanceMapScript", "df/d6a/a13978.html", "df/d6a/a13978" ],
+    [ "instance_zulgurub", "d0/d0d/a13974.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
+    [ "GetInstanceScript", "d0/d0d/a13974.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
 ];

@@ -1,8 +1,6 @@
 var a20642 =
 [
-    [ "FilterTargets", "d4/deb/a20642.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "d4/deb/a20642.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "d4/deb/a20642.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "d4/deb/a20642.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "d4/deb/a20642.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "boss_yoggsaronAI", "d5/d16/a20646.html", "d5/d16/a20646" ],
+    [ "boss_yoggsaron", "d4/deb/a20642.html#a3fa3ada3979b55100b8ca9e21ec655a1", null ],
+    [ "GetAI", "d4/deb/a20642.html#a113eb034acc46a2edd4a84598413a63e", null ]
 ];

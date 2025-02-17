@@ -1,7 +1,12 @@
 var a22774 =
 [
-    [ "PrepareAuraScript", "dc/d46/a22774.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "dc/d46/a22774.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "dc/d46/a22774.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "dc/d46/a22774.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "boss_shade_of_akama", "dc/d46/a22774.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "dc/d46/a22774.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "dc/d46/a22774.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "dc/d46/a22774.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "dc/d46/a22774.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "dc/d46/a22774.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "dc/d46/a22774.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "dc/d46/a22774.html#a63372527172d3f96f533b5776221c2e7", null ],
+    [ "generators", "dc/d46/a22774.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
 ];

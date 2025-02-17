@@ -1,4 +1,7 @@
 var a09390 =
 [
-    [ "Options", "da/d2f/a09390.html#a30882f3f0415185ec12ef4d316a0b428", null ]
+    [ "PlayerAtMinimumRangeAway", "da/d2f/a09390.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
+    [ "operator()", "da/d2f/a09390.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
+    [ "fRange", "da/d2f/a09390.html#a0c58929de429694f24877525287f15a6", null ],
+    [ "unit", "da/d2f/a09390.html#a4ea0f83c3287079cff40fac15272fa94", null ]
 ];

@@ -1,7 +1,6 @@
 var a12014 =
 [
-    [ "HandleScript", "d2/d2c/a12014.html#a0d244cc1785b136bae0960d697dc761d", null ],
-    [ "PrepareSpellScript", "d2/d2c/a12014.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
-    [ "Register", "d2/d2c/a12014.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
-    [ "Validate", "d2/d2c/a12014.html#a1413754f3a79caf8ec57d394c68f3499", null ]
+    [ "boss_solakar_flamewreathAI", "d7/d87/a12018.html", "d7/d87/a12018" ],
+    [ "boss_solakar_flamewreath", "d2/d2c/a12014.html#a0d5a9f9525303014e72cd98d45bf302f", null ],
+    [ "GetAI", "d2/d2c/a12014.html#a0bd7971406392f15f68828ed217f4d06", null ]
 ];

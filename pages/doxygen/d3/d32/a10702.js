@@ -1,5 +1,8 @@
 var a10702 =
 [
-    [ "RequestPetInfo", "d3/d32/a10702.html#ae0861d1fb77fe39bb48c26505e36ed2b", null ],
-    [ "Read", "d3/d32/a10702.html#a5cc9bb57bce7dc7f24243fdc63e17870", null ]
+    [ "PlayObjectSound", "d3/d32/a10702.html#ab322044d36abddeb2fafbf99261bb70b", null ],
+    [ "PlayObjectSound", "d3/d32/a10702.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
+    [ "Write", "d3/d32/a10702.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
+    [ "SoundKitID", "d3/d32/a10702.html#a5e794706b8793d164a1189e9a6918735", null ],
+    [ "SourceObjectGUID", "d3/d32/a10702.html#a82b226eba66e569c1f377f529e511361", null ]
 ];

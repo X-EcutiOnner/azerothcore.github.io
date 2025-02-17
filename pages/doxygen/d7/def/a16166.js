@@ -1,7 +1,6 @@
 var a16166 =
 [
-    [ "npc_toc_warriorAI", "d7/def/a16166.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
-    [ "myCanCast", "d7/def/a16166.html#ac815e13cbbe9a8833330e15213420c65", null ],
-    [ "UpdateAI", "d7/def/a16166.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
-    [ "events", "d7/def/a16166.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
+    [ "npc_swarm_scarabAI", "d7/d9a/a16170.html", "d7/d9a/a16170" ],
+    [ "npc_swarm_scarab", "d7/def/a16166.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "d7/def/a16166.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

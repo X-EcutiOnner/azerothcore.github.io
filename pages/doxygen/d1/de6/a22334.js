@@ -1,8 +1,6 @@
 var a22334 =
 [
-    [ "boss_pandemonius", "d1/de6/a22334.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "d1/de6/a22334.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "d1/de6/a22334.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "d1/de6/a22334.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "d1/de6/a22334.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "OutdoorPvPGH", "d1/de6/a22334.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "SendRemoveWorldStates", "d1/de6/a22334.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "d1/de6/a22334.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

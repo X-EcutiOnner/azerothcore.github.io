@@ -1,6 +1,7 @@
 var a09862 =
 [
-    [ "FallInitializer", "df/df7/a09862.html#a618345df62b821d286caadc7179b7d83", null ],
-    [ "operator()", "df/df7/a09862.html#a7a9b294b6820e229cd95f4fc9bde825b", null ],
-    [ "start_elevation", "df/df7/a09862.html#ab94604fb6eee50832001908c12044130", null ]
+    [ "Finalize", "df/df7/a09862.html#a90c8b42ef67968bf58acae5678dc7496", null ],
+    [ "Initialize", "df/df7/a09862.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
+    [ "Reset", "df/df7/a09862.html#a6db99ea9863dc60d032bacda37afa078", null ],
+    [ "Update", "df/df7/a09862.html#af044c8725ef11e8a152987225521ef8b", null ]
 ];

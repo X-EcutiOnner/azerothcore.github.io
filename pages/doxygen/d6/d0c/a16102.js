@@ -1,7 +1,8 @@
 var a16102 =
 [
-    [ "npc_toc_shamanAI", "d6/d0c/a16102.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
-    [ "myCanCast", "d6/d0c/a16102.html#a993739662d2687c27219853669b8a485", null ],
-    [ "UpdateAI", "d6/d0c/a16102.html#a2ad17245685feb3f085ef9a669459c61", null ],
-    [ "events", "d6/d0c/a16102.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d6/d0c/a16102.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "d6/d0c/a16102.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "d6/d0c/a16102.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "d6/d0c/a16102.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "d6/d0c/a16102.html#a74b5fb1d3631c404e7797085e45e6159", null ]
 ];

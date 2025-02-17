@@ -1,6 +1,7 @@
 var a19166 =
 [
-    [ "PrepareSpellScript", "dd/d80/a19166.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "dd/d80/a19166.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "dd/d80/a19166.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "HandlePull", "dd/d80/a19166.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "dd/d80/a19166.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "dd/d80/a19166.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "dd/d80/a19166.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

@@ -1,7 +1,6 @@
 var a14450 =
 [
-    [ "OnRemove", "d0/df2/a14450.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "d0/df2/a14450.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "d0/df2/a14450.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "d0/df2/a14450.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "HandleHit", "d0/df2/a14450.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
+    [ "PrepareSpellScript", "d0/df2/a14450.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
+    [ "Register", "d0/df2/a14450.html#a64a861b5c25df5780390aa55899393d7", null ]
 ];

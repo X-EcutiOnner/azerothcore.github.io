@@ -1,9 +1,7 @@
 var a25074 =
 [
-    [ "spell_gen_translocate", "d4/d16/a25074.html#a56a3df0eba3e1521aa2898194c39e919", null ],
-    [ "HandleScript", "d4/d16/a25074.html#a67684fb76da60fdc13dbece055dae157", null ],
-    [ "PrepareSpellScript", "d4/d16/a25074.html#a6f0986e54ad410c2f42a7935645485ed", null ],
-    [ "Register", "d4/d16/a25074.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
-    [ "Validate", "d4/d16/a25074.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
-    [ "_spellId", "d4/d16/a25074.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
+    [ "HandleEffectPeriodic", "d4/d16/a25074.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
+    [ "PrepareAuraScript", "d4/d16/a25074.html#affc698127fe0656df25bd094c02a7e50", null ],
+    [ "Register", "d4/d16/a25074.html#a4707bfaeb86b3540920a6772e1726e26", null ],
+    [ "Validate", "d4/d16/a25074.html#aef839f163d7e623a54b163e1c27542cd", null ]
 ];

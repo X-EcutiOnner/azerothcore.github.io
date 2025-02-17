@@ -1,6 +1,6 @@
 var a13214 =
 [
-    [ "HandleSendEvent", "d2/d65/a13214.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "d2/d65/a13214.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "d2/d65/a13214.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "CastArmageddon", "d2/d65/a13214.html#a2e90929b63e6151252aa01a55dbd801f", null ],
+    [ "Execute", "d2/d65/a13214.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
+    [ "_caster", "d2/d65/a13214.html#a1e70887099a7a47b7c26517d4363ad93", null ]
 ];

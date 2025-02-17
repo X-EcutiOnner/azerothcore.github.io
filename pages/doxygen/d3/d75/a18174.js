@@ -1,14 +1,9 @@
 var a18174 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d3/d75/a18174.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
-    [ "AttackStart", "d3/d75/a18174.html#a5457c18c60a8301ea60ef34d810a14c9", null ],
-    [ "CanAIAttack", "d3/d75/a18174.html#aaf12ae21dddfa6b47ffa7880f65487a4", null ],
-    [ "DoAction", "d3/d75/a18174.html#abbd08537ed245084ca7d4cf852a749a2", null ],
-    [ "EnterEvadeMode", "d3/d75/a18174.html#a32bd4ed61bc62206ccedcf4acaeb8df8", null ],
-    [ "JustEngagedWith", "d3/d75/a18174.html#ad7385306f8058699ee004b7bc5f1b538", null ],
-    [ "JustReachedHome", "d3/d75/a18174.html#a2ae1c178a84c6d6899cf6400cb963e44", null ],
-    [ "MoveInLineOfSight", "d3/d75/a18174.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
-    [ "Reset", "d3/d75/a18174.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ],
-    [ "UpdateAI", "d3/d75/a18174.html#a89ce158e08b3da1e54b0be6caa3950b8", null ],
-    [ "checkTimer", "d3/d75/a18174.html#ae5c238e2e201c431ceccc59a3a26078b", null ]
+    [ "HandleScript", "d3/d75/a18174.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
+    [ "Load", "d3/d75/a18174.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
+    [ "PrepareSpellScript", "d3/d75/a18174.html#a73931c9434114749b9db648665153083", null ],
+    [ "Register", "d3/d75/a18174.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
+    [ "SelectTarget", "d3/d75/a18174.html#a95be527c43ceeb4801f4e494753c1b59", null ],
+    [ "_target", "d3/d75/a18174.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
 ];

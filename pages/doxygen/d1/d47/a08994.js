@@ -1,13 +1,6 @@
 var a08994 =
 [
-    [ "WorldObjectListSearcher", "d1/d47/a08994.html#aad6ee62da3f21c7838767dd3af871ad7", null ],
-    [ "Visit", "d1/d47/a08994.html#a154998e616ba17d66cf4899debc92ca1", null ],
-    [ "Visit", "d1/d47/a08994.html#a64e8d7854baa93e4390703fe986f6777", null ],
-    [ "Visit", "d1/d47/a08994.html#a28ded6ec2d69f1a1bd298a9aa11206e1", null ],
-    [ "Visit", "d1/d47/a08994.html#a18572bc1f4cfde19476ac9df393296b2", null ],
-    [ "Visit", "d1/d47/a08994.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7", null ],
-    [ "Visit", "d1/d47/a08994.html#a8cebd0149bfccc4fdeb30dda9505f0c0", null ],
-    [ "i_check", "d1/d47/a08994.html#a6ae05d2ed15201356600cda7d0d5a6c3", null ],
-    [ "i_mapTypeMask", "d1/d47/a08994.html#a1d6dc64937ae790d7414456e4644c13b", null ],
-    [ "i_phaseMask", "d1/d47/a08994.html#a6b29bb94ed2ec6f508b25d45c11f72fd", null ]
+    [ "m_guid", "d1/d47/a08994.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
+    [ "m_instance", "d1/d47/a08994.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
+    [ "m_state", "d1/d47/a08994.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
 ];

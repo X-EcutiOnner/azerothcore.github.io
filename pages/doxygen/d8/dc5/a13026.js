@@ -1,6 +1,7 @@
 var a13026 =
 [
-    [ "CorruptTriggers", "d8/dc5/a13026.html#a5ec60254ee2ac299ce99164189087a1c", null ],
-    [ "Execute", "d8/dc5/a13026.html#a9929f3518f307e0b753782967f06c6c1", null ],
-    [ "_caster", "d8/dc5/a13026.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ]
+    [ "HandleScript", "d8/dc5/a13026.html#acbff60b24bd0239880378b48cb97b6a4", null ],
+    [ "PrepareSpellScript", "d8/dc5/a13026.html#a2f72b76ced4443a8eb1dfcf7bf6a4ac5", null ],
+    [ "Register", "d8/dc5/a13026.html#a132d35555f1d589caa65ecd3728976d5", null ],
+    [ "Validate", "d8/dc5/a13026.html#a503ce41357f8195837c9b14f2468fb5b", null ]
 ];

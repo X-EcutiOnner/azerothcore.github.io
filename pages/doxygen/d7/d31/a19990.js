@@ -1,5 +1,5 @@
 var a19990 =
 [
-    [ "achievement_getting_cold_in_here", "d7/d31/a19990.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "d7/d31/a19990.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "achievement_shadowdodger", "d7/d31/a19990.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
+    [ "OnCheck", "d7/d31/a19990.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
 ];

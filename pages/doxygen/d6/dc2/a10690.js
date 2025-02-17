@@ -1,8 +1,9 @@
 var a10690 =
 [
-    [ "PetSpellAutocast", "d6/dc2/a10690.html#ab858647d14031a2a6109d1e923402d08", null ],
-    [ "Read", "d6/dc2/a10690.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
-    [ "AutocastEnabled", "d6/dc2/a10690.html#a3c04543dcd5382682654b3860b84c6a3", null ],
-    [ "PetGUID", "d6/dc2/a10690.html#aeed828abebf683078ee61204c91e28c9", null ],
-    [ "SpellID", "d6/dc2/a10690.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
+    [ "Weather", "d6/dc2/a10690.html#aa404c94fec05b825454a7309827767c6", null ],
+    [ "Weather", "d6/dc2/a10690.html#a28f45d81441d2dde6917380978dfb4d0", null ],
+    [ "Write", "d6/dc2/a10690.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
+    [ "Abrupt", "d6/dc2/a10690.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
+    [ "Intensity", "d6/dc2/a10690.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
+    [ "WeatherID", "d6/dc2/a10690.html#a32e56458b1e562c124cfc0288a578134", null ]
 ];

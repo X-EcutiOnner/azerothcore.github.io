@@ -1,5 +1,6 @@
 var a10390 =
 [
-    [ "AcceptGuildInvite", "d6/d23/a10390.html#a4453fc550871082f6295d9229eef265a", null ],
-    [ "Read", "d6/d23/a10390.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
+    [ "BuyBankSlot", "d6/d23/a10390.html#a0bc11087e9359c6ac762f915b11287d8", null ],
+    [ "Read", "d6/d23/a10390.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
+    [ "Banker", "d6/d23/a10390.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
 ];

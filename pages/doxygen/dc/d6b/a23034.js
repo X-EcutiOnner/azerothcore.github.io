@@ -1,7 +1,6 @@
 var a23034 =
 [
-    [ "HandleScriptEffect", "dc/d6b/a23034.html#ad5e905710a20436f120c979c865571c9", null ],
-    [ "PrepareSpellScript", "dc/d6b/a23034.html#ab44aa98f47162b50f30622d67ac75395", null ],
-    [ "Register", "dc/d6b/a23034.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
-    [ "Validate", "dc/d6b/a23034.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
+    [ "HandleScriptEffect", "dc/d6b/a23034.html#a9e42f1af6fabb7df066cc2488a831418", null ],
+    [ "PrepareSpellScript", "dc/d6b/a23034.html#a866496b087288a3cb8f00d4dbdb5d2ec", null ],
+    [ "Register", "dc/d6b/a23034.html#a0fdb5d866d714d1d3bc71c4439a7f593", null ]
 ];

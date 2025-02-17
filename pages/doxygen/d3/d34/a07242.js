@@ -1,9 +1,10 @@
 var a07242 =
 [
-    [ "BattlegroundEYLosingPointStruct", "d3/d34/a07242.html#ae3f19e55206e1a8097fe173a8a37aa12", null ],
-    [ "DespawnObjectTypeAlliance", "d3/d34/a07242.html#a210828d05ea9948484631b7408a3bb4b", null ],
-    [ "DespawnObjectTypeHorde", "d3/d34/a07242.html#a335205cb71b7055db4c01a5e562001b6", null ],
-    [ "MessageIdAlliance", "d3/d34/a07242.html#afe89eccc8c21351edb4ce943d937e521", null ],
-    [ "MessageIdHorde", "d3/d34/a07242.html#a8295974ee1f663dd0d22bcc4f0e0fa92", null ],
-    [ "SpawnNeutralObjectType", "d3/d34/a07242.html#a57c1a6f485ea6617b5218da411cae38f", null ]
+    [ "ArenaLogEntryData", "d3/d34/a07242.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
+    [ "Fill", "d3/d34/a07242.html#aa3cca4521431bf152550611549bf4bbe", null ],
+    [ "Acc", "d3/d34/a07242.html#aa8983930063298c86f4635d2ae3078fe", null ],
+    [ "ArenaTeamId", "d3/d34/a07242.html#ac764620c3c8a986286fd74062dac4645", null ],
+    [ "Guid", "d3/d34/a07242.html#a03b32cd44c655dcc9104aead3b76454e", null ],
+    [ "IP", "d3/d34/a07242.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
+    [ "Name", "d3/d34/a07242.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
 ];

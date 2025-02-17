@@ -1,17 +1,10 @@
 var a03623 =
 [
-    [ "AddSC_deathknight_spell_scripts", "df/d42/a03623.html#adcd4982e9aa1bb7ee8b4b39976cb7273", null ],
-    [ "AddSC_druid_spell_scripts", "df/d42/a03623.html#a27c286499ee0c44de84c8f14e5c82d50", null ],
-    [ "AddSC_generic_spell_scripts", "df/d42/a03623.html#ac2941716297c47e58e65de027a53ce16", null ],
-    [ "AddSC_hunter_spell_scripts", "df/d42/a03623.html#af7e6bdb12ab989b575a1dca18382ea7c", null ],
-    [ "AddSC_item_spell_scripts", "df/d42/a03623.html#a7c83be18daa3cdaab096b0caf49520a2", null ],
-    [ "AddSC_mage_spell_scripts", "df/d42/a03623.html#a504d82c8e95f93fa88a54d34e919ed57", null ],
-    [ "AddSC_paladin_spell_scripts", "df/d42/a03623.html#a1b3a1eb790e51c96829e92e5c922f437", null ],
-    [ "AddSC_priest_spell_scripts", "df/d42/a03623.html#a0b0a2df1c9b8607784e59887025677c4", null ],
-    [ "AddSC_quest_spell_scripts", "df/d42/a03623.html#aeb9d6863ab0326c3d6f1ac2c16d9f75c", null ],
-    [ "AddSC_rogue_spell_scripts", "df/d42/a03623.html#a540405afe3345e19487d2db693272b2a", null ],
-    [ "AddSC_shaman_spell_scripts", "df/d42/a03623.html#a3082f46075e4e453c37bc429c9d57a1a", null ],
-    [ "AddSC_warlock_spell_scripts", "df/d42/a03623.html#a2054657c41c2347732a7d2903e3b8138", null ],
-    [ "AddSC_warrior_spell_scripts", "df/d42/a03623.html#a9c003dba1ff10c2e27f5ee3d4109549f", null ],
-    [ "AddSpellsScripts", "df/d42/a03623.html#aed7f09583615630437020215a3851296", null ]
+    [ "AutobroadcastMgr", "d5/d2f/a07094.html", "d5/d2f/a07094" ],
+    [ "sAutobroadcastMgr", "df/d42/a03623.html#a34abff2dadcb74370b0749fe9fda3878", null ],
+    [ "AnnounceType", "df/d42/a03623.html#a28a4ef2f64643c76d8be05bf9eafc731", [
+      [ "World", "df/d42/a03623.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],
+      [ "Notification", "df/d42/a03623.html#a28a4ef2f64643c76d8be05bf9eafc731a96d008db67fc0b5551a926842bbb6a71", null ],
+      [ "Both", "df/d42/a03623.html#a28a4ef2f64643c76d8be05bf9eafc731a130c5b3473c57faa76e2a1c54e26f88e", null ]
+    ] ]
 ];

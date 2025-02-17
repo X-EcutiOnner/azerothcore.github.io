@@ -1,7 +1,6 @@
 var a23614 =
 [
-    [ "boss_gatewatcher_iron_hand", "d9/df4/a23614.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "d9/df4/a23614.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "d9/df4/a23614.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "d9/df4/a23614.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "HandlePeriodic", "d9/df4/a23614.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "d9/df4/a23614.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "d9/df4/a23614.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

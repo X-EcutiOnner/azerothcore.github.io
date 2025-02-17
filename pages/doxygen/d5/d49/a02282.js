@@ -1,8 +1,6 @@
 var a02282 =
 [
-    [ "CliThread", "d7/d47/a04685.html#ga2a2e263e5224262317a4728b5a4c18ac", null ],
-    [ "commandFinished", "d7/d47/a04685.html#gaf86bc63df807e80b7a14688e48340fea", null ],
-    [ "PrintCliPrefix", "d7/d47/a04685.html#ga6553c1ff0337c88fb9f9d94a97f49b9a", null ],
-    [ "utf8print", "d7/d47/a04685.html#gacf6bc075c8e41c95b5633526721136ce", null ],
-    [ "CLI_PREFIX", "d7/d47/a04685.html#ga77eabd925e8f9aa379616b264e287cea", null ]
+    [ "ChatHandler", "d2/d57/a07458.html", "d2/d57/a07458" ],
+    [ "CliHandler", "d4/d36/a07462.html", "d4/d36/a07462" ],
+    [ "AddonChannelCommandHandler", "db/d86/a07466.html", "db/d86/a07466" ]
 ];

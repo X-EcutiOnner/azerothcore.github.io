@@ -1,7 +1,5 @@
 var a26866 =
 [
-    [ "FilterTargets", "df/dfc/a26866.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "df/dfc/a26866.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "df/dfc/a26866.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "df/dfc/a26866.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "achievement_not_even_a_scratch", "df/dfc/a26866.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "df/dfc/a26866.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

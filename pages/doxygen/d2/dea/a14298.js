@@ -1,7 +1,5 @@
 var a14298 =
 [
-    [ "HandleOnHit", "d2/dea/a14298.html#ae3241486a612293b5421a523f6d854d9", null ],
-    [ "PrepareSpellScript", "d2/dea/a14298.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
-    [ "Register", "d2/dea/a14298.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
-    [ "Validate", "d2/dea/a14298.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
+    [ "PrepareSpellScript", "d2/dea/a14298.html#a50ee42c11937759b6c52c2ab994481c4", null ],
+    [ "Register", "d2/dea/a14298.html#a8dc12a723c2da948c38119e3fc34df35", null ]
 ];

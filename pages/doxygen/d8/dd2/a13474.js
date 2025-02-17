@@ -1,8 +1,12 @@
 var a13474 =
 [
-    [ "npc_the_scourge_cauldronAI", "d8/dd2/a13474.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
-    [ "DoDie", "d8/dd2/a13474.html#a9f720a27db2943a66b11ad6355690bf5", null ],
-    [ "JustEngagedWith", "d8/dd2/a13474.html#a89954dec2f7d57d933c18822333243ac", null ],
-    [ "MoveInLineOfSight", "d8/dd2/a13474.html#a256195dbe75859d72afcd0defb9ff76e", null ],
-    [ "Reset", "d8/dd2/a13474.html#ab18bb2eb344f45827685786c665b1750", null ]
+    [ "npc_corporal_keeshanAI", "d8/dd2/a13474.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
+    [ "Reset", "d8/dd2/a13474.html#a311488932a3de9153490d41e3fae92fb", null ],
+    [ "sQuestAccept", "d8/dd2/a13474.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
+    [ "UpdateAI", "d8/dd2/a13474.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
+    [ "WaypointReached", "d8/dd2/a13474.html#a3edc9ab54068e47f955116db70454f6c", null ],
+    [ "mockingBlowTimer", "d8/dd2/a13474.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
+    [ "phase", "d8/dd2/a13474.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
+    [ "shieldBashTimer", "d8/dd2/a13474.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
+    [ "timer", "d8/dd2/a13474.html#a3107368f175aa7f4e8c405248ef917df", null ]
 ];

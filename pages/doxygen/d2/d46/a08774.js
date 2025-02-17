@@ -1,8 +1,7 @@
 var a08774 =
 [
-    [ "MailLevelReward", "d2/d46/a08774.html#accd52642cbbab457b69dba54a6ffa23b", null ],
-    [ "MailLevelReward", "d2/d46/a08774.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
-    [ "mailTemplateId", "d2/d46/a08774.html#afdf6684bcd2751822bd00ba1509ef933", null ],
-    [ "raceMask", "d2/d46/a08774.html#a341088acd89b79161d932367f4f1798d", null ],
-    [ "senderEntry", "d2/d46/a08774.html#a2b678ac953209691b38d583cffab55b5", null ]
+    [ "EquipementIdPrev", "d2/d46/a08774.html#a719c716f8914a200bfde4f5bb3275f26", null ],
+    [ "EquipmentId", "d2/d46/a08774.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
+    [ "ModelId", "d2/d46/a08774.html#ade2b2413020be410428b9fee9aa284d6", null ],
+    [ "ModelIdPrev", "d2/d46/a08774.html#a9de7aa11788b22692738b72718193057", null ]
 ];

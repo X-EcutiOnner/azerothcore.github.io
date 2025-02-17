@@ -1,9 +1,12 @@
 var a12634 =
 [
-    [ "npc_eye_of_acherus", "da/d0e/a12634.html#a1e0ed0eb0e32cb2e8a5d86869359db6c", null ],
-    [ "InitializeAI", "da/d0e/a12634.html#aea655b94bcd590835882793d916d7865", null ],
-    [ "MovementInform", "da/d0e/a12634.html#a5e0a360015fdfb1c6a277ba13583a584", null ],
-    [ "OnCharmed", "da/d0e/a12634.html#a9a9d274a503ebe06fa503f433f53b0e6", null ],
-    [ "UpdateAI", "da/d0e/a12634.html#a092592d0c9ec0f5a95fe550bed559f0e", null ],
-    [ "_events", "da/d0e/a12634.html#a08b2eb3aff837408decaa5fa087f5054", null ]
+    [ "boss_bigbadwolf", "da/d0e/a12634.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
+    [ "EnterEvadeMode", "da/d0e/a12634.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
+    [ "JustDied", "da/d0e/a12634.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
+    [ "JustEngagedWith", "da/d0e/a12634.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
+    [ "JustReachedHome", "da/d0e/a12634.html#a7755bf925d919c73075a41f8774280c0", null ],
+    [ "KilledUnit", "da/d0e/a12634.html#a8e004a1feac796ed467eba744f211827", null ],
+    [ "UpdateAI", "da/d0e/a12634.html#ab788a0155a3ffe6535d58263eea16dee", null ],
+    [ "_scheduler", "da/d0e/a12634.html#a661d9b619be30764ba5b89d71de870e9", null ],
+    [ "instance", "da/d0e/a12634.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
 ];

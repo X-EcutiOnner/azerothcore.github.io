@@ -1,5 +1,6 @@
 var a13238 =
 [
-    [ "npc_maredis_firestarAI", "d7/d06/a13242.html", "d7/d06/a13242" ],
-    [ "npc_maredis_firestar", "d8/d3b/a13238.html#a91015d70203597db3dda10b695565740", null ]
+    [ "HandlePeriodic", "d8/d3b/a13238.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
+    [ "PrepareAuraScript", "d8/d3b/a13238.html#a7ac99d626990f068a00f403847bfa6bc", null ],
+    [ "Register", "d8/d3b/a13238.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
 ];

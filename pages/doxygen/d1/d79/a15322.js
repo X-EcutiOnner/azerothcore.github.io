@@ -1,7 +1,6 @@
 var a15322 =
 [
-    [ "npc_steward_of_time", "d1/d79/a15322.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnGossipHello", "d1/d79/a15322.html#a3b61038393c3addbbfa6643438164db3", null ],
-    [ "OnGossipSelect", "d1/d79/a15322.html#af4fe13e266a98129b92e5a25188d947c", null ],
-    [ "OnQuestAccept", "d1/d79/a15322.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "npc_silva_filnaveth", "d1/d79/a15322.html#a5998381865214a7b3af7823bd2557cb0", null ],
+    [ "OnGossipHello", "d1/d79/a15322.html#a32019c17271a3f504d86cd694262fd53", null ],
+    [ "OnGossipSelect", "d1/d79/a15322.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
 ];

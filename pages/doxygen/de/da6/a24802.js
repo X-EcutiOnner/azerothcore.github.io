@@ -1,8 +1,6 @@
 var a24802 =
 [
-    [ "AchievementCredit", "de/da6/a24802.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "de/da6/a24802.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "de/da6/a24802.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "de/da6/a24802.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "de/da6/a24802.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "HandleOnEffectHit", "de/da6/a24802.html#a07b15e180ee79149cad15b32b3c94359", null ],
+    [ "PrepareSpellScript", "de/da6/a24802.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
+    [ "Register", "de/da6/a24802.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
 ];

@@ -1,6 +1,8 @@
 var a24598 =
 [
-    [ "CheckAreaTarget", "dd/dd7/a24598.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "dd/dd7/a24598.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "dd/dd7/a24598.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "AfterApply", "dd/dd7/a24598.html#a4d2941ebb326d603ac08f428f811c29b", null ],
+    [ "AfterRemove", "dd/dd7/a24598.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
+    [ "PrepareAuraScript", "dd/dd7/a24598.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
+    [ "Register", "dd/dd7/a24598.html#a78e30a950b9fc08dff5072028816b8b4", null ],
+    [ "Validate", "dd/dd7/a24598.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
 ];

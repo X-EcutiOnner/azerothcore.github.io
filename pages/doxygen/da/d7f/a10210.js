@@ -1,6 +1,7 @@
 var a10210 =
 [
-    [ "WorldMapScript", "da/d7f/a10210.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
-    [ "checkValidity", "da/d7f/a10210.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
-    [ "isAfterLoadScript", "da/d7f/a10210.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
+    [ "DatabaseScript", "da/d7f/a10210.html#aab34b85df1a5ccdf17fede64baca4994", null ],
+    [ "IsDatabaseBound", "da/d7f/a10210.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
+    [ "OnAfterDatabaseLoadCreatureTemplates", "da/d7f/a10210.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
+    [ "OnAfterDatabasesLoaded", "da/d7f/a10210.html#ab52afc833cb462693f5e0d79cff6bb3f", null ]
 ];

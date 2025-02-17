@@ -1,5 +1,5 @@
 var a05182 =
 [
-    [ "_elements", "da/d1b/a05182.html#adca71d306b9b5ee6b1dc0dc75cec1f2c", null ],
-    [ "_TailElements", "da/d1b/a05182.html#a7d3b640a8d68089436c3792b3db088f1", null ]
+    [ "~Permissible", "da/d1b/a05182.html#a9ed19d14dda478fe1ff6cb092d684be2", null ],
+    [ "Permit", "da/d1b/a05182.html#a0fccdbc46c9bafea63757ceee62b0385", null ]
 ];

@@ -1,19 +1,13 @@
 var a10034 =
 [
-    [ "AllGameObjectScript", "de/d67/a10034.html#ac6640c81043e19d7c73ed6208dd119dd", null ],
-    [ "CanGameObjectGossipHello", "de/d67/a10034.html#a33efc883fe64cdc52aa9b03f9377da97", null ],
-    [ "CanGameObjectGossipSelect", "de/d67/a10034.html#a317305c7dc81fede50d73f65fbc2bb42", null ],
-    [ "CanGameObjectGossipSelectCode", "de/d67/a10034.html#ac0b0ce8b06f371a6adfb69b926797790", null ],
-    [ "CanGameObjectQuestAccept", "de/d67/a10034.html#a0c99183b04355ecfb3460bc371b58805", null ],
-    [ "CanGameObjectQuestReward", "de/d67/a10034.html#a55eb61a5e4386908db998ceff1dff359", null ],
-    [ "GetGameObjectAI", "de/d67/a10034.html#afe0c610693bc883415952ba350596788", null ],
-    [ "OnGameObjectAddWorld", "de/d67/a10034.html#ae07275a83e4e1ae65371739bdc342d7f", null ],
-    [ "OnGameObjectDamaged", "de/d67/a10034.html#ab551bd870ab2e6513d95fcfb3e62d8c5", null ],
-    [ "OnGameObjectDestroyed", "de/d67/a10034.html#a3861b881456c1af3e9231d90519367d6", null ],
-    [ "OnGameObjectLootStateChanged", "de/d67/a10034.html#a599b35bb426d3c91c5457c838bfe910d", null ],
-    [ "OnGameObjectModifyHealth", "de/d67/a10034.html#a4d5607d755f044fed3a23c122bceddff", null ],
-    [ "OnGameObjectRemoveWorld", "de/d67/a10034.html#aca2171a8521195f06ea00c21f219d8f5", null ],
-    [ "OnGameObjectSaveToDB", "de/d67/a10034.html#ae4bb28ae318f13a72109a3874f2ca12d", null ],
-    [ "OnGameObjectStateChanged", "de/d67/a10034.html#ab0ab47240bdb815d404f8bd41fb3bdaa", null ],
-    [ "OnGameObjectUpdate", "de/d67/a10034.html#ada8cc5373b75025199ca62856242d0ab", null ]
+    [ "entry", "de/d67/a10034.html#a300fb240386044aab139e777d6244d19", null ],
+    [ "map", "de/d67/a10034.html#a2ec529bbd5b03490899a5c3a41cf739a", null ],
+    [ "o", "de/d67/a10034.html#a379e36eac68d8ff487c90fdb9be0e83d", null ],
+    [ "rot0", "de/d67/a10034.html#a8b808a7545a7efaf0bf352ec663ca9ba", null ],
+    [ "rot1", "de/d67/a10034.html#a9aa433644fc5bedbb3749eacfd9a57fd", null ],
+    [ "rot2", "de/d67/a10034.html#ae7c9755e9ae6293b3be8bdc121040f7f", null ],
+    [ "rot3", "de/d67/a10034.html#a60460fc3030b24eef0246dae28af2282", null ],
+    [ "x", "de/d67/a10034.html#a1587c3d17c78e1a94a1f2bc30b831c02", null ],
+    [ "y", "de/d67/a10034.html#ab42ebe981ba589e3d67110487bd88255", null ],
+    [ "z", "de/d67/a10034.html#a389d430f290dbb66d46ccb81daac6f0d", null ]
 ];

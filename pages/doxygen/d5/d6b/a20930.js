@@ -1,11 +1,10 @@
 var a20930 =
 [
-    [ "boss_archavonAI", "d5/d6b/a20930.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "d5/d6b/a20930.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "d5/d6b/a20930.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "d5/d6b/a20930.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "d5/d6b/a20930.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "d5/d6b/a20930.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "d5/d6b/a20930.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "d5/d6b/a20930.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "npc_enslaved_proto_drake", "d5/d6b/a20930.html#aec835fdc8b1beb270176d5341d26c265", null ],
+    [ "MovementInform", "d5/d6b/a20930.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
+    [ "Reset", "d5/d6b/a20930.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
+    [ "SetData", "d5/d6b/a20930.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
+    [ "UpdateAI", "d5/d6b/a20930.html#a252f84198df610bac44b6bd9cd80602e", null ],
+    [ "_events", "d5/d6b/a20930.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
+    [ "_setData", "d5/d6b/a20930.html#adb997badd8831dea7763eaecc93b7773", null ]
 ];

@@ -1,6 +1,5 @@
 var a26858 =
 [
-    [ "boss_taerarAI", "da/da4/a26862.html", "da/da4/a26862" ],
-    [ "boss_taerar", "d1/d68/a26858.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "d1/d68/a26858.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "achievement_sa_defense_of_the_ancients", "d1/d68/a26858.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "d1/d68/a26858.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

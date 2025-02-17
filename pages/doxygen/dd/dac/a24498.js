@@ -1,8 +1,11 @@
 var a24498 =
 [
-    [ "AfterApply", "dd/dac/a24498.html#a9c2591beacd941893338109719c03e3f", null ],
-    [ "AfterRemove", "dd/dac/a24498.html#a0be2a66b615dd926de7073392a8e5062", null ],
-    [ "PrepareAuraScript", "dd/dac/a24498.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
-    [ "Register", "dd/dac/a24498.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
-    [ "Validate", "dd/dac/a24498.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
+    [ "CalcPeriodic", "dd/dac/a24498.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
+    [ "CalculateAPAmount", "dd/dac/a24498.html#ab23f26c3470f629f0a20f28faf272a68", null ],
+    [ "CalculateHealthAmount", "dd/dac/a24498.html#a4f827a906ac279e143ba8545545090ad", null ],
+    [ "CalculateSPAmount", "dd/dac/a24498.html#ae94493ffed217a218e21c05e002cec00", null ],
+    [ "HandleEffectApply", "dd/dac/a24498.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
+    [ "HandlePeriodic", "dd/dac/a24498.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
+    [ "PrepareAuraScript", "dd/dac/a24498.html#a5052689d815e0a0543693b39b7454deb", null ],
+    [ "Register", "dd/dac/a24498.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
 ];

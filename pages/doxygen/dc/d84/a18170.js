@@ -1,6 +1,6 @@
 var a18170 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d3/d75/a18174.html", "d3/d75/a18174" ],
-    [ "npc_green_dragon_combat_trigger", "dc/d84/a18170.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "dc/d84/a18170.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "ModDestHeight", "dc/d84/a18170.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "dc/d84/a18170.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "dc/d84/a18170.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

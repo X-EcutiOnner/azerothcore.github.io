@@ -1,14 +1,15 @@
 var a14682 =
 [
-    [ "boss_buru", "d4/df9/a14682.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
-    [ "ChaseNewVictim", "d4/df9/a14682.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
-    [ "DamageTaken", "d4/df9/a14682.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
-    [ "EnterEvadeMode", "d4/df9/a14682.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
-    [ "JustDied", "d4/df9/a14682.html#a6d8f3265dca889bc49e747471da8597f", null ],
-    [ "JustEngagedWith", "d4/df9/a14682.html#a61eeeb3eb1684943e94367a9318b3035", null ],
-    [ "KilledUnit", "d4/df9/a14682.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
-    [ "ManipulateEggs", "d4/df9/a14682.html#a4f8a92eab729c975443579560edb03a3", null ],
-    [ "SpellHit", "d4/df9/a14682.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
-    [ "UpdateAI", "d4/df9/a14682.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
-    [ "_phase", "d4/df9/a14682.html#aa395967af50f2a422bf1e81a087efc43", null ]
+    [ "npc_time_rift", "d4/df9/a14682.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
+    [ "DoSelectSummon", "d4/df9/a14682.html#af2932c60efaea64d27d52b118b9a8095", null ],
+    [ "DoSummonAtRift", "d4/df9/a14682.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
+    [ "JustSummoned", "d4/df9/a14682.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
+    [ "Reset", "d4/df9/a14682.html#ad08ca716f120a45ee1688e03d2049aba", null ],
+    [ "SummonedCreatureDies", "d4/df9/a14682.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
+    [ "UpdateAI", "d4/df9/a14682.html#ab5924378c7978c6fae95f9861040c63d", null ],
+    [ "_events", "d4/df9/a14682.html#a12ffd459f8d63f299269da5b65f60128", null ],
+    [ "_instance", "d4/df9/a14682.html#a8eab9c3011c885321d59e2884318d0e8", null ],
+    [ "_riftKeeperGUID", "d4/df9/a14682.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
+    [ "waveMobIndex", "d4/df9/a14682.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
+    [ "waveMobs", "d4/df9/a14682.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
 ];

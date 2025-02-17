@@ -1,6 +1,8 @@
 var a27254 =
 [
-    [ "npc_air_force_botsAI", "d1/dfe/a27258.html", "d1/dfe/a27258" ],
-    [ "npc_air_force_bots", "db/d9c/a27254.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "db/d9c/a27254.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "trigger_periodicAI", "db/d9c/a27254.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "db/d9c/a27254.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "db/d9c/a27254.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "db/d9c/a27254.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "db/d9c/a27254.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

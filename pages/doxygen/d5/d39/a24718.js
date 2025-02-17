@@ -1,7 +1,9 @@
 var a24718 =
 [
-    [ "HandleScript", "d5/d39/a24718.html#a628fbc7ef23ce8f93d132f7bf518d4d8", null ],
-    [ "PrepareSpellScript", "d5/d39/a24718.html#a8e5aa0a33907c5216299734a928de2fd", null ],
-    [ "Register", "d5/d39/a24718.html#a9e25da03bbbea35f13420c14c6fab0d5", null ],
-    [ "Validate", "d5/d39/a24718.html#a30cc03ed0c19074dc1fde4951a061815", null ]
+    [ "spell_gen_select_target_count", "d5/d39/a24718.html#a65507c155a8746ff49c58c051b7868e4", null ],
+    [ "FilterTargets", "d5/d39/a24718.html#a5de89be9ce321a0f4ac49853a700b502", null ],
+    [ "PrepareSpellScript", "d5/d39/a24718.html#a42ddce15414dcdf495b572e0f75e9486", null ],
+    [ "Register", "d5/d39/a24718.html#a94f86992275123e2e3989655cf077efd", null ],
+    [ "_count", "d5/d39/a24718.html#acdf5daa848ae185b859c45a1271df68c", null ],
+    [ "_effTarget", "d5/d39/a24718.html#a9c54508790062277c8275d2466e93fb3", null ]
 ];

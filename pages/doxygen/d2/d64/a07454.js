@@ -1,4 +1,4 @@
 var a07454 =
 [
-    [ "TryConsume", "d2/d64/a07454.html#afb6bc0250c190a2b52c031e3540ddf78", null ]
+    [ "HordeChannelMgr", "d2/d64/a07454.html#a9354a4b4122500bba602254d0c9f3b98", null ]
 ];

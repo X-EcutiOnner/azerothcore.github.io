@@ -1,13 +1,15 @@
 var a00884 =
 [
-    [ "PetScript", "d1/d32/a10174.html", "d1/d32/a10174" ],
-    [ "PetHook", "dd/d08/a00884.html#a2e6398af59b176e045eece50b1a5d404", [
-      [ "PETHOOK_ON_INIT_STATS_FOR_LEVEL", "dd/d08/a00884.html#a2e6398af59b176e045eece50b1a5d404a1aa219c404710f806516a47fb4a2c421", null ],
-      [ "PETHOOK_ON_CALCULATE_MAX_TALENT_POINTS_FOR_LEVEL", "dd/d08/a00884.html#a2e6398af59b176e045eece50b1a5d404af4173fac4396520c8d5f664cb15cd09a", null ],
-      [ "PETHOOK_CAN_UNLEARN_SPELL_SET", "dd/d08/a00884.html#a2e6398af59b176e045eece50b1a5d404a73a664bf8c79a8347a66639e7f4585ed", null ],
-      [ "PETHOOK_CAN_UNLEARN_SPELL_DEFAULT", "dd/d08/a00884.html#a2e6398af59b176e045eece50b1a5d404afd7165a69bf431cabc9b485460fde1ce", null ],
-      [ "PETHOOK_CAN_RESET_TALENTS", "dd/d08/a00884.html#a2e6398af59b176e045eece50b1a5d404a7c81bb255968b85119ef74e3124abe11", null ],
-      [ "PETHOOK_ON_PET_ADD_TO_WORLD", "dd/d08/a00884.html#a2e6398af59b176e045eece50b1a5d404a34b989d3a1e33e5ab31d98bf4a36ee56", null ],
-      [ "PETHOOK_END", "dd/d08/a00884.html#a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911", null ]
-    ] ]
+    [ "instance_nexus", "df/dd4/a19182.html", "df/dd4/a19182" ],
+    [ "instance_nexus::instance_nexus_InstanceMapScript", "d5/d37/a19186.html", "d5/d37/a19186" ],
+    [ "npc_crystalline_frayer", "d8/d3f/a19190.html", "d8/d3f/a19190" ],
+    [ "eFrayer", "dd/d08/a00884.html#afccbdf6b1fcd1d08834c371ae089cd34", [
+      [ "SPELL_SUMMON_SEED_POD", "dd/d08/a00884.html#afccbdf6b1fcd1d08834c371ae089cd34a574104b14cbcd24794ab8666fa8dbd76", null ],
+      [ "SPELL_SEED_POD", "dd/d08/a00884.html#afccbdf6b1fcd1d08834c371ae089cd34ac55a6fa8082947a3cf2c03a7a6698eb7", null ],
+      [ "SPELL_AURA_OF_REGENERATION", "dd/d08/a00884.html#afccbdf6b1fcd1d08834c371ae089cd34a16a68348d55363d0fa476afad65ed165", null ],
+      [ "SPELL_CRYSTAL_BLOOM", "dd/d08/a00884.html#afccbdf6b1fcd1d08834c371ae089cd34a2628113ed0f8c81fec3cbb2dd01123f7", null ],
+      [ "SPELL_ENSNARE", "dd/d08/a00884.html#afccbdf6b1fcd1d08834c371ae089cd34aa84bf40a2daa426466ad7322a0ab325d", null ]
+    ] ],
+    [ "AddSC_instance_nexus", "dd/d08/a00884.html#a77d0cce0724befee65efa7555f62f8f1", null ],
+    [ "doorData", "dd/d08/a00884.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

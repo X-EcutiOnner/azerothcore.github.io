@@ -1,7 +1,7 @@
 var a07238 =
 [
-    [ "BattlegroundEYPointIconsStruct", "d1/ddc/a07238.html#a322379024d155d293d1c0083c510d232", null ],
-    [ "WorldStateAllianceControlledIndex", "d1/ddc/a07238.html#a449932bc2357e26c79520fcf01a71a2a", null ],
-    [ "WorldStateControlIndex", "d1/ddc/a07238.html#a82e87048f934b67821bc8ba308ed101d", null ],
-    [ "WorldStateHordeControlledIndex", "d1/ddc/a07238.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
+    [ "BattlegroundObjectInfo", "d1/ddc/a07238.html#a848f2b15f47ceeb91c40e916d5659486", null ],
+    [ "object", "d1/ddc/a07238.html#a6722b83d6969c1a34b4846f19865075a", null ],
+    [ "spellid", "d1/ddc/a07238.html#ae0233a1078bc735e40855ea7608f5f11", null ],
+    [ "timer", "d1/ddc/a07238.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
 ];

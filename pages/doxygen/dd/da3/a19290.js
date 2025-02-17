@@ -1,6 +1,6 @@
 var a19290 =
 [
-    [ "boss_sjonnirAI", "d9/d1c/a19294.html", "d9/d1c/a19294" ],
-    [ "boss_sjonnir", "dd/da3/a19290.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "dd/da3/a19290.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "PrepareSpellScript", "dd/da3/a19290.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "dd/da3/a19290.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "dd/da3/a19290.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

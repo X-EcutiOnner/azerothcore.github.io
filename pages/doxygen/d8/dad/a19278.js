@@ -1,6 +1,7 @@
 var a19278 =
 [
-    [ "CalculateDamage", "d8/dad/a19278.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
-    [ "PrepareSpellScript", "d8/dad/a19278.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
-    [ "Register", "d8/dad/a19278.html#a02851f0b94687512a8e016bfb9b826e3", null ]
+    [ "HandleProc", "d8/dad/a19278.html#a84255cd31ebaa7c70de93d569258c709", null ],
+    [ "PrepareAuraScript", "d8/dad/a19278.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
+    [ "Register", "d8/dad/a19278.html#a6bc166d2e1455537fa78c4223da17746", null ],
+    [ "Validate", "d8/dad/a19278.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
 ];

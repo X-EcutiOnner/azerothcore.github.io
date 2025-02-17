@@ -1,6 +1,6 @@
 var a21986 =
 [
-    [ "npc_roxi_ramrocket", "d6/df5/a21986.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "d6/df5/a21986.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "d6/df5/a21986.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "npc_still_at_it_triggerAI", "d1/dc4/a21990.html", "d1/dc4/a21990" ],
+    [ "npc_still_at_it_trigger", "d6/df5/a21986.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "d6/df5/a21986.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

@@ -1,6 +1,7 @@
 var a14426 =
 [
-    [ "boss_mal_ganisAI", "dd/d94/a14430.html", "dd/d94/a14430" ],
-    [ "boss_mal_ganis", "d9/d76/a14426.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
-    [ "GetAI", "d9/d76/a14426.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
+    [ "HandleOnHit", "d9/d76/a14426.html#a9f1d78b4a98bc76877903b79923c1634", null ],
+    [ "PrepareSpellScript", "d9/d76/a14426.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
+    [ "Register", "d9/d76/a14426.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
+    [ "Validate", "d9/d76/a14426.html#a57d85b1702e5c89d72972505121180ed", null ]
 ];

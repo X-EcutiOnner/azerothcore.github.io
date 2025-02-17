@@ -1,6 +1,6 @@
 var a11702 =
 [
-    [ "boss_general_angerforgeAI", "df/d44/a11706.html", "df/d44/a11706" ],
-    [ "boss_general_angerforge", "d4/de1/a11702.html#a00c94097831dc52d31505f312a04f562", null ],
-    [ "GetAI", "d4/de1/a11702.html#ac3f3b26bf2c6745bb9ab23c7ff1484ae", null ]
+    [ "npc_av_marshal_or_warmasterAI", "df/d44/a11706.html", "df/d44/a11706" ],
+    [ "npc_av_marshal_or_warmaster", "d4/de1/a11702.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
+    [ "GetAI", "d4/de1/a11702.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
 ];

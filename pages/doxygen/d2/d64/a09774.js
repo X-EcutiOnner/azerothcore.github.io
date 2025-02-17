@@ -1,8 +1,9 @@
 var a09774 =
 [
-    [ "TimedFleeingMovementGenerator", "d2/d64/a09774.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
-    [ "Finalize", "d2/d64/a09774.html#a1a18f033663fa93ef0b9885aae21f766", null ],
-    [ "GetMovementGeneratorType", "d2/d64/a09774.html#a1533d13f4e786e498353805a2a2daf85", null ],
-    [ "Update", "d2/d64/a09774.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
-    [ "i_totalFleeTime", "d2/d64/a09774.html#a2858047459ff675383e7b86805702369", null ]
+    [ "MapUpdateRequest", "d2/d64/a09774.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
+    [ "call", "d2/d64/a09774.html#a2cb96db357347d47596725e5c345b02f", null ],
+    [ "m_diff", "d2/d64/a09774.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
+    [ "m_map", "d2/d64/a09774.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
+    [ "m_updater", "d2/d64/a09774.html#aeb063738175aa8ddc751290f922ffef2", null ],
+    [ "s_diff", "d2/d64/a09774.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
 ];

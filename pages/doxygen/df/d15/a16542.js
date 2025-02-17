@@ -1,6 +1,6 @@
 var a16542 =
 [
-    [ "boss_marwynAI", "dd/d32/a16546.html", "dd/d32/a16546" ],
-    [ "boss_marwyn", "df/d15/a16542.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
-    [ "GetAI", "df/d15/a16542.html#af1c83878d2121163994bc327ae8e04f7", null ]
+    [ "boss_trollgoreAI", "dd/d32/a16546.html", "dd/d32/a16546" ],
+    [ "boss_trollgore", "df/d15/a16542.html#a95102f1fae6c667e0780b8b388fc156b", null ],
+    [ "GetAI", "df/d15/a16542.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
 ];

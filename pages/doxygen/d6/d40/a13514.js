@@ -1,7 +1,6 @@
 var a13514 =
 [
-    [ "Load", "d6/d40/a13514.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
-    [ "OnRemove", "d6/d40/a13514.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
-    [ "PrepareAuraScript", "d6/d40/a13514.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
-    [ "Register", "d6/d40/a13514.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
+    [ "npc_tyrion_spybotAI", "df/d4a/a13518.html", "df/d4a/a13518" ],
+    [ "npc_tyrion_spybot", "d6/d40/a13514.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
+    [ "GetAI", "d6/d40/a13514.html#af81b70437703edc8d99fe24249891dd6", null ]
 ];

@@ -1,5 +1,6 @@
 var a27110 =
 [
-    [ "item_incendiary_explosives", "d8/d98/a27110.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "d8/d98/a27110.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "go_gilded_brazierAI", "d8/d7a/a27114.html", "d8/d7a/a27114" ],
+    [ "go_gilded_brazier", "d8/d98/a27110.html#a778c753a8432131601371da8849ef004", null ],
+    [ "GetAI", "d8/d98/a27110.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
 ];

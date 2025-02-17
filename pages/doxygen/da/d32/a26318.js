@@ -1,6 +1,7 @@
 var a26318 =
 [
-    [ "HandleRemove", "da/d32/a26318.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "da/d32/a26318.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "da/d32/a26318.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "HandleDummy", "da/d32/a26318.html#a2ea424e6c740305340001b1c09bfec91", null ],
+    [ "PrepareSpellScript", "da/d32/a26318.html#afe722c970155b47eac94bb9861a4eb46", null ],
+    [ "Register", "da/d32/a26318.html#a2c2b96f1c00da9884ec9d01fe897c8c1", null ],
+    [ "Validate", "da/d32/a26318.html#ac5f782da8b5e387c31e048759baf3e16", null ]
 ];

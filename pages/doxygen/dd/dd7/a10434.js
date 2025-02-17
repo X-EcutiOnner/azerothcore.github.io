@@ -1,11 +1,6 @@
 var a10434 =
 [
-    [ "GuildSetRankPermissions", "dd/dd7/a10434.html#a8b3fd3e4da77c6fb70db28721ec46714", null ],
-    [ "Read", "dd/dd7/a10434.html#a534550862a3c634697e8277f31ad4c25", null ],
-    [ "Flags", "dd/dd7/a10434.html#adea48131efa7c05b84c4de596933bfbe", null ],
-    [ "RankID", "dd/dd7/a10434.html#a0c4a8b29918d69580c749e3b48485515", null ],
-    [ "RankName", "dd/dd7/a10434.html#a24dde2aa8dd0ae1b9e8b37317334e0d4", null ],
-    [ "TabFlags", "dd/dd7/a10434.html#af19e6fd8ddfe980f8c1f1110e9332bad", null ],
-    [ "TabWithdrawItemLimit", "dd/dd7/a10434.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c", null ],
-    [ "WithdrawGoldLimit", "dd/dd7/a10434.html#a1c02002facce05010028ac8dcae7fa3f", null ]
+    [ "PlayedTimeClient", "dd/dd7/a10434.html#a1c82d4d153606da9887d64599f319883", null ],
+    [ "Read", "dd/dd7/a10434.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
+    [ "TriggerScriptEvent", "dd/dd7/a10434.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
 ];

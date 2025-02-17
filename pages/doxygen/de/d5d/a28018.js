@@ -1,4 +1,5 @@
 var a28018 =
 [
-    [ "Id", "de/d5d/a28018.html#aebb809589854147a8a521263968ed6d9", null ]
+    [ "ID", "de/d5d/a28018.html#a65acb5af9a688346cbb7dc144710c768", null ],
+    [ "inventoryIcon", "de/d5d/a28018.html#a26b43ee179bd546c6e956dd797fc0842", null ]
 ];

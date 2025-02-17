@@ -1,11 +1,13 @@
 var a28474 =
 [
-    [ "material", "de/df0/a28474.html#a7079e8817a9684602084eb224f2540fc", null ],
-    [ "pos_x", "de/df0/a28474.html#ac4d971cc46506be14716124afbb5ad9c", null ],
-    [ "pos_y", "de/df0/a28474.html#a6cd85f2a674d732e88371ffce5e46077", null ],
-    [ "pos_z", "de/df0/a28474.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
-    [ "xtiles", "de/df0/a28474.html#aca34dfa64624cfe04c314c13bbed0062", null ],
-    [ "xverts", "de/df0/a28474.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
-    [ "ytiles", "de/df0/a28474.html#a9901a7e9828ac840bc290b0768831d66", null ],
-    [ "yverts", "de/df0/a28474.html#abf24042b85692cd0df05d65d734dd99e", null ]
+    [ "MPQArchive", "de/df0/a28474.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "de/df0/a28474.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "MPQArchive", "de/df0/a28474.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "de/df0/a28474.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "close", "de/df0/a28474.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "close", "de/df0/a28474.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "GetFileListTo", "de/df0/a28474.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "GetFileListTo", "de/df0/a28474.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "isOpened", "de/df0/a28474.html#a2026335b9ede29197acfaac8513456d5", null ],
+    [ "mpq_a", "de/df0/a28474.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
 ];

@@ -1,8 +1,6 @@
 var a19670 =
 [
-    [ "FilterTargets", "d3/db2/a19670.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "d3/db2/a19670.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "d3/db2/a19670.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "d3/db2/a19670.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "d3/db2/a19670.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "FilterTargets", "d3/db2/a19670.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
+    [ "PrepareSpellScript", "d3/db2/a19670.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
+    [ "Register", "d3/db2/a19670.html#a4e803984a3eded2736825f631786c204", null ]
 ];

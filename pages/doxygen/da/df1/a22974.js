@@ -1,9 +1,6 @@
 var a22974 =
 [
-    [ "CalcPeriodic", "da/df1/a22974.html#a4c5a034d23253b2cf08cb86f12821184", null ],
-    [ "HandleEffectApply", "da/df1/a22974.html#af60491946062054504b20e16273ed594", null ],
-    [ "HandleEffectRemove", "da/df1/a22974.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
-    [ "HandlePeriodic", "da/df1/a22974.html#a5137e24394fa14129c44d92c79eef117", null ],
-    [ "PrepareAuraScript", "da/df1/a22974.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
-    [ "Register", "da/df1/a22974.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
+    [ "HandleEffectRemove", "da/df1/a22974.html#a9e578e576d8fa4198cf1f0e9f03ba47a", null ],
+    [ "PrepareAuraScript", "da/df1/a22974.html#a5fa56f4d61c63487919bb2080795e391", null ],
+    [ "Register", "da/df1/a22974.html#a2d0bbef8b32c688b7409837b426d9cd1", null ]
 ];

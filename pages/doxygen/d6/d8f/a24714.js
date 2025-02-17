@@ -1,6 +1,6 @@
 var a24714 =
 [
-    [ "HandleScript", "d6/d8f/a24714.html#aa6104370d5700e43223c7138e941ba05", null ],
-    [ "PrepareSpellScript", "d6/d8f/a24714.html#ae4177c84bf0c63aadaa7486603df04d0", null ],
-    [ "Register", "d6/d8f/a24714.html#a88a8534a1dd825a14fd6b10933986eb7", null ]
+    [ "CheckAreaTarget", "d6/d8f/a24714.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
+    [ "PrepareAuraScript", "d6/d8f/a24714.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
+    [ "Register", "d6/d8f/a24714.html#a6647a8e35009cf8559e4957a666f037a", null ]
 ];

@@ -1,15 +1,11 @@
 var a13622 =
 [
-    [ "npc_amanishi_tempest", "de/d5e/a13622.html#a8e15b39501998e9f8c45baef0963d160", null ],
-    [ "DoAction", "de/d5e/a13622.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
-    [ "EnterEvadeMode", "de/d5e/a13622.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
-    [ "JustDied", "de/d5e/a13622.html#aadda903d17a5f4560ce2db896bd7b257", null ],
-    [ "JustEngagedWith", "de/d5e/a13622.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
-    [ "JustSummoned", "de/d5e/a13622.html#aac72fdc33051370c3cffa388f466b6be", null ],
-    [ "Reset", "de/d5e/a13622.html#aa921f85142f9103bea839bdc0330e1cc", null ],
-    [ "ScheduleEvents", "de/d5e/a13622.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
-    [ "SummonedCreatureEvade", "de/d5e/a13622.html#a61eebb122c9288c826cdf352c17e0590", null ],
-    [ "UpdateAI", "de/d5e/a13622.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
-    [ "_instance", "de/d5e/a13622.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
-    [ "_summons", "de/d5e/a13622.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
+    [ "npc_tapoke_slim_jahnAI", "de/d5e/a13622.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
+    [ "AttackedBy", "de/d5e/a13622.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
+    [ "DamageTaken", "de/d5e/a13622.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
+    [ "JustEngagedWith", "de/d5e/a13622.html#a544b8eaee365217a4a735ed39b4607b2", null ],
+    [ "JustSummoned", "de/d5e/a13622.html#ae468305fbe930baf0a1547f2e6de9953", null ],
+    [ "Reset", "de/d5e/a13622.html#a5aeaa5511584d1095639e7df584019c5", null ],
+    [ "WaypointReached", "de/d5e/a13622.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
+    [ "IsFriendSummoned", "de/d5e/a13622.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
 ];

@@ -1,6 +1,5 @@
 var a20510 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "da/db9/a20514.html", "da/db9/a20514" ],
-    [ "boss_yoggsaron_guardian_of_ys", "d9/d95/a20510.html#a299b346a4e9ac5190d554702dcf00faf", null ],
-    [ "GetAI", "d9/d95/a20510.html#a86380b3ad87e0070541d22d3fb74058f", null ]
+    [ "go_thorim_lever", "d9/d95/a20510.html#a7641a89c3c369d26753a6e97dd435802", null ],
+    [ "OnGossipHello", "d9/d95/a20510.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
 ];

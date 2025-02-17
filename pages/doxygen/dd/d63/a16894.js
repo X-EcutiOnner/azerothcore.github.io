@@ -1,6 +1,6 @@
 var a16894 =
 [
-    [ "boss_eckAI", "de/d11/a16898.html", "de/d11/a16898" ],
-    [ "boss_eck", "dd/d63/a16894.html#aa445927936d7759a8c3289e2899181e5", null ],
-    [ "GetAI", "dd/d63/a16894.html#a335755ec7416d3e00a4070e03569293a", null ]
+    [ "npc_pos_tyrannus_eventsAI", "de/d11/a16898.html", "de/d11/a16898" ],
+    [ "npc_pos_tyrannus_events", "dd/d63/a16894.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
+    [ "GetAI", "dd/d63/a16894.html#ae5863e99d77815de71c1774e908b3f65", null ]
 ];

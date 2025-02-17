@@ -1,8 +1,8 @@
 var a18518 =
 [
-    [ "Class", "df/d9f/a18518.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "df/d9f/a18518.html#a6f1fdab250e8557d16066c03a54fb2a4", null ],
-    [ "id", "df/d9f/a18518.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "df/d9f/a18518.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "df/d9f/a18518.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "npc_arthas_teleport_visualAI", "df/d9f/a18518.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "df/d9f/a18518.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "df/d9f/a18518.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "df/d9f/a18518.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "df/d9f/a18518.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

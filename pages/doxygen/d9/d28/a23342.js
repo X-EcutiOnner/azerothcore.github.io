@@ -1,6 +1,8 @@
 var a23342 =
 [
-    [ "PrepareSpellScript", "d9/d28/a23342.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "d9/d28/a23342.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "d9/d28/a23342.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "boss_broggok", "d9/d28/a23342.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "d9/d28/a23342.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "d9/d28/a23342.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "d9/d28/a23342.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "d9/d28/a23342.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

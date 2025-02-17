@@ -1,10 +1,7 @@
 var a23634 =
 [
-    [ "boss_nethermancer_sepethrea", "d8/ddc/a23634.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "CanAIAttack", "d8/ddc/a23634.html#a34fbf871d99519306469c010d5fed9c7", null ],
-    [ "EnterEvadeMode", "d8/ddc/a23634.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "d8/ddc/a23634.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "d8/ddc/a23634.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "d8/ddc/a23634.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "d8/ddc/a23634.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "OnApply", "d8/ddc/a23634.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "d8/ddc/a23634.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "d8/ddc/a23634.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "d8/ddc/a23634.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

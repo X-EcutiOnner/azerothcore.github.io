@@ -1,9 +1,7 @@
 var a19446 =
 [
-    [ "CheckTargets", "d4/dd0/a19446.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "d4/dd0/a19446.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "d4/dd0/a19446.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "d4/dd0/a19446.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "d4/dd0/a19446.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "d4/dd0/a19446.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "creature", "d4/dd0/a19446.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "d4/dd0/a19446.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "d4/dd0/a19446.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "d4/dd0/a19446.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

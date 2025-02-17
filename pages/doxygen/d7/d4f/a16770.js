@@ -1,6 +1,6 @@
 var a16770 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "dc/dde/a16774.html", "dc/dde/a16774" ],
-    [ "npc_pos_tyrannus_events", "d7/d4f/a16770.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
-    [ "GetAI", "d7/d4f/a16770.html#ae5863e99d77815de71c1774e908b3f65", null ]
+    [ "npc_hor_raging_ghoulAI", "dc/dde/a16774.html", "dc/dde/a16774" ],
+    [ "npc_hor_raging_ghoul", "d7/d4f/a16770.html#ad2130edf27295719c46dde14deefe5a4", null ],
+    [ "GetAI", "d7/d4f/a16770.html#ab29cebad1d54d14ecf21bbd215dc2f2d", null ]
 ];

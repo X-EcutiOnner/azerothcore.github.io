@@ -1,10 +1,7 @@
 var a17006 =
 [
-    [ "npc_dark_nucleusAI", "dc/d14/a17006.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
-    [ "AttackStart", "dc/d14/a17006.html#a3dec28dd13257b944df0c559d26a76e0", null ],
-    [ "DamageTaken", "dc/d14/a17006.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
-    [ "JustDied", "dc/d14/a17006.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
-    [ "Reset", "dc/d14/a17006.html#ac84f79f84e721ab1306c8eed8658b143", null ],
-    [ "UpdateAI", "dc/d14/a17006.html#a3a08457c34d4dd904a99a78875d6318c", null ],
-    [ "timer", "dc/d14/a17006.html#ac5f9824276987b81aef5cfee05158049", null ]
+    [ "HandleDummy", "dc/d14/a17006.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "dc/d14/a17006.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "dc/d14/a17006.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "dc/d14/a17006.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

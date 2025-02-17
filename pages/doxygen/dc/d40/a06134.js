@@ -1,9 +1,9 @@
 var a06134 =
 [
-    [ "Escort_Waypoint", "dc/d40/a06134.html#a272aeeba02403a21c4900e6b0844a328", null ],
-    [ "id", "dc/d40/a06134.html#a6a763373fcc37e5a463b54e1e1a68235", null ],
-    [ "WaitTimeMs", "dc/d40/a06134.html#a467a869dba9243bd165e4c480e339705", null ],
-    [ "x", "dc/d40/a06134.html#a4d751062b2ab46734049bf8939a30731", null ],
-    [ "y", "dc/d40/a06134.html#a88648b1bd70afad73d402c40abcd68b5", null ],
-    [ "z", "dc/d40/a06134.html#a810ad58fe70fd6402f01ed7e70b450e0", null ]
+    [ "AISpellInfoType", "dc/d40/a06134.html#a3b6d2057522e7b79c87a16d4b9cced98", null ],
+    [ "condition", "dc/d40/a06134.html#af357bcc7eaeaf88a107a6309c468d53d", null ],
+    [ "cooldown", "dc/d40/a06134.html#a6ea49fdc98ece29ceee63352424e9366", null ],
+    [ "maxRange", "dc/d40/a06134.html#ab421f918f3cb479d2d0390cd98cdeae3", null ],
+    [ "realCooldown", "dc/d40/a06134.html#a3ee8081ca5749ef9b5991a5505104ee9", null ],
+    [ "target", "dc/d40/a06134.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4", null ]
 ];

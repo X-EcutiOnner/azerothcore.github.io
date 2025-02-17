@@ -1,5 +1,5 @@
 var a04739 =
 [
-    [ "LFGJoin", "d1/d4e/a10466.html", "d1/d4e/a10466" ],
-    [ "LFGLeave", "da/d14/a10470.html", "da/d14/a10470" ]
+    [ "basic_endpoint", "d4/de4/a04834.html", null ],
+    [ "tcp_endpoint", "d5/d13/a04739.html#a27a44b709519f6caccf33bc420c4698b", null ]
 ];

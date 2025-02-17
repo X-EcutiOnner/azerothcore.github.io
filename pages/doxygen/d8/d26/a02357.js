@@ -1,11 +1,8 @@
 var a02357 =
 [
-    [ "MCBossObject", "d5/d3c/a12274.html", "d5/d3c/a12274" ],
-    [ "instance_molten_core", "d0/d48/a12278.html", "d0/d48/a12278" ],
-    [ "instance_molten_core::instance_molten_core_InstanceMapScript", "de/db5/a12282.html", "de/db5/a12282" ],
-    [ "AddSC_instance_molten_core", "d8/d26/a02357.html#aa908fb56c2f024e5bfcb38bc98b849ab", null ],
-    [ "linkedBossObjData", "d8/d26/a02357.html#a69ab269a27b57bb4b00d3eee95db589e", null ],
-    [ "MAX_MC_LINKED_BOSS_OBJ", "d8/d26/a02357.html#a398f000c29691c6a24707190dc4a4024", null ],
-    [ "minionData", "d8/d26/a02357.html#a6720238df140a3c574a711042b7f5bd3", null ],
-    [ "SAY_SPAWN", "d8/d26/a02357.html#a1712840a822c3d823764d3c974c6ea31", null ]
+    [ "SelectableGameObjectAI", "d0/d2a/a06142.html", "d0/d2a/a06142" ],
+    [ "GameObjectAIFactory< REAL_GO_AI >", "dc/d71/a06146.html", "dc/d71/a06146" ],
+    [ "sGameObjectAIRegistry", "d8/d26/a02357.html#ac9d2663769f7235631c142a4346922a9", null ],
+    [ "GameObjectAICreator", "d8/d26/a02357.html#abf0182bf1e43c6ea243acb940a03e6fa", null ],
+    [ "GameObjectAIRegistry", "d8/d26/a02357.html#a9482a5649b9d911e3d058c099101f929", null ]
 ];

@@ -1,5 +1,5 @@
 var a08402 =
 [
-    [ "PlayerLevelInfo", "d7/df7/a08402.html#af0d716577a3645fe1cef95968382ec80", null ],
-    [ "stats", "d7/df7/a08402.html#a796af7d07604474adebf5a6f3518ca30", null ]
+    [ "PositionXYZStreamer", "d7/df7/a08402.html#a8da1be6111bd97ef68d62d0d9d630c56", null ],
+    [ "m_pos", "d7/df7/a08402.html#ae5db7cb3adba811c0b9483645a7f1770", null ]
 ];

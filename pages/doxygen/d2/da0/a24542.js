@@ -1,7 +1,9 @@
 var a24542 =
 [
-    [ "if", "d2/da0/a24542.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
-    [ "PrepareAuraScript", "d2/da0/a24542.html#a01d974333043452a37ec3124d23b49f2", null ],
-    [ "Register", "d2/da0/a24542.html#aeb6c695819e894aad8b210a237e6d315", null ],
-    [ "AuraEffectHandleModes", "d2/da0/a24542.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
+    [ "HandleApply", "d2/da0/a24542.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "d2/da0/a24542.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "d2/da0/a24542.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "d2/da0/a24542.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "d2/da0/a24542.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "d2/da0/a24542.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

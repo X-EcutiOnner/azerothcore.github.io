@@ -1,8 +1,8 @@
 var a23226 =
 [
-    [ "boss_broggok", "db/d45/a23226.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "db/d45/a23226.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "db/d45/a23226.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "db/d45/a23226.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "db/d45/a23226.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "boss_hungarfen", "db/d45/a23226.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "db/d45/a23226.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "db/d45/a23226.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "db/d45/a23226.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "db/d45/a23226.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

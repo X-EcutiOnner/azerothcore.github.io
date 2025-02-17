@@ -1,5 +1,5 @@
 var a27006 =
 [
-    [ "go_jump_a_tron", "d5/da3/a27006.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
-    [ "OnGossipHello", "d5/da3/a27006.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
+    [ "go_seer_of_zebhalak", "d5/da3/a27006.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
+    [ "OnGossipHello", "d5/da3/a27006.html#a84009789ce8e8d0d7c42996fde161135", null ]
 ];

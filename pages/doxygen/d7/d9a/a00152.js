@@ -1,10 +1,11 @@
 var a00152 =
 [
-    [ "TypeList< HEAD, TAIL >", "d5/dfc/a05210.html", "d5/dfc/a05210" ],
-    [ "TYPELIST_1", "d7/d9a/a00152.html#a6a7a6aa3dece450c8d239713e2952df7", null ],
-    [ "TYPELIST_2", "d7/d9a/a00152.html#a311cb99af993804c6737ae46c5cbfaff", null ],
-    [ "TYPELIST_3", "d7/d9a/a00152.html#a0309f68a543c5c0994f9edc0e56dc59f", null ],
-    [ "TYPELIST_4", "d7/d9a/a00152.html#a7a156c571ab21a16b0495e1c882a07fa", null ],
-    [ "TYPELIST_5", "d7/d9a/a00152.html#aad5d9b3c82c8503c85c625acd41c0a2f", null ],
-    [ "TYPELIST_6", "d7/d9a/a00152.html#ac6f3277dcaade98ceeaa5c0e1c454816", null ]
+    [ "MCBossObject", "de/d17/a12418.html", "de/d17/a12418" ],
+    [ "instance_molten_core", "d6/d8d/a12422.html", "d6/d8d/a12422" ],
+    [ "instance_molten_core::instance_molten_core_InstanceMapScript", "d7/d02/a12426.html", "d7/d02/a12426" ],
+    [ "AddSC_instance_molten_core", "d7/d9a/a00152.html#aa908fb56c2f024e5bfcb38bc98b849ab", null ],
+    [ "linkedBossObjData", "d7/d9a/a00152.html#a69ab269a27b57bb4b00d3eee95db589e", null ],
+    [ "MAX_MC_LINKED_BOSS_OBJ", "d7/d9a/a00152.html#a398f000c29691c6a24707190dc4a4024", null ],
+    [ "minionData", "d7/d9a/a00152.html#a6720238df140a3c574a711042b7f5bd3", null ],
+    [ "SAY_SPAWN", "d7/d9a/a00152.html#a1712840a822c3d823764d3c974c6ea31", null ]
 ];

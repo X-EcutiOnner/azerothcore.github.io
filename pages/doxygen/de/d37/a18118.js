@@ -1,8 +1,6 @@
 var a18118 =
 [
-    [ "npc_lk_spirit_bombAI", "de/d37/a18118.html#a366fb54e68c0e603000183cd68daf6b7", null ],
-    [ "IsSummonedBy", "de/d37/a18118.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
-    [ "MovementInform", "de/d37/a18118.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
-    [ "UpdateAI", "de/d37/a18118.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
-    [ "timer", "de/d37/a18118.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
+    [ "npc_raging_spiritAI", "da/dbe/a18122.html", "da/dbe/a18122" ],
+    [ "npc_raging_spirit", "de/d37/a18118.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "de/d37/a18118.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

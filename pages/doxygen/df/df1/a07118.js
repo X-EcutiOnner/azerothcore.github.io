@@ -1,9 +1,11 @@
 var a07118 =
 [
-    [ "ArenaScore", "df/df1/a07118.html#a58f1391de4e67750dad211b10704499f", null ],
-    [ "AppendToPacket", "df/df1/a07118.html#a3fe2ab34a9abc4d8c4ff863334cf2c84", null ],
-    [ "BuildObjectivesBlock", "df/df1/a07118.html#ac96461b865fc7a9ba0cdfad6ae3fa96f", null ],
-    [ "ToString", "df/df1/a07118.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b", null ],
-    [ "Arena", "df/df1/a07118.html#a5f488c25aa439166d145713c67e7d085", null ],
-    [ "PvPTeamId", "df/df1/a07118.html#a486ee0e05ac5160f0fb174e2a1e061bb", null ]
+    [ "gyid", "df/df1/a07118.html#a742fcc91d2daf1a9331f02a90496328c", null ],
+    [ "o", "df/df1/a07118.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
+    [ "startcontrol", "df/df1/a07118.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
+    [ "textid", "df/df1/a07118.html#a87d80377ad632b9d667eecf11ae8faae", null ],
+    [ "type", "df/df1/a07118.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
+    [ "x", "df/df1/a07118.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
+    [ "y", "df/df1/a07118.html#a405e8098772e77250683985f957ce5f3", null ],
+    [ "z", "df/df1/a07118.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
 ];

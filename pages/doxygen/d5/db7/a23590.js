@@ -1,6 +1,6 @@
 var a23590 =
 [
-    [ "HandleScriptEffect", "d5/db7/a23590.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
-    [ "PrepareSpellScript", "d5/db7/a23590.html#af475c0968aabaf56e8ca38950ad651f0", null ],
-    [ "Register", "d5/db7/a23590.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
+    [ "instance_the_botanica_InstanceMapScript", "dc/d59/a23594.html", "dc/d59/a23594" ],
+    [ "instance_the_botanica", "d5/db7/a23590.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "d5/db7/a23590.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

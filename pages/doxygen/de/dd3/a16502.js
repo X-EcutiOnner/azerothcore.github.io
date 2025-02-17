@@ -1,8 +1,19 @@
 var a16502 =
 [
-    [ "npc_fos_leaderAI", "db/dce/a16506.html", "db/dce/a16506" ],
-    [ "npc_fos_leader", "de/dd3/a16502.html#a4223072bc180e990ff9e01bf772def5b", null ],
-    [ "GetAI", "de/dd3/a16502.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
-    [ "OnGossipHello", "de/dd3/a16502.html#a3858054505d439902624378b9355f40d", null ],
-    [ "OnGossipSelect", "de/dd3/a16502.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
+    [ "boss_novosAI", "de/dd3/a16502.html#adb1ddbf486ee7690d25c00db3902e408", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "de/dd3/a16502.html#ab1e9ef1780d53447e3e39c69de2111f8", null ],
+    [ "GetData", "de/dd3/a16502.html#ab4c51470b6e1492922fa507566cfb01b", null ],
+    [ "JustDied", "de/dd3/a16502.html#a7fc57c7b0fe7befc5e3466e929bf8e40", null ],
+    [ "JustEngagedWith", "de/dd3/a16502.html#ab0d05b5f01943a2a1a4b9942b7af6a4f", null ],
+    [ "JustSummoned", "de/dd3/a16502.html#a67340b4d1b140b018a91c28cb649ce6f", null ],
+    [ "KilledUnit", "de/dd3/a16502.html#ae2a48f1b01018307d9d08b36a4b15401", null ],
+    [ "MoveInLineOfSight", "de/dd3/a16502.html#acd01b87b1f481de8f3327c3a958dd12d", null ],
+    [ "Reset", "de/dd3/a16502.html#ac62d82368e71dcb58cbac04d90731d35", null ],
+    [ "SetData", "de/dd3/a16502.html#a86825eabbf3411443ffd8f458defb0b0", null ],
+    [ "UpdateAI", "de/dd3/a16502.html#acba9623bd90132a4042c2fb9923a1c3c", null ],
+    [ "_achievement", "de/dd3/a16502.html#a00e5942a5c4c05dc168b80d60cb10d0f", null ],
+    [ "_crystalCounter", "de/dd3/a16502.html#afc81805776138a9075aac36cf268c6eb", null ],
+    [ "_stage", "de/dd3/a16502.html#a88013d55c74c4d3c86a5e254ca77e892", null ],
+    [ "_summonTargetLeftGUID", "de/dd3/a16502.html#a9c79a08d0f1814e265dc7dad59946c02", null ],
+    [ "_summonTargetRightGUID", "de/dd3/a16502.html#aeb5b0d02c11bd3e4299e05c498c8cfd8", null ]
 ];

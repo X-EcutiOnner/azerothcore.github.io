@@ -1,17 +1,10 @@
 var a08798 =
 [
-    [ "ActionMenuID", "d1/d7d/a08798.html#a486f9af68a02ae52d51772a3421db377", null ],
-    [ "ActionPoiID", "d1/d7d/a08798.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
-    [ "BoxBroadcastTextID", "d1/d7d/a08798.html#a12882942190a9a568b9dc30214ee6a88", null ],
-    [ "BoxCoded", "d1/d7d/a08798.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
-    [ "BoxMoney", "d1/d7d/a08798.html#ab00c368181ccaba98e878d49de6138e2", null ],
-    [ "BoxText", "d1/d7d/a08798.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
-    [ "Conditions", "d1/d7d/a08798.html#aa1632404bbc869b17dab8833f660c52b", null ],
-    [ "MenuID", "d1/d7d/a08798.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
-    [ "OptionBroadcastTextID", "d1/d7d/a08798.html#af8af4b4c27405908482db73797cd2d49", null ],
-    [ "OptionIcon", "d1/d7d/a08798.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
-    [ "OptionID", "d1/d7d/a08798.html#adf2a8d247a88a062a75eb726dd43d019", null ],
-    [ "OptionNpcFlag", "d1/d7d/a08798.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
-    [ "OptionText", "d1/d7d/a08798.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
-    [ "OptionType", "d1/d7d/a08798.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
+    [ "mapId", "d1/d7d/a08798.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "d1/d7d/a08798.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "d1/d7d/a08798.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "d1/d7d/a08798.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "d1/d7d/a08798.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "d1/d7d/a08798.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "d1/d7d/a08798.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

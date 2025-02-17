@@ -1,11 +1,6 @@
 var a21582 =
 [
-    [ "npc_torturer_lecraftAI", "da/d39/a21582.html#a0886d83c8ab8b7db728928ecf922031b", null ],
-    [ "JustEngagedWith", "da/d39/a21582.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
-    [ "Reset", "da/d39/a21582.html#a13177e318e7777ecb13ba71c4f10f425", null ],
-    [ "SpellHit", "da/d39/a21582.html#a837805efcb6c99de55646a232f151ae8", null ],
-    [ "UpdateAI", "da/d39/a21582.html#a45919da006b0e767ec38810a6fcbac5d", null ],
-    [ "_events", "da/d39/a21582.html#a7879e11a94c32266ed11dc352ae7e802", null ],
-    [ "_playerGUID", "da/d39/a21582.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
-    [ "_textCounter", "da/d39/a21582.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d2/d99/a21586.html", "d2/d99/a21586" ],
+    [ "npc_injured_7th_legion_soldier", "da/d39/a21582.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
+    [ "GetAI", "da/d39/a21582.html#a0feca7aedcf3c07253d4d402266189cc", null ]
 ];

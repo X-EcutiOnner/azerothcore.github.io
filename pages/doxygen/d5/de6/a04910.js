@@ -1,9 +1,8 @@
 var a04910 =
 [
-    [ "MapRayCallback", "d5/de6/a04910.html#a1a4a654bc929dab5b5a2804c4b88389d", null ],
-    [ "didHit", "d5/de6/a04910.html#a9d9abb0a5ffff131d2c19e88c3c8b836", null ],
-    [ "operator()", "d5/de6/a04910.html#a0f218465b321da5f8289dfa815acbfd4", null ],
-    [ "flags", "d5/de6/a04910.html#a88d1e6d6fa43608bcee21a822488f061", null ],
-    [ "hit", "d5/de6/a04910.html#a6fc14ac7ae20effec9d2657a46b838fc", null ],
-    [ "prims", "d5/de6/a04910.html#a389d8ee31e0cb665bfd9084d786750c5", null ]
+    [ "IMMapMgr", "d5/de6/a04910.html#a2292f2bdacfc627ab33f02d399221ad5", null ],
+    [ "~IMMapMgr", "d5/de6/a04910.html#a8298d6b3fbce5ccd835af3c287c361b6", null ],
+    [ "isEnablePathFinding", "d5/de6/a04910.html#a5d6bcb413c39e82da8e4924c4754c8b0", null ],
+    [ "setEnablePathFinding", "d5/de6/a04910.html#afdc7e829a374c20b4d072290363c7c62", null ],
+    [ "iEnablePathFinding", "d5/de6/a04910.html#a25f8900f4546990562fb048e956bb1e0", null ]
 ];

@@ -1,10 +1,7 @@
 var a23834 =
 [
-    [ "npc_maxx_a_million_escortAI", "d0/d81/a23834.html#ab827933527ed7b4a04b162034876ced8", null ],
-    [ "JustDied", "d0/d81/a23834.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
-    [ "Reset", "d0/d81/a23834.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
-    [ "UpdateAI", "d0/d81/a23834.html#a3b022feb2303875d32ad981e84f66854", null ],
-    [ "WaypointReached", "d0/d81/a23834.html#acd6f45abb93f3f043cd85647405a50f6", null ],
-    [ "bTake", "d0/d81/a23834.html#ac697fc6cbc20c7f316845ed26436049b", null ],
-    [ "uiTakeTimer", "d0/d81/a23834.html#a5d4826dcf893f444a42dedba57460110", null ]
+    [ "HandleEffect", "d0/d81/a23834.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "d0/d81/a23834.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "d0/d81/a23834.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "d0/d81/a23834.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

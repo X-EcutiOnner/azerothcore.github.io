@@ -1,10 +1,7 @@
 var a17458 =
 [
-    [ "npc_cult_adherentAI", "dc/d9e/a17458.html#a1ea249a25b188a949213788614f4049e", null ],
-    [ "JustEngagedWith", "dc/d9e/a17458.html#ab97e0177fbc9fc7135dc7a7de0e6e31a", null ],
-    [ "Reset", "dc/d9e/a17458.html#ab0b54e45468b5ebed0194c441cce434e", null ],
-    [ "SpellHit", "dc/d9e/a17458.html#ab0d83d53a7f0d14cb15e133e426f2f02", null ],
-    [ "UpdateAI", "dc/d9e/a17458.html#ad89638cf5859615ba2e3a0deb6701751", null ],
-    [ "_instance", "dc/d9e/a17458.html#a970e99fba28d6e3e0cb759c87a866273", null ],
-    [ "events", "dc/d9e/a17458.html#aa53025d3fe95086dc0c23d5d563df7c4", null ]
+    [ "npc_gunship_rocketeerAI", "dc/d9e/a17458.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "dc/d9e/a17458.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "dc/d9e/a17458.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "dc/d9e/a17458.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

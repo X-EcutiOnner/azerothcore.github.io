@@ -1,16 +1,18 @@
 var a18810 =
 [
-    [ "boss_maexxnaAI", "dc/dcc/a18810.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
-    [ "DoCastWebWrap", "dc/dcc/a18810.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
-    [ "IsInRoom", "dc/dcc/a18810.html#a957bd38232c020611fc24dd8a6e55640", null ],
-    [ "JustDied", "dc/dcc/a18810.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
-    [ "JustEngagedWith", "dc/dcc/a18810.html#a9974fc771b3663878964aeb20914fe43", null ],
-    [ "JustSummoned", "dc/dcc/a18810.html#ab45b74b3067b42089fee804844ea41dd", null ],
-    [ "KilledUnit", "dc/dcc/a18810.html#a11cda2b905ef2381c317a01e4163be00", null ],
-    [ "Reset", "dc/dcc/a18810.html#a78385da6845ce8e3075616c24696d0cc", null ],
-    [ "UpdateAI", "dc/dcc/a18810.html#a6f0453babfa84764467970369894eb97", null ],
-    [ "events", "dc/dcc/a18810.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
-    [ "pInstance", "dc/dcc/a18810.html#adeda3cc5a174e3d940621e3024a1043f", null ],
-    [ "summons", "dc/dcc/a18810.html#a7ea3de40dfd638db7e34c523a0461335", null ],
-    [ "wraps", "dc/dcc/a18810.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
+    [ "boss_four_horsemenAI", "dc/dcc/a18810.html#a828a858c3337791bd2acb3d6ba730233", null ],
+    [ "AttackStart", "dc/dcc/a18810.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
+    [ "IsInRoom", "dc/dcc/a18810.html#afaf17721189ab5b202a7dfbcd7f363e3", null ],
+    [ "JustDied", "dc/dcc/a18810.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
+    [ "JustEngagedWith", "dc/dcc/a18810.html#a17b8ca30ceb0efb87be77f970c526444", null ],
+    [ "KilledUnit", "dc/dcc/a18810.html#a87bdde27a69a020a26da31f01286593a", null ],
+    [ "MovementInform", "dc/dcc/a18810.html#aa900c075c04673341b3100488c45f9e7", null ],
+    [ "MoveToCorner", "dc/dcc/a18810.html#a7891dc79980c67d82867f6181685b359", null ],
+    [ "Reset", "dc/dcc/a18810.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
+    [ "UpdateAI", "dc/dcc/a18810.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
+    [ "currentWaypoint", "dc/dcc/a18810.html#ab3c2643e1b3c58452661255979e67e63", null ],
+    [ "events", "dc/dcc/a18810.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
+    [ "horsemanId", "dc/dcc/a18810.html#ab0c4162177096e7bd007996e8677fd8b", null ],
+    [ "movementPhase", "dc/dcc/a18810.html#a09b826c28e9bf6c417a650dfe710a2dd", null ],
+    [ "pInstance", "dc/dcc/a18810.html#aba63b1e9909380aa93d583a191113c54", null ]
 ];

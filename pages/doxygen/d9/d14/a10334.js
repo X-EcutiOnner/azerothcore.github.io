@@ -1,10 +1,10 @@
 var a10334 =
 [
-    [ "EnvironmentalDamageLog", "d9/d14/a10334.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
-    [ "Write", "d9/d14/a10334.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
-    [ "Absorbed", "d9/d14/a10334.html#a443df04be3afe2021532716140ffb099", null ],
-    [ "Amount", "d9/d14/a10334.html#a073e22176d44f5806313c2a4bd3e263a", null ],
-    [ "Resisted", "d9/d14/a10334.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
-    [ "Type", "d9/d14/a10334.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
-    [ "Victim", "d9/d14/a10334.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
+    [ "WorldObjectScript", "d9/d14/a10334.html#af044c3699a591c137abc5e03c772890b", null ],
+    [ "IsDatabaseBound", "d9/d14/a10334.html#a48f037dd6152ff68ebef672de68df45e", null ],
+    [ "OnWorldObjectCreate", "d9/d14/a10334.html#a2b32bc661e5a377de98902f3bc16679b", null ],
+    [ "OnWorldObjectDestroy", "d9/d14/a10334.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
+    [ "OnWorldObjectResetMap", "d9/d14/a10334.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
+    [ "OnWorldObjectSetMap", "d9/d14/a10334.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
+    [ "OnWorldObjectUpdate", "d9/d14/a10334.html#abc139d1aa728f8a70886eed65d28f566", null ]
 ];

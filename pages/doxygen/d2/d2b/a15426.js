@@ -1,6 +1,7 @@
 var a15426 =
 [
-    [ "SayerEntry", "d2/d2b/a15426.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
-    [ "SayTimer", "d2/d2b/a15426.html#a942073f24fd12da712184243d9f098f2", null ],
-    [ "TextEntry", "d2/d2b/a15426.html#a360822e4c069be6019c0a465cb2499cf", null ]
+    [ "npc_kaya_flathoofAI", "d2/d2b/a15426.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "d2/d2b/a15426.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "d2/d2b/a15426.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "d2/d2b/a15426.html#a8fcbb19279b925138ba96d2a450fc404", null ]
 ];

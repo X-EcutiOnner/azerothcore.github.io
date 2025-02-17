@@ -1,5 +1,6 @@
 var a28026 =
 [
-    [ "CastTime", "d1/d55/a28026.html#af0bf895b1a5d61974cb63230b786c55e", null ],
-    [ "ID", "d1/d55/a28026.html#a41b1059fc4059bd198925861a9414497", null ]
+    [ "ID", "d1/d55/a28026.html#a7d40e334785d96a2e57d28f87a59778a", null ],
+    [ "maxCount", "d1/d55/a28026.html#a5edc6442e026b12dae654fa86440a11a", null ],
+    [ "mode", "d1/d55/a28026.html#a76553ecf9f880a5e5967f818123742fd", null ]
 ];

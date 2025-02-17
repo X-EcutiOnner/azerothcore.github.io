@@ -1,10 +1,11 @@
 var a18962 =
 [
-    [ "npc_scion_of_eternityAI", "d0/d85/a18962.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
-    [ "AttackStart", "d0/d85/a18962.html#a1335f9e34ff73d5501455062be025ada", null ],
-    [ "JustDied", "d0/d85/a18962.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
-    [ "MoveInLineOfSight", "d0/d85/a18962.html#a74a69fa532f0921285ef678bbd2fa761", null ],
-    [ "UpdateAI", "d0/d85/a18962.html#adb16afb6ea1583a7156b80a8d833951a", null ],
-    [ "events", "d0/d85/a18962.html#ae0e194a24a14033a499e68524da1699d", null ],
-    [ "pInstance", "d0/d85/a18962.html#aa828ca4a75696645d7aa350f1f981f40", null ]
+    [ "boss_patchwerkAI", "d0/d85/a18962.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "d0/d85/a18962.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "d0/d85/a18962.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "d0/d85/a18962.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "d0/d85/a18962.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "d0/d85/a18962.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "d0/d85/a18962.html#a00c98ee5cdb3c512ba0d92a48d441006", null ],
+    [ "pInstance", "d0/d85/a18962.html#a78a3e9a6ef289e82c3ccaedc4399607a", null ]
 ];

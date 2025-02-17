@@ -1,5 +1,6 @@
 var a10126 =
 [
-    [ "FactoryGameObjectScript", "d1/dab/a10126.html#ac0981bdae743da11b99d7df1c967a703", null ],
-    [ "GetAI", "d1/dab/a10126.html#a9a39e94f28729ea1fb4b6231d588b42c", null ]
+    [ "AchievementCriteriaScript", "d1/dab/a10126.html#a86804e8d52ebd239a85609bc1e8883ea", null ],
+    [ "IsDatabaseBound", "d1/dab/a10126.html#a2fe9a4224304d62c5c4920dbf09aab52", null ],
+    [ "OnCheck", "d1/dab/a10126.html#a9fab6f158219db6d5a65b0b302cf285e", null ]
 ];

@@ -1,11 +1,22 @@
 var a20258 =
 [
-    [ "npc_ulduar_expedition_engineerAI", "de/d0e/a20258.html#a48e29edad38f8ecbab54579203c93044", null ],
-    [ "Reset", "de/d0e/a20258.html#a8a68e3a58133913d0eb0bf9fd2532db2", null ],
-    [ "SetData", "de/d0e/a20258.html#a31db1ae61777b8f1a38d381e785ce158", null ],
-    [ "UpdateAI", "de/d0e/a20258.html#ab6d29aaae95038282fece78479448459", null ],
-    [ "fixingGUID", "de/d0e/a20258.html#ae0ba3ddbff054a948709e70f0bf9961a", null ],
-    [ "pInstance", "de/d0e/a20258.html#a6b858d46eda05493ec0cac22e174854c", null ],
-    [ "timer", "de/d0e/a20258.html#a926b343da3d3953d386b18f24bc72867", null ],
-    [ "working", "de/d0e/a20258.html#ab8e436472efd91f2d400c02c1b500746", null ]
+    [ "npc_ulduar_aerial_command_unitAI", "de/d0e/a20258.html#ac5b7a4cffa1db22c540be9893d15c2f8", null ],
+    [ "AttackStart", "de/d0e/a20258.html#ab04bb1f0ae10ef6caedde13dce26b4ff", null ],
+    [ "DamageTaken", "de/d0e/a20258.html#a7a4553548b94631c19e0f63bd4f04935", null ],
+    [ "DoAction", "de/d0e/a20258.html#a363186d09cc27fcf73e5df71765c5785", null ],
+    [ "EnterEvadeMode", "de/d0e/a20258.html#a41ff385b9260c48c200c81e2965e4ad9", null ],
+    [ "JustSummoned", "de/d0e/a20258.html#a4da89e69cd1bad30c051997862035ec0", null ],
+    [ "KilledUnit", "de/d0e/a20258.html#a172ce62da0c7554a3dfc9a9a8ff7f119", null ],
+    [ "MoveInLineOfSight", "de/d0e/a20258.html#a1625ea42db1aebe26d7d52a3e1ac3e04", null ],
+    [ "Reset", "de/d0e/a20258.html#a1bdf61f436acd06c389f7e0355488eaa", null ],
+    [ "SetData", "de/d0e/a20258.html#a9d2572ed6864acf7be5b277c22e89573", null ],
+    [ "SpellHit", "de/d0e/a20258.html#af567b17cb39e433899eac0c44e2f065d", null ],
+    [ "SummonedCreatureDespawn", "de/d0e/a20258.html#a7040c7ce5f0243b392eec91fa734213c", null ],
+    [ "UpdateAI", "de/d0e/a20258.html#ac76777bdd7ac6da1166d98c7a091aba4", null ],
+    [ "bIsEvading", "de/d0e/a20258.html#a04cffd153f3298595cd1b7da706d14bb", null ],
+    [ "events", "de/d0e/a20258.html#acb7898e896f6e217b97961ef3fa4828a", null ],
+    [ "immobilized", "de/d0e/a20258.html#a3ed685c94d7dd9d15e44ba3c313e48e4", null ],
+    [ "Phase", "de/d0e/a20258.html#af4cb9c060dcf3d2577182e2e0d3711c4", null ],
+    [ "pInstance", "de/d0e/a20258.html#a5c410a35047f835473871bd7538de1f2", null ],
+    [ "summons", "de/d0e/a20258.html#a37d8c57b1d3e5628954d19fda62f1122", null ]
 ];

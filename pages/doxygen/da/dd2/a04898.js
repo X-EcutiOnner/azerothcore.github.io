@@ -1,9 +1,8 @@
 var a04898 =
 [
-    [ "ManagedModel", "da/dd2/a04898.html#ab641724be7e7791c2c95982acc13f3b0", null ],
-    [ "decRefCount", "da/dd2/a04898.html#a5a104acbc0661b19ba2a662dc669b73d", null ],
-    [ "getModel", "da/dd2/a04898.html#a053fc6647a16746fba19a0795610fea2", null ],
-    [ "setModel", "da/dd2/a04898.html#aa450ae6be22d507c36a746850629831d", null ],
-    [ "iModel", "da/dd2/a04898.html#a5e20d0157691bd6036247a83eea8d19b", null ],
-    [ "iRefCount", "da/dd2/a04898.html#afb30ad900a5979f98276324a1ab1c328", null ]
+    [ "DynamicTreeAreaInfoCallback", "da/dd2/a04898.html#ad3f3d57e011439d9900afffa8d9c6ed7", null ],
+    [ "GetAreaInfo", "da/dd2/a04898.html#a22cc8c47b3c93bd9ba396861a5bbea99", null ],
+    [ "operator()", "da/dd2/a04898.html#adf7f147bb4b4f3a5252ac15ffd1b80ea", null ],
+    [ "_areaInfo", "da/dd2/a04898.html#a59781066b5b1a7e970f4dcf6f05a7dcb", null ],
+    [ "_phaseMask", "da/dd2/a04898.html#a9ad7b4de03c8baa6190a5ef57f2eecf2", null ]
 ];

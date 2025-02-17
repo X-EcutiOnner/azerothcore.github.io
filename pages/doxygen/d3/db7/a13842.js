@@ -1,6 +1,9 @@
 var a13842 =
 [
-    [ "boss_wushoolayAI", "dd/db6/a13846.html", "dd/db6/a13846" ],
-    [ "boss_wushoolay", "d3/db7/a13842.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "d3/db7/a13842.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "boss_hazzarah", "d3/db7/a13842.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "d3/db7/a13842.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "d3/db7/a13842.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "d3/db7/a13842.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "d3/db7/a13842.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "d3/db7/a13842.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

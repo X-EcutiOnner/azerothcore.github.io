@@ -1,6 +1,6 @@
 var a19314 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "d9/d0e/a19318.html", "d9/d0e/a19318" ],
-    [ "boss_sjonnir_malformed_ooze", "dc/d06/a19314.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "dc/d06/a19314.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "boss_bjarngrimAI", "d9/d0e/a19318.html", "d9/d0e/a19318" ],
+    [ "boss_bjarngrim", "dc/d06/a19314.html#ab509688547d41ec1fd094fdc45291959", null ],
+    [ "GetAI", "dc/d06/a19314.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
 ];

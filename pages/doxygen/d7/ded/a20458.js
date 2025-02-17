@@ -1,7 +1,10 @@
 var a20458 =
 [
-    [ "FilterTargets", "d7/ded/a20458.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "d7/ded/a20458.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "d7/ded/a20458.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "d7/ded/a20458.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "boss_thorim_sif_blizzardAI", "d7/ded/a20458.html#a99d1c529126452e580ebc7e3e513b367", null ],
+    [ "AttackStart", "d7/ded/a20458.html#a1f05551f323fa410a699497f3875b21f", null ],
+    [ "InitWaypoint", "d7/ded/a20458.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
+    [ "JustEngagedWith", "d7/ded/a20458.html#a9fea5617dccb493c7af435c485462ff3", null ],
+    [ "MoveInLineOfSight", "d7/ded/a20458.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
+    [ "Reset", "d7/ded/a20458.html#a193ba575c4f3f16d850e56f12f190c77", null ],
+    [ "WaypointReached", "d7/ded/a20458.html#a961f90068f25d81f55159763fe2677f8", null ]
 ];

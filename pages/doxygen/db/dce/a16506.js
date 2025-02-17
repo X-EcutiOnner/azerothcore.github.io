@@ -1,8 +1,7 @@
 var a16506 =
 [
-    [ "npc_fos_leaderAI", "db/dce/a16506.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "db/dce/a16506.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "db/dce/a16506.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "db/dce/a16506.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "db/dce/a16506.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "HandleScriptEffect", "db/dce/a16506.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "db/dce/a16506.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "db/dce/a16506.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "db/dce/a16506.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

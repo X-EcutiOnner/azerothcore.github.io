@@ -1,8 +1,7 @@
 var a16026 =
 [
-    [ "npc_announcer_toc5AI", "d3/d7a/a16026.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "d3/d7a/a16026.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "d3/d7a/a16026.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "d3/d7a/a16026.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "d3/d7a/a16026.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "HandleDummy", "d3/d7a/a16026.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
+    [ "PrepareSpellScript", "d3/d7a/a16026.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
+    [ "Register", "d3/d7a/a16026.html#a144224b42aabc0402b729dcc808d779d", null ],
+    [ "Validate", "d3/d7a/a16026.html#a985e843e856a7322bccf8544c45df48c", null ]
 ];

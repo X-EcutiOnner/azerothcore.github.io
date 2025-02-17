@@ -1,8 +1,7 @@
 var a17906 =
 [
-    [ "NecroticPlagueTargetCheck", "d0/d9b/a17906.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
-    [ "operator()", "d0/d9b/a17906.html#a801a176e367a9f4446fe080845477654", null ],
-    [ "_notAura1", "d0/d9b/a17906.html#a4f52417f233e1ab06210726670f719f3", null ],
-    [ "_notAura2", "d0/d9b/a17906.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
-    [ "_sourceObj", "d0/d9b/a17906.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
+    [ "PeriodicTick", "d0/d9b/a17906.html#a79b63e30f37df8a961b57c4b10669800", null ],
+    [ "PrepareAuraScript", "d0/d9b/a17906.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
+    [ "Register", "d0/d9b/a17906.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
+    [ "Validate", "d0/d9b/a17906.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
 ];

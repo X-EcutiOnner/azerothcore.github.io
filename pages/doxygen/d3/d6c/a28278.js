@@ -1,6 +1,7 @@
 var a28278 =
 [
-    [ "OffsetAttributes", "d3/d6c/a28278.html#a072918c298b316823e784c2e5779be2a", null ],
-    [ "OffsetInstances", "d3/d6c/a28278.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
-    [ "used", "d3/d6c/a28278.html#a20a458e613639ea26255dd772824a642", null ]
+    [ "~ByteBufferException", "d3/d6c/a28278.html#a0ab73f9061c040127f70dbfc9a176509", null ],
+    [ "message", "d3/d6c/a28278.html#ab1a64d8fc18565a04c347de29184f68c", null ],
+    [ "what", "d3/d6c/a28278.html#a87896f7ab19f3032937f5f84e8cf440a", null ],
+    [ "msg_", "d3/d6c/a28278.html#a314bdbb7063219f8256df894602e6b02", null ]
 ];

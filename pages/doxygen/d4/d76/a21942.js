@@ -1,6 +1,6 @@
 var a21942 =
 [
-    [ "HandleScriptEffect", "d4/d76/a21942.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "d4/d76/a21942.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "d4/d76/a21942.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "npc_guardian_pavilionAI", "d2/db7/a21946.html", "d2/db7/a21946" ],
+    [ "npc_guardian_pavilion", "d4/d76/a21942.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "d4/d76/a21942.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

@@ -1,9 +1,7 @@
 var a21602 =
 [
-    [ "npc_mrfloppyAI", "d6/d2e/a21602.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
-    [ "EnterEvadeMode", "d6/d2e/a21602.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
-    [ "JustEngagedWith", "d6/d2e/a21602.html#a490bf07de00cc5c59b5f0024317d8125", null ],
-    [ "MoveInLineOfSight", "d6/d2e/a21602.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
-    [ "Reset", "d6/d2e/a21602.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
-    [ "UpdateAI", "d6/d2e/a21602.html#afad6db1ccd903fd18192f832a10a32f4", null ]
+    [ "CheckRequirement", "d6/d2e/a21602.html#a41beb2c890137328734d6adb14e08302", null ],
+    [ "PrepareSpellScript", "d6/d2e/a21602.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
+    [ "Register", "d6/d2e/a21602.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
+    [ "SetDest", "d6/d2e/a21602.html#a431a556ab73f91ed63f5983e537834a5", null ]
 ];

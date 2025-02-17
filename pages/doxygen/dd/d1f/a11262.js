@@ -1,9 +1,6 @@
 var a11262 =
 [
-    [ "bytes", "dd/d1f/a11262.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "dd/d1f/a11262.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "dd/d1f/a11262.html#a2743b5da8366ea651923bf7f3332bc32", null ],
-    [ "ints", "dd/d1f/a11262.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "dd/d1f/a11262.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "dd/d1f/a11262.html#a0506a09adc966923adb490153f095f84", null ]
+    [ "EffectManaShieldHandler", "dd/d1f/a11262.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
+    [ "Call", "dd/d1f/a11262.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
+    [ "pEffectHandlerScript", "dd/d1f/a11262.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
 ];

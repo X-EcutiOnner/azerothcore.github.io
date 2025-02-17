@@ -1,6 +1,8 @@
 var a26118 =
 [
-    [ "HandleEffectApply", "db/d28/a26118.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
-    [ "PrepareAuraScript", "db/d28/a26118.html#a707504eccf42af77f6e6e927d208bc8c", null ],
-    [ "Register", "db/d28/a26118.html#a7aeaa28997bbe966274a738cf45323ed", null ]
+    [ "HandleDummy", "db/d28/a26118.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "db/d28/a26118.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "db/d28/a26118.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "db/d28/a26118.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "db/d28/a26118.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

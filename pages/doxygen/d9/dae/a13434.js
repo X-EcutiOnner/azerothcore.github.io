@@ -1,6 +1,6 @@
 var a13434 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d3/d87/a13438.html", "d3/d87/a13438" ],
-    [ "npc_jaina_proudmoore_bfu", "d9/dae/a13434.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "d9/dae/a13434.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "npc_rinjiAI", "d3/d87/a13438.html", "d3/d87/a13438" ],
+    [ "npc_rinji", "d9/dae/a13434.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
+    [ "GetAI", "d9/dae/a13434.html#a5457ac00ce0b195752640358b912af10", null ]
 ];

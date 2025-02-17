@@ -1,6 +1,8 @@
 var a15658 =
 [
-    [ "boss_sartharionAI", "d1/dce/a15662.html", "d1/dce/a15662" ],
-    [ "boss_sartharion", "de/d57/a15658.html#a6605aee69372d08fba8f4b4523896588", null ],
-    [ "GetAI", "de/d57/a15658.html#aca5d66e0f5cdcafd6f9cd2c173f43839", null ]
+    [ "HandleScriptEffect", "de/d57/a15658.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
+    [ "Load", "de/d57/a15658.html#ab293f8b536957558fa8886e1f4a23e74", null ],
+    [ "PrepareSpellScript", "de/d57/a15658.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
+    [ "Register", "de/d57/a15658.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
+    [ "Validate", "de/d57/a15658.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
 ];

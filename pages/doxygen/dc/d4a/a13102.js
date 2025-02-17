@@ -1,10 +1,9 @@
 var a13102 =
 [
-    [ "MoveDelayed", "dc/d4a/a13102.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
-    [ "Execute", "dc/d4a/a13102.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
-    [ "_o", "dc/d4a/a13102.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
-    [ "_owner", "dc/d4a/a13102.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
-    [ "_x", "dc/d4a/a13102.html#aa490d19022c27932e76af38281fe158b", null ],
-    [ "_y", "dc/d4a/a13102.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
-    [ "_z", "dc/d4a/a13102.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
+    [ "boss_brutallus", "dc/d4a/a13102.html#a501c898505eb4265edee1546bc54713e", null ],
+    [ "AttackStart", "dc/d4a/a13102.html#a05edf7010f4e7364399bc81582502219", null ],
+    [ "JustDied", "dc/d4a/a13102.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
+    [ "JustEngagedWith", "dc/d4a/a13102.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
+    [ "KilledUnit", "dc/d4a/a13102.html#a608607d83680da85f91324ce0035804b", null ],
+    [ "Reset", "dc/d4a/a13102.html#a20ad64739072e39e7ff3132c6f637af7", null ]
 ];

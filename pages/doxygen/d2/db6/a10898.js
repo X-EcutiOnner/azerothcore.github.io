@@ -1,11 +1,17 @@
 var a10898 =
 [
-    [ "SpellValue", "d2/db6/a10898.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
-    [ "AuraDuration", "d2/db6/a10898.html#af44c190ba8a8636d78f8d271656bdd02", null ],
-    [ "AuraStackAmount", "d2/db6/a10898.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
-    [ "EffectBasePoints", "d2/db6/a10898.html#a4de44adea4dc620f0871215e4d4f611d", null ],
-    [ "ForcedCritResult", "d2/db6/a10898.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
-    [ "MaxAffectedTargets", "d2/db6/a10898.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
-    [ "MiscVal", "d2/db6/a10898.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
-    [ "RadiusMod", "d2/db6/a10898.html#a135bbce8300101411e87a70467dbbd57", null ]
+    [ "WorldPacket", "d2/db6/a10898.html#a6329945c46586b75f41f4f3b0410a046", null ],
+    [ "WorldPacket", "d2/db6/a10898.html#a121222c627cfce905891be1611705a1a", null ],
+    [ "WorldPacket", "d2/db6/a10898.html#af406fe2f357035990fd5eccf37f3fb93", null ],
+    [ "WorldPacket", "d2/db6/a10898.html#a2880e36e172096407778fcbbdfe917bc", null ],
+    [ "WorldPacket", "d2/db6/a10898.html#a251580581b403cc113aa743c0196ceea", null ],
+    [ "WorldPacket", "d2/db6/a10898.html#a224a2ad18da5d8dd7a7bcbb887870243", null ],
+    [ "GetOpcode", "d2/db6/a10898.html#a666547feae3b83bfbba424a541287239", null ],
+    [ "GetReceivedTime", "d2/db6/a10898.html#a467aa36509adcb07f51bc8af24137c3e", null ],
+    [ "Initialize", "d2/db6/a10898.html#a6b7d58fb0230383629fa888d3aa9dbd8", null ],
+    [ "operator=", "d2/db6/a10898.html#ad44064a3c2c73f6289a9db539b408f50", null ],
+    [ "operator=", "d2/db6/a10898.html#aa1196a05e7b338543b3b94188e59721f", null ],
+    [ "SetOpcode", "d2/db6/a10898.html#acb55a3f9540c39bf88300473c29605ed", null ],
+    [ "m_opcode", "d2/db6/a10898.html#a4ff77d8a27744f07bbab70cdc4a3ef91", null ],
+    [ "m_receivedTime", "d2/db6/a10898.html#abb78776ad3a0f19e5e3d226666612b49", null ]
 ];

@@ -1,13 +1,14 @@
 var a18298 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d3/d99/a18298.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "d3/d99/a18298.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "d3/d99/a18298.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "d3/d99/a18298.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "d3/d99/a18298.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "d3/d99/a18298.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "d3/d99/a18298.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "d3/d99/a18298.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "d3/d99/a18298.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "d3/d99/a18298.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d3/d99/a18298.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
+    [ "AttackStart", "d3/d99/a18298.html#a5457c18c60a8301ea60ef34d810a14c9", null ],
+    [ "CanAIAttack", "d3/d99/a18298.html#aaf12ae21dddfa6b47ffa7880f65487a4", null ],
+    [ "DoAction", "d3/d99/a18298.html#abbd08537ed245084ca7d4cf852a749a2", null ],
+    [ "EnterEvadeMode", "d3/d99/a18298.html#a32bd4ed61bc62206ccedcf4acaeb8df8", null ],
+    [ "JustEngagedWith", "d3/d99/a18298.html#ad7385306f8058699ee004b7bc5f1b538", null ],
+    [ "JustReachedHome", "d3/d99/a18298.html#a2ae1c178a84c6d6899cf6400cb963e44", null ],
+    [ "MoveInLineOfSight", "d3/d99/a18298.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
+    [ "Reset", "d3/d99/a18298.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ],
+    [ "UpdateAI", "d3/d99/a18298.html#a89ce158e08b3da1e54b0be6caa3950b8", null ],
+    [ "checkTimer", "d3/d99/a18298.html#ae5c238e2e201c431ceccc59a3a26078b", null ]
 ];

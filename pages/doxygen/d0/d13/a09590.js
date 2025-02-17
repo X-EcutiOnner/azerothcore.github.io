@@ -1,6 +1,8 @@
 var a09590 =
 [
-    [ "flags", "d0/d13/a09590.html#a953acfd67349f028a839390ebe7fc398", null ],
-    [ "fourcc", "d0/d13/a09590.html#a14d0e9cf761aae3ef914f3bff86ef216", null ],
-    [ "gridArea", "d0/d13/a09590.html#a4ee571320d5d346bbf74709677bbee05", null ]
+    [ "BossInfo", "d0/d13/a09590.html#a455f533d647927d182176c3cceb21f42", null ],
+    [ "boundary", "d0/d13/a09590.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
+    [ "door", "d0/d13/a09590.html#a858af8825ed4fe183ee19b6f10239304", null ],
+    [ "minion", "d0/d13/a09590.html#abec1469d41f286d02c34223171373cd3", null ],
+    [ "state", "d0/d13/a09590.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
 ];

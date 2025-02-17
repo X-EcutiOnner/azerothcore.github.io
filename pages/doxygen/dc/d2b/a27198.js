@@ -1,13 +1,8 @@
 var a27198 =
 [
-    [ "npc_nelsonAI", "dc/d2b/a27198.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
-    [ "DoAction", "dc/d2b/a27198.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
-    [ "JustEngagedWith", "dc/d2b/a27198.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
-    [ "JustSummoned", "dc/d2b/a27198.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
-    [ "Reset", "dc/d2b/a27198.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
-    [ "SpellHit", "dc/d2b/a27198.html#afab81d8a6077c755c186bb619944d78d", null ],
-    [ "SummonedCreatureDies", "dc/d2b/a27198.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
-    [ "UpdateAI", "dc/d2b/a27198.html#ac68749942f37de5f9105556fe7b904b7", null ],
-    [ "events", "dc/d2b/a27198.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
-    [ "shouldDespawn", "dc/d2b/a27198.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
+    [ "go_bellsAI", "dc/d2b/a27198.html#a6f22847c66a3b5faded35da799359846", null ],
+    [ "UpdateAI", "dc/d2b/a27198.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
+    [ "_events", "dc/d2b/a27198.html#a46c66442078cee28a76fc412746ca026", null ],
+    [ "_soundId", "dc/d2b/a27198.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
+    [ "once", "dc/d2b/a27198.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
 ];

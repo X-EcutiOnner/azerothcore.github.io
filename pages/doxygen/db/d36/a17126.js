@@ -1,6 +1,6 @@
 var a17126 =
 [
-    [ "boss_deathbringer_saurfangAI", "d5/d3b/a17130.html", "d5/d3b/a17130" ],
-    [ "boss_deathbringer_saurfang", "db/d36/a17126.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
-    [ "GetAI", "db/d36/a17126.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
+    [ "npc_dark_nucleusAI", "d5/d3b/a17130.html", "d5/d3b/a17130" ],
+    [ "npc_dark_nucleus", "db/d36/a17126.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "db/d36/a17126.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

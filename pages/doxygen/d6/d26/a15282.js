@@ -1,7 +1,7 @@
 var a15282 =
 [
-    [ "DelayedWindstoneSummonEvent", "d6/d26/a15282.html#aa97daf8cf3479395ffd6558b6699436a", null ],
-    [ "Execute", "d6/d26/a15282.html#aa413bc8709bc543b89ffb3df42185475", null ],
-    [ "_playerGUID", "d6/d26/a15282.html#ad83bb6d87b569f59e99abcc16517745b", null ],
-    [ "_summon", "d6/d26/a15282.html#af9804d276da5daebab3a37f2c75301ea", null ]
+    [ "HandleDummy", "d6/d26/a15282.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "d6/d26/a15282.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "d6/d26/a15282.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "d6/d26/a15282.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

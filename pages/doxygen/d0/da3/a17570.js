@@ -1,6 +1,6 @@
 var a17570 =
 [
-    [ "npc_gas_cloudAI", "d0/da3/a17570.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
-    [ "CastMainSpell", "d0/da3/a17570.html#a61681f6f9616fe33274302d4160c709b", null ],
-    [ "_newTargetSelectTimer", "d0/da3/a17570.html#a6989b904abaa5b71362e43664f4b084d", null ]
+    [ "npc_cult_fanaticAI", "df/d32/a17574.html", "df/d32/a17574" ],
+    [ "npc_cult_fanatic", "d0/da3/a17570.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "d0/da3/a17570.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

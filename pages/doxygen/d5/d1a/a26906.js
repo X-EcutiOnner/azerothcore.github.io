@@ -1,5 +1,5 @@
 var a26906 =
 [
-    [ "go_arena_ready_marker", "d5/d1a/a26906.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
-    [ "OnGossipHello", "d5/d1a/a26906.html#a9f51ead2b56d51427ff23be9688388d8", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "d5/d1a/a26906.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "d5/d1a/a26906.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

@@ -1,8 +1,6 @@
 var a19338 =
 [
-    [ "dark_rune_protectorsAI", "d9/d9f/a19338.html#ae2f3cfd19e565ede132e38f439a930ba", null ],
-    [ "JustEngagedWith", "d9/d9f/a19338.html#aa71514efa488ff8f9276cb2a4c166759", null ],
-    [ "Reset", "d9/d9f/a19338.html#a88305b8ac016175d61a0387d1888671f", null ],
-    [ "UpdateAI", "d9/d9f/a19338.html#a0e27fc91a01362ee58a0eb10fb9a5176", null ],
-    [ "events", "d9/d9f/a19338.html#a2836d6f142a322dae0aed9ff6a4888e2", null ]
+    [ "npc_spark_of_ionarAI", "df/d41/a19342.html", "df/d41/a19342" ],
+    [ "npc_spark_of_ionar", "d9/d9f/a19338.html#a63578a0d77331849b7a48272870af04d", null ],
+    [ "GetAI", "d9/d9f/a19338.html#aa1e524327b76ddc11a32e7a094e39dd1", null ]
 ];

@@ -1,6 +1,6 @@
 var a10678 =
 [
-    [ "DismissCritter", "d6/df8/a10678.html#a87e35583063b340f014d21cd02c54cab", null ],
-    [ "Read", "d6/df8/a10678.html#a411b65505e8a332ecf9291a670dc38c4", null ],
-    [ "CritterGUID", "d6/df8/a10678.html#a89c071e81c9d39c099c32c4976f15304", null ]
+    [ "PlayerSaveGuildEmblem", "d6/df8/a10678.html#ae1269fb7583f0ce1703cd89d592b1485", null ],
+    [ "Write", "d6/df8/a10678.html#a0427be2f46cba4ff6b2ca072924bca7b", null ],
+    [ "Error", "d6/df8/a10678.html#a76930d3b74bf7b84a311b24b53d03b21", null ]
 ];

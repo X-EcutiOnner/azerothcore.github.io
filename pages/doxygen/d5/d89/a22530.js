@@ -1,10 +1,9 @@
 var a22530 =
 [
-    [ "boss_gathios_the_shatterer", "d5/d89/a22530.html#a34708f52c610e567c5acf62962e90d4e", null ],
-    [ "JustEngagedWith", "d5/d89/a22530.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
-    [ "SelectCouncilMember", "d5/d89/a22530.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
-    [ "UpdateAI", "d5/d89/a22530.html#a1541f1efd3978a4c91b80e411aec6442", null ],
-    [ "_toggleAura", "d5/d89/a22530.html#aa983e2d9018a9e53ee29840781f47c33", null ],
-    [ "_toggleBlessing", "d5/d89/a22530.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
-    [ "_toggleSeal", "d5/d89/a22530.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d5/d89/a22530.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "d5/d89/a22530.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "d5/d89/a22530.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "d5/d89/a22530.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "d5/d89/a22530.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "d5/d89/a22530.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

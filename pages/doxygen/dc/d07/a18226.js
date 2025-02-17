@@ -1,6 +1,6 @@
 var a18226 =
 [
-    [ "npc_blistering_zombieAI", "d6/da9/a18230.html", "d6/da9/a18230" ],
-    [ "npc_blistering_zombie", "dc/d07/a18226.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
-    [ "GetAI", "dc/d07/a18226.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
+    [ "npc_icc_lk_checktargetAI", "d6/da9/a18230.html", "d6/da9/a18230" ],
+    [ "npc_icc_lk_checktarget", "dc/d07/a18226.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "dc/d07/a18226.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

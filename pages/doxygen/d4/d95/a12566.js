@@ -1,6 +1,7 @@
 var a12566 =
 [
-    [ "HandleProc", "d4/d95/a12566.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
-    [ "PrepareAuraScript", "d4/d95/a12566.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
-    [ "Register", "d4/d95/a12566.html#a24df76ff0933685bade58deff98856d2", null ]
+    [ "FilterTargets", "d4/d95/a12566.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
+    [ "Load", "d4/d95/a12566.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
+    [ "PrepareSpellScript", "d4/d95/a12566.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
+    [ "Register", "d4/d95/a12566.html#ae366530ddacf45a92eaa36be7e706a84", null ]
 ];

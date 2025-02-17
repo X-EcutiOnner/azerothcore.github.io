@@ -1,6 +1,6 @@
 var a14342 =
 [
-    [ "OnRemove", "dd/d56/a14342.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "dd/d56/a14342.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "dd/d56/a14342.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "HandleDummy", "dd/d56/a14342.html#a5e0797e5af760b618b1498f405766de8", null ],
+    [ "PrepareSpellScript", "dd/d56/a14342.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
+    [ "Register", "dd/d56/a14342.html#a2254e486bda73e07f8327c3412c7852b", null ]
 ];

@@ -1,10 +1,8 @@
 var a07146 =
 [
-    [ "Battleground2ChatBuilder", "de/d85/a07146.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1", null ],
-    [ "operator()", "de/d85/a07146.html#a7c0ee21531ba43d9d2ab427d95da2ec5", null ],
-    [ "_arg1", "de/d85/a07146.html#aa6959944406804f01baa18cd898bfc41", null ],
-    [ "_arg2", "de/d85/a07146.html#aebfaeac77c40d4c7938cbdd488defc51", null ],
-    [ "_msgtype", "de/d85/a07146.html#a770d30e207e41a8f985776787d53f2cf", null ],
-    [ "_source", "de/d85/a07146.html#a8867dd698d0457688202e1a9378255d2", null ],
-    [ "_textId", "de/d85/a07146.html#a632cab30adc21c22f1a8890b1627262a", null ]
+    [ "nbTowerCannonBottom", "de/d85/a07146.html#a06e8dcf63efd928b72f3ec7d433ccb89", null ],
+    [ "nbTurretTop", "de/d85/a07146.html#a5a728dccad89da190131cd93b62390b7", null ],
+    [ "TowerCannonBottom", "de/d85/a07146.html#a21fa09356b3349bf45865aa3f0920268", null ],
+    [ "towerEntry", "de/d85/a07146.html#a37e171a06a6e7bf5c0832417c597c2e1", null ],
+    [ "TurretTop", "de/d85/a07146.html#a6849ba6967fa275950da9fec16df9bec", null ]
 ];

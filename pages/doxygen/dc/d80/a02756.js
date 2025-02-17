@@ -1,11 +1,12 @@
 var a02756 =
 [
-    [ "npc_announcer_toc10", "d7/df9/a16350.html", "d7/df9/a16350" ],
-    [ "MenuTexts", "dc/d80/a02756.html#a5e87c460d493df2d4629af8c1a30fc5a", [
-      [ "MSG_TESTED", "dc/d80/a02756.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
-      [ "MSG_NEXT_STAGE", "dc/d80/a02756.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
-      [ "MSG_CRUSADERS", "dc/d80/a02756.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
-      [ "MSG_ANUBARAK", "dc/d80/a02756.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
-    ] ],
-    [ "AddSC_trial_of_the_crusader", "dc/d80/a02756.html#aae8fa1928137dde06462a753ceebcca6", null ]
+    [ "PacketHandler< PacketClass, HandlerFunction >", "d5/d56/a10846.html", "d5/d56/a10846" ],
+    [ "PacketHandler< WorldPacket, HandlerFunction >", "d1/d17/a10850.html", "d1/d17/a10850" ],
+    [ "get_packet_class< T >", "d7/dfc/a10854.html", null ],
+    [ "get_packet_class< void(WorldSession::*)(PacketClass &)>", "de/de2/a10858.html", "de/de2/a10858" ],
+    [ "DEFINE_HANDLER", "dc/d80/a02756.html#ab23af9582942bed23ea9ab4a8747c67c", null ],
+    [ "DEFINE_SERVER_OPCODE_HANDLER", "dc/d80/a02756.html#a4bcb2df62d580f2bb5ab3c2aa5b35f5e", null ],
+    [ "GetOpcodeNameForLogging", "de/d41/a04734.html#ga699f5666ad5594443aa2ca21df85a1d3", null ],
+    [ "GetOpcodeNameForLoggingImpl", "dc/d80/a02756.html#a0adf4b5d8c638656581d9a62be18539e", null ],
+    [ "opcodeTable", "de/d41/a04734.html#gaab348862a5b8f265e05e5b0ac296162a", null ]
 ];

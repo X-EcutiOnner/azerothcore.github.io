@@ -1,9 +1,6 @@
 var a17986 =
 [
-    [ "npc_icc_ice_sphereAI", "da/ddf/a17986.html#a685f45e5cd15b005646e596ff61088e8", null ],
-    [ "DoAction", "da/ddf/a17986.html#ac056ecdd93bc716964054f38ab81014e", null ],
-    [ "SelectNewTarget", "da/ddf/a17986.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
-    [ "UpdateAI", "da/ddf/a17986.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
-    [ "targetGUID", "da/ddf/a17986.html#a3e202f9bde2a202d329066f7aab8897c", null ],
-    [ "timer", "da/ddf/a17986.html#a42842e92926e18ef2589687d81a7d0d4", null ]
+    [ "PeriodicTick", "da/ddf/a17986.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
+    [ "PrepareAuraScript", "da/ddf/a17986.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
+    [ "Register", "da/ddf/a17986.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
 ];

@@ -1,8 +1,6 @@
 var a15726 =
 [
-    [ "RestoreFight", "d4/d90/a15726.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "RestoreFight", "d4/d90/a15726.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "Execute", "d4/d90/a15726.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "Execute", "d4/d90/a15726.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "_owner", "d4/d90/a15726.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
+    [ "boss_hadronoxAI", "d0/d7a/a15730.html", "d0/d7a/a15730" ],
+    [ "boss_hadronox", "d4/d90/a15726.html#ae3457fd6108cc350cf9eedab3178f781", null ],
+    [ "GetAI", "d4/d90/a15726.html#a90bf0ecb218e30e61852baffeabc3dc1", null ]
 ];

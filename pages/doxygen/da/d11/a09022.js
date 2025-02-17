@@ -1,10 +1,10 @@
 var a09022 =
 [
-    [ "UnitLastSearcher", "da/d11/a09022.html#a7924240df139cf0814282eaff8a898b6", null ],
-    [ "Visit", "da/d11/a09022.html#a95a5148e040daf44ed19e3118621a4ca", null ],
-    [ "Visit", "da/d11/a09022.html#ae9992afc09771d4f1e1517642075f17e", null ],
-    [ "Visit", "da/d11/a09022.html#aadfcfdd95a9f2b61cb9ff4c7db43a014", null ],
-    [ "i_check", "da/d11/a09022.html#a6cf23e7ed9198798da03e6ec3526ee97", null ],
-    [ "i_object", "da/d11/a09022.html#a7bd2407800c461de70b217a4b48f9921", null ],
-    [ "i_phaseMask", "da/d11/a09022.html#aee39e2b567813e1e7420de07b3fe9b08", null ]
+    [ "GridObjectLoader", "da/d11/a09022.html#a57cd46fee6f747221761aa3114c40ba6", null ],
+    [ "AddObjectHelper", "da/d11/a09022.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
+    [ "LoadAllCellsInGrid", "da/d11/a09022.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
+    [ "LoadCreatures", "da/d11/a09022.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
+    [ "LoadGameObjects", "da/d11/a09022.html#ad577dbb6544e806d25b496796651ba5b", null ],
+    [ "_grid", "da/d11/a09022.html#abe551354634514fa3998eccb10fcbefe", null ],
+    [ "_map", "da/d11/a09022.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
 ];

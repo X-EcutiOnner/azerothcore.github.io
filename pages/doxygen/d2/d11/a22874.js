@@ -1,6 +1,8 @@
 var a22874 =
 [
-    [ "HandleScriptEffect", "d2/d11/a22874.html#a6489e3a58421da7c448a24d6673564c5", null ],
-    [ "PrepareSpellScript", "d2/d11/a22874.html#a5afd50fdc8393a12cd39a56c342f9179", null ],
-    [ "Register", "d2/d11/a22874.html#a274d65aa393a65e19bbb67a5d07c7428", null ]
+    [ "CalcPeriodic", "d2/d11/a22874.html#aad87c25b9b3255a4871bec39d9787299", null ],
+    [ "PrepareAuraScript", "d2/d11/a22874.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
+    [ "Register", "d2/d11/a22874.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
+    [ "Update", "d2/d11/a22874.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
+    [ "Validate", "d2/d11/a22874.html#ae4f7bfb1cd95666acada217173876352", null ]
 ];

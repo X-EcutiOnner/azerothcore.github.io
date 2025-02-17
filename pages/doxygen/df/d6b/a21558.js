@@ -1,6 +1,6 @@
 var a21558 =
 [
-    [ "npc_spiritual_insightAI", "df/d6b/a21558.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "df/d6b/a21558.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "df/d6b/a21558.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_hourglass_of_eternityAI", "d9/da4/a21562.html", "d9/da4/a21562" ],
+    [ "npc_hourglass_of_eternity", "df/d6b/a21558.html#a40500ff582ead06bd646be86baad7d35", null ],
+    [ "GetAI", "df/d6b/a21558.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
 ];

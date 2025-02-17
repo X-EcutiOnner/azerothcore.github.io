@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/AI/ScriptedAI/ScriptedGossip.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Conditions/DisableMgr.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,349 +105,190 @@ $(document).ready(function(){initNavTree('dc/da6/a02192.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">ScriptedGossip.cpp File Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a> &#124;
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">DisableMgr.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptedGossip.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Map.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:af077a82741577a63a075c7d40b3b3dc5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#af077a82741577a63a075c7d40b3b3dc5">ClearGossipMenuFor</a> (<a class="el" href="../../df/d29/a08478.html">Player</a> *player)</td></tr>
-<tr class="separator:af077a82741577a63a075c7d40b3b3dc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1d54254ae4ddb1bb0e9e2c74dffe5bf5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5">AddGossipItemFor</a> (<a class="el" href="../../df/d29/a08478.html">Player</a> *player, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> icon, std::string const &amp;text, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sender, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> action)</td></tr>
-<tr class="separator:a1d54254ae4ddb1bb0e9e2c74dffe5bf5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acd7e8e52a911742a99728cf9408e23b8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#acd7e8e52a911742a99728cf9408e23b8">AddGossipItemFor</a> (<a class="el" href="../../df/d29/a08478.html">Player</a> *player, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> icon, std::string const &amp;text, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sender, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> action, std::string const &amp;popupText, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> popupMoney, bool coded)</td></tr>
-<tr class="separator:acd7e8e52a911742a99728cf9408e23b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a21e32e886a589c9093660b3c4c58f72c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#a21e32e886a589c9093660b3c4c58f72c">AddGossipItemFor</a> (<a class="el" href="../../df/d29/a08478.html">Player</a> *player, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> gossipMenuID, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> gossipMenuItemID, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sender, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> action, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> boxMoney)</td></tr>
-<tr class="separator:a21e32e886a589c9093660b3c4c58f72c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a18599cfc6649557de0d505ed4d4a0210"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#a18599cfc6649557de0d505ed4d4a0210">SendGossipMenuFor</a> (<a class="el" href="../../df/d29/a08478.html">Player</a> *player, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> npcTextID, <a class="el" href="../../d7/dac/a08278.html">ObjectGuid</a> const guid)</td></tr>
-<tr class="separator:a18599cfc6649557de0d505ed4d4a0210"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad893abf2b09592b57715ef4a3222a2b3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#ad893abf2b09592b57715ef4a3222a2b3">SendGossipMenuFor</a> (<a class="el" href="../../df/d29/a08478.html">Player</a> *player, <a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> npcTextID, <a class="el" href="../../d6/dd4/a07858.html">Creature</a> const *creature)</td></tr>
-<tr class="separator:ad893abf2b09592b57715ef4a3222a2b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af8f7e54dac5ecc86e92d780c3918cb09"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#af8f7e54dac5ecc86e92d780c3918cb09">CloseGossipMenuFor</a> (<a class="el" href="../../df/d29/a08478.html">Player</a> *player)</td></tr>
-<tr class="separator:af8f7e54dac5ecc86e92d780c3918cb09"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d6c/a07826.html">DisableData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d71/a07830.html">DisableMgr</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a1a184d22bd27210ea5af79573927826a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#a1a184d22bd27210ea5af79573927826a">sDisableMgr</a>&#160;&#160;&#160;<a class="el" href="../../d8/d71/a07830.html#ac3787801d677b0ed6592476d648743db">DisableMgr::instance</a>()</td></tr>
+<tr class="separator:a1a184d22bd27210ea5af79573927826a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:affa2a0d7ee61f6e1bc7c6cb7d2c1b64c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c">DisableType</a> { <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27">DISABLE_TYPE_SPELL</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e">DISABLE_TYPE_QUEST</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c">DISABLE_TYPE_MAP</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a">DISABLE_TYPE_BATTLEGROUND</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1">DISABLE_TYPE_ACHIEVEMENT_CRITERIA</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296">DISABLE_TYPE_OUTDOORPVP</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff">DISABLE_TYPE_VMAP</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a">DISABLE_TYPE_GO_LOS</a> = 7
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68">DISABLE_TYPE_LFG_MAP</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0">DISABLE_TYPE_GAME_EVENT</a> = 9
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f">DISABLE_TYPE_LOOT</a> = 10
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f">MAX_DISABLE_TYPES</a>
+<br />
+ }</td></tr>
+<tr class="separator:affa2a0d7ee61f6e1bc7c6cb7d2c1b64c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b9e8ca1dcd13802fa528f955deaefd7"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7">SpellDisableTypes</a> { <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41">SPELL_DISABLE_PLAYER</a> = 0x1
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707">SPELL_DISABLE_CREATURE</a> = 0x2
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4">SPELL_DISABLE_PET</a> = 0x4
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b">SPELL_DISABLE_DEPRECATED_SPELL</a> = 0x8
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484">SPELL_DISABLE_MAP</a> = 0x10
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268">SPELL_DISABLE_AREA</a> = 0x20
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437">SPELL_DISABLE_LOS</a> = 0x40
+, <br />
+&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d">MAX_SPELL_DISABLE_TYPE</a>
+<br />
+ }</td></tr>
+<tr class="separator:a7b9e8ca1dcd13802fa528f955deaefd7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a21e32e886a589c9093660b3c4c58f72c" name="a21e32e886a589c9093660b3c4c58f72c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a21e32e886a589c9093660b3c4c58f72c">&#9670;&#160;</a></span>AddGossipItemFor() <span class="overload">[1/3]</span></h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a1a184d22bd27210ea5af79573927826a" name="a1a184d22bd27210ea5af79573927826a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a184d22bd27210ea5af79573927826a">&#9670;&#160;</a></span>sDisableMgr</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddGossipItemFor </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d29/a08478.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>gossipMenuID</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>gossipMenuItemID</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>sender</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>action</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>boxMoney</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">#define sDisableMgr&#160;&#160;&#160;<a class="el" href="../../d8/d71/a07830.html#ac3787801d677b0ed6592476d648743db">DisableMgr::instance</a>()</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   41</span>{</div>
-<div class="line"><span class="lineno">   42</span>    player-&gt;<a class="code hl_variable" href="../../df/d29/a08478.html#af9651858db4302e3dff8ec5bff131f72">PlayerTalkClass</a>-&gt;<a class="code hl_function" href="../../d4/d47/a07978.html#acc519746fa45290cde3967dc5f604158">GetGossipMenu</a>().<a class="code hl_function" href="../../d9/d71/a07970.html#a47c99098962324ba20efb029df24fd3e">AddMenuItem</a>(gossipMenuID, gossipMenuItemID, sender, action, boxMoney);</div>
-<div class="line"><span class="lineno">   43</span>}</div>
-<div class="ttc" id="aa07970_html_a47c99098962324ba20efb029df24fd3e"><div class="ttname"><a href="../../d9/d71/a07970.html#a47c99098962324ba20efb029df24fd3e">GossipMenu::AddMenuItem</a></div><div class="ttdeci">void AddMenuItem(int32 menuItemId, uint8 icon, std::string const &amp;message, uint32 sender, uint32 action, std::string const &amp;boxMessage, uint32 boxMoney, bool coded=false)</div><div class="ttdef"><b>Definition:</b> GossipDef.cpp:41</div></div>
-<div class="ttc" id="aa07978_html_acc519746fa45290cde3967dc5f604158"><div class="ttname"><a href="../../d4/d47/a07978.html#acc519746fa45290cde3967dc5f604158">PlayerMenu::GetGossipMenu</a></div><div class="ttdeci">GossipMenu &amp; GetGossipMenu()</div><div class="ttdef"><b>Definition:</b> GossipDef.h:264</div></div>
-<div class="ttc" id="aa08478_html_af9651858db4302e3dff8ec5bff131f72"><div class="ttname"><a href="../../df/d29/a08478.html#af9651858db4302e3dff8ec5bff131f72">Player::PlayerTalkClass</a></div><div class="ttdeci">PlayerMenu * PlayerTalkClass</div><div class="ttdef"><b>Definition:</b> Player.h:2247</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">GossipMenu::AddMenuItem()</a>, <a class="el" href="../../#l00264">PlayerMenu::GetGossipMenu()</a>, and <a class="el" href="../../#l02247">Player::PlayerTalkClass</a>.</p>
 
 </div>
 </div>
-<a id="a1d54254ae4ddb1bb0e9e2c74dffe5bf5" name="a1d54254ae4ddb1bb0e9e2c74dffe5bf5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1d54254ae4ddb1bb0e9e2c74dffe5bf5">&#9670;&#160;</a></span>AddGossipItemFor() <span class="overload">[2/3]</span></h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64c" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c">&#9670;&#160;</a></span>DisableType</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddGossipItemFor </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d29/a08478.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>icon</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>text</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>sender</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>action</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">enum <a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c">DisableType</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
-<div class="line"><span class="lineno">   30</span>    player-&gt;<a class="code hl_variable" href="../../df/d29/a08478.html#af9651858db4302e3dff8ec5bff131f72">PlayerTalkClass</a>-&gt;<a class="code hl_function" href="../../d4/d47/a07978.html#acc519746fa45290cde3967dc5f604158">GetGossipMenu</a>().<a class="code hl_function" href="../../d9/d71/a07970.html#a47c99098962324ba20efb029df24fd3e">AddMenuItem</a>(-1, icon, text, sender, action, <span class="stringliteral">&quot;&quot;</span>, 0);</div>
-<div class="line"><span class="lineno">   31</span>}</div>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27"></a>DISABLE_TYPE_SPELL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e"></a>DISABLE_TYPE_QUEST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c"></a>DISABLE_TYPE_MAP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a"></a>DISABLE_TYPE_BATTLEGROUND&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1"></a>DISABLE_TYPE_ACHIEVEMENT_CRITERIA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296"></a>DISABLE_TYPE_OUTDOORPVP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff"></a>DISABLE_TYPE_VMAP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a"></a>DISABLE_TYPE_GO_LOS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68"></a>DISABLE_TYPE_LFG_MAP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0"></a>DISABLE_TYPE_GAME_EVENT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f"></a>DISABLE_TYPE_LOOT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f"></a>MAX_DISABLE_TYPES&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27">DISABLE_TYPE_SPELL</a>                  = 0,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e">DISABLE_TYPE_QUEST</a>                  = 1,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c">DISABLE_TYPE_MAP</a>                    = 2,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a">DISABLE_TYPE_BATTLEGROUND</a>           = 3,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1">DISABLE_TYPE_ACHIEVEMENT_CRITERIA</a>   = 4,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296">DISABLE_TYPE_OUTDOORPVP</a>             = 5,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff">DISABLE_TYPE_VMAP</a>                   = 6,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a">DISABLE_TYPE_GO_LOS</a>                 = 7,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68">DISABLE_TYPE_LFG_MAP</a>                = 8,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0">DISABLE_TYPE_GAME_EVENT</a>             = 9,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f">DISABLE_TYPE_LOOT</a>                   = 10,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f">MAX_DISABLE_TYPES</a></div>
+<div class="line"><span class="lineno">   40</span>};</div>
+<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27">DISABLE_TYPE_SPELL</a></div><div class="ttdeci">@ DISABLE_TYPE_SPELL</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:28</div></div>
+<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f">MAX_DISABLE_TYPES</a></div><div class="ttdeci">@ MAX_DISABLE_TYPES</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:39</div></div>
+<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff">DISABLE_TYPE_VMAP</a></div><div class="ttdeci">@ DISABLE_TYPE_VMAP</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:34</div></div>
+<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e">DISABLE_TYPE_QUEST</a></div><div class="ttdeci">@ DISABLE_TYPE_QUEST</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:29</div></div>
+<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c">DISABLE_TYPE_MAP</a></div><div class="ttdeci">@ DISABLE_TYPE_MAP</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:30</div></div>
+<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a">DISABLE_TYPE_BATTLEGROUND</a></div><div class="ttdeci">@ DISABLE_TYPE_BATTLEGROUND</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:31</div></div>
+<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1">DISABLE_TYPE_ACHIEVEMENT_CRITERIA</a></div><div class="ttdeci">@ DISABLE_TYPE_ACHIEVEMENT_CRITERIA</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:32</div></div>
+<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f">DISABLE_TYPE_LOOT</a></div><div class="ttdeci">@ DISABLE_TYPE_LOOT</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:38</div></div>
+<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0">DISABLE_TYPE_GAME_EVENT</a></div><div class="ttdeci">@ DISABLE_TYPE_GAME_EVENT</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:37</div></div>
+<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68">DISABLE_TYPE_LFG_MAP</a></div><div class="ttdeci">@ DISABLE_TYPE_LFG_MAP</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:36</div></div>
+<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a">DISABLE_TYPE_GO_LOS</a></div><div class="ttdeci">@ DISABLE_TYPE_GO_LOS</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:35</div></div>
+<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296">DISABLE_TYPE_OUTDOORPVP</a></div><div class="ttdeci">@ DISABLE_TYPE_OUTDOORPVP</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:33</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">GossipMenu::AddMenuItem()</a>, <a class="el" href="../../#l00264">PlayerMenu::GetGossipMenu()</a>, and <a class="el" href="../../#l02247">Player::PlayerTalkClass</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00266">npc_pet_gen_argent_pony_bridle::OnGossipHello()</a>, <a class="el" href="../../#l00538">npc_lokhtos_darkbargainer::OnGossipHello()</a>, <a class="el" href="../../#l00090">boss_gloomrel::OnGossipHello()</a>, <a class="el" href="../../#l00152">boss_doomrel::OnGossipHello()</a>, <a class="el" href="../../#l00532">boss_majordomo::OnGossipHello()</a>, <a class="el" href="../../#l00732">npc_grandmother::OnGossipHello()</a>, <a class="el" href="../../#l00338">npc_barnes::OnGossipHello()</a>, <a class="el" href="../../#l00231">npc_death_knight_initiate::OnGossipHello()</a>, <a class="el" href="../../#l00341">npc_highlord_darion_mograine::OnGossipHello()</a>, <a class="el" href="../../#l00333">npc_augustus_the_touched::OnGossipHello()</a>, <a class="el" href="../../#l00338">npc_parqual_fintallas::OnGossipHello()</a>, <a class="el" href="../../#l00971">npc_varian_wrynn::OnGossipHello()</a>, <a class="el" href="../../#l02289">npc_thrall_bfu::OnGossipHello()</a>, <a class="el" href="../../#l00275">npc_zulaman_hostage::OnGossipHello()</a>, <a class="el" href="../../#l00333">npc_arthas::OnGossipHello()</a>, <a class="el" href="../../#l00292">npc_rizzle_sprysprocket::OnGossipHello()</a>, <a class="el" href="../../#l00068">npcs_riverbreeze_and_silversky::OnGossipHello()</a>, <a class="el" href="../../#l00079">npc_bunthen_plainswind::OnGossipHello()</a>, <a class="el" href="../../#l00159">npc_great_bear_spirit::OnGossipHello()</a>, <a class="el" href="../../#l00203">npc_silva_filnaveth::OnGossipHello()</a>, <a class="el" href="../../#l00195">npc_thrall_warchief::OnGossipHello()</a>, <a class="el" href="../../#l00067">npc_braug_dimspirit::OnGossipHello()</a>, <a class="el" href="../../#l00320">npc_steward_of_time::OnGossipHello()</a>, <a class="el" href="../../#l00383">npc_stone_watcher_of_norgannon::OnGossipHello()</a>, <a class="el" href="../../#l00238">npc_plucky::OnGossipHello()</a>, <a class="el" href="../../#l00057">npc_rivern_frostwind::OnGossipHello()</a>, <a class="el" href="../../#l00047">npc_announcer_toc5::OnGossipHello()</a>, <a class="el" href="../../#l00037">npc_announcer_toc10::OnGossipHello()</a>, <a class="el" href="../../#l00189">npc_fos_leader::OnGossipHello()</a>, <a class="el" href="../../#l00140">npc_hor_leader::OnGossipHello()</a>, <a class="el" href="../../#l00751">npc_high_overlord_saurfang_icc::OnGossipHello()</a>, <a class="el" href="../../#l00965">npc_muradin_bronzebeard_icc::OnGossipHello()</a>, <a class="el" href="../../#l00169">npc_oculus_drakegiver::OnGossipHello()</a>, <a class="el" href="../../#l00174">brann_bronzebeard::OnGossipHello()</a>, <a class="el" href="../../#l00639">npc_ulduar_expedition_commander::OnGossipHello()</a>, <a class="el" href="../../#l00152">npc_ulduar_keeper::OnGossipHello()</a>, <a class="el" href="../../#l00070">npc_vh_sinclari::OnGossipHello()</a>, <a class="el" href="../../#l00263">npc_iruk::OnGossipHello()</a>, <a class="el" href="../../#l00238">npc_shandy_dalaran::OnGossipHello()</a>, <a class="el" href="../../#l00351">npc_razael_and_lyana::OnGossipHello()</a>, <a class="el" href="../../#l00450">npc_mcmanus::OnGossipHello()</a>, <a class="el" href="../../#l00550">npc_vekjik::OnGossipHello()</a>, <a class="el" href="../../#l00612">npc_avatar_of_freya::OnGossipHello()</a>, <a class="el" href="../../#l01068">npc_adventurous_dwarf::OnGossipHello()</a>, <a class="el" href="../../#l00696">npc_roxi_ramrocket::OnGossipHello()</a>, <a class="el" href="../../#l00135">npc_wg_demolisher_engineer::OnGossipHello()</a>, <a class="el" href="../../#l00216">npc_wg_spirit_guide::OnGossipHello()</a>, <a class="el" href="../../#l00290">npc_wg_queue::OnGossipHello()</a>, <a class="el" href="../../#l00409">npc_wg_quest_giver::OnGossipHello()</a>, <a class="el" href="../../#l00183">npc_finklestein::OnGossipHello()</a>, <a class="el" href="../../#l00268">npc_captain_saeed::OnGossipHello()</a>, <a class="el" href="../../#l00700">npc_drake_dealer_hurlunk::OnGossipHello()</a>, <a class="el" href="../../#l00761">npcs_flanis_swiftwing_and_kagrosh::OnGossipHello()</a>, <a class="el" href="../../#l00050">npc_shattrathflaskvendors::OnGossipHello()</a>, <a class="el" href="../../#l00108">npc_zephyr::OnGossipHello()</a>, <a class="el" href="../../#l00599">npc_slim::OnGossipHello()</a>, <a class="el" href="../../#l00036">npc_innkeeper::OnGossipHello()</a>, <a class="el" href="../../#l00479">npc_prof_alchemy::OnGossipHello()</a>, <a class="el" href="../../#l00644">npc_prof_blacksmith::OnGossipHello()</a>, <a class="el" href="../../#l00894">npc_engineering_tele_trinket::OnGossipHello()</a>, <a class="el" href="../../#l00977">npc_prof_leather::OnGossipHello()</a>, <a class="el" href="../../#l01077">npc_prof_tailor::OnGossipHello()</a>, <a class="el" href="../../#l00439">npc_artorius::OnGossipHello()</a>, <a class="el" href="../../#l00823">npc_simone::OnGossipHello()</a>, <a class="el" href="../../#l01032">npc_nelson::OnGossipHello()</a>, <a class="el" href="../../#l01207">npc_franklin::OnGossipHello()</a>, <a class="el" href="../../#l00075">npc_taxi::OnGossipHello()</a>, <a class="el" href="../../#l01556">npc_sayge::OnGossipHello()</a>, <a class="el" href="../../#l01754">npc_wormhole::OnGossipHello()</a>, <a class="el" href="../../#l01915">npc_locksmith::OnGossipHello()</a>, <a class="el" href="../../#l02020">npc_experience::OnGossipHello()</a>, <a class="el" href="../../#l01247">go_evil_book_for_dummies::OnGossipHello()</a>, <a class="el" href="../../#l00044">icecrown_citadel_teleport::OnGossipHello()</a>, <a class="el" href="../../#l00530">go_skull_pile::OnGossipHello()</a>, <a class="el" href="../../#l01180">go_fel_crystalforge::OnGossipHello()</a>, <a class="el" href="../../#l01239">go_bashir_crystalforge::OnGossipHello()</a>, <a class="el" href="../../#l01625">go_amberpine_outhouse::OnGossipHello()</a>, <a class="el" href="../../#l00061">boss_gloomrel::OnGossipSelect()</a>, <a class="el" href="../../#l00128">boss_doomrel::OnGossipSelect()</a>, <a class="el" href="../../#l00539">boss_majordomo::OnGossipSelect()</a>, <a class="el" href="../../#l00708">npc_grandmother::OnGossipSelect()</a>, <a class="el" href="../../#l00306">npc_barnes::OnGossipSelect()</a>, <a class="el" href="../../#l00288">npc_arthas::OnGossipSelect()</a>, <a class="el" href="../../#l00131">npc_great_bear_spirit::OnGossipSelect()</a>, <a class="el" href="../../#l00172">npc_thrall_warchief::OnGossipSelect()</a>, <a class="el" href="../../#l00350">npc_stone_watcher_of_norgannon::OnGossipSelect()</a>, <a class="el" href="../../#l00181">npc_ulduar_keeper::OnGossipSelect()</a>, <a class="el" href="../../#l00566">npc_vekjik::OnGossipSelect()</a>, <a class="el" href="../../#l00624">npc_avatar_of_freya::OnGossipSelect()</a>, <a class="el" href="../../#l01028">npc_prof_leather::OnGossipSelect()</a>, <a class="el" href="../../#l00252">npc_oculus_drakegiver::OnGossipSelect()</a>, <a class="el" href="../../#l01193">go_fel_crystalforge::OnGossipSelect()</a>, <a class="el" href="../../#l01252">go_bashir_crystalforge::OnGossipSelect()</a>, <a class="el" href="../../#l01581">npc_sayge::SendAction()</a>, <a class="el" href="../../#l00555">npc_prof_alchemy::SendConfirmLearn()</a>, <a class="el" href="../../#l00765">npc_prof_blacksmith::SendConfirmLearn()</a>, <a class="el" href="../../#l01162">npc_prof_tailor::SendConfirmLearn()</a>, <a class="el" href="../../#l01320">go_evil_book_for_dummies::SendConfirmLearn()</a>, <a class="el" href="../../#l00580">npc_prof_alchemy::SendConfirmUnlearn()</a>, <a class="el" href="../../#l00790">npc_prof_blacksmith::SendConfirmUnlearn()</a>, <a class="el" href="../../#l01187">npc_prof_tailor::SendConfirmUnlearn()</a>, <a class="el" href="../../#l01337">go_evil_book_for_dummies::SendConfirmUnlearn()</a>, <a class="el" href="../../#l01349">npc_echo_of_medivh::sGossipHello()</a>, <a class="el" href="../../#l01946">npc_chesspiece::sGossipHello()</a>, <a class="el" href="../../#l00281">npc_sergeant_bly::npc_sergeant_blyAI::sGossipHello()</a>, and <a class="el" href="../../#l00565">npc_weegli_blastfuse::npc_weegli_blastfuseAI::sGossipHello()</a>.</p>
-
 </div>
 </div>
-<a id="acd7e8e52a911742a99728cf9408e23b8" name="acd7e8e52a911742a99728cf9408e23b8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acd7e8e52a911742a99728cf9408e23b8">&#9670;&#160;</a></span>AddGossipItemFor() <span class="overload">[3/3]</span></h2>
+<a id="a7b9e8ca1dcd13802fa528f955deaefd7" name="a7b9e8ca1dcd13802fa528f955deaefd7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b9e8ca1dcd13802fa528f955deaefd7">&#9670;&#160;</a></span>SpellDisableTypes</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddGossipItemFor </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d29/a08478.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>icon</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>text</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>sender</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>action</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>popupText</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>popupMoney</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>coded</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">enum <a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7">SpellDisableTypes</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   35</span>{</div>
-<div class="line"><span class="lineno">   36</span>    player-&gt;<a class="code hl_variable" href="../../df/d29/a08478.html#af9651858db4302e3dff8ec5bff131f72">PlayerTalkClass</a>-&gt;<a class="code hl_function" href="../../d4/d47/a07978.html#acc519746fa45290cde3967dc5f604158">GetGossipMenu</a>().<a class="code hl_function" href="../../d9/d71/a07970.html#a47c99098962324ba20efb029df24fd3e">AddMenuItem</a>(-1, icon, text, sender, action, popupText, popupMoney, coded);</div>
-<div class="line"><span class="lineno">   37</span>}</div>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41" name="a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41"></a>SPELL_DISABLE_PLAYER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707" name="a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707"></a>SPELL_DISABLE_CREATURE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4" name="a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4"></a>SPELL_DISABLE_PET&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b" name="a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b"></a>SPELL_DISABLE_DEPRECATED_SPELL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484" name="a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484"></a>SPELL_DISABLE_MAP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268" name="a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268"></a>SPELL_DISABLE_AREA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437" name="a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437"></a>SPELL_DISABLE_LOS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d" name="a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d"></a>MAX_SPELL_DISABLE_TYPE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41">SPELL_DISABLE_PLAYER</a>            = 0x1,</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707">SPELL_DISABLE_CREATURE</a>          = 0x2,</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4">SPELL_DISABLE_PET</a>               = 0x4,</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b">SPELL_DISABLE_DEPRECATED_SPELL</a>  = 0x8,</div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484">SPELL_DISABLE_MAP</a>               = 0x10,</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268">SPELL_DISABLE_AREA</a>              = 0x20,</div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437">SPELL_DISABLE_LOS</a>               = 0x40,</div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d">MAX_SPELL_DISABLE_TYPE</a>          = (<a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41">SPELL_DISABLE_PLAYER</a> | <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707">SPELL_DISABLE_CREATURE</a> | <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4">SPELL_DISABLE_PET</a> |</div>
+<div class="line"><span class="lineno">   52</span>                                       <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b">SPELL_DISABLE_DEPRECATED_SPELL</a> | <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484">SPELL_DISABLE_MAP</a> | <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268">SPELL_DISABLE_AREA</a> |</div>
+<div class="line"><span class="lineno">   53</span>                                       <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437">SPELL_DISABLE_LOS</a>)</div>
+<div class="line"><span class="lineno">   54</span>};</div>
+<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437">SPELL_DISABLE_LOS</a></div><div class="ttdeci">@ SPELL_DISABLE_LOS</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:50</div></div>
+<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707">SPELL_DISABLE_CREATURE</a></div><div class="ttdeci">@ SPELL_DISABLE_CREATURE</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:45</div></div>
+<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4">SPELL_DISABLE_PET</a></div><div class="ttdeci">@ SPELL_DISABLE_PET</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:46</div></div>
+<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484">SPELL_DISABLE_MAP</a></div><div class="ttdeci">@ SPELL_DISABLE_MAP</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:48</div></div>
+<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41">SPELL_DISABLE_PLAYER</a></div><div class="ttdeci">@ SPELL_DISABLE_PLAYER</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:44</div></div>
+<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b">SPELL_DISABLE_DEPRECATED_SPELL</a></div><div class="ttdeci">@ SPELL_DISABLE_DEPRECATED_SPELL</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:47</div></div>
+<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d">MAX_SPELL_DISABLE_TYPE</a></div><div class="ttdeci">@ MAX_SPELL_DISABLE_TYPE</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:51</div></div>
+<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268">SPELL_DISABLE_AREA</a></div><div class="ttdeci">@ SPELL_DISABLE_AREA</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:49</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">GossipMenu::AddMenuItem()</a>, <a class="el" href="../../#l00264">PlayerMenu::GetGossipMenu()</a>, and <a class="el" href="../../#l02247">Player::PlayerTalkClass</a>.</p>
-
-</div>
-</div>
-<a id="af077a82741577a63a075c7d40b3b3dc5" name="af077a82741577a63a075c7d40b3b3dc5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af077a82741577a63a075c7d40b3b3dc5">&#9670;&#160;</a></span>ClearGossipMenuFor()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ClearGossipMenuFor </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d29/a08478.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
-<div class="line"><span class="lineno">   24</span>    player-&gt;<a class="code hl_variable" href="../../df/d29/a08478.html#af9651858db4302e3dff8ec5bff131f72">PlayerTalkClass</a>-&gt;<a class="code hl_function" href="../../d4/d47/a07978.html#a64e6ddbdb6e894f56578339efa62e752">ClearMenus</a>();</div>
-<div class="line"><span class="lineno">   25</span>}</div>
-<div class="ttc" id="aa07978_html_a64e6ddbdb6e894f56578339efa62e752"><div class="ttname"><a href="../../d4/d47/a07978.html#a64e6ddbdb6e894f56578339efa62e752">PlayerMenu::ClearMenus</a></div><div class="ttdeci">void ClearMenus()</div><div class="ttdef"><b>Definition:</b> GossipDef.cpp:187</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00187">PlayerMenu::ClearMenus()</a>, and <a class="el" href="../../#l02247">Player::PlayerTalkClass</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00661">go_ahune_ice_stone::GossipSelect()</a>, <a class="el" href="../../#l01222">Creature::isCanInteractWithBattleMaster()</a>, <a class="el" href="../../#l00024">ScriptMgr::OnGossipHello()</a>, <a class="el" href="../../#l00977">npc_prof_leather::OnGossipHello()</a>, <a class="el" href="../../#l00311">npc_steward_of_time::OnGossipSelect()</a>, <a class="el" href="../../#l00225">npc_plucky::OnGossipSelect()</a>, <a class="el" href="../../#l00273">npc_iruk::OnGossipSelect()</a>, <a class="el" href="../../#l00734">npcs_flanis_swiftwing_and_kagrosh::OnGossipSelect()</a>, <a class="el" href="../../#l00099">npc_zephyr::OnGossipSelect()</a>, <a class="el" href="../../#l00165">npc_taxi::OnGossipSelect()</a>, <a class="el" href="../../#l01960">npc_locksmith::OnGossipSelect()</a>, <a class="el" href="../../#l02037">npc_experience::OnGossipSelect()</a>, <a class="el" href="../../#l00605">npc_prof_alchemy::OnGossipSelect()</a>, <a class="el" href="../../#l00824">npc_prof_blacksmith::OnGossipSelect()</a>, <a class="el" href="../../#l00934">npc_engineering_tele_trinket::OnGossipSelect()</a>, <a class="el" href="../../#l01212">npc_prof_tailor::OnGossipSelect()</a>, <a class="el" href="../../#l01627">npc_sayge::OnGossipSelect()</a>, <a class="el" href="../../#l00524">npc_lokhtos_darkbargainer::OnGossipSelect()</a>, <a class="el" href="../../#l00061">boss_gloomrel::OnGossipSelect()</a>, <a class="el" href="../../#l00128">boss_doomrel::OnGossipSelect()</a>, <a class="el" href="../../#l00539">boss_majordomo::OnGossipSelect()</a>, <a class="el" href="../../#l00708">npc_grandmother::OnGossipSelect()</a>, <a class="el" href="../../#l00306">npc_barnes::OnGossipSelect()</a>, <a class="el" href="../../#l00209">npc_death_knight_initiate::OnGossipSelect()</a>, <a class="el" href="../../#l00354">npc_highlord_darion_mograine::OnGossipSelect()</a>, <a class="el" href="../../#l00325">npc_augustus_the_touched::OnGossipSelect()</a>, <a class="el" href="../../#l00322">npc_parqual_fintallas::OnGossipSelect()</a>, <a class="el" href="../../#l00945">npc_varian_wrynn::OnGossipSelect()</a>, <a class="el" href="../../#l02260">npc_thrall_bfu::OnGossipSelect()</a>, <a class="el" href="../../#l00282">npc_zulaman_hostage::OnGossipSelect()</a>, <a class="el" href="../../#l00288">npc_arthas::OnGossipSelect()</a>, <a class="el" href="../../#l00057">npcs_riverbreeze_and_silversky::OnGossipSelect()</a>, <a class="el" href="../../#l00059">npc_bunthen_plainswind::OnGossipSelect()</a>, <a class="el" href="../../#l00131">npc_great_bear_spirit::OnGossipSelect()</a>, <a class="el" href="../../#l00183">npc_silva_filnaveth::OnGossipSelect()</a>, <a class="el" href="../../#l00172">npc_thrall_warchief::OnGossipSelect()</a>, <a class="el" href="../../#l00051">npc_braug_dimspirit::OnGossipSelect()</a>, <a class="el" href="../../#l00350">npc_stone_watcher_of_norgannon::OnGossipSelect()</a>, <a class="el" href="../../#l00048">npc_rivern_frostwind::OnGossipSelect()</a>, <a class="el" href="../../#l00763">npc_high_overlord_saurfang_icc::OnGossipSelect()</a>, <a class="el" href="../../#l00977">npc_muradin_bronzebeard_icc::OnGossipSelect()</a>, <a class="el" href="../../#l00181">npc_ulduar_keeper::OnGossipSelect()</a>, <a class="el" href="../../#l00380">npc_razael_and_lyana::OnGossipSelect()</a>, <a class="el" href="../../#l00566">npc_vekjik::OnGossipSelect()</a>, <a class="el" href="../../#l00624">npc_avatar_of_freya::OnGossipSelect()</a>, <a class="el" href="../../#l01086">npc_adventurous_dwarf::OnGossipSelect()</a>, <a class="el" href="../../#l00715">npc_roxi_ramrocket::OnGossipSelect()</a>, <a class="el" href="../../#l00777">npc_wg_quest_giver::OnGossipSelect()</a>, <a class="el" href="../../#l00691">npc_drake_dealer_hurlunk::OnGossipSelect()</a>, <a class="el" href="../../#l00041">npc_shattrathflaskvendors::OnGossipSelect()</a>, <a class="el" href="../../#l00590">npc_slim::OnGossipSelect()</a>, <a class="el" href="../../#l00063">npc_innkeeper::OnGossipSelect()</a>, <a class="el" href="../../#l01028">npc_prof_leather::OnGossipSelect()</a>, <a class="el" href="../../#l01776">npc_wormhole::OnGossipSelect()</a>, <a class="el" href="../../#l00206">npc_fos_leader::OnGossipSelect()</a>, <a class="el" href="../../#l00175">npc_hor_leader::OnGossipSelect()</a>, <a class="el" href="../../#l00252">npc_oculus_drakegiver::OnGossipSelect()</a>, <a class="el" href="../../#l00090">npc_vh_sinclari::OnGossipSelect()</a>, <a class="el" href="../../#l00251">npc_captain_saeed::OnGossipSelect()</a>, <a class="el" href="../../#l00232">npc_thrall_old_hillsbrad::OnGossipSelect()</a>, <a class="el" href="../../#l01911">npc_hor_leader_second::OnGossipSelect()</a>, <a class="el" href="../../#l00087">icecrown_citadel_teleport::OnGossipSelect()</a>, <a class="el" href="../../#l01639">go_amberpine_outhouse::OnGossipSelect()</a>, <a class="el" href="../../#l01354">go_evil_book_for_dummies::OnGossipSelect()</a>, <a class="el" href="../../#l00518">go_skull_pile::OnGossipSelect()</a>, <a class="el" href="../../#l01193">go_fel_crystalforge::OnGossipSelect()</a>, <a class="el" href="../../#l01252">go_bashir_crystalforge::OnGossipSelect()</a>, <a class="el" href="../../#l00024">ScriptMgr::OnQuestAccept()</a>, <a class="el" href="../../#l00115">ScriptMgr::OnQuestComplete()</a>, <a class="el" href="../../#l00126">ScriptMgr::OnQuestReward()</a>, <a class="el" href="../../#l00104">ScriptMgr::OnQuestSelect()</a>, <a class="el" href="../../#l00268">npc_sergeant_bly::npc_sergeant_blyAI::sGossipSelect()</a>, and <a class="el" href="../../#l00552">npc_weegli_blastfuse::npc_weegli_blastfuseAI::sGossipSelect()</a>.</p>
-
-</div>
-</div>
-<a id="af8f7e54dac5ecc86e92d780c3918cb09" name="af8f7e54dac5ecc86e92d780c3918cb09"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af8f7e54dac5ecc86e92d780c3918cb09">&#9670;&#160;</a></span>CloseGossipMenuFor()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void CloseGossipMenuFor </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d29/a08478.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   57</span>{</div>
-<div class="line"><span class="lineno">   58</span>    player-&gt;<a class="code hl_variable" href="../../df/d29/a08478.html#af9651858db4302e3dff8ec5bff131f72">PlayerTalkClass</a>-&gt;<a class="code hl_function" href="../../d4/d47/a07978.html#a1071f28b7138ecbd7e94d95175059ba1">SendCloseGossip</a>();</div>
-<div class="line"><span class="lineno">   59</span>}</div>
-<div class="ttc" id="aa07978_html_a1071f28b7138ecbd7e94d95175059ba1"><div class="ttname"><a href="../../d4/d47/a07978.html#a1071f28b7138ecbd7e94d95175059ba1">PlayerMenu::SendCloseGossip</a></div><div class="ttdeci">void SendCloseGossip()</div><div class="ttdef"><b>Definition:</b> GossipDef.cpp:239</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02247">Player::PlayerTalkClass</a>, and <a class="el" href="../../#l00239">PlayerMenu::SendCloseGossip()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01077">go_wind_stone::go_wind_stoneAI::GossipSelect()</a>, <a class="el" href="../../#l00661">go_ahune_ice_stone::GossipSelect()</a>, <a class="el" href="../../#l00574">npc_essence_of_twin::OnGossipHello()</a>, <a class="el" href="../../#l00225">npc_plucky::OnGossipSelect()</a>, <a class="el" href="../../#l00273">npc_iruk::OnGossipSelect()</a>, <a class="el" href="../../#l00234">npc_wg_spirit_guide::OnGossipSelect()</a>, <a class="el" href="../../#l00734">npcs_flanis_swiftwing_and_kagrosh::OnGossipSelect()</a>, <a class="el" href="../../#l00165">npc_taxi::OnGossipSelect()</a>, <a class="el" href="../../#l01960">npc_locksmith::OnGossipSelect()</a>, <a class="el" href="../../#l00322">npc_wg_queue::OnGossipSelect()</a>, <a class="el" href="../../#l00934">npc_engineering_tele_trinket::OnGossipSelect()</a>, <a class="el" href="../../#l00290">npc_pet_gen_argent_pony_bridle::OnGossipSelect()</a>, <a class="el" href="../../#l00524">npc_lokhtos_darkbargainer::OnGossipSelect()</a>, <a class="el" href="../../#l00061">boss_gloomrel::OnGossipSelect()</a>, <a class="el" href="../../#l00128">boss_doomrel::OnGossipSelect()</a>, <a class="el" href="../../#l00539">boss_majordomo::OnGossipSelect()</a>, <a class="el" href="../../#l00306">npc_barnes::OnGossipSelect()</a>, <a class="el" href="../../#l00209">npc_death_knight_initiate::OnGossipSelect()</a>, <a class="el" href="../../#l00354">npc_highlord_darion_mograine::OnGossipSelect()</a>, <a class="el" href="../../#l00322">npc_parqual_fintallas::OnGossipSelect()</a>, <a class="el" href="../../#l00945">npc_varian_wrynn::OnGossipSelect()</a>, <a class="el" href="../../#l02260">npc_thrall_bfu::OnGossipSelect()</a>, <a class="el" href="../../#l00282">npc_zulaman_hostage::OnGossipSelect()</a>, <a class="el" href="../../#l00288">npc_arthas::OnGossipSelect()</a>, <a class="el" href="../../#l00057">npcs_riverbreeze_and_silversky::OnGossipSelect()</a>, <a class="el" href="../../#l00059">npc_bunthen_plainswind::OnGossipSelect()</a>, <a class="el" href="../../#l00183">npc_silva_filnaveth::OnGossipSelect()</a>, <a class="el" href="../../#l00172">npc_thrall_warchief::OnGossipSelect()</a>, <a class="el" href="../../#l00051">npc_braug_dimspirit::OnGossipSelect()</a>, <a class="el" href="../../#l00350">npc_stone_watcher_of_norgannon::OnGossipSelect()</a>, <a class="el" href="../../#l00763">npc_high_overlord_saurfang_icc::OnGossipSelect()</a>, <a class="el" href="../../#l00977">npc_muradin_bronzebeard_icc::OnGossipSelect()</a>, <a class="el" href="../../#l00211">brann_bronzebeard::OnGossipSelect()</a>, <a class="el" href="../../#l00181">npc_ulduar_keeper::OnGossipSelect()</a>, <a class="el" href="../../#l00256">npc_shandy_dalaran::OnGossipSelect()</a>, <a class="el" href="../../#l00566">npc_vekjik::OnGossipSelect()</a>, <a class="el" href="../../#l00624">npc_avatar_of_freya::OnGossipSelect()</a>, <a class="el" href="../../#l00157">npc_wg_demolisher_engineer::OnGossipSelect()</a>, <a class="el" href="../../#l00063">npc_innkeeper::OnGossipSelect()</a>, <a class="el" href="../../#l01776">npc_wormhole::OnGossipSelect()</a>, <a class="el" href="../../#l00089">npc_announcer_toc5::OnGossipSelect()</a>, <a class="el" href="../../#l00073">npc_announcer_toc10::OnGossipSelect()</a>, <a class="el" href="../../#l00206">npc_fos_leader::OnGossipSelect()</a>, <a class="el" href="../../#l00175">npc_hor_leader::OnGossipSelect()</a>, <a class="el" href="../../#l00252">npc_oculus_drakegiver::OnGossipSelect()</a>, <a class="el" href="../../#l00090">npc_vh_sinclari::OnGossipSelect()</a>, <a class="el" href="../../#l00465">npc_mcmanus::OnGossipSelect()</a>, <a class="el" href="../../#l00202">npc_finklestein::OnGossipSelect()</a>, <a class="el" href="../../#l00251">npc_captain_saeed::OnGossipSelect()</a>, <a class="el" href="../../#l00159">boss_azuregos::OnGossipSelect()</a>, <a class="el" href="../../#l00323">npc_hyjal_tyrande::OnGossipSelect()</a>, <a class="el" href="../../#l00232">npc_thrall_old_hillsbrad::OnGossipSelect()</a>, <a class="el" href="../../#l03181">npc_icc_buff_switcher::OnGossipSelect()</a>, <a class="el" href="../../#l00684">npc_tirions_gambit_tirion::OnGossipSelect()</a>, <a class="el" href="../../#l00431">npc_artorius::OnGossipSelect()</a>, <a class="el" href="../../#l00812">npc_simone::OnGossipSelect()</a>, <a class="el" href="../../#l01024">npc_nelson::OnGossipSelect()</a>, <a class="el" href="../../#l01196">npc_franklin::OnGossipSelect()</a>, <a class="el" href="../../#l00087">icecrown_citadel_teleport::OnGossipSelect()</a>, <a class="el" href="../../#l01639">go_amberpine_outhouse::OnGossipSelect()</a>, <a class="el" href="../../#l00518">go_skull_pile::OnGossipSelect()</a>, <a class="el" href="../../#l01476">go_pumpkin_shrine::OnGossipSelect()</a>, <a class="el" href="../../#l01053">go_apexis_relic::OnGossipSelect()</a>, <a class="el" href="../../#l00427">ProcessCastaction()</a>, <a class="el" href="../../#l00442">ProcessUnlearnAction()</a>, <a class="el" href="../../#l00097">boss_apothecary_hummel::boss_apothecary_hummelAI::sGossipSelect()</a>, <a class="el" href="../../#l01535">npc_coren_direbrew::sGossipSelect()</a>, <a class="el" href="../../#l00501">boss_victor_nefarius::boss_victor_nefariusAI::sGossipSelect()</a>, <a class="el" href="../../#l00274">boss_vaelastrasz::boss_vaelAI::sGossipSelect()</a>, <a class="el" href="../../#l00385">npc_harrison_jones::sGossipSelect()</a>, <a class="el" href="../../#l00120">npc_brewfest_keg_reciver::sGossipSelect()</a>, <a class="el" href="../../#l01893">npc_thassarian2::npc_thassarian2AI::sGossipSelect()</a>, <a class="el" href="../../#l01369">npc_echo_of_medivh::sGossipSelect()</a>, <a class="el" href="../../#l01999">npc_chesspiece::sGossipSelect()</a>, <a class="el" href="../../#l00560">npc_tharnarian::npc_tharnarianAI::sGossipSelect()</a>, <a class="el" href="../../#l00268">npc_sergeant_bly::npc_sergeant_blyAI::sGossipSelect()</a>, <a class="el" href="../../#l00552">npc_weegli_blastfuse::npc_weegli_blastfuseAI::sGossipSelect()</a>, <a class="el" href="../../#l01270">npc_hidden_cultist::npc_hidden_cultistAI::sGossipSelect()</a>, <a class="el" href="../../#l00182">npc_general_andorov::sGossipSelect()</a>, <a class="el" href="../../#l00166">npc_rizzle_sprysprocket::npc_rizzle_sprysprocketAI::sGossipSelect()</a>, <a class="el" href="../../#l00850">npc_crusade_recruit::npc_crusade_recruitAI::sGossipSelect()</a>, <a class="el" href="../../#l00789">npc_akama_illidan::sGossipSelect()</a>, <a class="el" href="../../#l00333">npc_akama_shade::sGossipSelect()</a>, and <a class="el" href="../../#l00538">npc_magister_aledis::sGossipSelect()</a>.</p>
-
-</div>
-</div>
-<a id="ad893abf2b09592b57715ef4a3222a2b3" name="ad893abf2b09592b57715ef4a3222a2b3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad893abf2b09592b57715ef4a3222a2b3">&#9670;&#160;</a></span>SendGossipMenuFor() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void SendGossipMenuFor </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d29/a08478.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>npcTextID</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/dd4/a07858.html">Creature</a> const *&#160;</td>
-          <td class="paramname"><em>creature</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
-<div class="line"><span class="lineno">   52</span>    <span class="keywordflow">if</span> (creature)</div>
-<div class="line"><span class="lineno">   53</span>        <a class="code hl_function" href="../../dc/da6/a02192.html#a18599cfc6649557de0d505ed4d4a0210">SendGossipMenuFor</a>(player, npcTextID, creature-&gt;GetGUID());</div>
-<div class="line"><span class="lineno">   54</span>}</div>
-<div class="ttc" id="aa02192_html_a18599cfc6649557de0d505ed4d4a0210"><div class="ttname"><a href="../../dc/da6/a02192.html#a18599cfc6649557de0d505ed4d4a0210">SendGossipMenuFor</a></div><div class="ttdeci">void SendGossipMenuFor(Player *player, uint32 npcTextID, ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ScriptedGossip.cpp:45</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00112">Object::GetGUID()</a>, and <a class="el" href="../../#l00045">SendGossipMenuFor()</a>.</p>
-
-</div>
-</div>
-<a id="a18599cfc6649557de0d505ed4d4a0210" name="a18599cfc6649557de0d505ed4d4a0210"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a18599cfc6649557de0d505ed4d4a0210">&#9670;&#160;</a></span>SendGossipMenuFor() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void SendGossipMenuFor </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d29/a08478.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>npcTextID</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d7/dac/a08278.html">ObjectGuid</a> const&#160;</td>
-          <td class="paramname"><em>guid</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   46</span>{</div>
-<div class="line"><span class="lineno">   47</span>    player-&gt;<a class="code hl_variable" href="../../df/d29/a08478.html#af9651858db4302e3dff8ec5bff131f72">PlayerTalkClass</a>-&gt;<a class="code hl_function" href="../../d4/d47/a07978.html#a78a00a19e9e55fe5582dd70183b01e8b">SendGossipMenu</a>(npcTextID, guid);</div>
-<div class="line"><span class="lineno">   48</span>}</div>
-<div class="ttc" id="aa07978_html_a78a00a19e9e55fe5582dd70183b01e8b"><div class="ttname"><a href="../../d4/d47/a07978.html#a78a00a19e9e55fe5582dd70183b01e8b">PlayerMenu::SendGossipMenu</a></div><div class="ttdeci">void SendGossipMenu(uint32 titleTextId, ObjectGuid objectGUID)</div><div class="ttdef"><b>Definition:</b> GossipDef.cpp:193</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02247">Player::PlayerTalkClass</a>, and <a class="el" href="../../#l00193">PlayerMenu::SendGossipMenu()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01222">Creature::isCanInteractWithBattleMaster()</a>, <a class="el" href="../../#l00266">npc_pet_gen_argent_pony_bridle::OnGossipHello()</a>, <a class="el" href="../../#l00538">npc_lokhtos_darkbargainer::OnGossipHello()</a>, <a class="el" href="../../#l00090">boss_gloomrel::OnGossipHello()</a>, <a class="el" href="../../#l00152">boss_doomrel::OnGossipHello()</a>, <a class="el" href="../../#l00532">boss_majordomo::OnGossipHello()</a>, <a class="el" href="../../#l00732">npc_grandmother::OnGossipHello()</a>, <a class="el" href="../../#l00338">npc_barnes::OnGossipHello()</a>, <a class="el" href="../../#l00231">npc_death_knight_initiate::OnGossipHello()</a>, <a class="el" href="../../#l00341">npc_highlord_darion_mograine::OnGossipHello()</a>, <a class="el" href="../../#l00333">npc_augustus_the_touched::OnGossipHello()</a>, <a class="el" href="../../#l00338">npc_parqual_fintallas::OnGossipHello()</a>, <a class="el" href="../../#l00971">npc_varian_wrynn::OnGossipHello()</a>, <a class="el" href="../../#l02289">npc_thrall_bfu::OnGossipHello()</a>, <a class="el" href="../../#l00275">npc_zulaman_hostage::OnGossipHello()</a>, <a class="el" href="../../#l00333">npc_arthas::OnGossipHello()</a>, <a class="el" href="../../#l00292">npc_rizzle_sprysprocket::OnGossipHello()</a>, <a class="el" href="../../#l00495">npc_aged_dying_ancient_kodo::OnGossipHello()</a>, <a class="el" href="../../#l00068">npcs_riverbreeze_and_silversky::OnGossipHello()</a>, <a class="el" href="../../#l00079">npc_bunthen_plainswind::OnGossipHello()</a>, <a class="el" href="../../#l00159">npc_great_bear_spirit::OnGossipHello()</a>, <a class="el" href="../../#l00203">npc_silva_filnaveth::OnGossipHello()</a>, <a class="el" href="../../#l00195">npc_thrall_warchief::OnGossipHello()</a>, <a class="el" href="../../#l00067">npc_braug_dimspirit::OnGossipHello()</a>, <a class="el" href="../../#l00320">npc_steward_of_time::OnGossipHello()</a>, <a class="el" href="../../#l00383">npc_stone_watcher_of_norgannon::OnGossipHello()</a>, <a class="el" href="../../#l00238">npc_plucky::OnGossipHello()</a>, <a class="el" href="../../#l00057">npc_rivern_frostwind::OnGossipHello()</a>, <a class="el" href="../../#l00047">npc_announcer_toc5::OnGossipHello()</a>, <a class="el" href="../../#l00037">npc_announcer_toc10::OnGossipHello()</a>, <a class="el" href="../../#l00189">npc_fos_leader::OnGossipHello()</a>, <a class="el" href="../../#l00140">npc_hor_leader::OnGossipHello()</a>, <a class="el" href="../../#l00751">npc_high_overlord_saurfang_icc::OnGossipHello()</a>, <a class="el" href="../../#l00965">npc_muradin_bronzebeard_icc::OnGossipHello()</a>, <a class="el" href="../../#l00169">npc_oculus_drakegiver::OnGossipHello()</a>, <a class="el" href="../../#l00174">brann_bronzebeard::OnGossipHello()</a>, <a class="el" href="../../#l00639">npc_ulduar_expedition_commander::OnGossipHello()</a>, <a class="el" href="../../#l00152">npc_ulduar_keeper::OnGossipHello()</a>, <a class="el" href="../../#l00070">npc_vh_sinclari::OnGossipHello()</a>, <a class="el" href="../../#l00263">npc_iruk::OnGossipHello()</a>, <a class="el" href="../../#l00238">npc_shandy_dalaran::OnGossipHello()</a>, <a class="el" href="../../#l00351">npc_razael_and_lyana::OnGossipHello()</a>, <a class="el" href="../../#l00450">npc_mcmanus::OnGossipHello()</a>, <a class="el" href="../../#l00550">npc_vekjik::OnGossipHello()</a>, <a class="el" href="../../#l00612">npc_avatar_of_freya::OnGossipHello()</a>, <a class="el" href="../../#l01068">npc_adventurous_dwarf::OnGossipHello()</a>, <a class="el" href="../../#l00696">npc_roxi_ramrocket::OnGossipHello()</a>, <a class="el" href="../../#l00135">npc_wg_demolisher_engineer::OnGossipHello()</a>, <a class="el" href="../../#l00216">npc_wg_spirit_guide::OnGossipHello()</a>, <a class="el" href="../../#l00290">npc_wg_queue::OnGossipHello()</a>, <a class="el" href="../../#l00409">npc_wg_quest_giver::OnGossipHello()</a>, <a class="el" href="../../#l00183">npc_finklestein::OnGossipHello()</a>, <a class="el" href="../../#l00268">npc_captain_saeed::OnGossipHello()</a>, <a class="el" href="../../#l00700">npc_drake_dealer_hurlunk::OnGossipHello()</a>, <a class="el" href="../../#l00761">npcs_flanis_swiftwing_and_kagrosh::OnGossipHello()</a>, <a class="el" href="../../#l00050">npc_shattrathflaskvendors::OnGossipHello()</a>, <a class="el" href="../../#l00108">npc_zephyr::OnGossipHello()</a>, <a class="el" href="../../#l00599">npc_slim::OnGossipHello()</a>, <a class="el" href="../../#l00036">npc_innkeeper::OnGossipHello()</a>, <a class="el" href="../../#l00479">npc_prof_alchemy::OnGossipHello()</a>, <a class="el" href="../../#l00644">npc_prof_blacksmith::OnGossipHello()</a>, <a class="el" href="../../#l00894">npc_engineering_tele_trinket::OnGossipHello()</a>, <a class="el" href="../../#l00977">npc_prof_leather::OnGossipHello()</a>, <a class="el" href="../../#l01077">npc_prof_tailor::OnGossipHello()</a>, <a class="el" href="../../#l00439">npc_artorius::OnGossipHello()</a>, <a class="el" href="../../#l00823">npc_simone::OnGossipHello()</a>, <a class="el" href="../../#l01032">npc_nelson::OnGossipHello()</a>, <a class="el" href="../../#l01207">npc_franklin::OnGossipHello()</a>, <a class="el" href="../../#l00075">npc_taxi::OnGossipHello()</a>, <a class="el" href="../../#l00287">npc_riggle_bassbait::OnGossipHello()</a>, <a class="el" href="../../#l01556">npc_sayge::OnGossipHello()</a>, <a class="el" href="../../#l01754">npc_wormhole::OnGossipHello()</a>, <a class="el" href="../../#l01915">npc_locksmith::OnGossipHello()</a>, <a class="el" href="../../#l02020">npc_experience::OnGossipHello()</a>, <a class="el" href="../../#l01247">go_evil_book_for_dummies::OnGossipHello()</a>, <a class="el" href="../../#l00044">icecrown_citadel_teleport::OnGossipHello()</a>, <a class="el" href="../../#l00530">go_skull_pile::OnGossipHello()</a>, <a class="el" href="../../#l01180">go_fel_crystalforge::OnGossipHello()</a>, <a class="el" href="../../#l01239">go_bashir_crystalforge::OnGossipHello()</a>, <a class="el" href="../../#l01404">go_table_theka::OnGossipHello()</a>, <a class="el" href="../../#l01625">go_amberpine_outhouse::OnGossipHello()</a>, <a class="el" href="../../#l00061">boss_gloomrel::OnGossipSelect()</a>, <a class="el" href="../../#l00128">boss_doomrel::OnGossipSelect()</a>, <a class="el" href="../../#l00539">boss_majordomo::OnGossipSelect()</a>, <a class="el" href="../../#l00708">npc_grandmother::OnGossipSelect()</a>, <a class="el" href="../../#l00306">npc_barnes::OnGossipSelect()</a>, <a class="el" href="../../#l00288">npc_arthas::OnGossipSelect()</a>, <a class="el" href="../../#l00059">npc_bunthen_plainswind::OnGossipSelect()</a>, <a class="el" href="../../#l00131">npc_great_bear_spirit::OnGossipSelect()</a>, <a class="el" href="../../#l00183">npc_silva_filnaveth::OnGossipSelect()</a>, <a class="el" href="../../#l00172">npc_thrall_warchief::OnGossipSelect()</a>, <a class="el" href="../../#l00350">npc_stone_watcher_of_norgannon::OnGossipSelect()</a>, <a class="el" href="../../#l00181">npc_ulduar_keeper::OnGossipSelect()</a>, <a class="el" href="../../#l00380">npc_razael_and_lyana::OnGossipSelect()</a>, <a class="el" href="../../#l00566">npc_vekjik::OnGossipSelect()</a>, <a class="el" href="../../#l00624">npc_avatar_of_freya::OnGossipSelect()</a>, <a class="el" href="../../#l01028">npc_prof_leather::OnGossipSelect()</a>, <a class="el" href="../../#l00252">npc_oculus_drakegiver::OnGossipSelect()</a>, <a class="el" href="../../#l00090">npc_vh_sinclari::OnGossipSelect()</a>, <a class="el" href="../../#l01193">go_fel_crystalforge::OnGossipSelect()</a>, <a class="el" href="../../#l01252">go_bashir_crystalforge::OnGossipSelect()</a>, <a class="el" href="../../#l01581">npc_sayge::SendAction()</a>, <a class="el" href="../../#l00715">npc_prof_blacksmith::SendActionMenu()</a>, <a class="el" href="../../#l00555">npc_prof_alchemy::SendConfirmLearn()</a>, <a class="el" href="../../#l00765">npc_prof_blacksmith::SendConfirmLearn()</a>, <a class="el" href="../../#l01162">npc_prof_tailor::SendConfirmLearn()</a>, <a class="el" href="../../#l01320">go_evil_book_for_dummies::SendConfirmLearn()</a>, <a class="el" href="../../#l00580">npc_prof_alchemy::SendConfirmUnlearn()</a>, <a class="el" href="../../#l00790">npc_prof_blacksmith::SendConfirmUnlearn()</a>, <a class="el" href="../../#l01187">npc_prof_tailor::SendConfirmUnlearn()</a>, <a class="el" href="../../#l01337">go_evil_book_for_dummies::SendConfirmUnlearn()</a>, <a class="el" href="../../#l00050">SendGossipMenuFor()</a>, <a class="el" href="../../#l01349">npc_echo_of_medivh::sGossipHello()</a>, <a class="el" href="../../#l01946">npc_chesspiece::sGossipHello()</a>, <a class="el" href="../../#l00281">npc_sergeant_bly::npc_sergeant_blyAI::sGossipHello()</a>, and <a class="el" href="../../#l00565">npc_weegli_blastfuse::npc_weegli_blastfuseAI::sGossipHello()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -455,8 +296,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_5e5741f7891ede41bef7ecc492194021.html">AI</a></li><li class="navelem"><a class="el" href="../../dir_1f3214457037742cde290c7511bc5bd6.html">ScriptedAI</a></li><li class="navelem"><a class="el" href="../../dc/da6/a02192.html">ScriptedGossip.cpp</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:43:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_c0da28c740234fa28d1fcf99be699b09.html">Conditions</a></li><li class="navelem"><a class="el" href="../../dc/da6/a02192.html">DisableMgr.h</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:41:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

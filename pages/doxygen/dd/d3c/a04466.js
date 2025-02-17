@@ -1,11 +1,9 @@
 var a04466 =
 [
-    [ "AddOutdoorPvPScripts", "dd/d3c/a04466.html#a489bdfb4854732e561b6b13b70f67a0f", null ],
-    [ "AddSC_outdoorpvp_ep", "dd/d3c/a04466.html#ac97adfc1efbcf82840cffa915a55fecb", null ],
-    [ "AddSC_outdoorpvp_gh", "dd/d3c/a04466.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ],
-    [ "AddSC_outdoorpvp_hp", "dd/d3c/a04466.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
-    [ "AddSC_outdoorpvp_na", "dd/d3c/a04466.html#a03015585e7619177355fefd05f85e1c7", null ],
-    [ "AddSC_outdoorpvp_si", "dd/d3c/a04466.html#a6dfd2849f525333510ae4febbbc3ae1f", null ],
-    [ "AddSC_outdoorpvp_tf", "dd/d3c/a04466.html#a6df553c8dd6e9b81e83110e7beab3646", null ],
-    [ "AddSC_outdoorpvp_zm", "dd/d3c/a04466.html#a3077d08865fa83f84cf956c392a9091c", null ]
+    [ "getAngle", "dd/d3c/a04466.html#a5ce837ff4fb41332a25e6b0dc0f5b848", null ],
+    [ "getCircleAreaByRadius", "dd/d3c/a04466.html#a18ed540c327b1fd656065d8cbfc4844f", null ],
+    [ "getCirclePerimeterByRadius", "dd/d3c/a04466.html#a62641094ea3c1b9506faefa7a35ba456", null ],
+    [ "getCylinderVolume", "dd/d3c/a04466.html#a95ce6760beb476a4c24ff46d3069103f", null ],
+    [ "getSlopeAngle", "dd/d3c/a04466.html#a61d2d33d44f335480a833a04436620ba", null ],
+    [ "getSlopeAngleAbs", "dd/d3c/a04466.html#a0b02845f56a27df498d0598d259ca5e1", null ]
 ];

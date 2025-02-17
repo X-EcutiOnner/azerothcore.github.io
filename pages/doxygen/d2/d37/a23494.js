@@ -1,7 +1,8 @@
 var a23494 =
 [
-    [ "CastQuill", "d2/d37/a23494.html#a923234809186bcbdf02457f4be095519", null ],
-    [ "Execute", "d2/d37/a23494.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
-    [ "_caster", "d2/d37/a23494.html#af809b9279aff141ce4007c8d1fbcc331", null ],
-    [ "_spellId", "d2/d37/a23494.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
+    [ "npc_warchief_portal", "d2/d37/a23494.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "d2/d37/a23494.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "d2/d37/a23494.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "d2/d37/a23494.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "d2/d37/a23494.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

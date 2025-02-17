@@ -1,14 +1,9 @@
 var a21302 =
 [
-    [ "npc_hidden_cultistAI", "d2/d4a/a21302.html#a970aaa2401664337147696624cc8cac4", null ],
-    [ "AttackPlayer", "d2/d4a/a21302.html#a55e3b02d05f35d134fc605a13efe9018", null ],
-    [ "Initialize", "d2/d4a/a21302.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
-    [ "PreScript", "d2/d4a/a21302.html#a92be5361e2b28152adcca0629b286bb8", null ],
-    [ "Reset", "d2/d4a/a21302.html#afe38e448d86cdf910870d72a3890ae1f", null ],
-    [ "sGossipSelect", "d2/d4a/a21302.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
-    [ "UpdateAI", "d2/d4a/a21302.html#a0bba4d10439d47d44ff856c7fec18595", null ],
-    [ "_emoteState", "d2/d4a/a21302.html#adb4e884787dc480358c5be22d276ec49", null ],
-    [ "_events", "d2/d4a/a21302.html#ab0494e33d16a43aa1426784d1882e41c", null ],
-    [ "_npcFlags", "d2/d4a/a21302.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
-    [ "_playerGUID", "d2/d4a/a21302.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
+    [ "npc_azure_sorcerorAI", "d2/d4a/a21302.html#a474a7144908d4820341dc56f77436b90", null ],
+    [ "Reset", "d2/d4a/a21302.html#a4c637288f79e1da4bdace6516cd887b1", null ],
+    [ "UpdateAI", "d2/d4a/a21302.html#a928d789e2cbd35b228857a23c4204ea1", null ],
+    [ "uiArcaneStreamTimer", "d2/d4a/a21302.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
+    [ "uiArcaneStreamTimerStartingValueHolder", "d2/d4a/a21302.html#af044879e8e064e28a491c87d0c6cde74", null ],
+    [ "uiManaDetonationTimer", "d2/d4a/a21302.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
 ];

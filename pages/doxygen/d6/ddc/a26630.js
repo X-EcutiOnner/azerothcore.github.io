@@ -1,7 +1,6 @@
 var a26630 =
 [
-    [ "HandleDummy", "d6/ddc/a26630.html#a3af91500357eb127f813334bdf538dbd", null ],
-    [ "PrepareSpellScript", "d6/ddc/a26630.html#ae34ff5e6027efecc34fa770690df5887", null ],
-    [ "Register", "d6/ddc/a26630.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
-    [ "Validate", "d6/ddc/a26630.html#a0b107442c0b76a018cc019f776c0b785", null ]
+    [ "FilterTargets", "d6/ddc/a26630.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
+    [ "PrepareSpellScript", "d6/ddc/a26630.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
+    [ "Register", "d6/ddc/a26630.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
 ];

@@ -1,5 +1,6 @@
 var a19862 =
 [
-    [ "achievement_smell_saronite", "d7/d8f/a19862.html#a42dce2aefa2561952dcf5289126035a8", null ],
-    [ "OnCheck", "d7/d8f/a19862.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
+    [ "boss_freyaAI", "d8/d4f/a19866.html", "d8/d4f/a19866" ],
+    [ "boss_freya", "d7/d8f/a19862.html#ae366f60526e7c948dee148cdd12f0752", null ],
+    [ "GetAI", "d7/d8f/a19862.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
 ];

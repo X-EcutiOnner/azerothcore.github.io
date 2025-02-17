@@ -1,9 +1,10 @@
 var a21718 =
 [
-    [ "npc_Apothecary_HanesAI", "d8/d88/a21718.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
-    [ "JustDied", "d8/d88/a21718.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
-    [ "Reset", "d8/d88/a21718.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
-    [ "UpdateEscortAI", "d8/d88/a21718.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
-    [ "WaypointReached", "d8/d88/a21718.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
-    [ "PotTimer", "d8/d88/a21718.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
+    [ "npc_emilyAI", "d8/d88/a21718.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "d8/d88/a21718.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "d8/d88/a21718.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "d8/d88/a21718.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "d8/d88/a21718.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "_mrfloppyGUID", "d8/d88/a21718.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "d8/d88/a21718.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

@@ -1,7 +1,7 @@
 var a24514 =
 [
-    [ "FilterTargets", "d6/dc8/a24514.html#a9abf4baaba572636dba3980e5ae777c5", null ],
-    [ "Load", "d6/dc8/a24514.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
-    [ "PrepareSpellScript", "d6/dc8/a24514.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
-    [ "Register", "d6/dc8/a24514.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
+    [ "AfterApply", "d6/dc8/a24514.html#adae232af9445638b3d54e81d414483b7", null ],
+    [ "AfterRemove", "d6/dc8/a24514.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
+    [ "PrepareAuraScript", "d6/dc8/a24514.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
+    [ "Register", "d6/dc8/a24514.html#abff75ea597dcc017a359a5ef3ada4314", null ]
 ];

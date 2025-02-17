@@ -1,9 +1,8 @@
 var a13290 =
 [
-    [ "npc_partygoer", "dd/d6c/a13290.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "dd/d6c/a13290.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "dd/d6c/a13290.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "dd/d6c/a13290.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "dd/d6c/a13290.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "dd/d6c/a13290.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "HandleApply", "dd/d6c/a13290.html#a9dce02909356193476e66586aee87f1d", null ],
+    [ "OnPeriodic", "dd/d6c/a13290.html#add4f000f81d5d4112719c6dd7464163c", null ],
+    [ "PrepareAuraScript", "dd/d6c/a13290.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
+    [ "Register", "dd/d6c/a13290.html#abc349f12f375b1f284eb78a363e8172a", null ],
+    [ "Validate", "dd/d6c/a13290.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
 ];

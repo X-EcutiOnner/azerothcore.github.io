@@ -1,9 +1,9 @@
 var a10362 =
 [
-    [ "GuildInfoResponse", "d8/d78/a10362.html#a256cb81ad2e08050be99c9e1061c2009", null ],
-    [ "Write", "d8/d78/a10362.html#a3222d0018c9593400d3d01258b82371e", null ],
-    [ "CreateDate", "d8/d78/a10362.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
-    [ "GuildName", "d8/d78/a10362.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
-    [ "NumAccounts", "d8/d78/a10362.html#a21b42f1654aa10f7872d87635fea66ac", null ],
-    [ "NumMembers", "d8/d78/a10362.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
+    [ "fX", "d8/d78/a10362.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "d8/d78/a10362.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "d8/d78/a10362.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "d8/d78/a10362.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "d8/d78/a10362.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "d8/d78/a10362.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

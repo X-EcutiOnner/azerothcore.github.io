@@ -1,21 +1,15 @@
 var a09490 =
 [
-    [ "LootGroup", "d1/d5c/a09470.html", "d1/d5c/a09470" ],
-    [ "LootGroups", "dd/d60/a09490.html#ae9845401121ac8712dc8dfac9c58c72e", null ],
-    [ "LootTemplate", "dd/d60/a09490.html#a533d3acacc8086a6f8f75013dd790a94", null ],
-    [ "~LootTemplate", "dd/d60/a09490.html#a90b641a69173129d7114c303cd5a31b5", null ],
-    [ "LootTemplate", "dd/d60/a09490.html#a73cc21e48ec8e63b2664a4ece9a3ab21", null ],
-    [ "addConditionItem", "dd/d60/a09490.html#afb33c896a89f0fe14e2b565bb746119e", null ],
-    [ "AddEntry", "dd/d60/a09490.html#a6efe32c6f83184ae0bf0423a7f23118a", null ],
-    [ "CheckLootRefs", "dd/d60/a09490.html#a19e8a2736ba5fd376ad3854cbc68867d", null ],
-    [ "CopyConditions", "dd/d60/a09490.html#a5935f936e90ecc860c49d256127d9726", null ],
-    [ "CopyConditions", "dd/d60/a09490.html#a477c848bcf79153cc430c8d03bbea054", null ],
-    [ "HasQuestDrop", "dd/d60/a09490.html#aedf8e446cdf391d14858994532d9b5c1", null ],
-    [ "HasQuestDropForPlayer", "dd/d60/a09490.html#aa59f5061e805cc732baecaba1175c7e9", null ],
-    [ "isReference", "dd/d60/a09490.html#acdf75466d9f29ff8a4532c4b6e15bd03", null ],
-    [ "operator=", "dd/d60/a09490.html#a92de3d68e0ec2ab31b1dd17279a3f832", null ],
-    [ "Process", "dd/d60/a09490.html#ae3f86961858f299f8e7ca683733bb127", null ],
-    [ "Verify", "dd/d60/a09490.html#adedb1f03278aaeac63deb3dd32e07329", null ],
-    [ "Entries", "dd/d60/a09490.html#aba1fdfb69c34a9d4a09428114d385621", null ],
-    [ "Groups", "dd/d60/a09490.html#aec4552a98c1e27935da8ef29c9449f87", null ]
+    [ "LogHolder", "dd/d60/a09490.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
+    [ "AddEvent", "dd/d60/a09490.html#a5f6d81d9048290815053bb4aa3531d73", null ],
+    [ "CanInsert", "dd/d60/a09490.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
+    [ "GetGuildId", "dd/d60/a09490.html#ada98449548b389a1cd8177087e3aa5e8", null ],
+    [ "GetGuildLog", "dd/d60/a09490.html#a17593c12663e8c4251f94636e511c73a", null ],
+    [ "GetGuildLog", "dd/d60/a09490.html#ae43929001324d6bece4e45bc95115535", null ],
+    [ "GetNextGUID", "dd/d60/a09490.html#aed00250b6a1036a91dd971af510f7750", null ],
+    [ "LoadEvent", "dd/d60/a09490.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
+    [ "m_guildId", "dd/d60/a09490.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
+    [ "m_log", "dd/d60/a09490.html#aca25adbc1c1e9397c837a53793568b64", null ],
+    [ "m_maxRecords", "dd/d60/a09490.html#a755788eaede72a131f74ae7de88c37b4", null ],
+    [ "m_nextGUID", "dd/d60/a09490.html#a267cecce9b2f244235800c93a086e8e2", null ]
 ];

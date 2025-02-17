@@ -1,6 +1,8 @@
 var a08002 =
 [
-    [ "ForcedUnsummonDelayEvent", "d6/dfc/a08002.html#aadabfc349c81e02743add4307977c2fd", null ],
-    [ "Execute", "d6/dfc/a08002.html#a86d7bd6f9f47ef37382b725f0d64877b", null ],
-    [ "m_owner", "d6/dfc/a08002.html#a3954577354fb882ec1def262502ed2e6", null ]
+    [ "bounding_radius", "d6/dfc/a08002.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
+    [ "combat_reach", "d6/dfc/a08002.html#ac271edb10093db19e4df1396053f820d", null ],
+    [ "gender", "d6/dfc/a08002.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
+    [ "is_trigger", "d6/dfc/a08002.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
+    [ "modelid_other_gender", "d6/dfc/a08002.html#a222b3c513a64b385954ea549e67f4255", null ]
 ];

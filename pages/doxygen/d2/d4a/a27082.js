@@ -1,8 +1,7 @@
 var a27082 =
 [
-    [ "go_bellsAI", "d2/d4a/a27082.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "d2/d4a/a27082.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "d2/d4a/a27082.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "d2/d4a/a27082.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "d2/d4a/a27082.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "go_brewfest_musicAI", "d2/d4a/a27082.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "d2/d4a/a27082.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "d2/d4a/a27082.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "d2/d4a/a27082.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

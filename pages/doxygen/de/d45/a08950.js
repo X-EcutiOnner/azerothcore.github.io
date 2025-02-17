@@ -1,13 +1,12 @@
 var a08950 =
 [
-    [ "VisibleNotifier", "de/d45/a08950.html#af6b878aad8873a7e34670af7ed84188e", null ],
-    [ "SendToSelf", "de/d45/a08950.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
-    [ "Visit", "de/d45/a08950.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
-    [ "Visit", "de/d45/a08950.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
-    [ "i_data", "de/d45/a08950.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
-    [ "i_gobjOnly", "de/d45/a08950.html#a019182fa8a629d796982f9cc565d9bc3", null ],
-    [ "i_largeOnly", "de/d45/a08950.html#a6954721b71a55874c7f708bf822613bd", null ],
-    [ "i_player", "de/d45/a08950.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
-    [ "i_visibleNow", "de/d45/a08950.html#a34d766816baaad7b1b3623360ec9abeb", null ],
-    [ "vis_guids", "de/d45/a08950.html#ab1a5c16d224e61ccfb60e3f1e5fdff1c", null ]
+    [ "IsTeamAward1", "de/d45/a08950.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
+    [ "IsTeamAward2", "de/d45/a08950.html#a053bd7825d0464ac322b449f3d243722", null ],
+    [ "RepFaction1", "de/d45/a08950.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
+    [ "RepFaction2", "de/d45/a08950.html#a5934590811c666d06b68216428574d8a", null ],
+    [ "ReputationMaxCap1", "de/d45/a08950.html#a292b78f629723c3993a796eb256dd9b8", null ],
+    [ "ReputationMaxCap2", "de/d45/a08950.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
+    [ "RepValue1", "de/d45/a08950.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
+    [ "RepValue2", "de/d45/a08950.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
+    [ "TeamDependent", "de/d45/a08950.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
 ];

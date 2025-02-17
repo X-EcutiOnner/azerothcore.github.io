@@ -1,6 +1,12 @@
 var a11002 =
 [
-    [ "apPctMod", "d4/d49/a11002.html#a35f5f8f7a3ac33768299913fecc1cf8d", null ],
-    [ "flatMod", "d4/d49/a11002.html#a0d66e48d986f246e6aea08dd00837158", null ],
-    [ "pctMod", "d4/d49/a11002.html#af13802a7f6872cfce3a1d14655f30287", null ]
+    [ "UnitAura", "d4/d49/a11002.html#ada4033955271dfb21d16a95b316087f5", null ],
+    [ "_ApplyForTarget", "d4/d49/a11002.html#a920549cf55c8def37149b00ae971127d", null ],
+    [ "_UnapplyForTarget", "d4/d49/a11002.html#af4d453cee6758e633bdcae0049581898", null ],
+    [ "FillTargetMap", "d4/d49/a11002.html#add5ce04446338e078c5986420abfd16e", null ],
+    [ "GetDiminishGroup", "d4/d49/a11002.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
+    [ "Remove", "d4/d49/a11002.html#a28f714404942bb5c614ac844cf937546", null ],
+    [ "SetDiminishGroup", "d4/d49/a11002.html#a6d858a153c5d3046574f3387ab852050", null ],
+    [ "Aura::Create", "d4/d49/a11002.html#ae2c0fdfb409846fec5e861de60797112", null ],
+    [ "m_AuraDRGroup", "d4/d49/a11002.html#a4b413c5e62eee76875a22345059e6124", null ]
 ];

@@ -1,6 +1,6 @@
 var a17054 =
 [
-    [ "OnAbsorb", "de/db9/a17054.html#aa6582457cd0502ca263433d04b40b64f", null ],
-    [ "PrepareAuraScript", "de/db9/a17054.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
-    [ "Register", "de/db9/a17054.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
+    [ "HandlePeriodic", "de/db9/a17054.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "de/db9/a17054.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "de/db9/a17054.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

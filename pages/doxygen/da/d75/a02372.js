@@ -1,7 +1,5 @@
 var a02372 =
 [
-    [ "SQLQueryHolderBase", "d3/d16/a05746.html", "d3/d16/a05746" ],
-    [ "SQLQueryHolder< T >", "dd/d82/a05598.html", "dd/d82/a05598" ],
-    [ "SQLQueryHolderTask", "d7/d55/a05750.html", "d7/d55/a05750" ],
-    [ "SQLQueryHolderCallback", "d7/d3f/a05754.html", "d7/d3f/a05754" ]
+    [ "SmartScript", "da/d67/a06206.html", "da/d67/a06206" ],
+    [ "SmartScript::SmartScriptFrame", "dd/dab/a06210.html", "dd/dab/a06210" ]
 ];

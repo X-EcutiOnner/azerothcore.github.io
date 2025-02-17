@@ -1,10 +1,5 @@
 var a27162 =
 [
-    [ "npc_prof_tailor", "dc/d84/a27162.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "dc/d84/a27162.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "dc/d84/a27162.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "dc/d84/a27162.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "dc/d84/a27162.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "dc/d84/a27162.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "dc/d84/a27162.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "go_table_theka", "dc/d84/a27162.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
+    [ "OnGossipHello", "dc/d84/a27162.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
 ];

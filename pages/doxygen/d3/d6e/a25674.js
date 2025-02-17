@@ -1,9 +1,7 @@
 var a25674 =
 [
-    [ "HandleAfterCast", "d3/d6e/a25674.html#afd2fbc51ac1e99789994021af36688f3", null ],
-    [ "HandleTriggerSpell", "d3/d6e/a25674.html#ae140ab00101f081454b55e12a7c54440", null ],
-    [ "Load", "d3/d6e/a25674.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
-    [ "PrepareSpellScript", "d3/d6e/a25674.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
-    [ "Register", "d3/d6e/a25674.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
-    [ "_triggerSpellId", "d3/d6e/a25674.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
+    [ "HandleHeal", "d3/d6e/a25674.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
+    [ "Load", "d3/d6e/a25674.html#a4dd5016439e8798083fe3d4fa5458731", null ],
+    [ "PrepareSpellScript", "d3/d6e/a25674.html#a248ae6d2c8f8d6c014a0164105773836", null ],
+    [ "Register", "d3/d6e/a25674.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
 ];

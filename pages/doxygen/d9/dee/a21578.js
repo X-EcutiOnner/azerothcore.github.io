@@ -1,6 +1,6 @@
 var a21578 =
 [
-    [ "npc_torturer_lecraftAI", "da/d39/a21582.html", "da/d39/a21582" ],
-    [ "npc_torturer_lecraft", "d9/dee/a21578.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "d9/dee/a21578.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "npc_mindless_ghoulAI", "d9/dee/a21578.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
+    [ "CanAIAttack", "d9/dee/a21578.html#a18fbc44ad760a69d952d003622ec75b2", null ],
+    [ "JustDied", "d9/dee/a21578.html#a272067bef6dbab24024f7de990c10b64", null ]
 ];

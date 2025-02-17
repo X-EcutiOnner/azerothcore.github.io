@@ -1,16 +1,18 @@
 var a20942 =
 [
-    [ "boss_emalonAI", "d2/ddb/a20942.html#ac87b3ea34e9781f3843321ef874321fe", null ],
-    [ "AttackStart", "d2/ddb/a20942.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
-    [ "JustDied", "d2/ddb/a20942.html#a79a05156b690140e955a6e850ac41e5b", null ],
-    [ "JustEngagedWith", "d2/ddb/a20942.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
-    [ "JustSummoned", "d2/ddb/a20942.html#a895f302d336faa0c3f93854314d3b427", null ],
-    [ "Reset", "d2/ddb/a20942.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
-    [ "ResetSummons", "d2/ddb/a20942.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
-    [ "SpellHitTarget", "d2/ddb/a20942.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
-    [ "SummonedCreatureDies", "d2/ddb/a20942.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
-    [ "UpdateAI", "d2/ddb/a20942.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
-    [ "events", "d2/ddb/a20942.html#a78312371e28b4be3c072dc870370b577", null ],
-    [ "pInstance", "d2/ddb/a20942.html#af4cc6489905f9702999cc23fd6a920c2", null ],
-    [ "summons", "d2/ddb/a20942.html#a1b6ccd418114e57a0c843cc980a56243", null ]
+    [ "boss_palehoofAI", "d2/ddb/a20942.html#aa49a4e6e2f942ab0efeb83d0fe672f9f", null ],
+    [ "DoAction", "d2/ddb/a20942.html#ae94606f2b382e07cd3f4b9be48b1ca2d", null ],
+    [ "JustDied", "d2/ddb/a20942.html#a1484b82afc3072d1b1fc5e2c9b0204b0", null ],
+    [ "JustEngagedWith", "d2/ddb/a20942.html#abd00a0b514c11d8fa3786e1e61333138", null ],
+    [ "JustReachedHome", "d2/ddb/a20942.html#aae6517c4816eb9bbc5dfe245d69edd87", null ],
+    [ "KilledUnit", "d2/ddb/a20942.html#abf68aba465731a0ea7de305861ad4875", null ],
+    [ "MoveInLineOfSight", "d2/ddb/a20942.html#ae969093bfb3466e332c1de7e65ceeb5d", null ],
+    [ "Reset", "d2/ddb/a20942.html#a61d1cedcc30fbccbebbdc768d6a18900", null ],
+    [ "UpdateAI", "d2/ddb/a20942.html#ac7da92990a0d48e418115943ba7bdd51", null ],
+    [ "Counter", "d2/ddb/a20942.html#a5b8c197cd3c482d5a4d5a14f9c5019e7", null ],
+    [ "events", "d2/ddb/a20942.html#a18325a2a5cca9910bf7e35a21c16400b", null ],
+    [ "m_pInstance", "d2/ddb/a20942.html#abffb9efc207c98a30e1bfcf7b87fdb6d", null ],
+    [ "OrbGUID", "d2/ddb/a20942.html#ab75e8eea72bde1bd15fe40e347373ab4", null ],
+    [ "RandomUnfreeze", "d2/ddb/a20942.html#a02d34d4cd26706e1108c99cc0b4afbba", null ],
+    [ "summons", "d2/ddb/a20942.html#a098d738ccbc2764867643bf4336c04da", null ]
 ];

@@ -1,6 +1,5 @@
 var a15566 =
 [
-    [ "PrepareSpellScript", "da/d05/a15566.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
-    [ "Register", "da/d05/a15566.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
-    [ "SetDest", "da/d05/a15566.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
+    [ "go_elune_fire", "da/d05/a15566.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
+    [ "OnGossipHello", "da/d05/a15566.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
 ];

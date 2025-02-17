@@ -1,6 +1,8 @@
 var a21810 =
 [
-    [ "ChangeSummonPos", "d7/de3/a21810.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "d7/de3/a21810.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "d7/de3/a21810.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "HandleEffectApply", "d7/de3/a21810.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "d7/de3/a21810.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "d7/de3/a21810.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "d7/de3/a21810.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "d7/de3/a21810.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

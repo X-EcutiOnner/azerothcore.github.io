@@ -1,14 +1,14 @@
 var a19922 =
 [
-    [ "npc_ulduar_hodir_druidAI", "d9/d18/a19922.html#ab41b2be29f20b35bfb8a7f330440b744", null ],
-    [ "AttackStart", "d9/d18/a19922.html#a037716c58f70f1367d618cda52bea044", null ],
-    [ "CanAIAttack", "d9/d18/a19922.html#adcae1d217637d700bb42f039a2a63e01", null ],
-    [ "EnterEvadeMode", "d9/d18/a19922.html#a8a13962ed8962bc32f40243711a6676d", null ],
-    [ "JustDied", "d9/d18/a19922.html#a7ed2930deae3eb1ae3216bc42dd99241", null ],
-    [ "MoveInLineOfSight", "d9/d18/a19922.html#abf9548764493ad92cf766d6009e2177f", null ],
-    [ "ScheduleAbilities", "d9/d18/a19922.html#a79cffc023d756e7a874d3d993d540269", null ],
-    [ "SpellHit", "d9/d18/a19922.html#a8f8e93dc55da0a77e0ae29416524c6ae", null ],
-    [ "UpdateAI", "d9/d18/a19922.html#abca58c8543365e16391a867389af27d9", null ],
-    [ "events", "d9/d18/a19922.html#a77408c09f78e25eb350b6c37bc2c9c41", null ],
-    [ "pInstance", "d9/d18/a19922.html#a679d03d94422d9686095658c9f4b1a87", null ]
+    [ "boss_freya_summonsAI", "d9/d18/a19922.html#acbba11d918cc6368612cbd3d95310fe2", null ],
+    [ "DoAction", "d9/d18/a19922.html#ad9dd522e33ffd42bff75f7dd5f1bdc45", null ],
+    [ "JustDied", "d9/d18/a19922.html#af7668e0cb4be7d49af8be697b8fa3299", null ],
+    [ "JustEngagedWith", "d9/d18/a19922.html#a3163e12dd184dc5b8981c356e601a05a", null ],
+    [ "Reset", "d9/d18/a19922.html#a44f1ac940625fdd0cdb84454082e7ab6", null ],
+    [ "UpdateAI", "d9/d18/a19922.html#afdd17576728872509ec31188fa68505b", null ],
+    [ "_freyaGUID", "d9/d18/a19922.html#adcdf01b496a52b1d0aa2f1b3bf6a7a0a", null ],
+    [ "_hasDied", "d9/d18/a19922.html#a86f421141d31ac70e58cf63fe707ba27", null ],
+    [ "_isTrio", "d9/d18/a19922.html#ab31e8c73c3e22b031e5efe89ae95ce0e", null ],
+    [ "_stackCount", "d9/d18/a19922.html#ab7fc673ad22c1dd3bd41fa185ee03abb", null ],
+    [ "events", "d9/d18/a19922.html#a79403b4a24b92f89252db603d8ea2210", null ]
 ];

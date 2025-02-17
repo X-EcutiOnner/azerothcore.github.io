@@ -1,9 +1,6 @@
 var a26362 =
 [
-    [ "Absorb", "d4/d53/a26362.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
-    [ "CalculateAmount", "d4/d53/a26362.html#a820c27c2161063307a10903cbbc5c0fa", null ],
-    [ "Load", "d4/d53/a26362.html#a7b71990051faaa083110408c13b8401f", null ],
-    [ "PrepareAuraScript", "d4/d53/a26362.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
-    [ "Register", "d4/d53/a26362.html#aa443ab0eed74229883884fbced0426d7", null ],
-    [ "absorbPct", "d4/d53/a26362.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
+    [ "PrepareAuraScript", "d4/d53/a26362.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
+    [ "Register", "d4/d53/a26362.html#a91f4b2b8796c7efab2f622893a393619", null ],
+    [ "AuraEffectHandleModes", "d4/d53/a26362.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
 ];

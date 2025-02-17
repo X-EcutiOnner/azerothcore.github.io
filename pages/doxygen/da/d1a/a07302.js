@@ -1,11 +1,9 @@
 var a07302 =
 [
-    [ "BattlegroundSAScore", "da/d1a/a07302.html#afb1312e304eee973740cfe208657c5b9", null ],
-    [ "BuildObjectivesBlock", "da/d1a/a07302.html#a57bf8241b404571cda5a8e113c334eab", null ],
-    [ "GetAttr1", "da/d1a/a07302.html#aa31cd91ede928c57cd201dba61f7f585", null ],
-    [ "GetAttr2", "da/d1a/a07302.html#aba47bb1ec440f405bfde8513c60ae576", null ],
-    [ "UpdateScore", "da/d1a/a07302.html#a169a2a0a51edb6564e98c4b55f3e8a3b", null ],
-    [ "BattlegroundSA", "da/d1a/a07302.html#ab31c13442be48941f5dab4214b95cde9", null ],
-    [ "DemolishersDestroyed", "da/d1a/a07302.html#ac49c28efa42cfad7232268de4be45e66", null ],
-    [ "GatesDestroyed", "da/d1a/a07302.html#aeb1310b64150dd51f91722574a9dd3fc", null ]
+    [ "CapturePointInfo", "da/d1a/a07302.html#a47ba3bbadd15909726e87dc5adc67686", null ],
+    [ "_captured", "da/d1a/a07302.html#aac26833d9951853183095b3985254e03", null ],
+    [ "_iconCapture", "da/d1a/a07302.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
+    [ "_iconNone", "da/d1a/a07302.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
+    [ "_ownerTeamId", "da/d1a/a07302.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
+    [ "_state", "da/d1a/a07302.html#a98cb154218423e295b8007c62222831c", null ]
 ];

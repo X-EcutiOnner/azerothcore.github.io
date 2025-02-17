@@ -1,8 +1,7 @@
 var a17246 =
 [
-    [ "ResetEncounterEvent", "d6/dfd/a17246.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
-    [ "Execute", "d6/dfd/a17246.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
-    [ "_caster", "d6/dfd/a17246.html#abb37778222749b27791baa329e268c32", null ],
-    [ "_otherTransport", "d6/dfd/a17246.html#a7f2d0aaade5833381e3e7624745fc504", null ],
-    [ "_spellId", "d6/dfd/a17246.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
+    [ "achievement_once_bitten_twice_shy", "d6/dfd/a17246.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
+    [ "OnCheck", "d6/dfd/a17246.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
+    [ "_spawnMode", "d6/dfd/a17246.html#a6f02f5ab07143ddff553279049714902", null ],
+    [ "_wasVampire", "d6/dfd/a17246.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
 ];

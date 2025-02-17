@@ -1,6 +1,8 @@
 var a07718 =
 [
-    [ "ConditionSourceInfo", "de/d40/a07718.html#adc6441ec52fab3ab8d2b58a146a3fef3", null ],
-    [ "mConditionTargets", "de/d40/a07718.html#acb67deba44021698a447e8288bca0bd4", null ],
-    [ "mLastFailedCondition", "de/d40/a07718.html#a099d3457a0a15d8feeacc0dc8c32d439", null ]
+    [ "CurValue", "de/d40/a07718.html#a110169c51e3dac271b4ba6d10bbbadac", null ],
+    [ "KnownRecipes", "de/d40/a07718.html#a1a44c7eb6dbf3a16e8d2db47821bb39a", null ],
+    [ "MaxValue", "de/d40/a07718.html#a6c48d3a6afddf895b97ec9b964dfd86c", null ],
+    [ "Owner", "de/d40/a07718.html#a085e0aa9f79129920af96046c4fc29b1", null ],
+    [ "Spell", "de/d40/a07718.html#a2b0ca4fecc7ba965a329afa6a184cf07", null ]
 ];

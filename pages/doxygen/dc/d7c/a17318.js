@@ -1,8 +1,7 @@
 var a17318 =
 [
-    [ "npc_gunship_mageAI", "dc/d7c/a17318.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "dc/d7c/a17318.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "dc/d7c/a17318.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "dc/d7c/a17318.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "dc/d7c/a17318.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "npc_icc_blood_beastAI", "dc/d7c/a17318.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "dc/d7c/a17318.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "dc/d7c/a17318.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "dc/d7c/a17318.html#a1074059162f818088808795119f081be", null ]
 ];

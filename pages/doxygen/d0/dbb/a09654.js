@@ -1,15 +1,7 @@
 var a09654 =
 [
-    [ "const_iterator", "d0/dbb/a09654.html#a78bdb53e78488faa65effb2706140558", null ],
-    [ "iterator", "d0/dbb/a09654.html#aff8f555370355b24f386c86d2f900bc3", null ],
-    [ "begin", "d0/dbb/a09654.html#a6774b551f0d64628e33594c7b486a872", null ],
-    [ "begin", "d0/dbb/a09654.html#a3ba9493437881e83c07f07cc992c274a", null ],
-    [ "end", "d0/dbb/a09654.html#af488c0096775085791b5fbc89e5851a0", null ],
-    [ "end", "d0/dbb/a09654.html#acb8ebd37d1458773b65311060e844e4b", null ],
-    [ "getFirst", "d0/dbb/a09654.html#a2981143744c8e08a42104a5d08659be4", null ],
-    [ "getFirst", "d0/dbb/a09654.html#a4d5eb2b65f0a586a3e809acb2c26f6cb", null ],
-    [ "getLast", "d0/dbb/a09654.html#ab9c66d320815602126292a14cae69872", null ],
-    [ "getLast", "d0/dbb/a09654.html#a6f7379252f5907d9240e3d364d3a8c02", null ],
-    [ "rbegin", "d0/dbb/a09654.html#a147b3fe09037c1b80bb122c627000b0a", null ],
-    [ "rend", "d0/dbb/a09654.html#afb985b9c750f3ff01cb1adaa6f86c78f", null ]
+    [ "LootView", "d0/dbb/a09654.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
+    [ "loot", "d0/dbb/a09654.html#ac95fa4805c79923b292e8984b00de929", null ],
+    [ "permission", "d0/dbb/a09654.html#a33d7eeebd6fbc854300275a4138d9030", null ],
+    [ "viewer", "d0/dbb/a09654.html#af9a6926c6c871dee245f876038e49995", null ]
 ];

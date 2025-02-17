@@ -1,9 +1,9 @@
 var a16790 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d6/d87/a16790.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
-    [ "SpellHitTarget", "d6/d87/a16790.html#aea107ede3b11726b3f7caae590edaf52", null ],
-    [ "UpdateAI", "d6/d87/a16790.html#ade416a422e67ce61e8874320cce7143b", null ],
-    [ "pInstance", "d6/d87/a16790.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
-    [ "timer1", "d6/d87/a16790.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
-    [ "timer2", "d6/d87/a16790.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
+    [ "npc_hor_lumbering_abominationAI", "d6/d87/a16790.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
+    [ "JustDied", "d6/d87/a16790.html#af243a79da3028d3d66facc8a15132f78", null ],
+    [ "JustEngagedWith", "d6/d87/a16790.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
+    [ "Reset", "d6/d87/a16790.html#a4270f405bbade0028fce4df0655a1987", null ],
+    [ "UpdateAI", "d6/d87/a16790.html#a995d0f7902cb70280d1448ac7731a816", null ],
+    [ "events", "d6/d87/a16790.html#aee9063950477b50e38ec904e91882689", null ]
 ];

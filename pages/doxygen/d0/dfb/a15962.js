@@ -1,7 +1,10 @@
 var a15962 =
 [
-    [ "HandleAfterEffectAbsorb", "d0/dfb/a15962.html#ab3d9f3679931b4b3b29713602d08701d", null ],
-    [ "PrepareAuraScript", "d0/dfb/a15962.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
-    [ "Register", "d0/dfb/a15962.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
-    [ "Validate", "d0/dfb/a15962.html#a87750183d2b2d6adb67bba4a1f767029", null ]
+    [ "spell_halion_damage_aoe_summon", "d0/dfb/a15962.html#a6152e7a0515076af2c7c2155506257b0", null ],
+    [ "HandleSummon", "d0/dfb/a15962.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
+    [ "PrepareSpellScript", "d0/dfb/a15962.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
+    [ "Register", "d0/dfb/a15962.html#aa1f9239a2910d53c85539abba6333893", null ],
+    [ "Validate", "d0/dfb/a15962.html#acb359257b29354b5962d9865e06137e7", null ],
+    [ "_auraSpell", "d0/dfb/a15962.html#a497a74eca703470964157639a6f372e2", null ],
+    [ "_explosionSpell", "d0/dfb/a15962.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
 ];

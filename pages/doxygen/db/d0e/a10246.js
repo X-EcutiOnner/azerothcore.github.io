@@ -1,11 +1,12 @@
 var a10246 =
 [
-    [ "PointMoveMap", "db/d0e/a10246.html#a777e97ebcf367638578d1c189480ad99", null ],
-    [ "SystemMgr", "db/d0e/a10246.html#ac7fd54676b46afcbc520e4c58fcdce75", null ],
-    [ "~SystemMgr", "db/d0e/a10246.html#ab192b30aa7ff1edd27bb23e87a7ac4c5", null ],
-    [ "GetPointMoveList", "db/d0e/a10246.html#af9f998f9778cebce3edb39b7296994d5", null ],
-    [ "instance", "db/d0e/a10246.html#a71b78a44a3656802d55211d68fb19e12", null ],
-    [ "LoadScriptWaypoints", "db/d0e/a10246.html#af8097171a2ffc49600397c6a519dddc3", null ],
-    [ "_empty", "db/d0e/a10246.html#a4c90cb038afeb09c107979348bd3ca01", null ],
-    [ "m_mPointMoveMap", "db/d0e/a10246.html#a3603d019adf647df9f314a7ca61a25dd", null ]
+    [ "GroupScript", "db/d0e/a10246.html#a0680f82522424afc364e9b94e1c6f686", null ],
+    [ "CanGroupJoinBattlegroundQueue", "db/d0e/a10246.html#a931b4a94a2f95958579b37c0af6ece03", null ],
+    [ "IsDatabaseBound", "db/d0e/a10246.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
+    [ "OnAddMember", "db/d0e/a10246.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
+    [ "OnChangeLeader", "db/d0e/a10246.html#a64a1441fd3db3f25236691efcff4a80b", null ],
+    [ "OnCreate", "db/d0e/a10246.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
+    [ "OnDisband", "db/d0e/a10246.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
+    [ "OnInviteMember", "db/d0e/a10246.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
+    [ "OnRemoveMember", "db/d0e/a10246.html#adf640b01746ee92fed31670ee5cc8d0f", null ]
 ];

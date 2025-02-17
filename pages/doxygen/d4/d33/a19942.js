@@ -1,6 +1,6 @@
 var a19942 =
 [
-    [ "DestroyWinterCache", "d4/d33/a19942.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
-    [ "PrepareSpellScript", "d4/d33/a19942.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
-    [ "Register", "d4/d33/a19942.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
+    [ "boss_vezaxAI", "da/db1/a19946.html", "da/db1/a19946" ],
+    [ "boss_vezax", "d4/d33/a19942.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
+    [ "GetAI", "d4/d33/a19942.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
 ];

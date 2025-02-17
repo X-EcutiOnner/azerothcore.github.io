@@ -1,6 +1,10 @@
 var a04954 =
 [
-    [ "Read", "d2/d68/a04954.html#a652bcf37d435efc3fb82f4d8cbf00e51", null ],
-    [ "groupsArray", "d2/d68/a04954.html#a79b2d93c2929aaddac1004aed4ecdd85", null ],
-    [ "RootWMOID", "d2/d68/a04954.html#a6b9058e7062c970438c79f08103c3c61", null ]
+    [ "MmapTileHeader", "d2/d68/a04954.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
+    [ "dtVersion", "d2/d68/a04954.html#a34d3ed8c617139653176454d7fa7934e", null ],
+    [ "mmapMagic", "d2/d68/a04954.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
+    [ "mmapVersion", "d2/d68/a04954.html#a5cc3cd873419fe8aeb479d3187584410", null ],
+    [ "padding", "d2/d68/a04954.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
+    [ "size", "d2/d68/a04954.html#a69f3284a4a56b1108792ba56c250bf97", null ],
+    [ "usesLiquids", "d2/d68/a04954.html#aeb4e622161a4bb42cff42d37542f0254", null ]
 ];

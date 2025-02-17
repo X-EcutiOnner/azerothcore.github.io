@@ -1,6 +1,6 @@
 var a23098 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "dd/d93/a23098.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
-    [ "OnGameObjectCreate", "dd/d93/a23098.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
-    [ "SetBossState", "dd/d93/a23098.html#ab1e344fbf169ee40f28741217f3dca14", null ]
+    [ "HandlePeriodic", "dd/d93/a23098.html#a25c698e911ec02d9cd7f757ba87281df", null ],
+    [ "PrepareAuraScript", "dd/d93/a23098.html#a7bf79bc5e5f509b52965f03e998db399", null ],
+    [ "Register", "dd/d93/a23098.html#ab3eec9f591384c7c1c684651c38aa614", null ]
 ];

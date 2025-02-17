@@ -1,5 +1,6 @@
 var a21430 =
 [
-    [ "go_the_pearl_of_the_depths", "d1/d59/a21430.html#a0e09ddcde0eef050400d90e9a268823a", null ],
-    [ "OnGossipHello", "d1/d59/a21430.html#a745ea14136a78759a3afd7714c6d784a", null ]
+    [ "HandleEffect", "d1/d59/a21430.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
+    [ "PrepareSpellScript", "d1/d59/a21430.html#aec199e9f9651267fac88bd86be326bb4", null ],
+    [ "Register", "d1/d59/a21430.html#a14bd854db86750704c8377d457dea360", null ]
 ];

@@ -1,11 +1,11 @@
 var a24998 =
 [
-    [ "spell_gen_apply_aura_after_expiration", "d7/d8b/a24998.html#a391e5089eb034618c5e3edde26685a00", null ],
-    [ "AfterRemove", "d7/d8b/a24998.html#afea2221ceeebf90cf352084d8aacf7c9", null ],
-    [ "PrepareAuraScript", "d7/d8b/a24998.html#a494123635eda4c43d92a08c9c8cd5627", null ],
-    [ "Register", "d7/d8b/a24998.html#a3189ba65a1d9adf252d9f0dfb70abd16", null ],
-    [ "Validate", "d7/d8b/a24998.html#ad405128104d8a6528e8db96281ad0f0b", null ],
-    [ "_aura", "d7/d8b/a24998.html#a8a79aef777e1397b031149c54ae9d81d", null ],
-    [ "_effect", "d7/d8b/a24998.html#aa276a986ba9b67964ddeec56d6455cf9", null ],
-    [ "_spellId", "d7/d8b/a24998.html#a330f1311911ba9f3ebd704c7f9a09246", null ]
+    [ "GetPennatSpellId", "d7/d8b/a24998.html#a1e327a79ce90cf7ebbec644ed15ff67f", null ],
+    [ "HandleApplyEffect", "d7/d8b/a24998.html#a396c05708a89758e4038b327e09c65e8", null ],
+    [ "HandleRemoveEffect", "d7/d8b/a24998.html#adf6fd3d2a36e1ff115b5c5109d37b7a4", null ],
+    [ "Load", "d7/d8b/a24998.html#afc83ecf02a1702d48fb39d60419bdbf1", null ],
+    [ "PrepareAuraScript", "d7/d8b/a24998.html#a0230d694e9325d7ac6ac6526ecb5a0e3", null ],
+    [ "Register", "d7/d8b/a24998.html#a46782a9dfb8ee2100be00afb6aa8b9a7", null ],
+    [ "Validate", "d7/d8b/a24998.html#a095b002671940f2b3504ae2646f76d5a", null ],
+    [ "_pennantSpellId", "d7/d8b/a24998.html#a092f0d88ede12dea699b39d5df04131c", null ]
 ];

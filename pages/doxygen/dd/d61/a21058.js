@@ -1,12 +1,7 @@
 var a21058 =
 [
-    [ "boss_moraggAI", "dd/d61/a21058.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "dd/d61/a21058.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "dd/d61/a21058.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "dd/d61/a21058.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "dd/d61/a21058.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "dd/d61/a21058.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "dd/d61/a21058.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "dd/d61/a21058.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "dd/d61/a21058.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "HandleScript", "dd/d61/a21058.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "dd/d61/a21058.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "dd/d61/a21058.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "dd/d61/a21058.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

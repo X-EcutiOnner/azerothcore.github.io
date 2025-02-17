@@ -1,7 +1,6 @@
 var a10502 =
 [
-    [ "GuildBankWithdrawMoney", "dc/d63/a10502.html#a7bd310d1fa4fb332cd815a259de3ef2d", null ],
-    [ "Read", "dc/d63/a10502.html#a420aac24befdc5ac26171faa15c3c350", null ],
-    [ "Banker", "dc/d63/a10502.html#a68f9a4191c349702881774bff4069f03", null ],
-    [ "Money", "dc/d63/a10502.html#a349f8608d589ac3a5697c7c1cf73723e", null ]
+    [ "GuildUpdateMotdText", "dc/d63/a10502.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
+    [ "Read", "dc/d63/a10502.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
+    [ "MotdText", "dc/d63/a10502.html#a5b2ee458a919be7f912d49cf984490ac", null ]
 ];

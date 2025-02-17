@@ -1,5 +1,5 @@
 var a21338 =
 [
-    [ "npc_leryssaAI", "de/d15/a21338.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
-    [ "MovementInform", "de/d15/a21338.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
+    [ "npc_khunok_the_behemothAI", "de/d15/a21338.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
+    [ "MoveInLineOfSight", "de/d15/a21338.html#a5d54954a159da764aa7b83579e03688c", null ]
 ];

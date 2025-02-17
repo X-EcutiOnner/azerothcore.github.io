@@ -1,5 +1,5 @@
 var a20386 =
 [
-    [ "go_thorim_lever", "d7/d51/a20386.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "d7/d51/a20386.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "go_ulduar_working_harpoon", "d7/d51/a20386.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
+    [ "OnGossipHello", "d7/d51/a20386.html#a164bdd0a9538293699665a821c4f25f3", null ]
 ];

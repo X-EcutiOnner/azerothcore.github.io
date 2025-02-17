@@ -1,7 +1,6 @@
 var a10186 =
 [
-    [ "SpellScriptLoader", "dd/d91/a10186.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
-    [ "GetAuraScript", "dd/d91/a10186.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "dd/d91/a10186.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "dd/d91/a10186.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "BattlegroundScript", "dd/d91/a10186.html#a306231f1c7346a00a3f877c7cef3897b", null ],
+    [ "GetBattleground", "dd/d91/a10186.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
+    [ "IsDatabaseBound", "dd/d91/a10186.html#a35b571d570c85a861af6f949b51453cb", null ]
 ];

@@ -1,11 +1,15 @@
 var a12870 =
 [
-    [ "npc_scholomance_occultistAI", "d6/dbb/a12870.html#af78103d07aef427130d26b4aed5e5ae3", null ],
-    [ "JustEngagedWith", "d6/dbb/a12870.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
-    [ "JustReachedHome", "d6/dbb/a12870.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
-    [ "SelectUnitCasting", "d6/dbb/a12870.html#adde187b89a74a57aac823e4eb19bfeed", null ],
-    [ "UpdateAI", "d6/dbb/a12870.html#ab02edf780adb553b2314045d8effa277", null ],
-    [ "events", "d6/dbb/a12870.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
-    [ "instance", "d6/dbb/a12870.html#a195fe4d681580c17086a5390fd4f82ba", null ],
-    [ "originalDisplayId", "d6/dbb/a12870.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
+    [ "npc_koltira_deathweaverAI", "d6/dbb/a12870.html#adbc46fce90170aec986faacf012bd2b2", null ],
+    [ "AttackStart", "d6/dbb/a12870.html#aa219afbaedb108e7384479de3bbb4135", null ],
+    [ "EnterEvadeMode", "d6/dbb/a12870.html#aaf9e9df5a7124b4fe6b9348d5c8931fa", null ],
+    [ "JustSummoned", "d6/dbb/a12870.html#ae93b1dd675d2f2b8aca93e9ccff42a2e", null ],
+    [ "Reset", "d6/dbb/a12870.html#ac07053d3798d57449c23bfff68e12f1b", null ],
+    [ "SummonAcolyte", "d6/dbb/a12870.html#ac74e57e84fa6d1166fe950a46492cc2b", null ],
+    [ "UpdateAI", "d6/dbb/a12870.html#a87e87ebfaaf7a633f799d2a0f9df18ba", null ],
+    [ "WaypointReached", "d6/dbb/a12870.html#a5714e781a73cf2774aa21a083cd8301a", null ],
+    [ "m_uiValrothGUID", "d6/dbb/a12870.html#acee9c0c42cc8a692526ef73b19292ceb", null ],
+    [ "m_uiWave", "d6/dbb/a12870.html#a35ec3a0a78240966a0e06753873e5956", null ],
+    [ "m_uiWave_Timer", "d6/dbb/a12870.html#a8e94cd2de591f06e395f2d116e3e533b", null ],
+    [ "summons", "d6/dbb/a12870.html#a38fc03a63df38b02eab07f3bffd969da", null ]
 ];

@@ -1,6 +1,6 @@
 var a27142 =
 [
-    [ "npc_innkeeper", "d3/d82/a27142.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "d3/d82/a27142.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "d3/d82/a27142.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "go_fel_crystalforge", "d3/d82/a27142.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "d3/d82/a27142.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "d3/d82/a27142.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

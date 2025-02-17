@@ -1,8 +1,8 @@
 var a05270 =
 [
-    [ "LogOperation", "de/d4f/a05270.html#a19e5e4731bd71697876110348f86d737", null ],
-    [ "~LogOperation", "de/d4f/a05270.html#aae305e293044badac1a628edd501ed35", null ],
-    [ "call", "de/d4f/a05270.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
-    [ "logger", "de/d4f/a05270.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
-    [ "msg", "de/d4f/a05270.html#a665effc48367f396f3e714f5d3d56d75", null ]
+    [ "Decode", "de/d4f/a05270.html#aba5ab7c59ce77414bca38bfcde32d1c0", null ],
+    [ "Encode", "de/d4f/a05270.html#ad6cde2310ca52940df1bbf93deff6b91", null ],
+    [ "BITS_PER_CHAR", "de/d4f/a05270.html#a5efb6c842ab7733dc26fd67f1a00ccdf", null ],
+    [ "DECODE_ERROR", "de/d4f/a05270.html#a8fccf3d4b22e835fc4dca6b942771a2a", null ],
+    [ "PADDING", "de/d4f/a05270.html#a2e5699431f24ca6b745294b935b99240", null ]
 ];

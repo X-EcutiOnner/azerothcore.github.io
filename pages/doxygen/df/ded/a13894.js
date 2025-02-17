@@ -1,9 +1,6 @@
 var a13894 =
 [
-    [ "HandleEffectPeriodic", "df/ded/a13894.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
-    [ "HandleEffectRemove", "df/ded/a13894.html#a96ed7366e568b70e82d622586740aa56", null ],
-    [ "Load", "df/ded/a13894.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
-    [ "PrepareAuraScript", "df/ded/a13894.html#abd1f851112a50b79e815cdd894275bab", null ],
-    [ "Register", "df/ded/a13894.html#aa3cd85aed063017c4737e7660fa81f37", null ],
-    [ "questTick", "df/ded/a13894.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
+    [ "npc_ohganAI", "dc/d07/a13898.html", "dc/d07/a13898" ],
+    [ "npc_ohgan", "df/ded/a13894.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
+    [ "GetAI", "df/ded/a13894.html#a129dc2fcd449850403e0dcb99725da90", null ]
 ];

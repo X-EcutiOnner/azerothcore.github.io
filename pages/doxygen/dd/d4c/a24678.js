@@ -1,6 +1,6 @@
 var a24678 =
 [
-    [ "OnPeriodic", "dd/d4c/a24678.html#a5fdf44f34765d0386d5c5490620c944a", null ],
-    [ "PrepareAuraScript", "dd/d4c/a24678.html#a3c3044795e183eef2c801781100b11c7", null ],
-    [ "Register", "dd/d4c/a24678.html#a1221c3287c3fd7add356e84430508684", null ]
+    [ "CheckProc", "dd/d4c/a24678.html#a68d2d8168e405ea4250e2e43a1a350fa", null ],
+    [ "PrepareAuraScript", "dd/d4c/a24678.html#a9d797e7bc7133f4a626f4352b2fe7141", null ],
+    [ "Register", "dd/d4c/a24678.html#a5b96bb8c2ff456b63bbd200f54294251", null ]
 ];

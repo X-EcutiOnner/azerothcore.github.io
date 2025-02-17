@@ -1,6 +1,5 @@
 var a14250 =
 [
-    [ "HandleScriptEffect", "d5/ddb/a14250.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
-    [ "PrepareSpellScript", "d5/ddb/a14250.html#a55115ca986d5226588d168ced7ab1f55", null ],
-    [ "Register", "d5/ddb/a14250.html#ad8811bf48dfb564afcd82cf51b860255", null ]
+    [ "go_pumpkin_shrine", "d5/ddb/a14250.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "d5/ddb/a14250.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

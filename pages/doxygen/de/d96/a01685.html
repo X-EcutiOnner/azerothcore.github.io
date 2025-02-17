@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Warden/Warden.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Kalimdor/CavernsOfTime/TheBlackMorass/instance_the_black_morass.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,183 +106,106 @@ $(document).ready(function(){initNavTree('de/d96/a01685.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">Warden.h File Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">instance_the_black_morass.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ARC4.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AuthDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ByteBuffer.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WardenPayloadMgr.h</a>&quot;</code><br />
-<code>#include &lt;array&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">the_black_morass.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5c/a11266.html">WardenModuleUse</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d28/a14666.html">instance_the_black_morass</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d3d/a11270.html">WardenModuleTransfer</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc5/a11274.html">WardenHashRequest</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2f/a11278.html">ClientWardenModule</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de8/a11282.html">Warden</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5d/a14670.html">instance_the_black_morass::instance_the_black_morass_InstanceMapScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a8d0de714c4a4cf7a125c6187a7d19e51"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51">WardenOpcodes</a> { <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4">WARDEN_CMSG_MODULE_MISSING</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c">WARDEN_CMSG_MODULE_OK</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5">WARDEN_CMSG_CHEAT_CHECKS_RESULT</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f">WARDEN_CMSG_MEM_CHECKS_RESULT</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed">WARDEN_CMSG_HASH_RESULT</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc">WARDEN_CMSG_MODULE_FAILED</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30">WARDEN_SMSG_MODULE_USE</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11">WARDEN_SMSG_MODULE_CACHE</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709">WARDEN_SMSG_CHEAT_CHECKS_REQUEST</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8">WARDEN_SMSG_MODULE_INITIALIZE</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82">WARDEN_SMSG_MEM_CHECKS_REQUEST</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451">WARDEN_SMSG_HASH_REQUEST</a> = 5
-<br />
- }</td></tr>
-<tr class="separator:a8d0de714c4a4cf7a125c6187a7d19e51"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7598131f87414a66259189a0518ca6f2"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2">WardenCheckType</a> { <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074">MEM_CHECK</a> = 0xF3
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f">PAGE_CHECK_A</a> = 0xB2
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87">PAGE_CHECK_B</a> = 0xBF
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b">MPQ_CHECK</a> = 0x98
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a> = 139
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93">DRIVER_CHECK</a> = 0x71
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018">TIMING_CHECK</a> = 0x57
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d">PROC_CHECK</a> = 0x7E
-, <br />
-&#160;&#160;<a class="el" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77">MODULE_CHECK</a> = 0xD9
-<br />
- }</td></tr>
-<tr class="separator:a7598131f87414a66259189a0518ca6f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a665f808519def7182fa25d9c0a4525f6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d96/a01685.html#a665f808519def7182fa25d9c0a4525f6">AddSC_instance_the_black_morass</a> ()</td></tr>
+<tr class="separator:a665f808519def7182fa25d9c0a4525f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a744b7235a198467a51550de127971bb1"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../da/da3/a08394.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d96/a01685.html#a744b7235a198467a51550de127971bb1">PortalLocation</a> [4]</td></tr>
+<tr class="separator:a744b7235a198467a51550de127971bb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a412286b689bd324fedd65ddd8dde8afb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/df3/a09586.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d96/a01685.html#a412286b689bd324fedd65ddd8dde8afb">creatureData</a> []</td></tr>
+<tr class="separator:a412286b689bd324fedd65ddd8dde8afb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a7598131f87414a66259189a0518ca6f2" name="a7598131f87414a66259189a0518ca6f2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7598131f87414a66259189a0518ca6f2">&#9670;&#160;</a></span>WardenCheckType</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a665f808519def7182fa25d9c0a4525f6" name="a665f808519def7182fa25d9c0a4525f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a665f808519def7182fa25d9c0a4525f6">&#9670;&#160;</a></span>AddSC_instance_the_black_morass()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2">WardenCheckType</a></td>
+          <td class="memname">void AddSC_instance_the_black_morass </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074" name="a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074"></a>MEM_CHECK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f" name="a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f"></a>PAGE_CHECK_A&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87" name="a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87"></a>PAGE_CHECK_B&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b" name="a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b"></a>MPQ_CHECK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada" name="a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada"></a>LUA_EVAL_CHECK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93" name="a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93"></a>DRIVER_CHECK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018" name="a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018"></a>TIMING_CHECK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d" name="a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d"></a>PROC_CHECK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77" name="a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77"></a>MODULE_CHECK&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   47</span>{</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074">MEM_CHECK</a>               = 0xF3, <span class="comment">// 243: byte moduleNameIndex + uint Offset + byte Len (check to ensure memory isn&#39;t modified)</span></div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f">PAGE_CHECK_A</a>            = 0xB2, <span class="comment">// 178: uint Seed + byte[20] SHA1 + uint Addr + byte Len (scans all pages for specified hash)</span></div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87">PAGE_CHECK_B</a>            = 0xBF, <span class="comment">// 191: uint Seed + byte[20] SHA1 + uint Addr + byte Len (scans only pages starts with MZ+PE headers for specified hash)</span></div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b">MPQ_CHECK</a>               = 0x98, <span class="comment">// 152: byte fileNameIndex (check to ensure MPQ file isn&#39;t modified)</span></div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a>          = 139,  <span class="comment">// evaluate arbitrary Lua check</span></div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93">DRIVER_CHECK</a>            = 0x71, <span class="comment">// 113: uint Seed + byte[20] SHA1 + byte driverNameIndex (check to ensure driver isn&#39;t loaded)</span></div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018">TIMING_CHECK</a>            = 0x57, <span class="comment">//  87: empty (check to ensure GetTickCount() isn&#39;t detoured)</span></div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d">PROC_CHECK</a>              = 0x7E, <span class="comment">// 126: uint Seed + byte[20] SHA1 + byte moluleNameIndex + byte procNameIndex + uint Offset + byte Len (check to ensure proc isn&#39;t detoured)</span></div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77">MODULE_CHECK</a>            = 0xD9, <span class="comment">// 217: uint Seed + byte[20] SHA1 (check to ensure module isn&#39;t injected)</span></div>
-<div class="line"><span class="lineno">   57</span>};</div>
-<div class="ttc" id="aa01685_html_a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d"><div class="ttname"><a href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d">PROC_CHECK</a></div><div class="ttdeci">@ PROC_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:55</div></div>
-<div class="ttc" id="aa01685_html_a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93"><div class="ttname"><a href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93">DRIVER_CHECK</a></div><div class="ttdeci">@ DRIVER_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:53</div></div>
-<div class="ttc" id="aa01685_html_a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f"><div class="ttname"><a href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f">PAGE_CHECK_A</a></div><div class="ttdeci">@ PAGE_CHECK_A</div><div class="ttdef"><b>Definition:</b> Warden.h:49</div></div>
-<div class="ttc" id="aa01685_html_a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87"><div class="ttname"><a href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87">PAGE_CHECK_B</a></div><div class="ttdeci">@ PAGE_CHECK_B</div><div class="ttdef"><b>Definition:</b> Warden.h:50</div></div>
-<div class="ttc" id="aa01685_html_a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada"><div class="ttname"><a href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a></div><div class="ttdeci">@ LUA_EVAL_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:52</div></div>
-<div class="ttc" id="aa01685_html_a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b"><div class="ttname"><a href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b">MPQ_CHECK</a></div><div class="ttdeci">@ MPQ_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:51</div></div>
-<div class="ttc" id="aa01685_html_a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074"><div class="ttname"><a href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074">MEM_CHECK</a></div><div class="ttdeci">@ MEM_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:48</div></div>
-<div class="ttc" id="aa01685_html_a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018"><div class="ttname"><a href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018">TIMING_CHECK</a></div><div class="ttdeci">@ TIMING_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:54</div></div>
-<div class="ttc" id="aa01685_html_a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77"><div class="ttname"><a href="../../de/d96/a01685.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77">MODULE_CHECK</a></div><div class="ttdeci">@ MODULE_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:56</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  470</span>{</div>
+<div class="line"><span class="lineno">  471</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d28/a14666.html">instance_the_black_morass</a>();</div>
+<div class="line"><span class="lineno">  472</span>}</div>
+<div class="ttc" id="aa14666_html"><div class="ttname"><a href="../../d3/d28/a14666.html">instance_the_black_morass</a></div><div class="ttdef"><b>Definition:</b> instance_the_black_morass.cpp:38</div></div>
 </div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00100">AddKalimdorScripts()</a>.</p>
+
 </div>
 </div>
-<a id="a8d0de714c4a4cf7a125c6187a7d19e51" name="a8d0de714c4a4cf7a125c6187a7d19e51"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8d0de714c4a4cf7a125c6187a7d19e51">&#9670;&#160;</a></span>WardenOpcodes</h2>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a412286b689bd324fedd65ddd8dde8afb" name="a412286b689bd324fedd65ddd8dde8afb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a412286b689bd324fedd65ddd8dde8afb">&#9670;&#160;</a></span>creatureData</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51">WardenOpcodes</a></td>
+          <td class="memname"><a class="el" href="../../dc/df3/a09586.html">ObjectData</a> const creatureData[]</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4" name="a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4"></a>WARDEN_CMSG_MODULE_MISSING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c" name="a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c"></a>WARDEN_CMSG_MODULE_OK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5" name="a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5"></a>WARDEN_CMSG_CHEAT_CHECKS_RESULT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f" name="a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f"></a>WARDEN_CMSG_MEM_CHECKS_RESULT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed" name="a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed"></a>WARDEN_CMSG_HASH_RESULT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc" name="a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc"></a>WARDEN_CMSG_MODULE_FAILED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30" name="a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30"></a>WARDEN_SMSG_MODULE_USE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11" name="a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11"></a>WARDEN_SMSG_MODULE_CACHE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709" name="a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709"></a>WARDEN_SMSG_CHEAT_CHECKS_REQUEST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8" name="a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8"></a>WARDEN_SMSG_MODULE_INITIALIZE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82" name="a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82"></a>WARDEN_SMSG_MEM_CHECKS_REQUEST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451" name="a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451"></a>WARDEN_SMSG_HASH_REQUEST&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
-<div class="line"><span class="lineno">   29</span>    <span class="comment">// Client-&gt;Server</span></div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4">WARDEN_CMSG_MODULE_MISSING</a>                  = 0,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c">WARDEN_CMSG_MODULE_OK</a>                       = 1,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5">WARDEN_CMSG_CHEAT_CHECKS_RESULT</a>             = 2,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f">WARDEN_CMSG_MEM_CHECKS_RESULT</a>               = 3,        <span class="comment">// only sent if MEM_CHECK bytes doesn&#39;t match</span></div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed">WARDEN_CMSG_HASH_RESULT</a>                     = 4,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc">WARDEN_CMSG_MODULE_FAILED</a>                   = 5,        <span class="comment">// this is sent when client failed to load uploaded module due to cache fail</span></div>
-<div class="line"><span class="lineno">   36</span> </div>
-<div class="line"><span class="lineno">   37</span>    <span class="comment">// Server-&gt;Client</span></div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30">WARDEN_SMSG_MODULE_USE</a>                      = 0,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11">WARDEN_SMSG_MODULE_CACHE</a>                    = 1,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709">WARDEN_SMSG_CHEAT_CHECKS_REQUEST</a>            = 2,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8">WARDEN_SMSG_MODULE_INITIALIZE</a>               = 3,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82">WARDEN_SMSG_MEM_CHECKS_REQUEST</a>              = 4,        <span class="comment">// byte len; while(!EOF) { byte unk(1); byte index(++); string module(can be 0); int offset; byte len; byte[] bytes_to_compare[len]; }</span></div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451">WARDEN_SMSG_HASH_REQUEST</a>                    = 5</div>
-<div class="line"><span class="lineno">   44</span>};</div>
-<div class="ttc" id="aa01685_html_a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4"><div class="ttname"><a href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4">WARDEN_CMSG_MODULE_MISSING</a></div><div class="ttdeci">@ WARDEN_CMSG_MODULE_MISSING</div><div class="ttdef"><b>Definition:</b> Warden.h:30</div></div>
-<div class="ttc" id="aa01685_html_a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82"><div class="ttname"><a href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82">WARDEN_SMSG_MEM_CHECKS_REQUEST</a></div><div class="ttdeci">@ WARDEN_SMSG_MEM_CHECKS_REQUEST</div><div class="ttdef"><b>Definition:</b> Warden.h:42</div></div>
-<div class="ttc" id="aa01685_html_a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed"><div class="ttname"><a href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed">WARDEN_CMSG_HASH_RESULT</a></div><div class="ttdeci">@ WARDEN_CMSG_HASH_RESULT</div><div class="ttdef"><b>Definition:</b> Warden.h:34</div></div>
-<div class="ttc" id="aa01685_html_a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc"><div class="ttname"><a href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc">WARDEN_CMSG_MODULE_FAILED</a></div><div class="ttdeci">@ WARDEN_CMSG_MODULE_FAILED</div><div class="ttdef"><b>Definition:</b> Warden.h:35</div></div>
-<div class="ttc" id="aa01685_html_a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451"><div class="ttname"><a href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451">WARDEN_SMSG_HASH_REQUEST</a></div><div class="ttdeci">@ WARDEN_SMSG_HASH_REQUEST</div><div class="ttdef"><b>Definition:</b> Warden.h:43</div></div>
-<div class="ttc" id="aa01685_html_a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5"><div class="ttname"><a href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5">WARDEN_CMSG_CHEAT_CHECKS_RESULT</a></div><div class="ttdeci">@ WARDEN_CMSG_CHEAT_CHECKS_RESULT</div><div class="ttdef"><b>Definition:</b> Warden.h:32</div></div>
-<div class="ttc" id="aa01685_html_a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c"><div class="ttname"><a href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c">WARDEN_CMSG_MODULE_OK</a></div><div class="ttdeci">@ WARDEN_CMSG_MODULE_OK</div><div class="ttdef"><b>Definition:</b> Warden.h:31</div></div>
-<div class="ttc" id="aa01685_html_a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11"><div class="ttname"><a href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11">WARDEN_SMSG_MODULE_CACHE</a></div><div class="ttdeci">@ WARDEN_SMSG_MODULE_CACHE</div><div class="ttdef"><b>Definition:</b> Warden.h:39</div></div>
-<div class="ttc" id="aa01685_html_a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8"><div class="ttname"><a href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8">WARDEN_SMSG_MODULE_INITIALIZE</a></div><div class="ttdeci">@ WARDEN_SMSG_MODULE_INITIALIZE</div><div class="ttdef"><b>Definition:</b> Warden.h:41</div></div>
-<div class="ttc" id="aa01685_html_a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30"><div class="ttname"><a href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30">WARDEN_SMSG_MODULE_USE</a></div><div class="ttdeci">@ WARDEN_SMSG_MODULE_USE</div><div class="ttdef"><b>Definition:</b> Warden.h:38</div></div>
-<div class="ttc" id="aa01685_html_a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f"><div class="ttname"><a href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f">WARDEN_CMSG_MEM_CHECKS_RESULT</a></div><div class="ttdeci">@ WARDEN_CMSG_MEM_CHECKS_RESULT</div><div class="ttdef"><b>Definition:</b> Warden.h:33</div></div>
-<div class="ttc" id="aa01685_html_a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709"><div class="ttname"><a href="../../de/d96/a01685.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709">WARDEN_SMSG_CHEAT_CHECKS_REQUEST</a></div><div class="ttdeci">@ WARDEN_SMSG_CHEAT_CHECKS_REQUEST</div><div class="ttdef"><b>Definition:</b> Warden.h:40</div></div>
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../dd/d08/a01682.html#a92f6fd626e1834a4cc509efc1186963ea9e034e8b11eeb7b7ba07599e8a15d8fe">NPC_MEDIVH</a>, <a class="code hl_enumvalue" href="../../dd/d08/a01682.html#afb6eb4f28419b652027fad41104a6d22a0215f4ae99efc061f52ec79b9eb60ee0">DATA_MEDIVH</a> },</div>
+<div class="line">    { 0,          0           }</div>
+<div class="line">}</div>
+<div class="ttc" id="aa01682_html_a92f6fd626e1834a4cc509efc1186963ea9e034e8b11eeb7b7ba07599e8a15d8fe"><div class="ttname"><a href="../../dd/d08/a01682.html#a92f6fd626e1834a4cc509efc1186963ea9e034e8b11eeb7b7ba07599e8a15d8fe">NPC_MEDIVH</a></div><div class="ttdeci">@ NPC_MEDIVH</div><div class="ttdef"><b>Definition:</b> the_black_morass.h:64</div></div>
+<div class="ttc" id="aa01682_html_afb6eb4f28419b652027fad41104a6d22a0215f4ae99efc061f52ec79b9eb60ee0"><div class="ttname"><a href="../../dd/d08/a01682.html#afb6eb4f28419b652027fad41104a6d22a0215f4ae99efc061f52ec79b9eb60ee0">DATA_MEDIVH</a></div><div class="ttdeci">@ DATA_MEDIVH</div><div class="ttdef"><b>Definition:</b> the_black_morass.h:36</div></div>
 </div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00049">instance_the_black_morass::instance_the_black_morass_InstanceMapScript::instance_the_black_morass_InstanceMapScript()</a>.</p>
+
+</div>
+</div>
+<a id="a744b7235a198467a51550de127971bb1" name="a744b7235a198467a51550de127971bb1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a744b7235a198467a51550de127971bb1">&#9670;&#160;</a></span>PortalLocation</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../da/da3/a08394.html">Position</a> PortalLocation[4]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    { -2030.8318f, 7024.9443f, 23.071817f, 3.14159f },</div>
+<div class="line">    { -1961.7335f, 7029.5280f, 21.811401f, 2.12931f },</div>
+<div class="line">    { -1887.6950f, 7106.5570f, 22.049500f, 4.95673f },</div>
+<div class="line">    { -1930.9106f, 7183.5970f, 23.007639f, 3.59537f }</div>
+<div class="line">}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00061">instance_the_black_morass::instance_the_black_morass_InstanceMapScript::CleanupInstance()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -290,8 +213,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_4b21bdf52d2a98b0776a5d7d01fdcc43.html">Warden</a></li><li class="navelem"><a class="el" href="../../de/d96/a01685.html">Warden.h</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:43:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ee14a0f6ab8ad29bd27b6821baacc69.html">Kalimdor</a></li><li class="navelem"><a class="el" href="../../dir_5833980719a36b6f6a864b11e72f0bc7.html">CavernsOfTime</a></li><li class="navelem"><a class="el" href="../../dir_0a95014d09215914835c277ca75ca7c3.html">TheBlackMorass</a></li><li class="navelem"><a class="el" href="../../de/d96/a01685.html">instance_the_black_morass.cpp</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:41:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

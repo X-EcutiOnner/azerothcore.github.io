@@ -1,6 +1,7 @@
 var a11846 =
 [
-    [ "boss_overlordwyrmthalakAI", "d7/d90/a11850.html", "d7/d90/a11850" ],
-    [ "boss_overlord_wyrmthalak", "db/d3d/a11846.html#a2af6edf776c189d43cb82cc35bb838fe", null ],
-    [ "GetAI", "db/d3d/a11846.html#a56de538f25cbabc9346b987dbfe680a1", null ]
+    [ "boss_grizzleAI", "db/d3d/a11846.html#a3310892cafc2a8e022105f77258b25af", null ],
+    [ "JustEngagedWith", "db/d3d/a11846.html#a598e7e7d6bdd847bf01968116988a935", null ],
+    [ "UpdateAI", "db/d3d/a11846.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
+    [ "nextTremorTime", "db/d3d/a11846.html#aa392b5a5db08d8676614923ae4838d05", null ]
 ];

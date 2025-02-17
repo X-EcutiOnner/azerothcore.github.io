@@ -1,7 +1,6 @@
 var a26950 =
 [
-    [ "go_bear_trapAI", "df/d3a/a26950.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "df/d3a/a26950.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "df/d3a/a26950.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "df/d3a/a26950.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "boss_lethonAI", "d2/ddb/a26954.html", "d2/ddb/a26954" ],
+    [ "boss_lethon", "df/d3a/a26950.html#a5d758979b061646830373de64b2b3af4", null ],
+    [ "GetAI", "df/d3a/a26950.html#a493baf37aac400635dd0409e79375a1c", null ]
 ];

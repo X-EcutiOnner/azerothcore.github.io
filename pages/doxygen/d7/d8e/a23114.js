@@ -1,7 +1,13 @@
 var a23114 =
 [
-    [ "npc_underbog_mushroom", "d7/d8e/a23114.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "d7/d8e/a23114.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "d7/d8e/a23114.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "d7/d8e/a23114.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "npc_earthen_ring_flamecaller", "d7/d8e/a23114.html#ab402dd321fa0df641b674324386d7591", null ],
+    [ "DoAction", "d7/d8e/a23114.html#af745c83529a34a89c430d6113703fff5", null ],
+    [ "LookOpening", "d7/d8e/a23114.html#adfc752e7700a816b66b639007a1a90fa", null ],
+    [ "MovementInform", "d7/d8e/a23114.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
+    [ "Reset", "d7/d8e/a23114.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
+    [ "SpellHit", "d7/d8e/a23114.html#ab9c5ad7e56033997042031566748ee2b", null ],
+    [ "UpdateAI", "d7/d8e/a23114.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
+    [ "_events", "d7/d8e/a23114.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
+    [ "_instance", "d7/d8e/a23114.html#a79aa6e628a50ed485cc55513c28362dc", null ],
+    [ "_mySpot", "d7/d8e/a23114.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
 ];

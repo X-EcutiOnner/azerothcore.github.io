@@ -1,6 +1,7 @@
 var a17366 =
 [
-    [ "PrepareSpellScript", "db/ded/a17366.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "db/ded/a17366.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "db/ded/a17366.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "DelayedMovementEvent", "db/ded/a17366.html#a21241cde30f66ae42edb311542f7405c", null ],
+    [ "Execute", "db/ded/a17366.html#a8287761226ee671905151891779b6efb", null ],
+    [ "_dest", "db/ded/a17366.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
+    [ "_owner", "db/ded/a17366.html#a046942728282a997068de447271f3cbe", null ]
 ];

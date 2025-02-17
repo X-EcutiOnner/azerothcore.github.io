@@ -1,12 +1,6 @@
 var a07202 =
 [
-    [ "NodeId", "d8/d8d/a07202.html#a039c468fa0b6110809f0617496c0146c", null ],
-    [ "TextAllianceAssaulted", "d8/d8d/a07202.html#a345b2ce7c48e9d10d03ff484a0108389", null ],
-    [ "TextAllianceClaims", "d8/d8d/a07202.html#a0671602a29f33e353a8a339540beae18", null ],
-    [ "TextAllianceDefended", "d8/d8d/a07202.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250", null ],
-    [ "TextAllianceTaken", "d8/d8d/a07202.html#a281a0378999ed5966f5d28cc4310fbcd", null ],
-    [ "TextHordeAssaulted", "d8/d8d/a07202.html#a7fb668b0b9563bb0779bf4a5daefded8", null ],
-    [ "TextHordeClaims", "d8/d8d/a07202.html#acddac09017717cf5b2893ab83e1d10c8", null ],
-    [ "TextHordeDefended", "d8/d8d/a07202.html#a00cea010cfe6fb9702e5cb00003e5bef", null ],
-    [ "TextHordeTaken", "d8/d8d/a07202.html#a2bbd1b49b9b72784d07be9db2a27fe77", null ]
+    [ "ArenaTeamFilterByTypes", "d8/d8d/a07202.html#ac28ee86767c48219dbe141620c87e129", null ],
+    [ "Filter", "d8/d8d/a07202.html#a7c04437788359b40db1c0d4492d51497", null ],
+    [ "_validTypes", "d8/d8d/a07202.html#aa3b5ce8932b00b092813af239d83b7d1", null ]
 ];

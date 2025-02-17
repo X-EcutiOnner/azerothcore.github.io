@@ -1,11 +1,9 @@
 var a13414 =
 [
-    [ "npc_highborne_lamenterAI", "d6/d38/a13414.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
-    [ "JustEngagedWith", "d6/d38/a13414.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
-    [ "Reset", "d6/d38/a13414.html#a7cf9338767e8edf0a87a5552703de87a", null ],
-    [ "UpdateAI", "d6/d38/a13414.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
-    [ "EventCast", "d6/d38/a13414.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
-    [ "EventCastTimer", "d6/d38/a13414.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
-    [ "EventMove", "d6/d38/a13414.html#aca22c73db989f0393926067506794e43", null ],
-    [ "EventMoveTimer", "d6/d38/a13414.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
+    [ "npc_partygoer", "d6/d38/a13414.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d6/d38/a13414.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d6/d38/a13414.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d6/d38/a13414.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d6/d38/a13414.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d6/d38/a13414.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

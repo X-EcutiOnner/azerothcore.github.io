@@ -1,6 +1,6 @@
 var a14466 =
 [
-    [ "npc_crate_helperAI", "da/d8b/a14466.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "da/d8b/a14466.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "da/d8b/a14466.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "OnRemove", "da/d8b/a14466.html#af9da33426d8ea4462f7d9957c4312019", null ],
+    [ "PrepareAuraScript", "da/d8b/a14466.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
+    [ "Register", "da/d8b/a14466.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
 ];

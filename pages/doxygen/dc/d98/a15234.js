@@ -1,9 +1,13 @@
 var a15234 =
 [
-    [ "npc_thrall_warchiefAI", "d3/d76/a15238.html", "d3/d76/a15238" ],
-    [ "npc_thrall_warchief", "dc/d98/a15234.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
-    [ "GetAI", "dc/d98/a15234.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
-    [ "OnGossipHello", "dc/d98/a15234.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
-    [ "OnGossipSelect", "dc/d98/a15234.html#a63367ca0b252c148f625b305575fd768", null ],
-    [ "OnQuestReward", "dc/d98/a15234.html#aea53462e94121ad44e366d2743807c3c", null ]
+    [ "npc_tharnarianAI", "dc/d98/a15234.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
+    [ "Initialize", "dc/d98/a15234.html#ad1d89491b42a56406273a04045e7e91d", null ],
+    [ "Reset", "dc/d98/a15234.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
+    [ "SetGUID", "dc/d98/a15234.html#a7ac84aac946afc312d8ce27f04127dfd", null ],
+    [ "sGossipSelect", "dc/d98/a15234.html#a33b5898def48e17ba27363b98f51849b", null ],
+    [ "UpdateAI", "dc/d98/a15234.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
+    [ "_bearGUID", "dc/d98/a15234.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
+    [ "_events", "dc/d98/a15234.html#aff73052a4b7407d760af3dde09fa8a07", null ],
+    [ "_facing", "dc/d98/a15234.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
+    [ "_scriptRunning", "dc/d98/a15234.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
 ];

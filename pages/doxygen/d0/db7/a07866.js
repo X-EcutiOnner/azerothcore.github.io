@@ -1,10 +1,7 @@
 var a07866 =
 [
-    [ "AssistDelayEvent", "d0/db7/a07866.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
-    [ "AssistDelayEvent", "d0/db7/a07866.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
-    [ "AddAssistant", "d0/db7/a07866.html#a987303ec41927528e9a5abfd9ab75512", null ],
-    [ "Execute", "d0/db7/a07866.html#a5afd295abeb1295e43f48b8951b24c35", null ],
-    [ "m_assistants", "d0/db7/a07866.html#ac6de6befda582bd38f92afda01204e94", null ],
-    [ "m_owner", "d0/db7/a07866.html#aabcce364c8009e8172b9d090059ce48c", null ],
-    [ "m_victim", "d0/db7/a07866.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
+    [ "RBEntryInfo", "d0/db7/a07866.html#aa720dd6cae9ee7163bb9b84918249644", null ],
+    [ "RBEntryInfo", "d0/db7/a07866.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
+    [ "comment", "d0/db7/a07866.html#a7284eac7208dba21a52b79257aad7dbc", null ],
+    [ "roles", "d0/db7/a07866.html#ab891dec65b0070ede1233080eadd0190", null ]
 ];

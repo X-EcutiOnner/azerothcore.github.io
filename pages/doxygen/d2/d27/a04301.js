@@ -1,9 +1,11 @@
 var a04301 =
 [
-    [ "instance_magtheridons_lair", "d1/d28/a23326.html", "d1/d28/a23326" ],
-    [ "instance_magtheridons_lair::instance_magtheridons_lair_InstanceMapScript", "d4/ddf/a23330.html", "d4/ddf/a23330" ],
-    [ "AddSC_instance_magtheridons_lair", "d2/d27/a04301.html#a77e256ce8ca932c8d162a30715dc7c6f", null ],
-    [ "boundaries", "d2/d27/a04301.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "doorData", "d2/d27/a04301.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "minionData", "d2/d27/a04301.html#a6720238df140a3c574a711042b7f5bd3", null ]
+    [ "AABound", "d5/dab/a04850.html", "d5/dab/a04850" ],
+    [ "BIH", "d1/de3/a04854.html", "d1/de3/a04854" ],
+    [ "BIH::buildData", "d6/d14/a04858.html", "d6/d14/a04858" ],
+    [ "BIH::StackNode", "d5/daa/a04862.html", "d5/daa/a04862" ],
+    [ "BIH::BuildStats", "d6/dd3/a04866.html", "d6/dd3/a04866" ],
+    [ "MAX_STACK_SIZE", "d2/d27/a04301.html#accbb358028675c83675d8b34c386268d", null ],
+    [ "floatToRawIntBits", "d2/d27/a04301.html#ad04403146f53e198de60b6c4bec4246e", null ],
+    [ "intBitsToFloat", "d2/d27/a04301.html#a3b415e235398aa84c4f976084f8e130c", null ]
 ];

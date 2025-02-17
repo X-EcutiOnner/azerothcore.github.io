@@ -1,7 +1,9 @@
 var a13518 =
 [
-    [ "FilterTargets", "df/d4a/a13518.html#aebe9055301495dd3a21736b9a2a35f31", null ],
-    [ "HandleDamageCalc", "df/d4a/a13518.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
-    [ "PrepareSpellScript", "df/d4a/a13518.html#a03b8e21e58988d9fc774205263c0817f", null ],
-    [ "Register", "df/d4a/a13518.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
+    [ "npc_tyrion_spybotAI", "df/d4a/a13518.html#aedad685279012266637d29069ead9063", null ],
+    [ "Reset", "df/d4a/a13518.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
+    [ "UpdateAI", "df/d4a/a13518.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
+    [ "WaypointReached", "df/d4a/a13518.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
+    [ "uiPhase", "df/d4a/a13518.html#af5dbb99fe18d96665efd04bd53294636", null ],
+    [ "uiTimer", "df/d4a/a13518.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
 ];

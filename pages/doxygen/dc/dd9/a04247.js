@@ -1,8 +1,6 @@
 var a04247 =
 [
-    [ "instance_the_botanica", "d3/d21/a23474.html", "d3/d21/a23474" ],
-    [ "instance_the_botanica::instance_the_botanica_InstanceMapScript", "df/d59/a23478.html", "df/d59/a23478" ],
-    [ "spell_botanica_call_of_the_falcon_aura", "d1/d95/a23482.html", "d1/d95/a23482" ],
-    [ "spell_botanica_shift_form_aura", "d1/df7/a23486.html", "d1/df7/a23486" ],
-    [ "AddSC_instance_the_botanica", "dc/dd9/a04247.html#a42bac8d93a9aac296390fec4cb6b94cb", null ]
+    [ "VMAP::IntersectionCallBack< TValue >", "db/df6/a05082.html", "db/df6/a05082" ],
+    [ "VMAP::MyCollisionDetection", "d2/d69/a05086.html", "d2/d69/a05086" ],
+    [ "IR", "dc/dd9/a04247.html#aa54c7fcd0c551f1db5fc34a2f6b11e74", null ]
 ];

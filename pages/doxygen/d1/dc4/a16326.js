@@ -1,9 +1,6 @@
 var a16326 =
 [
-    [ "npc_concentrated_ballAI", "d1/dc4/a16326.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
-    [ "DoAction", "d1/dc4/a16326.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
-    [ "MovementInform", "d1/dc4/a16326.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
-    [ "MoveToNextPoint", "d1/dc4/a16326.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
-    [ "UpdateAI", "d1/dc4/a16326.html#a6509ff14639bca29b6877db54102d004", null ],
-    [ "despawning", "d1/dc4/a16326.html#a24145c6c4c38b5a1853647d24871090d", null ]
+    [ "npc_toc_pet_warlockAI", "d9/d2d/a16330.html", "d9/d2d/a16330" ],
+    [ "npc_toc_pet_warlock", "d1/dc4/a16326.html#a4703f506d677d7e490c6813c6d9b060b", null ],
+    [ "GetAI", "d1/dc4/a16326.html#aebcaff82726508a14028cb22a1ef944b", null ]
 ];

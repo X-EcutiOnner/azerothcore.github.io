@@ -1,6 +1,6 @@
 var a25606 =
 [
-    [ "CalculateDamage", "d5/d24/a25606.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
-    [ "PrepareSpellScript", "d5/d24/a25606.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
-    [ "Register", "d5/d24/a25606.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
+    [ "CheckSinkholes", "d5/d24/a25606.html#a5c363144cde9e809d97730f54873fe85", null ],
+    [ "PrepareSpellScript", "d5/d24/a25606.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
+    [ "Register", "d5/d24/a25606.html#a6694fbf58b776b74df0a54cd96141688", null ]
 ];

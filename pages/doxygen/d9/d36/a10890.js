@@ -1,12 +1,12 @@
 var a10890 =
 [
-    [ "SpellDestination", "d9/d36/a10890.html#aa91f31101de3139b2e2d2976dac94686", null ],
-    [ "SpellDestination", "d9/d36/a10890.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
-    [ "SpellDestination", "d9/d36/a10890.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
-    [ "SpellDestination", "d9/d36/a10890.html#a7b8949fa80249aee8bebc56620ec746c", null ],
-    [ "Relocate", "d9/d36/a10890.html#ab565861d5013130639013e3c4d22d712", null ],
-    [ "RelocateOffset", "d9/d36/a10890.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
-    [ "_position", "d9/d36/a10890.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
-    [ "_transportGUID", "d9/d36/a10890.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
-    [ "_transportOffset", "d9/d36/a10890.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
+    [ "PacketLog", "d9/d36/a10890.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
+    [ "~PacketLog", "d9/d36/a10890.html#a595a42f9aaa94d6c46d185955df801e0", null ],
+    [ "CanLogPacket", "d9/d36/a10890.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
+    [ "Initialize", "d9/d36/a10890.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
+    [ "instance", "d9/d36/a10890.html#a484418a51ca0bf150d17b23d97979bf4", null ],
+    [ "LogPacket", "d9/d36/a10890.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
+    [ "_file", "d9/d36/a10890.html#a03346a709f7586f6445e03b9a3b6af04", null ],
+    [ "_initializeFlag", "d9/d36/a10890.html#a490cafe009f7b2ecb303a76c781f8960", null ],
+    [ "_logPacketLock", "d9/d36/a10890.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
 ];

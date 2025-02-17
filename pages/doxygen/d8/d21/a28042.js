@@ -1,7 +1,17 @@
 var a28042 =
 [
-    [ "ID", "d8/d21/a28042.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "d8/d21/a28042.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "d8/d21/a28042.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "d8/d21/a28042.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "Entry", "d8/d21/a28042.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
+    [ "Difficulty", "d8/d21/a28042.html#aa85e97ced86b0d27c753ca924eba074b", null ],
+    [ "ExpansionLevel", "d8/d21/a28042.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
+    [ "Flags", "d8/d21/a28042.html#a9481c296a064ec400b0f050097903557", null ],
+    [ "GroupID", "d8/d21/a28042.html#a7a6c2971a61b171d00c885ce452601ce", null ],
+    [ "ID", "d8/d21/a28042.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
+    [ "MapID", "d8/d21/a28042.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
+    [ "MaxLevel", "d8/d21/a28042.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
+    [ "MinLevel", "d8/d21/a28042.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
+    [ "Name", "d8/d21/a28042.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
+    [ "TargetLevel", "d8/d21/a28042.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
+    [ "TargetLevelMax", "d8/d21/a28042.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
+    [ "TargetLevelMin", "d8/d21/a28042.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
+    [ "TypeID", "d8/d21/a28042.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
 ];

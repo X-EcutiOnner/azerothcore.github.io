@@ -1,7 +1,6 @@
 var a16174 =
 [
-    [ "npc_toc_dkAI", "d8/deb/a16174.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
-    [ "myCanCast", "d8/deb/a16174.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
-    [ "UpdateAI", "d8/deb/a16174.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
-    [ "events", "d8/deb/a16174.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
+    [ "npc_frost_sphereAI", "d7/da2/a16178.html", "d7/da2/a16178" ],
+    [ "npc_frost_sphere", "d8/deb/a16174.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "d8/deb/a16174.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

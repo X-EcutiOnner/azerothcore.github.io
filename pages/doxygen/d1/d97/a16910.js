@@ -1,7 +1,6 @@
 var a16910 =
 [
-    [ "HandleApplyAura", "d1/d97/a16910.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
-    [ "PrepareSpellScript", "d1/d97/a16910.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
-    [ "Register", "d1/d97/a16910.html#a80638966202cb9e27d204ea621e379ef", null ],
-    [ "Validate", "d1/d97/a16910.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
+    [ "npc_pos_collapsing_icicleAI", "d7/dc0/a16914.html", "d7/dc0/a16914" ],
+    [ "npc_pos_collapsing_icicle", "d1/d97/a16910.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "d1/d97/a16910.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

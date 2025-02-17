@@ -1,9 +1,6 @@
 var a07250 =
 [
-    [ "BattlegroundEYScore", "df/d87/a07250.html#a91c17f1ff1924439b05840cd11ede36f", null ],
-    [ "BuildObjectivesBlock", "df/d87/a07250.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
-    [ "GetAttr1", "df/d87/a07250.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
-    [ "UpdateScore", "df/d87/a07250.html#afad034f453c54587b86532a37335ab18", null ],
-    [ "BattlegroundEY", "df/d87/a07250.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
-    [ "FlagCaptures", "df/d87/a07250.html#a057a335c7491c1031666e6d10cf314b2", null ]
+    [ "_Battlegrounds", "df/d87/a07250.html#aa48f3a9d4a51e357055a0bc60ca41d7c", null ],
+    [ "_ClientBattlegroundIds", "df/d87/a07250.html#a0526fab23b40ac1b33ce18243ad41132", null ],
+    [ "BGFreeSlotQueue", "df/d87/a07250.html#a49fd7eb3a472894f233d309d35d509be", null ]
 ];

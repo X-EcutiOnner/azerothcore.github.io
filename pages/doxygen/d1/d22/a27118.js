@@ -1,5 +1,5 @@
 var a27118 =
 [
-    [ "item_disgusting_jar", "d1/d22/a27118.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
-    [ "OnExpire", "d1/d22/a27118.html#a4f6967035a4d247914a6034fcebac5c5", null ]
+    [ "go_tablet_of_the_seven", "d1/d22/a27118.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "d1/d22/a27118.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

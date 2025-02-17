@@ -1,8 +1,7 @@
 var a24134 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "de/d76/a24134.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "de/d76/a24134.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "de/d76/a24134.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "de/d76/a24134.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "de/d76/a24134.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "HandleSendEvent", "de/d76/a24134.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
+    [ "PrepareSpellScript", "de/d76/a24134.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
+    [ "Register", "de/d76/a24134.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
+    [ "Validate", "de/d76/a24134.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
 ];

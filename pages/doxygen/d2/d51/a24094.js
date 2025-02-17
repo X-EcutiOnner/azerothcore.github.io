@@ -1,5 +1,6 @@
 var a24094 =
 [
-    [ "npc_pet_dk_dancing_rune_weaponAI", "d2/d51/a24094.html#a6d57990a8ff05cc74356b0ed4d7d39b6", null ],
-    [ "InitializeAI", "d2/d51/a24094.html#a620ebac7c7cd5f81af47ea2e35de128c", null ]
+    [ "npc_shattrathflaskvendors", "d2/d51/a24094.html#ab74b234406c2022bf519242a7842458a", null ],
+    [ "OnGossipHello", "d2/d51/a24094.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
+    [ "OnGossipSelect", "d2/d51/a24094.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
 ];

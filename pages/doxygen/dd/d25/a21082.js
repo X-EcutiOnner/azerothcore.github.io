@@ -1,6 +1,12 @@
 var a21082 =
 [
-    [ "npc_vh_void_sentryAI", "d1/dc7/a21086.html", "d1/dc7/a21086" ],
-    [ "npc_vh_void_sentry", "dd/d25/a21082.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
-    [ "GetAI", "dd/d25/a21082.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
+    [ "boss_koralonAI", "dd/d25/a21082.html#a3f5bc42a141011e543d1215eac09dc74", null ],
+    [ "AttackStart", "dd/d25/a21082.html#aa84e6e9a302172e134163cd07ca57864", null ],
+    [ "JustDied", "dd/d25/a21082.html#a102c10792d9e7df61d920b5a43f58e51", null ],
+    [ "JustEngagedWith", "dd/d25/a21082.html#aa7503618dd09e0aebac44394595f4715", null ],
+    [ "Reset", "dd/d25/a21082.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
+    [ "UpdateAI", "dd/d25/a21082.html#aa944aad2eb68adc917cba743d1e530c7", null ],
+    [ "events", "dd/d25/a21082.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
+    [ "pInstance", "dd/d25/a21082.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
+    [ "rotateTimer", "dd/d25/a21082.html#ad4b766094f28e940b0b7971d6dadc277", null ]
 ];

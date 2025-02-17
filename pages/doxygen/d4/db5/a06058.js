@@ -1,10 +1,11 @@
 var a06058 =
 [
-    [ "FarthestTargetSelector", "d4/db5/a06058.html#a5a6d387d905d275436dd9c3eecc138c0", null ],
-    [ "operator()", "d4/db5/a06058.html#a58e92f40745a4d43ae1a8b8664e4c786", null ],
-    [ "_inLos", "d4/db5/a06058.html#abbb788a7e01deeea70affecf3bf8d83d", null ],
-    [ "_maxDist", "d4/db5/a06058.html#a5dc107de2b6a710a68b2a1e99acb734d", null ],
-    [ "_me", "d4/db5/a06058.html#a3d2e66e08659d8fecba34fc3175a4ed0", null ],
-    [ "_minDist", "d4/db5/a06058.html#ad09cd6e99a1ab46d0dc2d7b43416b40c", null ],
-    [ "_playerOnly", "d4/db5/a06058.html#a9f4cadccae7804019542743fdc65fddf", null ]
+    [ "PossessedAI", "d4/db5/a06058.html#a29bfe06f4f6f0398e3a0a385b179cdbe", null ],
+    [ "AttackStart", "d4/db5/a06058.html#a293a49d5cffd58dff103b0aacc558cde", null ],
+    [ "EnterEvadeMode", "d4/db5/a06058.html#ad99b9c297289b819157be56d8049320e", null ],
+    [ "JustDied", "d4/db5/a06058.html#aae94a4a6d6e67d05d18573845ecebfd7", null ],
+    [ "KilledUnit", "d4/db5/a06058.html#a8e6d316c08dd6fba53c8ed2edab9ea34", null ],
+    [ "MoveInLineOfSight", "d4/db5/a06058.html#a7d81135d9c23cb9b9ec48b441dd050e2", null ],
+    [ "Permissible", "d4/db5/a06058.html#aafc2d20dff60c6e5401eaa579844430d", null ],
+    [ "UpdateAI", "d4/db5/a06058.html#a3ce62a71e3f963f0b660bc987bf85051", null ]
 ];

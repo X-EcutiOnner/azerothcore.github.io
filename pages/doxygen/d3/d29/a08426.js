@@ -1,9 +1,6 @@
 var a08426 =
 [
-    [ "areaFlag", "d3/d29/a08426.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
-    [ "areaID", "d3/d29/a08426.html#a455a890a1d82d31873873ac497cb83b7", null ],
-    [ "x1", "d3/d29/a08426.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
-    [ "x2", "d3/d29/a08426.html#aebdb021c0b9c40d624d5115b24616a12", null ],
-    [ "y1", "d3/d29/a08426.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
-    [ "y2", "d3/d29/a08426.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
+    [ "active", "d3/d29/a08426.html#a9460571d6fc219ab8c475aab34fc9494", null ],
+    [ "state", "d3/d29/a08426.html#a0600418cb460fdaf8093bfa609e796c8", null ],
+    [ "type", "d3/d29/a08426.html#a4c4a7d0f299ae4e2ceb146a741057032", null ]
 ];

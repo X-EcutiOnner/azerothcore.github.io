@@ -1,25 +1,9 @@
 var a08330 =
 [
-    [ "ClientUpdateMaskType", "db/d14/a08330.html#a7638c508cfb0f5480eec2f9d650b0eb4", null ],
-    [ "UpdateMaskCount", "db/d14/a08330.html#a667c2f210ee4a2417a2a3ba486d1332f", [
-      [ "CLIENT_UPDATE_MASK_BITS", "db/d14/a08330.html#a667c2f210ee4a2417a2a3ba486d1332fac06e5fd027ae17cd4eaf7faa2580098b", null ]
-    ] ],
-    [ "UpdateMask", "db/d14/a08330.html#a72e9de07108361222addde025ea8362f", null ],
-    [ "UpdateMask", "db/d14/a08330.html#ae0cefda1282f8c29a6557e1c25e007de", null ],
-    [ "~UpdateMask", "db/d14/a08330.html#a986a2b81e0b4f86486ccc455ff6ad79a", null ],
-    [ "AppendToPacket", "db/d14/a08330.html#afe89109ca16f687072062408e311f793", null ],
-    [ "Clear", "db/d14/a08330.html#a39cffd3822966011d83d7241ee3c5548", null ],
-    [ "GetBit", "db/d14/a08330.html#a69f7c72de49699d5730f3a10d55f30e2", null ],
-    [ "GetBlockCount", "db/d14/a08330.html#a5c0d2086346e4522e422add9622e1117", null ],
-    [ "GetCount", "db/d14/a08330.html#a1f6e2b930533b303c173166bf3588613", null ],
-    [ "operator&=", "db/d14/a08330.html#af15db8c732b94437fd1323a911eab5ce", null ],
-    [ "operator=", "db/d14/a08330.html#a3c94144194d52a00888b8bb0760e2d5a", null ],
-    [ "operator|", "db/d14/a08330.html#a487d62a6a039803da615d265a176f138", null ],
-    [ "operator|=", "db/d14/a08330.html#a81b64e6574c61533b07491920eddf413", null ],
-    [ "SetBit", "db/d14/a08330.html#af3390cfa31c39629968a871be2c763fc", null ],
-    [ "SetCount", "db/d14/a08330.html#ad6ec4d5a2b6a85a2ec72b559efbdeb35", null ],
-    [ "UnsetBit", "db/d14/a08330.html#aaac0596975c08d04736996c608eff29f", null ],
-    [ "_bits", "db/d14/a08330.html#ab34e66bf840ac230da0cfa35ef332145", null ],
-    [ "_blockCount", "db/d14/a08330.html#ad58cc5d2dbf8854f36ef4a19f5b6f51b", null ],
-    [ "_fieldCount", "db/d14/a08330.html#a6c7ed53833620c2754b1e0db85a96ece", null ]
+    [ "Reset", "db/d14/a08330.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
+    [ "guid", "db/d14/a08330.html#ac115013e34f67bc1444fef4fc96c843e", null ],
+    [ "pos", "db/d14/a08330.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
+    [ "seat", "db/d14/a08330.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
+    [ "time", "db/d14/a08330.html#acec3991f0d19fd9f72e9837eef516057", null ],
+    [ "time2", "db/d14/a08330.html#a426c651d2f359847b033a4d7f278a191", null ]
 ];

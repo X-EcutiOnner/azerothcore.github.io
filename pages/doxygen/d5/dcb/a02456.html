@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/shared/Packets/ByteBuffer.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/AI/ScriptedAI/ScriptedEscortAI.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,103 +105,52 @@ $(document).ready(function(){initNavTree('d5/dcb/a02456.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">ByteBuffer.h File Reference</div></div>
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">ScriptedEscortAI.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ByteConverter.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &lt;array&gt;</code><br />
-<code>#include &lt;cstring&gt;</code><br />
-<code>#include &lt;string&gt;</code><br />
-<code>#include &lt;vector&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptedEscortAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Group.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d63/a28162.html">ByteBufferException</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d24/a28166.html">ByteBufferPositionException</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d4e/a28170.html">ByteBufferSourceException</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dbc/a28174.html">ByteBufferInvalidValueException</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/df4/a28178.html">ByteBuffer</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a31d035bbbf2d8edc4942e9f676b32878"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:a31d035bbbf2d8edc4942e9f676b32878"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/dcb/a02456.html#a31d035bbbf2d8edc4942e9f676b32878">ByteBuffer::read&lt; std::string &gt;</a> ()</td></tr>
-<tr class="separator:a31d035bbbf2d8edc4942e9f676b32878"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3550abfaebcca85d45dd39281be0101d"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:a3550abfaebcca85d45dd39281be0101d"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/dcb/a02456.html#a3550abfaebcca85d45dd39281be0101d">ByteBuffer::read_skip&lt; std::string &gt;</a> ()</td></tr>
-<tr class="separator:a3550abfaebcca85d45dd39281be0101d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a2604bd06487e34b78d3e50cd892f3c4d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4d">ePoints</a> { <br />
+&#160;&#160;<a class="el" href="../../d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb">POINT_LAST_POINT</a> = 0xFFFFFF
+, <br />
+&#160;&#160;<a class="el" href="../../d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162">POINT_HOME</a> = 0xFFFFFE
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d5c/a02459.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4">POINT_COMBAT_START</a> = 0xFFFFFF
+<br />
+ }</td></tr>
+<tr class="separator:a2604bd06487e34b78d3e50cd892f3c4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a31d035bbbf2d8edc4942e9f676b32878" name="a31d035bbbf2d8edc4942e9f676b32878"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a31d035bbbf2d8edc4942e9f676b32878">&#9670;&#160;</a></span>ByteBuffer::read&lt; std::string &gt;()</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a2604bd06487e34b78d3e50cd892f3c4d" name="a2604bd06487e34b78d3e50cd892f3c4d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2604bd06487e34b78d3e50cd892f3c4d">&#9670;&#160;</a></span>ePoints</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string <a class="el" href="../../d4/df4/a28178.html#afab3484e1af821859f16b7bdacf2af9c">ByteBuffer::read</a>&lt; std::string &gt; </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">enum <a class="el" href="../../d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4d">ePoints</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../d3/d49/a04682.html#_todo000260">Todo:</a></b></dt><dd>Make a <a class="el" href="../../d3/d27/a02453.html">ByteBuffer.cpp</a> and move all this inlining to it. </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  538</span>{</div>
-<div class="line"><span class="lineno">  539</span>    std::string tmp;</div>
-<div class="line"><span class="lineno">  540</span>    *<span class="keyword">this</span> &gt;&gt; tmp;</div>
-<div class="line"><span class="lineno">  541</span>    <span class="keywordflow">return</span> tmp;</div>
-<div class="line"><span class="lineno">  542</span>}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a3550abfaebcca85d45dd39281be0101d" name="a3550abfaebcca85d45dd39281be0101d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3550abfaebcca85d45dd39281be0101d">&#9670;&#160;</a></span>ByteBuffer::read_skip&lt; std::string &gt;()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../d4/df4/a28178.html#a13c94e2d389aa4c7427d1ba0c79fc955">ByteBuffer::read_skip</a>&lt; std::string &gt; </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb" name="a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb"></a>POINT_LAST_POINT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162" name="a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162"></a>POINT_HOME&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4" name="a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4"></a>POINT_COMBAT_START&#160;</td><td class="fielddoc"></td></tr>
 </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  559</span>{</div>
-<div class="line"><span class="lineno">  560</span>    read_skip&lt;char*&gt;();</div>
-<div class="line"><span class="lineno">  561</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb">POINT_LAST_POINT</a>    = 0xFFFFFF,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162">POINT_HOME</a>          = 0xFFFFFE</div>
+<div class="line"><span class="lineno">   34</span>};</div>
+<div class="ttc" id="aa02456_html_a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162"><div class="ttname"><a href="../../d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162">POINT_HOME</a></div><div class="ttdeci">@ POINT_HOME</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.cpp:33</div></div>
+<div class="ttc" id="aa02456_html_a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb"><div class="ttname"><a href="../../d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb">POINT_LAST_POINT</a></div><div class="ttdeci">@ POINT_LAST_POINT</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.cpp:32</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -210,8 +159,8 @@ template&lt;&gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_777a9b9a3e1a361a798e834f8fa9f1dc.html">shared</a></li><li class="navelem"><a class="el" href="../../dir_4642c4e7e8a34de1a75cadff13450cb9.html">Packets</a></li><li class="navelem"><a class="el" href="../../d5/dcb/a02456.html">ByteBuffer.h</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:43:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_5e5741f7891ede41bef7ecc492194021.html">AI</a></li><li class="navelem"><a class="el" href="../../dir_1f3214457037742cde290c7511bc5bd6.html">ScriptedAI</a></li><li class="navelem"><a class="el" href="../../d5/dcb/a02456.html">ScriptedEscortAI.cpp</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:41:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

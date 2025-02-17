@@ -1,10 +1,25 @@
 var a08418 =
 [
-    [ "PvPInfo", "d3/d58/a08418.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
-    [ "EndTimer", "d3/d58/a08418.html#ae06b5030552c02f30fe8386633a753df", null ],
-    [ "FFAPvPEndTimer", "d3/d58/a08418.html#a739dfc63dfe39429a44ea682d9120522", null ],
-    [ "IsHostile", "d3/d58/a08418.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
-    [ "IsInFFAPvPArea", "d3/d58/a08418.html#a8a654926248b3974587af1eb9c064d15", null ],
-    [ "IsInHostileArea", "d3/d58/a08418.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
-    [ "IsInNoPvPArea", "d3/d58/a08418.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
+    [ "ClientUpdateMaskType", "d3/d58/a08418.html#a7638c508cfb0f5480eec2f9d650b0eb4", null ],
+    [ "UpdateMaskCount", "d3/d58/a08418.html#a667c2f210ee4a2417a2a3ba486d1332f", [
+      [ "CLIENT_UPDATE_MASK_BITS", "d3/d58/a08418.html#a667c2f210ee4a2417a2a3ba486d1332fac06e5fd027ae17cd4eaf7faa2580098b", null ]
+    ] ],
+    [ "UpdateMask", "d3/d58/a08418.html#a72e9de07108361222addde025ea8362f", null ],
+    [ "UpdateMask", "d3/d58/a08418.html#ae0cefda1282f8c29a6557e1c25e007de", null ],
+    [ "~UpdateMask", "d3/d58/a08418.html#a986a2b81e0b4f86486ccc455ff6ad79a", null ],
+    [ "AppendToPacket", "d3/d58/a08418.html#afe89109ca16f687072062408e311f793", null ],
+    [ "Clear", "d3/d58/a08418.html#a39cffd3822966011d83d7241ee3c5548", null ],
+    [ "GetBit", "d3/d58/a08418.html#a69f7c72de49699d5730f3a10d55f30e2", null ],
+    [ "GetBlockCount", "d3/d58/a08418.html#a5c0d2086346e4522e422add9622e1117", null ],
+    [ "GetCount", "d3/d58/a08418.html#a1f6e2b930533b303c173166bf3588613", null ],
+    [ "operator&=", "d3/d58/a08418.html#af15db8c732b94437fd1323a911eab5ce", null ],
+    [ "operator=", "d3/d58/a08418.html#a3c94144194d52a00888b8bb0760e2d5a", null ],
+    [ "operator|", "d3/d58/a08418.html#a487d62a6a039803da615d265a176f138", null ],
+    [ "operator|=", "d3/d58/a08418.html#a81b64e6574c61533b07491920eddf413", null ],
+    [ "SetBit", "d3/d58/a08418.html#af3390cfa31c39629968a871be2c763fc", null ],
+    [ "SetCount", "d3/d58/a08418.html#ad6ec4d5a2b6a85a2ec72b559efbdeb35", null ],
+    [ "UnsetBit", "d3/d58/a08418.html#aaac0596975c08d04736996c608eff29f", null ],
+    [ "_bits", "d3/d58/a08418.html#ab34e66bf840ac230da0cfa35ef332145", null ],
+    [ "_blockCount", "d3/d58/a08418.html#ad58cc5d2dbf8854f36ef4a19f5b6f51b", null ],
+    [ "_fieldCount", "d3/d58/a08418.html#a6c7ed53833620c2754b1e0db85a96ece", null ]
 ];

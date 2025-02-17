@@ -1,13 +1,13 @@
 var a14986 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "df/d23/a14986.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
-    [ "GetData", "df/d23/a14986.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
-    [ "Initialize", "df/d23/a14986.html#a870ab2322971767fa37986743b31d20c", null ],
-    [ "OnCreatureCreate", "df/d23/a14986.html#aed3807432711105589d0b060a21836cc", null ],
-    [ "ReadSaveDataMore", "df/d23/a14986.html#ad348102f71e070e7ef12da62238c7b0f", null ],
-    [ "SetData", "df/d23/a14986.html#a0333b4728e9288937711174743f19f60", null ],
-    [ "WriteSaveDataMore", "df/d23/a14986.html#a78bece51279e3f9e62800e4d80b00f64", null ],
-    [ "_encounters", "df/d23/a14986.html#a0f049806007e59363418d4e39f9e389b", null ],
-    [ "DiscipleOfNaralexGUID", "df/d23/a14986.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
-    [ "SerpentisGUID", "df/d23/a14986.html#a7ba205e4988a20404f5e597331dd5d56", null ]
+    [ "npc_dirt_mound", "df/d23/a14986.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
+    [ "ChaseNewTarget", "df/d23/a14986.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
+    [ "EnterEvadeMode", "df/d23/a14986.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
+    [ "JustEngagedWith", "df/d23/a14986.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
+    [ "JustSummoned", "df/d23/a14986.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
+    [ "Reset", "df/d23/a14986.html#ae1662eb73f21351e07d00a717421de68", null ],
+    [ "SetData", "df/d23/a14986.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
+    [ "UpdateAI", "df/d23/a14986.html#a88447191070cf8b84df96db565eef48d", null ],
+    [ "_instance", "df/d23/a14986.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
+    [ "_ouroHealth", "df/d23/a14986.html#ac83391fa5069ae4574748f82d15e833d", null ]
 ];

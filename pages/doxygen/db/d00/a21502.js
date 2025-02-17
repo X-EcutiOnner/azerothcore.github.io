@@ -1,6 +1,13 @@
 var a21502 =
 [
-    [ "npc_q24545_lich_kingAI", "df/d52/a21506.html", "df/d52/a21506" ],
-    [ "npc_q24545_lich_king", "db/d00/a21502.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "db/d00/a21502.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "npc_shandy_dalaranAI", "db/d00/a21502.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
+    [ "Reset", "db/d00/a21502.html#a38f0630d4e18cea01de343afdcb96db3", null ],
+    [ "RollTask", "db/d00/a21502.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
+    [ "SetData", "db/d00/a21502.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
+    [ "UpdateAI", "db/d00/a21502.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
+    [ "_aquanosGUID", "db/d00/a21502.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
+    [ "_canWash", "db/d00/a21502.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
+    [ "_events", "db/d00/a21502.html#a3fbae63669c8382097b0bcb936301945", null ],
+    [ "_lCount", "db/d00/a21502.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
+    [ "_lSource", "db/d00/a21502.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
 ];

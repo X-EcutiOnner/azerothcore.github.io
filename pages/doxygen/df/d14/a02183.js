@@ -1,9 +1,10 @@
 var a02183 =
 [
-    [ "ePoints", "df/d14/a02183.html#a2604bd06487e34b78d3e50cd892f3c4d", [
-      [ "POINT_LAST_POINT", "d8/d85/a02189.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
-      [ "POINT_HOME", "d8/d85/a02189.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
-      [ "POINT_COMBAT_START", "df/d14/a02183.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
-    ] ],
-    [ "MAX_PLAYER_DISTANCE", "df/d14/a02183.html#acd0b392fc88f24b24201fba8b76d33a2", null ]
+    [ "SavedAddonsList", "df/d14/a02183.html#afa468163a23ed58507a89e5724c06eac", null ],
+    [ "GetAddonInfo", "df/d14/a02183.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "df/d14/a02183.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "df/d14/a02183.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "df/d14/a02183.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
+    [ "m_bannedAddons", "df/d14/a02183.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
+    [ "m_knownAddons", "df/d14/a02183.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
 ];

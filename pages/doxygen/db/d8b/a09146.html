@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::AnyUnitInObjectRangeCheck Class Reference</title>
+<title>AzerothCore: Acore::ContainerInserter&lt; Type &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,51 +105,162 @@ $(document).ready(function(){initNavTree('db/d8b/a09146.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pri-types">Private Types</a> &#124;
+<a href="#pri-static-methods">Static Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d2/d76/a09143.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::AnyUnitInObjectRangeCheck Class Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::ContainerInserter&lt; Type &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:ab96cd47c1a4c585e52590b94cf8ff021"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8b/a09146.html#ab96cd47c1a4c585e52590b94cf8ff021">AnyUnitInObjectRangeCheck</a> (<a class="el" href="../../dd/d7d/a08262.html">WorldObject</a> const *obj, float range)</td></tr>
-<tr class="separator:ab96cd47c1a4c585e52590b94cf8ff021"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0906cdad65a5b11dc6a8829ace8f135b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8b/a09146.html#a0906cdad65a5b11dc6a8829ace8f135b">operator()</a> (<a class="el" href="../../d4/d3a/a08610.html">Unit</a> *u)</td></tr>
-<tr class="separator:a0906cdad65a5b11dc6a8829ace8f135b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:a44cd545e2965b309c48d40f4617bc38e"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a44cd545e2965b309c48d40f4617bc38e"><td class="memTemplItemLeft" align="right" valign="top">&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d8b/a09146.html#a44cd545e2965b309c48d40f4617bc38e">ContainerInserter</a> (T &amp;ref_)</td></tr>
+<tr class="separator:a44cd545e2965b309c48d40f4617bc38e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af482d9f7940d548193fc56839bc2cb87"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8b/a09146.html#af482d9f7940d548193fc56839bc2cb87">Insert</a> (Type type)</td></tr>
+<tr class="separator:af482d9f7940d548193fc56839bc2cb87"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
+Private Types</h2></td></tr>
+<tr class="memitem:a8ea29aedfb1eaf2b3eac29bc61849319"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8b/a09146.html#a8ea29aedfb1eaf2b3eac29bc61849319">InserterType</a> = void(*)(void *, Type &amp;&amp;)</td></tr>
+<tr class="separator:a8ea29aedfb1eaf2b3eac29bc61849319"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-static-methods" name="pri-static-methods"></a>
+Static Private Member Functions</h2></td></tr>
+<tr class="memitem:a003318d4ec066ca45d79ec5b669cdb8c"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a003318d4ec066ca45d79ec5b669cdb8c"><td class="memTemplItemLeft" align="right" valign="top">static void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d8b/a09146.html#a003318d4ec066ca45d79ec5b669cdb8c">InserterOf</a> (void *<a class="el" href="../../db/d8b/a09146.html#a60d4a9120523c28d8c408c981305535e">ref</a>, Type &amp;&amp;type)</td></tr>
+<tr class="separator:a003318d4ec066ca45d79ec5b669cdb8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a834214b260576a0fe01908a163428757"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7d/a08262.html">WorldObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8b/a09146.html#a834214b260576a0fe01908a163428757">i_obj</a></td></tr>
-<tr class="separator:a834214b260576a0fe01908a163428757"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acc546656dbe9a405023ba56b028c8420"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8b/a09146.html#acc546656dbe9a405023ba56b028c8420">i_range</a></td></tr>
-<tr class="separator:acc546656dbe9a405023ba56b028c8420"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a60d4a9120523c28d8c408c981305535e"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8b/a09146.html#a60d4a9120523c28d8c408c981305535e">ref</a></td></tr>
+<tr class="separator:a60d4a9120523c28d8c408c981305535e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac10b2769f02687260efd531af666fbb3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8b/a09146.html#a8ea29aedfb1eaf2b3eac29bc61849319">InserterType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8b/a09146.html#ac10b2769f02687260efd531af666fbb3">inserter</a></td></tr>
+<tr class="separator:ac10b2769f02687260efd531af666fbb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ab96cd47c1a4c585e52590b94cf8ff021" name="ab96cd47c1a4c585e52590b94cf8ff021"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab96cd47c1a4c585e52590b94cf8ff021">&#9670;&#160;</a></span>AnyUnitInObjectRangeCheck()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;typename Type&gt;<br />
+class Acore::ContainerInserter&lt; Type &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a8ea29aedfb1eaf2b3eac29bc61849319" name="a8ea29aedfb1eaf2b3eac29bc61849319"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8ea29aedfb1eaf2b3eac29bc61849319">&#9670;&#160;</a></span>InserterType</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename Type &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Acore::AnyUnitInObjectRangeCheck::AnyUnitInObjectRangeCheck </td>
+          <td class="memname">using <a class="el" href="../../db/d8b/a09146.html">Acore::ContainerInserter</a>&lt; Type &gt;::InserterType =  void(*)(void*, Type&amp;&amp;)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a44cd545e2965b309c48d40f4617bc38e" name="a44cd545e2965b309c48d40f4617bc38e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a44cd545e2965b309c48d40f4617bc38e">&#9670;&#160;</a></span>ContainerInserter()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename Type &gt; </div>
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8b/a09146.html">Acore::ContainerInserter</a>&lt; Type &gt;::ContainerInserter </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d7d/a08262.html">WorldObject</a> const *&#160;</td>
-          <td class="paramname"><em>obj</em>, </td>
+          <td class="paramtype">T &amp;&#160;</td>
+          <td class="paramname"><em>ref_</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  189</span>: <a class="code hl_variable" href="../../db/d8b/a09146.html#a60d4a9120523c28d8c408c981305535e">ref</a>(&amp;ref_), <a class="code hl_variable" href="../../db/d8b/a09146.html#ac10b2769f02687260efd531af666fbb3">inserter</a>(&amp;InserterOf&lt;T&gt;) { }</div>
+<div class="ttc" id="aa09146_html_a60d4a9120523c28d8c408c981305535e"><div class="ttname"><a href="../../db/d8b/a09146.html#a60d4a9120523c28d8c408c981305535e">Acore::ContainerInserter::ref</a></div><div class="ttdeci">void * ref</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:177</div></div>
+<div class="ttc" id="aa09146_html_ac10b2769f02687260efd531af666fbb3"><div class="ttname"><a href="../../db/d8b/a09146.html#ac10b2769f02687260efd531af666fbb3">Acore::ContainerInserter::inserter</a></div><div class="ttdeci">InserterType inserter</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:178</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="af482d9f7940d548193fc56839bc2cb87" name="af482d9f7940d548193fc56839bc2cb87"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af482d9f7940d548193fc56839bc2cb87">&#9670;&#160;</a></span>Insert()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename Type &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../db/d8b/a09146.html">Acore::ContainerInserter</a>&lt; Type &gt;::Insert </td>
+          <td>(</td>
+          <td class="paramtype">Type&#160;</td>
+          <td class="paramname"><em>type</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  192</span>        {</div>
+<div class="line"><span class="lineno">  193</span>            <a class="code hl_variable" href="../../db/d8b/a09146.html#ac10b2769f02687260efd531af666fbb3">inserter</a>(<a class="code hl_variable" href="../../db/d8b/a09146.html#a60d4a9120523c28d8c408c981305535e">ref</a>, std::move(type));</div>
+<div class="line"><span class="lineno">  194</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00178">Acore::ContainerInserter&lt; Type &gt;::inserter</a>, and <a class="el" href="../../#l00177">Acore::ContainerInserter&lt; Type &gt;::ref</a>.</p>
+
+</div>
+</div>
+<a id="a003318d4ec066ca45d79ec5b669cdb8c" name="a003318d4ec066ca45d79ec5b669cdb8c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a003318d4ec066ca45d79ec5b669cdb8c">&#9670;&#160;</a></span>InserterOf()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename Type &gt; </div>
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void <a class="el" href="../../db/d8b/a09146.html">Acore::ContainerInserter</a>&lt; Type &gt;::InserterOf </td>
+          <td>(</td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"><em>ref</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>range</em>&#160;</td>
+          <td class="paramtype">Type &amp;&amp;&#160;</td>
+          <td class="paramname"><em>type</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -159,65 +270,32 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1038</span>: <a class="code hl_variable" href="../../db/d8b/a09146.html#a834214b260576a0fe01908a163428757">i_obj</a>(obj), <a class="code hl_variable" href="../../db/d8b/a09146.html#acc546656dbe9a405023ba56b028c8420">i_range</a>(range) {}</div>
-<div class="ttc" id="aa09146_html_a834214b260576a0fe01908a163428757"><div class="ttname"><a href="../../db/d8b/a09146.html#a834214b260576a0fe01908a163428757">Acore::AnyUnitInObjectRangeCheck::i_obj</a></div><div class="ttdeci">WorldObject const  * i_obj</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1047</div></div>
-<div class="ttc" id="aa09146_html_acc546656dbe9a405023ba56b028c8420"><div class="ttname"><a href="../../db/d8b/a09146.html#acc546656dbe9a405023ba56b028c8420">Acore::AnyUnitInObjectRangeCheck::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1048</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  183</span>        {</div>
+<div class="line"><span class="lineno">  184</span>            <span class="keyword">static_cast&lt;</span>T*<span class="keyword">&gt;</span>(<a class="code hl_variable" href="../../db/d8b/a09146.html#a60d4a9120523c28d8c408c981305535e">ref</a>)-&gt;push_back(std::move(type));</div>
+<div class="line"><span class="lineno">  185</span>        }</div>
 </div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a0906cdad65a5b11dc6a8829ace8f135b" name="a0906cdad65a5b11dc6a8829ace8f135b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0906cdad65a5b11dc6a8829ace8f135b">&#9670;&#160;</a></span>operator()()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool Acore::AnyUnitInObjectRangeCheck::operator() </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d3a/a08610.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>u</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1040</span>        {</div>
-<div class="line"><span class="lineno"> 1041</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../d4/d3a/a08610.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; <a class="code hl_variable" href="../../db/d8b/a09146.html#a834214b260576a0fe01908a163428757">i_obj</a>-&gt;<a class="code hl_function" href="../../dd/d7d/a08262.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../db/d8b/a09146.html#acc546656dbe9a405023ba56b028c8420">i_range</a>))</div>
-<div class="line"><span class="lineno"> 1042</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1043</span> </div>
-<div class="line"><span class="lineno"> 1044</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1045</span>        }</div>
-<div class="ttc" id="aa08262_html_ab73407bcdf13a30519a953d24773ed02"><div class="ttname"><a href="../../dd/d7d/a08262.html#ab73407bcdf13a30519a953d24773ed02">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1332</div></div>
-<div class="ttc" id="aa08610_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d4/d3a/a08610.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1707</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01047">i_obj</a>, <a class="el" href="../../#l01048">i_range</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, and <a class="el" href="../../#l01332">WorldObject::IsWithinDistInMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00177">Acore::ContainerInserter&lt; Type &gt;::ref</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a834214b260576a0fe01908a163428757" name="a834214b260576a0fe01908a163428757"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a834214b260576a0fe01908a163428757">&#9670;&#160;</a></span>i_obj</h2>
+<a id="ac10b2769f02687260efd531af666fbb3" name="ac10b2769f02687260efd531af666fbb3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac10b2769f02687260efd531af666fbb3">&#9670;&#160;</a></span>inserter</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename Type &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/d7d/a08262.html">WorldObject</a> const* Acore::AnyUnitInObjectRangeCheck::i_obj</td>
+          <td class="memname"><a class="el" href="../../db/d8b/a09146.html#a8ea29aedfb1eaf2b3eac29bc61849319">InserterType</a> <a class="el" href="../../db/d8b/a09146.html">Acore::ContainerInserter</a>&lt; Type &gt;::inserter</td>
         </tr>
       </table>
   </td>
@@ -227,21 +305,23 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01039">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00191">Acore::ContainerInserter&lt; Type &gt;::Insert()</a>.</p>
 
 </div>
 </div>
-<a id="acc546656dbe9a405023ba56b028c8420" name="acc546656dbe9a405023ba56b028c8420"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acc546656dbe9a405023ba56b028c8420">&#9670;&#160;</a></span>i_range</h2>
+<a id="a60d4a9120523c28d8c408c981305535e" name="a60d4a9120523c28d8c408c981305535e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a60d4a9120523c28d8c408c981305535e">&#9670;&#160;</a></span>ref</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename Type &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float Acore::AnyUnitInObjectRangeCheck::i_range</td>
+          <td class="memname">void* <a class="el" href="../../db/d8b/a09146.html">Acore::ContainerInserter</a>&lt; Type &gt;::ref</td>
         </tr>
       </table>
   </td>
@@ -251,7 +331,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01039">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00191">Acore::ContainerInserter&lt; Type &gt;::Insert()</a>, and <a class="el" href="../../#l00182">Acore::ContainerInserter&lt; Type &gt;::InserterOf()</a>.</p>
 
 </div>
 </div>
@@ -260,8 +340,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/dcf/a04692.html">Acore</a></li><li class="navelem"><a class="el" href="../../db/d8b/a09146.html">AnyUnitInObjectRangeCheck</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:45:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/dda/a04740.html">Acore</a></li><li class="navelem"><a class="el" href="../../db/d8b/a09146.html">ContainerInserter</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:43:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

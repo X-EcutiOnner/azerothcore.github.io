@@ -1,10 +1,7 @@
 var a25862 =
 [
-    [ "CheckCast", "d9/d89/a25862.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
-    [ "HandleScript", "d9/d89/a25862.html#a35b9d69b8147ef06527b8533ef376e72", null ],
-    [ "Load", "d9/d89/a25862.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
-    [ "PrepareSpellScript", "d9/d89/a25862.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
-    [ "Register", "d9/d89/a25862.html#afd716f555ac73287bd268c6124b15b1c", null ],
-    [ "Validate", "d9/d89/a25862.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
-    [ "_manaAmount", "d9/d89/a25862.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
+    [ "AfterRemove", "d9/d89/a25862.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
+    [ "PrepareAuraScript", "d9/d89/a25862.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
+    [ "Register", "d9/d89/a25862.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
+    [ "Validate", "d9/d89/a25862.html#ae08f33e0271166afa87208faa30684c4", null ]
 ];

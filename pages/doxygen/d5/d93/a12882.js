@@ -1,7 +1,6 @@
 var a12882 =
 [
-    [ "npc_apothecary_genericAI", "d5/d93/a12882.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "d5/d93/a12882.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "d5/d93/a12882.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "d5/d93/a12882.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "npc_high_inquisitor_valrothAI", "dc/dc1/a12886.html", "dc/dc1/a12886" ],
+    [ "npc_high_inquisitor_valroth", "d5/d93/a12882.html#a6e244a411249667a84f0d34ca1b1f17b", null ],
+    [ "GetAI", "d5/d93/a12882.html#a6374b80425da8bc41d9d076e6e7d7bef", null ]
 ];

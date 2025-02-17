@@ -1,6 +1,7 @@
 var a09422 =
 [
-    [ "bossId", "d6/d42/a09422.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
-    [ "entry", "d6/d42/a09422.html#a1a199d022692efe54e29a7cb90e73dee", null ],
-    [ "type", "d6/d42/a09422.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
+    [ "PowerCheck", "d6/d42/a09422.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
+    [ "operator()", "d6/d42/a09422.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
+    [ "_equals", "d6/d42/a09422.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
+    [ "_power", "d6/d42/a09422.html#a922a57b62b4289835b539a69b0f58fa1", null ]
 ];

@@ -1,6 +1,7 @@
 var a18522 =
 [
-    [ "npc_icc_severed_essenceAI", "d0/d5e/a18526.html", "d0/d5e/a18526" ],
-    [ "npc_icc_severed_essence", "d1/d10/a18522.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
-    [ "GetAI", "d1/d10/a18522.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
+    [ "OnApply", "d1/d10/a18522.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
+    [ "OnRemove", "d1/d10/a18522.html#a697a7c76f944b5df956a9de07746b7a9", null ],
+    [ "PrepareAuraScript", "d1/d10/a18522.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
+    [ "Register", "d1/d10/a18522.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
 ];

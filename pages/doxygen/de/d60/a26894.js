@@ -1,5 +1,5 @@
 var a26894 =
 [
-    [ "go_mistwhisper_treasure", "de/d60/a26894.html#a87c90caa9f6a628cb0eea3556b58449e", null ],
-    [ "OnGossipHello", "de/d60/a26894.html#a03b6b19faba005ced7ff921fdf8ab493", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "de/d60/a26894.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "de/d60/a26894.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

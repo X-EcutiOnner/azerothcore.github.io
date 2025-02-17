@@ -1,6 +1,7 @@
 var a18178 =
 [
-    [ "npc_the_lich_king_controllerAI", "dc/def/a18182.html", "dc/def/a18182" ],
-    [ "npc_the_lich_king_controller", "df/d3d/a18178.html#a32b14d699737497ba7c90d8ef17557d7", null ],
-    [ "GetAI", "df/d3d/a18178.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
+    [ "CheckTargetCount", "df/d3d/a18178.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "df/d3d/a18178.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "df/d3d/a18178.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "df/d3d/a18178.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

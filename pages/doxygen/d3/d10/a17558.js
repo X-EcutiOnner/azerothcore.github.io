@@ -1,6 +1,6 @@
 var a17558 =
 [
-    [ "npc_volatile_oozeAI", "d6/dc8/a17562.html", "d6/dc8/a17562" ],
-    [ "npc_volatile_ooze", "d3/d10/a17558.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "d3/d10/a17558.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "DaranavanMoveEvent", "d3/d10/a17558.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
+    [ "Execute", "d3/d10/a17558.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
+    [ "_darnavan", "d3/d10/a17558.html#a7585edb957755efbc6064f232d50ea4e", null ]
 ];

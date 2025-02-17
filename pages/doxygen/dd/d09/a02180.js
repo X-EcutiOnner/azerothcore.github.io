@@ -1,16 +1,12 @@
 var a02180 =
 [
-    [ "SmartAI", "d6/d30/a06150.html", "d6/d30/a06150" ],
-    [ "SmartGameObjectAI", "de/d33/a06154.html", "de/d33/a06154" ],
-    [ "SmartEscortState", "dd/d09/a02180.html#a0911043eb49fd7958a828a60e0537d54", [
-      [ "SMART_ESCORT_NONE", "dd/d09/a02180.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],
-      [ "SMART_ESCORT_ESCORTING", "dd/d09/a02180.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19", null ],
-      [ "SMART_ESCORT_RETURNING", "dd/d09/a02180.html#a0911043eb49fd7958a828a60e0537d54a404e4c2ac36fc3f87779560b58af7fe8", null ],
-      [ "SMART_ESCORT_PAUSED", "dd/d09/a02180.html#a0911043eb49fd7958a828a60e0537d54a35650bf0f6f9a142acfb5b6e5cd194f7", null ]
-    ] ],
-    [ "SmartEscortVars", "dd/d09/a02180.html#a598eb331d977fa893d589fe3e6cebfbf", [
-      [ "SMART_ESCORT_MAX_PLAYER_DIST", "dd/d09/a02180.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba", null ],
-      [ "SMART_MAX_AID_DIST", "dd/d09/a02180.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f", null ]
-    ] ],
-    [ "AddSC_SmartScripts", "dd/d09/a02180.html#ab6012619ba76775b314475ec60f8c7d7", null ]
+    [ "AddonInfo", "dc/dd4/a06006.html", "dc/dd4/a06006" ],
+    [ "SavedAddon", "d3/d56/a06010.html", "d3/d56/a06010" ],
+    [ "BannedAddon", "d0/d6a/a06014.html", "d0/d6a/a06014" ],
+    [ "STANDARD_ADDON_CRC", "dd/d09/a02180.html#a084249e215f787f3163d5d06ad2d256f", null ],
+    [ "BannedAddonList", "dd/d09/a02180.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
+    [ "GetAddonInfo", "dd/d09/a02180.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "dd/d09/a02180.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "dd/d09/a02180.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "dd/d09/a02180.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
 ];

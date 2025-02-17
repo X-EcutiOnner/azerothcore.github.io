@@ -1,7 +1,9 @@
 var a05406 =
 [
-    [ "~SignalHandler", "d5/d43/a05406.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
-    [ "handle_signal", "d5/d43/a05406.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
-    [ "_handled", "d5/d43/a05406.html#a21b208a696ed4a320a7cf312006a787f", null ],
-    [ "_mutex", "d5/d43/a05406.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
+    [ "Base", "d3/d53/a05410.html", "d3/d53/a05410" ],
+    [ "Erase", "d5/d43/a05406.html#a2c7b450c8781824135765e5d82b0272e", null ],
+    [ "Get", "d5/d43/a05406.html#aa8f56bb08a6245792a75305ba2fcce82", null ],
+    [ "GetDefault", "d5/d43/a05406.html#ad53ddbe486c994277adbb96e1c644112", null ],
+    [ "Set", "d5/d43/a05406.html#a93bf2535b14236df9703e485ef816b36", null ],
+    [ "Container", "d5/d43/a05406.html#a3a559027ba0a64e4af2f02218ce1c910", null ]
 ];

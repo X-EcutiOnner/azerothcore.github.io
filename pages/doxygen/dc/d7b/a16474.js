@@ -1,6 +1,6 @@
 var a16474 =
 [
-    [ "PrepareSpellScript", "dc/d7b/a16474.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "dc/d7b/a16474.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "dc/d7b/a16474.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "npc_announcer_toc10", "dc/d7b/a16474.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "dc/d7b/a16474.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "dc/d7b/a16474.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

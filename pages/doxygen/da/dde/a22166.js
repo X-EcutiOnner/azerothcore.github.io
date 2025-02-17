@@ -1,6 +1,8 @@
 var a22166 =
 [
-    [ "npc_released_offspring_harkoaAI", "da/dde/a22166.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "da/dde/a22166.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "da/dde/a22166.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "npc_wg_spirit_guideAI", "dc/d99/a22170.html", "dc/d99/a22170" ],
+    [ "npc_wg_spirit_guide", "da/dde/a22166.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
+    [ "GetAI", "da/dde/a22166.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
+    [ "OnGossipHello", "da/dde/a22166.html#a2d46078cb47f817239685d168f7f2e35", null ],
+    [ "OnGossipSelect", "da/dde/a22166.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
 ];

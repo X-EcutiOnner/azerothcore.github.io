@@ -1,4 +1,5 @@
 var a07386 =
 [
-    [ "TryConsumeTo", "db/d6b/a07386.html#ad64b76886d0118c6997cae9ff27dfd34", null ]
+    [ "time", "db/d6b/a07386.html#a4270f34fef655cb9ff9998b36055c3ec", null ],
+    [ "winner", "db/d6b/a07386.html#a728a3e4efbae3be9224c70f2d70000cf", null ]
 ];

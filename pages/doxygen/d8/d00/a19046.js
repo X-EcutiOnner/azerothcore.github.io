@@ -1,5 +1,5 @@
 var a19046 =
 [
-    [ "achievement_split_personality", "d8/d00/a19046.html#aac29ae7c321306a663e55493987af45d", null ],
-    [ "OnCheck", "d8/d00/a19046.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
+    [ "at_naxxramas_hub_portal", "d8/d00/a19046.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "d8/d00/a19046.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

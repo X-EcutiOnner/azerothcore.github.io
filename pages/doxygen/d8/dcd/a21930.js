@@ -1,6 +1,10 @@
 var a21930 =
 [
-    [ "npc_vics_flying_machineAI", "d4/d03/a21934.html", "d4/d03/a21934" ],
-    [ "npc_vics_flying_machine", "d8/dcd/a21930.html#ac0f1e83a9f53f1e38e81804f0332e3fd", null ],
-    [ "GetAI", "d8/dcd/a21930.html#aac2a7cabd2e87705e9a1b3bfebb89eae", null ]
+    [ "npc_infra_green_bomber_genericAI", "d8/dcd/a21930.html#aed712ea3625971e059e2ecd158227287", null ],
+    [ "DamageTaken", "d8/dcd/a21930.html#a8f860368df96e430b441c8316db99c93", null ],
+    [ "GetSummoner", "d8/dcd/a21930.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
+    [ "IsSummonedBy", "d8/dcd/a21930.html#a79676717b7c6219ea74ebe5a580eab28", null ],
+    [ "SpreadFire", "d8/dcd/a21930.html#a5727c839b7dd02ea64eccce3606688d1", null ],
+    [ "UpdateAI", "d8/dcd/a21930.html#a252875777655e963965676a24c15e766", null ],
+    [ "events", "d8/dcd/a21930.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
 ];

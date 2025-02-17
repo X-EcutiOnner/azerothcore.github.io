@@ -1,6 +1,6 @@
 var a19466 =
 [
-    [ "boss_steelbreakerAI", "d3/d82/a19470.html", "d3/d82/a19470" ],
-    [ "boss_steelbreaker", "d0/da9/a19466.html#af6e4c3729874e59959b35ca67a46aa44", null ],
-    [ "GetAI", "d0/da9/a19466.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
+    [ "dark_rune_stormcallerAI", "d3/d82/a19470.html", "d3/d82/a19470" ],
+    [ "dark_rune_stormcaller", "d0/da9/a19466.html#ab31774011fc3e1e8ffa1a3b7c5cbfbcc", null ],
+    [ "GetAI", "d0/da9/a19466.html#a9072aaf482106cfae0d3901507b47f60", null ]
 ];

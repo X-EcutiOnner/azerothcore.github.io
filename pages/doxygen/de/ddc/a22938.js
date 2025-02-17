@@ -1,10 +1,12 @@
 var a22938 =
 [
-    [ "boss_morogrim_tidewalker", "de/ddc/a22938.html#a138a200da298f64697e2e47fb8004ccb", null ],
-    [ "JustDied", "de/ddc/a22938.html#a139d87e7cffe03183538eb493e063195", null ],
-    [ "JustEngagedWith", "de/ddc/a22938.html#a3244672aeb994673e1f46708699bcc2c", null ],
-    [ "JustSummoned", "de/ddc/a22938.html#a2b669007520094948138c95468b77f9f", null ],
-    [ "KilledUnit", "de/ddc/a22938.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
-    [ "Reset", "de/ddc/a22938.html#a78ed1d1f8c55407497a4fb679587975d", null ],
-    [ "_recentlySpoken", "de/ddc/a22938.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
+    [ "boss_fathomlord_karathress", "de/ddc/a22938.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "de/ddc/a22938.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "de/ddc/a22938.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "de/ddc/a22938.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "de/ddc/a22938.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "de/ddc/a22938.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "de/ddc/a22938.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "de/ddc/a22938.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
+    [ "_recentlySpoken", "de/ddc/a22938.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
 ];

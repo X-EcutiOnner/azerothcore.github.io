@@ -1,8 +1,6 @@
 var a16650 =
 [
-    [ "npc_hor_raging_ghoulAI", "d2/deb/a16650.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
-    [ "JustDied", "d2/deb/a16650.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
-    [ "Reset", "d2/deb/a16650.html#aa52576d94e230797209dfc938d62187f", null ],
-    [ "UpdateAI", "d2/deb/a16650.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
-    [ "leaped", "d2/deb/a16650.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
+    [ "instance_forge_of_souls_InstanceScript", "d2/d9d/a16654.html", "d2/d9d/a16654" ],
+    [ "instance_forge_of_souls", "d2/deb/a16650.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "d2/deb/a16650.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

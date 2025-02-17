@@ -1,6 +1,7 @@
 var a12210 =
 [
-    [ "boss_lucifronAI", "d9/dfa/a12210.html#ab93792bd7798b9ee9cf869fa20190554", null ],
-    [ "ExecuteEvent", "d9/dfa/a12210.html#a0ba286f037c07032488d6763daeaf130", null ],
-    [ "JustEngagedWith", "d9/dfa/a12210.html#aba3256ec99e56e3051045391fceedc7f", null ]
+    [ "HandleDummy", "d9/dfa/a12210.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
+    [ "PrepareSpellScript", "d9/dfa/a12210.html#a6ec124990f202af0c6063c285bf04d88", null ],
+    [ "Register", "d9/dfa/a12210.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
+    [ "Validate", "d9/dfa/a12210.html#ae35efa08f507aac5b72166a216d01870", null ]
 ];

@@ -1,8 +1,16 @@
 var a04805 =
 [
-    [ "DynamicTreeAreaInfoCallback", "d9/d75/a04805.html#ad3f3d57e011439d9900afffa8d9c6ed7", null ],
-    [ "GetAreaInfo", "d9/d75/a04805.html#a22cc8c47b3c93bd9ba396861a5bbea99", null ],
-    [ "operator()", "d9/d75/a04805.html#adf7f147bb4b4f3a5252ac15ffd1b80ea", null ],
-    [ "_areaInfo", "d9/d75/a04805.html#a59781066b5b1a7e970f4dcf6f05a7dcb", null ],
-    [ "_phaseMask", "d9/d75/a04805.html#a9ad7b4de03c8baa6190a5ef57f2eecf2", null ]
+    [ "CrossedInebriationThreshold", "d0/db7/a10734.html", "d0/db7/a10734" ],
+    [ "DurabilityDamageDeath", "db/d77/a10730.html", "db/d77/a10730" ],
+    [ "LevelUpInfo", "d9/d73/a10694.html", "d9/d73/a10694" ],
+    [ "PauseMirrorTimer", "dd/dfd/a10722.html", "dd/dfd/a10722" ],
+    [ "PlayMusic", "d0/d90/a10698.html", "d0/d90/a10698" ],
+    [ "PlayObjectSound", "d3/d32/a10702.html", "d3/d32/a10702" ],
+    [ "Playsound", "d2/da2/a10706.html", "d2/da2/a10706" ],
+    [ "RandomRoll", "d0/dc2/a10714.html", "d0/dc2/a10714" ],
+    [ "RandomRollClient", "d5/d62/a10710.html", "d5/d62/a10710" ],
+    [ "StartMirrorTimer", "d1/de3/a10718.html", "d1/de3/a10718" ],
+    [ "StopMirrorTimer", "d4/dde/a10726.html", "d4/dde/a10726" ],
+    [ "UITime", "d0/d24/a10738.html", "d0/d24/a10738" ],
+    [ "Weather", "d6/dc2/a10690.html", "d6/dc2/a10690" ]
 ];

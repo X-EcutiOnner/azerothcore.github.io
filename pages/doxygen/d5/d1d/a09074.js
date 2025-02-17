@@ -1,10 +1,8 @@
 var a09074 =
 [
-    [ "AnyDeadUnitSpellTargetInRangeCheck", "d5/d1d/a09074.html#a212c308a02716ff382e820e86e233ed3", null ],
-    [ "operator()", "d5/d1d/a09074.html#af328df880d17a62e2dbed0ff4231fc39", null ],
-    [ "operator()", "d5/d1d/a09074.html#adcc69b9ef03a68aa235e40449a80b701", null ],
-    [ "operator()", "d5/d1d/a09074.html#a2f2483cf7078681cb3acf28560e61184", null ],
-    [ "operator()", "d5/d1d/a09074.html#aba0bf4c320a684b68743a06e724a369e", null ],
-    [ "i_check", "d5/d1d/a09074.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
-    [ "i_spellInfo", "d5/d1d/a09074.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
+    [ "V8Type", "d5/d1d/a09074.html#a004cbcd4de33cc555da6f6036d735dc0", null ],
+    [ "V9Type", "d5/d1d/a09074.html#a3ec26bc3c9f2e579bf920bf169f3a223", null ],
+    [ "gridIntHeightMultiplier", "d5/d1d/a09074.html#a626b7ad6821722d17bab6e21db618615", null ],
+    [ "v8", "d5/d1d/a09074.html#a8b352fc11c1e705277f8d81b512e3103", null ],
+    [ "v9", "d5/d1d/a09074.html#a37d2628b9fd45b5d5a12baa9eb6efc3c", null ]
 ];

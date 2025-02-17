@@ -1,4 +1,4 @@
 var a10750 =
 [
-    [ "ServerOpcodeHandler", "d8/d20/a04686.html#ga15d54f5e037e138c90bd0c9bf9628ac9", null ]
+    [ "InvalidHyperlinkException", "db/d29/a10750.html#a4e30376bb16ea56434e65761a2f4a55d", null ]
 ];

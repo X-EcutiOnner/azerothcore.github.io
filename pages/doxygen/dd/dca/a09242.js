@@ -1,7 +1,8 @@
 var a09242 =
 [
-    [ "ObjectGUIDCheck", "dd/dca/a09242.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
-    [ "operator()", "dd/dca/a09242.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
-    [ "_equals", "dd/dca/a09242.html#a413d991eeee0294a54f3c803e296c3ac", null ],
-    [ "_GUID", "dd/dca/a09242.html#a0e97bfe0e160177549a831df8e9b4555", null ]
+    [ "RespawnDo", "dd/dca/a09242.html#a79f6424f2849c4c05998fe29a8510aeb", null ],
+    [ "operator()", "dd/dca/a09242.html#ac15ff63f29e313556b8f66e0cd80514f", null ],
+    [ "operator()", "dd/dca/a09242.html#a23408bf4da497d1007e4e88e0d9c0e19", null ],
+    [ "operator()", "dd/dca/a09242.html#a66335f45bb1f3c770887b263e9d84236", null ],
+    [ "operator()", "dd/dca/a09242.html#a4551ca2e0fdb6540a724c9c2b43484c6", null ]
 ];

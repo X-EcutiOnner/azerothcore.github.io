@@ -1,5 +1,4 @@
 var a04691 =
 [
-    [ "basic_endpoint", "dd/dec/a04786.html", null ],
-    [ "tcp_endpoint", "d6/d12/a04691.html#a27a44b709519f6caccf33bc420c4698b", null ]
+    [ "fixCoordSystem", "d6/d12/a04691.html#a8d0afbab5641bb7d88196fbad79e4cf1", null ]
 ];

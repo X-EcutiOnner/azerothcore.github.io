@@ -1,6 +1,10 @@
 var a21474 =
 [
-    [ "CheckCast", "db/d19/a21474.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "db/d19/a21474.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "db/d19/a21474.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "npc_preparations_for_war_vehicle", "db/d19/a21474.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
+    [ "InitializeAI", "db/d19/a21474.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
+    [ "MovementInform", "db/d19/a21474.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
+    [ "UpdateAI", "db/d19/a21474.html#ae40a23070d96ecf122e9de5571a845ef", null ],
+    [ "pointId", "db/d19/a21474.html#ae75d286eb6116b41adb346861b3c1365", null ],
+    [ "searchForShipTimer", "db/d19/a21474.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
+    [ "transportEntry", "db/d19/a21474.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

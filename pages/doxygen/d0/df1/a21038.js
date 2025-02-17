@@ -1,6 +1,6 @@
 var a21038 =
 [
-    [ "npc_ichor_globuleAI", "d8/d52/a21042.html", "d8/d52/a21042" ],
-    [ "npc_ichor_globule", "d0/df1/a21038.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
-    [ "GetAI", "d0/df1/a21038.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
+    [ "instance_utgarde_pinnacle_InstanceMapScript", "d8/d52/a21042.html", "d8/d52/a21042" ],
+    [ "instance_utgarde_pinnacle", "d0/df1/a21038.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
+    [ "GetInstanceScript", "d0/df1/a21038.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
 ];

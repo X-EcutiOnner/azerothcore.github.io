@@ -1,7 +1,8 @@
 var a12906 =
 [
-    [ "HandleScript", "d9/d03/a12906.html#ab705220b48be16090107135f9e2272cf", null ],
-    [ "PrepareSpellScript", "d9/d03/a12906.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
-    [ "Register", "d9/d03/a12906.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
-    [ "Validate", "d9/d03/a12906.html#ad1d90693a427a52fa728e5ae455932a3", null ]
+    [ "npc_highlord_darion_mograineAI", "d2/d3f/a12910.html", "d2/d3f/a12910" ],
+    [ "npc_highlord_darion_mograine", "d9/d03/a12906.html#a86680b1a140c706b10fd48befc572286", null ],
+    [ "GetAI", "d9/d03/a12906.html#a350539ed741fa372ffff92ffbc6e6260", null ],
+    [ "OnGossipHello", "d9/d03/a12906.html#a35afc9d80b4570163af9f6013949a70c", null ],
+    [ "OnGossipSelect", "d9/d03/a12906.html#a0539d24556c16a1a72be8258c752f5f5", null ]
 ];

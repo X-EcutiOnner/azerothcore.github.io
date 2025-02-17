@@ -1,7 +1,6 @@
 var a24310 =
 [
-    [ "CheckCast", "d0/d30/a24310.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "d0/d30/a24310.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "d0/d30/a24310.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "d0/d30/a24310.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "HandleEffectRemove", "d0/d30/a24310.html#a9472b79a272aff36be657b66883d822f", null ],
+    [ "PrepareAuraScript", "d0/d30/a24310.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
+    [ "Register", "d0/d30/a24310.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
 ];

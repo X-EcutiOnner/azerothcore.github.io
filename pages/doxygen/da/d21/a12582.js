@@ -1,17 +1,7 @@
 var a12582 =
 [
-    [ "boss_priestess_lackey_commonAI", "da/d21/a12582.html#acf122076823631cef5d66e03a9f607aa", null ],
-    [ "AttackStart", "da/d21/a12582.html#a6056ef3425f39208e5731b25fc94a335", null ],
-    [ "EnterEvadeMode", "da/d21/a12582.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
-    [ "GetThreatMod", "da/d21/a12582.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
-    [ "JustDied", "da/d21/a12582.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
-    [ "JustEngagedWith", "da/d21/a12582.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
-    [ "JustSummoned", "da/d21/a12582.html#a9a7bcf641bae31827872faf7666635d5", null ],
-    [ "KilledUnit", "da/d21/a12582.html#a23aaa0a619470898dd617a18130ca17b", null ],
-    [ "RecalculateThreat", "da/d21/a12582.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
-    [ "Reset", "da/d21/a12582.html#aa2ef03d73c43668c97205fa72414e71b", null ],
-    [ "UpdateAI", "da/d21/a12582.html#adf87bd797da345e49700265319d808cc", null ],
-    [ "aiType", "da/d21/a12582.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
-    [ "instance", "da/d21/a12582.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
-    [ "summons", "da/d21/a12582.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
+    [ "OnRemove", "da/d21/a12582.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "da/d21/a12582.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "da/d21/a12582.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "da/d21/a12582.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

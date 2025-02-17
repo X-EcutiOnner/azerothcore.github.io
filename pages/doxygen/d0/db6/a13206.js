@@ -1,6 +1,8 @@
 var a13206 =
 [
-    [ "instance_uldaman_InstanceMapScript", "da/d69/a13210.html", "da/d69/a13210" ],
-    [ "instance_uldaman", "d0/db6/a13206.html#a854807db729d15aa4a09aad051fe3bda", null ],
-    [ "GetInstanceScript", "d0/db6/a13206.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
+    [ "CheckCast", "d0/db6/a13206.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
+    [ "HandleScriptEffect", "d0/db6/a13206.html#a22f630cb9df4b435a5624f2865915753", null ],
+    [ "PrepareSpellScript", "d0/db6/a13206.html#a6e6b27ade1cac743946a976dbf343066", null ],
+    [ "Register", "d0/db6/a13206.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
+    [ "Validate", "d0/db6/a13206.html#a85779288126b21f516f2feb0238ee65b", null ]
 ];

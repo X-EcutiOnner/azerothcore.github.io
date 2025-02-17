@@ -1,8 +1,6 @@
 var a09062 =
 [
-    [ "PlayerWorker", "dd/d89/a09062.html#ac7c16ec87b533b7b58b768cac116d7a2", null ],
-    [ "Visit", "dd/d89/a09062.html#a018b799be67c284d6ed5c7a368ef1985", null ],
-    [ "Visit", "dd/d89/a09062.html#a19c56b5bde9e57ea0152a89ac05e292b", null ],
-    [ "i_do", "dd/d89/a09062.html#ae09b42f770e895b1c283ea7ca7527b7a", null ],
-    [ "i_phaseMask", "dd/d89/a09062.html#aa23944bde7aa8e3a77f33b0a93f92c57", null ]
+    [ "AreaMapType", "dd/d89/a09062.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
+    [ "areaMap", "dd/d89/a09062.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
+    [ "gridArea", "dd/d89/a09062.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
 ];

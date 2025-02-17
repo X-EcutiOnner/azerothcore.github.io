@@ -1,6 +1,9 @@
 var a14846 =
 [
-    [ "OnRemove", "dc/d7b/a14846.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
-    [ "PrepareAuraScript", "dc/d7b/a14846.html#a47849d8241ed17ad0fb541c1178b0760", null ],
-    [ "Register", "dc/d7b/a14846.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
+    [ "go_ossirian_crystalAI", "dc/d7b/a14846.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
+    [ "DoAction", "dc/d7b/a14846.html#a581436335d190466520c07fde56ad441", null ],
+    [ "GossipHello", "dc/d7b/a14846.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
+    [ "SetGUID", "dc/d7b/a14846.html#a9c983aa02285dbebc545b4056191200c", null ],
+    [ "_instance", "dc/d7b/a14846.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
+    [ "_triggerGUID", "dc/d7b/a14846.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
 ];

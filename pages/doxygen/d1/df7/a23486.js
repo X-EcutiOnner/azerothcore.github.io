@@ -1,10 +1,7 @@
 var a23486 =
 [
-    [ "CheckProc", "d1/df7/a23486.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
-    [ "Load", "d1/df7/a23486.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
-    [ "PrepareAuraScript", "d1/df7/a23486.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
-    [ "Register", "d1/df7/a23486.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
-    [ "_lastForm", "d1/df7/a23486.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
-    [ "_lastSchool", "d1/df7/a23486.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
-    [ "_swapTime", "d1/df7/a23486.html#af832dc200e928df3849ab7d7f93cb412", null ]
+    [ "HandleOnApply", "d1/df7/a23486.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "d1/df7/a23486.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "d1/df7/a23486.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "d1/df7/a23486.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

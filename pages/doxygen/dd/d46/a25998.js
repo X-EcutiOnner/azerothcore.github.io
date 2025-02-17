@@ -1,7 +1,7 @@
 var a25998 =
 [
-    [ "if", "dd/d46/a25998.html#aefedb14e99d2e60abfd58f7778deb39b", null ],
-    [ "PrepareAuraScript", "dd/d46/a25998.html#ad61e8c804e59ca0623748acde69aeddb", null ],
-    [ "Register", "dd/d46/a25998.html#af917d32bc0d7f825a52c0a916a3a2357", null ],
-    [ "AuraEffectHandleModes", "dd/d46/a25998.html#accfab0bada4faf21178e3f67a79c6dfe", null ]
+    [ "FilterTargets", "dd/d46/a25998.html#ad679149423fda97ad5744318520022b1", null ],
+    [ "PrepareSpellScript", "dd/d46/a25998.html#ac57c48690c5ad1b907f56287aee949a4", null ],
+    [ "Register", "dd/d46/a25998.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
+    [ "Validate", "dd/d46/a25998.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
 ];

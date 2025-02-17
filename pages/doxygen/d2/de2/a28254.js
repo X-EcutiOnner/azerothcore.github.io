@@ -1,7 +1,8 @@
 var a28254 =
 [
-    [ "asyncId", "d2/de2/a28254.html#afd18849875b4562e4a532903676ce25d", null ],
-    [ "flags", "d2/de2/a28254.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
-    [ "offsMCNK", "d2/de2/a28254.html#a063c5dc62c44038e882340221bf8228a", null ],
-    [ "size", "d2/de2/a28254.html#a47a5eeb595d53de009651ae02d2b416d", null ]
+    [ "MapDifficulty", "d2/de2/a28254.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
+    [ "MapDifficulty", "d2/de2/a28254.html#a227aec55b5b774076882ea34f70d5d88", null ],
+    [ "hasErrorMessage", "d2/de2/a28254.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
+    [ "maxPlayers", "d2/de2/a28254.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
+    [ "resetTime", "d2/de2/a28254.html#a7190131620b9eee0897ac7b4dd62949e", null ]
 ];

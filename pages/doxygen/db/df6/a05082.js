@@ -1,6 +1,7 @@
 var a05082 =
 [
-    [ "AppendToBack", "db/df6/a05082.html#a631dbb5771929cb72bd090e3ced49523", null ],
-    [ "GenerateRandomIV", "db/df6/a05082.html#afd4b9dd6223e8bd48810b88adc24a4b7", null ],
-    [ "SplitFromBack", "db/df6/a05082.html#ac27f3335f0fadf98dbd0bedebbfd8390", null ]
+    [ "operator()", "db/df6/a05082.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
+    [ "closestEntity", "db/df6/a05082.html#ab377424b7edd0274f61967619700f841", null ],
+    [ "hitLocation", "db/df6/a05082.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
+    [ "hitNormal", "db/df6/a05082.html#a57f40f48c26829f7da9e48efd839d773", null ]
 ];

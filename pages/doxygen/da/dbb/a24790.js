@@ -1,6 +1,6 @@
 var a24790 =
 [
-    [ "HandleScriptEffect", "da/dbb/a24790.html#a514697f3fdcbf9274453d6d71c0c4816", null ],
-    [ "PrepareSpellScript", "da/dbb/a24790.html#a5bcff624e9a396a2f90115dc99d93ae9", null ],
-    [ "Register", "da/dbb/a24790.html#aebcc23e4f4a1c5ab90fb06a47755ec2b", null ]
+    [ "HandleDummy", "da/dbb/a24790.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
+    [ "PrepareSpellScript", "da/dbb/a24790.html#af310c2b28ed816b9fbe494f81c42043c", null ],
+    [ "Register", "da/dbb/a24790.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
 ];

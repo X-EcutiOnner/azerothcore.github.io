@@ -1,7 +1,6 @@
 var a12026 =
 [
-    [ "boss_ebonrocAI", "d8/d02/a12026.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
-    [ "JustEngagedWith", "d8/d02/a12026.html#a2c74e0030b1093d79245978939043d53", null ],
-    [ "MovementInform", "d8/d02/a12026.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
-    [ "UpdateAI", "d8/d02/a12026.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
+    [ "OrcDeathEvent", "d8/d02/a12026.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
+    [ "Execute", "d8/d02/a12026.html#a293ec6667da669a27fe75965f919cd68", null ],
+    [ "_me", "d8/d02/a12026.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
 ];

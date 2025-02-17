@@ -1,6 +1,7 @@
 var a24230 =
 [
-    [ "CheckProc", "dd/dfe/a24230.html#a451ceeda18638f88d2e0a24ac445f5e2", null ],
-    [ "PrepareAuraScript", "dd/dfe/a24230.html#a0a6d4617ff3351411f4e13f53876db31", null ],
-    [ "Register", "dd/dfe/a24230.html#a0e5d974111eeca075f38910223f5eaf4", null ]
+    [ "npc_pet_gen_target_following_bomb", "dd/dfe/a24230.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "dd/dfe/a24230.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "dd/dfe/a24230.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "dd/dfe/a24230.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

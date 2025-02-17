@@ -1,5 +1,8 @@
 var a26750 =
 [
-    [ "achievement_not_even_a_scratch", "d9/d0a/a26750.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d9/d0a/a26750.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "HandleDummy", "d9/d0a/a26750.html#ad2eec86cff225cc0bd806e31596fb127", null ],
+    [ "PrepareSpellScript", "d9/d0a/a26750.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
+    [ "Register", "d9/d0a/a26750.html#a6c72b4c813368774283ae94036a43ee2", null ],
+    [ "SendMiss", "d9/d0a/a26750.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
+    [ "Validate", "d9/d0a/a26750.html#a9a5014de08f73ad5dad29354812030ac", null ]
 ];

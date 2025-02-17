@@ -1,6 +1,6 @@
 var a17982 =
 [
-    [ "npc_icc_ice_sphereAI", "da/ddf/a17986.html", "da/ddf/a17986" ],
-    [ "npc_icc_ice_sphere", "d9/db7/a17982.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
-    [ "GetAI", "d9/db7/a17982.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
+    [ "HandleScript", "d9/db7/a17982.html#a038a827f7fe179ff56ab581efdf08790", null ],
+    [ "PrepareSpellScript", "d9/db7/a17982.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
+    [ "Register", "d9/db7/a17982.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
 ];

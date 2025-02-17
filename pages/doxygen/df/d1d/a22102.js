@@ -1,6 +1,8 @@
 var a22102 =
 [
-    [ "PrepareSpellScript", "df/d1d/a22102.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "df/d1d/a22102.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "df/d1d/a22102.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "AfterRemove", "df/d1d/a22102.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
+    [ "HandlePeriodic", "df/d1d/a22102.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
+    [ "OnApply", "df/d1d/a22102.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
+    [ "PrepareAuraScript", "df/d1d/a22102.html#a47a6281c42dc9368357cc86912331c77", null ],
+    [ "Register", "df/d1d/a22102.html#a868c79cda98b97b27b74d46f86cb980a", null ]
 ];

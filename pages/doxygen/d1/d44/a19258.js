@@ -1,6 +1,6 @@
 var a19258 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d8/d36/a19262.html", "d8/d36/a19262" ],
-    [ "instance_halls_of_lightning", "d1/d44/a19258.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "d1/d44/a19258.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "npc_centrifuge_constructAI", "d8/d36/a19262.html", "d8/d36/a19262" ],
+    [ "npc_centrifuge_construct", "d1/d44/a19258.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
+    [ "GetAI", "d1/d44/a19258.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
 ];

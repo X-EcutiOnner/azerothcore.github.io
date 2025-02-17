@@ -1,12 +1,13 @@
 var a12622 =
 [
-    [ "boss_vexallus", "df/dba/a12622.html#a68c32ed70274e9f135b7a9107f888c91", null ],
-    [ "JustDied", "df/dba/a12622.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
-    [ "JustEngagedWith", "df/dba/a12622.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
-    [ "JustSummoned", "df/dba/a12622.html#a9bc7808889da754bae9c935418975f90", null ],
-    [ "KilledUnit", "df/dba/a12622.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
-    [ "Reset", "df/dba/a12622.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
-    [ "SummonedCreatureDies", "df/dba/a12622.html#a4bd88222143d8db098312cff8a2fc969", null ],
-    [ "_energyCooldown", "df/dba/a12622.html#a395d2186d70d1b7e29dbada7750da354", null ],
-    [ "_energyCount", "df/dba/a12622.html#a4afa4a245b8863c7b0898773932642c8", null ]
+    [ "boss_crone", "df/dba/a12622.html#a710bdf6fac05be54cf10e40cd661c837", null ],
+    [ "EnterEvadeMode", "df/dba/a12622.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
+    [ "JustDied", "df/dba/a12622.html#a545de2a25b48590d11896c41b6e94df0", null ],
+    [ "JustEngagedWith", "df/dba/a12622.html#a9801cd39667d1a08770820bd17beac00", null ],
+    [ "JustReachedHome", "df/dba/a12622.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
+    [ "KilledUnit", "df/dba/a12622.html#ae4d343636955589d740d1df4e21fba99", null ],
+    [ "Reset", "df/dba/a12622.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
+    [ "UpdateAI", "df/dba/a12622.html#a8bd505acd55ca5292d29c96916a461e5", null ],
+    [ "_scheduler", "df/dba/a12622.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
+    [ "instance", "df/dba/a12622.html#a3795fe3185005693ed9bba49177bb35a", null ]
 ];

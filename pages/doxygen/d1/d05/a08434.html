@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Runes Struct Reference</title>
+<title>AzerothCore: PetStable Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,33 +105,41 @@ $(document).ready(function(){initNavTree('d1/d05/a08434.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../da/dd0/a08431.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Runes Struct Reference</div></div>
+  <div class="headertitle"><div class="title">PetStable Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">PetDefines.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/ded/a08438.html">PetInfo</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a920d32d04ec7e872680a89b0c0a9b0ef"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d05/a08434.html#a920d32d04ec7e872680a89b0c0a9b0ef">SetRuneState</a> (<a class="el" href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> index, bool set=true)</td></tr>
-<tr class="separator:a920d32d04ec7e872680a89b0c0a9b0ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e0e22a135703c989976694a32912cbd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/ded/a08438.html">PetInfo</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d05/a08434.html#a4e0e22a135703c989976694a32912cbd">GetUnslottedHunterPet</a> () const</td></tr>
+<tr class="separator:a4e0e22a135703c989976694a32912cbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:aac485530bfa81d54d9da3213fe917c29"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dea/a08430.html">RuneInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d05/a08434.html#aac485530bfa81d54d9da3213fe917c29">runes</a> [<a class="el" href="../../dc/dd9/a01268.html#a2a50815668e7443f20a14ff3fa353db4">MAX_RUNES</a>]</td></tr>
-<tr class="separator:aac485530bfa81d54d9da3213fe917c29"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae58297e0766578b234604a97641501a1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d05/a08434.html#ae58297e0766578b234604a97641501a1">runeState</a></td></tr>
-<tr class="separator:ae58297e0766578b234604a97641501a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a88c702716eb3032c20ae5ed74922d923"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/dd9/a01268.html#a2377260993cd4a14aaab6f5771385e11">RuneType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d05/a08434.html#a88c702716eb3032c20ae5ed74922d923">lastUsedRune</a></td></tr>
-<tr class="separator:a88c702716eb3032c20ae5ed74922d923"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a9f76452985abc65560773ac413208f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d86/a04421.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d6/ded/a08438.html">PetInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d05/a08434.html#a7a9f76452985abc65560773ac413208f">CurrentPet</a></td></tr>
+<tr class="separator:a7a9f76452985abc65560773ac413208f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6bd064e692fff316581d08680b163026"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../d4/d86/a04421.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d6/ded/a08438.html">PetInfo</a> &gt;, <a class="el" href="../../d3/d5d/a02900.html#ad8cb525a1566956fd2dd5baf811ab5b1">MAX_PET_STABLES</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d05/a08434.html#a6bd064e692fff316581d08680b163026">StabledPets</a></td></tr>
+<tr class="separator:a6bd064e692fff316581d08680b163026"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a30270bbd396b7fa4e035429ff8d04e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d05/a08434.html#a2a30270bbd396b7fa4e035429ff8d04e">MaxStabledPets</a> = 0</td></tr>
+<tr class="separator:a2a30270bbd396b7fa4e035429ff8d04e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e6f6e36722dd883e6df962a1e950346"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d6/ded/a08438.html">PetInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d05/a08434.html#a8e6f6e36722dd883e6df962a1e950346">UnslottedPets</a></td></tr>
+<tr class="separator:a8e6f6e36722dd883e6df962a1e950346"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a920d32d04ec7e872680a89b0c0a9b0ef" name="a920d32d04ec7e872680a89b0c0a9b0ef"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a920d32d04ec7e872680a89b0c0a9b0ef">&#9670;&#160;</a></span>SetRuneState()</h2>
+<a id="a4e0e22a135703c989976694a32912cbd" name="a4e0e22a135703c989976694a32912cbd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4e0e22a135703c989976694a32912cbd">&#9670;&#160;</a></span>GetUnslottedHunterPet()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -140,21 +148,10 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void Runes::SetRuneState </td>
+          <td class="memname"><a class="el" href="../../d6/ded/a08438.html">PetInfo</a> const  * PetStable::GetUnslottedHunterPet </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>index</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>set</em> = <code>true</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -163,66 +160,80 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  437</span>    {</div>
-<div class="line"><span class="lineno">  438</span>        <span class="keywordflow">if</span> (set)</div>
-<div class="line"><span class="lineno">  439</span>            <a class="code hl_variable" href="../../d1/d05/a08434.html#ae58297e0766578b234604a97641501a1">runeState</a> |= (1 &lt;&lt; index);                      <span class="comment">// usable</span></div>
-<div class="line"><span class="lineno">  440</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  441</span>            <a class="code hl_variable" href="../../d1/d05/a08434.html#ae58297e0766578b234604a97641501a1">runeState</a> &amp;= ~(1 &lt;&lt; index);                     <span class="comment">// on cooldown</span></div>
-<div class="line"><span class="lineno">  442</span>    }</div>
-<div class="ttc" id="aa08434_html_ae58297e0766578b234604a97641501a1"><div class="ttname"><a href="../../d1/d05/a08434.html#ae58297e0766578b234604a97641501a1">Runes::runeState</a></div><div class="ttdeci">uint8 runeState</div><div class="ttdef"><b>Definition:</b> Player.h:433</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  235</span>    {</div>
+<div class="line"><span class="lineno">  236</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/d05/a08434.html#a8e6f6e36722dd883e6df962a1e950346">UnslottedPets</a>.size() == 1 &amp;&amp; <a class="code hl_variable" href="../../d1/d05/a08434.html#a8e6f6e36722dd883e6df962a1e950346">UnslottedPets</a>[0].Type == <a class="code hl_enumvalue" href="../../d3/d5d/a02900.html#a9c56f6096d84d7e4e38d3e3f4e5af97ca608ed771a0dfa608eeafada945298bc2">HUNTER_PET</a> ? &amp;<a class="code hl_variable" href="../../d1/d05/a08434.html#a8e6f6e36722dd883e6df962a1e950346">UnslottedPets</a>[0] : <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  237</span>    }</div>
+<div class="ttc" id="aa02900_html_a9c56f6096d84d7e4e38d3e3f4e5af97ca608ed771a0dfa608eeafada945298bc2"><div class="ttname"><a href="../../d3/d5d/a02900.html#a9c56f6096d84d7e4e38d3e3f4e5af97ca608ed771a0dfa608eeafada945298bc2">HUNTER_PET</a></div><div class="ttdeci">@ HUNTER_PET</div><div class="ttdef"><b>Definition:</b> PetDefines.h:32</div></div>
+<div class="ttc" id="aa08434_html_a8e6f6e36722dd883e6df962a1e950346"><div class="ttname"><a href="../../d1/d05/a08434.html#a8e6f6e36722dd883e6df962a1e950346">PetStable::UnslottedPets</a></div><div class="ttdeci">std::vector&lt; PetInfo &gt; UnslottedPets</div><div class="ttdef"><b>Definition:</b> PetDefines.h:232</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00433">runeState</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00032">HUNTER_PET</a>, and <a class="el" href="../../#l00232">UnslottedPets</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l13490">Player::InitRunes()</a>, and <a class="el" href="../../#l02524">Player::SetRuneCooldown()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09201">Player::CanPetResurrect()</a>, <a class="el" href="../../#l00950">spell_hun_tame_beast::CheckCast()</a>, <a class="el" href="../../#l17458">Unit::InitTamedPet()</a>, <a class="el" href="../../#l09234">Player::IsExistPet()</a>, <a class="el" href="../../#l00480">WorldSession::SendStablePet()</a>, and <a class="el" href="../../#l08969">Player::SummonPet()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a88c702716eb3032c20ae5ed74922d923" name="a88c702716eb3032c20ae5ed74922d923"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a88c702716eb3032c20ae5ed74922d923">&#9670;&#160;</a></span>lastUsedRune</h2>
+<a id="a7a9f76452985abc65560773ac413208f" name="a7a9f76452985abc65560773ac413208f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a9f76452985abc65560773ac413208f">&#9670;&#160;</a></span>CurrentPet</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/dd9/a01268.html#a2377260993cd4a14aaab6f5771385e11">RuneType</a> Runes::lastUsedRune</td>
+          <td class="memname"><a class="el" href="../../d4/d86/a04421.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt;<a class="el" href="../../d6/ded/a08438.html">PetInfo</a>&gt; PetStable::CurrentPet</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02520">Player::GetLastUsedRune()</a>, <a class="el" href="../../#l13490">Player::InitRunes()</a>, and <a class="el" href="../../#l02521">Player::SetLastUsedRune()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09201">Player::CanPetResurrect()</a>, <a class="el" href="../../#l00950">spell_hun_tame_beast::CheckCast()</a>, <a class="el" href="../../#l05660">Spell::CheckCast()</a>, <a class="el" href="../../#l00170">Pet::GetLoadPetInfo()</a>, <a class="el" href="../../#l00827">WorldSession::HandlePetRename()</a>, <a class="el" href="../../#l00550">WorldSession::HandleStablePet()</a>, <a class="el" href="../../#l00771">WorldSession::HandleStableSwapPet()</a>, <a class="el" href="../../#l00618">WorldSession::HandleUnstablePet()</a>, <a class="el" href="../../#l17458">Unit::InitTamedPet()</a>, <a class="el" href="../../#l09234">Player::IsExistPet()</a>, <a class="el" href="../../#l00215">Pet::LoadPetFromDB()</a>, <a class="el" href="../../#l02134">Pet::resetTalentsForAllPetsOf()</a>, <a class="el" href="../../#l00501">Pet::SavePetToDB()</a>, <a class="el" href="../../#l00480">WorldSession::SendStablePet()</a>, and <a class="el" href="../../#l08969">Player::SummonPet()</a>.</p>
 
 </div>
 </div>
-<a id="aac485530bfa81d54d9da3213fe917c29" name="aac485530bfa81d54d9da3213fe917c29"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aac485530bfa81d54d9da3213fe917c29">&#9670;&#160;</a></span>runes</h2>
+<a id="a2a30270bbd396b7fa4e035429ff8d04e" name="a2a30270bbd396b7fa4e035429ff8d04e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a30270bbd396b7fa4e035429ff8d04e">&#9670;&#160;</a></span>MaxStabledPets</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/dea/a08430.html">RuneInfo</a> Runes::runes[<a class="el" href="../../dc/dd9/a01268.html#a2a50815668e7443f20a14ff3fa353db4">MAX_RUNES</a>]</td>
+          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PetStable::MaxStabledPets = 0</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02514">Player::GetBaseRune()</a>, <a class="el" href="../../#l02515">Player::GetCurrentRune()</a>, <a class="el" href="../../#l02517">Player::GetGracePeriod()</a>, <a class="el" href="../../#l02516">Player::GetRuneCooldown()</a>, <a class="el" href="../../#l13420">Player::RemoveRunesByAuraEffect()</a>, <a class="el" href="../../#l13432">Player::RestoreBaseRune()</a>, <a class="el" href="../../#l02522">Player::SetBaseRune()</a>, <a class="el" href="../../#l02523">Player::SetCurrentRune()</a>, <a class="el" href="../../#l02525">Player::SetGracePeriod()</a>, <a class="el" href="../../#l02526">Player::SetRuneConvertAura()</a>, and <a class="el" href="../../#l02524">Player::SetRuneCooldown()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00732">WorldSession::HandleBuyStableSlot()</a>, <a class="el" href="../../#l00550">WorldSession::HandleStablePet()</a>, and <a class="el" href="../../#l00480">WorldSession::SendStablePet()</a>.</p>
 
 </div>
 </div>
-<a id="ae58297e0766578b234604a97641501a1" name="ae58297e0766578b234604a97641501a1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae58297e0766578b234604a97641501a1">&#9670;&#160;</a></span>runeState</h2>
+<a id="a6bd064e692fff316581d08680b163026" name="a6bd064e692fff316581d08680b163026"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6bd064e692fff316581d08680b163026">&#9670;&#160;</a></span>StabledPets</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/df8/a00155.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> Runes::runeState</td>
+          <td class="memname">std::array&lt;<a class="el" href="../../d4/d86/a04421.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt;<a class="el" href="../../d6/ded/a08438.html">PetInfo</a>&gt;, <a class="el" href="../../d3/d5d/a02900.html#ad8cb525a1566956fd2dd5baf811ab5b1">MAX_PET_STABLES</a>&gt; PetStable::StabledPets</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02513">Player::GetRunesState()</a>, <a class="el" href="../../#l13490">Player::InitRunes()</a>, and <a class="el" href="../../#l00436">SetRuneState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00170">Pet::GetLoadPetInfo()</a>, <a class="el" href="../../#l00550">WorldSession::HandleStablePet()</a>, <a class="el" href="../../#l00771">WorldSession::HandleStableSwapPet()</a>, <a class="el" href="../../#l00618">WorldSession::HandleUnstablePet()</a>, <a class="el" href="../../#l00215">Pet::LoadPetFromDB()</a>, <a class="el" href="../../#l02134">Pet::resetTalentsForAllPetsOf()</a>, and <a class="el" href="../../#l00480">WorldSession::SendStablePet()</a>.</p>
+
+</div>
+</div>
+<a id="a8e6f6e36722dd883e6df962a1e950346" name="a8e6f6e36722dd883e6df962a1e950346"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8e6f6e36722dd883e6df962a1e950346">&#9670;&#160;</a></span>UnslottedPets</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;<a class="el" href="../../d6/ded/a08438.html">PetInfo</a>&gt; PetStable::UnslottedPets</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l05660">Spell::CheckCast()</a>, <a class="el" href="../../#l00170">Pet::GetLoadPetInfo()</a>, <a class="el" href="../../#l00234">GetUnslottedHunterPet()</a>, <a class="el" href="../../#l00550">WorldSession::HandleStablePet()</a>, <a class="el" href="../../#l00771">WorldSession::HandleStableSwapPet()</a>, <a class="el" href="../../#l00618">WorldSession::HandleUnstablePet()</a>, <a class="el" href="../../#l00215">Pet::LoadPetFromDB()</a>, and <a class="el" href="../../#l02134">Pet::resetTalentsForAllPetsOf()</a>.</p>
 
 </div>
 </div>
@@ -231,8 +242,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/d05/a08434.html">Runes</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:44:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/d05/a08434.html">PetStable</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:43:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

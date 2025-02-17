@@ -1,15 +1,18 @@
 var a08922 =
 [
-    [ "CoordPair", "dd/d2b/a08922.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
-    [ "CoordPair", "dd/d2b/a08922.html#aab92ece0f01ebc00cdac4966e02fa8fd", null ],
-    [ "dec_x", "dd/d2b/a08922.html#a69be5b72b710722120104f0c502fbb70", null ],
-    [ "dec_y", "dd/d2b/a08922.html#aefa33f8766212bb71e5fd19a318142cc", null ],
-    [ "GetId", "dd/d2b/a08922.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
-    [ "inc_x", "dd/d2b/a08922.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
-    [ "inc_y", "dd/d2b/a08922.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
-    [ "IsCoordValid", "dd/d2b/a08922.html#a082960c54e2077df370f891c0534b44f", null ],
-    [ "normalize", "dd/d2b/a08922.html#afac8086374bfc499e3a8d74d6afc58db", null ],
-    [ "operator=", "dd/d2b/a08922.html#a27f81c359c4ae278d663e85eccbeebb9", null ],
-    [ "x_coord", "dd/d2b/a08922.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
-    [ "y_coord", "dd/d2b/a08922.html#aacae12844cc0c0d70e26b137ad28f700", null ]
+    [ "BroadcastText", "dd/d2b/a08922.html#abab322532f769f25ad0241422e066c3c", null ],
+    [ "GetText", "dd/d2b/a08922.html#a5002c01e04536db717167eb7d0f4c5ec", null ],
+    [ "EmoteDelay1", "dd/d2b/a08922.html#a627971cd4d55f9e3e17c885791a0cfbf", null ],
+    [ "EmoteDelay2", "dd/d2b/a08922.html#a101f8fcc99c6badc2a7b05a9f18aa0f5", null ],
+    [ "EmoteDelay3", "dd/d2b/a08922.html#ad54e97026a67329529daaa30f997a89a", null ],
+    [ "EmoteId1", "dd/d2b/a08922.html#acc72081442b6a4544533a3084b5240da", null ],
+    [ "EmoteId2", "dd/d2b/a08922.html#a519449d0a5cc67e758f39c154e22f853", null ],
+    [ "EmoteId3", "dd/d2b/a08922.html#acbce2101751bdaed47315c23f5058a7b", null ],
+    [ "EmotesID", "dd/d2b/a08922.html#a2c7c03c32d8fe589507b575fc5c2138f", null ],
+    [ "FemaleText", "dd/d2b/a08922.html#a255f95912612f11867611093ebc23a59", null ],
+    [ "Flags", "dd/d2b/a08922.html#af07f883cd3deb5a1a59e23aa058e6c78", null ],
+    [ "Id", "dd/d2b/a08922.html#a12594a2bbd643a1968726db708a35b79", null ],
+    [ "LanguageID", "dd/d2b/a08922.html#a35ea9cc4ebd2680988e610f344086c86", null ],
+    [ "MaleText", "dd/d2b/a08922.html#ab30526857fe7c7c945d84931ffa4c416", null ],
+    [ "SoundEntriesId", "dd/d2b/a08922.html#aae69d8b9ca72f1cb20869b69a9601595", null ]
 ];

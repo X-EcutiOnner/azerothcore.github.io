@@ -1,6 +1,6 @@
 var a18146 =
 [
-    [ "ManaVoidSelector", "db/d99/a18146.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
-    [ "operator()", "db/d99/a18146.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
-    [ "_source", "db/d99/a18146.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
+    [ "ModDestHeight", "db/d99/a18146.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
+    [ "PrepareSpellScript", "db/d99/a18146.html#a288f8917d73be30234e465778b1f6544", null ],
+    [ "Register", "db/d99/a18146.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
 ];

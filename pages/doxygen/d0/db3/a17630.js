@@ -1,6 +1,6 @@
 var a17630 =
 [
-    [ "OnRemove", "d0/db3/a17630.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
-    [ "PrepareAuraScript", "d0/db3/a17630.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
-    [ "Register", "d0/db3/a17630.html#afa993cb14444989feac16c9fa2d7b8df", null ]
+    [ "npc_bone_spikeAI", "dd/d7a/a17634.html", "dd/d7a/a17634" ],
+    [ "npc_bone_spike", "d0/db3/a17630.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "d0/db3/a17630.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

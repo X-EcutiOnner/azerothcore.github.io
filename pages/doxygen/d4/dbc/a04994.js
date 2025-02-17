@@ -1,7 +1,5 @@
 var a04994 =
 [
-    [ "WModelRayCallBack", "d4/dbc/a04994.html#ac234cf795a07aab6e456c608dd80bbea", null ],
-    [ "operator()", "d4/dbc/a04994.html#a8f658081b44bda2527aa568a139bfd14", null ],
-    [ "hit", "d4/dbc/a04994.html#a014e322fc087c2f07617361e0bc585e3", null ],
-    [ "models", "d4/dbc/a04994.html#aaad14391ed1379dc3c367e6e522b1150", null ]
+    [ "TileEntries", "d4/dbc/a04994.html#ac982af8210389fe769d161a12d4cdb5f", null ],
+    [ "UniqueEntries", "d4/dbc/a04994.html#a5ba6c948eedc6c070a7eb6aa3816d85c", null ]
 ];

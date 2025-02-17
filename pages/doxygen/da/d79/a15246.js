@@ -1,10 +1,7 @@
 var a15246 =
 [
-    [ "CreatureId", "da/d79/a15246.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
-    [ "DespTimer", "da/d79/a15246.html#a0dfec745982b346ac1cd0af672be31fb", null ],
-    [ "SpawnCount", "da/d79/a15246.html#ad5347ee83eaa00fe0721279099c48433", null ],
-    [ "SpawnTimer", "da/d79/a15246.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
-    [ "UsedSpawnPoint", "da/d79/a15246.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
-    [ "WaveTextId", "da/d79/a15246.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
-    [ "YellTimer", "da/d79/a15246.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "d4/d0e/a15250.html", "d4/d0e/a15250" ],
+    [ "npc_aged_dying_ancient_kodo", "da/d79/a15246.html#a676170a319d3a8e46c9d017e61396c28", null ],
+    [ "GetAI", "da/d79/a15246.html#a886bc82764e4ca6d98dc94ea73415375", null ],
+    [ "OnGossipHello", "da/d79/a15246.html#a8489b3f23d8eca39f2750711512672e4", null ]
 ];

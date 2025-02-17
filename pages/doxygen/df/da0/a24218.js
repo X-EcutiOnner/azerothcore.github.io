@@ -1,6 +1,9 @@
 var a24218 =
 [
-    [ "HandlePeriodic", "df/da0/a24218.html#adc387a1b001119b95179856c030853ad", null ],
-    [ "PrepareAuraScript", "df/da0/a24218.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
-    [ "Register", "df/da0/a24218.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "df/da0/a24218.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "df/da0/a24218.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "df/da0/a24218.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "df/da0/a24218.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "df/da0/a24218.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "df/da0/a24218.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

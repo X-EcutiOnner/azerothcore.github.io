@@ -1,7 +1,8 @@
 var a14262 =
 [
-    [ "HandleScript", "d5/d44/a14262.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
-    [ "PrepareSpellScript", "d5/d44/a14262.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
-    [ "Register", "d5/d44/a14262.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
-    [ "Validate", "d5/d44/a14262.html#aa1e74de390a8b71e43e43664981a36ff", null ]
+    [ "npc_love_in_air_snivel_real", "d5/d44/a14262.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
+    [ "Talk", "d5/d44/a14262.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
+    [ "UpdateAI", "d5/d44/a14262.html#a22ed25da8fe3441ef0e4183390983f40", null ],
+    [ "actionCounter", "d5/d44/a14262.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
+    [ "actionTimer", "d5/d44/a14262.html#a3bbee1ff355581772b337268775b8fbc", null ]
 ];

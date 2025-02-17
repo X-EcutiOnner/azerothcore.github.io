@@ -1,13 +1,12 @@
 var a07274 =
 [
-    [ "banners", "de/d94/a07274.html#a07c98125c64d119232fec9cc80050537", null ],
-    [ "faction", "de/d94/a07274.html#ab3758f67da3dcb507bb1acab575e2836", null ],
-    [ "gameobject_entry", "de/d94/a07274.html#ae80024986e048e05dca174d6b14964d3", null ],
-    [ "gameobject_type", "de/d94/a07274.html#ac4760cba40ba8916d66cae3712f7c641", null ],
-    [ "last_entry", "de/d94/a07274.html#a968d6f412ba88b9577429910ffa511a5", null ],
-    [ "needChange", "de/d94/a07274.html#acecd97e26d19c82e934817ecbc2afce9", null ],
-    [ "nodeState", "de/d94/a07274.html#a214e160c6fd94cefb4d080a94a12ba56", null ],
-    [ "nodeType", "de/d94/a07274.html#a3b303a427c4a2248dade5eada6774dc9", null ],
-    [ "timer", "de/d94/a07274.html#a434605ed0efcc262057a65d7cd8d0128", null ],
-    [ "worldStates", "de/d94/a07274.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2", null ]
+    [ "BGQueueInviteEvent", "de/d94/a07274.html#acee27900339fdcebbfd21bb0e602654d", null ],
+    [ "~BGQueueInviteEvent", "de/d94/a07274.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
+    [ "Abort", "de/d94/a07274.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
+    [ "Execute", "de/d94/a07274.html#a444aceb1c29c951271bab5186a7f3064", null ],
+    [ "m_ArenaType", "de/d94/a07274.html#a1b7d1161d46578606396efd515ab1739", null ],
+    [ "m_BgInstanceGUID", "de/d94/a07274.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
+    [ "m_BgTypeId", "de/d94/a07274.html#a608c24288f24bc4da77124257320c741", null ],
+    [ "m_PlayerGuid", "de/d94/a07274.html#a200b4bcd336846df60ec11de8d829d7d", null ],
+    [ "m_RemoveTime", "de/d94/a07274.html#a4c78e5a74eaf859db40772008557201f", null ]
 ];

@@ -1,7 +1,8 @@
 var a12442 =
 [
-    [ "FilterTargets", "df/d6c/a12442.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "df/d6c/a12442.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "df/d6c/a12442.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "df/d6c/a12442.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "npc_lava_spawn", "df/d6c/a12442.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "df/d6c/a12442.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "df/d6c/a12442.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "df/d6c/a12442.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "df/d6c/a12442.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

@@ -1,12 +1,12 @@
 var a13406 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "d3/d83/a13406.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
-    [ "JustEngagedWith", "d3/d83/a13406.html#a36324482fb264cc3cacf11c3ed542eee", null ],
-    [ "JustSummoned", "d3/d83/a13406.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
-    [ "Reset", "d3/d83/a13406.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
-    [ "SetGUID", "d3/d83/a13406.html#aa5270e7468dcafba98d3ee72752771ce", null ],
-    [ "UpdateAI", "d3/d83/a13406.html#ab704e4f3af8aa734910efd259db31407", null ],
-    [ "_events", "d3/d83/a13406.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
-    [ "LamentEvent", "d3/d83/a13406.html#ace9e901a965665e0f97cb9646af308aa", null ],
-    [ "playerGUID", "d3/d83/a13406.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
+    [ "npc_eastvale_peasent", "d3/d83/a13406.html#a5282dac41228569d4431d84c1f160f05", null ],
+    [ "Initialize", "d3/d83/a13406.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
+    [ "PathEndReached", "d3/d83/a13406.html#a002ec21e0715b020aa19cd0839408033", null ],
+    [ "Reset", "d3/d83/a13406.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
+    [ "SetData", "d3/d83/a13406.html#add14d9505880727e208e7ef9428f5acd", null ],
+    [ "UpdateAI", "d3/d83/a13406.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
+    [ "_events", "d3/d83/a13406.html#a1b310b07481366042dc45f7a27ce6408", null ],
+    [ "_path", "d3/d83/a13406.html#a907db8e6148947248b5bcfdb35023e16", null ],
+    [ "_realenGUID", "d3/d83/a13406.html#aad06364be8698b5ba69cd229e2a5085b", null ]
 ];

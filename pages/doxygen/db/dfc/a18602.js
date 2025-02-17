@@ -1,7 +1,6 @@
 var a18602 =
 [
-    [ "DelayedCastMincharEvent", "db/dfc/a18602.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "db/dfc/a18602.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "db/dfc/a18602.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "db/dfc/a18602.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "dd/d71/a18606.html", "dd/d71/a18606" ],
+    [ "npc_icc_skybreaker_hierophant", "db/dfc/a18602.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
+    [ "GetAI", "db/dfc/a18602.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
 ];

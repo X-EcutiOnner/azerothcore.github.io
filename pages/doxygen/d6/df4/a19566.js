@@ -1,6 +1,6 @@
 var a19566 =
 [
-    [ "boss_flame_leviathan_seatAI", "d8/d11/a19570.html", "d8/d11/a19570" ],
-    [ "boss_flame_leviathan_seat", "d6/df4/a19566.html#a0fc90640a5142d889f1c043270582a16", null ],
-    [ "GetAI", "d6/df4/a19566.html#a0e17225aeb93e0a5f5442c4ac2362af8", null ]
+    [ "PrepareSpellScript", "d6/df4/a19566.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "d6/df4/a19566.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "d6/df4/a19566.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

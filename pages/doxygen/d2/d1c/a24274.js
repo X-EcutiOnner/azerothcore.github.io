@@ -1,14 +1,10 @@
 var a24274 =
 [
-    [ "Absorb", "d2/d1c/a24274.html#a401274543919a81efea81008f8020ed1", null ],
-    [ "CalculateAmount", "d2/d1c/a24274.html#a837b0e3f0135f7b8393f1ee630d90c50", null ],
-    [ "HandleEffectApply", "d2/d1c/a24274.html#a0acb2be86ed6da238e8769d4871526d3", null ],
-    [ "HandleEffectRemove", "d2/d1c/a24274.html#a2b1e9dbb5d3543acd36f9253f224b9a7", null ],
-    [ "Load", "d2/d1c/a24274.html#ab22271735c240c0d375324f54efc8313", null ],
-    [ "PrepareAuraScript", "d2/d1c/a24274.html#af040fefa0f25f319f98340b9908bb85e", null ],
-    [ "Register", "d2/d1c/a24274.html#af89379413ea3b10477ea267ac8e51004", null ],
-    [ "Trigger", "d2/d1c/a24274.html#ae1704ed58255389c7483f75b5f0a227c", null ],
-    [ "Validate", "d2/d1c/a24274.html#a58faaf03fc6a0974049da2af0fc70825", null ],
-    [ "absorbPct", "d2/d1c/a24274.html#a3a9bd069cf4732f64990277227d71d0d", null ],
-    [ "hpPct", "d2/d1c/a24274.html#a83ef3e3f9534366c24311f3281a8d0b8", null ]
+    [ "npc_pet_hunter_snake_trap", "d2/d1c/a24274.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "EnterEvadeMode", "d2/d1c/a24274.html#a819add0c7b968063403d10275fdc289f", null ],
+    [ "MoveInLineOfSight", "d2/d1c/a24274.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
+    [ "Reset", "d2/d1c/a24274.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
+    [ "UpdateAI", "d2/d1c/a24274.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_init", "d2/d1c/a24274.html#a1b5c1301389749f82667c35f3daff847", null ],
+    [ "_spellTimer", "d2/d1c/a24274.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

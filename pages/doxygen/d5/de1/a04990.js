@@ -1,8 +1,11 @@
 var a04990 =
 [
-    [ "GModelRayCallback", "d5/de1/a04990.html#a39bc53ae3bf18800ea215a5a54568606", null ],
-    [ "operator()", "d5/de1/a04990.html#af0072bed861fb89a63c37fd72482ed42", null ],
-    [ "hit", "d5/de1/a04990.html#ad8861bd8f8c15ff9955c62f5cb1e13bf", null ],
-    [ "triangles", "d5/de1/a04990.html#a09ef515a1b16d184071e708ed9245b3d", null ],
-    [ "vertices", "d5/de1/a04990.html#af80815b123c6611f38e3d5b41e501546", null ]
+    [ "ModelPosition", "d5/de1/a04990.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
+    [ "init", "d5/de1/a04990.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
+    [ "moveToBasePos", "d5/de1/a04990.html#a2fe1b48319a056f110ef700877257731", null ],
+    [ "transform", "d5/de1/a04990.html#add4c2efec70be75d8ffcd1009b6c2699", null ],
+    [ "iDir", "d5/de1/a04990.html#a24ba62281166e60036ac8a57b26c6abd", null ],
+    [ "iPos", "d5/de1/a04990.html#a36a3bd930273e0313e3b09c1289e9317", null ],
+    [ "iRotation", "d5/de1/a04990.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
+    [ "iScale", "d5/de1/a04990.html#a81bb029dce2aadec2f147a1329ee285e", null ]
 ];

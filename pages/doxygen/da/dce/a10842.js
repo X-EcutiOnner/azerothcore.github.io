@@ -1,5 +1,7 @@
 var a10842 =
 [
-    [ "SocketAdded", "da/dce/a10842.html#a89b23aa46aca3772ad0c0f36f41db537", null ],
-    [ "SocketRemoved", "da/dce/a10842.html#a4f4ec084812a4191a477f7fa9223fa6e", null ]
+    [ "UpdateWorldState", "da/dce/a10842.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
+    [ "Write", "da/dce/a10842.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
+    [ "Value", "da/dce/a10842.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
+    [ "VariableID", "da/dce/a10842.html#aa73278b324822f509f48e6edcdaed457", null ]
 ];

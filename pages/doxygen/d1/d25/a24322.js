@@ -1,7 +1,6 @@
 var a24322 =
 [
-    [ "CalcDamage", "d1/d25/a24322.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
-    [ "PrepareSpellScript", "d1/d25/a24322.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
-    [ "Register", "d1/d25/a24322.html#a857a010e6426e931ca872f66803b99b9", null ],
-    [ "Validate", "d1/d25/a24322.html#ab64625ce305efb9dc92780c945b4fd62", null ]
+    [ "HandlePeriodic", "d1/d25/a24322.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
+    [ "PrepareAuraScript", "d1/d25/a24322.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
+    [ "Register", "d1/d25/a24322.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
 ];

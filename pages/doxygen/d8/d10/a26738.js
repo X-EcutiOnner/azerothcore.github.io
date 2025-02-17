@@ -1,5 +1,7 @@
 var a26738 =
 [
-    [ "achievement_bg_av_perfection", "d8/d10/a26738.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "d8/d10/a26738.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "HandleDummy", "d8/d10/a26738.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
+    [ "PrepareSpellScript", "d8/d10/a26738.html#a24634405a8d0ccdd22f4832815262446", null ],
+    [ "Register", "d8/d10/a26738.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
+    [ "Validate", "d8/d10/a26738.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
 ];

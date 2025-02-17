@@ -1,7 +1,7 @@
 var a26542 =
 [
-    [ "HandleTeleport", "d1/dea/a26542.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
-    [ "PrepareAuraScript", "d1/dea/a26542.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
-    [ "Register", "d1/dea/a26542.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
-    [ "Validate", "d1/dea/a26542.html#adabf22bd591a10662ffbf0354a18a936", null ]
+    [ "HandleEffectProc", "d1/dea/a26542.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
+    [ "PrepareAuraScript", "d1/dea/a26542.html#a47d844a9700cd8add793e3f3088d1b82", null ],
+    [ "Register", "d1/dea/a26542.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
+    [ "Validate", "d1/dea/a26542.html#a97f5239399e7135b02000722eaf837ad", null ]
 ];

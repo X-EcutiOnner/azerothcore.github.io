@@ -1,7 +1,8 @@
 var a21270 =
 [
-    [ "npc_mootoo_the_youngerAI", "d8/d63/a21270.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "d8/d63/a21270.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "d8/d63/a21270.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "d8/d63/a21270.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "npc_azure_raiderAI", "d8/d63/a21270.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
+    [ "Reset", "d8/d63/a21270.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
+    [ "UpdateAI", "d8/d63/a21270.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
+    [ "uiConcussionBlowTimer", "d8/d63/a21270.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
+    [ "uiMagicReflectionTimer", "d8/d63/a21270.html#acb262ab506ea58201abfe2057525c548", null ]
 ];

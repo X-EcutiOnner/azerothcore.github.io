@@ -1,8 +1,12 @@
 var a12482 =
 [
-    [ "npc_tito", "d5/d81/a12482.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "d5/d81/a12482.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "d5/d81/a12482.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "d5/d81/a12482.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "d5/d81/a12482.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "BoardCell", "d5/d81/a12482.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
+    [ "Reset", "d5/d81/a12482.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
+    [ "SetData", "d5/d81/a12482.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
+    [ "SetPiece", "d5/d81/a12482.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
+    [ "col", "d5/d81/a12482.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
+    [ "pieceEntry", "d5/d81/a12482.html#a7697506ccc800d38968e457c44bfa019", null ],
+    [ "pieceGUID", "d5/d81/a12482.html#a74f494e406c56d4c61d79539acea684c", null ],
+    [ "row", "d5/d81/a12482.html#a195c187e134be546f224cbb0eef8c844", null ],
+    [ "triggerGUID", "d5/d81/a12482.html#a9cafdea50739b014a97e60611adcd3f1", null ]
 ];

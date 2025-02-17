@@ -1,9 +1,10 @@
 var a27266 =
 [
-    [ "npc_chicken_cluckAI", "da/dab/a27266.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "da/dab/a27266.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "da/dab/a27266.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "da/dab/a27266.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "da/dab/a27266.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "da/dab/a27266.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "npc_prof_blacksmith", "da/dab/a27266.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
+    [ "HasWeaponSub", "da/dab/a27266.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
+    [ "OnGossipHello", "da/dab/a27266.html#a9a432c1ec33578949110c877fc6a686d", null ],
+    [ "OnGossipSelect", "da/dab/a27266.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
+    [ "SendActionMenu", "da/dab/a27266.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
+    [ "SendConfirmLearn", "da/dab/a27266.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
+    [ "SendConfirmUnlearn", "da/dab/a27266.html#a851dc241d944bc888a00df85bff17e3a", null ]
 ];

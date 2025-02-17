@@ -1,6 +1,6 @@
 var a22734 =
 [
-    [ "HandleSchoolDamage", "d2/d9d/a22734.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
-    [ "PrepareSpellScript", "d2/d9d/a22734.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
-    [ "Register", "d2/d9d/a22734.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
+    [ "boss_essence_of_desireAI", "d0/de6/a22738.html", "d0/de6/a22738" ],
+    [ "boss_essence_of_desire", "d2/d9d/a22734.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
+    [ "GetAI", "d2/d9d/a22734.html#a14b66470c508fa24e214062aeec0aae6", null ]
 ];

@@ -1,15 +1,11 @@
 var a23330 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d4/ddf/a23330.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
-    [ "Initialize", "d4/ddf/a23330.html#afa054fb11fe777019baa70f46bfd8212", null ],
-    [ "OnCreatureCreate", "d4/ddf/a23330.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
-    [ "OnCreatureRemove", "d4/ddf/a23330.html#a727d4d3bfc52391a088e86fef013617c", null ],
-    [ "OnGameObjectCreate", "d4/ddf/a23330.html#a020584d79926d170c02655c5e2841127", null ],
-    [ "OnGameObjectRemove", "d4/ddf/a23330.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
-    [ "SetBossState", "d4/ddf/a23330.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
-    [ "SetData", "d4/ddf/a23330.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
-    [ "_columnSet", "d4/ddf/a23330.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
-    [ "_cubesSet", "d4/ddf/a23330.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
-    [ "_magtheridonGUID", "d4/ddf/a23330.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
-    [ "_wardersSet", "d4/ddf/a23330.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
+    [ "boss_krosh_firehand", "d4/ddf/a23330.html#a1ef3618844f086de7875f26e7e6190f9", null ],
+    [ "AttackStart", "d4/ddf/a23330.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
+    [ "JustDied", "d4/ddf/a23330.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
+    [ "JustEngagedWith", "d4/ddf/a23330.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
+    [ "Reset", "d4/ddf/a23330.html#a989c4b762a7cdb228b245e91881d97a2", null ],
+    [ "UpdateAI", "d4/ddf/a23330.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
+    [ "_scheduler", "d4/ddf/a23330.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
+    [ "instance", "d4/ddf/a23330.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
 ];

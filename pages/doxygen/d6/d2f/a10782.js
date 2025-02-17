@@ -1,5 +1,4 @@
 var a10782 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "d6/d2f/a10782.html#a9d821669804cd04cf121e141d94ead36", null ],
-    [ "Initialize", "d6/d2f/a10782.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
+    [ "PacketArrayMaxCapacityException", "d6/d2f/a10782.html#ad71e0267bc6c9e5d182954eaa174c40e", null ]
 ];

@@ -1,6 +1,7 @@
 var a07626 =
 [
-    [ "Rank", "d7/d8d/a07626.html#abd26e25c76d5344dfdd94547b2f310d4", null ],
-    [ "Spell", "d7/d8d/a07626.html#a0cb15c7c1e640b5a6acc8f8d94e6c719", null ],
-    [ "Talent", "d7/d8d/a07626.html#ae39546dc8db233709131b388a3868c1a", null ]
+    [ "value_type", "d7/d8d/a07626.html#a7a7bb2f2de595ea6ca37885da6f63b9f", null ],
+    [ "TryConsume", "d7/d8d/a07626.html#ad98dd12bf2b9d4c5a3812d91232c4b8e", null ],
+    [ "_storage", "d7/d8d/a07626.html#a0480bb23bf5c47ac03935901211952b5", null ],
+    [ "_string", "d7/d8d/a07626.html#ae0538263243f423c8f86459300aec8d7", null ]
 ];

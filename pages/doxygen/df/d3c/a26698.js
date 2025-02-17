@@ -1,5 +1,6 @@
 var a26698 =
 [
-    [ "achievement_resilient_victory", "df/d3c/a26698.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "df/d3c/a26698.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "PrepareAuraScript", "df/d3c/a26698.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "df/d3c/a26698.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "df/d3c/a26698.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

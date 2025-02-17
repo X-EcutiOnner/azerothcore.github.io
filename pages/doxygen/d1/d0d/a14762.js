@@ -1,8 +1,5 @@
 var a14762 =
 [
-    [ "npc_obsidian_destroyer", "d1/d0d/a14762.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
-    [ "JustDied", "d1/d0d/a14762.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
-    [ "JustEngagedWith", "d1/d0d/a14762.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
-    [ "Reset", "d1/d0d/a14762.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
-    [ "UpdateAI", "d1/d0d/a14762.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
+    [ "npc_idol_room_spawnerAI", "d1/d0d/a14762.html#a77c4aa88d213271166158c8e75d41a69", null ],
+    [ "SetData", "d1/d0d/a14762.html#aa0626c837086b4a275f4d51d1659a242", null ]
 ];

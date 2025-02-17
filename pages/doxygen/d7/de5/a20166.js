@@ -1,9 +1,6 @@
 var a20166 =
 [
-    [ "npc_ulduar_bot_summon_triggerAI", "d7/de5/a20166.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
-    [ "DoAction", "d7/de5/a20166.html#ac5d0e28ee330741da3b287d965537f39", null ],
-    [ "Reset", "d7/de5/a20166.html#a91207c04ecee6fc0e906133e054bf51b", null ],
-    [ "UpdateAI", "d7/de5/a20166.html#aebec433e806d4f63f5593db0301612b4", null ],
-    [ "option", "d7/de5/a20166.html#a98bb19fea19a05127b4b32df039acf05", null ],
-    [ "timer", "d7/de5/a20166.html#a118d048557b0ed314180299c3cd2bcbc", null ]
+    [ "boss_kologarnAI", "d0/d0c/a20170.html", "d0/d0c/a20170" ],
+    [ "boss_kologarn", "d7/de5/a20166.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
+    [ "GetAI", "d7/de5/a20166.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
 ];

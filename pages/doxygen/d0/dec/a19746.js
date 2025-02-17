@@ -1,6 +1,6 @@
 var a19746 =
 [
-    [ "boss_freya_elder_stonebarkAI", "d5/da3/a19750.html", "d5/da3/a19750" ],
-    [ "boss_freya_elder_stonebark", "d0/dec/a19746.html#a9c90c504d78456580ae657a42fac4075", null ],
-    [ "GetAI", "d0/dec/a19746.html#a0b529bb8755c56046c40b620ef4b7448", null ]
+    [ "npc_pool_of_tarAI", "d5/da3/a19750.html", "d5/da3/a19750" ],
+    [ "npc_pool_of_tar", "d0/dec/a19746.html#a9c585318b4507babe77b3ba758b06a87", null ],
+    [ "GetAI", "d0/dec/a19746.html#ae77bf48a72ce49f821085f32127e91dc", null ]
 ];

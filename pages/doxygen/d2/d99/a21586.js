@@ -1,8 +1,6 @@
 var a21586 =
 [
-    [ "AfterApply", "d2/d99/a21586.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "d2/d99/a21586.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "d2/d99/a21586.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "d2/d99/a21586.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "d2/d99/a21586.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d2/d99/a21586.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "d2/d99/a21586.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "d2/d99/a21586.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

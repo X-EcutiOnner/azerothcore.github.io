@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['acore_20daemon_0',['Acore Daemon',['../d7/d47/a04685.html',1,'']]]
+  ['acore_20daemon_0',['Acore Daemon',['../d3/d06/a04733.html',1,'']]]
 ];

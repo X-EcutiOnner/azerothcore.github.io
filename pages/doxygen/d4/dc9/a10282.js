@@ -1,6 +1,5 @@
 var a10282 =
 [
-    [ "ShowingCloak", "d4/dc9/a10282.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
-    [ "Read", "d4/dc9/a10282.html#ad72ae43efc070655aa078d9985369442", null ],
-    [ "ShowCloak", "d4/dc9/a10282.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
+    [ "MovementHandlerScript", "d4/dc9/a10282.html#aeeeb5fe81eebc04fc317e726782be3ab", null ],
+    [ "OnPlayerMove", "d4/dc9/a10282.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
 ];

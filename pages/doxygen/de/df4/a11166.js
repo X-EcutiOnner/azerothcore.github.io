@@ -1,12 +1,10 @@
 var a11166 =
 [
-    [ "BroadcastTextBuilder", "de/df4/a11166.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
-    [ "operator()", "de/df4/a11166.html#a16f9719278e00013c25902846fa1be5b", null ],
-    [ "operator()", "de/df4/a11166.html#ac87701626dddffb6b09bf504b97c4d55", null ],
-    [ "_achievementId", "de/df4/a11166.html#a82de25331657b17ce0de33f2b374abda", null ],
-    [ "_gender", "de/df4/a11166.html#a71032b0749dd75f552107503528e8166", null ],
-    [ "_msgType", "de/df4/a11166.html#a232325cefa217843da5cc6db7e5d80fe", null ],
-    [ "_source", "de/df4/a11166.html#ab73315225b3aa36a309f45596f7089f4", null ],
-    [ "_target", "de/df4/a11166.html#a958b154f3c82188e9684be0f0b7dae56", null ],
-    [ "_textId", "de/df4/a11166.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
+    [ "EffectHook", "de/df4/a11166.html#a4a197e061d918dfba2bc486f3393b00d", null ],
+    [ "~EffectHook", "de/df4/a11166.html#aa234f63b530764d12064acbe3f5c9299", null ],
+    [ "CheckEffect", "de/df4/a11166.html#ae8823c5d649d182f572818bf3db72902", null ],
+    [ "EffIndexToString", "de/df4/a11166.html#ab818ed274cfd66ecc565b8535b751517", null ],
+    [ "GetAffectedEffectsMask", "de/df4/a11166.html#a31faa86590e22f5ab3ca518f4df02840", null ],
+    [ "IsEffectAffected", "de/df4/a11166.html#a697041ffa562bb6fff792beb159c7af2", null ],
+    [ "effIndex", "de/df4/a11166.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
 ];

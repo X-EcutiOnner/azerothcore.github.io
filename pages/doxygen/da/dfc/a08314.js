@@ -1,5 +1,12 @@
 var a08314 =
 [
-    [ "PositionXYZStreamer", "da/dfc/a08314.html#a8da1be6111bd97ef68d62d0d9d630c56", null ],
-    [ "m_pos", "da/dfc/a08314.html#ae5db7cb3adba811c0b9483645a7f1770", null ]
+    [ "WorldObjectChangeAccumulator", "da/dfc/a08314.html#a853a5c84dec75f115eddd3e1b7ff0b78", null ],
+    [ "BuildPacket", "da/dfc/a08314.html#ab4b9da3effe2a4f6e2cb6ecf268f429c", null ],
+    [ "Visit", "da/dfc/a08314.html#ae18ca5886c95a6c4c00bdbc1920a5655", null ],
+    [ "Visit", "da/dfc/a08314.html#a9afa50ac9e36cd357706e8e838df56a0", null ],
+    [ "Visit", "da/dfc/a08314.html#aec62fc91f4b364e72a3d5afd5a1a7276", null ],
+    [ "Visit", "da/dfc/a08314.html#a9815c06dbd29710cac2c99301c17b01c", null ],
+    [ "i_object", "da/dfc/a08314.html#ab94d7f943107060caf742f9b6cca92e4", null ],
+    [ "i_playerSet", "da/dfc/a08314.html#a0e17c2bf7a78cf5ef68e6fc7b29f0262", null ],
+    [ "i_updateDatas", "da/dfc/a08314.html#a1446b9dae0dfc0325228870c815da23a", null ]
 ];

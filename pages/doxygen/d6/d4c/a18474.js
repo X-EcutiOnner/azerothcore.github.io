@@ -1,7 +1,6 @@
 var a18474 =
 [
-    [ "HandleDummy", "d6/d4c/a18474.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "d6/d4c/a18474.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "d6/d4c/a18474.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "d6/d4c/a18474.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "npc_captain_brandonAI", "d6/d4c/a18474.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "d6/d4c/a18474.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "d6/d4c/a18474.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

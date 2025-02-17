@@ -1,6 +1,6 @@
 var a15570 =
 [
-    [ "instance_ahnkahet_InstanceScript", "db/da1/a15574.html", "db/da1/a15574" ],
-    [ "instance_ahnkahet", "dd/dae/a15570.html#afbe11bc040019231878cf31cc357830b", null ],
-    [ "GetInstanceScript", "dd/dae/a15570.html#a8847099c88f11de363c45e27998f10b7", null ]
+    [ "creatureID", "dd/dae/a15570.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "dd/dae/a15570.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "dd/dae/a15570.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

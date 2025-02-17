@@ -1,6 +1,5 @@
 var a16802 =
 [
-    [ "npc_pos_freed_slaveAI", "d6/da7/a16806.html", "d6/da7/a16806" ],
-    [ "npc_pos_freed_slave", "d2/d40/a16802.html#a19fd79279646cb1c49c04056636615fc", null ],
-    [ "GetAI", "d2/d40/a16802.html#ac798c2584d48892162cc2bc779701e16", null ]
+    [ "at_hor_battered_hilt_throw", "d2/d40/a16802.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
+    [ "OnTrigger", "d2/d40/a16802.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
 ];

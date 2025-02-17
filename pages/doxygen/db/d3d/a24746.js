@@ -1,6 +1,7 @@
 var a24746 =
 [
-    [ "HandleScript", "db/d3d/a24746.html#a913c8c461f291ccaad2f48614c0146c6", null ],
-    [ "PrepareSpellScript", "db/d3d/a24746.html#a18913a7455cf3f158136f2d3bb415779", null ],
-    [ "Register", "db/d3d/a24746.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
+    [ "HandleEffectRemove", "db/d3d/a24746.html#a3d6b6ae0bde8ae51362c95df82604d68", null ],
+    [ "PrepareAuraScript", "db/d3d/a24746.html#aa07b231cc76afb098ac8bc92eb050c80", null ],
+    [ "Register", "db/d3d/a24746.html#aa381143f36a6443dfb1f0d66ce81c351", null ],
+    [ "AuraEffectHandleModes", "db/d3d/a24746.html#a97370dd3f7c3e58a719090176c397386", null ]
 ];

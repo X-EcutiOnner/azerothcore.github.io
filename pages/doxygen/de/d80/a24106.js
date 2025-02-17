@@ -1,6 +1,7 @@
 var a24106 =
 [
-    [ "achievement", "de/d80/a24106.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "de/d80/a24106.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "de/d80/a24106.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "npc_kservantAI", "de/d80/a24106.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "de/d80/a24106.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "de/d80/a24106.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "de/d80/a24106.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
 ];

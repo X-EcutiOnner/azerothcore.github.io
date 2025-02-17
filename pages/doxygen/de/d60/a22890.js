@@ -1,12 +1,7 @@
 var a22890 =
 [
-    [ "boss_leotheras_the_blind", "de/d60/a22890.html#a9229850f996812366a20508931965a87", null ],
-    [ "AttackStart", "de/d60/a22890.html#a678ed3eba7d53976fd6efa9051d11124", null ],
-    [ "DemonTime", "de/d60/a22890.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
-    [ "DoAction", "de/d60/a22890.html#a4f3fd791f12b3f176ce109237c516889", null ],
-    [ "ElfTime", "de/d60/a22890.html#a52f101530de8883231faa7f5fe689691", null ],
-    [ "MoveToTargetIfOutOfRange", "de/d60/a22890.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
-    [ "Reset", "de/d60/a22890.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
-    [ "UpdateAI", "de/d60/a22890.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
-    [ "_recentlySpoken", "de/d60/a22890.html#ad5231f13a247247dd7095b16c381fc7c", null ]
+    [ "PrepareAuraScript", "de/d60/a22890.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
+    [ "Register", "de/d60/a22890.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
+    [ "Update", "de/d60/a22890.html#a3f98767367564734c9877d1870aac31b", null ],
+    [ "Validate", "de/d60/a22890.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
 ];

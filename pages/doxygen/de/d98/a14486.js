@@ -1,6 +1,7 @@
 var a14486 =
 [
-    [ "instance_culling_of_stratholme_InstanceMapScript", "d5/d04/a14490.html", "d5/d04/a14490" ],
-    [ "instance_culling_of_stratholme", "de/d98/a14486.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
-    [ "GetInstanceScript", "de/d98/a14486.html#ad8cbcb198666d44d79d6255d066c8315", null ]
+    [ "hyjalJainaAI", "d5/d04/a14490.html", "d5/d04/a14490" ],
+    [ "npc_hyjal_jaina", "de/d98/a14486.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "de/d98/a14486.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "de/d98/a14486.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

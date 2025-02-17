@@ -1,6 +1,6 @@
 var a20050 =
 [
-    [ "boss_kologarn_armsAI", "d6/dfd/a20054.html", "d6/dfd/a20054" ],
-    [ "boss_kologarn_arms", "df/d2b/a20050.html#ad540d28bb4b8a2be0ca0769f114c3eda", null ],
-    [ "GetAI", "df/d2b/a20050.html#a9ffe4db97d937e01c5ab2008a011f67d", null ]
+    [ "npc_ulduar_hodir_shamanAI", "d6/dfd/a20054.html", "d6/dfd/a20054" ],
+    [ "npc_ulduar_hodir_shaman", "df/d2b/a20050.html#ae73a416c72441ab531d8a5db88183d47", null ],
+    [ "GetAI", "df/d2b/a20050.html#ab06a67b72a3954c65792a478ac90672c", null ]
 ];

@@ -1,7 +1,7 @@
 var a20070 =
 [
-    [ "StoneGripTargetSelector", "dc/dc1/a20070.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
-    [ "operator()", "dc/dc1/a20070.html#ae40653def55e656f2347029a97605395", null ],
-    [ "_me", "dc/dc1/a20070.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
-    [ "_victim", "dc/dc1/a20070.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
+    [ "HandleEffectPeriodic", "dc/dc1/a20070.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "dc/dc1/a20070.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "dc/dc1/a20070.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "dc/dc1/a20070.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

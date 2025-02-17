@@ -1,9 +1,7 @@
 var a19310 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "d0/de0/a19310.html#aac57ae32188c47ca97b7331d62986e66", null ],
-    [ "JustDied", "d0/de0/a19310.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
-    [ "JustEngagedWith", "d0/de0/a19310.html#a772d279407d724477560898559710433", null ],
-    [ "Reset", "d0/de0/a19310.html#a5b4a726aa496923d81c41b038e5f7449", null ],
-    [ "UpdateAI", "d0/de0/a19310.html#a2745ff26c165851c367e080d28652984", null ],
-    [ "events", "d0/de0/a19310.html#a468d45f9b9c2172f326068d59a74121a", null ]
+    [ "HandleOnEffectApply", "d0/de0/a19310.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "d0/de0/a19310.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "d0/de0/a19310.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "d0/de0/a19310.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

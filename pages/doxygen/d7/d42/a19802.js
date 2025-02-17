@@ -1,6 +1,8 @@
 var a19802 =
 [
-    [ "boss_freya_nature_bombAI", "df/d43/a19806.html", "df/d43/a19806" ],
-    [ "boss_freya_nature_bomb", "d7/d42/a19802.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
-    [ "GetAI", "d7/d42/a19802.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
+    [ "Area", "d7/d42/a19802.html#a0b9dc74e944f13e3291184645f432477", [
+      [ "AREA_FORMATION_GROUNDS", "d7/d42/a19802.html#a0b9dc74e944f13e3291184645f432477a92a09caedcec4a8b97c3e4601308d450", null ]
+    ] ],
+    [ "FlameLeviathanPursuedTargetSelector", "d7/d42/a19802.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
+    [ "operator()", "d7/d42/a19802.html#aaa2a49366fb651f7486b463ce597f364", null ]
 ];

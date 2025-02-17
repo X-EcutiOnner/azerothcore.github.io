@@ -1,12 +1,7 @@
 var a23254 =
 [
-    [ "boss_omor_the_unscarred", "dd/ded/a23254.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "dd/ded/a23254.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "dd/ded/a23254.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "dd/ded/a23254.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "dd/ded/a23254.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "dd/ded/a23254.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "dd/ded/a23254.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "dd/ded/a23254.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "dd/ded/a23254.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "HandleScript", "dd/ded/a23254.html#a8933535f9507b90b54032c17985cc3c6", null ],
+    [ "PrepareSpellScript", "dd/ded/a23254.html#acadb563eaeffac47b3f883f9d8c37994", null ],
+    [ "Register", "dd/ded/a23254.html#a797ae84dcb0fc13b0799934bde71809c", null ],
+    [ "Validate", "dd/ded/a23254.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
 ];

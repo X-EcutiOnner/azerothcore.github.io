@@ -1,7 +1,11 @@
 var a18198 =
 [
-    [ "npc_valithria_portalAI", "dc/d56/a18198.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "dc/d56/a18198.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "dc/d56/a18198.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "dc/d56/a18198.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "npc_terenas_menethilAI", "dc/d56/a18198.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
+    [ "CanAIAttack", "dc/d56/a18198.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
+    [ "DamageTaken", "dc/d56/a18198.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
+    [ "DoAction", "dc/d56/a18198.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
+    [ "EnterEvadeMode", "dc/d56/a18198.html#ada5313b34e8c20c82ac97396e54e27df", null ],
+    [ "UpdateAI", "dc/d56/a18198.html#a6210ca6e5e954d5c66d2108359efc888", null ],
+    [ "_events", "dc/d56/a18198.html#ae61e4919b99a2b9195a389992947a125", null ],
+    [ "_instance", "dc/d56/a18198.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
 ];

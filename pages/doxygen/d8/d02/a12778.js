@@ -1,8 +1,7 @@
 var a12778 =
 [
-    [ "DelayedSummonEvent", "d8/d02/a12778.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
-    [ "Execute", "d8/d02/a12778.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
-    [ "_entry", "d8/d02/a12778.html#a24d72110a070eb0bd03af081ef616de4", null ],
-    [ "_owner", "d8/d02/a12778.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
-    [ "_pos", "d8/d02/a12778.html#aef19987803a1cce47cbd8d9005a288ac", null ]
+    [ "HandleScriptEffect", "d8/d02/a12778.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "d8/d02/a12778.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "d8/d02/a12778.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "d8/d02/a12778.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

@@ -1,6 +1,6 @@
 var a21882 =
 [
-    [ "npc_vekjik", "d4/d55/a21882.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "d4/d55/a21882.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "d4/d55/a21882.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "npc_lord_areteAI", "dd/d61/a21886.html", "dd/d61/a21886" ],
+    [ "npc_lord_arete", "d4/d55/a21882.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
+    [ "GetAI", "d4/d55/a21882.html#a212d003e9acb5f141197b5c4d10163a4", null ]
 ];

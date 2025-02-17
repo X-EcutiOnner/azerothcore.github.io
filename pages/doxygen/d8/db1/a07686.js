@@ -1,5 +1,5 @@
 var a07686 =
 [
-    [ "calcThreat", "d8/db1/a07686.html#a0f3da2af1c68a535ac2396dd600ee00b", null ],
-    [ "isValidProcess", "d8/db1/a07686.html#a86dca4bc12138bef3dd53d4b3356f5d2", null ]
+    [ "IsColorValid", "d8/db1/a07686.html#a4e2a1ab20d086987429174f41887bc45", null ],
+    [ "IsTextValid", "d8/db1/a07686.html#a4704555f7e926f8facce237de6772a3d", null ]
 ];

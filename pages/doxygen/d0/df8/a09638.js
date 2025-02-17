@@ -1,14 +1,21 @@
 var a09638 =
 [
-    [ "BattlegroundMap", "d0/df8/a09638.html#a3a9af8a69ac8d188d7fb86f2a9dda2c3", null ],
-    [ "~BattlegroundMap", "d0/df8/a09638.html#a327d241fd7930e9b3a98ba50014d5131", null ],
-    [ "AddPlayerToMap", "d0/df8/a09638.html#a0325279a2affc7b20a415a3b90a32fc0", null ],
-    [ "CannotEnter", "d0/df8/a09638.html#a493a1932eee44c346d9cfb7d13789bb6", null ],
-    [ "GetBG", "d0/df8/a09638.html#a2fcb965981bb03571f12c11cdbac54a4", null ],
-    [ "InitVisibilityDistance", "d0/df8/a09638.html#af2d6847765d10fab527d77b26dd770ad", null ],
-    [ "RemoveAllPlayers", "d0/df8/a09638.html#a5093cbf8005d06452eeb202513323c1e", null ],
-    [ "RemovePlayerFromMap", "d0/df8/a09638.html#aeddb9dfae8601e95b0a93cefc12c2612", null ],
-    [ "SetBG", "d0/df8/a09638.html#aaa9e5f830953b1a37a684ac566e9b768", null ],
-    [ "SetUnload", "d0/df8/a09638.html#a4c03b1aa9c4c53697ad6284825a1b9c1", null ],
-    [ "m_bg", "d0/df8/a09638.html#aa38fff695728ddedc94dd6eb6bd7bf3b", null ]
+    [ "LootGroup", "df/dae/a09618.html", "df/dae/a09618" ],
+    [ "LootGroups", "d0/df8/a09638.html#ae9845401121ac8712dc8dfac9c58c72e", null ],
+    [ "LootTemplate", "d0/df8/a09638.html#a533d3acacc8086a6f8f75013dd790a94", null ],
+    [ "~LootTemplate", "d0/df8/a09638.html#a90b641a69173129d7114c303cd5a31b5", null ],
+    [ "LootTemplate", "d0/df8/a09638.html#a73cc21e48ec8e63b2664a4ece9a3ab21", null ],
+    [ "addConditionItem", "d0/df8/a09638.html#afb33c896a89f0fe14e2b565bb746119e", null ],
+    [ "AddEntry", "d0/df8/a09638.html#a6efe32c6f83184ae0bf0423a7f23118a", null ],
+    [ "CheckLootRefs", "d0/df8/a09638.html#a19e8a2736ba5fd376ad3854cbc68867d", null ],
+    [ "CopyConditions", "d0/df8/a09638.html#a5935f936e90ecc860c49d256127d9726", null ],
+    [ "CopyConditions", "d0/df8/a09638.html#a477c848bcf79153cc430c8d03bbea054", null ],
+    [ "HasQuestDrop", "d0/df8/a09638.html#aedf8e446cdf391d14858994532d9b5c1", null ],
+    [ "HasQuestDropForPlayer", "d0/df8/a09638.html#aa59f5061e805cc732baecaba1175c7e9", null ],
+    [ "isReference", "d0/df8/a09638.html#acdf75466d9f29ff8a4532c4b6e15bd03", null ],
+    [ "operator=", "d0/df8/a09638.html#a92de3d68e0ec2ab31b1dd17279a3f832", null ],
+    [ "Process", "d0/df8/a09638.html#ae3f86961858f299f8e7ca683733bb127", null ],
+    [ "Verify", "d0/df8/a09638.html#adedb1f03278aaeac63deb3dd32e07329", null ],
+    [ "Entries", "d0/df8/a09638.html#aba1fdfb69c34a9d4a09428114d385621", null ],
+    [ "Groups", "d0/df8/a09638.html#aec4552a98c1e27935da8ef29c9449f87", null ]
 ];

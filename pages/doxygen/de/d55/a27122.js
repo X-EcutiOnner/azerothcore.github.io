@@ -1,5 +1,5 @@
 var a27122 =
 [
-    [ "item_petrov_cluster_bombs", "de/d55/a27122.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "de/d55/a27122.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "go_jump_a_tron", "de/d55/a27122.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
+    [ "OnGossipHello", "de/d55/a27122.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
 ];

@@ -1,6 +1,10 @@
 var a27354 =
 [
-    [ "npc_spring_rabbitAI", "d2/d20/a27358.html", "d2/d20/a27358" ],
-    [ "npc_spring_rabbit", "d3/da0/a27354.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "d3/da0/a27354.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "npc_training_dummyAI", "d3/da0/a27354.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
+    [ "DamageTaken", "d3/da0/a27354.html#a641c40906a6365f068ccbdba9d033923", null ],
+    [ "EnterEvadeMode", "d3/da0/a27354.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
+    [ "MoveInLineOfSight", "d3/da0/a27354.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
+    [ "Reset", "d3/da0/a27354.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
+    [ "UpdateAI", "d3/da0/a27354.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
+    [ "resetTimer", "d3/da0/a27354.html#a443f2f7de257af473d6e9793f34a2071", null ]
 ];

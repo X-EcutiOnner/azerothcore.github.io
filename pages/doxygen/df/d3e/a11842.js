@@ -1,14 +1,6 @@
 var a11842 =
 [
-    [ "boss_mor_grayhoof", "df/d3e/a11842.html#aef1001233a51ad3bb9963c540d39d79b", null ],
-    [ "CastRandomSpell", "df/d3e/a11842.html#a00756d64d24088ebf408153fcb59ff13", null ],
-    [ "DamageTaken", "df/d3e/a11842.html#a164a911eb9a86964a61866c05d44512f", null ],
-    [ "JustDied", "df/d3e/a11842.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
-    [ "JustEngagedWith", "df/d3e/a11842.html#a043f6ee099efd0d49982b2966604e65a", null ],
-    [ "Reset", "df/d3e/a11842.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
-    [ "UpdateAI", "df/d3e/a11842.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
-    [ "_phase", "df/d3e/a11842.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
-    [ "_scheduler", "df/d3e/a11842.html#ad2a897281d308475957e2636c6536fdd", null ],
-    [ "_sleepTargetGUID", "df/d3e/a11842.html#a8baa606696dc8acf532e8badfc6c624b", null ],
-    [ "_sleepTargetThreat", "df/d3e/a11842.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
+    [ "boss_grizzleAI", "db/d3d/a11846.html", "db/d3d/a11846" ],
+    [ "boss_grizzle", "df/d3e/a11842.html#a6c9913cec9503a86e2f5358f65b97b26", null ],
+    [ "GetAI", "df/d3e/a11842.html#aa0bf6c89f13fbd20695ebb7ce965b0f5", null ]
 ];

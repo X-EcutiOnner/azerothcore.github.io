@@ -1,7 +1,6 @@
 var a10926 =
 [
-    [ "chance", "d8/d6e/a10926.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "d8/d6e/a10926.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "d8/d6e/a10926.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "d8/d6e/a10926.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "WorldSession", "d8/d6e/a10926.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Guid", "d8/d6e/a10926.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
+    [ "Name", "d8/d6e/a10926.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
 ];

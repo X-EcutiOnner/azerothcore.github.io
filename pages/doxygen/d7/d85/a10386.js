@@ -1,8 +1,7 @@
 var a10386 =
 [
-    [ "GuildCommandResult", "d7/d85/a10386.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
-    [ "Write", "d7/d85/a10386.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
-    [ "Command", "d7/d85/a10386.html#a099cf9f39c403f76971d006245b03f29", null ],
-    [ "Name", "d7/d85/a10386.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
-    [ "Result", "d7/d85/a10386.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
+    [ "AutoStoreBankItem", "d7/d85/a10386.html#a1cdb7e9c7da7e646af14ac4ac3b7e950", null ],
+    [ "Read", "d7/d85/a10386.html#a2a482b716f537866a815085ead9cfd38", null ],
+    [ "Bag", "d7/d85/a10386.html#a08d2992816ee94b6757c2811b54ed437", null ],
+    [ "Slot", "d7/d85/a10386.html#aaf2cd8c1c3d67301cc40af78f138daa0", null ]
 ];

@@ -1,6 +1,7 @@
 var a24970 =
 [
-    [ "HandleCast", "dd/d08/a24970.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "dd/d08/a24970.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "dd/d08/a24970.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "HandleScript", "dd/d08/a24970.html#a8b20e2ffed94ec9438dc9b756ba76693", null ],
+    [ "PrepareSpellScript", "dd/d08/a24970.html#a9e29ea947d5415471d991a4e1cd699ac", null ],
+    [ "Register", "dd/d08/a24970.html#aa4bc27415893009581b317637599a85a", null ],
+    [ "Validate", "dd/d08/a24970.html#a77ed10819633ae2bc381023da0feb31b", null ]
 ];

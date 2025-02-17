@@ -1,10 +1,14 @@
 var a20062 =
 [
-    [ "boss_kologarn_eyebeamAI", "d2/daa/a20062.html#add083b2a9067753458de1eeb6bdca4c0", null ],
-    [ "DamageDealt", "d2/daa/a20062.html#a94a9181da10ffe737611cb281d60a952", null ],
-    [ "UpdateAI", "d2/daa/a20062.html#add60a709a1edf1684bd21358769590b4", null ],
-    [ "_damaged", "d2/daa/a20062.html#a7b49d9826efcf492c6e7ee003f481ccb", null ],
-    [ "_timer", "d2/daa/a20062.html#a766ad3e10016d97235499d1512c4da27", null ],
-    [ "justSpawned", "d2/daa/a20062.html#a8f01309b6533ea0adf85f43ba1ba1c26", null ],
-    [ "m_pInstance", "d2/daa/a20062.html#a4145bd7e5c80c4e62144b437d38624a4", null ]
+    [ "npc_ulduar_hodir_mageAI", "d2/daa/a20062.html#a118059c877151a9f6b2b15a4070e2704", null ],
+    [ "AttackStart", "d2/daa/a20062.html#a3217617eb3312c1da34dc7dce590fe0d", null ],
+    [ "CanAIAttack", "d2/daa/a20062.html#a66ea56e856fcc706e4f938512def1590", null ],
+    [ "EnterEvadeMode", "d2/daa/a20062.html#a6d4cd626dcd58f825a6c88b804bb38a7", null ],
+    [ "JustDied", "d2/daa/a20062.html#a0176f8b45c20af1552e1a8b70e307442", null ],
+    [ "MoveInLineOfSight", "d2/daa/a20062.html#aaf35c04462b1698e85df64190f4e2c8a", null ],
+    [ "ScheduleAbilities", "d2/daa/a20062.html#a7927f399ef1c89b3eb83804fde9b2700", null ],
+    [ "SpellHit", "d2/daa/a20062.html#aa814a46a45ce5eb9696c8f6c6de8c521", null ],
+    [ "UpdateAI", "d2/daa/a20062.html#acbbe6667360e5bb7576c1ea741c2e2f1", null ],
+    [ "events", "d2/daa/a20062.html#a556453c557df0be6a57255e400d98a87", null ],
+    [ "pInstance", "d2/daa/a20062.html#ac4677898f5612c01d98ab242c7628e8f", null ]
 ];

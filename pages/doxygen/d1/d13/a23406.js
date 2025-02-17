@@ -1,6 +1,8 @@
 var a23406 =
 [
-    [ "npc_warden_mellicharAI", "de/d80/a23410.html", "de/d80/a23410" ],
-    [ "npc_warden_mellichar", "d1/d13/a23406.html#aba5c3d005097430941bd40bbbb0d3562", null ],
-    [ "GetAI", "d1/d13/a23406.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d1/d13/a23406.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "d1/d13/a23406.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "d1/d13/a23406.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "d1/d13/a23406.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "d1/d13/a23406.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

@@ -1,7 +1,6 @@
 var a17374 =
 [
-    [ "FilterTargets", "df/ded/a17374.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
-    [ "Load", "df/ded/a17374.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
-    [ "PrepareSpellScript", "df/ded/a17374.html#a7526a6df4c25136f4be78e753c6abf62", null ],
-    [ "Register", "df/ded/a17374.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
+    [ "npc_gunshipAI", "d3/d42/a17378.html", "d3/d42/a17378" ],
+    [ "npc_gunship", "df/ded/a17374.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
+    [ "GetAI", "df/ded/a17374.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
 ];

@@ -1,6 +1,7 @@
 var a12278 =
 [
-    [ "boss_sulfuronAI", "de/db5/a12282.html", "de/db5/a12282" ],
-    [ "boss_sulfuron", "d0/d48/a12278.html#aed72791db02009136592b905cc4f4df3", null ],
-    [ "GetAI", "d0/d48/a12278.html#aced001845e4a9bb9f517d45a36f474c7", null ]
+    [ "HandleAfterApply", "d0/d48/a12278.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "d0/d48/a12278.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "d0/d48/a12278.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "d0/d48/a12278.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

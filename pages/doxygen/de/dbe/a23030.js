@@ -1,8 +1,6 @@
 var a23030 =
 [
-    [ "FilterTargets", "de/dbe/a23030.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
-    [ "HandleDummy", "de/dbe/a23030.html#addb3580259be74126b7de36d1b0a8a97", null ],
-    [ "PrepareSpellScript", "de/dbe/a23030.html#aba82de0886d03037de4564f9908b8c89", null ],
-    [ "Register", "de/dbe/a23030.html#a1650962493d48f5553a9e2771e594f1f", null ],
-    [ "Validate", "de/dbe/a23030.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
+    [ "OnPeriodic", "de/dbe/a23030.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
+    [ "PrepareAuraScript", "de/dbe/a23030.html#a8444053fa146a4163ea905634be78dfc", null ],
+    [ "Register", "de/dbe/a23030.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
 ];

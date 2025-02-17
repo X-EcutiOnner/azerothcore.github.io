@@ -1,6 +1,6 @@
 var a14602 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "d0/d0d/a14606.html", "d0/d0d/a14606" ],
-    [ "instance_onyxias_lair", "dc/d12/a14602.html#a1be32e45cb8af86477d300efb6e545cc", null ],
-    [ "GetInstanceScript", "dc/d12/a14602.html#abbdc474ce17bca0cb55180661c5204a8", null ]
+    [ "npc_cos_stratholme_citizienAI", "d0/d0d/a14606.html", "d0/d0d/a14606" ],
+    [ "npc_cos_stratholme_citizien", "dc/d12/a14602.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
+    [ "GetAI", "dc/d12/a14602.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
 ];

@@ -1,6 +1,6 @@
 var a21770 =
 [
-    [ "npc_boneguard_footmanAI", "da/df4/a21770.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "da/df4/a21770.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "da/df4/a21770.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "npc_venture_co_stragglerAI", "db/d3e/a21774.html", "db/d3e/a21774" ],
+    [ "npc_venture_co_straggler", "da/df4/a21770.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "da/df4/a21770.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

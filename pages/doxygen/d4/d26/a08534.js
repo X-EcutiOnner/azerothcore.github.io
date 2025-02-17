@@ -1,9 +1,10 @@
 var a08534 =
 [
-    [ "GlobalCooldownMgr", "d4/d26/a08534.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
-    [ "AddGlobalCooldown", "d4/d26/a08534.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
-    [ "CancelGlobalCooldown", "d4/d26/a08534.html#aed6b479416104dc536116fdb1e24fcf3", null ],
-    [ "GetGlobalCooldown", "d4/d26/a08534.html#ae44caed35e93f834ff68394c1ab6434b", null ],
-    [ "HasGlobalCooldown", "d4/d26/a08534.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
-    [ "m_GlobalCooldowns", "d4/d26/a08534.html#a80d03691d36758733f326b65992f266e", null ]
+    [ "EquipmentSet", "d4/d26/a08534.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "d4/d26/a08534.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "d4/d26/a08534.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "d4/d26/a08534.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "d4/d26/a08534.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "d4/d26/a08534.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "d4/d26/a08534.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

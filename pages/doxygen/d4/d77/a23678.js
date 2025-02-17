@@ -1,6 +1,7 @@
 var a23678 =
 [
-    [ "npc_nether_drakeAI", "d4/d75/a23682.html", "d4/d75/a23682" ],
-    [ "npc_nether_drake", "d4/d77/a23678.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "d4/d77/a23678.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "Load", "d4/d77/a23678.html#aba7e1a0b87607386649bb842b5058c3e", null ],
+    [ "OnRemove", "d4/d77/a23678.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
+    [ "PrepareAuraScript", "d4/d77/a23678.html#ac62b18eedbadb0b3581d772909175e96", null ],
+    [ "Register", "d4/d77/a23678.html#a17e8be131f01b2434b18740b20a08d6e", null ]
 ];

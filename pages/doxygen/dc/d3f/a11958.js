@@ -1,6 +1,6 @@
 var a11958 =
 [
-    [ "near_scarshield_infiltrator", "dc/d3f/a11958.html#a38d2e75946c429b4d80b007f190406bc", null ],
-    [ "OnTrigger", "dc/d3f/a11958.html#aeb761433e3210ce85c1de4dab653a87c", null ],
-    [ "whisperedTargets", "dc/d3f/a11958.html#a5655e241d2551798a960cb6375c7df23", null ]
+    [ "boss_lord_valthalakAI", "d0/d4c/a11962.html", "d0/d4c/a11962" ],
+    [ "boss_lord_valthalak", "dc/d3f/a11958.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
+    [ "GetAI", "dc/d3f/a11958.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
 ];

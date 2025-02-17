@@ -1,6 +1,8 @@
 var a26054 =
 [
-    [ "CheckProc", "d9/d41/a26054.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
-    [ "PrepareAuraScript", "d9/d41/a26054.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
-    [ "Register", "d9/d41/a26054.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
+    [ "CalculateAmount", "d9/d41/a26054.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
+    [ "PrepareAuraScript", "d9/d41/a26054.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
+    [ "ReflectDamage", "d9/d41/a26054.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
+    [ "Register", "d9/d41/a26054.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
+    [ "Validate", "d9/d41/a26054.html#af2936ba4a29fc8735a3cabe805c77355", null ]
 ];

@@ -1,6 +1,7 @@
 var a15966 =
 [
-    [ "boss_black_knightAI", "d4/dcd/a15970.html", "d4/dcd/a15970" ],
-    [ "boss_black_knight", "da/d74/a15966.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "da/d74/a15966.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "HandleScriptEffect", "da/d74/a15966.html#a9582a8faa1b8ba973a76d651a7479348", null ],
+    [ "PrepareSpellScript", "da/d74/a15966.html#a681102507df3aa365ee2e2f064be5e54", null ],
+    [ "Register", "da/d74/a15966.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
+    [ "Validate", "da/d74/a15966.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
 ];

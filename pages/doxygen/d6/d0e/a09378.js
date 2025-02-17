@@ -1,9 +1,8 @@
 var a09378 =
 [
-    [ "EmoteChatBuilder", "d6/d0e/a09378.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
-    [ "operator()", "d6/d0e/a09378.html#a133a7bb35e86cf40425910c4f19a3337", null ],
-    [ "i_emote_num", "d6/d0e/a09378.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
-    [ "i_player", "d6/d0e/a09378.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
-    [ "i_target", "d6/d0e/a09378.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
-    [ "i_text_emote", "d6/d0e/a09378.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
+    [ "AllCreaturesOfEntryInRange", "d6/d0e/a09378.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
+    [ "operator()", "d6/d0e/a09378.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
+    [ "m_fRange", "d6/d0e/a09378.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
+    [ "m_pObject", "d6/d0e/a09378.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
+    [ "m_uiEntry", "d6/d0e/a09378.html#abf653360d2ee482728fb137a37fe0512", null ]
 ];

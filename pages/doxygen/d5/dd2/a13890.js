@@ -1,10 +1,20 @@
 var a13890 =
 [
-    [ "npc_brewfest_super_brew_trigger", "d5/dd2/a13890.html#a3d2189978683150b1c431fa0fd637358", null ],
-    [ "AttackStart", "d5/dd2/a13890.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
-    [ "JustEngagedWith", "d5/dd2/a13890.html#a61be52cb8ba0cc10285820ad5324816e", null ],
-    [ "MoveInLineOfSight", "d5/dd2/a13890.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
-    [ "Reset", "d5/dd2/a13890.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
-    [ "UpdateAI", "d5/dd2/a13890.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
-    [ "timer", "d5/dd2/a13890.html#a2ebb06175e3142cca156e57e8386fe02", null ]
+    [ "boss_mandokirAI", "d5/dd2/a13890.html#a4ba4ac7fabd3e74dc10a00a3188252e9", null ],
+    [ "CalculateThreat", "d5/dd2/a13890.html#ad86e2b4c9078bc1b11b304f05679ca94", null ],
+    [ "DamageDealt", "d5/dd2/a13890.html#a0dca07b45b3293a0f19401b299fbfb9c", null ],
+    [ "DoAction", "d5/dd2/a13890.html#a7358c7abb58a6c9ec200d06246d00d41", null ],
+    [ "DoMeleeAttackIfReady", "d5/dd2/a13890.html#acf13e5898f110ad98a1aa745d3b998d7", null ],
+    [ "JustDied", "d5/dd2/a13890.html#a6bbc3ae1131f9becba0a35ea2e3a57dd", null ],
+    [ "JustEngagedWith", "d5/dd2/a13890.html#aa7ea6260e403a92ba415b82b4dd71026", null ],
+    [ "KilledUnit", "d5/dd2/a13890.html#a6230dc14db38d43fb060f028cfde9d32", null ],
+    [ "MovementInform", "d5/dd2/a13890.html#a909f7fffc7e38cc6b0bba4edd45cb348", null ],
+    [ "OnTeleportUnreacheablePlayer", "d5/dd2/a13890.html#a875c046b8a2f4a01bded282143c6d1d0", null ],
+    [ "Reset", "d5/dd2/a13890.html#a2b2267e3d7be6d16ffab031d2cb4a1a6", null ],
+    [ "SetGUID", "d5/dd2/a13890.html#a7c40febfbc4c594891b6eb87740b7345", null ],
+    [ "UpdateAI", "d5/dd2/a13890.html#a1037b770bb46400aef0ec034f86468fc", null ],
+    [ "_chargeTarget", "d5/dd2/a13890.html#a5040c31467e9d3c6edc30b9133ec6873", null ],
+    [ "_useExecute", "d5/dd2/a13890.html#a305f064869874d8620d794a7d26f6358", null ],
+    [ "killCount", "d5/dd2/a13890.html#a280e27385988e0f5cc65c60511bd4100", null ],
+    [ "reviveGUID", "d5/dd2/a13890.html#a7f955c8399167d3f3aa974596f398c13", null ]
 ];

@@ -1,7 +1,7 @@
 var a25802 =
 [
-    [ "HandleDummy", "de/de0/a25802.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
-    [ "PrepareSpellScript", "de/de0/a25802.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
-    [ "Register", "de/de0/a25802.html#adadd0254d68281ac1063bcc57574ed77", null ],
-    [ "Validate", "de/de0/a25802.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
+    [ "CalcPeriodic", "de/de0/a25802.html#a404e5309016cfcaa3071c0216978699e", null ],
+    [ "PrepareAuraScript", "de/de0/a25802.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
+    [ "Register", "de/de0/a25802.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
+    [ "AuraEffectHandleModes", "de/de0/a25802.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
 ];

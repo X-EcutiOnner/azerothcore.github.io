@@ -1,8 +1,8 @@
 var a18130 =
 [
-    [ "npc_lk_wicked_spiritAI", "d6/d9a/a18130.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
-    [ "CanAIAttack", "d6/d9a/a18130.html#ae094420b1a6e134632baa0b086c806c6", null ],
-    [ "JustDied", "d6/d9a/a18130.html#adf153fab1c8639b2b5790ed418afb85d", null ],
-    [ "JustRespawned", "d6/d9a/a18130.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
-    [ "Reset", "d6/d9a/a18130.html#a8b15079251b6855679d738a342126006", null ]
+    [ "ChangeDamageAndGrow", "d6/d9a/a18130.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "d6/d9a/a18130.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "d6/d9a/a18130.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "d6/d9a/a18130.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "d6/d9a/a18130.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

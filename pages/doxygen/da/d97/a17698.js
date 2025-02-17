@@ -1,7 +1,7 @@
 var a17698 =
 [
-    [ "HandleScript", "da/d97/a17698.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
-    [ "PrepareSpellScript", "da/d97/a17698.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
-    [ "Register", "da/d97/a17698.html#a2278ecef3dc60082ccb8964a34e55587", null ],
-    [ "Validate", "da/d97/a17698.html#aeee94330ee7ea9b4fd7447e642404119", null ]
+    [ "HandleScript", "da/d97/a17698.html#afc76149cb44a4d2aab48350fb4392036", null ],
+    [ "PrepareSpellScript", "da/d97/a17698.html#a8598de219c2402596fe97b5dd32c534e", null ],
+    [ "Register", "da/d97/a17698.html#ac9d4842632431e52932f66d09042ea70", null ],
+    [ "ScaleRange", "da/d97/a17698.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
 ];

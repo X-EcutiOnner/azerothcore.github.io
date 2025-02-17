@@ -1,12 +1,7 @@
 var a16606 =
 [
-    [ "npc_tortured_riflemanAI", "de/d4c/a16606.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
-    [ "AttackStart", "de/d4c/a16606.html#aaf2b73d0b60791f887207842580d91dc", null ],
-    [ "DoAction", "de/d4c/a16606.html#acb941c20d911a567c93bb0f92105fdfd", null ],
-    [ "EnterEvadeMode", "de/d4c/a16606.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
-    [ "JustDied", "de/d4c/a16606.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
-    [ "JustEngagedWith", "de/d4c/a16606.html#ac5d8f17c48269da06c14643e82c88567", null ],
-    [ "Reset", "de/d4c/a16606.html#a04f9c7056e063d436df66f079127d1a7", null ],
-    [ "UpdateAI", "de/d4c/a16606.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
-    [ "events", "de/d4c/a16606.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
+    [ "HandlePeriodicTick", "de/d4c/a16606.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
+    [ "PrepareAuraScript", "de/d4c/a16606.html#a93e894c642101160dd51f30952c82d24", null ],
+    [ "Register", "de/d4c/a16606.html#a49172ede0f888e391b9b4a835475220a", null ],
+    [ "Validate", "de/d4c/a16606.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
 ];

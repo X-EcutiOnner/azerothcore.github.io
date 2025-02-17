@@ -1,6 +1,7 @@
 var a20198 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "df/d0d/a20202.html", "df/d0d/a20202" ],
-    [ "npc_ulduar_emergency_fire_bot", "d5/d80/a20198.html#a1adc05ac4602ab2b297b18f605bfd2cd", null ],
-    [ "GetAI", "d5/d80/a20198.html#afb3ab952495175c5f571d4e39a5acea4", null ]
+    [ "FilterTargetsInitial", "d5/d80/a20198.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "d5/d80/a20198.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "d5/d80/a20198.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "d5/d80/a20198.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

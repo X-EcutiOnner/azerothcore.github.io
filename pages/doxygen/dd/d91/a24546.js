@@ -1,8 +1,7 @@
 var a24546 =
 [
-    [ "HandleSchoolDMG", "dd/d91/a24546.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
-    [ "HandleScriptEffect", "dd/d91/a24546.html#a06f9cf29387b49f3e5950661173c77eb", null ],
-    [ "PrepareSpellScript", "dd/d91/a24546.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
-    [ "Register", "dd/d91/a24546.html#a9bdbf7578509976d482a26869e9068aa", null ],
-    [ "Validate", "dd/d91/a24546.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
+    [ "HandleScriptEffect", "dd/d91/a24546.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
+    [ "PrepareSpellScript", "dd/d91/a24546.html#ae29c4f69a34e71011192df12509e2935", null ],
+    [ "Register", "dd/d91/a24546.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
+    [ "Validate", "dd/d91/a24546.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
 ];

@@ -1,6 +1,12 @@
 var a20474 =
 [
-    [ "PrepareSpellScript", "df/df3/a20474.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
-    [ "Register", "df/df3/a20474.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "SelectTarget", "df/df3/a20474.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
+    [ "boss_thorim_start_npcsAI", "df/df3/a20474.html#a9602af25cbe9d4b3fe8534093c237a20", null ],
+    [ "DamageTaken", "df/df3/a20474.html#a9a848662671380a726eb7288c6507f68", null ],
+    [ "JustDied", "df/df3/a20474.html#a3c4b8928e1e0264e88eb49d930529c41", null ],
+    [ "JustEngagedWith", "df/df3/a20474.html#ab6c0a8ae05a408cafb8ffe359d4d0d4e", null ],
+    [ "Reset", "df/df3/a20474.html#aedf26a4b5baaf464d70316ce79ec32b3", null ],
+    [ "UpdateAI", "df/df3/a20474.html#a5a84827d8d85e3a9b8e374da68d2c7ed", null ],
+    [ "_isCaster", "df/df3/a20474.html#a6b2729ab9bce244da0a7d7fe6a4280f7", null ],
+    [ "_playerAttack", "df/df3/a20474.html#adb868f1910859c79625cfb7f9a2b4101", null ],
+    [ "events", "df/df3/a20474.html#a8dc5693814c49003727204623cef29b7", null ]
 ];

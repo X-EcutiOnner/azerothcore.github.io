@@ -1,7 +1,11 @@
 var a10546 =
 [
-    [ "GuildBankSetTabText", "d0/d62/a10546.html#aba353d3f94a88b71f49b9c0dc096be2c", null ],
-    [ "Read", "d0/d62/a10546.html#a24f580f6addcd08945c05016b3f0e544", null ],
-    [ "Tab", "d0/d62/a10546.html#ada6707c2105410d78d4335dbf4747141", null ],
-    [ "TabText", "d0/d62/a10546.html#a9bb8c3f539fdcf389caf57ed818c6164", null ]
+    [ "GuildRankTabPermissions", "d6/d34/a10550.html", "d6/d34/a10550" ],
+    [ "GuildPermissionsQueryResults", "d0/d62/a10546.html#aa643af51780fc550f3947936266d54f5", null ],
+    [ "Write", "d0/d62/a10546.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
+    [ "Flags", "d0/d62/a10546.html#a368162426ab526adafc7ecb223fdf865", null ],
+    [ "NumTabs", "d0/d62/a10546.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
+    [ "RankID", "d0/d62/a10546.html#a795ba45650991bd5c1aa03c17886d86b", null ],
+    [ "Tab", "d0/d62/a10546.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
+    [ "WithdrawGoldLimit", "d0/d62/a10546.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
 ];

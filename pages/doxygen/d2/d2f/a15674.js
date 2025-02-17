@@ -1,11 +1,5 @@
 var a15674 =
 [
-    [ "boss_sartharion_tenebronAI", "d2/d2f/a15674.html#a9996fce9320390ead967ad82bcef9554", null ],
-    [ "ClearInstance", "d2/d2f/a15674.html#af9e0459fff845bf4f6e53d06e4a9447f", null ],
-    [ "ExecuteEvent", "d2/d2f/a15674.html#a6a7f8255aa1dcbb979354467d0e6949d", null ],
-    [ "HandleExtraEvent", "d2/d2f/a15674.html#ad78a939f0584b775e29341ff08f0eee1", null ],
-    [ "JustDied", "d2/d2f/a15674.html#ac3e03263a174dd147854fa6d714ec003", null ],
-    [ "JustSummoned", "d2/d2f/a15674.html#a50d000b322e3d3a61cc02dea96c2979d", null ],
-    [ "Reset", "d2/d2f/a15674.html#a1aa8277ddc91989ed7480d4221a6e534", null ],
-    [ "summons2", "d2/d2f/a15674.html#a5060b01175ece5ad782e96bdf3d2c82d", null ]
+    [ "achievement_volunteer_work", "d2/d2f/a15674.html#a43db6e553b370f139ac376840fdf6d70", null ],
+    [ "OnCheck", "d2/d2f/a15674.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
 ];

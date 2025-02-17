@@ -1,15 +1,10 @@
 var a12558 =
 [
-    [ "npc_image_of_medivhAI", "df/dda/a12558.html#a1afe3245dc18db3c0bf6801b5ca20d31", null ],
-    [ "JustEngagedWith", "df/dda/a12558.html#a1013be426b3567d8cbd1c45debc914c5", null ],
-    [ "NextStep", "df/dda/a12558.html#a87160b37ba61af4866fe3f410813fe9f", null ],
-    [ "Reset", "df/dda/a12558.html#af2e7dd7f1038bb5662fe7375a7e052c4", null ],
-    [ "UpdateAI", "df/dda/a12558.html#a321d689d645b4630e2e93e6251d5130c", null ],
-    [ "ArcanagosGUID", "df/dda/a12558.html#a877c693b6ac736aa874926d8efe0d79a", null ],
-    [ "ATimer", "df/dda/a12558.html#a28aef0767b6adb0ccf0479dd50dc11a8", null ],
-    [ "EventStarted", "df/dda/a12558.html#a9a662b435218a3e13ca58eb4a6b3af86", null ],
-    [ "instance", "df/dda/a12558.html#a2e02aa8d441426aa51f46121eec0becb", null ],
-    [ "MTimer", "df/dda/a12558.html#a16c3f6d5bd1cc288590bd096233e0bfb", null ],
-    [ "Step", "df/dda/a12558.html#a9d7b9bdcf9e185284dba5251a0deb0b3", null ],
-    [ "YellTimer", "df/dda/a12558.html#a34ad7cabe4cb86e23deb30ca0ce77db0", null ]
+    [ "npc_netherspite_infernal", "df/dda/a12558.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "df/dda/a12558.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "df/dda/a12558.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "df/dda/a12558.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "df/dda/a12558.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "df/dda/a12558.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "df/dda/a12558.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

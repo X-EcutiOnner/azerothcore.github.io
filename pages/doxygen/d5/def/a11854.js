@@ -1,6 +1,6 @@
 var a11854 =
 [
-    [ "boss_pyroguard_emberseerAI", "d7/d6b/a11858.html", "d7/d6b/a11858" ],
-    [ "boss_pyroguard_emberseer", "d5/def/a11854.html#af9f55c012880404e2e6f8278763af194", null ],
-    [ "GetAI", "d5/def/a11854.html#a060c52f53760e60a022a7034dd785b1d", null ]
+    [ "boss_hedrumAI", "d5/def/a11854.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
+    [ "JustEngagedWith", "d5/def/a11854.html#a1cf03b06598f2b36814062d47a73ed82", null ],
+    [ "UpdateAI", "d5/def/a11854.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
 ];

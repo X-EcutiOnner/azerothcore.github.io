@@ -1,7 +1,6 @@
 var a14142 =
 [
-    [ "HandleEffectApply", "dc/d1e/a14142.html#ad48d832fef881bfb517fb8df694b7507", null ],
-    [ "HandleEffectRemove", "dc/d1e/a14142.html#a1534b010301dbaff66d41443142c50b7", null ],
-    [ "PrepareAuraScript", "dc/d1e/a14142.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
-    [ "Register", "dc/d1e/a14142.html#a97a0003cca808e5b03f720bb3be07419", null ]
+    [ "npc_cw_area_triggerAI", "dc/d14/a14146.html", "dc/d14/a14146" ],
+    [ "npc_cw_area_trigger", "dc/d1e/a14142.html#a11af64ac4ab078566bf8f68a36781939", null ],
+    [ "GetAI", "dc/d1e/a14142.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
 ];

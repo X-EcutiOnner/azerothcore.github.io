@@ -1,8 +1,8 @@
 var a22450 =
 [
-    [ "npc_parasitic_shadowfiend", "d6/d95/a22450.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
-    [ "CanAIAttack", "d6/d95/a22450.html#ac7600aed313f1413cb9b522d60d30329", null ],
-    [ "EnterEvadeMode", "d6/d95/a22450.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
-    [ "IsSummonedBy", "d6/d95/a22450.html#a306c696d4243c4525d0a3908a212135d", null ],
-    [ "UpdateAI", "d6/d95/a22450.html#a2706a4ba7876f299b02d2e720f512af2", null ]
+    [ "boss_pandemonius", "d6/d95/a22450.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "d6/d95/a22450.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "d6/d95/a22450.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "d6/d95/a22450.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "d6/d95/a22450.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

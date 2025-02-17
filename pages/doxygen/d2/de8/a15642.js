@@ -1,6 +1,7 @@
 var a15642 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "df/dbd/a15646.html", "df/dbd/a15646" ],
-    [ "instance_azjol_nerub", "d2/de8/a15642.html#a61476a0d15136d2bdb3a65eca72963da", null ],
-    [ "GetInstanceScript", "d2/de8/a15642.html#a8bb8477669c6369afe508a400bd4d489", null ]
+    [ "HandleDummy", "d2/de8/a15642.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
+    [ "PrepareSpellScript", "d2/de8/a15642.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
+    [ "Register", "d2/de8/a15642.html#a4359ad73b513a368509a066a039ddf53", null ],
+    [ "_targetCount", "d2/de8/a15642.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
 ];

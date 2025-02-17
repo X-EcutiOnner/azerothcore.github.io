@@ -1,6 +1,6 @@
 var a11730 =
 [
-    [ "boss_hedrumAI", "d3/d0c/a11730.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
-    [ "JustEngagedWith", "d3/d0c/a11730.html#a1cf03b06598f2b36814062d47a73ed82", null ],
-    [ "UpdateAI", "d3/d0c/a11730.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
+    [ "boss_vanndarAI", "d5/d44/a11734.html", "d5/d44/a11734" ],
+    [ "boss_vanndar", "d3/d0c/a11730.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
+    [ "GetAI", "d3/d0c/a11730.html#ad1879cc6123a323ada04c49a2c691349", null ]
 ];

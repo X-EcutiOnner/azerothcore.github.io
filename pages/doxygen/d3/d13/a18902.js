@@ -1,5 +1,6 @@
 var a18902 =
 [
-    [ "at_thaddius_entrance", "d3/d13/a18902.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "OnTrigger", "d3/d13/a18902.html#af8635a58d4da0421b72b4451c1ebafc5", null ]
+    [ "boss_kelthuzad_minionAI", "df/df6/a18906.html", "df/df6/a18906" ],
+    [ "boss_kelthuzad_minion", "d3/d13/a18902.html#a4c6d430035c964b4063139c0cda6bfff", null ],
+    [ "GetAI", "d3/d13/a18902.html#ab951068fedced148653ebf9124ba5e3d", null ]
 ];

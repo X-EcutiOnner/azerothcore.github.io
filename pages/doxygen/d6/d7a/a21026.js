@@ -1,10 +1,13 @@
 var a21026 =
 [
-    [ "npc_erekem_guardAI", "d6/d7a/a21026.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
-    [ "JustEngagedWith", "d6/d7a/a21026.html#a93819c5c76821b1c9559be55359d677e", null ],
-    [ "MoveInLineOfSight", "d6/d7a/a21026.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
-    [ "Reset", "d6/d7a/a21026.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
-    [ "UpdateAI", "d6/d7a/a21026.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
-    [ "events", "d6/d7a/a21026.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
-    [ "pInstance", "d6/d7a/a21026.html#a81985b8522111f2aae540353cd5641fe", null ]
+    [ "MoveX", "d6/d7a/a21026.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
+    [ "MoveY", "d6/d7a/a21026.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
+    [ "MoveZ", "d6/d7a/a21026.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
+    [ "npc", "d6/d7a/a21026.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
+    [ "say", "d6/d7a/a21026.html#adcd8647fc0ee9799e24173780209f2d9", null ],
+    [ "SpawnO", "d6/d7a/a21026.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
+    [ "SpawnX", "d6/d7a/a21026.html#af3ae27adaecafe9a09802bc202973d68", null ],
+    [ "SpawnY", "d6/d7a/a21026.html#a749e9c6edcc87f258f250344d652145c", null ],
+    [ "SpawnZ", "d6/d7a/a21026.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
+    [ "trigger", "d6/d7a/a21026.html#ad2291d89a874c79859b3140754594ed7", null ]
 ];

@@ -1,5 +1,7 @@
 var a27394 =
 [
-    [ "ServerMailReward", "df/ddb/a27394.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnLogin", "df/ddb/a27394.html#a8ab4fb6042c3f32ca327cf965330afd2", null ]
+    [ "npc_doctorAI", "db/d55/a27398.html", "db/d55/a27398" ],
+    [ "npc_doctor", "df/ddb/a27394.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
+    [ "GetAI", "df/ddb/a27394.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
+    [ "OnQuestAccept", "df/ddb/a27394.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
 ];

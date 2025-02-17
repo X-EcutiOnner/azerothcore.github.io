@@ -1,6 +1,8 @@
 var a25506 =
 [
-    [ "HandleDummy", "df/da9/a25506.html#ab146c4026bc8ad129bb3d421891d344b", null ],
-    [ "PrepareSpellScript", "df/da9/a25506.html#aa9743f357b9800ab2990fb584011b0a6", null ],
-    [ "Register", "df/da9/a25506.html#a3ca7b1dd1187fd39e362b3451b246a4c", null ]
+    [ "HandleDummy", "df/da9/a25506.html#a0604906219798bec87624f8179292317", null ],
+    [ "Load", "df/da9/a25506.html#a99d0d9dd5818a9252536879a3a1dab66", null ],
+    [ "PrepareSpellScript", "df/da9/a25506.html#a51602256218ee899b7391b2b7af0ee7b", null ],
+    [ "Register", "df/da9/a25506.html#a7b065390e95c9673a28d1c49158766ff", null ],
+    [ "Validate", "df/da9/a25506.html#a0bf9973fae74a700623805352908aa69", null ]
 ];

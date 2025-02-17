@@ -1,7 +1,6 @@
 var a14950 =
 [
-    [ "npc_vekniss_stinger", "d1/db8/a14950.html#ad48098961715a924270cb8bbbe77e4b0", null ],
-    [ "JustEngagedWith", "d1/db8/a14950.html#ae7c758687c81cfb223066f0a9348eab8", null ],
-    [ "Reset", "d1/db8/a14950.html#a2a79f3775aad83410ff2670aa438e811", null ],
-    [ "UpdateAI", "d1/db8/a14950.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
+    [ "OnPeriodic", "d1/db8/a14950.html#a08dce8b98afadc134166a615b4496151", null ],
+    [ "PrepareAuraScript", "d1/db8/a14950.html#a9ebb34665b176e4e60f085da65183d8e", null ],
+    [ "Register", "d1/db8/a14950.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
 ];

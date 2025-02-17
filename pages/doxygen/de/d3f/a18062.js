@@ -1,6 +1,6 @@
 var a18062 =
 [
-    [ "npc_strangulate_vehicleAI", "de/dca/a18066.html", "de/dca/a18066" ],
-    [ "npc_strangulate_vehicle", "de/d3f/a18062.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
-    [ "GetAI", "de/d3f/a18062.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
+    [ "HandleScript", "de/d3f/a18062.html#a6f9b2c00cdc050ff25ec37f5b7610c71", null ],
+    [ "PrepareSpellScript", "de/d3f/a18062.html#a5405e4547ec6cbc05acceb72d1b16530", null ],
+    [ "Register", "de/d3f/a18062.html#a172490b953b958df354394e947b7cfd0", null ]
 ];

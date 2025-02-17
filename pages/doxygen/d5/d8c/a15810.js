@@ -1,7 +1,6 @@
 var a15810 =
 [
-    [ "npc_orb_carrierAI", "d5/d8c/a15810.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "d5/d8c/a15810.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "d5/d8c/a15810.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "d5/d8c/a15810.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "boss_sartharion_vesperonAI", "d4/db4/a15814.html", "d4/db4/a15814" ],
+    [ "boss_sartharion_vesperon", "d5/d8c/a15810.html#a53af67abd9f9bff7f72ee2441e885500", null ],
+    [ "GetAI", "d5/d8c/a15810.html#ad045054b44910461e704c412a524bdc4", null ]
 ];

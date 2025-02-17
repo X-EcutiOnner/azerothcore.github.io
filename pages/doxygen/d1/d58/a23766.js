@@ -1,6 +1,6 @@
 var a23766 =
 [
-    [ "go_beaconAI", "d1/d58/a23766.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "d1/d58/a23766.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "creatureList", "d1/d58/a23766.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
+    [ "instance_mechanar_InstanceMapScript", "dc/dd9/a23770.html", "dc/dd9/a23770" ],
+    [ "instance_mechanar", "d1/d58/a23766.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
+    [ "GetInstanceScript", "d1/d58/a23766.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
 ];

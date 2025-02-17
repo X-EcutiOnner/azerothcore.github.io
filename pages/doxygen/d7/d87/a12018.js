@@ -1,7 +1,11 @@
 var a12018 =
 [
-    [ "HandleScript", "d7/d87/a12018.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "d7/d87/a12018.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "d7/d87/a12018.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "d7/d87/a12018.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "boss_solakar_flamewreathAI", "d7/d87/a12018.html#ada12a91bedec9be8923f9dc74fce07d0", null ],
+    [ "ExecuteEvent", "d7/d87/a12018.html#aa1fca22d30b15ee93cc02084ebab0c2c", null ],
+    [ "InitializeAI", "d7/d87/a12018.html#a7a8a5d3c453e29ec746422e1ba8e4d34", null ],
+    [ "JustDied", "d7/d87/a12018.html#aceb580afa2329ada3236dc759f3a3c20", null ],
+    [ "JustEngagedWith", "d7/d87/a12018.html#a47f8a133b6f8c0de11a66b712bb8e266", null ],
+    [ "Reset", "d7/d87/a12018.html#a25ae2943a7ce9a1f459cfd1313c84c49", null ],
+    [ "UpdateAI", "d7/d87/a12018.html#ac5f908584251455c720ce3f25ed07dae", null ],
+    [ "resetTimer", "d7/d87/a12018.html#acd7fdd30767a7863f265eb96e29c221e", null ]
 ];

@@ -1,7 +1,6 @@
 var a20066 =
 [
-    [ "boss_kologarn_pit_kill_bunny", "de/df4/a20066.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
-    [ "Reset", "de/df4/a20066.html#afd7482896b66f040b8d57b9b6ac37059", null ],
-    [ "UpdateAI", "de/df4/a20066.html#ad863666aec3db81f73165148ffc98033", null ],
-    [ "_boundaryIntersect", "de/df4/a20066.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
+    [ "DestroyWinterCache", "de/df4/a20066.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "de/df4/a20066.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "de/df4/a20066.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

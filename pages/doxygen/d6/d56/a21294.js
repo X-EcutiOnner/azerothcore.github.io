@@ -1,9 +1,8 @@
 var a21294 =
 [
-    [ "npc_warmage_coldarraAI", "d6/d56/a21294.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "d6/d56/a21294.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "d6/d56/a21294.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "d6/d56/a21294.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "d6/d56/a21294.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "d6/d56/a21294.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "npc_azure_captainAI", "d6/d56/a21294.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
+    [ "Reset", "d6/d56/a21294.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
+    [ "UpdateAI", "d6/d56/a21294.html#ae50ac21138e12be43caa93e37062051e", null ],
+    [ "uiMortalStrikeTimer", "d6/d56/a21294.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
+    [ "uiWhirlwindTimer", "d6/d56/a21294.html#a2e3439976a6e84a60be765cb0b929798", null ]
 ];

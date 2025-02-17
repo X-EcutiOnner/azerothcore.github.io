@@ -1,5 +1,6 @@
 var a14190 =
 [
-    [ "PrepareSpellScript", "dc/d98/a14190.html#af219083d127afe24b2541a95bfd449ff", null ],
-    [ "Register", "dc/d98/a14190.html#a03f7ac8d5968970f769191c7df7f5899", null ]
+    [ "HandleScript", "dc/d98/a14190.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
+    [ "PrepareSpellScript", "dc/d98/a14190.html#a26b296c1c4d9f5193dc3773509267284", null ],
+    [ "Register", "dc/d98/a14190.html#aad66e4079ea9404b9057546d8959a395", null ]
 ];

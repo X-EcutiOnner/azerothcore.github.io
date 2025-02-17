@@ -1,7 +1,7 @@
 var a26554 =
 [
-    [ "HandleRemove", "da/d87/a26554.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "da/d87/a26554.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "da/d87/a26554.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "da/d87/a26554.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "HandleDummy", "da/d87/a26554.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
+    [ "PrepareSpellScript", "da/d87/a26554.html#a99deca1c5c8631342be400cb863eefb2", null ],
+    [ "Register", "da/d87/a26554.html#aa5ecc51b030fe7280e824ade641216d3", null ],
+    [ "Validate", "da/d87/a26554.html#a731503d3769718695d109ad71160e67a", null ]
 ];

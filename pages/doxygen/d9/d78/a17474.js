@@ -1,12 +1,11 @@
 var a17474 =
 [
-    [ "npc_darnavanAI", "d9/d78/a17474.html#ae06019c24910c873877398f29f5a1737", null ],
-    [ "JustDied", "d9/d78/a17474.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
-    [ "JustEngagedWith", "d9/d78/a17474.html#acbaedacea5ad19d82002c25b68623a27", null ],
-    [ "MovementInform", "d9/d78/a17474.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
-    [ "Reset", "d9/d78/a17474.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
-    [ "UpdateAI", "d9/d78/a17474.html#a2b3b5e168989db21fc047acaf01413d9", null ],
-    [ "_canCharge", "d9/d78/a17474.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
-    [ "_canShatter", "d9/d78/a17474.html#aa7750edc8051c8ee453143491dccf122", null ],
-    [ "events", "d9/d78/a17474.html#aa8a022ccb1367432480f72d305c752ac", null ]
+    [ "CountTargets", "d9/d78/a17474.html#a54f6526359fba124a988ba35c2876fd1", null ],
+    [ "Load", "d9/d78/a17474.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
+    [ "PrepareSpellScript", "d9/d78/a17474.html#a4991d88429ea951c55ef08a90f364d31", null ],
+    [ "Register", "d9/d78/a17474.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
+    [ "TeleportPlayer", "d9/d78/a17474.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
+    [ "TriggerWipe", "d9/d78/a17474.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
+    [ "Validate", "d9/d78/a17474.html#ad2e586d688b413f9ef9a5688d203106a", null ],
+    [ "_playerCount", "d9/d78/a17474.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
 ];

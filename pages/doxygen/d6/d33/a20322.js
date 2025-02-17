@@ -1,6 +1,6 @@
 var a20322 =
 [
-    [ "boss_thorim_trapAI", "d9/d44/a20326.html", "d9/d44/a20326" ],
-    [ "boss_thorim_trap", "d6/d33/a20322.html#af529112badd88f9ebe4cec216d9edaeb", null ],
-    [ "GetAI", "d6/d33/a20322.html#afd4ee85d73354b790c0d55abbfad75fd", null ]
+    [ "npc_ulduar_emergency_fire_botAI", "d9/d44/a20326.html", "d9/d44/a20326" ],
+    [ "npc_ulduar_emergency_fire_bot", "d6/d33/a20322.html#a1adc05ac4602ab2b297b18f605bfd2cd", null ],
+    [ "GetAI", "d6/d33/a20322.html#afb3ab952495175c5f571d4e39a5acea4", null ]
 ];

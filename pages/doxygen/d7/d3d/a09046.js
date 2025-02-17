@@ -1,9 +1,14 @@
 var a09046 =
 [
-    [ "PlayerSearcher", "d7/d3d/a09046.html#a7247fcab3841996ed5d699696fb21557", null ],
-    [ "Visit", "d7/d3d/a09046.html#ab2544b79869ba4de9772b1bff7c40704", null ],
-    [ "Visit", "d7/d3d/a09046.html#abdb4dfeb80101e9e4bf0e46cab5a1f7b", null ],
-    [ "i_check", "d7/d3d/a09046.html#a58c24b81eec33c9ba8fe8145ee3679b4", null ],
-    [ "i_object", "d7/d3d/a09046.html#a70b071a2fccb4ff29fd614d1447e87ad", null ],
-    [ "i_phaseMask", "d7/d3d/a09046.html#a6dd83612b7f0d00035a7efb8d970afc6", null ]
+    [ "areaMapOffset", "d7/d3d/a09046.html#a70f82337112bb8cbff0b3344666885a1", null ],
+    [ "areaMapSize", "d7/d3d/a09046.html#adfbbb622974b7942f47dd16d2300246f", null ],
+    [ "buildMagic", "d7/d3d/a09046.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
+    [ "heightMapOffset", "d7/d3d/a09046.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
+    [ "heightMapSize", "d7/d3d/a09046.html#a71c9cd42801697a927543e3acd4c3daf", null ],
+    [ "holesOffset", "d7/d3d/a09046.html#a876d70dcd6ccec9ad09de77718c02150", null ],
+    [ "holesSize", "d7/d3d/a09046.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
+    [ "liquidMapOffset", "d7/d3d/a09046.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
+    [ "liquidMapSize", "d7/d3d/a09046.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
+    [ "mapMagic", "d7/d3d/a09046.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
+    [ "versionMagic", "d7/d3d/a09046.html#abe722f653ba057fbba84401acbaffbfa", null ]
 ];

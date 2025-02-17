@@ -1,9 +1,9 @@
 var a07130 =
 [
-    [ "Rank", "d1/d1a/a07130.html#a9bcd8dc00437bcf015565eeb43263578", null ],
-    [ "Rating", "d1/d1a/a07130.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
-    [ "SeasonGames", "d1/d1a/a07130.html#a124c6d64f22c13707764eedd79fe1912", null ],
-    [ "SeasonWins", "d1/d1a/a07130.html#ad274601b85ea634524b1c00979e09465", null ],
-    [ "WeekGames", "d1/d1a/a07130.html#a1d0092200b2c9428e821473949cfda77", null ],
-    [ "WeekWins", "d1/d1a/a07130.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
+    [ "entryAlliance", "d1/d1a/a07130.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
+    [ "entryHorde", "d1/d1a/a07130.html#a374fff4b069e89489395246f378b4900", null ],
+    [ "o", "d1/d1a/a07130.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
+    [ "x", "d1/d1a/a07130.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
+    [ "y", "d1/d1a/a07130.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
+    [ "z", "d1/d1a/a07130.html#adebb903a00687e17d9088f5da2c97f4a", null ]
 ];

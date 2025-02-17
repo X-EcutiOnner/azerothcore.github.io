@@ -1,9 +1,14 @@
 var a14806 =
 [
-    [ "npc_eye_tentacle", "df/db3/a14806.html#a106deeb95d74597377d32e81695dc3c9", null ],
-    [ "JustDied", "df/db3/a14806.html#aac965d97034f4f623172297e4f82647e", null ],
-    [ "JustEngagedWith", "df/db3/a14806.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
-    [ "Reset", "df/db3/a14806.html#a715439dfa31b4cf9df7ddd678d912108", null ],
-    [ "UpdateAI", "df/db3/a14806.html#a48f9067f27d61e609a014669c1daedb9", null ],
-    [ "_portalGUID", "df/db3/a14806.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
+    [ "boss_buru", "df/db3/a14806.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
+    [ "ChaseNewVictim", "df/db3/a14806.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
+    [ "DamageTaken", "df/db3/a14806.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
+    [ "EnterEvadeMode", "df/db3/a14806.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
+    [ "JustDied", "df/db3/a14806.html#a6d8f3265dca889bc49e747471da8597f", null ],
+    [ "JustEngagedWith", "df/db3/a14806.html#a61eeeb3eb1684943e94367a9318b3035", null ],
+    [ "KilledUnit", "df/db3/a14806.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
+    [ "ManipulateEggs", "df/db3/a14806.html#a4f8a92eab729c975443579560edb03a3", null ],
+    [ "SpellHit", "df/db3/a14806.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
+    [ "UpdateAI", "df/db3/a14806.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
+    [ "_phase", "df/db3/a14806.html#aa395967af50f2a422bf1e81a087efc43", null ]
 ];

@@ -1,7 +1,8 @@
 var a11926 =
 [
-    [ "boss_urok_doomhowlAI", "d7/d40/a11926.html#ade3d87a05eed0fd077b2e3245099ed74", null ],
-    [ "InitializeAI", "d7/d40/a11926.html#a530bef523a27523827d3a94aa5f88698", null ],
-    [ "JustEngagedWith", "d7/d40/a11926.html#abd74d844bcae5f9bd8fdd3797323af2c", null ],
-    [ "UpdateAI", "d7/d40/a11926.html#a6ab5793a48534b7c338a915a7ed8faf9", null ]
+    [ "boss_drakkisathAI", "d7/d40/a11926.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
+    [ "JustEngagedWith", "d7/d40/a11926.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
+    [ "UpdateAI", "d7/d40/a11926.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
+    [ "_conflagrateTarget", "d7/d40/a11926.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
+    [ "_conflagrateThreat", "d7/d40/a11926.html#aae3762b27c3d99b32f47293c544e4afe", null ]
 ];

@@ -1,6 +1,7 @@
 var a15506 =
 [
-    [ "HandleApply", "d6/d5e/a15506.html#aee4d5908035d06be2f1469a50db02e26", null ],
-    [ "PrepareAuraScript", "d6/d5e/a15506.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
-    [ "Register", "d6/d5e/a15506.html#ac83962bef84b68cef6d7937769730598", null ]
+    [ "npc_paoka_swiftmountainAI", "d6/d5e/a15506.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "d6/d5e/a15506.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "d6/d5e/a15506.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "d6/d5e/a15506.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
 ];

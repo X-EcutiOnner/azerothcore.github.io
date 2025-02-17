@@ -1,6 +1,8 @@
 var a15218 =
 [
-    [ "npc_giant_spotlightAI", "d5/de5/a15222.html", "d5/de5/a15222" ],
-    [ "npc_giant_spotlight", "d4/d27/a15218.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
-    [ "GetAI", "d4/d27/a15218.html#af002a3d0194c991c1f78c720de63cfea", null ]
+    [ "npc_prospector_remtravelAI", "d4/d27/a15218.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d4/d27/a15218.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d4/d27/a15218.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d4/d27/a15218.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d4/d27/a15218.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

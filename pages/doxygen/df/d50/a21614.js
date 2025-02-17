@@ -1,7 +1,6 @@
 var a21614 =
 [
-    [ "HandleScriptEffect", "df/d50/a21614.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "df/d50/a21614.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "df/d50/a21614.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "df/d50/a21614.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "HandleSendEvent", "df/d50/a21614.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "df/d50/a21614.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "df/d50/a21614.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

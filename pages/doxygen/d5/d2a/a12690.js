@@ -1,6 +1,6 @@
 var a12690 =
 [
-    [ "npc_unworthy_initiate_anchorAI", "df/d35/a12694.html", "df/d35/a12694" ],
-    [ "npc_unworthy_initiate_anchor", "d5/d2a/a12690.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
-    [ "GetAI", "d5/d2a/a12690.html#ab012983661d20a3ffa4f58136bd2d808", null ]
+    [ "HandleProc", "d5/d2a/a12690.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "d5/d2a/a12690.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "d5/d2a/a12690.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

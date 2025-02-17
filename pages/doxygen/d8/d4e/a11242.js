@@ -1,7 +1,6 @@
 var a11242 =
 [
-    [ "FieldIndices", "d8/d4e/a11242.html#a06a366c804088e6fbb170881004a5cff", null ],
-    [ "TableFields", "d8/d4e/a11242.html#ad5d909c6b4b062f3c4aac3f559c5eaec", null ],
-    [ "TableName", "d8/d4e/a11242.html#ab00ee028c72660db98e8108583701471", null ],
-    [ "WhereFieldName", "d8/d4e/a11242.html#af1be82a21f6172504e310ae27b899e5b", null ]
+    [ "EffectCalcAmountHandler", "d8/d4e/a11242.html#a4fe66bbf0433e80b602683a278e3a709", null ],
+    [ "Call", "d8/d4e/a11242.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
+    [ "pEffectHandlerScript", "d8/d4e/a11242.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
 ];

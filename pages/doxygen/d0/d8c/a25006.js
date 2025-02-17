@@ -1,7 +1,6 @@
 var a25006 =
 [
-    [ "HandleDamage", "d0/d8c/a25006.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
-    [ "PrepareSpellScript", "d0/d8c/a25006.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
-    [ "Register", "d0/d8c/a25006.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
-    [ "Validate", "d0/d8c/a25006.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
+    [ "HandleScript", "d0/d8c/a25006.html#af6d3dd97d3254dbfcd6b611b26e0e61d", null ],
+    [ "PrepareSpellScript", "d0/d8c/a25006.html#a59b5637aa8a29611463fbaabc6db2bb8", null ],
+    [ "Register", "d0/d8c/a25006.html#a54bb0fe145f99ea484724052c8bb1227", null ]
 ];

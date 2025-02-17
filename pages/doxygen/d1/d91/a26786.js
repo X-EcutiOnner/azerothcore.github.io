@@ -1,5 +1,6 @@
 var a26786 =
 [
-    [ "AreaTrigger_at_stormwright_shelf", "d1/d91/a26786.html#a97cdf51a8992b3d9edc138351770fd75", null ],
-    [ "OnTrigger", "d1/d91/a26786.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
+    [ "HandleScript", "d1/d91/a26786.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
+    [ "PrepareSpellScript", "d1/d91/a26786.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
+    [ "Register", "d1/d91/a26786.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
 ];

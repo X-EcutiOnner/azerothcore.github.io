@@ -1,7 +1,8 @@
 var a24250 =
 [
-    [ "CheckProc", "d7/dba/a24250.html#a64414347ed5e132c3268451653082821", null ],
-    [ "HandleProc", "d7/dba/a24250.html#a8a3eab47b8214b59275aeaa8a02e4240", null ],
-    [ "PrepareAuraScript", "d7/dba/a24250.html#a88277eeea14f7799e27a4a897e6e8c0c", null ],
-    [ "Register", "d7/dba/a24250.html#a3ce0dcd5becd38e10e2bb6e3d2f28e89", null ]
+    [ "npc_pet_gen_wind_rider_cub", "d7/dba/a24250.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
+    [ "UpdateAI", "d7/dba/a24250.html#a534d122522d553e106e6c7729d6c55db", null ],
+    [ "checkTimer", "d7/dba/a24250.html#a39fcfc5f5d9a630180713512db778b32", null ],
+    [ "checkTimer2", "d7/dba/a24250.html#aabeaf7a9b5b77df540e1111950860e98", null ],
+    [ "isFlying", "d7/dba/a24250.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
 ];

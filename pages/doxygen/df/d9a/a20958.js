@@ -1,12 +1,13 @@
 var a20958 =
 [
-    [ "boss_koralonAI", "df/d9a/a20958.html#a3f5bc42a141011e543d1215eac09dc74", null ],
-    [ "AttackStart", "df/d9a/a20958.html#aa84e6e9a302172e134163cd07ca57864", null ],
-    [ "JustDied", "df/d9a/a20958.html#a102c10792d9e7df61d920b5a43f58e51", null ],
-    [ "JustEngagedWith", "df/d9a/a20958.html#aa7503618dd09e0aebac44394595f4715", null ],
-    [ "Reset", "df/d9a/a20958.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
-    [ "UpdateAI", "df/d9a/a20958.html#aa944aad2eb68adc917cba743d1e530c7", null ],
-    [ "events", "df/d9a/a20958.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
-    [ "pInstance", "df/d9a/a20958.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
-    [ "rotateTimer", "df/d9a/a20958.html#ad4b766094f28e940b0b7971d6dadc277", null ]
+    [ "npc_ferocious_rhinoAI", "df/d9a/a20958.html#ad70d0aeba4b73330c5087bc84a533389", null ],
+    [ "DoAction", "df/d9a/a20958.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
+    [ "JustDied", "df/d9a/a20958.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
+    [ "JustEngagedWith", "df/d9a/a20958.html#aab35078fe4518b6647f98e316d02898a", null ],
+    [ "JustReachedHome", "df/d9a/a20958.html#ab8105d6c8c70037c208c83c13c35242d", null ],
+    [ "MoveInLineOfSight", "df/d9a/a20958.html#a97e32d32a692f223b96746f3ef1086c5", null ],
+    [ "Reset", "df/d9a/a20958.html#a6d317407c2de2f954b5dd2a6db137304", null ],
+    [ "UpdateAI", "df/d9a/a20958.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
+    [ "events", "df/d9a/a20958.html#af23061de7d8566c7435c2c64c53dff89", null ],
+    [ "m_pInstance", "df/d9a/a20958.html#a97e00db40792c559dd06327c9960abe4", null ]
 ];

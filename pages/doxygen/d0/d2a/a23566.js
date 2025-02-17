@@ -1,6 +1,7 @@
 var a23566 =
 [
-    [ "lapseTeleport", "d0/d2a/a23566.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "d0/d2a/a23566.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "d0/d2a/a23566.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "HandleCast", "d0/d2a/a23566.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "d0/d2a/a23566.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "d0/d2a/a23566.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "d0/d2a/a23566.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

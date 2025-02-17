@@ -1,7 +1,6 @@
 var a24894 =
 [
-    [ "PrepareSpellScript", "d2/d96/a24894.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "d2/d96/a24894.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "d2/d96/a24894.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "d2/d96/a24894.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "PrepareSpellScript", "d2/d96/a24894.html#a47d6dbe250410458fe54421158545efb", null ],
+    [ "Register", "d2/d96/a24894.html#ae2334b3fcfa916eb4b9ae1ca85a9687e", null ],
+    [ "SetDest", "d2/d96/a24894.html#aa037240eae1a1dd2c2670fed7dcc4e8c", null ]
 ];

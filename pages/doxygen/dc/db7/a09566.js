@@ -1,8 +1,8 @@
 var a09566 =
 [
-    [ "BoundaryUnionBoundary", "dc/db7/a09566.html#a074536112fffc805dec44bd9cd602642", null ],
-    [ "~BoundaryUnionBoundary", "dc/db7/a09566.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
-    [ "IsWithinBoundaryArea", "dc/db7/a09566.html#a8dc91861fa6641008236e5a83030e0d1", null ],
-    [ "_b1", "dc/db7/a09566.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
-    [ "_b2", "dc/db7/a09566.html#ae70530673803bd2ee85bf722fe42718b", null ]
+    [ "InstResetEvent", "dc/db7/a09566.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
+    [ "InstResetEvent", "dc/db7/a09566.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
+    [ "difficulty", "dc/db7/a09566.html#a67afe513dd42370ac4bb385a7128a324", null ],
+    [ "mapid", "dc/db7/a09566.html#ad02e00b2782304fbd75973fe58eefd33", null ],
+    [ "type", "dc/db7/a09566.html#ad211513c7ed39269d464190398dabaed", null ]
 ];

@@ -1,6 +1,6 @@
 var a20438 =
 [
-    [ "BoomEvent", "dd/d4a/a20438.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
-    [ "Execute", "dd/d4a/a20438.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
-    [ "_me", "dd/d4a/a20438.html#a30de77ee751f1c10231088cb84942342", null ]
+    [ "boss_thorim_lightning_orbAI", "d8/df3/a20442.html", "d8/df3/a20442" ],
+    [ "boss_thorim_lightning_orb", "dd/d4a/a20438.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2", null ],
+    [ "GetAI", "dd/d4a/a20438.html#ad24d28866145c4fccf7a3971856fa87f", null ]
 ];

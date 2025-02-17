@@ -1,7 +1,8 @@
 var a15090 =
 [
-    [ "npc_prospector_remtravelAI", "d3/dd4/a15094.html", "d3/dd4/a15094" ],
-    [ "npc_prospector_remtravel", "d3/d23/a15090.html#aa213161fc60e615682252125f6c58f7f", null ],
-    [ "GetAI", "d3/d23/a15090.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
-    [ "OnQuestAccept", "d3/d23/a15090.html#a5e11149b6359927a71c98242d979e65b", null ]
+    [ "npc_ahnqiraji_critter", "d3/d23/a15090.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "d3/d23/a15090.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "d3/d23/a15090.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "d3/d23/a15090.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "d3/d23/a15090.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

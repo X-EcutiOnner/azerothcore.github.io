@@ -1,7 +1,7 @@
 var a20770 =
 [
-    [ "npc_frost_tomb", "d9/d51/a20770.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "d9/d51/a20770.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "d9/d51/a20770.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "d9/d51/a20770.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "FilterTargets", "d9/d51/a20770.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "d9/d51/a20770.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "d9/d51/a20770.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "d9/d51/a20770.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

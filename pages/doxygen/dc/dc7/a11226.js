@@ -1,7 +1,6 @@
 var a11226 =
 [
-    [ "PlayerGuid", "dc/dc7/a11226.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "dc/dc7/a11226.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "dc/dc7/a11226.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "dc/dc7/a11226.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "AuraDispelHandler", "dc/dc7/a11226.html#ab6e675b4db931c601b3d6aef65ae0ff6", null ],
+    [ "Call", "dc/dc7/a11226.html#a147d8a6d95f011f27600d052ef7b4000", null ],
+    [ "pHandlerScript", "dc/dc7/a11226.html#ab7dd73a36aa517354a023deb7db0cf19", null ]
 ];

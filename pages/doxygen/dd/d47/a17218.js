@@ -1,5 +1,6 @@
 var a17218 =
 [
-    [ "achievement_flu_shot_shortage", "dd/d47/a17218.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "dd/d47/a17218.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "BloodboltHitCheck", "dd/d47/a17218.html#a84873f1ec2c1e214e35d32954622e9af", null ],
+    [ "operator()", "dd/d47/a17218.html#a1eddfd7bbea8def20dcc080413af6364", null ],
+    [ "_ai", "dd/d47/a17218.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
 ];

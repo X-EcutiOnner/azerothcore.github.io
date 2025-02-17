@@ -1,11 +1,23 @@
 var a07110 =
 [
-    [ "WGWorkshop", "da/d25/a07110.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
-    [ "GiveControlTo", "da/d25/a07110.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
-    [ "Save", "da/d25/a07110.html#adede1c780178f20dc8339320a021e4b6", null ],
-    [ "UpdateGraveyardAndWorkshop", "da/d25/a07110.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
-    [ "bf", "da/d25/a07110.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
-    [ "state", "da/d25/a07110.html#a279d47c85843e884edef1f82b9654cd8", null ],
-    [ "teamControl", "da/d25/a07110.html#a196c8d0094a34c18835840e046fd39ef", null ],
-    [ "workshopId", "da/d25/a07110.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
+    [ "BattlefieldMap", "da/d25/a07110.html#aea781a60967fbc877bd1593628cdf32d", null ],
+    [ "BattlefieldSet", "da/d25/a07110.html#a440a0f37414815a060e23ac6b79ca3c5", null ],
+    [ "BattlefieldMgr", "da/d25/a07110.html#afaa79f63a91c6b585b4bf10dfdf60af6", null ],
+    [ "~BattlefieldMgr", "da/d25/a07110.html#a0d5b198add5190e99a1763a168ce2895", null ],
+    [ "AddZone", "da/d25/a07110.html#a03b1d0ef9c969283fbf9ce80842ad33c", null ],
+    [ "CanTalkTo", "da/d25/a07110.html#a18fdd3c81b5641e296318f1113acf73f", null ],
+    [ "GetBattlefieldByBattleId", "da/d25/a07110.html#ab99d360162cf61dfc8d53df42127fb07", null ],
+    [ "GetBattlefieldToZoneId", "da/d25/a07110.html#aad6dcd56b45aeb2095c0c9033ae9f691", null ],
+    [ "GetZoneScript", "da/d25/a07110.html#accd1dc8e86bc9ab5618483e609b9314d", null ],
+    [ "HandleDropFlag", "da/d25/a07110.html#a19b23ca8dc68ceaaca9078a33b62b70e", null ],
+    [ "HandleGossipOption", "da/d25/a07110.html#aa54e25c2f1ad982f0a9a57e99fd994f9", null ],
+    [ "HandlePlayerEnterZone", "da/d25/a07110.html#a733f42fdc343d070220e8c56f24fe4ac", null ],
+    [ "HandlePlayerLeaveZone", "da/d25/a07110.html#a89aa3d5d27fe61a13e381f13c599de90", null ],
+    [ "HandlePlayerResurrects", "da/d25/a07110.html#a458fb8b4943de82f0574ddd63ba466a9", null ],
+    [ "InitBattlefield", "da/d25/a07110.html#a244ce1743c237e95c08dc8861f3ce4b3", null ],
+    [ "instance", "da/d25/a07110.html#af96d6d44aa8936f94c20d1bd92af2fb3", null ],
+    [ "Update", "da/d25/a07110.html#a15548a7b124741e2fa9f36f1bf087458", null ],
+    [ "m_BattlefieldMap", "da/d25/a07110.html#a364a78eb7a4b44bbd24188647d3a4f4e", null ],
+    [ "m_BattlefieldSet", "da/d25/a07110.html#a0ca3259d6262b725ee46c5d29f375585", null ],
+    [ "m_UpdateTimer", "da/d25/a07110.html#a4818f48ea741ae5b6b588eed9719d0ec", null ]
 ];

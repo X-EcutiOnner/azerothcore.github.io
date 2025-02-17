@@ -1,6 +1,6 @@
 var a21106 =
 [
-    [ "npc_vh_teleportation_portalAI", "d2/d93/a21110.html", "d2/d93/a21110" ],
-    [ "npc_vh_teleportation_portal", "dc/dc7/a21106.html#a9a554058f594f992a17dbb3887117a6f", null ],
-    [ "GetAI", "dc/dc7/a21106.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
+    [ "npc_frozen_orbAI", "d2/d93/a21110.html", "d2/d93/a21110" ],
+    [ "npc_frozen_orb", "dc/dc7/a21106.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "dc/dc7/a21106.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

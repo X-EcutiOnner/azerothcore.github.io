@@ -1,5 +1,8 @@
 var a13022 =
 [
-    [ "at_sunwell_eredar_twins", "d4/d3f/a13022.html#afc183c384bc87321186b20e0ac168c1f", null ],
-    [ "_OnTrigger", "d4/d3f/a13022.html#aa862756c9905e2cb10d60c70b47919aa", null ]
+    [ "FilterTargets", "d4/d3f/a13022.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
+    [ "HandleScript", "d4/d3f/a13022.html#aecb62c147905d0a4fe60086b8028df0b", null ],
+    [ "PrepareSpellScript", "d4/d3f/a13022.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
+    [ "Register", "d4/d3f/a13022.html#a2832f131d99608923ade8070e17da86d", null ],
+    [ "Validate", "d4/d3f/a13022.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
 ];

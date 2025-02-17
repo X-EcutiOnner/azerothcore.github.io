@@ -1,8 +1,5 @@
 var a22358 =
 [
-    [ "boss_darkweaver_syth", "d1/d36/a22358.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "d1/d36/a22358.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "d1/d36/a22358.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "d1/d36/a22358.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "d1/d36/a22358.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "outdoorpvp_na_halaa_creatures", "d1/d36/a22358.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "d1/d36/a22358.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

@@ -1,9 +1,6 @@
 var a20566 =
 [
-    [ "boss_yoggsaron_keeper", "dc/d04/a20566.html#ad2098933656371b1bf80ec3ea859c418", null ],
-    [ "DoAction", "dc/d04/a20566.html#a9e3d251810b55072458003356213ae15", null ],
-    [ "JustEngagedWith", "dc/d04/a20566.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
-    [ "JustSummoned", "dc/d04/a20566.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
-    [ "UpdateAI", "dc/d04/a20566.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
-    [ "_summons", "dc/d04/a20566.html#aa840eff5f3d8b24225046113737936b4", null ]
+    [ "npc_xt002_boombotAI", "db/d9f/a20570.html", "db/d9f/a20570" ],
+    [ "npc_xt002_boombot", "dc/d04/a20566.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
+    [ "GetAI", "dc/d04/a20566.html#a27237e7a60042ed7163b19d80537c1b3", null ]
 ];

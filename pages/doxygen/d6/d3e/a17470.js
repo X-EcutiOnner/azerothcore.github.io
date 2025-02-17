@@ -1,6 +1,6 @@
 var a17470 =
 [
-    [ "npc_darnavanAI", "d9/d78/a17474.html", "d9/d78/a17474" ],
-    [ "npc_darnavan", "d6/d3e/a17470.html#ac358ca123155165395fa5f7ec02c9dab", null ],
-    [ "GetAI", "d6/d3e/a17470.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
+    [ "PrepareSpellScript", "d6/d3e/a17470.html#a47df21229183b628c1d82bf34cbbe396", null ],
+    [ "Register", "d6/d3e/a17470.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
+    [ "RelocateTransportOffset", "d6/d3e/a17470.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
 ];

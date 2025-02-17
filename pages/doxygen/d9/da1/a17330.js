@@ -1,6 +1,7 @@
 var a17330 =
 [
-    [ "npc_gunship_rocketeerAI", "d3/dda/a17334.html", "d3/dda/a17334" ],
-    [ "npc_gunship_rocketeer", "d9/da1/a17330.html#a7ed2cf258269f239bb73f2f06411db07", null ],
-    [ "GetAI", "d9/da1/a17330.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
+    [ "HandleScript", "d9/da1/a17330.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
+    [ "Load", "d9/da1/a17330.html#ab1d81386ae3ccd332c01864d7f456017", null ],
+    [ "PrepareSpellScript", "d9/da1/a17330.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
+    [ "Register", "d9/da1/a17330.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
 ];

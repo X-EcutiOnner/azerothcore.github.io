@@ -1,6 +1,7 @@
 var a15462 =
 [
-    [ "HandleOpenLock", "d4/d39/a15462.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "d4/d39/a15462.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "d4/d39/a15462.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "npc_giltharesAI", "d7/d5a/a15466.html", "d7/d5a/a15466" ],
+    [ "npc_gilthares", "d4/d39/a15462.html#af1e0746350b32b68825710e1c3ed91a5", null ],
+    [ "GetAI", "d4/d39/a15462.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
+    [ "OnQuestAccept", "d4/d39/a15462.html#a018cc6240a79216acb371241f63e3234", null ]
 ];

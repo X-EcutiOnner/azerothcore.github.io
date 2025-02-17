@@ -1,7 +1,6 @@
 var a20030 =
 [
-    [ "HandleScript", "d2/db3/a20030.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "d2/db3/a20030.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "d2/db3/a20030.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "d2/db3/a20030.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "npc_ulduar_toasty_fireAI", "d2/db3/a20030.html#a145001c6f1c1d505f810ae545ec62c69", null ],
+    [ "DoAction", "d2/db3/a20030.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
+    [ "SpellHit", "d2/db3/a20030.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
 ];

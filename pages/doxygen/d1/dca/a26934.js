@@ -1,6 +1,6 @@
 var a26934 =
 [
-    [ "go_flamesAI", "d1/dca/a26934.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d1/dca/a26934.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d1/dca/a26934.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "npc_dream_fogAI", "dd/d99/a26938.html", "dd/d99/a26938" ],
+    [ "npc_dream_fog", "d1/dca/a26934.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "d1/dca/a26934.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

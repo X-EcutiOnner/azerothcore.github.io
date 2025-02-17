@@ -1,6 +1,6 @@
 var a22062 =
 [
-    [ "npc_wg_siege_machineAI", "da/d46/a22066.html", "da/d46/a22066" ],
-    [ "npc_wg_siege_machine", "d6/dbe/a22062.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
-    [ "GetAI", "d6/dbe/a22062.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
+    [ "HandleScript", "d6/dbe/a22062.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
+    [ "PrepareSpellScript", "d6/dbe/a22062.html#a5a4ce9453638d61fe52514240f0a9384", null ],
+    [ "Register", "d6/dbe/a22062.html#a889f931aaa37d3a283f4d585b384a68e", null ]
 ];

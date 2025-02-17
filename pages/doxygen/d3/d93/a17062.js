@@ -1,6 +1,6 @@
 var a17062 =
 [
-    [ "PrepareSpellScript", "d3/d93/a17062.html#a37899f12707930d038de38bae92c9aff", null ],
-    [ "Register", "d3/d93/a17062.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
-    [ "SelectDest", "d3/d93/a17062.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
+    [ "boss_slad_ranAI", "de/d0d/a17066.html", "de/d0d/a17066" ],
+    [ "boss_slad_ran", "d3/d93/a17062.html#a9b960242e2f186d334d7ce04b999e274", null ],
+    [ "GetAI", "d3/d93/a17062.html#a26651b7ca111bd64549283c37e34db11", null ]
 ];

@@ -1,7 +1,7 @@
 var a25826 =
 [
-    [ "OnProc", "d3/d99/a25826.html#a304fd48cc79d3e7371212632d276b2ff", null ],
-    [ "PrepareAuraScript", "d3/d99/a25826.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
-    [ "Register", "d3/d99/a25826.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
-    [ "Validate", "d3/d99/a25826.html#adc217147d7c150d66dad4d3e922cff96", null ]
+    [ "OnRemove", "d3/d99/a25826.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
+    [ "PrepareAuraScript", "d3/d99/a25826.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
+    [ "Register", "d3/d99/a25826.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
+    [ "Validate", "d3/d99/a25826.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
 ];

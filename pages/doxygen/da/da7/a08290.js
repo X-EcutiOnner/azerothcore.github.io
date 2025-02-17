@@ -1,5 +1,10 @@
 var a08290 =
 [
-    [ "ObjectGuidGenerator", "da/da7/a08290.html#a1d917989d9bf681546d0e3e9b20593e0", null ],
-    [ "Generate", "da/da7/a08290.html#a43dfe501c5ec222bbd1f8687a1a103b9", null ]
+    [ "SpellCategory", "da/da7/a08290.html#ad170ffceb499879a4b0d638e9c922703", null ],
+    [ "SpellCategoryCooldown", "da/da7/a08290.html#a8a33274d71b410f24f110e9a5921ff18", null ],
+    [ "SpellCharges", "da/da7/a08290.html#a16909465a3a20dbab6e3ca2e3c807f17", null ],
+    [ "SpellCooldown", "da/da7/a08290.html#a8ef7106595ed25ce23ca2163258d769a", null ],
+    [ "SpellId", "da/da7/a08290.html#af6973a8a9a258a87a916bcd431c33d8d", null ],
+    [ "SpellPPMRate", "da/da7/a08290.html#a5b208a667802e4c3766619c96d267287", null ],
+    [ "SpellTrigger", "da/da7/a08290.html#a39657ff9e561a3c86a671f7b3c78ef98", null ]
 ];

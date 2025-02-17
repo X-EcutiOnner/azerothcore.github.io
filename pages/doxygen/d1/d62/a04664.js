@@ -1,11 +1,14 @@
 var a04664 =
 [
-    [ "ADT::MDDF", "d4/d13/a28414.html", "d4/d13/a28414" ],
-    [ "ADT::MODF", "d3/d57/a28418.html", "d3/d57/a28418" ],
-    [ "ADTFile", "d4/d0e/a28422.html", "d4/d0e/a28422" ],
-    [ "fixname2", "d1/d62/a04664.html#ac0029be4572a61d00eb1435db5526a74", null ],
-    [ "fixnamen", "d1/d62/a04664.html#abdc56edc46e0804c456749761cff8daf", null ],
-    [ "GetExtension", "d1/d62/a04664.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
-    [ "GetPlainName", "d1/d62/a04664.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
-    [ "GetPlainName", "d1/d62/a04664.html#a05f8969fb6d17548033afc24b906a83f", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "d1/d62/a04664.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "isHole", "d1/d62/a04664.html#a3a7e248f31dc8d832dc118d469a98bd4", null ],
+    [ "holetab_h", "d1/d62/a04664.html#a7424dd5c858116f845a676e31fe5ae5d", null ],
+    [ "holetab_v", "d1/d62/a04664.html#a2b1bf69bcdb58ff1605821d486da3acb", null ],
+    [ "MCINMagic", "d1/d62/a04664.html#a6f946547b65d321100fd6efa2966180c", null ],
+    [ "MCLQMagic", "d1/d62/a04664.html#a35ae9924cb4e3ad0020167b89d5ea86f", null ],
+    [ "MCNKMagic", "d1/d62/a04664.html#aa2d85d3b667d3755f6f7a993e60c574b", null ],
+    [ "MCVTMagic", "d1/d62/a04664.html#a32010e610a970d3891ae5effca03de37", null ],
+    [ "MFBOMagic", "d1/d62/a04664.html#a329d005a0989137286469e197dc0c812", null ],
+    [ "MH2OMagic", "d1/d62/a04664.html#aaeaf747e4bc5c25257f9e0ef1153b5a7", null ],
+    [ "MHDRMagic", "d1/d62/a04664.html#ac97bd684dd5bacba0e790f355a3bdddf", null ]
 ];

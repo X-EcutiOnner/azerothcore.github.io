@@ -1,21 +1,20 @@
 var a03794 =
 [
-    [ "npcs_riverbreeze_and_silversky", "d6/d63/a15178.html", "d6/d63/a15178" ],
-    [ "at_ancient_leaf", "db/d45/a15182.html", "db/d45/a15182" ],
-    [ "GOSSIP_ITEM_BEACON", "d6/da7/a03794.html#aed16a0d3c0f5042443d68996e30f15bd", null ],
-    [ "AncientMisc", "d6/da7/a03794.html#adaffe09a7c2b9f9bfdc48d5068c18068", [
-      [ "QUEST_ANCIENT_LEAF", "d6/da7/a03794.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3", null ],
-      [ "NPC_VARTRUS", "d6/da7/a03794.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99", null ],
-      [ "NPC_STOMA", "d6/da7/a03794.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81", null ],
-      [ "NPC_HASTAT", "d6/da7/a03794.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04", null ],
-      [ "CREATURE_GROUP_ANCIENTS", "d6/da7/a03794.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149", null ]
-    ] ],
-    [ "RiverbreezeAndSilversky", "d6/da7/a03794.html#acc75d54553750c832fe50b6cb0c42427", [
-      [ "SPELL_CENARION_BEACON", "d6/da7/a03794.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49", null ],
-      [ "NPC_ARATHANDRIS_SILVERSKY", "d6/da7/a03794.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6", null ],
-      [ "NPC_MAYBESS_RIVERBREEZE", "d6/da7/a03794.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149", null ],
-      [ "QUEST_CLEASING_FELWOOD_A", "d6/da7/a03794.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff", null ],
-      [ "QUEST_CLEASING_FELWOOD_H", "d6/da7/a03794.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f", null ]
-    ] ],
-    [ "AddSC_felwood", "d6/da7/a03794.html#a63ae28c9f250057b35a18fb585c6a2cf", null ]
+    [ "WorldScript", "d5/d54/a10338.html", "d5/d54/a10338" ],
+    [ "WorldHook", "d6/da7/a03794.html#a4d497fc434376a9edca1897eabc39493", [
+      [ "WORLDHOOK_ON_OPEN_STATE_CHANGE", "d6/da7/a03794.html#a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c", null ],
+      [ "WORLDHOOK_ON_AFTER_CONFIG_LOAD", "d6/da7/a03794.html#a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7", null ],
+      [ "WORLDHOOK_ON_LOAD_CUSTOM_DATABASE_TABLE", "d6/da7/a03794.html#a4d497fc434376a9edca1897eabc39493ab212a383f870b580ecf69fd1df3f9213", null ],
+      [ "WORLDHOOK_ON_BEFORE_CONFIG_LOAD", "d6/da7/a03794.html#a4d497fc434376a9edca1897eabc39493ac0d62a83ca416843503c5c9eac516901", null ],
+      [ "WORLDHOOK_ON_MOTD_CHANGE", "d6/da7/a03794.html#a4d497fc434376a9edca1897eabc39493a7080a363df28c0ffb71d52ee18b85f8c", null ],
+      [ "WORLDHOOK_ON_SHUTDOWN_INITIATE", "d6/da7/a03794.html#a4d497fc434376a9edca1897eabc39493ab554902e66fb497dbb3ac74151fe8bb7", null ],
+      [ "WORLDHOOK_ON_SHUTDOWN_CANCEL", "d6/da7/a03794.html#a4d497fc434376a9edca1897eabc39493a86b7bcb6f946ccb6d6c444773054ecb6", null ],
+      [ "WORLDHOOK_ON_UPDATE", "d6/da7/a03794.html#a4d497fc434376a9edca1897eabc39493a891997df42f33b397fe3c92cf68e3aca", null ],
+      [ "WORLDHOOK_ON_STARTUP", "d6/da7/a03794.html#a4d497fc434376a9edca1897eabc39493abaa74ee704d5eb3634a515fe131e66fa", null ],
+      [ "WORLDHOOK_ON_SHUTDOWN", "d6/da7/a03794.html#a4d497fc434376a9edca1897eabc39493a804c550dd48cb62983e43dfed1ba2176", null ],
+      [ "WORLDHOOK_ON_AFTER_UNLOAD_ALL_MAPS", "d6/da7/a03794.html#a4d497fc434376a9edca1897eabc39493a02253717dde1cc98a2643eefd76f0d91", null ],
+      [ "WORLDHOOK_ON_BEFORE_FINALIZE_PLAYER_WORLD_SESSION", "d6/da7/a03794.html#a4d497fc434376a9edca1897eabc39493a962dfc07ec34ca7510d8759c193ba56e", null ],
+      [ "WORLDHOOK_ON_BEFORE_WORLD_INITIALIZED", "d6/da7/a03794.html#a4d497fc434376a9edca1897eabc39493a2e95fec6ec46709803e187fe3c60f427", null ],
+      [ "WORLDHOOK_END", "d6/da7/a03794.html#a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800", null ]
+    ] ]
 ];

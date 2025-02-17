@@ -1,6 +1,7 @@
 var a14386 =
 [
-    [ "HandleHeal", "d3/dce/a14386.html#a953536a9a393af9472bdd89018449df0", null ],
-    [ "PrepareSpellScript", "d3/dce/a14386.html#a70503fc6042001a860d361f2597b7153", null ],
-    [ "Register", "d3/dce/a14386.html#a383479896e6deb96e50b827370ccfd4d", null ]
+    [ "HandleScript", "d3/dce/a14386.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
+    [ "PrepareSpellScript", "d3/dce/a14386.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
+    [ "Register", "d3/dce/a14386.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
+    [ "Validate", "d3/dce/a14386.html#aa1e74de390a8b71e43e43664981a36ff", null ]
 ];

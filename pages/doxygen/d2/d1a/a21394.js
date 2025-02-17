@@ -1,9 +1,7 @@
 var a21394 =
 [
-    [ "npc_mageguard_dalaranAI", "d2/d1a/a21394.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
-    [ "AttackStart", "d2/d1a/a21394.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
-    [ "JustEngagedWith", "d2/d1a/a21394.html#aac463689ae5a488ec2acb8a0310689d8", null ],
-    [ "MoveInLineOfSight", "d2/d1a/a21394.html#aafb32462693e0efd9c80cf335f489754", null ],
-    [ "Reset", "d2/d1a/a21394.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
-    [ "UpdateAI", "d2/d1a/a21394.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
+    [ "npc_mootoo_the_youngerAI", "d2/d1a/a21394.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "d2/d1a/a21394.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "d2/d1a/a21394.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "d2/d1a/a21394.html#ac758a992ed0d62a272930c84d617b348", null ]
 ];

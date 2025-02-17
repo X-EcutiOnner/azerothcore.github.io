@@ -1,7 +1,7 @@
 var a24878 =
 [
-    [ "CheckIfLanceEquipped", "d5/d1c/a24878.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
-    [ "PrepareSpellScript", "d5/d1c/a24878.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
-    [ "Register", "d5/d1c/a24878.html#a4421ceaedce16777f8f04b9c40855782", null ],
-    [ "Validate", "d5/d1c/a24878.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
+    [ "HandleEffectApply", "d5/d1c/a24878.html#a97a639459622c9e3e995057989cf9eda", null ],
+    [ "HandleEffectRemove", "d5/d1c/a24878.html#a7477bb78ffcc082c111bad4e93b9fd73", null ],
+    [ "PrepareAuraScript", "d5/d1c/a24878.html#aa3c4018e18eccd8f12e4607f4bc630ec", null ],
+    [ "Register", "d5/d1c/a24878.html#a40793c696a759db4920c4c34f5b9fa66", null ]
 ];

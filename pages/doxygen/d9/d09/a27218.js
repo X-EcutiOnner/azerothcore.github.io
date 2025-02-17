@@ -1,8 +1,10 @@
 var a27218 =
 [
-    [ "npc_elder_clearwaterAI", "d7/d08/a27222.html", "d7/d08/a27222" ],
-    [ "npc_elder_clearwater", "d9/d09/a27218.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "d9/d09/a27218.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "d9/d09/a27218.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "d9/d09/a27218.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "guard_shattrath_aldorAI", "d9/d09/a27218.html#a88961dfe4100dfe207af693a1eed86ad", null ],
+    [ "Reset", "d9/d09/a27218.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
+    [ "UpdateAI", "d9/d09/a27218.html#ac87ee12d4487971b68c70f06f63eb410", null ],
+    [ "banishTimer", "d9/d09/a27218.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
+    [ "canTeleport", "d9/d09/a27218.html#af4d933b56431d2f2755d87fb05922458", null ],
+    [ "exileTimer", "d9/d09/a27218.html#a8d56205206f3e14184922f96873456ad", null ],
+    [ "playerGUID", "d9/d09/a27218.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
 ];

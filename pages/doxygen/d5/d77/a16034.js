@@ -1,6 +1,6 @@
 var a16034 =
 [
-    [ "boss_anubarak_trialAI", "d5/db0/a16038.html", "d5/db0/a16038" ],
-    [ "boss_anubarak_trial", "d5/d77/a16034.html#a5204e33a412608b53cc155a043356d58", null ],
-    [ "GetAI", "d5/d77/a16034.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "d5/db0/a16038.html", "d5/db0/a16038" ],
+    [ "instance_ruby_sanctum", "d5/d77/a16034.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
+    [ "GetInstanceScript", "d5/d77/a16034.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
 ];

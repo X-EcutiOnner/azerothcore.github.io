@@ -1,6 +1,7 @@
 var a23670 =
 [
-    [ "npc_deaths_fel_cannonAI", "dc/d33/a23670.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
-    [ "Reset", "dc/d33/a23670.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
-    [ "UpdateAI", "dc/d33/a23670.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
+    [ "HandleEffect", "dc/d33/a23670.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "dc/d33/a23670.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "dc/d33/a23670.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "dc/d33/a23670.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

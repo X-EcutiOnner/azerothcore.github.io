@@ -1,5 +1,6 @@
 var a10566 =
 [
-    [ "LFGLeave", "df/dd4/a10566.html#aba31f53e0e13c13fd96f1b6ea1d42310", null ],
-    [ "Read", "df/dd4/a10566.html#abae9c55efce73edf5edf1940cb8b61eb", null ]
+    [ "GuildUpdateInfoText", "df/dd4/a10566.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
+    [ "Read", "df/dd4/a10566.html#a7019344fef99c5479602d7bc1176e9ee", null ],
+    [ "InfoText", "df/dd4/a10566.html#a786802ce427465d66a4cea1365743975", null ]
 ];

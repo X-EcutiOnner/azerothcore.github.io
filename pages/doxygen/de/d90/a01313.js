@@ -1,8 +1,6 @@
 var a01313 =
 [
-    [ "CorpseUpdateFieldFlags", "de/d90/a01313.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
-    [ "DynamicObjectUpdateFieldFlags", "de/d90/a01313.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
-    [ "GameObjectUpdateFieldFlags", "de/d90/a01313.html#aee13b862f51557c371d3d93341128895", null ],
-    [ "ItemUpdateFieldFlags", "de/d90/a01313.html#ac1cca7ecf1650663132e3e220d771adf", null ],
-    [ "UnitUpdateFieldFlags", "de/d90/a01313.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
+    [ "instance_auchenai_crypts", "d9/dc3/a22434.html", "d9/dc3/a22434" ],
+    [ "instance_auchenai_crypts::instance_auchenai_crypts_InstanceMapScript", "de/d2b/a22438.html", "de/d2b/a22438" ],
+    [ "AddSC_instance_auchenai_crypts", "de/d90/a01313.html#a3a9866226f3a0e32fdb3501e506ab0b5", null ]
 ];

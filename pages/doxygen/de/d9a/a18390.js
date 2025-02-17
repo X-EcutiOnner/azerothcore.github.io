@@ -1,6 +1,7 @@
 var a18390 =
 [
-    [ "npc_arthas_teleport_visualAI", "d2/da3/a18394.html", "d2/da3/a18394" ],
-    [ "npc_arthas_teleport_visual", "de/d9a/a18390.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
-    [ "GetAI", "de/d9a/a18390.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
+    [ "PeriodicTick", "de/d9a/a18390.html#ac1bace4fc66349364c84b5784967e9bf", null ],
+    [ "PrepareAuraScript", "de/d9a/a18390.html#a358193e3340112c04f79c043548c3de0", null ],
+    [ "Register", "de/d9a/a18390.html#a28f52bc253899aa407e67f9a089c815c", null ],
+    [ "Validate", "de/d9a/a18390.html#a0dde3447e38e45cea94df44449a19a01", null ]
 ];

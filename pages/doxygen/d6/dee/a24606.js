@@ -1,5 +1,7 @@
 var a24606 =
 [
-    [ "PrepareSpellScript", "d6/dee/a24606.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
-    [ "Register", "d6/dee/a24606.html#a560ff22e718e8a975a2e2dc2340da917", null ]
+    [ "FilterTargets", "d6/dee/a24606.html#af6daf7022fc4cd18909056089c249c8a", null ],
+    [ "HandleDummy", "d6/dee/a24606.html#ab8f8fec8c95f471a04d642fa0dcbe3e6", null ],
+    [ "PrepareSpellScript", "d6/dee/a24606.html#a3ec1d43d3eb6ecca128ddda3c0f81efc", null ],
+    [ "Register", "d6/dee/a24606.html#ae662a050ce4cac47b6bd0d0b0c5b1e16", null ]
 ];

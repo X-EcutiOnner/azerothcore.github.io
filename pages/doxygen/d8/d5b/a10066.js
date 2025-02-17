@@ -1,15 +1,21 @@
 var a10066 =
 [
-    [ "AuctionHouseScript", "d8/d5b/a10066.html#af3e9ec3b9834f9d72106430af40e8727", null ],
-    [ "OnAuctionAdd", "d8/d5b/a10066.html#a39d172304de882d87f87e14d1df107da", null ],
-    [ "OnAuctionExpire", "d8/d5b/a10066.html#a32e9d0decc7d341198accc84dbc4e1ab", null ],
-    [ "OnAuctionRemove", "d8/d5b/a10066.html#aed67026e34ef7e8dd4d975d0b0620463", null ],
-    [ "OnAuctionSuccessful", "d8/d5b/a10066.html#a57f1ea958e80a30031eded088dd3c8af", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionCancelledToBidderMail", "d8/d5b/a10066.html#a067633221bf8e745c9ae7c4abee13fba", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionExpiredMail", "d8/d5b/a10066.html#a622ac5271fb3a5ecf6444fb7fde17ed9", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionOutbiddedMail", "d8/d5b/a10066.html#acfc00998027675d76436d4d05f578f8c", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionSalePendingMail", "d8/d5b/a10066.html#a3bb999a955b7b8670264c859094fe9a0", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionSuccessfulMail", "d8/d5b/a10066.html#a0ae714b1349e20e4303523fd551874b3", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionWonMail", "d8/d5b/a10066.html#a050a47e57df42faa26c8d500b7848ecf", null ],
-    [ "OnBeforeAuctionHouseMgrUpdate", "d8/d5b/a10066.html#a6b7ee2a551424c5a8442ce089d0fd1fc", null ]
+    [ "PetitionMgr", "d8/d5b/a10066.html#a2101165239e2f58faeb1ded69fb6d0b8", null ],
+    [ "~PetitionMgr", "d8/d5b/a10066.html#a110d7d33ff92a87b78cd132c6228bd03", null ],
+    [ "AddPetition", "d8/d5b/a10066.html#a0175d79b865a34bc1451bb6c748d785f", null ],
+    [ "AddSignature", "d8/d5b/a10066.html#a00f47487f06ced804371e63427f4afdb", null ],
+    [ "GetPetition", "d8/d5b/a10066.html#a6532eb8de34893d4f63ea68180ca9038", null ],
+    [ "GetPetitionByOwnerWithType", "d8/d5b/a10066.html#a70ae6e41835983678bb9d37d2b766088", null ],
+    [ "GetPetitionStore", "d8/d5b/a10066.html#ab23b6ae6303e2dabcde1981860da8873", null ],
+    [ "GetSignature", "d8/d5b/a10066.html#a90db48e86ad855a4f3c33347dc2991e6", null ],
+    [ "GetSignatureStore", "d8/d5b/a10066.html#af5f18d9200b61cd5e84652c51206f1d7", null ],
+    [ "instance", "d8/d5b/a10066.html#a3bda5778fbc38fefedd463b0b12893cd", null ],
+    [ "LoadPetitions", "d8/d5b/a10066.html#aa612824469e47955f3a231e4abd9bc84", null ],
+    [ "LoadSignatures", "d8/d5b/a10066.html#ad3fa9f06bda57a2ff4bac0f1650f5257", null ],
+    [ "RemovePetition", "d8/d5b/a10066.html#ad6ad64ff57918817def0f948a3c03717", null ],
+    [ "RemovePetitionByOwnerAndType", "d8/d5b/a10066.html#ab4284c466ee19dfb7d5214c598289441", null ],
+    [ "RemoveSignaturesByPlayer", "d8/d5b/a10066.html#a289f09d808c81b5ada9b26e98260f5be", null ],
+    [ "RemoveSignaturesByPlayerAndType", "d8/d5b/a10066.html#a8d30eb7c2d048ada34765193ee823a96", null ],
+    [ "PetitionStore", "d8/d5b/a10066.html#a49bb11e33b39fa77f5394130e8405537", null ],
+    [ "SignatureStore", "d8/d5b/a10066.html#a784ff7990f17d4cfdc4f24b6f863e88e", null ]
 ];

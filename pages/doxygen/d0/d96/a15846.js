@@ -1,8 +1,7 @@
 var a15846 =
 [
-    [ "Load", "d0/d96/a15846.html#a55dc086667f0fe23e513608e951276ed", null ],
-    [ "Phase", "d0/d96/a15846.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
-    [ "PrepareSpellScript", "d0/d96/a15846.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
-    [ "Register", "d0/d96/a15846.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
-    [ "Validate", "d0/d96/a15846.html#a87192df547adaf3cb060155d9cf4da79", null ]
+    [ "DelayedTalk", "d0/d96/a15846.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "d0/d96/a15846.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "d0/d96/a15846.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "d0/d96/a15846.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

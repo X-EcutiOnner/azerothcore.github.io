@@ -1,6 +1,7 @@
 var a05878 =
 [
-    [ "PermissibleOrderPred", "d7/de5/a05878.html#a0f99979c533fb388a2086f419c110f2b", null ],
-    [ "operator()", "d7/de5/a05878.html#a42027be1e7cb7a3589caeafea25d2f75", null ],
-    [ "_obj", "d7/de5/a05878.html#a5872cf90e79107749c4900cb471b2f16", null ]
+    [ "arg1", "d7/de5/a05878.html#aa2018e5823bcf013847605847231e3c2", null ],
+    [ "arg2", "d7/de5/a05878.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
+    [ "arg3", "d7/de5/a05878.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
+    [ "updateType", "d7/de5/a05878.html#a84cace2469c54d57b33abe5ca93588ca", null ]
 ];

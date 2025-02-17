@@ -1,7 +1,6 @@
 var a22542 =
 [
-    [ "boss_veras_darkshadow", "de/dcc/a22542.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "de/dcc/a22542.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "de/dcc/a22542.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "de/dcc/a22542.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "FilterTargets", "de/dcc/a22542.html#abd3fafc2120b7069790dd9822cd62adc", null ],
+    [ "PrepareSpellScript", "de/dcc/a22542.html#aebc0441481a2c458fc904175df931a9e", null ],
+    [ "Register", "de/dcc/a22542.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
 ];

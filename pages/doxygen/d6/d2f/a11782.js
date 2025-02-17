@@ -1,11 +1,11 @@
 var a11782 =
 [
-    [ "boss_doomrelAI", "d6/d2f/a11782.html#a231cc3989d1c575af941a5462ad94cbd", null ],
-    [ "EnterEvadeMode", "d6/d2f/a11782.html#ae633f4cc1747f291a3911ca50ee39370", null ],
-    [ "JustEngagedWith", "d6/d2f/a11782.html#a622f673548b0a6f1db2a59ef69f31ac7", null ],
-    [ "Reset", "d6/d2f/a11782.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc", null ],
-    [ "UpdateAI", "d6/d2f/a11782.html#a3d851f7bd5a78858fd228cac78c05f27", null ],
-    [ "_events", "d6/d2f/a11782.html#aaf800dd1d20dc8288cad5aa21cd602b0", null ],
-    [ "instance", "d6/d2f/a11782.html#aa0fc44bb955e83c2ef7b7373751fc2c2", null ],
-    [ "Voidwalkers", "d6/d2f/a11782.html#af29d871a370a534f508f225d49c3dc9f", null ]
+    [ "npc_rocknotAI", "d6/d2f/a11782.html#a4daa5104eabb6d38c22274b48a8514be", null ],
+    [ "DoGo", "d6/d2f/a11782.html#a7591520e06782feddb98a86107fbcb27", null ],
+    [ "Reset", "d6/d2f/a11782.html#a4d855a23c638e835de6f1c4644350166", null ],
+    [ "UpdateAI", "d6/d2f/a11782.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
+    [ "WaypointReached", "d6/d2f/a11782.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
+    [ "BreakDoor_Timer", "d6/d2f/a11782.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
+    [ "BreakKeg_Timer", "d6/d2f/a11782.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
+    [ "instance", "d6/d2f/a11782.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
 ];

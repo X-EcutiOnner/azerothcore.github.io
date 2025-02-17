@@ -1,6 +1,6 @@
 var a23086 =
 [
-    [ "HandleAfterRemove", "dd/d2b/a23086.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "dd/d2b/a23086.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "dd/d2b/a23086.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "HandleEffectRemove", "dd/d2b/a23086.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
+    [ "PrepareAuraScript", "dd/d2b/a23086.html#adc6f982b0e3cc56039746f425cb09113", null ],
+    [ "Register", "dd/d2b/a23086.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
 ];

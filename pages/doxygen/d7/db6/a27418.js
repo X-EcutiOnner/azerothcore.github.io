@@ -1,13 +1,6 @@
 var a27418 =
 [
-    [ "DBCDatabaseLoader", "d7/db6/a27418.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
-    [ "DBCDatabaseLoader", "d7/db6/a27418.html#a7d93e6d37796f341edcf25062743c5b5", null ],
-    [ "CloneStringToPool", "d7/db6/a27418.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
-    [ "Load", "d7/db6/a27418.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
-    [ "operator=", "d7/db6/a27418.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
-    [ "_dbcFormat", "d7/db6/a27418.html#aa749118514d0b784ac6df295bd820d8e", null ],
-    [ "_recordSize", "d7/db6/a27418.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
-    [ "_sqlIndexPos", "d7/db6/a27418.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
-    [ "_sqlTableName", "d7/db6/a27418.html#ab6590071edf5311ccf484d48e4fd125e", null ],
-    [ "_stringPool", "d7/db6/a27418.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
+    [ "npc_guardianAI", "db/d08/a27422.html", "db/d08/a27422" ],
+    [ "npc_guardian", "d7/db6/a27418.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
+    [ "GetAI", "d7/db6/a27418.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
 ];

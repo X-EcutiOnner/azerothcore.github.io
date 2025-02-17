@@ -1,10 +1,8 @@
 var a09430 =
 [
-    [ "const_iterator", "da/daa/a09430.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
-    [ "StorageType", "da/daa/a09430.html#a6825a379d1af4254b920c14ab0068e7b", null ],
-    [ "BossBoundaryData", "da/daa/a09430.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
-    [ "~BossBoundaryData", "da/daa/a09430.html#a446a3ec16cdce76058761fce972f1e57", null ],
-    [ "begin", "da/daa/a09430.html#a326930360d22d5fdf9a895991f2c4e49", null ],
-    [ "end", "da/daa/a09430.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
-    [ "_data", "da/daa/a09430.html#af60e90664c434a8d36115ca5dec889b5", null ]
+    [ "LocalizedPacketDo", "da/daa/a09430.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
+    [ "~LocalizedPacketDo", "da/daa/a09430.html#a4296260b2011e1f7c300987073863ca9", null ],
+    [ "operator()", "da/daa/a09430.html#a43449bdf0302e426b8cb4341326196b1", null ],
+    [ "i_builder", "da/daa/a09430.html#a2c794905898feb502bfc5d3760f962b8", null ],
+    [ "i_data_cache", "da/daa/a09430.html#a2bbff655e1a5268981c48e3ee028b104", null ]
 ];

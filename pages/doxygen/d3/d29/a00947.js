@@ -1,29 +1,17 @@
 var a00947 =
 [
-    [ "MAX_ACCOUNT_STR", "d3/d29/a00947.html#a134ebf22666a6525929447b2d869d400", null ],
-    [ "MAX_EMAIL_STR", "d3/d29/a00947.html#ad64d9bd18bac10ab1af09b042d734c64", null ],
-    [ "MAX_PASS_STR", "d3/d29/a00947.html#a45827712253b6d66092106cef5ae724b", null ],
-    [ "AccountOpResult", "d3/d29/a00947.html#a0161874ada0cecbbd1fd5d31da73703e", [
-      [ "AOR_OK", "d3/d29/a00947.html#a0161874ada0cecbbd1fd5d31da73703ea73449863bb0d97def55bd65307e97f18", null ],
-      [ "AOR_NAME_TOO_LONG", "d3/d29/a00947.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4", null ],
-      [ "AOR_PASS_TOO_LONG", "d3/d29/a00947.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c", null ],
-      [ "AOR_EMAIL_TOO_LONG", "d3/d29/a00947.html#a0161874ada0cecbbd1fd5d31da73703eaaf639a81cbf8cf6bd685e34d73e895a1", null ],
-      [ "AOR_NAME_ALREADY_EXIST", "d3/d29/a00947.html#a0161874ada0cecbbd1fd5d31da73703eae0b6297de7a7e8b516f5fc98a4d8750c", null ],
-      [ "AOR_NAME_NOT_EXIST", "d3/d29/a00947.html#a0161874ada0cecbbd1fd5d31da73703ea05e659ba76ce9dd582551a24f2923b24", null ],
-      [ "AOR_DB_INTERNAL_ERROR", "d3/d29/a00947.html#a0161874ada0cecbbd1fd5d31da73703ea368516df3522ada12ce8a39c789a687d", null ]
-    ] ],
-    [ "ChangeEmail", "d3/d29/a00947.html#a2a6c83e2d4e6121855beb252f23c905b", null ],
-    [ "ChangePassword", "d3/d29/a00947.html#a6a9cb892c15d78b5de65738005234ff6", null ],
-    [ "ChangeUsername", "d3/d29/a00947.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
-    [ "CheckPassword", "d3/d29/a00947.html#a17c28dfcb31af8f4241bb5210408185a", null ],
-    [ "CreateAccount", "d3/d29/a00947.html#a7a7668ab60ae56c7e71fce77780bb214", null ],
-    [ "DeleteAccount", "d3/d29/a00947.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
-    [ "GetCharactersCount", "d3/d29/a00947.html#a4fb760897161c3d463f842b28bcf7c20", null ],
-    [ "GetId", "d3/d29/a00947.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],
-    [ "GetName", "d3/d29/a00947.html#af911e3860ec519c541d6df35468ee41b", null ],
-    [ "GetSecurity", "d3/d29/a00947.html#a8280510b2564ec6ea76727218c1687b3", null ],
-    [ "GetSecurity", "d3/d29/a00947.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
-    [ "IsAdminAccount", "d3/d29/a00947.html#adb1b210137b09011677c74011addeefa", null ],
-    [ "IsConsoleAccount", "d3/d29/a00947.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
-    [ "IsPlayerAccount", "d3/d29/a00947.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
+    [ "instance_naxxramas", "da/dc9/a19030.html", "da/dc9/a19030" ],
+    [ "instance_naxxramas::instance_naxxramas_InstanceMapScript", "d8/da0/a19034.html", "d8/da0/a19034" ],
+    [ "boss_naxxramas_misc", "d1/d00/a19038.html", "d1/d00/a19038" ],
+    [ "boss_naxxramas_misc::boss_naxxramas_miscAI", "d9/d94/a19042.html", "d9/d94/a19042" ],
+    [ "at_naxxramas_hub_portal", "d8/d00/a19046.html", "d8/d00/a19046" ],
+    [ "AddSC_instance_naxxramas", "d3/d29/a00947.html#aba1e1afda4423e51a1849a33da49a334", null ],
+    [ "GetEruptionSection", "d3/d29/a00947.html#a901343efd9af23ac79087eef84926a75", null ],
+    [ "creatureData", "d3/d29/a00947.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d3/d29/a00947.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "d3/d29/a00947.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
+    [ "HeiganEruptionSlope", "d3/d29/a00947.html#afc813e25da4423b11b3f71a4c3434b43", null ],
+    [ "HeiganPos", "d3/d29/a00947.html#a329c88a19bf7f6ee06251fb30b96aa80", null ],
+    [ "HorsemanCount", "d3/d29/a00947.html#ad95f54c0a227c67f4b8d5d346ffb7ec0", null ],
+    [ "sapphironEntryTP", "d3/d29/a00947.html#a11d995fa7a0e4c0af781d298ab2ce3a7", null ]
 ];

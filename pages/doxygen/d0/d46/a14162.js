@@ -1,15 +1,11 @@
 var a14162 =
 [
-    [ "npc_midsummer_bonfire", "d0/d46/a14162.html#a07c8b1add555697fdb29fda89f42c4af", null ],
-    [ "Ignite", "d0/d46/a14162.html#a2a398299b3584e3a871b1b6e83b4ff5f", null ],
-    [ "InitBonfire", "d0/d46/a14162.html#a9210a0a472d609f66895bfa0a8e324b0", null ],
-    [ "SpellHit", "d0/d46/a14162.html#a9ad2102b2dea60fbb81c1578b97f34dc", null ],
-    [ "StampOut", "d0/d46/a14162.html#a1f8bd11d0f49c0a44764a2f34e6ee147", null ],
-    [ "UpdateAI", "d0/d46/a14162.html#a46733a171006e4693a32391cfe954050", null ],
-    [ "UpdateBonfireBlessingBuffs", "d0/d46/a14162.html#a1236b61f21ff1a1b85bbc7058ca8e17c", null ],
-    [ "_bonfire", "d0/d46/a14162.html#aaa2f2822cb5c104ec2d90c2a344b409d", null ],
-    [ "_isStampedOut", "d0/d46/a14162.html#aa21c9f7a5d7ac29663d94da55ef34373", null ],
-    [ "_spellFocus", "d0/d46/a14162.html#abef815568f7d39bbda20f9611e3abc52", null ],
-    [ "_teamId", "d0/d46/a14162.html#a5c0894721d13dd49961c0687c100d7a5", null ],
-    [ "_type", "d0/d46/a14162.html#a7c26b81f24dc2fc0ed9fc53d1d5935f5", null ]
+    [ "o", "d0/d46/a14162.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
+    [ "rot0", "d0/d46/a14162.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
+    [ "rot1", "d0/d46/a14162.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
+    [ "rot2", "d0/d46/a14162.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
+    [ "rot3", "d0/d46/a14162.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
+    [ "x", "d0/d46/a14162.html#a6e527854cf0959995d6b0133dedc94c9", null ],
+    [ "y", "d0/d46/a14162.html#a7536047696bd4883237369976b503131", null ],
+    [ "z", "d0/d46/a14162.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
 ];

@@ -1,8 +1,7 @@
 var a08706 =
 [
-    [ "TempSummonGroupKey", "d1/d64/a08706.html#ae1bd752c8fc7d037d6942b32859ce1ad", null ],
-    [ "operator<", "d1/d64/a08706.html#ae92c7712bd58b9b773ddaac3d2b8a345", null ],
-    [ "_summonerEntry", "d1/d64/a08706.html#a0ecac0e82ce63c9e64f2e17d941df447", null ],
-    [ "_summonerType", "d1/d64/a08706.html#ac6bf8fb36092134f63409f3cddc5f810", null ],
-    [ "_summonGroup", "d1/d64/a08706.html#a1a90f3bf90363f88828cc217dd7ceda6", null ]
+    [ "HealthPctOrderPred", "d1/d64/a08706.html#a5c83c0ba35b9febbe6a62dae63995f97", null ],
+    [ "operator()", "d1/d64/a08706.html#a2c7f4043e5268b13bf0d9f46e9709a9b", null ],
+    [ "operator()", "d1/d64/a08706.html#a23f2dc594fd531d02cd6eae0faa7f6b7", null ],
+    [ "_ascending", "d1/d64/a08706.html#a4c34feefafc014b50ba2869a9bdb9959", null ]
 ];

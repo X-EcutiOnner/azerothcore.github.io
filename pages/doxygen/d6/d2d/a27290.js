@@ -1,11 +1,11 @@
 var a27290 =
 [
-    [ "npc_injured_patientAI", "d6/d2d/a27290.html#a0973487623f1771c598648bc06a6d9a3", null ],
-    [ "JustEngagedWith", "d6/d2d/a27290.html#a621a8cc3f6b9655760431d52766ca589", null ],
-    [ "Reset", "d6/d2d/a27290.html#a007c9c7a4047374574cad17e9309d7c1", null ],
-    [ "SpellHit", "d6/d2d/a27290.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
-    [ "UpdateAI", "d6/d2d/a27290.html#a54d0a5574175747779878dce0ebfd44f", null ],
-    [ "_scheduler", "d6/d2d/a27290.html#a60428fa97c8f6520338d53ed368c4c35", null ],
-    [ "Coord", "d6/d2d/a27290.html#af5a6f87c0379edd07a8756018b0c8661", null ],
-    [ "DoctorGUID", "d6/d2d/a27290.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
+    [ "npc_artoriusAI", "d6/d2d/a27290.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
+    [ "DamageTaken", "d6/d2d/a27290.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
+    [ "DoAction", "d6/d2d/a27290.html#abbfc9ee752d97f1694dbd739719843c2", null ],
+    [ "JustEngagedWith", "d6/d2d/a27290.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
+    [ "Reset", "d6/d2d/a27290.html#a862cc52a9251e2dfe486f1152dae9500", null ],
+    [ "SpellHit", "d6/d2d/a27290.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
+    [ "UpdateAI", "d6/d2d/a27290.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
+    [ "events", "d6/d2d/a27290.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
 ];

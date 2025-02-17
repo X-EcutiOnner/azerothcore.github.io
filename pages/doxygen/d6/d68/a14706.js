@@ -1,7 +1,6 @@
 var a14706 =
 [
-    [ "FilterTargets", "d6/d68/a14706.html#a59e477333a54ec828a429d15b35d4936", null ],
-    [ "HandleScript", "d6/d68/a14706.html#a983fe53aa52e53a45685055fde04a3b7", null ],
-    [ "PrepareSpellScript", "d6/d68/a14706.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
-    [ "Register", "d6/d68/a14706.html#a45ac61990990f16c98eaa7136297afc5", null ]
+    [ "instance_maraudon_InstanceMapScript", "d4/de3/a14710.html", "d4/de3/a14710" ],
+    [ "instance_maraudon", "d6/d68/a14706.html#aaae11d2569d04b42840b101a5702cf24", null ],
+    [ "GetInstanceScript", "d6/d68/a14706.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
 ];

@@ -1,6 +1,6 @@
 var a18950 =
 [
-    [ "npc_nexus_lordAI", "df/d3f/a18954.html", "df/d3f/a18954" ],
-    [ "npc_nexus_lord", "d9/d28/a18950.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
-    [ "GetAI", "d9/d28/a18950.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
+    [ "boss_nothAI", "df/d3f/a18954.html", "df/d3f/a18954" ],
+    [ "boss_noth", "d9/d28/a18950.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
+    [ "GetAI", "d9/d28/a18950.html#a534f30792c051ab44c6c07c9347893e5", null ]
 ];

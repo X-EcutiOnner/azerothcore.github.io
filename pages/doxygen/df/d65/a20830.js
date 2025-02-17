@@ -1,6 +1,6 @@
 var a20830 =
 [
-    [ "npc_ferocious_rhinoAI", "db/d46/a20834.html", "db/d46/a20834" ],
-    [ "npc_ferocious_rhino", "df/d65/a20830.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "df/d65/a20830.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "df/d65/a20830.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "df/d65/a20830.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "df/d65/a20830.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

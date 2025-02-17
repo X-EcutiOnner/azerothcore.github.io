@@ -1,9 +1,6 @@
 var a21314 =
 [
-    [ "npc_bloodmage_laurithAI", "dc/ddc/a21314.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "dc/ddc/a21314.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "dc/ddc/a21314.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
-    [ "UpdateAI", "dc/ddc/a21314.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "dc/ddc/a21314.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "dc/ddc/a21314.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "HandleEffectPeriodic", "dc/ddc/a21314.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "dc/ddc/a21314.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "dc/ddc/a21314.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

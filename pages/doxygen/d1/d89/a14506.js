@@ -1,6 +1,8 @@
 var a14506 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "d6/d56/a14510.html", "d6/d56/a14510" ],
-    [ "instance_old_hillsbrad", "d1/d89/a14506.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
-    [ "GetInstanceScript", "d1/d89/a14506.html#a1929c38b1c745b2df1ccaf462113e220", null ]
+    [ "hyjalTyrandeAI", "d1/d89/a14506.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
+    [ "JustDied", "d1/d89/a14506.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
+    [ "JustEngagedWith", "d1/d89/a14506.html#a158589b567d22c8f6e0be462bad8299d", null ],
+    [ "Reset", "d1/d89/a14506.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
+    [ "UpdateAI", "d1/d89/a14506.html#a9e825f9d87df6227b73eb965488eff8a", null ]
 ];

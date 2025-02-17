@@ -1,8 +1,13 @@
 var a08606 =
 [
-    [ "AttackPosition", "dc/dd9/a08606.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
-    [ "operator=", "dc/dd9/a08606.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
-    [ "operator==", "dc/dd9/a08606.html#a320adced006c0f70456492c9e9dc99c2", null ],
-    [ "_pos", "dc/dd9/a08606.html#a77783e0e6e83836ad6e5903535ad9370", null ],
-    [ "_taken", "dc/dd9/a08606.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
+    [ "PassengerSet", "dc/dd9/a08606.html#aa6421ebd51e84c819604e18e93729d27", null ],
+    [ "Transport", "dc/dd9/a08606.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
+    [ "AddPassenger", "dc/dd9/a08606.html#ac5c328f816b0358a68265322219357c1", null ],
+    [ "CalculatePassengerOffset", "dc/dd9/a08606.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
+    [ "CalculatePassengerPosition", "dc/dd9/a08606.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
+    [ "GetPassengers", "dc/dd9/a08606.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
+    [ "GetPathProgress", "dc/dd9/a08606.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
+    [ "RemovePassenger", "dc/dd9/a08606.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
+    [ "SetPathProgress", "dc/dd9/a08606.html#acb68e75a78fa196a4b514abd24c0e322", null ],
+    [ "_passengers", "dc/dd9/a08606.html#adc2089495aadaab23414ecae3b2df180", null ]
 ];

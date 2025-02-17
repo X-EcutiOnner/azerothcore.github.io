@@ -1,6 +1,6 @@
 var a14742 =
 [
-    [ "HandleDamageCalc", "d6/da2/a14742.html#a03eb92eff300872cd5fca452a99375ab", null ],
-    [ "PrepareSpellScript", "d6/da2/a14742.html#ac07421b62bb6044dad89431839a70bd8", null ],
-    [ "Register", "d6/da2/a14742.html#a70cbf764ab475e2358fa6630798cab9d", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d5/d11/a14746.html", "d5/d11/a14746" ],
+    [ "instance_razorfen_downs", "d6/da2/a14742.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
+    [ "GetInstanceScript", "d6/da2/a14742.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
 ];

@@ -1,5 +1,6 @@
 var a04046 =
 [
-    [ "disable_commandscript", "db/d65/a11422.html", "db/d65/a11422" ],
-    [ "AddSC_disable_commandscript", "d3/d14/a04046.html#a232e1ddbf34ceae5a317df69255bc8de", null ]
+    [ "CharacterDatabase", "d3/d14/a04046.html#a7e7534bc66d79434bd280b77cb124eec", null ],
+    [ "LoginDatabase", "d3/d14/a04046.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
+    [ "WorldDatabase", "d3/d14/a04046.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
 ];

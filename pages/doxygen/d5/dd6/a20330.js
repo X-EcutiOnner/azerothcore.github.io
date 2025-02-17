@@ -1,6 +1,6 @@
 var a20330 =
 [
-    [ "boss_thorim_sif_blizzardAI", "d7/dd1/a20334.html", "d7/dd1/a20334" ],
-    [ "boss_thorim_sif_blizzard", "d5/dd6/a20330.html#acc42b4c9434f9eece2d93c2e4f3697fc", null ],
-    [ "GetAI", "d5/dd6/a20330.html#afbff96363951c952a195f5c2a105e279", null ]
+    [ "npc_ulduar_rocket_strike_triggerAI", "d7/dd1/a20334.html", "d7/dd1/a20334" ],
+    [ "npc_ulduar_rocket_strike_trigger", "d5/dd6/a20330.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
+    [ "GetAI", "d5/dd6/a20330.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
 ];

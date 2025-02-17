@@ -1,37 +1,10 @@
 var a01172 =
 [
-    [ "GlobalCooldown", "de/d71/a08530.html", "de/d71/a08530" ],
-    [ "GlobalCooldownMgr", "d4/d26/a08534.html", "d4/d26/a08534" ],
-    [ "UnitActionBarEntry", "d7/d03/a08538.html", "d7/d03/a08538" ],
-    [ "CharmInfo", "d3/d31/a08542.html", "d3/d31/a08542" ],
-    [ "MAKE_UNIT_ACTION_BUTTON", "d6/db6/a01172.html#aa4580ef0cb84c2cc5983e75cb92e3ed1", null ],
-    [ "MAX_SPELL_CHARM", "d6/db6/a01172.html#a05307279d313f131c83ace9bf30d5722", null ],
-    [ "MAX_SPELL_CONTROL_BAR", "d6/db6/a01172.html#af3f4a89bfde2856dbf998cc7d89f8c51", null ],
-    [ "MAX_SPELL_POSSESS", "d6/db6/a01172.html#a19b65e7e2b9f40fcfa66e74212d561c9", null ],
-    [ "MAX_SPELL_VEHICLE", "d6/db6/a01172.html#a6b632c5f71fb4538f4477a66a9ac63f4", null ],
-    [ "MAX_UNIT_ACTION_BAR_INDEX", "d6/db6/a01172.html#a155b8633f243004497699c184b903901", null ],
-    [ "UNIT_ACTION_BUTTON_ACTION", "d6/db6/a01172.html#a374f41406d42023d52c29bb269ccb2b3", null ],
-    [ "UNIT_ACTION_BUTTON_TYPE", "d6/db6/a01172.html#ab00914d5fa4caf6cad7209786ffaf17c", null ],
-    [ "CharmSpellInfo", "d6/db6/a01172.html#a127d601b79cebafada7224b7b4e0c4a2", null ],
-    [ "GlobalCooldownList", "d6/db6/a01172.html#a2f37b877a5fc8dc31f4543660a5b1af9", null ],
-    [ "ActionBarIndex", "d6/db6/a01172.html#a5656c6dd354cdc76da16094dd6f96724", [
-      [ "ACTION_BAR_INDEX_START", "d6/db6/a01172.html#a5656c6dd354cdc76da16094dd6f96724ac963f447654b9785c3236c79ea310b09", null ],
-      [ "ACTION_BAR_INDEX_PET_SPELL_START", "d6/db6/a01172.html#a5656c6dd354cdc76da16094dd6f96724a1b9025dc7f8331f6ca9fd0cfce1b0ae9", null ],
-      [ "ACTION_BAR_INDEX_PET_SPELL_END", "d6/db6/a01172.html#a5656c6dd354cdc76da16094dd6f96724a56eab700626db82e8012fc8daac5cee9", null ],
-      [ "ACTION_BAR_INDEX_END", "d6/db6/a01172.html#a5656c6dd354cdc76da16094dd6f96724a64eaabebc81e8d02513089d4d5591264", null ]
-    ] ],
-    [ "ActiveStates", "d6/db6/a01172.html#aaec28a439b9086a5fd69bd5358bb46da", [
-      [ "ACT_PASSIVE", "d6/db6/a01172.html#aaec28a439b9086a5fd69bd5358bb46daad917b891f555940a135b2634d2e72b3b", null ],
-      [ "ACT_DISABLED", "d6/db6/a01172.html#aaec28a439b9086a5fd69bd5358bb46daadeaf81cdbd16fe7cfbb9afd2ae17cc17", null ],
-      [ "ACT_ENABLED", "d6/db6/a01172.html#aaec28a439b9086a5fd69bd5358bb46daa60dbce51e005270fd5bc183457883952", null ],
-      [ "ACT_COMMAND", "d6/db6/a01172.html#aaec28a439b9086a5fd69bd5358bb46daa33c1330b175929e3016c6bb437b60ae8", null ],
-      [ "ACT_REACTION", "d6/db6/a01172.html#aaec28a439b9086a5fd69bd5358bb46daa0435ad3a133e548a54374e9d90d39f0d", null ],
-      [ "ACT_DECIDE", "d6/db6/a01172.html#aaec28a439b9086a5fd69bd5358bb46daa24d8db1d523431e423ef8354296ed162", null ]
-    ] ],
-    [ "CharmType", "d6/db6/a01172.html#a8a31720d588fad9fce4a74dabc39df8b", [
-      [ "CHARM_TYPE_CHARM", "d6/db6/a01172.html#a8a31720d588fad9fce4a74dabc39df8ba1a1eeed651d163cde9401370f9684249", null ],
-      [ "CHARM_TYPE_POSSESS", "d6/db6/a01172.html#a8a31720d588fad9fce4a74dabc39df8ba2a5727b1c99073b12be5d2e5413cc9eb", null ],
-      [ "CHARM_TYPE_VEHICLE", "d6/db6/a01172.html#a8a31720d588fad9fce4a74dabc39df8ba5db5c00596b83fd1ed870c3fea737fa6", null ],
-      [ "CHARM_TYPE_CONVERT", "d6/db6/a01172.html#a8a31720d588fad9fce4a74dabc39df8ba3086533ebf4fa00b6546f53176b512db", null ]
-    ] ]
+    [ "AddPetScripts", "d6/db6/a01172.html#aaeb6a149e6495db19023f37a4f8bd882", null ],
+    [ "AddSC_deathknight_pet_scripts", "d6/db6/a01172.html#ac6a5b089240cd6b996928b3e7f9137b3", null ],
+    [ "AddSC_generic_pet_scripts", "d6/db6/a01172.html#a9852812a043673e45884dca938eff157", null ],
+    [ "AddSC_hunter_pet_scripts", "d6/db6/a01172.html#ab89117a79c55f003f82b06a1878e6534", null ],
+    [ "AddSC_mage_pet_scripts", "d6/db6/a01172.html#a689a4efb7777f4164aee994745a0e2d2", null ],
+    [ "AddSC_priest_pet_scripts", "d6/db6/a01172.html#ac0eaa77dc1cb9a092b318e3bc3f6d5b8", null ],
+    [ "AddSC_shaman_pet_scripts", "d6/db6/a01172.html#ab07e634ed761985e07d5c0e10f329231", null ]
 ];

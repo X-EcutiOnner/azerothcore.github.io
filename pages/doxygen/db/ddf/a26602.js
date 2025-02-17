@@ -1,6 +1,11 @@
 var a26602 =
 [
-    [ "PrepareSpellScript", "db/ddf/a26602.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "db/ddf/a26602.html#a81bc86c83ffc70602410912870e61700", null ],
-    [ "VictoryRushHit", "db/ddf/a26602.html#a89387a25e67af1d47ef7f5b95344ccb0", null ]
+    [ "CalcPeriodic", "db/ddf/a26602.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
+    [ "CalculateAPAmount", "db/ddf/a26602.html#a72bd308dbeaa7eca5685f3e5055d7fad", null ],
+    [ "CalculateResistanceAmount", "db/ddf/a26602.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
+    [ "CalculateSPAmount", "db/ddf/a26602.html#a114c868f0dc31f3370588b1bd1f18894", null ],
+    [ "CalculateStatAmount", "db/ddf/a26602.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
+    [ "HandlePeriodic", "db/ddf/a26602.html#af5076795e8bf6abd45590a060f9e5b52", null ],
+    [ "PrepareAuraScript", "db/ddf/a26602.html#aa512873852c0eea9947472fcb60fbfc2", null ],
+    [ "Register", "db/ddf/a26602.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
 ];

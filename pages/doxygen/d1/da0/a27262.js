@@ -1,8 +1,10 @@
 var a27262 =
 [
-    [ "npc_chicken_cluckAI", "da/dab/a27266.html", "da/dab/a27266" ],
-    [ "npc_chicken_cluck", "d1/da0/a27262.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "d1/da0/a27262.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "d1/da0/a27262.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "d1/da0/a27262.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "npc_prof_alchemy", "d1/da0/a27262.html#a43ea842214fc507c34586d12df8f7fea", null ],
+    [ "HasAlchemySpell", "d1/da0/a27262.html#ac9df824e0923ca86189a53ae391b43c0", null ],
+    [ "OnGossipHello", "d1/da0/a27262.html#add760c538c7882e1ad8331b8ded74f5c", null ],
+    [ "OnGossipSelect", "d1/da0/a27262.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
+    [ "SendActionMenu", "d1/da0/a27262.html#a2d4c7337b40be323a384a9e755fc3145", null ],
+    [ "SendConfirmLearn", "d1/da0/a27262.html#a548224b30494636b9ee292a533fc7b39", null ],
+    [ "SendConfirmUnlearn", "d1/da0/a27262.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
 ];

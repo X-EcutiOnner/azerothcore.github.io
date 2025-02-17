@@ -1,18 +1,13 @@
 var a04773 =
 [
-    [ "BuildStats", "d5/d4a/a04773.html#a9a2e28e15f755a8a0b5751d62664734f", null ],
-    [ "printStats", "d5/d4a/a04773.html#a77e7b7ff44c0f16fc2b5d4370c18751b", null ],
-    [ "updateBVH2", "d5/d4a/a04773.html#a9f30e85b3eaa67dc38a28e3472c56de3", null ],
-    [ "updateInner", "d5/d4a/a04773.html#a1a3087af9d859d25cd9d475ad8987ca3", null ],
-    [ "updateLeaf", "d5/d4a/a04773.html#ae8cf4ba9eaa7dc424914483ab3fafeba", null ],
-    [ "maxDepth", "d5/d4a/a04773.html#a855eb250661d80a9313b926556e12168", null ],
-    [ "maxObjects", "d5/d4a/a04773.html#acd34211244a97c08193421818f326ff9", null ],
-    [ "minDepth", "d5/d4a/a04773.html#a90121f1721624ae2be8b3e6860d02f23", null ],
-    [ "minObjects", "d5/d4a/a04773.html#a0d3d26a62ae4aeb18fdff7d07a4b7873", null ],
-    [ "numBVH2", "d5/d4a/a04773.html#a37d64390b3f004f36588c1467a446cd0", null ],
-    [ "numLeaves", "d5/d4a/a04773.html#a6546dd9cc0de2cba9159f6ab2477b81f", null ],
-    [ "numLeavesN", "d5/d4a/a04773.html#a208e3c10fbd61fa6d4cc6736140ddfb1", null ],
-    [ "numNodes", "d5/d4a/a04773.html#afbedc638e0117b7ca5c5f1e447846717", null ],
-    [ "sumDepth", "d5/d4a/a04773.html#a11cf172a3108b68efc5974b614187550", null ],
-    [ "sumObjects", "d5/d4a/a04773.html#a84aa8066e8e19902aecec45607d7a93d", null ]
+    [ "anonymous_namespace{AddonMgr.cpp}", "de/d04/a04774.html", [
+      [ "SavedAddonsList", "de/d04/a04774.html#afa468163a23ed58507a89e5724c06eac", null ],
+      [ "m_bannedAddons", "de/d04/a04774.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
+      [ "m_knownAddons", "de/d04/a04774.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
+    ] ],
+    [ "BannedAddonList", "d5/d4a/a04773.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
+    [ "GetAddonInfo", "d5/d4a/a04773.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "d5/d4a/a04773.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "d5/d4a/a04773.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "d5/d4a/a04773.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
 ];

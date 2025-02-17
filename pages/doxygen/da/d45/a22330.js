@@ -1,8 +1,5 @@
 var a22330 =
 [
-    [ "npc_yor", "da/d45/a22330.html#a43ed8720d06c035085d481dbe6539dca", null ],
-    [ "JustEngagedWith", "da/d45/a22330.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
-    [ "Reset", "da/d45/a22330.html#aa698540b646fd870b33afbaf19ddbe07", null ],
-    [ "UpdateAI", "da/d45/a22330.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
-    [ "_scheduler", "da/d45/a22330.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
+    [ "OutdoorPvP_grizzly_hills", "da/d45/a22330.html#aa020d8120c62874fb15b4623bbb714d9", null ],
+    [ "GetOutdoorPvP", "da/d45/a22330.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
 ];

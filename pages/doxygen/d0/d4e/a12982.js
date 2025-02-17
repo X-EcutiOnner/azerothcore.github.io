@@ -1,8 +1,7 @@
 var a12982 =
 [
-    [ "npc_madrigosa", "d0/d4e/a12982.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
-    [ "DoAction", "d0/d4e/a12982.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
-    [ "UpdateAI", "d0/d4e/a12982.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
-    [ "events", "d0/d4e/a12982.html#a5859e4c8454371eb71740616d4763c0e", null ],
-    [ "instance", "d0/d4e/a12982.html#a09525d3bb35d1da4246bd84bbadea304", null ]
+    [ "HandleEffectApply", "d0/d4e/a12982.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "d0/d4e/a12982.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "d0/d4e/a12982.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "d0/d4e/a12982.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

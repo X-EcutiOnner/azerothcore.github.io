@@ -1,7 +1,6 @@
 var a16246 =
 [
-    [ "HandleEffectPeriodic", "da/d85/a16246.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "da/d85/a16246.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "da/d85/a16246.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "da/d85/a16246.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_toc_shadow_priestAI", "dc/dbe/a16250.html", "dc/dbe/a16250" ],
+    [ "npc_toc_shadow_priest", "da/d85/a16246.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
+    [ "GetAI", "da/d85/a16246.html#a93b38d23759da3b7417dbb94b4a951da", null ]
 ];

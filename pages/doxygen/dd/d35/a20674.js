@@ -1,6 +1,6 @@
 var a20674 =
 [
-    [ "OnEffect", "dd/d35/a20674.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "dd/d35/a20674.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "dd/d35/a20674.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "boss_yoggsaron_corruptor_tentacleAI", "d8/d1e/a20678.html", "d8/d1e/a20678" ],
+    [ "boss_yoggsaron_corruptor_tentacle", "dd/d35/a20674.html#a86fbf881f0a861124dda085347bb03bd", null ],
+    [ "GetAI", "dd/d35/a20674.html#a7325d6feaa12d74c030152ba3a0ab756", null ]
 ];

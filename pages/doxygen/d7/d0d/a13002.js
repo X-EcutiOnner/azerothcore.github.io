@@ -1,12 +1,14 @@
 var a13002 =
 [
-    [ "boss_sacrolash", "d7/d0d/a13002.html#a6e251340b2ba8a8300611cf229b93095", null ],
-    [ "DoAction", "d7/d0d/a13002.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
-    [ "EnterEvadeMode", "d7/d0d/a13002.html#a84d7f8764eb5b6816cdd095158a434b1", null ],
-    [ "JustDied", "d7/d0d/a13002.html#a17c995220572cf803c36470ca80840e2", null ],
-    [ "JustEngagedWith", "d7/d0d/a13002.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
-    [ "JustSummoned", "d7/d0d/a13002.html#a94214bc45414f61ff53102d6136b7b5c", null ],
-    [ "KilledUnit", "d7/d0d/a13002.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
-    [ "Reset", "d7/d0d/a13002.html#aa3128dae87d181e7ab93cf3a13723982", null ],
-    [ "_isSisterDead", "d7/d0d/a13002.html#a248d37df91c82069321fc5ea8b1e885d", null ]
+    [ "boss_apothecary_hummelAI", "d7/d0d/a13002.html#a75796eb8dc83729f2f726ff51317bd66", null ],
+    [ "DamageTaken", "d7/d0d/a13002.html#a2af77fbe7f089b5da20d2ff693cfcedf", null ],
+    [ "DoAction", "d7/d0d/a13002.html#a03fb543ba20f92d5528bf4667c457631", null ],
+    [ "JustDied", "d7/d0d/a13002.html#a3c7bc5f9aa04f155debbdacafed6163d", null ],
+    [ "Reset", "d7/d0d/a13002.html#a31381343d2533af670941baf872b3635", null ],
+    [ "sGossipSelect", "d7/d0d/a13002.html#a1a9953c37286fd40c0aa0eebfec3eb86", null ],
+    [ "SummonedCreatureDies", "d7/d0d/a13002.html#a8947cbd1c2856334a0d6529bc664f71b", null ],
+    [ "UpdateAI", "d7/d0d/a13002.html#a61e4d85ecd592142ba07588512505990", null ],
+    [ "_deadCount", "d7/d0d/a13002.html#aaac2018e16b80997f884745732605559", null ],
+    [ "_isDead", "d7/d0d/a13002.html#aa3c37a38b95c6b3bec4e3b787d2155df", null ],
+    [ "_phase", "d7/d0d/a13002.html#a951d68d4e645860cdb5c5e348bf1fff4", null ]
 ];

@@ -1,11 +1,11 @@
 var a08654 =
 [
-    [ "VehicleSeatAddon", "d3/dd0/a08654.html#a307b278917998116156e41f9189a582c", null ],
-    [ "VehicleSeatAddon", "d3/dd0/a08654.html#adaec12df869a9ffc81174f5ef1f65606", null ],
-    [ "ExitParameter", "d3/dd0/a08654.html#afbb8de193522f1182efff50064e5f83d", null ],
-    [ "ExitParameterO", "d3/dd0/a08654.html#a06e385ea5cf0441721432925251a5a63", null ],
-    [ "ExitParameterX", "d3/dd0/a08654.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
-    [ "ExitParameterY", "d3/dd0/a08654.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
-    [ "ExitParameterZ", "d3/dd0/a08654.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
-    [ "SeatOrientationOffset", "d3/dd0/a08654.html#a374c73b40f6e6dad103b172d1829a31d", null ]
+    [ "DispelInfo", "d3/dd0/a08654.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
+    [ "GetDispeller", "d3/dd0/a08654.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
+    [ "GetDispellerSpellId", "d3/dd0/a08654.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
+    [ "GetRemovedCharges", "d3/dd0/a08654.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
+    [ "SetRemovedCharges", "d3/dd0/a08654.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
+    [ "_chargesRemoved", "d3/dd0/a08654.html#a5b6105f37470acb57bbda3e14ee664be", null ],
+    [ "_dispellerSpell", "d3/dd0/a08654.html#a484e6d516c5de30413e97f2c4abb5515", null ],
+    [ "_dispellerUnit", "d3/dd0/a08654.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
 ];

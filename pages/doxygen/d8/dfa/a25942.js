@@ -1,6 +1,7 @@
 var a25942 =
 [
-    [ "CheckCast", "d8/dfa/a25942.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
-    [ "PrepareSpellScript", "d8/dfa/a25942.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
-    [ "Register", "d8/dfa/a25942.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
+    [ "OnProc", "d8/dfa/a25942.html#a304fd48cc79d3e7371212632d276b2ff", null ],
+    [ "PrepareAuraScript", "d8/dfa/a25942.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
+    [ "Register", "d8/dfa/a25942.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
+    [ "Validate", "d8/dfa/a25942.html#adc217147d7c150d66dad4d3e922cff96", null ]
 ];

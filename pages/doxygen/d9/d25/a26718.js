@@ -1,5 +1,6 @@
 var a26718 =
 [
-    [ "achievement_bg_ic_mowed_down", "d9/d25/a26718.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "d9/d25/a26718.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "PrepareSpellScript", "d9/d25/a26718.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
+    [ "Register", "d9/d25/a26718.html#a81bc86c83ffc70602410912870e61700", null ],
+    [ "VictoryRushHit", "d9/d25/a26718.html#a89387a25e67af1d47ef7f5b95344ccb0", null ]
 ];

@@ -1,9 +1,7 @@
 var a22022 =
 [
-    [ "HandlePeriodic", "d2/dab/a22022.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
-    [ "Load", "d2/dab/a22022.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
-    [ "PrepareAuraScript", "d2/dab/a22022.html#a1057e5262d413149a023bc904a3c3751", null ],
-    [ "Register", "d2/dab/a22022.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
-    [ "Validate", "d2/dab/a22022.html#a85d7ac258d50f690574ad7656256cd05", null ],
-    [ "_counter", "d2/dab/a22022.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
+    [ "npc_engineer_heliceAI", "d6/de3/a22026.html", "d6/de3/a22026" ],
+    [ "npc_engineer_helice", "d2/dab/a22022.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
+    [ "GetAI", "d2/dab/a22022.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
+    [ "OnQuestAccept", "d2/dab/a22022.html#ae0979d68744372d5d4669b6f014eb123", null ]
 ];

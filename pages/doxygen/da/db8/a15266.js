@@ -1,16 +1,11 @@
 var a15266 =
 [
-    [ "npc_qiraj_war_spawnAI", "da/db8/a15266.html#a1122bc3961300ba39c02613ba0fcd909", null ],
-    [ "JustDied", "da/db8/a15266.html#ada3362722a2f7a4ac5e3e807385c30fc", null ],
-    [ "JustEngagedWith", "da/db8/a15266.html#a628da97f8b8bda848880c53a509ad1f5", null ],
-    [ "Reset", "da/db8/a15266.html#a617104afe4d5cca5cd0d98fe12cb1608", null ],
-    [ "UpdateAI", "da/db8/a15266.html#afeed6ddc214d7d6ba6156a90e4465cb2", null ],
-    [ "hasTarget", "da/db8/a15266.html#ad36ad196f757d6014f7aa7cf7afb167b", null ],
-    [ "MobGUID", "da/db8/a15266.html#a4148121a56275770ee84744a0288b6c5", null ],
-    [ "PlayerGUID", "da/db8/a15266.html#a9e4294e9b7ce773263e0bd16512602ce", null ],
-    [ "SpellTimer1", "da/db8/a15266.html#a8979a90473c62aad604857d92574e5f1", null ],
-    [ "SpellTimer2", "da/db8/a15266.html#a91cb2356a92ef987bd1ba6d31b560ec1", null ],
-    [ "SpellTimer3", "da/db8/a15266.html#aeea20bb2f78ece03df38a3e9aa5d8b59", null ],
-    [ "SpellTimer4", "da/db8/a15266.html#a301971cf821e68e6be3223d4076f8b49", null ],
-    [ "Timers", "da/db8/a15266.html#a460bbddfe94e9c84eaa0ad83e087ebf4", null ]
+    [ "npc_tiger_matriarchAI", "da/db8/a15266.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
+    [ "DamageTaken", "da/db8/a15266.html#ab41c4275fe4f42b36615f746a100ccda", null ],
+    [ "IsSummonedBy", "da/db8/a15266.html#a8b02683be93944a65b38658bba0af4d8", null ],
+    [ "JustEngagedWith", "da/db8/a15266.html#a9a9295008552f5330f778dd3a0c591ea", null ],
+    [ "KilledUnit", "da/db8/a15266.html#aabde7633ac07966ee1cd2d9817582189", null ],
+    [ "UpdateAI", "da/db8/a15266.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
+    [ "_events", "da/db8/a15266.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
+    [ "_tigerGuid", "da/db8/a15266.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
 ];

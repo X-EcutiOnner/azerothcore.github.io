@@ -1,7 +1,12 @@
 var a23370 =
 [
-    [ "HandleOnApply", "dc/dbe/a23370.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "dc/dbe/a23370.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "dc/dbe/a23370.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "dc/dbe/a23370.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "boss_omor_the_unscarred", "dc/dbe/a23370.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "dc/dbe/a23370.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "dc/dbe/a23370.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "dc/dbe/a23370.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "dc/dbe/a23370.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "dc/dbe/a23370.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "dc/dbe/a23370.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "dc/dbe/a23370.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "dc/dbe/a23370.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

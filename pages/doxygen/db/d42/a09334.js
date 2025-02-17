@@ -1,12 +1,9 @@
 var a09334 =
 [
-    [ "EventLogEntry", "db/d42/a09334.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
-    [ "EventLogEntry", "db/d42/a09334.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
-    [ "~EventLogEntry", "db/d42/a09334.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
-    [ "SaveToDB", "db/d42/a09334.html#a2ca71e291a44f95bb42d51083aa84985", null ],
-    [ "WritePacket", "db/d42/a09334.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
-    [ "m_eventType", "db/d42/a09334.html#a00216643e6856591402c21df490c1fec", null ],
-    [ "m_newRank", "db/d42/a09334.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
-    [ "m_playerGuid1", "db/d42/a09334.html#a06a2b45d16860c711829f49f97624272", null ],
-    [ "m_playerGuid2", "db/d42/a09334.html#a1f66e71f9536e484663e437bbcbcefca", null ]
+    [ "NearestHostileUnitCheck", "db/d42/a09334.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
+    [ "NearestHostileUnitCheck", "db/d42/a09334.html#a2fe620370289850eb0362823de2072d1", null ],
+    [ "operator()", "db/d42/a09334.html#a04c85a77d660bbc74279d1062dabc375", null ],
+    [ "i_playerOnly", "db/d42/a09334.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
+    [ "m_range", "db/d42/a09334.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
+    [ "me", "db/d42/a09334.html#a67cef25e6f725ea42f0377df34d48495", null ]
 ];

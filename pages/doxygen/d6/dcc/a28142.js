@@ -1,7 +1,5 @@
 var a28142 =
 [
-    [ "TalentSpellPos", "d6/dcc/a28142.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
-    [ "TalentSpellPos", "d6/dcc/a28142.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
-    [ "rank", "d6/dcc/a28142.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
-    [ "talent_id", "d6/dcc/a28142.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
+    [ "CastTime", "d6/dcc/a28142.html#af0bf895b1a5d61974cb63230b786c55e", null ],
+    [ "ID", "d6/dcc/a28142.html#a41b1059fc4059bd198925861a9414497", null ]
 ];

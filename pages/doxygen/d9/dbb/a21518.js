@@ -1,6 +1,9 @@
 var a21518 =
 [
-    [ "SACDeactivateEvent", "d9/dbb/a21518.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
-    [ "Execute", "d9/dbb/a21518.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
-    [ "_owner", "d9/dbb/a21518.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
+    [ "npc_mageguard_dalaranAI", "d9/dbb/a21518.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
+    [ "AttackStart", "d9/dbb/a21518.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
+    [ "JustEngagedWith", "d9/dbb/a21518.html#aac463689ae5a488ec2acb8a0310689d8", null ],
+    [ "MoveInLineOfSight", "d9/dbb/a21518.html#aafb32462693e0efd9c80cf335f489754", null ],
+    [ "Reset", "d9/dbb/a21518.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
+    [ "UpdateAI", "d9/dbb/a21518.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
 ];

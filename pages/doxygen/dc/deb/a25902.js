@@ -1,6 +1,6 @@
 var a25902 =
 [
-    [ "FilterTargets", "dc/deb/a25902.html#a17626abdbc4066956b76945b11b3f0c6", null ],
-    [ "PrepareSpellScript", "dc/deb/a25902.html#abfeb75060c1f930b33003dd1e458f882", null ],
-    [ "Register", "dc/deb/a25902.html#a8e5146a57f181b17280d198bcd2e216d", null ]
+    [ "CheckProc", "dc/deb/a25902.html#a0f1461140b08deac3f044142067368e7", null ],
+    [ "PrepareAuraScript", "dc/deb/a25902.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
+    [ "Register", "dc/deb/a25902.html#a05e31c2252c9054a18b4267be84895b9", null ]
 ];

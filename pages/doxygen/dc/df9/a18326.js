@@ -1,6 +1,6 @@
 var a18326 =
 [
-    [ "boss_sister_svalnaAI", "d3/ddc/a18330.html", "d3/ddc/a18330" ],
-    [ "boss_sister_svalna", "dc/df9/a18326.html#a233a9606db61f6ab945350e98a0929ff", null ],
-    [ "GetAI", "dc/df9/a18326.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
+    [ "npc_valithria_cloudAI", "d3/ddc/a18330.html", "d3/ddc/a18330" ],
+    [ "npc_valithria_cloud", "dc/df9/a18326.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
+    [ "GetAI", "dc/df9/a18326.html#afeff905cec1245dbac6fa59673aef015", null ]
 ];

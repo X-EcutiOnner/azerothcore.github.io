@@ -1,6 +1,6 @@
 var a20706 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "d1/d27/a20706.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "d1/d27/a20706.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "d1/d27/a20706.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "d1/d27/a20706.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
+    [ "DamageTaken", "d1/d27/a20706.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
+    [ "JustDied", "d1/d27/a20706.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
 ];

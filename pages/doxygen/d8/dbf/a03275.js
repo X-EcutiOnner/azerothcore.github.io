@@ -1,17 +1,17 @@
 var a03275 =
 [
-    [ "instance_zulgurub", "df/df5/a13850.html", "df/df5/a13850" ],
-    [ "instance_zulgurub::instance_zulgurub_InstanceMapScript", "d3/d19/a13854.html", "d3/d19/a13854" ],
-    [ "go_brazier_of_madness", "d2/d17/a13858.html", "d2/d17/a13858" ],
-    [ "EdgeOfMadnessEnum", "d8/dbf/a03275.html#a45822838f1310b1a812eba191cb3d416", [
-      [ "EVENT_EDGE_OF_MADNESS_GRILEK", "d8/dbf/a03275.html#a45822838f1310b1a812eba191cb3d416ad02945634d7affb86fe4a6fa1baee9e7", null ],
-      [ "EVENT_EDGE_OF_MADNESS_HAZZARAH", "d8/dbf/a03275.html#a45822838f1310b1a812eba191cb3d416a8ec0daec449beba98b500943bcacc8e4", null ],
-      [ "EVENT_EDGE_OF_MADNESS_RENATAKI", "d8/dbf/a03275.html#a45822838f1310b1a812eba191cb3d416a4d7aeb529f52ed41b6c933726f9e2e1d", null ],
-      [ "EVENT_EDGE_OF_MADNESS_WUSHOOLAY", "d8/dbf/a03275.html#a45822838f1310b1a812eba191cb3d416ac13476b6183a6ba6aad91191ef3c1073", null ]
+    [ "GroupQueueInfo", "da/d0c/a07262.html", "da/d0c/a07262" ],
+    [ "BattlegroundQueue", "db/d55/a07266.html", "db/d55/a07266" ],
+    [ "BattlegroundQueue::SelectionPool", "d7/d12/a07270.html", "d7/d12/a07270" ],
+    [ "BGQueueInviteEvent", "de/d94/a07274.html", "de/d94/a07274" ],
+    [ "BGQueueRemoveEvent", "da/dc9/a07278.html", "da/dc9/a07278" ],
+    [ "BattlegroundQueueGroupTypes", "d8/dbf/a03275.html#a589e9d4a3badd48f91fddc2afa661b17", [
+      [ "BG_QUEUE_PREMADE_ALLIANCE", "d8/dbf/a03275.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4", null ],
+      [ "BG_QUEUE_PREMADE_HORDE", "d8/dbf/a03275.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c", null ],
+      [ "BG_QUEUE_NORMAL_ALLIANCE", "d8/dbf/a03275.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697", null ],
+      [ "BG_QUEUE_NORMAL_HORDE", "d8/dbf/a03275.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d", null ],
+      [ "BG_QUEUE_CFBG", "d8/dbf/a03275.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239", null ],
+      [ "BG_QUEUE_MAX", "d8/dbf/a03275.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992", null ]
     ] ],
-    [ "AddSC_instance_zulgurub", "d8/dbf/a03275.html#a224e147b1990c0996e0ac61a1865e34c", null ],
-    [ "BrazierOfMadnessContainer", "d8/dbf/a03275.html#a808ff75d7f4ab6555cdc154544ef727f", null ],
-    [ "creatureData", "d8/dbf/a03275.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d8/dbf/a03275.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "edgeOfMagnessSummonPos", "d8/dbf/a03275.html#a352683729da59da9923d0f67d510f73c", null ]
+    [ "COUNT_OF_PLAYERS_TO_AVERAGE_WAIT_TIME", "d8/dbf/a03275.html#aebc536d6c303d31049ad05f333c275ba", null ]
 ];

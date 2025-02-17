@@ -1,6 +1,10 @@
 var a22638 =
 [
-    [ "FilterTargets", "db/d4b/a22638.html#a04973145ed594b88afe2acc0cacb10c6", null ],
-    [ "PrepareSpellScript", "db/d4b/a22638.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
-    [ "Register", "db/d4b/a22638.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
+    [ "boss_illidari_council", "db/d4b/a22638.html#a078c36be39b377f6d1cdbf061d70270d", null ],
+    [ "AttackStart", "db/d4b/a22638.html#a260b15ec58164f17543aa044a89875a8", null ],
+    [ "DamageTaken", "db/d4b/a22638.html#af8e88c307efaba392cc2a1d2f3862078", null ],
+    [ "DoAction", "db/d4b/a22638.html#a6c3c57523ed2775ba553af1171b46463", null ],
+    [ "EnterEvadeMode", "db/d4b/a22638.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
+    [ "MoveInLineOfSight", "db/d4b/a22638.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
+    [ "UpdateAI", "db/d4b/a22638.html#a8b30df956aa4ce1727756f1d19e151be", null ]
 ];

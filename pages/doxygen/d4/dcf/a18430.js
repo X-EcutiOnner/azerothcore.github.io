@@ -1,6 +1,8 @@
 var a18430 =
 [
-    [ "PrepareSpellScript", "d4/dcf/a18430.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "d4/dcf/a18430.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "d4/dcf/a18430.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "npc_rotting_frost_giantAI", "d4/dcf/a18430.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "d4/dcf/a18430.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "d4/dcf/a18430.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "d4/dcf/a18430.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "d4/dcf/a18430.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

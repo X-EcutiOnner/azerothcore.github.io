@@ -1,12 +1,13 @@
 var a22310 =
 [
-    [ "boss_shirrak_the_dead_watcher", "db/d20/a22310.html#aaa6826de3b6563342b89544b38386d93", null ],
-    [ "EnterEvadeMode", "db/d20/a22310.html#a23768629c4ab48954880c3c29099f432", null ],
-    [ "getStackCount", "db/d20/a22310.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
-    [ "JustEngagedWith", "db/d20/a22310.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
-    [ "JustSummoned", "db/d20/a22310.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
-    [ "Reset", "db/d20/a22310.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
-    [ "SpellHitTarget", "db/d20/a22310.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
-    [ "UpdateAI", "db/d20/a22310.html#a855505f949f53f979187abcb5b2f617f", null ],
-    [ "focusGUID", "db/d20/a22310.html#a81a7eade42ef595c173d7828ce59ef88", null ]
+    [ "OPvPCapturePointEP_EWT", "db/d20/a22310.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
+    [ "ChangeState", "db/d20/a22310.html#ac00c50b89e1218f87506778096a9d7cd", null ],
+    [ "FillInitialWorldStates", "db/d20/a22310.html#ad051a1cc41632414eab071aef5cf2f99", null ],
+    [ "HandlePlayerEnter", "db/d20/a22310.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
+    [ "HandlePlayerLeave", "db/d20/a22310.html#a2638b24dca375420778845963e307db3", null ],
+    [ "SendChangePhase", "db/d20/a22310.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
+    [ "SummonSupportUnitAtNorthpassTower", "db/d20/a22310.html#ad70a8cc485072cd9af892290584062d8", null ],
+    [ "UpdateTowerState", "db/d20/a22310.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
+    [ "m_TowerState", "db/d20/a22310.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
+    [ "m_UnitsSummonedSideId", "db/d20/a22310.html#a0319f0d51624df44419976e7abd1b813", null ]
 ];

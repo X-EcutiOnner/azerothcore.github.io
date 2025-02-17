@@ -1,14 +1,15 @@
 var a20054 =
 [
-    [ "boss_kologarn_armsAI", "d6/dfd/a20054.html#aa647b59e1bb0abb8f71e81700063624d", null ],
-    [ "AttackStart", "d6/dfd/a20054.html#ad8e25495a6559b0c4f63f0c81a4af044", null ],
-    [ "DamageTaken", "d6/dfd/a20054.html#aebc4f20f398a884d5cf911746048066e", null ],
-    [ "EnterEvadeMode", "d6/dfd/a20054.html#a1d39d05719d6e7730bd3d247ec1f56a7", null ],
-    [ "JustDied", "d6/dfd/a20054.html#a224f30aa4703f82e1ff9439b5247398a", null ],
-    [ "MoveInLineOfSight", "d6/dfd/a20054.html#a7f8167fe8edc85fc93143a8e8945bed4", null ],
-    [ "PassengerBoarded", "d6/dfd/a20054.html#a105880e1f201db0d4130611f5b99d730", null ],
-    [ "Reset", "d6/dfd/a20054.html#a8eec8810cdb52bacdd0c9165993dd3c2", null ],
-    [ "UpdateAI", "d6/dfd/a20054.html#ad4f392b7aa918d7f038749db4ffd72b8", null ],
-    [ "_combatStarted", "d6/dfd/a20054.html#a016c5497988d7ddd9f0744e83f7bf1d3", null ],
-    [ "_damageDone", "d6/dfd/a20054.html#af0ad823bc5b02282d5d525d135ee3118", null ]
+    [ "npc_ulduar_hodir_shamanAI", "d6/dfd/a20054.html#a4f18b06f254b57787b7ab31c9b422402", null ],
+    [ "AttackStart", "d6/dfd/a20054.html#a022aabbc965872925698bd53fad2f84d", null ],
+    [ "CanAIAttack", "d6/dfd/a20054.html#a21b3804fe0af15e59e9af30260552666", null ],
+    [ "EnterEvadeMode", "d6/dfd/a20054.html#af9cfc1dc173e0a4d82f1dbc8eb1cbcba", null ],
+    [ "JustDied", "d6/dfd/a20054.html#a5c06c412d38203bb10e9951e27d5760a", null ],
+    [ "MoveInLineOfSight", "d6/dfd/a20054.html#a24d570f1c4a133c4f001032a1c915a27", null ],
+    [ "ScheduleAbilities", "d6/dfd/a20054.html#ac197b53bc03fd8bdf44b8b2e2a64f568", null ],
+    [ "SpellHit", "d6/dfd/a20054.html#a3c61b680a0d75a87bfaf4d8ae8072ea9", null ],
+    [ "SpellHitTarget", "d6/dfd/a20054.html#ae829e62ec342c1e0d12a523506ea6b04", null ],
+    [ "UpdateAI", "d6/dfd/a20054.html#af961f02169ab700716410e26114fd857", null ],
+    [ "events", "d6/dfd/a20054.html#ad92f69d2a63313798e16cfbaf55301ca", null ],
+    [ "pInstance", "d6/dfd/a20054.html#af4f0d720b9d9e4cbe4805cfc0c9a12c8", null ]
 ];

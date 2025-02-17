@@ -1,8 +1,9 @@
 var a09118 =
 [
-    [ "AnyUnfriendlyUnitInObjectRangeCheck", "d0/d65/a09118.html#a2d83b68a7991d3b3dc2355ecde1efa5d", null ],
-    [ "operator()", "d0/d65/a09118.html#a5b02b45b937d6b2b0b141967c70f93d9", null ],
-    [ "i_funit", "d0/d65/a09118.html#a55222acf6dbb538a213eb604f67f40ce", null ],
-    [ "i_obj", "d0/d65/a09118.html#a5d7e5e8898bd092c1055739fae82f693", null ],
-    [ "i_range", "d0/d65/a09118.html#aa1c728ceea2ddc2e88ea07132a3fe250", null ]
+    [ "VisibleChangesNotifier", "d0/d65/a09118.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
+    [ "Visit", "d0/d65/a09118.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
+    [ "Visit", "d0/d65/a09118.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
+    [ "Visit", "d0/d65/a09118.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
+    [ "Visit", "d0/d65/a09118.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
+    [ "i_object", "d0/d65/a09118.html#a496b982d081957cfc288f29b99b8739d", null ]
 ];

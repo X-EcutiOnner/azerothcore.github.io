@@ -1,6 +1,6 @@
 var a17446 =
 [
-    [ "npc_cult_fanaticAI", "db/d39/a17450.html", "db/d39/a17450" ],
-    [ "npc_cult_fanatic", "de/d88/a17446.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "de/d88/a17446.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "npc_gunship_gunnerAI", "db/d39/a17450.html", "db/d39/a17450" ],
+    [ "npc_gunship_gunner", "de/d88/a17446.html#a409711f22b35eae0c0d48bc23545e592", null ],
+    [ "GetAI", "de/d88/a17446.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
 ];

@@ -1,6 +1,6 @@
 var a11126 =
 [
-    [ "EffectCalcSpellModHandler", "d1/d35/a11126.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
-    [ "Call", "d1/d35/a11126.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
-    [ "pEffectHandlerScript", "d1/d35/a11126.html#a15c0b24641cb04f31bb3d651dae59448", null ]
+    [ "apPctMod", "d1/d35/a11126.html#a35f5f8f7a3ac33768299913fecc1cf8d", null ],
+    [ "flatMod", "d1/d35/a11126.html#a0d66e48d986f246e6aea08dd00837158", null ],
+    [ "pctMod", "d1/d35/a11126.html#af13802a7f6872cfce3a1d14655f30287", null ]
 ];

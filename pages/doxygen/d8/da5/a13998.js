@@ -1,11 +1,6 @@
 var a13998 =
 [
-    [ "npc_high_oracle_soo_roo", "d8/da5/a13998.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
-    [ "MoveInLineOfSight", "d8/da5/a13998.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
-    [ "Reset", "d8/da5/a13998.html#a89a60a83a46e0095045b2353e50483ed", null ],
-    [ "UpdateAI", "d8/da5/a13998.html#ac22cfa519e478da643a51ae887f306fd", null ],
-    [ "orphanGUID", "d8/da5/a13998.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
-    [ "phase", "d8/da5/a13998.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
-    [ "playerGUID", "d8/da5/a13998.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
-    [ "timer", "d8/da5/a13998.html#aa5238d3ee361374681947de874391a1f", null ]
+    [ "npc_brewfest_bark_trigger", "d8/da5/a13998.html#a110d654792e1f5dae8b17f014ea3d425", null ],
+    [ "GetTextFor", "d8/da5/a13998.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
+    [ "MoveInLineOfSight", "d8/da5/a13998.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
 ];

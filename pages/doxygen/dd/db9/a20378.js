@@ -1,6 +1,6 @@
 var a20378 =
 [
-    [ "boss_thorim_arena_npcsAI", "d2/db7/a20382.html", "d2/db7/a20382" ],
-    [ "boss_thorim_arena_npcs", "dd/db9/a20378.html#a60d22280bb1eb3c9da92deb08e887942", null ],
-    [ "GetAI", "dd/db9/a20378.html#a3709e1c9df32755f5932398ba3535f2f", null ]
+    [ "npc_ulduar_expedition_engineerAI", "d2/db7/a20382.html", "d2/db7/a20382" ],
+    [ "npc_ulduar_expedition_engineer", "dd/db9/a20378.html#a1ff99e62b9c2222d8c08e71bfda600ea", null ],
+    [ "GetAI", "dd/db9/a20378.html#a6f1beaab42e42981e152db920e516616", null ]
 ];

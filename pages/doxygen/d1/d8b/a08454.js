@@ -1,6 +1,5 @@
 var a08454 =
 [
-    [ "SavedItem", "d1/d8b/a08454.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
-    [ "dstpos", "d1/d8b/a08454.html#af844c8b955858b1ead94798c6326fa03", null ],
-    [ "item", "d1/d8b/a08454.html#afaa651441e306c13acc3cd1aa3084170", null ]
+    [ "MageSpellModPred", "d1/d8b/a08454.html#af97aacdd47bd4427bb7dc1093ea1f63c", null ],
+    [ "operator()", "d1/d8b/a08454.html#a09ba840692b7fd50f7f6a537de1b240e", null ]
 ];

@@ -1,9 +1,7 @@
 var a14818 =
 [
-    [ "npc_giant_eye_tentacle", "df/d58/a14818.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
-    [ "JustDied", "df/d58/a14818.html#a72cac50a711868256a41c543d0cef3da", null ],
-    [ "JustEngagedWith", "df/d58/a14818.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
-    [ "Reset", "df/d58/a14818.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
-    [ "UpdateAI", "df/d58/a14818.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
-    [ "_portalGUID", "df/d58/a14818.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
+    [ "boss_kurinnaxx", "df/d58/a14818.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "df/d58/a14818.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "df/d58/a14818.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "df/d58/a14818.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

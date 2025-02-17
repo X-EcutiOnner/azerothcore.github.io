@@ -1,15 +1,10 @@
 var a07374 =
 [
-    [ "Print", "de/d93/a07374.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
-    [ "CliHandler", "de/d93/a07374.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
-    [ "GetAcoreString", "de/d93/a07374.html#ab12ec41c55bc5f92461abff538a76b66", null ],
-    [ "GetNameLink", "de/d93/a07374.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
-    [ "GetSessionDbcLocale", "de/d93/a07374.html#a610f7431dc7b064c964e0d446160d19f", null ],
-    [ "GetSessionDbLocaleIndex", "de/d93/a07374.html#a5a2118d9227aa53818d736e387d77dea", null ],
-    [ "HasSession", "de/d93/a07374.html#a1cd4aabe4c61e3899a1e6d6785742abe", null ],
-    [ "needReportToTarget", "de/d93/a07374.html#ad8c4ee6e45afff55d94dea9704bd2097", null ],
-    [ "ParseCommands", "de/d93/a07374.html#abbd02247d6094bf39b2791ba45e9942e", null ],
-    [ "SendSysMessage", "de/d93/a07374.html#a636be10a282a8d100b807dac119b3ff6", null ],
-    [ "m_callbackArg", "de/d93/a07374.html#aa1fafd68fca180506cc15680b695db9e", null ],
-    [ "m_print", "de/d93/a07374.html#aadeaa84ce5d26951f506a2656c1d64d2", null ]
+    [ "BattlegroundNA", "de/d93/a07374.html#abf646e63e474ac5bb381078ffd0f286e", null ],
+    [ "FillInitialWorldStates", "de/d93/a07374.html#addd2fe865e37a1909375c2d991586702", null ],
+    [ "HandleAreaTrigger", "de/d93/a07374.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
+    [ "HandlePlayerUnderMap", "de/d93/a07374.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
+    [ "SetupBattleground", "de/d93/a07374.html#addc3350a283fdac24e7aa88c23a7945a", null ],
+    [ "StartingEventCloseDoors", "de/d93/a07374.html#a316492a374884822045971f6dc3db1e2", null ],
+    [ "StartingEventOpenDoors", "de/d93/a07374.html#a72a953c5047a434d28b98e6185173140", null ]
 ];

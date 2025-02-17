@@ -1,6 +1,6 @@
 var a24098 =
 [
-    [ "HandleDamageCalc", "d3/d03/a24098.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "d3/d03/a24098.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "d3/d03/a24098.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "npc_zephyr", "d3/d03/a24098.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
+    [ "OnGossipHello", "d3/d03/a24098.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
+    [ "OnGossipSelect", "d3/d03/a24098.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
 ];

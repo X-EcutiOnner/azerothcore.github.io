@@ -1,6 +1,7 @@
 var a14822 =
 [
-    [ "FilterTargets", "d6/d1c/a14822.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
-    [ "PrepareSpellScript", "d6/d1c/a14822.html#a511e54100036307aa5d37bc959405c73", null ],
-    [ "Register", "d6/d1c/a14822.html#a31d1d590f0e6fc2e56322d606961828f", null ]
+    [ "go_sand_trap", "d6/d1c/a14822.html#a58d45acac672cb05988ddca78185b469", null ],
+    [ "Reset", "d6/d1c/a14822.html#a7071a3e420e9137ca133b471bc217bf3", null ],
+    [ "UpdateAI", "d6/d1c/a14822.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
+    [ "_scheduler", "d6/d1c/a14822.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
 ];

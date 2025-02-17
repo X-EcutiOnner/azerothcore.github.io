@@ -1,7 +1,8 @@
 var a21322 =
 [
-    [ "npc_thassarianAI", "d9/d78/a21322.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "d9/d78/a21322.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "d9/d78/a21322.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "d9/d78/a21322.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "HandleEffectRemove", "d9/d78/a21322.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d9/d78/a21322.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d9/d78/a21322.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d9/d78/a21322.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d9/d78/a21322.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

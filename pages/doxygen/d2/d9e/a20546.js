@@ -1,8 +1,6 @@
 var a20546 =
 [
-    [ "boss_yoggsaron_crusher_tentacleAI", "d2/d9e/a20546.html#a63d63a0b981c278fcfadfdda1feb5a12", null ],
-    [ "DamageTaken", "d2/d9e/a20546.html#ac2458922b2530929ee1adbcc0da834a0", null ],
-    [ "DoAction", "d2/d9e/a20546.html#abcc42381f37256e5c5ab2a42f8ef2c29", null ],
-    [ "Reset", "d2/d9e/a20546.html#af33db4e2ce1bb85e38437db6ca7982f7", null ],
-    [ "UpdateAI", "d2/d9e/a20546.html#a8329bc78fc037655d48cb9bf0abd8447", null ]
+    [ "npc_xt002_scrapbotAI", "da/d6f/a20550.html", "da/d6f/a20550" ],
+    [ "npc_xt002_scrapbot", "d2/d9e/a20546.html#accfd75266d058af3856bdb625728c18d", null ],
+    [ "GetAI", "d2/d9e/a20546.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
 ];

@@ -1,6 +1,6 @@
 var a18710 =
 [
-    [ "boss_gothikAI", "d9/da2/a18714.html", "d9/da2/a18714" ],
-    [ "boss_gothik", "df/d20/a18710.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
-    [ "GetAI", "df/d20/a18710.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
+    [ "icecrown_citadel_teleport", "df/d20/a18710.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "df/d20/a18710.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "df/d20/a18710.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

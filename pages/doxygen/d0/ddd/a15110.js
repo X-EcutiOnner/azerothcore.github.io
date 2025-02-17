@@ -1,13 +1,13 @@
 var a15110 =
 [
-    [ "npc_tharnarianAI", "d0/ddd/a15110.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
-    [ "Initialize", "d0/ddd/a15110.html#ad1d89491b42a56406273a04045e7e91d", null ],
-    [ "Reset", "d0/ddd/a15110.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
-    [ "SetGUID", "d0/ddd/a15110.html#a7ac84aac946afc312d8ce27f04127dfd", null ],
-    [ "sGossipSelect", "d0/ddd/a15110.html#a33b5898def48e17ba27363b98f51849b", null ],
-    [ "UpdateAI", "d0/ddd/a15110.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
-    [ "_bearGUID", "d0/ddd/a15110.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
-    [ "_events", "d0/ddd/a15110.html#aff73052a4b7407d760af3dde09fa8a07", null ],
-    [ "_facing", "d0/ddd/a15110.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
-    [ "_scriptRunning", "d0/ddd/a15110.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d0/ddd/a15110.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
+    [ "GetData", "d0/ddd/a15110.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
+    [ "Initialize", "d0/ddd/a15110.html#a870ab2322971767fa37986743b31d20c", null ],
+    [ "OnCreatureCreate", "d0/ddd/a15110.html#aed3807432711105589d0b060a21836cc", null ],
+    [ "ReadSaveDataMore", "d0/ddd/a15110.html#ad348102f71e070e7ef12da62238c7b0f", null ],
+    [ "SetData", "d0/ddd/a15110.html#a0333b4728e9288937711174743f19f60", null ],
+    [ "WriteSaveDataMore", "d0/ddd/a15110.html#a78bece51279e3f9e62800e4d80b00f64", null ],
+    [ "_encounters", "d0/ddd/a15110.html#a0f049806007e59363418d4e39f9e389b", null ],
+    [ "DiscipleOfNaralexGUID", "d0/ddd/a15110.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
+    [ "SerpentisGUID", "d0/ddd/a15110.html#a7ba205e4988a20404f5e597331dd5d56", null ]
 ];

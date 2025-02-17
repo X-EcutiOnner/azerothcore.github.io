@@ -1,13 +1,9 @@
 var a02495 =
 [
-    [ "instance_karazhan", "dc/d2e/a12502.html", "dc/d2e/a12502" ],
-    [ "instance_karazhan::instance_karazhan_InstanceMapScript", "d9/d86/a12506.html", "d9/d86/a12506" ],
-    [ "spell_karazhan_brittle_bones_aura", "d7/df8/a12510.html", "d7/df8/a12510" ],
-    [ "spell_karazhan_overload_aura", "d7/d82/a12514.html", "d7/d82/a12514" ],
-    [ "spell_karazhan_blink", "d8/d01/a12518.html", "d8/d01/a12518" ],
-    [ "AddSC_instance_karazhan", "d5/d56/a02495.html#adc62e82adedf1c9e8d47332aaa7a4cf5", null ],
-    [ "creatureData", "d5/d56/a02495.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d5/d56/a02495.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "d5/d56/a02495.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
-    [ "OptionalSpawn", "d5/d56/a02495.html#a9dacd53568280ba4bb7d0a7c7f65f6cf", null ]
+    [ "GetCheckPacketBaseSize", "d5/d56/a02495.html#aa48d9759919f0fb8415c0fd0731a23b1", null ],
+    [ "GetCheckPacketSize", "d5/d56/a02495.html#adfb39c1ce4f6159c2c70e3cdf26978c9", null ],
+    [ "GetMaxWardenChecksForType", "d5/d56/a02495.html#a1bcaaac66e1101e325fd62778b2f0c8d", null ],
+    [ "_luaEvalMidfix", "d5/d56/a02495.html#a5506a4e4233b2c380f79ad1225c4dc93", null ],
+    [ "_luaEvalPostfix", "d5/d56/a02495.html#ad14853510c2482e64bd81633e5074206", null ],
+    [ "_luaEvalPrefix", "d5/d56/a02495.html#a259abc7d98e16cefc14404b5886cbc09", null ]
 ];

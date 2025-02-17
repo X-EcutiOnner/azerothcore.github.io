@@ -1,11 +1,9 @@
 var a23862 =
 [
-    [ "npc_invis_infernal_casterAI", "d3/d4f/a23862.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
-    [ "Reset", "d3/d4f/a23862.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
-    [ "SetData", "d3/d4f/a23862.html#aee88dc141757384f96da969fcdc20671", null ],
-    [ "SummonInfernal", "d3/d4f/a23862.html#a78d53d09e5544b3fe8301da4415d297b", null ],
-    [ "UpdateAI", "d3/d4f/a23862.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
-    [ "events", "d3/d4f/a23862.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
-    [ "ground", "d3/d4f/a23862.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
-    [ "infernalGUID", "d3/d4f/a23862.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
+    [ "npc_wounded_blood_elfAI", "d3/d4f/a23862.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "d3/d4f/a23862.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "d3/d4f/a23862.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "d3/d4f/a23862.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "d3/d4f/a23862.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "d3/d4f/a23862.html#a5affcb00e28a582f8926ab2226001cd0", null ]
 ];

@@ -1,11 +1,4 @@
 var a22810 =
 [
-    [ "boss_doomlordkazzakAI", "db/d4a/a22810.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
-    [ "JustDied", "db/d4a/a22810.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
-    [ "JustEngagedWith", "db/d4a/a22810.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
-    [ "JustRespawned", "db/d4a/a22810.html#a174912c149657f4d88446f4ac0631598", null ],
-    [ "KilledUnit", "db/d4a/a22810.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
-    [ "Reset", "db/d4a/a22810.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
-    [ "UpdateAI", "db/d4a/a22810.html#a28a0a8345fcd5411491409854acef729", null ],
-    [ "_inBerserk", "db/d4a/a22810.html#a996d17128aca96c00c8416957ebc24d0", null ]
+    [ "operator()", "db/d4a/a22810.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ]
 ];

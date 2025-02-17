@@ -1,5 +1,6 @@
 var a19458 =
 [
-    [ "achievement_algalon_he_feeds_on_your_tears", "dc/d3f/a19458.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
-    [ "OnCheck", "dc/d3f/a19458.html#affea33614581545c65513bfe533d7246", null ]
+    [ "dark_rune_protectorsAI", "d7/d58/a19462.html", "d7/d58/a19462" ],
+    [ "dark_rune_protectors", "dc/d3f/a19458.html#a14225a2369a8deea416fc640a2d7b075", null ],
+    [ "GetAI", "dc/d3f/a19458.html#a359e4049b7ec828177d9a36d23e9b4ef", null ]
 ];

@@ -1,21 +1,8 @@
 var a09290 =
 [
-    [ "PlayerVote", "dc/dcf/a09290.html#a9b86264db334335ec202909fc7130b77", null ],
-    [ "Roll", "dc/dcf/a09290.html#abffce9339088167e812f51481c336bf7", null ],
-    [ "~Roll", "dc/dcf/a09290.html#a843879734a9c86a97d7f26b672f37f2a", null ],
-    [ "getLoot", "dc/dcf/a09290.html#af0c8c87b3fa9cd45cf51e774123d3b58", null ],
-    [ "setLoot", "dc/dcf/a09290.html#a34869ee15d87708859cd51262ad160fc", null ],
-    [ "targetObjectBuildLink", "dc/dcf/a09290.html#a2dc422a05158521f857caf7dce005f72", null ],
-    [ "itemCount", "dc/dcf/a09290.html#a7c98449785629933a0e5e8bee7deb272", null ],
-    [ "itemGUID", "dc/dcf/a09290.html#af4877388e7efe95452541a3d2788fa7f", null ],
-    [ "itemid", "dc/dcf/a09290.html#a7b40118e2d489177a268301636b9994f", null ],
-    [ "itemRandomPropId", "dc/dcf/a09290.html#a5154a19624a6e0d9657a697f9b235491", null ],
-    [ "itemRandomSuffix", "dc/dcf/a09290.html#acfd3e2d5fb152a9848e6e4fe47111bad", null ],
-    [ "itemSlot", "dc/dcf/a09290.html#a6e170a8296949cd76baa7992f30a61d6", null ],
-    [ "playerVote", "dc/dcf/a09290.html#aff97626c4d749bf0acbd165f289b5a57", null ],
-    [ "rollVoteMask", "dc/dcf/a09290.html#a9c86d54397c4ce46d691e77cc476ffe6", null ],
-    [ "totalGreed", "dc/dcf/a09290.html#a6187dd03a275f9e51d489709c9cf6d13", null ],
-    [ "totalNeed", "dc/dcf/a09290.html#ae02ba19cfd317143e839cd4a3751a3eb", null ],
-    [ "totalPass", "dc/dcf/a09290.html#aeeac3fb83c410a3d256c0cbf45f48e95", null ],
-    [ "totalPlayersRolling", "dc/dcf/a09290.html#a6a6ea6885bc68272520c018a83b2106f", null ]
+    [ "NearestAttackableNoTotemUnitInObjectRangeCheck", "dc/dcf/a09290.html#a1f0bf90a7b9c57d05c54e3db6827aec1", null ],
+    [ "operator()", "dc/dcf/a09290.html#a08f8e473914c8a7bddbf26568294c18b", null ],
+    [ "i_obj", "dc/dcf/a09290.html#a949ff3bcc3530206d83512d293647a2b", null ],
+    [ "i_owner", "dc/dcf/a09290.html#a64f58427bbab3276bdc53450b33eca12", null ],
+    [ "i_range", "dc/dcf/a09290.html#af52388830cec17e32b1d368739b4555a", null ]
 ];

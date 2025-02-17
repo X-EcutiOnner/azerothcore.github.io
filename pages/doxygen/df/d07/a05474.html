@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: IntervalTimer Struct Reference</title>
+<title>AzerothCore: Acore::ACLogSink&lt; T &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,181 +105,127 @@ $(document).ready(function(){initNavTree('df/d07/a05474.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d5/d35/a05471.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">IntervalTimer Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::ACLogSink&lt; T &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">Timer.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:aaecf7407fc4cff91008168377114d7cd"><td class="memItemLeft" align="right" valign="top">typedef char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d07/a05474.html#aaecf7407fc4cff91008168377114d7cd">char_type</a></td></tr>
+<tr class="separator:aaecf7407fc4cff91008168377114d7cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6a53b4b68647fdde65e3c2363127fc4f"><td class="memItemLeft" align="right" valign="top">typedef sink_tag&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d07/a05474.html#a6a53b4b68647fdde65e3c2363127fc4f">category</a></td></tr>
+<tr class="separator:a6a53b4b68647fdde65e3c2363127fc4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a2538976b639e25e63a8ab5927663ade1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d07/a05474.html#a2538976b639e25e63a8ab5927663ade1">IntervalTimer</a> ()=default</td></tr>
-<tr class="separator:a2538976b639e25e63a8ab5927663ade1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa1f5b922ea2d95c49924a506ca37a676"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d07/a05474.html#aa1f5b922ea2d95c49924a506ca37a676">Update</a> (time_t diff)</td></tr>
-<tr class="separator:aa1f5b922ea2d95c49924a506ca37a676"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9b3ac2407baf9763fa899e35a5c55fbe"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d07/a05474.html#a9b3ac2407baf9763fa899e35a5c55fbe">Passed</a> ()</td></tr>
-<tr class="separator:a9b3ac2407baf9763fa899e35a5c55fbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae243f18c4c3174b91fa01f6d08b04d4d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d07/a05474.html#ae243f18c4c3174b91fa01f6d08b04d4d">Reset</a> ()</td></tr>
-<tr class="separator:ae243f18c4c3174b91fa01f6d08b04d4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab315f686c2777dc21c824d8674479f9f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d07/a05474.html#ab315f686c2777dc21c824d8674479f9f">SetCurrent</a> (time_t current)</td></tr>
-<tr class="separator:ab315f686c2777dc21c824d8674479f9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a28d95330f971d3a37aaf53e4f16aad4a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d07/a05474.html#a28d95330f971d3a37aaf53e4f16aad4a">SetInterval</a> (time_t interval)</td></tr>
-<tr class="separator:a28d95330f971d3a37aaf53e4f16aad4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a986bec1dcb7325088517f6721636abcc"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d07/a05474.html#a986bec1dcb7325088517f6721636abcc">GetInterval</a> () const</td></tr>
-<tr class="separator:a986bec1dcb7325088517f6721636abcc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a93a456d6ff6d74cc889517fc585626e8"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d07/a05474.html#a93a456d6ff6d74cc889517fc585626e8">GetCurrent</a> () const</td></tr>
-<tr class="separator:a93a456d6ff6d74cc889517fc585626e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a070880d742fd84b44c4614a76952e589"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d07/a05474.html#a070880d742fd84b44c4614a76952e589">ACLogSink</a> (T callback)</td></tr>
+<tr class="separator:a070880d742fd84b44c4614a76952e589"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adad5e421ed10b296eae8b9c52f5e76f5"><td class="memItemLeft" align="right" valign="top">std::streamsize&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d07/a05474.html#adad5e421ed10b296eae8b9c52f5e76f5">write</a> (char const *str, std::streamsize size)</td></tr>
+<tr class="separator:adad5e421ed10b296eae8b9c52f5e76f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a179584ce91f62ba5e74ae3f34ee32fbc"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d07/a05474.html#a179584ce91f62ba5e74ae3f34ee32fbc">_interval</a> {0}</td></tr>
-<tr class="separator:a179584ce91f62ba5e74ae3f34ee32fbc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a99c5aec27af00ffbbd83c5adbd2e2016"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d07/a05474.html#a99c5aec27af00ffbbd83c5adbd2e2016">_current</a> {0}</td></tr>
-<tr class="separator:a99c5aec27af00ffbbd83c5adbd2e2016"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a360b91b740efaa05309725f6678eb22a"><td class="memItemLeft" align="right" valign="top">T&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d07/a05474.html#a360b91b740efaa05309725f6678eb22a">callback_</a></td></tr>
+<tr class="separator:a360b91b740efaa05309725f6678eb22a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a2538976b639e25e63a8ab5927663ade1" name="a2538976b639e25e63a8ab5927663ade1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2538976b639e25e63a8ab5927663ade1">&#9670;&#160;</a></span>IntervalTimer()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
+class Acore::ACLogSink&lt; T &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a6a53b4b68647fdde65e3c2363127fc4f" name="a6a53b4b68647fdde65e3c2363127fc4f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a53b4b68647fdde65e3c2363127fc4f">&#9670;&#160;</a></span>category</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef sink_tag <a class="el" href="../../df/d07/a05474.html">Acore::ACLogSink</a>&lt; T &gt;::category</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aaecf7407fc4cff91008168377114d7cd" name="aaecf7407fc4cff91008168377114d7cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaecf7407fc4cff91008168377114d7cd">&#9670;&#160;</a></span>char_type</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef char <a class="el" href="../../df/d07/a05474.html">Acore::ACLogSink</a>&lt; T &gt;::char_type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a070880d742fd84b44c4614a76952e589" name="a070880d742fd84b44c4614a76952e589"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a070880d742fd84b44c4614a76952e589">&#9670;&#160;</a></span>ACLogSink()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">IntervalTimer::IntervalTimer </td>
+          <td class="memname"><a class="el" href="../../df/d07/a05474.html">Acore::ACLogSink</a>&lt; T &gt;::ACLogSink </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">T&#160;</td>
+          <td class="paramname"><em>callback</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
+<div class="fragment"><div class="line"><span class="lineno">   44</span>            : <a class="code hl_variable" href="../../df/d07/a05474.html#a360b91b740efaa05309725f6678eb22a">callback_</a>(std::move(callback)) { }</div>
+<div class="ttc" id="aa05474_html_a360b91b740efaa05309725f6678eb22a"><div class="ttname"><a href="../../df/d07/a05474.html#a360b91b740efaa05309725f6678eb22a">Acore::ACLogSink::callback_</a></div><div class="ttdeci">T callback_</div><div class="ttdef"><b>Definition:</b> StartProcess.cpp:36</div></div>
+</div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a93a456d6ff6d74cc889517fc585626e8" name="a93a456d6ff6d74cc889517fc585626e8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a93a456d6ff6d74cc889517fc585626e8">&#9670;&#160;</a></span>GetCurrent()</h2>
+<a id="adad5e421ed10b296eae8b9c52f5e76f5" name="adad5e421ed10b296eae8b9c52f5e76f5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adad5e421ed10b296eae8b9c52f5e76f5">&#9670;&#160;</a></span>write()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">time_t IntervalTimer::GetCurrent </td>
+          <td class="memname">std::streamsize <a class="el" href="../../df/d07/a05474.html">Acore::ACLogSink</a>&lt; T &gt;::write </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="paramtype">char const *&#160;</td>
+          <td class="paramname"><em>str</em>, </td>
         </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  190</span>    {</div>
-<div class="line"><span class="lineno">  191</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/d07/a05474.html#a99c5aec27af00ffbbd83c5adbd2e2016">_current</a>;</div>
-<div class="line"><span class="lineno">  192</span>    }</div>
-<div class="ttc" id="aa05474_html_a99c5aec27af00ffbbd83c5adbd2e2016"><div class="ttname"><a href="../../df/d07/a05474.html#a99c5aec27af00ffbbd83c5adbd2e2016">IntervalTimer::_current</a></div><div class="ttdeci">time_t _current</div><div class="ttdef"><b>Definition:</b> Timer.h:196</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">_current</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l03219">World::GetNextWhoListUpdateDelaySecs()</a>, and <a class="el" href="../../#l00041">Weather::Update()</a>.</p>
-
-</div>
-</div>
-<a id="a986bec1dcb7325088517f6721636abcc" name="a986bec1dcb7325088517f6721636abcc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a986bec1dcb7325088517f6721636abcc">&#9670;&#160;</a></span>GetInterval()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
         <tr>
-          <td class="memname">time_t IntervalTimer::GetInterval </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  185</span>    {</div>
-<div class="line"><span class="lineno">  186</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/d07/a05474.html#a179584ce91f62ba5e74ae3f34ee32fbc">_interval</a>;</div>
-<div class="line"><span class="lineno">  187</span>    }</div>
-<div class="ttc" id="aa05474_html_a179584ce91f62ba5e74ae3f34ee32fbc"><div class="ttname"><a href="../../df/d07/a05474.html#a179584ce91f62ba5e74ae3f34ee32fbc">IntervalTimer::_interval</a></div><div class="ttdeci">time_t _interval</div><div class="ttdef"><b>Definition:</b> Timer.h:195</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00195">_interval</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l03219">World::GetNextWhoListUpdateDelaySecs()</a>, and <a class="el" href="../../#l00030">Weather::Weather()</a>.</p>
-
-</div>
-</div>
-<a id="a9b3ac2407baf9763fa899e35a5c55fbe" name="a9b3ac2407baf9763fa899e35a5c55fbe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9b3ac2407baf9763fa899e35a5c55fbe">&#9670;&#160;</a></span>Passed()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool IntervalTimer::Passed </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">std::streamsize&#160;</td>
+          <td class="paramname"><em>size</em>&#160;</td>
         </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  162</span>    {</div>
-<div class="line"><span class="lineno">  163</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/d07/a05474.html#a99c5aec27af00ffbbd83c5adbd2e2016">_current</a> &gt;= <a class="code hl_variable" href="../../df/d07/a05474.html#a179584ce91f62ba5e74ae3f34ee32fbc">_interval</a>;</div>
-<div class="line"><span class="lineno">  164</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">_current</a>, and <a class="el" href="../../#l00195">_interval</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00426">AuctionHouseMgr::Update()</a>, and <a class="el" href="../../#l00041">Weather::Update()</a>.</p>
-
-</div>
-</div>
-<a id="ae243f18c4c3174b91fa01f6d08b04d4d" name="ae243f18c4c3174b91fa01f6d08b04d4d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae243f18c4c3174b91fa01f6d08b04d4d">&#9670;&#160;</a></span>Reset()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
         <tr>
-          <td class="memname">void IntervalTimer::Reset </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
           <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -288,134 +234,33 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  167</span>    {</div>
-<div class="line"><span class="lineno">  168</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/d07/a05474.html#a99c5aec27af00ffbbd83c5adbd2e2016">_current</a> &gt;= <a class="code hl_variable" href="../../df/d07/a05474.html#a179584ce91f62ba5e74ae3f34ee32fbc">_interval</a>)</div>
-<div class="line"><span class="lineno">  169</span>        {</div>
-<div class="line"><span class="lineno">  170</span>            <a class="code hl_variable" href="../../df/d07/a05474.html#a99c5aec27af00ffbbd83c5adbd2e2016">_current</a> %= <a class="code hl_variable" href="../../df/d07/a05474.html#a179584ce91f62ba5e74ae3f34ee32fbc">_interval</a>;</div>
-<div class="line"><span class="lineno">  171</span>        }</div>
-<div class="line"><span class="lineno">  172</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   47</span>        {</div>
+<div class="line"><span class="lineno">   48</span>            std::string consoleStr(str, size);</div>
+<div class="line"><span class="lineno">   49</span>            std::string utf8;</div>
+<div class="line"><span class="lineno">   50</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/dba/a04502.html#a0da0f18a290f7efb94e632d8ffa819d1">consoleToUtf8</a>(consoleStr, utf8))</div>
+<div class="line"><span class="lineno">   51</span>                <a class="code hl_variable" href="../../df/d07/a05474.html#a360b91b740efaa05309725f6678eb22a">callback_</a>(utf8);</div>
+<div class="line"><span class="lineno">   52</span>            <span class="keywordflow">return</span> size;</div>
+<div class="line"><span class="lineno">   53</span>        }</div>
+<div class="ttc" id="aa04502_html_a0da0f18a290f7efb94e632d8ffa819d1"><div class="ttname"><a href="../../d7/dba/a04502.html#a0da0f18a290f7efb94e632d8ffa819d1">consoleToUtf8</a></div><div class="ttdeci">bool consoleToUtf8(std::string_view conStr, std::string &amp;utf8str)</div><div class="ttdef"><b>Definition:</b> Util.cpp:466</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">_current</a>, and <a class="el" href="../../#l00195">_interval</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l02523">World::ForceGameEventUpdate()</a>, <a class="el" href="../../#l00409">World::LoadConfigSettings()</a>, <a class="el" href="../../#l00074">MapMgr::SetMapUpdateInterval()</a>, <a class="el" href="../../#l00426">AuctionHouseMgr::Update()</a>, <a class="el" href="../../#l00041">Weather::Update()</a>, and <a class="el" href="../../#l02278">World::Update()</a>.</p>
-
-</div>
-</div>
-<a id="ab315f686c2777dc21c824d8674479f9f" name="ab315f686c2777dc21c824d8674479f9f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab315f686c2777dc21c824d8674479f9f">&#9670;&#160;</a></span>SetCurrent()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void IntervalTimer::SetCurrent </td>
-          <td>(</td>
-          <td class="paramtype">time_t&#160;</td>
-          <td class="paramname"><em>current</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  175</span>    {</div>
-<div class="line"><span class="lineno">  176</span>        <a class="code hl_variable" href="../../df/d07/a05474.html#a99c5aec27af00ffbbd83c5adbd2e2016">_current</a> = current;</div>
-<div class="line"><span class="lineno">  177</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">_current</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00036">AuctionHouseMgr::AuctionHouseMgr()</a>, <a class="el" href="../../#l03187">World::RemoveOldCorpses()</a>, <a class="el" href="../../#l00041">Weather::Update()</a>, <a class="el" href="../../#l02278">World::Update()</a>, and <a class="el" href="../../#l00244">MapMgr::Update()</a>.</p>
-
-</div>
-</div>
-<a id="a28d95330f971d3a37aaf53e4f16aad4a" name="a28d95330f971d3a37aaf53e4f16aad4a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a28d95330f971d3a37aaf53e4f16aad4a">&#9670;&#160;</a></span>SetInterval()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void IntervalTimer::SetInterval </td>
-          <td>(</td>
-          <td class="paramtype">time_t&#160;</td>
-          <td class="paramname"><em>interval</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  180</span>    {</div>
-<div class="line"><span class="lineno">  181</span>        <a class="code hl_variable" href="../../df/d07/a05474.html#a179584ce91f62ba5e74ae3f34ee32fbc">_interval</a> = interval;</div>
-<div class="line"><span class="lineno">  182</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00195">_interval</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00036">AuctionHouseMgr::AuctionHouseMgr()</a>, <a class="el" href="../../#l02523">World::ForceGameEventUpdate()</a>, <a class="el" href="../../#l00409">World::LoadConfigSettings()</a>, <a class="el" href="../../#l00037">MapMgr::MapMgr()</a>, <a class="el" href="../../#l01508">World::SetInitialWorldSettings()</a>, <a class="el" href="../../#l00074">MapMgr::SetMapUpdateInterval()</a>, <a class="el" href="../../#l02278">World::Update()</a>, and <a class="el" href="../../#l00030">Weather::Weather()</a>.</p>
-
-</div>
-</div>
-<a id="aa1f5b922ea2d95c49924a506ca37a676" name="aa1f5b922ea2d95c49924a506ca37a676"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa1f5b922ea2d95c49924a506ca37a676">&#9670;&#160;</a></span>Update()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void IntervalTimer::Update </td>
-          <td>(</td>
-          <td class="paramtype">time_t&#160;</td>
-          <td class="paramname"><em>diff</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  153</span>    {</div>
-<div class="line"><span class="lineno">  154</span>        <a class="code hl_variable" href="../../df/d07/a05474.html#a99c5aec27af00ffbbd83c5adbd2e2016">_current</a> += diff;</div>
-<div class="line"><span class="lineno">  155</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/d07/a05474.html#a99c5aec27af00ffbbd83c5adbd2e2016">_current</a> &lt; 0)</div>
-<div class="line"><span class="lineno">  156</span>        {</div>
-<div class="line"><span class="lineno">  157</span>            <a class="code hl_variable" href="../../df/d07/a05474.html#a99c5aec27af00ffbbd83c5adbd2e2016">_current</a> = 0;</div>
-<div class="line"><span class="lineno">  158</span>        }</div>
-<div class="line"><span class="lineno">  159</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">_current</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00426">AuctionHouseMgr::Update()</a>, <a class="el" href="../../#l00041">Weather::Update()</a>, and <a class="el" href="../../#l02278">World::Update()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00036">Acore::ACLogSink&lt; T &gt;::callback_</a>, and <a class="el" href="../../#l00466">consoleToUtf8()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a99c5aec27af00ffbbd83c5adbd2e2016" name="a99c5aec27af00ffbbd83c5adbd2e2016"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a99c5aec27af00ffbbd83c5adbd2e2016">&#9670;&#160;</a></span>_current</h2>
+<a id="a360b91b740efaa05309725f6678eb22a" name="a360b91b740efaa05309725f6678eb22a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a360b91b740efaa05309725f6678eb22a">&#9670;&#160;</a></span>callback_</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">time_t IntervalTimer::_current {0}</td>
+          <td class="memname">T <a class="el" href="../../df/d07/a05474.html">Acore::ACLogSink</a>&lt; T &gt;::callback_</td>
         </tr>
       </table>
   </td>
@@ -425,31 +270,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00189">GetCurrent()</a>, <a class="el" href="../../#l00161">Passed()</a>, <a class="el" href="../../#l00166">Reset()</a>, <a class="el" href="../../#l00174">SetCurrent()</a>, and <a class="el" href="../../#l00152">Update()</a>.</p>
-
-</div>
-</div>
-<a id="a179584ce91f62ba5e74ae3f34ee32fbc" name="a179584ce91f62ba5e74ae3f34ee32fbc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a179584ce91f62ba5e74ae3f34ee32fbc">&#9670;&#160;</a></span>_interval</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">time_t IntervalTimer::_interval {0}</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00184">GetInterval()</a>, <a class="el" href="../../#l00161">Passed()</a>, <a class="el" href="../../#l00166">Reset()</a>, and <a class="el" href="../../#l00179">SetInterval()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00046">Acore::ACLogSink&lt; T &gt;::write()</a>.</p>
 
 </div>
 </div>
@@ -458,8 +279,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/d07/a05474.html">IntervalTimer</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:44:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/dda/a04740.html">Acore</a></li><li class="navelem"><a class="el" href="../../df/d07/a05474.html">ACLogSink</a></li>
+    <li class="footer">Generated on Mon Feb 17 2025 20:43:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

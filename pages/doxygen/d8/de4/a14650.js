@@ -1,14 +1,10 @@
 var a14650 =
 [
-    [ "boss_ayamiss", "d8/de4/a14650.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
-    [ "DoAction", "d8/de4/a14650.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
-    [ "EnterEvadeMode", "d8/de4/a14650.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
-    [ "JustDied", "d8/de4/a14650.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
-    [ "JustEngagedWith", "d8/de4/a14650.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
-    [ "JustSummoned", "d8/de4/a14650.html#a4281f761256cd93c19aea0a76239512d", null ],
-    [ "MovementInform", "d8/de4/a14650.html#a6bc1f0767785efb5a5fb005b49338032", null ],
-    [ "Reset", "d8/de4/a14650.html#a10111f97236c2846181aa20f7d9b64fd", null ],
-    [ "ScheduleTasks", "d8/de4/a14650.html#a166238b9395a426a7333cf71a38c6c5c", null ],
-    [ "_swarmers", "d8/de4/a14650.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
-    [ "homePos", "d8/de4/a14650.html#ab098ee0f8872d1cf9d34993c01971921", null ]
+    [ "npc_tarethaAI", "d8/de4/a14650.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
+    [ "AttackStart", "d8/de4/a14650.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
+    [ "DoAction", "d8/de4/a14650.html#adbb40db0b70532a20731cf5039e44d0b", null ],
+    [ "MoveInLineOfSight", "d8/de4/a14650.html#afa0427372e43316851018bf78274707f", null ],
+    [ "Reset", "d8/de4/a14650.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
+    [ "WaypointReached", "d8/de4/a14650.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
+    [ "instance", "d8/de4/a14650.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
 ];

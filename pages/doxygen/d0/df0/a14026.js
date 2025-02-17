@@ -1,6 +1,7 @@
 var a14026 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "d0/df8/a14030.html", "d0/df8/a14030" ],
-    [ "npc_grizzlemaw_cw_trigger", "d0/df0/a14026.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
-    [ "GetAI", "d0/df0/a14026.html#a1a834bda866033a3cca4fc4ece447313", null ]
+    [ "FilterTargets", "d0/df0/a14026.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "d0/df0/a14026.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "d0/df0/a14026.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "d0/df0/a14026.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

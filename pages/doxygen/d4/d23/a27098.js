@@ -1,6 +1,7 @@
 var a27098 =
 [
-    [ "guard_shattrath_aldorAI", "d1/df0/a27102.html", "d1/df0/a27102" ],
-    [ "guard_shattrath_aldor", "d4/d23/a27098.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "d4/d23/a27098.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "go_darkmoon_faire_musicAI", "d4/d23/a27098.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
+    [ "UpdateAI", "d4/d23/a27098.html#af3d802bd852fc0483f72781edb13b5d5", null ],
+    [ "_events", "d4/d23/a27098.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
+    [ "rnd", "d4/d23/a27098.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
 ];

@@ -1,6 +1,6 @@
 var a19894 =
 [
-    [ "npc_ulduar_flash_freezeAI", "df/d76/a19898.html", "df/d76/a19898" ],
-    [ "npc_ulduar_flash_freeze", "d8/d89/a19894.html#a0301ed1231d3b0d113e9fc9389e8f160", null ],
-    [ "GetAI", "d8/d89/a19894.html#a933f99c8d38ab98c8454919b6373bb41", null ]
+    [ "boss_freya_iron_rootAI", "df/d76/a19898.html", "df/d76/a19898" ],
+    [ "boss_freya_iron_root", "d8/d89/a19894.html#a9478144d6cb72d08698cbfc50893935b", null ],
+    [ "GetAI", "d8/d89/a19894.html#acdda736e9259d59a30a40d989e70f95c", null ]
 ];

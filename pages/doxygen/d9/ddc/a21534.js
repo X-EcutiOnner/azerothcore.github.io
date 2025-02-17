@@ -1,7 +1,6 @@
 var a21534 =
 [
-    [ "FilterTargets", "d9/ddc/a21534.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "d9/ddc/a21534.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "d9/ddc/a21534.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "d9/ddc/a21534.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "npc_dalaran_warriorAI", "dc/d37/a21538.html", "dc/d37/a21538" ],
+    [ "npc_dalaran_warrior", "d9/ddc/a21534.html#a13d44b85173232ddedcc35184d50549c", null ],
+    [ "GetAI", "d9/ddc/a21534.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
 ];

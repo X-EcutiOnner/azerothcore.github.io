@@ -1,6 +1,7 @@
 var a15422 =
 [
-    [ "npc_rivern_frostwind", "d8/dfe/a15422.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
-    [ "OnGossipHello", "d8/dfe/a15422.html#a90a6582633336de422c9f98973562b32", null ],
-    [ "OnGossipSelect", "d8/dfe/a15422.html#a067ff91179f551633594d488eda269ed", null ]
+    [ "npc_kaya_flathoofAI", "d2/d2b/a15426.html", "d2/d2b/a15426" ],
+    [ "npc_kaya_flathoof", "d8/dfe/a15422.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
+    [ "GetAI", "d8/dfe/a15422.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
+    [ "OnQuestAccept", "d8/dfe/a15422.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
 ];

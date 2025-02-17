@@ -1,6 +1,9 @@
 var a16826 =
 [
-    [ "HandleDummy", "d7/dc2/a16826.html#aef592aafe931351186edf98f7aba7e22", null ],
-    [ "PrepareSpellScript", "d7/dc2/a16826.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
-    [ "Register", "d7/dc2/a16826.html#a7594952f23cba22b886c2c3b10f363d4", null ]
+    [ "FilterTargets", "d7/dc2/a16826.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "d7/dc2/a16826.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "d7/dc2/a16826.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "d7/dc2/a16826.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "d7/dc2/a16826.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "targetList", "d7/dc2/a16826.html#a3c839185938e0b67b97f652d1d15e213", null ]
 ];

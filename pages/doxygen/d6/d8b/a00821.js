@@ -1,4 +1,10 @@
 var a00821 =
 [
-    [ "ScriptRegistry< AllBattlegroundScript >", "d6/d8b/a00821.html#a4a1c5c34c42d3aaca9edc12feb3f7575", null ]
+    [ "spell_utgarde_pinnacle_beast_mark", "d1/df0/a21046.html", "d1/df0/a21046" ],
+    [ "UtgardeSpells", "d6/d8b/a00821.html#ae8fa29243650c07aed99f9ee3cad321a", [
+      [ "SPELL_BEAST_MARK_NORMAL", "d6/d8b/a00821.html#ae8fa29243650c07aed99f9ee3cad321aa515971380a351ffe4dc21aefd7d9a8aa", null ],
+      [ "SPELL_BEAST_MARK_DAMAGE_N", "d6/d8b/a00821.html#ae8fa29243650c07aed99f9ee3cad321aa519ee30eba59f71f788bd5aaa9ea8a4f", null ],
+      [ "SPELL_BEAST_MARK_DAMAGE_H", "d6/d8b/a00821.html#ae8fa29243650c07aed99f9ee3cad321aa28cc83c9c8ba75d8dd51298affc35aa7", null ]
+    ] ],
+    [ "AddSC_utgarde_pinnacle", "d6/d8b/a00821.html#aa865b80ad4fb44b0c96fa45f08d06d71", null ]
 ];

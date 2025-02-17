@@ -1,7 +1,6 @@
 var a05034 =
 [
-    [ "operator()", "db/d20/a05034.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
-    [ "closestEntity", "db/d20/a05034.html#ab377424b7edd0274f61967619700f841", null ],
-    [ "hitLocation", "db/d20/a05034.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
-    [ "hitNormal", "db/d20/a05034.html#a57f40f48c26829f7da9e48efd839d773", null ]
+    [ "TriBoundFunc", "db/d20/a05034.html#a42711c10595c048420a09e35e3345229", null ],
+    [ "operator()", "db/d20/a05034.html#a026d443e9156f884a21351700b6c69dd", null ],
+    [ "vertices", "db/d20/a05034.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
 ];

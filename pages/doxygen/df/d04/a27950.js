@@ -1,8 +1,6 @@
 var a27950 =
 [
-    [ "areaTriggerText", "df/d04/a27950.html#a32bb8c4a4defce661d108627e25b645a", null ],
-    [ "Difficulty", "df/d04/a27950.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
-    [ "MapId", "df/d04/a27950.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
-    [ "maxPlayers", "df/d04/a27950.html#a7ab33229ffee11a27861439053c79831", null ],
-    [ "resetTime", "df/d04/a27950.html#a891a741efb049b51996e1a6110efc52d", null ]
+    [ "color", "df/d04/a27950.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
+    [ "ID", "df/d04/a27950.html#ac125147c2dc5546a0116f48e08f36e59", null ],
+    [ "spellitemenchantement", "df/d04/a27950.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
 ];

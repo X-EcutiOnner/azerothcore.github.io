@@ -1,12 +1,7 @@
 var a22302 =
 [
-    [ "boss_exarch_maladaar", "d5/d5f/a22302.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
-    [ "JustDied", "d5/d5f/a22302.html#ab1179a19af8948d430559db4074c41ed", null ],
-    [ "JustEngagedWith", "d5/d5f/a22302.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
-    [ "JustSummoned", "d5/d5f/a22302.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
-    [ "KilledUnit", "d5/d5f/a22302.html#adf35cb8b039676500d4040baa08b0d48", null ],
-    [ "MoveInLineOfSight", "d5/d5f/a22302.html#a14baacd30b9186c7492c981313421d5b", null ],
-    [ "Reset", "d5/d5f/a22302.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
-    [ "UpdateAI", "d5/d5f/a22302.html#a7646c4477135d3d3b8580432902babd4", null ],
-    [ "_talked", "d5/d5f/a22302.html#a15c4f122529b9f52823ea407c43433c5", null ]
+    [ "npc_storm_cloudAI", "d5/d5f/a22302.html#aa4dd9409cd74f3c2c878974715e43394", null ],
+    [ "JustRespawned", "d5/d5f/a22302.html#ad0f99362f7ab506b322b6d75890881c1", null ],
+    [ "Reset", "d5/d5f/a22302.html#a99654ac86502e3ac2f899082269ccb01", null ],
+    [ "SpellHit", "d5/d5f/a22302.html#ac51313cec4d76216f3c716d988fc4857", null ]
 ];

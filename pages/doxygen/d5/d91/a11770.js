@@ -1,7 +1,9 @@
 var a11770 =
 [
-    [ "boss_okthorAI", "d5/d91/a11770.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
-    [ "JustEngagedWith", "d5/d91/a11770.html#a466a618e52f40e04e873dd50f3728755", null ],
-    [ "UpdateAI", "d5/d91/a11770.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
-    [ "nextArcaneExplosionTime", "d5/d91/a11770.html#a89d8cdd528775ee77caeac1d0465d4f2", null ]
+    [ "npc_phalanxAI", "d5/d91/a11770.html#a1a09cd0b0cf765dec20ca9c3c5bb9373", null ],
+    [ "Reset", "d5/d91/a11770.html#a41a14315d82b169528bd764335c16d52", null ],
+    [ "UpdateAI", "d5/d91/a11770.html#a78092bfb2d9b8455b5348d872afc6521", null ],
+    [ "FireballVolley_Timer", "d5/d91/a11770.html#a0e7bedf19d7a69707fcfec9cbd3649e5", null ],
+    [ "MightyBlow_Timer", "d5/d91/a11770.html#ae8fe8a7313f573e910763d5a82303e66", null ],
+    [ "ThunderClap_Timer", "d5/d91/a11770.html#ab68781dcd728e2a0d021a0d52e43fd71", null ]
 ];

@@ -1,10 +1,16 @@
 var a02327 =
 [
-    [ "UpdateException", "d5/db7/a05798.html", "d5/db7/a05798" ],
-    [ "DBUpdaterUtil", "dd/dd9/a05802.html", "dd/dd9/a05802" ],
-    [ "DBUpdater< T >", "dd/d3e/a05806.html", "dd/d3e/a05806" ],
-    [ "BaseLocation", "d1/da3/a02327.html#a0c382fe144b0dc101a8b2b9d4ef51010", [
-      [ "LOCATION_REPOSITORY", "d1/da3/a02327.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550", null ],
-      [ "LOCATION_DOWNLOAD", "d1/da3/a02327.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c", null ]
-    ] ]
+    [ "LinkValidator< T >", "d2/deb/a07662.html", "d2/deb/a07662" ],
+    [ "LinkValidator< LinkTags::achievement >", "df/d9b/a07666.html", "df/d9b/a07666" ],
+    [ "LinkValidator< LinkTags::item >", "d5/d6a/a07670.html", "d5/d6a/a07670" ],
+    [ "LinkValidator< LinkTags::quest >", "d3/d5b/a07674.html", "d3/d5b/a07674" ],
+    [ "LinkValidator< LinkTags::spell >", "db/def/a07678.html", "db/def/a07678" ],
+    [ "LinkValidator< LinkTags::enchant >", "df/d7f/a07682.html", "df/d7f/a07682" ],
+    [ "LinkValidator< LinkTags::glyph >", "d8/db1/a07686.html", "d8/db1/a07686" ],
+    [ "LinkValidator< LinkTags::talent >", "d2/d33/a07690.html", "d2/d33/a07690" ],
+    [ "LinkValidator< LinkTags::trade >", "dc/da1/a07694.html", "dc/da1/a07694" ],
+    [ "TryValidateAs", "d1/da3/a02327.html#af1c86bff85f30ff113d5f78421c280af", null ],
+    [ "toHex", "d1/da3/a02327.html#a0b5e4d40ad5549ddc48c127306499b6c", null ],
+    [ "ValidateAs", "d1/da3/a02327.html#a1021653ddd2d2e78df34d8c4a2a7ed93", null ],
+    [ "ValidateLinkInfo", "d1/da3/a02327.html#a7de61dd7d7c595063ae73f415e961cc9", null ]
 ];

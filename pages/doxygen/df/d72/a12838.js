@@ -1,15 +1,12 @@
 var a12838 =
 [
-    [ "boss_kormok", "df/d72/a12838.html#a2bacfd366d084cae31b8cc689fb26d0b", null ],
-    [ "DamageTaken", "df/d72/a12838.html#a2aa7fedea09b4d0526028826be2cb360", null ],
-    [ "IsSummonedBy", "df/d72/a12838.html#a641bd06b5da44e04534150fc1fc6f9e0", null ],
-    [ "JustDied", "df/d72/a12838.html#a219bc4f5e13e58bb4a8f79cbc36b5ad7", null ],
-    [ "JustEngagedWith", "df/d72/a12838.html#a7fc5bb05831e5b8e22c7d59c5c71f87a", null ],
-    [ "JustSummoned", "df/d72/a12838.html#a49ba1031e5639c3d8fdaf9ae9884a038", null ],
-    [ "Reset", "df/d72/a12838.html#a70252bf1680510294f62e2c42220156e", null ],
-    [ "SummonedCreatureDespawn", "df/d72/a12838.html#a6f23b4b006de4b8b5fda6e0203e2f8a7", null ],
-    [ "UpdateAI", "df/d72/a12838.html#aea5651a98492885eb4d598714df4fd40", null ],
-    [ "_mages", "df/d72/a12838.html#ae0de3f9848cb9051a18ba15347af3e7a", null ],
-    [ "_scheduler", "df/d72/a12838.html#a540ef7a05a503a989f93d4b53daacb4b", null ],
-    [ "_summons", "df/d72/a12838.html#aefaac0c5af45f63faeac6bf9ef1ca7fc", null ]
+    [ "npc_scarlet_minerAI", "df/d72/a12838.html#a7f5ca173103eb4498ce41912bda5da66", null ],
+    [ "InitCartQuest", "df/d72/a12838.html#a5d3ece8f2f02a2bae4550a41f55348b0", null ],
+    [ "InitWaypoint", "df/d72/a12838.html#a7fe048368b6e0a43b5be501a24773b8c", null ],
+    [ "Reset", "df/d72/a12838.html#a2a8660173dc32c38de917049eb33fff8", null ],
+    [ "UpdateAI", "df/d72/a12838.html#a48d2c92a4d45d5e59252f9455b82cbbd", null ],
+    [ "WaypointReached", "df/d72/a12838.html#a31f4363e269b51d3a002a132b5516dd0", null ],
+    [ "carGUID", "df/d72/a12838.html#a963f9c0ca58ce160b43f36f5a9f7dee7", null ],
+    [ "IntroPhase", "df/d72/a12838.html#a094c2ee20d13c88805c3de7f9f94b86e", null ],
+    [ "IntroTimer", "df/d72/a12838.html#adae2103753dd62699359ff01ac3ba865", null ]
 ];

@@ -1,7 +1,6 @@
 var a14758 =
 [
-    [ "npc_hivezara_stinger", "d7/d3b/a14758.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "d7/d3b/a14758.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "d7/d3b/a14758.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "d7/d3b/a14758.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "npc_idol_room_spawnerAI", "d1/d0d/a14762.html", "d1/d0d/a14762" ],
+    [ "npc_idol_room_spawner", "d7/d3b/a14758.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "d7/d3b/a14758.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

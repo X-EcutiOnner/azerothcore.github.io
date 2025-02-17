@@ -1,7 +1,5 @@
 var a27158 =
 [
-    [ "npc_prof_leather", "d0/dd7/a27158.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
-    [ "HasLeatherSpecialty", "d0/dd7/a27158.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
-    [ "OnGossipHello", "d0/dd7/a27158.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
-    [ "OnGossipSelect", "d0/dd7/a27158.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
+    [ "go_jotunheim_cage", "d0/dd7/a27158.html#a28c9312de97a822e34f05c7358b42df4", null ],
+    [ "OnGossipHello", "d0/dd7/a27158.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
 ];

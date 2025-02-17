@@ -1,7 +1,8 @@
 var a11130 =
 [
-    [ "EffectApplyHandler", "d4/db0/a11130.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
-    [ "Call", "d4/db0/a11130.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
-    [ "mode", "d4/db0/a11130.html#ac776375c5a5de321edc572c87e983193", null ],
-    [ "pEffectHandlerScript", "d4/db0/a11130.html#acd715556a7661f688ce0de9afe62250a", null ]
+    [ "target_mapId", "d4/db0/a11130.html#a6dbbb558810388e0d051d84a0279a444", null ],
+    [ "target_Orientation", "d4/db0/a11130.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
+    [ "target_X", "d4/db0/a11130.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
+    [ "target_Y", "d4/db0/a11130.html#a6f432d8770adebf513346713b7890b5c", null ],
+    [ "target_Z", "d4/db0/a11130.html#a3af706b81f8fbef12277c518964f717a", null ]
 ];

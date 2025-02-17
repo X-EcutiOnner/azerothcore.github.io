@@ -1,7 +1,6 @@
 var a10474 =
 [
-    [ "GuildBankActivate", "d1/df0/a10474.html#a5b27541a26ada694d9635f6d6873ef20", null ],
-    [ "Read", "d1/df0/a10474.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
-    [ "Banker", "d1/df0/a10474.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
-    [ "FullUpdate", "d1/df0/a10474.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
+    [ "GuildCreate", "d1/df0/a10474.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
+    [ "Read", "d1/df0/a10474.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
+    [ "GuildName", "d1/df0/a10474.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
 ];

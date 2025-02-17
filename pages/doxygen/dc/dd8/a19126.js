@@ -1,6 +1,6 @@
 var a19126 =
 [
-    [ "npc_oculus_drakeAI", "d8/d0e/a19130.html", "d8/d0e/a19130" ],
-    [ "npc_oculus_drake", "dc/dd8/a19126.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "dc/dd8/a19126.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "instance_eye_of_eternity_InstanceMapScript", "d8/d0e/a19130.html", "d8/d0e/a19130" ],
+    [ "instance_eye_of_eternity", "dc/dd8/a19126.html#afcab4ba969d0423871a4e398627a323d", null ],
+    [ "GetInstanceScript", "dc/dd8/a19126.html#af51319609d355fe87a77a87eb697f434", null ]
 ];

@@ -1,5 +1,5 @@
 var a27034 =
 [
-    [ "go_scourge_cage", "d2/dda/a27034.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
-    [ "OnGossipHello", "d2/dda/a27034.html#ab4e97cd290342d623d212cc7cec227d5", null ]
+    [ "go_resonite_cask", "d2/dda/a27034.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
+    [ "OnGossipHello", "d2/dda/a27034.html#aae8591d53a6983886b52d404acdba293", null ]
 ];

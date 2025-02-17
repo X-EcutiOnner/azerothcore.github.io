@@ -1,7 +1,6 @@
 var a26590 =
 [
-    [ "HandleApply", "dc/de4/a26590.html#aa35fa107aee605a8583150901a75ad72", null ],
-    [ "HandleRemove", "dc/de4/a26590.html#a60b6e438ff67d9db41d160020b54da40", null ],
-    [ "PrepareAuraScript", "dc/de4/a26590.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
-    [ "Register", "dc/de4/a26590.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
+    [ "CheckCast", "dc/de4/a26590.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
+    [ "PrepareSpellScript", "dc/de4/a26590.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
+    [ "Register", "dc/de4/a26590.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
 ];

@@ -1,10 +1,14 @@
 var a07882 =
 [
-    [ "CreatureModel", "de/dc5/a07882.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
-    [ "CreatureModel", "de/dc5/a07882.html#a02b05bf92c3341b90173b4aa998087ba", null ],
-    [ "CreatureDisplayID", "de/dc5/a07882.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
-    [ "DefaultInvisibleModel", "de/dc5/a07882.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
-    [ "DefaultVisibleModel", "de/dc5/a07882.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
-    [ "DisplayScale", "de/dc5/a07882.html#ad842b73233b84c451710767f5e58f10a", null ],
-    [ "Probability", "de/dc5/a07882.html#a7736d6480dca65a68afb82a830b35874", null ]
+    [ "LfgQueueStatusData", "de/dc5/a07882.html#af50fc3422feb137a7ccd820e2ac2fe44", null ],
+    [ "dps", "de/dc5/a07882.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a", null ],
+    [ "dungeonId", "de/dc5/a07882.html#a9a6288f9e14e593e147b4f60a1dc8991", null ],
+    [ "healers", "de/dc5/a07882.html#a61b2c2f4391022c7e4ba3972c4467a74", null ],
+    [ "queuedTime", "de/dc5/a07882.html#a398efafa1ef7faa6600d6fdb28306f49", null ],
+    [ "tanks", "de/dc5/a07882.html#a74f54d22ca9e2b6711bf363737b9ff06", null ],
+    [ "waitTime", "de/dc5/a07882.html#aa794f234bf93e66916f7eadb986f17ef", null ],
+    [ "waitTimeAvg", "de/dc5/a07882.html#af44b91dd7ddfb702662663f989f026fc", null ],
+    [ "waitTimeDps", "de/dc5/a07882.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf", null ],
+    [ "waitTimeHealer", "de/dc5/a07882.html#abf57fbbaac89b08bacf0731e3a8b65e3", null ],
+    [ "waitTimeTank", "de/dc5/a07882.html#a73cdcd16181375a7d428e6b50cb1e1e6", null ]
 ];

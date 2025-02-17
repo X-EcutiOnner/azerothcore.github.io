@@ -1,6 +1,6 @@
 var a18554 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "d6/da9/a18558.html", "d6/da9/a18558" ],
-    [ "npc_icc_gauntlet_controller", "d9/d62/a18554.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "d9/d62/a18554.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "PrepareSpellScript", "d9/d62/a18554.html#aac12da39c503615036120e3e0cd55622", null ],
+    [ "Register", "d9/d62/a18554.html#a808d2283be9714c14f22a2df0a52dd61", null ],
+    [ "RelocateDest", "d9/d62/a18554.html#a843c9dc403404ddd2de667e57e01f00c", null ]
 ];

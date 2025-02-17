@@ -1,7 +1,6 @@
 var a25054 =
 [
-    [ "OnRemove", "d4/d96/a25054.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
-    [ "PrepareAuraScript", "d4/d96/a25054.html#ac2b1a2311f97ab427439b45fb0770063", null ],
-    [ "Register", "d4/d96/a25054.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
-    [ "Validate", "d4/d96/a25054.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
+    [ "CalculateAmount", "d4/d96/a25054.html#a0522f4bf54b4a71df4e09f97a28fda45", null ],
+    [ "PrepareAuraScript", "d4/d96/a25054.html#acf699e467734499dd992f401da38cf88", null ],
+    [ "Register", "d4/d96/a25054.html#a6e6396a162a532ff25b9bd7c551f05d8", null ]
 ];

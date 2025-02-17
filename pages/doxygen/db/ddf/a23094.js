@@ -1,6 +1,10 @@
 var a23094 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "dd/d93/a23098.html", "dd/d93/a23098" ],
-    [ "instance_steam_vault", "db/ddf/a23094.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "db/ddf/a23094.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "Spells", "db/ddf/a23094.html#a70ca1841fb1db54e6f76b96331e05cf1", [
+      [ "SPELL_GROW", "db/ddf/a23094.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
+      [ "SPELL_SPORE_CLOUD", "db/ddf/a23094.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
+    ] ],
+    [ "npc_rancid_mushroom", "db/ddf/a23094.html#a15896957b94de57de9eda5a199a05d4c", null ],
+    [ "InitializeAI", "db/ddf/a23094.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
+    [ "UpdateAI", "db/ddf/a23094.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
 ];

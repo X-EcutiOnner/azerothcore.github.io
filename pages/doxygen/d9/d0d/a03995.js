@@ -1,6 +1,6 @@
 var a03995 =
 [
-    [ "event_commandscript", "d4/d19/a11426.html", "d4/d19/a11426" ],
-    [ "EventEntry", "d9/d0d/a03995.html#accd9dac141ffd4618bb7d3f69e8eb716", null ],
-    [ "AddSC_event_commandscript", "d9/d0d/a03995.html#a4f3834f706dcb17ca67ce6513f6aecad", null ]
+    [ "CharacterDatabase", "d9/d0d/a03995.html#af8239cd04c4137e1e621226a6d919ed4", null ],
+    [ "LoginDatabase", "d9/d0d/a03995.html#ae753c5c60b556b0cb7998e7424be5cbf", null ],
+    [ "WorldDatabase", "d9/d0d/a03995.html#af42e9d262f732792d1e81568ae38ea2e", null ]
 ];

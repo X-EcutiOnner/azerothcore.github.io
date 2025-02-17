@@ -1,7 +1,6 @@
 var a20962 =
 [
-    [ "HandleDummy", "d0/d0f/a20962.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "d0/d0f/a20962.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "d0/d0f/a20962.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "d0/d0f/a20962.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "npc_ravenous_furbolgAI", "de/dbb/a20966.html", "de/dbb/a20966" ],
+    [ "npc_ravenous_furbolg", "d0/d0f/a20962.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "d0/d0f/a20962.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

@@ -1,6 +1,6 @@
 var a21062 =
 [
-    [ "HandleEffectPeriodic", "da/db3/a21062.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "da/db3/a21062.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "da/db3/a21062.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "boss_emalonAI", "dd/d73/a21066.html", "dd/d73/a21066" ],
+    [ "boss_emalon", "da/db3/a21062.html#a2dd481292e02337bebd450f5c9821886", null ],
+    [ "GetAI", "da/db3/a21062.html#a345b0663ba89de5e37b87a436c48e446", null ]
 ];

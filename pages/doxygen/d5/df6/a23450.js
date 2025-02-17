@@ -1,7 +1,5 @@
 var a23450 =
 [
-    [ "HandleCast", "d5/df6/a23450.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "d5/df6/a23450.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "d5/df6/a23450.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "d5/df6/a23450.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "spellId", "d5/df6/a23450.html#acc63d01d5095adef28b9746c520be973", null ],
+    [ "textId", "d5/df6/a23450.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
 ];

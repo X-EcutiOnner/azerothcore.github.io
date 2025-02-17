@@ -1,7 +1,8 @@
 var a24826 =
 [
-    [ "HandleDummy", "df/d44/a24826.html#af5d0fc4e596c04c6ca3faf4079f6b602", null ],
-    [ "Load", "df/d44/a24826.html#a4098aa621012c5e3623ee905d2d2c8eb", null ],
-    [ "PrepareSpellScript", "df/d44/a24826.html#ad9d1823fa4302334419e6f9a01f0a728", null ],
-    [ "Register", "df/d44/a24826.html#a4d683270dc086454630475d39f0105e8", null ]
+    [ "CheckIfCorpseNear", "df/d44/a24826.html#afdf1bca2e23057d99962fb1000e9245e", null ],
+    [ "HandleDummy", "df/d44/a24826.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
+    [ "PrepareSpellScript", "df/d44/a24826.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
+    [ "Register", "df/d44/a24826.html#a22f4c5321769384b2b708f19edea1a66", null ],
+    [ "Validate", "df/d44/a24826.html#a855fdba79c4fa087253505ed419b9966", null ]
 ];

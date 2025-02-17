@@ -1,7 +1,8 @@
 var a17482 =
 [
-    [ "OnPeriodic", "db/d49/a17482.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
-    [ "PrepareAuraScript", "db/d49/a17482.html#a0e87dae1be4f69e6412129f14056eb79", null ],
-    [ "Register", "db/d49/a17482.html#a1b26d102252bf7e0fd480076820d343f", null ],
-    [ "Validate", "db/d49/a17482.html#a211d52aa385a874730abc43b083f2d22", null ]
+    [ "Load", "db/d49/a17482.html#ad1105149d5e42318382af6c07149d522", null ],
+    [ "PeriodicTick", "db/d49/a17482.html#a8e675178256746d08af50a6b75ec582e", null ],
+    [ "PrepareAuraScript", "db/d49/a17482.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
+    [ "Register", "db/d49/a17482.html#a0fa7d86214827711edd019dd3b40c667", null ],
+    [ "_tickNo", "db/d49/a17482.html#a418212d2daa873d69a83b4c1341a8903", null ]
 ];

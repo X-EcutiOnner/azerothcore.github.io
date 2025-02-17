@@ -1,6 +1,9 @@
 var a14942 =
 [
-    [ "HandleDummy", "dc/d73/a14942.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
-    [ "PrepareSpellScript", "dc/d73/a14942.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
-    [ "Register", "dc/d73/a14942.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
+    [ "npc_giant_eye_tentacle", "dc/d73/a14942.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
+    [ "JustDied", "dc/d73/a14942.html#a72cac50a711868256a41c543d0cef3da", null ],
+    [ "JustEngagedWith", "dc/d73/a14942.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
+    [ "Reset", "dc/d73/a14942.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
+    [ "UpdateAI", "dc/d73/a14942.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
+    [ "_portalGUID", "dc/d73/a14942.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
 ];

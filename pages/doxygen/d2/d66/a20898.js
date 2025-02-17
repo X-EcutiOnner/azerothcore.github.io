@@ -1,6 +1,8 @@
 var a20898 =
 [
-    [ "CalculateAmount", "d2/d66/a20898.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "d2/d66/a20898.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "d2/d66/a20898.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "boss_keleseth", "d2/d66/a20898.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
+    [ "AttackStart", "d2/d66/a20898.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
+    [ "JustDied", "d2/d66/a20898.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
+    [ "JustEngagedWith", "d2/d66/a20898.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
+    [ "KilledUnit", "d2/d66/a20898.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
 ];

@@ -1,6 +1,7 @@
 var a13526 =
 [
-    [ "cooldown", "dd/de8/a13526.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
-    [ "spell", "dd/de8/a13526.html#a00ee3238030686e1cc66562f7cefb27a", null ],
-    [ "target", "dd/de8/a13526.html#a16e54dbd059baac1b6e7229621339d83", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d0/d9c/a13530.html", "d0/d9c/a13530" ],
+    [ "npc_lady_sylvanas_windrunner", "dd/de8/a13526.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "dd/de8/a13526.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "dd/de8/a13526.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

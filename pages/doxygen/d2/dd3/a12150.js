@@ -1,9 +1,7 @@
 var a12150 =
 [
-    [ "HandleAfterApply", "d2/dd3/a12150.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
-    [ "HandleAfterRemove", "d2/dd3/a12150.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
-    [ "PeriodicTick", "d2/dd3/a12150.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
-    [ "PrepareAuraScript", "d2/dd3/a12150.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
-    [ "Register", "d2/dd3/a12150.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
-    [ "Validate", "d2/dd3/a12150.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
+    [ "boss_ebonrocAI", "d2/dd3/a12150.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
+    [ "JustEngagedWith", "d2/dd3/a12150.html#a2c74e0030b1093d79245978939043d53", null ],
+    [ "MovementInform", "d2/dd3/a12150.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
+    [ "UpdateAI", "d2/dd3/a12150.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
 ];

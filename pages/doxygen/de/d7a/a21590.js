@@ -1,7 +1,12 @@
 var a21590 =
 [
-    [ "npc_emilyAI", "d7/d37/a21594.html", "d7/d37/a21594" ],
-    [ "npc_emily", "de/d7a/a21590.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "de/d7a/a21590.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "de/d7a/a21590.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "npc_wintergarde_gryphon", "de/d7a/a21590.html#ada46ecdbc8c3a33a7b3ce09296c0db72", null ],
+    [ "getVillager", "de/d7a/a21590.html#a7f20f5e124e013ad8f57ca31b9fb86d7", null ],
+    [ "IsSummonedBy", "de/d7a/a21590.html#acd7cea6226034d53b854c5ed659ff949", null ],
+    [ "JustDied", "de/d7a/a21590.html#a6c87d55ef29e14b4b8b87a0321179542", null ],
+    [ "MovementInform", "de/d7a/a21590.html#a8f2faf49533d27d971110681e050c060", null ],
+    [ "PassengerBoarded", "de/d7a/a21590.html#a16c01d26aef06358f979f59fe68c09ca", null ],
+    [ "SpellHit", "de/d7a/a21590.html#acf64143ea83321556156fde30e1a34d4", null ],
+    [ "UpdateAI", "de/d7a/a21590.html#aa161f280e7a7370696cecc27c51ee55c", null ],
+    [ "villagerGUID", "de/d7a/a21590.html#a56a7973a05061197192111ecf55ef14a", null ]
 ];

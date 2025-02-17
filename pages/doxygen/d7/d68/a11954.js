@@ -1,5 +1,8 @@
 var a11954 =
 [
-    [ "go_father_flame", "d7/d68/a11954.html#aa992bd7029a56faca4b92637688fe845", null ],
-    [ "OnLootStateChanged", "d7/d68/a11954.html#a84c7055e791a3dac66b75d327c7662c3", null ]
+    [ "boss_highlordomokkAI", "d7/d68/a11954.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
+    [ "JustDied", "d7/d68/a11954.html#ac7e125b4350880d3d195b915c8be9de0", null ],
+    [ "JustEngagedWith", "d7/d68/a11954.html#a072dc582f931deb7d1e0db9ad535f146", null ],
+    [ "Reset", "d7/d68/a11954.html#a627390013798de7a53a95817624417e3", null ],
+    [ "UpdateAI", "d7/d68/a11954.html#a38e6008d616131d2876ae5a085a083ff", null ]
 ];

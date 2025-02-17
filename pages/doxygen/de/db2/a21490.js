@@ -1,6 +1,6 @@
 var a21490 =
 [
-    [ "HandleSendEvent", "de/db2/a21490.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "de/db2/a21490.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "de/db2/a21490.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "npc_mei_francis_mountAI", "d6/dca/a21494.html", "d6/dca/a21494" ],
+    [ "npc_mei_francis_mount", "de/db2/a21490.html#ab34facb1d4d9a542710340493488eaa8", null ],
+    [ "GetAI", "de/db2/a21490.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
 ];

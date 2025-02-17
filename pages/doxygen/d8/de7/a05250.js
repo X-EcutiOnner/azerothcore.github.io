@@ -1,12 +1,10 @@
 var a05250 =
 [
-    [ "AppenderConsole", "d8/de7/a05250.html#aaf770a87f2151a7e6f92087751528c68", null ],
-    [ "_write", "d8/de7/a05250.html#a94e529229bd707fa2bad0a0206a386d5", null ],
-    [ "getType", "d8/de7/a05250.html#a4ae7f47c76b19eb269b26fdf13f14e48", null ],
-    [ "InitColors", "d8/de7/a05250.html#a1a4deceeafc9a111a519ea55dc646266", null ],
-    [ "ResetColor", "d8/de7/a05250.html#a4a3e55c9229947a25d4191bbfa348bf5", null ],
-    [ "SetColor", "d8/de7/a05250.html#a9303f9408e1cbfc086fba15bf9a4ce59", null ],
-    [ "_colored", "d8/de7/a05250.html#a172563f34a7277f7afb05354c8fbeb1f", null ],
-    [ "_colors", "d8/de7/a05250.html#acdf277241cd25715e48500a15ab6bd30", null ],
-    [ "type", "d8/de7/a05250.html#ab5cbc074f7d9306838974863913c8a5b", null ]
+    [ "Find", "d8/de7/a05250.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
+    [ "GetElements", "d8/de7/a05250.html#a653b00a9d570ae9d9276a061beda3f35", null ],
+    [ "GetElements", "d8/de7/a05250.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
+    [ "Insert", "d8/de7/a05250.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
+    [ "Remove", "d8/de7/a05250.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
+    [ "Size", "d8/de7/a05250.html#a289258c9015016a70d2867df7e113def", null ],
+    [ "_elements", "d8/de7/a05250.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
 ];
