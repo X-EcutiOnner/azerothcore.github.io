@@ -1,6 +1,6 @@
 var a20724 =
 [
-    [ "boss_yoggsaron_death_orbAI", "d4/d3b/a20724.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
-    [ "UpdateAI", "d4/d3b/a20724.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
-    [ "_startTimer", "d4/d3b/a20724.html#aebc8edef5f84219e1c50f2394d129443", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "d4/d3b/a20724.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
+    [ "DamageTaken", "d4/d3b/a20724.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
+    [ "JustDied", "d4/d3b/a20724.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
 ];

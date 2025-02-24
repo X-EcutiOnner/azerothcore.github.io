@@ -104,25 +104,29 @@ $(document).ready(function(){initNavTree('da/d6d/a09624.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">ChaseRange Member List</div></div>
+  <div class="headertitle"><div class="title">LootItemStorage Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../da/d6d/a09624.html">ChaseRange</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../da/d6d/a09624.html">LootItemStorage</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#acd43ed01c9e4845d82e4d240b5c35167">ChaseRange</a>(float range)</td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">ChaseRange</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#aaf19c63398d31699ed1703ae1ba5f1b6">ChaseRange</a>(float _minRange, float _maxRange)</td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">ChaseRange</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#a397b3789449b1c178f11f64313498c4d">ChaseRange</a>(float _minRange, float _minTolerance, float _maxTolerance, float _maxRange)</td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">ChaseRange</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#ae2a846630e79f3a15a5d93b18c68c915">MaxRange</a></td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">ChaseRange</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#a7909b18028d43c84eca5feee3e41469c">MaxTolerance</a></td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">ChaseRange</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#a0e2c69e20d6a38d056505c3b5b0d9fd6">MinRange</a></td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">ChaseRange</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#a7b640ecfc0e80921ab36c2c33f0b10fd">MinTolerance</a></td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">ChaseRange</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#a4c463773b50ae1b312865fbf72dfed18">AddNewStoredLoot</a>(Loot *loot, Player *player)</td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">LootItemStorage</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b">instance</a>()</td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">LootItemStorage</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#a377c75f9d06eb246072b29d19baf2b62">LoadStorageFromDB</a>()</td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">LootItemStorage</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#ad9804f564302d6ea4db4b84a6cbb093b">LoadStoredLoot</a>(Item *item, Player *player)</td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">LootItemStorage</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#aa6ece474f05744f2ce24a9fef42734af">LootItemStorage</a>()</td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">LootItemStorage</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#a58ae52b9812e5752ba00d00a58eb56b0">lootItemStore</a></td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">LootItemStorage</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#a8ab68725c0525d162d325a2131db4c49">RemoveEntryFromDB</a>(ObjectGuid containerGUID, uint32 itemid, uint32 count, uint32 itemIndex)</td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">LootItemStorage</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#a414dee93f9852a64f01f9d9bf8dc8b40">RemoveStoredLoot</a>(ObjectGuid containerGUID)</td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">LootItemStorage</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#a6fd3f2ac820784ba51413b3781df3bcc">RemoveStoredLootItem</a>(ObjectGuid containerGUID, uint32 itemid, uint32 count, Loot *loot, uint32 itemIndex)</td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">LootItemStorage</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#ab22d267a6701fedf824f801e4b703f70">RemoveStoredLootMoney</a>(ObjectGuid containerGUID, Loot *loot)</td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">LootItemStorage</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/d6d/a09624.html#a36faeed6ef556fd13118c4ad34e38548">~LootItemStorage</a>()</td><td class="entry"><a class="el" href="../../da/d6d/a09624.html">LootItemStorage</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Sep 23 2024 20:43:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:44:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

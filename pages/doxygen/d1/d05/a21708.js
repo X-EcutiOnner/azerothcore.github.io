@@ -1,12 +1,14 @@
 var a21708 =
 [
-    [ "npc_wintergarde_gryphon", "d1/d05/a21708.html#ada46ecdbc8c3a33a7b3ce09296c0db72", null ],
-    [ "getVillager", "d1/d05/a21708.html#a7f20f5e124e013ad8f57ca31b9fb86d7", null ],
-    [ "IsSummonedBy", "d1/d05/a21708.html#acd7cea6226034d53b854c5ed659ff949", null ],
-    [ "JustDied", "d1/d05/a21708.html#a6c87d55ef29e14b4b8b87a0321179542", null ],
-    [ "MovementInform", "d1/d05/a21708.html#a8f2faf49533d27d971110681e050c060", null ],
-    [ "PassengerBoarded", "d1/d05/a21708.html#a16c01d26aef06358f979f59fe68c09ca", null ],
-    [ "SpellHit", "d1/d05/a21708.html#acf64143ea83321556156fde30e1a34d4", null ],
-    [ "UpdateAI", "d1/d05/a21708.html#aa161f280e7a7370696cecc27c51ee55c", null ],
-    [ "villagerGUID", "d1/d05/a21708.html#a56a7973a05061197192111ecf55ef14a", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d1/d05/a21708.html#a84beab3be0d7e5d5d3674a57b1928f09", null ],
+    [ "ChangeImage", "d1/d05/a21708.html#a815e5c67b282e2840676b5453d94d5dc", null ],
+    [ "MovementInform", "d1/d05/a21708.html#a2ed09d31771e9c225d8d8b40ba8f0f82", null ],
+    [ "Reset", "d1/d05/a21708.html#a71410a3e3e5134311bf7bc2ef3051eb3", null ],
+    [ "StoreTargets", "d1/d05/a21708.html#a0732307643a442bc3f070b9cc91d78c9", null ],
+    [ "TurnAudience", "d1/d05/a21708.html#afa7fce3a9cccfcc7b088e72df9f312a4", null ],
+    [ "UpdateAI", "d1/d05/a21708.html#a454984668ca58c8a6fdd9ad4f630dece", null ],
+    [ "_events", "d1/d05/a21708.html#a907626beb601f789a725d88d45689eb2", null ],
+    [ "audienceList", "d1/d05/a21708.html#a5bdb09658bd93e46387df8eeb8cf0221", null ],
+    [ "imageList", "d1/d05/a21708.html#a8177ed5bc5fd54b98f2f36c9389b8099", null ],
+    [ "talkWing", "d1/d05/a21708.html#ace957ffe4fba8f229946d61d63c1798c", null ]
 ];

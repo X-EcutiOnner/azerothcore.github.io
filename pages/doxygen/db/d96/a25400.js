@@ -1,6 +1,6 @@
 var a25400 =
 [
-    [ "CheckCast", "db/d96/a25400.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
-    [ "PrepareSpellScript", "db/d96/a25400.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
-    [ "Register", "db/d96/a25400.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
+    [ "HandleDummy", "db/d96/a25400.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
+    [ "PrepareSpellScript", "db/d96/a25400.html#a80b89fbd2506191b897dcf367ff11500", null ],
+    [ "Register", "db/d96/a25400.html#a522730e5ba844728c0b3d6f423cd123a", null ]
 ];

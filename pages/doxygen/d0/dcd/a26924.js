@@ -1,5 +1,5 @@
 var a26924 =
 [
-    [ "achievement_bg_sa_artillery", "d0/dcd/a26924.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "d0/dcd/a26924.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "d0/dcd/a26924.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "d0/dcd/a26924.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

@@ -1,8 +1,6 @@
 var a12104 =
 [
-    [ "MajordomoAddData", "d4/d42/a12104.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "d4/d42/a12104.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "d4/d42/a12104.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "d4/d42/a12104.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "d4/d42/a12104.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "OnEffect", "d4/d42/a12104.html#a1b5999f392cec9fea4431c3f746ee034", null ],
+    [ "PrepareSpellScript", "d4/d42/a12104.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
+    [ "Register", "d4/d42/a12104.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
 ];

@@ -1,7 +1,6 @@
 var a12416 =
 [
-    [ "PeriodicTick", "dc/df2/a12416.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
-    [ "PrepareAuraScript", "dc/df2/a12416.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
-    [ "Register", "dc/df2/a12416.html#a2681d44b149e9f1d797df4147e20e686", null ],
-    [ "Validate", "dc/df2/a12416.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
+    [ "boss_sulfuronAI", "db/d8a/a12420.html", "db/d8a/a12420" ],
+    [ "boss_sulfuron", "dc/df2/a12416.html#aed72791db02009136592b905cc4f4df3", null ],
+    [ "GetAI", "dc/df2/a12416.html#aced001845e4a9bb9f517d45a36f474c7", null ]
 ];

@@ -1,7 +1,7 @@
 var a21856 =
 [
-    [ "HandleScriptEffect", "d5/d8c/a21856.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "d5/d8c/a21856.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "d5/d8c/a21856.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "d5/d8c/a21856.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "npc_Apothecary_HanesAI", "d2/d9d/a21860.html", "d2/d9d/a21860" ],
+    [ "npc_apothecary_hanes", "d5/d8c/a21856.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
+    [ "GetAI", "d5/d8c/a21856.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
+    [ "OnQuestAccept", "d5/d8c/a21856.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
 ];

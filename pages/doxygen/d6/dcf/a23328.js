@@ -1,6 +1,6 @@
 var a23328 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "dc/d8e/a23332.html", "dc/d8e/a23332" ],
-    [ "instance_steam_vault", "d6/dcf/a23328.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "d6/dcf/a23328.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "CalculateDamage", "d6/dcf/a23328.html#a170fb61e3a7358d42cc6506067fb978a", null ],
+    [ "PrepareSpellScript", "d6/dcf/a23328.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
+    [ "Register", "d6/dcf/a23328.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
 ];

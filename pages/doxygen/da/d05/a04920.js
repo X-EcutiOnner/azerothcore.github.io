@@ -1,11 +1,8 @@
 var a04920 =
 [
-    [ "material", "da/d05/a04920.html#a29addcb613bc63a100633e612d1dc2d2", null ],
-    [ "pos_x", "da/d05/a04920.html#a02e9d8789336d77e34bffa19adbab394", null ],
-    [ "pos_y", "da/d05/a04920.html#ac3162ce321a1f21e4e6fe35041e49a6a", null ],
-    [ "pos_z", "da/d05/a04920.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3", null ],
-    [ "xtiles", "da/d05/a04920.html#a94789843c68d705184e6332ac46bd69d", null ],
-    [ "xverts", "da/d05/a04920.html#a0548c3fdb216c115a7d3843e4fbc6de3", null ],
-    [ "ytiles", "da/d05/a04920.html#ac50224cdce231460c78c3e0f077b555d", null ],
-    [ "yverts", "da/d05/a04920.html#aa9ecb62b53af527b3bd855b8e93ba604", null ]
+    [ "AreaInfo", "d1/db7/a04924.html", "d1/db7/a04924" ],
+    [ "LiquidInfo", "db/d15/a04928.html", "db/d15/a04928" ],
+    [ "areaInfo", "da/d05/a04920.html#a0d30ac3fa0cefd6eafc1690c75f46f0f", null ],
+    [ "floorZ", "da/d05/a04920.html#af7c8710b5d296c1d792b4fc34302278f", null ],
+    [ "liquidInfo", "da/d05/a04920.html#ae59e1e7fdf4913c48a0d82e1d19366a7", null ]
 ];

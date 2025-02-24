@@ -1,7 +1,10 @@
 var a26604 =
 [
-    [ "HandleDispel", "dc/dd1/a26604.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
-    [ "PrepareAuraScript", "dc/dd1/a26604.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
-    [ "Register", "dc/dd1/a26604.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
-    [ "Validate", "dc/dd1/a26604.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
+    [ "CalcPeriodic", "dc/dd1/a26604.html#abd23b7e24d9688dd4b9cbe70cdd45d75", null ],
+    [ "CalculateAmount", "dc/dd1/a26604.html#a55aa6c6a23e4db0f407b86bcf95d3761", null ],
+    [ "HandleEffectCalcSpellMod", "dc/dd1/a26604.html#a8c888218fde2176a3c3b5cb97fdce5de", null ],
+    [ "HandlePeriodic", "dc/dd1/a26604.html#ae2c4de235fc727039a50f1b6ba729422", null ],
+    [ "Load", "dc/dd1/a26604.html#a9e1a5a07db18f6ff238276f9e1c44321", null ],
+    [ "PrepareAuraScript", "dc/dd1/a26604.html#a847c1db1bf92baeba47260ffbacbcdd9", null ],
+    [ "Register", "dc/dd1/a26604.html#a9241ab85d616f4f17c52b3730c5434e1", null ]
 ];

@@ -1,8 +1,7 @@
 var a25004 =
 [
-    [ "OnApply", "d9/dee/a25004.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
-    [ "OnRemove", "d9/dee/a25004.html#a3ced5941c25fce087699aa095cd487c9", null ],
-    [ "PrepareAuraScript", "d9/dee/a25004.html#a497776c6ffdda8670fa255b76057bf2c", null ],
-    [ "Register", "d9/dee/a25004.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
-    [ "Validate", "d9/dee/a25004.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
+    [ "HandleScriptEffect", "d9/dee/a25004.html#a4444d5f146e875bae40edbcc8ed408cb", null ],
+    [ "PrepareSpellScript", "d9/dee/a25004.html#af4320dd6567d8c9cb2a1492095a98459", null ],
+    [ "Register", "d9/dee/a25004.html#ab9360c3a883dd5a7df9836306d9762ec", null ],
+    [ "Validate", "d9/dee/a25004.html#a51ebef5e7fff9dfaab553ecae7be732f", null ]
 ];

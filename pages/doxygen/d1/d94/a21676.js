@@ -1,6 +1,7 @@
 var a21676 =
 [
-    [ "npc_hourglass_of_eternityAI", "df/d6f/a21680.html", "df/d6f/a21680" ],
-    [ "npc_hourglass_of_eternity", "d1/d94/a21676.html#a40500ff582ead06bd646be86baad7d35", null ],
-    [ "GetAI", "d1/d94/a21676.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
+    [ "FilterTargets", "d1/d94/a21676.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "d1/d94/a21676.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "d1/d94/a21676.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "d1/d94/a21676.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

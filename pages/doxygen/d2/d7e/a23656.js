@@ -1,10 +1,24 @@
 var a23656 =
 [
-    [ "boss_harbinger_skyriss", "d2/d7e/a23656.html#a245179f74d61c2671b397e8f2473b599", null ],
-    [ "EnterEvadeMode", "d2/d7e/a23656.html#a873413da06569343225e6659f8277b2c", null ],
-    [ "JustDied", "d2/d7e/a23656.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
-    [ "JustEngagedWith", "d2/d7e/a23656.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
-    [ "JustSummoned", "d2/d7e/a23656.html#a97d84139a3e970e22d7d422f2f825f12", null ],
-    [ "KilledUnit", "d2/d7e/a23656.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
-    [ "Reset", "d2/d7e/a23656.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
+    [ "boss_kaelthas", "d2/d7e/a23656.html#a345f77793c34abb61f6bf29eed7d22fd", null ],
+    [ "AttackStart", "d2/d7e/a23656.html#a861636c35e70116ddea722519bd08831", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d2/d7e/a23656.html#a8974fcc10874e2dab89f7bc9f71afe6d", null ],
+    [ "ExecuteMiddleEvent", "d2/d7e/a23656.html#a42b6d919db655b50c2bd0214b9663fc9", null ],
+    [ "IntroduceNewAdvisor", "d2/d7e/a23656.html#a20b4a5967fdb39ee634dc3cf468dc657", null ],
+    [ "JustDied", "d2/d7e/a23656.html#af749ddef90aa3175879ed586d5defa01", null ],
+    [ "JustSummoned", "d2/d7e/a23656.html#a5e5f8d605a87019c9d9e4d613464de81", null ],
+    [ "KilledUnit", "d2/d7e/a23656.html#a3d489512c3a5abc69a6359e174863893", null ],
+    [ "MoveInLineOfSight", "d2/d7e/a23656.html#a52ab6dafc6c62de034131a7d62a09354", null ],
+    [ "MovementInform", "d2/d7e/a23656.html#a826678b15763782107f218e1031c149b", null ],
+    [ "PhaseAllAdvisorsExecute", "d2/d7e/a23656.html#adcad835ea5eedc1a8f4fe7a7bb9dfdc2", null ],
+    [ "PhaseEnchantedWeaponsExecute", "d2/d7e/a23656.html#a9265df429790f321040cb9b2b33dfb45", null ],
+    [ "PhaseKaelExecute", "d2/d7e/a23656.html#afdf4470092452498dfcb27a4bc4c319f", null ],
+    [ "PrepareAdvisors", "d2/d7e/a23656.html#a336e5b81146fe19f36b1d39fd3802aac", null ],
+    [ "Reset", "d2/d7e/a23656.html#a7331287c076a765815ddca3a445dbe73", null ],
+    [ "SetRoomState", "d2/d7e/a23656.html#a1eb86aaca814d5464e76af7464db91fb", null ],
+    [ "SpellHit", "d2/d7e/a23656.html#a5da4833063f26d9c6baebde77c875e62", null ],
+    [ "UpdateAI", "d2/d7e/a23656.html#a5f10fded416168d772109ecbf8b09e77", null ],
+    [ "_advisorsAlive", "d2/d7e/a23656.html#a95468ae706743bfdf2a09dabd59a80aa", null ],
+    [ "_phase", "d2/d7e/a23656.html#a95845de084e261ca6c6d815f4e150223", null ],
+    [ "_transitionSceneReached", "d2/d7e/a23656.html#a989b1df477c6946ed4e4366bb82a5dd2", null ]
 ];

@@ -1,15 +1,15 @@
 var a00833 =
 [
-    [ "npc_frost_tomb", "db/d0d/a20894.html", "db/d0d/a20894" ],
-    [ "boss_keleseth", "d2/d66/a20898.html", "d2/d66/a20898" ],
-    [ "npc_vrykul_skeleton", "d8/d2f/a20902.html", "d8/d2f/a20902" ],
-    [ "spell_frost_tomb_aura", "de/d3c/a20906.html", "de/d3c/a20906" ],
+    [ "npc_frost_tomb", "df/dea/a20912.html", "df/dea/a20912" ],
+    [ "boss_keleseth", "d4/d85/a20916.html", "d4/d85/a20916" ],
+    [ "npc_vrykul_skeleton", "d4/dc8/a20920.html", "d4/dc8/a20920" ],
+    [ "spell_frost_tomb_aura", "db/d9f/a20924.html", "db/d9f/a20924" ],
     [ "SPELL_SHADOWBOLT", "dc/d6e/a00833.html#a2318d1791fdeb5d6835fba5923a390f6", null ],
     [ "eNPCs", "dc/d6e/a00833.html#abaecf87f40b40c4c71ec596a0b73e911", [
-      [ "NPC_BROODLORD", "da/d6b/a02438.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
-      [ "NPC_JAN_ALAI", "da/d6b/a02438.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],
-      [ "NPC_SARTHARION", "da/d6b/a02438.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10", null ],
-      [ "NPC_FREYA", "da/d6b/a02438.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752", null ],
+      [ "NPC_BROODLORD", "d4/da8/a02444.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
+      [ "NPC_JAN_ALAI", "d4/da8/a02444.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],
+      [ "NPC_SARTHARION", "d4/da8/a02444.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10", null ],
+      [ "NPC_FREYA", "d4/da8/a02444.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752", null ],
       [ "NPC_INGVAR_UNDEAD", "d9/daf/a00830.html#abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906", null ],
       [ "NPC_ANNHYLDE", "d9/daf/a00830.html#abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4", null ],
       [ "NPC_THROW", "d9/daf/a00830.html#abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546", null ],

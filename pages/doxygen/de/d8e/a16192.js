@@ -1,5 +1,6 @@
 var a16192 =
 [
-    [ "PrepareAuraScript", "de/d8e/a16192.html#aee03d124caf65f4a4cb29d0bf90c8f7d", null ],
-    [ "Register", "de/d8e/a16192.html#afbb410bc5166d56bee00231828269424", null ]
+    [ "npc_frost_sphereAI", "da/d2a/a16196.html", "da/d2a/a16196" ],
+    [ "npc_frost_sphere", "de/d8e/a16192.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "de/d8e/a16192.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

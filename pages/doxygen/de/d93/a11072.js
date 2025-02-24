@@ -1,13 +1,7 @@
 var a11072 =
 [
-    [ "PlayerTextBuilder", "de/d93/a11072.html#a0740c581636009448fe2c29084db41ae", null ],
-    [ "operator()", "de/d93/a11072.html#a64d2905971ecd645e364a774f320a721", null ],
-    [ "_gender", "de/d93/a11072.html#aece205d3d523dcf6fefbdd9914943723", null ],
-    [ "_language", "de/d93/a11072.html#a934d4a519c2c7b4017805b3bc24a4714", null ],
-    [ "_msgType", "de/d93/a11072.html#af546f2788870b8b10b3405695ef81171", null ],
-    [ "_source", "de/d93/a11072.html#a9fe9f865b0ba84b5497e63947893533e", null ],
-    [ "_talker", "de/d93/a11072.html#a8a8cd00cc76e048500800938a773aa06", null ],
-    [ "_target", "de/d93/a11072.html#ac97cf187d079c5162e47bebb7024faa5", null ],
-    [ "_textGroup", "de/d93/a11072.html#ab44fe12e73da36acb1199987e8573467", null ],
-    [ "_textId", "de/d93/a11072.html#a17b33a9a05a77722219a85a71f3bbc5e", null ]
+    [ "WorldObjectSpellNearbyTargetCheck", "de/d93/a11072.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
+    [ "operator()", "de/d93/a11072.html#a731ee07d028a5ee63ecd14321c83664d", null ],
+    [ "_position", "de/d93/a11072.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
+    [ "_range", "de/d93/a11072.html#abfec0df490876b2b83dcdee4da75a77f", null ]
 ];

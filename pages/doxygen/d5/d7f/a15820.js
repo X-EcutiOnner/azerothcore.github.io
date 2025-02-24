@@ -1,7 +1,6 @@
 var a15820 =
 [
-    [ "HandleHit", "d5/d7f/a15820.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "d5/d7f/a15820.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "d5/d7f/a15820.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "d5/d7f/a15820.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "boss_sartharion_shadronAI", "dd/d6b/a15824.html", "dd/d6b/a15824" ],
+    [ "boss_sartharion_shadron", "d5/d7f/a15820.html#ac297719abff8c795af10973492fc6fbe", null ],
+    [ "GetAI", "d5/d7f/a15820.html#a95c7184ee7589f01920adc57a7df963b", null ]
 ];

@@ -1,7 +1,7 @@
 var a21776 =
 [
-    [ "FilterTargets", "d1/d0f/a21776.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "d1/d0f/a21776.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "d1/d0f/a21776.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "d1/d0f/a21776.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "npc_amberpine_woodsmanAI", "d1/d0f/a21776.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
+    [ "Reset", "d1/d0f/a21776.html#a8da613c7bbaadf331c95667e7a361702", null ],
+    [ "UpdateAI", "d1/d0f/a21776.html#a64dbf41424a710c400d51507f6457b41", null ],
+    [ "_events", "d1/d0f/a21776.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
 ];

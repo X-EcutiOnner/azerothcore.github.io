@@ -1,9 +1,14 @@
 var a13672 =
 [
-    [ "npc_janalai_hatchlingAI", "dd/dc9/a13672.html#a8fd227e179a029c4746d6a577897c4d0", null ],
-    [ "JustEngagedWith", "dd/dc9/a13672.html#a135bc9794bc11c3f0cdefc6b3c4fa0f6", null ],
-    [ "Reset", "dd/dc9/a13672.html#a428a3aab919943a076990df4768e3aea", null ],
-    [ "UpdateAI", "dd/dc9/a13672.html#a43f56be26397f23ee803a7bfbce74c05", null ],
-    [ "BuffetTimer", "dd/dc9/a13672.html#a4a60f4e6b53697f78c737f3c12304ef8", null ],
-    [ "instance", "dd/dc9/a13672.html#a997ee02c23bbb1d33331484f8e93fd1c", null ]
+    [ "boss_hexlord_malacrass", "dd/dc9/a13672.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
+    [ "JustEngagedWith", "dd/dc9/a13672.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
+    [ "KilledUnit", "dd/dc9/a13672.html#a69e7a3aa2cb068706651bad34363099f", null ],
+    [ "Reset", "dd/dc9/a13672.html#af00159c9e2c54033f52f46d60881f22e", null ],
+    [ "ScheduleClassAbility", "dd/dc9/a13672.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
+    [ "SpawnAdds", "dd/dc9/a13672.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
+    [ "UseAbility", "dd/dc9/a13672.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
+    [ "_classAbilityTimer", "dd/dc9/a13672.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
+    [ "_creatureIndex", "dd/dc9/a13672.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
+    [ "_currentClass", "dd/dc9/a13672.html#ab7e531fccbb486b7b429d77d804841c2", null ],
+    [ "_timeUntilNextDrainPower", "dd/dc9/a13672.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
 ];

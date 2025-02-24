@@ -1,6 +1,6 @@
 var a21784 =
 [
-    [ "npc_q24545_vegard_dummyAI", "df/d4a/a21784.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "df/d4a/a21784.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "df/d4a/a21784.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "CheckRequirement", "df/d4a/a21784.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
+    [ "PrepareSpellScript", "df/d4a/a21784.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
+    [ "Register", "df/d4a/a21784.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
 ];

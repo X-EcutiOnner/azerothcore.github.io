@@ -1,6 +1,7 @@
 var a19932 =
 [
-    [ "boss_freya_elder_stonebarkAI", "d5/d26/a19936.html", "d5/d26/a19936" ],
-    [ "boss_freya_elder_stonebark", "dd/d61/a19932.html#a9c90c504d78456580ae657a42fac4075", null ],
-    [ "GetAI", "dd/d61/a19932.html#a0b529bb8755c56046c40b620ef4b7448", null ]
+    [ "boss_freya_healthy_sporeAI", "dd/d61/a19932.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
+    [ "Reset", "dd/d61/a19932.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
+    [ "UpdateAI", "dd/d61/a19932.html#ace79c59d62e597ae31425b4006e1363f", null ],
+    [ "_despawnTimer", "dd/d61/a19932.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
 ];

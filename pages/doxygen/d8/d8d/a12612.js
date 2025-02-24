@@ -1,12 +1,11 @@
 var a12612 =
 [
-    [ "npc_scarlet_minerAI", "d8/d8d/a12612.html#a7f5ca173103eb4498ce41912bda5da66", null ],
-    [ "InitCartQuest", "d8/d8d/a12612.html#a5d3ece8f2f02a2bae4550a41f55348b0", null ],
-    [ "InitWaypoint", "d8/d8d/a12612.html#a7fe048368b6e0a43b5be501a24773b8c", null ],
-    [ "Reset", "d8/d8d/a12612.html#a2a8660173dc32c38de917049eb33fff8", null ],
-    [ "UpdateAI", "d8/d8d/a12612.html#a48d2c92a4d45d5e59252f9455b82cbbd", null ],
-    [ "WaypointReached", "d8/d8d/a12612.html#a31f4363e269b51d3a002a132b5516dd0", null ],
-    [ "carGUID", "d8/d8d/a12612.html#a963f9c0ca58ce160b43f36f5a9f7dee7", null ],
-    [ "IntroPhase", "d8/d8d/a12612.html#a094c2ee20d13c88805c3de7f9f94b86e", null ],
-    [ "IntroTimer", "d8/d8d/a12612.html#adae2103753dd62699359ff01ac3ba865", null ]
+    [ "boss_terestian_illhoof", "d8/d8d/a12612.html#a5750bf4f12ac01216335a926f885e136", null ],
+    [ "JustDied", "d8/d8d/a12612.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
+    [ "JustEngagedWith", "d8/d8d/a12612.html#adc1f9195954eda7ec406ac9a084b7508", null ],
+    [ "JustSummoned", "d8/d8d/a12612.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
+    [ "KilledUnit", "d8/d8d/a12612.html#ab7de8b406de200eec981fab79a56dcd7", null ],
+    [ "Reset", "d8/d8d/a12612.html#a685b00f0e3317740412adfc48df1c3fb", null ],
+    [ "SpellHit", "d8/d8d/a12612.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
+    [ "SummonKilrek", "d8/d8d/a12612.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
 ];

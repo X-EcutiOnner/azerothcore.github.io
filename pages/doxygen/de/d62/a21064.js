@@ -1,6 +1,8 @@
 var a21064 =
 [
-    [ "npc_frenzied_worgenAI", "de/da4/a21068.html", "de/da4/a21068" ],
-    [ "npc_frenzied_worgen", "de/d62/a21064.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "de/d62/a21064.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "CheckProc", "de/d62/a21064.html#ac955cc78dd3206816906dd06b3e006f6", null ],
+    [ "HandleProc", "de/d62/a21064.html#a966d23cc5714fe35d80b2964dddda536", null ],
+    [ "PrepareAuraScript", "de/d62/a21064.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
+    [ "Register", "de/d62/a21064.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
+    [ "Validate", "de/d62/a21064.html#a5d8e764dafd26548af8588593bf27990", null ]
 ];

@@ -1,7 +1,6 @@
 var a15272 =
 [
-    [ "HandleDummy", "d2/dc8/a15272.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
-    [ "PrepareSpellScript", "d2/dc8/a15272.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
-    [ "Register", "d2/dc8/a15272.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
-    [ "Validate", "d2/dc8/a15272.html#a041c84fd605abd36b8f774903a5200dc", null ]
+    [ "npc_tiger_matriarch_creditAI", "de/dda/a15276.html", "de/dda/a15276" ],
+    [ "npc_tiger_matriarch_credit", "d2/dc8/a15272.html#a9d76e8e808c828da501551025eecd8ea", null ],
+    [ "GetAI", "d2/dc8/a15272.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
 ];

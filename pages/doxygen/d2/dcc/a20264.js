@@ -1,6 +1,6 @@
 var a20264 =
 [
-    [ "OnRemoveStun", "d2/dcc/a20264.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "d2/dcc/a20264.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "d2/dcc/a20264.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "npc_ulduar_vx001AI", "d7/dfd/a20268.html", "d7/dfd/a20268" ],
+    [ "npc_ulduar_vx001", "d2/dcc/a20264.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
+    [ "GetAI", "d2/dcc/a20264.html#acdab817141b851deb09861230323ee58", null ]
 ];

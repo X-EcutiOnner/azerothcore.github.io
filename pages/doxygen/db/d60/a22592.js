@@ -1,12 +1,9 @@
 var a22592 =
 [
-    [ "boss_anzu", "db/d60/a22592.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "db/d60/a22592.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "db/d60/a22592.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "db/d60/a22592.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "db/d60/a22592.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "db/d60/a22592.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "db/d60/a22592.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "db/d60/a22592.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "db/d60/a22592.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "npc_flame_of_azzinoth", "db/d60/a22592.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
+    [ "IsSummonedBy", "db/d60/a22592.html#a5254057af0371a08ea01fe91502c2a20", null ],
+    [ "JustEngagedWith", "db/d60/a22592.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
+    [ "JustSummoned", "db/d60/a22592.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
+    [ "UpdateAI", "db/d60/a22592.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
+    [ "_bladeGUID", "db/d60/a22592.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
 ];

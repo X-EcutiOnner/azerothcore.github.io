@@ -1,8 +1,6 @@
 var a04848 =
 [
-    [ "AreaInfo", "de/d75/a04852.html", "de/d75/a04852" ],
-    [ "LiquidInfo", "db/dde/a04856.html", "db/dde/a04856" ],
-    [ "areaInfo", "db/d08/a04848.html#a0d30ac3fa0cefd6eafc1690c75f46f0f", null ],
-    [ "floorZ", "db/d08/a04848.html#af7c8710b5d296c1d792b4fc34302278f", null ],
-    [ "liquidInfo", "db/d08/a04848.html#ae59e1e7fdf4913c48a0d82e1d19366a7", null ]
+    [ "Resolver", "db/d08/a04848.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
+    [ "Resolve", "db/d08/a04848.html#ab190f885c84753fe65405db6fb04bf7c", null ],
+    [ "_impl", "db/d08/a04848.html#a08ed9183a6338606524c44f0fd5695a0", null ]
 ];

@@ -1,6 +1,5 @@
 var a12728 =
 [
-    [ "npc_fairbanksAI", "d6/d37/a12732.html", "d6/d37/a12732" ],
-    [ "npc_fairbanks", "db/d4d/a12728.html#a7f4740bb99ce2ccc059bcb5b02057082", null ],
-    [ "GetAI", "db/d4d/a12728.html#a58f4c8c8ca0a2d9696bf443aeeb00f95", null ]
+    [ "boss_ellris_duskhallow", "db/d4d/a12728.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
+    [ "JustEngagedWith", "db/d4d/a12728.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
 ];

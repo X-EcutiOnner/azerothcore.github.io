@@ -104,26 +104,27 @@ $(document).ready(function(){initNavTree('d4/d61/a05212.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt; Member List</div></div>
+  <div class="headertitle"><div class="title">ObjectRegistry&lt; T, Key &gt; Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d4/d61/a05212.html">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt;</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../d4/d61/a05212.html">ObjectRegistry&lt; T, Key &gt;</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#a04facbd14c7d876af5154cb200d74e6b">BITS_PER_CHAR</a></td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt;</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#a1017c0ca9db8f38832271dbe04a6c22c">Decode</a>(std::string const &amp;data)</td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#ab52b675a0956909cdac9413443551086">DECODE_ERROR</a></td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt;</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#ae7f09527200686c22611e59e995a17ef">DecodedSize</a>(std::size_t size)</td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#a9132df0434948b03df8f79b6cc48252c">Encode</a>(std::vector&lt; uint8 &gt; const &amp;data)</td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#ab6808fd4c674e10ce28153394189abf5">EncodedSize</a>(std::size_t size)</td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#a8cec4e14ca170842d1eadf8b7b42b12b">PAD_TO</a></td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt;</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#a328b2cd9dc377fb8d5b6740cde162b92">PADDING</a></td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt;</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#a61e6a6eb75512241e82092abfeba7a65">_registeredObjects</a></td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">ObjectRegistry&lt; T, Key &gt;</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#aba4a4fcc7ee59afbb4dea6df7410dc02">GetRegisteredItems</a>() const</td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">ObjectRegistry&lt; T, Key &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#a474bdff0ab0f0a3db5f914b9dfaa48d1">GetRegistryItem</a>(Key const &amp;key) const</td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">ObjectRegistry&lt; T, Key &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#a3c95897734a780c1f299d24a058b3595">HasItem</a>(Key const &amp;key) const</td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">ObjectRegistry&lt; T, Key &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#a55416824a5dff4138f5d828e352e3d7c">InsertItem</a>(T *obj, Key const &amp;key, bool force=false)</td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">ObjectRegistry&lt; T, Key &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#a7a6582a84361d5ad1142f29c9e1d9cb5">instance</a>()</td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">ObjectRegistry&lt; T, Key &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#aa3bcc30791e82bc900eacf1c5833b7f8">ObjectRegistry</a>()</td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">ObjectRegistry&lt; T, Key &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2">RegistryMapType</a> typedef</td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">ObjectRegistry&lt; T, Key &gt;</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d61/a05212.html#a2734a0e6001f597b43e006bc9d84a6b1">~ObjectRegistry</a>()</td><td class="entry"><a class="el" href="../../d4/d61/a05212.html">ObjectRegistry&lt; T, Key &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Sep 23 2024 20:44:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:44:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

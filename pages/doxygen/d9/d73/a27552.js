@@ -1,9 +1,13 @@
 var a27552 =
 [
-    [ "npc_fireworkAI", "d9/d73/a27552.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "d9/d73/a27552.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "d9/d73/a27552.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "d9/d73/a27552.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "d9/d73/a27552.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "d9/d73/a27552.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "DBCDatabaseLoader", "d9/d73/a27552.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
+    [ "DBCDatabaseLoader", "d9/d73/a27552.html#a7d93e6d37796f341edcf25062743c5b5", null ],
+    [ "CloneStringToPool", "d9/d73/a27552.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
+    [ "Load", "d9/d73/a27552.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
+    [ "operator=", "d9/d73/a27552.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
+    [ "_dbcFormat", "d9/d73/a27552.html#aa749118514d0b784ac6df295bd820d8e", null ],
+    [ "_recordSize", "d9/d73/a27552.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
+    [ "_sqlIndexPos", "d9/d73/a27552.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
+    [ "_sqlTableName", "d9/d73/a27552.html#ab6590071edf5311ccf484d48e4fd125e", null ],
+    [ "_stringPool", "d9/d73/a27552.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
 ];

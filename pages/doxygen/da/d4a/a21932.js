@@ -1,6 +1,7 @@
 var a21932 =
 [
-    [ "HandleOnEffectRemove", "da/d4a/a21932.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "da/d4a/a21932.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "da/d4a/a21932.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "Absorb", "da/d4a/a21932.html#a784b48553696734abac77545df2fc045", null ],
+    [ "CalculateAmount", "da/d4a/a21932.html#a456ee99a71062f6217bda7561e4e7766", null ],
+    [ "PrepareAuraScript", "da/d4a/a21932.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
+    [ "Register", "da/d4a/a21932.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
 ];

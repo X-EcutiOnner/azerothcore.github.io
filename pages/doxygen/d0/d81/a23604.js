@@ -1,7 +1,7 @@
 var a23604 =
 [
-    [ "HandleOnApply", "d0/d81/a23604.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "d0/d81/a23604.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "d0/d81/a23604.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "d0/d81/a23604.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "boss_warp_splinter", "d0/d81/a23604.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d0/d81/a23604.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d0/d81/a23604.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d0/d81/a23604.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

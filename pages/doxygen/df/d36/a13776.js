@@ -1,8 +1,8 @@
 var a13776 =
 [
-    [ "FilterTargets", "df/d36/a13776.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "df/d36/a13776.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "df/d36/a13776.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "df/d36/a13776.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "df/d36/a13776.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "HandleScriptEffect", "df/d36/a13776.html#af7f22d3b7ba136ec2af88656b9805168", null ],
+    [ "PrepareSpellScript", "df/d36/a13776.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
+    [ "Register", "df/d36/a13776.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
+    [ "Validate", "df/d36/a13776.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
+    [ "spells", "df/d36/a13776.html#a902fc17746af82a4c58fe599c9616ce2", null ]
 ];

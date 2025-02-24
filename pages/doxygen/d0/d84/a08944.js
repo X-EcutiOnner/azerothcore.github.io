@@ -1,9 +1,10 @@
 var a08944 =
 [
-    [ "PlayerDistWorker", "d0/d84/a08944.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
-    [ "Visit", "d0/d84/a08944.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
-    [ "Visit", "d0/d84/a08944.html#a2658f12f90953f1057a9377b21824879", null ],
-    [ "i_dist", "d0/d84/a08944.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
-    [ "i_do", "d0/d84/a08944.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
-    [ "i_searcher", "d0/d84/a08944.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
+    [ "PetLevelInfo", "d0/d84/a08944.html#ad8e757abeae500063e963ffef5469809", null ],
+    [ "armor", "d0/d84/a08944.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
+    [ "health", "d0/d84/a08944.html#a322dcab3af8f98726aa6addf38e8891b", null ],
+    [ "mana", "d0/d84/a08944.html#a27352e73d6ed3945e398e0634dee1e96", null ],
+    [ "max_dmg", "d0/d84/a08944.html#a092f2600f64f2af885142b2e96d1fe64", null ],
+    [ "min_dmg", "d0/d84/a08944.html#a299d1c7f4c28893e09de79cd816afa95", null ],
+    [ "stats", "d0/d84/a08944.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
 ];

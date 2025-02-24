@@ -1,6 +1,11 @@
 var a20452 =
 [
-    [ "npc_ulduar_dark_rune_guardianAI", "df/de2/a20456.html", "df/de2/a20456" ],
-    [ "npc_ulduar_dark_rune_guardian", "dc/dce/a20452.html#a6266dd5c096402b5383af09ac361a634", null ],
-    [ "GetAI", "dc/dce/a20452.html#a9ed188491483548658ce682bf36e6fd2", null ]
+    [ "boss_thorim_sifAI", "dc/dce/a20452.html#af63f344d3a5650baaa9b96204abc39a9", null ],
+    [ "AttackStart", "dc/dce/a20452.html#ae9354f2e97c88cd1af86fae050e810d6", null ],
+    [ "DoAction", "dc/dce/a20452.html#a8aac66a64c5ca6491595c2b3b6cbbd95", null ],
+    [ "MoveInLineOfSight", "dc/dce/a20452.html#a3e7d07ca6fc8f4619173f3fd74d63ccb", null ],
+    [ "Reset", "dc/dce/a20452.html#ab30d73613bafac5b92021677d69b3aae", null ],
+    [ "UpdateAI", "dc/dce/a20452.html#a09ee3373177e84a5e4e51ebb48c68525", null ],
+    [ "_allowCast", "dc/dce/a20452.html#ade272764f09375d8e5fda937d42aad90", null ],
+    [ "events", "dc/dce/a20452.html#a8fd3c7073a250d054e3edc73d5867fbd", null ]
 ];

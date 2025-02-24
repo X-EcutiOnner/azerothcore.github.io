@@ -1,6 +1,6 @@
 var a11912 =
 [
-    [ "boss_firemawAI", "dc/dce/a11912.html#ab3f56c97119676b1a75662e52caecb75", null ],
-    [ "JustEngagedWith", "dc/dce/a11912.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
-    [ "UpdateAI", "dc/dce/a11912.html#a6e35e47b23d713263ef00769324bbbed", null ]
+    [ "boss_gloomrel", "dc/dce/a11912.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
+    [ "OnGossipHello", "dc/dce/a11912.html#a6ce6898142d767a130ec09769f2be488", null ],
+    [ "OnGossipSelect", "dc/dce/a11912.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
 ];

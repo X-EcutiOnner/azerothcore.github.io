@@ -1,8 +1,6 @@
 var a10840 =
 [
-    [ "ReflectEvent", "da/df0/a10840.html#a1669aec08a3a09143c57e4889c8fad08", null ],
-    [ "Execute", "da/df0/a10840.html#a37fb766d70932e8a431dba363c603531", null ],
-    [ "_caster", "da/df0/a10840.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
-    [ "_spellInfo", "da/df0/a10840.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
-    [ "_targetGUID", "da/df0/a10840.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
+    [ "TotemDestroyed", "da/df0/a10840.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
+    [ "Read", "da/df0/a10840.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
+    [ "Slot", "da/df0/a10840.html#a41eebde65aa696c2dec812da0aeab633", null ]
 ];

@@ -1,7 +1,16 @@
 var a10936 =
 [
-    [ "EffectNameCheck", "d1/d37/a10936.html#aa82307388bdda7864bb085a349b63f29", null ],
-    [ "Check", "d1/d37/a10936.html#a729d7f07669dedec50f009a87b8f32a4", null ],
-    [ "ToString", "d1/d37/a10936.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
-    [ "effName", "d1/d37/a10936.html#a905224fb028ea0eab350773b7230f871", null ]
+    [ "Player", "d1/d37/a10936.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d1/d37/a10936.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "CharCount", "d1/d37/a10936.html#aad61b8ca0caf09d6b62ee9fffd78cceb", null ],
+    [ "Class", "d1/d37/a10936.html#a41e354593f59bc8546688a37c2a5e504", null ],
+    [ "Face", "d1/d37/a10936.html#aba49d87691e9d2b10d430450c3f66493", null ],
+    [ "FacialHair", "d1/d37/a10936.html#a5a88b2c2556dd1239c417ea4fcc55287", null ],
+    [ "Gender", "d1/d37/a10936.html#ac4ed75d1527549051a92cbb958fa8eb4", null ],
+    [ "HairColor", "d1/d37/a10936.html#a0ded70bbcf30bba4de4ac0ee88fb6eb6", null ],
+    [ "HairStyle", "d1/d37/a10936.html#aa4b2800384a89a5c30c2edb7ff567865", null ],
+    [ "Name", "d1/d37/a10936.html#a4f81603fda1ae148e6d6174ea8d861fe", null ],
+    [ "OutfitId", "d1/d37/a10936.html#a15baddc70b46d48bd9f128e73aaac606", null ],
+    [ "Race", "d1/d37/a10936.html#aeee5ee1a2dc34e1b2ad1f8edd31679ff", null ],
+    [ "Skin", "d1/d37/a10936.html#a0fbfb41f3fd0c9d0ba2bfc7f04df648e", null ]
 ];

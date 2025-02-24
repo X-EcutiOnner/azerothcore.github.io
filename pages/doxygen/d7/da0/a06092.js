@@ -1,6 +1,6 @@
 var a06092 =
 [
-    [ "EntryCheckPredicate", "d7/da0/a06092.html#a23365e4591c0906f5d04db7dc6599fbf", null ],
-    [ "operator()", "d7/da0/a06092.html#ab384b205f8a719e1b5b0d0ab00575313", null ],
-    [ "_entry", "d7/da0/a06092.html#aa83f4537369e740de2d689252409d269", null ]
+    [ "KillMagnetEvent", "d7/da0/a06092.html#a1f044cb51674faebe45c0e2119601b59", null ],
+    [ "Execute", "d7/da0/a06092.html#a2905731d24060dfa7c2069b05adfa2b2", null ],
+    [ "_self", "d7/da0/a06092.html#a0fe06efbc00b38f98f2e077d7dfb1941", null ]
 ];

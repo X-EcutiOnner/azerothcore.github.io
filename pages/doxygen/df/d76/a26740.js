@@ -1,8 +1,7 @@
 var a26740 =
 [
-    [ "HandleDummyTick", "df/d76/a26740.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "df/d76/a26740.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "df/d76/a26740.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "df/d76/a26740.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "df/d76/a26740.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "HandleApplyAura", "df/d76/a26740.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "df/d76/a26740.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "df/d76/a26740.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "df/d76/a26740.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

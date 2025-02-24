@@ -1,14 +1,10 @@
 var a11584 =
 [
-    [ "boss_general_angerforgeAI", "d9/d30/a11584.html#af5537ccebc7ac6af49f9b6612d3a6138", null ],
-    [ "JustEngagedWith", "d9/d30/a11584.html#ae99e11630596c62c4155a18f5a0a3dd5", null ],
-    [ "Reset", "d9/d30/a11584.html#aff55a804bdca840016e0f6b1d11f7106", null ],
-    [ "SummonAdds", "d9/d30/a11584.html#a218f4de2d057505f60b2977835e5fd91", null ],
-    [ "SummonMedics", "d9/d30/a11584.html#aeabe71bde9b03a944beedeac68cffd19", null ],
-    [ "UpdateAI", "d9/d30/a11584.html#a751c0d0015c235c8716a2a8ff18500ba", null ],
-    [ "Adds_Timer", "d9/d30/a11584.html#a069f0008735b38c249ddfe5246025438", null ],
-    [ "Cleave_Timer", "d9/d30/a11584.html#af80ac4df7aaab1469ee62ac8b054a0b9", null ],
-    [ "HamString_Timer", "d9/d30/a11584.html#a04c51b1400d17454ca529d6aa257697b", null ],
-    [ "Medics", "d9/d30/a11584.html#a06fc801b89c53430603f1a33bb3e7bd8", null ],
-    [ "MightyBlow_Timer", "d9/d30/a11584.html#aeea6bb264e2d175d1906d8606eced529", null ]
+    [ "group_commandscript", "d9/d30/a11584.html#ad2890427cfe3649b2e0fe0896693372c", null ],
+    [ "GetCommands", "d9/d30/a11584.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
+    [ "HandleGroupDisbandCommand", "d9/d30/a11584.html#a538539340a697e02453ddcfa669fb646", null ],
+    [ "HandleGroupJoinCommand", "d9/d30/a11584.html#a382e8532c653464e90b45569e813ae37", null ],
+    [ "HandleGroupLeaderCommand", "d9/d30/a11584.html#a899858a63add3c68e0e1446d29216c00", null ],
+    [ "HandleGroupListCommand", "d9/d30/a11584.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
+    [ "HandleGroupRemoveCommand", "d9/d30/a11584.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ]
 ];

@@ -1,5 +1,6 @@
 var a26952 =
 [
-    [ "achievement_not_even_a_scratch", "d6/d24/a26952.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d6/d24/a26952.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "npc_dream_fogAI", "d3/d00/a26956.html", "d3/d00/a26956" ],
+    [ "npc_dream_fog", "d6/d24/a26952.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "d6/d24/a26952.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

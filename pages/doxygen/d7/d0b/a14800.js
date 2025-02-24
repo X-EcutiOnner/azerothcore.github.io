@@ -1,9 +1,5 @@
 var a14800 =
 [
-    [ "npc_buru_egg", "d7/d0b/a14800.html#a6aa2896342b802caecde1c1dffcf4907", null ],
-    [ "JustDied", "d7/d0b/a14800.html#a3de169b252374f0b2daed3ecb5a11502", null ],
-    [ "JustEngagedWith", "d7/d0b/a14800.html#a8cde6848569671876a17b00d75228ebe", null ],
-    [ "JustSummoned", "d7/d0b/a14800.html#abebb96dcb3d653bddd4210da6567fb87", null ],
-    [ "UpdateAI", "d7/d0b/a14800.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
-    [ "_instance", "d7/d0b/a14800.html#a5b168226755a57368f17827e3457a0ca", null ]
+    [ "npc_hive_zara_swarmer", "d7/d0b/a14800.html#a374fa63e210e0be8a074af9199126a9e", null ],
+    [ "PathEndReached", "d7/d0b/a14800.html#a3b3510bd00853395b756e1d83d96a474", null ]
 ];

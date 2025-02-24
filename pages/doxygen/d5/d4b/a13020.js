@@ -1,7 +1,7 @@
 var a13020 =
 [
-    [ "HandleScriptEffect", "d5/d4b/a13020.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
-    [ "PrepareSpellScript", "d5/d4b/a13020.html#af9deee89e837e07486a7555632008eb2", null ],
-    [ "Register", "d5/d4b/a13020.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
-    [ "Validate", "d5/d4b/a13020.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
+    [ "npc_apothecary_genericAI", "d5/d4b/a13020.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "d5/d4b/a13020.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "d5/d4b/a13020.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "d5/d4b/a13020.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

@@ -1,10 +1,10 @@
 var a07884 =
 [
-    [ "Puppet", "d1/d74/a07884.html#ab0082936291e6b7f5370656c7c9ed948", null ],
-    [ "GetOwner", "d1/d74/a07884.html#a38760bce8e8ebf28ae0143ad2931afd5", null ],
-    [ "InitStats", "d1/d74/a07884.html#ac5dd23d7cf6d4b4a2ba073ae1128181b", null ],
-    [ "InitSummon", "d1/d74/a07884.html#abfc97f1d25cb1ac27b1bed6f61867fa3", null ],
-    [ "RemoveFromWorld", "d1/d74/a07884.html#a61dcfc821c2221d1747fcb2180e03bfd", null ],
-    [ "Update", "d1/d74/a07884.html#a5281497d7689e1dd10f89b5a9f83006f", null ],
-    [ "m_owner", "d1/d74/a07884.html#adae18eabdba52ef8a9f7c5c8768e060c", null ]
+    [ "LfgUpdateData", "d1/d74/a07884.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
+    [ "LfgUpdateData", "d1/d74/a07884.html#a656873ea6ef9b3f23791827617a000c6", null ],
+    [ "LfgUpdateData", "d1/d74/a07884.html#a248682a712dd43b8c4601830aae4ddec", null ],
+    [ "comment", "d1/d74/a07884.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
+    [ "dungeons", "d1/d74/a07884.html#a0e9b49693248b438dbc508e230a870db", null ],
+    [ "state", "d1/d74/a07884.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
+    [ "updateType", "d1/d74/a07884.html#a146e43854f66bf57f703d7089a24481e", null ]
 ];

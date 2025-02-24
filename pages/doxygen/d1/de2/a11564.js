@@ -1,6 +1,9 @@
 var a11564 =
 [
-    [ "boss_draganthaurissanAI", "df/d3e/a11568.html", "df/d3e/a11568" ],
-    [ "boss_emperor_dagran_thaurissan", "d1/de2/a11564.html#a8332d74b5aa1528d5687084932419ad1", null ],
-    [ "GetAI", "d1/de2/a11564.html#aca2c4ca4e32ce75d95b42ddd88c4dc99", null ]
+    [ "event_commandscript", "d1/de2/a11564.html#a160db0ad8874b0834ef863043b1796ae", null ],
+    [ "GetCommands", "d1/de2/a11564.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
+    [ "HandleEventActiveListCommand", "d1/de2/a11564.html#a6752be35103bb585984083a449c85714", null ],
+    [ "HandleEventInfoCommand", "d1/de2/a11564.html#a1f0815bccd6cef61826ada4e349708d9", null ],
+    [ "HandleEventStartCommand", "d1/de2/a11564.html#ad46dbd8892db3548d889d4127461c8e3", null ],
+    [ "HandleEventStopCommand", "d1/de2/a11564.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
 ];

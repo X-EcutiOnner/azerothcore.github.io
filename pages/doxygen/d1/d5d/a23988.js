@@ -1,9 +1,7 @@
 var a23988 =
 [
-    [ "npc_fel_guard_houndAI", "d1/d5d/a23988.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
-    [ "MovementInform", "d1/d5d/a23988.html#a127a0d7b61fde64c0ced52192f438f12", null ],
-    [ "Reset", "d1/d5d/a23988.html#ab979c3602897b1148ffd5d4a81941197", null ],
-    [ "UpdateAI", "d1/d5d/a23988.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
-    [ "checkTimer", "d1/d5d/a23988.html#ad22bb6efafb4396cd0137c1384240029", null ],
-    [ "helboarGUID", "d1/d5d/a23988.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
+    [ "HandleEffectApply", "d1/d5d/a23988.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d1/d5d/a23988.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d1/d5d/a23988.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d1/d5d/a23988.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

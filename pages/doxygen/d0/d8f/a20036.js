@@ -1,6 +1,6 @@
 var a20036 =
 [
-    [ "FilterTargets", "d0/d8f/a20036.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "d0/d8f/a20036.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "d0/d8f/a20036.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "npc_ulduar_flash_freezeAI", "d1/d94/a20040.html", "d1/d94/a20040" ],
+    [ "npc_ulduar_flash_freeze", "d0/d8f/a20036.html#a0301ed1231d3b0d113e9fc9389e8f160", null ],
+    [ "GetAI", "d0/d8f/a20036.html#a933f99c8d38ab98c8454919b6373bb41", null ]
 ];

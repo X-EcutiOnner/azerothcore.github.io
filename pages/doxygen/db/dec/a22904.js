@@ -1,5 +1,6 @@
 var a22904 =
 [
-    [ "npc_ashtongue_sorcerer", "db/dec/a22904.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
-    [ "MovementInform", "db/dec/a22904.html#a56fa93f83e8a536b13667c8f780961b7", null ]
+    [ "PrepareAuraScript", "db/dec/a22904.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "db/dec/a22904.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "db/dec/a22904.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

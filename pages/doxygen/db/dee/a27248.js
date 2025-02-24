@@ -1,5 +1,5 @@
 var a27248 =
 [
-    [ "go_table_theka", "db/dee/a27248.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "db/dee/a27248.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "item_mysterious_egg", "db/dee/a27248.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
+    [ "OnExpire", "db/dee/a27248.html#a5ea72284626826b75819f89b3b91c540", null ]
 ];

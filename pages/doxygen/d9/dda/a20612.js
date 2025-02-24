@@ -1,9 +1,6 @@
 var a20612 =
 [
-    [ "npc_xt002_scrapbotAI", "d9/dda/a20612.html#a21be97bb49ff06ef090cbbe6f5006f56", null ],
-    [ "JustDied", "d9/dda/a20612.html#adcab192d017e6a9e8d103a6e8b91cb26", null ],
-    [ "MovementInform", "d9/dda/a20612.html#a48fd29d42280ae91852ef2ef0cecc8f6", null ],
-    [ "Reset", "d9/dda/a20612.html#aab71d2a49ee96e88a2858c07c455e78d", null ],
-    [ "UpdateAI", "d9/dda/a20612.html#ae2de6767f8ab502833971e4171d48c13", null ],
-    [ "_locked", "d9/dda/a20612.html#add3bfe992d635629ac7e07e04c4334c9", null ]
+    [ "HandleScript", "d9/dda/a20612.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
+    [ "PrepareSpellScript", "d9/dda/a20612.html#a4fd05478a145157dbd8377532033ab95", null ],
+    [ "Register", "d9/dda/a20612.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
 ];

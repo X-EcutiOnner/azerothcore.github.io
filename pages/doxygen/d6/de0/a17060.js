@@ -1,7 +1,5 @@
 var a17060 =
 [
-    [ "HandleApplyAura", "d6/de0/a17060.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
-    [ "PrepareSpellScript", "d6/de0/a17060.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
-    [ "Register", "d6/de0/a17060.html#a80638966202cb9e27d204ea621e379ef", null ],
-    [ "Validate", "d6/de0/a17060.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
+    [ "achievement_share_the_love", "d6/de0/a17060.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
+    [ "OnCheck", "d6/de0/a17060.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
 ];

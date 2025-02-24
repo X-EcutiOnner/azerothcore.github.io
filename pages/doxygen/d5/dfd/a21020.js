@@ -1,6 +1,6 @@
 var a21020 =
 [
-    [ "npc_enslaved_proto_drakeAI", "d1/d91/a21024.html", "d1/d91/a21024" ],
-    [ "npc_enslaved_proto_drake", "d5/dfd/a21020.html#a9179481566337bd785b089fb726a255e", null ],
-    [ "GetAI", "d5/dfd/a21020.html#a2879ad42d2ec8c04c52d6c370c3e5bf6", null ]
+    [ "boss_svalaAI", "d1/d91/a21024.html", "d1/d91/a21024" ],
+    [ "boss_svala", "d5/dfd/a21020.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "d5/dfd/a21020.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

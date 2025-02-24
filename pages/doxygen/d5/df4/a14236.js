@@ -1,5 +1,6 @@
 var a14236 =
 [
-    [ "go_loosely_turned_soilAI", "d5/df4/a14236.html#a603641bc52d26521d64afaaeed3abc4d", null ],
-    [ "CanBeSeen", "d5/df4/a14236.html#a424b51b08d17ceb04b015cd535256889", null ]
+    [ "npc_soh_fire_trigger", "d5/df4/a14236.html#a8bddde264f4848c9a8ed83dcad190223", null ],
+    [ "Reset", "d5/df4/a14236.html#acbec442907a8b40ae04496c53f210aa2", null ],
+    [ "SpellHit", "d5/df4/a14236.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
 ];

@@ -1,20 +1,27 @@
 var a03401 =
 [
-    [ "WEATHER_SEASONS", "d9/d06/a04735.html#ga5ee30d2da0d958800dd3ad582c49d487", null ],
-    [ "WeatherState", "d9/d06/a04735.html#ga32b7b9e733438755c99c2abd6cb8c94d", [
-      [ "WEATHER_STATE_FINE", "d9/d06/a04735.html#gga32b7b9e733438755c99c2abd6cb8c94da5d4c47a117d36afee4195bd260951366", null ],
-      [ "WEATHER_STATE_FOG", "d9/d06/a04735.html#gga32b7b9e733438755c99c2abd6cb8c94daf088b1890d40b05c4022d90d931e8717", null ],
-      [ "WEATHER_STATE_LIGHT_RAIN", "d9/d06/a04735.html#gga32b7b9e733438755c99c2abd6cb8c94dafe59189ae98629ed11fbd343da10e97d", null ],
-      [ "WEATHER_STATE_MEDIUM_RAIN", "d9/d06/a04735.html#gga32b7b9e733438755c99c2abd6cb8c94da33ce6050f5c9a8dbbfc2556756f960c3", null ],
-      [ "WEATHER_STATE_HEAVY_RAIN", "d9/d06/a04735.html#gga32b7b9e733438755c99c2abd6cb8c94da13bf6f46f69defe7fbea2c659e6d3873", null ],
-      [ "WEATHER_STATE_LIGHT_SNOW", "d9/d06/a04735.html#gga32b7b9e733438755c99c2abd6cb8c94da8a760bcf8d764d8749a800905111ab05", null ],
-      [ "WEATHER_STATE_MEDIUM_SNOW", "d9/d06/a04735.html#gga32b7b9e733438755c99c2abd6cb8c94da2a382668c4c73bc864079b0cf1602da6", null ],
-      [ "WEATHER_STATE_HEAVY_SNOW", "d9/d06/a04735.html#gga32b7b9e733438755c99c2abd6cb8c94daaad9131eee7d0dce651a4142705871a3", null ],
-      [ "WEATHER_STATE_LIGHT_SANDSTORM", "d9/d06/a04735.html#gga32b7b9e733438755c99c2abd6cb8c94dabe53f9722c1f5ee37a0ce46a356402eb", null ],
-      [ "WEATHER_STATE_MEDIUM_SANDSTORM", "d9/d06/a04735.html#gga32b7b9e733438755c99c2abd6cb8c94da35248c6d29502ee854f2a9c92a1c9204", null ],
-      [ "WEATHER_STATE_HEAVY_SANDSTORM", "d9/d06/a04735.html#gga32b7b9e733438755c99c2abd6cb8c94da185c2513fb0f271a64db1feb5691def0", null ],
-      [ "WEATHER_STATE_THUNDERS", "d9/d06/a04735.html#gga32b7b9e733438755c99c2abd6cb8c94da0a333865e8ae65ce8f5bb03f905dee29", null ],
-      [ "WEATHER_STATE_BLACKRAIN", "d9/d06/a04735.html#gga32b7b9e733438755c99c2abd6cb8c94daa69a93da31c84906e5b64469cda9f27f", null ],
-      [ "WEATHER_STATE_BLACKSNOW", "d9/d06/a04735.html#gga32b7b9e733438755c99c2abd6cb8c94da3aea8b6958d36e83f025fc7a489d1357", null ]
+    [ "go_type", "da/daa/a10048.html", "da/daa/a10048" ],
+    [ "creature_type", "d0/def/a10052.html", "d0/def/a10052" ],
+    [ "OPvPCapturePoint", "db/dd3/a10056.html", "db/dd3/a10056" ],
+    [ "OutdoorPvP", "d9/d4e/a10060.html", "d9/d4e/a10060" ],
+    [ "MAX_OUTDOORPVP_TYPES", "da/dfd/a03401.html#a61d2d26058751cc92ed3744e7216a061", null ],
+    [ "PlayerSet", "da/dfd/a03401.html#a080aeb08f4e15904e94076846a03e927", null ],
+    [ "ObjectiveStates", "da/dfd/a03401.html#a7908847b61cb33598912d94a2c0d153a", [
+      [ "OBJECTIVESTATE_NEUTRAL", "da/dfd/a03401.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6", null ],
+      [ "OBJECTIVESTATE_ALLIANCE", "da/dfd/a03401.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01", null ],
+      [ "OBJECTIVESTATE_HORDE", "da/dfd/a03401.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545", null ],
+      [ "OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "da/dfd/a03401.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683", null ],
+      [ "OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "da/dfd/a03401.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143", null ],
+      [ "OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "da/dfd/a03401.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b", null ],
+      [ "OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "da/dfd/a03401.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a", null ]
+    ] ],
+    [ "OutdoorPvPTypes", "da/dfd/a03401.html#a56e7764289940901c2a230103f78adee", [
+      [ "OUTDOOR_PVP_HP", "da/dfd/a03401.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780", null ],
+      [ "OUTDOOR_PVP_NA", "da/dfd/a03401.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811", null ],
+      [ "OUTDOOR_PVP_TF", "da/dfd/a03401.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab", null ],
+      [ "OUTDOOR_PVP_ZM", "da/dfd/a03401.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc", null ],
+      [ "OUTDOOR_PVP_SI", "da/dfd/a03401.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e", null ],
+      [ "OUTDOOR_PVP_EP", "da/dfd/a03401.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125", null ],
+      [ "OUTDOOR_PVP_GH", "da/dfd/a03401.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6", null ]
     ] ]
 ];

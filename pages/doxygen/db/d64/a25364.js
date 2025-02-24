@@ -1,9 +1,7 @@
 var a25364 =
 [
-    [ "CheckProc", "db/d64/a25364.html#a073ed3648f5fd15db73d1620ba7031e3", null ],
-    [ "HandleProc", "db/d64/a25364.html#a5345da73b9c4c9fe4ae5d272e3574955", null ],
-    [ "OnRemove", "db/d64/a25364.html#a27b1b744d88b4c870c0baa0b8f88317f", null ],
-    [ "PrepareAuraScript", "db/d64/a25364.html#a2e13f63459342fb749594f7fbb517c80", null ],
-    [ "Register", "db/d64/a25364.html#a6fc9a3945a736ba4a62ad754090d8525", null ],
-    [ "Validate", "db/d64/a25364.html#a008ec43da50deb568ec453e992f89887", null ]
+    [ "HandleScriptEffect", "db/d64/a25364.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
+    [ "PrepareSpellScript", "db/d64/a25364.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
+    [ "Register", "db/d64/a25364.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
+    [ "SelectTarget", "db/d64/a25364.html#a6a59b7ce696f959b2026cf8088079e89", null ]
 ];

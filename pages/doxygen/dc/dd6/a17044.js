@@ -1,6 +1,6 @@
 var a17044 =
 [
-    [ "boss_eckAI", "db/de0/a17048.html", "db/de0/a17048" ],
-    [ "boss_eck", "dc/dd6/a17044.html#aa445927936d7759a8c3289e2899181e5", null ],
-    [ "GetAI", "dc/dd6/a17044.html#a335755ec7416d3e00a4070e03569293a", null ]
+    [ "boss_gal_darahAI", "db/de0/a17048.html", "db/de0/a17048" ],
+    [ "boss_gal_darah", "dc/dd6/a17044.html#a687bb98f9de9cd838c57511dc6b3d086", null ],
+    [ "GetAI", "dc/dd6/a17044.html#a8f709568f5a06265056571061ff3a26b", null ]
 ];

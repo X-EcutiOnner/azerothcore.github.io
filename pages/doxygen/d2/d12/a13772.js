@@ -1,9 +1,7 @@
 var a13772 =
 [
-    [ "boss_gahzrankaAI", "d2/d12/a13772.html#aed4f9b7e5f46c517f07d7a07f6b2b5f6", null ],
-    [ "IsSummonedBy", "d2/d12/a13772.html#a9a07b183fecda8036e90bc278af68400", null ],
-    [ "JustDied", "d2/d12/a13772.html#a100f4d3f4cd87d321280b7ff2d2ffb68", null ],
-    [ "JustEngagedWith", "d2/d12/a13772.html#a064e5fe28048240bb0febbdc3ac5b1ef", null ],
-    [ "Reset", "d2/d12/a13772.html#ae67d937f6dff9d4c7bb52c65ffe88e40", null ],
-    [ "UpdateAI", "d2/d12/a13772.html#a5dd935016dccab52d456c796809750ab", null ]
+    [ "HandleTriggerSpell", "d2/d12/a13772.html#a66b366f4989d99a58b331e56024e4520", null ],
+    [ "PrepareAuraScript", "d2/d12/a13772.html#a4b00497e095b5c43571b543252b31e58", null ],
+    [ "Register", "d2/d12/a13772.html#abacee7689888bf8c5d21b534a6d71b40", null ],
+    [ "Validate", "d2/d12/a13772.html#a6bef0ac760a319deed6f71fee213e885", null ]
 ];

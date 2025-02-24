@@ -1,14 +1,12 @@
 var a10904 =
 [
-    [ "IsFitToRequirements", "d8/d3e/a10904.html#af1585273701356a591bf9d9483e996a3", null ],
-    [ "areaId", "d8/d3e/a10904.html#af7e6f7b027388447a1f99e759975ca09", null ],
-    [ "auraSpell", "d8/d3e/a10904.html#adaf2f6f7c56701fe42a2674aca74fba0", null ],
-    [ "autocast", "d8/d3e/a10904.html#a38b42b82e4a588e102eb393cc907cd27", null ],
-    [ "gender", "d8/d3e/a10904.html#af4314cba9c91fd1e2c09905c17c67d22", null ],
-    [ "questEnd", "d8/d3e/a10904.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f", null ],
-    [ "questEndStatus", "d8/d3e/a10904.html#ac6c7ed326628642da138bb3835db9a1d", null ],
-    [ "questStart", "d8/d3e/a10904.html#afc99b14a3724fef7c5dd70e976a479a8", null ],
-    [ "questStartStatus", "d8/d3e/a10904.html#a7f4466dfd9ab56850a36d0d09ff84798", null ],
-    [ "raceMask", "d8/d3e/a10904.html#a402373ff841bd2aa47b4b36a581624cc", null ],
-    [ "spellId", "d8/d3e/a10904.html#a8a299d901e2c13cdc3c00d6cf0a856d3", null ]
+    [ "PacketLog", "d8/d3e/a10904.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
+    [ "~PacketLog", "d8/d3e/a10904.html#a595a42f9aaa94d6c46d185955df801e0", null ],
+    [ "CanLogPacket", "d8/d3e/a10904.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
+    [ "Initialize", "d8/d3e/a10904.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
+    [ "instance", "d8/d3e/a10904.html#a484418a51ca0bf150d17b23d97979bf4", null ],
+    [ "LogPacket", "d8/d3e/a10904.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
+    [ "_file", "d8/d3e/a10904.html#a03346a709f7586f6445e03b9a3b6af04", null ],
+    [ "_initializeFlag", "d8/d3e/a10904.html#a490cafe009f7b2ecb303a76c781f8960", null ],
+    [ "_logPacketLock", "d8/d3e/a10904.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
 ];

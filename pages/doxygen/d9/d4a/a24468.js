@@ -1,6 +1,8 @@
 var a24468 =
 [
-    [ "PrepareSpellScript", "d9/d4a/a24468.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
-    [ "RecalculateDamage", "d9/d4a/a24468.html#ab6a781160532d7cbb3bb3304eb412514", null ],
-    [ "Register", "d9/d4a/a24468.html#a82395d00066e90abc58103b18a5ef4dc", null ]
+    [ "HandleEffectApply", "d9/d4a/a24468.html#a8134145c22b99c7b75537091c386bcd1", null ],
+    [ "HandleEffectRemove", "d9/d4a/a24468.html#a5d24ca41dcc75a11077da691abd902e0", null ],
+    [ "PrepareAuraScript", "d9/d4a/a24468.html#ae5f1b77a6aed21faf3ad9c168a8fcaa2", null ],
+    [ "Register", "d9/d4a/a24468.html#acff27aac4af2b0a0530348371fcb55b2", null ],
+    [ "Validate", "d9/d4a/a24468.html#af656fbf06181436bbb020282160c1293", null ]
 ];

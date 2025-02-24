@@ -1,7 +1,8 @@
 var a14344 =
 [
-    [ "GetVisualThrow", "da/ddf/a14344.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "da/ddf/a14344.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "da/ddf/a14344.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "da/ddf/a14344.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "HandleEffectApply", "da/ddf/a14344.html#a31d4e0da71893a8a673a2ac4f7c26c70", null ],
+    [ "HandleEffectRemove", "da/ddf/a14344.html#af8661463589640c9550bc62e8f74afcd", null ],
+    [ "PrepareAuraScript", "da/ddf/a14344.html#a2885eb37d4af8f1e90e2a4967f5acc75", null ],
+    [ "Register", "da/ddf/a14344.html#ada4a148e0b50f5853eaf02c465f6e876", null ],
+    [ "torchGUID", "da/ddf/a14344.html#a8ccf51241d3792c8c36d983bf471167e", null ]
 ];

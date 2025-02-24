@@ -1,6 +1,9 @@
 var a21436 =
 [
-    [ "npc_violet_hold_defense_system", "dc/dbe/a21436.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "dc/dbe/a21436.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "dc/dbe/a21436.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
+    [ "npc_warmage_coldarraAI", "dc/dbe/a21436.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "dc/dbe/a21436.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "dc/dbe/a21436.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "dc/dbe/a21436.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "dc/dbe/a21436.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "dc/dbe/a21436.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

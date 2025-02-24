@@ -1,10 +1,8 @@
 var a13944 =
 [
-    [ "npc_zealot_lorkhan", "dd/d84/a13944.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
-    [ "JustDied", "dd/d84/a13944.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
-    [ "JustEngagedWith", "dd/d84/a13944.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
-    [ "Reset", "dd/d84/a13944.html#abecbd4a2ea2cf3281244933fe7484239", null ],
-    [ "UpdateAI", "dd/d84/a13944.html#a68c35734f8886b2c241dcbc178899206", null ],
-    [ "_scheduler", "dd/d84/a13944.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
-    [ "instance", "dd/d84/a13944.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
+    [ "npc_spawn_of_marli", "dd/d84/a13944.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "dd/d84/a13944.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "dd/d84/a13944.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "dd/d84/a13944.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "dd/d84/a13944.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

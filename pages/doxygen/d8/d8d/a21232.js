@@ -1,6 +1,6 @@
 var a21232 =
 [
-    [ "npc_frozen_orb_stalkerAI", "da/dff/a21236.html", "da/dff/a21236" ],
-    [ "npc_frozen_orb_stalker", "d8/d8d/a21232.html#a7f025c829106aa6668427f913d07a722", null ],
-    [ "GetAI", "d8/d8d/a21232.html#af33e27138a70286bac561113ed09f350", null ]
+    [ "instance_violet_hold_InstanceMapScript", "da/dff/a21236.html", "da/dff/a21236" ],
+    [ "instance_violet_hold", "d8/d8d/a21232.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "d8/d8d/a21232.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
 ];

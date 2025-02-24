@@ -1,6 +1,6 @@
 var a21600 =
 [
-    [ "npc_steam_powered_auctioneerAI", "de/d8f/a21604.html", "de/d8f/a21604" ],
-    [ "npc_steam_powered_auctioneer", "da/daa/a21600.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
-    [ "GetAI", "da/daa/a21600.html#a39a2f0c187078c759bc4a391e0a81068", null ]
+    [ "npc_injured_7th_legion_soldierAI", "de/d8f/a21604.html", "de/d8f/a21604" ],
+    [ "npc_injured_7th_legion_soldier", "da/daa/a21600.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
+    [ "GetAI", "da/daa/a21600.html#a0feca7aedcf3c07253d4d402266189cc", null ]
 ];

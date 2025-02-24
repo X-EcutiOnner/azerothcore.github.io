@@ -1,6 +1,6 @@
 var a00065 =
 [
-    [ "Socket< T >", "dc/db2/a28270.html", "dc/db2/a28270" ],
+    [ "Socket< T >", "d1/d0d/a28288.html", "d1/d0d/a28288" ],
     [ "READ_BLOCK_SIZE", "de/de1/a00065.html#a16ba013af02b9d4400b5e47d8daa022b", null ],
     [ "ProxyHeaderAddressFamilyAndProtocol", "de/de1/a00065.html#a7ddce6d0420753babeb6258ada50eec1", [
       [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4", "de/de1/a00065.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575", null ],

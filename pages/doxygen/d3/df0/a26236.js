@@ -1,10 +1,8 @@
 var a26236 =
 [
-    [ "GetTarget", "d3/df0/a26236.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
-    [ "HandleEffectPeriodicPlatform", "d3/df0/a26236.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
-    [ "HandleEffectPeriodicSelf", "d3/df0/a26236.html#a2272a970ca5edca6f7353beb2279c29c", null ],
-    [ "PerformKick", "d3/df0/a26236.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
-    [ "PrepareAuraScript", "d3/df0/a26236.html#a489f1da8f8008db8f096470f28455ef9", null ],
-    [ "Register", "d3/df0/a26236.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
-    [ "AuraEffectHandleModes", "d3/df0/a26236.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
+    [ "HandleDummy", "d3/df0/a26236.html#a923fa966dc7109f7cb02c25bbd23b0ff", null ],
+    [ "Load", "d3/df0/a26236.html#a5b336f402a256c80d8d3f8c5b1cbda2f", null ],
+    [ "PrepareSpellScript", "d3/df0/a26236.html#a79dc24ba1f2f059d77a06b457a78fcf1", null ],
+    [ "Register", "d3/df0/a26236.html#afb1c744f263b21c30a5dfd3675acb364", null ],
+    [ "Validate", "d3/df0/a26236.html#acaaeacf371538cafbbb4cc7cc036280e", null ]
 ];

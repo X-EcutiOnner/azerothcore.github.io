@@ -1,8 +1,11 @@
 var a21228 =
 [
-    [ "npc_frozen_orbAI", "dd/da6/a21228.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "dd/da6/a21228.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "dd/da6/a21228.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "dd/da6/a21228.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "dd/da6/a21228.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "npc_vh_void_sentryAI", "dd/da6/a21228.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
+    [ "DoAction", "dd/da6/a21228.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
+    [ "JustDied", "dd/da6/a21228.html#add5121ed38a74be9ae168df5f893f89e", null ],
+    [ "SummonedCreatureDespawn", "dd/da6/a21228.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
+    [ "UpdateAI", "dd/da6/a21228.html#ae1f683d5ef920213c9c86da35c626381", null ],
+    [ "checkTimer", "dd/da6/a21228.html#a675bcae4119e45490403013534c731ef", null ],
+    [ "pInstance", "dd/da6/a21228.html#a7527473944681143bab89fd12b475645", null ],
+    [ "SummonedGUID", "dd/da6/a21228.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
 ];

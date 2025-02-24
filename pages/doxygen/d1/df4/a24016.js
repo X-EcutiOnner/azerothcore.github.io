@@ -1,7 +1,12 @@
 var a24016 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d1/df4/a24016.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "d1/df4/a24016.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "d1/df4/a24016.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "d1/df4/a24016.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "npc_enslaved_netherwing_drake", "d1/df4/a24016.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
+    [ "_GetPlayer", "d1/df4/a24016.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
+    [ "JustDied", "d1/df4/a24016.html#acde70c9d8c675a9a9dd14695dc752184", null ],
+    [ "MovementInform", "d1/df4/a24016.html#afa030a380365daa33c156a0d6be6a6d9", null ],
+    [ "Reset", "d1/df4/a24016.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
+    [ "SpellHit", "d1/df4/a24016.html#a195794e88870a0b1ca35473f5f0378a7", null ],
+    [ "UpdateAI", "d1/df4/a24016.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
+    [ "_playerGUID", "d1/df4/a24016.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
+    [ "_tapped", "d1/df4/a24016.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
 ];

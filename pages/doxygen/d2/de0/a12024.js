@@ -1,9 +1,11 @@
 var a12024 =
 [
-    [ "boss_baron_geddonAI", "d2/de0/a12024.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
-    [ "DamageTaken", "d2/de0/a12024.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
-    [ "ExecuteEvent", "d2/de0/a12024.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
-    [ "JustEngagedWith", "d2/de0/a12024.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
-    [ "Reset", "d2/de0/a12024.html#aaf47fc993e672877f51b5095f682906c", null ],
-    [ "armageddonCasted", "d2/de0/a12024.html#a1a034601a7dda94becbf1801bda63d55", null ]
+    [ "npc_rookery_hatcherAI", "d2/de0/a12024.html#a3154429437a108edf77de7ec1f0b2cda", null ],
+    [ "InitializeAI", "d2/de0/a12024.html#af144dc2cbe632038057f931fd71da29d", null ],
+    [ "JustEngagedWith", "d2/de0/a12024.html#a7b7ecaa42bdd35f4ee9fe7fad4cd25a9", null ],
+    [ "UpdateAI", "d2/de0/a12024.html#a0f867aa346a2f829067466fbfe6c5335", null ],
+    [ "events", "d2/de0/a12024.html#a220e6f9869d0ea53a593a6ac8e0e28bd", null ],
+    [ "nearbyEggs", "d2/de0/a12024.html#a2cf183745cdf699af7bd273e0ee4d697", null ],
+    [ "targetEgg", "d2/de0/a12024.html#a877af9948503688944e49503a6293574", null ],
+    [ "targetPosition", "d2/de0/a12024.html#a2e94b3d12ef3d8f80546db6c9a9e9e95", null ]
 ];

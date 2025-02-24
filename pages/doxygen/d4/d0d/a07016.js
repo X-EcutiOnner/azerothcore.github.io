@@ -1,15 +1,16 @@
 var a07016 =
 [
-    [ "ModifyMatchmakerRating", "d4/d0d/a07016.html#aaa6de888c3f85ef8cbe9baa2f997aba1", null ],
-    [ "ModifyPersonalRating", "d4/d0d/a07016.html#a34401ea82507df97e540c698fa549b5f", null ],
-    [ "Class", "d4/d0d/a07016.html#a5f6519e8ad3281a09608f8740927fbd3", null ],
-    [ "Guid", "d4/d0d/a07016.html#ac0dc6765247a0f36b3d3ff527a678010", null ],
-    [ "MatchMakerRating", "d4/d0d/a07016.html#ac91a344c7aecb72d17841413f5d935da", null ],
-    [ "MaxMMR", "d4/d0d/a07016.html#afc86e111a1c699254c5ea761d0dda088", null ],
-    [ "Name", "d4/d0d/a07016.html#a7917e705d8c15bbe2731c32375c34d16", null ],
-    [ "PersonalRating", "d4/d0d/a07016.html#a03168b1bdc8e6dac30d3b63e692ce854", null ],
-    [ "SeasonGames", "d4/d0d/a07016.html#ae3724b7268c161d5553b8cc1fae2cf75", null ],
-    [ "SeasonWins", "d4/d0d/a07016.html#a7239187cef3a02839fe27577ad022ec9", null ],
-    [ "WeekGames", "d4/d0d/a07016.html#a97906127f7eb1babe2bf2ebcda7c0a88", null ],
-    [ "WeekWins", "d4/d0d/a07016.html#a5b9e5e02d59569080d34abd9b9728693", null ]
+    [ "AuctionEntryMap", "d4/d0d/a07016.html#ab05cddc8805f4f6745a620aaf78490e6", null ],
+    [ "AuctionHouseObject", "d4/d0d/a07016.html#ae980b3dc0cb776fa77810d488c0144aa", null ],
+    [ "~AuctionHouseObject", "d4/d0d/a07016.html#abc1f401b8f18c6d5003fa337ed1e76bc", null ],
+    [ "AddAuction", "d4/d0d/a07016.html#a9c61fcf5d92ad6cea5af36b1bd5cff5b", null ],
+    [ "GetAuction", "d4/d0d/a07016.html#a8f549a3623e3f1c3b0b3a21dfdc24d85", null ],
+    [ "GetAuctions", "d4/d0d/a07016.html#ac22a84a7e3f2c6baf5e40a1a43bbf098", null ],
+    [ "GetAuctionsBegin", "d4/d0d/a07016.html#ae769fbe419c78c580fc0c6d6b91a6e28", null ],
+    [ "GetAuctionsEnd", "d4/d0d/a07016.html#a9526b361608b03716918540116bc6d4d", null ],
+    [ "Getcount", "d4/d0d/a07016.html#a49aa833a0d8fd698f116ebdf2544040f", null ],
+    [ "RemoveAuction", "d4/d0d/a07016.html#af760e3c74242ab2bbc0cfb03a9224aff", null ],
+    [ "Update", "d4/d0d/a07016.html#ae9a2bed6b57af310230134cdf2cfd46a", null ],
+    [ "_auctionsMap", "d4/d0d/a07016.html#a92e8694ba6d22e26bedb19b2d0619a9f", null ],
+    [ "_next", "d4/d0d/a07016.html#aa8780a803119c4350d367f39daff32a1", null ]
 ];

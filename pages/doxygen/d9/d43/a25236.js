@@ -1,7 +1,10 @@
 var a25236 =
 [
-    [ "HandleDamage", "d9/d43/a25236.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
-    [ "PrepareSpellScript", "d9/d43/a25236.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
-    [ "Register", "d9/d43/a25236.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
-    [ "Validate", "d9/d43/a25236.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
+    [ "CheckProc", "d9/d43/a25236.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "d9/d43/a25236.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "d9/d43/a25236.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "d9/d43/a25236.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "d9/d43/a25236.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "d9/d43/a25236.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "d9/d43/a25236.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

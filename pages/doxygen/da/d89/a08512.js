@@ -1,14 +1,10 @@
 var a08512 =
 [
-    [ "SafeUnitPointer", "da/d89/a08512.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
-    [ "SafeUnitPointer", "da/d89/a08512.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
-    [ "~SafeUnitPointer", "da/d89/a08512.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
-    [ "Initialize", "da/d89/a08512.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
-    [ "operator Unit *", "da/d89/a08512.html#afee1d290f436472dd719ff83f41721f5", null ],
-    [ "operator->", "da/d89/a08512.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
-    [ "operator=", "da/d89/a08512.html#a44f522d9c22861f853df0286a3764d3e", null ],
-    [ "SetPointedTo", "da/d89/a08512.html#a6603c67b736224a8e6559340afa8b275", null ],
-    [ "UnitDeleted", "da/d89/a08512.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
-    [ "defaultValue", "da/d89/a08512.html#a38dce117cb135c9b84918a9bbc884f28", null ],
-    [ "ptr", "da/d89/a08512.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
+    [ "PvPInfo", "da/d89/a08512.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
+    [ "EndTimer", "da/d89/a08512.html#ae06b5030552c02f30fe8386633a753df", null ],
+    [ "FFAPvPEndTimer", "da/d89/a08512.html#a739dfc63dfe39429a44ea682d9120522", null ],
+    [ "IsHostile", "da/d89/a08512.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
+    [ "IsInFFAPvPArea", "da/d89/a08512.html#a8a654926248b3974587af1eb9c064d15", null ],
+    [ "IsInHostileArea", "da/d89/a08512.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
+    [ "IsInNoPvPArea", "da/d89/a08512.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
 ];

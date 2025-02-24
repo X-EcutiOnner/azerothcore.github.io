@@ -1,6 +1,5 @@
 var a11712 =
 [
-    [ "boss_lord_valthalakAI", "d1/d05/a11716.html", "d1/d05/a11716" ],
-    [ "boss_lord_valthalak", "dd/da1/a11712.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
-    [ "GetAI", "dd/da1/a11712.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
+    [ "npcEntry", "dd/da1/a11712.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
+    [ "spellId", "dd/da1/a11712.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
 ];

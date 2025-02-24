@@ -1,8 +1,5 @@
 var a08260 =
 [
-    [ "IsInSpec", "d3/d5b/a08260.html#a77968b5562467f85bda04b6f2f41ca29", null ],
-    [ "inSpellBook", "d3/d5b/a08260.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
-    [ "specMask", "d3/d5b/a08260.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
-    [ "State", "d3/d5b/a08260.html#a062758af7e92f7e2263ca0a0fd329151", null ],
-    [ "talentID", "d3/d5b/a08260.html#aca9b191361652002f5178179a939e41b", null ]
+    [ "CastBarCaption", "d3/d5b/a08260.html#ae78195bdc8edd6f4996c617e7a541e12", null ],
+    [ "Name", "d3/d5b/a08260.html#a462917eda1e095c99054495abf70cd67", null ]
 ];

@@ -1,5 +1,8 @@
 var a20380 =
 [
-    [ "npc_ulduar_flames_spreadAI", "dd/dd6/a20380.html#a607ee542f7c6d84f4072557e44a80905", null ],
-    [ "SpellHit", "dd/dd6/a20380.html#abe69df9873fc125306a4ed757665e448", null ]
+    [ "npc_ulduar_expedition_commanderAI", "db/dbc/a20384.html", "db/dbc/a20384" ],
+    [ "npc_ulduar_expedition_commander", "dd/dd6/a20380.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
+    [ "GetAI", "dd/dd6/a20380.html#aa888a3634a643a103075d44c8f52d28a", null ],
+    [ "OnGossipHello", "dd/dd6/a20380.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
+    [ "OnGossipSelect", "dd/dd6/a20380.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
 ];

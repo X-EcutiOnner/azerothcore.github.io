@@ -1,6 +1,6 @@
 var a27196 =
 [
-    [ "go_gilded_brazierAI", "df/d7e/a27200.html", "df/d7e/a27200" ],
-    [ "go_gilded_brazier", "d5/d0e/a27196.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "d5/d0e/a27196.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "go_amberpine_outhouse", "d5/d0e/a27196.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
+    [ "OnGossipHello", "d5/d0e/a27196.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
+    [ "OnGossipSelect", "d5/d0e/a27196.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
 ];

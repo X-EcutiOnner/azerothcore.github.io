@@ -1,8 +1,8 @@
 var a13064 =
 [
-    [ "FilterTargets", "d5/df3/a13064.html#a3aac5e364d04a4a086aaa911051417d5", null ],
-    [ "HandleDummy", "d5/df3/a13064.html#aa0705dee3edeca7b61f82581f367e94a", null ],
-    [ "PrepareSpellScript", "d5/df3/a13064.html#a1efa036eac25d789850849dc1b209379", null ],
-    [ "Register", "d5/df3/a13064.html#a656b512d5bef657004a72acbf7875760", null ],
-    [ "Validate", "d5/df3/a13064.html#a33534d9fd70af99bbde1e4a908d22084", null ]
+    [ "CalcPeriodic", "d5/df3/a13064.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
+    [ "HandleDummyTick", "d5/df3/a13064.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
+    [ "HandleUpdatePeriodic", "d5/df3/a13064.html#a70ef86fd58eec1422bac6b61a4123842", null ],
+    [ "PrepareAuraScript", "d5/df3/a13064.html#a9a97a6ab249728dbad4d3603640a7963", null ],
+    [ "Register", "d5/df3/a13064.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
 ];

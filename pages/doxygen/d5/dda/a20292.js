@@ -1,6 +1,8 @@
 var a20292 =
 [
-    [ "boss_mimironAI", "df/d07/a20296.html", "df/d07/a20296" ],
-    [ "boss_mimiron", "d5/dda/a20292.html#a72904837bd85e9f711fcf3da04c459c3", null ],
-    [ "GetAI", "d5/dda/a20292.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
+    [ "npc_ulduar_mimiron_rocketAI", "d5/dda/a20292.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
+    [ "InitializeAI", "d5/dda/a20292.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
+    [ "Reset", "d5/dda/a20292.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
+    [ "SetData", "d5/dda/a20292.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
+    [ "UpdateAI", "d5/dda/a20292.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
 ];

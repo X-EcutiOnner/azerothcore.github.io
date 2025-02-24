@@ -1,5 +1,7 @@
 var a27288 =
 [
-    [ "go_duskwither_spire_power_source", "df/da0/a27288.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "df/da0/a27288.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "npc_engineering_tele_trinket", "df/da0/a27288.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "df/da0/a27288.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "df/da0/a27288.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "df/da0/a27288.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

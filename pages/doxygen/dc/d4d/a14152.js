@@ -1,11 +1,12 @@
 var a14152 =
 [
-    [ "o", "dc/d4d/a14152.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
-    [ "rot0", "dc/d4d/a14152.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
-    [ "rot1", "dc/d4d/a14152.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
-    [ "rot2", "dc/d4d/a14152.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
-    [ "rot3", "dc/d4d/a14152.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
-    [ "x", "dc/d4d/a14152.html#a6e527854cf0959995d6b0133dedc94c9", null ],
-    [ "y", "dc/d4d/a14152.html#a7536047696bd4883237369976b503131", null ],
-    [ "z", "dc/d4d/a14152.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
+    [ "npc_alexstraza_the_lifebinder", "dc/d4d/a14152.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "dc/d4d/a14152.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "dc/d4d/a14152.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "dc/d4d/a14152.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "UpdateAI", "dc/d4d/a14152.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "dc/d4d/a14152.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "dc/d4d/a14152.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "dc/d4d/a14152.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "dc/d4d/a14152.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

@@ -1,6 +1,5 @@
 var a27192 =
 [
-    [ "go_midsummer_musicAI", "df/de2/a27192.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
-    [ "UpdateAI", "df/de2/a27192.html#adf185ee702e9e74f65204b90786f9eb4", null ],
-    [ "_events", "df/de2/a27192.html#a31e45a754930cdc3206fe2b7f754d234", null ]
+    [ "go_dragonflayer_cage", "df/de2/a27192.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "df/de2/a27192.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

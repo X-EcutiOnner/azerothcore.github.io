@@ -1,7 +1,7 @@
 var a22908 =
 [
-    [ "npc_ashtongue_channeler", "de/d1c/a22908.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "de/d1c/a22908.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "de/d1c/a22908.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "de/d1c/a22908.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "PrepareAuraScript", "de/d1c/a22908.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
+    [ "Register", "de/d1c/a22908.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
+    [ "Update", "de/d1c/a22908.html#a3f98767367564734c9877d1870aac31b", null ],
+    [ "Validate", "de/d1c/a22908.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
 ];

@@ -1,7 +1,9 @@
 var a25804 =
 [
-    [ "HandleScript", "d0/d5c/a25804.html#aad0be226a2d294d3361c1afbf644c5e4", null ],
-    [ "PrepareSpellScript", "d0/d5c/a25804.html#a85dee311aab08d796a3a0c1bc9e9390d", null ],
-    [ "Register", "d0/d5c/a25804.html#a2b22be9826db241ecf3f99ff16c309c0", null ],
-    [ "Validate", "d0/d5c/a25804.html#a98df659504307fc0666fe2b1001eaa00", null ]
+    [ "HandleAfterCast", "d0/d5c/a25804.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "d0/d5c/a25804.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "d0/d5c/a25804.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "d0/d5c/a25804.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "d0/d5c/a25804.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "d0/d5c/a25804.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

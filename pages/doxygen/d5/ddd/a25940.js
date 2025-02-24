@@ -1,7 +1,10 @@
 var a25940 =
 [
-    [ "CalculateSpellAmount", "d5/ddd/a25940.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
-    [ "CheckCast", "d5/ddd/a25940.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "d5/ddd/a25940.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "d5/ddd/a25940.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "Load", "d5/ddd/a25940.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
+    [ "PrepareAuraScript", "d5/ddd/a25940.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
+    [ "Register", "d5/ddd/a25940.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
+    [ "Split", "d5/ddd/a25940.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
+    [ "groupSize", "d5/ddd/a25940.html#aa1e61b128f63c802dc623be551657df1", null ],
+    [ "minHpPct", "d5/ddd/a25940.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
+    [ "remainingAmount", "d5/ddd/a25940.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
 ];

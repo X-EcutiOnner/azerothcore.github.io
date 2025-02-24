@@ -1,8 +1,12 @@
 var a22556 =
 [
-    [ "CalcPeriodic", "df/d20/a22556.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "df/d20/a22556.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "df/d20/a22556.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "df/d20/a22556.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "df/d20/a22556.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "boss_gurtogg_bloodboil", "df/d20/a22556.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
+    [ "CanAIAttack", "df/d20/a22556.html#a60e6439bab689eb88a18612b6b46c713", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "df/d20/a22556.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
+    [ "JustDied", "df/d20/a22556.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
+    [ "JustEngagedWith", "df/d20/a22556.html#a0847173efbae252c2fbbaf1be17097cb", null ],
+    [ "JustSummoned", "df/d20/a22556.html#ae718666a1da0e93cb0965c42c40b51df", null ],
+    [ "KilledUnit", "df/d20/a22556.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
+    [ "Reset", "df/d20/a22556.html#add25677d422b8bddcb753465451f0584", null ],
+    [ "_recentlySpoken", "df/d20/a22556.html#a74af813b84f7787a5b764cfe574c087b", null ]
 ];

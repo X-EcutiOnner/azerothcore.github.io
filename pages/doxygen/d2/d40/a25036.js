@@ -1,10 +1,7 @@
 var a25036 =
 [
-    [ "Load", "d2/d40/a25036.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
-    [ "OnPeriodic", "d2/d40/a25036.html#ab1dc8acb8072f70625375480742fee5e", null ],
-    [ "PrepareAuraScript", "d2/d40/a25036.html#a2e81d03893b23aa8dc9c615683206f75", null ],
-    [ "Register", "d2/d40/a25036.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
-    [ "Validate", "d2/d40/a25036.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
-    [ "_applyTimes", "d2/d40/a25036.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
-    [ "stackAmount", "d2/d40/a25036.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
+    [ "HandleStun", "d2/d40/a25036.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
+    [ "PrepareAuraScript", "d2/d40/a25036.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
+    [ "Register", "d2/d40/a25036.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
+    [ "Validate", "d2/d40/a25036.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
 ];

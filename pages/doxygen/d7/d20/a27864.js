@@ -1,7 +1,8 @@
 var a27864 =
 [
-    [ "HandleHeal", "d7/d20/a27864.html#a30a5d100e899052598ac6ebf68b0d630", null ],
-    [ "Load", "d7/d20/a27864.html#a9389c5ed206546edadd2b374b6d1d083", null ],
-    [ "PrepareSpellScript", "d7/d20/a27864.html#aa9013c98808203a09e5f1cf5ad444537", null ],
-    [ "Register", "d7/d20/a27864.html#aaec4586d9c929a38245b748953940589", null ]
+    [ "gender", "d7/d20/a27864.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "d7/d20/a27864.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "d7/d20/a27864.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "d7/d20/a27864.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "d7/d20/a27864.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

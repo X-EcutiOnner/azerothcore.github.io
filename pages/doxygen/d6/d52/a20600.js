@@ -1,6 +1,7 @@
 var a20600 =
 [
-    [ "npc_xt002_heartAI", "d3/de4/a20604.html", "d3/de4/a20604" ],
-    [ "npc_xt002_heart", "d6/d52/a20600.html#ab914ce1e945080b873cf6f93e3a6a32c", null ],
-    [ "GetAI", "d6/d52/a20600.html#af59c6623b97d1adff765e8ba4958d482", null ]
+    [ "FilterTargets", "d6/d52/a20600.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "d6/d52/a20600.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "d6/d52/a20600.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "d6/d52/a20600.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

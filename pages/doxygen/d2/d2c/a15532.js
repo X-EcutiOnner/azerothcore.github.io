@@ -1,14 +1,9 @@
 var a15532 =
 [
-    [ "npc_ringoAI", "d2/d2c/a15532.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
-    [ "ClearFaint", "d2/d2c/a15532.html#abd24108debcafafa601958824d44abbb", null ],
-    [ "MoveInLineOfSight", "d2/d2c/a15532.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
-    [ "Reset", "d2/d2c/a15532.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
-    [ "SetFaint", "d2/d2c/a15532.html#a09d3770aade34afe5a3a15e17cc64933", null ],
-    [ "SpellHit", "d2/d2c/a15532.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
-    [ "UpdateFollowerAI", "d2/d2c/a15532.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
-    [ "EndEventProgress", "d2/d2c/a15532.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
-    [ "EndEventTimer", "d2/d2c/a15532.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
-    [ "FaintTimer", "d2/d2c/a15532.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
-    [ "SpraggleGUID", "d2/d2c/a15532.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
+    [ "npc_pluckyAI", "d2/d2c/a15532.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
+    [ "ReceiveEmote", "d2/d2c/a15532.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
+    [ "Reset", "d2/d2c/a15532.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
+    [ "UpdateAI", "d2/d2c/a15532.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
+    [ "NormFaction", "d2/d2c/a15532.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
+    [ "ResetTimer", "d2/d2c/a15532.html#ac9808c21666cd17b0603e7e67a61d015", null ]
 ];

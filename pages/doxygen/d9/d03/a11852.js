@@ -1,9 +1,7 @@
 var a11852 =
 [
-    [ "npc_vaelastrasz_the_redAI", "d9/d03/a11852.html#aa800617f887a21d8a61cac099c86faed", null ],
-    [ "IsSummonedBy", "d9/d03/a11852.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
-    [ "UpdateAI", "d9/d03/a11852.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
-    [ "_combatEnabled", "d9/d03/a11852.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
-    [ "_events2", "d9/d03/a11852.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
-    [ "_victorGUID", "d9/d03/a11852.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
+    [ "boss_gorosh_the_dervishAI", "d9/d03/a11852.html#adac003c51a2d1d0a8daa6ba552114c25", null ],
+    [ "JustEngagedWith", "d9/d03/a11852.html#a52bc5f76baff626b8834aa604fdd8e6a", null ],
+    [ "UpdateAI", "d9/d03/a11852.html#aa17e26419a8e3f7cd99c5e9b44be8ed8", null ],
+    [ "nextWhirlwindTime", "d9/d03/a11852.html#a07f1af63bc54d1b4c8d8e1cd87a787a1", null ]
 ];

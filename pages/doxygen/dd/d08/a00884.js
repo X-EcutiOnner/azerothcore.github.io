@@ -1,8 +1,8 @@
 var a00884 =
 [
-    [ "instance_nexus", "df/dd4/a19182.html", "df/dd4/a19182" ],
-    [ "instance_nexus::instance_nexus_InstanceMapScript", "d5/d37/a19186.html", "d5/d37/a19186" ],
-    [ "npc_crystalline_frayer", "d8/d3f/a19190.html", "d8/d3f/a19190" ],
+    [ "instance_nexus", "d8/d57/a19200.html", "d8/d57/a19200" ],
+    [ "instance_nexus::instance_nexus_InstanceMapScript", "de/dc5/a19204.html", "de/dc5/a19204" ],
+    [ "npc_crystalline_frayer", "db/d3c/a19208.html", "db/d3c/a19208" ],
     [ "eFrayer", "dd/d08/a00884.html#afccbdf6b1fcd1d08834c371ae089cd34", [
       [ "SPELL_SUMMON_SEED_POD", "dd/d08/a00884.html#afccbdf6b1fcd1d08834c371ae089cd34a574104b14cbcd24794ab8666fa8dbd76", null ],
       [ "SPELL_SEED_POD", "dd/d08/a00884.html#afccbdf6b1fcd1d08834c371ae089cd34ac55a6fa8082947a3cf2c03a7a6698eb7", null ],

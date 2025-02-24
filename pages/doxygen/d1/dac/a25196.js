@@ -1,7 +1,13 @@
 var a25196 =
 [
-    [ "EjectPassenger", "d1/dac/a25196.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
-    [ "PrepareSpellScript", "d1/dac/a25196.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
-    [ "Register", "d1/dac/a25196.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
-    [ "Validate", "d1/dac/a25196.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
+    [ "CalcPeriodic", "d1/dac/a25196.html#a3ac8408619d30ad092b624c2894d40bb", null ],
+    [ "CalculateExpertiseAmount", "d1/dac/a25196.html#ae974eed8254bace2a758917a4b629fa9", null ],
+    [ "CalculateSpellHitAmount", "d1/dac/a25196.html#ad42047dcb29d96224f6bd44064b1da32", null ],
+    [ "CalculateSpellPenAmount", "d1/dac/a25196.html#a300e649beb785c4ebc84eb1b0613164e", null ],
+    [ "HandleEffectApply", "d1/dac/a25196.html#ac01bc37e10b1072fb12aeb0bbfbdcc41", null ],
+    [ "HandlePeriodic", "d1/dac/a25196.html#a26c15c411ff09d8107dfc360b71dbc0a", null ],
+    [ "PrepareAuraScript", "d1/dac/a25196.html#a8b1230d7a14f87966ecf834fcbf83b58", null ],
+    [ "Register", "d1/dac/a25196.html#a47cb8f043f8b8984615520db25696f8e", null ],
+    [ "cap", "d1/dac/a25196.html#a5e168cfe5d9b620d523ea780f1e18cc7", null ],
+    [ "maxChance", "d1/dac/a25196.html#a11f2c759a5587eb865560eceff5b8414", null ]
 ];

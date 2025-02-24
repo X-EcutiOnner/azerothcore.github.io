@@ -1,8 +1,8 @@
 var a11960 =
 [
-    [ "FilterTargets", "d4/d71/a11960.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
-    [ "FilterTargetsEff", "d4/d71/a11960.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
-    [ "PrepareSpellScript", "d4/d71/a11960.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
-    [ "Register", "d4/d71/a11960.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
-    [ "targetList", "d4/d71/a11960.html#a874dc7877ecfae332c9f826f01afce0f", null ]
+    [ "boss_halyconAI", "d4/d71/a11960.html#acc110d5d802fc0da3ea630f667167748", null ],
+    [ "JustDied", "d4/d71/a11960.html#a7d71e135a8edf3d3b99ccfcb3b071eaa", null ],
+    [ "JustEngagedWith", "d4/d71/a11960.html#a5735567462167fffa4d01800d696296e", null ],
+    [ "Reset", "d4/d71/a11960.html#ac5622260b0b40cb584cf3037521cc5b8", null ],
+    [ "UpdateAI", "d4/d71/a11960.html#a6e72949b63de3d32d8369c7122b6060d", null ]
 ];

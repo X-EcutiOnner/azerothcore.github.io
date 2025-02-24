@@ -1,7 +1,6 @@
 var a27068 =
 [
-    [ "FilterTargets", "d2/df1/a27068.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d2/df1/a27068.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d2/df1/a27068.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d2/df1/a27068.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "go_flamesAI", "d2/df1/a27068.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
+    [ "UpdateAI", "d2/df1/a27068.html#a2d4c91f0bff924335881d1096c0af313", null ],
+    [ "timer", "d2/df1/a27068.html#ae53c7c6c669e982babf304f173b58b1a", null ]
 ];

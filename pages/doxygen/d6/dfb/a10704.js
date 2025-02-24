@@ -1,7 +1,9 @@
 var a10704 =
 [
-    [ "Player", "d6/dfb/a10704.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d6/dfb/a10704.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "FactionChange", "d6/dfb/a10704.html#adff657ead29df26ead5e20a8ecf44e87", null ],
-    [ "Race", "d6/dfb/a10704.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
+    [ "Weather", "d6/dfb/a10704.html#aa404c94fec05b825454a7309827767c6", null ],
+    [ "Weather", "d6/dfb/a10704.html#a28f45d81441d2dde6917380978dfb4d0", null ],
+    [ "Write", "d6/dfb/a10704.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
+    [ "Abrupt", "d6/dfb/a10704.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
+    [ "Intensity", "d6/dfb/a10704.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
+    [ "WeatherID", "d6/dfb/a10704.html#a32e56458b1e562c124cfc0288a578134", null ]
 ];

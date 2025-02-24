@@ -1,10 +1,5 @@
 var a07676 =
 [
-    [ "LfgUpdateData", "d0/d10/a07676.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
-    [ "LfgUpdateData", "d0/d10/a07676.html#a656873ea6ef9b3f23791827617a000c6", null ],
-    [ "LfgUpdateData", "d0/d10/a07676.html#a248682a712dd43b8c4601830aae4ddec", null ],
-    [ "comment", "d0/d10/a07676.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
-    [ "dungeons", "d0/d10/a07676.html#a0e9b49693248b438dbc508e230a870db", null ],
-    [ "state", "d0/d10/a07676.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
-    [ "updateType", "d0/d10/a07676.html#a146e43854f66bf57f703d7089a24481e", null ]
+    [ "IsColorValid", "d0/d10/a07676.html#a537a2beaa8321095d2d67b8fb655acea", null ],
+    [ "IsTextValid", "d0/d10/a07676.html#aeaa47302a91b5882afae3950ffc460cc", null ]
 ];

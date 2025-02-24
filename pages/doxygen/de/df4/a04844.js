@@ -1,8 +1,11 @@
 var a04844 =
 [
-    [ "IMMapMgr", "de/df4/a04844.html#a2292f2bdacfc627ab33f02d399221ad5", null ],
-    [ "~IMMapMgr", "de/df4/a04844.html#a8298d6b3fbce5ccd835af3c287c361b6", null ],
-    [ "isEnablePathFinding", "de/df4/a04844.html#a5d6bcb413c39e82da8e4924c4754c8b0", null ],
-    [ "setEnablePathFinding", "de/df4/a04844.html#afdc7e829a374c20b4d072290363c7c62", null ],
-    [ "iEnablePathFinding", "de/df4/a04844.html#a25f8900f4546990562fb048e956bb1e0", null ]
+    [ "IoContext", "de/df4/a04844.html#a6ba4b629a3704fcb5d110a71f09900be", null ],
+    [ "IoContext", "de/df4/a04844.html#a8dc945d02df9d28f3dda6c17f1c91502", null ],
+    [ "get_executor", "de/df4/a04844.html#aa642c9d6e49d2396c267c6fc404b2a6b", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase &", "de/df4/a04844.html#a51e3067d9ba9b0b4a557a7e586b1ef91", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase const &", "de/df4/a04844.html#af4aa281948ab71b76bc8f66b735425b3", null ],
+    [ "run", "de/df4/a04844.html#a086cd2ed56d61cf1ec0dbfdec16c50fe", null ],
+    [ "stop", "de/df4/a04844.html#a1165b11f60d138d56eba43657fc299cd", null ],
+    [ "_impl", "de/df4/a04844.html#a22cdb3c45a6dbacb13f90f654bc0c65d", null ]
 ];

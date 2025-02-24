@@ -1,6 +1,5 @@
 var a20624 =
 [
-    [ "BoomEvent", "da/d24/a20624.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
-    [ "Execute", "da/d24/a20624.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
-    [ "_me", "da/d24/a20624.html#a30de77ee751f1c10231088cb84942342", null ]
+    [ "achievement_xt002_nerf_engineering", "da/d24/a20624.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "da/d24/a20624.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

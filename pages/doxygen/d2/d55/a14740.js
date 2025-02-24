@@ -1,6 +1,7 @@
 var a14740 =
 [
-    [ "npc_belnistraszAI", "d4/ddf/a14744.html", "d4/ddf/a14744" ],
-    [ "npc_belnistrasz", "d2/d55/a14740.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
-    [ "GetAI", "d2/d55/a14740.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
+    [ "npc_onyxian_lair_guard", "d2/d55/a14740.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "d2/d55/a14740.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "d2/d55/a14740.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "d2/d55/a14740.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

@@ -1,11 +1,10 @@
 var a27408 =
 [
-    [ "npc_franklinAI", "d0/d26/a27408.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
-    [ "DamageTaken", "d0/d26/a27408.html#afa494098126ce3291e234cfc2b36336f", null ],
-    [ "JustEngagedWith", "d0/d26/a27408.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
-    [ "Reset", "d0/d26/a27408.html#a51a260460facf06ec6bb1486f434d885", null ],
-    [ "ScheduleEncounterStart", "d0/d26/a27408.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
-    [ "SpellHit", "d0/d26/a27408.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
-    [ "UpdateAI", "d0/d26/a27408.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
-    [ "events", "d0/d26/a27408.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
+    [ "npc_dancing_flamesAI", "d0/d26/a27408.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "d0/d26/a27408.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "d0/d26/a27408.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "d0/d26/a27408.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "d0/d26/a27408.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "d0/d26/a27408.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "d0/d26/a27408.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

@@ -1,11 +1,12 @@
 var a20928 =
 [
-    [ "npc_ulduar_storm_tempered_keeperAI", "dd/d10/a20928.html#a97ffe70fab090c7182b2a8dce3c7c54f", null ],
-    [ "JustDied", "dd/d10/a20928.html#a4778b4c1d7afedc4c8ea3a0b2c2509e1", null ],
-    [ "JustEngagedWith", "dd/d10/a20928.html#a5ae632ba4da1e78dfa6980fce492ec8e", null ],
-    [ "JustSummoned", "dd/d10/a20928.html#a7962e2148fb55d96cde4e2fed48e71f4", null ],
-    [ "Reset", "dd/d10/a20928.html#a521fd2c3f8fb1319daaecfb203d9ebb8", null ],
-    [ "UpdateAI", "dd/d10/a20928.html#a9d5bc84572934b4fba19d2996e1c89f0", null ],
-    [ "events", "dd/d10/a20928.html#a0281fd23155c73768a09f60b3a04ce9d", null ],
-    [ "otherGUID", "dd/d10/a20928.html#a627aa7ff4ffe264d4ea3e78469954170", null ]
+    [ "boss_skarvald_the_constructor", "dd/d10/a20928.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
+    [ "DoAction", "dd/d10/a20928.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
+    [ "JustDied", "dd/d10/a20928.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
+    [ "JustEngagedWith", "dd/d10/a20928.html#a529439d257abf78f76db0043549964e6", null ],
+    [ "KilledUnit", "dd/d10/a20928.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
+    [ "Reset", "dd/d10/a20928.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
+    [ "UpdateAI", "dd/d10/a20928.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
+    [ "events", "dd/d10/a20928.html#a28837280e161f6971564a4725c97a154", null ],
+    [ "pInstance", "dd/d10/a20928.html#ab5b773a9960f611a6383578a607ba258", null ]
 ];

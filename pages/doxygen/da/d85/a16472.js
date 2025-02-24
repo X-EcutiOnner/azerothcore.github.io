@@ -1,6 +1,7 @@
 var a16472 =
 [
-    [ "if", "da/d85/a16472.html#a05a4c1db7e7d6810209175a22db5a639", null ],
-    [ "PrepareAuraScript", "da/d85/a16472.html#ab918782945539513ae49cff3280fc352", null ],
-    [ "absorbAmount", "da/d85/a16472.html#a72d148ef61ff66cbc2afdb3defec15ce", null ]
+    [ "HandleAfterEffectAbsorb", "da/d85/a16472.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
+    [ "PrepareAuraScript", "da/d85/a16472.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
+    [ "Register", "da/d85/a16472.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
+    [ "Validate", "da/d85/a16472.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
 ];

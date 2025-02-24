@@ -1,5 +1,5 @@
 var a02366 =
 [
-    [ "SmartTrigger", "d8/df6/a06194.html", "d8/df6/a06194" ],
-    [ "AddSC_SmartScripts", "d9/d4f/a02366.html#ab6012619ba76775b314475ec60f8c7d7", null ]
+    [ "GetAISpellInfo", "d9/d4f/a02366.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
+    [ "IsValidCombatTarget", "d9/d4f/a02366.html#a981f03ba3b8c59eb1fa9d22df158ba19", null ]
 ];

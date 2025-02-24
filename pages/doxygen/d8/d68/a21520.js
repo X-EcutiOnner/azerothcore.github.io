@@ -1,9 +1,13 @@
 var a21520 =
 [
-    [ "npc_bonker_togglevoltAI", "d8/d68/a21520.html#adfd43a6a804a35e235262e55f0155ffe", null ],
-    [ "JustDied", "d8/d68/a21520.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
-    [ "Reset", "d8/d68/a21520.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
-    [ "UpdateEscortAI", "d8/d68/a21520.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
-    [ "WaypointReached", "d8/d68/a21520.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
-    [ "Bonker_agro", "d8/d68/a21520.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
+    [ "npc_shandy_dalaranAI", "d8/d68/a21520.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
+    [ "Reset", "d8/d68/a21520.html#a38f0630d4e18cea01de343afdcb96db3", null ],
+    [ "RollTask", "d8/d68/a21520.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
+    [ "SetData", "d8/d68/a21520.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
+    [ "UpdateAI", "d8/d68/a21520.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
+    [ "_aquanosGUID", "d8/d68/a21520.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
+    [ "_canWash", "d8/d68/a21520.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
+    [ "_events", "d8/d68/a21520.html#a3fbae63669c8382097b0bcb936301945", null ],
+    [ "_lCount", "d8/d68/a21520.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
+    [ "_lSource", "d8/d68/a21520.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
 ];

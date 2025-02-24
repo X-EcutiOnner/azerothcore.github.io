@@ -1,5 +1,6 @@
 var a14908 =
 [
-    [ "NotInStomachSelector", "da/d72/a14908.html#a766a75e73261ac8bb76c90e8befd21ad", null ],
-    [ "operator()", "da/d72/a14908.html#a189c90e585ecef8ffbcbe9227c588946", null ]
+    [ "HandleScript", "da/d72/a14908.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
+    [ "PrepareSpellScript", "da/d72/a14908.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
+    [ "Register", "da/d72/a14908.html#a434f0aef7f32edb6990efb992e4d57af", null ]
 ];

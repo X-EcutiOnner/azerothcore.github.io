@@ -1,4 +1,19 @@
 var a03251 =
 [
-    [ "minPctTeamGamesForMemberToGetReward", "db/dd3/a03251.html#a4d7ce2e01ab25ea6833099b2821b6b5b", null ]
+    [ "ArenaSeasonReward", "d5/d4d/a07180.html", "d5/d4d/a07180" ],
+    [ "ArenaSeasonRewardGroup", "dc/dc2/a07184.html", "dc/dc2/a07184" ],
+    [ "ArenaSeasonMgr", "d5/dae/a07188.html", "d5/dae/a07188" ],
+    [ "sArenaSeasonMgr", "db/dd3/a03251.html#ac46c94dc4c6cf0de37233cdd42a97ccf", null ],
+    [ "ArenaSeasonRewardGroupCriteriaType", "db/dd3/a03251.html#a983281e9aada2538d6bc53ae4dd4d266", [
+      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE", "db/dd3/a03251.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422", null ],
+      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE", "db/dd3/a03251.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63", null ]
+    ] ],
+    [ "ArenaSeasonRewardType", "db/dd3/a03251.html#a89a1f93759bb943ff9ef0e4991579265", [
+      [ "ARENA_SEASON_REWARD_TYPE_ITEM", "db/dd3/a03251.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32", null ],
+      [ "ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT", "db/dd3/a03251.html#a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444", null ]
+    ] ],
+    [ "ArenaSeasonState", "db/dd3/a03251.html#a64f8715fead51dc9727d105bce4d0e38", [
+      [ "ARENA_SEASON_STATE_DISABLED", "db/dd3/a03251.html#a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017", null ],
+      [ "ARENA_SEASON_STATE_IN_PROGRESS", "db/dd3/a03251.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8", null ]
+    ] ]
 ];

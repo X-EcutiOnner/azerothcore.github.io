@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: WorldSessionFilter Class Reference</title>
+<title>AzerothCore: WorldPackets::Guild::SaveGuildEmblem Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,50 +106,82 @@ $(document).ready(function(){initNavTree('d8/d57/a10688.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d0/da7/a10685.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">WorldSessionFilter Class Reference<div class="ingroups"><a class="el" href="../../dd/d22/a04662.html">User to World Communication</a></div></div></div>
+  <div class="headertitle"><div class="title">WorldPackets::Guild::SaveGuildEmblem Class Reference<span class="mlabels"><span class="mlabel">final</span></span></div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">GuildPackets.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for WorldSessionFilter:</div>
+Inheritance diagram for WorldPackets::Guild::SaveGuildEmblem:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d8/d57/a10688.png" usemap="#WorldSessionFilter_map" alt=""/>
-  <map id="WorldSessionFilter_map" name="WorldSessionFilter_map">
-<area href="../../d2/ddd/a10680.html" alt="PacketFilter" shape="rect" coords="0,0,118,24"/>
+  <img src="../../d8/d57/a10688.png" usemap="#WorldPackets::Guild::SaveGuildEmblem_map" alt=""/>
+  <map id="WorldPackets::Guild::SaveGuildEmblem_map" name="WorldPackets::Guild::SaveGuildEmblem_map">
+<area href="../../df/d30/a10392.html" alt="WorldPackets::ClientPacket" shape="rect" coords="0,56,231,80"/>
+<area href="../../d4/d1e/a10384.html" alt="WorldPackets::Packet" shape="rect" coords="0,0,231,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aba91eb2dfd56201534743b2d458fa111"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d57/a10688.html#aba91eb2dfd56201534743b2d458fa111">WorldSessionFilter</a> (<a class="el" href="../../da/d91/a10712.html">WorldSession</a> *pSession)</td></tr>
-<tr class="separator:aba91eb2dfd56201534743b2d458fa111"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5de22e3a331e0ab17fe60f34c5b9b3fa"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d57/a10688.html#a5de22e3a331e0ab17fe60f34c5b9b3fa">~WorldSessionFilter</a> () override=default</td></tr>
-<tr class="separator:a5de22e3a331e0ab17fe60f34c5b9b3fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0f0acf4ed9e61bf8aeb77ee7fb310660"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d57/a10688.html#a0f0acf4ed9e61bf8aeb77ee7fb310660">Process</a> (<a class="el" href="../../df/de3/a10668.html">WorldPacket</a> *packet) override</td></tr>
-<tr class="separator:a0f0acf4ed9e61bf8aeb77ee7fb310660"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a10680"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10680')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d2/ddd/a10680.html">PacketFilter</a></td></tr>
-<tr class="memitem:accfa43359c62d2e9d6c38086c77374bd inherit pub_methods_a10680"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddd/a10680.html#accfa43359c62d2e9d6c38086c77374bd">PacketFilter</a> (<a class="el" href="../../da/d91/a10712.html">WorldSession</a> *pSession)</td></tr>
-<tr class="separator:accfa43359c62d2e9d6c38086c77374bd inherit pub_methods_a10680"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a669531cfd9c06d5cf525986069117687 inherit pub_methods_a10680"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddd/a10680.html#a669531cfd9c06d5cf525986069117687">~PacketFilter</a> ()=default</td></tr>
-<tr class="separator:a669531cfd9c06d5cf525986069117687 inherit pub_methods_a10680"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a03679e3c241a535757608c63ca933ac9 inherit pub_methods_a10680"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddd/a10680.html#a03679e3c241a535757608c63ca933ac9">Process</a> (<a class="el" href="../../df/de3/a10668.html">WorldPacket</a> *)</td></tr>
-<tr class="separator:a03679e3c241a535757608c63ca933ac9 inherit pub_methods_a10680"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3e2bdc6d15cfd5cac1b9c130937599e3 inherit pub_methods_a10680"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddd/a10680.html#a3e2bdc6d15cfd5cac1b9c130937599e3">ProcessUnsafe</a> () const</td></tr>
-<tr class="separator:a3e2bdc6d15cfd5cac1b9c130937599e3 inherit pub_methods_a10680"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae3e507a567dfbead91c84629008539d2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d57/a10688.html#ae3e507a567dfbead91c84629008539d2">SaveGuildEmblem</a> (<a class="el" href="../../d0/d00/a10912.html">WorldPacket</a> &amp;&amp;packet)</td></tr>
+<tr class="separator:ae3e507a567dfbead91c84629008539d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeea281ed99165947de4b5d1b4449ea5d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d57/a10688.html#aeea281ed99165947de4b5d1b4449ea5d">Read</a> () override</td></tr>
+<tr class="separator:aeea281ed99165947de4b5d1b4449ea5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a10392"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10392')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../df/d30/a10392.html">WorldPackets::ClientPacket</a></td></tr>
+<tr class="memitem:aa1d1946c07e248bae5927e83fdad9500 inherit pub_methods_a10392"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d30/a10392.html#aa1d1946c07e248bae5927e83fdad9500">ClientPacket</a> (<a class="el" href="../../d0/d00/a10912.html">WorldPacket</a> &amp;&amp;packet)</td></tr>
+<tr class="separator:aa1d1946c07e248bae5927e83fdad9500 inherit pub_methods_a10392"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1cdaaacca2695c4366647c7611073ff0 inherit pub_methods_a10392"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d30/a10392.html#a1cdaaacca2695c4366647c7611073ff0">ClientPacket</a> (<a class="el" href="../../d9/dda/a04740.html#ga1073b6abb3a749f18bf1633020879e9b">OpcodeClient</a> expectedOpcode, <a class="el" href="../../d0/d00/a10912.html">WorldPacket</a> &amp;&amp;packet)</td></tr>
+<tr class="separator:a1cdaaacca2695c4366647c7611073ff0 inherit pub_methods_a10392"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a16e5b9fa05e35fa1e32e33bef2688487 inherit pub_methods_a10392"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d00/a10912.html">WorldPacket</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d30/a10392.html#a16e5b9fa05e35fa1e32e33bef2688487">Write</a> () final</td></tr>
+<tr class="separator:a16e5b9fa05e35fa1e32e33bef2688487 inherit pub_methods_a10392"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa51558bb8faa96a665fe40b1bddf9d14 inherit pub_methods_a10392"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/dda/a04740.html#ga1073b6abb3a749f18bf1633020879e9b">OpcodeClient</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d30/a10392.html#aa51558bb8faa96a665fe40b1bddf9d14">GetOpcode</a> () const</td></tr>
+<tr class="separator:aa51558bb8faa96a665fe40b1bddf9d14 inherit pub_methods_a10392"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a10384"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10384')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d4/d1e/a10384.html">WorldPackets::Packet</a></td></tr>
+<tr class="memitem:a316af2b7ce1ac7189fb1e57f534bad11 inherit pub_methods_a10384"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d1e/a10384.html#a316af2b7ce1ac7189fb1e57f534bad11">Packet</a> (<a class="el" href="../../d0/d00/a10912.html">WorldPacket</a> &amp;&amp;worldPacket)</td></tr>
+<tr class="separator:a316af2b7ce1ac7189fb1e57f534bad11 inherit pub_methods_a10384"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ca1e6377bb2fb10bf042311e72eb5d4 inherit pub_methods_a10384"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d1e/a10384.html#a2ca1e6377bb2fb10bf042311e72eb5d4">~Packet</a> ()=default</td></tr>
+<tr class="separator:a2ca1e6377bb2fb10bf042311e72eb5d4 inherit pub_methods_a10384"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a00213b64110a99004b3d9a6b38876cd4 inherit pub_methods_a10384"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d1e/a10384.html#a00213b64110a99004b3d9a6b38876cd4">Packet</a> (<a class="el" href="../../d4/d1e/a10384.html">Packet</a> const &amp;right)=delete</td></tr>
+<tr class="separator:a00213b64110a99004b3d9a6b38876cd4 inherit pub_methods_a10384"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d2afd0d4b0d7daff11868854b7c4715 inherit pub_methods_a10384"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d1e/a10384.html">Packet</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d1e/a10384.html#a6d2afd0d4b0d7daff11868854b7c4715">operator=</a> (<a class="el" href="../../d4/d1e/a10384.html">Packet</a> const &amp;right)=delete</td></tr>
+<tr class="separator:a6d2afd0d4b0d7daff11868854b7c4715 inherit pub_methods_a10384"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7c79156d7b6cfe3142fc530f9ed262a inherit pub_methods_a10384"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d0/d00/a10912.html">WorldPacket</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d1e/a10384.html#af7c79156d7b6cfe3142fc530f9ed262a">Write</a> ()=0</td></tr>
+<tr class="separator:af7c79156d7b6cfe3142fc530f9ed262a inherit pub_methods_a10384"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a94afc4d66c2b5bced3063bab5a666bfd inherit pub_methods_a10384"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d1e/a10384.html#a94afc4d66c2b5bced3063bab5a666bfd">Read</a> ()=0</td></tr>
+<tr class="separator:a94afc4d66c2b5bced3063bab5a666bfd inherit pub_methods_a10384"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d8649e1b035fe7387dcee3e0b062a5e inherit pub_methods_a10384"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d00/a10912.html">WorldPacket</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d1e/a10384.html#a9d8649e1b035fe7387dcee3e0b062a5e">GetRawPacket</a> () const</td></tr>
+<tr class="separator:a9d8649e1b035fe7387dcee3e0b062a5e inherit pub_methods_a10384"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a08eb4c40f49c0d4e7f17a6dc1df2fe6a inherit pub_methods_a10384"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d1e/a10384.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a">GetSize</a> () const</td></tr>
+<tr class="separator:a08eb4c40f49c0d4e7f17a6dc1df2fe6a inherit pub_methods_a10384"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a4bd53f7f5a5f2e7759d6df8a9de0b3f0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d57/a10688.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0">Vendor</a></td></tr>
+<tr class="separator:a4bd53f7f5a5f2e7759d6df8a9de0b3f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a44fdd025f87e13db6d83afca6c49f5f8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d57/a10688.html#a44fdd025f87e13db6d83afca6c49f5f8">BStyle</a> = 0</td></tr>
+<tr class="separator:a44fdd025f87e13db6d83afca6c49f5f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a60c52a080284fabe96c579f39fb0834f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d57/a10688.html#a60c52a080284fabe96c579f39fb0834f">EStyle</a> = 0</td></tr>
+<tr class="separator:a60c52a080284fabe96c579f39fb0834f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48cfbac2214bfc406d8bc80c175dac8f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d57/a10688.html#a48cfbac2214bfc406d8bc80c175dac8f">BColor</a> = 0</td></tr>
+<tr class="separator:a48cfbac2214bfc406d8bc80c175dac8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad3775c0839dd9aeb5a708a26ea4ec640"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d57/a10688.html#ad3775c0839dd9aeb5a708a26ea4ec640">EColor</a> = 0</td></tr>
+<tr class="separator:ad3775c0839dd9aeb5a708a26ea4ec640"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a53e3f146f6a925bbe1fdae2105b79952"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d57/a10688.html#a53e3f146f6a925bbe1fdae2105b79952">Bg</a> = 0</td></tr>
+<tr class="separator:a53e3f146f6a925bbe1fdae2105b79952"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pro_attribs_a10680"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_a10680')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../d2/ddd/a10680.html">PacketFilter</a></td></tr>
-<tr class="memitem:ad3723289ea93f1095cf82584268335d9 inherit pro_attribs_a10680"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d91/a10712.html">WorldSession</a> *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddd/a10680.html#ad3723289ea93f1095cf82584268335d9">m_pSession</a></td></tr>
-<tr class="separator:ad3723289ea93f1095cf82584268335d9 inherit pro_attribs_a10680"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_attribs_a10384"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_a10384')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../d4/d1e/a10384.html">WorldPackets::Packet</a></td></tr>
+<tr class="memitem:ab85f1c9f20117bc5015180165c7b458a inherit pro_attribs_a10384"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d00/a10912.html">WorldPacket</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d1e/a10384.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a></td></tr>
+<tr class="separator:ab85f1c9f20117bc5015180165c7b458a inherit pro_attribs_a10384"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aba91eb2dfd56201534743b2d458fa111" name="aba91eb2dfd56201534743b2d458fa111"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aba91eb2dfd56201534743b2d458fa111">&#9670;&#160;</a></span>WorldSessionFilter()</h2>
+<a id="ae3e507a567dfbead91c84629008539d2" name="ae3e507a567dfbead91c84629008539d2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae3e507a567dfbead91c84629008539d2">&#9670;&#160;</a></span>SaveGuildEmblem()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -158,26 +190,28 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">WorldSessionFilter::WorldSessionFilter </td>
+          <td class="memname">WorldPackets::Guild::SaveGuildEmblem::SaveGuildEmblem </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d91/a10712.html">WorldSession</a> *&#160;</td>
-          <td class="paramname"><em>pSession</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d0/d00/a10912.html">WorldPacket</a> &amp;&amp;&#160;</td>
+          <td class="paramname"><em>packet</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  259</span>: <a class="code hl_class" href="../../d2/ddd/a10680.html">PacketFilter</a>(pSession) {}</div>
-<div class="ttc" id="aa10680_html"><div class="ttname"><a href="../../d2/ddd/a10680.html">PacketFilter</a></div><div class="ttdef"><b>Definition:</b> WorldSession.h:231</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  601</span>: <a class="code hl_function" href="../../df/d30/a10392.html#aa1d1946c07e248bae5927e83fdad9500">ClientPacket</a>(<a class="code hl_enumvalue" href="../../d9/dda/a04740.html#gga1073b6abb3a749f18bf1633020879e9ba4a1018aa02e87bb354bc55503628c3e4">MSG_SAVE_GUILD_EMBLEM</a>, std::move(packet)) { }</div>
+<div class="ttc" id="aa04740_html_gga1073b6abb3a749f18bf1633020879e9ba4a1018aa02e87bb354bc55503628c3e4"><div class="ttname"><a href="../../d9/dda/a04740.html#gga1073b6abb3a749f18bf1633020879e9ba4a1018aa02e87bb354bc55503628c3e4">MSG_SAVE_GUILD_EMBLEM</a></div><div class="ttdeci">@ MSG_SAVE_GUILD_EMBLEM</div><div class="ttdef"><b>Definition:</b> Opcodes.h:527</div></div>
+<div class="ttc" id="aa10392_html_aa1d1946c07e248bae5927e83fdad9500"><div class="ttname"><a href="../../df/d30/a10392.html#aa1d1946c07e248bae5927e83fdad9500">WorldPackets::ClientPacket::ClientPacket</a></div><div class="ttdeci">ClientPacket(WorldPacket &amp;&amp;packet)</div><div class="ttdef"><b>Definition:</b> Packet.cpp:39</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a5de22e3a331e0ab17fe60f34c5b9b3fa" name="a5de22e3a331e0ab17fe60f34c5b9b3fa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5de22e3a331e0ab17fe60f34c5b9b3fa">&#9670;&#160;</a></span>~WorldSessionFilter()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="aeea281ed99165947de4b5d1b4449ea5d" name="aeea281ed99165947de4b5d1b4449ea5d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeea281ed99165947de4b5d1b4449ea5d">&#9670;&#160;</a></span>Read()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -186,36 +220,9 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">WorldSessionFilter::~WorldSessionFilter </td>
+          <td class="memname">void WorldPackets::Guild::SaveGuildEmblem::Read </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a0f0acf4ed9e61bf8aeb77ee7fb310660" name="a0f0acf4ed9e61bf8aeb77ee7fb310660"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0f0acf4ed9e61bf8aeb77ee7fb310660">&#9670;&#160;</a></span>Process()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool WorldSessionFilter::Process </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/de3/a10668.html">WorldPacket</a> *&#160;</td>
-          <td class="paramname"><em>packet</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -226,39 +233,119 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Reimplemented from <a class="el" href="../../d2/ddd/a10680.html#a03679e3c241a535757608c63ca933ac9">PacketFilter</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   85</span>{</div>
-<div class="line"><span class="lineno">   86</span>    <a class="code hl_class" href="../../de/da0/a10636.html">ClientOpcodeHandler</a> <span class="keyword">const</span>* opHandle = <a class="code hl_variable" href="../../dd/d22/a04662.html#gaab348862a5b8f265e05e5b0ac296162a">opcodeTable</a>[<span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="../../dd/d22/a04662.html#ga1073b6abb3a749f18bf1633020879e9b">OpcodeClient</a><span class="keyword">&gt;</span>(packet-&gt;<a class="code hl_function" href="../../df/de3/a10668.html#a666547feae3b83bfbba424a541287239">GetOpcode</a>())];</div>
-<div class="line"><span class="lineno">   87</span> </div>
-<div class="line"><span class="lineno">   88</span>    <span class="comment">//check if packet handler is supposed to be safe</span></div>
-<div class="line"><span class="lineno">   89</span>    <span class="keywordflow">if</span> (opHandle-&gt;<a class="code hl_variable" href="../../dd/d22/a04662.html#gaccb7f451536a1a56ba072a82202e5a53">ProcessingPlace</a> == <a class="code hl_enumvalue" href="../../dd/d22/a04662.html#ggadb1f3eec4312420ff005e4d832f82ef4a10fc703aaf4e3032582278e9d36c23e8">PROCESS_INPLACE</a>)</div>
-<div class="line"><span class="lineno">   90</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   91</span> </div>
-<div class="line"><span class="lineno">   92</span>    <span class="comment">//thread-unsafe packets should be processed in World::UpdateSessions()</span></div>
-<div class="line"><span class="lineno">   93</span>    <span class="keywordflow">if</span> (opHandle-&gt;<a class="code hl_variable" href="../../dd/d22/a04662.html#gaccb7f451536a1a56ba072a82202e5a53">ProcessingPlace</a> == <a class="code hl_enumvalue" href="../../dd/d22/a04662.html#ggadb1f3eec4312420ff005e4d832f82ef4a789f81b4b4c56cee7b5cd568c3de197d">PROCESS_THREADUNSAFE</a>)</div>
-<div class="line"><span class="lineno">   94</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   95</span> </div>
-<div class="line"><span class="lineno">   96</span>    <span class="comment">//no player attached? -&gt; our client! ^^</span></div>
-<div class="line"><span class="lineno">   97</span>    <a class="code hl_class" href="../../d1/d53/a08360.html">Player</a>* player = <a class="code hl_variable" href="../../d2/ddd/a10680.html#ad3723289ea93f1095cf82584268335d9">m_pSession</a>-&gt;<a class="code hl_function" href="../../da/d91/a10712.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>();</div>
-<div class="line"><span class="lineno">   98</span>    <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">   99</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  100</span> </div>
-<div class="line"><span class="lineno">  101</span>    <span class="comment">//lets process all packets for non-in-the-world player</span></div>
-<div class="line"><span class="lineno">  102</span>    <span class="keywordflow">return</span> !player-&gt;<a class="code hl_function" href="../../d1/d36/a08116.html#a3aeab7def818ba6c50249f197ad2f9ca">IsInWorld</a>();</div>
-<div class="line"><span class="lineno">  103</span>}</div>
-<div class="ttc" id="aa04662_html_ga1073b6abb3a749f18bf1633020879e9b"><div class="ttname"><a href="../../dd/d22/a04662.html#ga1073b6abb3a749f18bf1633020879e9b">Opcodes</a></div><div class="ttdeci">Opcodes</div><div class="ttdoc">List of Opcodes.</div><div class="ttdef"><b>Definition:</b> Opcodes.h:30</div></div>
-<div class="ttc" id="aa04662_html_gaab348862a5b8f265e05e5b0ac296162a"><div class="ttname"><a href="../../dd/d22/a04662.html#gaab348862a5b8f265e05e5b0ac296162a">opcodeTable</a></div><div class="ttdeci">OpcodeTable opcodeTable</div><div class="ttdef"><b>Definition:</b> Opcodes.cpp:51</div></div>
-<div class="ttc" id="aa04662_html_gaccb7f451536a1a56ba072a82202e5a53"><div class="ttname"><a href="../../dd/d22/a04662.html#gaccb7f451536a1a56ba072a82202e5a53">ClientOpcodeHandler::ProcessingPlace</a></div><div class="ttdeci">PacketProcessing ProcessingPlace</div><div class="ttdef"><b>Definition:</b> Opcodes.h:1392</div></div>
-<div class="ttc" id="aa04662_html_ggadb1f3eec4312420ff005e4d832f82ef4a10fc703aaf4e3032582278e9d36c23e8"><div class="ttname"><a href="../../dd/d22/a04662.html#ggadb1f3eec4312420ff005e4d832f82ef4a10fc703aaf4e3032582278e9d36c23e8">PROCESS_INPLACE</a></div><div class="ttdeci">@ PROCESS_INPLACE</div><div class="ttdef"><b>Definition:</b> Opcodes.h:1366</div></div>
-<div class="ttc" id="aa04662_html_ggadb1f3eec4312420ff005e4d832f82ef4a789f81b4b4c56cee7b5cd568c3de197d"><div class="ttname"><a href="../../dd/d22/a04662.html#ggadb1f3eec4312420ff005e4d832f82ef4a789f81b4b4c56cee7b5cd568c3de197d">PROCESS_THREADUNSAFE</a></div><div class="ttdeci">@ PROCESS_THREADUNSAFE</div><div class="ttdef"><b>Definition:</b> Opcodes.h:1367</div></div>
-<div class="ttc" id="aa08116_html_a3aeab7def818ba6c50249f197ad2f9ca"><div class="ttname"><a href="../../d1/d36/a08116.html#a3aeab7def818ba6c50249f197ad2f9ca">Object::IsInWorld</a></div><div class="ttdeci">bool IsInWorld() const</div><div class="ttdef"><b>Definition:</b> Object.h:104</div></div>
-<div class="ttc" id="aa08360_html"><div class="ttname"><a href="../../d1/d53/a08360.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1064</div></div>
-<div class="ttc" id="aa10636_html"><div class="ttname"><a href="../../de/da0/a10636.html">ClientOpcodeHandler</a></div><div class="ttdef"><b>Definition:</b> Opcodes.h:1385</div></div>
-<div class="ttc" id="aa10668_html_a666547feae3b83bfbba424a541287239"><div class="ttname"><a href="../../df/de3/a10668.html#a666547feae3b83bfbba424a541287239">WorldPacket::GetOpcode</a></div><div class="ttdeci">uint16 GetOpcode() const</div><div class="ttdef"><b>Definition:</b> WorldPacket.h:76</div></div>
-<div class="ttc" id="aa10680_html_ad3723289ea93f1095cf82584268335d9"><div class="ttname"><a href="../../d2/ddd/a10680.html#ad3723289ea93f1095cf82584268335d9">PacketFilter::m_pSession</a></div><div class="ttdeci">WorldSession *const m_pSession</div><div class="ttdef"><b>Definition:</b> WorldSession.h:240</div></div>
-<div class="ttc" id="aa10712_html_a62c786bcb829a021c267e7eb56809952"><div class="ttname"><a href="../../da/d91/a10712.html#a62c786bcb829a021c267e7eb56809952">WorldSession::GetPlayer</a></div><div class="ttdeci">Player * GetPlayer() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:362</div></div>
+<p>Implements <a class="el" href="../../d4/d1e/a10384.html#a94afc4d66c2b5bced3063bab5a666bfd">WorldPackets::Packet</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  444</span>{</div>
+<div class="line"><span class="lineno">  445</span>    <a class="code hl_variable" href="../../d4/d1e/a10384.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &gt;&gt; <a class="code hl_variable" href="../../d8/d57/a10688.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0">Vendor</a>;</div>
+<div class="line"><span class="lineno">  446</span>    <a class="code hl_variable" href="../../d4/d1e/a10384.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &gt;&gt; <a class="code hl_variable" href="../../d8/d57/a10688.html#a60c52a080284fabe96c579f39fb0834f">EStyle</a>;</div>
+<div class="line"><span class="lineno">  447</span>    <a class="code hl_variable" href="../../d4/d1e/a10384.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &gt;&gt; <a class="code hl_variable" href="../../d8/d57/a10688.html#ad3775c0839dd9aeb5a708a26ea4ec640">EColor</a>;</div>
+<div class="line"><span class="lineno">  448</span>    <a class="code hl_variable" href="../../d4/d1e/a10384.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &gt;&gt; <a class="code hl_variable" href="../../d8/d57/a10688.html#a44fdd025f87e13db6d83afca6c49f5f8">BStyle</a>;</div>
+<div class="line"><span class="lineno">  449</span>    <a class="code hl_variable" href="../../d4/d1e/a10384.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &gt;&gt; <a class="code hl_variable" href="../../d8/d57/a10688.html#a48cfbac2214bfc406d8bc80c175dac8f">BColor</a>;</div>
+<div class="line"><span class="lineno">  450</span>    <a class="code hl_variable" href="../../d4/d1e/a10384.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &gt;&gt; <a class="code hl_variable" href="../../d8/d57/a10688.html#a53e3f146f6a925bbe1fdae2105b79952">Bg</a>;</div>
+<div class="line"><span class="lineno">  451</span>}</div>
+<div class="ttc" id="aa10384_html_ab85f1c9f20117bc5015180165c7b458a"><div class="ttname"><a href="../../d4/d1e/a10384.html#ab85f1c9f20117bc5015180165c7b458a">WorldPackets::Packet::_worldPacket</a></div><div class="ttdeci">WorldPacket _worldPacket</div><div class="ttdef"><b>Definition:</b> Packet.h:42</div></div>
+<div class="ttc" id="aa10688_html_a44fdd025f87e13db6d83afca6c49f5f8"><div class="ttname"><a href="../../d8/d57/a10688.html#a44fdd025f87e13db6d83afca6c49f5f8">WorldPackets::Guild::SaveGuildEmblem::BStyle</a></div><div class="ttdeci">int32 BStyle</div><div class="ttdef"><b>Definition:</b> GuildPackets.h:606</div></div>
+<div class="ttc" id="aa10688_html_a48cfbac2214bfc406d8bc80c175dac8f"><div class="ttname"><a href="../../d8/d57/a10688.html#a48cfbac2214bfc406d8bc80c175dac8f">WorldPackets::Guild::SaveGuildEmblem::BColor</a></div><div class="ttdeci">int32 BColor</div><div class="ttdef"><b>Definition:</b> GuildPackets.h:608</div></div>
+<div class="ttc" id="aa10688_html_a4bd53f7f5a5f2e7759d6df8a9de0b3f0"><div class="ttname"><a href="../../d8/d57/a10688.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0">WorldPackets::Guild::SaveGuildEmblem::Vendor</a></div><div class="ttdeci">ObjectGuid Vendor</div><div class="ttdef"><b>Definition:</b> GuildPackets.h:605</div></div>
+<div class="ttc" id="aa10688_html_a53e3f146f6a925bbe1fdae2105b79952"><div class="ttname"><a href="../../d8/d57/a10688.html#a53e3f146f6a925bbe1fdae2105b79952">WorldPackets::Guild::SaveGuildEmblem::Bg</a></div><div class="ttdeci">int32 Bg</div><div class="ttdef"><b>Definition:</b> GuildPackets.h:610</div></div>
+<div class="ttc" id="aa10688_html_a60c52a080284fabe96c579f39fb0834f"><div class="ttname"><a href="../../d8/d57/a10688.html#a60c52a080284fabe96c579f39fb0834f">WorldPackets::Guild::SaveGuildEmblem::EStyle</a></div><div class="ttdeci">int32 EStyle</div><div class="ttdef"><b>Definition:</b> GuildPackets.h:607</div></div>
+<div class="ttc" id="aa10688_html_ad3775c0839dd9aeb5a708a26ea4ec640"><div class="ttname"><a href="../../d8/d57/a10688.html#ad3775c0839dd9aeb5a708a26ea4ec640">WorldPackets::Guild::SaveGuildEmblem::EColor</a></div><div class="ttdeci">int32 EColor</div><div class="ttdef"><b>Definition:</b> GuildPackets.h:609</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">WorldPacket::GetOpcode()</a>, <a class="el" href="../../#l00362">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00104">Object::IsInWorld()</a>, <a class="el" href="../../#l00240">PacketFilter::m_pSession</a>, <a class="el" href="../../#l00051">opcodeTable</a>, <a class="el" href="../../#l01366">PROCESS_INPLACE</a>, <a class="el" href="../../#l01367">PROCESS_THREADUNSAFE</a>, and <a class="el" href="../../#l01392">ClientOpcodeHandler::ProcessingPlace</a>.</p>
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a48cfbac2214bfc406d8bc80c175dac8f" name="a48cfbac2214bfc406d8bc80c175dac8f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a48cfbac2214bfc406d8bc80c175dac8f">&#9670;&#160;</a></span>BColor</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> WorldPackets::Guild::SaveGuildEmblem::BColor = 0</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00683">EmblemInfo::ReadPacket()</a>.</p>
+
+</div>
+</div>
+<a id="a53e3f146f6a925bbe1fdae2105b79952" name="a53e3f146f6a925bbe1fdae2105b79952"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a53e3f146f6a925bbe1fdae2105b79952">&#9670;&#160;</a></span>Bg</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> WorldPackets::Guild::SaveGuildEmblem::Bg = 0</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00683">EmblemInfo::ReadPacket()</a>.</p>
+
+</div>
+</div>
+<a id="a44fdd025f87e13db6d83afca6c49f5f8" name="a44fdd025f87e13db6d83afca6c49f5f8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a44fdd025f87e13db6d83afca6c49f5f8">&#9670;&#160;</a></span>BStyle</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> WorldPackets::Guild::SaveGuildEmblem::BStyle = 0</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00683">EmblemInfo::ReadPacket()</a>.</p>
+
+</div>
+</div>
+<a id="ad3775c0839dd9aeb5a708a26ea4ec640" name="ad3775c0839dd9aeb5a708a26ea4ec640"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad3775c0839dd9aeb5a708a26ea4ec640">&#9670;&#160;</a></span>EColor</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> WorldPackets::Guild::SaveGuildEmblem::EColor = 0</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00683">EmblemInfo::ReadPacket()</a>.</p>
+
+</div>
+</div>
+<a id="a60c52a080284fabe96c579f39fb0834f" name="a60c52a080284fabe96c579f39fb0834f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a60c52a080284fabe96c579f39fb0834f">&#9670;&#160;</a></span>EStyle</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> WorldPackets::Guild::SaveGuildEmblem::EStyle = 0</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00683">EmblemInfo::ReadPacket()</a>.</p>
+
+</div>
+</div>
+<a id="a4bd53f7f5a5f2e7759d6df8a9de0b3f0" name="a4bd53f7f5a5f2e7759d6df8a9de0b3f0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4bd53f7f5a5f2e7759d6df8a9de0b3f0">&#9670;&#160;</a></span>Vendor</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a> WorldPackets::Guild::SaveGuildEmblem::Vendor</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00224">WorldSession::HandleSaveGuildEmblemOpcode()</a>.</p>
 
 </div>
 </div>
@@ -267,8 +354,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d8/d57/a10688.html">WorldSessionFilter</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:44:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d5/df7/a04795.html">WorldPackets</a></li><li class="navelem"><a class="el" href="../../d8/dc6/a04796.html">Guild</a></li><li class="navelem"><a class="el" href="../../d8/d57/a10688.html">SaveGuildEmblem</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:44:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

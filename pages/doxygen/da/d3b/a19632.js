@@ -1,9 +1,12 @@
 var a19632 =
 [
-    [ "CheckTargets", "da/d3b/a19632.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "da/d3b/a19632.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "da/d3b/a19632.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "da/d3b/a19632.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "da/d3b/a19632.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "da/d3b/a19632.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "npc_assembly_lightningAI", "da/d3b/a19632.html#a4b778b6545e7c93e66a07160db793651", null ],
+    [ "AttackStart", "da/d3b/a19632.html#afd4657e8c6a2eb39346e99cb54a7ab1a", null ],
+    [ "EnterEvadeMode", "da/d3b/a19632.html#a4c0bb838053412a3945648ed1a5a13b9", null ],
+    [ "MoveInLineOfSight", "da/d3b/a19632.html#a077f788e67cdb67683ac13f3a3d1322b", null ],
+    [ "MovementInform", "da/d3b/a19632.html#a95227f93c5ac6871bfcea603ebb2188d", null ],
+    [ "OnCharmed", "da/d3b/a19632.html#aa08e4c286723c76251bd75aa54b24f5f", null ],
+    [ "Reset", "da/d3b/a19632.html#a1f03885bfd91d9b9cdde1d90b51d2c96", null ],
+    [ "UpdateAI", "da/d3b/a19632.html#a94edd1ea5278bd5ca8d5d64619e9c8b4", null ],
+    [ "_boomed", "da/d3b/a19632.html#aa6b4a46674a7d4106a49ef308ec27b9e", null ]
 ];

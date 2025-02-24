@@ -1,10 +1,11 @@
 var a08748 =
 [
-    [ "Flags", "d4/dd6/a08748.html#a5292a64de662f608915844d58199542f", null ],
-    [ "Icon", "d4/dd6/a08748.html#ab7460f125e05509baf9331e424b8bacf", null ],
-    [ "ID", "d4/dd6/a08748.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
-    [ "Importance", "d4/dd6/a08748.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
-    [ "Name", "d4/dd6/a08748.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
-    [ "PositionX", "d4/dd6/a08748.html#a561763556f1ac77e988c350c37a3a0a1", null ],
-    [ "PositionY", "d4/dd6/a08748.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
+    [ "VehicleSeatAddon", "d4/dd6/a08748.html#a307b278917998116156e41f9189a582c", null ],
+    [ "VehicleSeatAddon", "d4/dd6/a08748.html#adaec12df869a9ffc81174f5ef1f65606", null ],
+    [ "ExitParameter", "d4/dd6/a08748.html#afbb8de193522f1182efff50064e5f83d", null ],
+    [ "ExitParameterO", "d4/dd6/a08748.html#a06e385ea5cf0441721432925251a5a63", null ],
+    [ "ExitParameterX", "d4/dd6/a08748.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
+    [ "ExitParameterY", "d4/dd6/a08748.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
+    [ "ExitParameterZ", "d4/dd6/a08748.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
+    [ "SeatOrientationOffset", "d4/dd6/a08748.html#a374c73b40f6e6dad103b172d1829a31d", null ]
 ];

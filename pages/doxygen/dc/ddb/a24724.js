@@ -1,8 +1,6 @@
 var a24724 =
 [
-    [ "AfterApply", "dc/ddb/a24724.html#a9c2591beacd941893338109719c03e3f", null ],
-    [ "AfterRemove", "dc/ddb/a24724.html#a0be2a66b615dd926de7073392a8e5062", null ],
-    [ "PrepareAuraScript", "dc/ddb/a24724.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
-    [ "Register", "dc/ddb/a24724.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
-    [ "Validate", "dc/ddb/a24724.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
+    [ "CheckAreaTarget", "dc/ddb/a24724.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
+    [ "PrepareAuraScript", "dc/ddb/a24724.html#a2b6dbd33e34357917f662000a1cd932f", null ],
+    [ "Register", "dc/ddb/a24724.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
 ];

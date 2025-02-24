@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Thread Class Reference</title>
+<title>AzerothCore: Appender Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,85 +108,119 @@ $(document).ready(function(){initNavTree('d0/d27/a05296.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pri-methods">Private Member Functions</a> &#124;
-<a href="#pri-static-methods">Static Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../dc/d46/a05293.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Thread Class Reference</div></div>
+  <div class="headertitle"><div class="title">Appender Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Threading.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Appender.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for Appender:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d0/d27/a05296.png" usemap="#Appender_map" alt=""/>
+  <map id="Appender_map" name="Appender_map">
+<area href="../../dc/da0/a05304.html" alt="AppenderConsole" shape="rect" coords="0,56,114,80"/>
+<area href="../../d7/d68/a05848.html" alt="AppenderDB" shape="rect" coords="124,56,238,80"/>
+<area href="../../d6/d72/a05308.html" alt="AppenderFile" shape="rect" coords="248,56,362,80"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a95c703fb8f2f27cb64f475a8c940864a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a95c703fb8f2f27cb64f475a8c940864a">Thread</a> ()</td></tr>
-<tr class="separator:a95c703fb8f2f27cb64f475a8c940864a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a72d9240b0f28a378bf0e05e97918e25a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a72d9240b0f28a378bf0e05e97918e25a">Thread</a> (<a class="el" href="../../dc/d2f/a05292.html">Runnable</a> *instance)</td></tr>
-<tr class="separator:a72d9240b0f28a378bf0e05e97918e25a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a37d9edd3a1a776cbc27dedff949c9726"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a37d9edd3a1a776cbc27dedff949c9726">~Thread</a> ()</td></tr>
-<tr class="separator:a37d9edd3a1a776cbc27dedff949c9726"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a29758de9c29e1437e234ab8d2a3e07d0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a29758de9c29e1437e234ab8d2a3e07d0">wait</a> ()</td></tr>
-<tr class="separator:a29758de9c29e1437e234ab8d2a3e07d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4ee8270c681c7faf3d3a6b8271f31796"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a4ee8270c681c7faf3d3a6b8271f31796">destroy</a> ()</td></tr>
-<tr class="separator:a4ee8270c681c7faf3d3a6b8271f31796"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4dcbafab5741b819852d6702e5b09369"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a4dcbafab5741b819852d6702e5b09369">setPriority</a> (<a class="el" href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0">Priority</a> type)</td></tr>
-<tr class="separator:a4dcbafab5741b819852d6702e5b09369"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aed555d5a182fefce9bb570201e9f005f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#aed555d5a182fefce9bb570201e9f005f">Appender</a> (<a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _id, std::string const &amp;<a class="el" href="../../d0/d27/a05296.html#a0d47660ee41c8816342001825f626a8b">name</a>, <a class="el" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> <a class="el" href="../../d0/d27/a05296.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>=<a class="el" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61">LOG_LEVEL_DISABLED</a>, <a class="el" href="../../d0/dd2/a04190.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a> <a class="el" href="../../d0/d27/a05296.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a>=<a class="el" href="../../d0/dd2/a04190.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b">APPENDER_FLAGS_NONE</a>)</td></tr>
+<tr class="separator:aed555d5a182fefce9bb570201e9f005f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7194b4ff5130399352c356852023004d"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a7194b4ff5130399352c356852023004d">~Appender</a> ()</td></tr>
+<tr class="separator:a7194b4ff5130399352c356852023004d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a643046505390b3988572c53051d7d4c1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a643046505390b3988572c53051d7d4c1">getId</a> () const</td></tr>
+<tr class="separator:a643046505390b3988572c53051d7d4c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8414d7de4187a3deb55024278734836f"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a8414d7de4187a3deb55024278734836f">getName</a> () const</td></tr>
+<tr class="separator:a8414d7de4187a3deb55024278734836f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0efa3e131b7c130a9ece375135682ea4"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d0/dd2/a04190.html#aacbd2dccb14fcb75d2651dce582364df">AppenderType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a0efa3e131b7c130a9ece375135682ea4">getType</a> () const =0</td></tr>
+<tr class="separator:a0efa3e131b7c130a9ece375135682ea4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0013fabdf34579153a2d145fdbd8009b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a0013fabdf34579153a2d145fdbd8009b">getLogLevel</a> () const</td></tr>
+<tr class="separator:a0013fabdf34579153a2d145fdbd8009b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a57fad2f7bd4da733633051f47efd6555"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dd2/a04190.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a57fad2f7bd4da733633051f47efd6555">getFlags</a> () const</td></tr>
+<tr class="separator:a57fad2f7bd4da733633051f47efd6555"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6c4e7120a54b7069e157fe9a397d455"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#ae6c4e7120a54b7069e157fe9a397d455">setLogLevel</a> (<a class="el" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>)</td></tr>
+<tr class="separator:ae6c4e7120a54b7069e157fe9a397d455"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33d9f53e1853633d15c78f4edc33e5d3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a33d9f53e1853633d15c78f4edc33e5d3">write</a> (<a class="el" href="../../dc/d0e/a05320.html">LogMessage</a> *message)</td></tr>
+<tr class="separator:a33d9f53e1853633d15c78f4edc33e5d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae13f18ba2b26260f64aedc1ce1806fef"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#ae13f18ba2b26260f64aedc1ce1806fef">setRealmId</a> (<a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:ae13f18ba2b26260f64aedc1ce1806fef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:addc70b7462f6fe4e51e136176f05a6b8"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#addc70b7462f6fe4e51e136176f05a6b8">Sleep</a> (unsigned long msecs)</td></tr>
-<tr class="separator:addc70b7462f6fe4e51e136176f05a6b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a65c7edbd9a1a3ed492485013d1baaf8d"><td class="memItemLeft" align="right" valign="top">static std::thread::id&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a65c7edbd9a1a3ed492485013d1baaf8d">currentId</a> ()</td></tr>
-<tr class="separator:a65c7edbd9a1a3ed492485013d1baaf8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa0ec99ab59463bfe249b64e5f9a7645d"><td class="memItemLeft" align="right" valign="top">static char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#aa0ec99ab59463bfe249b64e5f9a7645d">getLogLevelString</a> (<a class="el" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> <a class="el" href="../../d0/d27/a05296.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>)</td></tr>
+<tr class="separator:aa0ec99ab59463bfe249b64e5f9a7645d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
-<tr class="memitem:ae65c99228766cc135c8dad74af50120e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#ae65c99228766cc135c8dad74af50120e">Thread</a> (const <a class="el" href="../../d0/d27/a05296.html">Thread</a> &amp;)</td></tr>
-<tr class="separator:ae65c99228766cc135c8dad74af50120e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a79ab3cf5b994c65dc196e2c154fabe7a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d27/a05296.html">Thread</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a79ab3cf5b994c65dc196e2c154fabe7a">operator=</a> (const <a class="el" href="../../d0/d27/a05296.html">Thread</a> &amp;)</td></tr>
-<tr class="separator:a79ab3cf5b994c65dc196e2c154fabe7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-static-methods" name="pri-static-methods"></a>
-Static Private Member Functions</h2></td></tr>
-<tr class="memitem:a3e9a687df7ed593abc33f5e5897125e5"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a3e9a687df7ed593abc33f5e5897125e5">ThreadTask</a> (void *param)</td></tr>
-<tr class="separator:a3e9a687df7ed593abc33f5e5897125e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a04e6bf8aca909a3fbadcd053dda85b83"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a04e6bf8aca909a3fbadcd053dda85b83">_write</a> (<a class="el" href="../../dc/d0e/a05320.html">LogMessage</a> const *)=0</td></tr>
+<tr class="separator:a04e6bf8aca909a3fbadcd053dda85b83"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:afa81b66db9223412b20be34f2ee1651f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d2f/a05292.html">Runnable</a> *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#afa81b66db9223412b20be34f2ee1651f">m_task</a></td></tr>
-<tr class="separator:afa81b66db9223412b20be34f2ee1651f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a997822ac4937e995c085c0554ca48d53"><td class="memItemLeft" align="right" valign="top">std::thread::id&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a997822ac4937e995c085c0554ca48d53">m_iThreadId</a></td></tr>
-<tr class="separator:a997822ac4937e995c085c0554ca48d53"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac2b69bbcfc8f20ac6aa2e517311b2861"><td class="memItemLeft" align="right" valign="top">std::thread&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#ac2b69bbcfc8f20ac6aa2e517311b2861">m_ThreadImp</a></td></tr>
-<tr class="separator:ac2b69bbcfc8f20ac6aa2e517311b2861"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2cf4849307b65727645d3caf4205064f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a2cf4849307b65727645d3caf4205064f">id</a></td></tr>
+<tr class="separator:a2cf4849307b65727645d3caf4205064f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0d47660ee41c8816342001825f626a8b"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a0d47660ee41c8816342001825f626a8b">name</a></td></tr>
+<tr class="separator:a0d47660ee41c8816342001825f626a8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2dd9209b754c6676ef86f1a6f7f2295f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a></td></tr>
+<tr class="separator:a2dd9209b754c6676ef86f1a6f7f2295f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8bf6d0a30b1b7ec7acd95e73234e5bd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dd2/a04190.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d27/a05296.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a></td></tr>
+<tr class="separator:aa8bf6d0a30b1b7ec7acd95e73234e5bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a95c703fb8f2f27cb64f475a8c940864a" name="a95c703fb8f2f27cb64f475a8c940864a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a95c703fb8f2f27cb64f475a8c940864a">&#9670;&#160;</a></span>Thread() <span class="overload">[1/3]</span></h2>
+<a id="aed555d5a182fefce9bb570201e9f005f" name="aed555d5a182fefce9bb570201e9f005f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aed555d5a182fefce9bb570201e9f005f">&#9670;&#160;</a></span>Appender()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">Thread::Thread </td>
+          <td class="memname">Appender::Appender </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>_id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>name</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td>
+          <td class="paramname"><em>level</em> = <code><a class="el" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61">LOG_LEVEL_DISABLED</a></code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/dd2/a04190.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a>&#160;</td>
+          <td class="paramname"><em>flags</em> = <code><a class="el" href="../../d0/dd2/a04190.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b">APPENDER_FLAGS_NONE</a></code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   29</span>               : <a class="code hl_variable" href="../../d0/d27/a05296.html#afa81b66db9223412b20be34f2ee1651f">m_task</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d0/d27/a05296.html#a997822ac4937e995c085c0554ca48d53">m_iThreadId</a>(), <a class="code hl_variable" href="../../d0/d27/a05296.html#ac2b69bbcfc8f20ac6aa2e517311b2861">m_ThreadImp</a>()</div>
-<div class="line"><span class="lineno">   30</span>{</div>
-<div class="line"><span class="lineno">   31</span>}</div>
-<div class="ttc" id="aa05296_html_a997822ac4937e995c085c0554ca48d53"><div class="ttname"><a href="../../d0/d27/a05296.html#a997822ac4937e995c085c0554ca48d53">Acore::Thread::m_iThreadId</a></div><div class="ttdeci">std::thread::id m_iThreadId</div><div class="ttdef"><b>Definition:</b> Threading.h:77</div></div>
-<div class="ttc" id="aa05296_html_ac2b69bbcfc8f20ac6aa2e517311b2861"><div class="ttname"><a href="../../d0/d27/a05296.html#ac2b69bbcfc8f20ac6aa2e517311b2861">Acore::Thread::m_ThreadImp</a></div><div class="ttdeci">std::thread m_ThreadImp</div><div class="ttdef"><b>Definition:</b> Threading.h:78</div></div>
-<div class="ttc" id="aa05296_html_afa81b66db9223412b20be34f2ee1651f"><div class="ttname"><a href="../../d0/d27/a05296.html#afa81b66db9223412b20be34f2ee1651f">Acore::Thread::m_task</a></div><div class="ttdeci">Runnable *const m_task</div><div class="ttdef"><b>Definition:</b> Threading.h:76</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   23</span>                                                                                              :</div>
+<div class="line"><span class="lineno">   24</span>    <a class="code hl_variable" href="../../d0/d27/a05296.html#a2cf4849307b65727645d3caf4205064f">id</a>(_id), <a class="code hl_variable" href="../../d0/d27/a05296.html#a0d47660ee41c8816342001825f626a8b">name</a>(_name), <a class="code hl_variable" href="../../d0/d27/a05296.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>(_level), <a class="code hl_variable" href="../../d0/d27/a05296.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a>(_flags) { }</div>
+<div class="ttc" id="aa05296_html_a0d47660ee41c8816342001825f626a8b"><div class="ttname"><a href="../../d0/d27/a05296.html#a0d47660ee41c8816342001825f626a8b">Appender::name</a></div><div class="ttdeci">std::string name</div><div class="ttdef"><b>Definition:</b> Appender.h:49</div></div>
+<div class="ttc" id="aa05296_html_a2cf4849307b65727645d3caf4205064f"><div class="ttname"><a href="../../d0/d27/a05296.html#a2cf4849307b65727645d3caf4205064f">Appender::id</a></div><div class="ttdeci">uint8 id</div><div class="ttdef"><b>Definition:</b> Appender.h:48</div></div>
+<div class="ttc" id="aa05296_html_a2dd9209b754c6676ef86f1a6f7f2295f"><div class="ttname"><a href="../../d0/d27/a05296.html#a2dd9209b754c6676ef86f1a6f7f2295f">Appender::level</a></div><div class="ttdeci">LogLevel level</div><div class="ttdef"><b>Definition:</b> Appender.h:50</div></div>
+<div class="ttc" id="aa05296_html_aa8bf6d0a30b1b7ec7acd95e73234e5bd"><div class="ttname"><a href="../../d0/d27/a05296.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">Appender::flags</a></div><div class="ttdeci">AppenderFlags flags</div><div class="ttdef"><b>Definition:</b> Appender.h:51</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a72d9240b0f28a378bf0e05e97918e25a" name="a72d9240b0f28a378bf0e05e97918e25a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a72d9240b0f28a378bf0e05e97918e25a">&#9670;&#160;</a></span>Thread() <span class="overload">[2/3]</span></h2>
+<a id="a7194b4ff5130399352c356852023004d" name="a7194b4ff5130399352c356852023004d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7194b4ff5130399352c356852023004d">&#9670;&#160;</a></span>~Appender()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -195,94 +229,25 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Thread::Thread </td>
+          <td class="memname">Appender::~Appender </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d2f/a05292.html">Runnable</a> *&#160;</td>
-          <td class="paramname"><em>instance</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">explicit</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   33</span>                                 : <a class="code hl_variable" href="../../d0/d27/a05296.html#afa81b66db9223412b20be34f2ee1651f">m_task</a>(instance), <a class="code hl_variable" href="../../d0/d27/a05296.html#ac2b69bbcfc8f20ac6aa2e517311b2861">m_ThreadImp</a>(&amp;<a class="code hl_function" href="../../d0/d27/a05296.html#a3e9a687df7ed593abc33f5e5897125e5">Thread::ThreadTask</a>, (<span class="keywordtype">void</span>*)<a class="code hl_variable" href="../../d0/d27/a05296.html#afa81b66db9223412b20be34f2ee1651f">m_task</a>)</div>
-<div class="line"><span class="lineno">   34</span>{</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_variable" href="../../d0/d27/a05296.html#a997822ac4937e995c085c0554ca48d53">m_iThreadId</a> = <a class="code hl_variable" href="../../d0/d27/a05296.html#ac2b69bbcfc8f20ac6aa2e517311b2861">m_ThreadImp</a>.get_id();</div>
-<div class="line"><span class="lineno">   36</span> </div>
-<div class="line"><span class="lineno">   37</span>    <span class="comment">// register reference to m_task to prevent it deeltion until destructor</span></div>
-<div class="line"><span class="lineno">   38</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d27/a05296.html#afa81b66db9223412b20be34f2ee1651f">m_task</a>)</div>
-<div class="line"><span class="lineno">   39</span>    {</div>
-<div class="line"><span class="lineno">   40</span>        <a class="code hl_variable" href="../../d0/d27/a05296.html#afa81b66db9223412b20be34f2ee1651f">m_task</a>-&gt;<a class="code hl_function" href="../../dc/d2f/a05292.html#a062323e141fa33ae094adbef16caf3d6">incReference</a>();</div>
-<div class="line"><span class="lineno">   41</span>    }</div>
-<div class="line"><span class="lineno">   42</span>}</div>
-<div class="ttc" id="aa05292_html_a062323e141fa33ae094adbef16caf3d6"><div class="ttname"><a href="../../dc/d2f/a05292.html#a062323e141fa33ae094adbef16caf3d6">Acore::Runnable::incReference</a></div><div class="ttdeci">void incReference()</div><div class="ttdef"><b>Definition:</b> Threading.h:32</div></div>
-<div class="ttc" id="aa05296_html_a3e9a687df7ed593abc33f5e5897125e5"><div class="ttname"><a href="../../d0/d27/a05296.html#a3e9a687df7ed593abc33f5e5897125e5">Acore::Thread::ThreadTask</a></div><div class="ttdeci">static void ThreadTask(void *param)</div><div class="ttdef"><b>Definition:</b> Threading.cpp:91</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00032">Acore::Runnable::incReference()</a>, <a class="el" href="../../#l00077">m_iThreadId</a>, <a class="el" href="../../#l00076">m_task</a>, and <a class="el" href="../../#l00078">m_ThreadImp</a>.</p>
-
-</div>
-</div>
-<a id="a37d9edd3a1a776cbc27dedff949c9726" name="a37d9edd3a1a776cbc27dedff949c9726"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a37d9edd3a1a776cbc27dedff949c9726">&#9670;&#160;</a></span>~Thread()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Thread::~Thread </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
-<div class="line"><span class="lineno">   46</span>    <span class="comment">// Wait();</span></div>
-<div class="line"><span class="lineno">   47</span> </div>
-<div class="line"><span class="lineno">   48</span>    <span class="comment">// deleted runnable object (if no other references)</span></div>
-<div class="line"><span class="lineno">   49</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d27/a05296.html#afa81b66db9223412b20be34f2ee1651f">m_task</a>)</div>
-<div class="line"><span class="lineno">   50</span>    {</div>
-<div class="line"><span class="lineno">   51</span>        <a class="code hl_variable" href="../../d0/d27/a05296.html#afa81b66db9223412b20be34f2ee1651f">m_task</a>-&gt;<a class="code hl_function" href="../../dc/d2f/a05292.html#a69bf63c7f684de6e278de0468ed8fa06">decReference</a>();</div>
-<div class="line"><span class="lineno">   52</span>    }</div>
-<div class="line"><span class="lineno">   53</span>}</div>
-<div class="ttc" id="aa05292_html_a69bf63c7f684de6e278de0468ed8fa06"><div class="ttname"><a href="../../dc/d2f/a05292.html#a69bf63c7f684de6e278de0468ed8fa06">Acore::Runnable::decReference</a></div><div class="ttdeci">void decReference()</div><div class="ttdef"><b>Definition:</b> Threading.h:33</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00033">Acore::Runnable::decReference()</a>, and <a class="el" href="../../#l00076">m_task</a>.</p>
-
-</div>
-</div>
-<a id="ae65c99228766cc135c8dad74af50120e" name="ae65c99228766cc135c8dad74af50120e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae65c99228766cc135c8dad74af50120e">&#9670;&#160;</a></span>Thread() <span class="overload">[3/3]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">Acore::Thread::Thread </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../d0/d27/a05296.html">Thread</a> &amp;&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
+<div class="fragment"><div class="line"><span class="lineno">   26</span>{ }</div>
+</div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a65c7edbd9a1a3ed492485013d1baaf8d" name="a65c7edbd9a1a3ed492485013d1baaf8d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a65c7edbd9a1a3ed492485013d1baaf8d">&#9670;&#160;</a></span>currentId()</h2>
+<a id="a04e6bf8aca909a3fbadcd053dda85b83" name="a04e6bf8aca909a3fbadcd053dda85b83"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a04e6bf8aca909a3fbadcd053dda85b83">&#9670;&#160;</a></span>_write()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -291,9 +256,108 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::thread::id Thread::currentId </td>
+          <td class="memname">virtual void Appender::_write </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/d0e/a05320.html">LogMessage</a> const *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../dc/da0/a05304.html#a94e529229bd707fa2bad0a0206a386d5">AppenderConsole</a>, <a class="el" href="../../d6/d72/a05308.html#a4c20fc9c6519eb63ca3bf74fd1d1f5b5">AppenderFile</a>, and <a class="el" href="../../d7/d68/a05848.html#af38ab76e4d3ea9ebe864582c0030c49a">AppenderDB</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00053">write()</a>.</p>
+
+</div>
+</div>
+<a id="a57fad2f7bd4da733633051f47efd6555" name="a57fad2f7bd4da733633051f47efd6555"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a57fad2f7bd4da733633051f47efd6555">&#9670;&#160;</a></span>getFlags()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/dd2/a04190.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a> Appender::getFlags </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   44</span>{</div>
+<div class="line"><span class="lineno">   45</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d27/a05296.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a>;</div>
+<div class="line"><span class="lineno">   46</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00051">flags</a>.</p>
+
+</div>
+</div>
+<a id="a643046505390b3988572c53051d7d4c1" name="a643046505390b3988572c53051d7d4c1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a643046505390b3988572c53051d7d4c1">&#9670;&#160;</a></span>getId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> Appender::getId </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
+<div class="line"><span class="lineno">   30</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d27/a05296.html#a2cf4849307b65727645d3caf4205064f">id</a>;</div>
+<div class="line"><span class="lineno">   31</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00048">id</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00062">Log::CreateAppenderFromConfig()</a>, and <a class="el" href="../../#l00195">Log::ReadLoggersFromConfig()</a>.</p>
+
+</div>
+</div>
+<a id="a0013fabdf34579153a2d145fdbd8009b" name="a0013fabdf34579153a2d145fdbd8009b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0013fabdf34579153a2d145fdbd8009b">&#9670;&#160;</a></span>getLogLevel()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> Appender::getLogLevel </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
+<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d27/a05296.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>;</div>
+<div class="line"><span class="lineno">   41</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00050">level</a>.</p>
+
+</div>
+</div>
+<a id="aa0ec99ab59463bfe249b64e5f9a7645d" name="aa0ec99ab59463bfe249b64e5f9a7645d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa0ec99ab59463bfe249b64e5f9a7645d">&#9670;&#160;</a></span>getLogLevelString()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">char const  * Appender::getLogLevelString </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td>
+          <td class="paramname"><em>level</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -303,44 +367,62 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>{</div>
-<div class="line"><span class="lineno">   99</span>    <span class="keywordflow">return</span> std::this_thread::get_id();</div>
+<div class="fragment"><div class="line"><span class="lineno">   82</span>{</div>
+<div class="line"><span class="lineno">   83</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d0/d27/a05296.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>)</div>
+<div class="line"><span class="lineno">   84</span>    {</div>
+<div class="line"><span class="lineno">   85</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5">LOG_LEVEL_FATAL</a>:</div>
+<div class="line"><span class="lineno">   86</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;FATAL&quot;</span>;</div>
+<div class="line"><span class="lineno">   87</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f">LOG_LEVEL_ERROR</a>:</div>
+<div class="line"><span class="lineno">   88</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;ERROR&quot;</span>;</div>
+<div class="line"><span class="lineno">   89</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4">LOG_LEVEL_WARN</a>:</div>
+<div class="line"><span class="lineno">   90</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;WARN&quot;</span>;</div>
+<div class="line"><span class="lineno">   91</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4">LOG_LEVEL_INFO</a>:</div>
+<div class="line"><span class="lineno">   92</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;INFO&quot;</span>;</div>
+<div class="line"><span class="lineno">   93</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177">LOG_LEVEL_DEBUG</a>:</div>
+<div class="line"><span class="lineno">   94</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;DEBUG&quot;</span>;</div>
+<div class="line"><span class="lineno">   95</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d">LOG_LEVEL_TRACE</a>:</div>
+<div class="line"><span class="lineno">   96</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;TRACE&quot;</span>;</div>
+<div class="line"><span class="lineno">   97</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">   98</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;DISABLED&quot;</span>;</div>
+<div class="line"><span class="lineno">   99</span>    }</div>
 <div class="line"><span class="lineno">  100</span>}</div>
+<div class="ttc" id="aa04190_html_ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177"><div class="ttname"><a href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177">LOG_LEVEL_DEBUG</a></div><div class="ttdeci">@ LOG_LEVEL_DEBUG</div><div class="ttdef"><b>Definition:</b> LogCommon.h:31</div></div>
+<div class="ttc" id="aa04190_html_ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f"><div class="ttname"><a href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f">LOG_LEVEL_ERROR</a></div><div class="ttdeci">@ LOG_LEVEL_ERROR</div><div class="ttdef"><b>Definition:</b> LogCommon.h:28</div></div>
+<div class="ttc" id="aa04190_html_ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5"><div class="ttname"><a href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5">LOG_LEVEL_FATAL</a></div><div class="ttdeci">@ LOG_LEVEL_FATAL</div><div class="ttdef"><b>Definition:</b> LogCommon.h:27</div></div>
+<div class="ttc" id="aa04190_html_ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d"><div class="ttname"><a href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d">LOG_LEVEL_TRACE</a></div><div class="ttdeci">@ LOG_LEVEL_TRACE</div><div class="ttdef"><b>Definition:</b> LogCommon.h:32</div></div>
+<div class="ttc" id="aa04190_html_ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4"><div class="ttname"><a href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4">LOG_LEVEL_WARN</a></div><div class="ttdeci">@ LOG_LEVEL_WARN</div><div class="ttdef"><b>Definition:</b> LogCommon.h:29</div></div>
+<div class="ttc" id="aa04190_html_ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4"><div class="ttname"><a href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4">LOG_LEVEL_INFO</a></div><div class="ttdeci">@ LOG_LEVEL_INFO</div><div class="ttdef"><b>Definition:</b> LogCommon.h:30</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00050">level</a>, <a class="el" href="../../#l00031">LOG_LEVEL_DEBUG</a>, <a class="el" href="../../#l00028">LOG_LEVEL_ERROR</a>, <a class="el" href="../../#l00027">LOG_LEVEL_FATAL</a>, <a class="el" href="../../#l00030">LOG_LEVEL_INFO</a>, <a class="el" href="../../#l00032">LOG_LEVEL_TRACE</a>, and <a class="el" href="../../#l00029">LOG_LEVEL_WARN</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00053">write()</a>.</p>
+
 </div>
 </div>
-<a id="a4ee8270c681c7faf3d3a6b8271f31796" name="a4ee8270c681c7faf3d3a6b8271f31796"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4ee8270c681c7faf3d3a6b8271f31796">&#9670;&#160;</a></span>destroy()</h2>
+<a id="a8414d7de4187a3deb55024278734836f" name="a8414d7de4187a3deb55024278734836f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8414d7de4187a3deb55024278734836f">&#9670;&#160;</a></span>getName()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void Thread::destroy </td>
+          <td class="memname">std::string const  &amp; Appender::getName </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   79</span>{</div>
-<div class="line"><span class="lineno">   80</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d27/a05296.html#a997822ac4937e995c085c0554ca48d53">m_iThreadId</a> == std::thread::id() || !<a class="code hl_variable" href="../../d0/d27/a05296.html#afa81b66db9223412b20be34f2ee1651f">m_task</a>)</div>
-<div class="line"><span class="lineno">   81</span>    {</div>
-<div class="line"><span class="lineno">   82</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   83</span>    }</div>
-<div class="line"><span class="lineno">   84</span> </div>
-<div class="line"><span class="lineno">   85</span>    <span class="comment">// FIXME: We need to make sure that all threads can be trusted to</span></div>
-<div class="line"><span class="lineno">   86</span>    <span class="comment">// halt execution on their own as this is not an interrupt</span></div>
-<div class="line"><span class="lineno">   87</span>    <a class="code hl_variable" href="../../d0/d27/a05296.html#ac2b69bbcfc8f20ac6aa2e517311b2861">m_ThreadImp</a>.join();</div>
-<div class="line"><span class="lineno">   88</span>    <a class="code hl_variable" href="../../d0/d27/a05296.html#a997822ac4937e995c085c0554ca48d53">m_iThreadId</a> = std::thread::id();</div>
-<div class="line"><span class="lineno">   89</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
+<div class="line"><span class="lineno">   35</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d27/a05296.html#a0d47660ee41c8816342001825f626a8b">name</a>;</div>
+<div class="line"><span class="lineno">   36</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">m_iThreadId</a>, <a class="el" href="../../#l00076">m_task</a>, and <a class="el" href="../../#l00078">m_ThreadImp</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00049">name</a>.</p>
 
 </div>
 </div>
-<a id="a79ab3cf5b994c65dc196e2c154fabe7a" name="a79ab3cf5b994c65dc196e2c154fabe7a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a79ab3cf5b994c65dc196e2c154fabe7a">&#9670;&#160;</a></span>operator=()</h2>
+<a id="a0efa3e131b7c130a9ece375135682ea4" name="a0efa3e131b7c130a9ece375135682ea4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0efa3e131b7c130a9ece375135682ea4">&#9670;&#160;</a></span>getType()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -349,91 +431,50 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d27/a05296.html">Thread</a> &amp; Acore::Thread::operator= </td>
+          <td class="memname">virtual <a class="el" href="../../d0/dd2/a04190.html#aacbd2dccb14fcb75d2651dce582364df">AppenderType</a> Appender::getType </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../d0/d27/a05296.html">Thread</a> &amp;&#160;</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
+<p>Implemented in <a class="el" href="../../dc/da0/a05304.html#a4ae7f47c76b19eb269b26fdf13f14e48">AppenderConsole</a>, <a class="el" href="../../d6/d72/a05308.html#ad978ed158e068f5fa84f9f93aaf99b46">AppenderFile</a>, and <a class="el" href="../../d7/d68/a05848.html#a96221ceed23435556df03c5f7ffab61e">AppenderDB</a>.</p>
+
 </div>
 </div>
-<a id="a4dcbafab5741b819852d6702e5b09369" name="a4dcbafab5741b819852d6702e5b09369"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4dcbafab5741b819852d6702e5b09369">&#9670;&#160;</a></span>setPriority()</h2>
+<a id="ae6c4e7120a54b7069e157fe9a397d455" name="ae6c4e7120a54b7069e157fe9a397d455"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae6c4e7120a54b7069e157fe9a397d455">&#9670;&#160;</a></span>setLogLevel()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void Thread::setPriority </td>
+          <td class="memname">void Appender::setLogLevel </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0">Priority</a>&#160;</td>
-          <td class="paramname"><em>type</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td>
+          <td class="paramname"><em>_level</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  103</span>{</div>
-<div class="line"><span class="lineno">  104</span><span class="preprocessor">#ifdef WIN32</span></div>
-<div class="line"><span class="lineno">  105</span>    std::thread::native_handle_type handle = <a class="code hl_variable" href="../../d0/d27/a05296.html#ac2b69bbcfc8f20ac6aa2e517311b2861">m_ThreadImp</a>.native_handle();</div>
-<div class="line"><span class="lineno">  106</span><span class="preprocessor">#endif</span></div>
-<div class="line"><span class="lineno">  107</span> </div>
-<div class="line"><span class="lineno">  108</span>    <span class="keywordtype">bool</span> _ok = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  109</span> </div>
-<div class="line"><span class="lineno">  110</span>    <span class="keywordflow">switch</span> (priority)</div>
-<div class="line"><span class="lineno">  111</span>    {</div>
-<div class="line"><span class="lineno">  112</span><span class="preprocessor">#ifdef WIN32</span></div>
-<div class="line"><span class="lineno">  113</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0aea947a97dfe2d923de21531be29b1fe1">Priority_Realtime</a>:</div>
-<div class="line"><span class="lineno">  114</span>            _ok = SetThreadPriority(handle, THREAD_PRIORITY_TIME_CRITICAL);</div>
-<div class="line"><span class="lineno">  115</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  116</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0afe73cf9f67a66d8eeb50511bffc0349f">Priority_Highest</a>:</div>
-<div class="line"><span class="lineno">  117</span>            _ok = SetThreadPriority(handle, THREAD_PRIORITY_HIGHEST);</div>
-<div class="line"><span class="lineno">  118</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0ae26951cdc5145b7d4710a65f64fcc15d">Priority_High</a>:</div>
-<div class="line"><span class="lineno">  120</span>            _ok = SetThreadPriority(handle, THREAD_PRIORITY_ABOVE_NORMAL);</div>
-<div class="line"><span class="lineno">  121</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  122</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0a9724af5d135432316625274c94d9d53c">Priority_Normal</a>:</div>
-<div class="line"><span class="lineno">  123</span>            _ok = SetThreadPriority(handle, THREAD_PRIORITY_NORMAL);</div>
-<div class="line"><span class="lineno">  124</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  125</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0a726dc1791c20e19bbdb47763ffec6cc8">Priority_Low</a>:</div>
-<div class="line"><span class="lineno">  126</span>            _ok = SetThreadPriority(handle, THREAD_PRIORITY_BELOW_NORMAL);</div>
-<div class="line"><span class="lineno">  127</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  128</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0a2c1092f67a3addf9410ac00e8a8f62b0">Priority_Lowest</a>:</div>
-<div class="line"><span class="lineno">  129</span>            _ok = SetThreadPriority(handle, THREAD_PRIORITY_LOWEST);</div>
-<div class="line"><span class="lineno">  130</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  131</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0a6540dbe098806722de7130f0cf978d24">Priority_Idle</a>:</div>
-<div class="line"><span class="lineno">  132</span>            _ok = SetThreadPriority(handle, THREAD_PRIORITY_IDLE);</div>
-<div class="line"><span class="lineno">  133</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  134</span><span class="preprocessor">#endif</span></div>
-<div class="line"><span class="lineno">  135</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  136</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  137</span>    }</div>
-<div class="line"><span class="lineno">  138</span> </div>
-<div class="line"><span class="lineno">  139</span>    <span class="comment">// remove this ASSERT in case you don&#39;t want to know is thread priority change was successful or not</span></div>
-<div class="line"><span class="lineno">  140</span>    <a class="code hl_define" href="../../d4/d1e/a00497.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(_ok);</div>
-<div class="line"><span class="lineno">  141</span>}</div>
-<div class="ttc" id="aa00497_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d4/d1e/a00497.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa04668_html_a98ce3c3a6bb5eee03a544054eae9f9f0a2c1092f67a3addf9410ac00e8a8f62b0"><div class="ttname"><a href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0a2c1092f67a3addf9410ac00e8a8f62b0">Acore::Priority_Lowest</a></div><div class="ttdeci">@ Priority_Lowest</div><div class="ttdef"><b>Definition:</b> Threading.h:47</div></div>
-<div class="ttc" id="aa04668_html_a98ce3c3a6bb5eee03a544054eae9f9f0a6540dbe098806722de7130f0cf978d24"><div class="ttname"><a href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0a6540dbe098806722de7130f0cf978d24">Acore::Priority_Idle</a></div><div class="ttdeci">@ Priority_Idle</div><div class="ttdef"><b>Definition:</b> Threading.h:46</div></div>
-<div class="ttc" id="aa04668_html_a98ce3c3a6bb5eee03a544054eae9f9f0a726dc1791c20e19bbdb47763ffec6cc8"><div class="ttname"><a href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0a726dc1791c20e19bbdb47763ffec6cc8">Acore::Priority_Low</a></div><div class="ttdeci">@ Priority_Low</div><div class="ttdef"><b>Definition:</b> Threading.h:48</div></div>
-<div class="ttc" id="aa04668_html_a98ce3c3a6bb5eee03a544054eae9f9f0a9724af5d135432316625274c94d9d53c"><div class="ttname"><a href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0a9724af5d135432316625274c94d9d53c">Acore::Priority_Normal</a></div><div class="ttdeci">@ Priority_Normal</div><div class="ttdef"><b>Definition:</b> Threading.h:49</div></div>
-<div class="ttc" id="aa04668_html_a98ce3c3a6bb5eee03a544054eae9f9f0ae26951cdc5145b7d4710a65f64fcc15d"><div class="ttname"><a href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0ae26951cdc5145b7d4710a65f64fcc15d">Acore::Priority_High</a></div><div class="ttdeci">@ Priority_High</div><div class="ttdef"><b>Definition:</b> Threading.h:50</div></div>
-<div class="ttc" id="aa04668_html_a98ce3c3a6bb5eee03a544054eae9f9f0aea947a97dfe2d923de21531be29b1fe1"><div class="ttname"><a href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0aea947a97dfe2d923de21531be29b1fe1">Acore::Priority_Realtime</a></div><div class="ttdeci">@ Priority_Realtime</div><div class="ttdef"><b>Definition:</b> Threading.h:52</div></div>
-<div class="ttc" id="aa04668_html_a98ce3c3a6bb5eee03a544054eae9f9f0afe73cf9f67a66d8eeb50511bffc0349f"><div class="ttname"><a href="../../d5/d43/a04668.html#a98ce3c3a6bb5eee03a544054eae9f9f0afe73cf9f67a66d8eeb50511bffc0349f">Acore::Priority_Highest</a></div><div class="ttdeci">@ Priority_Highest</div><div class="ttdef"><b>Definition:</b> Threading.h:51</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   49</span>{</div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_variable" href="../../d0/d27/a05296.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a> = _level;</div>
+<div class="line"><span class="lineno">   51</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00078">m_ThreadImp</a>, <a class="el" href="../../#l00050">Acore::Priority_High</a>, <a class="el" href="../../#l00051">Acore::Priority_Highest</a>, <a class="el" href="../../#l00046">Acore::Priority_Idle</a>, <a class="el" href="../../#l00048">Acore::Priority_Low</a>, <a class="el" href="../../#l00047">Acore::Priority_Lowest</a>, <a class="el" href="../../#l00049">Acore::Priority_Normal</a>, and <a class="el" href="../../#l00052">Acore::Priority_Realtime</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00050">level</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00282">Log::SetLogLevel()</a>.</p>
 
 </div>
 </div>
-<a id="addc70b7462f6fe4e51e136176f05a6b8" name="addc70b7462f6fe4e51e136176f05a6b8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#addc70b7462f6fe4e51e136176f05a6b8">&#9670;&#160;</a></span>Sleep()</h2>
+<a id="ae13f18ba2b26260f64aedc1ce1806fef" name="ae13f18ba2b26260f64aedc1ce1806fef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae13f18ba2b26260f64aedc1ce1806fef">&#9670;&#160;</a></span>setRealmId()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -442,102 +483,84 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void Thread::Sleep </td>
+          <td class="memname">virtual void Appender::setRealmId </td>
           <td>(</td>
-          <td class="paramtype">unsigned long&#160;</td>
-          <td class="paramname"><em>msecs</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  144</span>{</div>
-<div class="line"><span class="lineno">  145</span>    std::this_thread::sleep_for(std::chrono::milliseconds(msecs));</div>
-<div class="line"><span class="lineno">  146</span>}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a3e9a687df7ed593abc33f5e5897125e5" name="a3e9a687df7ed593abc33f5e5897125e5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3e9a687df7ed593abc33f5e5897125e5">&#9670;&#160;</a></span>ThreadTask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void Thread::ThreadTask </td>
-          <td>(</td>
-          <td class="paramtype">void *&#160;</td>
-          <td class="paramname"><em>param</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   92</span>{</div>
-<div class="line"><span class="lineno">   93</span>    <a class="code hl_class" href="../../dc/d2f/a05292.html">Runnable</a>* _task = (<a class="code hl_class" href="../../dc/d2f/a05292.html">Runnable</a>*)param;</div>
-<div class="line"><span class="lineno">   94</span>    _task-&gt;<a class="code hl_function" href="../../dc/d2f/a05292.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9">run</a>();</div>
-<div class="line"><span class="lineno">   95</span>}</div>
-<div class="ttc" id="aa05292_html"><div class="ttname"><a href="../../dc/d2f/a05292.html">Acore::Runnable</a></div><div class="ttdef"><b>Definition:</b> Threading.h:27</div></div>
-<div class="ttc" id="aa05292_html_ad92d9c0459fbcc59d2b0d8fe2ed620c9"><div class="ttname"><a href="../../dc/d2f/a05292.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9">Acore::Runnable::run</a></div><div class="ttdeci">virtual void run()=0</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../dc/d2f/a05292.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9">Acore::Runnable::run()</a>.</p>
-
-</div>
-</div>
-<a id="a29758de9c29e1437e234ab8d2a3e07d0" name="a29758de9c29e1437e234ab8d2a3e07d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a29758de9c29e1437e234ab8d2a3e07d0">&#9670;&#160;</a></span>wait()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool Thread::wait </td>
-          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   56</span>{</div>
-<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d27/a05296.html#a997822ac4937e995c085c0554ca48d53">m_iThreadId</a> == std::thread::id() || !<a class="code hl_variable" href="../../d0/d27/a05296.html#afa81b66db9223412b20be34f2ee1651f">m_task</a>)</div>
-<div class="line"><span class="lineno">   58</span>    {</div>
-<div class="line"><span class="lineno">   59</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   60</span>    }</div>
+
+<p>Reimplemented in <a class="el" href="../../d7/d68/a05848.html#a769ff59f4dbbff1b77398dd20c016ace">AppenderDB</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   43</span>{ }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a33d9f53e1853633d15c78f4edc33e5d3" name="a33d9f53e1853633d15c78f4edc33e5d3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33d9f53e1853633d15c78f4edc33e5d3">&#9670;&#160;</a></span>write()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Appender::write </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/d0e/a05320.html">LogMessage</a> *&#160;</td>
+          <td class="paramname"><em>message</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   54</span>{</div>
+<div class="line"><span class="lineno">   55</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d0/d27/a05296.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a> || level &lt; message-&gt;<a class="code hl_variable" href="../../d0/d27/a05296.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>)</div>
+<div class="line"><span class="lineno">   56</span>    {</div>
+<div class="line"><span class="lineno">   57</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   58</span>    }</div>
+<div class="line"><span class="lineno">   59</span> </div>
+<div class="line"><span class="lineno">   60</span>    std::ostringstream ss;</div>
 <div class="line"><span class="lineno">   61</span> </div>
-<div class="line"><span class="lineno">   62</span>    <span class="keywordtype">bool</span> res = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   63</span> </div>
-<div class="line"><span class="lineno">   64</span>    <span class="keywordflow">try</span></div>
-<div class="line"><span class="lineno">   65</span>    {</div>
-<div class="line"><span class="lineno">   66</span>        <a class="code hl_variable" href="../../d0/d27/a05296.html#ac2b69bbcfc8f20ac6aa2e517311b2861">m_ThreadImp</a>.join();</div>
-<div class="line"><span class="lineno">   67</span>    }</div>
-<div class="line"><span class="lineno">   68</span>    <span class="keywordflow">catch</span> (std::system_error&amp;)</div>
-<div class="line"><span class="lineno">   69</span>    {</div>
-<div class="line"><span class="lineno">   70</span>        res = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   71</span>    }</div>
-<div class="line"><span class="lineno">   72</span> </div>
-<div class="line"><span class="lineno">   73</span>    <a class="code hl_variable" href="../../d0/d27/a05296.html#a997822ac4937e995c085c0554ca48d53">m_iThreadId</a> = std::thread::id();</div>
-<div class="line"><span class="lineno">   74</span> </div>
-<div class="line"><span class="lineno">   75</span>    <span class="keywordflow">return</span> res;</div>
-<div class="line"><span class="lineno">   76</span>}</div>
+<div class="line"><span class="lineno">   62</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d27/a05296.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a> &amp; <a class="code hl_enumvalue" href="../../d0/dd2/a04190.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46">APPENDER_FLAGS_PREFIX_TIMESTAMP</a>)</div>
+<div class="line"><span class="lineno">   63</span>    {</div>
+<div class="line"><span class="lineno">   64</span>        ss &lt;&lt; message-&gt;<a class="code hl_function" href="../../dc/d0e/a05320.html#af40f502e57bf12f31fc7a2fe60584fc8">getTimeStr</a>() &lt;&lt; <span class="charliteral">&#39; &#39;</span>;</div>
+<div class="line"><span class="lineno">   65</span>    }</div>
+<div class="line"><span class="lineno">   66</span> </div>
+<div class="line"><span class="lineno">   67</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d27/a05296.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a> &amp; <a class="code hl_enumvalue" href="../../d0/dd2/a04190.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e">APPENDER_FLAGS_PREFIX_LOGLEVEL</a>)</div>
+<div class="line"><span class="lineno">   68</span>    {</div>
+<div class="line"><span class="lineno">   69</span>        ss &lt;&lt; <a class="code hl_function" href="../../d1/d86/a04746.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(<span class="stringliteral">&quot;{} &quot;</span>, <a class="code hl_function" href="../../d0/d27/a05296.html#aa0ec99ab59463bfe249b64e5f9a7645d">Appender::getLogLevelString</a>(message-&gt;<a class="code hl_variable" href="../../dc/d0e/a05320.html#a44096654072d07e506ef6414a8ce4970">level</a>));</div>
+<div class="line"><span class="lineno">   70</span>    }</div>
+<div class="line"><span class="lineno">   71</span> </div>
+<div class="line"><span class="lineno">   72</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d27/a05296.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a> &amp; <a class="code hl_enumvalue" href="../../d0/dd2/a04190.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b">APPENDER_FLAGS_PREFIX_LOGFILTERTYPE</a>)</div>
+<div class="line"><span class="lineno">   73</span>    {</div>
+<div class="line"><span class="lineno">   74</span>        ss &lt;&lt; <span class="charliteral">&#39;[&#39;</span> &lt;&lt; message-&gt;<a class="code hl_variable" href="../../dc/d0e/a05320.html#a77105c721645df5654e3c48ce00c2b5a">type</a> &lt;&lt; <span class="stringliteral">&quot;] &quot;</span>;</div>
+<div class="line"><span class="lineno">   75</span>    }</div>
+<div class="line"><span class="lineno">   76</span> </div>
+<div class="line"><span class="lineno">   77</span>    message-&gt;<a class="code hl_variable" href="../../dc/d0e/a05320.html#afe279a591acc9740457c3cd58d43a263">prefix</a> = ss.str();</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_function" href="../../d0/d27/a05296.html#a04e6bf8aca909a3fbadcd053dda85b83">_write</a>(message);</div>
+<div class="line"><span class="lineno">   79</span>}</div>
+<div class="ttc" id="aa04190_html_a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46"><div class="ttname"><a href="../../d0/dd2/a04190.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46">APPENDER_FLAGS_PREFIX_TIMESTAMP</a></div><div class="ttdeci">@ APPENDER_FLAGS_PREFIX_TIMESTAMP</div><div class="ttdef"><b>Definition:</b> LogCommon.h:53</div></div>
+<div class="ttc" id="aa04190_html_a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b"><div class="ttname"><a href="../../d0/dd2/a04190.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b">APPENDER_FLAGS_PREFIX_LOGFILTERTYPE</a></div><div class="ttdeci">@ APPENDER_FLAGS_PREFIX_LOGFILTERTYPE</div><div class="ttdef"><b>Definition:</b> LogCommon.h:55</div></div>
+<div class="ttc" id="aa04190_html_a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e"><div class="ttname"><a href="../../d0/dd2/a04190.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e">APPENDER_FLAGS_PREFIX_LOGLEVEL</a></div><div class="ttdeci">@ APPENDER_FLAGS_PREFIX_LOGLEVEL</div><div class="ttdef"><b>Definition:</b> LogCommon.h:54</div></div>
+<div class="ttc" id="aa04746_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../d1/d86/a04746.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:34</div></div>
+<div class="ttc" id="aa05296_html_a04e6bf8aca909a3fbadcd053dda85b83"><div class="ttname"><a href="../../d0/d27/a05296.html#a04e6bf8aca909a3fbadcd053dda85b83">Appender::_write</a></div><div class="ttdeci">virtual void _write(LogMessage const *)=0</div></div>
+<div class="ttc" id="aa05296_html_aa0ec99ab59463bfe249b64e5f9a7645d"><div class="ttname"><a href="../../d0/d27/a05296.html#aa0ec99ab59463bfe249b64e5f9a7645d">Appender::getLogLevelString</a></div><div class="ttdeci">static char const * getLogLevelString(LogLevel level)</div><div class="ttdef"><b>Definition:</b> Appender.cpp:81</div></div>
+<div class="ttc" id="aa05320_html_a44096654072d07e506ef6414a8ce4970"><div class="ttname"><a href="../../dc/d0e/a05320.html#a44096654072d07e506ef6414a8ce4970">LogMessage::level</a></div><div class="ttdeci">LogLevel const level</div><div class="ttdef"><b>Definition:</b> LogMessage.h:37</div></div>
+<div class="ttc" id="aa05320_html_a77105c721645df5654e3c48ce00c2b5a"><div class="ttname"><a href="../../dc/d0e/a05320.html#a77105c721645df5654e3c48ce00c2b5a">LogMessage::type</a></div><div class="ttdeci">std::string const type</div><div class="ttdef"><b>Definition:</b> LogMessage.h:38</div></div>
+<div class="ttc" id="aa05320_html_af40f502e57bf12f31fc7a2fe60584fc8"><div class="ttname"><a href="../../dc/d0e/a05320.html#af40f502e57bf12f31fc7a2fe60584fc8">LogMessage::getTimeStr</a></div><div class="ttdeci">static std::string getTimeStr(Seconds time)</div><div class="ttdef"><b>Definition:</b> LogMessage.cpp:27</div></div>
+<div class="ttc" id="aa05320_html_afe279a591acc9740457c3cd58d43a263"><div class="ttname"><a href="../../dc/d0e/a05320.html#afe279a591acc9740457c3cd58d43a263">LogMessage::prefix</a></div><div class="ttdeci">std::string prefix</div><div class="ttdef"><b>Definition:</b> LogMessage.h:40</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">m_iThreadId</a>, <a class="el" href="../../#l00076">m_task</a>, and <a class="el" href="../../#l00078">m_ThreadImp</a>.</p>
+<p class="reference">References <a class="el" href="../../d0/d27/a05296.html#a04e6bf8aca909a3fbadcd053dda85b83">_write()</a>, <a class="el" href="../../#l00055">APPENDER_FLAGS_PREFIX_LOGFILTERTYPE</a>, <a class="el" href="../../#l00054">APPENDER_FLAGS_PREFIX_LOGLEVEL</a>, <a class="el" href="../../#l00053">APPENDER_FLAGS_PREFIX_TIMESTAMP</a>, <a class="el" href="../../#l00051">flags</a>, <a class="el" href="../../#l00081">getLogLevelString()</a>, <a class="el" href="../../#l00027">LogMessage::getTimeStr()</a>, <a class="el" href="../../#l00050">level</a>, <a class="el" href="../../#l00037">LogMessage::level</a>, <a class="el" href="../../#l00040">LogMessage::prefix</a>, <a class="el" href="../../#l00034">Acore::StringFormat()</a>, and <a class="el" href="../../#l00038">LogMessage::type</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a997822ac4937e995c085c0554ca48d53" name="a997822ac4937e995c085c0554ca48d53"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a997822ac4937e995c085c0554ca48d53">&#9670;&#160;</a></span>m_iThreadId</h2>
+<a id="aa8bf6d0a30b1b7ec7acd95e73234e5bd" name="aa8bf6d0a30b1b7ec7acd95e73234e5bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa8bf6d0a30b1b7ec7acd95e73234e5bd">&#9670;&#160;</a></span>flags</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -546,7 +569,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::thread::id Acore::Thread::m_iThreadId</td>
+          <td class="memname"><a class="el" href="../../d0/dd2/a04190.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a> Appender::flags</td>
         </tr>
       </table>
   </td>
@@ -556,12 +579,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00078">destroy()</a>, <a class="el" href="../../#l00033">Thread()</a>, and <a class="el" href="../../#l00055">wait()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00025">AppenderFile::AppenderFile()</a>, <a class="el" href="../../#l00043">getFlags()</a>, and <a class="el" href="../../#l00053">write()</a>.</p>
 
 </div>
 </div>
-<a id="afa81b66db9223412b20be34f2ee1651f" name="afa81b66db9223412b20be34f2ee1651f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa81b66db9223412b20be34f2ee1651f">&#9670;&#160;</a></span>m_task</h2>
+<a id="a2cf4849307b65727645d3caf4205064f" name="a2cf4849307b65727645d3caf4205064f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2cf4849307b65727645d3caf4205064f">&#9670;&#160;</a></span>id</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -570,7 +593,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d2f/a05292.html">Runnable</a>* const Acore::Thread::m_task</td>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> Appender::id</td>
         </tr>
       </table>
   </td>
@@ -580,12 +603,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00078">destroy()</a>, <a class="el" href="../../#l00033">Thread()</a>, <a class="el" href="../../#l00055">wait()</a>, and <a class="el" href="../../#l00044">~Thread()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00028">getId()</a>.</p>
 
 </div>
 </div>
-<a id="ac2b69bbcfc8f20ac6aa2e517311b2861" name="ac2b69bbcfc8f20ac6aa2e517311b2861"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac2b69bbcfc8f20ac6aa2e517311b2861">&#9670;&#160;</a></span>m_ThreadImp</h2>
+<a id="a2dd9209b754c6676ef86f1a6f7f2295f" name="a2dd9209b754c6676ef86f1a6f7f2295f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2dd9209b754c6676ef86f1a6f7f2295f">&#9670;&#160;</a></span>level</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -594,7 +617,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::thread Acore::Thread::m_ThreadImp</td>
+          <td class="memname"><a class="el" href="../../d0/dd2/a04190.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> Appender::level</td>
         </tr>
       </table>
   </td>
@@ -604,7 +627,31 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00078">destroy()</a>, <a class="el" href="../../#l00102">setPriority()</a>, <a class="el" href="../../#l00033">Thread()</a>, and <a class="el" href="../../#l00055">wait()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00038">getLogLevel()</a>, <a class="el" href="../../#l00081">getLogLevelString()</a>, <a class="el" href="../../#l00048">setLogLevel()</a>, and <a class="el" href="../../#l00053">write()</a>.</p>
+
+</div>
+</div>
+<a id="a0d47660ee41c8816342001825f626a8b" name="a0d47660ee41c8816342001825f626a8b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0d47660ee41c8816342001825f626a8b">&#9670;&#160;</a></span>name</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string Appender::name</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00030">AppenderConsole::AppenderConsole()</a>, <a class="el" href="../../#l00025">AppenderFile::AppenderFile()</a>, <a class="el" href="../../#l00033">getName()</a>, and <a class="el" href="../../#l00044">AppenderConsole::InitColors()</a>.</p>
 
 </div>
 </div>
@@ -613,8 +660,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d5/d43/a04668.html">Acore</a></li><li class="navelem"><a class="el" href="../../d0/d27/a05296.html">Thread</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:44:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/d27/a05296.html">Appender</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:43:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

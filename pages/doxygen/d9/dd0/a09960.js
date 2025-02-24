@@ -1,6 +1,9 @@
 var a09960 =
 [
-    [ "BattlegroundMapScript", "d9/dd0/a09960.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
-    [ "checkValidity", "d9/dd0/a09960.html#a90584770132eb71cffc6e25a674750ad", null ],
-    [ "isAfterLoadScript", "d9/dd0/a09960.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
+    [ "PathMovementBase", "d9/dd0/a09960.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
+    [ "PathMovementBase", "d9/dd0/a09960.html#a953fcda0cf7764f659fc5a4a19408550", null ],
+    [ "~PathMovementBase", "d9/dd0/a09960.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
+    [ "GetCurrentNode", "d9/dd0/a09960.html#a7ceb52928f2198392980c3926516fd82", null ],
+    [ "i_currentNode", "d9/dd0/a09960.html#a5420aef90d3529881ef41362ebb29934", null ],
+    [ "i_path", "d9/dd0/a09960.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
 ];

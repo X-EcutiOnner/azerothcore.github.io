@@ -1,7 +1,6 @@
 var a21812 =
 [
-    [ "HandleDummy", "d4/d8e/a21812.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
-    [ "PrepareSpellScript", "d4/d8e/a21812.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
-    [ "Register", "d4/d8e/a21812.html#a45f80e0436f93a597deb4653852df6a1", null ],
-    [ "Validate", "d4/d8e/a21812.html#ad13fdade1fb7455485bfd68687de53c5", null ]
+    [ "npc_rocket_propelled_warheadAI", "d0/df3/a21816.html", "d0/df3/a21816" ],
+    [ "npc_rocket_propelled_warhead", "d4/d8e/a21812.html#a5c945efc6e3ca847363ac47abc5f51ca", null ],
+    [ "GetAI", "d4/d8e/a21812.html#a803702c480107d197845a0ef447a5380", null ]
 ];

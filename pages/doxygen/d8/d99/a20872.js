@@ -1,6 +1,7 @@
 var a20872 =
 [
-    [ "CheckCast", "d8/d99/a20872.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d8/d99/a20872.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d8/d99/a20872.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "HandleEffectPeriodic", "d8/d99/a20872.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
+    [ "PrepareAuraScript", "d8/d99/a20872.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
+    [ "Register", "d8/d99/a20872.html#a74052d7da1523b3c4010465510e5fe04", null ],
+    [ "Validate", "d8/d99/a20872.html#a587a469c649877f80e8fe80062e8b5d4", null ]
 ];

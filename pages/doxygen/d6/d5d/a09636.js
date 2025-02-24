@@ -1,14 +1,15 @@
 var a09636 =
 [
-    [ "~MovementGenerator", "d6/d5d/a09636.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
-    [ "Finalize", "d6/d5d/a09636.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
-    [ "GetMovementGeneratorType", "d6/d5d/a09636.html#a60bac341b438ea7258986f234a952324", null ],
-    [ "GetResetPosition", "d6/d5d/a09636.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
-    [ "GetSplineId", "d6/d5d/a09636.html#a99865a1b7cf84b02784bfa8df958585f", null ],
-    [ "Initialize", "d6/d5d/a09636.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
-    [ "Pause", "d6/d5d/a09636.html#a37530e5cd743faecabd21eba08dce939", null ],
-    [ "Reset", "d6/d5d/a09636.html#aa6641fa1182551421fc8572afad8e083", null ],
-    [ "Resume", "d6/d5d/a09636.html#a51988a8b0a45459242467e38ca46303c", null ],
-    [ "unitSpeedChanged", "d6/d5d/a09636.html#a0f9c4fd52947688dcda1161924e829bb", null ],
-    [ "Update", "d6/d5d/a09636.html#ae3014d8c6e728799c86134ef64737ed5", null ]
+    [ "LootStoreItem", "d6/d5d/a09636.html#a10250dce57b2b8103c6ac11aa1ac2f0f", null ],
+    [ "IsValid", "d6/d5d/a09636.html#ae5fc113c31d96bc7ca31a5bc36ab2fcf", null ],
+    [ "Roll", "d6/d5d/a09636.html#a87cc7956b131a16aee7bd5d4808193df", null ],
+    [ "chance", "d6/d5d/a09636.html#a20411103b449a9176b3bc665f909f06f", null ],
+    [ "conditions", "d6/d5d/a09636.html#a88812a51fb467a189f2824ad8b3198e8", null ],
+    [ "groupid", "d6/d5d/a09636.html#abc6df381782d25490dff0e54bec63b3a", null ],
+    [ "itemid", "d6/d5d/a09636.html#a5df1d4fde5f3358470bd16f7ad9154c1", null ],
+    [ "lootmode", "d6/d5d/a09636.html#ab5f7b258bd5cfe4263acd9e0b253b166", null ],
+    [ "maxcount", "d6/d5d/a09636.html#a96012059cc6affa8120ef544682781d2", null ],
+    [ "mincount", "d6/d5d/a09636.html#ada6a4d427187361c6bc33bdde789e809", null ],
+    [ "needs_quest", "d6/d5d/a09636.html#a5a2fe7ae48508b88bbdfc70fc4035f31", null ],
+    [ "reference", "d6/d5d/a09636.html#a374a94e34095a1beb38abca43069d0b6", null ]
 ];

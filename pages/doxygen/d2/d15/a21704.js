@@ -1,6 +1,6 @@
 var a21704 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d2/d15/a21704.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "d2/d15/a21704.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "d2/d15/a21704.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d1/d05/a21708.html", "d1/d05/a21708" ],
+    [ "npc_commander_eligor_dawnbringer", "d2/d15/a21704.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "d2/d15/a21704.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

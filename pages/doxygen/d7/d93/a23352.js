@@ -1,6 +1,6 @@
 var a23352 =
 [
-    [ "HandlePeriodic", "d7/d93/a23352.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
-    [ "PrepareAuraScript", "d7/d93/a23352.html#a75515896f3d94d227963a3c5258e2d0d", null ],
-    [ "Register", "d7/d93/a23352.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d8/de0/a23356.html", "d8/de0/a23356" ],
+    [ "instance_gruuls_lair", "d7/d93/a23352.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "d7/d93/a23352.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

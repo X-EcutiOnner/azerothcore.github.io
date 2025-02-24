@@ -1,6 +1,5 @@
 var a03110 =
 [
-    [ "CharacterCacheEntry", "d4/d87/a07406.html", "d4/d87/a07406" ],
-    [ "CharacterCache", "d9/d20/a07410.html", "d9/d20/a07410" ],
-    [ "sCharacterCache", "df/d64/a03110.html#a7a32c898b33d6163d83a32f46d58517c", null ]
+    [ "_characterCacheByNameStore", "df/d64/a03110.html#a409431c82eb6a62b40d55a773cdb02c6", null ],
+    [ "_characterCacheStore", "df/d64/a03110.html#a2a209686002fed926e50d55f7c7ca795", null ]
 ];

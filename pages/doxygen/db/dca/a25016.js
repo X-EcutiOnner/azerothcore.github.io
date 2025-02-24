@@ -1,8 +1,7 @@
 var a25016 =
 [
-    [ "CheckRequirement", "db/dca/a25016.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
-    [ "HandleScript", "db/dca/a25016.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
-    [ "Load", "db/dca/a25016.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
-    [ "PrepareSpellScript", "db/dca/a25016.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
-    [ "Register", "db/dca/a25016.html#a89d053e0ee793017c74188aac32d99d5", null ]
+    [ "HandleApplyEffect", "db/dca/a25016.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
+    [ "Load", "db/dca/a25016.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
+    [ "PrepareAuraScript", "db/dca/a25016.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
+    [ "Register", "db/dca/a25016.html#aed57fbbf473b8f15fa177261e4678e96", null ]
 ];

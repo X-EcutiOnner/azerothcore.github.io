@@ -1,13 +1,13 @@
 var a00908 =
 [
-    [ "boss_jaraxxus", "da/db0/a16346.html", "da/db0/a16346" ],
-    [ "boss_jaraxxus::boss_jaraxxusAI", "d7/df9/a16350.html", "d7/df9/a16350" ],
-    [ "npc_fel_infernal", "d9/d78/a16354.html", "d9/d78/a16354" ],
-    [ "npc_fel_infernal::npc_fel_infernalAI", "d4/d26/a16358.html", "d4/d26/a16358" ],
-    [ "npc_mistress_of_pain", "da/d34/a16362.html", "da/d34/a16362" ],
-    [ "npc_mistress_of_pain::npc_mistress_of_painAI", "d6/d10/a16366.html", "d6/d10/a16366" ],
-    [ "spell_toc25_mistress_kiss_aura", "dc/d19/a16370.html", "dc/d19/a16370" ],
-    [ "spell_mistress_kiss_area", "d0/d21/a16374.html", "d0/d21/a16374" ],
+    [ "boss_jaraxxus", "df/d20/a16364.html", "df/d20/a16364" ],
+    [ "boss_jaraxxus::boss_jaraxxusAI", "d4/d09/a16368.html", "d4/d09/a16368" ],
+    [ "npc_fel_infernal", "d8/d80/a16372.html", "d8/d80/a16372" ],
+    [ "npc_fel_infernal::npc_fel_infernalAI", "df/dae/a16376.html", "df/dae/a16376" ],
+    [ "npc_mistress_of_pain", "d9/d74/a16380.html", "d9/d74/a16380" ],
+    [ "npc_mistress_of_pain::npc_mistress_of_painAI", "d1/d78/a16384.html", "d1/d78/a16384" ],
+    [ "spell_toc25_mistress_kiss_aura", "db/dac/a16388.html", "db/dac/a16388" ],
+    [ "spell_mistress_kiss_area", "d9/d7a/a16392.html", "d9/d7a/a16392" ],
     [ "JaraxxusEvents", "d0/d85/a00908.html#a8720becd3353ce4c1eaf4b10f65c3bf3", [
       [ "EVENT_SPELL_FEL_FIREBALL", "d0/d85/a00908.html#a8720becd3353ce4c1eaf4b10f65c3bf3a9631463a0db16f2a5c6e611704b43508", null ],
       [ "EVENT_SPELL_FEL_LIGHTNING", "d0/d85/a00908.html#a8720becd3353ce4c1eaf4b10f65c3bf3a1de9015cbd472ec6adbb63af3e399005", null ],

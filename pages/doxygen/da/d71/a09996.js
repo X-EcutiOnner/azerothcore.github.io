@@ -1,6 +1,8 @@
 var a09996 =
 [
-    [ "ElunaScript", "da/d71/a09996.html#a1b4a815f484b4048f7e1fa7ec5282eef", null ],
-    [ "CanAreaTrigger", "da/d71/a09996.html#a47f8793586dd27dd4eb42eb5379828b0", null ],
-    [ "OnWeatherChange", "da/d71/a09996.html#af09f40df2d02a57c92d7e05d19f35549", null ]
+    [ "Location", "da/d71/a09996.html#a0c601d413eeb398eb75d386c264ef5ab", null ],
+    [ "Location", "da/d71/a09996.html#ae013ab2bf44bb250644573625bf93265", null ],
+    [ "Location", "da/d71/a09996.html#a0d50c28ba40b409a0c5a9776bfe8ef42", null ],
+    [ "Location", "da/d71/a09996.html#a1270aec177f47a607cb5a1472819c738", null ],
+    [ "orientation", "da/d71/a09996.html#a9fc2637d4441d90c528eaef0f0414b98", null ]
 ];

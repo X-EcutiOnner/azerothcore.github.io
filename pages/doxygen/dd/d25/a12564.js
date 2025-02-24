@@ -1,6 +1,6 @@
 var a12564 =
 [
-    [ "npc_dkc1_gothikAI", "d3/de1/a12568.html", "d3/de1/a12568" ],
-    [ "npc_dkc1_gothik", "dd/d25/a12564.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
-    [ "GetAI", "dd/d25/a12564.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
+    [ "FilterTargets", "dd/d25/a12564.html#adae7a812a222a60f9c89cac4ea327011", null ],
+    [ "PrepareSpellScript", "dd/d25/a12564.html#a9576a48a3aa761c103f72586cd93970c", null ],
+    [ "Register", "dd/d25/a12564.html#aaadad68c322eac268ea7a45f9c369c59", null ]
 ];

@@ -1,7 +1,7 @@
 var a28276 =
 [
-    [ "from", "d6/d18/a28276.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
-    [ "ID", "d6/d18/a28276.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
-    [ "price", "d6/d18/a28276.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
-    [ "to", "d6/d18/a28276.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
+    [ "TalentSpellPos", "d6/d18/a28276.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "d6/d18/a28276.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "d6/d18/a28276.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "d6/d18/a28276.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

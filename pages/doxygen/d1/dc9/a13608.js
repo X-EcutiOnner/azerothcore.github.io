@@ -1,7 +1,10 @@
 var a13608 =
 [
-    [ "boss_darkheartAI", "d1/dc9/a13608.html#ad6d9bfca9061cfeba364c573a9121ca8", null ],
-    [ "Reset", "d1/dc9/a13608.html#ab1a7a8d509c332088b169b755afd81de", null ],
-    [ "UpdateAI", "d1/dc9/a13608.html#a69eea4895a3f93382e57409c409ce797", null ],
-    [ "psychicwail_timer", "d1/dc9/a13608.html#a3ef8d1d7b5dd4283d2281ca067c25b98", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d1/dc9/a13608.html#af7d495f489979690615d091bbd9d539b", null ],
+    [ "CanAIAttack", "d1/dc9/a13608.html#af332a66852c9499912d8ef4959f394f5", null ],
+    [ "InitializeAI", "d1/dc9/a13608.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
+    [ "JustRespawned", "d1/dc9/a13608.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
+    [ "Reset", "d1/dc9/a13608.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
+    [ "UpdateAI", "d1/dc9/a13608.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
+    [ "_events", "d1/dc9/a13608.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
 ];

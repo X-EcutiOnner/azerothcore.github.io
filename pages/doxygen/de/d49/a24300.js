@@ -1,5 +1,13 @@
 var a24300 =
 [
-    [ "npc_pet_dk_ghoulAI", "de/d49/a24300.html#a7e747ba9e709eb532b0c16c8a1c1763a", null ],
-    [ "JustDied", "de/d49/a24300.html#a7d964fafeb0a7746a7749a9e0eb93080", null ]
+    [ "npc_pet_mage_mirror_image", "de/d49/a24300.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
+    [ "EnterEvadeMode", "de/d49/a24300.html#a858b070fb53112dc78554f0b20cd876a", null ],
+    [ "InitializeAI", "de/d49/a24300.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
+    [ "MySelectNextTarget", "de/d49/a24300.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
+    [ "Reset", "de/d49/a24300.html#a79a8c153ab61c619d928ec5535e67077", null ],
+    [ "UpdateAI", "de/d49/a24300.html#aa219b3adc38b625c6885089895b941b4", null ],
+    [ "_ebonGargoyleGUID", "de/d49/a24300.html#a8be57d06114f108e74b850ce66722bf3", null ],
+    [ "checktarget", "de/d49/a24300.html#a074611355768dc2072da69ed9d72242b", null ],
+    [ "dist", "de/d49/a24300.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
+    [ "selectionTimer", "de/d49/a24300.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
 ];

@@ -1,10 +1,13 @@
 var a08984 =
 [
-    [ "MostHPPercentMissingInRange", "de/d7c/a08984.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
-    [ "operator()", "de/d7c/a08984.html#ab1734490a3db95ad715756e85ecfaf77", null ],
-    [ "i_hpPct", "de/d7c/a08984.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
-    [ "i_maxHpPct", "de/d7c/a08984.html#afd12795ef0cd99e05e4e21f869582416", null ],
-    [ "i_minHpPct", "de/d7c/a08984.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
-    [ "i_obj", "de/d7c/a08984.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
-    [ "i_range", "de/d7c/a08984.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
+    [ "QuestPOI", "de/d7c/a08984.html#af4ce75549d1fff2042e98683119214a6", null ],
+    [ "QuestPOI", "de/d7c/a08984.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
+    [ "AreaId", "de/d7c/a08984.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
+    [ "FloorId", "de/d7c/a08984.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
+    [ "Id", "de/d7c/a08984.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
+    [ "MapId", "de/d7c/a08984.html#a851f8e6e62373d2592173534754d757b", null ],
+    [ "ObjectiveIndex", "de/d7c/a08984.html#ad80f65110beacd44e667008387e6bb70", null ],
+    [ "points", "de/d7c/a08984.html#aeb505cb061a00ecaa2acc749e391f207", null ],
+    [ "Unk3", "de/d7c/a08984.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
+    [ "Unk4", "de/d7c/a08984.html#aa8089160bb8e93ea79df96b956050b70", null ]
 ];

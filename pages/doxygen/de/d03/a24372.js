@@ -1,9 +1,6 @@
 var a24372 =
 [
-    [ "npc_pet_gen_toxic_wasteling", "de/d03/a24372.html#a550a1a9324f605b1a9fd715571f819b7", null ],
-    [ "EnterEvadeMode", "de/d03/a24372.html#abe25deca7fd1c319085995657d62f22a", null ],
-    [ "MovementInform", "de/d03/a24372.html#aec73d567c3bd178ffee3bdece83a409e", null ],
-    [ "Reset", "de/d03/a24372.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
-    [ "UpdateAI", "de/d03/a24372.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
-    [ "checkTimer", "de/d03/a24372.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
+    [ "HandleProc", "de/d03/a24372.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
+    [ "PrepareAuraScript", "de/d03/a24372.html#a2840931b939b95e6a476c07f08ca66b5", null ],
+    [ "Register", "de/d03/a24372.html#ae769fddc14aed4d1055d2f947d292fcf", null ]
 ];

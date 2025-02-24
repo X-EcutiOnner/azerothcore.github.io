@@ -1,6 +1,9 @@
 var a13148 =
 [
-    [ "PrepareSpellScript", "df/d2a/a13148.html#a6a9436d744865971e635f23c2b331688", null ],
-    [ "Register", "df/d2a/a13148.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
-    [ "SetDest", "df/d2a/a13148.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
+    [ "spell_eredar_twins_apply_touch", "df/d2a/a13148.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
+    [ "HandleApplyTouch", "df/d2a/a13148.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
+    [ "PrepareSpellScript", "df/d2a/a13148.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
+    [ "Register", "df/d2a/a13148.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
+    [ "Validate", "df/d2a/a13148.html#a36ff1d126191de7880d98242b3b714b5", null ],
+    [ "_touchSpell", "df/d2a/a13148.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
 ];

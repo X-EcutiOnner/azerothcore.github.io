@@ -1,7 +1,6 @@
 var a21876 =
 [
-    [ "npc_amberpine_woodsmanAI", "d4/d07/a21876.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
-    [ "Reset", "d4/d07/a21876.html#a8da613c7bbaadf331c95667e7a361702", null ],
-    [ "UpdateAI", "d4/d07/a21876.html#a64dbf41424a710c400d51507f6457b41", null ],
-    [ "_events", "d4/d07/a21876.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
+    [ "npc_black_knight_graveyardAI", "de/d37/a21880.html", "de/d37/a21880" ],
+    [ "npc_black_knight_graveyard", "d4/d07/a21876.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
+    [ "GetAI", "d4/d07/a21876.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
 ];

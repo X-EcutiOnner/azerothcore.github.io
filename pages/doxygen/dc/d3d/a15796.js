@@ -1,8 +1,7 @@
 var a15796 =
 [
-    [ "boss_sartharion_shadronAI", "dc/d3d/a15796.html#a02e2e657ac74ab37a4568589511de664", null ],
-    [ "ExecuteEvent", "dc/d3d/a15796.html#a6a26f1f777988be6eaf8b1a675bbbabb", null ],
-    [ "HandleExtraEvent", "dc/d3d/a15796.html#a3db5e816f6253f9c4251690bfbbe1912", null ],
-    [ "Reset", "dc/d3d/a15796.html#a7054cde1de2166c2b06489187115cb3f", null ],
-    [ "SummonedCreatureDies", "dc/d3d/a15796.html#a8b70b3b7287108ad13caeb85a83cf26f", null ]
+    [ "OnRemove", "dc/d3d/a15796.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "dc/d3d/a15796.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "dc/d3d/a15796.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "dc/d3d/a15796.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

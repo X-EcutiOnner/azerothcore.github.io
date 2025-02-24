@@ -1,6 +1,8 @@
 var a25300 =
 [
-    [ "PrepareAuraScript", "db/df4/a25300.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "db/df4/a25300.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "db/df4/a25300.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "CheckProc", "db/df4/a25300.html#ae0b0a45ddc782a523394e30414e0b2ba", null ],
+    [ "HandleProc", "db/df4/a25300.html#a9cb849a8ea8afb45cc1df4d260542937", null ],
+    [ "PrepareAuraScript", "db/df4/a25300.html#af65fc845e6625b1f0a4f4b88ba6db46e", null ],
+    [ "Register", "db/df4/a25300.html#acc5c7607ea7a23b66d1db6cb1a38833e", null ],
+    [ "Validate", "db/df4/a25300.html#a03621fd67cd9179ccc37a53c4d2056d9", null ]
 ];

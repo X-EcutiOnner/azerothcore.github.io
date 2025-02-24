@@ -1,7 +1,8 @@
 var a25268 =
 [
-    [ "HandleScript", "d1/da2/a25268.html#a27e2575e538732ac76add53f2f8f6832", null ],
-    [ "PrepareSpellScript", "d1/da2/a25268.html#ad7c98be6cca23fb1484a6b77bcc7bc9d", null ],
-    [ "Register", "d1/da2/a25268.html#a4ee74f6d8a61a8ba38ece33176c18f84", null ],
-    [ "Validate", "d1/da2/a25268.html#aef9eef1819652e0fce1cd4b3ba9c387c", null ]
+    [ "HandlePeriodic", "d1/da2/a25268.html#acba5d68c19e68361c088e50f9b831bff", null ],
+    [ "HandleUpdatePeriodic", "d1/da2/a25268.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
+    [ "PrepareAuraScript", "d1/da2/a25268.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
+    [ "Register", "d1/da2/a25268.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
+    [ "Validate", "d1/da2/a25268.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
 ];

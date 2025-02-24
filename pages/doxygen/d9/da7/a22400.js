@@ -1,6 +1,5 @@
 var a22400 =
 [
-    [ "npc_captured_rageclawAI", "d9/da7/a22400.html#a5bb483a323330b0895f87c5381d73314", null ],
-    [ "Reset", "d9/da7/a22400.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
-    [ "SpellHit", "d9/da7/a22400.html#a2c63911d27435a2271a7c89d9d88318c", null ]
+    [ "OutdoorPvP_terokkar_forest", "d9/da7/a22400.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
+    [ "GetOutdoorPvP", "d9/da7/a22400.html#acf268293812d7a1a233e7f1fcba1e733", null ]
 ];

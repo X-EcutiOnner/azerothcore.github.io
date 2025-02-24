@@ -1,7 +1,13 @@
 var a10364 =
 [
-    [ "GuildBankActivate", "db/d97/a10364.html#a5b27541a26ada694d9635f6d6873ef20", null ],
-    [ "Read", "db/d97/a10364.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
-    [ "Banker", "db/d97/a10364.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
-    [ "FullUpdate", "db/d97/a10364.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
+    [ "ScriptObject", "db/d97/a10364.html#ae4ca97cf587379c94354e4889ff8c0c2", null ],
+    [ "~ScriptObject", "db/d97/a10364.html#a80c704c939f54eee6655d68509598c42", null ],
+    [ "checkValidity", "db/d97/a10364.html#a585e75e34aed7aa32205daad85f8fe08", null ],
+    [ "GetName", "db/d97/a10364.html#a79588d839860d2f5caab60c5f1368f10", null ],
+    [ "GetTotalAvailableHooks", "db/d97/a10364.html#a69ee35ec7d54226264efef558022c1c0", null ],
+    [ "isAfterLoadScript", "db/d97/a10364.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
+    [ "IsDatabaseBound", "db/d97/a10364.html#a37da453729d5c8fbe2d06f905563f47c", null ],
+    [ "ScriptMgr", "db/d97/a10364.html#a7a753f61d57353451e90f3f23fec4851", null ],
+    [ "_name", "db/d97/a10364.html#a90b63e382cac17922ae57fe22b84718c", null ],
+    [ "_totalAvailableHooks", "db/d97/a10364.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
 ];

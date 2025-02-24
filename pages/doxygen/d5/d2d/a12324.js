@@ -1,7 +1,6 @@
 var a12324 =
 [
-    [ "FilterTargets", "d5/d2d/a12324.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "d5/d2d/a12324.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "d5/d2d/a12324.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "d5/d2d/a12324.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "boss_gehennasAI", "d5/d2d/a12324.html#aaefd1f10d03957477863df95143a95a9", null ],
+    [ "ExecuteEvent", "d5/d2d/a12324.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
+    [ "JustEngagedWith", "d5/d2d/a12324.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
 ];

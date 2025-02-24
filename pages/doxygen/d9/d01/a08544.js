@@ -1,9 +1,7 @@
 var a08544 =
 [
-    [ "TransportBase", "d9/d01/a08544.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
-    [ "~TransportBase", "d9/d01/a08544.html#a81dca3435a1a1666a90acd8e154e3287", null ],
-    [ "CalculatePassengerOffset", "d9/d01/a08544.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
-    [ "CalculatePassengerOffset", "d9/d01/a08544.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
-    [ "CalculatePassengerPosition", "d9/d01/a08544.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
-    [ "CalculatePassengerPosition", "d9/d01/a08544.html#a328fbc464c56eca89138380182a0108c", null ]
+    [ "ItemPosCount", "d9/d01/a08544.html#a43458da1fc31d827b6de726754f7901e", null ],
+    [ "isContainedIn", "d9/d01/a08544.html#a6977c544a2d39ca5872b75f27517974f", null ],
+    [ "count", "d9/d01/a08544.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
+    [ "pos", "d9/d01/a08544.html#ad8954f1a6323316510cfe0f332ee495f", null ]
 ];

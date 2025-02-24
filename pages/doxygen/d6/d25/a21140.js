@@ -1,8 +1,6 @@
 var a21140 =
 [
-    [ "CheckProc", "d6/d25/a21140.html#ac955cc78dd3206816906dd06b3e006f6", null ],
-    [ "HandleProc", "d6/d25/a21140.html#a966d23cc5714fe35d80b2964dddda536", null ],
-    [ "PrepareAuraScript", "d6/d25/a21140.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
-    [ "Register", "d6/d25/a21140.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
-    [ "Validate", "d6/d25/a21140.html#a5d8e764dafd26548af8588593bf27990", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "da/d9c/a21144.html", "da/d9c/a21144" ],
+    [ "instance_vault_of_archavon", "d6/d25/a21140.html#a0be8d95ff0f3b751e6f833689e436310", null ],
+    [ "GetInstanceScript", "d6/d25/a21140.html#abb955a8873a3a3021e164225dd1f857a", null ]
 ];

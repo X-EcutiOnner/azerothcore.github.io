@@ -1,5 +1,7 @@
 var a25868 =
 [
-    [ "PrepareSpellScript", "df/d49/a25868.html#ad7b3235062959af1f28bb6c7b2f929c3", null ],
-    [ "Register", "df/d49/a25868.html#ae35dad0d33ee0dd571a8f5fcccd2ce58", null ]
+    [ "CalculateSpellAmount", "df/d49/a25868.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
+    [ "CheckCast", "df/d49/a25868.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "df/d49/a25868.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "df/d49/a25868.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

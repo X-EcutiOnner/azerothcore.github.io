@@ -1,10 +1,8 @@
 var a11940 =
 [
-    [ "npc_corrupted_totem", "de/d02/a11940.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
-    [ "IsSummonedBy", "de/d02/a11940.html#ae8314903c9006b7bca94a47115a0d05b", null ],
-    [ "JustDied", "de/d02/a11940.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
-    [ "Reset", "de/d02/a11940.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
-    [ "SetAura", "de/d02/a11940.html#a509688befda49f789f77ee0e4170a74e", null ],
-    [ "UpdateAI", "de/d02/a11940.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
-    [ "_auraAdded", "de/d02/a11940.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
+    [ "boss_drakkisathAI", "de/d02/a11940.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
+    [ "JustEngagedWith", "de/d02/a11940.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
+    [ "UpdateAI", "de/d02/a11940.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
+    [ "_conflagrateTarget", "de/d02/a11940.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
+    [ "_conflagrateThreat", "de/d02/a11940.html#aae3762b27c3d99b32f47293c544e4afe", null ]
 ];

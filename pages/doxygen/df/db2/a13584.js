@@ -1,6 +1,6 @@
 var a13584 =
 [
-    [ "boss_alyson_antilleAI", "d5/dc3/a13588.html", "d5/dc3/a13588" ],
-    [ "boss_alyson_antille", "df/db2/a13584.html#a0a67ddb176935e76ce9894e268b97d12", null ],
-    [ "GetAI", "df/db2/a13584.html#abd00892521ed17c9a5f5a35c0535548e", null ]
+    [ "boss_blight_wormAI", "d5/dc3/a13588.html", "d5/dc3/a13588" ],
+    [ "boss_blight_worm", "df/db2/a13584.html#a6dea51baebc6b44ef94342565136e56d", null ],
+    [ "GetAI", "df/db2/a13584.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
 ];

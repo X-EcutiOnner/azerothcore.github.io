@@ -1,7 +1,17 @@
 var a15928 =
 [
-    [ "HandleDummy", "d4/dc7/a15928.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "d4/dc7/a15928.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "d4/dc7/a15928.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "d4/dc7/a15928.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "boss_halionAI", "d4/dc7/a15928.html#a24d41b904ec24029887869622fbce0eb", null ],
+    [ "AttackStart", "d4/dc7/a15928.html#acad91c2b1e7e02f9662cc3342f272ae7", null ],
+    [ "CanAIAttack", "d4/dc7/a15928.html#ad15cd8d44cd1779f45cacb38caa08fe2", null ],
+    [ "DamageTaken", "d4/dc7/a15928.html#a911c636113639690bb6304e2f6d55499", null ],
+    [ "EnterEvadeMode", "d4/dc7/a15928.html#a20e451a26914adcee83e5fb77155c59d", null ],
+    [ "IsAnyPlayerValid", "d4/dc7/a15928.html#a6681f94156a46c75960038ed1ed80543", null ],
+    [ "JustDied", "d4/dc7/a15928.html#a483fbaf88780d0714ffaa47bea00cc5f", null ],
+    [ "JustEngagedWith", "d4/dc7/a15928.html#a16f121b5c7f3f924dc0c11adb53ff79a", null ],
+    [ "JustSummoned", "d4/dc7/a15928.html#a4fdf03de55fdd35ff849a82704ce7a3c", null ],
+    [ "KilledUnit", "d4/dc7/a15928.html#ac45ac7ceb0b761e90deeffcea364ceea", null ],
+    [ "Reset", "d4/dc7/a15928.html#aa8c06f8a1642534efb14941d9c0d9f14", null ],
+    [ "UpdateAI", "d4/dc7/a15928.html#abe0faa976bb1b14102b940fac9526e5b", null ],
+    [ "_events2", "d4/dc7/a15928.html#a677448e015db869b718e15b6809586cc", null ],
+    [ "_livingEmberCount", "d4/dc7/a15928.html#af6af6482467f3a08fbe1c65f3b2b1552", null ]
 ];

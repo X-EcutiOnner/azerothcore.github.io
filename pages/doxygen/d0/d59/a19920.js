@@ -1,5 +1,6 @@
 var a19920 =
 [
-    [ "achievement_flame_leviathan_unbroken", "d0/d59/a19920.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "d0/d59/a19920.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
+    [ "boss_freya_lifebinderAI", "d4/d90/a19924.html", "d4/d90/a19924" ],
+    [ "boss_freya_lifebinder", "d0/d59/a19920.html#ad7a3bc09aacf35b4a6a39e65c966b824", null ],
+    [ "GetAI", "d0/d59/a19920.html#a978e4472a080f0fc53848abaa305cd77", null ]
 ];

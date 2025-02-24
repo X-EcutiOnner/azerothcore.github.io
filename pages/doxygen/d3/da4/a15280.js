@@ -1,8 +1,6 @@
 var a15280 =
 [
-    [ "CheckRequirement", "d3/da4/a15280.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "d3/da4/a15280.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "d3/da4/a15280.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "d3/da4/a15280.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "d3/da4/a15280.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_tiger_matriarchAI", "d6/d55/a15284.html", "d6/d55/a15284" ],
+    [ "npc_tiger_matriarch", "d3/da4/a15280.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "d3/da4/a15280.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

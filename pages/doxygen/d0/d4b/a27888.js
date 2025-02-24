@@ -1,14 +1,13 @@
 var a27888 =
 [
-    [ "IsFlyable", "d0/d4b/a27888.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
-    [ "IsSanctuary", "d0/d4b/a27888.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
-    [ "area_level", "d0/d4b/a27888.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
-    [ "area_name", "d0/d4b/a27888.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
-    [ "exploreFlag", "d0/d4b/a27888.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
-    [ "flags", "d0/d4b/a27888.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
-    [ "ID", "d0/d4b/a27888.html#ad02bb9fce21f464e38223581074a9e21", null ],
-    [ "LiquidTypeOverride", "d0/d4b/a27888.html#abe743a4b542c4356aab9d41f3fae7457", null ],
-    [ "mapid", "d0/d4b/a27888.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
-    [ "team", "d0/d4b/a27888.html#ae18e0efef83e663452715f6be15ecaef", null ],
-    [ "zone", "d0/d4b/a27888.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
+    [ "HasFlag", "d0/d4b/a27888.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
+    [ "CinematicSequence", "d0/d4b/a27888.html#a33a01b1c26b21706d9898af246f2a0df", null ],
+    [ "expansion", "d0/d4b/a27888.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
+    [ "FactionID", "d0/d4b/a27888.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
+    [ "Flags", "d0/d4b/a27888.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
+    [ "model_f", "d0/d4b/a27888.html#a4807227fd863e247b18d29db0ea8236a", null ],
+    [ "model_m", "d0/d4b/a27888.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
+    [ "name", "d0/d4b/a27888.html#a4970323e45feb3f74b47420648371ab6", null ],
+    [ "RaceID", "d0/d4b/a27888.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
+    [ "TeamID", "d0/d4b/a27888.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
 ];

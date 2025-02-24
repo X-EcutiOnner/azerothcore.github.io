@@ -1,5 +1,5 @@
 var a27208 =
 [
-    [ "go_jump_a_tron", "d5/d05/a27208.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
-    [ "OnGossipHello", "d5/d05/a27208.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
+    [ "go_veil_skith_cage", "d5/d05/a27208.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
+    [ "OnGossipHello", "d5/d05/a27208.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
 ];

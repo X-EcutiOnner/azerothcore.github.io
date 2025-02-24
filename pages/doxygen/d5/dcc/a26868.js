@@ -1,6 +1,5 @@
 var a26868 =
 [
-    [ "CalculateAmount", "d5/dcc/a26868.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
-    [ "PrepareAuraScript", "d5/dcc/a26868.html#a845476e27b3751fd5aab505d41d8696d", null ],
-    [ "Register", "d5/dcc/a26868.html#aa5141f11bcd97cc501297a5309df1079", null ]
+    [ "achievement_everything_counts", "d5/dcc/a26868.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
+    [ "OnCheck", "d5/dcc/a26868.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
 ];

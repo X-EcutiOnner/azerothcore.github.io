@@ -1,7 +1,8 @@
 var a22632 =
 [
-    [ "npc_voidtraveler", "da/d0b/a22632.html#a07e473c14836a0612acd52078a93f2d8", null ],
-    [ "Reset", "da/d0b/a22632.html#a6efe0725917c92657220de2b60579289", null ],
-    [ "UpdateAI", "da/d0b/a22632.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
-    [ "_scheduler", "da/d0b/a22632.html#a1809494e7803103f6bc1698e780dcfbc", null ]
+    [ "Load", "da/d0b/a22632.html#a038301fbb547469574efff88455be663", null ],
+    [ "OnPeriodic", "da/d0b/a22632.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
+    [ "PrepareAuraScript", "da/d0b/a22632.html#a386df1300e6a99b02efd13ef4968e99a", null ],
+    [ "Register", "da/d0b/a22632.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
+    [ "Validate", "da/d0b/a22632.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
 ];

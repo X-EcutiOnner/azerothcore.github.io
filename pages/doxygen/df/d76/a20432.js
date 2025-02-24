@@ -1,6 +1,5 @@
 var a20432 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "de/d21/a20436.html", "de/d21/a20436" ],
-    [ "npc_ulduar_harpoonfirestate", "df/d76/a20432.html#a85043e64606ba7c9ce2da7a37bbf0e8e", null ],
-    [ "GetAI", "df/d76/a20432.html#a8c9e1882c0706cb0b576c24b62215238", null ]
+    [ "achievement_quick_shave", "df/d76/a20432.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
+    [ "OnCheck", "df/d76/a20432.html#a151c479da3d4cec05999ad8a249b100c", null ]
 ];

@@ -1,6 +1,10 @@
 var a11604 =
 [
-    [ "boss_hedrumAI", "d6/d12/a11608.html", "d6/d12/a11608" ],
-    [ "boss_hedrum", "da/d41/a11604.html#a655d348dec9ce9b585ea12f3629b0aa7", null ],
-    [ "GetAI", "da/d41/a11604.html#a7033d315852aa4905784e957679ee261", null ]
+    [ "item_commandscript", "da/d41/a11604.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
+    [ "GetCommands", "da/d41/a11604.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
+    [ "HandleItemMoveCommand", "da/d41/a11604.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
+    [ "HandleItemRefundCommand", "da/d41/a11604.html#af914e33be05148062abd89c754d939c9", null ],
+    [ "HandleItemRestoreCommand", "da/d41/a11604.html#a84c67a46c513c1aac2b9d2563d693929", null ],
+    [ "HandleItemRestoreListCommand", "da/d41/a11604.html#a40181310f4187a71a6f5f5f600a8f468", null ],
+    [ "HasItemDeletionConfig", "da/d41/a11604.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
 ];

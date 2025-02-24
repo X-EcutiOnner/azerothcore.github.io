@@ -1,7 +1,5 @@
 var a12052 =
 [
-    [ "HandlePeriodic", "df/dcb/a12052.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
-    [ "PrepareAuraScript", "df/dcb/a12052.html#aae9d31049889eea5c5f09dd5437de950", null ],
-    [ "Register", "df/dcb/a12052.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
-    [ "Validate", "df/dcb/a12052.html#a462b882e41932f99e3501f32368cf4de", null ]
+    [ "at_trigger_the_beast_movement", "df/dcb/a12052.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "df/dcb/a12052.html#a333d685d765497a950fde35067d876a1", null ]
 ];

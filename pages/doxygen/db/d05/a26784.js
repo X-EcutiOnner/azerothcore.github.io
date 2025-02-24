@@ -1,6 +1,8 @@
 var a26784 =
 [
-    [ "PrepareAuraScript", "db/d05/a26784.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "db/d05/a26784.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "db/d05/a26784.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "HandleDamage", "db/d05/a26784.html#a371d3112e619453b7c92933a145bf4d2", null ],
+    [ "HandleDummy", "db/d05/a26784.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
+    [ "PrepareSpellScript", "db/d05/a26784.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
+    [ "Register", "db/d05/a26784.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
+    [ "Validate", "db/d05/a26784.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
 ];

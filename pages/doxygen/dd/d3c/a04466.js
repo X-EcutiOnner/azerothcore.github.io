@@ -1,9 +1,7 @@
 var a04466 =
 [
-    [ "getAngle", "dd/d3c/a04466.html#a5ce837ff4fb41332a25e6b0dc0f5b848", null ],
-    [ "getCircleAreaByRadius", "dd/d3c/a04466.html#a18ed540c327b1fd656065d8cbfc4844f", null ],
-    [ "getCirclePerimeterByRadius", "dd/d3c/a04466.html#a62641094ea3c1b9506faefa7a35ba456", null ],
-    [ "getCylinderVolume", "dd/d3c/a04466.html#a95ce6760beb476a4c24ff46d3069103f", null ],
-    [ "getSlopeAngle", "dd/d3c/a04466.html#a61d2d33d44f335480a833a04436620ba", null ],
-    [ "getSlopeAngleAbs", "dd/d3c/a04466.html#a0b02845f56a27df498d0598d259ca5e1", null ]
+    [ "EnumText", "d1/d22/a05464.html", "d1/d22/a05464" ],
+    [ "Acore::Impl::EnumUtilsImpl::EnumUtils< Enum >", "d1/d06/a05468.html", "d1/d06/a05468" ],
+    [ "EnumUtils", "da/d7f/a05472.html", "da/d7f/a05472" ],
+    [ "EnumUtils::Iterator< Enum >", "d4/db7/a05476.html", "d4/db7/a05476" ]
 ];

@@ -1,7 +1,6 @@
 var a23800 =
 [
-    [ "Load", "d4/d88/a23800.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "d4/d88/a23800.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "d4/d88/a23800.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "d4/d88/a23800.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "npc_deaths_fel_cannonAI", "d6/dfa/a23804.html", "d6/dfa/a23804" ],
+    [ "npc_deaths_fel_cannon", "d4/d88/a23800.html#a87ecaca75061928600b5114d3913dd26", null ],
+    [ "GetAI", "d4/d88/a23800.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
 ];

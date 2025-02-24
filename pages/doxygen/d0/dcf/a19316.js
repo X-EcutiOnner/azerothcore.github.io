@@ -1,7 +1,8 @@
 var a19316 =
 [
-    [ "Apply", "d0/dcf/a19316.html#add8e95d38b0c437833c11cded72fe2a7", null ],
-    [ "PrepareAuraScript", "d0/dcf/a19316.html#ad2112b571d97e537983b4d11207015e6", null ],
-    [ "Register", "d0/dcf/a19316.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
-    [ "Validate", "d0/dcf/a19316.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
+    [ "HandleOnEffectApply", "d0/dcf/a19316.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "d0/dcf/a19316.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "d0/dcf/a19316.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "d0/dcf/a19316.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "d0/dcf/a19316.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

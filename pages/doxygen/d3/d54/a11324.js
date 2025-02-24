@@ -1,17 +1,15 @@
 var a11324 =
 [
-    [ "gobject_commandscript", "d3/d54/a11324.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
-    [ "GetCommands", "d3/d54/a11324.html#a75124102670615a7b3a0ecd457ab631a", null ],
-    [ "HandleGameObjectActivateCommand", "d3/d54/a11324.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
-    [ "HandleGameObjectAddCommand", "d3/d54/a11324.html#a23717867956cc0da99e3640d2b790346", null ],
-    [ "HandleGameObjectAddTempCommand", "d3/d54/a11324.html#a49908d7c180d778c43702563add17d2d", null ],
-    [ "HandleGameObjectDeleteCommand", "d3/d54/a11324.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
-    [ "HandleGameObjectInfoCommand", "d3/d54/a11324.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
-    [ "HandleGameObjectMoveCommand", "d3/d54/a11324.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
-    [ "HandleGameObjectNearCommand", "d3/d54/a11324.html#a156f293b3bf9c7439b62814ee8f27650", null ],
-    [ "HandleGameObjectRespawn", "d3/d54/a11324.html#aafed57aa556c8cdc0c380185b056d705", null ],
-    [ "HandleGameObjectSetPhaseCommand", "d3/d54/a11324.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
-    [ "HandleGameObjectSetStateCommand", "d3/d54/a11324.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
-    [ "HandleGameObjectTargetCommand", "d3/d54/a11324.html#a11d33046310495c0a6d883a307c95632", null ],
-    [ "HandleGameObjectTurnCommand", "d3/d54/a11324.html#a75883394613b2c3501cd48f5334199b7", null ]
+    [ "BroadcastTextId", "d3/d54/a11324.html#a12ff00d59ce642d3c27978e919f6ca17", null ],
+    [ "duration", "d3/d54/a11324.html#a00b6d7cbf9ff377d30cd9e6cfab084b7", null ],
+    [ "emote", "d3/d54/a11324.html#aad433a0bc12717103936e6f89b5b31ea", null ],
+    [ "entry", "d3/d54/a11324.html#a3d1c888b73edee2474004de9d8714903", null ],
+    [ "group", "d3/d54/a11324.html#ae2161d1dc874efacd0131baa74b4e44a", null ],
+    [ "id", "d3/d54/a11324.html#ab80181d53770a2f64bd6898498b3e76e", null ],
+    [ "lang", "d3/d54/a11324.html#a8405ab49781ba0cbcd8680ff6715b675", null ],
+    [ "probability", "d3/d54/a11324.html#a9bec9c2053f2efbac076831d4e928045", null ],
+    [ "sound", "d3/d54/a11324.html#af312efff61026445caeb4be4b52c4e66", null ],
+    [ "text", "d3/d54/a11324.html#a82b3db36b60a343d340677e8df6c7925", null ],
+    [ "TextRange", "d3/d54/a11324.html#a2bb58a07abc9eb7ffeb4db131de03924", null ],
+    [ "type", "d3/d54/a11324.html#a5675f6bcf159e1da503029771557e2a6", null ]
 ];

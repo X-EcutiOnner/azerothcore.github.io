@@ -1,10 +1,7 @@
 var a12212 =
 [
-    [ "instance_deadmines_InstanceMapScript", "d9/de5/a12212.html#afa12491c1b276d0d643822da562320c3", null ],
-    [ "GetSaveData", "d9/de5/a12212.html#a775c7d564b931e157a32b0909efed859", null ],
-    [ "Initialize", "d9/de5/a12212.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
-    [ "Load", "d9/de5/a12212.html#afff7e04cc632e2d4ddb438d03e561560", null ],
-    [ "OnGameObjectCreate", "d9/de5/a12212.html#a095202af8915f8a1d8888c045e18d6c4", null ],
-    [ "SetData", "d9/de5/a12212.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
-    [ "_encounters", "d9/de5/a12212.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
+    [ "HandlePeriodic", "d9/de5/a12212.html#a72e043202c587e6c12d0b36d679cd071", null ],
+    [ "PrepareAuraScript", "d9/de5/a12212.html#a7ca007283e34855ee825ae160653f4a3", null ],
+    [ "Register", "d9/de5/a12212.html#aebad39c65167042be8db3c3a1811a235", null ],
+    [ "Validate", "d9/de5/a12212.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
 ];

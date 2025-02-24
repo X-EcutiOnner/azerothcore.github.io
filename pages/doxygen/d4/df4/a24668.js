@@ -1,8 +1,10 @@
 var a24668 =
 [
-    [ "AfterRemove", "d4/df4/a24668.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
-    [ "HandleDispel", "d4/df4/a24668.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
-    [ "PrepareAuraScript", "d4/df4/a24668.html#a44e66753516d693c31dba27c9d1ad250", null ],
-    [ "Register", "d4/df4/a24668.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
-    [ "Validate", "d4/df4/a24668.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
+    [ "FilterTargets", "d4/df4/a24668.html#a033c63470d406ad2249c5aa223c00b2f", null ],
+    [ "HandleFinish", "d4/df4/a24668.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
+    [ "HandleScript", "d4/df4/a24668.html#a2c26838015f1b21715fc1438537e15d3", null ],
+    [ "Load", "d4/df4/a24668.html#a669aefa81d57358ef452f4c247b2ceff", null ],
+    [ "PrepareSpellScript", "d4/df4/a24668.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
+    [ "Register", "d4/df4/a24668.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
+    [ "haveTarget", "d4/df4/a24668.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
 ];

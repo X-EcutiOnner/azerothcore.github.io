@@ -1,5 +1,8 @@
 var a19488 =
 [
-    [ "boss_sjonnir_dwarfAI", "d6/de1/a19488.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
-    [ "UpdateAI", "d6/de1/a19488.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
+    [ "dark_rune_stormcallerAI", "d6/de1/a19488.html#ad889fb0c50e879c958c9b8bb681e4bf7", null ],
+    [ "JustEngagedWith", "d6/de1/a19488.html#a7ddfb8afac3ff28a84b26255628fab50", null ],
+    [ "Reset", "d6/de1/a19488.html#afa9cc2e1a9f7d21cd885479e9afdcd12", null ],
+    [ "UpdateAI", "d6/de1/a19488.html#adbd245fc5180dc7c78704595a9592864", null ],
+    [ "events", "d6/de1/a19488.html#aa7d8d1d075eeb03952b47cc16846a3db", null ]
 ];

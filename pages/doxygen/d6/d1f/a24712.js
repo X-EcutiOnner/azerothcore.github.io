@@ -1,6 +1,6 @@
 var a24712 =
 [
-    [ "FilterTargets", "d6/d1f/a24712.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
-    [ "PrepareSpellScript", "d6/d1f/a24712.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
-    [ "Register", "d6/d1f/a24712.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
+    [ "PrepareSpellScript", "d6/d1f/a24712.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
+    [ "Register", "d6/d1f/a24712.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
+    [ "SelectTarget", "d6/d1f/a24712.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
 ];

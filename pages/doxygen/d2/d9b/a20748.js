@@ -1,10 +1,11 @@
 var a20748 =
 [
-    [ "boss_yoggsaron_constrictor_tentacleAI", "d2/d9b/a20748.html#a351df0050661628e3ab0be2f636f9c4e", null ],
-    [ "DoAction", "d2/d9b/a20748.html#ad84c2b479a2d7df7aec40f17287a2438", null ],
-    [ "JustDied", "d2/d9b/a20748.html#a832d1b1154b158c348f9d5883ad0fbd7", null ],
-    [ "SelectConstrictTarget", "d2/d9b/a20748.html#a174be8d1673e332f9dceb10d2917bb4a", null ],
-    [ "UpdateAI", "d2/d9b/a20748.html#a00c137429f2b565bf195dab4e9902a7c", null ],
-    [ "_checkTimer", "d2/d9b/a20748.html#ae5c189401dd04823449e7a16c197e65f", null ],
-    [ "_playerGUID", "d2/d9b/a20748.html#a01d889af8d8fe5712cde73cdc2bf3c95", null ]
+    [ "boss_yoggsaron_llaneAI", "d2/d9b/a20748.html#a8524834b7dff49844d96b7dc49fd265d", null ],
+    [ "NextStep", "d2/d9b/a20748.html#a6587e7873455950bda97b2a7d78e6fc5", null ],
+    [ "Reset", "d2/d9b/a20748.html#a86f9d594562f842d478b63de18e52455", null ],
+    [ "Say", "d2/d9b/a20748.html#ab619684f15f5325383a413dced7c930e", null ],
+    [ "UpdateAI", "d2/d9b/a20748.html#a545378189f85968ac925baa06ad608b5", null ],
+    [ "_checkTimer", "d2/d9b/a20748.html#aa4956f6943adce94a9ed4fec951317d6", null ],
+    [ "_running", "d2/d9b/a20748.html#a6d6d186febc408ecb830bf7eea3c72bd", null ],
+    [ "_step", "d2/d9b/a20748.html#a718c0bf307934b9ee9cbb933899c6324", null ]
 ];

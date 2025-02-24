@@ -1,6 +1,8 @@
 var a10996 =
 [
-    [ "EffectBase", "dc/d5a/a10996.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
-    [ "CheckEffect", "dc/d5a/a10996.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
-    [ "ToString", "dc/d5a/a10996.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
+    [ "SkillExtraItemEntry", "dc/d5a/a10996.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
+    [ "SkillExtraItemEntry", "dc/d5a/a10996.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
+    [ "additionalCreateChance", "dc/d5a/a10996.html#a299d886468e9caf22f9d6ce80a64c247", null ],
+    [ "newMaxOrEntry", "dc/d5a/a10996.html#adfda967d36154b039495f0b289a5c9d1", null ],
+    [ "requiredSpecialization", "dc/d5a/a10996.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
 ];

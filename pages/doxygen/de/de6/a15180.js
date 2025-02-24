@@ -1,6 +1,5 @@
 var a15180 =
 [
-    [ "npc_webbed_creatureAI", "d1/d65/a15184.html", "d1/d65/a15184" ],
-    [ "npc_webbed_creature", "de/de6/a15180.html#ae52152939766c411e45e827e9ab52d4f", null ],
-    [ "GetAI", "de/de6/a15180.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
+    [ "go_ravager_cage", "de/de6/a15180.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "de/de6/a15180.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

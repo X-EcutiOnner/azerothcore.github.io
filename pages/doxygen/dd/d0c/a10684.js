@@ -1,7 +1,6 @@
 var a10684 =
 [
-    [ "MapSessionFilter", "dd/d0c/a10684.html#ad11a700c36f8f45640402e96edc74b49", null ],
-    [ "~MapSessionFilter", "dd/d0c/a10684.html#a82960e741c8f64d24a764a915f14e2b8", null ],
-    [ "Process", "dd/d0c/a10684.html#a54483596fe2a5a0d30fab9a13506b375", null ],
-    [ "ProcessUnsafe", "dd/d0c/a10684.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
+    [ "GuildSetGuildMaster", "dd/d0c/a10684.html#ae6ca07252de719cc506042c8d3e8285e", null ],
+    [ "Read", "dd/d0c/a10684.html#a94f16e55a840c7cba991a119af5d8263", null ],
+    [ "NewMasterName", "dd/d0c/a10684.html#a02f37610492c75373266bb93000adcbf", null ]
 ];

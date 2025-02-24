@@ -1,7 +1,6 @@
 var a11924 =
 [
-    [ "ClassCallSelector", "d8/dfa/a11924.html#a223895c97121b0727aac258c12c89e0b", null ],
-    [ "operator()", "d8/dfa/a11924.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
-    [ "_me", "d8/dfa/a11924.html#a5347a24609a21ae0a342682104b1dc14", null ],
-    [ "_targetClass", "d8/dfa/a11924.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
+    [ "RestoreAttack", "d8/dfa/a11924.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
+    [ "Execute", "d8/dfa/a11924.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
+    [ "_boss", "d8/dfa/a11924.html#a493ef909da834b0befd90f57f54fb10c", null ]
 ];

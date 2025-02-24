@@ -1,4 +1,4 @@
 var a03923 =
 [
-    [ "ScriptRegistry< DynamicObjectScript >", "d9/d2a/a03923.html#a81c3616d496bf8bc2392d79508d2e446", null ]
+    [ "ScriptRegistry< ElunaScript >", "d9/d2a/a03923.html#a15bab1416715725970c75b4acdc0ea37", null ]
 ];

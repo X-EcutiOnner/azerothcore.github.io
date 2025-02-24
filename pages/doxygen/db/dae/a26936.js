@@ -1,5 +1,5 @@
 var a26936 =
 [
-    [ "achievement_everything_counts", "db/dae/a26936.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
-    [ "OnCheck", "db/dae/a26936.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
+    [ "AreaTrigger_at_sentry_point", "db/dae/a26936.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
+    [ "OnTrigger", "db/dae/a26936.html#ab59fb74f4f988c208359855d2e4d9918", null ]
 ];

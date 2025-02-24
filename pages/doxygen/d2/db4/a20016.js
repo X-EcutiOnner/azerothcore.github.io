@@ -1,7 +1,6 @@
 var a20016 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "d2/db4/a20016.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
-    [ "IsSummonedBy", "d2/db4/a20016.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
-    [ "JustDied", "d2/db4/a20016.html#a5be637500e7b5735d90e19fa40fde467", null ],
-    [ "pInstance", "d2/db4/a20016.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
+    [ "id", "d2/db4/a20016.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "x", "d2/db4/a20016.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
+    [ "y", "d2/db4/a20016.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
 ];

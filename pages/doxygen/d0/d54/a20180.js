@@ -1,5 +1,5 @@
 var a20180 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "d0/d54/a20180.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "d0/d54/a20180.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "achievement_ignis_shattered", "d0/d54/a20180.html#adbe893b0dd409eb3f10768f81f182f61", null ],
+    [ "OnCheck", "d0/d54/a20180.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
 ];

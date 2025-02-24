@@ -1,5 +1,8 @@
 var a28084 =
 [
-    [ "ID", "d8/d9f/a28084.html#a65acb5af9a688346cbb7dc144710c768", null ],
-    [ "inventoryIcon", "d8/d9f/a28084.html#a26b43ee179bd546c6e956dd797fc0842", null ]
+    [ "areaTriggerText", "d8/d9f/a28084.html#a32bb8c4a4defce661d108627e25b645a", null ],
+    [ "Difficulty", "d8/d9f/a28084.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
+    [ "MapId", "d8/d9f/a28084.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
+    [ "maxPlayers", "d8/d9f/a28084.html#a7ab33229ffee11a27861439053c79831", null ],
+    [ "resetTime", "d8/d9f/a28084.html#a891a741efb049b51996e1a6110efc52d", null ]
 ];

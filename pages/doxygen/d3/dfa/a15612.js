@@ -1,14 +1,22 @@
 var a15612 =
 [
-    [ "boss_amanitar", "d3/dfa/a15612.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "d3/dfa/a15612.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "ExecuteEvent", "d3/dfa/a15612.html#a540fb447d261ccfcc77ac15888e8bb50", null ],
-    [ "JustDied", "d3/dfa/a15612.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "d3/dfa/a15612.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "JustSummoned", "d3/dfa/a15612.html#a1199430b8ec2a27b136838c112a63c07", null ],
-    [ "Reset", "d3/dfa/a15612.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDies", "d3/dfa/a15612.html#a2f897b4d32b8c67ff644675f08ac6353", null ],
-    [ "SummonMushroom", "d3/dfa/a15612.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "d3/dfa/a15612.html#a4ba2415d6134cdc435114cd3af235b6d", null ],
-    [ "mushroomsSummoned", "d3/dfa/a15612.html#a57b207eaa8a4347bfb5cb51d46eead27", null ]
+    [ "npc_sergeant_blyAI", "d3/dfa/a15612.html#a216f8b75707e25698619786b87500461", null ],
+    [ "DoAction", "d3/dfa/a15612.html#a4fb20172c48257aafe284b3934a9c357", null ],
+    [ "EnterEvadeMode", "d3/dfa/a15612.html#a2844efbb2f213401f83ab042f974974a", null ],
+    [ "InitializeAI", "d3/dfa/a15612.html#ae3abcf75a666c5bd722ca060fca4a12c", null ],
+    [ "MovementInform", "d3/dfa/a15612.html#acf32d74b4f0454f01f7313df6b35c4d3", null ],
+    [ "Reset", "d3/dfa/a15612.html#a2991ad4ecd6b236d7002c3dddd540b00", null ],
+    [ "sGossipHello", "d3/dfa/a15612.html#a342c8b5bd49e8cfd94c41a58159e4f5c", null ],
+    [ "sGossipSelect", "d3/dfa/a15612.html#a9df8eeb695736b2a182c38a69840e99f", null ],
+    [ "switchFactionIfAlive", "d3/dfa/a15612.html#a89cbd29300ca07b3366a197a7549edab", null ],
+    [ "UpdateAI", "d3/dfa/a15612.html#afdcbd6c79fb31d888c5b903deb04ad9d", null ],
+    [ "ableToPortHome", "d3/dfa/a15612.html#aa223fcf402ed5d99ea88275b357f398c", null ],
+    [ "instance", "d3/dfa/a15612.html#acf42a824739dd69d64c3b1e3eff6a944", null ],
+    [ "PlayerGUID", "d3/dfa/a15612.html#a188e306a05afa5f25271d17b4385b623", null ],
+    [ "Porthome_Timer", "d3/dfa/a15612.html#aeb17b772324aa2d985606659a2aee895", null ],
+    [ "postGossipStep", "d3/dfa/a15612.html#aca6869f05555499b210c09889d3f6684", null ],
+    [ "Revenge_Timer", "d3/dfa/a15612.html#af6263dbfa9e4cbc6f7812a10894f3dd2", null ],
+    [ "ShieldBash_Timer", "d3/dfa/a15612.html#a5ed567ac16bef8f53a66a12fbaf4573e", null ],
+    [ "startedFight", "d3/dfa/a15612.html#a7a037981d3d2a37abf0d3995283ac218", null ],
+    [ "Text_Timer", "d3/dfa/a15612.html#a97edb216194b16d273fe6098fdaba51e", null ]
 ];

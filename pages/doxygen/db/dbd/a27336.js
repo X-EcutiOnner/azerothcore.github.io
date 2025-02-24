@@ -1,6 +1,8 @@
 var a27336 =
 [
-    [ "trigger_periodicAI", "df/d65/a27340.html", "df/d65/a27340" ],
-    [ "trigger_periodic", "db/dbd/a27336.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
-    [ "GetAI", "db/dbd/a27336.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
+    [ "npc_franklinAI", "df/d65/a27340.html", "df/d65/a27340" ],
+    [ "npc_franklin", "db/dbd/a27336.html#aab059dfa69e52083892e3170c8838e0a", null ],
+    [ "GetAI", "db/dbd/a27336.html#a10933878afe9d0cc78fa1113341fd522", null ],
+    [ "OnGossipHello", "db/dbd/a27336.html#a318d512914b135800caabe0efbb1c467", null ],
+    [ "OnGossipSelect", "db/dbd/a27336.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
 ];

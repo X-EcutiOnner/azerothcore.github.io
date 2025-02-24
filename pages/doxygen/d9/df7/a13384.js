@@ -1,7 +1,6 @@
 var a13384 =
 [
-    [ "npc_deathstalker_erlandAI", "d9/df7/a13384.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
-    [ "JustEngagedWith", "d9/df7/a13384.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
-    [ "Reset", "d9/df7/a13384.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
-    [ "WaypointReached", "d9/df7/a13384.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ]
+    [ "npc_maredis_firestarAI", "d9/df7/a13384.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
+    [ "sGossipHello", "d9/df7/a13384.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
+    [ "sGossipSelect", "d9/df7/a13384.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
 ];

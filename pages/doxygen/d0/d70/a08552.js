@@ -1,7 +1,8 @@
 var a08552 =
 [
-    [ "done", "d0/d70/a08552.html#a498ebc454773a2c4c8d9452ed5bd3015", null ],
-    [ "done_world_state", "d0/d70/a08552.html#a679379a2b44542e74d103ba851811b52", null ],
-    [ "max_world_state", "d0/d70/a08552.html#a819dcff56a5795a63146aca64b46811b", null ],
-    [ "reqNum", "d0/d70/a08552.html#ae74eb755e1a6f5d8800790351f662d21", null ]
+    [ "checkLeaderOnly", "d0/d70/a08552.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
+    [ "faction", "d0/d70/a08552.html#a23c649e494795b27856b67225370a820", null ],
+    [ "id", "d0/d70/a08552.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
+    [ "note", "d0/d70/a08552.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
+    [ "priority", "d0/d70/a08552.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
 ];

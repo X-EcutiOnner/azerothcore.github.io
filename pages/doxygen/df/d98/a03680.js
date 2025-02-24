@@ -1,5 +1,4 @@
 var a03680 =
 [
-    [ "ScriptRegistry< AllItemScript >", "df/d98/a03680.html#a0f69164743e657905c670df85e97a29c", null ],
-    [ "ScriptRegistry< ItemScript >", "df/d98/a03680.html#a9f258d1e2f9fb6ce144923451b63f995", null ]
+    [ "ScriptRegistry< VehicleScript >", "df/d98/a03680.html#af505a519aaa0d7e6070eb203075ff98d", null ]
 ];

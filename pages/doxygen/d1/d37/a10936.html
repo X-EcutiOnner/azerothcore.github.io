@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: _SpellScript::EffectNameCheck Class Reference</title>
+<title>AzerothCore: CharacterCreateInfo Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,42 +105,53 @@ $(document).ready(function(){initNavTree('d1/d37/a10936.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#friends">Friends</a> &#124;
 <a href="../../d7/da1/a10933.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">_SpellScript::EffectNameCheck Class Reference</div></div>
+  <div class="headertitle"><div class="title">CharacterCreateInfo Class Reference<div class="ingroups"><a class="el" href="../../d9/dda/a04740.html">User to World Communication</a></div></div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for _SpellScript::EffectNameCheck:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d1/d37/a10936.png" usemap="#_5FSpellScript::EffectNameCheck_map" alt=""/>
-  <map id="_5FSpellScript::EffectNameCheck_map" name="_5FSpellScript::EffectNameCheck_map">
-<area href="../../d8/dcb/a10956.html" alt="SpellScript::EffectHandler" shape="rect" coords="0,56,187,80"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:aa82307388bdda7864bb085a349b63f29"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#aa82307388bdda7864bb085a349b63f29">EffectNameCheck</a> (<a class="el" href="../../d4/ddf/a00488.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _effName)</td></tr>
-<tr class="separator:aa82307388bdda7864bb085a349b63f29"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a729d7f07669dedec50f009a87b8f32a4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#a729d7f07669dedec50f009a87b8f32a4">Check</a> (<a class="el" href="../../d4/d06/a10868.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d4/ddf/a00488.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> effIndex)</td></tr>
-<tr class="separator:a729d7f07669dedec50f009a87b8f32a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a31e545b0ae22cad4be815ea9e3b44377"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#a31e545b0ae22cad4be815ea9e3b44377">ToString</a> ()</td></tr>
-<tr class="separator:a31e545b0ae22cad4be815ea9e3b44377"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:a4f81603fda1ae148e6d6174ea8d861fe"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#a4f81603fda1ae148e6d6174ea8d861fe">Name</a></td></tr>
+<tr class="memdesc:a4f81603fda1ae148e6d6174ea8d861fe"><td class="mdescLeft">&#160;</td><td class="mdescRight">User specified variables.  <a href="../../d1/d37/a10936.html#a4f81603fda1ae148e6d6174ea8d861fe">More...</a><br /></td></tr>
+<tr class="separator:a4f81603fda1ae148e6d6174ea8d861fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeee5ee1a2dc34e1b2ad1f8edd31679ff"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#aeee5ee1a2dc34e1b2ad1f8edd31679ff">Race</a> = 0</td></tr>
+<tr class="separator:aeee5ee1a2dc34e1b2ad1f8edd31679ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41e354593f59bc8546688a37c2a5e504"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#a41e354593f59bc8546688a37c2a5e504">Class</a> = 0</td></tr>
+<tr class="separator:a41e354593f59bc8546688a37c2a5e504"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac4ed75d1527549051a92cbb958fa8eb4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#ac4ed75d1527549051a92cbb958fa8eb4">Gender</a> = <a class="el" href="../../d4/d3a/a00101.html#a3667e3c5ec056737c8789615a989324fafe69f428f13193dcfd8ed8f30d6d2e07">GENDER_NONE</a></td></tr>
+<tr class="separator:ac4ed75d1527549051a92cbb958fa8eb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0fbfb41f3fd0c9d0ba2bfc7f04df648e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#a0fbfb41f3fd0c9d0ba2bfc7f04df648e">Skin</a> = 0</td></tr>
+<tr class="separator:a0fbfb41f3fd0c9d0ba2bfc7f04df648e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba49d87691e9d2b10d430450c3f66493"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#aba49d87691e9d2b10d430450c3f66493">Face</a> = 0</td></tr>
+<tr class="separator:aba49d87691e9d2b10d430450c3f66493"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4b2800384a89a5c30c2edb7ff567865"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#aa4b2800384a89a5c30c2edb7ff567865">HairStyle</a> = 0</td></tr>
+<tr class="separator:aa4b2800384a89a5c30c2edb7ff567865"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ded70bbcf30bba4de4ac0ee88fb6eb6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#a0ded70bbcf30bba4de4ac0ee88fb6eb6">HairColor</a> = 0</td></tr>
+<tr class="separator:a0ded70bbcf30bba4de4ac0ee88fb6eb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a88b2c2556dd1239c417ea4fcc55287"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#a5a88b2c2556dd1239c417ea4fcc55287">FacialHair</a> = 0</td></tr>
+<tr class="separator:a5a88b2c2556dd1239c417ea4fcc55287"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15baddc70b46d48bd9f128e73aaac606"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#a15baddc70b46d48bd9f128e73aaac606">OutfitId</a> = 0</td></tr>
+<tr class="separator:a15baddc70b46d48bd9f128e73aaac606"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aad61b8ca0caf09d6b62ee9fffd78cceb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#aad61b8ca0caf09d6b62ee9fffd78cceb">CharCount</a> = 0</td></tr>
+<tr class="memdesc:aad61b8ca0caf09d6b62ee9fffd78cceb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Server side data.  <a href="../../d1/d37/a10936.html#aad61b8ca0caf09d6b62ee9fffd78cceb">More...</a><br /></td></tr>
+<tr class="separator:aad61b8ca0caf09d6b62ee9fffd78cceb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a905224fb028ea0eab350773b7230f871"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/ddf/a00488.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#a905224fb028ea0eab350773b7230f871">effName</a></td></tr>
-<tr class="separator:a905224fb028ea0eab350773b7230f871"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
+Friends</h2></td></tr>
+<tr class="memitem:a65b5c30bf4f5f118a199e378d903aaf6"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#a65b5c30bf4f5f118a199e378d903aaf6">WorldSession</a></td></tr>
+<tr class="separator:a65b5c30bf4f5f118a199e378d903aaf6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f4241aa9ecc051c75f779af132a52ed"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d37/a10936.html#a7f4241aa9ecc051c75f779af132a52ed">Player</a></td></tr>
+<tr class="separator:a7f4241aa9ecc051c75f779af132a52ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aa82307388bdda7864bb085a349b63f29" name="aa82307388bdda7864bb085a349b63f29"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa82307388bdda7864bb085a349b63f29">&#9670;&#160;</a></span>EffectNameCheck()</h2>
+<div class="textblock"></div><h2 class="groupheader">Friends And Related Function Documentation</h2>
+<a id="a7f4241aa9ecc051c75f779af132a52ed" name="a7f4241aa9ecc051c75f779af132a52ed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7f4241aa9ecc051c75f779af132a52ed">&#9670;&#160;</a></span>Player</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -149,102 +160,43 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">_SpellScript::EffectNameCheck::EffectNameCheck </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/ddf/a00488.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"><em>_effName</em></td><td>)</td>
-          <td></td>
+          <td class="memname">friend class <a class="el" href="../../d2/d57/a08572.html">Player</a></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   88</span>{ <a class="code hl_variable" href="../../d1/d37/a10936.html#a905224fb028ea0eab350773b7230f871">effName</a> = _effName; }</div>
-<div class="ttc" id="aa10936_html_a905224fb028ea0eab350773b7230f871"><div class="ttname"><a href="../../d1/d37/a10936.html#a905224fb028ea0eab350773b7230f871">_SpellScript::EffectNameCheck::effName</a></div><div class="ttdeci">uint16 effName</div><div class="ttdef"><b>Definition:</b> SpellScript.h:92</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00092">effName</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a729d7f07669dedec50f009a87b8f32a4" name="a729d7f07669dedec50f009a87b8f32a4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a729d7f07669dedec50f009a87b8f32a4">&#9670;&#160;</a></span>Check()</h2>
+<a id="a65b5c30bf4f5f118a199e378d903aaf6" name="a65b5c30bf4f5f118a199e378d903aaf6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a65b5c30bf4f5f118a199e378d903aaf6">&#9670;&#160;</a></span>WorldSession</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool _SpellScript::EffectNameCheck::Check </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d06/a10868.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname"><em>spellInfo</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/ddf/a00488.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>effIndex</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">friend class <a class="el" href="../../d8/dcb/a10956.html">WorldSession</a></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  123</span>{</div>
-<div class="line"><span class="lineno">  124</span>    <span class="keywordflow">if</span> (!spellInfo-&gt;Effects[effIndex].Effect &amp;&amp; !<a class="code hl_variable" href="../../d1/d37/a10936.html#a905224fb028ea0eab350773b7230f871">effName</a>)</div>
-<div class="line"><span class="lineno">  125</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  126</span>    <span class="keywordflow">if</span> (!spellInfo-&gt;Effects[effIndex].Effect)</div>
-<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  128</span>    <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d1/d37/a10936.html#a905224fb028ea0eab350773b7230f871">effName</a> == <a class="code hl_define" href="../../d3/d12/a02354.html#ab6f3711ba6eb0532447359165e60172a">SPELL_EFFECT_ANY</a>) || (spellInfo-&gt;Effects[effIndex].Effect == <a class="code hl_variable" href="../../d1/d37/a10936.html#a905224fb028ea0eab350773b7230f871">effName</a>);</div>
-<div class="line"><span class="lineno">  129</span>}</div>
-<div class="ttc" id="aa02354_html_ab6f3711ba6eb0532447359165e60172a"><div class="ttname"><a href="../../d3/d12/a02354.html#ab6f3711ba6eb0532447359165e60172a">SPELL_EFFECT_ANY</a></div><div class="ttdeci">#define SPELL_EFFECT_ANY</div><div class="ttdef"><b>Definition:</b> SpellScript.h:42</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00393">SpellInfo::Effects</a>, and <a class="el" href="../../#l00042">SPELL_EFFECT_ANY</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00197">SpellScript::EffectHandler::CheckEffect()</a>.</p>
-
-</div>
-</div>
-<a id="a31e545b0ae22cad4be815ea9e3b44377" name="a31e545b0ae22cad4be815ea9e3b44377"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a31e545b0ae22cad4be815ea9e3b44377">&#9670;&#160;</a></span>ToString()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string _SpellScript::EffectNameCheck::ToString </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  132</span>{</div>
-<div class="line"><span class="lineno">  133</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d1/d37/a10936.html#a905224fb028ea0eab350773b7230f871">effName</a>)</div>
-<div class="line"><span class="lineno">  134</span>    {</div>
-<div class="line"><span class="lineno">  135</span>        <span class="keywordflow">case</span> <a class="code hl_define" href="../../d3/d12/a02354.html#ab6f3711ba6eb0532447359165e60172a">SPELL_EFFECT_ANY</a>:</div>
-<div class="line"><span class="lineno">  136</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;SPELL_EFFECT_ANY&quot;</span>;</div>
-<div class="line"><span class="lineno">  137</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  138</span>            <span class="keywordtype">char</span> num[10];</div>
-<div class="line"><span class="lineno">  139</span>            snprintf(num, <span class="keyword">sizeof</span>(num), <span class="stringliteral">&quot;%u&quot;</span>, <a class="code hl_variable" href="../../d1/d37/a10936.html#a905224fb028ea0eab350773b7230f871">effName</a>);</div>
-<div class="line"><span class="lineno">  140</span>            <span class="keywordflow">return</span> num;</div>
-<div class="line"><span class="lineno">  141</span>    }</div>
-<div class="line"><span class="lineno">  142</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">SPELL_EFFECT_ANY</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00192">SpellScript::EffectHandler::ToString()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a905224fb028ea0eab350773b7230f871" name="a905224fb028ea0eab350773b7230f871"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a905224fb028ea0eab350773b7230f871">&#9670;&#160;</a></span>effName</h2>
+<a id="aad61b8ca0caf09d6b62ee9fffd78cceb" name="aad61b8ca0caf09d6b62ee9fffd78cceb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aad61b8ca0caf09d6b62ee9fffd78cceb">&#9670;&#160;</a></span>CharCount</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -253,17 +205,257 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/ddf/a00488.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _SpellScript::EffectNameCheck::effName</td>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::CharCount = 0</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00088">EffectNameCheck()</a>.</p>
+<p>Server side data. </p>
+
+</div>
+</div>
+<a id="a41e354593f59bc8546688a37c2a5e504" name="a41e354593f59bc8546688a37c2a5e504"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a41e354593f59bc8546688a37c2a5e504">&#9670;&#160;</a></span>Class</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::Class = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00472">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="aba49d87691e9d2b10d430450c3f66493" name="aba49d87691e9d2b10d430450c3f66493"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba49d87691e9d2b10d430450c3f66493">&#9670;&#160;</a></span>Face</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::Face = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00472">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="a5a88b2c2556dd1239c417ea4fcc55287" name="a5a88b2c2556dd1239c417ea4fcc55287"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5a88b2c2556dd1239c417ea4fcc55287">&#9670;&#160;</a></span>FacialHair</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::FacialHair = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00472">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="ac4ed75d1527549051a92cbb958fa8eb4" name="ac4ed75d1527549051a92cbb958fa8eb4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac4ed75d1527549051a92cbb958fa8eb4">&#9670;&#160;</a></span>Gender</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::Gender = <a class="el" href="../../d4/d3a/a00101.html#a3667e3c5ec056737c8789615a989324fafe69f428f13193dcfd8ed8f30d6d2e07">GENDER_NONE</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00472">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="a0ded70bbcf30bba4de4ac0ee88fb6eb6" name="a0ded70bbcf30bba4de4ac0ee88fb6eb6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ded70bbcf30bba4de4ac0ee88fb6eb6">&#9670;&#160;</a></span>HairColor</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::HairColor = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00472">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="aa4b2800384a89a5c30c2edb7ff567865" name="aa4b2800384a89a5c30c2edb7ff567865"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4b2800384a89a5c30c2edb7ff567865">&#9670;&#160;</a></span>HairStyle</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::HairStyle = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00472">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="a4f81603fda1ae148e6d6174ea8d861fe" name="a4f81603fda1ae148e6d6174ea8d861fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4f81603fda1ae148e6d6174ea8d861fe">&#9670;&#160;</a></span>Name</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string CharacterCreateInfo::Name</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>User specified variables. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00472">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="a15baddc70b46d48bd9f128e73aaac606" name="a15baddc70b46d48bd9f128e73aaac606"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a15baddc70b46d48bd9f128e73aaac606">&#9670;&#160;</a></span>OutfitId</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::OutfitId = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aeee5ee1a2dc34e1b2ad1f8edd31679ff" name="aeee5ee1a2dc34e1b2ad1f8edd31679ff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeee5ee1a2dc34e1b2ad1f8edd31679ff">&#9670;&#160;</a></span>Race</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::Race = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00472">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="a0fbfb41f3fd0c9d0ba2bfc7f04df648e" name="a0fbfb41f3fd0c9d0ba2bfc7f04df648e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0fbfb41f3fd0c9d0ba2bfc7f04df648e">&#9670;&#160;</a></span>Skin</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::Skin = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00472">Player::Create()</a>.</p>
 
 </div>
 </div>
@@ -272,8 +464,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d6/d70/a10928.html">_SpellScript</a></li><li class="navelem"><a class="el" href="../../d1/d37/a10936.html">EffectNameCheck</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:43:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/d37/a10936.html">CharacterCreateInfo</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:43:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

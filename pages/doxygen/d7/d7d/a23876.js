@@ -1,6 +1,6 @@
 var a23876 =
 [
-    [ "HandlePeriodic", "d7/d7d/a23876.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
-    [ "PrepareAuraScript", "d7/d7d/a23876.html#a438425f3002028a0978e0dbab580ca03", null ],
-    [ "Register", "d7/d7d/a23876.html#af4b26607e8838b7bbbe8777f57601341", null ]
+    [ "npc_wounded_blood_elfAI", "d1/dee/a23880.html", "d1/dee/a23880" ],
+    [ "npc_wounded_blood_elf", "d7/d7d/a23876.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "d7/d7d/a23876.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

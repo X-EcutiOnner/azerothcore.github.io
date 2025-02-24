@@ -1,9 +1,8 @@
 var a28540 =
 [
-    [ "adtData", "d5/dd7/a28548.html", "d5/dd7/a28548" ],
-    [ "prepareLoadedData", "d4/d3e/a28540.html#a6b755c9e341918d05105d993391429c6", null ],
-    [ "adt_list", "d4/d3e/a28540.html#abe28c39e8856412c4fb182baab3218f0", null ],
-    [ "fcc", "d4/d3e/a28540.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
-    [ "fcc_txt", "d4/d3e/a28540.html#a0657c323732de8d83b9c360c1dd03b61", null ],
-    [ "size", "d4/d3e/a28540.html#a797c02773dd470a318474c7ef033ba7c", null ]
+    [ "TileConfig", "d4/d3e/a28540.html#a67b10c747fb0d2bc2a263e5009d42e1b", null ],
+    [ "BASE_UNIT_DIM", "d4/d3e/a28540.html#a5a882b0595456ab3fcca85c80af3b6f8", null ],
+    [ "TILES_PER_MAP", "d4/d3e/a28540.html#ae3443f89a8a698823c91096abe51a6a9", null ],
+    [ "VERTEX_PER_MAP", "d4/d3e/a28540.html#a46640a80428b1ab93d65d593c03d13ed", null ],
+    [ "VERTEX_PER_TILE", "d4/d3e/a28540.html#ae0331739074e5546818e13527a76524a", null ]
 ];

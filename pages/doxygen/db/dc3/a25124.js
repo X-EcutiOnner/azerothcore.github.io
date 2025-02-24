@@ -1,7 +1,11 @@
 var a25124 =
 [
-    [ "PrepareSpellScript", "db/dc3/a25124.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "db/dc3/a25124.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "db/dc3/a25124.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "db/dc3/a25124.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "spell_gen_consume", "db/dc3/a25124.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
+    [ "AfterRemove", "db/dc3/a25124.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
+    [ "HandleProc", "db/dc3/a25124.html#af69251aa0415a2148162f32dd9113917", null ],
+    [ "PrepareAuraScript", "db/dc3/a25124.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
+    [ "Register", "db/dc3/a25124.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
+    [ "Validate", "db/dc3/a25124.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
+    [ "_spellId1", "db/dc3/a25124.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
+    [ "_spellId2", "db/dc3/a25124.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
 ];

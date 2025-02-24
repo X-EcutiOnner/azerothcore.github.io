@@ -1,6 +1,8 @@
 var a13220 =
 [
-    [ "instance_uldaman_InstanceMapScript", "db/d02/a13224.html", "db/d02/a13224" ],
-    [ "instance_uldaman", "df/de2/a13220.html#a854807db729d15aa4a09aad051fe3bda", null ],
-    [ "GetInstanceScript", "df/de2/a13220.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
+    [ "OnPeriodic", "df/de2/a13220.html#acd400b0a061d1814591e33d16bf4180a", null ],
+    [ "OnRemove", "df/de2/a13220.html#a3da85c726007690220e9b4f81d30f185", null ],
+    [ "PrepareAuraScript", "df/de2/a13220.html#a216d723f309ffa46df4bba7af79752c8", null ],
+    [ "Register", "df/de2/a13220.html#a43fe84c2717d73e20a2562f596a84f36", null ],
+    [ "Validate", "df/de2/a13220.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
 ];

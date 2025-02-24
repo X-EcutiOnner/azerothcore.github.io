@@ -1,5 +1,6 @@
 var a20584 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "d0/d44/a20584.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "d0/d44/a20584.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "npc_xt002_boombotAI", "d7/dc0/a20588.html", "d7/dc0/a20588" ],
+    [ "npc_xt002_boombot", "d0/d44/a20584.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
+    [ "GetAI", "d0/d44/a20584.html#a27237e7a60042ed7163b19d80537c1b3", null ]
 ];

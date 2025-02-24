@@ -1,6 +1,7 @@
 var a23248 =
 [
-    [ "HandleScript", "d4/d2c/a23248.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
-    [ "PrepareSpellScript", "d4/d2c/a23248.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
-    [ "Register", "d4/d2c/a23248.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
+    [ "npc_underbog_mushroom", "d4/d2c/a23248.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "d4/d2c/a23248.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "d4/d2c/a23248.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "d4/d2c/a23248.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

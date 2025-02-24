@@ -1,10 +1,10 @@
 var a28604 =
 [
-    [ "ADTFile", "d7/d4d/a28604.html#a763f0f9c1106700987797864b2fdb006", null ],
-    [ "~ADTFile", "d7/d4d/a28604.html#ad1533f5b630a70b6ff95861e64960de0", null ],
-    [ "init", "d7/d4d/a28604.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
-    [ "_file", "d7/d4d/a28604.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
-    [ "Adtfilename", "d7/d4d/a28604.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
-    [ "ModelInstanceNames", "d7/d4d/a28604.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
-    [ "WmoInstanceNames", "d7/d4d/a28604.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
+    [ "WDTFile", "d7/d4d/a28604.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
+    [ "~WDTFile", "d7/d4d/a28604.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
+    [ "GetMap", "d7/d4d/a28604.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
+    [ "init", "d7/d4d/a28604.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
+    [ "_file", "d7/d4d/a28604.html#a54ab64288144b9cf4904e67bb359e524", null ],
+    [ "_wmoNames", "d7/d4d/a28604.html#a6ec4f95ff866585403670b620a42a857", null ],
+    [ "filename", "d7/d4d/a28604.html#ab3dac8623598bac1152a514a00126bf6", null ]
 ];

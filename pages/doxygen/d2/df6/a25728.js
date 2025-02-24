@@ -1,7 +1,9 @@
 var a25728 =
 [
-    [ "HandleDummy", "d2/df6/a25728.html#ad6d449ac393851166d8be653639c7d05", null ],
-    [ "PrepareSpellScript", "d2/df6/a25728.html#acb0b66631c0b3df227ee371e2e4000ac", null ],
-    [ "Register", "d2/df6/a25728.html#a8dcd509be4d9034e8c0262bdcb2cf189", null ],
-    [ "Validate", "d2/df6/a25728.html#af8f4e6bb32120c8113ddddcda17ae51d", null ]
+    [ "OnEffectHitTargetDisarm", "d2/df6/a25728.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "d2/df6/a25728.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "d2/df6/a25728.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "d2/df6/a25728.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "d2/df6/a25728.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "d2/df6/a25728.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

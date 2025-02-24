@@ -1,9 +1,9 @@
 var a08648 =
 [
-    [ "PlayerSearcher", "de/d71/a08648.html#a7247fcab3841996ed5d699696fb21557", null ],
-    [ "Visit", "de/d71/a08648.html#ab2544b79869ba4de9772b1bff7c40704", null ],
-    [ "Visit", "de/d71/a08648.html#abdb4dfeb80101e9e4bf0e46cab5a1f7b", null ],
-    [ "i_check", "de/d71/a08648.html#a58c24b81eec33c9ba8fe8145ee3679b4", null ],
-    [ "i_object", "de/d71/a08648.html#a70b071a2fccb4ff29fd614d1447e87ad", null ],
-    [ "i_phaseMask", "de/d71/a08648.html#a6dd83612b7f0d00035a7efb8d970afc6", null ]
+    [ "ProcTriggeredData", "de/d71/a08648.html#a37c5cbfd0b916b950a0e638223394de4", null ],
+    [ "operator==", "de/d71/a08648.html#a787760cbd8a6ee5192975bc514886159", null ],
+    [ "aura", "de/d71/a08648.html#a5138144d49900690bb15a5f66b763eac", null ],
+    [ "effMask", "de/d71/a08648.html#a1c2bfb3e0016ba823e12b3defe373790", null ],
+    [ "spellProcEvent", "de/d71/a08648.html#ac6e491a7ef478d271d3c74d7b9df577e", null ],
+    [ "triggerSpelId", "de/d71/a08648.html#abfd99a1e3beb871a3cbf83d7578ec98a", null ]
 ];

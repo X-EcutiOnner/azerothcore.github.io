@@ -1,8 +1,6 @@
 var a25456 =
 [
-    [ "OnApply", "db/dfc/a25456.html#a75b45732648d5ba90b49725a48609a89", null ],
-    [ "OnBaseRemove", "db/dfc/a25456.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "OnRemove", "db/dfc/a25456.html#a0331b3860691db793c5a7bcf53550c6f", null ],
-    [ "PrepareAuraScript", "db/dfc/a25456.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "db/dfc/a25456.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "HandlePeriodicTick", "db/dfc/a25456.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
+    [ "PrepareAuraScript", "db/dfc/a25456.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
+    [ "Register", "db/dfc/a25456.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
 ];

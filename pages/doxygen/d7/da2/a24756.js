@@ -1,6 +1,7 @@
 var a24756 =
 [
-    [ "HandleScript", "d7/da2/a24756.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
-    [ "PrepareSpellScript", "d7/da2/a24756.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
-    [ "Register", "d7/da2/a24756.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
+    [ "HandleApply", "d7/da2/a24756.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
+    [ "HandlePeriodicTimer", "d7/da2/a24756.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
+    [ "PrepareAuraScript", "d7/da2/a24756.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
+    [ "Register", "d7/da2/a24756.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
 ];

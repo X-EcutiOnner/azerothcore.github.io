@@ -1,9 +1,16 @@
 var a16852 =
 [
-    [ "FilterTargets", "d1/d22/a16852.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "d1/d22/a16852.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "d1/d22/a16852.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "d1/d22/a16852.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "d1/d22/a16852.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "d1/d22/a16852.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "boss_ickAI", "d1/d22/a16852.html#a72c90af745b63202edc36b84b3f4df12", null ],
+    [ "CanAIAttack", "d1/d22/a16852.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
+    [ "DamageTaken", "d1/d22/a16852.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
+    [ "GetKrick", "d1/d22/a16852.html#a2d6192f314e76886204c7248d141260a", null ],
+    [ "JustDied", "d1/d22/a16852.html#afd7752ee19dcc6be0b28181bb4485146", null ],
+    [ "JustEngagedWith", "d1/d22/a16852.html#a27598604e65417225acd41d6f05cc717", null ],
+    [ "JustSummoned", "d1/d22/a16852.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
+    [ "KilledUnit", "d1/d22/a16852.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
+    [ "Reset", "d1/d22/a16852.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
+    [ "SpellHitTarget", "d1/d22/a16852.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
+    [ "UpdateAI", "d1/d22/a16852.html#a74bd63ac9558ecec52affaa7440360a1", null ],
+    [ "events", "d1/d22/a16852.html#aab514bb5f930d9eb545a279181632796", null ],
+    [ "pInstance", "d1/d22/a16852.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
 ];

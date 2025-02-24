@@ -1,7 +1,6 @@
 var a12840 =
 [
-    [ "OnPeriodic", "de/d49/a12840.html#aa48b6f35302a8857465c6567f811dec6", null ],
-    [ "PrepareAuraScript", "de/d49/a12840.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
-    [ "Register", "de/d49/a12840.html#aa7708067531131738b86077638eda7ac", null ],
-    [ "Validate", "de/d49/a12840.html#a665698b54201184185d96bd33f53e584", null ]
+    [ "npc_scarlet_miner_cartAI", "d6/d3a/a12844.html", "d6/d3a/a12844" ],
+    [ "npc_scarlet_miner_cart", "de/d49/a12840.html#a987247939c6fd576d4b8d541175ecb6b", null ],
+    [ "GetAI", "de/d49/a12840.html#a0f1436f0f6784af5ab62bf91df355731", null ]
 ];

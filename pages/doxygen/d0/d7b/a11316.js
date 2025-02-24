@@ -1,12 +1,12 @@
 var a11316 =
 [
-    [ "gm_commandscript", "d0/d7b/a11316.html#a1b24112b70818778755ef9b5b062b2e8", null ],
-    [ "GetCommands", "d0/d7b/a11316.html#a17c725e18324de7aadff260c77d75c45", null ],
-    [ "HandleGMChatCommand", "d0/d7b/a11316.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
-    [ "HandleGMFlyCommand", "d0/d7b/a11316.html#a4073bc8216a3505b4b49326cbc081a99", null ],
-    [ "HandleGMListFullCommand", "d0/d7b/a11316.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
-    [ "HandleGMListIngameCommand", "d0/d7b/a11316.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
-    [ "HandleGMOffCommand", "d0/d7b/a11316.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
-    [ "HandleGMOnCommand", "d0/d7b/a11316.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
-    [ "HandleGMVisibleCommand", "d0/d7b/a11316.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
+    [ "CreatureTextBuilder", "d0/d7b/a11316.html#a582eed3ab284675e72261a1db9808925", null ],
+    [ "operator()", "d0/d7b/a11316.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
+    [ "_gender", "d0/d7b/a11316.html#a615c3046f749bf44b036958fb1a50128", null ],
+    [ "_language", "d0/d7b/a11316.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
+    [ "_msgType", "d0/d7b/a11316.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
+    [ "_source", "d0/d7b/a11316.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
+    [ "_target", "d0/d7b/a11316.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
+    [ "_textGroup", "d0/d7b/a11316.html#afcd842c1482980c6232f3f19d21a1481", null ],
+    [ "_textId", "d0/d7b/a11316.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
 ];

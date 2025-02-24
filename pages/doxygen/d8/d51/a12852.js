@@ -1,13 +1,12 @@
 var a12852 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "d8/d51/a12852.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
-    [ "Initialize", "d8/d51/a12852.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
-    [ "OnCreatureCreate", "d8/d51/a12852.html#a3f9cca96886b97f7657edc04f4997d41", null ],
-    [ "OnGameObjectCreate", "d8/d51/a12852.html#ad420b6b549b8d76a80844d81548b1143", null ],
-    [ "ReadSaveDataMore", "d8/d51/a12852.html#a83a24703aafb973809618d3ac3ac0375", null ],
-    [ "SetData", "d8/d51/a12852.html#abdc105e9306d9abc776259be97e2488f", null ],
-    [ "WriteSaveDataMore", "d8/d51/a12852.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
-    [ "_apothecaryHummel", "d8/d51/a12852.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
-    [ "_crazedApothecaryGeneratorGUIDs", "d8/d51/a12852.html#a00880eedbbc2deb4dc36e4c851558861", null ],
-    [ "_encounters", "d8/d51/a12852.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
+    [ "npc_scarlet_minerAI", "d8/d51/a12852.html#a7f5ca173103eb4498ce41912bda5da66", null ],
+    [ "InitCartQuest", "d8/d51/a12852.html#a5d3ece8f2f02a2bae4550a41f55348b0", null ],
+    [ "InitWaypoint", "d8/d51/a12852.html#a7fe048368b6e0a43b5be501a24773b8c", null ],
+    [ "Reset", "d8/d51/a12852.html#a2a8660173dc32c38de917049eb33fff8", null ],
+    [ "UpdateAI", "d8/d51/a12852.html#a48d2c92a4d45d5e59252f9455b82cbbd", null ],
+    [ "WaypointReached", "d8/d51/a12852.html#a31f4363e269b51d3a002a132b5516dd0", null ],
+    [ "carGUID", "d8/d51/a12852.html#a963f9c0ca58ce160b43f36f5a9f7dee7", null ],
+    [ "IntroPhase", "d8/d51/a12852.html#a094c2ee20d13c88805c3de7f9f94b86e", null ],
+    [ "IntroTimer", "d8/d51/a12852.html#adae2103753dd62699359ff01ac3ba865", null ]
 ];

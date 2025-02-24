@@ -1,12 +1,10 @@
 var a22664 =
 [
-    [ "boss_gurtogg_bloodboil", "de/dc6/a22664.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "de/dc6/a22664.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "de/dc6/a22664.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "de/dc6/a22664.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "de/dc6/a22664.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "de/dc6/a22664.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "de/dc6/a22664.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "de/dc6/a22664.html#add25677d422b8bddcb753465451f0584", null ],
-    [ "_recentlySpoken", "de/dc6/a22664.html#a74af813b84f7787a5b764cfe574c087b", null ]
+    [ "boss_gathios_the_shatterer", "de/dc6/a22664.html#a34708f52c610e567c5acf62962e90d4e", null ],
+    [ "JustEngagedWith", "de/dc6/a22664.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
+    [ "SelectCouncilMember", "de/dc6/a22664.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
+    [ "UpdateAI", "de/dc6/a22664.html#a1541f1efd3978a4c91b80e411aec6442", null ],
+    [ "_toggleAura", "de/dc6/a22664.html#aa983e2d9018a9e53ee29840781f47c33", null ],
+    [ "_toggleBlessing", "de/dc6/a22664.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
+    [ "_toggleSeal", "de/dc6/a22664.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
 ];

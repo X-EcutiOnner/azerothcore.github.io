@@ -1,7 +1,6 @@
 var a24552 =
 [
-    [ "CalcDamage", "db/da4/a24552.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
-    [ "PrepareSpellScript", "db/da4/a24552.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
-    [ "Register", "db/da4/a24552.html#a857a010e6426e931ca872f66803b99b9", null ],
-    [ "Validate", "db/da4/a24552.html#ab64625ce305efb9dc92780c945b4fd62", null ]
+    [ "CalculateAmount", "db/da4/a24552.html#a8deb31d3b6244f4d8de6050c99b3192e", null ],
+    [ "PrepareAuraScript", "db/da4/a24552.html#a4090baaee0e4330d3776b5774c5c923a", null ],
+    [ "Register", "db/da4/a24552.html#a4db48f3a549a04caf746a9459b1c5640", null ]
 ];

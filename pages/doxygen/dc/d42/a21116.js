@@ -1,6 +1,6 @@
 var a21116 =
 [
-    [ "CalculateAmount", "dc/d42/a21116.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "dc/d42/a21116.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "dc/d42/a21116.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "boss_toravonAI", "d4/d9a/a21120.html", "d4/d9a/a21120" ],
+    [ "boss_toravon", "dc/d42/a21116.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
+    [ "GetAI", "dc/d42/a21116.html#a6db140b1d232312300e20155830cb249", null ]
 ];

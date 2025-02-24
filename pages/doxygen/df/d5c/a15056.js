@@ -1,6 +1,6 @@
 var a15056 =
 [
-    [ "HandleDummy", "df/d5c/a15056.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
-    [ "PrepareSpellScript", "df/d5c/a15056.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
-    [ "Register", "df/d5c/a15056.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
+    [ "HandleOnHit", "df/d5c/a15056.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
+    [ "PrepareSpellScript", "df/d5c/a15056.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
+    [ "Register", "df/d5c/a15056.html#a1e608d67914c0071a913d96d70c625d6", null ]
 ];

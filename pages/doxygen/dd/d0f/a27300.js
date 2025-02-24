@@ -1,6 +1,10 @@
 var a27300 =
 [
-    [ "guard_shattrath_aldorAI", "d6/d29/a27304.html", "d6/d29/a27304" ],
-    [ "guard_shattrath_aldor", "dd/d0f/a27300.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "dd/d0f/a27300.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "go_evil_book_for_dummies", "dd/d0f/a27300.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "dd/d0f/a27300.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "dd/d0f/a27300.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "dd/d0f/a27300.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "dd/d0f/a27300.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "dd/d0f/a27300.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "dd/d0f/a27300.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

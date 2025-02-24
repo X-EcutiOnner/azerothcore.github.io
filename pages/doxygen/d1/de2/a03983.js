@@ -1,6 +1,10 @@
 var a03983 =
 [
-    [ "DBUpdater< CharacterDatabaseConnection >", "d1/de2/a03983.html#a753e207671f7af3815a056247f2de3ce", null ],
-    [ "DBUpdater< LoginDatabaseConnection >", "d1/de2/a03983.html#a16a33693c8570aff221401b100547fb7", null ],
-    [ "DBUpdater< WorldDatabaseConnection >", "d1/de2/a03983.html#ace05c45d1df6cb7f16487ef1aa8bc9f7", null ]
+    [ "UpdateException", "df/d3a/a05852.html", "df/d3a/a05852" ],
+    [ "DBUpdaterUtil", "d8/dad/a05856.html", "d8/dad/a05856" ],
+    [ "DBUpdater< T >", "d8/d7d/a05860.html", "d8/d7d/a05860" ],
+    [ "BaseLocation", "d1/de2/a03983.html#a0c382fe144b0dc101a8b2b9d4ef51010", [
+      [ "LOCATION_REPOSITORY", "d1/de2/a03983.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550", null ],
+      [ "LOCATION_DOWNLOAD", "d1/de2/a03983.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c", null ]
+    ] ]
 ];

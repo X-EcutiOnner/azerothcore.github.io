@@ -1,5 +1,6 @@
 var a12904 =
 [
-    [ "at_malfurion_stormrage", "d0/de2/a12904.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
-    [ "OnTrigger", "d0/de2/a12904.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
+    [ "npc_a_special_surpriseAI", "d3/d86/a12908.html", "d3/d86/a12908" ],
+    [ "npc_a_special_surprise", "d0/de2/a12904.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
+    [ "GetAI", "d0/de2/a12904.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
 ];

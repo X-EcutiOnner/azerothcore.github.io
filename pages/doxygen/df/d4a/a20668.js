@@ -1,5 +1,6 @@
 var a20668 =
 [
-    [ "achievement_xt002_nerf_engineering", "df/d4a/a20668.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "df/d4a/a20668.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "boss_yoggsaron_brainAI", "d6/dfa/a20672.html", "d6/dfa/a20672" ],
+    [ "boss_yoggsaron_brain", "df/d4a/a20668.html#a8094e2a062f06c5a954c1d3401ca18d4", null ],
+    [ "GetAI", "df/d4a/a20668.html#a02e6b07087765d75d0f49b864e2f323f", null ]
 ];

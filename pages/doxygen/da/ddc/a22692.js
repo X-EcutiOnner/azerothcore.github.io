@@ -1,7 +1,7 @@
 var a22692 =
 [
-    [ "npc_blade_of_azzinoth", "da/ddc/a22692.html#a55afe56313c237afe8080662b2ed2dba", null ],
-    [ "DoAction", "da/ddc/a22692.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
-    [ "IsSummonedBy", "da/ddc/a22692.html#af2925da1235b809ee81469fe32ab0f92", null ],
-    [ "JustSummoned", "da/ddc/a22692.html#a501e2d1ae9af813fd9c30395e7774983", null ]
+    [ "PrepareAuraScript", "da/ddc/a22692.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "da/ddc/a22692.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "da/ddc/a22692.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "da/ddc/a22692.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

@@ -1,12 +1,7 @@
 var a14616 =
 [
-    [ "boss_lieutenant_drake", "d7/d98/a14616.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
-    [ "InitializeAI", "d7/d98/a14616.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
-    [ "JustDied", "d7/d98/a14616.html#aca7654e30aac96fa509f99f3447121ec", null ],
-    [ "JustEngagedWith", "d7/d98/a14616.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
-    [ "KilledUnit", "d7/d98/a14616.html#a833c889c28ea35a6198fe753b604a8ed", null ],
-    [ "MovementInform", "d7/d98/a14616.html#aec6e332bc5739552cbbec27569c55759", null ],
-    [ "UpdateAI", "d7/d98/a14616.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
-    [ "pathId", "d7/d98/a14616.html#ac63f9c885296a797799c0cd83b0ade64", null ],
-    [ "runSecondPath", "d7/d98/a14616.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
+    [ "npc_cos_chromie_middle", "d7/d98/a14616.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "d7/d98/a14616.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "d7/d98/a14616.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "d7/d98/a14616.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
 ];

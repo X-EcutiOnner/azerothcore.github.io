@@ -1,6 +1,6 @@
 var a21432 =
 [
-    [ "HandleEffectPeriodic", "dd/de7/a21432.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "dd/de7/a21432.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "dd/de7/a21432.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "npc_warmage_coldarraAI", "dc/dbe/a21436.html", "dc/dbe/a21436" ],
+    [ "npc_warmage_coldarra", "dd/de7/a21432.html#a358f8ab26991798ff076ac764cd7abe2", null ],
+    [ "GetAI", "dd/de7/a21432.html#aa29181e0ad61b44eff685267f3231382", null ]
 ];

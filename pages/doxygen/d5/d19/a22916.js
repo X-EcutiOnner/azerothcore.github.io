@@ -1,6 +1,6 @@
 var a22916 =
 [
-    [ "PrepareSpellScript", "d5/d19/a22916.html#ad786920d6180b8e2829f3a56ec50c488", null ],
-    [ "Register", "d5/d19/a22916.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
-    [ "SetDest", "d5/d19/a22916.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
+    [ "HandleScriptEffect", "d5/d19/a22916.html#a2b46490b70bf93effb7379686e648618", null ],
+    [ "PrepareSpellScript", "d5/d19/a22916.html#a5030d071372ef12663f6a75be637476e", null ],
+    [ "Register", "d5/d19/a22916.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
 ];

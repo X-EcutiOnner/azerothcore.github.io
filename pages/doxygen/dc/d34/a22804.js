@@ -1,6 +1,5 @@
 var a22804 =
 [
-    [ "PrepareAuraScript", "dc/d34/a22804.html#a5cba6aaa06f8ec6e083ee0c5064414e4", null ],
-    [ "Register", "dc/d34/a22804.html#a75d0cf142e299783b06903ea03287e28", null ],
-    [ "Update", "dc/d34/a22804.html#ac027b02ed0ba70d65621a6af157c98f6", null ]
+    [ "npc_ashtongue_sorcerer", "dc/d34/a22804.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
+    [ "MovementInform", "dc/d34/a22804.html#a56fa93f83e8a536b13667c8f780961b7", null ]
 ];

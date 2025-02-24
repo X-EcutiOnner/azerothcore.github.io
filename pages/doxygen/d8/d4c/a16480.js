@@ -1,5 +1,7 @@
 var a16480 =
 [
-    [ "PrepareAuraScript", "d8/d4c/a16480.html#ac3f3bb4164ade80c1553287039983083", null ],
-    [ "Register", "d8/d4c/a16480.html#adff3856a6ee07299410a4e08df444c64", null ]
+    [ "HandleEffectPeriodic", "d8/d4c/a16480.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
+    [ "PrepareAuraScript", "d8/d4c/a16480.html#af84222492b3209c97695895c4c991f4a", null ],
+    [ "Register", "d8/d4c/a16480.html#a4d1741913631bb649508ef238e25a6c8", null ],
+    [ "Validate", "d8/d4c/a16480.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
 ];

@@ -1,7 +1,5 @@
 var a14780 =
 [
-    [ "HandleScript", "d6/d8c/a14780.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
-    [ "PrepareSpellScript", "d6/d8c/a14780.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
-    [ "Register", "d6/d8c/a14780.html#aff966352a2babe6e6daed91f02e1190a", null ],
-    [ "Validate", "d6/d8c/a14780.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
+    [ "npc_idol_room_spawnerAI", "d6/d8c/a14780.html#a77c4aa88d213271166158c8e75d41a69", null ],
+    [ "SetData", "d6/d8c/a14780.html#aa0626c837086b4a275f4d51d1659a242", null ]
 ];

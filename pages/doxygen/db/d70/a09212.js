@@ -1,12 +1,9 @@
 var a09212 =
 [
-    [ "EventLogEntry", "db/d70/a09212.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
-    [ "EventLogEntry", "db/d70/a09212.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
-    [ "~EventLogEntry", "db/d70/a09212.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
-    [ "SaveToDB", "db/d70/a09212.html#a2ca71e291a44f95bb42d51083aa84985", null ],
-    [ "WritePacket", "db/d70/a09212.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
-    [ "m_eventType", "db/d70/a09212.html#a00216643e6856591402c21df490c1fec", null ],
-    [ "m_newRank", "db/d70/a09212.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
-    [ "m_playerGuid1", "db/d70/a09212.html#a06a2b45d16860c711829f49f97624272", null ],
-    [ "m_playerGuid2", "db/d70/a09212.html#a1f66e71f9536e484663e437bbcbcefca", null ]
+    [ "CreatureLastSearcher", "db/d70/a09212.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d", null ],
+    [ "Visit", "db/d70/a09212.html#ae6774df4ffff18cd4f3b4c07724db4f4", null ],
+    [ "Visit", "db/d70/a09212.html#a08635cefbba5dca34734569816d2edb8", null ],
+    [ "i_check", "db/d70/a09212.html#a2b9afe2c43af6e68f7fa5ba661790ef9", null ],
+    [ "i_object", "db/d70/a09212.html#ab8a14acb8d0fc9835d1325430fa1a367", null ],
+    [ "i_phaseMask", "db/d70/a09212.html#a9dd25e3437e1c1e5e4c8d68ab3548500", null ]
 ];

@@ -1,7 +1,6 @@
 var a20880 =
 [
-    [ "HandleProc", "d9/d9a/a20880.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "d9/d9a/a20880.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "d9/d9a/a20880.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "d9/d9a/a20880.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "npc_ulduar_storm_tempered_keeperAI", "db/d56/a20884.html", "db/d56/a20884" ],
+    [ "npc_ulduar_storm_tempered_keeper", "d9/d9a/a20880.html#aaf2ef154cad4f2ba5796e410dabf02fc", null ],
+    [ "GetAI", "d9/d9a/a20880.html#aa0860236d2abedba1e521ee1610c89e8", null ]
 ];

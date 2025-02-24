@@ -1,6 +1,6 @@
 var a19584 =
 [
-    [ "npc_collapsing_starAI", "de/df9/a19584.html#ac389b380a8f315ae50a8cd809393a773", null ],
-    [ "DamageTaken", "de/df9/a19584.html#a424fac98093eb9d02cda5027523ad06a", null ],
-    [ "JustSummoned", "de/df9/a19584.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
+    [ "PrepareSpellScript", "de/df9/a19584.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "de/df9/a19584.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "de/df9/a19584.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

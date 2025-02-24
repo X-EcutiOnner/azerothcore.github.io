@@ -1,8 +1,8 @@
 var a08664 =
 [
-    [ "PlayerWorker", "de/dda/a08664.html#ac7c16ec87b533b7b58b768cac116d7a2", null ],
-    [ "Visit", "de/dda/a08664.html#a018b799be67c284d6ed5c7a368ef1985", null ],
-    [ "Visit", "de/dda/a08664.html#a19c56b5bde9e57ea0152a89ac05e292b", null ],
-    [ "i_do", "de/dda/a08664.html#ae09b42f770e895b1c283ea7ca7527b7a", null ],
-    [ "i_phaseMask", "de/dda/a08664.html#aa23944bde7aa8e3a77f33b0a93f92c57", null ]
+    [ "CleanDamage", "de/dda/a08664.html#ad25ab816a679e323c07873efbc1c2f20", null ],
+    [ "absorbed_damage", "de/dda/a08664.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
+    [ "attackType", "de/dda/a08664.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
+    [ "hitOutCome", "de/dda/a08664.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
+    [ "mitigated_damage", "de/dda/a08664.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
 ];

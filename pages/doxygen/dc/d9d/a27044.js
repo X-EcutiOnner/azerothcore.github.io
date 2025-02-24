@@ -1,6 +1,5 @@
 var a27044 =
 [
-    [ "npc_spirit_shadeAI", "da/de6/a27048.html", "da/de6/a27048" ],
-    [ "npc_spirit_shade", "dc/d9d/a27044.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "dc/d9d/a27044.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "go_ethereum_prison", "dc/d9d/a27044.html#a1872dab11a8470194ab35f87e217aa8a", null ],
+    [ "OnGossipHello", "dc/d9d/a27044.html#a73479b0512ea778336fad4bd5cd9b909", null ]
 ];

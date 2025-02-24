@@ -1,6 +1,9 @@
 var a24436 =
 [
-    [ "HandlePeriodic", "d2/da8/a24436.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
-    [ "PrepareAuraScript", "d2/da8/a24436.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
-    [ "Register", "d2/da8/a24436.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
+    [ "CheckCast", "d2/da8/a24436.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
+    [ "EntryCheck", "d2/da8/a24436.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
+    [ "HandleBaseDummy", "d2/da8/a24436.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
+    [ "HandleDummy", "d2/da8/a24436.html#a34d9f5699f306b27830ced2129be506c", null ],
+    [ "PrepareSpellScript", "d2/da8/a24436.html#af7aff878540dd34138aa479f532611b6", null ],
+    [ "Register", "d2/da8/a24436.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
 ];

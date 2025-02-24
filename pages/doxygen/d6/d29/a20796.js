@@ -1,6 +1,8 @@
 var a20796 =
 [
-    [ "boss_yoggsaron_neltharionAI", "d5/d37/a20800.html", "d5/d37/a20800" ],
-    [ "boss_yoggsaron_neltharion", "d6/d29/a20796.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
-    [ "GetAI", "d6/d29/a20796.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
+    [ "Absorb", "d6/d29/a20796.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
+    [ "CalculateAmount", "d6/d29/a20796.html#afe50bf22d07e68757caffb056ad55811", null ],
+    [ "PrepareAuraScript", "d6/d29/a20796.html#afa4ef1f7faa36a521c208dde10d09437", null ],
+    [ "Register", "d6/d29/a20796.html#aae020936d42da81c445f7d296660987b", null ],
+    [ "Validate", "d6/d29/a20796.html#a5852135c5214ee3938603632b0f21917", null ]
 ];

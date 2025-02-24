@@ -1,6 +1,7 @@
 var a13044 =
 [
-    [ "boss_kalecAI", "d5/de0/a13048.html", "d5/de0/a13048" ],
-    [ "boss_kalec", "d5/d1b/a13044.html#a25902fa205a6ec73b3230c4579796e02", null ],
-    [ "GetAI", "d5/d1b/a13044.html#a121642631814afb110516661e03956de", null ]
+    [ "HandleScript", "d5/d1b/a13044.html#ab705220b48be16090107135f9e2272cf", null ],
+    [ "PrepareSpellScript", "d5/d1b/a13044.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
+    [ "Register", "d5/d1b/a13044.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
+    [ "Validate", "d5/d1b/a13044.html#ad1d90693a427a52fa728e5ae455932a3", null ]
 ];

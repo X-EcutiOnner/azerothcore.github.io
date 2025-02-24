@@ -1,8 +1,9 @@
 var a08568 =
 [
-    [ "entry", "d8/db5/a08568.html#a924aaeec6de12ef02b5d2f9801571a1f", null ],
-    [ "ExtendedCost", "d8/db5/a08568.html#ac826dc078ef456ed93bf23175bce243d", null ],
-    [ "incrtime", "d8/db5/a08568.html#ab86bdb08475c1c2b75755fffcb6b8275", null ],
-    [ "item", "d8/db5/a08568.html#a8f2e01fb177f33afeef9e37ffd456ff2", null ],
-    [ "maxcount", "d8/db5/a08568.html#a48cb32b398e0dc6928a30bb254b05a11", null ]
+    [ "PendingSpellCastRequest", "d8/db5/a08568.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
+    [ "cancelInProgress", "d8/db5/a08568.html#a726b6e423b23f8c12c65e07809462ad1", null ],
+    [ "category", "d8/db5/a08568.html#a51a702f257b784dac4556397dd1c0be4", null ],
+    [ "isItem", "d8/db5/a08568.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
+    [ "requestPacket", "d8/db5/a08568.html#a6ee868c6161e49dc8774ab357f313116", null ],
+    [ "spellId", "d8/db5/a08568.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
 ];

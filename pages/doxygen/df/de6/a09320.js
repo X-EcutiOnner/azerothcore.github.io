@@ -1,8 +1,9 @@
 var a09320 =
 [
-    [ "BossInfo", "df/de6/a09320.html#a455f533d647927d182176c3cceb21f42", null ],
-    [ "boundary", "df/de6/a09320.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
-    [ "door", "df/de6/a09320.html#a858af8825ed4fe183ee19b6f10239304", null ],
-    [ "minion", "df/de6/a09320.html#abec1469d41f286d02c34223171373cd3", null ],
-    [ "state", "df/de6/a09320.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
+    [ "AnyGroupedUnitInObjectRangeCheck", "df/de6/a09320.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
+    [ "operator()", "df/de6/a09320.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
+    [ "_raid", "df/de6/a09320.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
+    [ "_range", "df/de6/a09320.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
+    [ "_refUnit", "df/de6/a09320.html#ad083243ef5487aa374b19e3c82b0457c", null ],
+    [ "_source", "df/de6/a09320.html#a91de967d2376ea96b1fc0838094915cf", null ]
 ];

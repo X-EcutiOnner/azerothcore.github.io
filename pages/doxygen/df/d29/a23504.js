@@ -1,6 +1,7 @@
 var a23504 =
 [
-    [ "HandleScriptEffect", "df/d29/a23504.html#adf350bccc5862252f6928faa4ae3a001", null ],
-    [ "PrepareSpellScript", "df/d29/a23504.html#a0d1ff479da3b8f50ed698da9f9029589", null ],
-    [ "Register", "df/d29/a23504.html#afaf23967ede6e120caa7758ff2d3c974", null ]
+    [ "HandleOnApply", "df/d29/a23504.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "df/d29/a23504.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "df/d29/a23504.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "df/d29/a23504.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

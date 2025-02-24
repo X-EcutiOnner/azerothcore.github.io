@@ -1,7 +1,7 @@
 var a25248 =
 [
-    [ "OnPeriodic", "df/de0/a25248.html#a58f13f947b4daac98651f7fa46d7d674", null ],
-    [ "PrepareAuraScript", "df/de0/a25248.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
-    [ "Register", "df/de0/a25248.html#ad0c688255e340c428624de7071b5df56", null ],
-    [ "Validate", "df/de0/a25248.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
+    [ "HandleScriptEffect", "df/de0/a25248.html#ae3c2900d98c2fd51ff0888ea5d1072c4", null ],
+    [ "PrepareSpellScript", "df/de0/a25248.html#a29ac1789b8023ef3339a7b40ee9c31ab", null ],
+    [ "Register", "df/de0/a25248.html#a321098d2325bfb9cea674d1137348350", null ],
+    [ "Validate", "df/de0/a25248.html#aa16a67bf42f51b838d22dcbe4b5b6f7b", null ]
 ];

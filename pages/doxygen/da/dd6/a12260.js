@@ -1,9 +1,7 @@
 var a12260 =
 [
-    [ "boss_curator", "da/dd6/a12260.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
-    [ "JustDied", "da/dd6/a12260.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
-    [ "JustEngagedWith", "da/dd6/a12260.html#a848f477a101956662389cab5ffcc0727", null ],
-    [ "JustSummoned", "da/dd6/a12260.html#ac779d275e03e6ba190617d215b217ce5", null ],
-    [ "KilledUnit", "da/dd6/a12260.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
-    [ "Reset", "da/dd6/a12260.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
+    [ "HandleRemove", "da/dd6/a12260.html#a754b44b62c131e20e1be94b3407e2006", null ],
+    [ "PrepareAuraScript", "da/dd6/a12260.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
+    [ "Register", "da/dd6/a12260.html#a02cd375ec140f7614104b7e56df13430", null ],
+    [ "Validate", "da/dd6/a12260.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
 ];

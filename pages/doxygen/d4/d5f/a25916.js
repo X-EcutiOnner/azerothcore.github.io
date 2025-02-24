@@ -1,5 +1,6 @@
 var a25916 =
 [
-    [ "Trigger", "d4/d5f/a25916.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "d4/d5f/a25916.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "CheckProc", "d4/d5f/a25916.html#a0f1461140b08deac3f044142067368e7", null ],
+    [ "PrepareAuraScript", "d4/d5f/a25916.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
+    [ "Register", "d4/d5f/a25916.html#a05e31c2252c9054a18b4267be84895b9", null ]
 ];

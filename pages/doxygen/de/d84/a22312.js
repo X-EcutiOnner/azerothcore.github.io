@@ -1,6 +1,5 @@
 var a22312 =
 [
-    [ "go_wg_vehicle_teleporterAI", "d3/d6b/a22316.html", "d3/d6b/a22316" ],
-    [ "go_wg_vehicle_teleporter", "de/d84/a22312.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
-    [ "GetAI", "de/d84/a22312.html#a113aaf42c095000c1a016bfe60df11e7", null ]
+    [ "go_scourge_enclosure", "de/d84/a22312.html#a3611232cb735f336087d4d3c90f66b8d", null ],
+    [ "OnGossipHello", "de/d84/a22312.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
 ];

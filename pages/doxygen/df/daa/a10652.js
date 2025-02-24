@@ -1,11 +1,13 @@
 var a10652 =
 [
-    [ "OptionalData", "d9/de1/a10656.html", "d9/de1/a10656" ],
-    [ "ArrivalTicks", "df/daa/a10652.html#a8fa635d0c8f77a0e39fd66501490f6ea", null ],
-    [ "ConnectionId", "df/daa/a10652.html#abe8700ec99d55a66b22f8fbb28c833fa", null ],
-    [ "Direction", "df/daa/a10652.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8", null ],
-    [ "Length", "df/daa/a10652.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc", null ],
-    [ "Opcode", "df/daa/a10652.html#a7fcc9281cd10ecf79929f9f17c855b65", null ],
-    [ "OptionalData", "df/daa/a10652.html#aa5219ee4193cccf913dabf6db5d6f57a", null ],
-    [ "OptionalDataSize", "df/daa/a10652.html#a03b79fe07bd5f0a1c254f2fb92a3ecba", null ]
+    [ "GuildBankQueryResults", "df/daa/a10652.html#a8203a35b76fdc674794c5bd3c1acb9ed", null ],
+    [ "SetWithdrawalsRemaining", "df/daa/a10652.html#a52af0d2b4e092daf0719bdf325c51652", null ],
+    [ "Write", "df/daa/a10652.html#a4598c0c9d1f94c5aa0671f210e1597d4", null ],
+    [ "_withdrawalsRemainingPos", "df/daa/a10652.html#abe711cd2da225fdc73eabe2ad6bd3f5d", null ],
+    [ "FullUpdate", "df/daa/a10652.html#a42ca9b48981d7d338aecb7840c248f0f", null ],
+    [ "ItemInfo", "df/daa/a10652.html#ad799195b259f92aa4e71e1ee8fd99741", null ],
+    [ "Money", "df/daa/a10652.html#ad401eb3444f5ae50781e634e1f55eba1", null ],
+    [ "Tab", "df/daa/a10652.html#a72ac06ace5e7974d666e3fc3d626e3c0", null ],
+    [ "TabInfo", "df/daa/a10652.html#ad36f0ae1d897ef504ad9761c00db77ca", null ],
+    [ "WithdrawalsRemaining", "df/daa/a10652.html#a211288bde5a15f2d21df65acf087c7d0", null ]
 ];

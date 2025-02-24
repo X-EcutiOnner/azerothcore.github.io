@@ -1,7 +1,6 @@
 var a14612 =
 [
-    [ "boss_epoch_hunter", "d5/d33/a14612.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "d5/d33/a14612.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "d5/d33/a14612.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "d5/d33/a14612.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "npc_cos_chromie_start", "d5/d33/a14612.html#ae8f810af1e593ad16958049f6ad19616", null ],
+    [ "OnGossipSelect", "d5/d33/a14612.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
+    [ "OnQuestAccept", "d5/d33/a14612.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
 ];

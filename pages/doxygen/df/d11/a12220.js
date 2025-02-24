@@ -1,10 +1,8 @@
 var a12220 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "df/d11/a12220.html#a0080fdf557ad8159a8934dce5b39a535", null ],
-    [ "OnCreatureCreate", "df/d11/a12220.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
-    [ "OnGameObjectCreate", "df/d11/a12220.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
-    [ "ReadSaveDataMore", "df/d11/a12220.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
-    [ "SetData", "df/d11/a12220.html#af800a1906c532f61f0299f8aa9359a66", null ],
-    [ "WriteSaveDataMore", "df/d11/a12220.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
-    [ "_encounters", "df/d11/a12220.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
+    [ "FilterTargets", "df/d11/a12220.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
+    [ "FilterTargetsEff", "df/d11/a12220.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
+    [ "PrepareSpellScript", "df/d11/a12220.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
+    [ "Register", "df/d11/a12220.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
+    [ "targetList", "df/d11/a12220.html#a874dc7877ecfae332c9f826f01afce0f", null ]
 ];

@@ -1,5 +1,6 @@
 var a24224 =
 [
-    [ "npc_shattrath_daily_quest", "d8/d86/a24224.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "d8/d86/a24224.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "npc_pet_dk_dancing_rune_weaponAI", "d7/d18/a24228.html", "d7/d18/a24228" ],
+    [ "npc_pet_dk_dancing_rune_weapon", "d8/d86/a24224.html#aaa0881509c2842d6c0442884d0947e28", null ],
+    [ "GetAI", "d8/d86/a24224.html#aae11c76fbcf729f44136c53b2b3e0982", null ]
 ];

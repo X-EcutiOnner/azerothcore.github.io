@@ -1,7 +1,7 @@
 var a09116 =
 [
-    [ "ObjectTypeIdCheck", "d3/d9f/a09116.html#a40af6d4d15e92aaaf2c9bb53ce9bb290", null ],
-    [ "operator()", "d3/d9f/a09116.html#a9cbd09a6021bef7819a0002952264293", null ],
-    [ "_equals", "d3/d9f/a09116.html#ab08a6e18731ccb822a71a1530f6966c3", null ],
-    [ "_typeId", "d3/d9f/a09116.html#a70e9a07e4c2c559bc55b8003db3af3be", null ]
+    [ "GridTerrainUnloader", "d3/d9f/a09116.html#a2cae372520a8e6d6a54ad79381a844e9", null ],
+    [ "UnloadTerrain", "d3/d9f/a09116.html#ad6648cf97602141fcc64bbb6c688f6a0", null ],
+    [ "_grid", "d3/d9f/a09116.html#a94d346bc8d44f285d8cdb97736859201", null ],
+    [ "_map", "d3/d9f/a09116.html#aac1ea80c5210b25ad26f52558336c20d", null ]
 ];

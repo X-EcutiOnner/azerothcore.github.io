@@ -1,6 +1,12 @@
 var a25896 =
 [
-    [ "HandleDummy", "d3/de1/a25896.html#a4fde3142b38989cb37db76da6eada03c", null ],
-    [ "PrepareSpellScript", "d3/de1/a25896.html#aa694a1a7cbbe0f20226d7e616e19cefb", null ],
-    [ "Register", "d3/de1/a25896.html#a1f83fae2fb3dc0904ed56101e1254f5f", null ]
+    [ "AfterCheckProc", "d3/de1/a25896.html#ae6ac733a614be543c04b57379b84aaca", null ],
+    [ "CheckProc", "d3/de1/a25896.html#aa533054a5cd434ef3e02767a0a87db62", null ],
+    [ "GetProcSpell", "d3/de1/a25896.html#af9fc6eb0c61c4084307fc2f7fb38973b", null ],
+    [ "HandleAfterEffectProc", "d3/de1/a25896.html#aaa577b07d61ddc6e7af175c76ce63b11", null ],
+    [ "HandleOnEffectProc", "d3/de1/a25896.html#a5bb5345754505cca5f9c840dc5bb9dfb", null ],
+    [ "PrepareAuraScript", "d3/de1/a25896.html#a111821352b6d26f51878ce81b173ef6d", null ],
+    [ "Register", "d3/de1/a25896.html#a9ba0584da94cf51b8cd8fe7da50fc1b0", null ],
+    [ "_chance", "d3/de1/a25896.html#ab644c981163424fbaa05650dc6505ae1", null ],
+    [ "_spell", "d3/de1/a25896.html#a07a855a4806bac873eb40505f805c39f", null ]
 ];

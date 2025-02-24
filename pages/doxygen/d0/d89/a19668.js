@@ -1,16 +1,19 @@
 var a19668 =
 [
-    [ "boss_runemaster_molgeimAI", "d0/d89/a19668.html#a9454bd0e95a5361baed5b186b1290606", null ],
-    [ "JustDied", "d0/d89/a19668.html#a98df9b6d86eb0cec19f3a32dbf79a0e1", null ],
-    [ "JustEngagedWith", "d0/d89/a19668.html#ade0ee9133e2d571015d7b0b2ea9d988b", null ],
-    [ "JustReachedHome", "d0/d89/a19668.html#add0ccdadc163490cb9d241aedb919cfc", null ],
-    [ "KilledUnit", "d0/d89/a19668.html#a1e1e8f4dbd450799135c8065d8229481", null ],
-    [ "Reset", "d0/d89/a19668.html#ae17903a98365dc462b6dfd13efb6c689", null ],
-    [ "SpellHit", "d0/d89/a19668.html#a35f83a6017a8c6a46334c5c65b3f62c4", null ],
-    [ "UpdateAI", "d0/d89/a19668.html#a7db3d0f2725fd8b7aff01d1f60aba5bd", null ],
-    [ "UpdatePhase", "d0/d89/a19668.html#adc700e8903de503260839c2d627d4b44", null ],
-    [ "_phase", "d0/d89/a19668.html#a47a958b930d898627bcbde9a1b0426e6", null ],
-    [ "events", "d0/d89/a19668.html#a626a84eca5840ba0851aa6bc151e5277", null ],
-    [ "pInstance", "d0/d89/a19668.html#a422e7c2e139483cd377856bf3357b6a3", null ],
-    [ "summons", "d0/d89/a19668.html#ad7b215ef95f6d37f94accf4d0e8a19e1", null ]
+    [ "boss_auriayaAI", "d0/d89/a19668.html#a1bbc9ffd506dcd3a19925a860f94418f", null ],
+    [ "DoAction", "d0/d89/a19668.html#ac48a5399c13ccda015338649f319621b", null ],
+    [ "GetData", "d0/d89/a19668.html#afda379773808c3974679037828d00b9e", null ],
+    [ "JustDied", "d0/d89/a19668.html#af2316d1c62623c9915cecb1308310856", null ],
+    [ "JustEngagedWith", "d0/d89/a19668.html#a4b939a5e446aeac12fe6dc006a21fe3b", null ],
+    [ "JustReachedHome", "d0/d89/a19668.html#a94f4f2d836042c24e2b26b4664783570", null ],
+    [ "JustSummoned", "d0/d89/a19668.html#a61c3887481f8f7119357ef3402ed82be", null ],
+    [ "KilledUnit", "d0/d89/a19668.html#a0610a140c5b9687f345b60365badd629", null ],
+    [ "Reset", "d0/d89/a19668.html#a8e554328a8179802c3f35326b059d173", null ],
+    [ "SummonedCreatureDies", "d0/d89/a19668.html#a9b3ea0af39d0b391ef181e2846f437cd", null ],
+    [ "UpdateAI", "d0/d89/a19668.html#a9da5d29f33e9e84fdf42c03c72b2ea8a", null ],
+    [ "_feralDied", "d0/d89/a19668.html#a6bd69d474df1db36bd020fad50fbcee4", null ],
+    [ "_nineLives", "d0/d89/a19668.html#a1cfc503178c3c59ee87d2ffb9372636d", null ],
+    [ "events", "d0/d89/a19668.html#afdccfdf0d44d08d9d8ebb6cb235a7503", null ],
+    [ "m_pInstance", "d0/d89/a19668.html#a0984d626105f95a97c8c4469cd2fad8f", null ],
+    [ "summons", "d0/d89/a19668.html#a23b5c1258b56f0eb752abc77e622cc8a", null ]
 ];

@@ -1,10 +1,11 @@
 var a07032 =
 [
-    [ "BattlegroundChatBuilder", "d0/d15/a07032.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
-    [ "do_helper", "d0/d15/a07032.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
-    [ "operator()", "d0/d15/a07032.html#ab84296c320b09a387de6e6e6a2326b83", null ],
-    [ "_args", "d0/d15/a07032.html#a32a72bf1110179cc58dcf2df914c7389", null ],
-    [ "_msgtype", "d0/d15/a07032.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
-    [ "_source", "d0/d15/a07032.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
-    [ "_textId", "d0/d15/a07032.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
+    [ "count", "d0/d15/a07032.html#a3fc02342ec2cdd81de7ef378edf30b54", null ],
+    [ "enchants", "d0/d15/a07032.html#af076353ee7ce0fd3665e13449c248629", null ],
+    [ "entry", "d0/d15/a07032.html#aa3332c4ea806c944c9c4e95ddb31efa9", null ],
+    [ "itemName", "d0/d15/a07032.html#a9184925bad61ad58f35c4e4b3dbccd81", null ],
+    [ "itemTemplate", "d0/d15/a07032.html#a356adde7f6574f697e02e6657f325baa", null ],
+    [ "randomPropertyId", "d0/d15/a07032.html#aa1c185178359f1cbd5afcedd38a0e69f", null ],
+    [ "spellCharges", "d0/d15/a07032.html#a73f9647b66aa316bdb97c50a20bc826f", null ],
+    [ "suffixFactor", "d0/d15/a07032.html#a650acd7b902fd4038f1ea384f595b058", null ]
 ];

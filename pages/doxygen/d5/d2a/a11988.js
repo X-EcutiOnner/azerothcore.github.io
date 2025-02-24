@@ -1,6 +1,9 @@
 var a11988 =
 [
-    [ "HandleOnHit", "d5/d2a/a11988.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "d5/d2a/a11988.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "d5/d2a/a11988.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "boss_overlordwyrmthalakAI", "d5/d2a/a11988.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
+    [ "JustDied", "d5/d2a/a11988.html#ade379755d256c4c290e6dc8bbd862261", null ],
+    [ "JustEngagedWith", "d5/d2a/a11988.html#af7780f467df92c9218700773d1257a8c", null ],
+    [ "Reset", "d5/d2a/a11988.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
+    [ "UpdateAI", "d5/d2a/a11988.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
+    [ "Summoned", "d5/d2a/a11988.html#a8183e3f02d931809440adc8cc0cd3654", null ]
 ];

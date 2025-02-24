@@ -1,8 +1,13 @@
 var a28232 =
 [
-    [ "NoRuneCost", "dc/d6e/a28232.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
-    [ "NoRunicPowerGain", "dc/d6e/a28232.html#a97da075ecd116ef27fd4265bb8380667", null ],
-    [ "ID", "dc/d6e/a28232.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
-    [ "RuneCost", "dc/d6e/a28232.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
-    [ "runePowerGain", "dc/d6e/a28232.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
+    [ "actionFlag", "dc/d6e/a28232.html#a6257ae486eff937cf12be64f0e850ca6", null ],
+    [ "arrivalEventID", "dc/d6e/a28232.html#a1ffe17f529066091b18451a1121ce6ac", null ],
+    [ "delay", "dc/d6e/a28232.html#aef005db912b0a57ecc5d62c66d838826", null ],
+    [ "departureEventID", "dc/d6e/a28232.html#a670a033aaf0ff48676373baf9235d670", null ],
+    [ "index", "dc/d6e/a28232.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
+    [ "mapid", "dc/d6e/a28232.html#aa2c6fb8a785e297c72384043698dd401", null ],
+    [ "path", "dc/d6e/a28232.html#aa0692acbae0d4639c89ece77265d7858", null ],
+    [ "x", "dc/d6e/a28232.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
+    [ "y", "dc/d6e/a28232.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
+    [ "z", "dc/d6e/a28232.html#af48d85940d7f204091e8438427a72e2d", null ]
 ];

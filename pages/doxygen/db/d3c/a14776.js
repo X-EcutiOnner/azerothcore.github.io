@@ -1,5 +1,6 @@
 var a14776 =
 [
-    [ "pathId", "db/d3c/a14776.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
-    [ "spellId", "db/d3c/a14776.html#af495f984d5b81baeaa61ddca127a9508", null ]
+    [ "npc_idol_room_spawnerAI", "d6/d8c/a14780.html", "d6/d8c/a14780" ],
+    [ "npc_idol_room_spawner", "db/d3c/a14776.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "db/d3c/a14776.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

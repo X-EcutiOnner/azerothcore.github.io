@@ -1,6 +1,6 @@
 var a24000 =
 [
-    [ "go_beaconAI", "d8/dd2/a24000.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "d8/dd2/a24000.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "creatureList", "d8/dd2/a24000.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
+    [ "npc_infernal_attackerAI", "d6/dd3/a24004.html", "d6/dd3/a24004" ],
+    [ "npc_infernal_attacker", "d8/dd2/a24000.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "d8/dd2/a24000.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

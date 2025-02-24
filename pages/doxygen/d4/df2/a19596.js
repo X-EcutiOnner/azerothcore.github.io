@@ -1,6 +1,6 @@
 var a19596 =
 [
-    [ "npc_algalon_worm_holeAI", "d7/da9/a19600.html", "d7/da9/a19600" ],
-    [ "npc_algalon_worm_hole", "d4/df2/a19596.html#a72516a4824fa61a331caff46d2784c64", null ],
-    [ "GetAI", "d4/df2/a19596.html#aac6ff3a41f08f5a11baa78c0526a3556", null ]
+    [ "PrepareSpellScript", "d4/df2/a19596.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d4/df2/a19596.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d4/df2/a19596.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

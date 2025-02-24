@@ -1,6 +1,7 @@
 var a12996 =
 [
-    [ "boss_felmystAI", "d4/d6f/a13000.html", "d4/d6f/a13000" ],
-    [ "boss_felmyst", "d0/df3/a12996.html#a58de3d9bf83190b18c5e91eae5110edf", null ],
-    [ "GetAI", "d0/df3/a12996.html#a8100e65c5060808ce8dae8ad5424e058", null ]
+    [ "HandleEffectApply", "d0/df3/a12996.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "d0/df3/a12996.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "d0/df3/a12996.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "d0/df3/a12996.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

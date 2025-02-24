@@ -1,6 +1,7 @@
 var a26536 =
 [
-    [ "HandleAfterCast", "d2/d55/a26536.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d2/d55/a26536.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d2/d55/a26536.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "HandleDispel", "d2/d55/a26536.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
+    [ "PrepareAuraScript", "d2/d55/a26536.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
+    [ "Register", "d2/d55/a26536.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
+    [ "Validate", "d2/d55/a26536.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
 ];

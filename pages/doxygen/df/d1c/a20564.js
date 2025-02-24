@@ -1,6 +1,6 @@
 var a20564 =
 [
-    [ "boss_thorim_arena_npcsAI", "d3/db6/a20568.html", "d3/db6/a20568" ],
-    [ "boss_thorim_arena_npcs", "df/d1c/a20564.html#a60d22280bb1eb3c9da92deb08e887942", null ],
-    [ "GetAI", "df/d1c/a20564.html#a3709e1c9df32755f5932398ba3535f2f", null ]
+    [ "npc_xt002_scrapbotAI", "d3/db6/a20568.html", "d3/db6/a20568" ],
+    [ "npc_xt002_scrapbot", "df/d1c/a20564.html#accfd75266d058af3856bdb625728c18d", null ],
+    [ "GetAI", "df/d1c/a20564.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
 ];

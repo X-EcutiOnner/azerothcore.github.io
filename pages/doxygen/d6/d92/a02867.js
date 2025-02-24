@@ -1,4 +1,12 @@
 var a02867 =
 [
-    [ "InstanceHasScript", "d6/d92/a02867.html#aad76768c8aee9ce3ac24657437adb0de", null ]
+    [ "InstancePlayerBind", "dd/d88/a09564.html", "dd/d88/a09564" ],
+    [ "BoundInstancesMapWrapper", "d9/dfc/a09568.html", "d9/dfc/a09568" ],
+    [ "InstanceSave", "dd/de1/a09572.html", "dd/de1/a09572" ],
+    [ "InstanceSaveMgr", "d7/d45/a09576.html", "d7/d45/a09576" ],
+    [ "InstanceSaveMgr::InstResetEvent", "d6/dab/a09580.html", "d6/dab/a09580" ],
+    [ "sInstanceSaveMgr", "d6/d92/a02867.html#ae1d3c96dbd749e40f06799fa52eeb9a2", null ],
+    [ "BoundInstancesMap", "d6/d92/a02867.html#aaa779bf09b703eb355cb51ac3481a19e", null ],
+    [ "PlayerBindStorage", "d6/d92/a02867.html#a2e2e3e31db4cc3be56b24e732c84106b", null ],
+    [ "ResetTimeByMapDifficultyMap", "d6/d92/a02867.html#aecf15b673beb714ef0acaa3bac23696a", null ]
 ];

@@ -1,8 +1,9 @@
 var a25684 =
 [
-    [ "OnRemove", "dc/df0/a25684.html#a645e869079e711a87f1a957b42a35e98", null ],
-    [ "OnStackChange", "dc/df0/a25684.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
-    [ "PrepareAuraScript", "dc/df0/a25684.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
-    [ "Register", "dc/df0/a25684.html#ac86068a892255e38244c487a7456cd9f", null ],
-    [ "Validate", "dc/df0/a25684.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
+    [ "CheckCast", "dc/df0/a25684.html#af92fe276563a8ca0d939d881dba8adda", null ],
+    [ "HandleDummy", "dc/df0/a25684.html#a86b4413dd25f96fb197604007171a8d1", null ],
+    [ "Load", "dc/df0/a25684.html#ab1800d2550b944dcfa9967cc0e79c5ee", null ],
+    [ "PrepareSpellScript", "dc/df0/a25684.html#a47aa868fbabee8a3988bcc93402b8cfb", null ],
+    [ "Register", "dc/df0/a25684.html#a1b4ff1b3b518a2e4bad1836de6793561", null ],
+    [ "Validate", "dc/df0/a25684.html#a8d0c2f18927e811f3d3cdee94e3623c0", null ]
 ];

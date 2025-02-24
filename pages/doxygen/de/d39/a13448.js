@@ -1,6 +1,6 @@
 var a13448 =
 [
-    [ "npc_parqual_fintallas", "de/d39/a13448.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
-    [ "OnGossipHello", "de/d39/a13448.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
-    [ "OnGossipSelect", "de/d39/a13448.html#a39276ef82ec5214a1727ebd60235a506", null ]
+    [ "x", "de/d39/a13448.html#afeb59642abc7d5114668b2c27e315228", null ],
+    [ "y", "de/d39/a13448.html#a3e2454dd579de689289003a343e7f29c", null ],
+    [ "z", "de/d39/a13448.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
 ];

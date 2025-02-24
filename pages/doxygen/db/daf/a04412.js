@@ -1,26 +1,15 @@
 var a04412 =
 [
-    [ "boss_supremus", "d2/d9e/a22686.html", "d2/d9e/a22686" ],
-    [ "npc_supremus_punch_invisible_stalker", "d4/df1/a22690.html", "d4/df1/a22690" ],
-    [ "Supremus", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1ab", [
-      [ "EMOTE_NEW_TARGET", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1abacce041f211d3aacd7153648b2b22657d", null ],
-      [ "EMOTE_PUNCH_GROUND", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1aba18c2c02f5902d5eb449f84ea9b0dda48", null ],
-      [ "EMOTE_GROUND_CRACK", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1abaf6e451c3b6d1ba936baa236a0676e9da", null ],
-      [ "EMOTE_BERSERK", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1abad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
-      [ "SPELL_SNARE_SELF", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1aba088a20b95bb9f7f7225f39e5785ef4ea", null ],
-      [ "SPELL_MOLTEN_PUNCH", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1abad4325a0886f125ee1e818a2b0b78ceed", null ],
-      [ "SPELL_MOLTEN_FLAME", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1aba75a6d3be947216957892ac27dcf52a1d", null ],
-      [ "SPELL_HATEFUL_STRIKE", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1ababad6e8ef38e36b223ac12f2dbb1711b1", null ],
-      [ "SPELL_VOLCANIC_ERUPTION", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1aba35f23f72605836bef98b77ae75bb8103", null ],
-      [ "SPELL_VOLCANIC_ERUPTION_TRIGGER", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1abad1c54825503fd69f4f3beb7d4079ad6c", null ],
-      [ "SPELL_VOLCANIC_GEYSER", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1aba6c3253da2383661bc757e74284163365", null ],
-      [ "SPELL_BERSERK", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1abad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
-      [ "SPELL_CHARGE", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1aba379cd345f5bd4f776413760e5e279963", null ],
-      [ "SPELL_SERVERSIDE_RANDOM_TARGET", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1aba4afeaddc7e00f338f7033e0421934935", null ],
-      [ "NPC_SUPREMUS_VOLCANO", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1aba01e88a8ace84793859cb15cd5301cf2e", null ],
-      [ "GROUP_ABILITIES", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1abab77bbe102634006229e15f0a32fb6c9a", null ],
-      [ "GROUP_MOLTEN_PUNCH", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1abafd320e90ca8fd7f4c9b70c71f92e4bd6", null ],
-      [ "GROUP_PHASE_CHANGE", "db/daf/a04412.html#a5a2dccece1c55769858f3285c94af1aba9ef91e5b4ca91a9b1f730f400fef1c78", null ]
-    ] ],
-    [ "AddSC_boss_supremus", "db/daf/a04412.html#aca4140213fae739c682d7d7e241294e0", null ]
+    [ "RandomEngine", "dd/d67/a05452.html", "dd/d67/a05452" ],
+    [ "frand", "db/daf/a04412.html#aa28484fcb823a22578601847e4b0ddb4", null ],
+    [ "irand", "db/daf/a04412.html#a0a5e53ee066789ecb565abc05fe36dbc", null ],
+    [ "rand32", "db/daf/a04412.html#ab91ed86274e1e52eb314784862b61696", null ],
+    [ "rand_chance", "db/daf/a04412.html#a60564a0d93e0c87809379e0c1fa7acd1", null ],
+    [ "rand_norm", "db/daf/a04412.html#ad552d8147f66d6ec0cd44271e8799599", null ],
+    [ "randtime", "db/daf/a04412.html#a2fc61a89dc958460e6eabe08d87a4021", null ],
+    [ "roll_chance_f", "db/daf/a04412.html#a4b15099bc81731469c5078a778673c94", null ],
+    [ "roll_chance_i", "db/daf/a04412.html#a50320d4edff86db31b25138ae72161ad", null ],
+    [ "urand", "db/daf/a04412.html#a3648faa6a1353eac6d2eec0b399c5aba", null ],
+    [ "urandms", "db/daf/a04412.html#a1a4ee564518371004a4d34135600bfa0", null ],
+    [ "urandweighted", "db/daf/a04412.html#a673de62907a2657190e58678691d3b36", null ]
 ];

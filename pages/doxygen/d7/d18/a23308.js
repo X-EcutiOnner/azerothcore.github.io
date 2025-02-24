@@ -1,7 +1,5 @@
 var a23308 =
 [
-    [ "boss_hydromancer_thespia", "d7/d18/a23308.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "d7/d18/a23308.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "d7/d18/a23308.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "d7/d18/a23308.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "npc_invisible_tractor_beam_source", "d7/d18/a23308.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "d7/d18/a23308.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

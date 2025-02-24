@@ -1,11 +1,6 @@
 var a03374 =
 [
-    [ "StableResultCode", "d4/d6f/a03374.html#abee8740a43e35bc796d1287225999514", [
-      [ "STABLE_ERR_MONEY", "d4/d6f/a03374.html#abee8740a43e35bc796d1287225999514a2e1a0a641b8771fd5ac124129e76b8c2", null ],
-      [ "STABLE_ERR_STABLE", "d4/d6f/a03374.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898", null ],
-      [ "STABLE_SUCCESS_STABLE", "d4/d6f/a03374.html#abee8740a43e35bc796d1287225999514a87d687b90cdb7cc884567156b95da61e", null ],
-      [ "STABLE_SUCCESS_UNSTABLE", "d4/d6f/a03374.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1", null ],
-      [ "STABLE_SUCCESS_BUY_SLOT", "d4/d6f/a03374.html#abee8740a43e35bc796d1287225999514aaa2a19926ebaa7372be4a798c5513317", null ],
-      [ "STABLE_ERR_EXOTIC", "d4/d6f/a03374.html#abee8740a43e35bc796d1287225999514ac96f0f7b1cccb7a29b30b8152c780f47", null ]
-    ] ]
+    [ "clearAcceptTradeMode", "d4/d6f/a03374.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
+    [ "clearAcceptTradeMode", "d4/d6f/a03374.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
+    [ "setAcceptTradeMode", "d4/d6f/a03374.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
 ];

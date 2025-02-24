@@ -1,6 +1,6 @@
 var a12436 =
 [
-    [ "npc_image_of_medivhAI", "de/d9e/a12440.html", "de/d9e/a12440" ],
-    [ "npc_image_of_medivh", "d5/d30/a12436.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
-    [ "GetAI", "d5/d30/a12436.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
+    [ "instance_molten_core_InstanceMapScript", "de/d9e/a12440.html", "de/d9e/a12440" ],
+    [ "instance_molten_core", "d5/d30/a12436.html#ad83dac834feb2fcae872dfe09b833950", null ],
+    [ "GetInstanceScript", "d5/d30/a12436.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
 ];

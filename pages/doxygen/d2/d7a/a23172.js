@@ -1,10 +1,7 @@
 var a23172 =
 [
-    [ "boss_morogrim_tidewalker", "d2/d7a/a23172.html#a138a200da298f64697e2e47fb8004ccb", null ],
-    [ "JustDied", "d2/d7a/a23172.html#a139d87e7cffe03183538eb493e063195", null ],
-    [ "JustEngagedWith", "d2/d7a/a23172.html#a3244672aeb994673e1f46708699bcc2c", null ],
-    [ "JustSummoned", "d2/d7a/a23172.html#a2b669007520094948138c95468b77f9f", null ],
-    [ "KilledUnit", "d2/d7a/a23172.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
-    [ "Reset", "d2/d7a/a23172.html#a78ed1d1f8c55407497a4fb679587975d", null ],
-    [ "_recentlySpoken", "d2/d7a/a23172.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
+    [ "HandleProc", "d2/d7a/a23172.html#a03b2be5894d489a6021aff2744aee0e0", null ],
+    [ "PrepareAuraScript", "d2/d7a/a23172.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
+    [ "Register", "d2/d7a/a23172.html#a804e1bc3d570d28cb2e06155054f3169", null ],
+    [ "Validate", "d2/d7a/a23172.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
 ];

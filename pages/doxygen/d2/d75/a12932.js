@@ -1,6 +1,6 @@
 var a12932 =
 [
-    [ "npc_madrigosaAI", "d6/d04/a12936.html", "d6/d04/a12936" ],
-    [ "npc_madrigosa", "d2/d75/a12932.html#a173d8f6611181fe4985fab39629c06cf", null ],
-    [ "GetAI", "d2/d75/a12932.html#a7f5fc53ca22c7ffbbbaa91d447ac6f3e", null ]
+    [ "HandleLeapBack", "d2/d75/a12932.html#a0f0b30da1c094281375230a6cf411c5e", null ],
+    [ "PrepareSpellScript", "d2/d75/a12932.html#a431fa0b4f479be912507e64fd906d516", null ],
+    [ "Register", "d2/d75/a12932.html#ac3b7bcfe48c1fe807d2c4deab6be91a8", null ]
 ];

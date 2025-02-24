@@ -1,7 +1,6 @@
 var a27076 =
 [
-    [ "HandlePeriodic", "d4/d07/a27076.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d4/d07/a27076.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d4/d07/a27076.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d4/d07/a27076.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "go_heatAI", "d4/d07/a27076.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
+    [ "UpdateAI", "d4/d07/a27076.html#a2332206ee47b2cea9e4707d16ea79325", null ],
+    [ "timer", "d4/d07/a27076.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
 ];

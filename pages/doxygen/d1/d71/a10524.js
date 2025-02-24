@@ -1,4 +1,5 @@
 var a10524 =
 [
-    [ "IllegalHyperlinkException", "d1/d71/a10524.html#a4bcd96d907fb882d147b0e29495f5c1d", null ]
+    [ "AcceptGuildInvite", "d1/d71/a10524.html#a4453fc550871082f6295d9229eef265a", null ],
+    [ "Read", "d1/d71/a10524.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
 ];

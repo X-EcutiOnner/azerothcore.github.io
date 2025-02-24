@@ -1,6 +1,7 @@
 var a11160 =
 [
-    [ "Command", "dc/d90/a11160.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
-    [ "Data", "dc/d90/a11160.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
-    [ "DataSize", "dc/d90/a11160.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
+    [ "maxvalue", "dc/d90/a11160.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
+    [ "skill", "dc/d90/a11160.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
+    [ "step", "dc/d90/a11160.html#a1c882f7d43c65954cb99566225660312", null ],
+    [ "value", "dc/d90/a11160.html#a064fece53cdaf07b072510b14200a968", null ]
 ];

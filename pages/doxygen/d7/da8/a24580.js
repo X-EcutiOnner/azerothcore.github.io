@@ -1,6 +1,7 @@
 var a24580 =
 [
-    [ "RaiseDeadCheck", "d7/da8/a24580.html#abc6439e5b457f2f6e832f504167a392d", null ],
-    [ "operator()", "d7/da8/a24580.html#a9647e6afd21e7397f05349e66bea4326", null ],
-    [ "_caster", "d7/da8/a24580.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
+    [ "HandleProc", "d7/da8/a24580.html#a1982ba611c17042d0bff8bac66280218", null ],
+    [ "PrepareAuraScript", "d7/da8/a24580.html#a459fde61325e3aeb1e339670138aacce", null ],
+    [ "Register", "d7/da8/a24580.html#a151f0e7f04a9ee01189de20686a15bc4", null ],
+    [ "Validate", "d7/da8/a24580.html#af57da6008a6ff796487b2da68644104b", null ]
 ];

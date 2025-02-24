@@ -1,7 +1,6 @@
 var a23420 =
 [
-    [ "OnApply", "da/d97/a23420.html#a301e47da9be4b4a449701c59c19bc62b", null ],
-    [ "PrepareAuraScript", "da/d97/a23420.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
-    [ "Register", "da/d97/a23420.html#aaf38547f7fa233b03429734dbe374f13", null ],
-    [ "Validate", "da/d97/a23420.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d4/d84/a23424.html", "d4/d84/a23424" ],
+    [ "instance_hellfire_ramparts", "da/d97/a23420.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "da/d97/a23420.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

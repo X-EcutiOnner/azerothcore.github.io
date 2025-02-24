@@ -1,7 +1,6 @@
 var a10940 =
 [
-    [ "EffectAuraNameCheck", "d5/d78/a10940.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
-    [ "Check", "d5/d78/a10940.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
-    [ "ToString", "d5/d78/a10940.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
-    [ "effAurName", "d5/d78/a10940.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
+    [ "WorldSession", "d5/d78/a10940.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Guid", "d5/d78/a10940.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
+    [ "Name", "d5/d78/a10940.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
 ];

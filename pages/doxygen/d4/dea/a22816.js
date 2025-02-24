@@ -1,6 +1,6 @@
 var a22816 =
 [
-    [ "PrepareAuraScript", "d4/dea/a22816.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
-    [ "Register", "d4/dea/a22816.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
-    [ "Update", "d4/dea/a22816.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
+    [ "PrepareSpellScript", "d4/dea/a22816.html#ad786920d6180b8e2829f3a56ec50c488", null ],
+    [ "Register", "d4/dea/a22816.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
+    [ "SetDest", "d4/dea/a22816.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
 ];

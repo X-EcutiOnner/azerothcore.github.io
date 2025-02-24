@@ -1,6 +1,5 @@
 var a27540 =
 [
-    [ "npc_locksmith", "de/d6d/a27540.html#af959a6395ebc33109405f18f262e4ecb", null ],
-    [ "OnGossipHello", "de/d6d/a27540.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
-    [ "OnGossipSelect", "de/d6d/a27540.html#a62ec02e226255ff1f81895391a6494b8", null ]
+    [ "go_transport_the_iron_eagle", "de/d6d/a27540.html#aba17edc2e3ac8e1b9996116c6f9bdc6f", null ],
+    [ "EventInform", "de/d6d/a27540.html#af1970d07730ab0e5f688200289f48b69", null ]
 ];

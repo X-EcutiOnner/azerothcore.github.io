@@ -1,6 +1,6 @@
 var a25952 =
 [
-    [ "CalculateAmount", "dc/d98/a25952.html#a3491a0a1d2f00f76730ddc53a66c8179", null ],
-    [ "PrepareAuraScript", "dc/d98/a25952.html#a667883298cee173af941cfc07022f318", null ],
-    [ "Register", "dc/d98/a25952.html#a22514461b79f736e3ab595fa7fb48b68", null ]
+    [ "HandleEffectCalcSpellMod", "dc/d98/a25952.html#a81395c735b9546632af71319067b575b", null ],
+    [ "PrepareAuraScript", "dc/d98/a25952.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
+    [ "Register", "dc/d98/a25952.html#ae49a0ec525819981595c12839133a35b", null ]
 ];

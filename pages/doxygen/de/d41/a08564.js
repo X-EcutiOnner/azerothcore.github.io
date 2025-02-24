@@ -1,7 +1,9 @@
 var a08564 =
 [
-    [ "equipement_id_prev", "de/d41/a08564.html#a93a895fa31cef29fa739225316886e78", null ],
-    [ "equipment_id", "de/d41/a08564.html#af21361c600fb9609f554b64bc5cfb4c2", null ],
-    [ "modelid", "de/d41/a08564.html#a53296cbdf02039d19610c21e0f7d5d1d", null ],
-    [ "modelid_prev", "de/d41/a08564.html#a976ce0cdd7c8e95465bc999d26347bde", null ]
+    [ "EntryPointData", "de/d41/a08564.html#a1852523ba9ca889cdd6731c63de759e2", null ],
+    [ "ClearTaxiPath", "de/d41/a08564.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
+    [ "HasTaxiPath", "de/d41/a08564.html#afd310b2f367ec7df76f01689ea120e6e", null ],
+    [ "joinPos", "de/d41/a08564.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
+    [ "mountSpell", "de/d41/a08564.html#a06e1cadac24a2ab90e57373692f829dc", null ],
+    [ "taxiPath", "de/d41/a08564.html#a5af670fa420b250c22e0f3237e753a6f", null ]
 ];

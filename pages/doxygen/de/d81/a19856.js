@@ -1,8 +1,9 @@
 var a19856 =
 [
-    [ "FilterTargets", "de/d81/a19856.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "de/d81/a19856.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "de/d81/a19856.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "de/d81/a19856.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "de/d81/a19856.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "Absorb", "de/d81/a19856.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
+    [ "CalculateAmount", "de/d81/a19856.html#a9166627cbaa536405975444c4ef601de", null ],
+    [ "Load", "de/d81/a19856.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
+    [ "PrepareAuraScript", "de/d81/a19856.html#aa5793741c2f8179db68a9fb1222a9085", null ],
+    [ "Register", "de/d81/a19856.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
+    [ "_absorbPct", "de/d81/a19856.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
 ];

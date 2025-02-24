@@ -1,6 +1,6 @@
 var a11260 =
 [
-    [ "bg_commandscript", "d1/d6b/a11260.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
-    [ "GetCommands", "d1/d6b/a11260.html#a911ccd6445b08c05069f7f196556c891", null ],
-    [ "HandleBagsClearCommand", "d1/d6b/a11260.html#a92347e90c2f78d0dfeb41eb033366319", null ]
+    [ "EffectCalcPeriodicHandler", "d1/d6b/a11260.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
+    [ "Call", "d1/d6b/a11260.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
+    [ "pEffectHandlerScript", "d1/d6b/a11260.html#a57673f457c08edfbf7fc1877aa071721", null ]
 ];

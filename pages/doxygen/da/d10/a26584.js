@@ -1,8 +1,6 @@
 var a26584 =
 [
-    [ "Apply", "da/d10/a26584.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "da/d10/a26584.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "da/d10/a26584.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "da/d10/a26584.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "da/d10/a26584.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "CheckProc", "da/d10/a26584.html#a945c4617cba249ee76045ce032f12c3c", null ],
+    [ "PrepareAuraScript", "da/d10/a26584.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
+    [ "Register", "da/d10/a26584.html#a912dd7ea10038103bb6d242bb7723830", null ]
 ];

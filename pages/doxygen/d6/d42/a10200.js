@@ -1,5 +1,6 @@
 var a10200 =
 [
-    [ "PlayerLogout", "d6/d42/a10200.html#afacee5b02c2adc4bec608b6f280fbcf1", null ],
-    [ "Read", "d6/d42/a10200.html#accbe1ced6a10ea2fa699df5e74575795", null ]
+    [ "BattlegroundScript", "d6/d42/a10200.html#a306231f1c7346a00a3f877c7cef3897b", null ],
+    [ "GetBattleground", "d6/d42/a10200.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
+    [ "IsDatabaseBound", "d6/d42/a10200.html#a35b571d570c85a861af6f949b51453cb", null ]
 ];

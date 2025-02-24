@@ -1,7 +1,10 @@
 var a15980 =
 [
-    [ "TwilightCutterSelector", "d0/de1/a15980.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
-    [ "operator()", "d0/de1/a15980.html#a6374425df156bdf202d53a2c73ef784c", null ],
-    [ "_caster", "d0/de1/a15980.html#a784c95ef6472e711f4200f194222d179", null ],
-    [ "_cutterCaster", "d0/de1/a15980.html#a7f713777a36a8d127c2865e4610b1288", null ]
+    [ "spell_halion_damage_aoe_summon", "d0/de1/a15980.html#a6152e7a0515076af2c7c2155506257b0", null ],
+    [ "HandleSummon", "d0/de1/a15980.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
+    [ "PrepareSpellScript", "d0/de1/a15980.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
+    [ "Register", "d0/de1/a15980.html#aa1f9239a2910d53c85539abba6333893", null ],
+    [ "Validate", "d0/de1/a15980.html#acb359257b29354b5962d9865e06137e7", null ],
+    [ "_auraSpell", "d0/de1/a15980.html#a497a74eca703470964157639a6f372e2", null ],
+    [ "_explosionSpell", "d0/de1/a15980.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
 ];

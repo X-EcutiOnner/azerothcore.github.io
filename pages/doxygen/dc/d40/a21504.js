@@ -1,10 +1,5 @@
 var a21504 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "dc/d40/a21504.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "dc/d40/a21504.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "dc/d40/a21504.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "dc/d40/a21504.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "dc/d40/a21504.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "dc/d40/a21504.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "dc/d40/a21504.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "npc_steam_powered_auctioneerAI", "dc/d40/a21504.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "dc/d40/a21504.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

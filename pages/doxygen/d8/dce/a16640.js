@@ -1,6 +1,9 @@
 var a16640 =
 [
-    [ "boss_devourer_of_soulsAI", "d7/d4e/a16644.html", "d7/d4e/a16644" ],
-    [ "boss_devourer_of_souls", "d8/dce/a16640.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
-    [ "GetAI", "d8/dce/a16640.html#a3de68fa630c5b74104c461f88edd1d36", null ]
+    [ "HandlePeriodicTick", "d8/dce/a16640.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "d8/dce/a16640.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "d8/dce/a16640.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "d8/dce/a16640.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "d8/dce/a16640.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "d8/dce/a16640.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

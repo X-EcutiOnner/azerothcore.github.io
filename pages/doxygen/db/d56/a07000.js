@@ -1,11 +1,9 @@
 var a07000 =
 [
-    [ "WGWorkshop", "db/d56/a07000.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
-    [ "GiveControlTo", "db/d56/a07000.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
-    [ "Save", "db/d56/a07000.html#adede1c780178f20dc8339320a021e4b6", null ],
-    [ "UpdateGraveyardAndWorkshop", "db/d56/a07000.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
-    [ "bf", "db/d56/a07000.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
-    [ "state", "db/d56/a07000.html#a279d47c85843e884edef1f82b9654cd8", null ],
-    [ "teamControl", "db/d56/a07000.html#a196c8d0094a34c18835840e046fd39ef", null ],
-    [ "workshopId", "db/d56/a07000.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
+    [ "ObjectGuidVector", "db/d56/a07000.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "db/d56/a07000.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "db/d56/a07000.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "db/d56/a07000.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "db/d56/a07000.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "db/d56/a07000.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

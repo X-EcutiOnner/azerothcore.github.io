@@ -1,5 +1,6 @@
 var a10344 =
 [
-    [ "GuildDelete", "d2/dc2/a10344.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
-    [ "Read", "d2/dc2/a10344.html#ae5ca379b187902323638f4c10be0a4d0", null ]
+    [ "WorldMapScript", "d2/dc2/a10344.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
+    [ "checkValidity", "d2/dc2/a10344.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
+    [ "isAfterLoadScript", "d2/dc2/a10344.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
 ];

@@ -1,6 +1,7 @@
 var a27872 =
 [
-    [ "HandleDummy", "d4/df5/a27872.html#a9530db7f75987879285d224fb8381c2b", null ],
-    [ "PrepareSpellScript", "d4/df5/a27872.html#ad1c1bdb577739f769802127960aaf9e5", null ],
-    [ "Register", "d4/df5/a27872.html#ae3a340132caf3f8839631c92015d47a0", null ]
+    [ "Class", "d4/df5/a27872.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "d4/df5/a27872.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "d4/df5/a27872.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "d4/df5/a27872.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

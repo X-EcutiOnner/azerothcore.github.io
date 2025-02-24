@@ -1,23 +1,13 @@
 var a10048 =
 [
-    [ "MiscScript", "da/daa/a10048.html#afbd758be34ed4b7045525250cb2cf5be", null ],
-    [ "CanApplySoulboundFlag", "da/daa/a10048.html#a8918c758dd84f447f321f009030615ff", null ],
-    [ "CanItemApplyEquipSpell", "da/daa/a10048.html#a3241973d4f8ff5d9e4eed8a0cc95e74d", null ],
-    [ "CanSendAuctionHello", "da/daa/a10048.html#aac9b8415ab2002a1d4ad2f26211fa4e2", null ],
-    [ "GetDialogStatus", "da/daa/a10048.html#a25d97a2c91563263da76e5d67358edce", null ],
-    [ "IsDatabaseBound", "da/daa/a10048.html#a6eb3eb8a451ddc1abdf4a238b4e08253", null ],
-    [ "OnAfterLootTemplateProcess", "da/daa/a10048.html#adcf037b59a970e43b99f1c8f4b35cde5", null ],
-    [ "OnConstructGroup", "da/daa/a10048.html#a044e0a8f789c9cb8e19cfc82c87ab745", null ],
-    [ "OnConstructInstanceSave", "da/daa/a10048.html#a7857523e8dec674efbec50f8bfdf108b", null ],
-    [ "OnConstructObject", "da/daa/a10048.html#acdf0d559e38565bdb55ccb666f39d9f4", null ],
-    [ "OnConstructPlayer", "da/daa/a10048.html#a14cf20bad86e743a0ddc225d780ed13c", null ],
-    [ "OnDestructGroup", "da/daa/a10048.html#ae2977af97c42c0eedb4081a0d7984b01", null ],
-    [ "OnDestructInstanceSave", "da/daa/a10048.html#a2c2b480dd47c6e8a2ebd4e19ead442fc", null ],
-    [ "OnDestructObject", "da/daa/a10048.html#a2160ea9f05168a3018ab34ebddee18cc", null ],
-    [ "OnDestructPlayer", "da/daa/a10048.html#a100f72c7b930788c5d3a4a0d2dd2d9d9", null ],
-    [ "OnInstanceSave", "da/daa/a10048.html#a1434e3a2638144a9ddd4e2834a4983be", null ],
-    [ "OnItemCreate", "da/daa/a10048.html#a52619636b636036f454dd0d9129754fa", null ],
-    [ "OnPlayerSetPhase", "da/daa/a10048.html#a19700d3ee246e42852d3b9993157d2e8", null ],
-    [ "ValidateSpellAtCastSpell", "da/daa/a10048.html#a40356d17f149920064ea1005920c4e45", null ],
-    [ "ValidateSpellAtCastSpellResult", "da/daa/a10048.html#a3a45534d56665943fbcfd82e15a17753", null ]
+    [ "entry", "da/daa/a10048.html#a300fb240386044aab139e777d6244d19", null ],
+    [ "map", "da/daa/a10048.html#a2ec529bbd5b03490899a5c3a41cf739a", null ],
+    [ "o", "da/daa/a10048.html#a379e36eac68d8ff487c90fdb9be0e83d", null ],
+    [ "rot0", "da/daa/a10048.html#a8b808a7545a7efaf0bf352ec663ca9ba", null ],
+    [ "rot1", "da/daa/a10048.html#a9aa433644fc5bedbb3749eacfd9a57fd", null ],
+    [ "rot2", "da/daa/a10048.html#ae7c9755e9ae6293b3be8bdc121040f7f", null ],
+    [ "rot3", "da/daa/a10048.html#a60460fc3030b24eef0246dae28af2282", null ],
+    [ "x", "da/daa/a10048.html#a1587c3d17c78e1a94a1f2bc30b831c02", null ],
+    [ "y", "da/daa/a10048.html#ab42ebe981ba589e3d67110487bd88255", null ],
+    [ "z", "da/daa/a10048.html#a389d430f290dbb66d46ccb81daac6f0d", null ]
 ];

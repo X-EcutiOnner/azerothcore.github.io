@@ -1,7 +1,8 @@
 var a15236 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "d1/d77/a15240.html", "d1/d77/a15240" ],
-    [ "npc_aged_dying_ancient_kodo", "da/dd8/a15236.html#a676170a319d3a8e46c9d017e61396c28", null ],
-    [ "GetAI", "da/dd8/a15236.html#a886bc82764e4ca6d98dc94ea73415375", null ],
-    [ "OnGossipHello", "da/dd8/a15236.html#a8489b3f23d8eca39f2750711512672e4", null ]
+    [ "npc_prospector_remtravelAI", "da/dd8/a15236.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "da/dd8/a15236.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "da/dd8/a15236.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "da/dd8/a15236.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "da/dd8/a15236.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

@@ -1,5 +1,6 @@
 var a10012 =
 [
-    [ "GenericGameObjectScript", "d8/d43/a10012.html#a7d1d46c8d325619637aef9b9dc5419f7", null ],
-    [ "GetAI", "d8/d43/a10012.html#a7e3ba0f4a88489de522ae714d628c9ab", null ]
+    [ "HoverMovementTransform", "d8/d43/a10012.html#afc47d2d80c4a4a654cb60f9ad15dc63b", null ],
+    [ "operator()", "d8/d43/a10012.html#a7b4c22c7ba3332c0829832756b734809", null ],
+    [ "_offset", "d8/d43/a10012.html#a7fe74e38dbefb11af541a8750465861c", null ]
 ];

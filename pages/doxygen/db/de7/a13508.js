@@ -1,6 +1,6 @@
 var a13508 =
 [
-    [ "npc_andorhal_towerAI", "db/d83/a13512.html", "db/d83/a13512" ],
-    [ "npc_andorhal_tower", "db/de7/a13508.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
-    [ "GetAI", "db/de7/a13508.html#a51139c28da736d26bf27a061862d24ee", null ]
+    [ "npc_ravenclaw_apparitionAI", "db/d83/a13512.html", "db/d83/a13512" ],
+    [ "npc_ravenclaw_apparition", "db/de7/a13508.html#a961044571250519e62d7d33633974038", null ],
+    [ "GetAI", "db/de7/a13508.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
 ];

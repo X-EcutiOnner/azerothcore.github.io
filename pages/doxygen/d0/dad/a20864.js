@@ -1,7 +1,8 @@
 var a20864 =
 [
-    [ "HandleScriptEffect", "d0/dad/a20864.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "d0/dad/a20864.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "d0/dad/a20864.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "d0/dad/a20864.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "npc_ulduar_keeperAI", "dc/d62/a20868.html", "dc/d62/a20868" ],
+    [ "npc_ulduar_keeper", "d0/dad/a20864.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "d0/dad/a20864.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "d0/dad/a20864.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "d0/dad/a20864.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

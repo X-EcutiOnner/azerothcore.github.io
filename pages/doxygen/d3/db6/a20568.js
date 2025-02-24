@@ -1,11 +1,9 @@
 var a20568 =
 [
-    [ "boss_thorim_arena_npcsAI", "d3/db6/a20568.html#aab66eff737c803f6680ca5f93baaa6ca", null ],
-    [ "CanAIAttack", "d3/db6/a20568.html#ae214fabcc4db1f40a15be3369e66b030", null ],
-    [ "JustEngagedWith", "d3/db6/a20568.html#a60530453c2cbf5f22fb0d45088f90706", null ],
-    [ "Reset", "d3/db6/a20568.html#a83cb4bdb14a757733333f94d02fbf8db", null ],
-    [ "SelectT", "d3/db6/a20568.html#a84f22d142aad0ed7354784192bd5df3b", null ],
-    [ "UpdateAI", "d3/db6/a20568.html#acf09c7b12bce41c38980905457d4dbb4", null ],
-    [ "_isCaster", "d3/db6/a20568.html#a2c55eacc7b16be459935b586a0654500", null ],
-    [ "events", "d3/db6/a20568.html#aea5a9f9c915a7827316c48a504bc992e", null ]
+    [ "npc_xt002_scrapbotAI", "d3/db6/a20568.html#a21be97bb49ff06ef090cbbe6f5006f56", null ],
+    [ "JustDied", "d3/db6/a20568.html#adcab192d017e6a9e8d103a6e8b91cb26", null ],
+    [ "MovementInform", "d3/db6/a20568.html#a48fd29d42280ae91852ef2ef0cecc8f6", null ],
+    [ "Reset", "d3/db6/a20568.html#aab71d2a49ee96e88a2858c07c455e78d", null ],
+    [ "UpdateAI", "d3/db6/a20568.html#ae2de6767f8ab502833971e4171d48c13", null ],
+    [ "_locked", "d3/db6/a20568.html#add3bfe992d635629ac7e07e04c4334c9", null ]
 ];

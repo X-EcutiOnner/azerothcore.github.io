@@ -1,7 +1,7 @@
 var a12980 =
 [
-    [ "CheckCast", "dd/dbd/a12980.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
-    [ "PrepareSpellScript", "dd/dbd/a12980.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
-    [ "Register", "dd/dbd/a12980.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
-    [ "Validate", "dd/dbd/a12980.html#a9208b9c010bb9cc379c195939351aa45", null ]
+    [ "HandleScript", "dd/dbd/a12980.html#a6ce169d6c1b106195f787b52ea433311", null ],
+    [ "PrepareSpellScript", "dd/dbd/a12980.html#a4f71583df2193274365944e6d228247c", null ],
+    [ "Register", "dd/dbd/a12980.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
+    [ "Validate", "dd/dbd/a12980.html#a51025308f88001f1f66d7f68f174f325", null ]
 ];

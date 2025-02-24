@@ -1,5 +1,6 @@
 var a11220 =
 [
-    [ "data", "db/da5/a04663.html#ga4e97bd1d129d33b86a11c79c8cfa437b", null ],
-    [ "ScriptId", "db/da5/a04663.html#gaa452a9be01e00154512cb55980737ae6", null ]
+    [ "ObjectAreaTargetSelectHandler", "d4/da4/a11220.html#a89b86436bb1de38223165e7ef60f2b61", null ],
+    [ "Call", "d4/da4/a11220.html#a11d2070610d178006231bac274d1f311", null ],
+    [ "pObjectAreaTargetSelectHandlerScript", "d4/da4/a11220.html#a118ca963c6319802806913762c4d1fec", null ]
 ];

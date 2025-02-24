@@ -1,10 +1,6 @@
 var a15948 =
 [
-    [ "spell_halion_marks_aura", "de/d2c/a15948.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
-    [ "BeforeDispel", "de/d2c/a15948.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
-    [ "OnRemove", "de/d2c/a15948.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
-    [ "PrepareAuraScript", "de/d2c/a15948.html#acd5285ea5c378b31526440d263c54770", null ],
-    [ "Register", "de/d2c/a15948.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
-    [ "_removeSpellId", "de/d2c/a15948.html#aeef9d928c6a8739337251e144558b169", null ],
-    [ "_summonSpellId", "de/d2c/a15948.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
+    [ "npc_orb_carrierAI", "d9/ddf/a15952.html", "d9/ddf/a15952" ],
+    [ "npc_orb_carrier", "de/d2c/a15948.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
+    [ "GetAI", "de/d2c/a15948.html#ab5b7bbffc43b840c686dc889805ea401", null ]
 ];

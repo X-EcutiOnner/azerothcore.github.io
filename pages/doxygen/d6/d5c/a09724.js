@@ -1,9 +1,7 @@
 var a09724 =
 [
-    [ "PathMovementBase", "d6/d5c/a09724.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
-    [ "PathMovementBase", "d6/d5c/a09724.html#a953fcda0cf7764f659fc5a4a19408550", null ],
-    [ "~PathMovementBase", "d6/d5c/a09724.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
-    [ "GetCurrentNode", "d6/d5c/a09724.html#a7ceb52928f2198392980c3926516fd82", null ],
-    [ "i_currentNode", "d6/d5c/a09724.html#a5420aef90d3529881ef41362ebb29934", null ],
-    [ "i_path", "d6/d5c/a09724.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
+    [ "ZRangeBoundary", "d6/d5c/a09724.html#ab9c77783e059de4478625f7c97713c49", null ],
+    [ "IsWithinBoundaryArea", "d6/d5c/a09724.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
+    [ "_maxZ", "d6/d5c/a09724.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
+    [ "_minZ", "d6/d5c/a09724.html#aee142d5bc4cfae80584b84ae451da05c", null ]
 ];

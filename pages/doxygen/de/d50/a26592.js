@@ -1,6 +1,7 @@
 var a26592 =
 [
-    [ "FilterTargets", "de/d50/a26592.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
-    [ "PrepareSpellScript", "de/d50/a26592.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
-    [ "Register", "de/d50/a26592.html#abe63ec69fe15fd8924fb63235489e088", null ]
+    [ "HandleAuraApply", "de/d50/a26592.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
+    [ "HandleAuraRemove", "de/d50/a26592.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
+    [ "PrepareAuraScript", "de/d50/a26592.html#a5c7d7c0b8880128121d66d39094f1965", null ],
+    [ "Register", "de/d50/a26592.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
 ];

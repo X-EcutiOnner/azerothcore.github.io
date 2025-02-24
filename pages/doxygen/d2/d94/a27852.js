@@ -1,8 +1,11 @@
 var a27852 =
 [
-    [ "HandleDummy", "d2/d94/a27852.html#a60a374efc8b47bfdd8ffded2ff1e10d1", null ],
-    [ "Load", "d2/d94/a27852.html#a9ecd5d24b96d1cde3ad07e76992f5e1f", null ],
-    [ "PrepareSpellScript", "d2/d94/a27852.html#ad4605cd07b702a660556a8150b44c621", null ],
-    [ "Register", "d2/d94/a27852.html#a9cc594c2b85156f1482398af6d0bca5b", null ],
-    [ "Validate", "d2/d94/a27852.html#a954ae38fd04985b9851a09b416ba59bc", null ]
+    [ "icon", "d2/d94/a27852.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
+    [ "id", "d2/d94/a27852.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
+    [ "mapId", "d2/d94/a27852.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
+    [ "worldState", "d2/d94/a27852.html#a9d745d26316726c861cc5a242f6a4f57", null ],
+    [ "x", "d2/d94/a27852.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
+    [ "y", "d2/d94/a27852.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
+    [ "z", "d2/d94/a27852.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
+    [ "zoneId", "d2/d94/a27852.html#a0cc33089981237694ca550cba6793a3e", null ]
 ];

@@ -1,10 +1,10 @@
 var a05328 =
 [
-    [ "AsyncCallbackProcessor", "d5/db3/a05328.html#aee6f273ab86fad749de85cd12ea32a98", null ],
-    [ "~AsyncCallbackProcessor", "d5/db3/a05328.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
-    [ "AsyncCallbackProcessor", "d5/db3/a05328.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
-    [ "AddCallback", "d5/db3/a05328.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
-    [ "operator=", "d5/db3/a05328.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
-    [ "ProcessReadyCallbacks", "d5/db3/a05328.html#a4fce127f587a9da913a9e9061ba538e7", null ],
-    [ "_callbacks", "d5/db3/a05328.html#a372d9496b9a1b3e3f718cefe50164209", null ]
+    [ "Category", "d5/db3/a05328.html#a6a7956fedac99271428968ba339f464f", null ],
+    [ "Tags", "d5/db3/a05328.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
+    [ "Text", "d5/db3/a05328.html#ab63598f64896186fde81048550767b28", null ],
+    [ "Timestamp", "d5/db3/a05328.html#a8248a27d920ca431493750e3f2dec48b", null ],
+    [ "Title", "d5/db3/a05328.html#a857d2d4843480b9967334f079351292a", null ],
+    [ "Type", "d5/db3/a05328.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
+    [ "Value", "d5/db3/a05328.html#a09832a09e989c3851e72f4ec198f0e20", null ]
 ];

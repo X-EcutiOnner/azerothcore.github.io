@@ -1,6 +1,7 @@
 var a14356 =
 [
-    [ "OnAuraRemove", "da/d50/a14356.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "da/d50/a14356.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "da/d50/a14356.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "HandleDummy", "da/d50/a14356.html#a05c3589ee04eed87449f652db065f0e9", null ],
+    [ "PrepareSpellScript", "da/d50/a14356.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
+    [ "Register", "da/d50/a14356.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
+    [ "Validate", "da/d50/a14356.html#a5fc6dae87ffb634cc0de389196751b22", null ]
 ];

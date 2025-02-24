@@ -1,6 +1,8 @@
 var a19564 =
 [
-    [ "boss_algalon_the_observerAI", "dc/d77/a19568.html", "dc/d77/a19568" ],
-    [ "boss_algalon_the_observer", "dc/d58/a19564.html#a0691b47a116401da58b246203ecba2cb", null ],
-    [ "GetAI", "dc/d58/a19564.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
+    [ "go_celestial_planetarium_accessAI", "dc/d58/a19564.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "dc/d58/a19564.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "dc/d58/a19564.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "dc/d58/a19564.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "dc/d58/a19564.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

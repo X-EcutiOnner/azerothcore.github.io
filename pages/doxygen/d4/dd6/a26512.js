@@ -1,8 +1,9 @@
 var a26512 =
 [
-    [ "HandleDummy", "d4/dd6/a26512.html#ab653cf0414411c17ccc674395b08af7a", null ],
-    [ "Load", "d4/dd6/a26512.html#a6eb80b68a00c91d92a2963adb753ed23", null ],
-    [ "PrepareSpellScript", "d4/dd6/a26512.html#ae6c5ba4ed1918125594b31368c3bcf2f", null ],
-    [ "Register", "d4/dd6/a26512.html#a92eb201b3ae3ab167cc338174a355b00", null ],
-    [ "Validate", "d4/dd6/a26512.html#a3635089640297e059a183322c7e8f7b9", null ]
+    [ "CalculateAmount", "d4/dd6/a26512.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
+    [ "CheckProc", "d4/dd6/a26512.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
+    [ "HandleProc", "d4/dd6/a26512.html#a741570ba77f70d90b437198f63e565f3", null ],
+    [ "PrepareAuraScript", "d4/dd6/a26512.html#af4e49e2362994f247c119c16c013e4b3", null ],
+    [ "Register", "d4/dd6/a26512.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
+    [ "Validate", "d4/dd6/a26512.html#a939d6815bcaee9b9d2b062313aac912a", null ]
 ];

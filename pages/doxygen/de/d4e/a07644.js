@@ -1,5 +1,5 @@
 var a07644 =
 [
-    [ "number", "de/d4e/a07644.html#af111e542d7a276e27d2b14757293bc42", null ],
-    [ "offset_elements", "de/d4e/a07644.html#ad633b2e9afc82762c6b43675844f8fea", null ]
+    [ "value_type", "de/d4e/a07644.html#ab102122dc913801a43be2fc6e4d5b2b4", null ],
+    [ "TryConsume", "de/d4e/a07644.html#a4916376e89113eea20071f4f584c6a75", null ]
 ];

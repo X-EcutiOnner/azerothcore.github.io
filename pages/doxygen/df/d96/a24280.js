@@ -1,8 +1,9 @@
 var a24280 =
 [
-    [ "go_skull_pile", "df/d96/a24280.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "df/d96/a24280.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "df/d96/a24280.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "df/d96/a24280.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "df/d96/a24280.html#af74fcd75404c0886128401d661067394", null ]
+    [ "npc_pet_gen_fetch_ball", "df/d96/a24280.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
+    [ "IsSummonedBy", "df/d96/a24280.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
+    [ "SpellHitTarget", "df/d96/a24280.html#a87bdded236f6584d9b71507a1253f7d0", null ],
+    [ "UpdateAI", "df/d96/a24280.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
+    [ "checkTimer", "df/d96/a24280.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
+    [ "targetGUID", "df/d96/a24280.html#ae474374af7c2270e218ed236d90c789c", null ]
 ];

@@ -1,6 +1,9 @@
 var a19948 =
 [
-    [ "boss_freya_elder_ironbranchAI", "da/d4d/a19952.html", "da/d4d/a19952" ],
-    [ "boss_freya_elder_ironbranch", "d7/d47/a19948.html#a066083e4d6fde6439f7dce80be209075", null ],
-    [ "GetAI", "d7/d47/a19948.html#a67f483d12fe801c1d840dd0f74396564", null ]
+    [ "boss_freya_nature_bombAI", "d7/d47/a19948.html#acbf4d330bb5bf4a032732895e8f7e35b", null ],
+    [ "Reset", "d7/d47/a19948.html#a60738702870e2cacbcdf600e9e7073b5", null ],
+    [ "UpdateAI", "d7/d47/a19948.html#a4bfa9df3e3151743485f59c4d318d7f9", null ],
+    [ "_explodeTimer", "d7/d47/a19948.html#a2af9ed2067097eec2a647f17f8b1ef71", null ],
+    [ "_goGUID", "d7/d47/a19948.html#a1a7579cc6957a52d65a1d302d5ba1da0", null ],
+    [ "Timer", "d7/d47/a19948.html#a714a582c6ec552b969624244d709d14d", null ]
 ];

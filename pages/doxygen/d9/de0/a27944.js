@@ -1,5 +1,7 @@
 var a27944 =
 [
-    [ "cinematicCamera", "d9/de0/a27944.html#a87e5f6de255dc0c75423eace2768a1dc", null ],
-    [ "Id", "d9/de0/a27944.html#a9c3dc0e60728c1c76594385d6860f265", null ]
+    [ "EmoteType", "d9/de0/a27944.html#a2d319652021081fdb02472c32a28e318", null ],
+    [ "Flags", "d9/de0/a27944.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
+    [ "Id", "d9/de0/a27944.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
+    [ "UnitStandState", "d9/de0/a27944.html#ada83e548faa01917a5db19eaa15dbbec", null ]
 ];

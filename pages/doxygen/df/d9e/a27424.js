@@ -1,12 +1,11 @@
 var a27424 =
 [
-    [ "npc_elder_clearwaterAI", "df/d9e/a27424.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
-    [ "DoAction", "df/d9e/a27424.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
-    [ "GetData", "df/d9e/a27424.html#a077c02bf06b16439225a5cf8d83babf2", null ],
-    [ "UpdateAI", "df/d9e/a27424.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
-    [ "events", "df/d9e/a27424.html#a267fec22dc3d7272cae74267d0567618", null ],
-    [ "finished", "df/d9e/a27424.html#af51d6abb8fc8b59d068156a4859a377e", null ],
-    [ "finishWarning", "df/d9e/a27424.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
-    [ "preWarning", "df/d9e/a27424.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
-    [ "startWarning", "df/d9e/a27424.html#a01545211dec4338ac44304ebc7f18a97", null ]
+    [ "npc_injured_patientAI", "df/d9e/a27424.html#a0973487623f1771c598648bc06a6d9a3", null ],
+    [ "JustEngagedWith", "df/d9e/a27424.html#a621a8cc3f6b9655760431d52766ca589", null ],
+    [ "Reset", "df/d9e/a27424.html#a007c9c7a4047374574cad17e9309d7c1", null ],
+    [ "SpellHit", "df/d9e/a27424.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
+    [ "UpdateAI", "df/d9e/a27424.html#a54d0a5574175747779878dce0ebfd44f", null ],
+    [ "_scheduler", "df/d9e/a27424.html#a60428fa97c8f6520338d53ed368c4c35", null ],
+    [ "Coord", "df/d9e/a27424.html#af5a6f87c0379edd07a8756018b0c8661", null ],
+    [ "DoctorGUID", "df/d9e/a27424.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
 ];

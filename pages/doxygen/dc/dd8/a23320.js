@@ -1,6 +1,7 @@
 var a23320 =
 [
-    [ "HandleAfterRemove", "dc/dd8/a23320.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "dc/dd8/a23320.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "dc/dd8/a23320.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "OnApply", "dc/dd8/a23320.html#a301e47da9be4b4a449701c59c19bc62b", null ],
+    [ "PrepareAuraScript", "dc/dd8/a23320.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
+    [ "Register", "dc/dd8/a23320.html#aaf38547f7fa233b03429734dbe374f13", null ],
+    [ "Validate", "dc/dd8/a23320.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
 ];

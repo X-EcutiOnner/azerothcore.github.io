@@ -1,6 +1,6 @@
 var a24104 =
 [
-    [ "npc_mature_netherwing_drakeAI", "da/d64/a24108.html", "da/d64/a24108" ],
-    [ "npc_mature_netherwing_drake", "d5/dde/a24104.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "d5/dde/a24104.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "CheckRequirement", "d5/dde/a24104.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "d5/dde/a24104.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "d5/dde/a24104.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

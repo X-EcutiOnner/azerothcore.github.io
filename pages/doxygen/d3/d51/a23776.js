@@ -1,6 +1,6 @@
 var a23776 =
 [
-    [ "Load", "d3/d51/a23776.html#a0fa22884296d705fd28eed88351d1165", null ],
-    [ "PrepareSpellScript", "d3/d51/a23776.html#ae04539319a7bab4965f663039c991614", null ],
-    [ "Register", "d3/d51/a23776.html#a7c7abeb9bc621824173db2c727c28045", null ]
+    [ "HandlePeriodic", "d3/d51/a23776.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
+    [ "PrepareAuraScript", "d3/d51/a23776.html#a438425f3002028a0978e0dbab580ca03", null ],
+    [ "Register", "d3/d51/a23776.html#af4b26607e8838b7bbbe8777f57601341", null ]
 ];

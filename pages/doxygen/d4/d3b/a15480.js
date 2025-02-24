@@ -1,12 +1,7 @@
 var a15480 =
 [
-    [ "npc_wizzlecrank_shredderAI", "d4/d3b/a15480.html#a055c4b426219aa3372a83d2e2021d916", null ],
-    [ "JustSummoned", "d4/d3b/a15480.html#a7cad21f0b3286ed75256a49c315069ce", null ],
-    [ "Reset", "d4/d3b/a15480.html#a86929e8a2f3433f37e4dda03e3011193", null ],
-    [ "UpdateEscortAI", "d4/d3b/a15480.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
-    [ "WaypointReached", "d4/d3b/a15480.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
-    [ "WaypointStart", "d4/d3b/a15480.html#a00857e372e53950338ed71d672edb780", null ],
-    [ "IsPostEvent", "d4/d3b/a15480.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
-    [ "PostEventCount", "d4/d3b/a15480.html#aa5284a284c074f32cee85d29aea00f2f", null ],
-    [ "PostEventTimer", "d4/d3b/a15480.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
+    [ "npc_giltharesAI", "d7/d34/a15484.html", "d7/d34/a15484" ],
+    [ "npc_gilthares", "d4/d3b/a15480.html#af1e0746350b32b68825710e1c3ed91a5", null ],
+    [ "GetAI", "d4/d3b/a15480.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
+    [ "OnQuestAccept", "d4/d3b/a15480.html#a018cc6240a79216acb371241f63e3234", null ]
 ];

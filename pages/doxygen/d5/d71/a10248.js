@@ -1,5 +1,5 @@
 var a10248 =
 [
-    [ "GuildGetInfo", "d5/d71/a10248.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
-    [ "Read", "d5/d71/a10248.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
+    [ "GenericGameObjectScript", "d5/d71/a10248.html#a7d1d46c8d325619637aef9b9dc5419f7", null ],
+    [ "GetAI", "d5/d71/a10248.html#a7e3ba0f4a88489de522ae714d628c9ab", null ]
 ];

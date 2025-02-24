@@ -1,4 +1,5 @@
 var a10564 =
 [
-    [ "format", "d3/d2d/a10564.html#a24a0c7409f4aa2903361863f9cc4c8b6", null ]
+    [ "Flags", "d3/d2d/a10564.html#af1d25fa760cdbfa907a1b6e0002f0e70", null ],
+    [ "WithdrawItemLimit", "d3/d2d/a10564.html#aa7bb5355ee174f3b9dd32c659e0f7806", null ]
 ];

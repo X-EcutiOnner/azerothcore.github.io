@@ -1,6 +1,6 @@
 var a24116 =
 [
-    [ "npc_dragonmaw_peonAI", "d3/d81/a24120.html", "d3/d81/a24120" ],
-    [ "npc_dragonmaw_peon", "d6/d3e/a24116.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "d6/d3e/a24116.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "npc_zephyr", "d6/d3e/a24116.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
+    [ "OnGossipHello", "d6/d3e/a24116.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
+    [ "OnGossipSelect", "d6/d3e/a24116.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
 ];

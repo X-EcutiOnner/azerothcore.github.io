@@ -1,6 +1,14 @@
 var a21152 =
 [
-    [ "spell_archavon_rock_shards_SpellScript", "d3/d92/a21156.html", "d3/d92/a21156" ],
-    [ "spell_archavon_rock_shards", "de/d4f/a21152.html#a777b5bb8eb939f331f204cef2781201f", null ],
-    [ "GetSpellScript", "de/d4f/a21152.html#a60a3f5142f2f0d01ef48f5c8c64958f9", null ]
+    [ "boss_cyanigosaAI", "de/d4f/a21152.html#a4b24132889b17b3e682a15009a1ae910", null ],
+    [ "EnterEvadeMode", "de/d4f/a21152.html#a8da6ddc9b1c9f7b145920205046ce095", null ],
+    [ "JustDied", "de/d4f/a21152.html#a805117db567dd3d529a1c862bc24179c", null ],
+    [ "JustEngagedWith", "de/d4f/a21152.html#a4ef85c0178120f14f2a7b29efb7a9abf", null ],
+    [ "KilledUnit", "de/d4f/a21152.html#a5e69b631ab6844160b1e53fd1d731bae", null ],
+    [ "MoveInLineOfSight", "de/d4f/a21152.html#adb699a22dbf1c14cb80f8fdcca9c6f82", null ],
+    [ "Reset", "de/d4f/a21152.html#a7b0fdaa4f2603db8fd2d0c1ee6975817", null ],
+    [ "SpellHitTarget", "de/d4f/a21152.html#ae8218b69e6dc7489e65d891048d84da1", null ],
+    [ "UpdateAI", "de/d4f/a21152.html#ae69afba77636c962045160b610177bd9", null ],
+    [ "events", "de/d4f/a21152.html#ab5fe766d46e9445b9e7cfc605073983f", null ],
+    [ "pInstance", "de/d4f/a21152.html#a075f4a592202dc73d9b5d63ca5178093", null ]
 ];

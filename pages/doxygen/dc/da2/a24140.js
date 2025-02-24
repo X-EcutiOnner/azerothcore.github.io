@@ -1,7 +1,6 @@
 var a24140 =
 [
-    [ "o", "dc/da2/a24140.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "dc/da2/a24140.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "dc/da2/a24140.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "dc/da2/a24140.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "PrepareSpellScript", "dc/da2/a24140.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
+    [ "Register", "dc/da2/a24140.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
+    [ "SetDest", "dc/da2/a24140.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
 ];

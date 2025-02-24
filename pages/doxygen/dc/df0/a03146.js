@@ -1,4 +1,5 @@
 var a03146 =
 [
-    [ "GetMinPlayersPerTeam", "dc/df0/a03146.html#ab22bdb52b0357434faced9df19db9d81", null ]
+    [ "Acore::BattlegroundChatBuilder", "dd/df9/a07236.html", "dd/df9/a07236" ],
+    [ "Acore::Battleground2ChatBuilder", "df/d3a/a07240.html", "df/d3a/a07240" ]
 ];

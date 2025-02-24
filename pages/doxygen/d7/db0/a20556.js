@@ -1,6 +1,6 @@
 var a20556 =
 [
-    [ "boss_thorim_ancient_rune_giantAI", "d8/d9b/a20560.html", "d8/d9b/a20560" ],
-    [ "boss_thorim_ancient_rune_giant", "d7/db0/a20556.html#ad87dca7c6058e4b8b1234410644523dd", null ],
-    [ "GetAI", "d7/db0/a20556.html#aa8a0ff1416d5678a5d6bb7bdc36d6617", null ]
+    [ "npc_xt002_heartAI", "d8/d9b/a20560.html", "d8/d9b/a20560" ],
+    [ "npc_xt002_heart", "d7/db0/a20556.html#ab914ce1e945080b873cf6f93e3a6a32c", null ],
+    [ "GetAI", "d7/db0/a20556.html#af59c6623b97d1adff765e8ba4958d482", null ]
 ];

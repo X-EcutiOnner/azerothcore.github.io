@@ -1,9 +1,10 @@
 var a09252 =
 [
-    [ "LoginQueryHolder", "d0/d7e/a09252.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
-    [ "GetAccountId", "d0/d7e/a09252.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
-    [ "GetGuid", "d0/d7e/a09252.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
-    [ "Initialize", "d0/d7e/a09252.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
-    [ "m_accountId", "d0/d7e/a09252.html#abc8056182803af44a062fe6153fdd009", null ],
-    [ "m_guid", "d0/d7e/a09252.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
+    [ "AnyDeadUnitSpellTargetInRangeCheck", "d0/d7e/a09252.html#a212c308a02716ff382e820e86e233ed3", null ],
+    [ "operator()", "d0/d7e/a09252.html#af328df880d17a62e2dbed0ff4231fc39", null ],
+    [ "operator()", "d0/d7e/a09252.html#adcc69b9ef03a68aa235e40449a80b701", null ],
+    [ "operator()", "d0/d7e/a09252.html#a2f2483cf7078681cb3acf28560e61184", null ],
+    [ "operator()", "d0/d7e/a09252.html#aba0bf4c320a684b68743a06e724a369e", null ],
+    [ "i_check", "d0/d7e/a09252.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
+    [ "i_spellInfo", "d0/d7e/a09252.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
 ];

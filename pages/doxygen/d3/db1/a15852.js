@@ -1,6 +1,6 @@
 var a15852 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "df/d55/a15856.html", "df/d55/a15856" ],
-    [ "npc_baltharus_the_warborn_clone", "d3/db1/a15852.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "d3/db1/a15852.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "HandleLeapBack", "d3/db1/a15852.html#a71a9b9967528c1153ad1215635bc7d01", null ],
+    [ "PrepareSpellScript", "d3/db1/a15852.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
+    [ "Register", "d3/db1/a15852.html#a6ef11d0538616315fa7cf098748aa01f", null ]
 ];

@@ -1,12 +1,15 @@
 var a23492 =
 [
-    [ "boss_vazruden_the_herald", "dd/d15/a23492.html#a97f761b2e3477a22cdc65c68700de72c", null ],
-    [ "AttackStart", "dd/d15/a23492.html#a190621f4130b913348a49d6dfe76b591", null ],
-    [ "JustSummoned", "dd/d15/a23492.html#a66d8c6252e6baf88144da3af57bf65a4", null ],
-    [ "MovementInform", "dd/d15/a23492.html#abd89aa3911c626864f8aada889ce99c9", null ],
-    [ "Reset", "dd/d15/a23492.html#a18076b0fd12bc9a002394d5fe3aa5f81", null ],
-    [ "SetData", "dd/d15/a23492.html#a7dcbec1c99fdf4f740656a8379a99080", null ],
-    [ "SummonedCreatureDespawn", "dd/d15/a23492.html#a7621077082a3b53d1d21265e6dd00dce", null ],
-    [ "SummonedCreatureDies", "dd/d15/a23492.html#a336feba0d88e4fccce28b2730a9aea9e", null ],
-    [ "UpdateAI", "dd/d15/a23492.html#adc98e358a751fd9881589aada4baf320", null ]
+    [ "npc_shattered_hand_scout", "dd/d15/a23492.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
+    [ "DamageTaken", "dd/d15/a23492.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
+    [ "FireArrows", "dd/d15/a23492.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
+    [ "GetPorung", "dd/d15/a23492.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
+    [ "MoveInLineOfSight", "dd/d15/a23492.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
+    [ "MovementInform", "dd/d15/a23492.html#a6f6198c2faf68823b1d4c8237044784b", null ],
+    [ "Reset", "dd/d15/a23492.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
+    [ "SetData", "dd/d15/a23492.html#a9416dd89c4728538971abc5975c7080f", null ],
+    [ "UpdateAI", "dd/d15/a23492.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
+    [ "_firstZealots", "dd/d15/a23492.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
+    [ "_scheduler", "dd/d15/a23492.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
+    [ "_zealotGUIDs", "dd/d15/a23492.html#a26381a05bb007fdb4b7da97a19a878da", null ]
 ];

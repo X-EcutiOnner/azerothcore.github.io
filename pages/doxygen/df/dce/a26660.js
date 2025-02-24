@@ -1,7 +1,7 @@
 var a26660 =
 [
-    [ "HandleAuraApply", "df/dce/a26660.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
-    [ "HandleAuraRemove", "df/dce/a26660.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
-    [ "PrepareAuraScript", "df/dce/a26660.html#a5c7d7c0b8880128121d66d39094f1965", null ],
-    [ "Register", "df/dce/a26660.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
+    [ "HandleDummy", "df/dce/a26660.html#ab8916b5c232d7b55f4a6bb3e9f9ab122", null ],
+    [ "PrepareSpellScript", "df/dce/a26660.html#ac8cfa0b54c585f12682602a678d7bf2d", null ],
+    [ "Register", "df/dce/a26660.html#aee02661fa8845afd666ca27163b4a761", null ],
+    [ "Validate", "df/dce/a26660.html#aba9079e2418281315029c839b22df1c5", null ]
 ];

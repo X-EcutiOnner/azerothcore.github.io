@@ -1,6 +1,11 @@
 var a20756 =
 [
-    [ "boss_yoggsaron_descend_portalAI", "d6/d81/a20760.html", "d6/d81/a20760" ],
-    [ "boss_yoggsaron_descend_portal", "de/def/a20756.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
-    [ "GetAI", "de/def/a20756.html#aceb50c808eed17ca468a80b823af1907", null ]
+    [ "boss_yoggsaron_neltharionAI", "de/def/a20756.html#aacefe32de32513bdf46c0dd526768e25", null ],
+    [ "NextStep", "de/def/a20756.html#a4770948240ac56ec151c262c8996e4e4", null ],
+    [ "Reset", "de/def/a20756.html#a03841acfd21e920bc6589203448709a0", null ],
+    [ "Say", "de/def/a20756.html#ae45f051ab64ce1f96f32e5b8d073356e", null ],
+    [ "UpdateAI", "de/def/a20756.html#a80c174a8ffa15550627ed27ab0d8925d", null ],
+    [ "_checkTimer", "de/def/a20756.html#a7eef651198e09cf25c2f039bcb4a1876", null ],
+    [ "_running", "de/def/a20756.html#a6b2f01ed2ffe8113cbddd4a033886059", null ],
+    [ "_step", "de/def/a20756.html#a0ac37717e940b094d322a7e492202718", null ]
 ];

@@ -1,6 +1,10 @@
 var a07312 =
 [
-    [ "value_type", "d9/ddf/a07312.html#ac51f8d3476c4a938e81dfae8656ac70b", null ],
-    [ "operator()", "d9/ddf/a07312.html#af40bcad820dec0ab0cf2758281f8a604", null ],
-    [ "operator()", "d9/ddf/a07312.html#a4d601f73c9ab190a46438f34db4e04e6", null ]
+    [ "OwnerId", "d9/ddf/a07312.html#ae6203d7a867838b279825925841a99df", null ],
+    [ "PrevOwnerId", "d9/ddf/a07312.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
+    [ "PrevState", "d9/ddf/a07312.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
+    [ "State", "d9/ddf/a07312.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
+    [ "Timer", "d9/ddf/a07312.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
+    [ "TotalOwnerId", "d9/ddf/a07312.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
+    [ "Tower", "d9/ddf/a07312.html#a222db96ad937e31986c0c39a5a371dd7", null ]
 ];

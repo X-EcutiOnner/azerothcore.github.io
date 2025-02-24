@@ -1,7 +1,17 @@
 var a22428 =
 [
-    [ "npc_storm_cloudAI", "dc/d62/a22428.html#aa4dd9409cd74f3c2c878974715e43394", null ],
-    [ "JustRespawned", "dc/d62/a22428.html#ad0f99362f7ab506b322b6d75890881c1", null ],
-    [ "Reset", "dc/d62/a22428.html#a99654ac86502e3ac2f899082269ccb01", null ],
-    [ "SpellHit", "dc/d62/a22428.html#ac51313cec4d76216f3c716d988fc4857", null ]
+    [ "OPvPCapturePointZM_Graveyard", "dc/d62/a22428.html#a78fe433ee7f86e42d9b9c24d4c47f870", null ],
+    [ "CanTalkTo", "dc/d62/a22428.html#ae16e1448e5c21daea0a56ede78b3174a", null ],
+    [ "ChangeState", "dc/d62/a22428.html#a6a066c902c6e8ac58950037e6c4934b6", null ],
+    [ "FillInitialWorldStates", "dc/d62/a22428.html#a8aea9e4a005f5c88e2c71cfd46d10058", null ],
+    [ "GetGraveyardState", "dc/d62/a22428.html#ac10fc817ba6d3c68310a6b0d68e52342", null ],
+    [ "HandleDropFlag", "dc/d62/a22428.html#a87fb109fcc88099406d9f189333aef7c", null ],
+    [ "HandleGossipOption", "dc/d62/a22428.html#a132a6beb8a265dc614763a5f8e510173", null ],
+    [ "HandleOpenGo", "dc/d62/a22428.html#abef3d9dfff4688e0c5a87cd7b2a847c4", null ],
+    [ "SetBeaconState", "dc/d62/a22428.html#a7d7fc3041c753918c6e13e49a691674a", null ],
+    [ "Update", "dc/d62/a22428.html#a19d09f296598b83079eb2545b3d2caff", null ],
+    [ "UpdateTowerState", "dc/d62/a22428.html#ae907325621c0c0a40fc1e7761b81e832", null ],
+    [ "m_BothControllingFactionId", "dc/d62/a22428.html#ad501fe77b1d678cb593be6a0a8afd0a8", null ],
+    [ "m_FlagCarrierGUID", "dc/d62/a22428.html#acb0c4738c28d48f2f0ccec090e4b96d4", null ],
+    [ "m_GraveyardState", "dc/d62/a22428.html#a20e5b236d87c0942d15a60d2eba1af83", null ]
 ];

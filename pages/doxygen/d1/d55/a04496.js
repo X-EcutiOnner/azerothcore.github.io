@@ -1,16 +1,12 @@
 var a04496 =
 [
-    [ "Acore::CheckedBufferOutputIterator< T >", "d9/d61/a05402.html", "d9/d61/a05402" ],
-    [ "AddressOrSelf", "d1/d55/a04496.html#a31c35cb4c5901c4bdb56be356d5ab9b3", null ],
-    [ "AddressOrSelf", "d1/d55/a04496.html#aa676a34e943f3ea366194be6f31da865", null ],
-    [ "EraseIf", "d1/d55/a04496.html#a7821713bb3723db62da8a4d0e3711407", null ],
-    [ "MapGetValuePtr", "d1/d55/a04496.html#a288324cfca487d8ecc2eab8a6014c513", null ],
-    [ "MultimapErasePair", "d1/d55/a04496.html#a965e5e257e71e0d1a8c708fbd00867a7", null ],
-    [ "RandomResize", "d1/d55/a04496.html#a356dc36492769fc1473e5f5214bd6a11", null ],
-    [ "RandomResize", "d1/d55/a04496.html#ad8b2c621f5a22f8ae253a1c9733794b9", null ],
-    [ "RandomShuffle", "d1/d55/a04496.html#a4585a27b1f592547062d7bc039cff3b4", null ],
-    [ "SelectRandomContainerElement", "d1/d55/a04496.html#a8ca673d18562735d4ed20a11519b3d46", null ],
-    [ "SelectRandomContainerElementIf", "d1/d55/a04496.html#a1a2b0eddd5cd5b91e5dc86ca27f0bb86", null ],
-    [ "SelectRandomWeightedContainerElement", "d1/d55/a04496.html#a4e1de71c76e525a6fdf4c76b0d09c94b", null ],
-    [ "SelectRandomWeightedContainerElement", "d1/d55/a04496.html#a220cb6c43559036273f478f15d047eb9", null ]
+    [ "EnumFlag< T >", "dd/d1f/a05420.html", "dd/d1f/a05420" ],
+    [ "DEFINE_ENUM_FLAG", "d1/d55/a04496.html#a9f556f9c539f21ae6fd639abe4c39c75", null ],
+    [ "IsFlag", "d1/d55/a04496.html#a7294b75cb336d554d5ce2b75b05c37d6", null ],
+    [ "IsEnumFlag", "d1/d55/a04496.html#ae0992e010612850442fc56bcf2d44b47", null ],
+    [ "operator&", "d1/d55/a04496.html#a27ef39aed098304d7387af8257f7cee3", null ],
+    [ "operator&=", "d1/d55/a04496.html#a24a78ca9e9dcd1b92829560e580c3134", null ],
+    [ "operator|", "d1/d55/a04496.html#ac8aaa198de31cb5a3b217d0968f30a3b", null ],
+    [ "operator|=", "d1/d55/a04496.html#a7808a2b72bed2b70553d802ed11e27c4", null ],
+    [ "operator~", "d1/d55/a04496.html#abe3f4d2eafbceebe9ec46ffcd15cfa76", null ]
 ];

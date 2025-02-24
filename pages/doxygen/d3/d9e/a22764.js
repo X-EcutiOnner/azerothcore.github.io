@@ -1,10 +1,12 @@
 var a22764 =
 [
-    [ "boss_gathios_the_shatterer", "d3/d9e/a22764.html#a34708f52c610e567c5acf62962e90d4e", null ],
-    [ "JustEngagedWith", "d3/d9e/a22764.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
-    [ "SelectCouncilMember", "d3/d9e/a22764.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
-    [ "UpdateAI", "d3/d9e/a22764.html#a1541f1efd3978a4c91b80e411aec6442", null ],
-    [ "_toggleAura", "d3/d9e/a22764.html#aa983e2d9018a9e53ee29840781f47c33", null ],
-    [ "_toggleBlessing", "d3/d9e/a22764.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
-    [ "_toggleSeal", "d3/d9e/a22764.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
+    [ "boss_essence_of_angerAI", "d3/d9e/a22764.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "d3/d9e/a22764.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "d3/d9e/a22764.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "d3/d9e/a22764.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "d3/d9e/a22764.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "d3/d9e/a22764.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "d3/d9e/a22764.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "_recentlySpoken", "d3/d9e/a22764.html#a056aa8fd704d832e83735cf2a1a22888", null ],
+    [ "targetGUID", "d3/d9e/a22764.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

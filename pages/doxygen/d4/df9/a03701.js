@@ -1,4 +1,4 @@
 var a03701 =
 [
-    [ "ScriptRegistry< GroupScript >", "d4/df9/a03701.html#a6ad2435b6116a997a5bacd47b955d688", null ]
+    [ "ScriptRegistry< WorldScript >", "d4/df9/a03701.html#a4b01e55b7bd36b85062bfc12bfef108f", null ]
 ];

@@ -1,10 +1,6 @@
 var a09948 =
 [
-    [ "ArenaScript", "d1/d85/a09948.html#acba88d9008e08873f3f20b92d69e8912", null ],
-    [ "CanAddMember", "d1/d85/a09948.html#aa85728dd471c2f4d58ed1794e741d060", null ],
-    [ "CanSaveToDB", "d1/d85/a09948.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
-    [ "IsDatabaseBound", "d1/d85/a09948.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
-    [ "OnArenaStart", "d1/d85/a09948.html#ae67b000b16f56309da56f672a9f2b423", null ],
-    [ "OnBeforeArenaCheckWinConditions", "d1/d85/a09948.html#a2b46190a3243f2306a74295975dca317", null ],
-    [ "OnGetPoints", "d1/d85/a09948.html#a13b22ad00d3742589532e6e522258834", null ]
+    [ "TargetedMovementGeneratorBase", "d1/d85/a09948.html#a670b36c578b32b7d582e8f4b6ef656c3", null ],
+    [ "stopFollowing", "d1/d85/a09948.html#adb0a6f1a63ce265fc63bf362e2f60488", null ],
+    [ "i_target", "d1/d85/a09948.html#a427d8512cbd0ccbaca65dcf48bbe39f6", null ]
 ];

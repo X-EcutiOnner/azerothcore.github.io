@@ -1,10 +1,8 @@
 var a05044 =
 [
-    [ "Hash", "db/df9/a05044.html#ae23bd592ac284f3068c36688d084c24f", null ],
-    [ "Verify", "db/df9/a05044.html#a7a041ffc17e4d4291f81d4090f31e1fd", null ],
-    [ "DEFAULT_ITERATIONS", "db/df9/a05044.html#a898bbe9b4ffddef1eb067915740d6100", null ],
-    [ "DEFAULT_MEMORY_COST", "db/df9/a05044.html#a413b8cdff629f26836a776412362056d", null ],
-    [ "ENCODED_HASH_LEN", "db/df9/a05044.html#a07dd0a8033f54177570f62a2a1a0da3d", null ],
-    [ "HASH_LEN", "db/df9/a05044.html#a923313625297d08ff3ca9a04bbe527aa", null ],
-    [ "PARALLELISM", "db/df9/a05044.html#a4aabf2fcc43b23c9d565ced3a2adb405", null ]
+    [ "GModelRayCallback", "db/df9/a05044.html#a39bc53ae3bf18800ea215a5a54568606", null ],
+    [ "operator()", "db/df9/a05044.html#af0072bed861fb89a63c37fd72482ed42", null ],
+    [ "hit", "db/df9/a05044.html#ad8861bd8f8c15ff9955c62f5cb1e13bf", null ],
+    [ "triangles", "db/df9/a05044.html#a09ef515a1b16d184071e708ed9245b3d", null ],
+    [ "vertices", "db/df9/a05044.html#af80815b123c6611f38e3d5b41e501546", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: TicketMgr Class Reference</title>
+<title>AzerothCore: SpellImplicitTargetInfo Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,101 +105,61 @@ $(document).ready(function(){initNavTree('d3/de3/a11100.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pro-methods">Protected Member Functions</a> &#124;
-<a href="#pro-attribs">Protected Attributes</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pri-static-attribs">Static Private Attributes</a> &#124;
 <a href="../../dd/d7a/a11097.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">TicketMgr Class Reference</div></div>
+  <div class="headertitle"><div class="title">SpellImplicitTargetInfo Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">TicketMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SpellInfo.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dc7/a11104.html">StaticData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a40a7975026b34b2598da1680671f30be"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a40a7975026b34b2598da1680671f30be">LoadTickets</a> ()</td></tr>
-<tr class="separator:a40a7975026b34b2598da1680671f30be"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4a8b6dc947a6c5fcefae8a26b61ef244"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a4a8b6dc947a6c5fcefae8a26b61ef244">LoadSurveys</a> ()</td></tr>
-<tr class="separator:a4a8b6dc947a6c5fcefae8a26b61ef244"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa746c055b37876983c7ee9642c44ae4c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d7b/a11096.html">GmTicket</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#aa746c055b37876983c7ee9642c44ae4c">GetTicket</a> (<a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ticketId)</td></tr>
-<tr class="separator:aa746c055b37876983c7ee9642c44ae4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab2adb26abcc34cec26786f9030bca6e5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d7b/a11096.html">GmTicket</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#ab2adb26abcc34cec26786f9030bca6e5">GetTicketByPlayer</a> (<a class="el" href="../../d0/dba/a08164.html">ObjectGuid</a> playerGuid)</td></tr>
-<tr class="separator:ab2adb26abcc34cec26786f9030bca6e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a24cd222d7d81113df99d7824cf90826a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d7b/a11096.html">GmTicket</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a24cd222d7d81113df99d7824cf90826a">GetOldestOpenTicket</a> ()</td></tr>
-<tr class="separator:a24cd222d7d81113df99d7824cf90826a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5c6638093e959f1cd7311268f2c8cf56"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a5c6638093e959f1cd7311268f2c8cf56">AddTicket</a> (<a class="el" href="../../d0/d7b/a11096.html">GmTicket</a> *ticket)</td></tr>
-<tr class="separator:a5c6638093e959f1cd7311268f2c8cf56"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aecb8908d0ea10ab044cf969aea4d3b88"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#aecb8908d0ea10ab044cf969aea4d3b88">CloseTicket</a> (<a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ticketId, <a class="el" href="../../d0/dba/a08164.html">ObjectGuid</a> source=<a class="el" href="../../d0/dba/a08164.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>)</td></tr>
-<tr class="separator:aecb8908d0ea10ab044cf969aea4d3b88"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9f3873fd2a9a9436b6626803b1eee0b2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a9f3873fd2a9a9436b6626803b1eee0b2">ResolveAndCloseTicket</a> (<a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ticketId, <a class="el" href="../../d0/dba/a08164.html">ObjectGuid</a> source)</td></tr>
-<tr class="separator:a9f3873fd2a9a9436b6626803b1eee0b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a014f3883e6f743db0f7e0756a0bf68c0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a014f3883e6f743db0f7e0756a0bf68c0">RemoveTicket</a> (<a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ticketId)</td></tr>
-<tr class="separator:a014f3883e6f743db0f7e0756a0bf68c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab837d31037c50df0740583ffd7165fbe"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#ab837d31037c50df0740583ffd7165fbe">GetStatus</a> () const</td></tr>
-<tr class="separator:ab837d31037c50df0740583ffd7165fbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5ea5f45b9ac52b3bbbceccbc69d894f3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a5ea5f45b9ac52b3bbbceccbc69d894f3">SetStatus</a> (bool status)</td></tr>
-<tr class="separator:a5ea5f45b9ac52b3bbbceccbc69d894f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abd1be6074a685517dc152da7e7639f3c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/ddf/a00488.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#abd1be6074a685517dc152da7e7639f3c">GetLastChange</a> () const</td></tr>
-<tr class="separator:abd1be6074a685517dc152da7e7639f3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa225ab2b5709ce806e579e90b517f150"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#aa225ab2b5709ce806e579e90b517f150">UpdateLastChange</a> ()</td></tr>
-<tr class="separator:aa225ab2b5709ce806e579e90b517f150"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaa0d229d1ec8cb98291464164ebc53dd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#aaa0d229d1ec8cb98291464164ebc53dd">GenerateTicketId</a> ()</td></tr>
-<tr class="separator:aaa0d229d1ec8cb98291464164ebc53dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ace173a347497eb6601a8c4654bdf0347"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#ace173a347497eb6601a8c4654bdf0347">GetOpenTicketCount</a> () const</td></tr>
-<tr class="separator:ace173a347497eb6601a8c4654bdf0347"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9bab47aaedbf07532960634a1eb20332"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a9bab47aaedbf07532960634a1eb20332">GetNextSurveyID</a> ()</td></tr>
-<tr class="separator:a9bab47aaedbf07532960634a1eb20332"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab89b490da7ddfd888b36f4ec0beced36"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#ab89b490da7ddfd888b36f4ec0beced36">Initialize</a> ()</td></tr>
-<tr class="separator:ab89b490da7ddfd888b36f4ec0beced36"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7b51b5f4aebb51922717c463bcc34a40"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a7b51b5f4aebb51922717c463bcc34a40">ResetTickets</a> ()</td></tr>
-<tr class="separator:a7b51b5f4aebb51922717c463bcc34a40"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af1176e11f3cb248599a0684b8a779012"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#af1176e11f3cb248599a0684b8a779012">ShowList</a> (<a class="el" href="../../d7/d41/a07260.html">ChatHandler</a> &amp;handler, bool onlineOnly) const</td></tr>
-<tr class="separator:af1176e11f3cb248599a0684b8a779012"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4276533fa100862fc875f3719241e592"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a4276533fa100862fc875f3719241e592">ShowClosedList</a> (<a class="el" href="../../d7/d41/a07260.html">ChatHandler</a> &amp;handler) const</td></tr>
-<tr class="separator:a4276533fa100862fc875f3719241e592"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a84182a16a815a9bdcd54118bc62a93c4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a84182a16a815a9bdcd54118bc62a93c4">ShowEscalatedList</a> (<a class="el" href="../../d7/d41/a07260.html">ChatHandler</a> &amp;handler) const</td></tr>
-<tr class="separator:a84182a16a815a9bdcd54118bc62a93c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad9aafcc0c0211eea71ba7c69de9f9d8b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#ad9aafcc0c0211eea71ba7c69de9f9d8b">SendTicket</a> (<a class="el" href="../../da/d91/a10712.html">WorldSession</a> *session, <a class="el" href="../../d0/d7b/a11096.html">GmTicket</a> *ticket) const</td></tr>
-<tr class="separator:ad9aafcc0c0211eea71ba7c69de9f9d8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6eadac193f40d3a14db74d6e07552bdb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a6eadac193f40d3a14db74d6e07552bdb">SpellImplicitTargetInfo</a> ()</td></tr>
+<tr class="separator:a6eadac193f40d3a14db74d6e07552bdb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e746c8dd4956a1bedc78c932740dfca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a8e746c8dd4956a1bedc78c932740dfca">SpellImplicitTargetInfo</a> (<a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> target)</td></tr>
+<tr class="separator:a8e746c8dd4956a1bedc78c932740dfca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a263a4660dfdf8b77f69e5475048b414b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a263a4660dfdf8b77f69e5475048b414b">IsArea</a> () const</td></tr>
+<tr class="separator:a263a4660dfdf8b77f69e5475048b414b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5dd39484ccfed1e34b27d957614b45e6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d1c/a03551.html#a1552887f0f9abf22f5e7af1064b8c213">SpellTargetSelectionCategories</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a5dd39484ccfed1e34b27d957614b45e6">GetSelectionCategory</a> () const</td></tr>
+<tr class="separator:a5dd39484ccfed1e34b27d957614b45e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a59769a12291673682e1b5c3650e8aff7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d1c/a03551.html#ae160272dac6c37cf297c68db99d9c987">SpellTargetReferenceTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a59769a12291673682e1b5c3650e8aff7">GetReferenceType</a> () const</td></tr>
+<tr class="separator:a59769a12291673682e1b5c3650e8aff7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a964c185b1d3ed3563c6efa68e8bf9f42"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087a">SpellTargetObjectTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a964c185b1d3ed3563c6efa68e8bf9f42">GetObjectType</a> () const</td></tr>
+<tr class="separator:a964c185b1d3ed3563c6efa68e8bf9f42"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1822c2908aff0701ab6e56ccf1c83a83"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d1c/a03551.html#a392c69714f880d43f8afb5510ba1fff7">SpellTargetCheckTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a1822c2908aff0701ab6e56ccf1c83a83">GetCheckType</a> () const</td></tr>
+<tr class="separator:a1822c2908aff0701ab6e56ccf1c83a83"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a094f5c6bc82196355aeded09cb469b7c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6f">SpellTargetDirectionTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a094f5c6bc82196355aeded09cb469b7c">GetDirectionType</a> () const</td></tr>
+<tr class="separator:a094f5c6bc82196355aeded09cb469b7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac726d7df6103bc991e650c5d221ec4cc"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#ac726d7df6103bc991e650c5d221ec4cc">CalcDirectionAngle</a> () const</td></tr>
+<tr class="separator:ac726d7df6103bc991e650c5d221ec4cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae5a138c973300efce4744ea260108097"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d3a/a00101.html#a418aed4e4066eb09ab979b5d78dc9152">Targets</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#ae5a138c973300efce4744ea260108097">GetTarget</a> () const</td></tr>
+<tr class="separator:ae5a138c973300efce4744ea260108097"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad368870f99d85f27ae2a15ee75b4b5dd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#ad368870f99d85f27ae2a15ee75b4b5dd">GetExplicitTargetMask</a> (bool &amp;srcSet, bool &amp;dstSet) const</td></tr>
+<tr class="separator:ad368870f99d85f27ae2a15ee75b4b5dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:ad2bec18f0007fc2160b4899b86dcb9e9"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d3/de3/a11100.html">TicketMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#ad2bec18f0007fc2160b4899b86dcb9e9">instance</a> ()</td></tr>
-<tr class="separator:ad2bec18f0007fc2160b4899b86dcb9e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ab2cec29c53f0b9bc6a016ce177f97c1d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d3a/a00101.html#a418aed4e4066eb09ab979b5d78dc9152">Targets</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#ab2cec29c53f0b9bc6a016ce177f97c1d">_target</a></td></tr>
+<tr class="separator:ab2cec29c53f0b9bc6a016ce177f97c1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
-Protected Member Functions</h2></td></tr>
-<tr class="memitem:a11570f6fb5ed3e9e7c69e2cf7eb6dcb3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a11570f6fb5ed3e9e7c69e2cf7eb6dcb3">_RemoveTicket</a> (<a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ticketId, <a class="el" href="../../d4/ddf/a00488.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a> source=-1, bool permanently=false)</td></tr>
-<tr class="separator:a11570f6fb5ed3e9e7c69e2cf7eb6dcb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
-Protected Attributes</h2></td></tr>
-<tr class="memitem:a41e9c383f1b9c7f4c6754fab94eb687e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/df2/a01175.html#a697d75cf06a963bad84903696288001a">GmTicketList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a></td></tr>
-<tr class="separator:a41e9c383f1b9c7f4c6754fab94eb687e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1a6167a7f574d205d97388914ce35d7a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a1a6167a7f574d205d97388914ce35d7a">_status</a></td></tr>
-<tr class="separator:a1a6167a7f574d205d97388914ce35d7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2042b8bdd21a9e29a2ab7dcf69bf96e1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a2042b8bdd21a9e29a2ab7dcf69bf96e1">_lastTicketId</a></td></tr>
-<tr class="separator:a2042b8bdd21a9e29a2ab7dcf69bf96e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a711629e4c21f66401248b9f8d8e7c511"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a711629e4c21f66401248b9f8d8e7c511">_lastSurveyId</a></td></tr>
-<tr class="separator:a711629e4c21f66401248b9f8d8e7c511"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6a5b603d107d4e14a7aff5c019f0b3d1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a6a5b603d107d4e14a7aff5c019f0b3d1">_openTicketCount</a></td></tr>
-<tr class="separator:a6a5b603d107d4e14a7aff5c019f0b3d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa9934956cb5efd70304cd048ddabc423"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/ddf/a00488.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#aa9934956cb5efd70304cd048ddabc423">_lastChange</a></td></tr>
-<tr class="separator:aa9934956cb5efd70304cd048ddabc423"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:a02858169d0fbf1e9fd298c381dff6ac7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a02858169d0fbf1e9fd298c381dff6ac7">TicketMgr</a> ()</td></tr>
-<tr class="separator:a02858169d0fbf1e9fd298c381dff6ac7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5e589cee62a607de7e4c2e8155ca0cc6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a5e589cee62a607de7e4c2e8155ca0cc6">~TicketMgr</a> ()</td></tr>
-<tr class="separator:a5e589cee62a607de7e4c2e8155ca0cc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-static-attribs" name="pri-static-attribs"></a>
+Static Private Attributes</h2></td></tr>
+<tr class="memitem:a1a05bbd8400ec4451ca34b2754e056e9"><td class="memItemLeft" align="right" valign="top">static std::array&lt; <a class="el" href="../../d6/dc7/a11104.html">StaticData</a>, <a class="el" href="../../d4/d3a/a00101.html#a418aed4e4066eb09ab979b5d78dc9152a9d7b287f18ed98352e92531e2c89a91d">TOTAL_SPELL_TARGETS</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de3/a11100.html#a1a05bbd8400ec4451ca34b2754e056e9">_data</a></td></tr>
+<tr class="separator:a1a05bbd8400ec4451ca34b2754e056e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a02858169d0fbf1e9fd298c381dff6ac7" name="a02858169d0fbf1e9fd298c381dff6ac7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a02858169d0fbf1e9fd298c381dff6ac7">&#9670;&#160;</a></span>TicketMgr()</h2>
+<a id="a6eadac193f40d3a14db74d6e07552bdb" name="a6eadac193f40d3a14db74d6e07552bdb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6eadac193f40d3a14db74d6e07552bdb">&#9670;&#160;</a></span>SpellImplicitTargetInfo() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -208,7 +168,7 @@ Private Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">TicketMgr::TicketMgr </td>
+          <td class="memname">SpellImplicitTargetInfo::SpellImplicitTargetInfo </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -216,703 +176,163 @@ Private Member Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  264</span>: <a class="code hl_variable" href="../../d3/de3/a11100.html#a1a6167a7f574d205d97388914ce35d7a">_status</a>(<span class="keyword">true</span>), <a class="code hl_variable" href="../../d3/de3/a11100.html#a2042b8bdd21a9e29a2ab7dcf69bf96e1">_lastTicketId</a>(0), <a class="code hl_variable" href="../../d3/de3/a11100.html#a711629e4c21f66401248b9f8d8e7c511">_lastSurveyId</a>(0), <a class="code hl_variable" href="../../d3/de3/a11100.html#a6a5b603d107d4e14a7aff5c019f0b3d1">_openTicketCount</a>(0), <a class="code hl_variable" href="../../d3/de3/a11100.html#aa9934956cb5efd70304cd048ddabc423">_lastChange</a>(<a class="code hl_function" href="../../d9/dda/a04740.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count()) { }</div>
-<div class="ttc" id="aa04740_html_adbe1785d1327dedf2ac403b7cc8e99c2"><div class="ttname"><a href="../../d9/dda/a04740.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a></div><div class="ttdeci">Seconds GetGameTime()</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:38</div></div>
-<div class="ttc" id="aa11100_html_a1a6167a7f574d205d97388914ce35d7a"><div class="ttname"><a href="../../d3/de3/a11100.html#a1a6167a7f574d205d97388914ce35d7a">TicketMgr::_status</a></div><div class="ttdeci">bool _status</div><div class="ttdef"><b>Definition:</b> TicketMgr.h:253</div></div>
-<div class="ttc" id="aa11100_html_a2042b8bdd21a9e29a2ab7dcf69bf96e1"><div class="ttname"><a href="../../d3/de3/a11100.html#a2042b8bdd21a9e29a2ab7dcf69bf96e1">TicketMgr::_lastTicketId</a></div><div class="ttdeci">uint32 _lastTicketId</div><div class="ttdef"><b>Definition:</b> TicketMgr.h:254</div></div>
-<div class="ttc" id="aa11100_html_a6a5b603d107d4e14a7aff5c019f0b3d1"><div class="ttname"><a href="../../d3/de3/a11100.html#a6a5b603d107d4e14a7aff5c019f0b3d1">TicketMgr::_openTicketCount</a></div><div class="ttdeci">uint32 _openTicketCount</div><div class="ttdef"><b>Definition:</b> TicketMgr.h:256</div></div>
-<div class="ttc" id="aa11100_html_a711629e4c21f66401248b9f8d8e7c511"><div class="ttname"><a href="../../d3/de3/a11100.html#a711629e4c21f66401248b9f8d8e7c511">TicketMgr::_lastSurveyId</a></div><div class="ttdeci">uint32 _lastSurveyId</div><div class="ttdef"><b>Definition:</b> TicketMgr.h:255</div></div>
-<div class="ttc" id="aa11100_html_aa9934956cb5efd70304cd048ddabc423"><div class="ttname"><a href="../../d3/de3/a11100.html#aa9934956cb5efd70304cd048ddabc423">TicketMgr::_lastChange</a></div><div class="ttdeci">uint64 _lastChange</div><div class="ttdef"><b>Definition:</b> TicketMgr.h:257</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  221</span>: <a class="code hl_variable" href="../../d3/de3/a11100.html#ab2cec29c53f0b9bc6a016ce177f97c1d">_target</a>(<a class="code hl_enumeration" href="../../d4/d3a/a00101.html#a418aed4e4066eb09ab979b5d78dc9152">Targets</a>(0)) {}</div>
+<div class="ttc" id="aa00101_html_a418aed4e4066eb09ab979b5d78dc9152"><div class="ttname"><a href="../../d4/d3a/a00101.html#a418aed4e4066eb09ab979b5d78dc9152">Targets</a></div><div class="ttdeci">Targets</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1409</div></div>
+<div class="ttc" id="aa11100_html_ab2cec29c53f0b9bc6a016ce177f97c1d"><div class="ttname"><a href="../../d3/de3/a11100.html#ab2cec29c53f0b9bc6a016ce177f97c1d">SpellImplicitTargetInfo::_target</a></div><div class="ttdeci">Targets _target</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:219</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a5e589cee62a607de7e4c2e8155ca0cc6" name="a5e589cee62a607de7e4c2e8155ca0cc6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5e589cee62a607de7e4c2e8155ca0cc6">&#9670;&#160;</a></span>~TicketMgr()</h2>
+<a id="a8e746c8dd4956a1bedc78c932740dfca" name="a8e746c8dd4956a1bedc78c932740dfca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8e746c8dd4956a1bedc78c932740dfca">&#9670;&#160;</a></span>SpellImplicitTargetInfo() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">TicketMgr::~TicketMgr </td>
+          <td class="memname">SpellImplicitTargetInfo::SpellImplicitTargetInfo </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>target</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  267</span>{</div>
-<div class="line"><span class="lineno">  268</span>    <span class="keywordflow">for</span> (GmTicketList::const_iterator itr = <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.begin(); itr != <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  269</span>        <span class="keyword">delete</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  270</span>}</div>
-<div class="ttc" id="aa11100_html_a41e9c383f1b9c7f4c6754fab94eb687e"><div class="ttname"><a href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">TicketMgr::_ticketList</a></div><div class="ttdeci">GmTicketList _ticketList</div><div class="ttdef"><b>Definition:</b> TicketMgr.h:251</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   61</span>{</div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_variable" href="../../d3/de3/a11100.html#ab2cec29c53f0b9bc6a016ce177f97c1d">_target</a> = <a class="code hl_enumeration" href="../../d4/d3a/a00101.html#a418aed4e4066eb09ab979b5d78dc9152">Targets</a>(target);</div>
+<div class="line"><span class="lineno">   63</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00251">_ticketList</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00219">_target</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a11570f6fb5ed3e9e7c69e2cf7eb6dcb3" name="a11570f6fb5ed3e9e7c69e2cf7eb6dcb3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a11570f6fb5ed3e9e7c69e2cf7eb6dcb3">&#9670;&#160;</a></span>_RemoveTicket()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TicketMgr::_RemoveTicket </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>ticketId</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/ddf/a00488.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a>&#160;</td>
-          <td class="paramname"><em>source</em> = <code>-1</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>permanently</em> = <code>false</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a5c6638093e959f1cd7311268f2c8cf56" name="a5c6638093e959f1cd7311268f2c8cf56"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5c6638093e959f1cd7311268f2c8cf56">&#9670;&#160;</a></span>AddTicket()</h2>
+<a id="ac726d7df6103bc991e650c5d221ec4cc" name="ac726d7df6103bc991e650c5d221ec4cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac726d7df6103bc991e650c5d221ec4cc">&#9670;&#160;</a></span>CalcDirectionAngle()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void TicketMgr::AddTicket </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d7b/a11096.html">GmTicket</a> *&#160;</td>
-          <td class="paramname"><em>ticket</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  361</span>{</div>
-<div class="line"><span class="lineno">  362</span>    <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>[ticket-&gt;<a class="code hl_function" href="../../d0/d7b/a11096.html#abc79eedcdd1db1c55cc8d600e45c854b">GetId</a>()] = ticket;</div>
-<div class="line"><span class="lineno">  363</span>    <span class="keywordflow">if</span> (!ticket-&gt;<a class="code hl_function" href="../../d0/d7b/a11096.html#a38e5895697bea89970355a9efe1cf336">IsClosed</a>())</div>
-<div class="line"><span class="lineno">  364</span>        ++<a class="code hl_variable" href="../../d3/de3/a11100.html#a6a5b603d107d4e14a7aff5c019f0b3d1">_openTicketCount</a>;</div>
-<div class="line"><span class="lineno">  365</span>    <a class="code hl_typedef" href="../../dc/d09/a02429.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a> trans = <a class="code hl_typedef" href="../../dc/d09/a02429.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a>(<span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">  366</span>    ticket-&gt;<a class="code hl_function" href="../../d0/d7b/a11096.html#a6df8d68ab86b31257d246623d27c924d">SaveToDB</a>(trans);</div>
-<div class="line"><span class="lineno">  367</span>}</div>
-<div class="ttc" id="aa02429_html_a96bac9a371212c6bab7a9448214666c0"><div class="ttname"><a href="../../dc/d09/a02429.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a></div><div class="ttdeci">SQLTransaction&lt; CharacterDatabaseConnection &gt; CharacterDatabaseTransaction</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:70</div></div>
-<div class="ttc" id="aa11096_html_a38e5895697bea89970355a9efe1cf336"><div class="ttname"><a href="../../d0/d7b/a11096.html#a38e5895697bea89970355a9efe1cf336">GmTicket::IsClosed</a></div><div class="ttdeci">bool IsClosed() const</div><div class="ttdef"><b>Definition:</b> TicketMgr.h:94</div></div>
-<div class="ttc" id="aa11096_html_a6df8d68ab86b31257d246623d27c924d"><div class="ttname"><a href="../../d0/d7b/a11096.html#a6df8d68ab86b31257d246623d27c924d">GmTicket::SaveToDB</a></div><div class="ttdeci">void SaveToDB(CharacterDatabaseTransaction trans) const</div><div class="ttdef"><b>Definition:</b> TicketMgr.cpp:78</div></div>
-<div class="ttc" id="aa11096_html_abc79eedcdd1db1c55cc8d600e45c854b"><div class="ttname"><a href="../../d0/d7b/a11096.html#abc79eedcdd1db1c55cc8d600e45c854b">GmTicket::GetId</a></div><div class="ttdeci">uint32 GetId() const</div><div class="ttdef"><b>Definition:</b> TicketMgr.h:101</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00256">_openTicketCount</a>, <a class="el" href="../../#l00251">_ticketList</a>, <a class="el" href="../../#l00101">GmTicket::GetId()</a>, <a class="el" href="../../#l00094">GmTicket::IsClosed()</a>, and <a class="el" href="../../#l00078">GmTicket::SaveToDB()</a>.</p>
-
-</div>
-</div>
-<a id="aecb8908d0ea10ab044cf969aea4d3b88" name="aecb8908d0ea10ab044cf969aea4d3b88"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aecb8908d0ea10ab044cf969aea4d3b88">&#9670;&#160;</a></span>CloseTicket()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TicketMgr::CloseTicket </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>ticketId</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/dba/a08164.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>source</em> = <code><a class="el" href="../../d0/dba/a08164.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a></code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  370</span>{</div>
-<div class="line"><span class="lineno">  371</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d7b/a11096.html">GmTicket</a>* ticket = <a class="code hl_function" href="../../d3/de3/a11100.html#aa746c055b37876983c7ee9642c44ae4c">GetTicket</a>(ticketId))</div>
-<div class="line"><span class="lineno">  372</span>    {</div>
-<div class="line"><span class="lineno">  373</span>        <a class="code hl_typedef" href="../../dc/d09/a02429.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a> trans = <a class="code hl_typedef" href="../../dc/d09/a02429.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a>(<span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">  374</span>        ticket-&gt;SetClosedBy(source);</div>
-<div class="line"><span class="lineno">  375</span>        <span class="keywordflow">if</span> (source)</div>
-<div class="line"><span class="lineno">  376</span>            --<a class="code hl_variable" href="../../d3/de3/a11100.html#a6a5b603d107d4e14a7aff5c019f0b3d1">_openTicketCount</a>;</div>
-<div class="line"><span class="lineno">  377</span>        ticket-&gt;SaveToDB(trans);</div>
-<div class="line"><span class="lineno">  378</span>    }</div>
-<div class="line"><span class="lineno">  379</span>}</div>
-<div class="ttc" id="aa11096_html"><div class="ttname"><a href="../../d0/d7b/a11096.html">GmTicket</a></div><div class="ttdef"><b>Definition:</b> TicketMgr.h:88</div></div>
-<div class="ttc" id="aa11100_html_aa746c055b37876983c7ee9642c44ae4c"><div class="ttname"><a href="../../d3/de3/a11100.html#aa746c055b37876983c7ee9642c44ae4c">TicketMgr::GetTicket</a></div><div class="ttdeci">GmTicket * GetTicket(uint32 ticketId)</div><div class="ttdef"><b>Definition:</b> TicketMgr.h:197</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00256">_openTicketCount</a>, and <a class="el" href="../../#l00197">GetTicket()</a>.</p>
-
-</div>
-</div>
-<a id="aaa0d229d1ec8cb98291464164ebc53dd" name="aaa0d229d1ec8cb98291464164ebc53dd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaa0d229d1ec8cb98291464164ebc53dd">&#9670;&#160;</a></span>GenerateTicketId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TicketMgr::GenerateTicketId </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  235</span>{ <span class="keywordflow">return</span> ++<a class="code hl_variable" href="../../d3/de3/a11100.html#a2042b8bdd21a9e29a2ab7dcf69bf96e1">_lastTicketId</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00254">_lastTicketId</a>.</p>
-
-</div>
-</div>
-<a id="abd1be6074a685517dc152da7e7639f3c" name="abd1be6074a685517dc152da7e7639f3c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abd1be6074a685517dc152da7e7639f3c">&#9670;&#160;</a></span>GetLastChange()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d4/ddf/a00488.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> TicketMgr::GetLastChange </td>
+          <td class="memname">float SpellImplicitTargetInfo::CalcDirectionAngle </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  232</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/de3/a11100.html#aa9934956cb5efd70304cd048ddabc423">_lastChange</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   96</span>{</div>
+<div class="line"><span class="lineno">   97</span>    <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../d3/de3/a11100.html#a094f5c6bc82196355aeded09cb469b7c">GetDirectionType</a>())</div>
+<div class="line"><span class="lineno">   98</span>    {</div>
+<div class="line"><span class="lineno">   99</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6faadecf7d4271f115c4ac459659f84b48c">TARGET_DIR_FRONT</a>:</div>
+<div class="line"><span class="lineno">  100</span>            <span class="keywordflow">return</span> 0.0f;</div>
+<div class="line"><span class="lineno">  101</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6fa481b14b3c1499129036414d2f9a7c298">TARGET_DIR_BACK</a>:</div>
+<div class="line"><span class="lineno">  102</span>            <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI);</div>
+<div class="line"><span class="lineno">  103</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6fa7f24bec37b8f026ad74e2bfa0d656088">TARGET_DIR_RIGHT</a>:</div>
+<div class="line"><span class="lineno">  104</span>            <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(-M_PI / 2);</div>
+<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6fac3d53d5ee31802576473c8629c9147c8">TARGET_DIR_LEFT</a>:</div>
+<div class="line"><span class="lineno">  106</span>            <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI / 2);</div>
+<div class="line"><span class="lineno">  107</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6fa225ee569421e521ed6a045f82ad5bd9b">TARGET_DIR_FRONT_RIGHT</a>:</div>
+<div class="line"><span class="lineno">  108</span>            <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(-M_PI / 4);</div>
+<div class="line"><span class="lineno">  109</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6fa7d0f3a1805bf0cc460e8aa7df485f8bc">TARGET_DIR_BACK_RIGHT</a>:</div>
+<div class="line"><span class="lineno">  110</span>            <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(-3 * M_PI / 4);</div>
+<div class="line"><span class="lineno">  111</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6faf39fa90b91cc01d5230e09028261c8e6">TARGET_DIR_BACK_LEFT</a>:</div>
+<div class="line"><span class="lineno">  112</span>            <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(3 * M_PI / 4);</div>
+<div class="line"><span class="lineno">  113</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6fa8ce598e23a6ab74caf1141da4f43dc85">TARGET_DIR_FRONT_LEFT</a>:</div>
+<div class="line"><span class="lineno">  114</span>            <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI / 4);</div>
+<div class="line"><span class="lineno">  115</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6fafa731e479af67e5b6dacfc5ff268946d">TARGET_DIR_RANDOM</a>:</div>
+<div class="line"><span class="lineno">  116</span>            <span class="keywordflow">return</span> float(<a class="code hl_function" href="../../d0/dd0/a04400.html#af2f9363ceebb6f78067b4a146d1de9df">rand_norm</a>()) * <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(2 * M_PI);</div>
+<div class="line"><span class="lineno">  117</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  118</span>            <span class="keywordflow">return</span> 0.0f;</div>
+<div class="line"><span class="lineno">  119</span>    }</div>
+<div class="line"><span class="lineno">  120</span>}</div>
+<div class="ttc" id="aa03551_html_a41dacfabf3231ea2ee5894d61f6c3b6fa225ee569421e521ed6a045f82ad5bd9b"><div class="ttname"><a href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6fa225ee569421e521ed6a045f82ad5bd9b">TARGET_DIR_FRONT_RIGHT</a></div><div class="ttdeci">@ TARGET_DIR_FRONT_RIGHT</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:132</div></div>
+<div class="ttc" id="aa03551_html_a41dacfabf3231ea2ee5894d61f6c3b6fa481b14b3c1499129036414d2f9a7c298"><div class="ttname"><a href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6fa481b14b3c1499129036414d2f9a7c298">TARGET_DIR_BACK</a></div><div class="ttdeci">@ TARGET_DIR_BACK</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:129</div></div>
+<div class="ttc" id="aa03551_html_a41dacfabf3231ea2ee5894d61f6c3b6fa7d0f3a1805bf0cc460e8aa7df485f8bc"><div class="ttname"><a href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6fa7d0f3a1805bf0cc460e8aa7df485f8bc">TARGET_DIR_BACK_RIGHT</a></div><div class="ttdeci">@ TARGET_DIR_BACK_RIGHT</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:133</div></div>
+<div class="ttc" id="aa03551_html_a41dacfabf3231ea2ee5894d61f6c3b6fa7f24bec37b8f026ad74e2bfa0d656088"><div class="ttname"><a href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6fa7f24bec37b8f026ad74e2bfa0d656088">TARGET_DIR_RIGHT</a></div><div class="ttdeci">@ TARGET_DIR_RIGHT</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:130</div></div>
+<div class="ttc" id="aa03551_html_a41dacfabf3231ea2ee5894d61f6c3b6fa8ce598e23a6ab74caf1141da4f43dc85"><div class="ttname"><a href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6fa8ce598e23a6ab74caf1141da4f43dc85">TARGET_DIR_FRONT_LEFT</a></div><div class="ttdeci">@ TARGET_DIR_FRONT_LEFT</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:135</div></div>
+<div class="ttc" id="aa03551_html_a41dacfabf3231ea2ee5894d61f6c3b6faadecf7d4271f115c4ac459659f84b48c"><div class="ttname"><a href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6faadecf7d4271f115c4ac459659f84b48c">TARGET_DIR_FRONT</a></div><div class="ttdeci">@ TARGET_DIR_FRONT</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:128</div></div>
+<div class="ttc" id="aa03551_html_a41dacfabf3231ea2ee5894d61f6c3b6fac3d53d5ee31802576473c8629c9147c8"><div class="ttname"><a href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6fac3d53d5ee31802576473c8629c9147c8">TARGET_DIR_LEFT</a></div><div class="ttdeci">@ TARGET_DIR_LEFT</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:131</div></div>
+<div class="ttc" id="aa03551_html_a41dacfabf3231ea2ee5894d61f6c3b6faf39fa90b91cc01d5230e09028261c8e6"><div class="ttname"><a href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6faf39fa90b91cc01d5230e09028261c8e6">TARGET_DIR_BACK_LEFT</a></div><div class="ttdeci">@ TARGET_DIR_BACK_LEFT</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:134</div></div>
+<div class="ttc" id="aa03551_html_a41dacfabf3231ea2ee5894d61f6c3b6fafa731e479af67e5b6dacfc5ff268946d"><div class="ttname"><a href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6fafa731e479af67e5b6dacfc5ff268946d">TARGET_DIR_RANDOM</a></div><div class="ttdeci">@ TARGET_DIR_RANDOM</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:136</div></div>
+<div class="ttc" id="aa04400_html_af2f9363ceebb6f78067b4a146d1de9df"><div class="ttname"><a href="../../d0/dd0/a04400.html#af2f9363ceebb6f78067b4a146d1de9df">rand_norm</a></div><div class="ttdeci">double rand_norm()</div><div class="ttdef"><b>Definition:</b> Random.cpp:77</div></div>
+<div class="ttc" id="aa11100_html_a094f5c6bc82196355aeded09cb469b7c"><div class="ttname"><a href="../../d3/de3/a11100.html#a094f5c6bc82196355aeded09cb469b7c">SpellImplicitTargetInfo::GetDirectionType</a></div><div class="ttdeci">SpellTargetDirectionTypes GetDirectionType() const</div><div class="ttdef"><b>Definition:</b> SpellInfo.cpp:90</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00257">_lastChange</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00090">GetDirectionType()</a>, <a class="el" href="../../#l00077">rand_norm()</a>, <a class="el" href="../../#l00129">TARGET_DIR_BACK</a>, <a class="el" href="../../#l00134">TARGET_DIR_BACK_LEFT</a>, <a class="el" href="../../#l00133">TARGET_DIR_BACK_RIGHT</a>, <a class="el" href="../../#l00128">TARGET_DIR_FRONT</a>, <a class="el" href="../../#l00135">TARGET_DIR_FRONT_LEFT</a>, <a class="el" href="../../#l00132">TARGET_DIR_FRONT_RIGHT</a>, <a class="el" href="../../#l00131">TARGET_DIR_LEFT</a>, <a class="el" href="../../#l00136">TARGET_DIR_RANDOM</a>, and <a class="el" href="../../#l00130">TARGET_DIR_RIGHT</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01346">Spell::SelectImplicitCasterDestTargets()</a>, <a class="el" href="../../#l01721">Spell::SelectImplicitDestDestTargets()</a>, and <a class="el" href="../../#l01684">Spell::SelectImplicitTargetDestTargets()</a>.</p>
 
 </div>
 </div>
-<a id="a9bab47aaedbf07532960634a1eb20332" name="a9bab47aaedbf07532960634a1eb20332"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9bab47aaedbf07532960634a1eb20332">&#9670;&#160;</a></span>GetNextSurveyID()</h2>
+<a id="a1822c2908aff0701ab6e56ccf1c83a83" name="a1822c2908aff0701ab6e56ccf1c83a83"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1822c2908aff0701ab6e56ccf1c83a83">&#9670;&#160;</a></span>GetCheckType()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TicketMgr::GetNextSurveyID </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  237</span>{ <span class="keywordflow">return</span> ++<a class="code hl_variable" href="../../d3/de3/a11100.html#a711629e4c21f66401248b9f8d8e7c511">_lastSurveyId</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00255">_lastSurveyId</a>.</p>
-
-</div>
-</div>
-<a id="a24cd222d7d81113df99d7824cf90826a" name="a24cd222d7d81113df99d7824cf90826a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a24cd222d7d81113df99d7824cf90826a">&#9670;&#160;</a></span>GetOldestOpenTicket()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d7b/a11096.html">GmTicket</a> * TicketMgr::GetOldestOpenTicket </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  216</span>    {</div>
-<div class="line"><span class="lineno">  217</span>        <span class="keywordflow">for</span> (GmTicketList::const_iterator itr = <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.begin(); itr != <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  218</span>            <span class="keywordflow">if</span> (itr-&gt;second &amp;&amp; !itr-&gt;second-&gt;IsClosed() &amp;&amp; !itr-&gt;second-&gt;IsCompleted())</div>
-<div class="line"><span class="lineno">  219</span>                <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  220</span> </div>
-<div class="line"><span class="lineno">  221</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  222</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00251">_ticketList</a>.</p>
-
-</div>
-</div>
-<a id="ace173a347497eb6601a8c4654bdf0347" name="ace173a347497eb6601a8c4654bdf0347"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ace173a347497eb6601a8c4654bdf0347">&#9670;&#160;</a></span>GetOpenTicketCount()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TicketMgr::GetOpenTicketCount </td>
+          <td class="memname"><a class="el" href="../../d3/d1c/a03551.html#a392c69714f880d43f8afb5510ba1fff7">SpellTargetCheckTypes</a> SpellImplicitTargetInfo::GetCheckType </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  236</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/de3/a11100.html#a6a5b603d107d4e14a7aff5c019f0b3d1">_openTicketCount</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   86</span>{</div>
+<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/de3/a11100.html#a1a05bbd8400ec4451ca34b2754e056e9">_data</a>[<a class="code hl_variable" href="../../d3/de3/a11100.html#ab2cec29c53f0b9bc6a016ce177f97c1d">_target</a>].SelectionCheckType;</div>
+<div class="line"><span class="lineno">   88</span>}</div>
+<div class="ttc" id="aa11100_html_a1a05bbd8400ec4451ca34b2754e056e9"><div class="ttname"><a href="../../d3/de3/a11100.html#a1a05bbd8400ec4451ca34b2754e056e9">SpellImplicitTargetInfo::_data</a></div><div class="ttdeci">static std::array&lt; StaticData, TOTAL_SPELL_TARGETS &gt; _data</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:245</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00256">_openTicketCount</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00245">_data</a>, and <a class="el" href="../../#l00219">_target</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00127">GetExplicitTargetMask()</a>, <a class="el" href="../../#l01264">Spell::SelectImplicitAreaTargets()</a>, <a class="el" href="../../#l01829">Spell::SelectImplicitChainTargets()</a>, <a class="el" href="../../#l01214">Spell::SelectImplicitConeTargets()</a>, and <a class="el" href="../../#l01100">Spell::SelectImplicitNearbyTargets()</a>.</p>
 
 </div>
 </div>
-<a id="ab837d31037c50df0740583ffd7165fbe" name="ab837d31037c50df0740583ffd7165fbe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab837d31037c50df0740583ffd7165fbe">&#9670;&#160;</a></span>GetStatus()</h2>
+<a id="a094f5c6bc82196355aeded09cb469b7c" name="a094f5c6bc82196355aeded09cb469b7c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a094f5c6bc82196355aeded09cb469b7c">&#9670;&#160;</a></span>GetDirectionType()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool TicketMgr::GetStatus </td>
+          <td class="memname"><a class="el" href="../../d3/d1c/a03551.html#a41dacfabf3231ea2ee5894d61f6c3b6f">SpellTargetDirectionTypes</a> SpellImplicitTargetInfo::GetDirectionType </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  229</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/de3/a11100.html#a1a6167a7f574d205d97388914ce35d7a">_status</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   91</span>{</div>
+<div class="line"><span class="lineno">   92</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/de3/a11100.html#a1a05bbd8400ec4451ca34b2754e056e9">_data</a>[<a class="code hl_variable" href="../../d3/de3/a11100.html#ab2cec29c53f0b9bc6a016ce177f97c1d">_target</a>].DirectionType;</div>
+<div class="line"><span class="lineno">   93</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00253">_status</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00245">_data</a>, and <a class="el" href="../../#l00219">_target</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00095">CalcDirectionAngle()</a>.</p>
 
 </div>
 </div>
-<a id="aa746c055b37876983c7ee9642c44ae4c" name="aa746c055b37876983c7ee9642c44ae4c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa746c055b37876983c7ee9642c44ae4c">&#9670;&#160;</a></span>GetTicket()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d7b/a11096.html">GmTicket</a> * TicketMgr::GetTicket </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>ticketId</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  198</span>    {</div>
-<div class="line"><span class="lineno">  199</span>        GmTicketList::iterator itr = <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.find(ticketId);</div>
-<div class="line"><span class="lineno">  200</span>        <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.end())</div>
-<div class="line"><span class="lineno">  201</span>            <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  202</span> </div>
-<div class="line"><span class="lineno">  203</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  204</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00251">_ticketList</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00369">CloseTicket()</a>, <a class="el" href="../../#l00381">RemoveTicket()</a>, and <a class="el" href="../../#l00391">ResolveAndCloseTicket()</a>.</p>
-
-</div>
-</div>
-<a id="ab2adb26abcc34cec26786f9030bca6e5" name="ab2adb26abcc34cec26786f9030bca6e5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab2adb26abcc34cec26786f9030bca6e5">&#9670;&#160;</a></span>GetTicketByPlayer()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d7b/a11096.html">GmTicket</a> * TicketMgr::GetTicketByPlayer </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dba/a08164.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>playerGuid</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  207</span>    {</div>
-<div class="line"><span class="lineno">  208</span>        <span class="keywordflow">for</span> (GmTicketList::const_iterator itr = <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.begin(); itr != <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  209</span>            <span class="keywordflow">if</span> (itr-&gt;second &amp;&amp; itr-&gt;second-&gt;IsFromPlayer(playerGuid) &amp;&amp; !itr-&gt;second-&gt;IsClosed())</div>
-<div class="line"><span class="lineno">  210</span>                <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  211</span> </div>
-<div class="line"><span class="lineno">  212</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  213</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00251">_ticketList</a>.</p>
-
-</div>
-</div>
-<a id="ab89b490da7ddfd888b36f4ec0beced36" name="ab89b490da7ddfd888b36f4ec0beced36"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab89b490da7ddfd888b36f4ec0beced36">&#9670;&#160;</a></span>Initialize()</h2>
+<a id="ad368870f99d85f27ae2a15ee75b4b5dd" name="ad368870f99d85f27ae2a15ee75b4b5dd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad368870f99d85f27ae2a15ee75b4b5dd">&#9670;&#160;</a></span>GetExplicitTargetMask()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void TicketMgr::Initialize </td>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellImplicitTargetInfo::GetExplicitTargetMask </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  278</span>{ <a class="code hl_function" href="../../d3/de3/a11100.html#a5ea5f45b9ac52b3bbbceccbc69d894f3">SetStatus</a>(<a class="code hl_define" href="../../db/da5/a04663.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getBoolConfig(<a class="code hl_enumvalue" href="../../da/d66/a01856.html#a1b4b88c03b7d0124998b4c22e957baf0ae66cdd1548190a3dfebabaf61a07b3cc">CONFIG_ALLOW_TICKETS</a>)); }</div>
-<div class="ttc" id="aa01856_html_a1b4b88c03b7d0124998b4c22e957baf0ae66cdd1548190a3dfebabaf61a07b3cc"><div class="ttname"><a href="../../da/d66/a01856.html#a1b4b88c03b7d0124998b4c22e957baf0ae66cdd1548190a3dfebabaf61a07b3cc">CONFIG_ALLOW_TICKETS</a></div><div class="ttdeci">@ CONFIG_ALLOW_TICKETS</div><div class="ttdef"><b>Definition:</b> IWorld.h:140</div></div>
-<div class="ttc" id="aa04663_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../db/da5/a04663.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:444</div></div>
-<div class="ttc" id="aa11100_html_a5ea5f45b9ac52b3bbbceccbc69d894f3"><div class="ttname"><a href="../../d3/de3/a11100.html#a5ea5f45b9ac52b3bbbceccbc69d894f3">TicketMgr::SetStatus</a></div><div class="ttdeci">void SetStatus(bool status)</div><div class="ttdef"><b>Definition:</b> TicketMgr.h:230</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00140">CONFIG_ALLOW_TICKETS</a>, <a class="el" href="../../#l00230">SetStatus()</a>, and <a class="el" href="../../#l00444">sWorld</a>.</p>
-
-</div>
-</div>
-<a id="ad2bec18f0007fc2160b4899b86dcb9e9" name="ad2bec18f0007fc2160b4899b86dcb9e9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad2bec18f0007fc2160b4899b86dcb9e9">&#9670;&#160;</a></span>instance()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/de3/a11100.html">TicketMgr</a> * TicketMgr::instance </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  273</span>{</div>
-<div class="line"><span class="lineno">  274</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../d3/de3/a11100.html">TicketMgr</a> <a class="code hl_function" href="../../d3/de3/a11100.html#ad2bec18f0007fc2160b4899b86dcb9e9">instance</a>;</div>
-<div class="line"><span class="lineno">  275</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../d3/de3/a11100.html#ad2bec18f0007fc2160b4899b86dcb9e9">instance</a>;</div>
-<div class="line"><span class="lineno">  276</span>}</div>
-<div class="ttc" id="aa11100_html"><div class="ttname"><a href="../../d3/de3/a11100.html">TicketMgr</a></div><div class="ttdef"><b>Definition:</b> TicketMgr.h:186</div></div>
-<div class="ttc" id="aa11100_html_ad2bec18f0007fc2160b4899b86dcb9e9"><div class="ttname"><a href="../../d3/de3/a11100.html#ad2bec18f0007fc2160b4899b86dcb9e9">TicketMgr::instance</a></div><div class="ttdeci">static TicketMgr * instance()</div><div class="ttdef"><b>Definition:</b> TicketMgr.cpp:272</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00272">instance()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00272">instance()</a>.</p>
-
-</div>
-</div>
-<a id="a4a8b6dc947a6c5fcefae8a26b61ef244" name="a4a8b6dc947a6c5fcefae8a26b61ef244"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4a8b6dc947a6c5fcefae8a26b61ef244">&#9670;&#160;</a></span>LoadSurveys()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TicketMgr::LoadSurveys </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  348</span>{</div>
-<div class="line"><span class="lineno">  349</span>    <span class="comment">// we don&#39;t actually load anything into memory here as there&#39;s no reason to</span></div>
-<div class="line"><span class="lineno">  350</span>    <a class="code hl_variable" href="../../d3/de3/a11100.html#a711629e4c21f66401248b9f8d8e7c511">_lastSurveyId</a> = 0;</div>
-<div class="line"><span class="lineno">  351</span> </div>
-<div class="line"><span class="lineno">  352</span>    <a class="code hl_typedef" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d9/dd1/a00398.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
-<div class="line"><span class="lineno">  353</span>    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../dc/d09/a02429.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d1/df7/a02501.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT MAX(surveyId) FROM gm_survey&quot;</span>))</div>
-<div class="line"><span class="lineno">  354</span>        <a class="code hl_variable" href="../../d3/de3/a11100.html#a711629e4c21f66401248b9f8d8e7c511">_lastSurveyId</a> = (*result)[0].Get&lt;<a class="code hl_typedef" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  355</span> </div>
-<div class="line"><span class="lineno">  356</span>    <a class="code hl_define" href="../../df/d03/a00062.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded GM Survey count from database in {} ms&quot;</span>, <a class="code hl_function" href="../../d9/dd1/a00398.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
-<div class="line"><span class="lineno">  357</span>    <a class="code hl_define" href="../../df/d03/a00062.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  358</span>}</div>
-<div class="ttc" id="aa00062_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../df/d03/a00062.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:164</div></div>
-<div class="ttc" id="aa00398_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../d9/dd1/a00398.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
-<div class="ttc" id="aa00398_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d9/dd1/a00398.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
-<div class="ttc" id="aa00488_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa02429_html_ab0c9feeec448a181290fcb39565b8253"><div class="ttname"><a href="../../dc/d09/a02429.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; ResultSet &gt; QueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:28</div></div>
-<div class="ttc" id="aa02501_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d1/df7/a02501.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00255">_lastSurveyId</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, and <a class="el" href="../../#l00164">LOG_INFO</a>.</p>
-
-</div>
-</div>
-<a id="a40a7975026b34b2598da1680671f30be" name="a40a7975026b34b2598da1680671f30be"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a40a7975026b34b2598da1680671f30be">&#9670;&#160;</a></span>LoadTickets()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TicketMgr::LoadTickets </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  302</span>{</div>
-<div class="line"><span class="lineno">  303</span>    <a class="code hl_typedef" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d9/dd1/a00398.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
-<div class="line"><span class="lineno">  304</span> </div>
-<div class="line"><span class="lineno">  305</span>    <span class="keywordflow">for</span> (GmTicketList::const_iterator itr = <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.begin(); itr != <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  306</span>        <span class="keyword">delete</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  307</span>    <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.clear();</div>
-<div class="line"><span class="lineno">  308</span> </div>
-<div class="line"><span class="lineno">  309</span>    <a class="code hl_variable" href="../../d3/de3/a11100.html#a2042b8bdd21a9e29a2ab7dcf69bf96e1">_lastTicketId</a> = 0;</div>
-<div class="line"><span class="lineno">  310</span>    <a class="code hl_variable" href="../../d3/de3/a11100.html#a6a5b603d107d4e14a7aff5c019f0b3d1">_openTicketCount</a> = 0;</div>
-<div class="line"><span class="lineno">  311</span> </div>
-<div class="line"><span class="lineno">  312</span>    <a class="code hl_class" href="../../d3/d7c/a05572.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d1/df7/a02501.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d2/d35/a02468.html#a76116b4fa282d8e35bf8f8e940b5cba7a9b910305203dac1dadaed30a59e16ec9">CHAR_SEL_GM_TICKETS</a>);</div>
-<div class="line"><span class="lineno">  313</span>    <a class="code hl_typedef" href="../../dc/d09/a02429.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../d1/df7/a02501.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(stmt);</div>
-<div class="line"><span class="lineno">  314</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">  315</span>    {</div>
-<div class="line"><span class="lineno">  316</span>        <a class="code hl_define" href="../../df/d03/a00062.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 GM tickets. DB table `gm_ticket` is empty!&quot;</span>);</div>
-<div class="line"><span class="lineno">  317</span> </div>
-<div class="line"><span class="lineno">  318</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  319</span>    }</div>
-<div class="line"><span class="lineno">  320</span> </div>
-<div class="line"><span class="lineno">  321</span>    <a class="code hl_typedef" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
-<div class="line"><span class="lineno">  322</span>    <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">  323</span>    {</div>
-<div class="line"><span class="lineno">  324</span>        <a class="code hl_class" href="../../dd/dd4/a05604.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">  325</span>        <a class="code hl_class" href="../../d0/d7b/a11096.html">GmTicket</a>* ticket = <span class="keyword">new</span> <a class="code hl_class" href="../../d0/d7b/a11096.html">GmTicket</a>();</div>
-<div class="line"><span class="lineno">  326</span>        <span class="keywordflow">if</span> (!ticket-&gt;<a class="code hl_function" href="../../d0/d7b/a11096.html#ab55e7e31b4589e47640613e939ec3908">LoadFromDB</a>(fields))</div>
-<div class="line"><span class="lineno">  327</span>        {</div>
-<div class="line"><span class="lineno">  328</span>            <span class="keyword">delete</span> ticket;</div>
-<div class="line"><span class="lineno">  329</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  330</span>        }</div>
-<div class="line"><span class="lineno">  331</span>        <span class="keywordflow">if</span> (!ticket-&gt;<a class="code hl_function" href="../../d0/d7b/a11096.html#a38e5895697bea89970355a9efe1cf336">IsClosed</a>())</div>
-<div class="line"><span class="lineno">  332</span>            ++<a class="code hl_variable" href="../../d3/de3/a11100.html#a6a5b603d107d4e14a7aff5c019f0b3d1">_openTicketCount</a>;</div>
-<div class="line"><span class="lineno">  333</span> </div>
-<div class="line"><span class="lineno">  334</span>        <span class="comment">// Update max ticket id if necessary</span></div>
-<div class="line"><span class="lineno">  335</span>        <a class="code hl_typedef" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keywordtype">id</span> = ticket-&gt;<a class="code hl_function" href="../../d0/d7b/a11096.html#abc79eedcdd1db1c55cc8d600e45c854b">GetId</a>();</div>
-<div class="line"><span class="lineno">  336</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/de3/a11100.html#a2042b8bdd21a9e29a2ab7dcf69bf96e1">_lastTicketId</a> &lt; <span class="keywordtype">id</span>)</div>
-<div class="line"><span class="lineno">  337</span>            <a class="code hl_variable" href="../../d3/de3/a11100.html#a2042b8bdd21a9e29a2ab7dcf69bf96e1">_lastTicketId</a> = id;</div>
-<div class="line"><span class="lineno">  338</span> </div>
-<div class="line"><span class="lineno">  339</span>        <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>[id] = ticket;</div>
-<div class="line"><span class="lineno">  340</span>        ++count;</div>
-<div class="line"><span class="lineno">  341</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">  342</span> </div>
-<div class="line"><span class="lineno">  343</span>    <a class="code hl_define" href="../../df/d03/a00062.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} GM tickets in {} ms&quot;</span>, count, <a class="code hl_function" href="../../d9/dd1/a00398.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
-<div class="line"><span class="lineno">  344</span>    <a class="code hl_define" href="../../df/d03/a00062.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  345</span>}</div>
-<div class="ttc" id="aa00062_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../df/d03/a00062.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:160</div></div>
-<div class="ttc" id="aa02429_html_ac6110b8d867b5f84f677555d07037acb"><div class="ttname"><a href="../../dc/d09/a02429.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; PreparedResultSet &gt; PreparedQueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:46</div></div>
-<div class="ttc" id="aa02468_html_a76116b4fa282d8e35bf8f8e940b5cba7a9b910305203dac1dadaed30a59e16ec9"><div class="ttname"><a href="../../d2/d35/a02468.html#a76116b4fa282d8e35bf8f8e940b5cba7a9b910305203dac1dadaed30a59e16ec9">CHAR_SEL_GM_TICKETS</a></div><div class="ttdeci">@ CHAR_SEL_GM_TICKETS</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:260</div></div>
-<div class="ttc" id="aa05572_html"><div class="ttname"><a href="../../d3/d7c/a05572.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:158</div></div>
-<div class="ttc" id="aa05604_html"><div class="ttname"><a href="../../dd/dd4/a05604.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:99</div></div>
-<div class="ttc" id="aa11096_html_ab55e7e31b4589e47640613e939ec3908"><div class="ttname"><a href="../../d0/d7b/a11096.html#ab55e7e31b4589e47640613e939ec3908">GmTicket::LoadFromDB</a></div><div class="ttdeci">bool LoadFromDB(Field *fields)</div><div class="ttdef"><b>Definition:</b> TicketMgr.cpp:49</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00254">_lastTicketId</a>, <a class="el" href="../../#l00256">_openTicketCount</a>, <a class="el" href="../../#l00251">_ticketList</a>, <a class="el" href="../../#l00260">CHAR_SEL_GM_TICKETS</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00101">GmTicket::GetId()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00094">GmTicket::IsClosed()</a>, <a class="el" href="../../#l00049">GmTicket::LoadFromDB()</a>, <a class="el" href="../../#l00164">LOG_INFO</a>, and <a class="el" href="../../#l00160">LOG_WARN</a>.</p>
-
-</div>
-</div>
-<a id="a014f3883e6f743db0f7e0756a0bf68c0" name="a014f3883e6f743db0f7e0756a0bf68c0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a014f3883e6f743db0f7e0756a0bf68c0">&#9670;&#160;</a></span>RemoveTicket()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TicketMgr::RemoveTicket </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>ticketId</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  382</span>{</div>
-<div class="line"><span class="lineno">  383</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d7b/a11096.html">GmTicket</a>* ticket = <a class="code hl_function" href="../../d3/de3/a11100.html#aa746c055b37876983c7ee9642c44ae4c">GetTicket</a>(ticketId))</div>
-<div class="line"><span class="lineno">  384</span>    {</div>
-<div class="line"><span class="lineno">  385</span>        ticket-&gt;DeleteFromDB();</div>
-<div class="line"><span class="lineno">  386</span>        <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.erase(ticketId);</div>
-<div class="line"><span class="lineno">  387</span>        <span class="keyword">delete</span> ticket;</div>
-<div class="line"><span class="lineno">  388</span>    }</div>
-<div class="line"><span class="lineno">  389</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00251">_ticketList</a>, and <a class="el" href="../../#l00197">GetTicket()</a>.</p>
-
-</div>
-</div>
-<a id="a7b51b5f4aebb51922717c463bcc34a40" name="a7b51b5f4aebb51922717c463bcc34a40"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7b51b5f4aebb51922717c463bcc34a40">&#9670;&#160;</a></span>ResetTickets()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TicketMgr::ResetTickets </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  281</span>{</div>
-<div class="line"><span class="lineno">  282</span>    <span class="keywordflow">for</span> (GmTicketList::const_iterator itr = <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.begin(); itr != <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.end();)</div>
-<div class="line"><span class="lineno">  283</span>    {</div>
-<div class="line"><span class="lineno">  284</span>        <span class="keywordflow">if</span> (itr-&gt;second-&gt;IsClosed())</div>
-<div class="line"><span class="lineno">  285</span>        {</div>
-<div class="line"><span class="lineno">  286</span>            <a class="code hl_typedef" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ticketId = itr-&gt;second-&gt;GetId();</div>
-<div class="line"><span class="lineno">  287</span>            ++itr;</div>
-<div class="line"><span class="lineno">  288</span>            <a class="code hl_define" href="../../d6/df2/a01175.html#a20db6dadbe20767eb03327894588c7be">sTicketMgr</a>-&gt;RemoveTicket(ticketId);</div>
-<div class="line"><span class="lineno">  289</span>        }</div>
-<div class="line"><span class="lineno">  290</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  291</span>            ++itr;</div>
-<div class="line"><span class="lineno">  292</span>    }</div>
-<div class="line"><span class="lineno">  293</span> </div>
-<div class="line"><span class="lineno">  294</span>    <a class="code hl_variable" href="../../d3/de3/a11100.html#a2042b8bdd21a9e29a2ab7dcf69bf96e1">_lastTicketId</a> = 0;</div>
-<div class="line"><span class="lineno">  295</span> </div>
-<div class="line"><span class="lineno">  296</span>    <a class="code hl_class" href="../../d3/d7c/a05572.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d1/df7/a02501.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d2/d35/a02468.html#a76116b4fa282d8e35bf8f8e940b5cba7a8cd8c0b22f0a7e23f7ca8169bba8cf3a">CHAR_DEL_ALL_GM_TICKETS</a>);</div>
-<div class="line"><span class="lineno">  297</span> </div>
-<div class="line"><span class="lineno">  298</span>    <a class="code hl_variable" href="../../d1/df7/a02501.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
-<div class="line"><span class="lineno">  299</span>}</div>
-<div class="ttc" id="aa01175_html_a20db6dadbe20767eb03327894588c7be"><div class="ttname"><a href="../../d6/df2/a01175.html#a20db6dadbe20767eb03327894588c7be">sTicketMgr</a></div><div class="ttdeci">#define sTicketMgr</div><div class="ttdef"><b>Definition:</b> TicketMgr.h:260</div></div>
-<div class="ttc" id="aa02468_html_a76116b4fa282d8e35bf8f8e940b5cba7a8cd8c0b22f0a7e23f7ca8169bba8cf3a"><div class="ttname"><a href="../../d2/d35/a02468.html#a76116b4fa282d8e35bf8f8e940b5cba7a8cd8c0b22f0a7e23f7ca8169bba8cf3a">CHAR_DEL_ALL_GM_TICKETS</a></div><div class="ttdeci">@ CHAR_DEL_ALL_GM_TICKETS</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:263</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00254">_lastTicketId</a>, <a class="el" href="../../#l00251">_ticketList</a>, <a class="el" href="../../#l00263">CHAR_DEL_ALL_GM_TICKETS</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, and <a class="el" href="../../#l00260">sTicketMgr</a>.</p>
-
-</div>
-</div>
-<a id="a9f3873fd2a9a9436b6626803b1eee0b2" name="a9f3873fd2a9a9436b6626803b1eee0b2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9f3873fd2a9a9436b6626803b1eee0b2">&#9670;&#160;</a></span>ResolveAndCloseTicket()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TicketMgr::ResolveAndCloseTicket </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>ticketId</em>, </td>
+          <td class="paramtype">bool &amp;&#160;</td>
+          <td class="paramname"><em>srcSet</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/dba/a08164.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>source</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  392</span>{</div>
-<div class="line"><span class="lineno">  393</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d7b/a11096.html">GmTicket</a>* ticket = <a class="code hl_function" href="../../d3/de3/a11100.html#aa746c055b37876983c7ee9642c44ae4c">GetTicket</a>(ticketId))</div>
-<div class="line"><span class="lineno">  394</span>    {</div>
-<div class="line"><span class="lineno">  395</span>        <a class="code hl_typedef" href="../../dc/d09/a02429.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a> trans = <a class="code hl_typedef" href="../../dc/d09/a02429.html#a96bac9a371212c6bab7a9448214666c0">CharacterDatabaseTransaction</a>(<span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">  396</span>        ticket-&gt;SetClosedBy(source);</div>
-<div class="line"><span class="lineno">  397</span>        ticket-&gt;SetResolvedBy(source);</div>
-<div class="line"><span class="lineno">  398</span>        <span class="keywordflow">if</span> (source)</div>
-<div class="line"><span class="lineno">  399</span>            --<a class="code hl_variable" href="../../d3/de3/a11100.html#a6a5b603d107d4e14a7aff5c019f0b3d1">_openTicketCount</a>;</div>
-<div class="line"><span class="lineno">  400</span>        ticket-&gt;SaveToDB(trans);</div>
-<div class="line"><span class="lineno">  401</span>    }</div>
-<div class="line"><span class="lineno">  402</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00256">_openTicketCount</a>, and <a class="el" href="../../#l00197">GetTicket()</a>.</p>
-
-</div>
-</div>
-<a id="ad9aafcc0c0211eea71ba7c69de9f9d8b" name="ad9aafcc0c0211eea71ba7c69de9f9d8b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad9aafcc0c0211eea71ba7c69de9f9d8b">&#9670;&#160;</a></span>SendTicket()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TicketMgr::SendTicket </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d91/a10712.html">WorldSession</a> *&#160;</td>
-          <td class="paramname"><em>session</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d7b/a11096.html">GmTicket</a> *&#160;</td>
-          <td class="paramname"><em>ticket</em>&#160;</td>
+          <td class="paramtype">bool &amp;&#160;</td>
+          <td class="paramname"><em>dstSet</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -921,177 +341,250 @@ Private Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  430</span>{</div>
-<div class="line"><span class="lineno">  431</span>    <a class="code hl_class" href="../../df/de3/a10668.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../dd/d22/a04662.html#gga1073b6abb3a749f18bf1633020879e9baff625c5f8a99a065d3cd6f48cff3990e">SMSG_GMTICKET_GETTICKET</a>, (ticket ? (4 + 4 + 1 + 4 + 4 + 4 + 1 + 1) : 4));</div>
-<div class="line"><span class="lineno">  432</span> </div>
-<div class="line"><span class="lineno">  433</span>    <span class="keywordflow">if</span> (ticket)</div>
-<div class="line"><span class="lineno">  434</span>        ticket-&gt;<a class="code hl_function" href="../../d0/d7b/a11096.html#a6459c45f0d15a7a986529f6040e31a15">WritePacket</a>(data);</div>
-<div class="line"><span class="lineno">  435</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  436</span>        data &lt;&lt; <a class="code hl_typedef" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_enumvalue" href="../../d6/df2/a01175.html#aa9bdef2d04cda42105b540072878a959a251de6cd21e96c676566232e9625b5a0">GMTICKET_STATUS_DEFAULT</a>);</div>
-<div class="line"><span class="lineno">  437</span> </div>
-<div class="line"><span class="lineno">  438</span>    session-&gt;<a class="code hl_function" href="../../da/d91/a10712.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(&amp;data);</div>
-<div class="line"><span class="lineno">  439</span>}</div>
-<div class="ttc" id="aa01175_html_aa9bdef2d04cda42105b540072878a959a251de6cd21e96c676566232e9625b5a0"><div class="ttname"><a href="../../d6/df2/a01175.html#aa9bdef2d04cda42105b540072878a959a251de6cd21e96c676566232e9625b5a0">GMTICKET_STATUS_DEFAULT</a></div><div class="ttdeci">@ GMTICKET_STATUS_DEFAULT</div><div class="ttdef"><b>Definition:</b> TicketMgr.h:37</div></div>
-<div class="ttc" id="aa04662_html_gga1073b6abb3a749f18bf1633020879e9baff625c5f8a99a065d3cd6f48cff3990e"><div class="ttname"><a href="../../dd/d22/a04662.html#gga1073b6abb3a749f18bf1633020879e9baff625c5f8a99a065d3cd6f48cff3990e">SMSG_GMTICKET_GETTICKET</a></div><div class="ttdeci">@ SMSG_GMTICKET_GETTICKET</div><div class="ttdef"><b>Definition:</b> Opcodes.h:560</div></div>
-<div class="ttc" id="aa10668_html"><div class="ttname"><a href="../../df/de3/a10668.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:27</div></div>
-<div class="ttc" id="aa10712_html_a2c74b80ca9b81765049e315813b29269"><div class="ttname"><a href="../../da/d91/a10712.html#a2c74b80ca9b81765049e315813b29269">WorldSession::SendPacket</a></div><div class="ttdeci">void SendPacket(WorldPacket const *packet)</div><div class="ttdoc">Send a packet to the client.</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:214</div></div>
-<div class="ttc" id="aa11096_html_a6459c45f0d15a7a986529f6040e31a15"><div class="ttname"><a href="../../d0/d7b/a11096.html#a6459c45f0d15a7a986529f6040e31a15">GmTicket::WritePacket</a></div><div class="ttdeci">void WritePacket(WorldPacket &amp;data) const</div><div class="ttdef"><b>Definition:</b> TicketMgr.cpp:115</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  128</span>{</div>
+<div class="line"><span class="lineno">  129</span>    <a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> targetMask = 0;</div>
+<div class="line"><span class="lineno">  130</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d3/de3/a11100.html#ae5a138c973300efce4744ea260108097">GetTarget</a>() == <a class="code hl_enumvalue" href="../../d4/d3a/a00101.html#a418aed4e4066eb09ab979b5d78dc9152a9125b12d356a5389b0e8071ea5854423">TARGET_DEST_TRAJ</a>)</div>
+<div class="line"><span class="lineno">  131</span>    {</div>
+<div class="line"><span class="lineno">  132</span>        <span class="keywordflow">if</span> (!srcSet)</div>
+<div class="line"><span class="lineno">  133</span>            targetMask = <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa76062c8af712eecc1b87da7a458a86eb">TARGET_FLAG_SOURCE_LOCATION</a>;</div>
+<div class="line"><span class="lineno">  134</span>        <span class="keywordflow">if</span> (!dstSet)</div>
+<div class="line"><span class="lineno">  135</span>            targetMask |= <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa6743615e8912aefb100fe3f804c162be">TARGET_FLAG_DEST_LOCATION</a>;</div>
+<div class="line"><span class="lineno">  136</span>    }</div>
+<div class="line"><span class="lineno">  137</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  138</span>    {</div>
+<div class="line"><span class="lineno">  139</span>        <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../d3/de3/a11100.html#a59769a12291673682e1b5c3650e8aff7">GetReferenceType</a>())</div>
+<div class="line"><span class="lineno">  140</span>        {</div>
+<div class="line"><span class="lineno">  141</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#ae160272dac6c37cf297c68db99d9c987a3163405368cff6c9a49a6ea0e38f7691">TARGET_REFERENCE_TYPE_SRC</a>:</div>
+<div class="line"><span class="lineno">  142</span>                <span class="keywordflow">if</span> (srcSet)</div>
+<div class="line"><span class="lineno">  143</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  144</span>                targetMask = <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa76062c8af712eecc1b87da7a458a86eb">TARGET_FLAG_SOURCE_LOCATION</a>;</div>
+<div class="line"><span class="lineno">  145</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  146</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#ae160272dac6c37cf297c68db99d9c987ac30711b0604d8eb48cdd6f446c88c83a">TARGET_REFERENCE_TYPE_DEST</a>:</div>
+<div class="line"><span class="lineno">  147</span>                <span class="keywordflow">if</span> (dstSet)</div>
+<div class="line"><span class="lineno">  148</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  149</span>                targetMask = <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa6743615e8912aefb100fe3f804c162be">TARGET_FLAG_DEST_LOCATION</a>;</div>
+<div class="line"><span class="lineno">  150</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  151</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#ae160272dac6c37cf297c68db99d9c987a3f2d34d5c6b2cc3fa0354ec9c5d72094">TARGET_REFERENCE_TYPE_TARGET</a>:</div>
+<div class="line"><span class="lineno">  152</span>                <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../d3/de3/a11100.html#a964c185b1d3ed3563c6efa68e8bf9f42">GetObjectType</a>())</div>
+<div class="line"><span class="lineno">  153</span>                {</div>
+<div class="line"><span class="lineno">  154</span>                    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087aa81121f205f8ca67a630f129e732b3151">TARGET_OBJECT_TYPE_GOBJ</a>:</div>
+<div class="line"><span class="lineno">  155</span>                        targetMask = <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa0cc43eed3775f0742de2f496d9dadc49">TARGET_FLAG_GAMEOBJECT</a>;</div>
+<div class="line"><span class="lineno">  156</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  157</span>                    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087aa9c4e80b4ed9a14cfe9ec23229e3d0dc1">TARGET_OBJECT_TYPE_GOBJ_ITEM</a>:</div>
+<div class="line"><span class="lineno">  158</span>                        targetMask = <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa57bdcad724ff2971c1476f51034d2418">TARGET_FLAG_GAMEOBJECT_ITEM</a>;</div>
+<div class="line"><span class="lineno">  159</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  160</span>                    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087aa305e23c44d8e1b887ed9a4eee850b744">TARGET_OBJECT_TYPE_UNIT_AND_DEST</a>:</div>
+<div class="line"><span class="lineno">  161</span>                    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087aa07a11fb9bb20374e8b0b52385ebdac6a">TARGET_OBJECT_TYPE_UNIT</a>:</div>
+<div class="line"><span class="lineno">  162</span>                    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087aa64ac37e702bffc0ec975dbf66daefe06">TARGET_OBJECT_TYPE_DEST</a>:</div>
+<div class="line"><span class="lineno">  163</span>                        <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../d3/de3/a11100.html#a1822c2908aff0701ab6e56ccf1c83a83">GetCheckType</a>())</div>
+<div class="line"><span class="lineno">  164</span>                        {</div>
+<div class="line"><span class="lineno">  165</span>                            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a392c69714f880d43f8afb5510ba1fff7a5e4199169c7f748b7f0d10d9f5f1ff67">TARGET_CHECK_ENEMY</a>:</div>
+<div class="line"><span class="lineno">  166</span>                                targetMask = <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa3325fba850592588fce959a992007a87">TARGET_FLAG_UNIT_ENEMY</a>;</div>
+<div class="line"><span class="lineno">  167</span>                                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  168</span>                            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a392c69714f880d43f8afb5510ba1fff7aeefbf611727aa2696ebadd943c293cdd">TARGET_CHECK_ALLY</a>:</div>
+<div class="line"><span class="lineno">  169</span>                                targetMask = <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa6ff2692c36a92d32bc4fc2d1eec84cec">TARGET_FLAG_UNIT_ALLY</a>;</div>
+<div class="line"><span class="lineno">  170</span>                                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  171</span>                            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a392c69714f880d43f8afb5510ba1fff7a21d39e4788e52ea08975265a2327f67c">TARGET_CHECK_PARTY</a>:</div>
+<div class="line"><span class="lineno">  172</span>                                targetMask = <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fafd038a878ed292ec558d26ef054447bd">TARGET_FLAG_UNIT_PARTY</a>;</div>
+<div class="line"><span class="lineno">  173</span>                                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  174</span>                            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a392c69714f880d43f8afb5510ba1fff7afc1664906665ba50e82fed0e228a5b26">TARGET_CHECK_RAID</a>:</div>
+<div class="line"><span class="lineno">  175</span>                                targetMask = <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa2bff618dcc23e68088a11d30707bf45e">TARGET_FLAG_UNIT_RAID</a>;</div>
+<div class="line"><span class="lineno">  176</span>                                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  177</span>                            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a392c69714f880d43f8afb5510ba1fff7a2038b3873bcbf521b5af4ca287394b4d">TARGET_CHECK_PASSENGER</a>:</div>
+<div class="line"><span class="lineno">  178</span>                                targetMask = <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa5657e539930ce170d1734e68c5a33cff">TARGET_FLAG_UNIT_PASSENGER</a>;</div>
+<div class="line"><span class="lineno">  179</span>                                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  180</span>                            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a392c69714f880d43f8afb5510ba1fff7ac79ac0ccce5e22509ba327a9cacbe950">TARGET_CHECK_RAID_CLASS</a>:</div>
+<div class="line"><span class="lineno">  181</span>                                [[fallthrough]];</div>
+<div class="line"><span class="lineno">  182</span>                            <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  183</span>                                targetMask = <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa9bdbe71c2e8d869741084e7d1b9c0e7e">TARGET_FLAG_UNIT</a>;</div>
+<div class="line"><span class="lineno">  184</span>                                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  185</span>                        }</div>
+<div class="line"><span class="lineno">  186</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  187</span>                    <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  188</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  189</span>                }</div>
+<div class="line"><span class="lineno">  190</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  191</span>            <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  192</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  193</span>        }</div>
+<div class="line"><span class="lineno">  194</span>    }</div>
+<div class="line"><span class="lineno">  195</span> </div>
+<div class="line"><span class="lineno">  196</span>    <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../d3/de3/a11100.html#a964c185b1d3ed3563c6efa68e8bf9f42">GetObjectType</a>())</div>
+<div class="line"><span class="lineno">  197</span>    {</div>
+<div class="line"><span class="lineno">  198</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087aac72748d4f14d4084a7c612af3f08da51">TARGET_OBJECT_TYPE_SRC</a>:</div>
+<div class="line"><span class="lineno">  199</span>            srcSet = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  200</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  201</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087aa64ac37e702bffc0ec975dbf66daefe06">TARGET_OBJECT_TYPE_DEST</a>:</div>
+<div class="line"><span class="lineno">  202</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087aa305e23c44d8e1b887ed9a4eee850b744">TARGET_OBJECT_TYPE_UNIT_AND_DEST</a>:</div>
+<div class="line"><span class="lineno">  203</span>            dstSet = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  204</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  205</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  206</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  207</span>    }</div>
+<div class="line"><span class="lineno">  208</span>    <span class="keywordflow">return</span> targetMask;</div>
+<div class="line"><span class="lineno">  209</span>}</div>
+<div class="ttc" id="aa00101_html_a418aed4e4066eb09ab979b5d78dc9152a9125b12d356a5389b0e8071ea5854423"><div class="ttname"><a href="../../d4/d3a/a00101.html#a418aed4e4066eb09ab979b5d78dc9152a9125b12d356a5389b0e8071ea5854423">TARGET_DEST_TRAJ</a></div><div class="ttdeci">@ TARGET_DEST_TRAJ</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1493</div></div>
+<div class="ttc" id="aa03551_html_a392c69714f880d43f8afb5510ba1fff7a2038b3873bcbf521b5af4ca287394b4d"><div class="ttname"><a href="../../d3/d1c/a03551.html#a392c69714f880d43f8afb5510ba1fff7a2038b3873bcbf521b5af4ca287394b4d">TARGET_CHECK_PASSENGER</a></div><div class="ttdeci">@ TARGET_CHECK_PASSENGER</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:121</div></div>
+<div class="ttc" id="aa03551_html_a392c69714f880d43f8afb5510ba1fff7a21d39e4788e52ea08975265a2327f67c"><div class="ttname"><a href="../../d3/d1c/a03551.html#a392c69714f880d43f8afb5510ba1fff7a21d39e4788e52ea08975265a2327f67c">TARGET_CHECK_PARTY</a></div><div class="ttdeci">@ TARGET_CHECK_PARTY</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:118</div></div>
+<div class="ttc" id="aa03551_html_a392c69714f880d43f8afb5510ba1fff7a5e4199169c7f748b7f0d10d9f5f1ff67"><div class="ttname"><a href="../../d3/d1c/a03551.html#a392c69714f880d43f8afb5510ba1fff7a5e4199169c7f748b7f0d10d9f5f1ff67">TARGET_CHECK_ENEMY</a></div><div class="ttdeci">@ TARGET_CHECK_ENEMY</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:116</div></div>
+<div class="ttc" id="aa03551_html_a392c69714f880d43f8afb5510ba1fff7ac79ac0ccce5e22509ba327a9cacbe950"><div class="ttname"><a href="../../d3/d1c/a03551.html#a392c69714f880d43f8afb5510ba1fff7ac79ac0ccce5e22509ba327a9cacbe950">TARGET_CHECK_RAID_CLASS</a></div><div class="ttdeci">@ TARGET_CHECK_RAID_CLASS</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:120</div></div>
+<div class="ttc" id="aa03551_html_a392c69714f880d43f8afb5510ba1fff7aeefbf611727aa2696ebadd943c293cdd"><div class="ttname"><a href="../../d3/d1c/a03551.html#a392c69714f880d43f8afb5510ba1fff7aeefbf611727aa2696ebadd943c293cdd">TARGET_CHECK_ALLY</a></div><div class="ttdeci">@ TARGET_CHECK_ALLY</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:117</div></div>
+<div class="ttc" id="aa03551_html_a392c69714f880d43f8afb5510ba1fff7afc1664906665ba50e82fed0e228a5b26"><div class="ttname"><a href="../../d3/d1c/a03551.html#a392c69714f880d43f8afb5510ba1fff7afc1664906665ba50e82fed0e228a5b26">TARGET_CHECK_RAID</a></div><div class="ttdeci">@ TARGET_CHECK_RAID</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:119</div></div>
+<div class="ttc" id="aa03551_html_a3c11f0d0cd9689554b34ccbc325da54fa0cc43eed3775f0742de2f496d9dadc49"><div class="ttname"><a href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa0cc43eed3775f0742de2f496d9dadc49">TARGET_FLAG_GAMEOBJECT</a></div><div class="ttdeci">@ TARGET_FLAG_GAMEOBJECT</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:57</div></div>
+<div class="ttc" id="aa03551_html_a3c11f0d0cd9689554b34ccbc325da54fa2bff618dcc23e68088a11d30707bf45e"><div class="ttname"><a href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa2bff618dcc23e68088a11d30707bf45e">TARGET_FLAG_UNIT_RAID</a></div><div class="ttdeci">@ TARGET_FLAG_UNIT_RAID</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:48</div></div>
+<div class="ttc" id="aa03551_html_a3c11f0d0cd9689554b34ccbc325da54fa3325fba850592588fce959a992007a87"><div class="ttname"><a href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa3325fba850592588fce959a992007a87">TARGET_FLAG_UNIT_ENEMY</a></div><div class="ttdeci">@ TARGET_FLAG_UNIT_ENEMY</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:53</div></div>
+<div class="ttc" id="aa03551_html_a3c11f0d0cd9689554b34ccbc325da54fa5657e539930ce170d1734e68c5a33cff"><div class="ttname"><a href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa5657e539930ce170d1734e68c5a33cff">TARGET_FLAG_UNIT_PASSENGER</a></div><div class="ttdeci">@ TARGET_FLAG_UNIT_PASSENGER</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:66</div></div>
+<div class="ttc" id="aa03551_html_a3c11f0d0cd9689554b34ccbc325da54fa57bdcad724ff2971c1476f51034d2418"><div class="ttname"><a href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa57bdcad724ff2971c1476f51034d2418">TARGET_FLAG_GAMEOBJECT_ITEM</a></div><div class="ttdeci">@ TARGET_FLAG_GAMEOBJECT_ITEM</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:60</div></div>
+<div class="ttc" id="aa03551_html_a3c11f0d0cd9689554b34ccbc325da54fa6743615e8912aefb100fe3f804c162be"><div class="ttname"><a href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa6743615e8912aefb100fe3f804c162be">TARGET_FLAG_DEST_LOCATION</a></div><div class="ttdeci">@ TARGET_FLAG_DEST_LOCATION</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:52</div></div>
+<div class="ttc" id="aa03551_html_a3c11f0d0cd9689554b34ccbc325da54fa6ff2692c36a92d32bc4fc2d1eec84cec"><div class="ttname"><a href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa6ff2692c36a92d32bc4fc2d1eec84cec">TARGET_FLAG_UNIT_ALLY</a></div><div class="ttdeci">@ TARGET_FLAG_UNIT_ALLY</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:54</div></div>
+<div class="ttc" id="aa03551_html_a3c11f0d0cd9689554b34ccbc325da54fa76062c8af712eecc1b87da7a458a86eb"><div class="ttname"><a href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa76062c8af712eecc1b87da7a458a86eb">TARGET_FLAG_SOURCE_LOCATION</a></div><div class="ttdeci">@ TARGET_FLAG_SOURCE_LOCATION</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:51</div></div>
+<div class="ttc" id="aa03551_html_a3c11f0d0cd9689554b34ccbc325da54fa9bdbe71c2e8d869741084e7d1b9c0e7e"><div class="ttname"><a href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fa9bdbe71c2e8d869741084e7d1b9c0e7e">TARGET_FLAG_UNIT</a></div><div class="ttdeci">@ TARGET_FLAG_UNIT</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:47</div></div>
+<div class="ttc" id="aa03551_html_a3c11f0d0cd9689554b34ccbc325da54fafd038a878ed292ec558d26ef054447bd"><div class="ttname"><a href="../../d3/d1c/a03551.html#a3c11f0d0cd9689554b34ccbc325da54fafd038a878ed292ec558d26ef054447bd">TARGET_FLAG_UNIT_PARTY</a></div><div class="ttdeci">@ TARGET_FLAG_UNIT_PARTY</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:49</div></div>
+<div class="ttc" id="aa03551_html_abd452c9e8451ab6d47620dbda77f087aa07a11fb9bb20374e8b0b52385ebdac6a"><div class="ttname"><a href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087aa07a11fb9bb20374e8b0b52385ebdac6a">TARGET_OBJECT_TYPE_UNIT</a></div><div class="ttdeci">@ TARGET_OBJECT_TYPE_UNIT</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:101</div></div>
+<div class="ttc" id="aa03551_html_abd452c9e8451ab6d47620dbda77f087aa305e23c44d8e1b887ed9a4eee850b744"><div class="ttname"><a href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087aa305e23c44d8e1b887ed9a4eee850b744">TARGET_OBJECT_TYPE_UNIT_AND_DEST</a></div><div class="ttdeci">@ TARGET_OBJECT_TYPE_UNIT_AND_DEST</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:102</div></div>
+<div class="ttc" id="aa03551_html_abd452c9e8451ab6d47620dbda77f087aa64ac37e702bffc0ec975dbf66daefe06"><div class="ttname"><a href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087aa64ac37e702bffc0ec975dbf66daefe06">TARGET_OBJECT_TYPE_DEST</a></div><div class="ttdeci">@ TARGET_OBJECT_TYPE_DEST</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:100</div></div>
+<div class="ttc" id="aa03551_html_abd452c9e8451ab6d47620dbda77f087aa81121f205f8ca67a630f129e732b3151"><div class="ttname"><a href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087aa81121f205f8ca67a630f129e732b3151">TARGET_OBJECT_TYPE_GOBJ</a></div><div class="ttdeci">@ TARGET_OBJECT_TYPE_GOBJ</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:103</div></div>
+<div class="ttc" id="aa03551_html_abd452c9e8451ab6d47620dbda77f087aa9c4e80b4ed9a14cfe9ec23229e3d0dc1"><div class="ttname"><a href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087aa9c4e80b4ed9a14cfe9ec23229e3d0dc1">TARGET_OBJECT_TYPE_GOBJ_ITEM</a></div><div class="ttdeci">@ TARGET_OBJECT_TYPE_GOBJ_ITEM</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:104</div></div>
+<div class="ttc" id="aa03551_html_abd452c9e8451ab6d47620dbda77f087aac72748d4f14d4084a7c612af3f08da51"><div class="ttname"><a href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087aac72748d4f14d4084a7c612af3f08da51">TARGET_OBJECT_TYPE_SRC</a></div><div class="ttdeci">@ TARGET_OBJECT_TYPE_SRC</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:99</div></div>
+<div class="ttc" id="aa03551_html_ae160272dac6c37cf297c68db99d9c987a3163405368cff6c9a49a6ea0e38f7691"><div class="ttname"><a href="../../d3/d1c/a03551.html#ae160272dac6c37cf297c68db99d9c987a3163405368cff6c9a49a6ea0e38f7691">TARGET_REFERENCE_TYPE_SRC</a></div><div class="ttdeci">@ TARGET_REFERENCE_TYPE_SRC</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:92</div></div>
+<div class="ttc" id="aa03551_html_ae160272dac6c37cf297c68db99d9c987a3f2d34d5c6b2cc3fa0354ec9c5d72094"><div class="ttname"><a href="../../d3/d1c/a03551.html#ae160272dac6c37cf297c68db99d9c987a3f2d34d5c6b2cc3fa0354ec9c5d72094">TARGET_REFERENCE_TYPE_TARGET</a></div><div class="ttdeci">@ TARGET_REFERENCE_TYPE_TARGET</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:90</div></div>
+<div class="ttc" id="aa03551_html_ae160272dac6c37cf297c68db99d9c987ac30711b0604d8eb48cdd6f446c88c83a"><div class="ttname"><a href="../../d3/d1c/a03551.html#ae160272dac6c37cf297c68db99d9c987ac30711b0604d8eb48cdd6f446c88c83a">TARGET_REFERENCE_TYPE_DEST</a></div><div class="ttdeci">@ TARGET_REFERENCE_TYPE_DEST</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:93</div></div>
+<div class="ttc" id="aa04559_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa11100_html_a1822c2908aff0701ab6e56ccf1c83a83"><div class="ttname"><a href="../../d3/de3/a11100.html#a1822c2908aff0701ab6e56ccf1c83a83">SpellImplicitTargetInfo::GetCheckType</a></div><div class="ttdeci">SpellTargetCheckTypes GetCheckType() const</div><div class="ttdef"><b>Definition:</b> SpellInfo.cpp:85</div></div>
+<div class="ttc" id="aa11100_html_a59769a12291673682e1b5c3650e8aff7"><div class="ttname"><a href="../../d3/de3/a11100.html#a59769a12291673682e1b5c3650e8aff7">SpellImplicitTargetInfo::GetReferenceType</a></div><div class="ttdeci">SpellTargetReferenceTypes GetReferenceType() const</div><div class="ttdef"><b>Definition:</b> SpellInfo.cpp:75</div></div>
+<div class="ttc" id="aa11100_html_a964c185b1d3ed3563c6efa68e8bf9f42"><div class="ttname"><a href="../../d3/de3/a11100.html#a964c185b1d3ed3563c6efa68e8bf9f42">SpellImplicitTargetInfo::GetObjectType</a></div><div class="ttdeci">SpellTargetObjectTypes GetObjectType() const</div><div class="ttdef"><b>Definition:</b> SpellInfo.cpp:80</div></div>
+<div class="ttc" id="aa11100_html_ae5a138c973300efce4744ea260108097"><div class="ttname"><a href="../../d3/de3/a11100.html#ae5a138c973300efce4744ea260108097">SpellImplicitTargetInfo::GetTarget</a></div><div class="ttdeci">Targets GetTarget() const</div><div class="ttdef"><b>Definition:</b> SpellInfo.cpp:122</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00037">GMTICKET_STATUS_DEFAULT</a>, <a class="el" href="../../#l00214">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00560">SMSG_GMTICKET_GETTICKET</a>, and <a class="el" href="../../#l00115">GmTicket::WritePacket()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00085">GetCheckType()</a>, <a class="el" href="../../#l00080">GetObjectType()</a>, <a class="el" href="../../#l00075">GetReferenceType()</a>, <a class="el" href="../../#l00122">GetTarget()</a>, <a class="el" href="../../#l00117">TARGET_CHECK_ALLY</a>, <a class="el" href="../../#l00116">TARGET_CHECK_ENEMY</a>, <a class="el" href="../../#l00118">TARGET_CHECK_PARTY</a>, <a class="el" href="../../#l00121">TARGET_CHECK_PASSENGER</a>, <a class="el" href="../../#l00119">TARGET_CHECK_RAID</a>, <a class="el" href="../../#l00120">TARGET_CHECK_RAID_CLASS</a>, <a class="el" href="../../#l01493">TARGET_DEST_TRAJ</a>, <a class="el" href="../../#l00052">TARGET_FLAG_DEST_LOCATION</a>, <a class="el" href="../../#l00057">TARGET_FLAG_GAMEOBJECT</a>, <a class="el" href="../../#l00060">TARGET_FLAG_GAMEOBJECT_ITEM</a>, <a class="el" href="../../#l00051">TARGET_FLAG_SOURCE_LOCATION</a>, <a class="el" href="../../#l00047">TARGET_FLAG_UNIT</a>, <a class="el" href="../../#l00054">TARGET_FLAG_UNIT_ALLY</a>, <a class="el" href="../../#l00053">TARGET_FLAG_UNIT_ENEMY</a>, <a class="el" href="../../#l00049">TARGET_FLAG_UNIT_PARTY</a>, <a class="el" href="../../#l00066">TARGET_FLAG_UNIT_PASSENGER</a>, <a class="el" href="../../#l00048">TARGET_FLAG_UNIT_RAID</a>, <a class="el" href="../../#l00100">TARGET_OBJECT_TYPE_DEST</a>, <a class="el" href="../../#l00103">TARGET_OBJECT_TYPE_GOBJ</a>, <a class="el" href="../../#l00104">TARGET_OBJECT_TYPE_GOBJ_ITEM</a>, <a class="el" href="../../#l00099">TARGET_OBJECT_TYPE_SRC</a>, <a class="el" href="../../#l00101">TARGET_OBJECT_TYPE_UNIT</a>, <a class="el" href="../../#l00102">TARGET_OBJECT_TYPE_UNIT_AND_DEST</a>, <a class="el" href="../../#l00093">TARGET_REFERENCE_TYPE_DEST</a>, <a class="el" href="../../#l00092">TARGET_REFERENCE_TYPE_SRC</a>, and <a class="el" href="../../#l00090">TARGET_REFERENCE_TYPE_TARGET</a>.</p>
 
 </div>
 </div>
-<a id="a5ea5f45b9ac52b3bbbceccbc69d894f3" name="a5ea5f45b9ac52b3bbbceccbc69d894f3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5ea5f45b9ac52b3bbbceccbc69d894f3">&#9670;&#160;</a></span>SetStatus()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TicketMgr::SetStatus </td>
-          <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>status</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  230</span>{ <a class="code hl_variable" href="../../d3/de3/a11100.html#a1a6167a7f574d205d97388914ce35d7a">_status</a> = status; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00253">_status</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00278">Initialize()</a>.</p>
-
-</div>
-</div>
-<a id="a4276533fa100862fc875f3719241e592" name="a4276533fa100862fc875f3719241e592"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4276533fa100862fc875f3719241e592">&#9670;&#160;</a></span>ShowClosedList()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TicketMgr::ShowClosedList </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d7/d41/a07260.html">ChatHandler</a> &amp;&#160;</td>
-          <td class="paramname"><em>handler</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  414</span>{</div>
-<div class="line"><span class="lineno">  415</span>    handler.<a class="code hl_function" href="../../d7/d41/a07260.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(<a class="code hl_enumvalue" href="../../d1/db0/a01928.html#af9ee42b1cf006ecb2d2e74fe71c0761aa9e6d56de2741cec19ce55f487bcdcd35">LANG_COMMAND_TICKETSHOWCLOSEDLIST</a>);</div>
-<div class="line"><span class="lineno">  416</span>    <span class="keywordflow">for</span> (GmTicketList::const_iterator itr = <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.begin(); itr != <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  417</span>        <span class="keywordflow">if</span> (itr-&gt;second-&gt;IsClosed())</div>
-<div class="line"><span class="lineno">  418</span>            handler.<a class="code hl_function" href="../../d7/d41/a07260.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(itr-&gt;second-&gt;FormatMessageString(handler).c_str());</div>
-<div class="line"><span class="lineno">  419</span>}</div>
-<div class="ttc" id="aa01928_html_af9ee42b1cf006ecb2d2e74fe71c0761aa9e6d56de2741cec19ce55f487bcdcd35"><div class="ttname"><a href="../../d1/db0/a01928.html#af9ee42b1cf006ecb2d2e74fe71c0761aa9e6d56de2741cec19ce55f487bcdcd35">LANG_COMMAND_TICKETSHOWCLOSEDLIST</a></div><div class="ttdeci">@ LANG_COMMAND_TICKETSHOWCLOSEDLIST</div><div class="ttdef"><b>Definition:</b> Language.h:1022</div></div>
-<div class="ttc" id="aa07260_html_ac1ed346507097817b3f8e00f0ae657a0"><div class="ttname"><a href="../../d7/d41/a07260.html#ac1ed346507097817b3f8e00f0ae657a0">ChatHandler::SendSysMessage</a></div><div class="ttdeci">virtual void SendSysMessage(std::string_view str, bool escapeCharacters=false)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:162</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00251">_ticketList</a>, <a class="el" href="../../#l01022">LANG_COMMAND_TICKETSHOWCLOSEDLIST</a>, and <a class="el" href="../../#l00162">ChatHandler::SendSysMessage()</a>.</p>
-
-</div>
-</div>
-<a id="a84182a16a815a9bdcd54118bc62a93c4" name="a84182a16a815a9bdcd54118bc62a93c4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a84182a16a815a9bdcd54118bc62a93c4">&#9670;&#160;</a></span>ShowEscalatedList()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TicketMgr::ShowEscalatedList </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d7/d41/a07260.html">ChatHandler</a> &amp;&#160;</td>
-          <td class="paramname"><em>handler</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  422</span>{</div>
-<div class="line"><span class="lineno">  423</span>    handler.<a class="code hl_function" href="../../d7/d41/a07260.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(<a class="code hl_enumvalue" href="../../d1/db0/a01928.html#af9ee42b1cf006ecb2d2e74fe71c0761aa03112112340d157c1e51213d9b8215bf">LANG_COMMAND_TICKETSHOWESCALATEDLIST</a>);</div>
-<div class="line"><span class="lineno">  424</span>    <span class="keywordflow">for</span> (GmTicketList::const_iterator itr = <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.begin(); itr != <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  425</span>        <span class="keywordflow">if</span> (!itr-&gt;second-&gt;IsClosed() &amp;&amp; itr-&gt;second-&gt;GetEscalatedStatus() == <a class="code hl_enumvalue" href="../../d6/df2/a01175.html#a878f9ec26e56dd05dd8f956cfaba754da5a63c2f2fcec47a0eaad7a4724c604e1">TICKET_IN_ESCALATION_QUEUE</a>)</div>
-<div class="line"><span class="lineno">  426</span>            handler.<a class="code hl_function" href="../../d7/d41/a07260.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(itr-&gt;second-&gt;FormatMessageString(handler).c_str());</div>
-<div class="line"><span class="lineno">  427</span>}</div>
-<div class="ttc" id="aa01175_html_a878f9ec26e56dd05dd8f956cfaba754da5a63c2f2fcec47a0eaad7a4724c604e1"><div class="ttname"><a href="../../d6/df2/a01175.html#a878f9ec26e56dd05dd8f956cfaba754da5a63c2f2fcec47a0eaad7a4724c604e1">TICKET_IN_ESCALATION_QUEUE</a></div><div class="ttdeci">@ TICKET_IN_ESCALATION_QUEUE</div><div class="ttdef"><b>Definition:</b> TicketMgr.h:59</div></div>
-<div class="ttc" id="aa01928_html_af9ee42b1cf006ecb2d2e74fe71c0761aa03112112340d157c1e51213d9b8215bf"><div class="ttname"><a href="../../d1/db0/a01928.html#af9ee42b1cf006ecb2d2e74fe71c0761aa03112112340d157c1e51213d9b8215bf">LANG_COMMAND_TICKETSHOWESCALATEDLIST</a></div><div class="ttdeci">@ LANG_COMMAND_TICKETSHOWESCALATEDLIST</div><div class="ttdef"><b>Definition:</b> Language.h:1037</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00251">_ticketList</a>, <a class="el" href="../../#l01037">LANG_COMMAND_TICKETSHOWESCALATEDLIST</a>, <a class="el" href="../../#l00162">ChatHandler::SendSysMessage()</a>, and <a class="el" href="../../#l00059">TICKET_IN_ESCALATION_QUEUE</a>.</p>
-
-</div>
-</div>
-<a id="af1176e11f3cb248599a0684b8a779012" name="af1176e11f3cb248599a0684b8a779012"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af1176e11f3cb248599a0684b8a779012">&#9670;&#160;</a></span>ShowList()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TicketMgr::ShowList </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d7/d41/a07260.html">ChatHandler</a> &amp;&#160;</td>
-          <td class="paramname"><em>handler</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>onlineOnly</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  405</span>{</div>
-<div class="line"><span class="lineno">  406</span>    handler.<a class="code hl_function" href="../../d7/d41/a07260.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(onlineOnly ? <a class="code hl_enumvalue" href="../../d1/db0/a01928.html#af9ee42b1cf006ecb2d2e74fe71c0761aa01597c5a0881688d66adfb28bb97732f">LANG_COMMAND_TICKETSHOWONLINELIST</a> : <a class="code hl_enumvalue" href="../../d1/db0/a01928.html#af9ee42b1cf006ecb2d2e74fe71c0761aa187ee5c33d6401e47867826b0bb1117b">LANG_COMMAND_TICKETSHOWLIST</a>);</div>
-<div class="line"><span class="lineno">  407</span>    <span class="keywordflow">for</span> (GmTicketList::const_iterator itr = <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.begin(); itr != <a class="code hl_variable" href="../../d3/de3/a11100.html#a41e9c383f1b9c7f4c6754fab94eb687e">_ticketList</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  408</span>        <span class="keywordflow">if</span> (!itr-&gt;second-&gt;IsClosed() &amp;&amp; !itr-&gt;second-&gt;IsCompleted())</div>
-<div class="line"><span class="lineno">  409</span>            <span class="keywordflow">if</span> (!onlineOnly || itr-&gt;second-&gt;GetPlayer())</div>
-<div class="line"><span class="lineno">  410</span>                handler.<a class="code hl_function" href="../../d7/d41/a07260.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(itr-&gt;second-&gt;FormatMessageString(handler).c_str());</div>
-<div class="line"><span class="lineno">  411</span>}</div>
-<div class="ttc" id="aa01928_html_af9ee42b1cf006ecb2d2e74fe71c0761aa01597c5a0881688d66adfb28bb97732f"><div class="ttname"><a href="../../d1/db0/a01928.html#af9ee42b1cf006ecb2d2e74fe71c0761aa01597c5a0881688d66adfb28bb97732f">LANG_COMMAND_TICKETSHOWONLINELIST</a></div><div class="ttdeci">@ LANG_COMMAND_TICKETSHOWONLINELIST</div><div class="ttdef"><b>Definition:</b> Language.h:1021</div></div>
-<div class="ttc" id="aa01928_html_af9ee42b1cf006ecb2d2e74fe71c0761aa187ee5c33d6401e47867826b0bb1117b"><div class="ttname"><a href="../../d1/db0/a01928.html#af9ee42b1cf006ecb2d2e74fe71c0761aa187ee5c33d6401e47867826b0bb1117b">LANG_COMMAND_TICKETSHOWLIST</a></div><div class="ttdeci">@ LANG_COMMAND_TICKETSHOWLIST</div><div class="ttdef"><b>Definition:</b> Language.h:1020</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00251">_ticketList</a>, <a class="el" href="../../#l01020">LANG_COMMAND_TICKETSHOWLIST</a>, <a class="el" href="../../#l01021">LANG_COMMAND_TICKETSHOWONLINELIST</a>, and <a class="el" href="../../#l00162">ChatHandler::SendSysMessage()</a>.</p>
-
-</div>
-</div>
-<a id="aa225ab2b5709ce806e579e90b517f150" name="aa225ab2b5709ce806e579e90b517f150"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa225ab2b5709ce806e579e90b517f150">&#9670;&#160;</a></span>UpdateLastChange()</h2>
+<a id="a964c185b1d3ed3563c6efa68e8bf9f42" name="a964c185b1d3ed3563c6efa68e8bf9f42"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a964c185b1d3ed3563c6efa68e8bf9f42">&#9670;&#160;</a></span>GetObjectType()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void TicketMgr::UpdateLastChange </td>
+          <td class="memname"><a class="el" href="../../d3/d1c/a03551.html#abd452c9e8451ab6d47620dbda77f087a">SpellTargetObjectTypes</a> SpellImplicitTargetInfo::GetObjectType </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  442</span>{</div>
-<div class="line"><span class="lineno">  443</span>    <a class="code hl_variable" href="../../d3/de3/a11100.html#aa9934956cb5efd70304cd048ddabc423">_lastChange</a> = <a class="code hl_function" href="../../d9/dda/a04740.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count();</div>
-<div class="line"><span class="lineno">  444</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   81</span>{</div>
+<div class="line"><span class="lineno">   82</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/de3/a11100.html#a1a05bbd8400ec4451ca34b2754e056e9">_data</a>[<a class="code hl_variable" href="../../d3/de3/a11100.html#ab2cec29c53f0b9bc6a016ce177f97c1d">_target</a>].ObjectType;</div>
+<div class="line"><span class="lineno">   83</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00257">_lastChange</a>, and <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00245">_data</a>, and <a class="el" href="../../#l00219">_target</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00237">SpellScript::TargetHook::CheckEffect()</a>, <a class="el" href="../../#l00127">GetExplicitTargetMask()</a>, <a class="el" href="../../#l00574">SpellEffectInfo::GetMissingTargetMask()</a>, <a class="el" href="../../#l00569">SpellEffectInfo::GetProvidedTargetMask()</a>, <a class="el" href="../../#l00926">Spell::SelectEffectImplicitTargets()</a>, <a class="el" href="../../#l01264">Spell::SelectImplicitAreaTargets()</a>, <a class="el" href="../../#l01829">Spell::SelectImplicitChainTargets()</a>, <a class="el" href="../../#l01214">Spell::SelectImplicitConeTargets()</a>, and <a class="el" href="../../#l01100">Spell::SelectImplicitNearbyTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a59769a12291673682e1b5c3650e8aff7" name="a59769a12291673682e1b5c3650e8aff7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a59769a12291673682e1b5c3650e8aff7">&#9670;&#160;</a></span>GetReferenceType()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d1c/a03551.html#ae160272dac6c37cf297c68db99d9c987">SpellTargetReferenceTypes</a> SpellImplicitTargetInfo::GetReferenceType </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   76</span>{</div>
+<div class="line"><span class="lineno">   77</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/de3/a11100.html#a1a05bbd8400ec4451ca34b2754e056e9">_data</a>[<a class="code hl_variable" href="../../d3/de3/a11100.html#ab2cec29c53f0b9bc6a016ce177f97c1d">_target</a>].ReferenceType;</div>
+<div class="line"><span class="lineno">   78</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00245">_data</a>, and <a class="el" href="../../#l00219">_target</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00237">SpellScript::TargetHook::CheckEffect()</a>, <a class="el" href="../../#l00127">GetExplicitTargetMask()</a>, <a class="el" href="../../#l00926">Spell::SelectEffectImplicitTargets()</a>, <a class="el" href="../../#l01264">Spell::SelectImplicitAreaTargets()</a>, <a class="el" href="../../#l01044">Spell::SelectImplicitChannelTargets()</a>, <a class="el" href="../../#l01214">Spell::SelectImplicitConeTargets()</a>, and <a class="el" href="../../#l01100">Spell::SelectImplicitNearbyTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a5dd39484ccfed1e34b27d957614b45e6" name="a5dd39484ccfed1e34b27d957614b45e6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5dd39484ccfed1e34b27d957614b45e6">&#9670;&#160;</a></span>GetSelectionCategory()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d1c/a03551.html#a1552887f0f9abf22f5e7af1064b8c213">SpellTargetSelectionCategories</a> SpellImplicitTargetInfo::GetSelectionCategory </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   71</span>{</div>
+<div class="line"><span class="lineno">   72</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/de3/a11100.html#a1a05bbd8400ec4451ca34b2754e056e9">_data</a>[<a class="code hl_variable" href="../../d3/de3/a11100.html#ab2cec29c53f0b9bc6a016ce177f97c1d">_target</a>].SelectionCategory;</div>
+<div class="line"><span class="lineno">   73</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00245">_data</a>, and <a class="el" href="../../#l00219">_target</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00237">SpellScript::TargetHook::CheckEffect()</a>, <a class="el" href="../../#l00065">IsArea()</a>, <a class="el" href="../../#l00926">Spell::SelectEffectImplicitTargets()</a>, and <a class="el" href="../../#l01829">Spell::SelectImplicitChainTargets()</a>.</p>
+
+</div>
+</div>
+<a id="ae5a138c973300efce4744ea260108097" name="ae5a138c973300efce4744ea260108097"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae5a138c973300efce4744ea260108097">&#9670;&#160;</a></span>GetTarget()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d3a/a00101.html#a418aed4e4066eb09ab979b5d78dc9152">Targets</a> SpellImplicitTargetInfo::GetTarget </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  123</span>{</div>
+<div class="line"><span class="lineno">  124</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/de3/a11100.html#ab2cec29c53f0b9bc6a016ce177f97c1d">_target</a>;</div>
+<div class="line"><span class="lineno">  125</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00219">_target</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l08728">Spell::CallScriptDestinationTargetSelectHandlers()</a>, <a class="el" href="../../#l08700">Spell::CallScriptObjectAreaTargetSelectHandlers()</a>, <a class="el" href="../../#l08714">Spell::CallScriptObjectTargetSelectHandlers()</a>, <a class="el" href="../../#l00127">GetExplicitTargetMask()</a>, <a class="el" href="../../#l00926">Spell::SelectEffectImplicitTargets()</a>, <a class="el" href="../../#l01346">Spell::SelectImplicitCasterDestTargets()</a>, <a class="el" href="../../#l01760">Spell::SelectImplicitCasterObjectTargets()</a>, <a class="el" href="../../#l01829">Spell::SelectImplicitChainTargets()</a>, <a class="el" href="../../#l01044">Spell::SelectImplicitChannelTargets()</a>, <a class="el" href="../../#l01721">Spell::SelectImplicitDestDestTargets()</a>, and <a class="el" href="../../#l01684">Spell::SelectImplicitTargetDestTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a263a4660dfdf8b77f69e5475048b414b" name="a263a4660dfdf8b77f69e5475048b414b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a263a4660dfdf8b77f69e5475048b414b">&#9670;&#160;</a></span>IsArea()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool SpellImplicitTargetInfo::IsArea </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   66</span>{</div>
+<div class="line"><span class="lineno">   67</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/de3/a11100.html#a5dd39484ccfed1e34b27d957614b45e6">GetSelectionCategory</a>() == <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a1552887f0f9abf22f5e7af1064b8c213a33f431bb237477f3653cc4db15d3cdf2">TARGET_SELECT_CATEGORY_AREA</a> || <a class="code hl_function" href="../../d3/de3/a11100.html#a5dd39484ccfed1e34b27d957614b45e6">GetSelectionCategory</a>() == <a class="code hl_enumvalue" href="../../d3/d1c/a03551.html#a1552887f0f9abf22f5e7af1064b8c213a1f88db49aeb89b11c7cabba4080903d2">TARGET_SELECT_CATEGORY_CONE</a>;</div>
+<div class="line"><span class="lineno">   68</span>}</div>
+<div class="ttc" id="aa03551_html_a1552887f0f9abf22f5e7af1064b8c213a1f88db49aeb89b11c7cabba4080903d2"><div class="ttname"><a href="../../d3/d1c/a03551.html#a1552887f0f9abf22f5e7af1064b8c213a1f88db49aeb89b11c7cabba4080903d2">TARGET_SELECT_CATEGORY_CONE</a></div><div class="ttdeci">@ TARGET_SELECT_CATEGORY_CONE</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:81</div></div>
+<div class="ttc" id="aa03551_html_a1552887f0f9abf22f5e7af1064b8c213a33f431bb237477f3653cc4db15d3cdf2"><div class="ttname"><a href="../../d3/d1c/a03551.html#a1552887f0f9abf22f5e7af1064b8c213a33f431bb237477f3653cc4db15d3cdf2">TARGET_SELECT_CATEGORY_AREA</a></div><div class="ttdeci">@ TARGET_SELECT_CATEGORY_AREA</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:82</div></div>
+<div class="ttc" id="aa11100_html_a5dd39484ccfed1e34b27d957614b45e6"><div class="ttname"><a href="../../d3/de3/a11100.html#a5dd39484ccfed1e34b27d957614b45e6">SpellImplicitTargetInfo::GetSelectionCategory</a></div><div class="ttdeci">SpellTargetSelectionCategories GetSelectionCategory() const</div><div class="ttdef"><b>Definition:</b> SpellInfo.cpp:70</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00070">GetSelectionCategory()</a>, <a class="el" href="../../#l00082">TARGET_SELECT_CATEGORY_AREA</a>, and <a class="el" href="../../#l00081">TARGET_SELECT_CATEGORY_CONE</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00373">SpellEffectInfo::IsTargetingArea()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="aa9934956cb5efd70304cd048ddabc423" name="aa9934956cb5efd70304cd048ddabc423"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa9934956cb5efd70304cd048ddabc423">&#9670;&#160;</a></span>_lastChange</h2>
+<a id="a1a05bbd8400ec4451ca34b2754e056e9" name="a1a05bbd8400ec4451ca34b2754e056e9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a05bbd8400ec4451ca34b2754e056e9">&#9670;&#160;</a></span>_data</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1100,22 +593,22 @@ Private Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/ddf/a00488.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> TicketMgr::_lastChange</td>
+          <td class="memname">std::array&lt; <a class="el" href="../../d6/dc7/a11104.html">SpellImplicitTargetInfo::StaticData</a>, <a class="el" href="../../d4/d3a/a00101.html#a418aed4e4066eb09ab979b5d78dc9152a9d7b287f18ed98352e92531e2c89a91d">TOTAL_SPELL_TARGETS</a> &gt; SpellImplicitTargetInfo::_data</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00232">GetLastChange()</a>, and <a class="el" href="../../#l00441">UpdateLastChange()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00085">GetCheckType()</a>, <a class="el" href="../../#l00090">GetDirectionType()</a>, <a class="el" href="../../#l00080">GetObjectType()</a>, <a class="el" href="../../#l00075">GetReferenceType()</a>, and <a class="el" href="../../#l00070">GetSelectionCategory()</a>.</p>
 
 </div>
 </div>
-<a id="a711629e4c21f66401248b9f8d8e7c511" name="a711629e4c21f66401248b9f8d8e7c511"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a711629e4c21f66401248b9f8d8e7c511">&#9670;&#160;</a></span>_lastSurveyId</h2>
+<a id="ab2cec29c53f0b9bc6a016ce177f97c1d" name="ab2cec29c53f0b9bc6a016ce177f97c1d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab2cec29c53f0b9bc6a016ce177f97c1d">&#9670;&#160;</a></span>_target</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1124,113 +617,17 @@ Private Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TicketMgr::_lastSurveyId</td>
+          <td class="memname"><a class="el" href="../../d4/d3a/a00101.html#a418aed4e4066eb09ab979b5d78dc9152">Targets</a> SpellImplicitTargetInfo::_target</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00237">GetNextSurveyID()</a>, and <a class="el" href="../../#l00347">LoadSurveys()</a>.</p>
-
-</div>
-</div>
-<a id="a2042b8bdd21a9e29a2ab7dcf69bf96e1" name="a2042b8bdd21a9e29a2ab7dcf69bf96e1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2042b8bdd21a9e29a2ab7dcf69bf96e1">&#9670;&#160;</a></span>_lastTicketId</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TicketMgr::_lastTicketId</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00235">GenerateTicketId()</a>, <a class="el" href="../../#l00301">LoadTickets()</a>, and <a class="el" href="../../#l00280">ResetTickets()</a>.</p>
-
-</div>
-</div>
-<a id="a6a5b603d107d4e14a7aff5c019f0b3d1" name="a6a5b603d107d4e14a7aff5c019f0b3d1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6a5b603d107d4e14a7aff5c019f0b3d1">&#9670;&#160;</a></span>_openTicketCount</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TicketMgr::_openTicketCount</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00360">AddTicket()</a>, <a class="el" href="../../#l00369">CloseTicket()</a>, <a class="el" href="../../#l00236">GetOpenTicketCount()</a>, <a class="el" href="../../#l00301">LoadTickets()</a>, and <a class="el" href="../../#l00391">ResolveAndCloseTicket()</a>.</p>
-
-</div>
-</div>
-<a id="a1a6167a7f574d205d97388914ce35d7a" name="a1a6167a7f574d205d97388914ce35d7a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a6167a7f574d205d97388914ce35d7a">&#9670;&#160;</a></span>_status</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool TicketMgr::_status</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00229">GetStatus()</a>, and <a class="el" href="../../#l00230">SetStatus()</a>.</p>
-
-</div>
-</div>
-<a id="a41e9c383f1b9c7f4c6754fab94eb687e" name="a41e9c383f1b9c7f4c6754fab94eb687e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a41e9c383f1b9c7f4c6754fab94eb687e">&#9670;&#160;</a></span>_ticketList</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d6/df2/a01175.html#a697d75cf06a963bad84903696288001a">GmTicketList</a> TicketMgr::_ticketList</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00360">AddTicket()</a>, <a class="el" href="../../#l00215">GetOldestOpenTicket()</a>, <a class="el" href="../../#l00197">GetTicket()</a>, <a class="el" href="../../#l00206">GetTicketByPlayer()</a>, <a class="el" href="../../#l00301">LoadTickets()</a>, <a class="el" href="../../#l00381">RemoveTicket()</a>, <a class="el" href="../../#l00280">ResetTickets()</a>, <a class="el" href="../../#l00413">ShowClosedList()</a>, <a class="el" href="../../#l00421">ShowEscalatedList()</a>, <a class="el" href="../../#l00404">ShowList()</a>, and <a class="el" href="../../#l00266">~TicketMgr()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00085">GetCheckType()</a>, <a class="el" href="../../#l00090">GetDirectionType()</a>, <a class="el" href="../../#l00080">GetObjectType()</a>, <a class="el" href="../../#l00075">GetReferenceType()</a>, <a class="el" href="../../#l00070">GetSelectionCategory()</a>, <a class="el" href="../../#l00122">GetTarget()</a>, and <a class="el" href="../../#l00060">SpellImplicitTargetInfo()</a>.</p>
 
 </div>
 </div>
@@ -1239,8 +636,8 @@ Private Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/de3/a11100.html">TicketMgr</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:44:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/de3/a11100.html">SpellImplicitTargetInfo</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:44:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

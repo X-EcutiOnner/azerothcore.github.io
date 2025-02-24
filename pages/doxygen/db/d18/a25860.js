@@ -1,6 +1,10 @@
 var a25860 =
 [
-    [ "OnPeriodic", "db/d18/a25860.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
-    [ "PrepareAuraScript", "db/d18/a25860.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
-    [ "Register", "db/d18/a25860.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
+    [ "CheckProc", "db/d18/a25860.html#a787008462dce35eb27deda41301b146d", null ],
+    [ "HandleProc", "db/d18/a25860.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
+    [ "Load", "db/d18/a25860.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
+    [ "PrepareAuraScript", "db/d18/a25860.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
+    [ "Register", "db/d18/a25860.html#aa4ef731870355dc386fcd07c5f19d090", null ],
+    [ "Validate", "db/d18/a25860.html#ad04864f0710262364cf40e071446d87c", null ],
+    [ "_procTarget", "db/d18/a25860.html#a9383231fc71c6239507fdf8765d63f3d", null ]
 ];

@@ -1,7 +1,6 @@
 var a26468 =
 [
-    [ "CalcPeriodic", "d1/db2/a26468.html#af787d0c8738284e757f808e7d138bdc6", null ],
-    [ "PrepareAuraScript", "d1/db2/a26468.html#a383db196133bbecee06fe443fdb1bc24", null ],
-    [ "Register", "d1/db2/a26468.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
-    [ "Update", "d1/db2/a26468.html#af3f4a7b82e099313d609df7f85f02d00", null ]
+    [ "HandleAfterCast", "d1/db2/a26468.html#a6f21938e84e45848fad74a16f1f52c48", null ],
+    [ "PrepareSpellScript", "d1/db2/a26468.html#ac7abeee05c117595696faf1ec55e11bd", null ],
+    [ "Register", "d1/db2/a26468.html#a9e90a6fa037627ac682f4ea050f557de", null ]
 ];

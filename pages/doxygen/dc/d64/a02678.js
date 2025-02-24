@@ -1,4 +1,9 @@
 var a02678 =
 [
-    [ "EscortMovementGenerator< T >", "d8/de7/a09878.html", "d8/de7/a09878" ]
+    [ "RandomMovementGenerator< T >", "d9/dba/a09944.html", "d9/dba/a09944" ],
+    [ "MAX_PATH_LENGHT_FACTOR", "dc/d64/a02678.html#a6e563601030e3152f7023ecd4fa3f3c7", null ],
+    [ "MIN_WANDER_DISTANCE_AIR", "dc/d64/a02678.html#a81b46c6e5a328cf46ead22b160a8a576", null ],
+    [ "MIN_WANDER_DISTANCE_GROUND", "dc/d64/a02678.html#a85e56933db548199999e1edb8e96836d", null ],
+    [ "RANDOM_LINKS_COUNT", "dc/d64/a02678.html#af447061c654f18b25537973f2739dad3", null ],
+    [ "RANDOM_POINTS_NUMBER", "dc/d64/a02678.html#ac0f6eaac315a81192c2307dcbac20f70", null ]
 ];

@@ -1,12 +1,8 @@
 var a23360 =
 [
-    [ "boss_swamplord_muselek", "d0/df0/a23360.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
-    [ "AttackStart", "d0/df0/a23360.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
-    [ "CanShootVictim", "d0/df0/a23360.html#af84af5e4b344fc5f5da9f2047519710a", null ],
-    [ "JustDied", "d0/df0/a23360.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
-    [ "JustEngagedWith", "d0/df0/a23360.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
-    [ "KilledUnit", "d0/df0/a23360.html#a9f2afd6aacb9befa956079a42fbace37", null ],
-    [ "Reset", "d0/df0/a23360.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
-    [ "_canChase", "d0/df0/a23360.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
-    [ "_markTarget", "d0/df0/a23360.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
+    [ "boss_broggok", "d0/df0/a23360.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "d0/df0/a23360.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "d0/df0/a23360.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "d0/df0/a23360.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "d0/df0/a23360.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

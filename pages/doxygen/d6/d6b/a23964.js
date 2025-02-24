@@ -1,9 +1,7 @@
 var a23964 =
 [
-    [ "npc_aeranasAI", "d6/d6b/a23964.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "Reset", "d6/d6b/a23964.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "d6/d6b/a23964.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "envelopingWinds_Timer", "d6/d6b/a23964.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "d6/d6b/a23964.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "d6/d6b/a23964.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "npc_maxx_a_million_escortAI", "d3/dd6/a23968.html", "d3/dd6/a23968" ],
+    [ "npc_maxx_a_million_escort", "d6/d6b/a23964.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "d6/d6b/a23964.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "d6/d6b/a23964.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
 ];

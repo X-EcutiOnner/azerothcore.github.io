@@ -1,11 +1,10 @@
 var a08804 =
 [
-    [ "~Grid", "db/dbe/a08804.html#a86be65dc86f104566acd41078429e4c4", null ],
-    [ "AddGridObject", "db/dbe/a08804.html#ad78b74974ec1f4a361096c8f4d7500d7", null ],
-    [ "AddWorldObject", "db/dbe/a08804.html#aac7dc4f1c3024b2286fed2ae51688a99", null ],
-    [ "Visit", "db/dbe/a08804.html#aa69a55ee52da73b9ec3c62406cb4a595", null ],
-    [ "Visit", "db/dbe/a08804.html#aebdcac90d763779775dbc0f0492e5279", null ],
-    [ "GridLoader", "db/dbe/a08804.html#a06e47216bdac43edea86c507c93a6ed4", null ],
-    [ "i_container", "db/dbe/a08804.html#a510723553d7206edb25792856c6c369b", null ],
-    [ "i_objects", "db/dbe/a08804.html#a3bf441ec395e8e4cecdb8d63b6600bef", null ]
+    [ "mapId", "db/dbe/a08804.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "db/dbe/a08804.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "db/dbe/a08804.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "db/dbe/a08804.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "db/dbe/a08804.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "db/dbe/a08804.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "db/dbe/a08804.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

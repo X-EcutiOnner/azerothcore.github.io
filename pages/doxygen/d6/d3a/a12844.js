@@ -1,7 +1,8 @@
 var a12844 =
 [
-    [ "OnPeriodic", "d6/d3a/a12844.html#ab193b7cf8a8fe91879317e7d21522976", null ],
-    [ "PrepareAuraScript", "d6/d3a/a12844.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
-    [ "Register", "d6/d3a/a12844.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
-    [ "Validate", "d6/d3a/a12844.html#a290b864756ceff85d52ba3f974a28217", null ]
+    [ "npc_scarlet_miner_cartAI", "d6/d3a/a12844.html#a4256e3bc9f6678dc85a3b702e1c531f8", null ],
+    [ "DoAction", "d6/d3a/a12844.html#a99ac60b1a60cc5f269aa7f02f3fd5083", null ],
+    [ "PassengerBoarded", "d6/d3a/a12844.html#a3539847efa7014a8e31a78ace83b6bc5", null ],
+    [ "SetGUID", "d6/d3a/a12844.html#a5679fef6f40d0e48547e7bd57a93a176", null ],
+    [ "minerGUID", "d6/d3a/a12844.html#a084e80b43b5b30b5e1794feff305e9b3", null ]
 ];

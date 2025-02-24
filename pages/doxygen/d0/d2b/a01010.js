@@ -1,7 +1,7 @@
 var a01010 =
 [
-    [ "boss_cyanigosa", "d0/d10/a21130.html", "d0/d10/a21130" ],
-    [ "boss_cyanigosa::boss_cyanigosaAI", "d9/de7/a21134.html", "d9/de7/a21134" ],
+    [ "boss_cyanigosa", "d1/dbe/a21148.html", "d1/dbe/a21148" ],
+    [ "boss_cyanigosa::boss_cyanigosaAI", "de/d4f/a21152.html", "de/d4f/a21152" ],
     [ "eEvents", "d0/d2b/a01010.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "dc/d92/a00929.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "dc/d92/a00929.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

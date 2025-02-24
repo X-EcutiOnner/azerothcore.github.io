@@ -1,6 +1,8 @@
 var a21728 =
 [
-    [ "npc_heated_battleAI", "df/d22/a21728.html#a2b73957d7890549f4b02488c5527fcef", null ],
-    [ "DamageTaken", "df/d22/a21728.html#a8422c157214195d7166ede35c9c05d19", null ],
-    [ "Reset", "df/d22/a21728.html#a11a4f3270ff260e30da89017dad38433", null ]
+    [ "AfterApply", "df/d22/a21728.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "df/d22/a21728.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "df/d22/a21728.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "df/d22/a21728.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "df/d22/a21728.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

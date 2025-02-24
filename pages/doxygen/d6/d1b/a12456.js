@@ -1,6 +1,8 @@
 var a12456 =
 [
-    [ "HandleAfterCast", "d6/d1b/a12456.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
-    [ "PrepareSpellScript", "d6/d1b/a12456.html#aa0956db2d03405a54893bc30516f5839", null ],
-    [ "Register", "d6/d1b/a12456.html#a45726adacf1d30b5488df54f57447c0c", null ]
+    [ "npc_lava_spawn", "d6/d1b/a12456.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "d6/d1b/a12456.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "d6/d1b/a12456.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "d6/d1b/a12456.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "d6/d1b/a12456.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

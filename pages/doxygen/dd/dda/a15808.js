@@ -1,6 +1,19 @@
 var a15808 =
 [
-    [ "npc_twilight_summonAI", "d0/d40/a15812.html", "d0/d40/a15812" ],
-    [ "npc_twilight_summon", "dd/dda/a15808.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
-    [ "GetAI", "dd/dda/a15808.html#a98bf5ce96c25bc252acd46163644bf33", null ]
+    [ "boss_sartharion_dragonAI", "dd/dda/a15808.html#afffee05f402a1960232c7920beb9beb9", null ],
+    [ "ClearInstance", "dd/dda/a15808.html#a9e1fb29994441dd2d41aeb2c04205d7b", null ],
+    [ "DoAction", "dd/dda/a15808.html#aeb49e63300a317f0e969159266fd8ea1", null ],
+    [ "HandleExtraEvent", "dd/dda/a15808.html#a406b4d5957efb872de3bff5c8012de2a", null ],
+    [ "JustDied", "dd/dda/a15808.html#a9c664ff661a3e83b98e1a28c81d662b0", null ],
+    [ "JustEngagedWith", "dd/dda/a15808.html#a2988e9a5a8edd9aa807d8b13867fe6d7", null ],
+    [ "JustSummoned", "dd/dda/a15808.html#a16582179f25ddc130f97bb70fe80316f", null ],
+    [ "KilledUnit", "dd/dda/a15808.html#a09428ec63c8589a527accf8b024f6666", null ],
+    [ "MoveInLineOfSight", "dd/dda/a15808.html#a75cd7f27019e4013adde104e7663e5bc", null ],
+    [ "MovementInform", "dd/dda/a15808.html#a6870b91b1d36c79add8bd86a8e1fac4d", null ],
+    [ "RemoveTwilightPortal", "dd/dda/a15808.html#a26aff742f99b04bfaf56fa46158ce306", null ],
+    [ "Reset", "dd/dda/a15808.html#a86acfe30f898bd6b709c4743ae808867", null ],
+    [ "UpdateAI", "dd/dda/a15808.html#a0e9382d8dce8251336d81539b7d82e15", null ],
+    [ "extraEvents", "dd/dda/a15808.html#a0018fdf6e4567a74e5b16e4e09a00836", null ],
+    [ "isCalledBySartharion", "dd/dda/a15808.html#a45a92a0754572b8d619fddbd1bdb234f", null ],
+    [ "portalGUID", "dd/dda/a15808.html#a852ab0dabe5b6d8e6b0a53e6425ff085", null ]
 ];

@@ -1,5 +1,6 @@
 var a24316 =
 [
-    [ "npc_pet_dk_army_of_the_deadAI", "d4/d1e/a24316.html#a2d934ed807d225f6b9f2206f0556f26d", null ],
-    [ "InitializeAI", "d4/d1e/a24316.html#af3ecec126ed3d902acd4bfe979382307", null ]
+    [ "FilterTargets", "d4/d1e/a24316.html#adab73c94c659d7421c9c6887d956cd83", null ],
+    [ "PrepareSpellScript", "d4/d1e/a24316.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
+    [ "Register", "d4/d1e/a24316.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
 ];

@@ -1,6 +1,11 @@
 var a10568 =
 [
-    [ "DismissCritter", "d7/d9f/a10568.html#a87e35583063b340f014d21cd02c54cab", null ],
-    [ "Read", "d7/d9f/a10568.html#a411b65505e8a332ecf9291a670dc38c4", null ],
-    [ "CritterGUID", "d7/d9f/a10568.html#a89c071e81c9d39c099c32c4976f15304", null ]
+    [ "GuildSetRankPermissions", "d7/d9f/a10568.html#a8b3fd3e4da77c6fb70db28721ec46714", null ],
+    [ "Read", "d7/d9f/a10568.html#a534550862a3c634697e8277f31ad4c25", null ],
+    [ "Flags", "d7/d9f/a10568.html#adea48131efa7c05b84c4de596933bfbe", null ],
+    [ "RankID", "d7/d9f/a10568.html#a0c4a8b29918d69580c749e3b48485515", null ],
+    [ "RankName", "d7/d9f/a10568.html#a24dde2aa8dd0ae1b9e8b37317334e0d4", null ],
+    [ "TabFlags", "d7/d9f/a10568.html#af19e6fd8ddfe980f8c1f1110e9332bad", null ],
+    [ "TabWithdrawItemLimit", "d7/d9f/a10568.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c", null ],
+    [ "WithdrawGoldLimit", "d7/d9f/a10568.html#a1c02002facce05010028ac8dcae7fa3f", null ]
 ];

@@ -1,6 +1,7 @@
 var a15620 =
 [
-    [ "HandleApply", "d2/df3/a15620.html#aee4d5908035d06be2f1469a50db02e26", null ],
-    [ "PrepareAuraScript", "d2/df3/a15620.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
-    [ "Register", "d2/df3/a15620.html#ac83962bef84b68cef6d7937769730598", null ]
+    [ "go_troll_cageAI", "d2/df3/a15620.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
+    [ "GossipHello", "d2/df3/a15620.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
+    [ "initBlyCrewMember", "d2/df3/a15620.html#a6bfb77ec97367d8704885acfef801b74", null ],
+    [ "instance", "d2/df3/a15620.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
 ];

@@ -1,6 +1,6 @@
 var a17212 =
 [
-    [ "PrepareSpellScript", "df/d58/a17212.html#a37899f12707930d038de38bae92c9aff", null ],
-    [ "Register", "df/d58/a17212.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
-    [ "SelectDest", "df/d58/a17212.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
+    [ "VampiricBiteTargetSelector", "df/d58/a17212.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
+    [ "operator()", "df/d58/a17212.html#ac16204f50f62cb2568998d1ea137f55d", null ],
+    [ "_source", "df/d58/a17212.html#af23a69491c915909566249b109b1f0e8", null ]
 ];

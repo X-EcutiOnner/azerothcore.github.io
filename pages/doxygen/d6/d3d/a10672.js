@@ -1,5 +1,6 @@
 var a10672 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "d6/d3d/a10672.html#a9d821669804cd04cf121e141d94ead36", null ],
-    [ "Initialize", "d6/d3d/a10672.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
+    [ "GuildBankTextQuery", "d6/d3d/a10672.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
+    [ "Read", "d6/d3d/a10672.html#af20bd5c8e58b891028613625fb14807d", null ],
+    [ "Tab", "d6/d3d/a10672.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
 ];

@@ -1,12 +1,18 @@
 var a11460 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "dd/d25/a11460.html#af3620678992778edbb859622e057893a", null ],
-    [ "AttackStart", "dd/d25/a11460.html#aed39eaed8648ce78349c49ee33918b93", null ],
-    [ "EnterEvadeMode", "dd/d25/a11460.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
-    [ "JustRespawned", "dd/d25/a11460.html#a460c6912063587214ba0f2e01878d827", null ],
-    [ "Reset", "dd/d25/a11460.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
-    [ "UpdateAI", "dd/d25/a11460.html#a7bf1631810c8446bc157f8ff220199b7", null ],
-    [ "_attacked", "dd/d25/a11460.html#a56d7211a3565c19b499f7de2eda6c862", null ],
-    [ "_hasAura", "dd/d25/a11460.html#a1c0049100cde1c62daf80779d1135156", null ],
-    [ "events", "dd/d25/a11460.html#a49b8e01897cd5347bbd06cac254163f4", null ]
+    [ "WardenWin", "dd/d25/a11460.html#ace17ee6e11a0c88478dc9f24c1c7db8f", null ],
+    [ "~WardenWin", "dd/d25/a11460.html#ac1264c71c1e6f80fa70bf1794aa41368", null ],
+    [ "ForceChecks", "dd/d25/a11460.html#a2a0e780572b1870f692803caa1ef673d", null ],
+    [ "GetModuleForClient", "dd/d25/a11460.html#ad5dbc585ebb22eda2e1265f14129aa5c", null ],
+    [ "HandleData", "dd/d25/a11460.html#a9860f6b2c0beb6d730b02c99e6172690", null ],
+    [ "HandleHashResult", "dd/d25/a11460.html#a05ab06f2a7928affab20fd1b795a2d3f", null ],
+    [ "Init", "dd/d25/a11460.html#a3222620148b84a4d95593800a83ba3fa", null ],
+    [ "InitializeModule", "dd/d25/a11460.html#a2082c6a634c5b1f6cb63d376ff9a9695", null ],
+    [ "IsCheckInProgress", "dd/d25/a11460.html#aee57f10f6f4f676908c54f305210b6bc", null ],
+    [ "RequestChecks", "dd/d25/a11460.html#a9a3e9b53f66e97a615c288058b9adcf3", null ],
+    [ "RequestHash", "dd/d25/a11460.html#abb53eb2b1d9dc95f8e77d12d4086c6c1", null ],
+    [ "_ChecksTodo", "dd/d25/a11460.html#a61d85f3e94cb64aedbc977c74a64e0be", null ],
+    [ "_CurrentChecks", "dd/d25/a11460.html#a9cb49a2629d08e0f54d363f81c284425", null ],
+    [ "_PendingChecks", "dd/d25/a11460.html#a463e1f12600b12ddf54f762093ae57f0", null ],
+    [ "_serverTicks", "dd/d25/a11460.html#a79e969e649fa057cd3a1a835837188c6", null ]
 ];

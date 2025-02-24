@@ -1,7 +1,8 @@
 var a12488 =
 [
-    [ "boss_garaxxas", "da/da0/a12488.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "da/da0/a12488.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "da/da0/a12488.html#a56e6489ce49971cb066444888355626e", null ],
-    [ "UpdateAI", "da/da0/a12488.html#a26c8ced268eba327211ad07be8293e9b", null ]
+    [ "npc_kernobeeAI", "da/da0/a12488.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
+    [ "SetGUID", "da/da0/a12488.html#a34999b470697ba0a27701facd63625f8", null ],
+    [ "UpdateAI", "da/da0/a12488.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
+    [ "checkTimer", "da/da0/a12488.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
+    [ "playerGUID", "da/da0/a12488.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
 ];

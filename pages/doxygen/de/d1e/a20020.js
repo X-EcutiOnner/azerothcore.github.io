@@ -1,6 +1,6 @@
 var a20020 =
 [
-    [ "npc_ulduar_saronite_animusAI", "db/dfa/a20024.html", "db/dfa/a20024" ],
-    [ "npc_ulduar_saronite_animus", "de/d1e/a20020.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
-    [ "GetAI", "de/d1e/a20020.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
+    [ "boss_hodirAI", "db/dfa/a20024.html", "db/dfa/a20024" ],
+    [ "boss_hodir", "de/d1e/a20020.html#a5740f489f57380d2633a8ee5a18de339", null ],
+    [ "GetAI", "de/d1e/a20020.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c", null ]
 ];

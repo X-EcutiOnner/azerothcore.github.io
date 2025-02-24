@@ -1,6 +1,6 @@
 var a19268 =
 [
-    [ "boss_uromAI", "d5/db9/a19272.html", "d5/db9/a19272" ],
-    [ "boss_urom", "d1/d5b/a19268.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
-    [ "GetAI", "d1/d5b/a19268.html#ac381b851f3cc746fb323ff238892c537", null ]
+    [ "npc_oculus_drakeAI", "d5/db9/a19272.html", "d5/db9/a19272" ],
+    [ "npc_oculus_drake", "d1/d5b/a19268.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
+    [ "GetAI", "d1/d5b/a19268.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
 ];

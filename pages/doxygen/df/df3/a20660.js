@@ -1,6 +1,6 @@
 var a20660 =
 [
-    [ "PrepareSpellScript", "df/df3/a20660.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
-    [ "Register", "df/df3/a20660.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "SelectTarget", "df/df3/a20660.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
+    [ "boss_yoggsaronAI", "dd/db5/a20664.html", "dd/db5/a20664" ],
+    [ "boss_yoggsaron", "df/df3/a20660.html#a3fa3ada3979b55100b8ca9e21ec655a1", null ],
+    [ "GetAI", "df/df3/a20660.html#a113eb034acc46a2edd4a84598413a63e", null ]
 ];

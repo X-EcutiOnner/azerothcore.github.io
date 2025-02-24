@@ -1,8 +1,5 @@
 var a10296 =
 [
-    [ "GuildEvent", "db/def/a10296.html#a78be16122c01d4c68d67e050ede92006", null ],
-    [ "Write", "db/def/a10296.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
-    [ "Guid", "db/def/a10296.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
-    [ "Params", "db/def/a10296.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
-    [ "Type", "db/def/a10296.html#a961ae90991fa23bfc94a054dba357392", null ]
+    [ "MovementHandlerScript", "db/def/a10296.html#aeeeb5fe81eebc04fc317e726782be3ab", null ],
+    [ "OnPlayerMove", "db/def/a10296.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
 ];

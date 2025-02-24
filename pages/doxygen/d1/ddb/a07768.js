@@ -1,10 +1,12 @@
 var a07768 =
 [
-    [ "CreatureModel", "d1/ddb/a07768.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
-    [ "CreatureModel", "d1/ddb/a07768.html#a02b05bf92c3341b90173b4aa998087ba", null ],
-    [ "CreatureDisplayID", "d1/ddb/a07768.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
-    [ "DefaultInvisibleModel", "d1/ddb/a07768.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
-    [ "DefaultVisibleModel", "d1/ddb/a07768.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
-    [ "DisplayScale", "d1/ddb/a07768.html#ad842b73233b84c451710767f5e58f10a", null ],
-    [ "Probability", "d1/ddb/a07768.html#a7736d6480dca65a68afb82a830b35874", null ]
+    [ "HyperlinkInfo", "d1/ddb/a07768.html#aa61aad1a1e2cf1a699ff67ee25cc474b", null ],
+    [ "HyperlinkInfo", "d1/ddb/a07768.html#ac08518b3afb878fc7979807d764b7872", null ],
+    [ "operator bool", "d1/ddb/a07768.html#a834ac95bb310f6653208026e203e065f", null ],
+    [ "color", "d1/ddb/a07768.html#a38c0121d4001ad938d9bc53ca08217db", null ],
+    [ "data", "d1/ddb/a07768.html#a7d7d839de8eb48a25e2b687b69a092ea", null ],
+    [ "ok", "d1/ddb/a07768.html#a54c7a812f79593258002d367110b2403", null ],
+    [ "tag", "d1/ddb/a07768.html#a2171d081c4eb0a23d00e637dfa64bcfc", null ],
+    [ "tail", "d1/ddb/a07768.html#a065d1a0942abbe5739f44126d5c3ce00", null ],
+    [ "text", "d1/ddb/a07768.html#a2b914c9bdc41771b8cb058468bfa23db", null ]
 ];

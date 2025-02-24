@@ -1,7 +1,7 @@
 var a12224 =
 [
-    [ "npc_kernobeeAI", "d9/df7/a12228.html", "d9/df7/a12228" ],
-    [ "npc_kernobee", "df/d24/a12224.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
-    [ "GetAI", "df/d24/a12224.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
-    [ "OnQuestAccept", "df/d24/a12224.html#aa830285cf19211b8233620257735ab62", null ]
+    [ "HandleDummy", "df/d24/a12224.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
+    [ "PrepareSpellScript", "df/d24/a12224.html#a6ec124990f202af0c6063c285bf04d88", null ],
+    [ "Register", "df/d24/a12224.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
+    [ "Validate", "df/d24/a12224.html#ae35efa08f507aac5b72166a216d01870", null ]
 ];

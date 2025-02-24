@@ -1,6 +1,6 @@
 var a26452 =
 [
-    [ "HandleFinish", "d5/def/a26452.html#ac4c50220d86f809644e339fc578d9b4a", null ],
-    [ "PrepareSpellScript", "d5/def/a26452.html#a5a14594ed93150e34626a7e0edb8171b", null ],
-    [ "Register", "d5/def/a26452.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
+    [ "HandleRemove", "d5/def/a26452.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "d5/def/a26452.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "d5/def/a26452.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

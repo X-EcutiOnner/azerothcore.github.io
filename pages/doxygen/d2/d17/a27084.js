@@ -1,9 +1,7 @@
 var a27084 =
 [
-    [ "ChatLogScript", "d2/d17/a27084.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnChat", "d2/d17/a27084.html#a44694358d5babfd988c6c64e738a4f80", null ],
-    [ "OnChat", "d2/d17/a27084.html#ac0a0f2e7d63cb5ff94be3d1a7c7a62b4", null ],
-    [ "OnChat", "d2/d17/a27084.html#a53b69eaa690266d38f08aa3920048353", null ],
-    [ "OnChat", "d2/d17/a27084.html#a7b6ce21ddcda078a0ed32ce130a3b376", null ],
-    [ "OnChat", "d2/d17/a27084.html#ab7e9d4f50e33c4ddd49e98157deb29ba", null ]
+    [ "go_bear_trapAI", "d2/d17/a27084.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "d2/d17/a27084.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "d2/d17/a27084.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "d2/d17/a27084.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

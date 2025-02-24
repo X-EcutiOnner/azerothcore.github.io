@@ -1,11 +1,14 @@
 var a15728 =
 [
-    [ "npc_anub_ar_crusherAI", "d8/d57/a15728.html#a35866e3cad208bb70bbc5a146301c28d", null ],
-    [ "DoAction", "d8/d57/a15728.html#ac11795153811d2465b106bc1fdea508a", null ],
-    [ "JustEngagedWith", "d8/d57/a15728.html#a02d3b78427bc247cde28620470c43331", null ],
-    [ "JustSummoned", "d8/d57/a15728.html#a6d484f8d3f54bb7c7ad572027501f2ab", null ],
-    [ "Reset", "d8/d57/a15728.html#a85f60e0733ac4ccd8f7941e8df0f88d9", null ],
-    [ "UpdateAI", "d8/d57/a15728.html#aaeda7e00410766857ee4bd73a8e15b89", null ],
-    [ "events", "d8/d57/a15728.html#ad4a2111d4301f0b928fbd01b6783fb6c", null ],
-    [ "summons", "d8/d57/a15728.html#a3136ecd40bf228fade0e40d3c5d22e5d", null ]
+    [ "boss_anub_arakAI", "d8/d57/a15728.html#a9b9dc11d78456efd9c6ad69e0c12e022", null ],
+    [ "EnterEvadeMode", "d8/d57/a15728.html#a016f17a11be149cbb6cc1343f2916a4f", null ],
+    [ "JustDied", "d8/d57/a15728.html#abc93931e7698ffd717199a598e16c917", null ],
+    [ "JustEngagedWith", "d8/d57/a15728.html#a589c252516b738a8f38f9d89da11912c", null ],
+    [ "JustSummoned", "d8/d57/a15728.html#a8624e9dc8af370579bd7ef72063acbf8", null ],
+    [ "KilledUnit", "d8/d57/a15728.html#a33e26ae3907e84ecc02514e4133e3002", null ],
+    [ "MoveInLineOfSight", "d8/d57/a15728.html#ab89570d2d0ddb494fa20f24d95cac41b", null ],
+    [ "Reset", "d8/d57/a15728.html#a254a51a901c0e82da6cb87ade5eba6fa", null ],
+    [ "SummonHelpers", "d8/d57/a15728.html#a709ef4602ace41c9b9ccebe8795badec", null ],
+    [ "UpdateAI", "d8/d57/a15728.html#acf3ddec273ded62c768631be2b3299fa", null ],
+    [ "intro", "d8/d57/a15728.html#a4916d6a1ed06330e94698a13c404ee52", null ]
 ];

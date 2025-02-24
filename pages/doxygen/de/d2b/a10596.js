@@ -1,6 +1,6 @@
 var a10596 =
 [
-    [ "TotemDestroyed", "de/d2b/a10596.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
-    [ "Read", "de/d2b/a10596.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
-    [ "Slot", "de/d2b/a10596.html#a41eebde65aa696c2dec812da0aeab633", null ]
+    [ "GuildPromoteMember", "de/d2b/a10596.html#af623a381aa80e827c2c29987501626ae", null ],
+    [ "Read", "de/d2b/a10596.html#a3350c1a8c81aa1368a254288849b462b", null ],
+    [ "Promotee", "de/d2b/a10596.html#af8addf6e9bc45364f595582e8f285cde", null ]
 ];

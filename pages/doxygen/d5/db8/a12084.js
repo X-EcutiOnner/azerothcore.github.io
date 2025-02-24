@@ -1,6 +1,5 @@
 var a12084 =
 [
-    [ "boss_lucifronAI", "d6/ddb/a12088.html", "d6/ddb/a12088" ],
-    [ "boss_lucifron", "d5/db8/a12084.html#aa54be5c49a77524b036c167dbb6d81ea", null ],
-    [ "GetAI", "d5/db8/a12084.html#a885366d4190bbc77dc696ee6910435ed", null ]
+    [ "at_dragonspire_hall", "d5/db8/a12084.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
+    [ "OnTrigger", "d5/db8/a12084.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
 ];

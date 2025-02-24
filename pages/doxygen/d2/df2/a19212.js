@@ -1,6 +1,6 @@
 var a19212 =
 [
-    [ "boss_ormorokAI", "d9/dc5/a19216.html", "d9/dc5/a19216" ],
-    [ "boss_ormorok", "d2/df2/a19212.html#a0999bd2d1bcd5b27c6cba6293b48e7b3", null ],
-    [ "GetAI", "d2/df2/a19212.html#a1e3c4a03a2d44d085010da8f1621e2fb", null ]
+    [ "boss_drakosAI", "d9/dc5/a19216.html", "d9/dc5/a19216" ],
+    [ "boss_drakos", "d2/df2/a19212.html#aa70ae2809af4f24eea0b83b42d695448", null ],
+    [ "GetAI", "d2/df2/a19212.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
 ];

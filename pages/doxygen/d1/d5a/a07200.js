@@ -1,11 +1,6 @@
 var a07200 =
 [
-    [ "BattlegroundWGScore", "d1/d5a/a07200.html#a43b7933c5e217376e5bb10e9b5bb208b", null ],
-    [ "BuildObjectivesBlock", "d1/d5a/a07200.html#a804e56dbd666336d961cce2b0e4d6452", null ],
-    [ "GetAttr1", "d1/d5a/a07200.html#aab49f39d88989b153f1eb979fbbfaeb3", null ],
-    [ "GetAttr2", "d1/d5a/a07200.html#a191e205e08ef15cc36dabedc32614fd2", null ],
-    [ "UpdateScore", "d1/d5a/a07200.html#aa560d7f5f13dd235d43a9e3571090055", null ],
-    [ "BattlegroundWS", "d1/d5a/a07200.html#a4285b67c5d8593dce759422a4eb78c77", null ],
-    [ "FlagCaptures", "d1/d5a/a07200.html#a23ff00f10d07c1a601e9e1d0eb05b1da", null ],
-    [ "FlagReturns", "d1/d5a/a07200.html#ab400c9fb692ff157eb4809f0536c05f7", null ]
+    [ "ArenaSeasonRewardDistributor", "d1/d5a/a07200.html#a9b60eb5be0be5c1be68b9c371c99f28c", null ],
+    [ "DistributeRewards", "d1/d5a/a07200.html#a93640633dc11edda2cd1fce4f1da496b", null ],
+    [ "_rewarder", "d1/d5a/a07200.html#af2801ea5d098bebac111589e1fcf7004", null ]
 ];

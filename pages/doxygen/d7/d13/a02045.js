@@ -1,6 +1,6 @@
 var a02045 =
 [
-    [ "misc_commandscript", "de/dff/a11614.html", "de/dff/a11614" ],
+    [ "misc_commandscript", "d5/d8f/a11628.html", "d5/d8f/a11628" ],
     [ "AddSC_misc_commandscript", "d7/d13/a02045.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
     [ "GetLocalizeCreatureName", "d7/d13/a02045.html#aaedbdfd3cae227b11684151f41e3b977", null ],
     [ "SPELL_FREEZE", "d7/d13/a02045.html#a181bdc61e4eb1d21db975ca0227cb086", null ],

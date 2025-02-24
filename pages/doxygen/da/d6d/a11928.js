@@ -1,6 +1,6 @@
 var a11928 =
 [
-    [ "boss_victor_nefariusAI", "da/d1e/a11932.html", "da/d1e/a11932" ],
-    [ "boss_victor_nefarius", "da/d6d/a11928.html#a85c529c49a0373a553bc59818fb18f49", null ],
-    [ "GetAI", "da/d6d/a11928.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
+    [ "instance_blackrock_depths_InstanceMapScript", "da/d1e/a11932.html", "da/d1e/a11932" ],
+    [ "instance_blackrock_depths", "da/d6d/a11928.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
+    [ "GetInstanceScript", "da/d6d/a11928.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
 ];

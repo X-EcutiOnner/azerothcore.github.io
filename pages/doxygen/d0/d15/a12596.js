@@ -1,5 +1,7 @@
 var a12596 =
 [
-    [ "go_acherus_soul_prison", "d0/d15/a12596.html#a13c858f74080b8f7963fdacc4b554019", null ],
-    [ "OnGossipHello", "d0/d15/a12596.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
+    [ "OnRemove", "d0/d15/a12596.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "d0/d15/a12596.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "d0/d15/a12596.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "d0/d15/a12596.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

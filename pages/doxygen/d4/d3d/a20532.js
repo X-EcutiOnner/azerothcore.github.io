@@ -1,6 +1,6 @@
 var a20532 =
 [
-    [ "boss_thorim_start_npcsAI", "df/dd6/a20536.html", "df/dd6/a20536" ],
-    [ "boss_thorim_start_npcs", "d4/d3d/a20532.html#a3aa11a487ae00b2e397fd25ed2e42702", null ],
-    [ "GetAI", "d4/d3d/a20532.html#a6c529b19d071b4966ccc74b44279cb08", null ]
+    [ "OnPeriodic", "d4/d3d/a20532.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
+    [ "PrepareAuraScript", "d4/d3d/a20532.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
+    [ "Register", "d4/d3d/a20532.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
 ];

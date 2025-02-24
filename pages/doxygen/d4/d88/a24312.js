@@ -1,6 +1,9 @@
 var a24312 =
 [
-    [ "npc_pet_dk_army_of_the_deadAI", "d4/d1e/a24316.html", "d4/d1e/a24316" ],
-    [ "npc_pet_dk_army_of_the_dead", "d4/d88/a24312.html#a0029b9a6bf26ac3419e580d437a0139f", null ],
-    [ "GetAI", "d4/d88/a24312.html#a1883936b7f2905f67d3750faa8caf635", null ]
+    [ "npc_pet_shaman_fire_elemental", "d4/d88/a24312.html#a3428642963fc9e7588ec92fd838f1af9", null ],
+    [ "InitializeAI", "d4/d88/a24312.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
+    [ "JustEngagedWith", "d4/d88/a24312.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
+    [ "UpdateAI", "d4/d88/a24312.html#a2280e5cc5187a91917a1e517e80e960d", null ],
+    [ "_events", "d4/d88/a24312.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
+    [ "_initAttack", "d4/d88/a24312.html#a2df79acc05dd8489e9e994e044b45404", null ]
 ];

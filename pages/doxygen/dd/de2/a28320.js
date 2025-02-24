@@ -1,8 +1,16 @@
 var a28320 =
 [
-    [ "MapDifficulty", "dd/de2/a28320.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
-    [ "MapDifficulty", "dd/de2/a28320.html#a227aec55b5b774076882ea34f70d5d88", null ],
-    [ "hasErrorMessage", "dd/de2/a28320.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
-    [ "maxPlayers", "dd/de2/a28320.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
-    [ "resetTime", "dd/de2/a28320.html#a7190131620b9eee0897ac7b4dd62949e", null ]
+    [ "GetAddressForClient", "dd/de2/a28320.html#a2a3f3db57bb7e6f69ca4f030b65c7331", null ],
+    [ "AllowedSecurityLevel", "dd/de2/a28320.html#a25e953d80aa3c80e068afe6b57f67d99", null ],
+    [ "Build", "dd/de2/a28320.html#a64533e919d8c3a37bd5668af77d09166", null ],
+    [ "ExternalAddress", "dd/de2/a28320.html#a703504aaf54f1ecf934b9184e9737367", null ],
+    [ "Flags", "dd/de2/a28320.html#a1984cc9564b01b6456f31f77fd65a6d6", null ],
+    [ "Id", "dd/de2/a28320.html#ab0ccda7e7a58eee0965261767f3ee2ee", null ],
+    [ "LocalAddress", "dd/de2/a28320.html#a61f429ddc92895e66dff2808e17cc322", null ],
+    [ "LocalSubnetMask", "dd/de2/a28320.html#a52a4b2704e7f76d8ea296148cefb9482", null ],
+    [ "Name", "dd/de2/a28320.html#a9381717fdc924158ecd61a8f00488fc0", null ],
+    [ "PopulationLevel", "dd/de2/a28320.html#a63cdbd47c50f368974b43c3db2f32cee", null ],
+    [ "Port", "dd/de2/a28320.html#a0131d758f10cbae0c610c2c088299feb", null ],
+    [ "Timezone", "dd/de2/a28320.html#a377055c4729f21beecb8601cd79017db", null ],
+    [ "Type", "dd/de2/a28320.html#af77452a4cf7f632d692079615af4737c", null ]
 ];

@@ -1,5 +1,7 @@
 var a05840 =
 [
-    [ "SimpleCharmedAI", "dd/dce/a05840.html#ada8d12d7df75dca5c87c633348d1b27b", null ],
-    [ "UpdateAI", "dd/dce/a05840.html#a5e2c8ae6b601b7fcc36f8c2c49bcd9a6", null ]
+    [ "TransactionWithResultTask", "dd/dce/a05840.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
+    [ "Execute", "dd/dce/a05840.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
+    [ "GetFuture", "dd/dce/a05840.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
+    [ "m_result", "dd/dce/a05840.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
 ];

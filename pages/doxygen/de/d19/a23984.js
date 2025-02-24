@@ -1,6 +1,7 @@
 var a23984 =
 [
-    [ "npc_fel_guard_houndAI", "d1/d5d/a23988.html", "d1/d5d/a23988" ],
-    [ "npc_fel_guard_hound", "de/d19/a23984.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "de/d19/a23984.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "HandleScriptEffect", "de/d19/a23984.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "de/d19/a23984.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "de/d19/a23984.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "de/d19/a23984.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

@@ -1,7 +1,7 @@
 var a26164 =
 [
-    [ "HandleApplyEffect", "dc/d11/a26164.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "dc/d11/a26164.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "dc/d11/a26164.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "dc/d11/a26164.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "CheckTarget", "dc/d11/a26164.html#abaef73201d2e0bd1d6789309442019e0", null ],
+    [ "HandleScriptEffect", "dc/d11/a26164.html#a545196cd976bfabbd85ba48942012e1e", null ],
+    [ "PrepareSpellScript", "dc/d11/a26164.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
+    [ "Register", "dc/d11/a26164.html#a36563a197b7377660b7c3f9e85d478bd", null ]
 ];

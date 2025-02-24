@@ -1,8 +1,11 @@
 var a27340 =
 [
-    [ "trigger_periodicAI", "df/d65/a27340.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "df/d65/a27340.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "df/d65/a27340.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "df/d65/a27340.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "df/d65/a27340.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "npc_franklinAI", "df/d65/a27340.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "df/d65/a27340.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "df/d65/a27340.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "df/d65/a27340.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "df/d65/a27340.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "df/d65/a27340.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "df/d65/a27340.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "df/d65/a27340.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

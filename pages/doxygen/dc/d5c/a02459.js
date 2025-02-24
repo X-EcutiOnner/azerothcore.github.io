@@ -1,9 +1,12 @@
 var a02459 =
 [
-    [ "ePoints", "dc/d5c/a02459.html#a2604bd06487e34b78d3e50cd892f3c4d", [
-      [ "POINT_LAST_POINT", "d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
-      [ "POINT_HOME", "d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
-      [ "POINT_COMBAT_START", "dc/d5c/a02459.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
-    ] ],
-    [ "MAX_PLAYER_DISTANCE", "dc/d5c/a02459.html#acd0b392fc88f24b24201fba8b76d33a2", null ]
+    [ "Escort_Waypoint", "d2/d1b/a06188.html", "d2/d1b/a06188" ],
+    [ "npc_escortAI", "db/d65/a06192.html", "db/d65/a06192" ],
+    [ "DEFAULT_MAX_PLAYER_DISTANCE", "dc/d5c/a02459.html#ad23dc39ce2da634e67360fab90e3b9e2", null ],
+    [ "eEscortState", "dc/d5c/a02459.html#af40ca4990501264cb0359ab6d93fb08a", [
+      [ "STATE_ESCORT_NONE", "dc/d5c/a02459.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5", null ],
+      [ "STATE_ESCORT_ESCORTING", "dc/d5c/a02459.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92", null ],
+      [ "STATE_ESCORT_RETURNING", "dc/d5c/a02459.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48", null ],
+      [ "STATE_ESCORT_PAUSED", "dc/d5c/a02459.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6", null ]
+    ] ]
 ];

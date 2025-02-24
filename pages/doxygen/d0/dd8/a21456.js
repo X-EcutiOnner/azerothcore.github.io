@@ -1,5 +1,9 @@
 var a21456 =
 [
-    [ "npc_khunok_the_behemothAI", "d0/dd8/a21456.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "d0/dd8/a21456.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "npc_bloodmage_laurithAI", "d0/dd8/a21456.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "d0/dd8/a21456.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "d0/dd8/a21456.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
+    [ "UpdateAI", "d0/dd8/a21456.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "d0/dd8/a21456.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "d0/dd8/a21456.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

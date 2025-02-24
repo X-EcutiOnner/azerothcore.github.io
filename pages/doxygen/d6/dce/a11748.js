@@ -1,11 +1,15 @@
 var a11748 =
 [
-    [ "boss_quartermaster_zigris", "d6/dce/a11748.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
-    [ "DamageTaken", "d6/dce/a11748.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
-    [ "JustDied", "d6/dce/a11748.html#a9295bbcffd7968051a789e8dfb634e23", null ],
-    [ "JustEngagedWith", "d6/dce/a11748.html#af482c06e00e7f6c15b290115998a27a9", null ],
-    [ "Reset", "d6/dce/a11748.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
-    [ "SpellHitTarget", "d6/dce/a11748.html#a38197746cc73ada1378e6e1a5555ef79", null ],
-    [ "UpdateAI", "d6/dce/a11748.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
-    [ "_hasDrunkPotion", "d6/dce/a11748.html#a25335533bc43171687e03f1ed22d4fb3", null ]
+    [ "boss_vanndarAI", "d6/dce/a11748.html#ada061b4363340602fd1f4744433d9cf9", null ],
+    [ "AttackStart", "d6/dce/a11748.html#a76ab9327e04b82b534a9b3ea59b377d1", null ],
+    [ "EnterEvadeMode", "d6/dce/a11748.html#a9ba6e2620a25728bf30d4d813a82b781", null ],
+    [ "JustEngagedWith", "d6/dce/a11748.html#abde00baf4099361b8c26e6e0cf6c1517", null ],
+    [ "Reset", "d6/dce/a11748.html#a1c2fdf4351a43047f02bec1d46423cb8", null ],
+    [ "UpdateAI", "d6/dce/a11748.html#ab410ed8d64cd91bd6c4b78b2ed678eab", null ],
+    [ "Attacked", "d6/dce/a11748.html#ac5994c76a9d84cf303021a9298673d68", null ],
+    [ "AvatarTimer", "d6/dce/a11748.html#a3bed38b10a87baf50e9c9a57229bd464", null ],
+    [ "ResetTimer", "d6/dce/a11748.html#ae1c4e16cd9ad68e4700d68ed64baa8e2", null ],
+    [ "StormboltTimer", "d6/dce/a11748.html#a71ef70c1b504be2b00be1a70e85bc18a", null ],
+    [ "ThunderclapTimer", "d6/dce/a11748.html#a681a103b6cf937dad3fb15e5be358c26", null ],
+    [ "YellTimer", "d6/dce/a11748.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3", null ]
 ];

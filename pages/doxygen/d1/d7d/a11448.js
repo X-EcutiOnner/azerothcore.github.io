@@ -1,12 +1,12 @@
 var a11448 =
 [
-    [ "wp_commandscript", "d1/d7d/a11448.html#a152610b5faf3ee05bb830bbf820b7162", null ],
-    [ "GetCommands", "d1/d7d/a11448.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
-    [ "HandleWpAddCommand", "d1/d7d/a11448.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
-    [ "HandleWpEventCommand", "d1/d7d/a11448.html#a16fdb79724677307198ccf2fd6aa670d", null ],
-    [ "HandleWpLoadCommand", "d1/d7d/a11448.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
-    [ "HandleWpModifyCommand", "d1/d7d/a11448.html#a83677a6b64c3e5f6e44345026775721a", null ],
-    [ "HandleWpReloadCommand", "d1/d7d/a11448.html#a671598d3727fa7e9358391008c690cb6", null ],
-    [ "HandleWpShowCommand", "d1/d7d/a11448.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
-    [ "HandleWpUnLoadCommand", "d1/d7d/a11448.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
+    [ "WardenMac", "d1/d7d/a11448.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
+    [ "~WardenMac", "d1/d7d/a11448.html#a5f3832580c73a0af34fa83669a92ceab", null ],
+    [ "GetModuleForClient", "d1/d7d/a11448.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
+    [ "HandleData", "d1/d7d/a11448.html#a024be47d39641cb0e7654b0e0999e444", null ],
+    [ "HandleHashResult", "d1/d7d/a11448.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
+    [ "Init", "d1/d7d/a11448.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
+    [ "InitializeModule", "d1/d7d/a11448.html#a4fceef34e83db1a357d9eadce35efdef", null ],
+    [ "RequestChecks", "d1/d7d/a11448.html#a2437a3a5650305b05fc22d312d0006da", null ],
+    [ "RequestHash", "d1/d7d/a11448.html#af031f18554c5a96b4eb39371a92b9c51", null ]
 ];

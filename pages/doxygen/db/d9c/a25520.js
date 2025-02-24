@@ -1,5 +1,8 @@
 var a25520 =
 [
-    [ "PrepareSpellScript", "db/d9c/a25520.html#a64c8a9156181a78dfcb413eedc47f0ed", null ],
-    [ "Register", "db/d9c/a25520.html#af8f8b5901a068bef3e2663809180b3e2", null ]
+    [ "HandleDummy", "db/d9c/a25520.html#a0604906219798bec87624f8179292317", null ],
+    [ "Load", "db/d9c/a25520.html#a99d0d9dd5818a9252536879a3a1dab66", null ],
+    [ "PrepareSpellScript", "db/d9c/a25520.html#a51602256218ee899b7391b2b7af0ee7b", null ],
+    [ "Register", "db/d9c/a25520.html#a7b065390e95c9673a28d1c49158766ff", null ],
+    [ "Validate", "db/d9c/a25520.html#a0bf9973fae74a700623805352908aa69", null ]
 ];

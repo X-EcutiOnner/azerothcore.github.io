@@ -1,13 +1,21 @@
 var a13400 =
 [
-    [ "npc_ravenclaw_apparitionAI", "d2/d94/a13400.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
-    [ "EmoteCrowd", "d2/d94/a13400.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
-    [ "JustDied", "d2/d94/a13400.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
-    [ "JustSummoned", "d2/d94/a13400.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
-    [ "SummonCrowd", "d2/d94/a13400.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
-    [ "UpdateAI", "d2/d94/a13400.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
-    [ "events", "d2/d94/a13400.html#a27522107b5e1f54909294f800f26663f", null ],
-    [ "HasEnded", "d2/d94/a13400.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
-    [ "summons", "d2/d94/a13400.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
-    [ "TalkRNG", "d2/d94/a13400.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
+    [ "npc_eris_hevenfireAI", "d2/d94/a13400.html#a07d91015d64f5d6ac5b78a6082e0280d", null ],
+    [ "CanBeSeen", "d2/d94/a13400.html#a16293cab0ff15d13675dcadc3050365f", null ],
+    [ "DoAction", "d2/d94/a13400.html#a982f2efef39ac47d2df6579676b25862", null ],
+    [ "JustSummoned", "d2/d94/a13400.html#a21f91de064bec6943aae5d710e6ec485", null ],
+    [ "Reset", "d2/d94/a13400.html#a0b328182914ca26786808b6fd2491619", null ],
+    [ "SetData", "d2/d94/a13400.html#a8c012a9c083921770980fb8c037d6ccc", null ],
+    [ "SetGUID", "d2/d94/a13400.html#ac637ff6ea69427f8120be1cf5bf353e3", null ],
+    [ "SummonArchers", "d2/d94/a13400.html#aa415baa9bff7c93c57f327b661689ac3", null ],
+    [ "SummonPeasants", "d2/d94/a13400.html#ab5a69679bad85ed42b2f408231781da9", null ],
+    [ "UpdateAI", "d2/d94/a13400.html#a3f3da888c1076f4f728157f7ba9edf1c", null ],
+    [ "_counter", "d2/d94/a13400.html#aa5f1374bbf98a613db266994b6640031", null ],
+    [ "_deathCount", "d2/d94/a13400.html#a258d870137c02dd74ff23b94cb3f90d1", null ],
+    [ "_faction", "d2/d94/a13400.html#a2b11d54ff39f568cf26845251a38a612", null ],
+    [ "_playerGUID", "d2/d94/a13400.html#a8ba92ce2b32b70e1275f551871d640fe", null ],
+    [ "_savedCount", "d2/d94/a13400.html#aef83dfb3c6c737af77b63b650fdf5749", null ],
+    [ "_spoken", "d2/d94/a13400.html#abe9dbd5111b73ac6c7bf336da98d06d1", null ],
+    [ "events", "d2/d94/a13400.html#a62dee89eca10f43af3051800e4a69c74", null ],
+    [ "summons", "d2/d94/a13400.html#a8d30f6f513ee7e195dbef56071f136fc", null ]
 ];

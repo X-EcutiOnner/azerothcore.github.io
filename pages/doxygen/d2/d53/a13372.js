@@ -1,6 +1,9 @@
 var a13372 =
 [
-    [ "npc_corporal_keeshanAI", "de/d04/a13376.html", "de/d04/a13376" ],
-    [ "npc_corporal_keeshan", "d2/d53/a13372.html#a0ca9459a7f283e040f14e0052762f587", null ],
-    [ "GetAI", "d2/d53/a13372.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
+    [ "npc_professor_phizzlethorpeAI", "d2/d53/a13372.html#a92af4732575008c1a4f061cef0f23902", null ],
+    [ "JustEngagedWith", "d2/d53/a13372.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
+    [ "JustSummoned", "d2/d53/a13372.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
+    [ "sQuestAccept", "d2/d53/a13372.html#ad4a4bd9af581abe832933da69b18d76f", null ],
+    [ "UpdateAI", "d2/d53/a13372.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
+    [ "WaypointReached", "d2/d53/a13372.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ]
 ];

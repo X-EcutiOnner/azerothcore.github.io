@@ -1,8 +1,10 @@
 var a07704 =
 [
-    [ "cancelTime", "dc/de8/a07704.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
-    [ "inProgress", "dc/de8/a07704.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
-    [ "reason", "dc/de8/a07704.html#a279a5575ca0956266ae81b7a165874cf", null ],
-    [ "victim", "dc/de8/a07704.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
-    [ "votes", "dc/de8/a07704.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
+    [ "Achievement", "dc/de8/a07704.html#a03caf33cfc9f75dfdbba2dedc747e0ce", null ],
+    [ "CharacterId", "dc/de8/a07704.html#a0ec541a4e11d9e19f7cced7e839b1ebb", null ],
+    [ "Criteria", "dc/de8/a07704.html#a4eae1ba9b211d8c8307000ddae428348", null ],
+    [ "Day", "dc/de8/a07704.html#a216aaf4eed90eeb05662631e8f89b4ab", null ],
+    [ "IsFinished", "dc/de8/a07704.html#a1aff3d0a28a12f0e4ee10bca376f335c", null ],
+    [ "Month", "dc/de8/a07704.html#a9be9cfb6a40c527e8f6b6ad381ed5b42", null ],
+    [ "Year", "dc/de8/a07704.html#a85612eac22d3233e620eb11e6e1b48b0", null ]
 ];

@@ -1,9 +1,9 @@
 var a01952 =
 [
-    [ "zm_beacon", "dd/dc1/a22402.html", "dd/dc1/a22402" ],
-    [ "OPvPCapturePointZM_Beacon", "d6/d1e/a22406.html", "d6/d1e/a22406" ],
-    [ "OPvPCapturePointZM_GraveYard", "d4/dca/a22410.html", "d4/dca/a22410" ],
-    [ "OutdoorPvPZM", "da/dd7/a22414.html", "da/dd7/a22414" ],
+    [ "zm_beacon", "d6/dd2/a22420.html", "d6/dd2/a22420" ],
+    [ "OPvPCapturePointZM_Beacon", "dd/db5/a22424.html", "dd/db5/a22424" ],
+    [ "OPvPCapturePointZM_Graveyard", "dc/d62/a22428.html", "dc/d62/a22428" ],
+    [ "OutdoorPvPZM", "d1/dc0/a22432.html", "d1/dc0/a22432" ],
     [ "OutdoorPvPZMSpells", "d4/dec/a01952.html#ac31cd7a23fe2f82e25ababd3a8b700a1", [
       [ "ZM_CAPTURE_BUFF", "d4/dec/a01952.html#ac31cd7a23fe2f82e25ababd3a8b700a1a5039b0bd2a7689f857a4ecc871d5b16d", null ],
       [ "ZM_BATTLE_STANDARD_A", "d4/dec/a01952.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5", null ],
@@ -44,10 +44,10 @@ var a01952 =
       [ "ZM_BEACON_WEST", "d4/dec/a01952.html#a8493feec67db9c938c31465f24f60fe1a36b102e6d45f41b4db14e889ffac46e2", null ],
       [ "ZM_NUM_BEACONS", "d4/dec/a01952.html#a8493feec67db9c938c31465f24f60fe1a9e566b7b7f64cae5ea6a37a289f16ce3", null ]
     ] ],
-    [ "ZM_GraveYardState", "d4/dec/a01952.html#a7f5994fe11cd4c05d90e61455885dca0", [
-      [ "ZM_GRAVEYARD_N", "d4/dec/a01952.html#a7f5994fe11cd4c05d90e61455885dca0a87f32a40b9ae4243e7977085b4dab7c0", null ],
-      [ "ZM_GRAVEYARD_A", "d4/dec/a01952.html#a7f5994fe11cd4c05d90e61455885dca0aef470c9322dded10641afcc6a153e329", null ],
-      [ "ZM_GRAVEYARD_H", "d4/dec/a01952.html#a7f5994fe11cd4c05d90e61455885dca0a115a6845b9e0fbabbef2f3e28599f065", null ]
+    [ "Zm_GraveyardState", "d4/dec/a01952.html#ad13518df9718347908929a97748d3636", [
+      [ "ZM_GRAVEYARD_N", "d4/dec/a01952.html#ad13518df9718347908929a97748d3636a87f32a40b9ae4243e7977085b4dab7c0", null ],
+      [ "ZM_GRAVEYARD_A", "d4/dec/a01952.html#ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329", null ],
+      [ "ZM_GRAVEYARD_H", "d4/dec/a01952.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065", null ]
     ] ],
     [ "ZM_TowerStateMask", "d4/dec/a01952.html#a5d44e96b24b1f1215d1b3788b212f11c", [
       [ "ZM_TOWERSTATE_N", "d4/dec/a01952.html#a5d44e96b24b1f1215d1b3788b212f11ca03d2918a6a9915b33da0f120feb7d5da", null ],

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::AnyPlayerExactPositionInGameObjectRangeCheck Class Reference</title>
+<title>AzerothCore: LoadedAreaData Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,155 +105,69 @@ $(document).ready(function(){initNavTree('dd/d59/a09076.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-types">Public Types</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../dd/dd5/a09073.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::AnyPlayerExactPositionInGameObjectRangeCheck Class Reference</div></div>
+  <div class="headertitle"><div class="title">LoadedAreaData Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">GridTerrainData.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a51100c20d5b7f795f062dfaa5aa65017"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a09076.html#a51100c20d5b7f795f062dfaa5aa65017">AnyPlayerExactPositionInGameObjectRangeCheck</a> (<a class="el" href="../../dc/d2e/a07920.html">GameObject</a> const *go, float range)</td></tr>
-<tr class="separator:a51100c20d5b7f795f062dfaa5aa65017"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0dd7216a026b7f90b293b2adf20a0191"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a09076.html#a0dd7216a026b7f90b293b2adf20a0191">operator()</a> (<a class="el" href="../../d1/d53/a08360.html">Player</a> *u)</td></tr>
-<tr class="separator:a0dd7216a026b7f90b293b2adf20a0191"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:a0ea8ea1ddb694a7e57c816f6b7d33ec6"><td class="memItemLeft" align="right" valign="top">typedef std::array&lt; <a class="el" href="../../d1/dce/a04559.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>, 16 *16 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a09076.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6">AreaMapType</a></td></tr>
+<tr class="separator:a0ea8ea1ddb694a7e57c816f6b7d33ec6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a70e0b15948cf34a7c759885949560dcd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d2e/a07920.html">GameObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a09076.html#a70e0b15948cf34a7c759885949560dcd">_go</a></td></tr>
-<tr class="separator:a70e0b15948cf34a7c759885949560dcd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad91342e50833e3b9d75c5e548248941f"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a09076.html#ad91342e50833e3b9d75c5e548248941f">_range</a></td></tr>
-<tr class="separator:ad91342e50833e3b9d75c5e548248941f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a37e8598e7a22dcb17637243fbeeecb0c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a09076.html#a37e8598e7a22dcb17637243fbeeecb0c">gridArea</a></td></tr>
+<tr class="separator:a37e8598e7a22dcb17637243fbeeecb0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a21673b134ee6b5fb20bab06c3e1b2238"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../dd/d59/a09076.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6">AreaMapType</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d59/a09076.html#a21673b134ee6b5fb20bab06c3e1b2238">areaMap</a></td></tr>
+<tr class="separator:a21673b134ee6b5fb20bab06c3e1b2238"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a51100c20d5b7f795f062dfaa5aa65017" name="a51100c20d5b7f795f062dfaa5aa65017"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a51100c20d5b7f795f062dfaa5aa65017">&#9670;&#160;</a></span>AnyPlayerExactPositionInGameObjectRangeCheck()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a0ea8ea1ddb694a7e57c816f6b7d33ec6" name="a0ea8ea1ddb694a7e57c816f6b7d33ec6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ea8ea1ddb694a7e57c816f6b7d33ec6">&#9670;&#160;</a></span>AreaMapType</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Acore::AnyPlayerExactPositionInGameObjectRangeCheck::AnyPlayerExactPositionInGameObjectRangeCheck </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d2e/a07920.html">GameObject</a> const *&#160;</td>
-          <td class="paramname"><em>go</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>range</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">typedef std::array&lt;<a class="el" href="../../d1/dce/a04559.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>, 16 * 16&gt; <a class="el" href="../../dd/d59/a09076.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6">LoadedAreaData::AreaMapType</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1390</span>: <a class="code hl_variable" href="../../dd/d59/a09076.html#a70e0b15948cf34a7c759885949560dcd">_go</a>(go), <a class="code hl_variable" href="../../dd/d59/a09076.html#ad91342e50833e3b9d75c5e548248941f">_range</a>(range) {}</div>
-<div class="ttc" id="aa09076_html_a70e0b15948cf34a7c759885949560dcd"><div class="ttname"><a href="../../dd/d59/a09076.html#a70e0b15948cf34a7c759885949560dcd">Acore::AnyPlayerExactPositionInGameObjectRangeCheck::_go</a></div><div class="ttdeci">GameObject const  * _go</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1400</div></div>
-<div class="ttc" id="aa09076_html_ad91342e50833e3b9d75c5e548248941f"><div class="ttname"><a href="../../dd/d59/a09076.html#ad91342e50833e3b9d75c5e548248941f">Acore::AnyPlayerExactPositionInGameObjectRangeCheck::_range</a></div><div class="ttdeci">float _range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1401</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a0dd7216a026b7f90b293b2adf20a0191" name="a0dd7216a026b7f90b293b2adf20a0191"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0dd7216a026b7f90b293b2adf20a0191">&#9670;&#160;</a></span>operator()()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool Acore::AnyPlayerExactPositionInGameObjectRangeCheck::operator() </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d53/a08360.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>u</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1392</span>        {</div>
-<div class="line"><span class="lineno"> 1393</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dd/d59/a09076.html#a70e0b15948cf34a7c759885949560dcd">_go</a>-&gt;<a class="code hl_function" href="../../dc/d2e/a07920.html#a745a0423be225a755ce40f93a6f0284c">IsInRange</a>(u-&gt;<a class="code hl_function" href="../../dc/d3b/a08192.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), u-&gt;<a class="code hl_function" href="../../dc/d3b/a08192.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), u-&gt;<a class="code hl_function" href="../../dc/d3b/a08192.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>(), <a class="code hl_variable" href="../../dd/d59/a09076.html#ad91342e50833e3b9d75c5e548248941f">_range</a>))</div>
-<div class="line"><span class="lineno"> 1394</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1395</span> </div>
-<div class="line"><span class="lineno"> 1396</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1397</span>        }</div>
-<div class="ttc" id="aa07920_html_a745a0423be225a755ce40f93a6f0284c"><div class="ttname"><a href="../../dc/d2e/a07920.html#a745a0423be225a755ce40f93a6f0284c">GameObject::IsInRange</a></div><div class="ttdeci">bool IsInRange(float x, float y, float z, float radius) const</div><div class="ttdef"><b>Definition:</b> GameObject.cpp:2158</div></div>
-<div class="ttc" id="aa08192_html_a4e813a59345a6275e8b87b96be03e60b"><div class="ttname"><a href="../../dc/d3b/a08192.html#a4e813a59345a6275e8b87b96be03e60b">Position::GetPositionZ</a></div><div class="ttdeci">float GetPositionZ() const</div><div class="ttdef"><b>Definition:</b> Position.h:119</div></div>
-<div class="ttc" id="aa08192_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../dc/d3b/a08192.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition:</b> Position.h:117</div></div>
-<div class="ttc" id="aa08192_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../dc/d3b/a08192.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:118</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01400">_go</a>, <a class="el" href="../../#l01401">_range</a>, <a class="el" href="../../#l00117">Position::GetPositionX()</a>, <a class="el" href="../../#l00118">Position::GetPositionY()</a>, <a class="el" href="../../#l00119">Position::GetPositionZ()</a>, and <a class="el" href="../../#l02158">GameObject::IsInRange()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a70e0b15948cf34a7c759885949560dcd" name="a70e0b15948cf34a7c759885949560dcd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a70e0b15948cf34a7c759885949560dcd">&#9670;&#160;</a></span>_go</h2>
+<a id="a21673b134ee6b5fb20bab06c3e1b2238" name="a21673b134ee6b5fb20bab06c3e1b2238"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a21673b134ee6b5fb20bab06c3e1b2238">&#9670;&#160;</a></span>areaMap</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d2e/a07920.html">GameObject</a> const* Acore::AnyPlayerExactPositionInGameObjectRangeCheck::_go</td>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../dd/d59/a09076.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6">AreaMapType</a>&gt; LoadedAreaData::areaMap</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01391">operator()()</a>.</p>
-
 </div>
 </div>
-<a id="ad91342e50833e3b9d75c5e548248941f" name="ad91342e50833e3b9d75c5e548248941f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad91342e50833e3b9d75c5e548248941f">&#9670;&#160;</a></span>_range</h2>
+<a id="a37e8598e7a22dcb17637243fbeeecb0c" name="a37e8598e7a22dcb17637243fbeeecb0c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a37e8598e7a22dcb17637243fbeeecb0c">&#9670;&#160;</a></span>gridArea</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float Acore::AnyPlayerExactPositionInGameObjectRangeCheck::_range</td>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> LoadedAreaData::gridArea</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01391">operator()()</a>.</p>
 
 </div>
 </div>
@@ -262,8 +176,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d5/d43/a04668.html">Acore</a></li><li class="navelem"><a class="el" href="../../dd/d59/a09076.html">AnyPlayerExactPositionInGameObjectRangeCheck</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:44:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/d59/a09076.html">LoadedAreaData</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:44:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,8 +1,6 @@
 var a20084 =
 [
-    [ "npc_ulduar_flash_freezeAI", "d8/def/a20084.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
-    [ "DamageTaken", "d8/def/a20084.html#af0c18460b4cc331f51c44a3306f516b8", null ],
-    [ "UpdateAI", "d8/def/a20084.html#ab2efa0a8d06297bff05502c40079efe9", null ],
-    [ "pInstance", "d8/def/a20084.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
-    [ "timer", "d8/def/a20084.html#a590117afe9e9943d8dc8a44af9386066", null ]
+    [ "DestroyWinterCache", "d8/def/a20084.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "d8/def/a20084.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "d8/def/a20084.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

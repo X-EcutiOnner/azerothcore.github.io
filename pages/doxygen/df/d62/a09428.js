@@ -1,8 +1,8 @@
 var a09428 =
 [
-    [ "EllipseBoundary", "df/d62/a09428.html#aeb8c822a8c4c745de0c848721a624545", null ],
-    [ "IsWithinBoundaryArea", "df/d62/a09428.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
-    [ "_center", "df/d62/a09428.html#aa84bae8bced77e38fec652e473cf39c7", null ],
-    [ "_radiusYSq", "df/d62/a09428.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
-    [ "_scaleXSq", "df/d62/a09428.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
+    [ "AllWorldObjectsInExactRange", "df/d62/a09428.html#a0281d22587b9b1bdbfbdd8dccc625186", null ],
+    [ "operator()", "df/d62/a09428.html#afe0bea69ddd5e275363361bf37284840", null ],
+    [ "_equals", "df/d62/a09428.html#aebb4cb9e84cf91cca235fe663dba8d60", null ],
+    [ "_object", "df/d62/a09428.html#a5fba0e3c7cde76bfe56f8e9e9716412b", null ],
+    [ "_range", "df/d62/a09428.html#ae40de8ce49bb429243e5059b6d14398f", null ]
 ];

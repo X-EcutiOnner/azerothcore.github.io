@@ -1,12 +1,7 @@
 var a13376 =
 [
-    [ "npc_corporal_keeshanAI", "de/d04/a13376.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
-    [ "Reset", "de/d04/a13376.html#a311488932a3de9153490d41e3fae92fb", null ],
-    [ "sQuestAccept", "de/d04/a13376.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
-    [ "UpdateAI", "de/d04/a13376.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
-    [ "WaypointReached", "de/d04/a13376.html#a3edc9ab54068e47f955116db70454f6c", null ],
-    [ "mockingBlowTimer", "de/d04/a13376.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
-    [ "phase", "de/d04/a13376.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
-    [ "shieldBashTimer", "de/d04/a13376.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
-    [ "timer", "de/d04/a13376.html#a3107368f175aa7f4e8c405248ef917df", null ]
+    [ "HandleScriptEffect", "de/d04/a13376.html#aa537704c2066df4f5b4c60a775026a83", null ],
+    [ "PrepareSpellScript", "de/d04/a13376.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
+    [ "Register", "de/d04/a13376.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
+    [ "Validate", "de/d04/a13376.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
 ];

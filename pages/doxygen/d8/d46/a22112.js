@@ -1,6 +1,6 @@
 var a22112 =
 [
-    [ "npc_mcmanus", "d8/d46/a22112.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "d8/d46/a22112.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "d8/d46/a22112.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "npc_wild_wyrmAI", "d9/d90/a22116.html", "d9/d90/a22116" ],
+    [ "npc_wild_wyrm", "d8/d46/a22112.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
+    [ "GetAI", "d8/d46/a22112.html#aedba91446fe12997047070f123d925d2", null ]
 ];

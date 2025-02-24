@@ -1,6 +1,5 @@
 var a15692 =
 [
-    [ "HandlePeriodic", "d8/d7d/a15692.html#ad22b433005b2678bde3516a01eaaaa60", null ],
-    [ "PrepareAuraScript", "d8/d7d/a15692.html#a3711004edaef7242d9cae1f23f9b7467", null ],
-    [ "Register", "d8/d7d/a15692.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
+    [ "achievement_volunteer_work", "d8/d7d/a15692.html#a43db6e553b370f139ac376840fdf6d70", null ],
+    [ "OnCheck", "d8/d7d/a15692.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
 ];

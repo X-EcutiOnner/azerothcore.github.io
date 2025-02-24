@@ -1,6 +1,7 @@
 var a19972 =
 [
-    [ "boss_freya_healthy_sporeAI", "d6/dec/a19976.html", "d6/dec/a19976" ],
-    [ "boss_freya_healthy_spore", "d3/d79/a19972.html#a16633136393061aa98c7a98f535d421e", null ],
-    [ "GetAI", "d3/d79/a19972.html#ae76eb3b334f82c536f71fdcfc86e4382", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "d3/d79/a19972.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
+    [ "IsSummonedBy", "d3/d79/a19972.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
+    [ "JustDied", "d3/d79/a19972.html#a5be637500e7b5735d90e19fa40fde467", null ],
+    [ "pInstance", "d3/d79/a19972.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
 ];

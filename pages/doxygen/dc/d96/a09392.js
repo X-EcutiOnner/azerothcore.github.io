@@ -1,10 +1,8 @@
 var a09392 =
 [
-    [ "MailReceiver", "dc/d96/a09392.html#a6fba3ff0ab3167197f569631d766ce14", null ],
-    [ "MailReceiver", "dc/d96/a09392.html#af0b094a704463ed76b1c08bc3cab0380", null ],
-    [ "MailReceiver", "dc/d96/a09392.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
-    [ "GetPlayer", "dc/d96/a09392.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
-    [ "GetPlayerGUIDLow", "dc/d96/a09392.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
-    [ "m_receiver", "dc/d96/a09392.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
-    [ "m_receiver_lowguid", "dc/d96/a09392.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
+    [ "AllCreaturesOfEntryInRange", "dc/d96/a09392.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
+    [ "operator()", "dc/d96/a09392.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
+    [ "m_fRange", "dc/d96/a09392.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
+    [ "m_pObject", "dc/d96/a09392.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
+    [ "m_uiEntry", "dc/d96/a09392.html#abf653360d2ee482728fb137a37fe0512", null ]
 ];

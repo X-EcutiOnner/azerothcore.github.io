@@ -1,4 +1,6 @@
 var a10516 =
 [
-    [ "InvalidUtf8ValueException", "db/d2e/a10516.html#ad629b46d769fbf8784ce3c4a04c1f121", null ]
+    [ "GuildUpdateMotdText", "db/d2e/a10516.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
+    [ "Read", "db/d2e/a10516.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
+    [ "MotdText", "db/d2e/a10516.html#a5b2ee458a919be7f912d49cf984490ac", null ]
 ];

@@ -1,9 +1,10 @@
 var a07960 =
 [
-    [ "PetInfo", "d6/dfb/a07964.html", "d6/dfb/a07964" ],
-    [ "GetUnslottedHunterPet", "d4/d33/a07960.html#a4e0e22a135703c989976694a32912cbd", null ],
-    [ "CurrentPet", "d4/d33/a07960.html#a7a9f76452985abc65560773ac413208f", null ],
-    [ "MaxStabledPets", "d4/d33/a07960.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
-    [ "StabledPets", "d4/d33/a07960.html#a6bd064e692fff316581d08680b163026", null ],
-    [ "UnslottedPets", "d4/d33/a07960.html#a8e6f6e36722dd883e6df962a1e950346", null ]
+    [ "AssistDelayEvent", "d4/d33/a07960.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
+    [ "AssistDelayEvent", "d4/d33/a07960.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
+    [ "AddAssistant", "d4/d33/a07960.html#a987303ec41927528e9a5abfd9ab75512", null ],
+    [ "Execute", "d4/d33/a07960.html#a5afd295abeb1295e43f48b8951b24c35", null ],
+    [ "m_assistants", "d4/d33/a07960.html#ac6de6befda582bd38f92afda01204e94", null ],
+    [ "m_owner", "d4/d33/a07960.html#aabcce364c8009e8172b9d090059ce48c", null ],
+    [ "m_victim", "d4/d33/a07960.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
 ];

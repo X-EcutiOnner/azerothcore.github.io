@@ -1,9 +1,7 @@
 var a13484 =
 [
-    [ "npc_thrall_bfuAI", "d9/dd0/a13488.html", "d9/dd0/a13488" ],
-    [ "npc_thrall_bfu", "d8/d3c/a13484.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
-    [ "GetAI", "d8/d3c/a13484.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
-    [ "OnGossipHello", "d8/d3c/a13484.html#a71a7108464de9245879c8a1c08932e2a", null ],
-    [ "OnGossipSelect", "d8/d3c/a13484.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
-    [ "OnQuestReward", "d8/d3c/a13484.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
+    [ "npc_greengill_slaveAI", "d8/d3c/a13484.html#a1a4268b745e63992f4d0fc2028b717aa", null ],
+    [ "JustEngagedWith", "d8/d3c/a13484.html#ad7fcb8c711782d3a76e9e4566334fc21", null ],
+    [ "SpellHit", "d8/d3c/a13484.html#a0e75a3e8eb3503fdb3aea12e65ccc6e4", null ],
+    [ "UpdateAI", "d8/d3c/a13484.html#a6fa27328cf47bef81c3465b8a3e2ace1", null ]
 ];

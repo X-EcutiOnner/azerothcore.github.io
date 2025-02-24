@@ -1,6 +1,6 @@
 var a26048 =
 [
-    [ "CalculateAmount", "d7/d67/a26048.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
-    [ "PrepareAuraScript", "d7/d67/a26048.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
-    [ "Register", "d7/d67/a26048.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
+    [ "HandleAfterHit", "d7/d67/a26048.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
+    [ "PrepareSpellScript", "d7/d67/a26048.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
+    [ "Register", "d7/d67/a26048.html#a2a780069022e62b14992a7b69626ac3d", null ]
 ];

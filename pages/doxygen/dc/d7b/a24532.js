@@ -1,7 +1,6 @@
 var a24532 =
 [
-    [ "CheckClass", "dc/d7b/a24532.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
-    [ "HandleScript", "dc/d7b/a24532.html#a4f4f7004be5629efdc48b52b6667edba", null ],
-    [ "PrepareSpellScript", "dc/d7b/a24532.html#a599ce758681c5196bd40e4c7b86635cc", null ],
-    [ "Register", "dc/d7b/a24532.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
+    [ "CheckProc", "dc/d7b/a24532.html#a1b7b855383b04bd1b627c6f1e33ad7a5", null ],
+    [ "PrepareAuraScript", "dc/d7b/a24532.html#a204655e4eea1cf8694c62ddae6d5a760", null ],
+    [ "Register", "dc/d7b/a24532.html#a23e8088d6d9626ec4c3f8fc6e66c1e24", null ]
 ];

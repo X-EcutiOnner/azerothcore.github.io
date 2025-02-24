@@ -1,9 +1,10 @@
 var a11308 =
 [
-    [ "event_commandscript", "d6/d96/a11308.html#a160db0ad8874b0834ef863043b1796ae", null ],
-    [ "GetCommands", "d6/d96/a11308.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
-    [ "HandleEventActiveListCommand", "d6/d96/a11308.html#a6752be35103bb585984083a449c85714", null ],
-    [ "HandleEventInfoCommand", "d6/d96/a11308.html#a1f0815bccd6cef61826ada4e349708d9", null ],
-    [ "HandleEventStartCommand", "d6/d96/a11308.html#ad46dbd8892db3548d889d4127461c8e3", null ],
-    [ "HandleEventStopCommand", "d6/d96/a11308.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
+    [ "CustomChatTextBuilder", "d6/d96/a11308.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "d6/d96/a11308.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "d6/d96/a11308.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "d6/d96/a11308.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "d6/d96/a11308.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "d6/d96/a11308.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "d6/d96/a11308.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

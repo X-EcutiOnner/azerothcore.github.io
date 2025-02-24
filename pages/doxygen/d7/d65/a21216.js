@@ -1,6 +1,6 @@
 var a21216 =
 [
-    [ "boss_toravonAI", "df/dab/a21220.html", "df/dab/a21220" ],
-    [ "boss_toravon", "d7/d65/a21216.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
-    [ "GetAI", "d7/d65/a21216.html#a6db140b1d232312300e20155830cb249", null ]
+    [ "boss_zuramatAI", "df/dab/a21220.html", "df/dab/a21220" ],
+    [ "boss_zuramat", "d7/d65/a21216.html#a1d169e786dcf846026b48d9be389f9ab", null ],
+    [ "GetAI", "d7/d65/a21216.html#a1008c053a2c9ad14cf9ce994db931670", null ]
 ];

@@ -1,7 +1,7 @@
 var a24852 =
 [
-    [ "CheckProc", "dd/dd5/a24852.html#ab376febda606dba5e9f7f5639f867859", null ],
-    [ "HandleProc", "dd/dd5/a24852.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
-    [ "PrepareAuraScript", "dd/dd5/a24852.html#a7693a86824050ff5615996d0d03d0292", null ],
-    [ "Register", "dd/dd5/a24852.html#a458745913288889f687bb19a147cb0fb", null ]
+    [ "HandleProc", "dd/dd5/a24852.html#af768269d315e998fc2042794c3a03b58", null ],
+    [ "PrepareAuraScript", "dd/dd5/a24852.html#ae3da67d626ee11c57a85a3af99ff07a5", null ],
+    [ "Register", "dd/dd5/a24852.html#a2df1cff47861cbf3198e573c6031b54e", null ],
+    [ "Validate", "dd/dd5/a24852.html#a84f40eec148c55108085db5e7b05cb0e", null ]
 ];

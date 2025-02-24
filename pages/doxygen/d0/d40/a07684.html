@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: lfg::LfgPlayerRewardData Struct Reference</title>
+<title>AzerothCore: LinkValidator&lt; LinkTags::spell &gt; Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,35 +105,23 @@ $(document).ready(function(){initNavTree('d0/d40/a07684.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../db/db9/a07681.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">lfg::LfgPlayerRewardData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">LinkValidator&lt; LinkTags::spell &gt; Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">LFGMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:afe99288f8d7028a5a54317e73e3f2c01"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d40/a07684.html#afe99288f8d7028a5a54317e73e3f2c01">LfgPlayerRewardData</a> (<a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> random, <a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> current, bool _done, <a class="el" href="../../d4/d4e/a09884.html">Quest</a> const *_quest)</td></tr>
-<tr class="separator:afe99288f8d7028a5a54317e73e3f2c01"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a87623ce14ef1d123d226e37e227a566d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d40/a07684.html#a87623ce14ef1d123d226e37e227a566d">rdungeonEntry</a></td></tr>
-<tr class="separator:a87623ce14ef1d123d226e37e227a566d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abe9c93ab7f3a421dd3c44414a0987277"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d40/a07684.html#abe9c93ab7f3a421dd3c44414a0987277">sdungeonEntry</a></td></tr>
-<tr class="separator:abe9c93ab7f3a421dd3c44414a0987277"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a91ba12acf66d631af2de45513f20b702"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d40/a07684.html#a91ba12acf66d631af2de45513f20b702">done</a></td></tr>
-<tr class="separator:a91ba12acf66d631af2de45513f20b702"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abd051091fec6835f63bafa98a045142b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d4e/a09884.html">Quest</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d40/a07684.html#abd051091fec6835f63bafa98a045142b">quest</a></td></tr>
-<tr class="separator:abd051091fec6835f63bafa98a045142b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a54af0b68fa7891adbc3001c74e251ea1"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d40/a07684.html#a54af0b68fa7891adbc3001c74e251ea1">IsTextValid</a> (<a class="el" href="../../de/dba/a11116.html">SpellInfo</a> const *info, std::string_view text)</td></tr>
+<tr class="separator:a54af0b68fa7891adbc3001c74e251ea1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a816b3afba97af88a04cd5a724e9b663c"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d40/a07684.html#a816b3afba97af88a04cd5a724e9b663c">IsColorValid</a> (<a class="el" href="../../de/dba/a11116.html">SpellInfo</a> const *, <a class="el" href="../../d2/d59/a07764.html">HyperlinkColor</a> c)</td></tr>
+<tr class="separator:a816b3afba97af88a04cd5a724e9b663c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="afe99288f8d7028a5a54317e73e3f2c01" name="afe99288f8d7028a5a54317e73e3f2c01"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afe99288f8d7028a5a54317e73e3f2c01">&#9670;&#160;</a></span>LfgPlayerRewardData()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a816b3afba97af88a04cd5a724e9b663c" name="a816b3afba97af88a04cd5a724e9b663c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a816b3afba97af88a04cd5a724e9b663c">&#9670;&#160;</a></span>IsColorValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -142,28 +130,16 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">lfg::LfgPlayerRewardData::LfgPlayerRewardData </td>
+          <td class="memname">static bool <a class="el" href="../../db/d04/a07668.html">LinkValidator</a>&lt; <a class="el" href="../../d7/d60/a07752.html">LinkTags::spell</a> &gt;::IsColorValid </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>random</em>, </td>
+          <td class="paramtype"><a class="el" href="../../de/dba/a11116.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>current</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>_done</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/d4e/a09884.html">Quest</a> const *&#160;</td>
-          <td class="paramname"><em>_quest</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d2/d59/a07764.html">HyperlinkColor</a>&#160;</td>
+          <td class="paramname"><em>c</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -173,81 +149,62 @@ Public Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  325</span>                                                                                           :</div>
-<div class="line"><span class="lineno">  326</span>            <a class="code hl_variable" href="../../d0/d40/a07684.html#a87623ce14ef1d123d226e37e227a566d">rdungeonEntry</a>(random), <a class="code hl_variable" href="../../d0/d40/a07684.html#abe9c93ab7f3a421dd3c44414a0987277">sdungeonEntry</a>(current), <a class="code hl_variable" href="../../d0/d40/a07684.html#a91ba12acf66d631af2de45513f20b702">done</a>(_done), <a class="code hl_variable" href="../../d0/d40/a07684.html#abd051091fec6835f63bafa98a045142b">quest</a>(_quest) { }</div>
-<div class="ttc" id="aa07684_html_a87623ce14ef1d123d226e37e227a566d"><div class="ttname"><a href="../../d0/d40/a07684.html#a87623ce14ef1d123d226e37e227a566d">lfg::LfgPlayerRewardData::rdungeonEntry</a></div><div class="ttdeci">uint32 rdungeonEntry</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:327</div></div>
-<div class="ttc" id="aa07684_html_a91ba12acf66d631af2de45513f20b702"><div class="ttname"><a href="../../d0/d40/a07684.html#a91ba12acf66d631af2de45513f20b702">lfg::LfgPlayerRewardData::done</a></div><div class="ttdeci">bool done</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:329</div></div>
-<div class="ttc" id="aa07684_html_abd051091fec6835f63bafa98a045142b"><div class="ttname"><a href="../../d0/d40/a07684.html#abd051091fec6835f63bafa98a045142b">lfg::LfgPlayerRewardData::quest</a></div><div class="ttdeci">Quest const  * quest</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:330</div></div>
-<div class="ttc" id="aa07684_html_abe9c93ab7f3a421dd3c44414a0987277"><div class="ttname"><a href="../../d0/d40/a07684.html#abe9c93ab7f3a421dd3c44414a0987277">lfg::LfgPlayerRewardData::sdungeonEntry</a></div><div class="ttdeci">uint32 sdungeonEntry</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:328</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  230</span>    {</div>
+<div class="line"><span class="lineno">  231</span>        <span class="keywordflow">return</span> c == <a class="code hl_enumvalue" href="../../d4/d3a/a00101.html#aff4462a11392766622feb9f20463ffb6a56dac043536cc715837469acf48edda1">CHAT_LINK_COLOR_SPELL</a>;</div>
+<div class="line"><span class="lineno">  232</span>    }</div>
+<div class="ttc" id="aa00101_html_aff4462a11392766622feb9f20463ffb6a56dac043536cc715837469acf48edda1"><div class="ttname"><a href="../../d4/d3a/a00101.html#aff4462a11392766622feb9f20463ffb6a56dac043536cc715837469acf48edda1">CHAT_LINK_COLOR_SPELL</a></div><div class="ttdeci">@ CHAT_LINK_COLOR_SPELL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3212</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l03212">CHAT_LINK_COLOR_SPELL</a>.</p>
+
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a91ba12acf66d631af2de45513f20b702" name="a91ba12acf66d631af2de45513f20b702"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a91ba12acf66d631af2de45513f20b702">&#9670;&#160;</a></span>done</h2>
+<a id="a54af0b68fa7891adbc3001c74e251ea1" name="a54af0b68fa7891adbc3001c74e251ea1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a54af0b68fa7891adbc3001c74e251ea1">&#9670;&#160;</a></span>IsTextValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool lfg::LfgPlayerRewardData::done</td>
+          <td class="memname">static bool <a class="el" href="../../db/d04/a07668.html">LinkValidator</a>&lt; <a class="el" href="../../d7/d60/a07752.html">LinkTags::spell</a> &gt;::IsTextValid </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/dba/a11116.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>info</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00469">WorldSession::SendLfgPlayerReward()</a>.</p>
-
-</div>
-</div>
-<a id="abd051091fec6835f63bafa98a045142b" name="abd051091fec6835f63bafa98a045142b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abd051091fec6835f63bafa98a045142b">&#9670;&#160;</a></span>quest</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/d4e/a09884.html">Quest</a> const* lfg::LfgPlayerRewardData::quest</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>text</em>&#160;</td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00469">WorldSession::SendLfgPlayerReward()</a>.</p>
-
-</div>
-</div>
-<a id="a87623ce14ef1d123d226e37e227a566d" name="a87623ce14ef1d123d226e37e227a566d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a87623ce14ef1d123d226e37e227a566d">&#9670;&#160;</a></span>rdungeonEntry</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> lfg::LfgPlayerRewardData::rdungeonEntry</td>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00469">WorldSession::SendLfgPlayerReward()</a>.</p>
-
-</div>
-</div>
-<a id="abe9c93ab7f3a421dd3c44414a0987277" name="abe9c93ab7f3a421dd3c44414a0987277"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abe9c93ab7f3a421dd3c44414a0987277">&#9670;&#160;</a></span>sdungeonEntry</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> lfg::LfgPlayerRewardData::sdungeonEntry</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00469">WorldSession::SendLfgPlayerReward()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  222</span>    {</div>
+<div class="line"><span class="lineno">  223</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d0/da8/a04547.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>; ++i)</div>
+<div class="line"><span class="lineno">  224</span>            <span class="keywordflow">if</span> (text == info-&gt;SpellName[i])</div>
+<div class="line"><span class="lineno">  225</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  226</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  227</span>    }</div>
+<div class="ttc" id="aa04547_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../d0/da8/a04547.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:76</div></div>
+<div class="ttc" id="aa04559_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00383">SpellInfo::SpellName</a>, and <a class="el" href="../../#l00076">TOTAL_LOCALES</a>.</p>
 
 </div>
 </div>
@@ -256,8 +213,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/d6d/a04713.html">lfg</a></li><li class="navelem"><a class="el" href="../../d0/d40/a07684.html">LfgPlayerRewardData</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:44:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/d40/a07684.html">LinkValidator&lt; LinkTags::spell &gt;</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:44:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

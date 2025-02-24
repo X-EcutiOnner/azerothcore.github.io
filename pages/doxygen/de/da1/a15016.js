@@ -1,15 +1,15 @@
 var a15016 =
 [
-    [ "boss_viscidus", "de/da1/a15016.html#a41dd3ce982a180a2ad415b559508f0ff", null ],
-    [ "CheckInRoom", "de/da1/a15016.html#a528a368eceb55cc7d41d615c6c1ebf15", null ],
-    [ "DamageTaken", "de/da1/a15016.html#adb41e6f64c1fe61cf623539353b0c959", null ],
-    [ "InitSpells", "de/da1/a15016.html#a24357bfc552ecb5205e50241cadb05f4", null ],
-    [ "JustEngagedWith", "de/da1/a15016.html#a7dfb0ba7d90697d3deac263249cfa977", null ],
-    [ "Reset", "de/da1/a15016.html#ac9153bd98e4c39b63547c3a9a8798d80", null ],
-    [ "SoftReset", "de/da1/a15016.html#ad2b4c6835ff113e4a538024f02ff968e", null ],
-    [ "SpellHit", "de/da1/a15016.html#a43df1ee33d5a9b4794b246ce680a6318", null ],
-    [ "SummonedCreatureDies", "de/da1/a15016.html#a6a52391b49ba3501a1bb5e8c55f07683", null ],
-    [ "UpdateAI", "de/da1/a15016.html#a1a194c161b485d2abbb862506b6c239f", null ],
-    [ "_hitcounter", "de/da1/a15016.html#a12ee60a91dab2f95aab6e9914351344a", null ],
-    [ "_phase", "de/da1/a15016.html#a321f1f96af51d3d70de0cca89512d965", null ]
+    [ "boss_skeram", "de/da1/a15016.html#a293710a88c91a181ee1000939386e176", null ],
+    [ "DoTeleport", "de/da1/a15016.html#a96166ddebd5906868b872c39a6755a70", null ],
+    [ "EnterEvadeMode", "de/da1/a15016.html#ab050e31d661c8c089d175de231b0eeb2", null ],
+    [ "JustDied", "de/da1/a15016.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
+    [ "JustEngagedWith", "de/da1/a15016.html#a07bba9a1a62ad9ad15b9cd42b5d5b3d3", null ],
+    [ "JustSummoned", "de/da1/a15016.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
+    [ "KilledUnit", "de/da1/a15016.html#a185cb6686d37e064278260ebe5fae13a", null ],
+    [ "Reset", "de/da1/a15016.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
+    [ "UpdateAI", "de/da1/a15016.html#aaf29331e0fac71479747d62fd9f1e301", null ],
+    [ "_copiesGUIDs", "de/da1/a15016.html#a28f1465938dc2141779d5171ea09ecd0", null ],
+    [ "_flag", "de/da1/a15016.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
+    [ "_hpct", "de/da1/a15016.html#a5c8760788264a9a04a28c05a0247676c", null ]
 ];

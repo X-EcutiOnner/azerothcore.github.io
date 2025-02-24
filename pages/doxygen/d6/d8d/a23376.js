@@ -1,7 +1,7 @@
 var a23376 =
 [
-    [ "HandleScript", "d6/d8d/a23376.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
-    [ "PrepareSpellScript", "d6/d8d/a23376.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
-    [ "Register", "d6/d8d/a23376.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
-    [ "Validate", "d6/d8d/a23376.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
+    [ "boss_the_maker", "d6/d8d/a23376.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
+    [ "JustDied", "d6/d8d/a23376.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
+    [ "JustEngagedWith", "d6/d8d/a23376.html#a6b0a4442dbabde69ca9352017ee23675", null ],
+    [ "KilledUnit", "d6/d8d/a23376.html#a40643ca00fe7d7029a291335e47c722a", null ]
 ];

@@ -1,6 +1,7 @@
 var a12232 =
 [
-    [ "spell_gnomeregan_radiation_bolt_SpellScript", "d8/d99/a12236.html", "d8/d99/a12236" ],
-    [ "spell_gnomeregan_radiation_bolt", "d0/dae/a12232.html#a572b64b0f8bed7c5393c59d4119e5c3f", null ],
-    [ "GetSpellScript", "d0/dae/a12232.html#a1a3b4afde75e1299a33e95163147dde4", null ]
+    [ "HandleDummy", "d0/dae/a12232.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
+    [ "PrepareSpellScript", "d0/dae/a12232.html#a5308de47023b89e4ff8680158a502ac0", null ],
+    [ "Register", "d0/dae/a12232.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
+    [ "Validate", "d0/dae/a12232.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
 ];

@@ -1,8 +1,10 @@
 var a04984 =
 [
-    [ "MeshTriangle", "d8/d36/a04984.html#af99ecf0b02af73e6727095df1dce8422", null ],
-    [ "MeshTriangle", "d8/d36/a04984.html#a36109fc79a9ca9c6bf19959fd1493e60", null ],
-    [ "idx0", "d8/d36/a04984.html#aed1048a2b6745215a7b8f70dec378371", null ],
-    [ "idx1", "d8/d36/a04984.html#a560bb163f63ff7202aade4d115f31664", null ],
-    [ "idx2", "d8/d36/a04984.html#ac939c5e66526c67c067288b9d6484cac", null ]
+    [ "AreaInfo", "d8/d36/a04984.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
+    [ "adtId", "d8/d36/a04984.html#a95c1c986b14dfeba867fa55e77553499", null ],
+    [ "flags", "d8/d36/a04984.html#a780bdbb606fe694941d2105e14a29d70", null ],
+    [ "ground_Z", "d8/d36/a04984.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
+    [ "groupId", "d8/d36/a04984.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
+    [ "result", "d8/d36/a04984.html#ab9e9a7658d5fb76be208835f786036b0", null ],
+    [ "rootId", "d8/d36/a04984.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
 ];

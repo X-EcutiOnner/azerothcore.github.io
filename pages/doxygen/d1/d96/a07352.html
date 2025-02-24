@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Impl::ChatCommands::ArgInfo&lt; T, std::enable_if_t&lt; std::is_enum_v&lt; T &gt; &gt; &gt; Struct Template Reference</title>
+<title>AzerothCore: BattlegroundEY::CapturePointInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,68 +105,50 @@ $(document).ready(function(){initNavTree('d1/d96/a07352.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d8/dd9/a07349.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Impl::ChatCommands::ArgInfo&lt; T, std::enable_if_t&lt; std::is_enum_v&lt; T &gt; &gt; &gt; Struct Template Reference</div></div>
+  <div class="headertitle"><div class="title">BattlegroundEY::CapturePointInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">ChatCommandArgs.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:a21bc680abec11928000923003bbad93f"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/a07352.html#a21bc680abec11928000923003bbad93f">SearchMap</a> = std::map&lt; std::string_view, <a class="el" href="../../d8/d21/a00368.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; T &gt;, <a class="el" href="../../d7/d56/a05508.html">StringCompareLessI_T</a> &gt;</td></tr>
-<tr class="separator:a21bc680abec11928000923003bbad93f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a8bd80d9a019a5579d32051c6c3f91c0b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/a07352.html#a8bd80d9a019a5579d32051c6c3f91c0b">CapturePointInfo</a> ()</td></tr>
+<tr class="separator:a8bd80d9a019a5579d32051c6c3f91c0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af6b021020b120b87c300981b8bb60992"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/a07352.html#af6b021020b120b87c300981b8bb60992">IsUnderControl</a> (<a class="el" href="../../d4/d3a/a00101.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> teamId) const</td></tr>
+<tr class="separator:af6b021020b120b87c300981b8bb60992"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f33897525f5104e2e7733dd6247c090"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/a07352.html#a3f33897525f5104e2e7733dd6247c090">IsUnderControl</a> () const</td></tr>
+<tr class="separator:a3f33897525f5104e2e7733dd6247c090"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a4dbb61dd3ae83084ee518830fb7db0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/a07352.html#a4a4dbb61dd3ae83084ee518830fb7db0">IsUncontrolled</a> () const</td></tr>
+<tr class="separator:a4a4dbb61dd3ae83084ee518830fb7db0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a8dc3337ff2ed1427fa9efdf35e458d7d"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d1/d96/a07352.html#a21bc680abec11928000923003bbad93f">SearchMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/a07352.html#a8dc3337ff2ed1427fa9efdf35e458d7d">MakeSearchMap</a> ()</td></tr>
-<tr class="separator:a8dc3337ff2ed1427fa9efdf35e458d7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9f447ee626e80d616c304a4d07f25987"><td class="memItemLeft" align="right" valign="top">static T const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/a07352.html#a9f447ee626e80d616c304a4d07f25987">Match</a> (std::string_view s)</td></tr>
-<tr class="separator:a9f447ee626e80d616c304a4d07f25987"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac5bc3cde0205d8a1b200989cf6eb09cb"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/d2e/a07416.html">ChatCommandResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/a07352.html#ac5bc3cde0205d8a1b200989cf6eb09cb">TryConsume</a> (T &amp;val, <a class="el" href="../../d7/d41/a07260.html">ChatHandler</a> const *handler, std::string_view args)</td></tr>
-<tr class="separator:ac5bc3cde0205d8a1b200989cf6eb09cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
-Static Public Attributes</h2></td></tr>
-<tr class="memitem:a97e69e0044967ebb5369bfa0f46bd7bf"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d1/d96/a07352.html#a21bc680abec11928000923003bbad93f">SearchMap</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/a07352.html#a97e69e0044967ebb5369bfa0f46bd7bf">_map</a> = <a class="el" href="../../d1/d96/a07352.html#a8dc3337ff2ed1427fa9efdf35e458d7d">MakeSearchMap</a>()</td></tr>
-<tr class="separator:a97e69e0044967ebb5369bfa0f46bd7bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a5f0019635c5d05489f1ef97a95a7f01d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d3a/a00101.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/a07352.html#a5f0019635c5d05489f1ef97a95a7f01d">_ownerTeamId</a></td></tr>
+<tr class="separator:a5f0019635c5d05489f1ef97a95a7f01d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a02da5cc40ac6e97e63380d6f66e10d7e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/a07352.html#a02da5cc40ac6e97e63380d6f66e10d7e">_barStatus</a></td></tr>
+<tr class="separator:a02da5cc40ac6e97e63380d6f66e10d7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aca64138e11e9e29a55bfedeee5b7e7ea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/a07352.html#aca64138e11e9e29a55bfedeee5b7e7ea">_areaTrigger</a></td></tr>
+<tr class="separator:aca64138e11e9e29a55bfedeee5b7e7ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7316d0eccaa25b9f30a39c48635e4c16"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/a07352.html#a7316d0eccaa25b9f30a39c48635e4c16">_playersCount</a> [<a class="el" href="../../d4/d3a/a00101.html#a9855fd6839904c4ea8bcab8fd3783771">PVP_TEAMS_COUNT</a>]</td></tr>
+<tr class="separator:a7316d0eccaa25b9f30a39c48635e4c16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a97c5da6401e8423c1314ad1186e1dfeb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d57/a08572.html">Player</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/a07352.html#a97c5da6401e8423c1314ad1186e1dfeb">player</a> = nullptr</td></tr>
+<tr class="separator:a97c5da6401e8423c1314ad1186e1dfeb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
-struct Acore::Impl::ChatCommands::ArgInfo&lt; T, std::enable_if_t&lt; std::is_enum_v&lt; T &gt; &gt; &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a21bc680abec11928000923003bbad93f" name="a21bc680abec11928000923003bbad93f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a21bc680abec11928000923003bbad93f">&#9670;&#160;</a></span>SearchMap</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a8bd80d9a019a5579d32051c6c3f91c0b" name="a8bd80d9a019a5579d32051c6c3f91c0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8bd80d9a019a5579d32051c6c3f91c0b">&#9670;&#160;</a></span>CapturePointInfo()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d0/d72/a07332.html">Acore::Impl::ChatCommands::ArgInfo</a>&lt; T, std::enable_if_t&lt; std::is_enum_v&lt; T &gt; &gt; &gt;::SearchMap =  std::map&lt;std::string_view, <a class="el" href="../../d8/d21/a00368.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt;T&gt;, <a class="el" href="../../d7/d56/a05508.html">StringCompareLessI_T</a>&gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a8dc3337ff2ed1427fa9efdf35e458d7d" name="a8dc3337ff2ed1427fa9efdf35e458d7d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8dc3337ff2ed1427fa9efdf35e458d7d">&#9670;&#160;</a></span>MakeSearchMap()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static <a class="el" href="../../d1/d96/a07352.html#a21bc680abec11928000923003bbad93f">SearchMap</a> <a class="el" href="../../d0/d72/a07332.html">Acore::Impl::ChatCommands::ArgInfo</a>&lt; T, std::enable_if_t&lt; std::is_enum_v&lt; T &gt; &gt; &gt;::MakeSearchMap </td>
+          <td class="memname">BattlegroundEY::CapturePointInfo::CapturePointInfo </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -174,194 +156,190 @@ template&lt;typename T &gt; </div>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  132</span>        {</div>
-<div class="line"><span class="lineno">  133</span>            <a class="code hl_typedef" href="../../d1/d96/a07352.html#a21bc680abec11928000923003bbad93f">SearchMap</a> map;</div>
-<div class="line"><span class="lineno">  134</span>            <span class="keywordflow">for</span> (T val : EnumUtils::Iterate&lt;T&gt;())</div>
-<div class="line"><span class="lineno">  135</span>            {</div>
-<div class="line"><span class="lineno">  136</span>                <a class="code hl_struct" href="../../da/dc0/a05392.html">EnumText</a> text = <a class="code hl_function" href="../../dd/dc9/a05400.html#a33df3bb9277025d2b98a40b5d171782a">EnumUtils::ToString</a>(val);</div>
-<div class="line"><span class="lineno">  137</span> </div>
-<div class="line"><span class="lineno">  138</span>                std::string_view title(text.<a class="code hl_variable" href="../../da/dc0/a05392.html#a7326575ea4083e28ac62556526a092a4">Title</a>);</div>
-<div class="line"><span class="lineno">  139</span>                std::string_view constant(text.<a class="code hl_variable" href="../../da/dc0/a05392.html#a020a7ebf3b1ee476d5f7ee605f43525d">Constant</a>);</div>
-<div class="line"><span class="lineno">  140</span> </div>
-<div class="line"><span class="lineno">  141</span>                <span class="keyword">auto</span> [constantIt, constantNew] = map.try_emplace(title, val);</div>
-<div class="line"><span class="lineno">  142</span>                <span class="keywordflow">if</span> (!constantNew)</div>
-<div class="line"><span class="lineno">  143</span>                    constantIt-&gt;second = std::nullopt;</div>
-<div class="line"><span class="lineno">  144</span> </div>
-<div class="line"><span class="lineno">  145</span>                <span class="keywordflow">if</span> (title != constant)</div>
-<div class="line"><span class="lineno">  146</span>                {</div>
-<div class="line"><span class="lineno">  147</span>                    <span class="keyword">auto</span> [titleIt, titleNew] = map.try_emplace(title, val);</div>
-<div class="line"><span class="lineno">  148</span>                    <span class="keywordflow">if</span> (!titleNew)</div>
-<div class="line"><span class="lineno">  149</span>                        titleIt-&gt;second = std::nullopt;</div>
-<div class="line"><span class="lineno">  150</span>                }</div>
-<div class="line"><span class="lineno">  151</span>            }</div>
-<div class="line"><span class="lineno">  152</span>            <span class="keywordflow">return</span> map;</div>
-<div class="line"><span class="lineno">  153</span>        }</div>
-<div class="ttc" id="aa05392_html"><div class="ttname"><a href="../../da/dc0/a05392.html">EnumText</a></div><div class="ttdef"><b>Definition:</b> SmartEnum.h:25</div></div>
-<div class="ttc" id="aa05392_html_a020a7ebf3b1ee476d5f7ee605f43525d"><div class="ttname"><a href="../../da/dc0/a05392.html#a020a7ebf3b1ee476d5f7ee605f43525d">EnumText::Constant</a></div><div class="ttdeci">char const  *const Constant</div><div class="ttdef"><b>Definition:</b> SmartEnum.h:28</div></div>
-<div class="ttc" id="aa05392_html_a7326575ea4083e28ac62556526a092a4"><div class="ttname"><a href="../../da/dc0/a05392.html#a7326575ea4083e28ac62556526a092a4">EnumText::Title</a></div><div class="ttdeci">char const  *const Title</div><div class="ttdef"><b>Definition:</b> SmartEnum.h:30</div></div>
-<div class="ttc" id="aa05400_html_a33df3bb9277025d2b98a40b5d171782a"><div class="ttname"><a href="../../dd/dc9/a05400.html#a33df3bb9277025d2b98a40b5d171782a">EnumUtils::ToString</a></div><div class="ttdeci">static EnumText ToString(Enum value)</div><div class="ttdef"><b>Definition:</b> SmartEnum.h:53</div></div>
-<div class="ttc" id="aa07352_html_a21bc680abec11928000923003bbad93f"><div class="ttname"><a href="../../d1/d96/a07352.html#a21bc680abec11928000923003bbad93f">Acore::Impl::ChatCommands::ArgInfo&lt; T, std::enable_if_t&lt; std::is_enum_v&lt; T &gt; &gt; &gt;::SearchMap</a></div><div class="ttdeci">std::map&lt; std::string_view, Optional&lt; T &gt;, StringCompareLessI_T &gt; SearchMap</div><div class="ttdef"><b>Definition:</b> ChatCommandArgs.h:130</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  434</span>                           : <a class="code hl_variable" href="../../d1/d96/a07352.html#a5f0019635c5d05489f1ef97a95a7f01d">_ownerTeamId</a>(<a class="code hl_enumvalue" href="../../d4/d3a/a00101.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>), <a class="code hl_variable" href="../../d1/d96/a07352.html#a02da5cc40ac6e97e63380d6f66e10d7e">_barStatus</a>(<a class="code hl_enumvalue" href="../../de/d3a/a03200.html#a36144a079ae83b8aefceb4ffe3796d81a4e6bdf0974a0e117bf51e7968efda754">BG_EY_PROGRESS_BAR_STATE_MIDDLE</a>), <a class="code hl_variable" href="../../d1/d96/a07352.html#aca64138e11e9e29a55bfedeee5b7e7ea">_areaTrigger</a>(0)</div>
+<div class="line"><span class="lineno">  435</span>        {</div>
+<div class="line"><span class="lineno">  436</span>            <a class="code hl_variable" href="../../d1/d96/a07352.html#a7316d0eccaa25b9f30a39c48635e4c16">_playersCount</a>[<a class="code hl_enumvalue" href="../../d4/d3a/a00101.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a>] = 0;</div>
+<div class="line"><span class="lineno">  437</span>            <a class="code hl_variable" href="../../d1/d96/a07352.html#a7316d0eccaa25b9f30a39c48635e4c16">_playersCount</a>[<a class="code hl_enumvalue" href="../../d4/d3a/a00101.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a>] = 0;</div>
+<div class="line"><span class="lineno">  438</span>        }</div>
+<div class="ttc" id="aa00101_html_abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5"><div class="ttname"><a href="../../d4/d3a/a00101.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a></div><div class="ttdeci">@ TEAM_NEUTRAL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:762</div></div>
+<div class="ttc" id="aa00101_html_abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e"><div class="ttname"><a href="../../d4/d3a/a00101.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a></div><div class="ttdeci">@ TEAM_ALLIANCE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:760</div></div>
+<div class="ttc" id="aa00101_html_abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a"><div class="ttname"><a href="../../d4/d3a/a00101.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a></div><div class="ttdeci">@ TEAM_HORDE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:761</div></div>
+<div class="ttc" id="aa03200_html_a36144a079ae83b8aefceb4ffe3796d81a4e6bdf0974a0e117bf51e7968efda754"><div class="ttname"><a href="../../de/d3a/a03200.html#a36144a079ae83b8aefceb4ffe3796d81a4e6bdf0974a0e117bf51e7968efda754">BG_EY_PROGRESS_BAR_STATE_MIDDLE</a></div><div class="ttdeci">@ BG_EY_PROGRESS_BAR_STATE_MIDDLE</div><div class="ttdef"><b>Definition:</b> BattlegroundEY.h:75</div></div>
+<div class="ttc" id="aa07352_html_a02da5cc40ac6e97e63380d6f66e10d7e"><div class="ttname"><a href="../../d1/d96/a07352.html#a02da5cc40ac6e97e63380d6f66e10d7e">BattlegroundEY::CapturePointInfo::_barStatus</a></div><div class="ttdeci">int8 _barStatus</div><div class="ttdef"><b>Definition:</b> BattlegroundEY.h:441</div></div>
+<div class="ttc" id="aa07352_html_a5f0019635c5d05489f1ef97a95a7f01d"><div class="ttname"><a href="../../d1/d96/a07352.html#a5f0019635c5d05489f1ef97a95a7f01d">BattlegroundEY::CapturePointInfo::_ownerTeamId</a></div><div class="ttdeci">TeamId _ownerTeamId</div><div class="ttdef"><b>Definition:</b> BattlegroundEY.h:440</div></div>
+<div class="ttc" id="aa07352_html_a7316d0eccaa25b9f30a39c48635e4c16"><div class="ttname"><a href="../../d1/d96/a07352.html#a7316d0eccaa25b9f30a39c48635e4c16">BattlegroundEY::CapturePointInfo::_playersCount</a></div><div class="ttdeci">int8 _playersCount[PVP_TEAMS_COUNT]</div><div class="ttdef"><b>Definition:</b> BattlegroundEY.h:443</div></div>
+<div class="ttc" id="aa07352_html_aca64138e11e9e29a55bfedeee5b7e7ea"><div class="ttname"><a href="../../d1/d96/a07352.html#aca64138e11e9e29a55bfedeee5b7e7ea">BattlegroundEY::CapturePointInfo::_areaTrigger</a></div><div class="ttdeci">uint32 _areaTrigger</div><div class="ttdef"><b>Definition:</b> BattlegroundEY.h:442</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00028">EnumText::Constant</a>, <a class="el" href="../../#l00030">EnumText::Title</a>, and <a class="el" href="../../#l00053">EnumUtils::ToString()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00760">TEAM_ALLIANCE</a>, and <a class="el" href="../../#l00761">TEAM_HORDE</a>.</p>
 
 </div>
 </div>
-<a id="a9f447ee626e80d616c304a4d07f25987" name="a9f447ee626e80d616c304a4d07f25987"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9f447ee626e80d616c304a4d07f25987">&#9670;&#160;</a></span>Match()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a4a4dbb61dd3ae83084ee518830fb7db0" name="a4a4dbb61dd3ae83084ee518830fb7db0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a4dbb61dd3ae83084ee518830fb7db0">&#9670;&#160;</a></span>IsUncontrolled()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static T const  * <a class="el" href="../../d0/d72/a07332.html">Acore::Impl::ChatCommands::ArgInfo</a>&lt; T, std::enable_if_t&lt; std::is_enum_v&lt; T &gt; &gt; &gt;::Match </td>
+          <td class="memname">bool BattlegroundEY::CapturePointInfo::IsUncontrolled </td>
           <td>(</td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>s</em></td><td>)</td>
-          <td></td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  158</span>        {</div>
-<div class="line"><span class="lineno">  159</span>            <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d1/d96/a07352.html#a97e69e0044967ebb5369bfa0f46bd7bf">_map</a>.lower_bound(s);</div>
-<div class="line"><span class="lineno">  160</span>            <span class="keywordflow">if</span> (it == <a class="code hl_variable" href="../../d1/d96/a07352.html#a97e69e0044967ebb5369bfa0f46bd7bf">_map</a>.end() || !<a class="code hl_function" href="../../d9/de6/a00404.html#abf9a3b94088837eacc4d3d0e1c8a77a2">StringStartsWithI</a>(it-&gt;first, s)) <span class="comment">// not a match</span></div>
-<div class="line"><span class="lineno">  161</span>                <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  162</span> </div>
-<div class="line"><span class="lineno">  163</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d7/d5e/a00467.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(it-&gt;first, s)) <span class="comment">// we don&#39;t have an exact match - check if it is unique</span></div>
-<div class="line"><span class="lineno">  164</span>            {</div>
-<div class="line"><span class="lineno">  165</span>                <span class="keyword">auto</span> it2 = it;</div>
-<div class="line"><span class="lineno">  166</span>                ++it2;</div>
-<div class="line"><span class="lineno">  167</span>                <span class="keywordflow">if</span> ((it2 != <a class="code hl_variable" href="../../d1/d96/a07352.html#a97e69e0044967ebb5369bfa0f46bd7bf">_map</a>.end()) &amp;&amp; <a class="code hl_function" href="../../d9/de6/a00404.html#abf9a3b94088837eacc4d3d0e1c8a77a2">StringStartsWithI</a>(it2-&gt;first, s)) <span class="comment">// not unique</span></div>
-<div class="line"><span class="lineno">  168</span>                    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  169</span>            }</div>
-<div class="line"><span class="lineno">  170</span> </div>
-<div class="line"><span class="lineno">  171</span>            <span class="keywordflow">if</span> (it-&gt;second)</div>
-<div class="line"><span class="lineno">  172</span>                <span class="keywordflow">return</span> &amp;*it-&gt;second;</div>
-<div class="line"><span class="lineno">  173</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  174</span>                <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  175</span>        }</div>
-<div class="ttc" id="aa00404_html_abf9a3b94088837eacc4d3d0e1c8a77a2"><div class="ttname"><a href="../../d9/de6/a00404.html#abf9a3b94088837eacc4d3d0e1c8a77a2">StringStartsWithI</a></div><div class="ttdeci">bool StringStartsWithI(std::string_view haystack, std::string_view needle)</div><div class="ttdef"><b>Definition:</b> Util.h:402</div></div>
-<div class="ttc" id="aa00467_html_a131b997858d0d4c6825222d64948db73"><div class="ttname"><a href="../../d7/d5e/a00467.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a></div><div class="ttdeci">bool StringEqualI(std::string_view a, std::string_view b)</div><div class="ttdef"><b>Definition:</b> Util.cpp:592</div></div>
-<div class="ttc" id="aa07352_html_a97e69e0044967ebb5369bfa0f46bd7bf"><div class="ttname"><a href="../../d1/d96/a07352.html#a97e69e0044967ebb5369bfa0f46bd7bf">Acore::Impl::ChatCommands::ArgInfo&lt; T, std::enable_if_t&lt; std::is_enum_v&lt; T &gt; &gt; &gt;::_map</a></div><div class="ttdeci">static SearchMap const _map</div><div class="ttdef"><b>Definition:</b> ChatCommandArgs.h:155</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  448</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/d96/a07352.html#a5f0019635c5d05489f1ef97a95a7f01d">_ownerTeamId</a> == <a class="code hl_enumvalue" href="../../d4/d3a/a00101.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00592">StringEqualI()</a>, and <a class="el" href="../../#l00402">StringStartsWithI()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00762">TEAM_NEUTRAL</a>.</p>
 
 </div>
 </div>
-<a id="ac5bc3cde0205d8a1b200989cf6eb09cb" name="ac5bc3cde0205d8a1b200989cf6eb09cb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac5bc3cde0205d8a1b200989cf6eb09cb">&#9670;&#160;</a></span>TryConsume()</h2>
+<a id="a3f33897525f5104e2e7733dd6247c090" name="a3f33897525f5104e2e7733dd6247c090"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3f33897525f5104e2e7733dd6247c090">&#9670;&#160;</a></span>IsUnderControl() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static <a class="el" href="../../d0/d2e/a07416.html">ChatCommandResult</a> <a class="el" href="../../d0/d72/a07332.html">Acore::Impl::ChatCommands::ArgInfo</a>&lt; T, std::enable_if_t&lt; std::is_enum_v&lt; T &gt; &gt; &gt;::TryConsume </td>
+          <td class="memname">bool BattlegroundEY::CapturePointInfo::IsUnderControl </td>
           <td>(</td>
-          <td class="paramtype">T &amp;&#160;</td>
-          <td class="paramname"><em>val</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d7/d41/a07260.html">ChatHandler</a> const *&#160;</td>
-          <td class="paramname"><em>handler</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>args</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  178</span>        {</div>
-<div class="line"><span class="lineno">  179</span>            std::string_view strVal;</div>
-<div class="line"><span class="lineno">  180</span>            <a class="code hl_struct" href="../../d0/d2e/a07416.html">ChatCommandResult</a> next1 = ArgInfo&lt;std::string_view&gt;::TryConsume(strVal, handler, args);</div>
-<div class="line"><span class="lineno">  181</span>            <span class="keywordflow">if</span> (next1)</div>
-<div class="line"><span class="lineno">  182</span>            {</div>
-<div class="line"><span class="lineno">  183</span>                <span class="keywordflow">if</span> (T <span class="keyword">const</span>* match = <a class="code hl_function" href="../../d1/d96/a07352.html#a9f447ee626e80d616c304a4d07f25987">Match</a>(strVal))</div>
-<div class="line"><span class="lineno">  184</span>                {</div>
-<div class="line"><span class="lineno">  185</span>                    val = *match;</div>
-<div class="line"><span class="lineno">  186</span>                    <span class="keywordflow">return</span> next1;</div>
-<div class="line"><span class="lineno">  187</span>                }</div>
-<div class="line"><span class="lineno">  188</span>            }</div>
-<div class="line"><span class="lineno">  189</span> </div>
-<div class="line"><span class="lineno">  190</span>            <span class="comment">// Value not found. Try to parse arg as underlying type and cast it to enum type</span></div>
-<div class="line"><span class="lineno">  191</span>            <span class="keyword">using </span>U = std::underlying_type_t&lt;T&gt;;</div>
-<div class="line"><span class="lineno">  192</span>            U uVal = 0;</div>
-<div class="line"><span class="lineno">  193</span>            <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d0/d2e/a07416.html">ChatCommandResult</a> next2 = ArgInfo&lt;U&gt;::TryConsume(uVal, handler, args))</div>
-<div class="line"><span class="lineno">  194</span>            {</div>
-<div class="line"><span class="lineno">  195</span>                <span class="keywordflow">if</span> (EnumUtils::IsValid&lt;T&gt;(uVal))</div>
-<div class="line"><span class="lineno">  196</span>                {</div>
-<div class="line"><span class="lineno">  197</span>                    val = <span class="keyword">static_cast&lt;</span>T<span class="keyword">&gt;</span>(uVal);</div>
-<div class="line"><span class="lineno">  198</span>                    <span class="keywordflow">return</span> next2;</div>
-<div class="line"><span class="lineno">  199</span>                }</div>
-<div class="line"><span class="lineno">  200</span>            }</div>
-<div class="line"><span class="lineno">  201</span> </div>
-<div class="line"><span class="lineno">  202</span>            <span class="keywordflow">if</span> (next1)</div>
-<div class="line"><span class="lineno">  203</span>                <span class="keywordflow">return</span> <a class="code hl_function" href="../../d6/d7d/a04707.html#a496bce28eb0bf0ac4b5e1c54c19193b7">FormatAcoreString</a>(handler, <a class="code hl_enumvalue" href="../../d1/db0/a01928.html#af9ee42b1cf006ecb2d2e74fe71c0761aa4e3203200e0c0fa812c218470c93ea96">LANG_CMDPARSER_STRING_VALUE_INVALID</a>, strVal, GetTypeName&lt;T&gt;());</div>
-<div class="line"><span class="lineno">  204</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  205</span>                <span class="keywordflow">return</span> next1;</div>
-<div class="line"><span class="lineno">  206</span>        }</div>
-<div class="ttc" id="aa01928_html_af9ee42b1cf006ecb2d2e74fe71c0761aa4e3203200e0c0fa812c218470c93ea96"><div class="ttname"><a href="../../d1/db0/a01928.html#af9ee42b1cf006ecb2d2e74fe71c0761aa4e3203200e0c0fa812c218470c93ea96">LANG_CMDPARSER_STRING_VALUE_INVALID</a></div><div class="ttdeci">@ LANG_CMDPARSER_STRING_VALUE_INVALID</div><div class="ttdef"><b>Definition:</b> Language.h:993</div></div>
-<div class="ttc" id="aa04707_html_a496bce28eb0bf0ac4b5e1c54c19193b7"><div class="ttname"><a href="../../d6/d7d/a04707.html#a496bce28eb0bf0ac4b5e1c54c19193b7">Acore::Impl::ChatCommands::FormatAcoreString</a></div><div class="ttdeci">std::string FormatAcoreString(ChatHandler const *handler, AcoreStrings which, Ts &amp;&amp;... args)</div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.h:126</div></div>
-<div class="ttc" id="aa07352_html_a9f447ee626e80d616c304a4d07f25987"><div class="ttname"><a href="../../d1/d96/a07352.html#a9f447ee626e80d616c304a4d07f25987">Acore::Impl::ChatCommands::ArgInfo&lt; T, std::enable_if_t&lt; std::is_enum_v&lt; T &gt; &gt; &gt;::Match</a></div><div class="ttdeci">static T const * Match(std::string_view s)</div><div class="ttdef"><b>Definition:</b> ChatCommandArgs.h:157</div></div>
-<div class="ttc" id="aa07416_html"><div class="ttname"><a href="../../d0/d2e/a07416.html">Acore::Impl::ChatCommands::ChatCommandResult</a></div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.h:101</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  447</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/d96/a07352.html#a5f0019635c5d05489f1ef97a95a7f01d">_ownerTeamId</a> != <a class="code hl_enumvalue" href="../../d4/d3a/a00101.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00126">Acore::Impl::ChatCommands::FormatAcoreString()</a>, and <a class="el" href="../../#l00993">LANG_CMDPARSER_STRING_VALUE_INVALID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00762">TEAM_NEUTRAL</a>.</p>
 
+</div>
+</div>
+<a id="af6b021020b120b87c300981b8bb60992" name="af6b021020b120b87c300981b8bb60992"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af6b021020b120b87c300981b8bb60992">&#9670;&#160;</a></span>IsUnderControl() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool BattlegroundEY::CapturePointInfo::IsUnderControl </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d3a/a00101.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td>
+          <td class="paramname"><em>teamId</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  446</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/d96/a07352.html#a5f0019635c5d05489f1ef97a95a7f01d">_ownerTeamId</a> == teamId; }</div>
+</div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a97e69e0044967ebb5369bfa0f46bd7bf" name="a97e69e0044967ebb5369bfa0f46bd7bf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a97e69e0044967ebb5369bfa0f46bd7bf">&#9670;&#160;</a></span>_map</h2>
+<a id="aca64138e11e9e29a55bfedeee5b7e7ea" name="aca64138e11e9e29a55bfedeee5b7e7ea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aca64138e11e9e29a55bfedeee5b7e7ea">&#9670;&#160;</a></span>_areaTrigger</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/d96/a07352.html#a21bc680abec11928000923003bbad93f">SearchMap</a> const <a class="el" href="../../d0/d72/a07332.html">Acore::Impl::ChatCommands::ArgInfo</a>&lt; T, std::enable_if_t&lt; std::is_enum_v&lt; T &gt; &gt; &gt;::_map = <a class="el" href="../../d1/d96/a07352.html#a8dc3337ff2ed1427fa9efdf35e458d7d">MakeSearchMap</a>()</td>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlegroundEY::CapturePointInfo::_areaTrigger</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00037">BattlegroundEY::BattlegroundEY()</a>.</p>
+
+</div>
+</div>
+<a id="a02da5cc40ac6e97e63380d6f66e10d7e" name="a02da5cc40ac6e97e63380d6f66e10d7e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a02da5cc40ac6e97e63380d6f66e10d7e">&#9670;&#160;</a></span>_barStatus</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> BattlegroundEY::CapturePointInfo::_barStatus</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00128">BattlegroundEY::UpdatePointsState()</a>.</p>
+
+</div>
+</div>
+<a id="a5f0019635c5d05489f1ef97a95a7f01d" name="a5f0019635c5d05489f1ef97a95a7f01d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5f0019635c5d05489f1ef97a95a7f01d">&#9670;&#160;</a></span>_ownerTeamId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d3a/a00101.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> BattlegroundEY::CapturePointInfo::_ownerTeamId</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00485">BattlegroundEY::EventTeamCapturedPoint()</a>, and <a class="el" href="../../#l00448">BattlegroundEY::EventTeamLostPoint()</a>.</p>
+
+</div>
+</div>
+<a id="a7316d0eccaa25b9f30a39c48635e4c16" name="a7316d0eccaa25b9f30a39c48635e4c16"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7316d0eccaa25b9f30a39c48635e4c16">&#9670;&#160;</a></span>_playersCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> BattlegroundEY::CapturePointInfo::_playersCount[<a class="el" href="../../d4/d3a/a00101.html#a9855fd6839904c4ea8bcab8fd3783771">PVP_TEAMS_COUNT</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00128">BattlegroundEY::UpdatePointsState()</a>.</p>
+
+</div>
+</div>
+<a id="a97c5da6401e8423c1314ad1186e1dfeb" name="a97c5da6401e8423c1314ad1186e1dfeb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a97c5da6401e8423c1314ad1186e1dfeb">&#9670;&#160;</a></span>player</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d57/a08572.html">Player</a>* BattlegroundEY::CapturePointInfo::player = nullptr</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00128">BattlegroundEY::UpdatePointsState()</a>.</p>
 
 </div>
 </div>
@@ -370,8 +348,8 @@ template&lt;typename T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d5/d43/a04668.html">Acore</a></li><li class="navelem"><a class="el" href="../../de/d69/a04679.html">Impl</a></li><li class="navelem"><a class="el" href="../../d6/d7d/a04707.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../d1/d96/a07352.html">ArgInfo&lt; T, std::enable_if_t&lt; std::is_enum_v&lt; T &gt; &gt; &gt;</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:44:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/d19/a07348.html">BattlegroundEY</a></li><li class="navelem"><a class="el" href="../../d1/d96/a07352.html">CapturePointInfo</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:43:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

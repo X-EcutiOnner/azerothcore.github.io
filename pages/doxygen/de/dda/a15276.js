@@ -1,7 +1,6 @@
 var a15276 =
 [
-    [ "HandleDummy", "de/dda/a15276.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "de/dda/a15276.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "de/dda/a15276.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "de/dda/a15276.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "npc_tiger_matriarch_creditAI", "de/dda/a15276.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "de/dda/a15276.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "de/dda/a15276.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

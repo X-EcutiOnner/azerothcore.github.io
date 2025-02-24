@@ -1,8 +1,28 @@
 var a08452 =
 [
-    [ "CleanDamage", "de/d33/a08452.html#ad25ab816a679e323c07873efbc1c2f20", null ],
-    [ "absorbed_damage", "de/d33/a08452.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
-    [ "attackType", "de/d33/a08452.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
-    [ "hitOutCome", "de/d33/a08452.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
-    [ "mitigated_damage", "de/d33/a08452.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
+    [ "KillRewarder", "de/d33/a08452.html#af65907016d7068967ab1dc436b2d595a", null ],
+    [ "_InitGroupData", "de/d33/a08452.html#ae6ed6662efcd1cdefa3ec0a85323f49c", null ],
+    [ "_InitXP", "de/d33/a08452.html#a7166686977002152a99f929a82625def", null ],
+    [ "_RewardGroup", "de/d33/a08452.html#a97a338868eaf192e847726a23edb6685", null ],
+    [ "_RewardHonor", "de/d33/a08452.html#a498d48217450a88719c9411e24f6d07a", null ],
+    [ "_RewardKillCredit", "de/d33/a08452.html#afb2f1669e698f0597bb67eae7af6de76", null ],
+    [ "_RewardPlayer", "de/d33/a08452.html#a49f6f684f2fdeeb15642c8aaadbcc1a2", null ],
+    [ "_RewardReputation", "de/d33/a08452.html#a443fd709f4bf0be629cae510e7263807", null ],
+    [ "_RewardXP", "de/d33/a08452.html#add8e75716e21dce485272729397d88cd", null ],
+    [ "GetKiller", "de/d33/a08452.html#a28eeb5f3cdafc1c6c1fc3305e03cbf8f", null ],
+    [ "GetVictim", "de/d33/a08452.html#a02ea9a4467b10e4985d41eaf1d8ed141", null ],
+    [ "Reward", "de/d33/a08452.html#af716eba4bb8b15dd3fc005324fc3ac13", null ],
+    [ "_aliveSumLevel", "de/d33/a08452.html#a8a93e28b0b7734d72f1104e5cb70742f", null ],
+    [ "_count", "de/d33/a08452.html#a1b4a83e1d7ef12260fd08a68f7838b80", null ],
+    [ "_group", "de/d33/a08452.html#adb1cbfeca446588c0653df968c258795", null ],
+    [ "_groupRate", "de/d33/a08452.html#a67d38f9bbf5ceffc4f1a5d3015d5894f", null ],
+    [ "_isBattleGround", "de/d33/a08452.html#aabb62c8298b9a3f9ba39e0c63e67354a", null ],
+    [ "_isFullXP", "de/d33/a08452.html#aecbd865ac64dfafc4a14e73888da9520", null ],
+    [ "_isPvP", "de/d33/a08452.html#af202d546982b087711ee740f4cd561b7", null ],
+    [ "_killer", "de/d33/a08452.html#aa3b06442af864a5f4612b75be05abb90", null ],
+    [ "_maxLevel", "de/d33/a08452.html#a0d27e75392a5dcc8a93117676cee3aed", null ],
+    [ "_maxNotGrayMember", "de/d33/a08452.html#a981fa4d51f166c69dbcbbfba2f17dff1", null ],
+    [ "_sumLevel", "de/d33/a08452.html#a8e8c3f10b1a2055c90820360dd04bfab", null ],
+    [ "_victim", "de/d33/a08452.html#a9a6ce23ed555e7bff286d01e5df841f1", null ],
+    [ "_xp", "de/d33/a08452.html#a7898dee0f9855664d07ca834ceabd3bb", null ]
 ];

@@ -1,7 +1,7 @@
 var a11132 =
 [
-    [ "FieldIndices", "dc/d17/a11132.html#a06a366c804088e6fbb170881004a5cff", null ],
-    [ "TableFields", "dc/d17/a11132.html#ad5d909c6b4b062f3c4aac3f559c5eaec", null ],
-    [ "TableName", "dc/d17/a11132.html#ab00ee028c72660db98e8108583701471", null ],
-    [ "WhereFieldName", "dc/d17/a11132.html#af1be82a21f6172504e310ae27b899e5b", null ]
+    [ "ap_bonus", "dc/d17/a11132.html#a98410b8bb89434cd7e1747462f8039dc", null ],
+    [ "ap_dot_bonus", "dc/d17/a11132.html#a09caeec47b138d9eff3539795416a09a", null ],
+    [ "direct_damage", "dc/d17/a11132.html#abab1af227a6c8e592b8a9bd15589535d", null ],
+    [ "dot_damage", "dc/d17/a11132.html#a92491d8d1e61612d88c7c830d7912be5", null ]
 ];

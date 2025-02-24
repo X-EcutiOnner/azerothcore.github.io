@@ -1,7 +1,8 @@
 var a22644 =
 [
-    [ "HandleOnHit", "d1/d4b/a22644.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "d1/d4b/a22644.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "d1/d4b/a22644.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "d1/d4b/a22644.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "HandleScriptEffect", "d1/d4b/a22644.html#a8e5b81581fff787f691521d03fed66fc", null ],
+    [ "Load", "d1/d4b/a22644.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
+    [ "PrepareSpellScript", "d1/d4b/a22644.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
+    [ "Register", "d1/d4b/a22644.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
+    [ "Validate", "d1/d4b/a22644.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
 ];

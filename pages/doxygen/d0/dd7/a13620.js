@@ -1,6 +1,6 @@
 var a13620 =
 [
-    [ "boss_fenstalkerAI", "d8/d89/a13624.html", "d8/d89/a13624" ],
-    [ "boss_fenstalker", "d0/dd7/a13620.html#add740dc0718d2f95545cd97290733cbf", null ],
-    [ "GetAI", "d0/dd7/a13620.html#a09d0b4766b32ac814e83fe944df14640", null ]
+    [ "npc_andorhal_towerAI", "d8/d89/a13624.html", "d8/d89/a13624" ],
+    [ "npc_andorhal_tower", "d0/dd7/a13620.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
+    [ "GetAI", "d0/dd7/a13620.html#a51139c28da736d26bf27a061862d24ee", null ]
 ];

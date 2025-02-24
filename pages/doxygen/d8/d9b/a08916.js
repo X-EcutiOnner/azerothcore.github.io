@@ -1,8 +1,7 @@
 var a08916 =
 [
-    [ "CreatureListSearcher", "d8/d9b/a08916.html#a7b16bf9b7a847a08fa6582b81b607e20", null ],
-    [ "Visit", "d8/d9b/a08916.html#a48c084b8fbcbf7db7c051d1aa2aff523", null ],
-    [ "Visit", "d8/d9b/a08916.html#a91fcbdcfb08964ebaacec8acae13476b", null ],
-    [ "i_check", "d8/d9b/a08916.html#a985d622243d5c7c6c91eb01377b0f91b", null ],
-    [ "i_phaseMask", "d8/d9b/a08916.html#a10e4e1fb5749d2b1065dd6a1245783d0", null ]
+    [ "IsFitToRequirements", "d8/d9b/a08916.html#ac175634ed2eab2911c3749fa208a073a", null ],
+    [ "castFlags", "d8/d9b/a08916.html#a03cd65a460ea252818de9230cb656c1c", null ],
+    [ "spellId", "d8/d9b/a08916.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
+    [ "userType", "d8/d9b/a08916.html#adcf285572403481cb418bddebc5f4bfa", null ]
 ];

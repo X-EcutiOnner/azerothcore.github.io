@@ -1,4 +1,5 @@
 var a04815 =
 [
-    [ "hashCode", "d2/d04/a04815.html#aa8996d8155ce20464f9eea4dd4c13d57", null ]
+    [ "InitWorldStates", "d0/d35/a10848.html", "d0/d35/a10848" ],
+    [ "UpdateWorldState", "d8/d88/a10856.html", "d8/d88/a10856" ]
 ];

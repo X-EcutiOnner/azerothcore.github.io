@@ -1,8 +1,9 @@
 var a23888 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d2/daf/a23888.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "d2/daf/a23888.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "d2/daf/a23888.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "d2/daf/a23888.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "d2/daf/a23888.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "npc_fel_guard_houndAI", "d2/daf/a23888.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "d2/daf/a23888.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "d2/daf/a23888.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "d2/daf/a23888.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "d2/daf/a23888.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "d2/daf/a23888.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

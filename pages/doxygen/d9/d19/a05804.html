@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: UpdateFetcher::AppliedFileEntry Struct Reference</title>
+<title>AzerothCore: SQLQueryHolderTask Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,42 +106,62 @@ $(document).ready(function(){initNavTree('d9/d19/a05804.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d5/dc0/a05801.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">UpdateFetcher::AppliedFileEntry Struct Reference</div></div>
+  <div class="headertitle"><div class="title">SQLQueryHolderTask Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">QueryHolder.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for SQLQueryHolderTask:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d9/d19/a05804.png" usemap="#SQLQueryHolderTask_map" alt=""/>
+  <map id="SQLQueryHolderTask_map" name="SQLQueryHolderTask_map">
+<area href="../../d3/d19/a05828.html" alt="SQLOperation" shape="rect" coords="0,0,137,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ac925dd4c2f889ae84e8be8cba9a0ef06"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a05804.html#ac925dd4c2f889ae84e8be8cba9a0ef06">AppliedFileEntry</a> (std::string const &amp;name_, std::string const &amp;hash_, <a class="el" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cb">State</a> state_, <a class="el" href="../../d4/ddf/a00488.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> timestamp_)</td></tr>
-<tr class="separator:ac925dd4c2f889ae84e8be8cba9a0ef06"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a803f0ee67f0d3944b0933cf97723b5d3"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a05804.html#a803f0ee67f0d3944b0933cf97723b5d3">GetStateAsString</a> () const</td></tr>
-<tr class="separator:a803f0ee67f0d3944b0933cf97723b5d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a017ab0275ea42132bb1e4ece7111572e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a05804.html#a017ab0275ea42132bb1e4ece7111572e">SQLQueryHolderTask</a> (std::shared_ptr&lt; <a class="el" href="../../d0/d5d/a05800.html">SQLQueryHolderBase</a> &gt; holder)</td></tr>
+<tr class="separator:a017ab0275ea42132bb1e4ece7111572e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0d1122160565c8f20f9a48390352c770"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a05804.html#a0d1122160565c8f20f9a48390352c770">~SQLQueryHolderTask</a> ()</td></tr>
+<tr class="separator:a0d1122160565c8f20f9a48390352c770"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1dc2cdfee574ecbb8fd7bc595ca2f170"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a05804.html#a1dc2cdfee574ecbb8fd7bc595ca2f170">Execute</a> () override</td></tr>
+<tr class="separator:a1dc2cdfee574ecbb8fd7bc595ca2f170"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a73199c4e5805933c9f79091797dedc5d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/da8/a04091.html#afa682c0dbd4467d34bc28101c82c8959">QueryResultHolderFuture</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a05804.html#a73199c4e5805933c9f79091797dedc5d">GetFuture</a> ()</td></tr>
+<tr class="separator:a73199c4e5805933c9f79091797dedc5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a05828"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05828')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d3/d19/a05828.html">SQLOperation</a></td></tr>
+<tr class="memitem:a0f69657715b7d24458227b22a3b40b1a inherit pub_methods_a05828"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d19/a05828.html#a0f69657715b7d24458227b22a3b40b1a">SQLOperation</a> ()=default</td></tr>
+<tr class="separator:a0f69657715b7d24458227b22a3b40b1a inherit pub_methods_a05828"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afa21cafba57dd35ed2b132ef3d18c71b inherit pub_methods_a05828"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d19/a05828.html#afa21cafba57dd35ed2b132ef3d18c71b">~SQLOperation</a> ()=default</td></tr>
+<tr class="separator:afa21cafba57dd35ed2b132ef3d18c71b inherit pub_methods_a05828"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae56c06a313c4be5d0e45f5481996f1d1 inherit pub_methods_a05828"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d19/a05828.html#ae56c06a313c4be5d0e45f5481996f1d1">call</a> ()</td></tr>
+<tr class="separator:ae56c06a313c4be5d0e45f5481996f1d1 inherit pub_methods_a05828"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff1090554bc4a6fe7a33270e63416e19 inherit pub_methods_a05828"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d19/a05828.html#aff1090554bc4a6fe7a33270e63416e19">Execute</a> ()=0</td></tr>
+<tr class="separator:aff1090554bc4a6fe7a33270e63416e19 inherit pub_methods_a05828"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52cbd1d9b8a298ab3eade0010b5e3166 inherit pub_methods_a05828"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d19/a05828.html#a52cbd1d9b8a298ab3eade0010b5e3166">SetConnection</a> (<a class="el" href="../../dd/dd5/a05700.html">MySQLConnection</a> *con)</td></tr>
+<tr class="separator:a52cbd1d9b8a298ab3eade0010b5e3166 inherit pub_methods_a05828"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:ac35fc4abcc60015c56765ceebc6fdb8f"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cb">State</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a05804.html#ac35fc4abcc60015c56765ceebc6fdb8f">StateConvert</a> (std::string const &amp;<a class="el" href="../../d9/d19/a05804.html#a7899f60d95db04e776b7ccfbc1003cfb">state</a>)</td></tr>
-<tr class="separator:ac35fc4abcc60015c56765ceebc6fdb8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a16274f0e9e6669be265ba75f79c4b10f"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a05804.html#a16274f0e9e6669be265ba75f79c4b10f">StateConvert</a> (<a class="el" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cb">State</a> const <a class="el" href="../../d9/d19/a05804.html#a7899f60d95db04e776b7ccfbc1003cfb">state</a>)</td></tr>
-<tr class="separator:a16274f0e9e6669be265ba75f79c4b10f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a64b624b8e77c819f5b47d592edc0979d"><td class="memItemLeft" align="right" valign="top">std::shared_ptr&lt; <a class="el" href="../../d0/d5d/a05800.html">SQLQueryHolderBase</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a05804.html#a64b624b8e77c819f5b47d592edc0979d">m_holder</a></td></tr>
+<tr class="separator:a64b624b8e77c819f5b47d592edc0979d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab27ce22bdb505509662d862e92fe7e77"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/da8/a04091.html#ad57a63776c96b99707576dd6f1ff7c29">QueryResultHolderPromise</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a05804.html#ab27ce22bdb505509662d862e92fe7e77">m_result</a></td></tr>
+<tr class="separator:ab27ce22bdb505509662d862e92fe7e77"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a8fc429eae6816054b5828952a5698a4c"><td class="memItemLeft" align="right" valign="top">std::string const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a05804.html#a8fc429eae6816054b5828952a5698a4c">name</a></td></tr>
-<tr class="separator:a8fc429eae6816054b5828952a5698a4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af39f798a10c2675e870d4d62f1d0a10c"><td class="memItemLeft" align="right" valign="top">std::string const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a05804.html#af39f798a10c2675e870d4d62f1d0a10c">hash</a></td></tr>
-<tr class="separator:af39f798a10c2675e870d4d62f1d0a10c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7899f60d95db04e776b7ccfbc1003cfb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cb">State</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a05804.html#a7899f60d95db04e776b7ccfbc1003cfb">state</a></td></tr>
-<tr class="separator:a7899f60d95db04e776b7ccfbc1003cfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a13703e88b76f26858696b33a8bc8f862"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/ddf/a00488.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a05804.html#a13703e88b76f26858696b33a8bc8f862">timestamp</a></td></tr>
-<tr class="separator:a13703e88b76f26858696b33a8bc8f862"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
+Additional Inherited Members</h2></td></tr>
+<tr class="inherit_header pub_attribs_a05828"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a05828')"><img src="../../closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="../../d3/d19/a05828.html">SQLOperation</a></td></tr>
+<tr class="memitem:adf322db48064fcf4528f713f857f1b40 inherit pub_attribs_a05828"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/dd5/a05700.html">MySQLConnection</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d19/a05828.html#adf322db48064fcf4528f713f857f1b40">m_conn</a> {nullptr}</td></tr>
+<tr class="separator:adf322db48064fcf4528f713f857f1b40 inherit pub_attribs_a05828"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ac925dd4c2f889ae84e8be8cba9a0ef06" name="ac925dd4c2f889ae84e8be8cba9a0ef06"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac925dd4c2f889ae84e8be8cba9a0ef06">&#9670;&#160;</a></span>AppliedFileEntry()</h2>
+<a id="a017ab0275ea42132bb1e4ece7111572e" name="a017ab0275ea42132bb1e4ece7111572e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a017ab0275ea42132bb1e4ece7111572e">&#9670;&#160;</a></span>SQLQueryHolderTask()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -150,52 +170,52 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">UpdateFetcher::AppliedFileEntry::AppliedFileEntry </td>
+          <td class="memname">SQLQueryHolderTask::SQLQueryHolderTask </td>
           <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>name_</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype">std::shared_ptr&lt; <a class="el" href="../../d0/d5d/a05800.html">SQLQueryHolderBase</a> &gt;&#160;</td>
+          <td class="paramname"><em>holder</em></td><td>)</td>
           <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>hash_</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cb">State</a>&#160;</td>
-          <td class="paramname"><em>state_</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/ddf/a00488.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td>
-          <td class="paramname"><em>timestamp_</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>            : <a class="code hl_variable" href="../../d9/d19/a05804.html#a8fc429eae6816054b5828952a5698a4c">name</a>(name_), <a class="code hl_variable" href="../../d9/d19/a05804.html#af39f798a10c2675e870d4d62f1d0a10c">hash</a>(hash_), <a class="code hl_variable" href="../../d9/d19/a05804.html#a7899f60d95db04e776b7ccfbc1003cfb">state</a>(state_), <a class="code hl_variable" href="../../d9/d19/a05804.html#a13703e88b76f26858696b33a8bc8f862">timestamp</a>(timestamp_) { }</div>
-<div class="ttc" id="aa05804_html_a13703e88b76f26858696b33a8bc8f862"><div class="ttname"><a href="../../d9/d19/a05804.html#a13703e88b76f26858696b33a8bc8f862">UpdateFetcher::AppliedFileEntry::timestamp</a></div><div class="ttdeci">uint64 const timestamp</div><div class="ttdef"><b>Definition:</b> UpdateFetcher.h:87</div></div>
-<div class="ttc" id="aa05804_html_a7899f60d95db04e776b7ccfbc1003cfb"><div class="ttname"><a href="../../d9/d19/a05804.html#a7899f60d95db04e776b7ccfbc1003cfb">UpdateFetcher::AppliedFileEntry::state</a></div><div class="ttdeci">State const state</div><div class="ttdef"><b>Definition:</b> UpdateFetcher.h:86</div></div>
-<div class="ttc" id="aa05804_html_a8fc429eae6816054b5828952a5698a4c"><div class="ttname"><a href="../../d9/d19/a05804.html#a8fc429eae6816054b5828952a5698a4c">UpdateFetcher::AppliedFileEntry::name</a></div><div class="ttdeci">std::string const name</div><div class="ttdef"><b>Definition:</b> UpdateFetcher.h:84</div></div>
-<div class="ttc" id="aa05804_html_af39f798a10c2675e870d4d62f1d0a10c"><div class="ttname"><a href="../../d9/d19/a05804.html#af39f798a10c2675e870d4d62f1d0a10c">UpdateFetcher::AppliedFileEntry::hash</a></div><div class="ttdeci">std::string const hash</div><div class="ttdef"><b>Definition:</b> UpdateFetcher.h:85</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   56</span>        : <a class="code hl_variable" href="../../d9/d19/a05804.html#a64b624b8e77c819f5b47d592edc0979d">m_holder</a>(std::move(holder)) { }</div>
+<div class="ttc" id="aa05804_html_a64b624b8e77c819f5b47d592edc0979d"><div class="ttname"><a href="../../d9/d19/a05804.html#a64b624b8e77c819f5b47d592edc0979d">SQLQueryHolderTask::m_holder</a></div><div class="ttdeci">std::shared_ptr&lt; SQLQueryHolderBase &gt; m_holder</div><div class="ttdef"><b>Definition:</b> QueryHolder.h:64</div></div>
 </div><!-- fragment -->
+</div>
+</div>
+<a id="a0d1122160565c8f20f9a48390352c770" name="a0d1122160565c8f20f9a48390352c770"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0d1122160565c8f20f9a48390352c770">&#9670;&#160;</a></span>~SQLQueryHolderTask()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">SQLQueryHolderTask::~SQLQueryHolderTask </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a803f0ee67f0d3944b0933cf97723b5d3" name="a803f0ee67f0d3944b0933cf97723b5d3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a803f0ee67f0d3944b0933cf97723b5d3">&#9670;&#160;</a></span>GetStateAsString()</h2>
+<a id="a1dc2cdfee574ecbb8fd7bc595ca2f170" name="a1dc2cdfee574ecbb8fd7bc595ca2f170"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1dc2cdfee574ecbb8fd7bc595ca2f170">&#9670;&#160;</a></span>Execute()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -204,10 +224,52 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string UpdateFetcher::AppliedFileEntry::GetStateAsString </td>
+          <td class="memname">bool SQLQueryHolderTask::Execute </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p >execute all queries in the holder and pass the results</p>
+
+<p>Implements <a class="el" href="../../d3/d19/a05828.html#aff1090554bc4a6fe7a33270e63416e19">SQLOperation</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   78</span>{</div>
+<div class="line"><span class="lineno">   80</span>    <span class="keywordflow">for</span> (std::size_t i = 0; i &lt; <a class="code hl_variable" href="../../d9/d19/a05804.html#a64b624b8e77c819f5b47d592edc0979d">m_holder</a>-&gt;m_queries.size(); ++i)</div>
+<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d3c/a05776.html">PreparedStatementBase</a>* stmt = <a class="code hl_variable" href="../../d9/d19/a05804.html#a64b624b8e77c819f5b47d592edc0979d">m_holder</a>-&gt;m_queries[i].first)</div>
+<div class="line"><span class="lineno">   82</span>            <a class="code hl_variable" href="../../d9/d19/a05804.html#a64b624b8e77c819f5b47d592edc0979d">m_holder</a>-&gt;SetPreparedResult(i, <a class="code hl_variable" href="../../d3/d19/a05828.html#adf322db48064fcf4528f713f857f1b40">m_conn</a>-&gt;<a class="code hl_function" href="../../dd/dd5/a05700.html#a8c05ec510296198c91e98e7d18e9d6c7">Query</a>(stmt));</div>
+<div class="line"><span class="lineno">   83</span> </div>
+<div class="line"><span class="lineno">   84</span>    <a class="code hl_variable" href="../../d9/d19/a05804.html#ab27ce22bdb505509662d862e92fe7e77">m_result</a>.set_value();</div>
+<div class="line"><span class="lineno">   85</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   86</span>}</div>
+<div class="ttc" id="aa05700_html_a8c05ec510296198c91e98e7d18e9d6c7"><div class="ttname"><a href="../../dd/dd5/a05700.html#a8c05ec510296198c91e98e7d18e9d6c7">MySQLConnection::Query</a></div><div class="ttdeci">ResultSet * Query(std::string_view sql)</div><div class="ttdef"><b>Definition:</b> MySQLConnection.cpp:310</div></div>
+<div class="ttc" id="aa05776_html"><div class="ttname"><a href="../../d7/d3c/a05776.html">PreparedStatementBase</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:68</div></div>
+<div class="ttc" id="aa05804_html_ab27ce22bdb505509662d862e92fe7e77"><div class="ttname"><a href="../../d9/d19/a05804.html#ab27ce22bdb505509662d862e92fe7e77">SQLQueryHolderTask::m_result</a></div><div class="ttdeci">QueryResultHolderPromise m_result</div><div class="ttdef"><b>Definition:</b> QueryHolder.h:65</div></div>
+<div class="ttc" id="aa05828_html_adf322db48064fcf4528f713f857f1b40"><div class="ttname"><a href="../../d3/d19/a05828.html#adf322db48064fcf4528f713f857f1b40">SQLOperation::m_conn</a></div><div class="ttdeci">MySQLConnection * m_conn</div><div class="ttdef"><b>Definition:</b> SQLOperation.h:56</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00056">SQLOperation::m_conn</a>, <a class="el" href="../../#l00064">m_holder</a>, <a class="el" href="../../#l00065">m_result</a>, and <a class="el" href="../../#l00310">MySQLConnection::Query()</a>.</p>
+
+</div>
+</div>
+<a id="a73199c4e5805933c9f79091797dedc5d" name="a73199c4e5805933c9f79091797dedc5d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a73199c4e5805933c9f79091797dedc5d">&#9670;&#160;</a></span>GetFuture()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/da8/a04091.html#afa682c0dbd4467d34bc28101c82c8959">QueryResultHolderFuture</a> SQLQueryHolderTask::GetFuture </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
@@ -216,156 +278,58 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  119</span>        {</div>
-<div class="line"><span class="lineno">  120</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="../../d9/d19/a05804.html#ac35fc4abcc60015c56765ceebc6fdb8f">StateConvert</a>(<a class="code hl_variable" href="../../d9/d19/a05804.html#a7899f60d95db04e776b7ccfbc1003cfb">state</a>);</div>
-<div class="line"><span class="lineno">  121</span>        }</div>
-<div class="ttc" id="aa05804_html_ac35fc4abcc60015c56765ceebc6fdb8f"><div class="ttname"><a href="../../d9/d19/a05804.html#ac35fc4abcc60015c56765ceebc6fdb8f">UpdateFetcher::AppliedFileEntry::StateConvert</a></div><div class="ttdeci">static State StateConvert(std::string const &amp;state)</div><div class="ttdef"><b>Definition:</b> UpdateFetcher.h:89</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   61</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d19/a05804.html#ab27ce22bdb505509662d862e92fe7e77">m_result</a>.get_future(); }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00452">UpdateFetcher::UpdateEntry()</a>.</p>
-
-</div>
-</div>
-<a id="a16274f0e9e6669be265ba75f79c4b10f" name="a16274f0e9e6669be265ba75f79c4b10f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a16274f0e9e6669be265ba75f79c4b10f">&#9670;&#160;</a></span>StateConvert() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static std::string UpdateFetcher::AppliedFileEntry::StateConvert </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cb">State</a> const&#160;</td>
-          <td class="paramname"><em>state</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  102</span>        {</div>
-<div class="line"><span class="lineno">  103</span>            <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d9/d19/a05804.html#a7899f60d95db04e776b7ccfbc1003cfb">state</a>)</div>
-<div class="line"><span class="lineno">  104</span>            {</div>
-<div class="line"><span class="lineno">  105</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cbae4e3bbfa8ddc283a5eededb71917098a">RELEASED</a>:</div>
-<div class="line"><span class="lineno">  106</span>                    <span class="keywordflow">return</span> <span class="stringliteral">&quot;RELEASED&quot;</span>;</div>
-<div class="line"><span class="lineno">  107</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cbab25140471fb922c632f3d126d2a3e5b4">CUSTOM</a>:</div>
-<div class="line"><span class="lineno">  108</span>                    <span class="keywordflow">return</span> <span class="stringliteral">&quot;CUSTOM&quot;</span>;</div>
-<div class="line"><span class="lineno">  109</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cbaf24fbaf4f357560007067272d5d238f4">MODULE</a>:</div>
-<div class="line"><span class="lineno">  110</span>                    <span class="keywordflow">return</span> <span class="stringliteral">&quot;MODULE&quot;</span>;</div>
-<div class="line"><span class="lineno">  111</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cbae5b766afead812f823b982c5421629a8">ARCHIVED</a>:</div>
-<div class="line"><span class="lineno">  112</span>                    <span class="keywordflow">return</span> <span class="stringliteral">&quot;ARCHIVED&quot;</span>;</div>
-<div class="line"><span class="lineno">  113</span>                <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  114</span>                    <span class="keywordflow">return</span> <span class="stringliteral">&quot;&quot;</span>;</div>
-<div class="line"><span class="lineno">  115</span>            }</div>
-<div class="line"><span class="lineno">  116</span>        }</div>
-<div class="ttc" id="aa05800_html_a67e1565cbdd009909badb09d67eea1cbab25140471fb922c632f3d126d2a3e5b4"><div class="ttname"><a href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cbab25140471fb922c632f3d126d2a3e5b4">UpdateFetcher::CUSTOM</a></div><div class="ttdeci">@ CUSTOM</div><div class="ttdef"><b>Definition:</b> UpdateFetcher.h:74</div></div>
-<div class="ttc" id="aa05800_html_a67e1565cbdd009909badb09d67eea1cbae4e3bbfa8ddc283a5eededb71917098a"><div class="ttname"><a href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cbae4e3bbfa8ddc283a5eededb71917098a">UpdateFetcher::RELEASED</a></div><div class="ttdeci">@ RELEASED</div><div class="ttdef"><b>Definition:</b> UpdateFetcher.h:73</div></div>
-<div class="ttc" id="aa05800_html_a67e1565cbdd009909badb09d67eea1cbae5b766afead812f823b982c5421629a8"><div class="ttname"><a href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cbae5b766afead812f823b982c5421629a8">UpdateFetcher::ARCHIVED</a></div><div class="ttdeci">@ ARCHIVED</div><div class="ttdef"><b>Definition:</b> UpdateFetcher.h:76</div></div>
-<div class="ttc" id="aa05800_html_a67e1565cbdd009909badb09d67eea1cbaf24fbaf4f357560007067272d5d238f4"><div class="ttname"><a href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cbaf24fbaf4f357560007067272d5d238f4">UpdateFetcher::MODULE</a></div><div class="ttdeci">@ MODULE</div><div class="ttdef"><b>Definition:</b> UpdateFetcher.h:75</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ac35fc4abcc60015c56765ceebc6fdb8f" name="ac35fc4abcc60015c56765ceebc6fdb8f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac35fc4abcc60015c56765ceebc6fdb8f">&#9670;&#160;</a></span>StateConvert() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static <a class="el" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cb">State</a> UpdateFetcher::AppliedFileEntry::StateConvert </td>
-          <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>state</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   90</span>        {</div>
-<div class="line"><span class="lineno">   91</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d19/a05804.html#a7899f60d95db04e776b7ccfbc1003cfb">state</a> == <span class="stringliteral">&quot;RELEASED&quot;</span>)</div>
-<div class="line"><span class="lineno">   92</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cbae4e3bbfa8ddc283a5eededb71917098a">RELEASED</a>;</div>
-<div class="line"><span class="lineno">   93</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d19/a05804.html#a7899f60d95db04e776b7ccfbc1003cfb">state</a> == <span class="stringliteral">&quot;CUSTOM&quot;</span>)</div>
-<div class="line"><span class="lineno">   94</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cbab25140471fb922c632f3d126d2a3e5b4">CUSTOM</a>;</div>
-<div class="line"><span class="lineno">   95</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d19/a05804.html#a7899f60d95db04e776b7ccfbc1003cfb">state</a> == <span class="stringliteral">&quot;MODULE&quot;</span>)</div>
-<div class="line"><span class="lineno">   96</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cbaf24fbaf4f357560007067272d5d238f4">MODULE</a>;</div>
-<div class="line"><span class="lineno">   97</span> </div>
-<div class="line"><span class="lineno">   98</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cbae5b766afead812f823b982c5421629a8">ARCHIVED</a>;</div>
-<div class="line"><span class="lineno">   99</span>        }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00072">UpdateFetcher::FillFileListRecursively()</a>, <a class="el" href="../../#l00183">UpdateFetcher::ReceiveAppliedFiles()</a>, <a class="el" href="../../#l00105">UpdateFetcher::ReceiveIncludedDirectories()</a>, <a class="el" href="../../#l00230">UpdateFetcher::Update()</a>, and <a class="el" href="../../#l00503">UpdateFetcher::UpdateState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00237">DatabaseWorkerPool&lt; T &gt;::DelayQueryHolder()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="af39f798a10c2675e870d4d62f1d0a10c" name="af39f798a10c2675e870d4d62f1d0a10c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af39f798a10c2675e870d4d62f1d0a10c">&#9670;&#160;</a></span>hash</h2>
+<a id="a64b624b8e77c819f5b47d592edc0979d" name="a64b624b8e77c819f5b47d592edc0979d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a64b624b8e77c819f5b47d592edc0979d">&#9670;&#160;</a></span>m_holder</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string const UpdateFetcher::AppliedFileEntry::hash</td>
+          <td class="memname">std::shared_ptr&lt;<a class="el" href="../../d0/d5d/a05800.html">SQLQueryHolderBase</a>&gt; SQLQueryHolderTask::m_holder</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00452">UpdateFetcher::UpdateEntry()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00077">Execute()</a>.</p>
 
 </div>
 </div>
-<a id="a8fc429eae6816054b5828952a5698a4c" name="a8fc429eae6816054b5828952a5698a4c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8fc429eae6816054b5828952a5698a4c">&#9670;&#160;</a></span>name</h2>
+<a id="ab27ce22bdb505509662d862e92fe7e77" name="ab27ce22bdb505509662d862e92fe7e77"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab27ce22bdb505509662d862e92fe7e77">&#9670;&#160;</a></span>m_result</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string const UpdateFetcher::AppliedFileEntry::name</td>
+          <td class="memname"><a class="el" href="../../de/da8/a04091.html#ad57a63776c96b99707576dd6f1ff7c29">QueryResultHolderPromise</a> SQLQueryHolderTask::m_result</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00183">UpdateFetcher::ReceiveAppliedFiles()</a>, and <a class="el" href="../../#l00452">UpdateFetcher::UpdateEntry()</a>.</p>
-
-</div>
-</div>
-<a id="a7899f60d95db04e776b7ccfbc1003cfb" name="a7899f60d95db04e776b7ccfbc1003cfb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7899f60d95db04e776b7ccfbc1003cfb">&#9670;&#160;</a></span>state</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5d/a05800.html#a67e1565cbdd009909badb09d67eea1cb">State</a> const UpdateFetcher::AppliedFileEntry::state</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a13703e88b76f26858696b33a8bc8f862" name="a13703e88b76f26858696b33a8bc8f862"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a13703e88b76f26858696b33a8bc8f862">&#9670;&#160;</a></span>timestamp</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d4/ddf/a00488.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> const UpdateFetcher::AppliedFileEntry::timestamp</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<p class="reference">Referenced by <a class="el" href="../../#l00077">Execute()</a>.</p>
 
 </div>
 </div>
@@ -374,8 +338,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/d5d/a05800.html">UpdateFetcher</a></li><li class="navelem"><a class="el" href="../../d9/d19/a05804.html">AppliedFileEntry</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:44:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/d19/a05804.html">SQLQueryHolderTask</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:44:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

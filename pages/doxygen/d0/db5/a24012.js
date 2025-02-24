@@ -1,6 +1,14 @@
 var a24012 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d1/df4/a24016.html", "d1/df4/a24016" ],
-    [ "npc_creditmarker_visit_with_ancestors", "d0/db5/a24012.html#a60f7abac7198d8504d944828dceb1ffa", null ],
-    [ "GetAI", "d0/db5/a24012.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
+    [ "npc_mature_netherwing_drakeAI", "d0/db5/a24012.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
+    [ "JustReachedHome", "d0/db5/a24012.html#a0de69b5fda6342217697ad264d64d4e6", null ],
+    [ "MovementInform", "d0/db5/a24012.html#a456b5de60672120f82506d177faf6b47", null ],
+    [ "Reset", "d0/db5/a24012.html#a72eb39e259aed0ab230d4d43722cba13", null ],
+    [ "SpellHit", "d0/db5/a24012.html#a749690b386c0c726d11b77bc705b9b01", null ],
+    [ "UpdateAI", "d0/db5/a24012.html#a624c256f29d3cefed0bb909da3841853", null ],
+    [ "bCanEat", "d0/db5/a24012.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
+    [ "bIsEating", "d0/db5/a24012.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
+    [ "CastTimer", "d0/db5/a24012.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
+    [ "EatTimer", "d0/db5/a24012.html#aa50d3a21103dc769d162b1c917100630", null ],
+    [ "uiPlayerGUID", "d0/db5/a24012.html#a6b9a435245ddce156d0657aa9e35175b", null ]
 ];

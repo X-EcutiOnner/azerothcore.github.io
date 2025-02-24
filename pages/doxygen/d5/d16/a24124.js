@@ -1,6 +1,7 @@
 var a24124 =
 [
-    [ "npc_drake_dealer_hurlunk", "d5/d16/a24124.html#ae6d095365d23c30d5b772b047b459ddb", null ],
-    [ "OnGossipHello", "d5/d16/a24124.html#ad04b7f906f029d9935e29c585b0de421", null ],
-    [ "OnGossipSelect", "d5/d16/a24124.html#aa23833dcdefb909899120c25d5376111", null ]
+    [ "npc_kservantAI", "d5/d16/a24124.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d5/d16/a24124.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d5/d16/a24124.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "d5/d16/a24124.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
 ];

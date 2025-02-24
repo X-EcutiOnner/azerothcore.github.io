@@ -1,15 +1,15 @@
 var a15748 =
 [
-    [ "boss_krik_thirAI", "d0/d96/a15748.html#a92a2b2089c890901cd438c8d8ea432c7", null ],
-    [ "GetData", "d0/d96/a15748.html#adcca5f21a596ffae3c50f102c4698c4e", null ],
-    [ "JustDied", "d0/d96/a15748.html#ab4a576f9746f7ade8f6b8f8c08795433", null ],
-    [ "JustEngagedWith", "d0/d96/a15748.html#aa99c241641fc7e94412d08bebed07475", null ],
-    [ "JustSummoned", "d0/d96/a15748.html#afff556f4bc00b87b3d2a37ffbf54c919", null ],
-    [ "KilledUnit", "d0/d96/a15748.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d", null ],
-    [ "MoveInLineOfSight", "d0/d96/a15748.html#a6c72cebac0e09f66bf0a60cdc328aa4d", null ],
-    [ "Reset", "d0/d96/a15748.html#a613441fcb7bd851a03729be84d27650c", null ],
-    [ "SummonedCreatureDies", "d0/d96/a15748.html#acb7b45fbe3a736ad65b0a2556ead40ae", null ],
-    [ "UpdateAI", "d0/d96/a15748.html#ae37227df78ad9ffb9722caa0c16ffa5f", null ],
-    [ "_initTalk", "d0/d96/a15748.html#a68a4994c750979b91e46160b0cba77b4", null ],
-    [ "events2", "d0/d96/a15748.html#a8f706239d33861105a37476eecb977ec", null ]
+    [ "boss_hadronoxAI", "d0/d96/a15748.html#a75430465e2329252581c2522ff14d82b", null ],
+    [ "AnyPlayerValid", "d0/d96/a15748.html#a5b4dc381ff6df8a4badc61196e2687bd", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d0/d96/a15748.html#aa5c858b2702744f24ac1d22078df1d7b", null ],
+    [ "DamageTaken", "d0/d96/a15748.html#a31ddd8521366da9cb862334c659288b3", null ],
+    [ "DoAction", "d0/d96/a15748.html#ab3bf3ca6a2adcf4c50a9bf1ddc8bac0e", null ],
+    [ "GetData", "d0/d96/a15748.html#a6fdb9b9650382600086f5646a627af52", null ],
+    [ "JustDied", "d0/d96/a15748.html#a42ffdf5a3d2ee43ddf0fc0d29f580491", null ],
+    [ "JustEngagedWith", "d0/d96/a15748.html#af8bcc00fbf757e0a0129111cca0a0a5c", null ],
+    [ "JustSummoned", "d0/d96/a15748.html#a65b93a213a69edf864ca123b6560b0a8", null ],
+    [ "KilledUnit", "d0/d96/a15748.html#ac4b6a589939bdc8a23f182ebf955e242", null ],
+    [ "Reset", "d0/d96/a15748.html#a1063db2596a0d57381011c2a6ceeb34e", null ],
+    [ "UpdateAI", "d0/d96/a15748.html#a10aa0f67aeb12d3d9a34f6213fe3d28f", null ]
 ];

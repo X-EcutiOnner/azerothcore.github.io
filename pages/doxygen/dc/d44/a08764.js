@@ -1,7 +1,9 @@
 var a08764 =
 [
-    [ "QuestPOIPoint", "dc/d44/a08764.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
-    [ "QuestPOIPoint", "dc/d44/a08764.html#a2e80e5a83ab336a8b019f38297862efa", null ],
-    [ "x", "dc/d44/a08764.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
-    [ "y", "dc/d44/a08764.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
+    [ "GameEventAIHookWorker", "dc/d44/a08764.html#ad72640a18d2d32a9201c965089ee49cf", null ],
+    [ "Visit", "dc/d44/a08764.html#a23d979ee43838e7d58e9123e36474a5a", null ],
+    [ "Visit", "dc/d44/a08764.html#a79106ec550d072d690bbf3496d76cb0a", null ],
+    [ "Visit", "dc/d44/a08764.html#a165476edd8b252bbb90b8b78fae963a6", null ],
+    [ "_activate", "dc/d44/a08764.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
+    [ "_eventId", "dc/d44/a08764.html#ab1ee68bb7134e84780772eba2cfac766", null ]
 ];

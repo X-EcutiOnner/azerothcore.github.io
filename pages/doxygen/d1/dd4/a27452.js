@@ -1,6 +1,7 @@
 var a27452 =
 [
-    [ "spawnedCreatureEntry", "d1/dd4/a27452.html#a32b390dfff99d5fd3c49359779718af4", null ],
-    [ "spawnType", "d1/dd4/a27452.html#a056dabf4092da4ef3155a661607ca772", null ],
-    [ "thisCreatureEntry", "d1/dd4/a27452.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
+    [ "npc_steam_tonkAI", "d1/dd4/a27452.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "d1/dd4/a27452.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "d1/dd4/a27452.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "d1/dd4/a27452.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

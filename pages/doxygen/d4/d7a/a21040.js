@@ -1,6 +1,6 @@
 var a21040 =
 [
-    [ "npc_massive_jormungarAI", "d6/d5b/a21044.html", "d6/d5b/a21044" ],
-    [ "npc_massive_jormungar", "d4/d7a/a21040.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "d4/d7a/a21040.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "CalculateAmount", "d4/d7a/a21040.html#a79019ef395c9b66f6a88759b0517005d", null ],
+    [ "PrepareAuraScript", "d4/d7a/a21040.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
+    [ "Register", "d4/d7a/a21040.html#a9bce52699983fe798c903385faa42462", null ]
 ];

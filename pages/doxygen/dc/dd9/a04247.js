@@ -1,6 +1,8 @@
 var a04247 =
 [
-    [ "VMAP::IntersectionCallBack< TValue >", "db/df6/a05082.html", "db/df6/a05082" ],
-    [ "VMAP::MyCollisionDetection", "d2/d69/a05086.html", "d2/d69/a05086" ],
-    [ "IR", "dc/dd9/a04247.html#aa54c7fcd0c551f1db5fc34a2f6b11e74", null ]
+    [ "LIQUID_TILE_SIZE", "dc/dd9/a04247.html#a1596e8a465c0638086c77467a2dde3a6", null ],
+    [ "readChunk", "dc/dd9/a04247.html#a166f3eeee53079ac9df4f15ccd577974", null ],
+    [ "GAMEOBJECT_MODELS", "dc/dd9/a04247.html#ada4191301386f881525b3f0b0760cb60", null ],
+    [ "RAW_VMAP_MAGIC", "dc/dd9/a04247.html#ab44884fb6c05cb4ae128d5882a2c4b7c", null ],
+    [ "VMAP_MAGIC", "dc/dd9/a04247.html#aa7e5a571fdcb9d62ceefdcf5744746cb", null ]
 ];

@@ -1,8 +1,10 @@
 var a26624 =
 [
-    [ "CheckProc", "d9/dba/a26624.html#a33412f2b5abb1ce2160408ef13e7f0cb", null ],
-    [ "HandleProc", "d9/dba/a26624.html#ab24c3d3f697a7ebd146d6135305c7741", null ],
-    [ "PrepareAuraScript", "d9/dba/a26624.html#a8eccfbb749b85bbb850874324f17bbde", null ],
-    [ "Register", "d9/dba/a26624.html#a482dd09de6cba9f5a36a6cdad1b82a0a", null ],
-    [ "Validate", "d9/dba/a26624.html#a0c3020d44608920a2820e73e0b9e4b42", null ]
+    [ "CalculateAPAmount", "d9/dba/a26624.html#ae76d10c68df1f149f83d4247122b47a7", null ],
+    [ "CalculateResistanceAmount", "d9/dba/a26624.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
+    [ "CalculateSPAmount", "d9/dba/a26624.html#a421996ca946d5b04c264718e6dd63fa9", null ],
+    [ "CalculateStatAmount", "d9/dba/a26624.html#ae695515c915f2452dccb71aeb018f3a3", null ],
+    [ "HandleEffectApply", "d9/dba/a26624.html#a207864c73e485e0db0fe47bde97d87a2", null ],
+    [ "PrepareAuraScript", "d9/dba/a26624.html#a4179be48195872410bda69cac3454812", null ],
+    [ "Register", "d9/dba/a26624.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
 ];

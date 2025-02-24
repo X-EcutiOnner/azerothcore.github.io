@@ -1,7 +1,6 @@
 var a10632 =
 [
-    [ "OpcodeHandler", "dd/d22/a04662.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "dd/d22/a04662.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "dd/d22/a04662.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "dd/d22/a04662.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "GuildBankRemainingWithdrawMoney", "d5/d9e/a10632.html#afdb4e226091e8280b4ef26bd51edebdd", null ],
+    [ "Write", "d5/d9e/a10632.html#aecc28f8734a66c562c7baa1575b07ff9", null ],
+    [ "RemainingWithdrawMoney", "d5/d9e/a10632.html#a015ba615ebe4ea09df8233f6a85332f4", null ]
 ];

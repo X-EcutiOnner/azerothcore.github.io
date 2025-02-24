@@ -1,7 +1,9 @@
 var a26972 =
 [
-    [ "CharacterDeleteActionIpLogger", "d1/d2d/a26972.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "d1/d2d/a26972.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnDelete", "d1/d2d/a26972.html#a35ea1362df09fccf0c4cee2e9ef6deb9", null ],
-    [ "OnFailedDelete", "d1/d2d/a26972.html#a34efd44289746078fdcfae63641b5580", null ]
+    [ "boss_lethonAI", "d1/d2d/a26972.html#ac5d53a746f5286776b2e510f1de86790", null ],
+    [ "DamageTaken", "d1/d2d/a26972.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
+    [ "JustEngagedWith", "d1/d2d/a26972.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
+    [ "Reset", "d1/d2d/a26972.html#a0e53d139f64d104557e157a91176a47a", null ],
+    [ "SpellHitTarget", "d1/d2d/a26972.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
+    [ "_stage", "d1/d2d/a26972.html#aa267296ee60efc7d39a20dc05afec081", null ]
 ];

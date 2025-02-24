@@ -1,7 +1,6 @@
 var a22752 =
 [
-    [ "VerasEnvenom", "de/d26/a22752.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
-    [ "Execute", "de/d26/a22752.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
-    [ "_owner", "de/d26/a22752.html#af9cf231119ab5592be9829784f20d2e0", null ],
-    [ "_targetGUID", "de/d26/a22752.html#a90d62907c775565765fa87903adb94ea", null ]
+    [ "boss_essence_of_desireAI", "d7/dae/a22756.html", "d7/dae/a22756" ],
+    [ "boss_essence_of_desire", "de/d26/a22752.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
+    [ "GetAI", "de/d26/a22752.html#a14b66470c508fa24e214062aeec0aae6", null ]
 ];

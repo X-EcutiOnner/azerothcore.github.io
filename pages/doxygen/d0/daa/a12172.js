@@ -1,6 +1,6 @@
 var a12172 =
 [
-    [ "bossId", "d0/daa/a12172.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
-    [ "circleId", "d0/daa/a12172.html#aaa379e61fda2f7225ab4089757df5d24", null ],
-    [ "runeId", "d0/daa/a12172.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
+    [ "boss_firemawAI", "d0/daa/a12172.html#ab3f56c97119676b1a75662e52caecb75", null ],
+    [ "JustEngagedWith", "d0/daa/a12172.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
+    [ "UpdateAI", "d0/daa/a12172.html#a6e35e47b23d713263ef00769324bbbed", null ]
 ];

@@ -1,12 +1,16 @@
 var a27956 =
 [
-    [ "ID", "d7/d42/a27956.html#a84ba697182123cb3e7dd3ba07241e971", null ],
-    [ "maxScale", "d7/d42/a27956.html#a23ca0ae7c45790a24f58546970194abf", null ],
-    [ "maxScaleLevel", "d7/d42/a27956.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
-    [ "minScale", "d7/d42/a27956.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
-    [ "minScaleLevel", "d7/d42/a27956.html#a49d9d7847cc4d54891d83166eb277740", null ],
-    [ "Name", "d7/d42/a27956.html#a937fc579ab2790f4a972f07d3453a762", null ],
-    [ "petFoodMask", "d7/d42/a27956.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
-    [ "petTalentType", "d7/d42/a27956.html#a802000cefb6c4d357edfc45cc291e21e", null ],
-    [ "skillLine", "d7/d42/a27956.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
+    [ "IsContestedGuardFaction", "d7/d42/a27956.html#a52d5e1e5b01946a3d6d66158910e9f6d", null ],
+    [ "IsFriendlyTo", "d7/d42/a27956.html#ac70cef62b2ec646d593d8742a3c02f08", null ],
+    [ "IsHostileTo", "d7/d42/a27956.html#a1aadbf23c1c81a958665d96e5bf76093", null ],
+    [ "IsHostileToPlayers", "d7/d42/a27956.html#a349650c7af717e3c67392a0b9d1970e1", null ],
+    [ "IsNeutralToAll", "d7/d42/a27956.html#a99cb471bcc9071a3c152266caa4579ae", null ],
+    [ "enemyFaction", "d7/d42/a27956.html#ae53f6799be5ae4bf7ab047fd97a4a969", null ],
+    [ "faction", "d7/d42/a27956.html#a2cb03ed38c15f6e6db7b556200282541", null ],
+    [ "factionFlags", "d7/d42/a27956.html#af20e4983d34c419b4a14c60d8049d9f4", null ],
+    [ "friendFaction", "d7/d42/a27956.html#a9c89b58067e28de89cedf2572b5e0e31", null ],
+    [ "friendlyMask", "d7/d42/a27956.html#a6842badfb5e7e0ad3a26d250426c64b6", null ],
+    [ "hostileMask", "d7/d42/a27956.html#ab395ab86c3e553ea4a9b1ae901c6e7cb", null ],
+    [ "ID", "d7/d42/a27956.html#a22657898486c71df39da27b968e405d5", null ],
+    [ "ourMask", "d7/d42/a27956.html#a822685376430441eeb85c24fd26473b0", null ]
 ];

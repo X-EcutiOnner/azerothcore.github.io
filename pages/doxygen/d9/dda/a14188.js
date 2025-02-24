@@ -1,7 +1,9 @@
 var a14188 =
 [
-    [ "HandleEffectApply", "d9/dda/a14188.html#a22f3143b10155635194abe22994a397c", null ],
-    [ "HandleEffectRemove", "d9/dda/a14188.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
-    [ "PrepareAuraScript", "d9/dda/a14188.html#abb4f53a42e701323b2fc66598ec3503c", null ],
-    [ "Register", "d9/dda/a14188.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
+    [ "entries", "d9/dda/a14188.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "d9/dda/a14188.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "d9/dda/a14188.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "d9/dda/a14188.html#ad849701425622001519334f352ea6f3e", null ],
+    [ "size", "d9/dda/a14188.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "d9/dda/a14188.html#aa081965795e3b9473be5b322b0c46505", null ]
 ];

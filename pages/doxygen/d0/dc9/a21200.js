@@ -1,6 +1,12 @@
 var a21200 =
 [
-    [ "spell_koralon_meteor_fists_AuraScript", "de/d56/a21204.html", "de/d56/a21204" ],
-    [ "spell_koralon_meteor_fists", "d0/dc9/a21200.html#aac98b15864fcca09bab4fe8e2393765a", null ],
-    [ "GetAuraScript", "d0/dc9/a21200.html#ac953d13c4a6059752b87b28a4bc8308d", null ]
+    [ "boss_moraggAI", "d0/dc9/a21200.html#a3ae881c9adca20a2cb894af85297d53e", null ],
+    [ "EnterEvadeMode", "d0/dc9/a21200.html#a4e70e42407f452c4685c732949fd2b52", null ],
+    [ "JustDied", "d0/dc9/a21200.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
+    [ "JustEngagedWith", "d0/dc9/a21200.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
+    [ "MoveInLineOfSight", "d0/dc9/a21200.html#a52a99d72dfa017baacb76717e6db931b", null ],
+    [ "Reset", "d0/dc9/a21200.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
+    [ "UpdateAI", "d0/dc9/a21200.html#aec7645eaae190d1e7982aae181ff9224", null ],
+    [ "events", "d0/dc9/a21200.html#acd021e4216e3920f0534da95d69ba5eb", null ],
+    [ "pInstance", "d0/dc9/a21200.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
 ];

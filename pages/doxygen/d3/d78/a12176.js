@@ -1,6 +1,6 @@
 var a12176 =
 [
-    [ "instance_molten_core_InstanceMapScript", "d5/de2/a12180.html", "d5/de2/a12180" ],
-    [ "instance_molten_core", "d3/d78/a12176.html#ad83dac834feb2fcae872dfe09b833950", null ],
-    [ "GetInstanceScript", "d3/d78/a12176.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
+    [ "boss_flamegorAI", "d5/de2/a12180.html", "d5/de2/a12180" ],
+    [ "boss_flamegor", "d3/d78/a12176.html#abc6f068c81466d08306d94667bb1974b", null ],
+    [ "GetAI", "d3/d78/a12176.html#a56fb8425c55703fbda14a982d8fdcb2d", null ]
 ];

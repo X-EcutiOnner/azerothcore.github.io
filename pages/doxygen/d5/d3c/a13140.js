@@ -1,8 +1,11 @@
 var a13140 =
 [
-    [ "HandleApply", "d5/d3c/a13140.html#a2c64240e8675fc76598600ae2632570f", null ],
-    [ "HandleRemove", "d5/d3c/a13140.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
-    [ "PrepareAuraScript", "d5/d3c/a13140.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
-    [ "Register", "d5/d3c/a13140.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
-    [ "Validate", "d5/d3c/a13140.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
+    [ "boss_sacrolash", "d5/d3c/a13140.html#a6e251340b2ba8a8300611cf229b93095", null ],
+    [ "DoAction", "d5/d3c/a13140.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
+    [ "JustDied", "d5/d3c/a13140.html#a17c995220572cf803c36470ca80840e2", null ],
+    [ "JustEngagedWith", "d5/d3c/a13140.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
+    [ "JustSummoned", "d5/d3c/a13140.html#a94214bc45414f61ff53102d6136b7b5c", null ],
+    [ "KilledUnit", "d5/d3c/a13140.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
+    [ "Reset", "d5/d3c/a13140.html#aa3128dae87d181e7ab93cf3a13723982", null ],
+    [ "_isSisterDead", "d5/d3c/a13140.html#a248d37df91c82069321fc5ea8b1e885d", null ]
 ];

@@ -1,6 +1,6 @@
 var a23416 =
 [
-    [ "HandleScriptEffect", "da/dd2/a23416.html#abba5817280db6579e3e6e0b964655c6e", null ],
-    [ "PrepareSpellScript", "da/dd2/a23416.html#a846fa43c9907ddb6243c006327757a1c", null ],
-    [ "Register", "da/dd2/a23416.html#a7daa26f4035912bff4811b0bfee35fee", null ]
+    [ "CheckProc", "da/dd2/a23416.html#add583b34b9052fbb37c43c558f0f8b96", null ],
+    [ "PrepareAuraScript", "da/dd2/a23416.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
+    [ "Register", "da/dd2/a23416.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
 ];

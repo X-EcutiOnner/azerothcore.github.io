@@ -1,7 +1,11 @@
 var a26420 =
 [
-    [ "HandleDummy", "db/dea/a26420.html#a4c837e7342603519d1f23ab8702c3160", null ],
-    [ "PrepareSpellScript", "db/dea/a26420.html#ae9d6ab0c9b9cf87f7b86f28e9bb25371", null ],
-    [ "Register", "db/dea/a26420.html#a16a5ca3ec9a8c463c9a2975fa29eb1e9", null ],
-    [ "Validate", "db/dea/a26420.html#ad742f4ce0d0db70427f7ba849a4526df", null ]
+    [ "AddTarget", "db/dea/a26420.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "db/dea/a26420.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "db/dea/a26420.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "db/dea/a26420.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "db/dea/a26420.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "db/dea/a26420.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "db/dea/a26420.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "db/dea/a26420.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

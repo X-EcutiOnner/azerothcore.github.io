@@ -1,8 +1,7 @@
 var a12228 =
 [
-    [ "npc_kernobeeAI", "d9/df7/a12228.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
-    [ "SetGUID", "d9/df7/a12228.html#a34999b470697ba0a27701facd63625f8", null ],
-    [ "UpdateAI", "d9/df7/a12228.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
-    [ "checkTimer", "d9/df7/a12228.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
-    [ "playerGUID", "d9/df7/a12228.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
+    [ "HandleDummy", "d9/df7/a12228.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
+    [ "PrepareSpellScript", "d9/df7/a12228.html#ad07165f81a7f407c716f90691ecb9817", null ],
+    [ "Register", "d9/df7/a12228.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
+    [ "Validate", "d9/df7/a12228.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
 ];

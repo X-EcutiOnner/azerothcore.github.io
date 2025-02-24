@@ -1,7 +1,6 @@
 var a25312 =
 [
-    [ "HandleOnEffectApply", "d1/d39/a25312.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
-    [ "HandleOnEffectRemove", "d1/d39/a25312.html#a094d788d157474a9683387d5c340538f", null ],
-    [ "PrepareAuraScript", "d1/d39/a25312.html#aad378b8c45f11af51faf9128878c01df", null ],
-    [ "Register", "d1/d39/a25312.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
+    [ "CheckProc", "d1/d39/a25312.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
+    [ "PrepareAuraScript", "d1/d39/a25312.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
+    [ "Register", "d1/d39/a25312.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
 ];

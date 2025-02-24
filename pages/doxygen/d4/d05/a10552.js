@@ -1,4 +1,6 @@
 var a10552 =
 [
-    [ "PacketArrayMaxCapacityException", "d4/d05/a10552.html#ad71e0267bc6c9e5d182954eaa174c40e", null ]
+    [ "GuildEventLogQueryResults", "d4/d05/a10552.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
+    [ "Write", "d4/d05/a10552.html#aa24738cdd040a883782b50189abdf240", null ],
+    [ "Entry", "d4/d05/a10552.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
 ];

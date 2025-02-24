@@ -1,7 +1,7 @@
 var a15268 =
 [
-    [ "HandleEffectPeriodic", "d2/d78/a15268.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "d2/d78/a15268.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "d2/d78/a15268.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "d2/d78/a15268.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "d2/d78/a15268.html#aaed19d0c915891d8afecda7df75a8a75", null ],
+    [ "JustRespawned", "d2/d78/a15268.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
+    [ "MoveInLineOfSight", "d2/d78/a15268.html#a295d4bef97b97c7deb31a81274f0818d", null ],
+    [ "SpellHit", "d2/d78/a15268.html#a021b82aa6bd2e118fe810f18349fda42", null ]
 ];

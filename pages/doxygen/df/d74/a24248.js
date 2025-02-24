@@ -1,7 +1,7 @@
 var a24248 =
 [
-    [ "HandleSendEvent", "df/d74/a24248.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "df/d74/a24248.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "df/d74/a24248.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "df/d74/a24248.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "npc_pet_gen_target_following_bomb", "df/d74/a24248.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "df/d74/a24248.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "df/d74/a24248.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "df/d74/a24248.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

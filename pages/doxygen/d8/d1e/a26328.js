@@ -1,7 +1,6 @@
 var a26328 =
 [
-    [ "HandleScript", "d8/d1e/a26328.html#a1b20a7fb4487876f305aa3a8d493ed17", null ],
-    [ "PrepareSpellScript", "d8/d1e/a26328.html#a5ac848029ef03f6779cf094f4b80dd24", null ],
-    [ "Register", "d8/d1e/a26328.html#a3d378e0eac09b00792b293b2cd7f3192", null ],
-    [ "Validate", "d8/d1e/a26328.html#a36963610ad939ec36848ff70185f47a2", null ]
+    [ "PrepareSpellScript", "d8/d1e/a26328.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
+    [ "Register", "d8/d1e/a26328.html#ab58938808e460e843e42f2b6fa644e8a", null ],
+    [ "SetDest", "d8/d1e/a26328.html#ab87932c73a2e53647bda584aeb58f789", null ]
 ];

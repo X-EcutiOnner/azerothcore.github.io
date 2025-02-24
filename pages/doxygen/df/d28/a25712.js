@@ -1,7 +1,6 @@
 var a25712 =
 [
-    [ "Load", "df/d28/a25712.html#a8be944ae201f4f8406948aff78f982d9", null ],
-    [ "OnDummyEffect", "df/d28/a25712.html#adcb707400963e549a295e115d6f3583b", null ],
-    [ "PrepareSpellScript", "df/d28/a25712.html#a5b2175a933df10d775bc3381f515aa96", null ],
-    [ "Register", "df/d28/a25712.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
+    [ "HandleDummy", "df/d28/a25712.html#af306009f2c418e898478720b9c4ad6ab", null ],
+    [ "PrepareSpellScript", "df/d28/a25712.html#a44cb481fe93fd1c691495cc1ead35e5e", null ],
+    [ "Register", "df/d28/a25712.html#af51e3b3cbfb469fa6230a36d8d5fcec7", null ]
 ];

@@ -1,13 +1,13 @@
 var a23660 =
 [
-    [ "boss_wrath_scryer_soccothrates", "dc/dbf/a23660.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "dc/dbf/a23660.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "dc/dbf/a23660.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "dc/dbf/a23660.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "dc/dbf/a23660.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "dc/dbf/a23660.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "dc/dbf/a23660.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "dc/dbf/a23660.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "dc/dbf/a23660.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "dc/dbf/a23660.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "advisor_baseAI", "dc/dbf/a23660.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
+    [ "DamageTaken", "dc/dbf/a23660.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
+    [ "JustDied", "dc/dbf/a23660.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
+    [ "JustEngagedWith", "dc/dbf/a23660.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
+    [ "Reset", "dc/dbf/a23660.html#a008c30414ecebf4e2996d06b81539255", null ],
+    [ "ScheduleEvents", "dc/dbf/a23660.html#a24d22ccec834770bc5bcf44119fb0045", null ],
+    [ "SpellHit", "dc/dbf/a23660.html#a4fc41f3985244b6baf25b3417f67054e", null ],
+    [ "UpdateAI", "dc/dbf/a23660.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
+    [ "_feigning", "dc/dbf/a23660.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
+    [ "_preventDeath", "dc/dbf/a23660.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
 ];

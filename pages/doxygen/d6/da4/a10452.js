@@ -1,11 +1,8 @@
 var a10452 =
 [
-    [ "LFGJoin", "d6/da4/a10452.html#a50c79bdef7393907673a328bc36ff8ae", null ],
-    [ "Read", "d6/da4/a10452.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
-    [ "Achievements", "d6/da4/a10452.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
-    [ "Comment", "d6/da4/a10452.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
-    [ "Needs", "d6/da4/a10452.html#a313c16e84e2cd0b55551d16273e95917", null ],
-    [ "NoPartialClear", "d6/da4/a10452.html#aad54be871d0978034fb69a464fd5b9df", null ],
-    [ "Roles", "d6/da4/a10452.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
-    [ "Slots", "d6/da4/a10452.html#aa14a07716504723283ad80c6357cf53f", null ]
+    [ "PlayedTime", "d6/da4/a10452.html#abc477d90a27dc41a7c643448302464cf", null ],
+    [ "Write", "d6/da4/a10452.html#a147071f2545cd91213d6c92dab7438c7", null ],
+    [ "LevelTime", "d6/da4/a10452.html#a2bf832827f9497a59bbfac714799b4b5", null ],
+    [ "TotalTime", "d6/da4/a10452.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
+    [ "TriggerScriptEvent", "d6/da4/a10452.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
 ];

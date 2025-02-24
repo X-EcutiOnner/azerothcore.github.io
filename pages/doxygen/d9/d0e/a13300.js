@@ -1,12 +1,9 @@
 var a13300 =
 [
-    [ "npc_cameron", "d9/d0e/a13300.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
-    [ "MoveTheChildren", "d9/d0e/a13300.html#a85ae436f19f69ffb853330f01ee152a0", null ],
-    [ "PathEndReached", "d9/d0e/a13300.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
-    [ "sOnGameEvent", "d9/d0e/a13300.html#ab22841871cfcdc926b28296a5b4e440c", null ],
-    [ "SoundPicker", "d9/d0e/a13300.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
-    [ "UpdateAI", "d9/d0e/a13300.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
-    [ "_childrenGUIDs", "d9/d0e/a13300.html#ad260466902e8fb1a2e02998cc4549695", null ],
-    [ "_events", "d9/d0e/a13300.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
-    [ "_started", "d9/d0e/a13300.html#a985d0590eedde340a3923e299d4dffd8", null ]
+    [ "boss_entropius", "d9/d0e/a13300.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "d9/d0e/a13300.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "d9/d0e/a13300.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "d9/d0e/a13300.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "d9/d0e/a13300.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "d9/d0e/a13300.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

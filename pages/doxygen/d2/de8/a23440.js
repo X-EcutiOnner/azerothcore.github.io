@@ -1,11 +1,8 @@
 var a23440 =
 [
-    [ "boss_kiggler_the_crazed", "d2/de8/a23440.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
-    [ "AttackStart", "d2/de8/a23440.html#a47c18487637dcb911852573e3aec85a2", null ],
-    [ "JustDied", "d2/de8/a23440.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
-    [ "JustEngagedWith", "d2/de8/a23440.html#acd10951a5b148579d0bd4196cc2e686e", null ],
-    [ "Reset", "d2/de8/a23440.html#a3bd8ca2488b2db298a198038a849189e", null ],
-    [ "UpdateAI", "d2/de8/a23440.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
-    [ "_scheduler", "d2/de8/a23440.html#af041c254910df663a03fcc815db635da", null ],
-    [ "instance", "d2/de8/a23440.html#aa78db443f19814c66b977fe008de74fa", null ]
+    [ "HandleDummyApply", "d2/de8/a23440.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "d2/de8/a23440.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "d2/de8/a23440.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "d2/de8/a23440.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "d2/de8/a23440.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

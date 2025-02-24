@@ -1,6 +1,9 @@
 var a26144 =
 [
-    [ "CheckCast", "dd/d00/a26144.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
-    [ "PrepareSpellScript", "dd/d00/a26144.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
-    [ "Register", "dd/d00/a26144.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
+    [ "HandleAfterCast", "dd/d00/a26144.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "dd/d00/a26144.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "dd/d00/a26144.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "dd/d00/a26144.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "dd/d00/a26144.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "dd/d00/a26144.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

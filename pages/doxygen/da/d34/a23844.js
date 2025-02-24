@@ -1,7 +1,6 @@
 var a23844 =
 [
-    [ "boss_gatewatcher_gyrokill", "da/d34/a23844.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
-    [ "JustDied", "da/d34/a23844.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
-    [ "JustEngagedWith", "da/d34/a23844.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
-    [ "KilledUnit", "da/d34/a23844.html#a274355d0303d9bf5761758f175826bd1", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d3/d00/a23848.html", "d3/d00/a23848" ],
+    [ "npc_oscillating_frequency_scanner_master_bunny", "da/d34/a23844.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
+    [ "GetAI", "da/d34/a23844.html#a60d55e2eda4484ceea4e475ac8653977", null ]
 ];

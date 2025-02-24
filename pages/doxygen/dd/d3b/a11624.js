@@ -1,7 +1,12 @@
 var a11624 =
 [
-    [ "boss_magmusAI", "dd/d3b/a11624.html#a8a3e5361bda492007013af9228899b8f", null ],
-    [ "JustEngagedWith", "dd/d3b/a11624.html#a11e4868628564078997694373315a9d6", null ],
-    [ "Reset", "dd/d3b/a11624.html#a5fe304cec86831b7e64f83caee1392d0", null ],
-    [ "UpdateAI", "dd/d3b/a11624.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
+    [ "message_commandscript", "dd/d3b/a11624.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
+    [ "GetCommands", "dd/d3b/a11624.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
+    [ "HandleAnnounceCommand", "dd/d3b/a11624.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
+    [ "HandleGMAnnounceCommand", "dd/d3b/a11624.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
+    [ "HandleGMNameAnnounceCommand", "dd/d3b/a11624.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
+    [ "HandleGMNotifyCommand", "dd/d3b/a11624.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
+    [ "HandleNameAnnounceCommand", "dd/d3b/a11624.html#a786902b70345712c6dba9f638695dd9e", null ],
+    [ "HandleNotifyCommand", "dd/d3b/a11624.html#a0d53b2414931451b30abd2fe5acee1af", null ],
+    [ "HandleWhispersCommand", "dd/d3b/a11624.html#a9a02c97677250136f9717968a9f47b73", null ]
 ];

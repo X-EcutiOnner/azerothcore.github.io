@@ -1,8 +1,8 @@
 var a19852 =
 [
-    [ "OnApply", "dd/d72/a19852.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "dd/d72/a19852.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "dd/d72/a19852.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "dd/d72/a19852.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "dd/d72/a19852.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "HandleOnEffectApply", "dd/d72/a19852.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "dd/d72/a19852.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "dd/d72/a19852.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "dd/d72/a19852.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "dd/d72/a19852.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

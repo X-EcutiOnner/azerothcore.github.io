@@ -1,5 +1,6 @@
 var a20448 =
 [
-    [ "go_ulduar_working_harpoon", "d8/dc8/a20448.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
-    [ "OnGossipHello", "d8/dc8/a20448.html#a164bdd0a9538293699665a821c4f25f3", null ]
+    [ "boss_thorim_sifAI", "dc/dce/a20452.html", "dc/dce/a20452" ],
+    [ "boss_thorim_sif", "d8/dc8/a20448.html#a71ef8a92f648cbea6553ed1cc657f13d", null ],
+    [ "GetAI", "d8/dc8/a20448.html#ae4eadf2bf83c41a8f05b853267b5fcf9", null ]
 ];

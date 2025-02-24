@@ -1,6 +1,6 @@
 var a19544 =
 [
-    [ "spell_hos_dark_matter_AuraScript", "db/db7/a19548.html", "db/db7/a19548" ],
-    [ "spell_hos_dark_matter", "d8/d18/a19544.html#af170db9adc5adb20f8d6a3e95cd60124", null ],
-    [ "GetAuraScript", "d8/d18/a19544.html#a2277580897f7533440713157d9cd863f", null ]
+    [ "npc_living_constellationAI", "db/db7/a19548.html", "db/db7/a19548" ],
+    [ "npc_living_constellation", "d8/d18/a19544.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
+    [ "GetAI", "d8/d18/a19544.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
 ];

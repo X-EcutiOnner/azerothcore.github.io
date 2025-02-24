@@ -1,6 +1,7 @@
 var a20788 =
 [
-    [ "boss_yoggsaron_llaneAI", "da/d59/a20792.html", "da/d59/a20792" ],
-    [ "boss_yoggsaron_llane", "d8/d9d/a20788.html#a671df488222583aa12bc1c75695918b9", null ],
-    [ "GetAI", "d8/d9d/a20788.html#a1e7d1b4bce0ca1dbfbbe8c044b451b92", null ]
+    [ "FilterTargets", "d8/d9d/a20788.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "d8/d9d/a20788.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "d8/d9d/a20788.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "d8/d9d/a20788.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

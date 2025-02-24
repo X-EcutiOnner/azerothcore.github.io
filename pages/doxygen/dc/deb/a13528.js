@@ -1,11 +1,9 @@
 var a13528 =
 [
-    [ "npc_tapoke_slim_jahnAI", "dc/deb/a13528.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
-    [ "AttackedBy", "dc/deb/a13528.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
-    [ "DamageTaken", "dc/deb/a13528.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
-    [ "JustEngagedWith", "dc/deb/a13528.html#a544b8eaee365217a4a735ed39b4607b2", null ],
-    [ "JustSummoned", "dc/deb/a13528.html#ae468305fbe930baf0a1547f2e6de9953", null ],
-    [ "Reset", "dc/deb/a13528.html#a5aeaa5511584d1095639e7df584019c5", null ],
-    [ "WaypointReached", "dc/deb/a13528.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
-    [ "IsFriendSummoned", "dc/deb/a13528.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
+    [ "npc_marzon_silent_bladeAI", "dc/deb/a13528.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "dc/deb/a13528.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "dc/deb/a13528.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "dc/deb/a13528.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "dc/deb/a13528.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "dc/deb/a13528.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

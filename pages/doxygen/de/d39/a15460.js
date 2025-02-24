@@ -1,6 +1,9 @@
 var a15460 =
 [
-    [ "npc_taskmaster_fizzuleAI", "d4/d7f/a15464.html", "d4/d7f/a15464" ],
-    [ "npc_taskmaster_fizzule", "de/d39/a15460.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
-    [ "GetAI", "de/d39/a15460.html#a6281de7424932fe6580ffefa199498d9", null ]
+    [ "npc_custodian_of_timeAI", "de/d39/a15460.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "de/d39/a15460.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "de/d39/a15460.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "de/d39/a15460.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "de/d39/a15460.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "de/d39/a15460.html#a963736e62fbd0caea631ee3fb69fca46", null ]
 ];

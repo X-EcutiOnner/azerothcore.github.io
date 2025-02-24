@@ -1,9 +1,6 @@
 var a12336 =
 [
-    [ "FilterTargets", "d5/da2/a12336.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "d5/da2/a12336.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "d5/da2/a12336.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "d5/da2/a12336.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "d5/da2/a12336.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "d5/da2/a12336.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "npc_core_ragerAI", "d0/d21/a12340.html", "d0/d21/a12340" ],
+    [ "npc_core_rager", "d5/da2/a12336.html#ada4acfa2a1934d1609a8f9c78da6377d", null ],
+    [ "GetAI", "d5/da2/a12336.html#a0ace94ecc1ebfb0e880c50d9b68087db", null ]
 ];

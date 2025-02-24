@@ -1,7 +1,12 @@
 var a22792 =
 [
-    [ "PrepareAuraScript", "de/dd4/a22792.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "de/dd4/a22792.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "de/dd4/a22792.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "de/dd4/a22792.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "boss_shade_of_akama", "de/dd4/a22792.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "de/dd4/a22792.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "de/dd4/a22792.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "de/dd4/a22792.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "de/dd4/a22792.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "de/dd4/a22792.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "de/dd4/a22792.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "de/dd4/a22792.html#a63372527172d3f96f533b5776221c2e7", null ],
+    [ "generators", "de/dd4/a22792.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
 ];

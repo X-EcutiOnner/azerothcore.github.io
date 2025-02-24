@@ -1,5 +1,6 @@
 var a07932 =
 [
-    [ "PositionXYZOStreamer", "d2/d55/a07932.html#afddf48b02eea5399d818468cdf8795c5", null ],
-    [ "m_pos", "d2/d55/a07932.html#a6c2be4021912b753ed7da07f1c6a7464", null ]
+    [ "LfgWaitTime", "d2/d55/a07932.html#a1d80e0848c06c658a4c0587b686fe09d", null ],
+    [ "number", "d2/d55/a07932.html#ae6bd7db37ac17752edbc8d336081b91e", null ],
+    [ "time", "d2/d55/a07932.html#a0d0ef1b3552e5298763a3f28714bc864", null ]
 ];

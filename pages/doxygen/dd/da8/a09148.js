@@ -1,9 +1,16 @@
 var a09148 =
 [
-    [ "WorldPacketList", "dd/da8/a09148.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
-    [ "LocalizedPacketListDo", "dd/da8/a09148.html#ab52133e238752f725f18580018a84cd2", null ],
-    [ "~LocalizedPacketListDo", "dd/da8/a09148.html#a8442452027bcb5c98d60830e016803b5", null ],
-    [ "operator()", "dd/da8/a09148.html#adea9610e36d436563ba1f472481aed85", null ],
-    [ "i_builder", "dd/da8/a09148.html#a83bda52b10d30f7fd633c285b79e740b", null ],
-    [ "i_data_cache", "dd/da8/a09148.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
+    [ "MessageDistDeliverer", "dd/da8/a09148.html#a8f8c9fb2dadaa8c521b5036a94a4c9a4", null ],
+    [ "SendPacket", "dd/da8/a09148.html#af085a9490dfd5a1e577bda6d8333fe1d", null ],
+    [ "Visit", "dd/da8/a09148.html#af44878b494b1412f0d08248f6a88fff6", null ],
+    [ "Visit", "dd/da8/a09148.html#a2e8d0ad4bdc5fc8961d9f67b6a93b69d", null ],
+    [ "Visit", "dd/da8/a09148.html#a8c56d33ec988bfb6ba078fce00beab1a", null ],
+    [ "Visit", "dd/da8/a09148.html#a09171ca5e494d7cc4b19340e95367a64", null ],
+    [ "i_distSq", "dd/da8/a09148.html#a871dda581863f0919f1d5b2f60c2fcd9", null ],
+    [ "i_message", "dd/da8/a09148.html#ac49c2d8b9120edbafd6b04656a6d2909", null ],
+    [ "i_phaseMask", "dd/da8/a09148.html#abca07d041f9b45b4002f15dfff6e1c9e", null ],
+    [ "i_source", "dd/da8/a09148.html#aa65c4e298a1302647fdaad1b1227a3a2", null ],
+    [ "required3dDist", "dd/da8/a09148.html#abdce98d93c98513a434df80b97c096c6", null ],
+    [ "skipped_receiver", "dd/da8/a09148.html#a7f92e1c65cdc8346dd4bac47f1ba8b5b", null ],
+    [ "teamId", "dd/da8/a09148.html#acfda3713bbde51a110cb160f0325f848", null ]
 ];

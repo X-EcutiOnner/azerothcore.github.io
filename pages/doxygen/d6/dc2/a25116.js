@@ -1,7 +1,6 @@
 var a25116 =
 [
-    [ "HandleApplyEffect", "d6/dc2/a25116.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
-    [ "Load", "d6/dc2/a25116.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
-    [ "PrepareAuraScript", "d6/dc2/a25116.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
-    [ "Register", "d6/dc2/a25116.html#aed57fbbf473b8f15fa177261e4678e96", null ]
+    [ "CheckRequirement", "d6/dc2/a25116.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
+    [ "PrepareSpellScript", "d6/dc2/a25116.html#aebb88f5ea803a590a099e4e6427d8276", null ],
+    [ "Register", "d6/dc2/a25116.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
 ];

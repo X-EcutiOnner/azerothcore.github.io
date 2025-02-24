@@ -1,9 +1,10 @@
 var a22656 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "df/d8e/a22656.html#ada5f19c96bfe623b110389ede032ef53", null ],
-    [ "GetData", "df/d8e/a22656.html#ad876ebd581c470f5a3075129076bd1fb", null ],
-    [ "Initialize", "df/d8e/a22656.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
-    [ "OnCreatureCreate", "df/d8e/a22656.html#a118b4a7a7c872327ec2868c5b0417636", null ],
-    [ "OnUnitDeath", "df/d8e/a22656.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
-    [ "_ritualistsAliveCount", "df/d8e/a22656.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
+    [ "boss_illidari_council", "df/d8e/a22656.html#a078c36be39b377f6d1cdbf061d70270d", null ],
+    [ "AttackStart", "df/d8e/a22656.html#a260b15ec58164f17543aa044a89875a8", null ],
+    [ "DamageTaken", "df/d8e/a22656.html#af8e88c307efaba392cc2a1d2f3862078", null ],
+    [ "DoAction", "df/d8e/a22656.html#a6c3c57523ed2775ba553af1171b46463", null ],
+    [ "EnterEvadeMode", "df/d8e/a22656.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
+    [ "MoveInLineOfSight", "df/d8e/a22656.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
+    [ "UpdateAI", "df/d8e/a22656.html#a8b30df956aa4ce1727756f1d19e151be", null ]
 ];

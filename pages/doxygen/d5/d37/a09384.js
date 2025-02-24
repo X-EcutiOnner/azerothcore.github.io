@@ -1,7 +1,6 @@
 var a09384 =
 [
-    [ "LootView", "d5/d37/a09384.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
-    [ "loot", "d5/d37/a09384.html#ac95fa4805c79923b292e8984b00de929", null ],
-    [ "permission", "d5/d37/a09384.html#a33d7eeebd6fbc854300275a4138d9030", null ],
-    [ "viewer", "d5/d37/a09384.html#af9a6926c6c871dee245f876038e49995", null ]
+    [ "AllFriendlyCreaturesInGrid", "d5/d37/a09384.html#a6ad66997d093ffa52e2d80337dcb5460", null ],
+    [ "operator()", "d5/d37/a09384.html#aca2b8ed7de69c57bb270e0c663781f97", null ],
+    [ "unit", "d5/d37/a09384.html#a3842fa1eceabaa2d40b2bab4393cb431", null ]
 ];

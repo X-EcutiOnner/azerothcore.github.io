@@ -1,6 +1,9 @@
 var a09132 =
 [
-    [ "RandomCheck", "d6/d4b/a09132.html#aca7a234c6eef8876abb02af723e9485d", null ],
-    [ "operator()", "d6/d4b/a09132.html#a9886987fa2b675ab404102ebe828c9f3", null ],
-    [ "_chance", "d6/d4b/a09132.html#aad026a0ad4539dd5336c3a6b820e351d", null ]
+    [ "VisibleChangesNotifier", "d6/d4b/a09132.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
+    [ "Visit", "d6/d4b/a09132.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
+    [ "Visit", "d6/d4b/a09132.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
+    [ "Visit", "d6/d4b/a09132.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
+    [ "Visit", "d6/d4b/a09132.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
+    [ "i_object", "d6/d4b/a09132.html#a496b982d081957cfc288f29b99b8739d", null ]
 ];

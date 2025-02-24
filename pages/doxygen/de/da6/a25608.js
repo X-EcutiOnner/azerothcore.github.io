@@ -1,6 +1,6 @@
 var a25608 =
 [
-    [ "PartyTimeEmoteEvent", "de/da6/a25608.html#a525efd58fc8465658208058e6dc5d31c", null ],
-    [ "Execute", "de/da6/a25608.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
-    [ "_player", "de/da6/a25608.html#a61ecb44828c6e4c868def8899791feb3", null ]
+    [ "CalculateAmount", "de/da6/a25608.html#a6faee23ed5947a904e58bfb38cf01d05", null ],
+    [ "PrepareAuraScript", "de/da6/a25608.html#a5e7d089dd117b6b3a605ea2e8aea0b04", null ],
+    [ "Register", "de/da6/a25608.html#a37e277143b2ae6cd88260776941b59bf", null ]
 ];

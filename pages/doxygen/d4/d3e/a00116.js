@@ -1,7 +1,7 @@
 var a00116 =
 [
-    [ "npc_professor_phizzlethorpe", "d0/d3e/a13350.html", "d0/d3e/a13350" ],
-    [ "npc_professor_phizzlethorpe::npc_professor_phizzlethorpeAI", "dd/d89/a13354.html", "dd/d89/a13354" ],
+    [ "npc_professor_phizzlethorpe", "d6/dbe/a13368.html", "d6/dbe/a13368" ],
+    [ "npc_professor_phizzlethorpe::npc_professor_phizzlethorpeAI", "d2/d53/a13372.html", "d2/d53/a13372" ],
     [ "ProfessorPhizzlethorpe", "d4/d3e/a00116.html#a2fbc348d7cc479e3131e261e4a86f0a1", [
       [ "SAY_PROGRESS_1", "d4/d3e/a00116.html#a2fbc348d7cc479e3131e261e4a86f0a1ac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
       [ "SAY_PROGRESS_2", "d4/d3e/a00116.html#a2fbc348d7cc479e3131e261e4a86f0a1a967473f354dae95832b5e82733f4cced", null ],

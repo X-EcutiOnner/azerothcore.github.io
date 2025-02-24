@@ -1,7 +1,7 @@
 var a24632 =
 [
-    [ "CalculateAmount", "d1/daa/a24632.html#af51a8e22ddfe0648f08a4190d730fbda", null ],
-    [ "CheckProc", "d1/daa/a24632.html#a2f80dcd9e5922af55dee096c95079062", null ],
-    [ "PrepareAuraScript", "d1/daa/a24632.html#af54ef254d0897140255960146507e986", null ],
-    [ "Register", "d1/daa/a24632.html#ad6e4bd4390f6f88494984af792a11b90", null ]
+    [ "CalculateAmount", "d1/daa/a24632.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
+    [ "Load", "d1/daa/a24632.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
+    [ "PrepareAuraScript", "d1/daa/a24632.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
+    [ "Register", "d1/daa/a24632.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
 ];

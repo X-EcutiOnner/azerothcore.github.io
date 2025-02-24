@@ -1,7 +1,7 @@
 var a12984 =
 [
-    [ "HandleScript", "df/dba/a12984.html#aae2f572a523431f6764f08e4719adbcf", null ],
-    [ "PrepareSpellScript", "df/dba/a12984.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
-    [ "Register", "df/dba/a12984.html#ae3b002197564318cc92242bd925d35af", null ],
-    [ "Validate", "df/dba/a12984.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
+    [ "HandleScript", "df/dba/a12984.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
+    [ "PrepareSpellScript", "df/dba/a12984.html#a034195e58f02225c172b70c3967fe3ad", null ],
+    [ "Register", "df/dba/a12984.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
+    [ "Validate", "df/dba/a12984.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
 ];

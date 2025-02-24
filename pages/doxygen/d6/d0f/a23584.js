@@ -1,5 +1,7 @@
 var a23584 =
 [
-    [ "at_rp_nethekurse", "d6/d0f/a23584.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
-    [ "_OnTrigger", "d6/d0f/a23584.html#a93001d6dda7b2711f1efe100ffab5879", null ]
+    [ "HandleCast", "d6/d0f/a23584.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "d6/d0f/a23584.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "d6/d0f/a23584.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "d6/d0f/a23584.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

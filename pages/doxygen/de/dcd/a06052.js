@@ -1,5 +1,6 @@
 var a06052 =
 [
-    [ "SimpleCharmedAI", "de/dcd/a06052.html#ada8d12d7df75dca5c87c633348d1b27b", null ],
-    [ "UpdateAI", "de/dcd/a06052.html#a5e2c8ae6b601b7fcc36f8c2c49bcd9a6", null ]
+    [ "NullGameObjectAI", "de/dcd/a06052.html#a54f6ae6e03fbe423d895ec306fe091db", null ],
+    [ "Permissible", "de/dcd/a06052.html#a850b58bfcc5e613f31fc95e556ed7f91", null ],
+    [ "UpdateAI", "de/dcd/a06052.html#a01b2b14306c75fafe58295a30e5d01e0", null ]
 ];

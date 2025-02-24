@@ -1,10 +1,14 @@
 var a09892 =
 [
-    [ "Flags", "d6/dc0/a09892.html#abf9c2701e766951e5a211bf6bf85b175", null ],
-    [ "ID", "d6/dc0/a09892.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
-    [ "needSave", "d6/dc0/a09892.html#aae888b1bf10f654ee212f3d687c111e9", null ],
-    [ "needSend", "d6/dc0/a09892.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
-    [ "ReputationListID", "d6/dc0/a09892.html#a052caeeae1ecdca831097591e0fddaf6", null ],
-    [ "roundedUp", "d6/dc0/a09892.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
-    [ "Standing", "d6/dc0/a09892.html#ae87da6cada559e11a9607e194013d671", null ]
+    [ "EscortMovementGenerator", "d6/dc0/a09892.html#a9d653e50662103f5f6661da5226ae99e", null ],
+    [ "DoFinalize", "d6/dc0/a09892.html#a4c191a86f5ecc30ae5b34d7578d58d3e", null ],
+    [ "DoInitialize", "d6/dc0/a09892.html#ad068798c6e186c1eb1a79f3872955e97", null ],
+    [ "DoReset", "d6/dc0/a09892.html#ac4934d70ab62e08488cfc29c13355a7f", null ],
+    [ "DoUpdate", "d6/dc0/a09892.html#a524bb8f72836dc5d1b63e429436b3a77", null ],
+    [ "GetMovementGeneratorType", "d6/dc0/a09892.html#a0733162a5a0cab2593150f288edeb27b", null ],
+    [ "GetSplineId", "d6/dc0/a09892.html#a61d74b098d1ae692ce305fa493aaa6d2", null ],
+    [ "unitSpeedChanged", "d6/dc0/a09892.html#a235e330c4c3368af00d37028915684ff", null ],
+    [ "_splineId", "d6/dc0/a09892.html#af6286fa4ed6afcc8a6c5f03575c774e6", null ],
+    [ "i_recalculateSpeed", "d6/dc0/a09892.html#a9f7048c5e49cc09f809496312a0c6550", null ],
+    [ "m_precomputedPath", "d6/dc0/a09892.html#a46eb2812a1b2a56e584b925cae2169eb", null ]
 ];

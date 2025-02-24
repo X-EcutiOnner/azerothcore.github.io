@@ -1,7 +1,10 @@
 var a21736 =
 [
-    [ "HandleApplyEffect", "d2/d20/a21736.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "d2/d20/a21736.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "d2/d20/a21736.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "d2/d20/a21736.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "npc_emilyAI", "d2/d20/a21736.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "d2/d20/a21736.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "d2/d20/a21736.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "d2/d20/a21736.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "d2/d20/a21736.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "_mrfloppyGUID", "d2/d20/a21736.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "d2/d20/a21736.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

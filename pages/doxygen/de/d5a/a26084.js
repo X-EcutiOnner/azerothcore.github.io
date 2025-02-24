@@ -1,7 +1,6 @@
 var a26084 =
 [
-    [ "FilterTargets", "de/d5a/a26084.html#ad679149423fda97ad5744318520022b1", null ],
-    [ "PrepareSpellScript", "de/d5a/a26084.html#ac57c48690c5ad1b907f56287aee949a4", null ],
-    [ "Register", "de/d5a/a26084.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
-    [ "Validate", "de/d5a/a26084.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
+    [ "HandleDamage", "de/d5a/a26084.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
+    [ "PrepareSpellScript", "de/d5a/a26084.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
+    [ "Register", "de/d5a/a26084.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
 ];

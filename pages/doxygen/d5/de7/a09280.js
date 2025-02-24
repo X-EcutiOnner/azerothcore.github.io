@@ -1,7 +1,8 @@
 var a09280 =
 [
-    [ "InstancePlayerBind", "d5/de7/a09280.html#abc20bba094d04eb724d03b8290102981", null ],
-    [ "extended", "d5/de7/a09280.html#a9327f62b74eea3a1a525b2fec6d90b69", null ],
-    [ "perm", "d5/de7/a09280.html#ab35249eb791941b484ecc321b1102b24", null ],
-    [ "save", "d5/de7/a09280.html#a24ef1e0e0a38033a16b697c32e3d8234", null ]
+    [ "MostHPMissingInRange", "d5/de7/a09280.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
+    [ "operator()", "d5/de7/a09280.html#a420388204d8a1420552b902fbcb2bebe", null ],
+    [ "i_hp", "d5/de7/a09280.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
+    [ "i_obj", "d5/de7/a09280.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
+    [ "i_range", "d5/de7/a09280.html#acef63da9004997c7f25056651284efa9", null ]
 ];

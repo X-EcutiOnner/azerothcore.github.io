@@ -1,6 +1,5 @@
 var a27136 =
 [
-    [ "go_flamesAI", "d9/df9/a27136.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d9/df9/a27136.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d9/df9/a27136.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "go_tablet_of_the_seven", "d9/df9/a27136.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "d9/df9/a27136.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

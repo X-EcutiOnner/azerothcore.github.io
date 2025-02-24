@@ -1,7 +1,6 @@
 var a19880 =
 [
-    [ "HandleScript", "de/dd1/a19880.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "de/dd1/a19880.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "de/dd1/a19880.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "de/dd1/a19880.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "boss_freyaAI", "d9/df6/a19884.html", "d9/df6/a19884" ],
+    [ "boss_freya", "de/dd1/a19880.html#ae366f60526e7c948dee148cdd12f0752", null ],
+    [ "GetAI", "de/dd1/a19880.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
 ];

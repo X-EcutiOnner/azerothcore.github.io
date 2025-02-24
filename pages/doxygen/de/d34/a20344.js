@@ -1,8 +1,9 @@
 var a20344 =
 [
-    [ "npc_ulduar_magnetic_coreAI", "de/d34/a20344.html#a585437dff0c49ac1a6bf7929ab266ff5", null ],
-    [ "SetData", "de/d34/a20344.html#a27c31856d2bfe3228ae3b0b361064d7a", null ],
-    [ "UpdateAI", "de/d34/a20344.html#ab9113a021844aa7ea8ac46df9c50b205", null ],
-    [ "despawnTimer", "de/d34/a20344.html#ad244ccbaeda814b9e56fad93f06f12fe", null ],
-    [ "pInstance", "de/d34/a20344.html#a3e01c612a689d89bdbe3529c429a413d", null ]
+    [ "npc_ulduar_emergency_fire_botAI", "de/d34/a20344.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
+    [ "AttackStart", "de/d34/a20344.html#aa18e89f63e98112efeb69328f8fdc296", null ],
+    [ "MoveInLineOfSight", "de/d34/a20344.html#a6384437fff9349df0cfa5053b37313ea", null ],
+    [ "MovementInform", "de/d34/a20344.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
+    [ "UpdateAI", "de/d34/a20344.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
+    [ "events", "de/d34/a20344.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
 ];

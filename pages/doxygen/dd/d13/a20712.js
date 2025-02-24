@@ -1,6 +1,6 @@
 var a20712 =
 [
-    [ "boss_yoggsaron_brainAI", "d9/d83/a20716.html", "d9/d83/a20716" ],
-    [ "boss_yoggsaron_brain", "dd/d13/a20712.html#a8094e2a062f06c5a954c1d3401ca18d4", null ],
-    [ "GetAI", "dd/d13/a20712.html#a02e6b07087765d75d0f49b864e2f323f", null ]
+    [ "boss_yoggsaron_descend_portalAI", "d9/d83/a20716.html", "d9/d83/a20716" ],
+    [ "boss_yoggsaron_descend_portal", "dd/d13/a20712.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
+    [ "GetAI", "dd/d13/a20712.html#aceb50c808eed17ca468a80b823af1907", null ]
 ];

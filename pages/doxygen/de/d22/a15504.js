@@ -1,9 +1,7 @@
 var a15504 =
 [
-    [ "npc_pluckyAI", "de/d22/a15504.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "de/d22/a15504.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "de/d22/a15504.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "de/d22/a15504.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "de/d22/a15504.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "de/d22/a15504.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "npc_wizzlecrank_shredderAI", "df/dcb/a15508.html", "df/dcb/a15508" ],
+    [ "npc_wizzlecrank_shredder", "de/d22/a15504.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "de/d22/a15504.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "de/d22/a15504.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

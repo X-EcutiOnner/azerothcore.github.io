@@ -1,6 +1,7 @@
 var a26464 =
 [
-    [ "HandleSendEvent", "da/d94/a26464.html#a8126102215aa6eedd638b89d1a6b7110", null ],
-    [ "PrepareSpellScript", "da/d94/a26464.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
-    [ "Register", "da/d94/a26464.html#ac37abad48c398bdb22529c1a44327d34", null ]
+    [ "HandleEffect", "da/d94/a26464.html#ab33c9312c9ac4096140a82f381d83235", null ],
+    [ "PrepareSpellScript", "da/d94/a26464.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
+    [ "Register", "da/d94/a26464.html#a1f5983124756eca5666ca6adbe5a4544", null ],
+    [ "Validate", "da/d94/a26464.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
 ];

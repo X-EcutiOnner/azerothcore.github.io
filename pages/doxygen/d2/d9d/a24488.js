@@ -1,6 +1,6 @@
 var a24488 =
 [
-    [ "HandleEffectApply", "d2/d9d/a24488.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
-    [ "PrepareAuraScript", "d2/d9d/a24488.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
-    [ "Register", "d2/d9d/a24488.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
+    [ "CheckTargets", "d2/d9d/a24488.html#abb6ffb41731b05b868f82498b373d8b9", null ],
+    [ "PrepareSpellScript", "d2/d9d/a24488.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
+    [ "Register", "d2/d9d/a24488.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
 ];

@@ -1,6 +1,6 @@
 var a16172 =
 [
-    [ "npc_nerubian_burrowerAI", "da/d75/a16176.html", "da/d75/a16176" ],
-    [ "npc_nerubian_burrower", "df/dc2/a16172.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
-    [ "GetAI", "df/dc2/a16172.html#a145ebac6f95f9190429b9bfa37e23312", null ]
+    [ "HideNpcEvent", "df/dc2/a16172.html#ab454295aab0f5d4586740140232e96eb", null ],
+    [ "Execute", "df/dc2/a16172.html#aecfbbbcac3fd98675913a6381c891a59", null ],
+    [ "_owner", "df/dc2/a16172.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
 ];

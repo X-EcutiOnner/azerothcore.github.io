@@ -1,8 +1,6 @@
 var a20700 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "de/d6e/a20700.html#a5542a4fd68a012049a79047f47dccc68", null ],
-    [ "JustDied", "de/d6e/a20700.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
-    [ "Reset", "de/d6e/a20700.html#a43d12c19425f3caa56a9732774b6f943", null ],
-    [ "UpdateAI", "de/d6e/a20700.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
-    [ "_spellTimer", "de/d6e/a20700.html#a45dec8609328d65413ae6c88f693ba15", null ]
+    [ "boss_yoggsaron_constrictor_tentacleAI", "db/d10/a20704.html", "db/d10/a20704" ],
+    [ "boss_yoggsaron_constrictor_tentacle", "de/d6e/a20700.html#a131809f1c691e55a33863caf6fe0c5dc", null ],
+    [ "GetAI", "de/d6e/a20700.html#ac469d5661eb664c73bf5ab38084cb03e", null ]
 ];

@@ -1,6 +1,5 @@
 var a15324 =
 [
-    [ "npc_omenAI", "d5/db2/a15328.html", "d5/db2/a15328" ],
-    [ "npc_omen", "df/d87/a15324.html#aff955303a8b9741838779a59dd496f62", null ],
-    [ "GetAI", "df/d87/a15324.html#a8023ad3298000d9819c46f46a93166d4", null ]
+    [ "at_ancient_leaf", "df/d87/a15324.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
+    [ "OnTrigger", "df/d87/a15324.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
 ];

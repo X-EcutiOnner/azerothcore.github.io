@@ -1,6 +1,10 @@
 var a27280 =
 [
-    [ "go_bellsAI", "d7/de5/a27284.html", "d7/de5/a27284" ],
-    [ "go_bells", "d9/d2b/a27280.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
-    [ "GetAI", "d9/d2b/a27280.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
+    [ "npc_prof_alchemy", "d9/d2b/a27280.html#a43ea842214fc507c34586d12df8f7fea", null ],
+    [ "HasAlchemySpell", "d9/d2b/a27280.html#ac9df824e0923ca86189a53ae391b43c0", null ],
+    [ "OnGossipHello", "d9/d2b/a27280.html#add760c538c7882e1ad8331b8ded74f5c", null ],
+    [ "OnGossipSelect", "d9/d2b/a27280.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
+    [ "SendActionMenu", "d9/d2b/a27280.html#a2d4c7337b40be323a384a9e755fc3145", null ],
+    [ "SendConfirmLearn", "d9/d2b/a27280.html#a548224b30494636b9ee292a533fc7b39", null ],
+    [ "SendConfirmUnlearn", "d9/d2b/a27280.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
 ];

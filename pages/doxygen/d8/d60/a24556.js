@@ -1,7 +1,9 @@
 var a24556 =
 [
-    [ "CalculateAmount", "d8/d60/a24556.html#ad99a4176d27864280a79ac548a57a4c8", null ],
-    [ "Load", "d8/d60/a24556.html#aeafec50b06b5dd2f69ca6ab4096aea4d", null ],
-    [ "PrepareAuraScript", "d8/d60/a24556.html#a76528513f0f6728e73085a3d403c3e59", null ],
-    [ "Register", "d8/d60/a24556.html#a4d09be7d33755ae719138d079884e281", null ]
+    [ "HandleApply", "d8/d60/a24556.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "d8/d60/a24556.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "d8/d60/a24556.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "d8/d60/a24556.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "d8/d60/a24556.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "d8/d60/a24556.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

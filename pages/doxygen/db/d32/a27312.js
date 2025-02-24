@@ -1,5 +1,6 @@
 var a27312 =
 [
-    [ "item_incendiary_explosives", "db/d32/a27312.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "db/d32/a27312.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "npc_preciousAI", "da/d47/a27316.html", "da/d47/a27316" ],
+    [ "npc_precious", "db/d32/a27312.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
+    [ "GetAI", "db/d32/a27312.html#a754ad85c8b1942b400a47c28297bad62", null ]
 ];

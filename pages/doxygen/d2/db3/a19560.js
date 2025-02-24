@@ -1,6 +1,6 @@
 var a19560 =
 [
-    [ "CosmicSmashDamageEvent", "d2/db3/a19560.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "d2/db3/a19560.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "d2/db3/a19560.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "go_celestial_planetarium_accessAI", "dc/d58/a19564.html", "dc/d58/a19564" ],
+    [ "go_celestial_planetarium_access", "d2/db3/a19560.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
+    [ "GetAI", "d2/db3/a19560.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
 ];

@@ -1,8 +1,5 @@
 var a26836 =
 [
-    [ "HandleDummy", "da/d65/a26836.html#ad2eec86cff225cc0bd806e31596fb127", null ],
-    [ "PrepareSpellScript", "da/d65/a26836.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
-    [ "Register", "da/d65/a26836.html#a6c72b4c813368774283ae94036a43ee2", null ],
-    [ "SendMiss", "da/d65/a26836.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
-    [ "Validate", "da/d65/a26836.html#a9a5014de08f73ad5dad29354812030ac", null ]
+    [ "achievement_bg_control_all_nodes", "da/d65/a26836.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "da/d65/a26836.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

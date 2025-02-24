@@ -1,8 +1,11 @@
 var a08692 =
 [
-    [ "NearestGameObjectCheck", "d1/da6/a08692.html#aa8ede7ca83cc53cc5b4a8a057f6e8477", null ],
-    [ "NearestGameObjectCheck", "d1/da6/a08692.html#a366ef1710823d1e52eb2df650e60562f", null ],
-    [ "operator()", "d1/da6/a08692.html#a00df56adb5c6459c59b5ae4e0b85f0d3", null ],
-    [ "i_obj", "d1/da6/a08692.html#aeaec0e0f53cb870e1f0a93f8b05b74bc", null ],
-    [ "i_range", "d1/da6/a08692.html#a92fc9a7ac2995ad962173ae3a794e825", null ]
+    [ "SpellPeriodicAuraLogInfo", "d1/da6/a08692.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
+    [ "absorb", "d1/da6/a08692.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
+    [ "auraEff", "d1/da6/a08692.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
+    [ "critical", "d1/da6/a08692.html#a51041b901727b4f595d2a886520626ff", null ],
+    [ "damage", "d1/da6/a08692.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
+    [ "multiplier", "d1/da6/a08692.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
+    [ "overDamage", "d1/da6/a08692.html#a51904be3790c99bded697b2cf7c8db23", null ],
+    [ "resist", "d1/da6/a08692.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
 ];

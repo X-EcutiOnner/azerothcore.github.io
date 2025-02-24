@@ -1,7 +1,7 @@
 var a08528 =
 [
-    [ "VehicleDespawnEvent", "d6/d65/a08528.html#ab6f88e60f1068ab79049c158314a87ab", null ],
-    [ "Execute", "d6/d65/a08528.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
-    [ "_duration", "d6/d65/a08528.html#a3e9c695929c24728b2091940e511d5f0", null ],
-    [ "_self", "d6/d65/a08528.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
+    [ "SetRuneState", "d6/d65/a08528.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
+    [ "lastUsedRune", "d6/d65/a08528.html#a88c702716eb3032c20ae5ed74922d923", null ],
+    [ "runes", "d6/d65/a08528.html#aac485530bfa81d54d9da3213fe917c29", null ],
+    [ "runeState", "d6/d65/a08528.html#ae58297e0766578b234604a97641501a1", null ]
 ];

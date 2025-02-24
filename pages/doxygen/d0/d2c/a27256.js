@@ -1,5 +1,5 @@
 var a27256 =
 [
-    [ "go_soulwellAI", "d0/d2c/a27256.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "d0/d2c/a27256.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "item_petrov_cluster_bombs", "d0/d2c/a27256.html#a1a76760f7c4617a40d96b9833e7466df", null ],
+    [ "OnUse", "d0/d2c/a27256.html#a14e8a00a532b5aebc8469ff538848f53", null ]
 ];

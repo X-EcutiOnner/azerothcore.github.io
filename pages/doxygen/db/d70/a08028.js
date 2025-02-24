@@ -1,18 +1,12 @@
 var a08028 =
 [
-    [ "PlayerInfo", "db/d70/a08028.html#a8a26bdeb267824135b3f84baa2585baa", null ],
-    [ "action", "db/d70/a08028.html#a0f68412598a9741e9b5ce7a42c82d129", null ],
-    [ "areaId", "db/d70/a08028.html#a60d086c6e6879e6c5d8b5a24c0ae7bf8", null ],
-    [ "castSpells", "db/d70/a08028.html#a35ab273058db0828c91f01d823467e02", null ],
-    [ "customSpells", "db/d70/a08028.html#ab40e5fd724fab03afbbd38713e1dd4bf", null ],
-    [ "displayId_f", "db/d70/a08028.html#adf14854368c9351fe2fba3215194f2f9", null ],
-    [ "displayId_m", "db/d70/a08028.html#a2ce7d9aa7fc52bd9768c75b88f88b256", null ],
-    [ "item", "db/d70/a08028.html#ad76819034c64c0c691561eff683b7e57", null ],
-    [ "levelInfo", "db/d70/a08028.html#abbff546bbe2cc0ea643c41456c1f0d9f", null ],
-    [ "mapId", "db/d70/a08028.html#ad8d359374f74de40c1c591bb61976405", null ],
-    [ "orientation", "db/d70/a08028.html#a041a37c356d50860cab9f1ced33a28d0", null ],
-    [ "positionX", "db/d70/a08028.html#a55a076dc53e8c2d0b2ab11b1087ebccd", null ],
-    [ "positionY", "db/d70/a08028.html#a7314ecd469357e2eb46ed3d133a5a7a0", null ],
-    [ "positionZ", "db/d70/a08028.html#ad21a8dd3353d3f141bcc9af65e607aee", null ],
-    [ "skills", "db/d70/a08028.html#a3bec7891e115ab3cff40c3d95174981c", null ]
+    [ "TrainerSpell", "db/d70/a08028.html#a87a098774b32babfcf2000e3330a25b9", null ],
+    [ "IsCastable", "db/d70/a08028.html#a2f638f0e068623d38f0dab7c346ac8ed", null ],
+    [ "learnedSpell", "db/d70/a08028.html#a2396712a58fa61f340632de48dac9b78", null ],
+    [ "reqLevel", "db/d70/a08028.html#ac71afa7c180905ae4247011b2f40f929", null ],
+    [ "reqSkill", "db/d70/a08028.html#ac0a74c104994e36ba95703689ed92964", null ],
+    [ "reqSkillValue", "db/d70/a08028.html#a1187d182a512ae0f40af6ea36a4911db", null ],
+    [ "reqSpell", "db/d70/a08028.html#a6f2d3fa6a5f4403822b924f64e796deb", null ],
+    [ "spell", "db/d70/a08028.html#af7649fcfa5e6ca77c7d0aa9ef474b44c", null ],
+    [ "spellCost", "db/d70/a08028.html#a9adb80199e22a0db5d4eb262d9edbfe8", null ]
 ];

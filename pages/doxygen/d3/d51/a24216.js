@@ -1,6 +1,6 @@
 var a24216 =
 [
-    [ "npc_kservantAI", "d8/d4b/a24220.html", "d8/d4b/a24220" ],
-    [ "npc_kservant", "d3/d51/a24216.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d3/d51/a24216.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "npc_pet_dk_army_of_the_deadAI", "d8/d4b/a24220.html", "d8/d4b/a24220" ],
+    [ "npc_pet_dk_army_of_the_dead", "d3/d51/a24216.html#a0029b9a6bf26ac3419e580d437a0139f", null ],
+    [ "GetAI", "d3/d51/a24216.html#a1883936b7f2905f67d3750faa8caf635", null ]
 ];

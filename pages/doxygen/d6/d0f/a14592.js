@@ -1,6 +1,7 @@
 var a14592 =
 [
-    [ "npc_cos_stratholme_citizienAI", "d7/d3d/a14596.html", "d7/d3d/a14596" ],
-    [ "npc_cos_stratholme_citizien", "d6/d0f/a14592.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "d6/d0f/a14592.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "OnRemove", "d6/d0f/a14592.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
+    [ "PrepareAuraScript", "d6/d0f/a14592.html#ab082adc51983f124d0467cbff63cffb7", null ],
+    [ "Register", "d6/d0f/a14592.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
+    [ "Validate", "d6/d0f/a14592.html#a73421b82f483e73314dbb862fb0a11c7", null ]
 ];

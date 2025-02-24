@@ -1,10 +1,10 @@
 var a08952 =
 [
-    [ "AnyDeadUnitSpellTargetInRangeCheck", "db/df5/a08952.html#a212c308a02716ff382e820e86e233ed3", null ],
-    [ "operator()", "db/df5/a08952.html#af328df880d17a62e2dbed0ff4231fc39", null ],
-    [ "operator()", "db/df5/a08952.html#adcc69b9ef03a68aa235e40449a80b701", null ],
-    [ "operator()", "db/df5/a08952.html#a2f2483cf7078681cb3acf28560e61184", null ],
-    [ "operator()", "db/df5/a08952.html#aba0bf4c320a684b68743a06e724a369e", null ],
-    [ "i_check", "db/df5/a08952.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
-    [ "i_spellInfo", "db/df5/a08952.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
+    [ "creatureRate", "db/df5/a08952.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
+    [ "questDailyRate", "db/df5/a08952.html#a1798044bdf25ce774191b00e261add1e", null ],
+    [ "questMonthlyRate", "db/df5/a08952.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
+    [ "questRate", "db/df5/a08952.html#a914118aa28b3736ff4e6c5b61d738834", null ],
+    [ "questRepeatableRate", "db/df5/a08952.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
+    [ "questWeeklyRate", "db/df5/a08952.html#a0fb31ebc33d0ce11f392be845907e043", null ],
+    [ "spellRate", "db/df5/a08952.html#a508485f1e6833c58a11706667a2c24fd", null ]
 ];

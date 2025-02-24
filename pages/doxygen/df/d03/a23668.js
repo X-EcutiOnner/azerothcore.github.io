@@ -1,6 +1,6 @@
 var a23668 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d8/d5f/a23672.html", "d8/d5f/a23672" ],
-    [ "instance_arcatraz", "df/d03/a23668.html#a6fc8860651573353b54fd26bddea32aa", null ],
-    [ "GetInstanceScript", "df/d03/a23668.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
+    [ "npc_capernian", "df/d03/a23668.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "df/d03/a23668.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "df/d03/a23668.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

@@ -1,5 +1,6 @@
 var a12952 =
 [
-    [ "AreaTrigger_at_sunwell_madrigosa", "de/d2e/a12952.html#a6202301b3ce2dd20df77e2fd3b2f6042", null ],
-    [ "OnTrigger", "de/d2e/a12952.html#a459fbbd650883aa69ea9a21cf61370f7", null ]
+    [ "boss_darkmaster_gandlingAI", "de/daa/a12956.html", "de/daa/a12956" ],
+    [ "boss_darkmaster_gandling", "de/d2e/a12952.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
+    [ "GetAI", "de/d2e/a12952.html#a21ea53862614303af31a517a53d1fbf6", null ]
 ];

@@ -1,10 +1,9 @@
 var a24276 =
 [
-    [ "npc_isla_starmaneAI", "d7/df1/a24276.html#a0cb655d324ddde173dcfdee069c0f694", null ],
-    [ "JustDied", "d7/df1/a24276.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
-    [ "JustEngagedWith", "d7/df1/a24276.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
-    [ "JustRespawned", "d7/df1/a24276.html#a69b395a9b9504737109870c5e8db74c8", null ],
-    [ "UpdateEscortAI", "d7/df1/a24276.html#af4b8c80e7443bb671be253238b124910", null ],
-    [ "WaypointReached", "d7/df1/a24276.html#a5d00583afa4e811e4f3cb8400787a990", null ],
-    [ "events", "d7/df1/a24276.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
+    [ "npc_pet_gen_toxic_wasteling", "d7/df1/a24276.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "d7/df1/a24276.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "d7/df1/a24276.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "d7/df1/a24276.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "d7/df1/a24276.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "d7/df1/a24276.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

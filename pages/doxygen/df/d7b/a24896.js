@@ -1,6 +1,7 @@
 var a24896 =
 [
-    [ "ModDest", "df/d7b/a24896.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "df/d7b/a24896.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "df/d7b/a24896.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "HandleScript", "df/d7b/a24896.html#a8ec57aed0788f58e2c50fc08793a5749", null ],
+    [ "PrepareSpellScript", "df/d7b/a24896.html#a56c9ab120239252982cab8b96ac8c5fe", null ],
+    [ "Register", "df/d7b/a24896.html#a8c727b2b00858abcce058b16d66ca62a", null ],
+    [ "Validate", "df/d7b/a24896.html#af3ffb9930eaba8703065719bbcf02f56", null ]
 ];

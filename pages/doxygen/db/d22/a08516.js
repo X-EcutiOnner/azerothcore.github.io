@@ -1,13 +1,10 @@
 var a08516 =
 [
-    [ "BuildValuesCachePosPointers", "db/d22/a08516.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
-    [ "ApplyOffset", "db/d22/a08516.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
-    [ "other", "db/d22/a08516.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
-    [ "UnitDynamicFlagsPos", "db/d22/a08516.html#a230385a8646ebce01faaadce648b1a61", null ],
-    [ "UnitFieldAuraStatePos", "db/d22/a08516.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
-    [ "UnitFieldBytes2Pos", "db/d22/a08516.html#aa1df8492f0a3c576b067469ee3552796", null ],
-    [ "UnitFieldDisplayPos", "db/d22/a08516.html#a1058d1650d656498f7dcd5139363a315", null ],
-    [ "UnitFieldFactionTemplatePos", "db/d22/a08516.html#a9b8eae9da685231956dca3e92b845cbb", null ],
-    [ "UnitFieldFlagsPos", "db/d22/a08516.html#a04e607123d1d1dde24611b573d25fedb", null ],
-    [ "UnitNPCFlagsPos", "db/d22/a08516.html#aa9412413e1a867d1f3857d18f4d52906", null ]
+    [ "DuelInfo", "db/d22/a08516.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
+    [ "Initiator", "db/d22/a08516.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
+    [ "IsMounted", "db/d22/a08516.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
+    [ "Opponent", "db/d22/a08516.html#a2765770367c839ad28f804e2df3205cb", null ],
+    [ "OutOfBoundsTime", "db/d22/a08516.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
+    [ "StartTime", "db/d22/a08516.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
+    [ "State", "db/d22/a08516.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
 ];

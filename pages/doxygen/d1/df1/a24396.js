@@ -1,13 +1,11 @@
 var a24396 =
 [
-    [ "npc_pet_mage_mirror_image", "d1/df1/a24396.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
-    [ "EnterEvadeMode", "d1/df1/a24396.html#a858b070fb53112dc78554f0b20cd876a", null ],
-    [ "InitializeAI", "d1/df1/a24396.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
-    [ "MySelectNextTarget", "d1/df1/a24396.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
-    [ "Reset", "d1/df1/a24396.html#a79a8c153ab61c619d928ec5535e67077", null ],
-    [ "UpdateAI", "d1/df1/a24396.html#aa219b3adc38b625c6885089895b941b4", null ],
-    [ "_ebonGargoyleGUID", "d1/df1/a24396.html#a8be57d06114f108e74b850ce66722bf3", null ],
-    [ "checktarget", "d1/df1/a24396.html#a074611355768dc2072da69ed9d72242b", null ],
-    [ "dist", "d1/df1/a24396.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
-    [ "selectionTimer", "d1/df1/a24396.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
+    [ "CalcPeriodic", "d1/df1/a24396.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
+    [ "CalculateHasteAmount", "d1/df1/a24396.html#a75d428e0b3619d53bd9436712d2e394e", null ],
+    [ "CalculateSPAmount", "d1/df1/a24396.html#a81805b43a47065281f83889d8be95c54", null ],
+    [ "CalculateStatAmount", "d1/df1/a24396.html#a763276aaa00bb6953e0b52118662e7a8", null ],
+    [ "HandleEffectApply", "d1/df1/a24396.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
+    [ "HandlePeriodic", "d1/df1/a24396.html#ab3c7d479eae88ab4a59b06610af19429", null ],
+    [ "PrepareAuraScript", "d1/df1/a24396.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
+    [ "Register", "d1/df1/a24396.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
 ];

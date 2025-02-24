@@ -1,6 +1,7 @@
 var a10508 =
 [
-    [ "UITime", "df/d2f/a10508.html#a24311ce7df9e9a0f40a3c5473cef34b3", null ],
-    [ "Write", "df/d2f/a10508.html#ab24cdd76abd5914c3a30ee42c7681855", null ],
-    [ "Time", "df/d2f/a10508.html#ac4ad6c7c425167e90fd2497f7ebaec4c", null ]
+    [ "Flags", "df/d2f/a10508.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
+    [ "TabFlags", "df/d2f/a10508.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
+    [ "TabWithdrawItemLimit", "df/d2f/a10508.html#af16392abbddf27a8b21fd21d998501e6", null ],
+    [ "WithdrawGoldLimit", "df/d2f/a10508.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
 ];

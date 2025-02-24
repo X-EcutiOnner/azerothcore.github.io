@@ -1,6 +1,6 @@
 var a24748 =
 [
-    [ "HandleAfterCast", "dd/d7a/a24748.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
-    [ "PrepareSpellScript", "dd/d7a/a24748.html#a602d7c920aa73a9c3c69222854093036", null ],
-    [ "Register", "dd/d7a/a24748.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
+    [ "CheckProc", "dd/d7a/a24748.html#ad1678a96784add01965d67c3d86bcd77", null ],
+    [ "PrepareAuraScript", "dd/d7a/a24748.html#a6e164a8e3482b566b776c5ffeeb1b6ac", null ],
+    [ "Register", "dd/d7a/a24748.html#a148f3fe7ee4bdc8e148fe71100779e56", null ]
 ];

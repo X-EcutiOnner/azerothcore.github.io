@@ -1,6 +1,8 @@
 var a22076 =
 [
-    [ "npc_blessed_bannerAI", "d3/da2/a22080.html", "d3/da2/a22080" ],
-    [ "npc_blessed_banner", "d0/d68/a22076.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "d0/d68/a22076.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "npc_vics_flying_machineAI", "d0/d68/a22076.html#a4464e0b1433c4ffb24ae7809b1a0eec5", null ],
+    [ "MovementInform", "d0/d68/a22076.html#ac4bbe0a3cccb6878d050b717b9efb320", null ],
+    [ "PassengerBoarded", "d0/d68/a22076.html#aa67dcbb4b43b047398fec2619ad61829", null ],
+    [ "SpellHit", "d0/d68/a22076.html#aa81229a104e1521d570abec4b6f7bca7", null ],
+    [ "pointId", "d0/d68/a22076.html#aa1412c23f0c3b964262e145c51aea974", null ]
 ];

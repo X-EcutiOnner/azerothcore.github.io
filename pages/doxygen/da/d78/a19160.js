@@ -1,6 +1,5 @@
 var a19160 =
 [
-    [ "boss_anomalusAI", "db/dc4/a19164.html", "db/dc4/a19164" ],
-    [ "boss_anomalus", "da/d78/a19160.html#a0dc3f8d5e272327596a8c7b34ffbe434", null ],
-    [ "GetAI", "da/d78/a19160.html#ae0a4a5047646a75fa492bf3d0383b127", null ]
+    [ "achievement_chaos_theory", "da/d78/a19160.html#a3068009fa1fb400439a2c72f00296484", null ],
+    [ "OnCheck", "da/d78/a19160.html#a68d9a577cb7e005d81f52077707e3555", null ]
 ];

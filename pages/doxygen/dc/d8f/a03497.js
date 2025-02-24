@@ -1,29 +1,31 @@
 var a03497 =
 [
-    [ "MAX_ACCOUNT_STR", "dc/d8f/a03497.html#a134ebf22666a6525929447b2d869d400", null ],
-    [ "MAX_EMAIL_STR", "dc/d8f/a03497.html#ad64d9bd18bac10ab1af09b042d734c64", null ],
-    [ "MAX_PASS_STR", "dc/d8f/a03497.html#a45827712253b6d66092106cef5ae724b", null ],
-    [ "AccountOpResult", "dc/d8f/a03497.html#a0161874ada0cecbbd1fd5d31da73703e", [
-      [ "AOR_OK", "dc/d8f/a03497.html#a0161874ada0cecbbd1fd5d31da73703ea73449863bb0d97def55bd65307e97f18", null ],
-      [ "AOR_NAME_TOO_LONG", "dc/d8f/a03497.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4", null ],
-      [ "AOR_PASS_TOO_LONG", "dc/d8f/a03497.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c", null ],
-      [ "AOR_EMAIL_TOO_LONG", "dc/d8f/a03497.html#a0161874ada0cecbbd1fd5d31da73703eaaf639a81cbf8cf6bd685e34d73e895a1", null ],
-      [ "AOR_NAME_ALREADY_EXIST", "dc/d8f/a03497.html#a0161874ada0cecbbd1fd5d31da73703eae0b6297de7a7e8b516f5fc98a4d8750c", null ],
-      [ "AOR_NAME_NOT_EXIST", "dc/d8f/a03497.html#a0161874ada0cecbbd1fd5d31da73703ea05e659ba76ce9dd582551a24f2923b24", null ],
-      [ "AOR_DB_INTERNAL_ERROR", "dc/d8f/a03497.html#a0161874ada0cecbbd1fd5d31da73703ea368516df3522ada12ce8a39c789a687d", null ]
+    [ "BfCapturePoint", "d0/da5/a07104.html", "d0/da5/a07104" ],
+    [ "BfGraveyard", "da/dea/a07108.html", "da/dea/a07108" ],
+    [ "Battlefield", "d0/d5f/a07112.html", "d0/d5f/a07112" ],
+    [ "GraveyardVect", "dc/d8f/a03497.html#a3c001cdd2e1b762c5c2bdd6814e59f6c", null ],
+    [ "PlayerTimerMap", "dc/d8f/a03497.html#a0467dc30f5bb6a1c9ee1487a3aced1a1", null ],
+    [ "BattlefieldIDs", "dc/d8f/a03497.html#aff53bf428d550c270744c9a188d4187f", [
+      [ "BATTLEFIELD_BATTLEID_WG", "dc/d8f/a03497.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010", null ]
     ] ],
-    [ "ChangeEmail", "dc/d8f/a03497.html#a2a6c83e2d4e6121855beb252f23c905b", null ],
-    [ "ChangePassword", "dc/d8f/a03497.html#a6a9cb892c15d78b5de65738005234ff6", null ],
-    [ "ChangeUsername", "dc/d8f/a03497.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
-    [ "CheckPassword", "dc/d8f/a03497.html#a17c28dfcb31af8f4241bb5210408185a", null ],
-    [ "CreateAccount", "dc/d8f/a03497.html#a7a7668ab60ae56c7e71fce77780bb214", null ],
-    [ "DeleteAccount", "dc/d8f/a03497.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
-    [ "GetCharactersCount", "dc/d8f/a03497.html#a4fb760897161c3d463f842b28bcf7c20", null ],
-    [ "GetId", "dc/d8f/a03497.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],
-    [ "GetName", "dc/d8f/a03497.html#af911e3860ec519c541d6df35468ee41b", null ],
-    [ "GetSecurity", "dc/d8f/a03497.html#a8280510b2564ec6ea76727218c1687b3", null ],
-    [ "GetSecurity", "dc/d8f/a03497.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
-    [ "IsAdminAccount", "dc/d8f/a03497.html#adb1b210137b09011677c74011addeefa", null ],
-    [ "IsConsoleAccount", "dc/d8f/a03497.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
-    [ "IsPlayerAccount", "dc/d8f/a03497.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
+    [ "BattlefieldObjectiveStates", "dc/d8f/a03497.html#af6db5a1d93982b261639cd12634a2798", [
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL", "dc/d8f/a03497.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE", "dc/d8f/a03497.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE", "dc/d8f/a03497.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "dc/d8f/a03497.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "dc/d8f/a03497.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "dc/d8f/a03497.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "dc/d8f/a03497.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4", null ]
+    ] ],
+    [ "BattlefieldSounds", "dc/d8f/a03497.html#a7c3836172413cb3b2cdabeb20b99f1b4", [
+      [ "BF_HORDE_WINS", "dc/d8f/a03497.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a", null ],
+      [ "BF_ALLIANCE_WINS", "dc/d8f/a03497.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138", null ],
+      [ "BF_START", "dc/d8f/a03497.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007", null ]
+    ] ],
+    [ "BattlefieldTypes", "dc/d8f/a03497.html#a6f435417da35c7d1b51c95e516fc6b2d", [
+      [ "BATTLEFIELD_WG", "dc/d8f/a03497.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd", null ],
+      [ "BATTLEFIELD_TB", "dc/d8f/a03497.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610", null ]
+    ] ],
+    [ "BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL", "dc/d8f/a03497.html#a79df696836c3edc53ca1868aab7f6e76", null ],
+    [ "BattlefieldFactions", "dc/d8f/a03497.html#af5e231859535c4e1e6bd27ee42753f63", null ]
 ];

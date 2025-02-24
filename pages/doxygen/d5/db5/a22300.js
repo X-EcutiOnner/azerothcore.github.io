@@ -1,7 +1,6 @@
 var a22300 =
 [
-    [ "npc_wg_quest_giver", "d5/db5/a22300.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d5/db5/a22300.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d5/db5/a22300.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d5/db5/a22300.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "npc_released_offspring_harkoaAI", "d5/db5/a22300.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "d5/db5/a22300.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "d5/db5/a22300.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

@@ -1,7 +1,5 @@
 var a23240 =
 [
-    [ "go_ahune_ice_spear", "df/d94/a23240.html#a22922e47b819bc60e331cffbc7c353b3", null ],
-    [ "Reset", "df/d94/a23240.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
-    [ "UpdateAI", "df/d94/a23240.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
-    [ "_scheduler", "df/d94/a23240.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
+    [ "at_underbog_ghazan", "df/d94/a23240.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
+    [ "_OnTrigger", "df/d94/a23240.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
 ];

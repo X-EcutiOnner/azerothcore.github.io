@@ -1,5 +1,7 @@
 var a09644 =
 [
-    [ "MovementGeneratorFactory", "d2/d1c/a09644.html#a8b473ae9fa2af60a7fa92727ce163305", null ],
-    [ "Create", "d2/d1c/a09644.html#af3a494507c8d910bd98bb0989d42ba6f", null ]
+    [ "QuestItem", "d2/d1c/a09644.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
+    [ "QuestItem", "d2/d1c/a09644.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
+    [ "index", "d2/d1c/a09644.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
+    [ "is_looted", "d2/d1c/a09644.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
 ];

@@ -1,12 +1,20 @@
 var a07652 =
 [
-    [ "far_clip", "da/d97/a07652.html#af70a06bda2dffbf2d3c49cb696beea2f", null ],
-    [ "fov", "da/d97/a07652.html#ae553ef5e28cc3af3acd45b9efd309fbe", null ],
-    [ "near_clip", "da/d97/a07652.html#a9426497de885b901d364c0b3ddd487d9", null ],
-    [ "position_base", "da/d97/a07652.html#abf0892be5ecf6d1e1021e101832396f3", null ],
-    [ "positions", "da/d97/a07652.html#a5d23816339fea0ac1e2c6fdad5fe58d8", null ],
-    [ "rolldata", "da/d97/a07652.html#ad3428dcc0b93e509c9225fa86ea2d691", null ],
-    [ "target_position_base", "da/d97/a07652.html#a2515ee6fa2fc41f7fca531b55cf0dc61", null ],
-    [ "target_positions", "da/d97/a07652.html#a12132e4bcc881cab134851938c45e05a", null ],
-    [ "type", "da/d97/a07652.html#afd67c926b538e189b036d88a9a277a2f", null ]
+    [ "value_type", "da/d97/a07652.html#a2ffac2f5c4514a1a9c7d3b72ac95ca28", null ],
+    [ "PlayerIdentifier", "da/d97/a07652.html#a4a5d0a04c5461c56b8c6028926bda2a0", null ],
+    [ "PlayerIdentifier", "da/d97/a07652.html#ac757cca4b11332e5b091639a9a946f88", null ],
+    [ "FromSelf", "da/d97/a07652.html#af45d29f7ebca2a8af420fdec344264fc", null ],
+    [ "FromTarget", "da/d97/a07652.html#aea33fb49551ebc0f687f3d24dc3dfbea", null ],
+    [ "FromTargetOrSelf", "da/d97/a07652.html#a617834cc8474970950b45066f2e86dbd", null ],
+    [ "GetConnectedPlayer", "da/d97/a07652.html#ac4d51841e160051dde72827e9bc71318", null ],
+    [ "GetGUID", "da/d97/a07652.html#a266269d0f1aa9410cde271c97f09f807", null ],
+    [ "GetName", "da/d97/a07652.html#a6baa96394c108ae26c66a790f024ae3a", null ],
+    [ "IsConnected", "da/d97/a07652.html#a3eac561c52cfd3a01b596feca5846dc5", null ],
+    [ "operator ObjectGuid", "da/d97/a07652.html#a6895aec33b3b5c1a43abd6fa077f1ea8", null ],
+    [ "operator std::string const &", "da/d97/a07652.html#a3ac710baa74dbbc2359b1734579c0412", null ],
+    [ "operator std::string_view", "da/d97/a07652.html#af37d94f83894f4182211208db19c8678", null ],
+    [ "TryConsume", "da/d97/a07652.html#a0ef4ac60e1dcbc03bfe08d78b05de48d", null ],
+    [ "_guid", "da/d97/a07652.html#a378564a9a7e2b4a85381cc4e3c371451", null ],
+    [ "_name", "da/d97/a07652.html#ad0f2f7c96817c6e0c1c77c21a299cb70", null ],
+    [ "_player", "da/d97/a07652.html#a5658078bcce50c453f087b1e3f602f05", null ]
 ];

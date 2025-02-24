@@ -1,6 +1,6 @@
 var a00830 =
 [
-    [ "boss_ingvar_the_plunderer", "d2/ddd/a20890.html", "d2/ddd/a20890" ],
+    [ "boss_ingvar_the_plunderer", "d1/d03/a20908.html", "d1/d03/a20908" ],
     [ "SPELL_DREADFUL_ROAR", "d9/daf/a00830.html#ac1e0e2698ab0ecb24bebdfa4c7ff14ca", null ],
     [ "SPELL_ENRAGE", "d9/daf/a00830.html#a101191d5841177786224ce21dc4ee986", null ],
     [ "SPELL_SMASH", "d9/daf/a00830.html#a29597657a2021b4ce69510ef57e5c532", null ],
@@ -131,10 +131,10 @@ var a00830 =
       [ "EVENT_SPELL_SUMMON_VOID_SENTRY", "de/def/a01016.html#a1d3512b0adb171bd0db6aad2c9e70516a72fb54e6e80932fa5fdf60b0a36ad813", null ]
     ] ],
     [ "eNPCs", "d9/daf/a00830.html#abaecf87f40b40c4c71ec596a0b73e911", [
-      [ "NPC_BROODLORD", "da/d6b/a02438.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
-      [ "NPC_JAN_ALAI", "da/d6b/a02438.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],
-      [ "NPC_SARTHARION", "da/d6b/a02438.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10", null ],
-      [ "NPC_FREYA", "da/d6b/a02438.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752", null ],
+      [ "NPC_BROODLORD", "d4/da8/a02444.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
+      [ "NPC_JAN_ALAI", "d4/da8/a02444.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],
+      [ "NPC_SARTHARION", "d4/da8/a02444.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10", null ],
+      [ "NPC_FREYA", "d4/da8/a02444.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752", null ],
       [ "NPC_INGVAR_UNDEAD", "d9/daf/a00830.html#abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906", null ],
       [ "NPC_ANNHYLDE", "d9/daf/a00830.html#abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4", null ],
       [ "NPC_THROW", "d9/daf/a00830.html#abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546", null ],

@@ -1,9 +1,6 @@
 var a20620 =
 [
-    [ "npc_xt002_pummellerAI", "d4/db5/a20620.html#a2942c05c93036c2e02b9a72c784441b1", null ],
-    [ "Reset", "d4/db5/a20620.html#a6542fb3e585f100f06f6be14a1346306", null ],
-    [ "UpdateAI", "d4/db5/a20620.html#a959990310303ff2102f1c03852b4ab8e", null ],
-    [ "_arcingSmashTimer", "d4/db5/a20620.html#a830fda66756dc3f34a530939116e7556", null ],
-    [ "_trampleTimer", "d4/db5/a20620.html#ae5e450601861f83b20419405bb92ef6d", null ],
-    [ "_uppercutTimer", "d4/db5/a20620.html#a5a1bdb380438070effc091ec37db6aec", null ]
+    [ "OnRemove", "d4/db5/a20620.html#a492bd9e9c82937e00897e19362b40901", null ],
+    [ "PrepareAuraScript", "d4/db5/a20620.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
+    [ "Register", "d4/db5/a20620.html#adfcaf82ff48225ea0e0314d421795644", null ]
 ];

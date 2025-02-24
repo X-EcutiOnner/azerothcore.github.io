@@ -1,7 +1,7 @@
 var a24420 =
 [
-    [ "CheckCast", "d7/db8/a24420.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d7/db8/a24420.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d7/db8/a24420.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d7/db8/a24420.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "CorpseExplosionCheck", "d7/db8/a24420.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "d7/db8/a24420.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "d7/db8/a24420.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "d7/db8/a24420.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

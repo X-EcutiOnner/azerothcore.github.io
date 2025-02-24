@@ -1,9 +1,10 @@
 var a11524 =
 [
-    [ "npc_phalanxAI", "de/d89/a11524.html#a1a09cd0b0cf765dec20ca9c3c5bb9373", null ],
-    [ "Reset", "de/d89/a11524.html#a41a14315d82b169528bd764335c16d52", null ],
-    [ "UpdateAI", "de/d89/a11524.html#a78092bfb2d9b8455b5348d872afc6521", null ],
-    [ "FireballVolley_Timer", "de/d89/a11524.html#a0e7bedf19d7a69707fcfec9cbd3649e5", null ],
-    [ "MightyBlow_Timer", "de/d89/a11524.html#ae8fe8a7313f573e910763d5a82303e66", null ],
-    [ "ThunderClap_Timer", "de/d89/a11524.html#ab68781dcd728e2a0d021a0d52e43fd71", null ]
+    [ "bf_commandscript", "de/d89/a11524.html#a806ca440ae1b51fffefee9d298dab3df", null ],
+    [ "GetCommands", "de/d89/a11524.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
+    [ "HandleBattlefieldEnable", "de/d89/a11524.html#a08dd3bdd279c760fe0f126200a01619e", null ],
+    [ "HandleBattlefieldEnd", "de/d89/a11524.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
+    [ "HandleBattlefieldStart", "de/d89/a11524.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
+    [ "HandleBattlefieldSwitch", "de/d89/a11524.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
+    [ "HandleBattlefieldTimer", "de/d89/a11524.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
 ];

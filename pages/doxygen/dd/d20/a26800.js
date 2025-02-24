@@ -1,6 +1,6 @@
 var a26800 =
 [
-    [ "HandleOnHit", "dd/d20/a26800.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
-    [ "PrepareSpellScript", "dd/d20/a26800.html#a999b019665dec9b0690a1019be428072", null ],
-    [ "Register", "dd/d20/a26800.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
+    [ "CalculateAmount", "dd/d20/a26800.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
+    [ "PrepareAuraScript", "dd/d20/a26800.html#a845476e27b3751fd5aab505d41d8696d", null ],
+    [ "Register", "dd/d20/a26800.html#aa5141f11bcd97cc501297a5309df1079", null ]
 ];

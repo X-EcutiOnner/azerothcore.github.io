@@ -1,8 +1,8 @@
 var a00794 =
 [
-    [ "boss_archavon", "d5/d47/a21050.html", "d5/d47/a21050" ],
-    [ "boss_archavon::boss_archavonAI", "d0/da1/a21054.html", "d0/da1/a21054" ],
-    [ "spell_archavon_rock_shards", "dd/d61/a21058.html", "dd/d61/a21058" ],
+    [ "boss_archavon", "de/da4/a21068.html", "de/da4/a21068" ],
+    [ "boss_archavon::boss_archavonAI", "d3/dad/a21072.html", "d3/dad/a21072" ],
+    [ "spell_archavon_rock_shards", "d0/d95/a21076.html", "d0/d95/a21076" ],
     [ "Archavon", "d5/d12/a00794.html#a73a22ae082f1ae211db2530bf259e3c9", [
       [ "SPELL_ROCK_SHARDS", "d5/d12/a00794.html#a73a22ae082f1ae211db2530bf259e3c9a089c4dd82ee20529deb635e435060907", null ],
       [ "SPELL_ROCK_SHARDS_LEFT_HAND_VISUAL", "d5/d12/a00794.html#a73a22ae082f1ae211db2530bf259e3c9ac5948e58c536267987e0a82dcfba1ea7", null ],

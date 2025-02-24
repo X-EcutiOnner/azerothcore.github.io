@@ -1,6 +1,8 @@
 var a25372 =
 [
-    [ "CheckCast", "da/d59/a25372.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
-    [ "PrepareSpellScript", "da/d59/a25372.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
-    [ "Register", "da/d59/a25372.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
+    [ "OnApply", "da/d59/a25372.html#a75b45732648d5ba90b49725a48609a89", null ],
+    [ "OnBaseRemove", "da/d59/a25372.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "OnRemove", "da/d59/a25372.html#a0331b3860691db793c5a7bcf53550c6f", null ],
+    [ "PrepareAuraScript", "da/d59/a25372.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "da/d59/a25372.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

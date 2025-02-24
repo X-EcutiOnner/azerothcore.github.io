@@ -1,5 +1,5 @@
 var a11640 =
 [
-    [ "boss_high_priestess_thaurissan", "da/d07/a11640.html#a53d3fd78f6a1a3b5028c6fc2940dfbd0", null ],
-    [ "GetAI", "da/d07/a11640.html#a7d2bb83a766b8eaa9bdbbb0f45a4fe62", null ]
+    [ "flag", "da/d07/a11640.html#ae1419ecdb46b888ad0250ff77ccb9b6e", null ],
+    [ "text", "da/d07/a11640.html#a87700bc5f863f448b346c2aec2152ba4", null ]
 ];

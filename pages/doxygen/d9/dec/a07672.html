@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: lfg::LfgJoinResultData Struct Reference</title>
+<title>AzerothCore: LinkValidator&lt; LinkTags::achievement &gt; Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,33 +105,23 @@ $(document).ready(function(){initNavTree('d9/dec/a07672.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../d0/d1a/a07669.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">lfg::LfgJoinResultData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">LinkValidator&lt; LinkTags::achievement &gt; Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">LFGMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a1d711d49a6b49f55eb3771352b294b95"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dec/a07672.html#a1d711d49a6b49f55eb3771352b294b95">LfgJoinResultData</a> (<a class="el" href="../../da/d6d/a04713.html#af65dbea5eebf3cd1cd16595508fd18eb">LfgJoinResult</a> _result=<a class="el" href="../../da/d6d/a04713.html#af65dbea5eebf3cd1cd16595508fd18ebad97a0cd2df6a43cecd1bbc717c08ac16">LFG_JOIN_OK</a>, <a class="el" href="../../da/d6d/a04713.html#a9596c400ddbfa4a0eadda14c0be342ed">LfgRoleCheckState</a> _state=<a class="el" href="../../da/d6d/a04713.html#a9596c400ddbfa4a0eadda14c0be342eda7af5d6177f5a366540db6af65ff74658">LFG_ROLECHECK_DEFAULT</a>)</td></tr>
-<tr class="separator:a1d711d49a6b49f55eb3771352b294b95"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:aa713cbc1930962d520883523f6f6446c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d6d/a04713.html#af65dbea5eebf3cd1cd16595508fd18eb">LfgJoinResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dec/a07672.html#aa713cbc1930962d520883523f6f6446c">result</a></td></tr>
-<tr class="separator:aa713cbc1930962d520883523f6f6446c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2eee5e81651a7a9be245e4b717ab53ed"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d6d/a04713.html#a9596c400ddbfa4a0eadda14c0be342ed">LfgRoleCheckState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dec/a07672.html#a2eee5e81651a7a9be245e4b717ab53ed">state</a></td></tr>
-<tr class="separator:a2eee5e81651a7a9be245e4b717ab53ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aff918b3c02ca76982a964402175f8ad7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d6d/a04713.html#ad2856c4b4e624c3f15d89ccae35370c9">LfgLockPartyMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dec/a07672.html#aff918b3c02ca76982a964402175f8ad7">lockmap</a></td></tr>
-<tr class="separator:aff918b3c02ca76982a964402175f8ad7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:ab9c8e4926f593058bf247f33b6089bc3"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dec/a07672.html#ab9c8e4926f593058bf247f33b6089bc3">IsTextValid</a> (<a class="el" href="../../dc/de8/a07704.html">AchievementLinkData</a> const &amp;data, std::string_view text)</td></tr>
+<tr class="separator:ab9c8e4926f593058bf247f33b6089bc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab291dc8bdb852a8386c2a3d1bd18cfad"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dec/a07672.html#ab291dc8bdb852a8386c2a3d1bd18cfad">IsColorValid</a> (<a class="el" href="../../dc/de8/a07704.html">AchievementLinkData</a> const &amp;, <a class="el" href="../../d2/d59/a07764.html">HyperlinkColor</a> c)</td></tr>
+<tr class="separator:ab291dc8bdb852a8386c2a3d1bd18cfad"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a1d711d49a6b49f55eb3771352b294b95" name="a1d711d49a6b49f55eb3771352b294b95"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1d711d49a6b49f55eb3771352b294b95">&#9670;&#160;</a></span>LfgJoinResultData()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="ab291dc8bdb852a8386c2a3d1bd18cfad" name="ab291dc8bdb852a8386c2a3d1bd18cfad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab291dc8bdb852a8386c2a3d1bd18cfad">&#9670;&#160;</a></span>IsColorValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -140,16 +130,16 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">lfg::LfgJoinResultData::LfgJoinResultData </td>
+          <td class="memname">static bool <a class="el" href="../../db/d04/a07668.html">LinkValidator</a>&lt; <a class="el" href="../../dd/dfe/a07732.html">LinkTags::achievement</a> &gt;::IsColorValid </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d6d/a04713.html#af65dbea5eebf3cd1cd16595508fd18eb">LfgJoinResult</a>&#160;</td>
-          <td class="paramname"><em>_result</em> = <code><a class="el" href="../../da/d6d/a04713.html#af65dbea5eebf3cd1cd16595508fd18ebad97a0cd2df6a43cecd1bbc717c08ac16">LFG_JOIN_OK</a></code>, </td>
+          <td class="paramtype"><a class="el" href="../../dc/de8/a07704.html">AchievementLinkData</a> const &amp;&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../da/d6d/a04713.html#a9596c400ddbfa4a0eadda14c0be342ed">LfgRoleCheckState</a>&#160;</td>
-          <td class="paramname"><em>_state</em> = <code><a class="el" href="../../da/d6d/a04713.html#a9596c400ddbfa4a0eadda14c0be342eda7af5d6177f5a366540db6af65ff74658">LFG_ROLECHECK_DEFAULT</a></code>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d2/d59/a07764.html">HyperlinkColor</a>&#160;</td>
+          <td class="paramname"><em>c</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -159,63 +149,66 @@ Public Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  281</span>                                                                                                                :</div>
-<div class="line"><span class="lineno">  282</span>            <a class="code hl_variable" href="../../d9/dec/a07672.html#aa713cbc1930962d520883523f6f6446c">result</a>(_result), <a class="code hl_variable" href="../../d9/dec/a07672.html#a2eee5e81651a7a9be245e4b717ab53ed">state</a>(_state) {}</div>
-<div class="ttc" id="aa07672_html_a2eee5e81651a7a9be245e4b717ab53ed"><div class="ttname"><a href="../../d9/dec/a07672.html#a2eee5e81651a7a9be245e4b717ab53ed">lfg::LfgJoinResultData::state</a></div><div class="ttdeci">LfgRoleCheckState state</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:284</div></div>
-<div class="ttc" id="aa07672_html_aa713cbc1930962d520883523f6f6446c"><div class="ttname"><a href="../../d9/dec/a07672.html#aa713cbc1930962d520883523f6f6446c">lfg::LfgJoinResultData::result</a></div><div class="ttdeci">LfgJoinResult result</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:283</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  127</span>    {</div>
+<div class="line"><span class="lineno">  128</span>        <span class="keywordflow">return</span> c == <a class="code hl_enumvalue" href="../../d4/d3a/a00101.html#aff4462a11392766622feb9f20463ffb6a5c47688297f4ea30606c8f24b1580ee5">CHAT_LINK_COLOR_ACHIEVEMENT</a>;</div>
+<div class="line"><span class="lineno">  129</span>    }</div>
+<div class="ttc" id="aa00101_html_aff4462a11392766622feb9f20463ffb6a5c47688297f4ea30606c8f24b1580ee5"><div class="ttname"><a href="../../d4/d3a/a00101.html#aff4462a11392766622feb9f20463ffb6a5c47688297f4ea30606c8f24b1580ee5">CHAT_LINK_COLOR_ACHIEVEMENT</a></div><div class="ttdeci">@ CHAT_LINK_COLOR_ACHIEVEMENT</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3214</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l03214">CHAT_LINK_COLOR_ACHIEVEMENT</a>.</p>
+
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="aff918b3c02ca76982a964402175f8ad7" name="aff918b3c02ca76982a964402175f8ad7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aff918b3c02ca76982a964402175f8ad7">&#9670;&#160;</a></span>lockmap</h2>
+<a id="ab9c8e4926f593058bf247f33b6089bc3" name="ab9c8e4926f593058bf247f33b6089bc3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab9c8e4926f593058bf247f33b6089bc3">&#9670;&#160;</a></span>IsTextValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/d6d/a04713.html#ad2856c4b4e624c3f15d89ccae35370c9">LfgLockPartyMap</a> lfg::LfgJoinResultData::lockmap</td>
+          <td class="memname">static bool <a class="el" href="../../db/d04/a07668.html">LinkValidator</a>&lt; <a class="el" href="../../dd/dfe/a07732.html">LinkTags::achievement</a> &gt;::IsTextValid </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/de8/a07704.html">AchievementLinkData</a> const &amp;&#160;</td>
+          <td class="paramname"><em>data</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00511">lfg::LFGMgr::JoinLfg()</a>, and <a class="el" href="../../#l00435">WorldSession::SendLfgJoinResult()</a>.</p>
-
-</div>
-</div>
-<a id="aa713cbc1930962d520883523f6f6446c" name="aa713cbc1930962d520883523f6f6446c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa713cbc1930962d520883523f6f6446c">&#9670;&#160;</a></span>result</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/d6d/a04713.html#af65dbea5eebf3cd1cd16595508fd18eb">LfgJoinResult</a> lfg::LfgJoinResultData::result</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>text</em>&#160;</td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00511">lfg::LFGMgr::JoinLfg()</a>, and <a class="el" href="../../#l00435">WorldSession::SendLfgJoinResult()</a>.</p>
-
-</div>
-</div>
-<a id="a2eee5e81651a7a9be245e4b717ab53ed" name="a2eee5e81651a7a9be245e4b717ab53ed"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2eee5e81651a7a9be245e4b717ab53ed">&#9670;&#160;</a></span>state</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/d6d/a04713.html#a9596c400ddbfa4a0eadda14c0be342ed">LfgRoleCheckState</a> lfg::LfgJoinResultData::state</td>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00435">WorldSession::SendLfgJoinResult()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  115</span>    {</div>
+<div class="line"><span class="lineno">  116</span>        <span class="keywordflow">if</span> (text.empty())</div>
+<div class="line"><span class="lineno">  117</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  118</span> </div>
+<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d0/da8/a04547.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>; ++i)</div>
+<div class="line"><span class="lineno">  120</span>            <span class="keywordflow">if</span> (text == data.Achievement-&gt;name[i])</div>
+<div class="line"><span class="lineno">  121</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  122</span> </div>
+<div class="line"><span class="lineno">  123</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  124</span>    }</div>
+<div class="ttc" id="aa04547_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../d0/da8/a04547.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:76</div></div>
+<div class="ttc" id="aa04559_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d1/dce/a04559.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00041">Acore::Hyperlinks::AchievementLinkData::Achievement</a>, <a class="el" href="../../#l00044">AchievementEntry::name</a>, and <a class="el" href="../../#l00076">TOTAL_LOCALES</a>.</p>
 
 </div>
 </div>
@@ -224,8 +217,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/d6d/a04713.html">lfg</a></li><li class="navelem"><a class="el" href="../../d9/dec/a07672.html">LfgJoinResultData</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:44:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/dec/a07672.html">LinkValidator&lt; LinkTags::achievement &gt;</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:44:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

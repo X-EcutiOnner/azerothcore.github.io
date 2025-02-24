@@ -1,6 +1,5 @@
 var a19876 =
 [
-    [ "OnPeriodic", "d7/d35/a19876.html#a379c55df994c58932fef7e7a59fd8426", null ],
-    [ "PrepareAuraScript", "d7/d35/a19876.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
-    [ "Register", "d7/d35/a19876.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
+    [ "achievement_flame_leviathan_unbroken", "d7/d35/a19876.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
+    [ "OnCheck", "d7/d35/a19876.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
 ];

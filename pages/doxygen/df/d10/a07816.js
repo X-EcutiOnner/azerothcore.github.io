@@ -1,7 +1,8 @@
 var a07816 =
 [
-    [ "VendorItemCount", "df/d10/a07816.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
-    [ "count", "df/d10/a07816.html#aff4c062138792ffb37dadb19b725c87c", null ],
-    [ "itemId", "df/d10/a07816.html#a225158bbb56d6666ba4918155f08f993", null ],
-    [ "lastIncrementTime", "df/d10/a07816.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
+    [ "ThreatMgrEvent", "df/d10/a07816.html#ad8d5d86b12e5c13f25f8598ef5670eb8", null ],
+    [ "ThreatMgrEvent", "df/d10/a07816.html#a332ae279dc4c243c148e07454611a057", null ],
+    [ "getThreatContainer", "df/d10/a07816.html#a15ab83dccbbae73cbd2ec0a376d57d28", null ],
+    [ "setThreatContainer", "df/d10/a07816.html#aaffdff7ac81e949adc076b113a824cbf", null ],
+    [ "iThreatContainer", "df/d10/a07816.html#a7f32669286852385312b86e0b70e177e", null ]
 ];

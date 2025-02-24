@@ -1,9 +1,9 @@
 var a09540 =
 [
-    [ "MapUpdateRequest", "da/d6c/a09540.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "da/d6c/a09540.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "da/d6c/a09540.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "da/d6c/a09540.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "da/d6c/a09540.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "da/d6c/a09540.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "EmoteChatBuilder", "da/d6c/a09540.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
+    [ "operator()", "da/d6c/a09540.html#a133a7bb35e86cf40425910c4f19a3337", null ],
+    [ "i_emote_num", "da/d6c/a09540.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
+    [ "i_player", "da/d6c/a09540.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
+    [ "i_target", "da/d6c/a09540.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
+    [ "i_text_emote", "da/d6c/a09540.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
 ];

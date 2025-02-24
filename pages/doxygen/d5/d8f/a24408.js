@@ -1,9 +1,10 @@
 var a24408 =
 [
-    [ "npc_pet_shaman_earth_elemental", "d5/d8f/a24408.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "d5/d8f/a24408.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "d5/d8f/a24408.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "d5/d8f/a24408.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "d5/d8f/a24408.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "d5/d8f/a24408.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "Absorb", "d5/d8f/a24408.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
+    [ "CalculateAmount", "d5/d8f/a24408.html#a279a025cac490ee3647f47584b59179f", null ],
+    [ "Load", "d5/d8f/a24408.html#a3fededdbfca9d12e6dbd097620e104be", null ],
+    [ "PrepareAuraScript", "d5/d8f/a24408.html#a818875a8073491eab2508182bd941e25", null ],
+    [ "Register", "d5/d8f/a24408.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
+    [ "Validate", "d5/d8f/a24408.html#a60eb14be1b3108b7b896a27eab35569b", null ],
+    [ "absorbPct", "d5/d8f/a24408.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
 ];

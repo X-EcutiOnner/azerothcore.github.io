@@ -1,7 +1,6 @@
 var a15924 =
 [
-    [ "npc_orb_carrierAI", "da/ded/a15924.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "da/ded/a15924.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "da/ded/a15924.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "da/ded/a15924.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "boss_halionAI", "d4/dc7/a15928.html", "d4/dc7/a15928" ],
+    [ "boss_halion", "da/ded/a15924.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
+    [ "GetAI", "da/ded/a15924.html#a142314efb4f45ec146ab0225271d29b1", null ]
 ];

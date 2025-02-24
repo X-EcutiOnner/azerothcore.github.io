@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Asio/AsioHacksFwd.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Asio/IpNetwork.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,40 +106,40 @@ $(document).ready(function(){initNavTree('d7/ddc/a04523.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#typedef-members">Typedefs</a>  </div>
-  <div class="headertitle"><div class="title">AsioHacksFwd.h File Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">IpNetwork.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">IpAddress.h</a>&quot;</code><br />
+<code>#include &lt;boost/asio/ip/network_v4.hpp&gt;</code><br />
+<code>#include &lt;boost/asio/ip/network_v6.hpp&gt;</code><br />
+</div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:d4/da9/a04736"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da9/a04736.html">boost</a></td></tr>
+<tr class="memitem:d1/d86/a04746"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d86/a04746.html">Acore</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d3/de8/a04737"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/de8/a04737.html">boost::posix_time</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:dc/ddd/a04738"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddd/a04738.html">boost::asio</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d5/d13/a04739"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html">boost::asio::ip</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d9/dda/a04740"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dda/a04740.html">Acore</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:de/d2c/a04741"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d2c/a04741.html">Acore::Asio</a></td></tr>
+<tr class="memitem:dc/d42/a04748"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d42/a04748.html">Acore::Net</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a27a44b709519f6caccf33bc420c4698b"><td class="memItemLeft" align="right" valign="top">typedef basic_endpoint&lt; tcp &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#a27a44b709519f6caccf33bc420c4698b">boost::asio::ip::tcp_endpoint</a></td></tr>
-<tr class="separator:a27a44b709519f6caccf33bc420c4698b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:af108d05a57113d16ab9c8f3b26870be2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d42/a04748.html#af108d05a57113d16ab9c8f3b26870be2">Acore::Net::IsInNetwork</a> (boost::asio::ip::address_v4 const &amp;networkAddress, boost::asio::ip::address_v4 const &amp;mask, boost::asio::ip::address_v4 const &amp;clientAddress)</td></tr>
+<tr class="separator:af108d05a57113d16ab9c8f3b26870be2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af75b2c10ca445dc89c53b7ed8d17eae0"><td class="memItemLeft" align="right" valign="top">boost::asio::ip::address_v4&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d42/a04748.html#af75b2c10ca445dc89c53b7ed8d17eae0">Acore::Net::GetDefaultNetmaskV4</a> (boost::asio::ip::address_v4 const &amp;networkAddress)</td></tr>
+<tr class="separator:af75b2c10ca445dc89c53b7ed8d17eae0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2617cb1c747a45e5af4e2c32cc29d5de"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d42/a04748.html#a2617cb1c747a45e5af4e2c32cc29d5de">Acore::Net::IsInNetwork</a> (boost::asio::ip::address_v6 const &amp;networkAddress, <a class="el" href="../../d1/dce/a04559.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> prefixLength, boost::asio::ip::address_v6 const &amp;clientAddress)</td></tr>
+<tr class="separator:a2617cb1c747a45e5af4e2c32cc29d5de"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_fc9741c162534defc29969ffbc5109e0.html">Asio</a></li><li class="navelem"><a class="el" href="../../d7/ddc/a04523.html">AsioHacksFwd.h</a></li>
-    <li class="footer">Generated on Mon Feb 17 2025 20:41:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_fc9741c162534defc29969ffbc5109e0.html">Asio</a></li><li class="navelem"><a class="el" href="../../d7/ddc/a04523.html">IpNetwork.h</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:42:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

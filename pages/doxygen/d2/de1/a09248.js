@@ -1,7 +1,10 @@
 var a09248 =
 [
-    [ "AddonHandler", "d2/de1/a09248.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
-    [ "~AddonHandler", "d2/de1/a09248.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
-    [ "BuildAddonPacket", "d2/de1/a09248.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
-    [ "instance", "d2/de1/a09248.html#a2925b829b803dd07e96685086357ef85", null ]
+    [ "AnyDeadUnitObjectInRangeCheck", "d2/de1/a09248.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
+    [ "operator()", "d2/de1/a09248.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
+    [ "operator()", "d2/de1/a09248.html#ae885f49537043421a92b44c201bec358", null ],
+    [ "operator()", "d2/de1/a09248.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
+    [ "operator()", "d2/de1/a09248.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
+    [ "i_range", "d2/de1/a09248.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
+    [ "i_searchObj", "d2/de1/a09248.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
 ];

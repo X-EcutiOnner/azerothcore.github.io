@@ -1,10 +1,9 @@
 var a10968 =
 [
-    [ "TargetHook", "d2/d49/a10968.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
-    [ "CheckEffect", "d2/d49/a10968.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
-    [ "GetTarget", "d2/d49/a10968.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
-    [ "ToString", "d2/d49/a10968.html#a424e03e457dc15a2689f344e614a882f", null ],
-    [ "area", "d2/d49/a10968.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
-    [ "dest", "d2/d49/a10968.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
-    [ "targetType", "d2/d49/a10968.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
+    [ "EncryptableAndCompressiblePacket", "d2/d49/a10968.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
+    [ "CompressIfNeeded", "d2/d49/a10968.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
+    [ "NeedsCompression", "d2/d49/a10968.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
+    [ "NeedsEncryption", "d2/d49/a10968.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
+    [ "_encrypt", "d2/d49/a10968.html#a37a68eddad23001a85a4a2f77e237810", null ],
+    [ "SocketQueueLink", "d2/d49/a10968.html#a88f11ce75f439fd290bdc09156d559c2", null ]
 ];

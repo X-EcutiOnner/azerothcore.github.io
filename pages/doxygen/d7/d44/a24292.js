@@ -1,18 +1,10 @@
 var a24292 =
 [
-    [ "npc_pet_dk_ebon_gargoyleAI", "d7/d44/a24292.html#a5181a22e0e3b242112095552b6a9a0ab", null ],
-    [ "AttackStart", "d7/d44/a24292.html#a46a5511e57af5f9e5128f922c691fc4f", null ],
-    [ "FlyAway", "d7/d44/a24292.html#a9af7240d389affb09dc8656417d902fa", null ],
-    [ "InitializeAI", "d7/d44/a24292.html#a63e7284a03c4ad3ba2242f5cc61ab33f", null ],
-    [ "MovementInform", "d7/d44/a24292.html#a82b40fd7eeccef8c52cf31dd8d20da9a", null ],
-    [ "MySelectNextTarget", "d7/d44/a24292.html#a67471ffe36c1535f1034a7037f9ae607", null ],
-    [ "RemoveTargetAura", "d7/d44/a24292.html#a2fb3b35fadc56c1bdab31b21785f9b75", null ],
-    [ "Reset", "d7/d44/a24292.html#a0a47ddb3568b8683a109489bdf5a018e", null ],
-    [ "UpdateAI", "d7/d44/a24292.html#ae37e2b9453449eb1e8c629af49b48e82", null ],
-    [ "_despawning", "d7/d44/a24292.html#afd200dfb3b8ceb05ff70c5413cd8a961", null ],
-    [ "_despawnTimer", "d7/d44/a24292.html#ab53127c5db2ccb85d260bdf29a6f714b", null ],
-    [ "_initialCastTimer", "d7/d44/a24292.html#a921dcc19257c708a2f84f515ae5df113", null ],
-    [ "_initialSelection", "d7/d44/a24292.html#aac259fa5c5ca81b8be77cd0c33f58e1f", null ],
-    [ "_selectionTimer", "d7/d44/a24292.html#a3fb591687748bacef72990ecac0ea246", null ],
-    [ "_targetGUID", "d7/d44/a24292.html#af1f5d442840812b4d73f9411226e6925", null ]
+    [ "npc_pet_hunter_snake_trap", "d7/d44/a24292.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "EnterEvadeMode", "d7/d44/a24292.html#a819add0c7b968063403d10275fdc289f", null ],
+    [ "MoveInLineOfSight", "d7/d44/a24292.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
+    [ "Reset", "d7/d44/a24292.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
+    [ "UpdateAI", "d7/d44/a24292.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_init", "d7/d44/a24292.html#a1b5c1301389749f82667c35f3daff847", null ],
+    [ "_spellTimer", "d7/d44/a24292.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

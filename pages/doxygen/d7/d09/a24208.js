@@ -1,6 +1,6 @@
 var a24208 =
 [
-    [ "npc_shattrathflaskvendors", "d7/d09/a24208.html#ab74b234406c2022bf519242a7842458a", null ],
-    [ "OnGossipHello", "d7/d09/a24208.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
-    [ "OnGossipSelect", "d7/d09/a24208.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
+    [ "npc_pet_dk_risen_allyAI", "d9/d18/a24212.html", "d9/d18/a24212" ],
+    [ "npc_pet_dk_risen_ally", "d7/d09/a24208.html#a2f568fd9062b2423edcf0ab4e749efc3", null ],
+    [ "GetAI", "d7/d09/a24208.html#a7aca5d410a1a28241943914a0d1c71df", null ]
 ];

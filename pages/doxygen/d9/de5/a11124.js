@@ -1,7 +1,15 @@
 var a11124 =
 [
-    [ "StringTransaction", "d9/de5/a11124.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
-    [ "Append", "d9/de5/a11124.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
-    [ "GetBuffer", "d9/de5/a11124.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
-    [ "_buf", "d9/de5/a11124.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
+    [ "AttributesMask", "d9/de5/a11124.html#a7cc9dfa91e034f5052ebd3bf8eaea42a", null ],
+    [ "Chance", "d9/de5/a11124.html#aea5ca609c75ea7b314aec8ae0246297e", null ],
+    [ "Charges", "d9/de5/a11124.html#a75f0484dad60eec59b399a188fd9908f", null ],
+    [ "Cooldown", "d9/de5/a11124.html#a4e6185aea35599a3efc2e806145cb1d2", null ],
+    [ "HitMask", "d9/de5/a11124.html#a8ac3331576b4eb761157fa3d0d622bea", null ],
+    [ "ProcFlags", "d9/de5/a11124.html#a9e5de790c4f61537397a1ce2bce8a9b0", null ],
+    [ "ProcsPerMinute", "d9/de5/a11124.html#a3815765c08f6b95cae6efb93fa98623b", null ],
+    [ "SchoolMask", "d9/de5/a11124.html#acf72c4a783235770bbff952bdc002324", null ],
+    [ "SpellFamilyMask", "d9/de5/a11124.html#a8688e9282cb78d4f24b310cc2521c22b", null ],
+    [ "SpellFamilyName", "d9/de5/a11124.html#a2cb738b0d4579503fcb9bca7988f7e36", null ],
+    [ "SpellPhaseMask", "d9/de5/a11124.html#ab4c4bfa1493a7a5924d3cd094127f973", null ],
+    [ "SpellTypeMask", "d9/de5/a11124.html#a99e20d3979a532e1ca90ee83edcff3eb", null ]
 ];

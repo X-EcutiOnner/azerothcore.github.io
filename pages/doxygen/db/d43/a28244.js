@@ -1,16 +1,8 @@
 var a28244 =
 [
-    [ "amount", "db/d43/a28244.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
-    [ "aura_id", "db/d43/a28244.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
-    [ "charges", "db/d43/a28244.html#ade74be0906ef080347ac81ed48379cd1", null ],
-    [ "description", "db/d43/a28244.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
-    [ "EnchantmentCondition", "db/d43/a28244.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
-    [ "GemID", "db/d43/a28244.html#a324fd42b7184f5c626c33323a4d72b07", null ],
-    [ "ID", "db/d43/a28244.html#af46fa8808024e75705b812b695bd1590", null ],
-    [ "requiredLevel", "db/d43/a28244.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
-    [ "requiredSkill", "db/d43/a28244.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
-    [ "requiredSkillValue", "db/d43/a28244.html#a7a57764dad60c9369826638c1355127e", null ],
-    [ "slot", "db/d43/a28244.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
-    [ "spellid", "db/d43/a28244.html#a694edc79cf8ba571338bff2a3aad512d", null ],
-    [ "type", "db/d43/a28244.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
+    [ "TimeSeg", "db/d43/a28244.html#ab94639ba8e26b215ebd31163967574d3", null ],
+    [ "TransportEntry", "db/d43/a28244.html#a859d25b3c11839ad7e37facd40dc79df", null ],
+    [ "X", "db/d43/a28244.html#a8fbd166503396e33a4ad77448bf307ea", null ],
+    [ "Y", "db/d43/a28244.html#a67c279b26cebd8e5c81c36576b145af6", null ],
+    [ "Z", "db/d43/a28244.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
 ];

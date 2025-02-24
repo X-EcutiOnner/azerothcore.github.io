@@ -1,7 +1,6 @@
 var a26788 =
 [
-    [ "HandleApply", "de/d84/a26788.html#a046abc4b8afd26d13bcb7140165aed80", null ],
-    [ "HandleRemove", "de/d84/a26788.html#ad35716d4210572057fe67d426849931a", null ],
-    [ "PrepareAuraScript", "de/d84/a26788.html#a9af96871b8b7ac19de01e316f4350ebf", null ],
-    [ "Register", "de/d84/a26788.html#a37c4c881c563882fb72693babe545fc4", null ]
+    [ "HandleHeal", "de/d84/a26788.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "de/d84/a26788.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "de/d84/a26788.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

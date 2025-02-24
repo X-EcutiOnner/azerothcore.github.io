@@ -1,5 +1,7 @@
 var a26904 =
 [
-    [ "achievement_bg_control_all_nodes", "d7/d05/a26904.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
-    [ "OnCheck", "d7/d05/a26904.html#a69609eb5488519fa5a1f43b13a80e280", null ]
+    [ "CharacterDeleteActionIpLogger", "d7/d05/a26904.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "d7/d05/a26904.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "d7/d05/a26904.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "d7/d05/a26904.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

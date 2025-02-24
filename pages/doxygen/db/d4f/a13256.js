@@ -1,9 +1,6 @@
 var a13256 =
 [
-    [ "npc_professor_phizzlethorpeAI", "db/d4f/a13256.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "db/d4f/a13256.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "db/d4f/a13256.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "db/d4f/a13256.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "db/d4f/a13256.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "db/d4f/a13256.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ]
+    [ "HandlePeriodic", "db/d4f/a13256.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
+    [ "PrepareAuraScript", "db/d4f/a13256.html#a7ac99d626990f068a00f403847bfa6bc", null ],
+    [ "Register", "db/d4f/a13256.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
 ];

@@ -1,10 +1,9 @@
 var a04433 =
 [
-    [ "Acore::has_type< T, std::tuple< Us... > >", "dc/df9/a05542.html", null ],
-    [ "Acore::is_tuple< typename >", "d1/d22/a05546.html", null ],
-    [ "Acore::is_tuple< std::tuple< Ts... > >", "da/d41/a05550.html", null ],
-    [ "new_from_tuple", "d3/d9a/a04433.html#aac12e702d41e9aa126f7d39f0f295252", null ],
-    [ "new_from_tuple", "d3/d9a/a04433.html#a028fc93107022ad23a763503c9b0bbdb", null ],
-    [ "has_type_v", "d3/d9a/a04433.html#aa4e7bc2a96e641dd1642a3c61cfc96b0", null ],
-    [ "is_tuple_v", "d3/d9a/a04433.html#a4104f84ad757b701a6ffbd51f5d10b9f", null ]
+    [ "Acore::Impl::StringConvertImpl::For< T, typename >", "de/d62/a05492.html", null ],
+    [ "Acore::Impl::StringConvertImpl::For< T, std::enable_if_t< std::is_integral_v< T > &&!std::is_same_v< T, bool > > >", "d2/d0e/a05496.html", "d2/d0e/a05496" ],
+    [ "Acore::Impl::StringConvertImpl::For< bool, void >", "da/de2/a05500.html", "da/de2/a05500" ],
+    [ "Acore::Impl::StringConvertImpl::For< T, std::enable_if_t< std::is_floating_point_v< T > > >", "d2/d81/a05504.html", "d2/d81/a05504" ],
+    [ "StringTo", "d3/d9a/a04433.html#a71739ada07c2f1b12bcd0aa811eea903", null ],
+    [ "ToString", "d3/d9a/a04433.html#ac2cb308fb001c35fbaa90489ea6cf478", null ]
 ];

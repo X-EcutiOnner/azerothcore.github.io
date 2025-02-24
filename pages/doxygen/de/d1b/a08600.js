@@ -1,13 +1,14 @@
 var a08600 =
 [
-    [ "WorldObjectWorker", "de/d1b/a08600.html#a15dd68579f1a92f015cfac8577db7422", null ],
-    [ "Visit", "de/d1b/a08600.html#ae264461e49602fd0b8a17e30ed554c64", null ],
-    [ "Visit", "de/d1b/a08600.html#a3021825347d132f1368a77d29a8318df", null ],
-    [ "Visit", "de/d1b/a08600.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
-    [ "Visit", "de/d1b/a08600.html#a7de6ea339a8113d242dd099ca4d36927", null ],
-    [ "Visit", "de/d1b/a08600.html#a29196fa36ce32a0cec68d0d67372a400", null ],
-    [ "Visit", "de/d1b/a08600.html#a17097541c49264c15ebfe474f54aeca2", null ],
-    [ "i_do", "de/d1b/a08600.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
-    [ "i_mapTypeMask", "de/d1b/a08600.html#a6f8e447b9693154f56ce010869acadb9", null ],
-    [ "i_phaseMask", "de/d1b/a08600.html#affa6245985c5d271900be12104ab6bb6", null ]
+    [ "SocialMap", "de/d1b/a08600.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
+    [ "SocialMgr", "de/d1b/a08600.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
+    [ "~SocialMgr", "de/d1b/a08600.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
+    [ "BroadcastToFriendListers", "de/d1b/a08600.html#a55b35ea17ebfea4ff31710186b87865f", null ],
+    [ "GetFriendInfo", "de/d1b/a08600.html#a24344515cc4e656b98afcf760181b070", null ],
+    [ "instance", "de/d1b/a08600.html#a223f3d7811d8c360da7f467b70af808f", null ],
+    [ "LoadFromDB", "de/d1b/a08600.html#a6f10d7d75b0ddc5c2ec5c0e978f0e7b9", null ],
+    [ "MakeFriendStatusPacket", "de/d1b/a08600.html#a9acd86505e66f2e6de9f8d30b36b94e6", null ],
+    [ "RemovePlayerSocial", "de/d1b/a08600.html#a6b4968dc0a09a48c2b58e40d47da665d", null ],
+    [ "SendFriendStatus", "de/d1b/a08600.html#a8824263f601c107ef84e487ca1b71bff", null ],
+    [ "m_socialMap", "de/d1b/a08600.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
 ];

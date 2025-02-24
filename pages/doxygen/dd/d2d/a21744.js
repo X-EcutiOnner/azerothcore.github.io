@@ -1,6 +1,9 @@
 var a21744 =
 [
-    [ "npc_q24545_lich_kingAI", "d0/d0b/a21748.html", "d0/d0b/a21748" ],
-    [ "npc_q24545_lich_king", "dd/d2d/a21744.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "dd/d2d/a21744.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "npc_mrfloppyAI", "dd/d2d/a21744.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
+    [ "EnterEvadeMode", "dd/d2d/a21744.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
+    [ "JustEngagedWith", "dd/d2d/a21744.html#a490bf07de00cc5c59b5f0024317d8125", null ],
+    [ "MoveInLineOfSight", "dd/d2d/a21744.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
+    [ "Reset", "dd/d2d/a21744.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
+    [ "UpdateAI", "dd/d2d/a21744.html#afad6db1ccd903fd18192f832a10a32f4", null ]
 ];

@@ -1,9 +1,12 @@
 var a11424 =
 [
-    [ "send_commandscript", "d6/dc7/a11424.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
-    [ "GetCommands", "d6/dc7/a11424.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
-    [ "HandleSendItemsCommand", "d6/dc7/a11424.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
-    [ "HandleSendMailCommand", "d6/dc7/a11424.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
-    [ "HandleSendMessageCommand", "d6/dc7/a11424.html#a91017e6171ac9e4dfff6c2036228de47", null ],
-    [ "HandleSendMoneyCommand", "d6/dc7/a11424.html#a26938bb54bb3cb678c49737a92cadb56", null ]
+    [ "Action", "d6/dc7/a11424.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
+    [ "Address", "d6/dc7/a11424.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
+    [ "CheckId", "d6/dc7/a11424.html#a51a0cea0381f2b64e9d240ac39591172", null ],
+    [ "Comment", "d6/dc7/a11424.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
+    [ "Data", "d6/dc7/a11424.html#a962795028d40645fe67e4290ea64b10b", null ],
+    [ "IdStr", "d6/dc7/a11424.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
+    [ "Length", "d6/dc7/a11424.html#abe0249d9550042e696eb74edf06aaec8", null ],
+    [ "Str", "d6/dc7/a11424.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
+    [ "Type", "d6/dc7/a11424.html#aca31cdb700dca4801dfa514812639c70", null ]
 ];

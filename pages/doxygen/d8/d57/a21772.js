@@ -1,6 +1,6 @@
 var a21772 =
 [
-    [ "GhoulTargetCheck", "d8/d57/a21772.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "d8/d57/a21772.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "d8/d57/a21772.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_amberpine_woodsmanAI", "d1/d0f/a21776.html", "d1/d0f/a21776" ],
+    [ "npc_amberpine_woodsman", "d8/d57/a21772.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
+    [ "GetAI", "d8/d57/a21772.html#a9c1df6c01c163ca68712d72b14c46139", null ]
 ];

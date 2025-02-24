@@ -1,6 +1,7 @@
 var a22652 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "df/d8e/a22656.html", "df/d8e/a22656" ],
-    [ "instance_shadow_labyrinth", "d9/d45/a22652.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "d9/d45/a22652.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "VerasEnvenom", "d9/d45/a22652.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d9/d45/a22652.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d9/d45/a22652.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d9/d45/a22652.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

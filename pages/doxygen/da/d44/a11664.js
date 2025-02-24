@@ -1,6 +1,6 @@
 var a11664 =
 [
-    [ "RestoreAttack", "da/d44/a11664.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
-    [ "Execute", "da/d44/a11664.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
-    [ "_boss", "da/d44/a11664.html#a493ef909da834b0befd90f57f54fb10c", null ]
+    [ "player_settings_commandscript", "da/d44/a11664.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "da/d44/a11664.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "da/d44/a11664.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

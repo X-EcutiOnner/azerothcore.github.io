@@ -1,7 +1,10 @@
 var a10184 =
 [
-    [ "LogoutResponse", "d9/da3/a10184.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
-    [ "Write", "d9/da3/a10184.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
-    [ "Instant", "d9/da3/a10184.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
-    [ "LogoutResult", "d9/da3/a10184.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
+    [ "ArenaScript", "d9/da3/a10184.html#acba88d9008e08873f3f20b92d69e8912", null ],
+    [ "CanAddMember", "d9/da3/a10184.html#aa85728dd471c2f4d58ed1794e741d060", null ],
+    [ "CanSaveToDB", "d9/da3/a10184.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
+    [ "IsDatabaseBound", "d9/da3/a10184.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
+    [ "OnArenaStart", "d9/da3/a10184.html#ae67b000b16f56309da56f672a9f2b423", null ],
+    [ "OnBeforeArenaCheckWinConditions", "d9/da3/a10184.html#a2b46190a3243f2306a74295975dca317", null ],
+    [ "OnGetPoints", "d9/da3/a10184.html#a13b22ad00d3742589532e6e522258834", null ]
 ];

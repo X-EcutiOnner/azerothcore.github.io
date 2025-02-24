@@ -1,7 +1,9 @@
 var a21860 =
 [
-    [ "HandleScriptEffect", "d2/d9d/a21860.html#a2d39a073c351860db735301b4cf9c79f", null ],
-    [ "PrepareSpellScript", "d2/d9d/a21860.html#a3674adaef23f1531af360a65c14efadd", null ],
-    [ "Register", "d2/d9d/a21860.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
-    [ "Validate", "d2/d9d/a21860.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
+    [ "npc_Apothecary_HanesAI", "d2/d9d/a21860.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "d2/d9d/a21860.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "d2/d9d/a21860.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "d2/d9d/a21860.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "d2/d9d/a21860.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "PotTimer", "d2/d9d/a21860.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

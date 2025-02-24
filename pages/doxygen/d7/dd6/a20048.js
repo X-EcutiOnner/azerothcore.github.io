@@ -1,5 +1,6 @@
 var a20048 =
 [
-    [ "achievement_smell_saronite", "d7/dd6/a20048.html#a42dce2aefa2561952dcf5289126035a8", null ],
-    [ "OnCheck", "d7/dd6/a20048.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
+    [ "npc_ulduar_toasty_fireAI", "d7/dd6/a20048.html#a145001c6f1c1d505f810ae545ec62c69", null ],
+    [ "DoAction", "d7/dd6/a20048.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
+    [ "SpellHit", "d7/dd6/a20048.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
 ];

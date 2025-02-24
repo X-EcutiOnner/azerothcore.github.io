@@ -1,7 +1,7 @@
 var a11404 =
 [
-    [ "player_commandscript", "de/d22/a11404.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
-    [ "GetCommands", "de/d22/a11404.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
-    [ "HandlePlayerLearnCommand", "de/d22/a11404.html#a6ca511bcecf73049665772cb80dbcf40", null ],
-    [ "HandlePlayerUnLearnCommand", "de/d22/a11404.html#a22fddb5da1278fe794a78a899c423bfd", null ]
+    [ "Command", "de/d22/a11404.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
+    [ "ModuleId", "de/d22/a11404.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
+    [ "ModuleKey", "de/d22/a11404.html#aba0f236c39186022816bd86f8e8e9093", null ],
+    [ "Size", "de/d22/a11404.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
 ];

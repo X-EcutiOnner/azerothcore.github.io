@@ -1,13 +1,16 @@
 var a21220 =
 [
-    [ "boss_toravonAI", "df/dab/a21220.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
-    [ "AttackStart", "df/dab/a21220.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
-    [ "JustDied", "df/dab/a21220.html#ad501bb34a0014be0abc965aae5383e21", null ],
-    [ "JustEngagedWith", "df/dab/a21220.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
-    [ "JustSummoned", "df/dab/a21220.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
-    [ "Reset", "df/dab/a21220.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
-    [ "UpdateAI", "df/dab/a21220.html#a97c16b1689cfdb7fa680381964cb272a", null ],
-    [ "events", "df/dab/a21220.html#ae2a3b691f1580275228204ea8ccaf846", null ],
-    [ "pInstance", "df/dab/a21220.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
-    [ "summons", "df/dab/a21220.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
+    [ "boss_zuramatAI", "df/dab/a21220.html#ab4c04fec01023295946d170a466d1c48", null ],
+    [ "EnterEvadeMode", "df/dab/a21220.html#a991437ea0d9fd1ce7807ef9937c4cb0a", null ],
+    [ "JustDied", "df/dab/a21220.html#a060df9b36f2f62f3fc7afb80386d51c5", null ],
+    [ "JustEngagedWith", "df/dab/a21220.html#a85cc0f20b51e84ff1c5c16a3b2b004b9", null ],
+    [ "JustSummoned", "df/dab/a21220.html#a6e925207ddc112f7dd7044c08023f90e", null ],
+    [ "KilledUnit", "df/dab/a21220.html#adb79f8c244f57b88848dd44b592faf41", null ],
+    [ "MoveInLineOfSight", "df/dab/a21220.html#aa3ef3256d203d264dee12eff4491a28c", null ],
+    [ "Reset", "df/dab/a21220.html#a18498e4bc4bfac33ff2c591f5bf28d7d", null ],
+    [ "SummonedCreatureDespawn", "df/dab/a21220.html#a242f814bfec2e937e1338097e78080e3", null ],
+    [ "UpdateAI", "df/dab/a21220.html#adb591699b7d8ece0b1775afd40a4181b", null ],
+    [ "events", "df/dab/a21220.html#a4406b42618f3e40fa90e0a34ec3ad09f", null ],
+    [ "pInstance", "df/dab/a21220.html#a8ebb5ca6f9f18b0205e8b6a54492c06a", null ],
+    [ "summons", "df/dab/a21220.html#a42cb09654095c8a157720f99e7957102", null ]
 ];

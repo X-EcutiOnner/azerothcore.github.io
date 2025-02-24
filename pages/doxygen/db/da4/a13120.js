@@ -1,8 +1,8 @@
 var a13120 =
 [
-    [ "FilterTargets", "db/da4/a13120.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
-    [ "HandleScriptEffect", "db/da4/a13120.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
-    [ "PrepareSpellScript", "db/da4/a13120.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
-    [ "Register", "db/da4/a13120.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
-    [ "Validate", "db/da4/a13120.html#a5493864b068de82015bc157f3d0899b3", null ]
+    [ "npc_madrigosa", "db/da4/a13120.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
+    [ "DoAction", "db/da4/a13120.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
+    [ "UpdateAI", "db/da4/a13120.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
+    [ "events", "db/da4/a13120.html#a5859e4c8454371eb71740616d4763c0e", null ],
+    [ "instance", "db/da4/a13120.html#a09525d3bb35d1da4246bd84bbadea304", null ]
 ];

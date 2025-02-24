@@ -1,6 +1,6 @@
 var a14620 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "d9/d22/a14624.html", "d9/d22/a14624" ],
-    [ "instance_old_hillsbrad", "db/d22/a14620.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
-    [ "GetInstanceScript", "db/d22/a14620.html#a1929c38b1c745b2df1ccaf462113e220", null ]
+    [ "npc_cos_stratholme_citizienAI", "d9/d22/a14624.html", "d9/d22/a14624" ],
+    [ "npc_cos_stratholme_citizien", "db/d22/a14620.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
+    [ "GetAI", "db/d22/a14620.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
 ];

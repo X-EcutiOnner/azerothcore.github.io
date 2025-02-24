@@ -1,7 +1,6 @@
 var a11600 =
 [
-    [ "boss_grizzleAI", "d8/d0a/a11600.html#a3310892cafc2a8e022105f77258b25af", null ],
-    [ "JustEngagedWith", "d8/d0a/a11600.html#a598e7e7d6bdd847bf01968116988a935", null ],
-    [ "UpdateAI", "d8/d0a/a11600.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
-    [ "nextTremorTime", "d8/d0a/a11600.html#aa392b5a5db08d8676614923ae4838d05", null ]
+    [ "inventory_commandscript", "d8/d0a/a11600.html#a765d3606093dd3e15bb59c058333dca7", null ],
+    [ "GetCommands", "d8/d0a/a11600.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
+    [ "HandleInventoryCountCommand", "d8/d0a/a11600.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
 ];

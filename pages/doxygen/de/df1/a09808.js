@@ -1,10 +1,12 @@
 var a09808 =
 [
-    [ "WaypointMgr", "de/df1/a09808.html#a2f038884959f10348bd5b7af3abee7db", null ],
-    [ "~WaypointMgr", "de/df1/a09808.html#a7b0fed55791df7ab040a46984700d18e", null ],
-    [ "GetPath", "de/df1/a09808.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
-    [ "instance", "de/df1/a09808.html#aacd2ed943503288057b3fb9a935a56e9", null ],
-    [ "Load", "de/df1/a09808.html#a69ae451ce07f2e68be81b1a86649115d", null ],
-    [ "ReloadPath", "de/df1/a09808.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
-    [ "_waypointStore", "de/df1/a09808.html#af70ce7663d7f132339ea8d163311c248", null ]
+    [ "TransportTemplate", "de/df1/a09808.html#aef4781a37808827e3ceaffc782c3af1e", null ],
+    [ "~TransportTemplate", "de/df1/a09808.html#afc385d824c171d13a184bc0a16121110", null ],
+    [ "accelDist", "de/df1/a09808.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
+    [ "accelTime", "de/df1/a09808.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
+    [ "entry", "de/df1/a09808.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
+    [ "inInstance", "de/df1/a09808.html#a971c84762c229b01cab656945f0c16de", null ],
+    [ "keyFrames", "de/df1/a09808.html#ac714531f226ca06c3586cf3f6cc06808", null ],
+    [ "mapsUsed", "de/df1/a09808.html#a93899b0648871ed8ca32dfe8394347c1", null ],
+    [ "pathTime", "de/df1/a09808.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
 ];

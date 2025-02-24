@@ -1,6 +1,6 @@
 var a14048 =
 [
-    [ "CheckItem", "d9/dc8/a14048.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
-    [ "PrepareSpellScript", "d9/dc8/a14048.html#a0fa160f1218cf838444f894716cb8aed", null ],
-    [ "Register", "d9/dc8/a14048.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
+    [ "HandleEffectApply", "d9/dc8/a14048.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
+    [ "PrepareAuraScript", "d9/dc8/a14048.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
+    [ "Register", "d9/dc8/a14048.html#a2b39daf6fe325cfa909b964da62c2571", null ]
 ];

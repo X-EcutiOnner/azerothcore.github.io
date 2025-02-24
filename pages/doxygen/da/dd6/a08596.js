@@ -1,13 +1,18 @@
 var a08596 =
 [
-    [ "WorldObjectListSearcher", "da/dd6/a08596.html#aad6ee62da3f21c7838767dd3af871ad7", null ],
-    [ "Visit", "da/dd6/a08596.html#a154998e616ba17d66cf4899debc92ca1", null ],
-    [ "Visit", "da/dd6/a08596.html#a64e8d7854baa93e4390703fe986f6777", null ],
-    [ "Visit", "da/dd6/a08596.html#a28ded6ec2d69f1a1bd298a9aa11206e1", null ],
-    [ "Visit", "da/dd6/a08596.html#a18572bc1f4cfde19476ac9df393296b2", null ],
-    [ "Visit", "da/dd6/a08596.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7", null ],
-    [ "Visit", "da/dd6/a08596.html#a8cebd0149bfccc4fdeb30dda9505f0c0", null ],
-    [ "i_check", "da/dd6/a08596.html#a6ae05d2ed15201356600cda7d0d5a6c3", null ],
-    [ "i_mapTypeMask", "da/dd6/a08596.html#a1d6dc64937ae790d7414456e4644c13b", null ],
-    [ "i_phaseMask", "da/dd6/a08596.html#a6b29bb94ed2ec6f508b25d45c11f72fd", null ]
+    [ "PlayerSocialMap", "da/dd6/a08596.html#abfb2167fc86ea41b8cf66eebdaa95ceb", null ],
+    [ "PlayerSocial", "da/dd6/a08596.html#ad505f01fad548b70cf070a86dce40278", null ],
+    [ "_checkContact", "da/dd6/a08596.html#a56e7be93e0ed5e55e21c2b827e73f16b", null ],
+    [ "AddToSocialList", "da/dd6/a08596.html#ae21a947058622c611f8ffc1430f7f3c3", null ],
+    [ "GetNumberOfSocialsWithFlag", "da/dd6/a08596.html#ad4b6d7563aa448307c71fd01d0b748c3", null ],
+    [ "GetPlayerGUID", "da/dd6/a08596.html#aa14bba47d54e94391d494a6752d45949", null ],
+    [ "HasFriend", "da/dd6/a08596.html#a85c9c9320e8fa0c673e75d11d7e7b91c", null ],
+    [ "HasIgnore", "da/dd6/a08596.html#ab4a6c0eab682fbdfa98a0a71fa6aced8", null ],
+    [ "RemoveFromSocialList", "da/dd6/a08596.html#a8fb0fc85204ea32cc000a2d711f1245b", null ],
+    [ "SendSocialList", "da/dd6/a08596.html#aa31ca078f363c5d5f6cfabcc4126fa9b", null ],
+    [ "SetFriendNote", "da/dd6/a08596.html#a0ee1c5bebc234010f60f79618b541613", null ],
+    [ "SetPlayerGUID", "da/dd6/a08596.html#af913d007399dede4ddf59c2811fc3b8a", null ],
+    [ "SocialMgr", "da/dd6/a08596.html#ac90a13e772eca1f96d98f76cfc8bf396", null ],
+    [ "m_playerGUID", "da/dd6/a08596.html#accf6a40286cca75dd9d5eed8cc3c6790", null ],
+    [ "m_playerSocialMap", "da/dd6/a08596.html#a608444605a276e67a868b7ceac94a954", null ]
 ];

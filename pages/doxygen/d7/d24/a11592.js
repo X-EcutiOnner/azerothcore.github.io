@@ -1,7 +1,8 @@
 var a11592 =
 [
-    [ "boss_gorosh_the_dervishAI", "d7/d24/a11592.html#adac003c51a2d1d0a8daa6ba552114c25", null ],
-    [ "JustEngagedWith", "d7/d24/a11592.html#a52bc5f76baff626b8834aa604fdd8e6a", null ],
-    [ "UpdateAI", "d7/d24/a11592.html#aa17e26419a8e3f7cd99c5e9b44be8ed8", null ],
-    [ "nextWhirlwindTime", "d7/d24/a11592.html#a07f1af63bc54d1b4c8d8e1cd87a787a1", null ]
+    [ "honor_commandscript", "d7/d24/a11592.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
+    [ "GetCommands", "d7/d24/a11592.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
+    [ "HandleHonorAddCommand", "d7/d24/a11592.html#a03caa77b436e3d513e1325badf05df33", null ],
+    [ "HandleHonorAddKillCommand", "d7/d24/a11592.html#aec79f459796d821a032477827e16308a", null ],
+    [ "HandleHonorUpdateCommand", "d7/d24/a11592.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
 ];

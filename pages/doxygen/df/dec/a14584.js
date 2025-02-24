@@ -1,6 +1,6 @@
 var a14584 =
 [
-    [ "npc_cos_chromie_start", "df/dec/a14584.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "df/dec/a14584.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
-    [ "OnQuestAccept", "df/dec/a14584.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
+    [ "boss_salrammAI", "d9/d64/a14588.html", "d9/d64/a14588" ],
+    [ "boss_salramm", "df/dec/a14584.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
+    [ "GetAI", "df/dec/a14584.html#ab6b400f0d329d4def074d012de47f53d", null ]
 ];

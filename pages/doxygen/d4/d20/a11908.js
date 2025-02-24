@@ -1,6 +1,7 @@
 var a11908 =
 [
-    [ "boss_firemawAI", "dc/dce/a11912.html", "dc/dce/a11912" ],
-    [ "boss_firemaw", "d4/d20/a11908.html#a71174eb128356802be0029fd9e24fe1f", null ],
-    [ "GetAI", "d4/d20/a11908.html#a3a20bcefa86a21daaecaef14396dadc4", null ]
+    [ "boss_okthorAI", "d4/d20/a11908.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
+    [ "JustEngagedWith", "d4/d20/a11908.html#a466a618e52f40e04e873dd50f3728755", null ],
+    [ "UpdateAI", "d4/d20/a11908.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
+    [ "nextArcaneExplosionTime", "d4/d20/a11908.html#a89d8cdd528775ee77caeac1d0465d4f2", null ]
 ];

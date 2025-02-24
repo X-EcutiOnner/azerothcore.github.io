@@ -1,8 +1,8 @@
 var a26768 =
 [
-    [ "ApplyEffect", "d1/d5c/a26768.html#a0c303c58064236969e17d1f2df3e0556", null ],
-    [ "PrepareAuraScript", "d1/d5c/a26768.html#a716a483282946f840ac15d73c6e21a94", null ],
-    [ "Register", "d1/d5c/a26768.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
-    [ "RemoveEffect", "d1/d5c/a26768.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
-    [ "Validate", "d1/d5c/a26768.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
+    [ "HandleDummy", "d1/d5c/a26768.html#ad2eec86cff225cc0bd806e31596fb127", null ],
+    [ "PrepareSpellScript", "d1/d5c/a26768.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
+    [ "Register", "d1/d5c/a26768.html#a6c72b4c813368774283ae94036a43ee2", null ],
+    [ "SendMiss", "d1/d5c/a26768.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
+    [ "Validate", "d1/d5c/a26768.html#a9a5014de08f73ad5dad29354812030ac", null ]
 ];

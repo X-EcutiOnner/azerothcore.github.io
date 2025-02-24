@@ -1,10 +1,10 @@
 var a08576 =
 [
-    [ "MapType", "dd/d28/a08576.html#a8fa5f0aca9316901f42b2df8251c5a5d", null ],
-    [ "HashMapHolder", "dd/d28/a08576.html#ad10240097462af2a8a76c9429bd7cbca", null ],
-    [ "Find", "dd/d28/a08576.html#a314b4ce3265136fe326b909fe6ef6716", null ],
-    [ "GetContainer", "dd/d28/a08576.html#ad9dfe5d223496a379a4aec0fc12c42d9", null ],
-    [ "GetLock", "dd/d28/a08576.html#a52cc052c8d73d5b700c7f9253138942f", null ],
-    [ "Insert", "dd/d28/a08576.html#af5c618228c141e28ffa11468cfffb21a", null ],
-    [ "Remove", "dd/d28/a08576.html#a7b9c3761746641133d4a9837559c0bb0", null ]
+    [ "Index", "dd/d28/a08576.html#a28b25d822326a1b7d5ec7f95ce084bac", [
+      [ "REGULAR", "dd/d28/a08576.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
+      [ "ADDON", "dd/d28/a08576.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
+      [ "MAX", "dd/d28/a08576.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
+    ] ],
+    [ "Count", "dd/d28/a08576.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
+    [ "Time", "dd/d28/a08576.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
 ];

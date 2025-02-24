@@ -1,6 +1,6 @@
 var a23732 =
 [
-    [ "HandlePeriodic", "dc/da3/a23732.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "dc/da3/a23732.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "dc/da3/a23732.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "instance_the_eye_InstanceMapScript", "dc/da1/a23736.html", "dc/da1/a23736" ],
+    [ "instance_the_eye", "dc/da3/a23732.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "dc/da3/a23732.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

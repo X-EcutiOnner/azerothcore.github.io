@@ -1,6 +1,6 @@
 var a12236 =
 [
-    [ "HandleTriggerSpell", "d8/d99/a12236.html#a361d179f81eb2565e133f674a127af90", null ],
-    [ "PrepareSpellScript", "d8/d99/a12236.html#a47afe11577bb488509d0cfabf63d16ba", null ],
-    [ "Register", "d8/d99/a12236.html#a0f17ba7bef0e9a59872297ef151a22fb", null ]
+    [ "boss_razorgoreAI", "d6/d91/a12240.html", "d6/d91/a12240" ],
+    [ "boss_razorgore", "d8/d99/a12236.html#aee534a04797c5938e6da00f2ab119943", null ],
+    [ "GetAI", "d8/d99/a12236.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
 ];

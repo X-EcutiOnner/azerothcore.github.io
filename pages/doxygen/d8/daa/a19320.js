@@ -1,7 +1,8 @@
 var a19320 =
 [
-    [ "HandleProc", "d8/daa/a19320.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "d8/daa/a19320.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "d8/daa/a19320.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "d8/daa/a19320.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "HandleEffectPeriodic", "d8/daa/a19320.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "d8/daa/a19320.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "d8/daa/a19320.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "d8/daa/a19320.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "d8/daa/a19320.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

@@ -1,17 +1,14 @@
 var a15640 =
 [
-    [ "boss_volazj", "d4/d9b/a15640.html#ac1f0bc7b55a554d29e55a376680bf747", null ],
-    [ "CheckPhaseMinions", "d4/d9b/a15640.html#aa79bf97b6772956795bd2f16b85e061f", null ],
-    [ "DamageTaken", "d4/d9b/a15640.html#a494d78875526d878421b995145b74a12", null ],
-    [ "GetPlrInsanityAuraId", "d4/d9b/a15640.html#a5b6936cedb3fc411ae58f3dc3f6b689a", null ],
-    [ "InitializeAI", "d4/d9b/a15640.html#a9480c4294b18c5417895e5070be9a455", null ],
-    [ "JustDied", "d4/d9b/a15640.html#a6c85c56c2483c3e8b4de67b94a45e0a6", null ],
-    [ "JustEngagedWith", "d4/d9b/a15640.html#a135c5606742474e77ffd0ee0a3c3ee69", null ],
-    [ "KilledUnit", "d4/d9b/a15640.html#abdf2cb95f0d3d7756584c338f2e2db25", null ],
-    [ "Reset", "d4/d9b/a15640.html#a0377375b89b02db3cae01390fdd13ee2", null ],
-    [ "ResetPlayersPhaseMask", "d4/d9b/a15640.html#afbfa62f2b72a95434348f74fdda46da6", null ],
-    [ "SetData", "d4/d9b/a15640.html#aa8b5ae6214f0c764f15b096876d614d7", null ],
-    [ "UpdateAI", "d4/d9b/a15640.html#aceac85fb06c81ccd171b024ad0d57ffe", null ],
-    [ "insanityPhase", "d4/d9b/a15640.html#ae90de1e956eb3653c8c2f0c04d89585b", null ],
-    [ "insanityTimes", "d4/d9b/a15640.html#a7d2693147f9cb20a45ff2e5b6a2ca209", null ]
+    [ "boss_amanitar", "d4/d9b/a15640.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
+    [ "EnterEvadeMode", "d4/d9b/a15640.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
+    [ "ExecuteEvent", "d4/d9b/a15640.html#a540fb447d261ccfcc77ac15888e8bb50", null ],
+    [ "JustDied", "d4/d9b/a15640.html#a138049712649ff414950d9d0ca05d712", null ],
+    [ "JustEngagedWith", "d4/d9b/a15640.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
+    [ "JustSummoned", "d4/d9b/a15640.html#a1199430b8ec2a27b136838c112a63c07", null ],
+    [ "Reset", "d4/d9b/a15640.html#aab3faca4526947a72d8ca049a605f5be", null ],
+    [ "SummonedCreatureDies", "d4/d9b/a15640.html#a2f897b4d32b8c67ff644675f08ac6353", null ],
+    [ "SummonMushroom", "d4/d9b/a15640.html#afc5b4942931f6020b2894b901650fc35", null ],
+    [ "_mushroomsDeque", "d4/d9b/a15640.html#a4ba2415d6134cdc435114cd3af235b6d", null ],
+    [ "mushroomsSummoned", "d4/d9b/a15640.html#a57b207eaa8a4347bfb5cb51d46eead27", null ]
 ];

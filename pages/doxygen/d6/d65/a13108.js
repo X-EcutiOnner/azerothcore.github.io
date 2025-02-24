@@ -1,6 +1,7 @@
 var a13108 =
 [
-    [ "npc_kalecgos_kjAI", "da/d52/a13112.html", "da/d52/a13112" ],
-    [ "npc_kalecgos_kj", "d6/d65/a13108.html#aa8c9e532e3980f94d316b60454799c63", null ],
-    [ "GetAI", "d6/d65/a13108.html#af63f0d90581189f4850414ffdddd1ba4", null ]
+    [ "OnRemove", "d6/d65/a13108.html#a55460c6393c165e3096c967c81136032", null ],
+    [ "PrepareAuraScript", "d6/d65/a13108.html#afd4e4483f704169e6d213ced134d4c62", null ],
+    [ "Register", "d6/d65/a13108.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
+    [ "Validate", "d6/d65/a13108.html#af580258d287f5db6103b89d3085669bc", null ]
 ];

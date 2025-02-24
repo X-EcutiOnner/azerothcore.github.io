@@ -1,10 +1,6 @@
 var a27056 =
 [
-    [ "boss_emerissAI", "d2/dd6/a27056.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "d2/dd6/a27056.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "d2/dd6/a27056.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "d2/dd6/a27056.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "d2/dd6/a27056.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "d2/dd6/a27056.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "d2/dd6/a27056.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "go_tadpole_cageAI", "d4/dd5/a27060.html", "d4/dd5/a27060" ],
+    [ "go_tadpole_cage", "d2/dd6/a27056.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "d2/dd6/a27056.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

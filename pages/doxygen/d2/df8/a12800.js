@@ -1,11 +1,11 @@
 var a12800 =
 [
-    [ "npc_scholomance_occultistAI", "d2/df8/a12800.html#af78103d07aef427130d26b4aed5e5ae3", null ],
-    [ "JustEngagedWith", "d2/df8/a12800.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
-    [ "JustReachedHome", "d2/df8/a12800.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
-    [ "SelectUnitCasting", "d2/df8/a12800.html#adde187b89a74a57aac823e4eb19bfeed", null ],
-    [ "UpdateAI", "d2/df8/a12800.html#ab02edf780adb553b2314045d8effa277", null ],
-    [ "events", "d2/df8/a12800.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
-    [ "instance", "d2/df8/a12800.html#a195fe4d681580c17086a5390fd4f82ba", null ],
-    [ "originalDisplayId", "d2/df8/a12800.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
+    [ "npc_scarlet_ghoulAI", "d2/df8/a12800.html#a194795143717de5aa8f0ca4c4e516136", null ],
+    [ "InitializeAI", "d2/df8/a12800.html#ad0fd204d15350332508b0c9d9decefb1", null ],
+    [ "MovementInform", "d2/df8/a12800.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
+    [ "OwnerAttackedBy", "d2/df8/a12800.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
+    [ "SetGUID", "d2/df8/a12800.html#a832602498643a03087efbc0a5a2f81c3", null ],
+    [ "UpdateAI", "d2/df8/a12800.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
+    [ "events", "d2/df8/a12800.html#a105ac0982d28be590d514d2e452109c0", null ],
+    [ "gothikGUID", "d2/df8/a12800.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
 ];

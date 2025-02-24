@@ -1,6 +1,6 @@
 var a16036 =
 [
-    [ "boss_eadricAI", "d8/dec/a16040.html", "d8/dec/a16040" ],
-    [ "boss_eadric", "d1/dc4/a16036.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
-    [ "GetAI", "d1/dc4/a16036.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
+    [ "boss_saviana_ragefireAI", "d8/dec/a16040.html", "d8/dec/a16040" ],
+    [ "boss_saviana_ragefire", "d1/dc4/a16036.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "d1/dc4/a16036.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

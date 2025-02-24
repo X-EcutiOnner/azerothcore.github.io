@@ -1,6 +1,5 @@
 var a27172 =
 [
-    [ "go_pirate_day_musicAI", "da/de1/a27176.html", "da/de1/a27176" ],
-    [ "go_pirate_day_music", "d9/dfc/a27172.html#aa8d19102357639bd160eae9e90a87505", null ],
-    [ "GetAI", "d9/dfc/a27172.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
+    [ "go_arcane_prison", "d9/dfc/a27172.html#ad73ac33d843027de0e516de8f90c45a0", null ],
+    [ "OnGossipHello", "d9/dfc/a27172.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
 ];

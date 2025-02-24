@@ -1,7 +1,7 @@
 var a10724 =
 [
-    [ "IsValidOpcode", "d5/d35/a10724.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "d5/d35/a10724.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "d5/d35/a10724.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "d5/d35/a10724.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "RandomRollClient", "d5/d35/a10724.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
+    [ "Read", "d5/d35/a10724.html#ab682763f35a40f776b1742927df0a336", null ],
+    [ "Max", "d5/d35/a10724.html#a45a1e140ed402f54deb4c0798360a43a", null ],
+    [ "Min", "d5/d35/a10724.html#a3cd07e7891b43b453b56013d76f51f71", null ]
 ];

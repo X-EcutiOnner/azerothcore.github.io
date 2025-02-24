@@ -1,6 +1,7 @@
 var a14044 =
 [
-    [ "OnApply", "d9/d96/a14044.html#a4a276b00d4912c210598057620368934", null ],
-    [ "PrepareAuraScript", "d9/d96/a14044.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
-    [ "Register", "d9/d96/a14044.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
+    [ "FilterTargets", "d9/d96/a14044.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "d9/d96/a14044.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "d9/d96/a14044.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "d9/d96/a14044.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

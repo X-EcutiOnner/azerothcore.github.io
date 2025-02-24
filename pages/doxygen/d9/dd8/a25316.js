@@ -1,10 +1,6 @@
 var a25316 =
 [
-    [ "Load", "d9/dd8/a25316.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "d9/dd8/a25316.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "d9/dd8/a25316.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "d9/dd8/a25316.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "d9/dd8/a25316.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "d9/dd8/a25316.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "d9/dd8/a25316.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "CheckCast", "d9/dd8/a25316.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
+    [ "PrepareSpellScript", "d9/dd8/a25316.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
+    [ "Register", "d9/dd8/a25316.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
 ];

@@ -1,5 +1,7 @@
 var a27108 =
 [
-    [ "go_arena_ready_marker", "d0/d32/a27108.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
-    [ "OnGossipHello", "d0/d32/a27108.html#a9f51ead2b56d51427ff23be9688388d8", null ]
+    [ "go_pirate_day_musicAI", "d0/d32/a27108.html#a1abe263949b7a07e5143779efcddc7eb", null ],
+    [ "UpdateAI", "d0/d32/a27108.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
+    [ "_events", "d0/d32/a27108.html#a233ae55a05876c665455b106ef50d57e", null ],
+    [ "rnd", "d0/d32/a27108.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
 ];

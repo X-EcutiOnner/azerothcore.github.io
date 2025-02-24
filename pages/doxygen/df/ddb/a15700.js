@@ -1,14 +1,19 @@
 var a15700 =
 [
-    [ "boss_anub_arakAI", "df/ddb/a15700.html#a9b9dc11d78456efd9c6ad69e0c12e022", null ],
-    [ "EnterEvadeMode", "df/ddb/a15700.html#a016f17a11be149cbb6cc1343f2916a4f", null ],
-    [ "JustDied", "df/ddb/a15700.html#abc93931e7698ffd717199a598e16c917", null ],
-    [ "JustEngagedWith", "df/ddb/a15700.html#a589c252516b738a8f38f9d89da11912c", null ],
-    [ "JustSummoned", "df/ddb/a15700.html#a8624e9dc8af370579bd7ef72063acbf8", null ],
-    [ "KilledUnit", "df/ddb/a15700.html#a33e26ae3907e84ecc02514e4133e3002", null ],
-    [ "MoveInLineOfSight", "df/ddb/a15700.html#ab89570d2d0ddb494fa20f24d95cac41b", null ],
-    [ "Reset", "df/ddb/a15700.html#a254a51a901c0e82da6cb87ade5eba6fa", null ],
-    [ "SummonHelpers", "df/ddb/a15700.html#a709ef4602ace41c9b9ccebe8795badec", null ],
-    [ "UpdateAI", "df/ddb/a15700.html#acf3ddec273ded62c768631be2b3299fa", null ],
-    [ "intro", "df/ddb/a15700.html#a4916d6a1ed06330e94698a13c404ee52", null ]
+    [ "boss_taldaram", "df/ddb/a15700.html#a6438d3534aca5e4a92afb3e6c6e24f73", null ],
+    [ "DamageTaken", "df/ddb/a15700.html#a44d94f39e23720810acb40550f1c178a", null ],
+    [ "DoAction", "df/ddb/a15700.html#aee1cf0553e8c7ebebea4a83f2d7e6d5d", null ],
+    [ "InitializeAI", "df/ddb/a15700.html#a3d5b4628d6fb2db91ed073b042eefdc4", null ],
+    [ "JustDied", "df/ddb/a15700.html#a4b6c0f51fd3a2a8c00ef095eeeea785d", null ],
+    [ "JustEngagedWith", "df/ddb/a15700.html#a07e1cb5b53906f92a1f485340aa004e5", null ],
+    [ "JustSummoned", "df/ddb/a15700.html#a5ae9201a71fa665908f924647b262825", null ],
+    [ "KilledUnit", "df/ddb/a15700.html#a8fe516a08547ec03e8114b07e9c87d1f", null ],
+    [ "MovementInform", "df/ddb/a15700.html#a17ca98f742a06b1496b2216e984811d8", null ],
+    [ "Reset", "df/ddb/a15700.html#ae26fec572206d2f1f9acc229ee797496", null ],
+    [ "ScheduleCombatEvents", "df/ddb/a15700.html#a247e5357fcdf8da8e00bef09f3568ca3", null ],
+    [ "SpellHitTarget", "df/ddb/a15700.html#a0f228ea10a538a9ecf70b9f54d399150", null ],
+    [ "UpdateAI", "df/ddb/a15700.html#a8ae18c5fd1c5df67edaf1921b5504ce1", null ],
+    [ "vanishDamage", "df/ddb/a15700.html#a85d8c95320e6f1f486a39043218f0350", null ],
+    [ "vanishTarget_GUID", "df/ddb/a15700.html#a211707b3e9476a22be011567882f018a", null ],
+    [ "victimSperePos", "df/ddb/a15700.html#a06efb376b0d08207a0efce74770f21dc", null ]
 ];

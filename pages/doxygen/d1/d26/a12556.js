@@ -1,6 +1,5 @@
 var a12556 =
 [
-    [ "npc_scarlet_ghoulAI", "dc/d9d/a12560.html", "dc/d9d/a12560" ],
-    [ "npc_scarlet_ghoul", "d1/d26/a12556.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "d1/d26/a12556.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "go_blackened_urn", "d1/d26/a12556.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
+    [ "OnGossipHello", "d1/d26/a12556.html#ab091bd54734acc65532303a391441ee2", null ]
 ];

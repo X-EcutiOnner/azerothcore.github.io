@@ -1,6 +1,6 @@
 var a16760 =
 [
-    [ "boss_frostsworn_generalAI", "db/d4f/a16764.html", "db/d4f/a16764" ],
-    [ "boss_frostsworn_general", "d9/dc4/a16760.html#a33023712cf056eedfed1cb38e18af5dd", null ],
-    [ "GetAI", "d9/dc4/a16760.html#a8e958e13999f23a81a7230fa9ece276b", null ]
+    [ "npc_hor_spiritual_reflectionAI", "db/d4f/a16764.html", "db/d4f/a16764" ],
+    [ "npc_hor_spiritual_reflection", "d9/dc4/a16760.html#a5f43c7b336335698468092f72c804fea", null ],
+    [ "GetAI", "d9/dc4/a16760.html#ab6aafc6db10943662fb66b0f77fc34ec", null ]
 ];

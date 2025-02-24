@@ -1,4 +1,4 @@
 var a04373 =
 [
-    [ "Acore::Crypto::TOTP", "dd/d48/a05150.html", "dd/d48/a05150" ]
+    [ "SessionKeyGenerator< Hash >", "d5/d9c/a05152.html", "d5/d9c/a05152" ]
 ];

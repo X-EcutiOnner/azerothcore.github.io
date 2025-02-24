@@ -1,7 +1,6 @@
 var a12136 =
 [
-    [ "HandleScript", "d5/d98/a12136.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "d5/d98/a12136.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "d5/d98/a12136.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "d5/d98/a12136.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "boss_chromaggusAI", "db/daf/a12140.html", "db/daf/a12140" ],
+    [ "boss_chromaggus", "d5/d98/a12136.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
+    [ "GetAI", "d5/d98/a12136.html#ace78172cafb122ce5961ed837201c32b", null ]
 ];

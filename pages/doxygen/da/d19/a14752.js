@@ -1,5 +1,6 @@
 var a14752 =
 [
-    [ "npc_idol_room_spawnerAI", "da/d19/a14752.html#a77c4aa88d213271166158c8e75d41a69", null ],
-    [ "SetData", "da/d19/a14752.html#aa0626c837086b4a275f4d51d1659a242", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "d3/d27/a14756.html", "d3/d27/a14756" ],
+    [ "instance_ragefire_chasm", "da/d19/a14752.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
+    [ "GetInstanceScript", "da/d19/a14752.html#a0568996a61ef91688b9f223cb3782e5a", null ]
 ];

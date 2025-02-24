@@ -1,5 +1,4 @@
 var a04809 =
 [
-    [ "InitWorldStates", "d3/dcf/a10834.html", "d3/dcf/a10834" ],
-    [ "UpdateWorldState", "da/dce/a10842.html", "da/dce/a10842" ]
+    [ "SetSheathed", "d4/d25/a10472.html", "d4/d25/a10472" ]
 ];

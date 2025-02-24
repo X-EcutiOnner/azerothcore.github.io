@@ -1,6 +1,10 @@
 var a13144 =
 [
-    [ "HandlePeriodic", "dc/d4a/a13144.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
-    [ "PrepareAuraScript", "dc/d4a/a13144.html#a2722b97e12e9371745d7f38504d9efdf", null ],
-    [ "Register", "dc/d4a/a13144.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
+    [ "boss_alythess", "dc/d4a/a13144.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "DoAction", "dc/d4a/a13144.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
+    [ "JustDied", "dc/d4a/a13144.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
+    [ "JustEngagedWith", "dc/d4a/a13144.html#ac5047ee0124864304284c1142e885158", null ],
+    [ "KilledUnit", "dc/d4a/a13144.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
+    [ "Reset", "dc/d4a/a13144.html#ab5f990d305f42a2d00e182f617175672", null ],
+    [ "_isSisterDead", "dc/d4a/a13144.html#a9f9fa0823685066b4990a17880782b9a", null ]
 ];

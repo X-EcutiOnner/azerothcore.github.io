@@ -1,11 +1,16 @@
 var a11432 =
 [
-    [ "spectator_commandscript", "dd/d08/a11432.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
-    [ "GetCommands", "dd/d08/a11432.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
-    [ "HandleSpectatorCommand", "dd/d08/a11432.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
-    [ "HandleSpectatorLeaveCommand", "dd/d08/a11432.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
-    [ "HandleSpectatorResetCommand", "dd/d08/a11432.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
-    [ "HandleSpectatorSpectateCommand", "dd/d08/a11432.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
-    [ "HandleSpectatorVersionCommand", "dd/d08/a11432.html#aaf7c57603d263f7ab919f12d9680f058", null ],
-    [ "HandleSpectatorWatchCommand", "dd/d08/a11432.html#a1ee822e332374b375962d1ae87adbc61", null ]
+    [ "CheckContainer", "dd/d08/a11432.html#a08e083224760d2bca1996da9cd9cb014", null ],
+    [ "CheckResultContainer", "dd/d08/a11432.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
+    [ "WardenCheckMgr", "dd/d08/a11432.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
+    [ "~WardenCheckMgr", "dd/d08/a11432.html#a0d89190f580435337c328da4bf2497b8", null ],
+    [ "GetMaxValidCheckId", "dd/d08/a11432.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
+    [ "GetWardenDataById", "dd/d08/a11432.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
+    [ "GetWardenResultById", "dd/d08/a11432.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
+    [ "instance", "dd/d08/a11432.html#aba9de1e123070338dc0049db8d8f0663", null ],
+    [ "LoadWardenChecks", "dd/d08/a11432.html#ad02847547a06d98c582d09992dce9d11", null ],
+    [ "LoadWardenOverrides", "dd/d08/a11432.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
+    [ "CheckIdPool", "dd/d08/a11432.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
+    [ "CheckResultStore", "dd/d08/a11432.html#a4f0224b8377827aced304b28fdefbda7", null ],
+    [ "CheckStore", "dd/d08/a11432.html#aac59e154d81b838f27c577af87b86bd1", null ]
 ];

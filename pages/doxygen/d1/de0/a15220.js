@@ -1,7 +1,10 @@
 var a15220 =
 [
-    [ "npc_tharnarianAI", "da/db7/a15224.html", "da/db7/a15224" ],
-    [ "npc_tharnarian", "d1/de0/a15220.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
-    [ "GetAI", "d1/de0/a15220.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
-    [ "OnQuestReward", "d1/de0/a15220.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
+    [ "npc_murkdeepAI", "d1/de0/a15220.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
+    [ "JustEngagedWith", "d1/de0/a15220.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
+    [ "Reset", "d1/de0/a15220.html#aa89316a0fe4f99630a4a129aed305e24", null ],
+    [ "UpdateAI", "d1/de0/a15220.html#aeca85a1324791d18ac825401fb8a31e8", null ],
+    [ "events", "d1/de0/a15220.html#ae3d344829aeba22ef0c5947863720390", null ],
+    [ "phase", "d1/de0/a15220.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
+    [ "spawnTimer", "d1/de0/a15220.html#a6b139fb5cc0776103934f14be15c34d1", null ]
 ];

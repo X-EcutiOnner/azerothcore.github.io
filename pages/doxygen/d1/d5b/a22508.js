@@ -1,5 +1,5 @@
 var a22508 =
 [
-    [ "OutdoorPvP_terokkar_forest", "d1/d5b/a22508.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
-    [ "GetOutdoorPvP", "d1/d5b/a22508.html#acf268293812d7a1a233e7f1fcba1e733", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "d1/d5b/a22508.html#a037ee225b626b64436570680ae4e9ea0", null ],
+    [ "ProcessEvent", "d1/d5b/a22508.html#aba05b0edb57e6c42bd45593a51598365", null ]
 ];

@@ -1,8 +1,8 @@
 var a28184 =
 [
-    [ "ClassMask", "de/da6/a28184.html#a563ba1618ffefa5470696e37f65c70d4", null ],
-    [ "Flags", "de/da6/a28184.html#af89c32a22f018557fe016e0784a82384", null ],
-    [ "RaceMask", "de/da6/a28184.html#acff47bf5c075d669f95b0d229674f9bc", null ],
-    [ "SkillID", "de/da6/a28184.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
-    [ "SkillTierID", "de/da6/a28184.html#ab6153043461b71336e12b00957499075", null ]
+    [ "NoRuneCost", "de/da6/a28184.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
+    [ "NoRunicPowerGain", "de/da6/a28184.html#a97da075ecd116ef27fd4265bb8380667", null ],
+    [ "ID", "de/da6/a28184.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
+    [ "RuneCost", "de/da6/a28184.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
+    [ "runePowerGain", "de/da6/a28184.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
 ];

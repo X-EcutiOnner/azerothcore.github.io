@@ -9,7 +9,7 @@ var searchData=
   ['npc_5fstave_5fof_5fancients_2ecpp_6',['npc_stave_of_ancients.cpp',['../da/d66/a01856.html',1,'']]],
   ['npc_5fstave_5fof_5fancients_2eh_7',['npc_stave_of_ancients.h',['../db/d09/a01838.html',1,'']]],
   ['npc_5ftaxi_2ecpp_8',['npc_taxi.cpp',['../da/dcd/a01835.html',1,'']]],
-  ['npchandler_2ecpp_9',['NPCHandler.cpp',['../d4/d6f/a03374.html',1,'']]],
-  ['npchandler_2eh_10',['NPCHandler.h',['../da/dcf/a03344.html',1,'']]],
+  ['npchandler_2ecpp_9',['NPCHandler.cpp',['../d0/d57/a03380.html',1,'']]],
+  ['npchandler_2eh_10',['NPCHandler.h',['../d6/d18/a03350.html',1,'']]],
   ['npcs_5fspecial_2ecpp_11',['npcs_special.cpp',['../d2/d5b/a01841.html',1,'']]]
 ];

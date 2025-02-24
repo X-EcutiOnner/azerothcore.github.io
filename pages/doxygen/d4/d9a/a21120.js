@@ -1,13 +1,13 @@
 var a21120 =
 [
-    [ "MoveX", "d4/d9a/a21120.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "d4/d9a/a21120.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "d4/d9a/a21120.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "d4/d9a/a21120.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "d4/d9a/a21120.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "d4/d9a/a21120.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "d4/d9a/a21120.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "d4/d9a/a21120.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "d4/d9a/a21120.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "d4/d9a/a21120.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "boss_toravonAI", "d4/d9a/a21120.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "d4/d9a/a21120.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "d4/d9a/a21120.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "d4/d9a/a21120.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "d4/d9a/a21120.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "d4/d9a/a21120.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "d4/d9a/a21120.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "d4/d9a/a21120.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "d4/d9a/a21120.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "d4/d9a/a21120.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

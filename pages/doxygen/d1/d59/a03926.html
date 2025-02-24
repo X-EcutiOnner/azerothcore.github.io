@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/GroupScript.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/AllMapScript.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,82 +107,81 @@ $(document).ready(function(){initNavTree('d1/d59/a03926.html','../../'); initRes
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">GroupScript.h File Reference</div></div>
+  <div class="headertitle"><div class="title">AllMapScript.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
 <code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d0e/a10246.html">GroupScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/de5/a10168.html">AllMapScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a373b3fe6b402e8321892b8c1be74ab5d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5d">GroupHook</a> { <br />
-&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681">GROUPHOOK_ON_ADD_MEMBER</a>
+<tr class="memitem:a78db4e64fe232d8b547270090d8e3b92"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92">AllMapHook</a> { <br />
+&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa">ALLMAPHOOK_ON_PLAYER_ENTER_ALL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe">GROUPHOOK_ON_INVITE_MEMBER</a>
+&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae">ALLMAPHOOK_ON_PLAYER_LEAVE_ALL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3">GROUPHOOK_ON_REMOVE_MEMBER</a>
+&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182">ALLMAPHOOK_ON_BEFORE_CREATE_INSTANCE_SCRIPT</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23">GROUPHOOK_ON_CHANGE_LEADER</a>
+&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0">ALLMAPHOOK_ON_DESTROY_INSTANCE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353">GROUPHOOK_ON_DISBAND</a>
+&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02">ALLMAPHOOK_ON_CREATE_MAP</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da9b4d04fe85f908719f1412cb9b88e61c">GROUPHOOK_CAN_GROUP_JOIN_BATTLEGROUND_QUEUE</a>
+&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5">ALLMAPHOOK_ON_DESTROY_MAP</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da0cc7b93ed018172ab0c6f191681e5f6c">GROUPHOOK_ON_CREATE</a>
+&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb">ALLMAPHOOK_ON_MAP_UPDATE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2">GROUPHOOK_END</a>
+&#160;&#160;<a class="el" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95">ALLMAPHOOK_END</a>
 <br />
  }</td></tr>
-<tr class="separator:a373b3fe6b402e8321892b8c1be74ab5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a78db4e64fe232d8b547270090d8e3b92"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a373b3fe6b402e8321892b8c1be74ab5d" name="a373b3fe6b402e8321892b8c1be74ab5d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a373b3fe6b402e8321892b8c1be74ab5d">&#9670;&#160;</a></span>GroupHook</h2>
+<a id="a78db4e64fe232d8b547270090d8e3b92" name="a78db4e64fe232d8b547270090d8e3b92"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a78db4e64fe232d8b547270090d8e3b92">&#9670;&#160;</a></span>AllMapHook</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5d">GroupHook</a></td>
+          <td class="memname">enum <a class="el" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92">AllMapHook</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681" name="a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681"></a>GROUPHOOK_ON_ADD_MEMBER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe" name="a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe"></a>GROUPHOOK_ON_INVITE_MEMBER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3" name="a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3"></a>GROUPHOOK_ON_REMOVE_MEMBER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23" name="a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23"></a>GROUPHOOK_ON_CHANGE_LEADER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353" name="a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353"></a>GROUPHOOK_ON_DISBAND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a373b3fe6b402e8321892b8c1be74ab5da9b4d04fe85f908719f1412cb9b88e61c" name="a373b3fe6b402e8321892b8c1be74ab5da9b4d04fe85f908719f1412cb9b88e61c"></a>GROUPHOOK_CAN_GROUP_JOIN_BATTLEGROUND_QUEUE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a373b3fe6b402e8321892b8c1be74ab5da0cc7b93ed018172ab0c6f191681e5f6c" name="a373b3fe6b402e8321892b8c1be74ab5da0cc7b93ed018172ab0c6f191681e5f6c"></a>GROUPHOOK_ON_CREATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2" name="a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2"></a>GROUPHOOK_END&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa" name="a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa"></a>ALLMAPHOOK_ON_PLAYER_ENTER_ALL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae" name="a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae"></a>ALLMAPHOOK_ON_PLAYER_LEAVE_ALL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182" name="a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182"></a>ALLMAPHOOK_ON_BEFORE_CREATE_INSTANCE_SCRIPT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0" name="a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0"></a>ALLMAPHOOK_ON_DESTROY_INSTANCE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02" name="a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02"></a>ALLMAPHOOK_ON_CREATE_MAP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5" name="a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5"></a>ALLMAPHOOK_ON_DESTROY_MAP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb" name="a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb"></a>ALLMAPHOOK_ON_MAP_UPDATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95" name="a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95"></a>ALLMAPHOOK_END&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681">GROUPHOOK_ON_ADD_MEMBER</a>,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe">GROUPHOOK_ON_INVITE_MEMBER</a>,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3">GROUPHOOK_ON_REMOVE_MEMBER</a>,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23">GROUPHOOK_ON_CHANGE_LEADER</a>,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353">GROUPHOOK_ON_DISBAND</a>,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da9b4d04fe85f908719f1412cb9b88e61c">GROUPHOOK_CAN_GROUP_JOIN_BATTLEGROUND_QUEUE</a>,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da0cc7b93ed018172ab0c6f191681e5f6c">GROUPHOOK_ON_CREATE</a>,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2">GROUPHOOK_END</a></div>
-<div class="line"><span class="lineno">   35</span>};</div>
-<div class="ttc" id="aa03926_html_a373b3fe6b402e8321892b8c1be74ab5da0cc7b93ed018172ab0c6f191681e5f6c"><div class="ttname"><a href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da0cc7b93ed018172ab0c6f191681e5f6c">GROUPHOOK_ON_CREATE</a></div><div class="ttdeci">@ GROUPHOOK_ON_CREATE</div><div class="ttdef"><b>Definition:</b> GroupScript.h:33</div></div>
-<div class="ttc" id="aa03926_html_a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23"><div class="ttname"><a href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23">GROUPHOOK_ON_CHANGE_LEADER</a></div><div class="ttdeci">@ GROUPHOOK_ON_CHANGE_LEADER</div><div class="ttdef"><b>Definition:</b> GroupScript.h:30</div></div>
-<div class="ttc" id="aa03926_html_a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681"><div class="ttname"><a href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681">GROUPHOOK_ON_ADD_MEMBER</a></div><div class="ttdeci">@ GROUPHOOK_ON_ADD_MEMBER</div><div class="ttdef"><b>Definition:</b> GroupScript.h:27</div></div>
-<div class="ttc" id="aa03926_html_a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe"><div class="ttname"><a href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe">GROUPHOOK_ON_INVITE_MEMBER</a></div><div class="ttdeci">@ GROUPHOOK_ON_INVITE_MEMBER</div><div class="ttdef"><b>Definition:</b> GroupScript.h:28</div></div>
-<div class="ttc" id="aa03926_html_a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2"><div class="ttname"><a href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2">GROUPHOOK_END</a></div><div class="ttdeci">@ GROUPHOOK_END</div><div class="ttdef"><b>Definition:</b> GroupScript.h:34</div></div>
-<div class="ttc" id="aa03926_html_a373b3fe6b402e8321892b8c1be74ab5da9b4d04fe85f908719f1412cb9b88e61c"><div class="ttname"><a href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da9b4d04fe85f908719f1412cb9b88e61c">GROUPHOOK_CAN_GROUP_JOIN_BATTLEGROUND_QUEUE</a></div><div class="ttdeci">@ GROUPHOOK_CAN_GROUP_JOIN_BATTLEGROUND_QUEUE</div><div class="ttdef"><b>Definition:</b> GroupScript.h:32</div></div>
-<div class="ttc" id="aa03926_html_a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3"><div class="ttname"><a href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3">GROUPHOOK_ON_REMOVE_MEMBER</a></div><div class="ttdeci">@ GROUPHOOK_ON_REMOVE_MEMBER</div><div class="ttdef"><b>Definition:</b> GroupScript.h:29</div></div>
-<div class="ttc" id="aa03926_html_a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353"><div class="ttname"><a href="../../d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353">GROUPHOOK_ON_DISBAND</a></div><div class="ttdeci">@ GROUPHOOK_ON_DISBAND</div><div class="ttdef"><b>Definition:</b> GroupScript.h:31</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa">ALLMAPHOOK_ON_PLAYER_ENTER_ALL</a>,</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae">ALLMAPHOOK_ON_PLAYER_LEAVE_ALL</a>,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182">ALLMAPHOOK_ON_BEFORE_CREATE_INSTANCE_SCRIPT</a>,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0">ALLMAPHOOK_ON_DESTROY_INSTANCE</a>,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02">ALLMAPHOOK_ON_CREATE_MAP</a>,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5">ALLMAPHOOK_ON_DESTROY_MAP</a>,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb">ALLMAPHOOK_ON_MAP_UPDATE</a>,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95">ALLMAPHOOK_END</a></div>
+<div class="line"><span class="lineno">   34</span>};</div>
+<div class="ttc" id="aa03926_html_a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb"><div class="ttname"><a href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb">ALLMAPHOOK_ON_MAP_UPDATE</a></div><div class="ttdeci">@ ALLMAPHOOK_ON_MAP_UPDATE</div><div class="ttdef"><b>Definition:</b> AllMapScript.h:32</div></div>
+<div class="ttc" id="aa03926_html_a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5"><div class="ttname"><a href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5">ALLMAPHOOK_ON_DESTROY_MAP</a></div><div class="ttdeci">@ ALLMAPHOOK_ON_DESTROY_MAP</div><div class="ttdef"><b>Definition:</b> AllMapScript.h:31</div></div>
+<div class="ttc" id="aa03926_html_a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95"><div class="ttname"><a href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95">ALLMAPHOOK_END</a></div><div class="ttdeci">@ ALLMAPHOOK_END</div><div class="ttdef"><b>Definition:</b> AllMapScript.h:33</div></div>
+<div class="ttc" id="aa03926_html_a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182"><div class="ttname"><a href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182">ALLMAPHOOK_ON_BEFORE_CREATE_INSTANCE_SCRIPT</a></div><div class="ttdeci">@ ALLMAPHOOK_ON_BEFORE_CREATE_INSTANCE_SCRIPT</div><div class="ttdef"><b>Definition:</b> AllMapScript.h:28</div></div>
+<div class="ttc" id="aa03926_html_a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae"><div class="ttname"><a href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae">ALLMAPHOOK_ON_PLAYER_LEAVE_ALL</a></div><div class="ttdeci">@ ALLMAPHOOK_ON_PLAYER_LEAVE_ALL</div><div class="ttdef"><b>Definition:</b> AllMapScript.h:27</div></div>
+<div class="ttc" id="aa03926_html_a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02"><div class="ttname"><a href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02">ALLMAPHOOK_ON_CREATE_MAP</a></div><div class="ttdeci">@ ALLMAPHOOK_ON_CREATE_MAP</div><div class="ttdef"><b>Definition:</b> AllMapScript.h:30</div></div>
+<div class="ttc" id="aa03926_html_a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0"><div class="ttname"><a href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0">ALLMAPHOOK_ON_DESTROY_INSTANCE</a></div><div class="ttdeci">@ ALLMAPHOOK_ON_DESTROY_INSTANCE</div><div class="ttdef"><b>Definition:</b> AllMapScript.h:29</div></div>
+<div class="ttc" id="aa03926_html_a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa"><div class="ttname"><a href="../../d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa">ALLMAPHOOK_ON_PLAYER_ENTER_ALL</a></div><div class="ttdeci">@ ALLMAPHOOK_ON_PLAYER_ENTER_ALL</div><div class="ttdef"><b>Definition:</b> AllMapScript.h:26</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -191,8 +190,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d1/d59/a03926.html">GroupScript.h</a></li>
-    <li class="footer">Generated on Mon Feb 17 2025 20:41:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d1/d59/a03926.html">AllMapScript.h</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:42:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

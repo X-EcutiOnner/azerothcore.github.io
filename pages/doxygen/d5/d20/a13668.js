@@ -1,6 +1,6 @@
 var a13668 =
 [
-    [ "npc_janalai_hatchlingAI", "dd/dc9/a13672.html", "dd/dc9/a13672" ],
-    [ "npc_janalai_hatchling", "d5/d20/a13668.html#af43b70de3e8f7d92918566a3eb332266", null ],
-    [ "GetAI", "d5/d20/a13668.html#a1139647e6f8533c50a8df257a8c9fbac", null ]
+    [ "cooldown", "d5/d20/a13668.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "d5/d20/a13668.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "d5/d20/a13668.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

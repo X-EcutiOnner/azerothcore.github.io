@@ -1,7 +1,11 @@
 var a15760 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "dc/d88/a15760.html#a886ed4c1485fdedcc176341210eee31a", null ],
-    [ "OnCreatureCreate", "dc/d88/a15760.html#a7a99d985a4b465ae87c04211a7a83a77", null ],
-    [ "OnGameObjectCreate", "dc/d88/a15760.html#a1ef3dc88400345998d03f3c993b9a181", null ],
-    [ "OnGameObjectRemove", "dc/d88/a15760.html#a3a2776b83272d81de9ddcb0c90ac881c", null ]
+    [ "spell_hadronox_summon_periodic_aura", "dc/d88/a15760.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
+    [ "HandlePeriodic", "dc/d88/a15760.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "dc/d88/a15760.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "dc/d88/a15760.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "dc/d88/a15760.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "dc/d88/a15760.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "dc/d88/a15760.html#a191d7eec948e0753835bd41eef66f1ec", null ],
+    [ "_spellEntry", "dc/d88/a15760.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

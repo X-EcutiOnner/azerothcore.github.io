@@ -1,7 +1,7 @@
 var a11020 =
 [
-    [ "EffectApplyHandler", "d8/d39/a11020.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
-    [ "Call", "d8/d39/a11020.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
-    [ "mode", "d8/d39/a11020.html#ac776375c5a5de321edc572c87e983193", null ],
-    [ "pEffectHandlerScript", "d8/d39/a11020.html#acd715556a7661f688ce0de9afe62250a", null ]
+    [ "DynObjAura", "d8/d39/a11020.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
+    [ "FillTargetMap", "d8/d39/a11020.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
+    [ "Remove", "d8/d39/a11020.html#ada3f65b4a817e2337da43da437b93a3b", null ],
+    [ "Aura::Create", "d8/d39/a11020.html#ae2c0fdfb409846fec5e861de60797112", null ]
 ];

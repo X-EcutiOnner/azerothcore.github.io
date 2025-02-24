@@ -1,6 +1,5 @@
 var a05000 =
 [
-    [ "NodeArray", "de/d7d/a05000.html#ad14de28828d5dd9c425e47a261125423", null ],
-    [ "AddNode", "de/d7d/a05000.html#a370b6e8633c2c739ff68c0399e315a7e", null ],
-    [ "_nodes", "de/d7d/a05000.html#a581a71d15d245efc585297c218313134", null ]
+    [ "TileEntries", "de/d7d/a05000.html#ac982af8210389fe769d161a12d4cdb5f", null ],
+    [ "UniqueEntries", "de/d7d/a05000.html#a5ba6c948eedc6c070a7eb6aa3816d85c", null ]
 ];

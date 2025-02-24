@@ -1,6 +1,5 @@
 var a27548 =
 [
-    [ "npc_fireworkAI", "d9/d73/a27552.html", "d9/d73/a27552" ],
-    [ "npc_firework", "d6/d76/a27548.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "d6/d76/a27548.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "go_transport_the_purple_princess", "d6/d76/a27548.html#ab0c79197964857d578036693a2c18e8a", null ],
+    [ "EventInform", "d6/d76/a27548.html#ac5b73f1bea180797169138f8e9228783", null ]
 ];

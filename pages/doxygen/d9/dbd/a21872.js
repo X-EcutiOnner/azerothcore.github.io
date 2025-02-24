@@ -1,6 +1,6 @@
 var a21872 =
 [
-    [ "npc_amberpine_woodsmanAI", "d4/d07/a21876.html", "d4/d07/a21876" ],
-    [ "npc_amberpine_woodsman", "d9/dbd/a21872.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
-    [ "GetAI", "d9/dbd/a21872.html#a9c1df6c01c163ca68712d72b14c46139", null ]
+    [ "npc_razael_and_lyana", "d9/dbd/a21872.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "d9/dbd/a21872.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "d9/dbd/a21872.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

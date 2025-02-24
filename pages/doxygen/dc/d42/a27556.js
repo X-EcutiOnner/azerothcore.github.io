@@ -1,6 +1,6 @@
 var a27556 =
 [
-    [ "npc_spring_rabbitAI", "d1/d73/a27560.html", "d1/d73/a27560" ],
-    [ "npc_spring_rabbit", "dc/d42/a27556.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "dc/d42/a27556.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "X", "dc/d42/a27556.html#a55bda49b2eb919415afaf780ca1977de", null ],
+    [ "Y", "dc/d42/a27556.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
+    [ "Z", "dc/d42/a27556.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
 ];

@@ -1,9 +1,8 @@
 var a19496 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "d4/dc8/a19496.html#aac57ae32188c47ca97b7331d62986e66", null ],
-    [ "JustDied", "d4/dc8/a19496.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
-    [ "JustEngagedWith", "d4/dc8/a19496.html#a772d279407d724477560898559710433", null ],
-    [ "Reset", "d4/dc8/a19496.html#a5b4a726aa496923d81c41b038e5f7449", null ],
-    [ "UpdateAI", "d4/dc8/a19496.html#a2745ff26c165851c367e080d28652984", null ],
-    [ "events", "d4/dc8/a19496.html#a468d45f9b9c2172f326068d59a74121a", null ]
+    [ "iron_golem_custodianAI", "d4/dc8/a19496.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
+    [ "JustEngagedWith", "d4/dc8/a19496.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
+    [ "Reset", "d4/dc8/a19496.html#af3193696d665746eecd9c62128d8684d", null ],
+    [ "UpdateAI", "d4/dc8/a19496.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
+    [ "events", "d4/dc8/a19496.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
 ];

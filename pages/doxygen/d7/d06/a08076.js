@@ -1,7 +1,7 @@
 var a08076 =
 [
-    [ "EnchStoreItem", "d7/d06/a08076.html#a89019e156774c5b978251479264e5463", null ],
-    [ "EnchStoreItem", "d7/d06/a08076.html#aca83bb20eb6153faeaf599b07b97e357", null ],
-    [ "chance", "d7/d06/a08076.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
-    [ "ench", "d7/d06/a08076.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
+    [ "entry", "d7/d06/a08076.html#aabf7002fbd171e7f1832be5f066dbe44", null ],
+    [ "pos", "d7/d06/a08076.html#aad6aa76796625075e4fcfb7d1a3eb88c", null ],
+    [ "time", "d7/d06/a08076.html#a8a38eed04cdb2efb89e98f869e0d800d", null ],
+    [ "type", "d7/d06/a08076.html#a40927a435b557e4c1e5c5eedbb5d5e5b", null ]
 ];

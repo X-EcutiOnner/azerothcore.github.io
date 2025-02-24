@@ -1,6 +1,10 @@
 var a21304 =
 [
-    [ "HandleEffectPeriodic", "db/d5c/a21304.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "db/d5c/a21304.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "db/d5c/a21304.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "npc_azure_spellbreakerAI", "db/d5c/a21304.html#a1daf4cb20f4081380d8deda9a58da2fd", null ],
+    [ "Reset", "db/d5c/a21304.html#a731ff2d4311359145c353de2d91935c8", null ],
+    [ "UpdateAI", "db/d5c/a21304.html#a053ecfe5c78220c4fa1ac896ce161210", null ],
+    [ "uiArcaneBlastTimer", "db/d5c/a21304.html#a1e752971a31c7d3415c1820eb3574a98", null ],
+    [ "uiChainsOfIceTimer", "db/d5c/a21304.html#a2cbf33865a79a781d8b7aad04cd2095c", null ],
+    [ "uiConeOfColdTimer", "db/d5c/a21304.html#a4970c7459b044b08bf36e17c703395fb", null ],
+    [ "uiSlowTimer", "db/d5c/a21304.html#a2a02b42ec104cfb6682782a80f813eef", null ]
 ];

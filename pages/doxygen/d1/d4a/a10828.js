@@ -1,7 +1,6 @@
 var a10828 =
 [
-    [ "WorldObjectSpellAreaTargetCheck", "d1/d4a/a10828.html#a2b017300220426ac42de18e3a8699219", null ],
-    [ "operator()", "d1/d4a/a10828.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
-    [ "_position", "d1/d4a/a10828.html#a680c45dd148161657da011a1772375ca", null ],
-    [ "_range", "d1/d4a/a10828.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ]
+    [ "PetLearnedSpell", "d1/d4a/a10828.html#a5d105cca08515b9550998f2c86b13a1a", null ],
+    [ "Write", "d1/d4a/a10828.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
+    [ "SpellID", "d1/d4a/a10828.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
 ];

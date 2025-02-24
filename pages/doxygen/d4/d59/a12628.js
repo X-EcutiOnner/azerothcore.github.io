@@ -1,11 +1,14 @@
 var a12628 =
 [
-    [ "npc_crusade_persuadedAI", "d4/d59/a12628.html#a9a6a762384bb8ca74a34d30472fa8e3c", null ],
-    [ "JustEngagedWith", "d4/d59/a12628.html#a6266a91324717feee94727a0578e9584", null ],
-    [ "Reset", "d4/d59/a12628.html#a127c36f01e2ddfeb26f3192a1db8ffaf", null ],
-    [ "SpellHit", "d4/d59/a12628.html#a72476d0e2c63d629c2200824cd3cb5a1", null ],
-    [ "UpdateAI", "d4/d59/a12628.html#a078facb2a0e5ba27f44999e7bb1e55f7", null ],
-    [ "playerGUID", "d4/d59/a12628.html#a3076964de32f12d70d41677fb626719b", null ],
-    [ "speechCounter", "d4/d59/a12628.html#a4b0c5d69a7563b2f4f399a60010378a9", null ],
-    [ "speechTimer", "d4/d59/a12628.html#aada4f1277fc1f000c27cefcd6011c24d", null ]
+    [ "boss_strawman", "d4/d59/a12628.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
+    [ "DoAction", "d4/d59/a12628.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
+    [ "EnterEvadeMode", "d4/d59/a12628.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
+    [ "JustDied", "d4/d59/a12628.html#ab175b0104d316b8929e32d9eb939780f", null ],
+    [ "JustEngagedWith", "d4/d59/a12628.html#a40657516c4f1b049dd0514a50e299a10", null ],
+    [ "JustReachedHome", "d4/d59/a12628.html#a4235b2de2540199f9570cbadb7326871", null ],
+    [ "KilledUnit", "d4/d59/a12628.html#a06b92dbb6907ace60df7e10893be7af0", null ],
+    [ "SpellHit", "d4/d59/a12628.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
+    [ "UpdateAI", "d4/d59/a12628.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
+    [ "_scheduler", "d4/d59/a12628.html#a409539c771b373c165bdbccac8a59e7f", null ],
+    [ "instance", "d4/d59/a12628.html#a157a6faacf83432b8227173f6b14a7d3", null ]
 ];

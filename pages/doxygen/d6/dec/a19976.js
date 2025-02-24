@@ -1,7 +1,6 @@
 var a19976 =
 [
-    [ "boss_freya_healthy_sporeAI", "d6/dec/a19976.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
-    [ "Reset", "d6/dec/a19976.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
-    [ "UpdateAI", "d6/dec/a19976.html#ace79c59d62e597ae31425b4006e1363f", null ],
-    [ "_despawnTimer", "d6/dec/a19976.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
+    [ "npc_ulduar_saronite_animusAI", "df/d0c/a19980.html", "df/d0c/a19980" ],
+    [ "npc_ulduar_saronite_animus", "d6/dec/a19976.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
+    [ "GetAI", "d6/dec/a19976.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
 ];

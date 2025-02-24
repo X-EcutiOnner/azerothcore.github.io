@@ -1,7 +1,7 @@
 var a00503 =
 [
-    [ "instance_scarlet_monastery", "d2/dc7/a12930.html", "d2/dc7/a12930" ],
-    [ "instance_scarlet_monastery::instance_scarlet_monastery_InstanceMapScript", "de/d9e/a12934.html", "de/d9e/a12934" ],
+    [ "instance_scarlet_monastery", "d1/dfc/a12944.html", "d1/dfc/a12944" ],
+    [ "instance_scarlet_monastery::instance_scarlet_monastery_InstanceMapScript", "d6/d4d/a12948.html", "d6/d4d/a12948" ],
     [ "AshbringerEventMisc", "d4/de5/a00503.html#a19acf5cf631b82922ff0a2ca3149ee9d", [
       [ "NPC_COMMANDER_MOGRAINE", "d4/de5/a00503.html#a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587", null ],
       [ "NPC_INQUISITOR_WHITEMANE", "d4/de5/a00503.html#a19acf5cf631b82922ff0a2ca3149ee9da097781861b71fede32d782fa6683de61", null ],

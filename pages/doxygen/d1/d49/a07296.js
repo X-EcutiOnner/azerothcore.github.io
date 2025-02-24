@@ -1,7 +1,12 @@
 var a07296 =
 [
-    [ "CommandPermissions", "d1/d49/a07296.html#ad1242d9067778298c44501b5d5a962f8", null ],
-    [ "CommandPermissions", "d1/d49/a07296.html#a47f284c63f10b6c3479624845b696aa6", null ],
-    [ "AllowConsole", "d1/d49/a07296.html#a8b419033e8dff0307a22a32bc57a1dc8", null ],
-    [ "RequiredLevel", "d1/d49/a07296.html#a4918f2c3b1913eb76d09d859479ebbae", null ]
+    [ "NodeId", "d1/d49/a07296.html#a039c468fa0b6110809f0617496c0146c", null ],
+    [ "TextAllianceAssaulted", "d1/d49/a07296.html#a345b2ce7c48e9d10d03ff484a0108389", null ],
+    [ "TextAllianceClaims", "d1/d49/a07296.html#a0671602a29f33e353a8a339540beae18", null ],
+    [ "TextAllianceDefended", "d1/d49/a07296.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250", null ],
+    [ "TextAllianceTaken", "d1/d49/a07296.html#a281a0378999ed5966f5d28cc4310fbcd", null ],
+    [ "TextHordeAssaulted", "d1/d49/a07296.html#a7fb668b0b9563bb0779bf4a5daefded8", null ],
+    [ "TextHordeClaims", "d1/d49/a07296.html#acddac09017717cf5b2893ab83e1d10c8", null ],
+    [ "TextHordeDefended", "d1/d49/a07296.html#a00cea010cfe6fb9702e5cb00003e5bef", null ],
+    [ "TextHordeTaken", "d1/d49/a07296.html#a2bbd1b49b9b72784d07be9db2a27fe77", null ]
 ];

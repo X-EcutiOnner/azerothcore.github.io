@@ -1,8 +1,13 @@
 var a09128 =
 [
-    [ "AllWorldObjectsInExactRange", "d7/dd2/a09128.html#a0281d22587b9b1bdbfbdd8dccc625186", null ],
-    [ "operator()", "d7/dd2/a09128.html#afe0bea69ddd5e275363361bf37284840", null ],
-    [ "_equals", "d7/dd2/a09128.html#aebb4cb9e84cf91cca235fe663dba8d60", null ],
-    [ "_object", "d7/dd2/a09128.html#a5fba0e3c7cde76bfe56f8e9e9716412b", null ],
-    [ "_range", "d7/dd2/a09128.html#ae40de8ce49bb429243e5059b6d14398f", null ]
+    [ "VisibleNotifier", "d7/dd2/a09128.html#af6b878aad8873a7e34670af7ed84188e", null ],
+    [ "SendToSelf", "d7/dd2/a09128.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "d7/dd2/a09128.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "d7/dd2/a09128.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "i_data", "d7/dd2/a09128.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "d7/dd2/a09128.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_largeOnly", "d7/dd2/a09128.html#a6954721b71a55874c7f708bf822613bd", null ],
+    [ "i_player", "d7/dd2/a09128.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "d7/dd2/a09128.html#a34d766816baaad7b1b3623360ec9abeb", null ],
+    [ "vis_guids", "d7/dd2/a09128.html#ab1a5c16d224e61ccfb60e3f1e5fdff1c", null ]
 ];

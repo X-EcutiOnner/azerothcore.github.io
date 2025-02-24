@@ -1,18 +1,12 @@
 var a21668 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "d0/d2d/a21668.html#af2a8c43537cac96be12e6dc8d7874cec", null ],
-    [ "DespawnOachanoa", "d0/d2d/a21668.html#ac9c4473578ba8a19b280548b4257bafa", null ],
-    [ "GetOachanoa", "d0/d2d/a21668.html#acf992e311bb8ab91683556036b0fbe86", null ],
-    [ "GetPlayer", "d0/d2d/a21668.html#aec678cda5d636e66907593d8b3f952f4", null ],
-    [ "NextStep", "d0/d2d/a21668.html#ae66ac194b89e761808cd3e226fc7e495", null ],
-    [ "Reset", "d0/d2d/a21668.html#af52e16097889f80d02ab2362f5578257", null ],
-    [ "Start", "d0/d2d/a21668.html#ad34d850e1f11da93dc461995d9f00115", null ],
-    [ "UpdateAI", "d0/d2d/a21668.html#aa47d7c8a0c34fc2cf4a7b1d31d21cd4a", null ],
-    [ "canjump", "d0/d2d/a21668.html#a6705fda3183602c11573735e0ac536a8", null ],
-    [ "oachanoaGUID", "d0/d2d/a21668.html#a32c351c44121629bccea71f2fd27cf9c", null ],
-    [ "pGUID", "d0/d2d/a21668.html#aabca8fe8385fe88d6ed6ad7ae6da0261", null ],
-    [ "running", "d0/d2d/a21668.html#a62e33501656b57698b19d8fec44afa37", null ],
-    [ "secondpart", "d0/d2d/a21668.html#a98e6aaa14d458228e97ced45e553c2bf", null ],
-    [ "step", "d0/d2d/a21668.html#ab8f80e5b25f58028abdd2077c2e9de7f", null ],
-    [ "timer", "d0/d2d/a21668.html#a694c235ee9a23b30ac0aa7b15ee8db3c", null ]
+    [ "npc_q24545_wretched_ghoulAI", "d0/d2d/a21668.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
+    [ "Activate", "d0/d2d/a21668.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
+    [ "AttackStart", "d0/d2d/a21668.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
+    [ "CanAIAttack", "d0/d2d/a21668.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
+    [ "Deactivate", "d0/d2d/a21668.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
+    [ "DoAction", "d0/d2d/a21668.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
+    [ "JustDied", "d0/d2d/a21668.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
+    [ "JustRespawned", "d0/d2d/a21668.html#ab30068f7082176c279e0667f72d750a3", null ],
+    [ "Reset", "d0/d2d/a21668.html#ad94a4789b5ba019d021682f15df13589", null ]
 ];

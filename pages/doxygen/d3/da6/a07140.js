@@ -1,9 +1,12 @@
 var a07140 =
 [
-    [ "BattlegroundEYScore", "d3/da6/a07140.html#a91c17f1ff1924439b05840cd11ede36f", null ],
-    [ "BuildObjectivesBlock", "d3/da6/a07140.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
-    [ "GetAttr1", "d3/da6/a07140.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
-    [ "UpdateScore", "d3/da6/a07140.html#afad034f453c54587b86532a37335ab18", null ],
-    [ "BattlegroundEY", "d3/da6/a07140.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
-    [ "FlagCaptures", "d3/da6/a07140.html#a057a335c7491c1031666e6d10cf314b2", null ]
+    [ "damageText", "d3/da6/a07140.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
+    [ "destroyText", "d3/da6/a07140.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
+    [ "entry", "d3/da6/a07140.html#a58d0395a47190698d309e80d91358bb1", null ],
+    [ "o", "d3/da6/a07140.html#a21238943701f594e1a5346193c895d33", null ],
+    [ "type", "d3/da6/a07140.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
+    [ "WorldState", "d3/da6/a07140.html#a4b4881aba2d297e125443f0c8ccab618", null ],
+    [ "x", "d3/da6/a07140.html#a80ebabba7265753a05367a4c79f6450c", null ],
+    [ "y", "d3/da6/a07140.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
+    [ "z", "d3/da6/a07140.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
 ];

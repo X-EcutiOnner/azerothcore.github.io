@@ -1,21 +1,14 @@
 var a12716 =
 [
-    [ "npc_mograineAI", "d9/de6/a12716.html#af5430751fc9ae5bad238d163d67cfd11", null ],
-    [ "AshbringerEvent", "d9/de6/a12716.html#ad0681d99cb7b5c42ec6edbe8d775309a", null ],
-    [ "DamageTaken", "d9/de6/a12716.html#a8ad7af7c44b3ca09598a1f12da8e9bec", null ],
-    [ "JustEngagedWith", "d9/de6/a12716.html#a038409407b56b1079ae81c0e84fcf097", null ],
-    [ "KilledUnit", "d9/de6/a12716.html#a8cffca13a8599402e5ef25c627ea1bf0", null ],
-    [ "MoveInLineOfSight", "d9/de6/a12716.html#a172b6996ea38ee4d1015d66ce8e64e29", null ],
-    [ "PullCathedral", "d9/de6/a12716.html#a74108072791e4ad716cb5e64f03ea5ca", null ],
-    [ "Reset", "d9/de6/a12716.html#acd2fdc3dd6bbe30341a2c64a449e6025", null ],
-    [ "SpellHit", "d9/de6/a12716.html#a4deb026efff1e9f7236ac96268ba4318", null ],
-    [ "UpdateAI", "d9/de6/a12716.html#aedf17d18c2acd8e148bdedf43f5757ee", null ],
-    [ "events", "d9/de6/a12716.html#a10d17abd8806aea48b0699de76a36b52", null ],
-    [ "fakeDeath", "d9/de6/a12716.html#a635628f6d89a363bba61cbe927848c2b", null ],
-    [ "hasDied", "d9/de6/a12716.html#ac51c5ae92a87c81ae4e766dd7a8a1f21", null ],
-    [ "heal", "d9/de6/a12716.html#aa50d5a2ae6418722b7c23108e1b7a9ee", null ],
-    [ "instance", "d9/de6/a12716.html#a81b12ef9cebb04e7b55cdbe7499dd018", null ],
-    [ "SayAshbringer", "d9/de6/a12716.html#ab71bec4fbed4515bc5c89f9488968440", null ],
-    [ "step", "d9/de6/a12716.html#ad1470aa49a8c0e5ab3e79e317478c4a2", null ],
-    [ "timer", "d9/de6/a12716.html#acbb8701003fdea87e909489ef5deae5d", null ]
+    [ "boss_priestess_delrissa", "d9/de6/a12716.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
+    [ "CheckInRoom", "d9/de6/a12716.html#afa963761e44412915a6d89f097f33b5d", null ],
+    [ "InitializeAI", "d9/de6/a12716.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
+    [ "JustDied", "d9/de6/a12716.html#a82d8c198f38c2aa881386e739dea6a08", null ],
+    [ "JustEngagedWith", "d9/de6/a12716.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
+    [ "JustSummoned", "d9/de6/a12716.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
+    [ "KilledUnit", "d9/de6/a12716.html#af0b41306f53c42745cce39069f446704", null ],
+    [ "Reset", "d9/de6/a12716.html#a60e39157aa3043284b2e1e032c0d9241", null ],
+    [ "SummonedCreatureDies", "d9/de6/a12716.html#a14757692ab4af5c1b5b311f059be9091", null ],
+    [ "HelpersKilled", "d9/de6/a12716.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
+    [ "PlayersKilled", "d9/de6/a12716.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
 ];

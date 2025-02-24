@@ -1,8 +1,7 @@
 var a20812 =
 [
-    [ "OnApply", "dd/d7c/a20812.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
-    [ "OnRemove", "dd/d7c/a20812.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "dd/d7c/a20812.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "dd/d7c/a20812.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "dd/d7c/a20812.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "HandleEffectCalcPeriodic", "dd/d7c/a20812.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "dd/d7c/a20812.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "dd/d7c/a20812.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "dd/d7c/a20812.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

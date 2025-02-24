@@ -1,6 +1,9 @@
 var a21296 =
 [
-    [ "boss_moraggAI", "df/dec/a21300.html", "df/dec/a21300" ],
-    [ "boss_moragg", "db/d26/a21296.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
-    [ "GetAI", "db/d26/a21296.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
+    [ "npc_azure_stalkerAI", "db/d26/a21296.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
+    [ "Reset", "db/d26/a21296.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
+    [ "UpdateAI", "db/d26/a21296.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
+    [ "TacticalBlinkCasted", "db/d26/a21296.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
+    [ "uiBackstabTimer", "db/d26/a21296.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
+    [ "uiTacticalBlinkTimer", "db/d26/a21296.html#ab817fb9f2f06715f0a08a99e12693697", null ]
 ];

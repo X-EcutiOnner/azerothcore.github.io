@@ -1,9 +1,12 @@
 var a21556 =
 [
-    [ "npc_bloodmage_laurithAI", "d9/dce/a21556.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "d9/dce/a21556.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "d9/dce/a21556.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
-    [ "UpdateAI", "d9/dce/a21556.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "d9/dce/a21556.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "d9/dce/a21556.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "npc_dalaran_warriorAI", "d9/dce/a21556.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
+    [ "Initialize", "d9/dce/a21556.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
+    [ "JustEngagedWith", "d9/dce/a21556.html#ae6690f0681363784e457fbd653f5b3f9", null ],
+    [ "Reset", "d9/dce/a21556.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
+    [ "UpdateAI", "d9/dce/a21556.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
+    [ "Battleshout_timer", "d9/dce/a21556.html#ae36f30f816164b60232bd849e74c3da1", null ],
+    [ "disarm_timer", "d9/dce/a21556.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
+    [ "hamstring_timer", "d9/dce/a21556.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
+    [ "shout_timer", "d9/dce/a21556.html#ac91770c1e9eb31d687247450898a48ae", null ]
 ];

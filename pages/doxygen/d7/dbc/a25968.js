@@ -1,12 +1,8 @@
 var a25968 =
 [
-    [ "AfterCheckProc", "d7/dbc/a25968.html#ae6ac733a614be543c04b57379b84aaca", null ],
-    [ "CheckProc", "d7/dbc/a25968.html#aa533054a5cd434ef3e02767a0a87db62", null ],
-    [ "GetProcSpell", "d7/dbc/a25968.html#af9fc6eb0c61c4084307fc2f7fb38973b", null ],
-    [ "HandleAfterEffectProc", "d7/dbc/a25968.html#aaa577b07d61ddc6e7af175c76ce63b11", null ],
-    [ "HandleOnEffectProc", "d7/dbc/a25968.html#a5bb5345754505cca5f9c840dc5bb9dfb", null ],
-    [ "PrepareAuraScript", "d7/dbc/a25968.html#a111821352b6d26f51878ce81b173ef6d", null ],
-    [ "Register", "d7/dbc/a25968.html#a9ba0584da94cf51b8cd8fe7da50fc1b0", null ],
-    [ "_chance", "d7/dbc/a25968.html#ab644c981163424fbaa05650dc6505ae1", null ],
-    [ "_spell", "d7/dbc/a25968.html#a07a855a4806bac873eb40505f805c39f", null ]
+    [ "Load", "d7/dbc/a25968.html#a7662d85a5469c20edf6d2eefca820db3", null ],
+    [ "PrepareAuraScript", "d7/dbc/a25968.html#a252bd975a7639eab4e151249db974b7c", null ],
+    [ "Register", "d7/dbc/a25968.html#a51723a22f1062f44e8eb6848e1398595", null ],
+    [ "Split", "d7/dbc/a25968.html#a08e982eae6030fdc679663bfd38bca47", null ],
+    [ "remainingAmount", "d7/dbc/a25968.html#afaab88988769ddc720deb44f06de3d7d", null ]
 ];

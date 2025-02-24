@@ -1,16 +1,9 @@
 var a28368 =
 [
-    [ "GetAddressForClient", "dc/d26/a28368.html#a2a3f3db57bb7e6f69ca4f030b65c7331", null ],
-    [ "AllowedSecurityLevel", "dc/d26/a28368.html#a25e953d80aa3c80e068afe6b57f67d99", null ],
-    [ "Build", "dc/d26/a28368.html#a64533e919d8c3a37bd5668af77d09166", null ],
-    [ "ExternalAddress", "dc/d26/a28368.html#a703504aaf54f1ecf934b9184e9737367", null ],
-    [ "Flags", "dc/d26/a28368.html#a1984cc9564b01b6456f31f77fd65a6d6", null ],
-    [ "Id", "dc/d26/a28368.html#ab0ccda7e7a58eee0965261767f3ee2ee", null ],
-    [ "LocalAddress", "dc/d26/a28368.html#a61f429ddc92895e66dff2808e17cc322", null ],
-    [ "LocalSubnetMask", "dc/d26/a28368.html#a52a4b2704e7f76d8ea296148cefb9482", null ],
-    [ "Name", "dc/d26/a28368.html#a9381717fdc924158ecd61a8f00488fc0", null ],
-    [ "PopulationLevel", "dc/d26/a28368.html#a63cdbd47c50f368974b43c3db2f32cee", null ],
-    [ "Port", "dc/d26/a28368.html#a0131d758f10cbae0c610c2c088299feb", null ],
-    [ "Timezone", "dc/d26/a28368.html#a377055c4729f21beecb8601cd79017db", null ],
-    [ "Type", "dc/d26/a28368.html#af77452a4cf7f632d692079615af4737c", null ]
+    [ "SetUp", "dc/d26/a28368.html#abb28ef64461635a540dad471b7b12ebc", null ],
+    [ "TearDown", "dc/d26/a28368.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
+    [ "arenaTeams", "dc/d26/a28368.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
+    [ "team1", "dc/d26/a28368.html#a325d8058950e53d17e16fd90cd105776", null ],
+    [ "team2", "dc/d26/a28368.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
+    [ "team3", "dc/d26/a28368.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
 ];

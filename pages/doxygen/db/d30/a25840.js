@@ -1,6 +1,7 @@
 var a25840 =
 [
-    [ "HandleEffect", "db/d30/a25840.html#a41b46d8918b59a1617f383b3eedfe343", null ],
-    [ "PrepareSpellScript", "db/d30/a25840.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
-    [ "Register", "db/d30/a25840.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
+    [ "OnRemove", "db/d30/a25840.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
+    [ "PrepareAuraScript", "db/d30/a25840.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
+    [ "Register", "db/d30/a25840.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
+    [ "Validate", "db/d30/a25840.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
 ];

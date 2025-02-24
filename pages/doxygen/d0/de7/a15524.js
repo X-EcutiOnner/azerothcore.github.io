@@ -1,10 +1,7 @@
 var a15524 =
 [
-    [ "npc_ameAI", "d0/de7/a15524.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
-    [ "JustDied", "d0/de7/a15524.html#a9b77f94f112477509c3163945ceb8201", null ],
-    [ "JustSummoned", "d0/de7/a15524.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
-    [ "Reset", "d0/de7/a15524.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
-    [ "UpdateAI", "d0/de7/a15524.html#a0a073e4c216985607aa51099044ff6c5", null ],
-    [ "WaypointReached", "d0/de7/a15524.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
-    [ "DemoralizingShoutTimer", "d0/de7/a15524.html#ab5d1786735adea4bce1bba8adf42a877", null ]
+    [ "npc_paoka_swiftmountainAI", "d0/de7/a15524.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "d0/de7/a15524.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "d0/de7/a15524.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "d0/de7/a15524.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
 ];

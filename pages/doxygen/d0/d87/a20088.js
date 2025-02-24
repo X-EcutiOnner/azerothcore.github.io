@@ -1,6 +1,7 @@
 var a20088 =
 [
-    [ "npc_ulduar_toasty_fireAI", "d8/d89/a20092.html", "d8/d89/a20092" ],
-    [ "npc_ulduar_toasty_fire", "d0/d87/a20088.html#a5a5b77088b24f1c5743c58034190d5ab", null ],
-    [ "GetAI", "d0/d87/a20088.html#a2518ec39c3cea2f3efc5000e0a7779d0", null ]
+    [ "HandleEffectPeriodic", "d0/d87/a20088.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "d0/d87/a20088.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "d0/d87/a20088.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "d0/d87/a20088.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

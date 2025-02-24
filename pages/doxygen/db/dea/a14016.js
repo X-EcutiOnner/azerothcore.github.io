@@ -1,7 +1,6 @@
 var a14016 =
 [
-    [ "FilterTargets", "db/dea/a14016.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
-    [ "HandleDummyEffect", "db/dea/a14016.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
-    [ "PrepareSpellScript", "db/dea/a14016.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
-    [ "Register", "db/dea/a14016.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
+    [ "npc_brewfest_bark_trigger", "db/dea/a14016.html#a110d654792e1f5dae8b17f014ea3d425", null ],
+    [ "GetTextFor", "db/dea/a14016.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
+    [ "MoveInLineOfSight", "db/dea/a14016.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
 ];

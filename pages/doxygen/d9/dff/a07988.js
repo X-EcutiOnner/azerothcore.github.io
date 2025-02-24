@@ -1,8 +1,5 @@
 var a07988 =
 [
-    [ "IsInSpec", "d9/dff/a07988.html#a77968b5562467f85bda04b6f2f41ca29", null ],
-    [ "inSpellBook", "d9/dff/a07988.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
-    [ "specMask", "d9/dff/a07988.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
-    [ "State", "d9/dff/a07988.html#a062758af7e92f7e2263ca0a0fd329151", null ],
-    [ "talentID", "d9/dff/a07988.html#aca9b191361652002f5178179a939e41b", null ]
+    [ "Name", "d9/dff/a07988.html#aa971d38e5169f2b7b610cf6cf0aec928", null ],
+    [ "Title", "d9/dff/a07988.html#a344cbaef4846d4c9c76e1d783dd2b4fc", null ]
 ];

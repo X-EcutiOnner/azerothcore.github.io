@@ -1,7 +1,9 @@
 var a25948 =
 [
-    [ "AfterRemove", "dc/de5/a25948.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
-    [ "PrepareAuraScript", "dc/de5/a25948.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
-    [ "Register", "dc/de5/a25948.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
-    [ "Validate", "dc/de5/a25948.html#ae08f33e0271166afa87208faa30684c4", null ]
+    [ "CountTargets", "dc/de5/a25948.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
+    [ "HandleDummy", "dc/de5/a25948.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
+    [ "PrepareSpellScript", "dc/de5/a25948.html#adfb7e3fbb52aa349573b95c457823900", null ],
+    [ "Register", "dc/de5/a25948.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
+    [ "Validate", "dc/de5/a25948.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
+    [ "_targetCount", "dc/de5/a25948.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
 ];

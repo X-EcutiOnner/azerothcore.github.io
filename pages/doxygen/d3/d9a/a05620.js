@@ -1,8 +1,6 @@
 var a05620 =
 [
-    [ "Statements", "d3/d9a/a05620.html#adaf49f7cb45d90cb041f979b1821e4a1", null ],
-    [ "WorldDatabaseConnection", "d3/d9a/a05620.html#a0c03387d2c019c86d1fe4933eca6aae5", null ],
-    [ "WorldDatabaseConnection", "d3/d9a/a05620.html#a015f79a049d37f742232bc5ac10e9551", null ],
-    [ "~WorldDatabaseConnection", "d3/d9a/a05620.html#a2feafa80fe8e838587d8f7b641c0ab09", null ],
-    [ "DoPrepareStatements", "d3/d9a/a05620.html#a280aa4a4571581c5cef8f9967631b484", null ]
+    [ "handler", "d3/d9a/a05620.html#a8074991652af9e5c8752dd4ff5e6e6cc", null ],
+    [ "packetSize", "d3/d9a/a05620.html#a952f7f7ff3017efa4c3d127baa848785", null ],
+    [ "status", "d3/d9a/a05620.html#aaf1066ba6414c519c889e3e8e52d38f2", null ]
 ];

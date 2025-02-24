@@ -1,14 +1,12 @@
 var a11720 =
 [
-    [ "boss_mor_grayhoof", "da/d4f/a11720.html#aef1001233a51ad3bb9963c540d39d79b", null ],
-    [ "CastRandomSpell", "da/d4f/a11720.html#a00756d64d24088ebf408153fcb59ff13", null ],
-    [ "DamageTaken", "da/d4f/a11720.html#a164a911eb9a86964a61866c05d44512f", null ],
-    [ "JustDied", "da/d4f/a11720.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
-    [ "JustEngagedWith", "da/d4f/a11720.html#a043f6ee099efd0d49982b2966604e65a", null ],
-    [ "Reset", "da/d4f/a11720.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
-    [ "UpdateAI", "da/d4f/a11720.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
-    [ "_phase", "da/d4f/a11720.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
-    [ "_scheduler", "da/d4f/a11720.html#ad2a897281d308475957e2636c6536fdd", null ],
-    [ "_sleepTargetGUID", "da/d4f/a11720.html#a8baa606696dc8acf532e8badfc6c624b", null ],
-    [ "_sleepTargetThreat", "da/d4f/a11720.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
+    [ "npc_av_marshal_or_warmasterAI", "da/d4f/a11720.html#af3620678992778edbb859622e057893a", null ],
+    [ "AttackStart", "da/d4f/a11720.html#aed39eaed8648ce78349c49ee33918b93", null ],
+    [ "EnterEvadeMode", "da/d4f/a11720.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
+    [ "JustRespawned", "da/d4f/a11720.html#a460c6912063587214ba0f2e01878d827", null ],
+    [ "Reset", "da/d4f/a11720.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
+    [ "UpdateAI", "da/d4f/a11720.html#a7bf1631810c8446bc157f8ff220199b7", null ],
+    [ "_attacked", "da/d4f/a11720.html#a56d7211a3565c19b499f7de2eda6c862", null ],
+    [ "_hasAura", "da/d4f/a11720.html#a1c0049100cde1c62daf80779d1135156", null ],
+    [ "events", "da/d4f/a11720.html#a49b8e01897cd5347bbd06cac254163f4", null ]
 ];

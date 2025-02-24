@@ -1,6 +1,6 @@
 var a13988 =
 [
-    [ "npc_brewfest_bark_trigger", "db/d48/a13988.html#a110d654792e1f5dae8b17f014ea3d425", null ],
-    [ "GetTextFor", "db/d48/a13988.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
-    [ "MoveInLineOfSight", "db/d48/a13988.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
+    [ "boss_wushoolayAI", "db/d48/a13988.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
+    [ "JustEngagedWith", "db/d48/a13988.html#af519da543fff63a39a6fbe48f90f2f22", null ],
+    [ "UpdateAI", "db/d48/a13988.html#acfaacee2a97212eb15056c1552b9e06b", null ]
 ];

@@ -1,20 +1,10 @@
 var a12332 =
 [
-    [ "boss_shade_of_aran", "d1/d40/a12332.html#a581351036c7e09de447f065a4ef82e03", null ],
-    [ "AttackStart", "d1/d40/a12332.html#a140ec9e0f968c42f9f003d9a52693884", null ],
-    [ "CheckAranInRoom", "d1/d40/a12332.html#a64779949875ab0d812746adb78123f7a", null ],
-    [ "DamageTaken", "d1/d40/a12332.html#a837e9284a2e2b3fe5467cca4fd09c60f", null ],
-    [ "JustDied", "d1/d40/a12332.html#ac79c249652f1de37b0c7d31a86dd0e51", null ],
-    [ "JustEngagedWith", "d1/d40/a12332.html#a11a9b1a8a24b9bc9965d655a6f856ef0", null ],
-    [ "KilledUnit", "d1/d40/a12332.html#ad7470576e9dd08d5fc47259d8de943b2", null ],
-    [ "OnPowerUpdate", "d1/d40/a12332.html#a3ac487d431bc444cd8c39bb813260737", null ],
-    [ "Reset", "d1/d40/a12332.html#a03def93f3e3f33d4f760e9f7c7c85d86", null ],
-    [ "SetGUID", "d1/d40/a12332.html#a92e6d82da2a865220432c919d8593d00", null ],
-    [ "UpdateAI", "d1/d40/a12332.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4", null ],
-    [ "_atieshReaction", "d1/d40/a12332.html#a88c6677edc8a37ac1e36fe6f1688d847", null ],
-    [ "_currentNormalSpell", "d1/d40/a12332.html#a4384769fb6eb868c612ed34cbb6b2409", null ],
-    [ "_drinking", "d1/d40/a12332.html#a84a6941826c6c2f1f70965e8909f796e", null ],
-    [ "_drinkScheduler", "d1/d40/a12332.html#a47e88dcf0027bd197350df7f80bc42d3", null ],
-    [ "_hasDrunk", "d1/d40/a12332.html#a93bec133a8a1ba41aa9eb86ff19e5eca", null ],
-    [ "_lastSuperSpell", "d1/d40/a12332.html#afe99b96811ff1e61ea6bbdce42fe8d7d", null ]
+    [ "boss_golemaggAI", "d1/d40/a12332.html#a79e2416a55a1531316d891ebff4e5575", null ],
+    [ "DamageTaken", "d1/d40/a12332.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
+    [ "Reset", "d1/d40/a12332.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
+    [ "UpdateAI", "d1/d40/a12332.html#af7b322731241dbb08041a92cd355f273", null ],
+    [ "earthquakeTimer", "d1/d40/a12332.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
+    [ "enraged", "d1/d40/a12332.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
+    [ "pyroblastTimer", "d1/d40/a12332.html#a142ededff85d517c08744bdafd644c34", null ]
 ];

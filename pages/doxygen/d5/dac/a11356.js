@@ -1,10 +1,11 @@
 var a11356 =
 [
-    [ "lfg_commandscript", "d5/dac/a11356.html#a90faaca821e4162e0aea40a4d98af62c", null ],
-    [ "GetCommands", "d5/dac/a11356.html#a324310f9b04675c277ceae44ea09fbaf", null ],
-    [ "HandleLfgCleanCommand", "d5/dac/a11356.html#a93db689dbdb97a0318d62409a863767e", null ],
-    [ "HandleLfgGroupInfoCommand", "d5/dac/a11356.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
-    [ "HandleLfgOptionsCommand", "d5/dac/a11356.html#a73187a97c883d8d1bb3765943dd98c39", null ],
-    [ "HandleLfgPlayerInfoCommand", "d5/dac/a11356.html#acdf12aff45f16904df5724ab158e3b97", null ],
-    [ "HandleLfgQueueInfoCommand", "d5/dac/a11356.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
+    [ "WorldUpdateTime", "d5/dac/a11356.html#a97552c4ce99bd40919f199c17fe203ed", null ],
+    [ "LoadFromConfig", "d5/dac/a11356.html#acb2b9d56504fc760e7df1c93621ab788", null ],
+    [ "RecordUpdateTime", "d5/dac/a11356.html#a88d773c8029cebeab6b99444c25c8379", null ],
+    [ "RecordUpdateTimeDuration", "d5/dac/a11356.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
+    [ "SetRecordUpdateTimeInterval", "d5/dac/a11356.html#ada81050229ccacc49d5b6a9f6101174c", null ],
+    [ "_lastRecordTime", "d5/dac/a11356.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
+    [ "_recordUpdateTimeInverval", "d5/dac/a11356.html#a5486477b0a604f0207336e423f42c2b1", null ],
+    [ "_recordUpdateTimeMin", "d5/dac/a11356.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
 ];

@@ -1,8 +1,6 @@
 var a04241 =
 [
-    [ "LIQUID_TILE_SIZE", "df/d88/a04241.html#a1596e8a465c0638086c77467a2dde3a6", null ],
-    [ "readChunk", "df/d88/a04241.html#a166f3eeee53079ac9df4f15ccd577974", null ],
-    [ "GAMEOBJECT_MODELS", "df/d88/a04241.html#ada4191301386f881525b3f0b0760cb60", null ],
-    [ "RAW_VMAP_MAGIC", "df/d88/a04241.html#ab44884fb6c05cb4ae128d5882a2c4b7c", null ],
-    [ "VMAP_MAGIC", "df/d88/a04241.html#aa7e5a571fdcb9d62ceefdcf5744746cb", null ]
+    [ "GameObjectModelOwnerBase", "d4/d79/a05020.html", "d4/d79/a05020" ],
+    [ "GameObjectModel", "d7/d17/a05024.html", "d7/d17/a05024" ],
+    [ "LoadGameObjectModelList", "df/d88/a04241.html#a5a80774080fc05f90c7d92213fda6788", null ]
 ];

@@ -1,6 +1,7 @@
 var a25024 =
 [
-    [ "HandleScriptEffect", "d4/d75/a25024.html#ab3f415ae783f2a778178cc3319b32773", null ],
-    [ "PrepareSpellScript", "d4/d75/a25024.html#a4ba7f7935c4acda891190dc375086dee", null ],
-    [ "Register", "d4/d75/a25024.html#ad9b1571b4faf7d0fc6df7f6a8eb05c8a", null ]
+    [ "PrepareSpellScript", "d4/d75/a25024.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "d4/d75/a25024.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "d4/d75/a25024.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "d4/d75/a25024.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

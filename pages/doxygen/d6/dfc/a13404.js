@@ -1,6 +1,6 @@
 var a13404 =
 [
-    [ "npc_lord_gregor_lescovarAI", "de/d88/a13408.html", "de/d88/a13408" ],
-    [ "npc_lord_gregor_lescovar", "d6/dfc/a13404.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
-    [ "GetAI", "d6/dfc/a13404.html#a4cf39729bb687c7db3538575a799283e", null ]
+    [ "npc_balance_of_light_and_shadowAI", "de/d88/a13408.html", "de/d88/a13408" ],
+    [ "npc_balance_of_light_and_shadow", "d6/dfc/a13404.html#a55229e3ea8dd9c52972185b36c08908b", null ],
+    [ "GetAI", "d6/dfc/a13404.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
 ];

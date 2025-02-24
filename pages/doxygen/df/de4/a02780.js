@@ -1,6 +1,6 @@
 var a02780 =
 [
-    [ "AuthSession", "d6/dea/a05610.html", "d6/dea/a05610" ],
-    [ "AccountInfo", "d9/dc0/a05606.html", "d9/dc0/a05606" ],
-    [ "compressBuff", "df/de4/a02780.html#a3ec87fe2f43cce4ee6bfb90744e72a0d", null ]
+    [ "AccountInfoQueryHolderPerRealm", "d0/dce/a10916.html", "d0/dce/a10916" ],
+    [ "REMOVE_VIOLATING_FLAGS", "df/de4/a02780.html#a9d7c4eaedbb2a06f275a5f59222bc747", null ],
+    [ "DefaultPlayerName", "df/de4/a02780.html#a586e06ca0d339349e13d81197056bb5f", null ]
 ];

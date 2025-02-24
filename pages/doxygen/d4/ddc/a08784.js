@@ -1,6 +1,8 @@
 var a08784 =
 [
-    [ "m_guid", "d4/ddc/a08784.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
-    [ "m_instance", "d4/ddc/a08784.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
-    [ "m_state", "d4/ddc/a08784.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
+    [ "Entry", "d4/ddc/a08784.html#ac9fa29db15e06513805124a56cd073e8", null ],
+    [ "ExtendedCost", "d4/ddc/a08784.html#ac826dc078ef456ed93bf23175bce243d", null ],
+    [ "Incrtime", "d4/ddc/a08784.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
+    [ "Item", "d4/ddc/a08784.html#aa500da847d94a9b70cb3a26b782059b3", null ],
+    [ "MaxCount", "d4/ddc/a08784.html#a04534ff42e5889995b5203a3257bc864", null ]
 ];

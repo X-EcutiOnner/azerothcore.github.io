@@ -1,12 +1,6 @@
 var a21300 =
 [
-    [ "boss_moraggAI", "df/dec/a21300.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "df/dec/a21300.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "df/dec/a21300.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "df/dec/a21300.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "df/dec/a21300.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "df/dec/a21300.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "df/dec/a21300.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "df/dec/a21300.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "df/dec/a21300.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "npc_azure_spellbreakerAI", "db/d5c/a21304.html", "db/d5c/a21304" ],
+    [ "npc_azure_spellbreaker", "df/dec/a21300.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
+    [ "GetAI", "df/dec/a21300.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
 ];

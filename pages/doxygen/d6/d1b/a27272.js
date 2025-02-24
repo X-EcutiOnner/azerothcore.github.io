@@ -1,5 +1,8 @@
 var a27272 =
 [
-    [ "go_massive_seaforium_charge", "d6/d1b/a27272.html#adae43b764f237932923cd18207e4d23c", null ],
-    [ "OnGossipHello", "d6/d1b/a27272.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
+    [ "trigger_periodicAI", "d6/d1b/a27272.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "d6/d1b/a27272.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "d6/d1b/a27272.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "d6/d1b/a27272.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "d6/d1b/a27272.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

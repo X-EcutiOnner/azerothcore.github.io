@@ -1,6 +1,7 @@
 var a19792 =
 [
-    [ "npc_mimirons_infernoAI", "da/d9d/a19796.html", "da/d9d/a19796" ],
-    [ "npc_mimirons_inferno", "d8/da4/a19792.html#a7a531a65a179b5d56c888c055b72d269", null ],
-    [ "GetAI", "d8/da4/a19792.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
+    [ "boss_flame_leviathan_safety_containerAI", "d8/da4/a19792.html#ab9191e20df488df184c468ca1ac41084", null ],
+    [ "MovementInform", "d8/da4/a19792.html#a1b472a233ebebbb4c1fbf639aeb4bed6", null ],
+    [ "UpdateAI", "d8/da4/a19792.html#a77b3a493c5650d91c903879db324651d", null ],
+    [ "_allowTimer", "d8/da4/a19792.html#a2185c9fe04fa7288fab452c5c1de3819", null ]
 ];

@@ -1,6 +1,6 @@
 var a19768 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "d9/df3/a19772.html", "d9/df3/a19772" ],
-    [ "boss_flame_leviathan_overload_device", "db/d55/a19768.html#ad00f601170c1af833aadb17eab5d19a8", null ],
-    [ "GetAI", "db/d55/a19768.html#a73988d2b1cfe61d0356ec1f317d90162", null ]
+    [ "npc_pool_of_tarAI", "db/d55/a19768.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
+    [ "DamageTaken", "db/d55/a19768.html#a4ea55aa08123f724268238e0def5b595", null ],
+    [ "SpellHit", "db/d55/a19768.html#acb63166b396c079d5b4bb9db67a1448a", null ]
 ];

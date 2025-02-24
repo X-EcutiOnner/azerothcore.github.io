@@ -1,6 +1,7 @@
 var a22648 =
 [
-    [ "PrepareSpellScript", "d9/dce/a22648.html#abd6b61e7efbed1427b7603640ac7d474", null ],
-    [ "RecalculateDamage", "d9/dce/a22648.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
-    [ "Register", "d9/dce/a22648.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
+    [ "OnPeriodic", "d9/dce/a22648.html#a165d47b116b0a53e37b05f664960e6ec", null ],
+    [ "PrepareAuraScript", "d9/dce/a22648.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
+    [ "Register", "d9/dce/a22648.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
+    [ "Validate", "d9/dce/a22648.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
 ];

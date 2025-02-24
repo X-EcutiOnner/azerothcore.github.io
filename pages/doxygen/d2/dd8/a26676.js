@@ -1,6 +1,7 @@
 var a26676 =
 [
-    [ "CheckCast", "d2/dd8/a26676.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
-    [ "PrepareSpellScript", "d2/dd8/a26676.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
-    [ "Register", "d2/dd8/a26676.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
+    [ "HandleTeleport", "d2/dd8/a26676.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "d2/dd8/a26676.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "d2/dd8/a26676.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "d2/dd8/a26676.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

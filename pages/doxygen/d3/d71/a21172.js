@@ -1,6 +1,6 @@
 var a21172 =
 [
-    [ "HandlePeriodicDummy", "d3/d71/a21172.html#a4d68f9d9021ec28fde64c38bce3f5bb2", null ],
-    [ "PrepareAuraScript", "d3/d71/a21172.html#aad803ad4c185075a66f792e0aef9be2c", null ],
-    [ "Register", "d3/d71/a21172.html#a48357a7c879ddd51710554918b92f6ce", null ]
+    [ "boss_ichoronAI", "de/da9/a21176.html", "de/da9/a21176" ],
+    [ "boss_ichoron", "d3/d71/a21172.html#ad4390da77a130edaf050d0bef3926882", null ],
+    [ "GetAI", "d3/d71/a21172.html#a68051088dc2d2c738b042e2df0436b28", null ]
 ];

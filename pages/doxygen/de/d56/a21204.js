@@ -1,7 +1,6 @@
 var a21204 =
 [
-    [ "PrepareAuraScript", "de/d56/a21204.html#a633dc25fd58f0fb396b72103a1ec42d6", null ],
-    [ "Register", "de/d56/a21204.html#ab46535a9b6fae458671cccbcdfc81eb9", null ],
-    [ "TriggerFists", "de/d56/a21204.html#a912417196f46d7bdf6620cb4cb0a3698", null ],
-    [ "Validate", "de/d56/a21204.html#a66a353872f430244e09fac32cadb1aa4", null ]
+    [ "HandleEffectPeriodic", "de/d56/a21204.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "de/d56/a21204.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "de/d56/a21204.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

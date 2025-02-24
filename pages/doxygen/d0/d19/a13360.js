@@ -1,10 +1,8 @@
 var a13360 =
 [
-    [ "npc_grand_magister_rommathAI", "d0/d19/a13360.html#a5e9404dd8bf4b513e05daac53c076314", null ],
-    [ "DoAction", "d0/d19/a13360.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
-    [ "MoveInLineOfSight", "d0/d19/a13360.html#ad35b64b37915484b133bcd185a832011", null ],
-    [ "UpdateAI", "d0/d19/a13360.html#ac687bd20f0ae66b21ce52c21561af417", null ],
-    [ "announced", "d0/d19/a13360.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
-    [ "events", "d0/d19/a13360.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
-    [ "playerGUID", "d0/d19/a13360.html#ad0ac0647feb998e837a44b0a688694e9", null ]
+    [ "HandleEffectApply", "d0/d19/a13360.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "d0/d19/a13360.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "d0/d19/a13360.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "d0/d19/a13360.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "d0/d19/a13360.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

@@ -1,12 +1,5 @@
 var a07080 =
 [
-    [ "BGQueueRemoveEvent", "d5/d58/a07080.html#ab751b728f64b2928eefb21f756539d81", null ],
-    [ "~BGQueueRemoveEvent", "d5/d58/a07080.html#aab9ea24041888975439aafb246c571c3", null ],
-    [ "Abort", "d5/d58/a07080.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
-    [ "Execute", "d5/d58/a07080.html#a42482ff784da4b23b568888a74a0b531", null ],
-    [ "m_BgInstanceGUID", "d5/d58/a07080.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
-    [ "m_BgQueueTypeId", "d5/d58/a07080.html#ac059a823ae49bd0250eec15845bf153b", null ],
-    [ "m_BgTypeId", "d5/d58/a07080.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
-    [ "m_PlayerGuid", "d5/d58/a07080.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
-    [ "m_RemoveTime", "d5/d58/a07080.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
+    [ "AuctionSearchRemove", "d5/d58/a07080.html#a5a93de23f32eb653e9df2df3e2d11bcb", null ],
+    [ "auctionId", "d5/d58/a07080.html#a6e18c3999d22c1972314b4a20ed8b62f", null ]
 ];

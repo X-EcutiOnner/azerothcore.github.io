@@ -1,7 +1,29 @@
 var a04795 =
 [
-    [ "indices", "d5/df7/a04795.html#a23cadbd54502fb4edc68e052e5774664", null ],
-    [ "maxPrims", "d5/df7/a04795.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
-    [ "numPrims", "d5/df7/a04795.html#a623b9ee05707ecdbaa816c797e358e86", null ],
-    [ "primBound", "d5/df7/a04795.html#a3304ad5d821f178941fd44da897213de", null ]
+    [ "Bank", "d9/d75/a04805.html", "d9/d75/a04805" ],
+    [ "Character", "d1/d77/a04806.html", "d1/d77/a04806" ],
+    [ "Chat", "d1/da9/a04807.html", "d1/da9/a04807" ],
+    [ "Combat", "d0/d6d/a04809.html", "d0/d6d/a04809" ],
+    [ "CombatLog", "dc/d27/a04808.html", "dc/d27/a04808" ],
+    [ "Guild", "d8/dc6/a04796.html", "d8/dc6/a04796" ],
+    [ "LFG", "de/d85/a04810.html", "de/d85/a04810" ],
+    [ "Misc", "d8/d95/a04811.html", "d8/d95/a04811" ],
+    [ "Pet", "d0/d05/a04813.html", "d0/d05/a04813" ],
+    [ "Strings", "d9/d3b/a04812.html", "d9/d3b/a04812" ],
+    [ "Totem", "d0/de6/a04814.html", "d0/de6/a04814" ],
+    [ "WorldState", "d2/d04/a04815.html", "d2/d04/a04815" ],
+    [ "Array", "d9/d93/a10800.html", "d9/d93/a10800" ],
+    [ "ClientPacket", "df/d30/a10392.html", "df/d30/a10392" ],
+    [ "CompactArray", "d6/d1c/a10804.html", "d6/d1c/a10804" ],
+    [ "IllegalHyperlinkException", "d7/d89/a10768.html", "d7/d89/a10768" ],
+    [ "InvalidHyperlinkException", "df/d96/a10764.html", "df/d96/a10764" ],
+    [ "InvalidStringValueException", "dc/d2d/a10756.html", "dc/d2d/a10756" ],
+    [ "InvalidUtf8ValueException", "dd/d26/a10760.html", "dd/d26/a10760" ],
+    [ "Packet", "d4/d1e/a10384.html", "d4/d1e/a10384" ],
+    [ "PacketArrayMaxCapacityException", "dc/da5/a10796.html", "dc/da5/a10796" ],
+    [ "ServerPacket", "d5/dce/a10388.html", "d5/dce/a10388" ],
+    [ "String", "d3/df1/a10792.html", "d3/df1/a10792" ],
+    [ "CheckCompactArrayMaskOverflow", "d5/df7/a04795.html#afb4909c8c4c13b14c8eceda2e9b4246d", null ],
+    [ "operator<<", "d5/df7/a04795.html#a82e35db0d6b671a4f4a581aac05828dc", null ],
+    [ "operator>>", "d5/df7/a04795.html#ab21e8e534a45a2a33d69cd11562a45c6", null ]
 ];

@@ -1,6 +1,10 @@
 var a24664 =
 [
-    [ "CalculateAmount", "dc/d39/a24664.html#a66fd870eff0f2a225630e26047d36225", null ],
-    [ "PrepareAuraScript", "dc/d39/a24664.html#afde8a1734c57e01094077af3d3bdf757", null ],
-    [ "Register", "dc/d39/a24664.html#a8e5b9dd71dfccb224e92784725f2a8a9", null ]
+    [ "HandleEffectApply", "dc/d39/a24664.html#ac977d07e0b054af33345538f10d80c56", null ],
+    [ "HandleEffectRemove", "dc/d39/a24664.html#acd9c460acb60eae5db8874c246014147", null ],
+    [ "PrepareAuraScript", "dc/d39/a24664.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
+    [ "Register", "dc/d39/a24664.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
+    [ "_hasFlag", "dc/d39/a24664.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
+    [ "_itemId", "dc/d39/a24664.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
+    [ "_modelId", "dc/d39/a24664.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
 ];

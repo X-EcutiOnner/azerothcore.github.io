@@ -1,5 +1,5 @@
 var a27260 =
 [
-    [ "go_dragonflayer_cage", "d3/d05/a27260.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
-    [ "OnGossipHello", "d3/d05/a27260.html#a542530a0b84879b21a4b9982cf4300d0", null ]
+    [ "item_captured_frog", "d3/d05/a27260.html#ad41b743c98c9534453eca8cf1f367366", null ],
+    [ "OnUse", "d3/d05/a27260.html#a1156467ca046a077ea494f92c488bf54", null ]
 ];

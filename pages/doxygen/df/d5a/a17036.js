@@ -1,7 +1,6 @@
 var a17036 =
 [
-    [ "HandleDummy", "df/d5a/a17036.html#a367f4ebd296aa0fd54ff9ef6185a1c92", null ],
-    [ "PrepareSpellScript", "df/d5a/a17036.html#ab6e33bf137a54c9cd792aefb0ecd2ef1", null ],
-    [ "Register", "df/d5a/a17036.html#a371073fb37337719115242fc8758026f", null ],
-    [ "Validate", "df/d5a/a17036.html#ad5df08da54defc89a7a552c39de089c3", null ]
+    [ "boss_eckAI", "d4/d50/a17040.html", "d4/d50/a17040" ],
+    [ "boss_eck", "df/d5a/a17036.html#aa445927936d7759a8c3289e2899181e5", null ],
+    [ "GetAI", "df/d5a/a17036.html#a335755ec7416d3e00a4070e03569293a", null ]
 ];

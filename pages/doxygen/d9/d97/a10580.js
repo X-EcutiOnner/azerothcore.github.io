@@ -1,8 +1,6 @@
 var a10580 =
 [
-    [ "PetSpellAutocast", "d9/d97/a10580.html#ab858647d14031a2a6109d1e923402d08", null ],
-    [ "Read", "d9/d97/a10580.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
-    [ "AutocastEnabled", "d9/d97/a10580.html#a3c04543dcd5382682654b3860b84c6a3", null ],
-    [ "PetGUID", "d9/d97/a10580.html#aeed828abebf683078ee61204c91e28c9", null ],
-    [ "SpellID", "d9/d97/a10580.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
+    [ "GuildUpdateInfoText", "d9/d97/a10580.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
+    [ "Read", "d9/d97/a10580.html#a7019344fef99c5479602d7bc1176e9ee", null ],
+    [ "InfoText", "d9/d97/a10580.html#a786802ce427465d66a4cea1365743975", null ]
 ];

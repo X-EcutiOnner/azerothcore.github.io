@@ -1,13 +1,9 @@
 var a27400 =
 [
-    [ "npc_nelsonAI", "de/d92/a27400.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
-    [ "DoAction", "de/d92/a27400.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
-    [ "JustEngagedWith", "de/d92/a27400.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
-    [ "JustSummoned", "de/d92/a27400.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
-    [ "Reset", "de/d92/a27400.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
-    [ "SpellHit", "de/d92/a27400.html#afab81d8a6077c755c186bb619944d78d", null ],
-    [ "SummonedCreatureDies", "de/d92/a27400.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
-    [ "UpdateAI", "de/d92/a27400.html#ac68749942f37de5f9105556fe7b904b7", null ],
-    [ "events", "de/d92/a27400.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
-    [ "shouldDespawn", "de/d92/a27400.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
+    [ "npc_chicken_cluckAI", "de/d92/a27400.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
+    [ "JustEngagedWith", "de/d92/a27400.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
+    [ "ReceiveEmote", "de/d92/a27400.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
+    [ "Reset", "de/d92/a27400.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
+    [ "UpdateAI", "de/d92/a27400.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
+    [ "ResetFlagTimer", "de/d92/a27400.html#a0d0507ae7a1eca369df288515856e1b5", null ]
 ];

@@ -1,6 +1,6 @@
 var a12712 =
 [
-    [ "npc_mograineAI", "d9/de6/a12716.html", "d9/de6/a12716" ],
-    [ "npc_mograine", "d0/d6c/a12712.html#a0e840923de338abd46f962fb55253bf5", null ],
-    [ "GetAI", "d0/d6c/a12712.html#a6880708a0e4575ff48e0bade859857bf", null ]
+    [ "HandleAfterCast", "d0/d6c/a12712.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
+    [ "PrepareSpellScript", "d0/d6c/a12712.html#aa0956db2d03405a54893bc30516f5839", null ],
+    [ "Register", "d0/d6c/a12712.html#a45726adacf1d30b5488df54f57447c0c", null ]
 ];

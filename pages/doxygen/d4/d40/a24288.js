@@ -1,6 +1,8 @@
 var a24288 =
 [
-    [ "npc_pet_dk_ebon_gargoyleAI", "d7/d44/a24292.html", "d7/d44/a24292" ],
-    [ "npc_pet_dk_ebon_gargoyle", "d4/d40/a24288.html#ae4dcaff120a52c20a8b73d97a08604d7", null ],
-    [ "GetAI", "d4/d40/a24288.html#a19ff9fd627aab738c91ce23cf6acfffd", null ]
+    [ "npc_pet_darting_hatchling", "d4/d40/a24288.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "d4/d40/a24288.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "d4/d40/a24288.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "d4/d40/a24288.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "d4/d40/a24288.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

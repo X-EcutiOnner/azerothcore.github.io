@@ -1,5 +1,6 @@
 var a19772 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "d9/df3/a19772.html#ab28c1371c20672e717f92fbc3656fb99", null ],
-    [ "OnSpellClick", "d9/df3/a19772.html#af432be27e1b91ecf5a5a53c7b6add39e", null ]
+    [ "npc_brann_radioAI", "da/d2a/a19776.html", "da/d2a/a19776" ],
+    [ "npc_brann_radio", "d9/df3/a19772.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
+    [ "GetAI", "d9/df3/a19772.html#aa2ea91337262fb886e7535ba013f4b10", null ]
 ];

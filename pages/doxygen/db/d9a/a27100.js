@@ -1,6 +1,7 @@
 var a27100 =
 [
-    [ "go_witherbark_totem_bundleAI", "d8/d3b/a27104.html", "d8/d3b/a27104" ],
-    [ "go_witherbark_totem_bundle", "db/d9a/a27100.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "db/d9a/a27100.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "go_brewfest_musicAI", "db/d9a/a27100.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "db/d9a/a27100.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "db/d9a/a27100.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "db/d9a/a27100.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

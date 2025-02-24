@@ -1,9 +1,14 @@
 var a14792 =
 [
-    [ "spell_gen_ayamiss_swarmer_loop", "d2/d50/a14792.html#ad910e172ef6866f102fa3407f676169a", null ],
-    [ "HandleScript", "d2/d50/a14792.html#acd0dffad436cb414deb546b192957783", null ],
-    [ "Load", "d2/d50/a14792.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
-    [ "PrepareSpellScript", "d2/d50/a14792.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
-    [ "Register", "d2/d50/a14792.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
-    [ "_pathId", "d2/d50/a14792.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
+    [ "boss_ayamiss", "d2/d50/a14792.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
+    [ "DoAction", "d2/d50/a14792.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
+    [ "EnterEvadeMode", "d2/d50/a14792.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
+    [ "JustDied", "d2/d50/a14792.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
+    [ "JustEngagedWith", "d2/d50/a14792.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
+    [ "JustSummoned", "d2/d50/a14792.html#a4281f761256cd93c19aea0a76239512d", null ],
+    [ "MovementInform", "d2/d50/a14792.html#a6bc1f0767785efb5a5fb005b49338032", null ],
+    [ "Reset", "d2/d50/a14792.html#a10111f97236c2846181aa20f7d9b64fd", null ],
+    [ "ScheduleTasks", "d2/d50/a14792.html#a166238b9395a426a7333cf71a38c6c5c", null ],
+    [ "_swarmers", "d2/d50/a14792.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
+    [ "homePos", "d2/d50/a14792.html#ab098ee0f8872d1cf9d34993c01971921", null ]
 ];

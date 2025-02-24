@@ -1,6 +1,6 @@
 var a16096 =
 [
-    [ "npc_black_knight_ghoulAI", "d5/d86/a16100.html", "d5/d86/a16100" ],
-    [ "npc_black_knight_ghoul", "d1/d43/a16096.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
-    [ "GetAI", "d1/d43/a16096.html#a52308f8d168e1ccea22de653813b7f6f", null ]
+    [ "FilterTargets", "d1/d43/a16096.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
+    [ "PrepareSpellScript", "d1/d43/a16096.html#a5ede43deece629a38f5482280983b59a", null ],
+    [ "Register", "d1/d43/a16096.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
 ];

@@ -1,9 +1,11 @@
 var a19900 =
 [
-    [ "Absorb", "d4/dfa/a19900.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "d4/dfa/a19900.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "d4/dfa/a19900.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "d4/dfa/a19900.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "d4/dfa/a19900.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "d4/dfa/a19900.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "boss_freya_elder_brightleafAI", "d4/dfa/a19900.html#a53de463d34b808b4c5d459e1339f6f30", null ],
+    [ "JustDied", "d4/dfa/a19900.html#aeea7300081f645d3fa83df6841c5a497", null ],
+    [ "JustEngagedWith", "d4/dfa/a19900.html#a956adeb9b6ea0c8fa71bdcbd3735c79d", null ],
+    [ "KilledUnit", "d4/dfa/a19900.html#a47935d017a2d34a888acb4079d3ff9aa", null ],
+    [ "Reset", "d4/dfa/a19900.html#aee11d2e1fad8bc1b18c17b1527610914", null ],
+    [ "UpdateAI", "d4/dfa/a19900.html#af28f94f278d279513d7f72cdc36528d4", null ],
+    [ "events", "d4/dfa/a19900.html#a45b4f0d12497dd8e3ffc1cde429116f6", null ],
+    [ "summons", "d4/dfa/a19900.html#a456123135a7fb4595d611a9e3995f461", null ]
 ];

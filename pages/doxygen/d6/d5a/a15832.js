@@ -1,14 +1,9 @@
 var a15832 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "d6/d5a/a15832.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
-    [ "CheckAchievementCriteriaMeet", "d6/d5a/a15832.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
-    [ "DoAction", "d6/d5a/a15832.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
-    [ "GetGuidData", "d6/d5a/a15832.html#a01da8216f57e19b5bf8697700089118c", null ],
-    [ "OnCreatureCreate", "d6/d5a/a15832.html#aa0fd6fae9a274e483765c0b5c1ff7ba3", null ],
-    [ "m_uiPortalGUID", "d6/d5a/a15832.html#a166db22fd409d0387085053852e5ad30", null ],
-    [ "m_uiSartharionGUID", "d6/d5a/a15832.html#a17b8e9a050eb6302258119c3b4f5f1bf", null ],
-    [ "m_uiShadronGUID", "d6/d5a/a15832.html#a5c6a46069a87340f9e8d5e4830b8a2ed", null ],
-    [ "m_uiTenebronGUID", "d6/d5a/a15832.html#afc7daf2b0eb18fa999ff3dae42fc4da2", null ],
-    [ "m_uiVesperonGUID", "d6/d5a/a15832.html#a7408fc1c0d61c7db01bdd4f517080139", null ],
-    [ "portalCount", "d6/d5a/a15832.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
+    [ "boss_sartharion_vesperonAI", "d6/d5a/a15832.html#afd67bf2c7a479771976673b05b0fc29e", null ],
+    [ "ClearInstance", "d6/d5a/a15832.html#aad9556374e26cbea7641461510fef9ba", null ],
+    [ "ExecuteEvent", "d6/d5a/a15832.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09", null ],
+    [ "HandleExtraEvent", "d6/d5a/a15832.html#ab2080a14c105aeb6a9c155cf6f4ec17d", null ],
+    [ "Reset", "d6/d5a/a15832.html#aacf26c52f77ef4eb084814934f00aab1", null ],
+    [ "SummonedCreatureDies", "d6/d5a/a15832.html#a1e6fc9b1c734e73e5e27f6a17cf65d0b", null ]
 ];

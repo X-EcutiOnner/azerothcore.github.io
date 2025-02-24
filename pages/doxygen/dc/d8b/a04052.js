@@ -1,9 +1,6 @@
 var a04052 =
 [
-    [ "MySQLHandle", "db/d48/a05698.html", null ],
-    [ "MySQLResult", "d1/dc4/a05702.html", null ],
-    [ "MySQLField", "d3/d7c/a05706.html", null ],
-    [ "MySQLBind", "d4/d00/a05710.html", null ],
-    [ "MySQLStmt", "d1/d9f/a05714.html", null ],
-    [ "MySQLBool", "dc/d8b/a04052.html#a9962b927652e90357369e67230dbc127", null ]
+    [ "CharacterDatabase", "dc/d8b/a04052.html#a7e7534bc66d79434bd280b77cb124eec", null ],
+    [ "LoginDatabase", "dc/d8b/a04052.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
+    [ "WorldDatabase", "dc/d8b/a04052.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
 ];

@@ -1,6 +1,7 @@
 var a21408 =
 [
-    [ "npc_azure_captainAI", "d7/d7c/a21412.html", "d7/d7c/a21412" ],
-    [ "npc_azure_captain", "d4/d70/a21408.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
-    [ "GetAI", "d4/d70/a21408.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
+    [ "npc_mootoo_the_youngerAI", "d7/d7c/a21412.html", "d7/d7c/a21412" ],
+    [ "npc_mootoo_the_younger", "d4/d70/a21408.html#a91e10489ed6a98cfa764fd4de8448317", null ],
+    [ "GetAI", "d4/d70/a21408.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
+    [ "OnQuestAccept", "d4/d70/a21408.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
 ];

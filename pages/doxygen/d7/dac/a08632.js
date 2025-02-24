@@ -1,9 +1,11 @@
 var a08632 =
 [
-    [ "CreatureSearcher", "d7/dac/a08632.html#ac6fc899c41c2a93f530fa53c693f0df8", null ],
-    [ "Visit", "d7/dac/a08632.html#a50630891bfb459c6c526b3e4e7e29136", null ],
-    [ "Visit", "d7/dac/a08632.html#a503aab809be6f5d60c020e89c64dce7b", null ],
-    [ "i_check", "d7/dac/a08632.html#abc72e56d9453d798fcb457aff023d3ac", null ],
-    [ "i_object", "d7/dac/a08632.html#af31c7a1cf3f03a42d7fe66836e306b85", null ],
-    [ "i_phaseMask", "d7/dac/a08632.html#a5fa5777da405c57700a7e1ea7d5f94cf", null ]
+    [ "UnitActionBarEntry", "d7/dac/a08632.html#a41f9020c4811b14fc543ddece6af86d7", null ],
+    [ "GetAction", "d7/dac/a08632.html#afd77e2f64ec856059759d05ddf77876e", null ],
+    [ "GetType", "d7/dac/a08632.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
+    [ "IsActionBarForSpell", "d7/dac/a08632.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
+    [ "SetAction", "d7/dac/a08632.html#aa00953783b0b3de3beb755a054c77730", null ],
+    [ "SetActionAndType", "d7/dac/a08632.html#a110840d38445795957ee0425175b4fb6", null ],
+    [ "SetType", "d7/dac/a08632.html#a38e0dcad391d09e475f90be5a5382f78", null ],
+    [ "packedData", "d7/dac/a08632.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
 ];

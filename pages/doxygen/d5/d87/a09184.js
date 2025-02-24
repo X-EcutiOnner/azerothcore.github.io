@@ -1,13 +1,9 @@
 var a09184 =
 [
-    [ "GroupReference", "d5/d87/a09184.html#ab1a008e85d413c67696d4d568a98bde7", null ],
-    [ "~GroupReference", "d5/d87/a09184.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
-    [ "getSubGroup", "d5/d87/a09184.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
-    [ "next", "d5/d87/a09184.html#a6f8f406f1209dd7060904d40f5424b41", null ],
-    [ "next", "d5/d87/a09184.html#ac913ec0703c28cda068375d01c9cd72d", null ],
-    [ "setSubGroup", "d5/d87/a09184.html#a303caf55ea463398237e6a825f30b143", null ],
-    [ "sourceObjectDestroyLink", "d5/d87/a09184.html#a458157654c27def9b36b68ae099ca7b3", null ],
-    [ "targetObjectBuildLink", "d5/d87/a09184.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
-    [ "targetObjectDestroyLink", "d5/d87/a09184.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
-    [ "iSubGroup", "d5/d87/a09184.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
+    [ "GameObjectLastSearcher", "d5/d87/a09184.html#a9f478f784f46fa502910f621f10238f2", null ],
+    [ "Visit", "d5/d87/a09184.html#a2ba394a2da9f72c7621567092c175f0b", null ],
+    [ "Visit", "d5/d87/a09184.html#a4298bd100890e61a34e827f96d70e752", null ],
+    [ "i_check", "d5/d87/a09184.html#a06f8a6b33e26cdc17508198a9ee08f87", null ],
+    [ "i_object", "d5/d87/a09184.html#a4573ba382a79a34f6c006b7c175f84f1", null ],
+    [ "i_phaseMask", "d5/d87/a09184.html#a7130ecacc379e9f41779a8e0f422b32c", null ]
 ];

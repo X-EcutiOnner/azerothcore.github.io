@@ -1,8 +1,6 @@
 var a08968 =
 [
-    [ "NearestGameObjectCheck", "dd/d24/a08968.html#aa8ede7ca83cc53cc5b4a8a057f6e8477", null ],
-    [ "NearestGameObjectCheck", "dd/d24/a08968.html#a366ef1710823d1e52eb2df650e60562f", null ],
-    [ "operator()", "dd/d24/a08968.html#a00df56adb5c6459c59b5ae4e0b85f0d3", null ],
-    [ "i_obj", "dd/d24/a08968.html#aeaec0e0f53cb870e1f0a93f8b05b74bc", null ],
-    [ "i_range", "dd/d24/a08968.html#a92fc9a7ac2995ad962173ae3a794e825", null ]
+    [ "EmoteDelay", "dd/d24/a08968.html#a053adbedc95026b192360e13d32c9401", null ],
+    [ "EmoteType", "dd/d24/a08968.html#aa5189cb250b3f46086ecd69dee23414b", null ],
+    [ "Greeting", "dd/d24/a08968.html#a84aa5fced9b8989487d1468c4eccb976", null ]
 ];

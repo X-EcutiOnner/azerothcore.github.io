@@ -1,7 +1,7 @@
 var a15484 =
 [
-    [ "npc_lakota_windsongAI", "d1/d7e/a15488.html", "d1/d7e/a15488" ],
-    [ "npc_lakota_windsong", "d7/d34/a15484.html#a08a585ac36189ec23354c7acb26d223d", null ],
-    [ "GetAI", "d7/d34/a15484.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
-    [ "OnQuestAccept", "d7/d34/a15484.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
+    [ "npc_giltharesAI", "d7/d34/a15484.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "d7/d34/a15484.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "d7/d34/a15484.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "d7/d34/a15484.html#a9308c73760e50e0f3d04031b508526d1", null ]
 ];

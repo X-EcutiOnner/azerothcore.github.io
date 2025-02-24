@@ -1,8 +1,9 @@
 var a12428 =
 [
-    [ "npc_barnesAI", "de/d33/a12432.html", "de/d33/a12432" ],
-    [ "npc_barnes", "db/dd1/a12428.html#aacdc737a94397a90b48b635293fe9c80", null ],
-    [ "GetAI", "db/dd1/a12428.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
-    [ "OnGossipHello", "db/dd1/a12428.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
-    [ "OnGossipSelect", "db/dd1/a12428.html#aa04d577e318f16f581f82761b6014eb5", null ]
+    [ "npc_flamewaker_priestAI", "db/dd1/a12428.html#aa0508dda5bc365896128f088b6de30f4", null ],
+    [ "JustDied", "db/dd1/a12428.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
+    [ "JustEngagedWith", "db/dd1/a12428.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
+    [ "Reset", "db/dd1/a12428.html#a3c3629a6c6987e861e40a893363d2508", null ],
+    [ "UpdateAI", "db/dd1/a12428.html#a28c0ed65521f3d2150874ddc1b913933", null ],
+    [ "events", "db/dd1/a12428.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
 ];

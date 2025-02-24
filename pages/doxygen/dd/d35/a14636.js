@@ -1,7 +1,14 @@
 var a14636 =
 [
-    [ "npc_tarethaAI", "d5/dd0/a14640.html", "d5/dd0/a14640" ],
-    [ "npc_taretha", "dd/d35/a14636.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "dd/d35/a14636.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "dd/d35/a14636.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "boss_captain_skarloc", "dd/d35/a14636.html#a196477160ab6d07dc644ddadf756a1e0", null ],
+    [ "InitializeAI", "dd/d35/a14636.html#a1c67fb99984f666b63f8f79c6783341d", null ],
+    [ "JustDied", "dd/d35/a14636.html#aca0d536010a53efdf9270146f15f9058", null ],
+    [ "JustEngagedWith", "dd/d35/a14636.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
+    [ "JustSummoned", "dd/d35/a14636.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
+    [ "KilledUnit", "dd/d35/a14636.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
+    [ "MovementInform", "dd/d35/a14636.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
+    [ "Reset", "dd/d35/a14636.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
+    [ "UpdateAI", "dd/d35/a14636.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
+    [ "_spawnedAdds", "dd/d35/a14636.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
+    [ "summons", "dd/d35/a14636.html#a83a9e5971411de1c136cbad91f73f487", null ]
 ];

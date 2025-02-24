@@ -1,5 +1,6 @@
 var a09828 =
 [
-    [ "ScriptId", "df/d7e/a09828.html#a6b17e959f80e7b3f2f3352a345eebcf9", null ],
-    [ "TypeId", "df/d7e/a09828.html#aaddf1f172211966f5d727e6238889223", null ]
+    [ "aiNotifyDelay", "df/d7e/a09828.html#af70453021c5ded85c73a4d5559dca2ea", null ],
+    [ "requiredMoveDistanceSq", "df/d7e/a09828.html#aaa4faa0170181e409940b5441eb2f586", null ],
+    [ "visibilityNotifyDelay", "df/d7e/a09828.html#ad566fd5eff102929247b75cf5092a60b", null ]
 ];

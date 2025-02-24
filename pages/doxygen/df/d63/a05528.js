@@ -1,9 +1,13 @@
 var a05528 =
 [
-    [ "AccountFlags", "df/d63/a05528.html#aa8e111f748d165f854b2deff5a81577f", null ],
-    [ "cmd", "df/d63/a05528.html#a5846630b9df94b9f4784e59e7f320257", null ],
-    [ "error", "df/d63/a05528.html#a5cbbda99be5cd0549dd43fc0e546007e", null ],
-    [ "LoginFlags", "df/d63/a05528.html#adb807963195c0abbb840aca64499f630", null ],
-    [ "M2", "df/d63/a05528.html#a2199b33bc93fb6a8add5ba36eab0514e", null ],
-    [ "SurveyId", "df/d63/a05528.html#ad05c428ccd8fbdce40dc4f337de19fb8", null ]
+    [ "IntervalTimer", "df/d63/a05528.html#a2538976b639e25e63a8ab5927663ade1", null ],
+    [ "GetCurrent", "df/d63/a05528.html#a93a456d6ff6d74cc889517fc585626e8", null ],
+    [ "GetInterval", "df/d63/a05528.html#a986bec1dcb7325088517f6721636abcc", null ],
+    [ "Passed", "df/d63/a05528.html#a9b3ac2407baf9763fa899e35a5c55fbe", null ],
+    [ "Reset", "df/d63/a05528.html#ae243f18c4c3174b91fa01f6d08b04d4d", null ],
+    [ "SetCurrent", "df/d63/a05528.html#ab315f686c2777dc21c824d8674479f9f", null ],
+    [ "SetInterval", "df/d63/a05528.html#a28d95330f971d3a37aaf53e4f16aad4a", null ],
+    [ "Update", "df/d63/a05528.html#aa1f5b922ea2d95c49924a506ca37a676", null ],
+    [ "_current", "df/d63/a05528.html#a99c5aec27af00ffbbd83c5adbd2e2016", null ],
+    [ "_interval", "df/d63/a05528.html#a179584ce91f62ba5e74ae3f34ee32fbc", null ]
 ];

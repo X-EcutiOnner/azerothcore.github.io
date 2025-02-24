@@ -1,10 +1,10 @@
 var a05256 =
 [
-    [ "Category", "da/d44/a05256.html#a6a7956fedac99271428968ba339f464f", null ],
-    [ "Tags", "da/d44/a05256.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
-    [ "Text", "da/d44/a05256.html#ab63598f64896186fde81048550767b28", null ],
-    [ "Timestamp", "da/d44/a05256.html#a8248a27d920ca431493750e3f2dec48b", null ],
-    [ "Title", "da/d44/a05256.html#a857d2d4843480b9967334f079351292a", null ],
-    [ "Type", "da/d44/a05256.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
-    [ "Value", "da/d44/a05256.html#a09832a09e989c3851e72f4ec198f0e20", null ]
+    [ "Find", "da/d44/a05256.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
+    [ "GetElements", "da/d44/a05256.html#a653b00a9d570ae9d9276a061beda3f35", null ],
+    [ "GetElements", "da/d44/a05256.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
+    [ "Insert", "da/d44/a05256.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
+    [ "Remove", "da/d44/a05256.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
+    [ "Size", "da/d44/a05256.html#a289258c9015016a70d2867df7e113def", null ],
+    [ "_elements", "da/d44/a05256.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
 ];

@@ -1,5 +1,4 @@
 var a22456 =
 [
-    [ "OutdoorPvP_grizzly_hills", "d0/d98/a22456.html#aa020d8120c62874fb15b4623bbb714d9", null ],
-    [ "GetOutdoorPvP", "d0/d98/a22456.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "d0/d98/a22456.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c", null ]
 ];

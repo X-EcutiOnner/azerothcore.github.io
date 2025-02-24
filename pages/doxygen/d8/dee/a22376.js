@@ -1,8 +1,5 @@
 var a22376 =
 [
-    [ "npc_feedin_da_goolzAI", "d8/dee/a22376.html#ada9ba6b4a0dfa5858b76986f8ebaa5d0", null ],
-    [ "UpdateAI", "d8/dee/a22376.html#a7cbe5e54620e2356601c09effbe22928", null ],
-    [ "checkTimer", "d8/dee/a22376.html#a834f91e84fc2dff6a07e46f0b677de3e", null ],
-    [ "findTimer", "d8/dee/a22376.html#a91b49f7c12fed4ddd958171187ccfb47", null ],
-    [ "ghoulFed", "d8/dee/a22376.html#adf256f6a4311f8b7cf6758259cc78f3f", null ]
+    [ "outdoorpvp_na_halaa_creatures", "d8/dee/a22376.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "d8/dee/a22376.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

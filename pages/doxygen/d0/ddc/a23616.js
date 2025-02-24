@@ -1,8 +1,9 @@
 var a23616 =
 [
-    [ "FilterTargets", "d0/ddc/a23616.html#ae366594b668331a19f384ceb48654c0c", null ],
-    [ "HandleOnHit", "d0/ddc/a23616.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
-    [ "PrepareSpellScript", "d0/ddc/a23616.html#a71aa4018d293391a73d3317c1e80951d", null ],
-    [ "Register", "d0/ddc/a23616.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
-    [ "Validate", "d0/ddc/a23616.html#a3747ad271dc659436ae7a8203b964554", null ]
+    [ "HandleEffectApply", "d0/ddc/a23616.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "d0/ddc/a23616.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "d0/ddc/a23616.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "d0/ddc/a23616.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "d0/ddc/a23616.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "d0/ddc/a23616.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

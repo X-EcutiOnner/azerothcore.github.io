@@ -1,16 +1,10 @@
 var a12584 =
 [
-    [ "npc_unworthy_initiateAI", "d3/d39/a12584.html#ae535d3335eb7865400f9e5c24b1dd3b5", null ],
-    [ "EventStart", "d3/d39/a12584.html#a1973d5a14a1ac19be1d74cf57693cabe", null ],
-    [ "JustEngagedWith", "d3/d39/a12584.html#aeedb0af23823ec5c7ff4f951c872552e", null ],
-    [ "MovementInform", "d3/d39/a12584.html#afbf6d71b196067400256df98949ae963", null ],
-    [ "Reset", "d3/d39/a12584.html#aba37cb6291a2e7436f8af796c50dead9", null ],
-    [ "UpdateAI", "d3/d39/a12584.html#a485695877f48aea0bb191e8b312f9c99", null ],
-    [ "anchorGUID", "d3/d39/a12584.html#acb1b338fae07b3ececfc8c15cc5ea80b", null ],
-    [ "anchorX", "d3/d39/a12584.html#a69455d3e3f822c2f2a4f8c3f89e4586d", null ],
-    [ "anchorY", "d3/d39/a12584.html#a67bbfac4014f2907cc9ad9caca80a4be", null ],
-    [ "events", "d3/d39/a12584.html#a4eff6a50c098c3f851274ece860fb6fb", null ],
-    [ "phase", "d3/d39/a12584.html#a299de7b4e1992edebd0a87c119d06d0a", null ],
-    [ "playerGUID", "d3/d39/a12584.html#a02d1e6dd7a302e170b08f0c90f038ca9", null ],
-    [ "wait_timer", "d3/d39/a12584.html#a9270c6e57cf77805769cfe692beefbe0", null ]
+    [ "boss_servant_quarters", "d3/d39/a12584.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
+    [ "JustDied", "d3/d39/a12584.html#a3b9df7ab573f22a9e15761cb662db404", null ],
+    [ "JustEngagedWith", "d3/d39/a12584.html#afe4a4a78824851f63ce560a60d55cee3", null ],
+    [ "MovementInform", "d3/d39/a12584.html#a00d31d9421903b6a92c03a3bd0382328", null ],
+    [ "Reset", "d3/d39/a12584.html#a273a09b1242968a5dd45ab9866fbe481", null ],
+    [ "UpdateAI", "d3/d39/a12584.html#a6a41cfd67310077803733190645050e4", null ],
+    [ "_scheduler", "d3/d39/a12584.html#a520142de5e8d2911684b18c85a3f37e2", null ]
 ];

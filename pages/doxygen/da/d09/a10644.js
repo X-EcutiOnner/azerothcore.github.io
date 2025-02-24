@@ -1,12 +1,12 @@
 var a10644 =
 [
-    [ "OpcodeTable", "dd/d22/a04662.html#gacb286fdd22f1781abfb0d820b1f345aa", null ],
-    [ "OpcodeTable", "dd/d22/a04662.html#ga0d719536cf746ad04a8ecc4fcca4a869", null ],
-    [ "~OpcodeTable", "dd/d22/a04662.html#gac4e0724e0795156122c4fd8f07ade628", null ],
-    [ "Initialize", "dd/d22/a04662.html#gac64814869d378e5bb7fa18144693fac1", null ],
-    [ "operator=", "dd/d22/a04662.html#ga2153d4fe6b752cc2269cbfec7e8c3c84", null ],
-    [ "operator[]", "dd/d22/a04662.html#gaa2cde2ecf8628ce12487ec9ce8fa37d1", null ],
-    [ "ValidateAndSetClientOpcode", "dd/d22/a04662.html#ga95313e8e04ed3ab47f7104db9cf1db09", null ],
-    [ "ValidateAndSetServerOpcode", "dd/d22/a04662.html#ga42b9c6fd72c2f463ab5cb3fb562151b6", null ],
-    [ "_internalTableClient", "dd/d22/a04662.html#ga8c0d7f9f6248f9652fd8b8021b9a7677", null ]
+    [ "Charges", "da/d09/a10644.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
+    [ "Count", "da/d09/a10644.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
+    [ "EnchantmentID", "da/d09/a10644.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
+    [ "Flags", "da/d09/a10644.html#a3ca816132a756d3dc939877c57f6045d", null ],
+    [ "ItemID", "da/d09/a10644.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
+    [ "RandomPropertiesID", "da/d09/a10644.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
+    [ "RandomPropertiesSeed", "da/d09/a10644.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
+    [ "Slot", "da/d09/a10644.html#afcc0a78c2f9a3061830679fece476a64", null ],
+    [ "SocketEnchant", "da/d09/a10644.html#a55545d4d1b752e4f08bd05350b22892c", null ]
 ];

@@ -1,6 +1,6 @@
 var a24392 =
 [
-    [ "DeathEvent", "d7/d76/a24392.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "d7/d76/a24392.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "d7/d76/a24392.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "CheckProc", "d7/d76/a24392.html#ace3662e092d02de975929741c470230d", null ],
+    [ "PrepareAuraScript", "d7/d76/a24392.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
+    [ "Register", "d7/d76/a24392.html#ae6432106538261827c3eac3dde1450f2", null ]
 ];

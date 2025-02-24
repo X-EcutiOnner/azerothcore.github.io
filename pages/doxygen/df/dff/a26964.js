@@ -1,11 +1,9 @@
 var a26964 =
 [
-    [ "AccountActionIpLogger", "df/dff/a26964.html#a73cad77bd83243cb10c4a1b4d7081e0b", null ],
-    [ "AccountIPLogAction", "df/dff/a26964.html#a9c978dafb71e67b8b278806df507e34b", null ],
-    [ "OnAccountLogin", "df/dff/a26964.html#a2952adcd73d775b924671e5a69adaccb", null ],
-    [ "OnEmailChange", "df/dff/a26964.html#aa15d0cc4e6ed3818fa18a927074f5f0c", null ],
-    [ "OnFailedAccountLogin", "df/dff/a26964.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd", null ],
-    [ "OnFailedEmailChange", "df/dff/a26964.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2", null ],
-    [ "OnFailedPasswordChange", "df/dff/a26964.html#a0663e15ea1a29b3daa672c8b6a25548f", null ],
-    [ "OnPasswordChange", "df/dff/a26964.html#a4b71aa9c1790e6d4033d884a17ce0a2f", null ]
+    [ "boss_ysondreAI", "df/dff/a26964.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
+    [ "DamageTaken", "df/dff/a26964.html#a99ee250e776001bb142815fc711ae75d", null ],
+    [ "ExecuteEvent", "df/dff/a26964.html#a88e3caa536a71730c757590be1bd3de1", null ],
+    [ "JustEngagedWith", "df/dff/a26964.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
+    [ "Reset", "df/dff/a26964.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
+    [ "_stage", "df/dff/a26964.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
 ];

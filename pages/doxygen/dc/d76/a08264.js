@@ -1,11 +1,5 @@
 var a08264 =
 [
-    [ "SpellModifier", "dc/d76/a08264.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
-    [ "charges", "dc/d76/a08264.html#a1aaf71299c2dd27b58a049d252efdee8", null ],
-    [ "mask", "dc/d76/a08264.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
-    [ "op", "dc/d76/a08264.html#a21d017f0c8d3108a0eb5f48798103356", null ],
-    [ "ownerAura", "dc/d76/a08264.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
-    [ "spellId", "dc/d76/a08264.html#a465803efab27b2ba0a49c6571b65b908", null ],
-    [ "type", "dc/d76/a08264.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
-    [ "value", "dc/d76/a08264.html#a31742662ba8112c9e9b972897a928e57", null ]
+    [ "invisibilityType", "dc/d76/a08264.html#ac1e874a76fecd4d3eb061722713f6634", null ],
+    [ "InvisibilityValue", "dc/d76/a08264.html#a8e1741fca7c49f0618a3999e69ae5c81", null ]
 ];

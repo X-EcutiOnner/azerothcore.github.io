@@ -1,6 +1,6 @@
 var a23012 =
 [
-    [ "HandleScriptEffect", "d5/d5e/a23012.html#a2b46490b70bf93effb7379686e648618", null ],
-    [ "PrepareSpellScript", "d5/d5e/a23012.html#a5030d071372ef12663f6a75be637476e", null ],
-    [ "Register", "d5/d5e/a23012.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
+    [ "HandleScriptEffect", "d5/d5e/a23012.html#a62ed9bff154c5aab74e044f8f9982263", null ],
+    [ "PrepareSpellScript", "d5/d5e/a23012.html#a0e87265cf22ef8b4e302b8e216123395", null ],
+    [ "Register", "d5/d5e/a23012.html#a0d722447d91991462245e8b392d20e10", null ]
 ];

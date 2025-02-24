@@ -1,6 +1,7 @@
 var a20836 =
 [
-    [ "FilterTargets", "d4/dfd/a20836.html#a7efa78a7991b7ca859c7d622f973265d", null ],
-    [ "PrepareSpellScript", "d4/dfd/a20836.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
-    [ "Register", "d4/dfd/a20836.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
+    [ "HandleProc", "d4/dfd/a20836.html#a1b8782a4f22522cfe224073515abdf45", null ],
+    [ "PrepareAuraScript", "d4/dfd/a20836.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
+    [ "Register", "d4/dfd/a20836.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
+    [ "Validate", "d4/dfd/a20836.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
 ];

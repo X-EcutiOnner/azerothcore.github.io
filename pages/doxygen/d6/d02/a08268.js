@@ -1,9 +1,19 @@
 var a08268 =
 [
-    [ "category", "d6/d02/a08268.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
-    [ "end", "d6/d02/a08268.html#a8cc857ef51745900398765164a450a50", null ],
-    [ "itemid", "d6/d02/a08268.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
-    [ "maxduration", "d6/d02/a08268.html#a94b98afb7651e2c6b99ee79f85702259", null ],
-    [ "needSendToClient", "d6/d02/a08268.html#a678f56b6723567f984a0188b85a6f9df", null ],
-    [ "sendToSpectator", "d6/d02/a08268.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
+    [ "GameObjectData", "d6/d02/a08268.html#a6b505cde2173265da5c3a504b68c552c", null ],
+    [ "animprogress", "d6/d02/a08268.html#aadec9e3088063532fd879fdaad3c3d74", null ],
+    [ "artKit", "d6/d02/a08268.html#a4e5d0f2b99f1bd87aa22c943594ce355", null ],
+    [ "dbData", "d6/d02/a08268.html#a0268f5ac8e2c0e18a1c225e074c990be", null ],
+    [ "go_state", "d6/d02/a08268.html#ae8c523cb24a55fcde5d8caac3f82dfd5", null ],
+    [ "id", "d6/d02/a08268.html#ae12c8c5e7b3c848a57960e4c51d76e84", null ],
+    [ "mapid", "d6/d02/a08268.html#ab4f0ed59a0ddc809fbfa1cd96d770d41", null ],
+    [ "orientation", "d6/d02/a08268.html#a2ac5b28981ef5b4bb4b5ccf52cc83f98", null ],
+    [ "phaseMask", "d6/d02/a08268.html#ac0918795bd3c37534ad7b7ac64256b16", null ],
+    [ "posX", "d6/d02/a08268.html#abe0de5925bbdc047e1b0fc3baff039b1", null ],
+    [ "posY", "d6/d02/a08268.html#adfb0111d7183eefd893e0cce7691a08e", null ],
+    [ "posZ", "d6/d02/a08268.html#a2b0581c5879b16ae7a4d471aa23d178c", null ],
+    [ "rotation", "d6/d02/a08268.html#a81da3cac2ac1a3cf71579b1da6873fe9", null ],
+    [ "ScriptId", "d6/d02/a08268.html#aef60d19e3edd35f2ddc82ab4684dbb2f", null ],
+    [ "spawnMask", "d6/d02/a08268.html#a8125fbacd3e701d19f9dcff04371f0db", null ],
+    [ "spawntimesecs", "d6/d02/a08268.html#a6afeb167bb136c3ddabcc350007788db", null ]
 ];

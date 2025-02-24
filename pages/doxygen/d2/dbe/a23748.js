@@ -1,6 +1,7 @@
 var a23748 =
 [
-    [ "AfterRemove", "d2/dbe/a23748.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d2/dbe/a23748.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d2/dbe/a23748.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "boss_gatewatcher_iron_hand", "d2/dbe/a23748.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "d2/dbe/a23748.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "d2/dbe/a23748.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "d2/dbe/a23748.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

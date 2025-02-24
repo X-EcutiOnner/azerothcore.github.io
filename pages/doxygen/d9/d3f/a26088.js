@@ -1,8 +1,9 @@
 var a26088 =
 [
-    [ "CheckProc", "d9/d3f/a26088.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
-    [ "HandleProc", "d9/d3f/a26088.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
-    [ "PrepareAuraScript", "d9/d3f/a26088.html#a876c1bda52c99c52249444414196b1d4", null ],
-    [ "Register", "d9/d3f/a26088.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
-    [ "Validate", "d9/d3f/a26088.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
+    [ "CheckProc", "d9/d3f/a26088.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
+    [ "HandleDispel", "d9/d3f/a26088.html#a64235032423050de10581165c57f8b0a", null ],
+    [ "HandleProc", "d9/d3f/a26088.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
+    [ "PrepareAuraScript", "d9/d3f/a26088.html#af7ba0eb96dca76a288dd034665822069", null ],
+    [ "Register", "d9/d3f/a26088.html#ababc8b42c64740655864d2834a639384", null ],
+    [ "Validate", "d9/d3f/a26088.html#a03ecf2489369cbb7a6dff555db153a96", null ]
 ];

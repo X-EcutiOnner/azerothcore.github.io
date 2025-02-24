@@ -1,6 +1,7 @@
 var a16008 =
 [
-    [ "boss_saviana_ragefireAI", "db/dd6/a16012.html", "db/dd6/a16012" ],
-    [ "boss_saviana_ragefire", "d7/dc2/a16008.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
-    [ "GetAI", "d7/dc2/a16008.html#a0a0073d8710af066d9711636f4d5b01e", null ]
+    [ "TwilightCutterSelector", "d7/dc2/a16008.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
+    [ "operator()", "d7/dc2/a16008.html#a6374425df156bdf202d53a2c73ef784c", null ],
+    [ "_caster", "d7/dc2/a16008.html#a784c95ef6472e711f4200f194222d179", null ],
+    [ "_cutterCaster", "d7/dc2/a16008.html#a7f713777a36a8d127c2865e4610b1288", null ]
 ];

@@ -1,7 +1,7 @@
 var a14808 =
 [
-    [ "boss_kurinnaxx", "d4/d0a/a14808.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
-    [ "InitializeAI", "d4/d0a/a14808.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
-    [ "JustDied", "d4/d0a/a14808.html#adb749c8737888a099ad7a3d58292a612", null ],
-    [ "JustEngagedWith", "d4/d0a/a14808.html#a451cd7ee80b0428a199c33012562bdb3", null ]
+    [ "HandleScript", "d4/d0a/a14808.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
+    [ "PrepareSpellScript", "d4/d0a/a14808.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
+    [ "Register", "d4/d0a/a14808.html#aff966352a2babe6e6daed91f02e1190a", null ],
+    [ "Validate", "d4/d0a/a14808.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
 ];

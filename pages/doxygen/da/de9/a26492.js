@@ -1,9 +1,8 @@
 var a26492 =
 [
-    [ "CheckCast", "da/de9/a26492.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
-    [ "FilterTargets", "da/de9/a26492.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
-    [ "HandleDummy", "da/de9/a26492.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
-    [ "PrepareSpellScript", "da/de9/a26492.html#a9c992e732b525e29f684947398d20efb", null ],
-    [ "Register", "da/de9/a26492.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
-    [ "Validate", "da/de9/a26492.html#abca1e5aa46e7753588c8120090775195", null ]
+    [ "FilterTargets", "da/de9/a26492.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
+    [ "HandleDummy", "da/de9/a26492.html#a2214b10da042a3af2fd3311872cc5286", null ],
+    [ "PrepareSpellScript", "da/de9/a26492.html#a9959966856601f79a83931a7a7ecff91", null ],
+    [ "Register", "da/de9/a26492.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
+    [ "Validate", "da/de9/a26492.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
 ];

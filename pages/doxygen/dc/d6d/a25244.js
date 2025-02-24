@@ -1,8 +1,8 @@
 var a25244 =
 [
-    [ "HandleApply", "dc/d6d/a25244.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
-    [ "OnPeriodic", "dc/d6d/a25244.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
-    [ "PrepareAuraScript", "dc/d6d/a25244.html#a344d1a92623865876174c0e88ce8ab4b", null ],
-    [ "Register", "dc/d6d/a25244.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
-    [ "Validate", "dc/d6d/a25244.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
+    [ "CheckProc", "dc/d6d/a25244.html#a2b0ff2594877249d0bdb4656fa67b83f", null ],
+    [ "HandleProc", "dc/d6d/a25244.html#ac1aebc16e7944ac3f8305d9ff27bc998", null ],
+    [ "PrepareAuraScript", "dc/d6d/a25244.html#a19557020af9ca276f72c1d3e4ba8b27b", null ],
+    [ "Register", "dc/d6d/a25244.html#a43f7bb634cb165fab5e2187256f50c3f", null ],
+    [ "Validate", "dc/d6d/a25244.html#a7762ce25775b98dba14b4ac465cad711", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: UpdatableScript&lt; TObject &gt; Class Template Reference</title>
+<title>AzerothCore: QuestStatusData Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,128 +106,47 @@ $(document).ready(function(){initNavTree('da/d8f/a10124.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../dc/d6b/a10121.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">UpdatableScript&lt; TObject &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">QuestStatusData Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for UpdatableScript&lt; TObject &gt;:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../da/d8f/a10124.png" usemap="#UpdatableScript_3C_20TObject_20_3E_map" alt=""/>
-  <map id="UpdatableScript_3C_20TObject_20_3E_map" name="UpdatableScript_3C_20TObject_20_3E_map">
-<area href="../../d5/d73/a10128.html" alt="MapScript&lt; BattlegroundMap &gt;" shape="rect" coords="0,56,190,80"/>
-<area href="../../d5/d73/a10128.html" alt="MapScript&lt; InstanceMap &gt;" shape="rect" coords="200,56,390,80"/>
-<area href="../../d5/d73/a10128.html" alt="MapScript&lt; Map &gt;" shape="rect" coords="400,56,590,80"/>
-<area href="../../d9/dd0/a09960.html" alt="BattlegroundMapScript" shape="rect" coords="0,112,190,136"/>
-<area href="../../d9/d0a/a10032.html" alt="InstanceMapScript" shape="rect" coords="200,112,390,136"/>
-<area href="../../d3/d00/a10100.html" alt="WorldMapScript" shape="rect" coords="400,112,590,136"/>
-<area href="../../d8/d2a/a15684.html" alt="instance_ahnkahet" shape="rect" coords="400,168,590,192"/>
-<area href="../../df/d03/a23668.html" alt="instance_arcatraz" shape="rect" coords="400,224,590,248"/>
-<area href="../../db/d24/a22560.html" alt="instance_auchenai_crypts" shape="rect" coords="400,280,590,304"/>
-<area href="../../d8/d50/a15756.html" alt="instance_azjol_nerub" shape="rect" coords="400,336,590,360"/>
-<area href="../../d1/dfb/a22972.html" alt="instance_black_temple" shape="rect" coords="400,392,590,416"/>
-<area href="../../df/d34/a14396.html" alt="instance_blackfathom_deeps" shape="rect" coords="400,448,590,472"/>
-<area href="../../d6/dae/a11668.html" alt="instance_blackrock_depths" shape="rect" coords="400,504,590,528"/>
-<area href="../../dc/def/a11816.html" alt="instance_blackrock_spire" shape="rect" coords="400,560,590,584"/>
-<area href="../../d3/d80/a12004.html" alt="instance_blackwing_lair" shape="rect" coords="400,616,590,640"/>
-<area href="../../d5/d56/a23480.html" alt="instance_blood_furnace" shape="rect" coords="400,672,590,696"/>
-<area href="../../de/db3/a14600.html" alt="instance_culling_of_stratholme" shape="rect" coords="400,728,590,752"/>
-<area href="../../d8/d5a/a12208.html" alt="instance_deadmines" shape="rect" coords="400,784,590,808"/>
-<area href="../../de/d8e/a14688.html" alt="instance_dire_maul" shape="rect" coords="400,840,590,864"/>
-<area href="../../da/d67/a16592.html" alt="instance_drak_tharon_keep" shape="rect" coords="400,896,590,920"/>
-<area href="../../d2/d3f/a19148.html" alt="instance_eye_of_eternity" shape="rect" coords="400,952,590,976"/>
-<area href="../../d9/d33/a16676.html" alt="instance_forge_of_souls" shape="rect" coords="400,1008,590,1032"/>
-<area href="../../d1/d96/a12216.html" alt="instance_gnomeregan" shape="rect" coords="400,1064,590,1088"/>
-<area href="../../d3/d4d/a23452.html" alt="instance_gruuls_lair" shape="rect" coords="400,1120,590,1144"/>
-<area href="../../d2/d3b/a17104.html" alt="instance_gundrak" shape="rect" coords="400,1176,590,1200"/>
-<area href="../../df/dc2/a19436.html" alt="instance_halls_of_lightning" shape="rect" coords="400,1232,590,1256"/>
-<area href="../../d7/d71/a16836.html" alt="instance_halls_of_reflection" shape="rect" coords="400,1288,590,1312"/>
-<area href="../../d8/db1/a19552.html" alt="instance_halls_of_stone" shape="rect" coords="400,1344,590,1368"/>
-<area href="../../dc/d71/a23520.html" alt="instance_hellfire_ramparts" shape="rect" coords="400,1400,590,1424"/>
-<area href="../../d5/d12/a14516.html" alt="instance_hyjal" shape="rect" coords="400,1456,590,1480"/>
-<area href="../../d5/de4/a18752.html" alt="instance_icecrown_citadel" shape="rect" coords="400,1512,590,1536"/>
-<area href="../../dc/d1f/a12404.html" alt="instance_karazhan" shape="rect" coords="400,1568,590,1592"/>
-<area href="../../d4/dcd/a12508.html" alt="instance_magisters_terrace" shape="rect" coords="400,1624,590,1648"/>
-<area href="../../d0/d97/a23560.html" alt="instance_magtheridons_lair" shape="rect" coords="400,1680,590,1704"/>
-<area href="../../d0/db8/a22584.html" alt="instance_mana_tombs" shape="rect" coords="400,1736,590,1760"/>
-<area href="../../db/d15/a14696.html" alt="instance_maraudon" shape="rect" coords="400,1792,590,1816"/>
-<area href="../../dd/d11/a23884.html" alt="instance_mechanar" shape="rect" coords="400,1848,590,1872"/>
-<area href="../../d3/d78/a12176.html" alt="instance_molten_core" shape="rect" coords="400,1904,590,1928"/>
-<area href="../../d6/d98/a19052.html" alt="instance_naxxramas" shape="rect" coords="400,1960,590,1984"/>
-<area href="../../d2/ddc/a19228.html" alt="instance_nexus" shape="rect" coords="400,2016,590,2040"/>
-<area href="../../d5/db8/a15828.html" alt="instance_obsidian_sanctum" shape="rect" coords="400,2072,590,2096"/>
-<area href="../../d7/d87/a19284.html" alt="instance_oculus" shape="rect" coords="400,2128,590,2152"/>
-<area href="../../db/d22/a14620.html" alt="instance_old_hillsbrad" shape="rect" coords="400,2184,590,2208"/>
-<area href="../../d5/dd8/a14716.html" alt="instance_onyxias_lair" shape="rect" coords="400,2240,590,2264"/>
-<area href="../../df/dbf/a16888.html" alt="instance_pit_of_saron" shape="rect" coords="400,2296,590,2320"/>
-<area href="../../d4/d19/a14724.html" alt="instance_ragefire_chasm" shape="rect" coords="400,2352,590,2376"/>
-<area href="../../dc/dec/a14732.html" alt="instance_razorfen_downs" shape="rect" coords="400,2408,590,2432"/>
-<area href="../../d3/d27/a14756.html" alt="instance_razorfen_kraul" shape="rect" coords="400,2464,590,2488"/>
-<area href="../../d9/d26/a16024.html" alt="instance_ruby_sanctum" shape="rect" coords="400,2520,590,2544"/>
-<area href="../../d2/d18/a14864.html" alt="instance_ruins_of_ahnqiraj" shape="rect" coords="400,2576,590,2600"/>
-<area href="../../d0/dd4/a12704.html" alt="instance_scarlet_monastery" shape="rect" coords="400,2632,590,2656"/>
-<area href="../../de/d3a/a12772.html" alt="instance_scholomance" shape="rect" coords="400,2688,590,2712"/>
-<area href="../../d8/dae/a23184.html" alt="instance_serpent_shrine" shape="rect" coords="400,2744,590,2768"/>
-<area href="../../dc/d4d/a22612.html" alt="instance_sethekk_halls" shape="rect" coords="400,2800,590,2824"/>
-<area href="../../d9/d45/a22652.html" alt="instance_shadow_labyrinth" shape="rect" coords="400,2856,590,2880"/>
-<area href="../../df/d4d/a12848.html" alt="instance_shadowfang_keep" shape="rect" coords="400,2912,590,2936"/>
-<area href="../../d0/d32/a23620.html" alt="instance_shattered_halls" shape="rect" coords="400,2968,590,2992"/>
-<area href="../../d6/dcf/a23328.html" alt="instance_steam_vault" shape="rect" coords="400,3024,590,3048"/>
-<area href="../../d6/d86/a12888.html" alt="instance_stratholme" shape="rect" coords="400,3080,590,3104"/>
-<area href="../../d1/ddb/a12896.html" alt="instance_sunken_temple" shape="rect" coords="400,3136,590,3160"/>
-<area href="../../d3/dcc/a13200.html" alt="instance_sunwell_plateau" shape="rect" coords="400,3192,590,3216"/>
-<area href="../../d8/d1c/a15036.html" alt="instance_temple_of_ahnqiraj" shape="rect" coords="400,3248,590,3272"/>
-<area href="../../dd/d7b/a14656.html" alt="instance_the_black_morass" shape="rect" coords="400,3304,590,3328"/>
-<area href="../../d0/dd1/a23708.html" alt="instance_the_botanica" shape="rect" coords="400,3360,590,3384"/>
-<area href="../../d4/dce/a23832.html" alt="instance_the_eye" shape="rect" coords="400,3416,590,3440"/>
-<area href="../../d7/df7/a23296.html" alt="instance_the_slave_pens" shape="rect" coords="400,3472,590,3496"/>
-<area href="../../d2/d43/a13212.html" alt="instance_the_stockade" shape="rect" coords="400,3528,590,3552"/>
-<area href="../../da/d37/a23384.html" alt="instance_the_underbog" shape="rect" coords="400,3584,590,3608"/>
-<area href="../../dc/d8e/a16128.html" alt="instance_trial_of_the_champion" shape="rect" coords="400,3640,590,3664"/>
-<area href="../../d4/d5d/a16492.html" alt="instance_trial_of_the_crusader" shape="rect" coords="400,3696,590,3720"/>
-<area href="../../df/de2/a13220.html" alt="instance_uldaman" shape="rect" coords="400,3752,590,3776"/>
-<area href="../../de/dd3/a20900.html" alt="instance_ulduar" shape="rect" coords="400,3808,590,3832"/>
-<area href="../../d8/d18/a21004.html" alt="instance_utgarde_keep" shape="rect" coords="400,3864,590,3888"/>
-<area href="../../d7/dd9/a21132.html" alt="instance_utgarde_pinnacle" shape="rect" coords="400,3920,590,3944"/>
-<area href="../../de/db5/a21240.html" alt="instance_vault_of_archavon" shape="rect" coords="400,3976,590,4000"/>
-<area href="../../d6/df0/a21332.html" alt="instance_violet_hold" shape="rect" coords="400,4032,590,4056"/>
-<area href="../../d1/db8/a15096.html" alt="instance_wailing_caverns" shape="rect" coords="400,4088,590,4112"/>
-<area href="../../df/d05/a13716.html" alt="instance_zulaman" shape="rect" coords="400,4144,590,4168"/>
-<area href="../../d3/d25/a15564.html" alt="instance_zulfarrak" shape="rect" coords="400,4200,590,4224"/>
-<area href="../../d7/dd0/a13964.html" alt="instance_zulgurub" shape="rect" coords="400,4256,590,4280"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">QuestDef.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:abf328325e08aa0d6adf36e6f70b02328"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8f/a10124.html#abf328325e08aa0d6adf36e6f70b02328">OnUpdate</a> (TObject *, <a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:abf328325e08aa0d6adf36e6f70b02328"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae71725a7f75e10aacb6f4a9ca4b72f27"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8f/a10124.html#ae71725a7f75e10aacb6f4a9ca4b72f27">QuestStatusData</a> ()</td></tr>
+<tr class="separator:ae71725a7f75e10aacb6f4a9ca4b72f27"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
-Protected Member Functions</h2></td></tr>
-<tr class="memitem:a2d6cf85d1eb98438b5022804296eff11"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8f/a10124.html#a2d6cf85d1eb98438b5022804296eff11">UpdatableScript</a> ()=default</td></tr>
-<tr class="separator:a2d6cf85d1eb98438b5022804296eff11"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a4ce7af3a64737d7961b6dfa19189c932"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/da1/a02231.html#abfc87d39d69176ad25e800fb4aa6f0d8">QuestStatus</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8f/a10124.html#a4ce7af3a64737d7961b6dfa19189c932">Status</a> {<a class="el" href="../../d7/da1/a02231.html#abfc87d39d69176ad25e800fb4aa6f0d8abefdf5f7417012e5d2adedf1dc155f28">QUEST_STATUS_NONE</a>}</td></tr>
+<tr class="separator:a4ce7af3a64737d7961b6dfa19189c932"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a16343f7a162e5b7b6a1a18345420c77a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8f/a10124.html#a16343f7a162e5b7b6a1a18345420c77a">Timer</a> {0}</td></tr>
+<tr class="separator:a16343f7a162e5b7b6a1a18345420c77a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a466999cea52f65bf58916bc34750bf95"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8f/a10124.html#a466999cea52f65bf58916bc34750bf95">ItemCount</a> [<a class="el" href="../../d7/da1/a02231.html#a5b538720bd7de8c4468dc6d21b412f10">QUEST_ITEM_OBJECTIVES_COUNT</a>]</td></tr>
+<tr class="separator:a466999cea52f65bf58916bc34750bf95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5892dc0744a41ac565568307f12ad35"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8f/a10124.html#aa5892dc0744a41ac565568307f12ad35">CreatureOrGOCount</a> [<a class="el" href="../../d7/da1/a02231.html#a7dab6182ee1bbabf205ed30f9c2d6c8b">QUEST_OBJECTIVES_COUNT</a>]</td></tr>
+<tr class="separator:aa5892dc0744a41ac565568307f12ad35"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a170a1e54fe45b7fd0c7934f1309f7969"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8f/a10124.html#a170a1e54fe45b7fd0c7934f1309f7969">PlayerCount</a> {0}</td></tr>
+<tr class="separator:a170a1e54fe45b7fd0c7934f1309f7969"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a734f6a61aa35c77689d33031e88f0c0b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8f/a10124.html#a734f6a61aa35c77689d33031e88f0c0b">Explored</a> {false}</td></tr>
+<tr class="separator:a734f6a61aa35c77689d33031e88f0c0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class TObject&gt;<br />
-class UpdatableScript&lt; TObject &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a2d6cf85d1eb98438b5022804296eff11" name="a2d6cf85d1eb98438b5022804296eff11"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2d6cf85d1eb98438b5022804296eff11">&#9670;&#160;</a></span>UpdatableScript()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ae71725a7f75e10aacb6f4a9ca4b72f27" name="ae71725a7f75e10aacb6f4a9ca4b72f27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae71725a7f75e10aacb6f4a9ca4b72f27">&#9670;&#160;</a></span>QuestStatusData()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class TObject &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/d8f/a10124.html">UpdatableScript</a>&lt; TObject &gt;<a class="el" href="../../da/d8f/a10124.html">::UpdatableScript</a> </td>
+          <td class="memname">QuestStatusData::QuestStatusData </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -235,53 +154,119 @@ template&lt;class TObject &gt; </div>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  409</span>    {</div>
+<div class="line"><span class="lineno">  410</span>        memset(<a class="code hl_variable" href="../../da/d8f/a10124.html#a466999cea52f65bf58916bc34750bf95">ItemCount</a>, 0, <a class="code hl_define" href="../../d7/da1/a02231.html#a5b538720bd7de8c4468dc6d21b412f10">QUEST_ITEM_OBJECTIVES_COUNT</a> * <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d1/dce/a04559.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>));</div>
+<div class="line"><span class="lineno">  411</span>        memset(<a class="code hl_variable" href="../../da/d8f/a10124.html#aa5892dc0744a41ac565568307f12ad35">CreatureOrGOCount</a>, 0, <a class="code hl_define" href="../../d7/da1/a02231.html#a7dab6182ee1bbabf205ed30f9c2d6c8b">QUEST_OBJECTIVES_COUNT</a> * <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d1/dce/a04559.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>));</div>
+<div class="line"><span class="lineno">  412</span>    }</div>
+<div class="ttc" id="aa02231_html_a5b538720bd7de8c4468dc6d21b412f10"><div class="ttname"><a href="../../d7/da1/a02231.html#a5b538720bd7de8c4468dc6d21b412f10">QUEST_ITEM_OBJECTIVES_COUNT</a></div><div class="ttdeci">#define QUEST_ITEM_OBJECTIVES_COUNT</div><div class="ttdef"><b>Definition:</b> QuestDef.h:36</div></div>
+<div class="ttc" id="aa02231_html_a7dab6182ee1bbabf205ed30f9c2d6c8b"><div class="ttname"><a href="../../d7/da1/a02231.html#a7dab6182ee1bbabf205ed30f9c2d6c8b">QUEST_OBJECTIVES_COUNT</a></div><div class="ttdeci">#define QUEST_OBJECTIVES_COUNT</div><div class="ttdef"><b>Definition:</b> QuestDef.h:35</div></div>
+<div class="ttc" id="aa04559_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d1/dce/a04559.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
+<div class="ttc" id="aa10124_html_a466999cea52f65bf58916bc34750bf95"><div class="ttname"><a href="../../da/d8f/a10124.html#a466999cea52f65bf58916bc34750bf95">QuestStatusData::ItemCount</a></div><div class="ttdeci">uint16 ItemCount[QUEST_ITEM_OBJECTIVES_COUNT]</div><div class="ttdef"><b>Definition:</b> QuestDef.h:416</div></div>
+<div class="ttc" id="aa10124_html_aa5892dc0744a41ac565568307f12ad35"><div class="ttname"><a href="../../da/d8f/a10124.html#aa5892dc0744a41ac565568307f12ad35">QuestStatusData::CreatureOrGOCount</a></div><div class="ttdeci">uint16 CreatureOrGOCount[QUEST_OBJECTIVES_COUNT]</div><div class="ttdef"><b>Definition:</b> QuestDef.h:417</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00417">CreatureOrGOCount</a>, <a class="el" href="../../#l00416">ItemCount</a>, <a class="el" href="../../#l00036">QUEST_ITEM_OBJECTIVES_COUNT</a>, and <a class="el" href="../../#l00035">QUEST_OBJECTIVES_COUNT</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="abf328325e08aa0d6adf36e6f70b02328" name="abf328325e08aa0d6adf36e6f70b02328"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abf328325e08aa0d6adf36e6f70b02328">&#9670;&#160;</a></span>OnUpdate()</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="aa5892dc0744a41ac565568307f12ad35" name="aa5892dc0744a41ac565568307f12ad35"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5892dc0744a41ac565568307f12ad35">&#9670;&#160;</a></span>CreatureOrGOCount</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class TObject &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual void <a class="el" href="../../da/d8f/a10124.html">UpdatableScript</a>&lt; TObject &gt;::OnUpdate </td>
-          <td>(</td>
-          <td class="paramtype">TObject *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> QuestStatusData::CreatureOrGOCount[<a class="el" href="../../d7/da1/a02231.html#a7dab6182ee1bbabf205ed30f9c2d6c8b">QUEST_OBJECTIVES_COUNT</a>]</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p>Reimplemented in <a class="el" href="../../d5/d73/a10128.html#a4e447511780a0c561e16b9e118361f63">MapScript&lt; TMap &gt;</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   77</span>{ }</div>
-</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l06228">Player::_LoadQuestStatus()</a>, <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l00123">npc_love_in_air_snivel::AllowAction()</a>, <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l12446">Player::HasQuestForGO()</a>, <a class="el" href="../../#l02056">Player::KillCreditGO()</a>, <a class="el" href="../../#l01927">Player::KilledMonsterCredit()</a>, <a class="el" href="../../#l00150">npc_brewfest_bark_trigger::MoveInLineOfSight()</a>, <a class="el" href="../../#l00408">QuestStatusData()</a>, and <a class="el" href="../../#l02112">Player::TalkedToCreature()</a>.</p>
+
+</div>
+</div>
+<a id="a734f6a61aa35c77689d33031e88f0c0b" name="a734f6a61aa35c77689d33031e88f0c0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a734f6a61aa35c77689d33031e88f0c0b">&#9670;&#160;</a></span>Explored</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool QuestStatusData::Explored {false}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l06228">Player::_LoadQuestStatus()</a>, <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l01791">Player::AreaExploredOrEventHappens()</a>, and <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>.</p>
+
+</div>
+</div>
+<a id="a466999cea52f65bf58916bc34750bf95" name="a466999cea52f65bf58916bc34750bf95"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a466999cea52f65bf58916bc34750bf95">&#9670;&#160;</a></span>ItemCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> QuestStatusData::ItemCount[<a class="el" href="../../d7/da1/a02231.html#a5b538720bd7de8c4468dc6d21b412f10">QUEST_ITEM_OBJECTIVES_COUNT</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l06228">Player::_LoadQuestStatus()</a>, <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l01764">Player::AdjustQuestReqItemCount()</a>, <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l02264">Player::HasQuestForItem()</a>, <a class="el" href="../../#l01835">Player::ItemAddedQuestCheck()</a>, <a class="el" href="../../#l01874">Player::ItemRemovedQuestCheck()</a>, and <a class="el" href="../../#l00408">QuestStatusData()</a>.</p>
+
+</div>
+</div>
+<a id="a170a1e54fe45b7fd0c7934f1309f7969" name="a170a1e54fe45b7fd0c7934f1309f7969"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a170a1e54fe45b7fd0c7934f1309f7969">&#9670;&#160;</a></span>PlayerCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> QuestStatusData::PlayerCount {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l06228">Player::_LoadQuestStatus()</a>, <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, and <a class="el" href="../../#l02025">Player::KilledPlayerCreditForQuest()</a>.</p>
+
+</div>
+</div>
+<a id="a4ce7af3a64737d7961b6dfa19189c932" name="a4ce7af3a64737d7961b6dfa19189c932"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4ce7af3a64737d7961b6dfa19189c932">&#9670;&#160;</a></span>Status</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/da1/a02231.html#abfc87d39d69176ad25e800fb4aa6f0d8">QuestStatus</a> QuestStatusData::Status {<a class="el" href="../../d7/da1/a02231.html#abfc87d39d69176ad25e800fb4aa6f0d8abefdf5f7417012e5d2adedf1dc155f28">QUEST_STATUS_NONE</a>}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l06228">Player::_LoadQuestStatus()</a>, <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l01791">Player::AreaExploredOrEventHappens()</a>, <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l12446">Player::HasQuestForGO()</a>, <a class="el" href="../../#l02264">Player::HasQuestForItem()</a>, <a class="el" href="../../#l01835">Player::ItemAddedQuestCheck()</a>, <a class="el" href="../../#l02056">Player::KillCreditGO()</a>, <a class="el" href="../../#l01927">Player::KilledMonsterCredit()</a>, <a class="el" href="../../#l01995">Player::KilledPlayerCredit()</a>, <a class="el" href="../../#l02171">Player::MoneyChanged()</a>, <a class="el" href="../../#l02208">Player::ReputationChanged()</a>, <a class="el" href="../../#l02236">Player::ReputationChanged2()</a>, and <a class="el" href="../../#l02112">Player::TalkedToCreature()</a>.</p>
+
+</div>
+</div>
+<a id="a16343f7a162e5b7b6a1a18345420c77a" name="a16343f7a162e5b7b6a1a18345420c77a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a16343f7a162e5b7b6a1a18345420c77a">&#9670;&#160;</a></span>Timer</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> QuestStatusData::Timer {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l06228">Player::_LoadQuestStatus()</a>, <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00886">Player::FailQuest()</a>, and <a class="el" href="../../#l00053">Player::Update()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -289,8 +274,8 @@ template&lt;class TObject &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/d8f/a10124.html">UpdatableScript</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:44:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/d8f/a10124.html">QuestStatusData</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:44:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

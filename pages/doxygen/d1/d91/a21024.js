@@ -1,10 +1,18 @@
 var a21024 =
 [
-    [ "npc_enslaved_proto_drakeAI", "d1/d91/a21024.html#a948bacd9d69613110fa10e6e39032baf", null ],
-    [ "MovementInform", "d1/d91/a21024.html#a4c15ed2904c72219d419efe98beb7857", null ],
-    [ "Reset", "d1/d91/a21024.html#a3a99b691141024906e967f5876c3da08", null ],
-    [ "SetData", "d1/d91/a21024.html#a1d1aa0027b94153b126c19688003eea8", null ],
-    [ "UpdateAI", "d1/d91/a21024.html#a7d364a448269bc9bb25b5dbab3388236", null ],
-    [ "_events", "d1/d91/a21024.html#adb4064cfb9c376945a2d6c42ed7c2420", null ],
-    [ "_setData", "d1/d91/a21024.html#a3977c9229b92cc417a6732a0b2968de9", null ]
+    [ "boss_svalaAI", "d1/d91/a21024.html#a568466d621043157958bea38595d42a8", null ],
+    [ "EnterEvadeMode", "d1/d91/a21024.html#a7808767e79ebe4c5ac784ff7a32874f6", null ],
+    [ "JustDied", "d1/d91/a21024.html#aa85b0d305074d0df887fbb7ba42a3b20", null ],
+    [ "JustEngagedWith", "d1/d91/a21024.html#ae36faacbbd22ddde8d8f25540e583c14", null ],
+    [ "JustSummoned", "d1/d91/a21024.html#ad4bf163bf81dee06bead6f9a8aaa2a3a", null ],
+    [ "KilledUnit", "d1/d91/a21024.html#a440053a21489b6e4691fc4a6e5984908", null ],
+    [ "Reset", "d1/d91/a21024.html#a9c6fca6d70c7c53048b137b7d8cc0861", null ],
+    [ "SetData", "d1/d91/a21024.html#a86f376743055f99c066ad1a7c960b6c7", null ],
+    [ "UpdateAI", "d1/d91/a21024.html#a47b7405bd2fd6789f61172cbacd12fa0", null ],
+    [ "ArthasGUID", "d1/d91/a21024.html#a42e1753c8a66cc292799c890b9177a3e", null ],
+    [ "events", "d1/d91/a21024.html#abe87bb56b844c75dd9b24a4d45c94e7f", null ],
+    [ "events2", "d1/d91/a21024.html#a542d2bc22970ee5835b2e15322dc2e58", null ],
+    [ "instance", "d1/d91/a21024.html#a58f451d373d8336d5b8b38e33a1eeea8", null ],
+    [ "Started", "d1/d91/a21024.html#a5d4b4c94062db7601fdc918f9727e03b", null ],
+    [ "summons", "d1/d91/a21024.html#a3d14b708a8156a6c9025ff92aa3774c4", null ]
 ];

@@ -1,11 +1,18 @@
 var a12876 =
 [
-    [ "boss_baroness_anastariAI", "d1/d26/a12876.html#acf180bbe881ba1f6e49c075254759c00", null ],
-    [ "JustDied", "d1/d26/a12876.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
-    [ "JustEngagedWith", "d1/d26/a12876.html#a7329455d99045e7002abffe09112a4ea", null ],
-    [ "Reset", "d1/d26/a12876.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
-    [ "SchedulePossession", "d1/d26/a12876.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
-    [ "UpdateAI", "d1/d26/a12876.html#a962e4e3091d126682825c326af5f6922", null ],
-    [ "_possessedTargetGuid", "d1/d26/a12876.html#a36e386b847c7032b5ce95a01070518ad", null ],
-    [ "_scheduler", "d1/d26/a12876.html#aa59518627a5e64e371dbbb45cfced75f", null ]
+    [ "npc_crusade_persuadedAI", "d1/d26/a12876.html#a9a6a762384bb8ca74a34d30472fa8e3c", null ],
+    [ "JustEngagedWith", "d1/d26/a12876.html#a6266a91324717feee94727a0578e9584", null ],
+    [ "Reset", "d1/d26/a12876.html#a127c36f01e2ddfeb26f3192a1db8ffaf", null ],
+    [ "SpellHit", "d1/d26/a12876.html#a72476d0e2c63d629c2200824cd3cb5a1", null ],
+    [ "UpdateAI", "d1/d26/a12876.html#a078facb2a0e5ba27f44999e7bb1e55f7", null ],
+    [ "PERSUADE_SUCCESS_CHANCE", "d1/d26/a12876.html#a048c84a809fe364b165ec57adf7567d3", null ],
+    [ "persuaded", "d1/d26/a12876.html#ab0ed254e65374ee7767fbbed16bedded", null ],
+    [ "playerGUID", "d1/d26/a12876.html#a3076964de32f12d70d41677fb626719b", null ],
+    [ "SAY_AGGRO_CHANCE", "d1/d26/a12876.html#a3f4d42544edf6443ed360477abaaba64", null ],
+    [ "SPEECH_COUNTER_PREVENT_SUCCESS_ROLEPLAY", "d1/d26/a12876.html#a56509a3338d5887667f63d1f6a04af98", null ],
+    [ "SPEECH_COUNTER_START_SUCCESS_ROLEPLAY", "d1/d26/a12876.html#ae082296b63763d2c18db5093dba4d18d", null ],
+    [ "SPEECH_TIMER_DEFAULT", "d1/d26/a12876.html#a1a63af278109662a6dc6bc814d2363a7", null ],
+    [ "SPEECH_TIMER_FOR_ROLEPLAY", "d1/d26/a12876.html#a1872c99adfb913f28ff5859e05edcdf0", null ],
+    [ "speechCounter", "d1/d26/a12876.html#a4b0c5d69a7563b2f4f399a60010378a9", null ],
+    [ "speechTimer", "d1/d26/a12876.html#aada4f1277fc1f000c27cefcd6011c24d", null ]
 ];

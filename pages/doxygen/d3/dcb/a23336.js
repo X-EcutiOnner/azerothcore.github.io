@@ -1,13 +1,13 @@
 var a23336 =
 [
-    [ "boss_ghazan", "d3/dcb/a23336.html#ae730362fcf3606c67b6b85147de98fb6", null ],
-    [ "DoAction", "d3/dcb/a23336.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
-    [ "InitializeAI", "d3/dcb/a23336.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
-    [ "JustEngagedWith", "d3/dcb/a23336.html#ad4136f0f63d267284f36756793c0efa7", null ],
-    [ "JustReachedHome", "d3/dcb/a23336.html#af9f2dd854036d5c8b9c6703499836199", null ],
-    [ "MovementInform", "d3/dcb/a23336.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
-    [ "Reset", "d3/dcb/a23336.html#afc9522a26060643f2f9d25a8a98691b7", null ],
-    [ "UpdateAI", "d3/dcb/a23336.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
-    [ "_movedToPlatform", "d3/dcb/a23336.html#aa6c0c391355ac0b698d67796efd63062", null ],
-    [ "_reachedPlatform", "d3/dcb/a23336.html#af3476318b4721bd52facaf735eabb1f9", null ]
+    [ "boss_olm_the_summoner", "d3/dcb/a23336.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
+    [ "AttackStart", "d3/dcb/a23336.html#a334ab95cfc3320db1a568bcb5a1d9542", null ],
+    [ "JustDied", "d3/dcb/a23336.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
+    [ "JustEngagedWith", "d3/dcb/a23336.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
+    [ "JustSummoned", "d3/dcb/a23336.html#a546bede780b7d67b98ec251ae2e1b812", null ],
+    [ "Reset", "d3/dcb/a23336.html#a8dcdc816276a1932612d554cff703a45", null ],
+    [ "UpdateAI", "d3/dcb/a23336.html#a967f330966fdb29f26ab24e8f40d2152", null ],
+    [ "_scheduler", "d3/dcb/a23336.html#a448ba3a88156e80eebad44585791ab21", null ],
+    [ "instance", "d3/dcb/a23336.html#a8caabc31bb7a8548eb936c34c655df68", null ],
+    [ "summons", "d3/dcb/a23336.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
 ];

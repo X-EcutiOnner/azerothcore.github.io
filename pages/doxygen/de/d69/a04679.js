@@ -1,42 +1,24 @@
 var a04679 =
 [
-    [ "CliRunnable.cpp", "d5/d49/a02282.html", null ],
-    [ "CliRunnable.h", "d2/dd2/a02279.html", null ],
-    [ "Main.cpp", "d1/d1e/a29253.html", null ],
-    [ "FreezeDetector", "d3/d27/a05574.html", [
-      [ "FreezeDetector", "de/d69/a04679.html#gae4bea4699ff716ee22295d12bc9f1b9b", null ],
-      [ "Handler", "de/d69/a04679.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb", null ],
-      [ "Start", "de/d69/a04679.html#ga6a90ff702a8d363bd23334c81e2e5770", null ],
-      [ "_lastChangeMsTime", "de/d69/a04679.html#ga0a2b971b7ea733d846be71abf7b5dc1d", null ],
-      [ "_maxCoreStuckTimeInMs", "de/d69/a04679.html#ga54077eab38ea5d0db27f08c50fd0652e", null ],
-      [ "_timer", "de/d69/a04679.html#ga2377cec7cca6dbb9133a3d48b4d376c3", null ],
-      [ "_worldLoopCounter", "de/d69/a04679.html#ga0ea988a0e070d056c16d7c9f3b1035f4", null ]
+    [ "MMAP::MeshData", "d9/d38/a28556.html", "d9/d38/a28556" ],
+    [ "MMAP::TerrainBuilder", "d3/dd8/a28560.html", "d3/dd8/a28560" ],
+    [ "Grid", "de/d69/a04679.html#a6ddcf7a168396ad1ecedfc4e5fe04c09", [
+      [ "GRID_V8", "de/d69/a04679.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a1b3d969edeab4d39be8a3a59ebca6e0b", null ],
+      [ "GRID_V9", "de/d69/a04679.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a90e846a47ab162703bf2dc5664a61289", null ]
     ] ],
-    [ "_ACORE_CORE_CONFIG", "de/d69/a04679.html#ga1d466b8deaea4c5b80b4abcdc38991fd", null ],
-    [ "ClearOnlineAccounts", "de/d69/a04679.html#ga285010ee0ae83f9198f08fa3145877d7", null ],
-    [ "CliThread", "de/d69/a04679.html#ga2a2e263e5224262317a4728b5a4c18ac", null ],
-    [ "commandFinished", "de/d69/a04679.html#gaf86bc63df807e80b7a14688e48340fea", null ],
-    [ "FreezeDetector::FreezeDetector", "de/d69/a04679.html#gae4bea4699ff716ee22295d12bc9f1b9b", null ],
-    [ "GetConsoleArguments", "de/d69/a04679.html#gab889056920cce8fbe96e920cea5fd9e6", null ],
-    [ "FreezeDetector::Handler", "de/d69/a04679.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb", null ],
-    [ "LoadRealmInfo", "de/d69/a04679.html#ga74b21e249952fe0d6d779ee217c76dc5", null ],
-    [ "main", "de/d69/a04679.html#ga3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "PrintCliPrefix", "de/d69/a04679.html#ga6553c1ff0337c88fb9f9d94a97f49b9a", null ],
-    [ "ShutdownCLIThread", "de/d69/a04679.html#gaafe46b3c9a56a31faa60963b6a1f202a", null ],
-    [ "SignalHandler", "de/d69/a04679.html#gad82d96de9a84a7d0325afcd3121344a4", null ],
-    [ "FreezeDetector::Start", "de/d69/a04679.html#ga6a90ff702a8d363bd23334c81e2e5770", null ],
-    [ "StartDB", "de/d69/a04679.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StartRaSocketAcceptor", "de/d69/a04679.html#ga0781c2ca38d89a89b174f81fb895285b", null ],
-    [ "StopDB", "de/d69/a04679.html#ga927af1587546ee7503a3b9a18f6439c0", null ],
-    [ "utf8print", "de/d69/a04679.html#gacf6bc075c8e41c95b5633526721136ce", null ],
-    [ "WorldUpdateLoop", "de/d69/a04679.html#ga62605923595bdfa644784c8a929fa1a7", null ],
-    [ "FreezeDetector::_lastChangeMsTime", "de/d69/a04679.html#ga0a2b971b7ea733d846be71abf7b5dc1d", null ],
-    [ "FreezeDetector::_maxCoreStuckTimeInMs", "de/d69/a04679.html#ga54077eab38ea5d0db27f08c50fd0652e", null ],
-    [ "FreezeDetector::_timer", "de/d69/a04679.html#ga2377cec7cca6dbb9133a3d48b4d376c3", null ],
-    [ "FreezeDetector::_worldLoopCounter", "de/d69/a04679.html#ga0ea988a0e070d056c16d7c9f3b1035f4", null ],
-    [ "CLI_PREFIX", "de/d69/a04679.html#ga77eabd925e8f9aa379616b264e287cea", null ],
-    [ "m_ServiceStatus", "de/d69/a04679.html#gabad888b856358b30aa3928d7e01916fb", null ],
-    [ "serviceDescription", "de/d69/a04679.html#ga2994dda4045f1e2d3d675565a16a4dd2", null ],
-    [ "serviceLongName", "de/d69/a04679.html#ga34b5207234887e0d62724cf770037f6f", null ],
-    [ "serviceName", "de/d69/a04679.html#ga69c549a4f4a1e88fa4a2c38cde62f569", null ]
+    [ "Spot", "de/d69/a04679.html#aa0140172b3856ff5a4e0db0227a41165", [
+      [ "TOP", "de/d69/a04679.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1", null ],
+      [ "RIGHT", "de/d69/a04679.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e", null ],
+      [ "LEFT", "de/d69/a04679.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b", null ],
+      [ "BOTTOM", "de/d69/a04679.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04", null ],
+      [ "ENTIRE", "de/d69/a04679.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12", null ]
+    ] ],
+    [ "GRID_PART_SIZE", "de/d69/a04679.html#a39bc2d4fa649e77addef85b06c49b369", null ],
+    [ "GRID_SIZE", "de/d69/a04679.html#a16e4fdf7de4239156a5a8eb83dcc9e8c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT", "de/d69/a04679.html#a44bbf7085ddd1deacaae673ea4ec357c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT_MAX", "de/d69/a04679.html#a26a6da9ce81eb096651bf47cb90f947f", null ],
+    [ "V8_SIZE", "de/d69/a04679.html#a6918d13eba00db309998162fbff2fb7c", null ],
+    [ "V8_SIZE_SQ", "de/d69/a04679.html#a94a0ee7c4f225dfc488737a7ba825bae", null ],
+    [ "V9_SIZE", "de/d69/a04679.html#a32c90e1638c0f8693e2fc95201d2ec3f", null ],
+    [ "V9_SIZE_SQ", "de/d69/a04679.html#a7eb8c24e8759cfd1ebd37b1efc72618b", null ]
 ];

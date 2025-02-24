@@ -1,8 +1,9 @@
 var a21792 =
 [
-    [ "npc_q24545_vegardAI", "d9/da9/a21792.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
-    [ "JustDied", "d9/da9/a21792.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
-    [ "KilledUnit", "d9/da9/a21792.html#a2d78117a6c2a29f52f1905595425964a", null ],
-    [ "UpdateAI", "d9/da9/a21792.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
-    [ "events", "d9/da9/a21792.html#a68f48d92cc5559025e635d599c2882e3", null ]
+    [ "npc_venture_co_stragglerAI", "d9/da9/a21792.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
+    [ "Reset", "d9/da9/a21792.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
+    [ "SpellHit", "d9/da9/a21792.html#ae1919454c270d10342079b60a727a306", null ],
+    [ "UpdateAI", "d9/da9/a21792.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
+    [ "_events", "d9/da9/a21792.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
+    [ "_playerGUID", "d9/da9/a21792.html#a649493944b143782d995b5bdda3714b4", null ]
 ];

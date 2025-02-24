@@ -1,13 +1,10 @@
 var a02447 =
 [
-    [ "FollowerAI", "d9/dac/a06190.html", "d9/dac/a06190" ],
-    [ "eFollowState", "d8/d9a/a02447.html#a1ec9c3a60a913ecbf16778626ccf0138", [
-      [ "STATE_FOLLOW_NONE", "d8/d9a/a02447.html#a1ec9c3a60a913ecbf16778626ccf0138a8d3724990b83869077eeef397588a9ae", null ],
-      [ "STATE_FOLLOW_INPROGRESS", "d8/d9a/a02447.html#a1ec9c3a60a913ecbf16778626ccf0138aa4c302e4ec6ca00eb8d737e1b43e9e0b", null ],
-      [ "STATE_FOLLOW_RETURNING", "d8/d9a/a02447.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523", null ],
-      [ "STATE_FOLLOW_PAUSED", "d8/d9a/a02447.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6", null ],
-      [ "STATE_FOLLOW_COMPLETE", "d8/d9a/a02447.html#a1ec9c3a60a913ecbf16778626ccf0138a73636e044fe9883bf259a17bc617e7c9", null ],
-      [ "STATE_FOLLOW_PREEVENT", "d8/d9a/a02447.html#a1ec9c3a60a913ecbf16778626ccf0138a5ed17b2670a724e36c47de32fa5e821b", null ],
-      [ "STATE_FOLLOW_POSTEVENT", "d8/d9a/a02447.html#a1ec9c3a60a913ecbf16778626ccf0138a77b50e5da22490d74b38dcebae6e6c6a", null ]
-    ] ]
+    [ "AddGossipItemFor", "d8/d9a/a02447.html#a21e32e886a589c9093660b3c4c58f72c", null ],
+    [ "AddGossipItemFor", "d8/d9a/a02447.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5", null ],
+    [ "AddGossipItemFor", "d8/d9a/a02447.html#acd7e8e52a911742a99728cf9408e23b8", null ],
+    [ "ClearGossipMenuFor", "d8/d9a/a02447.html#af077a82741577a63a075c7d40b3b3dc5", null ],
+    [ "CloseGossipMenuFor", "d8/d9a/a02447.html#af8f7e54dac5ecc86e92d780c3918cb09", null ],
+    [ "SendGossipMenuFor", "d8/d9a/a02447.html#ad893abf2b09592b57715ef4a3222a2b3", null ],
+    [ "SendGossipMenuFor", "d8/d9a/a02447.html#a18599cfc6649557de0d505ed4d4a0210", null ]
 ];

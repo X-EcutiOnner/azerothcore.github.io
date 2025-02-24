@@ -1,14 +1,13 @@
 var a23500 =
 [
-    [ "boss_vazruden", "d5/dd4/a23500.html#a9908d6082a09d55dd0d8bb801784a151", null ],
-    [ "DamageTaken", "d5/dd4/a23500.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
-    [ "EnterEvadeMode", "d5/dd4/a23500.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
-    [ "JustDied", "d5/dd4/a23500.html#a525025b41b53a577bdff1eb818191ed7", null ],
-    [ "JustEngagedWith", "d5/dd4/a23500.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
-    [ "KilledUnit", "d5/dd4/a23500.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
-    [ "Reset", "d5/dd4/a23500.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
-    [ "UpdateAI", "d5/dd4/a23500.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
-    [ "_hasSpoken", "d5/dd4/a23500.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
-    [ "_nazanCalled", "d5/dd4/a23500.html#a44d53934c743e9beb539681719997852", null ],
-    [ "_scheduler", "d5/dd4/a23500.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
+    [ "boss_warbringer_omrogg", "d5/dd4/a23500.html#a20f790595640cd41d636ad43c8837cda", null ],
+    [ "HandleHeadTalk", "d5/dd4/a23500.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
+    [ "JustDied", "d5/dd4/a23500.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
+    [ "JustEngagedWith", "d5/dd4/a23500.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
+    [ "KilledUnit", "d5/dd4/a23500.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
+    [ "ScheduleBurningPhase", "d5/dd4/a23500.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
+    [ "ScheduleNonBurningPhase", "d5/dd4/a23500.html#a176217a0767e8153d07996461ac68f60", null ],
+    [ "SetData", "d5/dd4/a23500.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
+    [ "UpdateAI", "d5/dd4/a23500.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
+    [ "_headTalk", "d5/dd4/a23500.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
 ];

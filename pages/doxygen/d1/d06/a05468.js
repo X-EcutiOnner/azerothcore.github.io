@@ -1,11 +1,7 @@
 var a05468 =
 [
-    [ "PeriodicTimer", "d1/d06/a05468.html#a82820c45f47f423315fe761f9c45c3b5", null ],
-    [ "SetPeriodic", "d1/d06/a05468.html#abea9c11f88ef0ef48c16a24584774b5b", null ],
-    [ "TPassed", "d1/d06/a05468.html#a3fdac0a26ee6f5db8d536ae44907930d", null ],
-    [ "TReset", "d1/d06/a05468.html#af4e78fc1284797b50c2951c10f92b641", null ],
-    [ "TUpdate", "d1/d06/a05468.html#a1b013fe47a2dfb131110d3a29ccf9868", null ],
-    [ "Update", "d1/d06/a05468.html#a535bd070d606ba5a8621469a7ddd3449", null ],
-    [ "i_expireTime", "d1/d06/a05468.html#a7b889a1fbbf905c952834fb8d745f4a6", null ],
-    [ "i_period", "d1/d06/a05468.html#a5b45d28e36d665190323f34776b87796", null ]
+    [ "Count", "d1/d06/a05468.html#aeeb13e953eff5fde8c9edff41ee17806", null ],
+    [ "FromIndex", "d1/d06/a05468.html#a8c6cb9f0a8d3488956904e2141405cf7", null ],
+    [ "ToIndex", "d1/d06/a05468.html#a25cc4ea08020adcf6deac42e2912b1f9", null ],
+    [ "ToString", "d1/d06/a05468.html#a8d3379c79f103655dd49d993402b741d", null ]
 ];

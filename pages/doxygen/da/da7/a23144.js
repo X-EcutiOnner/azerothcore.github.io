@@ -1,7 +1,6 @@
 var a23144 =
 [
-    [ "HandleEffectApply", "da/da7/a23144.html#a3893fffea480b47d06c4903deb051aa9", null ],
-    [ "HandleEffectRemove", "da/da7/a23144.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
-    [ "PrepareAuraScript", "da/da7/a23144.html#a246c20ab26d1490fe38afd558a7ae406", null ],
-    [ "Register", "da/da7/a23144.html#aea639a3ae0f003c6213143427f3b1d23", null ]
+    [ "go_ahune_ice_stone", "da/da7/a23144.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "da/da7/a23144.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "da/da7/a23144.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

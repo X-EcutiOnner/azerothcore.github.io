@@ -1,7 +1,10 @@
 var a13476 =
 [
-    [ "boss_blight_wormAI", "d0/d9d/a13476.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "d0/d9d/a13476.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "d0/d9d/a13476.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "d0/d9d/a13476.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "npc_grand_magister_rommathAI", "d0/d9d/a13476.html#a5e9404dd8bf4b513e05daac53c076314", null ],
+    [ "DoAction", "d0/d9d/a13476.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
+    [ "MoveInLineOfSight", "d0/d9d/a13476.html#ad35b64b37915484b133bcd185a832011", null ],
+    [ "UpdateAI", "d0/d9d/a13476.html#ac687bd20f0ae66b21ce52c21561af417", null ],
+    [ "announced", "d0/d9d/a13476.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
+    [ "events", "d0/d9d/a13476.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
+    [ "playerGUID", "d0/d9d/a13476.html#ad0ac0647feb998e837a44b0a688694e9", null ]
 ];

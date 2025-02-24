@@ -1,16 +1,11 @@
 var a04996 =
 [
-    [ "WorldModel", "dd/dc9/a04996.html#a42116d73362e248de40a88f49d95a0f4", null ],
-    [ "GetGroupModels", "dd/dc9/a04996.html#ae739dd33c5fcfdf4129ec0f9292eb885", null ],
-    [ "GetLocationInfo", "dd/dc9/a04996.html#a3a198d0cbd607e574cb53a08d6b7457a", null ],
-    [ "IntersectPoint", "dd/dc9/a04996.html#ab049f44af8c65d8c41309157473a8b01", null ],
-    [ "IntersectRay", "dd/dc9/a04996.html#a63c3d4e85d0924d6c46d8b6c6f70a593", null ],
-    [ "readFile", "dd/dc9/a04996.html#a8e33038d14961c4f28b36d2bd2237df6", null ],
-    [ "setGroupModels", "dd/dc9/a04996.html#aadf13de73aee68848ea6082418e625b0", null ],
-    [ "setRootWmoID", "dd/dc9/a04996.html#a5d6daa757304ceb69e578a6b9ae519d4", null ],
-    [ "writeFile", "dd/dc9/a04996.html#ae449aaa575e98eac6838b0f18660697a", null ],
-    [ "Flags", "dd/dc9/a04996.html#aea4d1e085733b0bbfbb389d7c4ac9bd1", null ],
-    [ "groupModels", "dd/dc9/a04996.html#ae44c57520cea5da5a5f082167e9f818d", null ],
-    [ "groupTree", "dd/dc9/a04996.html#a101692f46ae752cbde7b264b02e23168", null ],
-    [ "RootWMOID", "dd/dc9/a04996.html#a5a8745b313b1417e9dbb1d571fb173dd", null ]
+    [ "ModelPosition", "dd/dc9/a04996.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
+    [ "init", "dd/dc9/a04996.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
+    [ "moveToBasePos", "dd/dc9/a04996.html#a2fe1b48319a056f110ef700877257731", null ],
+    [ "transform", "dd/dc9/a04996.html#add4c2efec70be75d8ffcd1009b6c2699", null ],
+    [ "iDir", "dd/dc9/a04996.html#a24ba62281166e60036ac8a57b26c6abd", null ],
+    [ "iPos", "dd/dc9/a04996.html#a36a3bd930273e0313e3b09c1289e9317", null ],
+    [ "iRotation", "dd/dc9/a04996.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
+    [ "iScale", "dd/dc9/a04996.html#a81bb029dce2aadec2f147a1329ee285e", null ]
 ];

@@ -1,9 +1,10 @@
 var a14032 =
 [
-    [ "CheckCast", "dc/db8/a14032.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
-    [ "FilterTargets", "dc/db8/a14032.html#a9638048b4107db116474abf8e18d7760", null ],
-    [ "HandleBeforeHit", "dc/db8/a14032.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
-    [ "HandleScriptEffect", "dc/db8/a14032.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
-    [ "PrepareSpellScript", "dc/db8/a14032.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
-    [ "Register", "dc/db8/a14032.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
+    [ "npc_brewfest_super_brew_trigger", "dc/db8/a14032.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "dc/db8/a14032.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "dc/db8/a14032.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "dc/db8/a14032.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "dc/db8/a14032.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "dc/db8/a14032.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "dc/db8/a14032.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

@@ -1,5 +1,5 @@
 var a03356 =
 [
-    [ "Acore::EmoteChatBuilder", "d5/d47/a09526.html", "d5/d47/a09526" ],
-    [ "isNasty", "d2/deb/a03356.html#ae6092f307f09a5dcbbc5ed10c145032f", null ]
+    [ "AddonHandler", "dd/db9/a09532.html", "dd/db9/a09532" ],
+    [ "sAddOnHandler", "d2/deb/a03356.html#a53c18d341aaa47d117be75333e4ab43d", null ]
 ];

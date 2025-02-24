@@ -1,6 +1,9 @@
 var a19452 =
 [
-    [ "spell_krystallus_shatter_SpellScript", "d6/d1e/a19456.html", "d6/d1e/a19456" ],
-    [ "spell_krystallus_shatter", "d3/dc4/a19452.html#a3845e28e2e90252c04e5f8355cba748a", null ],
-    [ "GetSpellScript", "d3/dc4/a19452.html#a0d52e0904ed8a694adc2c40131f7c9e9", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "d3/dc4/a19452.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "d3/dc4/a19452.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "d3/dc4/a19452.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "d3/dc4/a19452.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "d3/dc4/a19452.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "d3/dc4/a19452.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

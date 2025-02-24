@@ -1,7 +1,7 @@
 var a12120 =
 [
-    [ "HandlePeriodic", "db/db7/a12120.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "db/db7/a12120.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "db/db7/a12120.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "db/db7/a12120.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "boss_broodlordAI", "db/db7/a12120.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
+    [ "JustDied", "db/db7/a12120.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
+    [ "JustEngagedWith", "db/db7/a12120.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
+    [ "UpdateAI", "db/db7/a12120.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
 ];

@@ -1,7 +1,6 @@
 var a09136 =
 [
-    [ "PowerCheck", "da/deb/a09136.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
-    [ "operator()", "da/deb/a09136.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
-    [ "_equals", "da/deb/a09136.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
-    [ "_power", "da/deb/a09136.html#a922a57b62b4289835b539a69b0f58fa1", null ]
+    [ "PlayerRelocationNotifier", "da/deb/a09136.html#a01cbecc2a9727d822b94a90b0c3035aa", null ],
+    [ "Visit", "da/deb/a09136.html#ab9b3ad469216db3a7a49176b41b0b1ea", null ],
+    [ "Visit", "da/deb/a09136.html#acffc7490cb9b0cf171a1cfc6e1dbdc79", null ]
 ];

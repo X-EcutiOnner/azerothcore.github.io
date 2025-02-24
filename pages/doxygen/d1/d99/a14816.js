@@ -1,10 +1,8 @@
 var a14816 =
 [
-    [ "boss_moam", "d1/d99/a14816.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
-    [ "InitializeAI", "d1/d99/a14816.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
-    [ "JustDied", "d1/d99/a14816.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
-    [ "JustEngagedWith", "d1/d99/a14816.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
-    [ "Reset", "d1/d99/a14816.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
-    [ "SummonedCreatureDies", "d1/d99/a14816.html#a8401c5e2bd216deee197617b78d85222", null ],
-    [ "UpdateAI", "d1/d99/a14816.html#aadd8320c6194923b113967d3d6c49a5e", null ]
+    [ "HandleScript", "d1/d99/a14816.html#ac58aef1b295e32c8a44852278edc18f8", null ],
+    [ "Load", "d1/d99/a14816.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
+    [ "PrepareSpellScript", "d1/d99/a14816.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
+    [ "Register", "d1/d99/a14816.html#a95f4abd67d6baf75980ff28a7518503d", null ],
+    [ "Validate", "d1/d99/a14816.html#a98271e7adb17b11e39241154a83b0d0d", null ]
 ];

@@ -1,7 +1,7 @@
 var a15012 =
 [
-    [ "FilterTargets", "d3/d7e/a15012.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "d3/d7e/a15012.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "d3/d7e/a15012.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "d3/d7e/a15012.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "npc_sartura_royal_guard", "d3/d7e/a15012.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "d3/d7e/a15012.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "d3/d7e/a15012.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "d3/d7e/a15012.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

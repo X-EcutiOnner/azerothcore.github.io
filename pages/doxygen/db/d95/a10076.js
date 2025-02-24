@@ -1,7 +1,5 @@
 var a10076 =
 [
-    [ "SpellScriptLoader", "db/d95/a10076.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
-    [ "GetAuraScript", "db/d95/a10076.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "db/d95/a10076.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "db/d95/a10076.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "petitionGuid", "db/d95/a10076.html#adafc1020d722bd3885429041ce9a292c", null ],
+    [ "signatureMap", "db/d95/a10076.html#a70bd865a5b11ffc0ceed08b683548b42", null ]
 ];

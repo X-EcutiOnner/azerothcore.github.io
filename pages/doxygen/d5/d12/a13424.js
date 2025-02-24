@@ -1,9 +1,12 @@
 var a13424 =
 [
-    [ "npc_tyrion_spybotAI", "d5/d12/a13424.html#aedad685279012266637d29069ead9063", null ],
-    [ "Reset", "d5/d12/a13424.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
-    [ "UpdateAI", "d5/d12/a13424.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
-    [ "WaypointReached", "d5/d12/a13424.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
-    [ "uiPhase", "d5/d12/a13424.html#af5dbb99fe18d96665efd04bd53294636", null ],
-    [ "uiTimer", "d5/d12/a13424.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
+    [ "npc_eastvale_peasent", "d5/d12/a13424.html#a5282dac41228569d4431d84c1f160f05", null ],
+    [ "Initialize", "d5/d12/a13424.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
+    [ "PathEndReached", "d5/d12/a13424.html#a002ec21e0715b020aa19cd0839408033", null ],
+    [ "Reset", "d5/d12/a13424.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
+    [ "SetData", "d5/d12/a13424.html#add14d9505880727e208e7ef9428f5acd", null ],
+    [ "UpdateAI", "d5/d12/a13424.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
+    [ "_events", "d5/d12/a13424.html#a1b310b07481366042dc45f7a27ce6408", null ],
+    [ "_path", "d5/d12/a13424.html#a907db8e6148947248b5bcfdb35023e16", null ],
+    [ "_realenGUID", "d5/d12/a13424.html#aad06364be8698b5ba69cd229e2a5085b", null ]
 ];

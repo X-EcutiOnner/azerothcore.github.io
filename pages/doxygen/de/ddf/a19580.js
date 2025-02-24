@@ -1,6 +1,7 @@
 var a19580 =
 [
-    [ "npc_collapsing_starAI", "de/df9/a19584.html", "de/df9/a19584" ],
-    [ "npc_collapsing_star", "de/ddf/a19580.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
-    [ "GetAI", "de/ddf/a19580.html#a346af96d122e64c68defdeccb9183cd4", null ]
+    [ "HandleDummyEffect", "de/ddf/a19580.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "de/ddf/a19580.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "de/ddf/a19580.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "de/ddf/a19580.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

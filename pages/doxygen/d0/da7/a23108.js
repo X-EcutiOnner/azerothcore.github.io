@@ -1,6 +1,9 @@
 var a23108 =
 [
-    [ "HandleScriptEffect", "d0/da7/a23108.html#a6489e3a58421da7c448a24d6673564c5", null ],
-    [ "PrepareSpellScript", "d0/da7/a23108.html#a5afd50fdc8393a12cd39a56c342f9179", null ],
-    [ "Register", "d0/da7/a23108.html#a274d65aa393a65e19bbb67a5d07c7428", null ]
+    [ "CalcPeriodic", "d0/da7/a23108.html#a4c5a034d23253b2cf08cb86f12821184", null ],
+    [ "HandleEffectApply", "d0/da7/a23108.html#af60491946062054504b20e16273ed594", null ],
+    [ "HandleEffectRemove", "d0/da7/a23108.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
+    [ "HandlePeriodic", "d0/da7/a23108.html#a5137e24394fa14129c44d92c79eef117", null ],
+    [ "PrepareAuraScript", "d0/da7/a23108.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
+    [ "Register", "d0/da7/a23108.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
 ];

@@ -1,5 +1,8 @@
 var a27328 =
 [
-    [ "item_captured_frog", "dd/d38/a27328.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "dd/d38/a27328.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "npc_nelsonAI", "db/d58/a27332.html", "db/d58/a27332" ],
+    [ "npc_nelson", "dd/d38/a27328.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "dd/d38/a27328.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "dd/d38/a27328.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "dd/d38/a27328.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

@@ -1,6 +1,9 @@
 var a20308 =
 [
-    [ "npc_ulduar_vx001AI", "df/dab/a20312.html", "df/dab/a20312" ],
-    [ "npc_ulduar_vx001", "da/d79/a20308.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
-    [ "GetAI", "da/d79/a20308.html#acdab817141b851deb09861230323ee58", null ]
+    [ "npc_ulduar_bot_summon_triggerAI", "da/d79/a20308.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
+    [ "DoAction", "da/d79/a20308.html#ac5d0e28ee330741da3b287d965537f39", null ],
+    [ "Reset", "da/d79/a20308.html#a91207c04ecee6fc0e906133e054bf51b", null ],
+    [ "UpdateAI", "da/d79/a20308.html#aebec433e806d4f63f5593db0301612b4", null ],
+    [ "option", "da/d79/a20308.html#a98bb19fea19a05127b4b32df039acf05", null ],
+    [ "timer", "da/d79/a20308.html#a118d048557b0ed314180299c3cd2bcbc", null ]
 ];

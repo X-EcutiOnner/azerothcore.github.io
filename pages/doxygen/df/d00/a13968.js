@@ -1,17 +1,19 @@
 var a13968 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "df/d00/a13968.html#aacbb3bb0d212ffafae475c74790d9c63", null ],
-    [ "GetData", "df/d00/a13968.html#ae8c0fa463d3e5b5dafb7b14b5d32a4b1", null ],
-    [ "GetGuidData", "df/d00/a13968.html#a0da827e64e90a1f97b75038621a195ff", null ],
-    [ "OnCreatureCreate", "df/d00/a13968.html#a951c6f5e1dc460cd820fba49add52898", null ],
-    [ "OnGameObjectCreate", "df/d00/a13968.html#a7649a9bcdfafd3c8d7001555e60910af", null ],
-    [ "RemoveHakkarPowerStack", "df/d00/a13968.html#a0234565dc9c87e32bcd0a7f19e2336b6", null ],
-    [ "SetBossState", "df/d00/a13968.html#aaf5d69e4993591e0f936e2109df1fb07", null ],
-    [ "_arlokkGUID", "df/d00/a13968.html#a92d30a8e0691e5bc6a58ff26cc06df36", null ],
-    [ "_edgeOfMadnessGUID", "df/d00/a13968.html#aa7bbbb942592651857f933503da0e808", null ],
-    [ "_gahzrankaGUID", "df/d00/a13968.html#af0e854382a2316363c50d60f03095097", null ],
-    [ "_goGongOfBethekkGUID", "df/d00/a13968.html#a1f33ff891c8289a49dd2b979a064c323", null ],
-    [ "_hakkarGUID", "df/d00/a13968.html#aeca34a55f3c378311ae1b46313cf22de", null ],
-    [ "_jindoTheHexxerGUID", "df/d00/a13968.html#a48ec95fa51ddf50aa0249a3798bbc898", null ],
-    [ "_vilebranchSpeakerGUID", "df/d00/a13968.html#a07cff6b252eb9b08855bc8bd7e5d7735", null ]
+    [ "boss_thekal", "df/d00/a13968.html#a91e8fd9ba169d5096fd06471f8bd16e9", null ],
+    [ "CheckPhaseTransition", "df/d00/a13968.html#a95aeb81565f5863eec67106ae1118ac4", null ],
+    [ "DamageTaken", "df/d00/a13968.html#a98be9a4d815f6fdc01acbfaa916b721c", null ],
+    [ "DoAction", "df/d00/a13968.html#aa3d81738fbb42d5575dd8e5b30d84563", null ],
+    [ "Initialize", "df/d00/a13968.html#aec365f330eed69513e988f895ec780e7", null ],
+    [ "JustDied", "df/d00/a13968.html#a79bc19df134cbeb17f0941865461bd0d", null ],
+    [ "JustEngagedWith", "df/d00/a13968.html#af5e2b2b5665270f29243921e51280190", null ],
+    [ "Reset", "df/d00/a13968.html#a684bf1fc087970a41cf79959ba57b31b", null ],
+    [ "ReviveZealot", "df/d00/a13968.html#aab84b3390cf8cc95dc8a2067ed38b4ab", null ],
+    [ "SetData", "df/d00/a13968.html#a586805c5f8d20a35055cf12a3c9f673f", null ],
+    [ "UpdateAI", "df/d00/a13968.html#a4b5e7dae10900a197d047b6ea32c33ed", null ],
+    [ "UpdateZealotStatus", "df/d00/a13968.html#ac69068240dfc1ecf30f37e36c3e51353", null ],
+    [ "_enraged", "df/d00/a13968.html#aba5ac2c4cdac1d4a0e37e9d6cd3b1422", null ],
+    [ "_lorkhanDied", "df/d00/a13968.html#a0f84ad2f224fe29fc4ddde3258200e10", null ],
+    [ "_wasDead", "df/d00/a13968.html#aec4eea1f0d8ebffb1bbc2646e986f300", null ],
+    [ "_zathDied", "df/d00/a13968.html#ae3df1561ee3dcb3887f6e646b6277b29", null ]
 ];

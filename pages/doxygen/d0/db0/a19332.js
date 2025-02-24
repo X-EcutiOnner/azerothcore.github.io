@@ -1,6 +1,6 @@
 var a19332 =
 [
-    [ "HandleDamageCalc", "d0/db0/a19332.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
-    [ "PrepareSpellScript", "d0/db0/a19332.html#a754da297cd5801616e24bf2d802d0b38", null ],
-    [ "Register", "d0/db0/a19332.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
+    [ "boss_bjarngrimAI", "d3/d48/a19336.html", "d3/d48/a19336" ],
+    [ "boss_bjarngrim", "d0/db0/a19332.html#ab509688547d41ec1fd094fdc45291959", null ],
+    [ "GetAI", "d0/db0/a19332.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
 ];

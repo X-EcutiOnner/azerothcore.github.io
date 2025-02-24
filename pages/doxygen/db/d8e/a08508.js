@@ -1,13 +1,18 @@
 var a08508 =
 [
-    [ "MMapTargetData", "db/d8e/a08508.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
-    [ "MMapTargetData", "db/d8e/a08508.html#a8312ea3187617e78b28aab842a8284cc", null ],
-    [ "MMapTargetData", "db/d8e/a08508.html#a4108ff5fbbf7c468ff7d90ac7beea4fa", null ],
-    [ "MMapTargetData", "db/d8e/a08508.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
-    [ "operator=", "db/d8e/a08508.html#a4053689f5f675cf1a621dfb39211b3cc", null ],
-    [ "operator=", "db/d8e/a08508.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
-    [ "PosChanged", "db/d8e/a08508.html#ade55876b7781b47a72dac9fea1f2e420", null ],
-    [ "_endTime", "db/d8e/a08508.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
-    [ "_posOwner", "db/d8e/a08508.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
-    [ "_posTarget", "db/d8e/a08508.html#a7f089d873690e8ea549f6345b6598fc4", null ]
+    [ "PlayerInfo", "db/d8e/a08508.html#a8a26bdeb267824135b3f84baa2585baa", null ],
+    [ "action", "db/d8e/a08508.html#a0f68412598a9741e9b5ce7a42c82d129", null ],
+    [ "areaId", "db/d8e/a08508.html#a60d086c6e6879e6c5d8b5a24c0ae7bf8", null ],
+    [ "castSpells", "db/d8e/a08508.html#a35ab273058db0828c91f01d823467e02", null ],
+    [ "customSpells", "db/d8e/a08508.html#ab40e5fd724fab03afbbd38713e1dd4bf", null ],
+    [ "displayId_f", "db/d8e/a08508.html#adf14854368c9351fe2fba3215194f2f9", null ],
+    [ "displayId_m", "db/d8e/a08508.html#a2ce7d9aa7fc52bd9768c75b88f88b256", null ],
+    [ "item", "db/d8e/a08508.html#ad76819034c64c0c691561eff683b7e57", null ],
+    [ "levelInfo", "db/d8e/a08508.html#abbff546bbe2cc0ea643c41456c1f0d9f", null ],
+    [ "mapId", "db/d8e/a08508.html#ad8d359374f74de40c1c591bb61976405", null ],
+    [ "orientation", "db/d8e/a08508.html#a041a37c356d50860cab9f1ced33a28d0", null ],
+    [ "positionX", "db/d8e/a08508.html#a55a076dc53e8c2d0b2ab11b1087ebccd", null ],
+    [ "positionY", "db/d8e/a08508.html#a7314ecd469357e2eb46ed3d133a5a7a0", null ],
+    [ "positionZ", "db/d8e/a08508.html#ad21a8dd3353d3f141bcc9af65e607aee", null ],
+    [ "skills", "db/d8e/a08508.html#a3bec7891e115ab3cff40c3d95174981c", null ]
 ];

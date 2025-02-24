@@ -1,8 +1,8 @@
 var a10748 =
 [
-    [ "SkillExtraItemEntry", "d9/dab/a10748.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
-    [ "SkillExtraItemEntry", "d9/dab/a10748.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
-    [ "additionalCreateChance", "d9/dab/a10748.html#a299d886468e9caf22f9d6ce80a64c247", null ],
-    [ "newMaxOrEntry", "d9/dab/a10748.html#adfda967d36154b039495f0b289a5c9d1", null ],
-    [ "requiredSpecialization", "d9/dab/a10748.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
+    [ "CrossedInebriationThreshold", "d9/dab/a10748.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
+    [ "Write", "d9/dab/a10748.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
+    [ "Guid", "d9/dab/a10748.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
+    [ "ItemID", "d9/dab/a10748.html#a9e48a650bf21872099cdb0626e875fd7", null ],
+    [ "Threshold", "d9/dab/a10748.html#a87b756b64cbfb8f292f46cce38308095", null ]
 ];

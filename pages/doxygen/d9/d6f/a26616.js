@@ -1,7 +1,8 @@
 var a26616 =
 [
-    [ "HandleProc", "d9/d6f/a26616.html#a3878044c77e9560bcc7d531d5c119e0f", null ],
-    [ "PrepareAuraScript", "d9/d6f/a26616.html#a3a496539a6adddca91724d9cc77f81c3", null ],
-    [ "Register", "d9/d6f/a26616.html#a096f4ecd857cc642ff1d1e5119933921", null ],
-    [ "Validate", "d9/d6f/a26616.html#a1592084736ebe5b10a343aee4dba8050", null ]
+    [ "CalcPeriodic", "d9/d6f/a26616.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
+    [ "CalculateAmount", "d9/d6f/a26616.html#a525009acb345d6b0a9857c30cfce2230", null ],
+    [ "HandlePeriodic", "d9/d6f/a26616.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
+    [ "PrepareAuraScript", "d9/d6f/a26616.html#a5627212e48a3044a9a7480851787a839", null ],
+    [ "Register", "d9/d6f/a26616.html#a09ea5265d7105a4bd487d383948901a0", null ]
 ];

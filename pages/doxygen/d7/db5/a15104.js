@@ -1,6 +1,8 @@
 var a15104 =
 [
-    [ "npc_muglashAI", "d0/db5/a15108.html", "d0/db5/a15108" ],
-    [ "npc_muglash", "d7/db5/a15104.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
-    [ "GetAI", "d7/db5/a15104.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
+    [ "npc_obsidian_nullifier", "d7/db5/a15104.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "d7/db5/a15104.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "d7/db5/a15104.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "d7/db5/a15104.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "d7/db5/a15104.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

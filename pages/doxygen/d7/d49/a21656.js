@@ -1,12 +1,6 @@
 var a21656 =
 [
-    [ "npc_dalaran_warriorAI", "d7/d49/a21656.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
-    [ "Initialize", "d7/d49/a21656.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
-    [ "JustEngagedWith", "d7/d49/a21656.html#ae6690f0681363784e457fbd653f5b3f9", null ],
-    [ "Reset", "d7/d49/a21656.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
-    [ "UpdateAI", "d7/d49/a21656.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
-    [ "Battleshout_timer", "d7/d49/a21656.html#ae36f30f816164b60232bd849e74c3da1", null ],
-    [ "disarm_timer", "d7/d49/a21656.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
-    [ "hamstring_timer", "d7/d49/a21656.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
-    [ "shout_timer", "d7/d49/a21656.html#ac91770c1e9eb31d687247450898a48ae", null ]
+    [ "SACActivateEvent", "d7/d49/a21656.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
+    [ "Execute", "d7/d49/a21656.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
+    [ "_owner", "d7/d49/a21656.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
 ];

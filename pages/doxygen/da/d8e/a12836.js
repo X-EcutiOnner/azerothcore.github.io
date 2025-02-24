@@ -1,7 +1,5 @@
 var a12836 =
 [
-    [ "HandleScript", "da/d8e/a12836.html#ab705220b48be16090107135f9e2272cf", null ],
-    [ "PrepareSpellScript", "da/d8e/a12836.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
-    [ "Register", "da/d8e/a12836.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
-    [ "Validate", "da/d8e/a12836.html#ad1d90693a427a52fa728e5ae455932a3", null ]
+    [ "go_acherus_soul_prison", "da/d8e/a12836.html#a13c858f74080b8f7963fdacc4b554019", null ],
+    [ "OnGossipHello", "da/d8e/a12836.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
 ];

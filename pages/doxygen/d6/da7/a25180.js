@@ -1,5 +1,6 @@
 var a25180 =
 [
-    [ "PrepareSpellScript", "d6/da7/a25180.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
-    [ "Register", "d6/da7/a25180.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
+    [ "CalculateDamage", "d6/da7/a25180.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
+    [ "PrepareSpellScript", "d6/da7/a25180.html#a4271f026fd9cddeb109761e9b864c381", null ],
+    [ "Register", "d6/da7/a25180.html#a03bb4cf19328efa783600273663b609a", null ]
 ];

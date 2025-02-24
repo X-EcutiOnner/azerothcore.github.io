@@ -1,7 +1,8 @@
 var a13260 =
 [
-    [ "HandleScriptEffect", "d5/dac/a13260.html#aa537704c2066df4f5b4c60a775026a83", null ],
-    [ "PrepareSpellScript", "d5/dac/a13260.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
-    [ "Register", "d5/dac/a13260.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
-    [ "Validate", "d5/dac/a13260.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
+    [ "FilterTargets", "d5/dac/a13260.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
+    [ "HandleScriptEffect", "d5/dac/a13260.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
+    [ "PrepareSpellScript", "d5/dac/a13260.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
+    [ "Register", "d5/dac/a13260.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
+    [ "Validate", "d5/dac/a13260.html#a5493864b068de82015bc157f3d0899b3", null ]
 ];

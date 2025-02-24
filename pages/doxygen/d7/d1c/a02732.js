@@ -1,48 +1,22 @@
 var a02732 =
 [
-    [ "MailSender", "d1/d25/a09658.html", "d1/d25/a09658" ],
-    [ "MailReceiver", "d8/db5/a09662.html", "d8/db5/a09662" ],
-    [ "MailDraft", "db/da7/a09666.html", "db/da7/a09666" ],
-    [ "MailItemInfo", "d7/d67/a09670.html", "d7/d67/a09670" ],
-    [ "Mail", "da/df6/a09674.html", "da/df6/a09674" ],
-    [ "ServerMail", "dd/d2e/a09678.html", "dd/d2e/a09678" ],
-    [ "MAIL_BODY_ITEM_TEMPLATE", "d7/d1c/a02732.html#a400524cb6bb97f3dfaa616a2afae05db", null ],
-    [ "MAX_MAIL_ITEMS", "d7/d1c/a02732.html#a92d79b5b2210d828abe28a8834a50770", null ],
-    [ "MailItemInfoVec", "d7/d1c/a02732.html#a5f97bcac5adeb0d52a6360c8aa0d0938", null ],
-    [ "MailCheckMask", "d7/d1c/a02732.html#a9738cb9d4ddff5f3b2a406f8d9c469cc", [
-      [ "MAIL_CHECK_MASK_NONE", "d7/d1c/a02732.html#a9738cb9d4ddff5f3b2a406f8d9c469cca65bb77bc25220e08e3c065ad070b9888", null ],
-      [ "MAIL_CHECK_MASK_READ", "d7/d1c/a02732.html#a9738cb9d4ddff5f3b2a406f8d9c469cca3b48ed5fecdcd88c0a15e74b0853c03b", null ],
-      [ "MAIL_CHECK_MASK_RETURNED", "d7/d1c/a02732.html#a9738cb9d4ddff5f3b2a406f8d9c469cca5f7f5d671d1137cc0dd8b88a6579454a", null ],
-      [ "MAIL_CHECK_MASK_COPIED", "d7/d1c/a02732.html#a9738cb9d4ddff5f3b2a406f8d9c469cca9170ec2a04d365ca0a6167cad4a2e2fb", null ],
-      [ "MAIL_CHECK_MASK_COD_PAYMENT", "d7/d1c/a02732.html#a9738cb9d4ddff5f3b2a406f8d9c469cca4cef0afe6ff002d8e7089cb2eddf1468", null ],
-      [ "MAIL_CHECK_MASK_HAS_BODY", "d7/d1c/a02732.html#a9738cb9d4ddff5f3b2a406f8d9c469cca348c2227a2767173436f2f88dfe37716", null ]
+    [ "GameEventFinishCondition", "da/d0d/a08768.html", "da/d0d/a08768" ],
+    [ "GameEventQuestToEventConditionNum", "df/ddb/a08772.html", "df/ddb/a08772" ],
+    [ "GameEventData", "d4/d7a/a08776.html", "d4/d7a/a08776" ],
+    [ "ModelEquip", "de/d11/a08780.html", "de/d11/a08780" ],
+    [ "NPCVendorEntry", "d4/ddc/a08784.html", "d4/ddc/a08784" ],
+    [ "GameEventMgr", "d8/d88/a08788.html", "d8/d88/a08788" ],
+    [ "max_ge_check_delay", "d7/d1c/a02732.html#adaa73d920934a951856f7ce003ce2342", null ],
+    [ "sGameEventMgr", "d7/d1c/a02732.html#a3c1c916d94272dfe845b9cc5e8fc292a", null ],
+    [ "GameEventConditionMap", "d7/d1c/a02732.html#ac4262be385ac879bb433e00533d835c0", null ],
+    [ "GameEventState", "d7/d1c/a02732.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5", [
+      [ "GAMEEVENT_NORMAL", "d7/d1c/a02732.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921", null ],
+      [ "GAMEEVENT_WORLD_INACTIVE", "d7/d1c/a02732.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136", null ],
+      [ "GAMEEVENT_WORLD_CONDITIONS", "d7/d1c/a02732.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7", null ],
+      [ "GAMEEVENT_WORLD_NEXTPHASE", "d7/d1c/a02732.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0", null ],
+      [ "GAMEEVENT_WORLD_FINISHED", "d7/d1c/a02732.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf", null ],
+      [ "GAMEEVENT_INTERNAL", "d7/d1c/a02732.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81", null ]
     ] ],
-    [ "MailMessageType", "d7/d1c/a02732.html#afb83216fd8c410f5d4bdfef0f9b302ed", [
-      [ "MAIL_NORMAL", "d7/d1c/a02732.html#afb83216fd8c410f5d4bdfef0f9b302edaad2526a166df2caa50762ff348a2f54a", null ],
-      [ "MAIL_AUCTION", "d7/d1c/a02732.html#afb83216fd8c410f5d4bdfef0f9b302eda1c6b723dd78af975a7ec8a3562361330", null ],
-      [ "MAIL_CREATURE", "d7/d1c/a02732.html#afb83216fd8c410f5d4bdfef0f9b302eda462b01f59d339ec67b080f100e97256c", null ],
-      [ "MAIL_GAMEOBJECT", "d7/d1c/a02732.html#afb83216fd8c410f5d4bdfef0f9b302eda4398082ad7546f3811f818835522100d", null ],
-      [ "MAIL_CALENDAR", "d7/d1c/a02732.html#afb83216fd8c410f5d4bdfef0f9b302eda99dc24213703b6afb3639762a349c258", null ]
-    ] ],
-    [ "MailShowFlags", "d7/d1c/a02732.html#a03de18fb5d90aaaa9daa333ddbe2d394", [
-      [ "MAIL_SHOW_UNK0", "d7/d1c/a02732.html#a03de18fb5d90aaaa9daa333ddbe2d394a5d741597d486fff4283ab7bfeaa32ecc", null ],
-      [ "MAIL_SHOW_DELETE", "d7/d1c/a02732.html#a03de18fb5d90aaaa9daa333ddbe2d394a7d87ac4c7be1c9b63837bd39706eba07", null ],
-      [ "MAIL_SHOW_AUCTION", "d7/d1c/a02732.html#a03de18fb5d90aaaa9daa333ddbe2d394ac82b5f53ff29204c00b9479712bfeb72", null ],
-      [ "MAIL_SHOW_UNK2", "d7/d1c/a02732.html#a03de18fb5d90aaaa9daa333ddbe2d394a2fe725e9d54355a13c1322a8d81da6a3", null ],
-      [ "MAIL_SHOW_RETURN", "d7/d1c/a02732.html#a03de18fb5d90aaaa9daa333ddbe2d394a9bfa489acd6be01c57410679c81d5a9e", null ]
-    ] ],
-    [ "MailState", "d7/d1c/a02732.html#a38d587a785c6fa4c4342574233684a20", [
-      [ "MAIL_STATE_UNCHANGED", "d7/d1c/a02732.html#a38d587a785c6fa4c4342574233684a20ae16408762dbf072dd193ffe6b3097047", null ],
-      [ "MAIL_STATE_CHANGED", "d7/d1c/a02732.html#a38d587a785c6fa4c4342574233684a20aac816c9be99273eb826bf89eda08f1bb", null ],
-      [ "MAIL_STATE_DELETED", "d7/d1c/a02732.html#a38d587a785c6fa4c4342574233684a20a3645936325ffbfb6858bcbb312b9072a", null ]
-    ] ],
-    [ "MailStationery", "d7/d1c/a02732.html#a97c589393fcefa82854f195693493094", [
-      [ "MAIL_STATIONERY_TEST", "d7/d1c/a02732.html#a97c589393fcefa82854f195693493094a08c959967722eb59a73866b06fff4ee1", null ],
-      [ "MAIL_STATIONERY_DEFAULT", "d7/d1c/a02732.html#a97c589393fcefa82854f195693493094ab18c50370e3504660676eeab1fed7a68", null ],
-      [ "MAIL_STATIONERY_GM", "d7/d1c/a02732.html#a97c589393fcefa82854f195693493094a39230800d1e1c4dbd3c46fbaaba39541", null ],
-      [ "MAIL_STATIONERY_AUCTION", "d7/d1c/a02732.html#a97c589393fcefa82854f195693493094aef86d2a36ec87427177f03b971bf4fcd", null ],
-      [ "MAIL_STATIONERY_VAL", "d7/d1c/a02732.html#a97c589393fcefa82854f195693493094acf69185a7c40dad17bf89924f8c89cd5", null ],
-      [ "MAIL_STATIONERY_CHR", "d7/d1c/a02732.html#a97c589393fcefa82854f195693493094a3f6ed9e1ee49995d1854786d3ab7b5a0", null ],
-      [ "MAIL_STATIONERY_ORP", "d7/d1c/a02732.html#a97c589393fcefa82854f195693493094aa349afbb838c106b8d4e161b7611583c", null ]
-    ] ]
+    [ "IsEventActive", "d7/d1c/a02732.html#ad54f33b2e05154d9c2a384ff579b9208", null ],
+    [ "IsHolidayActive", "d7/d1c/a02732.html#a429db26781d2673aa2f031fc1327ffaf", null ]
 ];

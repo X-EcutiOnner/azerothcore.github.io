@@ -1,5 +1,5 @@
 var a23288 =
 [
-    [ "boss_quagmirran", "d2/d0e/a23288.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "d2/d0e/a23288.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "instance_the_underbog_InstanceMapScript", "d2/d0e/a23288.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
+    [ "Initialize", "d2/d0e/a23288.html#a9c7c10020eef3db4794283c0f946d086", null ]
 ];

@@ -1,7 +1,13 @@
 var a15936 =
 [
-    [ "HandlePeriodic", "db/dcb/a15936.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "db/dcb/a15936.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "db/dcb/a15936.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "db/dcb/a15936.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "boss_twilight_halionAI", "db/dcb/a15936.html#aab05bab963d603c3cb70edfd62a84b49", null ],
+    [ "DamageTaken", "db/dcb/a15936.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
+    [ "EnterEvadeMode", "db/dcb/a15936.html#af7076251fc1fad1dc259d747934910e2", null ],
+    [ "JustDied", "db/dcb/a15936.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
+    [ "JustEngagedWith", "db/dcb/a15936.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
+    [ "KilledUnit", "db/dcb/a15936.html#ada770d51f63c841c500ffc3197a7a89f", null ],
+    [ "Reset", "db/dcb/a15936.html#a9c945841926d5b08f37c6a720dd25a14", null ],
+    [ "UpdateAI", "db/dcb/a15936.html#a6ab1d215ed077883781b0c0188282c5e", null ],
+    [ "_events", "db/dcb/a15936.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
+    [ "_instance", "db/dcb/a15936.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
 ];

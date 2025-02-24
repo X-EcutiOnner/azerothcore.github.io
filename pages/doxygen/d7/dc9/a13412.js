@@ -1,6 +1,6 @@
 var a13412 =
 [
-    [ "npc_marzon_silent_bladeAI", "dc/df1/a13416.html", "dc/df1/a13416" ],
-    [ "npc_marzon_silent_blade", "d7/dc9/a13412.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
-    [ "GetAI", "d7/dc9/a13412.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
+    [ "npc_augustus_the_touched", "d7/dc9/a13412.html#abc84c884345f44cf780410569cdee10c", null ],
+    [ "OnGossipHello", "d7/dc9/a13412.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
+    [ "OnGossipSelect", "d7/dc9/a13412.html#a992da9b22693c1fac1148b4ba545b819", null ]
 ];

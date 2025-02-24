@@ -1,6 +1,6 @@
 var a20680 =
 [
-    [ "boss_yoggsaron_saraAI", "d3/d48/a20684.html", "d3/d48/a20684" ],
-    [ "boss_yoggsaron_sara", "d2/da6/a20680.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
-    [ "GetAI", "d2/da6/a20680.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
+    [ "boss_yoggsaron_death_orbAI", "d2/da6/a20680.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
+    [ "UpdateAI", "d2/da6/a20680.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
+    [ "_startTimer", "d2/da6/a20680.html#aebc8edef5f84219e1c50f2394d129443", null ]
 ];

@@ -1,8 +1,12 @@
 var a02402 =
 [
-    [ "PassiveAI", "d8/d89/a06054.html", "d8/d89/a06054" ],
-    [ "PossessedAI", "d4/db5/a06058.html", "d4/db5/a06058" ],
-    [ "NullCreatureAI", "d9/de2/a06062.html", "d9/de2/a06062" ],
-    [ "CritterAI", "d3/d23/a06066.html", "d3/d23/a06066" ],
-    [ "TriggerAI", "db/dd3/a06070.html", "db/dd3/a06070" ]
+    [ "AggressorAI", "df/d9b/a06024.html", "df/d9b/a06024" ],
+    [ "CombatAI", "d4/d91/a06028.html", "d4/d91/a06028" ],
+    [ "CasterAI", "d4/ddf/a06032.html", "d4/ddf/a06032" ],
+    [ "ArcherAI", "d6/d18/a06036.html", "d6/d18/a06036" ],
+    [ "TurretAI", "d5/d32/a06040.html", "d5/d32/a06040" ],
+    [ "VehicleAI", "d1/dc9/a06044.html", "d1/dc9/a06044" ],
+    [ "VEHICLE_CONDITION_CHECK_TIME", "df/d79/a02402.html#a2842973ff947088648cd327dc9e1d379", null ],
+    [ "VEHICLE_DISMISS_TIME", "df/d79/a02402.html#a9b232fec810abbe5eaf5536e608b6e38", null ],
+    [ "SpellVct", "df/d79/a02402.html#aef8ccdd14344d9c395d613c21bafd91e", null ]
 ];

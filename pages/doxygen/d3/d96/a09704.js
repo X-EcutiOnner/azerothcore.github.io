@@ -1,10 +1,9 @@
 var a09704 =
 [
-    [ "EffectMovementGenerator", "d3/d96/a09704.html#a4b574eb9865cffe1277d9012db653d98", null ],
-    [ "Finalize", "d3/d96/a09704.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
-    [ "GetMovementGeneratorType", "d3/d96/a09704.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
-    [ "Initialize", "d3/d96/a09704.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
-    [ "Reset", "d3/d96/a09704.html#a9627573a7206e12ff469e8e6e076862b", null ],
-    [ "Update", "d3/d96/a09704.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
-    [ "m_Id", "d3/d96/a09704.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
+    [ "RectangleBoundary", "d3/d96/a09704.html#af401f84700a15fa1d4fcf78358a74735", null ],
+    [ "IsWithinBoundaryArea", "d3/d96/a09704.html#a2d6c735d080382263a401d91da37b934", null ],
+    [ "_maxX", "d3/d96/a09704.html#a3eff421dfe942634814e7526334f1c07", null ],
+    [ "_maxY", "d3/d96/a09704.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
+    [ "_minX", "d3/d96/a09704.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
+    [ "_minY", "d3/d96/a09704.html#af5a7e35d5d9ff23c722643141f01a916", null ]
 ];

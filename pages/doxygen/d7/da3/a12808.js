@@ -1,14 +1,8 @@
 var a12808 =
 [
-    [ "boss_apothecary_hummelAI", "d7/da3/a12808.html#a75796eb8dc83729f2f726ff51317bd66", null ],
-    [ "DamageTaken", "d7/da3/a12808.html#a2af77fbe7f089b5da20d2ff693cfcedf", null ],
-    [ "DoAction", "d7/da3/a12808.html#a03fb543ba20f92d5528bf4667c457631", null ],
-    [ "JustDied", "d7/da3/a12808.html#a3c7bc5f9aa04f155debbdacafed6163d", null ],
-    [ "Reset", "d7/da3/a12808.html#a31381343d2533af670941baf872b3635", null ],
-    [ "sGossipSelect", "d7/da3/a12808.html#a1a9953c37286fd40c0aa0eebfec3eb86", null ],
-    [ "SummonedCreatureDies", "d7/da3/a12808.html#a8947cbd1c2856334a0d6529bc664f71b", null ],
-    [ "UpdateAI", "d7/da3/a12808.html#a61e4d85ecd592142ba07588512505990", null ],
-    [ "_deadCount", "d7/da3/a12808.html#aaac2018e16b80997f884745732605559", null ],
-    [ "_isDead", "d7/da3/a12808.html#aa3c37a38b95c6b3bec4e3b787d2155df", null ],
-    [ "_phase", "d7/da3/a12808.html#a951d68d4e645860cdb5c5e348bf1fff4", null ]
+    [ "npc_dkc1_gothikAI", "d7/da3/a12808.html#a35e65bd943f86ba3a1d6841569289df6", null ],
+    [ "DoAction", "d7/da3/a12808.html#a3193c562973bbf995ab5e0173a93d01f", null ],
+    [ "MoveInLineOfSight", "d7/da3/a12808.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
+    [ "UpdateAI", "d7/da3/a12808.html#a346d32c9831babe6fb5f675b70b7a897", null ],
+    [ "spoken", "d7/da3/a12808.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
 ];

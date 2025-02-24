@@ -1,7 +1,7 @@
 var a23924 =
 [
-    [ "npc_daranelleAI", "d7/d77/a23924.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d7/d77/a23924.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d7/d77/a23924.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d7/d77/a23924.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "npc_kurenai_captiveAI", "d8/d6e/a23928.html", "d8/d6e/a23928" ],
+    [ "npc_kurenai_captive", "d7/d77/a23924.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "d7/d77/a23924.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "d7/d77/a23924.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

@@ -1,9 +1,8 @@
 var a26016 =
 [
-    [ "Load", "da/de5/a26016.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "da/de5/a26016.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "da/de5/a26016.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "da/de5/a26016.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "da/de5/a26016.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "da/de5/a26016.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "CheckProc", "da/de5/a26016.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
+    [ "HandleProc", "da/de5/a26016.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
+    [ "PrepareAuraScript", "da/de5/a26016.html#a876c1bda52c99c52249444414196b1d4", null ],
+    [ "Register", "da/de5/a26016.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
+    [ "Validate", "da/de5/a26016.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
 ];

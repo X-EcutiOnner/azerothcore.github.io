@@ -1,4 +1,4 @@
 var a03956 =
 [
-    [ "ScriptRegistry< InstanceMapScript >", "d3/d8f/a03956.html#a1271f70bb9300f8012216659f38edaee", null ]
+    [ "ScriptRegistry< WorldMapScript >", "d3/d8f/a03956.html#a729e333e6d0c4e5e353dd22c9612f446", null ]
 ];

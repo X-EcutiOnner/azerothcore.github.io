@@ -1,10 +1,12 @@
 var a22756 =
 [
-    [ "boss_illidari_council", "d7/dae/a22756.html#a078c36be39b377f6d1cdbf061d70270d", null ],
-    [ "AttackStart", "d7/dae/a22756.html#a260b15ec58164f17543aa044a89875a8", null ],
-    [ "DamageTaken", "d7/dae/a22756.html#af8e88c307efaba392cc2a1d2f3862078", null ],
-    [ "DoAction", "d7/dae/a22756.html#a6c3c57523ed2775ba553af1171b46463", null ],
-    [ "EnterEvadeMode", "d7/dae/a22756.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
-    [ "MoveInLineOfSight", "d7/dae/a22756.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
-    [ "UpdateAI", "d7/dae/a22756.html#a8b30df956aa4ce1727756f1d19e151be", null ]
+    [ "boss_essence_of_desireAI", "d7/dae/a22756.html#a02f6dec07038297c15c264fb501b01ab", null ],
+    [ "DamageTaken", "d7/dae/a22756.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
+    [ "DoAction", "d7/dae/a22756.html#ad55459d8e75f34783c1516be05cbb97f", null ],
+    [ "JustEngagedWith", "d7/dae/a22756.html#a0976078399b2190cca25aa2ae5c3c201", null ],
+    [ "KilledUnit", "d7/dae/a22756.html#a07509843bd658e3fc0b02cb817da37e9", null ],
+    [ "MovementInform", "d7/dae/a22756.html#ad65068c5f56db269b4dc711745f96cfb", null ],
+    [ "Reset", "d7/dae/a22756.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
+    [ "UpdateAI", "d7/dae/a22756.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
+    [ "_recentlySpoken", "d7/dae/a22756.html#a6507c0da056a74d961d28e96120cd676", null ]
 ];

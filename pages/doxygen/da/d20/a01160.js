@@ -1,11 +1,7 @@
 var a01160 =
 [
-    [ "npc_pet_pri_lightwell", "d9/d41/a24286.html", "d9/d41/a24286" ],
-    [ "npc_pet_pri_shadowfiend", "d7/dc1/a24290.html", "d7/dc1/a24290" ],
+    [ "npc_pet_pri_lightwell", "d8/d25/a24304.html", "d8/d25/a24304" ],
     [ "PriestSpells", "da/d20/a01160.html#a8aaecfe4214ff7bd567980dd904b110f", [
-      [ "SPELL_PRIEST_GLYPH_OF_SHADOWFIEND", "da/d20/a01160.html#a8aaecfe4214ff7bd567980dd904b110faabcd07781394f6b318b9bf42c0938014", null ],
-      [ "SPELL_PRIEST_GLYPH_OF_SHADOWFIEND_MANA", "da/d20/a01160.html#a8aaecfe4214ff7bd567980dd904b110fa24b5ecb3171baa6a2e1c79957bcd7fde", null ],
-      [ "SPELL_PRIEST_SHADOWFIEND_DODGE", "da/d20/a01160.html#a8aaecfe4214ff7bd567980dd904b110fadb00d04038b22b42cfdff3f568a5c51a", null ],
       [ "SPELL_PRIEST_LIGHTWELL_CHARGES", "da/d20/a01160.html#a8aaecfe4214ff7bd567980dd904b110faa3a53a7bde25a970e5c29b0f7f8984b2", null ],
       [ "SPELL_PRIEST_DIVINE_AEGIS", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa4bd6adc8070fcaa774451c5cac40ded1", null ],
       [ "SPELL_PRIEST_EMPOWERED_RENEW", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fad78a13deca5dca1beb7e7304ae3e2014", null ],
@@ -25,6 +21,8 @@ var a01160 =
       [ "SPELL_PRIEST_T9_HEALING_2P", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110faecf270b72f7ced3aab3ce3b2f24b8a87", null ],
       [ "SPELL_PRIEST_VAMPIRIC_TOUCH_DISPEL", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa0ecf37a43c562bc7eae7041fc137ba03", null ],
       [ "SPELL_PRIEST_T4_4P_FLEXIBILITY", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110faec0fc5ca32e9a185d596c0a931d65d9c", null ],
+      [ "SPELL_PRIEST_GLYPH_OF_SHADOWFIEND", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110faabcd07781394f6b318b9bf42c0938014", null ],
+      [ "SPELL_PRIEST_GLYPH_OF_SHADOWFIEND_MANA", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa24b5ecb3171baa6a2e1c79957bcd7fde", null ],
       [ "SPELL_GENERIC_ARENA_DAMPENING", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa60a12ecf7b0c16a82500a97110ff35f0", null ],
       [ "SPELL_GENERIC_BATTLEGROUND_DAMPENING", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110faf1c99f5067e5ef0ef1fb7f96bd317bf4", null ],
       [ "SPELL_PRIEST_TWIN_DISCIPLINE_R1", "d3/d28/a02147.html#a8aaecfe4214ff7bd567980dd904b110fa58a40bf575a212bf832d151e37267690", null ],

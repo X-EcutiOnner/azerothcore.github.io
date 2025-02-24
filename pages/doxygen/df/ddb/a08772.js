@@ -1,6 +1,6 @@
 var a08772 =
 [
-    [ "lang_id", "df/ddb/a08772.html#a1fa900a467834103ac595a8a96dd28c0", null ],
-    [ "skill_id", "df/ddb/a08772.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
-    [ "spell_id", "df/ddb/a08772.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
+    [ "Condition", "df/ddb/a08772.html#a78172859719e85a21c0a39e41c692cf4", null ],
+    [ "EventId", "df/ddb/a08772.html#aa5d7e88828c9f44b5913d4593496894f", null ],
+    [ "Num", "df/ddb/a08772.html#a7cf6141e00b1a33063409c9828773b94", null ]
 ];

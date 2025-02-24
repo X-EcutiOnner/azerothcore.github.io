@@ -1,8 +1,13 @@
 var a19224 =
 [
-    [ "npc_crystal_spikeAI", "da/d2f/a19224.html#ac30dc3941c92fa0cda6639864f803a55", null ],
-    [ "Reset", "da/d2f/a19224.html#ad8889e7a77daba18e3e5506855988537", null ],
-    [ "UpdateAI", "da/d2f/a19224.html#a158ca019d06e045358ba305bd6e20bc1", null ],
-    [ "_damageTimer", "da/d2f/a19224.html#a0bbd82d1c92be0ac595d1ab9704b6162", null ],
-    [ "_gameObjectGUID", "da/d2f/a19224.html#acdeacf285b083f4c802295d8d0583ed7", null ]
+    [ "npc_oculus_unstable_sphereAI", "da/d2f/a19224.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
+    [ "AttackStart", "da/d2f/a19224.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
+    [ "MoveInLineOfSight", "da/d2f/a19224.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
+    [ "MovementInform", "da/d2f/a19224.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
+    [ "PickNewLocation", "da/d2f/a19224.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
+    [ "Reset", "da/d2f/a19224.html#ac2e391d0149b62823ac9074d45c694cf", null ],
+    [ "UpdateAI", "da/d2f/a19224.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
+    [ "gonext", "da/d2f/a19224.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
+    [ "located", "da/d2f/a19224.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
+    [ "timer", "da/d2f/a19224.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
 ];

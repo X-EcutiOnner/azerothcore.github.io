@@ -1,12 +1,13 @@
 var a20992 =
 [
-    [ "boss_skarvald_the_constructorAI", "d7/df9/a20992.html#a90b669521db89c8c71fe72d17b620694", null ],
-    [ "DoAction", "d7/df9/a20992.html#ac12c072b23e89e0282e45373e4c03cd9", null ],
-    [ "JustDied", "d7/df9/a20992.html#aa10a8a1bd53804f2c0be6dd68b2b1f68", null ],
-    [ "JustEngagedWith", "d7/df9/a20992.html#a02ee99b1b5c3a6a053532dbb59b541a2", null ],
-    [ "KilledUnit", "d7/df9/a20992.html#a897415c1e9d4759d9c8b6d9346516f46", null ],
-    [ "Reset", "d7/df9/a20992.html#a55c1c9b1a3370741d97355569f11e9d4", null ],
-    [ "UpdateAI", "d7/df9/a20992.html#a5ee0df3039c5fc069c90ef06e6ae9604", null ],
-    [ "events", "d7/df9/a20992.html#aac3e019ac655ffcb0aea7f9ae9592795", null ],
-    [ "pInstance", "d7/df9/a20992.html#a7418a8541a8264a260495f8b19ef8699", null ]
+    [ "npc_frenzied_worgenAI", "d7/df9/a20992.html#a3a87e1285fb40a4fe31e7e9c2916f2a8", null ],
+    [ "DoAction", "d7/df9/a20992.html#a7b7b34c2206cd1003c2abff3fb839c34", null ],
+    [ "JustDied", "d7/df9/a20992.html#a33b723baef468ef79e67aaadba1b2691", null ],
+    [ "JustEngagedWith", "d7/df9/a20992.html#a902bb6f89a2a210f2e0d18ebad7613f9", null ],
+    [ "JustReachedHome", "d7/df9/a20992.html#a9b50182cd407811d0f0aeeba378a37ee", null ],
+    [ "MoveInLineOfSight", "d7/df9/a20992.html#a3c2b76ccb6e00a24619f769f0d44ba2b", null ],
+    [ "Reset", "d7/df9/a20992.html#adccac21b6eff18db096eb79dab4a27a0", null ],
+    [ "UpdateAI", "d7/df9/a20992.html#ad83478b5946fd93e1b4fe7916342b1ee", null ],
+    [ "events", "d7/df9/a20992.html#a8619650ae4396aafbdc1533f8b174ab8", null ],
+    [ "m_pInstance", "d7/df9/a20992.html#a425720ce11714b145685f6d9c78a3dc1", null ]
 ];

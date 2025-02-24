@@ -1,6 +1,7 @@
 var a21112 =
 [
-    [ "HandleDummyEffect", "db/db7/a21112.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
-    [ "PrepareSpellScript", "db/db7/a21112.html#a07376c95cb2ec41d86a24be59094d207", null ],
-    [ "Register", "db/db7/a21112.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
+    [ "PrepareAuraScript", "db/db7/a21112.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
+    [ "Register", "db/db7/a21112.html#a7225d1f83921e4de06516c1db5a5038a", null ],
+    [ "TriggerFists", "db/db7/a21112.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
+    [ "Validate", "db/db7/a21112.html#a977897c569245148eb94892bb42d4ca5", null ]
 ];

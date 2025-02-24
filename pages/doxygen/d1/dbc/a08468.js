@@ -1,19 +1,8 @@
 var a08468 =
 [
-    [ "absorb", "d1/dbc/a08468.html#a7298afcc76b856c5427f5e123030a797", null ],
-    [ "attacker", "d1/dbc/a08468.html#aebe14d91f54da0b25a07ff3d59df6ec2", null ],
-    [ "attackType", "d1/dbc/a08468.html#afd18e43bd78a9144c02ba0493921c506", null ],
-    [ "blocked_amount", "d1/dbc/a08468.html#a0ce1e1ff406264c7283979fe4fc70148", null ],
-    [ "cleanDamage", "d1/dbc/a08468.html#a452ac9be1f6e9c10616a62a128573358", null ],
-    [ "damage", "d1/dbc/a08468.html#ab95e1e4746b966f1301d997fdac99c94", null ],
-    [ "damages", "d1/dbc/a08468.html#a6d65f46540999e9257eed9aa27839273", null ],
-    [ "damageSchoolMask", "d1/dbc/a08468.html#a01f1cc6661ef5f4e7d657ba59d06108f", null ],
-    [ "HitInfo", "d1/dbc/a08468.html#ae42a8a3750633d94e661ac9d5a9aa8df", null ],
-    [ "hitOutCome", "d1/dbc/a08468.html#a114dcabcb8bff10c2452cb27e75da115", null ],
-    [ "procAttacker", "d1/dbc/a08468.html#a21bed657c7e3d2338f30fb5237884d5f", null ],
-    [ "procEx", "d1/dbc/a08468.html#ad629b9aad4d88247ef4dfaadd79dc1c8", null ],
-    [ "procVictim", "d1/dbc/a08468.html#a236b06649e715fab9dbddb074ef2f075", null ],
-    [ "resist", "d1/dbc/a08468.html#ab57d348b500203649bf532405cd9ceec", null ],
-    [ "target", "d1/dbc/a08468.html#af2976fa1245b3e3177dcbac464345829", null ],
-    [ "TargetState", "d1/dbc/a08468.html#a73ef30ca87444da617b8c2e05b70e9fc", null ]
+    [ "IsInSpec", "d1/dbc/a08468.html#a77968b5562467f85bda04b6f2f41ca29", null ],
+    [ "inSpellBook", "d1/dbc/a08468.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
+    [ "specMask", "d1/dbc/a08468.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
+    [ "State", "d1/dbc/a08468.html#a062758af7e92f7e2263ca0a0fd329151", null ],
+    [ "talentID", "d1/dbc/a08468.html#aca9b191361652002f5178179a939e41b", null ]
 ];

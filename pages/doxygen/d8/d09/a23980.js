@@ -1,9 +1,7 @@
 var a23980 =
 [
-    [ "npc_wounded_blood_elfAI", "d8/d09/a23980.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "d8/d09/a23980.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "d8/d09/a23980.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "d8/d09/a23980.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "d8/d09/a23980.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "d8/d09/a23980.html#a5affcb00e28a582f8926ab2226001cd0", null ]
+    [ "CheckRequirement", "d8/d09/a23980.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "d8/d09/a23980.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "d8/d09/a23980.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "d8/d09/a23980.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

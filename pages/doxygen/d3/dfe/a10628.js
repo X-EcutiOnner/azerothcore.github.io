@@ -1,4 +1,5 @@
 var a10628 =
 [
-    [ "type", "d3/dfe/a10628.html#aa3307afff20191a467f7e948d9fd00ed", null ]
+    [ "GuildBankRemainingWithdrawMoneyQuery", "d3/dfe/a10628.html#afb45f29d4a280c4cc02ee2ab3c055824", null ],
+    [ "Read", "d3/dfe/a10628.html#a3e03f6f23a989d6f105c397f8ecfeb87", null ]
 ];

@@ -1,6 +1,10 @@
 var a11216 =
 [
-    [ "rainChance", "db/da5/a04663.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
-    [ "snowChance", "db/da5/a04663.html#ga474650c5237c4a7428e858775fea7b86", null ],
-    [ "stormChance", "db/da5/a04663.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
+    [ "TargetHook", "d1/d71/a11216.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
+    [ "CheckEffect", "d1/d71/a11216.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
+    [ "GetTarget", "d1/d71/a11216.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
+    [ "ToString", "d1/d71/a11216.html#a424e03e457dc15a2689f344e614a882f", null ],
+    [ "area", "d1/d71/a11216.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
+    [ "dest", "d1/d71/a11216.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
+    [ "targetType", "d1/d71/a11216.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
 ];

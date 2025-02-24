@@ -1,5 +1,8 @@
 var a12300 =
 [
-    [ "go_blackened_urn", "d6/d17/a12300.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
-    [ "OnGossipHello", "d6/d17/a12300.html#ab091bd54734acc65532303a391441ee2", null ]
+    [ "boss_garrAI", "d6/d17/a12300.html#a12d403a90bf4920763ddd87b252f544a", null ],
+    [ "JustEngagedWith", "d6/d17/a12300.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
+    [ "Reset", "d6/d17/a12300.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
+    [ "UpdateAI", "d6/d17/a12300.html#aca82837e143f4509db221de15276b90c", null ],
+    [ "massEruptionTimer", "d6/d17/a12300.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
 ];

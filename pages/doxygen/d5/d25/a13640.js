@@ -1,7 +1,11 @@
 var a13640 =
 [
-    [ "HandleDispel", "d5/d25/a13640.html#a0eb612b20ae9cc548baf2e3e024b2e1d", null ],
-    [ "PrepareAuraScript", "d5/d25/a13640.html#a54373f56e9957c8bac76d6905a34ae06", null ],
-    [ "Register", "d5/d25/a13640.html#a95650ab4be4f6b9036793fac48f92465", null ],
-    [ "Validate", "d5/d25/a13640.html#a84ebfae19459c4c6bb138c8e59cfe93e", null ]
+    [ "npc_tapoke_slim_jahnAI", "d5/d25/a13640.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
+    [ "AttackedBy", "d5/d25/a13640.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
+    [ "DamageTaken", "d5/d25/a13640.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
+    [ "JustEngagedWith", "d5/d25/a13640.html#a544b8eaee365217a4a735ed39b4607b2", null ],
+    [ "JustSummoned", "d5/d25/a13640.html#ae468305fbe930baf0a1547f2e6de9953", null ],
+    [ "Reset", "d5/d25/a13640.html#a5aeaa5511584d1095639e7df584019c5", null ],
+    [ "WaypointReached", "d5/d25/a13640.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
+    [ "IsFriendSummoned", "d5/d25/a13640.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
 ];

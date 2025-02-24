@@ -1,6 +1,6 @@
 var a23192 =
 [
-    [ "HandleEffectRemove", "d6/d4a/a23192.html#ab4c215a735ead9959fd78972a6da72e4", null ],
-    [ "PrepareAuraScript", "d6/d4a/a23192.html#a75be2f838d6773b619dfac80e32557b8", null ],
-    [ "Register", "d6/d4a/a23192.html#a239068b4e4ad88b5be93a031043ad7ca", null ]
+    [ "boss_rokmar_the_crackler", "d6/d4a/a23192.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "d6/d4a/a23192.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "d6/d4a/a23192.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

@@ -1,6 +1,6 @@
 var a16352 =
 [
-    [ "boss_jaraxxusAI", "dd/dcb/a16356.html", "dd/dcb/a16356" ],
-    [ "boss_jaraxxus", "d5/d2e/a16352.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "d5/d2e/a16352.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "npc_toc_pet_hunterAI", "dd/dcb/a16356.html", "dd/dcb/a16356" ],
+    [ "npc_toc_pet_hunter", "d5/d2e/a16352.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "d5/d2e/a16352.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

@@ -1,10 +1,7 @@
 var a11268 =
 [
-    [ "bf_commandscript", "d5/d14/a11268.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "d5/d14/a11268.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "d5/d14/a11268.html#a08dd3bdd279c760fe0f126200a01619e", null ],
-    [ "HandleBattlefieldEnd", "d5/d14/a11268.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
-    [ "HandleBattlefieldStart", "d5/d14/a11268.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
-    [ "HandleBattlefieldSwitch", "d5/d14/a11268.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
-    [ "HandleBattlefieldTimer", "d5/d14/a11268.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
+    [ "EffectApplyHandler", "d5/d14/a11268.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "d5/d14/a11268.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "d5/d14/a11268.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "d5/d14/a11268.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

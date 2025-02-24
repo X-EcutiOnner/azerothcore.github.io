@@ -1,8 +1,8 @@
 var a08920 =
 [
-    [ "CreatureWorker", "d8/d05/a08920.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
-    [ "Visit", "d8/d05/a08920.html#ae67044250380c521055f80c55de0bba5", null ],
-    [ "Visit", "d8/d05/a08920.html#aa9a450b147aafe46a49135f5c5be668e", null ],
-    [ "i_do", "d8/d05/a08920.html#ac22f86d9a41701e7527d4840da256f11", null ],
-    [ "i_phaseMask", "d8/d05/a08920.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
+    [ "target_mapId", "d8/d05/a08920.html#af6d7558707c026a6d64f2d7b65a344be", null ],
+    [ "target_Orientation", "d8/d05/a08920.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
+    [ "target_X", "d8/d05/a08920.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
+    [ "target_Y", "d8/d05/a08920.html#a6660d360eaa47098506f246927130e32", null ],
+    [ "target_Z", "d8/d05/a08920.html#a32fee5f497804089feb738be84548dc1", null ]
 ];

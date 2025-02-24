@@ -1,4 +1,4 @@
 var a03749 =
 [
-    [ "AllItemScript", "d8/d61/a10150.html", "d8/d61/a10150" ]
+    [ "ScriptRegistry< AuctionHouseScript >", "d4/dd0/a03749.html#ac2271f3a8c4323137893dfd21d8d0003", null ]
 ];

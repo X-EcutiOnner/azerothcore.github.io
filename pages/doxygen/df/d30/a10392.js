@@ -1,7 +1,7 @@
 var a10392 =
 [
-    [ "GuildBankWithdrawMoney", "df/d30/a10392.html#a7bd310d1fa4fb332cd815a259de3ef2d", null ],
-    [ "Read", "df/d30/a10392.html#a420aac24befdc5ac26171faa15c3c350", null ],
-    [ "Banker", "df/d30/a10392.html#a68f9a4191c349702881774bff4069f03", null ],
-    [ "Money", "df/d30/a10392.html#a349f8608d589ac3a5697c7c1cf73723e", null ]
+    [ "ClientPacket", "df/d30/a10392.html#aa1d1946c07e248bae5927e83fdad9500", null ],
+    [ "ClientPacket", "df/d30/a10392.html#a1cdaaacca2695c4366647c7611073ff0", null ],
+    [ "GetOpcode", "df/d30/a10392.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
+    [ "Write", "df/d30/a10392.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
 ];

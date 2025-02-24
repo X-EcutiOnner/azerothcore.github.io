@@ -1,5 +1,5 @@
 var a28208 =
 [
-    [ "CastTime", "dd/db0/a28208.html#af0bf895b1a5d61974cb63230b786c55e", null ],
-    [ "ID", "dd/db0/a28208.html#a41b1059fc4059bd198925861a9414497", null ]
+    [ "Price", "dd/db0/a28208.html#a9cf01cf0d41d49613b4ceaf1eeb1716b", null ],
+    [ "Slot", "dd/db0/a28208.html#aa53247914bda0ceca015b8b9ca117379", null ]
 ];

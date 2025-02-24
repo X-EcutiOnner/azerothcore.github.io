@@ -1,6 +1,6 @@
 var a22196 =
 [
-    [ "npc_iron_watcherAI", "da/dc1/a22200.html", "da/dc1/a22200" ],
-    [ "npc_iron_watcher", "dd/d50/a22196.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
-    [ "GetAI", "dd/d50/a22196.html#af3b80b838e192737762ceed599b0be9a", null ]
+    [ "npc_wg_queueAI", "dd/d50/a22196.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "dd/d50/a22196.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "dd/d50/a22196.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

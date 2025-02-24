@@ -1,6 +1,7 @@
 var a19464 =
 [
-    [ "CalculateDamage", "da/df2/a19464.html#a0a92fa8b689c020193ccc8cd37be3afb", null ],
-    [ "PrepareSpellScript", "da/df2/a19464.html#a29e4639053fda5488848b47b9c2b35bc", null ],
-    [ "Register", "da/df2/a19464.html#a888add31d80ebf8bbeb54ace2dff7f96", null ]
+    [ "creature", "da/df2/a19464.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "da/df2/a19464.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "da/df2/a19464.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "da/df2/a19464.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

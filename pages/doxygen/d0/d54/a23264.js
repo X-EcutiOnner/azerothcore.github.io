@@ -1,8 +1,8 @@
 var a23264 =
 [
-    [ "FilterTargets", "d0/d54/a23264.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
-    [ "HandleDummy", "d0/d54/a23264.html#addb3580259be74126b7de36d1b0a8a97", null ],
-    [ "PrepareSpellScript", "d0/d54/a23264.html#aba82de0886d03037de4564f9908b8c89", null ],
-    [ "Register", "d0/d54/a23264.html#a1650962493d48f5553a9e2771e594f1f", null ],
-    [ "Validate", "d0/d54/a23264.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
+    [ "boss_the_black_stalker", "d0/d54/a23264.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "d0/d54/a23264.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "d0/d54/a23264.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "d0/d54/a23264.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "d0/d54/a23264.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

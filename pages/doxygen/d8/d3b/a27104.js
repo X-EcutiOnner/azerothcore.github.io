@@ -1,6 +1,6 @@
 var a27104 =
 [
-    [ "go_witherbark_totem_bundleAI", "d8/d3b/a27104.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "d8/d3b/a27104.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "d8/d3b/a27104.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "go_pirate_day_musicAI", "d0/d32/a27108.html", "d0/d32/a27108" ],
+    [ "go_pirate_day_music", "d8/d3b/a27104.html#aa8d19102357639bd160eae9e90a87505", null ],
+    [ "GetAI", "d8/d3b/a27104.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
 ];

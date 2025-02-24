@@ -1,7 +1,6 @@
 var a21832 =
 [
-    [ "npc_emilyAI", "d4/d24/a21836.html", "d4/d24/a21836" ],
-    [ "npc_emily", "d4/db8/a21832.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "d4/db8/a21832.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "d4/db8/a21832.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "HandleOnEffectRemove", "d4/db8/a21832.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "d4/db8/a21832.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "d4/db8/a21832.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

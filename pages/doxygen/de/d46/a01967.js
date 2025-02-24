@@ -1,10 +1,10 @@
 var a01967 =
 [
-    [ "OPvPCapturePointEP_EWT", "db/d20/a22310.html", "db/d20/a22310" ],
-    [ "OPvPCapturePointEP_NPT", "d5/d7f/a22314.html", "d5/d7f/a22314" ],
-    [ "OPvPCapturePointEP_CGT", "d0/d8c/a22318.html", "d0/d8c/a22318" ],
-    [ "OPvPCapturePointEP_PWT", "d5/d42/a22322.html", "d5/d42/a22322" ],
-    [ "OutdoorPvPEP", "d9/d66/a22326.html", "d9/d66/a22326" ],
+    [ "OPvPCapturePointEP_EWT", "d8/dd7/a22328.html", "d8/dd7/a22328" ],
+    [ "OPvPCapturePointEP_NPT", "d7/dbd/a22332.html", "d7/dbd/a22332" ],
+    [ "OPvPCapturePointEP_CGT", "d3/d07/a22336.html", "d3/d07/a22336" ],
+    [ "OPvPCapturePointEP_PWT", "d7/d4e/a22340.html", "d7/d4e/a22340" ],
+    [ "OutdoorPvPEP", "d6/d20/a22344.html", "d6/d20/a22344" ],
     [ "EP_CrownGuardTowerWorldStates", "de/d46/a01967.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9", [
       [ "EP_CGT_N_A", "de/d46/a01967.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9abc9c069eb162f17c873d780f5d210c5a", null ],
       [ "EP_CGT_N_H", "de/d46/a01967.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9aa3935e441b830c6a57a25b41f956a472", null ],
@@ -77,8 +77,8 @@ var a01967 =
     [ "EP_EWT_NUM_CREATURES", "de/d46/a01967.html#aa62021ba8da0171188d5327cade2d79c", null ],
     [ "EP_EWT_Summons_A", "de/d46/a01967.html#a13c9b3f39108790585875365648e6a51", null ],
     [ "EP_EWT_Summons_H", "de/d46/a01967.html#adae054ab5e44ffc0c7a528c417aff670", null ],
-    [ "EP_GraveYardId", "de/d46/a01967.html#a08a4924d9c58da2399c472ce929b1684", null ],
-    [ "EP_GraveYardZone", "de/d46/a01967.html#afe8aba12ea7cf1a9e08f3cc19df955a9", null ],
+    [ "EP_GraveyardId", "de/d46/a01967.html#a1751b41516eaecd46b28e8a1f80c6f07", null ],
+    [ "EP_GraveyardZone", "de/d46/a01967.html#a3b7f1cd13477df42bd29e674cb329ad4", null ],
     [ "EP_HordeBuffs", "de/d46/a01967.html#a870abed831404a02d171e9cf1bd741cb", null ],
     [ "EP_NPT_CM", "de/d46/a01967.html#aad6c6d1e803fa77420b7d8bc5450975a", null ],
     [ "EP_NPT_LordaeronShrine", "de/d46/a01967.html#ab95dc19577389e3d84821796921e3cc1", null ],

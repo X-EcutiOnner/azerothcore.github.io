@@ -1,9 +1,9 @@
 var a14952 =
 [
-    [ "boss_fankriss", "da/d48/a14952.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
-    [ "JustEngagedWith", "da/d48/a14952.html#a9eaae719a271a95f64ac8076fe807c13", null ],
-    [ "Reset", "da/d48/a14952.html#af84010ee103eb81c1e269b03fc640f81", null ],
-    [ "SummonHatchlingWaves", "da/d48/a14952.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
-    [ "SummonWorms", "da/d48/a14952.html#ada23537921c3a11195450db89eb8fcfe", null ],
-    [ "summonWormSpells", "da/d48/a14952.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
+    [ "npc_claw_tentacle", "da/d48/a14952.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
+    [ "JustDied", "da/d48/a14952.html#aa566b417d1b766668133dd1d6a58293f", null ],
+    [ "JustEngagedWith", "da/d48/a14952.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
+    [ "Reset", "da/d48/a14952.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
+    [ "UpdateAI", "da/d48/a14952.html#ae7d521445680167add653717c7ae4c86", null ],
+    [ "_portalGUID", "da/d48/a14952.html#ab979781a8f77267348595cfa17341bae", null ]
 ];

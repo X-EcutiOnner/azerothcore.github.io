@@ -1,6 +1,7 @@
 var a04968 =
 [
-    [ "TriBoundFunc", "d5/d64/a04968.html#a42711c10595c048420a09e35e3345229", null ],
-    [ "operator()", "d5/d64/a04968.html#a026d443e9156f884a21351700b6c69dd", null ],
-    [ "vertices", "d5/d64/a04968.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
+    [ "AreaInfoCallback", "d5/d64/a04968.html#a80988ffb9cda6f41e269ba896332e6a1", null ],
+    [ "operator()", "d5/d64/a04968.html#ac53fe7cf79b790f501c8a3dd94cc89ff", null ],
+    [ "aInfo", "d5/d64/a04968.html#a7c38a60631dc273abcfe930847864315", null ],
+    [ "prims", "d5/d64/a04968.html#adb24cb7deeafd42035efb29ad2529b14", null ]
 ];

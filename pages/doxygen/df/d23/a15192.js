@@ -1,10 +1,6 @@
 var a15192 =
 [
-    [ "npc_murkdeepAI", "df/d23/a15192.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "df/d23/a15192.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "df/d23/a15192.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "df/d23/a15192.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "df/d23/a15192.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "df/d23/a15192.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "df/d23/a15192.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "npc_stillpine_capitiveAI", "d8/d58/a15196.html", "d8/d58/a15196" ],
+    [ "npc_stillpine_capitive", "df/d23/a15192.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
+    [ "GetAI", "df/d23/a15192.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
 ];

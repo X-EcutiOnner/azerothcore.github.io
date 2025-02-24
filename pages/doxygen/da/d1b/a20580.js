@@ -1,6 +1,6 @@
 var a20580 =
 [
-    [ "OnPeriodic", "da/d1b/a20580.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
-    [ "PrepareAuraScript", "da/d1b/a20580.html#a6aa46e818199da206e6543005a7fe87f", null ],
-    [ "Register", "da/d1b/a20580.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
+    [ "BoomEvent", "da/d1b/a20580.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
+    [ "Execute", "da/d1b/a20580.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
+    [ "_me", "da/d1b/a20580.html#a30de77ee751f1c10231088cb84942342", null ]
 ];

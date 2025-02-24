@@ -1,6 +1,9 @@
 var a14068 =
 [
-    [ "go_direbrew_mole_machineAI", "da/d98/a14072.html", "da/d98/a14072" ],
-    [ "go_direbrew_mole_machine", "da/d50/a14068.html#a759d291a5be227d8beae3bbc779e56f4", null ],
-    [ "GetAI", "da/d50/a14068.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
+    [ "npc_brew_bubble", "da/d50/a14068.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "da/d50/a14068.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "da/d50/a14068.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "da/d50/a14068.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "da/d50/a14068.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "da/d50/a14068.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

@@ -1,5 +1,7 @@
 var a23324 =
 [
-    [ "go_main_chambers_access_panel", "d3/deb/a23324.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d3/deb/a23324.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "HandleScriptEffect", "d3/deb/a23324.html#a534bf39998813f06c48bc920e4666692", null ],
+    [ "PrepareSpellScript", "d3/deb/a23324.html#a5892f20a0704596cb70a995a73846368", null ],
+    [ "Register", "d3/deb/a23324.html#a1176b4e4ad488a3b6b38ff4b8c955d64", null ],
+    [ "Validate", "d3/deb/a23324.html#af618314a13013eaf9f36b30047de0878", null ]
 ];

@@ -1,8 +1,8 @@
 var a25032 =
 [
-    [ "AchievementCredit", "d2/dea/a25032.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "d2/dea/a25032.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "d2/dea/a25032.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "d2/dea/a25032.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "d2/dea/a25032.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "CheckCast", "d2/dea/a25032.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
+    [ "HandleScript", "d2/dea/a25032.html#a2c1702398e4cbdcc106679d534a27743", null ],
+    [ "PrepareSpellScript", "d2/dea/a25032.html#a613bdf7841744632c1e6de147e0352b9", null ],
+    [ "Register", "d2/dea/a25032.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
+    [ "Validate", "d2/dea/a25032.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
 ];

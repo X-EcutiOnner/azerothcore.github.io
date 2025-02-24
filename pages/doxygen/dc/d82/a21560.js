@@ -1,6 +1,7 @@
 var a21560 =
 [
-    [ "npc_thassarianAI", "d7/d41/a21564.html", "d7/d41/a21564" ],
-    [ "npc_thassarian", "dc/d82/a21560.html#a82bde4555821f84a6d07a69669528313", null ],
-    [ "GetAI", "dc/d82/a21560.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
+    [ "npc_cosmetic_toy_plane", "dc/d82/a21560.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "dc/d82/a21560.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "dc/d82/a21560.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "dc/d82/a21560.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

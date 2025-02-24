@@ -1,6 +1,6 @@
 var a21308 =
 [
-    [ "boss_xevozzAI", "d4/dce/a21312.html", "d4/dce/a21312" ],
-    [ "boss_xevozz", "d2/dc1/a21308.html#a814ac939c4570d33450c4a6664833087", null ],
-    [ "GetAI", "d2/dc1/a21308.html#a712d8ed125d464da56b677914fbf8796", null ]
+    [ "npc_azure_captainAI", "d4/dce/a21312.html", "d4/dce/a21312" ],
+    [ "npc_azure_captain", "d2/dc1/a21308.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
+    [ "GetAI", "d2/dc1/a21308.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
 ];

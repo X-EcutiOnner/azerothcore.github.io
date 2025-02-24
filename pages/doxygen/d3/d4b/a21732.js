@@ -1,6 +1,7 @@
 var a21732 =
 [
-    [ "HandleSendEvent", "d3/d4b/a21732.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "d3/d4b/a21732.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "d3/d4b/a21732.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "npc_emilyAI", "d2/d20/a21736.html", "d2/d20/a21736" ],
+    [ "npc_emily", "d3/d4b/a21732.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d3/d4b/a21732.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d3/d4b/a21732.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

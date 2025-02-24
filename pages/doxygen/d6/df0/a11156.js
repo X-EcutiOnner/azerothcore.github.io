@@ -1,7 +1,8 @@
 var a11156 =
 [
-    [ "Command", "d6/df0/a11156.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "d6/df0/a11156.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "d6/df0/a11156.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "d6/df0/a11156.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "first", "d6/df0/a11156.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
+    [ "last", "d6/df0/a11156.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
+    [ "next", "d6/df0/a11156.html#a0a7791b7069912a013299e7afaf4142f", null ],
+    [ "prev", "d6/df0/a11156.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
+    [ "rank", "d6/df0/a11156.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
 ];

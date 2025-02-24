@@ -1,6 +1,7 @@
 var a26120 =
 [
-    [ "HandleAfterHit", "de/d77/a26120.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "de/d77/a26120.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "de/d77/a26120.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "if", "de/d77/a26120.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
+    [ "PrepareAuraScript", "de/d77/a26120.html#aa31810077c241e77193e378cb297b7de", null ],
+    [ "Register", "de/d77/a26120.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
+    [ "AuraEffectHandleModes", "de/d77/a26120.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
 ];

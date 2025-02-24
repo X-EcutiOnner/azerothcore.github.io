@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: EnumFlag&lt; T &gt; Class Template Reference</title>
+<title>AzerothCore: Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,54 +105,72 @@ $(document).ready(function(){initNavTree('d8/dd6/a05348.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
-<a href="#friends">Friends</a> &#124;
 <a href="../../de/d6f/a05345.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">EnumFlag&lt; T &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">EnumFlag.h</a>&quot;</code></p>
+<p>C++ implementation of Dmitry Vyukov's lock-free MPSC queue (Non-Intrusive).  
+ <a href="../../d8/dd6/a05348.html#details">More...</a></p>
+
+<p><code>#include &quot;<a class="el" href="../../">MPSCQueue.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2f/a05352.html">Node</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">A structure representing a node in the queue.  <a href="../../dd/d2f/a05352.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a877aa23dfde6aa91cff6d8c0eb9a4732"><td class="memItemLeft" align="right" valign="top">constexpr&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#a877aa23dfde6aa91cff6d8c0eb9a4732">EnumFlag</a> (T value)</td></tr>
-<tr class="separator:a877aa23dfde6aa91cff6d8c0eb9a4732"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afb2c7428dd07e4f427b0b0ca5ac0f7c3"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#afb2c7428dd07e4f427b0b0ca5ac0f7c3">operator&amp;=</a> (<a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a> right)</td></tr>
-<tr class="separator:afb2c7428dd07e4f427b0b0ca5ac0f7c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab49498ed668ee324702c4beadf4de999"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#ab49498ed668ee324702c4beadf4de999">operator|=</a> (<a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a> right)</td></tr>
-<tr class="separator:ab49498ed668ee324702c4beadf4de999"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3001eac7546c03530d1e51d5c1e6abfd"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#a3001eac7546c03530d1e51d5c1e6abfd">operator~</a> () const</td></tr>
-<tr class="separator:a3001eac7546c03530d1e51d5c1e6abfd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a106a00ee4112382aa0120489551bf50a"><td class="memItemLeft" align="right" valign="top">constexpr void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#a106a00ee4112382aa0120489551bf50a">RemoveFlag</a> (<a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a> flag)</td></tr>
-<tr class="separator:a106a00ee4112382aa0120489551bf50a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a311985d41e79365bf9fd5bcb7c8fbf0c"><td class="memItemLeft" align="right" valign="top">constexpr bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#a311985d41e79365bf9fd5bcb7c8fbf0c">HasFlag</a> (T flag) const</td></tr>
-<tr class="separator:a311985d41e79365bf9fd5bcb7c8fbf0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adb5b65ab4a3d827882634d94774a912b"><td class="memItemLeft" align="right" valign="top">constexpr bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#adb5b65ab4a3d827882634d94774a912b">HasAllFlags</a> (T flags) const</td></tr>
-<tr class="separator:adb5b65ab4a3d827882634d94774a912b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a13022712c9634c84907b906e55aebe28"><td class="memItemLeft" align="right" valign="top">constexpr&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#a13022712c9634c84907b906e55aebe28">operator T</a> () const</td></tr>
-<tr class="separator:a13022712c9634c84907b906e55aebe28"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af9468dd952e12d2da9c0120d0ce9feb4"><td class="memItemLeft" align="right" valign="top">constexpr std::underlying_type_t&lt; T &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#af9468dd952e12d2da9c0120d0ce9feb4">AsUnderlyingType</a> () const</td></tr>
-<tr class="separator:af9468dd952e12d2da9c0120d0ce9feb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a962c10fff5c86b00cc2e847ae758b9ce"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#a962c10fff5c86b00cc2e847ae758b9ce">MPSCQueueNonIntrusive</a> ()</td></tr>
+<tr class="memdesc:a962c10fff5c86b00cc2e847ae758b9ce"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructs a new <a class="el" href="../../d8/dd6/a05348.html" title="C++ implementation of Dmitry Vyukov&#39;s lock-free MPSC queue (Non-Intrusive).">MPSCQueueNonIntrusive</a> object.  <a href="../../d8/dd6/a05348.html#a962c10fff5c86b00cc2e847ae758b9ce">More...</a><br /></td></tr>
+<tr class="separator:a962c10fff5c86b00cc2e847ae758b9ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a599e2093215f70dc4f2f7db08965d816"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#a599e2093215f70dc4f2f7db08965d816">~MPSCQueueNonIntrusive</a> ()</td></tr>
+<tr class="memdesc:a599e2093215f70dc4f2f7db08965d816"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destroys the <a class="el" href="../../d8/dd6/a05348.html" title="C++ implementation of Dmitry Vyukov&#39;s lock-free MPSC queue (Non-Intrusive).">MPSCQueueNonIntrusive</a> object.  <a href="../../d8/dd6/a05348.html#a599e2093215f70dc4f2f7db08965d816">More...</a><br /></td></tr>
+<tr class="separator:a599e2093215f70dc4f2f7db08965d816"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a63d8a4e4c085467d33d56fd3adf0f751"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#a63d8a4e4c085467d33d56fd3adf0f751">Enqueue</a> (T *input)</td></tr>
+<tr class="memdesc:a63d8a4e4c085467d33d56fd3adf0f751"><td class="mdescLeft">&#160;</td><td class="mdescRight">Enqueues a new item in the queue.  <a href="../../d8/dd6/a05348.html#a63d8a4e4c085467d33d56fd3adf0f751">More...</a><br /></td></tr>
+<tr class="separator:a63d8a4e4c085467d33d56fd3adf0f751"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abadcc4a4ff97f4fa132978fbd0f37e1d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#abadcc4a4ff97f4fa132978fbd0f37e1d">Dequeue</a> (T *&amp;result)</td></tr>
+<tr class="memdesc:abadcc4a4ff97f4fa132978fbd0f37e1d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Dequeues an item from the queue.  <a href="../../d8/dd6/a05348.html#abadcc4a4ff97f4fa132978fbd0f37e1d">More...</a><br /></td></tr>
+<tr class="separator:abadcc4a4ff97f4fa132978fbd0f37e1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a2d543ed2b5d1ab7f23ad82ee156e42ea"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#a2d543ed2b5d1ab7f23ad82ee156e42ea">MPSCQueueNonIntrusive</a> (<a class="el" href="../../d8/dd6/a05348.html">MPSCQueueNonIntrusive</a> const &amp;)=delete</td></tr>
+<tr class="memdesc:a2d543ed2b5d1ab7f23ad82ee156e42ea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Deleted copy constructor.  <a href="../../d8/dd6/a05348.html#a2d543ed2b5d1ab7f23ad82ee156e42ea">More...</a><br /></td></tr>
+<tr class="separator:a2d543ed2b5d1ab7f23ad82ee156e42ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75063e89049903fb5305d67ea1a02034"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dd6/a05348.html">MPSCQueueNonIntrusive</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#a75063e89049903fb5305d67ea1a02034">operator=</a> (<a class="el" href="../../d8/dd6/a05348.html">MPSCQueueNonIntrusive</a> const &amp;)=delete</td></tr>
+<tr class="memdesc:a75063e89049903fb5305d67ea1a02034"><td class="mdescLeft">&#160;</td><td class="mdescRight">Deleted copy assignment operator.  <a href="../../d8/dd6/a05348.html#a75063e89049903fb5305d67ea1a02034">More...</a><br /></td></tr>
+<tr class="separator:a75063e89049903fb5305d67ea1a02034"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a55353d720942d68d0dea86837aaca7c5"><td class="memItemLeft" align="right" valign="top">T&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#a55353d720942d68d0dea86837aaca7c5">_value</a></td></tr>
-<tr class="separator:a55353d720942d68d0dea86837aaca7c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
-Friends</h2></td></tr>
-<tr class="memitem:aa91d02e5d8b6d9ef507f47720ac6d9e6"><td class="memItemLeft" align="right" valign="top">constexpr friend <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#aa91d02e5d8b6d9ef507f47720ac6d9e6">operator&amp;</a> (<a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a> left, <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a> right)</td></tr>
-<tr class="separator:aa91d02e5d8b6d9ef507f47720ac6d9e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:add07cc2598afc632e84ffdc0bf60cd81"><td class="memItemLeft" align="right" valign="top">constexpr friend <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#add07cc2598afc632e84ffdc0bf60cd81">operator|</a> (<a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a> left, <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a> right)</td></tr>
-<tr class="separator:add07cc2598afc632e84ffdc0bf60cd81"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2fb1ef015f7b9a790ba1af73dc80ba35"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; <a class="el" href="../../dd/d2f/a05352.html">Node</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#a2fb1ef015f7b9a790ba1af73dc80ba35">_head</a></td></tr>
+<tr class="memdesc:a2fb1ef015f7b9a790ba1af73dc80ba35"><td class="mdescLeft">&#160;</td><td class="mdescRight">Atomic pointer to the head node of the queue.  <a href="../../d8/dd6/a05348.html#a2fb1ef015f7b9a790ba1af73dc80ba35">More...</a><br /></td></tr>
+<tr class="separator:a2fb1ef015f7b9a790ba1af73dc80ba35"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a568d842fc8da8e39b325b459cdb44d"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; <a class="el" href="../../dd/d2f/a05352.html">Node</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a05348.html#a8a568d842fc8da8e39b325b459cdb44d">_tail</a></td></tr>
+<tr class="memdesc:a8a568d842fc8da8e39b325b459cdb44d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Atomic pointer to the tail node of the queue.  <a href="../../d8/dd6/a05348.html#a8a568d842fc8da8e39b325b459cdb44d">More...</a><br /></td></tr>
+<tr class="separator:a8a568d842fc8da8e39b325b459cdb44d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
-class EnumFlag&lt; T &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a877aa23dfde6aa91cff6d8c0eb9a4732" name="a877aa23dfde6aa91cff6d8c0eb9a4732"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a877aa23dfde6aa91cff6d8c0eb9a4732">&#9670;&#160;</a></span>EnumFlag()</h2>
+class Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;</div><p >C++ implementation of Dmitry Vyukov's lock-free MPSC queue (Non-Intrusive). </p>
+<p >This queue allows multiple producers to enqueue items concurrently, but only one consumer can dequeue items. The queue is lock-free and non-intrusive, meaning it does not modify the data types that are enqueued.</p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">T</td><td>The type of data that is being enqueued in the queue. </td></tr>
+  </table>
+  </dd>
+</dl>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a962c10fff5c86b00cc2e847ae758b9ce" name="a962c10fff5c86b00cc2e847ae758b9ce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a962c10fff5c86b00cc2e847ae758b9ce">&#9670;&#160;</a></span>MPSCQueueNonIntrusive() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -163,29 +181,114 @@ template&lt;typename T &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;<a class="el" href="../../d8/dd6/a05348.html">::EnumFlag</a> </td>
+          <td class="memname"><a class="el" href="../../d8/dd6/a05348.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::MPSCQueueNonIntrusive </td>
           <td>(</td>
-          <td class="paramtype">T&#160;</td>
-          <td class="paramname"><em>value</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   70</span>                                  : <a class="code hl_variable" href="../../d8/dd6/a05348.html#a55353d720942d68d0dea86837aaca7c5">_value</a>(value)</div>
-<div class="line"><span class="lineno">   71</span>    {</div>
-<div class="line"><span class="lineno">   72</span>    }</div>
-<div class="ttc" id="aa05348_html_a55353d720942d68d0dea86837aaca7c5"><div class="ttname"><a href="../../d8/dd6/a05348.html#a55353d720942d68d0dea86837aaca7c5">EnumFlag::_value</a></div><div class="ttdeci">T _value</div><div class="ttdef"><b>Definition:</b> EnumFlag.h:128</div></div>
+
+<p>Constructs a new <a class="el" href="../../d8/dd6/a05348.html" title="C++ implementation of Dmitry Vyukov&#39;s lock-free MPSC queue (Non-Intrusive).">MPSCQueueNonIntrusive</a> object. </p>
+<p >Initializes the queue with a dummy node and sets up atomic pointers to the head and tail. </p>
+<p >&lt; Store with release to ensure visibility</p>
+<div class="fragment"><div class="line"><span class="lineno">   45</span>            : <a class="code hl_variable" href="../../d8/dd6/a05348.html#a2fb1ef015f7b9a790ba1af73dc80ba35">_head</a>(<span class="keyword">new</span> Node(<span class="keyword">nullptr</span>)), <a class="code hl_variable" href="../../d8/dd6/a05348.html#a8a568d842fc8da8e39b325b459cdb44d">_tail</a>(<a class="code hl_variable" href="../../d8/dd6/a05348.html#a2fb1ef015f7b9a790ba1af73dc80ba35">_head</a>.load(std::memory_order_acquire))</div>
+<div class="line"><span class="lineno">   46</span>        {</div>
+<div class="line"><span class="lineno">   47</span>            Node* front = <a class="code hl_variable" href="../../d8/dd6/a05348.html#a2fb1ef015f7b9a790ba1af73dc80ba35">_head</a>.load(std::memory_order_acquire);</div>
+<div class="line"><span class="lineno">   48</span>            front-&gt;Next.store(<span class="keyword">nullptr</span>, std::memory_order_release);  </div>
+<div class="line"><span class="lineno">   49</span>        }</div>
+<div class="ttc" id="aa05348_html_a2fb1ef015f7b9a790ba1af73dc80ba35"><div class="ttname"><a href="../../d8/dd6/a05348.html#a2fb1ef015f7b9a790ba1af73dc80ba35">Acore::Impl::MPSCQueueNonIntrusive::_head</a></div><div class="ttdeci">std::atomic&lt; Node * &gt; _head</div><div class="ttdoc">Atomic pointer to the head node of the queue.</div><div class="ttdef"><b>Definition:</b> MPSCQueue.h:125</div></div>
+<div class="ttc" id="aa05348_html_a8a568d842fc8da8e39b325b459cdb44d"><div class="ttname"><a href="../../d8/dd6/a05348.html#a8a568d842fc8da8e39b325b459cdb44d">Acore::Impl::MPSCQueueNonIntrusive::_tail</a></div><div class="ttdeci">std::atomic&lt; Node * &gt; _tail</div><div class="ttdoc">Atomic pointer to the tail node of the queue.</div><div class="ttdef"><b>Definition:</b> MPSCQueue.h:126</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00125">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::_head</a>, and <a class="el" href="../../#l00122">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node::Next</a>.</p>
+
+</div>
+</div>
+<a id="a599e2093215f70dc4f2f7db08965d816" name="a599e2093215f70dc4f2f7db08965d816"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a599e2093215f70dc4f2f7db08965d816">&#9670;&#160;</a></span>~MPSCQueueNonIntrusive()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/dd6/a05348.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::~<a class="el" href="../../d8/dd6/a05348.html">MPSCQueueNonIntrusive</a> </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Destroys the <a class="el" href="../../d8/dd6/a05348.html" title="C++ implementation of Dmitry Vyukov&#39;s lock-free MPSC queue (Non-Intrusive).">MPSCQueueNonIntrusive</a> object. </p>
+<p >Dequeues all items and deletes them, followed by proper cleanup of remaining nodes in the queue. </p>
+<div class="fragment"><div class="line"><span class="lineno">   57</span>        {</div>
+<div class="line"><span class="lineno">   58</span>            T* output;</div>
+<div class="line"><span class="lineno">   59</span>            <span class="keywordflow">while</span> (<a class="code hl_function" href="../../d8/dd6/a05348.html#abadcc4a4ff97f4fa132978fbd0f37e1d">Dequeue</a>(output))</div>
+<div class="line"><span class="lineno">   60</span>                <span class="keyword">delete</span> output;</div>
+<div class="line"><span class="lineno">   61</span> </div>
+<div class="line"><span class="lineno">   62</span>            <span class="comment">// Properly delete remaining nodes</span></div>
+<div class="line"><span class="lineno">   63</span>            Node* front = <a class="code hl_variable" href="../../d8/dd6/a05348.html#a2fb1ef015f7b9a790ba1af73dc80ba35">_head</a>.load(std::memory_order_acquire);</div>
+<div class="line"><span class="lineno">   64</span>            <span class="keywordflow">while</span> (front)</div>
+<div class="line"><span class="lineno">   65</span>            {</div>
+<div class="line"><span class="lineno">   66</span>                Node* next = front-&gt;Next.load(std::memory_order_acquire);</div>
+<div class="line"><span class="lineno">   67</span>                <span class="keyword">delete</span> front;</div>
+<div class="line"><span class="lineno">   68</span>                front = next;</div>
+<div class="line"><span class="lineno">   69</span>            }</div>
+<div class="line"><span class="lineno">   70</span>        }</div>
+<div class="ttc" id="aa05348_html_abadcc4a4ff97f4fa132978fbd0f37e1d"><div class="ttname"><a href="../../d8/dd6/a05348.html#abadcc4a4ff97f4fa132978fbd0f37e1d">Acore::Impl::MPSCQueueNonIntrusive::Dequeue</a></div><div class="ttdeci">bool Dequeue(T *&amp;result)</div><div class="ttdoc">Dequeues an item from the queue.</div><div class="ttdef"><b>Definition:</b> MPSCQueue.h:94</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00125">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::_head</a>, <a class="el" href="../../#l00094">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Dequeue()</a>, and <a class="el" href="../../#l00122">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node::Next</a>.</p>
+
+</div>
+</div>
+<a id="a2d543ed2b5d1ab7f23ad82ee156e42ea" name="a2d543ed2b5d1ab7f23ad82ee156e42ea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2d543ed2b5d1ab7f23ad82ee156e42ea">&#9670;&#160;</a></span>MPSCQueueNonIntrusive() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/dd6/a05348.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::MPSCQueueNonIntrusive </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/dd6/a05348.html">MPSCQueueNonIntrusive</a>&lt; T &gt; const &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Deleted copy constructor. </p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="af9468dd952e12d2da9c0120d0ce9feb4" name="af9468dd952e12d2da9c0120d0ce9feb4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af9468dd952e12d2da9c0120d0ce9feb4">&#9670;&#160;</a></span>AsUnderlyingType()</h2>
+<a id="abadcc4a4ff97f4fa132978fbd0f37e1d" name="abadcc4a4ff97f4fa132978fbd0f37e1d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abadcc4a4ff97f4fa132978fbd0f37e1d">&#9670;&#160;</a></span>Dequeue()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -196,346 +299,125 @@ template&lt;typename T &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr std::underlying_type_t&lt; T &gt; <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;::AsUnderlyingType </td>
+          <td class="memname">bool <a class="el" href="../../d8/dd6/a05348.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::Dequeue </td>
           <td>(</td>
+          <td class="paramtype">T *&amp;&#160;</td>
+          <td class="paramname"><em>result</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Dequeues an item from the queue. </p>
+<p >This function removes the item at the front of the queue and returns it.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">result</td><td><a class="el" href="../../d6/d3f/a05204.html">Reference</a> to a pointer where the dequeued item will be stored. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>True if an item was successfully dequeued, false if the queue was empty. </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">   95</span>        {</div>
+<div class="line"><span class="lineno">   96</span>            Node* tail = <a class="code hl_variable" href="../../d8/dd6/a05348.html#a8a568d842fc8da8e39b325b459cdb44d">_tail</a>.load(std::memory_order_acquire);</div>
+<div class="line"><span class="lineno">   97</span>            Node* next = tail-&gt;Next.load(std::memory_order_acquire);</div>
+<div class="line"><span class="lineno">   98</span>            <span class="keywordflow">if</span> (!next)</div>
+<div class="line"><span class="lineno">   99</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  100</span> </div>
+<div class="line"><span class="lineno">  101</span>            result = next-&gt;Data;</div>
+<div class="line"><span class="lineno">  102</span>            <a class="code hl_variable" href="../../d8/dd6/a05348.html#a8a568d842fc8da8e39b325b459cdb44d">_tail</a>.store(next, std::memory_order_release);</div>
+<div class="line"><span class="lineno">  103</span>            <span class="keyword">delete</span> tail;</div>
+<div class="line"><span class="lineno">  104</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  105</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00126">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::_tail</a>, <a class="el" href="../../#l00121">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node::Data</a>, and <a class="el" href="../../#l00122">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node::Next</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00056">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::~MPSCQueueNonIntrusive()</a>.</p>
+
+</div>
+</div>
+<a id="a63d8a4e4c085467d33d56fd3adf0f751" name="a63d8a4e4c085467d33d56fd3adf0f751"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a63d8a4e4c085467d33d56fd3adf0f751">&#9670;&#160;</a></span>Enqueue()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d8/dd6/a05348.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::Enqueue </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"><em>input</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Enqueues a new item in the queue. </p>
+<p >This function adds a new item at the head of the queue.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">input</td><td>Pointer to the item to be enqueued. </td></tr>
+  </table>
+  </dd>
+</dl>
+<p >&lt; Exchange with acquire-release semantics</p>
+<div class="fragment"><div class="line"><span class="lineno">   80</span>        {</div>
+<div class="line"><span class="lineno">   81</span>            Node* node = <span class="keyword">new</span> Node(input);</div>
+<div class="line"><span class="lineno">   82</span>            Node* prevHead = <a class="code hl_variable" href="../../d8/dd6/a05348.html#a2fb1ef015f7b9a790ba1af73dc80ba35">_head</a>.exchange(node, std::memory_order_acq_rel);  </div>
+<div class="line"><span class="lineno">   83</span>            prevHead-&gt;Next.store(node, std::memory_order_release);</div>
+<div class="line"><span class="lineno">   84</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00125">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::_head</a>, and <a class="el" href="../../#l00122">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node::Next</a>.</p>
+
+</div>
+</div>
+<a id="a75063e89049903fb5305d67ea1a02034" name="a75063e89049903fb5305d67ea1a02034"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a75063e89049903fb5305d67ea1a02034">&#9670;&#160;</a></span>operator=()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/dd6/a05348.html">MPSCQueueNonIntrusive</a> &amp; <a class="el" href="../../d8/dd6/a05348.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::operator= </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/dd6/a05348.html">MPSCQueueNonIntrusive</a>&lt; T &gt; const &amp;&#160;</td>
           <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  123</span>    {</div>
-<div class="line"><span class="lineno">  124</span>        <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span>std::underlying_type_t&lt;T&gt;<span class="keyword">&gt;</span>(<a class="code hl_variable" href="../../d8/dd6/a05348.html#a55353d720942d68d0dea86837aaca7c5">_value</a>);</div>
-<div class="line"><span class="lineno">  125</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00128">EnumFlag&lt; T &gt;::_value</a>.</p>
-
-</div>
-</div>
-<a id="adb5b65ab4a3d827882634d94774a912b" name="adb5b65ab4a3d827882634d94774a912b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adb5b65ab4a3d827882634d94774a912b">&#9670;&#160;</a></span>HasAllFlags()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr bool <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;::HasAllFlags </td>
-          <td>(</td>
-          <td class="paramtype">T&#160;</td>
-          <td class="paramname"><em>flags</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  113</span>    {</div>
-<div class="line"><span class="lineno">  114</span>        <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d8/dd6/a05348.html#a55353d720942d68d0dea86837aaca7c5">_value</a> &amp; flags) == flags;</div>
-<div class="line"><span class="lineno">  115</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00128">EnumFlag&lt; T &gt;::_value</a>.</p>
-
-</div>
-</div>
-<a id="a311985d41e79365bf9fd5bcb7c8fbf0c" name="a311985d41e79365bf9fd5bcb7c8fbf0c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a311985d41e79365bf9fd5bcb7c8fbf0c">&#9670;&#160;</a></span>HasFlag()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr bool <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;::HasFlag </td>
-          <td>(</td>
-          <td class="paramtype">T&#160;</td>
-          <td class="paramname"><em>flag</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  107</span>    {</div>
-<div class="line"><span class="lineno">  108</span>        <span class="keyword">using </span>i = std::underlying_type_t&lt;T&gt;;</div>
-<div class="line"><span class="lineno">  109</span>        <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span>i<span class="keyword">&gt;</span>(<a class="code hl_variable" href="../../d8/dd6/a05348.html#a55353d720942d68d0dea86837aaca7c5">_value</a> &amp; flag) != <span class="keyword">static_cast&lt;</span>i<span class="keyword">&gt;</span>(0);</div>
-<div class="line"><span class="lineno">  110</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00128">EnumFlag&lt; T &gt;::_value</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00153">SmartScript::ProcessAction()</a>.</p>
-
-</div>
-</div>
-<a id="a13022712c9634c84907b906e55aebe28" name="a13022712c9634c84907b906e55aebe28"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a13022712c9634c84907b906e55aebe28">&#9670;&#160;</a></span>operator T()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;::operator T </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  118</span>    {</div>
-<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/dd6/a05348.html#a55353d720942d68d0dea86837aaca7c5">_value</a>;</div>
-<div class="line"><span class="lineno">  120</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00128">EnumFlag&lt; T &gt;::_value</a>.</p>
-
-</div>
-</div>
-<a id="afb2c7428dd07e4f427b0b0ca5ac0f7c3" name="afb2c7428dd07e4f427b0b0ca5ac0f7c3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afb2c7428dd07e4f427b0b0ca5ac0f7c3">&#9670;&#160;</a></span>operator&amp;=()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a> &amp; <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;::operator&amp;= </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;&#160;</td>
-          <td class="paramname"><em>right</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   75</span>    {</div>
-<div class="line"><span class="lineno">   76</span>        <a class="code hl_variable" href="../../d8/dd6/a05348.html#a55353d720942d68d0dea86837aaca7c5">_value</a> &amp;= right.<a class="code hl_variable" href="../../d8/dd6/a05348.html#a55353d720942d68d0dea86837aaca7c5">_value</a>;</div>
-<div class="line"><span class="lineno">   77</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">   78</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00128">EnumFlag&lt; T &gt;::_value</a>.</p>
 
-</div>
-</div>
-<a id="ab49498ed668ee324702c4beadf4de999" name="ab49498ed668ee324702c4beadf4de999"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab49498ed668ee324702c4beadf4de999">&#9670;&#160;</a></span>operator|=()</h2>
+<p>Deleted copy assignment operator. </p>
 
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a> &amp; <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;::operator|= </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;&#160;</td>
-          <td class="paramname"><em>right</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   86</span>    {</div>
-<div class="line"><span class="lineno">   87</span>        <a class="code hl_variable" href="../../d8/dd6/a05348.html#a55353d720942d68d0dea86837aaca7c5">_value</a> |= right.<a class="code hl_variable" href="../../d8/dd6/a05348.html#a55353d720942d68d0dea86837aaca7c5">_value</a>;</div>
-<div class="line"><span class="lineno">   88</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">   89</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00128">EnumFlag&lt; T &gt;::_value</a>.</p>
-
-</div>
-</div>
-<a id="a3001eac7546c03530d1e51d5c1e6abfd" name="a3001eac7546c03530d1e51d5c1e6abfd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3001eac7546c03530d1e51d5c1e6abfd">&#9670;&#160;</a></span>operator~()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a> <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;::operator~ </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   97</span>    {</div>
-<div class="line"><span class="lineno">   98</span>        <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span>T<span class="keyword">&gt;</span>(~static_cast&lt;std::underlying_type_t&lt;T&gt;&gt;(<a class="code hl_variable" href="../../d8/dd6/a05348.html#a55353d720942d68d0dea86837aaca7c5">_value</a>));</div>
-<div class="line"><span class="lineno">   99</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00128">EnumFlag&lt; T &gt;::_value</a>.</p>
-
-</div>
-</div>
-<a id="a106a00ee4112382aa0120489551bf50a" name="a106a00ee4112382aa0120489551bf50a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a106a00ee4112382aa0120489551bf50a">&#9670;&#160;</a></span>RemoveFlag()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr void <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;::RemoveFlag </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;&#160;</td>
-          <td class="paramname"><em>flag</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  102</span>    {</div>
-<div class="line"><span class="lineno">  103</span>        <a class="code hl_variable" href="../../d8/dd6/a05348.html#a55353d720942d68d0dea86837aaca7c5">_value</a> &amp;= ~flag._value;</div>
-<div class="line"><span class="lineno">  104</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00128">EnumFlag&lt; T &gt;::_value</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Friends And Related Function Documentation</h2>
-<a id="aa91d02e5d8b6d9ef507f47720ac6d9e6" name="aa91d02e5d8b6d9ef507f47720ac6d9e6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa91d02e5d8b6d9ef507f47720ac6d9e6">&#9670;&#160;</a></span>operator&amp;</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr friend <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a> operator&amp; </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;&#160;</td>
-          <td class="paramname"><em>left</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;&#160;</td>
-          <td class="paramname"><em>right</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   81</span>    {</div>
-<div class="line"><span class="lineno">   82</span>        <span class="keywordflow">return</span> left &amp;= right;</div>
-<div class="line"><span class="lineno">   83</span>    }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="add07cc2598afc632e84ffdc0bf60cd81" name="add07cc2598afc632e84ffdc0bf60cd81"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#add07cc2598afc632e84ffdc0bf60cd81">&#9670;&#160;</a></span>operator|</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr friend <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a> operator| </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;&#160;</td>
-          <td class="paramname"><em>left</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;&#160;</td>
-          <td class="paramname"><em>right</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   92</span>    {</div>
-<div class="line"><span class="lineno">   93</span>        <span class="keywordflow">return</span> left |= right;</div>
-<div class="line"><span class="lineno">   94</span>    }</div>
-</div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a55353d720942d68d0dea86837aaca7c5" name="a55353d720942d68d0dea86837aaca7c5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a55353d720942d68d0dea86837aaca7c5">&#9670;&#160;</a></span>_value</h2>
+<a id="a2fb1ef015f7b9a790ba1af73dc80ba35" name="a2fb1ef015f7b9a790ba1af73dc80ba35"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2fb1ef015f7b9a790ba1af73dc80ba35">&#9670;&#160;</a></span>_head</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -546,7 +428,7 @@ template&lt;typename T &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">T <a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a>&lt; T &gt;::_value</td>
+          <td class="memname">std::atomic&lt;<a class="el" href="../../dd/d2f/a05352.html">Node</a>*&gt; <a class="el" href="../../d8/dd6/a05348.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::_head</td>
         </tr>
       </table>
   </td>
@@ -556,7 +438,37 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00122">EnumFlag&lt; T &gt;::AsUnderlyingType()</a>, <a class="el" href="../../#l00112">EnumFlag&lt; T &gt;::HasAllFlags()</a>, <a class="el" href="../../#l00106">EnumFlag&lt; T &gt;::HasFlag()</a>, <a class="el" href="../../#l00117">EnumFlag&lt; T &gt;::operator T()</a>, <a class="el" href="../../#l00074">EnumFlag&lt; T &gt;::operator&amp;=()</a>, <a class="el" href="../../#l00085">EnumFlag&lt; T &gt;::operator|=()</a>, <a class="el" href="../../#l00096">EnumFlag&lt; T &gt;::operator~()</a>, and <a class="el" href="../../#l00101">EnumFlag&lt; T &gt;::RemoveFlag()</a>.</p>
+<p>Atomic pointer to the head node of the queue. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00079">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Enqueue()</a>, <a class="el" href="../../#l00044">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::MPSCQueueNonIntrusive()</a>, and <a class="el" href="../../#l00056">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::~MPSCQueueNonIntrusive()</a>.</p>
+
+</div>
+</div>
+<a id="a8a568d842fc8da8e39b325b459cdb44d" name="a8a568d842fc8da8e39b325b459cdb44d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8a568d842fc8da8e39b325b459cdb44d">&#9670;&#160;</a></span>_tail</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::atomic&lt;<a class="el" href="../../dd/d2f/a05352.html">Node</a>*&gt; <a class="el" href="../../d8/dd6/a05348.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::_tail</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Atomic pointer to the tail node of the queue. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00094">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Dequeue()</a>.</p>
 
 </div>
 </div>
@@ -565,8 +477,8 @@ template&lt;typename T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d8/dd6/a05348.html">EnumFlag</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:43:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/d86/a04746.html">Acore</a></li><li class="navelem"><a class="el" href="../../de/df1/a04758.html">Impl</a></li><li class="navelem"><a class="el" href="../../d8/dd6/a05348.html">MPSCQueueNonIntrusive</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:44:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

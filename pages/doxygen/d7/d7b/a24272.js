@@ -1,7 +1,10 @@
 var a24272 =
 [
-    [ "npc_isla_starmaneAI", "d7/df1/a24276.html", "d7/df1/a24276" ],
-    [ "npc_isla_starmane", "d7/d7b/a24272.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
-    [ "GetAI", "d7/d7b/a24272.html#a0ea2dbaab4115772f92849e06aa85575", null ],
-    [ "OnQuestAccept", "d7/d7b/a24272.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
+    [ "npc_pet_gen_plump_turkey", "d7/d7b/a24272.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
+    [ "MovementInform", "d7/d7b/a24272.html#af27c91388891add6d00e251bf3187743", null ],
+    [ "UpdateAI", "d7/d7b/a24272.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
+    [ "checkTimer", "d7/d7b/a24272.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
+    [ "goGUID", "d7/d7b/a24272.html#a5fa88e045430adea9e72a3744bf72780", null ],
+    [ "jumping", "d7/d7b/a24272.html#a8486512b7594f2ce759fcb580f1baf34", null ],
+    [ "jumpTimer", "d7/d7b/a24272.html#ad53a9abad41ab6a792a55b854155135d", null ]
 ];

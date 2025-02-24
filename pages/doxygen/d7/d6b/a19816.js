@@ -1,6 +1,8 @@
 var a19816 =
 [
-    [ "npc_brann_radioAI", "d2/d39/a19820.html", "d2/d39/a19820" ],
-    [ "npc_brann_radio", "d7/d6b/a19816.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
-    [ "GetAI", "d7/d6b/a19816.html#aa2ea91337262fb886e7535ba013f4b10", null ]
+    [ "OnApply", "d7/d6b/a19816.html#a5aec8606684637bbdb1e819254f5d483", null ],
+    [ "OnRemove", "d7/d6b/a19816.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
+    [ "PrepareAuraScript", "d7/d6b/a19816.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
+    [ "Register", "d7/d6b/a19816.html#af1db6ca387cf0733ba4b9c324172d692", null ],
+    [ "Validate", "d7/d6b/a19816.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
 ];

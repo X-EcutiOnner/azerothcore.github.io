@@ -1,6 +1,9 @@
 var a22136 =
 [
-    [ "npc_bushwhackerAI", "d3/dc2/a22136.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "d3/dc2/a22136.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "d3/dc2/a22136.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "npc_brunnhildar_prisonerAI", "d3/dc2/a22136.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "d3/dc2/a22136.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "d3/dc2/a22136.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "d3/dc2/a22136.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "d3/dc2/a22136.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "d3/dc2/a22136.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

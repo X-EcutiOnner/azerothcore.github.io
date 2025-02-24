@@ -1,8 +1,9 @@
 var a25660 =
 [
-    [ "HandleDummy", "d7/deb/a25660.html#a57897df074b7766c022526e082b4a13b", null ],
-    [ "Load", "d7/deb/a25660.html#a47cbade67be124496c6194391ab51794", null ],
-    [ "PrepareSpellScript", "d7/deb/a25660.html#af5e5a22976adfa5588ca8e054e19a669", null ],
-    [ "Register", "d7/deb/a25660.html#ab0c3be8436b79288bb45899448fd6c1b", null ],
-    [ "Validate", "d7/deb/a25660.html#a97d037267e385e0d3fd80543a5ddb366", null ]
+    [ "CheckRequirement", "d7/deb/a25660.html#adab261a5221ca54b15cc414d291908fe", null ],
+    [ "HandleDummy", "d7/deb/a25660.html#abb7a734244bb18d75304a0510f9efb8d", null ],
+    [ "Load", "d7/deb/a25660.html#a418eef16d1e3aeff67013f45409c092a", null ],
+    [ "PrepareSpellScript", "d7/deb/a25660.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
+    [ "Register", "d7/deb/a25660.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
+    [ "Validate", "d7/deb/a25660.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
 ];

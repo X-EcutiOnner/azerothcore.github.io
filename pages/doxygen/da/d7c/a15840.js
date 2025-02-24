@@ -1,8 +1,8 @@
 var a15840 =
 [
-    [ "RestoreFight", "da/d7c/a15840.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "RestoreFight", "da/d7c/a15840.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "Execute", "da/d7c/a15840.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "Execute", "da/d7c/a15840.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "_owner", "da/d7c/a15840.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
+    [ "npc_twilight_summonAI", "da/d7c/a15840.html#a8f5dfe54a5ac1d7a058c5efb9bead77a", null ],
+    [ "DoAction", "da/d7c/a15840.html#aac4c1e3bc635b30f1ceed8b25f2c7829", null ],
+    [ "Reset", "da/d7c/a15840.html#a1174c827aef1b05603214e4717c78f8a", null ],
+    [ "UpdateAI", "da/d7c/a15840.html#addb312c34c668b8189087de6cf89543b", null ],
+    [ "fadeArmorTimer", "da/d7c/a15840.html#ace4028c8f4d0240b4e2939481312d0d2", null ]
 ];

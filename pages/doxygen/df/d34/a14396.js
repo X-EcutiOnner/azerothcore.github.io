@@ -1,6 +1,5 @@
 var a14396 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "de/dad/a14400.html", "de/dad/a14400" ],
-    [ "instance_blackfathom_deeps", "df/d34/a14396.html#a4600a7e6191582c1bee684989a970e0f", null ],
-    [ "GetInstanceScript", "df/d34/a14396.html#a62cdab4f3118ab030b4ef55243690f73", null ]
+    [ "achievement_pb_pilgrims_peril", "df/d34/a14396.html#a9516eab18d7e1401a5637913d8ec9595", null ],
+    [ "OnCheck", "df/d34/a14396.html#a78c92eab532448080c1d28dc8fcabaca", null ]
 ];

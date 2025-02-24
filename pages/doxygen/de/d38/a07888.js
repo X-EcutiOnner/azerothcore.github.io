@@ -1,6 +1,14 @@
 var a07888 =
 [
-    [ "ForcedUnsummonDelayEvent", "de/d38/a07888.html#aadabfc349c81e02743add4307977c2fd", null ],
-    [ "Execute", "de/d38/a07888.html#a86d7bd6f9f47ef37382b725f0d64877b", null ],
-    [ "m_owner", "de/d38/a07888.html#a3954577354fb882ec1def262502ed2e6", null ]
+    [ "LfgQueueStatusData", "de/d38/a07888.html#af50fc3422feb137a7ccd820e2ac2fe44", null ],
+    [ "dps", "de/d38/a07888.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a", null ],
+    [ "dungeonId", "de/d38/a07888.html#a9a6288f9e14e593e147b4f60a1dc8991", null ],
+    [ "healers", "de/d38/a07888.html#a61b2c2f4391022c7e4ba3972c4467a74", null ],
+    [ "queuedTime", "de/d38/a07888.html#a398efafa1ef7faa6600d6fdb28306f49", null ],
+    [ "tanks", "de/d38/a07888.html#a74f54d22ca9e2b6711bf363737b9ff06", null ],
+    [ "waitTime", "de/d38/a07888.html#aa794f234bf93e66916f7eadb986f17ef", null ],
+    [ "waitTimeAvg", "de/d38/a07888.html#af44b91dd7ddfb702662663f989f026fc", null ],
+    [ "waitTimeDps", "de/d38/a07888.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf", null ],
+    [ "waitTimeHealer", "de/d38/a07888.html#abf57fbbaac89b08bacf0731e3a8b65e3", null ],
+    [ "waitTimeTank", "de/d38/a07888.html#a73cdcd16181375a7d428e6b50cb1e1e6", null ]
 ];

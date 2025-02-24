@@ -1,6 +1,6 @@
 var a21912 =
 [
-    [ "npc_rocket_propelled_warheadAI", "d0/d8c/a21916.html", "d0/d8c/a21916" ],
-    [ "npc_rocket_propelled_warhead", "dd/daa/a21912.html#a5c945efc6e3ca847363ac47abc5f51ca", null ],
-    [ "GetAI", "dd/daa/a21912.html#a803702c480107d197845a0ef447a5380", null ]
+    [ "npc_boneguard_footmanAI", "dd/daa/a21912.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "dd/daa/a21912.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "dd/daa/a21912.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

@@ -1,6 +1,11 @@
 var a19548 =
 [
-    [ "HandleEffectRemove", "db/db7/a19548.html#a529d6d96d7f7a682646ac76d2738afad", null ],
-    [ "PrepareAuraScript", "db/db7/a19548.html#ad32012414b24efa48db05cba2d8e86f2", null ],
-    [ "Register", "db/db7/a19548.html#aa38b273ed6e9482c8c2fca712ea5b459", null ]
+    [ "npc_living_constellationAI", "db/db7/a19548.html#a54f4e946fad895bca07a59f4e00d10a5", null ],
+    [ "DoAction", "db/db7/a19548.html#acdc93a7dc3019940d730fa20d115a929", null ],
+    [ "GetData", "db/db7/a19548.html#acb5cc31d7a084e82d8bde3852f9668dd", null ],
+    [ "Reset", "db/db7/a19548.html#a664b03bdaea184ab8dd8298ed9952790", null ],
+    [ "SpellHit", "db/db7/a19548.html#a4c83ef2d5fe161a90d465a8fbd7eb4f8", null ],
+    [ "UpdateAI", "db/db7/a19548.html#ad5b23c3db46b455c9321e7fb29b88572", null ],
+    [ "_isActive", "db/db7/a19548.html#a786d2d05f83e59dd0da34f44037bdd35", null ],
+    [ "events", "db/db7/a19548.html#a679c9fe1ed357b7c7e1ed1fac01ef8d3", null ]
 ];

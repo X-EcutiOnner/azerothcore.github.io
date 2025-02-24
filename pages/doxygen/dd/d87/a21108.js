@@ -1,5 +1,7 @@
 var a21108 =
 [
-    [ "npc_ritual_channelerAI", "dd/d87/a21108.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "dd/d87/a21108.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "PrepareAuraScript", "dd/d87/a21108.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
+    [ "Register", "dd/d87/a21108.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
+    [ "TriggerFists", "dd/d87/a21108.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
+    [ "Validate", "dd/d87/a21108.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
 ];

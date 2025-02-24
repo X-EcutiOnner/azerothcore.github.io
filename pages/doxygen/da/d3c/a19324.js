@@ -1,7 +1,9 @@
 var a19324 =
 [
-    [ "CalcDamage", "da/d3c/a19324.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "da/d3c/a19324.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "da/d3c/a19324.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "da/d3c/a19324.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "HandleOnEffectApply", "da/d3c/a19324.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "da/d3c/a19324.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "da/d3c/a19324.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "da/d3c/a19324.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "da/d3c/a19324.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "da/d3c/a19324.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

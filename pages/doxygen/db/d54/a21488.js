@@ -1,6 +1,9 @@
 var a21488 =
 [
-    [ "npc_captured_beryl_sorcererAI", "d9/dfd/a21492.html", "d9/dfd/a21492" ],
-    [ "npc_captured_beryl_sorcerer", "db/d54/a21488.html#ace67e76e96e3be9fa5976dc4c90041e6", null ],
-    [ "GetAI", "db/d54/a21488.html#aa5a31390ff3c6277ebff2a5eebe72b3d", null ]
+    [ "npc_counselor_talbotAI", "db/d54/a21488.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
+    [ "JustDied", "db/d54/a21488.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
+    [ "JustEngagedWith", "db/d54/a21488.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
+    [ "Reset", "db/d54/a21488.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
+    [ "UpdateAI", "db/d54/a21488.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
+    [ "_events", "db/d54/a21488.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
 ];

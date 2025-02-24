@@ -1,8 +1,11 @@
 var a10896 =
 [
-    [ "target_mapId", "df/da4/a10896.html#a6dbbb558810388e0d051d84a0279a444", null ],
-    [ "target_Orientation", "df/da4/a10896.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
-    [ "target_X", "df/da4/a10896.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
-    [ "target_Y", "df/da4/a10896.html#a6f432d8770adebf513346713b7890b5c", null ],
-    [ "target_Z", "df/da4/a10896.html#a3af706b81f8fbef12277c518964f717a", null ]
+    [ "OptionalData", "df/dc5/a10900.html", "df/dc5/a10900" ],
+    [ "ArrivalTicks", "df/da4/a10896.html#a8fa635d0c8f77a0e39fd66501490f6ea", null ],
+    [ "ConnectionId", "df/da4/a10896.html#abe8700ec99d55a66b22f8fbb28c833fa", null ],
+    [ "Direction", "df/da4/a10896.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8", null ],
+    [ "Length", "df/da4/a10896.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc", null ],
+    [ "Opcode", "df/da4/a10896.html#a7fcc9281cd10ecf79929f9f17c855b65", null ],
+    [ "OptionalData", "df/da4/a10896.html#aa5219ee4193cccf913dabf6db5d6f57a", null ],
+    [ "OptionalDataSize", "df/da4/a10896.html#a03b79fe07bd5f0a1c254f2fb92a3ecba", null ]
 ];

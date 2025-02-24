@@ -1,7 +1,8 @@
 var a14244 =
 [
-    [ "npc_love_in_air_supply_sentry", "dc/d1e/a14244.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "dc/d1e/a14244.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "dc/d1e/a14244.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "dc/d1e/a14244.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "npc_hallows_end_train_fire", "dc/d1e/a14244.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
+    [ "Reset", "dc/d1e/a14244.html#afdda52e0adce23f56fa9d1357469a17d", null ],
+    [ "SpellHit", "dc/d1e/a14244.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
+    [ "UpdateAI", "dc/d1e/a14244.html#a686a565e1743c31166d8d57f67a0adce", null ],
+    [ "timer", "dc/d1e/a14244.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
 ];

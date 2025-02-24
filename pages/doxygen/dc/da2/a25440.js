@@ -1,5 +1,7 @@
 var a25440 =
 [
-    [ "PrepareSpellScript", "dc/da2/a25440.html#adaaa520c889970d91f3f38c958efdad4", null ],
-    [ "Register", "dc/da2/a25440.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
+    [ "CheckProc", "dc/da2/a25440.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
+    [ "HandleProc", "dc/da2/a25440.html#a27569fe686e50246768fca4a7625fe0d", null ],
+    [ "PrepareAuraScript", "dc/da2/a25440.html#a4f4eaa4aeeac9257804957671c16233f", null ],
+    [ "Register", "dc/da2/a25440.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
 ];

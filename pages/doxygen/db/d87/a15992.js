@@ -1,7 +1,7 @@
 var a15992 =
 [
-    [ "HandleDummy", "db/d87/a15992.html#a96b430cb0546fb599da22cd675660187", null ],
-    [ "PrepareSpellScript", "db/d87/a15992.html#ad0330cb78a330f05c18f33375f231fbc", null ],
-    [ "Register", "db/d87/a15992.html#a70a36683a235dec6044a8a32f20c606c", null ],
-    [ "Validate", "db/d87/a15992.html#affa7ccf869e98eacd3a153cc645d704e", null ]
+    [ "OnApply", "db/d87/a15992.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "db/d87/a15992.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "db/d87/a15992.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "db/d87/a15992.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

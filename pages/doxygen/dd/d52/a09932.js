@@ -1,11 +1,23 @@
 var a09932 =
 [
-    [ "AllMapScript", "dd/d52/a09932.html#aea5284ac6b227dd44b83dc944e220f00", null ],
-    [ "OnBeforeCreateInstanceScript", "dd/d52/a09932.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
-    [ "OnCreateMap", "dd/d52/a09932.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
-    [ "OnDestroyInstance", "dd/d52/a09932.html#a990130b4cd594c1cd04368aea300a49e", null ],
-    [ "OnDestroyMap", "dd/d52/a09932.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
-    [ "OnMapUpdate", "dd/d52/a09932.html#a6edbb719d998c57caba09eef7ad559e0", null ],
-    [ "OnPlayerEnterAll", "dd/d52/a09932.html#a42e4af596effb07a00b353164f32cec9", null ],
-    [ "OnPlayerLeaveAll", "dd/d52/a09932.html#adcfd501bee055317bff2a63ef28c3eab", null ]
+    [ "PointMovementGenerator", "dd/d52/a09932.html#a3f4cda22e2e09a96ace64290e2508238", null ],
+    [ "DoFinalize", "dd/d52/a09932.html#af1f16559c7683a4f6841c597d81ac310", null ],
+    [ "DoInitialize", "dd/d52/a09932.html#af9e5b0c6f330f1a8e6382556d4c719f0", null ],
+    [ "DoReset", "dd/d52/a09932.html#a6bcb5aa00fd281df102b3fb34dcbfea6", null ],
+    [ "DoUpdate", "dd/d52/a09932.html#a4d1db29c07ae319f6f76d06cc4eca525", null ],
+    [ "GetDestination", "dd/d52/a09932.html#af49ef70c422e7acbeb5cb6a55130ab61", null ],
+    [ "GetMovementGeneratorType", "dd/d52/a09932.html#a5b3f4195ffe026d6ba0b6a52631c09a5", null ],
+    [ "MovementInform", "dd/d52/a09932.html#a6bb0bf8d9225906331756383ef0bb418", null ],
+    [ "unitSpeedChanged", "dd/d52/a09932.html#a011d9401a20171e9300296ea1a7424a8", null ],
+    [ "_chargeTargetGUID", "dd/d52/a09932.html#a26496f8fcfeb2097d7c4c35bfdbdb357", null ],
+    [ "_forceDestination", "dd/d52/a09932.html#aa6a7aa15e4ea21a73bbc674da87f3f0b", null ],
+    [ "_generatePath", "dd/d52/a09932.html#a74611835dfb7cbaeaf177caec56be417", null ],
+    [ "i_orientation", "dd/d52/a09932.html#a8c63903feea52d65dd4d013133207308", null ],
+    [ "i_recalculateSpeed", "dd/d52/a09932.html#a5247656bbf2460cd4b60c207022581ec", null ],
+    [ "i_x", "dd/d52/a09932.html#aa34a4a7d3459bb21b30bf1b242dcb306", null ],
+    [ "i_y", "dd/d52/a09932.html#af728b5d511fde310fcc249ef26b59267", null ],
+    [ "i_z", "dd/d52/a09932.html#a4444b62b04d24b8b77cac0ef70bed4fc", null ],
+    [ "id", "dd/d52/a09932.html#ae5ccfacff01eae1ac14009ced2eb3fc0", null ],
+    [ "m_precomputedPath", "dd/d52/a09932.html#a97a653d40f44d778b1ad30fd0bfba753", null ],
+    [ "speed", "dd/d52/a09932.html#a802a423ddcd370a1f45813142070b5fd", null ]
 ];

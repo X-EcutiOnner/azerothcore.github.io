@@ -1,6 +1,5 @@
 var a19444 =
 [
-    [ "boss_krystallusAI", "d2/d9e/a19448.html", "d2/d9e/a19448" ],
-    [ "boss_krystallus", "da/dd0/a19444.html#a1d7453c9d67594bfdbd650fea897666a", null ],
-    [ "GetAI", "da/dd0/a19444.html#aba14bcfa00a5d997959abd94af647bf4", null ]
+    [ "boss_sjonnir_dwarfAI", "da/dd0/a19444.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
+    [ "UpdateAI", "da/dd0/a19444.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
 ];

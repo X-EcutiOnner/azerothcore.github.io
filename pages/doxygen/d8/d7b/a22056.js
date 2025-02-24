@@ -1,7 +1,8 @@
 var a22056 =
 [
-    [ "HandleScriptEffect", "d8/d7b/a22056.html#ad20cf97a7dd442d5670a22095b487a01", null ],
-    [ "PrepareSpellScript", "d8/d7b/a22056.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
-    [ "Register", "d8/d7b/a22056.html#a996ea344ea2a3312cb8886565b80972d", null ],
-    [ "Validate", "d8/d7b/a22056.html#a29bf5a9615e02281f426bf521a045567", null ]
+    [ "npc_adventurous_dwarfAI", "dc/d59/a22060.html", "dc/d59/a22060" ],
+    [ "npc_adventurous_dwarf", "d8/d7b/a22056.html#a15c39e217907189db9be7799e696f310", null ],
+    [ "GetAI", "d8/d7b/a22056.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
+    [ "OnGossipHello", "d8/d7b/a22056.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
+    [ "OnGossipSelect", "d8/d7b/a22056.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
 ];

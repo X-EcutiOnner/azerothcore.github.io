@@ -1,7 +1,7 @@
 var a22320 =
 [
-    [ "HandleScript", "d9/d41/a22320.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "d9/d41/a22320.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "d9/d41/a22320.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "d9/d41/a22320.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "npc_storm_cloudAI", "d9/d41/a22320.html#aa4dd9409cd74f3c2c878974715e43394", null ],
+    [ "JustRespawned", "d9/d41/a22320.html#ad0f99362f7ab506b322b6d75890881c1", null ],
+    [ "Reset", "d9/d41/a22320.html#a99654ac86502e3ac2f899082269ccb01", null ],
+    [ "SpellHit", "d9/d41/a22320.html#ac51313cec4d76216f3c716d988fc4857", null ]
 ];

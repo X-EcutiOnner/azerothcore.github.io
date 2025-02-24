@@ -1,8 +1,8 @@
 var a22728 =
 [
-    [ "Load", "d0/dbe/a22728.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "d0/dbe/a22728.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "d0/dbe/a22728.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "d0/dbe/a22728.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "d0/dbe/a22728.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "FilterTargets", "d0/dbe/a22728.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "d0/dbe/a22728.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "d0/dbe/a22728.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "d0/dbe/a22728.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "d0/dbe/a22728.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

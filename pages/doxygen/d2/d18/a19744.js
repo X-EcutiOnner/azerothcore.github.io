@@ -1,6 +1,9 @@
 var a19744 =
 [
-    [ "boss_flame_leviathanAI", "d3/dd7/a19748.html", "d3/dd7/a19748" ],
-    [ "boss_flame_leviathan", "d2/d18/a19744.html#af4fcd38fc7095701c6c31674d849aef4", null ],
-    [ "GetAI", "d2/d18/a19744.html#a3a402b002472bfe4347b512f21654c50", null ]
+    [ "npc_hodirs_furyAI", "d2/d18/a19744.html#ae08a68a79a3fef952f6dfa50b4eaabca", null ],
+    [ "MovementInform", "d2/d18/a19744.html#a37b07ddee5403ee2de8f69904412ed42", null ],
+    [ "Reset", "d2/d18/a19744.html#a389f0f17fbc7860c5531f4859be561d3", null ],
+    [ "UpdateAI", "d2/d18/a19744.html#a5417d68891ad0f93c8130c9a14d57513", null ],
+    [ "_switchTargetTimer", "d2/d18/a19744.html#a8d15c1e290438c8a4aa50887cfffccba", null ],
+    [ "_timeToHit", "d2/d18/a19744.html#a594356602bd0068fba82bea64e284837", null ]
 ];

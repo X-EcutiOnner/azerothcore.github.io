@@ -1,6 +1,11 @@
 var a19260 =
 [
-    [ "boss_eregosAI", "d6/d0c/a19264.html", "d6/d0c/a19264" ],
-    [ "boss_eregos", "d1/d73/a19260.html#a105820f29aa1391d77a56e024c4b5637", null ],
-    [ "GetAI", "d1/d73/a19260.html#aee43f0dfee70ab9618c560a27504cb02", null ]
+    [ "npc_oculus_drakegiverAI", "d6/d0c/a19264.html", "d6/d0c/a19264" ],
+    [ "npc_oculus_drakegiver", "d1/d73/a19260.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
+    [ "GetAI", "d1/d73/a19260.html#aa26a2b82c5e4076ce704d5884895d903", null ],
+    [ "OnGossipHello", "d1/d73/a19260.html#ac00d09d2d81121d562e3303704229c18", null ],
+    [ "OnGossipSelect", "d1/d73/a19260.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
+    [ "RemoveEssence", "d1/d73/a19260.html#a70513d873111c590ca4e33cb446a4438", null ],
+    [ "StoreEssence", "d1/d73/a19260.html#ac8bbe890722aa924a7f0dee161d342c4", null ],
+    [ "openedMenu", "d1/d73/a19260.html#a650d1cd18700e29328e0fc97b1709f38", null ]
 ];

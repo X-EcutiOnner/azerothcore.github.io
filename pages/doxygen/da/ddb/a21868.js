@@ -1,7 +1,6 @@
 var a21868 =
 [
-    [ "npc_tallhorn_stagAI", "da/ddb/a21868.html#a50947c450eece979193b45728e5e1f82", null ],
-    [ "Reset", "da/ddb/a21868.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
-    [ "UpdateAI", "da/ddb/a21868.html#adf60f62fa92238cb315c42e0179c3f17", null ],
-    [ "_phase", "da/ddb/a21868.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
+    [ "npc_plaguehound_trackerAI", "da/ddb/a21868.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "da/ddb/a21868.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "da/ddb/a21868.html#a67c345f49572cde76d9109a1baff6788", null ]
 ];

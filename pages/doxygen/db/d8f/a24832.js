@@ -1,9 +1,6 @@
 var a24832 =
 [
-    [ "spell_gen_select_target_count", "db/d8f/a24832.html#a65507c155a8746ff49c58c051b7868e4", null ],
-    [ "FilterTargets", "db/d8f/a24832.html#a5de89be9ce321a0f4ac49853a700b502", null ],
-    [ "PrepareSpellScript", "db/d8f/a24832.html#a42ddce15414dcdf495b572e0f75e9486", null ],
-    [ "Register", "db/d8f/a24832.html#a94f86992275123e2e3989655cf077efd", null ],
-    [ "_count", "db/d8f/a24832.html#acdf5daa848ae185b859c45a1271df68c", null ],
-    [ "_effTarget", "db/d8f/a24832.html#a9c54508790062277c8275d2466e93fb3", null ]
+    [ "CheckAreaTarget", "db/d8f/a24832.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
+    [ "PrepareAuraScript", "db/d8f/a24832.html#afbc45652033397067a439b45afd2e90e", null ],
+    [ "Register", "db/d8f/a24832.html#aa24679e1243470056f74249e1b26767d", null ]
 ];

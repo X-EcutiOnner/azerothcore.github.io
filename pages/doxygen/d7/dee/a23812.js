@@ -1,6 +1,6 @@
 var a23812 =
 [
-    [ "HandleScriptEffect", "d7/dee/a23812.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
-    [ "PrepareSpellScript", "d7/dee/a23812.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
-    [ "Register", "d7/dee/a23812.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
+    [ "npc_nether_drakeAI", "d1/d36/a23816.html", "d1/d36/a23816" ],
+    [ "npc_nether_drake", "d7/dee/a23812.html#a253ec3c91857b899ea9e2c824870b760", null ],
+    [ "GetAI", "d7/dee/a23812.html#a58d269e2c73cae07bb507162b742fe8f", null ]
 ];

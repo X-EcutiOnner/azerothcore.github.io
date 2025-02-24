@@ -1,10 +1,8 @@
 var a27304 =
 [
-    [ "guard_shattrath_aldorAI", "d6/d29/a27304.html#a88961dfe4100dfe207af693a1eed86ad", null ],
-    [ "Reset", "d6/d29/a27304.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
-    [ "UpdateAI", "d6/d29/a27304.html#ac87ee12d4487971b68c70f06f63eb410", null ],
-    [ "banishTimer", "d6/d29/a27304.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
-    [ "canTeleport", "d6/d29/a27304.html#af4d933b56431d2f2755d87fb05922458", null ],
-    [ "exileTimer", "d6/d29/a27304.html#a8d56205206f3e14184922f96873456ad", null ],
-    [ "playerGUID", "d6/d29/a27304.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
+    [ "npc_artoriusAI", "d4/d44/a27308.html", "d4/d44/a27308" ],
+    [ "npc_artorius", "d6/d29/a27304.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
+    [ "GetAI", "d6/d29/a27304.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
+    [ "OnGossipHello", "d6/d29/a27304.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
+    [ "OnGossipSelect", "d6/d29/a27304.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
 ];

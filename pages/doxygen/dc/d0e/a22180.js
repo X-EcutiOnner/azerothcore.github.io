@@ -1,6 +1,7 @@
 var a22180 =
 [
-    [ "HandleScript", "dc/d0e/a22180.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "dc/d0e/a22180.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "dc/d0e/a22180.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "npc_wg_demolisher_engineer", "dc/d0e/a22180.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "dc/d0e/a22180.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "dc/d0e/a22180.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "dc/d0e/a22180.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

@@ -1,7 +1,9 @@
 var a08336 =
 [
-    [ "ItemPosCount", "da/d1c/a08336.html#a43458da1fc31d827b6de726754f7901e", null ],
-    [ "isContainedIn", "da/d1c/a08336.html#a6977c544a2d39ca5872b75f27517974f", null ],
-    [ "count", "da/d1c/a08336.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
-    [ "pos", "da/d1c/a08336.html#ad8954f1a6323316510cfe0f332ee495f", null ]
+    [ "Reset", "da/d1c/a08336.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
+    [ "guid", "da/d1c/a08336.html#ac115013e34f67bc1444fef4fc96c843e", null ],
+    [ "pos", "da/d1c/a08336.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
+    [ "seat", "da/d1c/a08336.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
+    [ "time", "da/d1c/a08336.html#acec3991f0d19fd9f72e9837eef516057", null ],
+    [ "time2", "da/d1c/a08336.html#a426c651d2f359847b033a4d7f278a191", null ]
 ];

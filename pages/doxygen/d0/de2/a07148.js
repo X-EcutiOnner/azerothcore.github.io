@@ -1,12 +1,10 @@
 var a07148 =
 [
-    [ "CapturePointInfo", "d0/de2/a07148.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
-    [ "IsUncontrolled", "d0/de2/a07148.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
-    [ "IsUnderControl", "d0/de2/a07148.html#a3f33897525f5104e2e7733dd6247c090", null ],
-    [ "IsUnderControl", "d0/de2/a07148.html#af6b021020b120b87c300981b8bb60992", null ],
-    [ "_areaTrigger", "d0/de2/a07148.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
-    [ "_barStatus", "d0/de2/a07148.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
-    [ "_ownerTeamId", "d0/de2/a07148.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
-    [ "_playersCount", "d0/de2/a07148.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
-    [ "player", "d0/de2/a07148.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
+    [ "CreatureBottom", "d0/de2/a07148.html#aaa8fe59aa58bf02934bf87f636582637", null ],
+    [ "CreatureTop", "d0/de2/a07148.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
+    [ "GameObject", "d0/de2/a07148.html#abc26a328692fc048d9040c44f360f4c4", null ],
+    [ "nbCreatureBottom", "d0/de2/a07148.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
+    [ "nbCreatureTop", "d0/de2/a07148.html#a38ab7536e0682efd7080b823569d504b", null ],
+    [ "nbObject", "d0/de2/a07148.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
+    [ "towerEntry", "d0/de2/a07148.html#a1c0edf97a599773b688954f2e966e794", null ]
 ];

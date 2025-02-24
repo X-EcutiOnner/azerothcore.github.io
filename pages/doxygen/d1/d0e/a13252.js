@@ -1,6 +1,11 @@
 var a13252 =
 [
-    [ "npc_professor_phizzlethorpeAI", "db/d4f/a13256.html", "db/d4f/a13256" ],
-    [ "npc_professor_phizzlethorpe", "d1/d0e/a13252.html#a8d32b4a107533c81033c617b0b97027d", null ],
-    [ "GetAI", "d1/d0e/a13252.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
+    [ "npc_kalecgos_kj", "d1/d0e/a13252.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
+    [ "DoAction", "d1/d0e/a13252.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
+    [ "JustSummoned", "d1/d0e/a13252.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
+    [ "Reset", "d1/d0e/a13252.html#ab3cd4229999bddc16fe8152acb187111", null ],
+    [ "UpdateAI", "d1/d0e/a13252.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
+    [ "events", "d1/d0e/a13252.html#ab5cc58e293e20172558e15fa28670633", null ],
+    [ "instance", "d1/d0e/a13252.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
+    [ "summons", "d1/d0e/a13252.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
 ];

@@ -1,8 +1,7 @@
 var a08980 =
 [
-    [ "MostHPMissingInRange", "d9/ddb/a08980.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
-    [ "operator()", "d9/ddb/a08980.html#a420388204d8a1420552b902fbcb2bebe", null ],
-    [ "i_hp", "d9/ddb/a08980.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
-    [ "i_obj", "d9/ddb/a08980.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
-    [ "i_range", "d9/ddb/a08980.html#acef63da9004997c7f25056651284efa9", null ]
+    [ "QuestPOIPoint", "d9/ddb/a08980.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
+    [ "QuestPOIPoint", "d9/ddb/a08980.html#a2e80e5a83ab336a8b019f38297862efa", null ],
+    [ "x", "d9/ddb/a08980.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
+    [ "y", "d9/ddb/a08980.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
 ];

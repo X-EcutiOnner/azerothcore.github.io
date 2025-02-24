@@ -1,8 +1,16 @@
 var a02456 =
 [
-    [ "ePoints", "d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4d", [
-      [ "POINT_LAST_POINT", "d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
-      [ "POINT_HOME", "d5/dcb/a02456.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
-      [ "POINT_COMBAT_START", "dc/d5c/a02459.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
-    ] ]
+    [ "SummonList", "d6/de1/a06160.html", "d6/de1/a06160" ],
+    [ "EntryCheckPredicate", "dc/d55/a06164.html", "dc/d55/a06164" ],
+    [ "PlayerOrPetCheck", "d3/df8/a06168.html", "d3/df8/a06168" ],
+    [ "ScriptedAI", "d9/da5/a06172.html", "d9/da5/a06172" ],
+    [ "HealthCheckEventData", "de/d5a/a06176.html", "de/d5a/a06176" ],
+    [ "BossAI", "d1/d27/a06180.html", "d1/d27/a06180" ],
+    [ "WorldBossAI", "d9/d07/a06184.html", "d9/d07/a06184" ],
+    [ "ObjectList", "d5/dcb/a02456.html#acc68161fe019b33e9356ea1473fba71d", null ],
+    [ "GetClosestCreatureWithEntry", "d5/dcb/a02456.html#a9ffd6f6c01576a8d3369c3a4f6dbaa0b", null ],
+    [ "GetClosestGameObjectWithEntry", "d5/dcb/a02456.html#acaba34b4ac104e5289c265c1f8524b15", null ],
+    [ "GetCreatureListWithEntryInGrid", "d5/dcb/a02456.html#ab6a8246d473139627106be4651f6329d", null ],
+    [ "GetDeadCreatureListInGrid", "d5/dcb/a02456.html#a4a92c9585e18b56cdbe0d0c0976de7d1", null ],
+    [ "GetGameObjectListWithEntryInGrid", "d5/dcb/a02456.html#ae9abb80c4e811509bca88e65cf817276", null ]
 ];

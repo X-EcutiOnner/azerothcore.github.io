@@ -1,10 +1,16 @@
 var a07036 =
 [
-    [ "Battleground2ChatBuilder", "d9/d42/a07036.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1", null ],
-    [ "operator()", "d9/d42/a07036.html#a7c0ee21531ba43d9d2ab427d95da2ec5", null ],
-    [ "_arg1", "d9/d42/a07036.html#aa6959944406804f01baa18cd898bfc41", null ],
-    [ "_arg2", "d9/d42/a07036.html#aebfaeac77c40d4c7938cbdd488defc51", null ],
-    [ "_msgtype", "d9/d42/a07036.html#a770d30e207e41a8f985776787d53f2cf", null ],
-    [ "_source", "d9/d42/a07036.html#a8867dd698d0457688202e1a9378255d2", null ],
-    [ "_textId", "d9/d42/a07036.html#a632cab30adc21c22f1a8890b1627262a", null ]
+    [ "BuildAuctionInfo", "d9/d42/a07036.html#ae220020b8cbb4e751bfa5798ea95d594", null ],
+    [ "CompareAuctionEntry", "d9/d42/a07036.html#a7daa9aa634bf2b589ef1906dfc0704d0", null ],
+    [ "SetItemNames", "d9/d42/a07036.html#a7d56d87bcd100bcb470bc7710c59bf9e", null ],
+    [ "bid", "d9/d42/a07036.html#a0b2c836d635d9a170b2d70b763c4907b", null ],
+    [ "bidderGuid", "d9/d42/a07036.html#ada14d168bde5da2b39c93a240941a80a", null ],
+    [ "buyout", "d9/d42/a07036.html#a978fea69d5c823f71e681903a432ec51", null ],
+    [ "expire_time", "d9/d42/a07036.html#aa3556fd353c58fda259c7dec52bb3b90", null ],
+    [ "Id", "d9/d42/a07036.html#aa52368fdef3baed1aed4af459f764b8b", null ],
+    [ "item", "d9/d42/a07036.html#a05df9a39681c0014a1c398b9bca1cbfe", null ],
+    [ "listFaction", "d9/d42/a07036.html#a988bdc1b8ae87c3797b24534e853213f", null ],
+    [ "ownerGuid", "d9/d42/a07036.html#a75e8c535be797d015ed970d896a56c29", null ],
+    [ "ownerName", "d9/d42/a07036.html#aaca6e4de9cfbc62eb1815c2cf79be123", null ],
+    [ "startbid", "d9/d42/a07036.html#ae3459d9794539591ae3727bdd6de3e2b", null ]
 ];

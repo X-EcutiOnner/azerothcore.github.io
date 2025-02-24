@@ -1,5 +1,11 @@
 var a03380 =
 [
-    [ "spell_q12779_an_end_to_all_things", "df/d72/a12774.html", "df/d72/a12774" ],
-    [ "AddSC_the_scarlet_enclave_c3", "d0/d57/a03380.html#add963c2bc2b515348b9b7c636d176927", null ]
+    [ "StableResultCode", "d0/d57/a03380.html#abee8740a43e35bc796d1287225999514", [
+      [ "STABLE_ERR_MONEY", "d0/d57/a03380.html#abee8740a43e35bc796d1287225999514a2e1a0a641b8771fd5ac124129e76b8c2", null ],
+      [ "STABLE_ERR_STABLE", "d0/d57/a03380.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898", null ],
+      [ "STABLE_SUCCESS_STABLE", "d0/d57/a03380.html#abee8740a43e35bc796d1287225999514a87d687b90cdb7cc884567156b95da61e", null ],
+      [ "STABLE_SUCCESS_UNSTABLE", "d0/d57/a03380.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1", null ],
+      [ "STABLE_SUCCESS_BUY_SLOT", "d0/d57/a03380.html#abee8740a43e35bc796d1287225999514aaa2a19926ebaa7372be4a798c5513317", null ],
+      [ "STABLE_ERR_EXOTIC", "d0/d57/a03380.html#abee8740a43e35bc796d1287225999514ac96f0f7b1cccb7a29b30b8152c780f47", null ]
+    ] ]
 ];

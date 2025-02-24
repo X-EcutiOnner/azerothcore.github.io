@@ -1,6 +1,6 @@
 var a15792 =
 [
-    [ "boss_sartharion_shadronAI", "dc/d3d/a15796.html", "dc/d3d/a15796" ],
-    [ "boss_sartharion_shadron", "d3/d35/a15792.html#ac297719abff8c795af10973492fc6fbe", null ],
-    [ "GetAI", "d3/d35/a15792.html#a95c7184ee7589f01920adc57a7df963b", null ]
+    [ "HandleScriptEffect", "d3/d35/a15792.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d3/d35/a15792.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d3/d35/a15792.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

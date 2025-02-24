@@ -1,9 +1,10 @@
 var a21492 =
 [
-    [ "npc_captured_beryl_sorcererAI", "d9/dfd/a21492.html#a3c3f47022aee418f228803a2504470a3", null ],
-    [ "Initialize", "d9/dfd/a21492.html#a98b2ff2f0e152a41106eaace5273aa69", null ],
-    [ "MoveInLineOfSight", "d9/dfd/a21492.html#a4f7edf7bc7480bf0c9f6aec113b2e058", null ],
-    [ "Reset", "d9/dfd/a21492.html#ac96af1fd018e88950d1c58562dffdb83", null ],
-    [ "UpdateAI", "d9/dfd/a21492.html#a1bbefa59abce0c7b3d7b343ddc467c98", null ],
-    [ "_events", "d9/dfd/a21492.html#a0ba1f7ffa792c93ccd4df8ec2c80fb42", null ]
+    [ "npc_preparations_for_war_vehicle", "d9/dfd/a21492.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
+    [ "InitializeAI", "d9/dfd/a21492.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
+    [ "MovementInform", "d9/dfd/a21492.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
+    [ "UpdateAI", "d9/dfd/a21492.html#ae40a23070d96ecf122e9de5571a845ef", null ],
+    [ "pointId", "d9/dfd/a21492.html#ae75d286eb6116b41adb346861b3c1365", null ],
+    [ "searchForShipTimer", "d9/dfd/a21492.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
+    [ "transportEntry", "d9/dfd/a21492.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

@@ -1,7 +1,5 @@
 var a26832 =
 [
-    [ "HandleDummy", "d4/d38/a26832.html#a3af91500357eb127f813334bdf538dbd", null ],
-    [ "PrepareSpellScript", "d4/d38/a26832.html#ae34ff5e6027efecc34fa770690df5887", null ],
-    [ "Register", "d4/d38/a26832.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
-    [ "Validate", "d4/d38/a26832.html#a0b107442c0b76a018cc019f776c0b785", null ]
+    [ "achievement_resilient_victory", "d4/d38/a26832.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
+    [ "OnCheck", "d4/d38/a26832.html#a21445d406f67771a20608260b3f9b033", null ]
 ];

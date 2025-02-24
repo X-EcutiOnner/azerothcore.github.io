@@ -1,7 +1,8 @@
 var a25888 =
 [
-    [ "CalcPeriodic", "db/dad/a25888.html#a404e5309016cfcaa3071c0216978699e", null ],
-    [ "PrepareAuraScript", "db/dad/a25888.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
-    [ "Register", "db/dad/a25888.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
-    [ "AuraEffectHandleModes", "db/dad/a25888.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
+    [ "HandleDummy", "db/dad/a25888.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
+    [ "PrepareSpellScript", "db/dad/a25888.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
+    [ "Register", "db/dad/a25888.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
+    [ "Validate", "db/dad/a25888.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
+    [ "PolymorhForms", "db/dad/a25888.html#a1443d2532a060514e697a8d5e0c21b20", null ]
 ];

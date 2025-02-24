@@ -1,8 +1,7 @@
 var a25644 =
 [
-    [ "CheckProc", "da/db7/a25644.html#a2e83dd62bfcbe23e38b62e8299a52ee5", null ],
-    [ "HandleProc", "da/db7/a25644.html#a1d45afc30c8dd6de0a01285778117033", null ],
-    [ "PrepareAuraScript", "da/db7/a25644.html#ab468329029c4bc3c16475585b3451615", null ],
-    [ "Register", "da/db7/a25644.html#a37700b8597a3945d30700c5e8b60404a", null ],
-    [ "Validate", "da/db7/a25644.html#a30e57e0b04e16a4a232c6a18801fafa0", null ]
+    [ "HandleDummy", "da/db7/a25644.html#ad6d449ac393851166d8be653639c7d05", null ],
+    [ "PrepareSpellScript", "da/db7/a25644.html#acb0b66631c0b3df227ee371e2e4000ac", null ],
+    [ "Register", "da/db7/a25644.html#a8dcd509be4d9034e8c0262bdcb2cf189", null ],
+    [ "Validate", "da/db7/a25644.html#af8f4e6bb32120c8113ddddcda17ae51d", null ]
 ];

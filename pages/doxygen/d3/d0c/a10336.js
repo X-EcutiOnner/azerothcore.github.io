@@ -1,6 +1,10 @@
 var a10336 =
 [
-    [ "GuildUpdateInfoText", "d3/d0c/a10336.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
-    [ "Read", "d3/d0c/a10336.html#a7019344fef99c5479602d7bc1176e9ee", null ],
-    [ "InfoText", "d3/d0c/a10336.html#a786802ce427465d66a4cea1365743975", null ]
+    [ "VehicleScript", "d3/d0c/a10336.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "OnAddPassenger", "d3/d0c/a10336.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "d3/d0c/a10336.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "d3/d0c/a10336.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "d3/d0c/a10336.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "d3/d0c/a10336.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "d3/d0c/a10336.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

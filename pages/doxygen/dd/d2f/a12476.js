@@ -1,6 +1,6 @@
 var a12476 =
 [
-    [ "boss_eramas_brightblaze", "dd/d2f/a12476.html#a14d1528750036f27948f5de8a2b44bd3", null ],
-    [ "JustEngagedWith", "dd/d2f/a12476.html#ad34613d2795f7371a43891488044392a", null ],
-    [ "UpdateAI", "dd/d2f/a12476.html#ae9246f1ecacebdb977d433f23742657d", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "df/d87/a12480.html", "df/d87/a12480" ],
+    [ "instance_gnomeregan", "dd/d2f/a12476.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
+    [ "GetInstanceScript", "dd/d2f/a12476.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
 ];

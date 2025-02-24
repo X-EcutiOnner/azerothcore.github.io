@@ -1,14 +1,14 @@
 var a01856 =
 [
-    [ "npc_artorius", "de/da3/a27286.html", "de/da3/a27286" ],
-    [ "npc_artorius::npc_artoriusAI", "d6/d2d/a27290.html", "d6/d2d/a27290" ],
-    [ "npc_precious", "d1/d8c/a27294.html", "d1/d8c/a27294" ],
-    [ "npc_precious::npc_preciousAI", "da/d4f/a27298.html", "da/d4f/a27298" ],
-    [ "npc_simone", "d6/d4d/a27302.html", "d6/d4d/a27302" ],
-    [ "npc_simone::npc_simoneAI", "dc/d9c/a27306.html", "dc/d9c/a27306" ],
-    [ "npc_nelson", "da/d7f/a27310.html", "da/d7f/a27310" ],
-    [ "npc_nelson::npc_nelsonAI", "d1/d39/a27314.html", "d1/d39/a27314" ],
-    [ "npc_franklin", "da/df7/a27318.html", "da/df7/a27318" ],
-    [ "npc_franklin::npc_franklinAI", "df/d96/a27322.html", "df/d96/a27322" ],
+    [ "npc_artorius", "d6/d29/a27304.html", "d6/d29/a27304" ],
+    [ "npc_artorius::npc_artoriusAI", "d4/d44/a27308.html", "d4/d44/a27308" ],
+    [ "npc_precious", "db/d32/a27312.html", "db/d32/a27312" ],
+    [ "npc_precious::npc_preciousAI", "da/d47/a27316.html", "da/d47/a27316" ],
+    [ "npc_simone", "de/d7f/a27320.html", "de/d7f/a27320" ],
+    [ "npc_simone::npc_simoneAI", "d9/d36/a27324.html", "d9/d36/a27324" ],
+    [ "npc_nelson", "dd/d38/a27328.html", "dd/d38/a27328" ],
+    [ "npc_nelson::npc_nelsonAI", "db/d58/a27332.html", "db/d58/a27332" ],
+    [ "npc_franklin", "db/dbd/a27336.html", "db/dbd/a27336" ],
+    [ "npc_franklin::npc_franklinAI", "df/d65/a27340.html", "df/d65/a27340" ],
     [ "AddSC_npc_stave_of_ancients", "da/d66/a01856.html#a81e200e5d045a2403cd76a0559a6fd8c", null ]
 ];

@@ -1,7 +1,11 @@
 var a22820 =
 [
-    [ "CheckProc", "de/d03/a22820.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "de/d03/a22820.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "de/d03/a22820.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "de/d03/a22820.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "boss_supremus", "de/d03/a22820.html#af1f094534b0e2dec70422839a02327cd", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "de/d03/a22820.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
+    [ "FindHatefulStrikeTarget", "de/d03/a22820.html#af560466902d0d372662020e1a67b627c", null ],
+    [ "JustEngagedWith", "de/d03/a22820.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
+    [ "JustSummoned", "de/d03/a22820.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
+    [ "Reset", "de/d03/a22820.html#a0eaa29849a2571417d4826d238d72e25", null ],
+    [ "SchedulePhase", "de/d03/a22820.html#a87e3943d6c645138853aa97644f9df0e", null ],
+    [ "SummonedCreatureDespawn", "de/d03/a22820.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
 ];

@@ -1,13 +1,11 @@
 var a13408 =
 [
-    [ "npc_lord_gregor_lescovarAI", "de/d88/a13408.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
-    [ "DoGuardsDisappearAndDie", "de/d88/a13408.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
-    [ "EnterEvadeMode", "de/d88/a13408.html#a95e60614808191e4c1f909f5e38e4741", null ],
-    [ "JustEngagedWith", "de/d88/a13408.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
-    [ "Reset", "de/d88/a13408.html#a06df695e9acd96b07f4e58c9461a708c", null ],
-    [ "UpdateAI", "de/d88/a13408.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
-    [ "WaypointReached", "de/d88/a13408.html#ad91850dc72d0307e28b881717bfba6db", null ],
-    [ "MarzonGUID", "de/d88/a13408.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
-    [ "uiPhase", "de/d88/a13408.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
-    [ "uiTimer", "de/d88/a13408.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
+    [ "npc_balance_of_light_and_shadowAI", "de/d88/a13408.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
+    [ "CanBeSeen", "de/d88/a13408.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
+    [ "JustDied", "de/d88/a13408.html#ae862f8763614a98dae6b982414caf30a", null ],
+    [ "MovementInform", "de/d88/a13408.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
+    [ "SpellHit", "de/d88/a13408.html#abfddfff72b63fd05673584915d647958", null ],
+    [ "UpdateAI", "de/d88/a13408.html#a540e3c28cc36917cde0153dd372d0287", null ],
+    [ "_targetGUID", "de/d88/a13408.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
+    [ "timer", "de/d88/a13408.html#a204e0a809e9c392f20ec900e9a90a075", null ]
 ];

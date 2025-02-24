@@ -1,7 +1,6 @@
 var a21508 =
 [
-    [ "npc_mootoo_the_youngerAI", "db/d49/a21512.html", "db/d49/a21512" ],
-    [ "npc_mootoo_the_younger", "db/d1d/a21508.html#a91e10489ed6a98cfa764fd4de8448317", null ],
-    [ "GetAI", "db/d1d/a21508.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
-    [ "OnQuestAccept", "db/d1d/a21508.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
+    [ "npc_mei_francis_mountAI", "db/d49/a21512.html", "db/d49/a21512" ],
+    [ "npc_mei_francis_mount", "db/d1d/a21508.html#ab34facb1d4d9a542710340493488eaa8", null ],
+    [ "GetAI", "db/d1d/a21508.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
 ];

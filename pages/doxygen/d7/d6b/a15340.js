@@ -1,7 +1,6 @@
 var a15340 =
 [
-    [ "npc_shenthulAI", "d9/dbd/a15344.html", "d9/dbd/a15344" ],
-    [ "npc_shenthul", "d7/d6b/a15340.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "d7/d6b/a15340.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "d7/d6b/a15340.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "npc_silva_filnaveth", "d7/d6b/a15340.html#a5998381865214a7b3af7823bd2557cb0", null ],
+    [ "OnGossipHello", "d7/d6b/a15340.html#a32019c17271a3f504d86cd694262fd53", null ],
+    [ "OnGossipSelect", "d7/d6b/a15340.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
 ];

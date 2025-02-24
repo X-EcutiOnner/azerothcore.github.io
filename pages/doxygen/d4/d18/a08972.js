@@ -1,10 +1,17 @@
 var a08972 =
 [
-    [ "NearestGameObjectEntryInObjectRangeCheck", "d4/d18/a08972.html#a7d57ae865868d4848caf088c4520b2a7", null ],
-    [ "NearestGameObjectEntryInObjectRangeCheck", "d4/d18/a08972.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
-    [ "operator()", "d4/d18/a08972.html#ad0c6798e28784ed547102414f4c6a31f", null ],
-    [ "i_entry", "d4/d18/a08972.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
-    [ "i_obj", "d4/d18/a08972.html#a104b8bece6ea78ba049dc592e54311be", null ],
-    [ "i_onlySpawned", "d4/d18/a08972.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
-    [ "i_range", "d4/d18/a08972.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
+    [ "ActionMenuID", "d4/d18/a08972.html#a486f9af68a02ae52d51772a3421db377", null ],
+    [ "ActionPoiID", "d4/d18/a08972.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
+    [ "BoxBroadcastTextID", "d4/d18/a08972.html#a12882942190a9a568b9dc30214ee6a88", null ],
+    [ "BoxCoded", "d4/d18/a08972.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
+    [ "BoxMoney", "d4/d18/a08972.html#ab00c368181ccaba98e878d49de6138e2", null ],
+    [ "BoxText", "d4/d18/a08972.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
+    [ "Conditions", "d4/d18/a08972.html#aa1632404bbc869b17dab8833f660c52b", null ],
+    [ "MenuID", "d4/d18/a08972.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
+    [ "OptionBroadcastTextID", "d4/d18/a08972.html#af8af4b4c27405908482db73797cd2d49", null ],
+    [ "OptionIcon", "d4/d18/a08972.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
+    [ "OptionID", "d4/d18/a08972.html#adf2a8d247a88a062a75eb726dd43d019", null ],
+    [ "OptionNpcFlag", "d4/d18/a08972.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
+    [ "OptionText", "d4/d18/a08972.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
+    [ "OptionType", "d4/d18/a08972.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
 ];

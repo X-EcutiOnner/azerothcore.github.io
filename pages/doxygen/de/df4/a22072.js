@@ -1,12 +1,6 @@
 var a22072 =
 [
-    [ "npc_tournament_training_dummyAI", "de/df4/a22072.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
-    [ "DamageTaken", "de/df4/a22072.html#a98c18794124922e6946a82a324410837", null ],
-    [ "EnterEvadeMode", "de/df4/a22072.html#a3f31d705284b0fad2f00c9210ff06646", null ],
-    [ "MoveInLineOfSight", "de/df4/a22072.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
-    [ "Reset", "de/df4/a22072.html#a7339ffe52dc789f9480afca7141a169e", null ],
-    [ "SpellHit", "de/df4/a22072.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
-    [ "UpdateAI", "de/df4/a22072.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
-    [ "events", "de/df4/a22072.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
-    [ "isVulnerable", "de/df4/a22072.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
+    [ "npc_vics_flying_machineAI", "d0/d68/a22076.html", "d0/d68/a22076" ],
+    [ "npc_vics_flying_machine", "de/df4/a22072.html#ac0f1e83a9f53f1e38e81804f0332e3fd", null ],
+    [ "GetAI", "de/df4/a22072.html#aac2a7cabd2e87705e9a1b3bfebb89eae", null ]
 ];

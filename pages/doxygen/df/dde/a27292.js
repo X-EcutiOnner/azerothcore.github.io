@@ -1,6 +1,7 @@
 var a27292 =
 [
-    [ "guard_shattrath_scryerAI", "da/dde/a27296.html", "da/dde/a27296" ],
-    [ "guard_shattrath_scryer", "df/dde/a27292.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "df/dde/a27292.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "npc_prof_leather", "df/dde/a27292.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
+    [ "HasLeatherSpecialty", "df/dde/a27292.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
+    [ "OnGossipHello", "df/dde/a27292.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
+    [ "OnGossipSelect", "df/dde/a27292.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
 ];

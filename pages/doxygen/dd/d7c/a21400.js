@@ -1,6 +1,6 @@
 var a21400 =
 [
-    [ "npc_azure_spellbreakerAI", "d2/dbf/a21404.html", "d2/dbf/a21404" ],
-    [ "npc_azure_spellbreaker", "dd/d7c/a21400.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
-    [ "GetAI", "dd/d7c/a21400.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d2/dbf/a21404.html", "d2/dbf/a21404" ],
+    [ "npc_imprisoned_beryl_sorcerer", "dd/d7c/a21400.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
+    [ "GetAI", "dd/d7c/a21400.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
 ];

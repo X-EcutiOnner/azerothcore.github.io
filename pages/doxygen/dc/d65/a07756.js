@@ -1,7 +1,6 @@
 var a07756 =
 [
-    [ "ForcedDespawnDelayEvent", "dc/d65/a07756.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
-    [ "Execute", "dc/d65/a07756.html#a735c709b269458911bd93da1902cbe25", null ],
-    [ "m_owner", "dc/d65/a07756.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
-    [ "m_respawnTimer", "dc/d65/a07756.html#a5db78930a1fda07f2020b23158ebb93d", null ]
+    [ "value_type", "dc/d65/a07756.html#a77339e0f85d207328398ee7121f044d8", null ],
+    [ "StoreTo", "dc/d65/a07756.html#a50290d7098ae9458bfb9c347934a4a0c", null ],
+    [ "tag", "dc/d65/a07756.html#a2833cad2eab45d89d029727ce22bb808", null ]
 ];

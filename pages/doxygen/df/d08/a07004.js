@@ -1,12 +1,9 @@
 var a07004 =
 [
-    [ "Arena", "df/d08/a07004.html#a74f105bc709d4728fb07f1984abfd345", null ],
-    [ "AddPlayer", "df/d08/a07004.html#ae24fe304d35c0c09379203135e936450", null ],
-    [ "CheckWinConditions", "df/d08/a07004.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
-    [ "EndBattleground", "df/d08/a07004.html#a2be61602189b530a16a9ca954d180914", null ],
-    [ "FillInitialWorldStates", "df/d08/a07004.html#a41e53f03488058fb635e42b525db5068", null ],
-    [ "HandleKillPlayer", "df/d08/a07004.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
-    [ "RemovePlayer", "df/d08/a07004.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
-    [ "RemovePlayerAtLeave", "df/d08/a07004.html#acae21233e11b21b612e5c051bfa7720e", null ],
-    [ "UpdateArenaWorldState", "df/d08/a07004.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
+    [ "SmartWaypointMgr", "df/d08/a07004.html#ad9168edcc4fd16260178d4a9277f71ba", null ],
+    [ "~SmartWaypointMgr", "df/d08/a07004.html#a300be22ad39e320833297c3f05cdcecc", null ],
+    [ "GetPath", "df/d08/a07004.html#ac3ea00baf665a3a201c911c875600010", null ],
+    [ "instance", "df/d08/a07004.html#a7ae477d4d210d938e167453d9085e520", null ],
+    [ "LoadFromDB", "df/d08/a07004.html#a9b5cdb29d31e7de0a407f600aef482af", null ],
+    [ "waypoint_map", "df/d08/a07004.html#a6acec90c526e47c3b16d1ba556f79c35", null ]
 ];

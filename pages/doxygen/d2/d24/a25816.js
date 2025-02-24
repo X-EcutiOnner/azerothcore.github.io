@@ -1,6 +1,7 @@
 var a25816 =
 [
-    [ "PrepareSpellScript", "d2/d24/a25816.html#a738e105a48f6c603f3d9a690f44b8745", null ],
-    [ "Register", "d2/d24/a25816.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
-    [ "SetDest", "d2/d24/a25816.html#a59641895cead08de4a4503262505ee73", null ]
+    [ "CalcPeriodic", "d2/d24/a25816.html#a404e5309016cfcaa3071c0216978699e", null ],
+    [ "PrepareAuraScript", "d2/d24/a25816.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
+    [ "Register", "d2/d24/a25816.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
+    [ "AuraEffectHandleModes", "d2/d24/a25816.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
 ];

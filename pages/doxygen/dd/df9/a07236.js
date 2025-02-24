@@ -1,10 +1,10 @@
 var a07236 =
 [
-    [ "ChannelRights", "dd/df9/a07236.html#a7fbfd84470bf1b4bf564eec0315f6c8d", null ],
-    [ "ChannelRights", "dd/df9/a07236.html#ac689ce079b171bbbdbc062ad7521f21c", null ],
-    [ "flags", "dd/df9/a07236.html#ad7fdc943a5a97c3c812108243192f6ae", null ],
-    [ "joinMessage", "dd/df9/a07236.html#af8797ef8c642f3a954b1581fb54ed545", null ],
-    [ "moderators", "dd/df9/a07236.html#ac80f92b9e633bf309970179b32e29cee", null ],
-    [ "speakDelay", "dd/df9/a07236.html#a9883582d36b8cc67ab5d649670441000", null ],
-    [ "speakMessage", "dd/df9/a07236.html#a4b7dc06e8839da5a6d50b5d4dae76c1b", null ]
+    [ "BattlegroundChatBuilder", "dd/df9/a07236.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
+    [ "do_helper", "dd/df9/a07236.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
+    [ "operator()", "dd/df9/a07236.html#ab84296c320b09a387de6e6e6a2326b83", null ],
+    [ "_args", "dd/df9/a07236.html#a32a72bf1110179cc58dcf2df914c7389", null ],
+    [ "_msgtype", "dd/df9/a07236.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
+    [ "_source", "dd/df9/a07236.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
+    [ "_textId", "dd/df9/a07236.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
 ];

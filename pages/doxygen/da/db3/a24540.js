@@ -1,7 +1,7 @@
 var a24540 =
 [
-    [ "CheckCast", "da/db3/a24540.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "da/db3/a24540.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "da/db3/a24540.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "da/db3/a24540.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "AfterApply", "da/db3/a24540.html#a1849f49a9682627753b8bd39b3ff827e", null ],
+    [ "AfterRemove", "da/db3/a24540.html#a7c08bea735cd36840463aa942e7529b4", null ],
+    [ "PrepareAuraScript", "da/db3/a24540.html#ad27880f797137cae09381e860727e2f7", null ],
+    [ "Register", "da/db3/a24540.html#a6c105609c1ee61a8f845018550b2e3ba", null ]
 ];

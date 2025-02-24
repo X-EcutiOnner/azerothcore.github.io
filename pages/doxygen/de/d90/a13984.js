@@ -1,6 +1,6 @@
 var a13984 =
 [
-    [ "npc_brewfest_keg_reciver", "de/d90/a13984.html#af12e7608f3f715650e6c265ac18920e4", null ],
-    [ "MoveInLineOfSight", "de/d90/a13984.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
-    [ "sGossipSelect", "de/d90/a13984.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
+    [ "boss_wushoolayAI", "db/d48/a13988.html", "db/d48/a13988" ],
+    [ "boss_wushoolay", "de/d90/a13984.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
+    [ "GetAI", "de/d90/a13984.html#a70b476358956fd05d6effb75517e2b3d", null ]
 ];

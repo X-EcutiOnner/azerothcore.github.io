@@ -1,6 +1,7 @@
 var a21464 =
 [
-    [ "npc_nerubar_victimAI", "db/d00/a21468.html", "db/d00/a21468" ],
-    [ "npc_nerubar_victim", "dc/da0/a21464.html#a4fe80597d3e56776f0f04965fc706097", null ],
-    [ "GetAI", "dc/da0/a21464.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
+    [ "npc_thassarianAI", "dc/da0/a21464.html#a92e873dc3aa97f81919225ce75a5f894", null ],
+    [ "Reset", "dc/da0/a21464.html#a8611ef17700c739dbd5e7a70660f1379", null ],
+    [ "UpdateAI", "dc/da0/a21464.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
+    [ "_events", "dc/da0/a21464.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
 ];

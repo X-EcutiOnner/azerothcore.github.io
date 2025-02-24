@@ -1,6 +1,9 @@
 var a20316 =
 [
-    [ "npc_ulduar_aerial_command_unitAI", "d8/d0d/a20320.html", "d8/d0d/a20320" ],
-    [ "npc_ulduar_aerial_command_unit", "d7/de2/a20316.html#ac0c1ecef78b92dd4ae072f6eeca9f733", null ],
-    [ "GetAI", "d7/de2/a20316.html#a406e828a902d75bb1946fd8f5090044f", null ]
+    [ "HandleEffectPeriodic", "d7/de2/a20316.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "Load", "d7/de2/a20316.html#a60deabce505dd3993dca0e71402dc190", null ],
+    [ "PrepareAuraScript", "d7/de2/a20316.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "d7/de2/a20316.html#a524c071390365b7dab59bc7a79b50f15", null ],
+    [ "_lastMSTime", "d7/de2/a20316.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
+    [ "_lastOrientation", "d7/de2/a20316.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
 ];

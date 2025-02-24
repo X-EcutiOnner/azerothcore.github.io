@@ -1,10 +1,7 @@
 var a13324 =
 [
-    [ "npc_sentinel_leader", "d3/d06/a13324.html#a583c43b047dd5c172938d60ef647ecd5", null ],
-    [ "JustEngagedWith", "d3/d06/a13324.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
-    [ "MovementInform", "d3/d06/a13324.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
-    [ "Reset", "d3/d06/a13324.html#ad638ba6ce33753af6a0165c053a90d78", null ],
-    [ "UpdateAI", "d3/d06/a13324.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
-    [ "_events", "d3/d06/a13324.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
-    [ "_helpCalled", "d3/d06/a13324.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
+    [ "PeriodicTick", "d3/d06/a13324.html#acca46d585d06d461f735cddb6075b3b1", null ],
+    [ "PrepareAuraScript", "d3/d06/a13324.html#abd7382ab22efd3d82c4f00745255d024", null ],
+    [ "Register", "d3/d06/a13324.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
+    [ "Validate", "d3/d06/a13324.html#acb31ba162452a30ff0c208829560f9fd", null ]
 ];

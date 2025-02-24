@@ -1,7 +1,7 @@
 var a09140 =
 [
-    [ "RaidCheck", "dc/dee/a09140.html#ad8c3717b9a645c7806c8c027a8d90ef5", null ],
-    [ "operator()", "dc/dee/a09140.html#a0c076b737e8e1eacb9aab0981ff66f51", null ],
-    [ "_compare", "dc/dee/a09140.html#a5fffdd5901fb03c5e9a9adfb58e3d759", null ],
-    [ "_equals", "dc/dee/a09140.html#a7d253c94403bd50012722a9a9b113c3a", null ]
+    [ "CreatureRelocationNotifier", "dc/dee/a09140.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
+    [ "Visit", "dc/dee/a09140.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
+    [ "Visit", "dc/dee/a09140.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
+    [ "i_creature", "dc/dee/a09140.html#a3116f6245816ba8fb9edb5995faa9927", null ]
 ];

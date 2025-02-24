@@ -1,6 +1,6 @@
 var a15784 =
 [
-    [ "boss_sartharion_tenebronAI", "df/df7/a15788.html", "df/df7/a15788" ],
-    [ "boss_sartharion_tenebron", "d6/d25/a15784.html#ada445771d2d3d01fb586f15d62e21755", null ],
-    [ "GetAI", "d6/d25/a15784.html#a2eb4555506167a4aee7b844e305d7107", null ]
+    [ "instance_azjol_nerub_InstanceScript", "df/df7/a15788.html", "df/df7/a15788" ],
+    [ "instance_azjol_nerub", "d6/d25/a15784.html#a61476a0d15136d2bdb3a65eca72963da", null ],
+    [ "GetInstanceScript", "d6/d25/a15784.html#a8bb8477669c6369afe508a400bd4d489", null ]
 ];

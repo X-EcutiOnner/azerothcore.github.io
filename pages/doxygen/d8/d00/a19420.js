@@ -1,6 +1,6 @@
 var a19420 =
 [
-    [ "npc_molten_golemAI", "d2/dc7/a19424.html", "d2/dc7/a19424" ],
-    [ "npc_molten_golem", "d8/d00/a19420.html#a63e16216a59b50524632b49599bd3bd1", null ],
-    [ "GetAI", "d8/d00/a19420.html#a22a723039267cb0901b78c6064a88d0c", null ]
+    [ "CalculateDamage", "d8/d00/a19420.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "d8/d00/a19420.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "d8/d00/a19420.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

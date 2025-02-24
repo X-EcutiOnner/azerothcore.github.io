@@ -1,7 +1,10 @@
 var a23372 =
 [
-    [ "HandleScript", "d3/de9/a23372.html#a8933535f9507b90b54032c17985cc3c6", null ],
-    [ "PrepareSpellScript", "d3/de9/a23372.html#acadb563eaeffac47b3f883f9d8c37994", null ],
-    [ "Register", "d3/de9/a23372.html#a797ae84dcb0fc13b0799934bde71809c", null ],
-    [ "Validate", "d3/de9/a23372.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
+    [ "boss_kelidan_the_breaker", "d3/de9/a23372.html#a6774e4a0315b30266f6c55da608cd193", null ],
+    [ "ApplyImmunities", "d3/de9/a23372.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
+    [ "DoAction", "d3/de9/a23372.html#a3fa0117ce1079f651025116684f5e2f4", null ],
+    [ "JustDied", "d3/de9/a23372.html#a4d3f0171b7889a96f19999b28e549866", null ],
+    [ "JustEngagedWith", "d3/de9/a23372.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
+    [ "KilledUnit", "d3/de9/a23372.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
+    [ "Reset", "d3/de9/a23372.html#a46c592f6c46ea568ad368702e1640e06", null ]
 ];

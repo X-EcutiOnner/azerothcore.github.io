@@ -1,6 +1,7 @@
 var a10428 =
 [
-    [ "GuildBankTextQuery", "d6/d04/a10428.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
-    [ "Read", "d6/d04/a10428.html#af20bd5c8e58b891028613625fb14807d", null ],
-    [ "Tab", "d6/d04/a10428.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
+    [ "LogoutResponse", "d6/d04/a10428.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
+    [ "Write", "d6/d04/a10428.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
+    [ "Instant", "d6/d04/a10428.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
+    [ "LogoutResult", "d6/d04/a10428.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
 ];

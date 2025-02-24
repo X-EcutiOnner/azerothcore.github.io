@@ -1,6 +1,6 @@
 var a01838 =
 [
-    [ "NPCStaveQuestAI", "d7/dc8/a27326.html", "d7/dc8/a27326" ],
+    [ "NPCStaveQuestAI", "d6/d21/a27344.html", "d6/d21/a27344" ],
     [ "Common", "db/d09/a01838.html#a2898ea5b5bdc6f6ebd68c36327a6cecd", [
       [ "GOSSIP_EVENT_START_OPTION_ID", "db/d09/a01838.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf2a660132a0a17288b1831007b938936", null ],
       [ "EVENT_ENCOUNTER_START", "db/d09/a01838.html#a2898ea5b5bdc6f6ebd68c36327a6cecda0f5bec07177a7a6bdbdf76abcbadf05a", null ],

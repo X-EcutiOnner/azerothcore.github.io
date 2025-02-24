@@ -1,7 +1,6 @@
 var a11252 =
 [
-    [ "achievement_commandscript", "d1/dff/a11252.html#ac1c40d7b3b628cc206c44eae18592292", null ],
-    [ "GetCommands", "d1/dff/a11252.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
-    [ "HandleAchievementAddCommand", "d1/dff/a11252.html#ac4f6addfb0c52d584bf8081436aa3d7a", null ],
-    [ "HandleAchievementCheckAllCommand", "d1/dff/a11252.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
+    [ "EffectUpdatePeriodicHandler", "d1/dff/a11252.html#a6b18a259aa84c847bcc064c5243eb590", null ],
+    [ "Call", "d1/dff/a11252.html#a38802863e7859453cbbe58ad91018c67", null ],
+    [ "pEffectHandlerScript", "d1/dff/a11252.html#a0e51245e089fcd9532d5789056ab944c", null ]
 ];

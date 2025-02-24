@@ -1,9 +1,10 @@
 var a08044 =
 [
-    [ "artKits", "df/d6a/a08044.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
-    [ "entry", "df/d6a/a08044.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
-    [ "faction", "df/d6a/a08044.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
-    [ "flags", "df/d6a/a08044.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
-    [ "maxgold", "df/d6a/a08044.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
-    [ "mingold", "df/d6a/a08044.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
+    [ "FormationMgr", "df/d6a/a08044.html#ade1aa22473c112aed65d537929b07908", null ],
+    [ "~FormationMgr", "df/d6a/a08044.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0", null ],
+    [ "AddCreatureToGroup", "df/d6a/a08044.html#aef758bdbc8f93c8981aedd51d7e10a07", null ],
+    [ "instance", "df/d6a/a08044.html#a871fec234a94e4adae07315a008acec3", null ],
+    [ "LoadCreatureFormations", "df/d6a/a08044.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
+    [ "RemoveCreatureFromGroup", "df/d6a/a08044.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
+    [ "CreatureGroupMap", "df/d6a/a08044.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ]
 ];

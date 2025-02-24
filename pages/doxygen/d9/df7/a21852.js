@@ -1,8 +1,12 @@
 var a21852 =
 [
-    [ "npc_ravenous_worgAI", "d9/df7/a21852.html#a5404516869e171c84b774f2a7b8be15d", null ],
-    [ "AttackStart", "d9/df7/a21852.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
-    [ "UpdateAI", "d9/df7/a21852.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
-    [ "_attack", "d9/df7/a21852.html#a3df5c98821ba33a40e25e7b050858b96", null ],
-    [ "_pacified", "d9/df7/a21852.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
+    [ "npc_your_inner_turmoilAI", "d9/df7/a21852.html#a95e8039b174f6db267197e04b6bd2dd2", null ],
+    [ "DamageTaken", "d9/df7/a21852.html#a0e14a306db46e817e6d8f7a358519f83", null ],
+    [ "JustDied", "d9/df7/a21852.html#a142359bf1661542d044a7d27b764832b", null ],
+    [ "Reset", "d9/df7/a21852.html#a4e17e9642ec11712652f41495974b716", null ],
+    [ "setphase", "d9/df7/a21852.html#a17c00619bcf5818e49f67d4d8b8b35b0", null ],
+    [ "UpdateAI", "d9/df7/a21852.html#a2a4b20fccb4b5ef0f590f0a7ee92e4d2", null ],
+    [ "health50", "d9/df7/a21852.html#af5a9e355c2a5a927d38ea22fe96d89f0", null ],
+    [ "phase", "d9/df7/a21852.html#a60212e1504bcb6f7db05ba5ed09df71f", null ],
+    [ "timer", "d9/df7/a21852.html#af2c272de51aa15a41af9837f99256a62", null ]
 ];

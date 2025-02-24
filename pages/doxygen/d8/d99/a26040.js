@@ -1,8 +1,7 @@
 var a26040 =
 [
-    [ "Load", "d8/d99/a26040.html#a7662d85a5469c20edf6d2eefca820db3", null ],
-    [ "PrepareAuraScript", "d8/d99/a26040.html#a252bd975a7639eab4e151249db974b7c", null ],
-    [ "Register", "d8/d99/a26040.html#a51723a22f1062f44e8eb6848e1398595", null ],
-    [ "Split", "d8/d99/a26040.html#a08e982eae6030fdc679663bfd38bca47", null ],
-    [ "remainingAmount", "d8/d99/a26040.html#afaab88988769ddc720deb44f06de3d7d", null ]
+    [ "HandleScriptEffect", "d8/d99/a26040.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
+    [ "Load", "d8/d99/a26040.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
+    [ "PrepareSpellScript", "d8/d99/a26040.html#ade09cd376d00df8b5e709026e353f409", null ],
+    [ "Register", "d8/d99/a26040.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
 ];

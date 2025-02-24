@@ -1,14 +1,14 @@
 var a12756 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d6/df4/a12756.html#af68c553db0889c22b7b4b76c868d38e7", null ],
-    [ "DoAction", "d6/df4/a12756.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
-    [ "EnterEvadeMode", "d6/df4/a12756.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
-    [ "JustDied", "d6/df4/a12756.html#a7ecf7396ebcb6f541586435996094f56", null ],
-    [ "JustEngagedWith", "d6/df4/a12756.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
-    [ "MovementInform", "d6/df4/a12756.html#a16379320eebb8223a79cf3927bdc507e", null ],
-    [ "UpdateAI", "d6/df4/a12756.html#a7eedcb1416d05b95f6110751119aea02", null ],
-    [ "events", "d6/df4/a12756.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
-    [ "events2", "d6/df4/a12756.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
-    [ "instance", "d6/df4/a12756.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
-    [ "TransformsCount", "d6/df4/a12756.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
+    [ "boss_selin_fireheart", "d6/df4/a12756.html#ae3270a227550391fd752d3f241e5ea46", null ],
+    [ "CanAIAttack", "d6/df4/a12756.html#a36f409a006a09812452052d554d5e810", null ],
+    [ "JustDied", "d6/df4/a12756.html#a1330c499c04aee849bcbb3ebfe30eb1e", null ],
+    [ "JustEngagedWith", "d6/df4/a12756.html#ad414ec34127bffbae1b6b5f9a794f28c", null ],
+    [ "KilledUnit", "d6/df4/a12756.html#a0fc74ba75a482a67d19f4323df1f5e6c", null ],
+    [ "MovementInform", "d6/df4/a12756.html#a8072412acc5f52fdeea3b4f740021a91", null ],
+    [ "OnPowerUpdate", "d6/df4/a12756.html#a71677fbd88ab14b6fb40e3bc9897c982", null ],
+    [ "Reset", "d6/df4/a12756.html#a6d6cab76647794f971c9a6837d8fbf8c", null ],
+    [ "SelectNearestCrystal", "d6/df4/a12756.html#afe01bdf64e5f84c7aa5ee0f164ac29c0", null ],
+    [ "SpawnCrystals", "d6/df4/a12756.html#a5c874662b9bf518782b2dc824f1eb03d", null ],
+    [ "SummonedCreatureDies", "d6/df4/a12756.html#a396341d39bead723a7c6f716c08aa447", null ]
 ];

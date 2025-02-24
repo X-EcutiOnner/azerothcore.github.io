@@ -1,7 +1,7 @@
 var a09008 =
 [
-    [ "AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck", "dd/d73/a09008.html#a038f512c564e4ae18571ac1836897edb", null ],
-    [ "operator()", "dd/d73/a09008.html#a3bc09bf6fc4481c67190f57dc4198f6e", null ],
-    [ "i_funit", "dd/d73/a09008.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6", null ],
-    [ "i_range", "dd/d73/a09008.html#a953943e53e25b6887bfab8cc1c19620a", null ]
+    [ "GetAntiDosPolicyForOpcode", "dd/d73/a09008.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
+    [ "instance", "dd/d73/a09008.html#a859596f153aa470fa503f67092e26160", null ],
+    [ "LoadAntiDosOpcodePolicies", "dd/d73/a09008.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
+    [ "_antiDosOpcodePolicies", "dd/d73/a09008.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
 ];

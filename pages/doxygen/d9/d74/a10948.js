@@ -1,6 +1,7 @@
 var a10948 =
 [
-    [ "CastHandler", "d9/d74/a10948.html#aad22cf4791a20b9cb6704712ec3d9339", null ],
-    [ "Call", "d9/d74/a10948.html#afdbd455bd010bd93e84c334fe3987bf1", null ],
-    [ "pCastHandlerScript", "d9/d74/a10948.html#a091c494c18bc81968a386bc5f2565905", null ]
+    [ "Player", "d9/d74/a10948.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d9/d74/a10948.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "FactionChange", "d9/d74/a10948.html#adff657ead29df26ead5e20a8ecf44e87", null ],
+    [ "Race", "d9/d74/a10948.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
 ];

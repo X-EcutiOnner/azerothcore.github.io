@@ -1,7 +1,8 @@
 var a11968 =
 [
-    [ "HandleDummy", "d2/d1c/a11968.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
-    [ "PrepareSpellScript", "d2/d1c/a11968.html#ad07165f81a7f407c716f90691ecb9817", null ],
-    [ "Register", "d2/d1c/a11968.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
-    [ "Validate", "d2/d1c/a11968.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
+    [ "boss_highlordomokkAI", "d2/d1c/a11968.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
+    [ "JustDied", "d2/d1c/a11968.html#ac7e125b4350880d3d195b915c8be9de0", null ],
+    [ "JustEngagedWith", "d2/d1c/a11968.html#a072dc582f931deb7d1e0db9ad535f146", null ],
+    [ "Reset", "d2/d1c/a11968.html#a627390013798de7a53a95817624417e3", null ],
+    [ "UpdateAI", "d2/d1c/a11968.html#a38e6008d616131d2876ae5a085a083ff", null ]
 ];

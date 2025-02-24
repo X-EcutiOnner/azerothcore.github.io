@@ -1,11 +1,9 @@
 var a08480 =
 [
-    [ "SpellPeriodicAuraLogInfo", "db/de7/a08480.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
-    [ "absorb", "db/de7/a08480.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
-    [ "auraEff", "db/de7/a08480.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
-    [ "critical", "db/de7/a08480.html#a51041b901727b4f595d2a886520626ff", null ],
-    [ "damage", "db/de7/a08480.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
-    [ "multiplier", "db/de7/a08480.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
-    [ "overDamage", "db/de7/a08480.html#a51904be3790c99bded697b2cf7c8db23", null ],
-    [ "resist", "db/de7/a08480.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
+    [ "ActionButton", "db/de7/a08480.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
+    [ "GetAction", "db/de7/a08480.html#a7c10f6089fab30179cfe8175b740477a", null ],
+    [ "GetType", "db/de7/a08480.html#abe5bc143770d411cff0d8c8c425b1253", null ],
+    [ "SetActionAndType", "db/de7/a08480.html#a29d804ed78d79f64e868e9741b37d7be", null ],
+    [ "packedData", "db/de7/a08480.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
+    [ "uState", "db/de7/a08480.html#a6384e73650da93c96d3b4cc42b151b63", null ]
 ];

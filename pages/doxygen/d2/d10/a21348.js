@@ -1,6 +1,10 @@
 var a21348 =
 [
-    [ "npc_vh_teleportation_portalAI", "dd/d12/a21352.html", "dd/d12/a21352" ],
-    [ "npc_vh_teleportation_portal", "d2/d10/a21348.html#a9a554058f594f992a17dbb3887117a6f", null ],
-    [ "GetAI", "d2/d10/a21348.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
+    [ "npc_sinkhole_kill_creditAI", "d2/d10/a21348.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
+    [ "Reset", "d2/d10/a21348.html#a677990d64d2963ff995d9d8522c5aa81", null ],
+    [ "SpellHit", "d2/d10/a21348.html#a95eaf518fb18b67820d6195cd525b017", null ],
+    [ "UpdateAI", "d2/d10/a21348.html#a75611004a543bece9d3f51914547f2fe", null ],
+    [ "casterGuid", "d2/d10/a21348.html#a147921788b07f5e776e03aaf15049cf0", null ],
+    [ "phase", "d2/d10/a21348.html#aa45455a8d540d6f942c948cf56d11f05", null ],
+    [ "phaseTimer", "d2/d10/a21348.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
 ];

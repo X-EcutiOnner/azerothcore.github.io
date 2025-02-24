@@ -1,6 +1,7 @@
 var a23580 =
 [
-    [ "HandleEffect", "d3/d04/a23580.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
-    [ "PrepareSpellScript", "d3/d04/a23580.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
-    [ "Register", "d3/d04/a23580.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
+    [ "AfterApply", "d3/d04/a23580.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "d3/d04/a23580.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "d3/d04/a23580.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "d3/d04/a23580.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

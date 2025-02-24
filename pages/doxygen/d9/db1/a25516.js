@@ -1,6 +1,8 @@
 var a25516 =
 [
-    [ "PrepareSpellScript", "d9/db1/a25516.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
-    [ "Register", "d9/db1/a25516.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
-    [ "SelectTarget", "d9/db1/a25516.html#a3153b6c6814922cd7220e19b06f2a602", null ]
+    [ "HandleProc", "d9/db1/a25516.html#ad92c7804b26bd29d135e55c8adad9093", null ],
+    [ "OnRemove", "d9/db1/a25516.html#afa8e065ed835243f3ebb95c10792adf8", null ],
+    [ "PrepareAuraScript", "d9/db1/a25516.html#a5e986f77b23fd0402089ea36f0360c79", null ],
+    [ "Register", "d9/db1/a25516.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
+    [ "Validate", "d9/db1/a25516.html#a51f81afec6ff0918530208d9de9dae24", null ]
 ];

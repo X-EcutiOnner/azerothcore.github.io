@@ -1,7 +1,13 @@
 var a22832 =
 [
-    [ "SuckBackEvent", "db/db1/a22832.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "db/db1/a22832.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "db/db1/a22832.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "db/db1/a22832.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "boss_teron_gorefiend", "db/db1/a22832.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
+    [ "JustDied", "db/db1/a22832.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
+    [ "JustEngagedWith", "db/db1/a22832.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
+    [ "JustSummoned", "db/db1/a22832.html#a71db567c5be7396add349e2f1b455a50", null ],
+    [ "KilledUnit", "db/db1/a22832.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
+    [ "Reset", "db/db1/a22832.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
+    [ "SetData", "db/db1/a22832.html#a139c351471a3f19c7e59cf8e40913820", null ],
+    [ "UpdateAI", "db/db1/a22832.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
+    [ "_intro", "db/db1/a22832.html#a99c62157084373e8eddd4497360cc047", null ],
+    [ "_recentlySpoken", "db/db1/a22832.html#adef80b4509a6a72e7021fd3cc11de697", null ]
 ];

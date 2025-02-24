@@ -1,10 +1,8 @@
 var a28272 =
 [
-    [ "ID", "d5/d6f/a28272.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "d5/d6f/a28272.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "d5/d6f/a28272.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "d5/d6f/a28272.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "d5/d6f/a28272.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "d5/d6f/a28272.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "d5/d6f/a28272.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "MapDifficulty", "d5/d6f/a28272.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
+    [ "MapDifficulty", "d5/d6f/a28272.html#a227aec55b5b774076882ea34f70d5d88", null ],
+    [ "hasErrorMessage", "d5/d6f/a28272.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
+    [ "maxPlayers", "d5/d6f/a28272.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
+    [ "resetTime", "d5/d6f/a28272.html#a7190131620b9eee0897ac7b4dd62949e", null ]
 ];

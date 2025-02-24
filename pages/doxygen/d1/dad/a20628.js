@@ -1,6 +1,5 @@
 var a20628 =
 [
-    [ "npc_xt002_boombotAI", "d2/dad/a20632.html", "d2/dad/a20632" ],
-    [ "npc_xt002_boombot", "d1/dad/a20628.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
-    [ "GetAI", "d1/dad/a20628.html#a27237e7a60042ed7163b19d80537c1b3", null ]
+    [ "achievement_xt002_nerf_gravity_bombs", "d1/dad/a20628.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
+    [ "OnCheck", "d1/dad/a20628.html#a03f61470694399ab32aea354cd697771", null ]
 ];

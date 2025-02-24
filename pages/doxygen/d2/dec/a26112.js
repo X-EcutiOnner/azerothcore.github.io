@@ -1,7 +1,6 @@
 var a26112 =
 [
-    [ "HandleScriptEffect", "d2/dec/a26112.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
-    [ "Load", "d2/dec/a26112.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
-    [ "PrepareSpellScript", "d2/dec/a26112.html#ade09cd376d00df8b5e709026e353f409", null ],
-    [ "Register", "d2/dec/a26112.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
+    [ "HandleDummyEffect", "d2/dec/a26112.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "d2/dec/a26112.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "d2/dec/a26112.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

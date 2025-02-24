@@ -1,5 +1,6 @@
 var a11824 =
 [
-    [ "at_dragonspire_hall", "de/dd5/a11824.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
-    [ "OnTrigger", "de/dd5/a11824.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
+    [ "boss_draganthaurissanAI", "df/dd5/a11828.html", "df/dd5/a11828" ],
+    [ "boss_emperor_dagran_thaurissan", "de/dd5/a11824.html#a8332d74b5aa1528d5687084932419ad1", null ],
+    [ "GetAI", "de/dd5/a11824.html#aca2c4ca4e32ce75d95b42ddd88c4dc99", null ]
 ];

@@ -1,10 +1,9 @@
 var a20776 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "d8/df3/a20776.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
-    [ "DamageTaken", "d8/df3/a20776.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
-    [ "Reset", "d8/df3/a20776.html#a763f772414f00c0f83402e1a635b6bd0", null ],
-    [ "SpellHit", "d8/df3/a20776.html#a60721961f2eb5e91c15890252166b872", null ],
-    [ "UpdateAI", "d8/df3/a20776.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
-    [ "_spellTimer", "d8/df3/a20776.html#a4ed360380707195e10753436020b67eb", null ],
-    [ "_visualTimer", "d8/df3/a20776.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
+    [ "HandleOnEffectApply", "d8/df3/a20776.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
+    [ "OnPeriodic", "d8/df3/a20776.html#a49ad44eba19416743bd26252d1b40d71", null ],
+    [ "PrepareAuraScript", "d8/df3/a20776.html#ae0c475babb67cebb245d6d85b50cd694", null ],
+    [ "Register", "d8/df3/a20776.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
+    [ "Validate", "d8/df3/a20776.html#ab383a0a207aa78b7efcd400765ad0838", null ],
+    [ "_targetGUID", "d8/df3/a20776.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
 ];

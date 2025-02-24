@@ -1,11 +1,7 @@
 var a26688 =
 [
-    [ "CalcPeriodic", "db/dc5/a26688.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
-    [ "CalculateAPAmount", "db/dc5/a26688.html#a72bd308dbeaa7eca5685f3e5055d7fad", null ],
-    [ "CalculateResistanceAmount", "db/dc5/a26688.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
-    [ "CalculateSPAmount", "db/dc5/a26688.html#a114c868f0dc31f3370588b1bd1f18894", null ],
-    [ "CalculateStatAmount", "db/dc5/a26688.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
-    [ "HandlePeriodic", "db/dc5/a26688.html#af5076795e8bf6abd45590a060f9e5b52", null ],
-    [ "PrepareAuraScript", "db/dc5/a26688.html#aa512873852c0eea9947472fcb60fbfc2", null ],
-    [ "Register", "db/dc5/a26688.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
+    [ "HandleRemove", "db/dc5/a26688.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
+    [ "PrepareAuraScript", "db/dc5/a26688.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
+    [ "Register", "db/dc5/a26688.html#a338ee9c0eddd309ce2a791160059bad6", null ],
+    [ "Validate", "db/dc5/a26688.html#ae8272b65a070fc959af003f701567c3c", null ]
 ];

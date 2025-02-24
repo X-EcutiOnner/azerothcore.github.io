@@ -1,5 +1,6 @@
 var a26248 =
 [
-    [ "PrepareSpellScript", "df/d2b/a26248.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
-    [ "Register", "df/d2b/a26248.html#a721430db1738b255f114483bdddef5e2", null ]
+    [ "HandleDummy", "df/d2b/a26248.html#aee5967205738ebaef70e1105e8d91b2c", null ],
+    [ "PrepareSpellScript", "df/d2b/a26248.html#a1ef5914adfd2c951a68f50658852e095", null ],
+    [ "Register", "df/d2b/a26248.html#af42b6d5a5fbb5eb84773818594813afc", null ]
 ];

@@ -1,6 +1,10 @@
 var a12200 =
 [
-    [ "boss_mr_smiteAI", "d6/d10/a12204.html", "d6/d10/a12204" ],
-    [ "boss_mr_smite", "d1/d89/a12200.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "d1/d89/a12200.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "npc_corrupted_totem", "d1/d89/a12200.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "d1/d89/a12200.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "d1/d89/a12200.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "d1/d89/a12200.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "d1/d89/a12200.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "d1/d89/a12200.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "d1/d89/a12200.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

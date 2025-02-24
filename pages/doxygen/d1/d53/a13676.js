@@ -1,6 +1,10 @@
 var a13676 =
 [
-    [ "npc_janalai_eggAI", "db/d20/a13680.html", "db/d20/a13680" ],
-    [ "npc_janalai_egg", "d1/d53/a13676.html#a3dc748dbefbbac4230603798f113697a", null ],
-    [ "GetAI", "d1/d53/a13676.html#a2ba1dd9e288342944a34b96604c6bb1e", null ]
+    [ "boss_alyson_antille", "d1/d53/a13676.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
+    [ "GetNearbyFriendlies", "d1/d53/a13676.html#ab99596d5c2eafac8c678378d509bf585", null ],
+    [ "JustEngagedWith", "d1/d53/a13676.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
+    [ "RandomReverseFriendlyList", "d1/d53/a13676.html#afef27de229ba2c3b8beb30809a313237", null ],
+    [ "Reset", "d1/d53/a13676.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
+    [ "UpdateAI", "d1/d53/a13676.html#a15157be42d166a239ab658fc04292e44", null ],
+    [ "_friendlyList", "d1/d53/a13676.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
 ];

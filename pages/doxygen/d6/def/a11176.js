@@ -1,12 +1,24 @@
 var a11176 =
 [
-    [ "Action", "d6/def/a11176.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
-    [ "Address", "d6/def/a11176.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
-    [ "CheckId", "d6/def/a11176.html#a51a0cea0381f2b64e9d240ac39591172", null ],
-    [ "Comment", "d6/def/a11176.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
-    [ "Data", "d6/def/a11176.html#a962795028d40645fe67e4290ea64b10b", null ],
-    [ "IdStr", "d6/def/a11176.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
-    [ "Length", "d6/def/a11176.html#abe0249d9550042e696eb74edf06aaec8", null ],
-    [ "Str", "d6/def/a11176.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
-    [ "Type", "d6/def/a11176.html#aca31cdb700dca4801dfa514812639c70", null ]
+    [ "EffectAuraNameCheck", "dd/dd0/a11188.html", "dd/dd0/a11188" ],
+    [ "EffectHook", "df/de8/a11180.html", "df/de8/a11180" ],
+    [ "EffectNameCheck", "d3/d0e/a11184.html", "d3/d0e/a11184" ],
+    [ "_SpellScript", "d6/def/a11176.html#a1094c9cbb65098fe0733ff54dce04388", null ],
+    [ "~_SpellScript", "d6/def/a11176.html#a6a2621e4aeda24af6ec55b9a8c461262", null ],
+    [ "_GetScriptName", "d6/def/a11176.html#ad3c16df6214a973fca3c62e4bc23f6a6", null ],
+    [ "_Init", "d6/def/a11176.html#ae85c836ab2da173942a40b53561df1fb", null ],
+    [ "_Register", "d6/def/a11176.html#ae22c1ed4b0e2742ee4c35de03c70d9d8", null ],
+    [ "_Unload", "d6/def/a11176.html#a6b372f003568d60066449ee58a0469df", null ],
+    [ "_Validate", "d6/def/a11176.html#af46024e85e0618c84bf72dc61df05673", null ],
+    [ "_ValidateSpellInfo", "d6/def/a11176.html#a423786f1fc45a010a4ebc16db2645a1f", null ],
+    [ "_ValidateSpellInfo", "d6/def/a11176.html#abb223d1713d7594bf4dfd1fc7c0dc5d5", null ],
+    [ "Load", "d6/def/a11176.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443", null ],
+    [ "Register", "d6/def/a11176.html#ab6fed9e44aa0c11342abffd74ee5bfe1", null ],
+    [ "Unload", "d6/def/a11176.html#ad501b6dde3e42c3af93589b117e2cafc", null ],
+    [ "Validate", "d6/def/a11176.html#a95e7862a5807bff409f13aea8306077e", null ],
+    [ "ValidateSpellInfo", "d6/def/a11176.html#a9f7c76ac56838fbe61bf67d534979159", null ],
+    [ "ValidateSpellInfo", "d6/def/a11176.html#a0ee15cbc62cccd346ce148c6acbe96f9", null ],
+    [ "m_currentScriptState", "d6/def/a11176.html#a3f9d5cd0ea4eadbdb6a72f73875c0585", null ],
+    [ "m_scriptName", "d6/def/a11176.html#a38bdb79ae6d11489dd6007485c1510de", null ],
+    [ "m_scriptSpellId", "d6/def/a11176.html#ae2ab4203d324b2179ad06ffdb5d8626f", null ]
 ];

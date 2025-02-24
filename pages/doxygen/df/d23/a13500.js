@@ -1,6 +1,7 @@
 var a13500 =
 [
-    [ "npc_the_scourge_cauldronAI", "dd/d40/a13504.html", "dd/d40/a13504" ],
-    [ "npc_the_scourge_cauldron", "df/d23/a13500.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
-    [ "GetAI", "df/d23/a13500.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
+    [ "npc_deathstalker_erlandAI", "df/d23/a13500.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
+    [ "JustEngagedWith", "df/d23/a13500.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
+    [ "Reset", "df/d23/a13500.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
+    [ "WaypointReached", "df/d23/a13500.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ]
 ];

@@ -1,6 +1,6 @@
 var a15604 =
 [
-    [ "npc_shadowpriest_sezzizAI", "dd/d42/a15608.html", "dd/d42/a15608" ],
-    [ "npc_shadowpriest_sezziz", "d9/d73/a15604.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
-    [ "GetAI", "d9/d73/a15604.html#a1513b766f18dbc290b6682582fd33b1d", null ]
+    [ "HandleOpenLock", "d9/d73/a15604.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "d9/d73/a15604.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "d9/d73/a15604.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

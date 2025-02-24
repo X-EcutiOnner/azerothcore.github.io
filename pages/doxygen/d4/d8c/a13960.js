@@ -1,6 +1,6 @@
 var a13960 =
 [
-    [ "boss_wushoolayAI", "d4/d8c/a13960.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
-    [ "JustEngagedWith", "d4/d8c/a13960.html#af519da543fff63a39a6fbe48f90f2f22", null ],
-    [ "UpdateAI", "d4/d8c/a13960.html#acfaacee2a97212eb15056c1552b9e06b", null ]
+    [ "boss_renatakiAI", "d7/dd0/a13964.html", "d7/dd0/a13964" ],
+    [ "boss_renataki", "d4/d8c/a13960.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
+    [ "GetAI", "d4/d8c/a13960.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
 ];

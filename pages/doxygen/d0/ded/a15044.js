@@ -1,6 +1,15 @@
 var a15044 =
 [
-    [ "aqsentinelAI", "d3/d4f/a15048.html", "d3/d4f/a15048" ],
-    [ "npc_anubisath_sentinel", "d0/ded/a15044.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
-    [ "GetAI", "d0/ded/a15044.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
+    [ "boss_viscidus", "d0/ded/a15044.html#a41dd3ce982a180a2ad415b559508f0ff", null ],
+    [ "CheckInRoom", "d0/ded/a15044.html#a528a368eceb55cc7d41d615c6c1ebf15", null ],
+    [ "DamageTaken", "d0/ded/a15044.html#adb41e6f64c1fe61cf623539353b0c959", null ],
+    [ "InitSpells", "d0/ded/a15044.html#a24357bfc552ecb5205e50241cadb05f4", null ],
+    [ "JustEngagedWith", "d0/ded/a15044.html#a7dfb0ba7d90697d3deac263249cfa977", null ],
+    [ "Reset", "d0/ded/a15044.html#ac9153bd98e4c39b63547c3a9a8798d80", null ],
+    [ "SoftReset", "d0/ded/a15044.html#ad2b4c6835ff113e4a538024f02ff968e", null ],
+    [ "SpellHit", "d0/ded/a15044.html#a43df1ee33d5a9b4794b246ce680a6318", null ],
+    [ "SummonedCreatureDies", "d0/ded/a15044.html#a6a52391b49ba3501a1bb5e8c55f07683", null ],
+    [ "UpdateAI", "d0/ded/a15044.html#a1a194c161b485d2abbb862506b6c239f", null ],
+    [ "_hitcounter", "d0/ded/a15044.html#a12ee60a91dab2f95aab6e9914351344a", null ],
+    [ "_phase", "d0/ded/a15044.html#a321f1f96af51d3d70de0cca89512d965", null ]
 ];

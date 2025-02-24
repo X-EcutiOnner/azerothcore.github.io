@@ -1,6 +1,7 @@
 var a24444 =
 [
-    [ "HandleAfterCast", "d2/dcd/a24444.html#aaa65e67362ded5318e89272acf073bf3", null ],
-    [ "PrepareSpellScript", "d2/dcd/a24444.html#a7d0dd936965845c14e7b54846facdb89", null ],
-    [ "Register", "d2/dcd/a24444.html#ab7b767743d62d9763bea710b7552a8cf", null ]
+    [ "HandleDummy", "d2/dcd/a24444.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
+    [ "PrepareSpellScript", "d2/dcd/a24444.html#a2fe4b009fa3741c180e18730af5853e3", null ],
+    [ "Register", "d2/dcd/a24444.html#a762c2320ab8d48e1284d81962a4b078f", null ],
+    [ "Validate", "d2/dcd/a24444.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
 ];

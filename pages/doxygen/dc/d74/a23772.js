@@ -1,10 +1,10 @@
 var a23772 =
 [
-    [ "npc_thaladred", "dc/d74/a23772.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
-    [ "JustDied", "dc/d74/a23772.html#acb50d54da8d8a422eab2b12aae5691b2", null ],
-    [ "JustEngagedWith", "dc/d74/a23772.html#a376664a7801ed27214b614b262b57d1c", null ],
-    [ "Reset", "dc/d74/a23772.html#a1ea5f71a78b8af971784c54048e3a6a0", null ],
-    [ "UpdateAI", "dc/d74/a23772.html#ab5d1276a3ef79239cfcada00fd48e1cd", null ],
-    [ "_hasDied", "dc/d74/a23772.html#a36d70481c9e6ebd20996fa1a4844a9d3", null ],
-    [ "_instance", "dc/d74/a23772.html#ae034800974950fd97b9bc9d0a15590d5", null ]
+    [ "npc_raging_flames", "dc/d74/a23772.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
+    [ "EnterEvadeMode", "dc/d74/a23772.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
+    [ "FixateRandomTarget", "dc/d74/a23772.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
+    [ "InitializeAI", "dc/d74/a23772.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
+    [ "IsSummonedBy", "dc/d74/a23772.html#ae42c4329be355807af92c1c803e61500", null ],
+    [ "Reset", "dc/d74/a23772.html#a34ac2249e507784d81c4040e87a646e0", null ],
+    [ "UpdateAI", "dc/d74/a23772.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
 ];

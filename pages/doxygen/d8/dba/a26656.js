@@ -1,7 +1,8 @@
 var a26656 =
 [
-    [ "HandleProc", "d8/dba/a26656.html#a85df8d4086a980d2b0a441097a909143", null ],
-    [ "PrepareAuraScript", "d8/dba/a26656.html#a4576f3d5af2d9265fa173f66d68ed512", null ],
-    [ "Register", "d8/dba/a26656.html#ab5308a36bc3b878a2913a89a84051ad7", null ],
-    [ "Validate", "d8/dba/a26656.html#a760a018b8410233e09065d94abeeb1ff", null ]
+    [ "Detonate", "d8/dba/a26656.html#a89f46334c78fc190afd7b03706fa2513", null ],
+    [ "HandleProc", "d8/dba/a26656.html#a82ad88c757eed35f7e0f2af38ceb2273", null ],
+    [ "PrepareAuraScript", "d8/dba/a26656.html#a7268602da6dc74d7c501fb90c8167226", null ],
+    [ "Register", "d8/dba/a26656.html#ac1574e943840e5f15a808ed4d338cd5f", null ],
+    [ "Validate", "d8/dba/a26656.html#abbc5c9d069e716d9356ec366713abb84", null ]
 ];

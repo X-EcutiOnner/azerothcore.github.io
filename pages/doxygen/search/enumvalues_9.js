@@ -6,6 +6,6 @@ var searchData=
   ['jaina_5fsay_5fthrone_5f1_3',['JAINA_SAY_THRONE_1',['../d4/def/a00359.html#a3340f88cbee80feb625844ccdee7eb8aa3781c50f6ec75901a0b77221bb2a1b8b',1,'zone_undercity.cpp']]],
   ['jaina_5fsay_5fthrone_5f2_4',['JAINA_SAY_THRONE_2',['../d4/def/a00359.html#a3340f88cbee80feb625844ccdee7eb8aa5da1a5d3fbe275775319f8e2ac3419c0',1,'zone_undercity.cpp']]],
   ['jaina_5fsay_5fthrone_5f3_5',['JAINA_SAY_THRONE_3',['../d4/def/a00359.html#a3340f88cbee80feb625844ccdee7eb8aa9496a4ebcdc22487adc157fe177f9791',1,'zone_undercity.cpp']]],
-  ['justdied_6',['JustDied',['../d2/de4/a03047.html#a40766b10780b3416efddc6acf0f16306aae649c7a16dd2cc0a03b454de711f6d0',1,'Unit.h']]],
-  ['justrespawned_7',['JustRespawned',['../d2/de4/a03047.html#a40766b10780b3416efddc6acf0f16306ae2be3907a40b4b2c02c6194cd37aad81',1,'Unit.h']]]
+  ['justdied_6',['JustDied',['../d6/dfe/a03053.html#a40766b10780b3416efddc6acf0f16306aae649c7a16dd2cc0a03b454de711f6d0',1,'Unit.h']]],
+  ['justrespawned_7',['JustRespawned',['../d6/dfe/a03053.html#a40766b10780b3416efddc6acf0f16306ae2be3907a40b4b2c02c6194cd37aad81',1,'Unit.h']]]
 ];

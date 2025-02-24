@@ -1,4 +1,4 @@
 var a04487 =
 [
-    [ "CircularBuffer< T >", "df/d45/a05398.html", "df/d45/a05398" ]
+    [ "EventEmitter< Signature >", "df/d39/a05424.html", "df/d39/a05424" ]
 ];

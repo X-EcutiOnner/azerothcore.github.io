@@ -1,7 +1,7 @@
 var a15444 =
 [
-    [ "npc_toogaAI", "d5/d4b/a15448.html", "d5/d4b/a15448" ],
-    [ "npc_tooga", "d9/d1b/a15444.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "d9/d1b/a15444.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "d9/d1b/a15444.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
+    [ "npc_kaya_flathoofAI", "d9/d1b/a15444.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "d9/d1b/a15444.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "d9/d1b/a15444.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "d9/d1b/a15444.html#a8fcbb19279b925138ba96d2a450fc404", null ]
 ];

@@ -1,7 +1,6 @@
 var a10880 =
 [
-    [ "attributeMask", "d7/db8/a10880.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
-    [ "customChance", "d7/db8/a10880.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
-    [ "PPMChance", "d7/db8/a10880.html#adb76c11f0073a2738374c98c01fda009", null ],
-    [ "procEx", "d7/db8/a10880.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
+    [ "ClientOpcodeHandler", "d9/dda/a04740.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
+    [ "Call", "d9/dda/a04740.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
+    [ "ProcessingPlace", "d9/dda/a04740.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
 ];

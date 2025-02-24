@@ -1,14 +1,8 @@
 var a19280 =
 [
-    [ "boss_varosAI", "db/dc7/a19280.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
-    [ "EnterEvadeMode", "db/dc7/a19280.html#a0b7eeef4529b47357d729852cdeab002", null ],
-    [ "JustDied", "db/dc7/a19280.html#a2724167a66a059e1c0ca1612d8405d68", null ],
-    [ "JustEngagedWith", "db/dc7/a19280.html#a2f25555ca2884f6bffb289d209e87740", null ],
-    [ "JustSummoned", "db/dc7/a19280.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
-    [ "MoveInLineOfSight", "db/dc7/a19280.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
-    [ "Reset", "db/dc7/a19280.html#aef24d04954a26bb6381c860403e84288", null ],
-    [ "UpdateAI", "db/dc7/a19280.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
-    [ "events", "db/dc7/a19280.html#a36746118770c936e7606962365e102d8", null ],
-    [ "pInstance", "db/dc7/a19280.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
-    [ "ZapAngle", "db/dc7/a19280.html#aef225fcf580c5e500d3242ac4be24260", null ]
+    [ "npc_centrifuge_constructAI", "db/dc7/a19280.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "db/dc7/a19280.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "db/dc7/a19280.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "db/dc7/a19280.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "db/dc7/a19280.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

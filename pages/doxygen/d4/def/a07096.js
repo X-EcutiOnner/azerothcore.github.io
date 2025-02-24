@@ -1,11 +1,15 @@
 var a07096 =
 [
-    [ "BattlegroundABScore", "d4/def/a07096.html#ae219ecb551c89ad5a5cb22f1996a598b", null ],
-    [ "BuildObjectivesBlock", "d4/def/a07096.html#a86ac6e9b19eaa7ed257f25f9f73c22cf", null ],
-    [ "GetAttr1", "d4/def/a07096.html#af0f066f76f4d84e844946862ae819b4f", null ],
-    [ "GetAttr2", "d4/def/a07096.html#a8ac00679dd8dfeef81f159b7a2b22027", null ],
-    [ "UpdateScore", "d4/def/a07096.html#a43aaefd97c8880cbf70381282d81f7cf", null ],
-    [ "BattlegroundAB", "d4/def/a07096.html#ad5365fcb2edd84180065badd1572ba8e", null ],
-    [ "BasesAssaulted", "d4/def/a07096.html#a25643abf67d1ae2f8498951c11833994", null ],
-    [ "BasesDefended", "d4/def/a07096.html#a450504481d335230b3e035d4337694be", null ]
+    [ "AuctionHouseSearcher", "d4/def/a07096.html#adee77153a7b9efeac149e6c951082986", null ],
+    [ "~AuctionHouseSearcher", "d4/def/a07096.html#a84842935539c5ef8b02815cc8697e568", null ],
+    [ "AddAuction", "d4/def/a07096.html#a09e01dd8840a50f6b6dd5f70ad9ec10c", null ],
+    [ "NotifyAllWorkers", "d4/def/a07096.html#a443577cfba0af003e7e0e8834474a6c1", null ],
+    [ "NotifyOneWorker", "d4/def/a07096.html#a1b70b786bf6e57d9d9cae8f34f0d779b", null ],
+    [ "QueueSearchRequest", "d4/def/a07096.html#a53caf3298638d325a8b9e97584296ad3", null ],
+    [ "RemoveAuction", "d4/def/a07096.html#a145da4d009d9814a4e76fae0d02f33e4", null ],
+    [ "Update", "d4/def/a07096.html#ac8c7b88346dc99bed5fe8d0efb28eebb", null ],
+    [ "UpdateBid", "d4/def/a07096.html#a7bb50e3e903c73a83469e7323917d40d", null ],
+    [ "_requestQueue", "d4/def/a07096.html#ac221abeb9a760c90d6110310970e6463", null ],
+    [ "_responseQueue", "d4/def/a07096.html#a772e65025ae498b8837222ae98f49c28", null ],
+    [ "_workerThreads", "d4/def/a07096.html#aa1cedd8cb22b840599b97bf7c7df0949", null ]
 ];

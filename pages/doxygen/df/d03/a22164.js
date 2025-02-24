@@ -1,7 +1,9 @@
 var a22164 =
 [
-    [ "HandleSendEvent", "df/d03/a22164.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "df/d03/a22164.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "df/d03/a22164.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "df/d03/a22164.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "HandlePeriodic", "df/d03/a22164.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "df/d03/a22164.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "df/d03/a22164.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "df/d03/a22164.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "df/d03/a22164.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "df/d03/a22164.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

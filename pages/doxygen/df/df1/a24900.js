@@ -1,6 +1,8 @@
 var a24900 =
 [
-    [ "HandleDummy", "df/df1/a24900.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
-    [ "PrepareSpellScript", "df/df1/a24900.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
-    [ "Register", "df/df1/a24900.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
+    [ "HandleScript", "df/df1/a24900.html#a2376d12f379f75f5decfdc133c18403e", null ],
+    [ "Load", "df/df1/a24900.html#aa70bfd2e614f9bf68ad2972990f0f7f5", null ],
+    [ "PrepareSpellScript", "df/df1/a24900.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1", null ],
+    [ "Register", "df/df1/a24900.html#a0b32bf9d565d7d6f606150f70fc244a0", null ],
+    [ "Validate", "df/df1/a24900.html#a1aee8ca0cc33f949371fa5cbb4745ccd", null ]
 ];

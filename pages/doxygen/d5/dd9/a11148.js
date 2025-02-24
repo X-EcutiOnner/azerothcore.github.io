@@ -1,9 +1,13 @@
 var a11148 =
 [
-    [ "ClientKeySeed", "d5/dd9/a11148.html#a3e2df88e6fd716030d70a77850e96970", null ],
-    [ "ClientKeySeedHash", "d5/dd9/a11148.html#ae2523827d6f9abae5eed0b463c00062f", null ],
-    [ "Module", "d5/dd9/a11148.html#a1fcce28666a614c83d06729bc9c88bb4", null ],
-    [ "ModuleKey", "d5/dd9/a11148.html#ac34f4c4997f5f64a9dcf4ad7d914a215", null ],
-    [ "Seed", "d5/dd9/a11148.html#a3c8e1b5c642f12e29837800f0428f34e", null ],
-    [ "ServerKeySeed", "d5/dd9/a11148.html#ad29fe1f9ba6ef32f1d35657683b0e11b", null ]
+    [ "PetAuraMap", "d5/dd9/a11148.html#a6c020340ff467b5f2d00c3b5f9fee817", null ],
+    [ "PetAura", "d5/dd9/a11148.html#a8cd7e3284837b30a8a3c6739ab5cb9b3", null ],
+    [ "PetAura", "d5/dd9/a11148.html#a79a2f086e2d8dbe1af47716b53df0524", null ],
+    [ "AddAura", "d5/dd9/a11148.html#ae33bb99ab341f66fb2f296ccd6617e63", null ],
+    [ "GetAura", "d5/dd9/a11148.html#a6f8318410229a89e0b3aa2af28d6cb2b", null ],
+    [ "GetDamage", "d5/dd9/a11148.html#a38087712cef92ad55dc84f96e2b9e300", null ],
+    [ "IsRemovedOnChangePet", "d5/dd9/a11148.html#adc1b329e1f303b5ad3f353abb4343cdf", null ],
+    [ "auras", "d5/dd9/a11148.html#abacd738dfb04687810b981297b1a1567", null ],
+    [ "damage", "d5/dd9/a11148.html#a216021a7ad893ae6ca65ea068dd6eedb", null ],
+    [ "removeOnChangePet", "d5/dd9/a11148.html#aa5b3219cd2021341ce0910dce81d8b56", null ]
 ];

@@ -1,6 +1,5 @@
 var a11004 =
 [
-    [ "EffectUpdatePeriodicHandler", "d6/dd8/a11004.html#a6b18a259aa84c847bcc064c5243eb590", null ],
-    [ "Call", "d6/dd8/a11004.html#a38802863e7859453cbbe58ad91018c67", null ],
-    [ "pEffectHandlerScript", "d6/dd8/a11004.html#a0e51245e089fcd9532d5789056ab944c", null ]
+    [ "AbsorbAuraOrderPred", "d6/dd8/a11004.html#a30283854715c90496e14d260f913f5fa", null ],
+    [ "operator()", "d6/dd8/a11004.html#a8f705a8b053ef6ff2e2827b4c7f9c643", null ]
 ];

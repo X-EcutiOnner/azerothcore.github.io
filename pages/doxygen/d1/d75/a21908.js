@@ -1,7 +1,6 @@
 var a21908 =
 [
-    [ "HandleAfterEffectApply", "d1/d75/a21908.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "d1/d75/a21908.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "d1/d75/a21908.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "d1/d75/a21908.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "npc_boneguard_footmanAI", "dd/daa/a21912.html", "dd/daa/a21912" ],
+    [ "npc_boneguard_footman", "d1/d75/a21908.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "d1/d75/a21908.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

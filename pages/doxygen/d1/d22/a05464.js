@@ -1,9 +1,7 @@
 var a05464 =
 [
-    [ "TimeTrackerSmall", "d1/d22/a05464.html#a38a962c928eac8546d1fd37a094077cc", null ],
-    [ "GetExpiry", "d1/d22/a05464.html#a2ebcfabed1bf252b6afb6c3182142c7b", null ],
-    [ "Passed", "d1/d22/a05464.html#af4455d0ebb784497e9fd1a08cc915062", null ],
-    [ "Reset", "d1/d22/a05464.html#ab8a3c45ffe0e83132e708b5e87625c02", null ],
-    [ "Update", "d1/d22/a05464.html#a6c10a37051caf7c16f1aa057bf2bf7da", null ],
-    [ "i_expiryTime", "d1/d22/a05464.html#a332f650bcfc81fb4b0de1b58ff1e0c9b", null ]
+    [ "EnumText", "d1/d22/a05464.html#a8eaf5ce52dcc9fd44476f9add1140e0d", null ],
+    [ "Constant", "d1/d22/a05464.html#a020a7ebf3b1ee476d5f7ee605f43525d", null ],
+    [ "Description", "d1/d22/a05464.html#ab08504e4ec70c5495f5a45856f2e6976", null ],
+    [ "Title", "d1/d22/a05464.html#a7326575ea4083e28ac62556526a092a4", null ]
 ];

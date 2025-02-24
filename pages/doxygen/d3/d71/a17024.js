@@ -1,6 +1,7 @@
 var a17024 =
 [
-    [ "npc_living_mojoAI", "da/d81/a17028.html", "da/d81/a17028" ],
-    [ "npc_living_mojo", "d3/d71/a17024.html#af24190023549b4ec5fa47b5959618a8a", null ],
-    [ "GetAI", "d3/d71/a17024.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
+    [ "HandleDummy", "d3/d71/a17024.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "d3/d71/a17024.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "d3/d71/a17024.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "d3/d71/a17024.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

@@ -1,6 +1,8 @@
 var a15096 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "dc/d85/a15100.html", "dc/d85/a15100" ],
-    [ "instance_wailing_caverns", "d1/db8/a15096.html#a906f59c39f59237e9eedb479dfc7d825", null ],
-    [ "GetInstanceScript", "d1/db8/a15096.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
+    [ "npc_obsidian_eradicator", "d1/db8/a15096.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "d1/db8/a15096.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "d1/db8/a15096.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "d1/db8/a15096.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "d1/db8/a15096.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

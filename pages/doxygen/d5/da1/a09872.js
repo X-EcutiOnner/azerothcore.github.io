@@ -1,12 +1,14 @@
 var a09872 =
 [
-    [ "QuestLocale", "d5/da1/a09872.html#a887d474a470ee0278fb4b465a7ad9547", null ],
-    [ "AreaDescription", "d5/da1/a09872.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
-    [ "CompletedText", "d5/da1/a09872.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
-    [ "Details", "d5/da1/a09872.html#afd23d37c92f2b28e1c125bba0d670497", null ],
-    [ "Objectives", "d5/da1/a09872.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
-    [ "ObjectiveText", "d5/da1/a09872.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
-    [ "OfferRewardText", "d5/da1/a09872.html#aaba6d07625232a77e3457454f7d4fa77", null ],
-    [ "RequestItemsText", "d5/da1/a09872.html#a764d2092084454844e59c484fb637017", null ],
-    [ "Title", "d5/da1/a09872.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
+    [ "~MovementGenerator", "d5/da1/a09872.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
+    [ "Finalize", "d5/da1/a09872.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
+    [ "GetMovementGeneratorType", "d5/da1/a09872.html#a60bac341b438ea7258986f234a952324", null ],
+    [ "GetResetPosition", "d5/da1/a09872.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
+    [ "GetSplineId", "d5/da1/a09872.html#a99865a1b7cf84b02784bfa8df958585f", null ],
+    [ "Initialize", "d5/da1/a09872.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
+    [ "Pause", "d5/da1/a09872.html#a37530e5cd743faecabd21eba08dce939", null ],
+    [ "Reset", "d5/da1/a09872.html#aa6641fa1182551421fc8572afad8e083", null ],
+    [ "Resume", "d5/da1/a09872.html#a51988a8b0a45459242467e38ca46303c", null ],
+    [ "unitSpeedChanged", "d5/da1/a09872.html#a0f9c4fd52947688dcda1161924e829bb", null ],
+    [ "Update", "d5/da1/a09872.html#ae3014d8c6e728799c86134ef64737ed5", null ]
 ];

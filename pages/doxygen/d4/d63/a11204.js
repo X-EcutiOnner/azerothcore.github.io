@@ -1,19 +1,8 @@
 var a11204 =
 [
-    [ "WardenPayloadMgr", "d4/d63/a11204.html#a0a90c3e8ab6d5b5698f330b997efed27", null ],
-    [ "ClearQueuedPayloads", "d4/d63/a11204.html#ade67b783b6e6c7421b0d86a9143d60d9", null ],
-    [ "DequeuePayload", "d4/d63/a11204.html#a0fb196873e89729eb5c3ad3238e75a6a", null ],
-    [ "GetFreePayloadId", "d4/d63/a11204.html#a698b2ab4709a495f299be18b053e4014", null ],
-    [ "GetPayloadById", "d4/d63/a11204.html#a9f7d7ab2c529b74b67fb363a063ffa27", null ],
-    [ "GetPayloadCountInQueue", "d4/d63/a11204.html#ae3878c7264337d646f7a5d503907d7aa", null ],
-    [ "GetPayloadsInQueue", "d4/d63/a11204.html#a6b8ed858cc20f8acc0266edbe84b3dfd", null ],
-    [ "QueuePayload", "d4/d63/a11204.html#a36f9cf58fa5c9d34fdac860c3ae692d1", null ],
-    [ "RegisterPayload", "d4/d63/a11204.html#ab3b7d9cbbb94eab430a0caff00448a4a", null ],
-    [ "RegisterPayload", "d4/d63/a11204.html#ae2e7a14fe433ed45e94d3e74ba43f579", null ],
-    [ "UnregisterPayload", "d4/d63/a11204.html#a97d5b53d0e1fd42663ad673b31fe4fab", null ],
-    [ "CachedChecks", "d4/d63/a11204.html#a65c6878274bc49b921714278d77eed56", null ],
-    [ "QueuedPayloads", "d4/d63/a11204.html#a0d473fcc12806a29a6cf191ebd1ec9ff", null ],
-    [ "WardenPayloadCheckType", "d4/d63/a11204.html#a5d6853734e30d11fce42dfeeb3a06c22", null ],
-    [ "WardenPayloadOffsetMax", "d4/d63/a11204.html#a0a6537e719e9f8f4c371340d0d1b4db7", null ],
-    [ "WardenPayloadOffsetMin", "d4/d63/a11204.html#a9f7e5a100c56a6ee9a6bd39a792b9e44", null ]
+    [ "EffectHandler", "d4/d63/a11204.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "d4/d63/a11204.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "d4/d63/a11204.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "d4/d63/a11204.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "d4/d63/a11204.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

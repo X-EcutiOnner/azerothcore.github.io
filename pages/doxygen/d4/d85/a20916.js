@@ -1,7 +1,8 @@
 var a20916 =
 [
-    [ "HandleEffectPeriodic", "d4/d85/a20916.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
-    [ "PrepareAuraScript", "d4/d85/a20916.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
-    [ "Register", "d4/d85/a20916.html#a74052d7da1523b3c4010465510e5fe04", null ],
-    [ "Validate", "d4/d85/a20916.html#a587a469c649877f80e8fe80062e8b5d4", null ]
+    [ "boss_keleseth", "d4/d85/a20916.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
+    [ "AttackStart", "d4/d85/a20916.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
+    [ "JustDied", "d4/d85/a20916.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
+    [ "JustEngagedWith", "d4/d85/a20916.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
+    [ "KilledUnit", "d4/d85/a20916.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
 ];

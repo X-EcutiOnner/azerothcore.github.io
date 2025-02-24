@@ -1,6 +1,4 @@
 var a04145 =
 [
-    [ "CONFIG_HIGH_PRIORITY", "d8/dca/a04145.html#a04727fe99a83f6b774ac1fb1b8468f3e", null ],
-    [ "CONFIG_PROCESSOR_AFFINITY", "d8/dca/a04145.html#a714853b6677573f2aa289978eee5b83f", null ],
-    [ "SetProcessPriority", "d8/dca/a04145.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b", null ]
+    [ "LockedQueue< T, StorageType >", "da/def/a05344.html", "da/def/a05344" ]
 ];

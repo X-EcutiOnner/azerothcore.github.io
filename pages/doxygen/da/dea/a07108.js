@@ -1,10 +1,21 @@
 var a07108 =
 [
-    [ "OwnerId", "da/dea/a07108.html#ae6203d7a867838b279825925841a99df", null ],
-    [ "PrevOwnerId", "da/dea/a07108.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
-    [ "PrevState", "da/dea/a07108.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
-    [ "State", "da/dea/a07108.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
-    [ "Timer", "da/dea/a07108.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
-    [ "TotalOwnerId", "da/dea/a07108.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
-    [ "Tower", "da/dea/a07108.html#a222db96ad937e31986c0c39a5a371dd7", null ]
+    [ "BfGraveyard", "da/dea/a07108.html#a2e10ab7e731167473f5bbf194163660d", null ],
+    [ "AddPlayer", "da/dea/a07108.html#acce3c0eade3e8e8afe08359de4dd7c88", null ],
+    [ "GetControlTeamId", "da/dea/a07108.html#ac417eb4b9ff8f7c6f19e2148eb81131c", null ],
+    [ "GetDistance", "da/dea/a07108.html#ae290db2a83278c27803d62267aebfb71", null ],
+    [ "GetGraveyardId", "da/dea/a07108.html#ac7944db0403c37282ca90550f8ca4118", null ],
+    [ "GiveControlTo", "da/dea/a07108.html#a9fe22d9ebbe1b652322b9a8e5f18ee91", null ],
+    [ "HasNpc", "da/dea/a07108.html#a5f02be27972ae3f9aa8213ddb8c8b8d2", null ],
+    [ "HasPlayer", "da/dea/a07108.html#ae85731d5d7d184749be9ec8704dde5e5", null ],
+    [ "Initialize", "da/dea/a07108.html#ac81acd9801591e13c9f26d625d004b2f", null ],
+    [ "RelocateDeadPlayers", "da/dea/a07108.html#ae0c6607ccfd39a3bf6806d437ce114ae", null ],
+    [ "RemovePlayer", "da/dea/a07108.html#af21ac9d3e58cfedc9c12316e77eb875c", null ],
+    [ "Resurrect", "da/dea/a07108.html#a94569ad820914c1f467aeaf30f977c3e", null ],
+    [ "SetSpirit", "da/dea/a07108.html#ab4385a55321e8cf90e91bd10a04f1ddf", null ],
+    [ "m_Bf", "da/dea/a07108.html#aa8e80e3722d725b02bfb5d450998f01a", null ],
+    [ "m_ControlTeam", "da/dea/a07108.html#ab008468a642fb2fa450fb881704c4fbb", null ],
+    [ "m_GraveyardId", "da/dea/a07108.html#a88e2a83e4aa220da8bc6036c2eb3fde0", null ],
+    [ "m_ResurrectQueue", "da/dea/a07108.html#aa70f427dfa7ddd551c3880a8cc3ce445", null ],
+    [ "m_SpiritGuide", "da/dea/a07108.html#aa8a700b633c79c7887cccebffceb772b", null ]
 ];

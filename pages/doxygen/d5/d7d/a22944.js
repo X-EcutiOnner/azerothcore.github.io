@@ -1,7 +1,11 @@
 var a22944 =
 [
-    [ "CalculateAmount", "d5/d7d/a22944.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
-    [ "PrepareAuraScript", "d5/d7d/a22944.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
-    [ "Register", "d5/d7d/a22944.html#a6d0d47536e6ef74a88c97019843d478c", null ],
-    [ "Update", "d5/d7d/a22944.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
+    [ "boss_doomlordkazzakAI", "d5/d7d/a22944.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
+    [ "JustDied", "d5/d7d/a22944.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
+    [ "JustEngagedWith", "d5/d7d/a22944.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
+    [ "JustRespawned", "d5/d7d/a22944.html#a174912c149657f4d88446f4ac0631598", null ],
+    [ "KilledUnit", "d5/d7d/a22944.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
+    [ "Reset", "d5/d7d/a22944.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
+    [ "UpdateAI", "d5/d7d/a22944.html#a28a0a8345fcd5411491409854acef729", null ],
+    [ "_inBerserk", "d5/d7d/a22944.html#a996d17128aca96c00c8416957ebc24d0", null ]
 ];

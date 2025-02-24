@@ -1,6 +1,6 @@
 var a19252 =
 [
-    [ "npc_oculus_unstable_sphereAI", "d1/dfe/a19256.html", "d1/dfe/a19256" ],
-    [ "npc_oculus_unstable_sphere", "dd/d59/a19252.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
-    [ "GetAI", "dd/d59/a19252.html#adda2a9e7eab03444742e85729673ab2f", null ]
+    [ "instance_oculus_InstanceMapScript", "d1/dfe/a19256.html", "d1/dfe/a19256" ],
+    [ "instance_oculus", "dd/d59/a19252.html#a404205ea7106531ea57307c40b9589bb", null ],
+    [ "GetInstanceScript", "dd/d59/a19252.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
 ];

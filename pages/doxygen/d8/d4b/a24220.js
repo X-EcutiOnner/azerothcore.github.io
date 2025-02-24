@@ -1,7 +1,5 @@
 var a24220 =
 [
-    [ "npc_kservantAI", "d8/d4b/a24220.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "d8/d4b/a24220.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "d8/d4b/a24220.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "d8/d4b/a24220.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
+    [ "npc_pet_dk_army_of_the_deadAI", "d8/d4b/a24220.html#a2d934ed807d225f6b9f2206f0556f26d", null ],
+    [ "InitializeAI", "d8/d4b/a24220.html#af3ecec126ed3d902acd4bfe979382307", null ]
 ];

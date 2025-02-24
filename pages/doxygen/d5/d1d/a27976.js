@@ -1,8 +1,6 @@
 var a27976 =
 [
-    [ "DamagedDisplayId", "d5/d1d/a27976.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "d5/d1d/a27976.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "d5/d1d/a27976.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "d5/d1d/a27976.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "d5/d1d/a27976.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "Id", "d5/d1d/a27976.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "d5/d1d/a27976.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "d5/d1d/a27976.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

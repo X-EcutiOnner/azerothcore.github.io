@@ -1,7 +1,8 @@
 var a23704 =
 [
-    [ "boss_warp_splinter", "d4/d27/a23704.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "d4/d27/a23704.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "d4/d27/a23704.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "d4/d27/a23704.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "HandleScriptEffect", "d4/d27/a23704.html#a7cde39fc0844f19604c8026a853e8216", null ],
+    [ "Load", "d4/d27/a23704.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
+    [ "PrepareSpellScript", "d4/d27/a23704.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
+    [ "Register", "d4/d27/a23704.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
+    [ "_currentSpellId", "d4/d27/a23704.html#a0ad25535ba345fe9672150af67687305", null ]
 ];

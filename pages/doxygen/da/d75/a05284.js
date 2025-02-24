@@ -1,13 +1,11 @@
 var a05284 =
 [
-    [ "MPSCQueueIntrusive", "da/d75/a05284.html#a8e05361abed759932c49b0fc71ed09c1", null ],
-    [ "~MPSCQueueIntrusive", "da/d75/a05284.html#a8155857825ceb1b7154ea82a63dbce08", null ],
-    [ "MPSCQueueIntrusive", "da/d75/a05284.html#afaee06af7734e53ce50674e4ef7277b2", null ],
-    [ "Dequeue", "da/d75/a05284.html#a798e36f41ef34c226690f76e9dc03fd6", null ],
-    [ "Enqueue", "da/d75/a05284.html#a233004b906cfa66cdd285233105dddf7", null ],
-    [ "operator=", "da/d75/a05284.html#a93cdd07d00b7dff8a7da5bf4846b26c7", null ],
-    [ "_dummy", "da/d75/a05284.html#ad4d3a9cebe46fc524e474b7854a20b03", null ],
-    [ "_dummyPtr", "da/d75/a05284.html#a115e9affe6159ae8aa08c6fc358e400c", null ],
-    [ "_head", "da/d75/a05284.html#a7fb32fbb507e82f9e8a6c1691e281fcd", null ],
-    [ "_tail", "da/d75/a05284.html#ac7e333db415e6301a02052c53779d1d4", null ]
+    [ "Decode", "da/d75/a05284.html#a1017c0ca9db8f38832271dbe04a6c22c", null ],
+    [ "DecodedSize", "da/d75/a05284.html#ae7f09527200686c22611e59e995a17ef", null ],
+    [ "Encode", "da/d75/a05284.html#a9132df0434948b03df8f79b6cc48252c", null ],
+    [ "EncodedSize", "da/d75/a05284.html#ab6808fd4c674e10ce28153394189abf5", null ],
+    [ "BITS_PER_CHAR", "da/d75/a05284.html#a04facbd14c7d876af5154cb200d74e6b", null ],
+    [ "DECODE_ERROR", "da/d75/a05284.html#ab52b675a0956909cdac9413443551086", null ],
+    [ "PAD_TO", "da/d75/a05284.html#a8cec4e14ca170842d1eadf8b7b42b12b", null ],
+    [ "PADDING", "da/d75/a05284.html#a328b2cd9dc377fb8d5b6740cde162b92", null ]
 ];

@@ -1,6 +1,8 @@
 var a21280 =
 [
-    [ "npc_ichor_globuleAI", "db/d4d/a21284.html", "db/d4d/a21284" ],
-    [ "npc_ichor_globule", "dc/dac/a21280.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
-    [ "GetAI", "dc/dac/a21280.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
+    [ "npc_azure_mage_slayerAI", "dc/dac/a21280.html#af1a57574d70a48b16d70d8a056f54018", null ],
+    [ "Reset", "dc/dac/a21280.html#aabe921f0d4fd147c457779791a7af619", null ],
+    [ "UpdateAI", "dc/dac/a21280.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
+    [ "uiArcaneEmpowermentTimer", "dc/dac/a21280.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
+    [ "uiSpellLockTimer", "dc/dac/a21280.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
 ];

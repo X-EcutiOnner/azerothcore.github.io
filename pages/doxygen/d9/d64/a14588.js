@@ -1,7 +1,13 @@
 var a14588 =
 [
-    [ "npc_cos_chromie_middle", "d9/d64/a14588.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "d9/d64/a14588.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "d9/d64/a14588.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "d9/d64/a14588.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "boss_salrammAI", "d9/d64/a14588.html#ae1055878b3919e29d44ee26efcbe044f", null ],
+    [ "ExplodeGhoul", "d9/d64/a14588.html#adc64d8b10b28b98254c528732fff0516", null ],
+    [ "JustDied", "d9/d64/a14588.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
+    [ "JustEngagedWith", "d9/d64/a14588.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
+    [ "JustSummoned", "d9/d64/a14588.html#afd70403a8644f310f37335c6c9bf5b55", null ],
+    [ "KilledUnit", "d9/d64/a14588.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
+    [ "Reset", "d9/d64/a14588.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
+    [ "UpdateAI", "d9/d64/a14588.html#aa2350dc05884593b1361f9f09b8d9392", null ],
+    [ "events", "d9/d64/a14588.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
+    [ "summons", "d9/d64/a14588.html#a813c09e121730d4ae2e623ac3c37d570", null ]
 ];

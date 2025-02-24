@@ -1,4 +1,4 @@
 var a07456 =
 [
-    [ "operator()", "dd/d44/a07456.html#a1c1e59697194005023a42873b8856a50", null ]
+    [ "AllianceChannelMgr", "dd/d44/a07456.html#a7d90a6a0d987ac461668642c9ecfb619", null ]
 ];

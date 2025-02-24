@@ -1,6 +1,7 @@
 var a11884 =
 [
-    [ "go_chromaggus_leverAI", "d2/d7c/a11888.html", "d2/d7c/a11888" ],
-    [ "go_chromaggus_lever", "d4/d09/a11884.html#a88f8078cd5aa1863ca20c9b02a0e52d2", null ],
-    [ "GetAI", "d4/d09/a11884.html#ae307b36029147b8385b3c40878d1a3e4", null ]
+    [ "boss_magmusAI", "d4/d09/a11884.html#a8a3e5361bda492007013af9228899b8f", null ],
+    [ "JustEngagedWith", "d4/d09/a11884.html#a11e4868628564078997694373315a9d6", null ],
+    [ "Reset", "d4/d09/a11884.html#a5fe304cec86831b7e64f83caee1392d0", null ],
+    [ "UpdateAI", "d4/d09/a11884.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
 ];

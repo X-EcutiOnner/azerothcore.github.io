@@ -1,7 +1,6 @@
 var a24728 =
 [
-    [ "CalculateAmount", "db/d86/a24728.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
-    [ "Load", "db/d86/a24728.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
-    [ "PrepareAuraScript", "db/d86/a24728.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
-    [ "Register", "db/d86/a24728.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
+    [ "CheckAreaTarget", "db/d86/a24728.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
+    [ "PrepareAuraScript", "db/d86/a24728.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
+    [ "Register", "db/d86/a24728.html#a6647a8e35009cf8559e4957a666f037a", null ]
 ];

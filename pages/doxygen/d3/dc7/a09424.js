@@ -1,8 +1,9 @@
 var a09424 =
 [
-    [ "CircleBoundary", "d3/dc7/a09424.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
-    [ "CircleBoundary", "d3/dc7/a09424.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
-    [ "IsWithinBoundaryArea", "d3/dc7/a09424.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
-    [ "_center", "d3/dc7/a09424.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
-    [ "_radiusSq", "d3/dc7/a09424.html#acbb3cc0c546f0e557a48a45425355950", null ]
+    [ "UnitAuraCheck", "d3/dc7/a09424.html#acbc0c969db8b768720ab3b8235c28352", null ],
+    [ "operator()", "d3/dc7/a09424.html#abc385cad226ac51c09a908864d360fd3", null ],
+    [ "operator()", "d3/dc7/a09424.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
+    [ "_casterGUID", "d3/dc7/a09424.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
+    [ "_present", "d3/dc7/a09424.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
+    [ "_spellId", "d3/dc7/a09424.html#a0dd71c851f803fb70a4543c77b672889", null ]
 ];

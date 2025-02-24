@@ -1,9 +1,15 @@
 var a09504 =
 [
-    [ "ZoneDynamicInfo", "de/d15/a09504.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
-    [ "LightFadeInTime", "de/d15/a09504.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
-    [ "MusicId", "de/d15/a09504.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
-    [ "OverrideLightId", "de/d15/a09504.html#a0d43acd5539d3449b7c36ee88518346e", null ],
-    [ "WeatherGrade", "de/d15/a09504.html#a923c3231c49554addd1522f0ccc50e2d", null ],
-    [ "WeatherId", "de/d15/a09504.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
+    [ "LogHolder", "de/d15/a09504.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
+    [ "AddEvent", "de/d15/a09504.html#a5f6d81d9048290815053bb4aa3531d73", null ],
+    [ "CanInsert", "de/d15/a09504.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
+    [ "GetGuildId", "de/d15/a09504.html#ada98449548b389a1cd8177087e3aa5e8", null ],
+    [ "GetGuildLog", "de/d15/a09504.html#a17593c12663e8c4251f94636e511c73a", null ],
+    [ "GetGuildLog", "de/d15/a09504.html#ae43929001324d6bece4e45bc95115535", null ],
+    [ "GetNextGUID", "de/d15/a09504.html#aed00250b6a1036a91dd971af510f7750", null ],
+    [ "LoadEvent", "de/d15/a09504.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
+    [ "m_guildId", "de/d15/a09504.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
+    [ "m_log", "de/d15/a09504.html#aca25adbc1c1e9397c837a53793568b64", null ],
+    [ "m_maxRecords", "de/d15/a09504.html#a755788eaede72a131f74ae7de88c37b4", null ],
+    [ "m_nextGUID", "de/d15/a09504.html#a267cecce9b2f244235800c93a086e8e2", null ]
 ];

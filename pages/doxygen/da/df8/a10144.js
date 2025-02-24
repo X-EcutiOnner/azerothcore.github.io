@@ -1,9 +1,10 @@
 var a10144 =
 [
-    [ "ServerPacket", "da/df8/a10144.html#a4d2bf169dd705b886da8ff58a7ef4bd2", null ],
-    [ "Clear", "da/df8/a10144.html#aa54f2fa66cfe4682ca56cf01f9e1296a", null ],
-    [ "GetOpcode", "da/df8/a10144.html#a639ab6c078d7c746bcb328526df705be", null ],
-    [ "Move", "da/df8/a10144.html#a659397042201ae571bb564872e54d2c6", null ],
-    [ "Read", "da/df8/a10144.html#ae49aa7bce566d9f0ea3c7bbb487a119d", null ],
-    [ "ShrinkToFit", "da/df8/a10144.html#a6fa19a94d57484aaff3498be01495258", null ]
+    [ "AchievementScript", "da/df8/a10144.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
+    [ "CanCheckCriteria", "da/df8/a10144.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "da/df8/a10144.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "da/df8/a10144.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "da/df8/a10144.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "da/df8/a10144.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "da/df8/a10144.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

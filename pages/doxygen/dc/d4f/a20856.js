@@ -1,7 +1,6 @@
 var a20856 =
 [
-    [ "HandleEffectCalcPeriodic", "dc/d4f/a20856.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "dc/d4f/a20856.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "dc/d4f/a20856.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "dc/d4f/a20856.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "instance_ulduar_InstanceMapScript", "dd/d93/a20860.html", "dd/d93/a20860" ],
+    [ "instance_ulduar", "dc/d4f/a20856.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "dc/d4f/a20856.html#ad15f003a90e656910fc32d661ca9baba", null ]
 ];

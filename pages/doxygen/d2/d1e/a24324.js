@@ -1,5 +1,6 @@
 var a24324 =
 [
-    [ "npc_pet_dk_dancing_rune_weaponAI", "d2/d1e/a24324.html#a6d57990a8ff05cc74356b0ed4d7d39b6", null ],
-    [ "InitializeAI", "d2/d1e/a24324.html#a620ebac7c7cd5f81af47ea2e35de128c", null ]
+    [ "HandleEffectRemove", "d2/d1e/a24324.html#a9472b79a272aff36be657b66883d822f", null ],
+    [ "PrepareAuraScript", "d2/d1e/a24324.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
+    [ "Register", "d2/d1e/a24324.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
 ];

@@ -1,14 +1,14 @@
 var a03926 =
 [
-    [ "GroupScript", "db/d0e/a10246.html", "db/d0e/a10246" ],
-    [ "GroupHook", "d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5d", [
-      [ "GROUPHOOK_ON_ADD_MEMBER", "d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681", null ],
-      [ "GROUPHOOK_ON_INVITE_MEMBER", "d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe", null ],
-      [ "GROUPHOOK_ON_REMOVE_MEMBER", "d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3", null ],
-      [ "GROUPHOOK_ON_CHANGE_LEADER", "d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23", null ],
-      [ "GROUPHOOK_ON_DISBAND", "d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353", null ],
-      [ "GROUPHOOK_CAN_GROUP_JOIN_BATTLEGROUND_QUEUE", "d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da9b4d04fe85f908719f1412cb9b88e61c", null ],
-      [ "GROUPHOOK_ON_CREATE", "d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da0cc7b93ed018172ab0c6f191681e5f6c", null ],
-      [ "GROUPHOOK_END", "d1/d59/a03926.html#a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2", null ]
+    [ "AllMapScript", "d0/de5/a10168.html", "d0/de5/a10168" ],
+    [ "AllMapHook", "d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92", [
+      [ "ALLMAPHOOK_ON_PLAYER_ENTER_ALL", "d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa", null ],
+      [ "ALLMAPHOOK_ON_PLAYER_LEAVE_ALL", "d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae", null ],
+      [ "ALLMAPHOOK_ON_BEFORE_CREATE_INSTANCE_SCRIPT", "d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182", null ],
+      [ "ALLMAPHOOK_ON_DESTROY_INSTANCE", "d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0", null ],
+      [ "ALLMAPHOOK_ON_CREATE_MAP", "d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02", null ],
+      [ "ALLMAPHOOK_ON_DESTROY_MAP", "d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5", null ],
+      [ "ALLMAPHOOK_ON_MAP_UPDATE", "d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb", null ],
+      [ "ALLMAPHOOK_END", "d1/d59/a03926.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95", null ]
     ] ]
 ];

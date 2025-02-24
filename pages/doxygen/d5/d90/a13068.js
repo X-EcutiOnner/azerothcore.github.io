@@ -1,8 +1,10 @@
 var a13068 =
 [
-    [ "OnPeriodic", "d5/d90/a13068.html#acd400b0a061d1814591e33d16bf4180a", null ],
-    [ "OnRemove", "d5/d90/a13068.html#a3da85c726007690220e9b4f81d30f185", null ],
-    [ "PrepareAuraScript", "d5/d90/a13068.html#a216d723f309ffa46df4bba7af79752c8", null ],
-    [ "Register", "d5/d90/a13068.html#a43fe84c2717d73e20a2562f596a84f36", null ],
-    [ "Validate", "d5/d90/a13068.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
+    [ "HandleDummyTick", "d5/d90/a13068.html#a036291aee8b08212ecead4afce01adf4", null ],
+    [ "Load", "d5/d90/a13068.html#aaecea41af42790dfe9aeba3c56480668", null ],
+    [ "OnApply", "d5/d90/a13068.html#a37b425f877e7415b245c119c29521c4b", null ],
+    [ "PrepareAuraScript", "d5/d90/a13068.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
+    [ "Register", "d5/d90/a13068.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
+    [ "Validate", "d5/d90/a13068.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
+    [ "_forsakenSpell", "d5/d90/a13068.html#ae2aee05482e4854120fc581ecec41f95", null ]
 ];

@@ -1,6 +1,7 @@
 var a12580 =
 [
-    [ "npc_unworthy_initiateAI", "d3/d39/a12584.html", "d3/d39/a12584" ],
-    [ "npc_unworthy_initiate", "d5/dc3/a12580.html#aaa04626b783eadc0b14bd89aa715e694", null ],
-    [ "GetAI", "d5/dc3/a12580.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
+    [ "FilterTargets", "d5/dc3/a12580.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
+    [ "Load", "d5/dc3/a12580.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
+    [ "PrepareSpellScript", "d5/dc3/a12580.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
+    [ "Register", "d5/dc3/a12580.html#ae366530ddacf45a92eaa36be7e706a84", null ]
 ];

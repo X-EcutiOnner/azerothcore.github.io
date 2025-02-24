@@ -1,6 +1,8 @@
 var a10988 =
 [
-    [ "CheckAreaTargetHandler", "d8/d47/a10988.html#a641b633e37079949c8b1b71a32f4222e", null ],
-    [ "Call", "d8/d47/a10988.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
-    [ "pHandlerScript", "d8/d47/a10988.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
+    [ "SkillDiscoveryEntry", "d8/d47/a10988.html#a54c0f12153c6e63a37e5da44d233b271", null ],
+    [ "SkillDiscoveryEntry", "d8/d47/a10988.html#a301cae078fe1943cae045e94dc3d38ad", null ],
+    [ "chance", "d8/d47/a10988.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
+    [ "reqSkillValue", "d8/d47/a10988.html#a61e0edc8fee1fa4045d846668d08449c", null ],
+    [ "spellId", "d8/d47/a10988.html#a75ca40729917317173b2953c8f47f833", null ]
 ];

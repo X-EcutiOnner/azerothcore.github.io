@@ -1,7 +1,6 @@
 var a21596 =
 [
-    [ "npc_warmage_violetstand", "dc/ddf/a21596.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "dc/ddf/a21596.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "dc/ddf/a21596.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "dc/ddf/a21596.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_mindless_ghoulAI", "dc/ddf/a21596.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
+    [ "CanAIAttack", "dc/ddf/a21596.html#a18fbc44ad760a69d952d003622ec75b2", null ],
+    [ "JustDied", "dc/ddf/a21596.html#a272067bef6dbab24024f7de990c10b64", null ]
 ];

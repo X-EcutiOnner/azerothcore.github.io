@@ -1,6 +1,6 @@
 var a26172 =
 [
-    [ "CheckCast", "d2/d3d/a26172.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "d2/d3d/a26172.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "d2/d3d/a26172.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "HandleScript", "d2/d3d/a26172.html#ae81570045d4984ee5682a0333b1b142d", null ],
+    [ "PrepareSpellScript", "d2/d3d/a26172.html#acb074781e07961998362349a7616fc4e", null ],
+    [ "Register", "d2/d3d/a26172.html#aaf41593da5ebb1118ccb10a5d4d32b26", null ]
 ];

@@ -1,15 +1,12 @@
 var a12708 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "d5/dac/a12708.html#a4abdd53f735be815cb2d43497d1531e0", null ],
-    [ "GetData", "d5/dac/a12708.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
-    [ "GetGuidData", "d5/dac/a12708.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
-    [ "OnCreatureCreate", "d5/dac/a12708.html#a71fcfc166f945325a4ee149645a9ccef", null ],
-    [ "OnGameObjectCreate", "d5/dac/a12708.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
-    [ "OnPlayerAreaUpdate", "d5/dac/a12708.html#a542669592205682d96ff4f7915dffe89", null ],
-    [ "OnPlayerEnter", "d5/dac/a12708.html#abda4eed65fa6e53d7c5ebeaa2816dd19", null ],
-    [ "SetData", "d5/dac/a12708.html#aaf498d563d070d6250a182f583651777", null ],
-    [ "DoorHighInquisitorGUID", "d5/dac/a12708.html#a72e7f67a60edb4db52bb022291608ac3", null ],
-    [ "encounter", "d5/dac/a12708.html#a70730d88a5f7d3839a20d1eaca7147e7", null ],
-    [ "MograineGUID", "d5/dac/a12708.html#a07596cbc555d8569061b83400b41189f", null ],
-    [ "WhitemaneGUID", "d5/dac/a12708.html#aba9c99316b218f69683515da22a4c788", null ]
+    [ "boss_felblood_kaelthas", "d5/dac/a12708.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
+    [ "DamageTaken", "d5/dac/a12708.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
+    [ "DoAction", "d5/dac/a12708.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
+    [ "GravityLapseSequence", "d5/dac/a12708.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
+    [ "JustDied", "d5/dac/a12708.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
+    [ "JustEngagedWith", "d5/dac/a12708.html#a1d8806d7813d11aa61e043e420852218", null ],
+    [ "LapseAction", "d5/dac/a12708.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
+    [ "Reset", "d5/dac/a12708.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
+    [ "_gravityLapseCounter", "d5/dac/a12708.html#ab4e884a341fa25a555c160f6978861fc", null ]
 ];

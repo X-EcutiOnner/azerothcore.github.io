@@ -1,6 +1,6 @@
 var a15332 =
 [
-    [ "npc_giant_spotlightAI", "d8/d1f/a15336.html", "d8/d1f/a15336" ],
-    [ "npc_giant_spotlight", "d8/dc7/a15332.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
-    [ "GetAI", "d8/dc7/a15332.html#af002a3d0194c991c1f78c720de63cfea", null ]
+    [ "npc_bunthen_plainswind", "d8/dc7/a15332.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "d8/dc7/a15332.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "d8/dc7/a15332.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

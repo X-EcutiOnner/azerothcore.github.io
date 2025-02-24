@@ -1,6 +1,7 @@
 var a13544 =
 [
-    [ "npc_akilzon_eagleAI", "de/d38/a13548.html", "de/d38/a13548" ],
-    [ "npc_akilzon_eagle", "d0/dff/a13544.html#a226355ce2fa1a451ea61a212fd939ec5", null ],
-    [ "GetAI", "d0/dff/a13544.html#ace5fc83cd4109ea05006660867a2dcf6", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "de/d38/a13548.html", "de/d38/a13548" ],
+    [ "npc_lady_sylvanas_windrunner", "d0/dff/a13544.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "d0/dff/a13544.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "d0/dff/a13544.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

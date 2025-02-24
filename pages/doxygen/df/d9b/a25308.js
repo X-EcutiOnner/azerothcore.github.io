@@ -1,11 +1,10 @@
 var a25308 =
 [
-    [ "CalcPeriodic", "df/d9b/a25308.html#ab5feede17fa79c9d02fa459586eaca41", null ],
-    [ "CalculateAPAmount", "df/d9b/a25308.html#af2b1da799f1b3c0373dc6782dabbf89c", null ],
-    [ "CalculateResistanceAmount", "df/d9b/a25308.html#a51828f07b0e099c5931161f7aeebaab7", null ],
-    [ "CalculateSPAmount", "df/d9b/a25308.html#a255ed8f5158e715313e44b13f30b099f", null ],
-    [ "CalculateStatAmount", "df/d9b/a25308.html#ade1b7256d19b526a7f4b1520f6b2f663", null ],
-    [ "HandlePeriodic", "df/d9b/a25308.html#a136c8cedca7630543b8937e77571ead1", null ],
-    [ "PrepareAuraScript", "df/d9b/a25308.html#a638a2544d9216bec90c433100c0663a0", null ],
-    [ "Register", "df/d9b/a25308.html#a55605257006d8218250932357f325bb8", null ]
+    [ "ApplyMarker", "df/d9b/a25308.html#aae1bd2f5f21a389e8d110cabecc9d94d", null ],
+    [ "CheckTrapProc", "df/d9b/a25308.html#a00f06f18b6874302f88c3af193d8e4ed", null ],
+    [ "HandleProcs", "df/d9b/a25308.html#a81abe76c24a6a6320811d99ce8f5fb4f", null ],
+    [ "IsTargetValid", "df/d9b/a25308.html#a02590da9b97a4d6bc7a6cbd0e670480f", null ],
+    [ "PrepareAuraScript", "df/d9b/a25308.html#a475320d20875b2d710ed3734b78f4645", null ],
+    [ "Register", "df/d9b/a25308.html#aca7649a87ace4e22793ca33705b1500c", null ],
+    [ "Validate", "df/d9b/a25308.html#a45630b6dc703996321286ff16a17e3e3", null ]
 ];

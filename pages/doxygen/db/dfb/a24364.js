@@ -1,8 +1,7 @@
 var a24364 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "db/dfb/a24364.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "db/dfb/a24364.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "db/dfb/a24364.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "db/dfb/a24364.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "db/dfb/a24364.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "CheckProc", "db/dfb/a24364.html#abd74252153fc4fc9a4e561005ea58b3f", null ],
+    [ "HandleProc", "db/dfb/a24364.html#a911b81552e7193dbf1cfc11037b44d84", null ],
+    [ "PrepareAuraScript", "db/dfb/a24364.html#ae169eb2c0e194f8f34ee2a0d5fd973d3", null ],
+    [ "Register", "db/dfb/a24364.html#a72d89db31c1fbd5c3b49b4c05a2d90f4", null ]
 ];

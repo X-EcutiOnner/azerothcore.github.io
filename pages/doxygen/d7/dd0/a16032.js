@@ -1,7 +1,6 @@
 var a16032 =
 [
-    [ "CountAllies", "d7/dd0/a16032.html#a207c1fd89fd726054a881e342391d2a0", null ],
-    [ "PrepareSpellScript", "d7/dd0/a16032.html#ae1e230ad204a280a261ebe0f21c7f8a5", null ],
-    [ "Register", "d7/dd0/a16032.html#a47574795b2a262625c65ab23a4179684", null ],
-    [ "Validate", "d7/dd0/a16032.html#a0178e7c4f5509a4bb2c6ed3811fc9685", null ]
+    [ "npc_living_infernoAI", "d7/dd0/a16032.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "d7/dd0/a16032.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "d7/dd0/a16032.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

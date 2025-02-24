@@ -1,10 +1,8 @@
 var a22472 =
 [
-    [ "OPvPCapturePointHP", "d4/d53/a22472.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
-    [ "ChangeState", "d4/d53/a22472.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
-    [ "FillInitialWorldStates", "d4/d53/a22472.html#a4021432ef58674bf456ad2684e56b256", null ],
-    [ "HandlePlayerEnter", "d4/d53/a22472.html#ad9738c621df084d5a3f0070c80403642", null ],
-    [ "HandlePlayerLeave", "d4/d53/a22472.html#a86e849e5387383a6c751e69350ffa07c", null ],
-    [ "SendChangePhase", "d4/d53/a22472.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
-    [ "m_TowerType", "d4/d53/a22472.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
+    [ "boss_tavarok", "d4/d53/a22472.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
+    [ "JustDied", "d4/d53/a22472.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
+    [ "JustEngagedWith", "d4/d53/a22472.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
+    [ "KilledUnit", "d4/d53/a22472.html#a2c99df9457c548ee562fde920592ea88", null ],
+    [ "Reset", "d4/d53/a22472.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
 ];

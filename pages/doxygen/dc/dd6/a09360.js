@@ -1,7 +1,8 @@
 var a09360 =
 [
-    [ "QuestItem", "dc/dd6/a09360.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
-    [ "QuestItem", "dc/dd6/a09360.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
-    [ "index", "dc/dd6/a09360.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
-    [ "is_looted", "dc/dd6/a09360.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
+    [ "AnyAssistCreatureInRangeCheck", "dc/dd6/a09360.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
+    [ "operator()", "dc/dd6/a09360.html#a314a4800047f7e661cd011010b3f148e", null ],
+    [ "i_enemy", "dc/dd6/a09360.html#a37318ae783e6cf4a658063aab149e8a3", null ],
+    [ "i_funit", "dc/dd6/a09360.html#add1071091d1696c3f537483810dcb6f1", null ],
+    [ "i_range", "dc/dd6/a09360.html#a4bcf67be5bae4649d82586349d30be04", null ]
 ];

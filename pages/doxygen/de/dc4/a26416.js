@@ -1,9 +1,9 @@
 var a26416 =
 [
-    [ "HandleKnockBack", "de/dc4/a26416.html#acaa8f445874270f34ea5b42a506671db", null ],
-    [ "HandleScript", "de/dc4/a26416.html#a29e47298601cb55c5442a3fa59bb3646", null ],
-    [ "Load", "de/dc4/a26416.html#a45700aba665b601b2c860af5a869d1af", null ],
-    [ "PrepareSpellScript", "de/dc4/a26416.html#aad1c175a2611152278d847ac59f93090", null ],
-    [ "Register", "de/dc4/a26416.html#ad790d435f422fabd128e601fb2dff103", null ],
-    [ "Validate", "de/dc4/a26416.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
+    [ "HandleAfterHit", "de/dc4/a26416.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
+    [ "HandleBeforeHit", "de/dc4/a26416.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
+    [ "Load", "de/dc4/a26416.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
+    [ "PrepareSpellScript", "de/dc4/a26416.html#a496c27472579be3b8989868765ec19ef", null ],
+    [ "Register", "de/dc4/a26416.html#a133e338413e960c442446a2a4a13b85b", null ],
+    [ "_stackAmount", "de/dc4/a26416.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
 ];

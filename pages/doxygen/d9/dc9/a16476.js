@@ -1,6 +1,6 @@
 var a16476 =
 [
-    [ "spell_valkyr_touchAuraScript", "d8/d4c/a16480.html", "d8/d4c/a16480" ],
-    [ "spell_valkyr_touch", "d9/dc9/a16476.html#a13ab6fdfe33659448a4598feed1db0a6", null ],
-    [ "GetAuraScript", "d9/dc9/a16476.html#af8205cf431f034e4b678e1396fbe40a8", null ]
+    [ "HandleEffectPeriodic", "d9/dc9/a16476.html#a8775f4e2cb6be96f57596413d560206c", null ],
+    [ "PrepareAuraScript", "d9/dc9/a16476.html#a45118f9887d248a5eb840b945dee5b79", null ],
+    [ "Register", "d9/dc9/a16476.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
 ];

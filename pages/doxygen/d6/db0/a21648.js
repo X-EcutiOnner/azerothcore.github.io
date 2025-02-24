@@ -1,14 +1,15 @@
 var a21648 =
 [
-    [ "npc_dalaran_mageAI", "d6/db0/a21648.html#ae896a065d2975c5f4d0a125261796215", null ],
-    [ "Initialize", "d6/db0/a21648.html#a8ede1e1e4599f288f5a8c20c40c11236", null ],
-    [ "JustEngagedWith", "d6/db0/a21648.html#a05e9c672ab73029c70fa3d2605b6174d", null ],
-    [ "Reset", "d6/db0/a21648.html#adee723525f46e5476e135e3043f5feb9", null ],
-    [ "UpdateAI", "d6/db0/a21648.html#ab3d5812e38c1fcc1c01af3fdbd27a61e", null ],
-    [ "blink_timer", "d6/db0/a21648.html#ae888e0e5d3302e0a47b6e3d41f166c67", null ],
-    [ "blizzard_timer", "d6/db0/a21648.html#a5da62a7ee9abf7a94c2543076d6479a6", null ],
-    [ "CoC_Timer", "d6/db0/a21648.html#a8a86c02e2c3759ec1f64087943d37b26", null ],
-    [ "frostfire_timer", "d6/db0/a21648.html#ab91070d41571e0070a7c92bf0694f4cc", null ],
-    [ "frostnova_timer", "d6/db0/a21648.html#a77e9a7686cece7ee97236ce6386f82bf", null ],
-    [ "restoremana_timer", "d6/db0/a21648.html#a33da20a649faa6ee7e61db79846ac4a7", null ]
+    [ "npc_q24545_lich_kingAI", "d6/db0/a21648.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
+    [ "CleanAll", "d6/db0/a21648.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
+    [ "JustSummoned", "d6/db0/a21648.html#a6049433795be30eb31e240a4939ad42f", null ],
+    [ "Reset", "d6/db0/a21648.html#aebd396de51edef790cd0b599c94f78a0", null ],
+    [ "SetData", "d6/db0/a21648.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
+    [ "SetGUID", "d6/db0/a21648.html#a9dfbb607bb117d2d1fc8a4e61c42859f", null ],
+    [ "SpellHitTarget", "d6/db0/a21648.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
+    [ "SummonedCreatureDespawn", "d6/db0/a21648.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
+    [ "UpdateAI", "d6/db0/a21648.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
+    [ "events", "d6/db0/a21648.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
+    [ "playerGUID", "d6/db0/a21648.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
+    [ "summons", "d6/db0/a21648.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
 ];

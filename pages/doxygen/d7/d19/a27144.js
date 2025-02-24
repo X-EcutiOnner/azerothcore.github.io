@@ -1,6 +1,5 @@
 var a27144 =
 [
-    [ "go_heatAI", "d7/d19/a27144.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "d7/d19/a27144.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "d7/d19/a27144.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "go_sacred_fire_of_life", "d7/d19/a27144.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "d7/d19/a27144.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

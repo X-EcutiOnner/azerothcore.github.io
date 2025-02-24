@@ -1,5 +1,7 @@
 var a03968 =
 [
-    [ "MotdMap", "db/de8/a03968.html#a5c662919d486ab6fdecf6195e172bc0d", null ],
-    [ "MotdPackets", "db/de8/a03968.html#a58c795807a8c0ddf95b6dde3d1760c0a", null ]
+    [ "ScriptObject", "db/d97/a10364.html", "db/d97/a10364" ],
+    [ "UpdatableScript< TObject >", "d4/d9d/a10368.html", "d4/d9d/a10368" ],
+    [ "MapScript< TMap >", "d6/d14/a10372.html", "d6/d14/a10372" ],
+    [ "VISIBLE_RANGE", "db/de8/a03968.html#ac7e3013df774904b0d331e5b0c6e93ad", null ]
 ];

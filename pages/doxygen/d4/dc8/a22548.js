@@ -1,9 +1,9 @@
 var a22548 =
 [
-    [ "npc_stolen_soul", "d4/dc8/a22548.html#a84a0bb8320b2332545748e010d855884", null ],
-    [ "DoAction", "d4/dc8/a22548.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
-    [ "Reset", "d4/dc8/a22548.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
-    [ "UpdateAI", "d4/dc8/a22548.html#a7bf369dd943ee36600a364d56b85db5a", null ],
-    [ "_scheduler", "d4/dc8/a22548.html#ab62526916f0ccd681383d37d19d94ccc", null ],
-    [ "myClass", "d4/dc8/a22548.html#ab2ad92983075320ce389aa583c341d21", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d4/dc8/a22548.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "d4/dc8/a22548.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "d4/dc8/a22548.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "d4/dc8/a22548.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "d4/dc8/a22548.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "d4/dc8/a22548.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

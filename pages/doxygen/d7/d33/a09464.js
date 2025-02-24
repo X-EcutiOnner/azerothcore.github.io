@@ -1,14 +1,18 @@
 var a09464 =
 [
-    [ "areaMapOffset", "d7/d33/a09464.html#a70f82337112bb8cbff0b3344666885a1", null ],
-    [ "areaMapSize", "d7/d33/a09464.html#adfbbb622974b7942f47dd16d2300246f", null ],
-    [ "buildMagic", "d7/d33/a09464.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
-    [ "heightMapOffset", "d7/d33/a09464.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
-    [ "heightMapSize", "d7/d33/a09464.html#a71c9cd42801697a927543e3acd4c3daf", null ],
-    [ "holesOffset", "d7/d33/a09464.html#a876d70dcd6ccec9ad09de77718c02150", null ],
-    [ "holesSize", "d7/d33/a09464.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
-    [ "liquidMapOffset", "d7/d33/a09464.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
-    [ "liquidMapSize", "d7/d33/a09464.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
-    [ "mapMagic", "d7/d33/a09464.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
-    [ "versionMagic", "d7/d33/a09464.html#abe722f653ba057fbba84401acbaffbfa", null ]
+    [ "GroupContainer", "d7/d33/a09464.html#a417c5798d50cac5c1bc5b0eae13945cc", null ],
+    [ "GroupIds", "d7/d33/a09464.html#ad3a9005c50a5957d3f47adf60624b9aa", null ],
+    [ "GroupMgr", "d7/d33/a09464.html#a663dbeb2e20161d8d6cf72f322c05f0e", null ],
+    [ "~GroupMgr", "d7/d33/a09464.html#ad5a5efeed7f78146983611c2349c111f", null ],
+    [ "AddGroup", "d7/d33/a09464.html#abb97c613417573dc4cafa117065e7cf8", null ],
+    [ "GenerateGroupId", "d7/d33/a09464.html#ad881433a3836a70e44734bde5a1afc6f", null ],
+    [ "GetGroupByGUID", "d7/d33/a09464.html#a2af93882e217f762df95ba21af191c89", null ],
+    [ "InitGroupIds", "d7/d33/a09464.html#a6881453ec34dc2d9416069a87b1a3234", null ],
+    [ "instance", "d7/d33/a09464.html#a1b7275cfd70d46216df8c353e70d64c8", null ],
+    [ "LoadGroups", "d7/d33/a09464.html#ab8548ce88b015ae3040cd5f2cd7b1990", null ],
+    [ "RegisterGroupId", "d7/d33/a09464.html#a8bface2b6600801ebcd1cbb9070ec3ef", null ],
+    [ "RemoveGroup", "d7/d33/a09464.html#a654b7c795c9c3d77a7a39bce58dec2c7", null ],
+    [ "_groupIds", "d7/d33/a09464.html#af260c73ba61242f741103bdfe6d6fb9e", null ],
+    [ "_nextGroupId", "d7/d33/a09464.html#a4e41d7444f8b7d3dbb54569be80b65f9", null ],
+    [ "GroupStore", "d7/d33/a09464.html#ae897c661dd4b185d205c3a12d17ccb2b", null ]
 ];

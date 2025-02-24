@@ -1,7 +1,8 @@
 var a09460 =
 [
-    [ "ownerGUID", "d5/d2d/a09460.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
-    [ "script", "d5/d2d/a09460.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
-    [ "sourceGUID", "d5/d2d/a09460.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
-    [ "targetGUID", "d5/d2d/a09460.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
+    [ "flags", "d5/d2d/a09460.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
+    [ "group", "d5/d2d/a09460.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
+    [ "guid", "d5/d2d/a09460.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
+    [ "name", "d5/d2d/a09460.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
+    [ "roles", "d5/d2d/a09460.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
 ];

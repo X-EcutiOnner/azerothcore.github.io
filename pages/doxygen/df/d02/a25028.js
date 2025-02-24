@@ -1,10 +1,7 @@
 var a25028 =
 [
-    [ "Load", "df/d02/a25028.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
-    [ "OnApply", "df/d02/a25028.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
-    [ "OnRemove", "df/d02/a25028.html#a29834c598d6ef8299d54e48a3461e603", null ],
-    [ "PrepareAuraScript", "df/d02/a25028.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
-    [ "Register", "df/d02/a25028.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
-    [ "Validate", "df/d02/a25028.html#aeaf16594f569af671d221234a4aa2c8b", null ],
-    [ "prevItem", "df/d02/a25028.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
+    [ "HandleDummy", "df/d02/a25028.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
+    [ "Load", "df/d02/a25028.html#a738318535196b3d55e8f1b3da4f76c95", null ],
+    [ "PrepareSpellScript", "df/d02/a25028.html#a941a097124ed9b4917faa18ff23fc366", null ],
+    [ "Register", "df/d02/a25028.html#aaf9d269e7d052515f31b463999e92cf4", null ]
 ];

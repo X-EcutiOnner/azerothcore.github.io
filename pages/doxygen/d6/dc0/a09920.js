@@ -1,17 +1,10 @@
 var a09920 =
 [
-    [ "AllCreatureScript", "d6/dc0/a09920.html#ae933414c901fc5d3606fd5c239156f1b", null ],
-    [ "CanCreatureGossipHello", "d6/dc0/a09920.html#a2cf3bd5ad27bf97fde905bc69a6dec5e", null ],
-    [ "CanCreatureGossipSelect", "d6/dc0/a09920.html#a551633c543dd01e876ee10452b98fb5e", null ],
-    [ "CanCreatureGossipSelectCode", "d6/dc0/a09920.html#aa193e968ecc1639ca33fee052dafb0b3", null ],
-    [ "CanCreatureQuestAccept", "d6/dc0/a09920.html#af45ef5e7a0a6b3ca6126d5af87753b5c", null ],
-    [ "CanCreatureQuestReward", "d6/dc0/a09920.html#a31659a18df4206122a56ce69f3e4809d", null ],
-    [ "Creature_SelectLevel", "d6/dc0/a09920.html#a53699365c09e80de805be89545a28968", null ],
-    [ "GetCreatureAI", "d6/dc0/a09920.html#a1e568b6f85a8b60a65a987c8d081ca3e", null ],
-    [ "OnAllCreatureUpdate", "d6/dc0/a09920.html#abba47678a4f5e73c2db3b27b4cfa3dbe", null ],
-    [ "OnBeforeCreatureSelectLevel", "d6/dc0/a09920.html#a136f18625787127115566bb4625fc490", null ],
-    [ "OnCreatureAddWorld", "d6/dc0/a09920.html#aa5ba65ba430a95724a814311382c9a67", null ],
-    [ "OnCreatureRemoveWorld", "d6/dc0/a09920.html#aba119c6b59f3dd4a489bb227c1b1208d", null ],
-    [ "OnCreatureSaveToDB", "d6/dc0/a09920.html#acad4f67abbd5906f38be136be2ae1f53", null ],
-    [ "OnFfaPvpStateUpdate", "d6/dc0/a09920.html#a8022ccb5b3d0b6d900512f3d8ea6dbfa", null ]
+    [ "DistractMovementGenerator", "d6/dc0/a09920.html#a55879290b06f4fc86a1da791c07b7afb", null ],
+    [ "Finalize", "d6/dc0/a09920.html#aa4a2b943ecde8750bd764290d65872df", null ],
+    [ "GetMovementGeneratorType", "d6/dc0/a09920.html#a0b30745bf1cd7b5a264e970273595592", null ],
+    [ "Initialize", "d6/dc0/a09920.html#a71410ddbda2be6b34bb2276a83fea5c9", null ],
+    [ "Reset", "d6/dc0/a09920.html#ad544709b2873b63b28d27ab414c280ba", null ],
+    [ "Update", "d6/dc0/a09920.html#ad5a15c1507b8ab315b658351077629b3", null ],
+    [ "m_timer", "d6/dc0/a09920.html#a8b520d8e97704ac39ce28c2256557b42", null ]
 ];

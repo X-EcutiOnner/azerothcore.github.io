@@ -1,10 +1,7 @@
 var a04768 =
 [
-    [ "WModelAreaCallback", "d5/d7a/a04768.html#ad59e5b281d60d2489d0100e728612e65", null ],
-    [ "operator()", "d5/d7a/a04768.html#a4c0bb86ba4d8238e8f7740c4699dfa0f", null ],
-    [ "hit", "d5/d7a/a04768.html#a136cf475a8246611c52b3af41707fe83", null ],
-    [ "minVol", "d5/d7a/a04768.html#a169a35e4d1b33b28014ad753993a1c27", null ],
-    [ "prims", "d5/d7a/a04768.html#a7a45b1c8e16c7840a45b96b15ca200b4", null ],
-    [ "zDist", "d5/d7a/a04768.html#ade19ec7931454c375bf8564f05556c8e", null ],
-    [ "zVec", "d5/d7a/a04768.html#a423995c8ce4c4846da978cc49aeee2b9", null ]
+    [ "For", "de/d62/a05492.html", null ],
+    [ "For< bool, void >", "da/de2/a05500.html", "da/de2/a05500" ],
+    [ "For< T, std::enable_if_t< std::is_floating_point_v< T > > >", "d2/d81/a05504.html", "d2/d81/a05504" ],
+    [ "For< T, std::enable_if_t< std::is_integral_v< T > &&!std::is_same_v< T, bool > > >", "d2/d0e/a05496.html", "d2/d0e/a05496" ]
 ];

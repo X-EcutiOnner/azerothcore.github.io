@@ -1,6 +1,5 @@
 var a20900 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d8/d8f/a20904.html", "d8/d8f/a20904" ],
-    [ "instance_ulduar", "de/dd3/a20900.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "de/dd3/a20900.html#ad15f003a90e656910fc32d661ca9baba", null ]
+    [ "AreaTrigger_at_celestial_planetarium_enterance", "de/dd3/a20900.html#ae1503a754a05a77991d9955a2fb74265", null ],
+    [ "OnTrigger", "de/dd3/a20900.html#aa7aa93e00170313de251af4e562c422c", null ]
 ];

@@ -1,6 +1,7 @@
 var a19284 =
 [
-    [ "instance_oculus_InstanceMapScript", "db/d5e/a19288.html", "db/d5e/a19288" ],
-    [ "instance_oculus", "d7/d87/a19284.html#a404205ea7106531ea57307c40b9589bb", null ],
-    [ "GetInstanceScript", "d7/d87/a19284.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
+    [ "Apply", "d7/d87/a19284.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "d7/d87/a19284.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "d7/d87/a19284.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "d7/d87/a19284.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

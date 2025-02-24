@@ -1,6 +1,6 @@
 var a21124 =
 [
-    [ "boss_ymironAI", "d9/d51/a21128.html", "d9/d51/a21128" ],
-    [ "boss_ymiron", "de/d5d/a21124.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "de/d5d/a21124.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "npc_frozen_orbAI", "d9/d51/a21128.html", "d9/d51/a21128" ],
+    [ "npc_frozen_orb", "de/d5d/a21124.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "de/d5d/a21124.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

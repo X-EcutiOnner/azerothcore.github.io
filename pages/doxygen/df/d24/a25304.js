@@ -1,6 +1,8 @@
 var a25304 =
 [
-    [ "CalculateAmount", "df/d24/a25304.html#ac0018b57967a3d3ae71aa81745032f15", null ],
-    [ "PrepareAuraScript", "df/d24/a25304.html#ab249a493050c5527eeec8913e94cfc64", null ],
-    [ "Register", "df/d24/a25304.html#a8f078f8370eacba197ceb2068b6a538d", null ]
+    [ "HandleFinish", "df/d24/a25304.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
+    [ "PrepareSpellScript", "df/d24/a25304.html#a73865997890d4f58cc09d54c2c4e5243", null ],
+    [ "Register", "df/d24/a25304.html#a106cf5d53956b66f8f548caceda41dc8", null ],
+    [ "SelectTarget", "df/d24/a25304.html#ab33513df20e942ba354932df5082efa8", null ],
+    [ "_target", "df/d24/a25304.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
 ];

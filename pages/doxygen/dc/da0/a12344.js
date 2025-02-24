@@ -1,5 +1,6 @@
 var a12344 =
 [
-    [ "at_karazhan_atiesh_aran", "dc/da0/a12344.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
-    [ "OnTrigger", "dc/da0/a12344.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
+    [ "boss_lucifronAI", "d0/d6b/a12348.html", "d0/d6b/a12348" ],
+    [ "boss_lucifron", "dc/da0/a12344.html#aa54be5c49a77524b036c167dbb6d81ea", null ],
+    [ "GetAI", "dc/da0/a12344.html#a885366d4190bbc77dc696ee6910435ed", null ]
 ];

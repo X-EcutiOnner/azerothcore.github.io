@@ -1,6 +1,6 @@
 var a19572 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "d8/d5d/a19576.html", "d8/d5d/a19576" ],
-    [ "npc_brann_bronzebeard_algalon", "dc/d47/a19572.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
-    [ "GetAI", "dc/d47/a19572.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
+    [ "HandlePeriodic", "dc/d47/a19572.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "dc/d47/a19572.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "dc/d47/a19572.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

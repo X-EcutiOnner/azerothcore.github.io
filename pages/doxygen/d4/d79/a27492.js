@@ -1,11 +1,13 @@
 var a27492 =
 [
-    [ "npc_injured_patientAI", "d4/d79/a27492.html#a0973487623f1771c598648bc06a6d9a3", null ],
-    [ "JustEngagedWith", "d4/d79/a27492.html#a621a8cc3f6b9655760431d52766ca589", null ],
-    [ "Reset", "d4/d79/a27492.html#a007c9c7a4047374574cad17e9309d7c1", null ],
-    [ "SpellHit", "d4/d79/a27492.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
-    [ "UpdateAI", "d4/d79/a27492.html#a54d0a5574175747779878dce0ebfd44f", null ],
-    [ "_scheduler", "d4/d79/a27492.html#a60428fa97c8f6520338d53ed368c4c35", null ],
-    [ "Coord", "d4/d79/a27492.html#af5a6f87c0379edd07a8756018b0c8661", null ],
-    [ "DoctorGUID", "d4/d79/a27492.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
+    [ "npc_spring_rabbitAI", "d4/d79/a27492.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
+    [ "DoAction", "d4/d79/a27492.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
+    [ "JustEngagedWith", "d4/d79/a27492.html#a0c36f1dfc094007990f067544a940538", null ],
+    [ "Reset", "d4/d79/a27492.html#ac0f6b47044099016dd6453674b75b2c8", null ],
+    [ "UpdateAI", "d4/d79/a27492.html#af9da118068234755fa9219b84050d2a3", null ],
+    [ "bunnyTimer", "d4/d79/a27492.html#a99c2923194cf6a07bee8924abf98f470", null ],
+    [ "inLove", "d4/d79/a27492.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
+    [ "jumpTimer", "d4/d79/a27492.html#a5c17e00187ac87b23482dfbabb89809b", null ],
+    [ "rabbitGUID", "d4/d79/a27492.html#af838b25c8442767aaef16e95022cb062", null ],
+    [ "searchTimer", "d4/d79/a27492.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
 ];

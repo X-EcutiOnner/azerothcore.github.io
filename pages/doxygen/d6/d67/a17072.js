@@ -1,6 +1,6 @@
 var a17072 =
 [
-    [ "boss_moorabiAI", "d5/d29/a17076.html", "d5/d29/a17076" ],
-    [ "boss_moorabi", "d6/d67/a17072.html#a94e14b2a9b06143985f785e781d1c302", null ],
-    [ "GetAI", "d6/d67/a17072.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
+    [ "HandlePeriodic", "d6/d67/a17072.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "d6/d67/a17072.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "d6/d67/a17072.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

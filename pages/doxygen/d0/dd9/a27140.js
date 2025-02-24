@@ -1,6 +1,5 @@
 var a27140 =
 [
-    [ "go_heatAI", "d7/d19/a27144.html", "d7/d19/a27144" ],
-    [ "go_heat", "d0/dd9/a27140.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
-    [ "GetAI", "d0/dd9/a27140.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
+    [ "go_jump_a_tron", "d0/dd9/a27140.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
+    [ "OnGossipHello", "d0/dd9/a27140.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
 ];

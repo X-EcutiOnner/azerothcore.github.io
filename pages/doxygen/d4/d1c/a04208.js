@@ -1,4 +1,5 @@
 var a04208 =
 [
-    [ "LogMessage", "db/dc8/a05314.html", "db/dc8/a05314" ]
+    [ "Appender", "d0/d27/a05296.html", "d0/d27/a05296" ],
+    [ "InvalidAppenderArgsException", "d1/d9e/a05300.html", "d1/d9e/a05300" ]
 ];

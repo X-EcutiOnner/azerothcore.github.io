@@ -1,10 +1,10 @@
 var a14508 =
 [
-    [ "npc_hyjal_gargoyle", "d3/dc0/a14508.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
-    [ "AttackStart", "d3/dc0/a14508.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
-    [ "DoAction", "d3/dc0/a14508.html#ae213c71426f438dd2b27699d7de23664", null ],
-    [ "JustEngagedWith", "d3/dc0/a14508.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
-    [ "PathEndReached", "d3/dc0/a14508.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
-    [ "Reset", "d3/dc0/a14508.html#af314bb183bde44680eeb136d2a08c142", null ],
-    [ "UpdateAI", "d3/dc0/a14508.html#ac1ca0648b08430a8bcbf99980222b684", null ]
+    [ "hyjalJainaAI", "d3/dc0/a14508.html#aa7532b691e85fd9bd467e20db39c59da", null ],
+    [ "IsSummonedBy", "d3/dc0/a14508.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
+    [ "JustDied", "d3/dc0/a14508.html#a605687080e5149b3f08ce8349ba9b336", null ],
+    [ "JustEngagedWith", "d3/dc0/a14508.html#a187efe775b1e2a35637638507e77352e", null ],
+    [ "PathEndReached", "d3/dc0/a14508.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
+    [ "Reset", "d3/dc0/a14508.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
+    [ "UpdateAI", "d3/dc0/a14508.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
 ];

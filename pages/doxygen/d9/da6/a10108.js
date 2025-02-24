@@ -1,17 +1,12 @@
 var a10108 =
 [
-    [ "WorldScript", "d9/da6/a10108.html#a89b4180130e22738c2898562de6b9145", null ],
-    [ "OnAfterConfigLoad", "d9/da6/a10108.html#affadabcae325631b2683ef458c6d13ee", null ],
-    [ "OnAfterUnloadAllMaps", "d9/da6/a10108.html#a15bc203d07dd2fef96c2a6d13d3ddd44", null ],
-    [ "OnBeforeConfigLoad", "d9/da6/a10108.html#a78baa1285b6495d7beace131dfba8400", null ],
-    [ "OnBeforeFinalizePlayerWorldSession", "d9/da6/a10108.html#a480e411f6178e5128bc5e760d9f36d99", null ],
-    [ "OnBeforeWorldInitialized", "d9/da6/a10108.html#a8ec0a2cc97986db07698392e5c503571", null ],
-    [ "OnLoadCustomDatabaseTable", "d9/da6/a10108.html#af9c5296102d7ef0f716796788650ec4d", null ],
-    [ "OnMotdChange", "d9/da6/a10108.html#ad0a3e20b5732613f5f11da3c97328a8c", null ],
-    [ "OnOpenStateChange", "d9/da6/a10108.html#a7eab4282e8be8ef2a643478f9fe6e0e2", null ],
-    [ "OnShutdown", "d9/da6/a10108.html#a3578707d9be5da90530633a93b4b2bf8", null ],
-    [ "OnShutdownCancel", "d9/da6/a10108.html#a322bd84359ac77369d9aa84bc8bf9649", null ],
-    [ "OnShutdownInitiate", "d9/da6/a10108.html#a83c76efd3de10b0a35c4a311c44d13c1", null ],
-    [ "OnStartup", "d9/da6/a10108.html#a117234aac087ec653c83cfe01a6dce7a", null ],
-    [ "OnUpdate", "d9/da6/a10108.html#ad28857965a9f6f993a47c95af6d9c5ad", null ]
+    [ "QuestLocale", "d9/da6/a10108.html#a887d474a470ee0278fb4b465a7ad9547", null ],
+    [ "AreaDescription", "d9/da6/a10108.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
+    [ "CompletedText", "d9/da6/a10108.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
+    [ "Details", "d9/da6/a10108.html#afd23d37c92f2b28e1c125bba0d670497", null ],
+    [ "Objectives", "d9/da6/a10108.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
+    [ "ObjectiveText", "d9/da6/a10108.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
+    [ "OfferRewardText", "d9/da6/a10108.html#aaba6d07625232a77e3457454f7d4fa77", null ],
+    [ "RequestItemsText", "d9/da6/a10108.html#a764d2092084454844e59c484fb637017", null ],
+    [ "Title", "d9/da6/a10108.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
 ];

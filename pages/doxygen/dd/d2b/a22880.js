@@ -1,10 +1,8 @@
 var a22880 =
 [
-    [ "CalculateAmount", "dd/d2b/a22880.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
-    [ "CheckProc", "dd/d2b/a22880.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
-    [ "HandleProc", "dd/d2b/a22880.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
-    [ "PrepareAuraScript", "dd/d2b/a22880.html#a6e066884663276dbba82e46ca5f66e59", null ],
-    [ "Register", "dd/d2b/a22880.html#ac4154f0746e77229e8d349021d5b9c30", null ],
-    [ "Update", "dd/d2b/a22880.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
-    [ "Validate", "dd/d2b/a22880.html#a4f10d23f63c47b408b70373623b877a8", null ]
+    [ "instance_black_temple_InstanceMapScript", "dd/d2b/a22880.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "dd/d2b/a22880.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "dd/d2b/a22880.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "dd/d2b/a22880.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "dd/d2b/a22880.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

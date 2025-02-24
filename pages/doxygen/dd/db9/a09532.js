@@ -1,15 +1,7 @@
 var a09532 =
 [
-    [ "const_iterator", "dd/db9/a09532.html#a78bdb53e78488faa65effb2706140558", null ],
-    [ "iterator", "dd/db9/a09532.html#aff8f555370355b24f386c86d2f900bc3", null ],
-    [ "begin", "dd/db9/a09532.html#a6774b551f0d64628e33594c7b486a872", null ],
-    [ "begin", "dd/db9/a09532.html#a3ba9493437881e83c07f07cc992c274a", null ],
-    [ "end", "dd/db9/a09532.html#af488c0096775085791b5fbc89e5851a0", null ],
-    [ "end", "dd/db9/a09532.html#acb8ebd37d1458773b65311060e844e4b", null ],
-    [ "getFirst", "dd/db9/a09532.html#a2981143744c8e08a42104a5d08659be4", null ],
-    [ "getFirst", "dd/db9/a09532.html#a4d5eb2b65f0a586a3e809acb2c26f6cb", null ],
-    [ "getLast", "dd/db9/a09532.html#ab9c66d320815602126292a14cae69872", null ],
-    [ "getLast", "dd/db9/a09532.html#a6f7379252f5907d9240e3d364d3a8c02", null ],
-    [ "rbegin", "dd/db9/a09532.html#a147b3fe09037c1b80bb122c627000b0a", null ],
-    [ "rend", "dd/db9/a09532.html#afb985b9c750f3ff01cb1adaa6f86c78f", null ]
+    [ "AddonHandler", "dd/db9/a09532.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
+    [ "~AddonHandler", "dd/db9/a09532.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
+    [ "BuildAddonPacket", "dd/db9/a09532.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
+    [ "instance", "dd/db9/a09532.html#a2925b829b803dd07e96685086357ef85", null ]
 ];

@@ -1,6 +1,9 @@
 var a22860 =
 [
-    [ "boss_essence_of_angerAI", "da/dce/a22864.html", "da/dce/a22864" ],
-    [ "boss_essence_of_anger", "d4/dfa/a22860.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "d4/dfa/a22860.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "boss_najentus", "d4/dfa/a22860.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "d4/dfa/a22860.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "d4/dfa/a22860.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "d4/dfa/a22860.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "d4/dfa/a22860.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "d4/dfa/a22860.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

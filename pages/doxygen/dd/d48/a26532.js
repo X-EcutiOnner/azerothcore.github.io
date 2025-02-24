@@ -1,7 +1,8 @@
 var a26532 =
 [
-    [ "HandleEffect", "dd/d48/a26532.html#ab33c9312c9ac4096140a82f381d83235", null ],
-    [ "PrepareSpellScript", "dd/d48/a26532.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
-    [ "Register", "dd/d48/a26532.html#a1f5983124756eca5666ca6adbe5a4544", null ],
-    [ "Validate", "dd/d48/a26532.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
+    [ "CheckFireTotem", "dd/d48/a26532.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "dd/d48/a26532.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "dd/d48/a26532.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "dd/d48/a26532.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "dd/d48/a26532.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

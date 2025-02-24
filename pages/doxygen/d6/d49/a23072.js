@@ -1,6 +1,10 @@
 var a23072 =
 [
-    [ "OnPeriodic", "d6/d49/a23072.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
-    [ "PrepareAuraScript", "d6/d49/a23072.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
-    [ "Register", "d6/d49/a23072.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
+    [ "boss_morogrim_tidewalker", "d6/d49/a23072.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "d6/d49/a23072.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "d6/d49/a23072.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "d6/d49/a23072.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "d6/d49/a23072.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "d6/d49/a23072.html#a78ed1d1f8c55407497a4fb679587975d", null ],
+    [ "_recentlySpoken", "d6/d49/a23072.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
 ];

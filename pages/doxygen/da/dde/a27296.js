@@ -1,10 +1,10 @@
 var a27296 =
 [
-    [ "guard_shattrath_scryerAI", "da/dde/a27296.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "da/dde/a27296.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "da/dde/a27296.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "da/dde/a27296.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "da/dde/a27296.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "da/dde/a27296.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "da/dde/a27296.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "npc_prof_tailor", "da/dde/a27296.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
+    [ "HasTailorSpell", "da/dde/a27296.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
+    [ "OnGossipHello", "da/dde/a27296.html#a686098ac43916ea2f82b7c321527863d", null ],
+    [ "OnGossipSelect", "da/dde/a27296.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
+    [ "SendActionMenu", "da/dde/a27296.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
+    [ "SendConfirmLearn", "da/dde/a27296.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
+    [ "SendConfirmUnlearn", "da/dde/a27296.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
 ];

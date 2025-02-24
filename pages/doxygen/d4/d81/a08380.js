@@ -1,11 +1,10 @@
 var a08380 =
 [
-    [ "FriendInfo", "d4/d81/a08380.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
-    [ "FriendInfo", "d4/d81/a08380.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
-    [ "Area", "d4/d81/a08380.html#adf16884b55545ed9302dbb54d653867b", null ],
-    [ "Class", "d4/d81/a08380.html#a8b797fcfda05d52d4297f32e458be519", null ],
-    [ "Flags", "d4/d81/a08380.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
-    [ "Level", "d4/d81/a08380.html#a70d9a74f4587f648db5bf49b61091213", null ],
-    [ "Note", "d4/d81/a08380.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
-    [ "Status", "d4/d81/a08380.html#a380f11d65b34e1e598b7861987cecfe6", null ]
+    [ "ObjectGuidGeneratorBase", "d4/d81/a08380.html#a8af6741cc884915ee86b489fc970fed1", null ],
+    [ "~ObjectGuidGeneratorBase", "d4/d81/a08380.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
+    [ "Generate", "d4/d81/a08380.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
+    [ "GetNextAfterMaxUsed", "d4/d81/a08380.html#abf1f20b97af8071459bd850e7106a442", null ],
+    [ "HandleCounterOverflow", "d4/d81/a08380.html#ada7a44ac47b112491c575c38465740fc", null ],
+    [ "Set", "d4/d81/a08380.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
+    [ "_nextGuid", "d4/d81/a08380.html#a4a14102e019aa10f41b050054cacca22", null ]
 ];

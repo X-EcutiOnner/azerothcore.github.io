@@ -1,9 +1,8 @@
 var a21588 =
 [
-    [ "npc_counselor_talbotAI", "d0/dc2/a21588.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
-    [ "JustDied", "d0/dc2/a21588.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
-    [ "JustEngagedWith", "d0/dc2/a21588.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
-    [ "Reset", "d0/dc2/a21588.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
-    [ "UpdateAI", "d0/dc2/a21588.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
-    [ "_events", "d0/dc2/a21588.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
+    [ "npc_future_youAI", "d0/dc2/a21588.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "d0/dc2/a21588.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "d0/dc2/a21588.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "d0/dc2/a21588.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "d0/dc2/a21588.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

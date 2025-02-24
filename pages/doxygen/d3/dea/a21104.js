@@ -1,6 +1,7 @@
 var a21104 =
 [
-    [ "npc_ritual_channelerAI", "dd/d87/a21108.html", "dd/d87/a21108" ],
-    [ "npc_ritual_channeler", "d3/dea/a21104.html#adab372002549b009e3f937ec67e49f3f", null ],
-    [ "GetAI", "d3/dea/a21104.html#aa416545438d701cbfc2567ba5ae536c8", null ]
+    [ "HandleDummy", "d3/dea/a21104.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "d3/dea/a21104.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "d3/dea/a21104.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "d3/dea/a21104.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

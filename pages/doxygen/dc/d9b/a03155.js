@@ -1,6 +1,7 @@
 var a03155 =
 [
-    [ "BG_SA_BOAT_START", "dc/d9b/a03155.html#a2ec6635cf59771fcfd56b16cd670eebc", null ],
-    [ "BG_SA_ROUNDLENGTH", "dc/d9b/a03155.html#a1197e8f288608511601a41e8e8ea80ce", null ],
-    [ "BG_SA_WARMUPLENGTH", "dc/d9b/a03155.html#a7447506b77b9babea7568349335ea705", null ]
+    [ "ArenaTeamMgr", "df/d74/a07232.html", "df/d74/a07232" ],
+    [ "sArenaTeamMgr", "dc/d9b/a03155.html#a94afc7262fb2f00293dc80de8ba547df", null ],
+    [ "MAX_ARENA_TEAM_ID", "dc/d9b/a03155.html#aa472ba6cfd587021965aece0e77797b7", null ],
+    [ "MAX_TEMP_ARENA_TEAM_ID", "dc/d9b/a03155.html#ade4bc52db611f6481d3c8f5e6f346b4c", null ]
 ];

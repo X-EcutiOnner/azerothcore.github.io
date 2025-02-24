@@ -1,6 +1,10 @@
 var a26408 =
 [
-    [ "PrepareSpellScript", "d1/df2/a26408.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
-    [ "Register", "d1/df2/a26408.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
-    [ "SetDest", "d1/df2/a26408.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
+    [ "CheckProc", "d1/df2/a26408.html#a5971c42af47d1cc8045a130deb218a04", null ],
+    [ "HandleProc", "d1/df2/a26408.html#a45aaf5afebc2fa533240fcf8233430ed", null ],
+    [ "Load", "d1/df2/a26408.html#a7664b0f67c9e3b14841ed9e30447544d", null ],
+    [ "PrepareAuraScript", "d1/df2/a26408.html#a291fcf1af497d1e83a31209cd01a360d", null ],
+    [ "Register", "d1/df2/a26408.html#af16d0517ad07a454145da0b92c051740", null ],
+    [ "Validate", "d1/df2/a26408.html#ac768a5f4738dee9ad7d885fa6136785e", null ],
+    [ "_procTargetGUID", "d1/df2/a26408.html#a13976d069846f29d2f744f3f03502787", null ]
 ];

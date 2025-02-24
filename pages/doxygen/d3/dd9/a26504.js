@@ -1,7 +1,9 @@
 var a26504 =
 [
-    [ "HandleEffectPeriodic", "d3/dd9/a26504.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
-    [ "PrepareAuraScript", "d3/dd9/a26504.html#ae151331af09510cc91b63b65a30bdcbf", null ],
-    [ "Register", "d3/dd9/a26504.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
-    [ "Validate", "d3/dd9/a26504.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
+    [ "HandleHeal", "d3/dd9/a26504.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "d3/dd9/a26504.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "d3/dd9/a26504.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "d3/dd9/a26504.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "d3/dd9/a26504.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "d3/dd9/a26504.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

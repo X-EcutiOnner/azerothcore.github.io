@@ -1,5 +1,6 @@
 var a10280 =
 [
-    [ "AcceptGuildInvite", "dc/d3a/a10280.html#a4453fc550871082f6295d9229eef265a", null ],
-    [ "Read", "dc/d3a/a10280.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
+    [ "LootScript", "dc/d3a/a10280.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
+    [ "IsDatabaseBound", "dc/d3a/a10280.html#ad60b605eac89be48efd339127e9cb9cd", null ],
+    [ "OnLootMoney", "dc/d3a/a10280.html#a56a57baead49f6815a9979b181a55375", null ]
 ];

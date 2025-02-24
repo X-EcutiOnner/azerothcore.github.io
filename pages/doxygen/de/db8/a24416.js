@@ -1,6 +1,10 @@
 var a24416 =
 [
-    [ "FilterTargets", "de/db8/a24416.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "de/db8/a24416.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "de/db8/a24416.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "CheckProc", "de/db8/a24416.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02", null ],
+    [ "HandleProc", "de/db8/a24416.html#ac90b54e946baa80589cab2f66aca1f5f", null ],
+    [ "Load", "de/db8/a24416.html#ada85014de8a3602e83912d5e1a0165c5", null ],
+    [ "PrepareAuraScript", "de/db8/a24416.html#a769f2b77b2972c40e3e43e70d2ff5820", null ],
+    [ "Register", "de/db8/a24416.html#ab8a35292c0d4d392d9dd9db438d59cc4", null ],
+    [ "Validate", "de/db8/a24416.html#aba8bd9ae5ec9e92eccb04163114c4802", null ],
+    [ "_procTarget", "de/db8/a24416.html#a0c3ba33c7117195dac4c1df3a6e8529a", null ]
 ];

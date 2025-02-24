@@ -1,14 +1,11 @@
 var a22496 =
 [
-    [ "OutdoorPvPNA", "d8/de8/a22496.html#acbdae42245c71e4274296649d8d08e9e", null ],
-    [ "FillInitialWorldStates", "d8/de8/a22496.html#ac4eaab1f8d69ac45f168899267801198", null ],
-    [ "GetCapturePoint", "d8/de8/a22496.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
-    [ "HandleKill", "d8/de8/a22496.html#ab55683b771104878c69239314a9782f4", null ],
-    [ "HandleKillImpl", "d8/de8/a22496.html#a2ede6e7dc54424d9729a094557b14792", null ],
-    [ "HandlePlayerEnterZone", "d8/de8/a22496.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
-    [ "HandlePlayerLeaveZone", "d8/de8/a22496.html#ae7dd540746946513cd7bf8e29296c068", null ],
-    [ "SendRemoveWorldStates", "d8/de8/a22496.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
-    [ "SetupOutdoorPvP", "d8/de8/a22496.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
-    [ "Update", "d8/de8/a22496.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
-    [ "m_obj", "d8/de8/a22496.html#a7538d64bb494644eae3cc7db03dd631f", null ]
+    [ "boss_talon_king_ikiss", "d8/de8/a22496.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "CanAIAttack", "d8/de8/a22496.html#ab4858d845f149b6333941d8f8ab59afb", null ],
+    [ "JustDied", "d8/de8/a22496.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d8/de8/a22496.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d8/de8/a22496.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d8/de8/a22496.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d8/de8/a22496.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d8/de8/a22496.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

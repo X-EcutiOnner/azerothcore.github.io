@@ -1,7 +1,10 @@
 var a09836 =
 [
-    [ "ownerGuid", "df/da6/a09836.html#a7c66ffa9f54768a0e81f61e5bcdde014", null ],
-    [ "petitionGuid", "df/da6/a09836.html#a1bbf412a221b76c4a20765d9a6612182", null ],
-    [ "petitionName", "df/da6/a09836.html#a91c81356e9aa77641eaa881cd04af5af", null ],
-    [ "petitionType", "df/da6/a09836.html#aeaf6c421d7545cf98d88b4e552dcff23", null ]
+    [ "ID", "df/da6/a09836.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
+    [ "Map", "df/da6/a09836.html#af4e60380e8434e5b8f573d2172ddf656", null ],
+    [ "name", "df/da6/a09836.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
+    [ "wnameLow", "df/da6/a09836.html#a148ead3270ad02213204792d6063cead", null ],
+    [ "x", "df/da6/a09836.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
+    [ "y", "df/da6/a09836.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
+    [ "z", "df/da6/a09836.html#adf56d09898752230a4fa1629849ac945", null ]
 ];

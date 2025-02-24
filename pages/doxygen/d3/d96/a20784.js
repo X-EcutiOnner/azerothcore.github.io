@@ -1,11 +1,8 @@
 var a20784 =
 [
-    [ "boss_yoggsaron_lich_kingAI", "d3/d96/a20784.html#a4fcf1be1bc20327ff8daf9c79baabde7", null ],
-    [ "NextStep", "d3/d96/a20784.html#a4f99e511d6296b56df8ab8fbe53620e6", null ],
-    [ "Reset", "d3/d96/a20784.html#a4c8f098f245e90685f0f3660028500a8", null ],
-    [ "Say", "d3/d96/a20784.html#a01217dd4c33b0ccae448aa137e83dd9b", null ],
-    [ "UpdateAI", "d3/d96/a20784.html#a3cbe18164c993fd034242b3f19d27e31", null ],
-    [ "_checkTimer", "d3/d96/a20784.html#a8f0234b32612ff56ac6a7429f6e4da09", null ],
-    [ "_running", "d3/d96/a20784.html#a9d7f0f2a8cf4f421253c8c5a6ec98111", null ],
-    [ "_step", "d3/d96/a20784.html#a6af98b3daace7852a485983167538f85", null ]
+    [ "FilterTargets", "d3/d96/a20784.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
+    [ "HandleDummyEffect", "d3/d96/a20784.html#afbf3aab6724d12426ab0197fb9459562", null ],
+    [ "PrepareSpellScript", "d3/d96/a20784.html#a7ec441904bc100c6b15ee219617489ff", null ],
+    [ "Register", "d3/d96/a20784.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
+    [ "Validate", "d3/d96/a20784.html#a85388adbc15d449e687f9f463cce3833", null ]
 ];

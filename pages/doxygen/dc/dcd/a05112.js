@@ -1,9 +1,11 @@
 var a05112 =
 [
-    [ "FactoryHolderRegistry", "dc/dcd/a05112.html#a5384598eca62a35bc617a4c395353ecd", null ],
-    [ "FactoryHolder", "dc/dcd/a05112.html#a5e7097c2a475378023f33ec430f4ca85", null ],
-    [ "~FactoryHolder", "dc/dcd/a05112.html#a78673bd2f3d857127c1a91c49e3cd62f", null ],
-    [ "Create", "dc/dcd/a05112.html#a7072fb7dfe99890dea89b1ba661eb3ce", null ],
-    [ "RegisterSelf", "dc/dcd/a05112.html#a9e173f9daaf5c2de36bb8b46da4249e1", null ],
-    [ "_key", "dc/dcd/a05112.html#a98c0e66f8caaa207771efd82b2c2f9aa", null ]
+    [ "ARC4", "dc/dcd/a05112.html#ac05d4f85233abfc5cbcb87cd2a87bc5a", null ],
+    [ "~ARC4", "dc/dcd/a05112.html#af3a8b63c2073120026c262a685eef8f2", null ],
+    [ "Init", "dc/dcd/a05112.html#a68993c30cafb864abd5ae0c49ee8296e", null ],
+    [ "Init", "dc/dcd/a05112.html#aaa9c89da159b57a897898bc31e10ecd4", null ],
+    [ "UpdateData", "dc/dcd/a05112.html#ae350945f2713305e977e4a3e4fc3d5b5", null ],
+    [ "UpdateData", "dc/dcd/a05112.html#a4023480221891e0d1ccd7a92aabd173c", null ],
+    [ "_cipher", "dc/dcd/a05112.html#ab017c87cd73a9b5fade745799724c333", null ],
+    [ "_ctx", "dc/dcd/a05112.html#a8539413b1e0344abe9545f742cc8e6df", null ]
 ];

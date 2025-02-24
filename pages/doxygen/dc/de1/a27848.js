@@ -1,7 +1,6 @@
 var a27848 =
 [
-    [ "HandleDummy", "dc/de1/a27848.html#ac3486a646322ef1b6098eeeedaec7d4b", null ],
-    [ "PrepareSpellScript", "dc/de1/a27848.html#a455bdb8fb98431d47b3e414dc3b59b13", null ],
-    [ "Register", "dc/de1/a27848.html#acdade97c38a75439b3da751a0c348e37", null ],
-    [ "Validate", "dc/de1/a27848.html#a2081334e6b7a4191801bc0556e26198c", null ]
+    [ "AreaGroupId", "dc/de1/a27848.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "dc/de1/a27848.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "dc/de1/a27848.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

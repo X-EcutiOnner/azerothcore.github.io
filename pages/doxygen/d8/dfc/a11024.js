@@ -1,6 +1,9 @@
 var a11024 =
 [
-    [ "EffectAbsorbHandler", "d8/dfc/a11024.html#a29bb773b8271acf651b08f33ce358720", null ],
-    [ "Call", "d8/dfc/a11024.html#a56bfb0fd0d860678920445d1182c09ef", null ],
-    [ "pEffectHandlerScript", "d8/dfc/a11024.html#a519489b8d951173a806e86cfe075faf1", null ]
+    [ "SpellEvent", "d8/dfc/a11024.html#abca64eb7d39df9788cef9df7e8634368", null ],
+    [ "~SpellEvent", "d8/dfc/a11024.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
+    [ "Abort", "d8/dfc/a11024.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
+    [ "Execute", "d8/dfc/a11024.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
+    [ "IsDeletable", "d8/dfc/a11024.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
+    [ "m_Spell", "d8/dfc/a11024.html#a22cce1d722f5086932ae3e97c58d2921", null ]
 ];

@@ -1,6 +1,6 @@
 var a11040 =
 [
-    [ "AfterCheckProcHandler", "da/dbf/a11040.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
-    [ "Call", "da/dbf/a11040.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
-    [ "_HandlerScript", "da/dbf/a11040.html#af5a393efc729e8588c0fc425fdfead99", null ]
+    [ "ChannelTargetData", "da/dbf/a11040.html#a26f2a2037750712d8718d9537603e3a1", null ],
+    [ "channelGUID", "da/dbf/a11040.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
+    [ "spellDst", "da/dbf/a11040.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
 ];

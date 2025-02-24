@@ -1,6 +1,13 @@
 var a18812 =
 [
-    [ "boss_anubrekhanAI", "da/dc4/a18816.html", "da/dc4/a18816" ],
-    [ "boss_anubrekhan", "de/d0b/a18812.html#a6ff866300f8b0b58d4b7467def9747c0", null ],
-    [ "GetAI", "de/d0b/a18812.html#aba5c31f182d6f600302f84ed21e9f7e9", null ]
+    [ "boss_anubrekhanAI", "de/d0b/a18812.html#a6ff658a5aab3b13c4594f5bc44a62818", null ],
+    [ "JustDied", "de/d0b/a18812.html#a8a32a256b39558e802d45ae5f4038b79", null ],
+    [ "JustEngagedWith", "de/d0b/a18812.html#a0cd5bd7a04b52abcc23a2131d5cbfd2e", null ],
+    [ "JustSummoned", "de/d0b/a18812.html#a9fa11bc9192f0b75220383b3ef876219", null ],
+    [ "KilledUnit", "de/d0b/a18812.html#a9070ebcd6ca976fc89af88b3de177bcc", null ],
+    [ "MoveInLineOfSight", "de/d0b/a18812.html#a75dd903dd059a0fe20e291713e880bc3", null ],
+    [ "Reset", "de/d0b/a18812.html#acd6ae267a6848e146128d56196d1af79", null ],
+    [ "SummonCryptGuards", "de/d0b/a18812.html#a1dbf747694350bdc835f19ed0b22741c", null ],
+    [ "SummonedCreatureDies", "de/d0b/a18812.html#a4889de03a80cc4c3bc0fd41042d1d905", null ],
+    [ "sayGreet", "de/d0b/a18812.html#ab2210c62a9a21f426f0ef0b1b1d27162", null ]
 ];

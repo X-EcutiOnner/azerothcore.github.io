@@ -1,6 +1,6 @@
 var a16256 =
 [
-    [ "npc_toc_warlockAI", "dd/d91/a16260.html", "dd/d91/a16260" ],
-    [ "npc_toc_warlock", "d3/d82/a16256.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
-    [ "GetAI", "d3/d82/a16256.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
+    [ "npc_toc_priestAI", "dd/d91/a16260.html", "dd/d91/a16260" ],
+    [ "npc_toc_priest", "d3/d82/a16256.html#a0e360a2cc053434d2f76826683da8eee", null ],
+    [ "GetAI", "d3/d82/a16256.html#a6056a81bef962a02537d525f07d1c302", null ]
 ];

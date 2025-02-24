@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: LinkValidator&lt; LinkTags::spell &gt; Struct Reference</title>
+<title>AzerothCore: Acore::Impl::ChatCommands::MultiConsumer&lt; Tuple, NextType, offset &gt; Struct Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,81 +107,48 @@ $(document).ready(function(){initNavTree('d7/da8/a07480.html','../../'); initRes
   <div class="summary">
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../d7/dbc/a07477.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">LinkValidator&lt; LinkTags::spell &gt; Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Impl::ChatCommands::MultiConsumer&lt; Tuple, NextType, offset &gt; Struct Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">ChatCommand.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a54af0b68fa7891adbc3001c74e251ea1"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da8/a07480.html#a54af0b68fa7891adbc3001c74e251ea1">IsTextValid</a> (<a class="el" href="../../d4/d06/a10868.html">SpellInfo</a> const *info, std::string_view text)</td></tr>
-<tr class="separator:a54af0b68fa7891adbc3001c74e251ea1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a816b3afba97af88a04cd5a724e9b663c"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da8/a07480.html#a816b3afba97af88a04cd5a724e9b663c">IsColorValid</a> (<a class="el" href="../../d4/d06/a10868.html">SpellInfo</a> const *, <a class="el" href="../../dc/d12/a07560.html">HyperlinkColor</a> c)</td></tr>
-<tr class="separator:a816b3afba97af88a04cd5a724e9b663c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad64b76886d0118c6997cae9ff27dfd34"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d1/d36/a07620.html">ChatCommandResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da8/a07480.html#ad64b76886d0118c6997cae9ff27dfd34">TryConsumeTo</a> (Tuple &amp;tuple, <a class="el" href="../../d7/d19/a07464.html">ChatHandler</a> const *handler, std::string_view args)</td></tr>
+<tr class="separator:ad64b76886d0118c6997cae9ff27dfd34"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a816b3afba97af88a04cd5a724e9b663c" name="a816b3afba97af88a04cd5a724e9b663c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a816b3afba97af88a04cd5a724e9b663c">&#9670;&#160;</a></span>IsColorValid()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;typename Tuple, typename NextType, std::size_t offset&gt;<br />
+struct Acore::Impl::ChatCommands::MultiConsumer&lt; Tuple, NextType, offset &gt;</div></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="ad64b76886d0118c6997cae9ff27dfd34" name="ad64b76886d0118c6997cae9ff27dfd34"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad64b76886d0118c6997cae9ff27dfd34">&#9670;&#160;</a></span>TryConsumeTo()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename Tuple , typename NextType , std::size_t offset&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool <a class="el" href="../../d7/d19/a07464.html">LinkValidator</a>&lt; <a class="el" href="../../d4/d81/a07548.html">LinkTags::spell</a> &gt;::IsColorValid </td>
+          <td class="memname">static <a class="el" href="../../d1/d36/a07620.html">ChatCommandResult</a> <a class="el" href="../../d7/da8/a07480.html">Acore::Impl::ChatCommands::MultiConsumer</a>&lt; Tuple, NextType, offset &gt;::TryConsumeTo </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d06/a10868.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname">, </td>
+          <td class="paramtype">Tuple &amp;&#160;</td>
+          <td class="paramname"><em>tuple</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../dc/d12/a07560.html">HyperlinkColor</a>&#160;</td>
-          <td class="paramname"><em>c</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  229</span>    {</div>
-<div class="line"><span class="lineno">  230</span>        <span class="keywordflow">return</span> c == <a class="code hl_enumvalue" href="../../da/d34/a04592.html#aff4462a11392766622feb9f20463ffb6a56dac043536cc715837469acf48edda1">CHAT_LINK_COLOR_SPELL</a>;</div>
-<div class="line"><span class="lineno">  231</span>    }</div>
-<div class="ttc" id="aa04592_html_aff4462a11392766622feb9f20463ffb6a56dac043536cc715837469acf48edda1"><div class="ttname"><a href="../../da/d34/a04592.html#aff4462a11392766622feb9f20463ffb6a56dac043536cc715837469acf48edda1">CHAT_LINK_COLOR_SPELL</a></div><div class="ttdeci">@ CHAT_LINK_COLOR_SPELL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3212</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l03212">CHAT_LINK_COLOR_SPELL</a>.</p>
-
-</div>
-</div>
-<a id="a54af0b68fa7891adbc3001c74e251ea1" name="a54af0b68fa7891adbc3001c74e251ea1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a54af0b68fa7891adbc3001c74e251ea1">&#9670;&#160;</a></span>IsTextValid()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static bool <a class="el" href="../../d7/d19/a07464.html">LinkValidator</a>&lt; <a class="el" href="../../d4/d81/a07548.html">LinkTags::spell</a> &gt;::IsTextValid </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d06/a10868.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname"><em>info</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d7/d19/a07464.html">ChatHandler</a> const *&#160;</td>
+          <td class="paramname"><em>handler</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>text</em>&#160;</td>
+          <td class="paramname"><em>args</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -195,17 +162,15 @@ Static Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  221</span>    {</div>
-<div class="line"><span class="lineno">  222</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d4/ddf/a00488.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../dc/d87/a00032.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>; ++i)</div>
-<div class="line"><span class="lineno">  223</span>            <span class="keywordflow">if</span> (text == info-&gt;SpellName[i])</div>
-<div class="line"><span class="lineno">  224</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  225</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  226</span>    }</div>
-<div class="ttc" id="aa00032_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../dc/d87/a00032.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:76</div></div>
-<div class="ttc" id="aa00488_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d4/ddf/a00488.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   62</span>        {</div>
+<div class="line"><span class="lineno">   63</span>            <a class="code hl_struct" href="../../d1/d36/a07620.html">ChatCommandResult</a> next = ArgInfo&lt;NextType&gt;::TryConsume(std::get&lt;offset&gt;(tuple), handler, args);</div>
+<div class="line"><span class="lineno">   64</span>            <span class="keywordflow">if</span> (next)</div>
+<div class="line"><span class="lineno">   65</span>                <span class="keywordflow">return</span> ConsumeFromOffset&lt;Tuple, offset + 1&gt;(tuple, handler, *next);</div>
+<div class="line"><span class="lineno">   66</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   67</span>                <span class="keywordflow">return</span> next;</div>
+<div class="line"><span class="lineno">   68</span>        }</div>
+<div class="ttc" id="aa07620_html"><div class="ttname"><a href="../../d1/d36/a07620.html">Acore::Impl::ChatCommands::ChatCommandResult</a></div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.h:100</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00383">SpellInfo::SpellName</a>, and <a class="el" href="../../#l00076">TOTAL_LOCALES</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -213,8 +178,8 @@ Static Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/da8/a07480.html">LinkValidator&lt; LinkTags::spell &gt;</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:43:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/d86/a04746.html">Acore</a></li><li class="navelem"><a class="el" href="../../de/df1/a04758.html">Impl</a></li><li class="navelem"><a class="el" href="../../dd/dec/a04786.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../d7/da8/a07480.html">MultiConsumer</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:44:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

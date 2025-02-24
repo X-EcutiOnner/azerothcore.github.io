@@ -1,7 +1,12 @@
 var a22956 =
 [
-    [ "HandleOnHit", "dd/d2e/a22956.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "dd/d2e/a22956.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "dd/d2e/a22956.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "dd/d2e/a22956.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "boss_fathomlord_karathress", "dd/d2e/a22956.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "dd/d2e/a22956.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "dd/d2e/a22956.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "dd/d2e/a22956.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "dd/d2e/a22956.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "dd/d2e/a22956.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "dd/d2e/a22956.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "dd/d2e/a22956.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
+    [ "_recentlySpoken", "dd/d2e/a22956.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
 ];

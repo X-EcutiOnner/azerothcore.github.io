@@ -1,6 +1,7 @@
 var a26024 =
 [
-    [ "HandleEffectCalcSpellMod", "d6/d6d/a26024.html#a81395c735b9546632af71319067b575b", null ],
-    [ "PrepareAuraScript", "d6/d6d/a26024.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
-    [ "Register", "d6/d6d/a26024.html#ae49a0ec525819981595c12839133a35b", null ]
+    [ "HandleProc", "d6/d6d/a26024.html#a72463db57f87387aa3ff3175c45ca9df", null ],
+    [ "PrepareAuraScript", "d6/d6d/a26024.html#ae158b4b624b50ad984b2c5e9c16d7670", null ],
+    [ "Register", "d6/d6d/a26024.html#a2da64a27cfa5a68464f8f3a885e09751", null ],
+    [ "Validate", "d6/d6d/a26024.html#a798f51ee6333d3ebb2bbb617ea88ea2b", null ]
 ];

@@ -1,6 +1,7 @@
 var a23168 =
 [
-    [ "FilterTargets", "d6/d20/a23168.html#af545460920658bc8ee0444f7c0d51970", null ],
-    [ "PrepareSpellScript", "d6/d20/a23168.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
-    [ "Register", "d6/d20/a23168.html#ac12cde698f5b0bbcdf433821772c7519", null ]
+    [ "HandleScriptEffect", "d6/d20/a23168.html#ad5e905710a20436f120c979c865571c9", null ],
+    [ "PrepareSpellScript", "d6/d20/a23168.html#ab44aa98f47162b50f30622d67ac75395", null ],
+    [ "Register", "d6/d20/a23168.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
+    [ "Validate", "d6/d20/a23168.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
 ];

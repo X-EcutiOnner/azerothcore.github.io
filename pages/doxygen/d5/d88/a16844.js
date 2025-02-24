@@ -1,6 +1,9 @@
 var a16844 =
 [
-    [ "boss_garfrostAI", "de/d38/a16848.html", "de/d38/a16848" ],
-    [ "boss_garfrost", "d5/d88/a16844.html#ac116491cf252ee476cedee55ea292827", null ],
-    [ "GetAI", "d5/d88/a16844.html#a8a67bb09249655a8706868bb26b5124d", null ]
+    [ "FilterTargets", "d5/d88/a16844.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "d5/d88/a16844.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "d5/d88/a16844.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "d5/d88/a16844.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "d5/d88/a16844.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "targetList", "d5/d88/a16844.html#a3c839185938e0b67b97f652d1d15e213", null ]
 ];

@@ -1,6 +1,7 @@
 var a21756 =
 [
-    [ "SACActivateEvent", "d5/df5/a21756.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
-    [ "Execute", "d5/df5/a21756.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
-    [ "_owner", "d5/df5/a21756.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
+    [ "HandleScriptEffect", "d5/df5/a21756.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "d5/df5/a21756.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "d5/df5/a21756.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "d5/df5/a21756.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

@@ -1,7 +1,7 @@
 var a23956 =
 [
-    [ "HandleDummy", "d1/d8f/a23956.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d1/d8f/a23956.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d1/d8f/a23956.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d1/d8f/a23956.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "npc_bessyAI", "d3/d42/a23960.html", "d3/d42/a23960" ],
+    [ "npc_bessy", "d1/d8f/a23956.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d1/d8f/a23956.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d1/d8f/a23956.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

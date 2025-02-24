@@ -1,15 +1,13 @@
 var a12636 =
 [
-    [ "npc_koltira_deathweaverAI", "db/d10/a12636.html#adbc46fce90170aec986faacf012bd2b2", null ],
-    [ "AttackStart", "db/d10/a12636.html#aa219afbaedb108e7384479de3bbb4135", null ],
-    [ "EnterEvadeMode", "db/d10/a12636.html#aaf9e9df5a7124b4fe6b9348d5c8931fa", null ],
-    [ "JustSummoned", "db/d10/a12636.html#ae93b1dd675d2f2b8aca93e9ccff42a2e", null ],
-    [ "Reset", "db/d10/a12636.html#ac07053d3798d57449c23bfff68e12f1b", null ],
-    [ "SummonAcolyte", "db/d10/a12636.html#ac74e57e84fa6d1166fe950a46492cc2b", null ],
-    [ "UpdateAI", "db/d10/a12636.html#a87e87ebfaaf7a633f799d2a0f9df18ba", null ],
-    [ "WaypointReached", "db/d10/a12636.html#a5714e781a73cf2774aa21a083cd8301a", null ],
-    [ "m_uiValrothGUID", "db/d10/a12636.html#acee9c0c42cc8a692526ef73b19292ceb", null ],
-    [ "m_uiWave", "db/d10/a12636.html#a35ec3a0a78240966a0e06753873e5956", null ],
-    [ "m_uiWave_Timer", "db/d10/a12636.html#a8e94cd2de591f06e395f2d116e3e533b", null ],
-    [ "summons", "db/d10/a12636.html#a38fc03a63df38b02eab07f3bffd969da", null ]
+    [ "boss_crone", "db/d10/a12636.html#a710bdf6fac05be54cf10e40cd661c837", null ],
+    [ "EnterEvadeMode", "db/d10/a12636.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
+    [ "JustDied", "db/d10/a12636.html#a545de2a25b48590d11896c41b6e94df0", null ],
+    [ "JustEngagedWith", "db/d10/a12636.html#a9801cd39667d1a08770820bd17beac00", null ],
+    [ "JustReachedHome", "db/d10/a12636.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
+    [ "KilledUnit", "db/d10/a12636.html#ae4d343636955589d740d1df4e21fba99", null ],
+    [ "Reset", "db/d10/a12636.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
+    [ "UpdateAI", "db/d10/a12636.html#a8bd505acd55ca5292d29c96916a461e5", null ],
+    [ "_scheduler", "db/d10/a12636.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
+    [ "instance", "db/d10/a12636.html#a3795fe3185005693ed9bba49177bb35a", null ]
 ];

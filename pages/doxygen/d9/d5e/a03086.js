@@ -1,8 +1,8 @@
 var a03086 =
 [
-    [ "GUID_TRAIT_INSTANTIATE_GUID", "d9/d5e/a03086.html#a62c17cbc4f3da3f26f9c1ae3ba2c4953", null ],
-    [ "operator<<", "d9/d5e/a03086.html#a039758f4b57c94c411a4c3882334ada8", null ],
-    [ "operator<<", "d9/d5e/a03086.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
-    [ "operator>>", "d9/d5e/a03086.html#a30aef535f2839648f0ae4648c746d3e2", null ],
-    [ "operator>>", "d9/d5e/a03086.html#a95f3a6eef334b9fcdcaca879532c25d4", null ]
+    [ "CorpseUpdateFieldFlags", "d9/d5e/a03086.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
+    [ "DynamicObjectUpdateFieldFlags", "d9/d5e/a03086.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
+    [ "GameObjectUpdateFieldFlags", "d9/d5e/a03086.html#aee13b862f51557c371d3d93341128895", null ],
+    [ "ItemUpdateFieldFlags", "d9/d5e/a03086.html#ac1cca7ecf1650663132e3e220d771adf", null ],
+    [ "UnitUpdateFieldFlags", "d9/d5e/a03086.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
 ];

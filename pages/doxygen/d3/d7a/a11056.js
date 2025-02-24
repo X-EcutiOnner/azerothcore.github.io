@@ -1,12 +1,7 @@
 var a11056 =
 [
-    [ "BroadcastTextBuilder", "d3/d7a/a11056.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
-    [ "operator()", "d3/d7a/a11056.html#a16f9719278e00013c25902846fa1be5b", null ],
-    [ "operator()", "d3/d7a/a11056.html#ac87701626dddffb6b09bf504b97c4d55", null ],
-    [ "_achievementId", "d3/d7a/a11056.html#a82de25331657b17ce0de33f2b374abda", null ],
-    [ "_gender", "d3/d7a/a11056.html#a71032b0749dd75f552107503528e8166", null ],
-    [ "_msgType", "d3/d7a/a11056.html#a232325cefa217843da5cc6db7e5d80fe", null ],
-    [ "_source", "d3/d7a/a11056.html#ab73315225b3aa36a309f45596f7089f4", null ],
-    [ "_target", "d3/d7a/a11056.html#a958b154f3c82188e9684be0f0b7dae56", null ],
-    [ "_textId", "d3/d7a/a11056.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
+    [ "effectMask", "d3/d7a/a11056.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
+    [ "processed", "d3/d7a/a11056.html#aedfa36678be863a558ecd0ecc07cc544", null ],
+    [ "targetGUID", "d3/d7a/a11056.html#a619f98bf094d2667048204f733d64d0c", null ],
+    [ "timeDelay", "d3/d7a/a11056.html#ab552326c0780fe62ff95b02249458492", null ]
 ];

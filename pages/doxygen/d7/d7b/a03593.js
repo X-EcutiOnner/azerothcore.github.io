@@ -1,5 +1,4 @@
 var a03593 =
 [
-    [ "GridTerrainLoader", "d1/de0/a09098.html", "d1/de0/a09098" ],
-    [ "GridTerrainUnloader", "da/d80/a09102.html", "da/d80/a09102" ]
+    [ "MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES >", "d3/db5/a09120.html", "d3/db5/a09120" ]
 ];

@@ -1,18 +1,12 @@
 var a11996 =
 [
-    [ "boss_vaelAI", "d7/d7c/a11996.html#acc7eceafe9cc5a5cb5e7045d143d5ca6", null ],
-    [ "BeginSpeech", "d7/d7c/a11996.html#a448dcc64099fff57b4c18841f8715dbe", null ],
-    [ "Initialize", "d7/d7c/a11996.html#a4364710f3634b6caeea3b739efe7dc56", null ],
-    [ "JustEngagedWith", "d7/d7c/a11996.html#a860aa0077f235f652bd6f9a247a40e30", null ],
-    [ "JustSummoned", "d7/d7c/a11996.html#a6eb3e6649d0a476fc9b2c12107cea43b", null ],
-    [ "KilledUnit", "d7/d7c/a11996.html#a15e4df870d3c5263ab534cd1d2bb8a75", null ],
-    [ "Reset", "d7/d7c/a11996.html#a8aab1f11a688d05289bae6acf216cf1c", null ],
-    [ "sGossipSelect", "d7/d7c/a11996.html#abd3c8c7ab8d7af10ae297443ac24bd9c", null ],
-    [ "UpdateAI", "d7/d7c/a11996.html#a570948cbf0c2ddde65ca77092c4b37a3", null ],
-    [ "_burningAdrenalineCast", "d7/d7c/a11996.html#ab1048eb2da3e93f5cb67a8f23d35be2e", null ],
-    [ "_eventsIntro", "d7/d7c/a11996.html#aed37566236cb2872b3a85de9f994f0cb", null ],
-    [ "_introDone", "d7/d7c/a11996.html#aab29cb166d390a56a1d3b94dd07f1c63", null ],
-    [ "HasYelled", "d7/d7c/a11996.html#a4eace0c62b5ad50f7c1a525485da08fb", null ],
-    [ "m_nefariusGuid", "d7/d7c/a11996.html#a9402e7435904dffb8a494dc60d6d02e9", null ],
-    [ "PlayerGUID", "d7/d7c/a11996.html#a1a86b7b15e0a435284afab6ac724968c", null ]
+    [ "boss_pyroguard_emberseerAI", "d7/d7c/a11996.html#ac08deea0d151d109f36bb3cf66a34f29", null ],
+    [ "JustDied", "d7/d7c/a11996.html#aa35fc50d327c0bf7506bfd166d098522", null ],
+    [ "JustEngagedWith", "d7/d7c/a11996.html#a9eff335ff04e3da1e4488e00b55ecbaa", null ],
+    [ "OpenDoors", "d7/d7c/a11996.html#a8002f8d7b6b06b970d38d9824d57d737", null ],
+    [ "Reset", "d7/d7c/a11996.html#ab82a2bc6e9596d14dd2fd65b859af74d", null ],
+    [ "SetData", "d7/d7c/a11996.html#a5892ccaf9107e2da47c22c21bf5b2ed9", null ],
+    [ "SpellHit", "d7/d7c/a11996.html#a236f20c40eb1c37a25b04b5cf83e2488", null ],
+    [ "UpdateAI", "d7/d7c/a11996.html#a075147c4409174652e732293426b732d", null ],
+    [ "UpdateRunes", "d7/d7c/a11996.html#a87d7d63893a9feb6bb6c44adf1c637eb", null ]
 ];

@@ -1,10 +1,17 @@
 var a09888 =
 [
-    [ "QuestStatusData", "db/d25/a09888.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
-    [ "CreatureOrGOCount", "db/d25/a09888.html#aa5892dc0744a41ac565568307f12ad35", null ],
-    [ "Explored", "db/d25/a09888.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
-    [ "ItemCount", "db/d25/a09888.html#a466999cea52f65bf58916bc34750bf95", null ],
-    [ "PlayerCount", "db/d25/a09888.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
-    [ "Status", "db/d25/a09888.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
-    [ "Timer", "db/d25/a09888.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
+    [ "ConfusedMovementGenerator", "db/d25/a09888.html#a694dd083a1c01378e4877939f78309b8", null ],
+    [ "_InitSpecific", "db/d25/a09888.html#aea922e45838ab8a9cfe1787f0f7c169c", null ],
+    [ "_InitSpecific", "db/d25/a09888.html#a212665e4306ca335181c255573d30a06", null ],
+    [ "_InitSpecific", "db/d25/a09888.html#af597e5c544e56c255b179a08290f4ccb", null ],
+    [ "DoFinalize", "db/d25/a09888.html#a9e2a3f0e1a99436b33a883a1ac797f43", null ],
+    [ "DoFinalize", "db/d25/a09888.html#a82c2458b43334f06cae1a91224753fd3", null ],
+    [ "DoFinalize", "db/d25/a09888.html#ab18018803d8e194e9d2220eb8c6450ac", null ],
+    [ "DoInitialize", "db/d25/a09888.html#a8f1e9d0e00517b0d7f88b4213fd25104", null ],
+    [ "DoReset", "db/d25/a09888.html#a734a73ffa4008898a170b913aafce899", null ],
+    [ "DoUpdate", "db/d25/a09888.html#a8703ba139d90194a481388a543a14de6", null ],
+    [ "GetMovementGeneratorType", "db/d25/a09888.html#a3f0760b38745b9e065e069d6ad984d51", null ],
+    [ "i_nextMove", "db/d25/a09888.html#ad36fe1fd2d07af01691a319c425dc92c", null ],
+    [ "i_nextMoveTime", "db/d25/a09888.html#ad7b5bb65d55f6149e8df8cb4e2cdda50", null ],
+    [ "i_waypoints", "db/d25/a09888.html#a02b83b879cc31fb1a0e2f90e97556ba1", null ]
 ];

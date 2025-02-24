@@ -1,6 +1,8 @@
 var a24916 =
 [
-    [ "HandleOnEffectHit", "de/dfc/a24916.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "de/dfc/a24916.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "de/dfc/a24916.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "CheckRequirement", "de/dfc/a24916.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
+    [ "HandleScript", "de/dfc/a24916.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
+    [ "Load", "de/dfc/a24916.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
+    [ "PrepareSpellScript", "de/dfc/a24916.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
+    [ "Register", "de/dfc/a24916.html#a89d053e0ee793017c74188aac32d99d5", null ]
 ];

@@ -1,11 +1,13 @@
 var a10236 =
 [
-    [ "BackgroundColor", "d4/da2/a10236.html#abab86dd497de86088873178bf1d54b5b", null ],
-    [ "BorderColor", "d4/da2/a10236.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
-    [ "BorderStyle", "d4/da2/a10236.html#acd5105c31e0f56e680f3384e86186872", null ],
-    [ "EmblemColor", "d4/da2/a10236.html#a2e8a4768292d3566bb61009056a8a230", null ],
-    [ "EmblemStyle", "d4/da2/a10236.html#aa6309467f9f09725a8698de864b4e63c", null ],
-    [ "GuildName", "d4/da2/a10236.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
-    [ "RankCount", "d4/da2/a10236.html#acddb77850a86348df197afc724c4eaa0", null ],
-    [ "Ranks", "d4/da2/a10236.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
+    [ "FormulaScript", "d4/da2/a10236.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
+    [ "OnAfterArenaRatingCalculation", "d4/da2/a10236.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
+    [ "OnBaseGainCalculation", "d4/da2/a10236.html#ab154eaf469d5fe3e86c364940816270a", null ],
+    [ "OnBeforeUpdatingPersonalRating", "d4/da2/a10236.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
+    [ "OnColorCodeCalculation", "d4/da2/a10236.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
+    [ "OnGainCalculation", "d4/da2/a10236.html#aa83fab65cc89bd03021da2805e935ffb", null ],
+    [ "OnGrayLevelCalculation", "d4/da2/a10236.html#affeb57234f961b9e01f5898c7738f38f", null ],
+    [ "OnGroupRateCalculation", "d4/da2/a10236.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
+    [ "OnHonorCalculation", "d4/da2/a10236.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
+    [ "OnZeroDifferenceCalculation", "d4/da2/a10236.html#a7755c35bc56e6645e36de08c12a4847d", null ]
 ];

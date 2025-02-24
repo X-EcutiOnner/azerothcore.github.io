@@ -1,6 +1,9 @@
 var a14456 =
 [
-    [ "OnRemove", "d9/d4a/a14456.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "d9/d4a/a14456.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "d9/d4a/a14456.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "npc_ancient_wisp", "d9/d4a/a14456.html#a70e45e500b3490a034b058ca2ec16d39", null ],
+    [ "DamageTaken", "d9/d4a/a14456.html#ad7d96e6b54cdc23a5101338474125e71", null ],
+    [ "JustEngagedWith", "d9/d4a/a14456.html#a755ed852b3149ada65c5750410776fc8", null ],
+    [ "Reset", "d9/d4a/a14456.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
+    [ "UpdateAI", "d9/d4a/a14456.html#a51ca214de826d7126f32e49f6852bca3", null ],
+    [ "_instance", "d9/d4a/a14456.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
 ];

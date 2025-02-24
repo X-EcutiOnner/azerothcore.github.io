@@ -1,6 +1,7 @@
 var a12064 =
 [
-    [ "boss_gehennasAI", "db/da6/a12064.html#aaefd1f10d03957477863df95143a95a9", null ],
-    [ "ExecuteEvent", "db/da6/a12064.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
-    [ "JustEngagedWith", "db/da6/a12064.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
+    [ "boss_urok_doomhowlAI", "db/da6/a12064.html#ade3d87a05eed0fd077b2e3245099ed74", null ],
+    [ "InitializeAI", "db/da6/a12064.html#a530bef523a27523827d3a94aa5f88698", null ],
+    [ "JustEngagedWith", "db/da6/a12064.html#abd74d844bcae5f9bd8fdd3797323af2c", null ],
+    [ "UpdateAI", "db/da6/a12064.html#a6ab5793a48534b7c338a915a7ed8faf9", null ]
 ];

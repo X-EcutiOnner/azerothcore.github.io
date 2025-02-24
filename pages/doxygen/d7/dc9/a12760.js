@@ -1,15 +1,12 @@
 var a12760 =
 [
-    [ "boss_kormok", "d7/dc9/a12760.html#a2bacfd366d084cae31b8cc689fb26d0b", null ],
-    [ "DamageTaken", "d7/dc9/a12760.html#a2aa7fedea09b4d0526028826be2cb360", null ],
-    [ "IsSummonedBy", "d7/dc9/a12760.html#a641bd06b5da44e04534150fc1fc6f9e0", null ],
-    [ "JustDied", "d7/dc9/a12760.html#a219bc4f5e13e58bb4a8f79cbc36b5ad7", null ],
-    [ "JustEngagedWith", "d7/dc9/a12760.html#a7fc5bb05831e5b8e22c7d59c5c71f87a", null ],
-    [ "JustSummoned", "d7/dc9/a12760.html#a49ba1031e5639c3d8fdaf9ae9884a038", null ],
-    [ "Reset", "d7/dc9/a12760.html#a70252bf1680510294f62e2c42220156e", null ],
-    [ "SummonedCreatureDespawn", "d7/dc9/a12760.html#a6f23b4b006de4b8b5fda6e0203e2f8a7", null ],
-    [ "UpdateAI", "d7/dc9/a12760.html#aea5651a98492885eb4d598714df4fd40", null ],
-    [ "_mages", "d7/dc9/a12760.html#ae0de3f9848cb9051a18ba15347af3e7a", null ],
-    [ "_scheduler", "d7/dc9/a12760.html#a540ef7a05a503a989f93d4b53daacb4b", null ],
-    [ "_summons", "d7/dc9/a12760.html#aefaac0c5af45f63faeac6bf9ef1ca7fc", null ]
+    [ "boss_vexallus", "d7/dc9/a12760.html#a68c32ed70274e9f135b7a9107f888c91", null ],
+    [ "JustDied", "d7/dc9/a12760.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
+    [ "JustEngagedWith", "d7/dc9/a12760.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
+    [ "JustSummoned", "d7/dc9/a12760.html#a9bc7808889da754bae9c935418975f90", null ],
+    [ "KilledUnit", "d7/dc9/a12760.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
+    [ "Reset", "d7/dc9/a12760.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
+    [ "SummonedCreatureDies", "d7/dc9/a12760.html#a4bd88222143d8db098312cff8a2fc969", null ],
+    [ "_energyCooldown", "d7/dc9/a12760.html#a395d2186d70d1b7e29dbada7750da354", null ],
+    [ "_energyCount", "d7/dc9/a12760.html#a4afa4a245b8863c7b0898773932642c8", null ]
 ];

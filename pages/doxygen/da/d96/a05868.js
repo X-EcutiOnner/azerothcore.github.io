@@ -1,6 +1,8 @@
 var a05868 =
 [
-    [ "GameObjectAIFactory", "da/d96/a05868.html#a2f658540a81d207694b6d2d783009380", null ],
-    [ "Create", "da/d96/a05868.html#a94fa057baafbbad4b81b97aea34354a3", null ],
-    [ "Permit", "da/d96/a05868.html#ae8b7e45a73f87249e27a4dae596b0d52", null ]
+    [ "UpdateResult", "da/d96/a05868.html#af32cdf09d32607955c98353fbfa7d392", null ],
+    [ "UpdateResult", "da/d96/a05868.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
+    [ "archived", "da/d96/a05868.html#adee274af5f5d6981e28b3587008d690c", null ],
+    [ "recent", "da/d96/a05868.html#aea54f4388b659def734957a47e9cca8c", null ],
+    [ "updated", "da/d96/a05868.html#a12b3fffe01639493fc405bd5a797f463", null ]
 ];

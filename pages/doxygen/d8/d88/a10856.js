@@ -1,8 +1,7 @@
 var a10856 =
 [
-    [ "DirectionType", "d8/d88/a10856.html#a8491033c0286895c2d4d3280cfd529f0", null ],
-    [ "ObjectType", "d8/d88/a10856.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
-    [ "ReferenceType", "d8/d88/a10856.html#a44e310a789c4c5a288f07c9254ad389a", null ],
-    [ "SelectionCategory", "d8/d88/a10856.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
-    [ "SelectionCheckType", "d8/d88/a10856.html#a35c8d221b47de13408a0256598fa9d63", null ]
+    [ "UpdateWorldState", "d8/d88/a10856.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
+    [ "Write", "d8/d88/a10856.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
+    [ "Value", "d8/d88/a10856.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
+    [ "VariableID", "d8/d88/a10856.html#aa73278b324822f509f48e6edcdaed457", null ]
 ];

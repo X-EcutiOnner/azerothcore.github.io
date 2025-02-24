@@ -1,8 +1,10 @@
 var a08964 =
 [
-    [ "NearestGameObjectFishingHole", "d6/d8d/a08964.html#ab0e4734202edf26b69881ab85abe1d93", null ],
-    [ "NearestGameObjectFishingHole", "d6/d8d/a08964.html#a256c64e6c82d98349b958647d98bf4ce", null ],
-    [ "operator()", "d6/d8d/a08964.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
-    [ "i_obj", "d6/d8d/a08964.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
-    [ "i_range", "d6/d8d/a08964.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
+    [ "Flags", "d6/d8d/a08964.html#a5292a64de662f608915844d58199542f", null ],
+    [ "Icon", "d6/d8d/a08964.html#ab7460f125e05509baf9331e424b8bacf", null ],
+    [ "ID", "d6/d8d/a08964.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
+    [ "Importance", "d6/d8d/a08964.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
+    [ "Name", "d6/d8d/a08964.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
+    [ "PositionX", "d6/d8d/a08964.html#a561763556f1ac77e988c350c37a3a0a1", null ],
+    [ "PositionY", "d6/d8d/a08964.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
 ];

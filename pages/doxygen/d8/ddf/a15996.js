@@ -1,6 +1,7 @@
 var a15996 =
 [
-    [ "HandleHealPct", "d8/ddf/a15996.html#ad13b3924815ac3da7902c8292a760943", null ],
-    [ "PrepareSpellScript", "d8/ddf/a15996.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
-    [ "Register", "d8/ddf/a15996.html#a3016c31c072d6417bbe47c2891059718", null ]
+    [ "OnApply", "d8/ddf/a15996.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
+    [ "PrepareAuraScript", "d8/ddf/a15996.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
+    [ "Register", "d8/ddf/a15996.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
+    [ "Validate", "d8/ddf/a15996.html#a2c9e4d82bd25f439e01a05700563b122", null ]
 ];

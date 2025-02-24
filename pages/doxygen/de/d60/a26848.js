@@ -1,6 +1,5 @@
 var a26848 =
 [
-    [ "HandleDummy", "de/d60/a26848.html#a68a86f7f86324336dc837622e01fa6af", null ],
-    [ "PrepareSpellScript", "de/d60/a26848.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
-    [ "Register", "de/d60/a26848.html#ad168c9164d1edd23abfbf05141b96de4", null ]
+    [ "achievement_bg_ic_glaive_grave", "de/d60/a26848.html#a97e1cead0102a120b3bd14592ea26034", null ],
+    [ "OnCheck", "de/d60/a26848.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
 ];

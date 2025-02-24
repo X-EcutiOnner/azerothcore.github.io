@@ -1,47 +1,4 @@
 var a04529 =
 [
-    [ "SymbolPair", "d4/d69/a05166.html", "d4/d69/a05166" ],
-    [ "SymbolDetail", "dc/ddd/a05170.html", "dc/ddd/a05170" ],
-    [ "WheatyExceptionReport", "d3/d14/a05174.html", "d3/d14/a05174" ],
-    [ "countof", "dc/d39/a04529.html#a8b8500b4792f1666a4ae9b19ce264875", null ],
-    [ "WER_LARGE_BUFFER_SIZE", "dc/d39/a04529.html#a2c952cc0fe3c670bb1d829b51e483755", null ],
-    [ "WER_MAX_ARRAY_ELEMENTS_COUNT", "dc/d39/a04529.html#a5ca750f3bbda2b3eab451528de39aa3c", null ],
-    [ "WER_MAX_NESTING_LEVEL", "dc/d39/a04529.html#a5562a6136a28726d82fc486fd3b81ab1", null ],
-    [ "WER_SMALL_BUFFER_SIZE", "dc/d39/a04529.html#a2c2a64833d9c531c4cf0873d15733a66", null ],
-    [ "SymbolPairs", "dc/d39/a04529.html#a5fe525a539348aba0a42a9832dfceef1", null ],
-    [ "BasicType", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526", [
-      [ "btNoType", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526ac3dbdf6b8d103138e3318c38073f7b97", null ],
-      [ "btVoid", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526a007a4bf5bd78f5389652358b7ac8596d", null ],
-      [ "btChar", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526a9b23f8704866c0e75b3471a5f2f5a93b", null ],
-      [ "btWChar", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526af1a861dbf80e81561363604629189804", null ],
-      [ "btInt", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526add8226f5758099a1441724364e5993f6", null ],
-      [ "btUInt", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526a425d00b8975d8d8250fc7d878a2224ab", null ],
-      [ "btFloat", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526af227727df84cd9c4731d00bf548af774", null ],
-      [ "btBCD", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526a28fb64a8f6457e9d125ce3c58f0d9f45", null ],
-      [ "btBool", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526ad49f3758e70cf56d6995beedd04131ac", null ],
-      [ "btLong", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526a86fe058be72472cc8e5e12da41b3063d", null ],
-      [ "btULong", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526a7c06ab11284b9cd2f76df42e7bebfb38", null ],
-      [ "btCurrency", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526ae97aff1b319f95719407a49daa6d3161", null ],
-      [ "btDate", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526ac6c6e7b6f7b4e3ec4854d87771d66ed8", null ],
-      [ "btVariant", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526a08e6f9a73dcb061bc8c3ceed8c533397", null ],
-      [ "btComplex", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526ad21dd2fec96e57eff6ff7c03dcff1e68", null ],
-      [ "btBit", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526ac1c585ea4212c17f949b7d730a5e8001", null ],
-      [ "btBSTR", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526a31037e1401828b908d2a9acf0e60960b", null ],
-      [ "btHresult", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526aead6fd771496ad5d1954f8338f1fdafe", null ],
-      [ "btStdString", "dc/d39/a04529.html#af0ea7a682b4d48afbc37a32234271526a0619304b734323c4985f439d13b530ad", null ]
-    ] ],
-    [ "DataKind", "dc/d39/a04529.html#ace34b43f7a85070c2f233cbb13e362bf", [
-      [ "DataIsUnknown", "dc/d39/a04529.html#ace34b43f7a85070c2f233cbb13e362bfa3157bbb0d66cc4bc0ed83c406f168b75", null ],
-      [ "DataIsLocal", "dc/d39/a04529.html#ace34b43f7a85070c2f233cbb13e362bfa4b96c675dc4859521127b63697f1a304", null ],
-      [ "DataIsStaticLocal", "dc/d39/a04529.html#ace34b43f7a85070c2f233cbb13e362bfaa3f51b9fc8340e1aefe320dfc751091c", null ],
-      [ "DataIsParam", "dc/d39/a04529.html#ace34b43f7a85070c2f233cbb13e362bfaffec5f2aae03730e7de65988215e8141", null ],
-      [ "DataIsObjectPtr", "dc/d39/a04529.html#ace34b43f7a85070c2f233cbb13e362bfabf5e18782dfdb2264f25fdb53e958664", null ],
-      [ "DataIsFileStatic", "dc/d39/a04529.html#ace34b43f7a85070c2f233cbb13e362bfae1d71e110f4fc21f57e44b0f9265cff8", null ],
-      [ "DataIsGlobal", "dc/d39/a04529.html#ace34b43f7a85070c2f233cbb13e362bfa6a3d4d84eeedaae86688efb735f914df", null ],
-      [ "DataIsMember", "dc/d39/a04529.html#ace34b43f7a85070c2f233cbb13e362bfaad96ff0f53b5dc26c0cacd4f5db839a5", null ],
-      [ "DataIsStaticMember", "dc/d39/a04529.html#ace34b43f7a85070c2f233cbb13e362bfa6603206b61dfcc7d63a0e72985569329", null ],
-      [ "DataIsConstant", "dc/d39/a04529.html#ace34b43f7a85070c2f233cbb13e362bfad00151bfd9df40ccb917b378ca4386dd", null ]
-    ] ],
-    [ "g_WheatyExceptionReport", "dc/d39/a04529.html#a9fff8ce906026fe3179e50e97182d90d", null ],
-    [ "rgBaseType", "dc/d39/a04529.html#a1613d539e1a6f550edee20a905f7fcce", null ]
+    [ "tcp_endpoint", "dc/d39/a04529.html#a27a44b709519f6caccf33bc420c4698b", null ]
 ];

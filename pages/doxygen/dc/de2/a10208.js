@@ -1,8 +1,6 @@
 var a10208 =
 [
-    [ "PlayedTime", "dc/de2/a10208.html#abc477d90a27dc41a7c643448302464cf", null ],
-    [ "Write", "dc/de2/a10208.html#a147071f2545cd91213d6c92dab7438c7", null ],
-    [ "LevelTime", "dc/de2/a10208.html#a2bf832827f9497a59bbfac714799b4b5", null ],
-    [ "TotalTime", "dc/de2/a10208.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
-    [ "TriggerScriptEvent", "dc/de2/a10208.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
+    [ "ConditionScript", "dc/de2/a10208.html#a546130ee7ed33c7763115cb0d1506a1b", null ],
+    [ "IsDatabaseBound", "dc/de2/a10208.html#ac4f8325e3fa1e11437056818a0267342", null ],
+    [ "OnConditionCheck", "dc/de2/a10208.html#a2d8a4e71f20c290428c3a86cedfcaab7", null ]
 ];

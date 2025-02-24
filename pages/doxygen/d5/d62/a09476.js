@@ -1,12 +1,17 @@
 var a09476 =
 [
-    [ "flags", "d5/d62/a09476.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
-    [ "fourcc", "d5/d62/a09476.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
-    [ "height", "d5/d62/a09476.html#ab064dde684394c3aa84f9b151749d524", null ],
-    [ "liquidFlags", "d5/d62/a09476.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
-    [ "liquidLevel", "d5/d62/a09476.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
-    [ "liquidType", "d5/d62/a09476.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
-    [ "offsetX", "d5/d62/a09476.html#a2ddee980eda8b7321b55ba44697688b5", null ],
-    [ "offsetY", "d5/d62/a09476.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
-    [ "width", "d5/d62/a09476.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
+    [ "EmblemInfo", "d5/d62/a09476.html#a8d053ab27856955bf6013ef4c61ed33f", null ],
+    [ "GetBackgroundColor", "d5/d62/a09476.html#a66da2cd78cee9e929ff0f2439caed0e5", null ],
+    [ "GetBorderColor", "d5/d62/a09476.html#ac5ea55d7fd129524630dd0d486b457a7", null ],
+    [ "GetBorderStyle", "d5/d62/a09476.html#a7a791a3f467e72a3e8e941e3179d7709", null ],
+    [ "GetColor", "d5/d62/a09476.html#a15108f3a2a93ebbc01111672dd238d63", null ],
+    [ "GetStyle", "d5/d62/a09476.html#a0e6d684542535d537bdeba4104b7a18d", null ],
+    [ "LoadFromDB", "d5/d62/a09476.html#a17de371e72a2b29a7f249dbe912636bc", null ],
+    [ "ReadPacket", "d5/d62/a09476.html#abd73ea3db00fa900d7b3a8eeffa8b1bf", null ],
+    [ "SaveToDB", "d5/d62/a09476.html#aea1326261d893ef3beff026402bf8272", null ],
+    [ "m_backgroundColor", "d5/d62/a09476.html#a0bc92e459910ab6aad3ac35c8b613a5f", null ],
+    [ "m_borderColor", "d5/d62/a09476.html#a5aff1dcb9db9bc1477f2f37ac5b2c6cf", null ],
+    [ "m_borderStyle", "d5/d62/a09476.html#aa3e49b5f76fdb4e2139aeccb79c19390", null ],
+    [ "m_color", "d5/d62/a09476.html#ace48f189e9a1ae685dfbe97f35f49ec5", null ],
+    [ "m_style", "d5/d62/a09476.html#a08191c3c9cc48bde61ef0de81be34c90", null ]
 ];

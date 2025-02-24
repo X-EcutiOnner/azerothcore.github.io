@@ -1,8 +1,7 @@
 var a26724 =
 [
-    [ "Detonate", "dc/d9a/a26724.html#a89f46334c78fc190afd7b03706fa2513", null ],
-    [ "HandleProc", "dc/d9a/a26724.html#a82ad88c757eed35f7e0f2af38ceb2273", null ],
-    [ "PrepareAuraScript", "dc/d9a/a26724.html#a7268602da6dc74d7c501fb90c8167226", null ],
-    [ "Register", "dc/d9a/a26724.html#ac1574e943840e5f15a808ed4d338cd5f", null ],
-    [ "Validate", "dc/d9a/a26724.html#abbc5c9d069e716d9356ec366713abb84", null ]
+    [ "HandleApply", "dc/d9a/a26724.html#aa35fa107aee605a8583150901a75ad72", null ],
+    [ "HandleRemove", "dc/d9a/a26724.html#a60b6e438ff67d9db41d160020b54da40", null ],
+    [ "PrepareAuraScript", "dc/d9a/a26724.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
+    [ "Register", "dc/d9a/a26724.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
 ];

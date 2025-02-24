@@ -1,5 +1,6 @@
 var a04346 =
 [
-    [ "threadsCleanup", "d7/d74/a04346.html#af868d9171650614810772c5675c47fd3", null ],
-    [ "threadsSetup", "d7/d74/a04346.html#ae2c343f2efc8fa69b50e1bd35bf410fd", null ]
+    [ "SetupLibrariesForWindows", "d7/d74/a04346.html#ab801d0877d7ea0652bb6f94fb17842e4", null ],
+    [ "DefaultProvider", "d7/d74/a04346.html#ab217c6bb86b0f962ea820f3ffe079708", null ],
+    [ "LegacyProvider", "d7/d74/a04346.html#a81b4206923925a193dca5c3acd946bc2", null ]
 ];

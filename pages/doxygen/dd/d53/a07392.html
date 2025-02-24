@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Impl::ChatCommands::tag_base&lt; T, typename &gt; Struct Template Reference</title>
+<title>AzerothCore: BG_SA_RoundScore Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,35 +105,52 @@ $(document).ready(function(){initNavTree('dd/d53/a07392.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d6/d00/a07389.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Impl::ChatCommands::tag_base&lt; T, typename &gt; Struct Template Reference</div></div>
+  <div class="headertitle"><div class="title">BG_SA_RoundScore Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ChatCommandHelpers.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">BattlegroundSA.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:aac128f2d5d1c3b1eb5bdd3c76a2a65e9"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d53/a07392.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9">type</a> = T</td></tr>
-<tr class="separator:aac128f2d5d1c3b1eb5bdd3c76a2a65e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a728a3e4efbae3be9224c70f2d70000cf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d3a/a00101.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d53/a07392.html#a728a3e4efbae3be9224c70f2d70000cf">winner</a></td></tr>
+<tr class="separator:a728a3e4efbae3be9224c70f2d70000cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4270f34fef655cb9ff9998b36055c3ec"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d36/a04430.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d53/a07392.html#a4270f34fef655cb9ff9998b36055c3ec">time</a></td></tr>
+<tr class="separator:a4270f34fef655cb9ff9998b36055c3ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;typename T, typename = void&gt;<br />
-struct Acore::Impl::ChatCommands::tag_base&lt; T, typename &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="aac128f2d5d1c3b1eb5bdd3c76a2a65e9" name="aac128f2d5d1c3b1eb5bdd3c76a2a65e9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aac128f2d5d1c3b1eb5bdd3c76a2a65e9">&#9670;&#160;</a></span>type</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="a4270f34fef655cb9ff9998b36055c3ec" name="a4270f34fef655cb9ff9998b36055c3ec"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4270f34fef655cb9ff9998b36055c3ec">&#9670;&#160;</a></span>time</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T , typename  = void&gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../dd/d53/a07392.html">Acore::Impl::ChatCommands::tag_base</a>&lt; T, typename &gt;::type =  T</td>
+          <td class="memname"><a class="el" href="../../d9/d36/a04430.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> BG_SA_RoundScore::time</td>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00040">BattlegroundSA::BattlegroundSA()</a>, <a class="el" href="../../#l01040">BattlegroundSA::EventPlayerUsedGO()</a>, and <a class="el" href="../../#l00316">BattlegroundSA::PostUpdateImpl()</a>.</p>
+
+</div>
+</div>
+<a id="a728a3e4efbae3be9224c70f2d70000cf" name="a728a3e4efbae3be9224c70f2d70000cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a728a3e4efbae3be9224c70f2d70000cf">&#9670;&#160;</a></span>winner</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d3a/a00101.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> BG_SA_RoundScore::winner</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00040">BattlegroundSA::BattlegroundSA()</a>, <a class="el" href="../../#l01040">BattlegroundSA::EventPlayerUsedGO()</a>, and <a class="el" href="../../#l00316">BattlegroundSA::PostUpdateImpl()</a>.</p>
 
 </div>
 </div>
@@ -142,8 +159,8 @@ template&lt;typename T , typename  = void&gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d5/d43/a04668.html">Acore</a></li><li class="navelem"><a class="el" href="../../de/d69/a04679.html">Impl</a></li><li class="navelem"><a class="el" href="../../d6/d7d/a04707.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../dd/d53/a07392.html">tag_base</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:44:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/d53/a07392.html">BG_SA_RoundScore</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:43:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,6 @@
 var a19308 =
 [
-    [ "npc_centrifuge_constructAI", "da/dae/a19312.html", "da/dae/a19312" ],
-    [ "npc_centrifuge_construct", "d0/d87/a19308.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
-    [ "GetAI", "d0/d87/a19308.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
+    [ "PrepareSpellScript", "d0/d87/a19308.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "d0/d87/a19308.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "d0/d87/a19308.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

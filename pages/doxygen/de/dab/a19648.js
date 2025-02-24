@@ -1,5 +1,6 @@
 var a19648 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "de/dab/a19648.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "de/dab/a19648.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "HandleInstaKill", "de/dab/a19648.html#a9371a2cc86616fd04e47939d45f01cae", null ],
+    [ "PrepareSpellScript", "de/dab/a19648.html#a38eed301f1db3ea7ac15b626e5927500", null ],
+    [ "Register", "de/dab/a19648.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
 ];

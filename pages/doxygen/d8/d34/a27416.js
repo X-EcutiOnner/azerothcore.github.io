@@ -1,6 +1,18 @@
 var a27416 =
 [
-    [ "npc_taxi", "d8/d34/a27416.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d8/d34/a27416.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d8/d34/a27416.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "npc_doctorAI", "d8/d34/a27416.html#a8efc303041393347eaaf38aff05f7b9c", null ],
+    [ "BeginEvent", "d8/d34/a27416.html#a1439b4eb147700ca493dc5eaa1e2d5a4", null ],
+    [ "JustEngagedWith", "d8/d34/a27416.html#aca786ccf8cf99d7ba49a08046147f121", null ],
+    [ "PatientDied", "d8/d34/a27416.html#ad3e2a36e774d2dbd2a6779d8fb19ea88", null ],
+    [ "PatientSaved", "d8/d34/a27416.html#af8a61f187f6bd57b98d8bf4c8c45e494", null ],
+    [ "Reset", "d8/d34/a27416.html#af2d84b163d41b1b32e191200f54085c2", null ],
+    [ "UpdateAI", "d8/d34/a27416.html#abe156e2303a9c743fa66b4f82808c707", null ],
+    [ "Coordinates", "d8/d34/a27416.html#acda1ada9d7868bfd93ceaaa39f82731b", null ],
+    [ "Event", "d8/d34/a27416.html#ad558d5c0a5fe07904445e893c09be980", null ],
+    [ "PatientDiedCount", "d8/d34/a27416.html#a0774874d9d75feb8d8bf6ce201e719d9", null ],
+    [ "Patients", "d8/d34/a27416.html#a75cd1e01322c09204ffe54cd92ad9543", null ],
+    [ "PatientSavedCount", "d8/d34/a27416.html#abeda2ee514c6ed1544a7e27955fc86b8", null ],
+    [ "PlayerGUID", "d8/d34/a27416.html#a97e2b2bd8a750817f23c51d36c49ae1c", null ],
+    [ "SummonPatientCount", "d8/d34/a27416.html#a320c2e32c5003e880f7567c89db8ca8c", null ],
+    [ "SummonPatientTimer", "d8/d34/a27416.html#adb9cd2ed50dd02f88c4f375a0be8ee89", null ]
 ];

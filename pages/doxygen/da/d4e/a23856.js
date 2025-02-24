@@ -1,7 +1,7 @@
 var a23856 =
 [
-    [ "HandleDamage", "da/d4e/a23856.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "da/d4e/a23856.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "da/d4e/a23856.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "da/d4e/a23856.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "HandleDummy", "da/d4e/a23856.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "da/d4e/a23856.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "da/d4e/a23856.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "da/d4e/a23856.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

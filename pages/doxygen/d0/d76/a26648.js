@@ -1,6 +1,6 @@
 var a26648 =
 [
-    [ "HandleKnockBack", "d0/d76/a26648.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "d0/d76/a26648.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "d0/d76/a26648.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "FilterTargets", "d0/d76/a26648.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
+    [ "PrepareSpellScript", "d0/d76/a26648.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
+    [ "Register", "d0/d76/a26648.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
 ];

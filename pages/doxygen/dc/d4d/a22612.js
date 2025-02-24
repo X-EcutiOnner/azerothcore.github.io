@@ -1,6 +1,7 @@
 var a22612 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d3/dba/a22616.html", "d3/dba/a22616" ],
-    [ "instance_sethekk_halls", "dc/d4d/a22612.html#ab50d296266cf377bfb34750ec36963ef", null ],
-    [ "GetInstanceScript", "dc/d4d/a22612.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
+    [ "HandleDummy", "dc/d4d/a22612.html#af5ac581f7d471300fba2c23548037eea", null ],
+    [ "PrepareSpellScript", "dc/d4d/a22612.html#adda61c05b544b52d98af5b7a76d4f808", null ],
+    [ "Register", "dc/d4d/a22612.html#a270a64dffdce230d97515f116ec49706", null ],
+    [ "Validate", "dc/d4d/a22612.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
 ];

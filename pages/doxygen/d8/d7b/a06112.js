@@ -1,17 +1,10 @@
 var a06112 =
 [
-    [ "WorldBossAI", "d8/d7b/a06112.html#aad7ffc5fb8215f6bf36fe72aef40c9e1", null ],
-    [ "~WorldBossAI", "d8/d7b/a06112.html#a2877e6056f3ff51c625d46d5b7d7d008", null ],
-    [ "_JustDied", "d8/d7b/a06112.html#a72e92da9585e41f742ee0ff964340230", null ],
-    [ "_JustEngagedWith", "d8/d7b/a06112.html#a451c933079bd3b887079b15b74c22b5e", null ],
-    [ "_Reset", "d8/d7b/a06112.html#ac11f7b51038891d8e10427ca10aa516c", null ],
-    [ "ExecuteEvent", "d8/d7b/a06112.html#a477e7bc0bcf1ba99d64cffddbfa0c6d2", null ],
-    [ "JustDied", "d8/d7b/a06112.html#a012c70e390c46b8f326b91014091b3d7", null ],
-    [ "JustEngagedWith", "d8/d7b/a06112.html#ab84cb945e773c41d22b682996c744768", null ],
-    [ "JustSummoned", "d8/d7b/a06112.html#aa783665ce6e43e76a18515f511f82efb", null ],
-    [ "Reset", "d8/d7b/a06112.html#ad19a91bf2344f531e01db07efd04c395", null ],
-    [ "SummonedCreatureDespawn", "d8/d7b/a06112.html#af7a1e062b13d997def99c077a79cd12f", null ],
-    [ "UpdateAI", "d8/d7b/a06112.html#a31686947c399d780ea5220dae5e4820b", null ],
-    [ "events", "d8/d7b/a06112.html#abba6c74269442b0bbfe94ab583904485", null ],
-    [ "summons", "d8/d7b/a06112.html#adb0612a97ccab6c817d9fa69b63cfff7", null ]
+    [ "FarthestTargetSelector", "d8/d7b/a06112.html#a5a6d387d905d275436dd9c3eecc138c0", null ],
+    [ "operator()", "d8/d7b/a06112.html#a58e92f40745a4d43ae1a8b8664e4c786", null ],
+    [ "_inLos", "d8/d7b/a06112.html#abbb788a7e01deeea70affecf3bf8d83d", null ],
+    [ "_maxDist", "d8/d7b/a06112.html#a5dc107de2b6a710a68b2a1e99acb734d", null ],
+    [ "_me", "d8/d7b/a06112.html#a3d2e66e08659d8fecba34fc3175a4ed0", null ],
+    [ "_minDist", "d8/d7b/a06112.html#ad09cd6e99a1ab46d0dc2d7b43416b40c", null ],
+    [ "_playerOnly", "d8/d7b/a06112.html#a9f4cadccae7804019542743fdc65fddf", null ]
 ];

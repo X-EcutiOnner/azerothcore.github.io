@@ -1,9 +1,10 @@
 var a09028 =
 [
-    [ "NearestAttackableUnitInObjectRangeCheck", "d5/db1/a09028.html#ae2f43e2036047622ec88de3db08ea668", null ],
-    [ "NearestAttackableUnitInObjectRangeCheck", "d5/db1/a09028.html#a8deef14a2c11f9ccd9613614124a7d8e", null ],
-    [ "operator()", "d5/db1/a09028.html#a2f966e38682e6a02a120ad90ba19f7a4", null ],
-    [ "i_funit", "d5/db1/a09028.html#a88be7342d10008fc394f21b9a5e14162", null ],
-    [ "i_obj", "d5/db1/a09028.html#a6c1c4e5b85f6f7958578afb6c6f2af98", null ],
-    [ "i_range", "d5/db1/a09028.html#a26242657d6f2eb61d6f8fcac30357381", null ]
+    [ "~GridCell", "d5/db1/a09028.html#ab6ca5fbc81f184597445b7aef70bb2ad", null ],
+    [ "AddGridObject", "d5/db1/a09028.html#a22ac43b185d6a34c04fb5a36970d7df2", null ],
+    [ "AddWorldObject", "d5/db1/a09028.html#a039ebb29cf4bd2eeb7fca43eba302542", null ],
+    [ "Visit", "d5/db1/a09028.html#a6409c692a1f6ddfee1b3c2806d161d44", null ],
+    [ "Visit", "d5/db1/a09028.html#a2d13e0178010836f05280c1b5b11ad57", null ],
+    [ "_gridObjects", "d5/db1/a09028.html#a1a3fdbe9e3b937c05f82572d6f757e87", null ],
+    [ "_worldObjects", "d5/db1/a09028.html#a29d0551bee2df852e262846d82e90dba", null ]
 ];

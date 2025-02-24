@@ -1,6 +1,8 @@
 var a25616 =
 [
-    [ "FilterTargets", "d4/dbd/a25616.html#abe299fbad07f800e90b1614ec661c185", null ],
-    [ "PrepareSpellScript", "d4/dbd/a25616.html#a53bae2b6575436705adff74caf9225b7", null ],
-    [ "Register", "d4/dbd/a25616.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
+    [ "CheckRequirement", "d4/dbd/a25616.html#a3ed8450641baeee915fc5a129f9c7434", null ],
+    [ "HandleScript", "d4/dbd/a25616.html#a92e3137bb92545876ca67028bcc86a4f", null ],
+    [ "Load", "d4/dbd/a25616.html#a56326701447b3a88d9022ca1f1c184a6", null ],
+    [ "PrepareSpellScript", "d4/dbd/a25616.html#a94d4155e98a4ac5764d8bfd705b05602", null ],
+    [ "Register", "d4/dbd/a25616.html#a9b440dd8bf21b70d068021d05832a3fc", null ]
 ];

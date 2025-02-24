@@ -1,8 +1,7 @@
 var a22608 =
 [
-    [ "FilterTargets", "df/d92/a22608.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "df/d92/a22608.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "df/d92/a22608.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "df/d92/a22608.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "df/d92/a22608.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "HandleEffectRemove", "df/d92/a22608.html#a09124a4351930a35e33359e95ca88580", null ],
+    [ "PrepareAuraScript", "df/d92/a22608.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
+    [ "Register", "df/d92/a22608.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
+    [ "Validate", "df/d92/a22608.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
 ];

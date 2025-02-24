@@ -1,5 +1,6 @@
 var a20280 =
 [
-    [ "achievement_kologarn_looks_could_kill", "dc/da0/a20280.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
-    [ "OnCheck", "dc/da0/a20280.html#a0e7be4fb00808fab9a231530822fc93d", null ]
+    [ "npc_ulduar_proximity_mineAI", "db/d90/a20284.html", "db/d90/a20284" ],
+    [ "npc_ulduar_proximity_mine", "dc/da0/a20280.html#ac33beb07e17712cdda1b3434d9dc8222", null ],
+    [ "GetAI", "dc/da0/a20280.html#a7d8237b965699004f9df731e357b4020", null ]
 ];

@@ -1,6 +1,5 @@
 var a13644 =
 [
-    [ "boss_janalaiAI", "d8/d1b/a13648.html", "d8/d1b/a13648" ],
-    [ "boss_janalai", "d2/d24/a13644.html#adb902ccc4dfc4ef7bab3e3428ff1082b", null ],
-    [ "GetAI", "d2/d24/a13644.html#a1782fb8882fae9818c03feab00417619", null ]
+    [ "npc_mikhail", "d2/d24/a13644.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
+    [ "OnQuestAccept", "d2/d24/a13644.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
 ];

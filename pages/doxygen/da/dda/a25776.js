@@ -1,7 +1,6 @@
 var a25776 =
 [
-    [ "HandleEnergize", "da/dda/a25776.html#a283e713252166a863aa96530d6e7608b", null ],
-    [ "Load", "da/dda/a25776.html#a89847e0e9435a708c5722ff928f7033f", null ],
-    [ "PrepareSpellScript", "da/dda/a25776.html#a8847e05e6eeafd801fca5423d0689432", null ],
-    [ "Register", "da/dda/a25776.html#ae0778ffd8cf203e22510ee91b0394303", null ]
+    [ "OnPeriodic", "da/dda/a25776.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
+    [ "PrepareAuraScript", "da/dda/a25776.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
+    [ "Register", "da/dda/a25776.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
 ];

@@ -1,8 +1,11 @@
 var a03758 =
 [
-    [ "MailScript", "d4/db5/a10270.html", "d4/db5/a10270" ],
-    [ "MailHook", "da/d85/a03758.html#a7a2fb0cc0937712e8aff65574e1068d6", [
-      [ "MAILHOOK_ON_BEFORE_MAIL_DRAFT_SEND_MAIL_TO", "da/d85/a03758.html#a7a2fb0cc0937712e8aff65574e1068d6a8f3555a10968fd2749e256067782760f", null ],
-      [ "MAILHOOK_END", "da/d85/a03758.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285", null ]
+    [ "AllCommandScript", "d7/d8c/a10152.html", "d7/d8c/a10152" ],
+    [ "CommandSC", "da/d85/a03758.html#a0c35d8c2fdd730a0360fd00502881c03", null ],
+    [ "AllCommandHook", "da/d85/a03758.html#a57c7df35e0370887ade698d62704997b", [
+      [ "ALLCOMMANDHOOK_ON_HANDLE_DEV_COMMAND", "da/d85/a03758.html#a57c7df35e0370887ade698d62704997bab762a34db533207a5f8f5b0db870f0b0", null ],
+      [ "ALLCOMMANDHOOK_ON_TRY_EXECUTE_COMMAND", "da/d85/a03758.html#a57c7df35e0370887ade698d62704997bac267dc607dca6da8a2195d77a9def327", null ],
+      [ "ALLCOMMANDHOOK_ON_BEFORE_IS_INVOKER_VISIBLE", "da/d85/a03758.html#a57c7df35e0370887ade698d62704997ba7d51819392ef067de524c06437fab836", null ],
+      [ "ALLCOMMANDHOOK_END", "da/d85/a03758.html#a57c7df35e0370887ade698d62704997bac10a14231ce403ff1812e0ec03700812", null ]
     ] ]
 ];

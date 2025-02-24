@@ -1,13 +1,7 @@
 var a09436 =
 [
-    [ "ParallelogramBoundary", "d7/d77/a09436.html#ace1e1ffbcb84343ca2641541fe000691", null ],
-    [ "IsWithinBoundaryArea", "d7/d77/a09436.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
-    [ "_a", "d7/d77/a09436.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
-    [ "_abx", "d7/d77/a09436.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
-    [ "_aby", "d7/d77/a09436.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
-    [ "_b", "d7/d77/a09436.html#a9d5d06cc3673f89644e45e62f96510db", null ],
-    [ "_c", "d7/d77/a09436.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
-    [ "_d", "d7/d77/a09436.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
-    [ "_dax", "d7/d77/a09436.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
-    [ "_day", "d7/d77/a09436.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
+    [ "PowerCheck", "d7/d77/a09436.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
+    [ "operator()", "d7/d77/a09436.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
+    [ "_equals", "d7/d77/a09436.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
+    [ "_power", "d7/d77/a09436.html#a922a57b62b4289835b539a69b0f58fa1", null ]
 ];

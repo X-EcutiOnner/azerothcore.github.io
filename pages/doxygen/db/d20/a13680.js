@@ -1,7 +1,7 @@
 var a13680 =
 [
-    [ "npc_janalai_eggAI", "db/d20/a13680.html#a75bf6d0c7fdb09ace4352cde99edda81", null ],
-    [ "Reset", "db/d20/a13680.html#aad93238c8c26d678da6df2d0191d3763", null ],
-    [ "SpellHit", "db/d20/a13680.html#a2e097705ad9710b22be38931df30bcc3", null ],
-    [ "UpdateAI", "db/d20/a13680.html#a4aa8bfac1e4584497d48097535cc77d3", null ]
+    [ "HandleDispel", "db/d20/a13680.html#a415977576283972ce4a1050c70826d7c", null ],
+    [ "PrepareAuraScript", "db/d20/a13680.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
+    [ "Register", "db/d20/a13680.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
+    [ "Validate", "db/d20/a13680.html#ac496e7bef875ca46660217e74fc3bc74", null ]
 ];

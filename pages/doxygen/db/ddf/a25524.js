@@ -1,7 +1,6 @@
 var a25524 =
 [
-    [ "CheckProc", "db/ddf/a25524.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
-    [ "HandleProc", "db/ddf/a25524.html#a27569fe686e50246768fca4a7625fe0d", null ],
-    [ "PrepareAuraScript", "db/ddf/a25524.html#a4f4eaa4aeeac9257804957671c16233f", null ],
-    [ "Register", "db/ddf/a25524.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
+    [ "PartyTimeEmoteEvent", "db/ddf/a25524.html#a525efd58fc8465658208058e6dc5d31c", null ],
+    [ "Execute", "db/ddf/a25524.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
+    [ "_player", "db/ddf/a25524.html#a61ecb44828c6e4c868def8899791feb3", null ]
 ];

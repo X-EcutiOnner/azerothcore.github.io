@@ -1,6 +1,6 @@
 var a12540 =
 [
-    [ "spell_item_gift_of_the_harvester_SpellScript", "de/d38/a12544.html", "de/d38/a12544" ],
-    [ "spell_item_gift_of_the_harvester", "dd/d5f/a12540.html#abf8f22a048bc20fcbbf4db5cefab5bf8", null ],
-    [ "GetSpellScript", "dd/d5f/a12540.html#ae5c916a45dffae91374af2c20c4785d3", null ]
+    [ "HandleDummy", "dd/d5f/a12540.html#a9551867737eea27a9acf2d3d475e9b3c", null ],
+    [ "PrepareSpellScript", "dd/d5f/a12540.html#a3e14dd6a6f26a163282846f714e2ffb5", null ],
+    [ "Register", "dd/d5f/a12540.html#a7be884a657889e1b18d1499c8a053c18", null ]
 ];

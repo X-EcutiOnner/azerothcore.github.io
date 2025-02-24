@@ -1,6 +1,7 @@
 var a26540 =
 [
-    [ "CheckCast", "db/d33/a26540.html#aecbecbd753b8ed32d51971a090063ef4", null ],
-    [ "PrepareSpellScript", "db/d33/a26540.html#a0efb319154edb2c798460de72d6a56ed", null ],
-    [ "Register", "db/d33/a26540.html#acd6ecb0204dd369c410e465551328f56", null ]
+    [ "HandleDummy", "db/d33/a26540.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
+    [ "PrepareSpellScript", "db/d33/a26540.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
+    [ "Register", "db/d33/a26540.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
+    [ "Validate", "db/d33/a26540.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
 ];

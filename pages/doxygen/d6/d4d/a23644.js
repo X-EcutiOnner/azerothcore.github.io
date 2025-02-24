@@ -1,14 +1,11 @@
 var a23644 =
 [
-    [ "npc_warden_mellicharAI", "d6/d4d/a23644.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
-    [ "AttackStart", "d6/d4d/a23644.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
-    [ "DamageTaken", "d6/d4d/a23644.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
-    [ "JustDied", "d6/d4d/a23644.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
-    [ "JustEngagedWith", "d6/d4d/a23644.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
-    [ "JustSummoned", "d6/d4d/a23644.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
-    [ "MoveInLineOfSight", "d6/d4d/a23644.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
-    [ "Reset", "d6/d4d/a23644.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
-    [ "SetData", "d6/d4d/a23644.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
-    [ "SummonedCreatureDies", "d6/d4d/a23644.html#a58e1011986be65725d4db3d782bc72ac", null ],
-    [ "UpdateAI", "d6/d4d/a23644.html#a944cff5367213d561a7e6df5faf2a216", null ]
+    [ "boss_high_astromancer_solarian", "d6/d4d/a23644.html#a2db48cc179539f81b55188de08a7e180", null ],
+    [ "AttackStart", "d6/d4d/a23644.html#acaf94134aef553447e766a5e431c8b83", null ],
+    [ "JustDied", "d6/d4d/a23644.html#a510eb2e4f0770670d6767bc2545375b7", null ],
+    [ "JustEngagedWith", "d6/d4d/a23644.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
+    [ "JustSummoned", "d6/d4d/a23644.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
+    [ "KilledUnit", "d6/d4d/a23644.html#a561a78193615575b7e43e0f21387f1b8", null ],
+    [ "Reset", "d6/d4d/a23644.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
+    [ "UpdateAI", "d6/d4d/a23644.html#a07a76c34a978c31212390cf10ed3e382", null ]
 ];

@@ -1,6 +1,6 @@
 var a23820 =
 [
-    [ "FilterTargets", "d6/d0a/a23820.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
-    [ "PrepareSpellScript", "d6/d0a/a23820.html#afa186c0b0728e3462f8984189613f9a7", null ],
-    [ "Register", "d6/d0a/a23820.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
+    [ "npc_daranelleAI", "d8/daf/a23824.html", "d8/daf/a23824" ],
+    [ "npc_daranelle", "d6/d0a/a23820.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "d6/d0a/a23820.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

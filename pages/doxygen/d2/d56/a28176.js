@@ -1,7 +1,7 @@
 var a28176 =
 [
-    [ "Id", "d2/d56/a28176.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
-    [ "MaxLevel", "d2/d56/a28176.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
-    [ "Modifier", "d2/d56/a28176.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
-    [ "StatMod", "d2/d56/a28176.html#ab639dd94c53707ca160e13f71342730d", null ]
+    [ "ID", "d2/d56/a28176.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
+    [ "RadiusMax", "d2/d56/a28176.html#ab82c1acb9309b17104958182d80b01d1", null ],
+    [ "RadiusMin", "d2/d56/a28176.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
+    [ "RadiusPerLevel", "d2/d56/a28176.html#a74bb59afb808af45ceff6367468fca1e", null ]
 ];

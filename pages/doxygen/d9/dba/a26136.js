@@ -1,9 +1,8 @@
 var a26136 =
 [
-    [ "CheckCast", "d9/dba/a26136.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
-    [ "HandleDummy", "d9/dba/a26136.html#a7f79495525687fba6229f48935b2558a", null ],
-    [ "Load", "d9/dba/a26136.html#a0c73457e44a3d64bdccee78d28893672", null ],
-    [ "PrepareSpellScript", "d9/dba/a26136.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
-    [ "Register", "d9/dba/a26136.html#ab9f09394ab301350a2abaefde90632fe", null ],
-    [ "Validate", "d9/dba/a26136.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
+    [ "HandleDummy", "d9/dba/a26136.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "d9/dba/a26136.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "d9/dba/a26136.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "d9/dba/a26136.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "d9/dba/a26136.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

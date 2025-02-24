@@ -1,6 +1,6 @@
 var a20440 =
 [
-    [ "npc_ulduar_expedition_engineerAI", "dc/d76/a20444.html", "dc/d76/a20444" ],
-    [ "npc_ulduar_expedition_engineer", "d8/d26/a20440.html#a1ff99e62b9c2222d8c08e71bfda600ea", null ],
-    [ "GetAI", "d8/d26/a20440.html#a6f1beaab42e42981e152db920e516616", null ]
+    [ "boss_thorimAI", "dc/d76/a20444.html", "dc/d76/a20444" ],
+    [ "boss_thorim", "d8/d26/a20440.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
+    [ "GetAI", "d8/d26/a20440.html#a70895451317569f50adc11474e653515", null ]
 ];

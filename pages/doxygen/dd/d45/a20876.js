@@ -1,6 +1,10 @@
 var a20876 =
 [
-    [ "HandleScript", "dd/d45/a20876.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
-    [ "PrepareSpellScript", "dd/d45/a20876.html#ab2a4155f6029850c61e84d7c180addae", null ],
-    [ "Register", "dd/d45/a20876.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
+    [ "npc_ulduar_snow_mound", "dd/d45/a20876.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
+    [ "MoveInLineOfSight", "dd/d45/a20876.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
+    [ "UpdateAI", "dd/d45/a20876.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
+    [ "_activated", "dd/d45/a20876.html#ac48f6985d857276e0e59c2a429f5b359", null ],
+    [ "_count", "dd/d45/a20876.html#a1856c3bba24842f33720a83e1de40421", null ],
+    [ "_counter", "dd/d45/a20876.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
+    [ "_scheduler", "dd/d45/a20876.html#aafe42af9ba1402cad91326eb1037e476", null ]
 ];

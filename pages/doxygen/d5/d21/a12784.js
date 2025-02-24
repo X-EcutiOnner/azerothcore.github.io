@@ -1,7 +1,14 @@
 var a12784 =
 [
-    [ "HandleEffectApply", "d5/d21/a12784.html#a2c419ff9944a9ba52b2530059ecaa82a", null ],
-    [ "HandleEffectRemove", "d5/d21/a12784.html#a1b2d0a4b57c5886c68a00a2cba8922a4", null ],
-    [ "PrepareAuraScript", "d5/d21/a12784.html#abca0eded713c89a78607e582156c3ca2", null ],
-    [ "Register", "d5/d21/a12784.html#a61be8e7fc51ae2f963721240091dafea", null ]
+    [ "npc_death_knight_initiateAI", "d5/d21/a12784.html#aa03a128068072b85bf0926cdececaaf2", null ],
+    [ "DamageTaken", "d5/d21/a12784.html#ac83f7d28886eaf5fb44c3c6ce44a7acd", null ],
+    [ "GetData", "d5/d21/a12784.html#ac3216c0cf7284fd7a8d5ece153467b41", null ],
+    [ "Reset", "d5/d21/a12784.html#ad152856d614c8f4c900f77749ac55dd9", null ],
+    [ "SpellHit", "d5/d21/a12784.html#a308f2f29ec7f9277d102564ff6d39e32", null ],
+    [ "UpdateAI", "d5/d21/a12784.html#a6e67cda0b83578818a5e3b34ed9517cf", null ],
+    [ "_duelGUID", "d5/d21/a12784.html#a32dd4a91841f2e75c8bca109015fc56a", null ],
+    [ "_duelInProgress", "d5/d21/a12784.html#a3fdcf062b22c08b1dd616dad591a1021", null ],
+    [ "events", "d5/d21/a12784.html#aa1c6d513e04253d0b83522c9c1cc2ac8", null ],
+    [ "playerGUIDs", "d5/d21/a12784.html#ac12adec2cb751e2e41008954bbe20248", null ],
+    [ "timer", "d5/d21/a12784.html#ad22e8bc9e0d22a5ba164a60e438d98a7", null ]
 ];

@@ -1,6 +1,7 @@
 var a24872 =
 [
-    [ "CheckLevel", "d0/dee/a24872.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
-    [ "PrepareSpellScript", "d0/dee/a24872.html#abc2bcce83810661ab462f56594066df3", null ],
-    [ "Register", "d0/dee/a24872.html#add6731563bd9a26d8f286bd29ffc8709", null ]
+    [ "HandleScript", "d0/dee/a24872.html#ad1ca4c264e1f89adf479254e6436dd55", null ],
+    [ "Load", "d0/dee/a24872.html#a66db2b82a0f014e49bbfeeaade4d1731", null ],
+    [ "PrepareSpellScript", "d0/dee/a24872.html#a7616d761e7a7a708c88918302b488bb9", null ],
+    [ "Register", "d0/dee/a24872.html#a8ca351c9e0e254369328865eefa3ff91", null ]
 ];

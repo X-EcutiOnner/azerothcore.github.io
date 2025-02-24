@@ -1,6 +1,9 @@
 var a20576 =
 [
-    [ "OnPeriodic", "df/d2f/a20576.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "df/d2f/a20576.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "df/d2f/a20576.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "npc_xt002_pummellerAI", "df/d2f/a20576.html#a2942c05c93036c2e02b9a72c784441b1", null ],
+    [ "Reset", "df/d2f/a20576.html#a6542fb3e585f100f06f6be14a1346306", null ],
+    [ "UpdateAI", "df/d2f/a20576.html#a959990310303ff2102f1c03852b4ab8e", null ],
+    [ "_arcingSmashTimer", "df/d2f/a20576.html#a830fda66756dc3f34a530939116e7556", null ],
+    [ "_trampleTimer", "df/d2f/a20576.html#ae5e450601861f83b20419405bb92ef6d", null ],
+    [ "_uppercutTimer", "df/d2f/a20576.html#a5a1bdb380438070effc091ec37db6aec", null ]
 ];

@@ -1,12 +1,12 @@
 var a13548 =
 [
-    [ "npc_akilzon_eagleAI", "de/d38/a13548.html#a08d79db0d679e5ee40c919cde126a15a", null ],
-    [ "JustEngagedWith", "de/d38/a13548.html#a19c4cd8b2bfcf52157971486c8d24903", null ],
-    [ "MoveInLineOfSight", "de/d38/a13548.html#a248aff56059e889eb3fd6eb1d511bb68", null ],
-    [ "MovementInform", "de/d38/a13548.html#a5372643a5014f349fc2593e42d27988b", null ],
-    [ "Reset", "de/d38/a13548.html#a9fc9924deb5be8dbc33565480f045a7a", null ],
-    [ "UpdateAI", "de/d38/a13548.html#a29049f0d5acfd96d38e1143e8e9b1a06", null ],
-    [ "arrived", "de/d38/a13548.html#abec2cfde4f5bc6147339ce89b0d2ce45", null ],
-    [ "EagleSwoop_Timer", "de/d38/a13548.html#a34c016ca0fb5f01feb48302fdb76d891", null ],
-    [ "TargetGUID", "de/d38/a13548.html#a9fa61cffe2a605ec4a7953292da16e84", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "de/d38/a13548.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
+    [ "JustEngagedWith", "de/d38/a13548.html#a36324482fb264cc3cacf11c3ed542eee", null ],
+    [ "JustSummoned", "de/d38/a13548.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
+    [ "Reset", "de/d38/a13548.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
+    [ "SetGUID", "de/d38/a13548.html#aa5270e7468dcafba98d3ee72752771ce", null ],
+    [ "UpdateAI", "de/d38/a13548.html#ab704e4f3af8aa734910efd259db31407", null ],
+    [ "_events", "de/d38/a13548.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
+    [ "LamentEvent", "de/d38/a13548.html#ace9e901a965665e0f97cb9646af308aa", null ],
+    [ "playerGUID", "de/d38/a13548.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
 ];

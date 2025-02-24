@@ -1,6 +1,5 @@
 var a27188 =
 [
-    [ "go_midsummer_musicAI", "df/de2/a27192.html", "df/de2/a27192" ],
-    [ "go_midsummer_music", "d3/de6/a27188.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
-    [ "GetAI", "d3/de6/a27188.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
+    [ "go_soulwellAI", "d3/de6/a27188.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "d3/de6/a27188.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

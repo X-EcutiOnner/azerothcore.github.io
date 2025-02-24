@@ -1,7 +1,6 @@
 var a10920 =
 [
-    [ "CategoryRecoveryTime", "d5/d95/a10920.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "d5/d95/a10920.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "d5/d95/a10920.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "d5/d95/a10920.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "AccountData", "d5/d95/a10920.html#a593303fb86ec3ac592ee933b8d057fe8", null ],
+    [ "Data", "d5/d95/a10920.html#aa45f3f93f643b4dd9ea4d269e3b5462d", null ],
+    [ "Time", "d5/d95/a10920.html#a38b2049e50845641cc380b6786e68ac5", null ]
 ];

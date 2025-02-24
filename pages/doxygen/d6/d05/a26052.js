@@ -1,8 +1,10 @@
 var a26052 =
 [
-    [ "CheckCast", "d6/d05/a26052.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
-    [ "HandleDummy", "d6/d05/a26052.html#a1eac1eb5f39093ff48942e82728478dd", null ],
-    [ "PrepareSpellScript", "d6/d05/a26052.html#adbb58b75232560d101b291c0d99a2a20", null ],
-    [ "Register", "d6/d05/a26052.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
-    [ "Validate", "d6/d05/a26052.html#a4b67c348685a8094668e4ed2f0c78446", null ]
+    [ "CheckProc", "d6/d05/a26052.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
+    [ "HandleProc", "d6/d05/a26052.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
+    [ "Load", "d6/d05/a26052.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
+    [ "PrepareAuraScript", "d6/d05/a26052.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
+    [ "Register", "d6/d05/a26052.html#a4cb08499767ab58f0e525c382b662fbd", null ],
+    [ "Validate", "d6/d05/a26052.html#aa6165f28706d49940dd1f62065631119", null ],
+    [ "_procTarget", "d6/d05/a26052.html#a7b9426e18b454bf631992518c2bdbde0", null ]
 ];

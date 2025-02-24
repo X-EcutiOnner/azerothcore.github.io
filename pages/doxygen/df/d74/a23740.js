@@ -1,6 +1,6 @@
 var a23740 =
 [
-    [ "OnApply", "df/d74/a23740.html#a472220f22165c6d21eab5f4b5f75921e", null ],
-    [ "PrepareAuraScript", "df/d74/a23740.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
-    [ "Register", "df/d74/a23740.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
+    [ "PrepareAuraScript", "df/d74/a23740.html#a14d4d1a75130a77e7e59e41720491bec", null ],
+    [ "PrepareProc", "df/d74/a23740.html#abea217f4bfdffc70007fbc29849e9a49", null ],
+    [ "Register", "df/d74/a23740.html#a9dbcd4c940f5941472bebb64829125e3", null ]
 ];

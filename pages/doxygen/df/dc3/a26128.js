@@ -1,6 +1,7 @@
 var a26128 =
 [
-    [ "FilterTargets", "df/dc3/a26128.html#a23c7b977f7e213322b3702367d6a28c7", null ],
-    [ "PrepareSpellScript", "df/dc3/a26128.html#a7000b2fd940c914933c486e847932b62", null ],
-    [ "Register", "df/dc3/a26128.html#a870ee08d0341f6640710a87c97a6b98b", null ]
+    [ "HandleEffectRemove", "df/dc3/a26128.html#a814687d3938e966f8721438e1a722f77", null ],
+    [ "PrepareAuraScript", "df/dc3/a26128.html#a2144b0602501471a4001883ce9de6db3", null ],
+    [ "Register", "df/dc3/a26128.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
+    [ "AuraEffectHandleModes", "df/dc3/a26128.html#ab291f6c6f269ec7004df39a043f49efd", null ]
 ];

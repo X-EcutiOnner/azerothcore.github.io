@@ -1,7 +1,12 @@
 var a22748 =
 [
-    [ "OnPeriodic", "d6/df9/a22748.html#a165d47b116b0a53e37b05f664960e6ec", null ],
-    [ "PrepareAuraScript", "d6/df9/a22748.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
-    [ "Register", "d6/df9/a22748.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
-    [ "Validate", "d6/df9/a22748.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
+    [ "boss_essence_of_sufferingAI", "d6/df9/a22748.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
+    [ "DamageTaken", "d6/df9/a22748.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
+    [ "DoAction", "d6/df9/a22748.html#a08724d74523866969b12d13846eb4c1e", null ],
+    [ "JustEngagedWith", "d6/df9/a22748.html#aa2fce36768ad6e23a955cd215ca759db", null ],
+    [ "KilledUnit", "d6/df9/a22748.html#a3699b19f23cf15115ff8c92691a6d334", null ],
+    [ "MovementInform", "d6/df9/a22748.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
+    [ "Reset", "d6/df9/a22748.html#affa55b69784d8f881598189c361c986e", null ],
+    [ "UpdateAI", "d6/df9/a22748.html#abb60432720b3720832ccc83d454a3808", null ],
+    [ "_recentlySpoken", "d6/df9/a22748.html#a71a28a61e97f6278836649411493484f", null ]
 ];

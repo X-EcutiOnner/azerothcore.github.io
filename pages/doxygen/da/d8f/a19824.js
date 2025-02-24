@@ -1,6 +1,7 @@
 var a19824 =
 [
-    [ "npc_storm_beacon_spawnAI", "de/da7/a19828.html", "de/da7/a19828" ],
-    [ "npc_storm_beacon_spawn", "da/d8f/a19824.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
-    [ "GetAI", "da/d8f/a19824.html#a780dd823962e259dbeda7089224aa23e", null ]
+    [ "FilterTargets", "da/d8f/a19824.html#a3d864f0428b7e53774d06069037ca5b2", null ],
+    [ "HandleScript", "da/d8f/a19824.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
+    [ "PrepareSpellScript", "da/d8f/a19824.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
+    [ "Register", "da/d8f/a19824.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
 ];

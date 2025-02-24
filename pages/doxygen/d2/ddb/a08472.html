@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellNonMeleeDamage Struct Reference</title>
+<title>AzerothCore: SpellModifier Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,50 +108,38 @@ $(document).ready(function(){initNavTree('d2/ddb/a08472.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../df/d9b/a08469.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellNonMeleeDamage Struct Reference</div></div>
+  <div class="headertitle"><div class="title">SpellModifier Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad9d6b798f9ed159d847affc5c4b23715"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#ad9d6b798f9ed159d847affc5c4b23715">SpellNonMeleeDamage</a> (<a class="el" href="../../d0/d69/a08488.html">Unit</a> *_attacker, <a class="el" href="../../d0/d69/a08488.html">Unit</a> *_target, <a class="el" href="../../d8/d09/a10864.html">SpellInfo</a> const *_spellInfo, <a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> _schoolMask)</td></tr>
-<tr class="separator:ad9d6b798f9ed159d847affc5c4b23715"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adba5fad6b904d09a43be7302e7eb62bd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#adba5fad6b904d09a43be7302e7eb62bd">SpellModifier</a> (<a class="el" href="../../d0/d19/a11012.html">Aura</a> *_ownerAura=nullptr)</td></tr>
+<tr class="separator:adba5fad6b904d09a43be7302e7eb62bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a324ea6c84e005487560de986dceffeba"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d69/a08488.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#a324ea6c84e005487560de986dceffeba">target</a></td></tr>
-<tr class="separator:a324ea6c84e005487560de986dceffeba"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5248da0c1a8609479d681ae76a77d045"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d69/a08488.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#a5248da0c1a8609479d681ae76a77d045">attacker</a></td></tr>
-<tr class="separator:a5248da0c1a8609479d681ae76a77d045"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9e37c164672dbcc81dd43bee9ec988cb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d09/a10864.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#a9e37c164672dbcc81dd43bee9ec988cb">spellInfo</a></td></tr>
-<tr class="separator:a9e37c164672dbcc81dd43bee9ec988cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a47e66924ae869ce34bdf36a5ed50548b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#a47e66924ae869ce34bdf36a5ed50548b">damage</a></td></tr>
-<tr class="separator:a47e66924ae869ce34bdf36a5ed50548b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0d578181e933091f3ea1c88ce68e857a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#a0d578181e933091f3ea1c88ce68e857a">overkill</a></td></tr>
-<tr class="separator:a0d578181e933091f3ea1c88ce68e857a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a52f5ae6091fe547ed7e282d52c626361"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#a52f5ae6091fe547ed7e282d52c626361">schoolMask</a></td></tr>
-<tr class="separator:a52f5ae6091fe547ed7e282d52c626361"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a485ee28c6a8cf32a22578e02633df75b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#a485ee28c6a8cf32a22578e02633df75b">absorb</a></td></tr>
-<tr class="separator:a485ee28c6a8cf32a22578e02633df75b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ade20f4aab4a1945ccd6754cd71101fe2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#ade20f4aab4a1945ccd6754cd71101fe2">resist</a></td></tr>
-<tr class="separator:ade20f4aab4a1945ccd6754cd71101fe2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a34318f4d92685c855972e6fd22089e03"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#a34318f4d92685c855972e6fd22089e03">physicalLog</a></td></tr>
-<tr class="separator:a34318f4d92685c855972e6fd22089e03"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae991311d8290996e1c0c49f33c29c6b3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#ae991311d8290996e1c0c49f33c29c6b3">unused</a></td></tr>
-<tr class="separator:ae991311d8290996e1c0c49f33c29c6b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af0cb3d2801e51d9236a6ff5185a43790"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#af0cb3d2801e51d9236a6ff5185a43790">blocked</a></td></tr>
-<tr class="separator:af0cb3d2801e51d9236a6ff5185a43790"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3f99854d163cd672f881f721d5bc8a39"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#a3f99854d163cd672f881f721d5bc8a39">HitInfo</a></td></tr>
-<tr class="separator:a3f99854d163cd672f881f721d5bc8a39"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa49cdb425fe9c8fb483dcc3c22ca6a72"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#aa49cdb425fe9c8fb483dcc3c22ca6a72">cleanDamage</a></td></tr>
-<tr class="separator:aa49cdb425fe9c8fb483dcc3c22ca6a72"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a21d017f0c8d3108a0eb5f48798103356"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dfd/a03536.html#a39b60e1f12cca9b6873cb817e7717351">SpellModOp</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#a21d017f0c8d3108a0eb5f48798103356">op</a>: 8</td></tr>
+<tr class="separator:a21d017f0c8d3108a0eb5f48798103356"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22f64b9c021f5a87f30f01ef117ebb0b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d1b/a02960.html#a946f1b98541e5df18b4b45f6fb144ce8">SpellModType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#a22f64b9c021f5a87f30f01ef117ebb0b">type</a>: 8</td></tr>
+<tr class="separator:a22f64b9c021f5a87f30f01ef117ebb0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1aaf71299c2dd27b58a049d252efdee8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#aecf4e3680a32207d17f62a3426731878">int16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#a1aaf71299c2dd27b58a049d252efdee8">charges</a>: 16</td></tr>
+<tr class="separator:a1aaf71299c2dd27b58a049d252efdee8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a31742662ba8112c9e9b972897a928e57"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#a31742662ba8112c9e9b972897a928e57">value</a> {0}</td></tr>
+<tr class="separator:a31742662ba8112c9e9b972897a928e57"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba1b01bf3486d61cc1876b03078a35ee"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d38/a05588.html">flag96</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#aba1b01bf3486d61cc1876b03078a35ee">mask</a></td></tr>
+<tr class="separator:aba1b01bf3486d61cc1876b03078a35ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a465803efab27b2ba0a49c6571b65b908"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#a465803efab27b2ba0a49c6571b65b908">spellId</a> {0}</td></tr>
+<tr class="separator:a465803efab27b2ba0a49c6571b65b908"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e180553fb4739eb7f947da70fbe7ef8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d19/a11012.html">Aura</a> *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddb/a08472.html#a5e180553fb4739eb7f947da70fbe7ef8">ownerAura</a></td></tr>
+<tr class="separator:a5e180553fb4739eb7f947da70fbe7ef8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad9d6b798f9ed159d847affc5c4b23715" name="ad9d6b798f9ed159d847affc5c4b23715"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad9d6b798f9ed159d847affc5c4b23715">&#9670;&#160;</a></span>SpellNonMeleeDamage()</h2>
+<a id="adba5fad6b904d09a43be7302e7eb62bd" name="adba5fad6b904d09a43be7302e7eb62bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adba5fad6b904d09a43be7302e7eb62bd">&#9670;&#160;</a></span>SpellModifier()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -160,33 +148,11 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">SpellNonMeleeDamage::SpellNonMeleeDamage </td>
+          <td class="memname">SpellModifier::SpellModifier </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d69/a08488.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>_attacker</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype"><a class="el" href="../../d0/d19/a11012.html">Aura</a> *&#160;</td>
+          <td class="paramname"><em>_ownerAura</em> = <code>nullptr</code></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d69/a08488.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>_target</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/d09/a10864.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname"><em>_spellInfo</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>_schoolMask</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -195,229 +161,127 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  491</span>        : <a class="code hl_variable" href="../../d2/ddb/a08472.html#a324ea6c84e005487560de986dceffeba">target</a>(_target), <a class="code hl_variable" href="../../d2/ddb/a08472.html#a5248da0c1a8609479d681ae76a77d045">attacker</a>(_attacker), <a class="code hl_variable" href="../../d2/ddb/a08472.html#a9e37c164672dbcc81dd43bee9ec988cb">spellInfo</a>(_spellInfo), <a class="code hl_variable" href="../../d2/ddb/a08472.html#a47e66924ae869ce34bdf36a5ed50548b">damage</a>(0), <a class="code hl_variable" href="../../d2/ddb/a08472.html#a0d578181e933091f3ea1c88ce68e857a">overkill</a>(0), <a class="code hl_variable" href="../../d2/ddb/a08472.html#a52f5ae6091fe547ed7e282d52c626361">schoolMask</a>(_schoolMask),</div>
-<div class="line"><span class="lineno">  492</span>          <a class="code hl_variable" href="../../d2/ddb/a08472.html#a485ee28c6a8cf32a22578e02633df75b">absorb</a>(0), <a class="code hl_variable" href="../../d2/ddb/a08472.html#ade20f4aab4a1945ccd6754cd71101fe2">resist</a>(0), <a class="code hl_variable" href="../../d2/ddb/a08472.html#a34318f4d92685c855972e6fd22089e03">physicalLog</a>(<span class="keyword">false</span>), <a class="code hl_variable" href="../../d2/ddb/a08472.html#ae991311d8290996e1c0c49f33c29c6b3">unused</a>(<span class="keyword">false</span>), <a class="code hl_variable" href="../../d2/ddb/a08472.html#af0cb3d2801e51d9236a6ff5185a43790">blocked</a>(0), <a class="code hl_variable" href="../../d2/ddb/a08472.html#a3f99854d163cd672f881f721d5bc8a39">HitInfo</a>(0), <a class="code hl_variable" href="../../d2/ddb/a08472.html#aa49cdb425fe9c8fb483dcc3c22ca6a72">cleanDamage</a>(0)</div>
-<div class="line"><span class="lineno">  493</span>    {}</div>
-<div class="ttc" id="aa08472_html_a0d578181e933091f3ea1c88ce68e857a"><div class="ttname"><a href="../../d2/ddb/a08472.html#a0d578181e933091f3ea1c88ce68e857a">SpellNonMeleeDamage::overkill</a></div><div class="ttdeci">uint32 overkill</div><div class="ttdef"><b>Definition:</b> Unit.h:499</div></div>
-<div class="ttc" id="aa08472_html_a324ea6c84e005487560de986dceffeba"><div class="ttname"><a href="../../d2/ddb/a08472.html#a324ea6c84e005487560de986dceffeba">SpellNonMeleeDamage::target</a></div><div class="ttdeci">Unit * target</div><div class="ttdef"><b>Definition:</b> Unit.h:495</div></div>
-<div class="ttc" id="aa08472_html_a34318f4d92685c855972e6fd22089e03"><div class="ttname"><a href="../../d2/ddb/a08472.html#a34318f4d92685c855972e6fd22089e03">SpellNonMeleeDamage::physicalLog</a></div><div class="ttdeci">bool physicalLog</div><div class="ttdef"><b>Definition:</b> Unit.h:503</div></div>
-<div class="ttc" id="aa08472_html_a3f99854d163cd672f881f721d5bc8a39"><div class="ttname"><a href="../../d2/ddb/a08472.html#a3f99854d163cd672f881f721d5bc8a39">SpellNonMeleeDamage::HitInfo</a></div><div class="ttdeci">uint32 HitInfo</div><div class="ttdef"><b>Definition:</b> Unit.h:506</div></div>
-<div class="ttc" id="aa08472_html_a47e66924ae869ce34bdf36a5ed50548b"><div class="ttname"><a href="../../d2/ddb/a08472.html#a47e66924ae869ce34bdf36a5ed50548b">SpellNonMeleeDamage::damage</a></div><div class="ttdeci">uint32 damage</div><div class="ttdef"><b>Definition:</b> Unit.h:498</div></div>
-<div class="ttc" id="aa08472_html_a485ee28c6a8cf32a22578e02633df75b"><div class="ttname"><a href="../../d2/ddb/a08472.html#a485ee28c6a8cf32a22578e02633df75b">SpellNonMeleeDamage::absorb</a></div><div class="ttdeci">uint32 absorb</div><div class="ttdef"><b>Definition:</b> Unit.h:501</div></div>
-<div class="ttc" id="aa08472_html_a5248da0c1a8609479d681ae76a77d045"><div class="ttname"><a href="../../d2/ddb/a08472.html#a5248da0c1a8609479d681ae76a77d045">SpellNonMeleeDamage::attacker</a></div><div class="ttdeci">Unit * attacker</div><div class="ttdef"><b>Definition:</b> Unit.h:496</div></div>
-<div class="ttc" id="aa08472_html_a52f5ae6091fe547ed7e282d52c626361"><div class="ttname"><a href="../../d2/ddb/a08472.html#a52f5ae6091fe547ed7e282d52c626361">SpellNonMeleeDamage::schoolMask</a></div><div class="ttdeci">uint32 schoolMask</div><div class="ttdef"><b>Definition:</b> Unit.h:500</div></div>
-<div class="ttc" id="aa08472_html_a9e37c164672dbcc81dd43bee9ec988cb"><div class="ttname"><a href="../../d2/ddb/a08472.html#a9e37c164672dbcc81dd43bee9ec988cb">SpellNonMeleeDamage::spellInfo</a></div><div class="ttdeci">SpellInfo const  * spellInfo</div><div class="ttdef"><b>Definition:</b> Unit.h:497</div></div>
-<div class="ttc" id="aa08472_html_aa49cdb425fe9c8fb483dcc3c22ca6a72"><div class="ttname"><a href="../../d2/ddb/a08472.html#aa49cdb425fe9c8fb483dcc3c22ca6a72">SpellNonMeleeDamage::cleanDamage</a></div><div class="ttdeci">uint32 cleanDamage</div><div class="ttdef"><b>Definition:</b> Unit.h:508</div></div>
-<div class="ttc" id="aa08472_html_ade20f4aab4a1945ccd6754cd71101fe2"><div class="ttname"><a href="../../d2/ddb/a08472.html#ade20f4aab4a1945ccd6754cd71101fe2">SpellNonMeleeDamage::resist</a></div><div class="ttdeci">uint32 resist</div><div class="ttdef"><b>Definition:</b> Unit.h:502</div></div>
-<div class="ttc" id="aa08472_html_ae991311d8290996e1c0c49f33c29c6b3"><div class="ttname"><a href="../../d2/ddb/a08472.html#ae991311d8290996e1c0c49f33c29c6b3">SpellNonMeleeDamage::unused</a></div><div class="ttdeci">bool unused</div><div class="ttdef"><b>Definition:</b> Unit.h:504</div></div>
-<div class="ttc" id="aa08472_html_af0cb3d2801e51d9236a6ff5185a43790"><div class="ttname"><a href="../../d2/ddb/a08472.html#af0cb3d2801e51d9236a6ff5185a43790">SpellNonMeleeDamage::blocked</a></div><div class="ttdeci">uint32 blocked</div><div class="ttdef"><b>Definition:</b> Unit.h:505</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  182</span>: <a class="code hl_variable" href="../../d2/ddb/a08472.html#a21d017f0c8d3108a0eb5f48798103356">op</a>(<a class="code hl_enumvalue" href="../../d1/dfd/a03536.html#a39b60e1f12cca9b6873cb817e7717351a0df5b1482e6dd01af433e9e95fbae0f3">SPELLMOD_DAMAGE</a>), <a class="code hl_variable" href="../../d2/ddb/a08472.html#a22f64b9c021f5a87f30f01ef117ebb0b">type</a>(<a class="code hl_enumvalue" href="../../db/d1b/a02960.html#a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7">SPELLMOD_FLAT</a>), <a class="code hl_variable" href="../../d2/ddb/a08472.html#a1aaf71299c2dd27b58a049d252efdee8">charges</a>(0),  <a class="code hl_variable" href="../../d2/ddb/a08472.html#aba1b01bf3486d61cc1876b03078a35ee">mask</a>(), <a class="code hl_variable" href="../../d2/ddb/a08472.html#a5e180553fb4739eb7f947da70fbe7ef8">ownerAura</a>(_ownerAura) {}</div>
+<div class="ttc" id="aa02960_html_a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7"><div class="ttname"><a href="../../db/d1b/a02960.html#a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7">SPELLMOD_FLAT</a></div><div class="ttdeci">@ SPELLMOD_FLAT</div><div class="ttdef"><b>Definition:</b> Player.h:93</div></div>
+<div class="ttc" id="aa03536_html_a39b60e1f12cca9b6873cb817e7717351a0df5b1482e6dd01af433e9e95fbae0f3"><div class="ttname"><a href="../../d1/dfd/a03536.html#a39b60e1f12cca9b6873cb817e7717351a0df5b1482e6dd01af433e9e95fbae0f3">SPELLMOD_DAMAGE</a></div><div class="ttdeci">@ SPELLMOD_DAMAGE</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:76</div></div>
+<div class="ttc" id="aa08472_html_a1aaf71299c2dd27b58a049d252efdee8"><div class="ttname"><a href="../../d2/ddb/a08472.html#a1aaf71299c2dd27b58a049d252efdee8">SpellModifier::charges</a></div><div class="ttdeci">int16 charges</div><div class="ttdef"><b>Definition:</b> Player.h:185</div></div>
+<div class="ttc" id="aa08472_html_a21d017f0c8d3108a0eb5f48798103356"><div class="ttname"><a href="../../d2/ddb/a08472.html#a21d017f0c8d3108a0eb5f48798103356">SpellModifier::op</a></div><div class="ttdeci">SpellModOp op</div><div class="ttdef"><b>Definition:</b> Player.h:183</div></div>
+<div class="ttc" id="aa08472_html_a22f64b9c021f5a87f30f01ef117ebb0b"><div class="ttname"><a href="../../d2/ddb/a08472.html#a22f64b9c021f5a87f30f01ef117ebb0b">SpellModifier::type</a></div><div class="ttdeci">SpellModType type</div><div class="ttdef"><b>Definition:</b> Player.h:184</div></div>
+<div class="ttc" id="aa08472_html_a5e180553fb4739eb7f947da70fbe7ef8"><div class="ttname"><a href="../../d2/ddb/a08472.html#a5e180553fb4739eb7f947da70fbe7ef8">SpellModifier::ownerAura</a></div><div class="ttdeci">Aura *const ownerAura</div><div class="ttdef"><b>Definition:</b> Player.h:189</div></div>
+<div class="ttc" id="aa08472_html_aba1b01bf3486d61cc1876b03078a35ee"><div class="ttname"><a href="../../d2/ddb/a08472.html#aba1b01bf3486d61cc1876b03078a35ee">SpellModifier::mask</a></div><div class="ttdeci">flag96 mask</div><div class="ttdef"><b>Definition:</b> Player.h:187</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a485ee28c6a8cf32a22578e02633df75b" name="a485ee28c6a8cf32a22578e02633df75b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a485ee28c6a8cf32a22578e02633df75b">&#9670;&#160;</a></span>absorb</h2>
+<a id="a1aaf71299c2dd27b58a049d252efdee8" name="a1aaf71299c2dd27b58a049d252efdee8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1aaf71299c2dd27b58a049d252efdee8">&#9670;&#160;</a></span>charges</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellNonMeleeDamage::absorb</td>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#aecf4e3680a32207d17f62a3426731878">int16</a> SpellModifier::charges</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01282">Unit::CalculateSpellDamageTaken()</a>, <a class="el" href="../../#l15922">createProcExtendMask()</a>, <a class="el" href="../../#l01425">Unit::DealSpellDamage()</a>, <a class="el" href="../../#l02609">Spell::DoAllEffectOnTarget()</a>, <a class="el" href="../../#l07167">AuraEffect::HandlePeriodicPowerBurnAuraTick()</a>, <a class="el" href="../../#l07252">AuraEffect::HandleProcTriggerDamageAuraProc()</a>, <a class="el" href="../../#l06261">Unit::SendSpellNonMeleeDamageLog()</a>, and <a class="el" href="../../#l06229">Unit::SendSpellNonMeleeReflectLog()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00689">AuraEffect::CalculateSpellMod()</a>, <a class="el" href="../../#l10130">Player::DropModCharge()</a>, <a class="el" href="../../#l09776">Player::IsAffectedBySpellmod()</a>, <a class="el" href="../../#l10073">Player::RemoveSpellMods()</a>, and <a class="el" href="../../#l09999">Player::RestoreSpellMods()</a>.</p>
 
 </div>
 </div>
-<a id="a5248da0c1a8609479d681ae76a77d045" name="a5248da0c1a8609479d681ae76a77d045"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5248da0c1a8609479d681ae76a77d045">&#9670;&#160;</a></span>attacker</h2>
+<a id="aba1b01bf3486d61cc1876b03078a35ee" name="aba1b01bf3486d61cc1876b03078a35ee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba1b01bf3486d61cc1876b03078a35ee">&#9670;&#160;</a></span>mask</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d69/a08488.html">Unit</a>* SpellNonMeleeDamage::attacker</td>
+          <td class="memname"><a class="el" href="../../d0/d38/a05588.html">flag96</a> SpellModifier::mask</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01282">Unit::CalculateSpellDamageTaken()</a>, and <a class="el" href="../../#l06261">Unit::SendSpellNonMeleeDamageLog()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09951">Player::AddSpellMod()</a>, <a class="el" href="../../#l00689">AuraEffect::CalculateSpellMod()</a>, <a class="el" href="../../#l00534">spell_dru_idol_lifebloom::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00623">spell_pal_exorcism_and_holy_wrath_damage::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00191">spell_warl_improved_demonic_tactics::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00816">spell_warr_glyph_of_sunder_armor::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l01293">SpellInfo::IsAffectedBySpellMod()</a>, and <a class="el" href="../../#l09999">Player::RestoreSpellMods()</a>.</p>
 
 </div>
 </div>
-<a id="af0cb3d2801e51d9236a6ff5185a43790" name="af0cb3d2801e51d9236a6ff5185a43790"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af0cb3d2801e51d9236a6ff5185a43790">&#9670;&#160;</a></span>blocked</h2>
+<a id="a21d017f0c8d3108a0eb5f48798103356" name="a21d017f0c8d3108a0eb5f48798103356"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a21d017f0c8d3108a0eb5f48798103356">&#9670;&#160;</a></span>op</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellNonMeleeDamage::blocked</td>
+          <td class="memname"><a class="el" href="../../d1/dfd/a03536.html#a39b60e1f12cca9b6873cb817e7717351">SpellModOp</a> SpellModifier::op</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01282">Unit::CalculateSpellDamageTaken()</a>, <a class="el" href="../../#l15922">createProcExtendMask()</a>, <a class="el" href="../../#l02609">Spell::DoAllEffectOnTarget()</a>, <a class="el" href="../../#l06261">Unit::SendSpellNonMeleeDamageLog()</a>, and <a class="el" href="../../#l06229">Unit::SendSpellNonMeleeReflectLog()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09951">Player::AddSpellMod()</a>, <a class="el" href="../../#l00689">AuraEffect::CalculateSpellMod()</a>, <a class="el" href="../../#l00534">spell_dru_idol_lifebloom::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00623">spell_pal_exorcism_and_holy_wrath_damage::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00191">spell_warl_improved_demonic_tactics::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00816">spell_warr_glyph_of_sunder_armor::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l09776">Player::IsAffectedBySpellmod()</a>, and <a class="el" href="../../#l01293">SpellInfo::IsAffectedBySpellMod()</a>.</p>
 
 </div>
 </div>
-<a id="aa49cdb425fe9c8fb483dcc3c22ca6a72" name="aa49cdb425fe9c8fb483dcc3c22ca6a72"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa49cdb425fe9c8fb483dcc3c22ca6a72">&#9670;&#160;</a></span>cleanDamage</h2>
+<a id="a5e180553fb4739eb7f947da70fbe7ef8" name="a5e180553fb4739eb7f947da70fbe7ef8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5e180553fb4739eb7f947da70fbe7ef8">&#9670;&#160;</a></span>ownerAura</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellNonMeleeDamage::cleanDamage</td>
+          <td class="memname"><a class="el" href="../../d0/d19/a11012.html">Aura</a>* const SpellModifier::ownerAura</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01282">Unit::CalculateSpellDamageTaken()</a>, and <a class="el" href="../../#l01425">Unit::DealSpellDamage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09951">Player::AddSpellMod()</a>, <a class="el" href="../../#l09793">Player::ApplySpellMod()</a>, <a class="el" href="../../#l10130">Player::DropModCharge()</a>, <a class="el" href="../../#l09768">Player::HasSpellMod()</a>, <a class="el" href="../../#l09776">Player::IsAffectedBySpellmod()</a>, <a class="el" href="../../#l10073">Player::RemoveSpellMods()</a>, and <a class="el" href="../../#l09999">Player::RestoreSpellMods()</a>.</p>
 
 </div>
 </div>
-<a id="a47e66924ae869ce34bdf36a5ed50548b" name="a47e66924ae869ce34bdf36a5ed50548b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a47e66924ae869ce34bdf36a5ed50548b">&#9670;&#160;</a></span>damage</h2>
+<a id="a465803efab27b2ba0a49c6571b65b908" name="a465803efab27b2ba0a49c6571b65b908"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a465803efab27b2ba0a49c6571b65b908">&#9670;&#160;</a></span>spellId</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellNonMeleeDamage::damage</td>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellModifier::spellId {0}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01282">Unit::CalculateSpellDamageTaken()</a>, <a class="el" href="../../#l01425">Unit::DealSpellDamage()</a>, <a class="el" href="../../#l02609">Spell::DoAllEffectOnTarget()</a>, <a class="el" href="../../#l00804">spell_sindragosa_s_fury::HandleDummy()</a>, <a class="el" href="../../#l07167">AuraEffect::HandlePeriodicPowerBurnAuraTick()</a>, <a class="el" href="../../#l07252">AuraEffect::HandleProcTriggerDamageAuraProc()</a>, <a class="el" href="../../#l06261">Unit::SendSpellNonMeleeDamageLog()</a>, and <a class="el" href="../../#l06229">Unit::SendSpellNonMeleeReflectLog()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09951">Player::AddSpellMod()</a>, <a class="el" href="../../#l00689">AuraEffect::CalculateSpellMod()</a>, <a class="el" href="../../#l00534">spell_dru_idol_lifebloom::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00623">spell_pal_exorcism_and_holy_wrath_damage::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00191">spell_warl_improved_demonic_tactics::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00816">spell_warr_glyph_of_sunder_armor::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l01293">SpellInfo::IsAffectedBySpellMod()</a>, <a class="el" href="../../#l09939">MageSpellModPred::operator()()</a>, and <a class="el" href="../../#l10073">Player::RemoveSpellMods()</a>.</p>
 
 </div>
 </div>
-<a id="a3f99854d163cd672f881f721d5bc8a39" name="a3f99854d163cd672f881f721d5bc8a39"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3f99854d163cd672f881f721d5bc8a39">&#9670;&#160;</a></span>HitInfo</h2>
+<a id="a22f64b9c021f5a87f30f01ef117ebb0b" name="a22f64b9c021f5a87f30f01ef117ebb0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a22f64b9c021f5a87f30f01ef117ebb0b">&#9670;&#160;</a></span>type</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellNonMeleeDamage::HitInfo</td>
+          <td class="memname"><a class="el" href="../../db/d1b/a02960.html#a946f1b98541e5df18b4b45f6fb144ce8">SpellModType</a> SpellModifier::type</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01282">Unit::CalculateSpellDamageTaken()</a>, <a class="el" href="../../#l15922">createProcExtendMask()</a>, <a class="el" href="../../#l02609">Spell::DoAllEffectOnTarget()</a>, <a class="el" href="../../#l06261">Unit::SendSpellNonMeleeDamageLog()</a>, and <a class="el" href="../../#l06229">Unit::SendSpellNonMeleeReflectLog()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09951">Player::AddSpellMod()</a>, <a class="el" href="../../#l00689">AuraEffect::CalculateSpellMod()</a>, <a class="el" href="../../#l00534">spell_dru_idol_lifebloom::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00623">spell_pal_exorcism_and_holy_wrath_damage::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00191">spell_warl_improved_demonic_tactics::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00816">spell_warr_glyph_of_sunder_armor::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l09928">SpellModPred::operator()()</a>, and <a class="el" href="../../#l09939">MageSpellModPred::operator()()</a>.</p>
 
 </div>
 </div>
-<a id="a0d578181e933091f3ea1c88ce68e857a" name="a0d578181e933091f3ea1c88ce68e857a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0d578181e933091f3ea1c88ce68e857a">&#9670;&#160;</a></span>overkill</h2>
+<a id="a31742662ba8112c9e9b972897a928e57" name="a31742662ba8112c9e9b972897a928e57"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a31742662ba8112c9e9b972897a928e57">&#9670;&#160;</a></span>value</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellNonMeleeDamage::overkill</td>
+          <td class="memname"><a class="el" href="../../d1/dce/a04559.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> SpellModifier::value {0}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<a id="a34318f4d92685c855972e6fd22089e03" name="a34318f4d92685c855972e6fd22089e03"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a34318f4d92685c855972e6fd22089e03">&#9670;&#160;</a></span>physicalLog</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool SpellNonMeleeDamage::physicalLog</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06261">Unit::SendSpellNonMeleeDamageLog()</a>, and <a class="el" href="../../#l06229">Unit::SendSpellNonMeleeReflectLog()</a>.</p>
-
-</div>
-</div>
-<a id="ade20f4aab4a1945ccd6754cd71101fe2" name="ade20f4aab4a1945ccd6754cd71101fe2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ade20f4aab4a1945ccd6754cd71101fe2">&#9670;&#160;</a></span>resist</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellNonMeleeDamage::resist</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01282">Unit::CalculateSpellDamageTaken()</a>, <a class="el" href="../../#l06261">Unit::SendSpellNonMeleeDamageLog()</a>, and <a class="el" href="../../#l06229">Unit::SendSpellNonMeleeReflectLog()</a>.</p>
-
-</div>
-</div>
-<a id="a52f5ae6091fe547ed7e282d52c626361" name="a52f5ae6091fe547ed7e282d52c626361"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a52f5ae6091fe547ed7e282d52c626361">&#9670;&#160;</a></span>schoolMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d1/dd3/a04427.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellNonMeleeDamage::schoolMask</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01282">Unit::CalculateSpellDamageTaken()</a>, <a class="el" href="../../#l01425">Unit::DealSpellDamage()</a>, <a class="el" href="../../#l06261">Unit::SendSpellNonMeleeDamageLog()</a>, and <a class="el" href="../../#l06229">Unit::SendSpellNonMeleeReflectLog()</a>.</p>
-
-</div>
-</div>
-<a id="a9e37c164672dbcc81dd43bee9ec988cb" name="a9e37c164672dbcc81dd43bee9ec988cb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9e37c164672dbcc81dd43bee9ec988cb">&#9670;&#160;</a></span>spellInfo</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/d09/a10864.html">SpellInfo</a> const* SpellNonMeleeDamage::spellInfo</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01425">Unit::DealSpellDamage()</a>, <a class="el" href="../../#l06261">Unit::SendSpellNonMeleeDamageLog()</a>, and <a class="el" href="../../#l06229">Unit::SendSpellNonMeleeReflectLog()</a>.</p>
-
-</div>
-</div>
-<a id="a324ea6c84e005487560de986dceffeba" name="a324ea6c84e005487560de986dceffeba"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a324ea6c84e005487560de986dceffeba">&#9670;&#160;</a></span>target</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d69/a08488.html">Unit</a>* SpellNonMeleeDamage::target</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01282">Unit::CalculateSpellDamageTaken()</a>, <a class="el" href="../../#l01425">Unit::DealSpellDamage()</a>, <a class="el" href="../../#l02609">Spell::DoAllEffectOnTarget()</a>, <a class="el" href="../../#l07167">AuraEffect::HandlePeriodicPowerBurnAuraTick()</a>, <a class="el" href="../../#l07252">AuraEffect::HandleProcTriggerDamageAuraProc()</a>, <a class="el" href="../../#l06261">Unit::SendSpellNonMeleeDamageLog()</a>, and <a class="el" href="../../#l06229">Unit::SendSpellNonMeleeReflectLog()</a>.</p>
-
-</div>
-</div>
-<a id="ae991311d8290996e1c0c49f33c29c6b3" name="ae991311d8290996e1c0c49f33c29c6b3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae991311d8290996e1c0c49f33c29c6b3">&#9670;&#160;</a></span>unused</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool SpellNonMeleeDamage::unused</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06261">Unit::SendSpellNonMeleeDamageLog()</a>, and <a class="el" href="../../#l06229">Unit::SendSpellNonMeleeReflectLog()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09951">Player::AddSpellMod()</a>, <a class="el" href="../../#l00689">AuraEffect::CalculateSpellMod()</a>, <a class="el" href="../../#l00534">spell_dru_idol_lifebloom::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00623">spell_pal_exorcism_and_holy_wrath_damage::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00191">spell_warl_improved_demonic_tactics::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00816">spell_warr_glyph_of_sunder_armor::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l09928">SpellModPred::operator()()</a>, and <a class="el" href="../../#l09939">MageSpellModPred::operator()()</a>.</p>
 
 </div>
 </div>
@@ -426,8 +290,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d2/ddb/a08472.html">SpellNonMeleeDamage</a></li>
-    <li class="footer">Generated on Mon Sep 2 2024 20:43:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/ddb/a08472.html">SpellModifier</a></li>
+    <li class="footer">Generated on Mon Feb 24 2025 20:44:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

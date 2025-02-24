@@ -1,10 +1,7 @@
 var a09068 =
 [
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d0/d27/a09068.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d0/d27/a09068.html#a1e25384d08beeee84d83e401f5a5a565", null ],
-    [ "operator()", "d0/d27/a09068.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
-    [ "i_alive", "d0/d27/a09068.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
-    [ "i_entry", "d0/d27/a09068.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
-    [ "i_obj", "d0/d27/a09068.html#aa0340c79c37f3494b01c52f034705aa4", null ],
-    [ "i_range", "d0/d27/a09068.html#a695af00612b17e0182ad76a5c3be2356", null ]
+    [ "flags", "d0/d27/a09068.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
+    [ "fourcc", "d0/d27/a09068.html#a93b48dd741d13ff036eac8a77df9f916", null ],
+    [ "gridHeight", "d0/d27/a09068.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
+    [ "gridMaxHeight", "d0/d27/a09068.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
 ];

@@ -1,6 +1,6 @@
 var a25216 =
 [
-    [ "CheckRequirement", "da/d47/a25216.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
-    [ "PrepareSpellScript", "da/d47/a25216.html#aebb88f5ea803a590a099e4e6427d8276", null ],
-    [ "Register", "da/d47/a25216.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
+    [ "PrepareAuraScript", "da/d47/a25216.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
+    [ "Register", "da/d47/a25216.html#abb54f08b1932e3638537656360d3aad8", null ],
+    [ "AuraEffectHandleModes", "da/d47/a25216.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
 ];

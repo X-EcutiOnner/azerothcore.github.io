@@ -1,7 +1,6 @@
 var a11972 =
 [
-    [ "HandleDummy", "d3/d0a/a11972.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
-    [ "PrepareSpellScript", "d3/d0a/a11972.html#a5308de47023b89e4ff8680158a502ac0", null ],
-    [ "Register", "d3/d0a/a11972.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
-    [ "Validate", "d3/d0a/a11972.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
+    [ "boss_lord_valthalakAI", "d4/dea/a11976.html", "d4/dea/a11976" ],
+    [ "boss_lord_valthalak", "d3/d0a/a11972.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
+    [ "GetAI", "d3/d0a/a11972.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
 ];

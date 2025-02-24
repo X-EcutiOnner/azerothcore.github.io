@@ -1,6 +1,6 @@
 var a15028 =
 [
-    [ "HandleOnHit", "dd/da5/a15028.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "dd/da5/a15028.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "dd/da5/a15028.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "boss_veknilash", "dd/da5/a15028.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
+    [ "IAmVeklor", "dd/da5/a15028.html#a454027d829b962ee0feebb6fd5687714", null ],
+    [ "JustEngagedWith", "dd/da5/a15028.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
 ];

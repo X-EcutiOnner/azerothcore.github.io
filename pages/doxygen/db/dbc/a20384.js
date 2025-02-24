@@ -1,6 +1,7 @@
 var a20384 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d9/dfc/a20388.html", "d9/dfc/a20388" ],
-    [ "npc_ulduar_emergency_fire_bot", "db/dbc/a20384.html#a1adc05ac4602ab2b297b18f605bfd2cd", null ],
-    [ "GetAI", "db/dbc/a20384.html#afb3ab952495175c5f571d4e39a5acea4", null ]
+    [ "npc_ulduar_expedition_commanderAI", "db/dbc/a20384.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "db/dbc/a20384.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "db/dbc/a20384.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "db/dbc/a20384.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

@@ -1,9 +1,8 @@
 var a07152 =
 [
-    [ "entry", "df/d04/a07152.html#a2238cabe763a588a5572611e0aefe6ba", null ],
-    [ "o", "df/d04/a07152.html#a0ebd9ea966eb66cf80b8f3c003db60c0", null ],
-    [ "type", "df/d04/a07152.html#a561ac93f5c1bcc26dacbd0212b602eac", null ],
-    [ "x", "df/d04/a07152.html#a616d422b4e8c99ec3285a87f553d4091", null ],
-    [ "y", "df/d04/a07152.html#a34de8c83a7bc8b33ac0cabdfb1bd3459", null ],
-    [ "z", "df/d04/a07152.html#a78cff0661e6d9440574306ec01389d42", null ]
+    [ "nbTowerCannonBottom", "df/d04/a07152.html#a06e8dcf63efd928b72f3ec7d433ccb89", null ],
+    [ "nbTurretTop", "df/d04/a07152.html#a5a728dccad89da190131cd93b62390b7", null ],
+    [ "TowerCannonBottom", "df/d04/a07152.html#a21fa09356b3349bf45865aa3f0920268", null ],
+    [ "towerEntry", "df/d04/a07152.html#a37e171a06a6e7bf5c0832417c597c2e1", null ],
+    [ "TurretTop", "df/d04/a07152.html#a6849ba6967fa275950da9fec16df9bec", null ]
 ];

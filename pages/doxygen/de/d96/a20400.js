@@ -1,5 +1,11 @@
 var a20400 =
 [
-    [ "achievement_mimiron_firefighter", "de/d96/a20400.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
-    [ "OnCheck", "de/d96/a20400.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
+    [ "npc_ulduar_expedition_engineerAI", "de/d96/a20400.html#a48e29edad38f8ecbab54579203c93044", null ],
+    [ "Reset", "de/d96/a20400.html#a8a68e3a58133913d0eb0bf9fd2532db2", null ],
+    [ "SetData", "de/d96/a20400.html#a31db1ae61777b8f1a38d381e785ce158", null ],
+    [ "UpdateAI", "de/d96/a20400.html#ab6d29aaae95038282fece78479448459", null ],
+    [ "fixingGUID", "de/d96/a20400.html#ae0ba3ddbff054a948709e70f0bf9961a", null ],
+    [ "pInstance", "de/d96/a20400.html#a6b858d46eda05493ec0cac22e174854c", null ],
+    [ "timer", "de/d96/a20400.html#a926b343da3d3953d386b18f24bc72867", null ],
+    [ "working", "de/d96/a20400.html#ab8e436472efd91f2d400c02c1b500746", null ]
 ];

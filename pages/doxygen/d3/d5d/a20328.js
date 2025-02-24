@@ -1,12 +1,12 @@
 var a20328 =
 [
-    [ "npc_ulduar_proximity_mineAI", "d3/d5d/a20328.html#aa3001a71c8a298be688631d618745495", null ],
-    [ "AttackStart", "d3/d5d/a20328.html#afe5572c8fd1f8acc64ca57304d8be254", null ],
-    [ "CanAIAttack", "d3/d5d/a20328.html#a0216f41bf596eb43a9b9eea13152d262", null ],
-    [ "MoveInLineOfSight", "d3/d5d/a20328.html#afe07e3cd341d6a84592ab9b33e02d6d5", null ],
-    [ "SpellHitTarget", "d3/d5d/a20328.html#aaf6c9c8843a61d29326ab6c662b174f9", null ],
-    [ "UpdateAI", "d3/d5d/a20328.html#adadc4c33ff356bd5eed6d82115dc888a", null ],
-    [ "exploded", "d3/d5d/a20328.html#a1706ff0cfd7192040c32f13a37610c43", null ],
-    [ "timer", "d3/d5d/a20328.html#a4c743646055b4c95bf379a751eb5892e", null ],
-    [ "timer2", "d3/d5d/a20328.html#a446b7658fa4c165f43947a05562827b2", null ]
+    [ "npc_ulduar_flames_initialAI", "d3/d5d/a20328.html#a5d7202463d12fbdfcc5efdfba786ca19", null ],
+    [ "DoAction", "d3/d5d/a20328.html#a6169d12043e73e7991064decccf0926a", null ],
+    [ "RemoveAll", "d3/d5d/a20328.html#a2c39dd0d4d8040db5b18af1c1b27071a", null ],
+    [ "RemoveFlame", "d3/d5d/a20328.html#ab992d2df928b9ca2699ca48e64fb2606", null ],
+    [ "SpreadFlame", "d3/d5d/a20328.html#ae801181472a8e29208a4f305fb0307f9", null ],
+    [ "UpdateAI", "d3/d5d/a20328.html#a9d628d32d3519d0e7152c772e540b7ef", null ],
+    [ "CreateTime", "d3/d5d/a20328.html#ae50820bb38d0ed61b8687b4023aac5b9", null ],
+    [ "events", "d3/d5d/a20328.html#a89217e11f9930b336665969791fc84b9", null ],
+    [ "FlameList", "d3/d5d/a20328.html#a75b218699a42ece4959d0a1fe40713d7", null ]
 ];

@@ -1,6 +1,9 @@
 var a26668 =
 [
-    [ "HandleAuraApply", "da/dc6/a26668.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "da/dc6/a26668.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "da/dc6/a26668.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "CheckCast", "da/dc6/a26668.html#a846862b62f5750801cd804133f290d5d", null ],
+    [ "HandleDummy", "da/dc6/a26668.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
+    [ "Load", "da/dc6/a26668.html#acec7437ba80e4ae491020448a36e4559", null ],
+    [ "PrepareSpellScript", "da/dc6/a26668.html#ab5e281028c009a4b317111de9a0a17e3", null ],
+    [ "Register", "da/dc6/a26668.html#a865fa526f2131703a668e113ba0d7849", null ],
+    [ "Validate", "da/dc6/a26668.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
 ];

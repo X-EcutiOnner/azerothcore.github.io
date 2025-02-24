@@ -1,6 +1,9 @@
 var a22044 =
 [
-    [ "npc_infra_green_bomber_genericAI", "d0/d40/a22048.html", "d0/d40/a22048" ],
-    [ "npc_infra_green_bomber_generic", "dd/db4/a22044.html#a39134a09376c35f15e99377cd28ac6ff", null ],
-    [ "GetAI", "dd/db4/a22044.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
+    [ "npc_engineer_heliceAI", "dd/db4/a22044.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "dd/db4/a22044.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "dd/db4/a22044.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "dd/db4/a22044.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "dd/db4/a22044.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "m_uiChatTimer", "dd/db4/a22044.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

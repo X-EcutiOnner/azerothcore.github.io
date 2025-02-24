@@ -1,7 +1,10 @@
 var a26028 =
 [
-    [ "OnProc", "d5/d3c/a26028.html#a304fd48cc79d3e7371212632d276b2ff", null ],
-    [ "PrepareAuraScript", "d5/d3c/a26028.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
-    [ "Register", "d5/d3c/a26028.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
-    [ "Validate", "d5/d3c/a26028.html#adc217147d7c150d66dad4d3e922cff96", null ]
+    [ "Absorb", "d5/d3c/a26028.html#ab4006b00d415a94e6a49856cee7e272b", null ],
+    [ "CalculateAmount", "d5/d3c/a26028.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
+    [ "Load", "d5/d3c/a26028.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
+    [ "PrepareAuraScript", "d5/d3c/a26028.html#a456c1bd5b284f642d1e040de52eee24b", null ],
+    [ "Register", "d5/d3c/a26028.html#a905994099dcc4ac9512d5f27b78a778c", null ],
+    [ "Validate", "d5/d3c/a26028.html#ad99966111a1919c610a942a8eb133ea1", null ],
+    [ "healPct", "d5/d3c/a26028.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
 ];

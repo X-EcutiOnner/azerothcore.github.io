@@ -1,5 +1,6 @@
 var a13532 =
 [
-    [ "npc_mikhail", "d2/de2/a13532.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
-    [ "OnQuestAccept", "d2/de2/a13532.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
+    [ "npc_tyrion_spybotAI", "de/d98/a13536.html", "de/d98/a13536" ],
+    [ "npc_tyrion_spybot", "d2/de2/a13532.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
+    [ "GetAI", "d2/de2/a13532.html#af81b70437703edc8d99fe24249891dd6", null ]
 ];

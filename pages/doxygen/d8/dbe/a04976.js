@@ -1,7 +1,8 @@
 var a04976 =
 [
-    [ "WModelRayCallBack", "d8/dbe/a04976.html#ac234cf795a07aab6e456c608dd80bbea", null ],
-    [ "operator()", "d8/dbe/a04976.html#a8f658081b44bda2527aa568a139bfd14", null ],
-    [ "hit", "d8/dbe/a04976.html#a014e322fc087c2f07617361e0bc585e3", null ],
-    [ "models", "d8/dbe/a04976.html#aaad14391ed1379dc3c367e6e522b1150", null ]
+    [ "LocationInfo", "d8/dbe/a04976.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
+    [ "ground_Z", "d8/dbe/a04976.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
+    [ "hitInstance", "d8/dbe/a04976.html#a5e3fc81a2b7353808dc0c95eebe570be", null ],
+    [ "hitModel", "d8/dbe/a04976.html#a2a7e0be8d8e43b055dd1d43cd5331738", null ],
+    [ "rootId", "d8/dbe/a04976.html#aae82d7d8518db5e131d6a327927c75a2", null ]
 ];

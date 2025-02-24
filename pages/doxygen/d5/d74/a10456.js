@@ -1,5 +1,7 @@
 var a10456 =
 [
-    [ "LFGLeave", "d5/d74/a10456.html#aba31f53e0e13c13fd96f1b6ea1d42310", null ],
-    [ "Read", "d5/d74/a10456.html#abae9c55efce73edf5edf1940cb8b61eb", null ]
+    [ "Emote", "d5/d74/a10456.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
+    [ "Write", "d5/d74/a10456.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
+    [ "EmoteID", "d5/d74/a10456.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
+    [ "Guid", "d5/d74/a10456.html#ab96a1c0933e90872f54eb0995098274a", null ]
 ];

@@ -1,6 +1,8 @@
 var a23788 =
 [
-    [ "HandleBeforeCast", "d8/d00/a23788.html#afe2869e6c91068a0ed7ce09858f774dc", null ],
-    [ "PrepareSpellScript", "d8/d00/a23788.html#a8b75237de8d54dda3c7888f6d6a9684a", null ],
-    [ "Register", "d8/d00/a23788.html#a45ae470002052c87d5270e3556f0e706", null ]
+    [ "instance_mechanar_InstanceMapScript", "d8/d00/a23788.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "d8/d00/a23788.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "d8/d00/a23788.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "d8/d00/a23788.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "d8/d00/a23788.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

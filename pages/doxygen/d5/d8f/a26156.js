@@ -1,6 +1,6 @@
 var a26156 =
 [
-    [ "HandleDamage", "d5/d8f/a26156.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "d5/d8f/a26156.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "d5/d8f/a26156.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "HandleScriptEffect", "d5/d8f/a26156.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
+    [ "PrepareSpellScript", "d5/d8f/a26156.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
+    [ "Register", "d5/d8f/a26156.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
 ];

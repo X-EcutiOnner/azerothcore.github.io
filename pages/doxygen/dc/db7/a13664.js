@@ -1,18 +1,16 @@
 var a13664 =
 [
-    [ "npc_janalai_hatcherAI", "dc/db7/a13664.html#a3d270cf467a6e015022c35e82e54dc28", null ],
-    [ "AttackStart", "dc/db7/a13664.html#a41dfa2aec888135e63c78d6584e568e1", null ],
-    [ "HatchEggs", "dc/db7/a13664.html#a928f1303e78f72bd2042efa8401d0ef9", null ],
-    [ "JustEngagedWith", "dc/db7/a13664.html#a05a64dece19246a9ef1d329bd24f5151", null ],
-    [ "MoveInLineOfSight", "dc/db7/a13664.html#af7addf303a271cfa9019595feae81736", null ],
-    [ "MovementInform", "dc/db7/a13664.html#a7f2cf441c0e907c70522b669ef4ca0c0", null ],
-    [ "Reset", "dc/db7/a13664.html#afe49715188823a34cfdf89765cd36c22", null ],
-    [ "UpdateAI", "dc/db7/a13664.html#a3d4bad056219a9028ab77ea66a23faac", null ],
-    [ "hasChangedSide", "dc/db7/a13664.html#a170b861c8de7f09583c3e7ad5f1a44d9", null ],
-    [ "HatchNum", "dc/db7/a13664.html#af6b2e42ea3079a03939e372da4f8da0e", null ],
-    [ "instance", "dc/db7/a13664.html#ad61229797775c8ef843b0bfcd43fa892", null ],
-    [ "isHatching", "dc/db7/a13664.html#a900cd2df92613299588e610b746110e3", null ],
-    [ "side", "dc/db7/a13664.html#af14ebc131255abea247614fd5c8a122a", null ],
-    [ "WaitTimer", "dc/db7/a13664.html#a693413b4c513ce4bd226fde74ac5fb33", null ],
-    [ "waypoint", "dc/db7/a13664.html#a8b70f745b04b89d2a5d0b26e13d8547d", null ]
+    [ "boss_halazzi", "dc/db7/a13664.html#aed961a9e12b44dfd97bd31c981184be5", null ],
+    [ "AttackStart", "dc/db7/a13664.html#a000c3b6b8a73fd8f858b87724dfcf123", null ],
+    [ "DamageTaken", "dc/db7/a13664.html#aaa698dfa4d4a991968eebee3330e967a", null ],
+    [ "DoAction", "dc/db7/a13664.html#a1685c7c99a797ec332b67797a294d83a", null ],
+    [ "EnterPhase", "dc/db7/a13664.html#a951a0c9fc4fc737abbaaae77dfd4e43b", null ],
+    [ "JustDied", "dc/db7/a13664.html#aa607a13fef1b8c195ba0aa09fafdaaae", null ],
+    [ "JustEngagedWith", "dc/db7/a13664.html#a1dd4992bfca0bf658bd7a385300578ae", null ],
+    [ "JustSummoned", "dc/db7/a13664.html#a152267cb31912106443ceea9488fee0a", null ],
+    [ "KilledUnit", "dc/db7/a13664.html#a4d69fa8e754f823a599c52e227361600", null ],
+    [ "Reset", "dc/db7/a13664.html#a9d9a82e5ae8dadfefcf2c929325cb60e", null ],
+    [ "SpellHit", "dc/db7/a13664.html#a36141673391a423174db874ca425ea07", null ],
+    [ "_phase", "dc/db7/a13664.html#a1f76fd0c02eec20aa2c222b278420dd8", null ],
+    [ "_transformCount", "dc/db7/a13664.html#a9a86487f20e48d6be123bd61aaf13f7f", null ]
 ];

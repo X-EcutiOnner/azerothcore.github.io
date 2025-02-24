@@ -1,8 +1,8 @@
 var a09144 =
 [
-    [ "LocalizedPacketDo", "d8/d72/a09144.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "d8/d72/a09144.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "d8/d72/a09144.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "d8/d72/a09144.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "d8/d72/a09144.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "AIRelocationNotifier", "d8/d72/a09144.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
+    [ "Visit", "d8/d72/a09144.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
+    [ "Visit", "d8/d72/a09144.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
+    [ "i_unit", "d8/d72/a09144.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
+    [ "isCreature", "d8/d72/a09144.html#a199f4b91d00dd4db90855e5521d87a95", null ]
 ];

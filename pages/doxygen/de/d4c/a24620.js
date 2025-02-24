@@ -1,7 +1,7 @@
 var a24620 =
 [
-    [ "AfterApply", "de/d4c/a24620.html#aee69eceead7e31cce2638ff252f6653d", null ],
-    [ "AfterRemove", "de/d4c/a24620.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
-    [ "PrepareAuraScript", "de/d4c/a24620.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
-    [ "Register", "de/d4c/a24620.html#ab5f8afbfa688ebd548a5508543498b55", null ]
+    [ "FilterTargets", "de/d4c/a24620.html#af6daf7022fc4cd18909056089c249c8a", null ],
+    [ "HandleDummy", "de/d4c/a24620.html#ab8f8fec8c95f471a04d642fa0dcbe3e6", null ],
+    [ "PrepareSpellScript", "de/d4c/a24620.html#a3ec1d43d3eb6ecca128ddda3c0f81efc", null ],
+    [ "Register", "de/d4c/a24620.html#ae662a050ce4cac47b6bd0d0b0c5b1e16", null ]
 ];

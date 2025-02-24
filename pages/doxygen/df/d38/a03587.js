@@ -1,4 +1,4 @@
 var a03587 =
 [
-    [ "MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES >", "d0/d93/a09106.html", "d0/d93/a09106" ]
+    [ "CreatureUnitRelocationWorker", "df/d38/a03587.html#a6dd107031f342074ca560b711fe188d7", null ]
 ];

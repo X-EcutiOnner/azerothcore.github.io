@@ -1,7 +1,7 @@
 var a26004 =
 [
-    [ "HandleDummy", "de/d98/a26004.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
-    [ "PrepareSpellScript", "de/d98/a26004.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
-    [ "Register", "de/d98/a26004.html#adadd0254d68281ac1063bcc57574ed77", null ],
-    [ "Validate", "de/d98/a26004.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
+    [ "HandleScriptEffect", "de/d98/a26004.html#a8c7ede10a8f7d0c1ea04c21166807995", null ],
+    [ "PrepareSpellScript", "de/d98/a26004.html#af52663b01774372d3e6f695d2f395cb5", null ],
+    [ "Register", "de/d98/a26004.html#abcefab06ff481fad88be4d7ad9289808", null ],
+    [ "Validate", "de/d98/a26004.html#af269a7085412b5a889dfb802d1dc7fbe", null ]
 ];

@@ -1,8 +1,8 @@
 var a12532 =
 [
-    [ "npc_death_knight_initiateAI", "dc/d3b/a12536.html", "dc/d3b/a12536" ],
-    [ "npc_death_knight_initiate", "de/d98/a12532.html#a0c1b552035bed7be9af1fbdf8205b4b6", null ],
-    [ "GetAI", "de/d98/a12532.html#ac38e0ed0ea1eac8e0de6f08664cb095a", null ],
-    [ "OnGossipHello", "de/d98/a12532.html#a24f1b91ad0a69e4468e812747225d303", null ],
-    [ "OnGossipSelect", "de/d98/a12532.html#ab0712bc84003b5eb72f11b49ef6e57a7", null ]
+    [ "HandleEffectRemove", "de/d98/a12532.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
+    [ "if", "de/d98/a12532.html#a8596fc98402bf952484c9567f61c7820", null ],
+    [ "PrepareAuraScript", "de/d98/a12532.html#a4055f781a914de631187b00ba7aefeef", null ],
+    [ "Register", "de/d98/a12532.html#aefb4bbae43558abde871548088784613", null ],
+    [ "AuraEffectHandleModes", "de/d98/a12532.html#a7d419ba41e68b70740a867a2265824bd", null ]
 ];

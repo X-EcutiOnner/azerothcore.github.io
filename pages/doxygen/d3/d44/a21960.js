@@ -1,9 +1,6 @@
 var a21960 =
 [
-    [ "npc_Apothecary_HanesAI", "d3/d44/a21960.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
-    [ "JustDied", "d3/d44/a21960.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
-    [ "Reset", "d3/d44/a21960.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
-    [ "UpdateEscortAI", "d3/d44/a21960.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
-    [ "WaypointReached", "d3/d44/a21960.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
-    [ "PotTimer", "d3/d44/a21960.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
+    [ "npc_guardian_pavilionAI", "db/dcd/a21964.html", "db/dcd/a21964" ],
+    [ "npc_guardian_pavilion", "d3/d44/a21960.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "d3/d44/a21960.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

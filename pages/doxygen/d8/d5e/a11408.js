@@ -1,6 +1,6 @@
 var a11408 =
 [
-    [ "player_settings_commandscript", "d8/d5e/a11408.html#ab8585064d4d358d7d48eed97379a3a78", null ],
-    [ "GetCommands", "d8/d5e/a11408.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
-    [ "HandleSettingsAnnouncerFlags", "d8/d5e/a11408.html#af505117caa66ed4222e52ff91c486b6e", null ]
+    [ "Command", "d8/d5e/a11408.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
+    [ "Data", "d8/d5e/a11408.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
+    [ "DataSize", "d8/d5e/a11408.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
 ];

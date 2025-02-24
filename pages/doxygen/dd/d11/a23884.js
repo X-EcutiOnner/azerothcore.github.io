@@ -1,6 +1,6 @@
 var a23884 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d2/daf/a23888.html", "d2/daf/a23888" ],
-    [ "instance_mechanar", "dd/d11/a23884.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "dd/d11/a23884.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "npc_fel_guard_houndAI", "d2/daf/a23888.html", "d2/daf/a23888" ],
+    [ "npc_fel_guard_hound", "dd/d11/a23884.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "dd/d11/a23884.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

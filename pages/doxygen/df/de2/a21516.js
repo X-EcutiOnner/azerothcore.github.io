@@ -1,7 +1,8 @@
 var a21516 =
 [
-    [ "npc_bonker_togglevoltAI", "d8/d68/a21520.html", "d8/d68/a21520" ],
-    [ "npc_bonker_togglevolt", "df/de2/a21516.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
-    [ "GetAI", "df/de2/a21516.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
-    [ "OnQuestAccept", "df/de2/a21516.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
+    [ "npc_shandy_dalaranAI", "d8/d68/a21520.html", "d8/d68/a21520" ],
+    [ "npc_shandy_dalaran", "df/de2/a21516.html#a7077c769a252af8ba37b5ff5d524463e", null ],
+    [ "GetAI", "df/de2/a21516.html#a641551a2aef739e1679912ae27ddb888", null ],
+    [ "OnGossipHello", "df/de2/a21516.html#a91287aaba09fce091c9d826e75208f84", null ],
+    [ "OnGossipSelect", "df/de2/a21516.html#ad005a17da187e0cfd03d2faf0099c448", null ]
 ];

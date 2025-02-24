@@ -1,7 +1,11 @@
 var a10480 =
 [
-    [ "RandomRollClient", "d5/d94/a10480.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "d5/d94/a10480.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "d5/d94/a10480.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "d5/d94/a10480.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "BackgroundColor", "d5/d94/a10480.html#abab86dd497de86088873178bf1d54b5b", null ],
+    [ "BorderColor", "d5/d94/a10480.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
+    [ "BorderStyle", "d5/d94/a10480.html#acd5105c31e0f56e680f3384e86186872", null ],
+    [ "EmblemColor", "d5/d94/a10480.html#a2e8a4768292d3566bb61009056a8a230", null ],
+    [ "EmblemStyle", "d5/d94/a10480.html#aa6309467f9f09725a8698de864b4e63c", null ],
+    [ "GuildName", "d5/d94/a10480.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
+    [ "RankCount", "d5/d94/a10480.html#acddb77850a86348df197afc724c4eaa0", null ],
+    [ "Ranks", "d5/d94/a10480.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
 ];

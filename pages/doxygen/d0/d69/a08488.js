@@ -1,8 +1,6 @@
 var a08488 =
 [
-    [ "AttackPosition", "d0/d69/a08488.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
-    [ "operator=", "d0/d69/a08488.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
-    [ "operator==", "d0/d69/a08488.html#a320adced006c0f70456492c9e9dc99c2", null ],
-    [ "_pos", "d0/d69/a08488.html#a77783e0e6e83836ad6e5903535ad9370", null ],
-    [ "_taken", "d0/d69/a08488.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
+    [ "PlayerClassLevelInfo", "d0/d69/a08488.html#a60153094e3179bfc6c028d2b76775805", null ],
+    [ "basehealth", "d0/d69/a08488.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
+    [ "basemana", "d0/d69/a08488.html#a939a8d8739a553c919d84e399ce17d22", null ]
 ];

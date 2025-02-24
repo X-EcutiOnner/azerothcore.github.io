@@ -1,16 +1,12 @@
 var a10260 =
 [
-    [ "AreaID", "df/d6f/a10260.html#a7bd695ba9365b53703204e45c930b254", null ],
-    [ "ClassID", "df/d6f/a10260.html#a794961a2e9f4773254b2439837150b50", null ],
-    [ "Gender", "df/d6f/a10260.html#aadb29895c835e820168ad7d3f608d3b8", null ],
-    [ "Guid", "df/d6f/a10260.html#a9dad860d61da34048ab2d52ada0cb43f", null ],
-    [ "LastSave", "df/d6f/a10260.html#acb553637ff289603411fa5795a361deb", null ],
-    [ "Level", "df/d6f/a10260.html#a585acb139537e8def9e4ba076a332b6b", null ],
-    [ "Name", "df/d6f/a10260.html#ad50c43162525d8ad2ea33e48c01e838e", null ],
-    [ "Note", "df/d6f/a10260.html#aa351a270de4cba2faddc5179cb854b94", null ],
-    [ "OfficerNote", "df/d6f/a10260.html#aedaee0b4511ddd82cc75e91cb04e175a", null ],
-    [ "RankID", "df/d6f/a10260.html#a02f6f0dcf1be3a6befe959388d9aedd8", null ],
-    [ "Status", "df/d6f/a10260.html#aa6342565a23693718b5ef84f90b83350", null ],
-    [ "TotalXP", "df/d6f/a10260.html#ad3ee1ba956ea725db8588e3be3c57b18", null ],
-    [ "WeeklyXP", "df/d6f/a10260.html#a7fb40a5bce99fcf70176ebe344424ed2", null ]
+    [ "GroupScript", "df/d6f/a10260.html#a0680f82522424afc364e9b94e1c6f686", null ],
+    [ "CanGroupJoinBattlegroundQueue", "df/d6f/a10260.html#a931b4a94a2f95958579b37c0af6ece03", null ],
+    [ "IsDatabaseBound", "df/d6f/a10260.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
+    [ "OnAddMember", "df/d6f/a10260.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
+    [ "OnChangeLeader", "df/d6f/a10260.html#a64a1441fd3db3f25236691efcff4a80b", null ],
+    [ "OnCreate", "df/d6f/a10260.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
+    [ "OnDisband", "df/d6f/a10260.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
+    [ "OnInviteMember", "df/d6f/a10260.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
+    [ "OnRemoveMember", "df/d6f/a10260.html#adf640b01746ee92fed31670ee5cc8d0f", null ]
 ];

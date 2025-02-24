@@ -1,10 +1,11 @@
 var a03638 =
 [
-    [ "GraveyardStruct", "d6/da0/a09822.html", "d6/da0/a09822" ],
-    [ "GraveyardData", "d1/da0/a09826.html", "d1/da0/a09826" ],
-    [ "Graveyard", "d3/d95/a09830.html", "d3/d95/a09830" ],
-    [ "sGraveyard", "df/df2/a03638.html#ac68c2a63982a6142e1931450d7b6115c", null ],
-    [ "GraveyardMapBounds", "df/df2/a03638.html#aa5ea0c376a2e44483f8c5cb084b3b186", null ],
-    [ "GraveyardMapBoundsNonConst", "df/df2/a03638.html#a6a551a1219fa9a26b5ed21656c2f9dd1", null ],
-    [ "WGGraveyardContainer", "df/df2/a03638.html#a484cb47c00fe9b952853e3b04212437c", null ]
+    [ "BanMgr", "db/d9d/a09824.html", "db/d9d/a09824" ],
+    [ "sBan", "df/df2/a03638.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
+    [ "BanReturn", "df/df2/a03638.html#a4dd4670ead55e2780d09a66ab39943a7", [
+      [ "BAN_SUCCESS", "df/df2/a03638.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
+      [ "BAN_SYNTAX_ERROR", "df/df2/a03638.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
+      [ "BAN_NOTFOUND", "df/df2/a03638.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
+      [ "BAN_LONGER_EXISTS", "df/df2/a03638.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
+    ] ]
 ];

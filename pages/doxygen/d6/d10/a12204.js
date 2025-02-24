@@ -1,11 +1,9 @@
 var a12204 =
 [
-    [ "boss_mr_smiteAI", "d6/d10/a12204.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
-    [ "JustEngagedWith", "d6/d10/a12204.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
-    [ "MovementInform", "d6/d10/a12204.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
-    [ "Reset", "d6/d10/a12204.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
-    [ "UpdateAI", "d6/d10/a12204.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
-    [ "events", "d6/d10/a12204.html#a3471692c39233f3c25cdc875c0078f2c", null ],
-    [ "health34", "d6/d10/a12204.html#adc83683c2f6a7073469cd2f5aa325717", null ],
-    [ "health67", "d6/d10/a12204.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
+    [ "npc_drakonid_spawner", "d6/d10/a12204.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "d6/d10/a12204.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "d6/d10/a12204.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "d6/d10/a12204.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "d6/d10/a12204.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "d6/d10/a12204.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

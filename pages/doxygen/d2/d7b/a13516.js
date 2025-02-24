@@ -1,7 +1,6 @@
 var a13516 =
 [
-    [ "npc_daphne_stilwellAI", "de/daf/a13520.html", "de/daf/a13520" ],
-    [ "npc_daphne_stilwell", "d2/d7b/a13516.html#ad844c5f0409936d7068ee55271506041", null ],
-    [ "GetAI", "d2/d7b/a13516.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
-    [ "OnQuestAccept", "d2/d7b/a13516.html#ad7b293efc802506a825f202e34cb0f4d", null ]
+    [ "npc_lord_gregor_lescovarAI", "de/daf/a13520.html", "de/daf/a13520" ],
+    [ "npc_lord_gregor_lescovar", "d2/d7b/a13516.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
+    [ "GetAI", "d2/d7b/a13516.html#a4cf39729bb687c7db3538575a799283e", null ]
 ];

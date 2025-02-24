@@ -1,18 +1,13 @@
 var a08560 =
 [
-    [ "GameEventData", "d0/dc2/a08560.html#ab7963b01d9e138d79f06274ea57b9590", null ],
-    [ "isValid", "d0/dc2/a08560.html#a7a91c9c9cc68593812b13f6efd2ea4ff", null ],
-    [ "announce", "d0/dc2/a08560.html#a7271996d66a36e41b21502fa4d5305fe", null ],
-    [ "conditions", "d0/dc2/a08560.html#adca87b4b2205273a29dd2a547be90da6", null ],
-    [ "description", "d0/dc2/a08560.html#aebdadbaadbba367601674146a27a283f", null ],
-    [ "end", "d0/dc2/a08560.html#a1bf3980d02cd0dc304b2ffbd5afb7b9f", null ],
-    [ "eventId", "d0/dc2/a08560.html#a858501847212a8771f676641ad61aacd", null ],
-    [ "holiday_id", "d0/dc2/a08560.html#aa13c2c2eacb9475e18c1d1370566e988", null ],
-    [ "holidayStage", "d0/dc2/a08560.html#a23a3f6d7f036f6c5b47b84ef1242d056", null ],
-    [ "length", "d0/dc2/a08560.html#ac45297bad99ddb339b3aa18ec5912c1c", null ],
-    [ "nextstart", "d0/dc2/a08560.html#ae0259f021337b3ad47dfbbc1f361965f", null ],
-    [ "occurence", "d0/dc2/a08560.html#a04c813525fef572000608f32650565ff", null ],
-    [ "prerequisite_events", "d0/dc2/a08560.html#acd7a8d00e76cd09cbbbd345987b8644f", null ],
-    [ "start", "d0/dc2/a08560.html#ac4da43ddbb3b95f00589f49ed250092d", null ],
-    [ "state", "d0/dc2/a08560.html#a54a6e90fd4b68093a99e32b198eab2fb", null ]
+    [ "BGData", "d0/dc2/a08560.html#a91ccfa5183ef5996fb4bdf78567c09ba", null ],
+    [ "bgAfkReportedCount", "d0/dc2/a08560.html#ab7374e7b8fc6607dd6b4f04385e80ca3", null ],
+    [ "bgAfkReportedTimer", "d0/dc2/a08560.html#a51f8f4e05dc0224982af9a61d2dfae36", null ],
+    [ "bgAfkReporter", "d0/dc2/a08560.html#a94047ac71676b7914e058aac8a8cb0ea", null ],
+    [ "bgInstanceID", "d0/dc2/a08560.html#a8eff26fd78b5763501a3f5460de4e551", null ],
+    [ "bgIsRandom", "d0/dc2/a08560.html#a6f25dd5c9dc6afcc7964a5d0b7d1444c", null ],
+    [ "bgQueueSlot", "d0/dc2/a08560.html#a1c77bcf4135d994f0801558adca02f40", null ],
+    [ "bgTeamId", "d0/dc2/a08560.html#ac97f7cafb6ae69a12588e40328cdc0cb", null ],
+    [ "bgTypeID", "d0/dc2/a08560.html#a3398da6a15fd66cdd8dc172997d3786b", null ],
+    [ "isInvited", "d0/dc2/a08560.html#a8e23a1664eedf33b2195d2d8d5b01b82", null ]
 ];

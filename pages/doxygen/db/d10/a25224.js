@@ -1,11 +1,11 @@
 var a25224 =
 [
-    [ "spell_gen_consume", "db/d10/a25224.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
-    [ "AfterRemove", "db/d10/a25224.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
-    [ "HandleProc", "db/d10/a25224.html#af69251aa0415a2148162f32dd9113917", null ],
-    [ "PrepareAuraScript", "db/d10/a25224.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
-    [ "Register", "db/d10/a25224.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
-    [ "Validate", "db/d10/a25224.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
-    [ "_spellId1", "db/d10/a25224.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
-    [ "_spellId2", "db/d10/a25224.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
+    [ "CalcPeriodic", "db/d10/a25224.html#ab5feede17fa79c9d02fa459586eaca41", null ],
+    [ "CalculateAPAmount", "db/d10/a25224.html#af2b1da799f1b3c0373dc6782dabbf89c", null ],
+    [ "CalculateResistanceAmount", "db/d10/a25224.html#a51828f07b0e099c5931161f7aeebaab7", null ],
+    [ "CalculateSPAmount", "db/d10/a25224.html#a255ed8f5158e715313e44b13f30b099f", null ],
+    [ "CalculateStatAmount", "db/d10/a25224.html#ade1b7256d19b526a7f4b1520f6b2f663", null ],
+    [ "HandlePeriodic", "db/d10/a25224.html#a136c8cedca7630543b8937e77571ead1", null ],
+    [ "PrepareAuraScript", "db/d10/a25224.html#a638a2544d9216bec90c433100c0663a0", null ],
+    [ "Register", "db/d10/a25224.html#a55605257006d8218250932357f325bb8", null ]
 ];

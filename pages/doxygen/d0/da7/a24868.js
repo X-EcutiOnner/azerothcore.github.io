@@ -1,6 +1,7 @@
 var a24868 =
 [
-    [ "PrepareAuraScript", "d0/da7/a24868.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
-    [ "Register", "d0/da7/a24868.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
-    [ "AuraEffectHandleModes", "d0/da7/a24868.html#aed1cfe63d82450b526e154678fb97ac4", null ]
+    [ "HandleEffectPeriodic", "d0/da7/a24868.html#a3a2e7653276964fd36c93b41aa8f25ea", null ],
+    [ "PrepareAuraScript", "d0/da7/a24868.html#a893a539f4eeb0b9f027c5a306cc7bd53", null ],
+    [ "Register", "d0/da7/a24868.html#a36792fd068ec7444aa118ec63cf972a7", null ],
+    [ "Validate", "d0/da7/a24868.html#aa57af116294cfba007586506ba1dbeb5", null ]
 ];

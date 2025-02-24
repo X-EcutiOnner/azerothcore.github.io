@@ -1,6 +1,7 @@
 var a23296 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "d0/d12/a23300.html", "d0/d12/a23300" ],
-    [ "instance_the_slave_pens", "d7/df7/a23296.html#a765f7b66ad3bed1828524ecb143742f2", null ],
-    [ "GetInstanceScript", "d7/df7/a23296.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
+    [ "OnApply", "d7/df7/a23296.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d7/df7/a23296.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d7/df7/a23296.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d7/df7/a23296.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

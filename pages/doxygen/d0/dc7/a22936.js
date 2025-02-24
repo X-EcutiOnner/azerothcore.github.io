@@ -1,5 +1,5 @@
 var a22936 =
 [
-    [ "npc_vengeful_spirit", "d0/dc7/a22936.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
-    [ "OnCharmed", "d0/dc7/a22936.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
+    [ "PrepareSpellScript", "d0/dc7/a22936.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
+    [ "Register", "d0/dc7/a22936.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
 ];

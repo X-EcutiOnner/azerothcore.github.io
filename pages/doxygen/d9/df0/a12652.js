@@ -1,12 +1,20 @@
 var a12652 =
 [
-    [ "npc_high_inquisitor_valrothAI", "d9/df0/a12652.html#afd15d7c3b64c9c84094234b1c369c6d6", null ],
-    [ "JustDied", "d9/df0/a12652.html#ac8f4f8594bbd5d984a330d52ef2fde74", null ],
-    [ "JustEngagedWith", "d9/df0/a12652.html#a9cf989be7062743685b2357309889585", null ],
-    [ "Reset", "d9/df0/a12652.html#a833adc603d6d0b2eb03ea34b925f88b0", null ],
-    [ "Shout", "d9/df0/a12652.html#aa80f070da5ad92297a5f5b7b6983085c", null ],
-    [ "UpdateAI", "d9/df0/a12652.html#abe6becc3a10e0195bd75bf1de2d6bcc6", null ],
-    [ "uiInquisitor_Penance_timer", "d9/df0/a12652.html#a765ef78cf5c30b1c46da303f4bbeb4d9", null ],
-    [ "uiRenew_timer", "d9/df0/a12652.html#a1fe70428102a0319031179c97f02cbab", null ],
-    [ "uiValroth_Smite_timer", "d9/df0/a12652.html#a527628708354414caea85b6bec3d0f1d", null ]
+    [ "boss_julianne", "d9/df0/a12652.html#a6433d08be0d5562e876e00225ebf7398", null ],
+    [ "DamageTaken", "d9/df0/a12652.html#a8ff7675405322c2d55bd01cec340f6b8", null ],
+    [ "DoAction", "d9/df0/a12652.html#a985c9c1f77b2769461bf42ddaab302d3", null ],
+    [ "EnterEvadeMode", "d9/df0/a12652.html#af2499ba9d9c25555c82d8d7ae95c7249", null ],
+    [ "JustDied", "d9/df0/a12652.html#abdfaf6fa147c6b35bed28bb2e3ed3c14", null ],
+    [ "JustEngagedWith", "d9/df0/a12652.html#a6c5bd97ad402cc5f5dcda421c5d2bad1", null ],
+    [ "JustReachedHome", "d9/df0/a12652.html#a6bda02d5534b9087741ee7146ec314b5", null ],
+    [ "KilledUnit", "d9/df0/a12652.html#a7430fb4f315ee5dcf5f9c49b2daa66b0", null ],
+    [ "Reset", "d9/df0/a12652.html#a1047e28950098b35bd8a8fc5bec4ed26", null ],
+    [ "ScheduleCombat", "d9/df0/a12652.html#ab0939f8fe0fc34cafbe2dab4ef449895", null ],
+    [ "SpellHit", "d9/df0/a12652.html#a1e142c56a514640dab0d5d7711085f9d", null ],
+    [ "UpdateAI", "d9/df0/a12652.html#ad1e1d5bb27fed12a203c8b10f6ea92a6", null ],
+    [ "_scheduler", "d9/df0/a12652.html#aae4be9b1035626ecc9ad2f3e5b918cbe", null ],
+    [ "instance", "d9/df0/a12652.html#acdc787ba6908e716517683a8536ecf3e", null ],
+    [ "isFakingDeath", "d9/df0/a12652.html#a7a1b3b2ead47a49e80f9ba2b49144a91", null ],
+    [ "phase", "d9/df0/a12652.html#a5b0b680916cd38b2e20a6a1b1a530362", null ],
+    [ "summonedRomulo", "d9/df0/a12652.html#a6938adccd5c781df04dabe6d860f9357", null ]
 ];

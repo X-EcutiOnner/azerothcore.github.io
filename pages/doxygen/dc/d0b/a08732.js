@@ -1,8 +1,6 @@
 var a08732 =
 [
-    [ "MailLevelReward", "dc/d0b/a08732.html#accd52642cbbab457b69dba54a6ffa23b", null ],
-    [ "MailLevelReward", "dc/d0b/a08732.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
-    [ "mailTemplateId", "dc/d0b/a08732.html#afdf6684bcd2751822bd00ba1509ef933", null ],
-    [ "raceMask", "dc/d0b/a08732.html#a341088acd89b79161d932367f4f1798d", null ],
-    [ "senderEntry", "dc/d0b/a08732.html#a2b678ac953209691b38d583cffab55b5", null ]
+    [ "BuildValuesCachedBuffer", "dc/d0b/a08732.html#a87a3167ae060c8556700e4a137294053", null ],
+    [ "buffer", "dc/d0b/a08732.html#add7150533a48434b0e606add9cff04d2", null ],
+    [ "posPointers", "dc/d0b/a08732.html#affa098684782f15383a7df063b178cf1", null ]
 ];

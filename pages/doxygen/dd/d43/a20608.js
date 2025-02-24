@@ -1,6 +1,8 @@
 var a20608 =
 [
-    [ "npc_xt002_scrapbotAI", "d9/dda/a20612.html", "d9/dda/a20612" ],
-    [ "npc_xt002_scrapbot", "dd/d43/a20608.html#accfd75266d058af3856bdb625728c18d", null ],
-    [ "GetAI", "dd/d43/a20608.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
+    [ "OnPeriodic", "dd/d43/a20608.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
+    [ "OnRemove", "dd/d43/a20608.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
+    [ "PrepareAuraScript", "dd/d43/a20608.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
+    [ "Register", "dd/d43/a20608.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
+    [ "Validate", "dd/d43/a20608.html#aa56622a1e57c157260940023a6c70a35", null ]
 ];

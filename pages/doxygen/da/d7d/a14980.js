@@ -1,13 +1,9 @@
 var a14980 =
 [
-    [ "boss_sartura", "da/d7d/a14980.html#a7faaf16a1a56badd1e65a3364d425f02", null ],
-    [ "DamageTaken", "da/d7d/a14980.html#a9a404743ac8491a9efc7091259706e0f", null ],
-    [ "InitializeAI", "da/d7d/a14980.html#ae86d0a6b0cd591b3bb18333195109c22", null ],
-    [ "JustDied", "da/d7d/a14980.html#aceff44022b8d53da41ecfcb1e2317e01", null ],
-    [ "JustEngagedWith", "da/d7d/a14980.html#ab1c024908117e8460eb89c062d3825dc", null ],
-    [ "KilledUnit", "da/d7d/a14980.html#a516a75910e872718a519c2a5c9805770", null ],
-    [ "Reset", "da/d7d/a14980.html#ab3514ad48f622f65d67063723601f8de", null ],
-    [ "UpdateAI", "da/d7d/a14980.html#af3d093dab3f5191d5da2df36ca9c4a11", null ],
-    [ "berserked", "da/d7d/a14980.html#a8ad40cee9667500cb0e9533256d216c6", null ],
-    [ "enraged", "da/d7d/a14980.html#af916ff3f6468b1e48d5b1944442594e5", null ]
+    [ "boss_fankriss", "da/d7d/a14980.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
+    [ "JustEngagedWith", "da/d7d/a14980.html#a9eaae719a271a95f64ac8076fe807c13", null ],
+    [ "Reset", "da/d7d/a14980.html#af84010ee103eb81c1e269b03fc640f81", null ],
+    [ "SummonHatchlingWaves", "da/d7d/a14980.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
+    [ "SummonWorms", "da/d7d/a14980.html#ada23537921c3a11195450db89eb8fcfe", null ],
+    [ "summonWormSpells", "da/d7d/a14980.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
 ];

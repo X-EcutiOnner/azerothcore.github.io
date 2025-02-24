@@ -1,5 +1,8 @@
 var a22500 =
 [
-    [ "OutdoorPvP_silithus", "de/d1d/a22500.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
-    [ "GetOutdoorPvP", "de/d1d/a22500.html#a126d6acc77218addd10072199ccd2470", null ]
+    [ "FilterTargets", "de/d1d/a22500.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "de/d1d/a22500.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "de/d1d/a22500.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "de/d1d/a22500.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "de/d1d/a22500.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];
