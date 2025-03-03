@@ -1,23 +1,21 @@
 var a01964 =
 [
-    [ "OutdoorPvPSI", "d7/d1c/a22396.html", "d7/d1c/a22396" ],
-    [ "OutdoorPvPSISpells", "d6/d90/a01964.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
-      [ "SI_SILITHYST_FLAG_GO_SPELL", "d6/d90/a01964.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
-      [ "SI_SILITHYST_FLAG", "d6/d90/a01964.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],
-      [ "SI_TRACES_OF_SILITHYST", "d6/d90/a01964.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
-      [ "SI_CENARION_FAVOR", "d6/d90/a01964.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
+    [ "DefaultTargetSelector", "da/db0/a06096.html", "da/db0/a06096" ],
+    [ "SpellTargetSelector", "de/daa/a06100.html", "de/daa/a06100" ],
+    [ "NonTankTargetSelector", "de/d7b/a06104.html", "de/d7b/a06104" ],
+    [ "PowerUsersSelector", "d9/d60/a06108.html", "d9/d60/a06108" ],
+    [ "FarthestTargetSelector", "d8/d7b/a06112.html", "d8/d7b/a06112" ],
+    [ "UnitAI", "da/de4/a06116.html", "da/de4/a06116" ],
+    [ "PlayerAI", "d6/d09/a06120.html", "d6/d09/a06120" ],
+    [ "SimpleCharmedAI", "dc/d15/a06124.html", "dc/d15/a06124" ],
+    [ "CAST_AI", "d6/d90/a01964.html#a0476b18cfebeb691aabb4344ec4f8af3", null ],
+    [ "ENSURE_AI", "d6/d90/a01964.html#afbd9552e4d9ae2fb45fe846c8e9775cf", null ],
+    [ "SelectTargetMethod", "d6/d90/a01964.html#a482ee472018cb5f0e11addaabad35c3d", [
+      [ "Random", "d6/d90/a01964.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23", null ],
+      [ "MaxThreat", "d6/d90/a01964.html#a482ee472018cb5f0e11addaabad35c3da8a65bf968cbf5bef0f097c4f6cc842c0", null ],
+      [ "MinThreat", "d6/d90/a01964.html#a482ee472018cb5f0e11addaabad35c3da01cd0e3f1d186cc67cb2235ac1e02fa4", null ],
+      [ "MaxDistance", "d6/d90/a01964.html#a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611", null ],
+      [ "MinDistance", "d6/d90/a01964.html#a482ee472018cb5f0e11addaabad35c3da334b6577674b84a8854d5281a52e48b1", null ]
     ] ],
-    [ "SI_WorldStates", "d6/d90/a01964.html#acd596d6544f4ea939ed381e28a4bea8e", [
-      [ "SI_GATHERED_A", "d6/d90/a01964.html#acd596d6544f4ea939ed381e28a4bea8ea93e8d5fa657d73d11f310f8d25f50eb7", null ],
-      [ "SI_GATHERED_H", "d6/d90/a01964.html#acd596d6544f4ea939ed381e28a4bea8ea6aaa9a15233b5c148eb2742487727734", null ],
-      [ "SI_SILITHYST_MAX", "d6/d90/a01964.html#acd596d6544f4ea939ed381e28a4bea8ea7ecead5dc8f4f2a091dcabd2f3c96b45", null ]
-    ] ],
-    [ "OutdoorPvPSIBuffZones", "d6/d90/a01964.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
-    [ "OutdoorPvPSIBuffZonesNum", "d6/d90/a01964.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
-    [ "SI_AREATRIGGER_A", "d6/d90/a01964.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],
-    [ "SI_AREATRIGGER_H", "d6/d90/a01964.html#abb17804eb9913c298a5dae804e1c7206", null ],
-    [ "SI_MAX_RESOURCES", "d6/d90/a01964.html#a9558d0ea12ff1048686daf5bf0ff999c", null ],
-    [ "SI_SILITHYST_MOUND", "d6/d90/a01964.html#a5a6a1265e5e65971f8d86be718ea3bb3", null ],
-    [ "SI_TURNIN_QUEST_CM_A", "d6/d90/a01964.html#a18c47c74867642b4bd8cc166d9fe1e79", null ],
-    [ "SI_TURNIN_QUEST_CM_H", "d6/d90/a01964.html#ad1787da9136bc956357571149e1f6b60", null ]
+    [ "EnsureAI", "d6/d90/a01964.html#a1c66b73f1d3e1e8031c25ae739f094e6", null ]
 ];

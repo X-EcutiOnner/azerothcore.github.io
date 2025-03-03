@@ -1,10 +1,10 @@
 var a02621 =
 [
-    [ "MovementGenerator", "d5/da1/a09872.html", "d5/da1/a09872" ],
-    [ "MovementGeneratorMedium< T, D >", "d2/d33/a09876.html", "d2/d33/a09876" ],
-    [ "MovementGeneratorFactory< Movement >", "d3/d0b/a09880.html", "d3/d0b/a09880" ],
-    [ "IdleMovementFactory", "d4/d4e/a09884.html", "d4/d4e/a09884" ],
-    [ "sMovementGeneratorRegistry", "d6/d10/a02621.html#aa270c1b96e4671274975a07340ba687a", null ],
-    [ "MovementGeneratorCreator", "d6/d10/a02621.html#ae7a6c44762ef974149bfb8d00247a013", null ],
-    [ "MovementGeneratorRegistry", "d6/d10/a02621.html#ae78e82cd7b1aea7744a0dbb2e65f8e79", null ]
+    [ "ban_commandscript", "db/d09/a11520.html", "db/d09/a11520" ],
+    [ "BanMode", "d6/d10/a02621.html#aee9acfaac97a86a40bad738a75eb5264", [
+      [ "BAN_ACCOUNT", "d6/d10/a02621.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1", null ],
+      [ "BAN_CHARACTER", "d6/d10/a02621.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79", null ],
+      [ "BAN_IP", "d6/d10/a02621.html#aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b", null ]
+    ] ],
+    [ "AddSC_ban_commandscript", "d6/d10/a02621.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff", null ]
 ];

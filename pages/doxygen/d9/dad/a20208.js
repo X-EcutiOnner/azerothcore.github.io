@@ -1,7 +1,10 @@
 var a20208 =
 [
-    [ "boss_kologarn_pit_kill_bunny", "d9/dad/a20208.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
-    [ "Reset", "d9/dad/a20208.html#afd7482896b66f040b8d57b9b6ac37059", null ],
-    [ "UpdateAI", "d9/dad/a20208.html#ad863666aec3db81f73165148ffc98033", null ],
-    [ "_boundaryIntersect", "d9/dad/a20208.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
+    [ "boss_kologarn_eyebeamAI", "d9/dad/a20208.html#add083b2a9067753458de1eeb6bdca4c0", null ],
+    [ "DamageDealt", "d9/dad/a20208.html#a6c1d27cc208bdaf260d6c90a2b7bca45", null ],
+    [ "UpdateAI", "d9/dad/a20208.html#add60a709a1edf1684bd21358769590b4", null ],
+    [ "_damaged", "d9/dad/a20208.html#a7b49d9826efcf492c6e7ee003f481ccb", null ],
+    [ "_timer", "d9/dad/a20208.html#a766ad3e10016d97235499d1512c4da27", null ],
+    [ "justSpawned", "d9/dad/a20208.html#a8f01309b6533ea0adf85f43ba1ba1c26", null ],
+    [ "m_pInstance", "d9/dad/a20208.html#a4145bd7e5c80c4e62144b437d38624a4", null ]
 ];

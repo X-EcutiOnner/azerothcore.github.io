@@ -10,7 +10,6 @@ var a19016 =
     [ "UpdateAI", "db/d17/a19016.html#a5eef08082268fa181d4d396fc952dbcd", null ],
     [ "ballLightningEnabled", "db/d17/a19016.html#a487582d59f0d717c3ec53679ad36f99a", null ],
     [ "events", "db/d17/a19016.html#a8bf6ea9e5d3d198bccb293d4b4eac784", null ],
-    [ "pInstance", "db/d17/a19016.html#a969d782f2813cb4ed16abfac0f88576d", null ],
     [ "resetTimer", "db/d17/a19016.html#aba9f23389d5f6724883dc9f7e607a351", null ],
     [ "reviveTimer", "db/d17/a19016.html#a11388e745e81c3ad8ba7d97812a17203", null ],
     [ "summons", "db/d17/a19016.html#a7487f79c379ef29b72959708284cfd0d", null ],

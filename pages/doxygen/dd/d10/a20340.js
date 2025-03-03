@@ -1,6 +1,5 @@
 var a20340 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "de/d34/a20344.html", "de/d34/a20344" ],
-    [ "npc_ulduar_emergency_fire_bot", "dd/d10/a20340.html#a1adc05ac4602ab2b297b18f605bfd2cd", null ],
-    [ "GetAI", "dd/d10/a20340.html#afb3ab952495175c5f571d4e39a5acea4", null ]
+    [ "npc_ulduar_flames_spreadAI", "dd/d10/a20340.html#a607ee542f7c6d84f4072557e44a80905", null ],
+    [ "SpellHit", "dd/d10/a20340.html#abe69df9873fc125306a4ed757665e448", null ]
 ];

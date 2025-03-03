@@ -1,10 +1,7 @@
 var a00821 =
 [
-    [ "spell_utgarde_pinnacle_beast_mark", "de/d62/a21064.html", "de/d62/a21064" ],
-    [ "UtgardeSpells", "d6/d8b/a00821.html#ae8fa29243650c07aed99f9ee3cad321a", [
-      [ "SPELL_BEAST_MARK_NORMAL", "d6/d8b/a00821.html#ae8fa29243650c07aed99f9ee3cad321aa515971380a351ffe4dc21aefd7d9a8aa", null ],
-      [ "SPELL_BEAST_MARK_DAMAGE_N", "d6/d8b/a00821.html#ae8fa29243650c07aed99f9ee3cad321aa519ee30eba59f71f788bd5aaa9ea8a4f", null ],
-      [ "SPELL_BEAST_MARK_DAMAGE_H", "d6/d8b/a00821.html#ae8fa29243650c07aed99f9ee3cad321aa28cc83c9c8ba75d8dd51298affc35aa7", null ]
-    ] ],
-    [ "AddSC_utgarde_pinnacle", "d6/d8b/a00821.html#aa865b80ad4fb44b0c96fa45f08d06d71", null ]
+    [ "ArenaTeamFilter", "dc/df2/a07204.html", "dc/df2/a07204" ],
+    [ "ArenaTeamFilterByTypes", "d2/d8e/a07208.html", "d2/d8e/a07208" ],
+    [ "ArenaTeamFilterAllTeams", "df/d79/a07212.html", "df/d79/a07212" ],
+    [ "ArenaTeamFilterFactoryByUserInput", "dc/df3/a07216.html", "dc/df3/a07216" ]
 ];

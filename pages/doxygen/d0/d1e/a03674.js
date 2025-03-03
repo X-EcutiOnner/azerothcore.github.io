@@ -1,6 +1,76 @@
 var a03674 =
 [
-    [ "MapScript< BattlegroundMap >", "d0/d1e/a03674.html#a37068ff91511f7df359c3cf9be0e8d72", null ],
-    [ "MapScript< InstanceMap >", "d0/d1e/a03674.html#aad36f2a434a53db1767a65fa0a1dffdc", null ],
-    [ "MapScript< Map >", "d0/d1e/a03674.html#aacb4fdedfc86aea6c855e3be41e0c6e1", null ]
+    [ "boss_vezax", "de/d2e/a19964.html", "de/d2e/a19964" ],
+    [ "boss_vezax::boss_vezaxAI", "de/de0/a19968.html", "de/de0/a19968" ],
+    [ "npc_ulduar_saronite_vapors", "d3/d79/a19972.html", "d3/d79/a19972" ],
+    [ "npc_ulduar_saronite_vapors::npc_ulduar_saronite_vaporsAI", "d6/dec/a19976.html", "d6/dec/a19976" ],
+    [ "npc_ulduar_saronite_animus", "df/d0c/a19980.html", "df/d0c/a19980" ],
+    [ "npc_ulduar_saronite_animus::npc_ulduar_saronite_animusAI", "d2/dab/a19984.html", "d2/dab/a19984" ],
+    [ "spell_aura_of_despair_aura", "d7/d22/a19988.html", "d7/d22/a19988" ],
+    [ "spell_mark_of_the_faceless_periodic_aura", "dd/dbb/a19992.html", "dd/dbb/a19992" ],
+    [ "spell_mark_of_the_faceless_drainhealth", "d9/d65/a19996.html", "d9/d65/a19996" ],
+    [ "spell_saronite_vapors_dummy_aura", "d9/d70/a20000.html", "d9/d70/a20000" ],
+    [ "spell_saronite_vapors_damage", "d8/d65/a20004.html", "d8/d65/a20004" ],
+    [ "achievement_smell_saronite", "d2/d21/a20008.html", "d2/d21/a20008" ],
+    [ "achievement_shadowdodger", "de/d2f/a20012.html", "de/d2f/a20012" ],
+    [ "go_ulduar_pure_saronite_deposit", "d2/db4/a20016.html", "d2/db4/a20016" ],
+    [ "VaporsText", "d0/d1e/a03674.html#a108c2a2d27e6ae9f94af4a209440d93e", [
+      [ "SAY_EMOTE_VAPORS", "d0/d1e/a03674.html#a108c2a2d27e6ae9f94af4a209440d93eac51fb1605f030790acd10ceedb8aa954", null ]
+    ] ],
+    [ "VezaxEvents", "d0/d1e/a03674.html#a04c25e824f5c3d2c058222ce5ffa6546", [
+      [ "EVENT_SPELL_VEZAX_SHADOW_CRASH", "d0/d1e/a03674.html#a04c25e824f5c3d2c058222ce5ffa6546a0f9f8655c874ed6677672caf1b0d3ba4", null ],
+      [ "EVENT_SPELL_SEARING_FLAMES", "d0/d1e/a03674.html#a04c25e824f5c3d2c058222ce5ffa6546ac85dd5c61d13bc3def3fac9feff5b43d", null ],
+      [ "EVENT_SPELL_SURGE_OF_DARKNESS", "d0/d1e/a03674.html#a04c25e824f5c3d2c058222ce5ffa6546a3e6898dbc2ee537b1ceb3ec010f41e9a", null ],
+      [ "EVENT_SPELL_MARK_OF_THE_FACELESS", "d0/d1e/a03674.html#a04c25e824f5c3d2c058222ce5ffa6546a061f5186723f734e7334abe72ce94f65", null ],
+      [ "EVENT_SPELL_SUMMON_SARONITE_VAPORS", "d0/d1e/a03674.html#a04c25e824f5c3d2c058222ce5ffa6546a4429f60bd78c6a9ed9807e56dcd85468", null ],
+      [ "EVENT_SARONITE_VAPORS_SWIRL", "d0/d1e/a03674.html#a04c25e824f5c3d2c058222ce5ffa6546a3cbc3828647fbcb758cd292984ce6e9d", null ],
+      [ "EVENT_SPELL_SUMMON_SARONITE_ANIMUS", "d0/d1e/a03674.html#a04c25e824f5c3d2c058222ce5ffa6546a6a9dab42d0ab9faad58f5a6150641dba", null ],
+      [ "EVENT_DESPAWN_SARONITE_VAPORS", "d0/d1e/a03674.html#a04c25e824f5c3d2c058222ce5ffa6546a16c892d2a8084ed4d0c47947ce924c20", null ],
+      [ "EVENT_SPELL_PROFOUND_DARKNESS", "d0/d1e/a03674.html#a04c25e824f5c3d2c058222ce5ffa6546a0a6b9a2decdc422e04c09bce53295813", null ],
+      [ "EVENT_BERSERK", "d0/d1e/a03674.html#a04c25e824f5c3d2c058222ce5ffa6546a94f1144a24a622ff9e12ebe57137f266", null ],
+      [ "EVENT_RESTORE_TARGET", "d0/d1e/a03674.html#a04c25e824f5c3d2c058222ce5ffa6546a4085e50ab24b1c850f3d2bd794e7bcfd", null ]
+    ] ],
+    [ "VezaxGOs", "d0/d1e/a03674.html#a247f87b67f9639834c1ecd69fb31c186", null ],
+    [ "VezaxNpcs", "d0/d1e/a03674.html#aa78f1b64a28f8f85fb7a88055203b63d", [
+      [ "NPC_SARONITE_ANIMUS", "d0/d1e/a03674.html#aa78f1b64a28f8f85fb7a88055203b63da9545669ca68caa507220b5b121475d3c", null ]
+    ] ],
+    [ "VezaxSpellData", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1", [
+      [ "SPELL_VEZAX_BERSERK", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1af266dcd944395681aebb95f0173b5961", null ],
+      [ "SPELL_VEZAX_SHADOW_CRASH", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a75ada0daac75380e5611d5951d0c642a", null ],
+      [ "SPELL_VEZAX_SHADOW_CRASH_DMG", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a54b6d0d1097b3ab12e902f6fad56018c", null ],
+      [ "SPELL_VEZAX_SHADOW_CRASH_AREA_AURA", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a5a29d553d47c6de551b2b886ce6c67cd", null ],
+      [ "SPELL_VEZAX_SHADOW_CRASH_AURA", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1abb66f2065d11048bf61610fa8f79c573", null ],
+      [ "SPELL_SEARING_FLAMES", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a95b11d34a9f8f5b68a92e7cd549af53b", null ],
+      [ "SPELL_SURGE_OF_DARKNESS", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a3b0e2ea70a80eed9f0fce8465c41d189", null ],
+      [ "SPELL_MARK_OF_THE_FACELESS_AURA", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a1d782cbdf316e946f4037a56349d436b", null ],
+      [ "SPELL_MARK_OF_THE_FACELESS_EFFECT", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a9c07a1691f8b921f4bc889a7171ae15d", null ],
+      [ "SPELL_AURA_OF_DESPAIR_1", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a90f62045abb14684c5f6a65a158611b2", null ],
+      [ "SPELL_AURA_OF_DESPAIR_2", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a2b6e254f064c967dfc464486d15967f4", null ],
+      [ "SPELL_CORRUPTED_RAGE", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a1eb8abb1e30c6eb7e0067186567e9440", null ],
+      [ "SPELL_CORRUPTED_WISDOM", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1ad4717c300512cf000af07535db9faf42", null ],
+      [ "SPELL_SHAMANISTIC_RAGE", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a125b0648552bfc958d34496bef00c8cb", null ],
+      [ "SPELL_JUDGEMENTS_OF_THE_WISDOM_RANK_1", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a4c00a43ffd5d1efbc0a604659fbabea7", null ],
+      [ "SPELL_SUMMON_SARONITE_VAPORS", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a2b8edec48cdf6e3374cf2c94cfc7734d", null ],
+      [ "NPC_SARONITE_VAPORS", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a148f3fde9450a6d3880ad03449c03bb8", null ],
+      [ "SPELL_SARONITE_VAPORS_DMG", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a3b8f601a6c2e439263cb1622f2a41f47", null ],
+      [ "SPELL_SARONITE_VAPORS_ENERGIZE", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a4863107801f09934a453e224f6615c76", null ],
+      [ "SPELL_SARONITE_VAPORS_AURA", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1ac5cba5884d9d8362fd0f5c0cde6123c3", null ],
+      [ "SPELL_SARONITE_VAPORS_DUMMYAURA", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1aece01c5aca04b81451b579e9385f8341", null ],
+      [ "SPELL_SARONITE_ANIMUS_FORMATION_VISUAL", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1ad63426f9a2bc82b4e69808afd9423f3c", null ],
+      [ "SPELL_SUMMON_SARONITE_ANIMUS", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1ad004a234d89a2d52772cbfb5c1339a47", null ],
+      [ "SPELL_SARONITE_BARRIER", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a4ca592edb75f801e335cbc4b7b719177", null ],
+      [ "SPELL_PROFOUND_DARKNESS", "d0/d1e/a03674.html#ad45286eaf4e0bb1e60a076b7587531d1a6f27bc5dbb7bf90ec48a9db1a561662b", null ]
+    ] ],
+    [ "VezaxText", "d0/d1e/a03674.html#a0a2af133c7bcb5387c68abce0287eea8", [
+      [ "SAY_AGGRO", "d0/d1e/a03674.html#a0a2af133c7bcb5387c68abce0287eea8a47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_SLAY", "d0/d1e/a03674.html#a0a2af133c7bcb5387c68abce0287eea8a9e64f6e600dd42567d18006912811f75", null ],
+      [ "SAY_SURGE_OF_DARKNESS", "d0/d1e/a03674.html#a0a2af133c7bcb5387c68abce0287eea8a8f89764c360b3f491e241d70d098103f", null ],
+      [ "SAY_DEATH", "d0/d1e/a03674.html#a0a2af133c7bcb5387c68abce0287eea8a04c962d9b6aaafde54ff92a54369135e", null ],
+      [ "SAY_BERSERK", "d0/d1e/a03674.html#a0a2af133c7bcb5387c68abce0287eea8ada55f761193c5ce51964480004c8462b", null ],
+      [ "SAY_HARDMODE", "d0/d1e/a03674.html#a0a2af133c7bcb5387c68abce0287eea8aecf72087c7e1bd8acdabb2785154c48f", null ],
+      [ "SAY_EMOTE_ANIMUS", "d0/d1e/a03674.html#a0a2af133c7bcb5387c68abce0287eea8a92bcf11d1648ecebb99c4921e08f4c9b", null ],
+      [ "SAY_EMOTE_BARRIER", "d0/d1e/a03674.html#a0a2af133c7bcb5387c68abce0287eea8a864797f8afd535b198ea73acf5c497f7", null ],
+      [ "SAY_EMOTE_SURGE_OF_DARKNESS", "d0/d1e/a03674.html#a0a2af133c7bcb5387c68abce0287eea8a3c092c4e1e18462abea4cf84af87bfab", null ]
+    ] ],
+    [ "AddSC_boss_vezax", "d0/d1e/a03674.html#a5c6fe86ca515a67bca7dfaf2465a4b04", null ]
 ];

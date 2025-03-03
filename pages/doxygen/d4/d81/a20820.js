@@ -1,7 +1,6 @@
 var a20820 =
 [
-    [ "HandleScriptEffect", "d4/d81/a20820.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "d4/d81/a20820.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "d4/d81/a20820.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "d4/d81/a20820.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "OnEffect", "d4/d81/a20820.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "d4/d81/a20820.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "d4/d81/a20820.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

@@ -1,5 +1,8 @@
 var a01427 =
 [
-    [ "at_quagmirran_lair", "d9/d5f/a23204.html", "d9/d5f/a23204" ],
-    [ "AddSC_the_slave_pens", "db/d78/a01427.html#acc273464c0a5ce338fdb03fdd7877dd9", null ]
+    [ "GUID_TRAIT_INSTANTIATE_GUID", "db/d78/a01427.html#a62c17cbc4f3da3f26f9c1ae3ba2c4953", null ],
+    [ "operator<<", "db/d78/a01427.html#a039758f4b57c94c411a4c3882334ada8", null ],
+    [ "operator<<", "db/d78/a01427.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
+    [ "operator>>", "db/d78/a01427.html#a30aef535f2839648f0ae4648c746d3e2", null ],
+    [ "operator>>", "db/d78/a01427.html#a95f3a6eef334b9fcdcaca879532c25d4", null ]
 ];

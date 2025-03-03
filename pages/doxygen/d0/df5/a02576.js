@@ -1,6 +1,5 @@
 var a02576 =
 [
-    [ "UpdateRequest", "d6/dec/a09784.html", "d6/dec/a09784" ],
-    [ "MapUpdateRequest", "d3/d61/a09788.html", "d3/d61/a09788" ],
-    [ "LFGUpdateRequest", "dc/d6e/a09792.html", "dc/d6e/a09792" ]
+    [ "cast_commandscript", "db/d70/a11532.html", "db/d70/a11532" ],
+    [ "AddSC_cast_commandscript", "d0/df5/a02576.html#a7b374923a29bdbff68b6e78d2ef4a3e0", null ]
 ];

@@ -1,5 +1,9 @@
 var a27020 =
 [
-    [ "go_noblegarden_colored_egg", "d9/d2f/a27020.html#a7e85d492a6c9f4e50a2c47d6e6dae535", null ],
-    [ "OnGossipHello", "d9/d2f/a27020.html#ab3d349dfa5b4c0f58ed70f80cd084029", null ]
+    [ "ChatLogScript", "d9/d2f/a27020.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerChat", "d9/d2f/a27020.html#a9dc39835aac01da34c57c420fc82790e", null ],
+    [ "OnPlayerChat", "d9/d2f/a27020.html#a64e047261c3d3de22614950c6b6f6f79", null ],
+    [ "OnPlayerChat", "d9/d2f/a27020.html#ac9a4dc6a35325a87c69f08f50a26750c", null ],
+    [ "OnPlayerChat", "d9/d2f/a27020.html#af6e61405ba6642fa451465e27c4b47d8", null ],
+    [ "OnPlayerChat", "d9/d2f/a27020.html#a9962307a0e073ee3f5e7139f059e01b8", null ]
 ];

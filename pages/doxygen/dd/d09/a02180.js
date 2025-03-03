@@ -1,12 +1,25 @@
 var a02180 =
 [
-    [ "AddonInfo", "d2/dc4/a06012.html", "d2/dc4/a06012" ],
-    [ "SavedAddon", "df/de6/a06016.html", "df/de6/a06016" ],
-    [ "BannedAddon", "d7/d13/a06020.html", "d7/d13/a06020" ],
-    [ "STANDARD_ADDON_CRC", "dd/d09/a02180.html#a084249e215f787f3163d5d06ad2d256f", null ],
-    [ "BannedAddonList", "dd/d09/a02180.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
-    [ "GetAddonInfo", "dd/d09/a02180.html#a65cb6a88902972060e44c57d7d9ec738", null ],
-    [ "GetBannedAddons", "dd/d09/a02180.html#ad7d0938e7463238a86e8c811e1a58800", null ],
-    [ "LoadFromDB", "dd/d09/a02180.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
-    [ "SaveAddon", "dd/d09/a02180.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
+    [ "Acore::Impl::ChatCommands::MultiConsumer< Tuple, NextType, offset >", "d7/da8/a07480.html", "d7/da8/a07480" ],
+    [ "Acore::Impl::ChatCommands::MultiConsumer< Tuple, Optional< NestedNextType >, offset >", "d0/dd1/a07484.html", "d0/dd1/a07484" ],
+    [ "Acore::Impl::ChatCommands::HandlerToTuple< T >", "df/d26/a07488.html", null ],
+    [ "Acore::Impl::ChatCommands::HandlerToTuple< bool(ChatHandler *, Ts...)>", "dd/d6f/a07492.html", "dd/d6f/a07492" ],
+    [ "Acore::Impl::ChatCommands::CommandInvoker", "de/d42/a07496.html", "de/d42/a07496" ],
+    [ "Acore::Impl::ChatCommands::CommandPermissions", "d0/d59/a07500.html", "d0/d59/a07500" ],
+    [ "Acore::Impl::ChatCommands::ChatCommandNode", "d5/d3c/a07504.html", "d5/d3c/a07504" ],
+    [ "Acore::ChatCommands::ChatCommandBuilder", "da/d51/a07508.html", "da/d51/a07508" ],
+    [ "Acore::ChatCommands::ChatCommandBuilder::InvokerEntry", "d9/d3b/a07512.html", "d9/d3b/a07512" ],
+    [ "ChatCommand", "dd/d09/a02180.html#a399dbe5721f7277a9066752a84065ee4", null ],
+    [ "ChatCommandTable", "dd/d09/a02180.html#a7aa1549a95f760a19b9b7ffd8e669626", null ],
+    [ "TupleType", "dd/d09/a02180.html#a7dd784bc8e3d7db1d11c46886088ad76", null ],
+    [ "Console", "dd/d09/a02180.html#a6f2659123367a36f37046e5604215d6b", [
+      [ "No", "dd/d09/a02180.html#a6f2659123367a36f37046e5604215d6babafd7322c6e97d25b6299b5d6fe8920b", null ],
+      [ "Yes", "dd/d09/a02180.html#a6f2659123367a36f37046e5604215d6ba93cba07454f06a4a960172bbd6e2a435", null ]
+    ] ],
+    [ "ConsumeFromOffset", "dd/d09/a02180.html#a3cb927687da0e8c0bae77a78fe45d942", null ],
+    [ "GetAutoCompletionsFor", "dd/d09/a02180.html#a9a1f396a96afbd90b5c426315c8ba37d", null ],
+    [ "InvalidateCommandMap", "dd/d09/a02180.html#ade19080af583292883b932d83992c6fe", null ],
+    [ "LoadCommandMap", "dd/d09/a02180.html#a2c6cb6c985ac8fd7bb2f8b2bab1be30d", null ],
+    [ "SendCommandHelpFor", "dd/d09/a02180.html#a81e8830ce306f6cfbcd04c92d3e0cc7f", null ],
+    [ "TryExecuteCommand", "dd/d09/a02180.html#aca39508e7753f6ca5d9aa21a854c0a77", null ]
 ];

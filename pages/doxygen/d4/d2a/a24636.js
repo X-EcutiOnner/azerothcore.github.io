@@ -1,6 +1,7 @@
 var a24636 =
 [
-    [ "OnHit", "d4/d2a/a24636.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
-    [ "PrepareSpellScript", "d4/d2a/a24636.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
-    [ "Register", "d4/d2a/a24636.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
+    [ "CalculateAmount", "d4/d2a/a24636.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
+    [ "Load", "d4/d2a/a24636.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
+    [ "PrepareAuraScript", "d4/d2a/a24636.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
+    [ "Register", "d4/d2a/a24636.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
 ];

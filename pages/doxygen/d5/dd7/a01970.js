@@ -1,5 +1,4 @@
 var a01970 =
 [
-    [ "OutdoorPvP_silithus", "da/d8d/a22392.html", "da/d8d/a22392" ],
-    [ "AddSC_outdoorpvp_si", "d5/dd7/a01970.html#a6dfd2849f525333510ae4febbbc3ae1f", null ]
+    [ "UPDATE_TARGET", "d5/dd7/a01970.html#a7147e15125e75e9e1624cd480f4afb5f", null ]
 ];

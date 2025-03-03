@@ -1,5 +1,6 @@
 var a04649 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "da/d71/a04649.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "MverMagic", "da/d71/a04649.html#a076cdc3e61f69e52913492840fc864cf", null ]
+    [ "CharacterDatabase", "da/d71/a04649.html#af8239cd04c4137e1e621226a6d919ed4", null ],
+    [ "LoginDatabase", "da/d71/a04649.html#ae753c5c60b556b0cb7998e7424be5cbf", null ],
+    [ "WorldDatabase", "da/d71/a04649.html#af42e9d262f732792d1e81568ae38ea2e", null ]
 ];

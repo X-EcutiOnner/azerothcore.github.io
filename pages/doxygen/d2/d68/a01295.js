@@ -1,24 +1,20 @@
 var a01295 =
 [
-    [ "RegisterShadowLabyrinthCreatureAI", "d2/d68/a01295.html#afbd2592662281ddc8b6d11567efe9a50", null ],
-    [ "ShadowLabyrinthScriptName", "d2/d68/a01295.html#ab96ece1dcc827c0af968525da00da892", null ],
-    [ "slData", "d2/d68/a01295.html#a0bb87d52cf69de5a588288e14237b87d", [
-      [ "TYPE_RITUALISTS", "d2/d68/a01295.html#a0bb87d52cf69de5a588288e14237b87da2448fcd14abb165e775c665932a04948", null ],
-      [ "TYPE_HELLMAW", "d2/d68/a01295.html#a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f", null ],
-      [ "DATA_BLACKHEARTTHEINCITEREVENT", "d2/d68/a01295.html#a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26", null ],
-      [ "DATA_GRANDMASTER_VORPIL", "d2/d68/a01295.html#a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748", null ],
-      [ "DATA_GRANDMASTER_VORPIL_EVENT", "d2/d68/a01295.html#a0bb87d52cf69de5a588288e14237b87dad90f8f395f905f5f55ca7b675b597f8b", null ],
-      [ "DATA_MURMUR", "d2/d68/a01295.html#a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900", null ],
-      [ "DATA_MURMUREVENT", "d2/d68/a01295.html#a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f", null ],
-      [ "MAX_ENCOUNTER", "d2/d68/a01295.html#a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d", null ]
+    [ "Corpse", "d1/d89/a07948.html", "d1/d89/a07948" ],
+    [ "CORPSE_RECLAIM_RADIUS", "d2/d68/a01295.html#a1cebf109f41dcdac8a90086696642782", null ],
+    [ "MAX_CORPSE_TYPE", "d2/d68/a01295.html#aec0512ffe7d6a8f7dd8330c334bb4fc3", null ],
+    [ "CorpseFlags", "d2/d68/a01295.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537c", [
+      [ "CORPSE_FLAG_NONE", "d2/d68/a01295.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca30260079b14373a47aef21b99e8757a2", null ],
+      [ "CORPSE_FLAG_BONES", "d2/d68/a01295.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca47ec12fa0520573d7d8ff9231ca4eb8b", null ],
+      [ "CORPSE_FLAG_UNK1", "d2/d68/a01295.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca043171119fe69fae07f3668763d40c7c", null ],
+      [ "CORPSE_FLAG_UNK2", "d2/d68/a01295.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca769ec96151b713170c051ee6236bbd5e", null ],
+      [ "CORPSE_FLAG_HIDE_HELM", "d2/d68/a01295.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca830d0cde7665a938cd48d4018ae0df79", null ],
+      [ "CORPSE_FLAG_HIDE_CLOAK", "d2/d68/a01295.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca25bc5b9c02c2cce38be9bb32c2ad335a", null ],
+      [ "CORPSE_FLAG_LOOTABLE", "d2/d68/a01295.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537caeb7f1630dc7c0b062b809e65cd4e5f80", null ]
     ] ],
-    [ "slNPCandGO", "d2/d68/a01295.html#a5aeaf5f332ee73166572f5313be89bf1", [
-      [ "NPC_CABAL_RITUALIST", "d2/d68/a01295.html#a5aeaf5f332ee73166572f5313be89bf1a726fe6195260ca333078e65a64d24f7a", null ],
-      [ "NPC_HELLMAW", "d2/d68/a01295.html#a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b", null ],
-      [ "GO_REFECTORY_DOOR", "d2/d68/a01295.html#a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c", null ],
-      [ "GO_SCREAMING_HALL_DOOR", "d2/d68/a01295.html#a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a", null ]
-    ] ],
-    [ "GetShadowLabyrinthAI", "d2/d68/a01295.html#a04723307a726c0b79db08448db0704db", null ],
-    [ "EncounterCount", "d2/d68/a01295.html#ae1fbcd81e7256d27efa0288994753839", null ],
-    [ "PersistentDataCount", "d2/d68/a01295.html#aa38a92afffebaf4b33726515956b256b", null ]
+    [ "CorpseType", "d2/d68/a01295.html#a43260eb47484e62a16a868f79646c683", [
+      [ "CORPSE_BONES", "d2/d68/a01295.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356", null ],
+      [ "CORPSE_RESURRECTABLE_PVE", "d2/d68/a01295.html#a43260eb47484e62a16a868f79646c683a79e10cac636d94dc5aa8379ecce5cc78", null ],
+      [ "CORPSE_RESURRECTABLE_PVP", "d2/d68/a01295.html#a43260eb47484e62a16a868f79646c683a90cccb41a96804ac3340b13ff68241ba", null ]
+    ] ]
 ];

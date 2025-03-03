@@ -1,5 +1,8 @@
 var a02000 =
 [
-    [ "lookup_commandscript", "d0/d71/a11620.html", "d0/d71/a11620" ],
-    [ "AddSC_lookup_commandscript", "da/d51/a02000.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
+    [ "PassiveAI", "d1/d65/a06060.html", "d1/d65/a06060" ],
+    [ "PossessedAI", "d1/da6/a06064.html", "d1/da6/a06064" ],
+    [ "NullCreatureAI", "d8/d17/a06068.html", "d8/d17/a06068" ],
+    [ "CritterAI", "d1/db6/a06072.html", "d1/db6/a06072" ],
+    [ "TriggerAI", "df/d45/a06076.html", "df/d45/a06076" ]
 ];

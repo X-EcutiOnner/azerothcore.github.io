@@ -1,5 +1,5 @@
 var a01979 =
 [
-    [ "cheat_commandscript", "d1/d47/a11544.html", "d1/d47/a11544" ],
-    [ "AddSC_cheat_commandscript", "d6/d8e/a01979.html#aafc88882ff0af0beb4632ec2c929fc8c", null ]
+    [ "TotemAI", "db/d46/a06088.html", "db/d46/a06088" ],
+    [ "KillMagnetEvent", "d7/da0/a06092.html", "d7/da0/a06092" ]
 ];

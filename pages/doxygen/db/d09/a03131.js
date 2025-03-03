@@ -1,25 +1,16 @@
 var a03131 =
 [
-    [ "PlayerDump", "da/d75/a11370.html", "da/d75/a11370" ],
-    [ "PlayerDumpWriter", "de/dfc/a11374.html", "de/dfc/a11374" ],
-    [ "PlayerDumpReader", "d2/dbf/a11378.html", "d2/dbf/a11378" ],
-    [ "DumpReturn", "db/d09/a03131.html#a4471667403db9bc7532f371d28743866", [
-      [ "DUMP_SUCCESS", "db/d09/a03131.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
-      [ "DUMP_FILE_OPEN_ERROR", "db/d09/a03131.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
-      [ "DUMP_TOO_MANY_CHARS", "db/d09/a03131.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
-      [ "DUMP_FILE_BROKEN", "db/d09/a03131.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
-      [ "DUMP_CHARACTER_DELETED", "db/d09/a03131.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
+    [ "npc_corporal_keeshan", "d9/dd0/a13488.html", "d9/dd0/a13488" ],
+    [ "npc_corporal_keeshan::npc_corporal_keeshanAI", "d4/d37/a13492.html", "d4/d37/a13492" ],
+    [ "CorporalKeeshan", "db/d09/a03131.html#aeff5ef215a48fcd7bb6837e1d77e4b45", [
+      [ "QUEST_MISSING_IN_ACTION", "db/d09/a03131.html#aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210", null ],
+      [ "SAY_CORPORAL_1", "db/d09/a03131.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364", null ],
+      [ "SAY_CORPORAL_2", "db/d09/a03131.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f", null ],
+      [ "SAY_CORPORAL_3", "db/d09/a03131.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445", null ],
+      [ "SAY_CORPORAL_4", "db/d09/a03131.html#aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe", null ],
+      [ "SAY_CORPORAL_5", "db/d09/a03131.html#aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf", null ],
+      [ "SPELL_MOCKING_BLOW", "db/d09/a03131.html#aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e", null ],
+      [ "SPELL_SHIELD_BASH", "db/d09/a03131.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4", null ]
     ] ],
-    [ "DumpTableType", "db/d09/a03131.html#ad4739d865080bb5590831b606365e7ef", [
-      [ "DTT_CHARACTER", "db/d09/a03131.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
-      [ "DTT_CHAR_TABLE", "db/d09/a03131.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
-      [ "DTT_EQSET_TABLE", "db/d09/a03131.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
-      [ "DTT_INVENTORY", "db/d09/a03131.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
-      [ "DTT_MAIL", "db/d09/a03131.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
-      [ "DTT_MAIL_ITEM", "db/d09/a03131.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
-      [ "DTT_ITEM", "db/d09/a03131.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
-      [ "DTT_ITEM_GIFT", "db/d09/a03131.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
-      [ "DTT_PET", "db/d09/a03131.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
-      [ "DTT_PET_TABLE", "db/d09/a03131.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
-    ] ]
+    [ "AddSC_redridge_mountains", "db/d09/a03131.html#a0e7af4a9a0f1dcec20ae3d284f9721c5", null ]
 ];

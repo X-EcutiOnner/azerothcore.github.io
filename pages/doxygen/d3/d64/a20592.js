@@ -1,6 +1,12 @@
 var a20592 =
 [
-    [ "npc_xt002_life_sparkAI", "dd/d9a/a20596.html", "dd/d9a/a20596" ],
-    [ "npc_xt002_life_spark", "d3/d64/a20592.html#a9644718d192708e391b833468a0ff21e", null ],
-    [ "GetAI", "d3/d64/a20592.html#a09a1ce332d55fad146947c94bb53f564", null ]
+    [ "npc_xt002_boombotAI", "d3/d64/a20592.html#a9be3f9270a828946e2934aea24aa5549", null ],
+    [ "DamageTaken", "d3/d64/a20592.html#ad581fd228701d851c8d3bf0f3a1f854c", null ],
+    [ "Explode", "d3/d64/a20592.html#afe8c0408887b8cd0cb533475c221035b", null ],
+    [ "JustDied", "d3/d64/a20592.html#ad6d240b16aa8f7f297b1ad0982a8827e", null ],
+    [ "MovementInform", "d3/d64/a20592.html#a2cb53c683de44347b0448d8a1611300e", null ],
+    [ "Reset", "d3/d64/a20592.html#a5d4f4a4c6c098f440064caa37438a7ed", null ],
+    [ "UpdateAI", "d3/d64/a20592.html#a2bebdd97339b3b545331a494a51246eb", null ],
+    [ "_boomed", "d3/d64/a20592.html#acd75eb57db0043fbae633a2f63924c05", null ],
+    [ "_locked", "d3/d64/a20592.html#ada468c62b133ec1a9c043eec1c52c0d1", null ]
 ];

@@ -1,7 +1,8 @@
 var a22124 =
 [
-    [ "HandleDummy", "dd/dc4/a22124.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "dd/dc4/a22124.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "dd/dc4/a22124.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "dd/dc4/a22124.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "AfterRemove", "dd/dc4/a22124.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
+    [ "HandlePeriodic", "dd/dc4/a22124.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
+    [ "OnApply", "dd/dc4/a22124.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
+    [ "PrepareAuraScript", "dd/dc4/a22124.html#a47a6281c42dc9368357cc86912331c77", null ],
+    [ "Register", "dd/dc4/a22124.html#a868c79cda98b97b27b74d46f86cb980a", null ]
 ];

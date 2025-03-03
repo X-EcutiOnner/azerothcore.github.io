@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Conditions/DisableMgr.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Chat/ChatCommands/ChatCommand.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,189 +106,191 @@ $(document).ready(function(){initNavTree('dc/da6/a02192.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">DisableMgr.h File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">ChatCommand.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Map.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ChatCommand.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">AccountMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DBCStores.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">StringFormat.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Tokenize.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d8c/a07832.html">DisableData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d14/a07836.html">DisableMgr</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dac/a07476.html">Acore::Impl::ChatCommands::FilteredCommandListIterator</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a1a184d22bd27210ea5af79573927826a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#a1a184d22bd27210ea5af79573927826a">sDisableMgr</a>&#160;&#160;&#160;<a class="el" href="../../d7/d14/a07836.html#ac3787801d677b0ed6592476d648743db">DisableMgr::instance</a>()</td></tr>
-<tr class="separator:a1a184d22bd27210ea5af79573927826a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d1/d86/a04746"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d86/a04746.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:de/df1/a04758"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df1/a04758.html">Acore::Impl</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:dd/dec/a04786"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dec/a04786.html">Acore::Impl::ChatCommands</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:affa2a0d7ee61f6e1bc7c6cb7d2c1b64c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c">DisableType</a> { <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27">DISABLE_TYPE_SPELL</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e">DISABLE_TYPE_QUEST</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c">DISABLE_TYPE_MAP</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a">DISABLE_TYPE_BATTLEGROUND</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1">DISABLE_TYPE_ACHIEVEMENT_CRITERIA</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296">DISABLE_TYPE_OUTDOORPVP</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff">DISABLE_TYPE_VMAP</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a">DISABLE_TYPE_GO_LOS</a> = 7
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68">DISABLE_TYPE_LFG_MAP</a> = 8
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0">DISABLE_TYPE_GAME_EVENT</a> = 9
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f">DISABLE_TYPE_LOOT</a> = 10
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f">MAX_DISABLE_TYPES</a>
-<br />
- }</td></tr>
-<tr class="separator:affa2a0d7ee61f6e1bc7c6cb7d2c1b64c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7b9e8ca1dcd13802fa528f955deaefd7"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7">SpellDisableTypes</a> { <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41">SPELL_DISABLE_PLAYER</a> = 0x1
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707">SPELL_DISABLE_CREATURE</a> = 0x2
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4">SPELL_DISABLE_PET</a> = 0x4
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b">SPELL_DISABLE_DEPRECATED_SPELL</a> = 0x8
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484">SPELL_DISABLE_MAP</a> = 0x10
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268">SPELL_DISABLE_AREA</a> = 0x20
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437">SPELL_DISABLE_LOS</a> = 0x40
-, <br />
-&#160;&#160;<a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d">MAX_SPELL_DISABLE_TYPE</a>
-<br />
- }</td></tr>
-<tr class="separator:a7b9e8ca1dcd13802fa528f955deaefd7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a306b7e46fd4791f088a8919720238f3d"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#a306b7e46fd4791f088a8919720238f3d">ChatSubCommandMap</a> = std::map&lt; std::string_view, <a class="el" href="../../d5/d3c/a07504.html">Acore::Impl::ChatCommands::ChatCommandNode</a>, <a class="el" href="../../d4/d33/a05580.html">StringCompareLessI_T</a> &gt;</td></tr>
+<tr class="separator:a306b7e46fd4791f088a8919720238f3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a8dc2bbcf5b90559262a46829632f332e"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#a8dc2bbcf5b90559262a46829632f332e">LogCommandUsage</a> (<a class="el" href="../../d8/dcb/a10956.html">WorldSession</a> const &amp;session, std::string_view cmdStr)</td></tr>
+<tr class="separator:a8dc2bbcf5b90559262a46829632f332e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a569e79432c3876f4ac0b961e8a783003"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../dc/da6/a02192.html#a306b7e46fd4791f088a8919720238f3d">ChatSubCommandMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da6/a02192.html#a569e79432c3876f4ac0b961e8a783003">COMMAND_MAP</a></td></tr>
+<tr class="separator:a569e79432c3876f4ac0b961e8a783003"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a1a184d22bd27210ea5af79573927826a" name="a1a184d22bd27210ea5af79573927826a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a184d22bd27210ea5af79573927826a">&#9670;&#160;</a></span>sDisableMgr</h2>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a306b7e46fd4791f088a8919720238f3d" name="a306b7e46fd4791f088a8919720238f3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a306b7e46fd4791f088a8919720238f3d">&#9670;&#160;</a></span>ChatSubCommandMap</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define sDisableMgr&#160;&#160;&#160;<a class="el" href="../../d7/d14/a07836.html#ac3787801d677b0ed6592476d648743db">DisableMgr::instance</a>()</td>
+          <td class="memname">using <a class="el" href="../../dc/da6/a02192.html#a306b7e46fd4791f088a8919720238f3d">ChatSubCommandMap</a> =  std::map&lt;std::string_view, <a class="el" href="../../d5/d3c/a07504.html">Acore::Impl::ChatCommands::ChatCommandNode</a>, <a class="el" href="../../d4/d33/a05580.html">StringCompareLessI_T</a>&gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64c" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c">&#9670;&#160;</a></span>DisableType</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a8dc2bbcf5b90559262a46829632f332e" name="a8dc2bbcf5b90559262a46829632f332e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8dc2bbcf5b90559262a46829632f332e">&#9670;&#160;</a></span>LogCommandUsage()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c">DisableType</a></td>
+          <td class="memname">static void LogCommandUsage </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/dcb/a10956.html">WorldSession</a> const &amp;&#160;</td>
+          <td class="paramname"><em>session</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>cmdStr</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27"></a>DISABLE_TYPE_SPELL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e"></a>DISABLE_TYPE_QUEST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c"></a>DISABLE_TYPE_MAP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a"></a>DISABLE_TYPE_BATTLEGROUND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1"></a>DISABLE_TYPE_ACHIEVEMENT_CRITERIA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296"></a>DISABLE_TYPE_OUTDOORPVP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff"></a>DISABLE_TYPE_VMAP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a"></a>DISABLE_TYPE_GO_LOS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68"></a>DISABLE_TYPE_LFG_MAP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0"></a>DISABLE_TYPE_GAME_EVENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f"></a>DISABLE_TYPE_LOOT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f" name="affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f"></a>MAX_DISABLE_TYPES&#160;</td><td class="fielddoc"></td></tr>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27">DISABLE_TYPE_SPELL</a>                  = 0,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e">DISABLE_TYPE_QUEST</a>                  = 1,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c">DISABLE_TYPE_MAP</a>                    = 2,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a">DISABLE_TYPE_BATTLEGROUND</a>           = 3,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1">DISABLE_TYPE_ACHIEVEMENT_CRITERIA</a>   = 4,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296">DISABLE_TYPE_OUTDOORPVP</a>             = 5,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff">DISABLE_TYPE_VMAP</a>                   = 6,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a">DISABLE_TYPE_GO_LOS</a>                 = 7,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68">DISABLE_TYPE_LFG_MAP</a>                = 8,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0">DISABLE_TYPE_GAME_EVENT</a>             = 9,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f">DISABLE_TYPE_LOOT</a>                   = 10,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f">MAX_DISABLE_TYPES</a></div>
-<div class="line"><span class="lineno">   40</span>};</div>
-<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27">DISABLE_TYPE_SPELL</a></div><div class="ttdeci">@ DISABLE_TYPE_SPELL</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:28</div></div>
-<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f">MAX_DISABLE_TYPES</a></div><div class="ttdeci">@ MAX_DISABLE_TYPES</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:39</div></div>
-<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff">DISABLE_TYPE_VMAP</a></div><div class="ttdeci">@ DISABLE_TYPE_VMAP</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:34</div></div>
-<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e">DISABLE_TYPE_QUEST</a></div><div class="ttdeci">@ DISABLE_TYPE_QUEST</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:29</div></div>
-<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c">DISABLE_TYPE_MAP</a></div><div class="ttdeci">@ DISABLE_TYPE_MAP</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:30</div></div>
-<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a">DISABLE_TYPE_BATTLEGROUND</a></div><div class="ttdeci">@ DISABLE_TYPE_BATTLEGROUND</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:31</div></div>
-<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1">DISABLE_TYPE_ACHIEVEMENT_CRITERIA</a></div><div class="ttdeci">@ DISABLE_TYPE_ACHIEVEMENT_CRITERIA</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:32</div></div>
-<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f">DISABLE_TYPE_LOOT</a></div><div class="ttdeci">@ DISABLE_TYPE_LOOT</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:38</div></div>
-<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0">DISABLE_TYPE_GAME_EVENT</a></div><div class="ttdeci">@ DISABLE_TYPE_GAME_EVENT</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:37</div></div>
-<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68">DISABLE_TYPE_LFG_MAP</a></div><div class="ttdeci">@ DISABLE_TYPE_LFG_MAP</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:36</div></div>
-<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a">DISABLE_TYPE_GO_LOS</a></div><div class="ttdeci">@ DISABLE_TYPE_GO_LOS</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:35</div></div>
-<div class="ttc" id="aa02192_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296"><div class="ttname"><a href="../../dc/da6/a02192.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296">DISABLE_TYPE_OUTDOORPVP</a></div><div class="ttdeci">@ DISABLE_TYPE_OUTDOORPVP</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:33</div></div>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  156</span>{</div>
+<div class="line"><span class="lineno">  157</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d1/d03/a04778.html#a63751f144cb7acb57fc20f0caf5e7043">AccountMgr::IsPlayerAccount</a>(session.GetSecurity()))</div>
+<div class="line"><span class="lineno">  158</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  159</span> </div>
+<div class="line"><span class="lineno">  160</span>    <a class="code hl_class" href="../../d2/d57/a08572.html">Player</a>* player = session.GetPlayer();</div>
+<div class="line"><span class="lineno">  161</span>    <a class="code hl_class" href="../../d5/d95/a08372.html">ObjectGuid</a> targetGuid = player-&gt;<a class="code hl_function" href="../../d9/dad/a08704.html#af387d5e18806e37f65ebc3408c0b8712">GetTarget</a>();</div>
+<div class="line"><span class="lineno">  162</span>    <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaId = player-&gt;<a class="code hl_function" href="../../d0/dac/a08356.html#acdd585ef58eb876c506389ff96a4fbd9">GetAreaId</a>();</div>
+<div class="line"><span class="lineno">  163</span>    <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneId = player-&gt;<a class="code hl_function" href="../../d0/dac/a08356.html#ad498d690fbe69bb99a8a2ffdcb2f5169">GetZoneId</a>();</div>
+<div class="line"><span class="lineno">  164</span>    std::string areaName = <span class="stringliteral">&quot;Unknown&quot;</span>;</div>
+<div class="line"><span class="lineno">  165</span>    std::string zoneName = <span class="stringliteral">&quot;Unknown&quot;</span>;</div>
+<div class="line"><span class="lineno">  166</span>    <a class="code hl_enumeration" href="../../d9/d24/a00524.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_define" href="../../de/d2c/a04741.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;GetDefaultDbcLocale();</div>
+<div class="line"><span class="lineno">  167</span> </div>
+<div class="line"><span class="lineno">  168</span>    <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../dc/de1/a27848.html">AreaTableEntry</a> <span class="keyword">const</span>* area = <a class="code hl_variable" href="../../dd/d77/a02096.html#aedcdbef7c215330459e17b2f224ff0e3">sAreaTableStore</a>.LookupEntry(areaId))</div>
+<div class="line"><span class="lineno">  169</span>    {</div>
+<div class="line"><span class="lineno">  170</span>        areaName = area-&gt;area_name[locale];</div>
+<div class="line"><span class="lineno">  171</span>    }</div>
+<div class="line"><span class="lineno">  172</span> </div>
+<div class="line"><span class="lineno">  173</span>    <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../dc/de1/a27848.html">AreaTableEntry</a> <span class="keyword">const</span>* zone = <a class="code hl_variable" href="../../dd/d77/a02096.html#aedcdbef7c215330459e17b2f224ff0e3">sAreaTableStore</a>.LookupEntry(zoneId))</div>
+<div class="line"><span class="lineno">  174</span>    {</div>
+<div class="line"><span class="lineno">  175</span>        zoneName = zone-&gt;area_name[locale];</div>
+<div class="line"><span class="lineno">  176</span>    }</div>
+<div class="line"><span class="lineno">  177</span> </div>
+<div class="line"><span class="lineno">  178</span>    std::string logMessage = <a class="code hl_function" href="../../d1/d86/a04746.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(<span class="stringliteral">&quot;Command: {} [Player: {} ({}) (Account: {}) X: {} Y: {} Z: {} Map: {} ({}) Area: {} ({}) Zone: {} ({}) Selected: {} ({})]&quot;</span>,</div>
+<div class="line"><span class="lineno">  179</span>        cmdStr, player-&gt;<a class="code hl_function" href="../../d0/dac/a08356.html#a7e67658eb5aa058bc7f46bf6b11a797c">GetName</a>(), player-&gt;<a class="code hl_function" href="../../d7/d07/a08324.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d5/d95/a08372.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(),</div>
+<div class="line"><span class="lineno">  180</span>        session.GetAccountId(),</div>
+<div class="line"><span class="lineno">  181</span>        player-&gt;<a class="code hl_function" href="../../d0/d9f/a08400.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), player-&gt;<a class="code hl_function" href="../../d0/d9f/a08400.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), player-&gt;<a class="code hl_function" href="../../d0/d9f/a08400.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>(), player-&gt;<a class="code hl_function" href="../../db/db6/a08416.html#a2682e56ae4f0ce4b517a8ba3cd2798b1">GetMapId</a>(),</div>
+<div class="line"><span class="lineno">  182</span>        player-&gt;<a class="code hl_function" href="../../d0/dac/a08356.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>() ? player-&gt;<a class="code hl_function" href="../../d0/dac/a08356.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>()-&gt;<a class="code hl_function" href="../../d4/d87/a09756.html#ac6e125affc167d59afd4af38f4791b01">GetMapName</a>() : <span class="stringliteral">&quot;Unknown&quot;</span>,</div>
+<div class="line"><span class="lineno">  183</span>        areaId, areaName, zoneId, zoneName,</div>
+<div class="line"><span class="lineno">  184</span>        (player-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#ac7d583e914a735322c3d47a57a0c1645">GetSelectedUnit</a>()) ? player-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#ac7d583e914a735322c3d47a57a0c1645">GetSelectedUnit</a>()-&gt;<a class="code hl_function" href="../../d0/dac/a08356.html#a7e67658eb5aa058bc7f46bf6b11a797c">GetName</a>() : <span class="stringliteral">&quot;&quot;</span>,</div>
+<div class="line"><span class="lineno">  185</span>        targetGuid.<a class="code hl_function" href="../../d5/d95/a08372.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno">  186</span> </div>
+<div class="line"><span class="lineno">  187</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#aeeb132f13796dfa459eb05386acff8fe">LOG_GM</a>(session.GetAccountId(), logMessage);</div>
+<div class="line"><span class="lineno">  188</span>}</div>
+<div class="ttc" id="aa00266_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00524_html_a54c9b637be7283ba1a04fb5215594332"><div class="ttname"><a href="../../d9/d24/a00524.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a></div><div class="ttdeci">LocaleConstant</div><div class="ttdef"><b>Definition:</b> Common.h:65</div></div>
+<div class="ttc" id="aa00557_html_aeeb132f13796dfa459eb05386acff8fe"><div class="ttname"><a href="../../d8/df0/a00557.html#aeeb132f13796dfa459eb05386acff8fe">LOG_GM</a></div><div class="ttdeci">#define LOG_GM(accountId__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:176</div></div>
+<div class="ttc" id="aa02096_html_aedcdbef7c215330459e17b2f224ff0e3"><div class="ttname"><a href="../../dd/d77/a02096.html#aedcdbef7c215330459e17b2f224ff0e3">sAreaTableStore</a></div><div class="ttdeci">DBCStorage&lt; AreaTableEntry &gt; sAreaTableStore(AreaTableEntryfmt)</div></div>
+<div class="ttc" id="aa04741_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../de/d2c/a04741.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:375</div></div>
+<div class="ttc" id="aa04746_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../d1/d86/a04746.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:34</div></div>
+<div class="ttc" id="aa04778_html_a63751f144cb7acb57fc20f0caf5e7043"><div class="ttname"><a href="../../d1/d03/a04778.html#a63751f144cb7acb57fc20f0caf5e7043">AccountMgr::IsPlayerAccount</a></div><div class="ttdeci">bool IsPlayerAccount(uint32 gmlevel)</div><div class="ttdef"><b>Definition:</b> AccountMgr.cpp:305</div></div>
+<div class="ttc" id="aa08324_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d7/d07/a08324.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:112</div></div>
+<div class="ttc" id="aa08356_html_a1e43fee59e696ae47ed06191ae3b1b82"><div class="ttname"><a href="../../d0/dac/a08356.html#a1e43fee59e696ae47ed06191ae3b1b82">WorldObject::FindMap</a></div><div class="ttdeci">Map * FindMap() const</div><div class="ttdef"><b>Definition:</b> Object.h:537</div></div>
+<div class="ttc" id="aa08356_html_a7e67658eb5aa058bc7f46bf6b11a797c"><div class="ttname"><a href="../../d0/dac/a08356.html#a7e67658eb5aa058bc7f46bf6b11a797c">WorldObject::GetName</a></div><div class="ttdeci">std::string const &amp; GetName() const</div><div class="ttdef"><b>Definition:</b> Object.h:463</div></div>
+<div class="ttc" id="aa08356_html_acdd585ef58eb876c506389ff96a4fbd9"><div class="ttname"><a href="../../d0/dac/a08356.html#acdd585ef58eb876c506389ff96a4fbd9">WorldObject::GetAreaId</a></div><div class="ttdeci">uint32 GetAreaId() const</div><div class="ttdef"><b>Definition:</b> Object.cpp:3158</div></div>
+<div class="ttc" id="aa08356_html_ad498d690fbe69bb99a8a2ffdcb2f5169"><div class="ttname"><a href="../../d0/dac/a08356.html#ad498d690fbe69bb99a8a2ffdcb2f5169">WorldObject::GetZoneId</a></div><div class="ttdeci">uint32 GetZoneId() const</div><div class="ttdef"><b>Definition:</b> Object.cpp:3150</div></div>
+<div class="ttc" id="aa08372_html"><div class="ttname"><a href="../../d5/d95/a08372.html">ObjectGuid</a></div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:118</div></div>
+<div class="ttc" id="aa08372_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d5/d95/a08372.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:47</div></div>
+<div class="ttc" id="aa08400_html_a4e813a59345a6275e8b87b96be03e60b"><div class="ttname"><a href="../../d0/d9f/a08400.html#a4e813a59345a6275e8b87b96be03e60b">Position::GetPositionZ</a></div><div class="ttdeci">float GetPositionZ() const</div><div class="ttdef"><b>Definition:</b> Position.h:123</div></div>
+<div class="ttc" id="aa08400_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../d0/d9f/a08400.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition:</b> Position.h:121</div></div>
+<div class="ttc" id="aa08400_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../d0/d9f/a08400.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:122</div></div>
+<div class="ttc" id="aa08416_html_a2682e56ae4f0ce4b517a8ba3cd2798b1"><div class="ttname"><a href="../../db/db6/a08416.html#a2682e56ae4f0ce4b517a8ba3cd2798b1">WorldLocation::GetMapId</a></div><div class="ttdeci">uint32 GetMapId() const</div><div class="ttdef"><b>Definition:</b> Position.h:280</div></div>
+<div class="ttc" id="aa08572_html"><div class="ttname"><a href="../../d2/d57/a08572.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1081</div></div>
+<div class="ttc" id="aa08572_html_ac7d583e914a735322c3d47a57a0c1645"><div class="ttname"><a href="../../d2/d57/a08572.html#ac7d583e914a735322c3d47a57a0c1645">Player::GetSelectedUnit</a></div><div class="ttdeci">Unit * GetSelectedUnit() const</div><div class="ttdef"><b>Definition:</b> Player.cpp:11597</div></div>
+<div class="ttc" id="aa08704_html_af387d5e18806e37f65ebc3408c0b8712"><div class="ttname"><a href="../../d9/dad/a08704.html#af387d5e18806e37f65ebc3408c0b8712">Unit::GetTarget</a></div><div class="ttdeci">ObjectGuid GetTarget() const</div><div class="ttdef"><b>Definition:</b> Unit.h:827</div></div>
+<div class="ttc" id="aa09756_html_ac6e125affc167d59afd4af38f4791b01"><div class="ttname"><a href="../../d4/d87/a09756.html#ac6e125affc167d59afd4af38f4791b01">Map::GetMapName</a></div><div class="ttdeci">const char * GetMapName() const</div><div class="ttdef"><b>Definition:</b> Map.cpp:1680</div></div>
+<div class="ttc" id="aa27848_html"><div class="ttname"><a href="../../dc/de1/a27848.html">AreaTableEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:518</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00537">WorldObject::FindMap()</a>, <a class="el" href="../../#l00375">WorldSession::GetAccountId()</a>, <a class="el" href="../../#l03158">WorldObject::GetAreaId()</a>, <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00280">WorldLocation::GetMapId()</a>, <a class="el" href="../../#l01680">Map::GetMapName()</a>, <a class="el" href="../../#l00463">WorldObject::GetName()</a>, <a class="el" href="../../#l00376">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00373">WorldSession::GetSecurity()</a>, <a class="el" href="../../#l11597">Player::GetSelectedUnit()</a>, <a class="el" href="../../#l00827">Unit::GetTarget()</a>, <a class="el" href="../../#l03150">WorldObject::GetZoneId()</a>, <a class="el" href="../../#l00305">AccountMgr::IsPlayerAccount()</a>, <a class="el" href="../../#l00176">LOG_GM</a>, <a class="el" href="../../dd/d77/a02096.html#aedcdbef7c215330459e17b2f224ff0e3">sAreaTableStore</a>, <a class="el" href="../../#l00034">Acore::StringFormat()</a>, <a class="el" href="../../#l00375">sWorld</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00274">Acore::Impl::ChatCommands::ChatCommandNode::TryExecuteCommand()</a>.</p>
+
 </div>
 </div>
-<a id="a7b9e8ca1dcd13802fa528f955deaefd7" name="a7b9e8ca1dcd13802fa528f955deaefd7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7b9e8ca1dcd13802fa528f955deaefd7">&#9670;&#160;</a></span>SpellDisableTypes</h2>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a569e79432c3876f4ac0b961e8a783003" name="a569e79432c3876f4ac0b961e8a783003"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a569e79432c3876f4ac0b961e8a783003">&#9670;&#160;</a></span>COMMAND_MAP</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7">SpellDisableTypes</a></td>
+          <td class="memname"><a class="el" href="../../dc/da6/a02192.html#a306b7e46fd4791f088a8919720238f3d">ChatSubCommandMap</a> COMMAND_MAP</td>
         </tr>
       </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41" name="a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41"></a>SPELL_DISABLE_PLAYER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707" name="a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707"></a>SPELL_DISABLE_CREATURE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4" name="a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4"></a>SPELL_DISABLE_PET&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b" name="a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b"></a>SPELL_DISABLE_DEPRECATED_SPELL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484" name="a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484"></a>SPELL_DISABLE_MAP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268" name="a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268"></a>SPELL_DISABLE_AREA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437" name="a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437"></a>SPELL_DISABLE_LOS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d" name="a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d"></a>MAX_SPELL_DISABLE_TYPE&#160;</td><td class="fielddoc"></td></tr>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41">SPELL_DISABLE_PLAYER</a>            = 0x1,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707">SPELL_DISABLE_CREATURE</a>          = 0x2,</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4">SPELL_DISABLE_PET</a>               = 0x4,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b">SPELL_DISABLE_DEPRECATED_SPELL</a>  = 0x8,</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484">SPELL_DISABLE_MAP</a>               = 0x10,</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268">SPELL_DISABLE_AREA</a>              = 0x20,</div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437">SPELL_DISABLE_LOS</a>               = 0x40,</div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d">MAX_SPELL_DISABLE_TYPE</a>          = (<a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41">SPELL_DISABLE_PLAYER</a> | <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707">SPELL_DISABLE_CREATURE</a> | <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4">SPELL_DISABLE_PET</a> |</div>
-<div class="line"><span class="lineno">   52</span>                                       <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b">SPELL_DISABLE_DEPRECATED_SPELL</a> | <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484">SPELL_DISABLE_MAP</a> | <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268">SPELL_DISABLE_AREA</a> |</div>
-<div class="line"><span class="lineno">   53</span>                                       <a class="code hl_enumvalue" href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437">SPELL_DISABLE_LOS</a>)</div>
-<div class="line"><span class="lineno">   54</span>};</div>
-<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437">SPELL_DISABLE_LOS</a></div><div class="ttdeci">@ SPELL_DISABLE_LOS</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:50</div></div>
-<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707">SPELL_DISABLE_CREATURE</a></div><div class="ttdeci">@ SPELL_DISABLE_CREATURE</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:45</div></div>
-<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4">SPELL_DISABLE_PET</a></div><div class="ttdeci">@ SPELL_DISABLE_PET</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:46</div></div>
-<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484">SPELL_DISABLE_MAP</a></div><div class="ttdeci">@ SPELL_DISABLE_MAP</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:48</div></div>
-<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41">SPELL_DISABLE_PLAYER</a></div><div class="ttdeci">@ SPELL_DISABLE_PLAYER</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:44</div></div>
-<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b">SPELL_DISABLE_DEPRECATED_SPELL</a></div><div class="ttdeci">@ SPELL_DISABLE_DEPRECATED_SPELL</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:47</div></div>
-<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d">MAX_SPELL_DISABLE_TYPE</a></div><div class="ttdeci">@ MAX_SPELL_DISABLE_TYPE</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:51</div></div>
-<div class="ttc" id="aa02192_html_a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268"><div class="ttname"><a href="../../dc/da6/a02192.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268">SPELL_DISABLE_AREA</a></div><div class="ttdeci">@ SPELL_DISABLE_AREA</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:49</div></div>
-</div><!-- fragment -->
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00069">Acore::Impl::ChatCommands::ChatCommandNode::GetTopLevelMap()</a>, <a class="el" href="../../#l00076">Acore::Impl::ChatCommands::ChatCommandNode::InvalidateCommandMap()</a>, and <a class="el" href="../../#l00081">Acore::Impl::ChatCommands::ChatCommandNode::LoadCommandMap()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -296,8 +298,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_c0da28c740234fa28d1fcf99be699b09.html">Conditions</a></li><li class="navelem"><a class="el" href="../../dc/da6/a02192.html">DisableMgr.h</a></li>
-    <li class="footer">Generated on Mon Feb 24 2025 20:42:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_696eb3df8c264f77a3b72ba3d62ed649.html">Chat</a></li><li class="navelem"><a class="el" href="../../dir_c82f813a65ca3ac2a4f36b7f63ade20a.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../dc/da6/a02192.html">ChatCommand.cpp</a></li>
+    <li class="footer">Generated on Mon Mar 3 2025 20:44:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,14 @@
 var a04103 =
 [
-    [ "GetCleanAliasName", "de/d1c/a04103.html#ae187308862c39923e2b843bc9d4c989c", null ],
-    [ "GetDefaultValue", "de/d1c/a04103.html#a2ea1ae2c2289bdc9068ec9c886d124c8", null ],
-    [ "IsCorrectAlias", "de/d1c/a04103.html#a56e834d391c0eb5187d3c7dd0dad88b7", null ],
-    [ "IsCorrectFieldType", "de/d1c/a04103.html#a61bef7957f008e8cd937746ba03feb73", null ]
+    [ "guard_shattrath_scryer", "db/d96/a27228.html", "db/d96/a27228" ],
+    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "d9/df0/a27232.html", "d9/df0/a27232" ],
+    [ "guard_shattrath_aldor", "db/df3/a27236.html", "db/df3/a27236" ],
+    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "dc/dfb/a27240.html", "dc/dfb/a27240" ],
+    [ "GuardShattrath", "de/d1c/a04103.html#a7c8fcdd86e1aa9eab132e6321290e79c", [
+      [ "SPELL_BANISHED_SHATTRATH_A", "de/d1c/a04103.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe", null ],
+      [ "SPELL_BANISHED_SHATTRATH_S", "de/d1c/a04103.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48", null ],
+      [ "SPELL_BANISH_TELEPORT", "de/d1c/a04103.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0", null ],
+      [ "SPELL_EXILE", "de/d1c/a04103.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d", null ]
+    ] ],
+    [ "AddSC_guards", "de/d1c/a04103.html#acba582cbc90c710c629dd30926acdca4", null ]
 ];

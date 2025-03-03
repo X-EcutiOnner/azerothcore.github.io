@@ -1,5 +1,5 @@
 var a27052 =
 [
-    [ "go_resonite_cask", "d3/dcc/a27052.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
-    [ "OnGossipHello", "d3/dcc/a27052.html#aae8591d53a6983886b52d404acdba293", null ]
+    [ "go_ethereum_stasis", "d3/dcc/a27052.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "d3/dcc/a27052.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

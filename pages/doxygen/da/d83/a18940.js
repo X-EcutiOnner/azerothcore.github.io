@@ -11,6 +11,5 @@ var a18940 =
     [ "UpdateAI", "da/d83/a18940.html#ab009008f892493b822e5ea5491c58525", null ],
     [ "doomCounter", "da/d83/a18940.html#aed5c631ede2eea27451a74ae21221325", null ],
     [ "events", "da/d83/a18940.html#adc49463bbe227f892e31716516032c64", null ],
-    [ "pInstance", "da/d83/a18940.html#ac91a2f174571d0700bd50f66a2a66718", null ],
     [ "summons", "da/d83/a18940.html#a37ef117714403002afb4faa4978f136b", null ]
 ];

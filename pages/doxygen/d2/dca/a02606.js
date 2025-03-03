@@ -1,5 +1,5 @@
 var a02606 =
 [
-    [ "GetIdleMovementGenerator", "d2/dca/a02606.html#ab03e344726a074f17f8c63d10b67fcc1", null ],
-    [ "isStatic", "d2/dca/a02606.html#a05fec3371a9aee5a6448115a645a505d", null ]
+    [ "learn_commandscript", "d6/d12/a11608.html", "d6/d12/a11608" ],
+    [ "AddSC_learn_commandscript", "d2/dca/a02606.html#a8dd69858fd98c4630027654ecdcf92e7", null ]
 ];

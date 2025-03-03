@@ -1,6 +1,5 @@
 var a04052 =
 [
-    [ "CharacterDatabase", "dc/d8b/a04052.html#a7e7534bc66d79434bd280b77cb124eec", null ],
-    [ "LoginDatabase", "dc/d8b/a04052.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
-    [ "WorldDatabase", "dc/d8b/a04052.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
+    [ "OutdoorPvP_terokkar_forest", "d6/dd9/a22404.html", "d6/dd9/a22404" ],
+    [ "AddSC_outdoorpvp_tf", "dc/d8b/a04052.html#a6df553c8dd6e9b81e83110e7beab3646", null ]
 ];

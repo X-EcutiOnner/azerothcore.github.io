@@ -27,6 +27,7 @@ var a07304 =
     [ "UpdatePlayerScore", "d0/d71/a07304.html#acb2e6aa203a1587d0ac3bc9b3723e115", null ],
     [ "_bgEvents", "d0/d71/a07304.html#a0a5e9c6942ab421be303e84c0a8c20c8", null ],
     [ "_capturePointInfo", "d0/d71/a07304.html#a8e4540ac02ee30fbf5284ca19807ed0a", null ],
+    [ "_configurableMaxTeamScore", "d0/d71/a07304.html#a69b7366af72520d2aaaaa22df94f3728", null ],
     [ "_controlledPoints", "d0/d71/a07304.html#a7ce0db7a287d0406997f63b8f7b17fe0", null ],
     [ "_honorTics", "d0/d71/a07304.html#a1c61e9b9c8dde549d52d4cf1d1a81e1e", null ],
     [ "_reputationTics", "d0/d71/a07304.html#a49aea98411332492c2dbecd4ed9cce41", null ],

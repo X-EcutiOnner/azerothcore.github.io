@@ -1,37 +1,28 @@
 var a01604 =
 [
-    [ "npc_ame", "d5/d10/a15548.html", "d5/d10/a15548" ],
-    [ "npc_ame::npc_ameAI", "dc/ddc/a15552.html", "dc/ddc/a15552" ],
-    [ "npc_ringo", "d9/d58/a15556.html", "d9/d58/a15556" ],
-    [ "npc_ringo::npc_ringoAI", "df/d96/a15560.html", "df/d96/a15560" ],
-    [ "AmeData", "dc/dd2/a01604.html#abbb0f5e31bd003a50e94cc712dbab7c0", [
-      [ "SAY_READY", "dc/dd2/a01604.html#abbb0f5e31bd003a50e94cc712dbab7c0a82af2bd2787802be3ff2ee4588ea9be4", null ],
-      [ "SAY_AGGRO1", "dc/dd2/a01604.html#abbb0f5e31bd003a50e94cc712dbab7c0a17fd4d94120185f67ee94a41652285a5", null ],
-      [ "SAY_SEARCH", "dc/dd2/a01604.html#abbb0f5e31bd003a50e94cc712dbab7c0a843a1ad765b601ed599c443b66ae5d77", null ],
-      [ "SAY_AGGRO2", "dc/dd2/a01604.html#abbb0f5e31bd003a50e94cc712dbab7c0af73eb45ca3cf512147f1d25e1254c224", null ],
-      [ "SAY_AGGRO3", "dc/dd2/a01604.html#abbb0f5e31bd003a50e94cc712dbab7c0aa623912b4ba266583234ba5df070e02e", null ],
-      [ "SAY_FINISH", "dc/dd2/a01604.html#abbb0f5e31bd003a50e94cc712dbab7c0a0e5b4f2c41b1953cea52b7f41d134838", null ],
-      [ "SPELL_DEMORALIZINGSHOUT", "dc/dd2/a01604.html#abbb0f5e31bd003a50e94cc712dbab7c0a8477c04b326171f69326346981b724e1", null ],
-      [ "QUEST_CHASING_AME", "dc/dd2/a01604.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827", null ],
-      [ "ENTRY_TARLORD", "dc/dd2/a01604.html#abbb0f5e31bd003a50e94cc712dbab7c0ab6db2c46b771ac7d038f25d35308beec", null ],
-      [ "ENTRY_TARLORD1", "dc/dd2/a01604.html#abbb0f5e31bd003a50e94cc712dbab7c0ae1f81eb98b3fa0fc40666dedb0ece35f", null ],
-      [ "ENTRY_STOMPER", "dc/dd2/a01604.html#abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a", null ]
+    [ "LanguageType", "dc/dd2/a01604.html#ada735c6d6b04a8714b2751f0c4053e34", [
+      [ "LT_BASIC_LATIN", "dc/dd2/a01604.html#ada735c6d6b04a8714b2751f0c4053e34ab693cfd22bb1894887b280b4d51ea3f5", null ],
+      [ "LT_EXTENDEN_LATIN", "dc/dd2/a01604.html#ada735c6d6b04a8714b2751f0c4053e34a42315588f1a9e4d3e29a1b49e7d973b8", null ],
+      [ "LT_CYRILLIC", "dc/dd2/a01604.html#ada735c6d6b04a8714b2751f0c4053e34aef4a14b5eb73e84982c14ba00e70b402", null ],
+      [ "LT_EAST_ASIA", "dc/dd2/a01604.html#ada735c6d6b04a8714b2751f0c4053e34aa059d83464c94afd9e5a7257238efa40", null ],
+      [ "LT_ANY", "dc/dd2/a01604.html#ada735c6d6b04a8714b2751f0c4053e34a400f6aeeb5f21442c121cccfda55689c", null ]
     ] ],
-    [ "Ringo", "dc/dd2/a01604.html#a1eb7864fe2b6e6ec59692fb2f7c02592", [
-      [ "SAY_RIN_START", "dc/dd2/a01604.html#a1eb7864fe2b6e6ec59692fb2f7c02592abd4cb0c4d5414164403e75fca667915b", null ],
-      [ "SAY_FAINT", "dc/dd2/a01604.html#a1eb7864fe2b6e6ec59692fb2f7c02592a39f7b5e8a7fc4ed40e62cedfa93923bd", null ],
-      [ "SAY_WAKE", "dc/dd2/a01604.html#a1eb7864fe2b6e6ec59692fb2f7c02592aadb6c63e08a18de76bcc95ca2e830a6e", null ],
-      [ "SAY_RIN_END_1", "dc/dd2/a01604.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae8753384ff9e53b533a5a1cebd16ce64", null ],
-      [ "SAY_SPR_END_2", "dc/dd2/a01604.html#a1eb7864fe2b6e6ec59692fb2f7c02592a1a913192c37c18a19114eebee21e1a85", null ],
-      [ "SAY_RIN_END_3", "dc/dd2/a01604.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae29a03470647c5d13bcb1729160b1d8b", null ],
-      [ "EMOTE_RIN_END_4", "dc/dd2/a01604.html#a1eb7864fe2b6e6ec59692fb2f7c02592aeeed58bd2d47e0450374129434bcf296", null ],
-      [ "EMOTE_RIN_END_5", "dc/dd2/a01604.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac0c11a39be96e25065c399ff7dd7c484", null ],
-      [ "SAY_RIN_END_6", "dc/dd2/a01604.html#a1eb7864fe2b6e6ec59692fb2f7c02592a699867c1deab61d85853622b099cd728", null ],
-      [ "SAY_SPR_END_7", "dc/dd2/a01604.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac165214832e6be5740245dd6239ef2c9", null ],
-      [ "EMOTE_RIN_END_8", "dc/dd2/a01604.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac034860ad6513469b74ad5b7cc76edc7", null ],
-      [ "SPELL_REVIVE_RINGO", "dc/dd2/a01604.html#a1eb7864fe2b6e6ec59692fb2f7c02592a9fc3d4c57ff3ca56f344b70df866e766", null ],
-      [ "QUEST_A_LITTLE_HELP", "dc/dd2/a01604.html#a1eb7864fe2b6e6ec59692fb2f7c02592a6ab7d20ae4eca495ad164638b1e68b51", null ],
-      [ "NPC_SPRAGGLE", "dc/dd2/a01604.html#a1eb7864fe2b6e6ec59692fb2f7c02592a4bc3afbb0cf9626825ffda0b610e2e64", null ]
-    ] ],
-    [ "AddSC_ungoro_crater", "dc/dd2/a01604.html#a6e2c88161cee97e0e405ef83abcc653f", null ]
+    [ "CheckAndFixGOChairHeightId", "dc/dd2/a01604.html#a4fb11f3d6b7a6d3bd9bf49578906fc10", null ],
+    [ "CheckGOConsumable", "dc/dd2/a01604.html#a9be9514be7df6dd6a73a9b3889eccb7c", null ],
+    [ "CheckGOLinkedTrapId", "dc/dd2/a01604.html#aa667048b6811121b380981beec1541fd", null ],
+    [ "CheckGOLockId", "dc/dd2/a01604.html#abc01124dd1fecdf98bbe1948541557b0", null ],
+    [ "CheckGONoDamageImmuneId", "dc/dd2/a01604.html#a288e20914d793779cf9f2bfd9951b812", null ],
+    [ "CheckGOSpellId", "dc/dd2/a01604.html#a288fa8c196f7adce5d43050849366b84", null ],
+    [ "GetLanguageDescByID", "dc/dd2/a01604.html#a5e723b66ad85198f3b0625903f5edac6", null ],
+    [ "GetRealmLanguageType", "dc/dd2/a01604.html#a1d95dafadc9b3a7d7bc91fa7f188d464", null ],
+    [ "GetScriptCommandName", "dc/dd2/a01604.html#a46371802334fe0589dc4f2b065b590e5", null ],
+    [ "GetScriptsMapByType", "dc/dd2/a01604.html#a34339a53afbec181844cc9d936d1d9a2", null ],
+    [ "GetScriptsTableNameByType", "dc/dd2/a01604.html#acc60b4b0ead06280f2b3289f8da57cb9", null ],
+    [ "GetSkillRangeType", "dc/dd2/a01604.html#a2e3e576d2e15a5033a24dec106b42453", null ],
+    [ "isValidString", "dc/dd2/a01604.html#a4f5a667f6078863c869b5c92387532fa", null ],
+    [ "normalizePlayerName", "dc/dd2/a01604.html#af55111c173fd16ba2898f3046dfa3d9a", null ],
+    [ "lang_description", "dc/dd2/a01604.html#a04765c27af649777907160e1147fb8fa", null ],
+    [ "sEventScripts", "dc/dd2/a01604.html#a99fc90e0f89dbe2684b6563324d8c23b", null ],
+    [ "sSpellScripts", "dc/dd2/a01604.html#a3c2a9c06ca944c1ce8c2f02692bda619", null ],
+    [ "sWaypointScripts", "dc/dd2/a01604.html#ad3bd41d0f54f2baa59f94e7fb1b426d1", null ]
 ];

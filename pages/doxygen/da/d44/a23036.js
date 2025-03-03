@@ -1,6 +1,6 @@
 var a23036 =
 [
-    [ "HandleDummy", "da/d44/a23036.html#a3347413822ce083085bcf1418fbdbae2", null ],
-    [ "PrepareSpellScript", "da/d44/a23036.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
-    [ "Register", "da/d44/a23036.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
+    [ "HandleScriptEffect", "da/d44/a23036.html#a18fb2e73a00f1de7c62049eadfcbc658", null ],
+    [ "PrepareSpellScript", "da/d44/a23036.html#ae80b4ca96692035c399d1621b632fe66", null ],
+    [ "Register", "da/d44/a23036.html#ac655157c74104a51f045e114fc63a42d", null ]
 ];

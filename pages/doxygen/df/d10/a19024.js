@@ -11,7 +11,6 @@ var a19024 =
     [ "events", "df/d10/a19024.html#a18dd6a61746effdf03cd0afbadd8a368", null ],
     [ "myCoil", "df/d10/a19024.html#a2c21b7023f7396566f7486591a653079", null ],
     [ "overload", "df/d10/a19024.html#a6d054ec2a0f26f9f3a5b142bacca0ae5", null ],
-    [ "pInstance", "df/d10/a19024.html#a0acea3b93ae7fa45ed468de406de08e4", null ],
     [ "pullTimer", "df/d10/a19024.html#a6080f32e1d90fa3e2e7bd9447abbad87", null ],
     [ "visualTimer", "df/d10/a19024.html#a3587b09a23d7aad81effd14bbda03291", null ]
 ];

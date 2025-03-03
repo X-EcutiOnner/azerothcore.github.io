@@ -1,10 +1,7 @@
 var a25232 =
 [
-    [ "Load", "d8/d0d/a25232.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "d8/d0d/a25232.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "d8/d0d/a25232.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "d8/d0d/a25232.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "d8/d0d/a25232.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "d8/d0d/a25232.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "d8/d0d/a25232.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "HandleOnEffectApply", "d8/d0d/a25232.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "d8/d0d/a25232.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "d8/d0d/a25232.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "d8/d0d/a25232.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

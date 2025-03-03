@@ -1,11 +1,6 @@
 var a19548 =
 [
-    [ "npc_living_constellationAI", "db/db7/a19548.html#a54f4e946fad895bca07a59f4e00d10a5", null ],
-    [ "DoAction", "db/db7/a19548.html#acdc93a7dc3019940d730fa20d115a929", null ],
-    [ "GetData", "db/db7/a19548.html#acb5cc31d7a084e82d8bde3852f9668dd", null ],
-    [ "Reset", "db/db7/a19548.html#a664b03bdaea184ab8dd8298ed9952790", null ],
-    [ "SpellHit", "db/db7/a19548.html#a4c83ef2d5fe161a90d465a8fbd7eb4f8", null ],
-    [ "UpdateAI", "db/db7/a19548.html#ad5b23c3db46b455c9321e7fb29b88572", null ],
-    [ "_isActive", "db/db7/a19548.html#a786d2d05f83e59dd0da34f44037bdd35", null ],
-    [ "events", "db/db7/a19548.html#a679c9fe1ed357b7c7e1ed1fac01ef8d3", null ]
+    [ "npc_living_constellationAI", "d8/db1/a19552.html", "d8/db1/a19552" ],
+    [ "npc_living_constellation", "db/db7/a19548.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
+    [ "GetAI", "db/db7/a19548.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
 ];

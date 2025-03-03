@@ -10,7 +10,6 @@ var a18952 =
     [ "Reset", "db/dea/a18952.html#a78385da6845ce8e3075616c24696d0cc", null ],
     [ "UpdateAI", "db/dea/a18952.html#a6f0453babfa84764467970369894eb97", null ],
     [ "events", "db/dea/a18952.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
-    [ "pInstance", "db/dea/a18952.html#adeda3cc5a174e3d940621e3024a1043f", null ],
     [ "summons", "db/dea/a18952.html#a7ea3de40dfd638db7e34c523a0461335", null ],
     [ "wraps", "db/dea/a18952.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
 ];

@@ -1,7 +1,10 @@
 var a00662 =
 [
-    [ "instance_forge_of_souls", "d7/dd9/a16668.html", "d7/dd9/a16668" ],
-    [ "instance_forge_of_souls::instance_forge_of_souls_InstanceScript", "db/d20/a16672.html", "db/d20/a16672" ],
-    [ "AddSC_instance_forge_of_souls", "dc/df1/a00662.html#a1ec461fda59c652788d1a38e62cdea20", null ],
-    [ "boundaries", "dc/df1/a00662.html#aa75d7d0ffe0cef214f982966c33db1c1", null ]
+    [ "MovementGenerator", "d5/da1/a09872.html", "d5/da1/a09872" ],
+    [ "MovementGeneratorMedium< T, D >", "d2/d33/a09876.html", "d2/d33/a09876" ],
+    [ "MovementGeneratorFactory< Movement >", "d3/d0b/a09880.html", "d3/d0b/a09880" ],
+    [ "IdleMovementFactory", "d4/d4e/a09884.html", "d4/d4e/a09884" ],
+    [ "sMovementGeneratorRegistry", "dc/df1/a00662.html#aa270c1b96e4671274975a07340ba687a", null ],
+    [ "MovementGeneratorCreator", "dc/df1/a00662.html#ae7a6c44762ef974149bfb8d00247a013", null ],
+    [ "MovementGeneratorRegistry", "dc/df1/a00662.html#ae78e82cd7b1aea7744a0dbb2e65f8e79", null ]
 ];

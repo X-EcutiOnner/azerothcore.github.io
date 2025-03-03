@@ -1,5 +1,6 @@
 var a20352 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "d7/d46/a20352.html#a6308129d11989dadf0a5948c4a268e4b", null ],
-    [ "SpellHitTarget", "d7/d46/a20352.html#a3c254e16f62e7d2414d81062c91c2468", null ]
+    [ "npc_ulduar_rocket_strike_triggerAI", "d1/d33/a20356.html", "d1/d33/a20356" ],
+    [ "npc_ulduar_rocket_strike_trigger", "d7/d46/a20352.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
+    [ "GetAI", "d7/d46/a20352.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
 ];

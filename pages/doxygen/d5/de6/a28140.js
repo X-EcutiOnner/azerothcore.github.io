@@ -1,8 +1,8 @@
 var a28140 =
 [
-    [ "canLink", "d5/de6/a28140.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
-    [ "categoryId", "d5/de6/a28140.html#abf285e69e8e2a90626a157cb0c50d158", null ],
-    [ "id", "d5/de6/a28140.html#a7740b26f1bde19a05b002c00eded25e3", null ],
-    [ "name", "d5/de6/a28140.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
-    [ "spellIcon", "d5/de6/a28140.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
+    [ "ClassMask", "d5/de6/a28140.html#a563ba1618ffefa5470696e37f65c70d4", null ],
+    [ "Flags", "d5/de6/a28140.html#af89c32a22f018557fe016e0784a82384", null ],
+    [ "RaceMask", "d5/de6/a28140.html#acff47bf5c075d669f95b0d229674f9bc", null ],
+    [ "SkillID", "d5/de6/a28140.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
+    [ "SkillTierID", "d5/de6/a28140.html#ab6153043461b71336e12b00957499075", null ]
 ];

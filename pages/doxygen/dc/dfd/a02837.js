@@ -1,6 +1,6 @@
 var a02837 =
 [
-    [ "WorldPackets::WorldState::InitWorldStates", "d3/dcf/a10834.html", "d3/dcf/a10834" ],
-    [ "WorldPackets::WorldState::InitWorldStates::WorldStateInfo", "d9/d64/a10838.html", "d9/d64/a10838" ],
-    [ "WorldPackets::WorldState::UpdateWorldState", "da/dce/a10842.html", "da/dce/a10842" ]
+    [ "instance_dire_maul", "d5/dd8/a14716.html", "d5/dd8/a14716" ],
+    [ "instance_dire_maul::instance_dire_maul_InstanceMapScript", "de/d86/a14720.html", "de/d86/a14720" ],
+    [ "AddSC_instance_dire_maul", "dc/dfd/a02837.html#a4f4fdf8ebf7b15878ba29a663b037908", null ]
 ];

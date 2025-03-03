@@ -1,6 +1,6 @@
 var a19848 =
 [
-    [ "PrepareSpellScript", "d5/de1/a19848.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "d5/de1/a19848.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "d5/de1/a19848.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "CheckAreaTarget", "d5/de1/a19848.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "d5/de1/a19848.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "d5/de1/a19848.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

@@ -1,21 +1,20 @@
 var a03230 =
 [
-    [ "Arena", "dd/dbc/a07168.html", "dd/dbc/a07168" ],
-    [ "ArenaBroadcastTexts", "df/dc9/a03230.html#a407f2036481e3d9e2def3daa50546c71", [
-      [ "ARENA_TEXT_START_ONE_MINUTE", "df/dc9/a03230.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
-      [ "ARENA_TEXT_START_THIRTY_SECONDS", "df/dc9/a03230.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],
-      [ "ARENA_TEXT_START_FIFTEEN_SECONDS", "df/dc9/a03230.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9", null ],
-      [ "ARENA_TEXT_START_BATTLE_HAS_BEGUN", "df/dc9/a03230.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd", null ]
+    [ "npc_partygoer_pather", "d3/d47/a13428.html", "d3/d47/a13428" ],
+    [ "npc_partygoer", "df/d95/a13432.html", "df/d95/a13432" ],
+    [ "Partygoer", "df/dc9/a03230.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
+      [ "EVENT_RANDOM_ACTION", "df/dc9/a03230.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
+      [ "EVENT_REMOVE_EQUIPMENT", "df/dc9/a03230.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
+      [ "EVENT_STOP_DANCING", "df/dc9/a03230.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
+      [ "EVENT_THROW_FIREWORKS", "df/dc9/a03230.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
+      [ "EVENT_RESET_FACING", "df/dc9/a03230.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
+      [ "GO_FIREWORKS_LAUNCHER", "df/dc9/a03230.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
     ] ],
-    [ "ArenaSpellIds", "df/dc9/a03230.html#a05b7784b7a9a1ce8e6367f6f9bb875d9", [
-      [ "SPELL_ALLIANCE_GOLD_FLAG", "df/dc9/a03230.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c", null ],
-      [ "SPELL_ALLIANCE_GREEN_FLAG", "df/dc9/a03230.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f", null ],
-      [ "SPELL_HORDE_GOLD_FLAG", "df/dc9/a03230.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
-      [ "SPELL_HORDE_GREEN_FLAG", "df/dc9/a03230.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
-      [ "SPELL_LAST_MAN_STANDING", "df/dc9/a03230.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
+    [ "Partygoer_Pather", "df/dc9/a03230.html#a3222d14ce03d75912e65560ebf2a961b", [
+      [ "EVENT_PATH", "df/dc9/a03230.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
+      [ "EVENT_RANDOM_ACTION_PATHER", "df/dc9/a03230.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
+      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "df/dc9/a03230.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
+      [ "EVENT_STOP_DANCING_PATHER", "df/dc9/a03230.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
     ] ],
-    [ "ArenaWorldStates", "df/dc9/a03230.html#a4e26c0d0a6eb60865e57376951c14960", [
-      [ "ARENA_WORLD_STATE_ALIVE_PLAYERS_GREEN", "df/dc9/a03230.html#a4e26c0d0a6eb60865e57376951c14960aea2da1b05ab1767fc34bf78021858c3a", null ],
-      [ "ARENA_WORLD_STATE_ALIVE_PLAYERS_GOLD", "df/dc9/a03230.html#a4e26c0d0a6eb60865e57376951c14960afa467140e9e2c255b8d46937c40833a1", null ]
-    ] ]
+    [ "AddSC_eversong_woods", "df/dc9/a03230.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
 ];

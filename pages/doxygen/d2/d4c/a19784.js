@@ -1,7 +1,6 @@
 var a19784 =
 [
-    [ "npc_storm_beacon_spawnAI", "d2/d4c/a19784.html#a031c1941f177a18af58efcf4a1270654", null ],
-    [ "UpdateAI", "d2/d4c/a19784.html#a249bf56b905ef0c8b34c737d95518c91", null ],
-    [ "_amount", "d2/d4c/a19784.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
-    [ "_checkTimer", "d2/d4c/a19784.html#a7fd6d449b6a20ba9463896244c513a67", null ]
+    [ "npc_storm_beacon_spawnAI", "d6/d65/a19788.html", "d6/d65/a19788" ],
+    [ "npc_storm_beacon_spawn", "d2/d4c/a19784.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
+    [ "GetAI", "d2/d4c/a19784.html#a780dd823962e259dbeda7089224aa23e", null ]
 ];

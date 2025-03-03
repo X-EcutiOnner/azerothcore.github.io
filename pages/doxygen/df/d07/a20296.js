@@ -1,6 +1,8 @@
 var a20296 =
 [
-    [ "npc_ulduar_magnetic_coreAI", "d7/d19/a20300.html", "d7/d19/a20300" ],
-    [ "npc_ulduar_magnetic_core", "df/d07/a20296.html#a788a1a6d3ec28c866d6b8cb112fe8071", null ],
-    [ "GetAI", "df/d07/a20296.html#a3adcc5c7650e2b016f02a1160c3fa6ab", null ]
+    [ "npc_ulduar_mimiron_rocketAI", "df/d07/a20296.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
+    [ "InitializeAI", "df/d07/a20296.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
+    [ "Reset", "df/d07/a20296.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
+    [ "SetData", "df/d07/a20296.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
+    [ "UpdateAI", "df/d07/a20296.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
 ];

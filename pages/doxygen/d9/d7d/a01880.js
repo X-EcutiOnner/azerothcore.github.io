@@ -1,6 +1,12 @@
 var a01880 =
 [
-    [ "fireworkShowGameobjectOrgrimmar", "d9/d7d/a01880.html#aa00988212bcd8875445e2b120c00025c", null ],
-    [ "fireworkShowOrgrimmar", "d9/d7d/a01880.html#a20e15c8e61c734af478a4849bd54c9d3", null ],
-    [ "fireworkShowScheduleOrgrimmar", "d9/d7d/a01880.html#a2e2ca4fa893601a2122f94a72c18401f", null ]
+    [ "ArenaTeamScript", "d4/de7/a10188.html", "d4/de7/a10188" ],
+    [ "ArenaTeamHook", "d9/d7d/a01880.html#adfb7077026efd17516d6b85637c2b218", [
+      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d9/d7d/a01880.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
+      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d9/d7d/a01880.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
+      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "d9/d7d/a01880.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
+      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "d9/d7d/a01880.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
+      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "d9/d7d/a01880.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
+      [ "ARENATEAMHOOK_END", "d9/d7d/a01880.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
+    ] ]
 ];

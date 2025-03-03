@@ -1,12 +1,8 @@
 var a02756 =
 [
-    [ "PacketHandler< PacketClass, HandlerFunction >", "d5/d56/a10846.html", "d5/d56/a10846" ],
-    [ "PacketHandler< WorldPacket, HandlerFunction >", "d1/d17/a10850.html", "d1/d17/a10850" ],
-    [ "get_packet_class< T >", "d7/dfc/a10854.html", null ],
-    [ "get_packet_class< void(WorldSession::*)(PacketClass &)>", "de/de2/a10858.html", "de/de2/a10858" ],
-    [ "DEFINE_HANDLER", "dc/d80/a02756.html#ab23af9582942bed23ea9ab4a8747c67c", null ],
-    [ "DEFINE_SERVER_OPCODE_HANDLER", "dc/d80/a02756.html#a4bcb2df62d580f2bb5ab3c2aa5b35f5e", null ],
-    [ "GetOpcodeNameForLogging", "de/d41/a04734.html#ga699f5666ad5594443aa2ca21df85a1d3", null ],
-    [ "GetOpcodeNameForLoggingImpl", "dc/d80/a02756.html#a0adf4b5d8c638656581d9a62be18539e", null ],
-    [ "opcodeTable", "de/d41/a04734.html#gaab348862a5b8f265e05e5b0ac296162a", null ]
+    [ "instance_old_hillsbrad", "d3/daa/a14648.html", "d3/daa/a14648" ],
+    [ "instance_old_hillsbrad::instance_old_hillsbrad_InstanceMapScript", "d7/d49/a14652.html", "d7/d49/a14652" ],
+    [ "AddSC_instance_old_hillsbrad", "dc/d80/a02756.html#a2b3faa69a9526f156ca7bae70c720075", null ],
+    [ "instancePositions", "dc/d80/a02756.html#a79b42da504a3cfde2581f63a639c7936", null ],
+    [ "thrallPositions", "dc/d80/a02756.html#a04c9058e75a93a56057912eb1c896bd0", null ]
 ];

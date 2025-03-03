@@ -11,6 +11,5 @@ var a18840 =
     [ "SummonedCreatureDies", "d3/dc9/a18840.html#a115a1f1327a931067223734dbf414675", null ],
     [ "UpdateAI", "d3/dc9/a18840.html#a2505f7ebda7b623edfedf96979a4a920", null ],
     [ "events", "d3/dc9/a18840.html#adaf9581259a774087ce02725b42b6b47", null ],
-    [ "pInstance", "d3/dc9/a18840.html#a2546d250e59df4666ac536e371b3aa66", null ],
     [ "summons", "d3/dc9/a18840.html#a18f6aa3d949e68e9b38398780c017082", null ]
 ];

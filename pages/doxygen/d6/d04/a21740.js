@@ -1,6 +1,10 @@
 var a21740 =
 [
-    [ "npc_mrfloppyAI", "dd/d2d/a21744.html", "dd/d2d/a21744" ],
-    [ "npc_mrfloppy", "d6/d04/a21740.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "d6/d04/a21740.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "npc_emilyAI", "d6/d04/a21740.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "d6/d04/a21740.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "d6/d04/a21740.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "d6/d04/a21740.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "d6/d04/a21740.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "_mrfloppyGUID", "d6/d04/a21740.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "d6/d04/a21740.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

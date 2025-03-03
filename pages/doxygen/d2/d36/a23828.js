@@ -1,6 +1,7 @@
 var a23828 =
 [
-    [ "npc_simon_bunnyAI", "d4/dce/a23832.html", "d4/dce/a23832" ],
-    [ "npc_simon_bunny", "d2/d36/a23828.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
-    [ "GetAI", "d2/d36/a23828.html#ac0c97609916321a1599c0722803a050f", null ]
+    [ "npc_daranelleAI", "d2/d36/a23828.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d2/d36/a23828.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d2/d36/a23828.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d2/d36/a23828.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

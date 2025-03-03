@@ -1,31 +1,72 @@
 var a03491 =
 [
-    [ "BfCapturePoint", "db/d4a/a07098.html", "db/d4a/a07098" ],
-    [ "BfGraveyard", "d3/dd9/a07102.html", "d3/dd9/a07102" ],
-    [ "Battlefield", "dc/da2/a07106.html", "dc/da2/a07106" ],
-    [ "GraveyardVect", "d0/d17/a03491.html#a3c001cdd2e1b762c5c2bdd6814e59f6c", null ],
-    [ "PlayerTimerMap", "d0/d17/a03491.html#a0467dc30f5bb6a1c9ee1487a3aced1a1", null ],
-    [ "BattlefieldIDs", "d0/d17/a03491.html#aff53bf428d550c270744c9a188d4187f", [
-      [ "BATTLEFIELD_BATTLEID_WG", "d0/d17/a03491.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010", null ]
+    [ "DataHeader", "d0/d17/a03491.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterUtgardeKeepCreatureAI", "d0/d17/a03491.html#a960a375dc6655df45bd889a1b1487dcc", null ],
+    [ "UtgardeKeepScriptName", "d0/d17/a03491.html#aa55ba53746fd3f7441c2cfe321fbf05f", null ],
+    [ "eCreatures", "d0/d17/a03491.html#a59602e8f26d052c0b6f6bdfe896510b8", [
+      [ "NPC_ONYXIA", "d2/d4c/a02828.html#a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e", null ],
+      [ "NPC_ONYXIAN_WHELP", "d2/d4c/a02828.html#a59602e8f26d052c0b6f6bdfe896510b8a29f399e186a17314b99be364d738371a", null ],
+      [ "NPC_ONYXIAN_LAIR_GUARD", "d2/d4c/a02828.html#a59602e8f26d052c0b6f6bdfe896510b8ac5a305bf78c6e737c665da793df48e49", null ],
+      [ "NPC_KELESETH", "d0/d17/a03491.html#a59602e8f26d052c0b6f6bdfe896510b8a1aa34e102fe5c920939fbbed64fd3bdd", null ],
+      [ "NPC_DALRONN", "d0/d17/a03491.html#a59602e8f26d052c0b6f6bdfe896510b8adc8eb044588758e3cfb4ed8c699e483d", null ],
+      [ "NPC_DALRONN_GHOST", "d0/d17/a03491.html#a59602e8f26d052c0b6f6bdfe896510b8ad6b59b3f0fa1841b3dbce49b32ce88f7", null ],
+      [ "NPC_SKARVALD", "d0/d17/a03491.html#a59602e8f26d052c0b6f6bdfe896510b8a531d439e3ed6f40d45aaf591d93722af", null ],
+      [ "NPC_SKARVALD_GHOST", "d0/d17/a03491.html#a59602e8f26d052c0b6f6bdfe896510b8aa4eafbdfd4632f9b207feb03c1c9906e", null ],
+      [ "NPC_INGVAR", "d0/d17/a03491.html#a59602e8f26d052c0b6f6bdfe896510b8aa8071c2550f86111dabfe071bb8905ec", null ],
+      [ "NPC_DARK_RANGER_MARRAH", "d0/d17/a03491.html#a59602e8f26d052c0b6f6bdfe896510b8a629c86c326a68aa9c57e75b658644e27", null ],
+      [ "NPC_ENSLAVED_PROTO_DRAKE", "d0/d17/a03491.html#a59602e8f26d052c0b6f6bdfe896510b8ab4269b45260da78a67bfdab9a95d8c2c", null ],
+      [ "NPC_ICHOR_GLOBULE", "d6/de4/a03905.html#a59602e8f26d052c0b6f6bdfe896510b8a5c39abb26566ef9fb1e3afe0cecc9762", null ]
     ] ],
-    [ "BattlefieldObjectiveStates", "d0/d17/a03491.html#af6db5a1d93982b261639cd12634a2798", [
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL", "d0/d17/a03491.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE", "d0/d17/a03491.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE", "d0/d17/a03491.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "d0/d17/a03491.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "d0/d17/a03491.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "d0/d17/a03491.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "d0/d17/a03491.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4", null ]
+    [ "eData", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19", [
+      [ "BOSS_GRAND_CHAMPIONS", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19a5806d1976bed173d983dd9a3991ba348", null ],
+      [ "BOSS_ARGENT_CHALLENGE", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19af4e06416d3f8096da97e8da8d825a7c3", null ],
+      [ "BOSS_BLACK_KNIGHT", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19a4cbd85f9cf78bdc13a11e7058fa26ed6", null ],
+      [ "MAX_ENCOUNTER", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19a7913656ef56deb3793c0c5f3d999d80d", null ],
+      [ "DATA_INSTANCE_PROGRESS", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19a2538f41a0dc11a9f5a05d543e2346e64", null ],
+      [ "DATA_ANNOUNCER", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19aed6e91b58a89d58d9a117c065201ed3d", null ],
+      [ "DATA_ANNOUNCER_GOSSIP_SELECT", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae327d558268132cc78f48afde7813c1c", null ],
+      [ "DATA_GRAND_CHAMPION_REACHED_DEST", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19a62d7693aff0b89f9ae2f8961610470ed", null ],
+      [ "DATA_MOUNT_DIED", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19ab71272c0048c67a869f3b2c54eb4a1fb", null ],
+      [ "DATA_REACHED_NEW_MOUNT", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19a3767e24ce8dd167fc1ec1aa6c7a1a995", null ],
+      [ "DATA_GRAND_CHAMPION_PICKED_NEW_VEHICLE", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19abb5ea8659950cd843a5e047c37fe0d8e", null ],
+      [ "DATA_GRAND_CHAMPION_DIED", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19a2edbdd1769e681f1a6e1608d3eddd291", null ],
+      [ "DATA_ARGENT_SOLDIER_DEFEATED", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19a72e96779738cdb8b7878c1e7184c595f", null ],
+      [ "DATA_SKELETAL_GRYPHON_LANDED", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19a09f670fffcb277f8eb1cf5203921ee11", null ],
+      [ "DATA_TEAMID_IN_INSTANCE", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19aa65ac0ac68c78f1c2ea895c7db9bf159", null ],
+      [ "DATA_PALETRESS", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae471545eff60a92540bc1dbb2c5c132a", null ],
+      [ "DATA_MEMORY_ENTRY", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae3870675f9b0ff52008d1e12ffb318c0", null ],
+      [ "DATA_ACHIEV_IVE_HAD_WORSE", "db/d06/a03866.html#a8d0deb2f48ff4560c08e13e9a1f92c19a329cb468bbc0aae8a32d25611683bbca", null ],
+      [ "DATA_KELESETH", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19a91156271b279525b5e89bfbfef908dd2", null ],
+      [ "DATA_DALRONN_AND_SKARVALD", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19aec083d8bd0b158056e5bff0fa5365ce2", null ],
+      [ "DATA_INGVAR", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae83b52b50f79446e72f719162604a301", null ],
+      [ "MAX_ENCOUNTER", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19a7913656ef56deb3793c0c5f3d999d80d", null ],
+      [ "DATA_FORGE_EVENT_MASK", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19a5b89223911c2633f67f1a2216e76b9e9", null ],
+      [ "DATA_DALRONN", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19a4eea4f7a31453de43c34bf60104d2322", null ],
+      [ "DATA_SKARVALD", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae4984d96449b5f21602ac3200b4e878c", null ],
+      [ "DATA_DALRONN_GHOST", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19af1fea442f8fe91dcd9f636e8092d382a", null ],
+      [ "DATA_SKARVALD_GHOST", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19ab74c59643e93c2ff34170b8add4fb3a3", null ],
+      [ "DATA_DARK_RANGER_MARRAH", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19a879a87959c687ac7d45fefab89e9cd33", null ],
+      [ "DATA_ON_THE_ROCKS_ACHIEV", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19a7e8085beca3f86d995e9114bb692caa5", null ],
+      [ "DATA_SPECIAL_DRAKE", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19a0f739f109c96e6321817dfb79268576c", null ],
+      [ "DATA_FORGE_1", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19a93dc1a3744941a9325155e24066e57d3", null ],
+      [ "DATA_FORGE_2", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19a6649cdf4259f42e0a186448cffaa903b", null ],
+      [ "DATA_FORGE_3", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19aaf9bb08a5940dc5432628fb4c9fc914e", null ],
+      [ "DATA_UNLOCK_SKARVALD_LOOT", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19abe2a7bc19c24e5e9b3f9d52af57a0bc3", null ],
+      [ "DATA_UNLOCK_DALRONN_LOOT", "d0/d17/a03491.html#a8d0deb2f48ff4560c08e13e9a1f92c19a3224d1038b2c6ca502bf6fcd5c41c4a4", null ]
     ] ],
-    [ "BattlefieldSounds", "d0/d17/a03491.html#a7c3836172413cb3b2cdabeb20b99f1b4", [
-      [ "BF_HORDE_WINS", "d0/d17/a03491.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a", null ],
-      [ "BF_ALLIANCE_WINS", "d0/d17/a03491.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138", null ],
-      [ "BF_START", "d0/d17/a03491.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007", null ]
+    [ "eGameObject", "d0/d17/a03491.html#a6294cd8aa684acc2365fde03bde4f56b", [
+      [ "GO_BELLOW_1", "d0/d17/a03491.html#a6294cd8aa684acc2365fde03bde4f56ba56b578c66924fce09a5479fa8a6e2135", null ],
+      [ "GO_BELLOW_2", "d0/d17/a03491.html#a6294cd8aa684acc2365fde03bde4f56ba8ea298e6e56ff15cb48889cb8ddd9755", null ],
+      [ "GO_BELLOW_3", "d0/d17/a03491.html#a6294cd8aa684acc2365fde03bde4f56ba1d534c51481170f4846a341000e6bc79", null ],
+      [ "GO_FORGEFIRE_1", "d0/d17/a03491.html#a6294cd8aa684acc2365fde03bde4f56baca07587b3cd9005dcd44315277364e6e", null ],
+      [ "GO_FORGEFIRE_2", "d0/d17/a03491.html#a6294cd8aa684acc2365fde03bde4f56baba66705f45393cd20d34e9b05f4b53d3", null ],
+      [ "GO_FORGEFIRE_3", "d0/d17/a03491.html#a6294cd8aa684acc2365fde03bde4f56ba018a92a46dc1c940d1837a056dcd177b", null ],
+      [ "GO_GLOWING_ANVIL_1", "d0/d17/a03491.html#a6294cd8aa684acc2365fde03bde4f56ba27a98f2dddababbf0c029b45774073e4", null ],
+      [ "GO_GLOWING_ANVIL_2", "d0/d17/a03491.html#a6294cd8aa684acc2365fde03bde4f56ba4ba40f08e9c7709237cfd27da18cc825", null ],
+      [ "GO_GLOWING_ANVIL_3", "d0/d17/a03491.html#a6294cd8aa684acc2365fde03bde4f56babb6bd3527c8918c5ed89820a75822c46", null ],
+      [ "GO_GIANT_PORTCULLIS_1", "d0/d17/a03491.html#a6294cd8aa684acc2365fde03bde4f56ba0892492e251a03f74b2b3448c826b4fa", null ],
+      [ "GO_GIANT_PORTCULLIS_2", "d0/d17/a03491.html#a6294cd8aa684acc2365fde03bde4f56ba8677ebe93c3f10b258510218c4ae0b31", null ]
     ] ],
-    [ "BattlefieldTypes", "d0/d17/a03491.html#a6f435417da35c7d1b51c95e516fc6b2d", [
-      [ "BATTLEFIELD_WG", "d0/d17/a03491.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd", null ],
-      [ "BATTLEFIELD_TB", "d0/d17/a03491.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610", null ]
-    ] ],
-    [ "BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL", "d0/d17/a03491.html#a79df696836c3edc53ca1868aab7f6e76", null ],
-    [ "BattlefieldFactions", "d0/d17/a03491.html#af5e231859535c4e1e6bd27ee42753f63", null ]
+    [ "GetUtgardeKeepAI", "d0/d17/a03491.html#ae0ae037cccad7d1fe95c09509c7a2af9", null ],
+    [ "EncounterCount", "d0/d17/a03491.html#a31d630c40753c29f94ceac2db5e451a8", null ]
 ];

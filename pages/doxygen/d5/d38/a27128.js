@@ -1,6 +1,6 @@
 var a27128 =
 [
-    [ "go_gilded_brazierAI", "d1/d72/a27132.html", "d1/d72/a27132" ],
-    [ "go_gilded_brazier", "d5/d38/a27128.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "d5/d38/a27128.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "go_midsummer_musicAI", "d5/d38/a27128.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
+    [ "UpdateAI", "d5/d38/a27128.html#adf185ee702e9e74f65204b90786f9eb4", null ],
+    [ "_events", "d5/d38/a27128.html#a31e45a754930cdc3206fe2b7f754d234", null ]
 ];

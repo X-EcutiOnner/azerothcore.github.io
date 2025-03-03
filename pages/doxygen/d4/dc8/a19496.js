@@ -1,8 +1,6 @@
 var a19496 =
 [
-    [ "iron_golem_custodianAI", "d4/dc8/a19496.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
-    [ "JustEngagedWith", "d4/dc8/a19496.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
-    [ "Reset", "d4/dc8/a19496.html#af3193696d665746eecd9c62128d8684d", null ],
-    [ "UpdateAI", "d4/dc8/a19496.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
-    [ "events", "d4/dc8/a19496.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
+    [ "iron_golem_custodianAI", "d5/df0/a19500.html", "d5/df0/a19500" ],
+    [ "iron_golem_custodian", "d4/dc8/a19496.html#adc11b755e193adbad757c21e5b15e063", null ],
+    [ "GetAI", "d4/dc8/a19496.html#a272e0c9fe475a665aa80a95f1e1d8629", null ]
 ];

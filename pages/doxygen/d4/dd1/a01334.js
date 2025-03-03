@@ -1,26 +1,9 @@
 var a01334 =
 [
-    [ "boss_supremus", "de/d03/a22820.html", "de/d03/a22820" ],
-    [ "npc_supremus_punch_invisible_stalker", "da/dc5/a22824.html", "da/dc5/a22824" ],
-    [ "Supremus", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1ab", [
-      [ "EMOTE_NEW_TARGET", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1abacce041f211d3aacd7153648b2b22657d", null ],
-      [ "EMOTE_PUNCH_GROUND", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1aba18c2c02f5902d5eb449f84ea9b0dda48", null ],
-      [ "EMOTE_GROUND_CRACK", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1abaf6e451c3b6d1ba936baa236a0676e9da", null ],
-      [ "EMOTE_BERSERK", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1abad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
-      [ "SPELL_SNARE_SELF", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1aba088a20b95bb9f7f7225f39e5785ef4ea", null ],
-      [ "SPELL_MOLTEN_PUNCH", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1abad4325a0886f125ee1e818a2b0b78ceed", null ],
-      [ "SPELL_MOLTEN_FLAME", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1aba75a6d3be947216957892ac27dcf52a1d", null ],
-      [ "SPELL_HATEFUL_STRIKE", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1ababad6e8ef38e36b223ac12f2dbb1711b1", null ],
-      [ "SPELL_VOLCANIC_ERUPTION", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1aba35f23f72605836bef98b77ae75bb8103", null ],
-      [ "SPELL_VOLCANIC_ERUPTION_TRIGGER", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1abad1c54825503fd69f4f3beb7d4079ad6c", null ],
-      [ "SPELL_VOLCANIC_GEYSER", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1aba6c3253da2383661bc757e74284163365", null ],
-      [ "SPELL_BERSERK", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1abad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
-      [ "SPELL_CHARGE", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1aba379cd345f5bd4f776413760e5e279963", null ],
-      [ "SPELL_SERVERSIDE_RANDOM_TARGET", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1aba4afeaddc7e00f338f7033e0421934935", null ],
-      [ "NPC_SUPREMUS_VOLCANO", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1aba01e88a8ace84793859cb15cd5301cf2e", null ],
-      [ "GROUP_ABILITIES", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1abab77bbe102634006229e15f0a32fb6c9a", null ],
-      [ "GROUP_MOLTEN_PUNCH", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1abafd320e90ca8fd7f4c9b70c71f92e4bd6", null ],
-      [ "GROUP_PHASE_CHANGE", "d4/dd1/a01334.html#a5a2dccece1c55769858f3285c94af1aba9ef91e5b4ca91a9b1f730f400fef1c78", null ]
-    ] ],
-    [ "AddSC_boss_supremus", "d4/dd1/a01334.html#aca4140213fae739c682d7d7e241294e0", null ]
+    [ "DynamicObject", "d2/dff/a08100.html", "d2/dff/a08100" ],
+    [ "DynamicObjectType", "d4/dd1/a01334.html#aee85c2f840289bcf773609333ee91131", [
+      [ "DYNAMIC_OBJECT_PORTAL", "d4/dd1/a01334.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
+      [ "DYNAMIC_OBJECT_AREA_SPELL", "d4/dd1/a01334.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],
+      [ "DYNAMIC_OBJECT_FARSIGHT_FOCUS", "d4/dd1/a01334.html#aee85c2f840289bcf773609333ee91131a59fbc7f63f5d2715fbc29110f393168d", null ]
+    ] ]
 ];

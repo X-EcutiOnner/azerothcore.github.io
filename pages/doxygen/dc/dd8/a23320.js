@@ -1,7 +1,6 @@
 var a23320 =
 [
-    [ "OnApply", "dc/dd8/a23320.html#a301e47da9be4b4a449701c59c19bc62b", null ],
-    [ "PrepareAuraScript", "dc/dd8/a23320.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
-    [ "Register", "dc/dd8/a23320.html#aaf38547f7fa233b03429734dbe374f13", null ],
-    [ "Validate", "dc/dd8/a23320.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
+    [ "HandleScriptEffect", "dc/dd8/a23320.html#abba5817280db6579e3e6e0b964655c6e", null ],
+    [ "PrepareSpellScript", "dc/dd8/a23320.html#a846fa43c9907ddb6243c006327757a1c", null ],
+    [ "Register", "dc/dd8/a23320.html#a7daa26f4035912bff4811b0bfee35fee", null ]
 ];

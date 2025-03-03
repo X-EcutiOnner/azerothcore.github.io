@@ -37,6 +37,7 @@ var a07348 =
     [ "UpdatePointsState", "d2/d19/a07348.html#ac6e939a074cf5fa94db77f3a6b77b68f", null ],
     [ "_bgEvents", "d2/d19/a07348.html#aa74082115b5c75a8c14db91cd4d9e388", null ],
     [ "_capturePointInfo", "d2/d19/a07348.html#a7a7fbd6c04f47a47958c6f166eb397ac", null ],
+    [ "_configurableMaxTeamScore", "d2/d19/a07348.html#a339332b31cdd306910baf139b97d13f7", null ],
     [ "_droppedFlagGUID", "d2/d19/a07348.html#a3ec3d69561b2490b9da313ab49dfa6c6", null ],
     [ "_flagCapturedObject", "d2/d19/a07348.html#a88dbc7809571281359a62490b33c2aba", null ],
     [ "_flagKeeperGUID", "d2/d19/a07348.html#ab47887c30ace6973fbc6e416ac8ff73a", null ],

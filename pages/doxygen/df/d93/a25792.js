@@ -1,7 +1,8 @@
 var a25792 =
 [
-    [ "CheckCast", "df/d93/a25792.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
-    [ "HandleEffect", "df/d93/a25792.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
-    [ "PrepareSpellScript", "df/d93/a25792.html#aa63cb903e7c6037a6c08381334ccc126", null ],
-    [ "Register", "df/d93/a25792.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
+    [ "CheckQuest", "df/d93/a25792.html#ab7ebff0894832ac009cda89b7c28e252", null ],
+    [ "HandleDummy", "df/d93/a25792.html#a365df14504a54e95e7d68d22a284e441", null ],
+    [ "HandleOpenObject", "df/d93/a25792.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
+    [ "PrepareSpellScript", "df/d93/a25792.html#a479e313031a2e71473238d8f645bf2d4", null ],
+    [ "Register", "df/d93/a25792.html#a70f1a91e611cc2092aad44a909cd53db", null ]
 ];

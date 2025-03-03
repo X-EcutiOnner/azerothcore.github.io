@@ -1,10 +1,11 @@
 var a19264 =
 [
-    [ "npc_oculus_drakegiverAI", "d6/d0c/a19264.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "d6/d0c/a19264.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "d6/d0c/a19264.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "d6/d0c/a19264.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "d6/d0c/a19264.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "d6/d0c/a19264.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "d6/d0c/a19264.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "npc_oculus_drakegiverAI", "d1/d5b/a19268.html", "d1/d5b/a19268" ],
+    [ "npc_oculus_drakegiver", "d6/d0c/a19264.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
+    [ "GetAI", "d6/d0c/a19264.html#aa26a2b82c5e4076ce704d5884895d903", null ],
+    [ "OnGossipHello", "d6/d0c/a19264.html#ac00d09d2d81121d562e3303704229c18", null ],
+    [ "OnGossipSelect", "d6/d0c/a19264.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
+    [ "RemoveEssence", "d6/d0c/a19264.html#a70513d873111c590ca4e33cb446a4438", null ],
+    [ "StoreEssence", "d6/d0c/a19264.html#ac8bbe890722aa924a7f0dee161d342c4", null ],
+    [ "openedMenu", "d6/d0c/a19264.html#a650d1cd18700e29328e0fc97b1709f38", null ]
 ];

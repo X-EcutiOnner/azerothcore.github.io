@@ -1,5 +1,5 @@
 var a02510 =
 [
-    [ "keyData", "dc/d43/a11400.html", "dc/d43/a11400" ],
-    [ "GetWardenActionStr", "dd/df4/a02510.html#a4e3c0063e5bf94a2e640c7b887fe14fc", null ]
+    [ "titles_commandscript", "dc/d82/a11700.html", "dc/d82/a11700" ],
+    [ "AddSC_titles_commandscript", "dd/df4/a02510.html#abd13948cbed6e10bdbf797847a0f6839", null ]
 ];

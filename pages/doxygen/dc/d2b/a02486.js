@@ -1,10 +1,7 @@
 var a02486 =
 [
-    [ "GetGameTime", "dc/d2b/a02486.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
-    [ "GetGameTimeMS", "dc/d2b/a02486.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
-    [ "GetStartTime", "dc/d2b/a02486.html#a872d34d3f9d420cfc749073c809931f9", null ],
-    [ "GetSystemTime", "dc/d2b/a02486.html#a443eccf314fe436192278d425d6d8220", null ],
-    [ "GetUptime", "dc/d2b/a02486.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
-    [ "Now", "dc/d2b/a02486.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
-    [ "UpdateGameTimers", "dc/d2b/a02486.html#a45712735241c9563a12fc3da54fb144d", null ]
+    [ "inventory_commandscript", "d8/d0a/a11600.html", "d8/d0a/a11600" ],
+    [ "AddSC_inventory_commandscript", "dc/d2b/a02486.html#a8917ab2c5001702c3dc7a14313dbc562", null ],
+    [ "bagSpecsColors", "dc/d2b/a02486.html#aabf9a2b965ae6153eb18635be4468eb6", null ],
+    [ "bagSpecsToString", "dc/d2b/a02486.html#ac004d76eb746ea415b16f1b512a057b6", null ]
 ];

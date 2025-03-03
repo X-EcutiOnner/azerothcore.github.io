@@ -1,7 +1,6 @@
 var a23652 =
 [
-    [ "OnApply", "de/d01/a23652.html#abab02b8307b762d070ba12358f59916d", null ],
-    [ "OnRemove", "de/d01/a23652.html#a5ac45a5cfa17689d241c44241216ff38", null ],
-    [ "PrepareAuraScript", "de/d01/a23652.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
-    [ "Register", "de/d01/a23652.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
+    [ "AfterRemove", "de/d01/a23652.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "de/d01/a23652.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "de/d01/a23652.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

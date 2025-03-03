@@ -1,6 +1,6 @@
 var a04001 =
 [
-    [ "CharacterDatabase", "dd/d81/a04001.html#af8239cd04c4137e1e621226a6d919ed4", null ],
-    [ "LoginDatabase", "dd/d81/a04001.html#ae753c5c60b556b0cb7998e7424be5cbf", null ],
-    [ "WorldDatabase", "dd/d81/a04001.html#af42e9d262f732792d1e81568ae38ea2e", null ]
+    [ "instance_oculus", "d1/dfe/a19256.html", "d1/dfe/a19256" ],
+    [ "instance_oculus::instance_oculus_InstanceMapScript", "d1/d73/a19260.html", "d1/d73/a19260" ],
+    [ "AddSC_instance_oculus", "dd/d81/a04001.html#affab733b7501171ef164fa0b308883a7", null ]
 ];

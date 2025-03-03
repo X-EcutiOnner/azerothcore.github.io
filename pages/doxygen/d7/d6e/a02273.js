@@ -1,4 +1,4 @@
 var a02273 =
 [
-    [ "CanRollOnItem", "d7/d6e/a02273.html#afbaf3417177da71d9f3c8be9eab09c2b", null ]
+    [ "GetAge", "d7/d6e/a02273.html#a347e0449afd73dbcc6c084dbe72af6c8", null ]
 ];

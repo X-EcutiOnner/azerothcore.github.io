@@ -1,10 +1,6 @@
 var a27392 =
 [
-    [ "npc_air_force_botsAI", "d8/d15/a27392.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "d8/d15/a27392.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "d8/d15/a27392.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "d8/d15/a27392.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "d8/d15/a27392.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "d8/d15/a27392.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "d8/d15/a27392.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "npc_air_force_botsAI", "d9/d5d/a27396.html", "d9/d5d/a27396" ],
+    [ "npc_air_force_bots", "d8/d15/a27392.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
+    [ "GetAI", "d8/d15/a27392.html#ae971e34d61b0f960d8f5940f9015523d", null ]
 ];

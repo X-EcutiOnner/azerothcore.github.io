@@ -1,6 +1,9 @@
 var a22048 =
 [
-    [ "npc_jungle_punch_targetAI", "d0/d12/a22052.html", "d0/d12/a22052" ],
-    [ "npc_jungle_punch_target", "d0/d40/a22048.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "d0/d40/a22048.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "npc_engineer_heliceAI", "d0/d40/a22048.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "d0/d40/a22048.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "d0/d40/a22048.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "d0/d40/a22048.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "d0/d40/a22048.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "m_uiChatTimer", "d0/d40/a22048.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

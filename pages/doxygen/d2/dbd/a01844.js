@@ -1,22 +1,16 @@
 var a01844 =
 [
-    [ "AddSC_achievement_scripts", "d2/dbd/a01844.html#a5091d6f933800f3313078304ad5c38ca", null ],
-    [ "AddSC_action_ip_logger", "d2/dbd/a01844.html#a530be5efb251d5ca58e97804e48ad953", null ],
-    [ "AddSC_areatrigger_scripts", "d2/dbd/a01844.html#a992f2da647f1f8748c7c9239b52079ad", null ],
-    [ "AddSC_chat_log", "d2/dbd/a01844.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ],
-    [ "AddSC_emerald_dragons", "d2/dbd/a01844.html#aabef9c5c7a434027ce4d3af6e2b77430", null ],
-    [ "AddSC_generic_creature", "d2/dbd/a01844.html#a50f66c4d6429b38157e35a75a0daa31d", null ],
-    [ "AddSC_go_scripts", "d2/dbd/a01844.html#a279b19d9fff015d16fc8bbd2fbc9325a", null ],
-    [ "AddSC_guards", "d2/dbd/a01844.html#acba582cbc90c710c629dd30926acdca4", null ],
-    [ "AddSC_item_scripts", "d2/dbd/a01844.html#a3e28ebf5a580887bb117f786689a34c6", null ],
-    [ "AddSC_npc_innkeeper", "d2/dbd/a01844.html#a3ffce1ea6cca981888af85ba67364df9", null ],
-    [ "AddSC_npc_professions", "d2/dbd/a01844.html#a428ec531a2dc4e479b5c73e0d0694091", null ],
-    [ "AddSC_npc_stave_of_ancients", "d2/dbd/a01844.html#a81e200e5d045a2403cd76a0559a6fd8c", null ],
-    [ "AddSC_npc_taxi", "d2/dbd/a01844.html#a36f8a13e2844278c955f3a8155e7a11c", null ],
-    [ "AddSC_npcs_special", "d2/dbd/a01844.html#aac822f73be6c9bf1dfaa4bbaec0e5aef", null ],
-    [ "AddSC_player_scripts", "d2/dbd/a01844.html#a1f476a8466c12651b57fd55bf13b9617", null ],
-    [ "AddSC_server_mail", "d2/dbd/a01844.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ],
-    [ "AddSC_suns_reach_reclamation", "d2/dbd/a01844.html#ae3e186d64e39803c404f1afb2144557b", null ],
-    [ "AddSC_transport_zeppelins", "d2/dbd/a01844.html#a29051596b0a3382db98c6b72f7ff3173", null ],
-    [ "AddWorldScripts", "d2/dbd/a01844.html#a5e7b18db76511725a47c51e9ce748575", null ]
+    [ "AccountScript", "d2/d5d/a10136.html", "d2/d5d/a10136" ],
+    [ "AccountHook", "d2/dbd/a01844.html#a4b5c567266fc875ca26b1f3c273a0e3f", [
+      [ "ACCOUNTHOOK_ON_ACCOUNT_LOGIN", "d2/dbd/a01844.html#a4b5c567266fc875ca26b1f3c273a0e3fa97110c19d0d3bf4985d037248fc9a520", null ],
+      [ "ACCOUNTHOOK_ON_BEFORE_ACCOUNT_DELETE", "d2/dbd/a01844.html#a4b5c567266fc875ca26b1f3c273a0e3fa68eae28cd3d4824d5a1f43be23334ecb", null ],
+      [ "ACCOUNTHOOK_ON_LAST_IP_UPDATE", "d2/dbd/a01844.html#a4b5c567266fc875ca26b1f3c273a0e3faef7c124ffc203147c487a3fdf3fb3993", null ],
+      [ "ACCOUNTHOOK_ON_FAILED_ACCOUNT_LOGIN", "d2/dbd/a01844.html#a4b5c567266fc875ca26b1f3c273a0e3fad9e09c448ea9ea11d0dab7b19364a744", null ],
+      [ "ACCOUNTHOOK_ON_EMAIL_CHANGE", "d2/dbd/a01844.html#a4b5c567266fc875ca26b1f3c273a0e3fa614cf50cd5271ecd85b56e2c96417982", null ],
+      [ "ACCOUNTHOOK_ON_FAILED_EMAIL_CHANGE", "d2/dbd/a01844.html#a4b5c567266fc875ca26b1f3c273a0e3fa8d513341e8c3bd3b9ab3d56ad1854fdf", null ],
+      [ "ACCOUNTHOOK_ON_PASSWORD_CHANGE", "d2/dbd/a01844.html#a4b5c567266fc875ca26b1f3c273a0e3fa1a346d78a8f0cd7fbf326655e791eec5", null ],
+      [ "ACCOUNTHOOK_ON_FAILED_PASSWORD_CHANGE", "d2/dbd/a01844.html#a4b5c567266fc875ca26b1f3c273a0e3faa64f8339ee297e9e9d5591423f18f283", null ],
+      [ "ACCOUNTHOOK_CAN_ACCOUNT_CREATE_CHARACTER", "d2/dbd/a01844.html#a4b5c567266fc875ca26b1f3c273a0e3fabbf594e3be51c108e40d535b8ba1baf3", null ],
+      [ "ACCOUNTHOOK_END", "d2/dbd/a01844.html#a4b5c567266fc875ca26b1f3c273a0e3fafdbdba3262877bcac001a3013cdd4f5f", null ]
+    ] ]
 ];

@@ -1,6 +1,6 @@
 var a02930 =
 [
-    [ "Bag", "d4/da0/a08272.html", "d4/da0/a08272" ],
-    [ "MAX_BAG_SIZE", "d6/d41/a02930.html#a60a065b8fab298fb24dfd8f22f657d77", null ],
-    [ "NewItemOrBag", "d6/d41/a02930.html#a6b74a54b7de3ced0e27f4128f0d95c64", null ]
+    [ "instance_razorfen_kraul", "d8/d5c/a14784.html", "d8/d5c/a14784" ],
+    [ "instance_razorfen_kraul::instance_razorfen_kraul_InstanceMapScript", "d7/d14/a14788.html", "d7/d14/a14788" ],
+    [ "AddSC_instance_razorfen_kraul", "d6/d41/a02930.html#a27080d618fc76ad4f3d6b9e8ad4cc3c0", null ]
 ];

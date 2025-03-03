@@ -1,9 +1,6 @@
 var a02219 =
 [
-    [ "MapType", "de/d59/a02219.html#a2a540ae6cb73c9914f0253464b155227", null ],
-    [ "Find", "de/d59/a02219.html#a42d065468e6e62b7161ba0c17e1d75ea", null ],
-    [ "Insert", "de/d59/a02219.html#a3ba44f9ba2a1ff4fd122944f95ef06bd", null ],
-    [ "Remove", "de/d59/a02219.html#a8f833a3f02f1e431170dd5d052b0f919", null ],
-    [ "RemoveByName", "de/d59/a02219.html#a9c5298580060e7a6078ffb5f4008c549", null ],
-    [ "PlayerNameMap", "de/d59/a02219.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
+    [ "ChatHandler", "d7/d19/a07464.html", "d7/d19/a07464" ],
+    [ "CliHandler", "d8/d4a/a07468.html", "d8/d4a/a07468" ],
+    [ "AddonChannelCommandHandler", "d6/dcf/a07472.html", "d6/dcf/a07472" ]
 ];

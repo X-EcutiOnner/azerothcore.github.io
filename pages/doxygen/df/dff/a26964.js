@@ -1,9 +1,6 @@
 var a26964 =
 [
-    [ "boss_ysondreAI", "df/dff/a26964.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
-    [ "DamageTaken", "df/dff/a26964.html#a99ee250e776001bb142815fc711ae75d", null ],
-    [ "ExecuteEvent", "df/dff/a26964.html#a88e3caa536a71730c757590be1bd3de1", null ],
-    [ "JustEngagedWith", "df/dff/a26964.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
-    [ "Reset", "df/dff/a26964.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
-    [ "_stage", "df/dff/a26964.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
+    [ "boss_ysondreAI", "dc/d07/a26968.html", "dc/d07/a26968" ],
+    [ "boss_ysondre", "df/dff/a26964.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
+    [ "GetAI", "df/dff/a26964.html#a0da215d7bc8ee86216887e682b9335c3", null ]
 ];

@@ -1,8 +1,6 @@
 var a22144 =
 [
-    [ "npc_freed_protodrakeAI", "df/da9/a22144.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "df/da9/a22144.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "df/da9/a22144.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "df/da9/a22144.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "df/da9/a22144.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "npc_freed_protodrakeAI", "d8/daf/a22148.html", "d8/daf/a22148" ],
+    [ "npc_freed_protodrake", "df/da9/a22144.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "df/da9/a22144.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

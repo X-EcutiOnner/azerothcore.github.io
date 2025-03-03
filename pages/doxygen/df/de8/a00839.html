@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Northrend/UtgardeKeep/UtgardeKeep/instance_utgarde_keep.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlegrounds/BattlegroundQueue.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,92 +106,117 @@ $(document).ready(function(){initNavTree('df/de8/a00839.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">instance_utgarde_keep.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">BattlegroundQueue.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">utgarde_keep.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Battleground.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DBCEnums.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">EventProcessor.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &lt;array&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d3c/a20936.html">instance_utgarde_keep</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d58/a07268.html">GroupQueueInfo</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d7d/a20940.html">instance_utgarde_keep::instance_utgarde_keep_InstanceMapScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df3/a07272.html">BattlegroundQueue</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d10/a07276.html">BattlegroundQueue::SelectionPool</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a07280.html">BGQueueInviteEvent</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d24/a07284.html">BGQueueRemoveEvent</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a1691f35071d744591cc1be4a314edbec"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de8/a00839.html#a1691f35071d744591cc1be4a314edbec">AddSC_instance_utgarde_keep</a> ()</td></tr>
-<tr class="separator:a1691f35071d744591cc1be4a314edbec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a589e9d4a3badd48f91fddc2afa661b17"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17">BattlegroundQueueGroupTypes</a> { <br />
+&#160;&#160;<a class="el" href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4">BG_QUEUE_PREMADE_ALLIANCE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c">BG_QUEUE_PREMADE_HORDE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697">BG_QUEUE_NORMAL_ALLIANCE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d">BG_QUEUE_NORMAL_HORDE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239">BG_QUEUE_CFBG</a>
+, <br />
+&#160;&#160;<a class="el" href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992">BG_QUEUE_MAX</a> = 10
+<br />
+ }</td></tr>
+<tr class="separator:a589e9d4a3badd48f91fddc2afa661b17"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a412286b689bd324fedd65ddd8dde8afb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddc/a09600.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de8/a00839.html#a412286b689bd324fedd65ddd8dde8afb">creatureData</a> []</td></tr>
-<tr class="separator:a412286b689bd324fedd65ddd8dde8afb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebc536d6c303d31049ad05f333c275ba"><td class="memItemLeft" align="right" valign="top">constexpr auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de8/a00839.html#aebc536d6c303d31049ad05f333c275ba">COUNT_OF_PLAYERS_TO_AVERAGE_WAIT_TIME</a> = 10</td></tr>
+<tr class="separator:aebc536d6c303d31049ad05f333c275ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a1691f35071d744591cc1be4a314edbec" name="a1691f35071d744591cc1be4a314edbec"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1691f35071d744591cc1be4a314edbec">&#9670;&#160;</a></span>AddSC_instance_utgarde_keep()</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a589e9d4a3badd48f91fddc2afa661b17" name="a589e9d4a3badd48f91fddc2afa661b17"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a589e9d4a3badd48f91fddc2afa661b17">&#9670;&#160;</a></span>BattlegroundQueueGroupTypes</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_instance_utgarde_keep </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">enum <a class="el" href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17">BattlegroundQueueGroupTypes</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  332</span>{</div>
-<div class="line"><span class="lineno">  333</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/d3c/a20936.html">instance_utgarde_keep</a>();</div>
-<div class="line"><span class="lineno">  334</span>}</div>
-<div class="ttc" id="aa20936_html"><div class="ttname"><a href="../../d9/d3c/a20936.html">instance_utgarde_keep</a></div><div class="ttdef"><b>Definition:</b> instance_utgarde_keep.cpp:34</div></div>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4" name="a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4"></a>BG_QUEUE_PREMADE_ALLIANCE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c" name="a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c"></a>BG_QUEUE_PREMADE_HORDE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697" name="a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697"></a>BG_QUEUE_NORMAL_ALLIANCE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d" name="a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d"></a>BG_QUEUE_NORMAL_HORDE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239" name="a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239"></a>BG_QUEUE_CFBG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992" name="a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992"></a>BG_QUEUE_MAX&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   52</span>{</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4">BG_QUEUE_PREMADE_ALLIANCE</a>,</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c">BG_QUEUE_PREMADE_HORDE</a>,</div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697">BG_QUEUE_NORMAL_ALLIANCE</a>,</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d">BG_QUEUE_NORMAL_HORDE</a>,</div>
+<div class="line"><span class="lineno">   57</span> </div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239">BG_QUEUE_CFBG</a>,</div>
+<div class="line"><span class="lineno">   59</span> </div>
+<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992">BG_QUEUE_MAX</a> = 10</div>
+<div class="line"><span class="lineno">   61</span>};</div>
+<div class="ttc" id="aa00839_html_a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c"><div class="ttname"><a href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c">BG_QUEUE_PREMADE_HORDE</a></div><div class="ttdeci">@ BG_QUEUE_PREMADE_HORDE</div><div class="ttdef"><b>Definition:</b> BattlegroundQueue.h:54</div></div>
+<div class="ttc" id="aa00839_html_a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697"><div class="ttname"><a href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697">BG_QUEUE_NORMAL_ALLIANCE</a></div><div class="ttdeci">@ BG_QUEUE_NORMAL_ALLIANCE</div><div class="ttdef"><b>Definition:</b> BattlegroundQueue.h:55</div></div>
+<div class="ttc" id="aa00839_html_a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4"><div class="ttname"><a href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4">BG_QUEUE_PREMADE_ALLIANCE</a></div><div class="ttdeci">@ BG_QUEUE_PREMADE_ALLIANCE</div><div class="ttdef"><b>Definition:</b> BattlegroundQueue.h:53</div></div>
+<div class="ttc" id="aa00839_html_a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239"><div class="ttname"><a href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239">BG_QUEUE_CFBG</a></div><div class="ttdeci">@ BG_QUEUE_CFBG</div><div class="ttdef"><b>Definition:</b> BattlegroundQueue.h:58</div></div>
+<div class="ttc" id="aa00839_html_a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992"><div class="ttname"><a href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992">BG_QUEUE_MAX</a></div><div class="ttdeci">@ BG_QUEUE_MAX</div><div class="ttdef"><b>Definition:</b> BattlegroundQueue.h:60</div></div>
+<div class="ttc" id="aa00839_html_a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d"><div class="ttname"><a href="../../df/de8/a00839.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d">BG_QUEUE_NORMAL_HORDE</a></div><div class="ttdeci">@ BG_QUEUE_NORMAL_HORDE</div><div class="ttdef"><b>Definition:</b> BattlegroundQueue.h:56</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
-
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a412286b689bd324fedd65ddd8dde8afb" name="a412286b689bd324fedd65ddd8dde8afb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a412286b689bd324fedd65ddd8dde8afb">&#9670;&#160;</a></span>creatureData</h2>
+<a id="aebc536d6c303d31049ad05f333c275ba" name="aebc536d6c303d31049ad05f333c275ba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aebc536d6c303d31049ad05f333c275ba">&#9670;&#160;</a></span>COUNT_OF_PLAYERS_TO_AVERAGE_WAIT_TIME</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/ddc/a09600.html">ObjectData</a> const creatureData[]</td>
+          <td class="memname">constexpr auto COUNT_OF_PLAYERS_TO_AVERAGE_WAIT_TIME = 10</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d7/dcf/a00845.html#a59602e8f26d052c0b6f6bdfe896510b8adc8eb044588758e3cfb4ed8c699e483d">NPC_DALRONN</a>,            <a class="code hl_enumvalue" href="../../d7/dcf/a00845.html#a8d0deb2f48ff4560c08e13e9a1f92c19a4eea4f7a31453de43c34bf60104d2322">DATA_DALRONN</a>            },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d7/dcf/a00845.html#a59602e8f26d052c0b6f6bdfe896510b8a531d439e3ed6f40d45aaf591d93722af">NPC_SKARVALD</a>,           <a class="code hl_enumvalue" href="../../d7/dcf/a00845.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae4984d96449b5f21602ac3200b4e878c">DATA_SKARVALD</a>           },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d7/dcf/a00845.html#a59602e8f26d052c0b6f6bdfe896510b8ad6b59b3f0fa1841b3dbce49b32ce88f7">NPC_DALRONN_GHOST</a>,      <a class="code hl_enumvalue" href="../../d7/dcf/a00845.html#a8d0deb2f48ff4560c08e13e9a1f92c19af1fea442f8fe91dcd9f636e8092d382a">DATA_DALRONN_GHOST</a>      },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d7/dcf/a00845.html#a59602e8f26d052c0b6f6bdfe896510b8aa4eafbdfd4632f9b207feb03c1c9906e">NPC_SKARVALD_GHOST</a>,     <a class="code hl_enumvalue" href="../../d7/dcf/a00845.html#a8d0deb2f48ff4560c08e13e9a1f92c19ab74c59643e93c2ff34170b8add4fb3a3">DATA_SKARVALD_GHOST</a>     },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d7/dcf/a00845.html#a59602e8f26d052c0b6f6bdfe896510b8a629c86c326a68aa9c57e75b658644e27">NPC_DARK_RANGER_MARRAH</a>, <a class="code hl_enumvalue" href="../../d7/dcf/a00845.html#a8d0deb2f48ff4560c08e13e9a1f92c19a879a87959c687ac7d45fefab89e9cd33">DATA_DARK_RANGER_MARRAH</a> },</div>
-<div class="line">    { 0,                      0                       }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa00845_html_a59602e8f26d052c0b6f6bdfe896510b8a531d439e3ed6f40d45aaf591d93722af"><div class="ttname"><a href="../../d7/dcf/a00845.html#a59602e8f26d052c0b6f6bdfe896510b8a531d439e3ed6f40d45aaf591d93722af">NPC_SKARVALD</a></div><div class="ttdeci">@ NPC_SKARVALD</div><div class="ttdef"><b>Definition:</b> utgarde_keep.h:76</div></div>
-<div class="ttc" id="aa00845_html_a59602e8f26d052c0b6f6bdfe896510b8a629c86c326a68aa9c57e75b658644e27"><div class="ttname"><a href="../../d7/dcf/a00845.html#a59602e8f26d052c0b6f6bdfe896510b8a629c86c326a68aa9c57e75b658644e27">NPC_DARK_RANGER_MARRAH</a></div><div class="ttdeci">@ NPC_DARK_RANGER_MARRAH</div><div class="ttdef"><b>Definition:</b> utgarde_keep.h:80</div></div>
-<div class="ttc" id="aa00845_html_a59602e8f26d052c0b6f6bdfe896510b8aa4eafbdfd4632f9b207feb03c1c9906e"><div class="ttname"><a href="../../d7/dcf/a00845.html#a59602e8f26d052c0b6f6bdfe896510b8aa4eafbdfd4632f9b207feb03c1c9906e">NPC_SKARVALD_GHOST</a></div><div class="ttdeci">@ NPC_SKARVALD_GHOST</div><div class="ttdef"><b>Definition:</b> utgarde_keep.h:77</div></div>
-<div class="ttc" id="aa00845_html_a59602e8f26d052c0b6f6bdfe896510b8ad6b59b3f0fa1841b3dbce49b32ce88f7"><div class="ttname"><a href="../../d7/dcf/a00845.html#a59602e8f26d052c0b6f6bdfe896510b8ad6b59b3f0fa1841b3dbce49b32ce88f7">NPC_DALRONN_GHOST</a></div><div class="ttdeci">@ NPC_DALRONN_GHOST</div><div class="ttdef"><b>Definition:</b> utgarde_keep.h:75</div></div>
-<div class="ttc" id="aa00845_html_a59602e8f26d052c0b6f6bdfe896510b8adc8eb044588758e3cfb4ed8c699e483d"><div class="ttname"><a href="../../d7/dcf/a00845.html#a59602e8f26d052c0b6f6bdfe896510b8adc8eb044588758e3cfb4ed8c699e483d">NPC_DALRONN</a></div><div class="ttdeci">@ NPC_DALRONN</div><div class="ttdef"><b>Definition:</b> utgarde_keep.h:74</div></div>
-<div class="ttc" id="aa00845_html_a8d0deb2f48ff4560c08e13e9a1f92c19a4eea4f7a31453de43c34bf60104d2322"><div class="ttname"><a href="../../d7/dcf/a00845.html#a8d0deb2f48ff4560c08e13e9a1f92c19a4eea4f7a31453de43c34bf60104d2322">DATA_DALRONN</a></div><div class="ttdeci">@ DATA_DALRONN</div><div class="ttdef"><b>Definition:</b> utgarde_keep.h:36</div></div>
-<div class="ttc" id="aa00845_html_a8d0deb2f48ff4560c08e13e9a1f92c19a879a87959c687ac7d45fefab89e9cd33"><div class="ttname"><a href="../../d7/dcf/a00845.html#a8d0deb2f48ff4560c08e13e9a1f92c19a879a87959c687ac7d45fefab89e9cd33">DATA_DARK_RANGER_MARRAH</a></div><div class="ttdeci">@ DATA_DARK_RANGER_MARRAH</div><div class="ttdef"><b>Definition:</b> utgarde_keep.h:40</div></div>
-<div class="ttc" id="aa00845_html_a8d0deb2f48ff4560c08e13e9a1f92c19ab74c59643e93c2ff34170b8add4fb3a3"><div class="ttname"><a href="../../d7/dcf/a00845.html#a8d0deb2f48ff4560c08e13e9a1f92c19ab74c59643e93c2ff34170b8add4fb3a3">DATA_SKARVALD_GHOST</a></div><div class="ttdeci">@ DATA_SKARVALD_GHOST</div><div class="ttdef"><b>Definition:</b> utgarde_keep.h:39</div></div>
-<div class="ttc" id="aa00845_html_a8d0deb2f48ff4560c08e13e9a1f92c19ae4984d96449b5f21602ac3200b4e878c"><div class="ttname"><a href="../../d7/dcf/a00845.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae4984d96449b5f21602ac3200b4e878c">DATA_SKARVALD</a></div><div class="ttdeci">@ DATA_SKARVALD</div><div class="ttdef"><b>Definition:</b> utgarde_keep.h:37</div></div>
-<div class="ttc" id="aa00845_html_a8d0deb2f48ff4560c08e13e9a1f92c19af1fea442f8fe91dcd9f636e8092d382a"><div class="ttname"><a href="../../d7/dcf/a00845.html#a8d0deb2f48ff4560c08e13e9a1f92c19af1fea442f8fe91dcd9f636e8092d382a">DATA_DALRONN_GHOST</a></div><div class="ttdeci">@ DATA_DALRONN_GHOST</div><div class="ttdef"><b>Definition:</b> utgarde_keep.h:38</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00045">instance_utgarde_keep::instance_utgarde_keep_InstanceMapScript::instance_utgarde_keep_InstanceMapScript()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00040">BattlegroundQueue::BattlegroundQueue()</a>, <a class="el" href="../../#l00235">BattlegroundQueue::GetAverageQueueWaitTime()</a>, and <a class="el" href="../../#l00209">BattlegroundQueue::PlayerInvitedToBGUpdateAverageWaitTime()</a>.</p>
 
 </div>
 </div>
@@ -200,8 +225,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_d1549822ab15c727c75ddc2dceea56dd.html">UtgardeKeep</a></li><li class="navelem"><a class="el" href="../../dir_14e88a38456ce636c6ee65eed9c3a2a1.html">UtgardeKeep</a></li><li class="navelem"><a class="el" href="../../df/de8/a00839.html">instance_utgarde_keep.cpp</a></li>
-    <li class="footer">Generated on Mon Feb 24 2025 20:43:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_fc52f0b797d74b4b54bfd04593b84648.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../df/de8/a00839.html">BattlegroundQueue.h</a></li>
+    <li class="footer">Generated on Mon Mar 3 2025 20:44:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

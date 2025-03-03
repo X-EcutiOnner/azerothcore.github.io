@@ -1,10 +1,10 @@
 var a00311 =
 [
-    [ "spell_razelikh_teleport_group", "de/d04/a13376.html", "de/d04/a13376" ],
-    [ "DeathlyUsher", "d1/d5d/a00311.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
-      [ "SPELL_TELEPORT_SINGLE", "d1/d5d/a00311.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
-      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "d1/d5d/a00311.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
-      [ "SPELL_TELEPORT_GROUP", "d1/d5d/a00311.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
-    ] ],
-    [ "AddSC_blasted_lands", "d1/d5d/a00311.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
+    [ "Acore::ACLogSink< T >", "dd/d34/a05480.html", "dd/d34/a05480" ],
+    [ "Acore::AsyncProcessResultImplementation", "db/d15/a05484.html", "db/d15/a05484" ],
+    [ "CreateChildProcess", "d1/d5d/a00311.html#a18bbd8a6717e647e963654123259a033", null ],
+    [ "MakeACLogSink", "d1/d5d/a00311.html#adcee37690522709ab4bd0b6f6e757dc5", null ],
+    [ "SearchExecutableInPath", "d1/d5d/a00311.html#a9de098dac5e38f8c2cdbeb1d4d706881", null ],
+    [ "StartAsyncProcess", "d1/d5d/a00311.html#a021f51138f5726e712f00bdddf9be729", null ],
+    [ "StartProcess", "d1/d5d/a00311.html#acfaf2f89a55d299aa04c494719dfedc8", null ]
 ];

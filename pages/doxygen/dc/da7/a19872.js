@@ -1,7 +1,5 @@
 var a19872 =
 [
-    [ "achievement_flame_leviathan_garage", "dc/da7/a19872.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "dc/da7/a19872.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "dc/da7/a19872.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "dc/da7/a19872.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "achievement_flame_leviathan_shutout", "dc/da7/a19872.html#a555e0d206b7f730665d301c7e03b23e6", null ],
+    [ "OnCheck", "dc/da7/a19872.html#af548232f563fd387bc8ee25b696a2f99", null ]
 ];

@@ -1,6 +1,6 @@
 var a27036 =
 [
-    [ "go_witherbark_totem_bundleAI", "d8/d69/a27036.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "d8/d69/a27036.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "d8/d69/a27036.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "go_witherbark_totem_bundleAI", "dd/da8/a27040.html", "dd/da8/a27040" ],
+    [ "go_witherbark_totem_bundle", "d8/d69/a27036.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "d8/d69/a27036.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

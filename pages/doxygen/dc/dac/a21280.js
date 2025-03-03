@@ -1,8 +1,6 @@
 var a21280 =
 [
-    [ "npc_azure_mage_slayerAI", "dc/dac/a21280.html#af1a57574d70a48b16d70d8a056f54018", null ],
-    [ "Reset", "dc/dac/a21280.html#aabe921f0d4fd147c457779791a7af619", null ],
-    [ "UpdateAI", "dc/dac/a21280.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
-    [ "uiArcaneEmpowermentTimer", "dc/dac/a21280.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
-    [ "uiSpellLockTimer", "dc/dac/a21280.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
+    [ "npc_azure_mage_slayerAI", "db/d4d/a21284.html", "db/d4d/a21284" ],
+    [ "npc_azure_mage_slayer", "dc/dac/a21280.html#ad5e5453235c224f4fac40244516dd1ad", null ],
+    [ "GetAI", "dc/dac/a21280.html#a9b795915100f47b11a65abdfdcbf39f4", null ]
 ];

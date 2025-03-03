@@ -14,7 +14,6 @@ var a18856 =
     [ "UpdateAI", "de/db7/a18856.html#ada9b63a61fc4c8abb60fdff30fb9487d", null ],
     [ "events", "de/db7/a18856.html#a756a5816615e02be0fc8308cc5088e49", null ],
     [ "gateOpened", "de/db7/a18856.html#ad2de325f3fde87679503664de81a911e", null ],
-    [ "pInstance", "de/db7/a18856.html#ad4c7722be225a16f12abbb2207dc4101", null ],
     [ "secondPhase", "de/db7/a18856.html#a1e4526d104670d4899ef6dd5760c2437", null ],
     [ "summons", "de/db7/a18856.html#aa1786f68bc52722dead6d9a6c131d6cb", null ],
     [ "waveCount", "de/db7/a18856.html#a4ed9dfac7e4d22fcb1f8396ca1318073", null ]

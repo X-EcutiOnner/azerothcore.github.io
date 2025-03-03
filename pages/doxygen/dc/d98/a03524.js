@@ -1,11 +1,15 @@
 var a03524 =
 [
-    [ "AuraEffect", "d4/d70/a11000.html", "d4/d70/a11000" ],
-    [ "Acore::AbsorbAuraOrderPred", "d6/dd8/a11004.html", "d6/dd8/a11004" ],
-    [ "pAuraEffectHandler", "dc/d98/a03524.html#a9e98d9a1c1cc41922f386b184fd7ce67", null ],
-    [ "BrewfestEntries", "dc/d98/a03524.html#a4ee83f582e4ebba3a5aea9ab1a5c9354", [
-      [ "BREWFEST_KODO", "dc/d98/a03524.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5", null ],
-      [ "GREAT_BREWFEST_KODO", "dc/d98/a03524.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa", null ],
-      [ "FRESH_BREWFEST_HOPS", "dc/d98/a03524.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf", null ]
-    ] ]
+    [ "icecrown_citadel_teleport", "df/daf/a18728.html", "df/daf/a18728" ],
+    [ "at_frozen_throne_teleport", "dc/d3e/a18732.html", "dc/d3e/a18732" ],
+    [ "GOSSIP_SENDER_ICC_PORT", "dc/d98/a03524.html#a6fba34564bcdeb5d7a73d3c21850f02a", null ],
+    [ "ICCTeleportOption", "dc/d98/a03524.html#a6fd4f2624c3269860a58fdcfbb273928", [
+      [ "ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER", "dc/d98/a03524.html#a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED", "dc/d98/a03524.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS", "dc/d98/a03524.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE", "dc/d98/a03524.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE", "dc/d98/a03524.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR", "dc/d98/a03524.html#a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b", null ]
+    ] ],
+    [ "AddSC_icecrown_citadel_teleport", "dc/d98/a03524.html#aba5bcd7624aeee0dbd61deec7f8d5d5b", null ]
 ];

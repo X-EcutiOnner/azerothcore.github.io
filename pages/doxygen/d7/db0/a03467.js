@@ -1,20 +1,39 @@
 var a03467 =
 [
-    [ "lfg::LfgQueueData", "d0/d8a/a07922.html", "d0/d8a/a07922" ],
-    [ "lfg::LfgWaitTime", "dc/d3d/a07926.html", "dc/d3d/a07926" ],
-    [ "lfg::LFGQueue", "d8/db8/a07930.html", "d8/db8/a07930" ],
-    [ "LfgCompatibleContainer", "d7/db0/a03467.html#a96438cca4cead6c1fc5d31ef643129e9", null ],
-    [ "LfgQueueDataContainer", "d7/db0/a03467.html#aa2afec59ce753c11c3d8fddf4fb33991", null ],
-    [ "LfgWaitTimesContainer", "d7/db0/a03467.html#a58714a43cbdc03f4008681528fb20447", null ],
-    [ "LfgCompatibility", "d7/db0/a03467.html#a33c5b3513de4cd3c5a525f31008618b6", [
-      [ "LFG_COMPATIBILITY_PENDING", "d7/db0/a03467.html#a33c5b3513de4cd3c5a525f31008618b6a9bd6f6c66c07537c541c6cf47da9311a", null ],
-      [ "LFG_INCOMPATIBLES_WRONG_GROUP_SIZE", "d7/db0/a03467.html#a33c5b3513de4cd3c5a525f31008618b6ab6f6918e09882dce7eb53394dc960123", null ],
-      [ "LFG_INCOMPATIBLES_TOO_MUCH_PLAYERS", "d7/db0/a03467.html#a33c5b3513de4cd3c5a525f31008618b6aab66f0e7b36ded30473ed953e96346a1", null ],
-      [ "LFG_INCOMPATIBLES_MULTIPLE_LFG_GROUPS", "d7/db0/a03467.html#a33c5b3513de4cd3c5a525f31008618b6a5c52733040385425e0b4fafbbe962c57", null ],
-      [ "LFG_INCOMPATIBLES_HAS_IGNORES", "d7/db0/a03467.html#a33c5b3513de4cd3c5a525f31008618b6a232b96c8bc336a74ef0d50fe5092b21b", null ],
-      [ "LFG_INCOMPATIBLES_NO_ROLES", "d7/db0/a03467.html#a33c5b3513de4cd3c5a525f31008618b6ad009d10da76a97578ce600e26e253a63", null ],
-      [ "LFG_INCOMPATIBLES_NO_DUNGEONS", "d7/db0/a03467.html#a33c5b3513de4cd3c5a525f31008618b6a6db8294000b56babf9050ec1fa80bd33", null ],
-      [ "LFG_COMPATIBLES_WITH_LESS_PLAYERS", "d7/db0/a03467.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e", null ],
-      [ "LFG_COMPATIBLES_MATCH", "d7/db0/a03467.html#a33c5b3513de4cd3c5a525f31008618b6a9dc8d1185a27e48d0f6953fccaa49ba0", null ]
-    ] ]
+    [ "spell_winter_veil_mistletoe", "d4/db6/a14404.html", "d4/db6/a14404" ],
+    [ "spell_winter_wondervolt_trap", "d2/d6f/a14408.html", "d2/d6f/a14408" ],
+    [ "spell_winter_veil_racer_rocket_slam", "d9/d67/a14412.html", "d9/d67/a14412" ],
+    [ "spell_winter_veil_racer_slam_hit", "db/d5b/a14416.html", "db/d5b/a14416" ],
+    [ "spell_winter_veil_shoot_air_rifle", "d8/d0b/a14420.html", "d8/d0b/a14420" ],
+    [ "airRifle", "d7/db0/a03467.html#a0a0aa9e1464024e9f2c7b6ec598e13ff", [
+      [ "SPELL_AIR_RIFLE_RIGHT_IN_THE_EYE", "d7/db0/a03467.html#a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64", null ],
+      [ "SPELL_AIR_RIFLE_STARLED", "d7/db0/a03467.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd", null ],
+      [ "SPELL_AIR_RIFLE_HIT", "d7/db0/a03467.html#a0a0aa9e1464024e9f2c7b6ec598e13ffadebbc458f6f97c23c78a5d77355557a0", null ],
+      [ "SPELL_AIR_RIFLE_HIT_TRIGGER", "d7/db0/a03467.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaef31b2903ed373a76624e81b5928b3af", null ],
+      [ "SPELL_AIR_RIFLE_PELTED_DAMAGE", "d7/db0/a03467.html#a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4", null ]
+    ] ],
+    [ "crashinTrashin", "d7/db0/a03467.html#a91189806a3728bf253348c6acff4d44a", [
+      [ "SPELL_BLUE_CAR_VISUAL", "d7/db0/a03467.html#a91189806a3728bf253348c6acff4d44aa2a1df012693fca95e41c96fe1dcfc303", null ],
+      [ "SPELL_RED_CAR_VISUAL", "d7/db0/a03467.html#a91189806a3728bf253348c6acff4d44aa83ccfea77911f91274ab6b76a13ebae9", null ],
+      [ "NPC_RED_RACER", "d7/db0/a03467.html#a91189806a3728bf253348c6acff4d44aa3a540ecf55e0e9719a7b1ecc0d089e83", null ],
+      [ "NPC_BLUE_RACER", "d7/db0/a03467.html#a91189806a3728bf253348c6acff4d44aa29832a92f722fc5ef6e6e0e28c43ace3", null ],
+      [ "SPELL_RACER_DEATH_VISUAL", "d7/db0/a03467.html#a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e", null ],
+      [ "SPELL_RACER_CHARGE_TO_OBJECT", "d7/db0/a03467.html#a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a", null ],
+      [ "SPELL_RACER_KILL_COUNTER", "d7/db0/a03467.html#a91189806a3728bf253348c6acff4d44aad39b98fd63372c2d7f9b59e290a38a68", null ],
+      [ "SPELL_RACER_SLAM_HIT", "d7/db0/a03467.html#a91189806a3728bf253348c6acff4d44aaf80af723709c8607c78c552286259f0b", null ],
+      [ "SPELL_RACER_FLAMES", "d7/db0/a03467.html#a91189806a3728bf253348c6acff4d44aac4f06456e8aa8d185db27f65280e3410", null ],
+      [ "RACER_ACHI_CRITERIA", "d7/db0/a03467.html#a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d", null ]
+    ] ],
+    [ "Mistletoe", "d7/db0/a03467.html#a9ae560d3a366e6f163d4fbfd29d339ac", [
+      [ "SPELL_CREATE_MISTLETOE", "d7/db0/a03467.html#a9ae560d3a366e6f163d4fbfd29d339acafdfb3de4159c5083ea35693ceae8b4cc", null ],
+      [ "SPELL_CREATE_HOLLY", "d7/db0/a03467.html#a9ae560d3a366e6f163d4fbfd29d339aca3935eb67c5b7dbbdca5783cb17586508", null ],
+      [ "SPELL_CREATE_SNOWFLAKES", "d7/db0/a03467.html#a9ae560d3a366e6f163d4fbfd29d339aca6fe4f2b2975d9ebf9ed4f806f9c8427a", null ]
+    ] ],
+    [ "winterWondervoltTrap", "d7/db0/a03467.html#a09023d9a36f692674809d983e0b46bb5", [
+      [ "SPELL_WINTER_WONDERVOLT_GREEN_WOMEN", "d7/db0/a03467.html#a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6", null ],
+      [ "SPELL_WINTER_WONDERVOLT_GREEN_MAN", "d7/db0/a03467.html#a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db", null ],
+      [ "SPELL_WINTER_WONDERVOLT_RED_WOMEN", "d7/db0/a03467.html#a09023d9a36f692674809d983e0b46bb5a08177bc4e663c11752af81f832011bf6", null ],
+      [ "SPELL_WINTER_WONDERVOLT_RED_MAN", "d7/db0/a03467.html#a09023d9a36f692674809d983e0b46bb5a7892046e23913f511b843d5a766e4dd0", null ]
+    ] ],
+    [ "AddSC_event_winter_veil_scripts", "d7/db0/a03467.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e", null ]
 ];

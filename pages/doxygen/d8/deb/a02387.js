@@ -1,35 +1,12 @@
 var a02387 =
 [
-    [ "CreatureAI", "de/da4/a06128.html", "de/da4/a06128" ],
-    [ "TIME_INTERVAL_LOOK", "d8/deb/a02387.html#a8de08a341cdd207e19eef425c2f5f152", null ],
-    [ "VISIBILITY_RANGE", "d8/deb/a02387.html#a5548091cca58d569e4226b6915ec8cb2", null ],
-    [ "CreatureBoundary", "d8/deb/a02387.html#a7994a32cb10f6de9d90e32ef2d6c1f37", null ],
-    [ "Permitions", "d8/deb/a02387.html#adf806592547de59418c6070d69c5efb9", [
-      [ "PERMIT_BASE_NO", "d8/deb/a02387.html#adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0", null ],
-      [ "PERMIT_BASE_IDLE", "d8/deb/a02387.html#adf806592547de59418c6070d69c5efb9aa30fb6bbae2f275b7c269df6b7bac2c0", null ],
-      [ "PERMIT_BASE_REACTIVE", "d8/deb/a02387.html#adf806592547de59418c6070d69c5efb9a8781eb0d588151b618bd98b03423dc58", null ],
-      [ "PERMIT_BASE_PROACTIVE", "d8/deb/a02387.html#adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c", null ],
-      [ "PERMIT_BASE_FACTION_SPECIFIC", "d8/deb/a02387.html#adf806592547de59418c6070d69c5efb9a9935ee057ed82483ff6a6363709db059", null ],
-      [ "PERMIT_BASE_SPECIAL", "d8/deb/a02387.html#adf806592547de59418c6070d69c5efb9a01dc7d3add2acacf44721592378df415", null ]
-    ] ],
-    [ "SCEquip", "d8/deb/a02387.html#a8561d766fce1bb059293efa6256c9717", [
-      [ "EQUIP_NO_CHANGE", "d8/deb/a02387.html#a8561d766fce1bb059293efa6256c9717a52eb65358cd8ffabf53e7104b78e95a2", null ],
-      [ "EQUIP_UNEQUIP", "d8/deb/a02387.html#a8561d766fce1bb059293efa6256c9717a435fadd0e5fa209afb6fd9363afbe54c", null ]
-    ] ],
-    [ "SelectEffect", "d8/deb/a02387.html#a8b21f6463e7db78be55dee9160352869", [
-      [ "SELECT_EFFECT_DONTCARE", "d8/deb/a02387.html#a8b21f6463e7db78be55dee9160352869a391dc42f0a158e8fdffbc0b18d9250e9", null ],
-      [ "SELECT_EFFECT_DAMAGE", "d8/deb/a02387.html#a8b21f6463e7db78be55dee9160352869ae1b4806793cac829bda8b64d0233adae", null ],
-      [ "SELECT_EFFECT_HEALING", "d8/deb/a02387.html#a8b21f6463e7db78be55dee9160352869a7c5e00f75a32eb7e8f1a5ea2dcb7d404", null ],
-      [ "SELECT_EFFECT_AURA", "d8/deb/a02387.html#a8b21f6463e7db78be55dee9160352869a5e73a49eeb722bf496ce76b4448280e5", null ]
-    ] ],
-    [ "SelectTargetType", "d8/deb/a02387.html#a09291ebbaa06245b9f65d046a8b67621", [
-      [ "SELECT_TARGET_DONTCARE", "d8/deb/a02387.html#a09291ebbaa06245b9f65d046a8b67621a3a0e529ee20cdfb171df9e8d67f0f749", null ],
-      [ "SELECT_TARGET_SELF", "d8/deb/a02387.html#a09291ebbaa06245b9f65d046a8b67621ae0e226db3f7e8c664ce1958c8fdc8e4a", null ],
-      [ "SELECT_TARGET_SINGLE_ENEMY", "d8/deb/a02387.html#a09291ebbaa06245b9f65d046a8b67621a371e0b7a2a0f1bc7809a2651c1ee6261", null ],
-      [ "SELECT_TARGET_AOE_ENEMY", "d8/deb/a02387.html#a09291ebbaa06245b9f65d046a8b67621af8f6f83b9b85f662ac5ce0dfb463daa4", null ],
-      [ "SELECT_TARGET_ANY_ENEMY", "d8/deb/a02387.html#a09291ebbaa06245b9f65d046a8b67621a25807921690235c31bdc32b599e04508", null ],
-      [ "SELECT_TARGET_SINGLE_FRIEND", "d8/deb/a02387.html#a09291ebbaa06245b9f65d046a8b67621a316f9dbbb2b5f3bc0667436767f540cb", null ],
-      [ "SELECT_TARGET_AOE_FRIEND", "d8/deb/a02387.html#a09291ebbaa06245b9f65d046a8b67621a21f9e37e67ab22ebd4bec53351757e38", null ],
-      [ "SELECT_TARGET_ANY_FRIEND", "d8/deb/a02387.html#a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3", null ]
-    ] ]
+    [ "InstancePlayerBind", "dd/d88/a09564.html", "dd/d88/a09564" ],
+    [ "BoundInstancesMapWrapper", "d9/dfc/a09568.html", "d9/dfc/a09568" ],
+    [ "InstanceSave", "dd/de1/a09572.html", "dd/de1/a09572" ],
+    [ "InstanceSaveMgr", "d7/d45/a09576.html", "d7/d45/a09576" ],
+    [ "InstanceSaveMgr::InstResetEvent", "d6/dab/a09580.html", "d6/dab/a09580" ],
+    [ "sInstanceSaveMgr", "d8/deb/a02387.html#ae1d3c96dbd749e40f06799fa52eeb9a2", null ],
+    [ "BoundInstancesMap", "d8/deb/a02387.html#aaa779bf09b703eb355cb51ac3481a19e", null ],
+    [ "PlayerBindStorage", "d8/deb/a02387.html#a2e2e3e31db4cc3be56b24e732c84106b", null ],
+    [ "ResetTimeByMapDifficultyMap", "d8/deb/a02387.html#aecf15b673beb714ef0acaa3bac23696a", null ]
 ];

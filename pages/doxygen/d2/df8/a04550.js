@@ -1,16 +1,7 @@
 var a04550 =
 [
-    [ "DBCFileLoader", "d9/dcb/a05154.html", "d9/dcb/a05154" ],
-    [ "DBCFileLoader::Record", "da/dee/a05158.html", "da/dee/a05158" ],
-    [ "DbcFieldFormat", "d2/df8/a04550.html#a969264ba91452f632e809db524c68960", [
-      [ "FT_NA", "d2/df8/a04550.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c", null ],
-      [ "FT_NA_BYTE", "d2/df8/a04550.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c", null ],
-      [ "FT_STRING", "d2/df8/a04550.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29", null ],
-      [ "FT_FLOAT", "d2/df8/a04550.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a", null ],
-      [ "FT_INT", "d2/df8/a04550.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a", null ],
-      [ "FT_BYTE", "d2/df8/a04550.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095", null ],
-      [ "FT_SORT", "d2/df8/a04550.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642", null ],
-      [ "FT_IND", "d2/df8/a04550.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036", null ],
-      [ "FT_LOGIC", "d2/df8/a04550.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc", null ]
-    ] ]
+    [ "SQLQueryHolderBase", "d0/d5d/a05800.html", "d0/d5d/a05800" ],
+    [ "SQLQueryHolder< T >", "d4/d20/a05652.html", "d4/d20/a05652" ],
+    [ "SQLQueryHolderTask", "d9/d19/a05804.html", "d9/d19/a05804" ],
+    [ "SQLQueryHolderCallback", "db/d2a/a05808.html", "db/d2a/a05808" ]
 ];

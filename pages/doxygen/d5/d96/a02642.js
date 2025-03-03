@@ -1,13 +1,10 @@
 var a02642 =
 [
-    [ "Movement::TransportPathTransform", "d6/d89/a10008.html", "d6/d89/a10008" ],
-    [ "Movement::HoverMovementTransform", "d8/d43/a10012.html", "d8/d43/a10012" ],
-    [ "Movement::MoveSplineInit", "d1/d7c/a10016.html", "d1/d7c/a10016" ],
-    [ "AnimType", "d5/d96/a02642.html#ab518009ca4123b1c5dce0ffe108b78fb", [
-      [ "ToGround", "d5/d96/a02642.html#ab518009ca4123b1c5dce0ffe108b78fba41889d3628918ee702ad48c7d2689f31", null ],
-      [ "FlyToFly", "d5/d96/a02642.html#ab518009ca4123b1c5dce0ffe108b78fba547b00b126d19fb188c747f076bf9d2c", null ],
-      [ "ToFly", "d5/d96/a02642.html#ab518009ca4123b1c5dce0ffe108b78fba3a5a6b4a2eebf34396f22e4c61c10d9b", null ],
-      [ "FlyToGround", "d5/d96/a02642.html#ab518009ca4123b1c5dce0ffe108b78fbae5cd8217abf54b5ab1e67d925d5c7602", null ]
-    ] ],
-    [ "SelectSpeedType", "d5/d96/a02642.html#a1f10281929f445f6d8150dc510bf1f2f", null ]
+    [ "AddPetScripts", "d5/d96/a02642.html#aaeb6a149e6495db19023f37a4f8bd882", null ],
+    [ "AddSC_deathknight_pet_scripts", "d5/d96/a02642.html#ac6a5b089240cd6b996928b3e7f9137b3", null ],
+    [ "AddSC_generic_pet_scripts", "d5/d96/a02642.html#a9852812a043673e45884dca938eff157", null ],
+    [ "AddSC_hunter_pet_scripts", "d5/d96/a02642.html#ab89117a79c55f003f82b06a1878e6534", null ],
+    [ "AddSC_mage_pet_scripts", "d5/d96/a02642.html#a689a4efb7777f4164aee994745a0e2d2", null ],
+    [ "AddSC_priest_pet_scripts", "d5/d96/a02642.html#ac0eaa77dc1cb9a092b318e3bc3f6d5b8", null ],
+    [ "AddSC_shaman_pet_scripts", "d5/d96/a02642.html#ab07e634ed761985e07d5c0e10f329231", null ]
 ];

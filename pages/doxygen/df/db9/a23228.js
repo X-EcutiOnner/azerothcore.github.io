@@ -1,6 +1,5 @@
 var a23228 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d2/d7c/a23232.html", "d2/d7c/a23232" ],
-    [ "instance_steam_vault", "df/db9/a23228.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "df/db9/a23228.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "go_main_chambers_access_panel", "df/db9/a23228.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "df/db9/a23228.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

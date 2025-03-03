@@ -1,9 +1,6 @@
 var a26972 =
 [
-    [ "boss_lethonAI", "d1/d2d/a26972.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "d1/d2d/a26972.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "d1/d2d/a26972.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "d1/d2d/a26972.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "d1/d2d/a26972.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "d1/d2d/a26972.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "boss_lethonAI", "df/d16/a26976.html", "df/d16/a26976" ],
+    [ "boss_lethon", "d1/d2d/a26972.html#a5d758979b061646830373de64b2b3af4", null ],
+    [ "GetAI", "d1/d2d/a26972.html#a493baf37aac400635dd0409e79375a1c", null ]
 ];

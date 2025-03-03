@@ -1,14 +1,17 @@
 var a01367 =
 [
-    [ "go_main_chambers_access_panel", "da/d19/a23224.html", "da/d19/a23224" ],
-    [ "instance_steam_vault", "df/db9/a23228.html", "df/db9/a23228" ],
-    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "d2/d7c/a23232.html", "d2/d7c/a23232" ],
-    [ "MainChambersAccessPanelSays", "dd/d86/a01367.html#aa8d293574a308aad41f620556eb63b6a", [
-      [ "SAY_FAINT_ECHO", "dd/d86/a01367.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992", null ],
-      [ "SAY_LOUD_RUMBLE", "dd/d86/a01367.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884", null ]
-    ] ],
-    [ "AddSC_instance_steam_vault", "dd/d86/a01367.html#a944f7f7f41e047f2a4f82fb9af0b4829", null ],
-    [ "creatureData", "dd/d86/a01367.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "minionData", "dd/d86/a01367.html#a6720238df140a3c574a711042b7f5bd3", null ],
-    [ "objectData", "dd/d86/a01367.html#a59ddfa91084111da23b5d47482e4ff8d", null ]
+    [ "SplineHandler", "d4/d2b/a08640.html", "d4/d2b/a08640" ],
+    [ "spellIdImmunityPredicate", "d3/d11/a08644.html", "d3/d11/a08644" ],
+    [ "ProcTriggeredData", "de/d71/a08648.html", "de/d71/a08648" ],
+    [ "AuraMunchingQueue", "d3/d90/a08652.html", "d3/d90/a08652" ],
+    [ "ProcTriggeredList", "dd/d86/a01367.html#af5ec5d5b1ba4d4454c1bdcbc139de758", null ],
+    [ "createProcExtendMask", "dd/d86/a01367.html#afb539370dad036ff97905efdbb4270c0", null ],
+    [ "createProcFlags", "dd/d86/a01367.html#a7d920511c20f084098c0f68a75006159", null ],
+    [ "InitTriggerAuraData", "dd/d86/a01367.html#a70fb722e03fe637ce7c9979a00725a3c", null ],
+    [ "baseMoveSpeed", "dd/d86/a01367.html#a2ede1cce0416c74db2d4599bab36eb57", null ],
+    [ "isAlwaysTriggeredAura", "dd/d86/a01367.html#a59735a3ed46ce3add4f949e4c9e041f8", null ],
+    [ "isNonTriggerAura", "dd/d86/a01367.html#a993ff0928a2b90204efd437a0726e787", null ],
+    [ "isTriggerAura", "dd/d86/a01367.html#ad51bed43268eefcceebdda05d85c6a61", null ],
+    [ "playerBaseMoveSpeed", "dd/d86/a01367.html#afef08589b9944f10d66bdc1de74d0270", null ],
+    [ "procPrepared", "dd/d86/a01367.html#a11410c456e972de7cfb44bbe17709cc4", null ]
 ];

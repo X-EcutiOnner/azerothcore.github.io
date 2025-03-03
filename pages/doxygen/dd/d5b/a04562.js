@@ -1,6 +1,9 @@
 var a04562 =
 [
-    [ "LinkedListElement", "d9/d4a/a05192.html", "d9/d4a/a05192" ],
-    [ "LinkedListHead", "d9/dff/a05196.html", "d9/dff/a05196" ],
-    [ "LinkedListHead::Iterator< _Ty >", "d6/d6a/a05200.html", "d6/d6a/a05200" ]
+    [ "MySQLHandle", "d3/df8/a05704.html", null ],
+    [ "MySQLResult", "d2/d02/a05708.html", null ],
+    [ "MySQLField", "d4/dd8/a05712.html", null ],
+    [ "MySQLBind", "da/de9/a05716.html", null ],
+    [ "MySQLStmt", "d2/d20/a05720.html", null ],
+    [ "MySQLBool", "dd/d5b/a04562.html#a9962b927652e90357369e67230dbc127", null ]
 ];

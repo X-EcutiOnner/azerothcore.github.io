@@ -1,8 +1,11 @@
 var a02384 =
 [
-    [ "SelectableAI", "dc/d1e/a06126.html", "dc/d1e/a06126" ],
-    [ "CreatureAIFactory< REAL_AI >", "d2/d44/a06130.html", "d2/d44/a06130" ],
-    [ "sCreatureAIRegistry", "d2/d11/a02384.html#a08e073e90e01d97b74e2331f15bf6122", null ],
-    [ "CreatureAICreator", "d2/d11/a02384.html#a0979444cdc957651f0b4bc9e3c24934b", null ],
-    [ "CreatureAIRegistry", "d2/d11/a02384.html#a3eebee4b886bee76d38357a472a9a5ae", null ]
+    [ "AuraEffect", "d4/d70/a11000.html", "d4/d70/a11000" ],
+    [ "Acore::AbsorbAuraOrderPred", "d6/dd8/a11004.html", "d6/dd8/a11004" ],
+    [ "pAuraEffectHandler", "d2/d11/a02384.html#a9e98d9a1c1cc41922f386b184fd7ce67", null ],
+    [ "BrewfestEntries", "d2/d11/a02384.html#a4ee83f582e4ebba3a5aea9ab1a5c9354", [
+      [ "BREWFEST_KODO", "d2/d11/a02384.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5", null ],
+      [ "GREAT_BREWFEST_KODO", "d2/d11/a02384.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa", null ],
+      [ "FRESH_BREWFEST_HOPS", "d2/d11/a02384.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf", null ]
+    ] ]
 ];

@@ -12,6 +12,5 @@ var a18884 =
     [ "UpdateAI", "d4/d0c/a18884.html#aafd79debbe76b02a1478c03daf235b05", null ],
     [ "dropSludgeTimer", "d4/d0c/a18884.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
     [ "events", "d4/d0c/a18884.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
-    [ "pInstance", "d4/d0c/a18884.html#a26a4a5bb98800fb968cf9b30ffa299dc", null ],
     [ "summons", "d4/d0c/a18884.html#a39ce39397f845a4fddf20da5f5812713", null ]
 ];

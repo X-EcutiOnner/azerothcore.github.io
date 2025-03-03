@@ -1,20 +1,18 @@
 var a00362 =
 [
-    [ "npc_partygoer_pather", "d3/d47/a13428.html", "d3/d47/a13428" ],
-    [ "npc_partygoer", "df/d95/a13432.html", "df/d95/a13432" ],
-    [ "Partygoer", "de/dd7/a00362.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
-      [ "EVENT_RANDOM_ACTION", "de/dd7/a00362.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
-      [ "EVENT_REMOVE_EQUIPMENT", "de/dd7/a00362.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
-      [ "EVENT_STOP_DANCING", "de/dd7/a00362.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
-      [ "EVENT_THROW_FIREWORKS", "de/dd7/a00362.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
-      [ "EVENT_RESET_FACING", "de/dd7/a00362.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
-      [ "GO_FIREWORKS_LAUNCHER", "de/dd7/a00362.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
-    ] ],
-    [ "Partygoer_Pather", "de/dd7/a00362.html#a3222d14ce03d75912e65560ebf2a961b", [
-      [ "EVENT_PATH", "de/dd7/a00362.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
-      [ "EVENT_RANDOM_ACTION_PATHER", "de/dd7/a00362.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
-      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "de/dd7/a00362.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
-      [ "EVENT_STOP_DANCING_PATHER", "de/dd7/a00362.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
-    ] ],
-    [ "AddSC_eversong_woods", "de/dd7/a00362.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
+    [ "Days", "de/dd7/a00362.html#af5dc5e7ad7b3f6d8e84530de842d125b", null ],
+    [ "Hours", "de/dd7/a00362.html#aa0f87984d2b3835a61dffc22ae8bf083", null ],
+    [ "Microseconds", "de/dd7/a00362.html#a201a83ed0d59d2baf946daf42dac834f", null ],
+    [ "Milliseconds", "de/dd7/a00362.html#a1c3834b9e3853535027d58bf21bec81f", null ],
+    [ "Minutes", "de/dd7/a00362.html#af2161f9db850581e2228078614990df8", null ],
+    [ "Months", "de/dd7/a00362.html#a5f2ffeea2459944dfaa4443f1efb7f42", null ],
+    [ "Seconds", "de/dd7/a00362.html#a3cd82f1c195a0b935b4d66b02a41acd8", null ],
+    [ "SystemTimePoint", "de/dd7/a00362.html#ada798961abc5a533d616ff780f567bb6", null ],
+    [ "TimePoint", "de/dd7/a00362.html#ae5ca775e8d8c664b6edef818ce1251b9", null ],
+    [ "Weeks", "de/dd7/a00362.html#a983745490d3d3a0322c4ccf0f418f179", null ],
+    [ "Years", "de/dd7/a00362.html#ab4fa20b33a9b5ee358963159b01d72f3", null ],
+    [ "operator\"\"_days", "de/dd7/a00362.html#ae62919aa53468bfadd4984bdd0498c03", null ],
+    [ "operator\"\"_months", "de/dd7/a00362.html#a7f38d5f5e7db75251b49712f910059ac", null ],
+    [ "operator\"\"_weeks", "de/dd7/a00362.html#a7ff3ff81243ee7b2ce873364bb7ad676", null ],
+    [ "operator\"\"_years", "de/dd7/a00362.html#a25baa64022678f43cf423c945dbd0226", null ]
 ];

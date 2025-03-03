@@ -1,6 +1,6 @@
 var a01529 =
 [
-    [ "PointMovementGenerator< T >", "d8/daf/a09806.html", "d8/daf/a09806" ],
-    [ "AssistanceMovementGenerator", "df/dee/a09810.html", "df/dee/a09810" ],
-    [ "EffectMovementGenerator", "d6/d8e/a09814.html", "d6/d8e/a09814" ]
+    [ "CharacterCacheEntry", "de/d24/a07412.html", "de/d24/a07412" ],
+    [ "CharacterCache", "d0/d2e/a07416.html", "d0/d2e/a07416" ],
+    [ "sCharacterCache", "db/dce/a01529.html#a7a32c898b33d6163d83a32f46d58517c", null ]
 ];

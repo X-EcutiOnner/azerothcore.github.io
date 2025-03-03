@@ -1,6 +1,16 @@
 var a01715 =
 [
-    [ "instance_razorfen_kraul", "d8/d5c/a14784.html", "d8/d5c/a14784" ],
-    [ "instance_razorfen_kraul::instance_razorfen_kraul_InstanceMapScript", "d7/d14/a14788.html", "d7/d14/a14788" ],
-    [ "AddSC_instance_razorfen_kraul", "df/d9a/a01715.html#a27080d618fc76ad4f3d6b9e8ad4cc3c0", null ]
+    [ "FormulaScript", "d4/da2/a10236.html", "d4/da2/a10236" ],
+    [ "FormulaHook", "df/d9a/a01715.html#a201bafc9783763d9953381d3aa09bf69", [
+      [ "FORMULAHOOK_ON_HONOR_CALCULATION", "df/d9a/a01715.html#a201bafc9783763d9953381d3aa09bf69a73eb230cf8bc5ea792f11bb873a28419", null ],
+      [ "FORMULAHOOK_ON_GRAY_LEVEL_CALCULATION", "df/d9a/a01715.html#a201bafc9783763d9953381d3aa09bf69ae5bca7263a6d46817dc8dfaa4e6636c4", null ],
+      [ "FORMULAHOOK_ON_COLOR_CODE_CALCULATION", "df/d9a/a01715.html#a201bafc9783763d9953381d3aa09bf69ae305e59fcf7c58fccaa5e3eb7f164436", null ],
+      [ "FORMULAHOOK_ON_ZERO_DIFFERENCE_CALCULATION", "df/d9a/a01715.html#a201bafc9783763d9953381d3aa09bf69aaf4abb2ee4d7e811524828641d035c3f", null ],
+      [ "FORMULAHOOK_ON_BASE_GAIN_CALCULATION", "df/d9a/a01715.html#a201bafc9783763d9953381d3aa09bf69af81c627150a90b1b38ae49bd3b02ab86", null ],
+      [ "FORMULAHOOK_ON_GAIN_CALCULATION", "df/d9a/a01715.html#a201bafc9783763d9953381d3aa09bf69ac9f5d04e83bca695ea8857c2797cbb52", null ],
+      [ "FORMULAHOOK_ON_GROUP_RATE_CALCULATION", "df/d9a/a01715.html#a201bafc9783763d9953381d3aa09bf69a56563d7c720735fee5720cbfc7502baf", null ],
+      [ "FORMULAHOOK_ON_AFTER_ARENA_RATING_CALCULATION", "df/d9a/a01715.html#a201bafc9783763d9953381d3aa09bf69aec7df5954df9c5fdc2ddcc2f36e3cb92", null ],
+      [ "FORMULAHOOK_ON_BEFORE_UPDATING_PERSONAL_RATING", "df/d9a/a01715.html#a201bafc9783763d9953381d3aa09bf69ad8dee2b8396106bfbf66942eb7917b33", null ],
+      [ "FORMULAHOOK_END", "df/d9a/a01715.html#a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f", null ]
+    ] ]
 ];

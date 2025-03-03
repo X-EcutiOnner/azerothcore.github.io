@@ -1,24 +1,21 @@
 var a04091 =
 [
-    [ "CharacterDatabasePreparedStatement", "de/da8/a04091.html#adabd50def0511ee540f8e1296c8cf782", null ],
-    [ "CharacterDatabaseQueryHolder", "de/da8/a04091.html#a350c68a4024b7fe5ae02a70f35c149d8", null ],
-    [ "CharacterDatabaseTransaction", "de/da8/a04091.html#a96bac9a371212c6bab7a9448214666c0", null ],
-    [ "LoginDatabasePreparedStatement", "de/da8/a04091.html#acd39cc80301f953b6d9adfee2f9585c8", null ],
-    [ "LoginDatabaseQueryHolder", "de/da8/a04091.html#a3e04fac4bd7cb26970c374dd1787cbbb", null ],
-    [ "LoginDatabaseTransaction", "de/da8/a04091.html#aa0ef7192ac59bc820849e5e21e3e08b7", null ],
-    [ "PreparedQueryResult", "de/da8/a04091.html#ac6110b8d867b5f84f677555d07037acb", null ],
-    [ "PreparedQueryResultFuture", "de/da8/a04091.html#a2011f9efd3a5d95695395eba86e79fab", null ],
-    [ "PreparedQueryResultPromise", "de/da8/a04091.html#a1b3aab1f5d953820d83af94034da3da2", null ],
-    [ "QueryCallbackProcessor", "de/da8/a04091.html#ab28e91495454917e2f4623ba259c3b2a", null ],
-    [ "QueryResult", "de/da8/a04091.html#ab0c9feeec448a181290fcb39565b8253", null ],
-    [ "QueryResultFuture", "de/da8/a04091.html#aaafe95f05c6db404e8bb61be587c7ca1", null ],
-    [ "QueryResultHolderFuture", "de/da8/a04091.html#afa682c0dbd4467d34bc28101c82c8959", null ],
-    [ "QueryResultHolderPromise", "de/da8/a04091.html#ad57a63776c96b99707576dd6f1ff7c29", null ],
-    [ "QueryResultPromise", "de/da8/a04091.html#a57de3b80b12c90e51398bf934fdc828b", null ],
-    [ "SQLTransaction", "de/da8/a04091.html#ab2badaea4b4827995daef3e2dec0f9cd", null ],
-    [ "TransactionFuture", "de/da8/a04091.html#ad8826e834522c9cacfd021d4529b4f87", null ],
-    [ "TransactionPromise", "de/da8/a04091.html#a363198b2c33dce9fd461ffd94bf063ac", null ],
-    [ "WorldDatabasePreparedStatement", "de/da8/a04091.html#a9a67db2ce35b3ac1d187318422f3ee95", null ],
-    [ "WorldDatabaseQueryHolder", "de/da8/a04091.html#a671c534314a7e095bb2bf72e2cc0fcbb", null ],
-    [ "WorldDatabaseTransaction", "de/da8/a04091.html#a858dac975c33053feb33400380cec907", null ]
+    [ "AccountActionIpLogger", "d0/dbb/a26900.html", "d0/dbb/a26900" ],
+    [ "CharacterActionIpLogger", "d7/d05/a26904.html", "d7/d05/a26904" ],
+    [ "CharacterDeleteActionIpLogger", "db/d75/a26908.html", "db/d75/a26908" ],
+    [ "IPLoggingTypes", "de/da8/a04091.html#a3b67d8dbf539fa5519b3e33da9d0137b", [
+      [ "ACCOUNT_LOGIN", "de/da8/a04091.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8", null ],
+      [ "ACCOUNT_FAIL_LOGIN", "de/da8/a04091.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f", null ],
+      [ "ACCOUNT_CHANGE_PW", "de/da8/a04091.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059", null ],
+      [ "ACCOUNT_CHANGE_PW_FAIL", "de/da8/a04091.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53", null ],
+      [ "ACCOUNT_CHANGE_EMAIL", "de/da8/a04091.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c", null ],
+      [ "ACCOUNT_CHANGE_EMAIL_FAIL", "de/da8/a04091.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30", null ],
+      [ "CHARACTER_CREATE", "de/da8/a04091.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85", null ],
+      [ "CHARACTER_LOGIN", "de/da8/a04091.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363", null ],
+      [ "CHARACTER_LOGOUT", "de/da8/a04091.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607", null ],
+      [ "CHARACTER_DELETE", "de/da8/a04091.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162", null ],
+      [ "CHARACTER_FAILED_DELETE", "de/da8/a04091.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7", null ],
+      [ "UNKNOWN_ACTION", "de/da8/a04091.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8", null ]
+    ] ],
+    [ "AddSC_action_ip_logger", "de/da8/a04091.html#a530be5efb251d5ca58e97804e48ad953", null ]
 ];

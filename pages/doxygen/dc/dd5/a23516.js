@@ -1,8 +1,8 @@
 var a23516 =
 [
-    [ "FilterTargets", "dc/dd5/a23516.html#ae366594b668331a19f384ceb48654c0c", null ],
-    [ "HandleOnHit", "dc/dd5/a23516.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
-    [ "PrepareSpellScript", "dc/dd5/a23516.html#a71aa4018d293391a73d3317c1e80951d", null ],
-    [ "Register", "dc/dd5/a23516.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
-    [ "Validate", "dc/dd5/a23516.html#a3747ad271dc659436ae7a8203b964554", null ]
+    [ "npc_warchief_portal", "dc/dd5/a23516.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "dc/dd5/a23516.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "dc/dd5/a23516.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "dc/dd5/a23516.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "dc/dd5/a23516.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

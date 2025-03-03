@@ -1,7 +1,7 @@
 var dir_2a809e8107a21363b40c79ab70d79b15 =
 [
-    [ "boss_baroness_anastari.cpp", "db/d44/a00533.html", "db/d44/a00533" ],
-    [ "boss_jarien_and_sothos.cpp", "da/d7e/a00530.html", "da/d7e/a00530" ],
-    [ "instance_stratholme.cpp", "d9/d44/a00527.html", "d9/d44/a00527" ],
-    [ "stratholme.h", "d9/d24/a00524.html", "d9/d24/a00524" ]
+    [ "boss_baroness_anastari.cpp", "d6/d19/a03242.html", "d6/d19/a03242" ],
+    [ "boss_jarien_and_sothos.cpp", "dd/d07/a03233.html", "dd/d07/a03233" ],
+    [ "instance_stratholme.cpp", "db/d5f/a03239.html", "db/d5f/a03239" ],
+    [ "stratholme.h", "d5/de9/a03236.html", "d5/de9/a03236" ]
 ];

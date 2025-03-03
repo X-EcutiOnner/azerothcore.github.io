@@ -1,7 +1,8 @@
 var a04115 =
 [
-    [ "GetBuildDirectory", "df/d30/a04115.html#ae2280b7f7c56992a4c3ae6e33d6c8a4b", null ],
-    [ "GetCMakeCommand", "df/d30/a04115.html#af38bc6d6ef36ab9b44b7bf5446659672", null ],
-    [ "GetMySQLExecutable", "df/d30/a04115.html#abdfee61576e0a7c64d7bb6a516ab69b7", null ],
-    [ "GetSourceDirectory", "df/d30/a04115.html#a84544d0c16175b62a0894c34fee2b6d7", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "de/da4/a27528.html", "de/da4/a27528" ],
+    [ "ApprenticeAnglerQuestEnum", "df/d30/a04115.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
+      [ "QUEST_APPRENTICE_ANGLER", "df/d30/a04115.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
+    ] ],
+    [ "AddSC_player_scripts", "df/d30/a04115.html#a1f476a8466c12651b57fd55bf13b9617", null ]
 ];

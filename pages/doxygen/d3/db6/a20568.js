@@ -1,9 +1,6 @@
 var a20568 =
 [
-    [ "npc_xt002_scrapbotAI", "d3/db6/a20568.html#a21be97bb49ff06ef090cbbe6f5006f56", null ],
-    [ "JustDied", "d3/db6/a20568.html#adcab192d017e6a9e8d103a6e8b91cb26", null ],
-    [ "MovementInform", "d3/db6/a20568.html#a48fd29d42280ae91852ef2ef0cecc8f6", null ],
-    [ "Reset", "d3/db6/a20568.html#aab71d2a49ee96e88a2858c07c455e78d", null ],
-    [ "UpdateAI", "d3/db6/a20568.html#ae2de6767f8ab502833971e4171d48c13", null ],
-    [ "_locked", "d3/db6/a20568.html#add3bfe992d635629ac7e07e04c4334c9", null ]
+    [ "npc_xt002_scrapbotAI", "db/df5/a20572.html", "db/df5/a20572" ],
+    [ "npc_xt002_scrapbot", "d3/db6/a20568.html#accfd75266d058af3856bdb625728c18d", null ],
+    [ "GetAI", "d3/db6/a20568.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
 ];

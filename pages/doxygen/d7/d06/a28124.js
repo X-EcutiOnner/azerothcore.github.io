@@ -1,7 +1,5 @@
 var a28124 =
 [
-    [ "EpicPropertiesPoints", "d7/d06/a28124.html#a35dc60a15091357e03032226621340f7", null ],
-    [ "itemLevel", "d7/d06/a28124.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
-    [ "RarePropertiesPoints", "d7/d06/a28124.html#a9359171635ef3e9a0029820fad286368", null ],
-    [ "UncommonPropertiesPoints", "d7/d06/a28124.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
+    [ "id", "d7/d06/a28124.html#a4667f55651f20c85f5b3da9384bac078", null ],
+    [ "QuestRewFactionValue", "d7/d06/a28124.html#a9a42feddeef8e054cd52b72cfc812867", null ]
 ];

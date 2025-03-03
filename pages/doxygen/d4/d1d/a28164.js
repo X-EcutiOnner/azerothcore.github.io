@@ -1,5 +1,5 @@
 var a28164 =
 [
-    [ "Flags", "d4/d1d/a28164.html#a0cb97c73af91dcfdd151c38aa46828cc", null ],
-    [ "Id", "d4/d1d/a28164.html#a85e0e36dbc79f309d7f50b087ebcd166", null ]
+    [ "CastTime", "d4/d1d/a28164.html#af0bf895b1a5d61974cb63230b786c55e", null ],
+    [ "ID", "d4/d1d/a28164.html#a41b1059fc4059bd198925861a9414497", null ]
 ];

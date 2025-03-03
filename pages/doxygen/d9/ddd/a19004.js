@@ -17,6 +17,5 @@ var a19004 =
     [ "currentTarget", "d9/ddd/a19004.html#a9557df2556d86c50f41d066ce3373eaf", null ],
     [ "events", "d9/ddd/a19004.html#a9fc4dbd88390dbb455150144f4604ccb", null ],
     [ "iceboltCount", "d9/ddd/a19004.html#a765c041f412c4d20023b0cc435d4bc4f", null ],
-    [ "pInstance", "d9/ddd/a19004.html#a513b6ef9cd77d2c391e7c505e8da568f", null ],
     [ "spawnTimer", "d9/ddd/a19004.html#adef834e9b17d7cff0aaed9c36b7c7684", null ]
 ];

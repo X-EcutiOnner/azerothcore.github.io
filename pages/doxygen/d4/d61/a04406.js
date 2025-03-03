@@ -1,9 +1,15 @@
 var a04406 =
 [
-    [ "localtime_r", "d4/d61/a04406.html#a17fdb8f2104b98bad5d9fb343d0a043a", null ],
-    [ "DAYS", "d4/d61/a04406.html#ac9bde42940b2570f3865385200b56af8", null ],
-    [ "HOURS", "d4/d61/a04406.html#a18161a3aeba136aeffb54a07f08f08f6", null ],
-    [ "MILLISECONDS", "d4/d61/a04406.html#a2624e61008f0e89d91c7c55161f9bcd8", null ],
-    [ "MINUTES", "d4/d61/a04406.html#abbd89694b6a3e24a701ce6971b2cd37d", null ],
-    [ "SECONDS", "d4/d61/a04406.html#a5fb1c8d14d370751c6202fc87b27bf96", null ]
+    [ "boss_hydromancer_thespia", "d6/d1a/a23212.html", "d6/d1a/a23212" ],
+    [ "HydromancerThespia", "d4/d61/a04406.html#a3f4b673ff8add0ad1c96080f6252130d", [
+      [ "SAY_SUMMON", "d4/d61/a04406.html#a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf", null ],
+      [ "SAY_AGGRO", "d4/d61/a04406.html#a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_SLAY", "d4/d61/a04406.html#a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75", null ],
+      [ "SAY_DEAD", "d4/d61/a04406.html#a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671", null ],
+      [ "SAY_SPELL", "d4/d61/a04406.html#a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2", null ],
+      [ "SPELL_LIGHTNING_CLOUD", "d4/d61/a04406.html#a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2", null ],
+      [ "SPELL_LUNG_BURST", "d4/d61/a04406.html#a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6", null ],
+      [ "SPELL_ENVELOPING_WINDS", "d4/d61/a04406.html#a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92", null ]
+    ] ],
+    [ "AddSC_boss_hydromancer_thespia", "d4/d61/a04406.html#a0a9bb9014bd5526d13141dcef207c234", null ]
 ];

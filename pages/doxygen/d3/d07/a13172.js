@@ -7,8 +7,9 @@ var a13172 =
     [ "KilledUnit", "d3/d07/a13172.html#a0233ebbcbb21d100425ac76223e839be", null ],
     [ "MovementInform", "d3/d07/a13172.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
     [ "Reset", "d3/d07/a13172.html#ae5181c789809a859edb40488e206c0d3", null ],
-    [ "ScheduleFlightAbilities", "d3/d07/a13172.html#abd384c7754aedeb35a9358bc4e7888c8", null ],
-    [ "ScheduleFlightSequence", "d3/d07/a13172.html#a2cf8def19df423fe3fb188ec35934e9a", null ],
+    [ "ScheduleGroundAbilities", "d3/d07/a13172.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
     [ "StartIntro", "d3/d07/a13172.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
-    [ "UpdateAI", "d3/d07/a13172.html#a0e429d8cf49946c0232b9c405c340356", null ]
+    [ "UpdateAI", "d3/d07/a13172.html#a0e429d8cf49946c0232b9c405c340356", null ],
+    [ "_currentLane", "d3/d07/a13172.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
+    [ "_strafeCount", "d3/d07/a13172.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
 ];

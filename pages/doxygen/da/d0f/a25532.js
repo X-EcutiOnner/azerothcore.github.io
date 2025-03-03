@@ -1,6 +1,6 @@
 var a25532 =
 [
-    [ "FilterTargets", "da/d0f/a25532.html#abe299fbad07f800e90b1614ec661c185", null ],
-    [ "PrepareSpellScript", "da/d0f/a25532.html#a53bae2b6575436705adff74caf9225b7", null ],
-    [ "Register", "da/d0f/a25532.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
+    [ "HandleEffectApply", "da/d0f/a25532.html#a9e8b226f3ebb33c47de584850643994f", null ],
+    [ "PrepareAuraScript", "da/d0f/a25532.html#a30b74d44bb81a04ea1cfe1b6d5f926c7", null ],
+    [ "Register", "da/d0f/a25532.html#a1d3d32c057877b5cf00f5970e583c25e", null ]
 ];

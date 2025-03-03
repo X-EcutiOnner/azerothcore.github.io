@@ -1,5 +1,6 @@
 var a00461 =
 [
-    [ "spell_q12779_an_end_to_all_things", "d9/d63/a12912.html", "d9/d63/a12912" ],
-    [ "AddSC_the_scarlet_enclave_c3", "d5/d5f/a00461.html#add963c2bc2b515348b9b7c636d176927", null ]
+    [ "GameObjectModelOwnerBase", "d4/d79/a05020.html", "d4/d79/a05020" ],
+    [ "GameObjectModel", "d7/d17/a05024.html", "d7/d17/a05024" ],
+    [ "LoadGameObjectModelList", "d5/d5f/a00461.html#a5a80774080fc05f90c7d92213fda6788", null ]
 ];

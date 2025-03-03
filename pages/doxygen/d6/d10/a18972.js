@@ -13,7 +13,6 @@ var a18972 =
     [ "SummonHelper", "d6/d10/a18972.html#abfe6252bec42fdc3d7738aef3dd2ec74", null ],
     [ "UpdateAI", "d6/d10/a18972.html#a87f4e825fb8f9f48991d5dcf94af78e3", null ],
     [ "events", "d6/d10/a18972.html#a3f3e282c6ee1d259f1f2a401f6195251", null ],
-    [ "pInstance", "d6/d10/a18972.html#a91cdc214420c5f54bc1f35b8ae42656d", null ],
     [ "summons", "d6/d10/a18972.html#a4e95ad18274331e402124d4a8424cb18", null ],
     [ "timesInBalcony", "d6/d10/a18972.html#a249c96d4230bd2b43c4be733317c4bc4", null ]
 ];

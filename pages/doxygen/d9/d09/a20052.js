@@ -1,6 +1,6 @@
 var a20052 =
 [
-    [ "npc_ulduar_hodir_priestAI", "d4/d29/a20056.html", "d4/d29/a20056" ],
-    [ "npc_ulduar_hodir_priest", "d9/d09/a20052.html#a30d7f1b68f9a1d10bc47288b81fc517c", null ],
-    [ "GetAI", "d9/d09/a20052.html#a276046b974666c1462440a46a8096de7", null ]
+    [ "npc_ulduar_toasty_fireAI", "d9/d09/a20052.html#a145001c6f1c1d505f810ae545ec62c69", null ],
+    [ "DoAction", "d9/d09/a20052.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
+    [ "SpellHit", "d9/d09/a20052.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
 ];

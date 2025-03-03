@@ -1,11 +1,9 @@
 var a04307 =
 [
-    [ "AABound", "db/dde/a04856.html", "db/dde/a04856" ],
-    [ "BIH", "d1/dda/a04860.html", "d1/dda/a04860" ],
-    [ "BIH::buildData", "da/dea/a04864.html", "da/dea/a04864" ],
-    [ "BIH::StackNode", "d7/d61/a04868.html", "d7/d61/a04868" ],
-    [ "BIH::BuildStats", "de/d6f/a04872.html", "de/d6f/a04872" ],
-    [ "MAX_STACK_SIZE", "d9/d4e/a04307.html#accbb358028675c83675d8b34c386268d", null ],
-    [ "floatToRawIntBits", "d9/d4e/a04307.html#ad04403146f53e198de60b6c4bec4246e", null ],
-    [ "intBitsToFloat", "d9/d4e/a04307.html#a3b415e235398aa84c4f976084f8e130c", null ]
+    [ "instance_blood_furnace", "da/d37/a23384.html", "da/d37/a23384" ],
+    [ "instance_blood_furnace::instance_blood_furnace_InstanceMapScript", "dc/dc0/a23388.html", "dc/dc0/a23388" ],
+    [ "AddSC_instance_blood_furnace", "d9/d4e/a04307.html#af803a0e2dfb7f53b6682e02b90bef865", null ],
+    [ "creatureData", "d9/d4e/a04307.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d9/d4e/a04307.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameobjectData", "d9/d4e/a04307.html#a845a92716bd40c99a93eb0715cd737b0", null ]
 ];

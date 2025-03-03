@@ -1,6 +1,14 @@
 var a23916 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d4/da7/a23920.html", "d4/da7/a23920" ],
-    [ "npc_creditmarker_visit_with_ancestors", "dc/dc8/a23916.html#a60f7abac7198d8504d944828dceb1ffa", null ],
-    [ "GetAI", "dc/dc8/a23916.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
+    [ "npc_maghar_captiveAI", "dc/dc8/a23916.html#abab2cfe84f4bb83fea3b35202a957bb5", null ],
+    [ "JustDied", "dc/dc8/a23916.html#adbef78d8c908bfbce6ea506c55fb6922", null ],
+    [ "JustEngagedWith", "dc/dc8/a23916.html#a2a0ec4a496c7352ba88ceef99eb769e4", null ],
+    [ "JustSummoned", "dc/dc8/a23916.html#afe55f91acd8c47a758b8d08bd07d763f", null ],
+    [ "Reset", "dc/dc8/a23916.html#abebcdcb102f8d338ae0b792708940cd7", null ],
+    [ "SpellHitTarget", "dc/dc8/a23916.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
+    [ "UpdateAI", "dc/dc8/a23916.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
+    [ "WaypointReached", "dc/dc8/a23916.html#abfbba8942df57e974ab24ad693c16e70", null ],
+    [ "ChainLightningTimer", "dc/dc8/a23916.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
+    [ "FrostShockTimer", "dc/dc8/a23916.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
+    [ "HealTimer", "dc/dc8/a23916.html#a31613adba706f3b5f948f2f7c4222038", null ]
 ];

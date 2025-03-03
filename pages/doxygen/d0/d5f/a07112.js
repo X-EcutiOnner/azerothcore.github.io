@@ -61,6 +61,7 @@ var a07112 =
     [ "SendInitWorldStatesToAll", "d0/d5f/a07112.html#a3465aabf6b7ee665df523c59b05bed68", null ],
     [ "SendRemoveWorldStates", "d0/d5f/a07112.html#a536403dc8cb245f3ef82ccf53f056fed", null ],
     [ "SendUpdateWorldState", "d0/d5f/a07112.html#af08665cd919b9d39798cd02c110b3241", null ],
+    [ "SendUpdateWorldStates", "d0/d5f/a07112.html#a818ddb7c86e77cf2d656a18f0dcae401", null ],
     [ "SendWarning", "d0/d5f/a07112.html#a709eb579668329424b44794df75bf85b", null ],
     [ "SetData", "d0/d5f/a07112.html#a303f65fe125aa98d5ff0a235215946c0", null ],
     [ "SetData64", "d0/d5f/a07112.html#abd7eea22cafc331cf7d818211bbaed8c", null ],

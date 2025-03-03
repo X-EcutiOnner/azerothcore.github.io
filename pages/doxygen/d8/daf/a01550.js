@@ -1,7 +1,8 @@
 var a01550 =
 [
-    [ "instance_onyxias_lair", "d4/ddf/a14744.html", "d4/ddf/a14744" ],
-    [ "instance_onyxias_lair::instance_onyxias_lair_InstanceMapScript", "df/dd6/a14748.html", "df/dd6/a14748" ],
-    [ "AddSC_instance_onyxias_lair", "d8/daf/a01550.html#a05fe21b6a553baae55b3b2523efaa9c3", null ],
-    [ "creatureData", "d8/daf/a01550.html#a412286b689bd324fedd65ddd8dde8afb", null ]
+    [ "VisibilitySettingData", "df/d7e/a09828.html", "df/d7e/a09828" ],
+    [ "DynamicVisibilityMgr", "d5/d25/a09832.html", "d5/d25/a09832" ],
+    [ "VISIBILITY_SETTINGS_MAX_INTERVAL_NUM", "d8/daf/a01550.html#ae515340ce2037b26a80e4db46e653b59", null ],
+    [ "VISIBILITY_SETTINGS_PLAYER_INTERVAL", "d8/daf/a01550.html#a2733c1a6a4018078df00a4c426661436", null ],
+    [ "VisibilitySettings", "d8/daf/a01550.html#ab01e98c3eef9241e381bb20d29d66cbd", null ]
 ];

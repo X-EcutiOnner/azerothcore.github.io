@@ -32,6 +32,7 @@ var a07408 =
     [ "UpdateFlagState", "d5/dbe/a07408.html#a8b22cc467b21c9a2d9c8a09a48957ac3", null ],
     [ "UpdatePlayerScore", "d5/dbe/a07408.html#abcf82011950e95f4683fff10e95b75c6", null ],
     [ "_bgEvents", "d5/dbe/a07408.html#a31d881439fabf4d5f918bcb4907afa08", null ],
+    [ "_configurableMaxTeamScore", "d5/dbe/a07408.html#affe8c8246a5206bd59a76941c56e5688", null ],
     [ "_droppedFlagGUID", "d5/dbe/a07408.html#a8fed1caa341eaebb2c226d83ea2078d4", null ],
     [ "_flagKeepers", "d5/dbe/a07408.html#a2765a367fc8aeeadfafe67ac6550d4e2", null ],
     [ "_flagState", "d5/dbe/a07408.html#a6b58b976d3ec6efc0d29f2015317951b", null ],

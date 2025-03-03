@@ -1,11 +1,6 @@
 var a21816 =
 [
-    [ "npc_rocket_propelled_warheadAI", "d0/df3/a21816.html#aab27045dff817457d5858c48c174f3a2", null ],
-    [ "DoAction", "d0/df3/a21816.html#abfd9618bd029ae56d846cac9cf5b7e80", null ],
-    [ "FinishQuest", "d0/df3/a21816.html#a1ccb00801fbfc87cbe04f19dc15e4a10", null ],
-    [ "JustReachedHome", "d0/df3/a21816.html#a680f46b5d7c88bafc5d3af669e9886ef", null ],
-    [ "PassengerBoarded", "d0/df3/a21816.html#aba8121b207be2c7be161d9ea0c903d6e", null ],
-    [ "SpellHit", "d0/df3/a21816.html#ae347c0817e145ec333bd5b1c87dd01ef", null ],
-    [ "_faction", "d0/df3/a21816.html#a423bead0525222a132e22531f640c461", null ],
-    [ "_finished", "d0/df3/a21816.html#ad676c377ea08cbb33f1ff226f864849c", null ]
+    [ "npc_rocket_propelled_warheadAI", "de/dcc/a21820.html", "de/dcc/a21820" ],
+    [ "npc_rocket_propelled_warhead", "d0/df3/a21816.html#a5c945efc6e3ca847363ac47abc5f51ca", null ],
+    [ "GetAI", "d0/df3/a21816.html#a803702c480107d197845a0ef447a5380", null ]
 ];

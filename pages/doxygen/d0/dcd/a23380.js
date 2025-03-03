@@ -1,6 +1,7 @@
 var a23380 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "da/d37/a23384.html", "da/d37/a23384" ],
-    [ "instance_blood_furnace", "d0/dcd/a23380.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "d0/dcd/a23380.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "boss_the_maker", "d0/dcd/a23380.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
+    [ "JustDied", "d0/dcd/a23380.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
+    [ "JustEngagedWith", "d0/dcd/a23380.html#a6b0a4442dbabde69ca9352017ee23675", null ],
+    [ "KilledUnit", "d0/dcd/a23380.html#a40643ca00fe7d7029a291335e47c722a", null ]
 ];

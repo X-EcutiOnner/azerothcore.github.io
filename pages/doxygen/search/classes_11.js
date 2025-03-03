@@ -1,7 +1,7 @@
 var searchData=
 [
   ['qemote_0',['QEmote',['../d1/d51/a09544.html',1,'']]],
-  ['quaternion_1',['Quaternion',['../d3/db7/a28600.html',1,'']]],
+  ['quaternion_1',['Quaternion',['../d7/d4d/a28604.html',1,'']]],
   ['querycallback_2',['QueryCallback',['../d8/dde/a05792.html',1,'']]],
   ['querycallbackdata_3',['QueryCallbackData',['../de/dc9/a05784.html',1,'QueryCallback']]],
   ['queryguildinfo_4',['QueryGuildInfo',['../d6/d30/a10476.html',1,'WorldPackets::Guild']]],
@@ -10,9 +10,9 @@ var searchData=
   ['quest_7',['quest',['../d7/dc7/a07748.html',1,'Acore::Hyperlinks::LinkTags']]],
   ['quest_8',['Quest',['../d4/dc0/a10120.html',1,'']]],
   ['quest_5fcommandscript_9',['quest_commandscript',['../d6/dae/a11668.html',1,'']]],
-  ['questapprenticeanglerplayerscript_10',['QuestApprenticeAnglerPlayerScript',['../df/d35/a27524.html',1,'']]],
+  ['questapprenticeanglerplayerscript_10',['QuestApprenticeAnglerPlayerScript',['../de/da4/a27528.html',1,'']]],
   ['questcinematic_11',['QuestCinematic',['../d1/d75/a15384.html',1,'']]],
-  ['questfactionrewentry_12',['QuestFactionRewEntry',['../dc/d65/a28120.html',1,'']]],
+  ['questfactionrewentry_12',['QuestFactionRewEntry',['../d7/d06/a28124.html',1,'']]],
   ['questgreeting_13',['QuestGreeting',['../dd/d24/a08968.html',1,'']]],
   ['questitem_14',['QuestItem',['../d2/d1c/a09644.html',1,'']]],
   ['questlinkdata_15',['QuestLinkData',['../db/d25/a07716.html',1,'Acore::Hyperlinks']]],
@@ -23,9 +23,9 @@ var searchData=
   ['questpoi_20',['QuestPOI',['../de/d7c/a08984.html',1,'']]],
   ['questpoipoint_21',['QuestPOIPoint',['../d9/ddb/a08980.html',1,'']]],
   ['questrequestitemslocale_22',['QuestRequestItemsLocale',['../d9/da4/a10112.html',1,'']]],
-  ['questsortentry_23',['QuestSortEntry',['../d1/d05/a28112.html',1,'']]],
+  ['questsortentry_23',['QuestSortEntry',['../dd/d1d/a28116.html',1,'']]],
   ['queststatusdata_24',['QuestStatusData',['../da/d8f/a10124.html',1,'']]],
   ['questvisitor_25',['QuestVisitor',['../d5/d6b/a07532.html',1,'']]],
-  ['questxpentry_26',['QuestXPEntry',['../dd/d1d/a28116.html',1,'']]],
+  ['questxpentry_26',['QuestXPEntry',['../dc/d65/a28120.html',1,'']]],
   ['quotedstring_27',['QuotedString',['../de/d4e/a07644.html',1,'Acore::ChatCommands']]]
 ];

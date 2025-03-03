@@ -1,5 +1,5 @@
 var a02600 =
 [
-    [ "MapMgr", "dc/d60/a09772.html", "dc/d60/a09772" ],
-    [ "sMapMgr", "d1/d88/a02600.html#a9132749f8376c48b0ca7212eb3293905", null ]
+    [ "send_commandscript", "d3/d0f/a11680.html", "d3/d0f/a11680" ],
+    [ "AddSC_send_commandscript", "d1/d88/a02600.html#a9f3fee551f6ca7aa7dad83edb2dfe480", null ]
 ];

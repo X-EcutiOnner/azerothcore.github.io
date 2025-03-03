@@ -1,6 +1,6 @@
 var a19960 =
 [
-    [ "boss_vezaxAI", "de/d2e/a19964.html", "de/d2e/a19964" ],
-    [ "boss_vezax", "d0/dc7/a19960.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
-    [ "GetAI", "d0/dc7/a19960.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
+    [ "achievement_freya_knock_on_wood", "d0/dc7/a19960.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "d0/dc7/a19960.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "d0/dc7/a19960.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

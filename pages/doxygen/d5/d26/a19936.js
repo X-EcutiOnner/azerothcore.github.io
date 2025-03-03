@@ -1,6 +1,7 @@
 var a19936 =
 [
-    [ "boss_freya_summonsAI", "df/d78/a19940.html", "df/d78/a19940" ],
-    [ "boss_freya_summons", "d5/d26/a19936.html#a3445ed89967cc9a610472f18e862ecd4", null ],
-    [ "GetAI", "d5/d26/a19936.html#ac68f231c37c61d262d6c16bc87a0f1c7", null ]
+    [ "boss_freya_healthy_sporeAI", "d5/d26/a19936.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
+    [ "Reset", "d5/d26/a19936.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
+    [ "UpdateAI", "d5/d26/a19936.html#ace79c59d62e597ae31425b4006e1363f", null ],
+    [ "_despawnTimer", "d5/d26/a19936.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
 ];

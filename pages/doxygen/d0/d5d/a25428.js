@@ -1,6 +1,6 @@
 var a25428 =
 [
-    [ "HandleActivateObject", "d0/d5d/a25428.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "d0/d5d/a25428.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "d0/d5d/a25428.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "OnRemove", "d0/d5d/a25428.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "d0/d5d/a25428.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "d0/d5d/a25428.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

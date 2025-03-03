@@ -1,16 +1,7 @@
 var a02375 =
 [
-    [ "SmartAI", "d1/dec/a06204.html", "d1/dec/a06204" ],
-    [ "SmartGameObjectAI", "df/df2/a06208.html", "df/df2/a06208" ],
-    [ "SmartEscortState", "d6/dd7/a02375.html#a0911043eb49fd7958a828a60e0537d54", [
-      [ "SMART_ESCORT_NONE", "d6/dd7/a02375.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],
-      [ "SMART_ESCORT_ESCORTING", "d6/dd7/a02375.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19", null ],
-      [ "SMART_ESCORT_RETURNING", "d6/dd7/a02375.html#a0911043eb49fd7958a828a60e0537d54a404e4c2ac36fc3f87779560b58af7fe8", null ],
-      [ "SMART_ESCORT_PAUSED", "d6/dd7/a02375.html#a0911043eb49fd7958a828a60e0537d54a35650bf0f6f9a142acfb5b6e5cd194f7", null ]
-    ] ],
-    [ "SmartEscortVars", "d6/dd7/a02375.html#a598eb331d977fa893d589fe3e6cebfbf", [
-      [ "SMART_ESCORT_MAX_PLAYER_DIST", "d6/dd7/a02375.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba", null ],
-      [ "SMART_MAX_AID_DIST", "d6/dd7/a02375.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f", null ]
-    ] ],
-    [ "AddSC_SmartScripts", "d6/dd7/a02375.html#ab6012619ba76775b314475ec60f8c7d7", null ]
+    [ "AuraApplication", "da/d95/a11008.html", "da/d95/a11008" ],
+    [ "Aura", "d0/d19/a11012.html", "d0/d19/a11012" ],
+    [ "UnitAura", "d6/d60/a11016.html", "d6/d60/a11016" ],
+    [ "DynObjAura", "d8/d39/a11020.html", "d8/d39/a11020" ]
 ];

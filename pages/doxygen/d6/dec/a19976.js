@@ -1,6 +1,7 @@
 var a19976 =
 [
-    [ "npc_ulduar_saronite_animusAI", "df/d0c/a19980.html", "df/d0c/a19980" ],
-    [ "npc_ulduar_saronite_animus", "d6/dec/a19976.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
-    [ "GetAI", "d6/dec/a19976.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "d6/dec/a19976.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
+    [ "IsSummonedBy", "d6/dec/a19976.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
+    [ "JustDied", "d6/dec/a19976.html#a5be637500e7b5735d90e19fa40fde467", null ],
+    [ "pInstance", "d6/dec/a19976.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
 ];

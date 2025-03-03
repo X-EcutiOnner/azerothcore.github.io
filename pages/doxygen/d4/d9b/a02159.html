@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Spells/spell_druid.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Skills/SkillExtraItems.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,388 +106,437 @@ $(document).ready(function(){initNavTree('d4/d9b/a02159.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">spell_druid.cpp File Reference</div></div>
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">SkillExtraItems.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Containers.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">SkillExtraItems.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
+<code>#include &lt;map&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/da1/a24516.html">spell_dru_bear_form_passive</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d08/a10992.html">SkillPerfectItemEntry</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d6b/a24520.html">spell_dru_t10_balance_4p_bonus</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d0f/a24524.html">spell_dru_nurturing_instinct</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6a/a24528.html">spell_dru_feral_swiftness</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d7b/a24532.html">spell_dru_omen_of_clarity</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d02/a24536.html">spell_dru_brambles_treant</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db3/a24540.html">spell_dru_barkskin</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8a/a24544.html">spell_dru_treant_scaling</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d1b/a24548.html">spell_dru_dash</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da4/a24552.html">spell_dru_dash_aura</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d60/a24556.html">spell_dru_enrage</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0a/a24560.html">spell_dru_glyph_of_starfire</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d13/a24564.html">spell_dru_idol_lifebloom</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d76/a24568.html">spell_dru_innervate</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d54/a24572.html">spell_dru_lifebloom</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7d/a24576.html">spell_dru_living_seed</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da8/a24580.html">spell_dru_living_seed_proc</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d8c/a24584.html">spell_dru_moonkin_form_passive</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d2c/a24588.html">spell_dru_owlkin_frenzy</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd9/a24592.html">spell_dru_predatory_strikes</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dee/a24596.html">spell_dru_primal_tenacity</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a24600.html">spell_dru_rip</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d19/a24604.html">spell_dru_savage_defense</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d75/a24608.html">spell_dru_savage_roar</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7d/a24612.html">spell_dru_savage_roar_aura</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6a/a24616.html">spell_dru_starfall_aoe</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a24620.html">spell_dru_starfall_dummy</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/da8/a24624.html">spell_dru_survival_instincts</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc3/a24628.html">spell_dru_survival_instincts_aura</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/daa/a24632.html">spell_dru_swift_flight_passive</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a24636.html">spell_dru_tiger_s_fury</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d82/a24640.html">spell_dru_typhoon</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d9c/a24644.html">spell_dru_t10_restoration_4p_bonus</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dd2/a24648.html">spell_dru_wild_growth</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d97/a24652.html">spell_dru_berserk</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dd5/a24656.html">spell_dru_moonkin_form_passive_proc</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5a/a10996.html">SkillExtraItemEntry</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:aeec0f89a5dcaf62f9b5fd1225eb6eb1a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1a">DruidSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aac43770776c730b3c88b493bed042462b">SPELL_DRUID_GLYPH_OF_WILD_GROWTH</a> = 62970
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa24b90b2d8dde3e8d8914f01d97c64112">SPELL_DRUID_NURTURING_INSTINCT_R1</a> = 47179
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aae6bf5518ab7223463ce1465c897fd03b">SPELL_DRUID_NURTURING_INSTINCT_R2</a> = 47180
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa56bff0d053bc0c44a38d8c9d95c34db0">SPELL_DRUID_FERAL_SWIFTNESS_R1</a> = 17002
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa39b69126ff195446dc1e72ed645aed69">SPELL_DRUID_FERAL_SWIFTNESS_R2</a> = 24866
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa921eb1535e040fef851ec331102a9898">SPELL_DRUID_FERAL_SWIFTNESS_PASSIVE_1</a> = 24867
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8e22e6887acda302c1714492fdf61e5f">SPELL_DRUID_FERAL_SWIFTNESS_PASSIVE_2</a> = 24864
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaed00d3a73ad875ac079bacfcc16b8d32">SPELL_DRUID_BARKSKIN</a> = 22812
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aabfe6485285f5539b3705474000802994">SPELL_DRUID_GLYPH_OF_BARKSKIN</a> = 63057
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa169585e7af75c7f2db089d80ace1aabc">SPELL_DRUID_GLYPH_OF_BARKSKIN_TRIGGER</a> = 63058
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafd1e1ce959d89c122214d1fb3e0c7e19">SPELL_DRUID_ENRAGE_MOD_DAMAGE</a> = 51185
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aabdc0b8800b5ff2e7095610d105e95b43">SPELL_DRUID_GLYPH_OF_TYPHOON</a> = 62135
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aab2f0227374bf8cf242f90030d2036e52">SPELL_DRUID_IDOL_OF_FERAL_SHADOWS</a> = 34241
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aab9b33771c7b8f4b0cb1324467fe5dee1">SPELL_DRUID_IDOL_OF_WORSHIP</a> = 60774
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa95ff42df74127d552b64aa085444c84e">SPELL_DRUID_INCREASED_MOONFIRE_DURATION</a> = 38414
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa16b4870dab6a2db9c385e81846da44ce">SPELL_DRUID_KING_OF_THE_JUNGLE</a> = 48492
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa1605d3965d3e1b75036c4b0e195305aa">SPELL_DRUID_LIFEBLOOM_ENERGIZE</a> = 64372
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa895665962e90432edbc01fa19a569f7d">SPELL_DRUID_LIFEBLOOM_FINAL_HEAL</a> = 33778
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa4aa4ba7e8bc7f2846f30ca118d9ea48e">SPELL_DRUID_LIVING_SEED_HEAL</a> = 48503
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa2cd0b9433923ab65c602e065441b1699">SPELL_DRUID_LIVING_SEED_PROC</a> = 48504
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafc64a3d350cde7bf976131ee147e98f3">SPELL_DRUID_NATURES_SPLENDOR</a> = 57865
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa99de59401390ffd56a0c649a99bb5984">SPELL_DRUID_SURVIVAL_INSTINCTS</a> = 50322
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8848336863e7282906e103c1e331c5d3">SPELL_DRUID_SAVAGE_ROAR</a> = 62071
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aae4e8b9a2c1d7ce7ed2e4af53a29fff18">SPELL_DRUID_TIGER_S_FURY_ENERGIZE</a> = 51178
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa9a8ec039dd1fa308bb6c1539e5e2636d">SPELL_DRUID_BEAR_FORM_PASSIVE</a> = 1178
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa3ad555030739fe26ee239493463a02d3">SPELL_DRUID_DIRE_BEAR_FORM_PASSIVE</a> = 9635
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaded62a15e612b1c8d9072830fced9b89">SPELL_DRUID_ENRAGE</a> = 5229
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8836a7dd192185fba9a8bfdb2617c92a">SPELL_DRUID_ENRAGED_DEFENSE</a> = 70725
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa91d73263b7be89766a9ae47e448062ea">SPELL_DRUID_ITEM_T10_FERAL_4P_BONUS</a> = 70726
-<br />
- }</td></tr>
-<tr class="separator:aeec0f89a5dcaf62f9b5fd1225eb6eb1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2f101649b277b64d4fef3e463e8a78cf"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9b/a02159.html#a2f101649b277b64d4fef3e463e8a78cf">DruidIcons</a> { <a class="el" href="../../d4/d9b/a02159.html#a2f101649b277b64d4fef3e463e8a78cfa55e519f0adbc29ad93e7525bd6741d20">SPELL_ICON_REVITALIZE</a> = 2862
- }</td></tr>
-<tr class="separator:a2f101649b277b64d4fef3e463e8a78cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:ad732be66d93ed6e8f498077f27e2766b"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d5/d08/a10992.html">SkillPerfectItemEntry</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9b/a02159.html#ad732be66d93ed6e8f498077f27e2766b">SkillPerfectItemMap</a></td></tr>
+<tr class="separator:ad732be66d93ed6e8f498077f27e2766b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ba2d7d2e815aee57a701990b858db7b"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dc/d5a/a10996.html">SkillExtraItemEntry</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9b/a02159.html#a9ba2d7d2e815aee57a701990b858db7b">SkillExtraItemMap</a></td></tr>
+<tr class="separator:a9ba2d7d2e815aee57a701990b858db7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a27c286499ee0c44de84c8f14e5c82d50"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9b/a02159.html#a27c286499ee0c44de84c8f14e5c82d50">AddSC_druid_spell_scripts</a> ()</td></tr>
-<tr class="separator:a27c286499ee0c44de84c8f14e5c82d50"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a121df170a82be5ab5b05999a6be27b69"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9b/a02159.html#a121df170a82be5ab5b05999a6be27b69">LoadSkillPerfectItemTable</a> ()</td></tr>
+<tr class="separator:a121df170a82be5ab5b05999a6be27b69"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3244d04018405bafe21acc8bc96cc743"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9b/a02159.html#a3244d04018405bafe21acc8bc96cc743">LoadSkillExtraItemTable</a> ()</td></tr>
+<tr class="separator:a3244d04018405bafe21acc8bc96cc743"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a818c557864790091814604b6d2175e52"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9b/a02159.html#a818c557864790091814604b6d2175e52">CanCreatePerfectItem</a> (<a class="el" href="../../d2/d57/a08572.html">Player</a> *player, <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId, float &amp;perfectCreateChance, <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;perfectItemType)</td></tr>
+<tr class="separator:a818c557864790091814604b6d2175e52"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49687e255d65fa15dac5e6a428c5739d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9b/a02159.html#a49687e255d65fa15dac5e6a428c5739d">canCreateExtraItems</a> (<a class="el" href="../../d2/d57/a08572.html">Player</a> *player, <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId, float &amp;additionalChance, <a class="el" href="../../d5/d35/a00266.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &amp;newMaxOrEntry)</td></tr>
+<tr class="separator:a49687e255d65fa15dac5e6a428c5739d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:ac676f0acbf782fa2d31bd66b8eaa8260"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d9b/a02159.html#ad732be66d93ed6e8f498077f27e2766b">SkillPerfectItemMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9b/a02159.html#ac676f0acbf782fa2d31bd66b8eaa8260">SkillPerfectItemStore</a></td></tr>
+<tr class="separator:ac676f0acbf782fa2d31bd66b8eaa8260"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acc52416c05fbae29bcbfa9f0683485cd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d9b/a02159.html#a9ba2d7d2e815aee57a701990b858db7b">SkillExtraItemMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d9b/a02159.html#acc52416c05fbae29bcbfa9f0683485cd">SkillExtraItemStore</a></td></tr>
+<tr class="separator:acc52416c05fbae29bcbfa9f0683485cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a2f101649b277b64d4fef3e463e8a78cf" name="a2f101649b277b64d4fef3e463e8a78cf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2f101649b277b64d4fef3e463e8a78cf">&#9670;&#160;</a></span>DruidIcons</h2>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a9ba2d7d2e815aee57a701990b858db7b" name="a9ba2d7d2e815aee57a701990b858db7b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9ba2d7d2e815aee57a701990b858db7b">&#9670;&#160;</a></span>SkillExtraItemMap</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d4/d9b/a02159.html#a2f101649b277b64d4fef3e463e8a78cf">DruidIcons</a></td>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dc/d5a/a10996.html">SkillExtraItemEntry</a>&gt; <a class="el" href="../../d4/d9b/a02159.html#a9ba2d7d2e815aee57a701990b858db7b">SkillExtraItemMap</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2f101649b277b64d4fef3e463e8a78cfa55e519f0adbc29ad93e7525bd6741d20" name="a2f101649b277b64d4fef3e463e8a78cfa55e519f0adbc29ad93e7525bd6741d20"></a>SPELL_ICON_REVITALIZE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   66</span>{</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#a2f101649b277b64d4fef3e463e8a78cfa55e519f0adbc29ad93e7525bd6741d20">SPELL_ICON_REVITALIZE</a>                   = 2862</div>
-<div class="line"><span class="lineno">   68</span>};</div>
-<div class="ttc" id="aa02159_html_a2f101649b277b64d4fef3e463e8a78cfa55e519f0adbc29ad93e7525bd6741d20"><div class="ttname"><a href="../../d4/d9b/a02159.html#a2f101649b277b64d4fef3e463e8a78cfa55e519f0adbc29ad93e7525bd6741d20">SPELL_ICON_REVITALIZE</a></div><div class="ttdeci">@ SPELL_ICON_REVITALIZE</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:67</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
-<a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1a" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeec0f89a5dcaf62f9b5fd1225eb6eb1a">&#9670;&#160;</a></span>DruidSpells</h2>
+<a id="ad732be66d93ed6e8f498077f27e2766b" name="ad732be66d93ed6e8f498077f27e2766b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad732be66d93ed6e8f498077f27e2766b">&#9670;&#160;</a></span>SkillPerfectItemMap</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1a">DruidSpells</a></td>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d5/d08/a10992.html">SkillPerfectItemEntry</a>&gt; <a class="el" href="../../d4/d9b/a02159.html#ad732be66d93ed6e8f498077f27e2766b">SkillPerfectItemMap</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aac43770776c730b3c88b493bed042462b" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aac43770776c730b3c88b493bed042462b"></a>SPELL_DRUID_GLYPH_OF_WILD_GROWTH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa24b90b2d8dde3e8d8914f01d97c64112" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa24b90b2d8dde3e8d8914f01d97c64112"></a>SPELL_DRUID_NURTURING_INSTINCT_R1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aae6bf5518ab7223463ce1465c897fd03b" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aae6bf5518ab7223463ce1465c897fd03b"></a>SPELL_DRUID_NURTURING_INSTINCT_R2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa56bff0d053bc0c44a38d8c9d95c34db0" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa56bff0d053bc0c44a38d8c9d95c34db0"></a>SPELL_DRUID_FERAL_SWIFTNESS_R1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa39b69126ff195446dc1e72ed645aed69" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa39b69126ff195446dc1e72ed645aed69"></a>SPELL_DRUID_FERAL_SWIFTNESS_R2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa921eb1535e040fef851ec331102a9898" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa921eb1535e040fef851ec331102a9898"></a>SPELL_DRUID_FERAL_SWIFTNESS_PASSIVE_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8e22e6887acda302c1714492fdf61e5f" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8e22e6887acda302c1714492fdf61e5f"></a>SPELL_DRUID_FERAL_SWIFTNESS_PASSIVE_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aaed00d3a73ad875ac079bacfcc16b8d32" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aaed00d3a73ad875ac079bacfcc16b8d32"></a>SPELL_DRUID_BARKSKIN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aabfe6485285f5539b3705474000802994" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aabfe6485285f5539b3705474000802994"></a>SPELL_DRUID_GLYPH_OF_BARKSKIN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa169585e7af75c7f2db089d80ace1aabc" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa169585e7af75c7f2db089d80ace1aabc"></a>SPELL_DRUID_GLYPH_OF_BARKSKIN_TRIGGER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aafd1e1ce959d89c122214d1fb3e0c7e19" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aafd1e1ce959d89c122214d1fb3e0c7e19"></a>SPELL_DRUID_ENRAGE_MOD_DAMAGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aabdc0b8800b5ff2e7095610d105e95b43" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aabdc0b8800b5ff2e7095610d105e95b43"></a>SPELL_DRUID_GLYPH_OF_TYPHOON&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aab2f0227374bf8cf242f90030d2036e52" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aab2f0227374bf8cf242f90030d2036e52"></a>SPELL_DRUID_IDOL_OF_FERAL_SHADOWS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aab9b33771c7b8f4b0cb1324467fe5dee1" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aab9b33771c7b8f4b0cb1324467fe5dee1"></a>SPELL_DRUID_IDOL_OF_WORSHIP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa95ff42df74127d552b64aa085444c84e" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa95ff42df74127d552b64aa085444c84e"></a>SPELL_DRUID_INCREASED_MOONFIRE_DURATION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa16b4870dab6a2db9c385e81846da44ce" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa16b4870dab6a2db9c385e81846da44ce"></a>SPELL_DRUID_KING_OF_THE_JUNGLE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa1605d3965d3e1b75036c4b0e195305aa" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa1605d3965d3e1b75036c4b0e195305aa"></a>SPELL_DRUID_LIFEBLOOM_ENERGIZE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa895665962e90432edbc01fa19a569f7d" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa895665962e90432edbc01fa19a569f7d"></a>SPELL_DRUID_LIFEBLOOM_FINAL_HEAL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa4aa4ba7e8bc7f2846f30ca118d9ea48e" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa4aa4ba7e8bc7f2846f30ca118d9ea48e"></a>SPELL_DRUID_LIVING_SEED_HEAL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa2cd0b9433923ab65c602e065441b1699" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa2cd0b9433923ab65c602e065441b1699"></a>SPELL_DRUID_LIVING_SEED_PROC&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aafc64a3d350cde7bf976131ee147e98f3" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aafc64a3d350cde7bf976131ee147e98f3"></a>SPELL_DRUID_NATURES_SPLENDOR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa99de59401390ffd56a0c649a99bb5984" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa99de59401390ffd56a0c649a99bb5984"></a>SPELL_DRUID_SURVIVAL_INSTINCTS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8848336863e7282906e103c1e331c5d3" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8848336863e7282906e103c1e331c5d3"></a>SPELL_DRUID_SAVAGE_ROAR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aae4e8b9a2c1d7ce7ed2e4af53a29fff18" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aae4e8b9a2c1d7ce7ed2e4af53a29fff18"></a>SPELL_DRUID_TIGER_S_FURY_ENERGIZE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa9a8ec039dd1fa308bb6c1539e5e2636d" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa9a8ec039dd1fa308bb6c1539e5e2636d"></a>SPELL_DRUID_BEAR_FORM_PASSIVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa3ad555030739fe26ee239493463a02d3" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa3ad555030739fe26ee239493463a02d3"></a>SPELL_DRUID_DIRE_BEAR_FORM_PASSIVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aaded62a15e612b1c8d9072830fced9b89" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aaded62a15e612b1c8d9072830fced9b89"></a>SPELL_DRUID_ENRAGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8836a7dd192185fba9a8bfdb2617c92a" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8836a7dd192185fba9a8bfdb2617c92a"></a>SPELL_DRUID_ENRAGED_DEFENSE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa91d73263b7be89766a9ae47e448062ea" name="aeec0f89a5dcaf62f9b5fd1225eb6eb1aa91d73263b7be89766a9ae47e448062ea"></a>SPELL_DRUID_ITEM_T10_FERAL_4P_BONUS&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aac43770776c730b3c88b493bed042462b">SPELL_DRUID_GLYPH_OF_WILD_GROWTH</a>        = 62970,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa24b90b2d8dde3e8d8914f01d97c64112">SPELL_DRUID_NURTURING_INSTINCT_R1</a>       = 47179,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aae6bf5518ab7223463ce1465c897fd03b">SPELL_DRUID_NURTURING_INSTINCT_R2</a>       = 47180,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa56bff0d053bc0c44a38d8c9d95c34db0">SPELL_DRUID_FERAL_SWIFTNESS_R1</a>          = 17002,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa39b69126ff195446dc1e72ed645aed69">SPELL_DRUID_FERAL_SWIFTNESS_R2</a>          = 24866,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa921eb1535e040fef851ec331102a9898">SPELL_DRUID_FERAL_SWIFTNESS_PASSIVE_1</a>   = 24867,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8e22e6887acda302c1714492fdf61e5f">SPELL_DRUID_FERAL_SWIFTNESS_PASSIVE_2</a>   = 24864,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaed00d3a73ad875ac079bacfcc16b8d32">SPELL_DRUID_BARKSKIN</a>                    = 22812,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aabfe6485285f5539b3705474000802994">SPELL_DRUID_GLYPH_OF_BARKSKIN</a>           = 63057,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa169585e7af75c7f2db089d80ace1aabc">SPELL_DRUID_GLYPH_OF_BARKSKIN_TRIGGER</a>   = 63058,</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafd1e1ce959d89c122214d1fb3e0c7e19">SPELL_DRUID_ENRAGE_MOD_DAMAGE</a>           = 51185,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aabdc0b8800b5ff2e7095610d105e95b43">SPELL_DRUID_GLYPH_OF_TYPHOON</a>            = 62135,</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aab2f0227374bf8cf242f90030d2036e52">SPELL_DRUID_IDOL_OF_FERAL_SHADOWS</a>       = 34241,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aab9b33771c7b8f4b0cb1324467fe5dee1">SPELL_DRUID_IDOL_OF_WORSHIP</a>             = 60774,</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa95ff42df74127d552b64aa085444c84e">SPELL_DRUID_INCREASED_MOONFIRE_DURATION</a> = 38414,</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa16b4870dab6a2db9c385e81846da44ce">SPELL_DRUID_KING_OF_THE_JUNGLE</a>          = 48492,</div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa1605d3965d3e1b75036c4b0e195305aa">SPELL_DRUID_LIFEBLOOM_ENERGIZE</a>          = 64372,</div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa895665962e90432edbc01fa19a569f7d">SPELL_DRUID_LIFEBLOOM_FINAL_HEAL</a>        = 33778,</div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa4aa4ba7e8bc7f2846f30ca118d9ea48e">SPELL_DRUID_LIVING_SEED_HEAL</a>            = 48503,</div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa2cd0b9433923ab65c602e065441b1699">SPELL_DRUID_LIVING_SEED_PROC</a>            = 48504,</div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafc64a3d350cde7bf976131ee147e98f3">SPELL_DRUID_NATURES_SPLENDOR</a>            = 57865,</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa99de59401390ffd56a0c649a99bb5984">SPELL_DRUID_SURVIVAL_INSTINCTS</a>          = 50322,</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8848336863e7282906e103c1e331c5d3">SPELL_DRUID_SAVAGE_ROAR</a>                 = 62071,</div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aae4e8b9a2c1d7ce7ed2e4af53a29fff18">SPELL_DRUID_TIGER_S_FURY_ENERGIZE</a>       = 51178,</div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa9a8ec039dd1fa308bb6c1539e5e2636d">SPELL_DRUID_BEAR_FORM_PASSIVE</a>           = 1178,</div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa3ad555030739fe26ee239493463a02d3">SPELL_DRUID_DIRE_BEAR_FORM_PASSIVE</a>      = 9635,</div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaded62a15e612b1c8d9072830fced9b89">SPELL_DRUID_ENRAGE</a>                      = 5229,</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8836a7dd192185fba9a8bfdb2617c92a">SPELL_DRUID_ENRAGED_DEFENSE</a>             = 70725,</div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa91d73263b7be89766a9ae47e448062ea">SPELL_DRUID_ITEM_T10_FERAL_4P_BONUS</a>     = 70726,</div>
-<div class="line"><span class="lineno">   63</span>};</div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa1605d3965d3e1b75036c4b0e195305aa"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa1605d3965d3e1b75036c4b0e195305aa">SPELL_DRUID_LIFEBLOOM_ENERGIZE</a></div><div class="ttdeci">@ SPELL_DRUID_LIFEBLOOM_ENERGIZE</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:50</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa169585e7af75c7f2db089d80ace1aabc"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa169585e7af75c7f2db089d80ace1aabc">SPELL_DRUID_GLYPH_OF_BARKSKIN_TRIGGER</a></div><div class="ttdeci">@ SPELL_DRUID_GLYPH_OF_BARKSKIN_TRIGGER</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:43</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa16b4870dab6a2db9c385e81846da44ce"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa16b4870dab6a2db9c385e81846da44ce">SPELL_DRUID_KING_OF_THE_JUNGLE</a></div><div class="ttdeci">@ SPELL_DRUID_KING_OF_THE_JUNGLE</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:49</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa24b90b2d8dde3e8d8914f01d97c64112"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa24b90b2d8dde3e8d8914f01d97c64112">SPELL_DRUID_NURTURING_INSTINCT_R1</a></div><div class="ttdeci">@ SPELL_DRUID_NURTURING_INSTINCT_R1</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:35</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa2cd0b9433923ab65c602e065441b1699"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa2cd0b9433923ab65c602e065441b1699">SPELL_DRUID_LIVING_SEED_PROC</a></div><div class="ttdeci">@ SPELL_DRUID_LIVING_SEED_PROC</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:53</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa39b69126ff195446dc1e72ed645aed69"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa39b69126ff195446dc1e72ed645aed69">SPELL_DRUID_FERAL_SWIFTNESS_R2</a></div><div class="ttdeci">@ SPELL_DRUID_FERAL_SWIFTNESS_R2</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:38</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa3ad555030739fe26ee239493463a02d3"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa3ad555030739fe26ee239493463a02d3">SPELL_DRUID_DIRE_BEAR_FORM_PASSIVE</a></div><div class="ttdeci">@ SPELL_DRUID_DIRE_BEAR_FORM_PASSIVE</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:59</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa4aa4ba7e8bc7f2846f30ca118d9ea48e"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa4aa4ba7e8bc7f2846f30ca118d9ea48e">SPELL_DRUID_LIVING_SEED_HEAL</a></div><div class="ttdeci">@ SPELL_DRUID_LIVING_SEED_HEAL</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:52</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa56bff0d053bc0c44a38d8c9d95c34db0"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa56bff0d053bc0c44a38d8c9d95c34db0">SPELL_DRUID_FERAL_SWIFTNESS_R1</a></div><div class="ttdeci">@ SPELL_DRUID_FERAL_SWIFTNESS_R1</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:37</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8836a7dd192185fba9a8bfdb2617c92a"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8836a7dd192185fba9a8bfdb2617c92a">SPELL_DRUID_ENRAGED_DEFENSE</a></div><div class="ttdeci">@ SPELL_DRUID_ENRAGED_DEFENSE</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:61</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8848336863e7282906e103c1e331c5d3"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8848336863e7282906e103c1e331c5d3">SPELL_DRUID_SAVAGE_ROAR</a></div><div class="ttdeci">@ SPELL_DRUID_SAVAGE_ROAR</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:56</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa895665962e90432edbc01fa19a569f7d"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa895665962e90432edbc01fa19a569f7d">SPELL_DRUID_LIFEBLOOM_FINAL_HEAL</a></div><div class="ttdeci">@ SPELL_DRUID_LIFEBLOOM_FINAL_HEAL</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:51</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8e22e6887acda302c1714492fdf61e5f"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8e22e6887acda302c1714492fdf61e5f">SPELL_DRUID_FERAL_SWIFTNESS_PASSIVE_2</a></div><div class="ttdeci">@ SPELL_DRUID_FERAL_SWIFTNESS_PASSIVE_2</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:40</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa91d73263b7be89766a9ae47e448062ea"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa91d73263b7be89766a9ae47e448062ea">SPELL_DRUID_ITEM_T10_FERAL_4P_BONUS</a></div><div class="ttdeci">@ SPELL_DRUID_ITEM_T10_FERAL_4P_BONUS</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:62</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa921eb1535e040fef851ec331102a9898"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa921eb1535e040fef851ec331102a9898">SPELL_DRUID_FERAL_SWIFTNESS_PASSIVE_1</a></div><div class="ttdeci">@ SPELL_DRUID_FERAL_SWIFTNESS_PASSIVE_1</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:39</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa95ff42df74127d552b64aa085444c84e"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa95ff42df74127d552b64aa085444c84e">SPELL_DRUID_INCREASED_MOONFIRE_DURATION</a></div><div class="ttdeci">@ SPELL_DRUID_INCREASED_MOONFIRE_DURATION</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:48</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa99de59401390ffd56a0c649a99bb5984"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa99de59401390ffd56a0c649a99bb5984">SPELL_DRUID_SURVIVAL_INSTINCTS</a></div><div class="ttdeci">@ SPELL_DRUID_SURVIVAL_INSTINCTS</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:55</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa9a8ec039dd1fa308bb6c1539e5e2636d"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa9a8ec039dd1fa308bb6c1539e5e2636d">SPELL_DRUID_BEAR_FORM_PASSIVE</a></div><div class="ttdeci">@ SPELL_DRUID_BEAR_FORM_PASSIVE</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:58</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aab2f0227374bf8cf242f90030d2036e52"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aab2f0227374bf8cf242f90030d2036e52">SPELL_DRUID_IDOL_OF_FERAL_SHADOWS</a></div><div class="ttdeci">@ SPELL_DRUID_IDOL_OF_FERAL_SHADOWS</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:46</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aab9b33771c7b8f4b0cb1324467fe5dee1"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aab9b33771c7b8f4b0cb1324467fe5dee1">SPELL_DRUID_IDOL_OF_WORSHIP</a></div><div class="ttdeci">@ SPELL_DRUID_IDOL_OF_WORSHIP</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:47</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aabdc0b8800b5ff2e7095610d105e95b43"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aabdc0b8800b5ff2e7095610d105e95b43">SPELL_DRUID_GLYPH_OF_TYPHOON</a></div><div class="ttdeci">@ SPELL_DRUID_GLYPH_OF_TYPHOON</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:45</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aabfe6485285f5539b3705474000802994"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aabfe6485285f5539b3705474000802994">SPELL_DRUID_GLYPH_OF_BARKSKIN</a></div><div class="ttdeci">@ SPELL_DRUID_GLYPH_OF_BARKSKIN</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:42</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aac43770776c730b3c88b493bed042462b"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aac43770776c730b3c88b493bed042462b">SPELL_DRUID_GLYPH_OF_WILD_GROWTH</a></div><div class="ttdeci">@ SPELL_DRUID_GLYPH_OF_WILD_GROWTH</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:34</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aaded62a15e612b1c8d9072830fced9b89"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaded62a15e612b1c8d9072830fced9b89">SPELL_DRUID_ENRAGE</a></div><div class="ttdeci">@ SPELL_DRUID_ENRAGE</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:60</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aae4e8b9a2c1d7ce7ed2e4af53a29fff18"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aae4e8b9a2c1d7ce7ed2e4af53a29fff18">SPELL_DRUID_TIGER_S_FURY_ENERGIZE</a></div><div class="ttdeci">@ SPELL_DRUID_TIGER_S_FURY_ENERGIZE</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:57</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aae6bf5518ab7223463ce1465c897fd03b"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aae6bf5518ab7223463ce1465c897fd03b">SPELL_DRUID_NURTURING_INSTINCT_R2</a></div><div class="ttdeci">@ SPELL_DRUID_NURTURING_INSTINCT_R2</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:36</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aaed00d3a73ad875ac079bacfcc16b8d32"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaed00d3a73ad875ac079bacfcc16b8d32">SPELL_DRUID_BARKSKIN</a></div><div class="ttdeci">@ SPELL_DRUID_BARKSKIN</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:41</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aafc64a3d350cde7bf976131ee147e98f3"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafc64a3d350cde7bf976131ee147e98f3">SPELL_DRUID_NATURES_SPLENDOR</a></div><div class="ttdeci">@ SPELL_DRUID_NATURES_SPLENDOR</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:54</div></div>
-<div class="ttc" id="aa02159_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aafd1e1ce959d89c122214d1fb3e0c7e19"><div class="ttname"><a href="../../d4/d9b/a02159.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafd1e1ce959d89c122214d1fb3e0c7e19">SPELL_DRUID_ENRAGE_MOD_DAMAGE</a></div><div class="ttdeci">@ SPELL_DRUID_ENRAGE_MOD_DAMAGE</div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:44</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a27c286499ee0c44de84c8f14e5c82d50" name="a27c286499ee0c44de84c8f14e5c82d50"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a27c286499ee0c44de84c8f14e5c82d50">&#9670;&#160;</a></span>AddSC_druid_spell_scripts()</h2>
+<a id="a49687e255d65fa15dac5e6a428c5739d" name="a49687e255d65fa15dac5e6a428c5739d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49687e255d65fa15dac5e6a428c5739d">&#9670;&#160;</a></span>canCreateExtraItems()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_druid_spell_scripts </td>
+          <td class="memname">bool canCreateExtraItems </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d57/a08572.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>spellId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>additionalChance</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &amp;&#160;</td>
+          <td class="paramname"><em>newMaxOrEntry</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  227</span>{</div>
+<div class="line"><span class="lineno">  228</span>    <span class="comment">// get the info for the specified spell</span></div>
+<div class="line"><span class="lineno">  229</span>    SkillExtraItemMap::const_iterator ret = <a class="code hl_variable" href="../../d4/d9b/a02159.html#acc52416c05fbae29bcbfa9f0683485cd">SkillExtraItemStore</a>.find(spellId);</div>
+<div class="line"><span class="lineno">  230</span>    <span class="keywordflow">if</span> (ret == <a class="code hl_variable" href="../../d4/d9b/a02159.html#acc52416c05fbae29bcbfa9f0683485cd">SkillExtraItemStore</a>.end())</div>
+<div class="line"><span class="lineno">  231</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  232</span> </div>
+<div class="line"><span class="lineno">  233</span>    <a class="code hl_struct" href="../../dc/d5a/a10996.html">SkillExtraItemEntry</a> <span class="keyword">const</span>* specEntry = &amp;ret-&gt;second;</div>
+<div class="line"><span class="lineno">  234</span> </div>
+<div class="line"><span class="lineno">  235</span>    <span class="comment">// if no entry, then no extra items can be created</span></div>
+<div class="line"><span class="lineno">  236</span>    <span class="keywordflow">if</span> (!specEntry)</div>
+<div class="line"><span class="lineno">  237</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  238</span> </div>
+<div class="line"><span class="lineno">  239</span>    <span class="comment">// the player doesn&#39;t have the required specialization, return false</span></div>
+<div class="line"><span class="lineno">  240</span>    <span class="keywordflow">if</span> (!player-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#ad0b702ec9df9626312843eb9a44742df">HasSpell</a>(specEntry-&gt;<a class="code hl_variable" href="../../dc/d5a/a10996.html#a0ba0ba6f012a10b717ca4e6c2f46cf26">requiredSpecialization</a>))</div>
+<div class="line"><span class="lineno">  241</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  242</span> </div>
+<div class="line"><span class="lineno">  243</span>    <span class="comment">// set the arguments to the appropriate values</span></div>
+<div class="line"><span class="lineno">  244</span>    additionalChance = specEntry-&gt;<a class="code hl_variable" href="../../dc/d5a/a10996.html#a299d886468e9caf22f9d6ce80a64c247">additionalCreateChance</a>;</div>
+<div class="line"><span class="lineno">  245</span>    newMaxOrEntry = specEntry-&gt;<a class="code hl_variable" href="../../dc/d5a/a10996.html#adfda967d36154b039495f0b289a5c9d1">newMaxOrEntry</a>;</div>
+<div class="line"><span class="lineno">  246</span> </div>
+<div class="line"><span class="lineno">  247</span>    <span class="comment">// enable extra item creation</span></div>
+<div class="line"><span class="lineno">  248</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  249</span>}</div>
+<div class="ttc" id="aa02159_html_acc52416c05fbae29bcbfa9f0683485cd"><div class="ttname"><a href="../../d4/d9b/a02159.html#acc52416c05fbae29bcbfa9f0683485cd">SkillExtraItemStore</a></div><div class="ttdeci">SkillExtraItemMap SkillExtraItemStore</div><div class="ttdef"><b>Definition:</b> SkillExtraItems.cpp:135</div></div>
+<div class="ttc" id="aa08572_html_ad0b702ec9df9626312843eb9a44742df"><div class="ttname"><a href="../../d2/d57/a08572.html#ad0b702ec9df9626312843eb9a44742df">Player::HasSpell</a></div><div class="ttdeci">bool HasSpell(uint32 spell) const override</div><div class="ttdef"><b>Definition:</b> Player.cpp:3895</div></div>
+<div class="ttc" id="aa10996_html"><div class="ttname"><a href="../../dc/d5a/a10996.html">SkillExtraItemEntry</a></div><div class="ttdef"><b>Definition:</b> SkillExtraItems.cpp:117</div></div>
+<div class="ttc" id="aa10996_html_a0ba0ba6f012a10b717ca4e6c2f46cf26"><div class="ttname"><a href="../../dc/d5a/a10996.html#a0ba0ba6f012a10b717ca4e6c2f46cf26">SkillExtraItemEntry::requiredSpecialization</a></div><div class="ttdeci">uint32 requiredSpecialization</div><div class="ttdef"><b>Definition:</b> SkillExtraItems.cpp:119</div></div>
+<div class="ttc" id="aa10996_html_a299d886468e9caf22f9d6ce80a64c247"><div class="ttname"><a href="../../dc/d5a/a10996.html#a299d886468e9caf22f9d6ce80a64c247">SkillExtraItemEntry::additionalCreateChance</a></div><div class="ttdeci">float additionalCreateChance</div><div class="ttdef"><b>Definition:</b> SkillExtraItems.cpp:121</div></div>
+<div class="ttc" id="aa10996_html_adfda967d36154b039495f0b289a5c9d1"><div class="ttname"><a href="../../dc/d5a/a10996.html#adfda967d36154b039495f0b289a5c9d1">SkillExtraItemEntry::newMaxOrEntry</a></div><div class="ttdeci">int32 newMaxOrEntry</div><div class="ttdef"><b>Definition:</b> SkillExtraItems.cpp:123</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00121">SkillExtraItemEntry::additionalCreateChance</a>, <a class="el" href="../../#l03895">Player::HasSpell()</a>, <a class="el" href="../../#l00123">SkillExtraItemEntry::newMaxOrEntry</a>, <a class="el" href="../../#l00119">SkillExtraItemEntry::requiredSpecialization</a>, and <a class="el" href="../../#l00135">SkillExtraItemStore</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01647">Spell::DoCreateItem()</a>.</p>
+
+</div>
+</div>
+<a id="a818c557864790091814604b6d2175e52" name="a818c557864790091814604b6d2175e52"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a818c557864790091814604b6d2175e52">&#9670;&#160;</a></span>CanCreatePerfectItem()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool CanCreatePerfectItem </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d57/a08572.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>spellId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>perfectCreateChance</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td>
+          <td class="paramname"><em>perfectItemType</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  203</span>{</div>
+<div class="line"><span class="lineno">  204</span>    SkillPerfectItemMap::const_iterator ret = <a class="code hl_variable" href="../../d4/d9b/a02159.html#ac676f0acbf782fa2d31bd66b8eaa8260">SkillPerfectItemStore</a>.find(spellId);</div>
+<div class="line"><span class="lineno">  205</span>    <span class="comment">// no entry in DB means no perfection proc possible</span></div>
+<div class="line"><span class="lineno">  206</span>    <span class="keywordflow">if</span> (ret == <a class="code hl_variable" href="../../d4/d9b/a02159.html#ac676f0acbf782fa2d31bd66b8eaa8260">SkillPerfectItemStore</a>.end())</div>
+<div class="line"><span class="lineno">  207</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  208</span> </div>
+<div class="line"><span class="lineno">  209</span>    <a class="code hl_struct" href="../../d5/d08/a10992.html">SkillPerfectItemEntry</a> <span class="keyword">const</span>* thisEntry = &amp;ret-&gt;second;</div>
+<div class="line"><span class="lineno">  210</span>    <span class="comment">// lack of entry means no perfection proc possible</span></div>
+<div class="line"><span class="lineno">  211</span>    <span class="keywordflow">if</span> (!thisEntry)</div>
+<div class="line"><span class="lineno">  212</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  213</span> </div>
+<div class="line"><span class="lineno">  214</span>    <span class="comment">// if you don&#39;t have the spell needed, then no procs for you</span></div>
+<div class="line"><span class="lineno">  215</span>    <span class="keywordflow">if</span> (!player-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#ad0b702ec9df9626312843eb9a44742df">HasSpell</a>(thisEntry-&gt;<a class="code hl_variable" href="../../d5/d08/a10992.html#aa7ad968ab1b8804ee8f0f8f40bc6f762">requiredSpecialization</a>))</div>
+<div class="line"><span class="lineno">  216</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  217</span> </div>
+<div class="line"><span class="lineno">  218</span>    <span class="comment">// set values as appropriate</span></div>
+<div class="line"><span class="lineno">  219</span>    perfectCreateChance = thisEntry-&gt;<a class="code hl_variable" href="../../d5/d08/a10992.html#a750d5ab6bc3df0026e640f1c84de8547">perfectCreateChance</a>;</div>
+<div class="line"><span class="lineno">  220</span>    perfectItemType = thisEntry-&gt;<a class="code hl_variable" href="../../d5/d08/a10992.html#a057605f8867d4df5cb290318598a2908">perfectItemType</a>;</div>
+<div class="line"><span class="lineno">  221</span> </div>
+<div class="line"><span class="lineno">  222</span>    <span class="comment">// and tell the caller to start rolling the dice</span></div>
+<div class="line"><span class="lineno">  223</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  224</span>}</div>
+<div class="ttc" id="aa02159_html_ac676f0acbf782fa2d31bd66b8eaa8260"><div class="ttname"><a href="../../d4/d9b/a02159.html#ac676f0acbf782fa2d31bd66b8eaa8260">SkillPerfectItemStore</a></div><div class="ttdeci">SkillPerfectItemMap SkillPerfectItemStore</div><div class="ttdef"><b>Definition:</b> SkillExtraItems.cpp:49</div></div>
+<div class="ttc" id="aa10992_html"><div class="ttname"><a href="../../d5/d08/a10992.html">SkillPerfectItemEntry</a></div><div class="ttdef"><b>Definition:</b> SkillExtraItems.cpp:32</div></div>
+<div class="ttc" id="aa10992_html_a057605f8867d4df5cb290318598a2908"><div class="ttname"><a href="../../d5/d08/a10992.html#a057605f8867d4df5cb290318598a2908">SkillPerfectItemEntry::perfectItemType</a></div><div class="ttdeci">uint32 perfectItemType</div><div class="ttdef"><b>Definition:</b> SkillExtraItems.cpp:38</div></div>
+<div class="ttc" id="aa10992_html_a750d5ab6bc3df0026e640f1c84de8547"><div class="ttname"><a href="../../d5/d08/a10992.html#a750d5ab6bc3df0026e640f1c84de8547">SkillPerfectItemEntry::perfectCreateChance</a></div><div class="ttdeci">float perfectCreateChance</div><div class="ttdef"><b>Definition:</b> SkillExtraItems.cpp:36</div></div>
+<div class="ttc" id="aa10992_html_aa7ad968ab1b8804ee8f0f8f40bc6f762"><div class="ttname"><a href="../../d5/d08/a10992.html#aa7ad968ab1b8804ee8f0f8f40bc6f762">SkillPerfectItemEntry::requiredSpecialization</a></div><div class="ttdeci">uint32 requiredSpecialization</div><div class="ttdef"><b>Definition:</b> SkillExtraItems.cpp:34</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l03895">Player::HasSpell()</a>, <a class="el" href="../../#l00036">SkillPerfectItemEntry::perfectCreateChance</a>, <a class="el" href="../../#l00038">SkillPerfectItemEntry::perfectItemType</a>, <a class="el" href="../../#l00034">SkillPerfectItemEntry::requiredSpecialization</a>, and <a class="el" href="../../#l00049">SkillPerfectItemStore</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01647">Spell::DoCreateItem()</a>.</p>
+
+</div>
+</div>
+<a id="a3244d04018405bafe21acc8bc96cc743" name="a3244d04018405bafe21acc8bc96cc743"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3244d04018405bafe21acc8bc96cc743">&#9670;&#160;</a></span>LoadSkillExtraItemTable()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void LoadSkillExtraItemTable </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1198</span>{</div>
-<div class="line"><span class="lineno"> 1199</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/da1/a24516.html">spell_dru_bear_form_passive</a>);</div>
-<div class="line"><span class="lineno"> 1200</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/d6b/a24520.html">spell_dru_t10_balance_4p_bonus</a>);</div>
-<div class="line"><span class="lineno"> 1201</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/d0f/a24524.html">spell_dru_nurturing_instinct</a>);</div>
-<div class="line"><span class="lineno"> 1202</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d3/d6a/a24528.html">spell_dru_feral_swiftness</a>);</div>
-<div class="line"><span class="lineno"> 1203</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dc/d7b/a24532.html">spell_dru_omen_of_clarity</a>);</div>
-<div class="line"><span class="lineno"> 1204</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d02/a24536.html">spell_dru_brambles_treant</a>);</div>
-<div class="line"><span class="lineno"> 1205</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/db3/a24540.html">spell_dru_barkskin</a>);</div>
-<div class="line"><span class="lineno"> 1206</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/d8a/a24544.html">spell_dru_treant_scaling</a>);</div>
-<div class="line"><span class="lineno"> 1207</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/d97/a24652.html">spell_dru_berserk</a>);</div>
-<div class="line"><span class="lineno"> 1208</span>    <a class="code hl_define" href="../../df/d44/a03857.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../d9/d1b/a24548.html">spell_dru_dash</a>, <a class="code hl_class" href="../../db/da4/a24552.html">spell_dru_dash_aura</a>);</div>
-<div class="line"><span class="lineno"> 1209</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/d60/a24556.html">spell_dru_enrage</a>);</div>
-<div class="line"><span class="lineno"> 1210</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/d0a/a24560.html">spell_dru_glyph_of_starfire</a>);</div>
-<div class="line"><span class="lineno"> 1211</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/d13/a24564.html">spell_dru_idol_lifebloom</a>);</div>
-<div class="line"><span class="lineno"> 1212</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../db/d76/a24568.html">spell_dru_innervate</a>);</div>
-<div class="line"><span class="lineno"> 1213</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d54/a24572.html">spell_dru_lifebloom</a>);</div>
-<div class="line"><span class="lineno"> 1214</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/d7d/a24576.html">spell_dru_living_seed</a>);</div>
-<div class="line"><span class="lineno"> 1215</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d7/da8/a24580.html">spell_dru_living_seed_proc</a>);</div>
-<div class="line"><span class="lineno"> 1216</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/d8c/a24584.html">spell_dru_moonkin_form_passive</a>);</div>
-<div class="line"><span class="lineno"> 1217</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d0/d2c/a24588.html">spell_dru_owlkin_frenzy</a>);</div>
-<div class="line"><span class="lineno"> 1218</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dc/dd9/a24592.html">spell_dru_predatory_strikes</a>);</div>
-<div class="line"><span class="lineno"> 1219</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/dee/a24596.html">spell_dru_primal_tenacity</a>);</div>
-<div class="line"><span class="lineno"> 1220</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/dcf/a24600.html">spell_dru_rip</a>);</div>
-<div class="line"><span class="lineno"> 1221</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/d19/a24604.html">spell_dru_savage_defense</a>);</div>
-<div class="line"><span class="lineno"> 1222</span>    <a class="code hl_define" href="../../df/d44/a03857.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../d4/d75/a24608.html">spell_dru_savage_roar</a>, <a class="code hl_class" href="../../d3/d7d/a24612.html">spell_dru_savage_roar_aura</a>);</div>
-<div class="line"><span class="lineno"> 1223</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/d6a/a24616.html">spell_dru_starfall_aoe</a>);</div>
-<div class="line"><span class="lineno"> 1224</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/d4c/a24620.html">spell_dru_starfall_dummy</a>);</div>
-<div class="line"><span class="lineno"> 1225</span>    <a class="code hl_define" href="../../df/d44/a03857.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../d8/da8/a24624.html">spell_dru_survival_instincts</a>, <a class="code hl_class" href="../../d8/dc3/a24628.html">spell_dru_survival_instincts_aura</a>);</div>
-<div class="line"><span class="lineno"> 1226</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/daa/a24632.html">spell_dru_swift_flight_passive</a>);</div>
-<div class="line"><span class="lineno"> 1227</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/d2a/a24636.html">spell_dru_tiger_s_fury</a>);</div>
-<div class="line"><span class="lineno"> 1228</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../db/d82/a24640.html">spell_dru_typhoon</a>);</div>
-<div class="line"><span class="lineno"> 1229</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/d9c/a24644.html">spell_dru_t10_restoration_4p_bonus</a>);</div>
-<div class="line"><span class="lineno"> 1230</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/dd2/a24648.html">spell_dru_wild_growth</a>);</div>
-<div class="line"><span class="lineno"> 1231</span>    <a class="code hl_define" href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/dd5/a24656.html">spell_dru_moonkin_form_passive_proc</a>);</div>
-<div class="line"><span class="lineno"> 1232</span>}</div>
-<div class="ttc" id="aa03857_html_a69b21d1b83cecaba944f4e9379bc866c"><div class="ttname"><a href="../../df/d44/a03857.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a></div><div class="ttdeci">#define RegisterSpellAndAuraScriptPair(script_1, script_2)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:90</div></div>
-<div class="ttc" id="aa03857_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../df/d44/a03857.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aa24516_html"><div class="ttname"><a href="../../d5/da1/a24516.html">spell_dru_bear_form_passive</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:73</div></div>
-<div class="ttc" id="aa24520_html"><div class="ttname"><a href="../../de/d6b/a24520.html">spell_dru_t10_balance_4p_bonus</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:112</div></div>
-<div class="ttc" id="aa24524_html"><div class="ttname"><a href="../../d9/d0f/a24524.html">spell_dru_nurturing_instinct</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:142</div></div>
-<div class="ttc" id="aa24528_html"><div class="ttname"><a href="../../d3/d6a/a24528.html">spell_dru_feral_swiftness</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:167</div></div>
-<div class="ttc" id="aa24532_html"><div class="ttname"><a href="../../dc/d7b/a24532.html">spell_dru_omen_of_clarity</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:192</div></div>
-<div class="ttc" id="aa24536_html"><div class="ttname"><a href="../../d2/d02/a24536.html">spell_dru_brambles_treant</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:249</div></div>
-<div class="ttc" id="aa24540_html"><div class="ttname"><a href="../../da/db3/a24540.html">spell_dru_barkskin</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:285</div></div>
-<div class="ttc" id="aa24544_html"><div class="ttname"><a href="../../d5/d8a/a24544.html">spell_dru_treant_scaling</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:311</div></div>
-<div class="ttc" id="aa24548_html"><div class="ttname"><a href="../../d9/d1b/a24548.html">spell_dru_dash</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:392</div></div>
-<div class="ttc" id="aa24552_html"><div class="ttname"><a href="../../db/da4/a24552.html">spell_dru_dash_aura</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:415</div></div>
-<div class="ttc" id="aa24556_html"><div class="ttname"><a href="../../d8/d60/a24556.html">spell_dru_enrage</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:435</div></div>
-<div class="ttc" id="aa24560_html"><div class="ttname"><a href="../../d8/d0a/a24560.html">spell_dru_glyph_of_starfire</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:491</div></div>
-<div class="ttc" id="aa24564_html"><div class="ttname"><a href="../../de/d13/a24564.html">spell_dru_idol_lifebloom</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:531</div></div>
-<div class="ttc" id="aa24568_html"><div class="ttname"><a href="../../db/d76/a24568.html">spell_dru_innervate</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:555</div></div>
-<div class="ttc" id="aa24572_html"><div class="ttname"><a href="../../d2/d54/a24572.html">spell_dru_lifebloom</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:574</div></div>
-<div class="ttc" id="aa24576_html"><div class="ttname"><a href="../../d9/d7d/a24576.html">spell_dru_living_seed</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:637</div></div>
-<div class="ttc" id="aa24580_html"><div class="ttname"><a href="../../d7/da8/a24580.html">spell_dru_living_seed_proc</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:666</div></div>
-<div class="ttc" id="aa24584_html"><div class="ttname"><a href="../../d9/d8c/a24584.html">spell_dru_moonkin_form_passive</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:688</div></div>
-<div class="ttc" id="aa24588_html"><div class="ttname"><a href="../../d0/d2c/a24588.html">spell_dru_owlkin_frenzy</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:721</div></div>
-<div class="ttc" id="aa24592_html"><div class="ttname"><a href="../../dc/dd9/a24592.html">spell_dru_predatory_strikes</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:737</div></div>
-<div class="ttc" id="aa24596_html"><div class="ttname"><a href="../../d2/dee/a24596.html">spell_dru_primal_tenacity</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:755</div></div>
-<div class="ttc" id="aa24600_html"><div class="ttname"><a href="../../d8/dcf/a24600.html">spell_dru_rip</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:788</div></div>
-<div class="ttc" id="aa24604_html"><div class="ttname"><a href="../../d5/d19/a24604.html">spell_dru_savage_defense</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:825</div></div>
-<div class="ttc" id="aa24608_html"><div class="ttname"><a href="../../d4/d75/a24608.html">spell_dru_savage_roar</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:857</div></div>
-<div class="ttc" id="aa24612_html"><div class="ttname"><a href="../../d3/d7d/a24612.html">spell_dru_savage_roar_aura</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:876</div></div>
-<div class="ttc" id="aa24616_html"><div class="ttname"><a href="../../d6/d6a/a24616.html">spell_dru_starfall_aoe</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:904</div></div>
-<div class="ttc" id="aa24620_html"><div class="ttname"><a href="../../de/d4c/a24620.html">spell_dru_starfall_dummy</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:920</div></div>
-<div class="ttc" id="aa24624_html"><div class="ttname"><a href="../../d8/da8/a24624.html">spell_dru_survival_instincts</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:955</div></div>
-<div class="ttc" id="aa24628_html"><div class="ttname"><a href="../../d8/dc3/a24628.html">spell_dru_survival_instincts_aura</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:974</div></div>
-<div class="ttc" id="aa24632_html"><div class="ttname"><a href="../../d1/daa/a24632.html">spell_dru_swift_flight_passive</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:1003</div></div>
-<div class="ttc" id="aa24636_html"><div class="ttname"><a href="../../d4/d2a/a24636.html">spell_dru_tiger_s_fury</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:1026</div></div>
-<div class="ttc" id="aa24640_html"><div class="ttname"><a href="../../db/d82/a24640.html">spell_dru_typhoon</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:1043</div></div>
-<div class="ttc" id="aa24644_html"><div class="ttname"><a href="../../df/d9c/a24644.html">spell_dru_t10_restoration_4p_bonus</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:1061</div></div>
-<div class="ttc" id="aa24648_html"><div class="ttname"><a href="../../d9/dd2/a24648.html">spell_dru_wild_growth</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:1105</div></div>
-<div class="ttc" id="aa24652_html"><div class="ttname"><a href="../../da/d97/a24652.html">spell_dru_berserk</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:1147</div></div>
-<div class="ttc" id="aa24656_html"><div class="ttname"><a href="../../d5/dd5/a24656.html">spell_dru_moonkin_form_passive_proc</a></div><div class="ttdef"><b>Definition:</b> spell_druid.cpp:1178</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  139</span>{</div>
+<div class="line"><span class="lineno">  140</span>    <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d5/db5/a00374.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">  141</span> </div>
+<div class="line"><span class="lineno">  142</span>    <a class="code hl_variable" href="../../d4/d9b/a02159.html#acc52416c05fbae29bcbfa9f0683485cd">SkillExtraItemStore</a>.clear();                            <span class="comment">// need for reload</span></div>
+<div class="line"><span class="lineno">  143</span> </div>
+<div class="line"><span class="lineno">  144</span>    <span class="comment">//                                                  0               1                       2                    3</span></div>
+<div class="line"><span class="lineno">  145</span>    <a class="code hl_typedef" href="../../d1/d2b/a04652.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../dd/db6/a04580.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.Query(<span class="stringliteral">&quot;SELECT spellId, requiredSpecialization, additionalCreateChance, additionalMaxNum FROM skill_extra_item_template&quot;</span>);</div>
+<div class="line"><span class="lineno">  146</span> </div>
+<div class="line"><span class="lineno">  147</span>    <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">  148</span>    {</div>
+<div class="line"><span class="lineno">  149</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 spell specialization definitions. DB table `skill_extra_item_template` is empty.&quot;</span>);</div>
+<div class="line"><span class="lineno">  150</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  151</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  152</span>    }</div>
+<div class="line"><span class="lineno">  153</span> </div>
+<div class="line"><span class="lineno">  154</span>    <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
+<div class="line"><span class="lineno">  155</span> </div>
+<div class="line"><span class="lineno">  156</span>    <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">  157</span>    {</div>
+<div class="line"><span class="lineno">  158</span>        <a class="code hl_class" href="../../d6/d0e/a05676.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">  159</span> </div>
+<div class="line"><span class="lineno">  160</span>        <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = fields[0].<a class="code hl_function" href="../../d6/d0e/a05676.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  161</span> </div>
+<div class="line"><span class="lineno">  162</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../dd/d1b/a02351.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(spellId))</div>
+<div class="line"><span class="lineno">  163</span>        {</div>
+<div class="line"><span class="lineno">  164</span>            <a class="code hl_define" href="../../d8/df0/a00557.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Skill specialization {} has non-existent spell id in `skill_extra_item_template`!&quot;</span>, spellId);</div>
+<div class="line"><span class="lineno">  165</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  166</span>        }</div>
+<div class="line"><span class="lineno">  167</span> </div>
+<div class="line"><span class="lineno">  168</span>        <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> requiredSpecialization = fields[1].<a class="code hl_function" href="../../d6/d0e/a05676.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  169</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../dd/d1b/a02351.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(requiredSpecialization))</div>
+<div class="line"><span class="lineno">  170</span>        {</div>
+<div class="line"><span class="lineno">  171</span>            <a class="code hl_define" href="../../d8/df0/a00557.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Skill specialization {} have not existed required specialization spell id {} in `skill_extra_item_template`!&quot;</span>, spellId, requiredSpecialization);</div>
+<div class="line"><span class="lineno">  172</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  173</span>        }</div>
+<div class="line"><span class="lineno">  174</span> </div>
+<div class="line"><span class="lineno">  175</span>        <span class="keywordtype">float</span> additionalCreateChance = fields[2].<a class="code hl_function" href="../../d6/d0e/a05676.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;();</div>
+<div class="line"><span class="lineno">  176</span>        <span class="keywordflow">if</span> (additionalCreateChance &lt;= 0.0f)</div>
+<div class="line"><span class="lineno">  177</span>        {</div>
+<div class="line"><span class="lineno">  178</span>            <a class="code hl_define" href="../../d8/df0/a00557.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Skill specialization {} has too low additional create chance in `skill_extra_item_template`!&quot;</span>, spellId);</div>
+<div class="line"><span class="lineno">  179</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  180</span>        }</div>
+<div class="line"><span class="lineno">  181</span> </div>
+<div class="line"><span class="lineno">  182</span>        <a class="code hl_typedef" href="../../d5/d35/a00266.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> newMaxOrEntry = fields[3].<a class="code hl_function" href="../../d6/d0e/a05676.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d5/d35/a00266.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;();</div>
+<div class="line"><span class="lineno">  183</span>        <span class="keywordflow">if</span> (!newMaxOrEntry)</div>
+<div class="line"><span class="lineno">  184</span>        {</div>
+<div class="line"><span class="lineno">  185</span>            <a class="code hl_define" href="../../d8/df0/a00557.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Skill specialization {} has 0 max number of extra items in `skill_extra_item_template`!&quot;</span>, spellId);</div>
+<div class="line"><span class="lineno">  186</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  187</span>        }</div>
+<div class="line"><span class="lineno">  188</span> </div>
+<div class="line"><span class="lineno">  189</span>        <a class="code hl_struct" href="../../dc/d5a/a10996.html">SkillExtraItemEntry</a>&amp; skillExtraItemEntry = <a class="code hl_variable" href="../../d4/d9b/a02159.html#acc52416c05fbae29bcbfa9f0683485cd">SkillExtraItemStore</a>[spellId];</div>
+<div class="line"><span class="lineno">  190</span> </div>
+<div class="line"><span class="lineno">  191</span>        skillExtraItemEntry.<a class="code hl_variable" href="../../dc/d5a/a10996.html#a0ba0ba6f012a10b717ca4e6c2f46cf26">requiredSpecialization</a> = requiredSpecialization;</div>
+<div class="line"><span class="lineno">  192</span>        skillExtraItemEntry.<a class="code hl_variable" href="../../dc/d5a/a10996.html#a299d886468e9caf22f9d6ce80a64c247">additionalCreateChance</a> = additionalCreateChance;</div>
+<div class="line"><span class="lineno">  193</span>        skillExtraItemEntry.<a class="code hl_variable" href="../../dc/d5a/a10996.html#adfda967d36154b039495f0b289a5c9d1">newMaxOrEntry</a>          = newMaxOrEntry;</div>
+<div class="line"><span class="lineno">  194</span> </div>
+<div class="line"><span class="lineno">  195</span>        ++count;</div>
+<div class="line"><span class="lineno">  196</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">  197</span> </div>
+<div class="line"><span class="lineno">  198</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} spell specialization definitions in {} ms&quot;</span>, count, <a class="code hl_function" href="../../d5/db5/a00374.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">  199</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  200</span>}</div>
+<div class="ttc" id="aa00266_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../d5/d35/a00266.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
+<div class="ttc" id="aa00266_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00374_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../d5/db5/a00374.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
+<div class="ttc" id="aa00374_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d5/db5/a00374.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
+<div class="ttc" id="aa00557_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d8/df0/a00557.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:165</div></div>
+<div class="ttc" id="aa00557_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d8/df0/a00557.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
+<div class="ttc" id="aa00557_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d8/df0/a00557.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:161</div></div>
+<div class="ttc" id="aa02351_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../dd/d1b/a02351.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:825</div></div>
+<div class="ttc" id="aa04580_html_afa9a6509f9913c9c7dd3081523badd7c"><div class="ttname"><a href="../../dd/db6/a04580.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; WorldDatabaseConnection &gt; WorldDatabase</div><div class="ttdoc">Accessor to the world database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:20</div></div>
+<div class="ttc" id="aa04652_html_ab0c9feeec448a181290fcb39565b8253"><div class="ttname"><a href="../../d1/d2b/a04652.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; ResultSet &gt; QueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:27</div></div>
+<div class="ttc" id="aa05676_html"><div class="ttname"><a href="../../d6/d0e/a05676.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
+<div class="ttc" id="aa05676_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d6/d0e/a05676.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00090">RegisterSpellAndAuraScriptPair</a>, and <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00121">SkillExtraItemEntry::additionalCreateChance</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00161">LOG_WARN</a>, <a class="el" href="../../#l00123">SkillExtraItemEntry::newMaxOrEntry</a>, <a class="el" href="../../#l00119">SkillExtraItemEntry::requiredSpecialization</a>, <a class="el" href="../../#l00135">SkillExtraItemStore</a>, <a class="el" href="../../#l00825">sSpellMgr</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">AddSpellsScripts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00854">reload_commandscript::HandleReloadSkillExtraItemTemplateCommand()</a>, and <a class="el" href="../../#l01273">World::SetInitialWorldSettings()</a>.</p>
+
+</div>
+</div>
+<a id="a121df170a82be5ab5b05999a6be27b69" name="a121df170a82be5ab5b05999a6be27b69"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a121df170a82be5ab5b05999a6be27b69">&#9670;&#160;</a></span>LoadSkillPerfectItemTable()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void LoadSkillPerfectItemTable </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   53</span>{</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d5/db5/a00374.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">   55</span> </div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_variable" href="../../d4/d9b/a02159.html#ac676f0acbf782fa2d31bd66b8eaa8260">SkillPerfectItemStore</a>.clear(); <span class="comment">// reload capability</span></div>
+<div class="line"><span class="lineno">   57</span> </div>
+<div class="line"><span class="lineno">   58</span>    <span class="comment">//                                                  0               1                      2                  3</span></div>
+<div class="line"><span class="lineno">   59</span>    <a class="code hl_typedef" href="../../d1/d2b/a04652.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../dd/db6/a04580.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.Query(<span class="stringliteral">&quot;SELECT spellId, requiredSpecialization, perfectCreateChance, perfectItemType FROM skill_perfect_item_template&quot;</span>);</div>
+<div class="line"><span class="lineno">   60</span> </div>
+<div class="line"><span class="lineno">   61</span>    <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">   62</span>    {</div>
+<div class="line"><span class="lineno">   63</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 spell perfection definitions. DB table `skill_perfect_item_template` is empty.&quot;</span>);</div>
+<div class="line"><span class="lineno">   64</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   65</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   66</span>    }</div>
+<div class="line"><span class="lineno">   67</span> </div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
+<div class="line"><span class="lineno">   69</span> </div>
+<div class="line"><span class="lineno">   70</span>    <span class="keywordflow">do</span> <span class="comment">/* fetch data and run sanity checks */</span></div>
+<div class="line"><span class="lineno">   71</span>    {</div>
+<div class="line"><span class="lineno">   72</span>        <a class="code hl_class" href="../../d6/d0e/a05676.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">   73</span> </div>
+<div class="line"><span class="lineno">   74</span>        <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = fields[0].<a class="code hl_function" href="../../d6/d0e/a05676.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   75</span> </div>
+<div class="line"><span class="lineno">   76</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../dd/d1b/a02351.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(spellId))</div>
+<div class="line"><span class="lineno">   77</span>        {</div>
+<div class="line"><span class="lineno">   78</span>            <a class="code hl_define" href="../../d8/df0/a00557.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Skill perfection data for spell {} has non-existent spell id in `skill_perfect_item_template`!&quot;</span>, spellId);</div>
+<div class="line"><span class="lineno">   79</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   80</span>        }</div>
+<div class="line"><span class="lineno">   81</span> </div>
+<div class="line"><span class="lineno">   82</span>        <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> requiredSpecialization = fields[1].<a class="code hl_function" href="../../d6/d0e/a05676.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   83</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../dd/d1b/a02351.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(requiredSpecialization))</div>
+<div class="line"><span class="lineno">   84</span>        {</div>
+<div class="line"><span class="lineno">   85</span>            <a class="code hl_define" href="../../d8/df0/a00557.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Skill perfection data for spell {} has non-existent required specialization spell id {} in `skill_perfect_item_template`!&quot;</span>, spellId, requiredSpecialization);</div>
+<div class="line"><span class="lineno">   86</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   87</span>        }</div>
+<div class="line"><span class="lineno">   88</span> </div>
+<div class="line"><span class="lineno">   89</span>        <span class="keywordtype">float</span> perfectCreateChance = fields[2].<a class="code hl_function" href="../../d6/d0e/a05676.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;();</div>
+<div class="line"><span class="lineno">   90</span>        <span class="keywordflow">if</span> (perfectCreateChance &lt;= 0.0f)</div>
+<div class="line"><span class="lineno">   91</span>        {</div>
+<div class="line"><span class="lineno">   92</span>            <a class="code hl_define" href="../../d8/df0/a00557.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Skill perfection data for spell {} has impossibly low proc chance in `skill_perfect_item_template`!&quot;</span>, spellId);</div>
+<div class="line"><span class="lineno">   93</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   94</span>        }</div>
+<div class="line"><span class="lineno">   95</span> </div>
+<div class="line"><span class="lineno">   96</span>        <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> perfectItemType = fields[3].<a class="code hl_function" href="../../d6/d0e/a05676.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   97</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../db/dad/a01616.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetItemTemplate(perfectItemType))</div>
+<div class="line"><span class="lineno">   98</span>        {</div>
+<div class="line"><span class="lineno">   99</span>            <a class="code hl_define" href="../../d8/df0/a00557.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Skill perfection data for spell {} references non-existent perfect item id {} in `skill_perfect_item_template`!&quot;</span>, spellId, perfectItemType);</div>
+<div class="line"><span class="lineno">  100</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  101</span>        }</div>
+<div class="line"><span class="lineno">  102</span> </div>
+<div class="line"><span class="lineno">  103</span>        <a class="code hl_struct" href="../../d5/d08/a10992.html">SkillPerfectItemEntry</a>&amp; skillPerfectItemEntry = <a class="code hl_variable" href="../../d4/d9b/a02159.html#ac676f0acbf782fa2d31bd66b8eaa8260">SkillPerfectItemStore</a>[spellId];</div>
+<div class="line"><span class="lineno">  104</span> </div>
+<div class="line"><span class="lineno">  105</span>        skillPerfectItemEntry.<a class="code hl_variable" href="../../d5/d08/a10992.html#aa7ad968ab1b8804ee8f0f8f40bc6f762">requiredSpecialization</a> = requiredSpecialization;</div>
+<div class="line"><span class="lineno">  106</span>        skillPerfectItemEntry.<a class="code hl_variable" href="../../d5/d08/a10992.html#a750d5ab6bc3df0026e640f1c84de8547">perfectCreateChance</a> = perfectCreateChance;</div>
+<div class="line"><span class="lineno">  107</span>        skillPerfectItemEntry.<a class="code hl_variable" href="../../d5/d08/a10992.html#a057605f8867d4df5cb290318598a2908">perfectItemType</a> = perfectItemType;</div>
+<div class="line"><span class="lineno">  108</span> </div>
+<div class="line"><span class="lineno">  109</span>        ++count;</div>
+<div class="line"><span class="lineno">  110</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">  111</span> </div>
+<div class="line"><span class="lineno">  112</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} spell perfection definitions in {} ms&quot;</span>, count, <a class="code hl_function" href="../../d5/db5/a00374.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">  113</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  114</span>}</div>
+<div class="ttc" id="aa01616_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../db/dad/a01616.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1643</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00161">LOG_WARN</a>, <a class="el" href="../../#l00036">SkillPerfectItemEntry::perfectCreateChance</a>, <a class="el" href="../../#l00038">SkillPerfectItemEntry::perfectItemType</a>, <a class="el" href="../../#l00034">SkillPerfectItemEntry::requiredSpecialization</a>, <a class="el" href="../../#l00049">SkillPerfectItemStore</a>, <a class="el" href="../../#l01643">sObjectMgr</a>, <a class="el" href="../../#l00825">sSpellMgr</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00845">reload_commandscript::HandleReloadSkillPerfectItemTemplateCommand()</a>, and <a class="el" href="../../#l01273">World::SetInitialWorldSettings()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="acc52416c05fbae29bcbfa9f0683485cd" name="acc52416c05fbae29bcbfa9f0683485cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acc52416c05fbae29bcbfa9f0683485cd">&#9670;&#160;</a></span>SkillExtraItemStore</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d9b/a02159.html#a9ba2d7d2e815aee57a701990b858db7b">SkillExtraItemMap</a> SkillExtraItemStore</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00226">canCreateExtraItems()</a>, and <a class="el" href="../../#l00138">LoadSkillExtraItemTable()</a>.</p>
+
+</div>
+</div>
+<a id="ac676f0acbf782fa2d31bd66b8eaa8260" name="ac676f0acbf782fa2d31bd66b8eaa8260"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac676f0acbf782fa2d31bd66b8eaa8260">&#9670;&#160;</a></span>SkillPerfectItemStore</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d9b/a02159.html#ad732be66d93ed6e8f498077f27e2766b">SkillPerfectItemMap</a> SkillPerfectItemStore</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00202">CanCreatePerfectItem()</a>, and <a class="el" href="../../#l00052">LoadSkillPerfectItemTable()</a>.</p>
 
 </div>
 </div>
@@ -496,8 +545,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_a5c81565c813a087452a284baefe3cb6.html">Spells</a></li><li class="navelem"><a class="el" href="../../d4/d9b/a02159.html">spell_druid.cpp</a></li>
-    <li class="footer">Generated on Mon Feb 24 2025 20:43:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_5a2c13ae9bc3295bd742513a14fb043b.html">Skills</a></li><li class="navelem"><a class="el" href="../../d4/d9b/a02159.html">SkillExtraItems.cpp</a></li>
+    <li class="footer">Generated on Mon Mar 3 2025 20:44:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

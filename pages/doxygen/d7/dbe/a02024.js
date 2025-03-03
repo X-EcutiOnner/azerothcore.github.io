@@ -1,5 +1,9 @@
 var a02024 =
 [
-    [ "reload_commandscript", "df/d85/a11672.html", "df/d85/a11672" ],
-    [ "AddSC_reload_commandscript", "d7/dbe/a02024.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ]
+    [ "ePoints", "d7/dbe/a02024.html#a2604bd06487e34b78d3e50cd892f3c4d", [
+      [ "POINT_LAST_POINT", "d8/de7/a02030.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
+      [ "POINT_HOME", "d8/de7/a02030.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
+      [ "POINT_COMBAT_START", "d7/dbe/a02024.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
+    ] ],
+    [ "MAX_PLAYER_DISTANCE", "d7/dbe/a02024.html#acd0b392fc88f24b24201fba8b76d33a2", null ]
 ];

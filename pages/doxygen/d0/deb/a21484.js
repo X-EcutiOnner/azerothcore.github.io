@@ -1,6 +1,5 @@
 var a21484 =
 [
-    [ "npc_counselor_talbotAI", "db/d54/a21488.html", "db/d54/a21488" ],
-    [ "npc_counselor_talbot", "d0/deb/a21484.html#a9223380bb78afeda617482bea0a3110c", null ],
-    [ "GetAI", "d0/deb/a21484.html#a3debd13352146a247d635042ecbfa155", null ]
+    [ "npc_leryssaAI", "d0/deb/a21484.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
+    [ "MovementInform", "d0/deb/a21484.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
 ];

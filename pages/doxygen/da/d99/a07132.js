@@ -31,6 +31,8 @@ var a07132 =
     [ "RemoveUpdateTenacity", "da/d99/a07132.html#a977fd7c320679b925828e446608dd3ee", null ],
     [ "SendInitWorldStatesTo", "da/d99/a07132.html#aa026d58cc32697953609008588a53c89", null ],
     [ "SendInitWorldStatesToAll", "da/d99/a07132.html#a79bbbafc8663038fecdfa4c138bcfdc2", null ],
+    [ "SendUpdateWorldStateMessage", "da/d99/a07132.html#a8ee9f67f4703a57b4c82c1fcaa4e4b89", null ],
+    [ "SendUpdateWorldStates", "da/d99/a07132.html#abae33a2f382a1c5a508a379cf34af90b", null ],
     [ "SetRelicInteractible", "da/d99/a07132.html#a4961d7cf7eeed25b1c74dc33c65d1aa2", null ],
     [ "SetupBattlefield", "da/d99/a07132.html#a62a5440a0566defcd8b7871f3c38a6ce", null ],
     [ "Update", "da/d99/a07132.html#a92fdfc90858de253d8df3cc10ee24ce5", null ],

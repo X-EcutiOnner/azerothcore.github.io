@@ -1,7 +1,8 @@
 var a23580 =
 [
-    [ "AfterApply", "d3/d04/a23580.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "d3/d04/a23580.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "d3/d04/a23580.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "d3/d04/a23580.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "boss_commander_sarannis", "d3/d04/a23580.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d3/d04/a23580.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d3/d04/a23580.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d3/d04/a23580.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d3/d04/a23580.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

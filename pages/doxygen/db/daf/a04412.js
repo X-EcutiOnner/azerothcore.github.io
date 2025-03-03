@@ -1,15 +1,19 @@
 var a04412 =
 [
-    [ "RandomEngine", "dd/d67/a05452.html", "dd/d67/a05452" ],
-    [ "frand", "db/daf/a04412.html#aa28484fcb823a22578601847e4b0ddb4", null ],
-    [ "irand", "db/daf/a04412.html#a0a5e53ee066789ecb565abc05fe36dbc", null ],
-    [ "rand32", "db/daf/a04412.html#ab91ed86274e1e52eb314784862b61696", null ],
-    [ "rand_chance", "db/daf/a04412.html#a60564a0d93e0c87809379e0c1fa7acd1", null ],
-    [ "rand_norm", "db/daf/a04412.html#ad552d8147f66d6ec0cd44271e8799599", null ],
-    [ "randtime", "db/daf/a04412.html#a2fc61a89dc958460e6eabe08d87a4021", null ],
-    [ "roll_chance_f", "db/daf/a04412.html#a4b15099bc81731469c5078a778673c94", null ],
-    [ "roll_chance_i", "db/daf/a04412.html#a50320d4edff86db31b25138ae72161ad", null ],
-    [ "urand", "db/daf/a04412.html#a3648faa6a1353eac6d2eec0b399c5aba", null ],
-    [ "urandms", "db/daf/a04412.html#a1a4ee564518371004a4d34135600bfa0", null ],
-    [ "urandweighted", "db/daf/a04412.html#a673de62907a2657190e58678691d3b36", null ]
+    [ "boss_mekgineer_steamrigger", "d4/d76/a23216.html", "d4/d76/a23216" ],
+    [ "MekgineerSteamrigger", "db/daf/a04412.html#a4766bad7859befee09dc2ce208e1c4dd", [
+      [ "SAY_MECHANICS", "db/daf/a04412.html#a4766bad7859befee09dc2ce208e1c4ddac616ae8f03c32cc59f26b5337aae84ba", null ],
+      [ "SAY_AGGRO", "db/daf/a04412.html#a4766bad7859befee09dc2ce208e1c4dda47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_SLAY", "db/daf/a04412.html#a4766bad7859befee09dc2ce208e1c4dda9e64f6e600dd42567d18006912811f75", null ],
+      [ "SAY_DEATH", "db/daf/a04412.html#a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e", null ],
+      [ "SPELL_SUPER_SHRINK_RAY", "db/daf/a04412.html#a4766bad7859befee09dc2ce208e1c4dda4499c6dfeb4c15552b20d4bdc0e63edd", null ],
+      [ "SPELL_SAW_BLADE", "db/daf/a04412.html#a4766bad7859befee09dc2ce208e1c4ddabe5ec412b26a2ffb5cd6071f90620e58", null ],
+      [ "SPELL_ELECTRIFIED_NET", "db/daf/a04412.html#a4766bad7859befee09dc2ce208e1c4dda8af7ec94d6adf009820da95c833d041a", null ],
+      [ "SPELL_ENRAGE", "db/daf/a04412.html#a4766bad7859befee09dc2ce208e1c4dda2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_MECHANICS_1", "db/daf/a04412.html#a4766bad7859befee09dc2ce208e1c4dda48f35e8fc2aae6e24c0616e4c1b13d01", null ],
+      [ "SPELL_SUMMON_MECHANICS_2", "db/daf/a04412.html#a4766bad7859befee09dc2ce208e1c4ddae60e2ad853b074c2f53e31ca1e5f8ff1", null ],
+      [ "SPELL_SUMMON_MECHANICS_3", "db/daf/a04412.html#a4766bad7859befee09dc2ce208e1c4dda5059715773c9ffed1b3ef2ff2c8f289c", null ],
+      [ "NPC_STREAMRIGGER_MECHANIC", "db/daf/a04412.html#a4766bad7859befee09dc2ce208e1c4dda6eb80a7e6891ababaf4ac14b1d9f890e", null ]
+    ] ],
+    [ "AddSC_boss_mekgineer_steamrigger", "db/daf/a04412.html#a9aa3518f4196a7c844ab6ffafbc91068", null ]
 ];

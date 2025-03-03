@@ -11,6 +11,5 @@ var a18908 =
     [ "currentPhase", "d6/d35/a18908.html#a7b0a9b9f53cded3bc24ed22c1b643a30", null ],
     [ "currentSection", "d6/d35/a18908.html#a848fbc5aa8a497ae01057c6f0ba59e7a", null ],
     [ "events", "d6/d35/a18908.html#a7cc35d445aadf1eb252482522b8cc26d", null ],
-    [ "moveRight", "d6/d35/a18908.html#a12da8a2326f0ac72e6ee8733c55139c8", null ],
-    [ "pInstance", "d6/d35/a18908.html#a4b64769f2e10e7ba598fcc115b021fd4", null ]
+    [ "moveRight", "d6/d35/a18908.html#a12da8a2326f0ac72e6ee8733c55139c8", null ]
 ];

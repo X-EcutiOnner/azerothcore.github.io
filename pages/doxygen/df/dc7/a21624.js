@@ -1,6 +1,7 @@
 var a21624 =
 [
-    [ "npc_heated_battleAI", "d3/df3/a21628.html", "d3/df3/a21628" ],
-    [ "npc_heated_battle", "df/dc7/a21624.html#aceafde04a60940c1027a6e838ffdc137", null ],
-    [ "GetAI", "df/dc7/a21624.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
+    [ "CheckRequirement", "df/dc7/a21624.html#a41beb2c890137328734d6adb14e08302", null ],
+    [ "PrepareSpellScript", "df/dc7/a21624.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
+    [ "Register", "df/dc7/a21624.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
+    [ "SetDest", "df/dc7/a21624.html#a431a556ab73f91ed63f5983e537834a5", null ]
 ];

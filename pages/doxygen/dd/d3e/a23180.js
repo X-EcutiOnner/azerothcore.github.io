@@ -1,7 +1,6 @@
 var a23180 =
 [
-    [ "HandleScriptEffect", "dd/d3e/a23180.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
-    [ "PrepareSpellScript", "dd/d3e/a23180.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
-    [ "Register", "dd/d3e/a23180.html#a14772c25b70078c0034b8de17de5b77a", null ],
-    [ "Validate", "dd/d3e/a23180.html#a8318385367bf6c6b09e0978c461f5d59", null ]
+    [ "HandleScript", "dd/d3e/a23180.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
+    [ "PrepareSpellScript", "dd/d3e/a23180.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
+    [ "Register", "dd/d3e/a23180.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
 ];

@@ -1,30 +1,20 @@
 var a01565 =
 [
-    [ "npc_shenthul", "d3/d9a/a15368.html", "d3/d9a/a15368" ],
-    [ "npc_shenthul::npc_shenthulAI", "d5/d3e/a15372.html", "d5/d3e/a15372" ],
-    [ "npc_thrall_warchief", "d3/dbe/a15376.html", "d3/dbe/a15376" ],
-    [ "npc_thrall_warchief::npc_thrall_warchiefAI", "d5/dbd/a15380.html", "d5/dbd/a15380" ],
-    [ "Shenthul", "d6/d82/a01565.html#a032512bb2693fda342f4d77dba794fbe", [
-      [ "QUEST_SHATTERED_SALUTE", "d6/d82/a01565.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0", null ]
-    ] ],
-    [ "ThrallWarchief", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9", [
-      [ "SPELL_CHAIN_LIGHTNING", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_SHOCK", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab", null ],
-      [ "QUEST_FOR_THE_HORDE", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af", null ],
-      [ "SPELL_WARCHIEF_BLESSING", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225", null ],
-      [ "NPC_HERALD_OF_THRALL", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc", null ],
-      [ "ACTION_START_TALKING", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd", null ],
-      [ "SAY_THRALL_ON_QUEST_REWARD_0", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b", null ],
-      [ "SAY_THRALL_ON_QUEST_REWARD_1", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302", null ],
-      [ "AREA_ORGRIMMAR", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9ad2dc06a1b56bb07677ef211cafd8a835", null ],
-      [ "AREA_RAZOR_HILL", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9ae88321c626be966eda1d5aca34feda6e", null ],
-      [ "AREA_CAMP_TAURAJO", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9a709f6c4a2cd059fc6e7da390a36546b9", null ],
-      [ "AREA_CROSSROADS", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9ac472b1d2152c18bfc58b3ca21b3b64ec", null ],
-      [ "GO_UNADORNED_SPIKE", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153", null ],
-      [ "QUEST_WHAT_THE_WIND_CARRIES", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287", null ],
-      [ "GOSSIP_MENU_THRALL", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86", null ],
-      [ "GOSSIP_RESPONSE_THRALL_FIRST", "d6/d82/a01565.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d", null ]
-    ] ],
-    [ "AddSC_orgrimmar", "d6/d82/a01565.html#aec4388ea6d2e4bbc1d279b3a4687c4c6", null ],
-    [ "heraldOfThrallPos", "d6/d82/a01565.html#a016aeee1d0eac9c78c522520663670f0", null ]
+    [ "lfg::LfgQueueData", "d7/d97/a07928.html", "d7/d97/a07928" ],
+    [ "lfg::LfgWaitTime", "d2/d55/a07932.html", "d2/d55/a07932" ],
+    [ "lfg::LFGQueue", "d7/dfe/a07936.html", "d7/dfe/a07936" ],
+    [ "LfgCompatibleContainer", "d6/d82/a01565.html#a96438cca4cead6c1fc5d31ef643129e9", null ],
+    [ "LfgQueueDataContainer", "d6/d82/a01565.html#aa2afec59ce753c11c3d8fddf4fb33991", null ],
+    [ "LfgWaitTimesContainer", "d6/d82/a01565.html#a58714a43cbdc03f4008681528fb20447", null ],
+    [ "LfgCompatibility", "d6/d82/a01565.html#a33c5b3513de4cd3c5a525f31008618b6", [
+      [ "LFG_COMPATIBILITY_PENDING", "d6/d82/a01565.html#a33c5b3513de4cd3c5a525f31008618b6a9bd6f6c66c07537c541c6cf47da9311a", null ],
+      [ "LFG_INCOMPATIBLES_WRONG_GROUP_SIZE", "d6/d82/a01565.html#a33c5b3513de4cd3c5a525f31008618b6ab6f6918e09882dce7eb53394dc960123", null ],
+      [ "LFG_INCOMPATIBLES_TOO_MUCH_PLAYERS", "d6/d82/a01565.html#a33c5b3513de4cd3c5a525f31008618b6aab66f0e7b36ded30473ed953e96346a1", null ],
+      [ "LFG_INCOMPATIBLES_MULTIPLE_LFG_GROUPS", "d6/d82/a01565.html#a33c5b3513de4cd3c5a525f31008618b6a5c52733040385425e0b4fafbbe962c57", null ],
+      [ "LFG_INCOMPATIBLES_HAS_IGNORES", "d6/d82/a01565.html#a33c5b3513de4cd3c5a525f31008618b6a232b96c8bc336a74ef0d50fe5092b21b", null ],
+      [ "LFG_INCOMPATIBLES_NO_ROLES", "d6/d82/a01565.html#a33c5b3513de4cd3c5a525f31008618b6ad009d10da76a97578ce600e26e253a63", null ],
+      [ "LFG_INCOMPATIBLES_NO_DUNGEONS", "d6/d82/a01565.html#a33c5b3513de4cd3c5a525f31008618b6a6db8294000b56babf9050ec1fa80bd33", null ],
+      [ "LFG_COMPATIBLES_WITH_LESS_PLAYERS", "d6/d82/a01565.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e", null ],
+      [ "LFG_COMPATIBLES_MATCH", "d6/d82/a01565.html#a33c5b3513de4cd3c5a525f31008618b6a9dc8d1185a27e48d0f6953fccaa49ba0", null ]
+    ] ]
 ];

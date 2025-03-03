@@ -1,6 +1,6 @@
 var a20716 =
 [
-    [ "boss_yoggsaron_descend_portalAI", "d9/d83/a20716.html#a50ddd1d7b1d4a2e729657e53dfee43f2", null ],
-    [ "OnSpellClick", "d9/d83/a20716.html#aba032a7347230db028d1e939944d3f46", null ],
-    [ "_instance", "d9/d83/a20716.html#a477abf19a0b5bf9865550541877a29d7", null ]
+    [ "boss_yoggsaron_descend_portalAI", "d8/d9d/a20720.html", "d8/d9d/a20720" ],
+    [ "boss_yoggsaron_descend_portal", "d9/d83/a20716.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
+    [ "GetAI", "d9/d83/a20716.html#aceb50c808eed17ca468a80b823af1907", null ]
 ];

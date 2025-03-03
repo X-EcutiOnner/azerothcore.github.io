@@ -1,7 +1,6 @@
 var a21676 =
 [
-    [ "FilterTargets", "d1/d94/a21676.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "d1/d94/a21676.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "d1/d94/a21676.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "d1/d94/a21676.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "GhoulTargetCheck", "d1/d94/a21676.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "d1/d94/a21676.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "d1/d94/a21676.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

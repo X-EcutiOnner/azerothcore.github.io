@@ -1,21 +1,16 @@
 var a02195 =
 [
-    [ "TSpellSummary", "df/d5b/a06102.html", "df/d5b/a06102" ],
-    [ "eNPCs", "df/d0e/a02195.html#abaecf87f40b40c4c71ec596a0b73e911", [
-      [ "NPC_BROODLORD", "df/d0e/a02195.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
-      [ "NPC_JAN_ALAI", "df/d0e/a02195.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],
-      [ "NPC_SARTHARION", "df/d0e/a02195.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10", null ],
-      [ "NPC_FREYA", "df/d0e/a02195.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752", null ],
-      [ "NPC_INGVAR_UNDEAD", "d1/d0c/a02666.html#abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906", null ],
-      [ "NPC_ANNHYLDE", "d1/d0c/a02666.html#abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4", null ],
-      [ "NPC_THROW", "d1/d0c/a02666.html#abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546", null ],
-      [ "NPC_FROST_TOMB", "db/d86/a02663.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76", null ],
-      [ "NPC_SKELETON", "db/d86/a02663.html#abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3", null ]
-    ] ],
-    [ "GetClosestCreatureWithEntry", "df/d0e/a02195.html#a136c0c059281a05f9cb91237ce55be7b", null ],
-    [ "GetClosestGameObjectWithEntry", "df/d0e/a02195.html#a80b13d7c0fa3b835b0834955ed0f93d8", null ],
-    [ "GetCreatureListWithEntryInGrid", "df/d0e/a02195.html#ab6a8246d473139627106be4651f6329d", null ],
-    [ "GetDeadCreatureListInGrid", "df/d0e/a02195.html#a2e3edf6fd8a6865d815af4f8acb184af", null ],
-    [ "GetGameObjectListWithEntryInGrid", "df/d0e/a02195.html#ae9abb80c4e811509bca88e65cf817276", null ],
-    [ "SpellSummary", "df/d0e/a02195.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
+    [ "LinkValidator< T >", "db/d04/a07668.html", "db/d04/a07668" ],
+    [ "LinkValidator< LinkTags::achievement >", "d9/dec/a07672.html", "d9/dec/a07672" ],
+    [ "LinkValidator< LinkTags::item >", "d0/d10/a07676.html", "d0/d10/a07676" ],
+    [ "LinkValidator< LinkTags::quest >", "d8/de1/a07680.html", "d8/de1/a07680" ],
+    [ "LinkValidator< LinkTags::spell >", "d0/d40/a07684.html", "d0/d40/a07684" ],
+    [ "LinkValidator< LinkTags::enchant >", "dd/d5e/a07688.html", "dd/d5e/a07688" ],
+    [ "LinkValidator< LinkTags::glyph >", "d7/d32/a07692.html", "d7/d32/a07692" ],
+    [ "LinkValidator< LinkTags::talent >", "d9/d79/a07696.html", "d9/d79/a07696" ],
+    [ "LinkValidator< LinkTags::trade >", "df/de3/a07700.html", "df/de3/a07700" ],
+    [ "TryValidateAs", "df/d0e/a02195.html#af1c86bff85f30ff113d5f78421c280af", null ],
+    [ "toHex", "df/d0e/a02195.html#a0b5e4d40ad5549ddc48c127306499b6c", null ],
+    [ "ValidateAs", "df/d0e/a02195.html#a1021653ddd2d2e78df34d8c4a2a7ed93", null ],
+    [ "ValidateLinkInfo", "df/d0e/a02195.html#a7de61dd7d7c595063ae73f415e961cc9", null ]
 ];

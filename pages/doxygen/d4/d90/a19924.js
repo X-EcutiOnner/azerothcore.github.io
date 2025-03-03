@@ -1,7 +1,6 @@
 var a19924 =
 [
-    [ "boss_freya_lifebinderAI", "d4/d90/a19924.html#ae421aa209690e4a2908995b6b7d322cd", null ],
-    [ "Reset", "d4/d90/a19924.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
-    [ "UpdateAI", "d4/d90/a19924.html#afb06c217c1012d6463e44689359eada9", null ],
-    [ "_healTimer", "d4/d90/a19924.html#a7021d13dceb9af343f0e820cf086046e", null ]
+    [ "boss_freya_lifebinderAI", "d3/d66/a19928.html", "d3/d66/a19928" ],
+    [ "boss_freya_lifebinder", "d4/d90/a19924.html#ad7a3bc09aacf35b4a6a39e65c966b824", null ],
+    [ "GetAI", "d4/d90/a19924.html#a978e4472a080f0fc53848abaa305cd77", null ]
 ];

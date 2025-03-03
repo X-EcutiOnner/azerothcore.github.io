@@ -1,5 +1,4 @@
 var a02066 =
 [
-    [ "player_commandscript", "d8/d1f/a11660.html", "d8/d1f/a11660" ],
-    [ "AddSC_player_commandscript", "da/d14/a02066.html#a3a4a77162d5b304dab9a8c8e397c3516", null ]
+    [ "AH_MINIMUM_DEPOSIT", "da/d14/a02066.html#ae6debe42dd0e5674dcf1b874cebafe98", null ]
 ];

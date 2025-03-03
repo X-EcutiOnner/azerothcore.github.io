@@ -1,16 +1,18 @@
 var a02186 =
 [
-    [ "SummonList", "de/de4/a06106.html", "de/de4/a06106" ],
-    [ "EntryCheckPredicate", "d9/d59/a06110.html", "d9/d59/a06110" ],
-    [ "PlayerOrPetCheck", "de/d8c/a06114.html", "de/d8c/a06114" ],
-    [ "ScriptedAI", "df/d58/a06118.html", "df/d58/a06118" ],
-    [ "HealthCheckEventData", "d8/d2f/a06122.html", "d8/d2f/a06122" ],
-    [ "BossAI", "dc/d1e/a06126.html", "dc/d1e/a06126" ],
-    [ "WorldBossAI", "d2/d44/a06130.html", "d2/d44/a06130" ],
-    [ "ObjectList", "d5/d4d/a02186.html#acc68161fe019b33e9356ea1473fba71d", null ],
-    [ "GetClosestCreatureWithEntry", "d5/d4d/a02186.html#a9ffd6f6c01576a8d3369c3a4f6dbaa0b", null ],
-    [ "GetClosestGameObjectWithEntry", "d5/d4d/a02186.html#acaba34b4ac104e5289c265c1f8524b15", null ],
-    [ "GetCreatureListWithEntryInGrid", "d5/d4d/a02186.html#ab6a8246d473139627106be4651f6329d", null ],
-    [ "GetDeadCreatureListInGrid", "d5/d4d/a02186.html#a4a92c9585e18b56cdbe0d0c0976de7d1", null ],
-    [ "GetGameObjectListWithEntryInGrid", "d5/d4d/a02186.html#ae9abb80c4e811509bca88e65cf817276", null ]
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, typename >", "d8/d88/a07536.html", null ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, std::enable_if_t< std::is_integral_v< T >||std::is_floating_point_v< T > > >", "d5/d11/a07540.html", "d5/d11/a07540" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::string_view, void >", "d0/d94/a07544.html", "d0/d94/a07544" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::string, void >", "d4/d81/a07548.html", "d4/d81/a07548" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::wstring, void >", "d6/d61/a07552.html", "d6/d61/a07552" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, std::enable_if_t< std::is_enum_v< T > > >", "da/d8f/a07556.html", "da/d8f/a07556" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, std::enable_if_t< std::is_base_of_v< ContainerTag, T > > >", "dc/d12/a07560.html", "dc/d12/a07560" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::vector< T >, void >", "d8/d57/a07564.html", "d8/d57/a07564" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::array< T, N >, void >", "dd/df0/a07568.html", "dd/df0/a07568" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< Acore::ChatCommands::Variant< Ts... > >", "df/db0/a07572.html", "df/db0/a07572" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< AchievementEntry const * >", "d1/d4b/a07576.html", "d1/d4b/a07576" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< GameTele const * >", "d5/d70/a07580.html", "d5/d70/a07580" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< ItemTemplate const * >", "dc/d86/a07584.html", "dc/d86/a07584" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< SpellInfo const * >", "dc/dc4/a07588.html", "dc/dc4/a07588" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< Quest const * >", "dc/d48/a07592.html", "dc/d48/a07592" ]
 ];

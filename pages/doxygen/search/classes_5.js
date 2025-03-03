@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['earthenpowertargetselector_0',['EarthenPowerTargetSelector',['../d8/d9d/a26520.html',1,'']]],
+  ['earthenpowertargetselector_0',['EarthenPowerTargetSelector',['../db/d10/a26524.html',1,'']]],
   ['effectabsorbhandler_1',['EffectAbsorbHandler',['../d8/dcf/a11272.html',1,'AuraScript']]],
   ['effectapplyhandler_2',['EffectApplyHandler',['../d5/d14/a11268.html',1,'AuraScript']]],
   ['effectauranamecheck_3',['EffectAuraNameCheck',['../dd/dd0/a11188.html',1,'_SpellScript']]],
@@ -20,12 +20,12 @@ var searchData=
   ['ellipseboundary_17',['EllipseBoundary',['../d8/dd4/a09712.html',1,'']]],
   ['elunascript_18',['ElunaScript',['../d2/d81/a10232.html',1,'']]],
   ['embleminfo_19',['EmblemInfo',['../d5/d62/a09476.html',1,'']]],
-  ['emerald_5fdragonai_20',['emerald_dragonAI',['../da/d2d/a26948.html',1,'']]],
+  ['emerald_5fdragonai_20',['emerald_dragonAI',['../d6/d24/a26952.html',1,'']]],
   ['emote_21',['Emote',['../d5/d74/a10456.html',1,'WorldPackets::Chat']]],
   ['emotechatbuilder_22',['EmoteChatBuilder',['../da/d6c/a09540.html',1,'Acore']]],
   ['emoteclient_23',['EmoteClient',['../d1/d2a/a10460.html',1,'WorldPackets::Chat']]],
-  ['emotesentry_24',['EmotesEntry',['../d9/de0/a27944.html',1,'']]],
-  ['emotestextentry_25',['EmotesTextEntry',['../d3/d06/a27948.html',1,'']]],
+  ['emotesentry_24',['EmotesEntry',['../d3/d06/a27948.html',1,'']]],
+  ['emotestextentry_25',['EmotesTextEntry',['../d9/ded/a27952.html',1,'']]],
   ['enchant_26',['enchant',['../d8/d58/a07736.html',1,'Acore::Hyperlinks::LinkTags']]],
   ['enchantduration_27',['EnchantDuration',['../df/dc4/a08532.html',1,'']]],
   ['enchstoreitem_28',['EnchStoreItem',['../d0/d92/a08284.html',1,'']]],
@@ -36,7 +36,7 @@ var searchData=
   ['enumtext_33',['EnumText',['../d1/d22/a05464.html',1,'']]],
   ['enumutils_34',['EnumUtils',['../d1/d06/a05468.html',1,'Acore::Impl::EnumUtilsImpl::EnumUtils&lt; Enum &gt;'],['../da/d7f/a05472.html',1,'EnumUtils']]],
   ['environmentaldamagelog_35',['EnvironmentalDamageLog',['../dc/dce/a10468.html',1,'WorldPackets::CombatLog']]],
-  ['eoedrakeentervehicleevent_36',['EoEDrakeEnterVehicleEvent',['../d9/da4/a19140.html',1,'']]],
+  ['eoedrakeentervehicleevent_36',['EoEDrakeEnterVehicleEvent',['../dc/d53/a19144.html',1,'']]],
   ['equipmentinfo_37',['EquipmentInfo',['../d0/dda/a08000.html',1,'']]],
   ['equipmentset_38',['EquipmentSet',['../dc/dfb/a08540.html',1,'']]],
   ['escort_5fwaypoint_39',['Escort_Waypoint',['../d2/d1b/a06188.html',1,'']]],
@@ -47,5 +47,5 @@ var searchData=
   ['eventmap_44',['EventMap',['../d4/d98/a05428.html',1,'']]],
   ['eventprocessor_45',['EventProcessor',['../d3/d72/a05440.html',1,'']]],
   ['exactsequence_46',['ExactSequence',['../db/d82/a07632.html',1,'Acore::ChatCommands']]],
-  ['exception_47',['Exception',['../d6/d49/a28460.html',1,'DBCFile']]]
+  ['exception_47',['Exception',['../d3/d74/a28464.html',1,'DBCFile']]]
 ];

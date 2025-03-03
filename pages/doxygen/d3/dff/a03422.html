@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/DataStores/M2Stores.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Events/pilgrims_bounty.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,446 +105,676 @@ $(document).ready(function(){initNavTree('d3/dff/a03422.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#typedef-members">Typedefs</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">M2Stores.cpp File Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">pilgrims_bounty.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">M2Stores.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Containers.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DBCStores.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">M2Structure.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &lt;boost/filesystem/path.hpp&gt;</code><br />
-<code>#include &lt;fstream&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AchievementCriteriaScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CombatAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">PassiveAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Vehicle.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a058e5fb250bd785cecc9a6913132dfe4"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../d1/d49/a07840.html">FlyByCamera</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dff/a03422.html#a058e5fb250bd785cecc9a6913132dfe4">FlyByCameraCollection</a></td></tr>
-<tr class="separator:a058e5fb250bd785cecc9a6913132dfe4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dad/a14364.html">npc_pilgrims_bounty_chair</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d21/a14368.html">npc_pilgrims_bounty_plate</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d15/a14372.html">spell_pilgrims_bounty_pass_generic</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d10/a14376.html">spell_pilgrims_bounty_feast_on_generic</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d14/a14380.html">spell_pilgrims_bounty_turkey_tracker</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/de5/a14384.html">spell_pilgrims_bounty_serve_generic</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/df5/a14388.html">spell_pilgrims_bounty_food_aura</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d8f/a14392.html">spell_pilgrims_bounty_food</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d34/a14396.html">achievement_pb_pilgrims_peril</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dad/a14400.html">achievement_pb_terokkar_turkey_time</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a17b51282bc11e48a2d4a6fb006c041c7"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7">tableEvent</a> { <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ab336a68b1b24b6d0004e3e0dd7b09147">SPELL_PASS_TURKEY</a> = 66250
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7abeaf8474ae3c53f6d2918a2f365c5717">SPELL_PASS_STUFFING</a> = 66259
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aa9b0d4ca80e0f749477942b4ec43c8f8">SPELL_PASS_PIE</a> = 66260
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a7fd47148d791dd7392b5e1fc69c02da4">SPELL_PASS_CRANBERRY</a> = 66261
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ac4313ee2ee1800d75436d554c4a1e966">SPELL_PASS_SWEET_POTATO</a> = 66262
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aa5931d70053310df21f77bd52ec96125">SPELL_VISUAL_THROW_TURKEY</a> = 61822
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a41fd5712c812c0289502fc623df6e6b4">SPELL_VISUAL_THROW_STUFFING</a> = 61823
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7acab7c3f158088ebdafcc019f17359fdd">SPELL_VISUAL_THROW_PIE</a> = 61825
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a7147fa8e1a282b2df457ca86cd4a3898">SPELL_VISUAL_THROW_CRANBERRY</a> = 61821
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ab820572aa06225fa43273f1346661d34">SPELL_VISUAL_THROW_SWEET_POTATO</a> = 61824
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a0cd49186e5d081887d78b0bb20098a29">SPELL_VISUAL_BOUNCE_TURKEY</a> = 61928
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ac6b3784997f1eb8d74ab80280485da20">SPELL_VISUAL_BOUNCE_STUFFING</a> = 61927
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7adb3d4f90ff253ff917b1b300cccda8f3">SPELL_VISUAL_BOUNCE_PIE</a> = 61926
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a02696c5b9b77f9862745417131372105">SPELL_VISUAL_BOUNCE_CRANBERRY</a> = 61925
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a31bd9f24fab5448513846ab958512750">SPELL_VISUAL_BOUNCE_SWEET_POTATO</a> = 61929
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ac5c3ba3142fb13863475729780756d9d">SPELL_PLATE_TURKEY</a> = 61835
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a7d6e9e43d9236874f0b3b12e8eb9912a">SPELL_PLATE_STUFFING</a> = 61836
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a0d4094b892f2ac959af875d2bf933540">SPELL_PLATE_PIE</a> = 61838
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a6f88ba195792b4c90ed0bd2b96ecc0fa">SPELL_PLATE_CRANBERRY</a> = 61833
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a93f8a2495f597aa4d3b1c9ca46761604">SPELL_PLATE_SWEET_POTATO</a> = 61837
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a8a2144b4e21c7e1070cd8f7f760d56eb">SPELL_STORE_TURKEY</a> = 61807
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a3706096d70b8456876e5a4ac8a7e039a">SPELL_STORE_STUFFING</a> = 61806
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7af37421b641f608bba4617ed795a3118b">SPELL_STORE_PIE</a> = 61805
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a675ee1c86a6a05b7bce157810d57ad28">SPELL_STORE_CRANBERRY</a> = 61804
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a9410bbcf5a692445f28c0230f173937f">SPELL_STORE_SWEET_POTATO</a> = 61808
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7acd673cf8adcfa02494d9d7c7653c89dd">SPELL_CAN_EAT_TURKEY</a> = 61801
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a68b35aa17726d464710292d62bae3554">SPELL_CAN_EAT_STUFFING</a> = 61800
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7abb1d720af73e51821e969dc854f54c9e">SPELL_CAN_EAT_PIE</a> = 61799
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a4d8f8fcbf888867a4485e0af7c348d7c">SPELL_CAN_EAT_CRANBERRY</a> = 61798
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7afb8d44e9af9b91822bb3e61624cb133d">SPELL_CAN_EAT_SWEET_POTATO</a> = 61802
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aa9f8a8815601d48c9c40b968243391cb">SPELL_FEAST_ON_TURKEY</a> = 61784
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ad20e997b3bbf3ead28dc4094aa065402">SPELL_FEAST_ON_STUFFING</a> = 61788
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a001b0c7d4b5074a5d5ccac1c065c449b">SPELL_FEAST_ON_PIE</a> = 61787
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7af933f1f45468bbd217d6dac33c2de29c">SPELL_FEAST_ON_CRANBERRY</a> = 61785
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ae514e0651b5e208e09fb58097b3977d2">SPELL_FEAST_ON_SWEET_POTATOES</a> = 61786
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a071fcf980125c3528a1d4c1bdb6725c0">SPELL_PLAYER_TURKEY</a> = 61842
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ad6aef64852fe279b98b21ad925b02b65">SPELL_PLAYER_STUFFING</a> = 61843
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ae339e284be616c2c47a7c759163fe3eb">SPELL_PLAYER_PIE</a> = 61845
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ac7b7f86c1e4eea78c0ffc3d8e56fb28f">SPELL_PLAYER_CRANBERRY</a> = 61841
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a78bf366ef7f6a74f48c35a1df960d614">SPELL_PLAYER_SWEET_POTATOES</a> = 61844
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a3f26dc9a85acef4c1f25e4fcc17e5ce2">SPELL_WELL_FED_TURKEY</a> = 65414
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a9a6204ea6b24f92cd68ea431bca42122">SPELL_WELL_FED_STUFFING</a> = 65416
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ae7138e4852153ed4a5f32470a44f8fed">SPELL_WELL_FED_PIE</a> = 65415
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ae715e069a31c646c191e15b8d951511c">SPELL_WELL_FED_CRANBERRY</a> = 65412
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a600808363ea61bd3a9ab16b5d2e099b6">SPELL_WELL_FED_SWEET_POTATOES</a> = 65410
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aa86f7b51866b4677c5d50f3a3e9e7f11">SPELL_ACHI_PASS_TURKEY</a> = 66373
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ac8f37e8bd4544d5e087f66f7dc742b53">SPELL_ACHI_PASS_STUFFING</a> = 66375
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a106162ecc91d5290eed5bac56103d09d">SPELL_ACHI_PASS_PIE</a> = 66374
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aba93502fb51a7e1b9f3cb6fe9bf9487b">SPELL_ACHI_PASS_CRANBERRY</a> = 66372
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aee41e540ca9e91f5f9cf3e8ad1a703e9">SPELL_ACHI_PASS_SWEET_POTATOES</a> = 66376
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ad82bd90fe8323d641abd87cd171aefc3">SPELL_SPIRIT_OF_SHARING</a> = 61849
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ad45896a1e2bb3ac1e6a144a28d1a382d">NPC_STRUDY_PLATE</a> = 32839
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7af123ed0b1519d23c3d2b6893528728a9">NPC_BOUNTIFUL_TABLE</a> = 32823
+<br />
+ }</td></tr>
+<tr class="separator:a17b51282bc11e48a2d4a6fb006c041c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4346b8a9ad1045517da63cf84a516503"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dff/a03422.html#a4346b8a9ad1045517da63cf84a516503">tTracker</a> { <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a4346b8a9ad1045517da63cf84a516503a12de9832032749ad5758fb8c95c39ebd">SPELL_TURKEY_TRACKER</a> = 62014
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a4346b8a9ad1045517da63cf84a516503a608e37335ddccc18e6fed0d521403204">SPELL_ACHI_TURKINATOR_CREDIT</a> = 62021
+<br />
+ }</td></tr>
+<tr class="separator:a4346b8a9ad1045517da63cf84a516503"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa58e311eb19c72984d1fb3bcf9ae2a68"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dff/a03422.html#aa58e311eb19c72984d1fb3bcf9ae2a68">Say</a> { <br />
+&#160;&#160;<a class="el" href="../../da/d5d/a03068.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../da/d5d/a03068.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a">SAY_LEASH</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d44/a03065.html#aa58e311eb19c72984d1fb3bcf9ae2a68a3fbcdf349b8baef6c37197e3acc00b0b">SAY_EGGS_BROKEN1</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d44/a03065.html#aa58e311eb19c72984d1fb3bcf9ae2a68abb86ecb4f4786decb39e5d4c697e5a46">SAY_EGGS_BROKEN2</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d44/a03065.html#aa58e311eb19c72984d1fb3bcf9ae2a68a8cda54f98cee3115ffff6de0e14c8c37">SAY_EGGS_BROKEN3</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d44/a03065.html#aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d44/a03065.html#aa58e311eb19c72984d1fb3bcf9ae2a68a1e67ea264a5d68d3623d9dd243aca28e">EMOTE_TROOPS_RETREAT</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../de/d87/a02939.html#aa58e311eb19c72984d1fb3bcf9ae2a68a075209927f03e99c695fcf57e68d1611">SAY_RESPAWN</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../de/d87/a02939.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a>
+, <br />
+&#160;&#160;<a class="el" href="../../de/d87/a02939.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7f4f26c3b97b953fd229ac5d308024d5">SAY_KILL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../db/d65/a03179.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#aa58e311eb19c72984d1fb3bcf9ae2a68a55bbbe20911265d74de50bfbed4eb238">SAY_TURKEY_HUNTER</a> = 33163
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#aa58e311eb19c72984d1fb3bcf9ae2a68ad0f53086a726f296040f607968e8a5ce">SAY_TURKEY_DOMINATION</a> = 33164
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#aa58e311eb19c72984d1fb3bcf9ae2a68a910de541c5a23b4b26ca58577bbc7178">SAY_TURKEY_SLAUGHTER</a> = 33165
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#aa58e311eb19c72984d1fb3bcf9ae2a68a867da680191c09f031ba350868576bb0">SAY_TURKEY_TRIUMPH</a> = 33167
+, <br />
+&#160;&#160;<a class="el" href="../../d4/db9/a02918.html#aa58e311eb19c72984d1fb3bcf9ae2a68a113fb2decd642bdaae552ac28c19d90d">SAY_TELEPORT</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d4/db9/a02918.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d4/db9/a02918.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7f4f26c3b97b953fd229ac5d308024d5">SAY_KILL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d68/a02885.html#aa58e311eb19c72984d1fb3bcf9ae2a68ab67c13990cd545e383e96877a2f2c102">SAY_INTRO_0</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d68/a02885.html#aa58e311eb19c72984d1fb3bcf9ae2a68a5d62121fc78e6a1cfc703c5caba40b23">SAY_INTRO_1</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d68/a02885.html#aa58e311eb19c72984d1fb3bcf9ae2a68a262c474ec2073ec78c48eb44023e0069">SAY_INTRO_2</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d68/a02885.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7f4f26c3b97b953fd229ac5d308024d5">SAY_KILL</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d68/a02885.html#aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d68/a02885.html#aa58e311eb19c72984d1fb3bcf9ae2a68a81024d2fa77c20eddf3d080ee9947126">EMOTE_ENRAGE</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d68/a02885.html#aa58e311eb19c72984d1fb3bcf9ae2a68acff81ed765f9fdaee64f88b661287739">EMOTE_MASTERS_EYE_AT</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d4/dbd/a03563.html#aa58e311eb19c72984d1fb3bcf9ae2a68a95da95220e07aa19e5b78b57895117ae">SAY_SOULS_LICH_KING_RAND_WHISPER</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d57/a04295.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d74/a04346.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d74/a04346.html#aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75">SAY_SLAY</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d74/a04346.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47ba729a01df4212b29320aea35148f0">SAY_WHIRLWIND</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d74/a04346.html#aa58e311eb19c72984d1fb3bcf9ae2a68a3bb81f47f40ebbd45afd95991300a0b6">SAY_HEAL</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d74/a04346.html#aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d74/a04346.html#aa58e311eb19c72984d1fb3bcf9ae2a68a591a2f0b49badd23e75fc13e1f349335">SAY_SOCCOTHRATES_DEATH</a> = 7
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d74/a04346.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7350ceb8fe6205ca308091e100fe6177">SAY_AGGRO_DALLIAH_FIRST</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d74/a04346.html#aa58e311eb19c72984d1fb3bcf9ae2a68ae98db4082ae6b6fbd23222f9b43a7924">SAY_DALLIAH_25_PERCENT</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dea/a04352.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dea/a04352.html#aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75">SAY_SLAY</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dea/a04352.html#aa58e311eb19c72984d1fb3bcf9ae2a68a655733e3cf8246b851050c8c998e638c">SAY_KNOCK_AWAY</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dea/a04352.html#aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dea/a04352.html#aa58e311eb19c72984d1fb3bcf9ae2a68a1d91db59e54516a5fdf2c0f48951ed6c">SAY_DALLIAH_DEATH</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dea/a04352.html#aa58e311eb19c72984d1fb3bcf9ae2a68a67eb1e3fe2b32265fdd75d38d3c1023d">SAY_SOCCOTHRATES_CONVO_1</a> = 7
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dea/a04352.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7e835ccb58da61dbafd2e2cff72ab0d3">SAY_SOCCOTHRATES_CONVO_2</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dea/a04352.html#aa58e311eb19c72984d1fb3bcf9ae2a68abecdefd780f9a204ddcd4dd65111e371">SAY_SOCCOTHRATES_CONVO_3</a> = 9
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dea/a04352.html#aa58e311eb19c72984d1fb3bcf9ae2a68ace53508f972877b973ba6de13e9b300f">SAY_SOCCOTHRATES_CONVO_4</a> = 10
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dea/a04352.html#aa58e311eb19c72984d1fb3bcf9ae2a68a873c7960701a6975e6fc35de29ea18df">SAY_AGGRO_SOCCOTHRATES_FIRST</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dea/a04352.html#aa58e311eb19c72984d1fb3bcf9ae2a68a60104bb254e723164d14ef231d97731c">SAY_SOCCOTHRATES_25_PERCENT</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dea/a04352.html#aa58e311eb19c72984d1fb3bcf9ae2a68a6249435ac9a9ca6dcf2117a26fac00d0">SAY_DALLIAH_CONVO_1</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dea/a04352.html#aa58e311eb19c72984d1fb3bcf9ae2a68aadfd9802f713462e307b1944d25c1789">SAY_DALLIAH_CONVO_2</a> = 9
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dea/a04352.html#aa58e311eb19c72984d1fb3bcf9ae2a68a32ff9058481833cd14d3e14fb4e1dfa3">SAY_DALLIAH_CONVO_3</a> = 10
+, <br />
+&#160;&#160;<a class="el" href="../../d6/ddf/a04349.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d6/ddf/a04349.html#aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75">SAY_SLAY</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d6/ddf/a04349.html#aa58e311eb19c72984d1fb3bcf9ae2a68aa5879d41a354921f966a0453e5fc0e93">SAY_SHADOW_NOVA</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d6/ddf/a04349.html#aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../da/dce/a04397.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../da/dce/a04397.html#aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75">SAY_SLAY</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../da/dce/a04397.html#aa58e311eb19c72984d1fb3bcf9ae2a68a58c7631424d58cf961deb6a3bd6f9f14">SAY_SAW_BLADE</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../da/dce/a04397.html#aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a> = 3
+<br />
+ }</td></tr>
+<tr class="separator:aa58e311eb19c72984d1fb3bcf9ae2a68"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69be5d950d460acc15fb9d888c199d78"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dff/a03422.html#a69be5d950d460acc15fb9d888c199d78">pilgrimsPeril</a> { <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a69be5d950d460acc15fb9d888c199d78a69a8dcd9249ed51936202f586f18ffb3">ITEM_PILGRIMS_ROBE</a> = 46824
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a69be5d950d460acc15fb9d888c199d78aed1f363d3588d736f083aece179ee120">ITEM_PILGRIMS_ATTIRE</a> = 46800
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a69be5d950d460acc15fb9d888c199d78af334148ee02e339a8bb862bffdf516d3">ITEM_PILGRIMS_DRESS</a> = 44785
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dff/a03422.html#a69be5d950d460acc15fb9d888c199d78a92c84a9287089f59286996aefb3e1df9">ITEM_PILGRIMS_HAT</a> = 46723
+<br />
+ }</td></tr>
+<tr class="separator:a69be5d950d460acc15fb9d888c199d78"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a5274eb8fcc7646fe4fc3ea77ab6de2d9"><td class="memItemLeft" align="right" valign="top">G3D::Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dff/a03422.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9">TranslateLocation</a> (G3D::Vector4 const *DBCPosition, G3D::Vector3 const *basePosition, G3D::Vector3 const *splineVector)</td></tr>
-<tr class="separator:a5274eb8fcc7646fe4fc3ea77ab6de2d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad7c17022a3ffed42c9d4995f5f6bb7ac"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dff/a03422.html#ad7c17022a3ffed42c9d4995f5f6bb7ac">readCamera</a> (<a class="el" href="../../df/d3c/a07860.html">M2Camera</a> const *cam, <a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> buffSize, <a class="el" href="../../db/d0d/a07848.html">M2Header</a> const *header, <a class="el" href="../../d5/de5/a27892.html">CinematicCameraEntry</a> const *dbcentry)</td></tr>
-<tr class="separator:ad7c17022a3ffed42c9d4995f5f6bb7ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a036ca5e535b8e25b87a67c20c2ad2d4c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dff/a03422.html#a036ca5e535b8e25b87a67c20c2ad2d4c">LoadM2Cameras</a> (std::string const &amp;dataPath)</td></tr>
-<tr class="separator:a036ca5e535b8e25b87a67c20c2ad2d4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af4a9ba9da1a2f4075cc36b95cce62f6f"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d1/d49/a07840.html">FlyByCamera</a> &gt; const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dff/a03422.html#af4a9ba9da1a2f4075cc36b95cce62f6f">GetFlyByCameras</a> (<a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> cinematicCameraId)</td></tr>
-<tr class="separator:af4a9ba9da1a2f4075cc36b95cce62f6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a4acfeb7e23e1d3a74b66a1c54084e7bc"><td class="memItemLeft" align="right" valign="top">std::unordered_map&lt; <a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d3/dff/a03422.html#a058e5fb250bd785cecc9a6913132dfe4">FlyByCameraCollection</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dff/a03422.html#a4acfeb7e23e1d3a74b66a1c54084e7bc">sFlyByCameraStore</a></td></tr>
-<tr class="separator:a4acfeb7e23e1d3a74b66a1c54084e7bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e59953c9b1731e315c9c6b9148a88e6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dff/a03422.html#a8e59953c9b1731e315c9c6b9148a88e6">AddSC_event_pilgrims_end_scripts</a> ()</td></tr>
+<tr class="separator:a8e59953c9b1731e315c9c6b9148a88e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a058e5fb250bd785cecc9a6913132dfe4" name="a058e5fb250bd785cecc9a6913132dfe4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a058e5fb250bd785cecc9a6913132dfe4">&#9670;&#160;</a></span>FlyByCameraCollection</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a69be5d950d460acc15fb9d888c199d78" name="a69be5d950d460acc15fb9d888c199d78"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a69be5d950d460acc15fb9d888c199d78">&#9670;&#160;</a></span>pilgrimsPeril</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::vector&lt;<a class="el" href="../../d1/d49/a07840.html">FlyByCamera</a>&gt; <a class="el" href="../../d3/dff/a03422.html#a058e5fb250bd785cecc9a6913132dfe4">FlyByCameraCollection</a></td>
+          <td class="memname">enum <a class="el" href="../../d3/dff/a03422.html#a69be5d950d460acc15fb9d888c199d78">pilgrimsPeril</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a69be5d950d460acc15fb9d888c199d78a69a8dcd9249ed51936202f586f18ffb3" name="a69be5d950d460acc15fb9d888c199d78a69a8dcd9249ed51936202f586f18ffb3"></a>ITEM_PILGRIMS_ROBE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a69be5d950d460acc15fb9d888c199d78aed1f363d3588d736f083aece179ee120" name="a69be5d950d460acc15fb9d888c199d78aed1f363d3588d736f083aece179ee120"></a>ITEM_PILGRIMS_ATTIRE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a69be5d950d460acc15fb9d888c199d78af334148ee02e339a8bb862bffdf516d3" name="a69be5d950d460acc15fb9d888c199d78af334148ee02e339a8bb862bffdf516d3"></a>ITEM_PILGRIMS_DRESS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a69be5d950d460acc15fb9d888c199d78a92c84a9287089f59286996aefb3e1df9" name="a69be5d950d460acc15fb9d888c199d78a92c84a9287089f59286996aefb3e1df9"></a>ITEM_PILGRIMS_HAT&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  642</span>{</div>
+<div class="line"><span class="lineno">  643</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a69be5d950d460acc15fb9d888c199d78a69a8dcd9249ed51936202f586f18ffb3">ITEM_PILGRIMS_ROBE</a>          = 46824,</div>
+<div class="line"><span class="lineno">  644</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a69be5d950d460acc15fb9d888c199d78aed1f363d3588d736f083aece179ee120">ITEM_PILGRIMS_ATTIRE</a>        = 46800,</div>
+<div class="line"><span class="lineno">  645</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a69be5d950d460acc15fb9d888c199d78af334148ee02e339a8bb862bffdf516d3">ITEM_PILGRIMS_DRESS</a>         = 44785,</div>
+<div class="line"><span class="lineno">  646</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a69be5d950d460acc15fb9d888c199d78a92c84a9287089f59286996aefb3e1df9">ITEM_PILGRIMS_HAT</a>           = 46723,</div>
+<div class="line"><span class="lineno">  647</span>};</div>
+<div class="ttc" id="aa03422_html_a69be5d950d460acc15fb9d888c199d78a69a8dcd9249ed51936202f586f18ffb3"><div class="ttname"><a href="../../d3/dff/a03422.html#a69be5d950d460acc15fb9d888c199d78a69a8dcd9249ed51936202f586f18ffb3">ITEM_PILGRIMS_ROBE</a></div><div class="ttdeci">@ ITEM_PILGRIMS_ROBE</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:643</div></div>
+<div class="ttc" id="aa03422_html_a69be5d950d460acc15fb9d888c199d78a92c84a9287089f59286996aefb3e1df9"><div class="ttname"><a href="../../d3/dff/a03422.html#a69be5d950d460acc15fb9d888c199d78a92c84a9287089f59286996aefb3e1df9">ITEM_PILGRIMS_HAT</a></div><div class="ttdeci">@ ITEM_PILGRIMS_HAT</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:646</div></div>
+<div class="ttc" id="aa03422_html_a69be5d950d460acc15fb9d888c199d78aed1f363d3588d736f083aece179ee120"><div class="ttname"><a href="../../d3/dff/a03422.html#a69be5d950d460acc15fb9d888c199d78aed1f363d3588d736f083aece179ee120">ITEM_PILGRIMS_ATTIRE</a></div><div class="ttdeci">@ ITEM_PILGRIMS_ATTIRE</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:644</div></div>
+<div class="ttc" id="aa03422_html_a69be5d950d460acc15fb9d888c199d78af334148ee02e339a8bb862bffdf516d3"><div class="ttname"><a href="../../d3/dff/a03422.html#a69be5d950d460acc15fb9d888c199d78af334148ee02e339a8bb862bffdf516d3">ITEM_PILGRIMS_DRESS</a></div><div class="ttdeci">@ ITEM_PILGRIMS_DRESS</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:645</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aa58e311eb19c72984d1fb3bcf9ae2a68" name="aa58e311eb19c72984d1fb3bcf9ae2a68"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa58e311eb19c72984d1fb3bcf9ae2a68">&#9670;&#160;</a></span>Say</h2>
 
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../da/d5d/a03068.html#aa58e311eb19c72984d1fb3bcf9ae2a68">Say</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe" name="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe"></a>SAY_AGGRO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a" name="aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a"></a>SAY_LEASH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a3fbcdf349b8baef6c37197e3acc00b0b" name="aa58e311eb19c72984d1fb3bcf9ae2a68a3fbcdf349b8baef6c37197e3acc00b0b"></a>SAY_EGGS_BROKEN1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68abb86ecb4f4786decb39e5d4c697e5a46" name="aa58e311eb19c72984d1fb3bcf9ae2a68abb86ecb4f4786decb39e5d4c697e5a46"></a>SAY_EGGS_BROKEN2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a8cda54f98cee3115ffff6de0e14c8c37" name="aa58e311eb19c72984d1fb3bcf9ae2a68a8cda54f98cee3115ffff6de0e14c8c37"></a>SAY_EGGS_BROKEN3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e" name="aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e"></a>SAY_DEATH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a1e67ea264a5d68d3623d9dd243aca28e" name="aa58e311eb19c72984d1fb3bcf9ae2a68a1e67ea264a5d68d3623d9dd243aca28e"></a>EMOTE_TROOPS_RETREAT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a075209927f03e99c695fcf57e68d1611" name="aa58e311eb19c72984d1fb3bcf9ae2a68a075209927f03e99c695fcf57e68d1611"></a>SAY_RESPAWN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe" name="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe"></a>SAY_AGGRO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a7f4f26c3b97b953fd229ac5d308024d5" name="aa58e311eb19c72984d1fb3bcf9ae2a68a7f4f26c3b97b953fd229ac5d308024d5"></a>SAY_KILL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe" name="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe"></a>SAY_AGGRO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a55bbbe20911265d74de50bfbed4eb238" name="aa58e311eb19c72984d1fb3bcf9ae2a68a55bbbe20911265d74de50bfbed4eb238"></a>SAY_TURKEY_HUNTER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68ad0f53086a726f296040f607968e8a5ce" name="aa58e311eb19c72984d1fb3bcf9ae2a68ad0f53086a726f296040f607968e8a5ce"></a>SAY_TURKEY_DOMINATION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a910de541c5a23b4b26ca58577bbc7178" name="aa58e311eb19c72984d1fb3bcf9ae2a68a910de541c5a23b4b26ca58577bbc7178"></a>SAY_TURKEY_SLAUGHTER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a867da680191c09f031ba350868576bb0" name="aa58e311eb19c72984d1fb3bcf9ae2a68a867da680191c09f031ba350868576bb0"></a>SAY_TURKEY_TRIUMPH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a113fb2decd642bdaae552ac28c19d90d" name="aa58e311eb19c72984d1fb3bcf9ae2a68a113fb2decd642bdaae552ac28c19d90d"></a>SAY_TELEPORT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe" name="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe"></a>SAY_AGGRO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a7f4f26c3b97b953fd229ac5d308024d5" name="aa58e311eb19c72984d1fb3bcf9ae2a68a7f4f26c3b97b953fd229ac5d308024d5"></a>SAY_KILL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68ab67c13990cd545e383e96877a2f2c102" name="aa58e311eb19c72984d1fb3bcf9ae2a68ab67c13990cd545e383e96877a2f2c102"></a>SAY_INTRO_0&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a5d62121fc78e6a1cfc703c5caba40b23" name="aa58e311eb19c72984d1fb3bcf9ae2a68a5d62121fc78e6a1cfc703c5caba40b23"></a>SAY_INTRO_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a262c474ec2073ec78c48eb44023e0069" name="aa58e311eb19c72984d1fb3bcf9ae2a68a262c474ec2073ec78c48eb44023e0069"></a>SAY_INTRO_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a7f4f26c3b97b953fd229ac5d308024d5" name="aa58e311eb19c72984d1fb3bcf9ae2a68a7f4f26c3b97b953fd229ac5d308024d5"></a>SAY_KILL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e" name="aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e"></a>SAY_DEATH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a81024d2fa77c20eddf3d080ee9947126" name="aa58e311eb19c72984d1fb3bcf9ae2a68a81024d2fa77c20eddf3d080ee9947126"></a>EMOTE_ENRAGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68acff81ed765f9fdaee64f88b661287739" name="aa58e311eb19c72984d1fb3bcf9ae2a68acff81ed765f9fdaee64f88b661287739"></a>EMOTE_MASTERS_EYE_AT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a95da95220e07aa19e5b78b57895117ae" name="aa58e311eb19c72984d1fb3bcf9ae2a68a95da95220e07aa19e5b78b57895117ae"></a>SAY_SOULS_LICH_KING_RAND_WHISPER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe" name="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe"></a>SAY_AGGRO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe" name="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe"></a>SAY_AGGRO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75" name="aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75"></a>SAY_SLAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a47ba729a01df4212b29320aea35148f0" name="aa58e311eb19c72984d1fb3bcf9ae2a68a47ba729a01df4212b29320aea35148f0"></a>SAY_WHIRLWIND&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a3bb81f47f40ebbd45afd95991300a0b6" name="aa58e311eb19c72984d1fb3bcf9ae2a68a3bb81f47f40ebbd45afd95991300a0b6"></a>SAY_HEAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e" name="aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e"></a>SAY_DEATH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a591a2f0b49badd23e75fc13e1f349335" name="aa58e311eb19c72984d1fb3bcf9ae2a68a591a2f0b49badd23e75fc13e1f349335"></a>SAY_SOCCOTHRATES_DEATH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a7350ceb8fe6205ca308091e100fe6177" name="aa58e311eb19c72984d1fb3bcf9ae2a68a7350ceb8fe6205ca308091e100fe6177"></a>SAY_AGGRO_DALLIAH_FIRST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68ae98db4082ae6b6fbd23222f9b43a7924" name="aa58e311eb19c72984d1fb3bcf9ae2a68ae98db4082ae6b6fbd23222f9b43a7924"></a>SAY_DALLIAH_25_PERCENT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe" name="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe"></a>SAY_AGGRO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75" name="aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75"></a>SAY_SLAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a655733e3cf8246b851050c8c998e638c" name="aa58e311eb19c72984d1fb3bcf9ae2a68a655733e3cf8246b851050c8c998e638c"></a>SAY_KNOCK_AWAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e" name="aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e"></a>SAY_DEATH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a1d91db59e54516a5fdf2c0f48951ed6c" name="aa58e311eb19c72984d1fb3bcf9ae2a68a1d91db59e54516a5fdf2c0f48951ed6c"></a>SAY_DALLIAH_DEATH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a67eb1e3fe2b32265fdd75d38d3c1023d" name="aa58e311eb19c72984d1fb3bcf9ae2a68a67eb1e3fe2b32265fdd75d38d3c1023d"></a>SAY_SOCCOTHRATES_CONVO_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a7e835ccb58da61dbafd2e2cff72ab0d3" name="aa58e311eb19c72984d1fb3bcf9ae2a68a7e835ccb58da61dbafd2e2cff72ab0d3"></a>SAY_SOCCOTHRATES_CONVO_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68abecdefd780f9a204ddcd4dd65111e371" name="aa58e311eb19c72984d1fb3bcf9ae2a68abecdefd780f9a204ddcd4dd65111e371"></a>SAY_SOCCOTHRATES_CONVO_3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68ace53508f972877b973ba6de13e9b300f" name="aa58e311eb19c72984d1fb3bcf9ae2a68ace53508f972877b973ba6de13e9b300f"></a>SAY_SOCCOTHRATES_CONVO_4&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a873c7960701a6975e6fc35de29ea18df" name="aa58e311eb19c72984d1fb3bcf9ae2a68a873c7960701a6975e6fc35de29ea18df"></a>SAY_AGGRO_SOCCOTHRATES_FIRST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a60104bb254e723164d14ef231d97731c" name="aa58e311eb19c72984d1fb3bcf9ae2a68a60104bb254e723164d14ef231d97731c"></a>SAY_SOCCOTHRATES_25_PERCENT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a6249435ac9a9ca6dcf2117a26fac00d0" name="aa58e311eb19c72984d1fb3bcf9ae2a68a6249435ac9a9ca6dcf2117a26fac00d0"></a>SAY_DALLIAH_CONVO_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68aadfd9802f713462e307b1944d25c1789" name="aa58e311eb19c72984d1fb3bcf9ae2a68aadfd9802f713462e307b1944d25c1789"></a>SAY_DALLIAH_CONVO_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a32ff9058481833cd14d3e14fb4e1dfa3" name="aa58e311eb19c72984d1fb3bcf9ae2a68a32ff9058481833cd14d3e14fb4e1dfa3"></a>SAY_DALLIAH_CONVO_3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe" name="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe"></a>SAY_AGGRO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75" name="aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75"></a>SAY_SLAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68aa5879d41a354921f966a0453e5fc0e93" name="aa58e311eb19c72984d1fb3bcf9ae2a68aa5879d41a354921f966a0453e5fc0e93"></a>SAY_SHADOW_NOVA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e" name="aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e"></a>SAY_DEATH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe" name="aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe"></a>SAY_AGGRO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75" name="aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75"></a>SAY_SLAY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a58c7631424d58cf961deb6a3bd6f9f14" name="aa58e311eb19c72984d1fb3bcf9ae2a68a58c7631424d58cf961deb6a3bd6f9f14"></a>SAY_SAW_BLADE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e" name="aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e"></a>SAY_DEATH&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  530</span>{</div>
+<div class="line"><span class="lineno">  531</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#aa58e311eb19c72984d1fb3bcf9ae2a68a55bbbe20911265d74de50bfbed4eb238">SAY_TURKEY_HUNTER</a>                       = 33163,</div>
+<div class="line"><span class="lineno">  532</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#aa58e311eb19c72984d1fb3bcf9ae2a68ad0f53086a726f296040f607968e8a5ce">SAY_TURKEY_DOMINATION</a>                   = 33164,</div>
+<div class="line"><span class="lineno">  533</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#aa58e311eb19c72984d1fb3bcf9ae2a68a910de541c5a23b4b26ca58577bbc7178">SAY_TURKEY_SLAUGHTER</a>                    = 33165,</div>
+<div class="line"><span class="lineno">  534</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#aa58e311eb19c72984d1fb3bcf9ae2a68a867da680191c09f031ba350868576bb0">SAY_TURKEY_TRIUMPH</a>                      = 33167</div>
+<div class="line"><span class="lineno">  535</span>};</div>
+<div class="ttc" id="aa03422_html_aa58e311eb19c72984d1fb3bcf9ae2a68a55bbbe20911265d74de50bfbed4eb238"><div class="ttname"><a href="../../d3/dff/a03422.html#aa58e311eb19c72984d1fb3bcf9ae2a68a55bbbe20911265d74de50bfbed4eb238">SAY_TURKEY_HUNTER</a></div><div class="ttdeci">@ SAY_TURKEY_HUNTER</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:531</div></div>
+<div class="ttc" id="aa03422_html_aa58e311eb19c72984d1fb3bcf9ae2a68a867da680191c09f031ba350868576bb0"><div class="ttname"><a href="../../d3/dff/a03422.html#aa58e311eb19c72984d1fb3bcf9ae2a68a867da680191c09f031ba350868576bb0">SAY_TURKEY_TRIUMPH</a></div><div class="ttdeci">@ SAY_TURKEY_TRIUMPH</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:534</div></div>
+<div class="ttc" id="aa03422_html_aa58e311eb19c72984d1fb3bcf9ae2a68a910de541c5a23b4b26ca58577bbc7178"><div class="ttname"><a href="../../d3/dff/a03422.html#aa58e311eb19c72984d1fb3bcf9ae2a68a910de541c5a23b4b26ca58577bbc7178">SAY_TURKEY_SLAUGHTER</a></div><div class="ttdeci">@ SAY_TURKEY_SLAUGHTER</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:533</div></div>
+<div class="ttc" id="aa03422_html_aa58e311eb19c72984d1fb3bcf9ae2a68ad0f53086a726f296040f607968e8a5ce"><div class="ttname"><a href="../../d3/dff/a03422.html#aa58e311eb19c72984d1fb3bcf9ae2a68ad0f53086a726f296040f607968e8a5ce">SAY_TURKEY_DOMINATION</a></div><div class="ttdeci">@ SAY_TURKEY_DOMINATION</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:532</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a17b51282bc11e48a2d4a6fb006c041c7" name="a17b51282bc11e48a2d4a6fb006c041c7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a17b51282bc11e48a2d4a6fb006c041c7">&#9670;&#160;</a></span>tableEvent</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7">tableEvent</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7ab336a68b1b24b6d0004e3e0dd7b09147" name="a17b51282bc11e48a2d4a6fb006c041c7ab336a68b1b24b6d0004e3e0dd7b09147"></a>SPELL_PASS_TURKEY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7abeaf8474ae3c53f6d2918a2f365c5717" name="a17b51282bc11e48a2d4a6fb006c041c7abeaf8474ae3c53f6d2918a2f365c5717"></a>SPELL_PASS_STUFFING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7aa9b0d4ca80e0f749477942b4ec43c8f8" name="a17b51282bc11e48a2d4a6fb006c041c7aa9b0d4ca80e0f749477942b4ec43c8f8"></a>SPELL_PASS_PIE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a7fd47148d791dd7392b5e1fc69c02da4" name="a17b51282bc11e48a2d4a6fb006c041c7a7fd47148d791dd7392b5e1fc69c02da4"></a>SPELL_PASS_CRANBERRY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7ac4313ee2ee1800d75436d554c4a1e966" name="a17b51282bc11e48a2d4a6fb006c041c7ac4313ee2ee1800d75436d554c4a1e966"></a>SPELL_PASS_SWEET_POTATO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7aa5931d70053310df21f77bd52ec96125" name="a17b51282bc11e48a2d4a6fb006c041c7aa5931d70053310df21f77bd52ec96125"></a>SPELL_VISUAL_THROW_TURKEY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a41fd5712c812c0289502fc623df6e6b4" name="a17b51282bc11e48a2d4a6fb006c041c7a41fd5712c812c0289502fc623df6e6b4"></a>SPELL_VISUAL_THROW_STUFFING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7acab7c3f158088ebdafcc019f17359fdd" name="a17b51282bc11e48a2d4a6fb006c041c7acab7c3f158088ebdafcc019f17359fdd"></a>SPELL_VISUAL_THROW_PIE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a7147fa8e1a282b2df457ca86cd4a3898" name="a17b51282bc11e48a2d4a6fb006c041c7a7147fa8e1a282b2df457ca86cd4a3898"></a>SPELL_VISUAL_THROW_CRANBERRY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7ab820572aa06225fa43273f1346661d34" name="a17b51282bc11e48a2d4a6fb006c041c7ab820572aa06225fa43273f1346661d34"></a>SPELL_VISUAL_THROW_SWEET_POTATO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a0cd49186e5d081887d78b0bb20098a29" name="a17b51282bc11e48a2d4a6fb006c041c7a0cd49186e5d081887d78b0bb20098a29"></a>SPELL_VISUAL_BOUNCE_TURKEY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7ac6b3784997f1eb8d74ab80280485da20" name="a17b51282bc11e48a2d4a6fb006c041c7ac6b3784997f1eb8d74ab80280485da20"></a>SPELL_VISUAL_BOUNCE_STUFFING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7adb3d4f90ff253ff917b1b300cccda8f3" name="a17b51282bc11e48a2d4a6fb006c041c7adb3d4f90ff253ff917b1b300cccda8f3"></a>SPELL_VISUAL_BOUNCE_PIE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a02696c5b9b77f9862745417131372105" name="a17b51282bc11e48a2d4a6fb006c041c7a02696c5b9b77f9862745417131372105"></a>SPELL_VISUAL_BOUNCE_CRANBERRY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a31bd9f24fab5448513846ab958512750" name="a17b51282bc11e48a2d4a6fb006c041c7a31bd9f24fab5448513846ab958512750"></a>SPELL_VISUAL_BOUNCE_SWEET_POTATO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7ac5c3ba3142fb13863475729780756d9d" name="a17b51282bc11e48a2d4a6fb006c041c7ac5c3ba3142fb13863475729780756d9d"></a>SPELL_PLATE_TURKEY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a7d6e9e43d9236874f0b3b12e8eb9912a" name="a17b51282bc11e48a2d4a6fb006c041c7a7d6e9e43d9236874f0b3b12e8eb9912a"></a>SPELL_PLATE_STUFFING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a0d4094b892f2ac959af875d2bf933540" name="a17b51282bc11e48a2d4a6fb006c041c7a0d4094b892f2ac959af875d2bf933540"></a>SPELL_PLATE_PIE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a6f88ba195792b4c90ed0bd2b96ecc0fa" name="a17b51282bc11e48a2d4a6fb006c041c7a6f88ba195792b4c90ed0bd2b96ecc0fa"></a>SPELL_PLATE_CRANBERRY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a93f8a2495f597aa4d3b1c9ca46761604" name="a17b51282bc11e48a2d4a6fb006c041c7a93f8a2495f597aa4d3b1c9ca46761604"></a>SPELL_PLATE_SWEET_POTATO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a8a2144b4e21c7e1070cd8f7f760d56eb" name="a17b51282bc11e48a2d4a6fb006c041c7a8a2144b4e21c7e1070cd8f7f760d56eb"></a>SPELL_STORE_TURKEY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a3706096d70b8456876e5a4ac8a7e039a" name="a17b51282bc11e48a2d4a6fb006c041c7a3706096d70b8456876e5a4ac8a7e039a"></a>SPELL_STORE_STUFFING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7af37421b641f608bba4617ed795a3118b" name="a17b51282bc11e48a2d4a6fb006c041c7af37421b641f608bba4617ed795a3118b"></a>SPELL_STORE_PIE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a675ee1c86a6a05b7bce157810d57ad28" name="a17b51282bc11e48a2d4a6fb006c041c7a675ee1c86a6a05b7bce157810d57ad28"></a>SPELL_STORE_CRANBERRY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a9410bbcf5a692445f28c0230f173937f" name="a17b51282bc11e48a2d4a6fb006c041c7a9410bbcf5a692445f28c0230f173937f"></a>SPELL_STORE_SWEET_POTATO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7acd673cf8adcfa02494d9d7c7653c89dd" name="a17b51282bc11e48a2d4a6fb006c041c7acd673cf8adcfa02494d9d7c7653c89dd"></a>SPELL_CAN_EAT_TURKEY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a68b35aa17726d464710292d62bae3554" name="a17b51282bc11e48a2d4a6fb006c041c7a68b35aa17726d464710292d62bae3554"></a>SPELL_CAN_EAT_STUFFING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7abb1d720af73e51821e969dc854f54c9e" name="a17b51282bc11e48a2d4a6fb006c041c7abb1d720af73e51821e969dc854f54c9e"></a>SPELL_CAN_EAT_PIE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a4d8f8fcbf888867a4485e0af7c348d7c" name="a17b51282bc11e48a2d4a6fb006c041c7a4d8f8fcbf888867a4485e0af7c348d7c"></a>SPELL_CAN_EAT_CRANBERRY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7afb8d44e9af9b91822bb3e61624cb133d" name="a17b51282bc11e48a2d4a6fb006c041c7afb8d44e9af9b91822bb3e61624cb133d"></a>SPELL_CAN_EAT_SWEET_POTATO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7aa9f8a8815601d48c9c40b968243391cb" name="a17b51282bc11e48a2d4a6fb006c041c7aa9f8a8815601d48c9c40b968243391cb"></a>SPELL_FEAST_ON_TURKEY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7ad20e997b3bbf3ead28dc4094aa065402" name="a17b51282bc11e48a2d4a6fb006c041c7ad20e997b3bbf3ead28dc4094aa065402"></a>SPELL_FEAST_ON_STUFFING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a001b0c7d4b5074a5d5ccac1c065c449b" name="a17b51282bc11e48a2d4a6fb006c041c7a001b0c7d4b5074a5d5ccac1c065c449b"></a>SPELL_FEAST_ON_PIE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7af933f1f45468bbd217d6dac33c2de29c" name="a17b51282bc11e48a2d4a6fb006c041c7af933f1f45468bbd217d6dac33c2de29c"></a>SPELL_FEAST_ON_CRANBERRY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7ae514e0651b5e208e09fb58097b3977d2" name="a17b51282bc11e48a2d4a6fb006c041c7ae514e0651b5e208e09fb58097b3977d2"></a>SPELL_FEAST_ON_SWEET_POTATOES&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a071fcf980125c3528a1d4c1bdb6725c0" name="a17b51282bc11e48a2d4a6fb006c041c7a071fcf980125c3528a1d4c1bdb6725c0"></a>SPELL_PLAYER_TURKEY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7ad6aef64852fe279b98b21ad925b02b65" name="a17b51282bc11e48a2d4a6fb006c041c7ad6aef64852fe279b98b21ad925b02b65"></a>SPELL_PLAYER_STUFFING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7ae339e284be616c2c47a7c759163fe3eb" name="a17b51282bc11e48a2d4a6fb006c041c7ae339e284be616c2c47a7c759163fe3eb"></a>SPELL_PLAYER_PIE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7ac7b7f86c1e4eea78c0ffc3d8e56fb28f" name="a17b51282bc11e48a2d4a6fb006c041c7ac7b7f86c1e4eea78c0ffc3d8e56fb28f"></a>SPELL_PLAYER_CRANBERRY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a78bf366ef7f6a74f48c35a1df960d614" name="a17b51282bc11e48a2d4a6fb006c041c7a78bf366ef7f6a74f48c35a1df960d614"></a>SPELL_PLAYER_SWEET_POTATOES&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a3f26dc9a85acef4c1f25e4fcc17e5ce2" name="a17b51282bc11e48a2d4a6fb006c041c7a3f26dc9a85acef4c1f25e4fcc17e5ce2"></a>SPELL_WELL_FED_TURKEY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a9a6204ea6b24f92cd68ea431bca42122" name="a17b51282bc11e48a2d4a6fb006c041c7a9a6204ea6b24f92cd68ea431bca42122"></a>SPELL_WELL_FED_STUFFING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7ae7138e4852153ed4a5f32470a44f8fed" name="a17b51282bc11e48a2d4a6fb006c041c7ae7138e4852153ed4a5f32470a44f8fed"></a>SPELL_WELL_FED_PIE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7ae715e069a31c646c191e15b8d951511c" name="a17b51282bc11e48a2d4a6fb006c041c7ae715e069a31c646c191e15b8d951511c"></a>SPELL_WELL_FED_CRANBERRY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a600808363ea61bd3a9ab16b5d2e099b6" name="a17b51282bc11e48a2d4a6fb006c041c7a600808363ea61bd3a9ab16b5d2e099b6"></a>SPELL_WELL_FED_SWEET_POTATOES&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7aa86f7b51866b4677c5d50f3a3e9e7f11" name="a17b51282bc11e48a2d4a6fb006c041c7aa86f7b51866b4677c5d50f3a3e9e7f11"></a>SPELL_ACHI_PASS_TURKEY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7ac8f37e8bd4544d5e087f66f7dc742b53" name="a17b51282bc11e48a2d4a6fb006c041c7ac8f37e8bd4544d5e087f66f7dc742b53"></a>SPELL_ACHI_PASS_STUFFING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7a106162ecc91d5290eed5bac56103d09d" name="a17b51282bc11e48a2d4a6fb006c041c7a106162ecc91d5290eed5bac56103d09d"></a>SPELL_ACHI_PASS_PIE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7aba93502fb51a7e1b9f3cb6fe9bf9487b" name="a17b51282bc11e48a2d4a6fb006c041c7aba93502fb51a7e1b9f3cb6fe9bf9487b"></a>SPELL_ACHI_PASS_CRANBERRY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7aee41e540ca9e91f5f9cf3e8ad1a703e9" name="a17b51282bc11e48a2d4a6fb006c041c7aee41e540ca9e91f5f9cf3e8ad1a703e9"></a>SPELL_ACHI_PASS_SWEET_POTATOES&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7ad82bd90fe8323d641abd87cd171aefc3" name="a17b51282bc11e48a2d4a6fb006c041c7ad82bd90fe8323d641abd87cd171aefc3"></a>SPELL_SPIRIT_OF_SHARING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7ad45896a1e2bb3ac1e6a144a28d1a382d" name="a17b51282bc11e48a2d4a6fb006c041c7ad45896a1e2bb3ac1e6a144a28d1a382d"></a>NPC_STRUDY_PLATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a17b51282bc11e48a2d4a6fb006c041c7af123ed0b1519d23c3d2b6893528728a9" name="a17b51282bc11e48a2d4a6fb006c041c7af123ed0b1519d23c3d2b6893528728a9"></a>NPC_BOUNTIFUL_TABLE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
+<div class="line"><span class="lineno">   35</span>    <span class="comment">// Spells</span></div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ab336a68b1b24b6d0004e3e0dd7b09147">SPELL_PASS_TURKEY</a>               = 66250,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7abeaf8474ae3c53f6d2918a2f365c5717">SPELL_PASS_STUFFING</a>             = 66259,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aa9b0d4ca80e0f749477942b4ec43c8f8">SPELL_PASS_PIE</a>                  = 66260,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a7fd47148d791dd7392b5e1fc69c02da4">SPELL_PASS_CRANBERRY</a>            = 66261,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ac4313ee2ee1800d75436d554c4a1e966">SPELL_PASS_SWEET_POTATO</a>         = 66262,</div>
+<div class="line"><span class="lineno">   41</span> </div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aa5931d70053310df21f77bd52ec96125">SPELL_VISUAL_THROW_TURKEY</a>       = 61822,</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a41fd5712c812c0289502fc623df6e6b4">SPELL_VISUAL_THROW_STUFFING</a>     = 61823,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7acab7c3f158088ebdafcc019f17359fdd">SPELL_VISUAL_THROW_PIE</a>          = 61825,</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a7147fa8e1a282b2df457ca86cd4a3898">SPELL_VISUAL_THROW_CRANBERRY</a>    = 61821,</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ab820572aa06225fa43273f1346661d34">SPELL_VISUAL_THROW_SWEET_POTATO</a> = 61824,</div>
+<div class="line"><span class="lineno">   47</span> </div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a0cd49186e5d081887d78b0bb20098a29">SPELL_VISUAL_BOUNCE_TURKEY</a>      = 61928,</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ac6b3784997f1eb8d74ab80280485da20">SPELL_VISUAL_BOUNCE_STUFFING</a>    = 61927,</div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7adb3d4f90ff253ff917b1b300cccda8f3">SPELL_VISUAL_BOUNCE_PIE</a>         = 61926,</div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a02696c5b9b77f9862745417131372105">SPELL_VISUAL_BOUNCE_CRANBERRY</a>   = 61925,</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a31bd9f24fab5448513846ab958512750">SPELL_VISUAL_BOUNCE_SWEET_POTATO</a> = 61929,</div>
+<div class="line"><span class="lineno">   53</span> </div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ac5c3ba3142fb13863475729780756d9d">SPELL_PLATE_TURKEY</a>              = 61835,</div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a7d6e9e43d9236874f0b3b12e8eb9912a">SPELL_PLATE_STUFFING</a>            = 61836,</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a0d4094b892f2ac959af875d2bf933540">SPELL_PLATE_PIE</a>                 = 61838,</div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a6f88ba195792b4c90ed0bd2b96ecc0fa">SPELL_PLATE_CRANBERRY</a>           = 61833,</div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a93f8a2495f597aa4d3b1c9ca46761604">SPELL_PLATE_SWEET_POTATO</a>        = 61837,</div>
+<div class="line"><span class="lineno">   59</span> </div>
+<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a8a2144b4e21c7e1070cd8f7f760d56eb">SPELL_STORE_TURKEY</a>              = 61807,</div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a3706096d70b8456876e5a4ac8a7e039a">SPELL_STORE_STUFFING</a>            = 61806,</div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7af37421b641f608bba4617ed795a3118b">SPELL_STORE_PIE</a>                 = 61805,</div>
+<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a675ee1c86a6a05b7bce157810d57ad28">SPELL_STORE_CRANBERRY</a>           = 61804,</div>
+<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a9410bbcf5a692445f28c0230f173937f">SPELL_STORE_SWEET_POTATO</a>        = 61808,</div>
+<div class="line"><span class="lineno">   65</span> </div>
+<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7acd673cf8adcfa02494d9d7c7653c89dd">SPELL_CAN_EAT_TURKEY</a>            = 61801,</div>
+<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a68b35aa17726d464710292d62bae3554">SPELL_CAN_EAT_STUFFING</a>          = 61800,</div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7abb1d720af73e51821e969dc854f54c9e">SPELL_CAN_EAT_PIE</a>               = 61799,</div>
+<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a4d8f8fcbf888867a4485e0af7c348d7c">SPELL_CAN_EAT_CRANBERRY</a>         = 61798,</div>
+<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7afb8d44e9af9b91822bb3e61624cb133d">SPELL_CAN_EAT_SWEET_POTATO</a>      = 61802,</div>
+<div class="line"><span class="lineno">   71</span> </div>
+<div class="line"><span class="lineno">   72</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aa9f8a8815601d48c9c40b968243391cb">SPELL_FEAST_ON_TURKEY</a>           = 61784,</div>
+<div class="line"><span class="lineno">   73</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ad20e997b3bbf3ead28dc4094aa065402">SPELL_FEAST_ON_STUFFING</a>         = 61788,</div>
+<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a001b0c7d4b5074a5d5ccac1c065c449b">SPELL_FEAST_ON_PIE</a>              = 61787,</div>
+<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7af933f1f45468bbd217d6dac33c2de29c">SPELL_FEAST_ON_CRANBERRY</a>        = 61785,</div>
+<div class="line"><span class="lineno">   76</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ae514e0651b5e208e09fb58097b3977d2">SPELL_FEAST_ON_SWEET_POTATOES</a>   = 61786,</div>
+<div class="line"><span class="lineno">   77</span> </div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a071fcf980125c3528a1d4c1bdb6725c0">SPELL_PLAYER_TURKEY</a>             = 61842,</div>
+<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ad6aef64852fe279b98b21ad925b02b65">SPELL_PLAYER_STUFFING</a>           = 61843,</div>
+<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ae339e284be616c2c47a7c759163fe3eb">SPELL_PLAYER_PIE</a>                = 61845,</div>
+<div class="line"><span class="lineno">   81</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ac7b7f86c1e4eea78c0ffc3d8e56fb28f">SPELL_PLAYER_CRANBERRY</a>          = 61841,</div>
+<div class="line"><span class="lineno">   82</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a78bf366ef7f6a74f48c35a1df960d614">SPELL_PLAYER_SWEET_POTATOES</a>     = 61844,</div>
+<div class="line"><span class="lineno">   83</span> </div>
+<div class="line"><span class="lineno">   84</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a3f26dc9a85acef4c1f25e4fcc17e5ce2">SPELL_WELL_FED_TURKEY</a>           = 65414,</div>
+<div class="line"><span class="lineno">   85</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a9a6204ea6b24f92cd68ea431bca42122">SPELL_WELL_FED_STUFFING</a>         = 65416,</div>
+<div class="line"><span class="lineno">   86</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ae7138e4852153ed4a5f32470a44f8fed">SPELL_WELL_FED_PIE</a>              = 65415,</div>
+<div class="line"><span class="lineno">   87</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ae715e069a31c646c191e15b8d951511c">SPELL_WELL_FED_CRANBERRY</a>        = 65412,</div>
+<div class="line"><span class="lineno">   88</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a600808363ea61bd3a9ab16b5d2e099b6">SPELL_WELL_FED_SWEET_POTATOES</a>   = 65410,</div>
+<div class="line"><span class="lineno">   89</span> </div>
+<div class="line"><span class="lineno">   90</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aa86f7b51866b4677c5d50f3a3e9e7f11">SPELL_ACHI_PASS_TURKEY</a>          = 66373,</div>
+<div class="line"><span class="lineno">   91</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ac8f37e8bd4544d5e087f66f7dc742b53">SPELL_ACHI_PASS_STUFFING</a>        = 66375,</div>
+<div class="line"><span class="lineno">   92</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a106162ecc91d5290eed5bac56103d09d">SPELL_ACHI_PASS_PIE</a>             = 66374,</div>
+<div class="line"><span class="lineno">   93</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aba93502fb51a7e1b9f3cb6fe9bf9487b">SPELL_ACHI_PASS_CRANBERRY</a>       = 66372,</div>
+<div class="line"><span class="lineno">   94</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aee41e540ca9e91f5f9cf3e8ad1a703e9">SPELL_ACHI_PASS_SWEET_POTATOES</a>  = 66376,</div>
+<div class="line"><span class="lineno">   95</span> </div>
+<div class="line"><span class="lineno">   96</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ad82bd90fe8323d641abd87cd171aefc3">SPELL_SPIRIT_OF_SHARING</a>         = 61849,</div>
+<div class="line"><span class="lineno">   97</span> </div>
+<div class="line"><span class="lineno">   98</span>    <span class="comment">// NPCs</span></div>
+<div class="line"><span class="lineno">   99</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ad45896a1e2bb3ac1e6a144a28d1a382d">NPC_STRUDY_PLATE</a>                = 32839,</div>
+<div class="line"><span class="lineno">  100</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7af123ed0b1519d23c3d2b6893528728a9">NPC_BOUNTIFUL_TABLE</a>             = 32823,</div>
+<div class="line"><span class="lineno">  101</span>};</div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a001b0c7d4b5074a5d5ccac1c065c449b"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a001b0c7d4b5074a5d5ccac1c065c449b">SPELL_FEAST_ON_PIE</a></div><div class="ttdeci">@ SPELL_FEAST_ON_PIE</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:74</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a02696c5b9b77f9862745417131372105"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a02696c5b9b77f9862745417131372105">SPELL_VISUAL_BOUNCE_CRANBERRY</a></div><div class="ttdeci">@ SPELL_VISUAL_BOUNCE_CRANBERRY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:51</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a071fcf980125c3528a1d4c1bdb6725c0"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a071fcf980125c3528a1d4c1bdb6725c0">SPELL_PLAYER_TURKEY</a></div><div class="ttdeci">@ SPELL_PLAYER_TURKEY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:78</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a0cd49186e5d081887d78b0bb20098a29"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a0cd49186e5d081887d78b0bb20098a29">SPELL_VISUAL_BOUNCE_TURKEY</a></div><div class="ttdeci">@ SPELL_VISUAL_BOUNCE_TURKEY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:48</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a0d4094b892f2ac959af875d2bf933540"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a0d4094b892f2ac959af875d2bf933540">SPELL_PLATE_PIE</a></div><div class="ttdeci">@ SPELL_PLATE_PIE</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:56</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a106162ecc91d5290eed5bac56103d09d"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a106162ecc91d5290eed5bac56103d09d">SPELL_ACHI_PASS_PIE</a></div><div class="ttdeci">@ SPELL_ACHI_PASS_PIE</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:92</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a31bd9f24fab5448513846ab958512750"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a31bd9f24fab5448513846ab958512750">SPELL_VISUAL_BOUNCE_SWEET_POTATO</a></div><div class="ttdeci">@ SPELL_VISUAL_BOUNCE_SWEET_POTATO</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:52</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a3706096d70b8456876e5a4ac8a7e039a"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a3706096d70b8456876e5a4ac8a7e039a">SPELL_STORE_STUFFING</a></div><div class="ttdeci">@ SPELL_STORE_STUFFING</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:61</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a3f26dc9a85acef4c1f25e4fcc17e5ce2"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a3f26dc9a85acef4c1f25e4fcc17e5ce2">SPELL_WELL_FED_TURKEY</a></div><div class="ttdeci">@ SPELL_WELL_FED_TURKEY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:84</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a41fd5712c812c0289502fc623df6e6b4"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a41fd5712c812c0289502fc623df6e6b4">SPELL_VISUAL_THROW_STUFFING</a></div><div class="ttdeci">@ SPELL_VISUAL_THROW_STUFFING</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:43</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a4d8f8fcbf888867a4485e0af7c348d7c"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a4d8f8fcbf888867a4485e0af7c348d7c">SPELL_CAN_EAT_CRANBERRY</a></div><div class="ttdeci">@ SPELL_CAN_EAT_CRANBERRY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:69</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a600808363ea61bd3a9ab16b5d2e099b6"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a600808363ea61bd3a9ab16b5d2e099b6">SPELL_WELL_FED_SWEET_POTATOES</a></div><div class="ttdeci">@ SPELL_WELL_FED_SWEET_POTATOES</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:88</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a675ee1c86a6a05b7bce157810d57ad28"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a675ee1c86a6a05b7bce157810d57ad28">SPELL_STORE_CRANBERRY</a></div><div class="ttdeci">@ SPELL_STORE_CRANBERRY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:63</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a68b35aa17726d464710292d62bae3554"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a68b35aa17726d464710292d62bae3554">SPELL_CAN_EAT_STUFFING</a></div><div class="ttdeci">@ SPELL_CAN_EAT_STUFFING</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:67</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a6f88ba195792b4c90ed0bd2b96ecc0fa"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a6f88ba195792b4c90ed0bd2b96ecc0fa">SPELL_PLATE_CRANBERRY</a></div><div class="ttdeci">@ SPELL_PLATE_CRANBERRY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:57</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a7147fa8e1a282b2df457ca86cd4a3898"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a7147fa8e1a282b2df457ca86cd4a3898">SPELL_VISUAL_THROW_CRANBERRY</a></div><div class="ttdeci">@ SPELL_VISUAL_THROW_CRANBERRY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:45</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a78bf366ef7f6a74f48c35a1df960d614"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a78bf366ef7f6a74f48c35a1df960d614">SPELL_PLAYER_SWEET_POTATOES</a></div><div class="ttdeci">@ SPELL_PLAYER_SWEET_POTATOES</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:82</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a7d6e9e43d9236874f0b3b12e8eb9912a"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a7d6e9e43d9236874f0b3b12e8eb9912a">SPELL_PLATE_STUFFING</a></div><div class="ttdeci">@ SPELL_PLATE_STUFFING</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:55</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a7fd47148d791dd7392b5e1fc69c02da4"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a7fd47148d791dd7392b5e1fc69c02da4">SPELL_PASS_CRANBERRY</a></div><div class="ttdeci">@ SPELL_PASS_CRANBERRY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:39</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a8a2144b4e21c7e1070cd8f7f760d56eb"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a8a2144b4e21c7e1070cd8f7f760d56eb">SPELL_STORE_TURKEY</a></div><div class="ttdeci">@ SPELL_STORE_TURKEY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:60</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a93f8a2495f597aa4d3b1c9ca46761604"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a93f8a2495f597aa4d3b1c9ca46761604">SPELL_PLATE_SWEET_POTATO</a></div><div class="ttdeci">@ SPELL_PLATE_SWEET_POTATO</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:58</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a9410bbcf5a692445f28c0230f173937f"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a9410bbcf5a692445f28c0230f173937f">SPELL_STORE_SWEET_POTATO</a></div><div class="ttdeci">@ SPELL_STORE_SWEET_POTATO</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:64</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7a9a6204ea6b24f92cd68ea431bca42122"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7a9a6204ea6b24f92cd68ea431bca42122">SPELL_WELL_FED_STUFFING</a></div><div class="ttdeci">@ SPELL_WELL_FED_STUFFING</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:85</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7aa5931d70053310df21f77bd52ec96125"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aa5931d70053310df21f77bd52ec96125">SPELL_VISUAL_THROW_TURKEY</a></div><div class="ttdeci">@ SPELL_VISUAL_THROW_TURKEY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:42</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7aa86f7b51866b4677c5d50f3a3e9e7f11"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aa86f7b51866b4677c5d50f3a3e9e7f11">SPELL_ACHI_PASS_TURKEY</a></div><div class="ttdeci">@ SPELL_ACHI_PASS_TURKEY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:90</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7aa9b0d4ca80e0f749477942b4ec43c8f8"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aa9b0d4ca80e0f749477942b4ec43c8f8">SPELL_PASS_PIE</a></div><div class="ttdeci">@ SPELL_PASS_PIE</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:38</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7aa9f8a8815601d48c9c40b968243391cb"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aa9f8a8815601d48c9c40b968243391cb">SPELL_FEAST_ON_TURKEY</a></div><div class="ttdeci">@ SPELL_FEAST_ON_TURKEY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:72</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7ab336a68b1b24b6d0004e3e0dd7b09147"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ab336a68b1b24b6d0004e3e0dd7b09147">SPELL_PASS_TURKEY</a></div><div class="ttdeci">@ SPELL_PASS_TURKEY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:36</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7ab820572aa06225fa43273f1346661d34"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ab820572aa06225fa43273f1346661d34">SPELL_VISUAL_THROW_SWEET_POTATO</a></div><div class="ttdeci">@ SPELL_VISUAL_THROW_SWEET_POTATO</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:46</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7aba93502fb51a7e1b9f3cb6fe9bf9487b"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aba93502fb51a7e1b9f3cb6fe9bf9487b">SPELL_ACHI_PASS_CRANBERRY</a></div><div class="ttdeci">@ SPELL_ACHI_PASS_CRANBERRY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:93</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7abb1d720af73e51821e969dc854f54c9e"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7abb1d720af73e51821e969dc854f54c9e">SPELL_CAN_EAT_PIE</a></div><div class="ttdeci">@ SPELL_CAN_EAT_PIE</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:68</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7abeaf8474ae3c53f6d2918a2f365c5717"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7abeaf8474ae3c53f6d2918a2f365c5717">SPELL_PASS_STUFFING</a></div><div class="ttdeci">@ SPELL_PASS_STUFFING</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:37</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7ac4313ee2ee1800d75436d554c4a1e966"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ac4313ee2ee1800d75436d554c4a1e966">SPELL_PASS_SWEET_POTATO</a></div><div class="ttdeci">@ SPELL_PASS_SWEET_POTATO</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:40</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7ac5c3ba3142fb13863475729780756d9d"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ac5c3ba3142fb13863475729780756d9d">SPELL_PLATE_TURKEY</a></div><div class="ttdeci">@ SPELL_PLATE_TURKEY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:54</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7ac6b3784997f1eb8d74ab80280485da20"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ac6b3784997f1eb8d74ab80280485da20">SPELL_VISUAL_BOUNCE_STUFFING</a></div><div class="ttdeci">@ SPELL_VISUAL_BOUNCE_STUFFING</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:49</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7ac7b7f86c1e4eea78c0ffc3d8e56fb28f"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ac7b7f86c1e4eea78c0ffc3d8e56fb28f">SPELL_PLAYER_CRANBERRY</a></div><div class="ttdeci">@ SPELL_PLAYER_CRANBERRY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:81</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7ac8f37e8bd4544d5e087f66f7dc742b53"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ac8f37e8bd4544d5e087f66f7dc742b53">SPELL_ACHI_PASS_STUFFING</a></div><div class="ttdeci">@ SPELL_ACHI_PASS_STUFFING</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:91</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7acab7c3f158088ebdafcc019f17359fdd"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7acab7c3f158088ebdafcc019f17359fdd">SPELL_VISUAL_THROW_PIE</a></div><div class="ttdeci">@ SPELL_VISUAL_THROW_PIE</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:44</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7acd673cf8adcfa02494d9d7c7653c89dd"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7acd673cf8adcfa02494d9d7c7653c89dd">SPELL_CAN_EAT_TURKEY</a></div><div class="ttdeci">@ SPELL_CAN_EAT_TURKEY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:66</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7ad20e997b3bbf3ead28dc4094aa065402"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ad20e997b3bbf3ead28dc4094aa065402">SPELL_FEAST_ON_STUFFING</a></div><div class="ttdeci">@ SPELL_FEAST_ON_STUFFING</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:73</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7ad45896a1e2bb3ac1e6a144a28d1a382d"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ad45896a1e2bb3ac1e6a144a28d1a382d">NPC_STRUDY_PLATE</a></div><div class="ttdeci">@ NPC_STRUDY_PLATE</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:99</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7ad6aef64852fe279b98b21ad925b02b65"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ad6aef64852fe279b98b21ad925b02b65">SPELL_PLAYER_STUFFING</a></div><div class="ttdeci">@ SPELL_PLAYER_STUFFING</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:79</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7ad82bd90fe8323d641abd87cd171aefc3"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ad82bd90fe8323d641abd87cd171aefc3">SPELL_SPIRIT_OF_SHARING</a></div><div class="ttdeci">@ SPELL_SPIRIT_OF_SHARING</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:96</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7adb3d4f90ff253ff917b1b300cccda8f3"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7adb3d4f90ff253ff917b1b300cccda8f3">SPELL_VISUAL_BOUNCE_PIE</a></div><div class="ttdeci">@ SPELL_VISUAL_BOUNCE_PIE</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:50</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7ae339e284be616c2c47a7c759163fe3eb"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ae339e284be616c2c47a7c759163fe3eb">SPELL_PLAYER_PIE</a></div><div class="ttdeci">@ SPELL_PLAYER_PIE</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:80</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7ae514e0651b5e208e09fb58097b3977d2"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ae514e0651b5e208e09fb58097b3977d2">SPELL_FEAST_ON_SWEET_POTATOES</a></div><div class="ttdeci">@ SPELL_FEAST_ON_SWEET_POTATOES</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:76</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7ae7138e4852153ed4a5f32470a44f8fed"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ae7138e4852153ed4a5f32470a44f8fed">SPELL_WELL_FED_PIE</a></div><div class="ttdeci">@ SPELL_WELL_FED_PIE</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:86</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7ae715e069a31c646c191e15b8d951511c"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7ae715e069a31c646c191e15b8d951511c">SPELL_WELL_FED_CRANBERRY</a></div><div class="ttdeci">@ SPELL_WELL_FED_CRANBERRY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:87</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7aee41e540ca9e91f5f9cf3e8ad1a703e9"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7aee41e540ca9e91f5f9cf3e8ad1a703e9">SPELL_ACHI_PASS_SWEET_POTATOES</a></div><div class="ttdeci">@ SPELL_ACHI_PASS_SWEET_POTATOES</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:94</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7af123ed0b1519d23c3d2b6893528728a9"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7af123ed0b1519d23c3d2b6893528728a9">NPC_BOUNTIFUL_TABLE</a></div><div class="ttdeci">@ NPC_BOUNTIFUL_TABLE</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:100</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7af37421b641f608bba4617ed795a3118b"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7af37421b641f608bba4617ed795a3118b">SPELL_STORE_PIE</a></div><div class="ttdeci">@ SPELL_STORE_PIE</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:62</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7af933f1f45468bbd217d6dac33c2de29c"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7af933f1f45468bbd217d6dac33c2de29c">SPELL_FEAST_ON_CRANBERRY</a></div><div class="ttdeci">@ SPELL_FEAST_ON_CRANBERRY</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:75</div></div>
+<div class="ttc" id="aa03422_html_a17b51282bc11e48a2d4a6fb006c041c7afb8d44e9af9b91822bb3e61624cb133d"><div class="ttname"><a href="../../d3/dff/a03422.html#a17b51282bc11e48a2d4a6fb006c041c7afb8d44e9af9b91822bb3e61624cb133d">SPELL_CAN_EAT_SWEET_POTATO</a></div><div class="ttdeci">@ SPELL_CAN_EAT_SWEET_POTATO</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:70</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a4346b8a9ad1045517da63cf84a516503" name="a4346b8a9ad1045517da63cf84a516503"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4346b8a9ad1045517da63cf84a516503">&#9670;&#160;</a></span>tTracker</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d3/dff/a03422.html#a4346b8a9ad1045517da63cf84a516503">tTracker</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4346b8a9ad1045517da63cf84a516503a12de9832032749ad5758fb8c95c39ebd" name="a4346b8a9ad1045517da63cf84a516503a12de9832032749ad5758fb8c95c39ebd"></a>SPELL_TURKEY_TRACKER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4346b8a9ad1045517da63cf84a516503a608e37335ddccc18e6fed0d521403204" name="a4346b8a9ad1045517da63cf84a516503a608e37335ddccc18e6fed0d521403204"></a>SPELL_ACHI_TURKINATOR_CREDIT&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  524</span>{</div>
+<div class="line"><span class="lineno">  525</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a4346b8a9ad1045517da63cf84a516503a12de9832032749ad5758fb8c95c39ebd">SPELL_TURKEY_TRACKER</a>                = 62014,</div>
+<div class="line"><span class="lineno">  526</span>    <a class="code hl_enumvalue" href="../../d3/dff/a03422.html#a4346b8a9ad1045517da63cf84a516503a608e37335ddccc18e6fed0d521403204">SPELL_ACHI_TURKINATOR_CREDIT</a>        = 62021</div>
+<div class="line"><span class="lineno">  527</span>};</div>
+<div class="ttc" id="aa03422_html_a4346b8a9ad1045517da63cf84a516503a12de9832032749ad5758fb8c95c39ebd"><div class="ttname"><a href="../../d3/dff/a03422.html#a4346b8a9ad1045517da63cf84a516503a12de9832032749ad5758fb8c95c39ebd">SPELL_TURKEY_TRACKER</a></div><div class="ttdeci">@ SPELL_TURKEY_TRACKER</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:525</div></div>
+<div class="ttc" id="aa03422_html_a4346b8a9ad1045517da63cf84a516503a608e37335ddccc18e6fed0d521403204"><div class="ttname"><a href="../../d3/dff/a03422.html#a4346b8a9ad1045517da63cf84a516503a608e37335ddccc18e6fed0d521403204">SPELL_ACHI_TURKINATOR_CREDIT</a></div><div class="ttdeci">@ SPELL_ACHI_TURKINATOR_CREDIT</div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:526</div></div>
+</div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="af4a9ba9da1a2f4075cc36b95cce62f6f" name="af4a9ba9da1a2f4075cc36b95cce62f6f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af4a9ba9da1a2f4075cc36b95cce62f6f">&#9670;&#160;</a></span>GetFlyByCameras()</h2>
+<a id="a8e59953c9b1731e315c9c6b9148a88e6" name="a8e59953c9b1731e315c9c6b9148a88e6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8e59953c9b1731e315c9c6b9148a88e6">&#9670;&#160;</a></span>AddSC_event_pilgrims_end_scripts()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt; <a class="el" href="../../d1/d49/a07840.html">FlyByCamera</a> &gt; const  * GetFlyByCameras </td>
+          <td class="memname">void AddSC_event_pilgrims_end_scripts </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>cinematicCameraId</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  255</span>{</div>
-<div class="line"><span class="lineno">  256</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/d1e/a04766.html#a288324cfca487d8ecc2eab8a6014c513">Acore::Containers::MapGetValuePtr</a>(<a class="code hl_variable" href="../../d3/dff/a03422.html#a4acfeb7e23e1d3a74b66a1c54084e7bc">sFlyByCameraStore</a>, cinematicCameraId);</div>
-<div class="line"><span class="lineno">  257</span>}</div>
-<div class="ttc" id="aa03422_html_a4acfeb7e23e1d3a74b66a1c54084e7bc"><div class="ttname"><a href="../../d3/dff/a03422.html#a4acfeb7e23e1d3a74b66a1c54084e7bc">sFlyByCameraStore</a></div><div class="ttdeci">std::unordered_map&lt; uint32, FlyByCameraCollection &gt; sFlyByCameraStore</div><div class="ttdef"><b>Definition:</b> M2Stores.cpp:28</div></div>
-<div class="ttc" id="aa04766_html_a288324cfca487d8ecc2eab8a6014c513"><div class="ttname"><a href="../../d3/d1e/a04766.html#a288324cfca487d8ecc2eab8a6014c513">Acore::Containers::MapGetValuePtr</a></div><div class="ttdeci">auto MapGetValuePtr(M &amp;map, typename M::key_type const &amp;key) -&gt; decltype(AddressOrSelf(map.find(key) -&gt;second))</div><div class="ttdef"><b>Definition:</b> Containers.h:216</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  678</span>{</div>
+<div class="line"><span class="lineno">  679</span>    <span class="comment">// Spells</span></div>
+<div class="line"><span class="lineno">  680</span>    <a class="code hl_define" href="../../d2/d20/a01790.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d15/a14372.html">spell_pilgrims_bounty_pass_generic</a>);</div>
+<div class="line"><span class="lineno">  681</span>    <a class="code hl_define" href="../../d2/d20/a01790.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/d10/a14376.html">spell_pilgrims_bounty_feast_on_generic</a>);</div>
+<div class="line"><span class="lineno">  682</span>    <a class="code hl_define" href="../../d2/d20/a01790.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/d14/a14380.html">spell_pilgrims_bounty_turkey_tracker</a>);</div>
+<div class="line"><span class="lineno">  683</span>    <a class="code hl_define" href="../../d2/d20/a01790.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/de5/a14384.html">spell_pilgrims_bounty_serve_generic</a>);</div>
+<div class="line"><span class="lineno">  684</span>    <a class="code hl_define" href="../../d2/d20/a01790.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../d9/d8f/a14392.html">spell_pilgrims_bounty_food</a>, <a class="code hl_class" href="../../d9/df5/a14388.html">spell_pilgrims_bounty_food_aura</a>);</div>
+<div class="line"><span class="lineno">  685</span> </div>
+<div class="line"><span class="lineno">  686</span>    <span class="comment">// Npcs</span></div>
+<div class="line"><span class="lineno">  687</span>    <a class="code hl_define" href="../../dd/ddc/a01802.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../df/dad/a14364.html">npc_pilgrims_bounty_chair</a>);</div>
+<div class="line"><span class="lineno">  688</span>    <a class="code hl_define" href="../../dd/ddc/a01802.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../de/d21/a14368.html">npc_pilgrims_bounty_plate</a>);</div>
+<div class="line"><span class="lineno">  689</span> </div>
+<div class="line"><span class="lineno">  690</span>    <span class="comment">// Achievements</span></div>
+<div class="line"><span class="lineno">  691</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/d34/a14396.html">achievement_pb_pilgrims_peril</a>();</div>
+<div class="line"><span class="lineno">  692</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/dad/a14400.html">achievement_pb_terokkar_turkey_time</a>();</div>
+<div class="line"><span class="lineno">  693</span>}</div>
+<div class="ttc" id="aa01790_html_a69b21d1b83cecaba944f4e9379bc866c"><div class="ttname"><a href="../../d2/d20/a01790.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a></div><div class="ttdeci">#define RegisterSpellAndAuraScriptPair(script_1, script_2)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:90</div></div>
+<div class="ttc" id="aa01790_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d2/d20/a01790.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
+<div class="ttc" id="aa01802_html_a5e7352841895df7117e2830448eb533f"><div class="ttname"><a href="../../dd/ddc/a01802.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a></div><div class="ttdeci">#define RegisterCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> CreatureScript.h:71</div></div>
+<div class="ttc" id="aa14364_html"><div class="ttname"><a href="../../df/dad/a14364.html">npc_pilgrims_bounty_chair</a></div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:108</div></div>
+<div class="ttc" id="aa14368_html"><div class="ttname"><a href="../../de/d21/a14368.html">npc_pilgrims_bounty_plate</a></div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:283</div></div>
+<div class="ttc" id="aa14372_html"><div class="ttname"><a href="../../dd/d15/a14372.html">spell_pilgrims_bounty_pass_generic</a></div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:308</div></div>
+<div class="ttc" id="aa14376_html"><div class="ttname"><a href="../../de/d10/a14376.html">spell_pilgrims_bounty_feast_on_generic</a></div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:438</div></div>
+<div class="ttc" id="aa14380_html"><div class="ttname"><a href="../../d5/d14/a14380.html">spell_pilgrims_bounty_turkey_tracker</a></div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:538</div></div>
+<div class="ttc" id="aa14384_html"><div class="ttname"><a href="../../d6/de5/a14384.html">spell_pilgrims_bounty_serve_generic</a></div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:576</div></div>
+<div class="ttc" id="aa14388_html"><div class="ttname"><a href="../../d9/df5/a14388.html">spell_pilgrims_bounty_food_aura</a></div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:593</div></div>
+<div class="ttc" id="aa14392_html"><div class="ttname"><a href="../../d9/d8f/a14392.html">spell_pilgrims_bounty_food</a></div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:618</div></div>
+<div class="ttc" id="aa14396_html"><div class="ttname"><a href="../../df/d34/a14396.html">achievement_pb_pilgrims_peril</a></div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:650</div></div>
+<div class="ttc" id="aa14400_html"><div class="ttname"><a href="../../de/dad/a14400.html">achievement_pb_terokkar_turkey_time</a></div><div class="ttdef"><b>Definition:</b> pilgrims_bounty.cpp:664</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00216">Acore::Containers::MapGetValuePtr()</a>, and <a class="el" href="../../#l00028">sFlyByCameraStore</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00071">RegisterCreatureAI</a>, <a class="el" href="../../#l00090">RegisterSpellAndAuraScriptPair</a>, and <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00041">CinematicMgr::BeginCinematic()</a>, and <a class="el" href="../../#l00119">debug_commandscript::HandleDebugPlayCinematicCommand()</a>.</p>
-
-</div>
-</div>
-<a id="a036ca5e535b8e25b87a67c20c2ad2d4c" name="a036ca5e535b8e25b87a67c20c2ad2d4c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a036ca5e535b8e25b87a67c20c2ad2d4c">&#9670;&#160;</a></span>LoadM2Cameras()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void LoadM2Cameras </td>
-          <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>dataPath</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  174</span>{</div>
-<div class="line"><span class="lineno">  175</span>    <a class="code hl_variable" href="../../d3/dff/a03422.html#a4acfeb7e23e1d3a74b66a1c54084e7bc">sFlyByCameraStore</a>.clear();</div>
-<div class="line"><span class="lineno">  176</span>    <a class="code hl_define" href="../../d2/d29/a04181.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loading Cinematic Camera files&quot;</span>);</div>
-<div class="line"><span class="lineno">  177</span> </div>
-<div class="line"><span class="lineno">  178</span>    <a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d4/d86/a04421.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
-<div class="line"><span class="lineno">  179</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d5/de5/a27892.html">CinematicCameraEntry</a> <span class="keyword">const</span>* dbcentry : <a class="code hl_variable" href="../../df/df7/a03416.html#ae519249aa03c4d660b48646b11695c3a">sCinematicCameraStore</a>)</div>
-<div class="line"><span class="lineno">  180</span>    {</div>
-<div class="line"><span class="lineno">  181</span>        std::string filenameWork = dataPath;</div>
-<div class="line"><span class="lineno">  182</span>        filenameWork.append(dbcentry-&gt;Model);</div>
-<div class="line"><span class="lineno">  183</span> </div>
-<div class="line"><span class="lineno">  184</span>        <span class="comment">// Replace slashes (always to forward slash, because boost!)</span></div>
-<div class="line"><span class="lineno">  185</span>        std::replace(filenameWork.begin(), filenameWork.end(), <span class="charliteral">&#39;\\&#39;</span>, <span class="charliteral">&#39;/&#39;</span>);</div>
-<div class="line"><span class="lineno">  186</span> </div>
-<div class="line"><span class="lineno">  187</span>        boost::filesystem::path filename = filenameWork;</div>
-<div class="line"><span class="lineno">  188</span> </div>
-<div class="line"><span class="lineno">  189</span>        <span class="comment">// Convert to native format</span></div>
-<div class="line"><span class="lineno">  190</span>        filename.make_preferred();</div>
-<div class="line"><span class="lineno">  191</span> </div>
-<div class="line"><span class="lineno">  192</span>        <span class="comment">// Replace mdx to .m2</span></div>
-<div class="line"><span class="lineno">  193</span>        filename.replace_extension(<span class="stringliteral">&quot;m2&quot;</span>);</div>
-<div class="line"><span class="lineno">  194</span> </div>
-<div class="line"><span class="lineno">  195</span>        std::ifstream m2file(filename.string().c_str(), std::ios::in | std::ios::binary);</div>
-<div class="line"><span class="lineno">  196</span>        <span class="keywordflow">if</span> (!m2file.is_open())</div>
-<div class="line"><span class="lineno">  197</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  198</span> </div>
-<div class="line"><span class="lineno">  199</span>        <span class="comment">// Get file size</span></div>
-<div class="line"><span class="lineno">  200</span>        m2file.seekg(0, std::ios::end);</div>
-<div class="line"><span class="lineno">  201</span>        std::streamoff fileSize = m2file.tellg();</div>
-<div class="line"><span class="lineno">  202</span> </div>
-<div class="line"><span class="lineno">  203</span>        <span class="comment">// Reject if not at least the size of the header</span></div>
-<div class="line"><span class="lineno">  204</span>        <span class="keywordflow">if</span> (<span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(fileSize) &lt; <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../db/d0d/a07848.html">M2Header</a>))</div>
-<div class="line"><span class="lineno">  205</span>        {</div>
-<div class="line"><span class="lineno">  206</span>            <a class="code hl_define" href="../../d2/d29/a04181.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Camera file {} is damaged. File is smaller than header size&quot;</span>, filename.string());</div>
-<div class="line"><span class="lineno">  207</span>            m2file.close();</div>
-<div class="line"><span class="lineno">  208</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  209</span>        }</div>
-<div class="line"><span class="lineno">  210</span> </div>
-<div class="line"><span class="lineno">  211</span>        <span class="comment">// Read 4 bytes (signature)</span></div>
-<div class="line"><span class="lineno">  212</span>        m2file.seekg(0, std::ios::beg);</div>
-<div class="line"><span class="lineno">  213</span>        <span class="keywordtype">char</span> fileCheck[5];</div>
-<div class="line"><span class="lineno">  214</span>        m2file.read(fileCheck, 4);</div>
-<div class="line"><span class="lineno">  215</span>        fileCheck[4] = 0;</div>
-<div class="line"><span class="lineno">  216</span> </div>
-<div class="line"><span class="lineno">  217</span>        <span class="comment">// Check file has correct magic (MD20)</span></div>
-<div class="line"><span class="lineno">  218</span>        <span class="keywordflow">if</span> (strcmp(fileCheck, <span class="stringliteral">&quot;MD20&quot;</span>))</div>
-<div class="line"><span class="lineno">  219</span>        {</div>
-<div class="line"><span class="lineno">  220</span>            <a class="code hl_define" href="../../d2/d29/a04181.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Camera file {} is damaged. File identifier not found&quot;</span>, filename.string());</div>
-<div class="line"><span class="lineno">  221</span>            m2file.close();</div>
-<div class="line"><span class="lineno">  222</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  223</span>        }</div>
-<div class="line"><span class="lineno">  224</span> </div>
-<div class="line"><span class="lineno">  225</span>        <span class="comment">// Now we have a good file, read it all into a vector of char&#39;s, then close the file.</span></div>
-<div class="line"><span class="lineno">  226</span>        std::vector&lt;char&gt; buffer(fileSize);</div>
-<div class="line"><span class="lineno">  227</span>        m2file.seekg(0, std::ios::beg);</div>
-<div class="line"><span class="lineno">  228</span>        <span class="keywordflow">if</span> (!m2file.read(buffer.data(), fileSize))</div>
-<div class="line"><span class="lineno">  229</span>        {</div>
-<div class="line"><span class="lineno">  230</span>            m2file.close();</div>
-<div class="line"><span class="lineno">  231</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  232</span>        }</div>
-<div class="line"><span class="lineno">  233</span>        m2file.close();</div>
-<div class="line"><span class="lineno">  234</span> </div>
-<div class="line"><span class="lineno">  235</span>        <span class="comment">// Read header</span></div>
-<div class="line"><span class="lineno">  236</span>        <a class="code hl_struct" href="../../db/d0d/a07848.html">M2Header</a> <span class="keyword">const</span>* header = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../db/d0d/a07848.html">M2Header</a> const*<span class="keyword">&gt;</span>(buffer.data());</div>
-<div class="line"><span class="lineno">  237</span> </div>
-<div class="line"><span class="lineno">  238</span>        <span class="keywordflow">if</span> (header-&gt;<a class="code hl_variable" href="../../db/d0d/a07848.html#aba0c84ae340e0c10b57c28f1f213b1f1">ofsCameras</a> + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../df/d3c/a07860.html">M2Camera</a>) &gt; <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(fileSize))</div>
-<div class="line"><span class="lineno">  239</span>        {</div>
-<div class="line"><span class="lineno">  240</span>            <a class="code hl_define" href="../../d2/d29/a04181.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Camera file {} is damaged. Camera references position beyond file end&quot;</span>, filename.string());</div>
-<div class="line"><span class="lineno">  241</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  242</span>        }</div>
-<div class="line"><span class="lineno">  243</span> </div>
-<div class="line"><span class="lineno">  244</span>        <span class="comment">// Get camera(s) - Main header, then dump them.</span></div>
-<div class="line"><span class="lineno">  245</span>        <a class="code hl_struct" href="../../df/d3c/a07860.html">M2Camera</a> <span class="keyword">const</span>* cam = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../df/d3c/a07860.html">M2Camera</a> const*<span class="keyword">&gt;</span>(buffer.data() + header-&gt;<a class="code hl_variable" href="../../db/d0d/a07848.html#aba0c84ae340e0c10b57c28f1f213b1f1">ofsCameras</a>);</div>
-<div class="line"><span class="lineno">  246</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d3/dff/a03422.html#ad7c17022a3ffed42c9d4995f5f6bb7ac">readCamera</a>(cam, fileSize, header, dbcentry))</div>
-<div class="line"><span class="lineno">  247</span>            <a class="code hl_define" href="../../d2/d29/a04181.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Camera file {} is damaged. Camera references position beyond file end&quot;</span>, filename.string());</div>
-<div class="line"><span class="lineno">  248</span>    }</div>
-<div class="line"><span class="lineno">  249</span> </div>
-<div class="line"><span class="lineno">  250</span>    <a class="code hl_define" href="../../d2/d29/a04181.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} Cinematic Waypoint Sets in {} ms&quot;</span>, (<a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)<a class="code hl_variable" href="../../d3/dff/a03422.html#a4acfeb7e23e1d3a74b66a1c54084e7bc">sFlyByCameraStore</a>.size(), <a class="code hl_function" href="../../d4/d86/a04421.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
-<div class="line"><span class="lineno">  251</span>    <a class="code hl_define" href="../../d2/d29/a04181.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  252</span>}</div>
-<div class="ttc" id="aa03416_html_ae519249aa03c4d660b48646b11695c3a"><div class="ttname"><a href="../../df/df7/a03416.html#ae519249aa03c4d660b48646b11695c3a">sCinematicCameraStore</a></div><div class="ttdeci">DBCStorage&lt; CinematicCameraEntry &gt; sCinematicCameraStore(CinematicCameraEntryfmt)</div></div>
-<div class="ttc" id="aa03422_html_ad7c17022a3ffed42c9d4995f5f6bb7ac"><div class="ttname"><a href="../../d3/dff/a03422.html#ad7c17022a3ffed42c9d4995f5f6bb7ac">readCamera</a></div><div class="ttdeci">bool readCamera(M2Camera const *cam, uint32 buffSize, M2Header const *header, CinematicCameraEntry const *dbcentry)</div><div class="ttdef"><b>Definition:</b> M2Stores.cpp:50</div></div>
-<div class="ttc" id="aa04181_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d2/d29/a04181.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:165</div></div>
-<div class="ttc" id="aa04181_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d2/d29/a04181.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
-<div class="ttc" id="aa04421_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../d4/d86/a04421.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
-<div class="ttc" id="aa04421_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d4/d86/a04421.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
-<div class="ttc" id="aa04559_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa07848_html"><div class="ttname"><a href="../../db/d0d/a07848.html">M2Header</a></div><div class="ttdef"><b>Definition:</b> M2Structure.h:35</div></div>
-<div class="ttc" id="aa07848_html_aba0c84ae340e0c10b57c28f1f213b1f1"><div class="ttname"><a href="../../db/d0d/a07848.html#aba0c84ae340e0c10b57c28f1f213b1f1">M2Header::ofsCameras</a></div><div class="ttdeci">uint32 ofsCameras</div><div class="ttdef"><b>Definition:</b> M2Structure.h:95</div></div>
-<div class="ttc" id="aa07860_html"><div class="ttname"><a href="../../df/d3c/a07860.html">M2Camera</a></div><div class="ttdef"><b>Definition:</b> M2Structure.h:120</div></div>
-<div class="ttc" id="aa27892_html"><div class="ttname"><a href="../../d5/de5/a27892.html">CinematicCameraEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:703</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00095">M2Header::ofsCameras</a>, <a class="el" href="../../#l00050">readCamera()</a>, <a class="el" href="../../df/df7/a03416.html#ae519249aa03c4d660b48646b11695c3a">sCinematicCameraStore</a>, and <a class="el" href="../../#l00028">sFlyByCameraStore</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01267">World::SetInitialWorldSettings()</a>.</p>
-
-</div>
-</div>
-<a id="ad7c17022a3ffed42c9d4995f5f6bb7ac" name="ad7c17022a3ffed42c9d4995f5f6bb7ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad7c17022a3ffed42c9d4995f5f6bb7ac">&#9670;&#160;</a></span>readCamera()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool readCamera </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d3c/a07860.html">M2Camera</a> const *&#160;</td>
-          <td class="paramname"><em>cam</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>buffSize</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d0d/a07848.html">M2Header</a> const *&#160;</td>
-          <td class="paramname"><em>header</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/de5/a27892.html">CinematicCameraEntry</a> const *&#160;</td>
-          <td class="paramname"><em>dbcentry</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
-<div class="line"><span class="lineno">   52</span>    <span class="keywordtype">char</span> <span class="keyword">const</span>* buffer = <span class="keyword">reinterpret_cast&lt;</span><span class="keywordtype">char</span> const*<span class="keyword">&gt;</span>(header);</div>
-<div class="line"><span class="lineno">   53</span> </div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_typedef" href="../../d3/dff/a03422.html#a058e5fb250bd785cecc9a6913132dfe4">FlyByCameraCollection</a> cameras;</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_typedef" href="../../d3/dff/a03422.html#a058e5fb250bd785cecc9a6913132dfe4">FlyByCameraCollection</a> targetcam;</div>
-<div class="line"><span class="lineno">   56</span> </div>
-<div class="line"><span class="lineno">   57</span>    G3D::Vector4 DBCData;</div>
-<div class="line"><span class="lineno">   58</span>    DBCData.x = dbcentry-&gt;Origin.X;</div>
-<div class="line"><span class="lineno">   59</span>    DBCData.y = dbcentry-&gt;Origin.Y;</div>
-<div class="line"><span class="lineno">   60</span>    DBCData.z = dbcentry-&gt;Origin.Z;</div>
-<div class="line"><span class="lineno">   61</span>    DBCData.w = dbcentry-&gt;OriginFacing;</div>
-<div class="line"><span class="lineno">   62</span> </div>
-<div class="line"><span class="lineno">   63</span>    <span class="comment">// Read target locations, only so that we can calculate orientation</span></div>
-<div class="line"><span class="lineno">   64</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> k = 0; k &lt; cam-&gt;target_positions.timestamps.number; ++k)</div>
-<div class="line"><span class="lineno">   65</span>    {</div>
-<div class="line"><span class="lineno">   66</span>        <span class="comment">// Extract Target positions</span></div>
-<div class="line"><span class="lineno">   67</span>        <span class="keywordflow">if</span> (cam-&gt;target_positions.timestamps.offset_elements + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../da/d98/a07852.html">M2Array</a>) &gt; buffSize)</div>
-<div class="line"><span class="lineno">   68</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   69</span>        <a class="code hl_struct" href="../../da/d98/a07852.html">M2Array</a> <span class="keyword">const</span>* targTsArray = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../da/d98/a07852.html">M2Array</a> const*<span class="keyword">&gt;</span>(buffer + cam-&gt;target_positions.timestamps.offset_elements);</div>
-<div class="line"><span class="lineno">   70</span>        <span class="keywordflow">if</span> (targTsArray-&gt;<a class="code hl_variable" href="../../da/d98/a07852.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a> + <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) &gt; buffSize || cam-&gt;target_positions.values.offset_elements + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../da/d98/a07852.html">M2Array</a>) &gt; buffSize)</div>
-<div class="line"><span class="lineno">   71</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   72</span>        <a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span>* targTimestamps = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const*<span class="keyword">&gt;</span>(buffer + targTsArray-&gt;<a class="code hl_variable" href="../../da/d98/a07852.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a>);</div>
-<div class="line"><span class="lineno">   73</span>        <a class="code hl_struct" href="../../da/d98/a07852.html">M2Array</a> <span class="keyword">const</span>* targArray = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../da/d98/a07852.html">M2Array</a> const*<span class="keyword">&gt;</span>(buffer + cam-&gt;target_positions.values.offset_elements);</div>
-<div class="line"><span class="lineno">   74</span> </div>
-<div class="line"><span class="lineno">   75</span>        <span class="keywordflow">if</span> (targArray-&gt;<a class="code hl_variable" href="../../da/d98/a07852.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a> + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../db/dbf/a07844.html">M2SplineKey&lt;G3D::Vector3&gt;</a>) &gt; buffSize)</div>
-<div class="line"><span class="lineno">   76</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   77</span>        <a class="code hl_struct" href="../../db/dbf/a07844.html">M2SplineKey&lt;G3D::Vector3&gt;</a> <span class="keyword">const</span>* targPositions = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../db/dbf/a07844.html">M2SplineKey&lt;G3D::Vector3&gt;</a> const*<span class="keyword">&gt;</span>(buffer + targArray-&gt;<a class="code hl_variable" href="../../da/d98/a07852.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a>);</div>
-<div class="line"><span class="lineno">   78</span> </div>
-<div class="line"><span class="lineno">   79</span>        <span class="comment">// Read the data for this set</span></div>
-<div class="line"><span class="lineno">   80</span>        <a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> currPos = targArray-&gt;<a class="code hl_variable" href="../../da/d98/a07852.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a>;</div>
-<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; targTsArray-&gt;<a class="code hl_variable" href="../../da/d98/a07852.html#af111e542d7a276e27d2b14757293bc42">number</a>; ++i)</div>
-<div class="line"><span class="lineno">   82</span>        {</div>
-<div class="line"><span class="lineno">   83</span>            <span class="keywordflow">if</span> (currPos + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../db/dbf/a07844.html">M2SplineKey&lt;G3D::Vector3&gt;</a>) &gt; buffSize)</div>
-<div class="line"><span class="lineno">   84</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   85</span>            <span class="comment">// Translate co-ordinates</span></div>
-<div class="line"><span class="lineno">   86</span>            G3D::Vector3 newPos = <a class="code hl_function" href="../../d3/dff/a03422.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9">TranslateLocation</a>(&amp;DBCData, &amp;cam-&gt;target_position_base, &amp;targPositions-&gt;<a class="code hl_variable" href="../../db/dbf/a07844.html#aaf1df5d479ef12c6bfa9b02c8d9a54ad">p0</a>);</div>
-<div class="line"><span class="lineno">   87</span> </div>
-<div class="line"><span class="lineno">   88</span>            <span class="comment">// Add to vector</span></div>
-<div class="line"><span class="lineno">   89</span>            <a class="code hl_struct" href="../../d1/d49/a07840.html">FlyByCamera</a> thisCam;</div>
-<div class="line"><span class="lineno">   90</span>            thisCam.<a class="code hl_variable" href="../../d1/d49/a07840.html#a5fed6b0484c1553a17b5303facaeb61b">timeStamp</a> = targTimestamps[i];</div>
-<div class="line"><span class="lineno">   91</span>            thisCam.<a class="code hl_variable" href="../../d1/d49/a07840.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../d0/d9f/a08400.html#afdbf0a257fcd7a48066fd92c4eacae3b">Relocate</a>(newPos.x, newPos.y, newPos.z, 0.0f);</div>
-<div class="line"><span class="lineno">   92</span>            targetcam.push_back(thisCam);</div>
-<div class="line"><span class="lineno">   93</span>            targPositions++;</div>
-<div class="line"><span class="lineno">   94</span>            currPos += <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../db/dbf/a07844.html">M2SplineKey&lt;G3D::Vector3&gt;</a>);</div>
-<div class="line"><span class="lineno">   95</span>        }</div>
-<div class="line"><span class="lineno">   96</span>    }</div>
-<div class="line"><span class="lineno">   97</span> </div>
-<div class="line"><span class="lineno">   98</span>    <span class="comment">// Read camera positions and timestamps (translating first position of 3 only, we don&#39;t need to translate the whole spline)</span></div>
-<div class="line"><span class="lineno">   99</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> k = 0; k &lt; cam-&gt;positions.timestamps.number; ++k)</div>
-<div class="line"><span class="lineno">  100</span>    {</div>
-<div class="line"><span class="lineno">  101</span>        <span class="comment">// Extract Camera positions for this set</span></div>
-<div class="line"><span class="lineno">  102</span>        <span class="keywordflow">if</span> (cam-&gt;positions.timestamps.offset_elements + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../da/d98/a07852.html">M2Array</a>) &gt; buffSize)</div>
-<div class="line"><span class="lineno">  103</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  104</span>        <a class="code hl_struct" href="../../da/d98/a07852.html">M2Array</a> <span class="keyword">const</span>* posTsArray = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../da/d98/a07852.html">M2Array</a> const*<span class="keyword">&gt;</span>(buffer + cam-&gt;positions.timestamps.offset_elements);</div>
-<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">if</span> (posTsArray-&gt;<a class="code hl_variable" href="../../da/d98/a07852.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a> + <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) &gt; buffSize || cam-&gt;positions.values.offset_elements + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../da/d98/a07852.html">M2Array</a>) &gt; buffSize)</div>
-<div class="line"><span class="lineno">  106</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  107</span>        <a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span>* posTimestamps = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const*<span class="keyword">&gt;</span>(buffer + posTsArray-&gt;<a class="code hl_variable" href="../../da/d98/a07852.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a>);</div>
-<div class="line"><span class="lineno">  108</span>        <a class="code hl_struct" href="../../da/d98/a07852.html">M2Array</a> <span class="keyword">const</span>* posArray = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../da/d98/a07852.html">M2Array</a> const*<span class="keyword">&gt;</span>(buffer + cam-&gt;positions.values.offset_elements);</div>
-<div class="line"><span class="lineno">  109</span>        <span class="keywordflow">if</span> (posArray-&gt;<a class="code hl_variable" href="../../da/d98/a07852.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a> + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../db/dbf/a07844.html">M2SplineKey&lt;G3D::Vector3&gt;</a>) &gt; buffSize)</div>
-<div class="line"><span class="lineno">  110</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  111</span>        <a class="code hl_struct" href="../../db/dbf/a07844.html">M2SplineKey&lt;G3D::Vector3&gt;</a> <span class="keyword">const</span>* <a class="code hl_variable" href="../../dc/d10/a01412.html#a55e6b22a71b5c615b82389bdf1717718">positions</a> = <span class="keyword">reinterpret_cast&lt;</span><a class="code hl_struct" href="../../db/dbf/a07844.html">M2SplineKey&lt;G3D::Vector3&gt;</a> const*<span class="keyword">&gt;</span>(buffer + posArray-&gt;<a class="code hl_variable" href="../../da/d98/a07852.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a>);</div>
-<div class="line"><span class="lineno">  112</span> </div>
-<div class="line"><span class="lineno">  113</span>        <span class="comment">// Read the data for this set</span></div>
-<div class="line"><span class="lineno">  114</span>        <a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> currPos = posArray-&gt;<a class="code hl_variable" href="../../da/d98/a07852.html#ad633b2e9afc82762c6b43675844f8fea">offset_elements</a>;</div>
-<div class="line"><span class="lineno">  115</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; posTsArray-&gt;<a class="code hl_variable" href="../../da/d98/a07852.html#af111e542d7a276e27d2b14757293bc42">number</a>; ++i)</div>
-<div class="line"><span class="lineno">  116</span>        {</div>
-<div class="line"><span class="lineno">  117</span>            <span class="keywordflow">if</span> (currPos + <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../db/dbf/a07844.html">M2SplineKey&lt;G3D::Vector3&gt;</a>) &gt; buffSize)</div>
-<div class="line"><span class="lineno">  118</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  119</span>            <span class="comment">// Translate co-ordinates</span></div>
-<div class="line"><span class="lineno">  120</span>            G3D::Vector3 newPos = <a class="code hl_function" href="../../d3/dff/a03422.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9">TranslateLocation</a>(&amp;DBCData, &amp;cam-&gt;position_base, &amp;<a class="code hl_variable" href="../../dc/d10/a01412.html#a55e6b22a71b5c615b82389bdf1717718">positions</a>-&gt;p0);</div>
-<div class="line"><span class="lineno">  121</span> </div>
-<div class="line"><span class="lineno">  122</span>            <span class="comment">// Add to vector</span></div>
-<div class="line"><span class="lineno">  123</span>            <a class="code hl_struct" href="../../d1/d49/a07840.html">FlyByCamera</a> thisCam;</div>
-<div class="line"><span class="lineno">  124</span>            thisCam.<a class="code hl_variable" href="../../d1/d49/a07840.html#a5fed6b0484c1553a17b5303facaeb61b">timeStamp</a> = posTimestamps[i];</div>
-<div class="line"><span class="lineno">  125</span>            thisCam.<a class="code hl_variable" href="../../d1/d49/a07840.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../d0/d9f/a08400.html#afdbf0a257fcd7a48066fd92c4eacae3b">Relocate</a>(newPos.x, newPos.y, newPos.z);</div>
-<div class="line"><span class="lineno">  126</span> </div>
-<div class="line"><span class="lineno">  127</span>            <span class="keywordflow">if</span> (targetcam.size() &gt; 0)</div>
-<div class="line"><span class="lineno">  128</span>            {</div>
-<div class="line"><span class="lineno">  129</span>                <span class="comment">// Find the target camera before and after this camera</span></div>
-<div class="line"><span class="lineno">  130</span>                <a class="code hl_struct" href="../../d1/d49/a07840.html">FlyByCamera</a> lastTarget;</div>
-<div class="line"><span class="lineno">  131</span>                <a class="code hl_struct" href="../../d1/d49/a07840.html">FlyByCamera</a> nextTarget;</div>
-<div class="line"><span class="lineno">  132</span> </div>
-<div class="line"><span class="lineno">  133</span>                <span class="comment">// Pre-load first item</span></div>
-<div class="line"><span class="lineno">  134</span>                lastTarget = targetcam[0];</div>
-<div class="line"><span class="lineno">  135</span>                nextTarget = targetcam[0];</div>
-<div class="line"><span class="lineno">  136</span>                <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> j = 0; j &lt; targetcam.size(); ++j)</div>
-<div class="line"><span class="lineno">  137</span>                {</div>
-<div class="line"><span class="lineno">  138</span>                    nextTarget = targetcam[j];</div>
-<div class="line"><span class="lineno">  139</span>                    <span class="keywordflow">if</span> (targetcam[j].timeStamp &gt; posTimestamps[i])</div>
-<div class="line"><span class="lineno">  140</span>                        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  141</span> </div>
-<div class="line"><span class="lineno">  142</span>                    lastTarget = targetcam[j];</div>
-<div class="line"><span class="lineno">  143</span>                }</div>
-<div class="line"><span class="lineno">  144</span> </div>
-<div class="line"><span class="lineno">  145</span>                <span class="keywordtype">float</span> x, y, z;</div>
-<div class="line"><span class="lineno">  146</span>                lastTarget.<a class="code hl_variable" href="../../d1/d49/a07840.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../d0/d9f/a08400.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>(x, y, z);</div>
-<div class="line"><span class="lineno">  147</span> </div>
-<div class="line"><span class="lineno">  148</span>                <span class="comment">// Now, the timestamps for target cam and position can be different. So, if they differ we interpolate</span></div>
-<div class="line"><span class="lineno">  149</span>                <span class="keywordflow">if</span> (lastTarget.<a class="code hl_variable" href="../../d1/d49/a07840.html#a5fed6b0484c1553a17b5303facaeb61b">timeStamp</a> != posTimestamps[i])</div>
-<div class="line"><span class="lineno">  150</span>                {</div>
-<div class="line"><span class="lineno">  151</span>                    <a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> timeDiffTarget = nextTarget.<a class="code hl_variable" href="../../d1/d49/a07840.html#a5fed6b0484c1553a17b5303facaeb61b">timeStamp</a> - lastTarget.<a class="code hl_variable" href="../../d1/d49/a07840.html#a5fed6b0484c1553a17b5303facaeb61b">timeStamp</a>;</div>
-<div class="line"><span class="lineno">  152</span>                    <a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> timeDiffThis = posTimestamps[i] - lastTarget.<a class="code hl_variable" href="../../d1/d49/a07840.html#a5fed6b0484c1553a17b5303facaeb61b">timeStamp</a>;</div>
-<div class="line"><span class="lineno">  153</span>                    <span class="keywordtype">float</span> xDiff = nextTarget.<a class="code hl_variable" href="../../d1/d49/a07840.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../d0/d9f/a08400.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() - lastTarget.<a class="code hl_variable" href="../../d1/d49/a07840.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../d0/d9f/a08400.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>();</div>
-<div class="line"><span class="lineno">  154</span>                    <span class="keywordtype">float</span> yDiff = nextTarget.<a class="code hl_variable" href="../../d1/d49/a07840.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../d0/d9f/a08400.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() - lastTarget.<a class="code hl_variable" href="../../d1/d49/a07840.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../d0/d9f/a08400.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>();</div>
-<div class="line"><span class="lineno">  155</span>                    x = lastTarget.<a class="code hl_variable" href="../../d1/d49/a07840.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../d0/d9f/a08400.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() + (xDiff * (float(timeDiffThis) / float(timeDiffTarget)));</div>
-<div class="line"><span class="lineno">  156</span>                    y = lastTarget.<a class="code hl_variable" href="../../d1/d49/a07840.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../d0/d9f/a08400.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() + (yDiff * (float(timeDiffThis) / float(timeDiffTarget)));</div>
-<div class="line"><span class="lineno">  157</span>                }</div>
-<div class="line"><span class="lineno">  158</span>                <span class="keywordtype">float</span> xDiff = x - thisCam.<a class="code hl_variable" href="../../d1/d49/a07840.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../d0/d9f/a08400.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>();</div>
-<div class="line"><span class="lineno">  159</span>                <span class="keywordtype">float</span> yDiff = y - thisCam.<a class="code hl_variable" href="../../d1/d49/a07840.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../d0/d9f/a08400.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>();</div>
-<div class="line"><span class="lineno">  160</span>                thisCam.<a class="code hl_variable" href="../../d1/d49/a07840.html#a6470ea69a14e24337aa6b0c05093b6d2">locations</a>.<a class="code hl_function" href="../../d0/d9f/a08400.html#aa547307fa2e6acedbcebda20a98a0fcf">SetOrientation</a>(std::atan2(yDiff, xDiff));</div>
-<div class="line"><span class="lineno">  161</span>            }</div>
-<div class="line"><span class="lineno">  162</span> </div>
-<div class="line"><span class="lineno">  163</span>            cameras.push_back(thisCam);</div>
-<div class="line"><span class="lineno">  164</span>            <a class="code hl_variable" href="../../dc/d10/a01412.html#a55e6b22a71b5c615b82389bdf1717718">positions</a>++;</div>
-<div class="line"><span class="lineno">  165</span>            currPos += <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../db/dbf/a07844.html">M2SplineKey&lt;G3D::Vector3&gt;</a>);</div>
-<div class="line"><span class="lineno">  166</span>        }</div>
-<div class="line"><span class="lineno">  167</span>    }</div>
-<div class="line"><span class="lineno">  168</span> </div>
-<div class="line"><span class="lineno">  169</span>    <a class="code hl_variable" href="../../d3/dff/a03422.html#a4acfeb7e23e1d3a74b66a1c54084e7bc">sFlyByCameraStore</a>[dbcentry-&gt;ID] = cameras;</div>
-<div class="line"><span class="lineno">  170</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  171</span>}</div>
-<div class="ttc" id="aa01412_html_a55e6b22a71b5c615b82389bdf1717718"><div class="ttname"><a href="../../dc/d10/a01412.html#a55e6b22a71b5c615b82389bdf1717718">positions</a></div><div class="ttdeci">const Position positions[MAX_SUMMONS]</div><div class="ttdef"><b>Definition:</b> boss_lurker_below.cpp:57</div></div>
-<div class="ttc" id="aa03422_html_a058e5fb250bd785cecc9a6913132dfe4"><div class="ttname"><a href="../../d3/dff/a03422.html#a058e5fb250bd785cecc9a6913132dfe4">FlyByCameraCollection</a></div><div class="ttdeci">std::vector&lt; FlyByCamera &gt; FlyByCameraCollection</div><div class="ttdef"><b>Definition:</b> M2Stores.cpp:27</div></div>
-<div class="ttc" id="aa03422_html_a5274eb8fcc7646fe4fc3ea77ab6de2d9"><div class="ttname"><a href="../../d3/dff/a03422.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9">TranslateLocation</a></div><div class="ttdeci">G3D::Vector3 TranslateLocation(G3D::Vector4 const *DBCPosition, G3D::Vector3 const *basePosition, G3D::Vector3 const *splineVector)</div><div class="ttdef"><b>Definition:</b> M2Stores.cpp:31</div></div>
-<div class="ttc" id="aa07840_html"><div class="ttname"><a href="../../d1/d49/a07840.html">FlyByCamera</a></div><div class="ttdef"><b>Definition:</b> M2Stores.h:26</div></div>
-<div class="ttc" id="aa07840_html_a5fed6b0484c1553a17b5303facaeb61b"><div class="ttname"><a href="../../d1/d49/a07840.html#a5fed6b0484c1553a17b5303facaeb61b">FlyByCamera::timeStamp</a></div><div class="ttdeci">uint32 timeStamp</div><div class="ttdef"><b>Definition:</b> M2Stores.h:27</div></div>
-<div class="ttc" id="aa07840_html_a6470ea69a14e24337aa6b0c05093b6d2"><div class="ttname"><a href="../../d1/d49/a07840.html#a6470ea69a14e24337aa6b0c05093b6d2">FlyByCamera::locations</a></div><div class="ttdeci">Position locations</div><div class="ttdef"><b>Definition:</b> M2Stores.h:28</div></div>
-<div class="ttc" id="aa07844_html"><div class="ttname"><a href="../../db/dbf/a07844.html">M2SplineKey</a></div><div class="ttdef"><b>Definition:</b> M2Structure.h:28</div></div>
-<div class="ttc" id="aa07844_html_aaf1df5d479ef12c6bfa9b02c8d9a54ad"><div class="ttname"><a href="../../db/dbf/a07844.html#aaf1df5d479ef12c6bfa9b02c8d9a54ad">M2SplineKey::p0</a></div><div class="ttdeci">T p0</div><div class="ttdef"><b>Definition:</b> M2Structure.h:29</div></div>
-<div class="ttc" id="aa07852_html"><div class="ttname"><a href="../../da/d98/a07852.html">M2Array</a></div><div class="ttdef"><b>Definition:</b> M2Structure.h:107</div></div>
-<div class="ttc" id="aa07852_html_ad633b2e9afc82762c6b43675844f8fea"><div class="ttname"><a href="../../da/d98/a07852.html#ad633b2e9afc82762c6b43675844f8fea">M2Array::offset_elements</a></div><div class="ttdeci">uint32 offset_elements</div><div class="ttdef"><b>Definition:</b> M2Structure.h:109</div></div>
-<div class="ttc" id="aa07852_html_af111e542d7a276e27d2b14757293bc42"><div class="ttname"><a href="../../da/d98/a07852.html#af111e542d7a276e27d2b14757293bc42">M2Array::number</a></div><div class="ttdeci">uint32_t number</div><div class="ttdef"><b>Definition:</b> M2Structure.h:108</div></div>
-<div class="ttc" id="aa08400_html_aa547307fa2e6acedbcebda20a98a0fcf"><div class="ttname"><a href="../../d0/d9f/a08400.html#aa547307fa2e6acedbcebda20a98a0fcf">Position::SetOrientation</a></div><div class="ttdeci">void SetOrientation(float orientation)</div><div class="ttdef"><b>Definition:</b> Position.h:116</div></div>
-<div class="ttc" id="aa08400_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../d0/d9f/a08400.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition:</b> Position.h:121</div></div>
-<div class="ttc" id="aa08400_html_ad8e55f9b39618093aa625abe3a06e1ed"><div class="ttname"><a href="../../d0/d9f/a08400.html#ad8e55f9b39618093aa625abe3a06e1ed">Position::GetPosition</a></div><div class="ttdeci">void GetPosition(float &amp;x, float &amp;y) const</div><div class="ttdef"><b>Definition:</b> Position.h:126</div></div>
-<div class="ttc" id="aa08400_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../d0/d9f/a08400.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:122</div></div>
-<div class="ttc" id="aa08400_html_afdbf0a257fcd7a48066fd92c4eacae3b"><div class="ttname"><a href="../../d0/d9f/a08400.html#afdbf0a257fcd7a48066fd92c4eacae3b">Position::Relocate</a></div><div class="ttdeci">void Relocate(float x, float y)</div><div class="ttdef"><b>Definition:</b> Position.h:77</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00704">CinematicCameraEntry::ID</a>, <a class="el" href="../../#l00028">FlyByCamera::locations</a>, <a class="el" href="../../#l00108">M2Array::number</a>, <a class="el" href="../../#l00109">M2Array::offset_elements</a>, <a class="el" href="../../#l00707">CinematicCameraEntry::Origin</a>, <a class="el" href="../../#l00708">CinematicCameraEntry::OriginFacing</a>, <a class="el" href="../../#l00029">M2SplineKey&lt; T &gt;::p0</a>, <a class="el" href="../../#l00126">M2Camera::position_base</a>, <a class="el" href="../../#l00125">M2Camera::positions</a>, <a class="el" href="../../#l00057">positions</a>, <a class="el" href="../../#l00077">Position::Relocate()</a>, <a class="el" href="../../#l00116">Position::SetOrientation()</a>, <a class="el" href="../../#l00028">sFlyByCameraStore</a>, <a class="el" href="../../#l00128">M2Camera::target_position_base</a>, <a class="el" href="../../#l00127">M2Camera::target_positions</a>, <a class="el" href="../../#l00027">FlyByCamera::timeStamp</a>, <a class="el" href="../../#l00115">M2Track::timestamps</a>, <a class="el" href="../../#l00031">TranslateLocation()</a>, <a class="el" href="../../#l00116">M2Track::values</a>, <a class="el" href="../../#l00026">DBCPosition3D::X</a>, <a class="el" href="../../#l00027">DBCPosition3D::Y</a>, and <a class="el" href="../../#l00028">DBCPosition3D::Z</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00173">LoadM2Cameras()</a>.</p>
-
-</div>
-</div>
-<a id="a5274eb8fcc7646fe4fc3ea77ab6de2d9" name="a5274eb8fcc7646fe4fc3ea77ab6de2d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5274eb8fcc7646fe4fc3ea77ab6de2d9">&#9670;&#160;</a></span>TranslateLocation()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">G3D::Vector3 TranslateLocation </td>
-          <td>(</td>
-          <td class="paramtype">G3D::Vector4 const *&#160;</td>
-          <td class="paramname"><em>DBCPosition</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">G3D::Vector3 const *&#160;</td>
-          <td class="paramname"><em>basePosition</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">G3D::Vector3 const *&#160;</td>
-          <td class="paramname"><em>splineVector</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   32</span>{</div>
-<div class="line"><span class="lineno">   33</span>    G3D::Vector3 work;</div>
-<div class="line"><span class="lineno">   34</span>    <span class="keywordtype">float</span> x = basePosition-&gt;x + splineVector-&gt;x;</div>
-<div class="line"><span class="lineno">   35</span>    <span class="keywordtype">float</span> y = basePosition-&gt;y + splineVector-&gt;y;</div>
-<div class="line"><span class="lineno">   36</span>    <span class="keywordtype">float</span> z = basePosition-&gt;z + splineVector-&gt;z;</div>
-<div class="line"><span class="lineno">   37</span>    <span class="keywordtype">float</span> <span class="keyword">const</span> distance = std::sqrt((x * x) + (y * y));</div>
-<div class="line"><span class="lineno">   38</span>    <span class="keywordtype">float</span> angle = std::atan2(x, y) - DBCPosition-&gt;w;</div>
-<div class="line"><span class="lineno">   39</span> </div>
-<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">if</span> (angle &lt; 0)</div>
-<div class="line"><span class="lineno">   41</span>        angle += 2 * float(M_PI);</div>
-<div class="line"><span class="lineno">   42</span> </div>
-<div class="line"><span class="lineno">   43</span>    work.x = DBCPosition-&gt;x + (distance * sin(angle));</div>
-<div class="line"><span class="lineno">   44</span>    work.y = DBCPosition-&gt;y + (distance * cos(angle));</div>
-<div class="line"><span class="lineno">   45</span>    work.z = DBCPosition-&gt;z + z;</div>
-<div class="line"><span class="lineno">   46</span>    <span class="keywordflow">return</span> work;</div>
-<div class="line"><span class="lineno">   47</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00050">readCamera()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a4acfeb7e23e1d3a74b66a1c54084e7bc" name="a4acfeb7e23e1d3a74b66a1c54084e7bc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4acfeb7e23e1d3a74b66a1c54084e7bc">&#9670;&#160;</a></span>sFlyByCameraStore</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::unordered_map&lt;<a class="el" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d3/dff/a03422.html#a058e5fb250bd785cecc9a6913132dfe4">FlyByCameraCollection</a>&gt; sFlyByCameraStore</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00254">GetFlyByCameras()</a>, <a class="el" href="../../#l00173">LoadM2Cameras()</a>, and <a class="el" href="../../#l00050">readCamera()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00030">AddEventsScripts()</a>.</p>
 
 </div>
 </div>
@@ -553,8 +783,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_cf66c9a7c0140de46c47cc8282fbae4a.html">DataStores</a></li><li class="navelem"><a class="el" href="../../d3/dff/a03422.html">M2Stores.cpp</a></li>
-    <li class="footer">Generated on Mon Feb 24 2025 20:42:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_c818e5878076a3731e7c7d0d4061bd6b.html">Events</a></li><li class="navelem"><a class="el" href="../../d3/dff/a03422.html">pilgrims_bounty.cpp</a></li>
+    <li class="footer">Generated on Mon Mar 3 2025 20:44:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

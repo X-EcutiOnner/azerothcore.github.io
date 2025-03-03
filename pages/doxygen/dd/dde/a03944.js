@@ -1,12 +1,9 @@
 var a03944 =
 [
-    [ "ArenaTeamScript", "d4/de7/a10188.html", "d4/de7/a10188" ],
-    [ "ArenaTeamHook", "dd/dde/a03944.html#adfb7077026efd17516d6b85637c2b218", [
-      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "dd/dde/a03944.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
-      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "dd/dde/a03944.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
-      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "dd/dde/a03944.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
-      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "dd/dde/a03944.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
-      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "dd/dde/a03944.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
-      [ "ARENATEAMHOOK_END", "dd/dde/a03944.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
-    ] ]
+    [ "instance_ruby_sanctum", "db/db7/a16052.html", "db/db7/a16052" ],
+    [ "instance_ruby_sanctum::instance_ruby_sanctum_InstanceMapScript", "dc/d2d/a16056.html", "dc/d2d/a16056" ],
+    [ "spell_ruby_sanctum_rallying_shout", "d7/de2/a16060.html", "d7/de2/a16060" ],
+    [ "AddSC_instance_ruby_sanctum", "dd/dde/a03944.html#a93f8126d2e36ad7caab980f1c3f83a14", null ],
+    [ "boundaries", "dd/dde/a03944.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "doorData", "dd/dde/a03944.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

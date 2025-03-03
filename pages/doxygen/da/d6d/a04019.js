@@ -1,19 +1,15 @@
 var a04019 =
 [
-    [ "QueryResultFieldMetadata", "d7/da9/a05672.html", "d7/da9/a05672" ],
-    [ "Field", "d6/d0e/a05676.html", "d6/d0e/a05676" ],
-    [ "Binary", "da/d6d/a04019.html#a45c2b15f675e85c1f4462be09f27c59e", null ],
-    [ "is_chrono_v", "da/d6d/a04019.html#aa6a7b1e80be2ae7ec2efb76185ee7b44", null ],
-    [ "DatabaseFieldTypes", "da/d6d/a04019.html#a52858f4c2cc23ac9372ab466fb82c091", [
-      [ "Null", "da/d6d/a04019.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94", null ],
-      [ "Int8", "da/d6d/a04019.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539", null ],
-      [ "Int16", "da/d6d/a04019.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208", null ],
-      [ "Int32", "da/d6d/a04019.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31", null ],
-      [ "Int64", "da/d6d/a04019.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487", null ],
-      [ "Float", "da/d6d/a04019.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b", null ],
-      [ "Double", "da/d6d/a04019.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b", null ],
-      [ "Decimal", "da/d6d/a04019.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3", null ],
-      [ "Date", "da/d6d/a04019.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41", null ],
-      [ "Binary", "da/d6d/a04019.html#a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd", null ]
-    ] ]
+    [ "instance_nexus", "de/dc5/a19204.html", "de/dc5/a19204" ],
+    [ "instance_nexus::instance_nexus_InstanceMapScript", "db/d3c/a19208.html", "db/d3c/a19208" ],
+    [ "npc_crystalline_frayer", "d2/df2/a19212.html", "d2/df2/a19212" ],
+    [ "eFrayer", "da/d6d/a04019.html#afccbdf6b1fcd1d08834c371ae089cd34", [
+      [ "SPELL_SUMMON_SEED_POD", "da/d6d/a04019.html#afccbdf6b1fcd1d08834c371ae089cd34a574104b14cbcd24794ab8666fa8dbd76", null ],
+      [ "SPELL_SEED_POD", "da/d6d/a04019.html#afccbdf6b1fcd1d08834c371ae089cd34ac55a6fa8082947a3cf2c03a7a6698eb7", null ],
+      [ "SPELL_AURA_OF_REGENERATION", "da/d6d/a04019.html#afccbdf6b1fcd1d08834c371ae089cd34a16a68348d55363d0fa476afad65ed165", null ],
+      [ "SPELL_CRYSTAL_BLOOM", "da/d6d/a04019.html#afccbdf6b1fcd1d08834c371ae089cd34a2628113ed0f8c81fec3cbb2dd01123f7", null ],
+      [ "SPELL_ENSNARE", "da/d6d/a04019.html#afccbdf6b1fcd1d08834c371ae089cd34aa84bf40a2daa426466ad7322a0ab325d", null ]
+    ] ],
+    [ "AddSC_instance_nexus", "da/d6d/a04019.html#a77d0cce0724befee65efa7555f62f8f1", null ],
+    [ "doorData", "da/d6d/a04019.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

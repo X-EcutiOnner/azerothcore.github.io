@@ -1,6 +1,5 @@
 var a28348 =
 [
-    [ "SetUp", "d6/d3d/a28348.html#af04bbb2661f10d3bf442c590ebdf1a2b", null ],
-    [ "TearDown", "d6/d3d/a28348.html#a3bc271279472966f9dae906f9f77119b", null ],
-    [ "confFilePath", "d6/d3d/a28348.html#aaaccdda1669c76b94483bf2db2615d4e", null ]
+    [ "type", "d6/d3d/a28348.html#af749459df7757d1bab17a54be813f6b6", null ],
+    [ "_type", "d6/d3d/a28348.html#ab0344571616786baef4511c647a3abea", null ]
 ];

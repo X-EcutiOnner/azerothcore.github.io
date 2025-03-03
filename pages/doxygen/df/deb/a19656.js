@@ -1,6 +1,8 @@
 var a19656 =
 [
-    [ "achievement_assembly_of_iron", "df/deb/a19656.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "df/deb/a19656.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "df/deb/a19656.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "OnPeriodic", "df/deb/a19656.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
+    [ "OnRemove", "df/deb/a19656.html#ac6d961793ddb6423540da9d97e016b82", null ],
+    [ "PrepareAuraScript", "df/deb/a19656.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
+    [ "Register", "df/deb/a19656.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
+    [ "Validate", "df/deb/a19656.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
 ];

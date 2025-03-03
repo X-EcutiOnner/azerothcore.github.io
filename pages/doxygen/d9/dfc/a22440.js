@@ -1,9 +1,12 @@
 var a22440 =
 [
-    [ "npc_stolen_soul", "d9/dfc/a22440.html#a84a0bb8320b2332545748e010d855884", null ],
-    [ "DoAction", "d9/dfc/a22440.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
-    [ "Reset", "d9/dfc/a22440.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
-    [ "UpdateAI", "d9/dfc/a22440.html#a7bf369dd943ee36600a364d56b85db5a", null ],
-    [ "_scheduler", "d9/dfc/a22440.html#ab62526916f0ccd681383d37d19d94ccc", null ],
-    [ "myClass", "d9/dfc/a22440.html#ab2ad92983075320ce389aa583c341d21", null ]
+    [ "boss_exarch_maladaar", "d9/dfc/a22440.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
+    [ "JustDied", "d9/dfc/a22440.html#ab1179a19af8948d430559db4074c41ed", null ],
+    [ "JustEngagedWith", "d9/dfc/a22440.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
+    [ "JustSummoned", "d9/dfc/a22440.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
+    [ "KilledUnit", "d9/dfc/a22440.html#adf35cb8b039676500d4040baa08b0d48", null ],
+    [ "MoveInLineOfSight", "d9/dfc/a22440.html#a14baacd30b9186c7492c981313421d5b", null ],
+    [ "Reset", "d9/dfc/a22440.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
+    [ "UpdateAI", "d9/dfc/a22440.html#a7646c4477135d3d3b8580432902babd4", null ],
+    [ "_talked", "d9/dfc/a22440.html#a15c4f122529b9f52823ea407c43433c5", null ]
 ];

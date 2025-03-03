@@ -1,9 +1,11 @@
 var a01190 =
 [
-    [ "instance_gruuls_lair", "d7/d93/a23352.html", "d7/d93/a23352" ],
-    [ "instance_gruuls_lair::instance_gruuls_lair_InstanceMapScript", "d8/de0/a23356.html", "d8/de0/a23356" ],
-    [ "AddSC_instance_gruuls_lair", "dc/d19/a01190.html#a6c9bd5a761d9018e8be9e0c11b8db2c5", null ],
-    [ "creatureData", "dc/d19/a01190.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "dc/d19/a01190.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "minionData", "dc/d19/a01190.html#a6720238df140a3c574a711042b7f5bd3", null ]
+    [ "ThreatCalcHelper", "d0/df0/a07780.html", "d0/df0/a07780" ],
+    [ "HostileReference", "dc/d8f/a07784.html", "dc/d8f/a07784" ],
+    [ "ThreatContainer", "d5/d7b/a07788.html", "d5/d7b/a07788" ],
+    [ "ThreatMgr", "dc/d41/a07792.html", "dc/d41/a07792" ],
+    [ "RedirectThreatInfo", "d1/d83/a07796.html", "d1/d83/a07796" ],
+    [ "Acore::ThreatOrderPred", "d5/dc7/a07800.html", "d5/dc7/a07800" ],
+    [ "THREAT_UPDATE_INTERVAL", "dc/d19/a01190.html#a7173807ed06286e3a91f0497a3588f6b", null ],
+    [ "ThreatReference", "dc/d19/a01190.html#a62695703be4c945be07f18d2fe6a9a18", null ]
 ];

@@ -1,8 +1,6 @@
 var a22216 =
 [
-    [ "go_wg_vehicle_teleporterAI", "d3/d1f/a22216.html#af84e73765b1a4d810b41613824999186", null ],
-    [ "IsFriendly", "d3/d1f/a22216.html#adca817c8919958db888d5e9c759ad545", null ],
-    [ "IsValidVehicle", "d3/d1f/a22216.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
-    [ "UpdateAI", "d3/d1f/a22216.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
-    [ "_checkTimer", "d3/d1f/a22216.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
+    [ "go_wg_vehicle_teleporterAI", "d6/d73/a22220.html", "d6/d73/a22220" ],
+    [ "go_wg_vehicle_teleporter", "d3/d1f/a22216.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "d3/d1f/a22216.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

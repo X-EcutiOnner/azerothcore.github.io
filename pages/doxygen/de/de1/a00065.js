@@ -1,15 +1,11 @@
 var a00065 =
 [
-    [ "Socket< T >", "d1/d0d/a28288.html", "d1/d0d/a28288" ],
-    [ "READ_BLOCK_SIZE", "de/de1/a00065.html#a16ba013af02b9d4400b5e47d8daa022b", null ],
-    [ "ProxyHeaderAddressFamilyAndProtocol", "de/de1/a00065.html#a7ddce6d0420753babeb6258ada50eec1", [
-      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4", "de/de1/a00065.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575", null ],
-      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6", "de/de1/a00065.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699", null ]
-    ] ],
-    [ "ProxyHeaderReadingState", "de/de1/a00065.html#aa514bb66fa404b5b180297bb005c3272", [
-      [ "PROXY_HEADER_READING_STATE_NOT_STARTED", "de/de1/a00065.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c", null ],
-      [ "PROXY_HEADER_READING_STATE_STARTED", "de/de1/a00065.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98", null ],
-      [ "PROXY_HEADER_READING_STATE_FINISHED", "de/de1/a00065.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb", null ],
-      [ "PROXY_HEADER_READING_STATE_FAILED", "de/de1/a00065.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f", null ]
-    ] ]
+    [ "ADT::MDDF", "da/d3d/a28568.html", "da/d3d/a28568" ],
+    [ "ADT::MODF", "d7/d5c/a28572.html", "d7/d5c/a28572" ],
+    [ "ADTFile", "d2/d4b/a28576.html", "d2/d4b/a28576" ],
+    [ "fixname2", "de/de1/a00065.html#ac0029be4572a61d00eb1435db5526a74", null ],
+    [ "fixnamen", "de/de1/a00065.html#abdc56edc46e0804c456749761cff8daf", null ],
+    [ "GetExtension", "de/de1/a00065.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
+    [ "GetPlainName", "de/de1/a00065.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
+    [ "GetPlainName", "de/de1/a00065.html#a05f8969fb6d17548033afc24b906a83f", null ]
 ];

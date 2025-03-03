@@ -1,12 +1,10 @@
 var a00455 =
 [
-    [ "npc_valkyr_battle_maiden", "d6/d04/a12936.html", "d6/d04/a12936" ],
-    [ "npc_valkyr_battle_maiden::npc_valkyr_battle_maidenAI", "d2/df5/a12940.html", "d2/df5/a12940" ],
-    [ "Says_VBM", "dd/d63/a00455.html#a1e8eb132ddeee98b584395e0a134c9e4", [
-      [ "WHISPER_REVIVE", "dd/d63/a00455.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833", null ]
-    ] ],
-    [ "Spells_VBM", "dd/d63/a00455.html#a97df4b07a8686c29a9700c8d11af35e3", [
-      [ "SPELL_REVIVE", "dd/d63/a00455.html#a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38", null ]
-    ] ],
-    [ "AddSC_the_scarlet_enclave", "dd/d63/a00455.html#a86bbb652876f394aaca15b4ed6e2bfa7", null ]
+    [ "VMAP::ModelSpawn", "dc/d61/a05028.html", "dc/d61/a05028" ],
+    [ "VMAP::ModelInstance", "de/dff/a05032.html", "de/dff/a05032" ],
+    [ "ModelFlags", "dd/d63/a00455.html#ac540ff16efadcc07eeb9d8511b94ccce", [
+      [ "MOD_M2", "dd/d63/a00455.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
+      [ "MOD_WORLDSPAWN", "dd/d63/a00455.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
+      [ "MOD_HAS_BOUND", "dd/d63/a00455.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
+    ] ]
 ];

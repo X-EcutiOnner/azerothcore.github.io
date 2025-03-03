@@ -12,8 +12,6 @@ var a18916 =
     [ "SpawnHelpers", "d7/d66/a18916.html#ad81fa9c3449ba347de09b1519be6d408", null ],
     [ "SummonHelper", "d7/d66/a18916.html#a3a21a45072144b6f0421733466770267", null ],
     [ "UpdateAI", "d7/d66/a18916.html#a3004d23e6eaa3f2ef5942e96e0c17308", null ],
-    [ "_justSpawned", "d7/d66/a18916.html#a4f573ad3f6f6cf130e262bba96d6a63f", null ],
     [ "events", "d7/d66/a18916.html#a1ac1341c022c65f46b30a9c70b3f37ba", null ],
-    [ "pInstance", "d7/d66/a18916.html#aca5ecad3993753902e211479c84e5ad6", null ],
     [ "summons", "d7/d66/a18916.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e", null ]
 ];

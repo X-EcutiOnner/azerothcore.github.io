@@ -178,19 +178,19 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  250</span>{</div>
 <div class="line"><span class="lineno">  251</span>    <a class="code hl_class" href="../../de/d73/a07772.html">HyperlinkDataTokenizer</a> t(text);</div>
-<div class="line"><span class="lineno">  252</span>    <a class="code hl_typedef" href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId;</div>
+<div class="line"><span class="lineno">  252</span>    <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId;</div>
 <div class="line"><span class="lineno">  253</span> </div>
 <div class="line"><span class="lineno">  254</span>    <span class="keywordflow">if</span> (!t.TryConsumeTo(spellId))</div>
 <div class="line"><span class="lineno">  255</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  256</span> </div>
-<div class="line"><span class="lineno">  257</span>    val.Spell = <a class="code hl_define" href="../../dd/d25/a03545.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(spellId);</div>
+<div class="line"><span class="lineno">  257</span>    val.Spell = <a class="code hl_define" href="../../dd/d1b/a02351.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(spellId);</div>
 <div class="line"><span class="lineno">  258</span> </div>
-<div class="line"><span class="lineno">  259</span>    <span class="keywordflow">return</span> (val.Spell &amp;&amp; val.Spell-&gt;Effects[0].Effect == <a class="code hl_enumvalue" href="../../d4/d3a/a00101.html#a292c893150c454dd75628b719db1fe97a965dd7d9d296688ffa85008dd1635aa1">SPELL_EFFECT_TRADE_SKILL</a> &amp;&amp; t.TryConsumeTo(val.CurValue) &amp;&amp;</div>
+<div class="line"><span class="lineno">  259</span>    <span class="keywordflow">return</span> (val.Spell &amp;&amp; val.Spell-&gt;Effects[0].Effect == <a class="code hl_enumvalue" href="../../d2/d35/a02480.html#a292c893150c454dd75628b719db1fe97a965dd7d9d296688ffa85008dd1635aa1">SPELL_EFFECT_TRADE_SKILL</a> &amp;&amp; t.TryConsumeTo(val.CurValue) &amp;&amp;</div>
 <div class="line"><span class="lineno">  260</span>        t.TryConsumeTo(val.MaxValue) &amp;&amp; t.TryConsumeTo(val.Owner) &amp;&amp; t.TryConsumeTo(val.KnownRecipes) &amp;&amp; t.IsEmpty());</div>
 <div class="line"><span class="lineno">  261</span>}</div>
-<div class="ttc" id="aa00101_html_a292c893150c454dd75628b719db1fe97a965dd7d9d296688ffa85008dd1635aa1"><div class="ttname"><a href="../../d4/d3a/a00101.html#a292c893150c454dd75628b719db1fe97a965dd7d9d296688ffa85008dd1635aa1">SPELL_EFFECT_TRADE_SKILL</a></div><div class="ttdeci">@ SPELL_EFFECT_TRADE_SKILL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:825</div></div>
-<div class="ttc" id="aa03545_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../dd/d25/a03545.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:825</div></div>
-<div class="ttc" id="aa04559_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d1/dce/a04559.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00266_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa02351_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../dd/d1b/a02351.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:825</div></div>
+<div class="ttc" id="aa02480_html_a292c893150c454dd75628b719db1fe97a965dd7d9d296688ffa85008dd1635aa1"><div class="ttname"><a href="../../d2/d35/a02480.html#a292c893150c454dd75628b719db1fe97a965dd7d9d296688ffa85008dd1635aa1">SPELL_EFFECT_TRADE_SKILL</a></div><div class="ttdeci">@ SPELL_EFFECT_TRADE_SKILL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:825</div></div>
 <div class="ttc" id="aa07772_html"><div class="ttname"><a href="../../de/d73/a07772.html">HyperlinkDataTokenizer</a></div><div class="ttdef"><b>Definition:</b> HyperlinkTags.cpp:28</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00084">Acore::Hyperlinks::TradeskillLinkData::CurValue</a>, <a class="el" href="../../#l00393">SpellInfo::Effects</a>, <a class="el" href="../../#l00054">HyperlinkDataTokenizer::IsEmpty()</a>, <a class="el" href="../../#l00087">Acore::Hyperlinks::TradeskillLinkData::KnownRecipes</a>, <a class="el" href="../../#l00085">Acore::Hyperlinks::TradeskillLinkData::MaxValue</a>, <a class="el" href="../../#l00086">Acore::Hyperlinks::TradeskillLinkData::Owner</a>, <a class="el" href="../../#l00083">Acore::Hyperlinks::TradeskillLinkData::Spell</a>, <a class="el" href="../../#l00825">SPELL_EFFECT_TRADE_SKILL</a>, <a class="el" href="../../#l00825">sSpellMgr</a>, and <a class="el" href="../../#l00033">HyperlinkDataTokenizer::TryConsumeTo()</a>.</p>
@@ -229,7 +229,7 @@ Static Public Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d86/a04746.html">Acore</a></li><li class="navelem"><a class="el" href="../../d2/d5c/a04788.html">Hyperlinks</a></li><li class="navelem"><a class="el" href="../../d9/da4/a04789.html">LinkTags</a></li><li class="navelem"><a class="el" href="../../de/dbd/a07760.html">trade</a></li>
-    <li class="footer">Generated on Mon Feb 24 2025 20:44:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Mar 3 2025 20:46:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,8 @@
 var a19780 =
 [
-    [ "npc_storm_beacon_spawnAI", "d2/d4c/a19784.html", "d2/d4c/a19784" ],
-    [ "npc_storm_beacon_spawn", "de/d70/a19780.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
-    [ "GetAI", "de/d70/a19780.html#a780dd823962e259dbeda7089224aa23e", null ]
+    [ "npc_brann_radioAI", "de/d70/a19780.html#a329ca0310efe109f7fb364045f6eccbb", null ],
+    [ "MoveInLineOfSight", "de/d70/a19780.html#ad119431edd6f632b4c44fc4e8708d375", null ],
+    [ "Reset", "de/d70/a19780.html#a89183942dcb38f48de1867bfbce15721", null ],
+    [ "_helpLock", "de/d70/a19780.html#ae927b6c8143cfb029ab6574d10dde60e", null ],
+    [ "_lock", "de/d70/a19780.html#a421cfd2b8b149a0f3ea5bc2262ba6bac", null ]
 ];

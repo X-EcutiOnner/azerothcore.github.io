@@ -1,25 +1,8 @@
 var a00050 =
 [
-    [ "RealmHandle", "d5/d0e/a28316.html", "d5/d0e/a28316" ],
-    [ "Realm", "dd/de2/a28320.html", "dd/de2/a28320" ],
-    [ "RealmFlags", "d5/de0/a00050.html#ace3f717ac43bef67791faeb2a0b2c1e2", [
-      [ "REALM_FLAG_NONE", "d5/de0/a00050.html#ace3f717ac43bef67791faeb2a0b2c1e2a78cb2956eac93bb478e5a6573336a0a2", null ],
-      [ "REALM_FLAG_VERSION_MISMATCH", "d5/de0/a00050.html#ace3f717ac43bef67791faeb2a0b2c1e2a9e5fc6c089666cb09890f97038c44056", null ],
-      [ "REALM_FLAG_OFFLINE", "d5/de0/a00050.html#ace3f717ac43bef67791faeb2a0b2c1e2a728d61b0842461c34b1f6167e5dcdb68", null ],
-      [ "REALM_FLAG_SPECIFYBUILD", "d5/de0/a00050.html#ace3f717ac43bef67791faeb2a0b2c1e2afda7734169f8aad2549a0a0aa4c04903", null ],
-      [ "REALM_FLAG_UNK1", "d5/de0/a00050.html#ace3f717ac43bef67791faeb2a0b2c1e2a73ff031081f52c4cecfe2f899bb92304", null ],
-      [ "REALM_FLAG_UNK2", "d5/de0/a00050.html#ace3f717ac43bef67791faeb2a0b2c1e2a9d7b7c5ef743cf68b93360af13b7ed81", null ],
-      [ "REALM_FLAG_RECOMMENDED", "d5/de0/a00050.html#ace3f717ac43bef67791faeb2a0b2c1e2ab5051c0caffaa54a0fe3aab0d3c99b29", null ],
-      [ "REALM_FLAG_NEW", "d5/de0/a00050.html#ace3f717ac43bef67791faeb2a0b2c1e2a214cd38c14a7209f7986ae4ca43fe73b", null ],
-      [ "REALM_FLAG_FULL", "d5/de0/a00050.html#ace3f717ac43bef67791faeb2a0b2c1e2acdaee6e8c961adfa63cde3a06707b952", null ]
-    ] ],
-    [ "RealmType", "d5/de0/a00050.html#ae8ff852caf6f88797c9c3716d1acbe59", [
-      [ "REALM_TYPE_NORMAL", "d5/de0/a00050.html#ae8ff852caf6f88797c9c3716d1acbe59accb12c63a2ee89b9c3f72e5fd2b056fb", null ],
-      [ "REALM_TYPE_PVP", "d5/de0/a00050.html#ae8ff852caf6f88797c9c3716d1acbe59a5b9f160cabace91bff99046f281b899c", null ],
-      [ "REALM_TYPE_NORMAL2", "d5/de0/a00050.html#ae8ff852caf6f88797c9c3716d1acbe59a8529db1edd00f579cbeff7e0c2a88e19", null ],
-      [ "REALM_TYPE_RP", "d5/de0/a00050.html#ae8ff852caf6f88797c9c3716d1acbe59a81056f603f1158cb39b25f9ae8beb88f", null ],
-      [ "REALM_TYPE_RPPVP", "d5/de0/a00050.html#ae8ff852caf6f88797c9c3716d1acbe59a58e3ebd90691c511e7976f5bff724fae", null ],
-      [ "MAX_CLIENT_REALM_TYPE", "d5/de0/a00050.html#ae8ff852caf6f88797c9c3716d1acbe59a580a3990630da9c56e3fef200d6b15be", null ],
-      [ "REALM_TYPE_FFA_PVP", "d5/de0/a00050.html#ae8ff852caf6f88797c9c3716d1acbe59a43cf71d6098c453fc931d7e25f729457", null ]
-    ] ]
+    [ "Vec3D", "dd/def/a28592.html", "dd/def/a28592" ],
+    [ "AaBox3D", "dc/d97/a28596.html", "dc/d97/a28596" ],
+    [ "Vec2D", "d3/db7/a28600.html", "d3/db7/a28600" ],
+    [ "Quaternion", "d7/d4d/a28604.html", "d7/d4d/a28604" ],
+    [ "rotate", "d5/de0/a00050.html#a36f9f3de1d3e6935da68df2c6e347a4d", null ]
 ];

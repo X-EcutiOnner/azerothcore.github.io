@@ -1,5 +1,4 @@
 var a02378 =
 [
-    [ "SmartScript", "d8/dae/a06212.html", "d8/dae/a06212" ],
-    [ "SmartScript::SmartScriptFrame", "d5/d74/a06216.html", "d5/d74/a06216" ]
+    [ "UPDATE_TARGET_MAP_INTERVAL", "d5/d43/a02378.html#a49c1eff45f8eb67e523f8593923a5df0", null ]
 ];

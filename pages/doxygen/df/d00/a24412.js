@@ -1,9 +1,10 @@
 var a24412 =
 [
-    [ "HandleAfterHit", "df/d00/a24412.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
-    [ "Load", "df/d00/a24412.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
-    [ "PrepareSpellScript", "df/d00/a24412.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
-    [ "Register", "df/d00/a24412.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
-    [ "Validate", "df/d00/a24412.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
-    [ "_executed", "df/d00/a24412.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
+    [ "Absorb", "df/d00/a24412.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
+    [ "CalculateAmount", "df/d00/a24412.html#a279a025cac490ee3647f47584b59179f", null ],
+    [ "Load", "df/d00/a24412.html#a3fededdbfca9d12e6dbd097620e104be", null ],
+    [ "PrepareAuraScript", "df/d00/a24412.html#a818875a8073491eab2508182bd941e25", null ],
+    [ "Register", "df/d00/a24412.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
+    [ "Validate", "df/d00/a24412.html#a60eb14be1b3108b7b896a27eab35569b", null ],
+    [ "absorbPct", "df/d00/a24412.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
 ];
