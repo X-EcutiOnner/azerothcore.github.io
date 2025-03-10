@@ -1,7 +1,6 @@
 var a22506 =
 [
-    [ "npc_voidtraveler", "d6/d15/a22506.html#a07e473c14836a0612acd52078a93f2d8", null ],
-    [ "Reset", "d6/d15/a22506.html#a6efe0725917c92657220de2b60579289", null ],
-    [ "UpdateAI", "d6/d15/a22506.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
-    [ "_scheduler", "d6/d15/a22506.html#a1809494e7803103f6bc1698e780dcfbc", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "db/dfa/a22510.html", "db/dfa/a22510" ],
+    [ "instance_mana_tombs", "d6/d15/a22506.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "d6/d15/a22506.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

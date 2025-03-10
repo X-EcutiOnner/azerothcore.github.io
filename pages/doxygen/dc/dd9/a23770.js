@@ -1,8 +1,6 @@
 var a23770 =
 [
-    [ "instance_mechanar_InstanceMapScript", "dc/dd9/a23770.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "dc/dd9/a23770.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "dc/dd9/a23770.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "dc/dd9/a23770.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "dc/dd9/a23770.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "PrepareAuraScript", "dc/dd9/a23770.html#a14d4d1a75130a77e7e59e41720491bec", null ],
+    [ "PrepareProc", "dc/dd9/a23770.html#abea217f4bfdffc70007fbc29849e9a49", null ],
+    [ "Register", "dc/dd9/a23770.html#a9dbcd4c940f5941472bebb64829125e3", null ]
 ];

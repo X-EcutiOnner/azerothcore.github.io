@@ -1,9 +1,11 @@
 var a24542 =
 [
-    [ "HandleApply", "d2/da0/a24542.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
-    [ "HandleRemove", "d2/da0/a24542.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
-    [ "PrepareAuraScript", "d2/da0/a24542.html#af2b8e669737cd4282beb6a5035f496fc", null ],
-    [ "RecalculateBaseArmor", "d2/da0/a24542.html#a693720558c7b2b22c41a49a402522014", null ],
-    [ "Register", "d2/da0/a24542.html#aff9bc58342383afe5a08be696cddedf6", null ],
-    [ "Validate", "d2/da0/a24542.html#ad712e1e05d94372defdfa4fe67e65716", null ]
+    [ "CalcPeriodic", "d2/da0/a24542.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
+    [ "CalculateAPAmount", "d2/da0/a24542.html#ab23f26c3470f629f0a20f28faf272a68", null ],
+    [ "CalculateHealthAmount", "d2/da0/a24542.html#a4f827a906ac279e143ba8545545090ad", null ],
+    [ "CalculateSPAmount", "d2/da0/a24542.html#ae94493ffed217a218e21c05e002cec00", null ],
+    [ "HandleEffectApply", "d2/da0/a24542.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
+    [ "HandlePeriodic", "d2/da0/a24542.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
+    [ "PrepareAuraScript", "d2/da0/a24542.html#a5052689d815e0a0543693b39b7454deb", null ],
+    [ "Register", "d2/da0/a24542.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
 ];

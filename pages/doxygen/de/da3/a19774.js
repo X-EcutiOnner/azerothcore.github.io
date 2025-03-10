@@ -1,7 +1,6 @@
 var a19774 =
 [
-    [ "boss_flame_leviathan_safety_containerAI", "de/da3/a19774.html#ab9191e20df488df184c468ca1ac41084", null ],
-    [ "MovementInform", "de/da3/a19774.html#a1b472a233ebebbb4c1fbf639aeb4bed6", null ],
-    [ "UpdateAI", "de/da3/a19774.html#a77b3a493c5650d91c903879db324651d", null ],
-    [ "_allowTimer", "de/da3/a19774.html#a2185c9fe04fa7288fab452c5c1de3819", null ]
+    [ "npc_mimirons_infernoAI", "da/d3c/a19778.html", "da/d3c/a19778" ],
+    [ "npc_mimirons_inferno", "de/da3/a19774.html#a7a531a65a179b5d56c888c055b72d269", null ],
+    [ "GetAI", "de/da3/a19774.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
 ];

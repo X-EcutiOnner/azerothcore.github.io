@@ -1,10 +1,13 @@
 var a05322 =
 [
-    [ "Category", "da/d4d/a05322.html#a6a7956fedac99271428968ba339f464f", null ],
-    [ "Tags", "da/d4d/a05322.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
-    [ "Text", "da/d4d/a05322.html#ab63598f64896186fde81048550767b28", null ],
-    [ "Timestamp", "da/d4d/a05322.html#a8248a27d920ca431493750e3f2dec48b", null ],
-    [ "Title", "da/d4d/a05322.html#a857d2d4843480b9967334f079351292a", null ],
-    [ "Type", "da/d4d/a05322.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
-    [ "Value", "da/d4d/a05322.html#a09832a09e989c3851e72f4ec198f0e20", null ]
+    [ "Logger", "da/d4d/a05322.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
+    [ "addAppender", "da/d4d/a05322.html#aabacae0a84994e5567f9c87829909fdd", null ],
+    [ "delAppender", "da/d4d/a05322.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
+    [ "getLogLevel", "da/d4d/a05322.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
+    [ "getName", "da/d4d/a05322.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
+    [ "setLogLevel", "da/d4d/a05322.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
+    [ "write", "da/d4d/a05322.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
+    [ "appenders", "da/d4d/a05322.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
+    [ "level", "da/d4d/a05322.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
+    [ "name", "da/d4d/a05322.html#ada299a7dd268085371557213e36695a9", null ]
 ];

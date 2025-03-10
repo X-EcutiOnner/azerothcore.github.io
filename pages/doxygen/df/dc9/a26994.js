@@ -1,8 +1,9 @@
 var a26994 =
 [
-    [ "FilterTargets", "df/dc9/a26994.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
-    [ "HandleEffect", "df/dc9/a26994.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
-    [ "PrepareSpellScript", "df/dc9/a26994.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
-    [ "Register", "df/dc9/a26994.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
-    [ "Validate", "df/dc9/a26994.html#aabc063155fad404ffd044c9f79b88051", null ]
+    [ "boss_ysondreAI", "df/dc9/a26994.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
+    [ "DamageTaken", "df/dc9/a26994.html#a99ee250e776001bb142815fc711ae75d", null ],
+    [ "ExecuteEvent", "df/dc9/a26994.html#a88e3caa536a71730c757590be1bd3de1", null ],
+    [ "JustEngagedWith", "df/dc9/a26994.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
+    [ "Reset", "df/dc9/a26994.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
+    [ "_stage", "df/dc9/a26994.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
 ];

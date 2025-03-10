@@ -1,12 +1,11 @@
 var a23370 =
 [
-    [ "boss_omor_the_unscarred", "dc/dbe/a23370.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "dc/dbe/a23370.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "dc/dbe/a23370.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "dc/dbe/a23370.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "dc/dbe/a23370.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "dc/dbe/a23370.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "dc/dbe/a23370.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "dc/dbe/a23370.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "dc/dbe/a23370.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "boss_kiggler_the_crazed", "dc/dbe/a23370.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
+    [ "AttackStart", "dc/dbe/a23370.html#a47c18487637dcb911852573e3aec85a2", null ],
+    [ "JustDied", "dc/dbe/a23370.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
+    [ "JustEngagedWith", "dc/dbe/a23370.html#acd10951a5b148579d0bd4196cc2e686e", null ],
+    [ "Reset", "dc/dbe/a23370.html#a3bd8ca2488b2db298a198038a849189e", null ],
+    [ "UpdateAI", "dc/dbe/a23370.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
+    [ "_scheduler", "dc/dbe/a23370.html#af041c254910df663a03fcc815db635da", null ],
+    [ "instance", "dc/dbe/a23370.html#aa78db443f19814c66b977fe008de74fa", null ]
 ];

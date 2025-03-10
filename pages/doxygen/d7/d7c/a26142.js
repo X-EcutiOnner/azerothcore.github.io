@@ -1,6 +1,6 @@
 var a26142 =
 [
-    [ "HandleDummy", "d7/d7c/a26142.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
-    [ "PrepareSpellScript", "d7/d7c/a26142.html#a5efc666af2cb73c376706c20e41ace68", null ],
-    [ "Register", "d7/d7c/a26142.html#a46e61697212a43532e148ccb12a7d8e5", null ]
+    [ "HandleDummyEffect", "d7/d7c/a26142.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "d7/d7c/a26142.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "d7/d7c/a26142.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

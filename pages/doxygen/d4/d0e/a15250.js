@@ -1,7 +1,11 @@
 var a15250 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "d4/d0e/a15250.html#aaed19d0c915891d8afecda7df75a8a75", null ],
-    [ "JustRespawned", "d4/d0e/a15250.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
-    [ "MoveInLineOfSight", "d4/d0e/a15250.html#a295d4bef97b97c7deb31a81274f0818d", null ],
-    [ "SpellHit", "d4/d0e/a15250.html#a021b82aa6bd2e118fe810f18349fda42", null ]
+    [ "npc_kerlonianAI", "d4/d0e/a15250.html#a0f7a4566ca93a174c92fe10e904af480", null ],
+    [ "ClearSleeping", "d4/d0e/a15250.html#aea2815d79da4fa006ea150f052255b9d", null ],
+    [ "MoveInLineOfSight", "d4/d0e/a15250.html#a8b0a606510d278f26099a125d583377a", null ],
+    [ "Reset", "d4/d0e/a15250.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
+    [ "SetSleeping", "d4/d0e/a15250.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
+    [ "SpellHit", "d4/d0e/a15250.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
+    [ "UpdateFollowerAI", "d4/d0e/a15250.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
+    [ "FallAsleepTimer", "d4/d0e/a15250.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
 ];

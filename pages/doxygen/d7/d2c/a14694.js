@@ -1,12 +1,10 @@
 var a14694 =
 [
-    [ "boss_isalien", "d7/d2c/a14694.html#a736a25e60ae367a45c7d6451be96126d", null ],
-    [ "DamageTaken", "d7/d2c/a14694.html#a95d461e099193b5e2c1363acb1b5939a", null ],
-    [ "JustDied", "d7/d2c/a14694.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
-    [ "JustEngagedWith", "d7/d2c/a14694.html#ad6714da515db77c7299ee80b3268433e", null ],
-    [ "JustSummoned", "d7/d2c/a14694.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
-    [ "Reset", "d7/d2c/a14694.html#a4995c18e2baa62d05717617d0b1e3529", null ],
-    [ "UpdateAI", "d7/d2c/a14694.html#aa067bea34557a4b2fe840ef305852bc0", null ],
-    [ "_phase", "d7/d2c/a14694.html#a954bbd32948e6c416197199d96142056", null ],
-    [ "_scheduler", "d7/d2c/a14694.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
+    [ "boss_aeonus", "d7/d2c/a14694.html#af823ef2187b852dc72d2f63020e1701b", null ],
+    [ "IsSummonedBy", "d7/d2c/a14694.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
+    [ "JustDied", "d7/d2c/a14694.html#a649275c31e61f542a13fd791ee85277b", null ],
+    [ "JustEngagedWith", "d7/d2c/a14694.html#a5f193144e36a889630d5dbadb4aa665f", null ],
+    [ "JustReachedHome", "d7/d2c/a14694.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
+    [ "KilledUnit", "d7/d2c/a14694.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
+    [ "MoveInLineOfSight", "d7/d2c/a14694.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
 ];

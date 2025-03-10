@@ -1,6 +1,7 @@
 var a25166 =
 [
-    [ "CalculateDamage", "da/d76/a25166.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
-    [ "PrepareSpellScript", "da/d76/a25166.html#a4271f026fd9cddeb109761e9b864c381", null ],
-    [ "Register", "da/d76/a25166.html#a03bb4cf19328efa783600273663b609a", null ]
+    [ "HandleDamage", "da/d76/a25166.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
+    [ "PrepareSpellScript", "da/d76/a25166.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
+    [ "Register", "da/d76/a25166.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
+    [ "Validate", "da/d76/a25166.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
 ];

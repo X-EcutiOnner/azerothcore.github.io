@@ -1,7 +1,12 @@
 var a09078 =
 [
-    [ "V8Type", "de/daa/a09078.html#a385ac15640b76e43eda077c451dcd745", null ],
-    [ "V9Type", "de/daa/a09078.html#a9b7daa2ba0e72e137243ac061efaa2a5", null ],
-    [ "v8", "de/daa/a09078.html#a55d7b001e047c31686b110cc4b1aa295", null ],
-    [ "v9", "de/daa/a09078.html#ab4f6ec9aefc2721bd216582d7a882aa3", null ]
+    [ "flags", "de/daa/a09078.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
+    [ "fourcc", "de/daa/a09078.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
+    [ "height", "de/daa/a09078.html#ab064dde684394c3aa84f9b151749d524", null ],
+    [ "liquidFlags", "de/daa/a09078.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
+    [ "liquidLevel", "de/daa/a09078.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
+    [ "liquidType", "de/daa/a09078.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
+    [ "offsetX", "de/daa/a09078.html#a2ddee980eda8b7321b55ba44697688b5", null ],
+    [ "offsetY", "de/daa/a09078.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
+    [ "width", "de/daa/a09078.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
 ];

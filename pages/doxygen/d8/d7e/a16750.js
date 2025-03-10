@@ -1,5 +1,6 @@
 var a16750 =
 [
-    [ "at_hor_shadow_throne", "d8/d7e/a16750.html#a342808808be75079acf6a2f930afe930", null ],
-    [ "OnTrigger", "d8/d7e/a16750.html#a0166b1a58f4171c4d9893010df5831c4", null ]
+    [ "npc_shadowy_mercenaryAI", "d1/dd8/a16754.html", "d1/dd8/a16754" ],
+    [ "npc_shadowy_mercenary", "d8/d7e/a16750.html#a3ace4bb80f6771c586caa7f2dedf2b93", null ],
+    [ "GetAI", "d8/d7e/a16750.html#ada4b63bf708b3d19ce6d3a2b36c96672", null ]
 ];

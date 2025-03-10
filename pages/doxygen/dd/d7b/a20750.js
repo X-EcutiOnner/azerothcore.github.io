@@ -1,8 +1,6 @@
 var a20750 =
 [
-    [ "OnApply", "dd/d7b/a20750.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
-    [ "OnRemove", "dd/d7b/a20750.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "dd/d7b/a20750.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "dd/d7b/a20750.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "dd/d7b/a20750.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "d0/dd6/a20754.html", "d0/dd6/a20754" ],
+    [ "boss_yoggsaron_influence_tentacle", "dd/d7b/a20750.html#a44155d82364bdde7e00131be3b6edfb6", null ],
+    [ "GetAI", "dd/d7b/a20750.html#afb691fae90c0add07cfc8c02b9d2b975", null ]
 ];

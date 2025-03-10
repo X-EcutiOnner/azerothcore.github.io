@@ -1,6 +1,8 @@
 var a13838 =
 [
-    [ "HandleOnHit", "d8/da6/a13838.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "d8/da6/a13838.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "d8/da6/a13838.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "boss_grilekAI", "d8/da6/a13838.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
+    [ "JustEngagedWith", "d8/da6/a13838.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
+    [ "Reset", "d8/da6/a13838.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
+    [ "UpdateAI", "d8/da6/a13838.html#a19438103c9a582a7d36d805c80131e8c", null ],
+    [ "_pursuitTargetGUID", "d8/da6/a13838.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
 ];

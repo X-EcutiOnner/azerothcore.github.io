@@ -1,4 +1,5 @@
 var a04750 =
 [
-    [ "EnvironmentalDamageLog", "d9/d3c/a10322.html", "d9/d3c/a10322" ]
+    [ "ip", "da/d9d/a04751.html", "da/d9d/a04751" ],
+    [ "time_traits", "df/dcf/a04842.html", null ]
 ];

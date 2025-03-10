@@ -1,5 +1,5 @@
 var a15714 =
 [
-    [ "PrepareAuraScript", "da/d13/a15714.html#a94b3a8e0a610afa69c3a9771f8f22b13", null ],
-    [ "Register", "da/d13/a15714.html#a1203cbec26f64aa97d10783b567c2d62", null ]
+    [ "achievement_volunteer_work", "da/d13/a15714.html#a43db6e553b370f139ac376840fdf6d70", null ],
+    [ "OnCheck", "da/d13/a15714.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
 ];

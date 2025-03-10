@@ -1,6 +1,6 @@
 var a15366 =
 [
-    [ "Creature", "d8/dab/a15366.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "d8/dab/a15366.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "d8/dab/a15366.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "npc_clintar_spiritAI", "d4/d4b/a15370.html", "d4/d4b/a15370" ],
+    [ "npc_clintar_spirit", "d8/dab/a15366.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "d8/dab/a15366.html#a118198504f6f93c86302275a11582d60", null ]
 ];

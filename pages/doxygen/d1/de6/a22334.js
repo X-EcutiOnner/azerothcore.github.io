@@ -1,6 +1,6 @@
 var a22334 =
 [
-    [ "OutdoorPvPGH", "d1/de6/a22334.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "SendRemoveWorldStates", "d1/de6/a22334.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "d1/de6/a22334.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "npc_crusade_recruitAI", "d3/d72/a22338.html", "d3/d72/a22338" ],
+    [ "npc_crusade_recruit", "d1/de6/a22334.html#a6e130f153c506255ef5ece1baf006028", null ],
+    [ "GetAI", "d1/de6/a22334.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
 ];

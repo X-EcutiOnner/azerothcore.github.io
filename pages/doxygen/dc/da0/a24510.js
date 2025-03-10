@@ -1,7 +1,6 @@
 var a24510 =
 [
-    [ "AfterApply", "dc/da0/a24510.html#aee69eceead7e31cce2638ff252f6653d", null ],
-    [ "AfterRemove", "dc/da0/a24510.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
-    [ "PrepareAuraScript", "dc/da0/a24510.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
-    [ "Register", "dc/da0/a24510.html#ab5f8afbfa688ebd548a5508543498b55", null ]
+    [ "RaiseDeadCheck", "dc/da0/a24510.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "dc/da0/a24510.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "dc/da0/a24510.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

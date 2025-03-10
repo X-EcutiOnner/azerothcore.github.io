@@ -1,6 +1,9 @@
 var a24310 =
 [
-    [ "HandleEffectRemove", "d0/d30/a24310.html#a9472b79a272aff36be657b66883d822f", null ],
-    [ "PrepareAuraScript", "d0/d30/a24310.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
-    [ "Register", "d0/d30/a24310.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
+    [ "npc_pet_gen_fetch_ball", "d0/d30/a24310.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
+    [ "IsSummonedBy", "d0/d30/a24310.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
+    [ "SpellHitTarget", "d0/d30/a24310.html#a87bdded236f6584d9b71507a1253f7d0", null ],
+    [ "UpdateAI", "d0/d30/a24310.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
+    [ "checkTimer", "d0/d30/a24310.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
+    [ "targetGUID", "d0/d30/a24310.html#ae474374af7c2270e218ed236d90c789c", null ]
 ];

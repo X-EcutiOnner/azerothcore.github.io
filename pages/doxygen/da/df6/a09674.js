@@ -1,26 +1,7 @@
 var a09674 =
 [
-    [ "AddItem", "da/df6/a09674.html#ab39b529b190bafe093a7931311c24626", null ],
-    [ "HasItems", "da/df6/a09674.html#a0997971db668abca530f1869d71828dc", null ],
-    [ "IsCODPayment", "da/df6/a09674.html#a113aef1ace737f4bf119ee9cec9d69bd", null ],
-    [ "IsReturnedMail", "da/df6/a09674.html#adb7b77433c2ac76939d3fa9aa7ba5972", null ],
-    [ "IsSentByGM", "da/df6/a09674.html#a0e07f4b90ae44b9dc2a2cac9589196db", null ],
-    [ "IsSentByPlayer", "da/df6/a09674.html#a387fbf2f51eb9414bbcead134f59fa53", null ],
-    [ "RemoveItem", "da/df6/a09674.html#ab96701f1ab95184d78a1a91c87d0076c", null ],
-    [ "body", "da/df6/a09674.html#aaa91a94ee92b2712218a9cae389554f7", null ],
-    [ "checked", "da/df6/a09674.html#ae3198d4379f7f783aa40b180311ca970", null ],
-    [ "COD", "da/df6/a09674.html#ac6db3ffc26e23cc0aea607633390bb66", null ],
-    [ "deliver_time", "da/df6/a09674.html#ac418d7eae438c2c3cd297477a760f0b1", null ],
-    [ "expire_time", "da/df6/a09674.html#a5d7d7251c7a6021d9dc8b9406c0c20ff", null ],
-    [ "items", "da/df6/a09674.html#aab1074d26d11d3216df8f7e6e9b8c1f7", null ],
-    [ "mailTemplateId", "da/df6/a09674.html#afefffec74369d920ce395f1a04d8838c", null ],
-    [ "messageID", "da/df6/a09674.html#a3ee287f59b36f3154cd977a1e92c4d47", null ],
-    [ "messageType", "da/df6/a09674.html#a240dfdc4b89b7cb806330460d5256a44", null ],
-    [ "money", "da/df6/a09674.html#af326068e66a3091aa731186e5e3295ed", null ],
-    [ "receiver", "da/df6/a09674.html#a1cc9173228e34a23b635dfdb6fdf58a1", null ],
-    [ "removedItems", "da/df6/a09674.html#a4299fd5b84f08ff8b1a8fa7caadf531b", null ],
-    [ "sender", "da/df6/a09674.html#a62b403874a8e34a2ab99bc77dbe2996d", null ],
-    [ "state", "da/df6/a09674.html#ae81b243e0ef55683b282e8bfae1d7a42", null ],
-    [ "stationery", "da/df6/a09674.html#a88588149be95899c2fc30b144c4425a6", null ],
-    [ "subject", "da/df6/a09674.html#a8bc2e13257b7a771c9065e35aaf02744", null ]
+    [ "LootView", "da/df6/a09674.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
+    [ "loot", "da/df6/a09674.html#ac95fa4805c79923b292e8984b00de929", null ],
+    [ "permission", "da/df6/a09674.html#a33d7eeebd6fbc854300275a4138d9030", null ],
+    [ "viewer", "da/df6/a09674.html#af9a6926c6c871dee245f876038e49995", null ]
 ];

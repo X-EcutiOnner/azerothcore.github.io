@@ -1,6 +1,9 @@
 var a13454 =
 [
-    [ "npc_grand_magister_rommathAI", "d0/db9/a13458.html", "d0/db9/a13458" ],
-    [ "npc_grand_magister_rommath", "d9/d43/a13454.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
-    [ "GetAI", "d9/d43/a13454.html#abd64eff4712e8209e39e938b1813250c", null ]
+    [ "npc_partygoer", "d9/d43/a13454.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d9/d43/a13454.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d9/d43/a13454.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d9/d43/a13454.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d9/d43/a13454.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d9/d43/a13454.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

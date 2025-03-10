@@ -1,6 +1,7 @@
 var a21850 =
 [
-    [ "npc_plaguehound_trackerAI", "d4/d85/a21850.html#a7530f500b42ad9bb38593193d3113da8", null ],
-    [ "Reset", "d4/d85/a21850.html#a05c351ab3aca0cd18209405075bb0f47", null ],
-    [ "WaypointReached", "d4/d85/a21850.html#a67c345f49572cde76d9109a1baff6788", null ]
+    [ "HandleDummy", "d4/d85/a21850.html#abb5726c8afa66a946eefc8767094ea9b", null ],
+    [ "PrepareSpellScript", "d4/d85/a21850.html#ab5d9f8125c75bbd8fbb2717516d3eddd", null ],
+    [ "Register", "d4/d85/a21850.html#a38efc59fcbb40469521419723a1dceb3", null ],
+    [ "Validate", "d4/d85/a21850.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e", null ]
 ];

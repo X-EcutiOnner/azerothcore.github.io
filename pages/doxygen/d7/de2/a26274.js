@@ -1,6 +1,7 @@
 var a26274 =
 [
-    [ "OnApply", "d7/de2/a26274.html#a50ced6d5a475ccad9429dfbb05130394", null ],
-    [ "PrepareAuraScript", "d7/de2/a26274.html#abd02e129b1201449d473a66aea77d569", null ],
-    [ "Register", "d7/de2/a26274.html#a8c09775f642335252c6e548900dc9d3a", null ]
+    [ "HandleDummy", "d7/de2/a26274.html#ad2367c1fd551187b6f19f795abb15ea6", null ],
+    [ "PrepareSpellScript", "d7/de2/a26274.html#a125f7550ce826f74ac14902bc82d5021", null ],
+    [ "Register", "d7/de2/a26274.html#a35e9132e2414383caafbde699de6061d", null ],
+    [ "Validate", "d7/de2/a26274.html#a530489a10287a6dd281d518683b1a3f3", null ]
 ];

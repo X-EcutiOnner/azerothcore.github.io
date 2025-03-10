@@ -1,12 +1,12 @@
 var a22466 =
 [
-    [ "boss_anzu", "df/d7a/a22466.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "df/d7a/a22466.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "df/d7a/a22466.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "df/d7a/a22466.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "df/d7a/a22466.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "df/d7a/a22466.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "df/d7a/a22466.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "df/d7a/a22466.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "df/d7a/a22466.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "boss_exarch_maladaar", "df/d7a/a22466.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
+    [ "JustDied", "df/d7a/a22466.html#ab1179a19af8948d430559db4074c41ed", null ],
+    [ "JustEngagedWith", "df/d7a/a22466.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
+    [ "JustSummoned", "df/d7a/a22466.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
+    [ "KilledUnit", "df/d7a/a22466.html#adf35cb8b039676500d4040baa08b0d48", null ],
+    [ "MoveInLineOfSight", "df/d7a/a22466.html#a14baacd30b9186c7492c981313421d5b", null ],
+    [ "Reset", "df/d7a/a22466.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
+    [ "UpdateAI", "df/d7a/a22466.html#a7646c4477135d3d3b8580432902babd4", null ],
+    [ "_talked", "df/d7a/a22466.html#a15c4f122529b9f52823ea407c43433c5", null ]
 ];

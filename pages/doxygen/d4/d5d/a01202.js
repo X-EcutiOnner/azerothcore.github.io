@@ -1,17 +1,18 @@
 var a01202 =
 [
-    [ "ChangeEmail", "d4/d5d/a01202.html#a2a6c83e2d4e6121855beb252f23c905b", null ],
-    [ "ChangePassword", "d4/d5d/a01202.html#a6a9cb892c15d78b5de65738005234ff6", null ],
-    [ "ChangeUsername", "d4/d5d/a01202.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
-    [ "CheckPassword", "d4/d5d/a01202.html#a17c28dfcb31af8f4241bb5210408185a", null ],
-    [ "CreateAccount", "d4/d5d/a01202.html#a7a7668ab60ae56c7e71fce77780bb214", null ],
-    [ "DeleteAccount", "d4/d5d/a01202.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
-    [ "GetCharactersCount", "d4/d5d/a01202.html#a4fb760897161c3d463f842b28bcf7c20", null ],
-    [ "GetId", "d4/d5d/a01202.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],
-    [ "GetName", "d4/d5d/a01202.html#af911e3860ec519c541d6df35468ee41b", null ],
-    [ "GetSecurity", "d4/d5d/a01202.html#a8280510b2564ec6ea76727218c1687b3", null ],
-    [ "GetSecurity", "d4/d5d/a01202.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
-    [ "IsAdminAccount", "d4/d5d/a01202.html#adb1b210137b09011677c74011addeefa", null ],
-    [ "IsConsoleAccount", "d4/d5d/a01202.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
-    [ "IsPlayerAccount", "d4/d5d/a01202.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
+    [ "UnitBaseEvent", "da/d3d/a07810.html", "da/d3d/a07810" ],
+    [ "ThreatRefStatusChangeEvent", "d2/d34/a07814.html", "d2/d34/a07814" ],
+    [ "ThreatMgrEvent", "de/d19/a07822.html", "de/d19/a07822" ],
+    [ "UEV_ALL_EVENT_MASK", "d4/d5d/a01202.html#a99af7f8805c877a694d51ab4feb1e58b", null ],
+    [ "UEV_THREAT_MANAGER_EVENT_MASK", "d4/d5d/a01202.html#a28d3aa8f148208fa65f5ef1af46913cc", null ],
+    [ "UEV_THREAT_REF_EVENT_MASK", "d4/d5d/a01202.html#aca3c8db6dd274b113d9c3c7755ff5d7a", null ],
+    [ "UNIT_EVENT_TYPE", "d4/d5d/a01202.html#a5207de6e2fb421d2579a9baf4c471e97", [
+      [ "UEV_THREAT_REF_ONLINE_STATUS", "d4/d5d/a01202.html#a5207de6e2fb421d2579a9baf4c471e97a77f8da111f54455d20c58ae0fd4156f9", null ],
+      [ "UEV_THREAT_REF_THREAT_CHANGE", "d4/d5d/a01202.html#a5207de6e2fb421d2579a9baf4c471e97a5c74b5ccc46cdc399916b41b6d97bfb0", null ],
+      [ "UEV_THREAT_REF_REMOVE_FROM_LIST", "d4/d5d/a01202.html#a5207de6e2fb421d2579a9baf4c471e97aa8b5a9d97c235e1f56e98ff4103b08d0", null ],
+      [ "UEV_THREAT_REF_ASSECCIBLE_STATUS", "d4/d5d/a01202.html#a5207de6e2fb421d2579a9baf4c471e97abd7481924e1cb036704820e5be0407db", null ],
+      [ "UEV_THREAT_SORT_LIST", "d4/d5d/a01202.html#a5207de6e2fb421d2579a9baf4c471e97a74092d5fa151b78ce0de1ddf3ed05865", null ],
+      [ "UEV_THREAT_SET_NEXT_TARGET", "d4/d5d/a01202.html#a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9", null ],
+      [ "UEV_THREAT_VICTIM_CHANGED", "d4/d5d/a01202.html#a5207de6e2fb421d2579a9baf4c471e97af02166c466fbff650b908cd08c7e4669", null ]
+    ] ]
 ];

@@ -1,10 +1,17 @@
 var a28090 =
 [
-    [ "PvPDifficultyEntry", "d1/d77/a28090.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
-    [ "GetBracketId", "d1/d77/a28090.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
-    [ "bracketId", "d1/d77/a28090.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
-    [ "difficulty", "d1/d77/a28090.html#a33ac017d785a4586a78e715d97836720", null ],
-    [ "mapId", "d1/d77/a28090.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
-    [ "maxLevel", "d1/d77/a28090.html#a1385166568239f2118b65377df8b4b55", null ],
-    [ "minLevel", "d1/d77/a28090.html#acd07e8d759af1b73ec7543f6e70df242", null ]
+    [ "Entry", "d1/d77/a28090.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
+    [ "Difficulty", "d1/d77/a28090.html#aa85e97ced86b0d27c753ca924eba074b", null ],
+    [ "ExpansionLevel", "d1/d77/a28090.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
+    [ "Flags", "d1/d77/a28090.html#a9481c296a064ec400b0f050097903557", null ],
+    [ "GroupID", "d1/d77/a28090.html#a7a6c2971a61b171d00c885ce452601ce", null ],
+    [ "ID", "d1/d77/a28090.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
+    [ "MapID", "d1/d77/a28090.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
+    [ "MaxLevel", "d1/d77/a28090.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
+    [ "MinLevel", "d1/d77/a28090.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
+    [ "Name", "d1/d77/a28090.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
+    [ "TargetLevel", "d1/d77/a28090.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
+    [ "TargetLevelMax", "d1/d77/a28090.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
+    [ "TargetLevelMin", "d1/d77/a28090.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
+    [ "TypeID", "d1/d77/a28090.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
 ];

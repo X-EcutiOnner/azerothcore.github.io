@@ -1,5 +1,8 @@
 var a26858 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "d1/d68/a26858.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "d1/d68/a26858.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "CheckProc", "d1/d68/a26858.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
+    [ "HandleEffectProc", "d1/d68/a26858.html#af01d160cb2a55124361a2dd113acd0a7", null ],
+    [ "PrepareAuraScript", "d1/d68/a26858.html#aeffb8490a7208ae6e32a505283afbc03", null ],
+    [ "Register", "d1/d68/a26858.html#a5436413d098dde4b0fa1ed2259a47779", null ],
+    [ "Validate", "d1/d68/a26858.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
 ];

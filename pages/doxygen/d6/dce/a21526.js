@@ -1,6 +1,7 @@
 var a21526 =
 [
-    [ "npc_dalaran_mageAI", "de/dd5/a21530.html", "de/dd5/a21530" ],
-    [ "npc_dalaran_mage", "d6/dce/a21526.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
-    [ "GetAI", "d6/dce/a21526.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
+    [ "npc_warmage_violetstand", "d6/dce/a21526.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "d6/dce/a21526.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "d6/dce/a21526.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "d6/dce/a21526.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

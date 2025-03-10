@@ -1,5 +1,6 @@
 var a20302 =
 [
-    [ "go_ulduar_do_not_push_this_button", "d0/da8/a20302.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "d0/da8/a20302.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "npc_ulduar_aerial_command_unitAI", "d6/d1a/a20306.html", "d6/d1a/a20306" ],
+    [ "npc_ulduar_aerial_command_unit", "d0/da8/a20302.html#ac0c1ecef78b92dd4ae072f6eeca9f733", null ],
+    [ "GetAI", "d0/da8/a20302.html#a406e828a902d75bb1946fd8f5090044f", null ]
 ];

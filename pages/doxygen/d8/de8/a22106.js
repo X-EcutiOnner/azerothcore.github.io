@@ -1,7 +1,8 @@
 var a22106 =
 [
-    [ "HandleDummy", "d8/de8/a22106.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "d8/de8/a22106.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "d8/de8/a22106.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "d8/de8/a22106.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_vics_flying_machineAI", "d8/de8/a22106.html#a4464e0b1433c4ffb24ae7809b1a0eec5", null ],
+    [ "MovementInform", "d8/de8/a22106.html#ac4bbe0a3cccb6878d050b717b9efb320", null ],
+    [ "PassengerBoarded", "d8/de8/a22106.html#aa67dcbb4b43b047398fec2619ad61829", null ],
+    [ "SpellHit", "d8/de8/a22106.html#aa81229a104e1521d570abec4b6f7bca7", null ],
+    [ "pointId", "d8/de8/a22106.html#aa1412c23f0c3b964262e145c51aea974", null ]
 ];

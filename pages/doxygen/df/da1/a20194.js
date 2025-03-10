@@ -1,7 +1,7 @@
 var a20194 =
 [
-    [ "StoneGripTargetSelector", "df/da1/a20194.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
-    [ "operator()", "df/da1/a20194.html#ae40653def55e656f2347029a97605395", null ],
-    [ "_me", "df/da1/a20194.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
-    [ "_victim", "df/da1/a20194.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
+    [ "HandleEffectPeriodic", "df/da1/a20194.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "df/da1/a20194.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "df/da1/a20194.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "df/da1/a20194.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

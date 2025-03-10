@@ -1,5 +1,6 @@
 var a20130 =
 [
-    [ "achievement_staying_buffed_all_winter_25", "de/d45/a20130.html#a91f0ab3bada837cff6414350b98a27a3", null ],
-    [ "OnCheck", "de/d45/a20130.html#a36591082184bc8466e124bad9a910545", null ]
+    [ "FilterTargets", "de/d45/a20130.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "de/d45/a20130.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "de/d45/a20130.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

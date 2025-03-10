@@ -1,5 +1,6 @@
 var a27506 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "d6/dec/a27506.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "d6/dec/a27506.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "npc_experience", "d6/dec/a27506.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "d6/dec/a27506.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "d6/dec/a27506.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

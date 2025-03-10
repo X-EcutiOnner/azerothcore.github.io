@@ -1,14 +1,10 @@
 var a15006 =
 [
-    [ "boss_twinemperorsAI", "dd/d34/a15006.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "dd/d34/a15006.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "dd/d34/a15006.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "dd/d34/a15006.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "dd/d34/a15006.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "dd/d34/a15006.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "dd/d34/a15006.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "dd/d34/a15006.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "dd/d34/a15006.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "dd/d34/a15006.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "dd/d34/a15006.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "boss_huhuran", "dd/d34/a15006.html#a64e0b20891992764c708cbb661c18196", null ],
+    [ "DamageTaken", "dd/d34/a15006.html#adb47086f29b41f4168ad5d1b2728547d", null ],
+    [ "JustEngagedWith", "dd/d34/a15006.html#a08f1d6550680d5bcf07332eade115730", null ],
+    [ "Reset", "dd/d34/a15006.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
+    [ "UpdateAI", "dd/d34/a15006.html#a23962e668f046b373f94ea6a2d75574a", null ],
+    [ "_berserk", "dd/d34/a15006.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
+    [ "_hardEnrage", "dd/d34/a15006.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
 ];

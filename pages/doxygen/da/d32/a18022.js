@@ -1,6 +1,6 @@
 var a18022 =
 [
-    [ "LichKingDeathEvent", "da/d32/a18022.html#a9aa328b60358034355b1eed5caacb9f8", null ],
-    [ "Execute", "da/d32/a18022.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
-    [ "_owner", "da/d32/a18022.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
+    [ "HandleScript", "da/d32/a18022.html#a038a827f7fe179ff56ab581efdf08790", null ],
+    [ "PrepareSpellScript", "da/d32/a18022.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
+    [ "Register", "da/d32/a18022.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
 ];

@@ -1,6 +1,7 @@
 var a13150 =
 [
-    [ "CorruptTriggers", "da/d57/a13150.html#a5ec60254ee2ac299ce99164189087a1c", null ],
-    [ "Execute", "da/d57/a13150.html#a9929f3518f307e0b753782967f06c6c1", null ],
-    [ "_caster", "da/d57/a13150.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ]
+    [ "HandleScriptEffect", "da/d57/a13150.html#a703ac8467126f5c2aee393fcf2400ffc", null ],
+    [ "PrepareSpellScript", "da/d57/a13150.html#a17c49de5f6a37ff83126398d96b43a51", null ],
+    [ "Register", "da/d57/a13150.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16", null ],
+    [ "Validate", "da/d57/a13150.html#a17d53f598be9fe9e9790bb96dfcb4891", null ]
 ];

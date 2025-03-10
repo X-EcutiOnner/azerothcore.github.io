@@ -1,6 +1,5 @@
 var a19902 =
 [
-    [ "boss_freya_lifebinderAI", "da/dcc/a19906.html", "da/dcc/a19906" ],
-    [ "boss_freya_lifebinder", "d4/dde/a19902.html#ad7a3bc09aacf35b4a6a39e65c966b824", null ],
-    [ "GetAI", "d4/dde/a19902.html#a978e4472a080f0fc53848abaa305cd77", null ]
+    [ "achievement_flame_leviathan_unbroken", "d4/dde/a19902.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
+    [ "OnCheck", "d4/dde/a19902.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
 ];

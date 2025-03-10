@@ -1,8 +1,15 @@
 var a12902 =
 [
-    [ "DelayedSummonEvent", "d3/d2f/a12902.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
-    [ "Execute", "d3/d2f/a12902.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
-    [ "_entry", "d3/d2f/a12902.html#a24d72110a070eb0bd03af081ef616de4", null ],
-    [ "_owner", "d3/d2f/a12902.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
-    [ "_pos", "d3/d2f/a12902.html#aef19987803a1cce47cbd8d9005a288ac", null ]
+    [ "npc_koltira_deathweaverAI", "d3/d2f/a12902.html#adbc46fce90170aec986faacf012bd2b2", null ],
+    [ "AttackStart", "d3/d2f/a12902.html#aa219afbaedb108e7384479de3bbb4135", null ],
+    [ "EnterEvadeMode", "d3/d2f/a12902.html#aaf9e9df5a7124b4fe6b9348d5c8931fa", null ],
+    [ "JustSummoned", "d3/d2f/a12902.html#ae93b1dd675d2f2b8aca93e9ccff42a2e", null ],
+    [ "Reset", "d3/d2f/a12902.html#ac07053d3798d57449c23bfff68e12f1b", null ],
+    [ "SummonAcolyte", "d3/d2f/a12902.html#ac74e57e84fa6d1166fe950a46492cc2b", null ],
+    [ "UpdateAI", "d3/d2f/a12902.html#a87e87ebfaaf7a633f799d2a0f9df18ba", null ],
+    [ "WaypointReached", "d3/d2f/a12902.html#a5714e781a73cf2774aa21a083cd8301a", null ],
+    [ "m_uiValrothGUID", "d3/d2f/a12902.html#acee9c0c42cc8a692526ef73b19292ceb", null ],
+    [ "m_uiWave", "d3/d2f/a12902.html#a35ec3a0a78240966a0e06753873e5956", null ],
+    [ "m_uiWave_Timer", "d3/d2f/a12902.html#a8e94cd2de591f06e395f2d116e3e533b", null ],
+    [ "summons", "d3/d2f/a12902.html#a38fc03a63df38b02eab07f3bffd969da", null ]
 ];

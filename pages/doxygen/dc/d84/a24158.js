@@ -1,7 +1,5 @@
 var a24158 =
 [
-    [ "npc_isla_starmaneAI", "dc/db9/a24162.html", "dc/db9/a24162" ],
-    [ "npc_isla_starmane", "dc/d84/a24158.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
-    [ "GetAI", "dc/d84/a24158.html#a0ea2dbaab4115772f92849e06aa85575", null ],
-    [ "OnQuestAccept", "dc/d84/a24158.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
+    [ "npc_shattrath_daily_quest", "dc/d84/a24158.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "dc/d84/a24158.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

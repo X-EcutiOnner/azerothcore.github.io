@@ -1,6 +1,10 @@
 var a14054 =
 [
-    [ "OnApply", "d5/dfa/a14054.html#a4a276b00d4912c210598057620368934", null ],
-    [ "PrepareAuraScript", "d5/dfa/a14054.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
-    [ "Register", "d5/dfa/a14054.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
+    [ "npc_brewfest_super_brew_trigger", "d5/dfa/a14054.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "d5/dfa/a14054.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "d5/dfa/a14054.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "d5/dfa/a14054.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "d5/dfa/a14054.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "d5/dfa/a14054.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "d5/dfa/a14054.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

@@ -1,16 +1,6 @@
 var a17786 =
 [
-    [ "boss_rotfaceAI", "d1/de5/a17786.html#abe4c4df1732127814a507b0f99203ebb", null ],
-    [ "EnterEvadeMode", "d1/de5/a17786.html#a8b166241350c7437c0baab2bc783dc93", null ],
-    [ "JustDied", "d1/de5/a17786.html#ab5ba6f23e4a0f097386452bdd497ef5a", null ],
-    [ "JustEngagedWith", "d1/de5/a17786.html#aa34831a7c2986451ff518a76547edecc", null ],
-    [ "JustReachedHome", "d1/de5/a17786.html#adac69ee7aca11d5d355ef71a11a39a1d", null ],
-    [ "JustSummoned", "d1/de5/a17786.html#aaa273c65b0545931797057ca4cdab1eb", null ],
-    [ "KilledUnit", "d1/de5/a17786.html#a9356f21962b312eccfba1b3e75afaba0", null ],
-    [ "Reset", "d1/de5/a17786.html#aed06635aabcb47fd700ab1a894bad13c", null ],
-    [ "SpellHitTarget", "d1/de5/a17786.html#a99d88373a20464fac3ebf035430c2e75", null ],
-    [ "UpdateAI", "d1/de5/a17786.html#aaf47878572d23bfb22f2ae77fed8d95e", null ],
-    [ "_oozeFloodDummyGUIDs", "d1/de5/a17786.html#a28e859c796fc210cba9a1ac7bfd0124a", null ],
-    [ "_oozeFloodStage", "d1/de5/a17786.html#aa007ed2c05914b1ce664d347bb04abaa", null ],
-    [ "infectionCooldown", "d1/de5/a17786.html#ae6fb76012902540a55870ed7b2f3fc7b", null ]
+    [ "HandleScript", "d1/de5/a17786.html#abd766c298f8aa363d28198b6a5d7e374", null ],
+    [ "PrepareSpellScript", "d1/de5/a17786.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
+    [ "Register", "d1/de5/a17786.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
 ];

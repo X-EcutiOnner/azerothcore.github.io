@@ -1,5 +1,5 @@
 var a00920 =
 [
-    [ "Acore::BattlegroundChatBuilder", "dd/df9/a07236.html", "dd/df9/a07236" ],
-    [ "Acore::Battleground2ChatBuilder", "df/d3a/a07240.html", "df/d3a/a07240" ]
+    [ "Acore::BattlegroundChatBuilder", "d3/d34/a07242.html", "d3/d34/a07242" ],
+    [ "Acore::Battleground2ChatBuilder", "d7/d22/a07246.html", "d7/d22/a07246" ]
 ];

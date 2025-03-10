@@ -1,9 +1,7 @@
 var a07338 =
 [
-    [ "BattlegroundEYScore", "d5/d3e/a07338.html#a91c17f1ff1924439b05840cd11ede36f", null ],
-    [ "BuildObjectivesBlock", "d5/d3e/a07338.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
-    [ "GetAttr1", "d5/d3e/a07338.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
-    [ "UpdateScore", "d5/d3e/a07338.html#afad034f453c54587b86532a37335ab18", null ],
-    [ "BattlegroundEY", "d5/d3e/a07338.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
-    [ "FlagCaptures", "d5/d3e/a07338.html#a057a335c7491c1031666e6d10cf314b2", null ]
+    [ "BattlegroundEYPointIconsStruct", "d5/d3e/a07338.html#a322379024d155d293d1c0083c510d232", null ],
+    [ "WorldStateAllianceControlledIndex", "d5/d3e/a07338.html#a449932bc2357e26c79520fcf01a71a2a", null ],
+    [ "WorldStateControlIndex", "d5/d3e/a07338.html#a82e87048f934b67821bc8ba308ed101d", null ],
+    [ "WorldStateHordeControlledIndex", "d5/d3e/a07338.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
 ];

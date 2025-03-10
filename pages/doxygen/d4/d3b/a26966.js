@@ -1,6 +1,5 @@
 var a26966 =
 [
-    [ "boss_emerissAI", "d8/da1/a26970.html", "d8/da1/a26970" ],
-    [ "boss_emeriss", "d4/d3b/a26966.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "d4/d3b/a26966.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "AreaTrigger_at_sentry_point", "d4/d3b/a26966.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
+    [ "OnTrigger", "d4/d3b/a26966.html#ab59fb74f4f988c208359855d2e4d9918", null ]
 ];

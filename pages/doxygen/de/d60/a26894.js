@@ -1,5 +1,5 @@
 var a26894 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "de/d60/a26894.html#aa2e9a01adad7e195860bbc6c55131024", null ],
-    [ "OnTrigger", "de/d60/a26894.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
+    [ "achievement_sickly_gazelle", "de/d60/a26894.html#abb613cb222c727923c4c5ce843db3a5f", null ],
+    [ "OnCheck", "de/d60/a26894.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
 ];

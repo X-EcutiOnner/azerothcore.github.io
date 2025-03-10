@@ -1,5 +1,4 @@
 var a04814 =
 [
-    [ "TotemCreated", "df/d5e/a10844.html", "df/d5e/a10844" ],
-    [ "TotemDestroyed", "da/df0/a10840.html", "da/df0/a10840" ]
+    [ "EnvironmentalDamageLog", "dd/d95/a10486.html", "dd/d95/a10486" ]
 ];

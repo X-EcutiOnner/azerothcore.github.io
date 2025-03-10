@@ -1,6 +1,9 @@
 var a26698 =
 [
-    [ "PrepareAuraScript", "df/d3c/a26698.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "df/d3c/a26698.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "df/d3c/a26698.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "CheckCast", "df/d3c/a26698.html#a846862b62f5750801cd804133f290d5d", null ],
+    [ "HandleDummy", "df/d3c/a26698.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
+    [ "Load", "df/d3c/a26698.html#acec7437ba80e4ae491020448a36e4559", null ],
+    [ "PrepareSpellScript", "df/d3c/a26698.html#ab5e281028c009a4b317111de9a0a17e3", null ],
+    [ "Register", "df/d3c/a26698.html#a865fa526f2131703a668e113ba0d7849", null ],
+    [ "Validate", "df/d3c/a26698.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
 ];

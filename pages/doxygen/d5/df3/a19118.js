@@ -1,8 +1,6 @@
 var a19118 =
 [
-    [ "FilterTargets", "d5/df3/a19118.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
-    [ "Load", "d5/df3/a19118.html#a639105c26214d9887b84a482ca93eb26", null ],
-    [ "PrepareSpellScript", "d5/df3/a19118.html#a354ae20be436528b16095d4cd8d37859", null ],
-    [ "Register", "d5/df3/a19118.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
-    [ "DrakeGUID", "d5/df3/a19118.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
+    [ "npc_nexus_lordAI", "df/d22/a19122.html", "df/d22/a19122" ],
+    [ "npc_nexus_lord", "d5/df3/a19118.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
+    [ "GetAI", "d5/df3/a19118.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
 ];

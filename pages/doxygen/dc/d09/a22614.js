@@ -1,8 +1,8 @@
 var a22614 =
 [
-    [ "Load", "dc/d09/a22614.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "dc/d09/a22614.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "dc/d09/a22614.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "dc/d09/a22614.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "dc/d09/a22614.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "npc_parasitic_shadowfiend", "dc/d09/a22614.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
+    [ "CanAIAttack", "dc/d09/a22614.html#ac7600aed313f1413cb9b522d60d30329", null ],
+    [ "EnterEvadeMode", "dc/d09/a22614.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
+    [ "IsSummonedBy", "dc/d09/a22614.html#a306c696d4243c4525d0a3908a212135d", null ],
+    [ "UpdateAI", "dc/d09/a22614.html#a2706a4ba7876f299b02d2e720f512af2", null ]
 ];

@@ -1,6 +1,5 @@
 var a20206 =
 [
-    [ "HandleInstaKill", "d9/dc4/a20206.html#a593786eb89bf77e05dad4b502ffc1925", null ],
-    [ "PrepareSpellScript", "d9/dc4/a20206.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
-    [ "Register", "d9/dc4/a20206.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
+    [ "achievement_ignis_shattered", "d9/dc4/a20206.html#adbe893b0dd409eb3f10768f81f182f61", null ],
+    [ "OnCheck", "d9/dc4/a20206.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
 ];

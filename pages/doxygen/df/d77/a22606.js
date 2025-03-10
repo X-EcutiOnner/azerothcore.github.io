@@ -1,7 +1,18 @@
 var a22606 =
 [
-    [ "HandleOnEffectApply", "df/d77/a22606.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
-    [ "HandleOnEffectRemove", "df/d77/a22606.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
-    [ "PrepareAuraScript", "df/d77/a22606.html#a45df29f911b1232e306e04a182648904", null ],
-    [ "Register", "df/d77/a22606.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
+    [ "npc_akama_illidan", "df/d77/a22606.html#ae300c0493c788863d69a7d9f5ab40ff5", null ],
+    [ "DamageTaken", "df/d77/a22606.html#a4b95cb3a3502805a915f7c6751ecf70c", null ],
+    [ "DoAction", "df/d77/a22606.html#af68f04faaf8a1893a82674cf1f2dd453", null ],
+    [ "JustEngagedWith", "df/d77/a22606.html#a8c78b3586673ee9e330272494ee74eab", null ],
+    [ "JustReachedHome", "df/d77/a22606.html#a8804c0e0b77673fee6beb3c0cd58be59", null ],
+    [ "JustSummoned", "df/d77/a22606.html#a54b185a813a4271eef06173b8109d6cf", null ],
+    [ "KilledUnit", "df/d77/a22606.html#a7838b6161a2ea9e0231f142a534de767", null ],
+    [ "MovementInform", "df/d77/a22606.html#a32116d23bd508d9791f31fbc257398d0", null ],
+    [ "PathEndReached", "df/d77/a22606.html#abd9dd31fe80a96d656c7dafd77564ad0", null ],
+    [ "Reset", "df/d77/a22606.html#ac3af6f0ddb0f07a6a254e2c0b3bd3ef0", null ],
+    [ "sGossipSelect", "df/d77/a22606.html#a6ab4ddfeaa2448e79577936d87d66398", null ],
+    [ "SummonedCreatureDies", "df/d77/a22606.html#a1b4a1bfec1034feccba676b35a3caf93", null ],
+    [ "UpdateAI", "df/d77/a22606.html#a3531d35b6d996bde197447e69e50a6fb", null ],
+    [ "instance", "df/d77/a22606.html#a752a22acf6eab1d1045cac099b22fe57", null ],
+    [ "summons", "df/d77/a22606.html#ab63791d4fd316a47af93a6f93118d331", null ]
 ];

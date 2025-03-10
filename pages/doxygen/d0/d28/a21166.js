@@ -1,11 +1,6 @@
 var a21166 =
 [
-    [ "npc_ichor_globuleAI", "d0/d28/a21166.html#a4d581f89c8385276fd407c000af9e569", null ],
-    [ "AttackStart", "d0/d28/a21166.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
-    [ "JustDied", "d0/d28/a21166.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
-    [ "MoveInLineOfSight", "d0/d28/a21166.html#af8ef8296512d57d934a171f1a5060e73", null ],
-    [ "SpellHit", "d0/d28/a21166.html#a1396538a446545408e3c304f3e56400f", null ],
-    [ "UpdateAI", "d0/d28/a21166.html#a6ff13c853583e5178fb3a690e17303de", null ],
-    [ "pInstance", "d0/d28/a21166.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
-    [ "uiRangeCheck_Timer", "d0/d28/a21166.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
+    [ "npc_frozen_orb_stalkerAI", "d0/d28/a21166.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "d0/d28/a21166.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "d0/d28/a21166.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

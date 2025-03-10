@@ -1,6 +1,12 @@
 var a21230 =
 [
-    [ "npc_vh_teleportation_portalAI", "d8/df3/a21234.html", "d8/df3/a21234" ],
-    [ "npc_vh_teleportation_portal", "de/d7a/a21230.html#a9a554058f594f992a17dbb3887117a6f", null ],
-    [ "GetAI", "de/d7a/a21230.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
+    [ "boss_moraggAI", "de/d7a/a21230.html#a3ae881c9adca20a2cb894af85297d53e", null ],
+    [ "EnterEvadeMode", "de/d7a/a21230.html#a4e70e42407f452c4685c732949fd2b52", null ],
+    [ "JustDied", "de/d7a/a21230.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
+    [ "JustEngagedWith", "de/d7a/a21230.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
+    [ "MoveInLineOfSight", "de/d7a/a21230.html#a52a99d72dfa017baacb76717e6db931b", null ],
+    [ "Reset", "de/d7a/a21230.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
+    [ "UpdateAI", "de/d7a/a21230.html#aec7645eaae190d1e7982aae181ff9224", null ],
+    [ "events", "de/d7a/a21230.html#acd021e4216e3920f0534da95d69ba5eb", null ],
+    [ "pInstance", "de/d7a/a21230.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
 ];

@@ -1,7 +1,10 @@
 var a13698 =
 [
-    [ "OnPeriodic", "d3/d5b/a13698.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "d3/d5b/a13698.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "d3/d5b/a13698.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "d3/d5b/a13698.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "boss_alyson_antille", "d3/d5b/a13698.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
+    [ "GetNearbyFriendlies", "d3/d5b/a13698.html#ab99596d5c2eafac8c678378d509bf585", null ],
+    [ "JustEngagedWith", "d3/d5b/a13698.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
+    [ "RandomReverseFriendlyList", "d3/d5b/a13698.html#afef27de229ba2c3b8beb30809a313237", null ],
+    [ "Reset", "d3/d5b/a13698.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
+    [ "UpdateAI", "d3/d5b/a13698.html#a15157be42d166a239ab658fc04292e44", null ],
+    [ "_friendlyList", "d3/d5b/a13698.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
 ];

@@ -1,10 +1,7 @@
 var a15534 =
 [
-    [ "npc_ameAI", "d0/de0/a15534.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
-    [ "JustDied", "d0/de0/a15534.html#a9b77f94f112477509c3163945ceb8201", null ],
-    [ "JustSummoned", "d0/de0/a15534.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
-    [ "Reset", "d0/de0/a15534.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
-    [ "UpdateAI", "d0/de0/a15534.html#a0a073e4c216985607aa51099044ff6c5", null ],
-    [ "WaypointReached", "d0/de0/a15534.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
-    [ "DemoralizingShoutTimer", "d0/de0/a15534.html#ab5d1786735adea4bce1bba8adf42a877", null ]
+    [ "npc_lakota_windsongAI", "d4/d0b/a15538.html", "d4/d0b/a15538" ],
+    [ "npc_lakota_windsong", "d0/de0/a15534.html#a08a585ac36189ec23354c7acb26d223d", null ],
+    [ "GetAI", "d0/de0/a15534.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
+    [ "OnQuestAccept", "d0/de0/a15534.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
 ];

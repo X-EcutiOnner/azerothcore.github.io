@@ -1,6 +1,6 @@
 var a25762 =
 [
-    [ "OnPeriodic", "d1/db3/a25762.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
-    [ "PrepareAuraScript", "d1/db3/a25762.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
-    [ "Register", "d1/db3/a25762.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
+    [ "PrepareSpellScript", "d1/db3/a25762.html#a738e105a48f6c603f3d9a690f44b8745", null ],
+    [ "Register", "d1/db3/a25762.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
+    [ "SetDest", "d1/db3/a25762.html#a59641895cead08de4a4503262505ee73", null ]
 ];

@@ -1,6 +1,8 @@
 var a25298 =
 [
-    [ "CheckProc", "d5/dda/a25298.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
-    [ "PrepareAuraScript", "d5/dda/a25298.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
-    [ "Register", "d5/dda/a25298.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
+    [ "HandlePeriodic", "d5/dda/a25298.html#acba5d68c19e68361c088e50f9b831bff", null ],
+    [ "HandleUpdatePeriodic", "d5/dda/a25298.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
+    [ "PrepareAuraScript", "d5/dda/a25298.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
+    [ "Register", "d5/dda/a25298.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
+    [ "Validate", "d5/dda/a25298.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
 ];

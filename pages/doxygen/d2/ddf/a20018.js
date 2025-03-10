@@ -1,6 +1,6 @@
 var a20018 =
 [
-    [ "npc_ulduar_flash_freezeAI", "df/d1d/a20022.html", "df/d1d/a20022" ],
-    [ "npc_ulduar_flash_freeze", "d2/ddf/a20018.html#a0301ed1231d3b0d113e9fc9389e8f160", null ],
-    [ "GetAI", "d2/ddf/a20018.html#a933f99c8d38ab98c8454919b6373bb41", null ]
+    [ "FilterTargets", "d2/ddf/a20018.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
+    [ "PrepareSpellScript", "d2/ddf/a20018.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
+    [ "Register", "d2/ddf/a20018.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
 ];

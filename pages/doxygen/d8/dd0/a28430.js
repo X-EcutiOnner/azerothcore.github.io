@@ -1,12 +1,10 @@
 var a28430 =
 [
-    [ "Model", "d8/dd0/a28430.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
-    [ "~Model", "d8/dd0/a28430.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
-    [ "_unload", "d8/dd0/a28430.html#a9b02ed73fa006bc057157b636029ab6f", null ],
-    [ "ConvertToVMAPModel", "d8/dd0/a28430.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
-    [ "open", "d8/dd0/a28430.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
-    [ "filename", "d8/dd0/a28430.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
-    [ "header", "d8/dd0/a28430.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
-    [ "indices", "d8/dd0/a28430.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
-    [ "vertices", "d8/dd0/a28430.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
+    [ "adt_CELLS", "dd/d1d/a28438.html", "dd/d1d/a28438" ],
+    [ "getMCNK", "d8/dd0/a28430.html#a8330b7cb405146399d3d20e6952a8b40", null ],
+    [ "prepareLoadedData", "d8/dd0/a28430.html#adc7346499aa51f4422c810b7e757f835", null ],
+    [ "cells", "d8/dd0/a28430.html#a434ed0ca354ec27d5334cc63e5650038", null ],
+    [ "fcc", "d8/dd0/a28430.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
+    [ "fcc_txt", "d8/dd0/a28430.html#a514bae36851623daf76b26a9d63f1ae0", null ],
+    [ "size", "d8/dd0/a28430.html#a1a40f52ea9eef3add8207da89cb71210", null ]
 ];

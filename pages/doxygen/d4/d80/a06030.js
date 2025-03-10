@@ -1,8 +1,6 @@
 var a06030 =
 [
-    [ "ArcherAI", "d4/d80/a06030.html#a113c138958054716182c15ee9f2b47da", null ],
-    [ "AttackStart", "d4/d80/a06030.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
-    [ "Permissible", "d4/d80/a06030.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
-    [ "UpdateAI", "d4/d80/a06030.html#aa6e072e239549d337de61670a05eb6f8", null ],
-    [ "m_minRange", "d4/d80/a06030.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
+    [ "AggressorAI", "d4/d80/a06030.html#a2d4ba3a557832466f29906972d1e14fd", null ],
+    [ "Permissible", "d4/d80/a06030.html#a7867a9ca7249eb94a712e34833fae930", null ],
+    [ "UpdateAI", "d4/d80/a06030.html#ace9bc9ff47a463ceb05217ae77b5782b", null ]
 ];

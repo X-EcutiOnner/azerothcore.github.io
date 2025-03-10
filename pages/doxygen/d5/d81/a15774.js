@@ -1,6 +1,6 @@
 var a15774 =
 [
-    [ "HandleScriptEffect", "d5/d81/a15774.html#aaa650972803d14e4d74be977430b04f6", null ],
-    [ "PrepareSpellScript", "d5/d81/a15774.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
-    [ "Register", "d5/d81/a15774.html#a3405c1b04f2e623662c7acaa6810278c", null ]
+    [ "npc_anub_ar_crusherAI", "df/d40/a15778.html", "df/d40/a15778" ],
+    [ "npc_anub_ar_crusher", "d5/d81/a15774.html#a3397fab6358ce8c19aecaad734e0ef78", null ],
+    [ "GetAI", "d5/d81/a15774.html#aeb8eb3e39612d0f7059f1910033cbbcc", null ]
 ];

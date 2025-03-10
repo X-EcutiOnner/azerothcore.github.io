@@ -1,6 +1,6 @@
 var a19886 =
 [
-    [ "boss_freya_elder_ironbranchAI", "db/dee/a19890.html", "db/dee/a19890" ],
-    [ "boss_freya_elder_ironbranch", "d3/d0f/a19886.html#a066083e4d6fde6439f7dce80be209075", null ],
-    [ "GetAI", "d3/d0f/a19886.html#a67f483d12fe801c1d840dd0f74396564", null ]
+    [ "CheckCast", "d3/d0f/a19886.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "d3/d0f/a19886.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "d3/d0f/a19886.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

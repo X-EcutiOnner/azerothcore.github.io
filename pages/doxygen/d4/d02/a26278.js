@@ -1,6 +1,6 @@
 var a26278 =
 [
-    [ "HandleDummy", "d4/d02/a26278.html#abac8aa528d6d83748cf4cdbdaa8313f6", null ],
-    [ "PrepareSpellScript", "d4/d02/a26278.html#ae80dda98f66c1fbaa37741ffd52a1108", null ],
-    [ "Register", "d4/d02/a26278.html#a90fbc5d1b22cbc59550a430a63c08032", null ]
+    [ "HandleDummy", "d4/d02/a26278.html#aee5967205738ebaef70e1105e8d91b2c", null ],
+    [ "PrepareSpellScript", "d4/d02/a26278.html#a1ef5914adfd2c951a68f50658852e095", null ],
+    [ "Register", "d4/d02/a26278.html#af42b6d5a5fbb5eb84773818594813afc", null ]
 ];

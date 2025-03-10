@@ -1,5 +1,5 @@
 var a01955 =
 [
-    [ "GetAISpellInfo", "d4/d93/a01955.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
-    [ "IsValidCombatTarget", "d4/d93/a01955.html#a981f03ba3b8c59eb1fa9d22df158ba19", null ]
+    [ "SmartTrigger", "da/d67/a06206.html", "da/d67/a06206" ],
+    [ "AddSC_SmartScripts", "d4/d93/a01955.html#ab6012619ba76775b314475ec60f8c7d7", null ]
 ];

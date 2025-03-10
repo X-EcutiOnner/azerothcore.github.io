@@ -1,7 +1,6 @@
 var a21714 =
 [
-    [ "npc_emilyAI", "d8/d88/a21718.html", "d8/d88/a21718" ],
-    [ "npc_emily", "d6/d05/a21714.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "d6/d05/a21714.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "d6/d05/a21714.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "npc_q24545_vegard_dummyAI", "d6/d05/a21714.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "d6/d05/a21714.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "d6/d05/a21714.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

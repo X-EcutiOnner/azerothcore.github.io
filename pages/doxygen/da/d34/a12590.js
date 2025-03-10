@@ -1,11 +1,10 @@
 var a12590 =
 [
-    [ "npc_kilrek", "da/d34/a12590.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
-    [ "JustDied", "da/d34/a12590.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
-    [ "JustEngagedWith", "da/d34/a12590.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
-    [ "Reset", "da/d34/a12590.html#ae0b375abe5ec909cfaff96c257da0325", null ],
-    [ "UpdateAI", "da/d34/a12590.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
-    [ "_scheduler", "da/d34/a12590.html#a93663ee806385f617e81a03062dd94d6", null ],
-    [ "instance", "da/d34/a12590.html#a13b969fa86ef57f9508117a73252a36b", null ],
-    [ "TerestianGUID", "da/d34/a12590.html#a411476da379bf687cd007e25ba11280e", null ]
+    [ "npc_netherspite_infernal", "da/d34/a12590.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "da/d34/a12590.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "da/d34/a12590.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "da/d34/a12590.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "da/d34/a12590.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "da/d34/a12590.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "da/d34/a12590.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

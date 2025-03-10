@@ -1,6 +1,8 @@
 var a26562 =
 [
-    [ "HandleKnockBack", "d2/de4/a26562.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "d2/de4/a26562.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "d2/de4/a26562.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "CheckFireTotem", "d2/de4/a26562.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d2/de4/a26562.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d2/de4/a26562.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d2/de4/a26562.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d2/de4/a26562.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

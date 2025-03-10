@@ -1,9 +1,10 @@
 var a24294 =
 [
-    [ "npc_pet_shaman_earth_elemental", "df/d7c/a24294.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "df/d7c/a24294.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "df/d7c/a24294.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "df/d7c/a24294.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "df/d7c/a24294.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "df/d7c/a24294.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "npc_pet_gen_imp_in_a_bottle", "df/d7c/a24294.html#aa32b7770c2719d77d46fcf6d22989284", null ],
+    [ "InitializeAI", "df/d7c/a24294.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
+    [ "UpdateAI", "df/d7c/a24294.html#a453ec855bb21a30cb72b540ff8f77035", null ],
+    [ "_data", "df/d7c/a24294.html#a982ec923536c2c33353a3673aa425b6a", null ],
+    [ "_hasParty", "df/d7c/a24294.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
+    [ "_ownerGUID", "df/d7c/a24294.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
+    [ "_talkTimer", "df/d7c/a24294.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
 ];

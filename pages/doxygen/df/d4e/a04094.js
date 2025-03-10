@@ -1,6 +1,7 @@
 var a04094 =
 [
-    [ "trigger_periodic", "d6/d1b/a27272.html", "d6/d1b/a27272" ],
-    [ "trigger_periodic::trigger_periodicAI", "d2/d7a/a27276.html", "d2/d7a/a27276" ],
-    [ "AddSC_generic_creature", "df/d4e/a04094.html#a50f66c4d6429b38157e35a75a0daa31d", null ]
+    [ "go_transport_the_iron_eagle", "d4/def/a27570.html", "d4/def/a27570" ],
+    [ "go_transport_the_thundercaller", "d8/dfe/a27574.html", "d8/dfe/a27574" ],
+    [ "go_transport_the_purple_princess", "d4/dc5/a27578.html", "d4/dc5/a27578" ],
+    [ "AddSC_transport_zeppelins", "df/d4e/a04094.html#a29051596b0a3382db98c6b72f7ff3173", null ]
 ];

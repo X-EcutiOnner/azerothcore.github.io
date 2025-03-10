@@ -1,14 +1,7 @@
 var a07094 =
 [
-    [ "AutobroadcastsMap", "d5/d2f/a07094.html#a9064ad588e8a02d9b60974af4da1c7cf", null ],
-    [ "AutobroadcastsWeightMap", "d5/d2f/a07094.html#a75e5b978794a7010c8d9d3390d8690f9", null ],
-    [ "instance", "d5/d2f/a07094.html#aead196df7f590d43c89f179ca0bd4a68", null ],
-    [ "LoadAutobroadcasts", "d5/d2f/a07094.html#a48748969b122aee47d03697b6e9a2ee1", null ],
-    [ "LoadAutobroadcastsLocalized", "d5/d2f/a07094.html#a105fa2c33da0662785551027430d40c6", null ],
-    [ "SendAutobroadcasts", "d5/d2f/a07094.html#a225907be4944713af11c312185c8aea7", null ],
-    [ "SendNotificationAnnouncement", "d5/d2f/a07094.html#ace584bb6b66c8944e1405ec0af686d3a", null ],
-    [ "SendWorldAnnouncement", "d5/d2f/a07094.html#a8be8fd36f843ffd435989c99ce0f9229", null ],
-    [ "_announceType", "d5/d2f/a07094.html#a3889edc4001e26519d9df042a8b477fc", null ],
-    [ "_autobroadcasts", "d5/d2f/a07094.html#a06d42010fea307a03aac0ca4e6886f1d", null ],
-    [ "_autobroadcastsWeights", "d5/d2f/a07094.html#aadbd8ca926a64be4fbbe832fd633ee88", null ]
+    [ "AuctionSorter", "d5/d2f/a07094.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b", null ],
+    [ "operator()", "d5/d2f/a07094.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7", null ],
+    [ "_loc_idx", "d5/d2f/a07094.html#a11708aa660757db95c88d9dc7e9b9521", null ],
+    [ "_sort", "d5/d2f/a07094.html#a9c777b91d8b80940daee0b32c4f11c37", null ]
 ];

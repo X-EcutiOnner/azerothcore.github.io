@@ -1,6 +1,6 @@
 var a26358 =
 [
-    [ "HandleScript", "d6/d65/a26358.html#acde0ae837d0cd3af0f38481027200291", null ],
-    [ "PrepareSpellScript", "d6/d65/a26358.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
-    [ "Register", "d6/d65/a26358.html#a2dc2628984358628afe7d9b62ced7794", null ]
+    [ "PrepareSpellScript", "d6/d65/a26358.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
+    [ "Register", "d6/d65/a26358.html#ab58938808e460e843e42f2b6fa644e8a", null ],
+    [ "SetDest", "d6/d65/a26358.html#ab87932c73a2e53647bda584aeb58f789", null ]
 ];

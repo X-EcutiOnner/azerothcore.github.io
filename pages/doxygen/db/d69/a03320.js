@@ -1,21 +1,17 @@
 var a03320 =
 [
-    [ "instance_scholomance", "d3/db6/a12988.html", "d3/db6/a12988" ],
-    [ "instance_scholomance::instance_scholomance_InstanceMapScript", "d9/da5/a12992.html", "d9/da5/a12992" ],
-    [ "spell_scholomance_fixate_aura", "d0/df3/a12996.html", "d0/df3/a12996" ],
-    [ "spell_scholomance_boon_of_life_aura", "d4/d6f/a13000.html", "d4/d6f/a13000" ],
-    [ "npc_scholomance_occultist", "de/d59/a13004.html", "de/d59/a13004" ],
-    [ "npc_scholomance_occultist::npc_scholomance_occultistAI", "d2/da5/a13008.html", "d2/da5/a13008" ],
-    [ "OccultistEntries", "db/d69/a03320.html#a8b43fe18f8176260ed382582db3c3818", [
-      [ "CASTER_ENTRY", "db/d69/a03320.html#a8b43fe18f8176260ed382582db3c3818a5bb832c5eb17f3850f1178b2b3590a5a", null ],
-      [ "DARK_SHADE_ENTRY", "db/d69/a03320.html#a8b43fe18f8176260ed382582db3c3818a404c94392628f9372866677c936edb15", null ]
+    [ "npc_daphne_stilwell", "d9/d3f/a13650.html", "d9/d3f/a13650" ],
+    [ "npc_daphne_stilwell::npc_daphne_stilwellAI", "d6/d67/a13654.html", "d6/d67/a13654" ],
+    [ "DaphneStilwell", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fd", [
+      [ "SAY_DS_START", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e", null ],
+      [ "SAY_DS_DOWN_1", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46", null ],
+      [ "SAY_DS_DOWN_2", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda2fd750f4c8a0d85a69375e139be43d75", null ],
+      [ "SAY_DS_DOWN_3", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda14433601b23e5a16dcc971ea746d1128", null ],
+      [ "SAY_DS_PROLOGUE", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda402570a024e9b48018ca6b53ff7b83f8", null ],
+      [ "SPELL_SHOOT", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "QUEST_TOME_VALOR", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda041a2f4b3f03948fc2f61e32e673973c", null ],
+      [ "NPC_DEFIAS_RAIDER", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050", null ],
+      [ "EQUIP_ID_RIFLE", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda31e0ac414da424f6923680055dd801d3", null ]
     ] ],
-    [ "OccultistSpells", "db/d69/a03320.html#a9f85ef6fae02a6e177aa60a656ac2b3d", [
-      [ "BONE_ARMOR_SPELL", "db/d69/a03320.html#a9f85ef6fae02a6e177aa60a656ac2b3da89e933b806d06611ede39194aec55c1a", null ],
-      [ "COUNTER_SPELL", "db/d69/a03320.html#a9f85ef6fae02a6e177aa60a656ac2b3da8b221e5c5dc36e75186eb2b8bdc0e313", null ],
-      [ "DRAIN_MANA_SPELL", "db/d69/a03320.html#a9f85ef6fae02a6e177aa60a656ac2b3da5a3228d15aeb4d8cb7c29650200766af", null ],
-      [ "SHADOWBOLT_VOLLEY_SPELL", "db/d69/a03320.html#a9f85ef6fae02a6e177aa60a656ac2b3da2e1fda31c0d43a826ad22b89a62cfb8c", null ]
-    ] ],
-    [ "AddSC_instance_scholomance", "db/d69/a03320.html#a57729392acbf8df56faae2a7865f65b4", null ],
-    [ "KirtonosSpawn", "db/d69/a03320.html#a5e00a038de93e0b1fc4ac53b49bf47da", null ]
+    [ "AddSC_westfall", "db/d69/a03320.html#a9c6e961944f462fc3c48a6400c76266c", null ]
 ];

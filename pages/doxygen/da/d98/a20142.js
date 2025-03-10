@@ -1,6 +1,7 @@
 var a20142 =
 [
-    [ "boss_ignisAI", "d2/dc7/a20146.html", "d2/dc7/a20146" ],
-    [ "boss_ignis", "da/d98/a20142.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
-    [ "GetAI", "da/d98/a20142.html#ac11ff148e9cbc985875f859268a3de01", null ]
+    [ "HandleEffectPeriodic", "da/d98/a20142.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "da/d98/a20142.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "da/d98/a20142.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "da/d98/a20142.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

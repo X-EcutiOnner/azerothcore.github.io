@@ -1,5 +1,5 @@
 var a10238 =
 [
-    [ "FactoryGameObjectScript", "d4/dff/a10238.html#ac0981bdae743da11b99d7df1c967a703", null ],
-    [ "GetAI", "d4/dff/a10238.html#a9a39e94f28729ea1fb4b6231d588b42c", null ]
+    [ "FactoryCreatureScript", "d4/dff/a10238.html#a62cd4db9e8dd3dab606f1166fdf0ce44", null ],
+    [ "GetAI", "d4/dff/a10238.html#a0e491e4cda2b03456d798f6726dbde54", null ]
 ];

@@ -1,5 +1,6 @@
 var a14382 =
 [
-    [ "achievement_pb_terokkar_turkey_time", "d8/de8/a14382.html#a68e536379b04e060f44819c9831766c2", null ],
-    [ "OnCheck", "d8/de8/a14382.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
+    [ "HandleDummy", "d8/de8/a14382.html#a5e0797e5af760b618b1498f405766de8", null ],
+    [ "PrepareSpellScript", "d8/de8/a14382.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
+    [ "Register", "d8/de8/a14382.html#a2254e486bda73e07f8327c3412c7852b", null ]
 ];

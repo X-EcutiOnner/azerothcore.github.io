@@ -1,8 +1,15 @@
 var a13786 =
 [
-    [ "FilterTargets", "dd/d08/a13786.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "dd/d08/a13786.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "dd/d08/a13786.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "dd/d08/a13786.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "dd/d08/a13786.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "npc_amanishi_tempest", "dd/d08/a13786.html#a8e15b39501998e9f8c45baef0963d160", null ],
+    [ "DoAction", "dd/d08/a13786.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
+    [ "EnterEvadeMode", "dd/d08/a13786.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
+    [ "JustDied", "dd/d08/a13786.html#aadda903d17a5f4560ce2db896bd7b257", null ],
+    [ "JustEngagedWith", "dd/d08/a13786.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
+    [ "JustSummoned", "dd/d08/a13786.html#aac72fdc33051370c3cffa388f466b6be", null ],
+    [ "Reset", "dd/d08/a13786.html#aa921f85142f9103bea839bdc0330e1cc", null ],
+    [ "ScheduleEvents", "dd/d08/a13786.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
+    [ "SummonedCreatureEvade", "dd/d08/a13786.html#a61eebb122c9288c826cdf352c17e0590", null ],
+    [ "UpdateAI", "dd/d08/a13786.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
+    [ "_instance", "dd/d08/a13786.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
+    [ "_summons", "dd/d08/a13786.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
 ];

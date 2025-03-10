@@ -1,11 +1,19 @@
 var a08686 =
 [
-    [ "SpellPeriodicAuraLogInfo", "d1/d2b/a08686.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
-    [ "absorb", "d1/d2b/a08686.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
-    [ "auraEff", "d1/d2b/a08686.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
-    [ "critical", "d1/d2b/a08686.html#a51041b901727b4f595d2a886520626ff", null ],
-    [ "damage", "d1/d2b/a08686.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
-    [ "multiplier", "d1/d2b/a08686.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
-    [ "overDamage", "d1/d2b/a08686.html#a51904be3790c99bded697b2cf7c8db23", null ],
-    [ "resist", "d1/d2b/a08686.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
+    [ "absorb", "d1/d2b/a08686.html#a7298afcc76b856c5427f5e123030a797", null ],
+    [ "attacker", "d1/d2b/a08686.html#aebe14d91f54da0b25a07ff3d59df6ec2", null ],
+    [ "attackType", "d1/d2b/a08686.html#afd18e43bd78a9144c02ba0493921c506", null ],
+    [ "blocked_amount", "d1/d2b/a08686.html#a0ce1e1ff406264c7283979fe4fc70148", null ],
+    [ "cleanDamage", "d1/d2b/a08686.html#a452ac9be1f6e9c10616a62a128573358", null ],
+    [ "damage", "d1/d2b/a08686.html#ab95e1e4746b966f1301d997fdac99c94", null ],
+    [ "damages", "d1/d2b/a08686.html#a9b2a0b29e23b9745a720ea55764be3f6", null ],
+    [ "damageSchoolMask", "d1/d2b/a08686.html#a01f1cc6661ef5f4e7d657ba59d06108f", null ],
+    [ "HitInfo", "d1/d2b/a08686.html#ae42a8a3750633d94e661ac9d5a9aa8df", null ],
+    [ "hitOutCome", "d1/d2b/a08686.html#a114dcabcb8bff10c2452cb27e75da115", null ],
+    [ "procAttacker", "d1/d2b/a08686.html#a21bed657c7e3d2338f30fb5237884d5f", null ],
+    [ "procEx", "d1/d2b/a08686.html#ad629b9aad4d88247ef4dfaadd79dc1c8", null ],
+    [ "procVictim", "d1/d2b/a08686.html#a236b06649e715fab9dbddb074ef2f075", null ],
+    [ "resist", "d1/d2b/a08686.html#ab57d348b500203649bf532405cd9ceec", null ],
+    [ "target", "d1/d2b/a08686.html#af2976fa1245b3e3177dcbac464345829", null ],
+    [ "TargetState", "d1/d2b/a08686.html#a73ef30ca87444da617b8c2e05b70e9fc", null ]
 ];

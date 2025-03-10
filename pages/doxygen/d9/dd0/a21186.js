@@ -1,6 +1,6 @@
 var a21186 =
 [
-    [ "HandleEffectPeriodic", "d9/dd0/a21186.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "d9/dd0/a21186.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "d9/dd0/a21186.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "boss_erekemAI", "d0/d37/a21190.html", "d0/d37/a21190" ],
+    [ "boss_erekem", "d9/dd0/a21186.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
+    [ "GetAI", "d9/dd0/a21186.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
 ];

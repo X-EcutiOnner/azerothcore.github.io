@@ -1,9 +1,7 @@
 var a13354 =
 [
-    [ "npc_professor_phizzlethorpeAI", "dd/d89/a13354.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "dd/d89/a13354.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "dd/d89/a13354.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "dd/d89/a13354.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "dd/d89/a13354.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "dd/d89/a13354.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ]
+    [ "HandleAfterCast", "dd/d89/a13354.html#a251ddadd9d26039da542c402e4ee254f", null ],
+    [ "PrepareSpellScript", "dd/d89/a13354.html#a91114aeb4f917ec5138a0c7b20688174", null ],
+    [ "Register", "dd/d89/a13354.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
+    [ "Validate", "dd/d89/a13354.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
 ];

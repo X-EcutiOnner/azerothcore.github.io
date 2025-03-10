@@ -1,5 +1,6 @@
 var a27502 =
 [
-    [ "npc_controller", "de/d71/a27502.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "de/d71/a27502.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "npc_locksmith", "de/d71/a27502.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "de/d71/a27502.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "de/d71/a27502.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

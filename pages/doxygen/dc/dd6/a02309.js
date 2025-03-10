@@ -1,25 +1,83 @@
 var a02309 =
 [
-    [ "Acore::Impl::ChatCommands::MultiConsumer< Tuple, NextType, offset >", "d4/d7b/a07474.html", "d4/d7b/a07474" ],
-    [ "Acore::Impl::ChatCommands::MultiConsumer< Tuple, Optional< NestedNextType >, offset >", "dd/d74/a07478.html", "dd/d74/a07478" ],
-    [ "Acore::Impl::ChatCommands::HandlerToTuple< T >", "de/dbd/a07482.html", null ],
-    [ "Acore::Impl::ChatCommands::HandlerToTuple< bool(ChatHandler *, Ts...)>", "d4/dd9/a07486.html", "d4/dd9/a07486" ],
-    [ "Acore::Impl::ChatCommands::CommandInvoker", "d2/d32/a07490.html", "d2/d32/a07490" ],
-    [ "Acore::Impl::ChatCommands::CommandPermissions", "df/dbf/a07494.html", "df/dbf/a07494" ],
-    [ "Acore::Impl::ChatCommands::ChatCommandNode", "d1/dd7/a07498.html", "d1/dd7/a07498" ],
-    [ "Acore::ChatCommands::ChatCommandBuilder", "d4/d15/a07502.html", "d4/d15/a07502" ],
-    [ "Acore::ChatCommands::ChatCommandBuilder::InvokerEntry", "dd/d73/a07506.html", "dd/d73/a07506" ],
-    [ "ChatCommand", "dc/dd6/a02309.html#a399dbe5721f7277a9066752a84065ee4", null ],
-    [ "ChatCommandTable", "dc/dd6/a02309.html#a7aa1549a95f760a19b9b7ffd8e669626", null ],
-    [ "TupleType", "dc/dd6/a02309.html#a7dd784bc8e3d7db1d11c46886088ad76", null ],
-    [ "Console", "dc/dd6/a02309.html#a6f2659123367a36f37046e5604215d6b", [
-      [ "No", "dc/dd6/a02309.html#a6f2659123367a36f37046e5604215d6babafd7322c6e97d25b6299b5d6fe8920b", null ],
-      [ "Yes", "dc/dd6/a02309.html#a6f2659123367a36f37046e5604215d6ba93cba07454f06a4a960172bbd6e2a435", null ]
+    [ "Roll", "d2/d63/a09458.html", "d2/d63/a09458" ],
+    [ "Group", "d3/d21/a09462.html", "d3/d21/a09462" ],
+    [ "Group::MemberSlot", "d1/d73/a09466.html", "d1/d73/a09466" ],
+    [ "GROUP_UPDATE_FLAGS_COUNT", "dc/dd6/a02309.html#ad409013260cb0aea80c911d24d7b5d00", null ],
+    [ "MAX_RAID_SUBGROUPS", "dc/dd6/a02309.html#afb58b37bfbd0e4d75c26cc40d4066a43", null ],
+    [ "MAXGROUPSIZE", "dc/dd6/a02309.html#a41ded42f25275d85cb15f89e0cb21745", null ],
+    [ "MAXRAIDSIZE", "dc/dd6/a02309.html#abe79d73a0524988ef836a72c9fab0afc", null ],
+    [ "TARGETICONCOUNT", "dc/dd6/a02309.html#a0b29644629b2e396bfc5582dd979a657", null ],
+    [ "DifficultyPreventionChangeType", "dc/dd6/a02309.html#ac137f3554eda30ca651f91eec6e2f1ff", [
+      [ "DIFFICULTY_PREVENTION_CHANGE_NONE", "dc/dd6/a02309.html#ac137f3554eda30ca651f91eec6e2f1ffa9510357088e05a0d39cc541ece12e19f", null ],
+      [ "DIFFICULTY_PREVENTION_CHANGE_RECENTLY_CHANGED", "dc/dd6/a02309.html#ac137f3554eda30ca651f91eec6e2f1ffaaf1cf9fc0dc14727c5370fb741ed02be", null ],
+      [ "DIFFICULTY_PREVENTION_CHANGE_BOSS_KILLED", "dc/dd6/a02309.html#ac137f3554eda30ca651f91eec6e2f1ffaf7daa8b9c866100c71f1ff356bca9d37", null ]
     ] ],
-    [ "ConsumeFromOffset", "dc/dd6/a02309.html#a3cb927687da0e8c0bae77a78fe45d942", null ],
-    [ "GetAutoCompletionsFor", "dc/dd6/a02309.html#a9a1f396a96afbd90b5c426315c8ba37d", null ],
-    [ "InvalidateCommandMap", "dc/dd6/a02309.html#ade19080af583292883b932d83992c6fe", null ],
-    [ "LoadCommandMap", "dc/dd6/a02309.html#a2c6cb6c985ac8fd7bb2f8b2bab1be30d", null ],
-    [ "SendCommandHelpFor", "dc/dd6/a02309.html#a81e8830ce306f6cfbcd04c92d3e0cc7f", null ],
-    [ "TryExecuteCommand", "dc/dd6/a02309.html#aca39508e7753f6ca5d9aa21a854c0a77", null ]
+    [ "GroupMemberAssignment", "dc/dd6/a02309.html#a265440bc60acb489a6d25239d788b783", [
+      [ "GROUP_ASSIGN_MAINTANK", "dc/dd6/a02309.html#a265440bc60acb489a6d25239d788b783a81801fe8320b2182ad7c70d0d028d192", null ],
+      [ "GROUP_ASSIGN_MAINASSIST", "dc/dd6/a02309.html#a265440bc60acb489a6d25239d788b783a365361d3311869df05371342f7082143", null ]
+    ] ],
+    [ "GroupMemberFlags", "dc/dd6/a02309.html#a7199c0fc3344f944250290234c6110bd", [
+      [ "MEMBER_FLAG_ASSISTANT", "dc/dd6/a02309.html#a7199c0fc3344f944250290234c6110bda0b79d2026cebf021e0df83bf82e1e3bf", null ],
+      [ "MEMBER_FLAG_MAINTANK", "dc/dd6/a02309.html#a7199c0fc3344f944250290234c6110bdab4244bc75cc8b303dab133abe583dd7b", null ],
+      [ "MEMBER_FLAG_MAINASSIST", "dc/dd6/a02309.html#a7199c0fc3344f944250290234c6110bda5977481471e2d61bda65201ddf3db54a", null ]
+    ] ],
+    [ "GroupMemberOnlineStatus", "dc/dd6/a02309.html#a330da2ab05c167f677e54f82a222ef9d", [
+      [ "MEMBER_STATUS_OFFLINE", "dc/dd6/a02309.html#a330da2ab05c167f677e54f82a222ef9da3d85c38ccfdc94eda5fe36f186dcb75c", null ],
+      [ "MEMBER_STATUS_ONLINE", "dc/dd6/a02309.html#a330da2ab05c167f677e54f82a222ef9da5b80950bd3340d7de2b5a769001b9fec", null ],
+      [ "MEMBER_STATUS_PVP", "dc/dd6/a02309.html#a330da2ab05c167f677e54f82a222ef9da56b0705f4b91684e2bc6536d45c628bd", null ],
+      [ "MEMBER_STATUS_DEAD", "dc/dd6/a02309.html#a330da2ab05c167f677e54f82a222ef9da68c1ec7408566a34bc264bd9eca1cb53", null ],
+      [ "MEMBER_STATUS_GHOST", "dc/dd6/a02309.html#a330da2ab05c167f677e54f82a222ef9daab8058da6edb35b7c3c459a000e9dd0c", null ],
+      [ "MEMBER_STATUS_PVP_FFA", "dc/dd6/a02309.html#a330da2ab05c167f677e54f82a222ef9daff365b501c0206847eac2c3d02b21961", null ],
+      [ "MEMBER_STATUS_UNK3", "dc/dd6/a02309.html#a330da2ab05c167f677e54f82a222ef9da795eafeca5cb33a35458e5d646975039", null ],
+      [ "MEMBER_STATUS_AFK", "dc/dd6/a02309.html#a330da2ab05c167f677e54f82a222ef9da0fd180911ad96ed8d444b6dfc6fd8777", null ],
+      [ "MEMBER_STATUS_DND", "dc/dd6/a02309.html#a330da2ab05c167f677e54f82a222ef9dacd9a792ab0f7517ea210ea164e3f8b9f", null ]
+    ] ],
+    [ "GroupType", "dc/dd6/a02309.html#a3de1267c3b87dda21863fd739439d918", [
+      [ "GROUPTYPE_NORMAL", "dc/dd6/a02309.html#a3de1267c3b87dda21863fd739439d918a06d2671866631d30309707bd4a233b71", null ],
+      [ "GROUPTYPE_BG", "dc/dd6/a02309.html#a3de1267c3b87dda21863fd739439d918aed783b5eaca8785fa2448debdec0b139", null ],
+      [ "GROUPTYPE_RAID", "dc/dd6/a02309.html#a3de1267c3b87dda21863fd739439d918a1d64f52216490e026252bf5be0ce72ea", null ],
+      [ "GROUPTYPE_BGRAID", "dc/dd6/a02309.html#a3de1267c3b87dda21863fd739439d918ae34858409fbfe501ddd8500da4154860", null ],
+      [ "GROUPTYPE_LFG_RESTRICTED", "dc/dd6/a02309.html#a3de1267c3b87dda21863fd739439d918a071dd896c0ef9e458b00ceece61212dc", null ],
+      [ "GROUPTYPE_LFG", "dc/dd6/a02309.html#a3de1267c3b87dda21863fd739439d918ab0ab78acc1d675d1a7b3285b29c92900", null ]
+    ] ],
+    [ "GroupUpdateFlags", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22", [
+      [ "GROUP_UPDATE_FLAG_NONE", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22aabf53171e29489386fb5f82c83b8291c", null ],
+      [ "GROUP_UPDATE_FLAG_STATUS", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22a84be5c25600d56528690fa6c4f693c39", null ],
+      [ "GROUP_UPDATE_FLAG_CUR_HP", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22a053bf2b40e15c99b4d87212b6224edf5", null ],
+      [ "GROUP_UPDATE_FLAG_MAX_HP", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22a51f854cd0a192b6a26f2ad93cb04f290", null ],
+      [ "GROUP_UPDATE_FLAG_POWER_TYPE", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22a18568d1a780d4ee8bd1261f04789ddec", null ],
+      [ "GROUP_UPDATE_FLAG_CUR_POWER", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22aff7d60d1b0cadfb6faf0a9cc0fb4c647", null ],
+      [ "GROUP_UPDATE_FLAG_MAX_POWER", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22a8e989903a18a03c2c1b04c93a6f7b806", null ],
+      [ "GROUP_UPDATE_FLAG_LEVEL", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22ac3d0e3f073f9bd3b10dfe6815879d721", null ],
+      [ "GROUP_UPDATE_FLAG_ZONE", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22a8ff7f1354cb854bfd7acc1a15572e1ec", null ],
+      [ "GROUP_UPDATE_FLAG_POSITION", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22ab08e141bb44f5282877077ceef93f4db", null ],
+      [ "GROUP_UPDATE_FLAG_AURAS", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22abfc7c4cf05e71e2c6a263d14c50c300e", null ],
+      [ "GROUP_UPDATE_FLAG_PET_GUID", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22ae059ba28d829c215698fb53fb9c46b81", null ],
+      [ "GROUP_UPDATE_FLAG_PET_NAME", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22ab34868446bbc6c7214746ae0ee07298e", null ],
+      [ "GROUP_UPDATE_FLAG_PET_MODEL_ID", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22ab29f0639aa4364f2937eafa3cf3c9bfd", null ],
+      [ "GROUP_UPDATE_FLAG_PET_CUR_HP", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22a0828c5fe18a98dcec2e52be5a6faf62a", null ],
+      [ "GROUP_UPDATE_FLAG_PET_MAX_HP", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22afc364631361127107eede68c44672067", null ],
+      [ "GROUP_UPDATE_FLAG_PET_POWER_TYPE", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22a8654981d5a32b737e43bb9f799891ab8", null ],
+      [ "GROUP_UPDATE_FLAG_PET_CUR_POWER", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22a356f93308e4e05d59544bb68adeff09e", null ],
+      [ "GROUP_UPDATE_FLAG_PET_MAX_POWER", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22a4110160e7fd5360f13bf4527effcf436", null ],
+      [ "GROUP_UPDATE_FLAG_PET_AURAS", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22abb4365d738698af44649fda4435825af", null ],
+      [ "GROUP_UPDATE_FLAG_VEHICLE_SEAT", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22a8055f4324e3e38e102f8ae430283f109", null ],
+      [ "GROUP_UPDATE_PET", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22ac4eec7ebcdd88fe72703af3fbcdeef65", null ],
+      [ "GROUP_UPDATE_FULL", "dc/dd6/a02309.html#a914819bad74fbd5e30a14b5250e00e22a23d5a8a1b2b3ff72c3fc74d801590ef6", null ]
+    ] ],
+    [ "lfgGroupFlags", "dc/dd6/a02309.html#a76b58859b594b12f70d10ee9ee17345f", [
+      [ "GROUP_LFG_FLAG_APPLY_RANDOM_BUFF", "dc/dd6/a02309.html#a76b58859b594b12f70d10ee9ee17345fa7531c04c229a92e02108024d2d5e3590", null ],
+      [ "GROUP_LFG_FLAG_IS_RANDOM_INSTANCE", "dc/dd6/a02309.html#a76b58859b594b12f70d10ee9ee17345faebe9e5142f049394b9311d27ab5d1f2e", null ],
+      [ "GROUP_LFG_FLAG_IS_HEROIC", "dc/dd6/a02309.html#a76b58859b594b12f70d10ee9ee17345fa1ed91d7e1faa0986f9353cad3ddf1cfc", null ]
+    ] ],
+    [ "RollVote", "dc/dd6/a02309.html#a1cf1e13f9c5c24c7e321364f6d349d5f", [
+      [ "PASS", "dc/dd6/a02309.html#a1cf1e13f9c5c24c7e321364f6d349d5fa0afa825567e442a46d131be6c71cb40f", null ],
+      [ "NEED", "dc/dd6/a02309.html#a1cf1e13f9c5c24c7e321364f6d349d5fa79a6b7f188a0c6c0f32beb8d40d5804a", null ],
+      [ "GREED", "dc/dd6/a02309.html#a1cf1e13f9c5c24c7e321364f6d349d5fac623c8a2364508457861e33034f25d10", null ],
+      [ "DISENCHANT", "dc/dd6/a02309.html#a1cf1e13f9c5c24c7e321364f6d349d5fa899d0f089060a2adb6d35bde6c361d13", null ],
+      [ "NOT_EMITED_YET", "dc/dd6/a02309.html#a1cf1e13f9c5c24c7e321364f6d349d5fa1b7e37d6dc247df81321e83d0ffe008a", null ],
+      [ "NOT_VALID", "dc/dd6/a02309.html#a1cf1e13f9c5c24c7e321364f6d349d5fa7f1ec5eb59564ae05005b9260e1d974e", null ]
+    ] ],
+    [ "GroupUpdateLength", "dc/dd6/a02309.html#a65e699af45b8fc9a4a8bac43fe403d5c", null ]
 ];

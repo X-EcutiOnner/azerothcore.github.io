@@ -1,9 +1,12 @@
 var a19658 =
 [
-    [ "npc_auriaya_sanctum_sentryAI", "d5/d1a/a19658.html#afffb62c4db56bb4e7baa095ae75cd7e3", null ],
-    [ "JustEngagedWith", "d5/d1a/a19658.html#aeeb0aa4667a110dabcc70d422ebd6de5", null ],
-    [ "Reset", "d5/d1a/a19658.html#a5ab87ac858782cd7f05d9778ca3a6214", null ],
-    [ "UpdateAI", "d5/d1a/a19658.html#ab1862b4bd4b4fdfaeac8ad9c52cc5ed6", null ],
-    [ "_ripFleshTimer", "d5/d1a/a19658.html#a83920afb7f6930d780abd2d6fba2aa4c", null ],
-    [ "_savagePounceTimer", "d5/d1a/a19658.html#a9a6b14ece9a0bf812a04ea765b546735", null ]
+    [ "npc_assembly_lightningAI", "d5/d1a/a19658.html#a4b778b6545e7c93e66a07160db793651", null ],
+    [ "AttackStart", "d5/d1a/a19658.html#afd4657e8c6a2eb39346e99cb54a7ab1a", null ],
+    [ "EnterEvadeMode", "d5/d1a/a19658.html#a4c0bb838053412a3945648ed1a5a13b9", null ],
+    [ "MoveInLineOfSight", "d5/d1a/a19658.html#a077f788e67cdb67683ac13f3a3d1322b", null ],
+    [ "MovementInform", "d5/d1a/a19658.html#a95227f93c5ac6871bfcea603ebb2188d", null ],
+    [ "OnCharmed", "d5/d1a/a19658.html#aa08e4c286723c76251bd75aa54b24f5f", null ],
+    [ "Reset", "d5/d1a/a19658.html#a1f03885bfd91d9b9cdde1d90b51d2c96", null ],
+    [ "UpdateAI", "d5/d1a/a19658.html#a94edd1ea5278bd5ca8d5d64619e9c8b4", null ],
+    [ "_boomed", "d5/d1a/a19658.html#aa6b4a46674a7d4106a49ef308ec27b9e", null ]
 ];

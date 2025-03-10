@@ -1,6 +1,6 @@
 var a24170 =
 [
-    [ "npc_slim", "db/ddf/a24170.html#aa227fbe22126bed821939873973e6a20", null ],
-    [ "OnGossipHello", "db/ddf/a24170.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
-    [ "OnGossipSelect", "db/ddf/a24170.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
+    [ "PrepareSpellScript", "db/ddf/a24170.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
+    [ "Register", "db/ddf/a24170.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
+    [ "SetDest", "db/ddf/a24170.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
 ];

@@ -1,8 +1,10 @@
 var a24446 =
 [
-    [ "HandleEffectApply", "dc/d8e/a24446.html#a88e98bcb11fb16696f789878f79c665c", null ],
-    [ "HandleEffectRemove", "dc/d8e/a24446.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
-    [ "PrepareAuraScript", "dc/d8e/a24446.html#a64f9e0f3d0376342767b912e32642c6c", null ],
-    [ "Register", "dc/d8e/a24446.html#a72d6639589588282ea15cfe83c9e9b76", null ],
-    [ "Validate", "dc/d8e/a24446.html#ac936c92c3a24fba95505243cd3e79c21", null ]
+    [ "CheckProc", "dc/d8e/a24446.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02", null ],
+    [ "HandleProc", "dc/d8e/a24446.html#ac90b54e946baa80589cab2f66aca1f5f", null ],
+    [ "Load", "dc/d8e/a24446.html#ada85014de8a3602e83912d5e1a0165c5", null ],
+    [ "PrepareAuraScript", "dc/d8e/a24446.html#a769f2b77b2972c40e3e43e70d2ff5820", null ],
+    [ "Register", "dc/d8e/a24446.html#ab8a35292c0d4d392d9dd9db438d59cc4", null ],
+    [ "Validate", "dc/d8e/a24446.html#aba8bd9ae5ec9e92eccb04163114c4802", null ],
+    [ "_procTarget", "dc/d8e/a24446.html#a0c3ba33c7117195dac4c1df3a6e8529a", null ]
 ];

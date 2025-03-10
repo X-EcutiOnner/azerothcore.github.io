@@ -1,21 +1,44 @@
 var a01415 =
 [
-    [ "Totem", "db/df0/a08608.html", "db/df0/a08608" ],
-    [ "EARTHBIND_TOTEM_ENTRY", "de/d70/a01415.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
-    [ "SENTRY_TOTEM_ENTRY", "de/d70/a01415.html#a2bd46e1df17fdee45cd35896306092fb", null ],
-    [ "TotemImmunitySpells", "de/d70/a01415.html#a526213bf692d4f8d189a61617f4a59c9", [
-      [ "SPELL_CYCLONE", "de/d70/a01415.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
-      [ "SPELL_STONECLAW", "de/d70/a01415.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
-      [ "SPELL_BIND_SIGHT", "de/d70/a01415.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
-      [ "SPELL_INTERVENE", "de/d70/a01415.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
+    [ "GameObjectValue", "df/de9/a08114.html", "df/de9/a08114" ],
+    [ "GameObject", "d3/d3a/a08134.html", "d3/d3a/a08134" ],
+    [ "FISHING_BOBBER_READY_TIME", "de/d70/a01415.html#aa7242bc5664b993aa0dfe458bf845b13", null ],
+    [ "GameObjectAddonContainer", "de/d70/a01415.html#a7c5d40f7f9665e8525be2f1e94b0af47", null ],
+    [ "GameObjectQuestItemList", "de/d70/a01415.html#a85906ca8ea219640b7ed904559623a4a", null ],
+    [ "GameObjectQuestItemMap", "de/d70/a01415.html#a0695d839f891819d32d9cba1550e5ebb", null ],
+    [ "GameObjectTemplateAddonContainer", "de/d70/a01415.html#a43048463c1bc7ccdbb447dd3f791b2ba", null ],
+    [ "GameObjectTemplateContainer", "de/d70/a01415.html#a5997afee8ff417f22a5fc03453c0a3d8", null ],
+    [ "goEventFlag", "de/d70/a01415.html#a5d69fabbfa5abca4bb03fba46cd1bef0", null ],
+    [ "GameObjectActions", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837", [
+      [ "None", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "AnimateCustom0", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a85821009c4561ff2dd394e76875f41e4", null ],
+      [ "AnimateCustom1", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a20097ab004d5809f0181ff76c095d00d", null ],
+      [ "AnimateCustom2", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a6bd3a49dc3c0acde22f7fb6d717c5ba6", null ],
+      [ "AnimateCustom3", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a96ccf53c55fa14a630d1ebf1814d5500", null ],
+      [ "Disturb", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837ada8bbd8aa09878c8c831cfa4d16cb1e3", null ],
+      [ "Unlock", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a7e7123b0d269ad5d9ec8d12c52a8ed8a", null ],
+      [ "Lock", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837ab485167c5b0e59d47009a16f90fe2659", null ],
+      [ "Open", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837ac3bf447eabe632720a3aa1a7ce401274", null ],
+      [ "OpenAndUnlock", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a309e99e8adfb532df3ef87568ef7b4dd", null ],
+      [ "Close", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837ad3d2e617335f08df83599665eef8a418", null ],
+      [ "ToggleOpen", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a4918a8673999bfdede87be4025674076", null ],
+      [ "Destroy", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a0e181f89f47654b86f3beb42f5cc08b8", null ],
+      [ "Rebuild", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a1c6aac0280240c97962b30423f1f852b", null ],
+      [ "Creation", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a67d5168b4f2b5424a3d118ea9ef99372", null ],
+      [ "Despawn", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a573a38c8ee30e1c0d6ad84ce4f965cf0", null ],
+      [ "MakeInert", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837aabb80dcaf182e2078c504e15fee2a31f", null ],
+      [ "MakeActive", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a403b23a8bfa05cf441c3e9dd632d4974", null ],
+      [ "CloseAndLock", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a395c884e23324c8a881736508abb7d05", null ],
+      [ "UseArtKit0", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837ae2a0fa972f9687e4bc206809d3398c8c", null ],
+      [ "UseArtKit1", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a77d0a472e8fb879ecb2cb0f5e95d66be", null ],
+      [ "UseArtKit2", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a7c616a85741d0083402758d77385cf12", null ],
+      [ "UseArtKit3", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837ac0d4e2c0fde8b58757dadda7ae262ca8", null ],
+      [ "SetTapList", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837ab98a44aedde3ad68a77221bb4ba8d8e0", null ]
     ] ],
-    [ "TotemSpellIds", "de/d70/a01415.html#a7092ec93c941969cd2cdd2291c6de0be", [
-      [ "SentryTotemSpell", "de/d70/a01415.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
-      [ "FireTotemSpell", "de/d70/a01415.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
-    ] ],
-    [ "TotemType", "de/d70/a01415.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
-      [ "TOTEM_PASSIVE", "de/d70/a01415.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
-      [ "TOTEM_ACTIVE", "de/d70/a01415.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
-      [ "TOTEM_STATUE", "de/d70/a01415.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
+    [ "LootState", "de/d70/a01415.html#a08733f20cea1f77cc9f1a549f8ce9f07", [
+      [ "GO_NOT_READY", "de/d70/a01415.html#a08733f20cea1f77cc9f1a549f8ce9f07aa7f58536a66a38d2bb42502424d69a79", null ],
+      [ "GO_READY", "de/d70/a01415.html#a08733f20cea1f77cc9f1a549f8ce9f07a8708de424ecaae41eb7271d399f1d5fc", null ],
+      [ "GO_ACTIVATED", "de/d70/a01415.html#a08733f20cea1f77cc9f1a549f8ce9f07a3e50ac5f6829b981fdff39a85a48959e", null ],
+      [ "GO_JUST_DEACTIVATED", "de/d70/a01415.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5", null ]
     ] ]
 ];

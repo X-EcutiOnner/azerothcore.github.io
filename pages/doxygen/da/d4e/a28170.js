@@ -1,10 +1,8 @@
 var a28170 =
 [
-    [ "attackSpeed", "da/d4e/a28170.html#ab5242f7367e8799a556176178c72fc88", null ],
-    [ "creatureType", "da/d4e/a28170.html#a3dff9074b85261932ed8a8a550c5395b", null ],
-    [ "flags1", "da/d4e/a28170.html#a026745f2ce754d754858d69ee219b518", null ],
-    [ "ID", "da/d4e/a28170.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
-    [ "modelID_A", "da/d4e/a28170.html#a86dfa61342583d920b7d8496bce4b49d", null ],
-    [ "modelID_H", "da/d4e/a28170.html#a1ee597d6fd02507b682874929645e01d", null ],
-    [ "stanceSpell", "da/d4e/a28170.html#a08f54b905e905fb5a59e449f8c613c08", null ]
+    [ "canLink", "da/d4e/a28170.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "da/d4e/a28170.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "da/d4e/a28170.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "da/d4e/a28170.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "da/d4e/a28170.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

@@ -1,12 +1,11 @@
 var a11706 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "df/d44/a11706.html#af3620678992778edbb859622e057893a", null ],
-    [ "AttackStart", "df/d44/a11706.html#aed39eaed8648ce78349c49ee33918b93", null ],
-    [ "EnterEvadeMode", "df/d44/a11706.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
-    [ "JustRespawned", "df/d44/a11706.html#a460c6912063587214ba0f2e01878d827", null ],
-    [ "Reset", "df/d44/a11706.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
-    [ "UpdateAI", "df/d44/a11706.html#a7bf1631810c8446bc157f8ff220199b7", null ],
-    [ "_attacked", "df/d44/a11706.html#a56d7211a3565c19b499f7de2eda6c862", null ],
-    [ "_hasAura", "df/d44/a11706.html#a1c0049100cde1c62daf80779d1135156", null ],
-    [ "events", "df/d44/a11706.html#a49b8e01897cd5347bbd06cac254163f4", null ]
+    [ "spectator_commandscript", "df/d44/a11706.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
+    [ "GetCommands", "df/d44/a11706.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
+    [ "HandleSpectatorCommand", "df/d44/a11706.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
+    [ "HandleSpectatorLeaveCommand", "df/d44/a11706.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
+    [ "HandleSpectatorResetCommand", "df/d44/a11706.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
+    [ "HandleSpectatorSpectateCommand", "df/d44/a11706.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
+    [ "HandleSpectatorVersionCommand", "df/d44/a11706.html#aaf7c57603d263f7ab919f12d9680f058", null ],
+    [ "HandleSpectatorWatchCommand", "df/d44/a11706.html#a1ee822e332374b375962d1ae87adbc61", null ]
 ];

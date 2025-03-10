@@ -1,11 +1,7 @@
 var a27322 =
 [
-    [ "npc_franklinAI", "df/d96/a27322.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
-    [ "DamageTaken", "df/d96/a27322.html#afa494098126ce3291e234cfc2b36336f", null ],
-    [ "JustEngagedWith", "df/d96/a27322.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
-    [ "Reset", "df/d96/a27322.html#a51a260460facf06ec6bb1486f434d885", null ],
-    [ "ScheduleEncounterStart", "df/d96/a27322.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
-    [ "SpellHit", "df/d96/a27322.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
-    [ "UpdateAI", "df/d96/a27322.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
-    [ "events", "df/d96/a27322.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
+    [ "npc_prof_leather", "df/d96/a27322.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
+    [ "HasLeatherSpecialty", "df/d96/a27322.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
+    [ "OnGossipHello", "df/d96/a27322.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
+    [ "OnGossipSelect", "df/d96/a27322.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
 ];

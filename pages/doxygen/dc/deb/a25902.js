@@ -1,6 +1,8 @@
 var a25902 =
 [
-    [ "CheckProc", "dc/deb/a25902.html#a0f1461140b08deac3f044142067368e7", null ],
-    [ "PrepareAuraScript", "dc/deb/a25902.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
-    [ "Register", "dc/deb/a25902.html#a05e31c2252c9054a18b4267be84895b9", null ]
+    [ "CheckProc", "dc/deb/a25902.html#a801610a9f9fae5cb711850254b291268", null ],
+    [ "HandleProc", "dc/deb/a25902.html#a3f6a53421c7c4b9346d98aa51c4ccd6d", null ],
+    [ "PrepareAuraScript", "dc/deb/a25902.html#ad08915b0c7f35bef76ddd05a62add43c", null ],
+    [ "Register", "dc/deb/a25902.html#a8626318b6f9b35a8b1c116062618b3c0", null ],
+    [ "Validate", "dc/deb/a25902.html#a8a3abd528fda4aab149fb7f6e5eae00d", null ]
 ];

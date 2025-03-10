@@ -1,20 +1,13 @@
 var a23366 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "d2/dd3/a23366.html#adb0173cb42642836f7734d8b0fb3e98f", null ],
-    [ "ActivateCell", "d2/dd3/a23366.html#abd718216778850455c758d79a5866958", null ],
-    [ "ActivatePrisoners", "d2/dd3/a23366.html#a18488afb78747a35ce7e3b4b9a2468b5", null ],
-    [ "GetGuidData", "d2/dd3/a23366.html#af7f6acc97bf16f4d31236dcbb2d94007", null ],
-    [ "Initialize", "d2/dd3/a23366.html#a3441a24486ec686d42b7320e6f105139", null ],
-    [ "OnCreatureCreate", "d2/dd3/a23366.html#ac58da5acec155e596791464c48f29773", null ],
-    [ "OnGameObjectCreate", "d2/dd3/a23366.html#a3894ce1d0dff79cee2ff0df51d19e1ea", null ],
-    [ "OnUnitDeath", "d2/dd3/a23366.html#a78b07bfe30c7f329046ff572f783c4b9", null ],
-    [ "PrisonerDied", "d2/dd3/a23366.html#a16315f7921b1960c7720f855cdddee96", null ],
-    [ "ResetPrisoner", "d2/dd3/a23366.html#a57f58c502b5fb2064307adb8c4976979", null ],
-    [ "ResetPrisoners", "d2/dd3/a23366.html#ac46b0ed98e69ac0d5b8582bb21a81dc8", null ],
-    [ "ResetPrisons", "d2/dd3/a23366.html#a728bbc185bb91cf024f8ff3bd878a10e", null ],
-    [ "SetBossState", "d2/dd3/a23366.html#aad428e00762795d8f817d6cfa25505fe", null ],
-    [ "StorePrisoner", "d2/dd3/a23366.html#ade72b3e7a2129b8a4f722990aef5ac5f", null ],
-    [ "_prisonerCounter", "d2/dd3/a23366.html#a50c371edc425191f610a0e8a6b44d2ab", null ],
-    [ "_prisonersCell", "d2/dd3/a23366.html#a3492a327f4c0d637fd5701f3997c1887", null ],
-    [ "_prisonGUIDs", "d2/dd3/a23366.html#a9a737e495b638ec65fbd306c6aa0267c", null ]
+    [ "boss_olm_the_summoner", "d2/dd3/a23366.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
+    [ "AttackStart", "d2/dd3/a23366.html#a334ab95cfc3320db1a568bcb5a1d9542", null ],
+    [ "JustDied", "d2/dd3/a23366.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
+    [ "JustEngagedWith", "d2/dd3/a23366.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
+    [ "JustSummoned", "d2/dd3/a23366.html#a546bede780b7d67b98ec251ae2e1b812", null ],
+    [ "Reset", "d2/dd3/a23366.html#a8dcdc816276a1932612d554cff703a45", null ],
+    [ "UpdateAI", "d2/dd3/a23366.html#a967f330966fdb29f26ab24e8f40d2152", null ],
+    [ "_scheduler", "d2/dd3/a23366.html#a448ba3a88156e80eebad44585791ab21", null ],
+    [ "instance", "d2/dd3/a23366.html#a8caabc31bb7a8548eb936c34c655df68", null ],
+    [ "summons", "d2/dd3/a23366.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
 ];

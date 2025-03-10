@@ -1,13 +1,11 @@
 var a14158 =
 [
-    [ "go_firework_show", "da/de3/a14158.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "da/de3/a14158.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "da/de3/a14158.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "da/de3/a14158.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "da/de3/a14158.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "da/de3/a14158.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "da/de3/a14158.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "da/de3/a14158.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "da/de3/a14158.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "da/de3/a14158.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "npc_the_biggest_tree", "da/de3/a14158.html#a7366f46c4864fa0f1372c920b94c6e97", null ],
+    [ "MoveInLineOfSight", "da/de3/a14158.html#a572c0b146d461b6a8504163452570954", null ],
+    [ "Reset", "da/de3/a14158.html#a3fd4c5e522e8945925124426a8ff870b", null ],
+    [ "UpdateAI", "da/de3/a14158.html#a3d1b33ab7cd28de5438f53a00657170a", null ],
+    [ "orphanGUID", "da/de3/a14158.html#a36c170fb178a19256fd41fb2cbbb7830", null ],
+    [ "phase", "da/de3/a14158.html#a7101fe10b15ce1779d3d131e597ef636", null ],
+    [ "playerGUID", "da/de3/a14158.html#ab39af61d9ab7d9f7210f96b65971654d", null ],
+    [ "timer", "da/de3/a14158.html#a7525783692c3bc9642f534296b71a5f5", null ]
 ];

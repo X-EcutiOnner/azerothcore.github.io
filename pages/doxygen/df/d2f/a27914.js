@@ -1,8 +1,9 @@
 var a27914 =
 [
-    [ "difficulty", "df/d2f/a27914.html#a2a04df701c13dc49053b09a9587a72a8", null ],
-    [ "encounterIndex", "df/d2f/a27914.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
-    [ "encounterName", "df/d2f/a27914.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
-    [ "id", "df/d2f/a27914.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
-    [ "mapId", "df/d2f/a27914.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
+    [ "CinematicSequence", "df/d2f/a27914.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
+    [ "ClassID", "df/d2f/a27914.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
+    [ "expansion", "df/d2f/a27914.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
+    [ "name", "df/d2f/a27914.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
+    [ "powerType", "df/d2f/a27914.html#a74aec35dc161a7e830453b9365a6f107", null ],
+    [ "spellfamily", "df/d2f/a27914.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
 ];

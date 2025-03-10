@@ -1,6 +1,5 @@
 var a14726 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "d4/de9/a14730.html", "d4/de9/a14730" ],
-    [ "instance_onyxias_lair", "dd/d2d/a14726.html#a1be32e45cb8af86477d300efb6e545cc", null ],
-    [ "GetInstanceScript", "dd/d2d/a14726.html#abbdc474ce17bca0cb55180661c5204a8", null ]
+    [ "npc_black_morass_summoned_add", "dd/d2d/a14726.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
+    [ "EnterEvadeMode", "dd/d2d/a14726.html#a437e7b72b985713d22883f3e33f30942", null ]
 ];

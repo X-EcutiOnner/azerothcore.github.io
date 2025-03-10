@@ -1,8 +1,6 @@
 var a21878 =
 [
-    [ "npc_llod_genericAI", "d9/dd9/a21878.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "d9/dd9/a21878.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "d9/dd9/a21878.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "d9/dd9/a21878.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "d9/dd9/a21878.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "npc_your_inner_turmoilAI", "d4/d55/a21882.html", "d4/d55/a21882" ],
+    [ "npc_your_inner_turmoil", "d9/dd9/a21878.html#a72856ef469bb8f6ff4a89a16159479af", null ],
+    [ "GetAI", "d9/dd9/a21878.html#a29c8f76b072e891face1225770688ca6", null ]
 ];

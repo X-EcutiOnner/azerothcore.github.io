@@ -1,6 +1,6 @@
 var a24534 =
 [
-    [ "CheckCast", "d9/de3/a24534.html#a583e19667a83ada4cd793fbf391f9e93", null ],
-    [ "PrepareSpellScript", "d9/de3/a24534.html#ac6adda0dbe544cf2457060647c01de0f", null ],
-    [ "Register", "d9/de3/a24534.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
+    [ "CalculateAmount", "d9/de3/a24534.html#ada4514ba7769ebceeed1e0ab1c3a33e8", null ],
+    [ "PrepareAuraScript", "d9/de3/a24534.html#a1faa084b17776e826242293e2aaef2f4", null ],
+    [ "Register", "d9/de3/a24534.html#a94b21c91954385201d4bad6aff2205fc", null ]
 ];

@@ -1,6 +1,6 @@
 var a12710 =
 [
-    [ "boss_kagani_nightstrike", "de/d2e/a12710.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
-    [ "JustEngagedWith", "de/d2e/a12710.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
-    [ "MovementInform", "de/d2e/a12710.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
+    [ "npc_image_of_medivhAI", "df/d93/a12714.html", "df/d93/a12714" ],
+    [ "npc_image_of_medivh", "de/d2e/a12710.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
+    [ "GetAI", "de/d2e/a12710.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
 ];

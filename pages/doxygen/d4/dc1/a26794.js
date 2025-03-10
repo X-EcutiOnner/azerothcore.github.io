@@ -1,13 +1,7 @@
 var a26794 =
 [
-    [ "CheckProc", "d4/dc1/a26794.html#abb43619da8154c1c9ebc9d164a2f6dc6", null ],
-    [ "HandleAfterApply", "d4/dc1/a26794.html#ac3c12801bde3bd259b573eeca6dc4d5b", null ],
-    [ "HandleApply", "d4/dc1/a26794.html#aaa07858f0604965fad5c1189125a822b", null ],
-    [ "HandleProc", "d4/dc1/a26794.html#a9fd416a5f8f8a405f40c41b9ef8b734e", null ],
-    [ "HandleRemove", "d4/dc1/a26794.html#a3da984d172878110b77549b51409d7e0", null ],
-    [ "Load", "d4/dc1/a26794.html#a644aaf343b41f049f34ff7387c613bf1", null ],
-    [ "PrepareAuraScript", "d4/dc1/a26794.html#aea23ff608c74017d98edcc146d3ba35a", null ],
-    [ "Register", "d4/dc1/a26794.html#a624d09c6f1a177912a1c7cab30d89c7b", null ],
-    [ "Validate", "d4/dc1/a26794.html#a34f1b7782dbf2dcc18eb803497104a13", null ],
-    [ "_procTarget", "d4/dc1/a26794.html#ac6c81bc1f9008c3861f99f4e89626969", null ]
+    [ "HandleDummy", "d4/dc1/a26794.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "d4/dc1/a26794.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "d4/dc1/a26794.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "d4/dc1/a26794.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

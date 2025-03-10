@@ -1,7 +1,7 @@
 var a21806 =
 [
-    [ "HandleDummy", "de/d6b/a21806.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
-    [ "PrepareSpellScript", "de/d6b/a21806.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
-    [ "Register", "de/d6b/a21806.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
-    [ "Validate", "de/d6b/a21806.html#aeec15705a41ad2ac0e59d90086591d96", null ]
+    [ "npc_amberpine_woodsmanAI", "de/d6b/a21806.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
+    [ "Reset", "de/d6b/a21806.html#a8da613c7bbaadf331c95667e7a361702", null ],
+    [ "UpdateAI", "de/d6b/a21806.html#a64dbf41424a710c400d51507f6457b41", null ],
+    [ "_events", "de/d6b/a21806.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
 ];

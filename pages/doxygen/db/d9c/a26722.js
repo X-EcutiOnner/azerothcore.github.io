@@ -1,7 +1,7 @@
 var a26722 =
 [
-    [ "HandleApplyAura", "db/d9c/a26722.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "db/d9c/a26722.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "db/d9c/a26722.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "db/d9c/a26722.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "HandleDispel", "db/d9c/a26722.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
+    [ "PrepareAuraScript", "db/d9c/a26722.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
+    [ "Register", "db/d9c/a26722.html#a2c67e4327fdd034978d4822311632980", null ],
+    [ "Validate", "db/d9c/a26722.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
 ];

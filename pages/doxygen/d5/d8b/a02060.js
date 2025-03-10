@@ -1,41 +1,5 @@
 var a02060 =
 [
-    [ "AuctionSortInfo", "d3/d61/a07024.html", "d3/d61/a07024" ],
-    [ "AuctionEntryItemEnchants", "dd/df5/a07028.html", "dd/df5/a07028" ],
-    [ "SearchableAuctionEntryItem", "d0/d15/a07032.html", "d0/d15/a07032" ],
-    [ "SearchableAuctionEntry", "d9/d42/a07036.html", "d9/d42/a07036" ],
-    [ "AuctionHouseSearchInfo", "dc/d14/a07040.html", "dc/d14/a07040" ],
-    [ "AuctionHouseUsablePlayerInfo", "db/d73/a07044.html", "db/d73/a07044" ],
-    [ "AuctionHousePlayerInfo", "d3/da4/a07048.html", "d3/da4/a07048" ],
-    [ "AuctionSearcherRequest", "d4/d15/a07052.html", "d4/d15/a07052" ],
-    [ "AuctionSearchListRequest", "d7/de7/a07056.html", "d7/de7/a07056" ],
-    [ "AuctionSearchOwnerListRequest", "d4/df2/a07060.html", "d4/df2/a07060" ],
-    [ "AuctionSearchBidderListRequest", "df/d34/a07064.html", "df/d34/a07064" ],
-    [ "AuctionSearcherResponse", "d8/d4c/a07068.html", "d8/d4c/a07068" ],
-    [ "AuctionSearcherUpdate", "df/d27/a07072.html", "df/d27/a07072" ],
-    [ "AuctionSearchAdd", "da/dba/a07076.html", "da/dba/a07076" ],
-    [ "AuctionSearchRemove", "d5/d58/a07080.html", "d5/d58/a07080" ],
-    [ "AuctionSearchUpdateBid", "df/d45/a07084.html", "df/d45/a07084" ],
-    [ "AuctionSorter", "da/d1c/a07088.html", "da/d1c/a07088" ],
-    [ "AuctionHouseWorkerThread", "d7/df8/a07092.html", "d7/df8/a07092" ],
-    [ "AuctionHouseSearcher", "d4/def/a07096.html", "d4/def/a07096" ],
-    [ "AuctionPlayerSkills", "d5/d8b/a02060.html#a1b900c09f81e1b28037da303e33bd597", null ],
-    [ "AuctionPlayerSpells", "d5/d8b/a02060.html#add0df1394d287b79672ebf01c59138c1", null ],
-    [ "AuctionSortOrderVector", "d5/d8b/a02060.html#afefbc3444cfffa5e2fe0ded42a20e407", null ],
-    [ "SearchableAuctionEntriesMap", "d5/d8b/a02060.html#a7cad31f048914034b12550129308e80e", null ],
-    [ "SortableAuctionEntriesList", "d5/d8b/a02060.html#a7d6d8287b2adf4a3caae16ed69a8519d", null ],
-    [ "AuctionSortOrder", "d5/d8b/a02060.html#abce5a6a07f5c4ef07bed8f8f5fba2420", [
-      [ "AUCTION_SORT_MINLEVEL", "d5/d8b/a02060.html#abce5a6a07f5c4ef07bed8f8f5fba2420a30585d5b267baaa6ff0ff1c1f2d900e4", null ],
-      [ "AUCTION_SORT_RARITY", "d5/d8b/a02060.html#abce5a6a07f5c4ef07bed8f8f5fba2420ae73234222b3a934423cb2c47827d9055", null ],
-      [ "AUCTION_SORT_BUYOUT", "d5/d8b/a02060.html#abce5a6a07f5c4ef07bed8f8f5fba2420a29d9f97d625896cd9e9729e0971ca215", null ],
-      [ "AUCTION_SORT_TIMELEFT", "d5/d8b/a02060.html#abce5a6a07f5c4ef07bed8f8f5fba2420a25b565bb3a4f39cecd688a6a95cbc595", null ],
-      [ "AUCTION_SORT_UNK4", "d5/d8b/a02060.html#abce5a6a07f5c4ef07bed8f8f5fba2420a45cabc5fc139ebe5f9ab99ba04442ee4", null ],
-      [ "AUCTION_SORT_ITEM", "d5/d8b/a02060.html#abce5a6a07f5c4ef07bed8f8f5fba2420ad941e54aa0ae31a89638b48d169f88ea", null ],
-      [ "AUCTION_SORT_MINBIDBUY", "d5/d8b/a02060.html#abce5a6a07f5c4ef07bed8f8f5fba2420a83dbe3e4571275be914a9c72907895ef", null ],
-      [ "AUCTION_SORT_OWNER", "d5/d8b/a02060.html#abce5a6a07f5c4ef07bed8f8f5fba2420ab092607020b20ea5308b1ea257df844e", null ],
-      [ "AUCTION_SORT_BID", "d5/d8b/a02060.html#abce5a6a07f5c4ef07bed8f8f5fba2420a26c2c32eb02df2a5e1690e0ec6bf221a", null ],
-      [ "AUCTION_SORT_STACK", "d5/d8b/a02060.html#abce5a6a07f5c4ef07bed8f8f5fba2420add1499675819fe1f00e71390131dade4", null ],
-      [ "AUCTION_SORT_BUYOUT_2", "d5/d8b/a02060.html#abce5a6a07f5c4ef07bed8f8f5fba2420af48b05fc2213181717f3490c46c63094", null ],
-      [ "AUCTION_SORT_MAX", "d5/d8b/a02060.html#abce5a6a07f5c4ef07bed8f8f5fba2420a607c80ce155cba82b2aa1d27532c970d", null ]
-    ] ]
+    [ "GetEnableModulesList", "d5/d8b/a02060.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7", null ],
+    [ "SetEnableModulesList", "d5/d8b/a02060.html#ac16569c9333f642e54fa7a4ec6a948e3", null ]
 ];

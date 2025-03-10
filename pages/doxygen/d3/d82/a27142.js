@@ -1,6 +1,6 @@
 var a27142 =
 [
-    [ "go_fel_crystalforge", "d3/d82/a27142.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "d3/d82/a27142.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "d3/d82/a27142.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "go_darkmoon_faire_musicAI", "d6/dee/a27146.html", "d6/dee/a27146" ],
+    [ "go_darkmoon_faire_music", "d3/d82/a27142.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "d3/d82/a27142.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

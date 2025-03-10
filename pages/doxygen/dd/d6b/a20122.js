@@ -1,5 +1,6 @@
 var a20122 =
 [
-    [ "achievement_i_have_the_coolest_friends", "dd/d6b/a20122.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "dd/d6b/a20122.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "FilterTargets", "dd/d6b/a20122.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
+    [ "PrepareSpellScript", "dd/d6b/a20122.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
+    [ "Register", "dd/d6b/a20122.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
 ];

@@ -1,14 +1,8 @@
 var a04571 =
 [
-    [ "ContainerMapList< OBJECT >", "df/d2e/a05216.html", "df/d2e/a05216" ],
-    [ "ContainerMapList< TypeNull >", "dd/d2d/a05220.html", null ],
-    [ "ContainerMapList< TypeList< H, T > >", "d1/d94/a05224.html", "d1/d94/a05224" ],
-    [ "ContainerUnorderedMap< OBJECT, KEY_TYPE >", "d6/dd5/a05228.html", "d6/dd5/a05228" ],
-    [ "ContainerUnorderedMap< TypeNull, KEY_TYPE >", "d5/d8b/a05232.html", null ],
-    [ "ContainerUnorderedMap< TypeList< H, T >, KEY_TYPE >", "dd/d1a/a05236.html", "dd/d1a/a05236" ],
-    [ "ContainerList< OBJECT >", "d5/d47/a05240.html", "d5/d47/a05240" ],
-    [ "ContainerList< TypeNull >", "d5/d76/a05244.html", null ],
-    [ "ContainerList< TypeList< H, T > >", "df/d8e/a05248.html", "df/d8e/a05248" ],
-    [ "TypeMapContainer< OBJECT_TYPES >", "d9/df0/a05252.html", "d9/df0/a05252" ],
-    [ "TypeUnorderedMapContainer< OBJECT_TYPES, KEY_TYPE >", "da/d44/a05256.html", "da/d44/a05256" ]
+    [ "PingOperation", "de/df3/a05674.html", "de/df3/a05674" ],
+    [ "DatabaseIncompatibleVersion", "d0/dff/a04571.html#a31d71bc4748fa66e040eb20dc995e12e", null ],
+    [ "DatabaseWorkerPool< CharacterDatabaseConnection >", "d0/dff/a04571.html#aa3cb93fc2ebcb628d94ae0dd8ddf8a18", null ],
+    [ "DatabaseWorkerPool< LoginDatabaseConnection >", "d0/dff/a04571.html#a8751940b74a554bf0a86046325e0c5ed", null ],
+    [ "DatabaseWorkerPool< WorldDatabaseConnection >", "d0/dff/a04571.html#a25e66781580e4e7fcbd8e8ca6ef9f13a", null ]
 ];

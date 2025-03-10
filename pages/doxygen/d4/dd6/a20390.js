@@ -1,6 +1,5 @@
 var a20390 =
 [
-    [ "npc_ulduar_dark_rune_guardianAI", "db/d91/a20394.html", "db/d91/a20394" ],
-    [ "npc_ulduar_dark_rune_guardian", "d4/dd6/a20390.html#a6266dd5c096402b5383af09ac361a634", null ],
-    [ "GetAI", "d4/dd6/a20390.html#a9ed188491483548658ce682bf36e6fd2", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_11", "d4/dd6/a20390.html#a5d8980111e029b4c9311737f3985ab61", null ],
+    [ "OnCheck", "d4/dd6/a20390.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
 ];

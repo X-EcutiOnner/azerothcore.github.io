@@ -1,4 +1,6 @@
 var a07530 =
 [
-    [ "ChatCommandResult", "d1/da9/a07530.html#a6150ebd46977676b2ddeebfb818e86a9", null ]
+    [ "value_type", "d1/da9/a07530.html#aa9f15f4c6028776b59bf56cbd63587d9", null ],
+    [ "operator()", "d1/da9/a07530.html#a3042bf741c31893eb607817093239f1a", null ],
+    [ "operator()", "d1/da9/a07530.html#a83fddb5675f63d4535fac9e62cf9638d", null ]
 ];

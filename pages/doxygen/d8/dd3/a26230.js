@@ -1,6 +1,6 @@
 var a26230 =
 [
-    [ "HandleDummy", "d8/dd3/a26230.html#aee5967205738ebaef70e1105e8d91b2c", null ],
-    [ "PrepareSpellScript", "d8/dd3/a26230.html#a1ef5914adfd2c951a68f50658852e095", null ],
-    [ "Register", "d8/dd3/a26230.html#af42b6d5a5fbb5eb84773818594813afc", null ]
+    [ "HandleScriptEffect", "d8/dd3/a26230.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
+    [ "PrepareSpellScript", "d8/dd3/a26230.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
+    [ "Register", "d8/dd3/a26230.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
 ];

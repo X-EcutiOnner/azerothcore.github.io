@@ -1,8 +1,6 @@
 var a08494 =
 [
-    [ "PlayerCreateInfoAction", "d9/d20/a08494.html#a50d56595c71374e132dfe9f988144e75", null ],
-    [ "PlayerCreateInfoAction", "d9/d20/a08494.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
-    [ "action", "d9/d20/a08494.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
-    [ "button", "d9/d20/a08494.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
-    [ "type", "d9/d20/a08494.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
+    [ "PlayerClassLevelInfo", "d9/d20/a08494.html#a60153094e3179bfc6c028d2b76775805", null ],
+    [ "basehealth", "d9/d20/a08494.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
+    [ "basemana", "d9/d20/a08494.html#a939a8d8739a553c919d84e399ce17d22", null ]
 ];

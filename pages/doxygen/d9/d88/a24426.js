@@ -1,7 +1,11 @@
 var a24426 =
 [
-    [ "CheckCast", "d9/d88/a24426.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "d9/d88/a24426.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "d9/d88/a24426.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "d9/d88/a24426.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "CalcPeriodic", "d9/d88/a24426.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
+    [ "CalculateHasteAmount", "d9/d88/a24426.html#a75d428e0b3619d53bd9436712d2e394e", null ],
+    [ "CalculateSPAmount", "d9/d88/a24426.html#a81805b43a47065281f83889d8be95c54", null ],
+    [ "CalculateStatAmount", "d9/d88/a24426.html#a763276aaa00bb6953e0b52118662e7a8", null ],
+    [ "HandleEffectApply", "d9/d88/a24426.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
+    [ "HandlePeriodic", "d9/d88/a24426.html#ab3c7d479eae88ab4a59b06610af19429", null ],
+    [ "PrepareAuraScript", "d9/d88/a24426.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
+    [ "Register", "d9/d88/a24426.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
 ];

@@ -1,6 +1,7 @@
 var a15598 =
 [
-    [ "go_troll_cageAI", "d7/de8/a15602.html", "d7/de8/a15602" ],
-    [ "go_troll_cage", "d1/dbe/a15598.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
-    [ "GetAI", "d1/dbe/a15598.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
+    [ "npc_ranshallaAI", "d7/de8/a15602.html", "d7/de8/a15602" ],
+    [ "npc_ranshalla", "d1/dbe/a15598.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "d1/dbe/a15598.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "d1/dbe/a15598.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

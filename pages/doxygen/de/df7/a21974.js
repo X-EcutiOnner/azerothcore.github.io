@@ -1,6 +1,6 @@
 var a21974 =
 [
-    [ "HandleHealPct", "de/df7/a21974.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "de/df7/a21974.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "de/df7/a21974.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "npc_infra_green_bomber_genericAI", "da/d10/a21978.html", "da/d10/a21978" ],
+    [ "npc_infra_green_bomber_generic", "de/df7/a21974.html#a39134a09376c35f15e99377cd28ac6ff", null ],
+    [ "GetAI", "de/df7/a21974.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
 ];

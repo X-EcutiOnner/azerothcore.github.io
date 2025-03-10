@@ -1,8 +1,6 @@
 var a08778 =
 [
-    [ "Entry", "d5/d99/a08778.html#ac9fa29db15e06513805124a56cd073e8", null ],
-    [ "ExtendedCost", "d5/d99/a08778.html#ac826dc078ef456ed93bf23175bce243d", null ],
-    [ "Incrtime", "d5/d99/a08778.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
-    [ "Item", "d5/d99/a08778.html#aa500da847d94a9b70cb3a26b782059b3", null ],
-    [ "MaxCount", "d5/d99/a08778.html#a04534ff42e5889995b5203a3257bc864", null ]
+    [ "Condition", "d5/d99/a08778.html#a78172859719e85a21c0a39e41c692cf4", null ],
+    [ "EventId", "d5/d99/a08778.html#aa5d7e88828c9f44b5913d4593496894f", null ],
+    [ "Num", "d5/d99/a08778.html#a7cf6141e00b1a33063409c9828773b94", null ]
 ];

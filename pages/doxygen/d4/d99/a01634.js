@@ -1,4 +1,4 @@
 var a01634 =
 [
-    [ "ScriptRegistry< VehicleScript >", "d4/d99/a01634.html#af505a519aaa0d7e6070eb203075ff98d", null ]
+    [ "ScriptRegistry< TicketScript >", "d4/d99/a01634.html#a3455c8aecfa91396c5eb215ecbce5583", null ]
 ];

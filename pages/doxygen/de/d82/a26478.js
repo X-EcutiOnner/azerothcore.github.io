@@ -1,9 +1,11 @@
 var a26478 =
 [
-    [ "Absorb", "de/d82/a26478.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
-    [ "CalculateAmount", "de/d82/a26478.html#a820c27c2161063307a10903cbbc5c0fa", null ],
-    [ "Load", "de/d82/a26478.html#a7b71990051faaa083110408c13b8401f", null ],
-    [ "PrepareAuraScript", "de/d82/a26478.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
-    [ "Register", "de/d82/a26478.html#aa443ab0eed74229883884fbced0426d7", null ],
-    [ "absorbPct", "de/d82/a26478.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
+    [ "CheckProc", "de/d82/a26478.html#a7a6eea8debb09c4c9086a92d8e6ee59c", null ],
+    [ "HandleProc", "de/d82/a26478.html#af29b1d6d8553003514918a383cb08b4a", null ],
+    [ "Load", "de/d82/a26478.html#a8861c2415c0f705cb4a06c02eabb54d2", null ],
+    [ "OnRemove", "de/d82/a26478.html#a9227147dd6e621deddd0088b95e9db2f", null ],
+    [ "PrepareAuraScript", "de/d82/a26478.html#a149881d517edbb15032452554fc64948", null ],
+    [ "Register", "de/d82/a26478.html#ac81d60d54a87a23bd9481934f5753de0", null ],
+    [ "Validate", "de/d82/a26478.html#a7a4d1bddd1dbeb41e0f6f8fe272b4ad6", null ],
+    [ "_redirectTarget", "de/d82/a26478.html#af3ee2a283d8942ab3652a6386c26f737", null ]
 ];

@@ -1,8 +1,8 @@
 var a23342 =
 [
-    [ "boss_broggok", "d9/d28/a23342.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "d9/d28/a23342.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "d9/d28/a23342.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "d9/d28/a23342.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "d9/d28/a23342.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "ApplyStun", "d9/d28/a23342.html#a5a5b921dc45418485919e599e80f8ca8", null ],
+    [ "HandleScriptEffect", "d9/d28/a23342.html#a32619710179250a6a0b408856a888153", null ],
+    [ "PrepareSpellScript", "d9/d28/a23342.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
+    [ "Register", "d9/d28/a23342.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
+    [ "Validate", "d9/d28/a23342.html#a66d91a87078c663903cd836344eec867", null ]
 ];

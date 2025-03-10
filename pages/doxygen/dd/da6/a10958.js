@@ -1,7 +1,6 @@
 var a10958 =
 [
-    [ "IsValidOpcode", "dd/da6/a10958.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "dd/da6/a10958.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "dd/da6/a10958.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "dd/da6/a10958.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "WorldSession", "dd/da6/a10958.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Guid", "dd/da6/a10958.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
+    [ "Name", "dd/da6/a10958.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
 ];

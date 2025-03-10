@@ -1,9 +1,8 @@
 var a26930 =
 [
-    [ "emerald_dragonAI", "d6/d22/a26930.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "d6/d22/a26930.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "d6/d22/a26930.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "d6/d22/a26930.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "d6/d22/a26930.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "d6/d22/a26930.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "CharacterActionIpLogger", "d6/d22/a26930.html#a39861f7348a79031a8215b435ba81059", null ],
+    [ "CharacterIPLogAction", "d6/d22/a26930.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
+    [ "OnPlayerCreate", "d6/d22/a26930.html#a48844efac9d9af9c6415ad49d2473688", null ],
+    [ "OnPlayerLogin", "d6/d22/a26930.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
+    [ "OnPlayerLogout", "d6/d22/a26930.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
 ];

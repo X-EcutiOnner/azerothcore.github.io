@@ -1,9 +1,14 @@
 var a15514 =
 [
-    [ "npc_pluckyAI", "d8/df0/a15514.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "d8/df0/a15514.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "d8/df0/a15514.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "d8/df0/a15514.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "d8/df0/a15514.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "d8/df0/a15514.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "npc_taskmaster_fizzuleAI", "d8/df0/a15514.html#ac792f91930c869ce919f8fd96b3fb076", null ],
+    [ "DoFriend", "d8/df0/a15514.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
+    [ "JustEngagedWith", "d8/df0/a15514.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
+    [ "ReceiveEmote", "d8/df0/a15514.html#a21d0d70086f085b715a12d05fbe5d611", null ],
+    [ "Reset", "d8/df0/a15514.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
+    [ "SpellHit", "d8/df0/a15514.html#a4c35104935a3a6264c853a657dc42244", null ],
+    [ "UpdateAI", "d8/df0/a15514.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
+    [ "factionNorm", "d8/df0/a15514.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
+    [ "FlareCount", "d8/df0/a15514.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
+    [ "IsFriend", "d8/df0/a15514.html#ab7e6bd2e023545c73fba758267551eee", null ],
+    [ "ResetTimer", "d8/df0/a15514.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
 ];

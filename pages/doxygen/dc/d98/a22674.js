@@ -1,7 +1,8 @@
 var a22674 =
 [
-    [ "PrepareAuraScript", "dc/d98/a22674.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "dc/d98/a22674.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "dc/d98/a22674.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "dc/d98/a22674.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "HandleScriptEffect", "dc/d98/a22674.html#a8e5b81581fff787f691521d03fed66fc", null ],
+    [ "Load", "dc/d98/a22674.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
+    [ "PrepareSpellScript", "dc/d98/a22674.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
+    [ "Register", "dc/d98/a22674.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
+    [ "Validate", "dc/d98/a22674.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
 ];

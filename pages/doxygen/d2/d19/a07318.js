@@ -1,10 +1,10 @@
 var a07318 =
 [
-    [ "BattlegroundBE", "d2/d19/a07318.html#a4b29ebe897de3109b165607de957fae2", null ],
-    [ "FillInitialWorldStates", "d2/d19/a07318.html#a81784511e0adbafc74bf56b11e0c40b5", null ],
-    [ "HandleAreaTrigger", "d2/d19/a07318.html#a6216e25edd0057b9599efc787045505e", null ],
-    [ "HandlePlayerUnderMap", "d2/d19/a07318.html#ab004984d4b882e72471b0b5a8fca9632", null ],
-    [ "SetupBattleground", "d2/d19/a07318.html#a2eed1be4672539674e092edb6a6a9627", null ],
-    [ "StartingEventCloseDoors", "d2/d19/a07318.html#a2379fda6296fcdbde68fad362e858621", null ],
-    [ "StartingEventOpenDoors", "d2/d19/a07318.html#a09be55b7b6a1559a657bdfbd672021f0", null ]
+    [ "OwnerId", "d2/d19/a07318.html#ae6203d7a867838b279825925841a99df", null ],
+    [ "PrevOwnerId", "d2/d19/a07318.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
+    [ "PrevState", "d2/d19/a07318.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
+    [ "State", "d2/d19/a07318.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
+    [ "Timer", "d2/d19/a07318.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
+    [ "TotalOwnerId", "d2/d19/a07318.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
+    [ "Tower", "d2/d19/a07318.html#a222db96ad937e31986c0c39a5a371dd7", null ]
 ];

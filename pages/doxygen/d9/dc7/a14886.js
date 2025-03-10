@@ -1,8 +1,9 @@
 var a14886 =
 [
-    [ "npc_obsidian_destroyer", "d9/dc7/a14886.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
-    [ "JustDied", "d9/dc7/a14886.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
-    [ "JustEngagedWith", "d9/dc7/a14886.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
-    [ "Reset", "d9/dc7/a14886.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
-    [ "UpdateAI", "d9/dc7/a14886.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
+    [ "go_ossirian_crystalAI", "d9/dc7/a14886.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
+    [ "DoAction", "d9/dc7/a14886.html#a581436335d190466520c07fde56ad441", null ],
+    [ "GossipHello", "d9/dc7/a14886.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
+    [ "SetGUID", "d9/dc7/a14886.html#a9c983aa02285dbebc545b4056191200c", null ],
+    [ "_instance", "d9/dc7/a14886.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
+    [ "_triggerGUID", "d9/dc7/a14886.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
 ];

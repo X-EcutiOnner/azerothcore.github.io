@@ -1,6 +1,15 @@
 var a14450 =
 [
-    [ "HandleHit", "d0/df2/a14450.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "d0/df2/a14450.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "d0/df2/a14450.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "d0/df2/a14450.html#aef8e98b85dfc93a1e9405fbbce084e3f", null ],
+    [ "Initialize", "d0/df2/a14450.html#a11b698907ffea5dd1a165a35d2c23dd0", null ],
+    [ "IsFireEventDone", "d0/df2/a14450.html#aadba63a6fa6025858e78712892e4a343", null ],
+    [ "OnCreatureCreate", "d0/df2/a14450.html#ab5e452958bc474e60fd3f637595629c1", null ],
+    [ "OnGameObjectCreate", "d0/df2/a14450.html#ae96ecf6e1b4ca99f2b3fc3ace5cbf81b", null ],
+    [ "OnUnitDeath", "d0/df2/a14450.html#a163178ce8e79aa0bc082172465527173", null ],
+    [ "ReadSaveDataMore", "d0/df2/a14450.html#a1b045bbe6c337e726158e64375fa9fe7", null ],
+    [ "SetData", "d0/df2/a14450.html#a79fcee240fbd9190b0b66fd4bf7955d9", null ],
+    [ "WriteSaveDataMore", "d0/df2/a14450.html#abaa419d432ef6d0d96487c8d9ebcb630", null ],
+    [ "_akumaiPortalGUID", "d0/df2/a14450.html#a37b3647e927798d77a17f99976910b4b", null ],
+    [ "_encounters", "d0/df2/a14450.html#a4cfd6047351fd144ba96627889a3e9cd", null ],
+    [ "_requiredDeaths", "d0/df2/a14450.html#a3aade6e7fb756b84180876b4ba086376", null ]
 ];

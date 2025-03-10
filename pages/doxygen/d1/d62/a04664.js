@@ -1,7 +1,6 @@
 var a04664 =
 [
-    [ "UpdateResult", "da/d96/a05868.html", "da/d96/a05868" ],
-    [ "UpdateFetcher", "d8/d73/a05872.html", "d8/d73/a05872" ],
-    [ "UpdateFetcher::AppliedFileEntry", "db/d0d/a05876.html", "db/d0d/a05876" ],
-    [ "UpdateFetcher::PathCompare", "d6/d45/a05880.html", "d6/d45/a05880" ]
+    [ "DBUpdater< CharacterDatabaseConnection >", "d1/d62/a04664.html#a753e207671f7af3815a056247f2de3ce", null ],
+    [ "DBUpdater< LoginDatabaseConnection >", "d1/d62/a04664.html#a16a33693c8570aff221401b100547fb7", null ],
+    [ "DBUpdater< WorldDatabaseConnection >", "d1/d62/a04664.html#ace05c45d1df6cb7f16487ef1aa8bc9f7", null ]
 ];

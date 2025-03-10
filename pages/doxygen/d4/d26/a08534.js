@@ -1,10 +1,7 @@
 var a08534 =
 [
-    [ "EquipmentSet", "d4/d26/a08534.html#acd3085c12c795daceae86e94448109e2", null ],
-    [ "Guid", "d4/d26/a08534.html#aae529ea61a2ad4f114b6a108564f5474", null ],
-    [ "IconName", "d4/d26/a08534.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
-    [ "IgnoreMask", "d4/d26/a08534.html#af116e824d23f000f424f3b261618e827", null ],
-    [ "Items", "d4/d26/a08534.html#a113e6e5883afe38d446a6d435cd34a01", null ],
-    [ "Name", "d4/d26/a08534.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
-    [ "state", "d4/d26/a08534.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
+    [ "SetRuneState", "d4/d26/a08534.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
+    [ "lastUsedRune", "d4/d26/a08534.html#a88c702716eb3032c20ae5ed74922d923", null ],
+    [ "runes", "d4/d26/a08534.html#aac485530bfa81d54d9da3213fe917c29", null ],
+    [ "runeState", "d4/d26/a08534.html#ae58297e0766578b234604a97641501a1", null ]
 ];

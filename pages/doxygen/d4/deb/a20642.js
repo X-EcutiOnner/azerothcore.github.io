@@ -1,6 +1,6 @@
 var a20642 =
 [
-    [ "boss_yoggsaronAI", "d5/d16/a20646.html", "d5/d16/a20646" ],
-    [ "boss_yoggsaron", "d4/deb/a20642.html#a3fa3ada3979b55100b8ca9e21ec655a1", null ],
-    [ "GetAI", "d4/deb/a20642.html#a113eb034acc46a2edd4a84598413a63e", null ]
+    [ "HandleScript", "d4/deb/a20642.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
+    [ "PrepareSpellScript", "d4/deb/a20642.html#a4fd05478a145157dbd8377532033ab95", null ],
+    [ "Register", "d4/deb/a20642.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
 ];

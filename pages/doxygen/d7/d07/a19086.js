@@ -1,10 +1,7 @@
 var a19086 =
 [
-    [ "npc_scion_of_eternityAI", "d7/d07/a19086.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
-    [ "AttackStart", "d7/d07/a19086.html#a1335f9e34ff73d5501455062be025ada", null ],
-    [ "JustDied", "d7/d07/a19086.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
-    [ "MoveInLineOfSight", "d7/d07/a19086.html#a74a69fa532f0921285ef678bbd2fa761", null ],
-    [ "UpdateAI", "d7/d07/a19086.html#adb16afb6ea1583a7156b80a8d833951a", null ],
-    [ "events", "d7/d07/a19086.html#ae0e194a24a14033a499e68524da1699d", null ],
-    [ "pInstance", "d7/d07/a19086.html#aa828ca4a75696645d7aa350f1f981f40", null ]
+    [ "npc_naxxramas_trigger", "d7/d07/a19086.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "d7/d07/a19086.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "d7/d07/a19086.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "d7/d07/a19086.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

@@ -1,6 +1,6 @@
 var a19390 =
 [
-    [ "boss_krystallusAI", "d8/d59/a19394.html", "d8/d59/a19394" ],
-    [ "boss_krystallus", "db/d1c/a19390.html#a1d7453c9d67594bfdbd650fea897666a", null ],
-    [ "GetAI", "db/d1c/a19390.html#aba14bcfa00a5d997959abd94af647bf4", null ]
+    [ "boss_lokenAI", "d8/d59/a19394.html", "d8/d59/a19394" ],
+    [ "boss_loken", "db/d1c/a19390.html#a44ba0ee009dcdfca6ff8739e297ec786", null ],
+    [ "GetAI", "db/d1c/a19390.html#affb73db8ecdc2d035f8076ecca0c9a99", null ]
 ];

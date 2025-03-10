@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: map_areaHeader Struct Reference</title>
+<title>AzerothCore: GridObjectUnloader Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,70 +105,91 @@ $(document).ready(function(){initNavTree('d6/d54/a09050.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="../../df/d8e/a09047.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">map_areaHeader Struct Reference</div></div>
+  <div class="headertitle"><div class="title">GridObjectUnloader Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">GridTerrainData.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">GridObjectLoader.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a14d0e9cf761aae3ef914f3bff86ef216"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d54/a09050.html#a14d0e9cf761aae3ef914f3bff86ef216">fourcc</a></td></tr>
-<tr class="separator:a14d0e9cf761aae3ef914f3bff86ef216"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a953acfd67349f028a839390ebe7fc398"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d54/a09050.html#a953acfd67349f028a839390ebe7fc398">flags</a></td></tr>
-<tr class="separator:a953acfd67349f028a839390ebe7fc398"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4ee571320d5d346bbf74709677bbee05"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d54/a09050.html#a4ee571320d5d346bbf74709677bbee05">gridArea</a></td></tr>
-<tr class="separator:a4ee571320d5d346bbf74709677bbee05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:ae01a3252ecf5083da0c5be5d4a845636"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d54/a09050.html#ae01a3252ecf5083da0c5be5d4a845636">Visit</a> (<a class="el" href="../../d5/da7/a01283.html#a8e87d05ee9fb2b4f64470fce9231de12">CorpseMapType</a> &amp;)</td></tr>
+<tr class="separator:ae01a3252ecf5083da0c5be5d4a845636"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7624bb11d51edffdc49fc9a95df847ef"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a7624bb11d51edffdc49fc9a95df847ef"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/d54/a09050.html#a7624bb11d51edffdc49fc9a95df847ef">Visit</a> (<a class="el" href="../../d3/d8b/a09054.html">GridRefMgr</a>&lt; T &gt; &amp;m)</td></tr>
+<tr class="separator:a7624bb11d51edffdc49fc9a95df847ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a953acfd67349f028a839390ebe7fc398" name="a953acfd67349f028a839390ebe7fc398"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a953acfd67349f028a839390ebe7fc398">&#9670;&#160;</a></span>flags</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="ae01a3252ecf5083da0c5be5d4a845636" name="ae01a3252ecf5083da0c5be5d4a845636"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae01a3252ecf5083da0c5be5d4a845636">&#9670;&#160;</a></span>Visit() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> map_areaHeader::flags</td>
+          <td class="memname">void GridObjectUnloader::Visit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/da7/a01283.html#a8e87d05ee9fb2b4f64470fce9231de12">CorpseMapType</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00410">ConvertADT()</a>, and <a class="el" href="../../#l00057">GridTerrainData::LoadAreaData()</a>.</p>
-
+<div class="fragment"><div class="line"><span class="lineno">   56</span>{ }    <span class="comment">// corpses are deleted with Map</span></div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="a14d0e9cf761aae3ef914f3bff86ef216" name="a14d0e9cf761aae3ef914f3bff86ef216"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a14d0e9cf761aae3ef914f3bff86ef216">&#9670;&#160;</a></span>fourcc</h2>
+<a id="a7624bb11d51edffdc49fc9a95df847ef" name="a7624bb11d51edffdc49fc9a95df847ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7624bb11d51edffdc49fc9a95df847ef">&#9670;&#160;</a></span>Visit() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> map_areaHeader::fourcc</td>
+          <td class="memname">void GridObjectUnloader::Visit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d8b/a09054.html">GridRefMgr</a>&lt; T &gt; &amp;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00410">ConvertADT()</a>, and <a class="el" href="../../#l00057">GridTerrainData::LoadAreaData()</a>.</p>
-
-</div>
-</div>
-<a id="a4ee571320d5d346bbf74709677bbee05" name="a4ee571320d5d346bbf74709677bbee05"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4ee571320d5d346bbf74709677bbee05">&#9670;&#160;</a></span>gridArea</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> map_areaHeader::gridArea</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00410">ConvertADT()</a>, and <a class="el" href="../../#l00057">GridTerrainData::LoadAreaData()</a>.</p>
+<ul>
+<li>object will get delinked from the manager when deleted</li>
+</ul>
+<div class="fragment"><div class="line"><span class="lineno">  107</span>{</div>
+<div class="line"><span class="lineno">  108</span>    <span class="keywordflow">while</span> (!m.<a class="code hl_function" href="../../d6/d3b/a05202.html#a5f450b83a615d010bedc7b0c6aa18d70">IsEmpty</a>())</div>
+<div class="line"><span class="lineno">  109</span>    {</div>
+<div class="line"><span class="lineno">  110</span>        T* obj = m.<a class="code hl_function" href="../../d3/d8b/a09054.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05">getFirst</a>()-&gt;<a class="code hl_function" href="../../d5/dfc/a05210.html#a95ef762721fcc58e9655c57fab05899b">GetSource</a>();</div>
+<div class="line"><span class="lineno">  111</span>        <span class="comment">// if option set then object already saved at this moment</span></div>
+<div class="line"><span class="lineno">  112</span>        <span class="comment">//if (!sWorld-&gt;getBoolConfig(CONFIG_SAVE_RESPAWN_TIME_IMMEDIATELY))</span></div>
+<div class="line"><span class="lineno">  113</span>        <span class="comment">//    obj-&gt;SaveRespawnTime();</span></div>
+<div class="line"><span class="lineno">  114</span>        <span class="comment">//Some creatures may summon other temp summons in CleanupsBeforeDelete()</span></div>
+<div class="line"><span class="lineno">  115</span>        <span class="comment">//So we need this even after cleaner (maybe we can remove cleaner)</span></div>
+<div class="line"><span class="lineno">  116</span>        <span class="comment">//Example: Flame Leviathan Turret 33139 is summoned when a creature is deleted</span></div>
+<div class="line"><span class="lineno">  117</span>        <span class="comment">//TODO: Check if that script has the correct logic. Do we really need to summons something before deleting?</span></div>
+<div class="line"><span class="lineno">  118</span>        obj-&gt;CleanupsBeforeDelete();</div>
+<div class="line"><span class="lineno">  120</span>        <span class="keyword">delete</span> obj;</div>
+<div class="line"><span class="lineno">  121</span>    }</div>
+<div class="line"><span class="lineno">  122</span>}</div>
+<div class="ttc" id="aa05202_html_a5f450b83a615d010bedc7b0c6aa18d70"><div class="ttname"><a href="../../d6/d3b/a05202.html#a5f450b83a615d010bedc7b0c6aa18d70">LinkedListHead::IsEmpty</a></div><div class="ttdeci">bool IsEmpty() const</div><div class="ttdef"><b>Definition:</b> LinkedList.h:97</div></div>
+<div class="ttc" id="aa05210_html_a95ef762721fcc58e9655c57fab05899b"><div class="ttname"><a href="../../d5/dfc/a05210.html#a95ef762721fcc58e9655c57fab05899b">Reference::GetSource</a></div><div class="ttdeci">FROM * GetSource() const</div><div class="ttdef"><b>Definition:</b> Reference.h:97</div></div>
+<div class="ttc" id="aa09054_html_aa0156c2ad3ec5ca0df6f6a4c55d71a05"><div class="ttname"><a href="../../d3/d8b/a09054.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05">GridRefMgr::getFirst</a></div><div class="ttdeci">GridReference&lt; OBJECT &gt; * getFirst()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:32</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00032">GridRefMgr&lt; OBJECT &gt;::getFirst()</a>, and <a class="el" href="../../#l00097">LinkedListHead::IsEmpty()</a>.</p>
 
 </div>
 </div>
@@ -177,8 +198,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d6/d54/a09050.html">map_areaHeader</a></li>
-    <li class="footer">Generated on Mon Feb 17 2025 20:42:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/d54/a09050.html">GridObjectUnloader</a></li>
+    <li class="footer">Generated on Mon Mar 10 2025 20:44:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

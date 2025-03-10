@@ -1,7 +1,6 @@
 var a17290 =
 [
-    [ "HandleDummy", "d6/d53/a17290.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "d6/d53/a17290.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "d6/d53/a17290.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "d6/d53/a17290.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "boss_deathbringer_saurfangAI", "d9/d61/a17294.html", "d9/d61/a17294" ],
+    [ "boss_deathbringer_saurfang", "d6/d53/a17290.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "d6/d53/a17290.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

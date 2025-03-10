@@ -1,6 +1,7 @@
 var a15326 =
 [
-    [ "npc_clintar_spiritAI", "d4/d74/a15330.html", "d4/d74/a15330" ],
-    [ "npc_clintar_spirit", "da/dff/a15326.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "da/dff/a15326.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "HandleDummy", "da/dff/a15326.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "da/dff/a15326.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "da/dff/a15326.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "da/dff/a15326.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

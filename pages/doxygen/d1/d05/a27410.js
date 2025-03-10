@@ -1,6 +1,9 @@
 var a27410 =
 [
-    [ "npc_garments_of_questsAI", "dc/d82/a27414.html", "dc/d82/a27414" ],
-    [ "npc_garments_of_quests", "d1/d05/a27410.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "d1/d05/a27410.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "npc_target_dummyAI", "d1/d05/a27410.html#a117e45559ea721877d73df4b3c18a259", null ],
+    [ "EnterEvadeMode", "d1/d05/a27410.html#a8f7f2e4decc676e378b4929516f8a147", null ],
+    [ "MoveInLineOfSight", "d1/d05/a27410.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
+    [ "Reset", "d1/d05/a27410.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
+    [ "UpdateAI", "d1/d05/a27410.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
+    [ "deathTimer", "d1/d05/a27410.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
 ];

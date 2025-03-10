@@ -1,7 +1,6 @@
 var a19398 =
 [
-    [ "HandleScript", "db/d7f/a19398.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "db/d7f/a19398.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "db/d7f/a19398.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "db/d7f/a19398.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "CalculateDamage", "db/d7f/a19398.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "db/d7f/a19398.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "db/d7f/a19398.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

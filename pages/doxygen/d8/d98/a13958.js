@@ -1,10 +1,6 @@
 var a13958 =
 [
-    [ "npc_zealot_zath", "d8/d98/a13958.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
-    [ "JustDied", "d8/d98/a13958.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
-    [ "JustEngagedWith", "d8/d98/a13958.html#a25e059f40de51d880f4ec209ff4dd924", null ],
-    [ "Reset", "d8/d98/a13958.html#abc4e40afd644f2c89444f3fe475817c0", null ],
-    [ "UpdateAI", "d8/d98/a13958.html#a467ce2437ec112b42f864ef412c0c976", null ],
-    [ "_scheduler", "d8/d98/a13958.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
-    [ "instance", "d8/d98/a13958.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
+    [ "LaunchHit", "d8/d98/a13958.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
+    [ "PrepareSpellScript", "d8/d98/a13958.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
+    [ "Register", "d8/d98/a13958.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
 ];

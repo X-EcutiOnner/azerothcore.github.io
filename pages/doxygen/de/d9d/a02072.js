@@ -1,4 +1,4 @@
 var a02072 =
 [
-    [ "sWorldUpdateTime", "de/d9d/a02072.html#aa415d38dafe4c1c78c951de9fed8393b", null ]
+    [ "AH_MINIMUM_DEPOSIT", "de/d9d/a02072.html#ae6debe42dd0e5674dcf1b874cebafe98", null ]
 ];

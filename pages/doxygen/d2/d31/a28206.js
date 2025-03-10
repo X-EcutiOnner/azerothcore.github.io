@@ -1,10 +1,7 @@
 var a28206 =
 [
-    [ "ID", "d2/d31/a28206.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "d2/d31/a28206.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "d2/d31/a28206.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "d2/d31/a28206.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "d2/d31/a28206.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "d2/d31/a28206.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "d2/d31/a28206.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "ID", "d2/d31/a28206.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
+    [ "RadiusMax", "d2/d31/a28206.html#ab82c1acb9309b17104958182d80b01d1", null ],
+    [ "RadiusMin", "d2/d31/a28206.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
+    [ "RadiusPerLevel", "d2/d31/a28206.html#a74bb59afb808af45ceff6367468fca1e", null ]
 ];

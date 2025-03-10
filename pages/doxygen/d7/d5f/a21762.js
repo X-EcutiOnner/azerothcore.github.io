@@ -1,9 +1,7 @@
 var a21762 =
 [
-    [ "npc_wounded_skirmisher", "d7/d5f/a21762.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
-    [ "Initialize", "d7/d5f/a21762.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
-    [ "JustEngagedWith", "d7/d5f/a21762.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
-    [ "Reset", "d7/d5f/a21762.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
-    [ "SpellHit", "d7/d5f/a21762.html#a891e879af5da1f181c94e528c59a81f1", null ],
-    [ "UpdateAI", "d7/d5f/a21762.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
+    [ "npc_emilyAI", "d4/d4f/a21766.html", "d4/d4f/a21766" ],
+    [ "npc_emily", "d7/d5f/a21762.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d7/d5f/a21762.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d7/d5f/a21762.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

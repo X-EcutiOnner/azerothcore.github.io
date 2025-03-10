@@ -1,13 +1,8 @@
 var a19062 =
 [
-    [ "npc_vortex_rideAI", "d7/d3e/a19062.html#ae827bdfdef36419e33b37aecde1a2cc4", null ],
-    [ "AttackStart", "d7/d3e/a19062.html#a810c0c03317672d5a4a904a1e96cbba9", null ],
-    [ "DamageTaken", "d7/d3e/a19062.html#a39e33812041877296c11c9bace6a4667", null ],
-    [ "MoveInLineOfSight", "d7/d3e/a19062.html#a2c810e2fe14e4681a0092a0c6bb3eadc", null ],
-    [ "PassengerBoarded", "d7/d3e/a19062.html#a77234a8f4ec9c687b194a8c332820609", null ],
-    [ "UpdateAI", "d7/d3e/a19062.html#ad450120965f9e85bdb69ffc4c092c901", null ],
-    [ "bUpdatedFlying", "d7/d3e/a19062.html#a56f2753ef630b76882cc1dce6b5a8fb9", null ],
-    [ "despawnTimer", "d7/d3e/a19062.html#acd7a8c972db52077f8b02317f5398ff0", null ],
-    [ "timer", "d7/d3e/a19062.html#acd72c6ae18b84cee94a295e51fae9ac3", null ],
-    [ "VORTEX_RADIUS", "d7/d3e/a19062.html#adec384ccbdc5f2b90a1d09c67b47d24f", null ]
+    [ "npc_teslaAI", "d7/d3e/a19062.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "d7/d3e/a19062.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "d7/d3e/a19062.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "d7/d3e/a19062.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "d7/d3e/a19062.html#a962745569b07e368067ee483d2379840", null ]
 ];

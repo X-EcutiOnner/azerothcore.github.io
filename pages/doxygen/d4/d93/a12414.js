@@ -1,9 +1,7 @@
 var a12414 =
 [
-    [ "npc_flamewaker_priestAI", "d4/d93/a12414.html#aa0508dda5bc365896128f088b6de30f4", null ],
-    [ "JustDied", "d4/d93/a12414.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
-    [ "JustEngagedWith", "d4/d93/a12414.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
-    [ "Reset", "d4/d93/a12414.html#a3c3629a6c6987e861e40a893363d2508", null ],
-    [ "UpdateAI", "d4/d93/a12414.html#a28c0ed65521f3d2150874ddc1b913933", null ],
-    [ "events", "d4/d93/a12414.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
+    [ "HandleScript", "d4/d93/a12414.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
+    [ "PrepareSpellScript", "d4/d93/a12414.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
+    [ "Register", "d4/d93/a12414.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
+    [ "Validate", "d4/d93/a12414.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
 ];

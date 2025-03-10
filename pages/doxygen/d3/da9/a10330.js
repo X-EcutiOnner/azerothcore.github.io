@@ -1,6 +1,10 @@
 var a10330 =
 [
-    [ "WorldMapScript", "d3/da9/a10330.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
-    [ "checkValidity", "d3/da9/a10330.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
-    [ "isAfterLoadScript", "d3/da9/a10330.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
+    [ "ServerScript", "d3/da9/a10330.html#a164286c210360b97b9efb48aed33b0d8", null ],
+    [ "CanPacketReceive", "d3/da9/a10330.html#a9c817a6f922029c9c58f783c4ebc18ff", null ],
+    [ "CanPacketSend", "d3/da9/a10330.html#a6682dfb556d137feb5fc95a66ccd6917", null ],
+    [ "OnNetworkStart", "d3/da9/a10330.html#ab51ce520816236687820d1f72bae0ed6", null ],
+    [ "OnNetworkStop", "d3/da9/a10330.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
+    [ "OnSocketClose", "d3/da9/a10330.html#a27ecdfc9c6d737d02705adcd13be9d13", null ],
+    [ "OnSocketOpen", "d3/da9/a10330.html#a656f1c0dc191b8f91e0705748d286454", null ]
 ];

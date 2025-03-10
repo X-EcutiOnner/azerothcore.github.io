@@ -1,9 +1,7 @@
 var a27114 =
 [
-    [ "go_gilded_brazierAI", "d8/d7a/a27114.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
-    [ "GossipHello", "d8/d7a/a27114.html#afac9e217c294e72ff5f2526422e6321e", null ],
-    [ "Initialize", "d8/d7a/a27114.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
-    [ "UpdateAI", "d8/d7a/a27114.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
-    [ "_events", "d8/d7a/a27114.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
-    [ "_playerGUID", "d8/d7a/a27114.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
+    [ "go_bear_trapAI", "d8/d7a/a27114.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "d8/d7a/a27114.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "d8/d7a/a27114.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "d8/d7a/a27114.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

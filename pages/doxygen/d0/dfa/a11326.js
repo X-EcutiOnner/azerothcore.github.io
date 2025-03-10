@@ -1,9 +1,10 @@
 var a11326 =
 [
-    [ "CreatureTextLocalizer", "d0/dfa/a11326.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "d0/dfa/a11326.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "d0/dfa/a11326.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "d0/dfa/a11326.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "d0/dfa/a11326.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "d0/dfa/a11326.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "CustomChatTextBuilder", "d0/dfa/a11326.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "d0/dfa/a11326.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "d0/dfa/a11326.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "d0/dfa/a11326.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "d0/dfa/a11326.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "d0/dfa/a11326.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "d0/dfa/a11326.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

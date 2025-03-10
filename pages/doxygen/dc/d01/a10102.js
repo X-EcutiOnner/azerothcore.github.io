@@ -1,4 +1,4 @@
 var a10102 =
 [
-    [ "RewardText", "dc/d01/a10102.html#afa9f5200ef634323d719794e1d1aa4d2", null ]
+    [ "MaxLimit", "dc/d01/a10102.html#a38ba12a67e99cabba2388a63f12a2b53", null ]
 ];

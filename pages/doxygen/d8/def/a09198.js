@@ -1,9 +1,8 @@
 var a09198 =
 [
-    [ "CreatureLastSearcher", "d8/def/a09198.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d", null ],
-    [ "Visit", "d8/def/a09198.html#ae6774df4ffff18cd4f3b4c07724db4f4", null ],
-    [ "Visit", "d8/def/a09198.html#a08635cefbba5dca34734569816d2edb8", null ],
-    [ "i_check", "d8/def/a09198.html#a2b9afe2c43af6e68f7fa5ba661790ef9", null ],
-    [ "i_object", "d8/def/a09198.html#ab8a14acb8d0fc9835d1325430fa1a367", null ],
-    [ "i_phaseMask", "d8/def/a09198.html#a9dd25e3437e1c1e5e4c8d68ab3548500", null ]
+    [ "GameObjectWorker", "d8/def/a09198.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
+    [ "Visit", "d8/def/a09198.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
+    [ "Visit", "d8/def/a09198.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
+    [ "_func", "d8/def/a09198.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
+    [ "_phaseMask", "d8/def/a09198.html#accfe66385f5bbfb461d0493c22fde20e", null ]
 ];

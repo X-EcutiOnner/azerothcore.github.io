@@ -1,10 +1,7 @@
 var a23354 =
 [
-    [ "boss_kelidan_the_breaker", "df/d06/a23354.html#a6774e4a0315b30266f6c55da608cd193", null ],
-    [ "ApplyImmunities", "df/d06/a23354.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
-    [ "DoAction", "df/d06/a23354.html#a3fa0117ce1079f651025116684f5e2f4", null ],
-    [ "JustDied", "df/d06/a23354.html#a4d3f0171b7889a96f19999b28e549866", null ],
-    [ "JustEngagedWith", "df/d06/a23354.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
-    [ "KilledUnit", "df/d06/a23354.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
-    [ "Reset", "df/d06/a23354.html#a46c592f6c46ea568ad368702e1640e06", null ]
+    [ "HandleScriptEffect", "df/d06/a23354.html#a534bf39998813f06c48bc920e4666692", null ],
+    [ "PrepareSpellScript", "df/d06/a23354.html#a5892f20a0704596cb70a995a73846368", null ],
+    [ "Register", "df/d06/a23354.html#a1176b4e4ad488a3b6b38ff4b8c955d64", null ],
+    [ "Validate", "df/d06/a23354.html#af618314a13013eaf9f36b30047de0878", null ]
 ];

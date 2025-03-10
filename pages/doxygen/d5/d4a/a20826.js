@@ -1,6 +1,8 @@
 var a20826 =
 [
-    [ "achievement_yogg_saron_darkness", "d5/d4a/a20826.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
-    [ "OnCheck", "d5/d4a/a20826.html#a809902fca87abaeb4334132763624ed6", null ],
-    [ "_keepersCount", "d5/d4a/a20826.html#a765ec4606bb489760ed1e15db10de1dc", null ]
+    [ "Absorb", "d5/d4a/a20826.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
+    [ "CalculateAmount", "d5/d4a/a20826.html#afe50bf22d07e68757caffb056ad55811", null ],
+    [ "PrepareAuraScript", "d5/d4a/a20826.html#afa4ef1f7faa36a521c208dde10d09437", null ],
+    [ "Register", "d5/d4a/a20826.html#aae020936d42da81c445f7d296660987b", null ],
+    [ "Validate", "d5/d4a/a20826.html#a5852135c5214ee3938603632b0f21917", null ]
 ];

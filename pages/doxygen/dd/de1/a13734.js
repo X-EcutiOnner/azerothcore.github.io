@@ -1,6 +1,7 @@
 var a13734 =
 [
-    [ "OnEffect", "dd/de1/a13734.html#ab87d53faac04ced3c11088e260782068", null ],
-    [ "PrepareSpellScript", "dd/de1/a13734.html#af618e8d84029dda5e48b699cbcf671be", null ],
-    [ "Register", "dd/de1/a13734.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
+    [ "npc_zuljin_vortex", "dd/de1/a13734.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "dd/de1/a13734.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "dd/de1/a13734.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "dd/de1/a13734.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

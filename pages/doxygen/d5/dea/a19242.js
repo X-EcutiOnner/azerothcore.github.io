@@ -1,11 +1,13 @@
 var a19242 =
 [
-    [ "npc_oculus_drakegiverAI", "de/dcd/a19246.html", "de/dcd/a19246" ],
-    [ "npc_oculus_drakegiver", "d5/dea/a19242.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "d5/dea/a19242.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "d5/dea/a19242.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "d5/dea/a19242.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "d5/dea/a19242.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "d5/dea/a19242.html#ac8bbe890722aa924a7f0dee161d342c4", null ],
-    [ "openedMenu", "d5/dea/a19242.html#a650d1cd18700e29328e0fc97b1709f38", null ]
+    [ "boss_drakosAI", "d5/dea/a19242.html#a75d771095897081457353be898b332c3", null ],
+    [ "JustDied", "d5/dea/a19242.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
+    [ "JustEngagedWith", "d5/dea/a19242.html#a4bc15075d9e9a913783da482a7a167c7", null ],
+    [ "JustSummoned", "d5/dea/a19242.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
+    [ "KilledUnit", "d5/dea/a19242.html#a4bd3e45b45660311d7510f58a1850648", null ],
+    [ "MoveInLineOfSight", "d5/dea/a19242.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
+    [ "Reset", "d5/dea/a19242.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
+    [ "UpdateAI", "d5/dea/a19242.html#abf761c7cda4031c31354d8c8d42963e0", null ],
+    [ "events", "d5/dea/a19242.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
+    [ "pInstance", "d5/dea/a19242.html#adc9461ae5334634a9140f338547688b4", null ]
 ];

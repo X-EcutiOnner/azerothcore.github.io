@@ -1,7 +1,7 @@
 var a01034 =
 [
-    [ "DisableData", "d1/d8c/a07832.html", "d1/d8c/a07832" ],
-    [ "DisableMgr", "d7/d14/a07836.html", "d7/d14/a07836" ],
+    [ "DisableData", "d5/dc1/a07838.html", "d5/dc1/a07838" ],
+    [ "DisableMgr", "d8/d39/a07842.html", "d8/d39/a07842" ],
     [ "sDisableMgr", "de/d91/a01034.html#a1a184d22bd27210ea5af79573927826a", null ],
     [ "DisableType", "de/d91/a01034.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c", [
       [ "DISABLE_TYPE_SPELL", "de/d91/a01034.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27", null ],

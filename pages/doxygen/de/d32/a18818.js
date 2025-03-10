@@ -1,6 +1,8 @@
 var a18818 =
 [
-    [ "boss_gluthAI", "d7/d67/a18822.html", "d7/d67/a18822" ],
-    [ "boss_gluth", "de/d32/a18818.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
-    [ "GetAI", "de/d32/a18818.html#a3b19c938aaecc897d6552715064be7f8", null ]
+    [ "HandleScript", "de/d32/a18818.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
+    [ "HandleScript2", "de/d32/a18818.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
+    [ "Load", "de/d32/a18818.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
+    [ "PrepareSpellScript", "de/d32/a18818.html#a2d1dbae570206b358878020879708000", null ],
+    [ "Register", "de/d32/a18818.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
 ];

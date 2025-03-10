@@ -1,6 +1,7 @@
 var a21854 =
 [
-    [ "npc_razael_and_lyana", "dd/d4c/a21854.html#aec7257a1136a3580e2b4542e032429d6", null ],
-    [ "OnGossipHello", "dd/d4c/a21854.html#a9c9085db92853d5275c12e804a68b0fc", null ],
-    [ "OnGossipSelect", "dd/d4c/a21854.html#a407d8344280e8e38efb3991fda1d52cd", null ]
+    [ "HandleDummy", "dd/d4c/a21854.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
+    [ "PrepareSpellScript", "dd/d4c/a21854.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
+    [ "Register", "dd/d4c/a21854.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
+    [ "Validate", "dd/d4c/a21854.html#aeec15705a41ad2ac0e59d90086591d96", null ]
 ];

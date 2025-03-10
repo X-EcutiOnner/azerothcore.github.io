@@ -1,4 +1,4 @@
 var a01661 =
 [
-    [ "ScriptRegistry< AllSpellScript >", "d4/d41/a01661.html#a6fb50c7d667ae3d14a6d307b0862e957", null ]
+    [ "ScriptRegistry< MailScript >", "d4/d41/a01661.html#a2c63e917d984cb7f72bcae15da56850c", null ]
 ];

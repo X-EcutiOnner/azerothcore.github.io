@@ -1,5 +1,7 @@
 var a28326 =
 [
-    [ "type", "d9/d59/a28326.html#af749459df7757d1bab17a54be813f6b6", null ],
-    [ "_type", "d9/d59/a28326.html#ab0344571616786baef4511c647a3abea", null ]
+    [ "~ByteBufferException", "d9/d59/a28326.html#a0ab73f9061c040127f70dbfc9a176509", null ],
+    [ "message", "d9/d59/a28326.html#ab1a64d8fc18565a04c347de29184f68c", null ],
+    [ "what", "d9/d59/a28326.html#a87896f7ab19f3032937f5f84e8cf440a", null ],
+    [ "msg_", "d9/d59/a28326.html#a314bdbb7063219f8256df894602e6b02", null ]
 ];

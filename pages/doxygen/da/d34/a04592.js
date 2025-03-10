@@ -1,5 +1,6 @@
 var a04592 =
 [
-    [ "ACORE_LINKAGE_TYPE_STR", "da/d34/a04592.html#a498cc8d79612cf645e7afc2ceb4174f3", null ],
-    [ "AZEROTH_PLATFORM_STR", "da/d34/a04592.html#af7cd76a18bc19a0ec34ac7693e406971", null ]
+    [ "DatabaseWorkerPool< T >", "d7/dde/a05662.html", "d7/dde/a05662" ],
+    [ "MIN_MYSQL_CLIENT_VERSION", "da/d34/a04592.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
+    [ "MIN_MYSQL_SERVER_VERSION", "da/d34/a04592.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
 ];

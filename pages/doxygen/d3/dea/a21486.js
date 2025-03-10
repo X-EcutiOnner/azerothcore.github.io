@@ -1,5 +1,9 @@
 var a21486 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d3/dea/a21486.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "d3/dea/a21486.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_bloodmage_laurithAI", "d3/dea/a21486.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "d3/dea/a21486.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "d3/dea/a21486.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
+    [ "UpdateAI", "d3/dea/a21486.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "d3/dea/a21486.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "d3/dea/a21486.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

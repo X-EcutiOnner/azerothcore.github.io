@@ -1,8 +1,7 @@
 var a15290 =
 [
-    [ "CheckRequirement", "d9/d5a/a15290.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "d9/d5a/a15290.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "d9/d5a/a15290.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "d9/d5a/a15290.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "d9/d5a/a15290.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "d9/d5a/a15290.html#aaed19d0c915891d8afecda7df75a8a75", null ],
+    [ "JustRespawned", "d9/d5a/a15290.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
+    [ "MoveInLineOfSight", "d9/d5a/a15290.html#a295d4bef97b97c7deb31a81274f0818d", null ],
+    [ "SpellHit", "d9/d5a/a15290.html#a021b82aa6bd2e118fe810f18349fda42", null ]
 ];

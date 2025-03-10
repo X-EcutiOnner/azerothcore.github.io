@@ -1,6 +1,7 @@
 var a12234 =
 [
-    [ "HandleOnHit", "df/d52/a12234.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "df/d52/a12234.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "df/d52/a12234.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "HandlePeriodic", "df/d52/a12234.html#ac2196cc9de34e286581d44d147fe9d04", null ],
+    [ "PrepareAuraScript", "df/d52/a12234.html#a149c974371f23268d2d929b483637b14", null ],
+    [ "Register", "df/d52/a12234.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
+    [ "Validate", "df/d52/a12234.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
 ];

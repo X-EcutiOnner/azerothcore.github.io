@@ -1,6 +1,7 @@
 var a26234 =
 [
-    [ "HandleEffectApply", "d3/dd4/a26234.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
-    [ "PrepareAuraScript", "d3/dd4/a26234.html#a707504eccf42af77f6e6e927d208bc8c", null ],
-    [ "Register", "d3/dd4/a26234.html#a7aeaa28997bbe966274a738cf45323ed", null ]
+    [ "HandleEffectPeriodic", "d3/dd4/a26234.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
+    [ "PrepareAuraScript", "d3/dd4/a26234.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
+    [ "Register", "d3/dd4/a26234.html#ac3741617faacf83a707f1359aab1886e", null ],
+    [ "Validate", "d3/dd4/a26234.html#a9378252b6711cc0bec3e63efce026495", null ]
 ];

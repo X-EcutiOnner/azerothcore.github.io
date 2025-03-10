@@ -1,10 +1,13 @@
 var a21150 =
 [
-    [ "npc_erekem_guardAI", "d6/d07/a21150.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
-    [ "JustEngagedWith", "d6/d07/a21150.html#a93819c5c76821b1c9559be55359d677e", null ],
-    [ "MoveInLineOfSight", "d6/d07/a21150.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
-    [ "Reset", "d6/d07/a21150.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
-    [ "UpdateAI", "d6/d07/a21150.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
-    [ "events", "d6/d07/a21150.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
-    [ "pInstance", "d6/d07/a21150.html#a81985b8522111f2aae540353cd5641fe", null ]
+    [ "boss_toravonAI", "d6/d07/a21150.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "d6/d07/a21150.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "d6/d07/a21150.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "d6/d07/a21150.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "d6/d07/a21150.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "d6/d07/a21150.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "d6/d07/a21150.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "d6/d07/a21150.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "d6/d07/a21150.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "d6/d07/a21150.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

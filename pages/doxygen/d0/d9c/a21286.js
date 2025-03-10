@@ -1,10 +1,18 @@
 var a21286 =
 [
-    [ "npc_azure_spellbreakerAI", "d0/d9c/a21286.html#a1daf4cb20f4081380d8deda9a58da2fd", null ],
-    [ "Reset", "d0/d9c/a21286.html#a731ff2d4311359145c353de2d91935c8", null ],
-    [ "UpdateAI", "d0/d9c/a21286.html#a053ecfe5c78220c4fa1ac896ce161210", null ],
-    [ "uiArcaneBlastTimer", "d0/d9c/a21286.html#a1e752971a31c7d3415c1820eb3574a98", null ],
-    [ "uiChainsOfIceTimer", "d0/d9c/a21286.html#a2cbf33865a79a781d8b7aad04cd2095c", null ],
-    [ "uiConeOfColdTimer", "d0/d9c/a21286.html#a4970c7459b044b08bf36e17c703395fb", null ],
-    [ "uiSlowTimer", "d0/d9c/a21286.html#a2a02b42ec104cfb6682782a80f813eef", null ]
+    [ "violet_hold_trashAI", "d0/d9c/a21286.html#a87011739810f39291655bc835f9995bd", null ],
+    [ "AttackStart", "d0/d9c/a21286.html#ab2d2157977ae2482217fa8ac344b30af", null ],
+    [ "ClearDoorSealAura", "d0/d9c/a21286.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
+    [ "CreatureStartAttackDoor", "d0/d9c/a21286.html#a1e64a9f7c82275969e099b5012a32924", null ],
+    [ "EnterEvadeMode", "d0/d9c/a21286.html#ab189607a468514d6c472ac40e6f3d85b", null ],
+    [ "JustDied", "d0/d9c/a21286.html#acd512cd3722a2edf0ca539272ded3c79", null ],
+    [ "JustEngagedWith", "d0/d9c/a21286.html#a16e7677aa9597dda938a67c51febde6c", null ],
+    [ "JustReachedHome", "d0/d9c/a21286.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
+    [ "MoveInLineOfSight", "d0/d9c/a21286.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
+    [ "UpdateAI", "d0/d9c/a21286.html#a8647797343650fcd4f6304bce3742883", null ],
+    [ "WaypointReached", "d0/d9c/a21286.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
+    [ "bAddedWP", "d0/d9c/a21286.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
+    [ "bAlt", "d0/d9c/a21286.html#ad84ecad1a57f0af44af2795a252d2214", null ],
+    [ "pInstance", "d0/d9c/a21286.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],
+    [ "PLoc", "d0/d9c/a21286.html#a9e9ca535b9d2fa1b246975f984c96998", null ]
 ];

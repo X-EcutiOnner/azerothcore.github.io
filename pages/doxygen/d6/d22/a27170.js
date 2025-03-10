@@ -1,5 +1,5 @@
 var a27170 =
 [
-    [ "go_soulwellAI", "d6/d22/a27170.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "d6/d22/a27170.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "go_jump_a_tron", "d6/d22/a27170.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
+    [ "OnGossipHello", "d6/d22/a27170.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
 ];

@@ -1,9 +1,7 @@
 var a21438 =
 [
-    [ "npc_bloodmage_laurithAI", "d8/d4b/a21438.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "d8/d4b/a21438.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "d8/d4b/a21438.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
-    [ "UpdateAI", "d8/d4b/a21438.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "d8/d4b/a21438.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "d8/d4b/a21438.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "npc_mootoo_the_youngerAI", "d4/dfe/a21442.html", "d4/dfe/a21442" ],
+    [ "npc_mootoo_the_younger", "d8/d4b/a21438.html#a91e10489ed6a98cfa764fd4de8448317", null ],
+    [ "GetAI", "d8/d4b/a21438.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
+    [ "OnQuestAccept", "d8/d4b/a21438.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
 ];

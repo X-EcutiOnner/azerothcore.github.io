@@ -1,10 +1,6 @@
 var a21254 =
 [
-    [ "npc_azure_binderAI", "da/dab/a21254.html#ad532d350493a35804660f90a9f00f3cf", null ],
-    [ "Reset", "da/dab/a21254.html#aa317ce32f3439286e9a4ac0928d48b3a", null ],
-    [ "UpdateAI", "da/dab/a21254.html#a322ae0210ccb24206aee49c4fa7fe2bc", null ],
-    [ "uiArcainBarrageTimer", "da/dab/a21254.html#a0e577611e3e11209cc175cd71cd86bc9", null ],
-    [ "uiArcaneExplosionTimer", "da/dab/a21254.html#aa5cc777f777166e88a21e98a4ce2b8d3", null ],
-    [ "uiFrostboltTimer", "da/dab/a21254.html#a405ec0f2d92e4a1f5f7901e725465604", null ],
-    [ "uiFrostNovaTimer", "da/dab/a21254.html#a0f6396376e14711f87f1a046728ce386", null ]
+    [ "npc_vh_void_sentryAI", "d6/da8/a21258.html", "d6/da8/a21258" ],
+    [ "npc_vh_void_sentry", "da/dab/a21254.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
+    [ "GetAI", "da/dab/a21254.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
 ];

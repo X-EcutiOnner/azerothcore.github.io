@@ -1,6 +1,10 @@
 var a14750 =
 [
-    [ "npc_belnistraszAI", "d8/d2f/a14754.html", "d8/d2f/a14754" ],
-    [ "npc_belnistrasz", "d6/d25/a14750.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
-    [ "GetAI", "d6/d25/a14750.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
+    [ "instance_maraudon_InstanceMapScript", "d6/d25/a14750.html#a9c46508320d3973006561444feae0586", null ],
+    [ "Initialize", "d6/d25/a14750.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
+    [ "OnGameObjectCreate", "d6/d25/a14750.html#a3a287b97db58c3489815f20ee0d37977", null ],
+    [ "ReadSaveDataMore", "d6/d25/a14750.html#ac2cd336874b25ad20dac104037de1df5", null ],
+    [ "SetData", "d6/d25/a14750.html#a6e90bf60a076c164e432128f7ec62fba", null ],
+    [ "WriteSaveDataMore", "d6/d25/a14750.html#a6e4072342e66689d343912de85e66b34", null ],
+    [ "_encounters", "d6/d25/a14750.html#af2e752a791d75e50001060c4a9f18173", null ]
 ];

@@ -1,10 +1,7 @@
 var a23986 =
 [
-    [ "npc_infernal_attackerAI", "d7/d87/a23986.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "d7/d87/a23986.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "d7/d87/a23986.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "d7/d87/a23986.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "d7/d87/a23986.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "d7/d87/a23986.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "d7/d87/a23986.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "npc_bessyAI", "d1/daf/a23990.html", "d1/daf/a23990" ],
+    [ "npc_bessy", "d7/d87/a23986.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d7/d87/a23986.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d7/d87/a23986.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

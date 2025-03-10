@@ -1,5 +1,7 @@
 var a26854 =
 [
-    [ "achievement_bg_av_perfection", "dc/d09/a26854.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "dc/d09/a26854.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "CheckProc", "dc/d09/a26854.html#a957f8837b5613a3bfd8200ded3529c54", null ],
+    [ "HandleEffectProc", "dc/d09/a26854.html#a54810a897e535558d060119e3de6537b", null ],
+    [ "PrepareAuraScript", "dc/d09/a26854.html#a37950bfd846e1c2c550a108461941a26", null ],
+    [ "Register", "dc/d09/a26854.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
 ];

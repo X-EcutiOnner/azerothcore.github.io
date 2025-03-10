@@ -1,7 +1,6 @@
 var a15206 =
 [
-    [ "npc_kerlonianAI", "d8/df1/a15210.html", "d8/df1/a15210" ],
-    [ "npc_kerlonian", "d0/d53/a15206.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "d0/d53/a15206.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "d0/d53/a15206.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "npc_death_ravagerAI", "d8/df1/a15210.html", "d8/df1/a15210" ],
+    [ "npc_death_ravager", "d0/d53/a15206.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "d0/d53/a15206.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

@@ -1,6 +1,12 @@
 var a19422 =
 [
-    [ "boss_sjonnir_dwarfAI", "df/dd9/a19426.html", "df/dd9/a19426" ],
-    [ "boss_sjonnir_dwarf", "d8/deb/a19422.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
-    [ "GetAI", "d8/deb/a19422.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
+    [ "npc_hol_monumentAI", "d8/deb/a19422.html#a4a59b95e32acf8920082e4159b7e384c", null ],
+    [ "AttackStart", "d8/deb/a19422.html#a6db6528cf3d53bc6de9caf55fb18a28b", null ],
+    [ "JustEngagedWith", "d8/deb/a19422.html#a105f8e66ba3cf752af455c787df7568e", null ],
+    [ "MoveInLineOfSight", "d8/deb/a19422.html#ab37c5c22456c06f78b53505ae7973658", null ],
+    [ "Reset", "d8/deb/a19422.html#a03dd56d6801194333288a2edc7ae4eaa", null ],
+    [ "UpdateAI", "d8/deb/a19422.html#a7c911cf24b21c959ee5c62d664e1879a", null ],
+    [ "_attackGUID", "d8/deb/a19422.html#a0421f258f2cd871ad1f87decf5e23bc8", null ],
+    [ "_isActive", "d8/deb/a19422.html#a0993cfde30a492ae8dfeeda2e01a1124", null ],
+    [ "events", "d8/deb/a19422.html#aeff0f7526f12f0e09e53c0e43a423799", null ]
 ];

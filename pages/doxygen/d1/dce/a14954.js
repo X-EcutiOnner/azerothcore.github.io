@@ -1,5 +1,6 @@
 var a14954 =
 [
-    [ "at_cthun_stomach_exit", "d1/dce/a14954.html#ab37174eff353cdbba1f300464645ac63", null ],
-    [ "OnTrigger", "d1/dce/a14954.html#ab56dca3fe200dc7822459a22912247bf", null ]
+    [ "FilterTargets", "d1/dce/a14954.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
+    [ "PrepareSpellScript", "d1/dce/a14954.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
+    [ "Register", "d1/dce/a14954.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
 ];

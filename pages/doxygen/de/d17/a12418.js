@@ -1,6 +1,7 @@
 var a12418 =
 [
-    [ "bossId", "de/d17/a12418.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
-    [ "circleId", "de/d17/a12418.html#aaa379e61fda2f7225ab4089757df5d24", null ],
-    [ "runeId", "de/d17/a12418.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
+    [ "HandleScript", "de/d17/a12418.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
+    [ "PrepareSpellScript", "de/d17/a12418.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
+    [ "Register", "de/d17/a12418.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
+    [ "Validate", "de/d17/a12418.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
 ];

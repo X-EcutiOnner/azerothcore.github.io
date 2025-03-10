@@ -1,7 +1,12 @@
 var a07078 =
 [
-    [ "AuctionSearchUpdateBid", "d3/d86/a07078.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
-    [ "auctionId", "d3/d86/a07078.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
-    [ "bid", "d3/d86/a07078.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
-    [ "bidderGuid", "d3/d86/a07078.html#a843bcff41f694075ea056d9a3c71467f", null ]
+    [ "Type", "d3/d86/a07078.html#a758c9729d907d872a5e5365539486408", [
+      [ "ADD", "d3/d86/a07078.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
+      [ "REMOVE", "d3/d86/a07078.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
+      [ "UPDATE_BID", "d3/d86/a07078.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
+    ] ],
+    [ "AuctionSearcherUpdate", "d3/d86/a07078.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
+    [ "~AuctionSearcherUpdate", "d3/d86/a07078.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
+    [ "listFaction", "d3/d86/a07078.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
+    [ "updateType", "d3/d86/a07078.html#af6ee8672029884bdbec327242ce5d5d2", null ]
 ];

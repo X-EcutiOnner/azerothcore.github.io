@@ -1,9 +1,8 @@
 var a22530 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d5/d89/a22530.html#ada5f19c96bfe623b110389ede032ef53", null ],
-    [ "GetData", "d5/d89/a22530.html#ad876ebd581c470f5a3075129076bd1fb", null ],
-    [ "Initialize", "d5/d89/a22530.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
-    [ "OnCreatureCreate", "d5/d89/a22530.html#a118b4a7a7c872327ec2868c5b0417636", null ],
-    [ "OnUnitDeath", "d5/d89/a22530.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
-    [ "_ritualistsAliveCount", "d5/d89/a22530.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
+    [ "FilterTargets", "d5/d89/a22530.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "d5/d89/a22530.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "d5/d89/a22530.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "d5/d89/a22530.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "d5/d89/a22530.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

@@ -1,13 +1,6 @@
 var a18794 =
 [
-    [ "boss_anubrekhanAI", "da/d38/a18794.html#a6ff658a5aab3b13c4594f5bc44a62818", null ],
-    [ "JustDied", "da/d38/a18794.html#a8a32a256b39558e802d45ae5f4038b79", null ],
-    [ "JustEngagedWith", "da/d38/a18794.html#a0cd5bd7a04b52abcc23a2131d5cbfd2e", null ],
-    [ "JustSummoned", "da/d38/a18794.html#a9fa11bc9192f0b75220383b3ef876219", null ],
-    [ "KilledUnit", "da/d38/a18794.html#a9070ebcd6ca976fc89af88b3de177bcc", null ],
-    [ "MoveInLineOfSight", "da/d38/a18794.html#a75dd903dd059a0fe20e291713e880bc3", null ],
-    [ "Reset", "da/d38/a18794.html#acd6ae267a6848e146128d56196d1af79", null ],
-    [ "SummonCryptGuards", "da/d38/a18794.html#a1dbf747694350bdc835f19ed0b22741c", null ],
-    [ "SummonedCreatureDies", "da/d38/a18794.html#a4889de03a80cc4c3bc0fd41042d1d905", null ],
-    [ "sayGreet", "da/d38/a18794.html#ab2210c62a9a21f426f0ef0b1b1d27162", null ]
+    [ "npc_ioc_gunship_captainAI", "d9/d5d/a18798.html", "d9/d5d/a18798" ],
+    [ "npc_ioc_gunship_captain", "da/d38/a18794.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
+    [ "GetAI", "da/d38/a18794.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
 ];

@@ -1,11 +1,11 @@
 var a14162 =
 [
-    [ "o", "d0/d46/a14162.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
-    [ "rot0", "d0/d46/a14162.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
-    [ "rot1", "d0/d46/a14162.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
-    [ "rot2", "d0/d46/a14162.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
-    [ "rot3", "d0/d46/a14162.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
-    [ "x", "d0/d46/a14162.html#a6e527854cf0959995d6b0133dedc94c9", null ],
-    [ "y", "d0/d46/a14162.html#a7536047696bd4883237369976b503131", null ],
-    [ "z", "d0/d46/a14162.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
+    [ "npc_high_oracle_soo_roo", "d0/d46/a14162.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
+    [ "MoveInLineOfSight", "d0/d46/a14162.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
+    [ "Reset", "d0/d46/a14162.html#a89a60a83a46e0095045b2353e50483ed", null ],
+    [ "UpdateAI", "d0/d46/a14162.html#ac22cfa519e478da643a51ae887f306fd", null ],
+    [ "orphanGUID", "d0/d46/a14162.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
+    [ "phase", "d0/d46/a14162.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
+    [ "playerGUID", "d0/d46/a14162.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
+    [ "timer", "d0/d46/a14162.html#aa5238d3ee361374681947de874391a1f", null ]
 ];

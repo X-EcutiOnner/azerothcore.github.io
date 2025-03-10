@@ -1,6 +1,12 @@
 var a23418 =
 [
-    [ "HandleScriptEffect", "db/d80/a23418.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "db/d80/a23418.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "db/d80/a23418.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "boss_omor_the_unscarred", "db/d80/a23418.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "db/d80/a23418.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "db/d80/a23418.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "db/d80/a23418.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "db/d80/a23418.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "db/d80/a23418.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "db/d80/a23418.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "db/d80/a23418.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "db/d80/a23418.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

@@ -1,9 +1,6 @@
 var a23750 =
 [
-    [ "boss_nethermancer_sepethrea", "db/d57/a23750.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "db/d57/a23750.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "db/d57/a23750.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "db/d57/a23750.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "db/d57/a23750.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "db/d57/a23750.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "HandleScriptEffect", "db/d57/a23750.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
+    [ "PrepareSpellScript", "db/d57/a23750.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
+    [ "Register", "db/d57/a23750.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
 ];

@@ -1,7 +1,10 @@
 var a23586 =
 [
-    [ "boss_warp_splinter", "d4/d22/a23586.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "d4/d22/a23586.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "d4/d22/a23586.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "d4/d22/a23586.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "boss_harbinger_skyriss", "d4/d22/a23586.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "d4/d22/a23586.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "d4/d22/a23586.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "d4/d22/a23586.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "d4/d22/a23586.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "d4/d22/a23586.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "d4/d22/a23586.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

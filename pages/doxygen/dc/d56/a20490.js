@@ -1,16 +1,11 @@
 var a20490 =
 [
-    [ "boss_thorim_runic_colossusAI", "dc/d56/a20490.html#a55e64ee89eb7b491b20a10d49e664f53", null ],
-    [ "JustDied", "dc/d56/a20490.html#aa42165bcf6984a19a838535186db3bdb", null ],
-    [ "JustEngagedWith", "dc/d56/a20490.html#a1965559164451e8ee7e47d65e148b67c", null ],
-    [ "Reset", "dc/d56/a20490.html#a098974cdd91b61aa4b003d6f16a339d2", null ],
-    [ "RunRunicSmash", "dc/d56/a20490.html#a324328498de2474134ccbee2be129573", null ],
-    [ "SpellHit", "dc/d56/a20490.html#a0c39e574e8d93093be2c3c8bb2dc5b06", null ],
-    [ "UpdateAI", "dc/d56/a20490.html#a7a45846fe6ada067a5b955a51ee2fdc4", null ],
-    [ "_checkTarget", "dc/d56/a20490.html#a2cc71f0ef8627b133016a963ba087dc8", null ],
-    [ "_leftHand", "dc/d56/a20490.html#a4332a514588e77494a4033b67dc8145e", null ],
-    [ "_nextTriggerPos", "dc/d56/a20490.html#a3dbd585e96f8843e04ffab040318b977", null ],
-    [ "_triggerLeftGUID", "dc/d56/a20490.html#a5d27abb654e240174122cdb11b9c4b75", null ],
-    [ "_triggerRightGUID", "dc/d56/a20490.html#a376600de56ab1af36287c2d922c7361f", null ],
-    [ "events", "dc/d56/a20490.html#aab87f0308fc4546718bcb5209f69764d", null ]
+    [ "boss_thorim_lightning_orbAI", "dc/d56/a20490.html#a14d4b9f445abfaba77bcfc52173ff705", null ],
+    [ "AttackStart", "dc/d56/a20490.html#a88a885b96016788f8011dd1d3d44d992", null ],
+    [ "EnterEvadeMode", "dc/d56/a20490.html#a04bc99d1bd16f8297e7da8902e4bcaab", null ],
+    [ "InitWaypoint", "dc/d56/a20490.html#a420217dd9e482edc24a87dead2753321", null ],
+    [ "MoveInLineOfSight", "dc/d56/a20490.html#a0ee02cdd5cedf8a6565493b9812e88ae", null ],
+    [ "Reset", "dc/d56/a20490.html#a4e410303d287a4c827c279a4e7c3ca99", null ],
+    [ "WaypointReached", "dc/d56/a20490.html#a141659a0ebbcc097f0f03dec30dad2ca", null ],
+    [ "Timer", "dc/d56/a20490.html#ac251df35736ae44e08f82ae7bbe8fc15", null ]
 ];

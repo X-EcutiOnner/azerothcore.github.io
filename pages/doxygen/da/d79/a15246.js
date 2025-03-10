@@ -1,7 +1,7 @@
 var a15246 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "d4/d0e/a15250.html", "d4/d0e/a15250" ],
-    [ "npc_aged_dying_ancient_kodo", "da/d79/a15246.html#a676170a319d3a8e46c9d017e61396c28", null ],
-    [ "GetAI", "da/d79/a15246.html#a886bc82764e4ca6d98dc94ea73415375", null ],
-    [ "OnGossipHello", "da/d79/a15246.html#a8489b3f23d8eca39f2750711512672e4", null ]
+    [ "npc_kerlonianAI", "d4/d0e/a15250.html", "d4/d0e/a15250" ],
+    [ "npc_kerlonian", "da/d79/a15246.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
+    [ "GetAI", "da/d79/a15246.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
+    [ "OnQuestAccept", "da/d79/a15246.html#a257d24295318605ac2fd5554315dfd63", null ]
 ];

@@ -1,7 +1,6 @@
 var a13482 =
 [
-    [ "npc_deathstalker_erlandAI", "d2/d6f/a13482.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
-    [ "JustEngagedWith", "d2/d6f/a13482.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
-    [ "Reset", "d2/d6f/a13482.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
-    [ "WaypointReached", "d2/d6f/a13482.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "db/d87/a13486.html", "db/d87/a13486" ],
+    [ "npc_bh_thalorien_dawnseeker", "d2/d6f/a13482.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
+    [ "GetAI", "d2/d6f/a13482.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
 ];

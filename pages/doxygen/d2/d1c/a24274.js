@@ -1,10 +1,16 @@
 var a24274 =
 [
-    [ "npc_pet_hunter_snake_trap", "d2/d1c/a24274.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "EnterEvadeMode", "d2/d1c/a24274.html#a819add0c7b968063403d10275fdc289f", null ],
-    [ "MoveInLineOfSight", "d2/d1c/a24274.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
-    [ "Reset", "d2/d1c/a24274.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
-    [ "UpdateAI", "d2/d1c/a24274.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_init", "d2/d1c/a24274.html#a1b5c1301389749f82667c35f3daff847", null ],
-    [ "_spellTimer", "d2/d1c/a24274.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "npc_pet_gen_argent_pony_bridle", "d2/d1c/a24274.html#a9df25627a92b8914ab8009be099f15d4", null ],
+    [ "DoAction", "d2/d1c/a24274.html#a4c08ed385886a118c165925602b1dff7", null ],
+    [ "EnterEvadeMode", "d2/d1c/a24274.html#a897e72a4bf279607903bce58a5a45c6f", null ],
+    [ "GetData", "d2/d1c/a24274.html#a862546ec66d8282c87169305711e4ec7", null ],
+    [ "OnGossipHello", "d2/d1c/a24274.html#a35cfcfd3418295bcb1140d1b8b8266ab", null ],
+    [ "OnGossipSelect", "d2/d1c/a24274.html#a36f15c2c0ec3466b492148303e828403", null ],
+    [ "Reset", "d2/d1c/a24274.html#a4d885f00ea1b6b97270d41f2583bd0dc", null ],
+    [ "UpdateAI", "d2/d1c/a24274.html#a1172dbd471ee8f05f25ff77dc222a61d", null ],
+    [ "_banners", "d2/d1c/a24274.html#aeda5ce6c8f4f37ce7a4630c06586cde1", null ],
+    [ "_init", "d2/d1c/a24274.html#a8a7dd73d9d3af5ca00998735e45ee7e8", null ],
+    [ "_lastAura", "d2/d1c/a24274.html#a4abeb86eb0179a77d47d737d67495411", null ],
+    [ "_mountTimer", "d2/d1c/a24274.html#a38253b6d1e1f7fb8fc3fdccb2522a090", null ],
+    [ "_state", "d2/d1c/a24274.html#ae57f97ca9a08353e8ec8ebfadbd51541", null ]
 ];

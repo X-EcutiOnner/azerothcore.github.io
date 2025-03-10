@@ -1,6 +1,6 @@
 var a17018 =
 [
-    [ "boss_eckAI", "df/d1d/a17022.html", "df/d1d/a17022" ],
-    [ "boss_eck", "db/dec/a17018.html#aa445927936d7759a8c3289e2899181e5", null ],
-    [ "GetAI", "db/dec/a17018.html#a335755ec7416d3e00a4070e03569293a", null ]
+    [ "entry", "db/dec/a17018.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "db/dec/a17018.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "db/dec/a17018.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

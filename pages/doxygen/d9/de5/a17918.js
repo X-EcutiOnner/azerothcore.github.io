@@ -1,9 +1,10 @@
 var a17918 =
 [
-    [ "FilterTargets", "d9/de5/a17918.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
-    [ "FilterTargetsSubseq", "d9/de5/a17918.html#a88a53a855e01b550fbd106ac318a891e", null ],
-    [ "PrepareSpellScript", "d9/de5/a17918.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
-    [ "Register", "d9/de5/a17918.html#a27e8768422b311f6db16757e167f4102", null ],
-    [ "Validate", "d9/de5/a17918.html#a96ef76527449a138685830b52fa95146", null ],
-    [ "_targetList", "d9/de5/a17918.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
+    [ "CountTargets", "d9/de5/a17918.html#a042c3f2ee73533b397a2d697d1da6563", null ],
+    [ "HandleDummy", "d9/de5/a17918.html#ab314680d5349c0c3e449694b92ab7311", null ],
+    [ "Load", "d9/de5/a17918.html#a534e9f5ee9aa29603cfc205c2c2d580f", null ],
+    [ "PrepareSpellScript", "d9/de5/a17918.html#a8b831c01cd9fd997279f6a81170786de", null ],
+    [ "Register", "d9/de5/a17918.html#ab0d87ba23eb252075cb0779b06813a31", null ],
+    [ "SelectDest", "d9/de5/a17918.html#a6061486d0067af51c8ef079224ea63f1", null ],
+    [ "_targetCount", "d9/de5/a17918.html#a58f839370a885c450e6742cbb3116784", null ]
 ];

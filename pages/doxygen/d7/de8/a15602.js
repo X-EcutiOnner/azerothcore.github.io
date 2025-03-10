@@ -1,7 +1,20 @@
 var a15602 =
 [
-    [ "go_troll_cageAI", "d7/de8/a15602.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "d7/de8/a15602.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "d7/de8/a15602.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "d7/de8/a15602.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "npc_ranshallaAI", "d7/de8/a15602.html#a8d41e290f9545fb72daf5e503b3c660b", null ],
+    [ "DoChannelTorchSpell", "d7/de8/a15602.html#ade38de77f83da2f084a9ad3f8ada01d3", null ],
+    [ "DoContinueEscort", "d7/de8/a15602.html#aef1192735d87a7e83ea00cc8cb9303c7", null ],
+    [ "DoSummonPriestess", "d7/de8/a15602.html#a15f8706b9084b72359e4c8433d771d89", null ],
+    [ "GetSpeakerByEntry", "d7/de8/a15602.html#ad930520b705ab63f903f7b68d660adbb", null ],
+    [ "JustDidDialogueStep", "d7/de8/a15602.html#a6a20f536d6e360d07970955a8ff9902c", null ],
+    [ "Reset", "d7/de8/a15602.html#a0b07925593835ce4d4aaab2f672ae387", null ],
+    [ "SummonedMovementInform", "d7/de8/a15602.html#a453cfe020d81e27daa8d779be64012ee", null ],
+    [ "UpdateEscortAI", "d7/de8/a15602.html#afabe9208f01fe3d2f128feba8f18426d", null ],
+    [ "WaypointReached", "d7/de8/a15602.html#a96ff03de70b433e2ff5c35f50d062c55", null ],
+    [ "_altarGUID", "d7/de8/a15602.html#ab9e42364744d89301944b7baa852bc9f", null ],
+    [ "_delayTimer", "d7/de8/a15602.html#a219e1f257f0ddae9de5fd89ba9a338be", null ],
+    [ "_firstPriestessGUID", "d7/de8/a15602.html#ae5289a2645f3d17da452810b22a77713", null ],
+    [ "_guardEluneGUID", "d7/de8/a15602.html#a575afe78a40c8d49a928772fbec64dd9", null ],
+    [ "_secondPriestessGUID", "d7/de8/a15602.html#a800131f5a4355e293c5edc009dbbdd20", null ],
+    [ "_voiceEluneGUID", "d7/de8/a15602.html#af676158d45338ddbc2a366e399796642", null ],
+    [ "events", "d7/de8/a15602.html#a1deb2de50401297451a3e314b5369b5e", null ]
 ];

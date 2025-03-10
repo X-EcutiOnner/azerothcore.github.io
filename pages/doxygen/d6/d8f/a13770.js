@@ -1,6 +1,14 @@
 var a13770 =
 [
-    [ "npc_zulian_prowlerAI", "d5/db6/a13774.html", "d5/db6/a13774" ],
-    [ "npc_zulian_prowler", "d6/d8f/a13770.html#a27ae990985976d02bb221b6d669fa849", null ],
-    [ "GetAI", "d6/d8f/a13770.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
+    [ "npc_harrison_jones", "d6/d8f/a13770.html#ae408c9533166f8919c121053a3efff6c", null ],
+    [ "DoAction", "d6/d8f/a13770.html#a2ecf8a9f807e879530ee6a094475e67b", null ],
+    [ "JustEngagedWith", "d6/d8f/a13770.html#a884e5973ed597eeeb606f5b8a2b1c028", null ],
+    [ "MovementInform", "d6/d8f/a13770.html#a5ee27ccc1aea33ecc8aee5b703e05174", null ],
+    [ "OpenMassiveGateAndCallGuards", "d6/d8f/a13770.html#a8f15098ad66e2d13ddfababc2ad2e33b", null ],
+    [ "Reset", "d6/d8f/a13770.html#a11b1b2da283ddaa475f3f42534702f5b", null ],
+    [ "sGossipSelect", "d6/d8f/a13770.html#ae56b80041fa198063a9ce87729142420", null ],
+    [ "SpellHit", "d6/d8f/a13770.html#ad3ead59986b9340529bb6c6f42dbc137", null ],
+    [ "UpdateAI", "d6/d8f/a13770.html#a0c64f294257e98522e0f32171aee6080", null ],
+    [ "_instance", "d6/d8f/a13770.html#adb995a4b18607a5bd7555ce6989c2525", null ],
+    [ "_phase", "d6/d8f/a13770.html#a1620b4f7407aa49c3e16876148c49ba7", null ]
 ];

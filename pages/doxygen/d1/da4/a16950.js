@@ -1,6 +1,6 @@
 var a16950 =
 [
-    [ "HandleDummy", "d1/da4/a16950.html#aef592aafe931351186edf98f7aba7e22", null ],
-    [ "PrepareSpellScript", "d1/da4/a16950.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
-    [ "Register", "d1/da4/a16950.html#a7594952f23cba22b886c2c3b10f363d4", null ]
+    [ "npc_pos_collapsing_icicleAI", "d3/d06/a16954.html", "d3/d06/a16954" ],
+    [ "npc_pos_collapsing_icicle", "d1/da4/a16950.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "d1/da4/a16950.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

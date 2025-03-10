@@ -1,14 +1,6 @@
 var a14806 =
 [
-    [ "boss_buru", "df/db3/a14806.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
-    [ "ChaseNewVictim", "df/db3/a14806.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
-    [ "DamageTaken", "df/db3/a14806.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
-    [ "EnterEvadeMode", "df/db3/a14806.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
-    [ "JustDied", "df/db3/a14806.html#a6d8f3265dca889bc49e747471da8597f", null ],
-    [ "JustEngagedWith", "df/db3/a14806.html#a61eeeb3eb1684943e94367a9318b3035", null ],
-    [ "KilledUnit", "df/db3/a14806.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
-    [ "ManipulateEggs", "df/db3/a14806.html#a4f8a92eab729c975443579560edb03a3", null ],
-    [ "SpellHit", "df/db3/a14806.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
-    [ "UpdateAI", "df/db3/a14806.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
-    [ "_phase", "df/db3/a14806.html#aa395967af50f2a422bf1e81a087efc43", null ]
+    [ "instance_razorfen_kraul_InstanceMapScript", "dc/d49/a14810.html", "dc/d49/a14810" ],
+    [ "instance_razorfen_kraul", "df/db3/a14806.html#aedd65b901c8131a7ac21e8576734f76f", null ],
+    [ "GetInstanceScript", "df/db3/a14806.html#a78e77010ebb055b9530733ca25533110", null ]
 ];

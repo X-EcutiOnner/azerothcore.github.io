@@ -1,16 +1,17 @@
 var a02195 =
 [
-    [ "LinkValidator< T >", "db/d04/a07668.html", "db/d04/a07668" ],
-    [ "LinkValidator< LinkTags::achievement >", "d9/dec/a07672.html", "d9/dec/a07672" ],
-    [ "LinkValidator< LinkTags::item >", "d0/d10/a07676.html", "d0/d10/a07676" ],
-    [ "LinkValidator< LinkTags::quest >", "d8/de1/a07680.html", "d8/de1/a07680" ],
-    [ "LinkValidator< LinkTags::spell >", "d0/d40/a07684.html", "d0/d40/a07684" ],
-    [ "LinkValidator< LinkTags::enchant >", "dd/d5e/a07688.html", "dd/d5e/a07688" ],
-    [ "LinkValidator< LinkTags::glyph >", "d7/d32/a07692.html", "d7/d32/a07692" ],
-    [ "LinkValidator< LinkTags::talent >", "d9/d79/a07696.html", "d9/d79/a07696" ],
-    [ "LinkValidator< LinkTags::trade >", "df/de3/a07700.html", "df/de3/a07700" ],
-    [ "TryValidateAs", "df/d0e/a02195.html#af1c86bff85f30ff113d5f78421c280af", null ],
-    [ "toHex", "df/d0e/a02195.html#a0b5e4d40ad5549ddc48c127306499b6c", null ],
-    [ "ValidateAs", "df/d0e/a02195.html#a1021653ddd2d2e78df34d8c4a2a7ed93", null ],
-    [ "ValidateLinkInfo", "df/d0e/a02195.html#a7de61dd7d7c595063ae73f415e961cc9", null ]
+    [ "Acore::Impl::ChatCommands::tag_base< T, typename >", "d1/d8d/a07602.html", "d1/d8d/a07602" ],
+    [ "Acore::Impl::ChatCommands::TokenizeResult", "d3/dd4/a07606.html", "d3/dd4/a07606" ],
+    [ "Acore::Impl::ChatCommands::are_all_assignable< T, Ts >", "da/d42/a07610.html", "da/d42/a07610" ],
+    [ "Acore::Impl::ChatCommands::are_all_assignable< void, Ts... >", "d7/d52/a07614.html", "d7/d52/a07614" ],
+    [ "Acore::Impl::ChatCommands::get_nth< index, T1, Ts >", "de/dd3/a07618.html", null ],
+    [ "Acore::Impl::ChatCommands::get_nth< 0, T1, Ts... >", "d5/dbe/a07622.html", "d5/dbe/a07622" ],
+    [ "Acore::Impl::ChatCommands::ChatCommandResult", "d7/d8d/a07626.html", "d7/d8d/a07626" ],
+    [ "get_nth_t", "df/d0e/a02195.html#acf7271fa50990dbd40fd90f127b9fb3b", null ],
+    [ "tag_base_t", "df/d0e/a02195.html#a61f1a636e46a7d78161298ae28844703", null ],
+    [ "FormatAcoreString", "df/d0e/a02195.html#a496bce28eb0bf0ac4b5e1c54c19193b7", null ],
+    [ "GetAcoreString", "df/d0e/a02195.html#a1106e69269315156c6019b7812547ce9", null ],
+    [ "SendErrorMessageToHandler", "df/d0e/a02195.html#aae4c9556d5cc172144fa280ca820226d", null ],
+    [ "tokenize", "df/d0e/a02195.html#aeca95018e8d551d917cf69e0764ccef7", null ],
+    [ "COMMAND_DELIMITER", "df/d0e/a02195.html#a068db55731856ca7770e1b09a4225aa2", null ]
 ];

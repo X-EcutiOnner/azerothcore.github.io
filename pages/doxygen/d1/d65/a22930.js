@@ -1,8 +1,7 @@
 var a22930 =
 [
-    [ "CalculateAmount", "d1/d65/a22930.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
-    [ "OnPeriodic", "d1/d65/a22930.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
-    [ "PrepareAuraScript", "d1/d65/a22930.html#a1278420b279449c1c6a53b1a7b53f539", null ],
-    [ "Register", "d1/d65/a22930.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
-    [ "Validate", "d1/d65/a22930.html#a601c2db3a8e47d48b956ed102cbca104", null ]
+    [ "HandleEffectRemove", "d1/d65/a22930.html#a070e0dacb457d7dc0bd61594f0ed6d83", null ],
+    [ "PrepareAuraScript", "d1/d65/a22930.html#ac30073d35c40385a24b694012776391e", null ],
+    [ "Register", "d1/d65/a22930.html#ae66eceece2812aee47acb386735f50a0", null ],
+    [ "Validate", "d1/d65/a22930.html#af26c0361e6b7e480f59563d8630d6736", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::UnitSearcher&lt; Check &gt; Struct Template Reference</title>
+<title>AzerothCore: Acore::WorldObjectWorker&lt; Do &gt; Struct Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,7 +108,7 @@ $(document).ready(function(){initNavTree('d9/d7f/a09182.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../da/dd4/a09179.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::UnitSearcher&lt; Check &gt; Struct Template Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::WorldObjectWorker&lt; Do &gt; Struct Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -116,56 +116,62 @@ $(document).ready(function(){initNavTree('d9/d7f/a09182.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a4c50b4594650d9f3f83a40ac02f1a954"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#a4c50b4594650d9f3f83a40ac02f1a954">UnitSearcher</a> (<a class="el" href="../../d5/d43/a08350.html">WorldObject</a> const *searcher, <a class="el" href="../../d3/dfd/a08698.html">Unit</a> *&amp;result, Check &amp;check)</td></tr>
-<tr class="separator:a4c50b4594650d9f3f83a40ac02f1a954"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5e419d2cb0de5ae58373e521d3a84ac6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#a5e419d2cb0de5ae58373e521d3a84ac6">Visit</a> (<a class="el" href="../../d3/df2/a03614.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;m)</td></tr>
-<tr class="separator:a5e419d2cb0de5ae58373e521d3a84ac6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac65516ed337b509ff5c316fb29727854"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#ac65516ed337b509ff5c316fb29727854">Visit</a> (<a class="el" href="../../d3/df2/a03614.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;m)</td></tr>
-<tr class="separator:ac65516ed337b509ff5c316fb29727854"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4bf8a315ab9464bbc5b0c8cae5c27fed"><td class="memTemplParams" colspan="2">template&lt;class NOT_INTERESTED &gt; </td></tr>
-<tr class="memitem:a4bf8a315ab9464bbc5b0c8cae5c27fed"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#a4bf8a315ab9464bbc5b0c8cae5c27fed">Visit</a> (<a class="el" href="../../df/d49/a09034.html">GridRefMgr</a>&lt; NOT_INTERESTED &gt; &amp;)</td></tr>
-<tr class="separator:a4bf8a315ab9464bbc5b0c8cae5c27fed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15dd68579f1a92f015cfac8577db7422"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#a15dd68579f1a92f015cfac8577db7422">WorldObjectWorker</a> (<a class="el" href="../../d3/d25/a08362.html">WorldObject</a> const *searcher, Do const &amp;_do, <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapTypeMask=<a class="el" href="../../d5/da7/a01283.html#ab566123309f520dd2c1cc7388816c0f1a911d5a5a64d897a2295ecd8366a763f7">GRID_MAP_TYPE_MASK_ALL</a>)</td></tr>
+<tr class="separator:a15dd68579f1a92f015cfac8577db7422"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7de6ea339a8113d242dd099ca4d36927"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#a7de6ea339a8113d242dd099ca4d36927">Visit</a> (<a class="el" href="../../d5/da7/a01283.html#aad35d1efe9e8a57f45c0740a89bf9fbf">GameObjectMapType</a> &amp;m)</td></tr>
+<tr class="separator:a7de6ea339a8113d242dd099ca4d36927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a17097541c49264c15ebfe474f54aeca2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#a17097541c49264c15ebfe474f54aeca2">Visit</a> (<a class="el" href="../../d5/da7/a01283.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;m)</td></tr>
+<tr class="separator:a17097541c49264c15ebfe474f54aeca2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3021825347d132f1368a77d29a8318df"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#a3021825347d132f1368a77d29a8318df">Visit</a> (<a class="el" href="../../d5/da7/a01283.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;m)</td></tr>
+<tr class="separator:a3021825347d132f1368a77d29a8318df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae264461e49602fd0b8a17e30ed554c64"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#ae264461e49602fd0b8a17e30ed554c64">Visit</a> (<a class="el" href="../../d5/da7/a01283.html#a8e87d05ee9fb2b4f64470fce9231de12">CorpseMapType</a> &amp;m)</td></tr>
+<tr class="separator:ae264461e49602fd0b8a17e30ed554c64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b7869c7d151e8abc924f517ecfdef82"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#a7b7869c7d151e8abc924f517ecfdef82">Visit</a> (<a class="el" href="../../d5/da7/a01283.html#a5957bb381cc7067b3da243bb5999e870">DynamicObjectMapType</a> &amp;m)</td></tr>
+<tr class="separator:a7b7869c7d151e8abc924f517ecfdef82"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29196fa36ce32a0cec68d0d67372a400"><td class="memTemplParams" colspan="2">template&lt;class NOT_INTERESTED &gt; </td></tr>
+<tr class="memitem:a29196fa36ce32a0cec68d0d67372a400"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#a29196fa36ce32a0cec68d0d67372a400">Visit</a> (<a class="el" href="../../d3/d8b/a09054.html">GridRefMgr</a>&lt; NOT_INTERESTED &gt; &amp;)</td></tr>
+<tr class="separator:a29196fa36ce32a0cec68d0d67372a400"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ab94911f3f275de6a9ce9f15f1169c81c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#ab94911f3f275de6a9ce9f15f1169c81c">i_phaseMask</a></td></tr>
-<tr class="separator:ab94911f3f275de6a9ce9f15f1169c81c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3029760131a6f50883246afe2533c062"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dfd/a08698.html">Unit</a> *&amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#a3029760131a6f50883246afe2533c062">i_object</a></td></tr>
-<tr class="separator:a3029760131a6f50883246afe2533c062"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3618df5a6ae33e76b802eae9cac1e1bd"><td class="memItemLeft" align="right" valign="top">Check &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#a3618df5a6ae33e76b802eae9cac1e1bd">i_check</a></td></tr>
-<tr class="separator:a3618df5a6ae33e76b802eae9cac1e1bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f8e447b9693154f56ce010869acadb9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#a6f8e447b9693154f56ce010869acadb9">i_mapTypeMask</a></td></tr>
+<tr class="separator:a6f8e447b9693154f56ce010869acadb9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:affa6245985c5d271900be12104ab6bb6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#affa6245985c5d271900be12104ab6bb6">i_phaseMask</a></td></tr>
+<tr class="separator:affa6245985c5d271900be12104ab6bb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa16ce8cce21d4590ef6612e14fb48919"><td class="memItemLeft" align="right" valign="top">Do const  &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#aa16ce8cce21d4590ef6612e14fb48919">i_do</a></td></tr>
+<tr class="separator:aa16ce8cce21d4590ef6612e14fb48919"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class Check&gt;<br />
-struct Acore::UnitSearcher&lt; Check &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a4c50b4594650d9f3f83a40ac02f1a954" name="a4c50b4594650d9f3f83a40ac02f1a954"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4c50b4594650d9f3f83a40ac02f1a954">&#9670;&#160;</a></span>UnitSearcher()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;class Do&gt;<br />
+struct Acore::WorldObjectWorker&lt; Do &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a15dd68579f1a92f015cfac8577db7422" name="a15dd68579f1a92f015cfac8577db7422"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a15dd68579f1a92f015cfac8577db7422">&#9670;&#160;</a></span>WorldObjectWorker()</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class Check &gt; </div>
+template&lt;class Do &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d7f/a09182.html">Acore::UnitSearcher</a>&lt; Check &gt;::UnitSearcher </td>
+          <td class="memname"><a class="el" href="../../d9/d7f/a09182.html">Acore::WorldObjectWorker</a>&lt; Do &gt;::WorldObjectWorker </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d43/a08350.html">WorldObject</a> const *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d3/d25/a08362.html">WorldObject</a> const *&#160;</td>
           <td class="paramname"><em>searcher</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/dfd/a08698.html">Unit</a> *&amp;&#160;</td>
-          <td class="paramname"><em>result</em>, </td>
+          <td class="paramtype">Do const &amp;&#160;</td>
+          <td class="paramname"><em>_do</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Check &amp;&#160;</td>
-          <td class="paramname"><em>check</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>mapTypeMask</em> = <code><a class="el" href="../../d5/da7/a01283.html#ab566123309f520dd2c1cc7388816c0f1a911d5a5a64d897a2295ecd8366a763f7">GRID_MAP_TYPE_MASK_ALL</a></code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -179,63 +185,176 @@ template&lt;class Check &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  395</span>            : <a class="code hl_variable" href="../../d9/d7f/a09182.html#ab94911f3f275de6a9ce9f15f1169c81c">i_phaseMask</a>(searcher-&gt;GetPhaseMask()), <a class="code hl_variable" href="../../d9/d7f/a09182.html#a3029760131a6f50883246afe2533c062">i_object</a>(result), <a class="code hl_variable" href="../../d9/d7f/a09182.html#a3618df5a6ae33e76b802eae9cac1e1bd">i_check</a>(check) {}</div>
-<div class="ttc" id="aa09182_html_a3029760131a6f50883246afe2533c062"><div class="ttname"><a href="../../d9/d7f/a09182.html#a3029760131a6f50883246afe2533c062">Acore::UnitSearcher::i_object</a></div><div class="ttdeci">Unit *&amp; i_object</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:391</div></div>
-<div class="ttc" id="aa09182_html_a3618df5a6ae33e76b802eae9cac1e1bd"><div class="ttname"><a href="../../d9/d7f/a09182.html#a3618df5a6ae33e76b802eae9cac1e1bd">Acore::UnitSearcher::i_check</a></div><div class="ttdeci">Check &amp; i_check</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:392</div></div>
-<div class="ttc" id="aa09182_html_ab94911f3f275de6a9ce9f15f1169c81c"><div class="ttname"><a href="../../d9/d7f/a09182.html#ab94911f3f275de6a9ce9f15f1169c81c">Acore::UnitSearcher::i_phaseMask</a></div><div class="ttdeci">uint32 i_phaseMask</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:390</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  266</span>            : <a class="code hl_variable" href="../../d9/d7f/a09182.html#a6f8e447b9693154f56ce010869acadb9">i_mapTypeMask</a>(mapTypeMask), <a class="code hl_variable" href="../../d9/d7f/a09182.html#affa6245985c5d271900be12104ab6bb6">i_phaseMask</a>(searcher-&gt;GetPhaseMask()), <a class="code hl_variable" href="../../d9/d7f/a09182.html#aa16ce8cce21d4590ef6612e14fb48919">i_do</a>(_do) {}</div>
+<div class="ttc" id="aa09182_html_a6f8e447b9693154f56ce010869acadb9"><div class="ttname"><a href="../../d9/d7f/a09182.html#a6f8e447b9693154f56ce010869acadb9">Acore::WorldObjectWorker::i_mapTypeMask</a></div><div class="ttdeci">uint32 i_mapTypeMask</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:261</div></div>
+<div class="ttc" id="aa09182_html_aa16ce8cce21d4590ef6612e14fb48919"><div class="ttname"><a href="../../d9/d7f/a09182.html#aa16ce8cce21d4590ef6612e14fb48919">Acore::WorldObjectWorker::i_do</a></div><div class="ttdeci">Do const  &amp; i_do</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:263</div></div>
+<div class="ttc" id="aa09182_html_affa6245985c5d271900be12104ab6bb6"><div class="ttname"><a href="../../d9/d7f/a09182.html#affa6245985c5d271900be12104ab6bb6">Acore::WorldObjectWorker::i_phaseMask</a></div><div class="ttdeci">uint32 i_phaseMask</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:262</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a5e419d2cb0de5ae58373e521d3a84ac6" name="a5e419d2cb0de5ae58373e521d3a84ac6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5e419d2cb0de5ae58373e521d3a84ac6">&#9670;&#160;</a></span>Visit() <span class="overload">[1/3]</span></h2>
+<a id="ae264461e49602fd0b8a17e30ed554c64" name="ae264461e49602fd0b8a17e30ed554c64"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae264461e49602fd0b8a17e30ed554c64">&#9670;&#160;</a></span>Visit() <span class="overload">[1/6]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class Check &gt; </div>
+template&lt;class Do &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../d9/d7f/a09182.html">Acore::UnitSearcher</a>&lt; Check &gt;::Visit </td>
+          <td class="memname">void <a class="el" href="../../d9/d7f/a09182.html">Acore::WorldObjectWorker</a>&lt; Do &gt;::Visit </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/df2/a03614.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d5/da7/a01283.html#a8e87d05ee9fb2b4f64470fce9231de12">CorpseMapType</a> &amp;&#160;</td>
           <td class="paramname"><em>m</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  347</span>{</div>
-<div class="line"><span class="lineno">  348</span>    <span class="comment">// already found</span></div>
-<div class="line"><span class="lineno">  349</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d7f/a09182.html#a3029760131a6f50883246afe2533c062">i_object</a>)</div>
-<div class="line"><span class="lineno">  350</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  351</span> </div>
-<div class="line"><span class="lineno">  352</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d3/d32/a05194.html">CreatureMapType::iterator</a> itr = m.<a class="code hl_function" href="../../df/d49/a09034.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../df/d49/a09034.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
-<div class="line"><span class="lineno">  353</span>    {</div>
-<div class="line"><span class="lineno">  354</span>        <span class="keywordflow">if</span> (!itr-&gt;GetSource()-&gt;InSamePhase(<a class="code hl_variable" href="../../d9/d7f/a09182.html#ab94911f3f275de6a9ce9f15f1169c81c">i_phaseMask</a>))</div>
-<div class="line"><span class="lineno">  355</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  356</span> </div>
-<div class="line"><span class="lineno">  357</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d7f/a09182.html#a3618df5a6ae33e76b802eae9cac1e1bd">i_check</a>(itr-&gt;GetSource()))</div>
-<div class="line"><span class="lineno">  358</span>        {</div>
-<div class="line"><span class="lineno">  359</span>            <a class="code hl_variable" href="../../d9/d7f/a09182.html#a3029760131a6f50883246afe2533c062">i_object</a> = itr-&gt;GetSource();</div>
-<div class="line"><span class="lineno">  360</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  361</span>        }</div>
-<div class="line"><span class="lineno">  362</span>    }</div>
-<div class="line"><span class="lineno">  363</span>}</div>
-<div class="ttc" id="aa05194_html"><div class="ttname"><a href="../../d3/d32/a05194.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
-<div class="ttc" id="aa09034_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../df/d49/a09034.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
-<div class="ttc" id="aa09034_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../df/d49/a09034.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  295</span>        {</div>
+<div class="line"><span class="lineno">  296</span>            <span class="keywordflow">if</span> (!(<a class="code hl_variable" href="../../d9/d7f/a09182.html#a6f8e447b9693154f56ce010869acadb9">i_mapTypeMask</a> &amp; <a class="code hl_enumvalue" href="../../d5/da7/a01283.html#ab566123309f520dd2c1cc7388816c0f1acfb3c6070b685ab5b76dd056f220e84f">GRID_MAP_TYPE_MASK_CORPSE</a>))</div>
+<div class="line"><span class="lineno">  297</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  298</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d4/d56/a05206.html">CorpseMapType::iterator</a> itr = m.<a class="code hl_function" href="../../d3/d8b/a09054.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../d3/d8b/a09054.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
+<div class="line"><span class="lineno">  299</span>                <span class="keywordflow">if</span> (itr-&gt;GetSource()-&gt;InSamePhase(<a class="code hl_variable" href="../../d9/d7f/a09182.html#affa6245985c5d271900be12104ab6bb6">i_phaseMask</a>))</div>
+<div class="line"><span class="lineno">  300</span>                    <a class="code hl_variable" href="../../d9/d7f/a09182.html#aa16ce8cce21d4590ef6612e14fb48919">i_do</a>(itr-&gt;GetSource());</div>
+<div class="line"><span class="lineno">  301</span>        }</div>
+<div class="ttc" id="aa01283_html_ab566123309f520dd2c1cc7388816c0f1acfb3c6070b685ab5b76dd056f220e84f"><div class="ttname"><a href="../../d5/da7/a01283.html#ab566123309f520dd2c1cc7388816c0f1acfb3c6070b685ab5b76dd056f220e84f">GRID_MAP_TYPE_MASK_CORPSE</a></div><div class="ttdeci">@ GRID_MAP_TYPE_MASK_CORPSE</div><div class="ttdef"><b>Definition:</b> GridDefines.h:67</div></div>
+<div class="ttc" id="aa05206_html"><div class="ttname"><a href="../../d4/d56/a05206.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
+<div class="ttc" id="aa09054_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../d3/d8b/a09054.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
+<div class="ttc" id="aa09054_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../d3/d8b/a09054.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, and <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, <a class="el" href="../../#l00067">GRID_MAP_TYPE_MASK_CORPSE</a>, <a class="el" href="../../#l00263">Acore::WorldObjectWorker&lt; Do &gt;::i_do</a>, <a class="el" href="../../#l00261">Acore::WorldObjectWorker&lt; Do &gt;::i_mapTypeMask</a>, and <a class="el" href="../../#l00262">Acore::WorldObjectWorker&lt; Do &gt;::i_phaseMask</a>.</p>
 
 </div>
 </div>
-<a id="a4bf8a315ab9464bbc5b0c8cae5c27fed" name="a4bf8a315ab9464bbc5b0c8cae5c27fed"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4bf8a315ab9464bbc5b0c8cae5c27fed">&#9670;&#160;</a></span>Visit() <span class="overload">[2/3]</span></h2>
+<a id="a3021825347d132f1368a77d29a8318df" name="a3021825347d132f1368a77d29a8318df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3021825347d132f1368a77d29a8318df">&#9670;&#160;</a></span>Visit() <span class="overload">[2/6]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class Check &gt; </div>
+template&lt;class Do &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d9/d7f/a09182.html">Acore::WorldObjectWorker</a>&lt; Do &gt;::Visit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/da7/a01283.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  286</span>        {</div>
+<div class="line"><span class="lineno">  287</span>            <span class="keywordflow">if</span> (!(<a class="code hl_variable" href="../../d9/d7f/a09182.html#a6f8e447b9693154f56ce010869acadb9">i_mapTypeMask</a> &amp; <a class="code hl_enumvalue" href="../../d5/da7/a01283.html#ab566123309f520dd2c1cc7388816c0f1a5619b6974a16694495987197827dd1f7">GRID_MAP_TYPE_MASK_CREATURE</a>))</div>
+<div class="line"><span class="lineno">  288</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  289</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d4/d56/a05206.html">CreatureMapType::iterator</a> itr = m.<a class="code hl_function" href="../../d3/d8b/a09054.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../d3/d8b/a09054.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
+<div class="line"><span class="lineno">  290</span>                <span class="keywordflow">if</span> (itr-&gt;GetSource()-&gt;InSamePhase(<a class="code hl_variable" href="../../d9/d7f/a09182.html#affa6245985c5d271900be12104ab6bb6">i_phaseMask</a>))</div>
+<div class="line"><span class="lineno">  291</span>                    <a class="code hl_variable" href="../../d9/d7f/a09182.html#aa16ce8cce21d4590ef6612e14fb48919">i_do</a>(itr-&gt;GetSource());</div>
+<div class="line"><span class="lineno">  292</span>        }</div>
+<div class="ttc" id="aa01283_html_ab566123309f520dd2c1cc7388816c0f1a5619b6974a16694495987197827dd1f7"><div class="ttname"><a href="../../d5/da7/a01283.html#ab566123309f520dd2c1cc7388816c0f1a5619b6974a16694495987197827dd1f7">GRID_MAP_TYPE_MASK_CREATURE</a></div><div class="ttdeci">@ GRID_MAP_TYPE_MASK_CREATURE</div><div class="ttdef"><b>Definition:</b> GridDefines.h:68</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, <a class="el" href="../../#l00068">GRID_MAP_TYPE_MASK_CREATURE</a>, <a class="el" href="../../#l00263">Acore::WorldObjectWorker&lt; Do &gt;::i_do</a>, <a class="el" href="../../#l00261">Acore::WorldObjectWorker&lt; Do &gt;::i_mapTypeMask</a>, and <a class="el" href="../../#l00262">Acore::WorldObjectWorker&lt; Do &gt;::i_phaseMask</a>.</p>
+
+</div>
+</div>
+<a id="a7b7869c7d151e8abc924f517ecfdef82" name="a7b7869c7d151e8abc924f517ecfdef82"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b7869c7d151e8abc924f517ecfdef82">&#9670;&#160;</a></span>Visit() <span class="overload">[3/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Do &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d9/d7f/a09182.html">Acore::WorldObjectWorker</a>&lt; Do &gt;::Visit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/da7/a01283.html#a5957bb381cc7067b3da243bb5999e870">DynamicObjectMapType</a> &amp;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  304</span>        {</div>
+<div class="line"><span class="lineno">  305</span>            <span class="keywordflow">if</span> (!(<a class="code hl_variable" href="../../d9/d7f/a09182.html#a6f8e447b9693154f56ce010869acadb9">i_mapTypeMask</a> &amp; <a class="code hl_enumvalue" href="../../d5/da7/a01283.html#ab566123309f520dd2c1cc7388816c0f1a983fc0e191fefd15850bb85a39cce5b8">GRID_MAP_TYPE_MASK_DYNAMICOBJECT</a>))</div>
+<div class="line"><span class="lineno">  306</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  307</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d4/d56/a05206.html">DynamicObjectMapType::iterator</a> itr = m.<a class="code hl_function" href="../../d3/d8b/a09054.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../d3/d8b/a09054.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
+<div class="line"><span class="lineno">  308</span>                <span class="keywordflow">if</span> (itr-&gt;GetSource()-&gt;InSamePhase(<a class="code hl_variable" href="../../d9/d7f/a09182.html#affa6245985c5d271900be12104ab6bb6">i_phaseMask</a>))</div>
+<div class="line"><span class="lineno">  309</span>                    <a class="code hl_variable" href="../../d9/d7f/a09182.html#aa16ce8cce21d4590ef6612e14fb48919">i_do</a>(itr-&gt;GetSource());</div>
+<div class="line"><span class="lineno">  310</span>        }</div>
+<div class="ttc" id="aa01283_html_ab566123309f520dd2c1cc7388816c0f1a983fc0e191fefd15850bb85a39cce5b8"><div class="ttname"><a href="../../d5/da7/a01283.html#ab566123309f520dd2c1cc7388816c0f1a983fc0e191fefd15850bb85a39cce5b8">GRID_MAP_TYPE_MASK_DYNAMICOBJECT</a></div><div class="ttdeci">@ GRID_MAP_TYPE_MASK_DYNAMICOBJECT</div><div class="ttdef"><b>Definition:</b> GridDefines.h:69</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, <a class="el" href="../../#l00069">GRID_MAP_TYPE_MASK_DYNAMICOBJECT</a>, <a class="el" href="../../#l00263">Acore::WorldObjectWorker&lt; Do &gt;::i_do</a>, <a class="el" href="../../#l00261">Acore::WorldObjectWorker&lt; Do &gt;::i_mapTypeMask</a>, and <a class="el" href="../../#l00262">Acore::WorldObjectWorker&lt; Do &gt;::i_phaseMask</a>.</p>
+
+</div>
+</div>
+<a id="a7de6ea339a8113d242dd099ca4d36927" name="a7de6ea339a8113d242dd099ca4d36927"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7de6ea339a8113d242dd099ca4d36927">&#9670;&#160;</a></span>Visit() <span class="overload">[4/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Do &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d9/d7f/a09182.html">Acore::WorldObjectWorker</a>&lt; Do &gt;::Visit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/da7/a01283.html#aad35d1efe9e8a57f45c0740a89bf9fbf">GameObjectMapType</a> &amp;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  269</span>        {</div>
+<div class="line"><span class="lineno">  270</span>            <span class="keywordflow">if</span> (!(<a class="code hl_variable" href="../../d9/d7f/a09182.html#a6f8e447b9693154f56ce010869acadb9">i_mapTypeMask</a> &amp; <a class="code hl_enumvalue" href="../../d5/da7/a01283.html#ab566123309f520dd2c1cc7388816c0f1a92e1b504e28568b364b7185cab2e7173">GRID_MAP_TYPE_MASK_GAMEOBJECT</a>))</div>
+<div class="line"><span class="lineno">  271</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  272</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d4/d56/a05206.html">GameObjectMapType::iterator</a> itr = m.<a class="code hl_function" href="../../d3/d8b/a09054.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../d3/d8b/a09054.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
+<div class="line"><span class="lineno">  273</span>                <span class="keywordflow">if</span> (itr-&gt;GetSource()-&gt;InSamePhase(<a class="code hl_variable" href="../../d9/d7f/a09182.html#affa6245985c5d271900be12104ab6bb6">i_phaseMask</a>))</div>
+<div class="line"><span class="lineno">  274</span>                    <a class="code hl_variable" href="../../d9/d7f/a09182.html#aa16ce8cce21d4590ef6612e14fb48919">i_do</a>(itr-&gt;GetSource());</div>
+<div class="line"><span class="lineno">  275</span>        }</div>
+<div class="ttc" id="aa01283_html_ab566123309f520dd2c1cc7388816c0f1a92e1b504e28568b364b7185cab2e7173"><div class="ttname"><a href="../../d5/da7/a01283.html#ab566123309f520dd2c1cc7388816c0f1a92e1b504e28568b364b7185cab2e7173">GRID_MAP_TYPE_MASK_GAMEOBJECT</a></div><div class="ttdeci">@ GRID_MAP_TYPE_MASK_GAMEOBJECT</div><div class="ttdef"><b>Definition:</b> GridDefines.h:70</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, <a class="el" href="../../#l00070">GRID_MAP_TYPE_MASK_GAMEOBJECT</a>, <a class="el" href="../../#l00263">Acore::WorldObjectWorker&lt; Do &gt;::i_do</a>, <a class="el" href="../../#l00261">Acore::WorldObjectWorker&lt; Do &gt;::i_mapTypeMask</a>, and <a class="el" href="../../#l00262">Acore::WorldObjectWorker&lt; Do &gt;::i_phaseMask</a>.</p>
+
+</div>
+</div>
+<a id="a29196fa36ce32a0cec68d0d67372a400" name="a29196fa36ce32a0cec68d0d67372a400"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a29196fa36ce32a0cec68d0d67372a400">&#9670;&#160;</a></span>Visit() <span class="overload">[5/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Do &gt; </div>
 <div class="memtemplate">
 template&lt;class NOT_INTERESTED &gt; </div>
 <table class="mlabels">
@@ -243,9 +362,9 @@ template&lt;class NOT_INTERESTED &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../d9/d7f/a09182.html">Acore::UnitSearcher</a>&lt; Check &gt;::Visit </td>
+          <td class="memname">void <a class="el" href="../../d9/d7f/a09182.html">Acore::WorldObjectWorker</a>&lt; Do &gt;::Visit </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d49/a09034.html">GridRefMgr</a>&lt; NOT_INTERESTED &gt; &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d3/d8b/a09054.html">GridRefMgr</a>&lt; NOT_INTERESTED &gt; &amp;&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
@@ -256,95 +375,100 @@ template&lt;class NOT_INTERESTED &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  400</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  312</span>{}</div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="ac65516ed337b509ff5c316fb29727854" name="ac65516ed337b509ff5c316fb29727854"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac65516ed337b509ff5c316fb29727854">&#9670;&#160;</a></span>Visit() <span class="overload">[3/3]</span></h2>
+<a id="a17097541c49264c15ebfe474f54aeca2" name="a17097541c49264c15ebfe474f54aeca2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a17097541c49264c15ebfe474f54aeca2">&#9670;&#160;</a></span>Visit() <span class="overload">[6/6]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class Check &gt; </div>
+template&lt;class Do &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../d9/d7f/a09182.html">Acore::UnitSearcher</a>&lt; Check &gt;::Visit </td>
+          <td class="memname">void <a class="el" href="../../d9/d7f/a09182.html">Acore::WorldObjectWorker</a>&lt; Do &gt;::Visit </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/df2/a03614.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d5/da7/a01283.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;&#160;</td>
           <td class="paramname"><em>m</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  367</span>{</div>
-<div class="line"><span class="lineno">  368</span>    <span class="comment">// already found</span></div>
-<div class="line"><span class="lineno">  369</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d7f/a09182.html#a3029760131a6f50883246afe2533c062">i_object</a>)</div>
-<div class="line"><span class="lineno">  370</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  371</span> </div>
-<div class="line"><span class="lineno">  372</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d3/d32/a05194.html">PlayerMapType::iterator</a> itr = m.<a class="code hl_function" href="../../df/d49/a09034.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../df/d49/a09034.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
-<div class="line"><span class="lineno">  373</span>    {</div>
-<div class="line"><span class="lineno">  374</span>        <span class="keywordflow">if</span> (!itr-&gt;GetSource()-&gt;InSamePhase(<a class="code hl_variable" href="../../d9/d7f/a09182.html#ab94911f3f275de6a9ce9f15f1169c81c">i_phaseMask</a>))</div>
-<div class="line"><span class="lineno">  375</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  376</span> </div>
-<div class="line"><span class="lineno">  377</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d7f/a09182.html#a3618df5a6ae33e76b802eae9cac1e1bd">i_check</a>(itr-&gt;GetSource()))</div>
-<div class="line"><span class="lineno">  378</span>        {</div>
-<div class="line"><span class="lineno">  379</span>            <a class="code hl_variable" href="../../d9/d7f/a09182.html#a3029760131a6f50883246afe2533c062">i_object</a> = itr-&gt;GetSource();</div>
-<div class="line"><span class="lineno">  380</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  381</span>        }</div>
-<div class="line"><span class="lineno">  382</span>    }</div>
-<div class="line"><span class="lineno">  383</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  278</span>        {</div>
+<div class="line"><span class="lineno">  279</span>            <span class="keywordflow">if</span> (!(<a class="code hl_variable" href="../../d9/d7f/a09182.html#a6f8e447b9693154f56ce010869acadb9">i_mapTypeMask</a> &amp; <a class="code hl_enumvalue" href="../../d5/da7/a01283.html#ab566123309f520dd2c1cc7388816c0f1a21cae0e997f66481782878b049542c6e">GRID_MAP_TYPE_MASK_PLAYER</a>))</div>
+<div class="line"><span class="lineno">  280</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  281</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d4/d56/a05206.html">PlayerMapType::iterator</a> itr = m.<a class="code hl_function" href="../../d3/d8b/a09054.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../d3/d8b/a09054.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
+<div class="line"><span class="lineno">  282</span>                <span class="keywordflow">if</span> (itr-&gt;GetSource()-&gt;InSamePhase(<a class="code hl_variable" href="../../d9/d7f/a09182.html#affa6245985c5d271900be12104ab6bb6">i_phaseMask</a>))</div>
+<div class="line"><span class="lineno">  283</span>                    <a class="code hl_variable" href="../../d9/d7f/a09182.html#aa16ce8cce21d4590ef6612e14fb48919">i_do</a>(itr-&gt;GetSource());</div>
+<div class="line"><span class="lineno">  284</span>        }</div>
+<div class="ttc" id="aa01283_html_ab566123309f520dd2c1cc7388816c0f1a21cae0e997f66481782878b049542c6e"><div class="ttname"><a href="../../d5/da7/a01283.html#ab566123309f520dd2c1cc7388816c0f1a21cae0e997f66481782878b049542c6e">GRID_MAP_TYPE_MASK_PLAYER</a></div><div class="ttdeci">@ GRID_MAP_TYPE_MASK_PLAYER</div><div class="ttdef"><b>Definition:</b> GridDefines.h:71</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, and <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, <a class="el" href="../../#l00071">GRID_MAP_TYPE_MASK_PLAYER</a>, <a class="el" href="../../#l00263">Acore::WorldObjectWorker&lt; Do &gt;::i_do</a>, <a class="el" href="../../#l00261">Acore::WorldObjectWorker&lt; Do &gt;::i_mapTypeMask</a>, and <a class="el" href="../../#l00262">Acore::WorldObjectWorker&lt; Do &gt;::i_phaseMask</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a3618df5a6ae33e76b802eae9cac1e1bd" name="a3618df5a6ae33e76b802eae9cac1e1bd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3618df5a6ae33e76b802eae9cac1e1bd">&#9670;&#160;</a></span>i_check</h2>
+<a id="aa16ce8cce21d4590ef6612e14fb48919" name="aa16ce8cce21d4590ef6612e14fb48919"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa16ce8cce21d4590ef6612e14fb48919">&#9670;&#160;</a></span>i_do</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class Check &gt; </div>
+template&lt;class Do &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">Check&amp; <a class="el" href="../../d9/d7f/a09182.html">Acore::UnitSearcher</a>&lt; Check &gt;::i_check</td>
+          <td class="memname">Do const&amp; <a class="el" href="../../d9/d7f/a09182.html">Acore::WorldObjectWorker</a>&lt; Do &gt;::i_do</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00268">Acore::WorldObjectWorker&lt; Do &gt;::Visit()</a>.</p>
+
 </div>
 </div>
-<a id="a3029760131a6f50883246afe2533c062" name="a3029760131a6f50883246afe2533c062"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3029760131a6f50883246afe2533c062">&#9670;&#160;</a></span>i_object</h2>
+<a id="a6f8e447b9693154f56ce010869acadb9" name="a6f8e447b9693154f56ce010869acadb9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6f8e447b9693154f56ce010869acadb9">&#9670;&#160;</a></span>i_mapTypeMask</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class Check &gt; </div>
+template&lt;class Do &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/dfd/a08698.html">Unit</a>*&amp; <a class="el" href="../../d9/d7f/a09182.html">Acore::UnitSearcher</a>&lt; Check &gt;::i_object</td>
+          <td class="memname"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../d9/d7f/a09182.html">Acore::WorldObjectWorker</a>&lt; Do &gt;::i_mapTypeMask</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00268">Acore::WorldObjectWorker&lt; Do &gt;::Visit()</a>.</p>
+
 </div>
 </div>
-<a id="ab94911f3f275de6a9ce9f15f1169c81c" name="ab94911f3f275de6a9ce9f15f1169c81c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab94911f3f275de6a9ce9f15f1169c81c">&#9670;&#160;</a></span>i_phaseMask</h2>
+<a id="affa6245985c5d271900be12104ab6bb6" name="affa6245985c5d271900be12104ab6bb6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#affa6245985c5d271900be12104ab6bb6">&#9670;&#160;</a></span>i_phaseMask</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class Check &gt; </div>
+template&lt;class Do &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../d9/d7f/a09182.html">Acore::UnitSearcher</a>&lt; Check &gt;::i_phaseMask</td>
+          <td class="memname"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../d9/d7f/a09182.html">Acore::WorldObjectWorker</a>&lt; Do &gt;::i_phaseMask</td>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00268">Acore::WorldObjectWorker&lt; Do &gt;::Visit()</a>.</p>
 
 </div>
 </div>
@@ -353,8 +477,8 @@ template&lt;class Check &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/dda/a04740.html">Acore</a></li><li class="navelem"><a class="el" href="../../d9/d7f/a09182.html">UnitSearcher</a></li>
-    <li class="footer">Generated on Mon Feb 17 2025 20:43:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/d0e/a04752.html">Acore</a></li><li class="navelem"><a class="el" href="../../d9/d7f/a09182.html">WorldObjectWorker</a></li>
+    <li class="footer">Generated on Mon Mar 10 2025 20:45:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

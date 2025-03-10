@@ -1,6 +1,7 @@
 var a22262 =
 [
-    [ "npc_drakuru_shacklesAI", "dc/db6/a22266.html", "dc/db6/a22266" ],
-    [ "npc_drakuru_shackles", "df/d55/a22262.html#a2b15a214b34d86597cba09b17654e4ff", null ],
-    [ "GetAI", "df/d55/a22262.html#a90ce98de4630771858cd3b79264a28f9", null ]
+    [ "HandleScript", "df/d55/a22262.html#a1811115f1732912bdfaeeb8272db2304", null ],
+    [ "PrepareSpellScript", "df/d55/a22262.html#a50c24464dd88717bf78971d679715d7b", null ],
+    [ "Register", "df/d55/a22262.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
+    [ "Validate", "df/d55/a22262.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
 ];

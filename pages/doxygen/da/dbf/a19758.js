@@ -1,8 +1,6 @@
 var a19758 =
 [
-    [ "npc_brann_radioAI", "da/dbf/a19758.html#a329ca0310efe109f7fb364045f6eccbb", null ],
-    [ "MoveInLineOfSight", "da/dbf/a19758.html#ad119431edd6f632b4c44fc4e8708d375", null ],
-    [ "Reset", "da/dbf/a19758.html#a89183942dcb38f48de1867bfbce15721", null ],
-    [ "_helpLock", "da/dbf/a19758.html#ae927b6c8143cfb029ab6574d10dde60e", null ],
-    [ "_lock", "da/dbf/a19758.html#a421cfd2b8b149a0f3ea5bc2262ba6bac", null ]
+    [ "npc_freya_wardAI", "d8/d14/a19762.html", "d8/d14/a19762" ],
+    [ "npc_freya_ward", "da/dbf/a19758.html#aebaadcc001922c78e8ec43084a827ac9", null ],
+    [ "GetAI", "da/dbf/a19758.html#a90c0e7a0be1717bf1793415b6fcafbed", null ]
 ];

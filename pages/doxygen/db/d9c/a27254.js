@@ -1,8 +1,6 @@
 var a27254 =
 [
-    [ "trigger_periodicAI", "db/d9c/a27254.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "db/d9c/a27254.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "db/d9c/a27254.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "db/d9c/a27254.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "db/d9c/a27254.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "guard_shattrath_scryerAI", "d1/dfe/a27258.html", "d1/dfe/a27258" ],
+    [ "guard_shattrath_scryer", "db/d9c/a27254.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "db/d9c/a27254.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

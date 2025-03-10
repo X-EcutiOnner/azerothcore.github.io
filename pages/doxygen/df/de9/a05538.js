@@ -1,18 +1,9 @@
 var a05538 =
 [
-    [ "build", "df/de9/a05538.html#a4c2989e284a86a7257c3f4a7b507265c", null ],
-    [ "cmd", "df/de9/a05538.html#a296fd5746ea3ad8f5b341cd92ecb92a6", null ],
-    [ "country", "df/de9/a05538.html#a5391c693d5aee76e67001f648b108792", null ],
-    [ "error", "df/de9/a05538.html#a36a4e2114203cbec036c7f6c6ba1f11b", null ],
-    [ "gamename", "df/de9/a05538.html#ae6f5a1b7c4684bb96deaa51cb9cfc7bc", null ],
-    [ "I", "df/de9/a05538.html#a48ed2eb4f17a62d033320b981fe9d07c", null ],
-    [ "I_len", "df/de9/a05538.html#a589c5dadf3e694ba5e3d9f1e5732426e", null ],
-    [ "ip", "df/de9/a05538.html#a5993cfad4be8f9e457bd6067ced6bd2a", null ],
-    [ "os", "df/de9/a05538.html#ad8c71a1e514e6b8f6d6a4681ba1db0c1", null ],
-    [ "platform", "df/de9/a05538.html#afc0d27e7213846988c0ee7ccc5e54ee0", null ],
-    [ "size", "df/de9/a05538.html#aae293343b590c23405a32d2809887020", null ],
-    [ "timezone_bias", "df/de9/a05538.html#a44cdd2733fb678966bc3252b6bef9d16", null ],
-    [ "version1", "df/de9/a05538.html#aa7a794d75e11e98aa9f88cb8e82be9e9", null ],
-    [ "version2", "df/de9/a05538.html#abe9218ee7ebdffa48dd404a2ad465ca4", null ],
-    [ "version3", "df/de9/a05538.html#a6a9e5088baf8c568916891a55e035db3", null ]
+    [ "TimeTracker", "df/de9/a05538.html#a2b9f585de223c1051136b10b03a27684", null ],
+    [ "GetExpiry", "df/de9/a05538.html#acfc0d5503c1f5ec4d0bdc103d70dfbb3", null ],
+    [ "Passed", "df/de9/a05538.html#a9a13002766153882150b1985a84013ad", null ],
+    [ "Reset", "df/de9/a05538.html#a798cf19378c4de243fac01d7d51a3572", null ],
+    [ "Update", "df/de9/a05538.html#a2009e98647f04c20cb3064e1e9e9a611", null ],
+    [ "i_expiryTime", "df/de9/a05538.html#adf2e301fdefb32008f14ced5f1c37f33", null ]
 ];

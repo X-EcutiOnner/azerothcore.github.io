@@ -1,7 +1,6 @@
 var a10710 =
 [
-    [ "RandomRollClient", "d5/d62/a10710.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "d5/d62/a10710.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "d5/d62/a10710.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "d5/d62/a10710.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "PlayerSaveGuildEmblem", "d5/d62/a10710.html#ae1269fb7583f0ce1703cd89d592b1485", null ],
+    [ "Write", "d5/d62/a10710.html#a0427be2f46cba4ff6b2ca072924bca7b", null ],
+    [ "Error", "d5/d62/a10710.html#a76930d3b74bf7b84a311b24b53d03b21", null ]
 ];

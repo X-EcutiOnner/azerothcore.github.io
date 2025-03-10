@@ -1,5 +1,6 @@
 var a26818 =
 [
-    [ "achievement_bg_control_all_nodes", "dc/dc0/a26818.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
-    [ "OnCheck", "dc/dc0/a26818.html#a69609eb5488519fa5a1f43b13a80e280", null ]
+    [ "HandleHeal", "dc/dc0/a26818.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "dc/dc0/a26818.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "dc/dc0/a26818.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

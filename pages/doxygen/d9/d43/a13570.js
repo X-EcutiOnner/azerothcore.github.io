@@ -1,7 +1,12 @@
 var a13570 =
 [
-    [ "boss_blight_wormAI", "d9/d43/a13570.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "d9/d43/a13570.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "d9/d43/a13570.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "d9/d43/a13570.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d9/d43/a13570.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
+    [ "JustEngagedWith", "d9/d43/a13570.html#a36324482fb264cc3cacf11c3ed542eee", null ],
+    [ "JustSummoned", "d9/d43/a13570.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
+    [ "Reset", "d9/d43/a13570.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
+    [ "SetGUID", "d9/d43/a13570.html#aa5270e7468dcafba98d3ee72752771ce", null ],
+    [ "UpdateAI", "d9/d43/a13570.html#ab704e4f3af8aa734910efd259db31407", null ],
+    [ "_events", "d9/d43/a13570.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
+    [ "LamentEvent", "d9/d43/a13570.html#ace9e901a965665e0f97cb9646af308aa", null ],
+    [ "playerGUID", "d9/d43/a13570.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
 ];

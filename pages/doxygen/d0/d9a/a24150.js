@@ -1,6 +1,6 @@
 var a24150 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d4/d99/a24154.html", "d4/d99/a24154" ],
-    [ "npc_unkor_the_ruthless", "d0/d9a/a24150.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "d0/d9a/a24150.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "npc_kservantAI", "d4/d99/a24154.html", "d4/d99/a24154" ],
+    [ "npc_kservant", "d0/d9a/a24150.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "d0/d9a/a24150.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

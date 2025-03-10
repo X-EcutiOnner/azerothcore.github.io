@@ -1,8 +1,6 @@
 var a24030 =
 [
-    [ "CreatureId", "df/d4b/a24030.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "df/d4b/a24030.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "df/d4b/a24030.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "df/d4b/a24030.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "df/d4b/a24030.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "npc_infernal_attackerAI", "d1/d37/a24034.html", "d1/d37/a24034" ],
+    [ "npc_infernal_attacker", "df/d4b/a24030.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "df/d4b/a24030.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

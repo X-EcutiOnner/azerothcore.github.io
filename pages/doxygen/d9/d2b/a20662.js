@@ -1,6 +1,6 @@
 var a20662 =
 [
-    [ "boss_yoggsaron_death_orbAI", "d9/d2b/a20662.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
-    [ "UpdateAI", "d9/d2b/a20662.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
-    [ "_startTimer", "d9/d2b/a20662.html#aebc8edef5f84219e1c50f2394d129443", null ]
+    [ "x", "d9/d2b/a20662.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "d9/d2b/a20662.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "d9/d2b/a20662.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

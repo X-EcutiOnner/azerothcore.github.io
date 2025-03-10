@@ -1,6 +1,6 @@
 var a20754 =
 [
-    [ "FilterTargets", "d0/dd6/a20754.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "d0/dd6/a20754.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "d0/dd6/a20754.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "d0/dd6/a20754.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
+    [ "DamageTaken", "d0/dd6/a20754.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
+    [ "JustDied", "d0/dd6/a20754.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
 ];

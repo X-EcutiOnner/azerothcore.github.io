@@ -1,6 +1,6 @@
 var a24830 =
 [
-    [ "HandleScript", "de/d2b/a24830.html#aa6104370d5700e43223c7138e941ba05", null ],
-    [ "PrepareSpellScript", "de/d2b/a24830.html#ae4177c84bf0c63aadaa7486603df04d0", null ],
-    [ "Register", "de/d2b/a24830.html#a88a8534a1dd825a14fd6b10933986eb7", null ]
+    [ "HandleDummy", "de/d2b/a24830.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
+    [ "PrepareSpellScript", "de/d2b/a24830.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
+    [ "Register", "de/d2b/a24830.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
 ];

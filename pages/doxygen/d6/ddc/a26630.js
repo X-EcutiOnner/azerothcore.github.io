@@ -1,6 +1,6 @@
 var a26630 =
 [
-    [ "FilterTargets", "d6/ddc/a26630.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
-    [ "PrepareSpellScript", "d6/ddc/a26630.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
-    [ "Register", "d6/ddc/a26630.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
+    [ "HandleAuraApply", "d6/ddc/a26630.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "d6/ddc/a26630.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "d6/ddc/a26630.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

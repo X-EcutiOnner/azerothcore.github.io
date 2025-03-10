@@ -1,7 +1,7 @@
 var a08774 =
 [
-    [ "EquipementIdPrev", "d2/d46/a08774.html#a719c716f8914a200bfde4f5bb3275f26", null ],
-    [ "EquipmentId", "d2/d46/a08774.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
-    [ "ModelId", "d2/d46/a08774.html#ade2b2413020be410428b9fee9aa284d6", null ],
-    [ "ModelIdPrev", "d2/d46/a08774.html#a9de7aa11788b22692738b72718193057", null ]
+    [ "Done", "d2/d46/a08774.html#abc88850d392fb4b62e778d09445de0be", null ],
+    [ "DoneWorldState", "d2/d46/a08774.html#a380755d90c958b6532bae7f8a4d70b44", null ],
+    [ "MaxWorldState", "d2/d46/a08774.html#a8c144531f876b6def613c0011e0efe47", null ],
+    [ "ReqNum", "d2/d46/a08774.html#ae1d182aef449388993e4965de447d971", null ]
 ];

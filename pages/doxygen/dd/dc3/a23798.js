@@ -1,16 +1,9 @@
 var a23798 =
 [
-    [ "npc_nether_drakeAI", "dd/dc3/a23798.html#a82f2c29b380be95303e1558776ea2d88", null ],
-    [ "JustEngagedWith", "dd/dc3/a23798.html#a5f20faa7f7007989298009b88b3ecbc8", null ],
-    [ "MoveInLineOfSight", "dd/dc3/a23798.html#a9e122d4533155c926904a13e8534d32e", null ],
-    [ "MovementInform", "dd/dc3/a23798.html#ae1f5248397b606b7872f05cfc929ac0d", null ],
-    [ "Reset", "dd/dc3/a23798.html#acb03513dd67988e0961632846021a42d", null ],
-    [ "SpellHit", "dd/dc3/a23798.html#a40f05363f38d71954c9fb8773c382444", null ],
-    [ "UpdateAI", "dd/dc3/a23798.html#aa538d9d2ead26d6e085ecf62ec7d310f", null ],
-    [ "ArcaneBlast_Timer", "dd/dc3/a23798.html#ace872917954f4978f3568d7ddecf22ad", null ],
-    [ "IntangiblePresence_Timer", "dd/dc3/a23798.html#acecff3846090fa83c8fc43537d788501", null ],
-    [ "IsNihil", "dd/dc3/a23798.html#a37c393101e0f9b07e20cc21beb80ba44", null ],
-    [ "ManaBurn_Timer", "dd/dc3/a23798.html#ae6c33df878497d29d5f61234b048009d", null ],
-    [ "NihilSpeech_Phase", "dd/dc3/a23798.html#a3e68f0fdb59ce6d8749b5d8629b7ec0b", null ],
-    [ "NihilSpeech_Timer", "dd/dc3/a23798.html#a40d7584c68f5f6516eb9a7deaaad7c86", null ]
+    [ "boss_nethermancer_sepethrea", "dd/dc3/a23798.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "dd/dc3/a23798.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "dd/dc3/a23798.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "dd/dc3/a23798.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "dd/dc3/a23798.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "dd/dc3/a23798.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

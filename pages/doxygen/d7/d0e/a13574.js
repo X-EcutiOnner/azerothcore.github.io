@@ -1,7 +1,6 @@
 var a13574 =
 [
-    [ "HandleScript", "d7/d0e/a13574.html#acd4373ab762d00d262984c36190d6f93", null ],
-    [ "PrepareSpellScript", "d7/d0e/a13574.html#a113216b272d0386f248a75bfcf30c6a3", null ],
-    [ "Register", "d7/d0e/a13574.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
-    [ "Validate", "d7/d0e/a13574.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
+    [ "npc_highborne_lamenterAI", "d2/d46/a13578.html", "d2/d46/a13578" ],
+    [ "npc_highborne_lamenter", "d7/d0e/a13574.html#a40316cf73a688e34e95dd41feef8612a", null ],
+    [ "GetAI", "d7/d0e/a13574.html#aad8ccb43b325b797f60a16e338458a1e", null ]
 ];

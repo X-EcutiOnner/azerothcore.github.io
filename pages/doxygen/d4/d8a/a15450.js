@@ -1,6 +1,6 @@
 var a15450 =
 [
-    [ "npc_stone_watcher_of_norgannon", "d4/d8a/a15450.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
-    [ "OnGossipHello", "d4/d8a/a15450.html#a00f526b1b17b68f31a86e892e0997856", null ],
-    [ "OnGossipSelect", "d4/d8a/a15450.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
+    [ "go_wind_stoneAI", "df/d38/a15454.html", "df/d38/a15454" ],
+    [ "go_wind_stone", "d4/d8a/a15450.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
+    [ "GetAI", "d4/d8a/a15450.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
 ];

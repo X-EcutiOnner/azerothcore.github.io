@@ -1,4 +1,6 @@
 var a27998 =
 [
-    [ "ratio", "dd/d80/a27998.html#ad3cdf9a27817d39d05b8b785f5ba5ac7", null ]
+    [ "color", "dd/d80/a27998.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
+    [ "ID", "dd/d80/a27998.html#ac125147c2dc5546a0116f48e08f36e59", null ],
+    [ "spellitemenchantement", "dd/d80/a27998.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
 ];

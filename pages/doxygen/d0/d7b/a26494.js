@@ -1,9 +1,7 @@
 var a26494 =
 [
-    [ "CalculateAmount", "d0/d7b/a26494.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
-    [ "CheckProc", "d0/d7b/a26494.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
-    [ "HandleProc", "d0/d7b/a26494.html#a741570ba77f70d90b437198f63e565f3", null ],
-    [ "PrepareAuraScript", "d0/d7b/a26494.html#af4e49e2362994f247c119c16c013e4b3", null ],
-    [ "Register", "d0/d7b/a26494.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
-    [ "Validate", "d0/d7b/a26494.html#a939d6815bcaee9b9d2b062313aac912a", null ]
+    [ "HandleEffect", "d0/d7b/a26494.html#ab33c9312c9ac4096140a82f381d83235", null ],
+    [ "PrepareSpellScript", "d0/d7b/a26494.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
+    [ "Register", "d0/d7b/a26494.html#a1f5983124756eca5666ca6adbe5a4544", null ],
+    [ "Validate", "d0/d7b/a26494.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
 ];

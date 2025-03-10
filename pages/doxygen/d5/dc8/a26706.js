@@ -1,7 +1,7 @@
 var a26706 =
 [
-    [ "HandleApply", "d5/dc8/a26706.html#aa35fa107aee605a8583150901a75ad72", null ],
-    [ "HandleRemove", "d5/dc8/a26706.html#a60b6e438ff67d9db41d160020b54da40", null ],
-    [ "PrepareAuraScript", "d5/dc8/a26706.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
-    [ "Register", "d5/dc8/a26706.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
+    [ "HandleTeleport", "d5/dc8/a26706.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "d5/dc8/a26706.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "d5/dc8/a26706.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "d5/dc8/a26706.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

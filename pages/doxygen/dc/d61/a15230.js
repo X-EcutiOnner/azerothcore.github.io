@@ -1,7 +1,6 @@
 var a15230 =
 [
-    [ "npc_tharnarianAI", "dc/d98/a15234.html", "dc/d98/a15234" ],
-    [ "npc_tharnarian", "dc/d61/a15230.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
-    [ "GetAI", "dc/d61/a15230.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
-    [ "OnQuestReward", "dc/d61/a15230.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
+    [ "npc_webbed_creatureAI", "dc/d98/a15234.html", "dc/d98/a15234" ],
+    [ "npc_webbed_creature", "dc/d61/a15230.html#ae52152939766c411e45e827e9ab52d4f", null ],
+    [ "GetAI", "dc/d61/a15230.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
 ];

@@ -1,6 +1,7 @@
 var a23954 =
 [
-    [ "CheckCast", "d7/d64/a23954.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "d7/d64/a23954.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "d7/d64/a23954.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "npc_kurenai_captiveAI", "d5/d77/a23958.html", "d5/d77/a23958" ],
+    [ "npc_kurenai_captive", "d7/d64/a23954.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "d7/d64/a23954.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "d7/d64/a23954.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

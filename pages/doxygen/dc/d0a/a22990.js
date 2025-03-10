@@ -1,6 +1,6 @@
 var a22990 =
 [
-    [ "HandleScriptEffect", "dc/d0a/a22990.html#a6489e3a58421da7c448a24d6673564c5", null ],
-    [ "PrepareSpellScript", "dc/d0a/a22990.html#a5afd50fdc8393a12cd39a56c342f9179", null ],
-    [ "Register", "dc/d0a/a22990.html#a274d65aa393a65e19bbb67a5d07c7428", null ]
+    [ "LeechingThrowSelector", "dc/d0a/a22990.html#a4308c7be06e2e70d3a269b6dc78420cb", null ],
+    [ "operator()", "dc/d0a/a22990.html#a76c7746a9b0aee52201881c4d9572bde", null ],
+    [ "_source", "dc/d0a/a22990.html#a22a123333a8fbd50ccd4c37afe28d2f0", null ]
 ];

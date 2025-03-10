@@ -1,8 +1,10 @@
 var a09414 =
 [
-    [ "AllWorldObjectsInExactRange", "d8/d10/a09414.html#a0281d22587b9b1bdbfbdd8dccc625186", null ],
-    [ "operator()", "d8/d10/a09414.html#afe0bea69ddd5e275363361bf37284840", null ],
-    [ "_equals", "d8/d10/a09414.html#aebb4cb9e84cf91cca235fe663dba8d60", null ],
-    [ "_object", "d8/d10/a09414.html#a5fba0e3c7cde76bfe56f8e9e9716412b", null ],
-    [ "_range", "d8/d10/a09414.html#ae40de8ce49bb429243e5059b6d14398f", null ]
+    [ "GameObjectInRangeCheck", "d8/d10/a09414.html#a62075fc1b342fe6e40998dad928da71a", null ],
+    [ "operator()", "d8/d10/a09414.html#aa49818fa638dbd3909e5f563383346f2", null ],
+    [ "entry", "d8/d10/a09414.html#a9223c931b791ad689451f7f0c874b6a9", null ],
+    [ "range", "d8/d10/a09414.html#addf45c48385df26aa544957d7d24f1ec", null ],
+    [ "x", "d8/d10/a09414.html#af52ee33b2324eb80f4ad47f2eee1dbb5", null ],
+    [ "y", "d8/d10/a09414.html#a98acab0031dbf8b0a3943c3a6522c9d3", null ],
+    [ "z", "d8/d10/a09414.html#a814909bb047b8b0e0dd4f7ba0c479c64", null ]
 ];

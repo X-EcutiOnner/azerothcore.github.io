@@ -1,5 +1,6 @@
 var a27126 =
 [
-    [ "go_sacred_fire_of_life", "df/d42/a27126.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "df/d42/a27126.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "go_brewfest_musicAI", "dc/d22/a27130.html", "dc/d22/a27130" ],
+    [ "go_brewfest_music", "df/d42/a27126.html#a787963a5ee591933d62fdb52911f9a77", null ],
+    [ "GetAI", "df/d42/a27126.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
 ];

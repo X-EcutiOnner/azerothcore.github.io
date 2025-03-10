@@ -1,7 +1,7 @@
 var a18322 =
 [
-    [ "npc_valithria_portalAI", "d3/d3f/a18322.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "d3/d3f/a18322.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "d3/d3f/a18322.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "d3/d3f/a18322.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "ValithriaDespawner", "d3/d3f/a18322.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d3/d3f/a18322.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d3/d3f/a18322.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d3/d3f/a18322.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

@@ -1,6 +1,6 @@
 var a15734 =
 [
-    [ "npc_anub_ar_crusherAI", "da/d4a/a15738.html", "da/d4a/a15738" ],
-    [ "npc_anub_ar_crusher", "da/d84/a15734.html#a3397fab6358ce8c19aecaad734e0ef78", null ],
-    [ "GetAI", "da/d84/a15734.html#aeb8eb3e39612d0f7059f1910033cbbcc", null ]
+    [ "instance_ahnkahet_InstanceScript", "da/d4a/a15738.html", "da/d4a/a15738" ],
+    [ "instance_ahnkahet", "da/d84/a15734.html#afbe11bc040019231878cf31cc357830b", null ],
+    [ "GetInstanceScript", "da/d84/a15734.html#a8847099c88f11de363c45e27998f10b7", null ]
 ];

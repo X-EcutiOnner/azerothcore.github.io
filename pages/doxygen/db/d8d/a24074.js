@@ -1,11 +1,7 @@
 var a24074 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "db/d8d/a24074.html#af24a8d5ead256d158c86379e032aa889", null ],
-    [ "Reset", "db/d8d/a24074.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
-    [ "SetData", "db/d8d/a24074.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
-    [ "SpellHit", "db/d8d/a24074.html#a14523a24042d23efbafc7924f394dd04", null ],
-    [ "UpdateAI", "db/d8d/a24074.html#ae5cd38aa2a9cc1727141298323639660", null ],
-    [ "resetTimer", "db/d8d/a24074.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
-    [ "tapped", "db/d8d/a24074.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
-    [ "tuberGUID", "db/d8d/a24074.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
+    [ "o", "db/d8d/a24074.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "db/d8d/a24074.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "db/d8d/a24074.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "db/d8d/a24074.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

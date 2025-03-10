@@ -1,6 +1,6 @@
 var a21038 =
 [
-    [ "instance_utgarde_pinnacle_InstanceMapScript", "d8/d52/a21042.html", "d8/d52/a21042" ],
-    [ "instance_utgarde_pinnacle", "d0/df1/a21038.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
-    [ "GetInstanceScript", "d0/df1/a21038.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
+    [ "boss_skadi_graufAI", "d8/d52/a21042.html", "d8/d52/a21042" ],
+    [ "boss_skadi_grauf", "d0/df1/a21038.html#a571db2d2ae21f38b7051319da0f042f6", null ],
+    [ "GetAI", "d0/df1/a21038.html#a9b637a93a572d21691b81b80ec45206d", null ]
 ];

@@ -1,6 +1,11 @@
 var a22974 =
 [
-    [ "HandleEffectRemove", "da/df1/a22974.html#a9e578e576d8fa4198cf1f0e9f03ba47a", null ],
-    [ "PrepareAuraScript", "da/df1/a22974.html#a5fa56f4d61c63487919bb2080795e391", null ],
-    [ "Register", "da/df1/a22974.html#a2d0bbef8b32c688b7409837b426d9cd1", null ]
+    [ "boss_doomlordkazzakAI", "da/df1/a22974.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
+    [ "JustDied", "da/df1/a22974.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
+    [ "JustEngagedWith", "da/df1/a22974.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
+    [ "JustRespawned", "da/df1/a22974.html#a174912c149657f4d88446f4ac0631598", null ],
+    [ "KilledUnit", "da/df1/a22974.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
+    [ "Reset", "da/df1/a22974.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
+    [ "UpdateAI", "da/df1/a22974.html#a28a0a8345fcd5411491409854acef729", null ],
+    [ "_inBerserk", "da/df1/a22974.html#a996d17128aca96c00c8416957ebc24d0", null ]
 ];

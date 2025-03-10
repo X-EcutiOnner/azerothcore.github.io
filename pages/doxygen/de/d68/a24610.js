@@ -1,6 +1,7 @@
 var a24610 =
 [
-    [ "CheckCast", "de/d68/a24610.html#aefa91f15300520de7cffad4f4ca82ccf", null ],
-    [ "PrepareSpellScript", "de/d68/a24610.html#a605e7b8849186c3c2df731cac743a208", null ],
-    [ "Register", "de/d68/a24610.html#a62533bff915db8323b53352f17c4825f", null ]
+    [ "HandleProc", "de/d68/a24610.html#a1982ba611c17042d0bff8bac66280218", null ],
+    [ "PrepareAuraScript", "de/d68/a24610.html#a459fde61325e3aeb1e339670138aacce", null ],
+    [ "Register", "de/d68/a24610.html#a151f0e7f04a9ee01189de20686a15bc4", null ],
+    [ "Validate", "de/d68/a24610.html#af57da6008a6ff796487b2da68644104b", null ]
 ];

@@ -1,6 +1,6 @@
 var a18210 =
 [
-    [ "npc_spirit_wardenAI", "dd/d1d/a18214.html", "dd/d1d/a18214" ],
-    [ "npc_spirit_warden", "d3/d0f/a18210.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "d3/d0f/a18210.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "ModDestHeight", "d3/d0f/a18210.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "d3/d0f/a18210.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "d3/d0f/a18210.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

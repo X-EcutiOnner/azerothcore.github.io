@@ -1,8 +1,7 @@
 var a11926 =
 [
-    [ "boss_drakkisathAI", "d7/d40/a11926.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
-    [ "JustEngagedWith", "d7/d40/a11926.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
-    [ "UpdateAI", "d7/d40/a11926.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
-    [ "_conflagrateTarget", "d7/d40/a11926.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
-    [ "_conflagrateThreat", "d7/d40/a11926.html#aae3762b27c3d99b32f47293c544e4afe", null ]
+    [ "boss_okthorAI", "d7/d40/a11926.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
+    [ "JustEngagedWith", "d7/d40/a11926.html#a466a618e52f40e04e873dd50f3728755", null ],
+    [ "UpdateAI", "d7/d40/a11926.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
+    [ "nextArcaneExplosionTime", "d7/d40/a11926.html#a89d8cdd528775ee77caeac1d0465d4f2", null ]
 ];

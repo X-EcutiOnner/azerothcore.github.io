@@ -1,5 +1,7 @@
 var a27130 =
 [
-    [ "go_southfury_moonstone", "dc/d22/a27130.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
-    [ "OnGossipHello", "dc/d22/a27130.html#a4c0870f0e03708f1fdc073abadbe5de8", null ]
+    [ "go_brewfest_musicAI", "dc/d22/a27130.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "dc/d22/a27130.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "dc/d22/a27130.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "dc/d22/a27130.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

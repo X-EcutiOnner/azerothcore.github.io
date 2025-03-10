@@ -1,6 +1,6 @@
 var a20210 =
 [
-    [ "FilterTargets", "dd/d9f/a20210.html#ae8d940a89be9b63286911bd55dcd3844", null ],
-    [ "PrepareSpellScript", "dd/d9f/a20210.html#a8f4b4d82e53c8f820b620896478681a9", null ],
-    [ "Register", "dd/d9f/a20210.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
+    [ "boss_kologarnAI", "d9/d98/a20214.html", "d9/d98/a20214" ],
+    [ "boss_kologarn", "dd/d9f/a20210.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
+    [ "GetAI", "dd/d9f/a20210.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
 ];

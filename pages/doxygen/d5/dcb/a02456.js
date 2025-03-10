@@ -1,5 +1,5 @@
 var a02456 =
 [
-    [ "DBCStorageBase", "dc/d2f/a27568.html", "dc/d2f/a27568" ],
-    [ "DBCStorage< T >", "d7/d9e/a27572.html", "d7/d9e/a27572" ]
+    [ "AsyncAcceptor", "db/d59/a28310.html", "db/d59/a28310" ],
+    [ "ACORE_MAX_LISTEN_CONNECTIONS", "d5/dcb/a02456.html#af747a74d5d7546f9c862f3516a0c028f", null ]
 ];

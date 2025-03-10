@@ -1,8 +1,6 @@
 var a22482 =
 [
-    [ "FilterTargets", "d8/db9/a22482.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "d8/db9/a22482.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "d8/db9/a22482.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "d8/db9/a22482.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "d8/db9/a22482.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "d2/dad/a22486.html", "d2/dad/a22486" ],
+    [ "instance_auchenai_crypts", "d8/db9/a22482.html#a8b16924167c54a9d8120bac67bc10fed", null ],
+    [ "GetInstanceScript", "d8/db9/a22482.html#a99e47df95fde07d4a6e7687634805b93", null ]
 ];

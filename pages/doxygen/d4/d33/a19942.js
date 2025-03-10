@@ -1,6 +1,5 @@
 var a19942 =
 [
-    [ "boss_vezaxAI", "da/db1/a19946.html", "da/db1/a19946" ],
-    [ "boss_vezax", "d4/d33/a19942.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
-    [ "GetAI", "d4/d33/a19942.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
+    [ "boss_freya_iron_rootAI", "d4/d33/a19942.html#a5e982f5f41433f43a7a0e1d18e009b7b", null ],
+    [ "JustDied", "d4/d33/a19942.html#ad35297f0fa2039749b89d38c2b4f08b9", null ]
 ];

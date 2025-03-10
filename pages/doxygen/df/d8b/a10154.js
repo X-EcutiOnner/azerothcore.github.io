@@ -1,11 +1,13 @@
 var a10154 =
 [
-    [ "AllMapScript", "df/d8b/a10154.html#aea5284ac6b227dd44b83dc944e220f00", null ],
-    [ "OnBeforeCreateInstanceScript", "df/d8b/a10154.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
-    [ "OnCreateMap", "df/d8b/a10154.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
-    [ "OnDestroyInstance", "df/d8b/a10154.html#a990130b4cd594c1cd04368aea300a49e", null ],
-    [ "OnDestroyMap", "df/d8b/a10154.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
-    [ "OnMapUpdate", "df/d8b/a10154.html#a6edbb719d998c57caba09eef7ad559e0", null ],
-    [ "OnPlayerEnterAll", "df/d8b/a10154.html#a42e4af596effb07a00b353164f32cec9", null ],
-    [ "OnPlayerLeaveAll", "df/d8b/a10154.html#adcfd501bee055317bff2a63ef28c3eab", null ]
+    [ "AccountScript", "df/d8b/a10154.html#a3720bf412499a13ba4b41fc5c9f96b7c", null ],
+    [ "CanAccountCreateCharacter", "df/d8b/a10154.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
+    [ "OnAccountLogin", "df/d8b/a10154.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
+    [ "OnBeforeAccountDelete", "df/d8b/a10154.html#a631f7deca08644da2613142c667618a8", null ],
+    [ "OnEmailChange", "df/d8b/a10154.html#adf20bd20cdc97b91db664dca95f82670", null ],
+    [ "OnFailedAccountLogin", "df/d8b/a10154.html#aae3401d74bdc9e8328a5f084462ae740", null ],
+    [ "OnFailedEmailChange", "df/d8b/a10154.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
+    [ "OnFailedPasswordChange", "df/d8b/a10154.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
+    [ "OnLastIpUpdate", "df/d8b/a10154.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
+    [ "OnPasswordChange", "df/d8b/a10154.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
 ];

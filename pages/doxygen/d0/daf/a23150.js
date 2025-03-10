@@ -1,7 +1,11 @@
 var a23150 =
 [
-    [ "HandleScriptEffect", "d0/daf/a23150.html#ad5e905710a20436f120c979c865571c9", null ],
-    [ "PrepareSpellScript", "d0/daf/a23150.html#ab44aa98f47162b50f30622d67ac75395", null ],
-    [ "Register", "d0/daf/a23150.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
-    [ "Validate", "d0/daf/a23150.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
+    [ "boss_ahune", "d0/daf/a23150.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "d0/daf/a23150.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "d0/daf/a23150.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "d0/daf/a23150.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "d0/daf/a23150.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "d0/daf/a23150.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "d0/daf/a23150.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "d0/daf/a23150.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

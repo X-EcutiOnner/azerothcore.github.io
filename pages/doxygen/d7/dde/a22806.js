@@ -1,6 +1,6 @@
 var a22806 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "d7/dde/a22806.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "d7/dde/a22806.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "d7/dde/a22806.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "HandleEffectRemove", "d7/dde/a22806.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
+    [ "PrepareAuraScript", "d7/dde/a22806.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
+    [ "Register", "d7/dde/a22806.html#acd7e22159d262a9888c744eecb978c09", null ]
 ];

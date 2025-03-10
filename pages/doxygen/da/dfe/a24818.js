@@ -1,6 +1,6 @@
 var a24818 =
 [
-    [ "CheckAreaTarget", "da/dfe/a24818.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
-    [ "PrepareAuraScript", "da/dfe/a24818.html#afbc45652033397067a439b45afd2e90e", null ],
-    [ "Register", "da/dfe/a24818.html#aa24679e1243470056f74249e1b26767d", null ]
+    [ "CheckProc", "da/dfe/a24818.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
+    [ "PrepareAuraScript", "da/dfe/a24818.html#a861caa47c502c42fa84d9f9de74df024", null ],
+    [ "Register", "da/dfe/a24818.html#ab4275de186b6841a1f424863cb6c128c", null ]
 ];

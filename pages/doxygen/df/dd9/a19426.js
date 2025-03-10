@@ -1,5 +1,6 @@
 var a19426 =
 [
-    [ "boss_sjonnir_dwarfAI", "df/dd9/a19426.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
-    [ "UpdateAI", "df/dd9/a19426.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "de/db7/a19430.html", "de/db7/a19430" ],
+    [ "instance_halls_of_lightning", "df/dd9/a19426.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "df/dd9/a19426.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

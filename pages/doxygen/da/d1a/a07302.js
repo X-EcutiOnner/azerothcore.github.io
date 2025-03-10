@@ -1,9 +1,12 @@
 var a07302 =
 [
-    [ "CapturePointInfo", "da/d1a/a07302.html#a47ba3bbadd15909726e87dc5adc67686", null ],
-    [ "_captured", "da/d1a/a07302.html#aac26833d9951853183095b3985254e03", null ],
-    [ "_iconCapture", "da/d1a/a07302.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
-    [ "_iconNone", "da/d1a/a07302.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
-    [ "_ownerTeamId", "da/d1a/a07302.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
-    [ "_state", "da/d1a/a07302.html#a98cb154218423e295b8007c62222831c", null ]
+    [ "NodeId", "da/d1a/a07302.html#a039c468fa0b6110809f0617496c0146c", null ],
+    [ "TextAllianceAssaulted", "da/d1a/a07302.html#a345b2ce7c48e9d10d03ff484a0108389", null ],
+    [ "TextAllianceClaims", "da/d1a/a07302.html#a0671602a29f33e353a8a339540beae18", null ],
+    [ "TextAllianceDefended", "da/d1a/a07302.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250", null ],
+    [ "TextAllianceTaken", "da/d1a/a07302.html#a281a0378999ed5966f5d28cc4310fbcd", null ],
+    [ "TextHordeAssaulted", "da/d1a/a07302.html#a7fb668b0b9563bb0779bf4a5daefded8", null ],
+    [ "TextHordeClaims", "da/d1a/a07302.html#acddac09017717cf5b2893ab83e1d10c8", null ],
+    [ "TextHordeDefended", "da/d1a/a07302.html#a00cea010cfe6fb9702e5cb00003e5bef", null ],
+    [ "TextHordeTaken", "da/d1a/a07302.html#a2bbd1b49b9b72784d07be9db2a27fe77", null ]
 ];

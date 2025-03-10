@@ -1,11 +1,8 @@
 var a20442 =
 [
-    [ "boss_thorim_lightning_orbAI", "d8/df3/a20442.html#a14d4b9f445abfaba77bcfc52173ff705", null ],
-    [ "AttackStart", "d8/df3/a20442.html#a88a885b96016788f8011dd1d3d44d992", null ],
-    [ "EnterEvadeMode", "d8/df3/a20442.html#a04bc99d1bd16f8297e7da8902e4bcaab", null ],
-    [ "InitWaypoint", "d8/df3/a20442.html#a420217dd9e482edc24a87dead2753321", null ],
-    [ "MoveInLineOfSight", "d8/df3/a20442.html#a0ee02cdd5cedf8a6565493b9812e88ae", null ],
-    [ "Reset", "d8/df3/a20442.html#a4e410303d287a4c827c279a4e7c3ca99", null ],
-    [ "WaypointReached", "d8/df3/a20442.html#a141659a0ebbcc097f0f03dec30dad2ca", null ],
-    [ "Timer", "d8/df3/a20442.html#ac251df35736ae44e08f82ae7bbe8fc15", null ]
+    [ "npc_ulduar_dark_rune_guardianAI", "d8/df3/a20442.html#aedb43124c923621aadecb77511204fc6", null ],
+    [ "CanAIAttack", "d8/df3/a20442.html#af23cb4a19d28f5aa57ba96de95f87c87", null ],
+    [ "Reset", "d8/df3/a20442.html#a4c1f53fbbc6189ca9ee0420bc4198684", null ],
+    [ "UpdateAI", "d8/df3/a20442.html#ad21127654d5511b6b1d9b22cdd77bd08", null ],
+    [ "timer2", "d8/df3/a20442.html#aa66f1aa48cf928ac12751cb3ca2358f3", null ]
 ];

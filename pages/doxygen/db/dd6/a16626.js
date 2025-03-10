@@ -1,8 +1,17 @@
 var a16626 =
 [
-    [ "npc_fos_leaderAI", "d4/d8f/a16630.html", "d4/d8f/a16630" ],
-    [ "npc_fos_leader", "db/dd6/a16626.html#a4223072bc180e990ff9e01bf772def5b", null ],
-    [ "GetAI", "db/dd6/a16626.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
-    [ "OnGossipHello", "db/dd6/a16626.html#a3858054505d439902624378b9355f40d", null ],
-    [ "OnGossipSelect", "db/dd6/a16626.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
+    [ "boss_bronjahmAI", "db/dd6/a16626.html#a1cf523f4d7d23187fbc44efee4ca9ea3", null ],
+    [ "DamageTaken", "db/dd6/a16626.html#addd45cd8ecccaf5e0f2fd3f08282af28", null ],
+    [ "EnterEvadeMode", "db/dd6/a16626.html#aafe8adec1b16ecb324f81ac954889e2a", null ],
+    [ "JustDied", "db/dd6/a16626.html#aec27198e51022639fd002879d8afa40d", null ],
+    [ "JustEngagedWith", "db/dd6/a16626.html#a60719369456cb55155966ccefffe49ba", null ],
+    [ "JustReachedHome", "db/dd6/a16626.html#adacba5b04f9d0c273226f055a19c0b16", null ],
+    [ "JustSummoned", "db/dd6/a16626.html#a97836e7dbe9670fc5c08339bee5e4608", null ],
+    [ "KilledUnit", "db/dd6/a16626.html#a7d338c31c1ec906f0395f4dfbe88448a", null ],
+    [ "Reset", "db/dd6/a16626.html#a553dd0d2dd6f074bc03415f81254bc2b", null ],
+    [ "SpellHitTarget", "db/dd6/a16626.html#afdc24fb0a530813e1a6618f469911f89", null ],
+    [ "UpdateAI", "db/dd6/a16626.html#a883e2672d391fcc3fd643f550e3a9d45", null ],
+    [ "events", "db/dd6/a16626.html#a092d2b12172f7c303bc2b0b51ecc1834", null ],
+    [ "pInstance", "db/dd6/a16626.html#aa9f0c2b3e420b61e922af48be84d20d7", null ],
+    [ "summons", "db/dd6/a16626.html#ad8b011080db0d4829fbbde4739371d36", null ]
 ];

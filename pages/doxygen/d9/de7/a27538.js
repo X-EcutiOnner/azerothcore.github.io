@@ -1,6 +1,6 @@
 var a27538 =
 [
-    [ "X", "d9/de7/a27538.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "d9/de7/a27538.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "d9/de7/a27538.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "npc_venomhide_hatchlingAI", "d9/de7/a27538.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d9/de7/a27538.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d9/de7/a27538.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

@@ -1,5 +1,6 @@
 var a23934 =
 [
-    [ "at_commander_dawnforge", "d5/dc6/a23934.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d5/dc6/a23934.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "go_magtheridons_head", "d5/dc6/a23934.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "d5/dc6/a23934.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "d5/dc6/a23934.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

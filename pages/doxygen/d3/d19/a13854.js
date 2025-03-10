@@ -1,10 +1,5 @@
 var a13854 =
 [
-    [ "npc_batrider", "d3/d19/a13854.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
-    [ "DamageTaken", "d3/d19/a13854.html#ad4818b1363082a91223526908c38777c", null ],
-    [ "JustEngagedWith", "d3/d19/a13854.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
-    [ "Reset", "d3/d19/a13854.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
-    [ "UpdateAI", "d3/d19/a13854.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
-    [ "_mode", "d3/d19/a13854.html#acd53ec78a754219511af1ad2f11422a9", null ],
-    [ "_scheduler", "d3/d19/a13854.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
+    [ "at_zulgurub_bridge_speech", "d3/d19/a13854.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
+    [ "_OnTrigger", "d3/d19/a13854.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
 ];

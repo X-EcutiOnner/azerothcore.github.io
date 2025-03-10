@@ -1,6 +1,6 @@
 var a13322 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "dd/d3d/a13326.html", "dd/d3d/a13326" ],
-    [ "instance_the_stockade", "d5/dac/a13322.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "d5/dac/a13322.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "npc_singularity", "d5/dac/a13322.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "Reset", "d5/dac/a13322.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "d5/dac/a13322.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

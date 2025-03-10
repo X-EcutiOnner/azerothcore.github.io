@@ -1,5 +1,6 @@
 var a21998 =
 [
-    [ "go_pressure_valve", "d6/d9b/a21998.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
-    [ "OnGossipHello", "d6/d9b/a21998.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
+    [ "npc_tournament_training_dummyAI", "d5/def/a22002.html", "d5/def/a22002" ],
+    [ "npc_tournament_training_dummy", "d6/d9b/a21998.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
+    [ "GetAI", "d6/d9b/a21998.html#a31257c155c3a49c69771156800cf6340", null ]
 ];

@@ -1,8 +1,12 @@
 var a13674 =
 [
-    [ "FilterTargets", "d4/dfd/a13674.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "d4/dfd/a13674.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "d4/dfd/a13674.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "d4/dfd/a13674.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "d4/dfd/a13674.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "npc_akilzon_eagle", "d4/dfd/a13674.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
+    [ "JustEngagedWith", "d4/dfd/a13674.html#aa5c3d77a1086ad90397d47f081b25476", null ],
+    [ "MoveInLineOfSight", "d4/dfd/a13674.html#adefd384b8a273ca52343d836a399f3cb", null ],
+    [ "MovementInform", "d4/dfd/a13674.html#abf69be0c32356e65e6d451c33fb389f0", null ],
+    [ "Reset", "d4/dfd/a13674.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
+    [ "UpdateAI", "d4/dfd/a13674.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
+    [ "arrived", "d4/dfd/a13674.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
+    [ "EagleSwoop_Timer", "d4/dfd/a13674.html#a37a5861ef690729e2a8bfafddce168be", null ],
+    [ "TargetGUID", "d4/dfd/a13674.html#a14d4f82f932569d24f6014ad39640619", null ]
 ];

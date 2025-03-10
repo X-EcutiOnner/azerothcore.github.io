@@ -1,7 +1,8 @@
 var a22518 =
 [
-    [ "HandleOnHit", "d9/d53/a22518.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "d9/d53/a22518.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "d9/d53/a22518.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "d9/d53/a22518.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "npc_anzu_spirit", "d9/d53/a22518.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "d9/d53/a22518.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "d9/d53/a22518.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "d9/d53/a22518.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "d9/d53/a22518.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

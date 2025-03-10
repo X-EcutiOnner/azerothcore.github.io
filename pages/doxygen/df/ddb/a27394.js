@@ -1,7 +1,7 @@
 var a27394 =
 [
-    [ "npc_doctorAI", "db/d55/a27398.html", "db/d55/a27398" ],
-    [ "npc_doctor", "df/ddb/a27394.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
-    [ "GetAI", "df/ddb/a27394.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
-    [ "OnQuestAccept", "df/ddb/a27394.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
+    [ "npc_riggle_bassbaitAI", "df/ddb/a27394.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "df/ddb/a27394.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "df/ddb/a27394.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "df/ddb/a27394.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

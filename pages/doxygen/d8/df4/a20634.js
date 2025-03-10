@@ -1,6 +1,6 @@
 var a20634 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "d5/dc2/a20638.html", "d5/dc2/a20638" ],
-    [ "boss_yoggsaron_guardian_of_ys", "d8/df4/a20634.html#a299b346a4e9ac5190d554702dcf00faf", null ],
-    [ "GetAI", "d8/df4/a20634.html#a86380b3ad87e0070541d22d3fb74058f", null ]
+    [ "PrepareSpellScript", "d8/df4/a20634.html#a525025d429743f9d606289ca1a660796", null ],
+    [ "Register", "d8/df4/a20634.html#a66f565c07d495f27aaba393fdcce9d24", null ],
+    [ "SelectTarget", "d8/df4/a20634.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
 ];

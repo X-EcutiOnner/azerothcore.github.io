@@ -1,6 +1,9 @@
 var a14058 =
 [
-    [ "CheckItem", "d5/da0/a14058.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
-    [ "PrepareSpellScript", "d5/da0/a14058.html#a0fa160f1218cf838444f894716cb8aed", null ],
-    [ "Register", "d5/da0/a14058.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
+    [ "HandleEffectPeriodic", "d5/da0/a14058.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
+    [ "HandleEffectRemove", "d5/da0/a14058.html#a96ed7366e568b70e82d622586740aa56", null ],
+    [ "Load", "d5/da0/a14058.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
+    [ "PrepareAuraScript", "d5/da0/a14058.html#abd1f851112a50b79e815cdd894275bab", null ],
+    [ "Register", "d5/da0/a14058.html#aa3cd85aed063017c4737e7660fa81f37", null ],
+    [ "questTick", "d5/da0/a14058.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
 ];

@@ -1,8 +1,8 @@
 var a13278 =
 [
-    [ "boss_muru", "d2/d7f/a13278.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
-    [ "DamageTaken", "d2/d7f/a13278.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
-    [ "JustEngagedWith", "d2/d7f/a13278.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
-    [ "JustSummoned", "d2/d7f/a13278.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
-    [ "Reset", "d2/d7f/a13278.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
+    [ "FilterTargets", "d2/d7f/a13278.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
+    [ "HandleScriptEffect", "d2/d7f/a13278.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
+    [ "PrepareSpellScript", "d2/d7f/a13278.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
+    [ "Register", "d2/d7f/a13278.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
+    [ "Validate", "d2/d7f/a13278.html#a5493864b068de82015bc157f3d0899b3", null ]
 ];

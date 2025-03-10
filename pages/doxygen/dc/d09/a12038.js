@@ -1,5 +1,6 @@
 var a12038 =
 [
-    [ "at_trigger_the_beast_movement", "dc/d09/a12038.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
-    [ "OnTrigger", "dc/d09/a12038.html#a333d685d765497a950fde35067d876a1", null ]
+    [ "npc_rookery_hatcherAI", "dd/d8c/a12042.html", "dd/d8c/a12042" ],
+    [ "npc_rookery_hatcher", "dc/d09/a12038.html#aa385f8a93384d4db9b92eecd1b152ce0", null ],
+    [ "GetAI", "dc/d09/a12038.html#a76e27f10dd58ec15a8e8f9d579f1c176", null ]
 ];

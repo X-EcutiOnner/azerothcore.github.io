@@ -1,6 +1,5 @@
 var a19090 =
 [
-    [ "npc_hover_diskAI", "d1/d49/a19094.html", "d1/d49/a19094" ],
-    [ "npc_hover_disk", "dc/da4/a19090.html#af0ab534387a2af4e168915801ee855e5", null ],
-    [ "GetAI", "dc/da4/a19090.html#adbe9285126089ca998e9b6360f42c553", null ]
+    [ "at_naxxramas_hub_portal", "dc/da4/a19090.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "dc/da4/a19090.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

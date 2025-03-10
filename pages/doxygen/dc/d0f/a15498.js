@@ -1,7 +1,12 @@
 var a15498 =
 [
-    [ "npc_lakota_windsongAI", "dc/d0f/a15498.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "dc/d0f/a15498.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "dc/d0f/a15498.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "dc/d0f/a15498.html#a6435c8b1521206789131889e5fa527a6", null ]
+    [ "npc_toogaAI", "dc/d0f/a15498.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
+    [ "MoveInLineOfSight", "dc/d0f/a15498.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
+    [ "MovementInform", "dc/d0f/a15498.html#a9315e8ba2688903aaf5b871a7490a700", null ],
+    [ "Reset", "dc/d0f/a15498.html#acfedaf5cc989451a4259a65661685f66", null ],
+    [ "UpdateFollowerAI", "dc/d0f/a15498.html#a742791e714be1ff713ab87e7d515bd9e", null ],
+    [ "CheckSpeechTimer", "dc/d0f/a15498.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
+    [ "PhasePostEvent", "dc/d0f/a15498.html#a4996291afa64e35f3604b2a85ea03dda", null ],
+    [ "PostEventTimer", "dc/d0f/a15498.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
+    [ "TortaGUID", "dc/d0f/a15498.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
 ];

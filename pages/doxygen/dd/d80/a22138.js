@@ -1,9 +1,12 @@
 var a22138 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "d8/d2b/a22142.html", "d8/d2b/a22142" ],
-    [ "NPCs", "dd/d80/a22138.html#a8f2ea95c836ba6bab370301fbf3e6822", [
-      [ "NPC_HYLDSMEET_DRAKERIDER", "dd/d80/a22138.html#a8f2ea95c836ba6bab370301fbf3e6822a1b77c38a75142cff5392a89db3e765df", null ]
-    ] ],
-    [ "npc_hyldsmeet_protodrake", "dd/d80/a22138.html#a2471f1d858d7ae8f801208e35860a95e", null ],
-    [ "GetAI", "dd/d80/a22138.html#a791e5cff3901f9a3ec365d4049b82d25", null ]
+    [ "npc_time_lost_proto_drakeAI", "dd/d80/a22138.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "JustEngagedWith", "dd/d80/a22138.html#a14f41b30451b8ac8fe2411ec7102ae81", null ],
+    [ "Reset", "dd/d80/a22138.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "RollPath", "dd/d80/a22138.html#aabb3dd1d54a1290d500429efc8fa9e41", null ],
+    [ "UpdateEscortAI", "dd/d80/a22138.html#a1a5442a5796b27d04eaa3ab62c613199", null ],
+    [ "WaypointReached", "dd/d80/a22138.html#ad262b9dbc0edd2bac126fafbb5eb5f01", null ],
+    [ "events", "dd/d80/a22138.html#aa2e4c3396d63d85a5d0abc8c74e58a79", null ],
+    [ "rollPath", "dd/d80/a22138.html#a5431fd5a0801569bc03507818461aa7d", null ],
+    [ "setVisible", "dd/d80/a22138.html#a63558b3406c241ecb27f3e485eeb439b", null ]
 ];

@@ -1,7 +1,6 @@
 var a22534 =
 [
-    [ "HandleProc", "da/de5/a22534.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
-    [ "PrepareAuraScript", "da/de5/a22534.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
-    [ "Register", "da/de5/a22534.html#a6b764182501a1d192f90dc20bbd6549e", null ],
-    [ "Validate", "da/de5/a22534.html#ad89123425cca5bd02a18526a11595a1a", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "d6/d1d/a22538.html", "d6/d1d/a22538" ],
+    [ "instance_sethekk_halls", "da/de5/a22534.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "da/de5/a22534.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

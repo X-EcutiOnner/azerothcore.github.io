@@ -1,8 +1,9 @@
 var a26118 =
 [
-    [ "HandleDummy", "db/d28/a26118.html#ae396c96647e36da357bdc70e11e3145f", null ],
-    [ "Load", "db/d28/a26118.html#a2b4811bf7e60361e13bc382e62173cee", null ],
-    [ "PrepareSpellScript", "db/d28/a26118.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
-    [ "Register", "db/d28/a26118.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
-    [ "count", "db/d28/a26118.html#a73358b2272ad12faef006b1ef633cac0", null ]
+    [ "CheckProc", "db/d28/a26118.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
+    [ "HandleDispel", "db/d28/a26118.html#a64235032423050de10581165c57f8b0a", null ],
+    [ "HandleProc", "db/d28/a26118.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
+    [ "PrepareAuraScript", "db/d28/a26118.html#af7ba0eb96dca76a288dd034665822069", null ],
+    [ "Register", "db/d28/a26118.html#ababc8b42c64740655864d2834a639384", null ],
+    [ "Validate", "db/d28/a26118.html#a03ecf2489369cbb7a6dff555db153a96", null ]
 ];

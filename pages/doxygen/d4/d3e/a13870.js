@@ -1,9 +1,8 @@
 var a13870 =
 [
-    [ "npc_shade_of_jindo", "d4/d3e/a13870.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
-    [ "IsSummonedBy", "d4/d3e/a13870.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
-    [ "JustEngagedWith", "d4/d3e/a13870.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
-    [ "Reset", "d4/d3e/a13870.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
-    [ "UpdateAI", "d4/d3e/a13870.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
-    [ "_scheduler", "d4/d3e/a13870.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
+    [ "FilterTargets", "d4/d3e/a13870.html#a28450a72f3d8510bdf35390f56a67f71", null ],
+    [ "HandleScriptEffect", "d4/d3e/a13870.html#af97c3c43da4b099bc37e2cf4f2733dce", null ],
+    [ "PrepareSpellScript", "d4/d3e/a13870.html#ac9298a59bc8b9735c210b630c68a536e", null ],
+    [ "Register", "d4/d3e/a13870.html#a3bfc71bb504a0eb0f63ff307c943c23e", null ],
+    [ "Validate", "d4/d3e/a13870.html#a41b2f12ebf919b781fdefab3a42bdb84", null ]
 ];

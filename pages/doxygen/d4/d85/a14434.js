@@ -1,6 +1,6 @@
 var a14434 =
 [
-    [ "FilterTargets", "d4/d85/a14434.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
-    [ "PrepareSpellScript", "d4/d85/a14434.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
-    [ "Register", "d4/d85/a14434.html#a6375482bd9d1fc6c6941607273c506dc", null ]
+    [ "HandleTriggerSpell", "d4/d85/a14434.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
+    [ "PrepareSpellScript", "d4/d85/a14434.html#a76a070da8e719198463010499f595599", null ],
+    [ "Register", "d4/d85/a14434.html#ae237c4972167a5a17b59800983496a9d", null ]
 ];

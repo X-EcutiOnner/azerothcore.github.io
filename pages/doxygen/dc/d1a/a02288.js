@@ -1,11 +1,5 @@
 var a02288 =
 [
-    [ "BaseGain", "dc/d1a/a02288.html#ada8e56c81ab672d85f2ff274d109e477", null ],
-    [ "Gain", "dc/d1a/a02288.html#ab923dd9a0df7d75127965b40539d4a10", null ],
-    [ "GetColorCode", "dc/d1a/a02288.html#a812c722ab7eb34807d8cad9659d34245", null ],
-    [ "GetGrayLevel", "dc/d1a/a02288.html#a9c310a4423fd5ada14fac549e4b1a6fd", null ],
-    [ "GetZeroDifference", "dc/d1a/a02288.html#a4152e9ef9972f6a20cbc990dce953c36", null ],
-    [ "hk_honor_at_level", "dc/d1a/a02288.html#ad25519337dcc6370a39a072c53386f55", null ],
-    [ "hk_honor_at_level_f", "dc/d1a/a02288.html#a218866625f1b3b8224fb44f5a0c8b416", null ],
-    [ "xp_in_group_rate", "dc/d1a/a02288.html#a304088bebc0743c764589112d2ba3b7f", null ]
+    [ "achievIdByArenaSlot", "dc/d1a/a02288.html#a5264f22d916c9472e9a16ac52140f87c", null ],
+    [ "achievIdForDungeon", "dc/d1a/a02288.html#ac50d520adf892744d066d8c5187046b0", null ]
 ];

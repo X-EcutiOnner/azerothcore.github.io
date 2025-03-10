@@ -1,10 +1,8 @@
 var a27390 =
 [
-    [ "npc_dancing_flamesAI", "d5/d36/a27390.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "d5/d36/a27390.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "d5/d36/a27390.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "d5/d36/a27390.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "d5/d36/a27390.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "d5/d36/a27390.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "d5/d36/a27390.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "npc_riggle_bassbaitAI", "df/ddb/a27394.html", "df/ddb/a27394" ],
+    [ "npc_riggle_bassbait", "d5/d36/a27390.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "d5/d36/a27390.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "d5/d36/a27390.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "d5/d36/a27390.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

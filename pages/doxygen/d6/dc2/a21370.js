@@ -1,6 +1,8 @@
 var a21370 =
 [
-    [ "npc_captured_beryl_sorcererAI", "d1/da8/a21374.html", "d1/da8/a21374" ],
-    [ "npc_captured_beryl_sorcerer", "d6/dc2/a21370.html#ace67e76e96e3be9fa5976dc4c90041e6", null ],
-    [ "GetAI", "d6/dc2/a21370.html#aa5a31390ff3c6277ebff2a5eebe72b3d", null ]
+    [ "HandleEffectRemove", "d6/dc2/a21370.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d6/dc2/a21370.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d6/dc2/a21370.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d6/dc2/a21370.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d6/dc2/a21370.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

@@ -1,10 +1,10 @@
 var a14522 =
 [
-    [ "npc_hyjal_frost_wyrm", "da/d82/a14522.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "da/d82/a14522.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "da/d82/a14522.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "da/d82/a14522.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "da/d82/a14522.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "da/d82/a14522.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "da/d82/a14522.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "boss_rage_winterchill", "da/d82/a14522.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "da/d82/a14522.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "da/d82/a14522.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "da/d82/a14522.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "da/d82/a14522.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "da/d82/a14522.html#aec47befdf3246710a5158780fa797fa7", null ],
+    [ "_recentlySpoken", "da/d82/a14522.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
 ];

@@ -1,6 +1,6 @@
 var a20262 =
 [
-    [ "npc_ulduar_proximity_mineAI", "df/de1/a20266.html", "df/de1/a20266" ],
-    [ "npc_ulduar_proximity_mine", "d5/d11/a20262.html#ac33beb07e17712cdda1b3434d9dc8222", null ],
-    [ "GetAI", "d5/d11/a20262.html#a7d8237b965699004f9df731e357b4020", null ]
+    [ "OnPeriodic", "d5/d11/a20262.html#a8a12342f694499043e8ed4446fd92d36", null ],
+    [ "PrepareAuraScript", "d5/d11/a20262.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
+    [ "Register", "d5/d11/a20262.html#a381709d53101832de6b2161c4a33a0d4", null ]
 ];

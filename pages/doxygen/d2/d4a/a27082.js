@@ -1,7 +1,5 @@
 var a27082 =
 [
-    [ "go_brewfest_musicAI", "d2/d4a/a27082.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
-    [ "UpdateAI", "d2/d4a/a27082.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
-    [ "_currentMusicEvent", "d2/d4a/a27082.html#ad26a0309bdd4eafce4dfa310db929357", null ],
-    [ "_events", "d2/d4a/a27082.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
+    [ "go_resonite_cask", "d2/d4a/a27082.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
+    [ "OnGossipHello", "d2/d4a/a27082.html#aae8591d53a6983886b52d404acdba293", null ]
 ];

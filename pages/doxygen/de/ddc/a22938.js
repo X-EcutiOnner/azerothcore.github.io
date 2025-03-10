@@ -1,12 +1,7 @@
 var a22938 =
 [
-    [ "boss_fathomlord_karathress", "de/ddc/a22938.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "de/ddc/a22938.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "de/ddc/a22938.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "de/ddc/a22938.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "de/ddc/a22938.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "de/ddc/a22938.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "de/ddc/a22938.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "de/ddc/a22938.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "de/ddc/a22938.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "PrepareAuraScript", "de/ddc/a22938.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
+    [ "Register", "de/ddc/a22938.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
+    [ "Update", "de/ddc/a22938.html#a3f98767367564734c9877d1870aac31b", null ],
+    [ "Validate", "de/ddc/a22938.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
 ];

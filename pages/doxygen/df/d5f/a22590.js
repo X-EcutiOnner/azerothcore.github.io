@@ -1,7 +1,6 @@
 var a22590 =
 [
-    [ "HandleEffectRemove", "df/d5f/a22590.html#a09124a4351930a35e33359e95ca88580", null ],
-    [ "PrepareAuraScript", "df/d5f/a22590.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
-    [ "Register", "df/d5f/a22590.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
-    [ "Validate", "df/d5f/a22590.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
+    [ "FilterTargets", "df/d5f/a22590.html#abd3fafc2120b7069790dd9822cd62adc", null ],
+    [ "PrepareSpellScript", "df/d5f/a22590.html#aebc0441481a2c458fc904175df931a9e", null ],
+    [ "Register", "df/d5f/a22590.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
 ];

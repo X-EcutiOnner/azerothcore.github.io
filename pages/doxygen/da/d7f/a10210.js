@@ -1,7 +1,15 @@
 var a10210 =
 [
-    [ "DatabaseScript", "da/d7f/a10210.html#aab34b85df1a5ccdf17fede64baca4994", null ],
-    [ "IsDatabaseBound", "da/d7f/a10210.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
-    [ "OnAfterDatabaseLoadCreatureTemplates", "da/d7f/a10210.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
-    [ "OnAfterDatabasesLoaded", "da/d7f/a10210.html#ab52afc833cb462693f5e0d79cff6bb3f", null ]
+    [ "AuctionHouseScript", "da/d7f/a10210.html#af3e9ec3b9834f9d72106430af40e8727", null ],
+    [ "OnAuctionAdd", "da/d7f/a10210.html#a39d172304de882d87f87e14d1df107da", null ],
+    [ "OnAuctionExpire", "da/d7f/a10210.html#a32e9d0decc7d341198accc84dbc4e1ab", null ],
+    [ "OnAuctionRemove", "da/d7f/a10210.html#aed67026e34ef7e8dd4d975d0b0620463", null ],
+    [ "OnAuctionSuccessful", "da/d7f/a10210.html#a57f1ea958e80a30031eded088dd3c8af", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionCancelledToBidderMail", "da/d7f/a10210.html#a067633221bf8e745c9ae7c4abee13fba", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionExpiredMail", "da/d7f/a10210.html#a622ac5271fb3a5ecf6444fb7fde17ed9", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionOutbiddedMail", "da/d7f/a10210.html#acfc00998027675d76436d4d05f578f8c", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionSalePendingMail", "da/d7f/a10210.html#a3bb999a955b7b8670264c859094fe9a0", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionSuccessfulMail", "da/d7f/a10210.html#a0ae714b1349e20e4303523fd551874b3", null ],
+    [ "OnBeforeAuctionHouseMgrSendAuctionWonMail", "da/d7f/a10210.html#a050a47e57df42faa26c8d500b7848ecf", null ],
+    [ "OnBeforeAuctionHouseMgrUpdate", "da/d7f/a10210.html#a6b7ee2a551424c5a8442ce089d0fd1fc", null ]
 ];

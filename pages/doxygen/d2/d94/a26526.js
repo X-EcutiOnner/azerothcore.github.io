@@ -1,8 +1,9 @@
 var a26526 =
 [
-    [ "ApplyDebuff", "d2/d94/a26526.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
-    [ "PrepareSpellScript", "d2/d94/a26526.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
-    [ "Register", "d2/d94/a26526.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
-    [ "RemoveInvalidTargets", "d2/d94/a26526.html#a1374c764b20b95febbca44c593bde218", null ],
-    [ "Validate", "d2/d94/a26526.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
+    [ "Absorb", "d2/d94/a26526.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
+    [ "CalculateAmount", "d2/d94/a26526.html#a820c27c2161063307a10903cbbc5c0fa", null ],
+    [ "Load", "d2/d94/a26526.html#a7b71990051faaa083110408c13b8401f", null ],
+    [ "PrepareAuraScript", "d2/d94/a26526.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
+    [ "Register", "d2/d94/a26526.html#aa443ab0eed74229883884fbced0426d7", null ],
+    [ "absorbPct", "d2/d94/a26526.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
 ];

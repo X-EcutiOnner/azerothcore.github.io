@@ -1,8 +1,6 @@
 var a17258 =
 [
-    [ "npc_high_overlord_saurfangAI", "d7/dfc/a17262.html", "d7/dfc/a17262" ],
-    [ "npc_high_overlord_saurfang_icc", "d0/d37/a17258.html#ac02fe80550572e142406c2d80c0392df", null ],
-    [ "GetAI", "d0/d37/a17258.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
-    [ "OnGossipHello", "d0/d37/a17258.html#a515a87f751527412222cfdd968febe7c", null ],
-    [ "OnGossipSelect", "d0/d37/a17258.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
+    [ "BloodboltHitCheck", "d0/d37/a17258.html#a84873f1ec2c1e214e35d32954622e9af", null ],
+    [ "operator()", "d0/d37/a17258.html#a1eddfd7bbea8def20dcc080413af6364", null ],
+    [ "_ai", "d0/d37/a17258.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
 ];

@@ -1,21 +1,14 @@
 var a16422 =
 [
-    [ "boss_twin_valkyrAI", "d6/d8e/a16422.html#a3a10c07715e5ef03c28f132df18e80bd", null ],
-    [ "DoAction", "d6/d8e/a16422.html#a1a9c9f90108d203c2aca8c401763936f", null ],
-    [ "EnterEvadeMode", "d6/d8e/a16422.html#a624969393687e10c2f8fca72d9394265", null ],
-    [ "GetSister", "d6/d8e/a16422.html#a0c0998e2d4981dd3a1e2580497c1f3ef", null ],
-    [ "JustDied", "d6/d8e/a16422.html#ad3ac59a0c0477a0819fd799b3bc305f6", null ],
-    [ "JustEngagedWith", "d6/d8e/a16422.html#a2c0015cadfcc90e1c730d8f9c02151e8", null ],
-    [ "JustReachedHome", "d6/d8e/a16422.html#af6127deaa5ff11a4ae2983e34d538bef", null ],
-    [ "JustSummoned", "d6/d8e/a16422.html#a6b08f13c0213acf91b72b6341896406e", null ],
-    [ "KilledUnit", "d6/d8e/a16422.html#a6b6706c12a0abbc36a022eb3af1925ec", null ],
-    [ "myDoMeleeAttackIfReady", "d6/d8e/a16422.html#a8a488e8d0acab2737c0503ce89fd3d2a", null ],
-    [ "SummonedCreatureDespawn", "d6/d8e/a16422.html#ae49793079dbec2dbe5e807f998705b20", null ],
-    [ "UpdateAI", "d6/d8e/a16422.html#aea878cd12d640ce4e3d87deb85c20b9f", null ],
-    [ "UpdateSharedHealth", "d6/d8e/a16422.html#a4101d2174de103be7154875beaafa65d", null ],
-    [ "events", "d6/d8e/a16422.html#a08867e9274660a8913034bf3d80e559f", null ],
-    [ "LastSynchroHP", "d6/d8e/a16422.html#aa66ac25aa73c505df972cf95dca85a71", null ],
-    [ "pInstance", "d6/d8e/a16422.html#a653a89ac515061fca04240fa71a6630a", null ],
-    [ "SpecialMask", "d6/d8e/a16422.html#a8ca507c7a288a5cb9a8160129820e4e0", null ],
-    [ "summons", "d6/d8e/a16422.html#adeb3d3d3eb868ed1a9c211450404b659", null ]
+    [ "npc_snobold_vassalAI", "d6/d8e/a16422.html#a2ecc5e8289252b2936f36de9921294e0", null ],
+    [ "AttackStart", "d6/d8e/a16422.html#a50afc82c80cede8dcf3240a116463411", null ],
+    [ "DoAction", "d6/d8e/a16422.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
+    [ "JustDied", "d6/d8e/a16422.html#aef408460584a17f15a84e8a6435c6348", null ],
+    [ "JustEngagedWith", "d6/d8e/a16422.html#a60c1704617e99239d60d24d6b7513c1a", null ],
+    [ "MoveInLineOfSight", "d6/d8e/a16422.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
+    [ "Reset", "d6/d8e/a16422.html#af794f46b1a7af97b52683954b556c27d", null ],
+    [ "UpdateAI", "d6/d8e/a16422.html#ac1d282da6f2d9133619a212a349c777f", null ],
+    [ "events", "d6/d8e/a16422.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
+    [ "pInstance", "d6/d8e/a16422.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
+    [ "TargetGUID", "d6/d8e/a16422.html#a0d36e4903448c5a03115df0dff3480c8", null ]
 ];

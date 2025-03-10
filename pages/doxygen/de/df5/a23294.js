@@ -1,8 +1,8 @@
 var a23294 =
 [
-    [ "ApplyStun", "de/df5/a23294.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "de/df5/a23294.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "de/df5/a23294.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "de/df5/a23294.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "de/df5/a23294.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "boss_the_black_stalker", "de/df5/a23294.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "de/df5/a23294.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "de/df5/a23294.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "de/df5/a23294.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "de/df5/a23294.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

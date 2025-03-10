@@ -1,5 +1,5 @@
 var a27230 =
 [
-    [ "item_mysterious_egg", "d5/ddd/a27230.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
-    [ "OnExpire", "d5/ddd/a27230.html#a5ea72284626826b75819f89b3b91c540", null ]
+    [ "go_hive_pod", "d5/ddd/a27230.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "d5/ddd/a27230.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

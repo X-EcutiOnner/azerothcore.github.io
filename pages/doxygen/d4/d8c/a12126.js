@@ -1,14 +1,6 @@
 var a12126 =
 [
-    [ "boss_chromaggusAI", "d4/d8c/a12126.html#a06f811fb8aa0c15e07e8a771ac722056", null ],
-    [ "CanAIAttack", "d4/d8c/a12126.html#a4643974601831ced1f6173965009ad20", null ],
-    [ "Initialize", "d4/d8c/a12126.html#a0697edb4aa9fb60a0db2ccf54c32dc19", null ],
-    [ "JustEngagedWith", "d4/d8c/a12126.html#a66b6f31ebcfdb2fe9adba85311e655bb", null ],
-    [ "PathEndReached", "d4/d8c/a12126.html#a2805052cd90212ecb9b5f313f4ecc384", null ],
-    [ "Reset", "d4/d8c/a12126.html#aaa72a25326e9c4e1936020a1e6e7b87a", null ],
-    [ "SetGUID", "d4/d8c/a12126.html#a9b5889af178418a3750ae84707818cf7", null ],
-    [ "UpdateAI", "d4/d8c/a12126.html#a4a120f99c6586fd06af6699bfe913d24", null ],
-    [ "_breathSpells", "d4/d8c/a12126.html#a10e18592d163d4be586701de47da48c9", null ],
-    [ "_playerGUID", "d4/d8c/a12126.html#a03a7fc87c67b04eb0b1289276023c1b4", null ],
-    [ "Enraged", "d4/d8c/a12126.html#acc8b5cfbae8debb22a0493400ec310c4", null ]
+    [ "npc_vaelastrasz_the_redAI", "d1/de7/a12130.html", "d1/de7/a12130" ],
+    [ "npc_vaelastrasz_the_red", "d4/d8c/a12126.html#af39fcaa29b200e3b7933f97de277df6b", null ],
+    [ "GetAI", "d4/d8c/a12126.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
 ];

@@ -1,6 +1,9 @@
 var a12222 =
 [
-    [ "boss_razorgoreAI", "da/de9/a12226.html", "da/de9/a12226" ],
-    [ "boss_razorgore", "d4/d0c/a12222.html#aee534a04797c5938e6da00f2ab119943", null ],
-    [ "GetAI", "d4/d0c/a12222.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
+    [ "npc_drakonid_spawner", "d4/d0c/a12222.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "d4/d0c/a12222.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "d4/d0c/a12222.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "d4/d0c/a12222.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "d4/d0c/a12222.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "d4/d0c/a12222.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

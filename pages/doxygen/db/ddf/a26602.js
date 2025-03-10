@@ -1,11 +1,7 @@
 var a26602 =
 [
-    [ "CalcPeriodic", "db/ddf/a26602.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
-    [ "CalculateAPAmount", "db/ddf/a26602.html#a72bd308dbeaa7eca5685f3e5055d7fad", null ],
-    [ "CalculateResistanceAmount", "db/ddf/a26602.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
-    [ "CalculateSPAmount", "db/ddf/a26602.html#a114c868f0dc31f3370588b1bd1f18894", null ],
-    [ "CalculateStatAmount", "db/ddf/a26602.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
-    [ "HandlePeriodic", "db/ddf/a26602.html#af5076795e8bf6abd45590a060f9e5b52", null ],
-    [ "PrepareAuraScript", "db/ddf/a26602.html#aa512873852c0eea9947472fcb60fbfc2", null ],
-    [ "Register", "db/ddf/a26602.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
+    [ "HandleDummy", "db/ddf/a26602.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
+    [ "PrepareSpellScript", "db/ddf/a26602.html#a99deca1c5c8631342be400cb863eefb2", null ],
+    [ "Register", "db/ddf/a26602.html#aa5ecc51b030fe7280e824ade641216d3", null ],
+    [ "Validate", "db/ddf/a26602.html#a731503d3769718695d109ad71160e67a", null ]
 ];

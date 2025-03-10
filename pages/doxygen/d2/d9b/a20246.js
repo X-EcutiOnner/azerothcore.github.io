@@ -1,6 +1,7 @@
 var a20246 =
 [
-    [ "npc_ulduar_vx001AI", "d3/db7/a20250.html", "d3/db7/a20250" ],
-    [ "npc_ulduar_vx001", "d2/d9b/a20246.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
-    [ "GetAI", "d2/d9b/a20246.html#acdab817141b851deb09861230323ee58", null ]
+    [ "FilterTargetsInitial", "d2/d9b/a20246.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "d2/d9b/a20246.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "d2/d9b/a20246.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "d2/d9b/a20246.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

@@ -1,6 +1,7 @@
 var a16246 =
 [
-    [ "npc_toc_shadow_priestAI", "dc/dbe/a16250.html", "dc/dbe/a16250" ],
-    [ "npc_toc_shadow_priest", "da/d85/a16246.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
-    [ "GetAI", "da/d85/a16246.html#a93b38d23759da3b7417dbb94b4a951da", null ]
+    [ "HandleAfterHit", "da/d85/a16246.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "da/d85/a16246.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "da/d85/a16246.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "da/d85/a16246.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

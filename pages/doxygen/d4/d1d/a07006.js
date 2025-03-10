@@ -1,26 +1,9 @@
 var a07006 =
 [
-    [ "BuildAuctionMailBody", "d4/d1d/a07006.html#a146f034b64f65c03866ecc2f45a9b448", null ],
-    [ "BuildAuctionMailSubject", "d4/d1d/a07006.html#a8e3dee79fd65c7f25ca1d74fe7924163", null ],
-    [ "CalculateAuctionOutBid", "d4/d1d/a07006.html#aa6854cd3ccd30bafdac8e13f05f97c1d", null ],
-    [ "DeleteFromDB", "d4/d1d/a07006.html#a13750d00897a07a57a881c3dcb1f6737", null ],
-    [ "GetAuctionCut", "d4/d1d/a07006.html#ab18794a9a9287cee3328625ae715a57e", null ],
-    [ "GetAuctionOutBid", "d4/d1d/a07006.html#a0d34f5709de579b0eea0884598755adc", null ],
-    [ "GetFactionId", "d4/d1d/a07006.html#ac5f752011b382f3b37a155b13cb5cb69", null ],
-    [ "GetHouseId", "d4/d1d/a07006.html#a2d5a849d817aaee17738aba2a53009f9", null ],
-    [ "LoadFromDB", "d4/d1d/a07006.html#acca59324d63bc3eb7a0ffa22c6101770", null ],
-    [ "SaveToDB", "d4/d1d/a07006.html#a62b83210cbde94626f6e092b454b83d8", null ],
-    [ "auctionHouseEntry", "d4/d1d/a07006.html#a46668a8214d200bf508a157aa256e9ec", null ],
-    [ "bid", "d4/d1d/a07006.html#a11521c90c74d1eba7d7d3ef55e960a93", null ],
-    [ "bidder", "d4/d1d/a07006.html#a3d4e0baffa36cf643b0c645efe4bf3f4", null ],
-    [ "buyout", "d4/d1d/a07006.html#aa75d261f77460c16f98f211b481a9af0", null ],
-    [ "deposit", "d4/d1d/a07006.html#aa7f8aefd6e3bcda5dbbb8f8d4460871c", null ],
-    [ "expire_time", "d4/d1d/a07006.html#a8520c9664918d452d8e6b643df8486b5", null ],
-    [ "houseId", "d4/d1d/a07006.html#a014be11a4e161eea637098a4e9243b6f", null ],
-    [ "Id", "d4/d1d/a07006.html#aa65a8b6b8be81f705378e2f510196c48", null ],
-    [ "item_guid", "d4/d1d/a07006.html#a9b1f40baa8c949995acdab008944f403", null ],
-    [ "item_template", "d4/d1d/a07006.html#ac8935b680716aa5c0d50d750fb934bab", null ],
-    [ "itemCount", "d4/d1d/a07006.html#aa67975f37a4ef343422a471ef65a98fd", null ],
-    [ "owner", "d4/d1d/a07006.html#adf2b61be66a9afc7114198fe993d526d", null ],
-    [ "startbid", "d4/d1d/a07006.html#aa1e6771187c237136d34645db9f852f9", null ]
+    [ "ObjectGuidVector", "d4/d1d/a07006.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "d4/d1d/a07006.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "d4/d1d/a07006.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "d4/d1d/a07006.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "d4/d1d/a07006.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "d4/d1d/a07006.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

@@ -1,13 +1,11 @@
 var a11374 =
 [
-    [ "PlayerDumpWriter", "de/dfc/a11374.html#a060152c060b37c4bf1208a99edc4a840", null ],
-    [ "AppendTable", "de/dfc/a11374.html#a7f285fddf6d33dd1664b5af801f110e9", null ],
-    [ "GetDump", "de/dfc/a11374.html#a17457008e1262c0aed284469e55841c6", null ],
-    [ "PopulateGuids", "de/dfc/a11374.html#aab122c84eefe801ac23211ec5a41e888", null ],
-    [ "WriteDumpToFile", "de/dfc/a11374.html#a81612bfc0d161595f4de1a6133d5c46d", null ],
-    [ "WriteDumpToString", "de/dfc/a11374.html#a43d30815c9b3b2608e0fecad7bba7254", null ],
-    [ "_items", "de/dfc/a11374.html#a5da825b82a09809ded2ce2c88458cc26", null ],
-    [ "_itemSets", "de/dfc/a11374.html#a33ff3a269064d883eff84ec83c394e92", null ],
-    [ "_mails", "de/dfc/a11374.html#a2863e88ee13debe77e4b1d3d0960d18a", null ],
-    [ "_pets", "de/dfc/a11374.html#a33325b0514324020bba98364a7f59de5", null ]
+    [ "WorldUpdateTime", "de/dfc/a11374.html#a97552c4ce99bd40919f199c17fe203ed", null ],
+    [ "LoadFromConfig", "de/dfc/a11374.html#acb2b9d56504fc760e7df1c93621ab788", null ],
+    [ "RecordUpdateTime", "de/dfc/a11374.html#a88d773c8029cebeab6b99444c25c8379", null ],
+    [ "RecordUpdateTimeDuration", "de/dfc/a11374.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
+    [ "SetRecordUpdateTimeInterval", "de/dfc/a11374.html#ada81050229ccacc49d5b6a9f6101174c", null ],
+    [ "_lastRecordTime", "de/dfc/a11374.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
+    [ "_recordUpdateTimeInverval", "de/dfc/a11374.html#a5486477b0a604f0207336e423f42c2b1", null ],
+    [ "_recordUpdateTimeMin", "de/dfc/a11374.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
 ];

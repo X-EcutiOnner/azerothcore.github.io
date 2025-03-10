@@ -1,6 +1,6 @@
 var a15418 =
 [
-    [ "npc_braug_dimspirit", "d2/da0/a15418.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
-    [ "OnGossipHello", "d2/da0/a15418.html#aeaed026edf5a1fa82c941f667c05815b", null ],
-    [ "OnGossipSelect", "d2/da0/a15418.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
+    [ "npc_anachronos_the_ancientAI", "d8/dfe/a15422.html", "d8/dfe/a15422" ],
+    [ "npc_anachronos_the_ancient", "d2/da0/a15418.html#a720884359886e6f881190471005f4cfc", null ],
+    [ "GetAI", "d2/da0/a15418.html#a345c801231907d98f2ab2425b1d35cbc", null ]
 ];

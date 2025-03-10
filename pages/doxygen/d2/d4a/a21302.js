@@ -1,9 +1,10 @@
 var a21302 =
 [
-    [ "npc_azure_sorcerorAI", "d2/d4a/a21302.html#a474a7144908d4820341dc56f77436b90", null ],
-    [ "Reset", "d2/d4a/a21302.html#a4c637288f79e1da4bdace6516cd887b1", null ],
-    [ "UpdateAI", "d2/d4a/a21302.html#a928d789e2cbd35b228857a23c4204ea1", null ],
-    [ "uiArcaneStreamTimer", "d2/d4a/a21302.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
-    [ "uiArcaneStreamTimerStartingValueHolder", "d2/d4a/a21302.html#af044879e8e064e28a491c87d0c6cde74", null ],
-    [ "uiManaDetonationTimer", "d2/d4a/a21302.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
+    [ "npc_azure_binderAI", "d2/d4a/a21302.html#ad532d350493a35804660f90a9f00f3cf", null ],
+    [ "Reset", "d2/d4a/a21302.html#aa317ce32f3439286e9a4ac0928d48b3a", null ],
+    [ "UpdateAI", "d2/d4a/a21302.html#a322ae0210ccb24206aee49c4fa7fe2bc", null ],
+    [ "uiArcainBarrageTimer", "d2/d4a/a21302.html#a0e577611e3e11209cc175cd71cd86bc9", null ],
+    [ "uiArcaneExplosionTimer", "d2/d4a/a21302.html#aa5cc777f777166e88a21e98a4ce2b8d3", null ],
+    [ "uiFrostboltTimer", "d2/d4a/a21302.html#a405ec0f2d92e4a1f5f7901e725465604", null ],
+    [ "uiFrostNovaTimer", "d2/d4a/a21302.html#a0f6396376e14711f87f1a046728ce386", null ]
 ];

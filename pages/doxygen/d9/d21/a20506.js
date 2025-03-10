@@ -1,11 +1,10 @@
 var a20506 =
 [
-    [ "boss_thorim_arena_npcsAI", "d9/d21/a20506.html#aab66eff737c803f6680ca5f93baaa6ca", null ],
-    [ "CanAIAttack", "d9/d21/a20506.html#ae214fabcc4db1f40a15be3369e66b030", null ],
-    [ "JustEngagedWith", "d9/d21/a20506.html#a60530453c2cbf5f22fb0d45088f90706", null ],
-    [ "Reset", "d9/d21/a20506.html#a83cb4bdb14a757733333f94d02fbf8db", null ],
-    [ "SelectT", "d9/d21/a20506.html#a84f22d142aad0ed7354784192bd5df3b", null ],
-    [ "UpdateAI", "d9/d21/a20506.html#acf09c7b12bce41c38980905457d4dbb4", null ],
-    [ "_isCaster", "d9/d21/a20506.html#a2c55eacc7b16be459935b586a0654500", null ],
-    [ "events", "d9/d21/a20506.html#aea5a9f9c915a7827316c48a504bc992e", null ]
+    [ "boss_thorim_sif_blizzardAI", "d9/d21/a20506.html#a99d1c529126452e580ebc7e3e513b367", null ],
+    [ "AttackStart", "d9/d21/a20506.html#a1f05551f323fa410a699497f3875b21f", null ],
+    [ "InitWaypoint", "d9/d21/a20506.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
+    [ "JustEngagedWith", "d9/d21/a20506.html#a9fea5617dccb493c7af435c485462ff3", null ],
+    [ "MoveInLineOfSight", "d9/d21/a20506.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
+    [ "Reset", "d9/d21/a20506.html#a193ba575c4f3f16d850e56f12f190c77", null ],
+    [ "WaypointReached", "d9/d21/a20506.html#a961f90068f25d81f55159763fe2677f8", null ]
 ];

@@ -1,12 +1,14 @@
 var a21182 =
 [
-    [ "boss_moraggAI", "dc/d68/a21182.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "dc/d68/a21182.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "dc/d68/a21182.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "dc/d68/a21182.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "dc/d68/a21182.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "dc/d68/a21182.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "dc/d68/a21182.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "dc/d68/a21182.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "dc/d68/a21182.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "boss_cyanigosaAI", "dc/d68/a21182.html#a4b24132889b17b3e682a15009a1ae910", null ],
+    [ "EnterEvadeMode", "dc/d68/a21182.html#a8da6ddc9b1c9f7b145920205046ce095", null ],
+    [ "JustDied", "dc/d68/a21182.html#a805117db567dd3d529a1c862bc24179c", null ],
+    [ "JustEngagedWith", "dc/d68/a21182.html#a4ef85c0178120f14f2a7b29efb7a9abf", null ],
+    [ "KilledUnit", "dc/d68/a21182.html#a5e69b631ab6844160b1e53fd1d731bae", null ],
+    [ "MoveInLineOfSight", "dc/d68/a21182.html#adb699a22dbf1c14cb80f8fdcca9c6f82", null ],
+    [ "Reset", "dc/d68/a21182.html#a7b0fdaa4f2603db8fd2d0c1ee6975817", null ],
+    [ "SpellHitTarget", "dc/d68/a21182.html#ae8218b69e6dc7489e65d891048d84da1", null ],
+    [ "UpdateAI", "dc/d68/a21182.html#ae69afba77636c962045160b610177bd9", null ],
+    [ "events", "dc/d68/a21182.html#ab5fe766d46e9445b9e7cfc605073983f", null ],
+    [ "pInstance", "dc/d68/a21182.html#a075f4a592202dc73d9b5d63ca5178093", null ]
 ];

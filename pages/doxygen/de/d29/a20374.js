@@ -1,10 +1,9 @@
 var a20374 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "de/d29/a20374.html#acc6853671f37e35c746ffa3807ae10b2", null ],
-    [ "GetData", "de/d29/a20374.html#ac23f2c901ef8c2160ceea43a0a15e185", null ],
-    [ "GetHarpoonGunIdForThisHFS", "de/d29/a20374.html#af21c4d50febac02eb0572efe564a19b1", null ],
-    [ "Reset", "de/d29/a20374.html#af300a8271762fe1b5582384114902ee8", null ],
-    [ "SetData", "de/d29/a20374.html#abf485123f0a73aa84ad5178e23c4192e", null ],
-    [ "pInstance", "de/d29/a20374.html#af576864ded6610daad973ac420d2fdb8", null ],
-    [ "repairPoints", "de/d29/a20374.html#a5e9bcd384285b9046da93bd18804d07b", null ]
+    [ "npc_ulduar_emergency_fire_botAI", "de/d29/a20374.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
+    [ "AttackStart", "de/d29/a20374.html#aa18e89f63e98112efeb69328f8fdc296", null ],
+    [ "MoveInLineOfSight", "de/d29/a20374.html#a6384437fff9349df0cfa5053b37313ea", null ],
+    [ "MovementInform", "de/d29/a20374.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
+    [ "UpdateAI", "de/d29/a20374.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
+    [ "events", "de/d29/a20374.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
 ];

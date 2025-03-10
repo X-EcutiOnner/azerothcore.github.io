@@ -1,11 +1,6 @@
 var a14430 =
 [
-    [ "boss_anetheron", "dd/d94/a14430.html#a6c103caa3f137756599a75bff03a6648", null ],
-    [ "DoAction", "dd/d94/a14430.html#a2fd485de26c820fec5240f9141a09964", null ],
-    [ "JustDied", "dd/d94/a14430.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
-    [ "JustEngagedWith", "dd/d94/a14430.html#aa34ac87ad4014fbecb481be7896c577c", null ],
-    [ "JustSummoned", "dd/d94/a14430.html#af9c156e28c7eca710d8367bd2a99387d", null ],
-    [ "KilledUnit", "dd/d94/a14430.html#a4471af823278a3664574729bf5c749be", null ],
-    [ "PathEndReached", "dd/d94/a14430.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
-    [ "_recentlySpoken", "dd/d94/a14430.html#accd9455c3b1d536ca177be6028f3503d", null ]
+    [ "HandleScriptEffect", "dd/d94/a14430.html#aebd700897688157ca62405c92fe58680", null ],
+    [ "PrepareSpellScript", "dd/d94/a14430.html#a09e11d1938279a2302fb8805e71c6c36", null ],
+    [ "Register", "dd/d94/a14430.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
 ];

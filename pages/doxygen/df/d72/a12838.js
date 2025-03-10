@@ -1,12 +1,6 @@
 var a12838 =
 [
-    [ "npc_scarlet_minerAI", "df/d72/a12838.html#a7f5ca173103eb4498ce41912bda5da66", null ],
-    [ "InitCartQuest", "df/d72/a12838.html#a5d3ece8f2f02a2bae4550a41f55348b0", null ],
-    [ "InitWaypoint", "df/d72/a12838.html#a7fe048368b6e0a43b5be501a24773b8c", null ],
-    [ "Reset", "df/d72/a12838.html#a2a8660173dc32c38de917049eb33fff8", null ],
-    [ "UpdateAI", "df/d72/a12838.html#a48d2c92a4d45d5e59252f9455b82cbbd", null ],
-    [ "WaypointReached", "df/d72/a12838.html#a31f4363e269b51d3a002a132b5516dd0", null ],
-    [ "carGUID", "df/d72/a12838.html#a963f9c0ca58ce160b43f36f5a9f7dee7", null ],
-    [ "IntroPhase", "df/d72/a12838.html#a094c2ee20d13c88805c3de7f9f94b86e", null ],
-    [ "IntroTimer", "df/d72/a12838.html#adae2103753dd62699359ff01ac3ba865", null ]
+    [ "npc_unworthy_initiateAI", "d2/de1/a12842.html", "d2/de1/a12842" ],
+    [ "npc_unworthy_initiate", "df/d72/a12838.html#aaa04626b783eadc0b14bd89aa715e694", null ],
+    [ "GetAI", "df/d72/a12838.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
 ];

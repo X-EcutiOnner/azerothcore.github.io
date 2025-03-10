@@ -1,6 +1,6 @@
 var a19938 =
 [
-    [ "achievement_freya_knock_on_wood", "d4/d55/a19938.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "d4/d55/a19938.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "d4/d55/a19938.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "boss_freya_iron_rootAI", "d4/d33/a19942.html", "d4/d33/a19942" ],
+    [ "boss_freya_iron_root", "d4/d55/a19938.html#a9478144d6cb72d08698cbfc50893935b", null ],
+    [ "GetAI", "d4/d55/a19938.html#acdda736e9259d59a30a40d989e70f95c", null ]
 ];

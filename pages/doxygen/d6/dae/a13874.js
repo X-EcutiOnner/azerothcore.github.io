@@ -1,6 +1,7 @@
 var a13874 =
 [
-    [ "HandleOnHit", "d6/dae/a13874.html#a76b09288d14d399735250607e2105eb3", null ],
-    [ "PrepareSpellScript", "d6/dae/a13874.html#a2270ce546ae286ffa701d094df591aa2", null ],
-    [ "Register", "d6/dae/a13874.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
+    [ "OnRemove", "d6/dae/a13874.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "d6/dae/a13874.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "d6/dae/a13874.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "d6/dae/a13874.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

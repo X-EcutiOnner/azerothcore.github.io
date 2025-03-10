@@ -1,6 +1,11 @@
 var a15314 =
 [
-    [ "npc_bunthen_plainswind", "d7/d1b/a15314.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "d7/d1b/a15314.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "d7/d1b/a15314.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "npc_troll_volunteerAI", "d7/d1b/a15314.html#a7eb0c508122616a6781c8b23210e4062", null ],
+    [ "GetMountId", "d7/d1b/a15314.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
+    [ "InitializeAI", "d7/d1b/a15314.html#a1c758c7601624e0620778e13e8ec60a0", null ],
+    [ "MovementInform", "d7/d1b/a15314.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
+    [ "Reset", "d7/d1b/a15314.html#a31439533de41c2a459af2b4d3af76139", null ],
+    [ "SpellHit", "d7/d1b/a15314.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
+    [ "_complete", "d7/d1b/a15314.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
+    [ "_mountModel", "d7/d1b/a15314.html#ae226345bd324b9c337dc96570117d82b", null ]
 ];

@@ -1,8 +1,5 @@
 var a10854 =
 [
-    [ "SkillPerfectItemEntry", "d7/dfc/a10854.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
-    [ "SkillPerfectItemEntry", "d7/dfc/a10854.html#a678f9908440187faad38c0e1ffaf82de", null ],
-    [ "perfectCreateChance", "d7/dfc/a10854.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
-    [ "perfectItemType", "d7/dfc/a10854.html#a057605f8867d4df5cb290318598a2908", null ],
-    [ "requiredSpecialization", "d7/dfc/a10854.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
+    [ "RequestPetInfo", "d7/dfc/a10854.html#ae0861d1fb77fe39bb48c26505e36ed2b", null ],
+    [ "Read", "d7/dfc/a10854.html#a5cc9bb57bce7dc7f24243fdc63e17870", null ]
 ];

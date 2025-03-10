@@ -1,7 +1,11 @@
 var a19122 =
 [
-    [ "EoEDrakeEnterVehicleEvent", "df/d22/a19122.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
-    [ "Execute", "df/d22/a19122.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
-    [ "_owner", "df/d22/a19122.html#ab48302fdff800afddfeec2c0d756873c", null ],
-    [ "_playerGUID", "df/d22/a19122.html#add56bff0695453e01f300e0434a39ec8", null ]
+    [ "npc_nexus_lordAI", "df/d22/a19122.html#a8d26337fdcd055027a20ea91faf7e01b", null ],
+    [ "AttackStart", "df/d22/a19122.html#a2f56dcac815431c887b95e9c09aec361", null ],
+    [ "JustDied", "df/d22/a19122.html#a828007757a618affad71b955681945cf", null ],
+    [ "JustEngagedWith", "df/d22/a19122.html#acfcf227557b1e212eda385e22ccdb981", null ],
+    [ "UpdateAI", "df/d22/a19122.html#ad7ddb98d2daaed386e713e423de4cac9", null ],
+    [ "events", "df/d22/a19122.html#ad20a56e52b22306ca31406d8defa4aa5", null ],
+    [ "pInstance", "df/d22/a19122.html#a81fae70688bcd8c733ea90b06900503d", null ],
+    [ "timer", "df/d22/a19122.html#a8edb133f7ca01a4aa75345c572a505c7", null ]
 ];

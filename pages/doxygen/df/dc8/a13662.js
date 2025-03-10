@@ -1,7 +1,11 @@
 var a13662 =
 [
-    [ "HandleDispel", "df/dc8/a13662.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "df/dc8/a13662.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "df/dc8/a13662.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "df/dc8/a13662.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "npc_tapoke_slim_jahnAI", "df/dc8/a13662.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
+    [ "AttackedBy", "df/dc8/a13662.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
+    [ "DamageTaken", "df/dc8/a13662.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
+    [ "JustEngagedWith", "df/dc8/a13662.html#a544b8eaee365217a4a735ed39b4607b2", null ],
+    [ "JustSummoned", "df/dc8/a13662.html#ae468305fbe930baf0a1547f2e6de9953", null ],
+    [ "Reset", "df/dc8/a13662.html#a5aeaa5511584d1095639e7df584019c5", null ],
+    [ "WaypointReached", "df/dc8/a13662.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
+    [ "IsFriendSummoned", "df/dc8/a13662.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
 ];

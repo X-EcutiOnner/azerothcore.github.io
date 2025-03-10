@@ -1,7 +1,7 @@
 var a20014 =
 [
-    [ "npc_ulduar_icicleAI", "d2/d54/a20014.html#a258376e257fbe3c8a6c70b2585d44df1", null ],
-    [ "UpdateAI", "d2/d54/a20014.html#a0edf734ae2dac7a5378b21b73e3714c8", null ],
-    [ "timer1", "d2/d54/a20014.html#aa912acbe225d9056e44bc22b8d9f7473", null ],
-    [ "timer2", "d2/d54/a20014.html#a82e034fc4ccb8eb92abeb72a222764c7", null ]
+    [ "HandleEffectPeriodic", "d2/d54/a20014.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
+    [ "PrepareAuraScript", "d2/d54/a20014.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
+    [ "Register", "d2/d54/a20014.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
+    [ "Validate", "d2/d54/a20014.html#a16c536c913d003826ef4b86c7a497fec", null ]
 ];

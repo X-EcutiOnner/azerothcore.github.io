@@ -1,11 +1,10 @@
 var a10366 =
 [
-    [ "PointMoveMap", "db/da6/a10366.html#a777e97ebcf367638578d1c189480ad99", null ],
-    [ "SystemMgr", "db/da6/a10366.html#ac7fd54676b46afcbc520e4c58fcdce75", null ],
-    [ "~SystemMgr", "db/da6/a10366.html#ab192b30aa7ff1edd27bb23e87a7ac4c5", null ],
-    [ "GetPointMoveList", "db/da6/a10366.html#af9f998f9778cebce3edb39b7296994d5", null ],
-    [ "instance", "db/da6/a10366.html#a71b78a44a3656802d55211d68fb19e12", null ],
-    [ "LoadScriptWaypoints", "db/da6/a10366.html#af8097171a2ffc49600397c6a519dddc3", null ],
-    [ "_empty", "db/da6/a10366.html#a4c90cb038afeb09c107979348bd3ca01", null ],
-    [ "m_mPointMoveMap", "db/da6/a10366.html#a3603d019adf647df9f314a7ca61a25dd", null ]
+    [ "WorldObjectScript", "db/da6/a10366.html#af044c3699a591c137abc5e03c772890b", null ],
+    [ "IsDatabaseBound", "db/da6/a10366.html#a48f037dd6152ff68ebef672de68df45e", null ],
+    [ "OnWorldObjectCreate", "db/da6/a10366.html#a2b32bc661e5a377de98902f3bc16679b", null ],
+    [ "OnWorldObjectDestroy", "db/da6/a10366.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
+    [ "OnWorldObjectResetMap", "db/da6/a10366.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
+    [ "OnWorldObjectSetMap", "db/da6/a10366.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
+    [ "OnWorldObjectUpdate", "db/da6/a10366.html#abc139d1aa728f8a70886eed65d28f566", null ]
 ];

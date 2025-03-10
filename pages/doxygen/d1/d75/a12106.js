@@ -1,7 +1,5 @@
 var a12106 =
 [
-    [ "boss_broodlordAI", "d1/d75/a12106.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
-    [ "JustDied", "d1/d75/a12106.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
-    [ "JustEngagedWith", "d1/d75/a12106.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
-    [ "UpdateAI", "d1/d75/a12106.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
+    [ "at_blackrock_stadium", "d1/d75/a12106.html#a9f577437f231a189c02e50e71ffcb85a", null ],
+    [ "OnTrigger", "d1/d75/a12106.html#a26e43099d9253ea44060194e3b38c656", null ]
 ];

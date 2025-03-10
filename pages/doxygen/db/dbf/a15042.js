@@ -1,6 +1,6 @@
 var a15042 =
 [
-    [ "HandleOnHit", "db/dbf/a15042.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
-    [ "PrepareSpellScript", "db/dbf/a15042.html#a9e568a1608715973fc438ff5e4356714", null ],
-    [ "Register", "db/dbf/a15042.html#a752d697aada626440fdff2bd889f890f", null ]
+    [ "FilterTargets", "db/dbf/a15042.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
+    [ "PrepareSpellScript", "db/dbf/a15042.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
+    [ "Register", "db/dbf/a15042.html#aaf7b4fba94d94331f6b35add2b836061", null ]
 ];

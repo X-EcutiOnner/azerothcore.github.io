@@ -1,6 +1,6 @@
 var a20594 =
 [
-    [ "HandleScript", "d7/dbb/a20594.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
-    [ "PrepareSpellScript", "d7/dbb/a20594.html#a4fd05478a145157dbd8377532033ab95", null ],
-    [ "Register", "d7/dbb/a20594.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
+    [ "npc_xt002_scrapbotAI", "d4/d6a/a20598.html", "d4/d6a/a20598" ],
+    [ "npc_xt002_scrapbot", "d7/dbb/a20594.html#accfd75266d058af3856bdb625728c18d", null ],
+    [ "GetAI", "d7/dbb/a20594.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
 ];

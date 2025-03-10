@@ -1,6 +1,8 @@
 var a20066 =
 [
-    [ "DestroyWinterCache", "de/df4/a20066.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
-    [ "PrepareSpellScript", "de/df4/a20066.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
-    [ "Register", "de/df4/a20066.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
+    [ "npc_ulduar_flash_freezeAI", "de/df4/a20066.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
+    [ "DamageTaken", "de/df4/a20066.html#af0c18460b4cc331f51c44a3306f516b8", null ],
+    [ "UpdateAI", "de/df4/a20066.html#ab2efa0a8d06297bff05502c40079efe9", null ],
+    [ "pInstance", "de/df4/a20066.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
+    [ "timer", "de/df4/a20066.html#a590117afe9e9943d8dc8a44af9386066", null ]
 ];

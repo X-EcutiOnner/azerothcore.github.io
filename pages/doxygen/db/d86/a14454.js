@@ -1,7 +1,7 @@
 var a14454 =
 [
-    [ "PeriodicTick", "db/d86/a14454.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
-    [ "PrepareAuraScript", "db/d86/a14454.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
-    [ "Register", "db/d86/a14454.html#a24058b120f4fa06b89f6d582c53a365a", null ],
-    [ "Validate", "db/d86/a14454.html#a093b09be5abde91a1487d67a7a554d30", null ]
+    [ "boss_azuregosAI", "da/db5/a14458.html", "da/db5/a14458" ],
+    [ "boss_azuregos", "db/d86/a14454.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "db/d86/a14454.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "db/d86/a14454.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

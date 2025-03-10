@@ -1,5 +1,5 @@
 var a26918 =
 [
-    [ "AreaTrigger_at_sentry_point", "dd/d2f/a26918.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "dd/d2f/a26918.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "achievement_killed_exp_or_honor_target", "dd/d2f/a26918.html#aad432878c97af698dd1cc4019d716281", null ],
+    [ "OnCheck", "dd/d2f/a26918.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
 ];

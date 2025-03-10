@@ -1,7 +1,5 @@
 var a07722 =
 [
-    [ "StoreTo", "db/d64/a07722.html#a1f368b832f95ce4acc6ed47ad4ca2e8d", null ],
-    [ "StoreTo", "db/d64/a07722.html#a3d9382dd50447477f9f04bc0f055e55c", null ],
-    [ "StoreTo", "db/d64/a07722.html#a071922c9c431637de3cb2d6b52def7bd", null ],
-    [ "StoreTo", "db/d64/a07722.html#a45556cc3ac64a6692ef08d6d93d48a4d", null ]
+    [ "Quest", "db/d64/a07722.html#aca1cbcd3319031b549c0ec6441b2c821", null ],
+    [ "QuestLevel", "db/d64/a07722.html#ad162701af62caac909ef9f57f68bf848", null ]
 ];

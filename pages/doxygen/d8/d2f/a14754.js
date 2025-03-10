@@ -1,16 +1,10 @@
 var a14754 =
 [
-    [ "npc_belnistraszAI", "d8/d2f/a14754.html#ac57c5de9140d8d37b15b4a30f4ffc0a1", null ],
-    [ "JustDied", "d8/d2f/a14754.html#aece63cabcfb2bcf54992dc2b4832ca92", null ],
-    [ "JustEngagedWith", "d8/d2f/a14754.html#ab03f29b1f76b7d67e7d7bb3407e2cd41", null ],
-    [ "MovementInform", "d8/d2f/a14754.html#ae64e10d0cc860bf033b76538455b9f8e", null ],
-    [ "Reset", "d8/d2f/a14754.html#aecf1ef9b7f6eecec9489d27ce41deea2", null ],
-    [ "sQuestAccept", "d8/d2f/a14754.html#aa18258b7f80c040d6a5fb9fbbb321efe", null ],
-    [ "UpdateAI", "d8/d2f/a14754.html#a45481c2ef18ab3fec727813de96eb1b6", null ],
-    [ "channeling", "d8/d2f/a14754.html#a88ff13ec705d11475de5a2080998c905", null ],
-    [ "eventInProgress", "d8/d2f/a14754.html#ae9ce796b17c7791d83e949fa406a2b80", null ],
-    [ "eventProgress", "d8/d2f/a14754.html#ad32a0387dbf95b6aa40b3311d6ba8348", null ],
-    [ "events", "d8/d2f/a14754.html#af9c1f14a7a7b7380e9fb99ecdaf80126", null ],
-    [ "instance", "d8/d2f/a14754.html#a61f3bcbf36e630bbb455405eb89ccf00", null ],
-    [ "spawnerCount", "d8/d2f/a14754.html#aa5124160ecba044a3752f68945068776", null ]
+    [ "CurrId", "d8/d2f/a14754.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
+    [ "DestId", "d8/d2f/a14754.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
+    [ "o", "d8/d2f/a14754.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
+    [ "spellId", "d8/d2f/a14754.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
+    [ "x", "d8/d2f/a14754.html#a41c7bdb057d984f552a41835651d84f5", null ],
+    [ "y", "d8/d2f/a14754.html#abe083129d7a4e514e97eeae7cff40af5", null ],
+    [ "z", "d8/d2f/a14754.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
 ];

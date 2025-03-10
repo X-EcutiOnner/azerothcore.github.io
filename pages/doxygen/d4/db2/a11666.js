@@ -1,9 +1,5 @@
 var a11666 =
 [
-    [ "send_commandscript", "d4/db2/a11666.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
-    [ "GetCommands", "d4/db2/a11666.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
-    [ "HandleSendItemsCommand", "d4/db2/a11666.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
-    [ "HandleSendMailCommand", "d4/db2/a11666.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
-    [ "HandleSendMessageCommand", "d4/db2/a11666.html#a91017e6171ac9e4dfff6c2036228de47", null ],
-    [ "HandleSendMoneyCommand", "d4/db2/a11666.html#a26938bb54bb3cb678c49737a92cadb56", null ]
+    [ "flag", "d4/db2/a11666.html#a6cae645736c697e2c2bf51a70c230070", null ],
+    [ "text", "d4/db2/a11666.html#aff011cbcd136992bfe6abb4e0e4a48ac", null ]
 ];

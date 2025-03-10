@@ -1,9 +1,7 @@
 var a09410 =
 [
-    [ "UnitAuraCheck", "d0/dc8/a09410.html#acbc0c969db8b768720ab3b8235c28352", null ],
-    [ "operator()", "d0/dc8/a09410.html#abc385cad226ac51c09a908864d360fd3", null ],
-    [ "operator()", "d0/dc8/a09410.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
-    [ "_casterGUID", "d0/dc8/a09410.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
-    [ "_present", "d0/dc8/a09410.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
-    [ "_spellId", "d0/dc8/a09410.html#a0dd71c851f803fb70a4543c77b672889", null ]
+    [ "PlayerAtMinimumRangeAway", "d0/dc8/a09410.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
+    [ "operator()", "d0/dc8/a09410.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
+    [ "fRange", "d0/dc8/a09410.html#a0c58929de429694f24877525287f15a6", null ],
+    [ "unit", "d0/dc8/a09410.html#a4ea0f83c3287079cff40fac15272fa94", null ]
 ];

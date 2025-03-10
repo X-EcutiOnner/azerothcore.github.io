@@ -1,13 +1,15 @@
 var a02453 =
 [
-    [ "FollowerAI", "dc/de5/a06196.html", "dc/de5/a06196" ],
-    [ "eFollowState", "d3/d27/a02453.html#a1ec9c3a60a913ecbf16778626ccf0138", [
-      [ "STATE_FOLLOW_NONE", "d3/d27/a02453.html#a1ec9c3a60a913ecbf16778626ccf0138a8d3724990b83869077eeef397588a9ae", null ],
-      [ "STATE_FOLLOW_INPROGRESS", "d3/d27/a02453.html#a1ec9c3a60a913ecbf16778626ccf0138aa4c302e4ec6ca00eb8d737e1b43e9e0b", null ],
-      [ "STATE_FOLLOW_RETURNING", "d3/d27/a02453.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523", null ],
-      [ "STATE_FOLLOW_PAUSED", "d3/d27/a02453.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6", null ],
-      [ "STATE_FOLLOW_COMPLETE", "d3/d27/a02453.html#a1ec9c3a60a913ecbf16778626ccf0138a73636e044fe9883bf259a17bc617e7c9", null ],
-      [ "STATE_FOLLOW_PREEVENT", "d3/d27/a02453.html#a1ec9c3a60a913ecbf16778626ccf0138a5ed17b2670a724e36c47de32fa5e821b", null ],
-      [ "STATE_FOLLOW_POSTEVENT", "d3/d27/a02453.html#a1ec9c3a60a913ecbf16778626ccf0138a77b50e5da22490d74b38dcebae6e6c6a", null ]
+    [ "Socket< T >", "d6/df1/a28318.html", "d6/df1/a28318" ],
+    [ "READ_BLOCK_SIZE", "d3/d27/a02453.html#a16ba013af02b9d4400b5e47d8daa022b", null ],
+    [ "ProxyHeaderAddressFamilyAndProtocol", "d3/d27/a02453.html#a7ddce6d0420753babeb6258ada50eec1", [
+      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4", "d3/d27/a02453.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575", null ],
+      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6", "d3/d27/a02453.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699", null ]
+    ] ],
+    [ "ProxyHeaderReadingState", "d3/d27/a02453.html#aa514bb66fa404b5b180297bb005c3272", [
+      [ "PROXY_HEADER_READING_STATE_NOT_STARTED", "d3/d27/a02453.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c", null ],
+      [ "PROXY_HEADER_READING_STATE_STARTED", "d3/d27/a02453.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98", null ],
+      [ "PROXY_HEADER_READING_STATE_FINISHED", "d3/d27/a02453.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb", null ],
+      [ "PROXY_HEADER_READING_STATE_FAILED", "d3/d27/a02453.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f", null ]
     ] ]
 ];

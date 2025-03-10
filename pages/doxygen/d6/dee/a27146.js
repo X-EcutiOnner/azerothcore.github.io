@@ -1,6 +1,7 @@
 var a27146 =
 [
-    [ "go_bashir_crystalforge", "d6/dee/a27146.html#a8b68a63933e14d82198580912fddc280", null ],
-    [ "OnGossipHello", "d6/dee/a27146.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
-    [ "OnGossipSelect", "d6/dee/a27146.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
+    [ "go_darkmoon_faire_musicAI", "d6/dee/a27146.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
+    [ "UpdateAI", "d6/dee/a27146.html#af3d802bd852fc0483f72781edb13b5d5", null ],
+    [ "_events", "d6/dee/a27146.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
+    [ "rnd", "d6/dee/a27146.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
 ];

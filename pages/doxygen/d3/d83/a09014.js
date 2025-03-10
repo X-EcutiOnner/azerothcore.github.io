@@ -1,10 +1,7 @@
 var a09014 =
 [
-    [ "~GridCell", "d3/d83/a09014.html#ab6ca5fbc81f184597445b7aef70bb2ad", null ],
-    [ "AddGridObject", "d3/d83/a09014.html#a22ac43b185d6a34c04fb5a36970d7df2", null ],
-    [ "AddWorldObject", "d3/d83/a09014.html#a039ebb29cf4bd2eeb7fca43eba302542", null ],
-    [ "Visit", "d3/d83/a09014.html#a6409c692a1f6ddfee1b3c2806d161d44", null ],
-    [ "Visit", "d3/d83/a09014.html#a2d13e0178010836f05280c1b5b11ad57", null ],
-    [ "_gridObjects", "d3/d83/a09014.html#a1a3fdbe9e3b937c05f82572d6f757e87", null ],
-    [ "_worldObjects", "d3/d83/a09014.html#a29d0551bee2df852e262846d82e90dba", null ]
+    [ "GetAntiDosPolicyForOpcode", "d3/d83/a09014.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
+    [ "instance", "d3/d83/a09014.html#a859596f153aa470fa503f67092e26160", null ],
+    [ "LoadAntiDosOpcodePolicies", "d3/d83/a09014.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
+    [ "_antiDosOpcodePolicies", "d3/d83/a09014.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
 ];

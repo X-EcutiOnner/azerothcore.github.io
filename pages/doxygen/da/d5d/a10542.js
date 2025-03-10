@@ -1,5 +1,5 @@
 var a10542 =
 [
-    [ "GuildPermissionsQuery", "da/d5d/a10542.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
-    [ "Read", "da/d5d/a10542.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
+    [ "AcceptGuildInvite", "da/d5d/a10542.html#a4453fc550871082f6295d9229eef265a", null ],
+    [ "Read", "da/d5d/a10542.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
 ];

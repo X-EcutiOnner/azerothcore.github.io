@@ -1,8 +1,10 @@
 var a26654 =
 [
-    [ "HandleDummyTick", "da/d91/a26654.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "da/d91/a26654.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "da/d91/a26654.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "da/d91/a26654.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "da/d91/a26654.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "CalculateAPAmount", "da/d91/a26654.html#ae76d10c68df1f149f83d4247122b47a7", null ],
+    [ "CalculateResistanceAmount", "da/d91/a26654.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
+    [ "CalculateSPAmount", "da/d91/a26654.html#a421996ca946d5b04c264718e6dd63fa9", null ],
+    [ "CalculateStatAmount", "da/d91/a26654.html#ae695515c915f2452dccb71aeb018f3a3", null ],
+    [ "HandleEffectApply", "da/d91/a26654.html#a207864c73e485e0db0fe47bde97d87a2", null ],
+    [ "PrepareAuraScript", "da/d91/a26654.html#a4179be48195872410bda69cac3454812", null ],
+    [ "Register", "da/d91/a26654.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
 ];

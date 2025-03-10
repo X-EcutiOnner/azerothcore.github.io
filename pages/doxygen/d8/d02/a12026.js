@@ -1,6 +1,11 @@
 var a12026 =
 [
-    [ "OrcDeathEvent", "d8/d02/a12026.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
-    [ "Execute", "d8/d02/a12026.html#a293ec6667da669a27fe75965f919cd68", null ],
-    [ "_me", "d8/d02/a12026.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
+    [ "boss_quartermaster_zigris", "d8/d02/a12026.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
+    [ "DamageTaken", "d8/d02/a12026.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
+    [ "JustDied", "d8/d02/a12026.html#a9295bbcffd7968051a789e8dfb634e23", null ],
+    [ "JustEngagedWith", "d8/d02/a12026.html#af482c06e00e7f6c15b290115998a27a9", null ],
+    [ "Reset", "d8/d02/a12026.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
+    [ "SpellHitTarget", "d8/d02/a12026.html#a38197746cc73ada1378e6e1a5555ef79", null ],
+    [ "UpdateAI", "d8/d02/a12026.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
+    [ "_hasDrunkPotion", "d8/d02/a12026.html#a25335533bc43171687e03f1ed22d4fb3", null ]
 ];

@@ -1,6 +1,6 @@
 var a15874 =
 [
-    [ "npc_xerestraszaAI", "d3/db4/a15878.html", "d3/db4/a15878" ],
-    [ "npc_xerestrasza", "dd/dd6/a15874.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
-    [ "GetAI", "dd/dd6/a15874.html#a5e0ede0054969d4787db56781dc55846", null ]
+    [ "HandleLeapBack", "dd/dd6/a15874.html#a71a9b9967528c1153ad1215635bc7d01", null ],
+    [ "PrepareSpellScript", "dd/dd6/a15874.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
+    [ "Register", "dd/dd6/a15874.html#a6ef11d0538616315fa7cf098748aa01f", null ]
 ];

@@ -1,10 +1,6 @@
 var a04813 =
 [
-    [ "DismissCritter", "d9/d32/a10812.html", "d9/d32/a10812" ],
-    [ "PetAbandon", "d7/dc4/a10816.html", "d7/dc4/a10816" ],
-    [ "PetLearnedSpell", "d1/d4a/a10828.html", "d1/d4a/a10828" ],
-    [ "PetSpellAutocast", "db/da6/a10824.html", "db/da6/a10824" ],
-    [ "PetStopAttack", "d0/d01/a10820.html", "d0/d01/a10820" ],
-    [ "PetUnlearnedSpell", "d2/d46/a10832.html", "d2/d46/a10832" ],
-    [ "RequestPetInfo", "d6/da8/a10836.html", "d6/da8/a10836" ]
+    [ "ChatServerMessage", "df/d55/a10482.html", "df/d55/a10482" ],
+    [ "Emote", "d1/df0/a10474.html", "d1/df0/a10474" ],
+    [ "EmoteClient", "d0/dd2/a10478.html", "d0/dd2/a10478" ]
 ];

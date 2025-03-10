@@ -1,9 +1,6 @@
 var a13510 =
 [
-    [ "npc_marzon_silent_bladeAI", "d4/df0/a13510.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
-    [ "EnterEvadeMode", "d4/df0/a13510.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
-    [ "JustEngagedWith", "d4/df0/a13510.html#a116b3458f342811e378713e6a67f76a6", null ],
-    [ "MovementInform", "d4/df0/a13510.html#a32201d45f0c19212becb6319a48366f8", null ],
-    [ "Reset", "d4/df0/a13510.html#a51c2b16c767ce2922564dc9e4048e089", null ],
-    [ "UpdateAI", "d4/df0/a13510.html#aa6686399b41d32429d530dcc2ec41185", null ]
+    [ "npc_corporal_keeshanAI", "d6/d40/a13514.html", "d6/d40/a13514" ],
+    [ "npc_corporal_keeshan", "d4/df0/a13510.html#a0ca9459a7f283e040f14e0052762f587", null ],
+    [ "GetAI", "d4/df0/a13510.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
 ];

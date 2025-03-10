@@ -1,6 +1,7 @@
 var a23210 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "da/d3c/a23214.html", "da/d3c/a23214" ],
-    [ "instance_steam_vault", "d7/da6/a23210.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "d7/da6/a23210.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "HandleScriptEffect", "d7/da6/a23210.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
+    [ "PrepareSpellScript", "d7/da6/a23210.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
+    [ "Register", "d7/da6/a23210.html#a14772c25b70078c0034b8de17de5b77a", null ],
+    [ "Validate", "d7/da6/a23210.html#a8318385367bf6c6b09e0978c461f5d59", null ]
 ];

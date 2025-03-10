@@ -1,7 +1,8 @@
 var a22658 =
 [
-    [ "boss_veras_darkshadow", "df/d4d/a22658.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "df/d4d/a22658.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "df/d4d/a22658.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "df/d4d/a22658.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "Load", "df/d4d/a22658.html#a4ff26763f05b07d882cd8d209464910e", null ],
+    [ "OnPeriodic", "df/d4d/a22658.html#a3e3bb503a6b5f90741a4df668851accf", null ],
+    [ "PrepareAuraScript", "df/d4d/a22658.html#a4126d35669859963f10ed1425a054298", null ],
+    [ "Register", "df/d4d/a22658.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
+    [ "Validate", "df/d4d/a22658.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
 ];

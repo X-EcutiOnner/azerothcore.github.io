@@ -1,6 +1,5 @@
 var a15754 =
 [
-    [ "boss_krik_thirAI", "de/ddc/a15758.html", "de/ddc/a15758" ],
-    [ "boss_krik_thir", "d2/d8f/a15754.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "d2/d8f/a15754.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "PrepareAuraScript", "d2/d8f/a15754.html#a94b3a8e0a610afa69c3a9771f8f22b13", null ],
+    [ "Register", "d2/d8f/a15754.html#a1203cbec26f64aa97d10783b567c2d62", null ]
 ];

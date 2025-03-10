@@ -1,7 +1,8 @@
 var a21618 =
 [
-    [ "HandleApplyEffect", "dd/dbe/a21618.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "dd/dbe/a21618.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "dd/dbe/a21618.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "dd/dbe/a21618.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "npc_future_youAI", "dd/dbe/a21618.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "dd/dbe/a21618.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "dd/dbe/a21618.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "dd/dbe/a21618.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "dd/dbe/a21618.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

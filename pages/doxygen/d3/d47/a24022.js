@@ -1,5 +1,6 @@
 var a24022 =
 [
-    [ "creature", "d3/d47/a24022.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
-    [ "Timer", "d3/d47/a24022.html#a2be497dc190c1f01f939e12083739882", null ]
+    [ "npc_invis_infernal_casterAI", "d4/d05/a24026.html", "d4/d05/a24026" ],
+    [ "npc_invis_infernal_caster", "d3/d47/a24022.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "d3/d47/a24022.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

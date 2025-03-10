@@ -1,10 +1,7 @@
 var a16642 =
 [
-    [ "HandleAfterEffectAbsorb", "dd/d29/a16642.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "dd/d29/a16642.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "dd/d29/a16642.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "dd/d29/a16642.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "dd/d29/a16642.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "dd/d29/a16642.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "dd/d29/a16642.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "HandlePeriodicTick", "dd/d29/a16642.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
+    [ "PrepareAuraScript", "dd/d29/a16642.html#aabaef31a3c699c322e24e064f357f82f", null ],
+    [ "Register", "dd/d29/a16642.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
+    [ "Validate", "dd/d29/a16642.html#a18d92a82760992bc5d8503e3f774f208", null ]
 ];

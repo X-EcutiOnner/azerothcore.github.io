@@ -1,7 +1,10 @@
 var a15866 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "df/de6/a15866.html#aed531e61508d4d404827f47c6348a5e6", null ],
-    [ "JustEngagedWith", "df/de6/a15866.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
-    [ "UpdateAI", "df/de6/a15866.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
-    [ "_events", "df/de6/a15866.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
+    [ "HandleDummy", "df/de6/a15866.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
+    [ "HandleSchoolDamage", "df/de6/a15866.html#a8372b7d176c94689b1b7fe99add7812e", null ],
+    [ "Load", "df/de6/a15866.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
+    [ "PrepareSpellScript", "df/de6/a15866.html#a3fd71e2a93f99f19443640a2147b1663", null ],
+    [ "Register", "df/de6/a15866.html#a8278d362a4354ccf81665ce0067c9a06", null ],
+    [ "Validate", "df/de6/a15866.html#a414b1e1396910b87a671305ce9dcab09", null ],
+    [ "_spawned", "df/de6/a15866.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
 ];

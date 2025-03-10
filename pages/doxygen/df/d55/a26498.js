@@ -1,8 +1,6 @@
 var a26498 =
 [
-    [ "Apply", "df/d55/a26498.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "df/d55/a26498.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "df/d55/a26498.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "df/d55/a26498.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "df/d55/a26498.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "HandleAfterCast", "df/d55/a26498.html#a6f21938e84e45848fad74a16f1f52c48", null ],
+    [ "PrepareSpellScript", "df/d55/a26498.html#ac7abeee05c117595696faf1ec55e11bd", null ],
+    [ "Register", "df/d55/a26498.html#a9e90a6fa037627ac682f4ea050f557de", null ]
 ];

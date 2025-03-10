@@ -1,11 +1,7 @@
 var a21798 =
 [
-    [ "npc_rocket_propelled_warheadAI", "d2/d25/a21798.html#aab27045dff817457d5858c48c174f3a2", null ],
-    [ "DoAction", "d2/d25/a21798.html#abfd9618bd029ae56d846cac9cf5b7e80", null ],
-    [ "FinishQuest", "d2/d25/a21798.html#a1ccb00801fbfc87cbe04f19dc15e4a10", null ],
-    [ "JustReachedHome", "d2/d25/a21798.html#a680f46b5d7c88bafc5d3af669e9886ef", null ],
-    [ "PassengerBoarded", "d2/d25/a21798.html#aba8121b207be2c7be161d9ea0c903d6e", null ],
-    [ "SpellHit", "d2/d25/a21798.html#ae347c0817e145ec333bd5b1c87dd01ef", null ],
-    [ "_faction", "d2/d25/a21798.html#a423bead0525222a132e22531f640c461", null ],
-    [ "_finished", "d2/d25/a21798.html#ad676c377ea08cbb33f1ff226f864849c", null ]
+    [ "npc_tallhorn_stagAI", "d2/d25/a21798.html#a50947c450eece979193b45728e5e1f82", null ],
+    [ "Reset", "d2/d25/a21798.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
+    [ "UpdateAI", "d2/d25/a21798.html#adf60f62fa92238cb315c42e0179c3f17", null ],
+    [ "_phase", "d2/d25/a21798.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
 ];

@@ -1,16 +1,9 @@
 var a19350 =
 [
-    [ "boss_lokenAI", "de/da7/a19350.html#abdadd98c337f97f6a1daf1657f2f3ab2", null ],
-    [ "JustDied", "de/da7/a19350.html#a2ab2adb8c9fb2048e2c3c341d8c2ff37", null ],
-    [ "JustEngagedWith", "de/da7/a19350.html#afd9634d8665b946991ccd777072cf70a", null ],
-    [ "KilledUnit", "de/da7/a19350.html#af6f6ebfffa9e2719c3a18bd53d704018", null ],
-    [ "LokenSpeach", "de/da7/a19350.html#a853a371812a856f39137c665fcc09b86", null ],
-    [ "MoveInLineOfSight", "de/da7/a19350.html#a0855580a471661925fdf272dedb418fd", null ],
-    [ "Reset", "de/da7/a19350.html#a51c7ca1ce5a0b4837d2fbc033c06a864", null ],
-    [ "UpdateAI", "de/da7/a19350.html#acc5b453efca847a6cada43606b8a08ed", null ],
-    [ "events", "de/da7/a19350.html#ac3b98aeba2741ee49d262b33d30f8b2a", null ],
-    [ "HealthCheck", "de/da7/a19350.html#ad9f9e369ce64bab66f29899659440b62", null ],
-    [ "IntroTimer", "de/da7/a19350.html#ae92b9ff0abd8580baf7a2fca56e0df23", null ],
-    [ "isActive", "de/da7/a19350.html#a8f20ce4cddf7eae09ddc659b9bf75919", null ],
-    [ "m_pInstance", "de/da7/a19350.html#aba89a46dae1d4d195c8be10d89fb72ab", null ]
+    [ "HandleOnEffectApply", "de/da7/a19350.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "de/da7/a19350.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "de/da7/a19350.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "de/da7/a19350.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "de/da7/a19350.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "de/da7/a19350.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

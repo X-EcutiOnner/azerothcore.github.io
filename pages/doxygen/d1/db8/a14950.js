@@ -1,6 +1,6 @@
 var a14950 =
 [
-    [ "OnPeriodic", "d1/db8/a14950.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "d1/db8/a14950.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "d1/db8/a14950.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "HandleScriptEffect", "d1/db8/a14950.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
+    [ "PrepareSpellScript", "d1/db8/a14950.html#aa109d61baba87acf5bce5d44bff55214", null ],
+    [ "Register", "d1/db8/a14950.html#ac8412777c84abfe56262d6d83163e9a1", null ]
 ];

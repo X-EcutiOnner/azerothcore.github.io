@@ -1,7 +1,9 @@
 var a22714 =
 [
-    [ "SuckBackEvent", "d0/d9e/a22714.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "d0/d9e/a22714.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "d0/d9e/a22714.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "d0/d9e/a22714.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "HandleAfterCast", "d0/d9e/a22714.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
+    [ "HandleDummy", "d0/d9e/a22714.html#ae94594e337c2e0e6864f3723df8349bf", null ],
+    [ "Load", "d0/d9e/a22714.html#a301008eff6b13a43070b3916925391ae", null ],
+    [ "PrepareSpellScript", "d0/d9e/a22714.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
+    [ "Register", "d0/d9e/a22714.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
+    [ "_targetCount", "d0/d9e/a22714.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
 ];

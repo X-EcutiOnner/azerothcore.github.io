@@ -1,15 +1,12 @@
 var a12870 =
 [
-    [ "npc_koltira_deathweaverAI", "d6/dbb/a12870.html#adbc46fce90170aec986faacf012bd2b2", null ],
-    [ "AttackStart", "d6/dbb/a12870.html#aa219afbaedb108e7384479de3bbb4135", null ],
-    [ "EnterEvadeMode", "d6/dbb/a12870.html#aaf9e9df5a7124b4fe6b9348d5c8931fa", null ],
-    [ "JustSummoned", "d6/dbb/a12870.html#ae93b1dd675d2f2b8aca93e9ccff42a2e", null ],
-    [ "Reset", "d6/dbb/a12870.html#ac07053d3798d57449c23bfff68e12f1b", null ],
-    [ "SummonAcolyte", "d6/dbb/a12870.html#ac74e57e84fa6d1166fe950a46492cc2b", null ],
-    [ "UpdateAI", "d6/dbb/a12870.html#a87e87ebfaaf7a633f799d2a0f9df18ba", null ],
-    [ "WaypointReached", "d6/dbb/a12870.html#a5714e781a73cf2774aa21a083cd8301a", null ],
-    [ "m_uiValrothGUID", "d6/dbb/a12870.html#acee9c0c42cc8a692526ef73b19292ceb", null ],
-    [ "m_uiWave", "d6/dbb/a12870.html#a35ec3a0a78240966a0e06753873e5956", null ],
-    [ "m_uiWave_Timer", "d6/dbb/a12870.html#a8e94cd2de591f06e395f2d116e3e533b", null ],
-    [ "summons", "d6/dbb/a12870.html#a38fc03a63df38b02eab07f3bffd969da", null ]
+    [ "npc_scarlet_minerAI", "d6/dbb/a12870.html#a7f5ca173103eb4498ce41912bda5da66", null ],
+    [ "InitCartQuest", "d6/dbb/a12870.html#a5d3ece8f2f02a2bae4550a41f55348b0", null ],
+    [ "InitWaypoint", "d6/dbb/a12870.html#a7fe048368b6e0a43b5be501a24773b8c", null ],
+    [ "Reset", "d6/dbb/a12870.html#a2a8660173dc32c38de917049eb33fff8", null ],
+    [ "UpdateAI", "d6/dbb/a12870.html#a48d2c92a4d45d5e59252f9455b82cbbd", null ],
+    [ "WaypointReached", "d6/dbb/a12870.html#a31f4363e269b51d3a002a132b5516dd0", null ],
+    [ "carGUID", "d6/dbb/a12870.html#a963f9c0ca58ce160b43f36f5a9f7dee7", null ],
+    [ "IntroPhase", "d6/dbb/a12870.html#a094c2ee20d13c88805c3de7f9f94b86e", null ],
+    [ "IntroTimer", "d6/dbb/a12870.html#adae2103753dd62699359ff01ac3ba865", null ]
 ];

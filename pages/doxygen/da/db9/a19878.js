@@ -1,6 +1,8 @@
 var a19878 =
 [
-    [ "boss_freya_elder_brightleafAI", "dc/db6/a19882.html", "dc/db6/a19882" ],
-    [ "boss_freya_elder_brightleaf", "da/db9/a19878.html#a9b1539b37912ef5ae46d5926bf2e0f40", null ],
-    [ "GetAI", "da/db9/a19878.html#a3c39424ecf97ced8c2a962baff5ae342", null ]
+    [ "HandleOnEffectApply", "da/db9/a19878.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "da/db9/a19878.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "da/db9/a19878.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "da/db9/a19878.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "da/db9/a19878.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

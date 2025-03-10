@@ -1,7 +1,9 @@
 var a26446 =
 [
-    [ "HandleEffect", "d8/d44/a26446.html#ab33c9312c9ac4096140a82f381d83235", null ],
-    [ "PrepareSpellScript", "d8/d44/a26446.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
-    [ "Register", "d8/d44/a26446.html#a1f5983124756eca5666ca6adbe5a4544", null ],
-    [ "Validate", "d8/d44/a26446.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
+    [ "HandleAfterHit", "d8/d44/a26446.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
+    [ "HandleBeforeHit", "d8/d44/a26446.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
+    [ "Load", "d8/d44/a26446.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
+    [ "PrepareSpellScript", "d8/d44/a26446.html#a496c27472579be3b8989868765ec19ef", null ],
+    [ "Register", "d8/d44/a26446.html#a133e338413e960c442446a2a4a13b85b", null ],
+    [ "_stackAmount", "d8/d44/a26446.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
 ];

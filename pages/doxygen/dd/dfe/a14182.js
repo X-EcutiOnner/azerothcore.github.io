@@ -1,6 +1,6 @@
 var a14182 =
 [
-    [ "HandleScript", "dd/dfe/a14182.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
-    [ "PrepareSpellScript", "dd/dfe/a14182.html#aab4303fff660c68db100e07a4423c39b", null ],
-    [ "Register", "dd/dfe/a14182.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
+    [ "npc_cw_area_triggerAI", "db/d1b/a14186.html", "db/d1b/a14186" ],
+    [ "npc_cw_area_trigger", "dd/dfe/a14182.html#a11af64ac4ab078566bf8f68a36781939", null ],
+    [ "GetAI", "dd/dfe/a14182.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
 ];

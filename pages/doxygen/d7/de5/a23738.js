@@ -1,7 +1,6 @@
 var a23738 =
 [
-    [ "HandleDamage", "d7/de5/a23738.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "d7/de5/a23738.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "d7/de5/a23738.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "d7/de5/a23738.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "HandleScriptEffect", "d7/de5/a23738.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
+    [ "PrepareSpellScript", "d7/de5/a23738.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
+    [ "Register", "d7/de5/a23738.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
 ];

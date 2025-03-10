@@ -1,5 +1,7 @@
 var a26162 =
 [
-    [ "PrepareSpellScript", "da/d41/a26162.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
-    [ "Register", "da/d41/a26162.html#a721430db1738b255f114483bdddef5e2", null ]
+    [ "if", "da/d41/a26162.html#aefedb14e99d2e60abfd58f7778deb39b", null ],
+    [ "PrepareAuraScript", "da/d41/a26162.html#ad61e8c804e59ca0623748acde69aeddb", null ],
+    [ "Register", "da/d41/a26162.html#af917d32bc0d7f825a52c0a916a3a2357", null ],
+    [ "AuraEffectHandleModes", "da/d41/a26162.html#accfab0bada4faf21178e3f67a79c6dfe", null ]
 ];

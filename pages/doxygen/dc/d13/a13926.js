@@ -1,8 +1,6 @@
 var a13926 =
 [
-    [ "npc_spawn_of_marli", "dc/d13/a13926.html#a1dcd5066de108203903f5767c4b375ea", null ],
-    [ "JustEngagedWith", "dc/d13/a13926.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
-    [ "Reset", "dc/d13/a13926.html#a79ef192d41af75e0dad0494776c75189", null ],
-    [ "UpdateAI", "dc/d13/a13926.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
-    [ "_scheduler", "dc/d13/a13926.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
+    [ "boss_mandokirAI", "d0/d65/a13930.html", "d0/d65/a13930" ],
+    [ "boss_mandokir", "dc/d13/a13926.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "dc/d13/a13926.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

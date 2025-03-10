@@ -1,6 +1,15 @@
 var a15038 =
 [
-    [ "HandleOnHit", "d6/dec/a15038.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "d6/dec/a15038.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "d6/dec/a15038.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "boss_skeram", "d6/dec/a15038.html#a293710a88c91a181ee1000939386e176", null ],
+    [ "DoTeleport", "d6/dec/a15038.html#a96166ddebd5906868b872c39a6755a70", null ],
+    [ "EnterEvadeMode", "d6/dec/a15038.html#ab050e31d661c8c089d175de231b0eeb2", null ],
+    [ "JustDied", "d6/dec/a15038.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
+    [ "JustEngagedWith", "d6/dec/a15038.html#a07bba9a1a62ad9ad15b9cd42b5d5b3d3", null ],
+    [ "JustSummoned", "d6/dec/a15038.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
+    [ "KilledUnit", "d6/dec/a15038.html#a185cb6686d37e064278260ebe5fae13a", null ],
+    [ "Reset", "d6/dec/a15038.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
+    [ "UpdateAI", "d6/dec/a15038.html#aaf29331e0fac71479747d62fd9f1e301", null ],
+    [ "_copiesGUIDs", "d6/dec/a15038.html#a28f1465938dc2141779d5171ea09ecd0", null ],
+    [ "_flag", "d6/dec/a15038.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
+    [ "_hpct", "d6/dec/a15038.html#a5c8760788264a9a04a28c05a0247676c", null ]
 ];

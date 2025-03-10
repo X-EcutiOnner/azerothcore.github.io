@@ -1,6 +1,10 @@
 var a24034 =
 [
-    [ "npc_torloth_the_magnificentAI", "d2/da5/a24038.html", "d2/da5/a24038" ],
-    [ "npc_torloth_the_magnificent", "d1/d37/a24034.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
-    [ "GetAI", "d1/d37/a24034.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
+    [ "npc_infernal_attackerAI", "d1/d37/a24034.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "d1/d37/a24034.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "d1/d37/a24034.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "d1/d37/a24034.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "d1/d37/a24034.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "d1/d37/a24034.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "d1/d37/a24034.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

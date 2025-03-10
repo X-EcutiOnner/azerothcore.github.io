@@ -1,18 +1,13 @@
 var a21006 =
 [
-    [ "boss_svalaAI", "dc/d17/a21006.html#a568466d621043157958bea38595d42a8", null ],
-    [ "EnterEvadeMode", "dc/d17/a21006.html#a7808767e79ebe4c5ac784ff7a32874f6", null ],
-    [ "JustDied", "dc/d17/a21006.html#aa85b0d305074d0df887fbb7ba42a3b20", null ],
-    [ "JustEngagedWith", "dc/d17/a21006.html#ae36faacbbd22ddde8d8f25540e583c14", null ],
-    [ "JustSummoned", "dc/d17/a21006.html#ad4bf163bf81dee06bead6f9a8aaa2a3a", null ],
-    [ "KilledUnit", "dc/d17/a21006.html#a440053a21489b6e4691fc4a6e5984908", null ],
-    [ "Reset", "dc/d17/a21006.html#a9c6fca6d70c7c53048b137b7d8cc0861", null ],
-    [ "SetData", "dc/d17/a21006.html#a86f376743055f99c066ad1a7c960b6c7", null ],
-    [ "UpdateAI", "dc/d17/a21006.html#a47b7405bd2fd6789f61172cbacd12fa0", null ],
-    [ "ArthasGUID", "dc/d17/a21006.html#a42e1753c8a66cc292799c890b9177a3e", null ],
-    [ "events", "dc/d17/a21006.html#abe87bb56b844c75dd9b24a4d45c94e7f", null ],
-    [ "events2", "dc/d17/a21006.html#a542d2bc22970ee5835b2e15322dc2e58", null ],
-    [ "instance", "dc/d17/a21006.html#a58f451d373d8336d5b8b38e33a1eeea8", null ],
-    [ "Started", "dc/d17/a21006.html#a5d4b4c94062db7601fdc918f9727e03b", null ],
-    [ "summons", "dc/d17/a21006.html#a3d14b708a8156a6c9025ff92aa3774c4", null ]
+    [ "npc_ferocious_rhinoAI", "dc/d17/a21006.html#ad70d0aeba4b73330c5087bc84a533389", null ],
+    [ "DoAction", "dc/d17/a21006.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
+    [ "JustDied", "dc/d17/a21006.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
+    [ "JustEngagedWith", "dc/d17/a21006.html#aab35078fe4518b6647f98e316d02898a", null ],
+    [ "JustReachedHome", "dc/d17/a21006.html#ab8105d6c8c70037c208c83c13c35242d", null ],
+    [ "MoveInLineOfSight", "dc/d17/a21006.html#a97e32d32a692f223b96746f3ef1086c5", null ],
+    [ "Reset", "dc/d17/a21006.html#a6d317407c2de2f954b5dd2a6db137304", null ],
+    [ "UpdateAI", "dc/d17/a21006.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
+    [ "events", "dc/d17/a21006.html#af23061de7d8566c7435c2c64c53dff89", null ],
+    [ "m_pInstance", "dc/d17/a21006.html#a97e00db40792c559dd06327c9960abe4", null ]
 ];

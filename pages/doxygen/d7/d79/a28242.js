@@ -1,9 +1,9 @@
 var a28242 =
 [
-    [ "adtId", "d7/d79/a28242.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
-    [ "areaId", "d7/d79/a28242.html#a7f652c68036429350543fc5a2cc6861e", null ],
-    [ "Flags", "d7/d79/a28242.html#a60f9a61948d1e28587c9d1a338730f37", null ],
-    [ "groupId", "d7/d79/a28242.html#a09052bad3028899580ffedd556672b64", null ],
-    [ "Id", "d7/d79/a28242.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
-    [ "rootId", "d7/d79/a28242.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
+    [ "Category", "d7/d79/a28242.html#acd933f251a1faa1f705420307136681d", null ],
+    [ "Faction", "d7/d79/a28242.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
+    [ "Flags", "d7/d79/a28242.html#a8b41ed573eae71196664a61bac83fe3e", null ],
+    [ "Id", "d7/d79/a28242.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
+    [ "Slot", "d7/d79/a28242.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
+    [ "Type", "d7/d79/a28242.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
 ];

@@ -1,8 +1,9 @@
 var a28594 =
 [
-    [ "Color", "d3/d41/a28594.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
-    [ "NameIndex", "d3/d41/a28594.html#add893e045d13a3633fd7346457a10477", null ],
-    [ "Position", "d3/d41/a28594.html#afae9056582e71160c151de2c172bc60a", null ],
-    [ "Rotation", "d3/d41/a28594.html#a48d372bc1371fa5f94db9aa39669942a", null ],
-    [ "Scale", "d3/d41/a28594.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
+    [ "Flags", "d3/d41/a28594.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "d3/d41/a28594.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "d3/d41/a28594.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "d3/d41/a28594.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "d3/d41/a28594.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "d3/d41/a28594.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

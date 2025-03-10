@@ -1,7 +1,7 @@
 var a25058 =
 [
-    [ "PrepareSpellScript", "d9/d21/a25058.html#a65d5717a25e371e09c44148c679dd390", null ],
-    [ "Register", "d9/d21/a25058.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
-    [ "RemoveInvalidTargets", "d9/d21/a25058.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
-    [ "Validate", "d9/d21/a25058.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
+    [ "HandleDummy", "d9/d21/a25058.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
+    [ "Load", "d9/d21/a25058.html#a738318535196b3d55e8f1b3da4f76c95", null ],
+    [ "PrepareSpellScript", "d9/d21/a25058.html#a941a097124ed9b4917faa18ff23fc366", null ],
+    [ "Register", "d9/d21/a25058.html#aaf9d269e7d052515f31b463999e92cf4", null ]
 ];

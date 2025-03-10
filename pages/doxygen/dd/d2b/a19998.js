@@ -1,6 +1,7 @@
 var a19998 =
 [
-    [ "id", "dd/d2b/a19998.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "x", "dd/d2b/a19998.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
-    [ "y", "dd/d2b/a19998.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "dd/d2b/a19998.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
+    [ "IsSummonedBy", "dd/d2b/a19998.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
+    [ "JustDied", "dd/d2b/a19998.html#a5be637500e7b5735d90e19fa40fde467", null ],
+    [ "pInstance", "dd/d2b/a19998.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
 ];

@@ -1,7 +1,5 @@
 var a20154 =
 [
-    [ "HandleScript", "da/df5/a20154.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "da/df5/a20154.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "da/df5/a20154.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "da/df5/a20154.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "achievement_cheese_the_freeze", "da/df5/a20154.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
+    [ "OnCheck", "da/df5/a20154.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
 ];

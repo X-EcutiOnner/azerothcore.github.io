@@ -1,5 +1,14 @@
 var a20082 =
 [
-    [ "FlashFreezeCheck", "df/db3/a20082.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
-    [ "operator()", "df/db3/a20082.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
+    [ "npc_ulduar_hodir_priestAI", "df/db3/a20082.html#aaa57c813d15ebf0c08a43e4530e5acdd", null ],
+    [ "AttackStart", "df/db3/a20082.html#a54058aacbf9e49f42f4f84779e0ec8ea", null ],
+    [ "CanAIAttack", "df/db3/a20082.html#a769a825c8e33bce3a130dbec53072aa4", null ],
+    [ "EnterEvadeMode", "df/db3/a20082.html#a2d92c0e03de238de439ccb3a10819cd1", null ],
+    [ "JustDied", "df/db3/a20082.html#a23a3783dc151bb7f1c5c4183b22578b0", null ],
+    [ "MoveInLineOfSight", "df/db3/a20082.html#aaa3764a042473d20526758553b968a39", null ],
+    [ "ScheduleAbilities", "df/db3/a20082.html#aab32336d42900a275613a227ccba18a7", null ],
+    [ "SpellHit", "df/db3/a20082.html#af6afbd5b0560fc4665ecb0d00010ecbc", null ],
+    [ "UpdateAI", "df/db3/a20082.html#af2b162485414ea0cdda3b19d15c2686f", null ],
+    [ "events", "df/db3/a20082.html#afdc842e08125223760d1eac105aef65b", null ],
+    [ "pInstance", "df/db3/a20082.html#a9630107a0a8f128c6b62493163a9e246", null ]
 ];

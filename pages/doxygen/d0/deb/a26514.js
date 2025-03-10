@@ -1,8 +1,12 @@
 var a26514 =
 [
-    [ "CheckFireTotem", "d0/deb/a26514.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
-    [ "HandleDummy", "d0/deb/a26514.html#a179d07e7090cec396a7845754e545e8e", null ],
-    [ "PrepareSpellScript", "d0/deb/a26514.html#a8311cc106da26267e90acd98698cb737", null ],
-    [ "Register", "d0/deb/a26514.html#abae5a4961888e6ba2d876e450307e362", null ],
-    [ "Validate", "d0/deb/a26514.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
+    [ "CalcPeriodic", "d0/deb/a26514.html#a35d58947074659d2692877dfcf13e4bd", null ],
+    [ "CalculateAPAmount", "d0/deb/a26514.html#ac72434a046c28a4887971cf83d574a6e", null ],
+    [ "CalculateResistanceAmount", "d0/deb/a26514.html#a82067899470366c2cbf21bba08061ce1", null ],
+    [ "CalculateSPAmount", "d0/deb/a26514.html#a527213b389be9b1953f423ae84eb16ee", null ],
+    [ "CalculateStatAmount", "d0/deb/a26514.html#ad7185292820feb168565648133c9e2cc", null ],
+    [ "HandleEffectApply", "d0/deb/a26514.html#aa333430da4cf3303822d5f048cb9d5a4", null ],
+    [ "HandlePeriodic", "d0/deb/a26514.html#ae2bca6c841d1ba02a8a39b1a2179ac97", null ],
+    [ "PrepareAuraScript", "d0/deb/a26514.html#a671a588ae36323c11b33a45d652290de", null ],
+    [ "Register", "d0/deb/a26514.html#a8aae94d6d6a9ec1fa7d47f88874cce4f", null ]
 ];

@@ -1,8 +1,10 @@
 var a14106 =
 [
-    [ "OnApply", "d1/d1b/a14106.html#a6f3f05316f025ef638672a82cc855136", null ],
-    [ "PeriodicTick", "d1/d1b/a14106.html#a051d292f9483e6b82d773fba3ab52460", null ],
-    [ "PrepareAuraScript", "d1/d1b/a14106.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
-    [ "Register", "d1/d1b/a14106.html#a0004de73250b8523db2b9ab714c8a246", null ],
-    [ "Validate", "d1/d1b/a14106.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
+    [ "npc_coren_direbrew_sisters", "d1/d1b/a14106.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
+    [ "GetGUID", "d1/d1b/a14106.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
+    [ "JustEngagedWith", "d1/d1b/a14106.html#a34e0b6af032240c152c463c221d99335", null ],
+    [ "SetGUID", "d1/d1b/a14106.html#ada2e446a929bbba088d3c7e09d117f93", null ],
+    [ "UpdateAI", "d1/d1b/a14106.html#a7434b08d12d3f0902d1944b75323560c", null ],
+    [ "_scheduler", "d1/d1b/a14106.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
+    [ "_targetGUID", "d1/d1b/a14106.html#a801a6811124a7db3a31ec492ef954b20", null ]
 ];

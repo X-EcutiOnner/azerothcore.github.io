@@ -1,8 +1,6 @@
 var a15086 =
 [
-    [ "npc_obsidian_nullifier", "dc/d2f/a15086.html#a9dbb6d681e348057564750fcd7e8050a", null ],
-    [ "JustEngagedWith", "dc/d2f/a15086.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
-    [ "Reset", "dc/d2f/a15086.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
-    [ "UpdateAI", "dc/d2f/a15086.html#a37cf1d335dd3735b262e82828c4f904a", null ],
-    [ "_targetGUIDs", "dc/d2f/a15086.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d3/d23/a15090.html", "d3/d23/a15090" ],
+    [ "instance_temple_of_ahnqiraj", "dc/d2f/a15086.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "dc/d2f/a15086.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

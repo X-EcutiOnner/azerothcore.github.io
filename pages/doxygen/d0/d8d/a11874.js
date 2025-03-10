@@ -1,7 +1,6 @@
 var a11874 =
 [
-    [ "boss_moira_bronzebeardAI", "d0/d8d/a11874.html#a11265b6aad76574c2c76253128c79165", null ],
-    [ "CastOnEmperorIfPossible", "d0/d8d/a11874.html#a3f42c37e9f4cc14974106bf67ee4e583", null ],
-    [ "JustEngagedWith", "d0/d8d/a11874.html#a40ae00eb86e2bec048a9394d4deef106", null ],
-    [ "UpdateAI", "d0/d8d/a11874.html#ae3f22a059330fb564cd30e581fc0198d", null ]
+    [ "boss_grizzleAI", "da/d27/a11878.html", "da/d27/a11878" ],
+    [ "boss_grizzle", "d0/d8d/a11874.html#a6c9913cec9503a86e2f5358f65b97b26", null ],
+    [ "GetAI", "d0/d8d/a11874.html#aa0bf6c89f13fbd20695ebb7ce965b0f5", null ]
 ];

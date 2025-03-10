@@ -1,13 +1,6 @@
 var a01937 =
 [
-    [ "OutdoorPvPGH", "d9/d0b/a22352.html", "d9/d0b/a22352" ],
-    [ "OPvPCapturePointGH", "d0/d28/a22356.html", "d0/d28/a22356" ],
-    [ "OutdoorPvPGHenum", "d9/d17/a01937.html#a68fd4e51a6ab53a5f6bc93fe7800623b", [
-      [ "GH_ALLIANCE_DEFENSE_EVENT", "d9/d17/a01937.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3", null ],
-      [ "GH_HORDE_DEFENSE_EVENT", "d9/d17/a01937.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10", null ],
-      [ "GH_ZONE", "d9/d17/a01937.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f", null ],
-      [ "GH_UI_SLIDER_DISPLAY", "d9/d17/a01937.html#a68fd4e51a6ab53a5f6bc93fe7800623ba645403f643483d0cac92332aa51b77bd", null ],
-      [ "GH_UI_SLIDER_POS", "d9/d17/a01937.html#a68fd4e51a6ab53a5f6bc93fe7800623baa45bc7342ad5ac9b73578034a648f460", null ],
-      [ "GH_UI_SLIDER_N", "d9/d17/a01937.html#a68fd4e51a6ab53a5f6bc93fe7800623ba44cb783273dce4056ade8dafd3ea3bc0", null ]
-    ] ]
+    [ "TSpellSummary", "d4/d3a/a06162.html", "d4/d3a/a06162" ],
+    [ "SCR_CLEAR", "d9/d17/a01937.html#ab71e08e3f39b7ee7bda0306cd39b96a0", null ],
+    [ "SpellSummary", "d9/d17/a01937.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
 ];

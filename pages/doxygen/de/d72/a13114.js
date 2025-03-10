@@ -1,6 +1,6 @@
 var a13114 =
 [
-    [ "HandleActivateObject", "de/d72/a13114.html#aedcb4513b7c53b9a9e972b9051da0e0f", null ],
-    [ "PrepareSpellScript", "de/d72/a13114.html#afc844250ea7ba48330edfda305fa856c", null ],
-    [ "Register", "de/d72/a13114.html#a6d77f6848397724e61c1db7a80de7139", null ]
+    [ "instance_sunken_temple_InstanceMapScript", "de/dfc/a13118.html", "de/dfc/a13118" ],
+    [ "instance_sunken_temple", "de/d72/a13114.html#a123b052c1cd1487588c88bf2611bc53b", null ],
+    [ "GetInstanceScript", "de/d72/a13114.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
 ];

@@ -1,6 +1,6 @@
 var a16726 =
 [
-    [ "npc_tortured_riflemanAI", "de/d9e/a16730.html", "de/d9e/a16730" ],
-    [ "npc_tortured_rifleman", "d2/dea/a16726.html#a32e4164864c3873b3684ad531a2e924a", null ],
-    [ "GetAI", "d2/dea/a16726.html#aaef71feb7077c561eb2bcf7d4fc411c7", null ]
+    [ "npc_ghostly_priestAI", "de/d9e/a16730.html", "de/d9e/a16730" ],
+    [ "npc_ghostly_priest", "d2/dea/a16726.html#a7c03bb327cfc65f4df515969da482ddb", null ],
+    [ "GetAI", "d2/dea/a16726.html#a0fab76345c5459efcedff02123e4fc8d", null ]
 ];

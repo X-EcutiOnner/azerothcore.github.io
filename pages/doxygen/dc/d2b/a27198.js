@@ -1,8 +1,5 @@
 var a27198 =
 [
-    [ "go_bellsAI", "dc/d2b/a27198.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "dc/d2b/a27198.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "dc/d2b/a27198.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "dc/d2b/a27198.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "dc/d2b/a27198.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "go_scourge_cage", "dc/d2b/a27198.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
+    [ "OnGossipHello", "dc/d2b/a27198.html#ab4e97cd290342d623d212cc7cec227d5", null ]
 ];

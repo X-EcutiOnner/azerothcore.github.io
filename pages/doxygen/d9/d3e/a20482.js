@@ -1,9 +1,11 @@
 var a20482 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "d9/d3e/a20482.html#aaa7e94f653a1db001cd0c962fb855098", null ],
-    [ "JustEngagedWith", "d9/d3e/a20482.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
-    [ "Reset", "d9/d3e/a20482.html#a9e4c25742785809d788f2e910f7840bc", null ],
-    [ "UpdateAI", "d9/d3e/a20482.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
-    [ "_isCaster", "d9/d3e/a20482.html#a104f447cc52c285d59653a8ebff20fef", null ],
-    [ "events", "d9/d3e/a20482.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
+    [ "boss_thorim_sifAI", "d9/d3e/a20482.html#af63f344d3a5650baaa9b96204abc39a9", null ],
+    [ "AttackStart", "d9/d3e/a20482.html#ae9354f2e97c88cd1af86fae050e810d6", null ],
+    [ "DoAction", "d9/d3e/a20482.html#a8aac66a64c5ca6491595c2b3b6cbbd95", null ],
+    [ "MoveInLineOfSight", "d9/d3e/a20482.html#a3e7d07ca6fc8f4619173f3fd74d63ccb", null ],
+    [ "Reset", "d9/d3e/a20482.html#ab30d73613bafac5b92021677d69b3aae", null ],
+    [ "UpdateAI", "d9/d3e/a20482.html#a09ee3373177e84a5e4e51ebb48c68525", null ],
+    [ "_allowCast", "d9/d3e/a20482.html#ade272764f09375d8e5fda937d42aad90", null ],
+    [ "events", "d9/d3e/a20482.html#a8fd3c7073a250d054e3edc73d5867fbd", null ]
 ];

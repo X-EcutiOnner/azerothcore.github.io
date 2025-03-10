@@ -1,8 +1,6 @@
 var a15942 =
 [
-    [ "OnApply", "db/d73/a15942.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "db/d73/a15942.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "db/d73/a15942.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "db/d73/a15942.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "db/d73/a15942.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "SendEncounterUnit", "db/d73/a15942.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
+    [ "Execute", "db/d73/a15942.html#ae21b67f8fe8a0677778436563872495f", null ],
+    [ "_owner", "db/d73/a15942.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
 ];

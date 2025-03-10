@@ -1,6 +1,7 @@
 var a23238 =
 [
-    [ "HandleScript", "da/df3/a23238.html#ae45f8a366c1594d3723b83ee6e006957", null ],
-    [ "PrepareSpellScript", "da/df3/a23238.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
-    [ "Register", "da/df3/a23238.html#a6b9e449a64747f0a5715424295b1c30f", null ]
+    [ "boss_hydromancer_thespia", "da/df3/a23238.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "da/df3/a23238.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "da/df3/a23238.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "da/df3/a23238.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

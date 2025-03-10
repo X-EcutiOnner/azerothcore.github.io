@@ -1,6 +1,7 @@
 var a26934 =
 [
-    [ "npc_dream_fogAI", "dd/d99/a26938.html", "dd/d99/a26938" ],
-    [ "npc_dream_fog", "d1/dca/a26934.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "d1/dca/a26934.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "CharacterDeleteActionIpLogger", "d1/dca/a26934.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "d1/dca/a26934.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "d1/dca/a26934.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "d1/dca/a26934.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

@@ -1,5 +1,6 @@
 var a20110 =
 [
-    [ "achievement_cheese_the_freeze", "d2/d5a/a20110.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "d2/d5a/a20110.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "DestroyWinterCache", "d2/d5a/a20110.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "d2/d5a/a20110.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "d2/d5a/a20110.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

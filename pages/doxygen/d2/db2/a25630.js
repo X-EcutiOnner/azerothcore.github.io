@@ -1,7 +1,8 @@
 var a25630 =
 [
-    [ "HandleDummy", "d2/db2/a25630.html#ad6d449ac393851166d8be653639c7d05", null ],
-    [ "PrepareSpellScript", "d2/db2/a25630.html#acb0b66631c0b3df227ee371e2e4000ac", null ],
-    [ "Register", "d2/db2/a25630.html#a8dcd509be4d9034e8c0262bdcb2cf189", null ],
-    [ "Validate", "d2/db2/a25630.html#af8f4e6bb32120c8113ddddcda17ae51d", null ]
+    [ "OnRemove", "d2/db2/a25630.html#a645e869079e711a87f1a957b42a35e98", null ],
+    [ "OnStackChange", "d2/db2/a25630.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
+    [ "PrepareAuraScript", "d2/db2/a25630.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
+    [ "Register", "d2/db2/a25630.html#ac86068a892255e38244c487a7456cd9f", null ],
+    [ "Validate", "d2/db2/a25630.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
 ];

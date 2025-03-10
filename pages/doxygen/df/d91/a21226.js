@@ -1,6 +1,6 @@
 var a21226 =
 [
-    [ "npc_vh_sinclari", "df/d91/a21226.html#ad0235f207a3031420532174c04e0c348", null ],
-    [ "OnGossipHello", "df/d91/a21226.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
-    [ "OnGossipSelect", "df/d91/a21226.html#af0a260d7868f601ae239c226b10d4de3", null ]
+    [ "boss_moraggAI", "de/d7a/a21230.html", "de/d7a/a21230" ],
+    [ "boss_moragg", "df/d91/a21226.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
+    [ "GetAI", "df/d91/a21226.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
 ];

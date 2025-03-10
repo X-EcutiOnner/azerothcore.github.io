@@ -1,11 +1,9 @@
 var a19882 =
 [
-    [ "boss_freya_elder_brightleafAI", "dc/db6/a19882.html#a53de463d34b808b4c5d459e1339f6f30", null ],
-    [ "JustDied", "dc/db6/a19882.html#aeea7300081f645d3fa83df6841c5a497", null ],
-    [ "JustEngagedWith", "dc/db6/a19882.html#a956adeb9b6ea0c8fa71bdcbd3735c79d", null ],
-    [ "KilledUnit", "dc/db6/a19882.html#a47935d017a2d34a888acb4079d3ff9aa", null ],
-    [ "Reset", "dc/db6/a19882.html#aee11d2e1fad8bc1b18c17b1527610914", null ],
-    [ "UpdateAI", "dc/db6/a19882.html#af28f94f278d279513d7f72cdc36528d4", null ],
-    [ "events", "dc/db6/a19882.html#a45b4f0d12497dd8e3ffc1cde429116f6", null ],
-    [ "summons", "dc/db6/a19882.html#a456123135a7fb4595d611a9e3995f461", null ]
+    [ "Absorb", "dc/db6/a19882.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
+    [ "CalculateAmount", "dc/db6/a19882.html#a9166627cbaa536405975444c4ef601de", null ],
+    [ "Load", "dc/db6/a19882.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
+    [ "PrepareAuraScript", "dc/db6/a19882.html#aa5793741c2f8179db68a9fb1222a9085", null ],
+    [ "Register", "dc/db6/a19882.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
+    [ "_absorbPct", "dc/db6/a19882.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
 ];

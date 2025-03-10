@@ -1,9 +1,19 @@
 var a14050 =
 [
-    [ "npc_brew_bubble", "d7/de1/a14050.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "d7/de1/a14050.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "d7/de1/a14050.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "d7/de1/a14050.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "d7/de1/a14050.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "d7/de1/a14050.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "npc_dark_iron_guzzler", "d7/de1/a14050.html#a53ce152d0bf8e727ed0b385bb2293363", null ],
+    [ "AttackStart", "d7/de1/a14050.html#a47295b69eaecf3c001c43a1550dd1a80", null ],
+    [ "DamageTaken", "d7/de1/a14050.html#affd1f78b5c1df26824b08416d6bd03a1", null ],
+    [ "FindNextKeg", "d7/de1/a14050.html#ac063799097f89c09f30bed79151e8ed6", null ],
+    [ "GetTarget", "d7/de1/a14050.html#a076305d37ce348b24b35f7956385e8fc", null ],
+    [ "JustEngagedWith", "d7/de1/a14050.html#ae8142b745e493ab4a77b9df12ea9474d", null ],
+    [ "KilledUnit", "d7/de1/a14050.html#a018513f23158fcd6f929a90cfecfde4c", null ],
+    [ "MoveInLineOfSight", "d7/de1/a14050.html#aaa4df56f1f587029b24626ae1aca552a", null ],
+    [ "MovementInform", "d7/de1/a14050.html#ada6c7f97e25eb545926d6531495bb397", null ],
+    [ "Reset", "d7/de1/a14050.html#af608024d4b41fa218a7baeae9bee72ef", null ],
+    [ "SayText", "d7/de1/a14050.html#a872bdd2e2ff2b72c983658c63d74e2c3", null ],
+    [ "SpellHit", "d7/de1/a14050.html#ae195867416885e570c2c9a4837ac33c1", null ],
+    [ "UpdateAI", "d7/de1/a14050.html#a5decab6f76369ec9ce037dd050898423", null ],
+    [ "attacking", "d7/de1/a14050.html#a18a1d7e61b99819666366c6791154e01", null ],
+    [ "targetGUID", "d7/de1/a14050.html#a620df1502373954020a910853cb6dd3a", null ],
+    [ "timer", "d7/de1/a14050.html#a9748d587b61c148a27be690a6354473f", null ]
 ];

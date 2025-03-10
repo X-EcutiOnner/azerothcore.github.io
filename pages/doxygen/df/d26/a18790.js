@@ -1,6 +1,6 @@
 var a18790 =
 [
-    [ "boss_anubrekhanAI", "da/d38/a18794.html", "da/d38/a18794" ],
-    [ "boss_anubrekhan", "df/d26/a18790.html#a6ff866300f8b0b58d4b7467def9747c0", null ],
-    [ "GetAI", "df/d26/a18790.html#aba5c31f182d6f600302f84ed21e9f7e9", null ]
+    [ "npc_four_car_garageAI", "df/d26/a18790.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "df/d26/a18790.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "df/d26/a18790.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

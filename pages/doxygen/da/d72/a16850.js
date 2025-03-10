@@ -1,7 +1,6 @@
 var a16850 =
 [
-    [ "HandlePeriodicTick", "da/d72/a16850.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
-    [ "PrepareAuraScript", "da/d72/a16850.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
-    [ "Register", "da/d72/a16850.html#a4653ccb0d93d056adf3b14056865787c", null ],
-    [ "Validate", "da/d72/a16850.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
+    [ "instance_halls_of_reflection_InstanceMapScript", "d1/d46/a16854.html", "d1/d46/a16854" ],
+    [ "instance_halls_of_reflection", "da/d72/a16850.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
+    [ "GetInstanceScript", "da/d72/a16850.html#aca27a4f654f41fe6f238c905b48285b7", null ]
 ];

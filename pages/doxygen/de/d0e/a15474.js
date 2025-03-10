@@ -1,14 +1,13 @@
 var a15474 =
 [
-    [ "npc_taskmaster_fizzuleAI", "de/d0e/a15474.html#ac792f91930c869ce919f8fd96b3fb076", null ],
-    [ "DoFriend", "de/d0e/a15474.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
-    [ "JustEngagedWith", "de/d0e/a15474.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
-    [ "ReceiveEmote", "de/d0e/a15474.html#a21d0d70086f085b715a12d05fbe5d611", null ],
-    [ "Reset", "de/d0e/a15474.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
-    [ "SpellHit", "de/d0e/a15474.html#a4c35104935a3a6264c853a657dc42244", null ],
-    [ "UpdateAI", "de/d0e/a15474.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
-    [ "factionNorm", "de/d0e/a15474.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
-    [ "FlareCount", "de/d0e/a15474.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
-    [ "IsFriend", "de/d0e/a15474.html#ab7e6bd2e023545c73fba758267551eee", null ],
-    [ "ResetTimer", "de/d0e/a15474.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
+    [ "npc_aquementasAI", "de/d0e/a15474.html#aad63986cdb8a65c528af3ccd114d2041", null ],
+    [ "JustEngagedWith", "de/d0e/a15474.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
+    [ "Reset", "de/d0e/a15474.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
+    [ "SendItem", "de/d0e/a15474.html#a60bafbd70783411236dcf3d0bfe244de", null ],
+    [ "UpdateAI", "de/d0e/a15474.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
+    [ "AquaJetTimer", "de/d0e/a15474.html#a8506acc69436af869d1404bd95109e68", null ],
+    [ "FrostShockTimer", "de/d0e/a15474.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
+    [ "isFriendly", "de/d0e/a15474.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
+    [ "SendItemTimer", "de/d0e/a15474.html#a3a0883b43056b176ef2ae55673adacf3", null ],
+    [ "SwitchFactionTimer", "de/d0e/a15474.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
 ];

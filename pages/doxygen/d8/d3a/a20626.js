@@ -1,6 +1,7 @@
 var a20626 =
 [
-    [ "boss_yoggsaron_cloudAI", "d4/dbd/a20630.html", "d4/dbd/a20630" ],
-    [ "boss_yoggsaron_cloud", "d8/d3a/a20626.html#ab52cc1fa8b45b70dde340b9f463ef2f1", null ],
-    [ "GetAI", "d8/d3a/a20626.html#a2005f062eb9d78c7b09b045eba570b98", null ]
+    [ "npc_xt002_life_sparkAI", "d8/d3a/a20626.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
+    [ "Reset", "d8/d3a/a20626.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
+    [ "UpdateAI", "d8/d3a/a20626.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
+    [ "_attackTimer", "d8/d3a/a20626.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
 ];

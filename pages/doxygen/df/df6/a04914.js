@@ -1,8 +1,10 @@
 var a04914 =
 [
-    [ "AreaInfo", "d6/d54/a04918.html", "d6/d54/a04918" ],
-    [ "LiquidInfo", "de/de4/a04922.html", "de/de4/a04922" ],
-    [ "areaInfo", "df/df6/a04914.html#a0d30ac3fa0cefd6eafc1690c75f46f0f", null ],
-    [ "floorZ", "df/df6/a04914.html#af7c8710b5d296c1d792b4fc34302278f", null ],
-    [ "liquidInfo", "df/df6/a04914.html#ae59e1e7fdf4913c48a0d82e1d19366a7", null ]
+    [ "DynamicTreeLocationInfoCallback", "df/df6/a04914.html#a3fcb6d535b2207e2bfedb961de856e6d", null ],
+    [ "GetHitModel", "df/df6/a04914.html#ac939625c44c7be8ba8b96d55545b657c", null ],
+    [ "GetLocationInfo", "df/df6/a04914.html#ac1c3839aa1f0e9b64390502c4ce7bb3e", null ],
+    [ "operator()", "df/df6/a04914.html#a4d2569c48cfa431282119ed5bd53ffb4", null ],
+    [ "_hitModel", "df/df6/a04914.html#adef79d7627daa66d88c7146704984622", null ],
+    [ "_locationInfo", "df/df6/a04914.html#a3c9be93de73520942a8d52b78fe72438", null ],
+    [ "_phaseMask", "df/df6/a04914.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e", null ]
 ];

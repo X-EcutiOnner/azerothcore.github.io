@@ -1,6 +1,6 @@
 var a27194 =
 [
-    [ "go_bellsAI", "dc/d2b/a27198.html", "dc/d2b/a27198" ],
-    [ "go_bells", "da/ddd/a27194.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
-    [ "GetAI", "da/ddd/a27194.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
+    [ "go_bashir_crystalforge", "da/ddd/a27194.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "da/ddd/a27194.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "da/ddd/a27194.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

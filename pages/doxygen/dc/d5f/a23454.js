@@ -1,17 +1,8 @@
 var a23454 =
 [
-    [ "boss_grand_warlock_nethekurse", "dc/d5f/a23454.html#a4eefeb639cf5f0753feb6cfd99cda187", null ],
-    [ "DoAction", "dc/d5f/a23454.html#a8288f8c28b61dac574254435534b5e3f", null ],
-    [ "IntroRP", "dc/d5f/a23454.html#ae071f8cc7ef44e6c6cf205295debea5f", null ],
-    [ "JustDied", "dc/d5f/a23454.html#a48a2ec7beeb5c9685fc627317acea949", null ],
-    [ "JustEngagedWith", "dc/d5f/a23454.html#a117d2d737433ea89b37ea1ee58e6c237", null ],
-    [ "JustReachedHome", "dc/d5f/a23454.html#afe62561de66fbe7fa92c365a51f01adc", null ],
-    [ "KilledUnit", "dc/d5f/a23454.html#ac29fa30bfa8377a07cbfdd1f0964ebfb", null ],
-    [ "Reset", "dc/d5f/a23454.html#aceef7aace38f5246ad67a1591b7f301c", null ],
-    [ "SetData", "dc/d5f/a23454.html#a6c647262ce7df78c46af6b725cbcc250", null ],
-    [ "UpdateAI", "dc/d5f/a23454.html#aca0bd4c71aafd2d1c54e2ca87d538e9a", null ],
-    [ "_canAggro", "dc/d5f/a23454.html#a9c577798d5bc87654e6984af02d95c34", null ],
-    [ "_introStarted", "dc/d5f/a23454.html#ac7d0737aa28c51cc63d93b8774e536f0", null ],
-    [ "PeonEngagedCount", "dc/d5f/a23454.html#a886a0e792cf5ac6afa9670703cb568ff", null ],
-    [ "PeonKilledCount", "dc/d5f/a23454.html#a8837d810df1d8b8a505d2d6c98ac8be8", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "dc/d5f/a23454.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "dc/d5f/a23454.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "dc/d5f/a23454.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "dc/d5f/a23454.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "dc/d5f/a23454.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

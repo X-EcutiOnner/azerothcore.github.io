@@ -1,6 +1,8 @@
 var a20322 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d9/d44/a20326.html", "d9/d44/a20326" ],
-    [ "npc_ulduar_emergency_fire_bot", "d6/d33/a20322.html#a1adc05ac4602ab2b297b18f605bfd2cd", null ],
-    [ "GetAI", "d6/d33/a20322.html#afb3ab952495175c5f571d4e39a5acea4", null ]
+    [ "npc_ulduar_mimiron_rocketAI", "d6/d33/a20322.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
+    [ "InitializeAI", "d6/d33/a20322.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
+    [ "Reset", "d6/d33/a20322.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
+    [ "SetData", "d6/d33/a20322.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
+    [ "UpdateAI", "d6/d33/a20322.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
 ];

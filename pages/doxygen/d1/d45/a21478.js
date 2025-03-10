@@ -1,7 +1,6 @@
 var a21478 =
 [
-    [ "npc_warmage_violetstand", "d1/d45/a21478.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d1/d45/a21478.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d1/d45/a21478.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d1/d45/a21478.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "HandleEffect", "d1/d45/a21478.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
+    [ "PrepareSpellScript", "d1/d45/a21478.html#aec199e9f9651267fac88bd86be326bb4", null ],
+    [ "Register", "d1/d45/a21478.html#a14bd854db86750704c8377d457dea360", null ]
 ];

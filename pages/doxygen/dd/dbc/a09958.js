@@ -1,25 +1,10 @@
 var a09958 =
 [
-    [ "TaxiNodeChangeInfo", "d2/d5e/a09962.html", "d2/d5e/a09962" ],
-    [ "FlightPathMovementGenerator", "dd/dbc/a09958.html#a2f30b03536f0f88a4b9b541f08019af0", null ],
-    [ "DoEventIfAny", "dd/dbc/a09958.html#af7f2a72e9cf20bf105204b8de08400de", null ],
-    [ "DoFinalize", "dd/dbc/a09958.html#af4017ff6e47601f667587fb7dd6a721c", null ],
-    [ "DoInitialize", "dd/dbc/a09958.html#a4b0ab8a2be27b3640ff2155d734b467c", null ],
-    [ "DoReset", "dd/dbc/a09958.html#abd78eb2841908da8c3c18936d80f18e9", null ],
-    [ "DoUpdate", "dd/dbc/a09958.html#a1e4b3d248c0021a3e2a1c1446f6b7073", null ],
-    [ "GetMovementGeneratorType", "dd/dbc/a09958.html#a8ef0966524b238a617487bde185de6f7", null ],
-    [ "GetPath", "dd/dbc/a09958.html#a931a91b2e689d58098898f7b9533d632", null ],
-    [ "GetPathAtMapEnd", "dd/dbc/a09958.html#a0493824ba23608abcf98a156cf89bb5a", null ],
-    [ "GetResetPos", "dd/dbc/a09958.html#ae2cc924b7dd5252c1cb8fcf8679b7786", null ],
-    [ "HasArrived", "dd/dbc/a09958.html#ad4a14cf3b7497cf30e6305d52d94ecdb", null ],
-    [ "InitEndGridInfo", "dd/dbc/a09958.html#a6cf74faed9b8609fa74932148b6b4948", null ],
-    [ "LoadPath", "dd/dbc/a09958.html#ae21613bcea0003b186b08761aaf525aa", null ],
-    [ "PreloadEndGrid", "dd/dbc/a09958.html#ac7bb92b99dc57a2b53b0a55e0a797678", null ],
-    [ "SetCurrentNodeAfterTeleport", "dd/dbc/a09958.html#a7ed3028aa5d9d71cf0d889d4063fae2a", null ],
-    [ "SkipCurrentNode", "dd/dbc/a09958.html#a080a68e435698a14288f62ea6576a730", null ],
-    [ "_endGridX", "dd/dbc/a09958.html#a8dd2719a015fca9fe46c8b3586b0434c", null ],
-    [ "_endGridY", "dd/dbc/a09958.html#a1b0c069bcbcf3b13691b9ea80ac4c3a6", null ],
-    [ "_endMapId", "dd/dbc/a09958.html#aa83bc85f1b6cd6d5367d745ae31cc6fc", null ],
-    [ "_pointsForPathSwitch", "dd/dbc/a09958.html#a975eddf086fbd811fdebae405a62f2ea", null ],
-    [ "_preloadTargetNode", "dd/dbc/a09958.html#a3192e87bc06fa21ea01f99ba23fe6eb1", null ]
+    [ "EffectMovementGenerator", "dd/dbc/a09958.html#a4b574eb9865cffe1277d9012db653d98", null ],
+    [ "Finalize", "dd/dbc/a09958.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
+    [ "GetMovementGeneratorType", "dd/dbc/a09958.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
+    [ "Initialize", "dd/dbc/a09958.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
+    [ "Reset", "dd/dbc/a09958.html#a9627573a7206e12ff469e8e6e076862b", null ],
+    [ "Update", "dd/dbc/a09958.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
+    [ "m_Id", "dd/dbc/a09958.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
 ];

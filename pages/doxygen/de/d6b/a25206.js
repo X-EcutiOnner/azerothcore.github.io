@@ -1,6 +1,7 @@
 var a25206 =
 [
-    [ "CalculateAmount", "de/d6b/a25206.html#ac0018b57967a3d3ae71aa81745032f15", null ],
-    [ "PrepareAuraScript", "de/d6b/a25206.html#ab249a493050c5527eeec8913e94cfc64", null ],
-    [ "Register", "de/d6b/a25206.html#a8f078f8370eacba197ceb2068b6a538d", null ]
+    [ "OnApply", "de/d6b/a25206.html#a455a885611978a390cd4bfa76b05f82b", null ],
+    [ "PrepareAuraScript", "de/d6b/a25206.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
+    [ "Register", "de/d6b/a25206.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
+    [ "Validate", "de/d6b/a25206.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
 ];

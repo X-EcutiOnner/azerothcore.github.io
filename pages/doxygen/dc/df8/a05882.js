@@ -1,6 +1,11 @@
 var a05882 =
 [
-    [ "changed", "dc/df8/a05882.html#af0cf916cd514f64f53f98c108ff63591", null ],
-    [ "counter", "dc/df8/a05882.html#a5ba0b1002e0bfd61ad17b2130a207cb1", null ],
-    [ "date", "dc/df8/a05882.html#a9a6769cf4ca7ba55752adc8cdeba71f5", null ]
+    [ "AppliedFileEntry", "dc/df8/a05882.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
+    [ "GetStateAsString", "dc/df8/a05882.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
+    [ "StateConvert", "dc/df8/a05882.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
+    [ "StateConvert", "dc/df8/a05882.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
+    [ "hash", "dc/df8/a05882.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
+    [ "name", "dc/df8/a05882.html#a8fc429eae6816054b5828952a5698a4c", null ],
+    [ "state", "dc/df8/a05882.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
+    [ "timestamp", "dc/df8/a05882.html#a13703e88b76f26858696b33a8bc8f862", null ]
 ];

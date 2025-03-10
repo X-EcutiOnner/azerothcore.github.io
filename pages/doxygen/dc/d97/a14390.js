@@ -1,6 +1,5 @@
 var a14390 =
 [
-    [ "HandleScriptEffect", "dc/d97/a14390.html#aebd700897688157ca62405c92fe58680", null ],
-    [ "PrepareSpellScript", "dc/d97/a14390.html#a09e11d1938279a2302fb8805e71c6c36", null ],
-    [ "Register", "dc/d97/a14390.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
+    [ "npc_pilgrims_bounty_plate", "dc/d97/a14390.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "dc/d97/a14390.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

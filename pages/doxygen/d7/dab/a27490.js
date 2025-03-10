@@ -1,6 +1,7 @@
 var a27490 =
 [
-    [ "npc_venomhide_hatchlingAI", "d7/dab/a27490.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d7/dab/a27490.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d7/dab/a27490.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "npc_wormholeAI", "d7/dab/a27490.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "d7/dab/a27490.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "d7/dab/a27490.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "d7/dab/a27490.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

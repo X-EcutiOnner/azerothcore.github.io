@@ -1,10 +1,9 @@
 var a02183 =
 [
-    [ "SavedAddonsList", "df/d14/a02183.html#afa468163a23ed58507a89e5724c06eac", null ],
-    [ "GetAddonInfo", "df/d14/a02183.html#a65cb6a88902972060e44c57d7d9ec738", null ],
-    [ "GetBannedAddons", "df/d14/a02183.html#ad7d0938e7463238a86e8c811e1a58800", null ],
-    [ "LoadFromDB", "df/d14/a02183.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
-    [ "SaveAddon", "df/d14/a02183.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
-    [ "m_bannedAddons", "df/d14/a02183.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
-    [ "m_knownAddons", "df/d14/a02183.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
+    [ "AchievementVisitor", "d1/d15/a07522.html", "d1/d15/a07522" ],
+    [ "GameTeleVisitor", "d7/d7c/a07526.html", "d7/d7c/a07526" ],
+    [ "ItemTemplateVisitor", "d1/da9/a07530.html", "d1/da9/a07530" ],
+    [ "SpellInfoVisitor", "d1/dd6/a07534.html", "d1/dd6/a07534" ],
+    [ "QuestVisitor", "d3/ddf/a07538.html", "d3/ddf/a07538" ],
+    [ "ChatCommandResult", "df/d14/a02183.html#ad9c9d483b96ed400318aed8441ebe7f1", null ]
 ];

@@ -1,6 +1,6 @@
 var a21154 =
 [
-    [ "boss_ichoronAI", "d4/d5c/a21158.html", "d4/d5c/a21158" ],
-    [ "boss_ichoron", "d2/d89/a21154.html#ad4390da77a130edaf050d0bef3926882", null ],
-    [ "GetAI", "d2/d89/a21154.html#a68051088dc2d2c738b042e2df0436b28", null ]
+    [ "npc_frozen_orbAI", "d4/d5c/a21158.html", "d4/d5c/a21158" ],
+    [ "npc_frozen_orb", "d2/d89/a21154.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "d2/d89/a21154.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

@@ -1,6 +1,6 @@
 var a23022 =
 [
-    [ "FilterTargets", "d5/d16/a23022.html#ac20676c292d87276e444bad56d71960d", null ],
-    [ "PrepareSpellScript", "d5/d16/a23022.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
-    [ "Register", "d5/d16/a23022.html#ae356b768872de3e87806c19bf8cccb08", null ]
+    [ "HandleEffectRemove", "d5/d16/a23022.html#a9e578e576d8fa4198cf1f0e9f03ba47a", null ],
+    [ "PrepareAuraScript", "d5/d16/a23022.html#a5fa56f4d61c63487919bb2080795e391", null ],
+    [ "Register", "d5/d16/a23022.html#a2d0bbef8b32c688b7409837b426d9cd1", null ]
 ];

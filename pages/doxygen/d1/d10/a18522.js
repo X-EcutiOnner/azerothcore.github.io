@@ -1,7 +1,6 @@
 var a18522 =
 [
-    [ "OnApply", "d1/d10/a18522.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "d1/d10/a18522.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "d1/d10/a18522.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "d1/d10/a18522.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "npc_captain_grondelAI", "d1/d10/a18522.html#afbc971fc03584b87229318309d51a2f5", null ],
+    [ "Reset", "d1/d10/a18522.html#a7d3878822e77fba66891e87e23bd3740", null ],
+    [ "UpdateAI", "d1/d10/a18522.html#a4af8548092b49653805224bd4c0ac0a2", null ]
 ];

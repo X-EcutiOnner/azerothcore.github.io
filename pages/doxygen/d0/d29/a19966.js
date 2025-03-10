@@ -1,8 +1,14 @@
 var a19966 =
 [
-    [ "OnApply", "d0/d29/a19966.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
-    [ "OnRemove", "d0/d29/a19966.html#a4709f570f9014eb36bc8c65269470373", null ],
-    [ "PrepareAuraScript", "d0/d29/a19966.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
-    [ "Register", "d0/d29/a19966.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
-    [ "Validate", "d0/d29/a19966.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
+    [ "boss_freya_summonsAI", "d0/d29/a19966.html#acbba11d918cc6368612cbd3d95310fe2", null ],
+    [ "DoAction", "d0/d29/a19966.html#ad9dd522e33ffd42bff75f7dd5f1bdc45", null ],
+    [ "JustDied", "d0/d29/a19966.html#af7668e0cb4be7d49af8be697b8fa3299", null ],
+    [ "JustEngagedWith", "d0/d29/a19966.html#a3163e12dd184dc5b8981c356e601a05a", null ],
+    [ "Reset", "d0/d29/a19966.html#a44f1ac940625fdd0cdb84454082e7ab6", null ],
+    [ "UpdateAI", "d0/d29/a19966.html#afdd17576728872509ec31188fa68505b", null ],
+    [ "_freyaGUID", "d0/d29/a19966.html#adcdf01b496a52b1d0aa2f1b3bf6a7a0a", null ],
+    [ "_hasDied", "d0/d29/a19966.html#a86f421141d31ac70e58cf63fe707ba27", null ],
+    [ "_isTrio", "d0/d29/a19966.html#ab31e8c73c3e22b031e5efe89ae95ce0e", null ],
+    [ "_stackCount", "d0/d29/a19966.html#ab7fc673ad22c1dd3bd41fa185ee03abb", null ],
+    [ "events", "d0/d29/a19966.html#a79403b4a24b92f89252db603d8ea2210", null ]
 ];

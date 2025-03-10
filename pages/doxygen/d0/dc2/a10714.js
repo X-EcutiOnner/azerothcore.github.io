@@ -1,9 +1,11 @@
 var a10714 =
 [
-    [ "RandomRoll", "d0/dc2/a10714.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
-    [ "Write", "d0/dc2/a10714.html#aab5879874745603dd448a7f5084d60d4", null ],
-    [ "Max", "d0/dc2/a10714.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
-    [ "Min", "d0/dc2/a10714.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
-    [ "Result", "d0/dc2/a10714.html#a34fd2c1d018bb292836724671163ff07", null ],
-    [ "Roller", "d0/dc2/a10714.html#af02aa97826259885791d0f4afc0c1a84", null ]
+    [ "LFGJoin", "d0/dc2/a10714.html#a50c79bdef7393907673a328bc36ff8ae", null ],
+    [ "Read", "d0/dc2/a10714.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
+    [ "Achievements", "d0/dc2/a10714.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
+    [ "Comment", "d0/dc2/a10714.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
+    [ "Needs", "d0/dc2/a10714.html#a313c16e84e2cd0b55551d16273e95917", null ],
+    [ "NoPartialClear", "d0/dc2/a10714.html#aad54be871d0978034fb69a464fd5b9df", null ],
+    [ "Roles", "d0/dc2/a10714.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
+    [ "Slots", "d0/dc2/a10714.html#aa14a07716504723283ad80c6357cf53f", null ]
 ];

@@ -1,6 +1,6 @@
 var a03461 =
 [
-    [ "go_firework_show", "d7/df4/a14176.html", "d7/df4/a14176" ],
-    [ "AddSC_event_firework_show_scripts", "db/d1b/a03461.html#af7a6296c13b6615a14e0823fe7e5b577", null ],
-    [ "FireworkShowStore", "db/d1b/a03461.html#a7e7f0c2a7b605ff7a9a4fb3302ed279e", null ]
+    [ "fireworkShowGameobjectOrgrimmar", "db/d1b/a03461.html#aa00988212bcd8875445e2b120c00025c", null ],
+    [ "fireworkShowOrgrimmar", "db/d1b/a03461.html#a20e15c8e61c734af478a4849bd54c9d3", null ],
+    [ "fireworkShowScheduleOrgrimmar", "db/d1b/a03461.html#a2e2ca4fa893601a2122f94a72c18401f", null ]
 ];

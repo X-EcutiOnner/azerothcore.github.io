@@ -1,5 +1,7 @@
 var a02492 =
 [
-    [ "instance_commandscript", "d7/d6c/a11596.html", "d7/d6c/a11596" ],
-    [ "AddSC_instance_commandscript", "d6/d90/a02492.html#a3d7dc88b6e95322f2f3dc69ad367fa0c", null ]
+    [ "inventory_commandscript", "d1/dfd/a11618.html", "d1/dfd/a11618" ],
+    [ "AddSC_inventory_commandscript", "d6/d90/a02492.html#a8917ab2c5001702c3dc7a14313dbc562", null ],
+    [ "bagSpecsColors", "d6/d90/a02492.html#aabf9a2b965ae6153eb18635be4468eb6", null ],
+    [ "bagSpecsToString", "d6/d90/a02492.html#ac004d76eb746ea415b16f1b512a057b6", null ]
 ];

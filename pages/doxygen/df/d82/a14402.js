@@ -1,6 +1,6 @@
 var a14402 =
 [
-    [ "HandleScriptEffect", "df/d82/a14402.html#a2acaaf3716237f147429cb07779ae49e", null ],
-    [ "PrepareSpellScript", "df/d82/a14402.html#a55df717ede47b17a32ae33ecd64617cd", null ],
-    [ "Register", "df/d82/a14402.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
+    [ "HandleScriptEffect", "df/d82/a14402.html#a074f54a4b022adc6ea34b3716dec745f", null ],
+    [ "PrepareSpellScript", "df/d82/a14402.html#a725d5bc1f76614778b140f3061aa2e03", null ],
+    [ "Register", "df/d82/a14402.html#a339df7ae9553fbae68ce791baef1df5e", null ]
 ];

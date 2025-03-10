@@ -1,6 +1,6 @@
 var a24222 =
 [
-    [ "achievement", "da/d67/a24222.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "da/d67/a24222.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "da/d67/a24222.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "npc_pet_dk_ebon_gargoyleAI", "d7/d2a/a24226.html", "d7/d2a/a24226" ],
+    [ "npc_pet_dk_ebon_gargoyle", "da/d67/a24222.html#ae4dcaff120a52c20a8b73d97a08604d7", null ],
+    [ "GetAI", "da/d67/a24222.html#a19ff9fd627aab738c91ce23cf6acfffd", null ]
 ];

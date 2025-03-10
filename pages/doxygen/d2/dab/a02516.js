@@ -1,5 +1,5 @@
 var a02516 =
 [
-    [ "achievement_commandscript", "dc/dda/a11508.html", "dc/dda/a11508" ],
-    [ "AddSC_achievement_commandscript", "d2/dab/a02516.html#afeb482a8cffe8416071764bc4e78bff2", null ]
+    [ "titles_commandscript", "d6/dac/a11718.html", "d6/dac/a11718" ],
+    [ "AddSC_titles_commandscript", "d2/dab/a02516.html#abd13948cbed6e10bdbf797847a0f6839", null ]
 ];

@@ -1,6 +1,8 @@
 var a15190 =
 [
-    [ "npc_webbed_creatureAI", "dc/dbb/a15194.html", "dc/dbb/a15194" ],
-    [ "npc_webbed_creature", "d9/d84/a15190.html#ae52152939766c411e45e827e9ab52d4f", null ],
-    [ "GetAI", "d9/d84/a15190.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
+    [ "npc_injured_draeneiAI", "d9/d84/a15190.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
+    [ "JustEngagedWith", "d9/d84/a15190.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
+    [ "MoveInLineOfSight", "d9/d84/a15190.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
+    [ "Reset", "d9/d84/a15190.html#adcb601f739a91ce71926791885152471", null ],
+    [ "UpdateAI", "d9/d84/a15190.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
 ];

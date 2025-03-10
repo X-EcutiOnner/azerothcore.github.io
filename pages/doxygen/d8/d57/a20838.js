@@ -1,6 +1,6 @@
 var a20838 =
 [
-    [ "instance_ulduar_InstanceMapScript", "df/d5c/a20842.html", "df/d5c/a20842" ],
-    [ "instance_ulduar", "d8/d57/a20838.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "d8/d57/a20838.html#ad15f003a90e656910fc32d661ca9baba", null ]
+    [ "OnRemove", "d8/d57/a20838.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
+    [ "PrepareAuraScript", "d8/d57/a20838.html#a5fb0837417b915676549370cc76c477d", null ],
+    [ "Register", "d8/d57/a20838.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
 ];

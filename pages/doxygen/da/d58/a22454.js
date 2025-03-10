@@ -1,8 +1,12 @@
 var a22454 =
 [
-    [ "boss_tavarok", "da/d58/a22454.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
-    [ "JustDied", "da/d58/a22454.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
-    [ "JustEngagedWith", "da/d58/a22454.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
-    [ "KilledUnit", "da/d58/a22454.html#a2c99df9457c548ee562fde920592ea88", null ],
-    [ "Reset", "da/d58/a22454.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
+    [ "OPvPCapturePointZM_Beacon", "da/d58/a22454.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
+    [ "ChangeState", "da/d58/a22454.html#a5bbe87c18c814358596a9648fd92b129", null ],
+    [ "FillInitialWorldStates", "da/d58/a22454.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
+    [ "HandlePlayerEnter", "da/d58/a22454.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
+    [ "HandlePlayerLeave", "da/d58/a22454.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
+    [ "SendChangePhase", "da/d58/a22454.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
+    [ "UpdateTowerState", "da/d58/a22454.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
+    [ "m_TowerState", "da/d58/a22454.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
+    [ "m_TowerType", "da/d58/a22454.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
 ];

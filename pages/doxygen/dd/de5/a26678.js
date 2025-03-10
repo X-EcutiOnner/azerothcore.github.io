@@ -1,8 +1,6 @@
 var a26678 =
 [
-    [ "Load", "dd/de5/a26678.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
-    [ "OnRemove", "dd/de5/a26678.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
-    [ "PrepareAuraScript", "dd/de5/a26678.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
-    [ "Register", "dd/de5/a26678.html#a932760326c822f1b47df1afdec6bb9cb", null ],
-    [ "Validate", "dd/de5/a26678.html#a69bcfedb7f566c572201aadc9e75df08", null ]
+    [ "FilterTargets", "dd/de5/a26678.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
+    [ "PrepareSpellScript", "dd/de5/a26678.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
+    [ "Register", "dd/de5/a26678.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
 ];

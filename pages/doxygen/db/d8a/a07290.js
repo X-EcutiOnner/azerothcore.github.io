@@ -1,12 +1,12 @@
 var a07290 =
 [
-    [ "NodeId", "db/d8a/a07290.html#a039c468fa0b6110809f0617496c0146c", null ],
-    [ "TextAllianceAssaulted", "db/d8a/a07290.html#a345b2ce7c48e9d10d03ff484a0108389", null ],
-    [ "TextAllianceClaims", "db/d8a/a07290.html#a0671602a29f33e353a8a339540beae18", null ],
-    [ "TextAllianceDefended", "db/d8a/a07290.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250", null ],
-    [ "TextAllianceTaken", "db/d8a/a07290.html#a281a0378999ed5966f5d28cc4310fbcd", null ],
-    [ "TextHordeAssaulted", "db/d8a/a07290.html#a7fb668b0b9563bb0779bf4a5daefded8", null ],
-    [ "TextHordeClaims", "db/d8a/a07290.html#acddac09017717cf5b2893ab83e1d10c8", null ],
-    [ "TextHordeDefended", "db/d8a/a07290.html#a00cea010cfe6fb9702e5cb00003e5bef", null ],
-    [ "TextHordeTaken", "db/d8a/a07290.html#a2bbd1b49b9b72784d07be9db2a27fe77", null ]
+    [ "BGQueueRemoveEvent", "db/d8a/a07290.html#ab751b728f64b2928eefb21f756539d81", null ],
+    [ "~BGQueueRemoveEvent", "db/d8a/a07290.html#aab9ea24041888975439aafb246c571c3", null ],
+    [ "Abort", "db/d8a/a07290.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
+    [ "Execute", "db/d8a/a07290.html#a42482ff784da4b23b568888a74a0b531", null ],
+    [ "m_BgInstanceGUID", "db/d8a/a07290.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
+    [ "m_BgQueueTypeId", "db/d8a/a07290.html#ac059a823ae49bd0250eec15845bf153b", null ],
+    [ "m_BgTypeId", "db/d8a/a07290.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
+    [ "m_PlayerGuid", "db/d8a/a07290.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
+    [ "m_RemoveTime", "db/d8a/a07290.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
 ];

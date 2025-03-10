@@ -1,7 +1,6 @@
 var a12970 =
 [
-    [ "HandleScript", "d2/de1/a12970.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
-    [ "PrepareSpellScript", "d2/de1/a12970.html#a034195e58f02225c172b70c3967fe3ad", null ],
-    [ "Register", "d2/de1/a12970.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
-    [ "Validate", "d2/de1/a12970.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
+    [ "boss_darkmaster_gandlingAI", "d6/d40/a12974.html", "d6/d40/a12974" ],
+    [ "boss_darkmaster_gandling", "d2/de1/a12970.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
+    [ "GetAI", "d2/de1/a12970.html#a21ea53862614303af31a517a53d1fbf6", null ]
 ];

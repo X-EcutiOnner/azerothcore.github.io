@@ -1,7 +1,7 @@
 var a29510 =
 [
-    [ "npc_venomhide_hatchlingAI", "d4/d70/a29514.html", "d4/d70/a29514" ],
-    [ "npc_venomhide_hatchling", "d0/d8b/a29510.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
-    [ "GetAI", "d0/d8b/a29510.html#a96110b752965d751ab7b466c4f67e333", null ],
-    [ "OnGossipHello", "d0/d8b/a29510.html#a404d875592b847ddb9f3250c9d954bfc", null ]
+    [ "MPQArchive", "db/d20/a28522.html", "db/d20/a28522" ],
+    [ "MPQFile", "d2/d51/a28526.html", "d2/d51/a28526" ],
+    [ "ArchiveSet", "d0/d8b/a29510.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "d0/d8b/a29510.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

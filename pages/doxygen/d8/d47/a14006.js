@@ -1,11 +1,6 @@
 var a14006 =
 [
-    [ "npc_dark_iron_attack_mole_machine", "d8/d47/a14006.html#a473a8fb4905e5d1333196797d7d0f371", null ],
-    [ "AttackStart", "d8/d47/a14006.html#a999dd932fbaf22a8275dfdba150c3291", null ],
-    [ "JustEngagedWith", "d8/d47/a14006.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
-    [ "MoveInLineOfSight", "d8/d47/a14006.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
-    [ "Reset", "d8/d47/a14006.html#a0727aab751ddfbd94ae070e60e47e768", null ],
-    [ "UpdateAI", "d8/d47/a14006.html#a1217ed510a846d011143ae0a386c6236", null ],
-    [ "goTimer", "d8/d47/a14006.html#a8686845ebef564c9fcaa115866c99749", null ],
-    [ "summonTimer", "d8/d47/a14006.html#a4713da02f4a86547a0f796167e24d8bb", null ]
+    [ "boss_wushoolayAI", "d7/d3f/a14010.html", "d7/d3f/a14010" ],
+    [ "boss_wushoolay", "d8/d47/a14006.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
+    [ "GetAI", "d8/d47/a14006.html#a70b476358956fd05d6effb75517e2b3d", null ]
 ];

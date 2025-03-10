@@ -1,4 +1,4 @@
 var a01640 =
 [
-    [ "ScriptRegistry< WorldObjectScript >", "de/d14/a01640.html#a2e5b964820eedff4e7b34c6c79cfca6d", null ]
+    [ "ScriptRegistry< VehicleScript >", "de/d14/a01640.html#af505a519aaa0d7e6070eb203075ff98d", null ]
 ];

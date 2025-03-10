@@ -1,8 +1,10 @@
 var a26022 =
 [
-    [ "CheckProc", "dc/ddf/a26022.html#ac6b3ce1ff227a140b77e177198675dbf", null ],
-    [ "HandleProc", "dc/ddf/a26022.html#ae5ed8237f49454279db6348dbde653ad", null ],
-    [ "PrepareAuraScript", "dc/ddf/a26022.html#a1ee84242579d4cd81d6313f78354729b", null ],
-    [ "Register", "dc/ddf/a26022.html#a8f16147f2dfc433458ad32529f7d25d1", null ],
-    [ "Validate", "dc/ddf/a26022.html#a787639c45505da58aeb2174148ef4f83", null ]
+    [ "CheckCast", "dc/ddf/a26022.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleScript", "dc/ddf/a26022.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "dc/ddf/a26022.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "dc/ddf/a26022.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "dc/ddf/a26022.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "dc/ddf/a26022.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "dc/ddf/a26022.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

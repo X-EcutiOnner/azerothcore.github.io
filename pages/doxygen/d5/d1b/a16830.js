@@ -1,6 +1,9 @@
 var a16830 =
 [
-    [ "boss_ickAI", "de/d65/a16834.html", "de/d65/a16834" ],
-    [ "boss_ick", "d5/d1b/a16830.html#af97d7f96bc48ba245e28c18614b9369e", null ],
-    [ "GetAI", "d5/d1b/a16830.html#a355285766712a31b704c23fe85d19e5f", null ]
+    [ "npc_hor_lumbering_abominationAI", "d5/d1b/a16830.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
+    [ "JustDied", "d5/d1b/a16830.html#af243a79da3028d3d66facc8a15132f78", null ],
+    [ "JustEngagedWith", "d5/d1b/a16830.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
+    [ "Reset", "d5/d1b/a16830.html#a4270f405bbade0028fce4df0655a1987", null ],
+    [ "UpdateAI", "d5/d1b/a16830.html#a995d0f7902cb70280d1448ac7731a816", null ],
+    [ "events", "d5/d1b/a16830.html#aee9063950477b50e38ec904e91882689", null ]
 ];

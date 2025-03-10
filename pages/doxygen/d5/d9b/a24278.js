@@ -1,6 +1,7 @@
 var a24278 =
 [
-    [ "DeathEvent", "d5/d9b/a24278.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "d5/d9b/a24278.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "d5/d9b/a24278.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "npc_pet_gen_target_following_bomb", "d5/d9b/a24278.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "d5/d9b/a24278.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "d5/d9b/a24278.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "d5/d9b/a24278.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

@@ -1,33 +1,62 @@
 var a04136 =
 [
-    [ "achievement_resilient_victory", "da/d65/a26836.html", "da/d65/a26836" ],
-    [ "achievement_bg_control_all_nodes", "d0/d98/a26840.html", "d0/d98/a26840" ],
-    [ "achievement_save_the_day", "d3/d45/a26844.html", "d3/d45/a26844" ],
-    [ "achievement_bg_ic_resource_glut", "de/d60/a26848.html", "de/d60/a26848" ],
-    [ "achievement_bg_ic_glaive_grave", "d8/d6b/a26852.html", "d8/d6b/a26852" ],
-    [ "achievement_bg_ic_mowed_down", "db/dc5/a26856.html", "db/dc5/a26856" ],
-    [ "achievement_bg_sa_artillery", "dc/d7c/a26860.html", "dc/d7c/a26860" ],
-    [ "achievement_arena_by_type", "d7/dcf/a26864.html", "d7/dcf/a26864" ],
-    [ "achievement_sickly_gazelle", "d5/dcc/a26868.html", "d5/dcc/a26868" ],
-    [ "achievement_everything_counts", "d4/d91/a26872.html", "d4/d91/a26872" ],
-    [ "achievement_bg_av_perfection", "d1/d63/a26876.html", "d1/d63/a26876" ],
-    [ "achievement_sa_defense_of_the_ancients", "dc/d41/a26880.html", "dc/d41/a26880" ],
-    [ "achievement_tilted", "d0/d10/a26884.html", "d0/d10/a26884" ],
-    [ "achievement_not_even_a_scratch", "d5/dfe/a26888.html", "d5/dfe/a26888" ],
-    [ "achievement_killed_exp_or_honor_target", "d5/d5b/a26892.html", "d5/d5b/a26892" ],
-    [ "achievement_flirt_with_disaster_perf_check", "dd/d82/a26896.html", "dd/d82/a26896" ],
-    [ "ArgentTournamentAreas", "df/d74/a04136.html#a2e77de85e54ed0be0b64c804c9b2eea3", [
-      [ "AREA_ARGENT_TOURNAMENT_FIELDS", "df/d74/a04136.html#a2e77de85e54ed0be0b64c804c9b2eea3a927aa337e28c7ad61f60c63bec39b737", null ],
-      [ "AREA_RING_OF_ASPIRANTS", "df/d74/a04136.html#a2e77de85e54ed0be0b64c804c9b2eea3adab43710a79e36d4a77a97fbf175e4bf", null ],
-      [ "AREA_RING_OF_ARGENT_VALIANTS", "df/d74/a04136.html#a2e77de85e54ed0be0b64c804c9b2eea3a656551c58550150283c197d7d13ffa5d", null ],
-      [ "AREA_RING_OF_ALLIANCE_VALIANTS", "df/d74/a04136.html#a2e77de85e54ed0be0b64c804c9b2eea3a1a3b43a56f910e6169862a74ae997504", null ],
-      [ "AREA_RING_OF_HORDE_VALIANTS", "df/d74/a04136.html#a2e77de85e54ed0be0b64c804c9b2eea3adae6540f49bb31f36684880c68ab5826", null ],
-      [ "AREA_RING_OF_CHAMPIONS", "df/d74/a04136.html#a2e77de85e54ed0be0b64c804c9b2eea3ac66a546c5511c084548dbf60e77697d7", null ]
+    [ "AreaTrigger_at_voltarus_middle", "dd/d99/a26938.html", "dd/d99/a26938" ],
+    [ "AreaTrigger_at_coilfang_waterfall", "df/d71/a26942.html", "df/d71/a26942" ],
+    [ "AreaTrigger_at_legion_teleporter", "df/dd0/a26946.html", "df/dd0/a26946" ],
+    [ "AreaTrigger_at_stormwright_shelf", "df/d3a/a26950.html", "df/d3a/a26950" ],
+    [ "AreaTrigger_at_scent_larkorwi", "d2/ddb/a26954.html", "d2/ddb/a26954" ],
+    [ "AreaTrigger_at_last_rites", "d8/dcd/a26958.html", "d8/dcd/a26958" ],
+    [ "AreaTrigger_at_nats_landing", "d6/dd0/a26962.html", "d6/dd0/a26962" ],
+    [ "AreaTrigger_at_sentry_point", "d4/d3b/a26966.html", "d4/d3b/a26966" ],
+    [ "AreaTrigger_at_brewfest", "d8/da1/a26970.html", "d8/da1/a26970" ],
+    [ "AreaTrigger_at_area_52_entrance", "d2/d10/a26974.html", "d2/d10/a26974" ],
+    [ "Area52Entrance", "df/d74/a04136.html#a7ef276a75040392ab3315082a3518c67", [
+      [ "SPELL_A52_NEURALYZER", "df/d74/a04136.html#a7ef276a75040392ab3315082a3518c67afa491a434774607e1e712c2f79ac322a", null ],
+      [ "NPC_SPOTLIGHT", "df/d74/a04136.html#a7ef276a75040392ab3315082a3518c67acded8211c601c5b237d60a58f65b56ac", null ],
+      [ "SUMMON_COOLDOWN", "df/d74/a04136.html#a7ef276a75040392ab3315082a3518c67aa4b7173ec61f2859f8649f0adcbb37d1", null ],
+      [ "AT_AREA_52_SOUTH", "df/d74/a04136.html#a7ef276a75040392ab3315082a3518c67ac9b6a7b98c7a4b2013ccd61f637851f9", null ],
+      [ "AT_AREA_52_NORTH", "df/d74/a04136.html#a7ef276a75040392ab3315082a3518c67a7eb1ed4b6c4f3ef99e5cdd9b1505a09e", null ],
+      [ "AT_AREA_52_WEST", "df/d74/a04136.html#a7ef276a75040392ab3315082a3518c67a69d8c4647a15efe238a70b1f049ff97f", null ],
+      [ "AT_AREA_52_EAST", "df/d74/a04136.html#a7ef276a75040392ab3315082a3518c67a3173f419da9cf80efa68ca3e99c10528", null ]
     ] ],
-    [ "FlirtWithDisaster", "df/d74/a04136.html#a59d6aac4e950d8e6a0265a26e1898c13", [
-      [ "AURA_PERFUME_FOREVER", "df/d74/a04136.html#a59d6aac4e950d8e6a0265a26e1898c13a51aa967912af69dc7510017e558bbb85", null ],
-      [ "AURA_PERFUME_ENCHANTRESS", "df/d74/a04136.html#a59d6aac4e950d8e6a0265a26e1898c13a6f98457c5232039183c4be4588a067c6", null ],
-      [ "AURA_PERFUME_VICTORY", "df/d74/a04136.html#a59d6aac4e950d8e6a0265a26e1898c13afb194a6e19cf65f763d7975e5d842c9c", null ]
+    [ "AtLastRites", "df/d74/a04136.html#aedd9d40d0b524b4a5da323938c6f1c99", [
+      [ "QUEST_LAST_RITES", "df/d74/a04136.html#aedd9d40d0b524b4a5da323938c6f1c99af622e93bef1f891f43c910aec65feef2", null ],
+      [ "QUEST_BREAKING_THROUGH", "df/d74/a04136.html#aedd9d40d0b524b4a5da323938c6f1c99a0d528966459def04c2372cb96fb03057", null ]
     ] ],
-    [ "AddSC_achievement_scripts", "df/d74/a04136.html#a5091d6f933800f3313078304ad5c38ca", null ]
+    [ "Brewfest", "df/d74/a04136.html#a9b234b18092b711f6f11cda755fe0bfd", [
+      [ "NPC_TAPPER_SWINDLEKEG", "df/d74/a04136.html#a9b234b18092b711f6f11cda755fe0bfda91dfef2ce070232ed51a69d9c6399130", null ],
+      [ "NPC_IPFELKOFER_IRONKEG", "df/d74/a04136.html#a9b234b18092b711f6f11cda755fe0bfda39440d09522df095e726cb1da7ab817e", null ],
+      [ "AT_BREWFEST_DUROTAR", "df/d74/a04136.html#a9b234b18092b711f6f11cda755fe0bfda6dbf4e730fdb44d7ceb232e60cee3091", null ],
+      [ "AT_BREWFEST_DUN_MOROGH", "df/d74/a04136.html#a9b234b18092b711f6f11cda755fe0bfda91d9e35e7360f1d853d2f54f54548c61", null ],
+      [ "SAY_WELCOME", "df/d74/a04136.html#a9b234b18092b711f6f11cda755fe0bfda53e43b5d6a57facfdbe1b6559295a32f", null ],
+      [ "AREATRIGGER_TALK_COOLDOWN", "df/d74/a04136.html#a9b234b18092b711f6f11cda755fe0bfda7105e5d2474e31860a9bc9f5075c31e4", null ]
+    ] ],
+    [ "CoilfangGOs", "df/d74/a04136.html#a9670aee8aef02c60b84d4c3d11c963b5", [
+      [ "GO_COILFANG_WATERFALL", "df/d74/a04136.html#a9670aee8aef02c60b84d4c3d11c963b5a30520dfb9388b8cc7b4cbc9b3420d65d", null ]
+    ] ],
+    [ "LegionTeleporter", "df/d74/a04136.html#ad9a6ea877cb24dbb530ccf0e03cb7012", [
+      [ "SPELL_TELE_A_TO", "df/d74/a04136.html#ad9a6ea877cb24dbb530ccf0e03cb7012a09569d3491e5bf73c2d9e897077cd162", null ],
+      [ "QUEST_GAINING_ACCESS_A", "df/d74/a04136.html#ad9a6ea877cb24dbb530ccf0e03cb7012a1746dcba888866f4914d5fa112323879", null ],
+      [ "SPELL_TELE_H_TO", "df/d74/a04136.html#ad9a6ea877cb24dbb530ccf0e03cb7012a0373689ced7bf6fcd5453719eff7dff9", null ],
+      [ "QUEST_GAINING_ACCESS_H", "df/d74/a04136.html#ad9a6ea877cb24dbb530ccf0e03cb7012a90bff047b5c92fa8418685d95440c5ea", null ]
+    ] ],
+    [ "NatsLanding", "df/d74/a04136.html#a5ee4c50b08414290f73ada43c1c71151", [
+      [ "QUEST_NATS_BARGAIN", "df/d74/a04136.html#a5ee4c50b08414290f73ada43c1c71151aeff02bfb540090dbb759b896b3b3627e", null ],
+      [ "SPELL_FISH_PASTE", "df/d74/a04136.html#a5ee4c50b08414290f73ada43c1c71151a84c85ea415f324f0acec6a0e8d8eb8a6", null ],
+      [ "NPC_LURKING_SHARK", "df/d74/a04136.html#a5ee4c50b08414290f73ada43c1c71151af67d7adb069812fe8e3d79aff3f18900", null ]
+    ] ],
+    [ "ScentLarkorwi", "df/d74/a04136.html#a743ca0b810fe5b376233e725f346d416", [
+      [ "QUEST_SCENT_OF_LARKORWI", "df/d74/a04136.html#a743ca0b810fe5b376233e725f346d416a105afbe1f1e3510efdd8ef9fbfe153ee", null ],
+      [ "NPC_LARKORWI_MATE", "df/d74/a04136.html#a743ca0b810fe5b376233e725f346d416adb746f23675f0b248d264a0557ceff5d", null ]
+    ] ],
+    [ "SentryPoint", "df/d74/a04136.html#a24ef89c28423d02750eff95a35b3a275", [
+      [ "SPELL_TELEPORT_VISUAL", "df/d74/a04136.html#a24ef89c28423d02750eff95a35b3a275a73cc106ecf58fcd3a75fa23f9ff7a21c", null ],
+      [ "QUEST_MISSING_DIPLO_PT14", "df/d74/a04136.html#a24ef89c28423d02750eff95a35b3a275a378a874d36260f01327d51d537b33d94", null ],
+      [ "NPC_TERVOSH", "df/d74/a04136.html#a24ef89c28423d02750eff95a35b3a275a0ef56679b82214bad2e052fb8e979c50", null ]
+    ] ],
+    [ "StormwrightShelf", "df/d74/a04136.html#abdd676bd524ed3ea6915b8b1348861dd", [
+      [ "QUEST_STRENGTH_OF_THE_TEMPEST", "df/d74/a04136.html#abdd676bd524ed3ea6915b8b1348861ddae6b91cb73e581fe9558469357a90ec24", null ],
+      [ "SPELL_CREATE_TRUE_POWER_OF_THE_TEMPEST", "df/d74/a04136.html#abdd676bd524ed3ea6915b8b1348861dda55079b9b218f67c0dcae1b7da0dcb277", null ]
+    ] ],
+    [ "AddSC_areatrigger_scripts", "df/d74/a04136.html#a992f2da647f1f8748c7c9239b52079ad", null ]
 ];

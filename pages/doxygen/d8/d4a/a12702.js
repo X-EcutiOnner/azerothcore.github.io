@@ -1,14 +1,8 @@
 var a12702 =
 [
-    [ "boss_priestess_delrissa", "d8/d4a/a12702.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
-    [ "CheckInRoom", "d8/d4a/a12702.html#afa963761e44412915a6d89f097f33b5d", null ],
-    [ "InitializeAI", "d8/d4a/a12702.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
-    [ "JustDied", "d8/d4a/a12702.html#a82d8c198f38c2aa881386e739dea6a08", null ],
-    [ "JustEngagedWith", "d8/d4a/a12702.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
-    [ "JustSummoned", "d8/d4a/a12702.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
-    [ "KilledUnit", "d8/d4a/a12702.html#af0b41306f53c42745cce39069f446704", null ],
-    [ "Reset", "d8/d4a/a12702.html#a60e39157aa3043284b2e1e032c0d9241", null ],
-    [ "SummonedCreatureDies", "d8/d4a/a12702.html#a14757692ab4af5c1b5b311f059be9091", null ],
-    [ "HelpersKilled", "d8/d4a/a12702.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
-    [ "PlayersKilled", "d8/d4a/a12702.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
+    [ "npc_barnesAI", "d5/d92/a12706.html", "d5/d92/a12706" ],
+    [ "npc_barnes", "d8/d4a/a12702.html#aacdc737a94397a90b48b635293fe9c80", null ],
+    [ "GetAI", "d8/d4a/a12702.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
+    [ "OnGossipHello", "d8/d4a/a12702.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
+    [ "OnGossipSelect", "d8/d4a/a12702.html#aa04d577e318f16f581f82761b6014eb5", null ]
 ];

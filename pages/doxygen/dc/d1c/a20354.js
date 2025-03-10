@@ -1,6 +1,6 @@
 var a20354 =
 [
-    [ "boss_razorscaleAI", "d2/dd7/a20358.html", "d2/dd7/a20358" ],
-    [ "boss_razorscale", "dc/d1c/a20354.html#ad8fe81f1b553414df3fa07c646029065", null ],
-    [ "GetAI", "dc/d1c/a20354.html#a01cf25d901a5eddae9ef3ea291020ba1", null ]
+    [ "npc_ulduar_flames_initialAI", "d2/dd7/a20358.html", "d2/dd7/a20358" ],
+    [ "npc_ulduar_flames_initial", "dc/d1c/a20354.html#aee0c62a38e3e0958e015faef2c434273", null ],
+    [ "GetAI", "dc/d1c/a20354.html#ac0db78c361324a594220ad644001f4eb", null ]
 ];

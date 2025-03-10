@@ -1,10 +1,6 @@
 var a17634 =
 [
-    [ "npc_bone_spikeAI", "dd/d7a/a17634.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
-    [ "DoAction", "dd/d7a/a17634.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
-    [ "IsSummonedBy", "dd/d7a/a17634.html#af2794484ee3ebf0579ce7357d222240d", null ],
-    [ "JustDied", "dd/d7a/a17634.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
-    [ "UpdateAI", "dd/d7a/a17634.html#a8eff2bcc6507c65e563ed272977f224e", null ],
-    [ "events", "dd/d7a/a17634.html#a6a35900435d41d0603919f29415667a5", null ],
-    [ "hasTrappedUnit", "dd/d7a/a17634.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
+    [ "npc_darnavanAI", "d4/d07/a17638.html", "d4/d07/a17638" ],
+    [ "npc_darnavan", "dd/d7a/a17634.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "dd/d7a/a17634.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

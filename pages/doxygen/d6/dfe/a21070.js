@@ -1,7 +1,6 @@
 var a21070 =
 [
-    [ "HandlePeriodicDummy", "d6/dfe/a21070.html#a295f37cddccc696d450a0c4380d43c29", null ],
-    [ "PrepareAuraScript", "d6/dfe/a21070.html#a9453aa189ba53de3d89bbab183927cfc", null ],
-    [ "Register", "d6/dfe/a21070.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
-    [ "Validate", "d6/dfe/a21070.html#a475480c072aaccde7b00cf28aedff3ec", null ]
+    [ "CalculateAmount", "d6/dfe/a21070.html#a79019ef395c9b66f6a88759b0517005d", null ],
+    [ "PrepareAuraScript", "d6/dfe/a21070.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
+    [ "Register", "d6/dfe/a21070.html#a9bce52699983fe798c903385faa42462", null ]
 ];

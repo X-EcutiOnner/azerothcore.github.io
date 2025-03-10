@@ -1,6 +1,6 @@
 var a26338 =
 [
-    [ "ModDest", "de/d5d/a26338.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "de/d5d/a26338.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "de/d5d/a26338.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "HandleTriggerSpell", "de/d5d/a26338.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
+    [ "PrepareAuraScript", "de/d5d/a26338.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
+    [ "Register", "de/d5d/a26338.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
 ];

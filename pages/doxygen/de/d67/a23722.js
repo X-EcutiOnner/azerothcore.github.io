@@ -1,6 +1,6 @@
 var a23722 =
 [
-    [ "PrepareAuraScript", "de/d67/a23722.html#a14d4d1a75130a77e7e59e41720491bec", null ],
-    [ "PrepareProc", "de/d67/a23722.html#abea217f4bfdffc70007fbc29849e9a49", null ],
-    [ "Register", "de/d67/a23722.html#a9dbcd4c940f5941472bebb64829125e3", null ]
+    [ "HandlePeriodic", "de/d67/a23722.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "de/d67/a23722.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "de/d67/a23722.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

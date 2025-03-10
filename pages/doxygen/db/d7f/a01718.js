@@ -1,4 +1,4 @@
 var a01718 =
 [
-    [ "ScriptRegistry< WeatherScript >", "db/d7f/a01718.html#aa691cee39a36861af34c3315e7aa582b", null ]
+    [ "ScriptRegistry< GuildScript >", "db/d7f/a01718.html#af7c126caabb7b664b2a28086b5f7737e", null ]
 ];

@@ -1,7 +1,6 @@
 var a26510 =
 [
-    [ "CheckProc", "da/d7e/a26510.html#a4efa486733390dea566e1169902db915", null ],
-    [ "PrepareAuraScript", "da/d7e/a26510.html#a241b65bdcb6aefa4e37b61c5007149f6", null ],
-    [ "Register", "da/d7e/a26510.html#a5c70bb3ff8d2c3d9a2ab8aad729917bb", null ],
-    [ "Validate", "da/d7e/a26510.html#a7c5d82eba0bba896294cffc94843414c", null ]
+    [ "HandlePeriodic", "da/d7e/a26510.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
+    [ "PrepareAuraScript", "da/d7e/a26510.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
+    [ "Register", "da/d7e/a26510.html#ac90afe9f5d9d55faba2282a875469311", null ]
 ];

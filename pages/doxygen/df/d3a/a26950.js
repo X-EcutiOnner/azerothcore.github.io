@@ -1,6 +1,5 @@
 var a26950 =
 [
-    [ "boss_lethonAI", "d2/ddb/a26954.html", "d2/ddb/a26954" ],
-    [ "boss_lethon", "df/d3a/a26950.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "df/d3a/a26950.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "AreaTrigger_at_stormwright_shelf", "df/d3a/a26950.html#a97cdf51a8992b3d9edc138351770fd75", null ],
+    [ "OnTrigger", "df/d3a/a26950.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
 ];

@@ -1,12 +1,7 @@
 var a05342 =
 [
-    [ "Node", "d5/d30/a05346.html", "d5/d30/a05346" ],
-    [ "MPSCQueueNonIntrusive", "dc/dbc/a05342.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
-    [ "~MPSCQueueNonIntrusive", "dc/dbc/a05342.html#a599e2093215f70dc4f2f7db08965d816", null ],
-    [ "MPSCQueueNonIntrusive", "dc/dbc/a05342.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
-    [ "Dequeue", "dc/dbc/a05342.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
-    [ "Enqueue", "dc/dbc/a05342.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
-    [ "operator=", "dc/dbc/a05342.html#a75063e89049903fb5305d67ea1a02034", null ],
-    [ "_head", "dc/dbc/a05342.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
-    [ "_tail", "dc/dbc/a05342.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
+    [ "MetricStopWatch", "dc/dbc/a05342.html#a2007207e0985949f478fdeee300ea0d5", null ],
+    [ "~MetricStopWatch", "dc/dbc/a05342.html#a712b660e090531e69455096afeb60c4c", null ],
+    [ "_logger", "dc/dbc/a05342.html#a3af6d8a1a621f5e39b2d691ffbe2375c", null ],
+    [ "_startTime", "dc/dbc/a05342.html#a74ad62e26a4f6598c76ca5c2d928d3a2", null ]
 ];

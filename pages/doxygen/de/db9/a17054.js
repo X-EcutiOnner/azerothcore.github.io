@@ -1,6 +1,6 @@
 var a17054 =
 [
-    [ "HandlePeriodic", "de/db9/a17054.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
-    [ "PrepareAuraScript", "de/db9/a17054.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
-    [ "Register", "de/db9/a17054.html#a9753daf5cdc812e9027c1153b450686d", null ]
+    [ "HandleScriptEffect", "de/db9/a17054.html#ab9c289e946cfaf2b63f2526914d79812", null ],
+    [ "PrepareSpellScript", "de/db9/a17054.html#a832f8ab737254760fe2b91f19d119781", null ],
+    [ "Register", "de/db9/a17054.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
 ];

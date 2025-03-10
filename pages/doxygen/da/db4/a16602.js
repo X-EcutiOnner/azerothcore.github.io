@@ -1,7 +1,5 @@
 var a16602 =
 [
-    [ "HandlePeriodicTick", "da/db4/a16602.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
-    [ "PrepareAuraScript", "da/db4/a16602.html#aabaef31a3c699c322e24e064f357f82f", null ],
-    [ "Register", "da/db4/a16602.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
-    [ "Validate", "da/db4/a16602.html#a18d92a82760992bc5d8503e3f774f208", null ]
+    [ "achievement_consumption_junction", "da/db4/a16602.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
+    [ "OnCheck", "da/db4/a16602.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
 ];

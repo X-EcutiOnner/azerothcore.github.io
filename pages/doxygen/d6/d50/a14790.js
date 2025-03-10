@@ -1,7 +1,6 @@
 var a14790 =
 [
-    [ "HandleScript", "d6/d50/a14790.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
-    [ "PrepareSpellScript", "d6/d50/a14790.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
-    [ "Register", "d6/d50/a14790.html#aff966352a2babe6e6daed91f02e1190a", null ],
-    [ "Validate", "d6/d50/a14790.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
+    [ "npc_belnistraszAI", "d3/de2/a14794.html", "d3/de2/a14794" ],
+    [ "npc_belnistrasz", "d6/d50/a14790.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
+    [ "GetAI", "d6/d50/a14790.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
 ];

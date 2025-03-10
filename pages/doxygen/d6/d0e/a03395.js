@@ -1,18 +1,30 @@
 var a03395 =
 [
-    [ "npc_maredis_firestar", "da/d4d/a13380.html", "da/d4d/a13380" ],
-    [ "npc_maredis_firestar::npc_maredis_firestarAI", "d9/df7/a13384.html", "d9/df7/a13384" ],
-    [ "MaredisFirestar", "d6/d0e/a03395.html#a85e4eeb368c070d1186f1c7c07ab1a42", [
-      [ "ITEM_LIBRAM_OF_RUMINATION", "d6/d0e/a03395.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e", null ],
-      [ "ITEM_LIBRAM_OF_CONSTITUTION", "d6/d0e/a03395.html#a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277", null ],
-      [ "ITEM_LIBRAM_OF_TENACITY", "d6/d0e/a03395.html#a85e4eeb368c070d1186f1c7c07ab1a42acee05c856cffac557e6f7f8b4b32f173", null ],
-      [ "ITEM_LIBRAM_OF_RESILIENCE", "d6/d0e/a03395.html#a85e4eeb368c070d1186f1c7c07ab1a42a1dc0b7882355b2615ad112a6ffb2d5eb", null ],
-      [ "ITEM_LIBRAM_OF_VORACITY", "d6/d0e/a03395.html#a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f", null ],
-      [ "GOSSIP_LIBRAM_OF_RUMINATION", "d6/d0e/a03395.html#a85e4eeb368c070d1186f1c7c07ab1a42a25fa31f89537239dc264cdc4afa11c44", null ],
-      [ "GOSSIP_LIBRAM_OF_CONSTITUTION", "d6/d0e/a03395.html#a85e4eeb368c070d1186f1c7c07ab1a42ab11fb925c43c8e71171b5468f9bfbb41", null ],
-      [ "GOSSIP_LIBRAM_OF_TENACITY", "d6/d0e/a03395.html#a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e", null ],
-      [ "GOSSIP_LIBRAM_OF_RESILIENCE", "d6/d0e/a03395.html#a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde", null ],
-      [ "GOSSIP_LIBRAM_OF_VORACITY", "d6/d0e/a03395.html#a85e4eeb368c070d1186f1c7c07ab1a42a2bc47c8c26124b40bfcf34e4fc21d733", null ]
+    [ "instance_sunwell_plateau", "d3/d4e/a13346.html", "d3/d4e/a13346" ],
+    [ "instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript", "d0/d3e/a13350.html", "d0/d3e/a13350" ],
+    [ "spell_cataclysm_breath", "dd/d89/a13354.html", "dd/d89/a13354" ],
+    [ "npc_sunblade_scout", "db/d2a/a13358.html", "db/d2a/a13358" ],
+    [ "cataclysmBreath", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901c", [
+      [ "SPELL_CORROSIVE_POISON", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3", null ],
+      [ "SPELL_FEVERED_FATIGUE", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222", null ],
+      [ "SPELL_HEX", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901ca88cd9f67c5feb7f0ba6c853b8520a00b", null ],
+      [ "SPELL_NECROTIC_POISON", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901ca91659ae45d576a823387ef54f56e2c4b", null ],
+      [ "SPELL_PIERCING_SHADOW", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901cadfad6c0302dc1ae7b545b95f9b85b58d", null ],
+      [ "SPELL_SHRINK", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f", null ],
+      [ "SPELL_WAVERING_WILL", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8", null ],
+      [ "SPELL_WITHERED_TOUCH", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b", null ]
     ] ],
-    [ "AddSC_burning_steppes", "d6/d0e/a03395.html#a8cf2165dba1d5e845d5e20fbc1ce33d6", null ]
+    [ "SunbladeScout", "d6/d0e/a03395.html#aaf4c1644419a40c8480767e91644d5bc", [
+      [ "NPC_SUNBLADE_PROTECTOR", "d6/d0e/a03395.html#aaf4c1644419a40c8480767e91644d5bca62010ff06f3f856c841862d5ffa3bde3", null ],
+      [ "SAY_AGGRO", "d6/d0e/a03395.html#aaf4c1644419a40c8480767e91644d5bca47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SPELL_ACTIVATE_SUNBLADE_PROTECTOR", "d6/d0e/a03395.html#aaf4c1644419a40c8480767e91644d5bca70d2242d6d051050a93cde9e0d01c664", null ],
+      [ "SPELL_COSMETIC_STUN_IMMUNE_PERMANENT", "d6/d0e/a03395.html#aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff", null ],
+      [ "SPELL_FELBLOOD_CHANNEL", "d6/d0e/a03395.html#aaf4c1644419a40c8480767e91644d5bca2a2aa66bbc0dcd838269258c02024cfd", null ],
+      [ "SPELL_SINISTER_STRIKE", "d6/d0e/a03395.html#aaf4c1644419a40c8480767e91644d5bca3217132d497cc70e674432067fd431a7", null ]
+    ] ],
+    [ "AddSC_instance_sunwell_plateau", "d6/d0e/a03395.html#a6f050a93b62a1391ae6321d1d2d6450a", null ],
+    [ "creatureData", "d6/d0e/a03395.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d6/d0e/a03395.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "d6/d0e/a03395.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
+    [ "summonData", "d6/d0e/a03395.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

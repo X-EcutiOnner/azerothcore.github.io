@@ -1,6 +1,8 @@
 var a25818 =
 [
-    [ "CheckProc", "d9/dc7/a25818.html#af38c2b1c556a1fcdb1157468cd02811e", null ],
-    [ "PrepareAuraScript", "d9/dc7/a25818.html#a42b97406721d3493a378394132a55981", null ],
-    [ "Register", "d9/dc7/a25818.html#af4d514906f66af1b2f2392bcfc5e8b9c", null ]
+    [ "CheckQuest", "d9/dc7/a25818.html#ab7ebff0894832ac009cda89b7c28e252", null ],
+    [ "HandleDummy", "d9/dc7/a25818.html#a365df14504a54e95e7d68d22a284e441", null ],
+    [ "HandleOpenObject", "d9/dc7/a25818.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
+    [ "PrepareSpellScript", "d9/dc7/a25818.html#a479e313031a2e71473238d8f645bf2d4", null ],
+    [ "Register", "d9/dc7/a25818.html#a70f1a91e611cc2092aad44a909cd53db", null ]
 ];

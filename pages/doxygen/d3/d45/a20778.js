@@ -1,8 +1,11 @@
 var a20778 =
 [
-    [ "Absorb", "d3/d45/a20778.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
-    [ "CalculateAmount", "d3/d45/a20778.html#afe50bf22d07e68757caffb056ad55811", null ],
-    [ "PrepareAuraScript", "d3/d45/a20778.html#afa4ef1f7faa36a521c208dde10d09437", null ],
-    [ "Register", "d3/d45/a20778.html#aae020936d42da81c445f7d296660987b", null ],
-    [ "Validate", "d3/d45/a20778.html#a5852135c5214ee3938603632b0f21917", null ]
+    [ "boss_yoggsaron_llaneAI", "d3/d45/a20778.html#a8524834b7dff49844d96b7dc49fd265d", null ],
+    [ "NextStep", "d3/d45/a20778.html#a6587e7873455950bda97b2a7d78e6fc5", null ],
+    [ "Reset", "d3/d45/a20778.html#a86f9d594562f842d478b63de18e52455", null ],
+    [ "Say", "d3/d45/a20778.html#ab619684f15f5325383a413dced7c930e", null ],
+    [ "UpdateAI", "d3/d45/a20778.html#a545378189f85968ac925baa06ad608b5", null ],
+    [ "_checkTimer", "d3/d45/a20778.html#aa4956f6943adce94a9ed4fec951317d6", null ],
+    [ "_running", "d3/d45/a20778.html#a6d6d186febc408ecb830bf7eea3c72bd", null ],
+    [ "_step", "d3/d45/a20778.html#a718c0bf307934b9ee9cbb933899c6324", null ]
 ];

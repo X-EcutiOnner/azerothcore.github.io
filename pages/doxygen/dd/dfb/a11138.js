@@ -1,14 +1,12 @@
 var a11138 =
 [
-    [ "IsFitToRequirements", "dd/dfb/a11138.html#af1585273701356a591bf9d9483e996a3", null ],
-    [ "areaId", "dd/dfb/a11138.html#af7e6f7b027388447a1f99e759975ca09", null ],
-    [ "auraSpell", "dd/dfb/a11138.html#adaf2f6f7c56701fe42a2674aca74fba0", null ],
-    [ "autocast", "dd/dfb/a11138.html#a38b42b82e4a588e102eb393cc907cd27", null ],
-    [ "gender", "dd/dfb/a11138.html#af4314cba9c91fd1e2c09905c17c67d22", null ],
-    [ "questEnd", "dd/dfb/a11138.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f", null ],
-    [ "questEndStatus", "dd/dfb/a11138.html#ac6c7ed326628642da138bb3835db9a1d", null ],
-    [ "questStart", "dd/dfb/a11138.html#afc99b14a3724fef7c5dd70e976a479a8", null ],
-    [ "questStartStatus", "dd/dfb/a11138.html#a7f4466dfd9ab56850a36d0d09ff84798", null ],
-    [ "raceMask", "dd/dfb/a11138.html#a402373ff841bd2aa47b4b36a581624cc", null ],
-    [ "spellId", "dd/dfb/a11138.html#a8a299d901e2c13cdc3c00d6cf0a856d3", null ]
+    [ "cooldown", "dd/dfb/a11138.html#a0cd88c27979ccc5284aa46846db32a7c", null ],
+    [ "customChance", "dd/dfb/a11138.html#adf6742b70f0b00abddf1da6f45da3d16", null ],
+    [ "ppmRate", "dd/dfb/a11138.html#a931b2df4a187482e32ef252c3320080a", null ],
+    [ "procEx", "dd/dfb/a11138.html#a911770f28fe36243593b12fe92d6fbec", null ],
+    [ "procFlags", "dd/dfb/a11138.html#af253ef32b9de49fe85d0fe6f06855a60", null ],
+    [ "procPhase", "dd/dfb/a11138.html#a179d83770a02e4ab13f809ed3943a399", null ],
+    [ "schoolMask", "dd/dfb/a11138.html#a9a6d38ee4e4a35066780ef924c63f92f", null ],
+    [ "spellFamilyMask", "dd/dfb/a11138.html#a2aa57bf419ab51129fe7240750ee8910", null ],
+    [ "spellFamilyName", "dd/dfb/a11138.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a", null ]
 ];

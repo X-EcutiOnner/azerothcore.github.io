@@ -1,77 +1,92 @@
 var a04064 =
 [
-    [ "zm_beacon", "dd/db5/a22424.html", "dd/db5/a22424" ],
-    [ "OPvPCapturePointZM_Beacon", "dc/d62/a22428.html", "dc/d62/a22428" ],
-    [ "OPvPCapturePointZM_Graveyard", "d1/dc0/a22432.html", "d1/dc0/a22432" ],
-    [ "OutdoorPvPZM", "d0/d66/a22436.html", "d0/d66/a22436" ],
-    [ "OutdoorPvPZMSpells", "dc/ddd/a04064.html#ac31cd7a23fe2f82e25ababd3a8b700a1", [
-      [ "ZM_CAPTURE_BUFF", "dc/ddd/a04064.html#ac31cd7a23fe2f82e25ababd3a8b700a1a5039b0bd2a7689f857a4ecc871d5b16d", null ],
-      [ "ZM_BATTLE_STANDARD_A", "dc/ddd/a04064.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5", null ],
-      [ "ZM_BATTLE_STANDARD_H", "dc/ddd/a04064.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614", null ],
-      [ "ZM_AlliancePlayerKillReward", "dc/ddd/a04064.html#ac31cd7a23fe2f82e25ababd3a8b700a1a53fad383bb7058d8c1a272bd6d9523a3", null ],
-      [ "ZM_HordePlayerKillReward", "dc/ddd/a04064.html#ac31cd7a23fe2f82e25ababd3a8b700a1a6f9de137a24ee5d457ee7e2c093b398b", null ]
+    [ "OPvPCapturePointEP_EWT", "d1/d36/a22358.html", "d1/d36/a22358" ],
+    [ "OPvPCapturePointEP_NPT", "dd/dac/a22362.html", "dd/dac/a22362" ],
+    [ "OPvPCapturePointEP_CGT", "dc/d74/a22366.html", "dc/d74/a22366" ],
+    [ "OPvPCapturePointEP_PWT", "df/d30/a22370.html", "df/d30/a22370" ],
+    [ "OutdoorPvPEP", "db/d8b/a22374.html", "db/d8b/a22374" ],
+    [ "EP_CrownGuardTowerWorldStates", "dc/ddd/a04064.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9", [
+      [ "EP_CGT_N_A", "dc/ddd/a04064.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9abc9c069eb162f17c873d780f5d210c5a", null ],
+      [ "EP_CGT_N_H", "dc/ddd/a04064.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9aa3935e441b830c6a57a25b41f956a472", null ],
+      [ "EP_CGT_A", "dc/ddd/a04064.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9aba70f403d1ce18bde45c549e4f2df087", null ],
+      [ "EP_CGT_H", "dc/ddd/a04064.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9a8fd531fb30b66fb2b93c59bb25572143", null ],
+      [ "EP_CGT_N", "dc/ddd/a04064.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9a194ef7849d171faa0d1f64345e7a8e5e", null ]
     ] ],
-    [ "OutdoorPvPZMWorldStates", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650", [
-      [ "ZM_UI_TOWER_SLIDER_N_W", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650a59f87490494537e7b42f2f1236d3389b", null ],
-      [ "ZM_UI_TOWER_SLIDER_POS_W", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650a668586bb2b8f24a5900c5b7e1fe3bfaa", null ],
-      [ "ZM_UI_TOWER_SLIDER_DISPLAY_W", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650a92f46512b9b7c0666ba8fc40c1030fb1", null ],
-      [ "ZM_UI_TOWER_SLIDER_N_E", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650ae178d00e8fceb5e376a7c8e37997efe4", null ],
-      [ "ZM_UI_TOWER_SLIDER_POS_E", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650aaeb08e02d0331c958365dde328f61ca1", null ],
-      [ "ZM_UI_TOWER_SLIDER_DISPLAY_E", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650ab4983d1356b638d3cae75f8ebfa9aa01", null ],
-      [ "ZM_WORLDSTATE_UNK_1", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650a6f257f7830d314e94f78a822dc713892", null ],
-      [ "ZM_UI_TOWER_EAST_N", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650af39da11ab77d79c2b8c12d0a1bf01902", null ],
-      [ "ZM_UI_TOWER_EAST_H", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650aa3a1f0142d75658feff6b105be84b181", null ],
-      [ "ZM_UI_TOWER_EAST_A", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650aee832bc82e854dfea3b5007ec8842c07", null ],
-      [ "ZM_UI_TOWER_WEST_N", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650a4cc7a3b2ee76c872f5bc234c59a6bd2a", null ],
-      [ "ZM_UI_TOWER_WEST_H", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650ab7142ee421fbf060711496890bbb175d", null ],
-      [ "ZM_UI_TOWER_WEST_A", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650a4dff9fffc495e836d338cf18673ec5d8", null ],
-      [ "ZM_MAP_TOWER_EAST_N", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650aa7f3416c2c104eee1f923abf7a6da7f4", null ],
-      [ "ZM_MAP_TOWER_EAST_H", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650af8524e2efef6028f586d0e2ec8bcbd8e", null ],
-      [ "ZM_MAP_TOWER_EAST_A", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650a14408ac391a4bf41b562f184f5a58eac", null ],
-      [ "ZM_MAP_GRAVEYARD_H", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650a9eb55c7b1bc3c1e3869b22d1a40ca311", null ],
-      [ "ZM_MAP_GRAVEYARD_A", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650a7e3e2e8398ed0697623566df27e896ce", null ],
-      [ "ZM_MAP_GRAVEYARD_N", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650a95aef63c1c2a604718ec69bf894b47de", null ],
-      [ "ZM_MAP_TOWER_WEST_N", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650a842d983914f4efa5b069287a73eb3c3f", null ],
-      [ "ZM_MAP_TOWER_WEST_H", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650ab8f742eac6bdca57946be2e8741743d4", null ],
-      [ "ZM_MAP_TOWER_WEST_A", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650a8dff71acf7810c2eb94f4244438e9793", null ],
-      [ "ZM_MAP_HORDE_FLAG_READY", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650abdc372dcc856716765219f40cda52eee", null ],
-      [ "ZM_MAP_HORDE_FLAG_NOT_READY", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650a2678841f388ad2a6079f8d0fff029a4b", null ],
-      [ "ZM_MAP_ALLIANCE_FLAG_NOT_READY", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650aeb4fe279db8ca5da27987e9aa39dbbcc", null ],
-      [ "ZM_MAP_ALLIANCE_FLAG_READY", "dc/ddd/a04064.html#afaddfa36705b24c09328d5ce207b6650a79c368625533c3d9f0ec9d3abc7245bd", null ]
+    [ "EP_EastwallTowerWorldStates", "dc/ddd/a04064.html#a5e0819402f80ecac656b1d03a6cba64e", [
+      [ "EP_EWT_A", "dc/ddd/a04064.html#a5e0819402f80ecac656b1d03a6cba64eaafe6f9fd08b8b153499ba391bdf45447", null ],
+      [ "EP_EWT_H", "dc/ddd/a04064.html#a5e0819402f80ecac656b1d03a6cba64ea153c3185b2c18152800d711c4368f100", null ],
+      [ "EP_EWT_N_A", "dc/ddd/a04064.html#a5e0819402f80ecac656b1d03a6cba64eadbdca9611007c5a815c8424ca295319d", null ],
+      [ "EP_EWT_N_H", "dc/ddd/a04064.html#a5e0819402f80ecac656b1d03a6cba64eab8fccc84fc3677305fc391cc17050911", null ],
+      [ "EP_EWT_N", "dc/ddd/a04064.html#a5e0819402f80ecac656b1d03a6cba64ea18665ac4882c5886abd84bf468f82c39", null ]
     ] ],
-    [ "ZM_BeaconType", "dc/ddd/a04064.html#a8493feec67db9c938c31465f24f60fe1", [
-      [ "ZM_BEACON_EAST", "dc/ddd/a04064.html#a8493feec67db9c938c31465f24f60fe1a034b065f7219f5b4a6d983ed694e7a80", null ],
-      [ "ZM_BEACON_WEST", "dc/ddd/a04064.html#a8493feec67db9c938c31465f24f60fe1a36b102e6d45f41b4db14e889ffac46e2", null ],
-      [ "ZM_NUM_BEACONS", "dc/ddd/a04064.html#a8493feec67db9c938c31465f24f60fe1a9e566b7b7f64cae5ea6a37a289f16ce3", null ]
+    [ "EP_GoSummons", "dc/ddd/a04064.html#a0b5226d66242870e9f2bd6067ac871da", [
+      [ "EP_NPT_BUFF", "dc/ddd/a04064.html#a0b5226d66242870e9f2bd6067ac871daabd6b57d3cd665b36305c0aac5f5721d0", null ],
+      [ "EP_NPT_FLAGS", "dc/ddd/a04064.html#a0b5226d66242870e9f2bd6067ac871daa161f6913680b58a1eabe5ebbc4893cd9", null ],
+      [ "EP_EWT_FLAGS", "dc/ddd/a04064.html#a0b5226d66242870e9f2bd6067ac871daa4c73d6edbab9874b66f52c45839132a0", null ],
+      [ "EP_CGT_FLAGS", "dc/ddd/a04064.html#a0b5226d66242870e9f2bd6067ac871daa59ab547c79765b3a7d9bd772721ecdcc", null ],
+      [ "EP_PWT_FLAGS", "dc/ddd/a04064.html#a0b5226d66242870e9f2bd6067ac871daaccecd1b4caaa55e2c67bfe71db5c3e3d", null ]
     ] ],
-    [ "Zm_GraveyardState", "dc/ddd/a04064.html#ad13518df9718347908929a97748d3636", [
-      [ "ZM_GRAVEYARD_N", "dc/ddd/a04064.html#ad13518df9718347908929a97748d3636a87f32a40b9ae4243e7977085b4dab7c0", null ],
-      [ "ZM_GRAVEYARD_A", "dc/ddd/a04064.html#ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329", null ],
-      [ "ZM_GRAVEYARD_H", "dc/ddd/a04064.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065", null ]
+    [ "EP_NorthpassTowerWorldStates", "dc/ddd/a04064.html#adde51f181d43ad54089d191770838666", [
+      [ "EP_NPT_N", "dc/ddd/a04064.html#adde51f181d43ad54089d191770838666a1348541386a66bba2e65f9318a3c95aa", null ],
+      [ "EP_NPT_N_A", "dc/ddd/a04064.html#adde51f181d43ad54089d191770838666af59c3c47454c37313252182b26956899", null ],
+      [ "EP_NPT_N_H", "dc/ddd/a04064.html#adde51f181d43ad54089d191770838666a4a73101a7ebcb8fe106c5b1bd878c56c", null ],
+      [ "EP_NPT_A", "dc/ddd/a04064.html#adde51f181d43ad54089d191770838666a0053a834db527e7efe134aab2378a9d6", null ],
+      [ "EP_NPT_H", "dc/ddd/a04064.html#adde51f181d43ad54089d191770838666ae32e90509be59dc88f0021ae38cf93ff", null ]
     ] ],
-    [ "ZM_TowerStateMask", "dc/ddd/a04064.html#a5d44e96b24b1f1215d1b3788b212f11c", [
-      [ "ZM_TOWERSTATE_N", "dc/ddd/a04064.html#a5d44e96b24b1f1215d1b3788b212f11ca03d2918a6a9915b33da0f120feb7d5da", null ],
-      [ "ZM_TOWERSTATE_A", "dc/ddd/a04064.html#a5d44e96b24b1f1215d1b3788b212f11cab51c5d640c62f5336ec7c5a1028f73d0", null ],
-      [ "ZM_TOWERSTATE_H", "dc/ddd/a04064.html#a5d44e96b24b1f1215d1b3788b212f11ca206f55050d03bbc30f690c7e669e1831", null ]
+    [ "EP_PlagewoodTowerWorldStates", "dc/ddd/a04064.html#a53b11a363bf4c3409e46d601866a68a7", [
+      [ "EP_PWT_N_A", "dc/ddd/a04064.html#a53b11a363bf4c3409e46d601866a68a7a1c66dedaebfaf500beee917930710089", null ],
+      [ "EP_PWT_N_H", "dc/ddd/a04064.html#a53b11a363bf4c3409e46d601866a68a7ae7e66bc569e3fd17b746b55627687140", null ],
+      [ "EP_PWT_A", "dc/ddd/a04064.html#a53b11a363bf4c3409e46d601866a68a7a6c89da6ce571bef1174b391a9739c003", null ],
+      [ "EP_PWT_H", "dc/ddd/a04064.html#a53b11a363bf4c3409e46d601866a68a7aa47b39a956e872b099572b2c78d2d430", null ],
+      [ "EP_PWT_N", "dc/ddd/a04064.html#a53b11a363bf4c3409e46d601866a68a7aa750f7cf7fe63939c96cec113e314cca", null ]
     ] ],
-    [ "ZMCreatureTypes", "dc/ddd/a04064.html#aa6fc4a297b329d62073dd503d4f647c5", [
-      [ "ZM_ALLIANCE_FIELD_SCOUT", "dc/ddd/a04064.html#aa6fc4a297b329d62073dd503d4f647c5ab0f9fb0eee307b47658f6742db0a4d82", null ],
-      [ "ZM_HORDE_FIELD_SCOUT", "dc/ddd/a04064.html#aa6fc4a297b329d62073dd503d4f647c5a51001197c09a749a8d042df6fc5d0d62", null ],
-      [ "ZM_CREATURE_NUM", "dc/ddd/a04064.html#aa6fc4a297b329d62073dd503d4f647c5a47e8909e9a6a41604775c672ec3587ae", null ]
+    [ "EP_Summons", "dc/ddd/a04064.html#ad9bf5a52eb45ee872984e5b5001e3847", [
+      [ "EP_EWT_COMMANDER", "dc/ddd/a04064.html#ad9bf5a52eb45ee872984e5b5001e3847a02e7088d225f255f315ccd7c0c3bfa9c", null ],
+      [ "EP_EWT_SOLDIER1", "dc/ddd/a04064.html#ad9bf5a52eb45ee872984e5b5001e3847ac57e6293c6754a601a94375add313fd3", null ],
+      [ "EP_EWT_SOLDIER2", "dc/ddd/a04064.html#ad9bf5a52eb45ee872984e5b5001e3847a692d9c882b6949c9954095e18bcbaaf7", null ],
+      [ "EP_EWT_SOLDIER3", "dc/ddd/a04064.html#ad9bf5a52eb45ee872984e5b5001e3847ac9c561614a0184c10a0f92efe3e49ddc", null ],
+      [ "EP_EWT_SOLDIER4", "dc/ddd/a04064.html#ad9bf5a52eb45ee872984e5b5001e3847a6f60ef02c8ecf993fde2ce5cb1dc281d", null ],
+      [ "EP_PWT_FLIGHTMASTER", "dc/ddd/a04064.html#ad9bf5a52eb45ee872984e5b5001e3847a1a3531875652cba7423a81d95710bc89", null ]
     ] ],
-    [ "OutdoorPvPZMBuffZones", "dc/ddd/a04064.html#a42debbed89bc9a37f04d7da9f1ba5362", null ],
-    [ "OutdoorPvPZMBuffZonesNum", "dc/ddd/a04064.html#afd164ef928ed19895648e76207433805", null ],
-    [ "ZM_AllianceFieldScout", "dc/ddd/a04064.html#a308db265dfb26d8d04ea2b44077d3b42", null ],
-    [ "ZM_Banner_A", "dc/ddd/a04064.html#a986fade5573769277e5c9e99dc243d78", null ],
-    [ "ZM_Banner_H", "dc/ddd/a04064.html#a5eae372f5bc43c36af04c8833002ca79", null ],
-    [ "ZM_Banner_N", "dc/ddd/a04064.html#a9bf0e9dee2e0ae4731dd302373e18542", null ],
-    [ "ZM_GRAVEYARD_ID", "dc/ddd/a04064.html#adc060a8578a0685e98f94a0d51c3613b", null ],
-    [ "ZM_GRAVEYARD_ZONE", "dc/ddd/a04064.html#a32c62572b4ea0ef1930cffc3e9e2c6fe", null ],
-    [ "ZM_HordeFieldScout", "dc/ddd/a04064.html#aa18435dfdf68c3f5ac5218ce2e4909d0", null ],
-    [ "ZMBeaconCaptureA", "dc/ddd/a04064.html#aefc7683d5c310d6513a4bc64e0562f24", null ],
-    [ "ZMBeaconCaptureH", "dc/ddd/a04064.html#a3cf4b21d832f1993b7bbef74516f4690", null ],
-    [ "ZMBeaconInfo", "dc/ddd/a04064.html#af392c2c0a8da38f6782ab0ed0501a448", null ],
-    [ "ZMBeaconLoseA", "dc/ddd/a04064.html#ace5e051bf69a2b4be978b04c832c5592", null ],
-    [ "ZMBeaconLoseH", "dc/ddd/a04064.html#a32e1a277d31ee3f4a23f291ccb4798e6", null ],
-    [ "ZMCapturePoints", "dc/ddd/a04064.html#a397f5867c1a3f99cf044124a4a621324", null ]
+    [ "EP_Towers", "dc/ddd/a04064.html#acb017cec20a6986c80544c74f4755313", [
+      [ "EP_EWT", "dc/ddd/a04064.html#acb017cec20a6986c80544c74f4755313a886963cebfd5423ed826003d66282535", null ],
+      [ "EP_NPT", "dc/ddd/a04064.html#acb017cec20a6986c80544c74f4755313a325af9e8b22e4a01e1c6e1c2e98de869", null ],
+      [ "EP_PWT", "dc/ddd/a04064.html#acb017cec20a6986c80544c74f4755313a03b88e9657ca925556db1d3e7b6d253e", null ],
+      [ "EP_CGT", "dc/ddd/a04064.html#acb017cec20a6986c80544c74f4755313a7cb411796051126f28519def8023bdda", null ],
+      [ "EP_TOWER_NUM", "dc/ddd/a04064.html#acb017cec20a6986c80544c74f4755313a386ba14a38a78fe9be7eae87e7d30c73", null ]
+    ] ],
+    [ "EP_TowerStates", "dc/ddd/a04064.html#a803bc1884225e56dd663001b104aeb2c", [
+      [ "EP_TS_N", "dc/ddd/a04064.html#a803bc1884225e56dd663001b104aeb2ca114ce72e85bdab2aa278d07a3ed6f86c", null ],
+      [ "EP_TS_N_A", "dc/ddd/a04064.html#a803bc1884225e56dd663001b104aeb2ca374de4c147a53afd1e446644329ca589", null ],
+      [ "EP_TS_N_H", "dc/ddd/a04064.html#a803bc1884225e56dd663001b104aeb2ca3b9fcbaa216c28e21276e608aa77aee7", null ],
+      [ "EP_TS_A_P", "dc/ddd/a04064.html#a803bc1884225e56dd663001b104aeb2caff0b067d2f9e15a88447d855c711afcf", null ],
+      [ "EP_TS_H_P", "dc/ddd/a04064.html#a803bc1884225e56dd663001b104aeb2ca6f356a7dbe409b3f8fa98e0e30f17866", null ],
+      [ "EP_TS_A", "dc/ddd/a04064.html#a803bc1884225e56dd663001b104aeb2ca19f979dcdacbc0d3bb1c4babb4fcbdf0", null ],
+      [ "EP_TS_H", "dc/ddd/a04064.html#a803bc1884225e56dd663001b104aeb2cab9edf90a3d5c3e17ecb71fe92672e57b", null ]
+    ] ],
+    [ "EP_WorldStates", "dc/ddd/a04064.html#a17123e2aae6fe27e30e952be34e0403a", [
+      [ "EP_UI_TOWER_SLIDER_DISPLAY", "dc/ddd/a04064.html#a17123e2aae6fe27e30e952be34e0403aa2cef2ed3e40740db528809285d629f12", null ],
+      [ "EP_UI_TOWER_SLIDER_POS", "dc/ddd/a04064.html#a17123e2aae6fe27e30e952be34e0403aad3ef398efd356aa22097745ab49d1987", null ],
+      [ "EP_UI_TOWER_SLIDER_N", "dc/ddd/a04064.html#a17123e2aae6fe27e30e952be34e0403aafee34b4367cfba811e1a3ff6cd2d98d5", null ],
+      [ "EP_UI_TOWER_COUNT_A", "dc/ddd/a04064.html#a17123e2aae6fe27e30e952be34e0403aad205f1a816fa5d304ff3f4d9058e34bd", null ],
+      [ "EP_UI_TOWER_COUNT_H", "dc/ddd/a04064.html#a17123e2aae6fe27e30e952be34e0403aa325f173bb15bebc36f8ac0ce6d956d23", null ]
+    ] ],
+    [ "EP_AllianceBuffs", "dc/ddd/a04064.html#a39190e48b2170e2d0d0628b06d6da8f1", null ],
+    [ "EP_CGT_CM", "dc/ddd/a04064.html#a4eb66c50d410c58b22546406eda37e5f", null ],
+    [ "EP_EWT_CM", "dc/ddd/a04064.html#a9bf83dc59a4ca7a56297e572ee782e9e", null ],
+    [ "EP_EWT_NUM_CREATURES", "dc/ddd/a04064.html#aa62021ba8da0171188d5327cade2d79c", null ],
+    [ "EP_EWT_Summons_A", "dc/ddd/a04064.html#a13c9b3f39108790585875365648e6a51", null ],
+    [ "EP_EWT_Summons_H", "dc/ddd/a04064.html#adae054ab5e44ffc0c7a528c417aff670", null ],
+    [ "EP_GraveyardId", "dc/ddd/a04064.html#a1751b41516eaecd46b28e8a1f80c6f07", null ],
+    [ "EP_GraveyardZone", "dc/ddd/a04064.html#a3b7f1cd13477df42bd29e674cb329ad4", null ],
+    [ "EP_HordeBuffs", "dc/ddd/a04064.html#a870abed831404a02d171e9cf1bd741cb", null ],
+    [ "EP_NPT_CM", "dc/ddd/a04064.html#aad6c6d1e803fa77420b7d8bc5450975a", null ],
+    [ "EP_NPT_LordaeronShrine", "dc/ddd/a04064.html#ab95dc19577389e3d84821796921e3cc1", null ],
+    [ "EP_NUM_CREATURES", "dc/ddd/a04064.html#a60340c7ab3a1dd51078336de7759f588", null ],
+    [ "EP_PWT_CM", "dc/ddd/a04064.html#a25cbe7281f91d6a29b183f97340385ef", null ],
+    [ "EP_PWT_FlightMaster", "dc/ddd/a04064.html#ab9af729b1e6ed3b993d963037395a531", null ],
+    [ "EPBuffZones", "dc/ddd/a04064.html#a2acf7be696695ceaa968a2eac356e562", null ],
+    [ "EPBuffZonesNum", "dc/ddd/a04064.html#a8e411865d0acd6cd6c6f10172adf4ad4", null ],
+    [ "EPCapturePoints", "dc/ddd/a04064.html#a45924b22012276ef73ca0a50fa786e52", null ],
+    [ "EPTowerFlags", "dc/ddd/a04064.html#af18f636f66cc238611a1f2dd03b2ddcb", null ]
 ];

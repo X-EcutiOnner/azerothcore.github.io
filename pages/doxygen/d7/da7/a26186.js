@@ -1,7 +1,6 @@
 var a26186 =
 [
-    [ "HandleEffectPeriodic", "d7/da7/a26186.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
-    [ "PrepareAuraScript", "d7/da7/a26186.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
-    [ "Register", "d7/da7/a26186.html#ac3741617faacf83a707f1359aab1886e", null ],
-    [ "Validate", "d7/da7/a26186.html#a9378252b6711cc0bec3e63efce026495", null ]
+    [ "HandleScriptEffect", "d7/da7/a26186.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
+    [ "PrepareSpellScript", "d7/da7/a26186.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
+    [ "Register", "d7/da7/a26186.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
 ];

@@ -1,7 +1,10 @@
 var a20794 =
 [
-    [ "HandleEffectCalcPeriodic", "d5/d12/a20794.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "d5/d12/a20794.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "d5/d12/a20794.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "d5/d12/a20794.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "boss_yoggsaron_voiceAI", "d5/d12/a20794.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
+    [ "Reset", "d5/d12/a20794.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
+    [ "SpellHitTarget", "d5/d12/a20794.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
+    [ "UpdateAI", "d5/d12/a20794.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
+    [ "_current", "d5/d12/a20794.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
+    [ "_targets", "d5/d12/a20794.html#ab6132214a2249fbb5de8a5115b114381", null ],
+    [ "events", "d5/d12/a20794.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
 ];

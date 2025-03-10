@@ -1,6 +1,7 @@
 var a23774 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d2/d67/a23778.html", "d2/d67/a23778" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "d7/d01/a23774.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "d7/d01/a23774.html#a250707096229da28024960beeb7725bf", null ]
+    [ "boss_gatewatcher_gyrokill", "d7/d01/a23774.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d7/d01/a23774.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d7/d01/a23774.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d7/d01/a23774.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

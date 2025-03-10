@@ -1,6 +1,4 @@
 var a27950 =
 [
-    [ "color", "df/d04/a27950.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "df/d04/a27950.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "df/d04/a27950.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "ID", "df/d04/a27950.html#a27cfc07c5aa7efe7a6f0cb62ea691f81", null ]
 ];

@@ -1,5 +1,7 @@
 var a27930 =
 [
-    [ "Id", "d6/dcf/a27930.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "d6/dcf/a27930.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "Displayid", "d6/dcf/a27930.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
+    [ "ExtendedDisplayInfoID", "d6/dcf/a27930.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
+    [ "ModelId", "d6/dcf/a27930.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
+    [ "scale", "d6/dcf/a27930.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
 ];

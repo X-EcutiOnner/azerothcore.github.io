@@ -1,13 +1,9 @@
 var a26174 =
 [
-    [ "spell_generic_quest_update_entry_SpellScript", "da/d24/a26174.html#ac4308aa1d8701e79888046e1c19137a7", null ],
-    [ "HandleDummy", "da/d24/a26174.html#a891c357279ecee2e7fce323761607285", null ],
-    [ "PrepareSpellScript", "da/d24/a26174.html#a3bf2605d8aa31e694b479f0de9f1703e", null ],
-    [ "Register", "da/d24/a26174.html#af04e51cff5344f1acef7607080501736", null ],
-    [ "_despawnTime", "da/d24/a26174.html#a0495a98565cd8292c252745956206743", null ],
-    [ "_effIndex", "da/d24/a26174.html#a46dd459dc324dfea871c93a0b3b5d8f1", null ],
-    [ "_newEntry", "da/d24/a26174.html#ad76d907c9200985e9aa1e2c5006d0c46", null ],
-    [ "_originalEntry", "da/d24/a26174.html#ad7d8ddda30c4b9f322ddaee8b014c233", null ],
-    [ "_shouldAttack", "da/d24/a26174.html#acf0c48dd134c5e8bb207983e8f520f22", null ],
-    [ "_spellEffect", "da/d24/a26174.html#af02e04bbac8a4ad1d84c72b7f337249e", null ]
+    [ "HandleAfterCast", "da/d24/a26174.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "da/d24/a26174.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "da/d24/a26174.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "da/d24/a26174.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "da/d24/a26174.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "da/d24/a26174.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

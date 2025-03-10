@@ -1,15 +1,8 @@
 var a22502 =
 [
-    [ "boss_grandmaster_vorpil", "d3/d0e/a22502.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
-    [ "counterVoidSpawns", "d3/d0e/a22502.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
-    [ "JustDied", "d3/d0e/a22502.html#ab492fff8a9a275c662b44eeff3300b90", null ],
-    [ "JustEngagedWith", "d3/d0e/a22502.html#af1e6da02cd33742efad568424cf32c4f", null ],
-    [ "JustSummoned", "d3/d0e/a22502.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
-    [ "KilledUnit", "d3/d0e/a22502.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
-    [ "MoveInLineOfSight", "d3/d0e/a22502.html#adb24a3d337b64f37759a3a39802d7e27", null ],
-    [ "Reset", "d3/d0e/a22502.html#a6471121ee02a834591b36d03fae28672", null ],
-    [ "spawnVoidTraveler", "d3/d0e/a22502.html#aa842bc3d88d0a3a411dcba3711809956", null ],
-    [ "summonPortals", "d3/d0e/a22502.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
-    [ "sayHelp", "d3/d0e/a22502.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
-    [ "sayIntro", "d3/d0e/a22502.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
+    [ "boss_tavarok", "d3/d0e/a22502.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
+    [ "JustDied", "d3/d0e/a22502.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
+    [ "JustEngagedWith", "d3/d0e/a22502.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
+    [ "KilledUnit", "d3/d0e/a22502.html#a2c99df9457c548ee562fde920592ea88", null ],
+    [ "Reset", "d3/d0e/a22502.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
 ];

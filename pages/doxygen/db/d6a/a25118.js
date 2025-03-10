@@ -1,7 +1,7 @@
 var a25118 =
 [
-    [ "ModDest", "db/d6a/a25118.html#afe0fb68de61a657ce6900e71973e4d77", null ],
-    [ "ModifyCookingSkill", "db/d6a/a25118.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
-    [ "PrepareSpellScript", "db/d6a/a25118.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
-    [ "Register", "db/d6a/a25118.html#a6919079b43a816eb601a68c51ad39794", null ]
+    [ "HandleEffectPeriodic", "db/d6a/a25118.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
+    [ "PrepareAuraScript", "db/d6a/a25118.html#affc698127fe0656df25bd094c02a7e50", null ],
+    [ "Register", "db/d6a/a25118.html#a4707bfaeb86b3540920a6772e1726e26", null ],
+    [ "Validate", "db/d6a/a25118.html#aef839f163d7e623a54b163e1c27542cd", null ]
 ];

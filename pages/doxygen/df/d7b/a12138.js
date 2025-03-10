@@ -1,7 +1,7 @@
 var a12138 =
 [
-    [ "HandleScript", "df/d7b/a12138.html#a0d244cc1785b136bae0960d697dc761d", null ],
-    [ "PrepareSpellScript", "df/d7b/a12138.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
-    [ "Register", "df/d7b/a12138.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
-    [ "Validate", "df/d7b/a12138.html#a1413754f3a79caf8ec57d394c68f3499", null ]
+    [ "boss_broodlordAI", "df/d7b/a12138.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
+    [ "JustDied", "df/d7b/a12138.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
+    [ "JustEngagedWith", "df/d7b/a12138.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
+    [ "UpdateAI", "df/d7b/a12138.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
 ];

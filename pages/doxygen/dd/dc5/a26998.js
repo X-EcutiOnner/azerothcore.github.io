@@ -1,9 +1,6 @@
 var a26998 =
 [
-    [ "ChatLogScript", "dd/dc5/a26998.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnPlayerChat", "dd/dc5/a26998.html#a9dc39835aac01da34c57c420fc82790e", null ],
-    [ "OnPlayerChat", "dd/dc5/a26998.html#a64e047261c3d3de22614950c6b6f6f79", null ],
-    [ "OnPlayerChat", "dd/dc5/a26998.html#ac9a4dc6a35325a87c69f08f50a26750c", null ],
-    [ "OnPlayerChat", "dd/dc5/a26998.html#af6e61405ba6642fa451465e27c4b47d8", null ],
-    [ "OnPlayerChat", "dd/dc5/a26998.html#a9962307a0e073ee3f5e7139f059e01b8", null ]
+    [ "boss_lethonAI", "d4/d96/a27002.html", "d4/d96/a27002" ],
+    [ "boss_lethon", "dd/dc5/a26998.html#a5d758979b061646830373de64b2b3af4", null ],
+    [ "GetAI", "dd/dc5/a26998.html#a493baf37aac400635dd0409e79375a1c", null ]
 ];

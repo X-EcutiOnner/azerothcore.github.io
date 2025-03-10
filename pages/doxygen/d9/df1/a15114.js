@@ -1,6 +1,7 @@
 var a15114 =
 [
-    [ "npc_muglashAI", "de/d1a/a15118.html", "de/d1a/a15118" ],
-    [ "npc_muglash", "d9/df1/a15114.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
-    [ "GetAI", "d9/df1/a15114.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
+    [ "npc_vekniss_stinger", "d9/df1/a15114.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "d9/df1/a15114.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "d9/df1/a15114.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "d9/df1/a15114.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

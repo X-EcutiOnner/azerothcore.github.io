@@ -1,5 +1,6 @@
 var a22382 =
 [
-    [ "OutdoorPvP_terokkar_forest", "db/d65/a22382.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
-    [ "GetOutdoorPvP", "db/d65/a22382.html#acf268293812d7a1a233e7f1fcba1e733", null ]
+    [ "OutdoorPvPGH", "db/d65/a22382.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "SendRemoveWorldStates", "db/d65/a22382.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "db/d65/a22382.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

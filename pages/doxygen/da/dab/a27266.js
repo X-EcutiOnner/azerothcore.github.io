@@ -1,10 +1,10 @@
 var a27266 =
 [
-    [ "npc_prof_blacksmith", "da/dab/a27266.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "da/dab/a27266.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "da/dab/a27266.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "da/dab/a27266.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "da/dab/a27266.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "da/dab/a27266.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "da/dab/a27266.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "guard_shattrath_aldorAI", "da/dab/a27266.html#a88961dfe4100dfe207af693a1eed86ad", null ],
+    [ "Reset", "da/dab/a27266.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
+    [ "UpdateAI", "da/dab/a27266.html#ac87ee12d4487971b68c70f06f63eb410", null ],
+    [ "banishTimer", "da/dab/a27266.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
+    [ "canTeleport", "da/dab/a27266.html#af4d933b56431d2f2755d87fb05922458", null ],
+    [ "exileTimer", "da/dab/a27266.html#a8d56205206f3e14184922f96873456ad", null ],
+    [ "playerGUID", "da/dab/a27266.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
 ];

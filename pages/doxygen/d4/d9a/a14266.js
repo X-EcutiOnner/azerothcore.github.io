@@ -1,7 +1,8 @@
 var a14266 =
 [
-    [ "HandleEffectApply", "d4/d9a/a14266.html#ad48d832fef881bfb517fb8df694b7507", null ],
-    [ "HandleEffectRemove", "d4/d9a/a14266.html#a1534b010301dbaff66d41443142c50b7", null ],
-    [ "PrepareAuraScript", "d4/d9a/a14266.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
-    [ "Register", "d4/d9a/a14266.html#a97a0003cca808e5b03f720bb3be07419", null ]
+    [ "npc_hallows_end_train_fire", "d4/d9a/a14266.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
+    [ "Reset", "d4/d9a/a14266.html#afdda52e0adce23f56fa9d1357469a17d", null ],
+    [ "SpellHit", "d4/d9a/a14266.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
+    [ "UpdateAI", "d4/d9a/a14266.html#a686a565e1743c31166d8d57f67a0adce", null ],
+    [ "timer", "d4/d9a/a14266.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
 ];

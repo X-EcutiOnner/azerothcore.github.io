@@ -1,4 +1,7 @@
 var a04697 =
 [
-    [ "fixCoordSystem", "d2/d91/a04697.html#a8d0afbab5641bb7d88196fbad79e4cf1", null ]
+    [ "IsAcceptedClientBuild", "d2/d91/a04697.html#a50a906b5a3fdca3508aee0997881a717", null ],
+    [ "IsPostBCAcceptedClientBuild", "d2/d91/a04697.html#ad4f22daf9d88367d90d92416f470a28c", null ],
+    [ "IsPreBCAcceptedClientBuild", "d2/d91/a04697.html#a96896fc9dad2c304f681a24776f6726b", null ],
+    [ "MAX_PRE_BC_CLIENT_BUILD", "d2/d91/a04697.html#ac023f15b280fc65fdefefb77f2f7be7b", null ]
 ];

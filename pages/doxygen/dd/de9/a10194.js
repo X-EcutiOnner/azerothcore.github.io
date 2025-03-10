@@ -1,6 +1,6 @@
 var a10194 =
 [
-    [ "ConditionScript", "dd/de9/a10194.html#a546130ee7ed33c7763115cb0d1506a1b", null ],
-    [ "IsDatabaseBound", "dd/de9/a10194.html#ac4f8325e3fa1e11437056818a0267342", null ],
-    [ "OnConditionCheck", "dd/de9/a10194.html#a2d8a4e71f20c290428c3a86cedfcaab7", null ]
+    [ "AreaTriggerScript", "dd/de9/a10194.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
+    [ "IsDatabaseBound", "dd/de9/a10194.html#ac5234a2cd020cd8f90b6d19c28ad46ae", null ],
+    [ "OnTrigger", "dd/de9/a10194.html#abb6cdada718e9fad7da98fbb667c6d53", null ]
 ];

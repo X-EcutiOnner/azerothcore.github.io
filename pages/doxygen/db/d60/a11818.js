@@ -1,6 +1,6 @@
 var a11818 =
 [
-    [ "boss_evisceratorAI", "dc/d1a/a11822.html", "dc/d1a/a11822" ],
-    [ "boss_eviscerator", "db/d60/a11818.html#aca65400afa5ca9ca81043687d79cdad0", null ],
-    [ "GetAI", "db/d60/a11818.html#a21203f69267ec93c46d9ff56321b8169", null ]
+    [ "boss_ambassador_flamelashAI", "dc/d1a/a11822.html", "dc/d1a/a11822" ],
+    [ "boss_ambassador_flamelash", "db/d60/a11818.html#a53d24a240e48033b0474970e8acac1f4", null ],
+    [ "GetAI", "db/d60/a11818.html#a332e347d803a58989445ec57d75361ab", null ]
 ];

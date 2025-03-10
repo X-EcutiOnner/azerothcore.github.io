@@ -1,5 +1,7 @@
 var a13682 =
 [
-    [ "entry", "d1/d01/a13682.html#ad7431eb64907aed0a03205a37c65a735", null ],
-    [ "pos", "d1/d01/a13682.html#ab60283e91e81c141f3b31218aa4442a3", null ]
+    [ "FilterTargets", "d1/d01/a13682.html#aebe9055301495dd3a21736b9a2a35f31", null ],
+    [ "HandleDamageCalc", "d1/d01/a13682.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
+    [ "PrepareSpellScript", "d1/d01/a13682.html#a03b8e21e58988d9fc774205263c0817f", null ],
+    [ "Register", "d1/d01/a13682.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
 ];

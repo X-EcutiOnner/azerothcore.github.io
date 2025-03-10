@@ -1,5 +1,6 @@
 var a19986 =
 [
-    [ "achievement_smell_saronite", "d0/dde/a19986.html#a42dce2aefa2561952dcf5289126035a8", null ],
-    [ "OnCheck", "d0/dde/a19986.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
+    [ "boss_vezaxAI", "d7/d31/a19990.html", "d7/d31/a19990" ],
+    [ "boss_vezax", "d0/dde/a19986.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
+    [ "GetAI", "d0/dde/a19986.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
 ];

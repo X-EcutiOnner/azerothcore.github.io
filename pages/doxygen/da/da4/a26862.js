@@ -1,5 +1,5 @@
 var a26862 =
 [
-    [ "achievement_tilted", "da/da4/a26862.html#a868d7b8a437434d6dc34b5000c429e66", null ],
-    [ "OnCheck", "da/da4/a26862.html#a61d3eb78450383485699532d96f79d93", null ]
+    [ "achievement_resilient_victory", "da/da4/a26862.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
+    [ "OnCheck", "da/da4/a26862.html#a21445d406f67771a20608260b3f9b033", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::RandomCheck Class Reference</title>
+<title>AzerothCore: Acore::AllWorldObjectsInRange Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,7 +108,7 @@ $(document).ready(function(){initNavTree('de/d88/a09418.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d9/d37/a09415.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::RandomCheck Class Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::AllWorldObjectsInRange Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -116,20 +116,22 @@ $(document).ready(function(){initNavTree('de/d88/a09418.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aca7a234c6eef8876abb02af723e9485d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d88/a09418.html#aca7a234c6eef8876abb02af723e9485d">RandomCheck</a> (<a class="el" href="../../d3/d56/a04553.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> chance)</td></tr>
-<tr class="separator:aca7a234c6eef8876abb02af723e9485d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9886987fa2b675ab404102ebe828c9f3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d88/a09418.html#a9886987fa2b675ab404102ebe828c9f3">operator()</a> (<a class="el" href="../../d5/d43/a08350.html">WorldObject</a> const *) const</td></tr>
-<tr class="separator:a9886987fa2b675ab404102ebe828c9f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a63f46d510df0fa3153d4b3325676a468"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d88/a09418.html#a63f46d510df0fa3153d4b3325676a468">AllWorldObjectsInRange</a> (<a class="el" href="../../d3/d25/a08362.html">WorldObject</a> const *object, float maxRange)</td></tr>
+<tr class="separator:a63f46d510df0fa3153d4b3325676a468"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2cf23c24df93b5f7f29163b32e965a94"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d88/a09418.html#a2cf23c24df93b5f7f29163b32e965a94">operator()</a> (<a class="el" href="../../d3/d25/a08362.html">WorldObject</a> *go)</td></tr>
+<tr class="separator:a2cf23c24df93b5f7f29163b32e965a94"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:aad026a0ad4539dd5336c3a6b820e351d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d88/a09418.html#aad026a0ad4539dd5336c3a6b820e351d">_chance</a></td></tr>
-<tr class="separator:aad026a0ad4539dd5336c3a6b820e351d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae7dde7b946d8affb79cb2d4c58eedbed"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d25/a08362.html">WorldObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d88/a09418.html#ae7dde7b946d8affb79cb2d4c58eedbed">m_pObject</a></td></tr>
+<tr class="separator:ae7dde7b946d8affb79cb2d4c58eedbed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6afe3ef05369dce8ee205db219f97846"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d88/a09418.html#a6afe3ef05369dce8ee205db219f97846">m_fRange</a></td></tr>
+<tr class="separator:a6afe3ef05369dce8ee205db219f97846"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aca7a234c6eef8876abb02af723e9485d" name="aca7a234c6eef8876abb02af723e9485d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aca7a234c6eef8876abb02af723e9485d">&#9670;&#160;</a></span>RandomCheck()</h2>
+<a id="a63f46d510df0fa3153d4b3325676a468" name="a63f46d510df0fa3153d4b3325676a468"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a63f46d510df0fa3153d4b3325676a468">&#9670;&#160;</a></span>AllWorldObjectsInRange()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -138,40 +140,21 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Acore::RandomCheck::RandomCheck </td>
+          <td class="memname">Acore::AllWorldObjectsInRange::AllWorldObjectsInRange </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d56/a04553.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>chance</em></td><td>)</td>
-          <td></td>
+          <td class="paramtype"><a class="el" href="../../d3/d25/a08362.html">WorldObject</a> const *&#160;</td>
+          <td class="paramname"><em>object</em>, </td>
         </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1664</span>: <a class="code hl_variable" href="../../de/d88/a09418.html#aad026a0ad4539dd5336c3a6b820e351d">_chance</a>(chance) { }</div>
-<div class="ttc" id="aa09418_html_aad026a0ad4539dd5336c3a6b820e351d"><div class="ttname"><a href="../../de/d88/a09418.html#aad026a0ad4539dd5336c3a6b820e351d">Acore::RandomCheck::_chance</a></div><div class="ttdeci">uint8 const _chance</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1671</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a9886987fa2b675ab404102ebe828c9f3" name="a9886987fa2b675ab404102ebe828c9f3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9886987fa2b675ab404102ebe828c9f3">&#9670;&#160;</a></span>operator()()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
         <tr>
-          <td class="memname">bool Acore::RandomCheck::operator() </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d43/a08350.html">WorldObject</a> const *&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>maxRange</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -180,18 +163,15 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1666</span>        {</div>
-<div class="line"><span class="lineno"> 1667</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="../../d4/d61/a04406.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a>(<a class="code hl_variable" href="../../de/d88/a09418.html#aad026a0ad4539dd5336c3a6b820e351d">_chance</a>);</div>
-<div class="line"><span class="lineno"> 1668</span>        }</div>
-<div class="ttc" id="aa04406_html_a50320d4edff86db31b25138ae72161ad"><div class="ttname"><a href="../../d4/d61/a04406.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a></div><div class="ttdeci">bool roll_chance_i(int chance)</div><div class="ttdef"><b>Definition:</b> Random.h:60</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1588</span>: <a class="code hl_variable" href="../../de/d88/a09418.html#ae7dde7b946d8affb79cb2d4c58eedbed">m_pObject</a>(<span class="keywordtype">object</span>), <a class="code hl_variable" href="../../de/d88/a09418.html#a6afe3ef05369dce8ee205db219f97846">m_fRange</a>(maxRange) {}</div>
+<div class="ttc" id="aa09418_html_a6afe3ef05369dce8ee205db219f97846"><div class="ttname"><a href="../../de/d88/a09418.html#a6afe3ef05369dce8ee205db219f97846">Acore::AllWorldObjectsInRange::m_fRange</a></div><div class="ttdeci">float m_fRange</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1595</div></div>
+<div class="ttc" id="aa09418_html_ae7dde7b946d8affb79cb2d4c58eedbed"><div class="ttname"><a href="../../de/d88/a09418.html#ae7dde7b946d8affb79cb2d4c58eedbed">Acore::AllWorldObjectsInRange::m_pObject</a></div><div class="ttdeci">WorldObject const  * m_pObject</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1594</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01671">_chance</a>, and <a class="el" href="../../#l00060">roll_chance_i()</a>.</p>
-
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="aad026a0ad4539dd5336c3a6b820e351d" name="aad026a0ad4539dd5336c3a6b820e351d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aad026a0ad4539dd5336c3a6b820e351d">&#9670;&#160;</a></span>_chance</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a2cf23c24df93b5f7f29163b32e965a94" name="a2cf23c24df93b5f7f29163b32e965a94"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2cf23c24df93b5f7f29163b32e965a94">&#9670;&#160;</a></span>operator()()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -200,7 +180,41 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> const Acore::RandomCheck::_chance</td>
+          <td class="memname">bool Acore::AllWorldObjectsInRange::operator() </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d25/a08362.html">WorldObject</a> *&#160;</td>
+          <td class="paramname"><em>go</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1590</span>        {</div>
+<div class="line"><span class="lineno"> 1591</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d88/a09418.html#ae7dde7b946d8affb79cb2d4c58eedbed">m_pObject</a>-&gt;<a class="code hl_function" href="../../d3/d25/a08362.html#a488ffb2c3d4f60c987706f93bc4db611">IsWithinDist</a>(go, <a class="code hl_variable" href="../../de/d88/a09418.html#a6afe3ef05369dce8ee205db219f97846">m_fRange</a>, <span class="keyword">false</span>) &amp;&amp; <a class="code hl_variable" href="../../de/d88/a09418.html#ae7dde7b946d8affb79cb2d4c58eedbed">m_pObject</a>-&gt;<a class="code hl_function" href="../../d3/d25/a08362.html#a9194d2edf982e08c6a17e2893d9969f9">InSamePhase</a>(go);</div>
+<div class="line"><span class="lineno"> 1592</span>        }</div>
+<div class="ttc" id="aa08362_html_a488ffb2c3d4f60c987706f93bc4db611"><div class="ttname"><a href="../../d3/d25/a08362.html#a488ffb2c3d4f60c987706f93bc4db611">WorldObject::IsWithinDist</a></div><div class="ttdeci">bool IsWithinDist(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1327</div></div>
+<div class="ttc" id="aa08362_html_a9194d2edf982e08c6a17e2893d9969f9"><div class="ttname"><a href="../../d3/d25/a08362.html#a9194d2edf982e08c6a17e2893d9969f9">WorldObject::InSamePhase</a></div><div class="ttdeci">bool InSamePhase(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.h:452</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00452">WorldObject::InSamePhase()</a>, <a class="el" href="../../#l01327">WorldObject::IsWithinDist()</a>, <a class="el" href="../../#l01595">m_fRange</a>, and <a class="el" href="../../#l01594">m_pObject</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a6afe3ef05369dce8ee205db219f97846" name="a6afe3ef05369dce8ee205db219f97846"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6afe3ef05369dce8ee205db219f97846">&#9670;&#160;</a></span>m_fRange</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float Acore::AllWorldObjectsInRange::m_fRange</td>
         </tr>
       </table>
   </td>
@@ -210,7 +224,31 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01665">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01589">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="ae7dde7b946d8affb79cb2d4c58eedbed" name="ae7dde7b946d8affb79cb2d4c58eedbed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae7dde7b946d8affb79cb2d4c58eedbed">&#9670;&#160;</a></span>m_pObject</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d25/a08362.html">WorldObject</a> const* Acore::AllWorldObjectsInRange::m_pObject</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01589">operator()()</a>.</p>
 
 </div>
 </div>
@@ -219,8 +257,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/dda/a04740.html">Acore</a></li><li class="navelem"><a class="el" href="../../de/d88/a09418.html">RandomCheck</a></li>
-    <li class="footer">Generated on Mon Feb 17 2025 20:43:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/d0e/a04752.html">Acore</a></li><li class="navelem"><a class="el" href="../../de/d88/a09418.html">AllWorldObjectsInRange</a></li>
+    <li class="footer">Generated on Mon Mar 10 2025 20:45:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

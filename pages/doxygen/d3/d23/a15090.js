@@ -1,8 +1,13 @@
 var a15090 =
 [
-    [ "npc_ahnqiraji_critter", "d3/d23/a15090.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "d3/d23/a15090.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "d3/d23/a15090.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "d3/d23/a15090.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "d3/d23/a15090.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d3/d23/a15090.html#a454f677dddce956534d6f5a253ed587b", null ],
+    [ "GetData", "d3/d23/a15090.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
+    [ "Initialize", "d3/d23/a15090.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
+    [ "OnCreatureCreate", "d3/d23/a15090.html#affc7045f944251fb27683133f511029f", null ],
+    [ "OnGameObjectCreate", "d3/d23/a15090.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
+    [ "OnUnitDeath", "d3/d23/a15090.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
+    [ "SetBossState", "d3/d23/a15090.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
+    [ "SetData", "d3/d23/a15090.html#a25f4e12aad6325e87b31770c1243d746", null ],
+    [ "BugTrioDeathCount", "d3/d23/a15090.html#aab0191f5b31264f0632a24df0607d05b", null ],
+    [ "CThunGraspGUIDs", "d3/d23/a15090.html#aea180c0b623e919f56f9210ce15724e8", null ]
 ];

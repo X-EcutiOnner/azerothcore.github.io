@@ -1,8 +1,6 @@
 var a19794 =
 [
-    [ "FilterTargets", "de/ddd/a19794.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "de/ddd/a19794.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "de/ddd/a19794.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "de/ddd/a19794.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "de/ddd/a19794.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "npc_pool_of_tarAI", "de/ddd/a19794.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
+    [ "DamageTaken", "de/ddd/a19794.html#a4ea55aa08123f724268238e0def5b595", null ],
+    [ "SpellHit", "de/ddd/a19794.html#acb63166b396c079d5b4bb9db67a1448a", null ]
 ];

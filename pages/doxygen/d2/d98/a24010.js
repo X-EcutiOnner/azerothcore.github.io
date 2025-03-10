@@ -1,6 +1,7 @@
 var a24010 =
 [
-    [ "npc_drake_dealer_hurlunk", "d2/d98/a24010.html#ae6d095365d23c30d5b772b047b459ddb", null ],
-    [ "OnGossipHello", "d2/d98/a24010.html#ad04b7f906f029d9935e29c585b0de421", null ],
-    [ "OnGossipSelect", "d2/d98/a24010.html#aa23833dcdefb909899120c25d5376111", null ]
+    [ "CheckRequirement", "d2/d98/a24010.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "d2/d98/a24010.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "d2/d98/a24010.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "d2/d98/a24010.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

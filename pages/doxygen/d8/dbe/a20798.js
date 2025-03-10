@@ -1,6 +1,8 @@
 var a20798 =
 [
-    [ "OnEffect", "d8/dbe/a20798.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "d8/dbe/a20798.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "d8/dbe/a20798.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "OnApply", "d8/dbe/a20798.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "d8/dbe/a20798.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "d8/dbe/a20798.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "d8/dbe/a20798.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "d8/dbe/a20798.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

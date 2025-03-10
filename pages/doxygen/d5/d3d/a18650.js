@@ -1,9 +1,6 @@
 var a18650 =
 [
-    [ "npc_icc_severed_essenceAI", "d5/d3d/a18650.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "d5/d3d/a18650.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "d5/d3d/a18650.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "d5/d3d/a18650.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "d5/d3d/a18650.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "d5/d3d/a18650.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "d8/deb/a18654.html", "d8/deb/a18654" ],
+    [ "npc_icc_skybreaker_marksman", "d5/d3d/a18650.html#a1d870b78e1acf2d17782265e28698d1c", null ],
+    [ "GetAI", "d5/d3d/a18650.html#a374017d37da15705d51ab8edc75683ff", null ]
 ];

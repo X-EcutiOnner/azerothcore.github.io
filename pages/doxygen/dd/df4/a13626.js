@@ -1,5 +1,6 @@
 var a13626 =
 [
-    [ "npc_mikhail", "dd/df4/a13626.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
-    [ "OnQuestAccept", "dd/df4/a13626.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d1/db3/a13630.html", "d1/db3/a13630" ],
+    [ "npc_lady_sylvanas_windrunner_bfu", "dd/df4/a13626.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
+    [ "GetAI", "dd/df4/a13626.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
 ];

@@ -1,7 +1,8 @@
 var a24658 =
 [
-    [ "if", "d5/de8/a24658.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
-    [ "PrepareAuraScript", "d5/de8/a24658.html#a01d974333043452a37ec3124d23b49f2", null ],
-    [ "Register", "d5/de8/a24658.html#aeb6c695819e894aad8b210a237e6d315", null ],
-    [ "AuraEffectHandleModes", "d5/de8/a24658.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
+    [ "AfterApply", "d5/de8/a24658.html#a9c2591beacd941893338109719c03e3f", null ],
+    [ "AfterRemove", "d5/de8/a24658.html#a0be2a66b615dd926de7073392a8e5062", null ],
+    [ "PrepareAuraScript", "d5/de8/a24658.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
+    [ "Register", "d5/de8/a24658.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
+    [ "Validate", "d5/de8/a24658.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
 ];

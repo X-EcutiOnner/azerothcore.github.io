@@ -1,6 +1,6 @@
 var a18490 =
 [
-    [ "npc_captain_rupertAI", "db/d13/a18490.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "db/d13/a18490.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "db/d13/a18490.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "boss_sister_svalnaAI", "da/d4f/a18494.html", "da/d4f/a18494" ],
+    [ "boss_sister_svalna", "db/d13/a18490.html#a233a9606db61f6ab945350e98a0929ff", null ],
+    [ "GetAI", "db/d13/a18490.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
 ];

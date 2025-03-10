@@ -1,13 +1,12 @@
 var a20958 =
 [
-    [ "npc_ferocious_rhinoAI", "df/d9a/a20958.html#ad70d0aeba4b73330c5087bc84a533389", null ],
-    [ "DoAction", "df/d9a/a20958.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
-    [ "JustDied", "df/d9a/a20958.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
-    [ "JustEngagedWith", "df/d9a/a20958.html#aab35078fe4518b6647f98e316d02898a", null ],
-    [ "JustReachedHome", "df/d9a/a20958.html#ab8105d6c8c70037c208c83c13c35242d", null ],
-    [ "MoveInLineOfSight", "df/d9a/a20958.html#a97e32d32a692f223b96746f3ef1086c5", null ],
-    [ "Reset", "df/d9a/a20958.html#a6d317407c2de2f954b5dd2a6db137304", null ],
-    [ "UpdateAI", "df/d9a/a20958.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
-    [ "events", "df/d9a/a20958.html#af23061de7d8566c7435c2c64c53dff89", null ],
-    [ "m_pInstance", "df/d9a/a20958.html#a97e00db40792c559dd06327c9960abe4", null ]
+    [ "boss_skarvald_the_constructor", "df/d9a/a20958.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
+    [ "DoAction", "df/d9a/a20958.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
+    [ "JustDied", "df/d9a/a20958.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
+    [ "JustEngagedWith", "df/d9a/a20958.html#a529439d257abf78f76db0043549964e6", null ],
+    [ "KilledUnit", "df/d9a/a20958.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
+    [ "Reset", "df/d9a/a20958.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
+    [ "UpdateAI", "df/d9a/a20958.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
+    [ "events", "df/d9a/a20958.html#a28837280e161f6971564a4725c97a154", null ],
+    [ "pInstance", "df/d9a/a20958.html#ab5b773a9960f611a6383578a607ba258", null ]
 ];

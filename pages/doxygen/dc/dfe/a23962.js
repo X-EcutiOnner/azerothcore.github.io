@@ -1,7 +1,5 @@
 var a23962 =
 [
-    [ "CheckRequirement", "dc/dfe/a23962.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "dc/dfe/a23962.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "dc/dfe/a23962.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "dc/dfe/a23962.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "go_warmaul_prison", "dc/dfe/a23962.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
+    [ "OnGossipHello", "dc/dfe/a23962.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
 ];

@@ -1,5 +1,6 @@
 var a27134 =
 [
-    [ "go_tele_to_dalaran_crystal", "d5/dd4/a27134.html#ab41268b7d568e8f189338f27cd90a62c", null ],
-    [ "OnGossipHello", "d5/dd4/a27134.html#a7f754a29249653ca7848494310ef1a8d", null ]
+    [ "go_pirate_day_musicAI", "dd/dab/a27138.html", "dd/dab/a27138" ],
+    [ "go_pirate_day_music", "d5/dd4/a27134.html#aa8d19102357639bd160eae9e90a87505", null ],
+    [ "GetAI", "d5/dd4/a27134.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
 ];

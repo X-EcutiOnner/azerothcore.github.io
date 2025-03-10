@@ -1,12 +1,6 @@
 var a13426 =
 [
-    [ "npc_sentinel_infiltrator", "d2/dbe/a13426.html#a40ce6808a4d0622eb88a669485335020", null ],
-    [ "Initialize", "d2/dbe/a13426.html#acc94269a3ede4c897f457a270e9a9c12", null ],
-    [ "JustEngagedWith", "d2/dbe/a13426.html#a2c9927468b92d00b60efac851eacfef1", null ],
-    [ "MovementInform", "d2/dbe/a13426.html#a57aef1c4ce7a491408c2c6b19d4d4cf2", null ],
-    [ "Reset", "d2/dbe/a13426.html#a0f26dbe23efdf572f81723dff1d3eeaf", null ],
-    [ "UpdateAI", "d2/dbe/a13426.html#ac676246948689c891c0f9cca7f8bc8b6", null ],
-    [ "_events", "d2/dbe/a13426.html#a296d6c70b6c439319cc69a9d39005e62", null ],
-    [ "_fleedForAssistance", "d2/dbe/a13426.html#a948c9d2081b33e18aa927fb18598c8ad", null ],
-    [ "_path", "d2/dbe/a13426.html#a32d531478df327ccb0bb85e262420813", null ]
+    [ "npc_balance_of_light_and_shadowAI", "df/d01/a13430.html", "df/d01/a13430" ],
+    [ "npc_balance_of_light_and_shadow", "d2/dbe/a13426.html#a55229e3ea8dd9c52972185b36c08908b", null ],
+    [ "GetAI", "d2/dbe/a13426.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
 ];

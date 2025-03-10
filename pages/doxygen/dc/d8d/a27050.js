@@ -1,6 +1,5 @@
 var a27050 =
 [
-    [ "go_flamesAI", "dc/d8d/a27050.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "dc/d8d/a27050.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "dc/d8d/a27050.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "go_noblegarden_colored_egg", "dc/d8d/a27050.html#a7e85d492a6c9f4e50a2c47d6e6dae535", null ],
+    [ "OnGossipHello", "dc/d8d/a27050.html#ab3d349dfa5b4c0f58ed70f80cd084029", null ]
 ];

@@ -1,6 +1,6 @@
 var a20666 =
 [
-    [ "boss_yoggsaron_crusher_tentacleAI", "dd/dab/a20670.html", "dd/dab/a20670" ],
-    [ "boss_yoggsaron_crusher_tentacle", "dd/ded/a20666.html#a9bb0c5535bf98e186d39f235f5786ff0", null ],
-    [ "GetAI", "dd/ded/a20666.html#a82b6a328197ec81223c1d00dabb79a66", null ]
+    [ "boss_yoggsaron_saraAI", "dd/dab/a20670.html", "dd/dab/a20670" ],
+    [ "boss_yoggsaron_sara", "dd/ded/a20666.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
+    [ "GetAI", "dd/ded/a20666.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
 ];

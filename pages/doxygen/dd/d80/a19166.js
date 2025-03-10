@@ -1,7 +1,7 @@
 var a19166 =
 [
-    [ "HandlePull", "dd/d80/a19166.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "dd/d80/a19166.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "dd/d80/a19166.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "dd/d80/a19166.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "EoEDrakeEnterVehicleEvent", "dd/d80/a19166.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
+    [ "Execute", "dd/d80/a19166.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
+    [ "_owner", "dd/d80/a19166.html#ab48302fdff800afddfeec2c0d756873c", null ],
+    [ "_playerGUID", "dd/d80/a19166.html#add56bff0695453e01f300e0434a39ec8", null ]
 ];

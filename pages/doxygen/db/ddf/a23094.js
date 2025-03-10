@@ -1,10 +1,9 @@
 var a23094 =
 [
-    [ "Spells", "db/ddf/a23094.html#a70ca1841fb1db54e6f76b96331e05cf1", [
-      [ "SPELL_GROW", "db/ddf/a23094.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
-      [ "SPELL_SPORE_CLOUD", "db/ddf/a23094.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
-    ] ],
-    [ "npc_rancid_mushroom", "db/ddf/a23094.html#a15896957b94de57de9eda5a199a05d4c", null ],
-    [ "InitializeAI", "db/ddf/a23094.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
-    [ "UpdateAI", "db/ddf/a23094.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
+    [ "CalcPeriodic", "db/ddf/a23094.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
+    [ "HandleEffectApply", "db/ddf/a23094.html#adb983cc531fa666648bbdb432684ff1d", null ],
+    [ "HandleEffectRemove", "db/ddf/a23094.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
+    [ "OnPeriodic", "db/ddf/a23094.html#aecefab535157dbe8e42aff3b23cd685b", null ],
+    [ "PrepareAuraScript", "db/ddf/a23094.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
+    [ "Register", "db/ddf/a23094.html#a3771abcc829883ba0cbae9587adbe751", null ]
 ];

@@ -1,6 +1,6 @@
 var a26170 =
 [
-    [ "CheckProc", "d6/dff/a26170.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
-    [ "PrepareAuraScript", "d6/dff/a26170.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
-    [ "Register", "d6/dff/a26170.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
+    [ "HandleScriptEffect", "d6/dff/a26170.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
+    [ "PrepareSpellScript", "d6/dff/a26170.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
+    [ "Register", "d6/dff/a26170.html#a12c61c9057250f12ea50be74ba74c948", null ]
 ];

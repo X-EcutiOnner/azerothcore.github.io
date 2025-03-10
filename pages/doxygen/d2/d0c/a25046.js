@@ -1,6 +1,7 @@
 var a25046 =
 [
-    [ "HandleScript", "d2/d0c/a25046.html#a1055ce8e5cbcc9d475bd9dab1f99cf92", null ],
-    [ "PrepareSpellScript", "d2/d0c/a25046.html#a460823e5ad006c08d5b6378b7df279f0", null ],
-    [ "Register", "d2/d0c/a25046.html#a7099938c5f14238b5afdadb6d040f931", null ]
+    [ "HandleApplyEffect", "d2/d0c/a25046.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
+    [ "Load", "d2/d0c/a25046.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
+    [ "PrepareAuraScript", "d2/d0c/a25046.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
+    [ "Register", "d2/d0c/a25046.html#aed57fbbf473b8f15fa177261e4678e96", null ]
 ];

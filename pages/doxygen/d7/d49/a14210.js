@@ -1,8 +1,9 @@
 var a14210 =
 [
-    [ "CalcPeriodic", "d7/d49/a14210.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
-    [ "HandleEffectApply", "d7/d49/a14210.html#a4321da69ee59416bd50e621b804e5423", null ],
-    [ "HandleEffectPeriodicUpdate", "d7/d49/a14210.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
-    [ "PrepareAuraScript", "d7/d49/a14210.html#a956136be8cb484efc9af2429d8779a03", null ],
-    [ "Register", "d7/d49/a14210.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
+    [ "entries", "d7/d49/a14210.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "d7/d49/a14210.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "d7/d49/a14210.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "d7/d49/a14210.html#ad849701425622001519334f352ea6f3e", null ],
+    [ "size", "d7/d49/a14210.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "d7/d49/a14210.html#aa081965795e3b9473be5b322b0c46505", null ]
 ];

@@ -1,6 +1,7 @@
 var a16614 =
 [
-    [ "boss_devourer_of_soulsAI", "df/d1a/a16618.html", "df/d1a/a16618" ],
-    [ "boss_devourer_of_souls", "d1/d36/a16614.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
-    [ "GetAI", "d1/d36/a16614.html#a3de68fa630c5b74104c461f88edd1d36", null ]
+    [ "HandleEffectRemove", "d1/d36/a16614.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "d1/d36/a16614.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "d1/d36/a16614.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "d1/d36/a16614.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

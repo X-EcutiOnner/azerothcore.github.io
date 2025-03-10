@@ -1,13 +1,6 @@
 var a18454 =
 [
-    [ "boss_sister_svalnaAI", "da/dec/a18454.html#a8ffe7c40e6de53455caa86e1487c1234", null ],
-    [ "DoAction", "da/dec/a18454.html#a43c5be9641399b1fec35ef9b34d4fa7b", null ],
-    [ "JustDied", "da/dec/a18454.html#ab397adda97c8b21e9a53edccdadb8760", null ],
-    [ "JustEngagedWith", "da/dec/a18454.html#af930733e0f143c7fd0f214043b7fa9ef", null ],
-    [ "KilledUnit", "da/dec/a18454.html#a95c259d62cd4aab4a0b8a38ba98feb7a", null ],
-    [ "MovementInform", "da/dec/a18454.html#a4f1da0ead975b554704f4a068b1edb1d", null ],
-    [ "Reset", "da/dec/a18454.html#a4ba1ac914a7ae5c3b229d648b8fac9ee", null ],
-    [ "SpellHit", "da/dec/a18454.html#a9b5533f2f3a985f42bac098cc08e4cd1", null ],
-    [ "SpellHitTarget", "da/dec/a18454.html#a5236b715548c9c1b310a3227f8bf2bc8", null ],
-    [ "UpdateAI", "da/dec/a18454.html#a87e4f558db85e2c1ec192d35bde1eb8a", null ]
+    [ "CaptainSurviveTalk", "da/dec/a18454.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "da/dec/a18454.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "da/dec/a18454.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

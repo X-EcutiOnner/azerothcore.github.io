@@ -1,7 +1,6 @@
 var a12866 =
 [
-    [ "npc_koltira_deathweaverAI", "d6/dbb/a12870.html", "d6/dbb/a12870" ],
-    [ "npc_koltira_deathweaver", "d2/dd3/a12866.html#a5e9fdbc8dc70ce3480906b86aed381a3", null ],
-    [ "GetAI", "d2/dd3/a12866.html#afddc561b88679f3dd6ca8b374807b0f0", null ],
-    [ "OnQuestAccept", "d2/dd3/a12866.html#a745d0d384c465b26716429df48885d02", null ]
+    [ "npc_scarlet_minerAI", "d6/dbb/a12870.html", "d6/dbb/a12870" ],
+    [ "npc_scarlet_miner", "d2/dd3/a12866.html#a8948afd8a41c23ab3afbda9949d9019d", null ],
+    [ "GetAI", "d2/dd3/a12866.html#abd2973972788ce9b39572aaa819d0690", null ]
 ];

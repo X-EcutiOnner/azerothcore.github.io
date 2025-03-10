@@ -1,6 +1,7 @@
 var a24790 =
 [
-    [ "HandleDummy", "da/dbb/a24790.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
-    [ "PrepareSpellScript", "da/dbb/a24790.html#af310c2b28ed816b9fbe494f81c42043c", null ],
-    [ "Register", "da/dbb/a24790.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
+    [ "HandleEffectRemove", "da/dbb/a24790.html#a3d6b6ae0bde8ae51362c95df82604d68", null ],
+    [ "PrepareAuraScript", "da/dbb/a24790.html#aa07b231cc76afb098ac8bc92eb050c80", null ],
+    [ "Register", "da/dbb/a24790.html#aa381143f36a6443dfb1f0d66ce81c351", null ],
+    [ "AuraEffectHandleModes", "da/dbb/a24790.html#a97370dd3f7c3e58a719090176c397386", null ]
 ];

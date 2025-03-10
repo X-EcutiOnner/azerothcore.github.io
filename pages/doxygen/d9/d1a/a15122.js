@@ -1,7 +1,7 @@
 var a15122 =
 [
-    [ "npc_rizzle_sprysprocketAI", "d7/de6/a15126.html", "d7/de6/a15126" ],
-    [ "npc_rizzle_sprysprocket", "d9/d1a/a15122.html#a3bd65f716b42200cc37d2264ddedf735", null ],
-    [ "GetAI", "d9/d1a/a15122.html#ae445545476b4046db305117fa635e7f5", null ],
-    [ "OnGossipHello", "d9/d1a/a15122.html#a3a42f3ffc35683b55de5bcc8d2b24647", null ]
+    [ "npc_anubisath_warder", "d9/d1a/a15122.html#aebe14673e5c31000a9626e39d87c6775", null ],
+    [ "JustEngagedWith", "d9/d1a/a15122.html#a579318fa519eb669573b2cea78c2fee3", null ],
+    [ "Reset", "d9/d1a/a15122.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
+    [ "UpdateAI", "d9/d1a/a15122.html#aba428f1f1a016191aa4f168c616c3a29", null ]
 ];

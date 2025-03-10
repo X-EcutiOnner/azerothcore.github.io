@@ -1,11 +1,6 @@
 var a13130 =
 [
-    [ "boss_alythess", "d9/d61/a13130.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
-    [ "DoAction", "d9/d61/a13130.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
-    [ "EnterEvadeMode", "d9/d61/a13130.html#a451ac5ac016d9739efda276865bc8c64", null ],
-    [ "JustDied", "d9/d61/a13130.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
-    [ "JustEngagedWith", "d9/d61/a13130.html#ac5047ee0124864304284c1142e885158", null ],
-    [ "KilledUnit", "d9/d61/a13130.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
-    [ "Reset", "d9/d61/a13130.html#ab5f990d305f42a2d00e182f617175672", null ],
-    [ "_isSisterDead", "d9/d61/a13130.html#a9f9fa0823685066b4990a17880782b9a", null ]
+    [ "HandleSendEvent", "d9/d61/a13130.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
+    [ "PrepareSpellScript", "d9/d61/a13130.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
+    [ "Register", "d9/d61/a13130.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
 ];

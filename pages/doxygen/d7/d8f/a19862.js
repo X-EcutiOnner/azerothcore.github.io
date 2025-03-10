@@ -1,6 +1,7 @@
 var a19862 =
 [
-    [ "boss_freyaAI", "d8/d4f/a19866.html", "d8/d4f/a19866" ],
-    [ "boss_freya", "d7/d8f/a19862.html#ae366f60526e7c948dee148cdd12f0752", null ],
-    [ "GetAI", "d7/d8f/a19862.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
+    [ "HandleScript", "d7/d8f/a19862.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "d7/d8f/a19862.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "d7/d8f/a19862.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "d7/d8f/a19862.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

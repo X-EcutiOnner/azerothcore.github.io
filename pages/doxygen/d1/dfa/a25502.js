@@ -1,8 +1,6 @@
 var a25502 =
 [
-    [ "HandleProc", "d1/dfa/a25502.html#ad92c7804b26bd29d135e55c8adad9093", null ],
-    [ "OnRemove", "d1/dfa/a25502.html#afa8e065ed835243f3ebb95c10792adf8", null ],
-    [ "PrepareAuraScript", "d1/dfa/a25502.html#a5e986f77b23fd0402089ea36f0360c79", null ],
-    [ "Register", "d1/dfa/a25502.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
-    [ "Validate", "d1/dfa/a25502.html#a51f81afec6ff0918530208d9de9dae24", null ]
+    [ "HandlePeriodicTick", "d1/dfa/a25502.html#a058eeb1e0489340763a58d92d4bed832", null ],
+    [ "PrepareAuraScript", "d1/dfa/a25502.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
+    [ "Register", "d1/dfa/a25502.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
 ];

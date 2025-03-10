@@ -1,10 +1,7 @@
 var a15070 =
 [
-    [ "npc_anubisath_defender", "d2/dc3/a15070.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
-    [ "DamageTaken", "d2/dc3/a15070.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
-    [ "JustDied", "d2/dc3/a15070.html#a225ca1b3144953bcc5890caf0d32b606", null ],
-    [ "JustEngagedWith", "d2/dc3/a15070.html#a6505fcae0e99cae44750f16daddc3309", null ],
-    [ "Reset", "d2/dc3/a15070.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
-    [ "UpdateAI", "d2/dc3/a15070.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
-    [ "_enraged", "d2/dc3/a15070.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
+    [ "boss_glob_of_viscidus", "d2/dc3/a15070.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "d2/dc3/a15070.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "d2/dc3/a15070.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "d2/dc3/a15070.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

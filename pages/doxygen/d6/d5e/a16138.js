@@ -1,6 +1,6 @@
 var a16138 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "d8/dac/a16142.html", "d8/dac/a16142" ],
-    [ "instance_trial_of_the_champion", "d6/d5e/a16138.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "d6/d5e/a16138.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d8/dac/a16142.html", "d8/dac/a16142" ],
+    [ "npc_black_knight_skeletal_gryphon", "d6/d5e/a16138.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
+    [ "GetAI", "d6/d5e/a16138.html#aad244f95877a208b56a2b6544984d724", null ]
 ];

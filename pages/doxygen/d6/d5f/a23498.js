@@ -1,8 +1,5 @@
 var a23498 =
 [
-    [ "FilterTargets", "d6/d5f/a23498.html#ae366594b668331a19f384ceb48654c0c", null ],
-    [ "HandleOnHit", "d6/d5f/a23498.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
-    [ "PrepareSpellScript", "d6/d5f/a23498.html#a71aa4018d293391a73d3317c1e80951d", null ],
-    [ "Register", "d6/d5f/a23498.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
-    [ "Validate", "d6/d5f/a23498.html#a3747ad271dc659436ae7a8203b964554", null ]
+    [ "spellId", "d6/d5f/a23498.html#acc63d01d5095adef28b9746c520be973", null ],
+    [ "textId", "d6/d5f/a23498.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
 ];

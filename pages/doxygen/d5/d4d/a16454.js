@@ -1,7 +1,6 @@
 var a16454 =
 [
-    [ "HandleAfterEffectAbsorb", "d5/d4d/a16454.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "d5/d4d/a16454.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "d5/d4d/a16454.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "d5/d4d/a16454.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "boss_icehowlAI", "d5/d84/a16458.html", "d5/d84/a16458" ],
+    [ "boss_icehowl", "d5/d4d/a16454.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
+    [ "GetAI", "d5/d4d/a16454.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
 ];

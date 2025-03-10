@@ -1,6 +1,6 @@
 var a25810 =
 [
-    [ "HandleDummy", "dc/d42/a25810.html#a4fde3142b38989cb37db76da6eada03c", null ],
-    [ "PrepareSpellScript", "dc/d42/a25810.html#aa694a1a7cbbe0f20226d7e616e19cefb", null ],
-    [ "Register", "dc/d42/a25810.html#a1f83fae2fb3dc0904ed56101e1254f5f", null ]
+    [ "OnPeriodic", "dc/d42/a25810.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
+    [ "PrepareAuraScript", "dc/d42/a25810.html#ad3d091510685ebc2d87aadb658cacf58", null ],
+    [ "Register", "dc/d42/a25810.html#a9552ba0f4c18623b6b00ababa034942c", null ]
 ];

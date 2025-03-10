@@ -1,5 +1,9 @@
 var a20606 =
 [
-    [ "achievement_xt002_nerf_engineering", "d8/dbf/a20606.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "d8/dbf/a20606.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "npc_xt002_pummellerAI", "d8/dbf/a20606.html#a2942c05c93036c2e02b9a72c784441b1", null ],
+    [ "Reset", "d8/dbf/a20606.html#a6542fb3e585f100f06f6be14a1346306", null ],
+    [ "UpdateAI", "d8/dbf/a20606.html#a959990310303ff2102f1c03852b4ab8e", null ],
+    [ "_arcingSmashTimer", "d8/dbf/a20606.html#a830fda66756dc3f34a530939116e7556", null ],
+    [ "_trampleTimer", "d8/dbf/a20606.html#ae5e450601861f83b20419405bb92ef6d", null ],
+    [ "_uppercutTimer", "d8/dbf/a20606.html#a5a1bdb380438070effc091ec37db6aec", null ]
 ];

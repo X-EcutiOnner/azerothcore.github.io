@@ -1,26 +1,44 @@
 var a01061 =
 [
-    [ "AzjolNerubScriptName", "de/d9e/a01061.html#a49c3c3627ce229fce6b1f55755bcb7d7", null ],
-    [ "DataHeader", "de/d9e/a01061.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ANData", "de/d9e/a01061.html#a38e14ca59c29a20c7d83feecae87365e", [
-      [ "DATA_KRIKTHIR_THE_GATEWATCHER_EVENT", "de/d9e/a01061.html#a38e14ca59c29a20c7d83feecae87365eafe7f087c1e8262a80b7f072fba6ae671", null ],
-      [ "DATA_HADRONOX_EVENT", "de/d9e/a01061.html#a38e14ca59c29a20c7d83feecae87365eae18e711c44710c678c33ec4816ecbcdf", null ],
-      [ "DATA_ANUBARAK_EVENT", "de/d9e/a01061.html#a38e14ca59c29a20c7d83feecae87365ea64e72a1a7491f71dc45c3ee0e6aba1a3", null ],
-      [ "MAX_ENCOUNTERS", "de/d9e/a01061.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25", null ]
+    [ "WorldSession::DosProtection", "df/d17/a10978.html", "df/d17/a10978" ],
+    [ "GLOBAL_CACHE_MASK", "d1/d86/a04746.html#gabaf56bd86a496e0886a553118d6ffb08", null ],
+    [ "NUM_ACCOUNT_DATA_TYPES", "d1/d86/a04746.html#gafb353aeb5e84007c9b55aa50ba6e3ddc", null ],
+    [ "PER_CHARACTER_CACHE_MASK", "d1/d86/a04746.html#ga38a03c6cd9103a9891842f233758fbe7", null ],
+    [ "AccountDataType", "d1/d86/a04746.html#gadab21b8c7fecf26675a55eea7811812d", [
+      [ "GLOBAL_CONFIG_CACHE", "d1/d86/a04746.html#ggadab21b8c7fecf26675a55eea7811812daada79ad8567ef8c1839bb4aa1388f59c", null ],
+      [ "PER_CHARACTER_CONFIG_CACHE", "d1/d86/a04746.html#ggadab21b8c7fecf26675a55eea7811812da3199deafd9678b717f9357659ed271b0", null ],
+      [ "GLOBAL_BINDINGS_CACHE", "d1/d86/a04746.html#ggadab21b8c7fecf26675a55eea7811812da580bf2ae915070c0cb1dfa2a2c470936", null ],
+      [ "PER_CHARACTER_BINDINGS_CACHE", "d1/d86/a04746.html#ggadab21b8c7fecf26675a55eea7811812daaa2164f22e7a6cd3e9211bdd39c1c4e6", null ],
+      [ "GLOBAL_MACROS_CACHE", "d1/d86/a04746.html#ggadab21b8c7fecf26675a55eea7811812da2bffb16258c4258924334e7231928217", null ],
+      [ "PER_CHARACTER_MACROS_CACHE", "d1/d86/a04746.html#ggadab21b8c7fecf26675a55eea7811812da0d53cc3dcb154b042fe7a1b81404752c", null ],
+      [ "PER_CHARACTER_LAYOUT_CACHE", "d1/d86/a04746.html#ggadab21b8c7fecf26675a55eea7811812da8db107b5c382a0630b177b9f521dd87c", null ],
+      [ "PER_CHARACTER_CHAT_CACHE", "d1/d86/a04746.html#ggadab21b8c7fecf26675a55eea7811812da5dbeffe8a7f8c60877f3f41a4e813327", null ]
     ] ],
-    [ "ANIds", "de/d9e/a01061.html#a13c2be6ee4ddd01bcdde2acfa66080eb", [
-      [ "NPC_SKITTERING_SWARMER", "de/d9e/a01061.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429", null ],
-      [ "NPC_SKITTERING_INFECTIOR", "de/d9e/a01061.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b", null ],
-      [ "NPC_KRIKTHIR_THE_GATEWATCHER", "de/d9e/a01061.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582", null ],
-      [ "NPC_HADRONOX", "de/d9e/a01061.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a", null ],
-      [ "NPC_ANUB_AR_CHAMPION", "de/d9e/a01061.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc", null ],
-      [ "NPC_ANUB_AR_NECROMANCER", "de/d9e/a01061.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea", null ],
-      [ "NPC_ANUB_AR_CRYPTFIEND", "de/d9e/a01061.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c", null ],
-      [ "GO_KRIKTHIR_DOORS", "de/d9e/a01061.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b", null ],
-      [ "GO_ANUBARAK_DOORS1", "de/d9e/a01061.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316", null ],
-      [ "GO_ANUBARAK_DOORS2", "de/d9e/a01061.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc", null ],
-      [ "GO_ANUBARAK_DOORS3", "de/d9e/a01061.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0", null ],
-      [ "SPELL_WEB_WRAP_TRIGGER", "de/d9e/a01061.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b", null ]
+    [ "BFLeaveReason", "d1/d86/a04746.html#gae00b3f15198199be79029b7f245cba4e", [
+      [ "BF_LEAVE_REASON_CLOSE", "d1/d86/a04746.html#ggae00b3f15198199be79029b7f245cba4eaa804834f71e74d728992a144bc3a4bf7", null ],
+      [ "BF_LEAVE_REASON_EXITED", "d1/d86/a04746.html#ggae00b3f15198199be79029b7f245cba4eac58152c3c20952288b738bbcd94b6e04", null ],
+      [ "BF_LEAVE_REASON_LOW_LEVEL", "d1/d86/a04746.html#ggae00b3f15198199be79029b7f245cba4ea409833e268b63d87c8329740d22f8d6d", null ]
     ] ],
-    [ "GetAzjolNerubAI", "de/d9e/a01061.html#a19b3f42ba299e1f42de805f494cd5812", null ]
+    [ "CharterTypes", "d1/d86/a04746.html#gae6a6780680157e01b09a257d84b150c7", [
+      [ "GUILD_CHARTER_TYPE", "d1/d86/a04746.html#ggae6a6780680157e01b09a257d84b150c7abc99a46e1b6360a30376c4500292e27c", null ],
+      [ "ARENA_TEAM_CHARTER_2v2_TYPE", "d1/d86/a04746.html#ggae6a6780680157e01b09a257d84b150c7a917d335b0e9d21fec525d5daed0c1356", null ],
+      [ "ARENA_TEAM_CHARTER_3v3_TYPE", "d1/d86/a04746.html#ggae6a6780680157e01b09a257d84b150c7aed12afbbdd721e734868da792db28482", null ],
+      [ "ARENA_TEAM_CHARTER_5v5_TYPE", "d1/d86/a04746.html#ggae6a6780680157e01b09a257d84b150c7afa2e8ef459ee0af6eea7b2be7ce30841", null ]
+    ] ],
+    [ "ChatRestrictionType", "d1/d86/a04746.html#ga54cc6595f95ac4f430e8540afc94f13d", [
+      [ "ERR_CHAT_RESTRICTED", "d1/d86/a04746.html#gga54cc6595f95ac4f430e8540afc94f13da86e568474f13bb72e15b8e92a270b1c9", null ],
+      [ "ERR_CHAT_THROTTLED", "d1/d86/a04746.html#gga54cc6595f95ac4f430e8540afc94f13da34a062f33bdc742a4c6be1f28ef613e7", null ],
+      [ "ERR_USER_SQUELCHED", "d1/d86/a04746.html#gga54cc6595f95ac4f430e8540afc94f13da9bbb4686187f6e5c88606f90f22b18c8", null ],
+      [ "ERR_YELL_RESTRICTED", "d1/d86/a04746.html#gga54cc6595f95ac4f430e8540afc94f13da584e0c0e91185b9f8d415b89e5cbacd7", null ]
+    ] ],
+    [ "DeclinedNameResult", "d1/d86/a04746.html#ga98490641bb011ba9187ee1ed5c94b406", [
+      [ "DECLINED_NAMES_RESULT_SUCCESS", "d1/d86/a04746.html#gga98490641bb011ba9187ee1ed5c94b406add610d06699db29b6f69db8b69d87267", null ],
+      [ "DECLINED_NAMES_RESULT_ERROR", "d1/d86/a04746.html#gga98490641bb011ba9187ee1ed5c94b406ae7ea9b45868387cbcd0f7aff13476683", null ]
+    ] ],
+    [ "PartyOperation", "d1/d86/a04746.html#gaa4a0361b2172789575d5eac42ecb612a", [
+      [ "PARTY_OP_INVITE", "d1/d86/a04746.html#ggaa4a0361b2172789575d5eac42ecb612aa8b30d82ca0b8d909d0445472f4003036", null ],
+      [ "PARTY_OP_UNINVITE", "d1/d86/a04746.html#ggaa4a0361b2172789575d5eac42ecb612aaea450b61d9aa99430d227f2bc20ba66e", null ],
+      [ "PARTY_OP_LEAVE", "d1/d86/a04746.html#ggaa4a0361b2172789575d5eac42ecb612aaf8c14598abfe7de9431f923cce924457", null ],
+      [ "PARTY_OP_SWAP", "d1/d86/a04746.html#ggaa4a0361b2172789575d5eac42ecb612aac2c1d8e8f575d57bed2ae682d80c1a14", null ]
+    ] ]
 ];

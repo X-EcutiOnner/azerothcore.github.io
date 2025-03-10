@@ -1,12 +1,10 @@
 var a08950 =
 [
-    [ "IsTeamAward1", "de/d45/a08950.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
-    [ "IsTeamAward2", "de/d45/a08950.html#a053bd7825d0464ac322b449f3d243722", null ],
-    [ "RepFaction1", "de/d45/a08950.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
-    [ "RepFaction2", "de/d45/a08950.html#a5934590811c666d06b68216428574d8a", null ],
-    [ "ReputationMaxCap1", "de/d45/a08950.html#a292b78f629723c3993a796eb256dd9b8", null ],
-    [ "ReputationMaxCap2", "de/d45/a08950.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
-    [ "RepValue1", "de/d45/a08950.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
-    [ "RepValue2", "de/d45/a08950.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
-    [ "TeamDependent", "de/d45/a08950.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
+    [ "PetLevelInfo", "de/d45/a08950.html#ad8e757abeae500063e963ffef5469809", null ],
+    [ "armor", "de/d45/a08950.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
+    [ "health", "de/d45/a08950.html#a322dcab3af8f98726aa6addf38e8891b", null ],
+    [ "mana", "de/d45/a08950.html#a27352e73d6ed3945e398e0634dee1e96", null ],
+    [ "max_dmg", "de/d45/a08950.html#a092f2600f64f2af885142b2e96d1fe64", null ],
+    [ "min_dmg", "de/d45/a08950.html#a299d1c7f4c28893e09de79cd816afa95", null ],
+    [ "stats", "de/d45/a08950.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
 ];

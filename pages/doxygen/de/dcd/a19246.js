@@ -1,10 +1,6 @@
 var a19246 =
 [
-    [ "npc_oculus_drakegiverAI", "de/dcd/a19246.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "de/dcd/a19246.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "de/dcd/a19246.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "de/dcd/a19246.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "de/dcd/a19246.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "de/dcd/a19246.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "de/dcd/a19246.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "npc_oculus_unstable_sphereAI", "d0/d4e/a19250.html", "d0/d4e/a19250" ],
+    [ "npc_oculus_unstable_sphere", "de/dcd/a19246.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
+    [ "GetAI", "de/dcd/a19246.html#adda2a9e7eab03444742e85729673ab2f", null ]
 ];

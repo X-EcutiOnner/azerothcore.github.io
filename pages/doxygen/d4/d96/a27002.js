@@ -1,5 +1,9 @@
 var a27002 =
 [
-    [ "go_noblegarden_colored_egg", "d4/d96/a27002.html#a7e85d492a6c9f4e50a2c47d6e6dae535", null ],
-    [ "OnGossipHello", "d4/d96/a27002.html#ab3d349dfa5b4c0f58ed70f80cd084029", null ]
+    [ "boss_lethonAI", "d4/d96/a27002.html#ac5d53a746f5286776b2e510f1de86790", null ],
+    [ "DamageTaken", "d4/d96/a27002.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
+    [ "JustEngagedWith", "d4/d96/a27002.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
+    [ "Reset", "d4/d96/a27002.html#a0e53d139f64d104557e157a91176a47a", null ],
+    [ "SpellHitTarget", "d4/d96/a27002.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
+    [ "_stage", "d4/d96/a27002.html#aa267296ee60efc7d39a20dc05afec081", null ]
 ];

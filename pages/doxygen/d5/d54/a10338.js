@@ -1,17 +1,10 @@
 var a10338 =
 [
-    [ "WorldScript", "d5/d54/a10338.html#a89b4180130e22738c2898562de6b9145", null ],
-    [ "OnAfterConfigLoad", "d5/d54/a10338.html#affadabcae325631b2683ef458c6d13ee", null ],
-    [ "OnAfterUnloadAllMaps", "d5/d54/a10338.html#a15bc203d07dd2fef96c2a6d13d3ddd44", null ],
-    [ "OnBeforeConfigLoad", "d5/d54/a10338.html#a78baa1285b6495d7beace131dfba8400", null ],
-    [ "OnBeforeFinalizePlayerWorldSession", "d5/d54/a10338.html#a480e411f6178e5128bc5e760d9f36d99", null ],
-    [ "OnBeforeWorldInitialized", "d5/d54/a10338.html#a8ec0a2cc97986db07698392e5c503571", null ],
-    [ "OnLoadCustomDatabaseTable", "d5/d54/a10338.html#af9c5296102d7ef0f716796788650ec4d", null ],
-    [ "OnMotdChange", "d5/d54/a10338.html#a3a72e488dd36a672d7aaa0b59fffe154", null ],
-    [ "OnOpenStateChange", "d5/d54/a10338.html#a7eab4282e8be8ef2a643478f9fe6e0e2", null ],
-    [ "OnShutdown", "d5/d54/a10338.html#a3578707d9be5da90530633a93b4b2bf8", null ],
-    [ "OnShutdownCancel", "d5/d54/a10338.html#a322bd84359ac77369d9aa84bc8bf9649", null ],
-    [ "OnShutdownInitiate", "d5/d54/a10338.html#a83c76efd3de10b0a35c4a311c44d13c1", null ],
-    [ "OnStartup", "d5/d54/a10338.html#a117234aac087ec653c83cfe01a6dce7a", null ],
-    [ "OnUpdate", "d5/d54/a10338.html#ad28857965a9f6f993a47c95af6d9c5ad", null ]
+    [ "ArgsType", "d5/d54/a10338.html#a4ea4d3b165a196482ebe96af9c462658", null ],
+    [ "AuraScriptType", "d5/d54/a10338.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
+    [ "SpellScriptType", "d5/d54/a10338.html#a790a8ef2b59bfe6298486648858506ed", null ],
+    [ "GenericSpellAndAuraScriptLoader", "d5/d54/a10338.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
+    [ "GetAuraScript", "d5/d54/a10338.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
+    [ "GetSpellScript", "d5/d54/a10338.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
+    [ "_args", "d5/d54/a10338.html#aad6527f64ede0d896880ffa90d05a378", null ]
 ];

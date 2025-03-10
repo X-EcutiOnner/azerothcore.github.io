@@ -1,6 +1,11 @@
 var a26450 =
 [
-    [ "HandleAfterCast", "de/df8/a26450.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "de/df8/a26450.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "de/df8/a26450.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "AddTarget", "de/df8/a26450.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "de/df8/a26450.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "de/df8/a26450.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "de/df8/a26450.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "de/df8/a26450.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "de/df8/a26450.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "de/df8/a26450.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "de/df8/a26450.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

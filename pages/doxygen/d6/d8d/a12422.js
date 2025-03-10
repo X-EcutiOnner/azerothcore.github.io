@@ -1,6 +1,6 @@
 var a12422 =
 [
-    [ "instance_molten_core_InstanceMapScript", "d7/d02/a12426.html", "d7/d02/a12426" ],
-    [ "instance_molten_core", "d6/d8d/a12422.html#ad83dac834feb2fcae872dfe09b833950", null ],
-    [ "GetInstanceScript", "d6/d8d/a12422.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
+    [ "boss_shazzrahAI", "d7/d02/a12426.html", "d7/d02/a12426" ],
+    [ "boss_shazzrah", "d6/d8d/a12422.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
+    [ "GetAI", "d6/d8d/a12422.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
 ];

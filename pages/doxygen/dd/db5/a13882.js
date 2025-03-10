@@ -1,5 +1,9 @@
 var a13882 =
 [
-    [ "npc_brain_wash_totem", "dd/db5/a13882.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
-    [ "EnterEvadeMode", "dd/db5/a13882.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
+    [ "boss_hazzarah", "dd/db5/a13882.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "dd/db5/a13882.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "dd/db5/a13882.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "dd/db5/a13882.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "dd/db5/a13882.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "dd/db5/a13882.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

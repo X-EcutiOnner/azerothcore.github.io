@@ -1,7 +1,7 @@
 var a14862 =
 [
-    [ "boss_rajaxx", "d0/d77/a14862.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "d0/d77/a14862.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "d0/d77/a14862.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "d0/d77/a14862.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "go_sand_trap", "d0/d77/a14862.html#a58d45acac672cb05988ddca78185b469", null ],
+    [ "Reset", "d0/d77/a14862.html#a7071a3e420e9137ca133b471bc217bf3", null ],
+    [ "UpdateAI", "d0/d77/a14862.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
+    [ "_scheduler", "d0/d77/a14862.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
 ];

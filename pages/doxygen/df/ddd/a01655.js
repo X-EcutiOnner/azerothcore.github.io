@@ -1,4 +1,4 @@
 var a01655 =
 [
-    [ "ScriptRegistry< MailScript >", "df/ddd/a01655.html#a2c63e917d984cb7f72bcae15da56850c", null ]
+    [ "ScriptRegistry< AllGameObjectScript >", "df/ddd/a01655.html#a60896f2f8318a9eeba3e23357a17292f", null ]
 ];

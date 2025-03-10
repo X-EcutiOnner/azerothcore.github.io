@@ -1,5 +1,5 @@
 var a02585 =
 [
-    [ "account_commandscript", "dc/d64/a11504.html", "dc/d64/a11504" ],
-    [ "AddSC_account_commandscript", "d0/dea/a02585.html#a8c18eb17be05fd3da5e9cfa3480c52c4", null ]
+    [ "spectator_commandscript", "df/d44/a11706.html", "df/d44/a11706" ],
+    [ "AddSC_spectator_commandscript", "d0/dea/a02585.html#a223cb7b19bd79c486919c41509ea6ddf", null ]
 ];

@@ -1,7 +1,6 @@
 var a19270 =
 [
-    [ "HandleProc", "da/da3/a19270.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "da/da3/a19270.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "da/da3/a19270.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "da/da3/a19270.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "boss_varosAI", "da/db4/a19274.html", "da/db4/a19274" ],
+    [ "boss_varos", "da/da3/a19270.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
+    [ "GetAI", "da/da3/a19270.html#a36733c4eb6179e43d61a1c37480666ea", null ]
 ];

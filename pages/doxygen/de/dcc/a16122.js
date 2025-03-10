@@ -1,6 +1,6 @@
 var a16122 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "d1/d57/a16126.html", "d1/d57/a16126" ],
-    [ "npc_toc5_grand_champion_minion", "de/dcc/a16122.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
-    [ "GetAI", "de/dcc/a16122.html#a55acf397b94ba63b1db626dc1041b28e", null ]
+    [ "FilterTargets", "de/dcc/a16122.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
+    [ "PrepareSpellScript", "de/dcc/a16122.html#a697a52cbc50eafd2b0377621afb01557", null ],
+    [ "Register", "de/dcc/a16122.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
 ];

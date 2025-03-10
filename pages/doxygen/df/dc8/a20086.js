@@ -1,6 +1,6 @@
 var a20086 =
 [
-    [ "FilterTargets", "df/dc8/a20086.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "df/dc8/a20086.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "df/dc8/a20086.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "npc_ulduar_hodir_druidAI", "da/d77/a20090.html", "da/d77/a20090" ],
+    [ "npc_ulduar_hodir_druid", "df/dc8/a20086.html#a07809d61d55756a847467043b0e90989", null ],
+    [ "GetAI", "df/dc8/a20086.html#a4b0503e20bf8caddf0ea544a88124263", null ]
 ];

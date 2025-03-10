@@ -1,12 +1,9 @@
 var a13902 =
 [
-    [ "npc_chained_spirit", "d4/d99/a13902.html#a5f407e700a2086f971bed0e8c0def0db", null ],
-    [ "DoAction", "d4/d99/a13902.html#a7205ef13ca0d164a9222c049bc582254", null ],
-    [ "JustDied", "d4/d99/a13902.html#a3b405503231173e7ff7aa52e34f63da5", null ],
-    [ "MovementInform", "d4/d99/a13902.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
-    [ "Reset", "d4/d99/a13902.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
-    [ "SetGUID", "d4/d99/a13902.html#acbe42c0692e8c1d671f2745ff8c2f9bb", null ],
-    [ "UpdateAI", "d4/d99/a13902.html#a38d14b69c71bf2902a916028580fbfad", null ],
-    [ "instance", "d4/d99/a13902.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
-    [ "revivePlayerGUID", "d4/d99/a13902.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
+    [ "boss_jindo", "d4/d99/a13902.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
+    [ "EnterEvadeMode", "d4/d99/a13902.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
+    [ "JustEngagedWith", "d4/d99/a13902.html#a7f612a1e5033c5097856222cee41f2af", null ],
+    [ "JustSummoned", "d4/d99/a13902.html#ac7382289d174ec70703b76dc4e451d39", null ],
+    [ "UpdateAI", "d4/d99/a13902.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
+    [ "_scheduler", "d4/d99/a13902.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
 ];

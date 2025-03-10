@@ -1,6 +1,9 @@
 var a24114 =
 [
-    [ "PrepareSpellScript", "d3/d03/a24114.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "d3/d03/a24114.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "d3/d03/a24114.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "npc_enraged_spiritAI", "d3/d03/a24114.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
+    [ "JustDied", "d3/d03/a24114.html#a9322622f679dbc311bd8983f5037bd2e", null ],
+    [ "JustEngagedWith", "d3/d03/a24114.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
+    [ "Reset", "d3/d03/a24114.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
+    [ "UpdateAI", "d3/d03/a24114.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
+    [ "_scheduler", "d3/d03/a24114.html#afa6825696b0622849f877b392df4b326", null ]
 ];

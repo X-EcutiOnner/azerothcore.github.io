@@ -1,8 +1,6 @@
 var a22142 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "d8/d2b/a22142.html#a30794392a32b1323fb0a86615b341741", null ],
-    [ "PassengerBoarded", "d8/d2b/a22142.html#acb699d519bf79702a34b7d9910fe7c9e", null ],
-    [ "UpdateAI", "d8/d2b/a22142.html#afd2168f8dc7328898f5e769c31c6da5a", null ],
-    [ "_accessoryRespawnTimer", "d8/d2b/a22142.html#a4c6b4236bf35278d05c4b78f1eda6b75", null ],
-    [ "_vehicleKit", "d8/d2b/a22142.html#aba68a138ef44af7d012c8c7dd4c06c6d", null ]
+    [ "npc_wild_wyrmAI", "da/d7b/a22146.html", "da/d7b/a22146" ],
+    [ "npc_wild_wyrm", "d8/d2b/a22142.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
+    [ "GetAI", "d8/d2b/a22142.html#aedba91446fe12997047070f123d925d2", null ]
 ];

@@ -1,6 +1,6 @@
 var a24354 =
 [
-    [ "PrepareSpellScript", "dd/df2/a24354.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
-    [ "RecalculateDamage", "dd/df2/a24354.html#ab6a781160532d7cbb3bb3304eb412514", null ],
-    [ "Register", "dd/df2/a24354.html#a82395d00066e90abc58103b18a5ef4dc", null ]
+    [ "HandleEffectRemove", "dd/df2/a24354.html#a9472b79a272aff36be657b66883d822f", null ],
+    [ "PrepareAuraScript", "dd/df2/a24354.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
+    [ "Register", "dd/df2/a24354.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
 ];

@@ -1,6 +1,7 @@
 var a13918 =
 [
-    [ "LaunchHit", "d2/d8d/a13918.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
-    [ "PrepareSpellScript", "d2/d8d/a13918.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
-    [ "Register", "d2/d8d/a13918.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
+    [ "HandleOnHit", "d2/d8d/a13918.html#a561799e6241b1fe17cd09f17c447107b", null ],
+    [ "PrepareSpellScript", "d2/d8d/a13918.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
+    [ "Register", "d2/d8d/a13918.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
+    [ "Validate", "d2/d8d/a13918.html#adb339686c5e9dcb298712455dc8435bf", null ]
 ];

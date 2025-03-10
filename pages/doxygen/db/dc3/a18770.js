@@ -1,7 +1,6 @@
 var a18770 =
 [
-    [ "OnRemove", "db/dc3/a18770.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "db/dc3/a18770.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "db/dc3/a18770.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "db/dc3/a18770.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "instance_icecrown_citadel_InstanceMapScript", "d9/db8/a18774.html", "d9/db8/a18774" ],
+    [ "instance_icecrown_citadel", "db/dc3/a18770.html#a0901e23025cff08d1a7516bbef099ffa", null ],
+    [ "GetInstanceScript", "db/dc3/a18770.html#a787c32626681f15f5515385a9ba6b848", null ]
 ];

@@ -1,6 +1,7 @@
 var a26718 =
 [
-    [ "PrepareSpellScript", "d9/d25/a26718.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "d9/d25/a26718.html#a81bc86c83ffc70602410912870e61700", null ],
-    [ "VictoryRushHit", "d9/d25/a26718.html#a89387a25e67af1d47ef7f5b95344ccb0", null ]
+    [ "HandleRemove", "d9/d25/a26718.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
+    [ "PrepareAuraScript", "d9/d25/a26718.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
+    [ "Register", "d9/d25/a26718.html#a338ee9c0eddd309ce2a791160059bad6", null ],
+    [ "Validate", "d9/d25/a26718.html#ae8272b65a070fc959af003f701567c3c", null ]
 ];

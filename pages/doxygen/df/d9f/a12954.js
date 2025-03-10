@@ -1,6 +1,6 @@
 var a12954 =
 [
-    [ "boss_kirtonos_the_heraldAI", "dd/d57/a12958.html", "dd/d57/a12958" ],
-    [ "boss_kirtonos_the_herald", "df/d9f/a12954.html#a0e81153a0da7910cda4c9b6d32544318", null ],
-    [ "GetAI", "df/d9f/a12954.html#aa5e0fe2386aae52fd53ff309282db652", null ]
+    [ "npc_valkyr_battle_maidenAI", "dd/d57/a12958.html", "dd/d57/a12958" ],
+    [ "npc_valkyr_battle_maiden", "df/d9f/a12954.html#a4316dd483b262e637ea39ba9e972744b", null ],
+    [ "GetAI", "df/d9f/a12954.html#ab067ea6f5f92039d471708039089e79c", null ]
 ];

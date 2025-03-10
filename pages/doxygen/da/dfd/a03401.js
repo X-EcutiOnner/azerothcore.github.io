@@ -1,11 +1,18 @@
 var a03401 =
 [
-    [ "instance_magisters_terrace", "d7/dd7/a12764.html", "d7/dd7/a12764" ],
-    [ "instance_magisters_terrace::instance_magisters_terrace_InstanceMapScript", "df/d0f/a12768.html", "df/d0f/a12768" ],
-    [ "AddSC_instance_magisters_terrace", "da/dfd/a03401.html#a39e3bff767d59081afebb72eeb3a1646", null ],
-    [ "creatureData", "da/dfd/a03401.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "da/dfd/a03401.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameobjectData", "da/dfd/a03401.html#a845a92716bd40c99a93eb0715cd737b0", null ],
-    [ "KalecgosSpawnPos", "da/dfd/a03401.html#a6fd9df921f79258a02d22baaf7a1caca", null ],
-    [ "summonerData", "da/dfd/a03401.html#acefca1a118e299acbb631fc6166a1526", null ]
+    [ "npc_maredis_firestar", "de/d6f/a13402.html", "de/d6f/a13402" ],
+    [ "npc_maredis_firestar::npc_maredis_firestarAI", "d3/d83/a13406.html", "d3/d83/a13406" ],
+    [ "MaredisFirestar", "da/dfd/a03401.html#a85e4eeb368c070d1186f1c7c07ab1a42", [
+      [ "ITEM_LIBRAM_OF_RUMINATION", "da/dfd/a03401.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e", null ],
+      [ "ITEM_LIBRAM_OF_CONSTITUTION", "da/dfd/a03401.html#a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277", null ],
+      [ "ITEM_LIBRAM_OF_TENACITY", "da/dfd/a03401.html#a85e4eeb368c070d1186f1c7c07ab1a42acee05c856cffac557e6f7f8b4b32f173", null ],
+      [ "ITEM_LIBRAM_OF_RESILIENCE", "da/dfd/a03401.html#a85e4eeb368c070d1186f1c7c07ab1a42a1dc0b7882355b2615ad112a6ffb2d5eb", null ],
+      [ "ITEM_LIBRAM_OF_VORACITY", "da/dfd/a03401.html#a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f", null ],
+      [ "GOSSIP_LIBRAM_OF_RUMINATION", "da/dfd/a03401.html#a85e4eeb368c070d1186f1c7c07ab1a42a25fa31f89537239dc264cdc4afa11c44", null ],
+      [ "GOSSIP_LIBRAM_OF_CONSTITUTION", "da/dfd/a03401.html#a85e4eeb368c070d1186f1c7c07ab1a42ab11fb925c43c8e71171b5468f9bfbb41", null ],
+      [ "GOSSIP_LIBRAM_OF_TENACITY", "da/dfd/a03401.html#a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e", null ],
+      [ "GOSSIP_LIBRAM_OF_RESILIENCE", "da/dfd/a03401.html#a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde", null ],
+      [ "GOSSIP_LIBRAM_OF_VORACITY", "da/dfd/a03401.html#a85e4eeb368c070d1186f1c7c07ab1a42a2bc47c8c26124b40bfcf34e4fc21d733", null ]
+    ] ],
+    [ "AddSC_burning_steppes", "da/dfd/a03401.html#a8cf2165dba1d5e845d5e20fbc1ce33d6", null ]
 ];

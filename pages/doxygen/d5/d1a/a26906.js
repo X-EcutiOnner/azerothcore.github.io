@@ -1,5 +1,5 @@
 var a26906 =
 [
-    [ "AreaTrigger_at_scent_larkorwi", "d5/d1a/a26906.html#a967a43eae4cc986754eed9ee8291c17e", null ],
-    [ "OnTrigger", "d5/d1a/a26906.html#aeeb339afa5a7dd4b028aea800026998e", null ]
+    [ "achievement_sa_defense_of_the_ancients", "d5/d1a/a26906.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "d5/d1a/a26906.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

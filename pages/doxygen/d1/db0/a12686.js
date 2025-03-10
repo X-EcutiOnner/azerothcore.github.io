@@ -1,5 +1,8 @@
 var a12686 =
 [
-    [ "at_karazhan_side_entrance", "d1/db0/a12686.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
-    [ "_OnTrigger", "d1/db0/a12686.html#a80d0018a9442ef7f0834dc329047e135", null ]
+    [ "CalcPeriodic", "d1/db0/a12686.html#a493609298c152df8216641ba2e5861cd", null ],
+    [ "PrepareAuraScript", "d1/db0/a12686.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
+    [ "Register", "d1/db0/a12686.html#a44002db5980dfc1db816cf61fd446491", null ],
+    [ "Update", "d1/db0/a12686.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
+    [ "Validate", "d1/db0/a12686.html#a060e189aaa4396681d42906b65c9196f", null ]
 ];

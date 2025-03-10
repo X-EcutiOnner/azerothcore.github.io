@@ -1,5 +1,5 @@
 var a27530 =
 [
-    [ "go_transport_the_purple_princess", "df/d6b/a27530.html#ab0c79197964857d578036693a2c18e8a", null ],
-    [ "EventInform", "df/d6b/a27530.html#ac5b73f1bea180797169138f8e9228783", null ]
+    [ "npc_stable_masterAI", "df/d6b/a27530.html#a5c6f9bca1004af163ddb074b606330be", null ],
+    [ "sGossipSelect", "df/d6b/a27530.html#a09205661674dd011ffe425deaadde053", null ]
 ];

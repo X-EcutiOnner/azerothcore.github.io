@@ -1,7 +1,7 @@
 var a15446 =
 [
-    [ "npc_steward_of_time", "d3/d6a/a15446.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnGossipHello", "d3/d6a/a15446.html#a3b61038393c3addbbfa6643438164db3", null ],
-    [ "OnGossipSelect", "d3/d6a/a15446.html#af4fe13e266a98129b92e5a25188d947c", null ],
-    [ "OnQuestAccept", "d3/d6a/a15446.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "DelayedWindstoneSummonEvent", "d3/d6a/a15446.html#aa97daf8cf3479395ffd6558b6699436a", null ],
+    [ "Execute", "d3/d6a/a15446.html#aa413bc8709bc543b89ffb3df42185475", null ],
+    [ "_playerGUID", "d3/d6a/a15446.html#ad83bb6d87b569f59e99abcc16517745b", null ],
+    [ "_summon", "d3/d6a/a15446.html#af9804d276da5daebab3a37f2c75301ea", null ]
 ];

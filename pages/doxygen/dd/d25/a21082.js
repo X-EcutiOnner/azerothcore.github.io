@@ -1,12 +1,18 @@
 var a21082 =
 [
-    [ "boss_koralonAI", "dd/d25/a21082.html#a3f5bc42a141011e543d1215eac09dc74", null ],
-    [ "AttackStart", "dd/d25/a21082.html#aa84e6e9a302172e134163cd07ca57864", null ],
-    [ "JustDied", "dd/d25/a21082.html#a102c10792d9e7df61d920b5a43f58e51", null ],
-    [ "JustEngagedWith", "dd/d25/a21082.html#aa7503618dd09e0aebac44394595f4715", null ],
-    [ "Reset", "dd/d25/a21082.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
-    [ "UpdateAI", "dd/d25/a21082.html#aa944aad2eb68adc917cba743d1e530c7", null ],
-    [ "events", "dd/d25/a21082.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
-    [ "pInstance", "dd/d25/a21082.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
-    [ "rotateTimer", "dd/d25/a21082.html#ad4b766094f28e940b0b7971d6dadc277", null ]
+    [ "boss_ymironAI", "dd/d25/a21082.html#a3a4d81b7a0f3f27f94fea60eff043696", null ],
+    [ "EnterEvadeMode", "dd/d25/a21082.html#a8fbc8526e82efea3e2eddedc421b85a2", null ],
+    [ "JustDied", "dd/d25/a21082.html#ad1da47485b8f17ea550a1b6bc943eb9a", null ],
+    [ "JustEngagedWith", "dd/d25/a21082.html#aed0cc8f034454db0046a5adce7f9d8a0", null ],
+    [ "KilledUnit", "dd/d25/a21082.html#ae1d69402520e1cf4d3a17c0ca9af35bd", null ],
+    [ "MovementInform", "dd/d25/a21082.html#a6e3c14da21d45bb7ddfba25d4487bba7", null ],
+    [ "Reset", "dd/d25/a21082.html#a2b6619a51641a82109e98fd4decd22e3", null ],
+    [ "SpellHitTarget", "dd/d25/a21082.html#a2f2782926ee9a59fc5188d02347f9ca8", null ],
+    [ "UpdateAI", "dd/d25/a21082.html#aaa447c1c6092bfc7c1d117d32b2c5673", null ],
+    [ "BoatNum", "dd/d25/a21082.html#ac5663f283d1a97fea1646c1ec230a7dc", null ],
+    [ "BoatOrder", "dd/d25/a21082.html#a319095910309b0a78d321c4d33994542", null ],
+    [ "events", "dd/d25/a21082.html#af2d8d9a2ec7ec5876c99ae909d3befd2", null ],
+    [ "pInstance", "dd/d25/a21082.html#a115529fcbc5a0c8b57152be49915d575", null ],
+    [ "summons", "dd/d25/a21082.html#aaa5d90d3940c84adebce772c594b0ee2", null ],
+    [ "summons2", "dd/d25/a21082.html#aa82280ec0e02924d653b62298ed7e471", null ]
 ];

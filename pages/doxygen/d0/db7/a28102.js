@@ -1,5 +1,7 @@
 var a28102 =
 [
-    [ "id", "d0/db7/a28102.html#a4667f55651f20c85f5b3da9384bac078", null ],
-    [ "QuestRewFactionValue", "d0/db7/a28102.html#a9a42feddeef8e054cd52b72cfc812867", null ]
+    [ "ID", "d0/db7/a28102.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "d0/db7/a28102.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "d0/db7/a28102.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "d0/db7/a28102.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

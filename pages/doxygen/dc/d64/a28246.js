@@ -1,10 +1,11 @@
 var a28246 =
 [
-    [ "area_id", "dc/d64/a28246.html#acbd77950bf9548d266e568640cf38458", null ],
-    [ "map_id", "dc/d64/a28246.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
-    [ "virtual_map_id", "dc/d64/a28246.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
-    [ "x1", "dc/d64/a28246.html#a78967fef40841f705c2564a177cb36f3", null ],
-    [ "x2", "dc/d64/a28246.html#a037dca812715df0b4f2551f8684b537c", null ],
-    [ "y1", "dc/d64/a28246.html#a7f90073656e1cd00a88add9f8d881d11", null ],
-    [ "y2", "dc/d64/a28246.html#ad8e0164952e5565488d5443f269ec79e", null ]
+    [ "addToSpellBook", "dc/d64/a28246.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
+    [ "Col", "dc/d64/a28246.html#a0bc589c5b1425d5e889cd290b805169e", null ],
+    [ "DependsOn", "dc/d64/a28246.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
+    [ "DependsOnRank", "dc/d64/a28246.html#a608f232669981da3423b959479ca8683", null ],
+    [ "RankID", "dc/d64/a28246.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
+    [ "Row", "dc/d64/a28246.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
+    [ "TalentID", "dc/d64/a28246.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
+    [ "TalentTab", "dc/d64/a28246.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
 ];

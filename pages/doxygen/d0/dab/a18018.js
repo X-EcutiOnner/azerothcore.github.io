@@ -1,7 +1,8 @@
 var a18018 =
 [
-    [ "TriggerWickedSpirit", "d0/dab/a18018.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
-    [ "Execute", "d0/dab/a18018.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
-    [ "_counter", "d0/dab/a18018.html#a24b85a62208f881418f97b0a8cb10f27", null ],
-    [ "_owner", "d0/dab/a18018.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
+    [ "FilterTargets", "d0/dab/a18018.html#a14e392760361b95578bc95de10cdd8aa", null ],
+    [ "HandleForcedCast", "d0/dab/a18018.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
+    [ "PrepareSpellScript", "d0/dab/a18018.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
+    [ "Register", "d0/dab/a18018.html#ac2105e66f692c6a991ac9190b1901505", null ],
+    [ "Validate", "d0/dab/a18018.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
 ];

@@ -1,7 +1,7 @@
 var a26754 =
 [
-    [ "OnProc", "d3/d7b/a26754.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "d3/d7b/a26754.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "d3/d7b/a26754.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "d3/d7b/a26754.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "HandleApply", "d3/d7b/a26754.html#aa35fa107aee605a8583150901a75ad72", null ],
+    [ "HandleRemove", "d3/d7b/a26754.html#a60b6e438ff67d9db41d160020b54da40", null ],
+    [ "PrepareAuraScript", "d3/d7b/a26754.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
+    [ "Register", "d3/d7b/a26754.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
 ];

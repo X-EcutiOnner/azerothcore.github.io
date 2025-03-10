@@ -1,6 +1,8 @@
 var a15054 =
 [
-    [ "aqsentinelAI", "d4/dba/a15058.html", "d4/dba/a15058" ],
-    [ "npc_anubisath_sentinel", "d4/d13/a15054.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
-    [ "GetAI", "d4/d13/a15054.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
+    [ "boss_veklor", "d4/d13/a15054.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d4/d13/a15054.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d4/d13/a15054.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d4/d13/a15054.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d4/d13/a15054.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

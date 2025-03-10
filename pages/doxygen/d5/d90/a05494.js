@@ -1,5 +1,6 @@
 var a05494 =
 [
-    [ "FromString", "d5/d90/a05494.html#acfabf7e368302aa32ae96367f836edd2", null ],
-    [ "ToString", "d5/d90/a05494.html#a3a97bead5d1614412948b41fe499d50c", null ]
+    [ "~AsyncProcessResult", "d5/d90/a05494.html#a16f0ce13c7401ce07e91b349c91365e0", null ],
+    [ "GetFutureResult", "d5/d90/a05494.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8", null ],
+    [ "Terminate", "d5/d90/a05494.html#af3951c38d2b368c15c0ac7d415b96ebd", null ]
 ];

@@ -1,6 +1,6 @@
 var a13350 =
 [
-    [ "npc_professor_phizzlethorpeAI", "dd/d89/a13354.html", "dd/d89/a13354" ],
-    [ "npc_professor_phizzlethorpe", "d0/d3e/a13350.html#a8d32b4a107533c81033c617b0b97027d", null ],
-    [ "GetAI", "d0/d3e/a13350.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "d0/d3e/a13350.html#aae99b35ff990fd7486d5b70693b6729a", null ],
+    [ "Load", "d0/d3e/a13350.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
+    [ "OnPlayerEnter", "d0/d3e/a13350.html#ab45827eaa92aea4746378b3c11fda219", null ]
 ];

@@ -1,6 +1,6 @@
 var a23034 =
 [
-    [ "HandleScriptEffect", "dc/d6b/a23034.html#a9e42f1af6fabb7df066cc2488a831418", null ],
-    [ "PrepareSpellScript", "dc/d6b/a23034.html#a866496b087288a3cb8f00d4dbdb5d2ec", null ],
-    [ "Register", "dc/d6b/a23034.html#a0fdb5d866d714d1d3bc71c4439a7f593", null ]
+    [ "HandleEffectRemove", "dc/d6b/a23034.html#adfbbb75ace34ab5c0fec35e6aa88505a", null ],
+    [ "PrepareAuraScript", "dc/d6b/a23034.html#a94b91d27b9a218b5fdce91d6a6e72f62", null ],
+    [ "Register", "dc/d6b/a23034.html#a2b7fb2d6d0f92a970a45e0b9c409408d", null ]
 ];

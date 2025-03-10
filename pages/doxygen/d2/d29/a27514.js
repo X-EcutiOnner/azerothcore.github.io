@@ -1,5 +1,9 @@
 var a27514 =
 [
-    [ "npc_suns_reach_reclamation", "d2/d29/a27514.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "d2/d29/a27514.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "npc_fireworkAI", "d2/d29/a27514.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "d2/d29/a27514.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "d2/d29/a27514.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "d2/d29/a27514.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "d2/d29/a27514.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "d2/d29/a27514.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

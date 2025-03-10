@@ -1,6 +1,6 @@
 var a22226 =
 [
-    [ "PrepareSpellScript", "dd/ddd/a22226.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "dd/ddd/a22226.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "dd/ddd/a22226.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "npc_wg_queueAI", "dd/ddd/a22226.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "dd/ddd/a22226.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "dd/ddd/a22226.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

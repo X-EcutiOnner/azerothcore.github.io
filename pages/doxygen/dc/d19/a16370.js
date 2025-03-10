@@ -1,7 +1,8 @@
 var a16370 =
 [
-    [ "HandleEffectPeriodic", "dc/d19/a16370.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "dc/d19/a16370.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "dc/d19/a16370.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "dc/d19/a16370.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_toc_pet_warlockAI", "dc/d19/a16370.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
+    [ "EnterEvadeMode", "dc/d19/a16370.html#a62219f63e82fc67f63db2cbd713647a0", null ],
+    [ "myCanCast", "dc/d19/a16370.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
+    [ "UpdateAI", "dc/d19/a16370.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
+    [ "events", "dc/d19/a16370.html#a8edadebd7e6660041233a24fb07173bf", null ]
 ];

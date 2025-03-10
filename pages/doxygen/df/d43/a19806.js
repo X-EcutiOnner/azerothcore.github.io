@@ -1,7 +1,6 @@
 var a19806 =
 [
-    [ "FilterTargets", "df/d43/a19806.html#a3d864f0428b7e53774d06069037ca5b2", null ],
-    [ "HandleScript", "df/d43/a19806.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
-    [ "PrepareSpellScript", "df/d43/a19806.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
-    [ "Register", "df/d43/a19806.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
+    [ "npc_storm_beacon_spawnAI", "d1/d43/a19810.html", "d1/d43/a19810" ],
+    [ "npc_storm_beacon_spawn", "df/d43/a19806.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
+    [ "GetAI", "df/d43/a19806.html#a780dd823962e259dbeda7089224aa23e", null ]
 ];

@@ -1,6 +1,6 @@
 var a25946 =
 [
-    [ "FilterTargets", "d7/d9b/a25946.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
-    [ "PrepareSpellScript", "d7/d9b/a25946.html#a5992d94317d3da7400d5a9ab115e621e", null ],
-    [ "Register", "d7/d9b/a25946.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
+    [ "CheckProc", "d7/d9b/a25946.html#a0f1461140b08deac3f044142067368e7", null ],
+    [ "PrepareAuraScript", "d7/d9b/a25946.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
+    [ "Register", "d7/d9b/a25946.html#a05e31c2252c9054a18b4267be84895b9", null ]
 ];

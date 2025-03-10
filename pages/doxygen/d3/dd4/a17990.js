@@ -1,7 +1,6 @@
 var a17990 =
 [
-    [ "HandleInfusion", "d3/dd4/a17990.html#a9f77330d81fef646dd5d5399800cba66", null ],
-    [ "PrepareSpellScript", "d3/dd4/a17990.html#ae0a272902b0a9f74058c1dbe62974358", null ],
-    [ "Register", "d3/dd4/a17990.html#ad759f6215e722f799156b4bdddcb7af1", null ],
-    [ "Validate", "d3/dd4/a17990.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
+    [ "npc_rimefangAI", "df/dcf/a17994.html", "df/dcf/a17994" ],
+    [ "npc_rimefang", "d3/dd4/a17990.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
+    [ "GetAI", "d3/dd4/a17990.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
 ];

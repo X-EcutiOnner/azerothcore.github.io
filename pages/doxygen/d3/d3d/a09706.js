@@ -1,13 +1,13 @@
 var a09706 =
 [
-    [ "ParallelogramBoundary", "d3/d3d/a09706.html#ace1e1ffbcb84343ca2641541fe000691", null ],
-    [ "IsWithinBoundaryArea", "d3/d3d/a09706.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
-    [ "_a", "d3/d3d/a09706.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
-    [ "_abx", "d3/d3d/a09706.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
-    [ "_aby", "d3/d3d/a09706.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
-    [ "_b", "d3/d3d/a09706.html#a9d5d06cc3673f89644e45e62f96510db", null ],
-    [ "_c", "d3/d3d/a09706.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
-    [ "_d", "d3/d3d/a09706.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
-    [ "_dax", "d3/d3d/a09706.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
-    [ "_day", "d3/d3d/a09706.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
+    [ "ServerMail", "d3/d3d/a09706.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
+    [ "active", "d3/d3d/a09706.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
+    [ "body", "d3/d3d/a09706.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
+    [ "conditions", "d3/d3d/a09706.html#a818b993f72f82a022277e1c8d9160011", null ],
+    [ "id", "d3/d3d/a09706.html#a6b47994eff9201a6a75f8c621b64716c", null ],
+    [ "itemsA", "d3/d3d/a09706.html#a0992466672427c1d24c686bd8fa39378", null ],
+    [ "itemsH", "d3/d3d/a09706.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
+    [ "moneyA", "d3/d3d/a09706.html#a6a84ca583beef891422f67bef7919c47", null ],
+    [ "moneyH", "d3/d3d/a09706.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
+    [ "subject", "d3/d3d/a09706.html#a246e499c69c57a436aac4c039ea37d31", null ]
 ];

@@ -1,6 +1,6 @@
 var a21746 =
 [
-    [ "npc_tallhorn_stagAI", "d8/d83/a21750.html", "d8/d83/a21750" ],
-    [ "npc_tallhorn_stag", "d4/d25/a21746.html#aff7f23376c27312894c9a042f6a0f848", null ],
-    [ "GetAI", "d4/d25/a21746.html#a3d993542271c80982adcee9a9d60e46b", null ]
+    [ "HandleDummy", "d4/d25/a21746.html#afe86744c6ab901750731fca486ff2e6c", null ],
+    [ "PrepareSpellScript", "d4/d25/a21746.html#a47e8a3187fa523c61842885f1cbd041d", null ],
+    [ "Register", "d4/d25/a21746.html#a61b1b63167b3dc562b9916ffce1e4eee", null ]
 ];

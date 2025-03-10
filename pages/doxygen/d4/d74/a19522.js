@@ -1,6 +1,8 @@
 var a19522 =
 [
-    [ "npc_collapsing_starAI", "d4/d74/a19522.html#ac389b380a8f315ae50a8cd809393a773", null ],
-    [ "DamageTaken", "d4/d74/a19522.html#a424fac98093eb9d02cda5027523ad06a", null ],
-    [ "JustSummoned", "d4/d74/a19522.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
+    [ "iron_golem_custodianAI", "d4/d74/a19522.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
+    [ "JustEngagedWith", "d4/d74/a19522.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
+    [ "Reset", "d4/d74/a19522.html#af3193696d665746eecd9c62128d8684d", null ],
+    [ "UpdateAI", "d4/d74/a19522.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
+    [ "events", "d4/d74/a19522.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
 ];

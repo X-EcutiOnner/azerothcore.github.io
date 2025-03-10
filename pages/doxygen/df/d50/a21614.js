@@ -1,6 +1,6 @@
 var a21614 =
 [
-    [ "HandleSendEvent", "df/d50/a21614.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "df/d50/a21614.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "df/d50/a21614.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "npc_future_youAI", "dd/dbe/a21618.html", "dd/dbe/a21618" ],
+    [ "npc_future_you", "df/d50/a21614.html#a36e363156bcb32fee468989062817bd5", null ],
+    [ "GetAI", "df/d50/a21614.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
 ];

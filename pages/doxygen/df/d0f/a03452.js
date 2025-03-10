@@ -1,6 +1,6 @@
 var a03452 =
 [
-    [ "fireworkShowExodar", "df/d0f/a03452.html#a62ccee24b6a90b61a19256b66e97c1dd", null ],
-    [ "fireworkShowGameobjectExodar", "df/d0f/a03452.html#a5b7a7ca2308d23103ee3d053d6301e5c", null ],
-    [ "fireworkShowScheduleExodar", "df/d0f/a03452.html#a44290c427b72dfa245ba73b6fa1ea317", null ]
+    [ "fireworkShowBootyBay", "df/d0f/a03452.html#ade8881c3a797a7937c46526f8c8adf99", null ],
+    [ "FireworkShowGameobjectBootyBay", "df/d0f/a03452.html#aeff31f29bacaf8ca10d5caee61627422", null ],
+    [ "fireworkShowScheduleBootyBay", "df/d0f/a03452.html#aed5048221cf1d35ad3d4989da8786617", null ]
 ];

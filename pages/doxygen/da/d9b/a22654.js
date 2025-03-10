@@ -1,7 +1,7 @@
 var a22654 =
 [
-    [ "boss_lady_malande", "da/d9b/a22654.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "da/d9b/a22654.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "da/d9b/a22654.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "da/d9b/a22654.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "HandleOnEffectApply", "da/d9b/a22654.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
+    [ "HandleOnEffectRemove", "da/d9b/a22654.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
+    [ "PrepareAuraScript", "da/d9b/a22654.html#a45df29f911b1232e306e04a182648904", null ],
+    [ "Register", "da/d9b/a22654.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
 ];

@@ -1,6 +1,8 @@
 var a10926 =
 [
-    [ "WorldSession", "d8/d6e/a10926.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "d8/d6e/a10926.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "d8/d6e/a10926.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "ServerPktHeader", "d8/d6e/a10926.html#a761e294fccc02055a46bfc46656da706", null ],
+    [ "getHeaderLength", "d8/d6e/a10926.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
+    [ "isLargePacket", "d8/d6e/a10926.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
+    [ "header", "d8/d6e/a10926.html#adc69128832b16124c284c584e7540b11", null ],
+    [ "size", "d8/d6e/a10926.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
 ];

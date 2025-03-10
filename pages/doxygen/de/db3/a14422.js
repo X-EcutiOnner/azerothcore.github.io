@@ -1,7 +1,5 @@
 var a14422 =
 [
-    [ "HandleOnHit", "de/db3/a14422.html#ae3241486a612293b5421a523f6d854d9", null ],
-    [ "PrepareSpellScript", "de/db3/a14422.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
-    [ "Register", "de/db3/a14422.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
-    [ "Validate", "de/db3/a14422.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
+    [ "achievement_pb_terokkar_turkey_time", "de/db3/a14422.html#a68e536379b04e060f44819c9831766c2", null ],
+    [ "OnCheck", "de/db3/a14422.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
 ];

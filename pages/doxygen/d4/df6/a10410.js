@@ -1,5 +1,7 @@
 var a10410 =
 [
-    [ "LogoutRequest", "d4/df6/a10410.html#ab92b0a8a5d3d076adbd465fcf24b7975", null ],
-    [ "Read", "d4/df6/a10410.html#a84701a16603f8b0f1e8dda1020ec1161", null ]
+    [ "ClientPacket", "d4/df6/a10410.html#aa1d1946c07e248bae5927e83fdad9500", null ],
+    [ "ClientPacket", "d4/df6/a10410.html#a1cdaaacca2695c4366647c7611073ff0", null ],
+    [ "GetOpcode", "d4/df6/a10410.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
+    [ "Write", "d4/df6/a10410.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
 ];

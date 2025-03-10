@@ -1,9 +1,6 @@
 var a25242 =
 [
-    [ "DoCheckCast", "da/d31/a25242.html#a09c7bd66988c38cb019656842ed87366", null ],
-    [ "HandleDummy", "da/d31/a25242.html#a183e2ac37a432ea2902b31e24a474cea", null ],
-    [ "HandleScriptEffect", "da/d31/a25242.html#a396b1129f15056d0b22c7887f56bea99", null ],
-    [ "PrepareSpellScript", "da/d31/a25242.html#aad4de93de822a742e02ac8d5d395d482", null ],
-    [ "Register", "da/d31/a25242.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
-    [ "Validate", "da/d31/a25242.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
+    [ "CalculateAmount", "da/d31/a25242.html#a83bf0327aade6f6a33293a442ad10911", null ],
+    [ "PrepareAuraScript", "da/d31/a25242.html#aa964f4eb7391dab54ff744fc94306de1", null ],
+    [ "Register", "da/d31/a25242.html#a37d29d87bec2fe2908b7d3e47f5e1caa", null ]
 ];

@@ -1,7 +1,6 @@
 var a18466 =
 [
-    [ "npc_captain_arnathAI", "d6/d89/a18466.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "d6/d89/a18466.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "d6/d89/a18466.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "d6/d89/a18466.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "npc_rotting_frost_giantAI", "df/dfd/a18470.html", "df/dfd/a18470" ],
+    [ "npc_rotting_frost_giant", "d6/d89/a18466.html#ad4440216e11a00d97af43dc5f3957e95", null ],
+    [ "GetAI", "d6/d89/a18466.html#aabc388b3690f2d03e903c7f480d52842", null ]
 ];

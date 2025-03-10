@@ -1,6 +1,10 @@
 var a27258 =
 [
-    [ "npc_innkeeper", "d1/dfe/a27258.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "d1/dfe/a27258.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "d1/dfe/a27258.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "guard_shattrath_scryerAI", "d1/dfe/a27258.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "d1/dfe/a27258.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "d1/dfe/a27258.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "d1/dfe/a27258.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "d1/dfe/a27258.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "d1/dfe/a27258.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "d1/dfe/a27258.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

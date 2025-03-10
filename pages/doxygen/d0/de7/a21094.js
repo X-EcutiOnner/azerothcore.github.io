@@ -1,7 +1,8 @@
 var a21094 =
 [
-    [ "PrepareAuraScript", "d0/de7/a21094.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
-    [ "Register", "d0/de7/a21094.html#a7225d1f83921e4de06516c1db5a5038a", null ],
-    [ "TriggerFists", "d0/de7/a21094.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
-    [ "Validate", "d0/de7/a21094.html#a977897c569245148eb94892bb42d4ca5", null ]
+    [ "CheckProc", "d0/de7/a21094.html#ac955cc78dd3206816906dd06b3e006f6", null ],
+    [ "HandleProc", "d0/de7/a21094.html#a966d23cc5714fe35d80b2964dddda536", null ],
+    [ "PrepareAuraScript", "d0/de7/a21094.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
+    [ "Register", "d0/de7/a21094.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
+    [ "Validate", "d0/de7/a21094.html#a5d8e764dafd26548af8588593bf27990", null ]
 ];

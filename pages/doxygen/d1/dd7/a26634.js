@@ -1,10 +1,10 @@
 var a26634 =
 [
-    [ "CalculateAmount", "d1/dd7/a26634.html#a9e0e28d871f9d3c89cf2dc862971321d", null ],
-    [ "Detonate", "d1/dd7/a26634.html#adc622aae157984546dfe3d8373c0c413", null ],
-    [ "HandleProc", "d1/dd7/a26634.html#a3b5812649b67830d8dc6d10b5dd1c937", null ],
-    [ "OnRemove", "d1/dd7/a26634.html#a5067cef0afc99d487f995f8d6edea21f", null ],
-    [ "PrepareAuraScript", "d1/dd7/a26634.html#abc23ebb3761e3505486ac578bdeaeeed", null ],
-    [ "Register", "d1/dd7/a26634.html#acc4819698e175889a0491d7f7cc680fd", null ],
-    [ "Validate", "d1/dd7/a26634.html#a0649826ce0d66c9f21be8d47c76f4941", null ]
+    [ "CalcPeriodic", "d1/dd7/a26634.html#abd23b7e24d9688dd4b9cbe70cdd45d75", null ],
+    [ "CalculateAmount", "d1/dd7/a26634.html#a55aa6c6a23e4db0f407b86bcf95d3761", null ],
+    [ "HandleEffectCalcSpellMod", "d1/dd7/a26634.html#a8c888218fde2176a3c3b5cb97fdce5de", null ],
+    [ "HandlePeriodic", "d1/dd7/a26634.html#ae2c4de235fc727039a50f1b6ba729422", null ],
+    [ "Load", "d1/dd7/a26634.html#a9e1a5a07db18f6ff238276f9e1c44321", null ],
+    [ "PrepareAuraScript", "d1/dd7/a26634.html#a847c1db1bf92baeba47260ffbacbcdd9", null ],
+    [ "Register", "d1/dd7/a26634.html#a9241ab85d616f4f17c52b3730c5434e1", null ]
 ];

@@ -1,6 +1,6 @@
 var a21490 =
 [
-    [ "npc_mei_francis_mountAI", "d6/dca/a21494.html", "d6/dca/a21494" ],
-    [ "npc_mei_francis_mount", "de/db2/a21490.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "de/db2/a21490.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "npc_thassarianAI", "d6/dca/a21494.html", "d6/dca/a21494" ],
+    [ "npc_thassarian", "de/db2/a21490.html#a82bde4555821f84a6d07a69669528313", null ],
+    [ "GetAI", "de/db2/a21490.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
 ];

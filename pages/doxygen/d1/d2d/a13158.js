@@ -1,6 +1,11 @@
 var a13158 =
 [
-    [ "npc_demonic_vapor", "d1/d2d/a13158.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
-    [ "Reset", "d1/d2d/a13158.html#a7d2b88ab26904cedaac34f03567806bc", null ],
-    [ "UpdateAI", "d1/d2d/a13158.html#ae80c50c2599e607b54349a87dda5f6f6", null ]
+    [ "boss_sacrolash", "d1/d2d/a13158.html#a6e251340b2ba8a8300611cf229b93095", null ],
+    [ "DoAction", "d1/d2d/a13158.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
+    [ "JustDied", "d1/d2d/a13158.html#a17c995220572cf803c36470ca80840e2", null ],
+    [ "JustEngagedWith", "d1/d2d/a13158.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
+    [ "JustSummoned", "d1/d2d/a13158.html#a94214bc45414f61ff53102d6136b7b5c", null ],
+    [ "KilledUnit", "d1/d2d/a13158.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
+    [ "Reset", "d1/d2d/a13158.html#aa3128dae87d181e7ab93cf3a13723982", null ],
+    [ "_isSisterDead", "d1/d2d/a13158.html#a248d37df91c82069321fc5ea8b1e885d", null ]
 ];

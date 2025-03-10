@@ -1,8 +1,14 @@
 var a27874 =
 [
-    [ "ID", "d9/d8a/a27874.html#a36958c346c8554d9ab1cfb73ac583818", null ],
-    [ "Model", "d9/d8a/a27874.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
-    [ "Origin", "d9/d8a/a27874.html#a684c69add50ee545ee606ae456a93336", null ],
-    [ "OriginFacing", "d9/d8a/a27874.html#a460723250353c7720cd87677991283cf", null ],
-    [ "SoundID", "d9/d8a/a27874.html#aa56be05c7ab4015738e049d75ff365c6", null ]
+    [ "IsFlyable", "d9/d8a/a27874.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
+    [ "IsSanctuary", "d9/d8a/a27874.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
+    [ "area_level", "d9/d8a/a27874.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
+    [ "area_name", "d9/d8a/a27874.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
+    [ "exploreFlag", "d9/d8a/a27874.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
+    [ "flags", "d9/d8a/a27874.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
+    [ "ID", "d9/d8a/a27874.html#ad02bb9fce21f464e38223581074a9e21", null ],
+    [ "LiquidTypeOverride", "d9/d8a/a27874.html#abe743a4b542c4356aab9d41f3fae7457", null ],
+    [ "mapid", "d9/d8a/a27874.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
+    [ "team", "d9/d8a/a27874.html#ae18e0efef83e663452715f6be15ecaef", null ],
+    [ "zone", "d9/d8a/a27874.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
 ];

@@ -1,6 +1,7 @@
 var a16006 =
 [
-    [ "HandleHealPct", "d8/d63/a16006.html#ad13b3924815ac3da7902c8292a760943", null ],
-    [ "PrepareSpellScript", "d8/d63/a16006.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
-    [ "Register", "d8/d63/a16006.html#a3016c31c072d6417bbe47c2891059718", null ]
+    [ "HandleScriptEffect", "d8/d63/a16006.html#a9582a8faa1b8ba973a76d651a7479348", null ],
+    [ "PrepareSpellScript", "d8/d63/a16006.html#a681102507df3aa365ee2e2f064be5e54", null ],
+    [ "Register", "d8/d63/a16006.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
+    [ "Validate", "d8/d63/a16006.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
 ];

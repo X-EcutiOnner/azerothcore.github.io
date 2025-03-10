@@ -1,5 +1,7 @@
 var a15034 =
 [
-    [ "npc_toxic_slime", "d9/dc6/a15034.html#a4c3a03916280342ec9aec07049de161f", null ],
-    [ "InitializeAI", "d9/dc6/a15034.html#ae69f228040aaa5bc4df40a652f551992", null ]
+    [ "npc_sartura_royal_guard", "d9/dc6/a15034.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "d9/dc6/a15034.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "d9/dc6/a15034.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "d9/dc6/a15034.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

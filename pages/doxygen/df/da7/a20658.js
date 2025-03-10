@@ -1,6 +1,5 @@
 var a20658 =
 [
-    [ "boss_yoggsaron_death_orbAI", "d9/d2b/a20662.html", "d9/d2b/a20662" ],
-    [ "boss_yoggsaron_death_orb", "df/da7/a20658.html#a862d01f012cee832b41bc7c584816b93", null ],
-    [ "GetAI", "df/da7/a20658.html#a3169cd0e78642503f394a6cb74307871", null ]
+    [ "achievement_xt002_nerf_gravity_bombs", "df/da7/a20658.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
+    [ "OnCheck", "df/da7/a20658.html#a03f61470694399ab32aea354cd697771", null ]
 ];

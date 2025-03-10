@@ -1,5 +1,6 @@
 var a17610 =
 [
-    [ "at_lady_deathwhisper_entrance", "d9/d9c/a17610.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
-    [ "OnTrigger", "d9/d9c/a17610.html#a769c838c94a88af5492057909d88f3de", null ]
+    [ "npc_cult_fanaticAI", "db/db0/a17614.html", "db/db0/a17614" ],
+    [ "npc_cult_fanatic", "d9/d9c/a17610.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "d9/d9c/a17610.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

@@ -1,9 +1,8 @@
 var a09090 =
 [
-    [ "LiquidData", "d7/d3f/a09090.html#ac2435178323f480d2dae449b49b39146", null ],
-    [ "DepthLevel", "d7/d3f/a09090.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
-    [ "Entry", "d7/d3f/a09090.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
-    [ "Flags", "d7/d3f/a09090.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
-    [ "Level", "d7/d3f/a09090.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
-    [ "Status", "d7/d3f/a09090.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
+    [ "V8Type", "d7/d3f/a09090.html#ad1b1f07eef9dda43d6ba20d37087e1df", null ],
+    [ "V9Type", "d7/d3f/a09090.html#ac514014328ca676e610cef54710d2430", null ],
+    [ "gridIntHeightMultiplier", "d7/d3f/a09090.html#a6255362ae498172495394e1f0fad44ca", null ],
+    [ "v8", "d7/d3f/a09090.html#a3201a1f3e7307af860396ca26a78dbf9", null ],
+    [ "v9", "d7/d3f/a09090.html#ad31af604d44f964e9c502f36b6717c77", null ]
 ];

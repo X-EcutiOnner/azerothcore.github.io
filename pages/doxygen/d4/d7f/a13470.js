@@ -1,6 +1,6 @@
 var a13470 =
 [
-    [ "npc_corporal_keeshanAI", "d8/dd2/a13474.html", "d8/dd2/a13474" ],
-    [ "npc_corporal_keeshan", "d4/d7f/a13470.html#a0ca9459a7f283e040f14e0052762f587", null ],
-    [ "GetAI", "d4/d7f/a13470.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
+    [ "x", "d4/d7f/a13470.html#afeb59642abc7d5114668b2c27e315228", null ],
+    [ "y", "d4/d7f/a13470.html#a3e2454dd579de689289003a343e7f29c", null ],
+    [ "z", "d4/d7f/a13470.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
 ];

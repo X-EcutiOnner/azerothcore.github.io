@@ -1,11 +1,13 @@
 var a05534 =
 [
-    [ "PeriodicTimer", "dd/d66/a05534.html#a82820c45f47f423315fe761f9c45c3b5", null ],
-    [ "SetPeriodic", "dd/d66/a05534.html#abea9c11f88ef0ef48c16a24584774b5b", null ],
-    [ "TPassed", "dd/d66/a05534.html#a3fdac0a26ee6f5db8d536ae44907930d", null ],
-    [ "TReset", "dd/d66/a05534.html#af4e78fc1284797b50c2951c10f92b641", null ],
-    [ "TUpdate", "dd/d66/a05534.html#a1b013fe47a2dfb131110d3a29ccf9868", null ],
-    [ "Update", "dd/d66/a05534.html#a535bd070d606ba5a8621469a7ddd3449", null ],
-    [ "i_expireTime", "dd/d66/a05534.html#a7b889a1fbbf905c952834fb8d745f4a6", null ],
-    [ "i_period", "dd/d66/a05534.html#a5b45d28e36d665190323f34776b87796", null ]
+    [ "IntervalTimer", "dd/d66/a05534.html#a2538976b639e25e63a8ab5927663ade1", null ],
+    [ "GetCurrent", "dd/d66/a05534.html#a93a456d6ff6d74cc889517fc585626e8", null ],
+    [ "GetInterval", "dd/d66/a05534.html#a986bec1dcb7325088517f6721636abcc", null ],
+    [ "Passed", "dd/d66/a05534.html#a9b3ac2407baf9763fa899e35a5c55fbe", null ],
+    [ "Reset", "dd/d66/a05534.html#ae243f18c4c3174b91fa01f6d08b04d4d", null ],
+    [ "SetCurrent", "dd/d66/a05534.html#ab315f686c2777dc21c824d8674479f9f", null ],
+    [ "SetInterval", "dd/d66/a05534.html#a28d95330f971d3a37aaf53e4f16aad4a", null ],
+    [ "Update", "dd/d66/a05534.html#aa1f5b922ea2d95c49924a506ca37a676", null ],
+    [ "_current", "dd/d66/a05534.html#a99c5aec27af00ffbbd83c5adbd2e2016", null ],
+    [ "_interval", "dd/d66/a05534.html#a179584ce91f62ba5e74ae3f34ee32fbc", null ]
 ];

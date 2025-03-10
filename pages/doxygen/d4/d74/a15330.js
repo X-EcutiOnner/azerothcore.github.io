@@ -1,17 +1,8 @@
 var a15330 =
 [
-    [ "npc_clintar_spiritAI", "d4/d74/a15330.html#ab64c9da6af7246e1665a5264a26d75ab", null ],
-    [ "EnterEvadeMode", "d4/d74/a15330.html#a2ccffe81e2bd7cddcab10746bc9311bf", null ],
-    [ "IsSummonedBy", "d4/d74/a15330.html#af55bc32b17bfd45968e668c5591325ae", null ],
-    [ "JustDied", "d4/d74/a15330.html#a4e90511d9daf0545f0fee471f3ab0d5e", null ],
-    [ "Reset", "d4/d74/a15330.html#afd59b5e50deb65f7175138272f439740", null ],
-    [ "StartEvent", "d4/d74/a15330.html#ae3bbfd8374bf667d4eeb26e047ee2186", null ],
-    [ "UpdateAI", "d4/d74/a15330.html#a4b780f14cb2aa08c06e39a58501a21fe", null ],
-    [ "WaypointReached", "d4/d74/a15330.html#a98315f3202daaac261a1e7f0222b01c5", null ],
-    [ "checkPlayerTimer", "d4/d74/a15330.html#a10165a369bb8a7775050ae425cb94123", null ],
-    [ "CurrWP", "d4/d74/a15330.html#ae3b4588a2dfd337ffc71456652fa136f", null ],
-    [ "EventOnWait", "d4/d74/a15330.html#a7473dff3417d3e7510bc4fb7acbeb494", null ],
-    [ "EventTimer", "d4/d74/a15330.html#a27b0a90757df63df276b1e26bfbaba83", null ],
-    [ "PlayerGUID", "d4/d74/a15330.html#ad721852353215d46bc623efca358981f", null ],
-    [ "Step", "d4/d74/a15330.html#af9b65e2de0dcce5844fbc642b32f5a3f", null ]
+    [ "CheckRequirement", "d4/d74/a15330.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
+    [ "HandleDummy", "d4/d74/a15330.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
+    [ "PrepareSpellScript", "d4/d74/a15330.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
+    [ "Register", "d4/d74/a15330.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
+    [ "Validate", "d4/d74/a15330.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
 ];

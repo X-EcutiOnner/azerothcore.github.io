@@ -1,5 +1,6 @@
 var a24110 =
 [
-    [ "npc_shattrath_daily_quest", "d3/d25/a24110.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "d3/d25/a24110.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "npc_enraged_spiritAI", "d3/d03/a24114.html", "d3/d03/a24114" ],
+    [ "npc_enraged_spirit", "d3/d25/a24110.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "d3/d25/a24110.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

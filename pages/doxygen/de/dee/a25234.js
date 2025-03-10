@@ -1,7 +1,9 @@
 var a25234 =
 [
-    [ "HandleScriptEffect", "de/dee/a25234.html#ae3c2900d98c2fd51ff0888ea5d1072c4", null ],
-    [ "PrepareSpellScript", "de/dee/a25234.html#a29ac1789b8023ef3339a7b40ee9c31ab", null ],
-    [ "Register", "de/dee/a25234.html#a321098d2325bfb9cea674d1137348350", null ],
-    [ "Validate", "de/dee/a25234.html#aa16a67bf42f51b838d22dcbe4b5b6f7b", null ]
+    [ "spell_gen_translocate", "de/dee/a25234.html#a56a3df0eba3e1521aa2898194c39e919", null ],
+    [ "HandleScript", "de/dee/a25234.html#a67684fb76da60fdc13dbece055dae157", null ],
+    [ "PrepareSpellScript", "de/dee/a25234.html#a6f0986e54ad410c2f42a7935645485ed", null ],
+    [ "Register", "de/dee/a25234.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
+    [ "Validate", "de/dee/a25234.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
+    [ "_spellId", "de/dee/a25234.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
 ];

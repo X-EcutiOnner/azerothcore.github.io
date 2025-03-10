@@ -1,10 +1,6 @@
 var a11294 =
 [
-    [ "CustomChatTextBuilder", "d0/d74/a11294.html#a47b3e24f7100d13180ad1946647999ae", null ],
-    [ "operator()", "d0/d74/a11294.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
-    [ "_language", "d0/d74/a11294.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
-    [ "_msgType", "d0/d74/a11294.html#a0db1501da33fde77ab3c50943666b1fd", null ],
-    [ "_source", "d0/d74/a11294.html#ad75f22d7eb6a62d59730918f4336768c", null ],
-    [ "_target", "d0/d74/a11294.html#aa45be322836be588d8df2b253a22ee5c", null ],
-    [ "_text", "d0/d74/a11294.html#ab59c9b938b564329483e38466169a92c", null ]
+    [ "EffectManaShieldHandler", "d0/d74/a11294.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
+    [ "Call", "d0/d74/a11294.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
+    [ "pEffectHandlerScript", "d0/d74/a11294.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
 ];

@@ -1,6 +1,7 @@
 var a17862 =
 [
-    [ "boss_sindragosaAI", "dc/d6e/a17866.html", "dc/d6e/a17866" ],
-    [ "boss_sindragosa", "de/d4c/a17862.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "de/d4c/a17862.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "HandleScript", "de/d4c/a17862.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
+    [ "PrepareSpellScript", "de/d4c/a17862.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
+    [ "Register", "de/d4c/a17862.html#a2278ecef3dc60082ccb8964a34e55587", null ],
+    [ "Validate", "de/d4c/a17862.html#aeee94330ee7ea9b4fd7447e642404119", null ]
 ];

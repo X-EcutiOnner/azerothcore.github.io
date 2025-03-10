@@ -1,9 +1,13 @@
 var a27362 =
 [
-    [ "npc_target_dummyAI", "df/d11/a27362.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "df/d11/a27362.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "df/d11/a27362.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "df/d11/a27362.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "df/d11/a27362.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "df/d11/a27362.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "npc_nelsonAI", "df/d11/a27362.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
+    [ "DoAction", "df/d11/a27362.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
+    [ "JustEngagedWith", "df/d11/a27362.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
+    [ "JustSummoned", "df/d11/a27362.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
+    [ "Reset", "df/d11/a27362.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
+    [ "SpellHit", "df/d11/a27362.html#afab81d8a6077c755c186bb619944d78d", null ],
+    [ "SummonedCreatureDies", "df/d11/a27362.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
+    [ "UpdateAI", "df/d11/a27362.html#ac68749942f37de5f9105556fe7b904b7", null ],
+    [ "events", "df/d11/a27362.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
+    [ "shouldDespawn", "df/d11/a27362.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
 ];

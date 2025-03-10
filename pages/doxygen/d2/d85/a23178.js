@@ -1,6 +1,6 @@
 var a23178 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "d3/d76/a23182.html", "d3/d76/a23182" ],
-    [ "instance_the_slave_pens", "d2/d85/a23178.html#a765f7b66ad3bed1828524ecb143742f2", null ],
-    [ "GetInstanceScript", "d2/d85/a23178.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
+    [ "HandleScript", "d2/d85/a23178.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "d2/d85/a23178.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "d2/d85/a23178.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

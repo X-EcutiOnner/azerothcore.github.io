@@ -1,13 +1,23 @@
 var a05782 =
 [
-    [ "TransactionTask", "d4/d98/a05782.html#a13573f827891ad172847dc0e466b0b9e", null ],
-    [ "~TransactionTask", "d4/d98/a05782.html#a68bc982f025d40bbc3a7323cd8c96786", null ],
-    [ "CleanupOnFailure", "d4/d98/a05782.html#adc2f1534bce5a7ce198eeeb510fcb533", null ],
-    [ "Execute", "d4/d98/a05782.html#aa1c1df059d15fe2077ceea5cfb51ba22", null ],
-    [ "TryExecute", "d4/d98/a05782.html#a28c9ca1d9d3fdc6a722dcec68e46a38f", null ],
-    [ "DatabaseWorker", "d4/d98/a05782.html#ac8984f2167ec797d478f3a771d1c1c3f", null ],
-    [ "DatabaseWorkerPool", "d4/d98/a05782.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
-    [ "TransactionCallback", "d4/d98/a05782.html#ac3345f3314b133d53268f53e222cdc74", null ],
-    [ "_deadlockLock", "d4/d98/a05782.html#a84b48dbb670dd884e9b44ea53c8b0008", null ],
-    [ "m_trans", "d4/d98/a05782.html#a242f0cb47bc6b456b6bea9aa372df4b6", null ]
+    [ "PreparedStatementBase", "d4/d98/a05782.html#af804ff958eb51e96c0deccb59e6c79a6", null ],
+    [ "~PreparedStatementBase", "d4/d98/a05782.html#a96323eed4643ae8016b32215d6a902d4", null ],
+    [ "PreparedStatementBase", "d4/d98/a05782.html#aa7703fa7b7cf7cf033a45cccf4701f48", null ],
+    [ "GetIndex", "d4/d98/a05782.html#ac5e94130932a8975a95cd830051cbeab", null ],
+    [ "GetParameters", "d4/d98/a05782.html#add343f1f2017791df2434463f6114c68", null ],
+    [ "operator=", "d4/d98/a05782.html#abbf3c9d0f2d066bc40a53d53f45fcb79", null ],
+    [ "SetArguments", "d4/d98/a05782.html#a4b2ca4e3c01a4a26a42dc3a9a8d03660", null ],
+    [ "SetData", "d4/d98/a05782.html#abbd81f270eb6504ed04a661dc6da3139", null ],
+    [ "SetData", "d4/d98/a05782.html#ac44341575f53ed539f6ca471d27db9e1", null ],
+    [ "SetData", "d4/d98/a05782.html#ab05be7534a37abc4a7d38edd454ffb05", null ],
+    [ "SetData", "d4/d98/a05782.html#aa71863fdcace3c2fc666a0cf456d9e59", null ],
+    [ "SetData", "d4/d98/a05782.html#a52fc2e65042c1db51f0923725a0f0ed0", null ],
+    [ "SetData", "d4/d98/a05782.html#add697e08fa53fa173da40d48fd96fe28", null ],
+    [ "SetDataTuple", "d4/d98/a05782.html#aa4ff9aa53e042d424954b553d6912fa8", null ],
+    [ "SetValidData", "d4/d98/a05782.html#ae206b57c5ba8b621ab2e769089eb8045", null ],
+    [ "SetValidData", "d4/d98/a05782.html#a9dcba27137454af96729a7e3e897f86c", null ],
+    [ "SetValidData", "d4/d98/a05782.html#aa450d6784414246752c84556f6960fc9", null ],
+    [ "PreparedStatementTask", "d4/d98/a05782.html#a4c1bf9847756076bf3bba7b1178f0f99", null ],
+    [ "m_index", "d4/d98/a05782.html#a9af41817061c82bc5498c463b2f0fdf0", null ],
+    [ "statement_data", "d4/d98/a05782.html#ad5e60af68205c6a922b21f52ca3d9109", null ]
 ];

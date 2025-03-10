@@ -1,6 +1,7 @@
 var a22094 =
 [
-    [ "npc_wild_wyrmAI", "d3/d5a/a22098.html", "d3/d5a/a22098" ],
-    [ "npc_wild_wyrm", "d3/d7e/a22094.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
-    [ "GetAI", "d3/d7e/a22094.html#aedba91446fe12997047070f123d925d2", null ]
+    [ "HandleSendEvent", "d3/d7e/a22094.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
+    [ "PrepareSpellScript", "d3/d7e/a22094.html#af698a946e07235c18c8b785a1f775ec9", null ],
+    [ "Register", "d3/d7e/a22094.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
+    [ "Validate", "d3/d7e/a22094.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
 ];

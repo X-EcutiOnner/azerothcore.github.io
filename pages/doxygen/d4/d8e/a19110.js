@@ -1,6 +1,6 @@
 var a19110 =
 [
-    [ "npc_eoe_wyrmrest_skytalonAI", "d4/d8e/a19110.html#a0878695bc4179e3b6e92dde9f2b5cf19", null ],
-    [ "JustDied", "d4/d8e/a19110.html#aaa88ff236fd49a9c672ab29feb7377b8", null ],
-    [ "PassengerBoarded", "d4/d8e/a19110.html#aa3352276e87d805cc8722eb97d10ca46", null ]
+    [ "npc_power_sparkAI", "d9/d93/a19114.html", "d9/d93/a19114" ],
+    [ "npc_power_spark", "d4/d8e/a19110.html#a9efd2810feb5f90f9f12f51ec7282410", null ],
+    [ "GetAI", "d4/d8e/a19110.html#a573198b86697d222c693581bf430453f", null ]
 ];

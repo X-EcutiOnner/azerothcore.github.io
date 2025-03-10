@@ -1,6 +1,7 @@
 var a13742 =
 [
-    [ "npc_eagle_trash_aggro_trigger", "df/dca/a13742.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
-    [ "MoveInLineOfSight", "df/dca/a13742.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
-    [ "_instance", "df/dca/a13742.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
+    [ "HandleScript", "df/dca/a13742.html#ac45614416a710794b3e3a5cee239e28a", null ],
+    [ "PrepareSpellScript", "df/dca/a13742.html#a832aee6557e27bfa418957297a05bea3", null ],
+    [ "Register", "df/dca/a13742.html#a2f5d255de09818203e498c0090bdd3fb", null ],
+    [ "Validate", "df/dca/a13742.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
 ];

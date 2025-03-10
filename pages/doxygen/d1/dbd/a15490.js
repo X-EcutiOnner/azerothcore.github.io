@@ -1,12 +1,6 @@
 var a15490 =
 [
-    [ "npc_wizzlecrank_shredderAI", "d1/dbd/a15490.html#a055c4b426219aa3372a83d2e2021d916", null ],
-    [ "JustSummoned", "d1/dbd/a15490.html#a7cad21f0b3286ed75256a49c315069ce", null ],
-    [ "Reset", "d1/dbd/a15490.html#a86929e8a2f3433f37e4dda03e3011193", null ],
-    [ "UpdateEscortAI", "d1/dbd/a15490.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
-    [ "WaypointReached", "d1/dbd/a15490.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
-    [ "WaypointStart", "d1/dbd/a15490.html#a00857e372e53950338ed71d672edb780", null ],
-    [ "IsPostEvent", "d1/dbd/a15490.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
-    [ "PostEventCount", "d1/dbd/a15490.html#aa5284a284c074f32cee85d29aea00f2f", null ],
-    [ "PostEventTimer", "d1/dbd/a15490.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
+    [ "npc_stone_watcher_of_norgannon", "d1/dbd/a15490.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
+    [ "OnGossipHello", "d1/dbd/a15490.html#a00f526b1b17b68f31a86e892e0997856", null ],
+    [ "OnGossipSelect", "d1/dbd/a15490.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
 ];

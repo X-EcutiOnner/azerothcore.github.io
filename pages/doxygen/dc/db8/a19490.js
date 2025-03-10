@@ -1,6 +1,7 @@
 var a19490 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "d5/d5a/a19494.html", "d5/d5a/a19494" ],
-    [ "instance_halls_of_stone", "dc/db8/a19490.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "dc/db8/a19490.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "creature", "dc/db8/a19490.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "dc/db8/a19490.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "dc/db8/a19490.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "dc/db8/a19490.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

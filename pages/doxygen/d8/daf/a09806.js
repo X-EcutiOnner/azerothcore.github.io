@@ -1,20 +1,9 @@
 var a09806 =
 [
-    [ "ZoneScript", "d8/daf/a09806.html#a3519b281545e348167893060c2aa352c", null ],
-    [ "~ZoneScript", "d8/daf/a09806.html#af4aa4d8f6b48d7d63fb6daa85d50c756", null ],
-    [ "GetCreatureEntry", "d8/daf/a09806.html#a8cabd274bffe18004c3fced46ae325b0", null ],
-    [ "GetData", "d8/daf/a09806.html#a8997612fdbdacbf5e28e4de60d03e805", null ],
-    [ "GetData64", "d8/daf/a09806.html#ab7aecf55fb84288840465dd69eacc8eb", null ],
-    [ "GetGameObjectEntry", "d8/daf/a09806.html#a3101d469bb171957177011fc0a76999b", null ],
-    [ "GetGuidData", "d8/daf/a09806.html#aa1483a9ca7f97cef589dd141d669cc46", null ],
-    [ "OnCreatureCreate", "d8/daf/a09806.html#ae61020e57e9ca8ae0d42a51e39b1fee0", null ],
-    [ "OnCreatureEvade", "d8/daf/a09806.html#a8113c8738b772b740dbc7a2352637669", null ],
-    [ "OnCreatureRemove", "d8/daf/a09806.html#adf80a1b08c7ab4451cd6967138727b56", null ],
-    [ "OnGameObjectCreate", "d8/daf/a09806.html#afa02089edff085ecd4eb7178b94ffe26", null ],
-    [ "OnGameObjectRemove", "d8/daf/a09806.html#a61c1ab81f65b4bfdf638eec002cb498c", null ],
-    [ "OnUnitDeath", "d8/daf/a09806.html#afaf1aecaaaac82508b8f1c50712b8204", null ],
-    [ "ProcessEvent", "d8/daf/a09806.html#ab32f7102df50af48e43f544bd107f964", null ],
-    [ "SetData", "d8/daf/a09806.html#a949e67ea24c7e4b70a20806952735576", null ],
-    [ "SetData64", "d8/daf/a09806.html#a321c2fc00f1d3d261a4887a1e74f4244", null ],
-    [ "SetGuidData", "d8/daf/a09806.html#ac465d5e7d00a7e3b935942f1627763f4", null ]
+    [ "MapUpdateRequest", "d8/daf/a09806.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
+    [ "call", "d8/daf/a09806.html#a2cb96db357347d47596725e5c345b02f", null ],
+    [ "m_diff", "d8/daf/a09806.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
+    [ "m_map", "d8/daf/a09806.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
+    [ "m_updater", "d8/daf/a09806.html#aeb063738175aa8ddc751290f922ffef2", null ],
+    [ "s_diff", "d8/daf/a09806.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
 ];

@@ -1,5 +1,6 @@
 var a15102 =
 [
-    [ "at_battleguard_sartura", "d3/d85/a15102.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
-    [ "OnTrigger", "d3/d85/a15102.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
+    [ "OnPeriodic", "d3/d85/a15102.html#a5945e24db52c6bacae7221b085dc877b", null ],
+    [ "PrepareAuraScript", "d3/d85/a15102.html#acc987aa864a8333de7bd0b770eb9018d", null ],
+    [ "Register", "d3/d85/a15102.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
 ];

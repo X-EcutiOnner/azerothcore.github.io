@@ -1,7 +1,10 @@
 var a16226 =
 [
-    [ "npc_toc_shamanAI", "d5/dd5/a16226.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
-    [ "myCanCast", "d5/dd5/a16226.html#a993739662d2687c27219853669b8a485", null ],
-    [ "UpdateAI", "d5/dd5/a16226.html#a2ad17245685feb3f085ef9a669459c61", null ],
-    [ "events", "d5/dd5/a16226.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
+    [ "npc_nerubian_burrowerAI", "d5/dd5/a16226.html#a7673709e7b16a6573d9c7392ba556313", null ],
+    [ "CanAIAttack", "d5/dd5/a16226.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
+    [ "JustDied", "d5/dd5/a16226.html#ab5182ad65187c472b306e2177530d7b6", null ],
+    [ "Reset", "d5/dd5/a16226.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
+    [ "SpellHitTarget", "d5/dd5/a16226.html#a64fa2c8276f7418542190e833dd72c51", null ],
+    [ "UpdateAI", "d5/dd5/a16226.html#abd2c7333625ded502a00848b09ee9a40", null ],
+    [ "events", "d5/dd5/a16226.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
 ];

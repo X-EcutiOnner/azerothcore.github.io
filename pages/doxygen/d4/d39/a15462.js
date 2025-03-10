@@ -1,7 +1,7 @@
 var a15462 =
 [
-    [ "npc_giltharesAI", "d7/d5a/a15466.html", "d7/d5a/a15466" ],
-    [ "npc_gilthares", "d4/d39/a15462.html#af1e0746350b32b68825710e1c3ed91a5", null ],
-    [ "GetAI", "d4/d39/a15462.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
-    [ "OnQuestAccept", "d4/d39/a15462.html#a018cc6240a79216acb371241f63e3234", null ]
+    [ "npc_kaya_flathoofAI", "d7/d5a/a15466.html", "d7/d5a/a15466" ],
+    [ "npc_kaya_flathoof", "d4/d39/a15462.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
+    [ "GetAI", "d4/d39/a15462.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
+    [ "OnQuestAccept", "d4/d39/a15462.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
 ];

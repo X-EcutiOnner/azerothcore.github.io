@@ -1,6 +1,5 @@
 var a20174 =
 [
-    [ "boss_kologarn_armsAI", "dd/dc5/a20178.html", "dd/dc5/a20178" ],
-    [ "boss_kologarn_arms", "d6/dee/a20174.html#ad540d28bb4b8a2be0ca0769f114c3eda", null ],
-    [ "GetAI", "d6/dee/a20174.html#a9ffe4db97d937e01c5ab2008a011f67d", null ]
+    [ "achievement_staying_buffed_all_winter_25", "d6/dee/a20174.html#a91f0ab3bada837cff6414350b98a27a3", null ],
+    [ "OnCheck", "d6/dee/a20174.html#a36591082184bc8466e124bad9a910545", null ]
 ];

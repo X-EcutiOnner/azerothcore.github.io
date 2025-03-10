@@ -1,8 +1,7 @@
 var a12794 =
 [
-    [ "npc_dkc1_gothikAI", "d8/d68/a12794.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "d8/d68/a12794.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "d8/d68/a12794.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "d8/d68/a12794.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "d8/d68/a12794.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "HandleScriptEffect", "d8/d68/a12794.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "d8/d68/a12794.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "d8/d68/a12794.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "d8/d68/a12794.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

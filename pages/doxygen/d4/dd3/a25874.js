@@ -1,8 +1,5 @@
 var a25874 =
 [
-    [ "HandleDummy", "d4/dd3/a25874.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
-    [ "PrepareSpellScript", "d4/dd3/a25874.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
-    [ "Register", "d4/dd3/a25874.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
-    [ "Validate", "d4/dd3/a25874.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
-    [ "PolymorhForms", "d4/dd3/a25874.html#a1443d2532a060514e697a8d5e0c21b20", null ]
+    [ "Trigger", "d4/dd3/a25874.html#aa16aba75a066e83cb56660a0e29e7453", null ],
+    [ "Validate", "d4/dd3/a25874.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
 ];

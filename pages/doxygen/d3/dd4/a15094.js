@@ -1,6 +1,6 @@
 var a15094 =
 [
-    [ "HandleDummy", "d3/dd4/a15094.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "d3/dd4/a15094.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "d3/dd4/a15094.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "aqsentinelAI", "d4/dcc/a15098.html", "d4/dcc/a15098" ],
+    [ "npc_anubisath_sentinel", "d3/dd4/a15094.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
+    [ "GetAI", "d3/dd4/a15094.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
 ];

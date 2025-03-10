@@ -1,7 +1,6 @@
 var a21058 =
 [
-    [ "HandleScript", "dd/d61/a21058.html#a47b991c20c523d151893fefd9d487714", null ],
-    [ "PrepareSpellScript", "dd/d61/a21058.html#ab2db47d0a2694c0734db600e810e190d", null ],
-    [ "Register", "dd/d61/a21058.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
-    [ "Validate", "dd/d61/a21058.html#a89d601f6036fe38238767281f3427e54", null ]
+    [ "npc_ritual_channelerAI", "da/db3/a21062.html", "da/db3/a21062" ],
+    [ "npc_ritual_channeler", "dd/d61/a21058.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "dd/d61/a21058.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

@@ -1,7 +1,7 @@
 var a25350 =
 [
-    [ "HandleScriptEffect", "d8/d76/a25350.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
-    [ "PrepareSpellScript", "d8/d76/a25350.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
-    [ "Register", "d8/d76/a25350.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
-    [ "SelectTarget", "d8/d76/a25350.html#a6a59b7ce696f959b2026cf8088079e89", null ]
+    [ "FilterTargets", "d8/d76/a25350.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "d8/d76/a25350.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "d8/d76/a25350.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "d8/d76/a25350.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

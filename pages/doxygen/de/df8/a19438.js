@@ -1,6 +1,12 @@
 var a19438 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "d2/d34/a19442.html", "d2/d34/a19442" ],
-    [ "boss_sjonnir_malformed_ooze", "de/df8/a19438.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "de/df8/a19438.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "boss_krystallusAI", "de/df8/a19438.html#adfa2ab8498279937bf497292d6e7cba5", null ],
+    [ "JustDied", "de/df8/a19438.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
+    [ "JustEngagedWith", "de/df8/a19438.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
+    [ "KilledUnit", "de/df8/a19438.html#acf9101c5b776820039fd80e5d6e0c138", null ],
+    [ "RemoveStonedEffect", "de/df8/a19438.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
+    [ "Reset", "de/df8/a19438.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
+    [ "UpdateAI", "de/df8/a19438.html#a79095e25f1d9dac927f63cef67db60ec", null ],
+    [ "events", "de/df8/a19438.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
+    [ "pInstance", "de/df8/a19438.html#aec9cf7053476298f72dccf3bd1579c63", null ]
 ];

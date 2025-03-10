@@ -1,8 +1,6 @@
 var a27378 =
 [
-    [ "npc_chicken_cluckAI", "df/d1b/a27382.html", "df/d1b/a27382" ],
-    [ "npc_chicken_cluck", "d8/d64/a27378.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "d8/d64/a27378.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "d8/d64/a27378.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "d8/d64/a27378.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "npc_taxi", "d8/d64/a27378.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "d8/d64/a27378.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "d8/d64/a27378.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

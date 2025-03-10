@@ -1,6 +1,6 @@
 var a17662 =
 [
-    [ "UnboundPlagueTargetSelector", "d4/daa/a17662.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "d4/daa/a17662.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "d4/daa/a17662.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "npc_coldflameAI", "db/dfc/a17666.html", "db/dfc/a17666" ],
+    [ "npc_coldflame", "d4/daa/a17662.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "d4/daa/a17662.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

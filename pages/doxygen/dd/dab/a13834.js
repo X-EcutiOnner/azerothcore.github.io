@@ -1,7 +1,6 @@
 var a13834 =
 [
-    [ "OnRemove", "dd/dab/a13834.html#ab909660f32a77e86fde5da35e2f69302", null ],
-    [ "PrepareAuraScript", "dd/dab/a13834.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
-    [ "Register", "dd/dab/a13834.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
-    [ "Validate", "dd/dab/a13834.html#abd1254c53c04f72f848d8641affc729d", null ]
+    [ "boss_grilekAI", "d8/da6/a13838.html", "d8/da6/a13838" ],
+    [ "boss_grilek", "dd/dab/a13834.html#acffe0061db18c5725c8c290822c5fed7", null ],
+    [ "GetAI", "dd/dab/a13834.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
 ];

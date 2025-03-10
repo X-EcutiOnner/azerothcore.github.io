@@ -1,6 +1,7 @@
 var a24182 =
 [
-    [ "npc_pet_dk_ghoulAI", "d1/dea/a24186.html", "d1/dea/a24186" ],
-    [ "npc_pet_dk_ghoul", "d6/d4b/a24182.html#ac8af6ae753151a08e80d434a04ef58db", null ],
-    [ "GetAI", "d6/d4b/a24182.html#a74b068bdccf5d9b25b4ef3bff0a193ef", null ]
+    [ "HandleSendEvent", "d6/d4b/a24182.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
+    [ "PrepareSpellScript", "d6/d4b/a24182.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
+    [ "Register", "d6/d4b/a24182.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
+    [ "Validate", "d6/d4b/a24182.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
 ];

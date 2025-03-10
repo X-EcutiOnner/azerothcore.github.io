@@ -1,6 +1,9 @@
 var a22186 =
 [
-    [ "npc_wg_siege_machineAI", "de/d50/a22190.html", "de/d50/a22190" ],
-    [ "npc_wg_siege_machine", "d0/dfc/a22186.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
-    [ "GetAI", "d0/dfc/a22186.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
+    [ "npc_hyldsmeet_protodrakeAI", "de/d50/a22190.html", "de/d50/a22190" ],
+    [ "NPCs", "d0/dfc/a22186.html#a8f2ea95c836ba6bab370301fbf3e6822", [
+      [ "NPC_HYLDSMEET_DRAKERIDER", "d0/dfc/a22186.html#a8f2ea95c836ba6bab370301fbf3e6822a1b77c38a75142cff5392a89db3e765df", null ]
+    ] ],
+    [ "npc_hyldsmeet_protodrake", "d0/dfc/a22186.html#a2471f1d858d7ae8f801208e35860a95e", null ],
+    [ "GetAI", "d0/dfc/a22186.html#a791e5cff3901f9a3ec365d4049b82d25", null ]
 ];

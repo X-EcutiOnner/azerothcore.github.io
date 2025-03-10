@@ -1,6 +1,6 @@
 var a15518 =
 [
-    [ "HandleDummy", "d3/d56/a15518.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "d3/d56/a15518.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "d3/d56/a15518.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_twiggy_flatheadAI", "d4/d78/a15522.html", "d4/d78/a15522" ],
+    [ "npc_twiggy_flathead", "d3/d56/a15518.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
+    [ "GetAI", "d3/d56/a15518.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
 ];

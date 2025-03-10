@@ -1,9 +1,6 @@
 var a19570 =
 [
-    [ "CheckTargets", "d8/d11/a19570.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "d8/d11/a19570.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "d8/d11/a19570.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "d8/d11/a19570.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "d8/d11/a19570.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "d8/d11/a19570.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "npc_living_constellationAI", "d1/d5e/a19574.html", "d1/d5e/a19574" ],
+    [ "npc_living_constellation", "d8/d11/a19570.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
+    [ "GetAI", "d8/d11/a19570.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
 ];

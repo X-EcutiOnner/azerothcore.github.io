@@ -1,14 +1,6 @@
 var a19150 =
 [
-    [ "boss_keristrasza", "da/d2c/a19150.html#a5f83fee9a5616751601f0c1155afab36", null ],
-    [ "CanRemovePrison", "da/d2c/a19150.html#a900a4a8428a04b880462b20196e94858", null ],
-    [ "GetData", "da/d2c/a19150.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
-    [ "JustDied", "da/d2c/a19150.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
-    [ "JustEngagedWith", "da/d2c/a19150.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
-    [ "KilledUnit", "da/d2c/a19150.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
-    [ "RemovePrison", "da/d2c/a19150.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
-    [ "Reset", "da/d2c/a19150.html#a13dce974fa83577397a80ff52de5d835", null ],
-    [ "SetData", "da/d2c/a19150.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
-    [ "UpdateAI", "da/d2c/a19150.html#a46a2e61e27cc72710c7aa14212673eae", null ],
-    [ "aGuids", "da/d2c/a19150.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
+    [ "npc_eoe_wyrmrest_skytalonAI", "d0/d2e/a19154.html", "d0/d2e/a19154" ],
+    [ "npc_eoe_wyrmrest_skytalon", "da/d2c/a19150.html#a55685de624b277840f8fc0c397b8aebf", null ],
+    [ "GetAI", "da/d2c/a19150.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
 ];

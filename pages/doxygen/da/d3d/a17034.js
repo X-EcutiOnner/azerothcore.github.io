@@ -1,7 +1,10 @@
 var a17034 =
 [
-    [ "HandleApplyAura", "da/d3d/a17034.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
-    [ "PrepareSpellScript", "da/d3d/a17034.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
-    [ "Register", "da/d3d/a17034.html#a80638966202cb9e27d204ea621e379ef", null ],
-    [ "Validate", "da/d3d/a17034.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
+    [ "boss_drakkari_elementalAI", "da/d3d/a17034.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
+    [ "DoAction", "da/d3d/a17034.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
+    [ "JustDied", "da/d3d/a17034.html#aec2878e51a12749914e3a30c0ddea900", null ],
+    [ "JustEngagedWith", "da/d3d/a17034.html#a75cbf6a164ab4337f86b600541c563f2", null ],
+    [ "Reset", "da/d3d/a17034.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
+    [ "UpdateAI", "da/d3d/a17034.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
+    [ "events", "da/d3d/a17034.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
 ];

@@ -1,8 +1,5 @@
 var a12766 =
 [
-    [ "npc_death_knight_initiateAI", "df/d3f/a12770.html", "df/d3f/a12770" ],
-    [ "npc_death_knight_initiate", "d3/db0/a12766.html#a0c1b552035bed7be9af1fbdf8205b4b6", null ],
-    [ "GetAI", "d3/db0/a12766.html#ac38e0ed0ea1eac8e0de6f08664cb095a", null ],
-    [ "OnGossipHello", "d3/db0/a12766.html#a24f1b91ad0a69e4468e812747225d303", null ],
-    [ "OnGossipSelect", "d3/db0/a12766.html#ab0712bc84003b5eb72f11b49ef6e57a7", null ]
+    [ "boss_apoko", "d3/db0/a12766.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
+    [ "JustEngagedWith", "d3/db0/a12766.html#a7ad52b258863bd818b3e5d1143de7629", null ]
 ];

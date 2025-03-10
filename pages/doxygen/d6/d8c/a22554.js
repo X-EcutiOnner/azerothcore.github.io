@@ -1,20 +1,7 @@
 var a22554 =
 [
-    [ "boss_illidan_stormrage", "d6/d8c/a22554.html#a87e74bda2af623ba5c70911a033c6d6f", null ],
-    [ "CanAIAttack", "d6/d8c/a22554.html#a9607a9a09df9d07ebae0513458435b4d", null ],
-    [ "CycleBeamPos", "d6/d8c/a22554.html#a2044514c049262328022ac22a651fb92", null ],
-    [ "DamageTaken", "d6/d8c/a22554.html#ad568e3993f74ad0dd0b2f4e630fcb7f1", null ],
-    [ "DoAction", "d6/d8c/a22554.html#aad32a8fab5f1ca21824790d2da4d086b", null ],
-    [ "EnterEvadeMode", "d6/d8c/a22554.html#ab07e90f48ee9e84298b24b8e7cdb192f", null ],
-    [ "JustDied", "d6/d8c/a22554.html#a4d38abd8885862e31a88da4de754e35d", null ],
-    [ "JustEngagedWith", "d6/d8c/a22554.html#aa2d516aea252d55307c9f98212e7ee5e", null ],
-    [ "JustSummoned", "d6/d8c/a22554.html#a2c642790b16d864ae100b5e8f30e4e61", null ],
-    [ "KilledUnit", "d6/d8c/a22554.html#abf29f9607351d35953d8d0e97779c3f9", null ],
-    [ "MovementInform", "d6/d8c/a22554.html#acdd75f289288b3e6de4136267d490519", null ],
-    [ "Reset", "d6/d8c/a22554.html#aa5eb94712f886e821630535cb2970dfe", null ],
-    [ "ScheduleAbilities", "d6/d8c/a22554.html#af230387ddbd1b270e1be69133f4bae38", null ],
-    [ "_canTalk", "d6/d8c/a22554.html#abaf0cca3f159aae572203254c41444a3", null ],
-    [ "_dying", "d6/d8c/a22554.html#af312452020938736624496d9f6a76d28", null ],
-    [ "_inCutscene", "d6/d8c/a22554.html#a715525706b44dbc53847e639f3b15d3a", null ],
-    [ "beamPosId", "d6/d8c/a22554.html#a6168b84bfb49781736fa2accf5225808", null ]
+    [ "npc_voidtraveler", "d6/d8c/a22554.html#a07e473c14836a0612acd52078a93f2d8", null ],
+    [ "Reset", "d6/d8c/a22554.html#a6efe0725917c92657220de2b60579289", null ],
+    [ "UpdateAI", "d6/d8c/a22554.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
+    [ "_scheduler", "d6/d8c/a22554.html#a1809494e7803103f6bc1698e780dcfbc", null ]
 ];

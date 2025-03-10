@@ -1,9 +1,6 @@
 var a25930 =
 [
-    [ "Load", "d2/ddc/a25930.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "d2/ddc/a25930.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "d2/ddc/a25930.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "d2/ddc/a25930.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "d2/ddc/a25930.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "d2/ddc/a25930.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "CheckProc", "d2/ddc/a25930.html#a5b8ee53249a19954e4d46b17422207d5", null ],
+    [ "PrepareAuraScript", "d2/ddc/a25930.html#a2640f58f3e7442c37615b61ecf938a6f", null ],
+    [ "Register", "d2/ddc/a25930.html#a55be2362ac226caa615e07a2a3b5ea38", null ]
 ];

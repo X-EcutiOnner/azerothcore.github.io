@@ -1,5 +1,5 @@
 var a22342 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "d6/d3b/a22342.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
-    [ "GetOutdoorPvP", "d6/d3b/a22342.html#aee93a8191457d7a264053809a5c082e8", null ]
+    [ "go_scourge_enclosure", "d6/d3b/a22342.html#a3611232cb735f336087d4d3c90f66b8d", null ],
+    [ "OnGossipHello", "d6/d3b/a22342.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
 ];

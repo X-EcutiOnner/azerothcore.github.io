@@ -1,7 +1,6 @@
 var a17230 =
 [
-    [ "OnProc", "d2/dea/a17230.html#a5b6e96abb900da33657cdbbd137138e3", null ],
-    [ "PrepareAuraScript", "d2/dea/a17230.html#a5502476536a923e77af67c4bbcf005e3", null ],
-    [ "Register", "d2/dea/a17230.html#aca08edf219504156d6157c95702bb815", null ],
-    [ "Validate", "d2/dea/a17230.html#a52b1231f37e8b3d810614365659a98b6", null ]
+    [ "PrepareSpellScript", "d2/dea/a17230.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "d2/dea/a17230.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "d2/dea/a17230.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

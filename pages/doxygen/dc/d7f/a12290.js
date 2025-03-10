@@ -1,6 +1,7 @@
 var a12290 =
 [
-    [ "npc_garr_fireswornAI", "d1/d37/a12294.html", "d1/d37/a12294" ],
-    [ "npc_garr_firesworn", "dc/d7f/a12290.html#a54c8f5daab9b8c4e1e7ff5d7777fcddf", null ],
-    [ "GetAI", "dc/d7f/a12290.html#a07e47767a44d3613f8cba2c3dfb1d14e", null ]
+    [ "HandleEffectScriptEffect", "dc/d7f/a12290.html#a8157c4b213b3b4e260222976e283e2ae", null ],
+    [ "PrepareSpellScript", "dc/d7f/a12290.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
+    [ "Register", "dc/d7f/a12290.html#aeda056b568b4956ba35b32a3f20c053e", null ],
+    [ "Validate", "dc/d7f/a12290.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
 ];

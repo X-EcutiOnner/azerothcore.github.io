@@ -1,6 +1,10 @@
 var a05850 =
 [
-    [ "CheckExecutable", "da/d81/a05850.html#a65cf44a18a72ba92f91a667e41f9da80", null ],
-    [ "corrected_path", "da/d81/a05850.html#a31499b458f0ff0ec518980f51d6a242a", null ],
-    [ "GetCorrectedMySQLExecutable", "da/d81/a05850.html#a8ab8efffe5408f97f438e06766f65ec9", null ]
+    [ "TransactionCallback", "da/d81/a05850.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
+    [ "TransactionCallback", "da/d81/a05850.html#adeff62976c11d9d90169e4650640118b", null ],
+    [ "AfterComplete", "da/d81/a05850.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
+    [ "InvokeIfReady", "da/d81/a05850.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
+    [ "operator=", "da/d81/a05850.html#ab73d1741c21ea9fd86f65a647768e972", null ],
+    [ "m_callback", "da/d81/a05850.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
+    [ "m_future", "da/d81/a05850.html#a381e889074bc5ca48574d37fe6eea00f", null ]
 ];

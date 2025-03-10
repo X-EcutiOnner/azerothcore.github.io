@@ -1,7 +1,8 @@
 var a26730 =
 [
-    [ "FilterTargets", "d9/d67/a26730.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
-    [ "PrepareSpellScript", "d9/d67/a26730.html#a954f00317eab544dd57e657368aab7fb", null ],
-    [ "Register", "d9/d67/a26730.html#a1804684c8685372faf2e88e56b48f5be", null ],
-    [ "Validate", "d9/d67/a26730.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
+    [ "ApplyEffect", "d9/d67/a26730.html#a0c303c58064236969e17d1f2df3e0556", null ],
+    [ "PrepareAuraScript", "d9/d67/a26730.html#a716a483282946f840ac15d73c6e21a94", null ],
+    [ "Register", "d9/d67/a26730.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
+    [ "RemoveEffect", "d9/d67/a26730.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
+    [ "Validate", "d9/d67/a26730.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
 ];

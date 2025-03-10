@@ -1,7 +1,7 @@
 var a09422 =
 [
-    [ "PowerCheck", "d6/d42/a09422.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
-    [ "operator()", "d6/d42/a09422.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
-    [ "_equals", "d6/d42/a09422.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
-    [ "_power", "d6/d42/a09422.html#a922a57b62b4289835b539a69b0f58fa1", null ]
+    [ "ObjectTypeIdCheck", "d6/d42/a09422.html#a40af6d4d15e92aaaf2c9bb53ce9bb290", null ],
+    [ "operator()", "d6/d42/a09422.html#a9cbd09a6021bef7819a0002952264293", null ],
+    [ "_equals", "d6/d42/a09422.html#ab08a6e18731ccb822a71a1530f6966c3", null ],
+    [ "_typeId", "d6/d42/a09422.html#a70e9a07e4c2c559bc55b8003db3af3be", null ]
 ];

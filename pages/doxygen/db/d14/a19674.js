@@ -1,5 +1,6 @@
 var a19674 =
 [
-    [ "achievement_auriaya_crazy_cat_lady", "db/d14/a19674.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
-    [ "OnCheck", "db/d14/a19674.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
+    [ "HandleInstaKill", "db/d14/a19674.html#a9371a2cc86616fd04e47939d45f01cae", null ],
+    [ "PrepareSpellScript", "db/d14/a19674.html#a38eed301f1db3ea7ac15b626e5927500", null ],
+    [ "Register", "db/d14/a19674.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
 ];

@@ -1,8 +1,6 @@
 var a10702 =
 [
-    [ "PlayObjectSound", "d3/d32/a10702.html#ab322044d36abddeb2fafbf99261bb70b", null ],
-    [ "PlayObjectSound", "d3/d32/a10702.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
-    [ "Write", "d3/d32/a10702.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
-    [ "SoundKitID", "d3/d32/a10702.html#a5e794706b8793d164a1189e9a6918735", null ],
-    [ "SourceObjectGUID", "d3/d32/a10702.html#a82b226eba66e569c1f377f529e511361", null ]
+    [ "GuildSetGuildMaster", "d3/d32/a10702.html#ae6ca07252de719cc506042c8d3e8285e", null ],
+    [ "Read", "d3/d32/a10702.html#a94f16e55a840c7cba991a119af5d8263", null ],
+    [ "NewMasterName", "d3/d32/a10702.html#a02f37610492c75373266bb93000adcbf", null ]
 ];

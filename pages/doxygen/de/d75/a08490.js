@@ -1,5 +1,6 @@
 var a08490 =
 [
-    [ "PlayerLevelInfo", "de/d75/a08490.html#af0d716577a3645fe1cef95968382ec80", null ],
-    [ "stats", "de/d75/a08490.html#a796af7d07604474adebf5a6f3518ca30", null ]
+    [ "PlayerCreateInfoItem", "de/d75/a08490.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
+    [ "item_amount", "de/d75/a08490.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
+    [ "item_id", "de/d75/a08490.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
 ];

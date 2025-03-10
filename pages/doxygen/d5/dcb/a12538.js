@@ -1,28 +1,7 @@
 var a12538 =
 [
-    [ "boss_nightbane", "d5/dcb/a12538.html#a14e8d2773f75c8464a725c4c0e29789f", null ],
-    [ "AttackStart", "d5/dcb/a12538.html#a1709459f82758e690b6f5f667ac113b2", null ],
-    [ "DamageTaken", "d5/dcb/a12538.html#ae49cca4df3d3e4671fcd29d0ff80b820", null ],
-    [ "DoAction", "d5/dcb/a12538.html#aa27b56f7248f504d9a79de0f5f104961", null ],
-    [ "EnterEvadeMode", "d5/dcb/a12538.html#a0bf6d0a9bc0be2532f5d367758f03446", null ],
-    [ "FlyToClosestPreFlyWayPoint", "d5/dcb/a12538.html#affc0741ba52bdb3af2f3ca1ba65e5d16", null ],
-    [ "JustEngagedWith", "d5/dcb/a12538.html#add269fc76dc2094109261d654e0cb75b", null ],
-    [ "JustReachedHome", "d5/dcb/a12538.html#a867c09a5802d402db3a4dca7584b6d85", null ],
-    [ "JustSummoned", "d5/dcb/a12538.html#aebe3a054846638cb704537bb6ae8df26", null ],
-    [ "MoveInLineOfSight", "d5/dcb/a12538.html#a2cdc3d7e7f83391eaf96e92f20ea703b", null ],
-    [ "MovementInform", "d5/dcb/a12538.html#aebfd407ada0b093a22ba50fbfb22dc0c", null ],
-    [ "PathEndReached", "d5/dcb/a12538.html#a96d7a6c7fd756c78cb528b738e2f15e6", null ],
-    [ "Reset", "d5/dcb/a12538.html#a16e5dba8c2187d2f8b175360f40c299c", null ],
-    [ "ScheduleFly", "d5/dcb/a12538.html#a536b576c59bfe91e88823634978e174d", null ],
-    [ "ScheduleGround", "d5/dcb/a12538.html#aab88cfbfbf9bdb347683b6c49ee455ee", null ],
-    [ "ScheduleLand", "d5/dcb/a12538.html#a9a42862b459b6447a0a3b59828515337", null ],
-    [ "TriggerHealthTakeOff", "d5/dcb/a12538.html#a7973791c2410f57ed9bc72b151a35419", null ],
-    [ "UpdateAI", "d5/dcb/a12538.html#afc9746671aab95918269375a672ecbed", null ],
-    [ "_airPhasesCompleted", "d5/dcb/a12538.html#a097feecad913478440092a818b6b6f38", null ],
-    [ "_phase", "d5/dcb/a12538.html#ae15a984403ef5ef27b58400dbc92777d", null ],
-    [ "_skeletonCount", "d5/dcb/a12538.html#a2588f568133a843cb2bd6ef97794a03f", null ],
-    [ "_skeletonscheduler", "d5/dcb/a12538.html#aff6649c16f1c929325e1941479569fc1", null ],
-    [ "_skeletonSpawnCounter", "d5/dcb/a12538.html#a39ed84d01215f9f8427e5c599e424927", null ],
-    [ "_skeletonSpawnPos", "d5/dcb/a12538.html#a28ded4432525290ff7e81d03545d46cf", null ],
-    [ "_triggerCountTakeOffWhileFlying", "d5/dcb/a12538.html#a55a8cf6e293b0c7ad3865340412aa31e", null ]
+    [ "boss_maiden_of_virtue", "d5/dcb/a12538.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "d5/dcb/a12538.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "d5/dcb/a12538.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "d5/dcb/a12538.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

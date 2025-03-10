@@ -1,7 +1,6 @@
 var a12362 =
 [
-    [ "HandleHit", "db/d6b/a12362.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
-    [ "Load", "db/d6b/a12362.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
-    [ "PrepareSpellScript", "db/d6b/a12362.html#a9fb8d980381264a2ef645f2e620abd21", null ],
-    [ "Register", "db/d6b/a12362.html#a4998015873f0e0ca768c20b0f95fda90", null ]
+    [ "boss_lucifronAI", "d0/de8/a12366.html", "d0/de8/a12366" ],
+    [ "boss_lucifron", "db/d6b/a12362.html#aa54be5c49a77524b036c167dbb6d81ea", null ],
+    [ "GetAI", "db/d6b/a12362.html#a885366d4190bbc77dc696ee6910435ed", null ]
 ];

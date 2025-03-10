@@ -1,134 +1,65 @@
 var a04319 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunny", "db/d28/a23796.html", "db/d28/a23796" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny::npc_deaths_door_fell_cannon_target_bunnyAI", "d4/d88/a23800.html", "d4/d88/a23800" ],
-    [ "npc_deaths_fel_cannon", "d6/dfa/a23804.html", "d6/dfa/a23804" ],
-    [ "npc_deaths_fel_cannon::npc_deaths_fel_cannonAI", "d5/d78/a23808.html", "d5/d78/a23808" ],
-    [ "spell_npc22275_crystal_prison_aura", "d7/dee/a23812.html", "d7/dee/a23812" ],
-    [ "npc_nether_drake", "d1/d36/a23816.html", "d1/d36/a23816" ],
-    [ "npc_nether_drake::npc_nether_drakeAI", "d6/d0a/a23820.html", "d6/d0a/a23820" ],
-    [ "npc_daranelle", "d8/daf/a23824.html", "d8/daf/a23824" ],
-    [ "npc_daranelle::npc_daranelleAI", "d2/d36/a23828.html", "d2/d36/a23828" ],
-    [ "npc_simon_bunny", "d4/dce/a23832.html", "d4/dce/a23832" ],
-    [ "npc_simon_bunny::npc_simon_bunnyAI", "d7/db3/a23836.html", "d7/db3/a23836" ],
-    [ "go_simon_cluster", "d6/da0/a23840.html", "d6/da0/a23840" ],
-    [ "go_apexis_relic", "da/d34/a23844.html", "da/d34/a23844" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "d3/d00/a23848.html", "d3/d00/a23848" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny::npc_oscillating_frequency_scanner_master_bunnyAI", "dc/dae/a23852.html", "dc/dae/a23852" ],
-    [ "spell_oscillating_field", "da/d4e/a23856.html", "da/d4e/a23856" ],
-    [ "ApexisRelic", "de/dc3/a04319.html#a32106fd918c3a95e8212706d6f501fa7", [
-      [ "QUEST_CRYSTALS", "de/dc3/a04319.html#a32106fd918c3a95e8212706d6f501fa7a5d3aa2b43141d2bd250bb05d36b4d4e2", null ],
-      [ "GOSSIP_TEXT_ID", "de/dc3/a04319.html#a32106fd918c3a95e8212706d6f501fa7a7d63e7dd55ad04e5e4c03efa7a5aee52", null ],
-      [ "ITEM_APEXIS_SHARD", "de/dc3/a04319.html#a32106fd918c3a95e8212706d6f501fa7a2864ea57df0f86936358c799a5c2f335", null ],
-      [ "SPELL_TAKE_REAGENTS_SOLO", "de/dc3/a04319.html#a32106fd918c3a95e8212706d6f501fa7a6d2e1e704c721d5271c46fda584e4131", null ],
-      [ "SPELL_TAKE_REAGENTS_GROUP", "de/dc3/a04319.html#a32106fd918c3a95e8212706d6f501fa7a8d813765e4b1f0abceeaf81866e415d6", null ]
+    [ "spell_q10935_the_exorcism_of_colonel_jules", "d6/d3d/a23886.html", "d6/d3d/a23886" ],
+    [ "npc_aeranas", "d6/d23/a23890.html", "d6/d23/a23890" ],
+    [ "npc_aeranas::npc_aeranasAI", "d9/dd6/a23894.html", "d9/dd6/a23894" ],
+    [ "npc_ancestral_wolf", "d2/db5/a23898.html", "d2/db5/a23898" ],
+    [ "npc_ancestral_wolf::npc_ancestral_wolfAI", "d8/d38/a23902.html", "d8/d38/a23902" ],
+    [ "npc_wounded_blood_elf", "db/dbb/a23906.html", "db/dbb/a23906" ],
+    [ "npc_wounded_blood_elf::npc_wounded_blood_elfAI", "d3/d1f/a23910.html", "d3/d1f/a23910" ],
+    [ "npc_fel_guard_hound", "dc/dd9/a23914.html", "dc/dd9/a23914" ],
+    [ "npc_fel_guard_hound::npc_fel_guard_houndAI", "d8/d26/a23918.html", "d8/d26/a23918" ],
+    [ "npc_magister_aledis", "df/da9/a23922.html", "df/da9/a23922" ],
+    [ "go_beacon", "d0/d14/a23926.html", "d0/d14/a23926" ],
+    [ "go_beacon::go_beaconAI", "d6/d03/a23930.html", "d6/d03/a23930" ],
+    [ "go_magtheridons_head", "d5/dc6/a23934.html", "d5/dc6/a23934" ],
+    [ "Aeranas", "de/dc3/a04319.html#a35e86459585ec89189aab3acab8ed4ca", [
+      [ "SAY_SUMMON", "de/dc3/a04319.html#a35e86459585ec89189aab3acab8ed4caacebbfa1f13b8de4f039f5d550063c7bf", null ],
+      [ "SAY_FREE", "de/dc3/a04319.html#a35e86459585ec89189aab3acab8ed4caa27368277122194007f925387131a1eb9", null ],
+      [ "SPELL_ENVELOPING_WINDS", "de/dc3/a04319.html#a35e86459585ec89189aab3acab8ed4caacf98b779c795324d47e44b043eeacf92", null ],
+      [ "SPELL_SHOCK", "de/dc3/a04319.html#a35e86459585ec89189aab3acab8ed4caa30aa4cac2f70a310466b3fb0f2d10eab", null ]
     ] ],
-    [ "CrystalPrison", "de/dc3/a04319.html#aefc6ea3dd72fc572a31cc8026d0354a6", [
-      [ "SPELL_CRYSTAL_SHATTER", "de/dc3/a04319.html#aefc6ea3dd72fc572a31cc8026d0354a6aecdca9d03b65fc24a624dd9393b06aa0", null ]
+    [ "Aledis", "de/dc3/a04319.html#a03c6f57f8a159946f896f5702ca14dce", [
+      [ "SAY_CHALLENGE", "de/dc3/a04319.html#a03c6f57f8a159946f896f5702ca14dcea3673de22d7f7ff97fa58d05bda2e1e19", null ],
+      [ "SAY_DEFEATED", "de/dc3/a04319.html#a03c6f57f8a159946f896f5702ca14dceac03c09df1ddcc4faeb33ce6334bdf677", null ],
+      [ "EVENT_TALK", "de/dc3/a04319.html#a03c6f57f8a159946f896f5702ca14dcead8d5fcaf7b3bfdd91e6337d222c1620f", null ],
+      [ "EVENT_ATTACK", "de/dc3/a04319.html#a03c6f57f8a159946f896f5702ca14dcea0ae9cb03e0fdc3b6ba005dcf01279360", null ],
+      [ "EVENT_EVADE", "de/dc3/a04319.html#a03c6f57f8a159946f896f5702ca14dceac76f74b24db9c237bcec4674c4783ca4", null ],
+      [ "EVENT_FIREBALL", "de/dc3/a04319.html#a03c6f57f8a159946f896f5702ca14dcea2f41794aafc9d878c1d2e3aa735cbf44", null ],
+      [ "EVENT_FROSTNOVA", "de/dc3/a04319.html#a03c6f57f8a159946f896f5702ca14dceadaeaec1cfb428809aea8f40a63d94a3e", null ],
+      [ "SPELL_FIREBALL", "de/dc3/a04319.html#a03c6f57f8a159946f896f5702ca14dcea846055c995374082714483a6b39bc963", null ],
+      [ "SPELL_FROSTNOVA", "de/dc3/a04319.html#a03c6f57f8a159946f896f5702ca14dcead434ff150c6b4a05fa0e2d914374690b", null ]
     ] ],
-    [ "Daranelle", "de/dc3/a04319.html#aaf4b2b8d646290a9472318e4df197fb7", [
-      [ "SAY_SPELL_INFLUENCE", "de/dc3/a04319.html#aaf4b2b8d646290a9472318e4df197fb7acf65879f88a01f55cc06c1cd4f7387e2", null ],
-      [ "SPELL_LASHHAN_CHANNEL", "de/dc3/a04319.html#aaf4b2b8d646290a9472318e4df197fb7af4188e02a9729c4f0cc1346b02b0974b", null ],
-      [ "SPELL_DISPELLING_ANALYSIS", "de/dc3/a04319.html#aaf4b2b8d646290a9472318e4df197fb7aa7faacab526844129afb603392e61249", null ],
-      [ "NPC_KALIRI_TOTEM", "de/dc3/a04319.html#aaf4b2b8d646290a9472318e4df197fb7a244e9a71b5bd2d8d5c171001590c1ea9", null ]
+    [ "AncestralWolf", "de/dc3/a04319.html#ae0ad636572003d2f340b9f5853329b31", [
+      [ "EMOTE_WOLF_LIFT_HEAD", "de/dc3/a04319.html#ae0ad636572003d2f340b9f5853329b31a3d71eb68225f60940079e2c6d5b848bb", null ],
+      [ "EMOTE_WOLF_HOWL", "de/dc3/a04319.html#ae0ad636572003d2f340b9f5853329b31a89cae72f3324d089afca2e6ec3bab2b0", null ],
+      [ "SAY_WOLF_WELCOME", "de/dc3/a04319.html#ae0ad636572003d2f340b9f5853329b31a129ec8cc004776adf7eede6faee16398", null ],
+      [ "SPELL_GUIDED_BY_THE_SPIRITS", "de/dc3/a04319.html#ae0ad636572003d2f340b9f5853329b31a49de5a0a57dffbeebdb91a8ad307328d", null ],
+      [ "NPC_RYGA", "de/dc3/a04319.html#ae0ad636572003d2f340b9f5853329b31a4c5c75439f08ad6a8f448db8931dd14d", null ]
     ] ],
-    [ "deathsdoorfell", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989f", [
-      [ "SPELL_ARTILLERY_ON_THE_WRAP_GATE", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989faf6a31544d62b604d79adbf3b5e5e7538", null ],
-      [ "SPELL_IMP_AURA", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989fa9c9645356a428e1741960e164925af74", null ],
-      [ "SPELL_HOUND_AURA", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989fa4696a878338dce014dad288b5985c0d8", null ],
-      [ "SPELL_EXPLOSION", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989fa0a7756a84f2f30a389576b6c33086973", null ],
-      [ "NPC_DEATHS_DOOR_FEL_CANNON_TARGET_BUNNY", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989fa60931902ba1577725f6f7ba986d71714", null ],
-      [ "NPC_DEATHS_DOOR_FEL_CANNON", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989fab38e2609d404bc5f85080ddfbe546ce8", null ],
-      [ "NPC_EXPLOSION_BUNNY", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989fa3a5cabe46707317810e95d78ba50f253", null ],
-      [ "NPC_FEL_IMP", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989faaa80ed24dc21154e02ed2f5f553cd836", null ],
-      [ "NPC_HOUND", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989fa67f02c977fbc9ba59db2084441cbfcab", null ],
-      [ "NPC_NORTH_GATE", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989faf5de1b8cbbcb90902662db63611c4590", null ],
-      [ "NPC_SOUTH_GATE", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989fafdbb4aeaecd73e85d6cb3f79844fc60c", null ],
-      [ "NPC_NORTH_GATE_CREDIT", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989fab059be6442b1fe7263888d587540b206", null ],
-      [ "NPC_SOUTH_GATE_CREDIT", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989fa7684a98229a2724d35c0e343bc86abd1", null ],
-      [ "GO_FIRE", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989faf2b7ce9fa1fc2c21d89c541fae996f0e", null ],
-      [ "GO_BIG_FIRE", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989fa0339431734e666eeccbcef9df943daeb", null ],
-      [ "EVENT_PARTY_TIMER", "de/dc3/a04319.html#ad2cbcccde158bb594439b8fbc724989fad3c653719fe5c965f746e89aa682ae35", null ]
+    [ "Beacon", "de/dc3/a04319.html#aa0353d38e414033b4eac645836037a9c", [
+      [ "NPC_STONESCHYE_WHELP", "de/dc3/a04319.html#aa0353d38e414033b4eac645836037a9ca735f9b0923e7a2f2b40c91e7bfd5a6c8", null ]
     ] ],
-    [ "Netherdrake", "de/dc3/a04319.html#a67a4bc47e4b4efea9056aba5e3c079e7", [
-      [ "SAY_NIHIL_1", "de/dc3/a04319.html#a67a4bc47e4b4efea9056aba5e3c079e7a797f54d0d464bbb96b4a1f649b569c38", null ],
-      [ "SAY_NIHIL_2", "de/dc3/a04319.html#a67a4bc47e4b4efea9056aba5e3c079e7a563ed89b46ef1e4e83dfbc2e107afbd4", null ],
-      [ "SAY_NIHIL_3", "de/dc3/a04319.html#a67a4bc47e4b4efea9056aba5e3c079e7aa06323f3475c60d56c3762e257499fa5", null ],
-      [ "SAY_NIHIL_4", "de/dc3/a04319.html#a67a4bc47e4b4efea9056aba5e3c079e7ac980286820840a221664dabfcb726d2f", null ],
-      [ "SAY_NIHIL_INTERRUPT", "de/dc3/a04319.html#a67a4bc47e4b4efea9056aba5e3c079e7a5f901d05ecf27732526767593c0f7fba", null ],
-      [ "ENTRY_WHELP", "de/dc3/a04319.html#a67a4bc47e4b4efea9056aba5e3c079e7a9d0a417b9cc050ac2def55b7d547b775", null ],
-      [ "ENTRY_PROTO", "de/dc3/a04319.html#a67a4bc47e4b4efea9056aba5e3c079e7a468edebb941f00217520eefcdfe3d68e", null ],
-      [ "ENTRY_ADOLE", "de/dc3/a04319.html#a67a4bc47e4b4efea9056aba5e3c079e7ab2faeebcb9085fcd5b538e8ccd74881e", null ],
-      [ "ENTRY_MATUR", "de/dc3/a04319.html#a67a4bc47e4b4efea9056aba5e3c079e7a06e8cf8bb83527dc849a8592824ef8fe", null ],
-      [ "ENTRY_NIHIL", "de/dc3/a04319.html#a67a4bc47e4b4efea9056aba5e3c079e7a874851cb8a953950ffa035172eec154a", null ],
-      [ "SPELL_T_PHASE_MODULATOR", "de/dc3/a04319.html#a67a4bc47e4b4efea9056aba5e3c079e7af458c75121ac89b35616bd54b93bb248", null ],
-      [ "SPELL_ARCANE_BLAST", "de/dc3/a04319.html#a67a4bc47e4b4efea9056aba5e3c079e7af122c6c3fe00bd98cedb873409dc4803", null ],
-      [ "SPELL_MANA_BURN", "de/dc3/a04319.html#a67a4bc47e4b4efea9056aba5e3c079e7af95e858c15a693439ecb90ffa84284f5", null ],
-      [ "SPELL_INTANGIBLE_PRESENCE", "de/dc3/a04319.html#a67a4bc47e4b4efea9056aba5e3c079e7ab89cba16e9fd4a6660141f8884eeb953", null ]
+    [ "FelGuard", "de/dc3/a04319.html#af0944e670cdc4872cb4e1de78159ef88", [
+      [ "SPELL_SUMMON_POO", "de/dc3/a04319.html#af0944e670cdc4872cb4e1de78159ef88acaf3b07d165603ce6a87d5e137c8bc6c", null ],
+      [ "NPC_DERANGED_HELBOAR", "de/dc3/a04319.html#af0944e670cdc4872cb4e1de78159ef88a74a22ffd9e172700137c4a85ec978333", null ],
+      [ "QUEST_SHIZZ_WORK", "de/dc3/a04319.html#af0944e670cdc4872cb4e1de78159ef88a22cc94ada0c254f3d3848e67f5701588", null ]
     ] ],
-    [ "ScannerMasterBunny", "de/dc3/a04319.html#afd699e617a2bd1266bc73519f84ea050", [
-      [ "NPC_OSCILLATING_FREQUENCY_SCANNER_TOP_BUNNY", "de/dc3/a04319.html#afd699e617a2bd1266bc73519f84ea050a179ca7e780d78b3a436be175173f5ae1", null ],
-      [ "GO_OSCILLATING_FREQUENCY_SCANNER", "de/dc3/a04319.html#afd699e617a2bd1266bc73519f84ea050a40f0d1d71baf11c0af292b71d913c8ec", null ],
-      [ "SPELL_OSCILLATION_FIELD", "de/dc3/a04319.html#afd699e617a2bd1266bc73519f84ea050a59f1159cf8af9091ba5011094002f4d3", null ],
-      [ "QUEST_GAUGING_THE_RESONANT_FREQUENCY", "de/dc3/a04319.html#afd699e617a2bd1266bc73519f84ea050a416d2cf49a0b0ce71c0193db9dcbf5a2", null ]
+    [ "q10935Exorcism", "de/dc3/a04319.html#a2b917ea5e39342011ca6dcdac24e869e", [
+      [ "SPELL_HOLY_FIRE", "de/dc3/a04319.html#a2b917ea5e39342011ca6dcdac24e869eac3a4396238fbb11f537aa061424abe2b", null ],
+      [ "SPELL_HEAL_BARADA", "de/dc3/a04319.html#a2b917ea5e39342011ca6dcdac24e869eae33e5e18452ad49b09d4403d2b856efd", null ]
     ] ],
-    [ "SimonColors", "de/dc3/a04319.html#a9fa2fa98716f9425976685b01fc9bd3f", [
-      [ "SIMON_BLUE", "de/dc3/a04319.html#a9fa2fa98716f9425976685b01fc9bd3fa51277f6e1373729773ae194a8fb0fcb1", null ],
-      [ "SIMON_RED", "de/dc3/a04319.html#a9fa2fa98716f9425976685b01fc9bd3fac7d8ac87bd6ca15acf462b0d6e08e98f", null ],
-      [ "SIMON_GREEN", "de/dc3/a04319.html#a9fa2fa98716f9425976685b01fc9bd3fa25b25a813eefd4bf0f037c46958a027d", null ],
-      [ "SIMON_YELLOW", "de/dc3/a04319.html#a9fa2fa98716f9425976685b01fc9bd3fad5ea14b56cd83e83017fa73dc63a6b18", null ],
-      [ "SIMON_MAX_COLORS", "de/dc3/a04319.html#a9fa2fa98716f9425976685b01fc9bd3faccb8754885f33f1f372a36cf43b2c05a", null ]
+    [ "WoundedBloodElf", "de/dc3/a04319.html#a1b44ea4940860848073d89e7761e5d9e", [
+      [ "SAY_ELF_START", "de/dc3/a04319.html#a1b44ea4940860848073d89e7761e5d9ea52186d9cbaa4a5d1e385d2fe13503a97", null ],
+      [ "SAY_ELF_SUMMON1", "de/dc3/a04319.html#a1b44ea4940860848073d89e7761e5d9ea3b168b2787eb695fadbe796416731ba3", null ],
+      [ "SAY_ELF_RESTING", "de/dc3/a04319.html#a1b44ea4940860848073d89e7761e5d9ea6cd155f2503f730d0d12456613b29964", null ],
+      [ "SAY_ELF_SUMMON2", "de/dc3/a04319.html#a1b44ea4940860848073d89e7761e5d9ea678e628b153b8961e58fe7f936fd9c61", null ],
+      [ "SAY_ELF_COMPLETE", "de/dc3/a04319.html#a1b44ea4940860848073d89e7761e5d9eae06761dd5b07e038a394a2c7e72e93a7", null ],
+      [ "SAY_ELF_AGGRO", "de/dc3/a04319.html#a1b44ea4940860848073d89e7761e5d9eabfc964a1cc07a0fdf8782361353d8a5c", null ],
+      [ "QUEST_ROAD_TO_FALCON_WATCH", "de/dc3/a04319.html#a1b44ea4940860848073d89e7761e5d9eaaca23046d9ea87abc77d28689e3349ed", null ],
+      [ "NPC_HAALESHI_WINDWALKER", "de/dc3/a04319.html#a1b44ea4940860848073d89e7761e5d9eafbcba9ddc06cf15e740c08aa796f43ba", null ],
+      [ "NPC_HAALESHI_TALONGUARD", "de/dc3/a04319.html#a1b44ea4940860848073d89e7761e5d9ea338245af1e86a4794f18dc3072957088", null ],
+      [ "ARAKKOA_CAGE", "de/dc3/a04319.html#a1b44ea4940860848073d89e7761e5d9eafe47930a46107b8a21f186ef6f97ddf7", null ]
     ] ],
-    [ "SimonEvents", "de/dc3/a04319.html#a9cbd5801add5efb731b06cafd2fd7643", [
-      [ "EVENT_SIMON_SETUP_PRE_GAME", "de/dc3/a04319.html#a9cbd5801add5efb731b06cafd2fd7643a80da7854de32d5e5c993ba1be4c74422", null ],
-      [ "EVENT_SIMON_PLAY_SEQUENCE", "de/dc3/a04319.html#a9cbd5801add5efb731b06cafd2fd7643a465b69d7495e9424b5b950ba5f0da51a", null ],
-      [ "EVENT_SIMON_RESET_CLUSTERS", "de/dc3/a04319.html#a9cbd5801add5efb731b06cafd2fd7643a1b548a3a3ea82be9f755d5a0139e5d2a", null ],
-      [ "EVENT_SIMON_PERIODIC_PLAYER_CHECK", "de/dc3/a04319.html#a9cbd5801add5efb731b06cafd2fd7643a8b011f15bc7cc9c7412785e6298f171e", null ],
-      [ "EVENT_SIMON_TOO_LONG_TIME", "de/dc3/a04319.html#a9cbd5801add5efb731b06cafd2fd7643a4f8d2acef77391d65861d0c946fe8729", null ],
-      [ "EVENT_SIMON_GAME_TICK", "de/dc3/a04319.html#a9cbd5801add5efb731b06cafd2fd7643a29faf977b57b722720c93396446b86c5", null ],
-      [ "EVENT_SIMON_ROUND_FINISHED", "de/dc3/a04319.html#a9cbd5801add5efb731b06cafd2fd7643ac5c31b12f31b0f7e048cc42c4f3092b9", null ],
-      [ "ACTION_SIMON_CORRECT_FULL_SEQUENCE", "de/dc3/a04319.html#a9cbd5801add5efb731b06cafd2fd7643ab7015613e99976dfb4eadf9b9a874fc6", null ],
-      [ "ACTION_SIMON_WRONG_SEQUENCE", "de/dc3/a04319.html#a9cbd5801add5efb731b06cafd2fd7643a98a877a8aaf4751df02483f3d84afa68", null ],
-      [ "ACTION_SIMON_ROUND_FINISHED", "de/dc3/a04319.html#a9cbd5801add5efb731b06cafd2fd7643a3848528b496b9b76a2c4f86864179b2c", null ]
-    ] ],
-    [ "SimonGame", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610", [
-      [ "NPC_SIMON_BUNNY", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a5b40808418f7f29bd535436e5b25d6c2", null ],
-      [ "NPC_APEXIS_GUARDIAN", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610ade93defcf1b48356852c8b12d53b6346", null ],
-      [ "GO_APEXIS_RELIC", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a5c243ef043187f8edc721695122936a7", null ],
-      [ "GO_APEXIS_MONUMENT", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a469b8fdc810a48a43cd3789dee2f741d", null ],
-      [ "GO_AURA_BLUE", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a993976a7a6352808b3db643f1f22e053", null ],
-      [ "GO_AURA_GREEN", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a315b6bcf2546dce80f8dca69ed6169d9", null ],
-      [ "GO_AURA_RED", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a69e6ef838dd92cad1ebc854c1d994b6a", null ],
-      [ "GO_AURA_YELLOW", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a5d99a69577664e6a890d626da434e4df", null ],
-      [ "GO_BLUE_CLUSTER_DISPLAY", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a52201bde9b4272f42e6ee20df0c54710", null ],
-      [ "GO_GREEN_CLUSTER_DISPLAY", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a419b005d726f82fd1ff8f92726b97235", null ],
-      [ "GO_RED_CLUSTER_DISPLAY", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610aa96441317fb12f99998744cf266f9c7e", null ],
-      [ "GO_YELLOW_CLUSTER_DISPLAY", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a2e4317465b9bd4df5baead743e0c5de7", null ],
-      [ "GO_BLUE_CLUSTER_DISPLAY_LARGE", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a3913f8f8370143d82a674ec598cdcf81", null ],
-      [ "GO_GREEN_CLUSTER_DISPLAY_LARGE", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a607b410c839a9ee5383e4006457f9870", null ],
-      [ "GO_RED_CLUSTER_DISPLAY_LARGE", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a831b9133db671276e7a63db7edfb518b", null ],
-      [ "GO_YELLOW_CLUSTER_DISPLAY_LARGE", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610ae056e61b4e5433b8387ca6d86b730145", null ],
-      [ "SPELL_PRE_GAME_BLUE", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610ab2944ccf3f2f967807022209e9c2a6f9", null ],
-      [ "SPELL_PRE_GAME_GREEN", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a8276630b7bde1588016b4f0ffc0306ba", null ],
-      [ "SPELL_PRE_GAME_RED", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a5d1ab6596a504ac6c5a237be72dbbafd", null ],
-      [ "SPELL_PRE_GAME_YELLOW", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a82a3894bc157decfd197368b9cc492a5", null ],
-      [ "SPELL_VISUAL_BLUE", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a9804da89b3f7ea562d9c7048aee8dd20", null ],
-      [ "SPELL_VISUAL_GREEN", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610adfff654c710603bb7d5e6e4fa9d6cf1d", null ],
-      [ "SPELL_VISUAL_RED", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610abdea880fe15e6ced307b0cb508d2ad63", null ],
-      [ "SPELL_VISUAL_YELLOW", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a49c4f7adf656a881f6fb09e380dd3bed", null ],
-      [ "SOUND_BLUE", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a3b3debe9028202a926c8a1851b1b7901", null ],
-      [ "SOUND_GREEN", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a3f33cd22c2733833539c174d788dd0eb", null ],
-      [ "SOUND_RED", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a0295e21c4b955653b69f3a43c3734b1a", null ],
-      [ "SOUND_YELLOW", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a2350757cb14f1820a41ba58506901f7e", null ],
-      [ "SOUND_DISABLE_NODE", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a64d4e8cbe4bb3170d9d35d6029faa414", null ],
-      [ "SPELL_AUDIBLE_GAME_TICK", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a6ce8ada748480f6b4a464a52f7cd26c7", null ],
-      [ "SPELL_VISUAL_START_PLAYER_LEVEL", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a6c2572c22cd12ac0934cc823a0cf74c5", null ],
-      [ "SPELL_VISUAL_START_AI_LEVEL", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610af60b1e8bdd07a0d0c82b5155730711b2", null ],
-      [ "SPELL_BAD_PRESS_TRIGGER", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610af4ca35288c37d7f641af423293379fa6", null ],
-      [ "SPELL_BAD_PRESS_DAMAGE", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610ab6c790656c1c10ee09b3cd174b6b0b36", null ],
-      [ "SPELL_REWARD_BUFF_1", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610aee3105c2f7bea11f2fa9bd500c5f9e4b", null ],
-      [ "SPELL_REWARD_BUFF_2", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a1a4cc3f3cb0945fae4a5832b5738ad3b", null ],
-      [ "SPELL_REWARD_BUFF_3", "de/dc3/a04319.html#ab88e2ce3a4528840cc00abc58af76610a40a7027c1a8b1701f9b491276e5a3657", null ]
-    ] ],
-    [ "AddSC_blades_edge_mountains", "de/dc3/a04319.html#a4ba2d63a09578d1489f50ecd8d2518a2", null ]
+    [ "AddSC_hellfire_peninsula", "de/dc3/a04319.html#ae450311c68322300a0e6fb8091cd8936", null ]
 ];

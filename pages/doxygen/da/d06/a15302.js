@@ -1,6 +1,6 @@
 var a15302 =
 [
-    [ "npcs_riverbreeze_and_silversky", "da/d06/a15302.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
-    [ "OnGossipHello", "da/d06/a15302.html#a7de032322a37f929c316aadfdadda768", null ],
-    [ "OnGossipSelect", "da/d06/a15302.html#a93c7b159dda733da5030de747bad30b5", null ]
+    [ "npc_tiger_matriarchAI", "d4/d1c/a15306.html", "d4/d1c/a15306" ],
+    [ "npc_tiger_matriarch", "da/d06/a15302.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "da/d06/a15302.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

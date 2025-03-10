@@ -1,5 +1,6 @@
 var a27878 =
 [
-    [ "cinematicCamera", "d6/df2/a27878.html#a87e5f6de255dc0c75423eace2768a1dc", null ],
-    [ "Id", "d6/df2/a27878.html#a9c3dc0e60728c1c76594385d6860f265", null ]
+    [ "AreaGroupId", "d6/df2/a27878.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "d6/df2/a27878.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "d6/df2/a27878.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

@@ -1,13 +1,8 @@
 var a14926 =
 [
-    [ "boss_cthun", "d1/d32/a14926.html#a287ee7b65708971e4fdfa7b814486935", null ],
-    [ "DoAction", "d1/d32/a14926.html#a04ae38b67d358f1d34820b855aab3869", null ],
-    [ "JustDied", "d1/d32/a14926.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
-    [ "JustEngagedWith", "d1/d32/a14926.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
-    [ "Reset", "d1/d32/a14926.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
-    [ "ScheduleTasks", "d1/d32/a14926.html#a5a0514e56217bb3b30b22b2681542adb", null ],
-    [ "SummonedCreatureDies", "d1/d32/a14926.html#a49d76bb4cf30ee66fae6114313394961", null ],
-    [ "UpdateAI", "d1/d32/a14926.html#a7d2685597f1eec2459fe509e5b97681f", null ],
-    [ "_fleshTentaclesKilled", "d1/d32/a14926.html#a139de83ae488c40d40a4587509cd197d", null ],
-    [ "WisperTimer", "d1/d32/a14926.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
+    [ "npc_obsidian_destroyer", "d1/d32/a14926.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "d1/d32/a14926.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "d1/d32/a14926.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "d1/d32/a14926.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "d1/d32/a14926.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

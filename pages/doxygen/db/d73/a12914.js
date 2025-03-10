@@ -1,7 +1,6 @@
 var a12914 =
 [
-    [ "OnApply", "db/d73/a12914.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "db/d73/a12914.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "db/d73/a12914.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "db/d73/a12914.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "npc_high_inquisitor_valrothAI", "dd/d29/a12918.html", "dd/d29/a12918" ],
+    [ "npc_high_inquisitor_valroth", "db/d73/a12914.html#a6e244a411249667a84f0d34ca1b1f17b", null ],
+    [ "GetAI", "db/d73/a12914.html#a6374b80425da8bc41d9d076e6e7d7bef", null ]
 ];

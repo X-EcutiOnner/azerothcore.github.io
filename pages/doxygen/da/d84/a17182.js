@@ -1,6 +1,6 @@
 var a17182 =
 [
-    [ "KnockIntoAir", "da/d84/a17182.html#a1f9fb1f258613ca6657abba26969961f", null ],
-    [ "PrepareSpellScript", "da/d84/a17182.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
-    [ "Register", "da/d84/a17182.html#a35a7758630c1769228fedff84ad929e8", null ]
+    [ "npc_kinetic_bombAI", "d6/de1/a17186.html", "d6/de1/a17186" ],
+    [ "npc_kinetic_bomb", "da/d84/a17182.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
+    [ "GetAI", "da/d84/a17182.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
 ];

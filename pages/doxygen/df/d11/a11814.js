@@ -1,11 +1,11 @@
 var a11814 =
 [
-    [ "boss_draganthaurissanAI", "df/d11/a11814.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
-    [ "JustDied", "df/d11/a11814.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
-    [ "JustEngagedWith", "df/d11/a11814.html#a00604bed2c13a7b470d950059122f018", null ],
-    [ "KilledUnit", "df/d11/a11814.html#acec58686917d6e5aff9a51a96b023174", null ],
-    [ "SetData", "df/d11/a11814.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
-    [ "UpdateAI", "df/d11/a11814.html#a04eaea53b78d490373f9bb911cc92596", null ],
-    [ "hasYelled", "df/d11/a11814.html#aef5ede4f444e85fafd30faab6043672b", null ],
-    [ "SenatorYells", "df/d11/a11814.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
+    [ "npc_rocknotAI", "df/d11/a11814.html#a4daa5104eabb6d38c22274b48a8514be", null ],
+    [ "DoGo", "df/d11/a11814.html#a7591520e06782feddb98a86107fbcb27", null ],
+    [ "Reset", "df/d11/a11814.html#a4d855a23c638e835de6f1c4644350166", null ],
+    [ "UpdateAI", "df/d11/a11814.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
+    [ "WaypointReached", "df/d11/a11814.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
+    [ "BreakDoor_Timer", "df/d11/a11814.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
+    [ "BreakKeg_Timer", "df/d11/a11814.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
+    [ "instance", "df/d11/a11814.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
 ];

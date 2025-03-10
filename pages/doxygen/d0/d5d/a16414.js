@@ -1,6 +1,7 @@
 var a16414 =
 [
-    [ "boss_icehowlAI", "d6/d89/a16418.html", "d6/d89/a16418" ],
-    [ "boss_icehowl", "d0/d5d/a16414.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
-    [ "GetAI", "d0/d5d/a16414.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
+    [ "FilterTargets", "d0/d5d/a16414.html#a304da18e36ff67c34b80ab39583f8c96", null ],
+    [ "HandleScript", "d0/d5d/a16414.html#adf99670bcf862288f513d2a26cbc256a", null ],
+    [ "PrepareSpellScript", "d0/d5d/a16414.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
+    [ "Register", "d0/d5d/a16414.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
 ];

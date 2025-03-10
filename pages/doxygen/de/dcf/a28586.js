@@ -1,10 +1,13 @@
 var a28586 =
 [
-    [ "WDTFile", "de/dcf/a28586.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
-    [ "~WDTFile", "de/dcf/a28586.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
-    [ "GetMap", "de/dcf/a28586.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
-    [ "init", "de/dcf/a28586.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
-    [ "_file", "de/dcf/a28586.html#a54ab64288144b9cf4904e67bb359e524", null ],
-    [ "_wmoNames", "de/dcf/a28586.html#a6ec4f95ff866585403670b620a42a857", null ],
-    [ "filename", "de/dcf/a28586.html#ab3dac8623598bac1152a514a00126bf6", null ]
+    [ "liquidTris", "de/dcf/a28586.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
+    [ "liquidType", "de/dcf/a28586.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
+    [ "liquidVerts", "de/dcf/a28586.html#a52796933ab018f27d12f625673f7f8a9", null ],
+    [ "offMeshConnectionDirs", "de/dcf/a28586.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
+    [ "offMeshConnectionRads", "de/dcf/a28586.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
+    [ "offMeshConnections", "de/dcf/a28586.html#a706feac90bb398da61296bac9d0b7176", null ],
+    [ "offMeshConnectionsAreas", "de/dcf/a28586.html#af5af113433bb2776e6735195e57ab6f7", null ],
+    [ "offMeshConnectionsFlags", "de/dcf/a28586.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
+    [ "solidTris", "de/dcf/a28586.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
+    [ "solidVerts", "de/dcf/a28586.html#a915387c2cfa7111de4a957646a2aace4", null ]
 ];

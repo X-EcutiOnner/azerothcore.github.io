@@ -1,7 +1,6 @@
 var a19042 =
 [
-    [ "boss_naxxramas_miscAI", "d9/d94/a19042.html#affd990236c101d91b31f60eea7135cdf", null ],
-    [ "JustDied", "d9/d94/a19042.html#aae92d4b538907ef829f5f534f16feef1", null ],
-    [ "UpdateAI", "d9/d94/a19042.html#a02fabc7b8669f3e9358a623b4cf0e84c", null ],
-    [ "timer", "d9/d94/a19042.html#a39af06c7bc635bf85eebf4ed40798006", null ]
+    [ "boss_thaddius_summonAI", "d8/d00/a19046.html", "d8/d00/a19046" ],
+    [ "boss_thaddius_summon", "d9/d94/a19042.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "d9/d94/a19042.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

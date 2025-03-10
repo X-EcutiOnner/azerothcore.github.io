@@ -1,7 +1,6 @@
 var a21694 =
 [
-    [ "HandleDummy", "dc/dd7/a21694.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
-    [ "PrepareSpellScript", "dc/dd7/a21694.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
-    [ "Register", "dc/dd7/a21694.html#a45f80e0436f93a597deb4653852df6a1", null ],
-    [ "Validate", "dc/dd7/a21694.html#ad13fdade1fb7455485bfd68687de53c5", null ]
+    [ "npc_q24545_wretched_ghoulAI", "d9/de8/a21698.html", "d9/de8/a21698" ],
+    [ "npc_q24545_wretched_ghoul", "dc/dd7/a21694.html#a3842b5bd89c911d29d561307113fb032", null ],
+    [ "GetAI", "dc/dd7/a21694.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
 ];

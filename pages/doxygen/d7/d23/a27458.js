@@ -1,6 +1,6 @@
 var a27458 =
 [
-    [ "npc_experience", "d7/d23/a27458.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "d7/d23/a27458.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "d7/d23/a27458.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "npc_garments_of_questsAI", "d5/d04/a27462.html", "d5/d04/a27462" ],
+    [ "npc_garments_of_quests", "d7/d23/a27458.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
+    [ "GetAI", "d7/d23/a27458.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
 ];

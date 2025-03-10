@@ -1,24 +1,37 @@
 var a02819 =
 [
-    [ "npc_rizzle_sprysprocket", "dd/d7d/a15140.html", "dd/d7d/a15140" ],
-    [ "npc_rizzle_sprysprocket::npc_rizzle_sprysprocketAI", "db/d64/a15144.html", "db/d64/a15144" ],
-    [ "npc_depth_charge", "d0/d8a/a15148.html", "d0/d8a/a15148" ],
-    [ "npc_depth_charge::npc_depth_chargeAI", "d1/d3d/a15152.html", "d1/d3d/a15152" ],
-    [ "RizzleSprysprocketData", "d6/d6c/a02819.html#ad694d8f9c4171422b48a06322c8bf5a3", [
-      [ "QUEST_CHASING_THE_MOONSTONE", "d6/d6c/a02819.html#ad694d8f9c4171422b48a06322c8bf5a3a62167aa10a1e13501da60bbfd43df100", null ],
-      [ "NPC_DEPTH_CHARGE", "d6/d6c/a02819.html#ad694d8f9c4171422b48a06322c8bf5a3a6238920533d94ea0caa141d736f110ac", null ],
-      [ "SPELL_RIZZLE_BLACKJACK", "d6/d6c/a02819.html#ad694d8f9c4171422b48a06322c8bf5a3aa6c12ccbf9db4eb0ed767b4f07ddf62c", null ],
-      [ "SPELL_RIZZLE_ESCAPE", "d6/d6c/a02819.html#ad694d8f9c4171422b48a06322c8bf5a3a045675473e0b088d783fd577efa8ad75", null ],
-      [ "SPELL_RIZZLE_FROST_GRENADE", "d6/d6c/a02819.html#ad694d8f9c4171422b48a06322c8bf5a3a28994b7a8f42678d14a11b5a7078c0e1", null ],
-      [ "SPELL_DEPTH_CHARGE_TRAP", "d6/d6c/a02819.html#ad694d8f9c4171422b48a06322c8bf5a3a685ae5385fd93ebf978ae918d8e88afe", null ],
-      [ "SPELL_PERIODIC_DEPTH_CHARGE", "d6/d6c/a02819.html#ad694d8f9c4171422b48a06322c8bf5a3a46e20b8a4b722974fa1a48c334ad0965", null ],
-      [ "SPELL_GIVE_SOUTHFURY_MOONSTONE", "d6/d6c/a02819.html#ad694d8f9c4171422b48a06322c8bf5a3a008357389ef71129c47d0af4c103f168", null ],
-      [ "SAY_RIZZLE_START", "d6/d6c/a02819.html#ad694d8f9c4171422b48a06322c8bf5a3a4041141e3ffdb02858ab8e153b4bb80f", null ],
-      [ "SAY_RIZZLE_GRENADE", "d6/d6c/a02819.html#ad694d8f9c4171422b48a06322c8bf5a3a62818d492b5281057628356574ada201", null ],
-      [ "SAY_RIZZLE_FINAL", "d6/d6c/a02819.html#ad694d8f9c4171422b48a06322c8bf5a3a2171c54277d8aadbe7b633befacf4ab3", null ],
-      [ "MSG_ESCAPE_NOTICE", "d6/d6c/a02819.html#ad694d8f9c4171422b48a06322c8bf5a3ac276316b4b9c389e1701165b3a1491c7", null ],
-      [ "GOSSIP_GET_MOONSTONE", "d6/d6c/a02819.html#ad694d8f9c4171422b48a06322c8bf5a3a9ba89e15a5cf6168c5e38316ef46daa0", null ]
+    [ "npc_ame", "dd/dae/a15570.html", "dd/dae/a15570" ],
+    [ "npc_ame::npc_ameAI", "db/da1/a15574.html", "db/da1/a15574" ],
+    [ "npc_ringo", "d8/d99/a15578.html", "d8/d99/a15578" ],
+    [ "npc_ringo::npc_ringoAI", "d3/d65/a15582.html", "d3/d65/a15582" ],
+    [ "AmeData", "d6/d6c/a02819.html#abbb0f5e31bd003a50e94cc712dbab7c0", [
+      [ "SAY_READY", "d6/d6c/a02819.html#abbb0f5e31bd003a50e94cc712dbab7c0a82af2bd2787802be3ff2ee4588ea9be4", null ],
+      [ "SAY_AGGRO1", "d6/d6c/a02819.html#abbb0f5e31bd003a50e94cc712dbab7c0a17fd4d94120185f67ee94a41652285a5", null ],
+      [ "SAY_SEARCH", "d6/d6c/a02819.html#abbb0f5e31bd003a50e94cc712dbab7c0a843a1ad765b601ed599c443b66ae5d77", null ],
+      [ "SAY_AGGRO2", "d6/d6c/a02819.html#abbb0f5e31bd003a50e94cc712dbab7c0af73eb45ca3cf512147f1d25e1254c224", null ],
+      [ "SAY_AGGRO3", "d6/d6c/a02819.html#abbb0f5e31bd003a50e94cc712dbab7c0aa623912b4ba266583234ba5df070e02e", null ],
+      [ "SAY_FINISH", "d6/d6c/a02819.html#abbb0f5e31bd003a50e94cc712dbab7c0a0e5b4f2c41b1953cea52b7f41d134838", null ],
+      [ "SPELL_DEMORALIZINGSHOUT", "d6/d6c/a02819.html#abbb0f5e31bd003a50e94cc712dbab7c0a8477c04b326171f69326346981b724e1", null ],
+      [ "QUEST_CHASING_AME", "d6/d6c/a02819.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827", null ],
+      [ "ENTRY_TARLORD", "d6/d6c/a02819.html#abbb0f5e31bd003a50e94cc712dbab7c0ab6db2c46b771ac7d038f25d35308beec", null ],
+      [ "ENTRY_TARLORD1", "d6/d6c/a02819.html#abbb0f5e31bd003a50e94cc712dbab7c0ae1f81eb98b3fa0fc40666dedb0ece35f", null ],
+      [ "ENTRY_STOMPER", "d6/d6c/a02819.html#abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a", null ]
     ] ],
-    [ "AddSC_azshara", "d6/d6c/a02819.html#ad86bcd16e9f7f0d1b823153be725f9ce", null ],
-    [ "WPs", "d6/d6c/a02819.html#a6963f0357cacc0d2bcf7d514cad45e73", null ]
+    [ "Ringo", "d6/d6c/a02819.html#a1eb7864fe2b6e6ec59692fb2f7c02592", [
+      [ "SAY_RIN_START", "d6/d6c/a02819.html#a1eb7864fe2b6e6ec59692fb2f7c02592abd4cb0c4d5414164403e75fca667915b", null ],
+      [ "SAY_FAINT", "d6/d6c/a02819.html#a1eb7864fe2b6e6ec59692fb2f7c02592a39f7b5e8a7fc4ed40e62cedfa93923bd", null ],
+      [ "SAY_WAKE", "d6/d6c/a02819.html#a1eb7864fe2b6e6ec59692fb2f7c02592aadb6c63e08a18de76bcc95ca2e830a6e", null ],
+      [ "SAY_RIN_END_1", "d6/d6c/a02819.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae8753384ff9e53b533a5a1cebd16ce64", null ],
+      [ "SAY_SPR_END_2", "d6/d6c/a02819.html#a1eb7864fe2b6e6ec59692fb2f7c02592a1a913192c37c18a19114eebee21e1a85", null ],
+      [ "SAY_RIN_END_3", "d6/d6c/a02819.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae29a03470647c5d13bcb1729160b1d8b", null ],
+      [ "EMOTE_RIN_END_4", "d6/d6c/a02819.html#a1eb7864fe2b6e6ec59692fb2f7c02592aeeed58bd2d47e0450374129434bcf296", null ],
+      [ "EMOTE_RIN_END_5", "d6/d6c/a02819.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac0c11a39be96e25065c399ff7dd7c484", null ],
+      [ "SAY_RIN_END_6", "d6/d6c/a02819.html#a1eb7864fe2b6e6ec59692fb2f7c02592a699867c1deab61d85853622b099cd728", null ],
+      [ "SAY_SPR_END_7", "d6/d6c/a02819.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac165214832e6be5740245dd6239ef2c9", null ],
+      [ "EMOTE_RIN_END_8", "d6/d6c/a02819.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac034860ad6513469b74ad5b7cc76edc7", null ],
+      [ "SPELL_REVIVE_RINGO", "d6/d6c/a02819.html#a1eb7864fe2b6e6ec59692fb2f7c02592a9fc3d4c57ff3ca56f344b70df866e766", null ],
+      [ "QUEST_A_LITTLE_HELP", "d6/d6c/a02819.html#a1eb7864fe2b6e6ec59692fb2f7c02592a6ab7d20ae4eca495ad164638b1e68b51", null ],
+      [ "NPC_SPRAGGLE", "d6/d6c/a02819.html#a1eb7864fe2b6e6ec59692fb2f7c02592a4bc3afbb0cf9626825ffda0b610e2e64", null ]
+    ] ],
+    [ "AddSC_ungoro_crater", "d6/d6c/a02819.html#a6e2c88161cee97e0e405ef83abcc653f", null ]
 ];

@@ -1,8 +1,6 @@
 var a20766 =
 [
-    [ "FilterTargets", "db/d0b/a20766.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "db/d0b/a20766.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "db/d0b/a20766.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "db/d0b/a20766.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "db/d0b/a20766.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "boss_yoggsaron_lich_kingAI", "d9/d51/a20770.html", "d9/d51/a20770" ],
+    [ "boss_yoggsaron_lich_king", "db/d0b/a20766.html#a1655d608683e90ccafd350204eed2d31", null ],
+    [ "GetAI", "db/d0b/a20766.html#aa65cd9c9eafba12ae065903868ee5319", null ]
 ];

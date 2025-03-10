@@ -1,6 +1,6 @@
 var a18474 =
 [
-    [ "npc_captain_brandonAI", "d6/d4c/a18474.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "d6/d4c/a18474.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "d6/d4c/a18474.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "npc_frost_freeze_trapAI", "d6/db5/a18478.html", "d6/db5/a18478" ],
+    [ "npc_frost_freeze_trap", "d6/d4c/a18474.html#ac58ed2598fd4250f220208a91343f9b8", null ],
+    [ "GetAI", "d6/d4c/a18474.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
 ];

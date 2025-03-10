@@ -1,7 +1,14 @@
 var a15966 =
 [
-    [ "HandleScriptEffect", "da/d74/a15966.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "da/d74/a15966.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "da/d74/a15966.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "da/d74/a15966.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "npc_halion_controllerAI", "da/d74/a15966.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
+    [ "DoAction", "da/d74/a15966.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
+    [ "Reset", "da/d74/a15966.html#a3004aecb50815287d5f832f2a8a0d250", null ],
+    [ "SetData", "da/d74/a15966.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
+    [ "UpdateAI", "da/d74/a15966.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
+    [ "UpdateCorporeality", "da/d74/a15966.html#ac82987f2b2b069b90c509c477004bae6", null ],
+    [ "_corporeality", "da/d74/a15966.html#a4c23df1bb774ac724bdf537453592671", null ],
+    [ "_events", "da/d74/a15966.html#a92e3f116260265a2d0dbeef769eee03e", null ],
+    [ "_instance", "da/d74/a15966.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
+    [ "_materialDamage", "da/d74/a15966.html#afcc510b0d4be10ed057d1a304b803b69", null ],
+    [ "_twilightDamage", "da/d74/a15966.html#a13a9efcb11ed31725c45011508407287", null ]
 ];

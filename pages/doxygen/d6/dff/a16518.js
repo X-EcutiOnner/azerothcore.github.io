@@ -1,5 +1,6 @@
 var a16518 =
 [
-    [ "achievement_oh_novos", "d6/dff/a16518.html#a31ca1f458c384401af107cb8f709ef61", null ],
-    [ "OnCheck", "d6/dff/a16518.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
+    [ "boss_dredAI", "d7/de7/a16522.html", "d7/de7/a16522" ],
+    [ "boss_dred", "d6/dff/a16518.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "d6/dff/a16518.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

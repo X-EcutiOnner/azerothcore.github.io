@@ -1,8 +1,8 @@
 var a26474 =
 [
-    [ "FilterTargets", "dc/d0f/a26474.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
-    [ "HandleDummy", "dc/d0f/a26474.html#a2214b10da042a3af2fd3311872cc5286", null ],
-    [ "PrepareSpellScript", "dc/d0f/a26474.html#a9959966856601f79a83931a7a7ecff91", null ],
-    [ "Register", "dc/d0f/a26474.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
-    [ "Validate", "dc/d0f/a26474.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
+    [ "HandleDummy", "dc/d0f/a26474.html#ab653cf0414411c17ccc674395b08af7a", null ],
+    [ "Load", "dc/d0f/a26474.html#a6eb80b68a00c91d92a2963adb753ed23", null ],
+    [ "PrepareSpellScript", "dc/d0f/a26474.html#ae6c5ba4ed1918125594b31368c3bcf2f", null ],
+    [ "Register", "dc/d0f/a26474.html#a92eb201b3ae3ab167cc338174a355b00", null ],
+    [ "Validate", "dc/d0f/a26474.html#a3635089640297e059a183322c7e8f7b9", null ]
 ];

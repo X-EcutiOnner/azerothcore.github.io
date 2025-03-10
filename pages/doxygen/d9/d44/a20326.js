@@ -1,9 +1,6 @@
 var a20326 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d9/d44/a20326.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
-    [ "AttackStart", "d9/d44/a20326.html#aa18e89f63e98112efeb69328f8fdc296", null ],
-    [ "MoveInLineOfSight", "d9/d44/a20326.html#a6384437fff9349df0cfa5053b37313ea", null ],
-    [ "MovementInform", "d9/d44/a20326.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
-    [ "UpdateAI", "d9/d44/a20326.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
-    [ "events", "d9/d44/a20326.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
+    [ "npc_ulduar_magnetic_coreAI", "d5/dd6/a20330.html", "d5/dd6/a20330" ],
+    [ "npc_ulduar_magnetic_core", "d9/d44/a20326.html#a788a1a6d3ec28c866d6b8cb112fe8071", null ],
+    [ "GetAI", "d9/d44/a20326.html#a3adcc5c7650e2b016f02a1160c3fa6ab", null ]
 ];

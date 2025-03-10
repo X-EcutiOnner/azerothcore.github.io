@@ -1,6 +1,7 @@
 var a14394 =
 [
-    [ "HandleTriggerSpell", "dd/dc4/a14394.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "dd/dc4/a14394.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "dd/dc4/a14394.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "GetVisualThrow", "dd/dc4/a14394.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "dd/dc4/a14394.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "dd/dc4/a14394.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "dd/dc4/a14394.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

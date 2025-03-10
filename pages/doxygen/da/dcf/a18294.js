@@ -1,6 +1,8 @@
 var a18294 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d3/d99/a18298.html", "d3/d99/a18298" ],
-    [ "npc_green_dragon_combat_trigger", "da/dcf/a18294.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "da/dcf/a18294.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "npc_lk_wicked_spiritAI", "da/dcf/a18294.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "da/dcf/a18294.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "da/dcf/a18294.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "da/dcf/a18294.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "da/dcf/a18294.html#a8b15079251b6855679d738a342126006", null ]
 ];

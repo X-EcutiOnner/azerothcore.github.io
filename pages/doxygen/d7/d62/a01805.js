@@ -1,4 +1,8 @@
 var a01805 =
 [
-    [ "ScriptRegistry< AuctionHouseScript >", "d7/d62/a01805.html#ac2271f3a8c4323137893dfd21d8d0003", null ]
+    [ "MailScript", "d7/daa/a10302.html", "d7/daa/a10302" ],
+    [ "MailHook", "d7/d62/a01805.html#a7a2fb0cc0937712e8aff65574e1068d6", [
+      [ "MAILHOOK_ON_BEFORE_MAIL_DRAFT_SEND_MAIL_TO", "d7/d62/a01805.html#a7a2fb0cc0937712e8aff65574e1068d6a8f3555a10968fd2749e256067782760f", null ],
+      [ "MAILHOOK_END", "d7/d62/a01805.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285", null ]
+    ] ]
 ];

@@ -1,9 +1,6 @@
 var a23870 =
 [
-    [ "npc_fel_guard_houndAI", "de/d13/a23870.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
-    [ "MovementInform", "de/d13/a23870.html#a127a0d7b61fde64c0ced52192f438f12", null ],
-    [ "Reset", "de/d13/a23870.html#ab979c3602897b1148ffd5d4a81941197", null ],
-    [ "UpdateAI", "de/d13/a23870.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
-    [ "checkTimer", "de/d13/a23870.html#ad22bb6efafb4396cd0137c1384240029", null ],
-    [ "helboarGUID", "de/d13/a23870.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
+    [ "go_apexis_relic", "de/d13/a23870.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "de/d13/a23870.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "de/d13/a23870.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

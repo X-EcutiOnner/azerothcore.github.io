@@ -1,8 +1,6 @@
 var a19790 =
 [
-    [ "OnApply", "d0/d4b/a19790.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "d0/d4b/a19790.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "d0/d4b/a19790.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "d0/d4b/a19790.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "d0/d4b/a19790.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "npc_pool_of_tarAI", "de/ddd/a19794.html", "de/ddd/a19794" ],
+    [ "npc_pool_of_tar", "d0/d4b/a19790.html#a9c585318b4507babe77b3ba758b06a87", null ],
+    [ "GetAI", "d0/d4b/a19790.html#ae77bf48a72ce49f821085f32127e91dc", null ]
 ];

@@ -1,6 +1,8 @@
 var a20514 =
 [
-    [ "OnPeriodic", "da/db9/a20514.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "da/db9/a20514.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "da/db9/a20514.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "boss_thorim_pillarAI", "da/db9/a20514.html#ae00c9e72f14e3f2c94da118a1fe27130", null ],
+    [ "Reset", "da/db9/a20514.html#ae9043ed9b72cc0eda6fb7c859355da57", null ],
+    [ "SpellHit", "da/db9/a20514.html#a1cb3ef9fdfc9e375d15e14b9230dd51e", null ],
+    [ "UpdateAI", "da/db9/a20514.html#afd8e05444eeea620a7ef21e97c345d41", null ],
+    [ "_resetTimer", "da/db9/a20514.html#a6ef7c9e23280564aec1b82eb670bc4f9", null ]
 ];

@@ -1,8 +1,6 @@
 var a26482 =
 [
-    [ "ApplyDebuff", "da/d64/a26482.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
-    [ "PrepareSpellScript", "da/d64/a26482.html#aa37525d089348f58e3d871830caa3417", null ],
-    [ "Register", "da/d64/a26482.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
-    [ "RemoveInvalidTargets", "da/d64/a26482.html#a0451b75aa962065a01a5806992e01b16", null ],
-    [ "Validate", "da/d64/a26482.html#ac69d777fdf7a2d3c527621dee256690c", null ]
+    [ "HandleRemove", "da/d64/a26482.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "da/d64/a26482.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "da/d64/a26482.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

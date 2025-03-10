@@ -1,8 +1,7 @@
 var a11902 =
 [
-    [ "boss_doomrelAI", "da/df4/a11906.html", "da/df4/a11906" ],
-    [ "boss_doomrel", "dd/d8e/a11902.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
-    [ "GetAI", "dd/d8e/a11902.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
-    [ "OnGossipHello", "dd/d8e/a11902.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
-    [ "OnGossipSelect", "dd/d8e/a11902.html#ae430a8fef70bd46267482a70084049c1", null ]
+    [ "boss_magmusAI", "dd/d8e/a11902.html#a8a3e5361bda492007013af9228899b8f", null ],
+    [ "JustEngagedWith", "dd/d8e/a11902.html#a11e4868628564078997694373315a9d6", null ],
+    [ "Reset", "dd/d8e/a11902.html#a5fe304cec86831b7e64f83caee1392d0", null ],
+    [ "UpdateAI", "dd/d8e/a11902.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
 ];

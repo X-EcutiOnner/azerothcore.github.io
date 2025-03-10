@@ -1,7 +1,6 @@
 var a26670 =
 [
-    [ "HandleRemove", "df/d61/a26670.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "df/d61/a26670.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "df/d61/a26670.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "df/d61/a26670.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "HandleScriptEffect", "df/d61/a26670.html#a3f8988017d088d08df08ba8b696b552b", null ],
+    [ "PrepareSpellScript", "df/d61/a26670.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
+    [ "Register", "df/d61/a26670.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
 ];

@@ -1,7 +1,6 @@
 var a21938 =
 [
-    [ "HandleScriptEffect", "d7/d10/a21938.html#ad20cf97a7dd442d5670a22095b487a01", null ],
-    [ "PrepareSpellScript", "d7/d10/a21938.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
-    [ "Register", "d7/d10/a21938.html#a996ea344ea2a3312cb8886565b80972d", null ],
-    [ "Validate", "d7/d10/a21938.html#a29bf5a9615e02281f426bf521a045567", null ]
+    [ "npc_boneguard_footmanAI", "d4/d76/a21942.html", "d4/d76/a21942" ],
+    [ "npc_boneguard_footman", "d7/d10/a21938.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "d7/d10/a21938.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

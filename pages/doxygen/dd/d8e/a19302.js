@@ -1,8 +1,6 @@
 var a19302 =
 [
-    [ "HandleEffectPeriodic", "dd/d8e/a19302.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "dd/d8e/a19302.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "dd/d8e/a19302.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "dd/d8e/a19302.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "dd/d8e/a19302.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "npc_centrifuge_constructAI", "de/d1b/a19306.html", "de/d1b/a19306" ],
+    [ "npc_centrifuge_construct", "dd/d8e/a19302.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
+    [ "GetAI", "dd/d8e/a19302.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
 ];

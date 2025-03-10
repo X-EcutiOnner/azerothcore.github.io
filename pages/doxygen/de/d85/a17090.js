@@ -1,6 +1,11 @@
 var a17090 =
 [
-    [ "ShockVortexExplodeEvent", "de/d85/a17090.html#ad972aed372822e10a476d1592192f3ea", null ],
-    [ "Execute", "de/d85/a17090.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
-    [ "_owner", "de/d85/a17090.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
+    [ "boss_moorabiAI", "de/d85/a17090.html#a60a03c3840a3743719996929d2ca9e59", null ],
+    [ "JustDied", "de/d85/a17090.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
+    [ "JustEngagedWith", "de/d85/a17090.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
+    [ "KilledUnit", "de/d85/a17090.html#a265855d2972e534e927bfa609fbf2cf5", null ],
+    [ "Reset", "de/d85/a17090.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
+    [ "SpellHitTarget", "de/d85/a17090.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
+    [ "UpdateAI", "de/d85/a17090.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
+    [ "events2", "de/d85/a17090.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
 ];

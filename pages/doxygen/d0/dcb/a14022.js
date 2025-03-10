@@ -1,6 +1,5 @@
 var a14022 =
 [
-    [ "HandleEffectRemove", "d0/dcb/a14022.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "d0/dcb/a14022.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "d0/dcb/a14022.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "go_brazier_of_madness", "d0/dcb/a14022.html#aeb900e575be02244e62c6e5e4153c855", null ],
+    [ "GossipHello", "d0/dcb/a14022.html#aba3af326b01cd045523434aec189fd47", null ]
 ];

@@ -1,7 +1,12 @@
 var a13254 =
 [
-    [ "HandleRemove", "db/d70/a13254.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
-    [ "PrepareAuraScript", "db/d70/a13254.html#a6fa407996b59d98d0eeef877ee89784d", null ],
-    [ "Register", "db/d70/a13254.html#a7dc81b47954ee8c10b99f389740de0be", null ],
-    [ "Validate", "db/d70/a13254.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
+    [ "npc_kiljaeden_controller", "db/d70/a13254.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
+    [ "JustDied", "db/d70/a13254.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
+    [ "JustSummoned", "db/d70/a13254.html#af28211012d8398a450439b8e24bf60ce", null ],
+    [ "Reset", "db/d70/a13254.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
+    [ "ResetOrbs", "db/d70/a13254.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
+    [ "SummonedCreatureDies", "db/d70/a13254.html#aed2772552dd500c180c3db4aeef8359a", null ],
+    [ "UpdateAI", "db/d70/a13254.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
+    [ "instance", "db/d70/a13254.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
+    [ "summons", "db/d70/a13254.html#a116a739b2bff3257b35ff7946a3d1995", null ]
 ];

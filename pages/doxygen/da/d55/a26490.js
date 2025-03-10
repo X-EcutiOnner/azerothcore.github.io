@@ -1,7 +1,8 @@
 var a26490 =
 [
-    [ "HandleDummy", "da/d55/a26490.html#a96c5064738653ce16f06634196218a88", null ],
-    [ "PrepareSpellScript", "da/d55/a26490.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
-    [ "Register", "da/d55/a26490.html#a080969e035143ac8527443025dbacef2", null ],
-    [ "Validate", "da/d55/a26490.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
+    [ "HandleRootRemove", "da/d55/a26490.html#a9678ce2254825b67eb7a16312e960ba9", null ],
+    [ "HandleSnareRemove", "da/d55/a26490.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
+    [ "PrepareSpellScript", "da/d55/a26490.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
+    [ "Register", "da/d55/a26490.html#a119675dccea898932ca090577022b6ba", null ],
+    [ "Validate", "da/d55/a26490.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
 ];

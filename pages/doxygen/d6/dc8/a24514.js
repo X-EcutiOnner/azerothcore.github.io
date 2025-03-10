@@ -1,7 +1,16 @@
 var a24514 =
 [
-    [ "AfterApply", "d6/dc8/a24514.html#adae232af9445638b3d54e81d414483b7", null ],
-    [ "AfterRemove", "d6/dc8/a24514.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
-    [ "PrepareAuraScript", "d6/dc8/a24514.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
-    [ "Register", "d6/dc8/a24514.html#abff75ea597dcc017a359a5ef3ada4314", null ]
+    [ "CheckCast", "d6/dc8/a24514.html#a28e769267a83e4c499dca83a3f5708eb", null ],
+    [ "CheckReagents", "d6/dc8/a24514.html#aa8a2efb4807c29aeb5bf786e05113b61", null ],
+    [ "CheckTarget", "d6/dc8/a24514.html#ae339cf884f1d2f877e988ef6f6b555bf", null ],
+    [ "CheckTargets", "d6/dc8/a24514.html#af1013668080685cd86ae6abb52258fb1", null ],
+    [ "ConsumeReagents", "d6/dc8/a24514.html#aa5df00ed970db696b92b51566e098f3f", null ],
+    [ "GetGhoulSpellId", "d6/dc8/a24514.html#a9f94b3d279c036fb4b1c5b69934e63f2", null ],
+    [ "HandleRaiseDead", "d6/dc8/a24514.html#a3d1e0191d99e970f42d825632fe0f7e2", null ],
+    [ "Load", "d6/dc8/a24514.html#a05ea44a20f08f9010faca13a0f4d0f39", null ],
+    [ "PrepareSpellScript", "d6/dc8/a24514.html#a9565c8459a6d8cfed85c9120aca9715f", null ],
+    [ "Register", "d6/dc8/a24514.html#a0ebef363de4a802b242c806517ad0fb5", null ],
+    [ "Validate", "d6/dc8/a24514.html#a0ab8ee639fa83e954e964994c75451c8", null ],
+    [ "_corpse", "d6/dc8/a24514.html#adbc699b3bfd33f595ea287ca833ea2d4", null ],
+    [ "_result", "d6/dc8/a24514.html#aefebf79fa61b9f4d12929d54bd48389f", null ]
 ];

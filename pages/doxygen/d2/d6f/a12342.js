@@ -1,6 +1,6 @@
 var a12342 =
 [
-    [ "boss_magmadarAI", "d2/d6f/a12342.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
-    [ "ExecuteEvent", "d2/d6f/a12342.html#a7d4c1807cb320fdc331057209a4ce166", null ],
-    [ "JustEngagedWith", "d2/d6f/a12342.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
+    [ "boss_gehennasAI", "d2/d6f/a12342.html#aaefd1f10d03957477863df95143a95a9", null ],
+    [ "ExecuteEvent", "d2/d6f/a12342.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
+    [ "JustEngagedWith", "d2/d6f/a12342.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
 ];

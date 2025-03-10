@@ -1,8 +1,7 @@
 var a17370 =
 [
-    [ "ResetEncounterEvent", "de/d5f/a17370.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
-    [ "Execute", "de/d5f/a17370.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
-    [ "_caster", "de/d5f/a17370.html#abb37778222749b27791baa329e268c32", null ],
-    [ "_otherTransport", "de/d5f/a17370.html#a7f2d0aaade5833381e3e7624745fc504", null ],
-    [ "_spellId", "de/d5f/a17370.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
+    [ "HandleScript", "de/d5f/a17370.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
+    [ "Load", "de/d5f/a17370.html#ab1d81386ae3ccd332c01864d7f456017", null ],
+    [ "PrepareSpellScript", "de/d5f/a17370.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
+    [ "Register", "de/d5f/a17370.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
 ];

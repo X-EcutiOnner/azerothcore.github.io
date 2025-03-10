@@ -1,5 +1,8 @@
 var a10562 =
 [
-    [ "GuildDeleteRank", "d0/dad/a10562.html#ae21057ea5cc30ed07deaa736149617b3", null ],
-    [ "Read", "d0/dad/a10562.html#a91a7883299fe09e08c247c96987a8333", null ]
+    [ "OtherGUID", "d0/dad/a10562.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
+    [ "PlayerGUID", "d0/dad/a10562.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
+    [ "RankID", "d0/dad/a10562.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
+    [ "TransactionDate", "d0/dad/a10562.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
+    [ "TransactionType", "d0/dad/a10562.html#aa48b69aa9078fb150470d66201b34786", null ]
 ];

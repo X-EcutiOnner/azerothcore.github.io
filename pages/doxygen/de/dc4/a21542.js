@@ -1,7 +1,5 @@
 var a21542 =
 [
-    [ "npc_cosmetic_toy_plane", "de/dc4/a21542.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "de/dc4/a21542.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "de/dc4/a21542.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "de/dc4/a21542.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_mei_francis_mountAI", "de/dc4/a21542.html#aa9886ead02754faebff8b21eeb85dee6", null ],
+    [ "CanBeSeen", "de/dc4/a21542.html#ad5e33495339a0315bc7b01351810157e", null ]
 ];

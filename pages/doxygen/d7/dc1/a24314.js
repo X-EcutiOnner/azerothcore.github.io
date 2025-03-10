@@ -1,6 +1,4 @@
 var a24314 =
 [
-    [ "FilterTargets", "d7/dc1/a24314.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
-    [ "PrepareSpellScript", "d7/dc1/a24314.html#aea49df3f6b93223ed72c3a9875232b74", null ],
-    [ "Register", "d7/dc1/a24314.html#a8f0e0b6363303def780d35415c88b4d6", null ]
+    [ "npc_pet_gen_moth", "d7/dc1/a24314.html#a527b48528cce28f6b468af170e5ae45f", null ]
 ];

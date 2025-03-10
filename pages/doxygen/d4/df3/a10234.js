@@ -1,5 +1,5 @@
 var a10234 =
 [
-    [ "GenericGameObjectScript", "d4/df3/a10234.html#a7d1d46c8d325619637aef9b9dc5419f7", null ],
-    [ "GetAI", "d4/df3/a10234.html#a7e3ba0f4a88489de522ae714d628c9ab", null ]
+    [ "GenericCreatureScript", "d4/df3/a10234.html#a52157430320e253a5897612623eb796c", null ],
+    [ "GetAI", "d4/df3/a10234.html#a9e8eb28ece41af0c4159710c6eb51395", null ]
 ];

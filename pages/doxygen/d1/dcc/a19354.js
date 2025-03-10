@@ -1,6 +1,7 @@
 var a19354 =
 [
-    [ "CalculateDamage", "d1/dcc/a19354.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "d1/dcc/a19354.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "d1/dcc/a19354.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "HandleOnEffectApply", "d1/dcc/a19354.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "d1/dcc/a19354.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "d1/dcc/a19354.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "d1/dcc/a19354.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

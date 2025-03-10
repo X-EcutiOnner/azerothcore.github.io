@@ -1,6 +1,6 @@
 var a23742 =
 [
-    [ "HandleAfterRemove", "de/ddf/a23742.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "de/ddf/a23742.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "de/ddf/a23742.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "HandleScriptEffect", "de/ddf/a23742.html#a724e857ad8604ef4546c8823bb7bd632", null ],
+    [ "PrepareSpellScript", "de/ddf/a23742.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
+    [ "Register", "de/ddf/a23742.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
 ];

@@ -1,10 +1,5 @@
 var a19186 =
 [
-    [ "instance_nexus_InstanceMapScript", "d5/d37/a19186.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
-    [ "Initialize", "d5/d37/a19186.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
-    [ "OnCreatureCreate", "d5/d37/a19186.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
-    [ "OnGameObjectCreate", "d5/d37/a19186.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
-    [ "OnGameObjectRemove", "d5/d37/a19186.html#ac148c67823484eee38ab6646dfb68530", null ],
-    [ "SetBossState", "d5/d37/a19186.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
-    [ "SetData", "d5/d37/a19186.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ]
+    [ "achievement_chaos_theory", "d5/d37/a19186.html#a3068009fa1fb400439a2c72f00296484", null ],
+    [ "OnCheck", "d5/d37/a19186.html#a68d9a577cb7e005d81f52077707e3555", null ]
 ];

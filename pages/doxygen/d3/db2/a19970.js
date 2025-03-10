@@ -1,7 +1,6 @@
 var a19970 =
 [
-    [ "HandleEffectPeriodic", "d3/db2/a19970.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
-    [ "PrepareAuraScript", "d3/db2/a19970.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
-    [ "Register", "d3/db2/a19970.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
-    [ "Validate", "d3/db2/a19970.html#a16c536c913d003826ef4b86c7a497fec", null ]
+    [ "boss_freya_nature_bombAI", "d9/d2e/a19974.html", "d9/d2e/a19974" ],
+    [ "boss_freya_nature_bomb", "d3/db2/a19970.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
+    [ "GetAI", "d3/db2/a19970.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
 ];

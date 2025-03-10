@@ -1,11 +1,8 @@
 var a15210 =
 [
-    [ "npc_kerlonianAI", "d8/df1/a15210.html#a0f7a4566ca93a174c92fe10e904af480", null ],
-    [ "ClearSleeping", "d8/df1/a15210.html#aea2815d79da4fa006ea150f052255b9d", null ],
-    [ "MoveInLineOfSight", "d8/df1/a15210.html#a8b0a606510d278f26099a125d583377a", null ],
-    [ "Reset", "d8/df1/a15210.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
-    [ "SetSleeping", "d8/df1/a15210.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
-    [ "SpellHit", "d8/df1/a15210.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
-    [ "UpdateFollowerAI", "d8/df1/a15210.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
-    [ "FallAsleepTimer", "d8/df1/a15210.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
+    [ "npc_death_ravagerAI", "d8/df1/a15210.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "d8/df1/a15210.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "d8/df1/a15210.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "d8/df1/a15210.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "d8/df1/a15210.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

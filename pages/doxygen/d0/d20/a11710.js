@@ -1,12 +1,14 @@
 var a11710 =
 [
-    [ "boss_balinda", "d0/d20/a11710.html#a2f3ce696dbc66843cddc13196800866b", null ],
-    [ "DamageTaken", "d0/d20/a11710.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
-    [ "JustDied", "d0/d20/a11710.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
-    [ "JustEngagedWith", "d0/d20/a11710.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
-    [ "JustSummoned", "d0/d20/a11710.html#a3c2306326d2f85fbb6766352117a1f91", null ],
-    [ "Reset", "d0/d20/a11710.html#a1ecfa5d743682997076a47cce44b19f5", null ],
-    [ "UpdateAI", "d0/d20/a11710.html#af3506dd75baef12fd0328aed21636978", null ],
-    [ "_hasCastIceBlock", "d0/d20/a11710.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
-    [ "summons", "d0/d20/a11710.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
+    [ "tele_commandscript", "d0/d20/a11710.html#a13d522c3480c5b82071d5f77bd41f942", null ],
+    [ "DoNameTeleport", "d0/d20/a11710.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
+    [ "GetCommands", "d0/d20/a11710.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
+    [ "HandleTeleAddCommand", "d0/d20/a11710.html#a8d429a38c01a19f8c89c87937ef24248", null ],
+    [ "HandleTeleCommand", "d0/d20/a11710.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
+    [ "HandleTeleDelCommand", "d0/d20/a11710.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
+    [ "HandleTeleGroupCommand", "d0/d20/a11710.html#af83e529b482654851a7a1ee77beb107e", null ],
+    [ "HandleTeleNameCommand", "d0/d20/a11710.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
+    [ "HandleTeleNameNpcIdCommand", "d0/d20/a11710.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
+    [ "HandleTeleNameNpcNameCommand", "d0/d20/a11710.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
+    [ "HandleTeleNameNpcSpawnIdCommand", "d0/d20/a11710.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
 ];

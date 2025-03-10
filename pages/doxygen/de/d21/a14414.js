@@ -1,7 +1,6 @@
 var a14414 =
 [
-    [ "boss_azuregosAI", "dc/d6b/a14418.html", "dc/d6b/a14418" ],
-    [ "boss_azuregos", "de/d21/a14414.html#a48590db0037870ca5c9425a468e5ea3a", null ],
-    [ "GetAI", "de/d21/a14414.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
-    [ "OnGossipSelect", "de/d21/a14414.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
+    [ "HandleScriptEffect", "de/d21/a14414.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
+    [ "PrepareSpellScript", "de/d21/a14414.html#a55115ca986d5226588d168ced7ab1f55", null ],
+    [ "Register", "de/d21/a14414.html#ad8811bf48dfb564afcd82cf51b860255", null ]
 ];

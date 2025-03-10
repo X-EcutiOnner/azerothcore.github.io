@@ -1,11 +1,13 @@
 var a16898 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "de/d11/a16898.html#a51769d22a4cb448fae90d827e2494581", null ],
-    [ "MovementInform", "de/d11/a16898.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
-    [ "SetData", "de/d11/a16898.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
-    [ "UpdateAI", "de/d11/a16898.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
-    [ "deathbringerGUID", "de/d11/a16898.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
-    [ "events", "de/d11/a16898.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
-    [ "killsLeft", "de/d11/a16898.html#ac81d85e0ceb0b571373f44475baa36df", null ],
-    [ "pInstance", "de/d11/a16898.html#a44460335986bcedf35dc295c242df6da", null ]
+    [ "boss_tyrannusAI", "de/d11/a16898.html#a753de14d2cecaaed2c7b24e09397b008", null ],
+    [ "CanAIAttack", "de/d11/a16898.html#a0cb60f308637cbd152faf274b3e5f636", null ],
+    [ "DoAction", "de/d11/a16898.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
+    [ "EnterEvadeMode", "de/d11/a16898.html#a9d18bab323c676020dede77a498a5b77", null ],
+    [ "JustDied", "de/d11/a16898.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
+    [ "KilledUnit", "de/d11/a16898.html#abf7c8909143dac641c00cca160bef964", null ],
+    [ "Reset", "de/d11/a16898.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
+    [ "UpdateAI", "de/d11/a16898.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
+    [ "events", "de/d11/a16898.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
+    [ "pInstance", "de/d11/a16898.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
 ];

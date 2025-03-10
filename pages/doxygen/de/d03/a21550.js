@@ -1,18 +1,13 @@
 var a21550 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "de/d03/a21550.html#af2a8c43537cac96be12e6dc8d7874cec", null ],
-    [ "DespawnOachanoa", "de/d03/a21550.html#ac9c4473578ba8a19b280548b4257bafa", null ],
-    [ "GetOachanoa", "de/d03/a21550.html#acf992e311bb8ab91683556036b0fbe86", null ],
-    [ "GetPlayer", "de/d03/a21550.html#aec678cda5d636e66907593d8b3f952f4", null ],
-    [ "NextStep", "de/d03/a21550.html#ae66ac194b89e761808cd3e226fc7e495", null ],
-    [ "Reset", "de/d03/a21550.html#af52e16097889f80d02ab2362f5578257", null ],
-    [ "Start", "de/d03/a21550.html#ad34d850e1f11da93dc461995d9f00115", null ],
-    [ "UpdateAI", "de/d03/a21550.html#aa47d7c8a0c34fc2cf4a7b1d31d21cd4a", null ],
-    [ "canjump", "de/d03/a21550.html#a6705fda3183602c11573735e0ac536a8", null ],
-    [ "oachanoaGUID", "de/d03/a21550.html#a32c351c44121629bccea71f2fd27cf9c", null ],
-    [ "pGUID", "de/d03/a21550.html#aabca8fe8385fe88d6ed6ad7ae6da0261", null ],
-    [ "running", "de/d03/a21550.html#a62e33501656b57698b19d8fec44afa37", null ],
-    [ "secondpart", "de/d03/a21550.html#a98e6aaa14d458228e97ced45e553c2bf", null ],
-    [ "step", "de/d03/a21550.html#ab8f80e5b25f58028abdd2077c2e9de7f", null ],
-    [ "timer", "de/d03/a21550.html#a694c235ee9a23b30ac0aa7b15ee8db3c", null ]
+    [ "npc_shandy_dalaranAI", "de/d03/a21550.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
+    [ "Reset", "de/d03/a21550.html#a38f0630d4e18cea01de343afdcb96db3", null ],
+    [ "RollTask", "de/d03/a21550.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
+    [ "SetData", "de/d03/a21550.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
+    [ "UpdateAI", "de/d03/a21550.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
+    [ "_aquanosGUID", "de/d03/a21550.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
+    [ "_canWash", "de/d03/a21550.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
+    [ "_events", "de/d03/a21550.html#a3fbae63669c8382097b0bcb936301945", null ],
+    [ "_lCount", "de/d03/a21550.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
+    [ "_lSource", "de/d03/a21550.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
 ];

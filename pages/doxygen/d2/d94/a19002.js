@@ -1,6 +1,10 @@
 var a19002 =
 [
-    [ "boss_thaddius_summonAI", "d4/d82/a19006.html", "d4/d82/a19006" ],
-    [ "boss_thaddius_summon", "d2/d94/a19002.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
-    [ "GetAI", "d2/d94/a19002.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
+    [ "boss_patchwerkAI", "d2/d94/a19002.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "d2/d94/a19002.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "d2/d94/a19002.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "d2/d94/a19002.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "d2/d94/a19002.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "d2/d94/a19002.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "d2/d94/a19002.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

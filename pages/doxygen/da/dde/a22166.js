@@ -1,8 +1,9 @@
 var a22166 =
 [
-    [ "npc_wg_spirit_guideAI", "dc/d99/a22170.html", "dc/d99/a22170" ],
-    [ "npc_wg_spirit_guide", "da/dde/a22166.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
-    [ "GetAI", "da/dde/a22166.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
-    [ "OnGossipHello", "da/dde/a22166.html#a2d46078cb47f817239685d168f7f2e35", null ],
-    [ "OnGossipSelect", "da/dde/a22166.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
+    [ "npc_brunnhildar_prisonerAI", "da/dde/a22166.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "da/dde/a22166.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "da/dde/a22166.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "da/dde/a22166.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "da/dde/a22166.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "da/dde/a22166.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

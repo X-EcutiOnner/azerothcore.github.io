@@ -1,7 +1,6 @@
 var a15426 =
 [
-    [ "npc_kaya_flathoofAI", "d2/d2b/a15426.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "d2/d2b/a15426.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "d2/d2b/a15426.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "d2/d2b/a15426.html#a8fcbb19279b925138ba96d2a450fc404", null ]
+    [ "npc_qiraj_war_spawnAI", "d1/d3b/a15430.html", "d1/d3b/a15430" ],
+    [ "npc_qiraj_war_spawn", "d2/d2b/a15426.html#a2afba33e9fd879ac3fea206768b14334", null ],
+    [ "GetAI", "d2/d2b/a15426.html#a32339f20251c188b895c02b6cc9217e9", null ]
 ];

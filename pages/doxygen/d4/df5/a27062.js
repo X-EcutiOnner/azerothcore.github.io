@@ -1,6 +1,6 @@
 var a27062 =
 [
-    [ "go_bear_trapAI", "dd/d39/a27066.html", "dd/d39/a27066" ],
-    [ "go_bear_trap", "d4/df5/a27062.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
-    [ "GetAI", "d4/df5/a27062.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
+    [ "go_witherbark_totem_bundleAI", "dd/d39/a27066.html", "dd/d39/a27066" ],
+    [ "go_witherbark_totem_bundle", "d4/df5/a27062.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "d4/df5/a27062.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

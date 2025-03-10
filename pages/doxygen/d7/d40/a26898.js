@@ -1,5 +1,5 @@
 var a26898 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "d7/d40/a26898.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "d7/d40/a26898.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "achievement_everything_counts", "d7/d40/a26898.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
+    [ "OnCheck", "d7/d40/a26898.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
 ];

@@ -1,7 +1,6 @@
 var a24118 =
 [
-    [ "HandleEffectRemove", "de/d7c/a24118.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
-    [ "PrepareAuraScript", "de/d7c/a24118.html#a19ce53b5731b0789896612fa55f38849", null ],
-    [ "Register", "de/d7c/a24118.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
-    [ "Validate", "de/d7c/a24118.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "d6/d10/a24122.html", "d6/d10/a24122" ],
+    [ "npc_shadowmoon_tuber_node", "de/d7c/a24118.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "de/d7c/a24118.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

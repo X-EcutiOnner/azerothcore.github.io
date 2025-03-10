@@ -1,11 +1,35 @@
 var a04037 =
 [
-    [ "AddOutdoorPvPScripts", "df/d11/a04037.html#a489bdfb4854732e561b6b13b70f67a0f", null ],
-    [ "AddSC_outdoorpvp_ep", "df/d11/a04037.html#ac97adfc1efbcf82840cffa915a55fecb", null ],
-    [ "AddSC_outdoorpvp_gh", "df/d11/a04037.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ],
-    [ "AddSC_outdoorpvp_hp", "df/d11/a04037.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
-    [ "AddSC_outdoorpvp_na", "df/d11/a04037.html#a03015585e7619177355fefd05f85e1c7", null ],
-    [ "AddSC_outdoorpvp_si", "df/d11/a04037.html#a6dfd2849f525333510ae4febbbc3ae1f", null ],
-    [ "AddSC_outdoorpvp_tf", "df/d11/a04037.html#a6df553c8dd6e9b81e83110e7beab3646", null ],
-    [ "AddSC_outdoorpvp_zm", "df/d11/a04037.html#a3077d08865fa83f84cf956c392a9091c", null ]
+    [ "npc_attracted_reef_bull", "da/d7c/a21870.html", "da/d7c/a21870" ],
+    [ "npc_attracted_reef_bull::npc_attracted_reef_bullAI", "d6/d47/a21874.html", "d6/d47/a21874" ],
+    [ "npc_your_inner_turmoil", "d9/dd9/a21878.html", "d9/dd9/a21878" ],
+    [ "npc_your_inner_turmoil::npc_your_inner_turmoilAI", "d4/d55/a21882.html", "d4/d55/a21882" ],
+    [ "npc_apothecary_hanes", "dd/d61/a21886.html", "dd/d61/a21886" ],
+    [ "npc_apothecary_hanes::npc_Apothecary_HanesAI", "dd/da0/a21890.html", "dd/da0/a21890" ],
+    [ "npc_plaguehound_tracker", "d7/da8/a21894.html", "d7/da8/a21894" ],
+    [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "df/dc1/a21898.html", "df/dc1/a21898" ],
+    [ "npc_razael_and_lyana", "db/d5c/a21902.html", "db/d5c/a21902" ],
+    [ "Entries", "df/d11/a04037.html#a06de533fb3e7ec530f0493022ad98889", [
+      [ "NPC_APOTHECARY_HANES", "df/d11/a04037.html#a06de533fb3e7ec530f0493022ad98889acf2750295b6eec6dd126edd3e314b704", null ],
+      [ "NPC_HANES_FIRE_TRIGGER", "df/d11/a04037.html#a06de533fb3e7ec530f0493022ad98889a1d184f3197ea2249507f226925f86d51", null ],
+      [ "QUEST_TRAIL_OF_FIRE", "df/d11/a04037.html#a06de533fb3e7ec530f0493022ad98889a3b04eef2d1544dfd01157f3936b8931e", null ],
+      [ "SPELL_COSMETIC_LOW_POLY_FIRE", "df/d11/a04037.html#a06de533fb3e7ec530f0493022ad98889a3e64d85cd00e4529984f105930950743", null ],
+      [ "SPELL_HEALING_POTION", "df/d11/a04037.html#a06de533fb3e7ec530f0493022ad98889a13bb6f847a01b8a989be597f21d79b75", null ]
+    ] ],
+    [ "Razael", "df/d11/a04037.html#a7fbd4804d568fc6fbf46da35d3c3ffbc", [
+      [ "QUEST_REPORTS_FROM_THE_FIELD", "df/d11/a04037.html#a7fbd4804d568fc6fbf46da35d3c3ffbca7babf6a26e3dc43b61fa6284e07f955a", null ],
+      [ "NPC_RAZAEL", "df/d11/a04037.html#a7fbd4804d568fc6fbf46da35d3c3ffbcae04ab9caff2861d2f49da40755b84e1c", null ],
+      [ "NPC_LYANA", "df/d11/a04037.html#a7fbd4804d568fc6fbf46da35d3c3ffbca5efa419daacf74521ba680f68bed979e", null ],
+      [ "GOSSIP_TEXTID_RAZAEL1", "df/d11/a04037.html#a7fbd4804d568fc6fbf46da35d3c3ffbca65b20fa216028b36c1a98b0af4e4239a", null ],
+      [ "GOSSIP_TEXTID_RAZAEL2", "df/d11/a04037.html#a7fbd4804d568fc6fbf46da35d3c3ffbca313a7629a69c0bf528e79730249c4d51", null ],
+      [ "GOSSIP_TEXTID_LYANA1", "df/d11/a04037.html#a7fbd4804d568fc6fbf46da35d3c3ffbca141f525bef4cf496e2f8aaf8cfa2799b", null ],
+      [ "GOSSIP_TEXTID_LYANA2", "df/d11/a04037.html#a7fbd4804d568fc6fbf46da35d3c3ffbca43caf287e871cac2d4a7d2e821727377", null ]
+    ] ],
+    [ "TurmoilTexts", "df/d11/a04037.html#ae01e16ebe34a24a598f4b4fb26dbf919", [
+      [ "SAY_TURMOIL_0", "df/d11/a04037.html#ae01e16ebe34a24a598f4b4fb26dbf919a942b14a6948f52ce8970c678198ca200", null ],
+      [ "SAY_TURMOIL_1", "df/d11/a04037.html#ae01e16ebe34a24a598f4b4fb26dbf919a552b3da685e5d5c0ee068936387378c8", null ],
+      [ "SAY_TURMOIL_HALF_HP", "df/d11/a04037.html#ae01e16ebe34a24a598f4b4fb26dbf919a378c2c631bf845c1710a9d8cc64a2541", null ],
+      [ "SAY_TURMOIL_DEATH", "df/d11/a04037.html#ae01e16ebe34a24a598f4b4fb26dbf919ae008192ae78fbdcce408850140f26eb8", null ]
+    ] ],
+    [ "AddSC_howling_fjord", "df/d11/a04037.html#a1f2f485d0649e510913e07a28b6082a5", null ]
 ];

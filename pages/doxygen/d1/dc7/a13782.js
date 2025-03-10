@@ -1,6 +1,6 @@
 var a13782 =
 [
-    [ "boss_gahzranka", "d1/dc7/a13782.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "d1/dc7/a13782.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "d1/dc7/a13782.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "npc_eagle_trash_aggro_trigger", "d1/dc7/a13782.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "d1/dc7/a13782.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "d1/dc7/a13782.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

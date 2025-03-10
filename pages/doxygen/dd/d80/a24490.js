@@ -1,6 +1,8 @@
 var a24490 =
 [
-    [ "CalculateAmount", "dd/d80/a24490.html#ada4514ba7769ebceeed1e0ab1c3a33e8", null ],
-    [ "PrepareAuraScript", "dd/d80/a24490.html#a1faa084b17776e826242293e2aaef2f4", null ],
-    [ "Register", "dd/d80/a24490.html#a94b21c91954385201d4bad6aff2205fc", null ]
+    [ "HandleEffectApply", "dd/d80/a24490.html#a88e98bcb11fb16696f789878f79c665c", null ],
+    [ "HandleEffectRemove", "dd/d80/a24490.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
+    [ "PrepareAuraScript", "dd/d80/a24490.html#a64f9e0f3d0376342767b912e32642c6c", null ],
+    [ "Register", "dd/d80/a24490.html#a72d6639589588282ea15cfe83c9e9b76", null ],
+    [ "Validate", "dd/d80/a24490.html#ac936c92c3a24fba95505243cd3e79c21", null ]
 ];

@@ -1,8 +1,11 @@
 var a20786 =
 [
-    [ "FilterTargets", "d7/d2e/a20786.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
-    [ "HandleDummyEffect", "d7/d2e/a20786.html#ab1f662fa107d176386067ffc6467d90f", null ],
-    [ "PrepareSpellScript", "d7/d2e/a20786.html#a069cc54bf009830ad781c790b4fcedad", null ],
-    [ "Register", "d7/d2e/a20786.html#ac91532151b689bde35d7120b1e9aec5b", null ],
-    [ "Validate", "d7/d2e/a20786.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
+    [ "boss_yoggsaron_neltharionAI", "d7/d2e/a20786.html#aacefe32de32513bdf46c0dd526768e25", null ],
+    [ "NextStep", "d7/d2e/a20786.html#a4770948240ac56ec151c262c8996e4e4", null ],
+    [ "Reset", "d7/d2e/a20786.html#a03841acfd21e920bc6589203448709a0", null ],
+    [ "Say", "d7/d2e/a20786.html#ae45f051ab64ce1f96f32e5b8d073356e", null ],
+    [ "UpdateAI", "d7/d2e/a20786.html#a80c174a8ffa15550627ed27ab0d8925d", null ],
+    [ "_checkTimer", "d7/d2e/a20786.html#a7eef651198e09cf25c2f039bcb4a1876", null ],
+    [ "_running", "d7/d2e/a20786.html#a6b2f01ed2ffe8113cbddd4a033886059", null ],
+    [ "_step", "d7/d2e/a20786.html#a0ac37717e940b094d322a7e492202718", null ]
 ];

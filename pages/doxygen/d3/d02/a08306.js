@@ -1,5 +1,5 @@
 var a08306 =
 [
-    [ "InventoryType", "d3/d02/a08306.html#a5d2733f6b8e3fda906f18fb45330d437", null ],
-    [ "name", "d3/d02/a08306.html#a67245cff18aad700717b7b7af9f07458", null ]
+    [ "Color", "d3/d02/a08306.html#ad6232c851b72ce04d2dcfa00596fc1df", null ],
+    [ "Content", "d3/d02/a08306.html#a5437849d9b7f229c4466e174d619d057", null ]
 ];

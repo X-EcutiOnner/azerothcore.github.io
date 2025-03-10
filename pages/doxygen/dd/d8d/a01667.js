@@ -1,4 +1,4 @@
 var a01667 =
 [
-    [ "ScriptRegistry< MovementHandlerScript >", "dd/d8d/a01667.html#adecbf467a875ee8886c336d96a2f97dc", null ]
+    [ "ScriptRegistry< AllSpellScript >", "dd/d8d/a01667.html#a6fb50c7d667ae3d14a6d307b0862e957", null ]
 ];

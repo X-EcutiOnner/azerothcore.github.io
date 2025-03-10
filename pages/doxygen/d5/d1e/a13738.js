@@ -1,9 +1,7 @@
 var a13738 =
 [
-    [ "npc_amanishi_lookout", "d5/d1e/a13738.html#adf34c160c531164a459092f45588a7be", null ],
-    [ "DoAction", "d5/d1e/a13738.html#ab43e3372000af268c81e2701070e1b03", null ],
-    [ "MoveInLineOfSight", "d5/d1e/a13738.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
-    [ "MovementInform", "d5/d1e/a13738.html#ae9e6d22a781392107a7e50e5815c116c", null ],
-    [ "Reset", "d5/d1e/a13738.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
-    [ "_instance", "d5/d1e/a13738.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
+    [ "OnPeriodic", "d5/d1e/a13738.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
+    [ "PrepareAuraScript", "d5/d1e/a13738.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
+    [ "Register", "d5/d1e/a13738.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
+    [ "Validate", "d5/d1e/a13738.html#a7ed214de6769314a45540e9afdb82949", null ]
 ];

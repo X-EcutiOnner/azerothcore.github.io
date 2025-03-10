@@ -1,6 +1,6 @@
 var a18554 =
 [
-    [ "PrepareSpellScript", "d9/d62/a18554.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "d9/d62/a18554.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "d9/d62/a18554.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "npc_arthas_teleport_visualAI", "d6/da9/a18558.html", "d6/da9/a18558" ],
+    [ "npc_arthas_teleport_visual", "d9/d62/a18554.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "d9/d62/a18554.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

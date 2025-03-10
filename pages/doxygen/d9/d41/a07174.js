@@ -1,7 +1,12 @@
 var a07174 =
 [
-    [ "ArenaSeasonReward", "d9/d41/a07174.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
-    [ "operator==", "d9/d41/a07174.html#a2f04bbb871ab3b90f5dc3121e2bff213", null ],
-    [ "entry", "d9/d41/a07174.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
-    [ "type", "d9/d41/a07174.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
+    [ "Arena", "d9/d41/a07174.html#a74f105bc709d4728fb07f1984abfd345", null ],
+    [ "AddPlayer", "d9/d41/a07174.html#ae24fe304d35c0c09379203135e936450", null ],
+    [ "CheckWinConditions", "d9/d41/a07174.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
+    [ "EndBattleground", "d9/d41/a07174.html#a2be61602189b530a16a9ca954d180914", null ],
+    [ "FillInitialWorldStates", "d9/d41/a07174.html#a592100d0f0ed492a5cdf941e57db787f", null ],
+    [ "HandleKillPlayer", "d9/d41/a07174.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
+    [ "RemovePlayer", "d9/d41/a07174.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
+    [ "RemovePlayerAtLeave", "d9/d41/a07174.html#acae21233e11b21b612e5c051bfa7720e", null ],
+    [ "UpdateArenaWorldState", "d9/d41/a07174.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
 ];

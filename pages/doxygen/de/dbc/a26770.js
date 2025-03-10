@@ -1,6 +1,7 @@
 var a26770 =
 [
-    [ "HandleHeal", "de/dbc/a26770.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
-    [ "PrepareSpellScript", "de/dbc/a26770.html#a61a601108cd59e5d87634c02b002e20d", null ],
-    [ "Register", "de/dbc/a26770.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
+    [ "HandleApplyAura", "de/dbc/a26770.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "de/dbc/a26770.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "de/dbc/a26770.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "de/dbc/a26770.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

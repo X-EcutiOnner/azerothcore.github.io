@@ -1,7 +1,6 @@
 var a23834 =
 [
-    [ "HandleEffect", "d0/d81/a23834.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d0/d81/a23834.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d0/d81/a23834.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d0/d81/a23834.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "npc_deaths_fel_cannonAI", "d0/d81/a23834.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "d0/d81/a23834.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "d0/d81/a23834.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

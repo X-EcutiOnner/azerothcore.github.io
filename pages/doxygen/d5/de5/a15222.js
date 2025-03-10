@@ -1,6 +1,5 @@
 var a15222 =
 [
-    [ "npc_rabid_thistle_bearAI", "d6/dd4/a15226.html", "d6/dd4/a15226" ],
-    [ "npc_rabid_thistle_bear", "d5/de5/a15222.html#a34b20a4ea22d74352712dee105247d56", null ],
-    [ "GetAI", "d5/de5/a15222.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
+    [ "go_bristlelimb_cage", "d5/de5/a15222.html#ab965b9c529577a5e58639285fa35d3d7", null ],
+    [ "OnGossipHello", "d5/de5/a15222.html#a6f29e07550767c1c0610f46e4921503f", null ]
 ];

@@ -1,13 +1,11 @@
 var a01796 =
 [
-    [ "PetScript", "dc/d36/a10304.html", "dc/d36/a10304" ],
-    [ "PetHook", "d3/d92/a01796.html#a2e6398af59b176e045eece50b1a5d404", [
-      [ "PETHOOK_ON_INIT_STATS_FOR_LEVEL", "d3/d92/a01796.html#a2e6398af59b176e045eece50b1a5d404a1aa219c404710f806516a47fb4a2c421", null ],
-      [ "PETHOOK_ON_CALCULATE_MAX_TALENT_POINTS_FOR_LEVEL", "d3/d92/a01796.html#a2e6398af59b176e045eece50b1a5d404af4173fac4396520c8d5f664cb15cd09a", null ],
-      [ "PETHOOK_CAN_UNLEARN_SPELL_SET", "d3/d92/a01796.html#a2e6398af59b176e045eece50b1a5d404a73a664bf8c79a8347a66639e7f4585ed", null ],
-      [ "PETHOOK_CAN_UNLEARN_SPELL_DEFAULT", "d3/d92/a01796.html#a2e6398af59b176e045eece50b1a5d404afd7165a69bf431cabc9b485460fde1ce", null ],
-      [ "PETHOOK_CAN_RESET_TALENTS", "d3/d92/a01796.html#a2e6398af59b176e045eece50b1a5d404a7c81bb255968b85119ef74e3124abe11", null ],
-      [ "PETHOOK_ON_PET_ADD_TO_WORLD", "d3/d92/a01796.html#a2e6398af59b176e045eece50b1a5d404a34b989d3a1e33e5ab31d98bf4a36ee56", null ],
-      [ "PETHOOK_END", "d3/d92/a01796.html#a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911", null ]
-    ] ]
+    [ "SpellScriptLoader", "d9/d14/a10334.html", "d9/d14/a10334" ],
+    [ "GenericSpellAndAuraScriptLoader< Ts >", "d5/d54/a10338.html", "d5/d54/a10338" ],
+    [ "RegisterSpellAndAuraScriptPair", "d3/d92/a01796.html#a69b21d1b83cecaba944f4e9379bc866c", null ],
+    [ "RegisterSpellAndAuraScriptPairWithArgs", "d3/d92/a01796.html#aeffc3c8d08a35d5969c33508488e9051", null ],
+    [ "RegisterSpellScript", "d3/d92/a01796.html#ae221e5976ab29ba14fec3b073a03670f", null ],
+    [ "RegisterSpellScriptWithArgs", "d3/d92/a01796.html#aedecf91f4fce46852db865deae243e1f", null ],
+    [ "is_AuraScript", "d3/d92/a01796.html#a08facc7292565931370e1cc514f726e1", null ],
+    [ "is_SpellScript", "d3/d92/a01796.html#a2b573b538dcbf3da43ae603709d93bf2", null ]
 ];

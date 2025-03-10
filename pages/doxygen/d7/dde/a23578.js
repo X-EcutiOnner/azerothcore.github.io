@@ -1,8 +1,8 @@
 var a23578 =
 [
-    [ "boss_laj", "d7/dde/a23578.html#a3c9323ab4b5530504588ea62aed2edff", null ],
-    [ "Reset", "d7/dde/a23578.html#ace690a0662376addaa40093f3f119c31", null ],
-    [ "ScheduleTasks", "d7/dde/a23578.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
-    [ "_lastTransform", "d7/dde/a23578.html#a097eacaaf77a09bec087530bad587b11", null ],
-    [ "_transformContainer", "d7/dde/a23578.html#a313e66ceeb4e359251dad65383e7f568", null ]
+    [ "HandleEffectApply", "d7/dde/a23578.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
+    [ "HandleEffectRemove", "d7/dde/a23578.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
+    [ "PrepareAuraScript", "d7/dde/a23578.html#a438a8ba3688e0832853bae4183695494", null ],
+    [ "Register", "d7/dde/a23578.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
+    [ "Validate", "d7/dde/a23578.html#ab07b244e53b397bc9e9842655617a80d", null ]
 ];

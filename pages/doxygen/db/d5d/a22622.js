@@ -1,7 +1,9 @@
 var a22622 =
 [
-    [ "HandleDummy", "db/d5d/a22622.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
-    [ "PrepareSpellScript", "db/d5d/a22622.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
-    [ "Register", "db/d5d/a22622.html#af5926d8570de13e66aa1870184620b94", null ],
-    [ "Validate", "db/d5d/a22622.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
+    [ "npc_flame_of_azzinoth", "db/d5d/a22622.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
+    [ "IsSummonedBy", "db/d5d/a22622.html#a5254057af0371a08ea01fe91502c2a20", null ],
+    [ "JustEngagedWith", "db/d5d/a22622.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
+    [ "JustSummoned", "db/d5d/a22622.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
+    [ "UpdateAI", "db/d5d/a22622.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
+    [ "_bladeGUID", "db/d5d/a22622.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
 ];

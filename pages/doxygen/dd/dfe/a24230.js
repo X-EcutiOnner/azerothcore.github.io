@@ -1,7 +1,6 @@
 var a24230 =
 [
-    [ "npc_pet_gen_target_following_bomb", "dd/dfe/a24230.html#a447c2cd258d784ca1d79c79412a1a426", null ],
-    [ "UpdateAI", "dd/dfe/a24230.html#ac68f18d68a313623c04e885f9506f287", null ],
-    [ "bombSpellId", "dd/dfe/a24230.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
-    [ "checkTimer", "dd/dfe/a24230.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
+    [ "npc_pet_dk_ghoulAI", "db/dc3/a24234.html", "db/dc3/a24234" ],
+    [ "npc_pet_dk_ghoul", "dd/dfe/a24230.html#ac8af6ae753151a08e80d434a04ef58db", null ],
+    [ "GetAI", "dd/dfe/a24230.html#a74b068bdccf5d9b25b4ef3bff0a193ef", null ]
 ];

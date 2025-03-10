@@ -1,6 +1,5 @@
 var a14194 =
 [
-    [ "HandleDummy", "de/d24/a14194.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
-    [ "PrepareSpellScript", "de/d24/a14194.html#a87a787c6ab3804847c90266f570381c6", null ],
-    [ "Register", "de/d24/a14194.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "de/d24/a14194.html#a40207493c75d8a63284e08f1f75d56c4", null ],
+    [ "MoveInLineOfSight", "de/d24/a14194.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
 ];

@@ -1,6 +1,6 @@
 var a12094 =
 [
-    [ "npc_vaelastrasz_the_redAI", "d3/d2d/a12098.html", "d3/d2d/a12098" ],
-    [ "npc_vaelastrasz_the_red", "df/dac/a12094.html#af39fcaa29b200e3b7933f97de277df6b", null ],
-    [ "GetAI", "df/dac/a12094.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
+    [ "instance_blackrock_spireMapScript", "d3/d2d/a12098.html", "d3/d2d/a12098" ],
+    [ "instance_blackrock_spire", "df/dac/a12094.html#a3238be88efcdc9669e7e6a1d725649b3", null ],
+    [ "GetInstanceScript", "df/dac/a12094.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a", null ]
 ];

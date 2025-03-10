@@ -1,10 +1,8 @@
 var a15338 =
 [
-    [ "npc_omenAI", "d7/d0c/a15338.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
-    [ "JustDied", "d7/d0c/a15338.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
-    [ "JustEngagedWith", "d7/d0c/a15338.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
-    [ "MovementInform", "d7/d0c/a15338.html#a92e59bde1f0da2ee537a836304a3c385", null ],
-    [ "SpellHit", "d7/d0c/a15338.html#a4e3960d506fd0435de055a365906a9c9", null ],
-    [ "UpdateAI", "d7/d0c/a15338.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
-    [ "events", "d7/d0c/a15338.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
+    [ "FilterTargets", "d7/d0c/a15338.html#a47b8055fa1b28968e8323ca98613aa83", null ],
+    [ "HandleScript", "d7/d0c/a15338.html#a8f7984e510d8947a2ae4b0734409866b", null ],
+    [ "PrepareSpellScript", "d7/d0c/a15338.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
+    [ "Register", "d7/d0c/a15338.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
+    [ "Validate", "d7/d0c/a15338.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
 ];

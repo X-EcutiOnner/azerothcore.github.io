@@ -1,15 +1,9 @@
 var a16662 =
 [
-    [ "boss_falricAI", "d2/dfd/a16662.html#a8b333fe1571f98b4e9f44152d130a22d", null ],
-    [ "DoAction", "d2/dfd/a16662.html#a2a7de8f939cd3cdc113c841da36e28c8", null ],
-    [ "EnterEvadeMode", "d2/dfd/a16662.html#aacb6a3b13fe5ea08ab2ff0e77ff841a4", null ],
-    [ "JustDied", "d2/dfd/a16662.html#a4ee3163afcda23102d639740fd628f39", null ],
-    [ "JustEngagedWith", "d2/dfd/a16662.html#ae5a8b14e1984dbd2866af7c442c02df2", null ],
-    [ "KilledUnit", "d2/dfd/a16662.html#a4a8b45eb85c1328af6beec69f2db1842", null ],
-    [ "Reset", "d2/dfd/a16662.html#a0af8ef161bc2a37a5c7f7fa880194251", null ],
-    [ "UpdateAI", "d2/dfd/a16662.html#a640036111dcd14e40016342ffdef7d63", null ],
-    [ "events", "d2/dfd/a16662.html#aa94ca00db157378071b78142b213de23", null ],
-    [ "pInstance", "d2/dfd/a16662.html#aebeae3541bbbf392c44fd52516bb2d98", null ],
-    [ "startFightTimer", "d2/dfd/a16662.html#addd560074b840aed36f41883f893340e", null ],
-    [ "uiHopelessnessCount", "d2/dfd/a16662.html#a0ad83fb57263116a59976834c6667ea9", null ]
+    [ "HandlePeriodicTick", "d2/dfd/a16662.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "d2/dfd/a16662.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "d2/dfd/a16662.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "d2/dfd/a16662.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "d2/dfd/a16662.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "d2/dfd/a16662.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

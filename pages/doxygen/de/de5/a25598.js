@@ -1,8 +1,8 @@
 var a25598 =
 [
-    [ "HandleDummy", "de/de5/a25598.html#a3db6982f1162ac6b03771a0e7e432e6d", null ],
-    [ "Load", "de/de5/a25598.html#a9671be7920dfd3bde2033f0ae43259b0", null ],
-    [ "PrepareSpellScript", "de/de5/a25598.html#ad50c9141d40b7089fd24a8657d496a8d", null ],
-    [ "Register", "de/de5/a25598.html#a249a857b1cf5b0c3be6018cb233c75d1", null ],
-    [ "Validate", "de/de5/a25598.html#ac209048bd5688417c391c2c9b8a72d8b", null ]
+    [ "HandleDummy", "de/de5/a25598.html#ac6db67f521a8fd1e8de4cd22220b45fe", null ],
+    [ "Load", "de/de5/a25598.html#af767de9953372e5e56509a0be9e90958", null ],
+    [ "PrepareSpellScript", "de/de5/a25598.html#a0385a22f908ac62ab987fe9f84cad330", null ],
+    [ "Register", "de/de5/a25598.html#a1212726a4fcbac06b527648dff58c546", null ],
+    [ "Validate", "de/de5/a25598.html#ab014db76cf4656e10665f12fb18c5997", null ]
 ];

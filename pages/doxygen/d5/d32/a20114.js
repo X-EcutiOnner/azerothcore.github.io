@@ -1,5 +1,7 @@
 var a20114 =
 [
-    [ "achievement_getting_cold_in_here", "d5/d32/a20114.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "d5/d32/a20114.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "HandleEffectPeriodic", "d5/d32/a20114.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "d5/d32/a20114.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "d5/d32/a20114.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "d5/d32/a20114.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

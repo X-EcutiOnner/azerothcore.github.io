@@ -1,6 +1,6 @@
 var a19466 =
 [
-    [ "dark_rune_stormcallerAI", "d3/d82/a19470.html", "d3/d82/a19470" ],
-    [ "dark_rune_stormcaller", "d0/da9/a19466.html#ab31774011fc3e1e8ffa1a3b7c5cbfbcc", null ],
-    [ "GetAI", "d0/da9/a19466.html#a9072aaf482106cfae0d3901507b47f60", null ]
+    [ "boss_sjonnir_dwarfAI", "d3/d82/a19470.html", "d3/d82/a19470" ],
+    [ "boss_sjonnir_dwarf", "d0/da9/a19466.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
+    [ "GetAI", "d0/da9/a19466.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
 ];

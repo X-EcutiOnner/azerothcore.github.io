@@ -1,7 +1,14 @@
 var a13694 =
 [
-    [ "npc_zuljin_vortex", "d8/db0/a13694.html#af3af996adc0a0dba4af992234f8356fb", null ],
-    [ "ChangeToNewPlayer", "d8/db0/a13694.html#ab353794ef978151999fdd2294783e757", null ],
-    [ "Reset", "d8/db0/a13694.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
-    [ "UpdateAI", "d8/db0/a13694.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
+    [ "boss_hexlord_malacrass", "d8/db0/a13694.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
+    [ "JustEngagedWith", "d8/db0/a13694.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
+    [ "KilledUnit", "d8/db0/a13694.html#a69e7a3aa2cb068706651bad34363099f", null ],
+    [ "Reset", "d8/db0/a13694.html#af00159c9e2c54033f52f46d60881f22e", null ],
+    [ "ScheduleClassAbility", "d8/db0/a13694.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
+    [ "SpawnAdds", "d8/db0/a13694.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
+    [ "UseAbility", "d8/db0/a13694.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
+    [ "_classAbilityTimer", "d8/db0/a13694.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
+    [ "_creatureIndex", "d8/db0/a13694.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
+    [ "_currentClass", "d8/db0/a13694.html#ab7e531fccbb486b7b429d77d804841c2", null ],
+    [ "_timeUntilNextDrainPower", "d8/db0/a13694.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
 ];

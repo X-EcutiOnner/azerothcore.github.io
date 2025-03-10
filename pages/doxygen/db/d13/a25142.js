@@ -1,7 +1,7 @@
 var a25142 =
 [
-    [ "HandleScript", "db/d13/a25142.html#a12f4c4a85f19ceb55d274428cf2b25a4", null ],
-    [ "PrepareSpellScript", "db/d13/a25142.html#acf1173670c35c84ae7aba29be00d31cf", null ],
-    [ "Register", "db/d13/a25142.html#a5a2c59463a0546b6f5cd375b3671b86b", null ],
-    [ "Validate", "db/d13/a25142.html#a437a018fd6917bee51bdbba7cf29e53d", null ]
+    [ "PrepareAuraScript", "db/d13/a25142.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
+    [ "Register", "db/d13/a25142.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
+    [ "TriggerFoodBuff", "db/d13/a25142.html#a5d125413491dd377d61b8e30c4979fdd", null ],
+    [ "Validate", "db/d13/a25142.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
 ];

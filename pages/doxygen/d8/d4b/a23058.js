@@ -1,9 +1,13 @@
 var a23058 =
 [
-    [ "FilterTargets", "d8/d4b/a23058.html#a9049c113d65b15a9a8e1143980a84b23", null ],
-    [ "HandleDummy", "d8/d4b/a23058.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
-    [ "Load", "d8/d4b/a23058.html#a8cad82701e0147e14f826243175e1c32", null ],
-    [ "PrepareSpellScript", "d8/d4b/a23058.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
-    [ "Register", "d8/d4b/a23058.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
-    [ "_targetNumber", "d8/d4b/a23058.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
+    [ "npc_inner_demon", "d8/d4b/a23058.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
+    [ "CanAIAttack", "d8/d4b/a23058.html#a7498fd32b0ace832b38dc624d07478ed", null ],
+    [ "CanBeSeen", "d8/d4b/a23058.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
+    [ "CanReceiveDamage", "d8/d4b/a23058.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
+    [ "IsSummonedBy", "d8/d4b/a23058.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
+    [ "JustDied", "d8/d4b/a23058.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
+    [ "OnCalculateMeleeDamageReceived", "d8/d4b/a23058.html#ae95022548b44b23ef93fae24729b5af5", null ],
+    [ "OnCalculatePeriodicTickReceived", "d8/d4b/a23058.html#a546281a2257d0407d294fba1f7d3426f", null ],
+    [ "OnCalculateSpellDamageReceived", "d8/d4b/a23058.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
+    [ "UpdateAI", "d8/d4b/a23058.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
 ];

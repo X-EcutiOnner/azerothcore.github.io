@@ -1,7 +1,6 @@
 var a15934 =
 [
-    [ "npc_orb_carrierAI", "dc/d0b/a15934.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "dc/d0b/a15934.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "dc/d0b/a15934.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "dc/d0b/a15934.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "npc_onyx_flamecallerAI", "d0/d29/a15938.html", "d0/d29/a15938" ],
+    [ "npc_onyx_flamecaller", "dc/d0b/a15934.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
+    [ "GetAI", "dc/d0b/a15934.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
 ];

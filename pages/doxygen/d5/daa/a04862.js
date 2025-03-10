@@ -1,6 +1,5 @@
 var a04862 =
 [
-    [ "node", "d5/daa/a04862.html#a5b76f0ea514d55ed9ba8ea6c4bdf7491", null ],
-    [ "tfar", "d5/daa/a04862.html#ad53b746617dd5a46930dae493d7488d9", null ],
-    [ "tnear", "d5/daa/a04862.html#a938ca2ace2aa498abdda93ee824b6f09", null ]
+    [ "hi", "d5/daa/a04862.html#aa227ae5593ba3111598033f570d97cb9", null ],
+    [ "lo", "d5/daa/a04862.html#aaf79653331f78979c84dfee2da118fdd", null ]
 ];

@@ -1,6 +1,14 @@
 var a23826 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d5/d27/a23830.html", "d5/d27/a23830" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "dc/d3e/a23826.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
-    [ "GetAI", "dc/d3e/a23826.html#a60d55e2eda4484ceea4e475ac8653977", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "dc/d3e/a23826.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "dc/d3e/a23826.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "dc/d3e/a23826.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "dc/d3e/a23826.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "dc/d3e/a23826.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "dc/d3e/a23826.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "dc/d3e/a23826.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "dc/d3e/a23826.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "dc/d3e/a23826.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "dc/d3e/a23826.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "dc/d3e/a23826.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

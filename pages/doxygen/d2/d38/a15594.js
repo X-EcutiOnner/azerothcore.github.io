@@ -1,22 +1,12 @@
 var a15594 =
 [
-    [ "npc_sergeant_blyAI", "d2/d38/a15594.html#a216f8b75707e25698619786b87500461", null ],
-    [ "DoAction", "d2/d38/a15594.html#a4fb20172c48257aafe284b3934a9c357", null ],
-    [ "EnterEvadeMode", "d2/d38/a15594.html#a2844efbb2f213401f83ab042f974974a", null ],
-    [ "InitializeAI", "d2/d38/a15594.html#ae3abcf75a666c5bd722ca060fca4a12c", null ],
-    [ "MovementInform", "d2/d38/a15594.html#acf32d74b4f0454f01f7313df6b35c4d3", null ],
-    [ "Reset", "d2/d38/a15594.html#a2991ad4ecd6b236d7002c3dddd540b00", null ],
-    [ "sGossipHello", "d2/d38/a15594.html#a342c8b5bd49e8cfd94c41a58159e4f5c", null ],
-    [ "sGossipSelect", "d2/d38/a15594.html#a9df8eeb695736b2a182c38a69840e99f", null ],
-    [ "switchFactionIfAlive", "d2/d38/a15594.html#a89cbd29300ca07b3366a197a7549edab", null ],
-    [ "UpdateAI", "d2/d38/a15594.html#afdcbd6c79fb31d888c5b903deb04ad9d", null ],
-    [ "ableToPortHome", "d2/d38/a15594.html#aa223fcf402ed5d99ea88275b357f398c", null ],
-    [ "instance", "d2/d38/a15594.html#acf42a824739dd69d64c3b1e3eff6a944", null ],
-    [ "PlayerGUID", "d2/d38/a15594.html#a188e306a05afa5f25271d17b4385b623", null ],
-    [ "Porthome_Timer", "d2/d38/a15594.html#aeb17b772324aa2d985606659a2aee895", null ],
-    [ "postGossipStep", "d2/d38/a15594.html#aca6869f05555499b210c09889d3f6684", null ],
-    [ "Revenge_Timer", "d2/d38/a15594.html#af6263dbfa9e4cbc6f7812a10894f3dd2", null ],
-    [ "ShieldBash_Timer", "d2/d38/a15594.html#a5ed567ac16bef8f53a66a12fbaf4573e", null ],
-    [ "startedFight", "d2/d38/a15594.html#a7a037981d3d2a37abf0d3995283ac218", null ],
-    [ "Text_Timer", "d2/d38/a15594.html#a97edb216194b16d273fe6098fdaba51e", null ]
+    [ "DialogueHelper", "d2/d38/a15594.html#a3566655e8781bf5f9dff514fcd659421", null ],
+    [ "DialogueUpdate", "d2/d38/a15594.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
+    [ "DoNextDialogueStep", "d2/d38/a15594.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
+    [ "GetSpeakerByEntry", "d2/d38/a15594.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
+    [ "JustDidDialogueStep", "d2/d38/a15594.html#a79e80634f1780895669f5c810958fd4f", null ],
+    [ "StartNextDialogueText", "d2/d38/a15594.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
+    [ "_actionTimer", "d2/d38/a15594.html#a33b8551c136bcbc896b29d935c155a75", null ],
+    [ "_currentEntry", "d2/d38/a15594.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
+    [ "_dialogueArray", "d2/d38/a15594.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
 ];

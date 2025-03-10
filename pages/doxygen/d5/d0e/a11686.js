@@ -1,9 +1,9 @@
 var a11686 =
 [
-    [ "titles_commandscript", "d5/d0e/a11686.html#ac088fd907013150a0508b79c99f6c2f3", null ],
-    [ "GetCommands", "d5/d0e/a11686.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
-    [ "HandleTitlesAddCommand", "d5/d0e/a11686.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
-    [ "HandleTitlesCurrentCommand", "d5/d0e/a11686.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
-    [ "HandleTitlesRemoveCommand", "d5/d0e/a11686.html#a2001bcc2eddc5688d57154f9906218e4", null ],
-    [ "HandleTitlesSetMaskCommand", "d5/d0e/a11686.html#a9517b10295b856779cdd067234f640c8", null ]
+    [ "quest_commandscript", "d5/d0e/a11686.html#a98804583ded14bc50d252475289dda4f", null ],
+    [ "GetCommands", "d5/d0e/a11686.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
+    [ "HandleQuestAdd", "d5/d0e/a11686.html#acd1410f224a1d69bba1321999ebf25bc", null ],
+    [ "HandleQuestComplete", "d5/d0e/a11686.html#a044c30fdaedd07060284bd37fd2e226c", null ],
+    [ "HandleQuestRemove", "d5/d0e/a11686.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
+    [ "HandleQuestReward", "d5/d0e/a11686.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ]
 ];

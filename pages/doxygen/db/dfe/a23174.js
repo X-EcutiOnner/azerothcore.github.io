@@ -1,6 +1,6 @@
 var a23174 =
 [
-    [ "boss_rokmar_the_crackler", "db/dfe/a23174.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
-    [ "JustEngagedWith", "db/dfe/a23174.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
-    [ "Reset", "db/dfe/a23174.html#aed9cf4a866d5e70647125a08885fb809", null ]
+    [ "go_ahune_ice_stone", "db/dfe/a23174.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "db/dfe/a23174.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "db/dfe/a23174.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

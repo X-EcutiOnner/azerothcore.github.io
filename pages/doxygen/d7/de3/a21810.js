@@ -1,8 +1,9 @@
 var a21810 =
 [
-    [ "HandleEffectApply", "d7/de3/a21810.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
-    [ "HandleEffectPeriodic", "d7/de3/a21810.html#a183976530ebf604656db12e41449427e", null ],
-    [ "PrepareAuraScript", "d7/de3/a21810.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
-    [ "Register", "d7/de3/a21810.html#a76be53d506933d4b3c758578b7c33d5f", null ],
-    [ "_posZ", "d7/de3/a21810.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
+    [ "npc_wounded_skirmisher", "d7/de3/a21810.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "d7/de3/a21810.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "d7/de3/a21810.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "d7/de3/a21810.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "d7/de3/a21810.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "d7/de3/a21810.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

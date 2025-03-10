@@ -1,6 +1,6 @@
 var a19458 =
 [
-    [ "dark_rune_protectorsAI", "d7/d58/a19462.html", "d7/d58/a19462" ],
-    [ "dark_rune_protectors", "dc/d3f/a19458.html#a14225a2369a8deea416fc640a2d7b075", null ],
-    [ "GetAI", "dc/d3f/a19458.html#a359e4049b7ec828177d9a36d23e9b4ef", null ]
+    [ "boss_sjonnirAI", "d7/d58/a19462.html", "d7/d58/a19462" ],
+    [ "boss_sjonnir", "dc/d3f/a19458.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
+    [ "GetAI", "dc/d3f/a19458.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
 ];

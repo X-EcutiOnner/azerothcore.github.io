@@ -1,10 +1,12 @@
 var a23054 =
 [
-    [ "boss_morogrim_tidewalker", "d7/d78/a23054.html#a138a200da298f64697e2e47fb8004ccb", null ],
-    [ "JustDied", "d7/d78/a23054.html#a139d87e7cffe03183538eb493e063195", null ],
-    [ "JustEngagedWith", "d7/d78/a23054.html#a3244672aeb994673e1f46708699bcc2c", null ],
-    [ "JustSummoned", "d7/d78/a23054.html#a2b669007520094948138c95468b77f9f", null ],
-    [ "KilledUnit", "d7/d78/a23054.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
-    [ "Reset", "d7/d78/a23054.html#a78ed1d1f8c55407497a4fb679587975d", null ],
-    [ "_recentlySpoken", "d7/d78/a23054.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
+    [ "boss_leotheras_the_blind", "d7/d78/a23054.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "d7/d78/a23054.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "d7/d78/a23054.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "d7/d78/a23054.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "d7/d78/a23054.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "d7/d78/a23054.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "d7/d78/a23054.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "d7/d78/a23054.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
+    [ "_recentlySpoken", "d7/d78/a23054.html#ad5231f13a247247dd7095b16c381fc7c", null ]
 ];

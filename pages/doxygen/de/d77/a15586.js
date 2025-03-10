@@ -1,6 +1,6 @@
 var a15586 =
 [
-    [ "HandleOpenLock", "de/d77/a15586.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "de/d77/a15586.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "de/d77/a15586.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "npc_rivern_frostwind", "de/d77/a15586.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
+    [ "OnGossipHello", "de/d77/a15586.html#a90a6582633336de422c9f98973562b32", null ],
+    [ "OnGossipSelect", "de/d77/a15586.html#a067ff91179f551633594d488eda269ed", null ]
 ];

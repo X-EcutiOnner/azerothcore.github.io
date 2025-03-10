@@ -1,15 +1,7 @@
 var a05022 =
 [
-    [ "GetBounds", "df/dab/a05022.html#a4a112397e75fbaf5fd991a322a8a4ea4", null ],
-    [ "operator==", "df/dab/a05022.html#ab9713afd57c0bdf9f5ff8d5d12cd567f", null ],
-    [ "readFromFile", "df/dab/a05022.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
-    [ "writeToFile", "df/dab/a05022.html#ae8623dcb78a2af4c9aebd60f67649f34", null ],
-    [ "adtId", "df/dab/a05022.html#a4ebcfe8326eff028e722c9972a16200b", null ],
-    [ "flags", "df/dab/a05022.html#acfc7a76db09013abfad8e42aaae59f52", null ],
-    [ "iBound", "df/dab/a05022.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
-    [ "ID", "df/dab/a05022.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
-    [ "iPos", "df/dab/a05022.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
-    [ "iRot", "df/dab/a05022.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
-    [ "iScale", "df/dab/a05022.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
-    [ "name", "df/dab/a05022.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
+    [ "GameobjectModelData", "df/dab/a05022.html#a7d259df5a5541f95e0f548674d023fc8", null ],
+    [ "bound", "df/dab/a05022.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
+    [ "isWmo", "df/dab/a05022.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
+    [ "name", "df/dab/a05022.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
 ];

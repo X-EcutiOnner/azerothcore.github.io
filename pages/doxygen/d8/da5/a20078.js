@@ -1,6 +1,6 @@
 var a20078 =
 [
-    [ "FilterTargets", "d8/da5/a20078.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "d8/da5/a20078.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "d8/da5/a20078.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "npc_ulduar_hodir_priestAI", "df/db3/a20082.html", "df/db3/a20082" ],
+    [ "npc_ulduar_hodir_priest", "d8/da5/a20078.html#a30d7f1b68f9a1d10bc47288b81fc517c", null ],
+    [ "GetAI", "d8/da5/a20078.html#a276046b974666c1462440a46a8096de7", null ]
 ];

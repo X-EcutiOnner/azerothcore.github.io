@@ -1,6 +1,6 @@
 var a18830 =
 [
-    [ "NotOnSameSide", "de/dd3/a18830.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
-    [ "operator()", "de/dd3/a18830.html#a59ea48b9633049180ec62d3616fe4dea", null ],
-    [ "m_inLiveSide", "de/dd3/a18830.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
+    [ "boss_anubrekhanAI", "d2/dc0/a18834.html", "d2/dc0/a18834" ],
+    [ "boss_anubrekhan", "de/dd3/a18830.html#a6ff866300f8b0b58d4b7467def9747c0", null ],
+    [ "GetAI", "de/dd3/a18830.html#aba5c31f182d6f600302f84ed21e9f7e9", null ]
 ];

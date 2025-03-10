@@ -1,59 +1,72 @@
 var a03218 =
 [
-    [ "boss_apothecary_hummel", "d4/dd5/a13012.html", "d4/dd5/a13012" ],
-    [ "boss_apothecary_hummel::boss_apothecary_hummelAI", "d8/d01/a13016.html", "d8/d01/a13016" ],
-    [ "npc_apothecary_genericAI", "d5/d4b/a13020.html", "d5/d4b/a13020" ],
-    [ "npc_apothecary_frye", "d2/dd2/a13024.html", "d2/dd2/a13024" ],
-    [ "npc_apothecary_baxter", "df/d85/a13028.html", "df/d85/a13028" ],
-    [ "spell_apothecary_lingering_fumes", "dc/d1f/a13032.html", "dc/d1f/a13032" ],
-    [ "spell_apothecary_validate_area", "d0/d9e/a13036.html", "d0/d9e/a13036" ],
-    [ "spell_apothecary_throw_cologne", "df/d18/a13040.html", "df/d18/a13040" ],
-    [ "spell_apothecary_throw_perfume", "d5/d1b/a13044.html", "d5/d1b/a13044" ],
-    [ "spell_apothecary_perfume_spill", "d5/de0/a13048.html", "d5/de0/a13048" ],
-    [ "spell_apothecary_cologne_spill", "dc/d6d/a13052.html", "dc/d6d/a13052" ],
-    [ "ApothecaryMisc", "d1/d48/a03218.html#a089375166ea95171e0a3dae74f9740cf", [
-      [ "ACTION_START_EVENT", "d1/d48/a03218.html#a089375166ea95171e0a3dae74f9740cfa5a9d00590152ece2beb2305c6f271dd9", null ],
-      [ "ACTION_START_FIGHT", "d1/d48/a03218.html#a089375166ea95171e0a3dae74f9740cfafd2662e5ad45793954d7eca931443e2a", null ],
-      [ "GOSSIP_OPTION_START", "d1/d48/a03218.html#a089375166ea95171e0a3dae74f9740cfa38ec399ecfd73857e6ac074ad74c6abc", null ],
-      [ "GOSSIP_MENU_HUMMEL", "d1/d48/a03218.html#a089375166ea95171e0a3dae74f9740cfaeb346bca5ab5cddf0b0a25165f3a4199", null ],
-      [ "QUEST_YOUVE_BEEN_SERVED", "d1/d48/a03218.html#a089375166ea95171e0a3dae74f9740cfa0f13a9ab27738db33921fada71beed26", null ],
-      [ "NPC_APOTHECARY_FRYE", "d1/d48/a03218.html#a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5", null ],
-      [ "NPC_APOTHECARY_BAXTER", "d1/d48/a03218.html#a089375166ea95171e0a3dae74f9740cfa767550e8e2397ec4a5c3e3a95db51c6b", null ],
-      [ "NPC_VIAL_BUNNY", "d1/d48/a03218.html#a089375166ea95171e0a3dae74f9740cfa6d34ef27621fd6744c37d007684718f8", null ],
-      [ "NPC_CROWN_APOTHECARY", "d1/d48/a03218.html#a089375166ea95171e0a3dae74f9740cfa730c801d900c7f7ed204cef975f51520", null ],
-      [ "PHASE_ALL", "d1/d48/a03218.html#a089375166ea95171e0a3dae74f9740cfa5a174c07b8602efe54b08ead7652a3fe", null ],
-      [ "PHASE_INTRO", "d1/d48/a03218.html#a089375166ea95171e0a3dae74f9740cfa4759cf00b99e3a6f4a2f65af817bd203", null ],
-      [ "PHASE_COMBAT", "d1/d48/a03218.html#a089375166ea95171e0a3dae74f9740cfaddfe924b2f0ce0eceb2a811186f83825", null ]
+    [ "npc_cameron", "d3/d87/a13438.html", "d3/d87/a13438" ],
+    [ "npc_supervisor_raelen", "df/d28/a13442.html", "df/d28/a13442" ],
+    [ "npc_eastvale_peasent", "d4/daf/a13446.html", "d4/daf/a13446" ],
+    [ "COG_Creatures", "d1/d48/a03218.html#a65c53b71f65b39ebdb719ba85df40c00", [
+      [ "NPC_DANA", "d1/d48/a03218.html#a65c53b71f65b39ebdb719ba85df40c00aab1360bef063d32d66b5592222983b79", null ],
+      [ "NPC_CAMERON", "d1/d48/a03218.html#a65c53b71f65b39ebdb719ba85df40c00a2774529c2dae7e5aa5c9dca851e92cee", null ],
+      [ "NPC_JOHN", "d1/d48/a03218.html#a65c53b71f65b39ebdb719ba85df40c00a92ee2b12ddc8057ce39df7fc8e26cad8", null ],
+      [ "NPC_LISA", "d1/d48/a03218.html#a65c53b71f65b39ebdb719ba85df40c00a54c1064e732d54bcc50cc2fe6c83fc00", null ],
+      [ "NPC_AARON", "d1/d48/a03218.html#a65c53b71f65b39ebdb719ba85df40c00a1b159aa0575b48c2c155ce477231d648", null ],
+      [ "NPC_JOSE", "d1/d48/a03218.html#a65c53b71f65b39ebdb719ba85df40c00ad461074ca1d14ce25750b36d50dff8d9", null ]
     ] ],
-    [ "ApothecarySays", "d1/d48/a03218.html#a6edaee5ce05b16d8360c059a2718a302", [
-      [ "SAY_INTRO_0", "d1/d48/a03218.html#a6edaee5ce05b16d8360c059a2718a302ab67c13990cd545e383e96877a2f2c102", null ],
-      [ "SAY_INTRO_1", "d1/d48/a03218.html#a6edaee5ce05b16d8360c059a2718a302a5d62121fc78e6a1cfc703c5caba40b23", null ],
-      [ "SAY_INTRO_2", "d1/d48/a03218.html#a6edaee5ce05b16d8360c059a2718a302a262c474ec2073ec78c48eb44023e0069", null ],
-      [ "SAY_CALL_BAXTER", "d1/d48/a03218.html#a6edaee5ce05b16d8360c059a2718a302a9674e0b6f0f4d0ea65fb2377204ba0b8", null ],
-      [ "SAY_CALL_FRYE", "d1/d48/a03218.html#a6edaee5ce05b16d8360c059a2718a302aecf0479145c53d045a90ad70e2a59d6d", null ],
-      [ "SAY_HUMMEL_DEATH", "d1/d48/a03218.html#a6edaee5ce05b16d8360c059a2718a302afdac4195099aa5b26bced2feaace598f", null ],
-      [ "SAY_SUMMON_ADDS", "d1/d48/a03218.html#a6edaee5ce05b16d8360c059a2718a302a1cad39247cfc635e8fbbd28507a4565f", null ],
-      [ "SAY_BAXTER_DEATH", "d1/d48/a03218.html#a6edaee5ce05b16d8360c059a2718a302a794a973d0b60b2cd1bc8f581c4dc06f4", null ],
-      [ "SAY_FRYE_DEATH", "d1/d48/a03218.html#a6edaee5ce05b16d8360c059a2718a302a893047362d85cb096ff4abaf274fe7f8", null ]
+    [ "COG_Events", "d1/d48/a03218.html#ab264f1364ee8d7515c93f7604d783521", [
+      [ "EVENT_WP_START_GOLDSHIRE", "d1/d48/a03218.html#ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f", null ],
+      [ "EVENT_WP_START_WOODS", "d1/d48/a03218.html#ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a", null ],
+      [ "EVENT_WP_START_HOUSE", "d1/d48/a03218.html#ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d", null ],
+      [ "EVENT_WP_START_LISA", "d1/d48/a03218.html#ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8", null ],
+      [ "EVENT_PLAY_SOUNDS", "d1/d48/a03218.html#ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4", null ],
+      [ "EVENT_BEGIN_EVENT", "d1/d48/a03218.html#ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7", null ],
+      [ "EVENT_RANDOM_MOVEMENT", "d1/d48/a03218.html#ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1", null ]
     ] ],
-    [ "ApothecarySpells", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340e", [
-      [ "SPELL_ALLURING_PERFUME", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340ea69e62e4d2a0c36190609d18be6674684", null ],
-      [ "SPELL_PERFUME_SPRAY", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340ea3a0f87dc02eb714afeea065d3bd80e28", null ],
-      [ "SPELL_CHAIN_REACTION", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340ea95ae132067c31fcc5af6b66e12581081", null ],
-      [ "SPELL_SUMMON_TABLE", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340ea2809eac4da3842244003e94b953e1f04", null ],
-      [ "SPELL_PERMANENT_FEIGN_DEATH", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340eae088c5aedcf64c242ca695d8b31ba6a4", null ],
-      [ "SPELL_QUIET_SUICIDE", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340ead860f54409f76f306c7f49aad1365de5", null ],
-      [ "SPELL_COLOGNE_SPRAY", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340ea11b1817b24a59f85e97c1dd313d02902", null ],
-      [ "SPELL_VALIDATE_AREA", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340ea63e5ea59169bf85814945448afb792df", null ],
-      [ "SPELL_THROW_COLOGNE", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340eadbd7d9f1050873a59721ce23dab4aa90", null ],
-      [ "SPELL_BUNNY_LOCKDOWN", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340eacca7aad4d6e4f18aae288ac50699630d", null ],
-      [ "SPELL_THROW_PERFUME", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340ea56000b1d92ac98403554f3ad14c37daa", null ],
-      [ "SPELL_PERFUME_SPILL", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340eae81ec956be144a73ba51a356116d2b23", null ],
-      [ "SPELL_COLOGNE_SPILL", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340ea73c84cecf746db87cde2d73e163ce8f4", null ],
-      [ "SPELL_PERFUME_SPILL_DAMAGE", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340ea8f376fef41ce78675e6973a885d0d8aa", null ],
-      [ "SPELL_COLOGNE_SPILL_DAMAGE", "d1/d48/a03218.html#a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f", null ]
+    [ "COG_GameEvent", "d1/d48/a03218.html#a7f96446be0a530da18223bb22482eb13", [
+      [ "GAME_EVENT_CHILDREN_OF_GOLDSHIRE", "d1/d48/a03218.html#a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb", null ]
     ] ],
-    [ "AddSC_boss_apothecary_hummel", "d1/d48/a03218.html#aae2a7d6c56f8a7f3dff6f6146ec59a73", null ],
-    [ "BaxterMovePos", "d1/d48/a03218.html#a8ff29d1fe0be700e07d22e86b6593b69", null ],
-    [ "FryeMovePos", "d1/d48/a03218.html#a4e21cd5458c7f5e47183151858fd0776", null ]
+    [ "COG_Paths", "d1/d48/a03218.html#a2be3c31abb125ee2f4e5db0dffba1303", [
+      [ "STORMWIND_PATH", "d1/d48/a03218.html#a2be3c31abb125ee2f4e5db0dffba1303ad1a5074e62ba573b4ca7b603db8af713", null ],
+      [ "GOLDSHIRE_PATH", "d1/d48/a03218.html#a2be3c31abb125ee2f4e5db0dffba1303ae667c0211d3eff5f76656bf6d0008172", null ],
+      [ "WOODS_PATH", "d1/d48/a03218.html#a2be3c31abb125ee2f4e5db0dffba1303a3b6098ca7c08a02325e87d2e2d51e097", null ],
+      [ "HOUSE_PATH", "d1/d48/a03218.html#a2be3c31abb125ee2f4e5db0dffba1303a613998450aaf10ae6d9eb7b70fe9b773", null ],
+      [ "LISA_PATH", "d1/d48/a03218.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c", null ]
+    ] ],
+    [ "COG_Sounds", "d1/d48/a03218.html#a41b64d07acba30bca6797dd30accb701", [
+      [ "BANSHEE_DEATH", "d1/d48/a03218.html#a41b64d07acba30bca6797dd30accb701a778d73a82a4986348c2f576778911c1d", null ],
+      [ "BANSHEEPREAGGRO", "d1/d48/a03218.html#a41b64d07acba30bca6797dd30accb701a9194ea7479faaf1cd6e95b3d3ef5133e", null ],
+      [ "CTHUN_YOU_WILL_DIE", "d1/d48/a03218.html#a41b64d07acba30bca6797dd30accb701a82970f5a7615c954b42ee1a4fc6e175c", null ],
+      [ "CTHUN_DEATH_IS_CLOSE", "d1/d48/a03218.html#a41b64d07acba30bca6797dd30accb701a6597c2048b383d43a5ff472d715fdc05", null ],
+      [ "HUMAN_FEMALE_EMOTE_CRY", "d1/d48/a03218.html#a41b64d07acba30bca6797dd30accb701a154e3f7a96cd9c9d13a04b5fc36ec18a", null ],
+      [ "GHOSTDEATH", "d1/d48/a03218.html#a41b64d07acba30bca6797dd30accb701a5ad070314ff7ce37671151ab6fd1df05", null ]
+    ] ],
+    [ "EastvalePeasent", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769", [
+      [ "EVENT_MOVETORAELEN", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a7060cdf87e903e239424f6de8b3c4e01", null ],
+      [ "EVENT_TALKTORAELEN1", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769ab389694ba3f2e68242451516333631e6", null ],
+      [ "EVENT_TALKTORAELEN2", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769aa71bff713cc0f565434450c758f74f49", null ],
+      [ "EVENT_RAELENTALK", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a07d0b4a5d57b000f4aa7ac0f641432e0", null ],
+      [ "EVENT_TALKTORAELEN3", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a3f3781fe8cd1b69d99d36799fe7bc343", null ],
+      [ "EVENT_TALKTORAELEN4", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769aa2b4baec842eb98eed0d720a2d1e292f", null ],
+      [ "EVENT_PATHBACK", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a2749a3e614e97936834faf0763d89f85", null ],
+      [ "NPC_SUPERVISOR_RAELEN", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a55dd8d60432601f01a996db6af736667", null ],
+      [ "PATH_PEASENT_0", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769ac3af8fa1b480f8ffa2f3ce8f07015d90", null ],
+      [ "PATH_PEASENT_1", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a90bfaadda89dbdfe74e830dba63392b6", null ],
+      [ "PATH_PEASENT_2", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a691ee393540918dfc1b592fab31778d7", null ],
+      [ "PATH_PEASENT_3", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a94a20bb05ec932c0c58387e63ee95c7d", null ],
+      [ "PATH_PEASENT_4", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769aa40d5d29c4805d92281561d5491f42e0", null ],
+      [ "SAY_RAELEN", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769ae2a00c9eac8422904f7f4e82661114fc", null ],
+      [ "SOUND_PEASENT_GREETING_1", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a76573a8111b11c8e5d82081211d778d2", null ],
+      [ "SOUND_PEASENT_GREETING_2", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a78f08b9a1fa0e5891df9dedd3030107d", null ],
+      [ "SOUND_PEASENT_GREETING_3", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942", null ],
+      [ "SOUND_PEASENT_LEAVING_1", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a6b7ddbed101521381be4ee097e03eadf", null ],
+      [ "SOUND_PEASENT_LEAVING_2", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a94849b28c308e34fe7c2f3cdd3b569e1", null ],
+      [ "SOUND_PEASENT_LEAVING_3", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a11f78805bf631264c76272506c189f65", null ],
+      [ "SOUND_PEASENT_LEAVING_4", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a0537de2a4772069d0cc2f66767b7d404", null ],
+      [ "SOUND_PEASENT_LEAVING_5", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a4631839cb0120966d74bb95fce52c358", null ],
+      [ "SPELL_TRANSFORM_PEASENT_WITH_WOOD", "d1/d48/a03218.html#a7e632be8f8b8da84644527621a3c2769a716c6a90c42b3ee3811ac25a342faa56", null ]
+    ] ],
+    [ "SupervisorRaelen", "d1/d48/a03218.html#a3bd40a8e75f5b073b6027152c2acd047", [
+      [ "EVENT_FIND_PEASENTS", "d1/d48/a03218.html#a3bd40a8e75f5b073b6027152c2acd047a05dcad03ab565112d34579d0ef216f19", null ],
+      [ "EVENT_NEXT_PEASENT", "d1/d48/a03218.html#a3bd40a8e75f5b073b6027152c2acd047a1a939768178f2c95f03e6c1490c9e2c0", null ],
+      [ "NPC_EASTVALE_PEASENT", "d1/d48/a03218.html#a3bd40a8e75f5b073b6027152c2acd047ab484ca934ce49cee056ba54c53003ddd", null ]
+    ] ],
+    [ "AddSC_elwynn_forest", "d1/d48/a03218.html#aef9caff22cc5e92156da2c393ecfb531", null ]
 ];

@@ -1,7 +1,5 @@
 var a27498 =
 [
-    [ "npc_crashin_thrashin_robot", "d2/d57/a27498.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "d2/d57/a27498.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "d2/d57/a27498.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "d2/d57/a27498.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "npc_pet_trainerAI", "d2/d57/a27498.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
+    [ "sGossipSelect", "d2/d57/a27498.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
 ];

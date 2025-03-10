@@ -1,12 +1,16 @@
 var a19378 =
 [
-    [ "npc_hol_monumentAI", "d3/d16/a19378.html#a4a59b95e32acf8920082e4159b7e384c", null ],
-    [ "AttackStart", "d3/d16/a19378.html#a6db6528cf3d53bc6de9caf55fb18a28b", null ],
-    [ "JustEngagedWith", "d3/d16/a19378.html#a105f8e66ba3cf752af455c787df7568e", null ],
-    [ "MoveInLineOfSight", "d3/d16/a19378.html#ab37c5c22456c06f78b53505ae7973658", null ],
-    [ "Reset", "d3/d16/a19378.html#a03dd56d6801194333288a2edc7ae4eaa", null ],
-    [ "UpdateAI", "d3/d16/a19378.html#a7c911cf24b21c959ee5c62d664e1879a", null ],
-    [ "_attackGUID", "d3/d16/a19378.html#a0421f258f2cd871ad1f87decf5e23bc8", null ],
-    [ "_isActive", "d3/d16/a19378.html#a0993cfde30a492ae8dfeeda2e01a1124", null ],
-    [ "events", "d3/d16/a19378.html#aeff0f7526f12f0e09e53c0e43a423799", null ]
+    [ "boss_ionarAI", "d3/d16/a19378.html#af212102febe4e0ef406475f5e1452695", null ],
+    [ "JustDied", "d3/d16/a19378.html#a12ad910d0838b1fbb626f761b70c86c5", null ],
+    [ "JustEngagedWith", "d3/d16/a19378.html#a17bff3df427ad65453cfc440e46f76fa", null ],
+    [ "KilledUnit", "d3/d16/a19378.html#aa74b2b6cd2358b11596d34357fac194c", null ],
+    [ "Reset", "d3/d16/a19378.html#acbb2807142af2ef570aec0f12c861d36", null ],
+    [ "ScheduleEvents", "d3/d16/a19378.html#ad3f0bf773bc091cc14491cd309a4b531", null ],
+    [ "SpellHit", "d3/d16/a19378.html#a5954749594cf76a2f8db7a61874a0279", null ],
+    [ "Split", "d3/d16/a19378.html#ab10351b157e6e370d910780febdbda74", null ],
+    [ "UpdateAI", "d3/d16/a19378.html#a41767f4b491b4d59824bac8854c3090d", null ],
+    [ "events", "d3/d16/a19378.html#ae87ba5970d8d4f9fc33b94dc9abefa2f", null ],
+    [ "HealthCheck", "d3/d16/a19378.html#a05006b60fa4e7b33f589ca87b3374aa5", null ],
+    [ "m_pInstance", "d3/d16/a19378.html#a752059e06a6971d94243f283ef75be91", null ],
+    [ "summons", "d3/d16/a19378.html#ac67332dd2f94ea8bdd7c7871bc022239", null ]
 ];

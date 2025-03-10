@@ -1,6 +1,7 @@
 var a20026 =
 [
-    [ "npc_ulduar_toasty_fireAI", "d2/db3/a20030.html", "d2/db3/a20030" ],
-    [ "npc_ulduar_toasty_fire", "de/dda/a20026.html#a5a5b77088b24f1c5743c58034190d5ab", null ],
-    [ "GetAI", "de/dda/a20026.html#a2518ec39c3cea2f3efc5000e0a7779d0", null ]
+    [ "HandleAfterHit", "de/dda/a20026.html#a75953cbb3a288fd373e602ed07d84441", null ],
+    [ "PrepareSpellScript", "de/dda/a20026.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
+    [ "Register", "de/dda/a20026.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
+    [ "Validate", "de/dda/a20026.html#aea2b951dd2353800958f654df58d8fd8", null ]
 ];

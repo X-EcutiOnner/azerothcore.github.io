@@ -1,8 +1,8 @@
 var a00878 =
 [
-    [ "BG_SA_RoundScore", "dd/d53/a07392.html", "dd/d53/a07392" ],
-    [ "BattlegroundSAScore", "de/d39/a07396.html", "de/d39/a07396" ],
-    [ "BattlegroundSA", "db/d8f/a07400.html", "db/d8f/a07400" ],
+    [ "BG_SA_RoundScore", "d6/d49/a07398.html", "d6/d49/a07398" ],
+    [ "BattlegroundSAScore", "dd/db0/a07402.html", "dd/db0/a07402" ],
+    [ "BattlegroundSA", "d4/d87/a07406.html", "d4/d87/a07406" ],
     [ "BG_SA_DEMOLISHER_AMOUNT", "d5/d69/a00878.html#aaf470646067725fcbaa2cd2244813cef", null ],
     [ "BG_SA_FLAG_AMOUNT", "d5/d69/a00878.html#a618d60620199e19e1cf637471ac184d4", null ],
     [ "SPELL_SA_END_OF_ROUND", "d5/d69/a00878.html#a10f9b0e47e9f7cab36a6148a69fd9277", null ],

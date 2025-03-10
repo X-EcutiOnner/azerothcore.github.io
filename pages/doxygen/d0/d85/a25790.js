@@ -1,9 +1,8 @@
 var a25790 =
 [
-    [ "HandleAfterCast", "d0/d85/a25790.html#afd2fbc51ac1e99789994021af36688f3", null ],
-    [ "HandleTriggerSpell", "d0/d85/a25790.html#ae140ab00101f081454b55e12a7c54440", null ],
-    [ "Load", "d0/d85/a25790.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
-    [ "PrepareSpellScript", "d0/d85/a25790.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
-    [ "Register", "d0/d85/a25790.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
-    [ "_triggerSpellId", "d0/d85/a25790.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
+    [ "HandleScript", "d0/d85/a25790.html#ad99c741ef4bf707ec4b4726a3610d827", null ],
+    [ "Load", "d0/d85/a25790.html#ab7aac5c557c76fdd195565a99d746dc9", null ],
+    [ "PrepareSpellScript", "d0/d85/a25790.html#abb6e76d537d61b5b38ce4488d230d6de", null ],
+    [ "Register", "d0/d85/a25790.html#a2f7e819dfa30f4f0d3645fde9c87408c", null ],
+    [ "Validate", "d0/d85/a25790.html#a0767c66cbc288bee6ee0eb3a4fde315f", null ]
 ];

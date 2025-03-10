@@ -1,4 +1,4 @@
 var a01883 =
 [
-    [ "AllItemScript", "d2/dd2/a10164.html", "d2/dd2/a10164" ]
+    [ "ScriptRegistry< AchievementScript >", "db/d4b/a01883.html#ac6173262cca5c83f03287161a75446ab", null ]
 ];

@@ -1,7 +1,5 @@
 var a27274 =
 [
-    [ "npc_prof_leather", "dc/d5b/a27274.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
-    [ "HasLeatherSpecialty", "dc/d5b/a27274.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
-    [ "OnGossipHello", "dc/d5b/a27274.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
-    [ "OnGossipSelect", "dc/d5b/a27274.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
+    [ "item_incendiary_explosives", "dc/d5b/a27274.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "dc/d5b/a27274.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

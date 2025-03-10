@@ -1,6 +1,6 @@
 var a19542 =
 [
-    [ "go_celestial_planetarium_accessAI", "d4/d52/a19546.html", "d4/d52/a19546" ],
-    [ "go_celestial_planetarium_access", "d5/d8c/a19542.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "d5/d8c/a19542.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "CosmicSmashDamageEvent", "d5/d8c/a19542.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "d5/d8c/a19542.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "d5/d8c/a19542.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

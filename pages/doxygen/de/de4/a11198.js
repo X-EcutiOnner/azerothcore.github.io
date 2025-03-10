@@ -1,6 +1,10 @@
 var a11198 =
 [
-    [ "HitHandler", "de/de4/a11198.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
-    [ "Call", "de/de4/a11198.html#a157baaa3ceba62a9910cba5377bd7699", null ],
-    [ "pHitHandlerScript", "de/de4/a11198.html#ac24144e49930a01a3049740a4072f626", null ]
+    [ "EffectHook", "de/de4/a11198.html#a4a197e061d918dfba2bc486f3393b00d", null ],
+    [ "~EffectHook", "de/de4/a11198.html#aa234f63b530764d12064acbe3f5c9299", null ],
+    [ "CheckEffect", "de/de4/a11198.html#ae8823c5d649d182f572818bf3db72902", null ],
+    [ "EffIndexToString", "de/de4/a11198.html#ab818ed274cfd66ecc565b8535b751517", null ],
+    [ "GetAffectedEffectsMask", "de/de4/a11198.html#a31faa86590e22f5ab3ca518f4df02840", null ],
+    [ "IsEffectAffected", "de/de4/a11198.html#a697041ffa562bb6fff792beb159c7af2", null ],
+    [ "effIndex", "de/de4/a11198.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
 ];

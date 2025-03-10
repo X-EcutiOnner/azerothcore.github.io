@@ -1,6 +1,8 @@
 var a19346 =
 [
-    [ "boss_lokenAI", "de/da7/a19350.html", "de/da7/a19350" ],
-    [ "boss_loken", "dc/d36/a19346.html#a44ba0ee009dcdfca6ff8739e297ec786", null ],
-    [ "GetAI", "dc/d36/a19346.html#affb73db8ecdc2d035f8076ecca0c9a99", null ]
+    [ "HandleEffectPeriodic", "dc/d36/a19346.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "dc/d36/a19346.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "dc/d36/a19346.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "dc/d36/a19346.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "dc/d36/a19346.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

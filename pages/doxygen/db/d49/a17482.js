@@ -1,8 +1,8 @@
 var a17482 =
 [
-    [ "Load", "db/d49/a17482.html#ad1105149d5e42318382af6c07149d522", null ],
-    [ "PeriodicTick", "db/d49/a17482.html#a8e675178256746d08af50a6b75ec582e", null ],
-    [ "PrepareAuraScript", "db/d49/a17482.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
-    [ "Register", "db/d49/a17482.html#a0fa7d86214827711edd019dd3b40c667", null ],
-    [ "_tickNo", "db/d49/a17482.html#a418212d2daa873d69a83b4c1341a8903", null ]
+    [ "npc_gunship_mageAI", "db/d49/a17482.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
+    [ "AttackStart", "db/d49/a17482.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
+    [ "CanAIAttack", "db/d49/a17482.html#aadcb217a9df96bee02287d75a23e32c2", null ],
+    [ "MovementInform", "db/d49/a17482.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
+    [ "UpdateAI", "db/d49/a17482.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
 ];

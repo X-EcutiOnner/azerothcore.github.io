@@ -1,6 +1,7 @@
 var a15570 =
 [
-    [ "creatureID", "dd/dae/a15570.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "dd/dae/a15570.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "dd/dae/a15570.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "npc_ameAI", "db/da1/a15574.html", "db/da1/a15574" ],
+    [ "npc_ame", "dd/dae/a15570.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "dd/dae/a15570.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "dd/dae/a15570.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

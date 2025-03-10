@@ -1,6 +1,9 @@
 var a23758 =
 [
-    [ "HandlePeriodic", "d6/d14/a23758.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
-    [ "PrepareAuraScript", "d6/d14/a23758.html#a438425f3002028a0978e0dbab580ca03", null ],
-    [ "Register", "d6/d14/a23758.html#af4b26607e8838b7bbbe8777f57601341", null ]
+    [ "boss_void_reaver", "d6/d14/a23758.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
+    [ "JustDied", "d6/d14/a23758.html#a49e6f52b11177bdac07adff92c2675f5", null ],
+    [ "JustEngagedWith", "d6/d14/a23758.html#a9260d05e11f4dec6fc25432a0524706b", null ],
+    [ "KilledUnit", "d6/d14/a23758.html#adc234fc43308771a42d99049876cad1b", null ],
+    [ "Reset", "d6/d14/a23758.html#a02c36ea960de24991f879943991a93c6", null ],
+    [ "_recentlySpoken", "d6/d14/a23758.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
 ];

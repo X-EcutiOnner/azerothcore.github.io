@@ -1,6 +1,7 @@
 var a15818 =
 [
-    [ "npc_twilight_summonAI", "d3/d5f/a15822.html", "d3/d5f/a15822" ],
-    [ "npc_twilight_summon", "db/dd6/a15818.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
-    [ "GetAI", "db/dd6/a15818.html#a98bf5ce96c25bc252acd46163644bf33", null ]
+    [ "OnRemove", "db/dd6/a15818.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "db/dd6/a15818.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "db/dd6/a15818.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "db/dd6/a15818.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

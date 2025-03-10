@@ -1,6 +1,8 @@
 var a19846 =
 [
-    [ "achievement_flame_leviathan_towers", "df/dcd/a19846.html#a491d66bdd373b6044e406126719ef910", null ],
-    [ "OnCheck", "df/dcd/a19846.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
-    [ "_towerCount", "df/dcd/a19846.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
+    [ "Area", "df/dcd/a19846.html#a0b9dc74e944f13e3291184645f432477", [
+      [ "AREA_FORMATION_GROUNDS", "df/dcd/a19846.html#a0b9dc74e944f13e3291184645f432477a92a09caedcec4a8b97c3e4601308d450", null ]
+    ] ],
+    [ "FlameLeviathanPursuedTargetSelector", "df/dcd/a19846.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
+    [ "operator()", "df/dcd/a19846.html#aaa2a49366fb651f7486b463ce597f364", null ]
 ];

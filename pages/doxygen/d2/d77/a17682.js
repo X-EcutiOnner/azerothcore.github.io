@@ -1,6 +1,7 @@
 var a17682 =
 [
-    [ "npc_volatile_oozeAI", "de/d2a/a17686.html", "de/d2a/a17686" ],
-    [ "npc_volatile_ooze", "d2/d77/a17682.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "d2/d77/a17682.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "HandleSpikes", "d2/d77/a17682.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "d2/d77/a17682.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "d2/d77/a17682.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "d2/d77/a17682.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

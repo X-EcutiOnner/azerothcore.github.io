@@ -1,7 +1,5 @@
 var a23254 =
 [
-    [ "HandleScript", "dd/ded/a23254.html#a8933535f9507b90b54032c17985cc3c6", null ],
-    [ "PrepareSpellScript", "dd/ded/a23254.html#acadb563eaeffac47b3f883f9d8c37994", null ],
-    [ "Register", "dd/ded/a23254.html#a797ae84dcb0fc13b0799934bde71809c", null ],
-    [ "Validate", "dd/ded/a23254.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
+    [ "go_main_chambers_access_panel", "dd/ded/a23254.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "dd/ded/a23254.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

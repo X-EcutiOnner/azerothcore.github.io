@@ -1,7 +1,6 @@
 var a24134 =
 [
-    [ "HandleSendEvent", "de/d76/a24134.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "de/d76/a24134.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "de/d76/a24134.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "de/d76/a24134.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "CheckRequirement", "de/d76/a24134.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "de/d76/a24134.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "de/d76/a24134.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

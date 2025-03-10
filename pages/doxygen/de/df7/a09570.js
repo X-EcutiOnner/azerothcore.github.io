@@ -1,6 +1,7 @@
 var a09570 =
 [
-    [ "bossId", "de/df7/a09570.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
-    [ "entry", "de/df7/a09570.html#a1a199d022692efe54e29a7cb90e73dee", null ],
-    [ "type", "de/df7/a09570.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
+    [ "InstancePlayerBind", "de/df7/a09570.html#abc20bba094d04eb724d03b8290102981", null ],
+    [ "extended", "de/df7/a09570.html#a9327f62b74eea3a1a525b2fec6d90b69", null ],
+    [ "perm", "de/df7/a09570.html#ab35249eb791941b484ecc321b1102b24", null ],
+    [ "save", "de/df7/a09570.html#a24ef1e0e0a38033a16b697c32e3d8234", null ]
 ];

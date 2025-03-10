@@ -1,7 +1,7 @@
 var a21446 =
 [
-    [ "npc_thassarianAI", "d5/de1/a21446.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "d5/de1/a21446.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "d5/de1/a21446.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "d5/de1/a21446.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "npc_bonker_togglevoltAI", "d3/d7d/a21450.html", "d3/d7d/a21450" ],
+    [ "npc_bonker_togglevolt", "d5/de1/a21446.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
+    [ "GetAI", "d5/de1/a21446.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
+    [ "OnQuestAccept", "d5/de1/a21446.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
 ];

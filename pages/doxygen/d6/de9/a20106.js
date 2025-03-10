@@ -1,6 +1,14 @@
 var a20106 =
 [
-    [ "HandleAfterEffectApply", "d6/de9/a20106.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "d6/de9/a20106.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "d6/de9/a20106.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "npc_ulduar_hodir_mageAI", "d6/de9/a20106.html#a118059c877151a9f6b2b15a4070e2704", null ],
+    [ "AttackStart", "d6/de9/a20106.html#a3217617eb3312c1da34dc7dce590fe0d", null ],
+    [ "CanAIAttack", "d6/de9/a20106.html#a66ea56e856fcc706e4f938512def1590", null ],
+    [ "EnterEvadeMode", "d6/de9/a20106.html#a6d4cd626dcd58f825a6c88b804bb38a7", null ],
+    [ "JustDied", "d6/de9/a20106.html#a0176f8b45c20af1552e1a8b70e307442", null ],
+    [ "MoveInLineOfSight", "d6/de9/a20106.html#aaf35c04462b1698e85df64190f4e2c8a", null ],
+    [ "ScheduleAbilities", "d6/de9/a20106.html#a7927f399ef1c89b3eb83804fde9b2700", null ],
+    [ "SpellHit", "d6/de9/a20106.html#aa814a46a45ce5eb9696c8f6c6de8c521", null ],
+    [ "UpdateAI", "d6/de9/a20106.html#acbbe6667360e5bb7576c1ea741c2e2f1", null ],
+    [ "events", "d6/de9/a20106.html#a556453c557df0be6a57255e400d98a87", null ],
+    [ "pInstance", "d6/de9/a20106.html#ac4677898f5612c01d98ab242c7628e8f", null ]
 ];

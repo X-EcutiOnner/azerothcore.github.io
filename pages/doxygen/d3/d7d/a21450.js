@@ -1,6 +1,9 @@
 var a21450 =
 [
-    [ "npc_thassarian2AI", "d4/d30/a21454.html", "d4/d30/a21454" ],
-    [ "npc_thassarian2", "d3/d7d/a21450.html#a8a2f1e1595349e4fa9968e85f17d0468", null ],
-    [ "GetAI", "d3/d7d/a21450.html#adb87c99f3375f88eca55b39e1cd0bbd5", null ]
+    [ "npc_bonker_togglevoltAI", "d3/d7d/a21450.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "d3/d7d/a21450.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "d3/d7d/a21450.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "d3/d7d/a21450.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "d3/d7d/a21450.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "Bonker_agro", "d3/d7d/a21450.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

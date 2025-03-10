@@ -1,12 +1,7 @@
 var a14134 =
 [
-    [ "npc_alexstraza_the_lifebinder", "d0/d7d/a14134.html#a7c30258540803bde75843cb070b6a288", null ],
-    [ "MoveInLineOfSight", "d0/d7d/a14134.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
-    [ "Reset", "d0/d7d/a14134.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
-    [ "SetData", "d0/d7d/a14134.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
-    [ "UpdateAI", "d0/d7d/a14134.html#ad13b21d571833210b1c069b7ea8bea05", null ],
-    [ "orphanGUID", "d0/d7d/a14134.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
-    [ "phase", "d0/d7d/a14134.html#a98216e43888854ac93f22169a0e253e5", null ],
-    [ "playerGUID", "d0/d7d/a14134.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
-    [ "timer", "d0/d7d/a14134.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
+    [ "HandleScriptEffect", "d0/d7d/a14134.html#ae758c224878aebdde0124b5d4ec902a5", null ],
+    [ "PrepareSpellScript", "d0/d7d/a14134.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
+    [ "Register", "d0/d7d/a14134.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
+    [ "Validate", "d0/d7d/a14134.html#a56f71954e122f651c6e2ec68453e16cc", null ]
 ];

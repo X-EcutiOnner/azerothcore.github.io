@@ -1,7 +1,6 @@
 var a28390 =
 [
-    [ "asyncId", "d2/d58/a28390.html#afd18849875b4562e4a532903676ce25d", null ],
-    [ "flags", "d2/d58/a28390.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
-    [ "offsMCNK", "d2/d58/a28390.html#a063c5dc62c44038e882340221bf8228a", null ],
-    [ "size", "d2/d58/a28390.html#a47a5eeb595d53de009651ae02d2b416d", null ]
+    [ "SetUp", "d2/d58/a28390.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
+    [ "_distributor", "d2/d58/a28390.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
+    [ "_mockRewarder", "d2/d58/a28390.html#ad466c2751d8e9739db56f9f82d15deff", null ]
 ];

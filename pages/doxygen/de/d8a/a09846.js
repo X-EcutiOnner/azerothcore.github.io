@@ -1,10 +1,6 @@
 var a09846 =
 [
-    [ "ChaseRange", "de/d8a/a09846.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "de/d8a/a09846.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "de/d8a/a09846.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "de/d8a/a09846.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "de/d8a/a09846.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "de/d8a/a09846.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "de/d8a/a09846.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "aiNotifyDelay", "de/d8a/a09846.html#af70453021c5ded85c73a4d5559dca2ea", null ],
+    [ "requiredMoveDistanceSq", "de/d8a/a09846.html#aaa4faa0170181e409940b5441eb2f586", null ],
+    [ "visibilityNotifyDelay", "de/d8a/a09846.html#ad566fd5eff102929247b75cf5092a60b", null ]
 ];

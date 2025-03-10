@@ -1,6 +1,6 @@
 var a23858 =
 [
-    [ "npc_wounded_blood_elfAI", "d3/d4f/a23862.html", "d3/d4f/a23862" ],
-    [ "npc_wounded_blood_elf", "d4/d6d/a23858.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "d4/d6d/a23858.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "npc_simon_bunnyAI", "d3/d4f/a23862.html", "d3/d4f/a23862" ],
+    [ "npc_simon_bunny", "d4/d6d/a23858.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
+    [ "GetAI", "d4/d6d/a23858.html#ac0c97609916321a1599c0722803a050f", null ]
 ];

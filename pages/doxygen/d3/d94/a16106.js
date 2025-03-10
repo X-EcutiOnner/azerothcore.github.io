@@ -1,6 +1,9 @@
 var a16106 =
 [
-    [ "npc_black_knight_ghoulAI", "dd/d1f/a16110.html", "dd/d1f/a16110" ],
-    [ "npc_black_knight_ghoul", "d3/d94/a16106.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
-    [ "GetAI", "d3/d94/a16106.html#a52308f8d168e1ccea22de653813b7f6f", null ]
+    [ "npc_memoryAI", "d3/d94/a16106.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "d3/d94/a16106.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "d3/d94/a16106.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "d3/d94/a16106.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "d3/d94/a16106.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "d3/d94/a16106.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

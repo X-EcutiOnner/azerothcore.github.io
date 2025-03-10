@@ -1,13 +1,10 @@
 var a15110 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "d0/ddd/a15110.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
-    [ "GetData", "d0/ddd/a15110.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
-    [ "Initialize", "d0/ddd/a15110.html#a870ab2322971767fa37986743b31d20c", null ],
-    [ "OnCreatureCreate", "d0/ddd/a15110.html#aed3807432711105589d0b060a21836cc", null ],
-    [ "ReadSaveDataMore", "d0/ddd/a15110.html#ad348102f71e070e7ef12da62238c7b0f", null ],
-    [ "SetData", "d0/ddd/a15110.html#a0333b4728e9288937711174743f19f60", null ],
-    [ "WriteSaveDataMore", "d0/ddd/a15110.html#a78bece51279e3f9e62800e4d80b00f64", null ],
-    [ "_encounters", "d0/ddd/a15110.html#a0f049806007e59363418d4e39f9e389b", null ],
-    [ "DiscipleOfNaralexGUID", "d0/ddd/a15110.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
-    [ "SerpentisGUID", "d0/ddd/a15110.html#a7ba205e4988a20404f5e597331dd5d56", null ]
+    [ "npc_anubisath_defender", "d0/ddd/a15110.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "d0/ddd/a15110.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "d0/ddd/a15110.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "d0/ddd/a15110.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "d0/ddd/a15110.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "d0/ddd/a15110.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "d0/ddd/a15110.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

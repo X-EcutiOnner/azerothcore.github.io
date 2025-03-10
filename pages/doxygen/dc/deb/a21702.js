@@ -1,6 +1,6 @@
 var a21702 =
 [
-    [ "npc_torturer_lecraftAI", "d4/dc0/a21706.html", "d4/dc0/a21706" ],
-    [ "npc_torturer_lecraft", "dc/deb/a21702.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "dc/deb/a21702.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "GhoulTargetCheck", "dc/deb/a21702.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "dc/deb/a21702.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "dc/deb/a21702.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

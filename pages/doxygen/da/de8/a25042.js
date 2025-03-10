@@ -1,14 +1,11 @@
 var a25042 =
 [
-    [ "spell_gen_mount", "da/de8/a25042.html#aae8c5c328dda0668bf8cdabc2c9cd29f", null ],
-    [ "HandleMount", "da/de8/a25042.html#a81085b5efd8d9bd7c82ebb1cf6604793", null ],
-    [ "PrepareSpellScript", "da/de8/a25042.html#a49e2046d30352a6e22dab2530e909fa7", null ],
-    [ "Register", "da/de8/a25042.html#a8175ecc0c407d5c4646f038d7b62e92b", null ],
-    [ "Validate", "da/de8/a25042.html#accef27fc13ff34af52860ad6ac62e7f3", null ],
-    [ "_mount0", "da/de8/a25042.html#abd6347074186b7c47ac5a2c760f4db33", null ],
-    [ "_mount100", "da/de8/a25042.html#a5e56853140f188ff1babc61c507f8300", null ],
-    [ "_mount150", "da/de8/a25042.html#a1237697623e4831c25efcde1ab370031", null ],
-    [ "_mount280", "da/de8/a25042.html#aa9d0a936795d06dd78ef3c4d5aaf0320", null ],
-    [ "_mount310", "da/de8/a25042.html#ac06b80d14cc106281c3e6bf3f6a5c727", null ],
-    [ "_mount60", "da/de8/a25042.html#a53ce7d1b5a39cce2bede77aad647dc7e", null ]
+    [ "GetPennatSpellId", "da/de8/a25042.html#a1e327a79ce90cf7ebbec644ed15ff67f", null ],
+    [ "HandleApplyEffect", "da/de8/a25042.html#a396c05708a89758e4038b327e09c65e8", null ],
+    [ "HandleRemoveEffect", "da/de8/a25042.html#adf6fd3d2a36e1ff115b5c5109d37b7a4", null ],
+    [ "Load", "da/de8/a25042.html#afc83ecf02a1702d48fb39d60419bdbf1", null ],
+    [ "PrepareAuraScript", "da/de8/a25042.html#a0230d694e9325d7ac6ac6526ecb5a0e3", null ],
+    [ "Register", "da/de8/a25042.html#a46782a9dfb8ee2100be00afb6aa8b9a7", null ],
+    [ "Validate", "da/de8/a25042.html#a095b002671940f2b3504ae2646f76d5a", null ],
+    [ "_pennantSpellId", "da/de8/a25042.html#a092f0d88ede12dea699b39d5df04131c", null ]
 ];

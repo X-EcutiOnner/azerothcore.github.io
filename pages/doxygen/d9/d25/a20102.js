@@ -1,6 +1,6 @@
 var a20102 =
 [
-    [ "HandleAfterEffectApply", "d9/d25/a20102.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "d9/d25/a20102.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "d9/d25/a20102.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "npc_ulduar_hodir_mageAI", "d6/de9/a20106.html", "d6/de9/a20106" ],
+    [ "npc_ulduar_hodir_mage", "d9/d25/a20102.html#afebdd0f99f0c7eaaf0a2d5731335105d", null ],
+    [ "GetAI", "d9/d25/a20102.html#abcbe0337b2a83b6eb0a64f7465d7f79a", null ]
 ];

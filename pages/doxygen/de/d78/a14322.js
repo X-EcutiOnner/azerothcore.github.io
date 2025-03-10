@@ -1,5 +1,5 @@
 var a14322 =
 [
-    [ "PrepareSpellScript", "de/d78/a14322.html#aa5593d0da0fe9cb1cb22cb2ccab18e05", null ],
-    [ "Register", "de/d78/a14322.html#a99f7d0be5668d5b005400140fc9865a4", null ]
+    [ "MidsummerPlayerScript", "de/d78/a14322.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
+    [ "OnPlayerUpdateZone", "de/d78/a14322.html#af512e1744264ac69fe2b7f7ba3836760", null ]
 ];

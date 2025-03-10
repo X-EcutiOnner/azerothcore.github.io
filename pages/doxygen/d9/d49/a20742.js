@@ -1,6 +1,6 @@
 var a20742 =
 [
-    [ "boss_yoggsaron_voiceAI", "dc/d7e/a20746.html", "dc/d7e/a20746" ],
-    [ "boss_yoggsaron_voice", "d9/d49/a20742.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
-    [ "GetAI", "d9/d49/a20742.html#a50abcde0313df06a114a2f5f44a1d481", null ]
+    [ "boss_yoggsaron_descend_portalAI", "dc/d7e/a20746.html", "dc/d7e/a20746" ],
+    [ "boss_yoggsaron_descend_portal", "d9/d49/a20742.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
+    [ "GetAI", "d9/d49/a20742.html#aceb50c808eed17ca468a80b823af1907", null ]
 ];

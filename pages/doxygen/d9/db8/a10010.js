@@ -1,13 +1,7 @@
 var a10010 =
 [
-    [ "AccountScript", "d9/db8/a10010.html#a3720bf412499a13ba4b41fc5c9f96b7c", null ],
-    [ "CanAccountCreateCharacter", "d9/db8/a10010.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
-    [ "OnAccountLogin", "d9/db8/a10010.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
-    [ "OnBeforeAccountDelete", "d9/db8/a10010.html#a631f7deca08644da2613142c667618a8", null ],
-    [ "OnEmailChange", "d9/db8/a10010.html#adf20bd20cdc97b91db664dca95f82670", null ],
-    [ "OnFailedAccountLogin", "d9/db8/a10010.html#aae3401d74bdc9e8328a5f084462ae740", null ],
-    [ "OnFailedEmailChange", "d9/db8/a10010.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
-    [ "OnFailedPasswordChange", "d9/db8/a10010.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
-    [ "OnLastIpUpdate", "d9/db8/a10010.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
-    [ "OnPasswordChange", "d9/db8/a10010.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
+    [ "CommonInitializer", "d9/db8/a10010.html#ab472ff63e0178a3414630f743d4de906", null ],
+    [ "operator()", "d9/db8/a10010.html#aba4cce84b89416f54a0a25b1702a322c", null ],
+    [ "_time", "d9/db8/a10010.html#a483d83836ccbe90a842c09f7d4906436", null ],
+    [ "velocityInv", "d9/db8/a10010.html#ac2f731afc2aae338bb8b1b616b0a39c1", null ]
 ];

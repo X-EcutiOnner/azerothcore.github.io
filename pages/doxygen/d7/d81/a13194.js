@@ -1,6 +1,6 @@
 var a13194 =
 [
-    [ "SpectralBlastCheck", "d7/d81/a13194.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
-    [ "operator()", "d7/d81/a13194.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
-    [ "_victim", "d7/d81/a13194.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
+    [ "npc_demonic_vapor", "d7/d81/a13194.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
+    [ "Reset", "d7/d81/a13194.html#a7d2b88ab26904cedaac34f03567806bc", null ],
+    [ "UpdateAI", "d7/d81/a13194.html#ae80c50c2599e607b54349a87dda5f6f6", null ]
 ];

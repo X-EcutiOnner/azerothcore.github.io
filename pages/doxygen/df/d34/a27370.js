@@ -1,6 +1,11 @@
 var a27370 =
 [
-    [ "npc_air_force_botsAI", "d3/dd8/a27374.html", "d3/dd8/a27374" ],
-    [ "npc_air_force_bots", "df/d34/a27370.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "df/d34/a27370.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "npc_franklinAI", "df/d34/a27370.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "df/d34/a27370.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "df/d34/a27370.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "df/d34/a27370.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "df/d34/a27370.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "df/d34/a27370.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "df/d34/a27370.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "df/d34/a27370.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

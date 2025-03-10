@@ -1,10 +1,7 @@
 var a26390 =
 [
-    [ "CheckProc", "d1/d2a/a26390.html#a5971c42af47d1cc8045a130deb218a04", null ],
-    [ "HandleProc", "d1/d2a/a26390.html#a45aaf5afebc2fa533240fcf8233430ed", null ],
-    [ "Load", "d1/d2a/a26390.html#a7664b0f67c9e3b14841ed9e30447544d", null ],
-    [ "PrepareAuraScript", "d1/d2a/a26390.html#a291fcf1af497d1e83a31209cd01a360d", null ],
-    [ "Register", "d1/d2a/a26390.html#af16d0517ad07a454145da0b92c051740", null ],
-    [ "Validate", "d1/d2a/a26390.html#ac768a5f4738dee9ad7d885fa6136785e", null ],
-    [ "_procTargetGUID", "d1/d2a/a26390.html#a13976d069846f29d2f744f3f03502787", null ]
+    [ "HandleDummy", "d1/d2a/a26390.html#ab046ef0adc63c32a153ba4ea866f8dcd", null ],
+    [ "PrepareSpellScript", "d1/d2a/a26390.html#ac293d1c1aac41808f81cad2974424c2e", null ],
+    [ "Register", "d1/d2a/a26390.html#ab145e1826eb63d0b6b1ea39a6c3c4d36", null ],
+    [ "Validate", "d1/d2a/a26390.html#aa725a6ee483dfac46724d291de4ee54b", null ]
 ];

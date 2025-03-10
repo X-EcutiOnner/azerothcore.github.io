@@ -1,8 +1,10 @@
 var a21294 =
 [
-    [ "npc_azure_captainAI", "d6/d56/a21294.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
-    [ "Reset", "d6/d56/a21294.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
-    [ "UpdateAI", "d6/d56/a21294.html#ae50ac21138e12be43caa93e37062051e", null ],
-    [ "uiMortalStrikeTimer", "d6/d56/a21294.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
-    [ "uiWhirlwindTimer", "d6/d56/a21294.html#a2e3439976a6e84a60be765cb0b929798", null ]
+    [ "npc_azure_invaderAI", "d6/d56/a21294.html#a85f164a6ba24d7a14d77264441a78f46", null ],
+    [ "Reset", "d6/d56/a21294.html#ada44600272b19d9416d957bc52bc3be4", null ],
+    [ "UpdateAI", "d6/d56/a21294.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
+    [ "uiBrutalStrikeTimer", "d6/d56/a21294.html#a4b88a85f3344edbdadde0104668509aa", null ],
+    [ "uiCleaveTimer", "d6/d56/a21294.html#a8b1792a8a405651d602d9ed634f52689", null ],
+    [ "uiImpaleTimer", "d6/d56/a21294.html#aa709ee8919a2d0317d563259c7630c99", null ],
+    [ "uiSunderArmorTimer", "d6/d56/a21294.html#ab2e6d01df033985ac29e963cf2895466", null ]
 ];

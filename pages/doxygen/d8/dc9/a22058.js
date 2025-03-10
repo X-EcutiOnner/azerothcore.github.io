@@ -1,8 +1,6 @@
 var a22058 =
 [
-    [ "npc_vics_flying_machineAI", "d8/dc9/a22058.html#a4464e0b1433c4ffb24ae7809b1a0eec5", null ],
-    [ "MovementInform", "d8/dc9/a22058.html#ac4bbe0a3cccb6878d050b717b9efb320", null ],
-    [ "PassengerBoarded", "d8/dc9/a22058.html#aa67dcbb4b43b047398fec2619ad61829", null ],
-    [ "SpellHit", "d8/dc9/a22058.html#aa81229a104e1521d570abec4b6f7bca7", null ],
-    [ "pointId", "d8/dc9/a22058.html#aa1412c23f0c3b964262e145c51aea974", null ]
+    [ "npc_avatar_of_freya", "d8/dc9/a22058.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
+    [ "OnGossipHello", "d8/dc9/a22058.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
+    [ "OnGossipSelect", "d8/dc9/a22058.html#aba1b13e922873e939b2510b4bc77f49d", null ]
 ];

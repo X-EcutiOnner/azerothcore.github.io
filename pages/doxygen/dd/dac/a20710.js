@@ -1,6 +1,6 @@
 var a20710 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "d4/d1e/a20714.html", "d4/d1e/a20714" ],
-    [ "boss_yoggsaron_immortal_guardian", "dd/dac/a20710.html#a4009759d284b54cb958ee0bb80c45f14", null ],
-    [ "GetAI", "dd/dac/a20710.html#ac532ca090d93ce6d11a0332329111f2b", null ]
+    [ "boss_yoggsaron_death_orbAI", "dd/dac/a20710.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
+    [ "UpdateAI", "dd/dac/a20710.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
+    [ "_startTimer", "dd/dac/a20710.html#aebc8edef5f84219e1c50f2394d129443", null ]
 ];

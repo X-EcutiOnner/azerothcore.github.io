@@ -1,6 +1,7 @@
 var a21106 =
 [
-    [ "npc_frozen_orbAI", "d2/d93/a21110.html", "d2/d93/a21110" ],
-    [ "npc_frozen_orb", "dc/dc7/a21106.html#ac14966722e39b2b6b3a907756701ed98", null ],
-    [ "GetAI", "dc/dc7/a21106.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
+    [ "HandleScript", "dc/dc7/a21106.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "dc/dc7/a21106.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "dc/dc7/a21106.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "dc/dc7/a21106.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

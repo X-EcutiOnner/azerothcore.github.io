@@ -1,6 +1,7 @@
 var a19810 =
 [
-    [ "HandleScript", "d1/d43/a19810.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
-    [ "PrepareSpellScript", "d1/d43/a19810.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
-    [ "Register", "d1/d43/a19810.html#a04a5b3a4f768200d74f4641508633d35", null ]
+    [ "npc_storm_beacon_spawnAI", "d1/d43/a19810.html#a031c1941f177a18af58efcf4a1270654", null ],
+    [ "UpdateAI", "d1/d43/a19810.html#a249bf56b905ef0c8b34c737d95518c91", null ],
+    [ "_amount", "d1/d43/a19810.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
+    [ "_checkTimer", "d1/d43/a19810.html#a7fd6d449b6a20ba9463896244c513a67", null ]
 ];

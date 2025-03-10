@@ -1,13 +1,10 @@
 var a27314 =
 [
-    [ "npc_nelsonAI", "d1/d39/a27314.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
-    [ "DoAction", "d1/d39/a27314.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
-    [ "JustEngagedWith", "d1/d39/a27314.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
-    [ "JustSummoned", "d1/d39/a27314.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
-    [ "Reset", "d1/d39/a27314.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
-    [ "SpellHit", "d1/d39/a27314.html#afab81d8a6077c755c186bb619944d78d", null ],
-    [ "SummonedCreatureDies", "d1/d39/a27314.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
-    [ "UpdateAI", "d1/d39/a27314.html#ac68749942f37de5f9105556fe7b904b7", null ],
-    [ "events", "d1/d39/a27314.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
-    [ "shouldDespawn", "d1/d39/a27314.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
+    [ "npc_prof_blacksmith", "d1/d39/a27314.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
+    [ "HasWeaponSub", "d1/d39/a27314.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
+    [ "OnGossipHello", "d1/d39/a27314.html#a9a432c1ec33578949110c877fc6a686d", null ],
+    [ "OnGossipSelect", "d1/d39/a27314.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
+    [ "SendActionMenu", "d1/d39/a27314.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
+    [ "SendConfirmLearn", "d1/d39/a27314.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
+    [ "SendConfirmUnlearn", "d1/d39/a27314.html#a851dc241d944bc888a00df85bff17e3a", null ]
 ];

@@ -1,10 +1,6 @@
 var a13658 =
 [
-    [ "boss_alyson_antille", "db/dde/a13658.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
-    [ "GetNearbyFriendlies", "db/dde/a13658.html#ab99596d5c2eafac8c678378d509bf585", null ],
-    [ "JustEngagedWith", "db/dde/a13658.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
-    [ "RandomReverseFriendlyList", "db/dde/a13658.html#afef27de229ba2c3b8beb30809a313237", null ],
-    [ "Reset", "db/dde/a13658.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
-    [ "UpdateAI", "db/dde/a13658.html#a15157be42d166a239ab658fc04292e44", null ],
-    [ "_friendlyList", "db/dde/a13658.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
+    [ "npc_tapoke_slim_jahnAI", "df/dc8/a13662.html", "df/dc8/a13662" ],
+    [ "npc_tapoke_slim_jahn", "db/dde/a13658.html#a61e36b57f8ba78c371d454efb1512579", null ],
+    [ "GetAI", "db/dde/a13658.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
 ];

@@ -1,9 +1,5 @@
 var a23090 =
 [
-    [ "CalcPeriodic", "d8/dcc/a23090.html#a4c5a034d23253b2cf08cb86f12821184", null ],
-    [ "HandleEffectApply", "d8/dcc/a23090.html#af60491946062054504b20e16273ed594", null ],
-    [ "HandleEffectRemove", "d8/dcc/a23090.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
-    [ "HandlePeriodic", "d8/dcc/a23090.html#a5137e24394fa14129c44d92c79eef117", null ],
-    [ "PrepareAuraScript", "d8/dcc/a23090.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
-    [ "Register", "d8/dcc/a23090.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
+    [ "go_strange_pool", "d8/dcc/a23090.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "d8/dcc/a23090.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

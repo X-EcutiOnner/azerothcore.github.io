@@ -1,7 +1,8 @@
 var a11006 =
 [
-    [ "DynObjAura", "d7/d4e/a11006.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
-    [ "FillTargetMap", "d7/d4e/a11006.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
-    [ "Remove", "d7/d4e/a11006.html#ada3f65b4a817e2337da43da437b93a3b", null ],
-    [ "Aura::Create", "d7/d4e/a11006.html#ae2c0fdfb409846fec5e861de60797112", null ]
+    [ "SkillDiscoveryEntry", "d7/d4e/a11006.html#a54c0f12153c6e63a37e5da44d233b271", null ],
+    [ "SkillDiscoveryEntry", "d7/d4e/a11006.html#a301cae078fe1943cae045e94dc3d38ad", null ],
+    [ "chance", "d7/d4e/a11006.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
+    [ "reqSkillValue", "d7/d4e/a11006.html#a61e0edc8fee1fa4045d846668d08449c", null ],
+    [ "spellId", "d7/d4e/a11006.html#a75ca40729917317173b2953c8f47f833", null ]
 ];

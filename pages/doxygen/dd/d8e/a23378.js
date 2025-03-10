@@ -1,12 +1,11 @@
 var a23378 =
 [
-    [ "boss_nazan", "dd/d8e/a23378.html#a4390d3e181c4db46e364df3302612763", null ],
-    [ "AttackStart", "dd/d8e/a23378.html#a7acea69f908e7a004c2a78c103528975", null ],
-    [ "DoAction", "dd/d8e/a23378.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
-    [ "EnterEvadeMode", "dd/d8e/a23378.html#ab6338a7d240014e548b22044b788ce8f", null ],
-    [ "JustEngagedWith", "dd/d8e/a23378.html#a4d44b759530f32207a46a608fb7d6209", null ],
-    [ "MovementInform", "dd/d8e/a23378.html#ad35866322ff55263b1f8b105d2cad952", null ],
-    [ "Reset", "dd/d8e/a23378.html#a5c10e932075130399a9127869f45ce1d", null ],
-    [ "UpdateAI", "dd/d8e/a23378.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
-    [ "_scheduler", "dd/d8e/a23378.html#a8915d84ec4ffb8dade18041d5e910018", null ]
+    [ "boss_krosh_firehand", "dd/d8e/a23378.html#a1ef3618844f086de7875f26e7e6190f9", null ],
+    [ "AttackStart", "dd/d8e/a23378.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
+    [ "JustDied", "dd/d8e/a23378.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
+    [ "JustEngagedWith", "dd/d8e/a23378.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
+    [ "Reset", "dd/d8e/a23378.html#a989c4b762a7cdb228b245e91881d97a2", null ],
+    [ "UpdateAI", "dd/d8e/a23378.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
+    [ "_scheduler", "dd/d8e/a23378.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
+    [ "instance", "dd/d8e/a23378.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
 ];

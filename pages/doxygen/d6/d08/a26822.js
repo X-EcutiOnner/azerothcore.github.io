@@ -1,5 +1,7 @@
 var a26822 =
 [
-    [ "achievement_save_the_day", "d6/d08/a26822.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "d6/d08/a26822.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "HandleEffect", "d6/d08/a26822.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
+    [ "PrepareSpellScript", "d6/d08/a26822.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
+    [ "Register", "d6/d08/a26822.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
+    [ "Validate", "d6/d08/a26822.html#ab6d78ecb650f13df3376baced8c40a63", null ]
 ];

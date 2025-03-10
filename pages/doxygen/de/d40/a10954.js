@@ -1,9 +1,16 @@
 var a10954 =
 [
-    [ "EncryptableAndCompressiblePacket", "de/d40/a10954.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
-    [ "CompressIfNeeded", "de/d40/a10954.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
-    [ "NeedsCompression", "de/d40/a10954.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
-    [ "NeedsEncryption", "de/d40/a10954.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
-    [ "_encrypt", "de/d40/a10954.html#a37a68eddad23001a85a4a2f77e237810", null ],
-    [ "SocketQueueLink", "de/d40/a10954.html#a88f11ce75f439fd290bdc09156d559c2", null ]
+    [ "Player", "de/d40/a10954.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "de/d40/a10954.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "CharCount", "de/d40/a10954.html#aad61b8ca0caf09d6b62ee9fffd78cceb", null ],
+    [ "Class", "de/d40/a10954.html#a41e354593f59bc8546688a37c2a5e504", null ],
+    [ "Face", "de/d40/a10954.html#aba49d87691e9d2b10d430450c3f66493", null ],
+    [ "FacialHair", "de/d40/a10954.html#a5a88b2c2556dd1239c417ea4fcc55287", null ],
+    [ "Gender", "de/d40/a10954.html#ac4ed75d1527549051a92cbb958fa8eb4", null ],
+    [ "HairColor", "de/d40/a10954.html#a0ded70bbcf30bba4de4ac0ee88fb6eb6", null ],
+    [ "HairStyle", "de/d40/a10954.html#aa4b2800384a89a5c30c2edb7ff567865", null ],
+    [ "Name", "de/d40/a10954.html#a4f81603fda1ae148e6d6174ea8d861fe", null ],
+    [ "OutfitId", "de/d40/a10954.html#a15baddc70b46d48bd9f128e73aaac606", null ],
+    [ "Race", "de/d40/a10954.html#aeee5ee1a2dc34e1b2ad1f8edd31679ff", null ],
+    [ "Skin", "de/d40/a10954.html#a0fbfb41f3fd0c9d0ba2bfc7f04df648e", null ]
 ];

@@ -1,5 +1,5 @@
 var a27186 =
 [
-    [ "go_massive_seaforium_charge", "df/d57/a27186.html#adae43b764f237932923cd18207e4d23c", null ],
-    [ "OnGossipHello", "df/d57/a27186.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
+    [ "go_tele_to_violet_stand", "df/d57/a27186.html#a63350db1dfd400c565e30775378d48cc", null ],
+    [ "OnGossipHello", "df/d57/a27186.html#a4d075584f065501a2c3be9ef82387f43", null ]
 ];

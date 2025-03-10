@@ -1,6 +1,7 @@
 var a23310 =
 [
-    [ "CalculateDamage", "de/d5b/a23310.html#a170fb61e3a7358d42cc6506067fb978a", null ],
-    [ "PrepareSpellScript", "de/d5b/a23310.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
-    [ "Register", "de/d5b/a23310.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
+    [ "HandleScript", "de/d5b/a23310.html#a42052a416290a54d5479a402de578a73", null ],
+    [ "PrepareSpellScript", "de/d5b/a23310.html#a5f6aa972879b65c0207e47435d436a33", null ],
+    [ "Register", "de/d5b/a23310.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
+    [ "Validate", "de/d5b/a23310.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
 ];

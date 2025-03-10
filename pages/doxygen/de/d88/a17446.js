@@ -1,6 +1,6 @@
 var a17446 =
 [
-    [ "npc_gunship_gunnerAI", "db/d39/a17450.html", "db/d39/a17450" ],
-    [ "npc_gunship_gunner", "de/d88/a17446.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "de/d88/a17446.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "npc_igb_ship_crewAI", "db/d39/a17450.html", "db/d39/a17450" ],
+    [ "npc_igb_ship_crew", "de/d88/a17446.html#a5f4380aba94766a6a75b97026998b881", null ],
+    [ "GetAI", "de/d88/a17446.html#a48955817e21a01a726b50685b467c229", null ]
 ];

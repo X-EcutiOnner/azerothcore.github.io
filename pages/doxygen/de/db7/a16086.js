@@ -1,7 +1,6 @@
 var a16086 =
 [
-    [ "HandleAfterEffectAbsorb", "de/db7/a16086.html#ab3d9f3679931b4b3b29713602d08701d", null ],
-    [ "PrepareAuraScript", "de/db7/a16086.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
-    [ "Register", "de/db7/a16086.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
-    [ "Validate", "de/db7/a16086.html#a87750183d2b2d6adb67bba4a1f767029", null ]
+    [ "boss_eadricAI", "d0/d0c/a16090.html", "d0/d0c/a16090" ],
+    [ "boss_eadric", "de/db7/a16086.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
+    [ "GetAI", "de/db7/a16086.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
 ];

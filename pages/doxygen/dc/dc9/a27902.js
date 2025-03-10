@@ -1,4 +1,7 @@
 var a27902 =
 [
-    [ "ID", "dc/dc9/a27902.html#a27cfc07c5aa7efe7a6f0cb62ea691f81", null ]
+    [ "Class", "dc/dc9/a27902.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "dc/dc9/a27902.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "dc/dc9/a27902.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "dc/dc9/a27902.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

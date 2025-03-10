@@ -1,7 +1,6 @@
 var a15214 =
 [
-    [ "npc_prospector_remtravelAI", "d4/d27/a15218.html", "d4/d27/a15218" ],
-    [ "npc_prospector_remtravel", "d5/deb/a15214.html#aa213161fc60e615682252125f6c58f7f", null ],
-    [ "GetAI", "d5/deb/a15214.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
-    [ "OnQuestAccept", "d5/deb/a15214.html#a5e11149b6359927a71c98242d979e65b", null ]
+    [ "npc_stillpine_capitiveAI", "d4/d27/a15218.html", "d4/d27/a15218" ],
+    [ "npc_stillpine_capitive", "d5/deb/a15214.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
+    [ "GetAI", "d5/deb/a15214.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
 ];

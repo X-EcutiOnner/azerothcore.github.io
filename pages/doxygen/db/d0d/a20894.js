@@ -1,7 +1,8 @@
 var a20894 =
 [
-    [ "npc_frost_tomb", "db/d0d/a20894.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "db/d0d/a20894.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "db/d0d/a20894.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "db/d0d/a20894.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "npc_ulduar_keeperAI", "d2/d66/a20898.html", "d2/d66/a20898" ],
+    [ "npc_ulduar_keeper", "db/d0d/a20894.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "db/d0d/a20894.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "db/d0d/a20894.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "db/d0d/a20894.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

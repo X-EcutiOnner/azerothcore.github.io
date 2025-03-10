@@ -1,7 +1,6 @@
 var a21906 =
 [
-    [ "GetSeatNumber", "dd/d39/a21906.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "dd/d39/a21906.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "dd/d39/a21906.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "dd/d39/a21906.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "npc_black_knight_graveyardAI", "d7/dc0/a21910.html", "d7/dc0/a21910" ],
+    [ "npc_black_knight_graveyard", "dd/d39/a21906.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
+    [ "GetAI", "dd/d39/a21906.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
 ];

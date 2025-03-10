@@ -1,6 +1,5 @@
 var a02546 =
 [
-    [ "character_commandscript", "d3/dec/a11536.html", "d3/dec/a11536" ],
-    [ "character_commandscript::DeletedInfo", "d2/db3/a11540.html", "d2/db3/a11540" ],
-    [ "AddSC_character_commandscript", "d1/d1a/a02546.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
+    [ "lookup_commandscript", "d3/d73/a11638.html", "d3/d73/a11638" ],
+    [ "AddSC_lookup_commandscript", "d1/d1a/a02546.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
 ];

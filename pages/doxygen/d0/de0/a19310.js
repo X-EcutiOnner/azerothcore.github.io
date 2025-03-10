@@ -1,7 +1,7 @@
 var a19310 =
 [
-    [ "HandleOnEffectApply", "d0/de0/a19310.html#a4841f7a44f5df964c4eb9965383fd747", null ],
-    [ "PrepareAuraScript", "d0/de0/a19310.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
-    [ "Register", "d0/de0/a19310.html#a68fba646552678744f49d10b59704a35", null ],
-    [ "Validate", "d0/de0/a19310.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
+    [ "Apply", "d0/de0/a19310.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "d0/de0/a19310.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "d0/de0/a19310.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "d0/de0/a19310.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

@@ -1,8 +1,7 @@
 var a17286 =
 [
-    [ "CheckProc", "de/d11/a17286.html#a11620e4d645b3bfd35924700b5dad289", null ],
-    [ "HandleProc", "de/d11/a17286.html#aa80a032f2ec80aba36f6fe0208412587", null ],
-    [ "PrepareAuraScript", "de/d11/a17286.html#afe04f0cb6539238412253b63dd3c82b9", null ],
-    [ "Register", "de/d11/a17286.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
-    [ "Validate", "de/d11/a17286.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
+    [ "achievement_once_bitten_twice_shy", "de/d11/a17286.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
+    [ "OnCheck", "de/d11/a17286.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
+    [ "_spawnMode", "de/d11/a17286.html#a6f02f5ab07143ddff553279049714902", null ],
+    [ "_wasVampire", "de/d11/a17286.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
 ];

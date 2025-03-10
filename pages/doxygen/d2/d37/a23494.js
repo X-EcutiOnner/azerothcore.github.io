@@ -1,8 +1,15 @@
 var a23494 =
 [
-    [ "npc_warchief_portal", "d2/d37/a23494.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "d2/d37/a23494.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "d2/d37/a23494.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "d2/d37/a23494.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "d2/d37/a23494.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "d2/d37/a23494.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
+    [ "Initialize", "d2/d37/a23494.html#afa054fb11fe777019baa70f46bfd8212", null ],
+    [ "OnCreatureCreate", "d2/d37/a23494.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
+    [ "OnCreatureRemove", "d2/d37/a23494.html#a727d4d3bfc52391a088e86fef013617c", null ],
+    [ "OnGameObjectCreate", "d2/d37/a23494.html#a020584d79926d170c02655c5e2841127", null ],
+    [ "OnGameObjectRemove", "d2/d37/a23494.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
+    [ "SetBossState", "d2/d37/a23494.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
+    [ "SetData", "d2/d37/a23494.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
+    [ "_columnSet", "d2/d37/a23494.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
+    [ "_cubesSet", "d2/d37/a23494.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
+    [ "_magtheridonGUID", "d2/d37/a23494.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
+    [ "_wardersSet", "d2/d37/a23494.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
 ];

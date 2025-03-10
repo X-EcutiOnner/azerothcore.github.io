@@ -1,7 +1,5 @@
 var a20934 =
 [
-    [ "HandleOnEffectRemove", "dc/d57/a20934.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "dc/d57/a20934.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "dc/d57/a20934.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "dc/d57/a20934.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "npc_salvaged_siege_engine", "dc/d57/a20934.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
+    [ "BeforeSpellClick", "dc/d57/a20934.html#aed2500b2315b5e508ea3d06a2355d023", null ]
 ];

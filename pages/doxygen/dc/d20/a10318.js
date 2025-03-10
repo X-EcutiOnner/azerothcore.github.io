@@ -1,28 +1,6 @@
 var a10318 =
 [
-    [ "UnitScript", "dc/d20/a10318.html#a109b6b1a101953feb0f157729f3df5d2", null ],
-    [ "CanSetPhaseMask", "dc/d20/a10318.html#a95d2e7dd7074494fdd4f530f9684c1bf", null ],
-    [ "DealDamage", "dc/d20/a10318.html#a4b161e889eee3572a41c33a144d12cdf", null ],
-    [ "IfNormalReaction", "dc/d20/a10318.html#a355d024283b4ce02a2fdcf551c75c3b2", null ],
-    [ "IsCustomBuildValuesUpdate", "dc/d20/a10318.html#a1859b5ca0970c3a358a4ba0207f281de", null ],
-    [ "IsNeedModHealPercent", "dc/d20/a10318.html#aab4fd36511815865c02e1415c2460ea2", null ],
-    [ "IsNeedModMeleeDamagePercent", "dc/d20/a10318.html#aaaf151572d72b05833905777a979c0d9", null ],
-    [ "IsNeedModSpellDamagePercent", "dc/d20/a10318.html#abef7c63663b881c66f2bcc6c3d3256b8", null ],
-    [ "ModifyHealReceived", "dc/d20/a10318.html#ac2f40d7ca52538ae874f60a7acbf443b", null ],
-    [ "ModifyMeleeDamage", "dc/d20/a10318.html#acde1701dd3d6207da2e76d7d1753f9c7", null ],
-    [ "ModifyPeriodicDamageAurasTick", "dc/d20/a10318.html#ae0703adbc70a14443c0370de77e95190", null ],
-    [ "ModifySpellDamageTaken", "dc/d20/a10318.html#a375db3302ef33bcc5c874b0b53bbc345", null ],
-    [ "OnAuraApply", "dc/d20/a10318.html#a334ac1a9d8e29aa064d3625d59c7a167", null ],
-    [ "OnAuraRemove", "dc/d20/a10318.html#a2ed2cf6d9725ae342adfada023538a28", null ],
-    [ "OnBeforeRollMeleeOutcomeAgainst", "dc/d20/a10318.html#a627a99cd078d2cbd52519874f0bd0aff", null ],
-    [ "OnDamage", "dc/d20/a10318.html#a5541573db45b4404ae0b613251ad1a13", null ],
-    [ "OnDisplayIdChange", "dc/d20/a10318.html#a43cd3dd2e6cd311b1045b8f5d7d6ac83", null ],
-    [ "OnHeal", "dc/d20/a10318.html#adcdc8430e14bccfe399a7e1a3edd2b69", null ],
-    [ "OnPatchValuesUpdate", "dc/d20/a10318.html#a0a751a8fb5c99375b667214915822e96", null ],
-    [ "OnUnitDeath", "dc/d20/a10318.html#a7bb5f4ea3ae8edb55df455648863d93f", null ],
-    [ "OnUnitEnterCombat", "dc/d20/a10318.html#a8d04617af120a1e23ad57a45440744bb", null ],
-    [ "OnUnitEnterEvadeMode", "dc/d20/a10318.html#a9df6f81297f53007f1227778466e912f", null ],
-    [ "OnUnitSetShapeshiftForm", "dc/d20/a10318.html#acacf12c000646710abf931429a0852c0", null ],
-    [ "OnUnitUpdate", "dc/d20/a10318.html#a36e7ba9d74892f59d0a36b76e78f4f80", null ],
-    [ "ShouldTrackValuesUpdatePosByIndex", "dc/d20/a10318.html#a7b74be81d24bc7265d5566d67d044aad", null ]
+    [ "OutdoorPvPScript", "dc/d20/a10318.html#ad7882db48419888c7968007e30c2f3f7", null ],
+    [ "GetOutdoorPvP", "dc/d20/a10318.html#aa213974f384c88ab65f7b7308dadb026", null ],
+    [ "IsDatabaseBound", "dc/d20/a10318.html#ac22c6a9945738270452848f997d2818f", null ]
 ];

@@ -1,6 +1,6 @@
 var a19610 =
 [
-    [ "npc_assembly_lightningAI", "db/dd8/a19614.html", "db/dd8/a19614" ],
-    [ "npc_assembly_lightning", "df/dd7/a19610.html#ac9776fc8cb3dd3f8bfecb1d367afefd2", null ],
-    [ "GetAI", "df/dd7/a19610.html#a4054ea8bb68b2742847b359e19b477df", null ]
+    [ "PrepareSpellScript", "df/dd7/a19610.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "df/dd7/a19610.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "df/dd7/a19610.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

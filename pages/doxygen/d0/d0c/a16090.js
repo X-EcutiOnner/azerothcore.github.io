@@ -1,6 +1,13 @@
 var a16090 =
 [
-    [ "boss_black_knightAI", "dc/ded/a16094.html", "dc/ded/a16094" ],
-    [ "boss_black_knight", "d0/d0c/a16090.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "d0/d0c/a16090.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "boss_eadricAI", "d0/d0c/a16090.html#a461043fe1bff0f5478e2a57504e7477c", null ],
+    [ "DamageTaken", "d0/d0c/a16090.html#a440899ffdeda7794ef4fa5530638eecc", null ],
+    [ "JustEngagedWith", "d0/d0c/a16090.html#a09a0cebcdffb00e37e9d60111c582669", null ],
+    [ "KilledUnit", "d0/d0c/a16090.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
+    [ "MovementInform", "d0/d0c/a16090.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
+    [ "Reset", "d0/d0c/a16090.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
+    [ "SpellHit", "d0/d0c/a16090.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
+    [ "UpdateAI", "d0/d0c/a16090.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
+    [ "events", "d0/d0c/a16090.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
+    [ "pInstance", "d0/d0c/a16090.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
 ];

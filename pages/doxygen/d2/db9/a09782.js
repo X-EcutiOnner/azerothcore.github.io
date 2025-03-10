@@ -1,20 +1,14 @@
 var a09782 =
 [
-    [ "MapUpdater", "d2/db9/a09782.html#a96424fd90677e0f2d0908f9c25b58d04", null ],
-    [ "~MapUpdater", "d2/db9/a09782.html#aadb5781f6ab6ffd1410486399ccaa0ee", null ],
-    [ "activate", "d2/db9/a09782.html#a7a1362a9b916a0919f0fa6fcbf82ff22", null ],
-    [ "activated", "d2/db9/a09782.html#a9cd15656fd974278fa1d4ba30d6fcea8", null ],
-    [ "deactivate", "d2/db9/a09782.html#ab579ca346d4d19e16bd552ce84bd95b7", null ],
-    [ "schedule_lfg_update", "d2/db9/a09782.html#a4141350af5d8a86481a8e5f29f0ad7e2", null ],
-    [ "schedule_task", "d2/db9/a09782.html#a9a6a4c2260e0bb48e42b1a7d3216326b", null ],
-    [ "schedule_update", "d2/db9/a09782.html#aafda5775622dcce2e4869cf5d015fefc", null ],
-    [ "update_finished", "d2/db9/a09782.html#ab874c53de215037c8fae77f9dac6601c", null ],
-    [ "wait", "d2/db9/a09782.html#a608eb61de2bacf082422562b049e8652", null ],
-    [ "WorkerThread", "d2/db9/a09782.html#a3cce7e3bbab4e3e875dad9a549c142e8", null ],
-    [ "_cancelationToken", "d2/db9/a09782.html#a96c38c13ce5a71ce63ee0b83e83d5cfd", null ],
-    [ "_condition", "d2/db9/a09782.html#acf5b180bd52ae9244e0eda41bcc7573a", null ],
-    [ "_lock", "d2/db9/a09782.html#a0ed1652ffa76199e1e7d659b5c451549", null ],
-    [ "_queue", "d2/db9/a09782.html#afba30ac2a8ce0540b73f034b73ce5956", null ],
-    [ "_workerThreads", "d2/db9/a09782.html#a06a1943fe78ea8a5da2d4b0453748d90", null ],
-    [ "pending_requests", "d2/db9/a09782.html#aa5243a9d4d3753060570cecde9a3a6e7", null ]
+    [ "BattlegroundMap", "d2/db9/a09782.html#a3a9af8a69ac8d188d7fb86f2a9dda2c3", null ],
+    [ "~BattlegroundMap", "d2/db9/a09782.html#a327d241fd7930e9b3a98ba50014d5131", null ],
+    [ "AddPlayerToMap", "d2/db9/a09782.html#a0325279a2affc7b20a415a3b90a32fc0", null ],
+    [ "CannotEnter", "d2/db9/a09782.html#a493a1932eee44c346d9cfb7d13789bb6", null ],
+    [ "GetBG", "d2/db9/a09782.html#a2fcb965981bb03571f12c11cdbac54a4", null ],
+    [ "InitVisibilityDistance", "d2/db9/a09782.html#af2d6847765d10fab527d77b26dd770ad", null ],
+    [ "RemoveAllPlayers", "d2/db9/a09782.html#a5093cbf8005d06452eeb202513323c1e", null ],
+    [ "RemovePlayerFromMap", "d2/db9/a09782.html#aeddb9dfae8601e95b0a93cefc12c2612", null ],
+    [ "SetBG", "d2/db9/a09782.html#aaa9e5f830953b1a37a684ac566e9b768", null ],
+    [ "SetUnload", "d2/db9/a09782.html#a4c03b1aa9c4c53697ad6284825a1b9c1", null ],
+    [ "m_bg", "d2/db9/a09782.html#aa38fff695728ddedc94dd6eb6bd7bf3b", null ]
 ];

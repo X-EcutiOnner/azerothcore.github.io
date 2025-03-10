@@ -1,6 +1,7 @@
 var a25102 =
 [
-    [ "CheckRequirement", "dc/dec/a25102.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
-    [ "PrepareSpellScript", "dc/dec/a25102.html#aebb88f5ea803a590a099e4e6427d8276", null ],
-    [ "Register", "dc/dec/a25102.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
+    [ "PrepareSpellScript", "dc/dec/a25102.html#a65d5717a25e371e09c44148c679dd390", null ],
+    [ "Register", "dc/dec/a25102.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
+    [ "RemoveInvalidTargets", "dc/dec/a25102.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
+    [ "Validate", "dc/dec/a25102.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
 ];

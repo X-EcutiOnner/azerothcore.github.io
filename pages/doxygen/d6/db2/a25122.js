@@ -1,7 +1,6 @@
 var a25122 =
 [
-    [ "HandleDamage", "d6/db2/a25122.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
-    [ "PrepareSpellScript", "d6/db2/a25122.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
-    [ "Register", "d6/db2/a25122.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
-    [ "Validate", "d6/db2/a25122.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
+    [ "PrepareSpellScript", "d6/db2/a25122.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "d6/db2/a25122.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "d6/db2/a25122.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

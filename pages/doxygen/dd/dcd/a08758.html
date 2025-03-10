@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: GameEventAIHookWorker Class Reference</title>
+<title>AzerothCore: VehicleSeat Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,35 +106,34 @@ $(document).ready(function(){initNavTree('dd/dcd/a08758.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d0/dbd/a08755.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">GameEventAIHookWorker Class Reference</div></div>
+  <div class="headertitle"><div class="title">VehicleSeat Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">VehicleDefines.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad72640a18d2d32a9201c965089ee49cf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcd/a08758.html#ad72640a18d2d32a9201c965089ee49cf">GameEventAIHookWorker</a> (<a class="el" href="../../d3/d56/a04553.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> eventId, bool activate)</td></tr>
-<tr class="separator:ad72640a18d2d32a9201c965089ee49cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a23d979ee43838e7d58e9123e36474a5a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcd/a08758.html#a23d979ee43838e7d58e9123e36474a5a">Visit</a> (std::unordered_map&lt; <a class="el" href="../../db/de7/a08366.html">ObjectGuid</a>, <a class="el" href="../../dd/db3/a07946.html">Creature</a> * &gt; &amp;creatureMap)</td></tr>
-<tr class="separator:a23d979ee43838e7d58e9123e36474a5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a79106ec550d072d690bbf3496d76cb0a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcd/a08758.html#a79106ec550d072d690bbf3496d76cb0a">Visit</a> (std::unordered_map&lt; <a class="el" href="../../db/de7/a08366.html">ObjectGuid</a>, <a class="el" href="../../d8/dc8/a08122.html">GameObject</a> * &gt; &amp;gameObjectMap)</td></tr>
-<tr class="separator:a79106ec550d072d690bbf3496d76cb0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a165476edd8b252bbb90b8b78fae963a6"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:a165476edd8b252bbb90b8b78fae963a6"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/dcd/a08758.html#a165476edd8b252bbb90b8b78fae963a6">Visit</a> (std::unordered_map&lt; <a class="el" href="../../db/de7/a08366.html">ObjectGuid</a>, T * &gt; &amp;)</td></tr>
-<tr class="separator:a165476edd8b252bbb90b8b78fae963a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad2d19e3fc73c06cd7c8e339bd2b45a0c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcd/a08758.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c">VehicleSeat</a> (<a class="el" href="../../d6/d37/a28286.html">VehicleSeatEntry</a> const *seatInfo, <a class="el" href="../../d1/d41/a08754.html">VehicleSeatAddon</a> const *seatAddon)</td></tr>
+<tr class="separator:ad2d19e3fc73c06cd7c8e339bd2b45a0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f68076857cb85ee7679f04043acdedc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcd/a08758.html#a9f68076857cb85ee7679f04043acdedc">IsEmpty</a> () const</td></tr>
+<tr class="separator:a9f68076857cb85ee7679f04043acdedc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:ab1ee68bb7134e84780772eba2cfac766"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d56/a04553.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcd/a08758.html#ab1ee68bb7134e84780772eba2cfac766">_eventId</a></td></tr>
-<tr class="separator:ab1ee68bb7134e84780772eba2cfac766"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a756665eafa08f3c8c51ccef69bdd619f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcd/a08758.html#a756665eafa08f3c8c51ccef69bdd619f">_activate</a></td></tr>
-<tr class="separator:a756665eafa08f3c8c51ccef69bdd619f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:add0cf92d445f6ea0cf910b0bc0d80b62"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d37/a28286.html">VehicleSeatEntry</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcd/a08758.html#add0cf92d445f6ea0cf910b0bc0d80b62">SeatInfo</a></td></tr>
+<tr class="separator:add0cf92d445f6ea0cf910b0bc0d80b62"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c46401aa5859287e4bcb24141c848cc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d41/a08754.html">VehicleSeatAddon</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcd/a08758.html#a3c46401aa5859287e4bcb24141c848cc">SeatAddon</a></td></tr>
+<tr class="separator:a3c46401aa5859287e4bcb24141c848cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac334f2f573bf52f164d570f8b83fc197"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/ddf/a08750.html">PassengerInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcd/a08758.html#ac334f2f573bf52f164d570f8b83fc197">Passenger</a></td></tr>
+<tr class="separator:ac334f2f573bf52f164d570f8b83fc197"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad72640a18d2d32a9201c965089ee49cf" name="ad72640a18d2d32a9201c965089ee49cf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad72640a18d2d32a9201c965089ee49cf">&#9670;&#160;</a></span>GameEventAIHookWorker()</h2>
+<a id="ad2d19e3fc73c06cd7c8e339bd2b45a0c" name="ad2d19e3fc73c06cd7c8e339bd2b45a0c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad2d19e3fc73c06cd7c8e339bd2b45a0c">&#9670;&#160;</a></span>VehicleSeat()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -143,16 +142,16 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">GameEventAIHookWorker::GameEventAIHookWorker </td>
+          <td class="memname">VehicleSeat::VehicleSeat </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d56/a04553.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"><em>eventId</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d6/d37/a28286.html">VehicleSeatEntry</a> const *&#160;</td>
+          <td class="paramname"><em>seatInfo</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>activate</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d1/d41/a08754.html">VehicleSeatAddon</a> const *&#160;</td>
+          <td class="paramname"><em>seatAddon</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -162,19 +161,26 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1803</span>: <a class="code hl_variable" href="../../dd/dcd/a08758.html#ab1ee68bb7134e84780772eba2cfac766">_eventId</a>(eventId), <a class="code hl_variable" href="../../dd/dcd/a08758.html#a756665eafa08f3c8c51ccef69bdd619f">_activate</a>(activate) { }</div>
-<div class="ttc" id="aa08758_html_a756665eafa08f3c8c51ccef69bdd619f"><div class="ttname"><a href="../../dd/dcd/a08758.html#a756665eafa08f3c8c51ccef69bdd619f">GameEventAIHookWorker::_activate</a></div><div class="ttdeci">bool _activate</div><div class="ttdef"><b>Definition:</b> GameEventMgr.cpp:1824</div></div>
-<div class="ttc" id="aa08758_html_ab1ee68bb7134e84780772eba2cfac766"><div class="ttname"><a href="../../dd/dcd/a08758.html#ab1ee68bb7134e84780772eba2cfac766">GameEventAIHookWorker::_eventId</a></div><div class="ttdeci">uint16 _eventId</div><div class="ttdef"><b>Definition:</b> GameEventMgr.cpp:1823</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  102</span>                                                                                              : <a class="code hl_variable" href="../../dd/dcd/a08758.html#add0cf92d445f6ea0cf910b0bc0d80b62">SeatInfo</a>(seatInfo), <a class="code hl_variable" href="../../dd/dcd/a08758.html#a3c46401aa5859287e4bcb24141c848cc">SeatAddon</a>(seatAddon)</div>
+<div class="line"><span class="lineno">  103</span>    {</div>
+<div class="line"><span class="lineno">  104</span>        <a class="code hl_variable" href="../../dd/dcd/a08758.html#ac334f2f573bf52f164d570f8b83fc197">Passenger</a>.<a class="code hl_function" href="../../da/ddf/a08750.html#acccf504073283011dc32b05a5a87b85a">Reset</a>();</div>
+<div class="line"><span class="lineno">  105</span>    }</div>
+<div class="ttc" id="aa08750_html_acccf504073283011dc32b05a5a87b85a"><div class="ttname"><a href="../../da/ddf/a08750.html#acccf504073283011dc32b05a5a87b85a">PassengerInfo::Reset</a></div><div class="ttdeci">void Reset()</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:78</div></div>
+<div class="ttc" id="aa08758_html_a3c46401aa5859287e4bcb24141c848cc"><div class="ttname"><a href="../../dd/dcd/a08758.html#a3c46401aa5859287e4bcb24141c848cc">VehicleSeat::SeatAddon</a></div><div class="ttdeci">VehicleSeatAddon const  * SeatAddon</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:110</div></div>
+<div class="ttc" id="aa08758_html_ac334f2f573bf52f164d570f8b83fc197"><div class="ttname"><a href="../../dd/dcd/a08758.html#ac334f2f573bf52f164d570f8b83fc197">VehicleSeat::Passenger</a></div><div class="ttdeci">PassengerInfo Passenger</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:111</div></div>
+<div class="ttc" id="aa08758_html_add0cf92d445f6ea0cf910b0bc0d80b62"><div class="ttname"><a href="../../dd/dcd/a08758.html#add0cf92d445f6ea0cf910b0bc0d80b62">VehicleSeat::SeatInfo</a></div><div class="ttdeci">VehicleSeatEntry const  * SeatInfo</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:109</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00111">Passenger</a>, and <a class="el" href="../../#l00078">PassengerInfo::Reset()</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a23d979ee43838e7d58e9123e36474a5a" name="a23d979ee43838e7d58e9123e36474a5a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a23d979ee43838e7d58e9123e36474a5a">&#9670;&#160;</a></span>Visit() <span class="overload">[1/3]</span></h2>
+<a id="a9f68076857cb85ee7679f04043acdedc" name="a9f68076857cb85ee7679f04043acdedc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9f68076857cb85ee7679f04043acdedc">&#9670;&#160;</a></span>IsEmpty()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -183,79 +189,10 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void GameEventAIHookWorker::Visit </td>
+          <td class="memname">bool VehicleSeat::IsEmpty </td>
           <td>(</td>
-          <td class="paramtype">std::unordered_map&lt; <a class="el" href="../../db/de7/a08366.html">ObjectGuid</a>, <a class="el" href="../../dd/db3/a07946.html">Creature</a> * &gt; &amp;&#160;</td>
-          <td class="paramname"><em>creatureMap</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1806</span>    {</div>
-<div class="line"><span class="lineno"> 1807</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; p : creatureMap)</div>
-<div class="line"><span class="lineno"> 1808</span>            <span class="keywordflow">if</span> (p.second-&gt;IsInWorld() &amp;&amp; !p.second-&gt;IsDuringRemoveFromWorld() &amp;&amp; p.second-&gt;FindMap() &amp;&amp; p.second-&gt;IsAIEnabled &amp;&amp; p.second-&gt;AI())</div>
-<div class="line"><span class="lineno"> 1809</span>                p.second-&gt;AI()-&gt;sOnGameEvent(<a class="code hl_variable" href="../../dd/dcd/a08758.html#a756665eafa08f3c8c51ccef69bdd619f">_activate</a>, <a class="code hl_variable" href="../../dd/dcd/a08758.html#ab1ee68bb7134e84780772eba2cfac766">_eventId</a>);</div>
-<div class="line"><span class="lineno"> 1810</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01824">_activate</a>, and <a class="el" href="../../#l01823">_eventId</a>.</p>
-
-</div>
-</div>
-<a id="a79106ec550d072d690bbf3496d76cb0a" name="a79106ec550d072d690bbf3496d76cb0a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a79106ec550d072d690bbf3496d76cb0a">&#9670;&#160;</a></span>Visit() <span class="overload">[2/3]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void GameEventAIHookWorker::Visit </td>
-          <td>(</td>
-          <td class="paramtype">std::unordered_map&lt; <a class="el" href="../../db/de7/a08366.html">ObjectGuid</a>, <a class="el" href="../../d8/dc8/a08122.html">GameObject</a> * &gt; &amp;&#160;</td>
-          <td class="paramname"><em>gameObjectMap</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1813</span>    {</div>
-<div class="line"><span class="lineno"> 1814</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; p : gameObjectMap)</div>
-<div class="line"><span class="lineno"> 1815</span>            <span class="keywordflow">if</span> (p.second-&gt;IsInWorld() &amp;&amp; p.second-&gt;FindMap() &amp;&amp; p.second-&gt;AI())</div>
-<div class="line"><span class="lineno"> 1816</span>                p.second-&gt;AI()-&gt;OnGameEvent(<a class="code hl_variable" href="../../dd/dcd/a08758.html#a756665eafa08f3c8c51ccef69bdd619f">_activate</a>, <a class="code hl_variable" href="../../dd/dcd/a08758.html#ab1ee68bb7134e84780772eba2cfac766">_eventId</a>);</div>
-<div class="line"><span class="lineno"> 1817</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01824">_activate</a>, and <a class="el" href="../../#l01823">_eventId</a>.</p>
-
-</div>
-</div>
-<a id="a165476edd8b252bbb90b8b78fae963a6" name="a165476edd8b252bbb90b8b78fae963a6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a165476edd8b252bbb90b8b78fae963a6">&#9670;&#160;</a></span>Visit() <span class="overload">[3/3]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void GameEventAIHookWorker::Visit </td>
-          <td>(</td>
-          <td class="paramtype">std::unordered_map&lt; <a class="el" href="../../db/de7/a08366.html">ObjectGuid</a>, T * &gt; &amp;&#160;</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -264,56 +201,55 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1820</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  107</span>{ <span class="keywordflow">return</span> !<a class="code hl_variable" href="../../dd/dcd/a08758.html#ac334f2f573bf52f164d570f8b83fc197">Passenger</a>.<a class="code hl_variable" href="../../da/ddf/a08750.html#a738a014abc8cb5df525642acc218576b">Guid</a>; }</div>
+<div class="ttc" id="aa08750_html_a738a014abc8cb5df525642acc218576b"><div class="ttname"><a href="../../da/ddf/a08750.html#a738a014abc8cb5df525642acc218576b">PassengerInfo::Guid</a></div><div class="ttdeci">ObjectGuid Guid</div><div class="ttdef"><b>Definition:</b> VehicleDefines.h:75</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00075">PassengerInfo::Guid</a>, and <a class="el" href="../../#l00111">Passenger</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a756665eafa08f3c8c51ccef69bdd619f" name="a756665eafa08f3c8c51ccef69bdd619f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a756665eafa08f3c8c51ccef69bdd619f">&#9670;&#160;</a></span>_activate</h2>
+<a id="ac334f2f573bf52f164d570f8b83fc197" name="ac334f2f573bf52f164d570f8b83fc197"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac334f2f573bf52f164d570f8b83fc197">&#9670;&#160;</a></span>Passenger</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool GameEventAIHookWorker::_activate</td>
+          <td class="memname"><a class="el" href="../../da/ddf/a08750.html">PassengerInfo</a> VehicleSeat::Passenger</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01805">Visit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00107">IsEmpty()</a>, and <a class="el" href="../../#l00102">VehicleSeat()</a>.</p>
 
 </div>
 </div>
-<a id="ab1ee68bb7134e84780772eba2cfac766" name="ab1ee68bb7134e84780772eba2cfac766"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab1ee68bb7134e84780772eba2cfac766">&#9670;&#160;</a></span>_eventId</h2>
+<a id="a3c46401aa5859287e4bcb24141c848cc" name="a3c46401aa5859287e4bcb24141c848cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c46401aa5859287e4bcb24141c848cc">&#9670;&#160;</a></span>SeatAddon</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/d56/a04553.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> GameEventAIHookWorker::_eventId</td>
+          <td class="memname"><a class="el" href="../../d1/d41/a08754.html">VehicleSeatAddon</a> const* VehicleSeat::SeatAddon</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01805">Visit()</a>.</p>
+</div>
+</div>
+<a id="add0cf92d445f6ea0cf910b0bc0d80b62" name="add0cf92d445f6ea0cf910b0bc0d80b62"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#add0cf92d445f6ea0cf910b0bc0d80b62">&#9670;&#160;</a></span>SeatInfo</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d37/a28286.html">VehicleSeatEntry</a> const* VehicleSeat::SeatInfo</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -322,8 +258,8 @@ template&lt;class T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/dcd/a08758.html">GameEventAIHookWorker</a></li>
-    <li class="footer">Generated on Mon Feb 17 2025 20:42:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/dcd/a08758.html">VehicleSeat</a></li>
+    <li class="footer">Generated on Mon Mar 10 2025 20:45:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

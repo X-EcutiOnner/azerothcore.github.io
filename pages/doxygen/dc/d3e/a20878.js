@@ -1,6 +1,6 @@
 var a20878 =
 [
-    [ "HandleEffectPeriodic", "dc/d3e/a20878.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
-    [ "PrepareAuraScript", "dc/d3e/a20878.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
-    [ "Register", "dc/d3e/a20878.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "dc/d3e/a20878.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "dc/d3e/a20878.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "dc/d3e/a20878.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

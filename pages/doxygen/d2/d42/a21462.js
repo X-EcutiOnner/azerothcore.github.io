@@ -1,5 +1,6 @@
 var a21462 =
 [
-    [ "npc_leryssaAI", "d2/d42/a21462.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
-    [ "MovementInform", "d2/d42/a21462.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
+    [ "npc_warmage_coldarraAI", "d1/d18/a21466.html", "d1/d18/a21466" ],
+    [ "npc_warmage_coldarra", "d2/d42/a21462.html#a358f8ab26991798ff076ac764cd7abe2", null ],
+    [ "GetAI", "d2/d42/a21462.html#aa29181e0ad61b44eff685267f3231382", null ]
 ];

@@ -1,8 +1,8 @@
 var a23194 =
 [
-    [ "boss_mekgineer_steamrigger", "da/db1/a23194.html#a930dcbade7135d0c689bcc0718815547", null ],
-    [ "JustDied", "da/db1/a23194.html#a79272c233bc0256cca62700fc7a01421", null ],
-    [ "JustEngagedWith", "da/db1/a23194.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
-    [ "JustSummoned", "da/db1/a23194.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
-    [ "KilledUnit", "da/db1/a23194.html#a84374438458cb7e034f91d4b65cd22f1", null ]
+    [ "FilterTargets", "da/db1/a23194.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
+    [ "HandleDummy", "da/db1/a23194.html#addb3580259be74126b7de36d1b0a8a97", null ],
+    [ "PrepareSpellScript", "da/db1/a23194.html#aba82de0886d03037de4564f9908b8c89", null ],
+    [ "Register", "da/db1/a23194.html#a1650962493d48f5553a9e2771e594f1f", null ],
+    [ "Validate", "da/db1/a23194.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
 ];

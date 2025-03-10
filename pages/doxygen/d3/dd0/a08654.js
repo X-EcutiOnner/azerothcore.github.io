@@ -1,11 +1,9 @@
 var a08654 =
 [
-    [ "DispelInfo", "d3/dd0/a08654.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
-    [ "GetDispeller", "d3/dd0/a08654.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
-    [ "GetDispellerSpellId", "d3/dd0/a08654.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
-    [ "GetRemovedCharges", "d3/dd0/a08654.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
-    [ "SetRemovedCharges", "d3/dd0/a08654.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
-    [ "_chargesRemoved", "d3/dd0/a08654.html#a5b6105f37470acb57bbda3e14ee664be", null ],
-    [ "_dispellerSpell", "d3/dd0/a08654.html#a484e6d516c5de30413e97f2c4abb5515", null ],
-    [ "_dispellerUnit", "d3/dd0/a08654.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
+    [ "ProcTriggeredData", "d3/dd0/a08654.html#a37c5cbfd0b916b950a0e638223394de4", null ],
+    [ "operator==", "d3/dd0/a08654.html#a787760cbd8a6ee5192975bc514886159", null ],
+    [ "aura", "d3/dd0/a08654.html#a5138144d49900690bb15a5f66b763eac", null ],
+    [ "effMask", "d3/dd0/a08654.html#a1c2bfb3e0016ba823e12b3defe373790", null ],
+    [ "spellProcEvent", "d3/dd0/a08654.html#ac6e491a7ef478d271d3c74d7b9df577e", null ],
+    [ "triggerSpelId", "d3/dd0/a08654.html#abfd99a1e3beb871a3cbf83d7578ec98a", null ]
 ];

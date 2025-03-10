@@ -1,7 +1,8 @@
 var a26522 =
 [
-    [ "HandleDummy", "dc/daf/a26522.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
-    [ "PrepareSpellScript", "dc/daf/a26522.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
-    [ "Register", "dc/daf/a26522.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
-    [ "Validate", "dc/daf/a26522.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
+    [ "FilterTargets", "dc/daf/a26522.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
+    [ "HandleDummy", "dc/daf/a26522.html#a2214b10da042a3af2fd3311872cc5286", null ],
+    [ "PrepareSpellScript", "dc/daf/a26522.html#a9959966856601f79a83931a7a7ecff91", null ],
+    [ "Register", "dc/daf/a26522.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
+    [ "Validate", "dc/daf/a26522.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
 ];

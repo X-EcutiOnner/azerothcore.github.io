@@ -1,14 +1,7 @@
 var a23526 =
 [
-    [ "npc_warden_mellicharAI", "df/d41/a23526.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
-    [ "AttackStart", "df/d41/a23526.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
-    [ "DamageTaken", "df/d41/a23526.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
-    [ "JustDied", "df/d41/a23526.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
-    [ "JustEngagedWith", "df/d41/a23526.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
-    [ "JustSummoned", "df/d41/a23526.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
-    [ "MoveInLineOfSight", "df/d41/a23526.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
-    [ "Reset", "df/d41/a23526.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
-    [ "SetData", "df/d41/a23526.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
-    [ "SummonedCreatureDies", "df/d41/a23526.html#a58e1011986be65725d4db3d782bc72ac", null ],
-    [ "UpdateAI", "df/d41/a23526.html#a944cff5367213d561a7e6df5faf2a216", null ]
+    [ "FilterTargets", "df/d41/a23526.html#a834163302ff10875227806d7d4945988", null ],
+    [ "HandleScriptEffect", "df/d41/a23526.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
+    [ "PrepareSpellScript", "df/d41/a23526.html#a079e72d57550e03956088b4be1d11422", null ],
+    [ "Register", "df/d41/a23526.html#abd4e0f268652652d3828ba8d350de849", null ]
 ];

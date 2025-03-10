@@ -1,7 +1,16 @@
 var a13986 =
 [
-    [ "FilterTargets", "de/d11/a13986.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
-    [ "HandleEffect", "de/d11/a13986.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
-    [ "PrepareSpellScript", "de/d11/a13986.html#a08127992c96fb02e87e9ade65a5375d5", null ],
-    [ "Register", "de/d11/a13986.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
+    [ "boss_renatakiAI", "de/d11/a13986.html#ac154bfadeb99d67f59e1682de257e8bf", null ],
+    [ "CanAIAttack", "de/d11/a13986.html#af20dc14dc56500e568a3a11bfb34a227", null ],
+    [ "CanAlwaysBeDetectable", "de/d11/a13986.html#af75108eacb982586f43a175beede78ef", null ],
+    [ "CanBeSeen", "de/d11/a13986.html#ac79db0d4488702be0cd12b5e03a9bcb9", null ],
+    [ "CanSeeAlways", "de/d11/a13986.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d", null ],
+    [ "DamageTaken", "de/d11/a13986.html#a62d97adb310b55a2235737b854dc4aca", null ],
+    [ "JustEngagedWith", "de/d11/a13986.html#a72e9a85d2215d3da197d50b6aa0b769e", null ],
+    [ "Reset", "de/d11/a13986.html#ad50d8e24fb4168186497c5cdb5b39a68", null ],
+    [ "UpdateAI", "de/d11/a13986.html#a3a1abaef460d9abe1298080080d74c9d", null ],
+    [ "_dynamicFlags", "de/d11/a13986.html#a502bfa737cf97ae909144278a3e39bd0", null ],
+    [ "_enraged", "de/d11/a13986.html#a71e717a2ea732729762aff7970439f74", null ],
+    [ "_thousandBladesCount", "de/d11/a13986.html#a29dd57c66245f30d12f32d31cc25cd55", null ],
+    [ "_thousandBladesTargets", "de/d11/a13986.html#ab8b2b52a2ef8ea6586381234c9a3e3fc", null ]
 ];

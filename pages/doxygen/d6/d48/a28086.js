@@ -1,5 +1,9 @@
 var a28086 =
 [
-    [ "Id", "d6/d48/a28086.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
-    [ "PowerType", "d6/d48/a28086.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
+    [ "itemId", "d6/d48/a28086.html#ae125712e5569c9699b4748b6a15fbc12", null ],
+    [ "items_to_triggerspell", "d6/d48/a28086.html#a8496a2f3fa3e230def04b996fc585760", null ],
+    [ "name", "d6/d48/a28086.html#a9b62f843833d524f200782d44151503d", null ],
+    [ "required_skill_id", "d6/d48/a28086.html#ab3058ac725fb8f105b9359d5a5147942", null ],
+    [ "required_skill_value", "d6/d48/a28086.html#a58d0997a73cf48061545edbc0201f544", null ],
+    [ "spells", "d6/d48/a28086.html#a8aac032992efe1bfbba0e49693562c7f", null ]
 ];

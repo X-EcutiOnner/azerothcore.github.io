@@ -1,7 +1,9 @@
 var a24126 =
 [
-    [ "HandleEffectRemove", "d2/d5c/a24126.html#a317c238b165ad331beb447ea5d0de7e1", null ],
-    [ "PrepareAuraScript", "d2/d5c/a24126.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
-    [ "Register", "d2/d5c/a24126.html#a13fdde1557249328306a57e159d821a7", null ],
-    [ "Validate", "d2/d5c/a24126.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
+    [ "npc_korkron_or_wildhammer", "d2/d5c/a24126.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
+    [ "IsSummonedBy", "d2/d5c/a24126.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
+    [ "JustDied", "d2/d5c/a24126.html#a2b216f372b3681b4c96a711568c2a93b", null ],
+    [ "MovementInform", "d2/d5c/a24126.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
+    [ "Reset", "d2/d5c/a24126.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
+    [ "_playerGUID", "d2/d5c/a24126.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
 ];

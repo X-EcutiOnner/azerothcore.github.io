@@ -1,7 +1,10 @@
 var a13358 =
 [
-    [ "HandleScriptEffect", "db/d2a/a13358.html#aa537704c2066df4f5b4c60a775026a83", null ],
-    [ "PrepareSpellScript", "db/d2a/a13358.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
-    [ "Register", "db/d2a/a13358.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
-    [ "Validate", "db/d2a/a13358.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
+    [ "npc_sunblade_scout", "db/d2a/a13358.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
+    [ "JustEngagedWith", "db/d2a/a13358.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
+    [ "Reset", "db/d2a/a13358.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
+    [ "ScheduleCombat", "db/d2a/a13358.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
+    [ "ScheduleOOC", "db/d2a/a13358.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
+    [ "UpdateAI", "db/d2a/a13358.html#aca75482085b72070487c24feefa23fd6", null ],
+    [ "_protectorGUID", "db/d2a/a13358.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
 ];

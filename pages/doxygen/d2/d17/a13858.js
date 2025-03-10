@@ -1,7 +1,5 @@
 var a13858 =
 [
-    [ "HandleScriptEffect", "d2/d17/a13858.html#ace68732d578fbaeb2b209bfded88853a", null ],
-    [ "PrepareSpellScript", "d2/d17/a13858.html#a42a69995e8f527a383e96e2ead832f72", null ],
-    [ "Register", "d2/d17/a13858.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
-    [ "Validate", "d2/d17/a13858.html#a7697caf8e5390d290b353fb6a291aa10", null ]
+    [ "at_zulgurub_temple_speech", "d2/d17/a13858.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
+    [ "_OnTrigger", "d2/d17/a13858.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
 ];

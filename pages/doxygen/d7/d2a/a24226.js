@@ -1,16 +1,18 @@
 var a24226 =
 [
-    [ "npc_pet_gen_argent_pony_bridle", "d7/d2a/a24226.html#a9df25627a92b8914ab8009be099f15d4", null ],
-    [ "DoAction", "d7/d2a/a24226.html#a4c08ed385886a118c165925602b1dff7", null ],
-    [ "EnterEvadeMode", "d7/d2a/a24226.html#a897e72a4bf279607903bce58a5a45c6f", null ],
-    [ "GetData", "d7/d2a/a24226.html#a862546ec66d8282c87169305711e4ec7", null ],
-    [ "OnGossipHello", "d7/d2a/a24226.html#a35cfcfd3418295bcb1140d1b8b8266ab", null ],
-    [ "OnGossipSelect", "d7/d2a/a24226.html#a36f15c2c0ec3466b492148303e828403", null ],
-    [ "Reset", "d7/d2a/a24226.html#a4d885f00ea1b6b97270d41f2583bd0dc", null ],
-    [ "UpdateAI", "d7/d2a/a24226.html#a1172dbd471ee8f05f25ff77dc222a61d", null ],
-    [ "_banners", "d7/d2a/a24226.html#aeda5ce6c8f4f37ce7a4630c06586cde1", null ],
-    [ "_init", "d7/d2a/a24226.html#a8a7dd73d9d3af5ca00998735e45ee7e8", null ],
-    [ "_lastAura", "d7/d2a/a24226.html#a4abeb86eb0179a77d47d737d67495411", null ],
-    [ "_mountTimer", "d7/d2a/a24226.html#a38253b6d1e1f7fb8fc3fdccb2522a090", null ],
-    [ "_state", "d7/d2a/a24226.html#ae57f97ca9a08353e8ec8ebfadbd51541", null ]
+    [ "npc_pet_dk_ebon_gargoyleAI", "d7/d2a/a24226.html#a5181a22e0e3b242112095552b6a9a0ab", null ],
+    [ "AttackStart", "d7/d2a/a24226.html#a46a5511e57af5f9e5128f922c691fc4f", null ],
+    [ "FlyAway", "d7/d2a/a24226.html#a9af7240d389affb09dc8656417d902fa", null ],
+    [ "InitializeAI", "d7/d2a/a24226.html#a63e7284a03c4ad3ba2242f5cc61ab33f", null ],
+    [ "MovementInform", "d7/d2a/a24226.html#a82b40fd7eeccef8c52cf31dd8d20da9a", null ],
+    [ "MySelectNextTarget", "d7/d2a/a24226.html#a67471ffe36c1535f1034a7037f9ae607", null ],
+    [ "RemoveTargetAura", "d7/d2a/a24226.html#a2fb3b35fadc56c1bdab31b21785f9b75", null ],
+    [ "Reset", "d7/d2a/a24226.html#a0a47ddb3568b8683a109489bdf5a018e", null ],
+    [ "UpdateAI", "d7/d2a/a24226.html#ae37e2b9453449eb1e8c629af49b48e82", null ],
+    [ "_despawning", "d7/d2a/a24226.html#afd200dfb3b8ceb05ff70c5413cd8a961", null ],
+    [ "_despawnTimer", "d7/d2a/a24226.html#ab53127c5db2ccb85d260bdf29a6f714b", null ],
+    [ "_initialCastTimer", "d7/d2a/a24226.html#a921dcc19257c708a2f84f515ae5df113", null ],
+    [ "_initialSelection", "d7/d2a/a24226.html#aac259fa5c5ca81b8be77cd0c33f58e1f", null ],
+    [ "_selectionTimer", "d7/d2a/a24226.html#a3fb591687748bacef72990ecac0ea246", null ],
+    [ "_targetGUID", "d7/d2a/a24226.html#af1f5d442840812b4d73f9411226e6925", null ]
 ];

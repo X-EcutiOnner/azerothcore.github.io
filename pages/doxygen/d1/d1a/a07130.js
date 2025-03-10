@@ -1,9 +1,11 @@
 var a07130 =
 [
-    [ "entryAlliance", "d1/d1a/a07130.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
-    [ "entryHorde", "d1/d1a/a07130.html#a374fff4b069e89489395246f378b4900", null ],
-    [ "o", "d1/d1a/a07130.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
-    [ "x", "d1/d1a/a07130.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
-    [ "y", "d1/d1a/a07130.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
-    [ "z", "d1/d1a/a07130.html#adebb903a00687e17d9088f5da2c97f4a", null ]
+    [ "gyid", "d1/d1a/a07130.html#a742fcc91d2daf1a9331f02a90496328c", null ],
+    [ "o", "d1/d1a/a07130.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
+    [ "startcontrol", "d1/d1a/a07130.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
+    [ "textid", "d1/d1a/a07130.html#a87d80377ad632b9d667eecf11ae8faae", null ],
+    [ "type", "d1/d1a/a07130.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
+    [ "x", "d1/d1a/a07130.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
+    [ "y", "d1/d1a/a07130.html#a405e8098772e77250683985f957ce5f3", null ],
+    [ "z", "d1/d1a/a07130.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
 ];

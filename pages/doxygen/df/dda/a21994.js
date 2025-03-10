@@ -1,6 +1,5 @@
 var a21994 =
 [
-    [ "npc_mcmanus", "df/dda/a21994.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "df/dda/a21994.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "df/dda/a21994.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "npc_guardian_pavilionAI", "df/dda/a21994.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "df/dda/a21994.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

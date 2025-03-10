@@ -1,10 +1,7 @@
 var a23198 =
 [
-    [ "boss_warlord_kalithresh", "d1/d36/a23198.html#afcf2288fbea2d5010c41344ce0247559", null ],
-    [ "JustDied", "d1/d36/a23198.html#a1947562aa9dafea371e2f2da824a3f65", null ],
-    [ "JustEngagedWith", "d1/d36/a23198.html#a2712f5c363c3929550b77ef2536b1385", null ],
-    [ "KilledUnit", "d1/d36/a23198.html#a06855288497f5335a236867ef681d3f8", null ],
-    [ "MoveInLineOfSight", "d1/d36/a23198.html#a544da19b6c3a6f159ed6b1639def1071", null ],
-    [ "Reset", "d1/d36/a23198.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
-    [ "_introDone", "d1/d36/a23198.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
+    [ "HandleScriptEffect", "d1/d36/a23198.html#ad5e905710a20436f120c979c865571c9", null ],
+    [ "PrepareSpellScript", "d1/d36/a23198.html#ab44aa98f47162b50f30622d67ac75395", null ],
+    [ "Register", "d1/d36/a23198.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
+    [ "Validate", "d1/d36/a23198.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
 ];

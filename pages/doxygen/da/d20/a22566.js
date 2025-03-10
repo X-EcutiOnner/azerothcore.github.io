@@ -1,8 +1,7 @@
 var a22566 =
 [
-    [ "npc_parasitic_shadowfiend", "da/d20/a22566.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
-    [ "CanAIAttack", "da/d20/a22566.html#ac7600aed313f1413cb9b522d60d30329", null ],
-    [ "EnterEvadeMode", "da/d20/a22566.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
-    [ "IsSummonedBy", "da/d20/a22566.html#a306c696d4243c4525d0a3908a212135d", null ],
-    [ "UpdateAI", "da/d20/a22566.html#a2706a4ba7876f299b02d2e720f512af2", null ]
+    [ "HandleOnHit", "da/d20/a22566.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
+    [ "PrepareSpellScript", "da/d20/a22566.html#a734b735c7e87938bff185be91f9de6e8", null ],
+    [ "Register", "da/d20/a22566.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
+    [ "Validate", "da/d20/a22566.html#a162f60784fdec6b748151e5c2a7ed257", null ]
 ];

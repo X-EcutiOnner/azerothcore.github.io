@@ -1,5 +1,6 @@
 var a21862 =
 [
-    [ "npc_black_knight_graveyardAI", "de/d26/a21862.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
-    [ "MoveInLineOfSight", "de/d26/a21862.html#aa5c80b5759656e3865d6721161f9f005", null ]
+    [ "HandleOnEffectRemove", "de/d26/a21862.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "de/d26/a21862.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "de/d26/a21862.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

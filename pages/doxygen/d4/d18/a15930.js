@@ -1,6 +1,11 @@
 var a15930 =
 [
-    [ "npc_orb_carrierAI", "dc/d0b/a15934.html", "dc/d0b/a15934" ],
-    [ "npc_orb_carrier", "d4/d18/a15930.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
-    [ "GetAI", "d4/d18/a15930.html#ab5b7bbffc43b840c686dc889805ea401", null ]
+    [ "boss_general_zarithrianAI", "d4/d18/a15930.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d4/d18/a15930.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "d4/d18/a15930.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "d4/d18/a15930.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "d4/d18/a15930.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "d4/d18/a15930.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "d4/d18/a15930.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "d4/d18/a15930.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

@@ -1,6 +1,6 @@
 var a19566 =
 [
-    [ "PrepareSpellScript", "d6/df4/a19566.html#af7426e99a49f8618fc38242ded7132f1", null ],
-    [ "RecalculateDamage", "d6/df4/a19566.html#a94e70b20f2139f668227dccb623c1af6", null ],
-    [ "Register", "d6/df4/a19566.html#acd911f78780e052d88f5f47574092d62", null ]
+    [ "npc_collapsing_starAI", "d6/df4/a19566.html#ac389b380a8f315ae50a8cd809393a773", null ],
+    [ "DamageTaken", "d6/df4/a19566.html#a424fac98093eb9d02cda5027523ad06a", null ],
+    [ "JustSummoned", "d6/df4/a19566.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
 ];

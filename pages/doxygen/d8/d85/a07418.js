@@ -1,13 +1,14 @@
 var a07418 =
 [
-    [ "WhoListCacheMgr", "d8/d85/a07418.html#a2190c113c3d38bd316b17a4400c113e6", null ],
-    [ "~WhoListCacheMgr", "d8/d85/a07418.html#ae32706d7786014e142dc1cb9ccd29d70", null ],
-    [ "WhoListCacheMgr", "d8/d85/a07418.html#a366e452317179d647042c24c56faafa1", null ],
-    [ "WhoListCacheMgr", "d8/d85/a07418.html#ae0358ae9260f929410f6518f89135161", null ],
-    [ "GetWhoList", "d8/d85/a07418.html#a4dec6544342fdc5052b69dcc61148453", null ],
-    [ "instance", "d8/d85/a07418.html#a1e8ce970e3213cd0361af303df98b387", null ],
-    [ "operator=", "d8/d85/a07418.html#a80615aa0a66ac29765f27598e605c712", null ],
-    [ "operator=", "d8/d85/a07418.html#ab8aff37f9e66aef40ccb794928bc001c", null ],
-    [ "Update", "d8/d85/a07418.html#a3db2ef832cf1413fb2e565ca0d922a80", null ],
-    [ "_whoListStorage", "d8/d85/a07418.html#a75495cb910c6de65d60a5080248e1e25", null ]
+    [ "AccountId", "d8/d85/a07418.html#ae1921d1e949cec70ebbd52779b775df6", null ],
+    [ "ArenaTeamId", "d8/d85/a07418.html#a1d094e514af9970b0239cc8e27da06bc", null ],
+    [ "Class", "d8/d85/a07418.html#a19dbbbdce9dbf9993d57edbebeeaf425", null ],
+    [ "GroupGuid", "d8/d85/a07418.html#a4b6f5540de2e47959a053696698e8e05", null ],
+    [ "Guid", "d8/d85/a07418.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532", null ],
+    [ "GuildId", "d8/d85/a07418.html#a4fba749bb66642a1601c5cb37c756222", null ],
+    [ "Level", "d8/d85/a07418.html#a41ea77c9e690336b709259bfccbd939f", null ],
+    [ "MailCount", "d8/d85/a07418.html#a8a74e276dec82ac3f2950b8637ed9213", null ],
+    [ "Name", "d8/d85/a07418.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b", null ],
+    [ "Race", "d8/d85/a07418.html#aa57c5abbbd7218d26e4156b310229766", null ],
+    [ "Sex", "d8/d85/a07418.html#a91c17eef26be0a18823a9834853c296a", null ]
 ];

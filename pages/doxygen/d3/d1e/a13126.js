@@ -1,12 +1,7 @@
 var a13126 =
 [
-    [ "boss_sacrolash", "d3/d1e/a13126.html#a6e251340b2ba8a8300611cf229b93095", null ],
-    [ "DoAction", "d3/d1e/a13126.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
-    [ "EnterEvadeMode", "d3/d1e/a13126.html#a84d7f8764eb5b6816cdd095158a434b1", null ],
-    [ "JustDied", "d3/d1e/a13126.html#a17c995220572cf803c36470ca80840e2", null ],
-    [ "JustEngagedWith", "d3/d1e/a13126.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
-    [ "JustSummoned", "d3/d1e/a13126.html#a94214bc45414f61ff53102d6136b7b5c", null ],
-    [ "KilledUnit", "d3/d1e/a13126.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
-    [ "Reset", "d3/d1e/a13126.html#aa3128dae87d181e7ab93cf3a13723982", null ],
-    [ "_isSisterDead", "d3/d1e/a13126.html#a248d37df91c82069321fc5ea8b1e885d", null ]
+    [ "OnRemove", "d3/d1e/a13126.html#a55460c6393c165e3096c967c81136032", null ],
+    [ "PrepareAuraScript", "d3/d1e/a13126.html#afd4e4483f704169e6d213ced134d4c62", null ],
+    [ "Register", "d3/d1e/a13126.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
+    [ "Validate", "d3/d1e/a13126.html#af580258d287f5db6103b89d3085669bc", null ]
 ];

@@ -1,6 +1,10 @@
 var a15574 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "d8/d99/a15578.html", "d8/d99/a15578" ],
-    [ "instance_zulfarrak", "db/da1/a15574.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "db/da1/a15574.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "npc_ameAI", "db/da1/a15574.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
+    [ "JustDied", "db/da1/a15574.html#a9b77f94f112477509c3163945ceb8201", null ],
+    [ "JustSummoned", "db/da1/a15574.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
+    [ "Reset", "db/da1/a15574.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
+    [ "UpdateAI", "db/da1/a15574.html#a0a073e4c216985607aa51099044ff6c5", null ],
+    [ "WaypointReached", "db/da1/a15574.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
+    [ "DemoralizingShoutTimer", "db/da1/a15574.html#ab5d1786735adea4bce1bba8adf42a877", null ]
 ];

@@ -1,5 +1,6 @@
 var a27450 =
 [
-    [ "npc_pet_trainerAI", "d5/dd1/a27450.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "d5/dd1/a27450.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "npc_injured_patientAI", "d7/d17/a27454.html", "d7/d17/a27454" ],
+    [ "npc_injured_patient", "d5/dd1/a27450.html#a0b7ef214aa1b20df088dee0976c73783", null ],
+    [ "GetAI", "d5/dd1/a27450.html#a0c042bb81e684f903d28d7879af99d4a", null ]
 ];

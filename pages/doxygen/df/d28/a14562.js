@@ -1,10 +1,10 @@
 var a14562 =
 [
-    [ "boss_meathookAI", "df/d28/a14562.html#abb35c98da760db634545b81d740cd51a", null ],
-    [ "JustDied", "df/d28/a14562.html#a44ebee45de335ff6f653e9d60a364458", null ],
-    [ "JustEngagedWith", "df/d28/a14562.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
-    [ "KilledUnit", "df/d28/a14562.html#a54deac512294bb0901d072faef3166b1", null ],
-    [ "Reset", "df/d28/a14562.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
-    [ "UpdateAI", "df/d28/a14562.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
-    [ "events", "df/d28/a14562.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
+    [ "npc_hyjal_frost_wyrm", "df/d28/a14562.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "df/d28/a14562.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "df/d28/a14562.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "df/d28/a14562.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "df/d28/a14562.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "df/d28/a14562.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "df/d28/a14562.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

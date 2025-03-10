@@ -1,6 +1,6 @@
 var a20518 =
 [
-    [ "OnPeriodic", "d7/d12/a20518.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
-    [ "PrepareAuraScript", "d7/d12/a20518.html#a6aa46e818199da206e6543005a7fe87f", null ],
-    [ "Register", "d7/d12/a20518.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
+    [ "boss_thorim_start_npcsAI", "dc/dc5/a20522.html", "dc/dc5/a20522" ],
+    [ "boss_thorim_start_npcs", "d7/d12/a20518.html#a3aa11a487ae00b2e397fd25ed2e42702", null ],
+    [ "GetAI", "d7/d12/a20518.html#a6c529b19d071b4966ccc74b44279cb08", null ]
 ];

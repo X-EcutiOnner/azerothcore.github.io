@@ -1,6 +1,5 @@
 var a18602 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "dd/d71/a18606.html", "dd/d71/a18606" ],
-    [ "npc_icc_skybreaker_hierophant", "db/dfc/a18602.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "db/dfc/a18602.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "at_icc_shutdown_traps", "db/dfc/a18602.html#aa13f5d78d3032e8114e9978f42468f64", null ],
+    [ "OnTrigger", "db/dfc/a18602.html#abb31b3f6d0b159b625d731ac47127005", null ]
 ];

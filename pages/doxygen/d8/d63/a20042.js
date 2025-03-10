@@ -1,6 +1,6 @@
 var a20042 =
 [
-    [ "npc_ulduar_hodir_druidAI", "de/df6/a20046.html", "de/df6/a20046" ],
-    [ "npc_ulduar_hodir_druid", "d8/d63/a20042.html#a07809d61d55756a847467043b0e90989", null ],
-    [ "GetAI", "d8/d63/a20042.html#a4b0503e20bf8caddf0ea544a88124263", null ]
+    [ "id", "d8/d63/a20042.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "x", "d8/d63/a20042.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
+    [ "y", "d8/d63/a20042.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
 ];

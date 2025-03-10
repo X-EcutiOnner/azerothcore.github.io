@@ -1,11 +1,8 @@
 var a22498 =
 [
-    [ "boss_blackheart_the_inciter", "d0/d35/a22498.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "d0/d35/a22498.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "d0/d35/a22498.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "d0/d35/a22498.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "d0/d35/a22498.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "d0/d35/a22498.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "d0/d35/a22498.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "d0/d35/a22498.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "boss_pandemonius", "d0/d35/a22498.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "d0/d35/a22498.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "d0/d35/a22498.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "d0/d35/a22498.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "d0/d35/a22498.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

@@ -1,7 +1,8 @@
 var a19146 =
 [
-    [ "boss_commander_stoutbeard", "df/db6/a19146.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
-    [ "JustDied", "df/db6/a19146.html#a2fd835408045715058ba476aa56cb4f7", null ],
-    [ "JustEngagedWith", "df/db6/a19146.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
-    [ "KilledUnit", "df/db6/a19146.html#acf7016c65f020dca9228bd2d2fd89299", null ]
+    [ "npc_alexstraszaAI", "df/db6/a19146.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
+    [ "AttackStart", "df/db6/a19146.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
+    [ "MoveInLineOfSight", "df/db6/a19146.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
+    [ "UpdateAI", "df/db6/a19146.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
+    [ "events", "df/db6/a19146.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
 ];

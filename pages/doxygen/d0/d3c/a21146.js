@@ -1,6 +1,6 @@
 var a21146 =
 [
-    [ "npc_erekem_guardAI", "d6/d07/a21150.html", "d6/d07/a21150" ],
-    [ "npc_erekem_guard", "d0/d3c/a21146.html#a78592996e90f77f81eec0325a7f11956", null ],
-    [ "GetAI", "d0/d3c/a21146.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
+    [ "boss_toravonAI", "d6/d07/a21150.html", "d6/d07/a21150" ],
+    [ "boss_toravon", "d0/d3c/a21146.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
+    [ "GetAI", "d0/d3c/a21146.html#a6db140b1d232312300e20155830cb249", null ]
 ];

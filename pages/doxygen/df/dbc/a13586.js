@@ -1,6 +1,7 @@
 var a13586 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "db/da1/a13590.html", "db/da1/a13590" ],
-    [ "npc_lady_sylvanas_windrunner_bfu", "df/dbc/a13586.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
-    [ "GetAI", "df/dbc/a13586.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
+    [ "o", "df/dbc/a13586.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "df/dbc/a13586.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "df/dbc/a13586.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "df/dbc/a13586.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

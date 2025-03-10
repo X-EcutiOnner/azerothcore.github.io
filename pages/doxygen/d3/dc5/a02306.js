@@ -1,4 +1,4 @@
 var a02306 =
 [
-    [ "GroupRefMgr", "d8/d21/a09472.html", "d8/d21/a09472" ]
+    [ "CanRollOnItem", "d3/dc5/a02306.html#afbaf3417177da71d9f3c8be9eab09c2b", null ]
 ];

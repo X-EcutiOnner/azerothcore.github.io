@@ -1,14 +1,7 @@
 var a23778 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d2/d67/a23778.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
-    [ "Initialize", "d2/d67/a23778.html#a187340b00067f2f65a7e48845a6edaba", null ],
-    [ "JustSummoned", "d2/d67/a23778.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
-    [ "Reset", "d2/d67/a23778.html#a92a6cbe0515752440284d18bae0adf66", null ],
-    [ "SpellHit", "d2/d67/a23778.html#a517f7412208de83604d0d6806fbc0b34", null ],
-    [ "UpdateAI", "d2/d67/a23778.html#ab4fb75f1b84c2722f936387a6942028b", null ],
-    [ "CannonGUID", "d2/d67/a23778.html#a220e111467cfb6f02e996f012123e09b", null ],
-    [ "count", "d2/d67/a23778.html#ac78f94033239dcf247be9a48d0535081", null ],
-    [ "events", "d2/d67/a23778.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
-    [ "PartyTime", "d2/d67/a23778.html#a1780c656fb539be6dcd74e271cea4c53", null ],
-    [ "PlayerGUID", "d2/d67/a23778.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
+    [ "boss_gatewatcher_iron_hand", "d2/d67/a23778.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "d2/d67/a23778.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "d2/d67/a23778.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "d2/d67/a23778.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

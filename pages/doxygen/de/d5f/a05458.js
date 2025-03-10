@@ -1,7 +1,8 @@
 var a05458 =
 [
-    [ "EnumText", "de/d5f/a05458.html#a8eaf5ce52dcc9fd44476f9add1140e0d", null ],
-    [ "Constant", "de/d5f/a05458.html#a020a7ebf3b1ee476d5f7ee605f43525d", null ],
-    [ "Description", "de/d5f/a05458.html#ab08504e4ec70c5495f5a45856f2e6976", null ],
-    [ "Title", "de/d5f/a05458.html#a7326575ea4083e28ac62556526a092a4", null ]
+    [ "result_type", "de/d5f/a05458.html#a20f96383bade76c6185d8f20f458784e", null ],
+    [ "Instance", "de/d5f/a05458.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
+    [ "max", "de/d5f/a05458.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
+    [ "min", "de/d5f/a05458.html#ab153ffca65139db4084745302dd4db7f", null ],
+    [ "operator()", "de/d5f/a05458.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
 ];

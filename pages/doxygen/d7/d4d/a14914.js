@@ -1,6 +1,6 @@
 var a14914 =
 [
-    [ "FilterTargets", "d7/d4d/a14914.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
-    [ "PrepareSpellScript", "d7/d4d/a14914.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
-    [ "Register", "d7/d4d/a14914.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "da/d7c/a14918.html", "da/d7c/a14918" ],
+    [ "instance_ruins_of_ahnqiraj", "d7/d4d/a14914.html#adeacb1c68e4b12995a335d1bedde075a", null ],
+    [ "GetInstanceScript", "d7/d4d/a14914.html#a6a661e961c2599498de0ccd41c0763b4", null ]
 ];

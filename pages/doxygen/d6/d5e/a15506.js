@@ -1,7 +1,7 @@
 var a15506 =
 [
-    [ "npc_paoka_swiftmountainAI", "d6/d5e/a15506.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "d6/d5e/a15506.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "d6/d5e/a15506.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "d6/d5e/a15506.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
+    [ "npc_giltharesAI", "d6/d5e/a15506.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "d6/d5e/a15506.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "d6/d5e/a15506.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "d6/d5e/a15506.html#a9308c73760e50e0f3d04031b508526d1", null ]
 ];

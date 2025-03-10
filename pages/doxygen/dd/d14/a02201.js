@@ -1,13 +1,16 @@
 var a02201 =
 [
-    [ "FollowerAI", "d0/d2a/a06142.html", "d0/d2a/a06142" ],
-    [ "eFollowState", "dd/d14/a02201.html#a1ec9c3a60a913ecbf16778626ccf0138", [
-      [ "STATE_FOLLOW_NONE", "dd/d14/a02201.html#a1ec9c3a60a913ecbf16778626ccf0138a8d3724990b83869077eeef397588a9ae", null ],
-      [ "STATE_FOLLOW_INPROGRESS", "dd/d14/a02201.html#a1ec9c3a60a913ecbf16778626ccf0138aa4c302e4ec6ca00eb8d737e1b43e9e0b", null ],
-      [ "STATE_FOLLOW_RETURNING", "dd/d14/a02201.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523", null ],
-      [ "STATE_FOLLOW_PAUSED", "dd/d14/a02201.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6", null ],
-      [ "STATE_FOLLOW_COMPLETE", "dd/d14/a02201.html#a1ec9c3a60a913ecbf16778626ccf0138a73636e044fe9883bf259a17bc617e7c9", null ],
-      [ "STATE_FOLLOW_PREEVENT", "dd/d14/a02201.html#a1ec9c3a60a913ecbf16778626ccf0138a5ed17b2670a724e36c47de32fa5e821b", null ],
-      [ "STATE_FOLLOW_POSTEVENT", "dd/d14/a02201.html#a1ec9c3a60a913ecbf16778626ccf0138a77b50e5da22490d74b38dcebae6e6c6a", null ]
-    ] ]
+    [ "LinkValidator< T >", "d3/d5b/a07674.html", "d3/d5b/a07674" ],
+    [ "LinkValidator< LinkTags::achievement >", "db/def/a07678.html", "db/def/a07678" ],
+    [ "LinkValidator< LinkTags::item >", "df/d7f/a07682.html", "df/d7f/a07682" ],
+    [ "LinkValidator< LinkTags::quest >", "d8/db1/a07686.html", "d8/db1/a07686" ],
+    [ "LinkValidator< LinkTags::spell >", "d2/d33/a07690.html", "d2/d33/a07690" ],
+    [ "LinkValidator< LinkTags::enchant >", "dc/da1/a07694.html", "dc/da1/a07694" ],
+    [ "LinkValidator< LinkTags::glyph >", "d1/d20/a07698.html", "d1/d20/a07698" ],
+    [ "LinkValidator< LinkTags::talent >", "dd/def/a07702.html", "dd/def/a07702" ],
+    [ "LinkValidator< LinkTags::trade >", "df/d72/a07706.html", "df/d72/a07706" ],
+    [ "TryValidateAs", "dd/d14/a02201.html#af1c86bff85f30ff113d5f78421c280af", null ],
+    [ "toHex", "dd/d14/a02201.html#a0b5e4d40ad5549ddc48c127306499b6c", null ],
+    [ "ValidateAs", "dd/d14/a02201.html#a1021653ddd2d2e78df34d8c4a2a7ed93", null ],
+    [ "ValidateLinkInfo", "dd/d14/a02201.html#a7de61dd7d7c595063ae73f415e961cc9", null ]
 ];

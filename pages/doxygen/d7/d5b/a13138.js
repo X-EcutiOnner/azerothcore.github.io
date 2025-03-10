@@ -1,7 +1,8 @@
 var a13138 =
 [
-    [ "CheckCast", "d7/d5b/a13138.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
-    [ "PrepareSpellScript", "d7/d5b/a13138.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
-    [ "Register", "d7/d5b/a13138.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
-    [ "Validate", "d7/d5b/a13138.html#a9208b9c010bb9cc379c195939351aa45", null ]
+    [ "npc_madrigosa", "d7/d5b/a13138.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
+    [ "DoAction", "d7/d5b/a13138.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
+    [ "UpdateAI", "d7/d5b/a13138.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
+    [ "events", "d7/d5b/a13138.html#a5859e4c8454371eb71740616d4763c0e", null ],
+    [ "instance", "d7/d5b/a13138.html#a09525d3bb35d1da4246bd84bbadea304", null ]
 ];

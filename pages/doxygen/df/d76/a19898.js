@@ -1,5 +1,7 @@
 var a19898 =
 [
-    [ "boss_freya_iron_rootAI", "df/d76/a19898.html#a5e982f5f41433f43a7a0e1d18e009b7b", null ],
-    [ "JustDied", "df/d76/a19898.html#ad35297f0fa2039749b89d38c2b4f08b9", null ]
+    [ "achievement_flame_leviathan_garage", "df/d76/a19898.html#a1893b4059d7212d023c45bb828bb1905", null ],
+    [ "OnCheck", "df/d76/a19898.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
+    [ "_entry1", "df/d76/a19898.html#af482d6c1b2681b9fec572281620a86b7", null ],
+    [ "_entry2", "df/d76/a19898.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
 ];

@@ -1,6 +1,6 @@
 var a20774 =
 [
-    [ "FilterTargets", "d5/d0f/a20774.html#a7efa78a7991b7ca859c7d622f973265d", null ],
-    [ "PrepareSpellScript", "d5/d0f/a20774.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
-    [ "Register", "d5/d0f/a20774.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
+    [ "boss_yoggsaron_llaneAI", "d3/d45/a20778.html", "d3/d45/a20778" ],
+    [ "boss_yoggsaron_llane", "d5/d0f/a20774.html#a671df488222583aa12bc1c75695918b9", null ],
+    [ "GetAI", "d5/d0f/a20774.html#a1e7d1b4bce0ca1dbfbbe8c044b451b92", null ]
 ];

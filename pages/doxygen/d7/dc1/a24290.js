@@ -1,6 +1,6 @@
 var a24290 =
 [
-    [ "npc_pet_pri_shadowfiend", "d7/dc1/a24290.html#ac35e3bcf59dc2d65a313e315516ea09b", null ],
-    [ "JustDied", "d7/dc1/a24290.html#a6d50edf62bf4547117f3f7b5b520f71b", null ],
-    [ "Reset", "d7/dc1/a24290.html#aeff1bada59ee80ae0166a82207729bad", null ]
+    [ "PrepareSpellScript", "d7/dc1/a24290.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
+    [ "RecalculateDamage", "d7/dc1/a24290.html#af01757d0968da2a096d800782ed7e66e", null ],
+    [ "Register", "d7/dc1/a24290.html#a62b6613707a2a9b78d52bffe92de604e", null ]
 ];

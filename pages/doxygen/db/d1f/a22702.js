@@ -1,7 +1,7 @@
 var a22702 =
 [
-    [ "CheckProc", "db/d1f/a22702.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "db/d1f/a22702.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "db/d1f/a22702.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "db/d1f/a22702.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "boss_lady_malande", "db/d1f/a22702.html#a8cb693d203463dcba809e7ffc23c6868", null ],
+    [ "AttackStart", "db/d1f/a22702.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
+    [ "JustEngagedWith", "db/d1f/a22702.html#af4b5f376e387851e15517de03636acde", null ],
+    [ "UpdateAI", "db/d1f/a22702.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
 ];

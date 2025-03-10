@@ -1,12 +1,14 @@
 var a22418 =
 [
-    [ "boss_exarch_maladaar", "d2/df2/a22418.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
-    [ "JustDied", "d2/df2/a22418.html#ab1179a19af8948d430559db4074c41ed", null ],
-    [ "JustEngagedWith", "d2/df2/a22418.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
-    [ "JustSummoned", "d2/df2/a22418.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
-    [ "KilledUnit", "d2/df2/a22418.html#adf35cb8b039676500d4040baa08b0d48", null ],
-    [ "MoveInLineOfSight", "d2/df2/a22418.html#a14baacd30b9186c7492c981313421d5b", null ],
-    [ "Reset", "d2/df2/a22418.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
-    [ "UpdateAI", "d2/df2/a22418.html#a7646c4477135d3d3b8580432902babd4", null ],
-    [ "_talked", "d2/df2/a22418.html#a15c4f122529b9f52823ea407c43433c5", null ]
+    [ "OutdoorPvPNA", "d2/df2/a22418.html#acbdae42245c71e4274296649d8d08e9e", null ],
+    [ "FillInitialWorldStates", "d2/df2/a22418.html#a49ac785929dd16bf0735b32b787763e9", null ],
+    [ "GetCapturePoint", "d2/df2/a22418.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
+    [ "HandleKill", "d2/df2/a22418.html#ab55683b771104878c69239314a9782f4", null ],
+    [ "HandleKillImpl", "d2/df2/a22418.html#a2ede6e7dc54424d9729a094557b14792", null ],
+    [ "HandlePlayerEnterZone", "d2/df2/a22418.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
+    [ "HandlePlayerLeaveZone", "d2/df2/a22418.html#ae7dd540746946513cd7bf8e29296c068", null ],
+    [ "SendRemoveWorldStates", "d2/df2/a22418.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
+    [ "SetupOutdoorPvP", "d2/df2/a22418.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
+    [ "Update", "d2/df2/a22418.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
+    [ "m_obj", "d2/df2/a22418.html#a7538d64bb494644eae3cc7db03dd631f", null ]
 ];

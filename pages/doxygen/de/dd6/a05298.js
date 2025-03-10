@@ -1,12 +1,9 @@
 var a05298 =
 [
-    [ "AppenderConsole", "de/dd6/a05298.html#aaf770a87f2151a7e6f92087751528c68", null ],
-    [ "_write", "de/dd6/a05298.html#a94e529229bd707fa2bad0a0206a386d5", null ],
-    [ "getType", "de/dd6/a05298.html#a4ae7f47c76b19eb269b26fdf13f14e48", null ],
-    [ "InitColors", "de/dd6/a05298.html#a1a4deceeafc9a111a519ea55dc646266", null ],
-    [ "ResetColor", "de/dd6/a05298.html#a4a3e55c9229947a25d4191bbfa348bf5", null ],
-    [ "SetColor", "de/dd6/a05298.html#a9303f9408e1cbfc086fba15bf9a4ce59", null ],
-    [ "_colored", "de/dd6/a05298.html#a172563f34a7277f7afb05354c8fbeb1f", null ],
-    [ "_colors", "de/dd6/a05298.html#acdf277241cd25715e48500a15ab6bd30", null ],
-    [ "type", "de/dd6/a05298.html#ab5cbc074f7d9306838974863913c8a5b", null ]
+    [ "IpLocationStore", "de/dd6/a05298.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
+    [ "~IpLocationStore", "de/dd6/a05298.html#a82360c1ce130670fde23d42135f91324", null ],
+    [ "GetLocationRecord", "de/dd6/a05298.html#a06384169031d2417a7f6bac54d3187a9", null ],
+    [ "instance", "de/dd6/a05298.html#ad740adf9b81b37cf147dc00e220b29db", null ],
+    [ "Load", "de/dd6/a05298.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
+    [ "_ipLocationStore", "de/dd6/a05298.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
 ];

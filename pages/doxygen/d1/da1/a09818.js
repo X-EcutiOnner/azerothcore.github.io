@@ -1,8 +1,6 @@
 var a09818 =
 [
-    [ "GetAINotifyDelay", "d1/da1/a09818.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
-    [ "GetReqMoveDistSq", "d1/da1/a09818.html#a58687646bbf83723e8ad2925ee50452c", null ],
-    [ "GetVisibilityNotifyDelay", "d1/da1/a09818.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
-    [ "Update", "d1/da1/a09818.html#aa95443d7050249a44cad2f16fa0026e5", null ],
-    [ "visibilitySettingsIndex", "d1/da1/a09818.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
+    [ "SplineRawInitializer", "d1/da1/a09818.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
+    [ "operator()", "d1/da1/a09818.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
+    [ "_points", "d1/da1/a09818.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
 ];

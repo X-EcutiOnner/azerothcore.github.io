@@ -1,6 +1,6 @@
 var a11230 =
 [
-    [ "EffectBase", "d6/de4/a11230.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
-    [ "CheckEffect", "d6/de4/a11230.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
-    [ "ToString", "d6/de4/a11230.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
+    [ "HitHandler", "d6/de4/a11230.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "d6/de4/a11230.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "d6/de4/a11230.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

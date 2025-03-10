@@ -1,10 +1,8 @@
 var a08038 =
 [
-    [ "FormationMgr", "df/d60/a08038.html#ade1aa22473c112aed65d537929b07908", null ],
-    [ "~FormationMgr", "df/d60/a08038.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0", null ],
-    [ "AddCreatureToGroup", "df/d60/a08038.html#aef758bdbc8f93c8981aedd51d7e10a07", null ],
-    [ "instance", "df/d60/a08038.html#a871fec234a94e4adae07315a008acec3", null ],
-    [ "LoadCreatureFormations", "df/d60/a08038.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
-    [ "RemoveCreatureFromGroup", "df/d60/a08038.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
-    [ "CreatureGroupMap", "df/d60/a08038.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ]
+    [ "TrainerSpellData", "df/d60/a08038.html#ab58a8a4ca9d8b609131e7f8b3ec507c9", null ],
+    [ "~TrainerSpellData", "df/d60/a08038.html#a9bd25177856f54fa2eda882627b21644", null ],
+    [ "Find", "df/d60/a08038.html#acee027787f06b4186b781bbd0d7db781", null ],
+    [ "spellList", "df/d60/a08038.html#a0e157dbcebbbea5704270f182d313568", null ],
+    [ "trainerType", "df/d60/a08038.html#a6ea889f294b37bfe1a7a40dffd1b2159", null ]
 ];

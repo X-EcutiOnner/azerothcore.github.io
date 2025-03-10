@@ -1,7 +1,13 @@
 var a14254 =
 [
-    [ "npc_love_in_air_supply_sentry", "d0/d74/a14254.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "d0/d74/a14254.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "d0/d74/a14254.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "d0/d74/a14254.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "npc_costumed_orphan_matron", "d0/d74/a14254.html#a0b913090588613ac00ea928f6273d56f", null ],
+    [ "DoAction", "d0/d74/a14254.html#a7a7739f89604ffb5afc6bab75118340e", null ],
+    [ "GetInitXYZ", "d0/d74/a14254.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533", null ],
+    [ "Reset", "d0/d74/a14254.html#a962de50b13079f3337c4e41eb2d98b55", null ],
+    [ "sGossipHello", "d0/d74/a14254.html#a1a9c58c087b8addf8e482375737d6c49", null ],
+    [ "sQuestAccept", "d0/d74/a14254.html#adac5d514261a210a701442da13ba1587", null ],
+    [ "UpdateAI", "d0/d74/a14254.html#a4679d807df8749265ba0453c5b7588f1", null ],
+    [ "allowQuest", "d0/d74/a14254.html#a722f4bfd0fb8b2665ff2b79d3208bc90", null ],
+    [ "eventStarted", "d0/d74/a14254.html#a5292ab4e45fe3a858b3a59ef4a79bb34", null ],
+    [ "horseGUID", "d0/d74/a14254.html#a92cfd09cefd26933ae322f2cc2716927", null ]
 ];

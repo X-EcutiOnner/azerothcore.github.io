@@ -1,4 +1,4 @@
 var a01865 =
 [
-    [ "ScriptRegistry< DynamicObjectScript >", "d5/da8/a01865.html#a81c3616d496bf8bc2392d79508d2e446", null ]
+    [ "ScriptRegistry< PetScript >", "d5/da8/a01865.html#a24e9b0a598349bf70ac6cf5aa4e30043", null ]
 ];

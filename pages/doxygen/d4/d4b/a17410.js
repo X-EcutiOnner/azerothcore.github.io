@@ -1,6 +1,8 @@
 var a17410 =
 [
-    [ "npc_igb_ship_crewAI", "d4/d4b/a17410.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "d4/d4b/a17410.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "d4/d4b/a17410.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "ResetEncounterEvent", "d4/d4b/a17410.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "d4/d4b/a17410.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "d4/d4b/a17410.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "d4/d4b/a17410.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "d4/d4b/a17410.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

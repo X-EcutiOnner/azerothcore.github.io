@@ -1,8 +1,7 @@
 var a27318 =
 [
-    [ "npc_franklinAI", "df/d96/a27322.html", "df/d96/a27322" ],
-    [ "npc_franklin", "da/df7/a27318.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "da/df7/a27318.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "da/df7/a27318.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "da/df7/a27318.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "npc_engineering_tele_trinket", "da/df7/a27318.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "da/df7/a27318.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "da/df7/a27318.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "da/df7/a27318.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

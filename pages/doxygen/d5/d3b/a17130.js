@@ -1,10 +1,6 @@
 var a17130 =
 [
-    [ "npc_dark_nucleusAI", "d5/d3b/a17130.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
-    [ "AttackStart", "d5/d3b/a17130.html#a3dec28dd13257b944df0c559d26a76e0", null ],
-    [ "DamageTaken", "d5/d3b/a17130.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
-    [ "JustDied", "d5/d3b/a17130.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
-    [ "Reset", "d5/d3b/a17130.html#ac84f79f84e721ab1306c8eed8658b143", null ],
-    [ "UpdateAI", "d5/d3b/a17130.html#a3a08457c34d4dd904a99a78875d6318c", null ],
-    [ "timer", "d5/d3b/a17130.html#ac5f9824276987b81aef5cfee05158049", null ]
+    [ "ShockVortexExplodeEvent", "d5/d3b/a17130.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "d5/d3b/a17130.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "d5/d3b/a17130.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

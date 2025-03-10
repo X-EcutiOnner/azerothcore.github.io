@@ -1,30 +1,5 @@
 var a09106 =
 [
-    [ "GridCellType", "d0/d93/a09106.html#aa4825c7b620815619c5cdefc36caeae6", null ],
-    [ "MapGrid", "d0/d93/a09106.html#a01341429c206e58eeff4bfa561c1a96b", null ],
-    [ "AddGridObject", "d0/d93/a09106.html#a27806bd0f5ddc636c0479bbb3b9595e8", null ],
-    [ "AddWorldObject", "d0/d93/a09106.html#a513ac4155c169eb2671d9974ef1e290a", null ],
-    [ "GetCell", "d0/d93/a09106.html#a68b8ce55737ea585816a84f719133bca", null ],
-    [ "GetCell", "d0/d93/a09106.html#a72741cc0b96de18b66da094ac323c0ac", null ],
-    [ "GetCreatedCellsCount", "d0/d93/a09106.html#aeb963bbfbe4044863bde6793b0405e5a", null ],
-    [ "GetId", "d0/d93/a09106.html#a19c7b85ee0abf14d267762eaa6f13df1", null ],
-    [ "GetOrCreateCell", "d0/d93/a09106.html#aae929781b8123fa87446706ef5f7c72f", null ],
-    [ "GetTerrainData", "d0/d93/a09106.html#ae202b546e959d360e7ab552307b9a094", null ],
-    [ "GetTerrainDataSharedPtr", "d0/d93/a09106.html#aa8846a420f7aa3f28107f8189728fe64", null ],
-    [ "GetX", "d0/d93/a09106.html#a221418a7ed724420c3fc0b865cc9ae40", null ],
-    [ "GetY", "d0/d93/a09106.html#a2a52c01e848d76687e321da2ad5ad540", null ],
-    [ "IsObjectDataLoaded", "d0/d93/a09106.html#ad8c7856335c6380e137b7e73a9c04ba8", null ],
-    [ "link", "d0/d93/a09106.html#a76899c7518cc281c38996f63fcad66dc", null ],
-    [ "RemoveGridObject", "d0/d93/a09106.html#a5944ddf2484ddf11e128c945bdf7ee6f", null ],
-    [ "RemoveWorldObject", "d0/d93/a09106.html#a2d28459da60ba0133892d0ef7639c969", null ],
-    [ "SetObjectDataLoaded", "d0/d93/a09106.html#a315e5ebf9f272fde3854ab9a5f92bd5e", null ],
-    [ "SetTerrainData", "d0/d93/a09106.html#ada043de13411124375a22bfa113b38ae", null ],
-    [ "VisitAllCells", "d0/d93/a09106.html#aadcf9383aa82236c588fa5be708d76c4", null ],
-    [ "VisitCell", "d0/d93/a09106.html#adcb77d6cf91b9337ff077af309e1944e", null ],
-    [ "_cells", "d0/d93/a09106.html#a1b5ecce0a217108fd9bf0d026c0da91c", null ],
-    [ "_gridReference", "d0/d93/a09106.html#a8703e5cf954324b1c659178364fe690c", null ],
-    [ "_objectDataLoaded", "d0/d93/a09106.html#a081fdfe5f2af218798043a906b656a57", null ],
-    [ "_terrainData", "d0/d93/a09106.html#a2be024de8ecf1f6482e8f5f6002ddb33", null ],
-    [ "_x", "d0/d93/a09106.html#aa27978c41d898b567085d788fd57b0fd", null ],
-    [ "_y", "d0/d93/a09106.html#a521501abfc11a97c8d398b5c9b348367", null ]
+    [ "HolesType", "d0/d93/a09106.html#a72531c15631ba45fe0c0ed962557e993", null ],
+    [ "holes", "d0/d93/a09106.html#a496f77513e47d89adfcc2f32d4bc1242", null ]
 ];

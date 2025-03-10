@@ -1,8 +1,7 @@
 var a17770 =
 [
-    [ "HandleScript", "da/d45/a17770.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "da/d45/a17770.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "da/d45/a17770.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "da/d45/a17770.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "da/d45/a17770.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "HandleTriggerSpell", "da/d45/a17770.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
+    [ "OnRemove", "da/d45/a17770.html#a238adc96e80c1890934b23dd4a2685b4", null ],
+    [ "PrepareAuraScript", "da/d45/a17770.html#af9ce7433b620fdf1dea570561c514b3b", null ],
+    [ "Register", "da/d45/a17770.html#ab36a001ea8cd87703e2694e0765635c0", null ]
 ];

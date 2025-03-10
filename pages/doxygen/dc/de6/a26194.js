@@ -1,7 +1,7 @@
 var a26194 =
 [
-    [ "HandleDummy", "dc/de6/a26194.html#a123ddc812fb358b7517eba60d1f90eba", null ],
-    [ "Load", "dc/de6/a26194.html#a64ca188f58b4f34827f03ae2878deef0", null ],
-    [ "PrepareSpellScript", "dc/de6/a26194.html#a7068dd9e6f7838d9ad7023c2d61482cc", null ],
-    [ "Register", "dc/de6/a26194.html#aff7ea1c5c569022ece56ecdb3f434723", null ]
+    [ "CheckTarget", "dc/de6/a26194.html#abaef73201d2e0bd1d6789309442019e0", null ],
+    [ "HandleScriptEffect", "dc/de6/a26194.html#a545196cd976bfabbd85ba48942012e1e", null ],
+    [ "PrepareSpellScript", "dc/de6/a26194.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
+    [ "Register", "dc/de6/a26194.html#a36563a197b7377660b7c3f9e85d478bd", null ]
 ];

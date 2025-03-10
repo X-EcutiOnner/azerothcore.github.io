@@ -1,10 +1,6 @@
 var a23754 =
 [
-    [ "npc_raging_flames", "d6/d28/a23754.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
-    [ "EnterEvadeMode", "d6/d28/a23754.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
-    [ "FixateRandomTarget", "d6/d28/a23754.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
-    [ "InitializeAI", "d6/d28/a23754.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
-    [ "IsSummonedBy", "d6/d28/a23754.html#ae42c4329be355807af92c1c803e61500", null ],
-    [ "Reset", "d6/d28/a23754.html#a34ac2249e507784d81c4040e87a646e0", null ],
-    [ "UpdateAI", "d6/d28/a23754.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
+    [ "HandleScriptEffect", "d6/d28/a23754.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
+    [ "PrepareSpellScript", "d6/d28/a23754.html#af475c0968aabaf56e8ca38950ad651f0", null ],
+    [ "Register", "d6/d28/a23754.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
 ];

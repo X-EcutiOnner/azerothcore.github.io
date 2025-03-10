@@ -1,13 +1,6 @@
 var a14990 =
 [
-    [ "boss_sartura", "d6/de2/a14990.html#a7faaf16a1a56badd1e65a3364d425f02", null ],
-    [ "DamageTaken", "d6/de2/a14990.html#a9a404743ac8491a9efc7091259706e0f", null ],
-    [ "InitializeAI", "d6/de2/a14990.html#ae86d0a6b0cd591b3bb18333195109c22", null ],
-    [ "JustDied", "d6/de2/a14990.html#aceff44022b8d53da41ecfcb1e2317e01", null ],
-    [ "JustEngagedWith", "d6/de2/a14990.html#ab1c024908117e8460eb89c062d3825dc", null ],
-    [ "KilledUnit", "d6/de2/a14990.html#a516a75910e872718a519c2a5c9805770", null ],
-    [ "Reset", "d6/de2/a14990.html#ab3514ad48f622f65d67063723601f8de", null ],
-    [ "UpdateAI", "d6/de2/a14990.html#af3d093dab3f5191d5da2df36ca9c4a11", null ],
-    [ "berserked", "d6/de2/a14990.html#a8ad40cee9667500cb0e9533256d216c6", null ],
-    [ "enraged", "d6/de2/a14990.html#af916ff3f6468b1e48d5b1944442594e5", null ]
+    [ "OnPeriodic", "d6/de2/a14990.html#a08dce8b98afadc134166a615b4496151", null ],
+    [ "PrepareAuraScript", "d6/de2/a14990.html#a9ebb34665b176e4e60f085da65183d8e", null ],
+    [ "Register", "d6/de2/a14990.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
 ];

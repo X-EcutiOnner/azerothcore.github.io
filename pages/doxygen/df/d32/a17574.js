@@ -1,10 +1,7 @@
 var a17574 =
 [
-    [ "npc_cult_fanaticAI", "df/d32/a17574.html#a766e536288b84110f88a8bd282e97932", null ],
-    [ "JustEngagedWith", "df/d32/a17574.html#a709b75f4b1519bc7c6988985a22d076f", null ],
-    [ "Reset", "df/d32/a17574.html#a772830df1d16d0463c8c00f14c337db0", null ],
-    [ "SpellHit", "df/d32/a17574.html#a17c02a83b522c9717de3d89517104e42", null ],
-    [ "UpdateAI", "df/d32/a17574.html#ac79afdab3721d78d2b7e5da360083cea", null ],
-    [ "_instance", "df/d32/a17574.html#a7448fdf85cccfcb12509b0274205bff4", null ],
-    [ "events", "df/d32/a17574.html#a9576978141062fa1babbbc5ed42483c4", null ]
+    [ "HandleScript", "df/d32/a17574.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "df/d32/a17574.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "df/d32/a17574.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "df/d32/a17574.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

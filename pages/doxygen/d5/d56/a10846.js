@@ -1,5 +1,6 @@
 var a10846 =
 [
-    [ "PacketHandler", "d5/d56/a10846.html#ae28d6ea18799c4dc90be8225fd2fad66", null ],
-    [ "Call", "d5/d56/a10846.html#a9468be560aba807419fb7e28bf0d6a41", null ]
+    [ "PetLearnedSpell", "d5/d56/a10846.html#a5d105cca08515b9550998f2c86b13a1a", null ],
+    [ "Write", "d5/d56/a10846.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
+    [ "SpellID", "d5/d56/a10846.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
 ];

@@ -1,10 +1,5 @@
 var a08510 =
 [
-    [ "DuelInfo", "d1/d3b/a08510.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
-    [ "Initiator", "d1/d3b/a08510.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
-    [ "IsMounted", "d1/d3b/a08510.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
-    [ "Opponent", "d1/d3b/a08510.html#a2765770367c839ad28f804e2df3205cb", null ],
-    [ "OutOfBoundsTime", "d1/d3b/a08510.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
-    [ "StartTime", "d1/d3b/a08510.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
-    [ "State", "d1/d3b/a08510.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
+    [ "Rank", "d1/d3b/a08510.html#a61797c7cb799308a7c20a954d287be17", null ],
+    [ "SkillId", "d1/d3b/a08510.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
 ];

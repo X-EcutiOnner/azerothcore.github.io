@@ -1,12 +1,6 @@
 var a17598 =
 [
-    [ "npc_darnavanAI", "db/d81/a17598.html#ae06019c24910c873877398f29f5a1737", null ],
-    [ "JustDied", "db/d81/a17598.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
-    [ "JustEngagedWith", "db/d81/a17598.html#acbaedacea5ad19d82002c25b68623a27", null ],
-    [ "MovementInform", "db/d81/a17598.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
-    [ "Reset", "db/d81/a17598.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
-    [ "UpdateAI", "db/d81/a17598.html#a2b3b5e168989db21fc047acaf01413d9", null ],
-    [ "_canCharge", "db/d81/a17598.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
-    [ "_canShatter", "db/d81/a17598.html#aa7750edc8051c8ee453143491dccf122", null ],
-    [ "events", "db/d81/a17598.html#aa8a022ccb1367432480f72d305c752ac", null ]
+    [ "DaranavanMoveEvent", "db/d81/a17598.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
+    [ "Execute", "db/d81/a17598.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
+    [ "_darnavan", "db/d81/a17598.html#a7585edb957755efbc6064f232d50ea4e", null ]
 ];

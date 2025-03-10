@@ -1,6 +1,6 @@
 var a26386 =
 [
-    [ "CheckProc", "db/d36/a26386.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
-    [ "PrepareAuraScript", "db/d36/a26386.html#af15109e926eb717c3f3cb2f7f617428c", null ],
-    [ "Register", "db/d36/a26386.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
+    [ "ModDest", "db/d36/a26386.html#ab03387aec0a02a6b3bac1014443554b6", null ],
+    [ "PrepareSpellScript", "db/d36/a26386.html#a53f7da301759fb18686bc73281c4a321", null ],
+    [ "Register", "db/d36/a26386.html#a266198fbc6203517f9845ef6212ddf13", null ]
 ];

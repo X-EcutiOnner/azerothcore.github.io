@@ -1,6 +1,7 @@
 var a14462 =
 [
-    [ "FilterTargets", "d7/d3b/a14462.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
-    [ "PrepareSpellScript", "d7/d3b/a14462.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
-    [ "Register", "d7/d3b/a14462.html#a164b8b946dc801db878603488c978adb", null ]
+    [ "HandleOnHit", "d7/d3b/a14462.html#ae3241486a612293b5421a523f6d854d9", null ],
+    [ "PrepareSpellScript", "d7/d3b/a14462.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
+    [ "Register", "d7/d3b/a14462.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
+    [ "Validate", "d7/d3b/a14462.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
 ];

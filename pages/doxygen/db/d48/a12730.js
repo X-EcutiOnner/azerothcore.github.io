@@ -1,6 +1,6 @@
 var a12730 =
 [
-    [ "boss_garaxxas", "db/d48/a12730.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "db/d48/a12730.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "db/d48/a12730.html#a56e6489ce49971cb066444888355626e", null ]
+    [ "HandleAfterCast", "db/d48/a12730.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
+    [ "PrepareSpellScript", "db/d48/a12730.html#aa0956db2d03405a54893bc30516f5839", null ],
+    [ "Register", "db/d48/a12730.html#a45726adacf1d30b5488df54f57447c0c", null ]
 ];

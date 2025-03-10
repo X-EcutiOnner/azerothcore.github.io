@@ -1,5 +1,6 @@
 var a23510 =
 [
-    [ "at_shattered_halls_execution", "d6/ddc/a23510.html#a73f1d1f03960acd070b7996257f7a526", null ],
-    [ "OnTrigger", "d6/ddc/a23510.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
+    [ "HandleEffect", "d6/ddc/a23510.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
+    [ "PrepareSpellScript", "d6/ddc/a23510.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
+    [ "Register", "d6/ddc/a23510.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
 ];

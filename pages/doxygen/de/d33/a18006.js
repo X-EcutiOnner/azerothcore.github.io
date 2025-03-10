@@ -1,5 +1,6 @@
 var a18006 =
 [
-    [ "FrozenThroneResetWorker", "de/d33/a18006.html#afd21e9c1449d4e391713256e197bc92b", null ],
-    [ "operator()", "de/d33/a18006.html#a7119548d30d760ae817a87cacf712cf6", null ]
+    [ "npc_sindragosa_trashAI", "de/d29/a18010.html", "de/d29/a18010" ],
+    [ "npc_sindragosa_trash", "de/d33/a18006.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
+    [ "GetAI", "de/d33/a18006.html#ab1de715d98236a853a793d830bc601d7", null ]
 ];

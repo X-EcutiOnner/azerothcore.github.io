@@ -1,8 +1,6 @@
 var a14798 =
 [
-    [ "HandleScript", "d8/d7d/a14798.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "d8/d7d/a14798.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "d8/d7d/a14798.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "d8/d7d/a14798.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "d8/d7d/a14798.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "npc_idol_room_spawnerAI", "d7/d48/a14802.html", "d7/d48/a14802" ],
+    [ "npc_idol_room_spawner", "d8/d7d/a14798.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "d8/d7d/a14798.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

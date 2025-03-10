@@ -1,15 +1,16 @@
 var a13670 =
 [
-    [ "npc_janalai_hatcher", "da/df7/a13670.html#a337e21f5a014d0f9d7a1f614b7245f36", null ],
-    [ "AttackStart", "da/df7/a13670.html#a5a7826964349ed9adbbdeb7c733dd915", null ],
-    [ "JustEngagedWith", "da/df7/a13670.html#a54c251278dcfa22052b6c6e49a4abd89", null ],
-    [ "MoveInLineOfSight", "da/df7/a13670.html#a4ae2157e37bb93b7465e029e526a6ce4", null ],
-    [ "MovementInform", "da/df7/a13670.html#a3a0170bc53f9f8f96090e34097b90c2c", null ],
-    [ "MoveToNewWaypoint", "da/df7/a13670.html#ab775a888ae1002eed3ed548ab89ca2e4", null ],
-    [ "Reset", "da/df7/a13670.html#ab1c3945160c55b2b2d63763eacced473", null ],
-    [ "UpdateAI", "da/df7/a13670.html#ab5cc0c5f73593128b6d6e023aa4ce609", null ],
-    [ "_isHatching", "da/df7/a13670.html#aae712db69c870d00d07a37b8611ecaf4", null ],
-    [ "_repeatCount", "da/df7/a13670.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12", null ],
-    [ "_side", "da/df7/a13670.html#a177ddd5ff96902363ab708f0c737fc20", null ],
-    [ "_waypoint", "da/df7/a13670.html#ab39ab27d8057b52b77637faefd48e8e6", null ]
+    [ "boss_akilzon", "da/df7/a13670.html#a8c56c6920488ac507e24db384782e2ab", null ],
+    [ "DoAction", "da/df7/a13670.html#a691625a18583d58b1be4d2caeb21b1e0", null ],
+    [ "HandleStormSequence", "da/df7/a13670.html#a54d2f18adf59dc89553dd1778e5ea0b1", null ],
+    [ "JustDied", "da/df7/a13670.html#a93b34ed1f80dc138e54f77eb4f64b1bc", null ],
+    [ "JustEngagedWith", "da/df7/a13670.html#a2783ec5db681651f8c43c238e9ed25f3", null ],
+    [ "KilledUnit", "da/df7/a13670.html#a1a5ffe4c6aabeaa39971f2376761a7d7", null ],
+    [ "Reset", "da/df7/a13670.html#a69302e4ac8f349e884f0745fe66edce2", null ],
+    [ "SetWeather", "da/df7/a13670.html#a9c8eeed625f33153819df19b6c2c5670", null ],
+    [ "SummonEagles", "da/df7/a13670.html#acde7c47a3ebee988753cd2af93fe16d4", null ],
+    [ "_birdGUIDs", "da/df7/a13670.html#ad5c56493e1e6331ae09bb70b920282fc", null ],
+    [ "_cycloneGUID", "da/df7/a13670.html#aaa712019eb5d17684d7f048f81e36270", null ],
+    [ "_isRaining", "da/df7/a13670.html#af61142c59ca9c5868afe7bc94ca40dcf", null ],
+    [ "_targetGUID", "da/df7/a13670.html#a4e8349e5ea281a40b9623b14e235bf41", null ]
 ];

@@ -1,6 +1,6 @@
 var a15374 =
 [
-    [ "SpellId", "d5/d36/a15374.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d5/d36/a15374.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d5/d36/a15374.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_omenAI", "d4/ddf/a15378.html", "d4/ddf/a15378" ],
+    [ "npc_omen", "d5/d36/a15374.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d5/d36/a15374.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

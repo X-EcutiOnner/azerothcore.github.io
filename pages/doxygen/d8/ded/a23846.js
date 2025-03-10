@@ -1,9 +1,16 @@
 var a23846 =
 [
-    [ "npc_aeranasAI", "d8/ded/a23846.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "Reset", "d8/ded/a23846.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "d8/ded/a23846.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "envelopingWinds_Timer", "d8/ded/a23846.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "d8/ded/a23846.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "d8/ded/a23846.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "npc_nether_drakeAI", "d8/ded/a23846.html#a82f2c29b380be95303e1558776ea2d88", null ],
+    [ "JustEngagedWith", "d8/ded/a23846.html#a5f20faa7f7007989298009b88b3ecbc8", null ],
+    [ "MoveInLineOfSight", "d8/ded/a23846.html#a9e122d4533155c926904a13e8534d32e", null ],
+    [ "MovementInform", "d8/ded/a23846.html#ae1f5248397b606b7872f05cfc929ac0d", null ],
+    [ "Reset", "d8/ded/a23846.html#acb03513dd67988e0961632846021a42d", null ],
+    [ "SpellHit", "d8/ded/a23846.html#a40f05363f38d71954c9fb8773c382444", null ],
+    [ "UpdateAI", "d8/ded/a23846.html#aa538d9d2ead26d6e085ecf62ec7d310f", null ],
+    [ "ArcaneBlast_Timer", "d8/ded/a23846.html#ace872917954f4978f3568d7ddecf22ad", null ],
+    [ "IntangiblePresence_Timer", "d8/ded/a23846.html#acecff3846090fa83c8fc43537d788501", null ],
+    [ "IsNihil", "d8/ded/a23846.html#a37c393101e0f9b07e20cc21beb80ba44", null ],
+    [ "ManaBurn_Timer", "d8/ded/a23846.html#ae6c33df878497d29d5f61234b048009d", null ],
+    [ "NihilSpeech_Phase", "d8/ded/a23846.html#a3e68f0fdb59ce6d8749b5d8629b7ec0b", null ],
+    [ "NihilSpeech_Timer", "d8/ded/a23846.html#a40d7584c68f5f6516eb9a7deaaad7c86", null ]
 ];

@@ -1,18 +1,9 @@
 var a10346 =
 [
-    [ "EnabledHooksVector", "df/d9f/a10346.html#ac9d98df16d3857ca556acda331064063", null ],
-    [ "EnabledHooksVectorIterator", "df/d9f/a10346.html#a575c2a2974f9e002a8a3bb1b858a2912", null ],
-    [ "ScriptMap", "df/d9f/a10346.html#a0f8009ac0cd91574f0bf4ac92ef90ce0", null ],
-    [ "ScriptMapIterator", "df/d9f/a10346.html#ad1fcde41ec854314c5e1cc50b916ac5d", null ],
-    [ "ScriptVector", "df/d9f/a10346.html#abf04ad36ed630be4499f0be2d53016a9", null ],
-    [ "ScriptVectorIterator", "df/d9f/a10346.html#ac0554c5200368592f5d0bfb1025935fe", null ],
-    [ "_checkMemory", "df/d9f/a10346.html#a8d784f25a47c9ca4be72fca0215bf1c8", null ],
-    [ "AddALScripts", "df/d9f/a10346.html#aa86b74a2560deae81f5c2a38cf1f72c8", null ],
-    [ "AddScript", "df/d9f/a10346.html#a4a25c0e3b90f6af4563baf0e7a1c0622", null ],
-    [ "GetScriptById", "df/d9f/a10346.html#a22226c545e7975d4c612e7adcc766d05", null ],
-    [ "InitEnabledHooksIfNeeded", "df/d9f/a10346.html#a44238d9b122f50192b989b1efe2107bd", null ],
-    [ "_scriptIdCounter", "df/d9f/a10346.html#aa66e44e9291be980d12f4167f699c680", null ],
-    [ "ALScripts", "df/d9f/a10346.html#ac67b828a489c483ceaaa745b2dd7ef57", null ],
-    [ "EnabledHooks", "df/d9f/a10346.html#a4274e01ddb2659f125970b97014da00e", null ],
-    [ "ScriptPointerList", "df/d9f/a10346.html#a57e93b2fa2db2a29fa4c12714e217d43", null ]
+    [ "TransportScript", "df/d9f/a10346.html#a4b83123b122fa98831d304670a3de50a", null ],
+    [ "IsDatabaseBound", "df/d9f/a10346.html#a956f0d757e5d974566fa8fac0df731e5", null ],
+    [ "OnAddCreaturePassenger", "df/d9f/a10346.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
+    [ "OnAddPassenger", "df/d9f/a10346.html#a806f4829b47429900271f6dde7eaa625", null ],
+    [ "OnRelocate", "df/d9f/a10346.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
+    [ "OnRemovePassenger", "df/d9f/a10346.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
 ];

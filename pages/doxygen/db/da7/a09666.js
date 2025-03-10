@@ -1,25 +1,10 @@
 var a09666 =
 [
-    [ "MailItemMap", "db/da7/a09666.html#afad4472f25a020fd6c8d6452840d021c", null ],
-    [ "MailDraft", "db/da7/a09666.html#a8a7a37890b6a280f2b08659e5e59b354", null ],
-    [ "MailDraft", "db/da7/a09666.html#adbadad7d9522146672759298c981f7db", null ],
-    [ "AddCOD", "db/da7/a09666.html#a8d863191bb48369359ad170aab7145e0", null ],
-    [ "AddItem", "db/da7/a09666.html#ae0c2b4bac4dd8f2a8c53608c45cbb11a", null ],
-    [ "AddMoney", "db/da7/a09666.html#a4d0be4ea780f25c5302278b5748b6a6b", null ],
-    [ "deleteIncludedItems", "db/da7/a09666.html#a0b5a445213d5fcc598ed016f1cbf2cf8", null ],
-    [ "GetBody", "db/da7/a09666.html#ae60b40718fffcdda286161e342d1738d", null ],
-    [ "GetCOD", "db/da7/a09666.html#a2b4d799ab7ec945b60c07747981ad0a5", null ],
-    [ "GetMailTemplateId", "db/da7/a09666.html#ab5906ccf0213f8be241fbb177fef53bd", null ],
-    [ "GetMoney", "db/da7/a09666.html#a461ee77c1d85b07513d5f453c8c8507a", null ],
-    [ "GetSubject", "db/da7/a09666.html#a671268ee9b384c5c8c954bb62b3a41a0", null ],
-    [ "prepareItems", "db/da7/a09666.html#ad6481e16a4dbe15b30a942278943c1d2", null ],
-    [ "SendMailTo", "db/da7/a09666.html#aaee8965aaa66351954bdc7db246151d7", null ],
-    [ "SendReturnToSender", "db/da7/a09666.html#ab57f00b07519984be8e0f3eb03955ee2", null ],
-    [ "m_body", "db/da7/a09666.html#aea4413d56053710844b37518596e7b38", null ],
-    [ "m_COD", "db/da7/a09666.html#a73472d56d74d215494975e6ce6580008", null ],
-    [ "m_items", "db/da7/a09666.html#a58eef2cacd7834941404a366afc52a9d", null ],
-    [ "m_mailTemplateId", "db/da7/a09666.html#a8a7997191ebeaebbdd78677c99409278", null ],
-    [ "m_mailTemplateItemsNeed", "db/da7/a09666.html#aa8fced0ed98a18667c9d9a55027e99e9", null ],
-    [ "m_money", "db/da7/a09666.html#a8915b8116364db1265eba0ce0d0471c2", null ],
-    [ "m_subject", "db/da7/a09666.html#aa71d5223f51ffe20c1bf0c91f567d6f8", null ]
+    [ "iterator", "db/da7/a09666.html#a9fada63aa17222fc5e216f3904affafd", null ],
+    [ "begin", "db/da7/a09666.html#aee3a4701c5bc51f4028fe53f18675989", null ],
+    [ "end", "db/da7/a09666.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
+    [ "getFirst", "db/da7/a09666.html#ae47bba95a17db31a42231da948245387", null ],
+    [ "getLast", "db/da7/a09666.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
+    [ "rbegin", "db/da7/a09666.html#af68f1d93a80e13976798dfed0063a1e4", null ],
+    [ "rend", "db/da7/a09666.html#a92c30fb269bc99820b6964a99ee86d98", null ]
 ];

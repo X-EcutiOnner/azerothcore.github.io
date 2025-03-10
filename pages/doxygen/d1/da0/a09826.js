@@ -1,6 +1,12 @@
 var a09826 =
 [
-    [ "IsNeutralOrFriendlyToTeam", "d1/da0/a09826.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
-    [ "safeLocId", "d1/da0/a09826.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
-    [ "teamId", "d1/da0/a09826.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
+    [ "TransportTemplate", "d1/da0/a09826.html#aef4781a37808827e3ceaffc782c3af1e", null ],
+    [ "~TransportTemplate", "d1/da0/a09826.html#afc385d824c171d13a184bc0a16121110", null ],
+    [ "accelDist", "d1/da0/a09826.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
+    [ "accelTime", "d1/da0/a09826.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
+    [ "entry", "d1/da0/a09826.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
+    [ "inInstance", "d1/da0/a09826.html#a971c84762c229b01cab656945f0c16de", null ],
+    [ "keyFrames", "d1/da0/a09826.html#ac714531f226ca06c3586cf3f6cc06808", null ],
+    [ "mapsUsed", "d1/da0/a09826.html#a93899b0648871ed8ca32dfe8394347c1", null ],
+    [ "pathTime", "d1/da0/a09826.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
 ];

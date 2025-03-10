@@ -1,7 +1,6 @@
 var a16206 =
 [
-    [ "HandleAfterHit", "db/d43/a16206.html#a6fc446385881ddb4c94de73199649816", null ],
-    [ "PrepareSpellScript", "db/d43/a16206.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
-    [ "Register", "db/d43/a16206.html#aaae368b2f647aa6a56827550e50dafe1", null ],
-    [ "Validate", "db/d43/a16206.html#ad4c84071b538b657fa1302982f8799b4", null ]
+    [ "npc_swarm_scarabAI", "d5/d0d/a16210.html", "d5/d0d/a16210" ],
+    [ "npc_swarm_scarab", "db/d43/a16206.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "db/d43/a16206.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

@@ -1,7 +1,11 @@
 var a24026 =
 [
-    [ "o", "d4/d05/a24026.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "d4/d05/a24026.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "d4/d05/a24026.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "d4/d05/a24026.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "npc_invis_infernal_casterAI", "d4/d05/a24026.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "d4/d05/a24026.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "d4/d05/a24026.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "d4/d05/a24026.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "d4/d05/a24026.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "d4/d05/a24026.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "d4/d05/a24026.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "d4/d05/a24026.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

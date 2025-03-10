@@ -1,7 +1,6 @@
 var a22634 =
 [
-    [ "VerasEnvenom", "d6/d4a/a22634.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
-    [ "Execute", "d6/d4a/a22634.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
-    [ "_owner", "d6/d4a/a22634.html#af9cf231119ab5592be9829784f20d2e0", null ],
-    [ "_targetGUID", "d6/d4a/a22634.html#a90d62907c775565765fa87903adb94ea", null ]
+    [ "HandleScriptEffect", "d6/d4a/a22634.html#aa60961c2609184e739dea3be8ba992d5", null ],
+    [ "PrepareSpellScript", "d6/d4a/a22634.html#aacde592314399112786b024153389024", null ],
+    [ "Register", "d6/d4a/a22634.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
 ];

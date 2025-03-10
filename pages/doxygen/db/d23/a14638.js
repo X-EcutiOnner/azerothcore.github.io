@@ -1,8 +1,7 @@
 var a14638 =
 [
-    [ "npc_thrall_old_hillsbradAI", "dc/d70/a14642.html", "dc/d70/a14642" ],
-    [ "npc_thrall_old_hillsbrad", "db/d23/a14638.html#a3e6fa750b095af3beac806a619e18328", null ],
-    [ "GetAI", "db/d23/a14638.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
-    [ "OnGossipHello", "db/d23/a14638.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
-    [ "OnGossipSelect", "db/d23/a14638.html#a17fcb00850503903f430506654e035c0", null ]
+    [ "npc_cos_chromie_middle", "db/d23/a14638.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "db/d23/a14638.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "db/d23/a14638.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "db/d23/a14638.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
 ];

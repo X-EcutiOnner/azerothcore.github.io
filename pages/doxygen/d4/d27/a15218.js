@@ -1,8 +1,11 @@
 var a15218 =
 [
-    [ "npc_prospector_remtravelAI", "d4/d27/a15218.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
-    [ "JustEngagedWith", "d4/d27/a15218.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
-    [ "JustSummoned", "d4/d27/a15218.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
-    [ "Reset", "d4/d27/a15218.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
-    [ "WaypointReached", "d4/d27/a15218.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
+    [ "npc_stillpine_capitiveAI", "d4/d27/a15218.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
+    [ "MovementInform", "d4/d27/a15218.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
+    [ "Reset", "d4/d27/a15218.html#a9c884f892e64044057d477bdc0f89eed", null ],
+    [ "StartMoving", "d4/d27/a15218.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
+    [ "UpdateAI", "d4/d27/a15218.html#a25dc06767382b5fee2a7098b58726fb2", null ],
+    [ "_events", "d4/d27/a15218.html#a93dd55d392836d8d085e34293344b700", null ],
+    [ "_movementComplete", "d4/d27/a15218.html#ae8e39ca782aee412e39d65a33d14014e", null ],
+    [ "_playerGUID", "d4/d27/a15218.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
 ];

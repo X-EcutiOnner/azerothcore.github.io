@@ -1,6 +1,13 @@
 var a08618 =
 [
-    [ "GlobalCooldown", "dc/d26/a08618.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
-    [ "cast_time", "dc/d26/a08618.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
-    [ "duration", "dc/d26/a08618.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
+    [ "PassengerSet", "dc/d26/a08618.html#aa6421ebd51e84c819604e18e93729d27", null ],
+    [ "Transport", "dc/d26/a08618.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
+    [ "AddPassenger", "dc/d26/a08618.html#ac5c328f816b0358a68265322219357c1", null ],
+    [ "CalculatePassengerOffset", "dc/d26/a08618.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
+    [ "CalculatePassengerPosition", "dc/d26/a08618.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
+    [ "GetPassengers", "dc/d26/a08618.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
+    [ "GetPathProgress", "dc/d26/a08618.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
+    [ "RemovePassenger", "dc/d26/a08618.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
+    [ "SetPathProgress", "dc/d26/a08618.html#acb68e75a78fa196a4b514abd24c0e322", null ],
+    [ "_passengers", "dc/d26/a08618.html#adc2089495aadaab23414ecae3b2df180", null ]
 ];

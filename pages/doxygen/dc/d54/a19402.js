@@ -1,6 +1,6 @@
 var a19402 =
 [
-    [ "CalculateDamage", "dc/d54/a19402.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
-    [ "PrepareSpellScript", "dc/d54/a19402.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
-    [ "Register", "dc/d54/a19402.html#a02851f0b94687512a8e016bfb9b826e3", null ]
+    [ "boss_volkhanAI", "de/d55/a19406.html", "de/d55/a19406" ],
+    [ "boss_volkhan", "dc/d54/a19402.html#a9dcb6026fbf3116df9abf5acaf1bfcc2", null ],
+    [ "GetAI", "dc/d54/a19402.html#aa0f76b387f9f74e0eb6dedd1b44ce34a", null ]
 ];

@@ -1,6 +1,6 @@
 var a13266 =
 [
-    [ "HandlePeriodic", "d4/d2a/a13266.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
-    [ "PrepareAuraScript", "d4/d2a/a13266.html#a2722b97e12e9371745d7f38504d9efdf", null ],
-    [ "Register", "d4/d2a/a13266.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
+    [ "FixOrientation", "d4/d2a/a13266.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
+    [ "Execute", "d4/d2a/a13266.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
+    [ "_owner", "d4/d2a/a13266.html#a5f12db3774bdeef25a300780c00db1fb", null ]
 ];

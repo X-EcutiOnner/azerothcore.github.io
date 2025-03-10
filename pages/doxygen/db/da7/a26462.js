@@ -1,6 +1,8 @@
 var a26462 =
 [
-    [ "HandlePeriodic", "db/da7/a26462.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
-    [ "PrepareAuraScript", "db/da7/a26462.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
-    [ "Register", "db/da7/a26462.html#ac90afe9f5d9d55faba2282a875469311", null ]
+    [ "HandleDummy", "db/da7/a26462.html#a308880cf9c61c76de0fdee05fff2b463", null ],
+    [ "Load", "db/da7/a26462.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
+    [ "PrepareSpellScript", "db/da7/a26462.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
+    [ "Register", "db/da7/a26462.html#a1857b342ae34a57f079f45019645c688", null ],
+    [ "Validate", "db/da7/a26462.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
 ];

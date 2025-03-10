@@ -1,9 +1,8 @@
 var a02024 =
 [
-    [ "ePoints", "d7/dbe/a02024.html#a2604bd06487e34b78d3e50cd892f3c4d", [
-      [ "POINT_LAST_POINT", "d8/de7/a02030.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
-      [ "POINT_HOME", "d8/de7/a02030.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
-      [ "POINT_COMBAT_START", "d7/dbe/a02024.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
-    ] ],
-    [ "MAX_PLAYER_DISTANCE", "d7/dbe/a02024.html#acd0b392fc88f24b24201fba8b76d33a2", null ]
+    [ "SelectableGameObjectAI", "de/d33/a06154.html", "de/d33/a06154" ],
+    [ "GameObjectAIFactory< REAL_GO_AI >", "d6/d0c/a06158.html", "d6/d0c/a06158" ],
+    [ "sGameObjectAIRegistry", "d7/dbe/a02024.html#ac9d2663769f7235631c142a4346922a9", null ],
+    [ "GameObjectAICreator", "d7/dbe/a02024.html#abf0182bf1e43c6ea243acb940a03e6fa", null ],
+    [ "GameObjectAIRegistry", "d7/dbe/a02024.html#a9482a5649b9d911e3d058c099101f929", null ]
 ];

@@ -1,14 +1,8 @@
 var a16670 =
 [
-    [ "boss_marwynAI", "d3/d7d/a16670.html#abfc074b89e4edcf461c4df4d00c90856", null ],
-    [ "DoAction", "d3/d7d/a16670.html#adc68f202aa2e78bd3a7969bfddcce710", null ],
-    [ "EnterEvadeMode", "d3/d7d/a16670.html#acb0b5675c2ff9f614ddafd88ff96e62e", null ],
-    [ "JustDied", "d3/d7d/a16670.html#a11f64dbf0333c212584d441d4b719d9c", null ],
-    [ "JustEngagedWith", "d3/d7d/a16670.html#ae7509cf8b3b93e97b2e617c1ac181c87", null ],
-    [ "KilledUnit", "d3/d7d/a16670.html#a43b40959a22a1767c1c717f5bf7200ad", null ],
-    [ "Reset", "d3/d7d/a16670.html#a7433e7ed2007ccde768e1e15640ac99d", null ],
-    [ "UpdateAI", "d3/d7d/a16670.html#abaa8f609099423c9d8db5b93f2dd411e", null ],
-    [ "events", "d3/d7d/a16670.html#a87c1f1785612cfd42667bd635ce16f2a", null ],
-    [ "pInstance", "d3/d7d/a16670.html#a524e6c4145851d67edfdc0d9cb5b2e7c", null ],
-    [ "startFightTimer", "d3/d7d/a16670.html#a2a1d7531025f136e368fc7d2b4c0d163", null ]
+    [ "npc_fos_leaderAI", "d3/d7d/a16670.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "d3/d7d/a16670.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "d3/d7d/a16670.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "d3/d7d/a16670.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "d3/d7d/a16670.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

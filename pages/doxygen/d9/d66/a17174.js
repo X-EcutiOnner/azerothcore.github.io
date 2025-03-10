@@ -1,7 +1,6 @@
 var a17174 =
 [
-    [ "HandleDummyTick", "d9/d66/a17174.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
-    [ "PrepareAuraScript", "d9/d66/a17174.html#a577523701b5a4ea2def4999e634c8862", null ],
-    [ "Register", "d9/d66/a17174.html#aaad9185c62333de4d6704b22780edd28", null ],
-    [ "Validate", "d9/d66/a17174.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
+    [ "npc_ball_of_flameAI", "d5/dad/a17178.html", "d5/dad/a17178" ],
+    [ "npc_ball_of_flame", "d9/d66/a17174.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
+    [ "GetAI", "d9/d66/a17174.html#ac0309668f9f0ca85a644d4928966e577", null ]
 ];

@@ -1,6 +1,8 @@
 var a21926 =
 [
-    [ "npc_infra_green_bomber_genericAI", "d8/dcd/a21930.html", "d8/dcd/a21930" ],
-    [ "npc_infra_green_bomber_generic", "df/df8/a21926.html#a39134a09376c35f15e99377cd28ac6ff", null ],
-    [ "GetAI", "df/df8/a21926.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
+    [ "npc_llod_genericAI", "df/df8/a21926.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "df/df8/a21926.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "df/df8/a21926.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "df/df8/a21926.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "df/df8/a21926.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

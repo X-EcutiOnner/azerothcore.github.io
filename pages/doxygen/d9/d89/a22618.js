@@ -1,7 +1,7 @@
 var a22618 =
 [
-    [ "HandleScriptEffect", "d9/d89/a22618.html#a16f131e42272bc75c99df2a9cf43470e", null ],
-    [ "PrepareSpellScript", "d9/d89/a22618.html#a510e80ef85ae3057e30c7c710aaf187b", null ],
-    [ "Register", "d9/d89/a22618.html#ae26ff6be3b2d4a1975ace3734603ab41", null ],
-    [ "Validate", "d9/d89/a22618.html#a58ff628906f3077a354ed486d3c56d23", null ]
+    [ "npc_blade_of_azzinoth", "d9/d89/a22618.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d9/d89/a22618.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d9/d89/a22618.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d9/d89/a22618.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

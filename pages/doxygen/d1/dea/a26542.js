@@ -1,7 +1,9 @@
 var a26542 =
 [
-    [ "HandleEffectProc", "d1/dea/a26542.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
-    [ "PrepareAuraScript", "d1/dea/a26542.html#a47d844a9700cd8add793e3f3088d1b82", null ],
-    [ "Register", "d1/dea/a26542.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
-    [ "Validate", "d1/dea/a26542.html#a97f5239399e7135b02000722eaf837ad", null ]
+    [ "CalculateAmount", "d1/dea/a26542.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
+    [ "CheckProc", "d1/dea/a26542.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
+    [ "HandleProc", "d1/dea/a26542.html#a741570ba77f70d90b437198f63e565f3", null ],
+    [ "PrepareAuraScript", "d1/dea/a26542.html#af4e49e2362994f247c119c16c013e4b3", null ],
+    [ "Register", "d1/dea/a26542.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
+    [ "Validate", "d1/dea/a26542.html#a939d6815bcaee9b9d2b062313aac912a", null ]
 ];

@@ -1,5 +1,5 @@
 var a22354 =
 [
-    [ "OutdoorPvP_nagrand", "d9/dd9/a22354.html#ac6e0f41eafb915604bd1b1d84e915f87", null ],
-    [ "GetOutdoorPvP", "d9/dd9/a22354.html#ae8ce0bf210e2be8229b9ac4d8615b058", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "d9/dd9/a22354.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "d9/dd9/a22354.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

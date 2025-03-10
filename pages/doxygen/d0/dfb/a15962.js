@@ -1,10 +1,6 @@
 var a15962 =
 [
-    [ "spell_halion_damage_aoe_summon", "d0/dfb/a15962.html#a6152e7a0515076af2c7c2155506257b0", null ],
-    [ "HandleSummon", "d0/dfb/a15962.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
-    [ "PrepareSpellScript", "d0/dfb/a15962.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
-    [ "Register", "d0/dfb/a15962.html#aa1f9239a2910d53c85539abba6333893", null ],
-    [ "Validate", "d0/dfb/a15962.html#acb359257b29354b5962d9865e06137e7", null ],
-    [ "_auraSpell", "d0/dfb/a15962.html#a497a74eca703470964157639a6f372e2", null ],
-    [ "_explosionSpell", "d0/dfb/a15962.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
+    [ "npc_halion_controllerAI", "da/d74/a15966.html", "da/d74/a15966" ],
+    [ "npc_halion_controller", "d0/dfb/a15962.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
+    [ "GetAI", "d0/dfb/a15962.html#a3c5ea3f0597c070005744ea788a05383", null ]
 ];

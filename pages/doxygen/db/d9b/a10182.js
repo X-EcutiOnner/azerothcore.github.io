@@ -1,6 +1,10 @@
 var a10182 =
 [
-    [ "BattlegroundMapScript", "db/d9b/a10182.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
-    [ "checkValidity", "db/d9b/a10182.html#a90584770132eb71cffc6e25a674750ad", null ],
-    [ "isAfterLoadScript", "db/d9b/a10182.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
+    [ "AllItemScript", "db/d9b/a10182.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
+    [ "CanItemExpire", "db/d9b/a10182.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
+    [ "CanItemQuestAccept", "db/d9b/a10182.html#a545e2bc7436a064146025954eaf5ae92", null ],
+    [ "CanItemRemove", "db/d9b/a10182.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
+    [ "CanItemUse", "db/d9b/a10182.html#a89d237f426840658e4423fb9cc7428db", null ],
+    [ "OnItemGossipSelect", "db/d9b/a10182.html#a7157f72c6d09988b60480d1671892cde", null ],
+    [ "OnItemGossipSelectCode", "db/d9b/a10182.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
 ];

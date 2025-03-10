@@ -1,13 +1,7 @@
 var a22642 =
 [
-    [ "boss_illidari_council_memberAI", "d5/d74/a22642.html#ac32366dfad13cd37ced2428d041e25c9", null ],
-    [ "DamageTaken", "d5/d74/a22642.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
-    [ "DoAction", "d5/d74/a22642.html#a203310b84d71a24145b1c39e7faff182", null ],
-    [ "EnterEvadeMode", "d5/d74/a22642.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
-    [ "JustDied", "d5/d74/a22642.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
-    [ "JustEngagedWith", "d5/d74/a22642.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
-    [ "KilledUnit", "d5/d74/a22642.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
-    [ "Reset", "d5/d74/a22642.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
-    [ "events", "d5/d74/a22642.html#ad47a350f5ed066e04816e72961a80bd0", null ],
-    [ "instance", "d5/d74/a22642.html#adb11720cd0fd87a42b9a78490a70251e", null ]
+    [ "HandleDummy", "d5/d74/a22642.html#af5ac581f7d471300fba2c23548037eea", null ],
+    [ "PrepareSpellScript", "d5/d74/a22642.html#adda61c05b544b52d98af5b7a76d4f808", null ],
+    [ "Register", "d5/d74/a22642.html#a270a64dffdce230d97515f116ec49706", null ],
+    [ "Validate", "d5/d74/a22642.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
 ];

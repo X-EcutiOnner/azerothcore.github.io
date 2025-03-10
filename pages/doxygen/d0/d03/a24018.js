@@ -1,5 +1,7 @@
 var a24018 =
 [
-    [ "npc_karynaku", "d0/d03/a24018.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
-    [ "OnQuestAccept", "d0/d03/a24018.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
+    [ "HandleEffectApply", "d0/d03/a24018.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d0/d03/a24018.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d0/d03/a24018.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d0/d03/a24018.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

@@ -1,6 +1,8 @@
 var a24602 =
 [
-    [ "FilterTargets", "d5/dbf/a24602.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
-    [ "PrepareSpellScript", "d5/dbf/a24602.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
-    [ "Register", "d5/dbf/a24602.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
+    [ "AfterRemove", "d5/dbf/a24602.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
+    [ "HandleDispel", "d5/dbf/a24602.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
+    [ "PrepareAuraScript", "d5/dbf/a24602.html#a44e66753516d693c31dba27c9d1ad250", null ],
+    [ "Register", "d5/dbf/a24602.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
+    [ "Validate", "d5/dbf/a24602.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
 ];

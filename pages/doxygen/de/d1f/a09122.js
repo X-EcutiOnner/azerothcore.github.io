@@ -1,6 +1,7 @@
 var a09122 =
 [
-    [ "PlayerRelocationNotifier", "de/d1f/a09122.html#a01cbecc2a9727d822b94a90b0c3035aa", null ],
-    [ "Visit", "de/d1f/a09122.html#ab9b3ad469216db3a7a49176b41b0b1ea", null ],
-    [ "Visit", "de/d1f/a09122.html#acffc7490cb9b0cf171a1cfc6e1dbdc79", null ]
+    [ "GridTerrainUnloader", "de/d1f/a09122.html#a2cae372520a8e6d6a54ad79381a844e9", null ],
+    [ "UnloadTerrain", "de/d1f/a09122.html#ad6648cf97602141fcc64bbb6c688f6a0", null ],
+    [ "_grid", "de/d1f/a09122.html#a94d346bc8d44f285d8cdb97736859201", null ],
+    [ "_map", "de/d1f/a09122.html#aac1ea80c5210b25ad26f52558336c20d", null ]
 ];

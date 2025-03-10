@@ -1,7 +1,8 @@
 var a04930 =
 [
-    [ "clear", "da/d8f/a04930.html#af2120a6bb6aa223baa117e5699c93012", null ],
-    [ "createOrGetMMapMgr", "da/d8f/a04930.html#aa7571dc833ba0d2dc6d8bc7bc4b47cdd", null ],
-    [ "InitializeDisabledMaps", "da/d8f/a04930.html#a6df048ce34ec1baed2cb35cedf67f5b2", null ],
-    [ "forbiddenMaps", "da/d8f/a04930.html#a2301f091e1f1e3359dbded7f054eb219", null ]
+    [ "AreaInfo", "da/d8f/a04930.html#a5cff768781236ef358e8864269d739e4", null ],
+    [ "adtId", "da/d8f/a04930.html#a6e13cfcbd4aa9c36fb80be7913640730", null ],
+    [ "groupId", "da/d8f/a04930.html#ae0e0518b31f3a16121bf3abd0770eb57", null ],
+    [ "mogpFlags", "da/d8f/a04930.html#ace485f0168c41ce50c78c782dd6301fd", null ],
+    [ "rootId", "da/d8f/a04930.html#a225d78ba13f20c147b92c6dfac1b37ad", null ]
 ];

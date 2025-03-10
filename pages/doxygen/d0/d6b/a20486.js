@@ -1,6 +1,6 @@
 var a20486 =
 [
-    [ "boss_thorim_runic_colossusAI", "dc/d56/a20490.html", "dc/d56/a20490" ],
-    [ "boss_thorim_runic_colossus", "d0/d6b/a20486.html#a2ea1c08a98b689cd6c766578e98a3191", null ],
-    [ "GetAI", "d0/d6b/a20486.html#a6d64427ff427a1054e10c9d987b77f53", null ]
+    [ "boss_thorim_lightning_orbAI", "dc/d56/a20490.html", "dc/d56/a20490" ],
+    [ "boss_thorim_lightning_orb", "d0/d6b/a20486.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2", null ],
+    [ "GetAI", "d0/d6b/a20486.html#ad24d28866145c4fccf7a3971856fa87f", null ]
 ];

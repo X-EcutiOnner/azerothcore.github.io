@@ -1,6 +1,6 @@
 var a21730 =
 [
-    [ "npc_ravenous_worgAI", "d9/d46/a21734.html", "d9/d46/a21734" ],
-    [ "npc_ravenous_worg", "d3/d34/a21730.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
-    [ "GetAI", "d3/d34/a21730.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
+    [ "npc_spiritual_insightAI", "d3/d34/a21730.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "d3/d34/a21730.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "d3/d34/a21730.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

@@ -1,7 +1,16 @@
 var a14334 =
 [
-    [ "HandleFinish", "dd/d42/a14334.html#a8927aaa07145b46067d5807c2048330a", null ],
-    [ "PrepareSpellScript", "dd/d42/a14334.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
-    [ "Register", "dd/d42/a14334.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
-    [ "Validate", "dd/d42/a14334.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
+    [ "npc_midsummer_torch_target", "dd/d42/a14334.html#a2abb5371f151c8d3c4f7247c411635a0", null ],
+    [ "CanBeSeen", "dd/d42/a14334.html#afd53ae2c07091553025f5af7c170a046", null ],
+    [ "FillPositions", "dd/d42/a14334.html#ae5717304f44407fb34713990d15279d4", null ],
+    [ "SelectPosition", "dd/d42/a14334.html#a4d35d972cafccf892bfd3adb255e1c5b", null ],
+    [ "SetPlayerGUID", "dd/d42/a14334.html#ab4b115eb02ce96996e06cafd8a1cd867", null ],
+    [ "SpellHit", "dd/d42/a14334.html#a93a6b9ebbda5685a5d2caa1bc9e06941", null ],
+    [ "UpdateAI", "dd/d42/a14334.html#a2c3431cab03347f3f64c95742b2f5a35", null ],
+    [ "counter", "dd/d42/a14334.html#a165c1c1a406256f5651fb01ef6843531", null ],
+    [ "maxCount", "dd/d42/a14334.html#aaf046d64175bcd1382e475843128a139", null ],
+    [ "playerGUID", "dd/d42/a14334.html#ad25b68318dc06ad9c835e81b73d4a766", null ],
+    [ "posVec", "dd/d42/a14334.html#a72a71ea9db5c4f3aeb3edca285f94935", null ],
+    [ "startTimer", "dd/d42/a14334.html#a7bbd7251f3cf0ad46c8584b42b41ea6d", null ],
+    [ "teleTimer", "dd/d42/a14334.html#a22190728dc2b82db70eeb0caa8531647", null ]
 ];

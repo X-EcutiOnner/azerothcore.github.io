@@ -1,7 +1,6 @@
 var a25030 =
 [
-    [ "HandleProc", "de/d69/a25030.html#ac88c41bcfcedd9194d9d3f958d605d37", null ],
-    [ "PrepareAuraScript", "de/d69/a25030.html#a66c3458e88ab5802e10445df3aeb52f6", null ],
-    [ "Register", "de/d69/a25030.html#af02b0af51a1fece0780414ab45c8d31e", null ],
-    [ "Validate", "de/d69/a25030.html#a9f955b53e5905cfb3742a58c8bedab96", null ]
+    [ "HandleScriptEffect", "de/d69/a25030.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
+    [ "PrepareSpellScript", "de/d69/a25030.html#a1d7e2beafb55464f928ea5904441d698", null ],
+    [ "Register", "de/d69/a25030.html#aeaa8321255f377b85884df25a455554f", null ]
 ];

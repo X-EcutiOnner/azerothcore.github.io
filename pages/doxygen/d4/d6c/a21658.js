@@ -1,7 +1,6 @@
 var a21658 =
 [
-    [ "FilterTargets", "d4/d6c/a21658.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "d4/d6c/a21658.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "d4/d6c/a21658.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "d4/d6c/a21658.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "npc_heated_battleAI", "d4/d6c/a21658.html#a2b73957d7890549f4b02488c5527fcef", null ],
+    [ "DamageTaken", "d4/d6c/a21658.html#a8422c157214195d7166ede35c9c05d19", null ],
+    [ "Reset", "d4/d6c/a21658.html#a11a4f3270ff260e30da89017dad38433", null ]
 ];

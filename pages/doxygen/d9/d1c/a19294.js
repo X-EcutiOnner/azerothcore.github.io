@@ -1,6 +1,6 @@
 var a19294 =
 [
-    [ "HandlePeriodic", "d9/d1c/a19294.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
-    [ "PrepareAuraScript", "d9/d1c/a19294.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
-    [ "Register", "d9/d1c/a19294.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
+    [ "npc_oculus_drakeAI", "d9/d1e/a19298.html", "d9/d1e/a19298" ],
+    [ "npc_oculus_drake", "d9/d1c/a19294.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
+    [ "GetAI", "d9/d1c/a19294.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
 ];

@@ -1,11 +1,5 @@
 var a26938 =
 [
-    [ "npc_dream_fogAI", "dd/d99/a26938.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
-    [ "GetRandomUnitFromDragonThreatList", "dd/d99/a26938.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
-    [ "Reset", "dd/d99/a26938.html#a595eeeae54d4bf323287fc408f706ac6", null ],
-    [ "ScheduleEvents", "dd/d99/a26938.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
-    [ "SetGUID", "dd/d99/a26938.html#aa223fc3eaa1096d0bad578a88b81ab7e", null ],
-    [ "UpdateAI", "dd/d99/a26938.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
-    [ "_dragonGUID", "dd/d99/a26938.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
-    [ "_targetGUID", "dd/d99/a26938.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
+    [ "AreaTrigger_at_voltarus_middle", "dd/d99/a26938.html#a45ca444350fe4cfde02ab33da4ce8466", null ],
+    [ "OnTrigger", "dd/d99/a26938.html#a296b300feb6cf999e9e2c2625a911e9b", null ]
 ];

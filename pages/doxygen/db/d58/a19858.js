@@ -1,5 +1,6 @@
 var a19858 =
 [
-    [ "achievement_flame_leviathan_unbroken", "db/d58/a19858.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "db/d58/a19858.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
+    [ "OnPeriodic", "db/d58/a19858.html#a379c55df994c58932fef7e7a59fd8426", null ],
+    [ "PrepareAuraScript", "db/d58/a19858.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
+    [ "Register", "db/d58/a19858.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
 ];

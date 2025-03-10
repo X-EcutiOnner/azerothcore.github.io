@@ -1,7 +1,6 @@
 var a22790 =
 [
-    [ "npc_ashtongue_channeler", "df/dff/a22790.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "df/dff/a22790.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "df/dff/a22790.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "df/dff/a22790.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "boss_essence_of_angerAI", "d6/db8/a22794.html", "d6/db8/a22794" ],
+    [ "boss_essence_of_anger", "df/dff/a22790.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "df/dff/a22790.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

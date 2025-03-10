@@ -1,6 +1,8 @@
 var a21342 =
 [
-    [ "npc_iruk", "d5/d6f/a21342.html#a721aeefd23371cc6bc16738a797bf50a", null ],
-    [ "OnGossipHello", "d5/d6f/a21342.html#a774669099330c75ab5e0bea8d460f517", null ],
-    [ "OnGossipSelect", "d5/d6f/a21342.html#ae6f7d54d224488a9e29c59c560eba471", null ]
+    [ "npc_azure_captainAI", "d5/d6f/a21342.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
+    [ "Reset", "d5/d6f/a21342.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
+    [ "UpdateAI", "d5/d6f/a21342.html#ae50ac21138e12be43caa93e37062051e", null ],
+    [ "uiMortalStrikeTimer", "d5/d6f/a21342.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
+    [ "uiWhirlwindTimer", "d5/d6f/a21342.html#a2e3439976a6e84a60be765cb0b929798", null ]
 ];

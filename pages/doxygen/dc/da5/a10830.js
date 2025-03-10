@@ -1,9 +1,6 @@
 var a10830 =
 [
-    [ "TotemCreated", "dc/da5/a10830.html#a24c9e483d1edb526330311c719d750df", null ],
-    [ "Write", "dc/da5/a10830.html#a554900ae7442f00a63c983ea7ea74510", null ],
-    [ "Duration", "dc/da5/a10830.html#aff6335b86ac051bccb623124905c7180", null ],
-    [ "Slot", "dc/da5/a10830.html#a0889c816fbef728f1a0a6c530c801eac", null ],
-    [ "SpellID", "dc/da5/a10830.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
-    [ "Totem", "dc/da5/a10830.html#a684d15c5368e8065c78e9320eebb676b", null ]
+    [ "DismissCritter", "dc/da5/a10830.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "dc/da5/a10830.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "dc/da5/a10830.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

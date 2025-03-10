@@ -1,6 +1,6 @@
 var a11898 =
 [
-    [ "boss_gloomrel", "df/deb/a11898.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
-    [ "OnGossipHello", "df/deb/a11898.html#a6ce6898142d767a130ec09769f2be488", null ],
-    [ "OnGossipSelect", "df/deb/a11898.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
+    [ "boss_magmusAI", "dd/d8e/a11902.html", "dd/d8e/a11902" ],
+    [ "boss_magmus", "df/deb/a11898.html#a97747c0d7e1fd33204033d6061d6d570", null ],
+    [ "GetAI", "df/deb/a11898.html#a171bc08a8dd9fa502f3b2b6cf736fd52", null ]
 ];

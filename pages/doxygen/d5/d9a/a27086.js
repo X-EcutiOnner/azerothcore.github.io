@@ -1,6 +1,6 @@
 var a27086 =
 [
-    [ "go_pirate_day_musicAI", "d8/d71/a27090.html", "d8/d71/a27090" ],
-    [ "go_pirate_day_music", "d5/d9a/a27086.html#aa8d19102357639bd160eae9e90a87505", null ],
-    [ "GetAI", "d5/d9a/a27086.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
+    [ "go_tadpole_cageAI", "d8/d71/a27090.html", "d8/d71/a27090" ],
+    [ "go_tadpole_cage", "d5/d9a/a27086.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "d5/d9a/a27086.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

@@ -1,7 +1,6 @@
 var a17822 =
 [
-    [ "HandleScript", "db/d96/a17822.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
-    [ "PrepareSpellScript", "db/d96/a17822.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
-    [ "Register", "db/d96/a17822.html#a2278ecef3dc60082ccb8964a34e55587", null ],
-    [ "Validate", "db/d96/a17822.html#aeee94330ee7ea9b4fd7447e642404119", null ]
+    [ "boss_rotfaceAI", "dc/df6/a17826.html", "dc/df6/a17826" ],
+    [ "boss_rotface", "db/d96/a17822.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "db/d96/a17822.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

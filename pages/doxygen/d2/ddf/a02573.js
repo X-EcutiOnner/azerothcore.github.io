@@ -1,5 +1,5 @@
 var a02573 =
 [
-    [ "quest_commandscript", "d6/dae/a11668.html", "d6/dae/a11668" ],
-    [ "AddSC_quest_commandscript", "d2/ddf/a02573.html#ae9edb5f21eaacbfd73cc01543cb2fcdd", null ]
+    [ "player_settings_commandscript", "dc/d36/a11682.html", "dc/d36/a11682" ],
+    [ "AddSC_player_settings_commandscript", "d2/ddf/a02573.html#a366685affd5565d164c65f8cd4a20b61", null ]
 ];

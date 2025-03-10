@@ -1,7 +1,9 @@
 var a25834 =
 [
-    [ "HandleKnockBack", "d7/da8/a25834.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
-    [ "PrepareSpellScript", "d7/da8/a25834.html#ab951d6403188f178f79311cead8a0a8f", null ],
-    [ "Register", "d7/da8/a25834.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
-    [ "Validate", "d7/da8/a25834.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
+    [ "HandleAfterCast", "d7/da8/a25834.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "d7/da8/a25834.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "d7/da8/a25834.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "d7/da8/a25834.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "d7/da8/a25834.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "d7/da8/a25834.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

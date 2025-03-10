@@ -1,20 +1,39 @@
 var a03230 =
 [
-    [ "npc_partygoer_pather", "d3/d47/a13428.html", "d3/d47/a13428" ],
-    [ "npc_partygoer", "df/d95/a13432.html", "df/d95/a13432" ],
-    [ "Partygoer", "df/dc9/a03230.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
-      [ "EVENT_RANDOM_ACTION", "df/dc9/a03230.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
-      [ "EVENT_REMOVE_EQUIPMENT", "df/dc9/a03230.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
-      [ "EVENT_STOP_DANCING", "df/dc9/a03230.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
-      [ "EVENT_THROW_FIREWORKS", "df/dc9/a03230.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
-      [ "EVENT_RESET_FACING", "df/dc9/a03230.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
-      [ "GO_FIREWORKS_LAUNCHER", "df/dc9/a03230.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
+    [ "npc_lord_gregor_lescovar", "d1/d68/a13538.html", "d1/d68/a13538" ],
+    [ "npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI", "d0/d46/a13542.html", "d0/d46/a13542" ],
+    [ "npc_marzon_silent_blade", "dd/de2/a13546.html", "dd/de2/a13546" ],
+    [ "npc_marzon_silent_blade::npc_marzon_silent_bladeAI", "d1/d8d/a13550.html", "d1/d8d/a13550" ],
+    [ "npc_tyrion_spybot", "d3/d18/a13554.html", "d3/d18/a13554" ],
+    [ "npc_tyrion_spybot::npc_tyrion_spybotAI", "dd/d9c/a13558.html", "dd/d9c/a13558" ],
+    [ "npc_tyrion", "d5/d41/a13562.html", "d5/d41/a13562" ],
+    [ "LordGregorLescovar", "df/dc9/a03230.html#a1e4dca432ca60e815b6e871483cbe4e7", [
+      [ "SAY_GUARD_2", "df/dc9/a03230.html#a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91", null ],
+      [ "SAY_LESCOVAR_2", "df/dc9/a03230.html#a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603", null ],
+      [ "SAY_LESCOVAR_3", "df/dc9/a03230.html#a1e4dca432ca60e815b6e871483cbe4e7ab0afa663e4044b81b4b05e29a88cd45a", null ],
+      [ "SAY_LESCOVAR_4", "df/dc9/a03230.html#a1e4dca432ca60e815b6e871483cbe4e7a560401a00335748429691c21614a4c76", null ],
+      [ "SAY_MARZON_1", "df/dc9/a03230.html#a1e4dca432ca60e815b6e871483cbe4e7ad19de95b33b84ba449bdc585d534f3bb", null ],
+      [ "SAY_MARZON_2", "df/dc9/a03230.html#a1e4dca432ca60e815b6e871483cbe4e7aafffef47f5909f07b5aa3b77975ec171", null ],
+      [ "SAY_TYRION_2", "df/dc9/a03230.html#a1e4dca432ca60e815b6e871483cbe4e7a83253082d516a61481fa2396e8e421db", null ],
+      [ "NPC_STORMWIND_ROYAL", "df/dc9/a03230.html#a1e4dca432ca60e815b6e871483cbe4e7af9d88994485cf4511078f883c1db22db", null ],
+      [ "NPC_MARZON_BLADE", "df/dc9/a03230.html#a1e4dca432ca60e815b6e871483cbe4e7a3100dd88fab725a47c86deb05c2a57cd", null ],
+      [ "NPC_TYRION", "df/dc9/a03230.html#a1e4dca432ca60e815b6e871483cbe4e7a87ee81f943a1bcb5ee89b1c646035696", null ],
+      [ "QUEST_THE_ATTACK", "df/dc9/a03230.html#a1e4dca432ca60e815b6e871483cbe4e7a2035fa37d7029761409d06dfdbfcfc68", null ]
     ] ],
-    [ "Partygoer_Pather", "df/dc9/a03230.html#a3222d14ce03d75912e65560ebf2a961b", [
-      [ "EVENT_PATH", "df/dc9/a03230.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
-      [ "EVENT_RANDOM_ACTION_PATHER", "df/dc9/a03230.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
-      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "df/dc9/a03230.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
-      [ "EVENT_STOP_DANCING_PATHER", "df/dc9/a03230.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
+    [ "Tyrion", "df/dc9/a03230.html#affa30c579e72ac17979d6590547e9cde", [
+      [ "NPC_TYRION_SPYBOT", "df/dc9/a03230.html#affa30c579e72ac17979d6590547e9cdeaa7d8f055bd91fb38ec823e32df381407", null ]
     ] ],
-    [ "AddSC_eversong_woods", "df/dc9/a03230.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
+    [ "TyrionSpybot", "df/dc9/a03230.html#ab61d02c4c07338130c8927cc8120aa82", [
+      [ "SAY_QUEST_ACCEPT_ATTACK", "df/dc9/a03230.html#ab61d02c4c07338130c8927cc8120aa82aeec93897a6676c7262cd237a03b3c75c", null ],
+      [ "SAY_SPYBOT_1", "df/dc9/a03230.html#ab61d02c4c07338130c8927cc8120aa82a5f538e2baf878a43cdc9d1856e978372", null ],
+      [ "SAY_SPYBOT_2", "df/dc9/a03230.html#ab61d02c4c07338130c8927cc8120aa82a93f30c745248ddf8f06e9acd6152a8dc", null ],
+      [ "SAY_SPYBOT_3", "df/dc9/a03230.html#ab61d02c4c07338130c8927cc8120aa82af13ce48c683aa75a00cdecd473e15566", null ],
+      [ "SAY_SPYBOT_4", "df/dc9/a03230.html#ab61d02c4c07338130c8927cc8120aa82a461198cb836bfd590945213473abfea9", null ],
+      [ "SAY_TYRION_1", "df/dc9/a03230.html#ab61d02c4c07338130c8927cc8120aa82a0124003837e7afa98fe1fd7385e021b8", null ],
+      [ "SAY_GUARD_1", "df/dc9/a03230.html#ab61d02c4c07338130c8927cc8120aa82a97779823d343820b34531f4b2e3a88c5", null ],
+      [ "SAY_LESCOVAR_1", "df/dc9/a03230.html#ab61d02c4c07338130c8927cc8120aa82abdb322c060b497308c09f195091521fb", null ],
+      [ "NPC_PRIESTESS_TYRIONA", "df/dc9/a03230.html#ab61d02c4c07338130c8927cc8120aa82a1dae5d8b98957d3a79a37b8a5d200537", null ],
+      [ "NPC_LORD_GREGOR_LESCOVAR", "df/dc9/a03230.html#ab61d02c4c07338130c8927cc8120aa82a51dc64fb93f3e5982bfd7746b6d359ea", null ]
+    ] ],
+    [ "AddSC_stormwind_city", "df/dc9/a03230.html#ac865e7add4724f06be48735f6bf1a542", null ]
 ];

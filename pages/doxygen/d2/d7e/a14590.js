@@ -1,6 +1,6 @@
 var a14590 =
 [
-    [ "npc_crate_helperAI", "d2/d7e/a14590.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "d2/d7e/a14590.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "d2/d7e/a14590.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "boss_mal_ganisAI", "d6/d56/a14594.html", "d6/d56/a14594" ],
+    [ "boss_mal_ganis", "d2/d7e/a14590.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "d2/d7e/a14590.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

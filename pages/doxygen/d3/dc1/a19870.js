@@ -1,6 +1,6 @@
 var a19870 =
 [
-    [ "boss_freya_elder_stonebarkAI", "d6/da2/a19874.html", "d6/da2/a19874" ],
-    [ "boss_freya_elder_stonebark", "d3/dc1/a19870.html#a9c90c504d78456580ae657a42fac4075", null ],
-    [ "GetAI", "d3/dc1/a19870.html#a0b529bb8755c56046c40b620ef4b7448", null ]
+    [ "CheckAreaTarget", "d3/dc1/a19870.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "d3/dc1/a19870.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "d3/dc1/a19870.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

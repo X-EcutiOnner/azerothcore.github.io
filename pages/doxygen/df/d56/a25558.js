@@ -1,6 +1,6 @@
 var a25558 =
 [
-    [ "HandleScript", "df/d56/a25558.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
-    [ "PrepareSpellScript", "df/d56/a25558.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
-    [ "Register", "df/d56/a25558.html#ad75843039e582b64da28b4818f48aeb3", null ]
+    [ "HandleEffectApply", "df/d56/a25558.html#a9e8b226f3ebb33c47de584850643994f", null ],
+    [ "PrepareAuraScript", "df/d56/a25558.html#a30b74d44bb81a04ea1cfe1b6d5f926c7", null ],
+    [ "Register", "df/d56/a25558.html#a1d3d32c057877b5cf00f5970e583c25e", null ]
 ];

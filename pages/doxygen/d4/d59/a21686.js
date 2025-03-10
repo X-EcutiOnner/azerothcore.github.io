@@ -1,6 +1,6 @@
 var a21686 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "d7/d36/a21690.html", "d7/d36/a21690" ],
-    [ "npc_commander_eligor_dawnbringer", "d4/d59/a21686.html#a71d919af98464d6d63f948507f3ff08c", null ],
-    [ "GetAI", "d4/d59/a21686.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
+    [ "SACActivateEvent", "d4/d59/a21686.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
+    [ "Execute", "d4/d59/a21686.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
+    [ "_owner", "d4/d59/a21686.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
 ];

@@ -1,6 +1,6 @@
 var a22854 =
 [
-    [ "PrepareSpellScript", "db/d08/a22854.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
-    [ "Register", "db/d08/a22854.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
-    [ "RemoveSpines", "db/d08/a22854.html#a076b056328ba6181a6ec907f21258f9d", null ]
+    [ "npc_supremus_punch_invisible_stalker", "db/d08/a22854.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "db/d08/a22854.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "db/d08/a22854.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

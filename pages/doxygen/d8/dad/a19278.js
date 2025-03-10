@@ -1,7 +1,6 @@
 var a19278 =
 [
-    [ "HandleProc", "d8/dad/a19278.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "d8/dad/a19278.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "d8/dad/a19278.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "d8/dad/a19278.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "instance_oculus_InstanceMapScript", "d6/d68/a19282.html", "d6/d68/a19282" ],
+    [ "instance_oculus", "d8/dad/a19278.html#a404205ea7106531ea57307c40b9589bb", null ],
+    [ "GetInstanceScript", "d8/dad/a19278.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
 ];

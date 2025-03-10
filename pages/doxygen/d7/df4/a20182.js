@@ -1,6 +1,12 @@
 var a20182 =
 [
-    [ "boss_kologarn_eyebeamAI", "de/d0a/a20186.html", "de/d0a/a20186" ],
-    [ "boss_kologarn_eyebeam", "d7/df4/a20182.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
-    [ "GetAI", "d7/df4/a20182.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
+    [ "npc_ulduar_iron_constructAI", "d7/df4/a20182.html#ab81224d24ab1925cde97ab76c2a514d1", null ],
+    [ "DamageTaken", "d7/df4/a20182.html#a5235538b755dd83615d80a1f7d0ec1b9", null ],
+    [ "JustDied", "d7/df4/a20182.html#a5b8e1c38257fc13c59bcaf8cb251fee2", null ],
+    [ "JustReachedHome", "d7/df4/a20182.html#a12416ffe731f96a1ca2949d995eb909c", null ],
+    [ "MoveInLineOfSight", "d7/df4/a20182.html#a12b228a1edb9460ddcb2b8232bb8209e", null ],
+    [ "Reset", "d7/df4/a20182.html#ac6dba374d72247be14923aa54898b9b5", null ],
+    [ "SpellHit", "d7/df4/a20182.html#a10a5444576af84ae50ad8af930ed5970", null ],
+    [ "UpdateAI", "d7/df4/a20182.html#ac5aabd4a48b6a2f5057eb5ee8a8c99f8", null ],
+    [ "timer", "d7/df4/a20182.html#ae1996cf79f8a82df7fe02cd60e5ce3a4", null ]
 ];

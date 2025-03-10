@@ -1,6 +1,6 @@
 var a12374 =
 [
-    [ "boss_ragnarosAI", "dd/d40/a12378.html", "dd/d40/a12378" ],
-    [ "boss_ragnaros", "db/da1/a12374.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5", null ],
-    [ "GetAI", "db/da1/a12374.html#af54e36608e160811ca06952fd2c63f6e", null ]
+    [ "boss_magmadarAI", "db/da1/a12374.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
+    [ "ExecuteEvent", "db/da1/a12374.html#a7d4c1807cb320fdc331057209a4ce166", null ],
+    [ "JustEngagedWith", "db/da1/a12374.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
 ];

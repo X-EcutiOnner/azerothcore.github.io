@@ -1,9 +1,5 @@
 var a26954 =
 [
-    [ "boss_lethonAI", "d2/ddb/a26954.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "d2/ddb/a26954.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "d2/ddb/a26954.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "d2/ddb/a26954.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "d2/ddb/a26954.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "d2/ddb/a26954.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "d2/ddb/a26954.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "d2/ddb/a26954.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

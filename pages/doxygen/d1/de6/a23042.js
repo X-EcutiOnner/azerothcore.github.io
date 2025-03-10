@@ -1,5 +1,6 @@
 var a23042 =
 [
-    [ "go_strange_pool", "d1/de6/a23042.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "d1/de6/a23042.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "HandleScriptEffect", "d1/de6/a23042.html#a62ed9bff154c5aab74e044f8f9982263", null ],
+    [ "PrepareSpellScript", "d1/de6/a23042.html#a0e87265cf22ef8b4e302b8e216123395", null ],
+    [ "Register", "d1/de6/a23042.html#a0d722447d91991462245e8b392d20e10", null ]
 ];

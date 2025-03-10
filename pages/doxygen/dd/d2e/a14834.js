@@ -1,6 +1,7 @@
 var a14834 =
 [
-    [ "HandleScript", "dd/d2e/a14834.html#a7e6ec873a252106ba865bdef05f757f5", null ],
-    [ "PrepareSpellScript", "dd/d2e/a14834.html#a98e80c8726c350aca850b6c87c5861da", null ],
-    [ "Register", "dd/d2e/a14834.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
+    [ "HandleScript", "dd/d2e/a14834.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "dd/d2e/a14834.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "dd/d2e/a14834.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "dd/d2e/a14834.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

@@ -1,6 +1,7 @@
 var a17798 =
 [
-    [ "npc_big_oozeAI", "d5/d9c/a17802.html", "d5/d9c/a17802" ],
-    [ "npc_big_ooze", "d4/db2/a17798.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
-    [ "GetAI", "d4/db2/a17798.html#ad06308602d69b51ff3f269bda6c465b5", null ]
+    [ "HandleSummon", "d4/db2/a17798.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
+    [ "PrepareSpellScript", "d4/db2/a17798.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
+    [ "Register", "d4/db2/a17798.html#a01281869dc98a0af5027695391f1221f", null ],
+    [ "Validate", "d4/db2/a17798.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
 ];

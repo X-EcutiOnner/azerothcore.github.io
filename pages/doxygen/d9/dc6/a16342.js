@@ -1,7 +1,6 @@
 var a16342 =
 [
-    [ "HandleDispel", "d9/dc6/a16342.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "d9/dc6/a16342.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "d9/dc6/a16342.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "d9/dc6/a16342.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "npc_toc_rogueAI", "da/db0/a16346.html", "da/db0/a16346" ],
+    [ "npc_toc_rogue", "d9/dc6/a16342.html#a925840be9698e381358235a827c20b8a", null ],
+    [ "GetAI", "d9/dc6/a16342.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
 ];

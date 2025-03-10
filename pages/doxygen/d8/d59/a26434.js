@@ -1,6 +1,6 @@
 var a26434 =
 [
-    [ "HandleRemove", "d8/d59/a26434.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "d8/d59/a26434.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "d8/d59/a26434.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "CheckProc", "d8/d59/a26434.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
+    [ "PrepareAuraScript", "d8/d59/a26434.html#af15109e926eb717c3f3cb2f7f617428c", null ],
+    [ "Register", "d8/d59/a26434.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
 ];

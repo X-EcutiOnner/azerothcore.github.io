@@ -1,5 +1,5 @@
 var a26866 =
 [
-    [ "achievement_not_even_a_scratch", "df/dfc/a26866.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "df/dfc/a26866.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "achievement_bg_control_all_nodes", "df/dfc/a26866.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "df/dfc/a26866.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

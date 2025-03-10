@@ -1,7 +1,9 @@
 var a26458 =
 [
-    [ "CheckProc", "de/d10/a26458.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
-    [ "HandleProc", "de/d10/a26458.html#a91ee1b654a3a26e027407635a45b80b3", null ],
-    [ "PrepareAuraScript", "de/d10/a26458.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
-    [ "Register", "de/d10/a26458.html#ab06a732203303d5533bdc4b217640d2d", null ]
+    [ "Absorb", "de/d10/a26458.html#a22b175a7a07f950b5be1aad60e096e4f", null ],
+    [ "CalculateAmount", "de/d10/a26458.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6", null ],
+    [ "Load", "de/d10/a26458.html#acf7851d34fa2368c9e711e8b3943c09b", null ],
+    [ "PrepareAuraScript", "de/d10/a26458.html#ac273b669dc396561d9ec8b523659363f", null ],
+    [ "Register", "de/d10/a26458.html#a656f4770b0f7099f5926a8063f7d740c", null ],
+    [ "absorbPct", "de/d10/a26458.html#a31d7ca52ace4e22652403292969baf55", null ]
 ];

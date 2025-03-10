@@ -1,10 +1,10 @@
 var a26014 =
 [
-    [ "Absorb", "db/dc9/a26014.html#ab4006b00d415a94e6a49856cee7e272b", null ],
-    [ "CalculateAmount", "db/dc9/a26014.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
-    [ "Load", "db/dc9/a26014.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
-    [ "PrepareAuraScript", "db/dc9/a26014.html#a456c1bd5b284f642d1e040de52eee24b", null ],
-    [ "Register", "db/dc9/a26014.html#a905994099dcc4ac9512d5f27b78a778c", null ],
-    [ "Validate", "db/dc9/a26014.html#ad99966111a1919c610a942a8eb133ea1", null ],
-    [ "healPct", "db/dc9/a26014.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
+    [ "spell_pal_judgement", "db/dc9/a26014.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "db/dc9/a26014.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "db/dc9/a26014.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "db/dc9/a26014.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "SealApplication", "db/dc9/a26014.html#a0bb55f122d560c70f416e448d03d2184", null ],
+    [ "Validate", "db/dc9/a26014.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "db/dc9/a26014.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

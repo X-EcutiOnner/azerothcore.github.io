@@ -1,7 +1,21 @@
 var a09518 =
 [
-    [ "AddonHandler", "d4/d61/a09518.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
-    [ "~AddonHandler", "d4/d61/a09518.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
-    [ "BuildAddonPacket", "d4/d61/a09518.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
-    [ "instance", "d4/d61/a09518.html#a2925b829b803dd07e96685086357ef85", null ]
+    [ "BankTab", "d4/d61/a09518.html#a4cc137e35b63b86c5d436e6bc15ad590", null ],
+    [ "Delete", "d4/d61/a09518.html#a834715b072cf26a56933a971de7bdde4", null ],
+    [ "GetIcon", "d4/d61/a09518.html#a2406a477fff518690b1a9656d0c2129b", null ],
+    [ "GetItem", "d4/d61/a09518.html#a9c5baa8eb92520b73c646488e3b38caa", null ],
+    [ "GetName", "d4/d61/a09518.html#a0360f82663e5f9e073bcb28affcdf0b3", null ],
+    [ "GetText", "d4/d61/a09518.html#ace1887dd0ef166be4fc6f8cb894d80b3", null ],
+    [ "LoadFromDB", "d4/d61/a09518.html#a016c23dc9710058e969ccfc51501afd6", null ],
+    [ "LoadItemFromDB", "d4/d61/a09518.html#aa7bd9e67c6685878fa7bf158c09fae51", null ],
+    [ "SendText", "d4/d61/a09518.html#ac3ca58dcc1997788226c6fe0d5b690c7", null ],
+    [ "SetInfo", "d4/d61/a09518.html#afb645aa2e4219558eb2f493782804657", null ],
+    [ "SetItem", "d4/d61/a09518.html#a3013ae191efb43063162f4cbb5508392", null ],
+    [ "SetText", "d4/d61/a09518.html#a5945b66216eebcb4ac68a6e429c15972", null ],
+    [ "m_guildId", "d4/d61/a09518.html#abc272a367b69a90207dbf10580a55038", null ],
+    [ "m_icon", "d4/d61/a09518.html#a25217a0d4f9dc91c853f7007f63f140b", null ],
+    [ "m_items", "d4/d61/a09518.html#a80cc2a64638722401276263d01e5ee27", null ],
+    [ "m_name", "d4/d61/a09518.html#a5555e808bc4597ad9a74e69b95e56149", null ],
+    [ "m_tabId", "d4/d61/a09518.html#ab055a2b7500c83c96a78c396dc60588a", null ],
+    [ "m_text", "d4/d61/a09518.html#afc7ac5ed7c4c2d79170548fe061917eb", null ]
 ];

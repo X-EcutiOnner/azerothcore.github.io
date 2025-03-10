@@ -1,7 +1,6 @@
 var a16374 =
 [
-    [ "FilterTargets", "d0/d21/a16374.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "d0/d21/a16374.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "d0/d21/a16374.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "d0/d21/a16374.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_toc_pet_hunterAI", "d6/d9f/a16378.html", "d6/d9f/a16378" ],
+    [ "npc_toc_pet_hunter", "d0/d21/a16374.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "d0/d21/a16374.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

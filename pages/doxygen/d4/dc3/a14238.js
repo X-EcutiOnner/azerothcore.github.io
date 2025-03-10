@@ -1,10 +1,7 @@
 var a14238 =
 [
-    [ "boss_headless_horseman_pumpkin", "d4/dc3/a14238.html#a62191ae523401ac57a947db96a245f7a", null ],
-    [ "AttackStart", "d4/dc3/a14238.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
-    [ "MoveInLineOfSight", "d4/dc3/a14238.html#a212f9803f66d297cd276ef842247776a", null ],
-    [ "Reset", "d4/dc3/a14238.html#a9d5f6922a52146b61168f1c50b378294", null ],
-    [ "SpellHit", "d4/dc3/a14238.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
-    [ "UpdateAI", "d4/dc3/a14238.html#aca53b8839bce5e180ba8583490d694c3", null ],
-    [ "timer", "d4/dc3/a14238.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
+    [ "HandleEffectApply", "d4/dc3/a14238.html#a22f3143b10155635194abe22994a397c", null ],
+    [ "HandleEffectRemove", "d4/dc3/a14238.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
+    [ "PrepareAuraScript", "d4/dc3/a14238.html#abb4f53a42e701323b2fc66598ec3503c", null ],
+    [ "Register", "d4/dc3/a14238.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
 ];

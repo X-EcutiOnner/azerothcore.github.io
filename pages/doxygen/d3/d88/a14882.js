@@ -1,7 +1,6 @@
 var a14882 =
 [
-    [ "npc_hivezara_stinger", "d3/d88/a14882.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "d3/d88/a14882.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "d3/d88/a14882.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "d3/d88/a14882.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "go_ossirian_crystalAI", "d9/dc7/a14886.html", "d9/dc7/a14886" ],
+    [ "go_ossirian_crystal", "d3/d88/a14882.html#a783f0f0570ee0f667920e29613b565b2", null ],
+    [ "GetAI", "d3/d88/a14882.html#a2f7b12eddc6504917614913e347ec0a0", null ]
 ];

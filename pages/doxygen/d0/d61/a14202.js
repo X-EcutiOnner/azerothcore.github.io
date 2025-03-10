@@ -1,6 +1,11 @@
 var a14202 =
 [
-    [ "HandleScript", "d0/d61/a14202.html#a4077b809530d28bed0a9419b5a745f42", null ],
-    [ "PrepareSpellScript", "d0/d61/a14202.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
-    [ "Register", "d0/d61/a14202.html#ac09b1c86655eef0febaccff86533b28f", null ]
+    [ "o", "d0/d61/a14202.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
+    [ "rot0", "d0/d61/a14202.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
+    [ "rot1", "d0/d61/a14202.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
+    [ "rot2", "d0/d61/a14202.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
+    [ "rot3", "d0/d61/a14202.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
+    [ "x", "d0/d61/a14202.html#a6e527854cf0959995d6b0133dedc94c9", null ],
+    [ "y", "d0/d61/a14202.html#a7536047696bd4883237369976b503131", null ],
+    [ "z", "d0/d61/a14202.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
 ];

@@ -1,7 +1,7 @@
 var a20854 =
 [
-    [ "HandleEffectPeriodic", "de/da7/a20854.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
-    [ "PrepareAuraScript", "de/da7/a20854.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
-    [ "Register", "de/da7/a20854.html#a74052d7da1523b3c4010465510e5fe04", null ],
-    [ "Validate", "de/da7/a20854.html#a587a469c649877f80e8fe80062e8b5d4", null ]
+    [ "HandleScriptEffect", "de/da7/a20854.html#a173ee086127655cdfcca507fd5b15b2e", null ],
+    [ "PrepareSpellScript", "de/da7/a20854.html#a005d47b18a820c35ec596b5539db94eb", null ],
+    [ "Register", "de/da7/a20854.html#a20a0d554e80707c1517422cb747f38e8", null ],
+    [ "Validate", "de/da7/a20854.html#a5ca44686e26def56adc2b98d88145235", null ]
 ];

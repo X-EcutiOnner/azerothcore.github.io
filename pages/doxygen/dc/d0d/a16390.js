@@ -1,17 +1,16 @@
 var a16390 =
 [
-    [ "boss_gormokAI", "dc/d0d/a16390.html#aff3dab2b81e39198ca84330e6094aa8e", null ],
-    [ "DoAction", "dc/d0d/a16390.html#ac335bc89ad58f80a2e8db2dd8a31e2c9", null ],
-    [ "EnterEvadeMode", "dc/d0d/a16390.html#a244f37a3c6a1037100de20a074c74a63", null ],
-    [ "JustDied", "dc/d0d/a16390.html#a3fa8eb85ce94273b30f1f3d2de3527bd", null ],
-    [ "JustEngagedWith", "dc/d0d/a16390.html#a7310e20839a7a57f65d97c5d0b8fa796", null ],
-    [ "JustReachedHome", "dc/d0d/a16390.html#a3cec01072fe761e4b5141255eed08d9e", null ],
-    [ "JustSummoned", "dc/d0d/a16390.html#a5e2efeace2d5f6b58f023b4ff23d93cf", null ],
-    [ "MoveInLineOfSight", "dc/d0d/a16390.html#a278b8ce2e656a2e6e7882de87ec2ff9c", null ],
-    [ "Reset", "dc/d0d/a16390.html#a277293d51fbaa54f9deea49af7602ae2", null ],
-    [ "UpdateAI", "dc/d0d/a16390.html#adf5d8f5a9e275f12da122701f0606083", null ],
-    [ "events", "dc/d0d/a16390.html#ad74b771ba3f84e7dc5b038559c4e7bbb", null ],
-    [ "pInstance", "dc/d0d/a16390.html#a0421082f444bc4234012362b92cac132", null ],
-    [ "PlayerGUID", "dc/d0d/a16390.html#ac3cddf6197c638289f6841740b78bd88", null ],
-    [ "summons", "dc/d0d/a16390.html#a84c1fa0cc33bee6747fa9b4f0517cdc8", null ]
+    [ "boss_jaraxxusAI", "dc/d0d/a16390.html#af05dd6ee301cfe4fdfbc511b07f21b48", null ],
+    [ "EnterEvadeMode", "dc/d0d/a16390.html#a45fc8cbc3b1e59be8f13f1ebae73bfa1", null ],
+    [ "JustDied", "dc/d0d/a16390.html#a5fce156ec839c4799e3585e9674636c1", null ],
+    [ "JustEngagedWith", "dc/d0d/a16390.html#a59f21f25fbe83c9710ac6377753ce8d3", null ],
+    [ "JustReachedHome", "dc/d0d/a16390.html#a5961b5563c1d140f31a348a1ea8dc4ba", null ],
+    [ "JustSummoned", "dc/d0d/a16390.html#a6efea02e03c4d7e97c357afbc320b5bf", null ],
+    [ "MoveInLineOfSight", "dc/d0d/a16390.html#aee8b894518e9091f4e52c4048562d08a", null ],
+    [ "Reset", "dc/d0d/a16390.html#ad4a2bce95988f030387d74b5cf90f223", null ],
+    [ "SpellHit", "dc/d0d/a16390.html#a5103f7808134a67f06af4be1d848aa91", null ],
+    [ "UpdateAI", "dc/d0d/a16390.html#a5e733b9e5b63801a1ca2778e58fedb61", null ],
+    [ "events", "dc/d0d/a16390.html#a6aff4c78989d99d49d697e9900375e28", null ],
+    [ "pInstance", "dc/d0d/a16390.html#aa9d9cb25b827c48e1fd5cd8e75ac92a0", null ],
+    [ "summons", "dc/d0d/a16390.html#abeddfd1bb9b5391da578f794d6c618b7", null ]
 ];

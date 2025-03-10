@@ -1,8 +1,8 @@
 var a10734 =
 [
-    [ "CrossedInebriationThreshold", "d0/db7/a10734.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
-    [ "Write", "d0/db7/a10734.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
-    [ "Guid", "d0/db7/a10734.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
-    [ "ItemID", "d0/db7/a10734.html#a9e48a650bf21872099cdb0626e875fd7", null ],
-    [ "Threshold", "d0/db7/a10734.html#a87b756b64cbfb8f292f46cce38308095", null ]
+    [ "PlayObjectSound", "d0/db7/a10734.html#ab322044d36abddeb2fafbf99261bb70b", null ],
+    [ "PlayObjectSound", "d0/db7/a10734.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
+    [ "Write", "d0/db7/a10734.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
+    [ "SoundKitID", "d0/db7/a10734.html#a5e794706b8793d164a1189e9a6918735", null ],
+    [ "SourceObjectGUID", "d0/db7/a10734.html#a82b226eba66e569c1f377f529e511361", null ]
 ];

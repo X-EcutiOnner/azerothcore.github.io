@@ -1,8 +1,12 @@
 var a22474 =
 [
-    [ "boss_darkweaver_syth", "de/d43/a22474.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "de/d43/a22474.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "de/d43/a22474.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "de/d43/a22474.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "de/d43/a22474.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "boss_shirrak_the_dead_watcher", "de/d43/a22474.html#aaa6826de3b6563342b89544b38386d93", null ],
+    [ "EnterEvadeMode", "de/d43/a22474.html#a23768629c4ab48954880c3c29099f432", null ],
+    [ "getStackCount", "de/d43/a22474.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
+    [ "JustEngagedWith", "de/d43/a22474.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
+    [ "JustSummoned", "de/d43/a22474.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
+    [ "Reset", "de/d43/a22474.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
+    [ "SpellHitTarget", "de/d43/a22474.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
+    [ "UpdateAI", "de/d43/a22474.html#a855505f949f53f979187abcb5b2f617f", null ],
+    [ "focusGUID", "de/d43/a22474.html#a81a7eade42ef595c173d7828ce59ef88", null ]
 ];

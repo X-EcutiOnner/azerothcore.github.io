@@ -1,9 +1,8 @@
 var a27382 =
 [
-    [ "npc_chicken_cluckAI", "df/d1b/a27382.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "df/d1b/a27382.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "df/d1b/a27382.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "df/d1b/a27382.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "df/d1b/a27382.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "df/d1b/a27382.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "npc_elder_clearwaterAI", "dd/d50/a27386.html", "dd/d50/a27386" ],
+    [ "npc_elder_clearwater", "df/d1b/a27382.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "df/d1b/a27382.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "df/d1b/a27382.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "df/d1b/a27382.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

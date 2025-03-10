@@ -1,6 +1,6 @@
 var a12846 =
 [
-    [ "HandleScriptEffect", "d9/de7/a12846.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
-    [ "PrepareSpellScript", "d9/de7/a12846.html#ad110e0dba330acde845c47501256cf5d", null ],
-    [ "Register", "d9/de7/a12846.html#ab6971aa466055a1280cd258e26645157", null ]
+    [ "npc_unworthy_initiate_anchorAI", "d1/dc6/a12850.html", "d1/dc6/a12850" ],
+    [ "npc_unworthy_initiate_anchor", "d9/de7/a12846.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
+    [ "GetAI", "d9/de7/a12846.html#ab012983661d20a3ffa4f58136bd2d808", null ]
 ];

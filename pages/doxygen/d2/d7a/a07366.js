@@ -1,11 +1,9 @@
 var a07366 =
 [
-    [ "BattlegroundICScore", "d2/d7a/a07366.html#a3b8798fdb479885fbe4b7cecb2f84f68", null ],
-    [ "BuildObjectivesBlock", "d2/d7a/a07366.html#a4a10d0be9c318048feb4e76ffae9472c", null ],
-    [ "GetAttr1", "d2/d7a/a07366.html#af6c42bbd1b8f3f94fe838ce5df610a80", null ],
-    [ "GetAttr2", "d2/d7a/a07366.html#a758fa51038f232c7d65cd0168a4608c2", null ],
-    [ "UpdateScore", "d2/d7a/a07366.html#a690ede108b8ce8dfa45a2b7457e53a3c", null ],
-    [ "BattlegroundIC", "d2/d7a/a07366.html#a2d7503354e4bdce9f2a06d48b649da2f", null ],
-    [ "BasesAssaulted", "d2/d7a/a07366.html#a5050b80f9d1855cb8b97830f9e80124f", null ],
-    [ "BasesDefended", "d2/d7a/a07366.html#a70c2965b6b1e99239e0dcc1c03ccb552", null ]
+    [ "entry", "d2/d7a/a07366.html#a4c6980a035279ca45e88a2ddc0beb0b5", null ],
+    [ "o", "d2/d7a/a07366.html#a785703f50dcafda5888fb76af82a09da", null ],
+    [ "type", "d2/d7a/a07366.html#aa21624a51b1fbfc474d0c64f4996cb9b", null ],
+    [ "x", "d2/d7a/a07366.html#a55bd18cb9ea27748a07dd91f6783de23", null ],
+    [ "y", "d2/d7a/a07366.html#a908fbf198d908963e77630b42deea147", null ],
+    [ "z", "d2/d7a/a07366.html#a4a49f5cbb58764ea9c137fc010e898c6", null ]
 ];

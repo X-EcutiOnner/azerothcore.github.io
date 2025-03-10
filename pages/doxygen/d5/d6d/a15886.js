@@ -1,6 +1,7 @@
 var a15886 =
 [
-    [ "boss_general_zarithrianAI", "d8/dad/a15890.html", "d8/dad/a15890" ],
-    [ "boss_general_zarithrian", "d5/d6d/a15886.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
-    [ "GetAI", "d5/d6d/a15886.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
+    [ "DelayedTalk", "d5/d6d/a15886.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "d5/d6d/a15886.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "d5/d6d/a15886.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "d5/d6d/a15886.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

@@ -1,13 +1,19 @@
 var a21502 =
 [
-    [ "npc_shandy_dalaranAI", "db/d00/a21502.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
-    [ "Reset", "db/d00/a21502.html#a38f0630d4e18cea01de343afdcb96db3", null ],
-    [ "RollTask", "db/d00/a21502.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
-    [ "SetData", "db/d00/a21502.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
-    [ "UpdateAI", "db/d00/a21502.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
-    [ "_aquanosGUID", "db/d00/a21502.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
-    [ "_canWash", "db/d00/a21502.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
-    [ "_events", "db/d00/a21502.html#a3fbae63669c8382097b0bcb936301945", null ],
-    [ "_lCount", "db/d00/a21502.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
-    [ "_lSource", "db/d00/a21502.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
+    [ "npc_thassarian2AI", "db/d00/a21502.html#ab1faae7ecc94a8781d5759de775ff9ba", null ],
+    [ "Cleanup", "db/d00/a21502.html#a26730ec8ec6180a0dd7798797ba8dcd6", null ],
+    [ "Initialize", "db/d00/a21502.html#aba9c197fb4ab9bb3fc63cf36e36747f5", null ],
+    [ "JustDied", "db/d00/a21502.html#aa6b70b2bc438ff98a0c1da7898dc4b9b", null ],
+    [ "MovementInform", "db/d00/a21502.html#abedd9b40189426c907473c5fb47d3a0d", null ],
+    [ "Reset", "db/d00/a21502.html#a1bee1fb354dbf4a08c5a8f3a88bbf044", null ],
+    [ "SetData", "db/d00/a21502.html#a7481081c44c4e092b700c449677da01f", null ],
+    [ "sGossipHello", "db/d00/a21502.html#a12cfc66cb8ac02dbc088110576ee2460", null ],
+    [ "sGossipSelect", "db/d00/a21502.html#a680dfc7280a3ef425de8b62eb38e6e21", null ],
+    [ "UpdateAI", "db/d00/a21502.html#a9a1e96659da31040d41a9898d7e59db5", null ],
+    [ "_arlosGUID", "db/d00/a21502.html#a6142b1e8045123a7eef1e546bda09943", null ],
+    [ "_arthasGUID", "db/d00/a21502.html#a0e9aff1cc0c5cb9c266916536782332f", null ],
+    [ "_events", "db/d00/a21502.html#a6b277a2de46cdeada7045b2b3826fd03", null ],
+    [ "_leryssaGUID", "db/d00/a21502.html#a489159972b4e0cce65d12477e1031fcd", null ],
+    [ "_playerGUID", "db/d00/a21502.html#af73af26991dcd12173a50883fe82627e", null ],
+    [ "_talbotGUID", "db/d00/a21502.html#af148fd3e767999c8ebd4aa3b6eff0d3b", null ]
 ];

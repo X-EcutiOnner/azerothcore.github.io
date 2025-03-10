@@ -1,9 +1,9 @@
 var a21518 =
 [
-    [ "npc_mageguard_dalaranAI", "d9/dbb/a21518.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
-    [ "AttackStart", "d9/dbb/a21518.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
-    [ "JustEngagedWith", "d9/dbb/a21518.html#aac463689ae5a488ec2acb8a0310689d8", null ],
-    [ "MoveInLineOfSight", "d9/dbb/a21518.html#aafb32462693e0efd9c80cf335f489754", null ],
-    [ "Reset", "d9/dbb/a21518.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
-    [ "UpdateAI", "d9/dbb/a21518.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
+    [ "npc_counselor_talbotAI", "d9/dbb/a21518.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
+    [ "JustDied", "d9/dbb/a21518.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
+    [ "JustEngagedWith", "d9/dbb/a21518.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
+    [ "Reset", "d9/dbb/a21518.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
+    [ "UpdateAI", "d9/dbb/a21518.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
+    [ "_events", "d9/dbb/a21518.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
 ];

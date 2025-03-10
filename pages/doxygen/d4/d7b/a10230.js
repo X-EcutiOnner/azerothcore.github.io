@@ -1,17 +1,15 @@
 var a10230 =
 [
-    [ "GameObjectScript", "d4/d7b/a10230.html#a9d9cf73435a16d7fef450134c03980bb", null ],
-    [ "GetAI", "d4/d7b/a10230.html#a05492473fa28c0f7c80770aa3445ce4e", null ],
-    [ "GetDialogStatus", "d4/d7b/a10230.html#ac526fbe66b9b1e9edca51f9fd20a40b9", null ],
-    [ "IsDatabaseBound", "d4/d7b/a10230.html#a020e07dfd6e99b55bf5c8e56cfdd3948", null ],
-    [ "OnDamaged", "d4/d7b/a10230.html#a2fb7d0f8f01ce083643bc0cb810fc612", null ],
-    [ "OnDestroyed", "d4/d7b/a10230.html#a042676e98453494ab49bb90216755052", null ],
-    [ "OnGameObjectStateChanged", "d4/d7b/a10230.html#a4992d88f026bf906852f085db4e8768e", null ],
-    [ "OnGossipHello", "d4/d7b/a10230.html#a58b56fc92ae87aea0530eceba1f3088d", null ],
-    [ "OnGossipSelect", "d4/d7b/a10230.html#a612884c70eed9c56958ab49dc1e2bb1f", null ],
-    [ "OnGossipSelectCode", "d4/d7b/a10230.html#ac9c9feb4d08ea0e5ad202ada205a9772", null ],
-    [ "OnLootStateChanged", "d4/d7b/a10230.html#ab93c178f2137e92da28665d28bfec1d5", null ],
-    [ "OnModifyHealth", "d4/d7b/a10230.html#a1ff457beae2b6249a9d3ecd08fd1b5a4", null ],
-    [ "OnQuestAccept", "d4/d7b/a10230.html#afd22217feca39340d68b9c7fd6c1caa8", null ],
-    [ "OnQuestReward", "d4/d7b/a10230.html#a233712ff412081583a8295cf512da48d", null ]
+    [ "CreatureScript", "d4/d7b/a10230.html#afa0053e299f9125cc288ea38652edecb", null ],
+    [ "GetAI", "d4/d7b/a10230.html#a24ba3529655943afdf6598450d14e6c2", null ],
+    [ "GetDialogStatus", "d4/d7b/a10230.html#a41562245c4a44843363d6b0ce32ce48d", null ],
+    [ "IsDatabaseBound", "d4/d7b/a10230.html#af19c64d23391f8b835f79bc6cf315caa", null ],
+    [ "OnFfaPvpStateUpdate", "d4/d7b/a10230.html#a316efb5c026588eb4bce8a0ce6b5cc0f", null ],
+    [ "OnGossipHello", "d4/d7b/a10230.html#a6268b132444845302ada504f48629a4f", null ],
+    [ "OnGossipSelect", "d4/d7b/a10230.html#a30f160576b4cb97d940ecf3468834667", null ],
+    [ "OnGossipSelectCode", "d4/d7b/a10230.html#ad99f4a96106b9dc5cf9c29304d781d6a", null ],
+    [ "OnQuestAccept", "d4/d7b/a10230.html#a6b106a237886f49e523ae7b07e9c5979", null ],
+    [ "OnQuestComplete", "d4/d7b/a10230.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b", null ],
+    [ "OnQuestReward", "d4/d7b/a10230.html#aba2be0f342cb9811bd0ebee954d7d36e", null ],
+    [ "OnQuestSelect", "d4/d7b/a10230.html#a1e054fb61dd560aa7718d59127ad4b51", null ]
 ];

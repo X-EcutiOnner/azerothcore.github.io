@@ -1,8 +1,10 @@
 var a23246 =
 [
-    [ "boss_the_black_stalker", "de/ddd/a23246.html#ac33519b374509cefe43b8e97701719ee", null ],
-    [ "JustEngagedWith", "de/ddd/a23246.html#ad118347103ec463a09492e81dbd61418", null ],
-    [ "JustSummoned", "de/ddd/a23246.html#a9e0299a99df83abb7de476a765b667b9", null ],
-    [ "SummonedCreatureDies", "de/ddd/a23246.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
-    [ "UpdateAI", "de/ddd/a23246.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
+    [ "boss_warlord_kalithresh", "de/ddd/a23246.html#afcf2288fbea2d5010c41344ce0247559", null ],
+    [ "JustDied", "de/ddd/a23246.html#a1947562aa9dafea371e2f2da824a3f65", null ],
+    [ "JustEngagedWith", "de/ddd/a23246.html#a2712f5c363c3929550b77ef2536b1385", null ],
+    [ "KilledUnit", "de/ddd/a23246.html#a06855288497f5335a236867ef681d3f8", null ],
+    [ "MoveInLineOfSight", "de/ddd/a23246.html#a544da19b6c3a6f159ed6b1639def1071", null ],
+    [ "Reset", "de/ddd/a23246.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
+    [ "_introDone", "de/ddd/a23246.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
 ];

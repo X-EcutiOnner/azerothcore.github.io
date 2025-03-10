@@ -1,10 +1,7 @@
 var a08786 =
 [
-    [ "MapType", "d5/d78/a08786.html#a8fa5f0aca9316901f42b2df8251c5a5d", null ],
-    [ "HashMapHolder", "d5/d78/a08786.html#ad10240097462af2a8a76c9429bd7cbca", null ],
-    [ "Find", "d5/d78/a08786.html#a314b4ce3265136fe326b909fe6ef6716", null ],
-    [ "GetContainer", "d5/d78/a08786.html#ad9dfe5d223496a379a4aec0fc12c42d9", null ],
-    [ "GetLock", "d5/d78/a08786.html#a52cc052c8d73d5b700c7f9253138942f", null ],
-    [ "Insert", "d5/d78/a08786.html#af5c618228c141e28ffa11468cfffb21a", null ],
-    [ "Remove", "d5/d78/a08786.html#a7b9c3761746641133d4a9837559c0bb0", null ]
+    [ "EquipementIdPrev", "d5/d78/a08786.html#a719c716f8914a200bfde4f5bb3275f26", null ],
+    [ "EquipmentId", "d5/d78/a08786.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
+    [ "ModelId", "d5/d78/a08786.html#ade2b2413020be410428b9fee9aa284d6", null ],
+    [ "ModelIdPrev", "d5/d78/a08786.html#a9de7aa11788b22692738b72718193057", null ]
 ];

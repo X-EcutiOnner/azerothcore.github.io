@@ -1,5 +1,4 @@
 var a02363 =
 [
-    [ "DispelList", "d9/d27/a02363.html#a711d5a2b2f8cbeb49153d9e33ea51bf1", null ],
-    [ "SpellEffects", "d9/d27/a02363.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
+    [ "GetTargetFlagMask", "d9/d27/a02363.html#adc898dfddc20010c41bb771b6d6f274e", null ]
 ];

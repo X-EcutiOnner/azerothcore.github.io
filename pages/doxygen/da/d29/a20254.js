@@ -1,6 +1,6 @@
 var a20254 =
 [
-    [ "npc_ulduar_aerial_command_unitAI", "de/d0e/a20258.html", "de/d0e/a20258" ],
-    [ "npc_ulduar_aerial_command_unit", "da/d29/a20254.html#ac0c1ecef78b92dd4ae072f6eeca9f733", null ],
-    [ "GetAI", "da/d29/a20254.html#a406e828a902d75bb1946fd8f5090044f", null ]
+    [ "HandleInstaKill", "da/d29/a20254.html#a593786eb89bf77e05dad4b502ffc1925", null ],
+    [ "PrepareSpellScript", "da/d29/a20254.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
+    [ "Register", "da/d29/a20254.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
 ];

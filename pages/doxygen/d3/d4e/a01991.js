@@ -1,12 +1,20 @@
 var a01991 =
 [
-    [ "AggressorAI", "df/d9b/a06024.html", "df/d9b/a06024" ],
-    [ "CombatAI", "d4/d91/a06028.html", "d4/d91/a06028" ],
-    [ "CasterAI", "d4/ddf/a06032.html", "d4/ddf/a06032" ],
-    [ "ArcherAI", "d6/d18/a06036.html", "d6/d18/a06036" ],
-    [ "TurretAI", "d5/d32/a06040.html", "d5/d32/a06040" ],
-    [ "VehicleAI", "d1/dc9/a06044.html", "d1/dc9/a06044" ],
-    [ "VEHICLE_CONDITION_CHECK_TIME", "d3/d4e/a01991.html#a2842973ff947088648cd327dc9e1d379", null ],
-    [ "VEHICLE_DISMISS_TIME", "d3/d4e/a01991.html#a9b232fec810abbe5eaf5536e608b6e38", null ],
-    [ "SpellVct", "d3/d4e/a01991.html#aef8ccdd14344d9c395d613c21bafd91e", null ]
+    [ "PetAI", "d2/d6d/a06086.html", "d2/d6d/a06086" ],
+    [ "SpecialPets", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cff", [
+      [ "ENTRY_IMP", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896", null ],
+      [ "ENTRY_WATER_ELEMENTAL", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5", null ],
+      [ "ENTRY_WATER_ELEMENTAL_PERM", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99", null ],
+      [ "IMP_FIREBOLT_RANK_1", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c", null ],
+      [ "IMP_FIREBOLT_RANK_2", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406", null ],
+      [ "IMP_FIREBOLT_RANK_3", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6", null ],
+      [ "IMP_FIREBOLT_RANK_4", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7", null ],
+      [ "IMP_FIREBOLT_RANK_5", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac", null ],
+      [ "IMP_FIREBOLT_RANK_6", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5", null ],
+      [ "IMP_FIREBOLT_RANK_7", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a", null ],
+      [ "IMP_FIREBOLT_RANK_8", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25", null ],
+      [ "IMP_FIREBOLT_RANK_9", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948", null ],
+      [ "WATER_ELEMENTAL_WATERBOLT_1", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffa1afbd4a095d65be61fa03e05a1c49e1d", null ],
+      [ "WATER_ELEMENTAL_WATERBOLT_2", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1", null ]
+    ] ]
 ];

@@ -1,9 +1,10 @@
 var a13162 =
 [
-    [ "npc_demonic_vapor_trail", "df/df0/a13162.html#a5bd024ea050372e982a183da59b45904", null ],
-    [ "JustSummoned", "df/df0/a13162.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
-    [ "Reset", "df/df0/a13162.html#a9da762ab640abfaf5092034f284239af", null ],
-    [ "SpellHitTarget", "df/df0/a13162.html#a21e2223f58156da2fbe1803554623ecd", null ],
-    [ "UpdateAI", "df/df0/a13162.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
-    [ "timer", "df/df0/a13162.html#ac73d55019f44f702843e22a442c2e432", null ]
+    [ "boss_alythess", "df/df0/a13162.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "DoAction", "df/df0/a13162.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
+    [ "JustDied", "df/df0/a13162.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
+    [ "JustEngagedWith", "df/df0/a13162.html#ac5047ee0124864304284c1142e885158", null ],
+    [ "KilledUnit", "df/df0/a13162.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
+    [ "Reset", "df/df0/a13162.html#ab5f990d305f42a2d00e182f617175672", null ],
+    [ "_isSisterDead", "df/df0/a13162.html#a9f9fa0823685066b4990a17880782b9a", null ]
 ];

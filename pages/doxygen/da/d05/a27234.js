@@ -1,5 +1,5 @@
 var a27234 =
 [
-    [ "item_disgusting_jar", "da/d05/a27234.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
-    [ "OnExpire", "da/d05/a27234.html#a4f6967035a4d247914a6034fcebac5c5", null ]
+    [ "go_massive_seaforium_charge", "da/d05/a27234.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "da/d05/a27234.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

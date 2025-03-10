@@ -1,10 +1,9 @@
 var a08570 =
 [
-    [ "Index", "da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084bac", [
-      [ "REGULAR", "da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
-      [ "ADDON", "da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
-      [ "MAX", "da/d8a/a08570.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
-    ] ],
-    [ "Count", "da/d8a/a08570.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
-    [ "Time", "da/d8a/a08570.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
+    [ "EntryPointData", "da/d8a/a08570.html#a1852523ba9ca889cdd6731c63de759e2", null ],
+    [ "ClearTaxiPath", "da/d8a/a08570.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
+    [ "HasTaxiPath", "da/d8a/a08570.html#afd310b2f367ec7df76f01689ea120e6e", null ],
+    [ "joinPos", "da/d8a/a08570.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
+    [ "mountSpell", "da/d8a/a08570.html#a06e1cadac24a2ab90e57373692f829dc", null ],
+    [ "taxiPath", "da/d8a/a08570.html#a5af670fa420b250c22e0f3237e753a6f", null ]
 ];

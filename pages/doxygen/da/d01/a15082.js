@@ -1,7 +1,6 @@
 var a15082 =
 [
-    [ "npc_anubisath_warder", "da/d01/a15082.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "da/d01/a15082.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "da/d01/a15082.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "da/d01/a15082.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "HandleOnHit", "da/d01/a15082.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
+    [ "PrepareSpellScript", "da/d01/a15082.html#a9e568a1608715973fc438ff5e4356714", null ],
+    [ "Register", "da/d01/a15082.html#a752d697aada626440fdff2bd889f890f", null ]
 ];

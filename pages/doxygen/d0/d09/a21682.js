@@ -1,6 +1,5 @@
 var a21682 =
 [
-    [ "npc_spiritual_insightAI", "d0/d09/a21682.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "d0/d09/a21682.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "d0/d09/a21682.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "at_q24545_frostmourne_cavern", "d0/d09/a21682.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
+    [ "OnTrigger", "d0/d09/a21682.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
 ];

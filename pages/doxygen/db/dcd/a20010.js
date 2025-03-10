@@ -1,6 +1,8 @@
 var a20010 =
 [
-    [ "npc_ulduar_icicleAI", "d2/d54/a20014.html", "d2/d54/a20014" ],
-    [ "npc_ulduar_icicle", "db/dcd/a20010.html#a1ab79b2fa3e64779f62b96c195222683", null ],
-    [ "GetAI", "db/dcd/a20010.html#a71dd83d544307b11bcde58f9aeea097c", null ]
+    [ "OnApply", "db/dcd/a20010.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "db/dcd/a20010.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "db/dcd/a20010.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "db/dcd/a20010.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "db/dcd/a20010.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

@@ -1,7 +1,11 @@
 var a12050 =
 [
-    [ "boss_urok_doomhowlAI", "d0/d69/a12050.html#ade3d87a05eed0fd077b2e3245099ed74", null ],
-    [ "InitializeAI", "d0/d69/a12050.html#a530bef523a27523827d3a94aa5f88698", null ],
-    [ "JustEngagedWith", "d0/d69/a12050.html#abd74d844bcae5f9bd8fdd3797323af2c", null ],
-    [ "UpdateAI", "d0/d69/a12050.html#a6ab5793a48534b7c338a915a7ed8faf9", null ]
+    [ "boss_solakar_flamewreathAI", "d0/d69/a12050.html#ada12a91bedec9be8923f9dc74fce07d0", null ],
+    [ "ExecuteEvent", "d0/d69/a12050.html#aa1fca22d30b15ee93cc02084ebab0c2c", null ],
+    [ "InitializeAI", "d0/d69/a12050.html#a7a8a5d3c453e29ec746422e1ba8e4d34", null ],
+    [ "JustDied", "d0/d69/a12050.html#aceb580afa2329ada3236dc759f3a3c20", null ],
+    [ "JustEngagedWith", "d0/d69/a12050.html#a47f8a133b6f8c0de11a66b712bb8e266", null ],
+    [ "Reset", "d0/d69/a12050.html#a25ae2943a7ce9a1f459cfd1313c84c49", null ],
+    [ "UpdateAI", "d0/d69/a12050.html#ac5f908584251455c720ce3f25ed07dae", null ],
+    [ "resetTimer", "d0/d69/a12050.html#acd7fdd30767a7863f265eb96e29c221e", null ]
 ];

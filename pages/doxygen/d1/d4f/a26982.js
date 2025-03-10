@@ -1,7 +1,6 @@
 var a26982 =
 [
-    [ "FilterTargets", "d1/d4f/a26982.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d1/d4f/a26982.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d1/d4f/a26982.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d1/d4f/a26982.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "npc_dream_fogAI", "de/d9e/a26986.html", "de/d9e/a26986" ],
+    [ "npc_dream_fog", "d1/d4f/a26982.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "d1/d4f/a26982.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

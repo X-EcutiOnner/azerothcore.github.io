@@ -1,7 +1,8 @@
 var a26418 =
 [
-    [ "HandleEffectPeriodic", "d0/d50/a26418.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
-    [ "PrepareAuraScript", "d0/d50/a26418.html#ae151331af09510cc91b63b65a30bdcbf", null ],
-    [ "Register", "d0/d50/a26418.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
-    [ "Validate", "d0/d50/a26418.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
+    [ "CheckCast", "d0/d50/a26418.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
+    [ "CheckQuest", "d0/d50/a26418.html#abc927d932c1d5e05eab1918364d68ed5", null ],
+    [ "HandleActiveObject", "d0/d50/a26418.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
+    [ "PrepareSpellScript", "d0/d50/a26418.html#a96e69476965cc2466213a5371a57093a", null ],
+    [ "Register", "d0/d50/a26418.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
 ];

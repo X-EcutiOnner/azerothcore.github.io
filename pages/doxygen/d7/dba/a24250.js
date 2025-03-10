@@ -1,8 +1,5 @@
 var a24250 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "d7/dba/a24250.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "d7/dba/a24250.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "d7/dba/a24250.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "d7/dba/a24250.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "d7/dba/a24250.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "npc_pet_dk_army_of_the_deadAI", "d7/dba/a24250.html#a2d934ed807d225f6b9f2206f0556f26d", null ],
+    [ "InitializeAI", "d7/dba/a24250.html#af3ecec126ed3d902acd4bfe979382307", null ]
 ];

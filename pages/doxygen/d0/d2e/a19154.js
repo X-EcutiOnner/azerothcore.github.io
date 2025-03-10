@@ -1,5 +1,6 @@
 var a19154 =
 [
-    [ "achievement_intense_cold", "d0/d2e/a19154.html#a2377357d6bfc03e5b91354428d3da3de", null ],
-    [ "OnCheck", "d0/d2e/a19154.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
+    [ "npc_eoe_wyrmrest_skytalonAI", "d0/d2e/a19154.html#a0878695bc4179e3b6e92dde9f2b5cf19", null ],
+    [ "JustDied", "d0/d2e/a19154.html#aaa88ff236fd49a9c672ab29feb7377b8", null ],
+    [ "PassengerBoarded", "d0/d2e/a19154.html#aa3352276e87d805cc8722eb97d10ca46", null ]
 ];

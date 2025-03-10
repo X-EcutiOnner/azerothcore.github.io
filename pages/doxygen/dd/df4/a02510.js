@@ -1,5 +1,5 @@
 var a02510 =
 [
-    [ "titles_commandscript", "dc/d82/a11700.html", "dc/d82/a11700" ],
-    [ "AddSC_titles_commandscript", "dd/df4/a02510.html#abd13948cbed6e10bdbf797847a0f6839", null ]
+    [ "honor_commandscript", "d2/d96/a11610.html", "d2/d96/a11610" ],
+    [ "AddSC_honor_commandscript", "dd/df4/a02510.html#ab7c57f853cb45a82b5563b703a1ee041", null ]
 ];

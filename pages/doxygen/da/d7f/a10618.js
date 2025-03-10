@@ -1,6 +1,6 @@
 var a10618 =
 [
-    [ "GuildBankRemainingWithdrawMoney", "da/d7f/a10618.html#afdb4e226091e8280b4ef26bd51edebdd", null ],
-    [ "Write", "da/d7f/a10618.html#aecc28f8734a66c562c7baa1575b07ff9", null ],
-    [ "RemainingWithdrawMoney", "da/d7f/a10618.html#a015ba615ebe4ea09df8233f6a85332f4", null ]
+    [ "GuildOfficerRemoveMember", "da/d7f/a10618.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
+    [ "Read", "da/d7f/a10618.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
+    [ "Removee", "da/d7f/a10618.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
 ];

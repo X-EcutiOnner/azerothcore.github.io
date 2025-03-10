@@ -1,8 +1,6 @@
 var a26766 =
 [
-    [ "HandleDamage", "d5/d99/a26766.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "d5/d99/a26766.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "d5/d99/a26766.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "d5/d99/a26766.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "d5/d99/a26766.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "PrepareSpellScript", "d5/d99/a26766.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
+    [ "Register", "d5/d99/a26766.html#a81bc86c83ffc70602410912870e61700", null ],
+    [ "VictoryRushHit", "d5/d99/a26766.html#a89387a25e67af1d47ef7f5b95344ccb0", null ]
 ];

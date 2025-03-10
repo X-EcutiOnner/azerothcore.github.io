@@ -1,7 +1,5 @@
 var a10442 =
 [
-    [ "Emote", "d1/d9e/a10442.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
-    [ "Write", "d1/d9e/a10442.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
-    [ "EmoteID", "d1/d9e/a10442.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
-    [ "Guid", "d1/d9e/a10442.html#ab96a1c0933e90872f54eb0995098274a", null ]
+    [ "LogoutRequest", "d1/d9e/a10442.html#ab92b0a8a5d3d076adbd465fcf24b7975", null ],
+    [ "Read", "d1/d9e/a10442.html#a84701a16603f8b0f1e8dda1020ec1161", null ]
 ];

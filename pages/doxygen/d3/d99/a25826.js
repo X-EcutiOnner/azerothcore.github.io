@@ -1,7 +1,6 @@
 var a25826 =
 [
-    [ "OnRemove", "d3/d99/a25826.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
-    [ "PrepareAuraScript", "d3/d99/a25826.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
-    [ "Register", "d3/d99/a25826.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
-    [ "Validate", "d3/d99/a25826.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
+    [ "CalculateAmount", "d3/d99/a25826.html#a2010f58ba86d6266e9549753fdec52ed", null ],
+    [ "PrepareAuraScript", "d3/d99/a25826.html#aa9ddc9f2a0ded66e81be51cec24a0e4b", null ],
+    [ "Register", "d3/d99/a25826.html#acf737f74e3cb9340f3449b491e923b7f", null ]
 ];

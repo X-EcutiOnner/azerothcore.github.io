@@ -1,8 +1,7 @@
 var a23854 =
 [
-    [ "npc_ancestral_wolfAI", "d2/d4f/a23854.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "d2/d4f/a23854.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "d2/d4f/a23854.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "d2/d4f/a23854.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "ryga", "d2/d4f/a23854.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "npc_daranelleAI", "d2/d4f/a23854.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d2/d4f/a23854.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d2/d4f/a23854.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d2/d4f/a23854.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

@@ -1,8 +1,5 @@
 var a16842 =
 [
-    [ "boss_krickAI", "d0/dd4/a16842.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "d0/dd4/a16842.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "d0/dd4/a16842.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "d0/dd4/a16842.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "d0/dd4/a16842.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "at_hor_battered_hilt_throw", "d0/dd4/a16842.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
+    [ "OnTrigger", "d0/dd4/a16842.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
 ];

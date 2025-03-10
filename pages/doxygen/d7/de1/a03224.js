@@ -1,39 +1,59 @@
 var a03224 =
 [
-    [ "npc_lord_gregor_lescovar", "d2/d7b/a13516.html", "d2/d7b/a13516" ],
-    [ "npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI", "de/daf/a13520.html", "de/daf/a13520" ],
-    [ "npc_marzon_silent_blade", "d4/d16/a13524.html", "d4/d16/a13524" ],
-    [ "npc_marzon_silent_blade::npc_marzon_silent_bladeAI", "dc/deb/a13528.html", "dc/deb/a13528" ],
-    [ "npc_tyrion_spybot", "d2/de2/a13532.html", "d2/de2/a13532" ],
-    [ "npc_tyrion_spybot::npc_tyrion_spybotAI", "de/d98/a13536.html", "de/d98/a13536" ],
-    [ "npc_tyrion", "d6/d73/a13540.html", "d6/d73/a13540" ],
-    [ "LordGregorLescovar", "d7/de1/a03224.html#a1e4dca432ca60e815b6e871483cbe4e7", [
-      [ "SAY_GUARD_2", "d7/de1/a03224.html#a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91", null ],
-      [ "SAY_LESCOVAR_2", "d7/de1/a03224.html#a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603", null ],
-      [ "SAY_LESCOVAR_3", "d7/de1/a03224.html#a1e4dca432ca60e815b6e871483cbe4e7ab0afa663e4044b81b4b05e29a88cd45a", null ],
-      [ "SAY_LESCOVAR_4", "d7/de1/a03224.html#a1e4dca432ca60e815b6e871483cbe4e7a560401a00335748429691c21614a4c76", null ],
-      [ "SAY_MARZON_1", "d7/de1/a03224.html#a1e4dca432ca60e815b6e871483cbe4e7ad19de95b33b84ba449bdc585d534f3bb", null ],
-      [ "SAY_MARZON_2", "d7/de1/a03224.html#a1e4dca432ca60e815b6e871483cbe4e7aafffef47f5909f07b5aa3b77975ec171", null ],
-      [ "SAY_TYRION_2", "d7/de1/a03224.html#a1e4dca432ca60e815b6e871483cbe4e7a83253082d516a61481fa2396e8e421db", null ],
-      [ "NPC_STORMWIND_ROYAL", "d7/de1/a03224.html#a1e4dca432ca60e815b6e871483cbe4e7af9d88994485cf4511078f883c1db22db", null ],
-      [ "NPC_MARZON_BLADE", "d7/de1/a03224.html#a1e4dca432ca60e815b6e871483cbe4e7a3100dd88fab725a47c86deb05c2a57cd", null ],
-      [ "NPC_TYRION", "d7/de1/a03224.html#a1e4dca432ca60e815b6e871483cbe4e7a87ee81f943a1bcb5ee89b1c646035696", null ],
-      [ "QUEST_THE_ATTACK", "d7/de1/a03224.html#a1e4dca432ca60e815b6e871483cbe4e7a2035fa37d7029761409d06dfdbfcfc68", null ]
+    [ "boss_apothecary_hummel", "d0/dc5/a13030.html", "d0/dc5/a13030" ],
+    [ "boss_apothecary_hummel::boss_apothecary_hummelAI", "d3/d7b/a13034.html", "d3/d7b/a13034" ],
+    [ "npc_apothecary_genericAI", "d6/d1c/a13038.html", "d6/d1c/a13038" ],
+    [ "npc_apothecary_frye", "d1/d78/a13042.html", "d1/d78/a13042" ],
+    [ "npc_apothecary_baxter", "d0/dba/a13046.html", "d0/dba/a13046" ],
+    [ "spell_apothecary_lingering_fumes", "d9/ddc/a13050.html", "d9/ddc/a13050" ],
+    [ "spell_apothecary_validate_area", "dc/d37/a13054.html", "dc/d37/a13054" ],
+    [ "spell_apothecary_throw_cologne", "d8/d8b/a13058.html", "d8/d8b/a13058" ],
+    [ "spell_apothecary_throw_perfume", "d2/deb/a13062.html", "d2/deb/a13062" ],
+    [ "spell_apothecary_perfume_spill", "da/dde/a13066.html", "da/dde/a13066" ],
+    [ "spell_apothecary_cologne_spill", "d1/d06/a13070.html", "d1/d06/a13070" ],
+    [ "ApothecaryMisc", "d7/de1/a03224.html#a089375166ea95171e0a3dae74f9740cf", [
+      [ "ACTION_START_EVENT", "d7/de1/a03224.html#a089375166ea95171e0a3dae74f9740cfa5a9d00590152ece2beb2305c6f271dd9", null ],
+      [ "ACTION_START_FIGHT", "d7/de1/a03224.html#a089375166ea95171e0a3dae74f9740cfafd2662e5ad45793954d7eca931443e2a", null ],
+      [ "GOSSIP_OPTION_START", "d7/de1/a03224.html#a089375166ea95171e0a3dae74f9740cfa38ec399ecfd73857e6ac074ad74c6abc", null ],
+      [ "GOSSIP_MENU_HUMMEL", "d7/de1/a03224.html#a089375166ea95171e0a3dae74f9740cfaeb346bca5ab5cddf0b0a25165f3a4199", null ],
+      [ "QUEST_YOUVE_BEEN_SERVED", "d7/de1/a03224.html#a089375166ea95171e0a3dae74f9740cfa0f13a9ab27738db33921fada71beed26", null ],
+      [ "NPC_APOTHECARY_FRYE", "d7/de1/a03224.html#a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5", null ],
+      [ "NPC_APOTHECARY_BAXTER", "d7/de1/a03224.html#a089375166ea95171e0a3dae74f9740cfa767550e8e2397ec4a5c3e3a95db51c6b", null ],
+      [ "NPC_VIAL_BUNNY", "d7/de1/a03224.html#a089375166ea95171e0a3dae74f9740cfa6d34ef27621fd6744c37d007684718f8", null ],
+      [ "NPC_CROWN_APOTHECARY", "d7/de1/a03224.html#a089375166ea95171e0a3dae74f9740cfa730c801d900c7f7ed204cef975f51520", null ],
+      [ "PHASE_ALL", "d7/de1/a03224.html#a089375166ea95171e0a3dae74f9740cfa5a174c07b8602efe54b08ead7652a3fe", null ],
+      [ "PHASE_INTRO", "d7/de1/a03224.html#a089375166ea95171e0a3dae74f9740cfa4759cf00b99e3a6f4a2f65af817bd203", null ],
+      [ "PHASE_COMBAT", "d7/de1/a03224.html#a089375166ea95171e0a3dae74f9740cfaddfe924b2f0ce0eceb2a811186f83825", null ]
     ] ],
-    [ "Tyrion", "d7/de1/a03224.html#affa30c579e72ac17979d6590547e9cde", [
-      [ "NPC_TYRION_SPYBOT", "d7/de1/a03224.html#affa30c579e72ac17979d6590547e9cdeaa7d8f055bd91fb38ec823e32df381407", null ]
+    [ "ApothecarySays", "d7/de1/a03224.html#a6edaee5ce05b16d8360c059a2718a302", [
+      [ "SAY_INTRO_0", "d7/de1/a03224.html#a6edaee5ce05b16d8360c059a2718a302ab67c13990cd545e383e96877a2f2c102", null ],
+      [ "SAY_INTRO_1", "d7/de1/a03224.html#a6edaee5ce05b16d8360c059a2718a302a5d62121fc78e6a1cfc703c5caba40b23", null ],
+      [ "SAY_INTRO_2", "d7/de1/a03224.html#a6edaee5ce05b16d8360c059a2718a302a262c474ec2073ec78c48eb44023e0069", null ],
+      [ "SAY_CALL_BAXTER", "d7/de1/a03224.html#a6edaee5ce05b16d8360c059a2718a302a9674e0b6f0f4d0ea65fb2377204ba0b8", null ],
+      [ "SAY_CALL_FRYE", "d7/de1/a03224.html#a6edaee5ce05b16d8360c059a2718a302aecf0479145c53d045a90ad70e2a59d6d", null ],
+      [ "SAY_HUMMEL_DEATH", "d7/de1/a03224.html#a6edaee5ce05b16d8360c059a2718a302afdac4195099aa5b26bced2feaace598f", null ],
+      [ "SAY_SUMMON_ADDS", "d7/de1/a03224.html#a6edaee5ce05b16d8360c059a2718a302a1cad39247cfc635e8fbbd28507a4565f", null ],
+      [ "SAY_BAXTER_DEATH", "d7/de1/a03224.html#a6edaee5ce05b16d8360c059a2718a302a794a973d0b60b2cd1bc8f581c4dc06f4", null ],
+      [ "SAY_FRYE_DEATH", "d7/de1/a03224.html#a6edaee5ce05b16d8360c059a2718a302a893047362d85cb096ff4abaf274fe7f8", null ]
     ] ],
-    [ "TyrionSpybot", "d7/de1/a03224.html#ab61d02c4c07338130c8927cc8120aa82", [
-      [ "SAY_QUEST_ACCEPT_ATTACK", "d7/de1/a03224.html#ab61d02c4c07338130c8927cc8120aa82aeec93897a6676c7262cd237a03b3c75c", null ],
-      [ "SAY_SPYBOT_1", "d7/de1/a03224.html#ab61d02c4c07338130c8927cc8120aa82a5f538e2baf878a43cdc9d1856e978372", null ],
-      [ "SAY_SPYBOT_2", "d7/de1/a03224.html#ab61d02c4c07338130c8927cc8120aa82a93f30c745248ddf8f06e9acd6152a8dc", null ],
-      [ "SAY_SPYBOT_3", "d7/de1/a03224.html#ab61d02c4c07338130c8927cc8120aa82af13ce48c683aa75a00cdecd473e15566", null ],
-      [ "SAY_SPYBOT_4", "d7/de1/a03224.html#ab61d02c4c07338130c8927cc8120aa82a461198cb836bfd590945213473abfea9", null ],
-      [ "SAY_TYRION_1", "d7/de1/a03224.html#ab61d02c4c07338130c8927cc8120aa82a0124003837e7afa98fe1fd7385e021b8", null ],
-      [ "SAY_GUARD_1", "d7/de1/a03224.html#ab61d02c4c07338130c8927cc8120aa82a97779823d343820b34531f4b2e3a88c5", null ],
-      [ "SAY_LESCOVAR_1", "d7/de1/a03224.html#ab61d02c4c07338130c8927cc8120aa82abdb322c060b497308c09f195091521fb", null ],
-      [ "NPC_PRIESTESS_TYRIONA", "d7/de1/a03224.html#ab61d02c4c07338130c8927cc8120aa82a1dae5d8b98957d3a79a37b8a5d200537", null ],
-      [ "NPC_LORD_GREGOR_LESCOVAR", "d7/de1/a03224.html#ab61d02c4c07338130c8927cc8120aa82a51dc64fb93f3e5982bfd7746b6d359ea", null ]
+    [ "ApothecarySpells", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340e", [
+      [ "SPELL_ALLURING_PERFUME", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340ea69e62e4d2a0c36190609d18be6674684", null ],
+      [ "SPELL_PERFUME_SPRAY", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340ea3a0f87dc02eb714afeea065d3bd80e28", null ],
+      [ "SPELL_CHAIN_REACTION", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340ea95ae132067c31fcc5af6b66e12581081", null ],
+      [ "SPELL_SUMMON_TABLE", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340ea2809eac4da3842244003e94b953e1f04", null ],
+      [ "SPELL_PERMANENT_FEIGN_DEATH", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340eae088c5aedcf64c242ca695d8b31ba6a4", null ],
+      [ "SPELL_QUIET_SUICIDE", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340ead860f54409f76f306c7f49aad1365de5", null ],
+      [ "SPELL_COLOGNE_SPRAY", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340ea11b1817b24a59f85e97c1dd313d02902", null ],
+      [ "SPELL_VALIDATE_AREA", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340ea63e5ea59169bf85814945448afb792df", null ],
+      [ "SPELL_THROW_COLOGNE", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340eadbd7d9f1050873a59721ce23dab4aa90", null ],
+      [ "SPELL_BUNNY_LOCKDOWN", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340eacca7aad4d6e4f18aae288ac50699630d", null ],
+      [ "SPELL_THROW_PERFUME", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340ea56000b1d92ac98403554f3ad14c37daa", null ],
+      [ "SPELL_PERFUME_SPILL", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340eae81ec956be144a73ba51a356116d2b23", null ],
+      [ "SPELL_COLOGNE_SPILL", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340ea73c84cecf746db87cde2d73e163ce8f4", null ],
+      [ "SPELL_PERFUME_SPILL_DAMAGE", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340ea8f376fef41ce78675e6973a885d0d8aa", null ],
+      [ "SPELL_COLOGNE_SPILL_DAMAGE", "d7/de1/a03224.html#a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f", null ]
     ] ],
-    [ "AddSC_stormwind_city", "d7/de1/a03224.html#ac865e7add4724f06be48735f6bf1a542", null ]
+    [ "AddSC_boss_apothecary_hummel", "d7/de1/a03224.html#aae2a7d6c56f8a7f3dff6f6146ec59a73", null ],
+    [ "BaxterMovePos", "d7/de1/a03224.html#a8ff29d1fe0be700e07d22e86b6593b69", null ],
+    [ "FryeMovePos", "d7/de1/a03224.html#a4e21cd5458c7f5e47183151858fd0776", null ]
 ];

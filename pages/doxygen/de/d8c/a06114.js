@@ -1,6 +1,9 @@
 var a06114 =
 [
-    [ "PlayerAI", "de/d8c/a06114.html#a880c670caddc1f24e42f229457039c67", null ],
-    [ "OnCharmed", "de/d8c/a06114.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
-    [ "me", "de/d8c/a06114.html#a70a995521c55fb3d73d14e6be883eccc", null ]
+    [ "PowerUsersSelector", "de/d8c/a06114.html#abf9f85ea67a834024df56e622700f62d", null ],
+    [ "operator()", "de/d8c/a06114.html#ac93e678f198787fd6691e0bb8d63d6e3", null ],
+    [ "_dist", "de/d8c/a06114.html#a1c63646bffb486c51ca07e0f8a70dd59", null ],
+    [ "_me", "de/d8c/a06114.html#a7f6dda10c26982d9633fae57b64af7ef", null ],
+    [ "_playerOnly", "de/d8c/a06114.html#aea809984a6dd46c22f414e44c9794309", null ],
+    [ "_power", "de/d8c/a06114.html#a9a518903606768e505e7230fe9344bbf", null ]
 ];

@@ -1,6 +1,7 @@
 var a19670 =
 [
-    [ "FilterTargets", "d3/db2/a19670.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "d3/db2/a19670.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "d3/db2/a19670.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "OnRemove", "d3/db2/a19670.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "d3/db2/a19670.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "d3/db2/a19670.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "d3/db2/a19670.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

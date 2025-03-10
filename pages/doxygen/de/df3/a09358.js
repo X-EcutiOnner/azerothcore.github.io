@@ -1,10 +1,8 @@
 var a09358 =
 [
-    [ "AnyPlayerInObjectRangeCheck", "de/df3/a09358.html#ae636bd72045687920ec1d460508bc74b", null ],
-    [ "operator()", "de/df3/a09358.html#ac1eda8f85259230fb382a3b6e58b6798", null ],
-    [ "operator()", "de/df3/a09358.html#a70c477213c8b271d3402857edd87ef8b", null ],
-    [ "_disallowGM", "de/df3/a09358.html#a9c43efd575de2edfdaa0b84def91c727", null ],
-    [ "_obj", "de/df3/a09358.html#a07a346225f675433792d2298673acd1f", null ],
-    [ "_range", "de/df3/a09358.html#ae372500b3a21cb65a11045dcc6f094a8", null ],
-    [ "_reqAlive", "de/df3/a09358.html#af1e397c5033711e65d9ac5b35311e893", null ]
+    [ "NearestHostileUnitInAttackDistanceCheck", "de/df3/a09358.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
+    [ "NearestHostileUnitInAttackDistanceCheck", "de/df3/a09358.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
+    [ "operator()", "de/df3/a09358.html#adc28281742cd1f6a49152481b48f944e", null ],
+    [ "m_range", "de/df3/a09358.html#ab79296a88ed07257edbe3449c2515b40", null ],
+    [ "me", "de/df3/a09358.html#a298d2489b9bf30aa510407afca79a374", null ]
 ];

@@ -1,25 +1,20 @@
 var a01439 =
 [
-    [ "UpdateData", "db/d20/a08420.html", "db/d20/a08420" ],
-    [ "OBJECT_UPDATE_FLAGS", "d7/dfd/a01439.html#af1fc105a57ed0bc535d17509e4ad5e9e", [
-      [ "UPDATEFLAG_NONE", "d7/dfd/a01439.html#af1fc105a57ed0bc535d17509e4ad5e9eab3f4d8eafca6e04f6b445bedda939799", null ],
-      [ "UPDATEFLAG_SELF", "d7/dfd/a01439.html#af1fc105a57ed0bc535d17509e4ad5e9eacb59b2f7a20c57e2dc11ad4a4a74195f", null ],
-      [ "UPDATEFLAG_TRANSPORT", "d7/dfd/a01439.html#af1fc105a57ed0bc535d17509e4ad5e9ea7b800b143915d7a9ea65020153cee3ca", null ],
-      [ "UPDATEFLAG_HAS_TARGET", "d7/dfd/a01439.html#af1fc105a57ed0bc535d17509e4ad5e9eae67f7342d7c369d11cfb6d50bea094dd", null ],
-      [ "UPDATEFLAG_UNKNOWN", "d7/dfd/a01439.html#af1fc105a57ed0bc535d17509e4ad5e9eab102319844f46e52393bb89975c591f7", null ],
-      [ "UPDATEFLAG_LOWGUID", "d7/dfd/a01439.html#af1fc105a57ed0bc535d17509e4ad5e9ea65f9bb0b19a3ecbc46fbe3b4573cb15b", null ],
-      [ "UPDATEFLAG_LIVING", "d7/dfd/a01439.html#af1fc105a57ed0bc535d17509e4ad5e9ea0eedb2f7b118804bb3fe89fde52d7632", null ],
-      [ "UPDATEFLAG_STATIONARY_POSITION", "d7/dfd/a01439.html#af1fc105a57ed0bc535d17509e4ad5e9ead20e13b8389c2680af0a59dc557d4ee1", null ],
-      [ "UPDATEFLAG_VEHICLE", "d7/dfd/a01439.html#af1fc105a57ed0bc535d17509e4ad5e9ea6dfc1770c97c7c1d8433e0e12ad47c51", null ],
-      [ "UPDATEFLAG_POSITION", "d7/dfd/a01439.html#af1fc105a57ed0bc535d17509e4ad5e9ea2e4269d3be94ff8f1f715c41c060222b", null ],
-      [ "UPDATEFLAG_ROTATION", "d7/dfd/a01439.html#af1fc105a57ed0bc535d17509e4ad5e9ea2a1fa785627688900bcc7bb221f1462a", null ]
+    [ "UpdatefieldFlags", "d7/dfd/a01439.html#a811fc272bf3df65a461d871556356150", [
+      [ "UF_FLAG_NONE", "d7/dfd/a01439.html#a811fc272bf3df65a461d871556356150a7d1b4f7f2db6116940d9d5939501821a", null ],
+      [ "UF_FLAG_PUBLIC", "d7/dfd/a01439.html#a811fc272bf3df65a461d871556356150aa23748720df562a04ac4e80d7bd222da", null ],
+      [ "UF_FLAG_PRIVATE", "d7/dfd/a01439.html#a811fc272bf3df65a461d871556356150ac5ff327c7c75208435488e55a3008b3c", null ],
+      [ "UF_FLAG_OWNER", "d7/dfd/a01439.html#a811fc272bf3df65a461d871556356150ab1517a7b1049b7541d6de9ab69402715", null ],
+      [ "UF_FLAG_UNUSED1", "d7/dfd/a01439.html#a811fc272bf3df65a461d871556356150aeead926260fb10c5449766745fd71106", null ],
+      [ "UF_FLAG_ITEM_OWNER", "d7/dfd/a01439.html#a811fc272bf3df65a461d871556356150a590c2755c17b30efbb3bbff85036fb65", null ],
+      [ "UF_FLAG_SPECIAL_INFO", "d7/dfd/a01439.html#a811fc272bf3df65a461d871556356150a5715410f0568125f85e318a57c281cd8", null ],
+      [ "UF_FLAG_PARTY_MEMBER", "d7/dfd/a01439.html#a811fc272bf3df65a461d871556356150adabd2ae86a3e7c701374be7847446cb7", null ],
+      [ "UF_FLAG_UNUSED2", "d7/dfd/a01439.html#a811fc272bf3df65a461d871556356150a6b9db4521b5b4cc023e15610eef397e1", null ],
+      [ "UF_FLAG_DYNAMIC", "d7/dfd/a01439.html#a811fc272bf3df65a461d871556356150a3b75563c8e1c2bfbe672d128cce4b1e5", null ]
     ] ],
-    [ "OBJECT_UPDATE_TYPE", "d7/dfd/a01439.html#aa0f2952f4b375c0e91f5276ff267cbad", [
-      [ "UPDATETYPE_VALUES", "d7/dfd/a01439.html#aa0f2952f4b375c0e91f5276ff267cbada1fc033f630eab16bbf5b7ce7938d7bef", null ],
-      [ "UPDATETYPE_MOVEMENT", "d7/dfd/a01439.html#aa0f2952f4b375c0e91f5276ff267cbadac08838cdcba5218c53ea7745f5c0c370", null ],
-      [ "UPDATETYPE_CREATE_OBJECT", "d7/dfd/a01439.html#aa0f2952f4b375c0e91f5276ff267cbada4dc60011a5f19dc6c7d8ef61f9b10e20", null ],
-      [ "UPDATETYPE_CREATE_OBJECT2", "d7/dfd/a01439.html#aa0f2952f4b375c0e91f5276ff267cbadaf72ecfc1f4c6b5006f7985299cc2cd8f", null ],
-      [ "UPDATETYPE_OUT_OF_RANGE_OBJECTS", "d7/dfd/a01439.html#aa0f2952f4b375c0e91f5276ff267cbada5e1317f5c975a9e3a19c37922f49e089", null ],
-      [ "UPDATETYPE_NEAR_OBJECTS", "d7/dfd/a01439.html#aa0f2952f4b375c0e91f5276ff267cbada5017763e8c136985831c2ee1583795d5", null ]
-    ] ]
+    [ "CorpseUpdateFieldFlags", "d7/dfd/a01439.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
+    [ "DynamicObjectUpdateFieldFlags", "d7/dfd/a01439.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
+    [ "GameObjectUpdateFieldFlags", "d7/dfd/a01439.html#aee13b862f51557c371d3d93341128895", null ],
+    [ "ItemUpdateFieldFlags", "d7/dfd/a01439.html#ac1cca7ecf1650663132e3e220d771adf", null ],
+    [ "UnitUpdateFieldFlags", "d7/dfd/a01439.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
 ];

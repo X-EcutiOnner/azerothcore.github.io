@@ -1,5 +1,7 @@
 var a27906 =
 [
-    [ "BitIndex", "de/dbb/a27906.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
-    [ "ItemId", "de/dbb/a27906.html#a998c1f6dadb823fbba56bb2154396635", null ]
+    [ "bit_index", "de/dbb/a27906.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "de/dbb/a27906.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "de/dbb/a27906.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "de/dbb/a27906.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

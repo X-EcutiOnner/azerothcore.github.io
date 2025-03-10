@@ -1,6 +1,9 @@
 var a22018 =
 [
-    [ "npc_bushwhackerAI", "db/d28/a22018.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "db/d28/a22018.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "db/d28/a22018.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "npc_frostbrood_skytalonAI", "db/d28/a22018.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "db/d28/a22018.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "db/d28/a22018.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "db/d28/a22018.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "db/d28/a22018.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "db/d28/a22018.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

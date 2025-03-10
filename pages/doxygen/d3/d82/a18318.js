@@ -1,6 +1,7 @@
 var a18318 =
 [
-    [ "npc_valithria_portalAI", "d3/d3f/a18322.html", "d3/d3f/a18322" ],
-    [ "npc_valithria_portal", "d3/d82/a18318.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
-    [ "GetAI", "d3/d82/a18318.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
+    [ "AuraRemoveEvent", "d3/d82/a18318.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "d3/d82/a18318.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "d3/d82/a18318.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "d3/d82/a18318.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

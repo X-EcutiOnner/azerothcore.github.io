@@ -1,6 +1,6 @@
 var a20566 =
 [
-    [ "npc_xt002_boombotAI", "db/d9f/a20570.html", "db/d9f/a20570" ],
-    [ "npc_xt002_boombot", "dc/d04/a20566.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
-    [ "GetAI", "dc/d04/a20566.html#a27237e7a60042ed7163b19d80537c1b3", null ]
+    [ "OnPeriodic", "dc/d04/a20566.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "dc/d04/a20566.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "dc/d04/a20566.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

@@ -1,6 +1,6 @@
 var a21942 =
 [
-    [ "npc_guardian_pavilionAI", "d2/db7/a21946.html", "d2/db7/a21946" ],
-    [ "npc_guardian_pavilion", "d4/d76/a21942.html#aecc7e93f2b50351584049f031362e0f0", null ],
-    [ "GetAI", "d4/d76/a21942.html#a89e55b3267cd93ae688573678851c7b9", null ]
+    [ "npc_boneguard_footmanAI", "d4/d76/a21942.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "d4/d76/a21942.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "d4/d76/a21942.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

@@ -1,6 +1,5 @@
 var a23694 =
 [
-    [ "HandleScriptEffect", "d0/d2d/a23694.html#a724e857ad8604ef4546c8823bb7bd632", null ],
-    [ "PrepareSpellScript", "d0/d2d/a23694.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
-    [ "Register", "d0/d2d/a23694.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
+    [ "npc_lord_sanguinar", "d0/d2d/a23694.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
+    [ "ScheduleEvents", "d0/d2d/a23694.html#af9231da98547875527a519c5884cbec0", null ]
 ];

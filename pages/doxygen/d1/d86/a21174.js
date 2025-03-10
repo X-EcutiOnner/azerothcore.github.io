@@ -1,12 +1,22 @@
 var a21174 =
 [
-    [ "boss_lavanthorAI", "d1/d86/a21174.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
-    [ "EnterEvadeMode", "d1/d86/a21174.html#a0334d92f1ddf30235efe298df622535b", null ],
-    [ "JustDied", "d1/d86/a21174.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
-    [ "JustEngagedWith", "d1/d86/a21174.html#a9820ec47af72af19f00b172ee138f908", null ],
-    [ "MoveInLineOfSight", "d1/d86/a21174.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
-    [ "Reset", "d1/d86/a21174.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
-    [ "UpdateAI", "d1/d86/a21174.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
-    [ "events", "d1/d86/a21174.html#a273adc56adefe9810013bc80950f2624", null ],
-    [ "pInstance", "d1/d86/a21174.html#ad6059577c5e131523f39316c2291b421", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "d1/d86/a21174.html#ab0f9e62a516c2a572d438ee6b33ffe89", null ],
+    [ "CheckAchievementCriteriaMeet", "d1/d86/a21174.html#afafb4c0c0e79b58094ea09068ebdf724", null ],
+    [ "GetData", "d1/d86/a21174.html#aa3f41b9c79c7bcdd9ad330fa58376799", null ],
+    [ "GetGuidData", "d1/d86/a21174.html#a371a688192e9c7c239fc4c1de8e45877", null ],
+    [ "Initialize", "d1/d86/a21174.html#acc0816a05728b59ddf7aeb4077a7329d", null ],
+    [ "IsEncounterInProgress", "d1/d86/a21174.html#ae2607badcd241cf6b0d4b3a224acc802", null ],
+    [ "OnCreatureCreate", "d1/d86/a21174.html#ae16d97e5a2cfe7fce6ede12874cb9243", null ],
+    [ "OnPlayerEnter", "d1/d86/a21174.html#a82fdae36261fa7d845e8d7fdf2428637", null ],
+    [ "ReadSaveDataMore", "d1/d86/a21174.html#a07a9861d018a35cd295f65b7e68a5bd1", null ],
+    [ "SetData", "d1/d86/a21174.html#a336bd80e5118d6b5cfa0f76f5d207fc5", null ],
+    [ "Update", "d1/d86/a21174.html#ac22e9b215c1351f543289af2875491b4", null ],
+    [ "WriteSaveDataMore", "d1/d86/a21174.html#a22e3c4bb29159588a96f13644218c427", null ],
+    [ "ArchavonDeath", "d1/d86/a21174.html#a1259cf1ed03095fb3e93f6aab203aa99", null ],
+    [ "bossGUIDs", "d1/d86/a21174.html#a6dc53f3e4385f09869d91f59520b79d4", null ],
+    [ "checkTimer", "d1/d86/a21174.html#aabf39e7d3cef7951c861c194dfff9ecd", null ],
+    [ "EmalonDeath", "d1/d86/a21174.html#ac9235ec40c6648bb2a7d252b0053bc47", null ],
+    [ "KoralonDeath", "d1/d86/a21174.html#a544c022446c0ddb39797417271ec1259", null ],
+    [ "m_auiEncounter", "d1/d86/a21174.html#a708d88ed26d8c00cd9fc8f1601c9358e", null ],
+    [ "stoned", "d1/d86/a21174.html#acde4794f2e980d523e873c0e610f726a", null ]
 ];

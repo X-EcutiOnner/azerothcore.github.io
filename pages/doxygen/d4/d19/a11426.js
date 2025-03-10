@@ -1,9 +1,6 @@
 var a11426 =
 [
-    [ "event_commandscript", "d4/d19/a11426.html#a160db0ad8874b0834ef863043b1796ae", null ],
-    [ "GetCommands", "d4/d19/a11426.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
-    [ "HandleEventActiveListCommand", "d4/d19/a11426.html#a6752be35103bb585984083a449c85714", null ],
-    [ "HandleEventInfoCommand", "d4/d19/a11426.html#a1f0815bccd6cef61826ada4e349708d9", null ],
-    [ "HandleEventStartCommand", "d4/d19/a11426.html#ad46dbd8892db3548d889d4127461c8e3", null ],
-    [ "HandleEventStopCommand", "d4/d19/a11426.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
+    [ "Command", "d4/d19/a11426.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
+    [ "Data", "d4/d19/a11426.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
+    [ "DataSize", "d4/d19/a11426.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
 ];

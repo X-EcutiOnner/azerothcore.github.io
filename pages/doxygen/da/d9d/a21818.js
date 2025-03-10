@@ -1,7 +1,6 @@
 var a21818 =
 [
-    [ "HandleScript", "da/d9d/a21818.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "da/d9d/a21818.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "da/d9d/a21818.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "da/d9d/a21818.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_venture_co_stragglerAI", "d5/d77/a21822.html", "d5/d77/a21822" ],
+    [ "npc_venture_co_straggler", "da/d9d/a21818.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "da/d9d/a21818.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

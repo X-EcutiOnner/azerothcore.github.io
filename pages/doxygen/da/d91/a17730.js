@@ -1,7 +1,6 @@
 var a17730 =
 [
-    [ "HandleTriggerSpell", "da/d91/a17730.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
-    [ "OnRemove", "da/d91/a17730.html#a238adc96e80c1890934b23dd4a2685b4", null ],
-    [ "PrepareAuraScript", "da/d91/a17730.html#af9ce7433b620fdf1dea570561c514b3b", null ],
-    [ "Register", "da/d91/a17730.html#ab36a001ea8cd87703e2694e0765635c0", null ]
+    [ "npc_gas_cloudAI", "df/db0/a17734.html", "df/db0/a17734" ],
+    [ "npc_gas_cloud", "da/d91/a17730.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "da/d91/a17730.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

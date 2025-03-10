@@ -1,7 +1,6 @@
 var a19446 =
 [
-    [ "creature", "d4/dd0/a19446.html#a55a6ee677ab51120867f542e5a5745b0", null ],
-    [ "sound", "d4/dd0/a19446.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
-    [ "text", "d4/dd0/a19446.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
-    [ "timer", "d4/dd0/a19446.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
+    [ "CalculateDamage", "d4/dd0/a19446.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "d4/dd0/a19446.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "d4/dd0/a19446.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

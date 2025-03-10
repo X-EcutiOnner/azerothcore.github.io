@@ -1,11 +1,9 @@
 var a20738 =
 [
-    [ "boss_yoggsaron_neltharionAI", "db/de2/a20738.html#aacefe32de32513bdf46c0dd526768e25", null ],
-    [ "NextStep", "db/de2/a20738.html#a4770948240ac56ec151c262c8996e4e4", null ],
-    [ "Reset", "db/de2/a20738.html#a03841acfd21e920bc6589203448709a0", null ],
-    [ "Say", "db/de2/a20738.html#ae45f051ab64ce1f96f32e5b8d073356e", null ],
-    [ "UpdateAI", "db/de2/a20738.html#a80c174a8ffa15550627ed27ab0d8925d", null ],
-    [ "_checkTimer", "db/de2/a20738.html#a7eef651198e09cf25c2f039bcb4a1876", null ],
-    [ "_running", "db/de2/a20738.html#a6b2f01ed2ffe8113cbddd4a033886059", null ],
-    [ "_step", "db/de2/a20738.html#a0ac37717e940b094d322a7e492202718", null ]
+    [ "boss_yoggsaron_keeper", "db/de2/a20738.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "DoAction", "db/de2/a20738.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustEngagedWith", "db/de2/a20738.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
+    [ "JustSummoned", "db/de2/a20738.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "db/de2/a20738.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "db/de2/a20738.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

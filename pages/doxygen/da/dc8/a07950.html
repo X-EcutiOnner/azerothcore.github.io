@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: FormationMgr Class Reference</title>
+<title>AzerothCore: lfg::LFGGroupScript Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,147 +106,118 @@ $(document).ready(function(){initNavTree('da/dc8/a07950.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../db/d5b/a07947.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">FormationMgr Class Reference</div></div>
+  <div class="headertitle"><div class="title">lfg::LFGGroupScript Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">CreatureGroups.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">LFGScripts.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for lfg::LFGGroupScript:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../da/dc8/a07950.png" usemap="#lfg::LFGGroupScript_map" alt=""/>
+  <map id="lfg::LFGGroupScript_map" name="lfg::LFGGroupScript_map">
+<area href="../../df/d88/a10278.html" alt="GroupScript" shape="rect" coords="0,56,124,80"/>
+<area href="../../dc/ddf/a10382.html" alt="ScriptObject" shape="rect" coords="0,0,124,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ade1aa22473c112aed65d537929b07908"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc8/a07950.html#ade1aa22473c112aed65d537929b07908">FormationMgr</a> ()</td></tr>
-<tr class="separator:ade1aa22473c112aed65d537929b07908"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8f3ee00e25ebacfb71b71b9e7d63f6e0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc8/a07950.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0">~FormationMgr</a> ()</td></tr>
-<tr class="separator:a8f3ee00e25ebacfb71b71b9e7d63f6e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aef758bdbc8f93c8981aedd51d7e10a07"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc8/a07950.html#aef758bdbc8f93c8981aedd51d7e10a07">AddCreatureToGroup</a> (<a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> group_id, <a class="el" href="../../d6/dd4/a07858.html">Creature</a> *creature)</td></tr>
-<tr class="separator:aef758bdbc8f93c8981aedd51d7e10a07"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6ecac2b9dcdc8db2cd7a0bd1be0fd364"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc8/a07950.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364">RemoveCreatureFromGroup</a> (<a class="el" href="../../d8/de1/a07954.html">CreatureGroup</a> *group, <a class="el" href="../../d6/dd4/a07858.html">Creature</a> *creature)</td></tr>
-<tr class="separator:a6ecac2b9dcdc8db2cd7a0bd1be0fd364"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af0ecde62fc5c4a3a2b3be16c58f51fde"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc8/a07950.html#af0ecde62fc5c4a3a2b3be16c58f51fde">LoadCreatureFormations</a> ()</td></tr>
-<tr class="separator:af0ecde62fc5c4a3a2b3be16c58f51fde"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb7730ba67910121a255a6da535d2fc2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc8/a07950.html#adb7730ba67910121a255a6da535d2fc2">LFGGroupScript</a> ()</td></tr>
+<tr class="separator:adb7730ba67910121a255a6da535d2fc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43c29f1c4b0f78b203a8798e34e9bc4c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc8/a07950.html#a43c29f1c4b0f78b203a8798e34e9bc4c">OnAddMember</a> (<a class="el" href="../../d3/d21/a09462.html">Group</a> *group, <a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a> guid) override</td></tr>
+<tr class="separator:a43c29f1c4b0f78b203a8798e34e9bc4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1385adec817221a83653a6fa03e57858"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc8/a07950.html#a1385adec817221a83653a6fa03e57858">OnRemoveMember</a> (<a class="el" href="../../d3/d21/a09462.html">Group</a> *group, <a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a> guid, <a class="el" href="../../dc/d2b/a02486.html#af1c66bfbd0322ba300c7dcafe61e3b34">RemoveMethod</a> method, <a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a> kicker, char const *reason) override</td></tr>
+<tr class="separator:a1385adec817221a83653a6fa03e57858"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7d8d28f1919e407ed93474d970733d86"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc8/a07950.html#a7d8d28f1919e407ed93474d970733d86">OnDisband</a> (<a class="el" href="../../d3/d21/a09462.html">Group</a> *group) override</td></tr>
+<tr class="separator:a7d8d28f1919e407ed93474d970733d86"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3616c537eb39fe130c8fb24d93a0ead9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc8/a07950.html#a3616c537eb39fe130c8fb24d93a0ead9">OnChangeLeader</a> (<a class="el" href="../../d3/d21/a09462.html">Group</a> *group, <a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a> newLeaderGuid, <a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a> oldLeaderGuid) override</td></tr>
+<tr class="separator:a3616c537eb39fe130c8fb24d93a0ead9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a25add922fa708babe08c3bdaaa0c0d92"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc8/a07950.html#a25add922fa708babe08c3bdaaa0c0d92">OnInviteMember</a> (<a class="el" href="../../d3/d21/a09462.html">Group</a> *group, <a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a> guid) override</td></tr>
+<tr class="separator:a25add922fa708babe08c3bdaaa0c0d92"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a10278"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10278')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../df/d88/a10278.html">GroupScript</a></td></tr>
+<tr class="memitem:acb561e8a2d5b3542e228a7beb8122fbf inherit pub_methods_a10278"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d88/a10278.html#acb561e8a2d5b3542e228a7beb8122fbf">IsDatabaseBound</a> () const override</td></tr>
+<tr class="separator:acb561e8a2d5b3542e228a7beb8122fbf inherit pub_methods_a10278"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb279c4c0ba60ffea994f35cd7e91ad1 inherit pub_methods_a10278"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d88/a10278.html#adb279c4c0ba60ffea994f35cd7e91ad1">OnAddMember</a> (<a class="el" href="../../d3/d21/a09462.html">Group</a> *, <a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a>)</td></tr>
+<tr class="separator:adb279c4c0ba60ffea994f35cd7e91ad1 inherit pub_methods_a10278"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ae925dc27708fdaa4d5909b582b77a7 inherit pub_methods_a10278"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d88/a10278.html#a2ae925dc27708fdaa4d5909b582b77a7">OnInviteMember</a> (<a class="el" href="../../d3/d21/a09462.html">Group</a> *, <a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a>)</td></tr>
+<tr class="separator:a2ae925dc27708fdaa4d5909b582b77a7 inherit pub_methods_a10278"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf640b01746ee92fed31670ee5cc8d0f inherit pub_methods_a10278"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d88/a10278.html#adf640b01746ee92fed31670ee5cc8d0f">OnRemoveMember</a> (<a class="el" href="../../d3/d21/a09462.html">Group</a> *, <a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a>, <a class="el" href="../../dc/d2b/a02486.html#af1c66bfbd0322ba300c7dcafe61e3b34">RemoveMethod</a>, <a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a>, const char *)</td></tr>
+<tr class="separator:adf640b01746ee92fed31670ee5cc8d0f inherit pub_methods_a10278"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a64a1441fd3db3f25236691efcff4a80b inherit pub_methods_a10278"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d88/a10278.html#a64a1441fd3db3f25236691efcff4a80b">OnChangeLeader</a> (<a class="el" href="../../d3/d21/a09462.html">Group</a> *, <a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a>, <a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a>)</td></tr>
+<tr class="separator:a64a1441fd3db3f25236691efcff4a80b inherit pub_methods_a10278"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3cb94966ba1d02180fb3e7cf95000e5f inherit pub_methods_a10278"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d88/a10278.html#a3cb94966ba1d02180fb3e7cf95000e5f">OnDisband</a> (<a class="el" href="../../d3/d21/a09462.html">Group</a> *)</td></tr>
+<tr class="separator:a3cb94966ba1d02180fb3e7cf95000e5f inherit pub_methods_a10278"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a931b4a94a2f95958579b37c0af6ece03 inherit pub_methods_a10278"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d88/a10278.html#a931b4a94a2f95958579b37c0af6ece03">CanGroupJoinBattlegroundQueue</a> (<a class="el" href="../../d3/d21/a09462.html">Group</a> const *, <a class="el" href="../../d2/d54/a08578.html">Player</a> *, <a class="el" href="../../de/d00/a07258.html">Battleground</a> const *, <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, bool, <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:a931b4a94a2f95958579b37c0af6ece03 inherit pub_methods_a10278"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a18973a7e5f260712f032ca1129d4a0bc inherit pub_methods_a10278"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d88/a10278.html#a18973a7e5f260712f032ca1129d4a0bc">OnCreate</a> (<a class="el" href="../../d3/d21/a09462.html">Group</a> *, <a class="el" href="../../d2/d54/a08578.html">Player</a> *)</td></tr>
+<tr class="separator:a18973a7e5f260712f032ca1129d4a0bc inherit pub_methods_a10278"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a10382"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10382')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../dc/ddf/a10382.html">ScriptObject</a></td></tr>
+<tr class="memitem:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10382"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddf/a10382.html#a37da453729d5c8fbe2d06f905563f47c">IsDatabaseBound</a> () const</td></tr>
+<tr class="separator:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10382"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10382"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddf/a10382.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a> () const</td></tr>
+<tr class="separator:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10382"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10382"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddf/a10382.html#a585e75e34aed7aa32205daad85f8fe08">checkValidity</a> ()</td></tr>
+<tr class="separator:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10382"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10382"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddf/a10382.html#a79588d839860d2f5caab60c5f1368f10">GetName</a> () const</td></tr>
+<tr class="separator:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10382"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10382"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d35/a00266.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddf/a10382.html#a69ee35ec7d54226264efef558022c1c0">GetTotalAvailableHooks</a> ()</td></tr>
+<tr class="separator:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10382"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a871fec234a94e4adae07315a008acec3"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../da/dc8/a07950.html">FormationMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc8/a07950.html#a871fec234a94e4adae07315a008acec3">instance</a> ()</td></tr>
-<tr class="separator:a871fec234a94e4adae07315a008acec3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:ac11a3dfbe6a4f7df01d966f14b0aecd9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d9e/a01226.html#a2c3447bf21f430bff136da6811d93a61">CreatureGroupInfoType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc8/a07950.html#ac11a3dfbe6a4f7df01d966f14b0aecd9">CreatureGroupMap</a></td></tr>
-<tr class="separator:ac11a3dfbe6a4f7df01d966f14b0aecd9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
+Additional Inherited Members</h2></td></tr>
+<tr class="inherit_header pro_methods_a10278"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10278')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../df/d88/a10278.html">GroupScript</a></td></tr>
+<tr class="memitem:a0680f82522424afc364e9b94e1c6f686 inherit pro_methods_a10278"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d88/a10278.html#a0680f82522424afc364e9b94e1c6f686">GroupScript</a> (const char *name, std::vector&lt; <a class="el" href="../../d5/d35/a00266.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt; enabledHooks=std::vector&lt; <a class="el" href="../../d5/d35/a00266.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt;())</td></tr>
+<tr class="separator:a0680f82522424afc364e9b94e1c6f686 inherit pro_methods_a10278"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_methods_a10382"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10382')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../dc/ddf/a10382.html">ScriptObject</a></td></tr>
+<tr class="memitem:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10382"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddf/a10382.html#ae4ca97cf587379c94354e4889ff8c0c2">ScriptObject</a> (const char *name, <a class="el" href="../../d5/d35/a00266.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> totalAvailableHooks=0)</td></tr>
+<tr class="separator:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10382"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10382"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddf/a10382.html#a80c704c939f54eee6655d68509598c42">~ScriptObject</a> ()=default</td></tr>
+<tr class="separator:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10382"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ade1aa22473c112aed65d537929b07908" name="ade1aa22473c112aed65d537929b07908"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ade1aa22473c112aed65d537929b07908">&#9670;&#160;</a></span>FormationMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">FormationMgr::FormationMgr </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   78</span>{ }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a8f3ee00e25ebacfb71b71b9e7d63f6e0" name="a8f3ee00e25ebacfb71b71b9e7d63f6e0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8f3ee00e25ebacfb71b71b9e7d63f6e0">&#9670;&#160;</a></span>~FormationMgr()</h2>
+<a id="adb7730ba67910121a255a6da535d2fc2" name="adb7730ba67910121a255a6da535d2fc2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adb7730ba67910121a255a6da535d2fc2">&#9670;&#160;</a></span>LFGGroupScript()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">FormationMgr::~FormationMgr </td>
+          <td class="memname">lfg::LFGGroupScript::LFGGroupScript </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
-<div class="line"><span class="lineno">   29</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  143</span>                                   :</div>
+<div class="line"><span class="lineno">  144</span>        <a class="code hl_class" href="../../df/d88/a10278.html">GroupScript</a>(<span class="stringliteral">&quot;LFGGroupScript&quot;</span>,</div>
+<div class="line"><span class="lineno">  145</span>        {</div>
+<div class="line"><span class="lineno">  146</span>            <a class="code hl_enumvalue" href="../../d5/d12/a01799.html#a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681">GROUPHOOK_ON_ADD_MEMBER</a>,</div>
+<div class="line"><span class="lineno">  147</span>            <a class="code hl_enumvalue" href="../../d5/d12/a01799.html#a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3">GROUPHOOK_ON_REMOVE_MEMBER</a>,</div>
+<div class="line"><span class="lineno">  148</span>            <a class="code hl_enumvalue" href="../../d5/d12/a01799.html#a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353">GROUPHOOK_ON_DISBAND</a>,</div>
+<div class="line"><span class="lineno">  149</span>            <a class="code hl_enumvalue" href="../../d5/d12/a01799.html#a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23">GROUPHOOK_ON_CHANGE_LEADER</a>,</div>
+<div class="line"><span class="lineno">  150</span>            <a class="code hl_enumvalue" href="../../d5/d12/a01799.html#a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe">GROUPHOOK_ON_INVITE_MEMBER</a></div>
+<div class="line"><span class="lineno">  151</span>        })</div>
+<div class="line"><span class="lineno">  152</span>    {</div>
+<div class="line"><span class="lineno">  153</span>    }</div>
+<div class="ttc" id="aa01799_html_a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23"><div class="ttname"><a href="../../d5/d12/a01799.html#a373b3fe6b402e8321892b8c1be74ab5da32d5ef38f2a877e2d36cdf20e9bb6d23">GROUPHOOK_ON_CHANGE_LEADER</a></div><div class="ttdeci">@ GROUPHOOK_ON_CHANGE_LEADER</div><div class="ttdef"><b>Definition:</b> GroupScript.h:30</div></div>
+<div class="ttc" id="aa01799_html_a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681"><div class="ttname"><a href="../../d5/d12/a01799.html#a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681">GROUPHOOK_ON_ADD_MEMBER</a></div><div class="ttdeci">@ GROUPHOOK_ON_ADD_MEMBER</div><div class="ttdef"><b>Definition:</b> GroupScript.h:27</div></div>
+<div class="ttc" id="aa01799_html_a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe"><div class="ttname"><a href="../../d5/d12/a01799.html#a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe">GROUPHOOK_ON_INVITE_MEMBER</a></div><div class="ttdeci">@ GROUPHOOK_ON_INVITE_MEMBER</div><div class="ttdef"><b>Definition:</b> GroupScript.h:28</div></div>
+<div class="ttc" id="aa01799_html_a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3"><div class="ttname"><a href="../../d5/d12/a01799.html#a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3">GROUPHOOK_ON_REMOVE_MEMBER</a></div><div class="ttdeci">@ GROUPHOOK_ON_REMOVE_MEMBER</div><div class="ttdef"><b>Definition:</b> GroupScript.h:29</div></div>
+<div class="ttc" id="aa01799_html_a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353"><div class="ttname"><a href="../../d5/d12/a01799.html#a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353">GROUPHOOK_ON_DISBAND</a></div><div class="ttdeci">@ GROUPHOOK_ON_DISBAND</div><div class="ttdef"><b>Definition:</b> GroupScript.h:31</div></div>
+<div class="ttc" id="aa10278_html"><div class="ttname"><a href="../../df/d88/a10278.html">GroupScript</a></div><div class="ttdef"><b>Definition:</b> GroupScript.h:40</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">GROUPHOOK_ON_ADD_MEMBER</a>, <a class="el" href="../../#l00030">GROUPHOOK_ON_CHANGE_LEADER</a>, <a class="el" href="../../#l00031">GROUPHOOK_ON_DISBAND</a>, <a class="el" href="../../#l00028">GROUPHOOK_ON_INVITE_MEMBER</a>, and <a class="el" href="../../#l00029">GROUPHOOK_ON_REMOVE_MEMBER</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="aef758bdbc8f93c8981aedd51d7e10a07" name="aef758bdbc8f93c8981aedd51d7e10a07"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aef758bdbc8f93c8981aedd51d7e10a07">&#9670;&#160;</a></span>AddCreatureToGroup()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void FormationMgr::AddCreatureToGroup </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>group_id</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/dd4/a07858.html">Creature</a> *&#160;</td>
-          <td class="paramname"><em>creature</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   38</span>{</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_class" href="../../d5/d8e/a09630.html">Map</a>* map = member-&gt;FindMap();</div>
-<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">if</span> (!map)</div>
-<div class="line"><span class="lineno">   41</span>    {</div>
-<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   43</span>    }</div>
-<div class="line"><span class="lineno">   44</span> </div>
-<div class="line"><span class="lineno">   45</span>    CreatureGroupHolderType::iterator itr = map-&gt;<a class="code hl_variable" href="../../d5/d8e/a09630.html#acd71e42ca86d66e62fc0360bb4cab851">CreatureGroupHolder</a>.find(groupId);</div>
-<div class="line"><span class="lineno">   46</span> </div>
-<div class="line"><span class="lineno">   47</span>    <span class="comment">//Add member to an existing group</span></div>
-<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">if</span> (itr != map-&gt;<a class="code hl_variable" href="../../d5/d8e/a09630.html#acd71e42ca86d66e62fc0360bb4cab851">CreatureGroupHolder</a>.end())</div>
-<div class="line"><span class="lineno">   49</span>    {</div>
-<div class="line"><span class="lineno">   50</span>        <a class="code hl_define" href="../../db/db6/a00074.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;entities.unit&quot;</span>, <span class="stringliteral">&quot;Group found: {}, inserting creature {}, Group InstanceID {}&quot;</span>, groupId, member-&gt;GetGUID().ToString(), member-&gt;GetInstanceId());</div>
-<div class="line"><span class="lineno">   51</span>        itr-&gt;second-&gt;AddMember(member);</div>
-<div class="line"><span class="lineno">   52</span>    }</div>
-<div class="line"><span class="lineno">   53</span>    <span class="comment">//Create new group</span></div>
-<div class="line"><span class="lineno">   54</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   55</span>    {</div>
-<div class="line"><span class="lineno">   56</span>        <a class="code hl_define" href="../../db/db6/a00074.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;entities.unit&quot;</span>, <span class="stringliteral">&quot;Group not found: {}. Creating new group.&quot;</span>, groupId);</div>
-<div class="line"><span class="lineno">   57</span>        <a class="code hl_class" href="../../d8/de1/a07954.html">CreatureGroup</a>* group = <span class="keyword">new</span> <a class="code hl_class" href="../../d8/de1/a07954.html">CreatureGroup</a>(groupId);</div>
-<div class="line"><span class="lineno">   58</span>        map-&gt;<a class="code hl_variable" href="../../d5/d8e/a09630.html#acd71e42ca86d66e62fc0360bb4cab851">CreatureGroupHolder</a>[groupId] = group;</div>
-<div class="line"><span class="lineno">   59</span>        group-&gt;<a class="code hl_function" href="../../d8/de1/a07954.html#afca7fafddd0f361507469f875bf5d17c">AddMember</a>(member);</div>
-<div class="line"><span class="lineno">   60</span>    }</div>
-<div class="line"><span class="lineno">   61</span>}</div>
-<div class="ttc" id="aa00074_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../db/db6/a00074.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:169</div></div>
-<div class="ttc" id="aa07954_html"><div class="ttname"><a href="../../d8/de1/a07954.html">CreatureGroup</a></div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:90</div></div>
-<div class="ttc" id="aa07954_html_afca7fafddd0f361507469f875bf5d17c"><div class="ttname"><a href="../../d8/de1/a07954.html#afca7fafddd0f361507469f875bf5d17c">CreatureGroup::AddMember</a></div><div class="ttdeci">void AddMember(Creature *member)</div><div class="ttdef"><b>Definition:</b> CreatureGroups.cpp:169</div></div>
-<div class="ttc" id="aa09630_html"><div class="ttname"><a href="../../d5/d8e/a09630.html">Map</a></div><div class="ttdef"><b>Definition:</b> Map.h:311</div></div>
-<div class="ttc" id="aa09630_html_acd71e42ca86d66e62fc0360bb4cab851"><div class="ttname"><a href="../../d5/d8e/a09630.html#acd71e42ca86d66e62fc0360bb4cab851">Map::CreatureGroupHolder</a></div><div class="ttdeci">CreatureGroupHolderType CreatureGroupHolder</div><div class="ttdef"><b>Definition:</b> Map.h:499</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00169">CreatureGroup::AddMember()</a>, <a class="el" href="../../#l00499">Map::CreatureGroupHolder</a>, <a class="el" href="../../#l00537">WorldObject::FindMap()</a>, <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00448">WorldObject::GetInstanceId()</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
-
-</div>
-</div>
-<a id="a871fec234a94e4adae07315a008acec3" name="a871fec234a94e4adae07315a008acec3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a871fec234a94e4adae07315a008acec3">&#9670;&#160;</a></span>instance()</h2>
+<a id="a43c29f1c4b0f78b203a8798e34e9bc4c" name="a43c29f1c4b0f78b203a8798e34e9bc4c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a43c29f1c4b0f78b203a8798e34e9bc4c">&#9670;&#160;</a></span>OnAddMember()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -255,174 +226,16 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/dc8/a07950.html">FormationMgr</a> * FormationMgr::instance </td>
+          <td class="memname">void lfg::LFGGroupScript::OnAddMember </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   32</span>{</div>
-<div class="line"><span class="lineno">   33</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../da/dc8/a07950.html">FormationMgr</a> <a class="code hl_function" href="../../da/dc8/a07950.html#a871fec234a94e4adae07315a008acec3">instance</a>;</div>
-<div class="line"><span class="lineno">   34</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../da/dc8/a07950.html#a871fec234a94e4adae07315a008acec3">instance</a>;</div>
-<div class="line"><span class="lineno">   35</span>}</div>
-<div class="ttc" id="aa07950_html"><div class="ttname"><a href="../../da/dc8/a07950.html">FormationMgr</a></div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:76</div></div>
-<div class="ttc" id="aa07950_html_a871fec234a94e4adae07315a008acec3"><div class="ttname"><a href="../../da/dc8/a07950.html#a871fec234a94e4adae07315a008acec3">FormationMgr::instance</a></div><div class="ttdeci">static FormationMgr * instance()</div><div class="ttdef"><b>Definition:</b> CreatureGroups.cpp:31</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">instance()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00031">instance()</a>.</p>
-
-</div>
-</div>
-<a id="af0ecde62fc5c4a3a2b3be16c58f51fde" name="af0ecde62fc5c4a3a2b3be16c58f51fde"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af0ecde62fc5c4a3a2b3be16c58f51fde">&#9670;&#160;</a></span>LoadCreatureFormations()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void FormationMgr::LoadCreatureFormations </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   83</span>{</div>
-<div class="line"><span class="lineno">   84</span>    <a class="code hl_typedef" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> oldMSTime = <a class="code hl_function" href="../../d5/d0f/a00308.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
-<div class="line"><span class="lineno">   85</span>    <a class="code hl_variable" href="../../da/dc8/a07950.html#ac11a3dfbe6a4f7df01d966f14b0aecd9">CreatureGroupMap</a>.clear();</div>
-<div class="line"><span class="lineno">   86</span> </div>
-<div class="line"><span class="lineno">   87</span>    <span class="comment">//Get group data</span></div>
-<div class="line"><span class="lineno">   88</span>    <a class="code hl_typedef" href="../../d7/d1a/a02381.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d5/d73/a02423.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.Query(<span class="stringliteral">&quot;SELECT leaderGUID, memberGUID, dist, angle, groupAI, point_1, point_2 FROM creature_formations ORDER BY leaderGUID&quot;</span>);</div>
-<div class="line"><span class="lineno">   89</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">   90</span>    {</div>
-<div class="line"><span class="lineno">   91</span>        <a class="code hl_define" href="../../db/db6/a00074.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 creatures in formations. DB table `creature_formations` is empty!&quot;</span>);</div>
-<div class="line"><span class="lineno">   92</span>        <a class="code hl_define" href="../../db/db6/a00074.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   93</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   94</span>    }</div>
-<div class="line"><span class="lineno">   95</span> </div>
-<div class="line"><span class="lineno">   96</span>    <a class="code hl_typedef" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
-<div class="line"><span class="lineno">   97</span>    <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">   98</span>    {</div>
-<div class="line"><span class="lineno">   99</span>        <a class="code hl_class" href="../../d4/dc8/a05622.html">Field</a> <span class="keyword">const</span>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">  100</span> </div>
-<div class="line"><span class="lineno">  101</span>        <span class="comment">//Load group member data</span></div>
-<div class="line"><span class="lineno">  102</span>        <a class="code hl_struct" href="../../dd/db3/a07946.html">FormationInfo</a> group_member;</div>
-<div class="line"><span class="lineno">  103</span>        group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#ad5af23397ae1ae835a72ce125d102ef0">leaderGUID</a>            = fields[0].<a class="code hl_function" href="../../d4/dc8/a05622.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  104</span>        <a class="code hl_typedef" href="../../d7/dac/a08278.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> <span class="keyword">const</span> memberGUID = fields[1].<a class="code hl_function" href="../../d4/dc8/a05622.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  105</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> follow_dist             = fields[2].<a class="code hl_function" href="../../d4/dc8/a05622.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;();</div>
-<div class="line"><span class="lineno">  106</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> follow_angle            = fields[3].<a class="code hl_function" href="../../d4/dc8/a05622.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">float</span>&gt;() * (<span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(M_PI) / 180);</div>
-<div class="line"><span class="lineno">  107</span>        group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#af9f6dc52999efef6f0819bb8d1670fec">groupAI</a>               = fields[4].<a class="code hl_function" href="../../d4/dc8/a05622.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d3/df8/a00155.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
-<div class="line"><span class="lineno">  108</span>        group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#a84298ff533bebc633689742c7f9299ae">point_1</a>               = fields[5].<a class="code hl_function" href="../../d4/dc8/a05622.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d3/df8/a00155.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
-<div class="line"><span class="lineno">  109</span>        group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#acc308b497de18211b99eec4311b256a4">point_2</a>               = fields[6].<a class="code hl_function" href="../../d4/dc8/a05622.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d3/df8/a00155.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
-<div class="line"><span class="lineno">  110</span> </div>
-<div class="line"><span class="lineno">  111</span>        <span class="comment">//If creature is group leader we may skip loading of dist/angle</span></div>
-<div class="line"><span class="lineno">  112</span>        <span class="keywordflow">if</span> (group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#ad5af23397ae1ae835a72ce125d102ef0">leaderGUID</a> != memberGUID)</div>
-<div class="line"><span class="lineno">  113</span>        {</div>
-<div class="line"><span class="lineno">  114</span>            <span class="keywordflow">if</span> (!group_member.<a class="code hl_function" href="../../dd/db3/a07946.html#afc612acf30e8d0a047aac5b0fc2dc07b">HasGroupFlag</a>(std::underlying_type_t&lt;GroupAIFlags&gt;(GroupAIFlags::GROUP_AI_FLAG_SUPPORTED)))</div>
-<div class="line"><span class="lineno">  115</span>            {</div>
-<div class="line"><span class="lineno">  116</span>                <a class="code hl_define" href="../../db/db6/a00074.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;creature_formations table leader guid {} and member guid {} has unsupported GroupAI flag value ({}). Skipped&quot;</span>, group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#ad5af23397ae1ae835a72ce125d102ef0">leaderGUID</a>, memberGUID, group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#af9f6dc52999efef6f0819bb8d1670fec">groupAI</a>);</div>
-<div class="line"><span class="lineno">  117</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  118</span>            }</div>
-<div class="line"><span class="lineno">  119</span> </div>
-<div class="line"><span class="lineno">  120</span>            <span class="keywordflow">if</span> (!group_member.<a class="code hl_function" href="../../dd/db3/a07946.html#afc612acf30e8d0a047aac5b0fc2dc07b">HasGroupFlag</a>(std::underlying_type_t&lt;GroupAIFlags&gt;(GroupAIFlags::GROUP_AI_FLAG_FOLLOW_LEADER)) &amp;&amp; (follow_dist &gt; 0.0f || follow_angle &gt; 0.0f))</div>
-<div class="line"><span class="lineno">  121</span>            {</div>
-<div class="line"><span class="lineno">  122</span>                <a class="code hl_define" href="../../db/db6/a00074.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;creature_formations table member guid {} and leader guid {} cannot have follow distance or follow angle because don&#39;t have GROUP_AI_FLAG_FOLLOW_LEADER flag. Values are not gonna be used&quot;</span>, memberGUID, group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#ad5af23397ae1ae835a72ce125d102ef0">leaderGUID</a>);</div>
-<div class="line"><span class="lineno">  123</span>                group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#a3b59ee5129e208cc3df407a921362393">follow_dist</a>       = 0.0f;</div>
-<div class="line"><span class="lineno">  124</span>                group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#a928ce7047d511c316a5367faf7f96673">follow_angle</a>      = 0.0f;</div>
-<div class="line"><span class="lineno">  125</span>            }</div>
-<div class="line"><span class="lineno">  126</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  127</span>            {</div>
-<div class="line"><span class="lineno">  128</span>                group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#a3b59ee5129e208cc3df407a921362393">follow_dist</a>       = follow_dist;</div>
-<div class="line"><span class="lineno">  129</span>                group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#a928ce7047d511c316a5367faf7f96673">follow_angle</a>      = follow_angle;</div>
-<div class="line"><span class="lineno">  130</span>            }</div>
-<div class="line"><span class="lineno">  131</span>        }</div>
-<div class="line"><span class="lineno">  132</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  133</span>        {</div>
-<div class="line"><span class="lineno">  134</span>            <span class="comment">// Leader can have 0 AI flags - its allowed</span></div>
-<div class="line"><span class="lineno">  135</span>            <span class="keywordflow">if</span> (group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#af9f6dc52999efef6f0819bb8d1670fec">groupAI</a> &amp;&amp; !group_member.<a class="code hl_function" href="../../dd/db3/a07946.html#afc612acf30e8d0a047aac5b0fc2dc07b">HasGroupFlag</a>(std::underlying_type_t&lt;GroupAIFlags&gt;(GroupAIFlags::GROUP_AI_FLAG_SUPPORTED)))</div>
-<div class="line"><span class="lineno">  136</span>            {</div>
-<div class="line"><span class="lineno">  137</span>                <a class="code hl_define" href="../../db/db6/a00074.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;creature_formations table leader guid {} and member guid {} has unsupported GroupAI flag value ({}). Skipped&quot;</span>, group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#ad5af23397ae1ae835a72ce125d102ef0">leaderGUID</a>, memberGUID, group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#af9f6dc52999efef6f0819bb8d1670fec">groupAI</a>);</div>
-<div class="line"><span class="lineno">  138</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  139</span>            }</div>
-<div class="line"><span class="lineno">  140</span> </div>
-<div class="line"><span class="lineno">  141</span>            group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#a3b59ee5129e208cc3df407a921362393">follow_dist</a>       = 0.0f;</div>
-<div class="line"><span class="lineno">  142</span>            group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#a928ce7047d511c316a5367faf7f96673">follow_angle</a>      = 0.0f;</div>
-<div class="line"><span class="lineno">  143</span>            <span class="keywordflow">if</span> (follow_dist &gt; 0.0f || follow_angle &gt; 0.0f)</div>
-<div class="line"><span class="lineno">  144</span>            {</div>
-<div class="line"><span class="lineno">  145</span>                <a class="code hl_define" href="../../db/db6/a00074.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;creature_formations table member guid {} and leader guid {} cannot have follow distance or follow angle. Values are not gonna be used&quot;</span>, memberGUID, group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#ad5af23397ae1ae835a72ce125d102ef0">leaderGUID</a>);</div>
-<div class="line"><span class="lineno">  146</span>            }</div>
-<div class="line"><span class="lineno">  147</span>        }</div>
-<div class="line"><span class="lineno">  148</span> </div>
-<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../db/d40/a00959.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureData(group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#ad5af23397ae1ae835a72ce125d102ef0">leaderGUID</a>))</div>
-<div class="line"><span class="lineno">  150</span>        {</div>
-<div class="line"><span class="lineno">  151</span>            <a class="code hl_define" href="../../db/db6/a00074.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;creature_formations table leader guid {} incorrect (does not exist). Skipped&quot;</span>, group_member.<a class="code hl_variable" href="../../dd/db3/a07946.html#ad5af23397ae1ae835a72ce125d102ef0">leaderGUID</a>);</div>
-<div class="line"><span class="lineno">  152</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  153</span>        }</div>
-<div class="line"><span class="lineno">  154</span> </div>
-<div class="line"><span class="lineno">  155</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../db/d40/a00959.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureData(memberGUID))</div>
-<div class="line"><span class="lineno">  156</span>        {</div>
-<div class="line"><span class="lineno">  157</span>            <a class="code hl_define" href="../../db/db6/a00074.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;creature_formations table member guid {} incorrect (does not exist). Skipped&quot;</span>, memberGUID);</div>
-<div class="line"><span class="lineno">  158</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  159</span>        }</div>
-<div class="line"><span class="lineno">  160</span> </div>
-<div class="line"><span class="lineno">  161</span>        <a class="code hl_variable" href="../../da/dc8/a07950.html#ac11a3dfbe6a4f7df01d966f14b0aecd9">CreatureGroupMap</a>[memberGUID] = group_member;</div>
-<div class="line"><span class="lineno">  162</span>        ++count;</div>
-<div class="line"><span class="lineno">  163</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">  164</span> </div>
-<div class="line"><span class="lineno">  165</span>    <a class="code hl_define" href="../../db/db6/a00074.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} Creatures In Formations in {} ms&quot;</span>, count, <a class="code hl_function" href="../../d5/d0f/a00308.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
-<div class="line"><span class="lineno">  166</span>    <a class="code hl_define" href="../../db/db6/a00074.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  167</span>}</div>
-<div class="ttc" id="aa00074_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../db/db6/a00074.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:165</div></div>
-<div class="ttc" id="aa00074_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../db/db6/a00074.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
-<div class="ttc" id="aa00074_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../db/db6/a00074.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:161</div></div>
-<div class="ttc" id="aa00155_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d3/df8/a00155.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa00155_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d3/df8/a00155.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa00308_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../d5/d0f/a00308.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
-<div class="ttc" id="aa00308_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d5/d0f/a00308.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
-<div class="ttc" id="aa00959_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../db/d40/a00959.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1643</div></div>
-<div class="ttc" id="aa02381_html_ab0c9feeec448a181290fcb39565b8253"><div class="ttname"><a href="../../d7/d1a/a02381.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; ResultSet &gt; QueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:27</div></div>
-<div class="ttc" id="aa02423_html_afa9a6509f9913c9c7dd3081523badd7c"><div class="ttname"><a href="../../d5/d73/a02423.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; WorldDatabaseConnection &gt; WorldDatabase</div><div class="ttdoc">Accessor to the world database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:20</div></div>
-<div class="ttc" id="aa05622_html"><div class="ttname"><a href="../../d4/dc8/a05622.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
-<div class="ttc" id="aa05622_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d4/dc8/a05622.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
-<div class="ttc" id="aa07946_html"><div class="ttname"><a href="../../dd/db3/a07946.html">FormationInfo</a></div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:52</div></div>
-<div class="ttc" id="aa07946_html_a3b59ee5129e208cc3df407a921362393"><div class="ttname"><a href="../../dd/db3/a07946.html#a3b59ee5129e208cc3df407a921362393">FormationInfo::follow_dist</a></div><div class="ttdeci">float follow_dist</div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:64</div></div>
-<div class="ttc" id="aa07946_html_a84298ff533bebc633689742c7f9299ae"><div class="ttname"><a href="../../dd/db3/a07946.html#a84298ff533bebc633689742c7f9299ae">FormationInfo::point_1</a></div><div class="ttdeci">uint32 point_1</div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:67</div></div>
-<div class="ttc" id="aa07946_html_a928ce7047d511c316a5367faf7f96673"><div class="ttname"><a href="../../dd/db3/a07946.html#a928ce7047d511c316a5367faf7f96673">FormationInfo::follow_angle</a></div><div class="ttdeci">float follow_angle</div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:65</div></div>
-<div class="ttc" id="aa07946_html_acc308b497de18211b99eec4311b256a4"><div class="ttname"><a href="../../dd/db3/a07946.html#acc308b497de18211b99eec4311b256a4">FormationInfo::point_2</a></div><div class="ttdeci">uint32 point_2</div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:68</div></div>
-<div class="ttc" id="aa07946_html_ad5af23397ae1ae835a72ce125d102ef0"><div class="ttname"><a href="../../dd/db3/a07946.html#ad5af23397ae1ae835a72ce125d102ef0">FormationInfo::leaderGUID</a></div><div class="ttdeci">ObjectGuid::LowType leaderGUID</div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:63</div></div>
-<div class="ttc" id="aa07946_html_af9f6dc52999efef6f0819bb8d1670fec"><div class="ttname"><a href="../../dd/db3/a07946.html#af9f6dc52999efef6f0819bb8d1670fec">FormationInfo::groupAI</a></div><div class="ttdeci">uint16 groupAI</div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:66</div></div>
-<div class="ttc" id="aa07946_html_afc612acf30e8d0a047aac5b0fc2dc07b"><div class="ttname"><a href="../../dd/db3/a07946.html#afc612acf30e8d0a047aac5b0fc2dc07b">FormationInfo::HasGroupFlag</a></div><div class="ttdeci">bool HasGroupFlag(uint16 flag) const</div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:70</div></div>
-<div class="ttc" id="aa07950_html_ac11a3dfbe6a4f7df01d966f14b0aecd9"><div class="ttname"><a href="../../da/dc8/a07950.html#ac11a3dfbe6a4f7df01d966f14b0aecd9">FormationMgr::CreatureGroupMap</a></div><div class="ttdeci">CreatureGroupInfoType CreatureGroupMap</div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:86</div></div>
-<div class="ttc" id="aa08278_html_aa278d50613c05dc1333df5185a6993eb"><div class="ttname"><a href="../../d7/dac/a08278.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a></div><div class="ttdeci">uint32 LowType</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:122</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00086">CreatureGroupMap</a>, <a class="el" href="../../#l00065">FormationInfo::follow_angle</a>, <a class="el" href="../../#l00064">FormationInfo::follow_dist</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00066">FormationInfo::groupAI</a>, <a class="el" href="../../#l00070">FormationInfo::HasGroupFlag()</a>, <a class="el" href="../../#l00063">FormationInfo::leaderGUID</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00161">LOG_WARN</a>, <a class="el" href="../../#l00067">FormationInfo::point_1</a>, <a class="el" href="../../#l00068">FormationInfo::point_2</a>, <a class="el" href="../../#l01643">sObjectMgr</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
-
-</div>
-</div>
-<a id="a6ecac2b9dcdc8db2cd7a0bd1be0fd364" name="a6ecac2b9dcdc8db2cd7a0bd1be0fd364"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6ecac2b9dcdc8db2cd7a0bd1be0fd364">&#9670;&#160;</a></span>RemoveCreatureFromGroup()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void FormationMgr::RemoveCreatureFromGroup </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/de1/a07954.html">CreatureGroup</a> *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d3/d21/a09462.html">Group</a> *&#160;</td>
           <td class="paramname"><em>group</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/dd4/a07858.html">Creature</a> *&#160;</td>
-          <td class="paramname"><em>creature</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>guid</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -430,46 +243,372 @@ Public Attributes</h2></td></tr>
           <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   64</span>{</div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_define" href="../../db/db6/a00074.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;entities.unit&quot;</span>, <span class="stringliteral">&quot;Deleting member pointer to spawnId: {} from group {}&quot;</span>, member-&gt;GetSpawnId(), group-&gt;<a class="code hl_function" href="../../d8/de1/a07954.html#a0d67df48ef040fc8f14b1ddf307aed14">GetId</a>());</div>
-<div class="line"><span class="lineno">   66</span>    group-&gt;<a class="code hl_function" href="../../d8/de1/a07954.html#a8080ff17f223119659870c49db3ae6d9">RemoveMember</a>(member);</div>
-<div class="line"><span class="lineno">   67</span> </div>
-<div class="line"><span class="lineno">   68</span>    <span class="keywordflow">if</span> (group-&gt;<a class="code hl_function" href="../../d8/de1/a07954.html#ad88320d89fba23f6cdf5fd0b4de33c18">IsEmpty</a>())</div>
-<div class="line"><span class="lineno">   69</span>    {</div>
-<div class="line"><span class="lineno">   70</span>        <a class="code hl_class" href="../../d5/d8e/a09630.html">Map</a>* map = member-&gt;FindMap();</div>
-<div class="line"><span class="lineno">   71</span>        <span class="keywordflow">if</span> (!map)</div>
-<div class="line"><span class="lineno">   72</span>        {</div>
-<div class="line"><span class="lineno">   73</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   74</span>        }</div>
-<div class="line"><span class="lineno">   75</span> </div>
-<div class="line"><span class="lineno">   76</span>        <a class="code hl_define" href="../../db/db6/a00074.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;entities.unit&quot;</span>, <span class="stringliteral">&quot;Deleting group with InstanceID {}&quot;</span>, member-&gt;GetInstanceId());</div>
-<div class="line"><span class="lineno">   77</span>        map-&gt;<a class="code hl_variable" href="../../d5/d8e/a09630.html#acd71e42ca86d66e62fc0360bb4cab851">CreatureGroupHolder</a>.erase(group-&gt;<a class="code hl_function" href="../../d8/de1/a07954.html#a0d67df48ef040fc8f14b1ddf307aed14">GetId</a>());</div>
-<div class="line"><span class="lineno">   78</span>        <span class="keyword">delete</span> group;</div>
-<div class="line"><span class="lineno">   79</span>    }</div>
-<div class="line"><span class="lineno">   80</span>}</div>
-<div class="ttc" id="aa07954_html_a0d67df48ef040fc8f14b1ddf307aed14"><div class="ttname"><a href="../../d8/de1/a07954.html#a0d67df48ef040fc8f14b1ddf307aed14">CreatureGroup::GetId</a></div><div class="ttdeci">uint32 GetId() const</div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:100</div></div>
-<div class="ttc" id="aa07954_html_a8080ff17f223119659870c49db3ae6d9"><div class="ttname"><a href="../../d8/de1/a07954.html#a8080ff17f223119659870c49db3ae6d9">CreatureGroup::RemoveMember</a></div><div class="ttdeci">void RemoveMember(Creature *member)</div><div class="ttdef"><b>Definition:</b> CreatureGroups.cpp:184</div></div>
-<div class="ttc" id="aa07954_html_ad88320d89fba23f6cdf5fd0b4de33c18"><div class="ttname"><a href="../../d8/de1/a07954.html#ad88320d89fba23f6cdf5fd0b4de33c18">CreatureGroup::IsEmpty</a></div><div class="ttdeci">bool IsEmpty() const</div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:102</div></div>
+
+<p>Reimplemented from <a class="el" href="../../df/d88/a10278.html#adb279c4c0ba60ffea994f35cd7e91ad1">GroupScript</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  156</span>    {</div>
+<div class="line"><span class="lineno">  157</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;isOptionEnabled(<a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4a60b973ec0c197664894bba68e8d86c76">LFG_OPTION_ENABLE_DUNGEON_FINDER</a> | <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4ac6454c0e227f8e7d4f50c87341117668">LFG_OPTION_ENABLE_RAID_BROWSER</a> | <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4a3d8245a21e83ed011bc8c88f087cb913">LFG_OPTION_ENABLE_SEASONAL_BOSSES</a>))</div>
+<div class="line"><span class="lineno">  158</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  159</span> </div>
+<div class="line"><span class="lineno">  160</span>        <a class="code hl_class" href="../../de/d6b/a08378.html">ObjectGuid</a> gguid = group-&gt;<a class="code hl_function" href="../../d3/d21/a09462.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>();</div>
+<div class="line"><span class="lineno">  161</span>        <a class="code hl_class" href="../../de/d6b/a08378.html">ObjectGuid</a> leader = group-&gt;<a class="code hl_function" href="../../d3/d21/a09462.html#ae13d8553fff889200d9ab2fa660adc5b">GetLeaderGUID</a>();</div>
+<div class="line"><span class="lineno">  162</span> </div>
+<div class="line"><span class="lineno">  163</span>        <span class="keywordflow">if</span> (leader == guid)</div>
+<div class="line"><span class="lineno">  164</span>        {</div>
+<div class="line"><span class="lineno">  165</span>            <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;lfg&quot;</span>, <span class="stringliteral">&quot;LFGScripts::OnAddMember [{}]: added [{}] leader [{}]&quot;</span>, gguid.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), guid.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), leader.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno">  166</span>            <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;SetLeader(gguid, guid);</div>
+<div class="line"><span class="lineno">  167</span>        }</div>
+<div class="line"><span class="lineno">  168</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  169</span>        {</div>
+<div class="line"><span class="lineno">  170</span>            <a class="code hl_enumeration" href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bd">LfgState</a> gstate = <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;GetState(gguid);</div>
+<div class="line"><span class="lineno">  171</span>            <a class="code hl_enumeration" href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bd">LfgState</a> state = <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;GetState(guid);</div>
+<div class="line"><span class="lineno">  172</span>            <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;lfg&quot;</span>, <span class="stringliteral">&quot;LFGScripts::OnAddMember [{}]: added [{}] leader [{}] gstate: {}, state: {}&quot;</span>,</div>
+<div class="line"><span class="lineno">  173</span>                gguid.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), guid.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), leader.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), gstate, state);</div>
+<div class="line"><span class="lineno">  174</span> </div>
+<div class="line"><span class="lineno">  175</span>            <span class="keywordflow">if</span> (state == <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bdaea7c189e5c3292416cbd788e048b8915">LFG_STATE_QUEUED</a>)</div>
+<div class="line"><span class="lineno">  176</span>                <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;LeaveLfg(guid);</div>
+<div class="line"><span class="lineno">  177</span> </div>
+<div class="line"><span class="lineno">  178</span>            <span class="keywordflow">if</span> (gstate == <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bdaea7c189e5c3292416cbd788e048b8915">LFG_STATE_QUEUED</a>)</div>
+<div class="line"><span class="lineno">  179</span>                <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;LeaveLfg(gguid);</div>
+<div class="line"><span class="lineno">  180</span>        }</div>
+<div class="line"><span class="lineno">  181</span> </div>
+<div class="line"><span class="lineno">  182</span>        <span class="keywordflow">if</span> (!group-&gt;<a class="code hl_function" href="../../d3/d21/a09462.html#a262e3bb23b71f40a2df56198f9921e9d">isLFGGroup</a>())</div>
+<div class="line"><span class="lineno">  183</span>        {</div>
+<div class="line"><span class="lineno">  184</span>            <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;LeaveAllLfgQueues(leader, <span class="keyword">true</span>, gguid); <span class="comment">// pussywizard: invited, queued, party formed, neither party nor new member are queued, but leader is in queue solo!</span></div>
+<div class="line"><span class="lineno">  185</span>            <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;LeaveAllLfgQueues(guid, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  186</span>        }</div>
+<div class="line"><span class="lineno">  187</span> </div>
+<div class="line"><span class="lineno">  188</span>        <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;SetGroup(guid, gguid);</div>
+<div class="line"><span class="lineno">  189</span>        <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;AddPlayerToGroup(gguid, guid);</div>
+<div class="line"><span class="lineno">  190</span> </div>
+<div class="line"><span class="lineno">  191</span>        <span class="comment">// pussywizard: after all necessary actions handle raid browser</span></div>
+<div class="line"><span class="lineno">  192</span>        <span class="keywordflow">if</span> (<a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;GetState(guid) == <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bda07544e99a884feb5e7d9bc8d9b336167">LFG_STATE_RAIDBROWSER</a>)</div>
+<div class="line"><span class="lineno">  193</span>            <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;LeaveLfg(guid);</div>
+<div class="line"><span class="lineno">  194</span>    }</div>
+<div class="ttc" id="aa00557_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:169</div></div>
+<div class="ttc" id="aa01580_html_a9876016115774ddaf27fca5cc9adb96e"><div class="ttname"><a href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a></div><div class="ttdeci">#define sLFGMgr</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:641</div></div>
+<div class="ttc" id="aa04796_html_a07e4718e8cf678327c72b7deb48ccdb4a3d8245a21e83ed011bc8c88f087cb913"><div class="ttname"><a href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4a3d8245a21e83ed011bc8c88f087cb913">lfg::LFG_OPTION_ENABLE_SEASONAL_BOSSES</a></div><div class="ttdeci">@ LFG_OPTION_ENABLE_SEASONAL_BOSSES</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:43</div></div>
+<div class="ttc" id="aa04796_html_a07e4718e8cf678327c72b7deb48ccdb4a60b973ec0c197664894bba68e8d86c76"><div class="ttname"><a href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4a60b973ec0c197664894bba68e8d86c76">lfg::LFG_OPTION_ENABLE_DUNGEON_FINDER</a></div><div class="ttdeci">@ LFG_OPTION_ENABLE_DUNGEON_FINDER</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:41</div></div>
+<div class="ttc" id="aa04796_html_a07e4718e8cf678327c72b7deb48ccdb4ac6454c0e227f8e7d4f50c87341117668"><div class="ttname"><a href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4ac6454c0e227f8e7d4f50c87341117668">lfg::LFG_OPTION_ENABLE_RAID_BROWSER</a></div><div class="ttdeci">@ LFG_OPTION_ENABLE_RAID_BROWSER</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:42</div></div>
+<div class="ttc" id="aa04796_html_a246dcd646c556ecaff639514ef9a80bd"><div class="ttname"><a href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bd">lfg::LfgState</a></div><div class="ttdeci">LfgState</div><div class="ttdef"><b>Definition:</b> LFG.h:67</div></div>
+<div class="ttc" id="aa04796_html_a246dcd646c556ecaff639514ef9a80bda07544e99a884feb5e7d9bc8d9b336167"><div class="ttname"><a href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bda07544e99a884feb5e7d9bc8d9b336167">lfg::LFG_STATE_RAIDBROWSER</a></div><div class="ttdeci">@ LFG_STATE_RAIDBROWSER</div><div class="ttdef"><b>Definition:</b> LFG.h:75</div></div>
+<div class="ttc" id="aa04796_html_a246dcd646c556ecaff639514ef9a80bdaea7c189e5c3292416cbd788e048b8915"><div class="ttname"><a href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bdaea7c189e5c3292416cbd788e048b8915">lfg::LFG_STATE_QUEUED</a></div><div class="ttdeci">@ LFG_STATE_QUEUED</div><div class="ttdef"><b>Definition:</b> LFG.h:70</div></div>
+<div class="ttc" id="aa08378_html"><div class="ttname"><a href="../../de/d6b/a08378.html">ObjectGuid</a></div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:118</div></div>
+<div class="ttc" id="aa08378_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:47</div></div>
+<div class="ttc" id="aa09462_html_a262e3bb23b71f40a2df56198f9921e9d"><div class="ttname"><a href="../../d3/d21/a09462.html#a262e3bb23b71f40a2df56198f9921e9d">Group::isLFGGroup</a></div><div class="ttdeci">bool isLFGGroup(bool restricted=false) const</div><div class="ttdef"><b>Definition:</b> Group.cpp:2261</div></div>
+<div class="ttc" id="aa09462_html_a68c38a89619391cc85eeac2bf2b96ac4"><div class="ttname"><a href="../../d3/d21/a09462.html#a68c38a89619391cc85eeac2bf2b96ac4">Group::GetGUID</a></div><div class="ttdeci">ObjectGuid GetGUID() const</div><div class="ttdef"><b>Definition:</b> Group.cpp:2302</div></div>
+<div class="ttc" id="aa09462_html_ae13d8553fff889200d9ab2fa660adc5b"><div class="ttname"><a href="../../d3/d21/a09462.html#ae13d8553fff889200d9ab2fa660adc5b">Group::GetLeaderGUID</a></div><div class="ttdeci">ObjectGuid GetLeaderGUID() const</div><div class="ttdef"><b>Definition:</b> Group.cpp:2292</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00499">Map::CreatureGroupHolder</a>, <a class="el" href="../../#l00537">WorldObject::FindMap()</a>, <a class="el" href="../../#l00100">CreatureGroup::GetId()</a>, <a class="el" href="../../#l00448">WorldObject::GetInstanceId()</a>, <a class="el" href="../../#l00065">Creature::GetSpawnId()</a>, <a class="el" href="../../#l00102">CreatureGroup::IsEmpty()</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, and <a class="el" href="../../#l00184">CreatureGroup::RemoveMember()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02302">Group::GetGUID()</a>, <a class="el" href="../../#l02292">Group::GetLeaderGUID()</a>, <a class="el" href="../../#l02261">Group::isLFGGroup()</a>, <a class="el" href="../../#l00041">lfg::LFG_OPTION_ENABLE_DUNGEON_FINDER</a>, <a class="el" href="../../#l00042">lfg::LFG_OPTION_ENABLE_RAID_BROWSER</a>, <a class="el" href="../../#l00043">lfg::LFG_OPTION_ENABLE_SEASONAL_BOSSES</a>, <a class="el" href="../../#l00070">lfg::LFG_STATE_QUEUED</a>, <a class="el" href="../../#l00075">lfg::LFG_STATE_RAIDBROWSER</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00641">sLFGMgr</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="ac11a3dfbe6a4f7df01d966f14b0aecd9" name="ac11a3dfbe6a4f7df01d966f14b0aecd9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac11a3dfbe6a4f7df01d966f14b0aecd9">&#9670;&#160;</a></span>CreatureGroupMap</h2>
+<a id="a3616c537eb39fe130c8fb24d93a0ead9" name="a3616c537eb39fe130c8fb24d93a0ead9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3616c537eb39fe130c8fb24d93a0ead9">&#9670;&#160;</a></span>OnChangeLeader()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/d9e/a01226.html#a2c3447bf21f430bff136da6811d93a61">CreatureGroupInfoType</a> FormationMgr::CreatureGroupMap</td>
+          <td class="memname">void lfg::LFGGroupScript::OnChangeLeader </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d21/a09462.html">Group</a> *&#160;</td>
+          <td class="paramname"><em>group</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>newLeaderGuid</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>oldLeaderGuid</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00082">LoadCreatureFormations()</a>.</p>
+<p>Reimplemented from <a class="el" href="../../df/d88/a10278.html#a64a1441fd3db3f25236691efcff4a80b">GroupScript</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  283</span>    {</div>
+<div class="line"><span class="lineno">  284</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;isOptionEnabled(<a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4a60b973ec0c197664894bba68e8d86c76">LFG_OPTION_ENABLE_DUNGEON_FINDER</a> | <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4ac6454c0e227f8e7d4f50c87341117668">LFG_OPTION_ENABLE_RAID_BROWSER</a> | <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4a3d8245a21e83ed011bc8c88f087cb913">LFG_OPTION_ENABLE_SEASONAL_BOSSES</a>))</div>
+<div class="line"><span class="lineno">  285</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  286</span> </div>
+<div class="line"><span class="lineno">  287</span>        <a class="code hl_class" href="../../de/d6b/a08378.html">ObjectGuid</a> gguid = group-&gt;<a class="code hl_function" href="../../d3/d21/a09462.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>();</div>
+<div class="line"><span class="lineno">  288</span> </div>
+<div class="line"><span class="lineno">  289</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;lfg&quot;</span>, <span class="stringliteral">&quot;LFGScripts::OnChangeLeader [{}]: old [{}] new [{}]&quot;</span>,</div>
+<div class="line"><span class="lineno">  290</span>            gguid.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), newLeaderGuid.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), oldLeaderGuid.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno">  291</span>        <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;SetLeader(gguid, newLeaderGuid);</div>
+<div class="line"><span class="lineno">  292</span> </div>
+<div class="line"><span class="lineno">  293</span>        <span class="comment">// pussywizard: after all necessary actions handle raid browser</span></div>
+<div class="line"><span class="lineno">  294</span>        <span class="keywordflow">if</span> (<a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;GetState(oldLeaderGuid) == <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bda07544e99a884feb5e7d9bc8d9b336167">LFG_STATE_RAIDBROWSER</a>)</div>
+<div class="line"><span class="lineno">  295</span>            <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;LeaveLfg(oldLeaderGuid);</div>
+<div class="line"><span class="lineno">  296</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02302">Group::GetGUID()</a>, <a class="el" href="../../#l00041">lfg::LFG_OPTION_ENABLE_DUNGEON_FINDER</a>, <a class="el" href="../../#l00042">lfg::LFG_OPTION_ENABLE_RAID_BROWSER</a>, <a class="el" href="../../#l00043">lfg::LFG_OPTION_ENABLE_SEASONAL_BOSSES</a>, <a class="el" href="../../#l00075">lfg::LFG_STATE_RAIDBROWSER</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00641">sLFGMgr</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
+
+</div>
+</div>
+<a id="a7d8d28f1919e407ed93474d970733d86" name="a7d8d28f1919e407ed93474d970733d86"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7d8d28f1919e407ed93474d970733d86">&#9670;&#160;</a></span>OnDisband()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lfg::LFGGroupScript::OnDisband </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d21/a09462.html">Group</a> *&#160;</td>
+          <td class="paramname"><em>group</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../df/d88/a10278.html#a3cb94966ba1d02180fb3e7cf95000e5f">GroupScript</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  268</span>    {</div>
+<div class="line"><span class="lineno">  269</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;isOptionEnabled(<a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4a60b973ec0c197664894bba68e8d86c76">LFG_OPTION_ENABLE_DUNGEON_FINDER</a> | <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4ac6454c0e227f8e7d4f50c87341117668">LFG_OPTION_ENABLE_RAID_BROWSER</a> | <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4a3d8245a21e83ed011bc8c88f087cb913">LFG_OPTION_ENABLE_SEASONAL_BOSSES</a>))</div>
+<div class="line"><span class="lineno">  270</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  271</span> </div>
+<div class="line"><span class="lineno">  272</span>        <a class="code hl_class" href="../../de/d6b/a08378.html">ObjectGuid</a> gguid = group-&gt;<a class="code hl_function" href="../../d3/d21/a09462.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>();</div>
+<div class="line"><span class="lineno">  273</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;lfg&quot;</span>, <span class="stringliteral">&quot;LFGScripts::OnDisband [{}]&quot;</span>, gguid.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno">  274</span> </div>
+<div class="line"><span class="lineno">  275</span>        <span class="comment">// pussywizard: after all necessary actions handle raid browser</span></div>
+<div class="line"><span class="lineno">  276</span>        <span class="keywordflow">if</span> (<a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;GetState(group-&gt;<a class="code hl_function" href="../../d3/d21/a09462.html#ae13d8553fff889200d9ab2fa660adc5b">GetLeaderGUID</a>()) == <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bda07544e99a884feb5e7d9bc8d9b336167">LFG_STATE_RAIDBROWSER</a>)</div>
+<div class="line"><span class="lineno">  277</span>            <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;LeaveLfg(group-&gt;<a class="code hl_function" href="../../d3/d21/a09462.html#ae13d8553fff889200d9ab2fa660adc5b">GetLeaderGUID</a>());</div>
+<div class="line"><span class="lineno">  278</span> </div>
+<div class="line"><span class="lineno">  279</span>        <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;RemoveGroupData(gguid);</div>
+<div class="line"><span class="lineno">  280</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02302">Group::GetGUID()</a>, <a class="el" href="../../#l02292">Group::GetLeaderGUID()</a>, <a class="el" href="../../#l00041">lfg::LFG_OPTION_ENABLE_DUNGEON_FINDER</a>, <a class="el" href="../../#l00042">lfg::LFG_OPTION_ENABLE_RAID_BROWSER</a>, <a class="el" href="../../#l00043">lfg::LFG_OPTION_ENABLE_SEASONAL_BOSSES</a>, <a class="el" href="../../#l00075">lfg::LFG_STATE_RAIDBROWSER</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00641">sLFGMgr</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
+
+</div>
+</div>
+<a id="a25add922fa708babe08c3bdaaa0c0d92" name="a25add922fa708babe08c3bdaaa0c0d92"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a25add922fa708babe08c3bdaaa0c0d92">&#9670;&#160;</a></span>OnInviteMember()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lfg::LFGGroupScript::OnInviteMember </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d21/a09462.html">Group</a> *&#160;</td>
+          <td class="paramname"><em>group</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>guid</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../df/d88/a10278.html#a2ae925dc27708fdaa4d5909b582b77a7">GroupScript</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  299</span>    {</div>
+<div class="line"><span class="lineno">  300</span>        <span class="comment">// used only with EXTRA_LOGS</span></div>
+<div class="line"><span class="lineno">  301</span>        (void)guid;</div>
+<div class="line"><span class="lineno">  302</span> </div>
+<div class="line"><span class="lineno">  303</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;isOptionEnabled(<a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4a60b973ec0c197664894bba68e8d86c76">LFG_OPTION_ENABLE_DUNGEON_FINDER</a> | <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4ac6454c0e227f8e7d4f50c87341117668">LFG_OPTION_ENABLE_RAID_BROWSER</a> | <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4a3d8245a21e83ed011bc8c88f087cb913">LFG_OPTION_ENABLE_SEASONAL_BOSSES</a>))</div>
+<div class="line"><span class="lineno">  304</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  305</span> </div>
+<div class="line"><span class="lineno">  306</span>        <a class="code hl_class" href="../../de/d6b/a08378.html">ObjectGuid</a> gguid = group-&gt;<a class="code hl_function" href="../../d3/d21/a09462.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>();</div>
+<div class="line"><span class="lineno">  307</span>        <a class="code hl_class" href="../../de/d6b/a08378.html">ObjectGuid</a> leader = group-&gt;<a class="code hl_function" href="../../d3/d21/a09462.html#ae13d8553fff889200d9ab2fa660adc5b">GetLeaderGUID</a>();</div>
+<div class="line"><span class="lineno">  308</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;lfg&quot;</span>, <span class="stringliteral">&quot;LFGScripts::OnInviteMember [{}]: invite [{}] leader [{}]&quot;</span>, gguid.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), guid.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), leader.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno">  309</span>        <span class="comment">// No gguid ==  new group being formed</span></div>
+<div class="line"><span class="lineno">  310</span>        <span class="comment">// No leader == after group creation first invite is new leader</span></div>
+<div class="line"><span class="lineno">  311</span>        <span class="comment">// leader and no gguid == first invite after leader is added to new group (this is the real invite)</span></div>
+<div class="line"><span class="lineno">  312</span>        <span class="keywordflow">if</span> (leader &amp;&amp; !gguid)</div>
+<div class="line"><span class="lineno">  313</span>        {</div>
+<div class="line"><span class="lineno">  314</span>            <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;LeaveLfg(leader);</div>
+<div class="line"><span class="lineno">  315</span>            <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;LeaveAllLfgQueues(leader, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  316</span>        }</div>
+<div class="line"><span class="lineno">  317</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02302">Group::GetGUID()</a>, <a class="el" href="../../#l02292">Group::GetLeaderGUID()</a>, <a class="el" href="../../#l00041">lfg::LFG_OPTION_ENABLE_DUNGEON_FINDER</a>, <a class="el" href="../../#l00042">lfg::LFG_OPTION_ENABLE_RAID_BROWSER</a>, <a class="el" href="../../#l00043">lfg::LFG_OPTION_ENABLE_SEASONAL_BOSSES</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00641">sLFGMgr</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
+
+</div>
+</div>
+<a id="a1385adec817221a83653a6fa03e57858" name="a1385adec817221a83653a6fa03e57858"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1385adec817221a83653a6fa03e57858">&#9670;&#160;</a></span>OnRemoveMember()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lfg::LFGGroupScript::OnRemoveMember </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d21/a09462.html">Group</a> *&#160;</td>
+          <td class="paramname"><em>group</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>guid</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d2b/a02486.html#af1c66bfbd0322ba300c7dcafe61e3b34">RemoveMethod</a>&#160;</td>
+          <td class="paramname"><em>method</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d6b/a08378.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>kicker</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char const *&#160;</td>
+          <td class="paramname"><em>reason</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../df/d88/a10278.html#adf640b01746ee92fed31670ee5cc8d0f">GroupScript</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  197</span>    {</div>
+<div class="line"><span class="lineno">  198</span>        <span class="comment">// used only with EXTRA_LOGS</span></div>
+<div class="line"><span class="lineno">  199</span>        (void)kicker;</div>
+<div class="line"><span class="lineno">  200</span>        (void)reason;</div>
+<div class="line"><span class="lineno">  201</span> </div>
+<div class="line"><span class="lineno">  202</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;isOptionEnabled(<a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4a60b973ec0c197664894bba68e8d86c76">LFG_OPTION_ENABLE_DUNGEON_FINDER</a> | <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4ac6454c0e227f8e7d4f50c87341117668">LFG_OPTION_ENABLE_RAID_BROWSER</a> | <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a07e4718e8cf678327c72b7deb48ccdb4a3d8245a21e83ed011bc8c88f087cb913">LFG_OPTION_ENABLE_SEASONAL_BOSSES</a>))</div>
+<div class="line"><span class="lineno">  203</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  204</span> </div>
+<div class="line"><span class="lineno">  205</span>        <a class="code hl_class" href="../../de/d6b/a08378.html">ObjectGuid</a> gguid = group-&gt;<a class="code hl_function" href="../../d3/d21/a09462.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>();</div>
+<div class="line"><span class="lineno">  206</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;lfg&quot;</span>, <span class="stringliteral">&quot;LFGScripts::OnRemoveMember [{}]: remove [{}] Method: {} Kicker: [{}] Reason: {}&quot;</span>,</div>
+<div class="line"><span class="lineno">  207</span>            gguid.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), guid.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), method, kicker.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), (reason ? reason : <span class="stringliteral">&quot;&quot;</span>));</div>
+<div class="line"><span class="lineno">  208</span> </div>
+<div class="line"><span class="lineno">  209</span>        <span class="keywordtype">bool</span> isLFG = group-&gt;<a class="code hl_function" href="../../d3/d21/a09462.html#a262e3bb23b71f40a2df56198f9921e9d">isLFGGroup</a>();</div>
+<div class="line"><span class="lineno">  210</span>        <a class="code hl_enumeration" href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bd">LfgState</a> state = <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;GetState(gguid);</div>
+<div class="line"><span class="lineno">  211</span>        <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dungeonId = <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;GetDungeon(gguid, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  212</span> </div>
+<div class="line"><span class="lineno">  213</span>        <span class="comment">// If group is being formed after proposal success do nothing more</span></div>
+<div class="line"><span class="lineno">  214</span>        <span class="keywordflow">if</span> (state == <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bda81ff40b31f8218c064e20184df97ea45">LFG_STATE_PROPOSAL</a> &amp;&amp; method == <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#af1c66bfbd0322ba300c7dcafe61e3b34a76e2310a1496ab2a033f8bfd026096d5">GROUP_REMOVEMETHOD_DEFAULT</a>)</div>
+<div class="line"><span class="lineno">  215</span>        {</div>
+<div class="line"><span class="lineno">  216</span>            <span class="comment">// LfgData: Remove player from group</span></div>
+<div class="line"><span class="lineno">  217</span>            <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;SetGroup(guid, <a class="code hl_variable" href="../../de/d6b/a08378.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>);</div>
+<div class="line"><span class="lineno">  218</span>            <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;RemovePlayerFromGroup(gguid, guid);</div>
+<div class="line"><span class="lineno">  219</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  220</span>        }</div>
+<div class="line"><span class="lineno">  221</span> </div>
+<div class="line"><span class="lineno">  222</span>        <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;LeaveLfg(guid);</div>
+<div class="line"><span class="lineno">  223</span>        <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;LeaveAllLfgQueues(guid, <span class="keyword">true</span>, gguid);</div>
+<div class="line"><span class="lineno">  224</span>        <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;SetGroup(guid, <a class="code hl_variable" href="../../de/d6b/a08378.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>);</div>
+<div class="line"><span class="lineno">  225</span>        <a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> players = <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;RemovePlayerFromGroup(gguid, guid);</div>
+<div class="line"><span class="lineno">  226</span> </div>
+<div class="line"><span class="lineno">  227</span>        <span class="comment">// pussywizard: after all necessary actions handle raid browser</span></div>
+<div class="line"><span class="lineno">  228</span>        <span class="comment">// pussywizard: already done above</span></div>
+<div class="line"><span class="lineno">  229</span>        <span class="comment">//if (sLFGMgr-&gt;GetState(guid) == LFG_STATE_RAIDBROWSER)</span></div>
+<div class="line"><span class="lineno">  230</span>        <span class="comment">//  sLFGMgr-&gt;LeaveLfg(guid);</span></div>
+<div class="line"><span class="lineno">  231</span> </div>
+<div class="line"><span class="lineno">  232</span>        <span class="comment">// Xinef: only LFG groups can go below</span></div>
+<div class="line"><span class="lineno">  233</span>        <span class="keywordflow">if</span> (!isLFG)</div>
+<div class="line"><span class="lineno">  234</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  235</span> </div>
+<div class="line"><span class="lineno">  236</span>        <span class="keywordflow">if</span> (state != <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bda6a43b274b2bb76912ca0fff4b7fc024d">LFG_STATE_FINISHED_DUNGEON</a> &amp;&amp; group) <span class="comment">// Need more players to finish the dungeon</span></div>
+<div class="line"><span class="lineno">  237</span>        {</div>
+<div class="line"><span class="lineno">  238</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d54/a08578.html">Player</a>* leader = <a class="code hl_function" href="../../dd/df4/a04800.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a>(<a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;GetLeader(gguid)))</div>
+<div class="line"><span class="lineno">  239</span>            {</div>
+<div class="line"><span class="lineno">  240</span>                <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;SetDungeon(gguid, dungeonId);</div>
+<div class="line"><span class="lineno">  241</span>                leader-&gt;GetSession()-&gt;SendLfgOfferContinue(<a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;GetDungeon(gguid, <span class="keyword">false</span>));</div>
+<div class="line"><span class="lineno">  242</span>            }</div>
+<div class="line"><span class="lineno">  243</span>        }</div>
+<div class="line"><span class="lineno">  244</span> </div>
+<div class="line"><span class="lineno">  245</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d54/a08578.html">Player</a>* player = <a class="code hl_function" href="../../dd/df4/a04800.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a>(guid))</div>
+<div class="line"><span class="lineno">  246</span>        {</div>
+<div class="line"><span class="lineno">  247</span>            <span class="comment">// xinef: fixed dungeon deserter</span></div>
+<div class="line"><span class="lineno">  248</span>            <span class="keywordflow">if</span> (method != <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#af1c66bfbd0322ba300c7dcafe61e3b34a62ff073a5f6e7083e947e80535d759f0">GROUP_REMOVEMETHOD_KICK_LFG</a> &amp;&amp; state != <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bda6a43b274b2bb76912ca0fff4b7fc024d">LFG_STATE_FINISHED_DUNGEON</a> &amp;&amp;</div>
+<div class="line"><span class="lineno">  249</span>                    player-&gt;HasAura(<a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a2b5cf5a4940992366122159776b67c7ca3ae4cb3e189406d52dcacbb4f110b158">LFG_SPELL_DUNGEON_COOLDOWN</a>) &amp;&amp; players &gt;= <a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a2b5cf5a4940992366122159776b67c7ca87c8d7f48e3aefe68a3f779d7abb0d25">LFG_GROUP_KICK_VOTES_NEEDED</a> &amp;&amp;</div>
+<div class="line"><span class="lineno">  250</span>                    <a class="code hl_define" href="../../d7/d1c/a04747.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getBoolConfig(<a class="code hl_enumvalue" href="../../d1/dda/a02255.html#a1b4b88c03b7d0124998b4c22e957baf0a290ab8e560e2bcdd3bdf64396ef4c823">CONFIG_LFG_CAST_DESERTER</a>))</div>
+<div class="line"><span class="lineno">  251</span>            {</div>
+<div class="line"><span class="lineno">  252</span>                player-&gt;AddAura(<a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a2b5cf5a4940992366122159776b67c7cad66eeedac753103a97f53bb7e31ac898">LFG_SPELL_DUNGEON_DESERTER</a>, player);</div>
+<div class="line"><span class="lineno">  253</span>            }</div>
+<div class="line"><span class="lineno">  254</span>            <span class="comment">//else if (state == LFG_STATE_BOOT)</span></div>
+<div class="line"><span class="lineno">  255</span>            <span class="comment">// Update internal kick cooldown of kicked</span></div>
+<div class="line"><span class="lineno">  256</span> </div>
+<div class="line"><span class="lineno">  257</span>            player-&gt;GetSession()-&gt;SendLfgUpdateParty(LfgUpdateData(<a class="code hl_enumvalue" href="../../d8/dc6/a04796.html#a253373c800edd65165575f01c960a500a5a246cd808c6b25e3ac9cf68452a9f3b">LFG_UPDATETYPE_LEADER_UNK1</a>));</div>
+<div class="line"><span class="lineno">  258</span>            <span class="keywordflow">if</span> (player-&gt;GetMap()-&gt;IsDungeon())            <span class="comment">// Teleport player out the dungeon</span></div>
+<div class="line"><span class="lineno">  259</span>            {</div>
+<div class="line"><span class="lineno">  260</span>                <span class="comment">// Xinef: no longer valid sLFGMgr-&gt;TeleportPlayer(player, true);</span></div>
+<div class="line"><span class="lineno">  261</span>                <span class="keywordflow">if</span> (!player-&gt;IsBeingTeleportedFar() &amp;&amp; player-&gt;GetMapId() == <a class="code hl_define" href="../../da/dd5/a01580.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;GetDungeonMapId(gguid))</div>
+<div class="line"><span class="lineno">  262</span>                    player-&gt;TeleportToEntryPoint();</div>
+<div class="line"><span class="lineno">  263</span>            }</div>
+<div class="line"><span class="lineno">  264</span>        }</div>
+<div class="line"><span class="lineno">  265</span>    }</div>
+<div class="ttc" id="aa00266_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa00266_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa02255_html_a1b4b88c03b7d0124998b4c22e957baf0a290ab8e560e2bcdd3bdf64396ef4c823"><div class="ttname"><a href="../../d1/dda/a02255.html#a1b4b88c03b7d0124998b4c22e957baf0a290ab8e560e2bcdd3bdf64396ef4c823">CONFIG_LFG_CAST_DESERTER</a></div><div class="ttdeci">@ CONFIG_LFG_CAST_DESERTER</div><div class="ttdef"><b>Definition:</b> IWorld.h:134</div></div>
+<div class="ttc" id="aa02486_html_af1c66bfbd0322ba300c7dcafe61e3b34a62ff073a5f6e7083e947e80535d759f0"><div class="ttname"><a href="../../dc/d2b/a02486.html#af1c66bfbd0322ba300c7dcafe61e3b34a62ff073a5f6e7083e947e80535d759f0">GROUP_REMOVEMETHOD_KICK_LFG</a></div><div class="ttdeci">@ GROUP_REMOVEMETHOD_KICK_LFG</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3590</div></div>
+<div class="ttc" id="aa02486_html_af1c66bfbd0322ba300c7dcafe61e3b34a76e2310a1496ab2a033f8bfd026096d5"><div class="ttname"><a href="../../dc/d2b/a02486.html#af1c66bfbd0322ba300c7dcafe61e3b34a76e2310a1496ab2a033f8bfd026096d5">GROUP_REMOVEMETHOD_DEFAULT</a></div><div class="ttdeci">@ GROUP_REMOVEMETHOD_DEFAULT</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3587</div></div>
+<div class="ttc" id="aa04747_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d7/d1c/a04747.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:375</div></div>
+<div class="ttc" id="aa04796_html_a246dcd646c556ecaff639514ef9a80bda6a43b274b2bb76912ca0fff4b7fc024d"><div class="ttname"><a href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bda6a43b274b2bb76912ca0fff4b7fc024d">lfg::LFG_STATE_FINISHED_DUNGEON</a></div><div class="ttdeci">@ LFG_STATE_FINISHED_DUNGEON</div><div class="ttdef"><b>Definition:</b> LFG.h:74</div></div>
+<div class="ttc" id="aa04796_html_a246dcd646c556ecaff639514ef9a80bda81ff40b31f8218c064e20184df97ea45"><div class="ttname"><a href="../../d8/dc6/a04796.html#a246dcd646c556ecaff639514ef9a80bda81ff40b31f8218c064e20184df97ea45">lfg::LFG_STATE_PROPOSAL</a></div><div class="ttdeci">@ LFG_STATE_PROPOSAL</div><div class="ttdef"><b>Definition:</b> LFG.h:71</div></div>
+<div class="ttc" id="aa04796_html_a253373c800edd65165575f01c960a500a5a246cd808c6b25e3ac9cf68452a9f3b"><div class="ttname"><a href="../../d8/dc6/a04796.html#a253373c800edd65165575f01c960a500a5a246cd808c6b25e3ac9cf68452a9f3b">lfg::LFG_UPDATETYPE_LEADER_UNK1</a></div><div class="ttdeci">@ LFG_UPDATETYPE_LEADER_UNK1</div><div class="ttdef"><b>Definition:</b> LFG.h:49</div></div>
+<div class="ttc" id="aa04796_html_a2b5cf5a4940992366122159776b67c7ca3ae4cb3e189406d52dcacbb4f110b158"><div class="ttname"><a href="../../d8/dc6/a04796.html#a2b5cf5a4940992366122159776b67c7ca3ae4cb3e189406d52dcacbb4f110b158">lfg::LFG_SPELL_DUNGEON_COOLDOWN</a></div><div class="ttdeci">@ LFG_SPELL_DUNGEON_COOLDOWN</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:52</div></div>
+<div class="ttc" id="aa04796_html_a2b5cf5a4940992366122159776b67c7ca87c8d7f48e3aefe68a3f779d7abb0d25"><div class="ttname"><a href="../../d8/dc6/a04796.html#a2b5cf5a4940992366122159776b67c7ca87c8d7f48e3aefe68a3f779d7abb0d25">lfg::LFG_GROUP_KICK_VOTES_NEEDED</a></div><div class="ttdeci">@ LFG_GROUP_KICK_VOTES_NEEDED</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:55</div></div>
+<div class="ttc" id="aa04796_html_a2b5cf5a4940992366122159776b67c7cad66eeedac753103a97f53bb7e31ac898"><div class="ttname"><a href="../../d8/dc6/a04796.html#a2b5cf5a4940992366122159776b67c7cad66eeedac753103a97f53bb7e31ac898">lfg::LFG_SPELL_DUNGEON_DESERTER</a></div><div class="ttdeci">@ LFG_SPELL_DUNGEON_DESERTER</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:53</div></div>
+<div class="ttc" id="aa04800_html_a354f7e7aaf4b12d6ad8fe8ef6291eaa0"><div class="ttname"><a href="../../dd/df4/a04800.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a></div><div class="ttdeci">Player * FindConnectedPlayer(ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:257</div></div>
+<div class="ttc" id="aa08378_html_a14039d3f3df79203693f713495503165"><div class="ttname"><a href="../../de/d6b/a08378.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a></div><div class="ttdeci">static ObjectGuid const Empty</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:120</div></div>
+<div class="ttc" id="aa08578_html"><div class="ttname"><a href="../../d2/d54/a08578.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1081</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00134">CONFIG_LFG_CAST_DESERTER</a>, <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l00257">ObjectAccessor::FindConnectedPlayer()</a>, <a class="el" href="../../#l02302">Group::GetGUID()</a>, <a class="el" href="../../#l03587">GROUP_REMOVEMETHOD_DEFAULT</a>, <a class="el" href="../../#l03590">GROUP_REMOVEMETHOD_KICK_LFG</a>, <a class="el" href="../../#l02261">Group::isLFGGroup()</a>, <a class="el" href="../../#l00055">lfg::LFG_GROUP_KICK_VOTES_NEEDED</a>, <a class="el" href="../../#l00041">lfg::LFG_OPTION_ENABLE_DUNGEON_FINDER</a>, <a class="el" href="../../#l00042">lfg::LFG_OPTION_ENABLE_RAID_BROWSER</a>, <a class="el" href="../../#l00043">lfg::LFG_OPTION_ENABLE_SEASONAL_BOSSES</a>, <a class="el" href="../../#l00052">lfg::LFG_SPELL_DUNGEON_COOLDOWN</a>, <a class="el" href="../../#l00053">lfg::LFG_SPELL_DUNGEON_DESERTER</a>, <a class="el" href="../../#l00074">lfg::LFG_STATE_FINISHED_DUNGEON</a>, <a class="el" href="../../#l00071">lfg::LFG_STATE_PROPOSAL</a>, <a class="el" href="../../#l00049">lfg::LFG_UPDATETYPE_LEADER_UNK1</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00641">sLFGMgr</a>, <a class="el" href="../../#l00375">sWorld</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
 </div>
 </div>
@@ -478,8 +617,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/dc8/a07950.html">FormationMgr</a></li>
-    <li class="footer">Generated on Mon Feb 10 2025 20:44:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d8/dc6/a04796.html">lfg</a></li><li class="navelem"><a class="el" href="../../da/dc8/a07950.html">LFGGroupScript</a></li>
+    <li class="footer">Generated on Mon Mar 10 2025 20:45:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,7 @@
 var a21866 =
 [
-    [ "npc_battle_at_valhalasAI", "da/d7c/a21870.html", "da/d7c/a21870" ],
-    [ "npc_battle_at_valhalas", "dd/daf/a21866.html#aacec717b5b91ae55307c9642779c15ec", null ],
-    [ "GetAI", "dd/daf/a21866.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
-    [ "OnQuestAccept", "dd/daf/a21866.html#addd76fd9f4b4f8ce706693614b80966b", null ]
+    [ "HandleScript", "dd/daf/a21866.html#a7fec959237546201ea94d5f87068e1c5", null ],
+    [ "PrepareSpellScript", "dd/daf/a21866.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
+    [ "Register", "dd/daf/a21866.html#a0aab07a4950f60a290491aa13103b332", null ],
+    [ "Validate", "dd/daf/a21866.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
 ];

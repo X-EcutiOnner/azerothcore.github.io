@@ -1,10 +1,6 @@
 var a27262 =
 [
-    [ "npc_prof_alchemy", "d1/da0/a27262.html#a43ea842214fc507c34586d12df8f7fea", null ],
-    [ "HasAlchemySpell", "d1/da0/a27262.html#ac9df824e0923ca86189a53ae391b43c0", null ],
-    [ "OnGossipHello", "d1/da0/a27262.html#add760c538c7882e1ad8331b8ded74f5c", null ],
-    [ "OnGossipSelect", "d1/da0/a27262.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
-    [ "SendActionMenu", "d1/da0/a27262.html#a2d4c7337b40be323a384a9e755fc3145", null ],
-    [ "SendConfirmLearn", "d1/da0/a27262.html#a548224b30494636b9ee292a533fc7b39", null ],
-    [ "SendConfirmUnlearn", "d1/da0/a27262.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
+    [ "guard_shattrath_aldorAI", "da/dab/a27266.html", "da/dab/a27266" ],
+    [ "guard_shattrath_aldor", "d1/da0/a27262.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "d1/da0/a27262.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

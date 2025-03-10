@@ -1,7 +1,9 @@
 var a12302 =
 [
-    [ "HandleHit", "d2/d7b/a12302.html#a18f86449945ade16140ee934a7d8703e", null ],
-    [ "PrepareSpellScript", "d2/d7b/a12302.html#abaf09043858db27b05fbe544d7a15a8f", null ],
-    [ "Register", "d2/d7b/a12302.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
-    [ "Validate", "d2/d7b/a12302.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
+    [ "boss_baron_geddonAI", "d2/d7b/a12302.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
+    [ "DamageTaken", "d2/d7b/a12302.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
+    [ "ExecuteEvent", "d2/d7b/a12302.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
+    [ "JustEngagedWith", "d2/d7b/a12302.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
+    [ "Reset", "d2/d7b/a12302.html#aaf47fc993e672877f51b5095f682906c", null ],
+    [ "armageddonCasted", "d2/d7b/a12302.html#a1a034601a7dda94becbf1801bda63d55", null ]
 ];

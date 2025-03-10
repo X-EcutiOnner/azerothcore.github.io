@@ -1,6 +1,6 @@
 var a17930 =
 [
-    [ "FilterTargets", "db/dee/a17930.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
-    [ "PrepareSpellScript", "db/dee/a17930.html#a24466e7a04722cc7559b086f89d2edc8", null ],
-    [ "Register", "db/dee/a17930.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
+    [ "CheckProc", "db/dee/a17930.html#ad701d353f03eb5a1ccca28a6530555db", null ],
+    [ "PrepareAuraScript", "db/dee/a17930.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
+    [ "Register", "db/dee/a17930.html#a4f787e29064c15f4dad9047ff618982a", null ]
 ];

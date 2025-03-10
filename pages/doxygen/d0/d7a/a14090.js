@@ -1,7 +1,9 @@
 var a14090 =
 [
-    [ "FilterTargets", "d0/d7a/a14090.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
-    [ "HandleDummy", "d0/d7a/a14090.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
-    [ "PrepareSpellScript", "d0/d7a/a14090.html#a6ac4db072beae6ae7a700774667da613", null ],
-    [ "Register", "d0/d7a/a14090.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
+    [ "npc_brew_bubble", "d0/d7a/a14090.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "d0/d7a/a14090.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "d0/d7a/a14090.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "d0/d7a/a14090.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "d0/d7a/a14090.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "d0/d7a/a14090.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

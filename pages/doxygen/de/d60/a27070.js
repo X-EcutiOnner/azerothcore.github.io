@@ -1,6 +1,5 @@
 var a27070 =
 [
-    [ "go_l70_etc_musicAI", "df/def/a27074.html", "df/def/a27074" ],
-    [ "go_l70_etc_music", "de/d60/a27070.html#a766dccca12fc7959273ba1e3a278564f", null ],
-    [ "GetAI", "de/d60/a27070.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
+    [ "go_arena_ready_marker", "de/d60/a27070.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "de/d60/a27070.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

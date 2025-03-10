@@ -1,6 +1,9 @@
 var a19486 =
 [
-    [ "HandleApplyTouch", "d2/ded/a19486.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "d2/ded/a19486.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "d2/ded/a19486.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d2/ded/a19486.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
+    [ "JustEngagedWith", "d2/ded/a19486.html#a9e6527bc46d7b685d938833d18796cee", null ],
+    [ "MoveInLineOfSight", "d2/ded/a19486.html#a7449e135f088a2d4b22a423c71118093", null ],
+    [ "MovementInform", "d2/ded/a19486.html#ac04d90e974f85282737bb5081a123106", null ],
+    [ "UpdateAI", "d2/ded/a19486.html#afccd77c8e90d129fb3a347205a2102db", null ],
+    [ "events", "d2/ded/a19486.html#a73c135ec94b41a752fc203c5e20128d0", null ]
 ];

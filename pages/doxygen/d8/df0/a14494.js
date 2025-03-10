@@ -1,7 +1,7 @@
 var a14494 =
 [
-    [ "hyjalThrallAI", "db/d46/a14498.html", "db/d46/a14498" ],
-    [ "npc_hyjal_thrall", "d8/df0/a14494.html#a232f085f208a47f7fae08128de1d06b8", null ],
-    [ "GetAI", "d8/df0/a14494.html#a699b5df19e4e84166348ecfba2dd0172", null ],
-    [ "OnGossipSelect", "d8/df0/a14494.html#af833f26d79d34655c010aa04f984a94a", null ]
+    [ "PeriodicTick", "d8/df0/a14494.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "d8/df0/a14494.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "d8/df0/a14494.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "d8/df0/a14494.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

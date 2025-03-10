@@ -1,7 +1,7 @@
 var a23610 =
 [
-    [ "CastQuill", "df/d43/a23610.html#a923234809186bcbdf02457f4be095519", null ],
-    [ "Execute", "df/d43/a23610.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
-    [ "_caster", "df/d43/a23610.html#af809b9279aff141ce4007c8d1fbcc331", null ],
-    [ "_spellId", "df/d43/a23610.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
+    [ "AfterApply", "df/d43/a23610.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "df/d43/a23610.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "df/d43/a23610.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "df/d43/a23610.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

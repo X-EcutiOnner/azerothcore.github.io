@@ -1,7 +1,8 @@
 var a16314 =
 [
-    [ "npc_toc_enh_shamanAI", "d7/d89/a16314.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "d7/d89/a16314.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "d7/d89/a16314.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "d7/d89/a16314.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "npc_toc_hunterAI", "d7/d89/a16314.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d7/d89/a16314.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d7/d89/a16314.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d7/d89/a16314.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d7/d89/a16314.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

@@ -1,6 +1,6 @@
 var a16154 =
 [
-    [ "HideNpcEvent", "d8/df3/a16154.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "d8/df3/a16154.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "d8/df3/a16154.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "npc_toc5_player_vehicleAI", "df/d0b/a16158.html", "df/d0b/a16158" ],
+    [ "npc_toc5_player_vehicle", "d8/df3/a16154.html#a8786627999d3d1681d9de58cd8c46744", null ],
+    [ "GetAI", "d8/df3/a16154.html#af89c559eff828130df821c0c30c61f7a", null ]
 ];

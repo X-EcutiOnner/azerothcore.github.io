@@ -1,7 +1,6 @@
 var a20294 =
 [
-    [ "HandleEffectPeriodic", "d1/d2f/a20294.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
-    [ "PrepareAuraScript", "d1/d2f/a20294.html#af432e810a46e35f95bb0b3b2eaada132", null ],
-    [ "Register", "d1/d2f/a20294.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
-    [ "Validate", "d1/d2f/a20294.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
+    [ "npc_ulduar_vx001AI", "d7/dff/a20298.html", "d7/dff/a20298" ],
+    [ "npc_ulduar_vx001", "d1/d2f/a20294.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
+    [ "GetAI", "d1/d2f/a20294.html#acdab817141b851deb09861230323ee58", null ]
 ];

@@ -1,10 +1,13 @@
 var a14966 =
 [
-    [ "boss_huhuran", "df/d55/a14966.html#a64e0b20891992764c708cbb661c18196", null ],
-    [ "DamageTaken", "df/d55/a14966.html#adb47086f29b41f4168ad5d1b2728547d", null ],
-    [ "JustEngagedWith", "df/d55/a14966.html#a08f1d6550680d5bcf07332eade115730", null ],
-    [ "Reset", "df/d55/a14966.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
-    [ "UpdateAI", "df/d55/a14966.html#a23962e668f046b373f94ea6a2d75574a", null ],
-    [ "_berserk", "df/d55/a14966.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
-    [ "_hardEnrage", "df/d55/a14966.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
+    [ "boss_cthun", "df/d55/a14966.html#a287ee7b65708971e4fdfa7b814486935", null ],
+    [ "DoAction", "df/d55/a14966.html#a04ae38b67d358f1d34820b855aab3869", null ],
+    [ "JustDied", "df/d55/a14966.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
+    [ "JustEngagedWith", "df/d55/a14966.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
+    [ "Reset", "df/d55/a14966.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
+    [ "ScheduleTasks", "df/d55/a14966.html#a5a0514e56217bb3b30b22b2681542adb", null ],
+    [ "SummonedCreatureDies", "df/d55/a14966.html#a49d76bb4cf30ee66fae6114313394961", null ],
+    [ "UpdateAI", "df/d55/a14966.html#a7d2685597f1eec2459fe509e5b97681f", null ],
+    [ "_fleshTentaclesKilled", "df/d55/a14966.html#a139de83ae488c40d40a4587509cd197d", null ],
+    [ "WisperTimer", "df/d55/a14966.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
 ];

@@ -1,6 +1,7 @@
 var a19526 =
 [
-    [ "npc_living_constellationAI", "d9/d45/a19530.html", "d9/d45/a19530" ],
-    [ "npc_living_constellation", "dd/db6/a19526.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
-    [ "GetAI", "dd/db6/a19526.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
+    [ "HandleEffectRemove", "dd/db6/a19526.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "dd/db6/a19526.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "dd/db6/a19526.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "dd/db6/a19526.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];
