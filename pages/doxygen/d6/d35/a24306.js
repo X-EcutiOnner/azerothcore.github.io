@@ -1,9 +1,8 @@
 var a24306 =
 [
-    [ "npc_pet_gen_toxic_wasteling", "d6/d35/a24306.html#a550a1a9324f605b1a9fd715571f819b7", null ],
-    [ "EnterEvadeMode", "d6/d35/a24306.html#abe25deca7fd1c319085995657d62f22a", null ],
-    [ "MovementInform", "d6/d35/a24306.html#aec73d567c3bd178ffee3bdece83a409e", null ],
-    [ "Reset", "d6/d35/a24306.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
-    [ "UpdateAI", "d6/d35/a24306.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
-    [ "checkTimer", "d6/d35/a24306.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
+    [ "npc_pet_gen_wind_rider_cub", "d6/d35/a24306.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
+    [ "UpdateAI", "d6/d35/a24306.html#a534d122522d553e106e6c7729d6c55db", null ],
+    [ "checkTimer", "d6/d35/a24306.html#a39fcfc5f5d9a630180713512db778b32", null ],
+    [ "checkTimer2", "d6/d35/a24306.html#aabeaf7a9b5b77df540e1111950860e98", null ],
+    [ "isFlying", "d6/d35/a24306.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
 ];

@@ -1,7 +1,7 @@
 var a04415 =
 [
-    [ "boss_warlord_kalithresh", "de/ddd/a23246.html", "de/ddd/a23246" ],
-    [ "spell_warlords_rage", "d3/dc5/a23250.html", "d3/dc5/a23250" ],
+    [ "boss_warlord_kalithresh", "dd/ded/a23254.html", "dd/ded/a23254" ],
+    [ "spell_warlords_rage", "df/dfc/a23258.html", "df/dfc/a23258" ],
     [ "Misc", "d0/dc5/a04415.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "db/d6c/a02969.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -2181,7 +2181,6 @@ var a04415 =
       [ "SPELL_SHIVER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760", null ],
       [ "SPELL_INSANITY", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1d88e5b9cac1abe32f0941d9e9825d44", null ],
       [ "INSANITY_VISUAL", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1dd358090e37609e7e28076ee8b1279f", null ],
-      [ "SPELL_INSANITY_TARGET", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298cae009ab6e033484334e1feb769d85274f", null ],
       [ "SPELL_CLONE_PLAYER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca3e4964d5b736b33559fca0df5d1e6e63", null ],
       [ "SPELL_INSANITY_PHASING_1", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca045717f4c6d22c9ffa8d175b66a74447", null ],
       [ "SPELL_INSANITY_PHASING_2", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632", null ],

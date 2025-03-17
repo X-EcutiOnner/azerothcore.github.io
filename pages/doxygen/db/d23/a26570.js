@@ -1,7 +1,8 @@
 var a26570 =
 [
-    [ "HandleDummy", "db/d23/a26570.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
-    [ "PrepareSpellScript", "db/d23/a26570.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
-    [ "Register", "db/d23/a26570.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
-    [ "Validate", "db/d23/a26570.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
+    [ "CheckFireTotem", "db/d23/a26570.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "db/d23/a26570.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "db/d23/a26570.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "db/d23/a26570.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "db/d23/a26570.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

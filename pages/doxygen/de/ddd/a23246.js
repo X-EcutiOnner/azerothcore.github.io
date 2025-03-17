@@ -1,10 +1,7 @@
 var a23246 =
 [
-    [ "boss_warlord_kalithresh", "de/ddd/a23246.html#afcf2288fbea2d5010c41344ce0247559", null ],
-    [ "JustDied", "de/ddd/a23246.html#a1947562aa9dafea371e2f2da824a3f65", null ],
-    [ "JustEngagedWith", "de/ddd/a23246.html#a2712f5c363c3929550b77ef2536b1385", null ],
-    [ "KilledUnit", "de/ddd/a23246.html#a06855288497f5335a236867ef681d3f8", null ],
-    [ "MoveInLineOfSight", "de/ddd/a23246.html#a544da19b6c3a6f159ed6b1639def1071", null ],
-    [ "Reset", "de/ddd/a23246.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
-    [ "_introDone", "de/ddd/a23246.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
+    [ "boss_hydromancer_thespia", "de/ddd/a23246.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "de/ddd/a23246.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "de/ddd/a23246.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "de/ddd/a23246.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

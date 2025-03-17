@@ -1,11 +1,20 @@
 var a28370 =
 [
-    [ "IsAvailable", "d7/d4d/a28370.html#adfebd7a162ebae8396669de031c768a6", null ],
-    [ "operator bool", "d7/d4d/a28370.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
-    [ "operator*", "d7/d4d/a28370.html#a24733bf06b4a91abcf4945aa5303a275", null ],
-    [ "operator->", "d7/d4d/a28370.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
-    [ "SecretMgr", "d7/d4d/a28370.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
-    [ "lock", "d7/d4d/a28370.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
-    [ "state", "d7/d4d/a28370.html#a01563e00123d442b82bd6389d838c23d", null ],
-    [ "value", "d7/d4d/a28370.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
+    [ "RealmMap", "d7/d4d/a28370.html#a6031c19ec935fbe535f60a1014483dbd", null ],
+    [ "RealmList", "d7/d4d/a28370.html#abe7dfad5160a08a5852cb1436a06eaa9", null ],
+    [ "~RealmList", "d7/d4d/a28370.html#a64bea5f38384143cc960840a8e84ef00", null ],
+    [ "Close", "d7/d4d/a28370.html#a14a4d9b5383da24bc1ad9754cdfa2183", null ],
+    [ "GetBuildInfo", "d7/d4d/a28370.html#a0f7136cb280d2461b1ec0d080645c6e0", null ],
+    [ "GetRealm", "d7/d4d/a28370.html#a3e25e63168bcff88d021294559ccf0c5", null ],
+    [ "GetRealms", "d7/d4d/a28370.html#afc2cbe2a4ee4d9870821dbe8d96e8fa4", null ],
+    [ "Initialize", "d7/d4d/a28370.html#a70954d518dc4559e0aca0388f13db411", null ],
+    [ "Instance", "d7/d4d/a28370.html#aea053134fe293fbd4a8801b25fbb44ca", null ],
+    [ "LoadBuildInfo", "d7/d4d/a28370.html#a1f8866e57557beb7d69037a63e34428d", null ],
+    [ "UpdateRealm", "d7/d4d/a28370.html#ae15cf59b00e8e8e561f266d5dd3e11ae", null ],
+    [ "UpdateRealms", "d7/d4d/a28370.html#a0b4559e5538a02ccf5247839005d602e", null ],
+    [ "_builds", "d7/d4d/a28370.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0", null ],
+    [ "_realms", "d7/d4d/a28370.html#a41693a01cd88ea99b54dd9ca8fe6b445", null ],
+    [ "_resolver", "d7/d4d/a28370.html#a1beee0fdd1a9e61f68db925f53d373a9", null ],
+    [ "_updateInterval", "d7/d4d/a28370.html#ac07fe3cd4fc18169af4f63b207902e95", null ],
+    [ "_updateTimer", "d7/d4d/a28370.html#a5619be8a2649680901cfd7a3608e984a", null ]
 ];

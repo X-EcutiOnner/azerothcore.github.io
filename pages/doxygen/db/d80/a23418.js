@@ -1,12 +1,6 @@
 var a23418 =
 [
-    [ "boss_omor_the_unscarred", "db/d80/a23418.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "db/d80/a23418.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "db/d80/a23418.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "db/d80/a23418.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "db/d80/a23418.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "db/d80/a23418.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "db/d80/a23418.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "db/d80/a23418.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "db/d80/a23418.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "d5/d77/a23422.html", "d5/d77/a23422" ],
+    [ "instance_blood_furnace", "db/d80/a23418.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "db/d80/a23418.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

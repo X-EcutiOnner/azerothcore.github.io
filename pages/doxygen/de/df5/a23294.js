@@ -1,8 +1,6 @@
 var a23294 =
 [
-    [ "boss_the_black_stalker", "de/df5/a23294.html#ac33519b374509cefe43b8e97701719ee", null ],
-    [ "JustEngagedWith", "de/df5/a23294.html#ad118347103ec463a09492e81dbd61418", null ],
-    [ "JustSummoned", "de/df5/a23294.html#a9e0299a99df83abb7de476a765b667b9", null ],
-    [ "SummonedCreatureDies", "de/df5/a23294.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
-    [ "UpdateAI", "de/df5/a23294.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
+    [ "HandleScript", "de/df5/a23294.html#ae45f8a366c1594d3723b83ee6e006957", null ],
+    [ "PrepareSpellScript", "de/df5/a23294.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
+    [ "Register", "de/df5/a23294.html#a6b9e449a64747f0a5715424295b1c30f", null ]
 ];

@@ -1,7 +1,13 @@
 var a22870 =
 [
-    [ "Absorb", "da/d65/a22870.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
-    [ "HandleEffectRemove", "da/d65/a22870.html#a3d4026e5208acb948c089a4bedba0de8", null ],
-    [ "PrepareAuraScript", "da/d65/a22870.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
-    [ "Register", "da/d65/a22870.html#a983cf678001efcbccc4b34a9ad919881", null ]
+    [ "boss_teron_gorefiend", "da/d65/a22870.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
+    [ "JustDied", "da/d65/a22870.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
+    [ "JustEngagedWith", "da/d65/a22870.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
+    [ "JustSummoned", "da/d65/a22870.html#a71db567c5be7396add349e2f1b455a50", null ],
+    [ "KilledUnit", "da/d65/a22870.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
+    [ "Reset", "da/d65/a22870.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
+    [ "SetData", "da/d65/a22870.html#a139c351471a3f19c7e59cf8e40913820", null ],
+    [ "UpdateAI", "da/d65/a22870.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
+    [ "_intro", "da/d65/a22870.html#a99c62157084373e8eddd4497360cc047", null ],
+    [ "_recentlySpoken", "da/d65/a22870.html#adef80b4509a6a72e7021fd3cc11de697", null ]
 ];

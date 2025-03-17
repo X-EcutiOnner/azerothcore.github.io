@@ -1,8 +1,8 @@
 var a26530 =
 [
-    [ "ApplyDebuff", "da/dd8/a26530.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
-    [ "PrepareSpellScript", "da/dd8/a26530.html#aa37525d089348f58e3d871830caa3417", null ],
-    [ "Register", "da/dd8/a26530.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
-    [ "RemoveInvalidTargets", "da/dd8/a26530.html#a0451b75aa962065a01a5806992e01b16", null ],
-    [ "Validate", "da/dd8/a26530.html#ac69d777fdf7a2d3c527621dee256690c", null ]
+    [ "FilterTargets", "da/dd8/a26530.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
+    [ "HandleDummy", "da/dd8/a26530.html#a2214b10da042a3af2fd3311872cc5286", null ],
+    [ "PrepareSpellScript", "da/dd8/a26530.html#a9959966856601f79a83931a7a7ecff91", null ],
+    [ "Register", "da/dd8/a26530.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
+    [ "Validate", "da/dd8/a26530.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
 ];

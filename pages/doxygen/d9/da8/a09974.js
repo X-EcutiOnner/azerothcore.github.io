@@ -1,6 +1,6 @@
 var a09974 =
 [
-    [ "FollowMovementGenerator", "d9/da8/a09974.html#a54cd020fc83846f23206053c5d7415ff", null ],
+    [ "FollowMovementGenerator", "d9/da8/a09974.html#a10862b6835b11afe858eb78601a36f3a", null ],
     [ "~FollowMovementGenerator", "d9/da8/a09974.html#ada41372b5aaf8f87eb4efde96285421c", null ],
     [ "_addUnitStateMove", "d9/da8/a09974.html#a4680693a31c182e3972146f8818cc8dd", null ],
     [ "_clearUnitStateMove", "d9/da8/a09974.html#af0502f1e5b249aa20df98f4bb3b2e101", null ],
@@ -15,6 +15,7 @@ var a09974 =
     [ "PositionOkay", "d9/da8/a09974.html#a1ee2956b66e3f6bda623e60a54fa0594", null ],
     [ "unitSpeedChanged", "d9/da8/a09974.html#af28a24a9ee622dbc42a9705b9e44d172", null ],
     [ "_angle", "d9/da8/a09974.html#aba650091163aa7a072af72aa59ea9a2e", null ],
+    [ "_inheritSpeed", "d9/da8/a09974.html#aaa26846c0c92081d642107d9cd595496", null ],
     [ "_inheritWalkState", "d9/da8/a09974.html#a54eb84d8f0c696db3cc7941c8ef9807b", null ],
     [ "_lastPredictedPosition", "d9/da8/a09974.html#afa5e1acb94fb1e3ce7854533f6e3d2ac", null ],
     [ "_lastTargetPosition", "d9/da8/a09974.html#a8f73424b130a8d99a15b276f23af9211", null ],

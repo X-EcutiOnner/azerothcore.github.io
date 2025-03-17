@@ -1,6 +1,5 @@
 var a21998 =
 [
-    [ "npc_tournament_training_dummyAI", "d5/def/a22002.html", "d5/def/a22002" ],
-    [ "npc_tournament_training_dummy", "d6/d9b/a21998.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
-    [ "GetAI", "d6/d9b/a21998.html#a31257c155c3a49c69771156800cf6340", null ]
+    [ "npc_guardian_pavilionAI", "d6/d9b/a21998.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d6/d9b/a21998.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

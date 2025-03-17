@@ -396,6 +396,7 @@ var a10374 =
     [ "OnPlayerRewardKillRewarder", "d8/dc3/a10374.html#a39693c611f04f640ed2688ac6afde3eb", null ],
     [ "OnPlayerSave", "d8/dc3/a10374.html#aac7fd884593edc3064b7525e13500478", null ],
     [ "OnPlayerSendInitialPacketsBeforeAddToMap", "d8/dc3/a10374.html#ad1f8513c30e94896fee1a5a03db49798", null ],
+    [ "OnPlayerSendListInventory", "d8/dc3/a10374.html#af05e6d7eef34647fd1f751bb676ca6dc", null ],
     [ "OnPlayerSetMaxLevel", "d8/dc3/a10374.html#acf437f66686cfe7f5a49e263b1f1cc01", null ],
     [ "OnPlayerSetPhase", "d8/dc3/a10374.html#ae8fe8045fc307e0f6ab841ee7bb0f59c", null ],
     [ "OnPlayerSetServerSideVisibility", "d8/dc3/a10374.html#abf917d2a762acac5d82aabf590240b0b", null ],

@@ -1,7 +1,7 @@
 var a04187 =
 [
-    [ "boss_nexusprince_shaffar", "de/d95/a22490.html", "de/d95/a22490" ],
-    [ "npc_yor", "d9/d70/a22494.html", "d9/d70/a22494" ],
+    [ "boss_nexusprince_shaffar", "d0/d35/a22498.html", "d0/d35/a22498" ],
+    [ "npc_yor", "d3/d0e/a22502.html", "d3/d0e/a22502" ],
     [ "Npc", "d1/dde/a04187.html#a8d8031a9ef6bd14633aa0a1bc87e2753", [
       [ "NPC_IRON_SLUDGE", "d7/da2/a03704.html#a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e", null ],
       [ "NPC_DWARFES_FRIENDLY", "d7/da2/a03704.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7", null ],
@@ -1435,7 +1435,6 @@ var a04187 =
       [ "SPELL_SHIVER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760", null ],
       [ "SPELL_INSANITY", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1d88e5b9cac1abe32f0941d9e9825d44", null ],
       [ "INSANITY_VISUAL", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1dd358090e37609e7e28076ee8b1279f", null ],
-      [ "SPELL_INSANITY_TARGET", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298cae009ab6e033484334e1feb769d85274f", null ],
       [ "SPELL_CLONE_PLAYER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca3e4964d5b736b33559fca0df5d1e6e63", null ],
       [ "SPELL_INSANITY_PHASING_1", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca045717f4c6d22c9ffa8d175b66a74447", null ],
       [ "SPELL_INSANITY_PHASING_2", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632", null ],

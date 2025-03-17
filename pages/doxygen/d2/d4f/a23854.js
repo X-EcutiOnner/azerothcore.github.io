@@ -1,7 +1,16 @@
 var a23854 =
 [
-    [ "npc_daranelleAI", "d2/d4f/a23854.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d2/d4f/a23854.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d2/d4f/a23854.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d2/d4f/a23854.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "npc_nether_drakeAI", "d2/d4f/a23854.html#a82f2c29b380be95303e1558776ea2d88", null ],
+    [ "JustEngagedWith", "d2/d4f/a23854.html#a5f20faa7f7007989298009b88b3ecbc8", null ],
+    [ "MoveInLineOfSight", "d2/d4f/a23854.html#a9e122d4533155c926904a13e8534d32e", null ],
+    [ "MovementInform", "d2/d4f/a23854.html#ae1f5248397b606b7872f05cfc929ac0d", null ],
+    [ "Reset", "d2/d4f/a23854.html#acb03513dd67988e0961632846021a42d", null ],
+    [ "SpellHit", "d2/d4f/a23854.html#a40f05363f38d71954c9fb8773c382444", null ],
+    [ "UpdateAI", "d2/d4f/a23854.html#aa538d9d2ead26d6e085ecf62ec7d310f", null ],
+    [ "ArcaneBlast_Timer", "d2/d4f/a23854.html#ace872917954f4978f3568d7ddecf22ad", null ],
+    [ "IntangiblePresence_Timer", "d2/d4f/a23854.html#acecff3846090fa83c8fc43537d788501", null ],
+    [ "IsNihil", "d2/d4f/a23854.html#a37c393101e0f9b07e20cc21beb80ba44", null ],
+    [ "ManaBurn_Timer", "d2/d4f/a23854.html#ae6c33df878497d29d5f61234b048009d", null ],
+    [ "NihilSpeech_Phase", "d2/d4f/a23854.html#a3e68f0fdb59ce6d8749b5d8629b7ec0b", null ],
+    [ "NihilSpeech_Timer", "d2/d4f/a23854.html#a40d7584c68f5f6516eb9a7deaaad7c86", null ]
 ];

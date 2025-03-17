@@ -1,11 +1,7 @@
 var a27454 =
 [
-    [ "npc_injured_patientAI", "d7/d17/a27454.html#a0973487623f1771c598648bc06a6d9a3", null ],
-    [ "JustEngagedWith", "d7/d17/a27454.html#a621a8cc3f6b9655760431d52766ca589", null ],
-    [ "Reset", "d7/d17/a27454.html#a007c9c7a4047374574cad17e9309d7c1", null ],
-    [ "SpellHit", "d7/d17/a27454.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
-    [ "UpdateAI", "d7/d17/a27454.html#a54d0a5574175747779878dce0ebfd44f", null ],
-    [ "_scheduler", "d7/d17/a27454.html#a60428fa97c8f6520338d53ed368c4c35", null ],
-    [ "Coord", "d7/d17/a27454.html#af5a6f87c0379edd07a8756018b0c8661", null ],
-    [ "DoctorGUID", "d7/d17/a27454.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
+    [ "npc_doctorAI", "d7/d23/a27458.html", "d7/d23/a27458" ],
+    [ "npc_doctor", "d7/d17/a27454.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
+    [ "GetAI", "d7/d17/a27454.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
+    [ "OnQuestAccept", "d7/d17/a27454.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
 ];

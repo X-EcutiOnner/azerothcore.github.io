@@ -1,8 +1,8 @@
 var a04388 =
 [
-    [ "boss_high_astromancer_solarian", "df/d1c/a23674.html", "df/d1c/a23674" ],
-    [ "spell_astromancer_wrath_of_the_astromancer", "d4/d77/a23678.html", "d4/d77/a23678" ],
-    [ "spell_astromancer_solarian_transform", "d4/d75/a23682.html", "d4/d75/a23682" ],
+    [ "boss_high_astromancer_solarian", "d4/d75/a23682.html", "d4/d75/a23682" ],
+    [ "spell_astromancer_wrath_of_the_astromancer", "db/d17/a23686.html", "db/d17/a23686" ],
+    [ "spell_astromancer_solarian_transform", "d8/dd6/a23690.html", "d8/dd6/a23690" ],
     [ "CENTER_O", "d6/d5c/a04388.html#a1b683ec7a35f03622bada41f50aac881", null ],
     [ "CENTER_X", "d6/d5c/a04388.html#affb36ca3a6519ca609cfa9a0d70a682a", null ],
     [ "CENTER_Y", "d6/d5c/a04388.html#a65dba9379097de8ea0bb4afd9d504b2b", null ],
@@ -2192,7 +2192,6 @@ var a04388 =
       [ "SPELL_SHIVER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760", null ],
       [ "SPELL_INSANITY", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1d88e5b9cac1abe32f0941d9e9825d44", null ],
       [ "INSANITY_VISUAL", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1dd358090e37609e7e28076ee8b1279f", null ],
-      [ "SPELL_INSANITY_TARGET", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298cae009ab6e033484334e1feb769d85274f", null ],
       [ "SPELL_CLONE_PLAYER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca3e4964d5b736b33559fca0df5d1e6e63", null ],
       [ "SPELL_INSANITY_PHASING_1", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca045717f4c6d22c9ffa8d175b66a74447", null ],
       [ "SPELL_INSANITY_PHASING_2", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632", null ],

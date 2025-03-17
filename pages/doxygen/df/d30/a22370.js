@@ -1,13 +1,13 @@
 var a22370 =
 [
-    [ "OPvPCapturePointEP_PWT", "df/d30/a22370.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
-    [ "ChangeState", "df/d30/a22370.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
-    [ "FillInitialWorldStates", "df/d30/a22370.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
-    [ "HandlePlayerEnter", "df/d30/a22370.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
-    [ "HandlePlayerLeave", "df/d30/a22370.html#a5772e54263c613eee365856def5e74e6", null ],
-    [ "SendChangePhase", "df/d30/a22370.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
-    [ "SummonFlightMaster", "df/d30/a22370.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
-    [ "UpdateTowerState", "df/d30/a22370.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
-    [ "m_FlightMasterSpawnedId", "df/d30/a22370.html#afeefd804849b925e6d0a880d8efb5319", null ],
-    [ "m_TowerState", "df/d30/a22370.html#a914dcbb37baf457750cfe9829d95d88c", null ]
+    [ "OPvPCapturePointEP_NPT", "df/d30/a22370.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
+    [ "ChangeState", "df/d30/a22370.html#a9e046ace6129ce67568ed7c15130b617", null ],
+    [ "FillInitialWorldStates", "df/d30/a22370.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
+    [ "HandlePlayerEnter", "df/d30/a22370.html#ace643b7f7bc793934972c61c618045eb", null ],
+    [ "HandlePlayerLeave", "df/d30/a22370.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
+    [ "SendChangePhase", "df/d30/a22370.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
+    [ "SummonGO", "df/d30/a22370.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
+    [ "UpdateTowerState", "df/d30/a22370.html#ad8cfefcc567346273914e8039b039835", null ],
+    [ "m_SummonedGOSideId", "df/d30/a22370.html#aa034240d169c9ab7276786bb188abc70", null ],
+    [ "m_TowerState", "df/d30/a22370.html#a703b68024362d13ceaf9012202b72e7d", null ]
 ];

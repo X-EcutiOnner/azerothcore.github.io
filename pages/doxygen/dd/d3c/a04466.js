@@ -1,9 +1,9 @@
 var a04466 =
 [
-    [ "boss_hungarfen", "d5/d83/a23274.html", "d5/d83/a23274" ],
-    [ "npc_underbog_mushroom", "d3/d91/a23278.html", "d3/d91/a23278" ],
-    [ "spell_spore_cloud", "dc/dad/a23282.html", "dc/dad/a23282" ],
-    [ "spell_despawn_underbog_mushrooms", "db/dd3/a23286.html", "db/dd3/a23286" ],
+    [ "boss_hungarfen", "dc/dad/a23282.html", "dc/dad/a23282" ],
+    [ "npc_underbog_mushroom", "db/dd3/a23286.html", "db/dd3/a23286" ],
+    [ "spell_spore_cloud", "d7/d56/a23290.html", "d7/d56/a23290" ],
+    [ "spell_despawn_underbog_mushrooms", "de/df5/a23294.html", "de/df5/a23294" ],
     [ "Misc", "dd/d3c/a04466.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "db/d6c/a02969.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -2183,7 +2183,6 @@ var a04466 =
       [ "SPELL_SHIVER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760", null ],
       [ "SPELL_INSANITY", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1d88e5b9cac1abe32f0941d9e9825d44", null ],
       [ "INSANITY_VISUAL", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1dd358090e37609e7e28076ee8b1279f", null ],
-      [ "SPELL_INSANITY_TARGET", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298cae009ab6e033484334e1feb769d85274f", null ],
       [ "SPELL_CLONE_PLAYER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca3e4964d5b736b33559fca0df5d1e6e63", null ],
       [ "SPELL_INSANITY_PHASING_1", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca045717f4c6d22c9ffa8d175b66a74447", null ],
       [ "SPELL_INSANITY_PHASING_2", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632", null ],

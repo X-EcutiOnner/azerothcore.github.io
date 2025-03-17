@@ -1,6 +1,7 @@
 var a21842 =
 [
-    [ "npc_rocket_propelled_warheadAI", "d1/d47/a21846.html", "d1/d47/a21846" ],
-    [ "npc_rocket_propelled_warhead", "dc/dbc/a21842.html#a5c945efc6e3ca847363ac47abc5f51ca", null ],
-    [ "GetAI", "dc/dbc/a21842.html#a803702c480107d197845a0ef447a5380", null ]
+    [ "HandleAfterEffectApply", "dc/dbc/a21842.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "dc/dbc/a21842.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "dc/dbc/a21842.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "dc/dbc/a21842.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

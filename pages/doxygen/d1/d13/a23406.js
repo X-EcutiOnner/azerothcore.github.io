@@ -1,7 +1,7 @@
 var a23406 =
 [
-    [ "boss_the_maker", "d1/d13/a23406.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "d1/d13/a23406.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "d1/d13/a23406.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "d1/d13/a23406.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "PeriodicTick", "d1/d13/a23406.html#a53541105e40202e4a73ecc38d84e9eca", null ],
+    [ "PrepareAuraScript", "d1/d13/a23406.html#a79c8829a86db535e254db009d5286430", null ],
+    [ "Register", "d1/d13/a23406.html#a58cd762eb10d224bb188aaf167c816b9", null ],
+    [ "Validate", "d1/d13/a23406.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
 ];

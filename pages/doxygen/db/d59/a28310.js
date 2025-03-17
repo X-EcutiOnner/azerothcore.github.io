@@ -1,16 +1,5 @@
 var a28310 =
 [
-    [ "AcceptCallback", "db/d59/a28310.html#a2cea1478f3e8feec141064f3281d422e", null ],
-    [ "AsyncAcceptor", "db/d59/a28310.html#adcdbdbb26b47f71e74aeccbc0d96a6c4", null ],
-    [ "AsyncAccept", "db/d59/a28310.html#a0d7a3371b14fa8eecbe30ff73e366398", null ],
-    [ "AsyncAcceptWithCallback", "db/d59/a28310.html#ae2443c046b245262497e407c9a5b7b3f", null ],
-    [ "Bind", "db/d59/a28310.html#a91c22b6aba05bc493cfaf28a9203ce84", null ],
-    [ "Close", "db/d59/a28310.html#a0ed31d03f8cdb38b1e359f3085e7ee29", null ],
-    [ "DefaultSocketFactory", "db/d59/a28310.html#a9820441474b6ced25625185cbbcda5bc", null ],
-    [ "SetSocketFactory", "db/d59/a28310.html#a7bf97d3996651f3057fc0d88db5e4a69", null ],
-    [ "_acceptor", "db/d59/a28310.html#af3d5ae4979b29b4fc72e78fc9de34b8e", null ],
-    [ "_closed", "db/d59/a28310.html#a27230b467efdb08dbb9b0c0198db0936", null ],
-    [ "_endpoint", "db/d59/a28310.html#a06a13b36a9e324bc0b4f4112dbdabebf", null ],
-    [ "_socket", "db/d59/a28310.html#aef188268de7b2f7447a97aa73ac19ff3", null ],
-    [ "_socketFactory", "db/d59/a28310.html#a8ab2ccd6b8cbb7bff0a9d38e0e5d8ad7", null ]
+    [ "areatableID", "db/d59/a28310.html#a991f3242c87939be42d107d6908f441d", null ],
+    [ "ID", "db/d59/a28310.html#ac57c444da58dea7227bd26e0f6b7bbff", null ]
 ];

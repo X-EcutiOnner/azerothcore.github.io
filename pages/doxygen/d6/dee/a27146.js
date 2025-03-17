@@ -1,7 +1,6 @@
 var a27146 =
 [
-    [ "go_darkmoon_faire_musicAI", "d6/dee/a27146.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
-    [ "UpdateAI", "d6/dee/a27146.html#af3d802bd852fc0483f72781edb13b5d5", null ],
-    [ "_events", "d6/dee/a27146.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
-    [ "rnd", "d6/dee/a27146.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
+    [ "go_pirate_day_musicAI", "de/d4d/a27150.html", "de/d4d/a27150" ],
+    [ "go_pirate_day_music", "d6/dee/a27146.html#aa8d19102357639bd160eae9e90a87505", null ],
+    [ "GetAI", "d6/dee/a27146.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
 ];

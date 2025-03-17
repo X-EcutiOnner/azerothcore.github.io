@@ -1,21 +1,22 @@
 var a03980 =
 [
-    [ "npc_finklestein", "db/d97/a22290.html", "db/d97/a22290" ],
-    [ "npc_finklestein::npc_finklesteinAI", "d9/d94/a22294.html", "d9/d94/a22294" ],
-    [ "go_finklestein_cauldron", "da/d26/a22298.html", "da/d26/a22298" ],
-    [ "npc_overlord_drakuru_betrayal", "d5/d5f/a22302.html", "d5/d5f/a22302" ],
-    [ "npc_overlord_drakuru_betrayal::npc_overlord_drakuru_betrayalAI", "de/dc7/a22306.html", "de/dc7/a22306" ],
-    [ "npc_drakuru_shackles", "db/d20/a22310.html", "db/d20/a22310" ],
-    [ "npc_drakuru_shackles::npc_drakuru_shacklesAI", "d5/d7f/a22314.html", "d5/d7f/a22314" ],
-    [ "npc_captured_rageclaw", "d0/d8c/a22318.html", "d0/d8c/a22318" ],
-    [ "npc_captured_rageclaw::npc_captured_rageclawAI", "d5/d42/a22322.html", "d5/d42/a22322" ],
-    [ "npc_released_offspring_harkoa", "d9/d66/a22326.html", "d9/d66/a22326" ],
-    [ "npc_released_offspring_harkoa::npc_released_offspring_harkoaAI", "da/d45/a22330.html", "da/d45/a22330" ],
-    [ "npc_crusade_recruit", "d1/de6/a22334.html", "d1/de6/a22334" ],
-    [ "npc_crusade_recruit::npc_crusade_recruitAI", "d3/d72/a22338.html", "d3/d72/a22338" ],
-    [ "go_scourge_enclosure", "d6/d3b/a22342.html", "d6/d3b/a22342" ],
-    [ "npc_storm_cloud", "dd/de6/a22346.html", "dd/de6/a22346" ],
-    [ "npc_storm_cloud::npc_storm_cloudAI", "d2/d87/a22350.html", "d2/d87/a22350" ],
+    [ "npc_finklestein", "d9/d94/a22294.html", "d9/d94/a22294" ],
+    [ "npc_finklestein::npc_finklesteinAI", "da/d26/a22298.html", "da/d26/a22298" ],
+    [ "go_finklestein_cauldron", "d5/d5f/a22302.html", "d5/d5f/a22302" ],
+    [ "npc_overlord_drakuru_betrayal", "de/dc7/a22306.html", "de/dc7/a22306" ],
+    [ "npc_overlord_drakuru_betrayal::npc_overlord_drakuru_betrayalAI", "db/d20/a22310.html", "db/d20/a22310" ],
+    [ "npc_drakuru_shackles", "d5/d7f/a22314.html", "d5/d7f/a22314" ],
+    [ "npc_drakuru_shackles::npc_drakuru_shacklesAI", "d0/d8c/a22318.html", "d0/d8c/a22318" ],
+    [ "npc_captured_rageclaw", "d5/d42/a22322.html", "d5/d42/a22322" ],
+    [ "npc_captured_rageclaw::npc_captured_rageclawAI", "d9/d66/a22326.html", "d9/d66/a22326" ],
+    [ "npc_released_offspring_harkoa", "da/d45/a22330.html", "da/d45/a22330" ],
+    [ "npc_released_offspring_harkoa::npc_released_offspring_harkoaAI", "d1/de6/a22334.html", "d1/de6/a22334" ],
+    [ "npc_crusade_recruit", "d3/d72/a22338.html", "d3/d72/a22338" ],
+    [ "npc_crusade_recruit::npc_crusade_recruitAI", "d6/d3b/a22342.html", "d6/d3b/a22342" ],
+    [ "go_scourge_enclosure", "dd/de6/a22346.html", "dd/de6/a22346" ],
+    [ "npc_storm_cloud", "d2/d87/a22350.html", "d2/d87/a22350" ],
+    [ "npc_storm_cloud::npc_storm_cloudAI", "d9/dd9/a22354.html", "d9/dd9/a22354" ],
+    [ "spell_scourge_disguise_instability", "d1/d36/a22358.html", "d1/d36/a22358" ],
     [ "AlchemistItemRequirements", "dd/d78/a03980.html#ab81a0db27941af407a22b4297fae4c08", [
       [ "QUEST_ALCHEMIST_APPRENTICE", "dd/d78/a03980.html#ab81a0db27941af407a22b4297fae4c08acc34c525966e25184f9fe99e22f2d192", null ],
       [ "NPC_FINKLESTEIN", "dd/d78/a03980.html#ab81a0db27941af407a22b4297fae4c08a5cf7fdaa2ca28bb570bd1dd8edab09e6", null ]
@@ -43,6 +44,7 @@ var a03980 =
       [ "SPELL_THROW_BRIGHT_CRYSTAL", "dd/d78/a03980.html#a42b0bda1e9a4c753058b169a54d61487aa94c1a28195c93cadf5477e2cb65522f", null ],
       [ "SPELL_TELEPORT_EFFECT", "dd/d78/a03980.html#a42b0bda1e9a4c753058b169a54d61487a6dfb4874a898790c86691547bd4a093c", null ],
       [ "SPELL_SCOURGE_DISGUISE", "dd/d78/a03980.html#a42b0bda1e9a4c753058b169a54d61487a8a59e7b442ce8dbd378d912ed59a4e79", null ],
+      [ "SPELL_SCOURGE_DISGUISE_INSTANT_CAST", "dd/d78/a03980.html#a42b0bda1e9a4c753058b169a54d61487af4b8c747a57701c734e9bd267b927ee3", null ],
       [ "SPELL_BLIGHT_FOG", "dd/d78/a03980.html#a42b0bda1e9a4c753058b169a54d61487a6e4f243799c8977dcf2c8d31f1f58614", null ],
       [ "SPELL_THROW_PORTAL_CRYSTAL", "dd/d78/a03980.html#a42b0bda1e9a4c753058b169a54d61487a8146d2494e7cb04d6d9350645714161b", null ],
       [ "SPELL_ARTHAS_PORTAL", "dd/d78/a03980.html#a42b0bda1e9a4c753058b169a54d61487a2f29709d20708b595b8d34d0dcecaba7", null ],
@@ -89,6 +91,11 @@ var a03980 =
       [ "SPELL_KNEEL", "dd/d78/a03980.html#a0ff9ed580599c0c850f7d53d6432fce0a3e829100c4eeade92ad79a2108141370", null ],
       [ "SAY_RAGECLAW", "dd/d78/a03980.html#a0ff9ed580599c0c850f7d53d6432fce0a7a8a42222a1947cf47ee480ab22d0c4f", null ]
     ] ],
+    [ "ScourgeDisguiseInstability", "dd/d78/a03980.html#acea5346ffad736c0f80b61ad8c885f69", [
+      [ "SCOURGE_DISGUISE_FAILING_MESSAGE_1", "dd/d78/a03980.html#acea5346ffad736c0f80b61ad8c885f69a0414afd740fe68ee4ce74105ed220709", null ],
+      [ "SCOURGE_DISGUISE_FAILING_MESSAGE_2", "dd/d78/a03980.html#acea5346ffad736c0f80b61ad8c885f69ad69f168a22a9214e61b161bde38a62fe", null ],
+      [ "SCOURGE_DISGUISE_FAILING_MESSAGE_3", "dd/d78/a03980.html#acea5346ffad736c0f80b61ad8c885f69a8ca03a4ea8749adc0994543e38e6ff74", null ]
+    ] ],
     [ "ScourgeEnclosure", "dd/d78/a03980.html#a740acdf4b4d0937eef3e062d66b9de4b", [
       [ "QUEST_OUR_ONLY_HOPE", "dd/d78/a03980.html#a740acdf4b4d0937eef3e062d66b9de4ba240de8c75d2a585337e19b42ece990e2", null ],
       [ "NPC_GYMER_DUMMY", "dd/d78/a03980.html#a740acdf4b4d0937eef3e062d66b9de4baf3164c424edbb9f3ac7d0fc0c097c7cf", null ],
@@ -104,5 +111,6 @@ var a03980 =
     [ "AddSC_zuldrak", "dd/d78/a03980.html#a595341879dbea9e321816938e73a4d7b", null ],
     [ "AA_AURA_ID", "dd/d78/a03980.html#a4408cfc9a2f0da1e41850de7868c7b8a", null ],
     [ "AA_ITEM_ENTRY", "dd/d78/a03980.html#a154010b82ac66d0f04b4b8daf9ae6d6d", null ],
-    [ "AA_ITEM_NAME", "dd/d78/a03980.html#a109a40c1b9a7cd8fec46087dee6c07d4", null ]
+    [ "AA_ITEM_NAME", "dd/d78/a03980.html#a109a40c1b9a7cd8fec46087dee6c07d4", null ],
+    [ "scourgeDisguiseTextIDs", "dd/d78/a03980.html#a6be38154dc707bc5a8c5306ad197cb35", null ]
 ];

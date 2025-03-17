@@ -1,6 +1,6 @@
 var a22206 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "df/da6/a22206.html#afd54b130725aa724b80f150f968ce09d", null ],
-    [ "MovementInform", "df/da6/a22206.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
-    [ "PassengerBoarded", "df/da6/a22206.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d3/d7e/a22210.html", "d3/d7e/a22210" ],
+    [ "npc_vehicle_d16_propelled_delivery", "df/da6/a22206.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "df/da6/a22206.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

@@ -1,6 +1,6 @@
 var a23814 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d2/d9c/a23818.html", "d2/d9c/a23818" ],
-    [ "instance_mechanar", "dc/dad/a23814.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "dc/dad/a23814.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "HandlePeriodic", "dc/dad/a23814.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
+    [ "PrepareAuraScript", "dc/dad/a23814.html#a438425f3002028a0978e0dbab580ca03", null ],
+    [ "Register", "dc/dad/a23814.html#af4b26607e8838b7bbbe8777f57601341", null ]
 ];

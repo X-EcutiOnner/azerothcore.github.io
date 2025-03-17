@@ -1,7 +1,7 @@
 var a03926 =
 [
-    [ "npc_preparations_for_war_vehicle", "df/d27/a21522.html", "df/d27/a21522" ],
-    [ "npc_warmage_violetstand", "d6/dce/a21526.html", "d6/dce/a21526" ],
+    [ "npc_preparations_for_war_vehicle", "d6/dce/a21526.html", "d6/dce/a21526" ],
+    [ "npc_warmage_violetstand", "de/dd5/a21530.html", "de/dd5/a21530" ],
     [ "ePreparationsForWar", "d1/d59/a03926.html#aa1f5da50609df8a5db6588a5aef4dfa1", [
       [ "NPC_HAMMERHEAD", "d1/d59/a03926.html#aa1f5da50609df8a5db6588a5aef4dfa1ad1b13588c08e2e01417692b4885a4872", null ],
       [ "NPC_CLOUDBUSTER", "d1/d59/a03926.html#aa1f5da50609df8a5db6588a5aef4dfa1afa07f0b51a484de98e7c55105c1235fa", null ],
@@ -1582,7 +1582,6 @@ var a03926 =
       [ "SPELL_SHIVER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760", null ],
       [ "SPELL_INSANITY", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1d88e5b9cac1abe32f0941d9e9825d44", null ],
       [ "INSANITY_VISUAL", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1dd358090e37609e7e28076ee8b1279f", null ],
-      [ "SPELL_INSANITY_TARGET", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298cae009ab6e033484334e1feb769d85274f", null ],
       [ "SPELL_CLONE_PLAYER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca3e4964d5b736b33559fca0df5d1e6e63", null ],
       [ "SPELL_INSANITY_PHASING_1", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca045717f4c6d22c9ffa8d175b66a74447", null ],
       [ "SPELL_INSANITY_PHASING_2", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632", null ],

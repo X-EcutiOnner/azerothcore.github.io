@@ -1,9 +1,9 @@
 var a04220 =
 [
-    [ "boss_najentus", "de/d60/a22890.html", "de/d60/a22890" ],
-    [ "spell_najentus_needle_spine", "d4/d65/a22894.html", "d4/d65/a22894" ],
-    [ "spell_najentus_hurl_spine", "da/de7/a22898.html", "da/de7/a22898" ],
-    [ "spell_najentus_remove_spines", "d5/dae/a22902.html", "d5/dae/a22902" ],
+    [ "boss_najentus", "da/de7/a22898.html", "da/de7/a22898" ],
+    [ "spell_najentus_needle_spine", "d5/dae/a22902.html", "d5/dae/a22902" ],
+    [ "spell_najentus_hurl_spine", "d5/def/a22906.html", "d5/def/a22906" ],
+    [ "spell_najentus_remove_spines", "d0/d83/a22910.html", "d0/d83/a22910" ],
     [ "Events", "dc/d5e/a04220.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/dfb/a03122.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/dfb/a03122.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -3431,7 +3431,6 @@ var a04220 =
       [ "SPELL_SHIVER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760", null ],
       [ "SPELL_INSANITY", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1d88e5b9cac1abe32f0941d9e9825d44", null ],
       [ "INSANITY_VISUAL", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1dd358090e37609e7e28076ee8b1279f", null ],
-      [ "SPELL_INSANITY_TARGET", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298cae009ab6e033484334e1feb769d85274f", null ],
       [ "SPELL_CLONE_PLAYER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca3e4964d5b736b33559fca0df5d1e6e63", null ],
       [ "SPELL_INSANITY_PHASING_1", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca045717f4c6d22c9ffa8d175b66a74447", null ],
       [ "SPELL_INSANITY_PHASING_2", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632", null ],

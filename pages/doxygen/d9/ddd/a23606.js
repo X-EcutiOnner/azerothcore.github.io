@@ -1,8 +1,6 @@
 var a23606 =
 [
-    [ "boss_commander_sarannis", "d9/ddd/a23606.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "d9/ddd/a23606.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "d9/ddd/a23606.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "d9/ddd/a23606.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "d9/ddd/a23606.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "instance_arcatraz_InstanceMapScript", "df/d43/a23610.html", "df/d43/a23610" ],
+    [ "instance_arcatraz", "d9/ddd/a23606.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "d9/ddd/a23606.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];

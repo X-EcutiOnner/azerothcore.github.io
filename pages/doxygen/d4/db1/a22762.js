@@ -1,7 +1,9 @@
 var a22762 =
 [
-    [ "SuckBackEvent", "d4/db1/a22762.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "d4/db1/a22762.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "d4/db1/a22762.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "d4/db1/a22762.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "FilterTargets", "d4/db1/a22762.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "d4/db1/a22762.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "d4/db1/a22762.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "d4/db1/a22762.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "d4/db1/a22762.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "d4/db1/a22762.html#a814083360970284a325621f45e109b5b", null ]
 ];

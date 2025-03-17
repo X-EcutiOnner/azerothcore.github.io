@@ -1,12 +1,8 @@
 var a25926 =
 [
-    [ "AfterCheckProc", "d8/d3b/a25926.html#ae6ac733a614be543c04b57379b84aaca", null ],
-    [ "CheckProc", "d8/d3b/a25926.html#aa533054a5cd434ef3e02767a0a87db62", null ],
-    [ "GetProcSpell", "d8/d3b/a25926.html#af9fc6eb0c61c4084307fc2f7fb38973b", null ],
-    [ "HandleAfterEffectProc", "d8/d3b/a25926.html#aaa577b07d61ddc6e7af175c76ce63b11", null ],
-    [ "HandleOnEffectProc", "d8/d3b/a25926.html#a5bb5345754505cca5f9c840dc5bb9dfb", null ],
-    [ "PrepareAuraScript", "d8/d3b/a25926.html#a111821352b6d26f51878ce81b173ef6d", null ],
-    [ "Register", "d8/d3b/a25926.html#a9ba0584da94cf51b8cd8fe7da50fc1b0", null ],
-    [ "_chance", "d8/d3b/a25926.html#ab644c981163424fbaa05650dc6505ae1", null ],
-    [ "_spell", "d8/d3b/a25926.html#a07a855a4806bac873eb40505f805c39f", null ]
+    [ "HandleDummy", "d8/d3b/a25926.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
+    [ "PrepareSpellScript", "d8/d3b/a25926.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
+    [ "Register", "d8/d3b/a25926.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
+    [ "Validate", "d8/d3b/a25926.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
+    [ "PolymorhForms", "d8/d3b/a25926.html#a1443d2532a060514e697a8d5e0c21b20", null ]
 ];

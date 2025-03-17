@@ -1,8 +1,7 @@
 var a28170 =
 [
-    [ "canLink", "da/d4e/a28170.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
-    [ "categoryId", "da/d4e/a28170.html#abf285e69e8e2a90626a157cb0c50d158", null ],
-    [ "id", "da/d4e/a28170.html#a7740b26f1bde19a05b002c00eded25e3", null ],
-    [ "name", "da/d4e/a28170.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
-    [ "spellIcon", "da/d4e/a28170.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
+    [ "Id", "da/d4e/a28170.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
+    [ "MaxLevel", "da/d4e/a28170.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
+    [ "Modifier", "da/d4e/a28170.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
+    [ "StatMod", "da/d4e/a28170.html#ab639dd94c53707ca160e13f71342730d", null ]
 ];

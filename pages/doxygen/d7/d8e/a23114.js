@@ -1,6 +1,9 @@
 var a23114 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d7/d06/a23118.html", "d7/d06/a23118" ],
-    [ "instance_serpent_shrine", "d7/d8e/a23114.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "d7/d8e/a23114.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "FilterTargets", "d7/d8e/a23114.html#a9049c113d65b15a9a8e1143980a84b23", null ],
+    [ "HandleDummy", "d7/d8e/a23114.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
+    [ "Load", "d7/d8e/a23114.html#a8cad82701e0147e14f826243175e1c32", null ],
+    [ "PrepareSpellScript", "d7/d8e/a23114.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
+    [ "Register", "d7/d8e/a23114.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
+    [ "_targetNumber", "d7/d8e/a23114.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
 ];

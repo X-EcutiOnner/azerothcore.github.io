@@ -5,5 +5,5 @@ var a13198 =
     [ "Reset", "db/ddf/a13198.html#a9da762ab640abfaf5092034f284239af", null ],
     [ "SpellHitTarget", "db/ddf/a13198.html#a21e2223f58156da2fbe1803554623ecd", null ],
     [ "UpdateAI", "db/ddf/a13198.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
-    [ "timer", "db/ddf/a13198.html#ac73d55019f44f702843e22a442c2e432", null ]
+    [ "_timer", "db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
 ];

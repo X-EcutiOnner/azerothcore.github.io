@@ -1,12 +1,12 @@
 var a04499 =
 [
-    [ "boss_gruul", "d8/dbc/a23334.html", "d8/dbc/a23334" ],
-    [ "npc_invisible_tractor_beam_source", "d5/db8/a23338.html", "d5/db8/a23338" ],
-    [ "spell_gruul_ground_slam", "d9/d28/a23342.html", "d9/d28/a23342" ],
-    [ "spell_tractor_beam_creator", "d0/d43/a23346.html", "d0/d43/a23346" ],
-    [ "spell_gruul_ground_slam_trigger", "d5/dd0/a23350.html", "d5/dd0/a23350" ],
-    [ "spell_gruul_shatter", "df/d06/a23354.html", "df/d06/a23354" ],
-    [ "spell_gruul_shatter_effect", "d0/da4/a23358.html", "d0/da4/a23358" ],
+    [ "boss_gruul", "d9/d28/a23342.html", "d9/d28/a23342" ],
+    [ "npc_invisible_tractor_beam_source", "d0/d43/a23346.html", "d0/d43/a23346" ],
+    [ "spell_gruul_ground_slam", "d5/dd0/a23350.html", "d5/dd0/a23350" ],
+    [ "spell_tractor_beam_creator", "df/d06/a23354.html", "df/d06/a23354" ],
+    [ "spell_gruul_ground_slam_trigger", "d0/da4/a23358.html", "d0/da4/a23358" ],
+    [ "spell_gruul_shatter", "d3/df6/a23362.html", "d3/df6/a23362" ],
+    [ "spell_gruul_shatter_effect", "d2/dd3/a23366.html", "d2/dd3/a23366" ],
     [ "Spells", "da/dec/a04499.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d7/d46/a00890.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d7/d46/a00890.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],
@@ -1423,7 +1423,6 @@ var a04499 =
       [ "SPELL_SHIVER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760", null ],
       [ "SPELL_INSANITY", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1d88e5b9cac1abe32f0941d9e9825d44", null ],
       [ "INSANITY_VISUAL", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1dd358090e37609e7e28076ee8b1279f", null ],
-      [ "SPELL_INSANITY_TARGET", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298cae009ab6e033484334e1feb769d85274f", null ],
       [ "SPELL_CLONE_PLAYER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca3e4964d5b736b33559fca0df5d1e6e63", null ],
       [ "SPELL_INSANITY_PHASING_1", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca045717f4c6d22c9ffa8d175b66a74447", null ],
       [ "SPELL_INSANITY_PHASING_2", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632", null ],

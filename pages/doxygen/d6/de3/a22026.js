@@ -1,6 +1,6 @@
 var a22026 =
 [
-    [ "npc_artruis_the_hearthlessAI", "db/d81/a22030.html", "db/d81/a22030" ],
-    [ "npc_artruis_the_hearthless", "d6/de3/a22026.html#abeed70f4306113bd5df242eae91bfdb0", null ],
-    [ "GetAI", "d6/de3/a22026.html#a1a7674c5e3e9e0de848bfb0d906ac06c", null ]
+    [ "HandleHealPct", "d6/de3/a22026.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "d6/de3/a22026.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "d6/de3/a22026.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

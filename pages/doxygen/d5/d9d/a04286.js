@@ -1,8 +1,8 @@
 var a04286 =
 [
-    [ "boss_warchief_kargath_bladefist", "d7/dfa/a23538.html", "d7/dfa/a23538" ],
-    [ "npc_warchief_portal", "d5/d48/a23542.html", "d5/d48/a23542" ],
-    [ "spell_blade_dance_targeting", "dd/d8e/a23546.html", "dd/d8e/a23546" ],
+    [ "boss_warchief_kargath_bladefist", "dd/d8e/a23546.html", "dd/d8e/a23546" ],
+    [ "npc_warchief_portal", "d6/d90/a23550.html", "d6/d90/a23550" ],
+    [ "spell_blade_dance_targeting", "d4/dcc/a23554.html", "d4/dcc/a23554" ],
     [ "Creatures", "d5/d9d/a04286.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d8/dfb/a03122.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d8/dfb/a03122.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -2198,7 +2198,6 @@ var a04286 =
       [ "SPELL_SHIVER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760", null ],
       [ "SPELL_INSANITY", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1d88e5b9cac1abe32f0941d9e9825d44", null ],
       [ "INSANITY_VISUAL", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1dd358090e37609e7e28076ee8b1279f", null ],
-      [ "SPELL_INSANITY_TARGET", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298cae009ab6e033484334e1feb769d85274f", null ],
       [ "SPELL_CLONE_PLAYER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca3e4964d5b736b33559fca0df5d1e6e63", null ],
       [ "SPELL_INSANITY_PHASING_1", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca045717f4c6d22c9ffa8d175b66a74447", null ],
       [ "SPELL_INSANITY_PHASING_2", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632", null ],

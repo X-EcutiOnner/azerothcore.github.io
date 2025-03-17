@@ -1,6 +1,6 @@
 var a25018 =
 [
-    [ "HandleScriptEffect", "db/d4f/a25018.html#a884d0f5f8bf0f3515b4fedd54dd20ebf", null ],
-    [ "PrepareSpellScript", "db/d4f/a25018.html#a45151bb2eacdd642e8f11564d4ef0d65", null ],
-    [ "Register", "db/d4f/a25018.html#ae01695fd336fca36a7d2569ca741fba5", null ]
+    [ "HandleEffectPeriodic", "db/d4f/a25018.html#a248ba0e88498e36355491b2b89063e17", null ],
+    [ "PrepareAuraScript", "db/d4f/a25018.html#ac9aed434fe7602ef846e9f052402620e", null ],
+    [ "Register", "db/d4f/a25018.html#a039eec910c802276b9e979253141cdee", null ]
 ];

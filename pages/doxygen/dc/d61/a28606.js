@@ -1,11 +1,9 @@
 var a28606 =
 [
-    [ "material", "dc/d61/a28606.html#a7079e8817a9684602084eb224f2540fc", null ],
-    [ "pos_x", "dc/d61/a28606.html#ac4d971cc46506be14716124afbb5ad9c", null ],
-    [ "pos_y", "dc/d61/a28606.html#a6cd85f2a674d732e88371ffce5e46077", null ],
-    [ "pos_z", "dc/d61/a28606.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
-    [ "xtiles", "dc/d61/a28606.html#aca34dfa64624cfe04c314c13bbed0062", null ],
-    [ "xverts", "dc/d61/a28606.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
-    [ "ytiles", "dc/d61/a28606.html#a9901a7e9828ac840bc290b0768831d66", null ],
-    [ "yverts", "dc/d61/a28606.html#abf24042b85692cd0df05d65d734dd99e", null ]
+    [ "Flags", "dc/d61/a28606.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "dc/d61/a28606.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "dc/d61/a28606.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "dc/d61/a28606.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "dc/d61/a28606.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "dc/d61/a28606.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

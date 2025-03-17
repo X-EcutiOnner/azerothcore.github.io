@@ -1,11 +1,10 @@
 var a23810 =
 [
-    [ "boss_pathaleon_the_calculator", "d2/ddf/a23810.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "d2/ddf/a23810.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "d2/ddf/a23810.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "d2/ddf/a23810.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "d2/ddf/a23810.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "d2/ddf/a23810.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "d2/ddf/a23810.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "d2/ddf/a23810.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "npc_raging_flames", "d2/ddf/a23810.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
+    [ "EnterEvadeMode", "d2/ddf/a23810.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
+    [ "FixateRandomTarget", "d2/ddf/a23810.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
+    [ "InitializeAI", "d2/ddf/a23810.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
+    [ "IsSummonedBy", "d2/ddf/a23810.html#ae42c4329be355807af92c1c803e61500", null ],
+    [ "Reset", "d2/ddf/a23810.html#a34ac2249e507784d81c4040e87a646e0", null ],
+    [ "UpdateAI", "d2/ddf/a23810.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
 ];

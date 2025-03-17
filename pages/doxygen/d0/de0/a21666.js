@@ -1,7 +1,6 @@
 var a21666 =
 [
-    [ "HandleApplyEffect", "d0/de0/a21666.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "d0/de0/a21666.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "d0/de0/a21666.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "d0/de0/a21666.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "HandleSendEvent", "d0/de0/a21666.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "d0/de0/a21666.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "d0/de0/a21666.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

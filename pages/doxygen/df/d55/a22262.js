@@ -1,7 +1,9 @@
 var a22262 =
 [
-    [ "HandleScript", "df/d55/a22262.html#a1811115f1732912bdfaeeb8272db2304", null ],
-    [ "PrepareSpellScript", "df/d55/a22262.html#a50c24464dd88717bf78971d679715d7b", null ],
-    [ "Register", "df/d55/a22262.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
-    [ "Validate", "df/d55/a22262.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
+    [ "HandleFinish", "df/d55/a22262.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "df/d55/a22262.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "df/d55/a22262.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "df/d55/a22262.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "df/d55/a22262.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "df/d55/a22262.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

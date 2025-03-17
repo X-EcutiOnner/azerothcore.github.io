@@ -1,13 +1,7 @@
 var a23690 =
 [
-    [ "advisor_baseAI", "d8/dd6/a23690.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
-    [ "DamageTaken", "d8/dd6/a23690.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
-    [ "JustDied", "d8/dd6/a23690.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
-    [ "JustEngagedWith", "d8/dd6/a23690.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
-    [ "Reset", "d8/dd6/a23690.html#a008c30414ecebf4e2996d06b81539255", null ],
-    [ "ScheduleEvents", "d8/dd6/a23690.html#a24d22ccec834770bc5bcf44119fb0045", null ],
-    [ "SpellHit", "d8/dd6/a23690.html#a4fc41f3985244b6baf25b3417f67054e", null ],
-    [ "UpdateAI", "d8/dd6/a23690.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
-    [ "_feigning", "d8/dd6/a23690.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
-    [ "_preventDeath", "d8/dd6/a23690.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
+    [ "OnApply", "d8/dd6/a23690.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "d8/dd6/a23690.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "d8/dd6/a23690.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "d8/dd6/a23690.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

@@ -1,6 +1,6 @@
 var a23770 =
 [
-    [ "PrepareAuraScript", "dc/dd9/a23770.html#a14d4d1a75130a77e7e59e41720491bec", null ],
-    [ "PrepareProc", "dc/dd9/a23770.html#abea217f4bfdffc70007fbc29849e9a49", null ],
-    [ "Register", "dc/dd9/a23770.html#a9dbcd4c940f5941472bebb64829125e3", null ]
+    [ "instance_the_eye_InstanceMapScript", "d7/d01/a23774.html", "d7/d01/a23774" ],
+    [ "instance_the_eye", "dc/dd9/a23770.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "dc/dd9/a23770.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

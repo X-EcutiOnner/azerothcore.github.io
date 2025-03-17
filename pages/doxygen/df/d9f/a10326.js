@@ -162,6 +162,7 @@ var a10326 =
     [ "OnPlayerRewardKillRewarder", "df/d9f/a10326.html#af395a893e54efeb4493f80c945be512e", null ],
     [ "OnPlayerSave", "df/d9f/a10326.html#adf5e7994101d601bc3da89b7a7b65789", null ],
     [ "OnPlayerSendInitialPacketsBeforeAddToMap", "df/d9f/a10326.html#adf7e18448a0b2bd7bf665f758ddd9dea", null ],
+    [ "OnPlayerSendListInventory", "df/d9f/a10326.html#a61bcb10650fcf0be3625d5ba7a71eb1e", null ],
     [ "OnPlayerSetMaxLevel", "df/d9f/a10326.html#aa8049d8f999c983d032c4a83f44d384d", null ],
     [ "OnPlayerSetServerSideVisibility", "df/d9f/a10326.html#a426e85a617ff5bde90d46918e5fd5b4f", null ],
     [ "OnPlayerSetServerSideVisibilityDetect", "df/d9f/a10326.html#afc51f607a2a09dfbebf941afb6d78848", null ],

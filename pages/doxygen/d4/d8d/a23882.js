@@ -1,7 +1,6 @@
 var a23882 =
 [
-    [ "HandleEffect", "d4/d8d/a23882.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d4/d8d/a23882.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d4/d8d/a23882.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d4/d8d/a23882.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d6/d3d/a23886.html", "d6/d3d/a23886" ],
+    [ "npc_oscillating_frequency_scanner_master_bunny", "d4/d8d/a23882.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
+    [ "GetAI", "d4/d8d/a23882.html#a60d55e2eda4484ceea4e475ac8653977", null ]
 ];

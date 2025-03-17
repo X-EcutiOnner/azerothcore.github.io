@@ -1,6 +1,15 @@
 var a22382 =
 [
-    [ "OutdoorPvPGH", "db/d65/a22382.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "SendRemoveWorldStates", "db/d65/a22382.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "db/d65/a22382.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "OutdoorPvPEP", "db/d65/a22382.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
+    [ "BuffTeams", "db/d65/a22382.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
+    [ "FillInitialWorldStates", "db/d65/a22382.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
+    [ "HandlePlayerEnterZone", "db/d65/a22382.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
+    [ "HandlePlayerLeaveZone", "db/d65/a22382.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
+    [ "SendRemoveWorldStates", "db/d65/a22382.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
+    [ "SetControlledState", "db/d65/a22382.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
+    [ "SetupOutdoorPvP", "db/d65/a22382.html#acecc8126180c027cb3d685231e55d873", null ],
+    [ "Update", "db/d65/a22382.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
+    [ "EP_ControlsId", "db/d65/a22382.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
+    [ "m_AllianceTowersControlled", "db/d65/a22382.html#a09e5cf029656af3fc740b236596d42ee", null ],
+    [ "m_HordeTowersControlled", "db/d65/a22382.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
 ];

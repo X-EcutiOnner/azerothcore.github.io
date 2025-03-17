@@ -1,6 +1,7 @@
 var a24022 =
 [
-    [ "npc_invis_infernal_casterAI", "d4/d05/a24026.html", "d4/d05/a24026" ],
-    [ "npc_invis_infernal_caster", "d3/d47/a24022.html#a9aed081ef904075830428bbc76f53874", null ],
-    [ "GetAI", "d3/d47/a24022.html#aede0c5cc390ea423169b1cba66d929cd", null ]
+    [ "HandleScriptEffect", "d3/d47/a24022.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "d3/d47/a24022.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "d3/d47/a24022.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "d3/d47/a24022.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

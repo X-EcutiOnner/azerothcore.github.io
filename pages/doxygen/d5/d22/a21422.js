@@ -1,9 +1,6 @@
 var a21422 =
 [
-    [ "npc_captured_beryl_sorcererAI", "d5/d22/a21422.html#a3c3f47022aee418f228803a2504470a3", null ],
-    [ "Initialize", "d5/d22/a21422.html#a98b2ff2f0e152a41106eaace5273aa69", null ],
-    [ "MoveInLineOfSight", "d5/d22/a21422.html#a4f7edf7bc7480bf0c9f6aec113b2e058", null ],
-    [ "Reset", "d5/d22/a21422.html#ac96af1fd018e88950d1c58562dffdb83", null ],
-    [ "UpdateAI", "d5/d22/a21422.html#a1bbefa59abce0c7b3d7b343ddc467c98", null ],
-    [ "_events", "d5/d22/a21422.html#a0ba1f7ffa792c93ccd4df8ec2c80fb42", null ]
+    [ "npc_captured_beryl_sorcererAI", "d3/dd6/a21426.html", "d3/dd6/a21426" ],
+    [ "npc_captured_beryl_sorcerer", "d5/d22/a21422.html#ace67e76e96e3be9fa5976dc4c90041e6", null ],
+    [ "GetAI", "d5/d22/a21422.html#aa5a31390ff3c6277ebff2a5eebe72b3d", null ]
 ];

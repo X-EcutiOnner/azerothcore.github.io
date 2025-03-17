@@ -1,6 +1,10 @@
 var a23410 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "d4/d5a/a23414.html", "d4/d5a/a23414" ],
-    [ "instance_blood_furnace", "de/d80/a23410.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "de/d80/a23410.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "boss_kelidan_the_breaker", "de/d80/a23410.html#a6774e4a0315b30266f6c55da608cd193", null ],
+    [ "ApplyImmunities", "de/d80/a23410.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
+    [ "DoAction", "de/d80/a23410.html#a3fa0117ce1079f651025116684f5e2f4", null ],
+    [ "JustDied", "de/d80/a23410.html#a4d3f0171b7889a96f19999b28e549866", null ],
+    [ "JustEngagedWith", "de/d80/a23410.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
+    [ "KilledUnit", "de/d80/a23410.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
+    [ "Reset", "de/d80/a23410.html#a46c592f6c46ea568ad368702e1640e06", null ]
 ];

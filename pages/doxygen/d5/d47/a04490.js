@@ -1,8 +1,8 @@
 var a04490 =
 [
-    [ "boss_morogrim_tidewalker", "df/d33/a23102.html", "df/d33/a23102" ],
-    [ "spell_morogrim_tidewalker_watery_grave", "d9/dcd/a23106.html", "d9/dcd/a23106" ],
-    [ "spell_morogrim_tidewalker_water_globule_new_target", "db/dd2/a23110.html", "db/dd2/a23110" ],
+    [ "boss_morogrim_tidewalker", "db/dd2/a23110.html", "db/dd2/a23110" ],
+    [ "spell_morogrim_tidewalker_watery_grave", "d7/d8e/a23114.html", "d7/d8e/a23114" ],
+    [ "spell_morogrim_tidewalker_water_globule_new_target", "d7/d06/a23118.html", "d7/d06/a23118" ],
     [ "Spells", "d5/d47/a04490.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d7/d46/a00890.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d7/d46/a00890.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],
@@ -1419,7 +1419,6 @@ var a04490 =
       [ "SPELL_SHIVER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760", null ],
       [ "SPELL_INSANITY", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1d88e5b9cac1abe32f0941d9e9825d44", null ],
       [ "INSANITY_VISUAL", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1dd358090e37609e7e28076ee8b1279f", null ],
-      [ "SPELL_INSANITY_TARGET", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298cae009ab6e033484334e1feb769d85274f", null ],
       [ "SPELL_CLONE_PLAYER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca3e4964d5b736b33559fca0df5d1e6e63", null ],
       [ "SPELL_INSANITY_PHASING_1", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca045717f4c6d22c9ffa8d175b66a74447", null ],
       [ "SPELL_INSANITY_PHASING_2", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632", null ],

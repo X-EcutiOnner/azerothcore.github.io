@@ -420,24 +420,24 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  467</span>{</div>
-<div class="line"><span class="lineno">  468</span>    <a class="code hl_class" href="../../d4/df1/a10930.html">WorldPacket</a> data;</div>
-<div class="line"><span class="lineno">  469</span>    <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> time;</div>
-<div class="line"><span class="lineno">  470</span>    std::ostringstream strm;</div>
-<div class="line"><span class="lineno">  471</span> </div>
-<div class="line"><span class="lineno">  472</span>    <span class="comment">// we are supposed to send PackedTime so i used WorldPacket to pack it</span></div>
-<div class="line"><span class="lineno">  473</span>    data.<a class="code hl_function" href="../../d6/dfb/a28342.html#aa7b1246e84bc9010cf14a66385b85e07">AppendPackedTime</a>(<a class="code hl_variable" href="../../d5/d6d/a07438.html#a7645e983f30557294542e7595eeb4117">_eventTime</a>);</div>
-<div class="line"><span class="lineno">  474</span>    data &gt;&gt; time;</div>
-<div class="line"><span class="lineno">  475</span>    strm &lt;&lt; time;</div>
-<div class="line"><span class="lineno">  476</span>    <span class="keywordflow">return</span> strm.str();</div>
-<div class="line"><span class="lineno">  477</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  491</span>{</div>
+<div class="line"><span class="lineno">  492</span>    <a class="code hl_class" href="../../d4/df1/a10930.html">WorldPacket</a> data;</div>
+<div class="line"><span class="lineno">  493</span>    <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> time;</div>
+<div class="line"><span class="lineno">  494</span>    std::ostringstream strm;</div>
+<div class="line"><span class="lineno">  495</span> </div>
+<div class="line"><span class="lineno">  496</span>    <span class="comment">// we are supposed to send PackedTime so i used WorldPacket to pack it</span></div>
+<div class="line"><span class="lineno">  497</span>    data.<a class="code hl_function" href="../../dc/d71/a28354.html#aa7b1246e84bc9010cf14a66385b85e07">AppendPackedTime</a>(<a class="code hl_variable" href="../../d5/d6d/a07438.html#a7645e983f30557294542e7595eeb4117">_eventTime</a>);</div>
+<div class="line"><span class="lineno">  498</span>    data &gt;&gt; time;</div>
+<div class="line"><span class="lineno">  499</span>    strm &lt;&lt; time;</div>
+<div class="line"><span class="lineno">  500</span>    <span class="keywordflow">return</span> strm.str();</div>
+<div class="line"><span class="lineno">  501</span>}</div>
 <div class="ttc" id="aa00266_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
 <div class="ttc" id="aa10930_html"><div class="ttname"><a href="../../d4/df1/a10930.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
-<div class="ttc" id="aa28342_html_aa7b1246e84bc9010cf14a66385b85e07"><div class="ttname"><a href="../../d6/dfb/a28342.html#aa7b1246e84bc9010cf14a66385b85e07">ByteBuffer::AppendPackedTime</a></div><div class="ttdeci">void AppendPackedTime(time_t time)</div><div class="ttdef"><b>Definition:</b> ByteBuffer.cpp:137</div></div>
+<div class="ttc" id="aa28354_html_aa7b1246e84bc9010cf14a66385b85e07"><div class="ttname"><a href="../../dc/d71/a28354.html#aa7b1246e84bc9010cf14a66385b85e07">ByteBuffer::AppendPackedTime</a></div><div class="ttdeci">void AppendPackedTime(time_t time)</div><div class="ttdef"><b>Definition:</b> ByteBuffer.cpp:137</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00267">_eventTime</a>, and <a class="el" href="../../#l00137">ByteBuffer::AppendPackedTime()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00170">CalendarMgr::RemoveEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00172">CalendarMgr::RemoveEvent()</a>.</p>
 
 </div>
 </div>
@@ -456,16 +456,16 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  460</span>{</div>
-<div class="line"><span class="lineno">  461</span>    std::ostringstream strm;</div>
-<div class="line"><span class="lineno">  462</span>    strm &lt;&lt; remover.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>() &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; <a class="code hl_variable" href="../../d5/d6d/a07438.html#a7b3da974292eea515f91a136ce374ce2">_title</a>;</div>
-<div class="line"><span class="lineno">  463</span>    <span class="keywordflow">return</span> strm.str();</div>
-<div class="line"><span class="lineno">  464</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  484</span>{</div>
+<div class="line"><span class="lineno">  485</span>    std::ostringstream strm;</div>
+<div class="line"><span class="lineno">  486</span>    strm &lt;&lt; remover.<a class="code hl_function" href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>() &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; <a class="code hl_variable" href="../../d5/d6d/a07438.html#a7b3da974292eea515f91a136ce374ce2">_title</a>;</div>
+<div class="line"><span class="lineno">  487</span>    <span class="keywordflow">return</span> strm.str();</div>
+<div class="line"><span class="lineno">  488</span>}</div>
 <div class="ttc" id="aa08378_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../de/d6b/a08378.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:47</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00270">_title</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00170">CalendarMgr::RemoveEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00172">CalendarMgr::RemoveEvent()</a>.</p>
 
 </div>
 </div>
@@ -495,7 +495,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00263">_creatorGUID</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00135">CalendarMgr::AddEvent()</a>, <a class="el" href="../../#l00142">CalendarMgr::AddInvite()</a>, <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00052">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00479">CalendarMgr::SendCalendarEventInvite()</a>, <a class="el" href="../../#l00579">CalendarMgr::SendCalendarEventInviteAlert()</a>, and <a class="el" href="../../#l00247">CalendarMgr::UpdateEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00135">CalendarMgr::AddEvent()</a>, <a class="el" href="../../#l00142">CalendarMgr::AddInvite()</a>, <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00052">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00288">CalendarMgr::RemoveAllPlayerEventsAndInvites()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00503">CalendarMgr::SendCalendarEventInvite()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
 
 </div>
 </div>
@@ -525,7 +525,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00271">_description</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00513">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00247">CalendarMgr::UpdateEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00537">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
 
 </div>
 </div>
@@ -555,7 +555,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00266">_dungeonId</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00052">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00579">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00513">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00247">CalendarMgr::UpdateEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00052">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00537">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
 
 </div>
 </div>
@@ -585,7 +585,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00262">_eventId</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00239">WorldSession::HandleCalendarAddEvent()</a>, <a class="el" href="../../#l00436">WorldSession::HandleCalendarCopyEvent()</a>, <a class="el" href="../../#l00052">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00170">CalendarMgr::RemoveEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00579">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00649">CalendarMgr::SendCalendarEventInviteRemoveAlert()</a>, <a class="el" href="../../#l00547">CalendarMgr::SendCalendarEventRemovedAlert()</a>, <a class="el" href="../../#l00533">CalendarMgr::SendCalendarEventStatus()</a>, <a class="el" href="../../#l00513">CalendarMgr::SendCalendarEventUpdateAlert()</a>, <a class="el" href="../../#l00697">CalendarMgr::SendPacketToAllEventRelatives()</a>, and <a class="el" href="../../#l00247">CalendarMgr::UpdateEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00239">WorldSession::HandleCalendarAddEvent()</a>, <a class="el" href="../../#l00436">WorldSession::HandleCalendarCopyEvent()</a>, <a class="el" href="../../#l00052">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00172">CalendarMgr::RemoveEvent()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00673">CalendarMgr::SendCalendarEventInviteRemoveAlert()</a>, <a class="el" href="../../#l00571">CalendarMgr::SendCalendarEventRemovedAlert()</a>, <a class="el" href="../../#l00557">CalendarMgr::SendCalendarEventStatus()</a>, <a class="el" href="../../#l00537">CalendarMgr::SendCalendarEventUpdateAlert()</a>, <a class="el" href="../../#l00721">CalendarMgr::SendPacketToAllEventRelatives()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
 
 </div>
 </div>
@@ -615,7 +615,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00267">_eventTime</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00052">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00579">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00649">CalendarMgr::SendCalendarEventInviteRemoveAlert()</a>, <a class="el" href="../../#l00547">CalendarMgr::SendCalendarEventRemovedAlert()</a>, <a class="el" href="../../#l00533">CalendarMgr::SendCalendarEventStatus()</a>, <a class="el" href="../../#l00513">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00247">CalendarMgr::UpdateEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00385">CalendarMgr::DeleteOldEvents()</a>, <a class="el" href="../../#l00052">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00673">CalendarMgr::SendCalendarEventInviteRemoveAlert()</a>, <a class="el" href="../../#l00571">CalendarMgr::SendCalendarEventRemovedAlert()</a>, <a class="el" href="../../#l00557">CalendarMgr::SendCalendarEventStatus()</a>, <a class="el" href="../../#l00537">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
 
 </div>
 </div>
@@ -645,7 +645,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00268">_flags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00052">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00212">CalendarMgr::RemoveInvite()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00579">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00649">CalendarMgr::SendCalendarEventInviteRemoveAlert()</a>, <a class="el" href="../../#l00533">CalendarMgr::SendCalendarEventStatus()</a>, <a class="el" href="../../#l00513">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00247">CalendarMgr::UpdateEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00052">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00224">CalendarMgr::RemoveInvite()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00673">CalendarMgr::SendCalendarEventInviteRemoveAlert()</a>, <a class="el" href="../../#l00557">CalendarMgr::SendCalendarEventStatus()</a>, <a class="el" href="../../#l00537">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
 
 </div>
 </div>
@@ -675,7 +675,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00264">_guildId</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00579">CalendarMgr::SendCalendarEventInviteAlert()</a>, and <a class="el" href="../../#l00697">CalendarMgr::SendPacketToAllEventRelatives()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, and <a class="el" href="../../#l00721">CalendarMgr::SendPacketToAllEventRelatives()</a>.</p>
 
 </div>
 </div>
@@ -705,7 +705,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00269">_timezoneTime</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEvent()</a>, and <a class="el" href="../../#l00247">CalendarMgr::UpdateEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
 
 </div>
 </div>
@@ -735,7 +735,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00270">_title</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00052">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00579">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00513">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00247">CalendarMgr::UpdateEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00052">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00537">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
 
 </div>
 </div>
@@ -765,7 +765,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00265">_type</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00052">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00579">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00513">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00247">CalendarMgr::UpdateEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00052">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00537">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
 
 </div>
 </div>
@@ -796,7 +796,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00268">_flags</a>, and <a class="el" href="../../#l00039">CALENDAR_FLAG_WITHOUT_INVITES</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00142">CalendarMgr::AddInvite()</a>, <a class="el" href="../../#l00239">WorldSession::HandleCalendarAddEvent()</a>, <a class="el" href="../../#l00579">CalendarMgr::SendCalendarEventInviteAlert()</a>, and <a class="el" href="../../#l00697">CalendarMgr::SendPacketToAllEventRelatives()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00142">CalendarMgr::AddInvite()</a>, <a class="el" href="../../#l00239">WorldSession::HandleCalendarAddEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, and <a class="el" href="../../#l00721">CalendarMgr::SendPacketToAllEventRelatives()</a>.</p>
 
 </div>
 </div>
@@ -856,7 +856,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00268">_flags</a>, and <a class="el" href="../../#l00040">CALENDAR_FLAG_GUILD_EVENT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00142">CalendarMgr::AddInvite()</a>, <a class="el" href="../../#l00239">WorldSession::HandleCalendarAddEvent()</a>, <a class="el" href="../../#l00212">CalendarMgr::RemoveInvite()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00579">CalendarMgr::SendCalendarEventInviteAlert()</a>, and <a class="el" href="../../#l00697">CalendarMgr::SendPacketToAllEventRelatives()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00142">CalendarMgr::AddInvite()</a>, <a class="el" href="../../#l00239">WorldSession::HandleCalendarAddEvent()</a>, <a class="el" href="../../#l00224">CalendarMgr::RemoveInvite()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, and <a class="el" href="../../#l00721">CalendarMgr::SendPacketToAllEventRelatives()</a>.</p>
 
 </div>
 </div>
@@ -1300,7 +1300,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00466">BuildCalendarMailBody()</a>, <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00244">GetEventTime()</a>, and <a class="el" href="../../#l00243">SetEventTime()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00490">BuildCalendarMailBody()</a>, <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00244">GetEventTime()</a>, and <a class="el" href="../../#l00243">SetEventTime()</a>.</p>
 
 </div>
 </div>
@@ -1396,7 +1396,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00459">BuildCalendarMailSubject()</a>, <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00232">GetTitle()</a>, and <a class="el" href="../../#l00231">SetTitle()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00483">BuildCalendarMailSubject()</a>, <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00232">GetTitle()</a>, and <a class="el" href="../../#l00231">SetTitle()</a>.</p>
 
 </div>
 </div>
@@ -1430,7 +1430,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d6d/a07438.html">CalendarEvent</a></li>
-    <li class="footer">Generated on Mon Mar 10 2025 20:44:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Mar 17 2025 20:45:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,12 +1,8 @@
 var a22986 =
 [
-    [ "boss_fathomlord_karathress", "de/d5d/a22986.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "de/d5d/a22986.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "de/d5d/a22986.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "de/d5d/a22986.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "de/d5d/a22986.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "de/d5d/a22986.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "de/d5d/a22986.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "de/d5d/a22986.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "de/d5d/a22986.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "CalculateAmount", "de/d5d/a22986.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
+    [ "OnPeriodic", "de/d5d/a22986.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
+    [ "PrepareAuraScript", "de/d5d/a22986.html#a1278420b279449c1c6a53b1a7b53f539", null ],
+    [ "Register", "de/d5d/a22986.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
+    [ "Validate", "de/d5d/a22986.html#a601c2db3a8e47d48b956ed102cbca104", null ]
 ];

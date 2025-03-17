@@ -1,10 +1,5 @@
 var a23402 =
 [
-    [ "boss_kelidan_the_breaker", "d2/d4f/a23402.html#a6774e4a0315b30266f6c55da608cd193", null ],
-    [ "ApplyImmunities", "d2/d4f/a23402.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
-    [ "DoAction", "d2/d4f/a23402.html#a3fa0117ce1079f651025116684f5e2f4", null ],
-    [ "JustDied", "d2/d4f/a23402.html#a4d3f0171b7889a96f19999b28e549866", null ],
-    [ "JustEngagedWith", "d2/d4f/a23402.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
-    [ "KilledUnit", "d2/d4f/a23402.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
-    [ "Reset", "d2/d4f/a23402.html#a46c592f6c46ea568ad368702e1640e06", null ]
+    [ "go_broggok_lever", "d2/d4f/a23402.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
+    [ "OnGossipHello", "d2/d4f/a23402.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
 ];

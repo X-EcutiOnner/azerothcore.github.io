@@ -1,6 +1,6 @@
 var a21730 =
 [
-    [ "npc_spiritual_insightAI", "d3/d34/a21730.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "d3/d34/a21730.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "d3/d34/a21730.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_spiritual_insightAI", "d9/d46/a21734.html", "d9/d46/a21734" ],
+    [ "npc_spiritual_insight", "d3/d34/a21730.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "d3/d34/a21730.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

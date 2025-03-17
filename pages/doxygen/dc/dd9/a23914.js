@@ -1,6 +1,6 @@
 var a23914 =
 [
-    [ "npc_fel_guard_houndAI", "d8/d26/a23918.html", "d8/d26/a23918" ],
-    [ "npc_fel_guard_hound", "dc/dd9/a23914.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "dc/dd9/a23914.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "npc_wounded_blood_elfAI", "d8/d26/a23918.html", "d8/d26/a23918" ],
+    [ "npc_wounded_blood_elf", "dc/dd9/a23914.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "dc/dd9/a23914.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

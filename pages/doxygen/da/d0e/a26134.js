@@ -1,6 +1,7 @@
 var a26134 =
 [
-    [ "CheckCast", "da/d0e/a26134.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "da/d0e/a26134.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "da/d0e/a26134.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "HandleProc", "da/d0e/a26134.html#ad5bf7ab28ac2f359c65606a1772a40d2", null ],
+    [ "PrepareAuraScript", "da/d0e/a26134.html#af4fec7fb65e1327b1a74d48453b9fddd", null ],
+    [ "Register", "da/d0e/a26134.html#a44a82b94d509eeb04f3520ded1d62891", null ],
+    [ "Validate", "da/d0e/a26134.html#a7b222bba8f0c4ced50bf4945bf0423ca", null ]
 ];

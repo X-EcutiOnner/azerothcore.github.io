@@ -1,8 +1,6 @@
 var a22978 =
 [
-    [ "CalculateAmount", "d6/dee/a22978.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
-    [ "OnPeriodic", "d6/dee/a22978.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
-    [ "PrepareAuraScript", "d6/dee/a22978.html#a1278420b279449c1c6a53b1a7b53f539", null ],
-    [ "Register", "d6/dee/a22978.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
-    [ "Validate", "d6/dee/a22978.html#a601c2db3a8e47d48b956ed102cbca104", null ]
+    [ "boss_doomlordkazzakAI", "d8/dfd/a22982.html", "d8/dfd/a22982" ],
+    [ "boss_doomlord_kazzak", "d6/dee/a22978.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
+    [ "GetAI", "d6/dee/a22978.html#a460a32ce37aae852b48f1990406da9a4", null ]
 ];

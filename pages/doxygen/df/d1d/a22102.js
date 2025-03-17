@@ -1,6 +1,8 @@
 var a22102 =
 [
-    [ "npc_vics_flying_machineAI", "d8/de8/a22106.html", "d8/de8/a22106" ],
-    [ "npc_vics_flying_machine", "df/d1d/a22102.html#ac0f1e83a9f53f1e38e81804f0332e3fd", null ],
-    [ "GetAI", "df/d1d/a22102.html#aac2a7cabd2e87705e9a1b3bfebb89eae", null ]
+    [ "CheckCast", "df/d1d/a22102.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "df/d1d/a22102.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "df/d1d/a22102.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "df/d1d/a22102.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "df/d1d/a22102.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

@@ -1,6 +1,5 @@
 var a27062 =
 [
-    [ "go_witherbark_totem_bundleAI", "dd/d39/a27066.html", "dd/d39/a27066" ],
-    [ "go_witherbark_totem_bundle", "d4/df5/a27062.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "d4/df5/a27062.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "go_noblegarden_colored_egg", "d4/df5/a27062.html#a7e85d492a6c9f4e50a2c47d6e6dae535", null ],
+    [ "OnGossipHello", "d4/df5/a27062.html#ab3d349dfa5b4c0f58ed70f80cd084029", null ]
 ];

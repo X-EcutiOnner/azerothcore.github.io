@@ -128,8 +128,8 @@ Inheritance diagram for FollowMovementGenerator&lt; T &gt;:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a54cd020fc83846f23206053c5d7415ff"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da8/a09974.html#a54cd020fc83846f23206053c5d7415ff">FollowMovementGenerator</a> (<a class="el" href="../../d0/d7f/a08710.html">Unit</a> *target, float range, <a class="el" href="../../d7/dfe/a09882.html">ChaseAngle</a> angle, bool inheritWalkState)</td></tr>
-<tr class="separator:a54cd020fc83846f23206053c5d7415ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a10862b6835b11afe858eb78601a36f3a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da8/a09974.html#a10862b6835b11afe858eb78601a36f3a">FollowMovementGenerator</a> (<a class="el" href="../../d0/d7f/a08710.html">Unit</a> *target, float range, <a class="el" href="../../d7/dfe/a09882.html">ChaseAngle</a> angle, bool inheritWalkState, bool inheritSpeed)</td></tr>
+<tr class="separator:a10862b6835b11afe858eb78601a36f3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ada41372b5aaf8f87eb4efde96285421c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da8/a09974.html#ada41372b5aaf8f87eb4efde96285421c">~FollowMovementGenerator</a> ()</td></tr>
 <tr class="separator:ada41372b5aaf8f87eb4efde96285421c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaf0860a5a14b59e8b45f9cfa29f34387"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d7c/a00722.html#a4f12806b915efea564eae942207002f9">MovementGeneratorType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da8/a09974.html#aaf0860a5a14b59e8b45f9cfa29f34387">GetMovementGeneratorType</a> ()</td></tr>
@@ -215,6 +215,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:aba650091163aa7a072af72aa59ea9a2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a54eb84d8f0c696db3cc7941c8ef9807b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da8/a09974.html#a54eb84d8f0c696db3cc7941c8ef9807b">_inheritWalkState</a></td></tr>
 <tr class="separator:a54eb84d8f0c696db3cc7941c8ef9807b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa26846c0c92081d642107d9cd595496"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da8/a09974.html#aaa26846c0c92081d642107d9cd595496">_inheritSpeed</a></td></tr>
+<tr class="separator:aaa26846c0c92081d642107d9cd595496"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
@@ -225,8 +227,8 @@ Additional Inherited Members</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><div class="compoundTemplParams">template&lt;class T&gt;<br />
 class FollowMovementGenerator&lt; T &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a54cd020fc83846f23206053c5d7415ff" name="a54cd020fc83846f23206053c5d7415ff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a54cd020fc83846f23206053c5d7415ff">&#9670;&#160;</a></span>FollowMovementGenerator()</h2>
+<a id="a10862b6835b11afe858eb78601a36f3a" name="a10862b6835b11afe858eb78601a36f3a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a10862b6835b11afe858eb78601a36f3a">&#9670;&#160;</a></span>FollowMovementGenerator()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -258,7 +260,13 @@ template&lt;class T &gt; </div>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>inheritWalkState</em>&#160;</td>
+          <td class="paramname"><em>inheritWalkState</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>inheritSpeed</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -272,11 +280,12 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   79</span>        : <a class="code hl_class" href="../../df/d5b/a09966.html">TargetedMovementGeneratorBase</a>(target), <a class="code hl_variable" href="../../d9/da8/a09974.html#a7b835c0ee56046fc28c3664f22a32dd8">i_path</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d9/da8/a09974.html#ae38b7818fd26d19cf01ef74866b29a01">i_recheckPredictedDistanceTimer</a>(0), <a class="code hl_variable" href="../../d9/da8/a09974.html#ab48307cc97a09d8aed0ecaeab95f6bf6">i_recheckPredictedDistance</a>(<span class="keyword">false</span>), <a class="code hl_variable" href="../../d9/da8/a09974.html#a18250f2a1915424157693be6ac1047e3">_range</a>(range), <a class="code hl_variable" href="../../d9/da8/a09974.html#aba650091163aa7a072af72aa59ea9a2e">_angle</a>(angle),<a class="code hl_variable" href="../../d9/da8/a09974.html#a54eb84d8f0c696db3cc7941c8ef9807b">_inheritWalkState</a>(inheritWalkState) {}</div>
+<div class="fragment"><div class="line"><span class="lineno">   79</span>        : <a class="code hl_class" href="../../df/d5b/a09966.html">TargetedMovementGeneratorBase</a>(target), <a class="code hl_variable" href="../../d9/da8/a09974.html#a7b835c0ee56046fc28c3664f22a32dd8">i_path</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d9/da8/a09974.html#ae38b7818fd26d19cf01ef74866b29a01">i_recheckPredictedDistanceTimer</a>(0), <a class="code hl_variable" href="../../d9/da8/a09974.html#ab48307cc97a09d8aed0ecaeab95f6bf6">i_recheckPredictedDistance</a>(<span class="keyword">false</span>), <a class="code hl_variable" href="../../d9/da8/a09974.html#a18250f2a1915424157693be6ac1047e3">_range</a>(range), <a class="code hl_variable" href="../../d9/da8/a09974.html#aba650091163aa7a072af72aa59ea9a2e">_angle</a>(angle),<a class="code hl_variable" href="../../d9/da8/a09974.html#a54eb84d8f0c696db3cc7941c8ef9807b">_inheritWalkState</a>(inheritWalkState), <a class="code hl_variable" href="../../d9/da8/a09974.html#aaa26846c0c92081d642107d9cd595496">_inheritSpeed</a>(inheritSpeed) {}</div>
 <div class="ttc" id="aa09966_html"><div class="ttname"><a href="../../df/d5b/a09966.html">TargetedMovementGeneratorBase</a></div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:29</div></div>
 <div class="ttc" id="aa09974_html_a18250f2a1915424157693be6ac1047e3"><div class="ttname"><a href="../../d9/da8/a09974.html#a18250f2a1915424157693be6ac1047e3">FollowMovementGenerator::_range</a></div><div class="ttdeci">float _range</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:108</div></div>
 <div class="ttc" id="aa09974_html_a54eb84d8f0c696db3cc7941c8ef9807b"><div class="ttname"><a href="../../d9/da8/a09974.html#a54eb84d8f0c696db3cc7941c8ef9807b">FollowMovementGenerator::_inheritWalkState</a></div><div class="ttdeci">bool _inheritWalkState</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:110</div></div>
 <div class="ttc" id="aa09974_html_a7b835c0ee56046fc28c3664f22a32dd8"><div class="ttname"><a href="../../d9/da8/a09974.html#a7b835c0ee56046fc28c3664f22a32dd8">FollowMovementGenerator::i_path</a></div><div class="ttdeci">std::unique_ptr&lt; PathGenerator &gt; i_path</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:102</div></div>
+<div class="ttc" id="aa09974_html_aaa26846c0c92081d642107d9cd595496"><div class="ttname"><a href="../../d9/da8/a09974.html#aaa26846c0c92081d642107d9cd595496">FollowMovementGenerator::_inheritSpeed</a></div><div class="ttdeci">bool _inheritSpeed</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:111</div></div>
 <div class="ttc" id="aa09974_html_ab48307cc97a09d8aed0ecaeab95f6bf6"><div class="ttname"><a href="../../d9/da8/a09974.html#ab48307cc97a09d8aed0ecaeab95f6bf6">FollowMovementGenerator::i_recheckPredictedDistance</a></div><div class="ttdeci">bool i_recheckPredictedDistance</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:104</div></div>
 <div class="ttc" id="aa09974_html_aba650091163aa7a072af72aa59ea9a2e"><div class="ttname"><a href="../../d9/da8/a09974.html#aba650091163aa7a072af72aa59ea9a2e">FollowMovementGenerator::_angle</a></div><div class="ttdeci">ChaseAngle _angle</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:109</div></div>
 <div class="ttc" id="aa09974_html_ae38b7818fd26d19cf01ef74866b29a01"><div class="ttname"><a href="../../d9/da8/a09974.html#ae38b7818fd26d19cf01ef74866b29a01">FollowMovementGenerator::i_recheckPredictedDistanceTimer</a></div><div class="ttdeci">TimeTrackerSmall i_recheckPredictedDistanceTimer</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:103</div></div>
@@ -392,9 +401,9 @@ template&lt;class T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  560</span>{</div>
-<div class="line"><span class="lineno">  561</span>    owner-&gt;ClearUnitState(<a class="code hl_enumvalue" href="../../d0/d85/a01352.html#ae51d2ecb71f7a5cb3882982a622c9544a8379bf5577b924bd702f037bb8499a60">UNIT_STATE_FOLLOW</a> | <a class="code hl_enumvalue" href="../../d0/d85/a01352.html#ae51d2ecb71f7a5cb3882982a622c9544abba4f3d73cd61dfacf1b99a452039031">UNIT_STATE_FOLLOW_MOVE</a>);</div>
-<div class="line"><span class="lineno">  562</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  561</span>{</div>
+<div class="line"><span class="lineno">  562</span>    owner-&gt;ClearUnitState(<a class="code hl_enumvalue" href="../../d0/d85/a01352.html#ae51d2ecb71f7a5cb3882982a622c9544a8379bf5577b924bd702f037bb8499a60">UNIT_STATE_FOLLOW</a> | <a class="code hl_enumvalue" href="../../d0/d85/a01352.html#ae51d2ecb71f7a5cb3882982a622c9544abba4f3d73cd61dfacf1b99a452039031">UNIT_STATE_FOLLOW_MOVE</a>);</div>
+<div class="line"><span class="lineno">  563</span>}</div>
 <div class="ttc" id="aa01352_html_ae51d2ecb71f7a5cb3882982a622c9544a8379bf5577b924bd702f037bb8499a60"><div class="ttname"><a href="../../d0/d85/a01352.html#ae51d2ecb71f7a5cb3882982a622c9544a8379bf5577b924bd702f037bb8499a60">UNIT_STATE_FOLLOW</a></div><div class="ttdeci">@ UNIT_STATE_FOLLOW</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:179</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00179">UNIT_STATE_FOLLOW</a>, and <a class="el" href="../../#l00196">UNIT_STATE_FOLLOW_MOVE</a>.</p>
@@ -418,11 +427,11 @@ template&lt;class T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  552</span>{</div>
-<div class="line"><span class="lineno">  553</span>    <a class="code hl_variable" href="../../d9/da8/a09974.html#a7b835c0ee56046fc28c3664f22a32dd8">i_path</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  554</span>    <a class="code hl_variable" href="../../d9/da8/a09974.html#a8f73424b130a8d99a15b276f23af9211">_lastTargetPosition</a>.reset();</div>
-<div class="line"><span class="lineno">  555</span>    owner-&gt;AddUnitState(<a class="code hl_enumvalue" href="../../d0/d85/a01352.html#ae51d2ecb71f7a5cb3882982a622c9544a8379bf5577b924bd702f037bb8499a60">UNIT_STATE_FOLLOW</a>);</div>
-<div class="line"><span class="lineno">  556</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  553</span>{</div>
+<div class="line"><span class="lineno">  554</span>    <a class="code hl_variable" href="../../d9/da8/a09974.html#a7b835c0ee56046fc28c3664f22a32dd8">i_path</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  555</span>    <a class="code hl_variable" href="../../d9/da8/a09974.html#a8f73424b130a8d99a15b276f23af9211">_lastTargetPosition</a>.reset();</div>
+<div class="line"><span class="lineno">  556</span>    owner-&gt;AddUnitState(<a class="code hl_enumvalue" href="../../d0/d85/a01352.html#ae51d2ecb71f7a5cb3882982a622c9544a8379bf5577b924bd702f037bb8499a60">UNIT_STATE_FOLLOW</a>);</div>
+<div class="line"><span class="lineno">  557</span>}</div>
 <div class="ttc" id="aa09974_html_a8f73424b130a8d99a15b276f23af9211"><div class="ttname"><a href="../../d9/da8/a09974.html#a8f73424b130a8d99a15b276f23af9211">FollowMovementGenerator::_lastTargetPosition</a></div><div class="ttdeci">Optional&lt; Position &gt; _lastTargetPosition</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:106</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00179">UNIT_STATE_FOLLOW</a>.</p>
@@ -446,10 +455,10 @@ template&lt;class T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  566</span>{</div>
-<div class="line"><span class="lineno">  567</span>    <a class="code hl_function" href="../../d9/da8/a09974.html#ae5c336754ea7dd54a828760f5032bb98">DoInitialize</a>(owner);</div>
-<div class="line"><span class="lineno">  568</span>}</div>
-<div class="ttc" id="aa09974_html_ae5c336754ea7dd54a828760f5032bb98"><div class="ttname"><a href="../../d9/da8/a09974.html#ae5c336754ea7dd54a828760f5032bb98">FollowMovementGenerator::DoInitialize</a></div><div class="ttdeci">void DoInitialize(T *)</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.cpp:551</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  567</span>{</div>
+<div class="line"><span class="lineno">  568</span>    <a class="code hl_function" href="../../d9/da8/a09974.html#ae5c336754ea7dd54a828760f5032bb98">DoInitialize</a>(owner);</div>
+<div class="line"><span class="lineno">  569</span>}</div>
+<div class="ttc" id="aa09974_html_ae5c336754ea7dd54a828760f5032bb98"><div class="ttname"><a href="../../d9/da8/a09974.html#ae5c336754ea7dd54a828760f5032bb98">FollowMovementGenerator::DoInitialize</a></div><div class="ttdeci">void DoInitialize(T *)</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.cpp:552</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -580,13 +589,14 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  539</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/da8/a09974.html#a54eb84d8f0c696db3cc7941c8ef9807b">_inheritWalkState</a>)</div>
 <div class="line"><span class="lineno">  540</span>            init.SetWalk(target-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#af5f118a391194216cdd0ab4dcd2f48c3">IsWalking</a>() || target-&gt;<a class="code hl_variable" href="../../d0/d7f/a08710.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d77/a10018.html#a97822562bcdf817cb8529aa6ad862ad7">isWalking</a>());</div>
 <div class="line"><span class="lineno">  541</span> </div>
-<div class="line"><span class="lineno">  542</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d1/dc6/a00347.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;float&gt;</a> velocity = <a class="code hl_function" href="../../dd/dd8/a00719.html#a955c196fa9c96bf11e2d887d6cbac50c">GetVelocity</a>(owner, target, <a class="code hl_variable" href="../../d9/da8/a09974.html#a7b835c0ee56046fc28c3664f22a32dd8">i_path</a>-&gt;GetActualEndPosition(), owner-&gt;IsGuardian()))</div>
-<div class="line"><span class="lineno">  543</span>            init.SetVelocity(*velocity);</div>
-<div class="line"><span class="lineno">  544</span>        init.Launch();</div>
-<div class="line"><span class="lineno">  545</span>    }</div>
-<div class="line"><span class="lineno">  546</span> </div>
-<div class="line"><span class="lineno">  547</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  548</span>}</div>
+<div class="line"><span class="lineno">  542</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/da8/a09974.html#aaa26846c0c92081d642107d9cd595496">_inheritSpeed</a>)</div>
+<div class="line"><span class="lineno">  543</span>            <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d1/dc6/a00347.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;float&gt;</a> velocity = <a class="code hl_function" href="../../dd/dd8/a00719.html#a955c196fa9c96bf11e2d887d6cbac50c">GetVelocity</a>(owner, target, <a class="code hl_variable" href="../../d9/da8/a09974.html#a7b835c0ee56046fc28c3664f22a32dd8">i_path</a>-&gt;GetActualEndPosition(), owner-&gt;IsGuardian()))</div>
+<div class="line"><span class="lineno">  544</span>                init.SetVelocity(*velocity);</div>
+<div class="line"><span class="lineno">  545</span>        init.Launch();</div>
+<div class="line"><span class="lineno">  546</span>    }</div>
+<div class="line"><span class="lineno">  547</span> </div>
+<div class="line"><span class="lineno">  548</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  549</span>}</div>
 <div class="ttc" id="aa00347_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../d1/dc6/a00347.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition:</b> Optional.h:24</div></div>
 <div class="ttc" id="aa00680_html_ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984"><div class="ttname"><a href="../../d4/d9b/a00680.html#ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984">PATHFIND_NOPATH</a></div><div class="ttdeci">@ PATHFIND_NOPATH</div><div class="ttdef"><b>Definition:</b> PathGenerator.h:50</div></div>
 <div class="ttc" id="aa00719_html_a955c196fa9c96bf11e2d887d6cbac50c"><div class="ttname"><a href="../../dd/dd8/a00719.html#a955c196fa9c96bf11e2d887d6cbac50c">GetVelocity</a></div><div class="ttdeci">static Optional&lt; float &gt; GetVelocity(Unit *owner, Unit *target, G3D::Vector3 const &amp;dest, bool playerPet)</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.cpp:334</div></div>
@@ -614,7 +624,7 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="aa09882_html_a810a730ae905bfa296dbe6c1e4b86416"><div class="ttname"><a href="../../d7/dfe/a09882.html#a810a730ae905bfa296dbe6c1e4b86416">ChaseAngle::RelativeAngle</a></div><div class="ttdeci">float RelativeAngle</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:100</div></div>
 <div class="ttc" id="aa09966_html_a427d8512cbd0ccbaca65dcf48bbe39f6"><div class="ttname"><a href="../../df/d5b/a09966.html#a427d8512cbd0ccbaca65dcf48bbe39f6">TargetedMovementGeneratorBase::i_target</a></div><div class="ttdeci">FollowerReference i_target</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:34</div></div>
 <div class="ttc" id="aa09974_html_a1ee2956b66e3f6bda623e60a54fa0594"><div class="ttname"><a href="../../d9/da8/a09974.html#a1ee2956b66e3f6bda623e60a54fa0594">FollowMovementGenerator::PositionOkay</a></div><div class="ttdeci">bool PositionOkay(Unit *target, bool isPlayerPet, bool &amp;targetIsMoving, uint32 diff)</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.cpp:396</div></div>
-<div class="ttc" id="aa09974_html_af25ca8590054d8e69f2aaf65cd388606"><div class="ttname"><a href="../../d9/da8/a09974.html#af25ca8590054d8e69f2aaf65cd388606">FollowMovementGenerator::MovementInform</a></div><div class="ttdeci">void MovementInform(T *)</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.cpp:571</div></div>
+<div class="ttc" id="aa09974_html_af25ca8590054d8e69f2aaf65cd388606"><div class="ttname"><a href="../../d9/da8/a09974.html#af25ca8590054d8e69f2aaf65cd388606">FollowMovementGenerator::MovementInform</a></div><div class="ttdeci">void MovementInform(T *)</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.cpp:572</div></div>
 <div class="ttc" id="aa09974_html_afa5e1acb94fb1e3ce7854533f6e3d2ac"><div class="ttname"><a href="../../d9/da8/a09974.html#afa5e1acb94fb1e3ce7854533f6e3d2ac">FollowMovementGenerator::_lastPredictedPosition</a></div><div class="ttdeci">Optional&lt; Position &gt; _lastPredictedPosition</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:107</div></div>
 <div class="ttc" id="aa10018_html_a97822562bcdf817cb8529aa6ad862ad7"><div class="ttname"><a href="../../d3/d77/a10018.html#a97822562bcdf817cb8529aa6ad862ad7">Movement::MoveSpline::isWalking</a></div><div class="ttdeci">bool isWalking() const</div><div class="ttdef"><b>Definition:</b> MoveSpline.h:119</div></div>
 <div class="ttc" id="aa10034_html"><div class="ttname"><a href="../../de/d67/a10034.html">Movement::MoveSplineInit</a></div><div class="ttdef"><b>Definition:</b> MoveSplineInit.h:71</div></div>
@@ -735,14 +745,14 @@ template&lt;class T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  572</span>{</div>
-<div class="line"><span class="lineno">  573</span>    <span class="keywordflow">if</span> (!owner-&gt;IsCreature())</div>
-<div class="line"><span class="lineno">  574</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  575</span> </div>
-<div class="line"><span class="lineno">  576</span>    <span class="comment">// Pass back the GUIDLow of the target. If it is pet&#39;s owner then PetAI will handle</span></div>
-<div class="line"><span class="lineno">  577</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d40/a06134.html">CreatureAI</a>* AI = owner-&gt;ToCreature()-&gt;AI())</div>
-<div class="line"><span class="lineno">  578</span>        AI-&gt;MovementInform(<a class="code hl_enumvalue" href="../../db/d7c/a00722.html#a4f12806b915efea564eae942207002f9ae99e76e1e80feb6d7ff6e1df01e98e9c">FOLLOW_MOTION_TYPE</a>, <a class="code hl_variable" href="../../df/d5b/a09966.html#a427d8512cbd0ccbaca65dcf48bbe39f6">i_target</a>.<a class="code hl_function" href="../../d5/dfc/a05210.html#a0c80169399d27b402ff3ad97305cd337">getTarget</a>()-&gt;<a class="code hl_function" href="../../db/d14/a08330.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../de/d6b/a08378.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
-<div class="line"><span class="lineno">  579</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  573</span>{</div>
+<div class="line"><span class="lineno">  574</span>    <span class="keywordflow">if</span> (!owner-&gt;IsCreature())</div>
+<div class="line"><span class="lineno">  575</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  576</span> </div>
+<div class="line"><span class="lineno">  577</span>    <span class="comment">// Pass back the GUIDLow of the target. If it is pet&#39;s owner then PetAI will handle</span></div>
+<div class="line"><span class="lineno">  578</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d40/a06134.html">CreatureAI</a>* AI = owner-&gt;ToCreature()-&gt;AI())</div>
+<div class="line"><span class="lineno">  579</span>        AI-&gt;MovementInform(<a class="code hl_enumvalue" href="../../db/d7c/a00722.html#a4f12806b915efea564eae942207002f9ae99e76e1e80feb6d7ff6e1df01e98e9c">FOLLOW_MOTION_TYPE</a>, <a class="code hl_variable" href="../../df/d5b/a09966.html#a427d8512cbd0ccbaca65dcf48bbe39f6">i_target</a>.<a class="code hl_function" href="../../d5/dfc/a05210.html#a0c80169399d27b402ff3ad97305cd337">getTarget</a>()-&gt;<a class="code hl_function" href="../../db/d14/a08330.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../de/d6b/a08378.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
+<div class="line"><span class="lineno">  580</span>}</div>
 <div class="ttc" id="aa06134_html"><div class="ttname"><a href="../../dc/d40/a06134.html">CreatureAI</a></div><div class="ttdef"><b>Definition:</b> CreatureAI.h:70</div></div>
 <div class="ttc" id="aa08378_html_a0df27b85c91a2c619e8f1d9c2cb31677"><div class="ttname"><a href="../../de/d6b/a08378.html#a0df27b85c91a2c619e8f1d9c2cb31677">ObjectGuid::GetCounter</a></div><div class="ttdeci">LowType GetCounter() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:145</div></div>
 </div><!-- fragment -->
@@ -893,6 +903,30 @@ template&lt;class T &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname"><a class="el" href="../../d7/dfe/a09882.html">ChaseAngle</a> <a class="el" href="../../d9/da8/a09974.html">FollowMovementGenerator</a>&lt; T &gt;::_angle</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aaa26846c0c92081d642107d9cd595496" name="aaa26846c0c92081d642107d9cd595496"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaa26846c0c92081d642107d9cd595496">&#9670;&#160;</a></span>_inheritSpeed</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d9/da8/a09974.html">FollowMovementGenerator</a>&lt; T &gt;::_inheritSpeed</td>
         </tr>
       </table>
   </td>
@@ -1082,7 +1116,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/da8/a09974.html">FollowMovementGenerator</a></li>
-    <li class="footer">Generated on Mon Mar 10 2025 20:44:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Mar 17 2025 20:45:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

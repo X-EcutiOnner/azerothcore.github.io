@@ -1,9 +1,18 @@
 var a22470 =
 [
-    [ "npc_stolen_soul", "de/d45/a22470.html#a84a0bb8320b2332545748e010d855884", null ],
-    [ "DoAction", "de/d45/a22470.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
-    [ "Reset", "de/d45/a22470.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
-    [ "UpdateAI", "de/d45/a22470.html#a7bf369dd943ee36600a364d56b85db5a", null ],
-    [ "_scheduler", "de/d45/a22470.html#ab62526916f0ccd681383d37d19d94ccc", null ],
-    [ "myClass", "de/d45/a22470.html#ab2ad92983075320ce389aa583c341d21", null ]
+    [ "OutdoorPvPZM", "de/d45/a22470.html#a8351867658985b66dd97f39e68c16b94", null ],
+    [ "FillInitialWorldStates", "de/d45/a22470.html#a86a36c0f47027c8d5ac64090e308d98a", null ],
+    [ "GetAllianceTowersControlled", "de/d45/a22470.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
+    [ "GetHordeTowersControlled", "de/d45/a22470.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
+    [ "HandleKillImpl", "de/d45/a22470.html#a6cd61b99305a2838261e36652fda42b1", null ],
+    [ "HandlePlayerEnterZone", "de/d45/a22470.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
+    [ "HandlePlayerLeaveZone", "de/d45/a22470.html#a93105e3229db7798ad882fc7e538b250", null ],
+    [ "SendRemoveWorldStates", "de/d45/a22470.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
+    [ "SetAllianceTowersControlled", "de/d45/a22470.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
+    [ "SetHordeTowersControlled", "de/d45/a22470.html#a27239875476bbce8ff18b30cdfe6815b", null ],
+    [ "SetupOutdoorPvP", "de/d45/a22470.html#a7e71d2c2480da1a2d155981999201b99", null ],
+    [ "Update", "de/d45/a22470.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
+    [ "m_AllianceTowersControlled", "de/d45/a22470.html#aff4124f54572e0812c39562fbc6390c3", null ],
+    [ "m_Graveyard", "de/d45/a22470.html#a9842f1c5de04af4db3e0397839de7765", null ],
+    [ "m_HordeTowersControlled", "de/d45/a22470.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
 ];

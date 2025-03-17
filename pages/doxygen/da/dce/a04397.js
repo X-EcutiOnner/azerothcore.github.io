@@ -1,9 +1,9 @@
 var a04397 =
 [
-    [ "boss_mechano_lord_capacitus", "d6/d83/a23782.html", "d6/d83/a23782" ],
-    [ "spell_capacitus_polarity_charge", "dd/d85/a23786.html", "dd/d85/a23786" ],
-    [ "spell_capacitus_polarity_charge_aura", "db/dbd/a23790.html", "db/dbd/a23790" ],
-    [ "spell_capacitus_polarity_shift", "dd/dd4/a23794.html", "dd/dd4/a23794" ],
+    [ "boss_mechano_lord_capacitus", "db/dbd/a23790.html", "db/dbd/a23790" ],
+    [ "spell_capacitus_polarity_charge", "dd/dd4/a23794.html", "dd/dd4/a23794" ],
+    [ "spell_capacitus_polarity_charge_aura", "dd/dc3/a23798.html", "dd/dc3/a23798" ],
+    [ "spell_capacitus_polarity_shift", "d8/d76/a23802.html", "d8/d76/a23802" ],
     [ "polarityShift", "da/dce/a04397.html#adfcb85d87bd0304f358a9d2549e866aa", [
       [ "SPELL_POSITIVE_POLARITY", "da/dce/a04397.html#adfcb85d87bd0304f358a9d2549e866aaa795738ba63917afbc0763ca952c1acf2", null ],
       [ "SPELL_POSITIVE_CHARGE_STACK", "da/dce/a04397.html#adfcb85d87bd0304f358a9d2549e866aaa9a8ba6564944a1455aee4c76339e7ae5", null ],
@@ -1428,7 +1428,6 @@ var a04397 =
       [ "SPELL_SHIVER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760", null ],
       [ "SPELL_INSANITY", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1d88e5b9cac1abe32f0941d9e9825d44", null ],
       [ "INSANITY_VISUAL", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1dd358090e37609e7e28076ee8b1279f", null ],
-      [ "SPELL_INSANITY_TARGET", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298cae009ab6e033484334e1feb769d85274f", null ],
       [ "SPELL_CLONE_PLAYER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca3e4964d5b736b33559fca0df5d1e6e63", null ],
       [ "SPELL_INSANITY_PHASING_1", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca045717f4c6d22c9ffa8d175b66a74447", null ],
       [ "SPELL_INSANITY_PHASING_2", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632", null ],

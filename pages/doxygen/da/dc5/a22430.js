@@ -1,5 +1,5 @@
 var a22430 =
 [
-    [ "OutdoorPvP_terokkar_forest", "da/dc5/a22430.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
-    [ "GetOutdoorPvP", "da/dc5/a22430.html#acf268293812d7a1a233e7f1fcba1e733", null ]
+    [ "OutdoorPvP_silithus", "da/dc5/a22430.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
+    [ "GetOutdoorPvP", "da/dc5/a22430.html#a126d6acc77218addd10072199ccd2470", null ]
 ];

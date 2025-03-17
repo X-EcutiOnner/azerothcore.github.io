@@ -1,7 +1,8 @@
 var a26106 =
 [
-    [ "HandleHeal", "de/dda/a26106.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "de/dda/a26106.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "de/dda/a26106.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "de/dda/a26106.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "CalculateAmount", "de/dda/a26106.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
+    [ "PrepareAuraScript", "de/dda/a26106.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
+    [ "ReflectDamage", "de/dda/a26106.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
+    [ "Register", "de/dda/a26106.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
+    [ "Validate", "de/dda/a26106.html#af2936ba4a29fc8735a3cabe805c77355", null ]
 ];

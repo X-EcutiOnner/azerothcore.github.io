@@ -1,12 +1,12 @@
 var a04244 =
 [
-    [ "boss_shade_of_akama", "da/daf/a22822.html", "da/daf/a22822" ],
-    [ "npc_akama_shade", "df/d44/a22826.html", "df/d44/a22826" ],
-    [ "npc_creature_generator_akama", "d1/d69/a22830.html", "d1/d69/a22830" ],
-    [ "npc_ashtongue_sorcerer", "d9/d80/a22834.html", "d9/d80/a22834" ],
-    [ "npc_ashtongue_channeler", "d7/d97/a22838.html", "d7/d97/a22838" ],
-    [ "spell_shade_of_akama_shade_soul_channel", "d9/de7/a22842.html", "d9/de7/a22842" ],
-    [ "spell_shade_of_akama_akama_soul_expel", "da/da6/a22846.html", "da/da6/a22846" ],
+    [ "boss_shade_of_akama", "d1/d69/a22830.html", "d1/d69/a22830" ],
+    [ "npc_akama_shade", "d9/d80/a22834.html", "d9/d80/a22834" ],
+    [ "npc_creature_generator_akama", "d7/d97/a22838.html", "d7/d97/a22838" ],
+    [ "npc_ashtongue_sorcerer", "d9/de7/a22842.html", "d9/de7/a22842" ],
+    [ "npc_ashtongue_channeler", "da/da6/a22846.html", "da/da6/a22846" ],
+    [ "spell_shade_of_akama_shade_soul_channel", "dc/db1/a22850.html", "dc/db1/a22850" ],
+    [ "spell_shade_of_akama_akama_soul_expel", "db/d08/a22854.html", "db/d08/a22854" ],
     [ "Creatures", "d2/d98/a04244.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d8/dfb/a03122.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d8/dfb/a03122.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -2961,7 +2961,6 @@ var a04244 =
       [ "SPELL_SHIVER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760", null ],
       [ "SPELL_INSANITY", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1d88e5b9cac1abe32f0941d9e9825d44", null ],
       [ "INSANITY_VISUAL", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1dd358090e37609e7e28076ee8b1279f", null ],
-      [ "SPELL_INSANITY_TARGET", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298cae009ab6e033484334e1feb769d85274f", null ],
       [ "SPELL_CLONE_PLAYER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca3e4964d5b736b33559fca0df5d1e6e63", null ],
       [ "SPELL_INSANITY_PHASING_1", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca045717f4c6d22c9ffa8d175b66a74447", null ],
       [ "SPELL_INSANITY_PHASING_2", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632", null ],

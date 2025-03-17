@@ -1,10 +1,7 @@
 var a27942 =
 [
-    [ "HasFlag", "dc/d03/a27942.html#abe23ca5437589a38ea57bc93a6197911", null ],
-    [ "CollisionHeight", "dc/d03/a27942.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
-    [ "CollisionWidth", "dc/d03/a27942.html#ab79497759cf169348b8922301fc43b2f", null ],
-    [ "Flags", "dc/d03/a27942.html#a3bb96e232124771e78f8b5db53405106", null ],
-    [ "Id", "dc/d03/a27942.html#aa19fec147703c7542be260c8ec5a0446", null ],
-    [ "MountHeight", "dc/d03/a27942.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
-    [ "Scale", "dc/d03/a27942.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
+    [ "Displayid", "dc/d03/a27942.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
+    [ "ExtendedDisplayInfoID", "dc/d03/a27942.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
+    [ "ModelId", "dc/d03/a27942.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
+    [ "scale", "dc/d03/a27942.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
 ];

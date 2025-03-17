@@ -1,10 +1,10 @@
 var a04262 =
 [
-    [ "boss_vazruden_the_herald", "d5/d77/a23422.html", "d5/d77/a23422" ],
-    [ "boss_nazan", "dc/d70/a23426.html", "dc/d70/a23426" ],
-    [ "boss_vazruden", "dc/d5b/a23430.html", "dc/d5b/a23430" ],
-    [ "spell_vazruden_fireball", "d2/dff/a23434.html", "d2/dff/a23434" ],
-    [ "spell_vazruden_call_nazan", "d1/d87/a23438.html", "d1/d87/a23438" ],
+    [ "boss_vazruden_the_herald", "dc/d5b/a23430.html", "dc/d5b/a23430" ],
+    [ "boss_nazan", "d2/dff/a23434.html", "d2/dff/a23434" ],
+    [ "boss_vazruden", "d1/d87/a23438.html", "d1/d87/a23438" ],
+    [ "spell_vazruden_fireball", "db/dc7/a23442.html", "db/dc7/a23442" ],
+    [ "spell_vazruden_call_nazan", "d4/d67/a23446.html", "d4/d67/a23446" ],
     [ "GroupPhase", "d1/d7a/a04262.html#a49053b1bcf5e1608ac7b5ad702b2bf00", [
       [ "GROUP_PHASE_1", "d1/d7a/a04262.html#a49053b1bcf5e1608ac7b5ad702b2bf00a32bcd3b7fab317a48674500272b5b5c9", null ],
       [ "GROUP_PHASE_2", "d1/d7a/a04262.html#a49053b1bcf5e1608ac7b5ad702b2bf00a22321c7fe55bbbccabaf892d4d85e8b4", null ]
@@ -2725,7 +2725,6 @@ var a04262 =
       [ "SPELL_SHIVER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760", null ],
       [ "SPELL_INSANITY", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1d88e5b9cac1abe32f0941d9e9825d44", null ],
       [ "INSANITY_VISUAL", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1dd358090e37609e7e28076ee8b1279f", null ],
-      [ "SPELL_INSANITY_TARGET", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298cae009ab6e033484334e1feb769d85274f", null ],
       [ "SPELL_CLONE_PLAYER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca3e4964d5b736b33559fca0df5d1e6e63", null ],
       [ "SPELL_INSANITY_PHASING_1", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca045717f4c6d22c9ffa8d175b66a74447", null ],
       [ "SPELL_INSANITY_PHASING_2", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632", null ],

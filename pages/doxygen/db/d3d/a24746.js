@@ -1,6 +1,5 @@
 var a24746 =
 [
-    [ "CalculateAmount", "db/d3d/a24746.html#a9e54ae3e90ee8bf0fab966a497f761b3", null ],
-    [ "PrepareAuraScript", "db/d3d/a24746.html#a51f9c0f92100c02e1fe7d127fecd902f", null ],
-    [ "Register", "db/d3d/a24746.html#a5c89e7e53a7f41665ff25d57df8f7afb", null ]
+    [ "PrepareSpellScript", "db/d3d/a24746.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
+    [ "Register", "db/d3d/a24746.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
 ];

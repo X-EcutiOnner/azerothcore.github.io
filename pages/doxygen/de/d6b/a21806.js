@@ -1,7 +1,6 @@
 var a21806 =
 [
-    [ "npc_amberpine_woodsmanAI", "de/d6b/a21806.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
-    [ "Reset", "de/d6b/a21806.html#a8da613c7bbaadf331c95667e7a361702", null ],
-    [ "UpdateAI", "de/d6b/a21806.html#a64dbf41424a710c400d51507f6457b41", null ],
-    [ "_events", "de/d6b/a21806.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
+    [ "npc_amberpine_woodsmanAI", "d7/de3/a21810.html", "d7/de3/a21810" ],
+    [ "npc_amberpine_woodsman", "de/d6b/a21806.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
+    [ "GetAI", "de/d6b/a21806.html#a9c1df6c01c163ca68712d72b14c46139", null ]
 ];

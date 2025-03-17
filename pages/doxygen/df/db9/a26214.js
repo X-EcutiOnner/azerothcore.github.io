@@ -1,5 +1,6 @@
 var a26214 =
 [
-    [ "PrepareSpellScript", "df/db9/a26214.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
-    [ "Register", "df/db9/a26214.html#a6318da4bfeb63dee75a971106bdc2146", null ]
+    [ "CheckRequirement", "df/db9/a26214.html#acaae3858de4d56028e3cb4581a57450c", null ],
+    [ "PrepareSpellScript", "df/db9/a26214.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
+    [ "Register", "df/db9/a26214.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
 ];

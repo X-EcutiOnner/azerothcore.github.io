@@ -1,7 +1,8 @@
 var a26538 =
 [
-    [ "HandleDummy", "d5/d23/a26538.html#a96c5064738653ce16f06634196218a88", null ],
-    [ "PrepareSpellScript", "d5/d23/a26538.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
-    [ "Register", "d5/d23/a26538.html#a080969e035143ac8527443025dbacef2", null ],
-    [ "Validate", "d5/d23/a26538.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
+    [ "ApplyDebuff", "d5/d23/a26538.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "d5/d23/a26538.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "d5/d23/a26538.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "d5/d23/a26538.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "d5/d23/a26538.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

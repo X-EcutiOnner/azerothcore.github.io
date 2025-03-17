@@ -1,6 +1,7 @@
 var a23314 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d0/d85/a23318.html", "d0/d85/a23318" ],
-    [ "instance_the_underbog", "df/da3/a23314.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "df/da3/a23314.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "HandleScript", "df/da3/a23314.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
+    [ "PrepareSpellScript", "df/da3/a23314.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
+    [ "Register", "df/da3/a23314.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
+    [ "Validate", "df/da3/a23314.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
 ];

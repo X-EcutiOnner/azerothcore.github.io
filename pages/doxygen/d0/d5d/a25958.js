@@ -1,8 +1,8 @@
 var a25958 =
 [
-    [ "HandleApply", "d0/d5d/a25958.html#aafdf3712f163919f010d11d0becb398f", null ],
-    [ "HandleRemove", "d0/d5d/a25958.html#ac3e33cb37d13b633f3938a48917a4975", null ],
-    [ "PrepareAuraScript", "d0/d5d/a25958.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
-    [ "Register", "d0/d5d/a25958.html#a84e7337494dc2e1772ca10dea26c675f", null ],
-    [ "Validate", "d0/d5d/a25958.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
+    [ "CalculateAmount", "d0/d5d/a25958.html#a8751483423726ffa8a33c70b7e55db23", null ],
+    [ "CheckProc", "d0/d5d/a25958.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
+    [ "HandleProc", "d0/d5d/a25958.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
+    [ "PrepareAuraScript", "d0/d5d/a25958.html#a6bb54cea419145875c4086a69e1e55e8", null ],
+    [ "Register", "d0/d5d/a25958.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
 ];

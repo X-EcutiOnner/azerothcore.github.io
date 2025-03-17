@@ -1,6 +1,7 @@
 var a26714 =
 [
-    [ "HandleAfterHit", "d3/d8b/a26714.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
-    [ "PrepareSpellScript", "d3/d8b/a26714.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
-    [ "Register", "d3/d8b/a26714.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
+    [ "HandleTeleport", "d3/d8b/a26714.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "d3/d8b/a26714.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "d3/d8b/a26714.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "d3/d8b/a26714.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

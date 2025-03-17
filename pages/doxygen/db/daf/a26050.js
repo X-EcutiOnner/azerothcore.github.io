@@ -1,6 +1,7 @@
 var a26050 =
 [
-    [ "FilterTargets", "db/daf/a26050.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "db/daf/a26050.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "db/daf/a26050.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "FilterTargets", "db/daf/a26050.html#ad679149423fda97ad5744318520022b1", null ],
+    [ "PrepareSpellScript", "db/daf/a26050.html#ac57c48690c5ad1b907f56287aee949a4", null ],
+    [ "Register", "db/daf/a26050.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
+    [ "Validate", "db/daf/a26050.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
 ];

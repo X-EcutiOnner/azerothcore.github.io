@@ -1,6 +1,5 @@
 var a23506 =
 [
-    [ "PrepareSpellScript", "d0/dad/a23506.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "d0/dad/a23506.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "d0/dad/a23506.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "spellId", "d0/dad/a23506.html#acc63d01d5095adef28b9746c520be973", null ],
+    [ "textId", "d0/dad/a23506.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
 ];

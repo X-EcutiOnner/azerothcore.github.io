@@ -1,11 +1,7 @@
 var a23334 =
 [
-    [ "boss_gruul", "d8/dbc/a23334.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "d8/dbc/a23334.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "d8/dbc/a23334.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "d8/dbc/a23334.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "d8/dbc/a23334.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "d8/dbc/a23334.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "d8/dbc/a23334.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "d8/dbc/a23334.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "OnApply", "d8/dbc/a23334.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d8/dbc/a23334.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d8/dbc/a23334.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d8/dbc/a23334.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

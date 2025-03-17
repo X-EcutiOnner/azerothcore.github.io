@@ -1,6 +1,7 @@
 var a22158 =
 [
-    [ "npc_roxi_ramrocket", "d0/d19/a22158.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "d0/d19/a22158.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "d0/d19/a22158.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "HandleDummy", "d0/d19/a22158.html#a68c638c6e056cbadb101ddd025909f54", null ],
+    [ "PrepareSpellScript", "d0/d19/a22158.html#a5a857bace5232d259145a0a095f70eec", null ],
+    [ "Register", "d0/d19/a22158.html#af9c657e1fac6ee630af0bea337fbff62", null ],
+    [ "Validate", "d0/d19/a22158.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
 ];

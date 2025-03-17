@@ -1,7 +1,10 @@
 var a24702 =
 [
-    [ "if", "df/d89/a24702.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
-    [ "PrepareAuraScript", "df/d89/a24702.html#a01d974333043452a37ec3124d23b49f2", null ],
-    [ "Register", "df/d89/a24702.html#aeb6c695819e894aad8b210a237e6d315", null ],
-    [ "AuraEffectHandleModes", "df/d89/a24702.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
+    [ "HandleEffectApply", "df/d89/a24702.html#ac977d07e0b054af33345538f10d80c56", null ],
+    [ "HandleEffectRemove", "df/d89/a24702.html#acd9c460acb60eae5db8874c246014147", null ],
+    [ "PrepareAuraScript", "df/d89/a24702.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
+    [ "Register", "df/d89/a24702.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
+    [ "_hasFlag", "df/d89/a24702.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
+    [ "_itemId", "df/d89/a24702.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
+    [ "_modelId", "df/d89/a24702.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
 ];

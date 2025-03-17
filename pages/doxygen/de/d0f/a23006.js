@@ -1,6 +1,19 @@
 var a23006 =
 [
-    [ "OnPeriodic", "de/d0f/a23006.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
-    [ "PrepareAuraScript", "de/d0f/a23006.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
-    [ "Register", "de/d0f/a23006.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
+    [ "boss_fathomguard_tidalvess", "de/d0f/a23006.html#aa4c3ac27c72e659bd87ad83bbadfb04c", null ],
+    [ "DoAction", "de/d0f/a23006.html#a909601091c25285e0a6c9773b61ff049", null ],
+    [ "EnterEvadeMode", "de/d0f/a23006.html#a8fe1a7a13b0d3d806edcfe8e9bf4ff33", null ],
+    [ "JustDied", "de/d0f/a23006.html#a7f79a16e0c186e97aeb7f16f3b7d45ea", null ],
+    [ "JustEngagedWith", "de/d0f/a23006.html#aa524d5c047b50df8d83b5faa3fd791fc", null ],
+    [ "JustSummoned", "de/d0f/a23006.html#a1dc16180610c742e98a93f87653e93e9", null ],
+    [ "Reset", "de/d0f/a23006.html#af218abccb0b61e483dcc6d7a3313d99d", null ],
+    [ "ScheduleRemoval", "de/d0f/a23006.html#a07c887552c8705b52caf9e102788a781", null ],
+    [ "SummonTotem", "de/d0f/a23006.html#adb4d877f50ba5653d699a0a123f5961c", null ],
+    [ "UpdateAI", "de/d0f/a23006.html#abce5d58fced89ecaac1d1f34989f0d9e", null ],
+    [ "_choice", "de/d0f/a23006.html#a0ced209c6f22a0bf435a0249a25b15c4", null ],
+    [ "_entryList", "de/d0f/a23006.html#a9eaeaf02dbe143d38ca857e5ae478aca", null ],
+    [ "_instance", "de/d0f/a23006.html#a958c76b6ad9d9713625b10baa0d6d992", null ],
+    [ "_scheduler", "de/d0f/a23006.html#ae1652d83938dc820255e383870b957a7", null ],
+    [ "_summons", "de/d0f/a23006.html#aea75646687854c08eaee75c55718376d", null ],
+    [ "_totemScheduler", "de/d0f/a23006.html#a1b4ace7575946c585cc63057e81a1529", null ]
 ];

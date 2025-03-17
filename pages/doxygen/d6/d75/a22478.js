@@ -1,8 +1,9 @@
 var a22478 =
 [
-    [ "CalcPeriodic", "d6/d75/a22478.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "d6/d75/a22478.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "d6/d75/a22478.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "d6/d75/a22478.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "d6/d75/a22478.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "npc_stolen_soul", "d6/d75/a22478.html#a84a0bb8320b2332545748e010d855884", null ],
+    [ "DoAction", "d6/d75/a22478.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
+    [ "Reset", "d6/d75/a22478.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
+    [ "UpdateAI", "d6/d75/a22478.html#a7bf369dd943ee36600a364d56b85db5a", null ],
+    [ "_scheduler", "d6/d75/a22478.html#ab62526916f0ccd681383d37d19d94ccc", null ],
+    [ "myClass", "d6/d75/a22478.html#ab2ad92983075320ce389aa583c341d21", null ]
 ];

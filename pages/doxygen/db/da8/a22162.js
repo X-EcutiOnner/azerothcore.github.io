@@ -1,6 +1,6 @@
 var a22162 =
 [
-    [ "npc_brunnhildar_prisonerAI", "da/dde/a22166.html", "da/dde/a22166" ],
-    [ "npc_brunnhildar_prisoner", "db/da8/a22162.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
-    [ "GetAI", "db/da8/a22162.html#aa2a1787849c74a5163a39137c9d03d57", null ]
+    [ "npc_roxi_ramrocket", "db/da8/a22162.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
+    [ "OnGossipHello", "db/da8/a22162.html#adec28f778921246c56f11d09753e566e", null ],
+    [ "OnGossipSelect", "db/da8/a22162.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
 ];

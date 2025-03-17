@@ -1,10 +1,10 @@
 var a04382 =
 [
-    [ "boss_alar", "d3/df4/a23654.html", "d3/df4/a23654" ],
-    [ "CastQuill", "d9/dcf/a23658.html", "d9/dcf/a23658" ],
-    [ "spell_alar_flame_quills", "d9/dea/a23662.html", "d9/dea/a23662" ],
-    [ "spell_alar_ember_blast", "d5/d67/a23666.html", "d5/d67/a23666" ],
-    [ "spell_alar_dive_bomb", "dc/d33/a23670.html", "dc/d33/a23670" ],
+    [ "boss_alar", "d9/dea/a23662.html", "d9/dea/a23662" ],
+    [ "CastQuill", "d5/d67/a23666.html", "d5/d67/a23666" ],
+    [ "spell_alar_flame_quills", "dc/d33/a23670.html", "dc/d33/a23670" ],
+    [ "spell_alar_ember_blast", "df/d1c/a23674.html", "df/d1c/a23674" ],
+    [ "spell_alar_dive_bomb", "d4/d77/a23678.html", "d4/d77/a23678" ],
     [ "GroupAlar", "d7/d1e/a04382.html#affdfad05d59fe2df3a25189df6c3bf7e", [
       [ "GROUP_FLAME_BUFFET", "d7/d1e/a04382.html#affdfad05d59fe2df3a25189df6c3bf7ea736f8214156adfa79b40871fd56adf53", null ]
     ] ],
@@ -2191,7 +2191,6 @@ var a04382 =
       [ "SPELL_SHIVER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760", null ],
       [ "SPELL_INSANITY", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1d88e5b9cac1abe32f0941d9e9825d44", null ],
       [ "INSANITY_VISUAL", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1dd358090e37609e7e28076ee8b1279f", null ],
-      [ "SPELL_INSANITY_TARGET", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298cae009ab6e033484334e1feb769d85274f", null ],
       [ "SPELL_CLONE_PLAYER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca3e4964d5b736b33559fca0df5d1e6e63", null ],
       [ "SPELL_INSANITY_PHASING_1", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca045717f4c6d22c9ffa8d175b66a74447", null ],
       [ "SPELL_INSANITY_PHASING_2", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632", null ],

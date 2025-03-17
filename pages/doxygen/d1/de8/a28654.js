@@ -1,11 +1,8 @@
 var a28654 =
 [
-    [ "material", "d1/de8/a28654.html#a7079e8817a9684602084eb224f2540fc", null ],
-    [ "pos_x", "d1/de8/a28654.html#ac4d971cc46506be14716124afbb5ad9c", null ],
-    [ "pos_y", "d1/de8/a28654.html#a6cd85f2a674d732e88371ffce5e46077", null ],
-    [ "pos_z", "d1/de8/a28654.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
-    [ "xtiles", "d1/de8/a28654.html#aca34dfa64624cfe04c314c13bbed0062", null ],
-    [ "xverts", "d1/de8/a28654.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
-    [ "ytiles", "d1/de8/a28654.html#a9901a7e9828ac840bc290b0768831d66", null ],
-    [ "yverts", "d1/de8/a28654.html#abf24042b85692cd0df05d65d734dd99e", null ]
+    [ "Color", "d1/de8/a28654.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "d1/de8/a28654.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "d1/de8/a28654.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "d1/de8/a28654.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "d1/de8/a28654.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

@@ -33,7 +33,7 @@ var a09886 =
     [ "MoveDistract", "d8/d76/a09886.html#acfa8144831a07d09e6efba5a106ca43e", null ],
     [ "MoveFall", "d8/d76/a09886.html#ae37d25ba49a3887faa07bc194f3447fd", null ],
     [ "MoveFleeing", "d8/d76/a09886.html#afd6b00aace2b2c96d27ad2b1345ae0e6", null ],
-    [ "MoveFollow", "d8/d76/a09886.html#a46ca73c3acc43c9f0aaef6e847eb79fa", null ],
+    [ "MoveFollow", "d8/d76/a09886.html#ae59d20f5f912abfb83be3bfc263af04f", null ],
     [ "MoveForwards", "d8/d76/a09886.html#a27936a997b09d916396ebb3930b61b21", null ],
     [ "MoveIdle", "d8/d76/a09886.html#ad0697d75ff06afb1247424100c99619f", null ],
     [ "MoveJump", "d8/d76/a09886.html#a6856df13255c117b0405f75ba911c4ac", null ],

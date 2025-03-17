@@ -1,6 +1,6 @@
 var a25238 =
 [
-    [ "CheckCast", "d7/d42/a25238.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
-    [ "PrepareSpellScript", "d7/d42/a25238.html#a0bc2de519e0c84688fad609444d28afa", null ],
-    [ "Register", "d7/d42/a25238.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
+    [ "OnProc", "d7/d42/a25238.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
+    [ "PrepareAuraScript", "d7/d42/a25238.html#a6a7b011f151ff81672221b84eb4456b8", null ],
+    [ "Register", "d7/d42/a25238.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
 ];

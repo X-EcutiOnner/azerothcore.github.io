@@ -1,8 +1,7 @@
 var a28166 =
 [
-    [ "ClassMask", "d7/d24/a28166.html#a563ba1618ffefa5470696e37f65c70d4", null ],
-    [ "Flags", "d7/d24/a28166.html#af89c32a22f018557fe016e0784a82384", null ],
-    [ "RaceMask", "d7/d24/a28166.html#acff47bf5c075d669f95b0d229674f9bc", null ],
-    [ "SkillID", "d7/d24/a28166.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
-    [ "SkillTierID", "d7/d24/a28166.html#ab6153043461b71336e12b00957499075", null ]
+    [ "EpicPropertiesPoints", "d7/d24/a28166.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "d7/d24/a28166.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "d7/d24/a28166.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "d7/d24/a28166.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

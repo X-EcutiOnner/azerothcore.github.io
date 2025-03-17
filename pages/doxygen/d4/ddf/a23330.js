@@ -1,7 +1,8 @@
 var a23330 =
 [
-    [ "CalcPeriodic", "d4/ddf/a23330.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
-    [ "PrepareAuraScript", "d4/ddf/a23330.html#a290913502dfe3dfb42b44a964468b97c", null ],
-    [ "Register", "d4/ddf/a23330.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
-    [ "Update", "d4/ddf/a23330.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
+    [ "npc_underbat", "d4/ddf/a23330.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "d4/ddf/a23330.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "d4/ddf/a23330.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "d4/ddf/a23330.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "d4/ddf/a23330.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

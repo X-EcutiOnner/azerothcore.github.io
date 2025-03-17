@@ -1,8 +1,8 @@
 var a04343 =
 [
-    [ "boss_commander_sarannis", "d9/ddd/a23606.html", "d9/ddd/a23606" ],
-    [ "spell_commander_sarannis_arcane_devastation", "df/d43/a23610.html", "df/d43/a23610" ],
-    [ "spell_commander_sarannis_summon_reinforcements", "d9/df4/a23614.html", "d9/df4/a23614" ],
+    [ "boss_commander_sarannis", "d9/df4/a23614.html", "d9/df4/a23614" ],
+    [ "spell_commander_sarannis_arcane_devastation", "da/d73/a23618.html", "da/d73/a23618" ],
+    [ "spell_commander_sarannis_summon_reinforcements", "d4/db7/a23622.html", "d4/db7/a23622" ],
     [ "Says", "df/d59/a04343.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "db/d6c/a02969.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
       [ "EMOTE_DEATH", "de/da4/a03005.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407", null ],
@@ -1956,7 +1956,6 @@ var a04343 =
       [ "SPELL_SHIVER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760", null ],
       [ "SPELL_INSANITY", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1d88e5b9cac1abe32f0941d9e9825d44", null ],
       [ "INSANITY_VISUAL", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca1dd358090e37609e7e28076ee8b1279f", null ],
-      [ "SPELL_INSANITY_TARGET", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298cae009ab6e033484334e1feb769d85274f", null ],
       [ "SPELL_CLONE_PLAYER", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca3e4964d5b736b33559fca0df5d1e6e63", null ],
       [ "SPELL_INSANITY_PHASING_1", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298ca045717f4c6d22c9ffa8d175b66a74447", null ],
       [ "SPELL_INSANITY_PHASING_2", "d8/d71/a03626.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632", null ],

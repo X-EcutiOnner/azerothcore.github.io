@@ -1,7 +1,8 @@
 var a27906 =
 [
-    [ "bit_index", "de/dbb/a27906.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "de/dbb/a27906.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "de/dbb/a27906.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "de/dbb/a27906.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "gender", "de/dbb/a27906.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "de/dbb/a27906.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "de/dbb/a27906.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "de/dbb/a27906.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "de/dbb/a27906.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];
