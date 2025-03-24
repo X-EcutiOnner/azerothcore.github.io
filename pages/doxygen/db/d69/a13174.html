@@ -318,19 +318,19 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  345</span>    {</div>
-<div class="line"><span class="lineno">  346</span>        <a class="code hl_function" href="../../db/da4/a11210.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">PreventHitDefaultEffect</a>(effIndex);</div>
-<div class="line"><span class="lineno">  347</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d7f/a08710.html">Unit</a>* target = <a class="code hl_function" href="../../db/da4/a11210.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
-<div class="line"><span class="lineno">  348</span>            target-&gt;CastSpell(target, <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882">SPELL_BLAZE_SUMMON</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  349</span>    }</div>
-<div class="ttc" id="aa03389_html_a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882"><div class="ttname"><a href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882">SPELL_BLAZE_SUMMON</a></div><div class="ttdeci">@ SPELL_BLAZE_SUMMON</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:68</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  369</span>    {</div>
+<div class="line"><span class="lineno">  370</span>        <a class="code hl_function" href="../../db/da4/a11210.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">PreventHitDefaultEffect</a>(effIndex);</div>
+<div class="line"><span class="lineno">  371</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d7f/a08710.html">Unit</a>* target = <a class="code hl_function" href="../../db/da4/a11210.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
+<div class="line"><span class="lineno">  372</span>            target-&gt;CastSpell(target, <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882">SPELL_BLAZE_SUMMON</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  373</span>    }</div>
+<div class="ttc" id="aa03389_html_a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882"><div class="ttname"><a href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882">SPELL_BLAZE_SUMMON</a></div><div class="ttdeci">@ SPELL_BLAZE_SUMMON</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:69</div></div>
 <div class="ttc" id="aa08710_html"><div class="ttname"><a href="../../d0/d7f/a08710.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:636</div></div>
 <div class="ttc" id="aa11210_html_a56ed3ad5cf4ebc848946a9d8f1c35d5f"><div class="ttname"><a href="../../db/da4/a11210.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">SpellScript::PreventHitDefaultEffect</a></div><div class="ttdeci">void PreventHitDefaultEffect(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:590</div></div>
 <div class="ttc" id="aa11210_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../db/da4/a11210.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:448</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00590">SpellScript::PreventHitDefaultEffect()</a>, and <a class="el" href="../../#l00068">SPELL_BLAZE_SUMMON</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00590">SpellScript::PreventHitDefaultEffect()</a>, and <a class="el" href="../../#l00069">SPELL_BLAZE_SUMMON</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00351">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00375">Register()</a>.</p>
 
 </div>
 </div>
@@ -384,16 +384,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../de/d3a/a11194.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  352</span>    {</div>
-<div class="line"><span class="lineno">  353</span>        <a class="code hl_variable" href="../../db/da4/a11210.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../d3/d12/a02354.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../db/d69/a13174.html#aae2f572a523431f6764f08e4719adbcf">spell_eredar_twins_blaze::HandleScript</a>, <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
-<div class="line"><span class="lineno">  354</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  376</span>    {</div>
+<div class="line"><span class="lineno">  377</span>        <a class="code hl_variable" href="../../db/da4/a11210.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../d3/d12/a02354.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../db/d69/a13174.html#aae2f572a523431f6764f08e4719adbcf">spell_eredar_twins_blaze::HandleScript</a>, <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
+<div class="line"><span class="lineno">  378</span>    }</div>
 <div class="ttc" id="aa02354_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../d3/d12/a02354.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aa02486_html_a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791"><div class="ttname"><a href="../../dc/d2b/a02486.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a></div><div class="ttdeci">@ EFFECT_1</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:32</div></div>
 <div class="ttc" id="aa02486_html_a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba"><div class="ttname"><a href="../../dc/d2b/a02486.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a></div><div class="ttdeci">@ SPELL_EFFECT_SCRIPT_EFFECT</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:855</div></div>
 <div class="ttc" id="aa11210_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../db/da4/a11210.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition:</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aa13174_html_aae2f572a523431f6764f08e4719adbcf"><div class="ttname"><a href="../../db/d69/a13174.html#aae2f572a523431f6764f08e4719adbcf">spell_eredar_twins_blaze::HandleScript</a></div><div class="ttdeci">void HandleScript(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:344</div></div>
+<div class="ttc" id="aa13174_html_aae2f572a523431f6764f08e4719adbcf"><div class="ttname"><a href="../../db/d69/a13174.html#aae2f572a523431f6764f08e4719adbcf">spell_eredar_twins_blaze::HandleScript</a></div><div class="ttdeci">void HandleScript(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:368</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00344">HandleScript()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00855">SPELL_EFFECT_SCRIPT_EFFECT</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00368">HandleScript()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00855">SPELL_EFFECT_SCRIPT_EFFECT</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -422,12 +422,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../de/d3a/a11194.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  340</span>    {</div>
-<div class="line"><span class="lineno">  341</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../de/d3a/a11194.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882">SPELL_BLAZE_SUMMON</a> });</div>
-<div class="line"><span class="lineno">  342</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  364</span>    {</div>
+<div class="line"><span class="lineno">  365</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../de/d3a/a11194.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882">SPELL_BLAZE_SUMMON</a> });</div>
+<div class="line"><span class="lineno">  366</span>    }</div>
 <div class="ttc" id="aa11194_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../de/d3a/a11194.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">SPELL_BLAZE_SUMMON</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00069">SPELL_BLAZE_SUMMON</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -437,7 +437,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d69/a13174.html">spell_eredar_twins_blaze</a></li>
-    <li class="footer">Generated on Mon Mar 17 2025 20:45:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Mar 24 2025 20:44:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

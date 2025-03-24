@@ -1,6 +1,7 @@
 var a13158 =
 [
     [ "boss_sacrolash", "d1/d2d/a13158.html#a6e251340b2ba8a8300611cf229b93095", null ],
+    [ "CheckInRoom", "d1/d2d/a13158.html#ae650b6019d2f9191e1b532176159804d", null ],
     [ "DoAction", "d1/d2d/a13158.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
     [ "JustDied", "d1/d2d/a13158.html#a17c995220572cf803c36470ca80840e2", null ],
     [ "JustEngagedWith", "d1/d2d/a13158.html#a822576bf8588d4e45f1532e1980cc7c7", null ],

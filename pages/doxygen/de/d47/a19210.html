@@ -318,28 +318,28 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  273</span>    {</div>
-<div class="line"><span class="lineno">  274</span>        <a class="code hl_function" href="../../db/da4/a11210.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">PreventHitDefaultEffect</a>(effIndex);</div>
-<div class="line"><span class="lineno">  275</span>        <a class="code hl_class" href="../../d0/d7f/a08710.html">Unit</a>* target = <a class="code hl_function" href="../../db/da4/a11210.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>();</div>
-<div class="line"><span class="lineno">  276</span>        <span class="keywordflow">if</span> (!target)</div>
-<div class="line"><span class="lineno">  277</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  278</span> </div>
-<div class="line"><span class="lineno">  279</span>        <a class="code hl_struct" href="../../dd/d8f/a08406.html">Position</a> pos;</div>
-<div class="line"><span class="lineno">  280</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d3/d25/a08362.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()) &lt; 5.0f)</div>
-<div class="line"><span class="lineno">  281</span>        {</div>
-<div class="line"><span class="lineno">  282</span>            pos.<a class="code hl_function" href="../../dd/d8f/a08406.html#afdbf0a257fcd7a48066fd92c4eacae3b">Relocate</a>(<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetPositionX(), <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetPositionY(), <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetPositionZ() + 1.0f);</div>
-<div class="line"><span class="lineno">  283</span>            <span class="keywordtype">float</span> o = <a class="code hl_function" href="../../d6/d80/a00371.html#a19bd31014583536af788a65b398e4406">frand</a>(0, 2 * M_PI);</div>
-<div class="line"><span class="lineno">  284</span>            target-&gt;<a class="code hl_function" href="../../d3/d25/a08362.html#a51ee0969c43fed32eacf1a56e24393eb">MovePositionToFirstCollision</a>(pos, 20.0f, o);</div>
-<div class="line"><span class="lineno">  285</span>            pos.<a class="code hl_variable" href="../../dd/d8f/a08406.html#a0d2305604dd27c15fd2d969f18c15b3e">m_positionZ</a> += <a class="code hl_function" href="../../d6/d80/a00371.html#a19bd31014583536af788a65b398e4406">frand</a>(5.0f, 15.0f);</div>
-<div class="line"><span class="lineno">  286</span>        }</div>
-<div class="line"><span class="lineno">  287</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  288</span>            pos.<a class="code hl_function" href="../../dd/d8f/a08406.html#afdbf0a257fcd7a48066fd92c4eacae3b">Relocate</a>(<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetPositionX(), <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetPositionY(), <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetPositionZ() + 1.0f);</div>
-<div class="line"><span class="lineno">  289</span> </div>
-<div class="line"><span class="lineno">  290</span>        <span class="keywordtype">float</span> speedXY = float(<a class="code hl_function" href="../../db/da4/a11210.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;Effects[effIndex].MiscValue) * 0.1f;</div>
-<div class="line"><span class="lineno">  291</span>        <span class="keywordtype">float</span> speedZ = target-&gt;<a class="code hl_function" href="../../d3/d25/a08362.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(pos) / speedXY * 0.5f * <a class="code hl_variable" href="../../d3/d1a/a04798.html#a15b376933a666c7f7c4600e62d7afe91">Movement::gravity</a>;</div>
-<div class="line"><span class="lineno">  292</span> </div>
-<div class="line"><span class="lineno">  293</span>        target-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d8/d76/a09886.html#a9744b1869b88241035117268f3edc591">MoveJump</a>(pos.<a class="code hl_function" href="../../dd/d8f/a08406.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), pos.<a class="code hl_function" href="../../dd/d8f/a08406.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), pos.<a class="code hl_function" href="../../dd/d8f/a08406.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>(), speedXY, speedZ);</div>
-<div class="line"><span class="lineno">  294</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  277</span>    {</div>
+<div class="line"><span class="lineno">  278</span>        <a class="code hl_function" href="../../db/da4/a11210.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">PreventHitDefaultEffect</a>(effIndex);</div>
+<div class="line"><span class="lineno">  279</span>        <a class="code hl_class" href="../../d0/d7f/a08710.html">Unit</a>* target = <a class="code hl_function" href="../../db/da4/a11210.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>();</div>
+<div class="line"><span class="lineno">  280</span>        <span class="keywordflow">if</span> (!target)</div>
+<div class="line"><span class="lineno">  281</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  282</span> </div>
+<div class="line"><span class="lineno">  283</span>        <a class="code hl_struct" href="../../dd/d8f/a08406.html">Position</a> pos;</div>
+<div class="line"><span class="lineno">  284</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d3/d25/a08362.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()) &lt; 5.0f)</div>
+<div class="line"><span class="lineno">  285</span>        {</div>
+<div class="line"><span class="lineno">  286</span>            pos.<a class="code hl_function" href="../../dd/d8f/a08406.html#afdbf0a257fcd7a48066fd92c4eacae3b">Relocate</a>(<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetPositionX(), <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetPositionY(), <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetPositionZ() + 1.0f);</div>
+<div class="line"><span class="lineno">  287</span>            <span class="keywordtype">float</span> o = <a class="code hl_function" href="../../d6/d80/a00371.html#a19bd31014583536af788a65b398e4406">frand</a>(0, 2 * M_PI);</div>
+<div class="line"><span class="lineno">  288</span>            target-&gt;<a class="code hl_function" href="../../d3/d25/a08362.html#a51ee0969c43fed32eacf1a56e24393eb">MovePositionToFirstCollision</a>(pos, 20.0f, o);</div>
+<div class="line"><span class="lineno">  289</span>            pos.<a class="code hl_variable" href="../../dd/d8f/a08406.html#a0d2305604dd27c15fd2d969f18c15b3e">m_positionZ</a> += <a class="code hl_function" href="../../d6/d80/a00371.html#a19bd31014583536af788a65b398e4406">frand</a>(5.0f, 15.0f);</div>
+<div class="line"><span class="lineno">  290</span>        }</div>
+<div class="line"><span class="lineno">  291</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  292</span>            pos.<a class="code hl_function" href="../../dd/d8f/a08406.html#afdbf0a257fcd7a48066fd92c4eacae3b">Relocate</a>(<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetPositionX(), <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetPositionY(), <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetPositionZ() + 1.0f);</div>
+<div class="line"><span class="lineno">  293</span> </div>
+<div class="line"><span class="lineno">  294</span>        <span class="keywordtype">float</span> speedXY = float(<a class="code hl_function" href="../../db/da4/a11210.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;Effects[effIndex].MiscValue) * 0.1f;</div>
+<div class="line"><span class="lineno">  295</span>        <span class="keywordtype">float</span> speedZ = target-&gt;<a class="code hl_function" href="../../d3/d25/a08362.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(pos) / speedXY * 0.5f * <a class="code hl_variable" href="../../d3/d1a/a04798.html#a15b376933a666c7f7c4600e62d7afe91">Movement::gravity</a>;</div>
+<div class="line"><span class="lineno">  296</span> </div>
+<div class="line"><span class="lineno">  297</span>        target-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d8/d76/a09886.html#a9744b1869b88241035117268f3edc591">MoveJump</a>(pos.<a class="code hl_function" href="../../dd/d8f/a08406.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), pos.<a class="code hl_function" href="../../dd/d8f/a08406.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), pos.<a class="code hl_function" href="../../dd/d8f/a08406.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>(), speedXY, speedZ);</div>
+<div class="line"><span class="lineno">  298</span>    }</div>
 <div class="ttc" id="aa00371_html_a19bd31014583536af788a65b398e4406"><div class="ttname"><a href="../../d6/d80/a00371.html#a19bd31014583536af788a65b398e4406">frand</a></div><div class="ttdeci">float frand(float min, float max)</div><div class="ttdef"><b>Definition:</b> Random.cpp:57</div></div>
 <div class="ttc" id="aa04798_html_a15b376933a666c7f7c4600e62d7afe91"><div class="ttname"><a href="../../d3/d1a/a04798.html#a15b376933a666c7f7c4600e62d7afe91">Movement::gravity</a></div><div class="ttdeci">double gravity</div><div class="ttdef"><b>Definition:</b> MovementUtil.cpp:24</div></div>
 <div class="ttc" id="aa08362_html_a51ee0969c43fed32eacf1a56e24393eb"><div class="ttname"><a href="../../d3/d25/a08362.html#a51ee0969c43fed32eacf1a56e24393eb">WorldObject::MovePositionToFirstCollision</a></div><div class="ttdeci">void MovePositionToFirstCollision(Position &amp;pos, float dist, float angle)</div><div class="ttdef"><b>Definition:</b> Object.cpp:2873</div></div>
@@ -360,7 +360,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00057">frand()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l01256">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, <a class="el" href="../../#l00024">Movement::gravity</a>, <a class="el" href="../../#l00057">Position::m_positionZ</a>, <a class="el" href="../../#l00229">MotionMaster::MoveJump()</a>, <a class="el" href="../../#l02873">WorldObject::MovePositionToFirstCollision()</a>, <a class="el" href="../../#l00590">SpellScript::PreventHitDefaultEffect()</a>, and <a class="el" href="../../#l00077">Position::Relocate()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00296">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00300">Register()</a>.</p>
 
 </div>
 </div>
@@ -414,10 +414,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../de/d3a/a11194.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  297</span>    {</div>
-<div class="line"><span class="lineno">  298</span>        <a class="code hl_variable" href="../../db/da4/a11210.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../d3/d12/a02354.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../de/d47/a19210.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d">spell_boss_magus_telestra_gravity_well::SelectTarget</a>, <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
-<div class="line"><span class="lineno">  299</span>        <a class="code hl_variable" href="../../db/da4/a11210.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../d3/d12/a02354.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../de/d47/a19210.html#a05e6155abeb2720923ddf0d8cae54feb">spell_boss_magus_telestra_gravity_well::HandlePull</a>, <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#a292c893150c454dd75628b719db1fe97a5fc14c003823605eab8e7b27d9670c1d">SPELL_EFFECT_PULL_TOWARDS_DEST</a>);</div>
-<div class="line"><span class="lineno">  300</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  301</span>    {</div>
+<div class="line"><span class="lineno">  302</span>        <a class="code hl_variable" href="../../db/da4/a11210.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../d3/d12/a02354.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../de/d47/a19210.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d">spell_boss_magus_telestra_gravity_well::SelectTarget</a>, <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
+<div class="line"><span class="lineno">  303</span>        <a class="code hl_variable" href="../../db/da4/a11210.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../d3/d12/a02354.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../de/d47/a19210.html#a05e6155abeb2720923ddf0d8cae54feb">spell_boss_magus_telestra_gravity_well::HandlePull</a>, <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#a292c893150c454dd75628b719db1fe97a5fc14c003823605eab8e7b27d9670c1d">SPELL_EFFECT_PULL_TOWARDS_DEST</a>);</div>
+<div class="line"><span class="lineno">  304</span>    }</div>
 <div class="ttc" id="aa02354_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../d3/d12/a02354.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aa02354_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../d3/d12/a02354.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:354</div></div>
 <div class="ttc" id="aa02486_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../dc/d2b/a02486.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
@@ -425,10 +425,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa02486_html_a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4"><div class="ttname"><a href="../../dc/d2b/a02486.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a></div><div class="ttdeci">@ TARGET_UNIT_SRC_AREA_ENEMY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1420</div></div>
 <div class="ttc" id="aa11210_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../db/da4/a11210.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition:</b> SpellScript.h:336</div></div>
 <div class="ttc" id="aa11210_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../db/da4/a11210.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition:</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aa19210_html_a05e6155abeb2720923ddf0d8cae54feb"><div class="ttname"><a href="../../de/d47/a19210.html#a05e6155abeb2720923ddf0d8cae54feb">spell_boss_magus_telestra_gravity_well::HandlePull</a></div><div class="ttdeci">void HandlePull(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition:</b> boss_magus_telestra.cpp:272</div></div>
-<div class="ttc" id="aa19210_html_aabee5b6b8f3ba7e2cf91bcb05ce7929d"><div class="ttname"><a href="../../de/d47/a19210.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d">spell_boss_magus_telestra_gravity_well::SelectTarget</a></div><div class="ttdeci">void SelectTarget(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition:</b> boss_magus_telestra.cpp:267</div></div>
+<div class="ttc" id="aa19210_html_a05e6155abeb2720923ddf0d8cae54feb"><div class="ttname"><a href="../../de/d47/a19210.html#a05e6155abeb2720923ddf0d8cae54feb">spell_boss_magus_telestra_gravity_well::HandlePull</a></div><div class="ttdeci">void HandlePull(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition:</b> boss_magus_telestra.cpp:276</div></div>
+<div class="ttc" id="aa19210_html_aabee5b6b8f3ba7e2cf91bcb05ce7929d"><div class="ttname"><a href="../../de/d47/a19210.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d">spell_boss_magus_telestra_gravity_well::SelectTarget</a></div><div class="ttdeci">void SelectTarget(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition:</b> boss_magus_telestra.cpp:271</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00272">HandlePull()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00267">SelectTarget()</a>, <a class="el" href="../../#l00923">SPELL_EFFECT_PULL_TOWARDS_DEST</a>, <a class="el" href="../../#l00337">SpellEffectFn</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01420">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00276">HandlePull()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00271">SelectTarget()</a>, <a class="el" href="../../#l00923">SPELL_EFFECT_PULL_TOWARDS_DEST</a>, <a class="el" href="../../#l00337">SpellEffectFn</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01420">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
 
 </div>
 </div>
@@ -455,12 +455,12 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  268</span>    {</div>
-<div class="line"><span class="lineno">  269</span>        targets.remove_if(<a class="code hl_class" href="../../da/dc5/a09438.html">Acore::RandomCheck</a>(50));</div>
-<div class="line"><span class="lineno">  270</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  272</span>    {</div>
+<div class="line"><span class="lineno">  273</span>        targets.remove_if(<a class="code hl_class" href="../../da/dc5/a09438.html">Acore::RandomCheck</a>(50));</div>
+<div class="line"><span class="lineno">  274</span>    }</div>
 <div class="ttc" id="aa09438_html"><div class="ttname"><a href="../../da/dc5/a09438.html">Acore::RandomCheck</a></div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1662</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00296">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00300">Register()</a>.</p>
 
 </div>
 </div>
@@ -470,7 +470,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d47/a19210.html">spell_boss_magus_telestra_gravity_well</a></li>
-    <li class="footer">Generated on Mon Mar 17 2025 20:45:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Mar 24 2025 20:44:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

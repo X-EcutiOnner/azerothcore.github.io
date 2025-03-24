@@ -393,6 +393,8 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01178">Unit::CastSpell()</a>, <a class="el" href="../../#l01030">AuraScript::GetUnitOwner()</a>, and <a class="el" href="../../#l00047">SPELL_SUMMON_DARK_FIEND_ENTROPIUS</a>.</p>
 
+<p class="reference">Referenced by <a class="el" href="../../#l00293">Register()</a>.</p>
+
 </div>
 </div>
 <a id="a58e6bae0c4c203c704cfa6cfdd6d560f" name="a58e6bae0c4c203c704cfa6cfdd6d560f"></a>
@@ -447,7 +449,7 @@ Additional Inherited Members</h2></td></tr>
 <p>Implements <a class="el" href="../../de/d3a/a11194.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  294</span>    {</div>
 <div class="line"><span class="lineno">  295</span>        <a class="code hl_variable" href="../../d4/d4d/a11250.html#af325738f50fb9df450999e5e04ea65ed">OnEffectApply</a> += <a class="code hl_define" href="../../d3/d12/a02354.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../df/d68/a13334.html#a717e3428afd59fa3a5e9916887d88273">spell_entropius_void_zone_visual_aura::HandleApply</a>, <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d8/deb/a02387.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../d8/deb/a02387.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno">  296</span>        <a class="code hl_variable" href="../../d4/d4d/a11250.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../d3/d12/a02354.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../df/d68/a13334.html#a717e3428afd59fa3a5e9916887d88273">spell_entropius_void_zone_visual_aura::HandleApply</a>, <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d8/deb/a02387.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../d8/deb/a02387.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno">  296</span>        <a class="code hl_variable" href="../../d4/d4d/a11250.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../d3/d12/a02354.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../df/d68/a13334.html#ae389028340dc25ee0260ed3e9f1d5ceb">spell_entropius_void_zone_visual_aura::HandleRemove</a>, <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d8/deb/a02387.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../d8/deb/a02387.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
 <div class="line"><span class="lineno">  297</span>    }</div>
 <div class="ttc" id="aa02354_html_ac47070c5a13a5436cc5d204a1445c993"><div class="ttname"><a href="../../d3/d12/a02354.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a></div><div class="ttdeci">#define AuraEffectApplyFn(F, I, N, M)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:743</div></div>
 <div class="ttc" id="aa02354_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../d3/d12/a02354.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:754</div></div>
@@ -457,8 +459,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa11250_html_ab9127bc3610a6a30fa9bbf22f7339bcc"><div class="ttname"><a href="../../d4/d4d/a11250.html#ab9127bc3610a6a30fa9bbf22f7339bcc">AuraScript::OnEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectRemove</div><div class="ttdef"><b>Definition:</b> SpellScript.h:749</div></div>
 <div class="ttc" id="aa11250_html_af325738f50fb9df450999e5e04ea65ed"><div class="ttname"><a href="../../d4/d4d/a11250.html#af325738f50fb9df450999e5e04ea65ed">AuraScript::OnEffectApply</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectApply</div><div class="ttdef"><b>Definition:</b> SpellScript.h:738</div></div>
 <div class="ttc" id="aa13334_html_a717e3428afd59fa3a5e9916887d88273"><div class="ttname"><a href="../../df/d68/a13334.html#a717e3428afd59fa3a5e9916887d88273">spell_entropius_void_zone_visual_aura::HandleApply</a></div><div class="ttdeci">void HandleApply(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_muru.cpp:283</div></div>
+<div class="ttc" id="aa13334_html_ae389028340dc25ee0260ed3e9f1d5ceb"><div class="ttname"><a href="../../df/d68/a13334.html#ae389028340dc25ee0260ed3e9f1d5ceb">spell_entropius_void_zone_visual_aura::HandleRemove</a></div><div class="ttdeci">void HandleRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_muru.cpp:288</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00743">AuraEffectApplyFn</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00283">HandleApply()</a>, <a class="el" href="../../#l00738">AuraScript::OnEffectApply</a>, <a class="el" href="../../#l00749">AuraScript::OnEffectRemove</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00743">AuraEffectApplyFn</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00283">HandleApply()</a>, <a class="el" href="../../#l00288">HandleRemove()</a>, <a class="el" href="../../#l00738">AuraScript::OnEffectApply</a>, <a class="el" href="../../#l00749">AuraScript::OnEffectRemove</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -502,7 +505,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d68/a13334.html">spell_entropius_void_zone_visual_aura</a></li>
-    <li class="footer">Generated on Mon Mar 17 2025 20:45:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Mar 24 2025 20:44:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>
