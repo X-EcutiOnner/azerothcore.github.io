@@ -290,7 +290,7 @@ var searchData=
   ['attackspeed_287',['attackSpeed',['../d0/d12/a28230.html#ab5242f7367e8799a556176178c72fc88',1,'SpellShapeshiftFormEntry']]],
   ['attacktext_288',['attackText',['../d9/dc8/a07162.html#a9c1319033a432ca0db51a9a1545aa7af',1,'WGWorkshopData']]],
   ['attacktimer_289',['attackTimer',['../d2/d82/a22150.html#ac0657362e8e4c70af6976ec771612642',1,'npc_wild_wyrm::npc_wild_wyrmAI::attackTimer()'],['../d8/dcd/a21930.html#a28a6e700d24995e477e7e7c4cc8b5d68',1,'npc_llod_generic::npc_llod_genericAI::attackTimer()']]],
-  ['attacktowers_290',['AttackTowers',['../d2/da6/a02339.html#a86375957560bbfd111e5f58d88e40667',1,'BattlefieldWG.h']]],
+  ['attacktowers_290',['AttackTowers',['../d2/da6/a02339.html#a1a9362fc649e780f8a7e22202fa12f9c',1,'BattlefieldWG.h']]],
   ['attacktype_291',['attackType',['../d1/d2b/a08686.html#afd18e43bd78a9144c02ba0493921c506',1,'CalcDamageInfo::attackType()'],['../de/d6b/a08670.html#ad9b56ae5faabe67a8fdec8cd5a7988b1',1,'CleanDamage::attackType()']]],
   ['attemptsleft_292',['AttemptsLeft',['../da/df6/a16510.html#aa6c638452f20eaa2c96b6ec531aa41d2',1,'instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript']]],
   ['attributemask_293',['attributeMask',['../d2/d4b/a11146.html#a6bbb4046cd4c068c990aa28844e4588b',1,'SpellEnchantProcEntry']]],

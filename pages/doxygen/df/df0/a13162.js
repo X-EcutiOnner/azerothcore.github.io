@@ -1,6 +1,7 @@
 var a13162 =
 [
     [ "boss_alythess", "df/df0/a13162.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "AttackStart", "df/df0/a13162.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
     [ "DoAction", "df/df0/a13162.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
     [ "JustDied", "df/df0/a13162.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
     [ "JustEngagedWith", "df/df0/a13162.html#ac5047ee0124864304284c1142e885158", null ],

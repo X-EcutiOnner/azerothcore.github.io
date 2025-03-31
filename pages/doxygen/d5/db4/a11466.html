@@ -208,9 +208,9 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   30</span>                     : <a class="code hl_function" href="../../d7/d35/a11438.html#a03da361299bfb94003f9cfd2bd751f73">Warden</a>()</div>
-<div class="line"><span class="lineno">   31</span>{</div>
-<div class="line"><span class="lineno">   32</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>                     : <a class="code hl_function" href="../../d7/d35/a11438.html#a03da361299bfb94003f9cfd2bd751f73">Warden</a>()</div>
+<div class="line"><span class="lineno">   32</span>{</div>
+<div class="line"><span class="lineno">   33</span>}</div>
 <div class="ttc" id="aa11438_html_a03da361299bfb94003f9cfd2bd751f73"><div class="ttname"><a href="../../d7/d35/a11438.html#a03da361299bfb94003f9cfd2bd751f73">Warden::Warden</a></div><div class="ttdeci">Warden()</div><div class="ttdef"><b>Definition:</b> Warden.cpp:31</div></div>
 </div><!-- fragment -->
 </div>
@@ -265,17 +265,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d7/d35/a11438.html#a93950d03778bfe6f63b6f9a7c320039b">Warden</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   71</span>{</div>
-<div class="line"><span class="lineno">   72</span>    <span class="keyword">auto</span> mod = <span class="keyword">new</span> <a class="code hl_struct" href="../../d9/db1/a11434.html">ClientWardenModule</a>;</div>
-<div class="line"><span class="lineno">   73</span> </div>
-<div class="line"><span class="lineno">   74</span>    <span class="comment">// data assign</span></div>
-<div class="line"><span class="lineno">   75</span>    mod-&gt;<a class="code hl_variable" href="../../d9/db1/a11434.html#ab57879b41c825623a989db13a53f2f4e">CompressedSize</a> = <a class="code hl_variable" href="../../df/daa/a02135.html#a650e9d2ed03f4896b697097e2116298e">Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data</a>.size();</div>
-<div class="line"><span class="lineno">   76</span>    mod-&gt;CompressedData = <a class="code hl_variable" href="../../df/daa/a02135.html#a650e9d2ed03f4896b697097e2116298e">Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data</a>.data();</div>
-<div class="line"><span class="lineno">   77</span> </div>
-<div class="line"><span class="lineno">   78</span>    <span class="comment">// md5 hash</span></div>
-<div class="line"><span class="lineno">   79</span>    mod-&gt;Id = <a class="code hl_function" href="../../dd/d48/a05150.html#a42db9cd1a68778340bfdb7c7a8a049de">Acore::Crypto::MD5::GetDigestOf</a>(mod-&gt;CompressedData, mod-&gt;CompressedSize);</div>
-<div class="line"><span class="lineno">   80</span>    <span class="keywordflow">return</span> mod;</div>
-<div class="line"><span class="lineno">   81</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   72</span>{</div>
+<div class="line"><span class="lineno">   73</span>    <span class="keyword">auto</span> mod = <span class="keyword">new</span> <a class="code hl_struct" href="../../d9/db1/a11434.html">ClientWardenModule</a>;</div>
+<div class="line"><span class="lineno">   74</span> </div>
+<div class="line"><span class="lineno">   75</span>    <span class="comment">// data assign</span></div>
+<div class="line"><span class="lineno">   76</span>    mod-&gt;<a class="code hl_variable" href="../../d9/db1/a11434.html#ab57879b41c825623a989db13a53f2f4e">CompressedSize</a> = <a class="code hl_variable" href="../../df/daa/a02135.html#a650e9d2ed03f4896b697097e2116298e">Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data</a>.size();</div>
+<div class="line"><span class="lineno">   77</span>    mod-&gt;CompressedData = <a class="code hl_variable" href="../../df/daa/a02135.html#a650e9d2ed03f4896b697097e2116298e">Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data</a>.data();</div>
+<div class="line"><span class="lineno">   78</span> </div>
+<div class="line"><span class="lineno">   79</span>    <span class="comment">// md5 hash</span></div>
+<div class="line"><span class="lineno">   80</span>    mod-&gt;Id = <a class="code hl_function" href="../../dd/d48/a05150.html#a42db9cd1a68778340bfdb7c7a8a049de">Acore::Crypto::MD5::GetDigestOf</a>(mod-&gt;CompressedData, mod-&gt;CompressedSize);</div>
+<div class="line"><span class="lineno">   81</span>    <span class="keywordflow">return</span> mod;</div>
+<div class="line"><span class="lineno">   82</span>}</div>
 <div class="ttc" id="aa02135_html_a650e9d2ed03f4896b697097e2116298e"><div class="ttname"><a href="../../df/daa/a02135.html#a650e9d2ed03f4896b697097e2116298e">Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data</a></div><div class="ttdeci">std::array&lt; uint8, 9318 &gt; Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data</div><div class="ttdef"><b>Definition:</b> WardenModuleMac.h:23</div></div>
 <div class="ttc" id="aa05150_html_a42db9cd1a68778340bfdb7c7a8a049de"><div class="ttname"><a href="../../dd/d48/a05150.html#a42db9cd1a68778340bfdb7c7a8a049de">Acore::Impl::GenericHash::GetDigestOf</a></div><div class="ttdeci">static Digest GetDigestOf(uint8 const *data, std::size_t len)</div><div class="ttdef"><b>Definition:</b> CryptoHash.h:48</div></div>
 <div class="ttc" id="aa11434_html"><div class="ttname"><a href="../../d9/db1/a11434.html">ClientWardenModule</a></div><div class="ttdef"><b>Definition:</b> Warden.h:93</div></div>
@@ -283,7 +283,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00096">ClientWardenModule::CompressedSize</a>, <a class="el" href="../../#l00048">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;::GetDigestOf()</a>, and <a class="el" href="../../#l00023">Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00036">Init()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00037">Init()</a>.</p>
 
 </div>
 </div>
@@ -312,56 +312,56 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d7/d35/a11438.html#a8a627a1e0c10ec3ef5b566b9b21f8d69">Warden</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  206</span>{</div>
-<div class="line"><span class="lineno">  207</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Handle data&quot;</span>);</div>
-<div class="line"><span class="lineno">  208</span> </div>
-<div class="line"><span class="lineno">  209</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#ab67c63af0423210e927a7ce349de762a">_dataSent</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  210</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#a26834a0b56572c83ddf665ba5feb3229">_clientResponseTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  211</span> </div>
-<div class="line"><span class="lineno">  212</span>    <span class="comment">//uint16 Length;</span></div>
-<div class="line"><span class="lineno">  213</span>    <span class="comment">//buff &gt;&gt; Length;</span></div>
-<div class="line"><span class="lineno">  214</span>    <span class="comment">//uint32 Checksum;</span></div>
-<div class="line"><span class="lineno">  215</span>    <span class="comment">//buff &gt;&gt; Checksum;</span></div>
-<div class="line"><span class="lineno">  216</span> </div>
-<div class="line"><span class="lineno">  217</span>    <span class="comment">//if (!IsValidCheckSum(Checksum, buff.contents() + buff.rpos(), Length))</span></div>
-<div class="line"><span class="lineno">  218</span>    <span class="comment">//{</span></div>
-<div class="line"><span class="lineno">  219</span>    <span class="comment">//    buff.rpos(buff.wpos());</span></div>
-<div class="line"><span class="lineno">  220</span>    <span class="comment">//    if (sWorld-&gt;getBoolConfig(CONFIG_BOOL_WARDEN_KICK))</span></div>
-<div class="line"><span class="lineno">  221</span>    <span class="comment">//        Client-&gt;KickPlayer();</span></div>
-<div class="line"><span class="lineno">  222</span>    <span class="comment">//    return;</span></div>
-<div class="line"><span class="lineno">  223</span>    <span class="comment">//}</span></div>
-<div class="line"><span class="lineno">  224</span> </div>
-<div class="line"><span class="lineno">  225</span>    <span class="comment">//bool found = false;</span></div>
-<div class="line"><span class="lineno">  226</span> </div>
-<div class="line"><span class="lineno">  227</span>    std::string str = <span class="stringliteral">&quot;Test string!&quot;</span>;</div>
-<div class="line"><span class="lineno">  228</span> </div>
-<div class="line"><span class="lineno">  229</span>    <a class="code hl_class" href="../../dd/d48/a05150.html">Acore::Crypto::SHA1</a> sha1;</div>
-<div class="line"><span class="lineno">  230</span>    sha1.<a class="code hl_function" href="../../dd/d48/a05150.html#abe1705975eec03929bd7c603bb563d19">UpdateData</a>(str);</div>
-<div class="line"><span class="lineno">  231</span>    <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> magic = 0xFEEDFACE;                              <span class="comment">// unsure</span></div>
-<div class="line"><span class="lineno">  232</span>    sha1.<a class="code hl_function" href="../../dd/d48/a05150.html#abe1705975eec03929bd7c603bb563d19">UpdateData</a>((<a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)&amp;magic, 4);</div>
-<div class="line"><span class="lineno">  233</span>    sha1.<a class="code hl_function" href="../../dd/d48/a05150.html#a8dc1415e2f1211753059ba2569fa049e">Finalize</a>();</div>
-<div class="line"><span class="lineno">  234</span> </div>
-<div class="line"><span class="lineno">  235</span>    <a class="code hl_typedef" href="../../dd/d48/a05150.html#abf69027dd4096b1bda0e5d78fbceba05">Acore::Crypto::SHA1::Digest</a> sha1Hash{};</div>
-<div class="line"><span class="lineno">  236</span>    buff.<a class="code hl_function" href="../../dc/d71/a28354.html#afab3484e1af821859f16b7bdacf2af9c">read</a>(sha1Hash.data(), sha1Hash.size());</div>
-<div class="line"><span class="lineno">  237</span> </div>
-<div class="line"><span class="lineno">  238</span>    <span class="keywordflow">if</span> (sha1Hash != sha1.<a class="code hl_function" href="../../dd/d48/a05150.html#ae1ea3a430fe6f5659cfd28f93e67dbea">GetDigest</a>())</div>
-<div class="line"><span class="lineno">  239</span>    {</div>
-<div class="line"><span class="lineno">  240</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Handle data failed: SHA1 hash is wrong!&quot;</span>);</div>
-<div class="line"><span class="lineno">  241</span>        <span class="comment">//found = true;</span></div>
-<div class="line"><span class="lineno">  242</span>    }</div>
-<div class="line"><span class="lineno">  243</span> </div>
-<div class="line"><span class="lineno">  244</span>    <span class="keyword">auto</span> ourMD5Hash = <a class="code hl_function" href="../../dd/d48/a05150.html#a42db9cd1a68778340bfdb7c7a8a049de">Acore::Crypto::MD5::GetDigestOf</a>(str);</div>
-<div class="line"><span class="lineno">  245</span>    <a class="code hl_typedef" href="../../dd/d48/a05150.html#abf69027dd4096b1bda0e5d78fbceba05">Acore::Crypto::MD5::Digest</a> theirsMD5Hash{};</div>
-<div class="line"><span class="lineno">  246</span>    buff.<a class="code hl_function" href="../../dc/d71/a28354.html#afab3484e1af821859f16b7bdacf2af9c">read</a>(theirsMD5Hash);</div>
-<div class="line"><span class="lineno">  247</span> </div>
-<div class="line"><span class="lineno">  248</span>    <span class="keywordflow">if</span> (ourMD5Hash != theirsMD5Hash)</div>
-<div class="line"><span class="lineno">  249</span>    {</div>
-<div class="line"><span class="lineno">  250</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Handle data failed: MD5 hash is wrong!&quot;</span>);</div>
-<div class="line"><span class="lineno">  251</span>        <span class="comment">//found = true;</span></div>
-<div class="line"><span class="lineno">  252</span>    }</div>
-<div class="line"><span class="lineno">  253</span> </div>
-<div class="line"><span class="lineno">  254</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d9/d49/a10974.html#ad84e1251e6fb43fe3aed0ea2a27f018b">KickPlayer</a>(<span class="stringliteral">&quot;WardenMac::HandleData&quot;</span>);</div>
-<div class="line"><span class="lineno">  255</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  207</span>{</div>
+<div class="line"><span class="lineno">  208</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Handle data&quot;</span>);</div>
+<div class="line"><span class="lineno">  209</span> </div>
+<div class="line"><span class="lineno">  210</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#ab67c63af0423210e927a7ce349de762a">_dataSent</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  211</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#a26834a0b56572c83ddf665ba5feb3229">_clientResponseTimer</a> = 0;</div>
+<div class="line"><span class="lineno">  212</span> </div>
+<div class="line"><span class="lineno">  213</span>    <span class="comment">//uint16 Length;</span></div>
+<div class="line"><span class="lineno">  214</span>    <span class="comment">//buff &gt;&gt; Length;</span></div>
+<div class="line"><span class="lineno">  215</span>    <span class="comment">//uint32 Checksum;</span></div>
+<div class="line"><span class="lineno">  216</span>    <span class="comment">//buff &gt;&gt; Checksum;</span></div>
+<div class="line"><span class="lineno">  217</span> </div>
+<div class="line"><span class="lineno">  218</span>    <span class="comment">//if (!IsValidCheckSum(Checksum, buff.contents() + buff.rpos(), Length))</span></div>
+<div class="line"><span class="lineno">  219</span>    <span class="comment">//{</span></div>
+<div class="line"><span class="lineno">  220</span>    <span class="comment">//    buff.rpos(buff.wpos());</span></div>
+<div class="line"><span class="lineno">  221</span>    <span class="comment">//    if (sWorld-&gt;getBoolConfig(CONFIG_BOOL_WARDEN_KICK))</span></div>
+<div class="line"><span class="lineno">  222</span>    <span class="comment">//        Client-&gt;KickPlayer();</span></div>
+<div class="line"><span class="lineno">  223</span>    <span class="comment">//    return;</span></div>
+<div class="line"><span class="lineno">  224</span>    <span class="comment">//}</span></div>
+<div class="line"><span class="lineno">  225</span> </div>
+<div class="line"><span class="lineno">  226</span>    <span class="comment">//bool found = false;</span></div>
+<div class="line"><span class="lineno">  227</span> </div>
+<div class="line"><span class="lineno">  228</span>    std::string str = <span class="stringliteral">&quot;Test string!&quot;</span>;</div>
+<div class="line"><span class="lineno">  229</span> </div>
+<div class="line"><span class="lineno">  230</span>    <a class="code hl_class" href="../../dd/d48/a05150.html">Acore::Crypto::SHA1</a> sha1;</div>
+<div class="line"><span class="lineno">  231</span>    sha1.<a class="code hl_function" href="../../dd/d48/a05150.html#abe1705975eec03929bd7c603bb563d19">UpdateData</a>(str);</div>
+<div class="line"><span class="lineno">  232</span>    <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> magic = 0xFEEDFACE;                              <span class="comment">// unsure</span></div>
+<div class="line"><span class="lineno">  233</span>    sha1.<a class="code hl_function" href="../../dd/d48/a05150.html#abe1705975eec03929bd7c603bb563d19">UpdateData</a>((<a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)&amp;magic, 4);</div>
+<div class="line"><span class="lineno">  234</span>    sha1.<a class="code hl_function" href="../../dd/d48/a05150.html#a8dc1415e2f1211753059ba2569fa049e">Finalize</a>();</div>
+<div class="line"><span class="lineno">  235</span> </div>
+<div class="line"><span class="lineno">  236</span>    <a class="code hl_typedef" href="../../dd/d48/a05150.html#abf69027dd4096b1bda0e5d78fbceba05">Acore::Crypto::SHA1::Digest</a> sha1Hash{};</div>
+<div class="line"><span class="lineno">  237</span>    buff.<a class="code hl_function" href="../../dc/d71/a28354.html#afab3484e1af821859f16b7bdacf2af9c">read</a>(sha1Hash.data(), sha1Hash.size());</div>
+<div class="line"><span class="lineno">  238</span> </div>
+<div class="line"><span class="lineno">  239</span>    <span class="keywordflow">if</span> (sha1Hash != sha1.<a class="code hl_function" href="../../dd/d48/a05150.html#ae1ea3a430fe6f5659cfd28f93e67dbea">GetDigest</a>())</div>
+<div class="line"><span class="lineno">  240</span>    {</div>
+<div class="line"><span class="lineno">  241</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Handle data failed: SHA1 hash is wrong!&quot;</span>);</div>
+<div class="line"><span class="lineno">  242</span>        <span class="comment">//found = true;</span></div>
+<div class="line"><span class="lineno">  243</span>    }</div>
+<div class="line"><span class="lineno">  244</span> </div>
+<div class="line"><span class="lineno">  245</span>    <span class="keyword">auto</span> ourMD5Hash = <a class="code hl_function" href="../../dd/d48/a05150.html#a42db9cd1a68778340bfdb7c7a8a049de">Acore::Crypto::MD5::GetDigestOf</a>(str);</div>
+<div class="line"><span class="lineno">  246</span>    <a class="code hl_typedef" href="../../dd/d48/a05150.html#abf69027dd4096b1bda0e5d78fbceba05">Acore::Crypto::MD5::Digest</a> theirsMD5Hash{};</div>
+<div class="line"><span class="lineno">  247</span>    buff.<a class="code hl_function" href="../../dc/d71/a28354.html#afab3484e1af821859f16b7bdacf2af9c">read</a>(theirsMD5Hash);</div>
+<div class="line"><span class="lineno">  248</span> </div>
+<div class="line"><span class="lineno">  249</span>    <span class="keywordflow">if</span> (ourMD5Hash != theirsMD5Hash)</div>
+<div class="line"><span class="lineno">  250</span>    {</div>
+<div class="line"><span class="lineno">  251</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Handle data failed: MD5 hash is wrong!&quot;</span>);</div>
+<div class="line"><span class="lineno">  252</span>        <span class="comment">//found = true;</span></div>
+<div class="line"><span class="lineno">  253</span>    }</div>
+<div class="line"><span class="lineno">  254</span> </div>
+<div class="line"><span class="lineno">  255</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d9/d49/a10974.html#ad84e1251e6fb43fe3aed0ea2a27f018b">KickPlayer</a>(<span class="stringliteral">&quot;WardenMac::HandleData&quot;</span>);</div>
+<div class="line"><span class="lineno">  256</span>}</div>
 <div class="ttc" id="aa00266_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
 <div class="ttc" id="aa00266_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
 <div class="ttc" id="aa00557_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:169</div></div>
@@ -405,64 +405,64 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d7/d35/a11438.html#afac740e6d1e2b7c9df4a282b43fa24b5">Warden</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  122</span>{</div>
-<div class="line"><span class="lineno">  123</span>    <span class="comment">// test</span></div>
-<div class="line"><span class="lineno">  124</span>    <span class="keywordtype">int</span> keyIn[4];</div>
-<div class="line"><span class="lineno">  125</span> </div>
-<div class="line"><span class="lineno">  126</span>    <a class="code hl_struct" href="../../d0/de1/a11418.html">keyData</a> mod_seed = { { { { 0x4D, 0x80, 0x8D, 0x2C, 0x77, 0xD9, 0x05, 0xC4, 0x1A, 0x63, 0x80, 0xEC, 0x08, 0x58, 0x6A, 0xFE } } } };</div>
-<div class="line"><span class="lineno">  127</span> </div>
-<div class="line"><span class="lineno">  128</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; 4; ++i)</div>
-<div class="line"><span class="lineno">  129</span>    {</div>
-<div class="line"><span class="lineno">  130</span>        keyIn[i] = mod_seed.<a class="code hl_variable" href="../../d0/de1/a11418.html#a0518eb4b0a91697500a5a370068425a8">ints</a>.ints[i];</div>
-<div class="line"><span class="lineno">  131</span>    }</div>
-<div class="line"><span class="lineno">  132</span> </div>
-<div class="line"><span class="lineno">  133</span>    <span class="keywordtype">int</span> keyOut[4];</div>
-<div class="line"><span class="lineno">  134</span>    <span class="keywordtype">int</span> keyIn1, keyIn2;</div>
-<div class="line"><span class="lineno">  135</span>    keyOut[0] = keyIn[0];</div>
-<div class="line"><span class="lineno">  136</span>    keyIn[0] ^= 0xDEADBEEFu;</div>
-<div class="line"><span class="lineno">  137</span>    keyIn1 = keyIn[1];</div>
-<div class="line"><span class="lineno">  138</span>    keyIn[1] -= 0x35014542u;</div>
-<div class="line"><span class="lineno">  139</span>    keyIn2 = keyIn[2];</div>
-<div class="line"><span class="lineno">  140</span>    keyIn[2] += 0x5313F22u;</div>
-<div class="line"><span class="lineno">  141</span>    keyIn[3] *= 0x1337F00Du;</div>
-<div class="line"><span class="lineno">  142</span>    keyOut[1] = keyIn1 - 0x6A028A84;</div>
-<div class="line"><span class="lineno">  143</span>    keyOut[2] = keyIn2 + 0xA627E44;</div>
-<div class="line"><span class="lineno">  144</span>    keyOut[3] = 0x1337F00D * keyIn[3];</div>
-<div class="line"><span class="lineno">  145</span>    <span class="comment">// end test</span></div>
-<div class="line"><span class="lineno">  146</span> </div>
-<div class="line"><span class="lineno">  147</span>    buff.<a class="code hl_function" href="../../dc/d71/a28354.html#a7077cbe8c1b3983a4f3faa4b1f61af29">rpos</a>(buff.<a class="code hl_function" href="../../dc/d71/a28354.html#a6e9aaf9195c43a9a03ee4a55c435e24f">wpos</a>());</div>
-<div class="line"><span class="lineno">  148</span> </div>
-<div class="line"><span class="lineno">  149</span>    <a class="code hl_class" href="../../dd/d48/a05150.html">Acore::Crypto::SHA1</a> sha1;</div>
-<div class="line"><span class="lineno">  150</span>    sha1.<a class="code hl_function" href="../../dd/d48/a05150.html#abe1705975eec03929bd7c603bb563d19">UpdateData</a>((<a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)keyIn, 16);</div>
-<div class="line"><span class="lineno">  151</span>    sha1.<a class="code hl_function" href="../../dd/d48/a05150.html#a8dc1415e2f1211753059ba2569fa049e">Finalize</a>();</div>
-<div class="line"><span class="lineno">  152</span> </div>
-<div class="line"><span class="lineno">  153</span>    <span class="comment">//const uint8 validHash[20] = { 0x56, 0x8C, 0x05, 0x4C, 0x78, 0x1A, 0x97, 0x2A, 0x60, 0x37, 0xA2, 0x29, 0x0C, 0x22, 0xB5, 0x25, 0x71, 0xA0, 0x6F, 0x4E };</span></div>
-<div class="line"><span class="lineno">  154</span> </div>
-<div class="line"><span class="lineno">  155</span>    <span class="comment">// Verify key</span></div>
-<div class="line"><span class="lineno">  156</span>    <span class="keywordflow">if</span> (memcmp(buff.<a class="code hl_function" href="../../dc/d71/a28354.html#af0e8fd90f17049711204ae51a4ac86e4">contents</a>() + 1, sha1.<a class="code hl_function" href="../../dd/d48/a05150.html#ae1ea3a430fe6f5659cfd28f93e67dbea">GetDigest</a>().data(), 20) != 0)</div>
-<div class="line"><span class="lineno">  157</span>    {</div>
-<div class="line"><span class="lineno">  158</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Request hash reply: failed&quot;</span>);</div>
-<div class="line"><span class="lineno">  159</span>        <a class="code hl_function" href="../../d7/d35/a11438.html#a3aae296cc62f62e9deef0ec2dbb774f6">ApplyPenalty</a>(0, <span class="stringliteral">&quot;Request hash reply: failed&quot;</span>);</div>
-<div class="line"><span class="lineno">  160</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  161</span>    }</div>
-<div class="line"><span class="lineno">  162</span> </div>
-<div class="line"><span class="lineno">  163</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Request hash reply: succeed&quot;</span>);</div>
-<div class="line"><span class="lineno">  164</span> </div>
-<div class="line"><span class="lineno">  165</span>    <span class="comment">// client 7F96EEFDA5B63D20A4DF8E00CBF48304</span></div>
-<div class="line"><span class="lineno">  166</span>    <span class="comment">//const uint8 client_key[16] = { 0x7F, 0x96, 0xEE, 0xFD, 0xA5, 0xB6, 0x3D, 0x20, 0xA4, 0xDF, 0x8E, 0x00, 0xCB, 0xF4, 0x83, 0x04 };</span></div>
-<div class="line"><span class="lineno">  167</span> </div>
-<div class="line"><span class="lineno">  168</span>    <span class="comment">// server C2B7ADEDFCCCA9C2BFB3F85602BA809B</span></div>
-<div class="line"><span class="lineno">  169</span>    <span class="comment">//const uint8 server_key[16] = { 0xC2, 0xB7, 0xAD, 0xED, 0xFC, 0xCC, 0xA9, 0xC2, 0xBF, 0xB3, 0xF8, 0x56, 0x02, 0xBA, 0x80, 0x9B };</span></div>
-<div class="line"><span class="lineno">  170</span> </div>
-<div class="line"><span class="lineno">  171</span>    <span class="comment">// change keys here</span></div>
-<div class="line"><span class="lineno">  172</span>    memcpy(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5949bd3821517bff75d1915ffdfd3e82">_inputKey</a>, keyIn, 16);</div>
-<div class="line"><span class="lineno">  173</span>    memcpy(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5df981bbab9e8d8bb4bd57830b9f0ecb">_outputKey</a>, keyOut, 16);</div>
-<div class="line"><span class="lineno">  174</span> </div>
-<div class="line"><span class="lineno">  175</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#a2290a6e3a863b9a49941e7ecad9e2db7">_inputCrypto</a>.<a class="code hl_function" href="../../d5/d87/a05118.html#aaa9c89da159b57a897898bc31e10ecd4">Init</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5949bd3821517bff75d1915ffdfd3e82">_inputKey</a>);</div>
-<div class="line"><span class="lineno">  176</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#a4e23f5a6d7fdeefed9c2511831ce0928">_outputCrypto</a>.<a class="code hl_function" href="../../d5/d87/a05118.html#aaa9c89da159b57a897898bc31e10ecd4">Init</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5df981bbab9e8d8bb4bd57830b9f0ecb">_outputKey</a>);</div>
-<div class="line"><span class="lineno">  177</span> </div>
-<div class="line"><span class="lineno">  178</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#ac39706645f201fed3c8ff7c1cf3d2654">_initialized</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  179</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  123</span>{</div>
+<div class="line"><span class="lineno">  124</span>    <span class="comment">// test</span></div>
+<div class="line"><span class="lineno">  125</span>    <span class="keywordtype">int</span> keyIn[4];</div>
+<div class="line"><span class="lineno">  126</span> </div>
+<div class="line"><span class="lineno">  127</span>    <a class="code hl_struct" href="../../d0/de1/a11418.html">keyData</a> mod_seed = { { { { 0x4D, 0x80, 0x8D, 0x2C, 0x77, 0xD9, 0x05, 0xC4, 0x1A, 0x63, 0x80, 0xEC, 0x08, 0x58, 0x6A, 0xFE } } } };</div>
+<div class="line"><span class="lineno">  128</span> </div>
+<div class="line"><span class="lineno">  129</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; 4; ++i)</div>
+<div class="line"><span class="lineno">  130</span>    {</div>
+<div class="line"><span class="lineno">  131</span>        keyIn[i] = mod_seed.<a class="code hl_variable" href="../../d0/de1/a11418.html#a0518eb4b0a91697500a5a370068425a8">ints</a>.ints[i];</div>
+<div class="line"><span class="lineno">  132</span>    }</div>
+<div class="line"><span class="lineno">  133</span> </div>
+<div class="line"><span class="lineno">  134</span>    <span class="keywordtype">int</span> keyOut[4];</div>
+<div class="line"><span class="lineno">  135</span>    <span class="keywordtype">int</span> keyIn1, keyIn2;</div>
+<div class="line"><span class="lineno">  136</span>    keyOut[0] = keyIn[0];</div>
+<div class="line"><span class="lineno">  137</span>    keyIn[0] ^= 0xDEADBEEFu;</div>
+<div class="line"><span class="lineno">  138</span>    keyIn1 = keyIn[1];</div>
+<div class="line"><span class="lineno">  139</span>    keyIn[1] -= 0x35014542u;</div>
+<div class="line"><span class="lineno">  140</span>    keyIn2 = keyIn[2];</div>
+<div class="line"><span class="lineno">  141</span>    keyIn[2] += 0x5313F22u;</div>
+<div class="line"><span class="lineno">  142</span>    keyIn[3] *= 0x1337F00Du;</div>
+<div class="line"><span class="lineno">  143</span>    keyOut[1] = keyIn1 - 0x6A028A84;</div>
+<div class="line"><span class="lineno">  144</span>    keyOut[2] = keyIn2 + 0xA627E44;</div>
+<div class="line"><span class="lineno">  145</span>    keyOut[3] = 0x1337F00D * keyIn[3];</div>
+<div class="line"><span class="lineno">  146</span>    <span class="comment">// end test</span></div>
+<div class="line"><span class="lineno">  147</span> </div>
+<div class="line"><span class="lineno">  148</span>    buff.<a class="code hl_function" href="../../dc/d71/a28354.html#a7077cbe8c1b3983a4f3faa4b1f61af29">rpos</a>(buff.<a class="code hl_function" href="../../dc/d71/a28354.html#a6e9aaf9195c43a9a03ee4a55c435e24f">wpos</a>());</div>
+<div class="line"><span class="lineno">  149</span> </div>
+<div class="line"><span class="lineno">  150</span>    <a class="code hl_class" href="../../dd/d48/a05150.html">Acore::Crypto::SHA1</a> sha1;</div>
+<div class="line"><span class="lineno">  151</span>    sha1.<a class="code hl_function" href="../../dd/d48/a05150.html#abe1705975eec03929bd7c603bb563d19">UpdateData</a>((<a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)keyIn, 16);</div>
+<div class="line"><span class="lineno">  152</span>    sha1.<a class="code hl_function" href="../../dd/d48/a05150.html#a8dc1415e2f1211753059ba2569fa049e">Finalize</a>();</div>
+<div class="line"><span class="lineno">  153</span> </div>
+<div class="line"><span class="lineno">  154</span>    <span class="comment">//const uint8 validHash[20] = { 0x56, 0x8C, 0x05, 0x4C, 0x78, 0x1A, 0x97, 0x2A, 0x60, 0x37, 0xA2, 0x29, 0x0C, 0x22, 0xB5, 0x25, 0x71, 0xA0, 0x6F, 0x4E };</span></div>
+<div class="line"><span class="lineno">  155</span> </div>
+<div class="line"><span class="lineno">  156</span>    <span class="comment">// Verify key using constant-time comparison</span></div>
+<div class="line"><span class="lineno">  157</span>    <span class="keywordflow">if</span> (CRYPTO_memcmp(buff.<a class="code hl_function" href="../../dc/d71/a28354.html#af0e8fd90f17049711204ae51a4ac86e4">contents</a>() + 1, sha1.<a class="code hl_function" href="../../dd/d48/a05150.html#ae1ea3a430fe6f5659cfd28f93e67dbea">GetDigest</a>().data(), 20) != 0)</div>
+<div class="line"><span class="lineno">  158</span>    {</div>
+<div class="line"><span class="lineno">  159</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Request hash reply: failed&quot;</span>);</div>
+<div class="line"><span class="lineno">  160</span>        <a class="code hl_function" href="../../d7/d35/a11438.html#a3aae296cc62f62e9deef0ec2dbb774f6">ApplyPenalty</a>(0, <span class="stringliteral">&quot;Request hash reply: failed&quot;</span>);</div>
+<div class="line"><span class="lineno">  161</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  162</span>    }</div>
+<div class="line"><span class="lineno">  163</span> </div>
+<div class="line"><span class="lineno">  164</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Request hash reply: succeed&quot;</span>);</div>
+<div class="line"><span class="lineno">  165</span> </div>
+<div class="line"><span class="lineno">  166</span>    <span class="comment">// client 7F96EEFDA5B63D20A4DF8E00CBF48304</span></div>
+<div class="line"><span class="lineno">  167</span>    <span class="comment">//const uint8 client_key[16] = { 0x7F, 0x96, 0xEE, 0xFD, 0xA5, 0xB6, 0x3D, 0x20, 0xA4, 0xDF, 0x8E, 0x00, 0xCB, 0xF4, 0x83, 0x04 };</span></div>
+<div class="line"><span class="lineno">  168</span> </div>
+<div class="line"><span class="lineno">  169</span>    <span class="comment">// server C2B7ADEDFCCCA9C2BFB3F85602BA809B</span></div>
+<div class="line"><span class="lineno">  170</span>    <span class="comment">//const uint8 server_key[16] = { 0xC2, 0xB7, 0xAD, 0xED, 0xFC, 0xCC, 0xA9, 0xC2, 0xBF, 0xB3, 0xF8, 0x56, 0x02, 0xBA, 0x80, 0x9B };</span></div>
+<div class="line"><span class="lineno">  171</span> </div>
+<div class="line"><span class="lineno">  172</span>    <span class="comment">// change keys here</span></div>
+<div class="line"><span class="lineno">  173</span>    memcpy(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5949bd3821517bff75d1915ffdfd3e82">_inputKey</a>, keyIn, 16);</div>
+<div class="line"><span class="lineno">  174</span>    memcpy(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5df981bbab9e8d8bb4bd57830b9f0ecb">_outputKey</a>, keyOut, 16);</div>
+<div class="line"><span class="lineno">  175</span> </div>
+<div class="line"><span class="lineno">  176</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#a2290a6e3a863b9a49941e7ecad9e2db7">_inputCrypto</a>.<a class="code hl_function" href="../../d5/d87/a05118.html#aaa9c89da159b57a897898bc31e10ecd4">Init</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5949bd3821517bff75d1915ffdfd3e82">_inputKey</a>);</div>
+<div class="line"><span class="lineno">  177</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#a4e23f5a6d7fdeefed9c2511831ce0928">_outputCrypto</a>.<a class="code hl_function" href="../../d5/d87/a05118.html#aaa9c89da159b57a897898bc31e10ecd4">Init</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5df981bbab9e8d8bb4bd57830b9f0ecb">_outputKey</a>);</div>
+<div class="line"><span class="lineno">  178</span> </div>
+<div class="line"><span class="lineno">  179</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#ac39706645f201fed3c8ff7c1cf3d2654">_initialized</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  180</span>}</div>
 <div class="ttc" id="aa05118_html_aaa9c89da159b57a897898bc31e10ecd4"><div class="ttname"><a href="../../d5/d87/a05118.html#aaa9c89da159b57a897898bc31e10ecd4">Acore::Crypto::ARC4::Init</a></div><div class="ttdeci">void Init(uint8 const *seed, std::size_t len)</div><div class="ttdef"><b>Definition:</b> ARC4.cpp:36</div></div>
 <div class="ttc" id="aa11418_html"><div class="ttname"><a href="../../d0/de1/a11418.html">keyData</a></div><div class="ttdef"><b>Definition:</b> Warden.cpp:162</div></div>
 <div class="ttc" id="aa11418_html_a0518eb4b0a91697500a5a370068425a8"><div class="ttname"><a href="../../d0/de1/a11418.html#a0518eb4b0a91697500a5a370068425a8">keyData::ints</a></div><div class="ttdeci">std::array&lt; uint32, 5 &gt; ints</div><div class="ttdef"><b>Definition:</b> Warden.cpp:164</div></div>
@@ -515,38 +515,38 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d7/d35/a11438.html#acf842c95b7d7ab5eb5a4f539a487d449">Warden</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   37</span>{</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a> = pClient;</div>
-<div class="line"><span class="lineno">   39</span>    <span class="comment">// Generate Warden Key</span></div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_class" href="../../da/dee/a05158.html">SessionKeyGenerator&lt;Acore::Crypto::SHA1&gt;</a> WK(K);</div>
-<div class="line"><span class="lineno">   41</span>    WK.Generate(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5949bd3821517bff75d1915ffdfd3e82">_inputKey</a>, 16);</div>
-<div class="line"><span class="lineno">   42</span>    WK.Generate(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5df981bbab9e8d8bb4bd57830b9f0ecb">_outputKey</a>, 16);</div>
-<div class="line"><span class="lineno">   43</span>    <span class="comment">/*</span></div>
-<div class="line"><span class="lineno">   44</span><span class="comment">    Seed: 4D808D2C77D905C41A6380EC08586AFE (0x05 packet)</span></div>
-<div class="line"><span class="lineno">   45</span><span class="comment">    Hash: &lt;?&gt; (0x04 packet)</span></div>
-<div class="line"><span class="lineno">   46</span><span class="comment">    Module MD5: 0DBBF209A27B1E279A9FEC5C168A15F7</span></div>
-<div class="line"><span class="lineno">   47</span><span class="comment">    New Client Key: &lt;?&gt;</span></div>
-<div class="line"><span class="lineno">   48</span><span class="comment">    New Cerver Key: &lt;?&gt;</span></div>
-<div class="line"><span class="lineno">   49</span><span class="comment">    */</span></div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> mod_seed[16] = { 0x4D, 0x80, 0x8D, 0x2C, 0x77, 0xD9, 0x05, 0xC4, 0x1A, 0x63, 0x80, 0xEC, 0x08, 0x58, 0x6A, 0xFE };</div>
-<div class="line"><span class="lineno">   51</span> </div>
-<div class="line"><span class="lineno">   52</span>    memcpy(<a class="code hl_variable" href="../../d7/d35/a11438.html#a64c5aff3e071b8190fcf5aa3f4e61d0c">_seed</a>, mod_seed, 16);</div>
-<div class="line"><span class="lineno">   53</span> </div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#a2290a6e3a863b9a49941e7ecad9e2db7">_inputCrypto</a>.<a class="code hl_function" href="../../d5/d87/a05118.html#aaa9c89da159b57a897898bc31e10ecd4">Init</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5949bd3821517bff75d1915ffdfd3e82">_inputKey</a>);</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#a4e23f5a6d7fdeefed9c2511831ce0928">_outputCrypto</a>.<a class="code hl_function" href="../../d5/d87/a05118.html#aaa9c89da159b57a897898bc31e10ecd4">Init</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5df981bbab9e8d8bb4bd57830b9f0ecb">_outputKey</a>);</div>
-<div class="line"><span class="lineno">   56</span> </div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Server side warden for client {} initializing...&quot;</span>, pClient-&gt;GetAccountId());</div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;C-&gt;S Key: {}&quot;</span>, <a class="code hl_function" href="../../da/deb/a04764.html#aee21cf91c2a5f1c520d6b01dd6b2e835">Acore::Impl::ByteArrayToHexStr</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5949bd3821517bff75d1915ffdfd3e82">_inputKey</a>, 16));</div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;S-&gt;C Key: {}&quot;</span>, <a class="code hl_function" href="../../da/deb/a04764.html#aee21cf91c2a5f1c520d6b01dd6b2e835">Acore::Impl::ByteArrayToHexStr</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5df981bbab9e8d8bb4bd57830b9f0ecb">_outputKey</a>, 16 ));</div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;  Seed: {}&quot;</span>, <a class="code hl_function" href="../../da/deb/a04764.html#aee21cf91c2a5f1c520d6b01dd6b2e835">Acore::Impl::ByteArrayToHexStr</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a64c5aff3e071b8190fcf5aa3f4e61d0c">_seed</a>, 16));</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Loading Module...&quot;</span>);</div>
-<div class="line"><span class="lineno">   62</span> </div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a> = <a class="code hl_function" href="../../d5/db4/a11466.html#a7a31b72ea7362c70f0fc9ff6e316d80b">GetModuleForClient</a>();</div>
-<div class="line"><span class="lineno">   64</span> </div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Module Key: {}&quot;</span>, <a class="code hl_function" href="../../d8/d8e/a00344.html#a559d532d2bfeee7ed59f0b1dbce4e86a">ByteArrayToHexStr</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d9/db1/a11434.html#ad100540b5c6722a19c938b134a985aed">Key</a>));</div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Module ID: {}&quot;</span>, <a class="code hl_function" href="../../d8/d8e/a00344.html#a559d532d2bfeee7ed59f0b1dbce4e86a">ByteArrayToHexStr</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d9/db1/a11434.html#af1e6a5cc01ee05432be5c41c88d84794">Id</a>));</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_function" href="../../d7/d35/a11438.html#a672b7fbce362f9a220547cfd435c32ac">RequestModule</a>();</div>
-<div class="line"><span class="lineno">   68</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   38</span>{</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a> = pClient;</div>
+<div class="line"><span class="lineno">   40</span>    <span class="comment">// Generate Warden Key</span></div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_class" href="../../da/dee/a05158.html">SessionKeyGenerator&lt;Acore::Crypto::SHA1&gt;</a> WK(K);</div>
+<div class="line"><span class="lineno">   42</span>    WK.Generate(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5949bd3821517bff75d1915ffdfd3e82">_inputKey</a>, 16);</div>
+<div class="line"><span class="lineno">   43</span>    WK.Generate(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5df981bbab9e8d8bb4bd57830b9f0ecb">_outputKey</a>, 16);</div>
+<div class="line"><span class="lineno">   44</span>    <span class="comment">/*</span></div>
+<div class="line"><span class="lineno">   45</span><span class="comment">    Seed: 4D808D2C77D905C41A6380EC08586AFE (0x05 packet)</span></div>
+<div class="line"><span class="lineno">   46</span><span class="comment">    Hash: &lt;?&gt; (0x04 packet)</span></div>
+<div class="line"><span class="lineno">   47</span><span class="comment">    Module MD5: 0DBBF209A27B1E279A9FEC5C168A15F7</span></div>
+<div class="line"><span class="lineno">   48</span><span class="comment">    New Client Key: &lt;?&gt;</span></div>
+<div class="line"><span class="lineno">   49</span><span class="comment">    New Cerver Key: &lt;?&gt;</span></div>
+<div class="line"><span class="lineno">   50</span><span class="comment">    */</span></div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> mod_seed[16] = { 0x4D, 0x80, 0x8D, 0x2C, 0x77, 0xD9, 0x05, 0xC4, 0x1A, 0x63, 0x80, 0xEC, 0x08, 0x58, 0x6A, 0xFE };</div>
+<div class="line"><span class="lineno">   52</span> </div>
+<div class="line"><span class="lineno">   53</span>    memcpy(<a class="code hl_variable" href="../../d7/d35/a11438.html#a64c5aff3e071b8190fcf5aa3f4e61d0c">_seed</a>, mod_seed, 16);</div>
+<div class="line"><span class="lineno">   54</span> </div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#a2290a6e3a863b9a49941e7ecad9e2db7">_inputCrypto</a>.<a class="code hl_function" href="../../d5/d87/a05118.html#aaa9c89da159b57a897898bc31e10ecd4">Init</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5949bd3821517bff75d1915ffdfd3e82">_inputKey</a>);</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#a4e23f5a6d7fdeefed9c2511831ce0928">_outputCrypto</a>.<a class="code hl_function" href="../../d5/d87/a05118.html#aaa9c89da159b57a897898bc31e10ecd4">Init</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5df981bbab9e8d8bb4bd57830b9f0ecb">_outputKey</a>);</div>
+<div class="line"><span class="lineno">   57</span> </div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Server side warden for client {} initializing...&quot;</span>, pClient-&gt;GetAccountId());</div>
+<div class="line"><span class="lineno">   59</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;C-&gt;S Key: {}&quot;</span>, <a class="code hl_function" href="../../da/deb/a04764.html#aee21cf91c2a5f1c520d6b01dd6b2e835">Acore::Impl::ByteArrayToHexStr</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5949bd3821517bff75d1915ffdfd3e82">_inputKey</a>, 16));</div>
+<div class="line"><span class="lineno">   60</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;S-&gt;C Key: {}&quot;</span>, <a class="code hl_function" href="../../da/deb/a04764.html#aee21cf91c2a5f1c520d6b01dd6b2e835">Acore::Impl::ByteArrayToHexStr</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a5df981bbab9e8d8bb4bd57830b9f0ecb">_outputKey</a>, 16 ));</div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;  Seed: {}&quot;</span>, <a class="code hl_function" href="../../da/deb/a04764.html#aee21cf91c2a5f1c520d6b01dd6b2e835">Acore::Impl::ByteArrayToHexStr</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a64c5aff3e071b8190fcf5aa3f4e61d0c">_seed</a>, 16));</div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Loading Module...&quot;</span>);</div>
+<div class="line"><span class="lineno">   63</span> </div>
+<div class="line"><span class="lineno">   64</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a> = <a class="code hl_function" href="../../d5/db4/a11466.html#a7a31b72ea7362c70f0fc9ff6e316d80b">GetModuleForClient</a>();</div>
+<div class="line"><span class="lineno">   65</span> </div>
+<div class="line"><span class="lineno">   66</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Module Key: {}&quot;</span>, <a class="code hl_function" href="../../d8/d8e/a00344.html#a559d532d2bfeee7ed59f0b1dbce4e86a">ByteArrayToHexStr</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d9/db1/a11434.html#ad100540b5c6722a19c938b134a985aed">Key</a>));</div>
+<div class="line"><span class="lineno">   67</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Module ID: {}&quot;</span>, <a class="code hl_function" href="../../d8/d8e/a00344.html#a559d532d2bfeee7ed59f0b1dbce4e86a">ByteArrayToHexStr</a>(<a class="code hl_variable" href="../../d7/d35/a11438.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d9/db1/a11434.html#af1e6a5cc01ee05432be5c41c88d84794">Id</a>));</div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_function" href="../../d7/d35/a11438.html#a672b7fbce362f9a220547cfd435c32ac">RequestModule</a>();</div>
+<div class="line"><span class="lineno">   69</span>}</div>
 <div class="ttc" id="aa00344_html_a559d532d2bfeee7ed59f0b1dbce4e86a"><div class="ttname"><a href="../../d8/d8e/a00344.html#a559d532d2bfeee7ed59f0b1dbce4e86a">ByteArrayToHexStr</a></div><div class="ttdeci">std::string ByteArrayToHexStr(Container const &amp;c, bool reverse=false)</div><div class="ttdef"><b>Definition:</b> Util.h:381</div></div>
 <div class="ttc" id="aa04764_html_aee21cf91c2a5f1c520d6b01dd6b2e835"><div class="ttname"><a href="../../da/deb/a04764.html#aee21cf91c2a5f1c520d6b01dd6b2e835">Acore::Impl::ByteArrayToHexStr</a></div><div class="ttdeci">AC_COMMON_API std::string ByteArrayToHexStr(uint8 const *bytes, std::size_t length, bool reverse=false)</div><div class="ttdef"><b>Definition:</b> Util.cpp:545</div></div>
 <div class="ttc" id="aa05158_html"><div class="ttname"><a href="../../da/dee/a05158.html">SessionKeyGenerator</a></div><div class="ttdef"><b>Definition:</b> SessionKeyGenerator.h:23</div></div>
@@ -555,9 +555,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa11438_html_a64c5aff3e071b8190fcf5aa3f4e61d0c"><div class="ttname"><a href="../../d7/d35/a11438.html#a64c5aff3e071b8190fcf5aa3f4e61d0c">Warden::_seed</a></div><div class="ttdeci">uint8 _seed[16]</div><div class="ttdef"><b>Definition:</b> Warden.h:142</div></div>
 <div class="ttc" id="aa11438_html_a672b7fbce362f9a220547cfd435c32ac"><div class="ttname"><a href="../../d7/d35/a11438.html#a672b7fbce362f9a220547cfd435c32ac">Warden::RequestModule</a></div><div class="ttdeci">void RequestModule()</div><div class="ttdef"><b>Definition:</b> Warden.cpp:73</div></div>
 <div class="ttc" id="aa11438_html_a76a5a99f32011ad4dd9bc004dc9bf102"><div class="ttname"><a href="../../d7/d35/a11438.html#a76a5a99f32011ad4dd9bc004dc9bf102">Warden::_module</a></div><div class="ttdeci">ClientWardenModule * _module</div><div class="ttdef"><b>Definition:</b> Warden.h:148</div></div>
-<div class="ttc" id="aa11466_html_a7a31b72ea7362c70f0fc9ff6e316d80b"><div class="ttname"><a href="../../d5/db4/a11466.html#a7a31b72ea7362c70f0fc9ff6e316d80b">WardenMac::GetModuleForClient</a></div><div class="ttdeci">ClientWardenModule * GetModuleForClient() override</div><div class="ttdef"><b>Definition:</b> WardenMac.cpp:70</div></div>
+<div class="ttc" id="aa11466_html_a7a31b72ea7362c70f0fc9ff6e316d80b"><div class="ttname"><a href="../../d5/db4/a11466.html#a7a31b72ea7362c70f0fc9ff6e316d80b">WardenMac::GetModuleForClient</a></div><div class="ttdeci">ClientWardenModule * GetModuleForClient() override</div><div class="ttdef"><b>Definition:</b> WardenMac.cpp:71</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00143">Warden::_inputCrypto</a>, <a class="el" href="../../#l00140">Warden::_inputKey</a>, <a class="el" href="../../#l00148">Warden::_module</a>, <a class="el" href="../../#l00144">Warden::_outputCrypto</a>, <a class="el" href="../../#l00141">Warden::_outputKey</a>, <a class="el" href="../../#l00142">Warden::_seed</a>, <a class="el" href="../../#l00138">Warden::_session</a>, <a class="el" href="../../#l00381">ByteArrayToHexStr()</a>, <a class="el" href="../../#l00545">Acore::Impl::ByteArrayToHexStr()</a>, <a class="el" href="../../#l00038">SessionKeyGenerator&lt; Hash &gt;::Generate()</a>, <a class="el" href="../../#l00375">WorldSession::GetAccountId()</a>, <a class="el" href="../../#l00070">GetModuleForClient()</a>, <a class="el" href="../../#l00094">ClientWardenModule::Id</a>, <a class="el" href="../../#l00036">Acore::Crypto::ARC4::Init()</a>, <a class="el" href="../../#l00095">ClientWardenModule::Key</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, and <a class="el" href="../../#l00073">Warden::RequestModule()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00143">Warden::_inputCrypto</a>, <a class="el" href="../../#l00140">Warden::_inputKey</a>, <a class="el" href="../../#l00148">Warden::_module</a>, <a class="el" href="../../#l00144">Warden::_outputCrypto</a>, <a class="el" href="../../#l00141">Warden::_outputKey</a>, <a class="el" href="../../#l00142">Warden::_seed</a>, <a class="el" href="../../#l00138">Warden::_session</a>, <a class="el" href="../../#l00381">ByteArrayToHexStr()</a>, <a class="el" href="../../#l00545">Acore::Impl::ByteArrayToHexStr()</a>, <a class="el" href="../../#l00038">SessionKeyGenerator&lt; Hash &gt;::Generate()</a>, <a class="el" href="../../#l00375">WorldSession::GetAccountId()</a>, <a class="el" href="../../#l00071">GetModuleForClient()</a>, <a class="el" href="../../#l00094">ClientWardenModule::Id</a>, <a class="el" href="../../#l00036">Acore::Crypto::ARC4::Init()</a>, <a class="el" href="../../#l00095">ClientWardenModule::Key</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, and <a class="el" href="../../#l00073">Warden::RequestModule()</a>.</p>
 
 </div>
 </div>
@@ -585,9 +585,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d7/d35/a11438.html#ab8bfafc802aa201500682bb39cee6e32">Warden</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   84</span>{</div>
-<div class="line"><span class="lineno">   85</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Initialize module&quot;</span>);</div>
-<div class="line"><span class="lineno">   86</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   85</span>{</div>
+<div class="line"><span class="lineno">   86</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Initialize module&quot;</span>);</div>
+<div class="line"><span class="lineno">   87</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00169">LOG_DEBUG</a>.</p>
 
@@ -617,28 +617,28 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d7/d35/a11438.html#ae4d9116061d9e4544e5f4291fd2f7428">Warden</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  182</span>{</div>
-<div class="line"><span class="lineno">  183</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Request data&quot;</span>);</div>
-<div class="line"><span class="lineno">  184</span> </div>
-<div class="line"><span class="lineno">  185</span>    <a class="code hl_class" href="../../dc/d71/a28354.html">ByteBuffer</a> buff;</div>
-<div class="line"><span class="lineno">  186</span>    buff &lt;&lt; <a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(<a class="code hl_enumvalue" href="../../d3/d28/a02147.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709">WARDEN_SMSG_CHEAT_CHECKS_REQUEST</a>);</div>
-<div class="line"><span class="lineno">  187</span> </div>
-<div class="line"><span class="lineno">  188</span>    std::string str = <span class="stringliteral">&quot;Test string!&quot;</span>;</div>
-<div class="line"><span class="lineno">  189</span> </div>
-<div class="line"><span class="lineno">  190</span>    buff &lt;&lt; <a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(str.size());</div>
-<div class="line"><span class="lineno">  191</span>    buff.<a class="code hl_function" href="../../dc/d71/a28354.html#a5811e6da355e8c3d0f45997a557a666b">append</a>(str.c_str(), str.size());</div>
-<div class="line"><span class="lineno">  192</span> </div>
-<div class="line"><span class="lineno">  193</span>    buff.<a class="code hl_function" href="../../dc/d71/a28354.html#a45e6b7d03df82a0be6eab9975193881e">hexlike</a>();</div>
-<div class="line"><span class="lineno">  194</span> </div>
-<div class="line"><span class="lineno">  195</span>    <span class="comment">// Encrypt with warden RC4 key.</span></div>
-<div class="line"><span class="lineno">  196</span>    <a class="code hl_function" href="../../d7/d35/a11438.html#a1880eaaeb13cca6852cf9c51fa29d339">EncryptData</a>(buff.<a class="code hl_function" href="../../dc/d71/a28354.html#af0e8fd90f17049711204ae51a4ac86e4">contents</a>(), buff.<a class="code hl_function" href="../../dc/d71/a28354.html#a0be375370879a95ef6ec68cc8916ab61">size</a>());</div>
-<div class="line"><span class="lineno">  197</span> </div>
-<div class="line"><span class="lineno">  198</span>    <a class="code hl_class" href="../../d4/df1/a10930.html">WorldPacket</a> pkt(<a class="code hl_enumvalue" href="../../d1/d86/a04746.html#gga1073b6abb3a749f18bf1633020879e9baeee0f388f48c1735d91912e4be941f88">SMSG_WARDEN_DATA</a>, buff.<a class="code hl_function" href="../../dc/d71/a28354.html#a0be375370879a95ef6ec68cc8916ab61">size</a>());</div>
-<div class="line"><span class="lineno">  199</span>    pkt.append(buff);</div>
-<div class="line"><span class="lineno">  200</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d9/d49/a10974.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(&amp;pkt);</div>
-<div class="line"><span class="lineno">  201</span> </div>
-<div class="line"><span class="lineno">  202</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#ab67c63af0423210e927a7ce349de762a">_dataSent</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  203</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  183</span>{</div>
+<div class="line"><span class="lineno">  184</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Request data&quot;</span>);</div>
+<div class="line"><span class="lineno">  185</span> </div>
+<div class="line"><span class="lineno">  186</span>    <a class="code hl_class" href="../../dc/d71/a28354.html">ByteBuffer</a> buff;</div>
+<div class="line"><span class="lineno">  187</span>    buff &lt;&lt; <a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(<a class="code hl_enumvalue" href="../../d3/d28/a02147.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709">WARDEN_SMSG_CHEAT_CHECKS_REQUEST</a>);</div>
+<div class="line"><span class="lineno">  188</span> </div>
+<div class="line"><span class="lineno">  189</span>    std::string str = <span class="stringliteral">&quot;Test string!&quot;</span>;</div>
+<div class="line"><span class="lineno">  190</span> </div>
+<div class="line"><span class="lineno">  191</span>    buff &lt;&lt; <a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(str.size());</div>
+<div class="line"><span class="lineno">  192</span>    buff.<a class="code hl_function" href="../../dc/d71/a28354.html#a5811e6da355e8c3d0f45997a557a666b">append</a>(str.c_str(), str.size());</div>
+<div class="line"><span class="lineno">  193</span> </div>
+<div class="line"><span class="lineno">  194</span>    buff.<a class="code hl_function" href="../../dc/d71/a28354.html#a45e6b7d03df82a0be6eab9975193881e">hexlike</a>();</div>
+<div class="line"><span class="lineno">  195</span> </div>
+<div class="line"><span class="lineno">  196</span>    <span class="comment">// Encrypt with warden RC4 key.</span></div>
+<div class="line"><span class="lineno">  197</span>    <a class="code hl_function" href="../../d7/d35/a11438.html#a1880eaaeb13cca6852cf9c51fa29d339">EncryptData</a>(buff.<a class="code hl_function" href="../../dc/d71/a28354.html#af0e8fd90f17049711204ae51a4ac86e4">contents</a>(), buff.<a class="code hl_function" href="../../dc/d71/a28354.html#a0be375370879a95ef6ec68cc8916ab61">size</a>());</div>
+<div class="line"><span class="lineno">  198</span> </div>
+<div class="line"><span class="lineno">  199</span>    <a class="code hl_class" href="../../d4/df1/a10930.html">WorldPacket</a> pkt(<a class="code hl_enumvalue" href="../../d1/d86/a04746.html#gga1073b6abb3a749f18bf1633020879e9baeee0f388f48c1735d91912e4be941f88">SMSG_WARDEN_DATA</a>, buff.<a class="code hl_function" href="../../dc/d71/a28354.html#a0be375370879a95ef6ec68cc8916ab61">size</a>());</div>
+<div class="line"><span class="lineno">  200</span>    pkt.append(buff);</div>
+<div class="line"><span class="lineno">  201</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d9/d49/a10974.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(&amp;pkt);</div>
+<div class="line"><span class="lineno">  202</span> </div>
+<div class="line"><span class="lineno">  203</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#ab67c63af0423210e927a7ce349de762a">_dataSent</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  204</span>}</div>
 <div class="ttc" id="aa02147_html_a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709"><div class="ttname"><a href="../../d3/d28/a02147.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709">WARDEN_SMSG_CHEAT_CHECKS_REQUEST</a></div><div class="ttdeci">@ WARDEN_SMSG_CHEAT_CHECKS_REQUEST</div><div class="ttdef"><b>Definition:</b> Warden.h:40</div></div>
 <div class="ttc" id="aa04746_html_gga1073b6abb3a749f18bf1633020879e9baeee0f388f48c1735d91912e4be941f88"><div class="ttname"><a href="../../d1/d86/a04746.html#gga1073b6abb3a749f18bf1633020879e9baeee0f388f48c1735d91912e4be941f88">SMSG_WARDEN_DATA</a></div><div class="ttdeci">@ SMSG_WARDEN_DATA</div><div class="ttdef"><b>Definition:</b> Opcodes.h:772</div></div>
 <div class="ttc" id="aa10930_html"><div class="ttname"><a href="../../d4/df1/a10930.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
@@ -677,21 +677,21 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d7/d35/a11438.html#a671f914efeb5689fe3b9177fb868e09e">Warden</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   89</span>{</div>
-<div class="line"><span class="lineno">   90</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Request hash&quot;</span>);</div>
-<div class="line"><span class="lineno">   91</span> </div>
-<div class="line"><span class="lineno">   92</span>    <span class="comment">// Create packet structure</span></div>
-<div class="line"><span class="lineno">   93</span>    <a class="code hl_struct" href="../../d0/d67/a11430.html">WardenHashRequest</a> Request{};</div>
-<div class="line"><span class="lineno">   94</span>    Request.<a class="code hl_variable" href="../../d0/d67/a11430.html#af0e8f46d4352430d12f932b5a9e4c44e">Command</a> = <a class="code hl_enumvalue" href="../../d3/d28/a02147.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451">WARDEN_SMSG_HASH_REQUEST</a>;</div>
-<div class="line"><span class="lineno">   95</span>    memcpy(Request.Seed, <a class="code hl_variable" href="../../d7/d35/a11438.html#a64c5aff3e071b8190fcf5aa3f4e61d0c">_seed</a>, 16);</div>
-<div class="line"><span class="lineno">   96</span> </div>
-<div class="line"><span class="lineno">   97</span>    <span class="comment">// Encrypt with warden RC4 key.</span></div>
-<div class="line"><span class="lineno">   98</span>    <a class="code hl_function" href="../../d7/d35/a11438.html#a1880eaaeb13cca6852cf9c51fa29d339">EncryptData</a>((<a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)&amp;Request, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d0/d67/a11430.html">WardenHashRequest</a>));</div>
-<div class="line"><span class="lineno">   99</span> </div>
-<div class="line"><span class="lineno">  100</span>    <a class="code hl_class" href="../../d4/df1/a10930.html">WorldPacket</a> pkt(<a class="code hl_enumvalue" href="../../d1/d86/a04746.html#gga1073b6abb3a749f18bf1633020879e9baeee0f388f48c1735d91912e4be941f88">SMSG_WARDEN_DATA</a>, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d0/d67/a11430.html">WardenHashRequest</a>));</div>
-<div class="line"><span class="lineno">  101</span>    pkt.append((<a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)&amp;Request, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d0/d67/a11430.html">WardenHashRequest</a>));</div>
-<div class="line"><span class="lineno">  102</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d9/d49/a10974.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(&amp;pkt);</div>
-<div class="line"><span class="lineno">  103</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   90</span>{</div>
+<div class="line"><span class="lineno">   91</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Request hash&quot;</span>);</div>
+<div class="line"><span class="lineno">   92</span> </div>
+<div class="line"><span class="lineno">   93</span>    <span class="comment">// Create packet structure</span></div>
+<div class="line"><span class="lineno">   94</span>    <a class="code hl_struct" href="../../d0/d67/a11430.html">WardenHashRequest</a> Request{};</div>
+<div class="line"><span class="lineno">   95</span>    Request.<a class="code hl_variable" href="../../d0/d67/a11430.html#af0e8f46d4352430d12f932b5a9e4c44e">Command</a> = <a class="code hl_enumvalue" href="../../d3/d28/a02147.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451">WARDEN_SMSG_HASH_REQUEST</a>;</div>
+<div class="line"><span class="lineno">   96</span>    memcpy(Request.Seed, <a class="code hl_variable" href="../../d7/d35/a11438.html#a64c5aff3e071b8190fcf5aa3f4e61d0c">_seed</a>, 16);</div>
+<div class="line"><span class="lineno">   97</span> </div>
+<div class="line"><span class="lineno">   98</span>    <span class="comment">// Encrypt with warden RC4 key.</span></div>
+<div class="line"><span class="lineno">   99</span>    <a class="code hl_function" href="../../d7/d35/a11438.html#a1880eaaeb13cca6852cf9c51fa29d339">EncryptData</a>((<a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)&amp;Request, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d0/d67/a11430.html">WardenHashRequest</a>));</div>
+<div class="line"><span class="lineno">  100</span> </div>
+<div class="line"><span class="lineno">  101</span>    <a class="code hl_class" href="../../d4/df1/a10930.html">WorldPacket</a> pkt(<a class="code hl_enumvalue" href="../../d1/d86/a04746.html#gga1073b6abb3a749f18bf1633020879e9baeee0f388f48c1735d91912e4be941f88">SMSG_WARDEN_DATA</a>, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d0/d67/a11430.html">WardenHashRequest</a>));</div>
+<div class="line"><span class="lineno">  102</span>    pkt.append((<a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)&amp;Request, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d0/d67/a11430.html">WardenHashRequest</a>));</div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_variable" href="../../d7/d35/a11438.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d9/d49/a10974.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(&amp;pkt);</div>
+<div class="line"><span class="lineno">  104</span>}</div>
 <div class="ttc" id="aa02147_html_a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451"><div class="ttname"><a href="../../d3/d28/a02147.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451">WARDEN_SMSG_HASH_REQUEST</a></div><div class="ttdeci">@ WARDEN_SMSG_HASH_REQUEST</div><div class="ttdef"><b>Definition:</b> Warden.h:43</div></div>
 <div class="ttc" id="aa11430_html"><div class="ttname"><a href="../../d0/d67/a11430.html">WardenHashRequest</a></div><div class="ttdef"><b>Definition:</b> Warden.h:81</div></div>
 <div class="ttc" id="aa11430_html_af0e8f46d4352430d12f932b5a9e4c44e"><div class="ttname"><a href="../../d0/d67/a11430.html#af0e8f46d4352430d12f932b5a9e4c44e">WardenHashRequest::Command</a></div><div class="ttdeci">uint8 Command</div><div class="ttdef"><b>Definition:</b> Warden.h:82</div></div>
@@ -706,7 +706,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/db4/a11466.html">WardenMac</a></li>
-    <li class="footer">Generated on Mon Mar 24 2025 20:45:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Mar 31 2025 20:46:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1333,7 +1333,7 @@ var searchData=
   ['maxtolerance_1330',['MaxTolerance',['../d8/de7/a09878.html#a7909b18028d43c84eca5feee3e41469c',1,'ChaseRange']]],
   ['maxvalue_1331',['maxvalue',['../d4/d8b/a11178.html#a1dd2289b0d3505cb50e8613595ad8c8e',1,'SpellLearnSkillNode']]],
   ['maxvalue_1332',['MaxValue',['../d9/d1c/a07730.html#a6c48d3a6afddf895b97ec9b964dfd86c',1,'Acore::Hyperlinks::TradeskillLinkData::MaxValue()'],['../db/d29/a10750.html#a3f26c682d547be40d2800eff2189348d',1,'WorldPackets::Misc::StartMirrorTimer::MaxValue()']]],
-  ['maxvehnumworldstate_1333',['MaxVehNumWorldState',['../d2/da6/a02339.html#a519c7fd514e53f3bb4399f9cba62ed2c',1,'BattlefieldWG.h']]],
+  ['maxvehnumworldstate_1333',['MaxVehNumWorldState',['../d2/da6/a02339.html#a5aafb12f33e8c781f7386149a8a9128f',1,'BattlefieldWG.h']]],
   ['maxworldstate_1334',['MaxWorldState',['../d2/d46/a08774.html#a8c144531f876b6def613c0011e0efe47',1,'GameEventFinishCondition']]],
   ['maxx_1335',['maxX',['../d3/d07/a28006.html#a10563ae885d34e516825a18db95b40e7',1,'GameObjectDisplayInfoEntry']]],
   ['maxy_1336',['maxY',['../d3/d07/a28006.html#a711286df6d2bd74246dee2170052c17a',1,'GameObjectDisplayInfoEntry']]],

@@ -93,7 +93,7 @@ var a08710 =
     [ "CalcArmorReducedDamage", "d0/d7f/a08710.html#a3dee46b283ebc2e4bcace26c01895387", null ],
     [ "CalcHealAbsorb", "d0/d7f/a08710.html#a3bb06bc22c7b60ab2fae8d7141335043", null ],
     [ "CalcSpellDuration", "d0/d7f/a08710.html#a490990b2ec18be95c613e6394e4f3f6a", null ],
-    [ "CalculateAOEDamageReduction", "d0/d7f/a08710.html#a4f7bacd5659d1e3ca130dc7cf7df7bee", null ],
+    [ "CalculateAOEDamageReduction", "d0/d7f/a08710.html#a4dd34623b1b3416bef75e3acb4a9e2c2", null ],
     [ "CalculateDamage", "d0/d7f/a08710.html#a8f8a79c63cef7a8851fb8b0fe6d2ff02", null ],
     [ "CalculateDefaultCoefficient", "d0/d7f/a08710.html#a390a9b5fdbfaa9c237f8eed33579a1aa", null ],
     [ "CalculateLevelPenalty", "d0/d7f/a08710.html#aef5138dce93695db228378f269f09cec", null ],

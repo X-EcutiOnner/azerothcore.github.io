@@ -195,14 +195,14 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 8984</span>                                                                          : <a class="code hl_variable" href="../../d2/df7/a11086.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>(caster), <a class="code hl_variable" href="../../d2/df7/a11086.html#a1a24eaafdf716de984a5943e049d10f7">_referer</a>(referer), <a class="code hl_variable" href="../../d2/df7/a11086.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>(spellInfo),</div>
-<div class="line"><span class="lineno"> 8985</span>        <a class="code hl_variable" href="../../d2/df7/a11086.html#a0e629a6fd0da179ea0c98c93d2337603">_targetSelectionType</a>(selectionType), <a class="code hl_variable" href="../../d2/df7/a11086.html#a70b9331b5871e2e4d92d642715c8192a">_condList</a>(condList)</div>
-<div class="line"><span class="lineno"> 8986</span>    {</div>
-<div class="line"><span class="lineno"> 8987</span>        <span class="keywordflow">if</span> (condList)</div>
-<div class="line"><span class="lineno"> 8988</span>            <a class="code hl_variable" href="../../d2/df7/a11086.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a> = <span class="keyword">new</span> <a class="code hl_struct" href="../../d5/d6c/a07826.html">ConditionSourceInfo</a>(<span class="keyword">nullptr</span>, caster);</div>
-<div class="line"><span class="lineno"> 8989</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 8990</span>            <a class="code hl_variable" href="../../d2/df7/a11086.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno"> 8991</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 8985</span>                                                                          : <a class="code hl_variable" href="../../d2/df7/a11086.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>(caster), <a class="code hl_variable" href="../../d2/df7/a11086.html#a1a24eaafdf716de984a5943e049d10f7">_referer</a>(referer), <a class="code hl_variable" href="../../d2/df7/a11086.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>(spellInfo),</div>
+<div class="line"><span class="lineno"> 8986</span>        <a class="code hl_variable" href="../../d2/df7/a11086.html#a0e629a6fd0da179ea0c98c93d2337603">_targetSelectionType</a>(selectionType), <a class="code hl_variable" href="../../d2/df7/a11086.html#a70b9331b5871e2e4d92d642715c8192a">_condList</a>(condList)</div>
+<div class="line"><span class="lineno"> 8987</span>    {</div>
+<div class="line"><span class="lineno"> 8988</span>        <span class="keywordflow">if</span> (condList)</div>
+<div class="line"><span class="lineno"> 8989</span>            <a class="code hl_variable" href="../../d2/df7/a11086.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a> = <span class="keyword">new</span> <a class="code hl_struct" href="../../d5/d6c/a07826.html">ConditionSourceInfo</a>(<span class="keyword">nullptr</span>, caster);</div>
+<div class="line"><span class="lineno"> 8990</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 8991</span>            <a class="code hl_variable" href="../../d2/df7/a11086.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno"> 8992</span>    }</div>
 <div class="ttc" id="aa07826_html"><div class="ttname"><a href="../../d5/d6c/a07826.html">ConditionSourceInfo</a></div><div class="ttdef"><b>Definition:</b> ConditionMgr.h:182</div></div>
 <div class="ttc" id="aa11086_html_a0e629a6fd0da179ea0c98c93d2337603"><div class="ttname"><a href="../../d2/df7/a11086.html#a0e629a6fd0da179ea0c98c93d2337603">Acore::WorldObjectSpellTargetCheck::_targetSelectionType</a></div><div class="ttdeci">SpellTargetCheckTypes _targetSelectionType</div><div class="ttdef"><b>Definition:</b> Spell.h:795</div></div>
 <div class="ttc" id="aa11086_html_a1a24eaafdf716de984a5943e049d10f7"><div class="ttname"><a href="../../d2/df7/a11086.html#a1a24eaafdf716de984a5943e049d10f7">Acore::WorldObjectSpellTargetCheck::_referer</a></div><div class="ttdeci">Unit * _referer</div><div class="ttdef"><b>Definition:</b> Spell.h:793</div></div>
@@ -229,10 +229,10 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 8994</span>    {</div>
-<div class="line"><span class="lineno"> 8995</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/df7/a11086.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a>)</div>
-<div class="line"><span class="lineno"> 8996</span>            <span class="keyword">delete</span> <a class="code hl_variable" href="../../d2/df7/a11086.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a>;</div>
-<div class="line"><span class="lineno"> 8997</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 8995</span>    {</div>
+<div class="line"><span class="lineno"> 8996</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/df7/a11086.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a>)</div>
+<div class="line"><span class="lineno"> 8997</span>            <span class="keyword">delete</span> <a class="code hl_variable" href="../../d2/df7/a11086.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a>;</div>
+<div class="line"><span class="lineno"> 8998</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00796">_condSrcInfo</a>.</p>
 
@@ -254,67 +254,67 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9000</span>    {</div>
-<div class="line"><span class="lineno"> 9001</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/df7/a11086.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>-&gt;<a class="code hl_function" href="../../d3/d4b/a11134.html#acecc64b4ea8cbc67475fa17bfd393c39">CheckTarget</a>(<a class="code hl_variable" href="../../d2/df7/a11086.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>, target, <span class="keyword">true</span>) != <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>)</div>
-<div class="line"><span class="lineno"> 9002</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9003</span>        <a class="code hl_class" href="../../d0/d7f/a08710.html">Unit</a>* unitTarget = target-&gt;<a class="code hl_function" href="../../db/d14/a08330.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>();</div>
-<div class="line"><span class="lineno"> 9004</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d8/de1/a07954.html">Corpse</a>* corpseTarget = target-&gt;<a class="code hl_function" href="../../db/d14/a08330.html#a08e7f00f2af14976d7b9c0da6d6f6bd0">ToCorpse</a>())</div>
-<div class="line"><span class="lineno"> 9005</span>        {</div>
-<div class="line"><span class="lineno"> 9006</span>            <span class="comment">// use ofter for party/assistance checks</span></div>
-<div class="line"><span class="lineno"> 9007</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d54/a08578.html">Player</a>* owner = <a class="code hl_function" href="../../dd/df4/a04800.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a>(corpseTarget-&gt;GetOwnerGUID()))</div>
-<div class="line"><span class="lineno"> 9008</span>                unitTarget = owner;</div>
-<div class="line"><span class="lineno"> 9009</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 9010</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9011</span>        }</div>
-<div class="line"><span class="lineno"> 9012</span>        <span class="keywordflow">if</span> (unitTarget)</div>
-<div class="line"><span class="lineno"> 9013</span>        {</div>
-<div class="line"><span class="lineno"> 9014</span>            <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d2/df7/a11086.html#a0e629a6fd0da179ea0c98c93d2337603">_targetSelectionType</a>)</div>
-<div class="line"><span class="lineno"> 9015</span>            {</div>
-<div class="line"><span class="lineno"> 9016</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a392c69714f880d43f8afb5510ba1fff7a5e4199169c7f748b7f0d10d9f5f1ff67">TARGET_CHECK_ENEMY</a>:</div>
-<div class="line"><span class="lineno"> 9017</span>                    <span class="keywordflow">if</span> (unitTarget-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>())</div>
-<div class="line"><span class="lineno"> 9018</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9019</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df7/a11086.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#afc27b06cec2419179037868f89114d82">_IsValidAttackTarget</a>(unitTarget, <a class="code hl_variable" href="../../d2/df7/a11086.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>))</div>
-<div class="line"><span class="lineno"> 9020</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9021</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 9022</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a392c69714f880d43f8afb5510ba1fff7aeefbf611727aa2696ebadd943c293cdd">TARGET_CHECK_ALLY</a>:</div>
-<div class="line"><span class="lineno"> 9023</span>                    <span class="keywordflow">if</span> (unitTarget-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>())</div>
-<div class="line"><span class="lineno"> 9024</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9025</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df7/a11086.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#a063342b925eb0e652cd08bb349dd26fc">_IsValidAssistTarget</a>(unitTarget, <a class="code hl_variable" href="../../d2/df7/a11086.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>))</div>
-<div class="line"><span class="lineno"> 9026</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9027</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 9028</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a392c69714f880d43f8afb5510ba1fff7a21d39e4788e52ea08975265a2327f67c">TARGET_CHECK_PARTY</a>:</div>
-<div class="line"><span class="lineno"> 9029</span>                    <span class="keywordflow">if</span> (unitTarget-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>())</div>
-<div class="line"><span class="lineno"> 9030</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9031</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df7/a11086.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#a063342b925eb0e652cd08bb349dd26fc">_IsValidAssistTarget</a>(unitTarget, <a class="code hl_variable" href="../../d2/df7/a11086.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>))</div>
-<div class="line"><span class="lineno"> 9032</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9033</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df7/a11086.html#a1a24eaafdf716de984a5943e049d10f7">_referer</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aefb32cb21b4b745ed8fd3cc49644e5d7">IsInPartyWith</a>(unitTarget))</div>
-<div class="line"><span class="lineno"> 9034</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9035</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 9036</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a392c69714f880d43f8afb5510ba1fff7ac79ac0ccce5e22509ba327a9cacbe950">TARGET_CHECK_RAID_CLASS</a>:</div>
-<div class="line"><span class="lineno"> 9037</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/df7/a11086.html#a1a24eaafdf716de984a5943e049d10f7">_referer</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#a58a507ebe628930b8a506144b364d84b">getClass</a>() != unitTarget-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#a58a507ebe628930b8a506144b364d84b">getClass</a>())</div>
-<div class="line"><span class="lineno"> 9038</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9039</span>                    [[fallthrough]];</div>
-<div class="line"><span class="lineno"> 9040</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a392c69714f880d43f8afb5510ba1fff7afc1664906665ba50e82fed0e228a5b26">TARGET_CHECK_RAID</a>:</div>
-<div class="line"><span class="lineno"> 9041</span>                    <span class="keywordflow">if</span> (unitTarget-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>())</div>
-<div class="line"><span class="lineno"> 9042</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9043</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df7/a11086.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#a063342b925eb0e652cd08bb349dd26fc">_IsValidAssistTarget</a>(unitTarget, <a class="code hl_variable" href="../../d2/df7/a11086.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>))</div>
-<div class="line"><span class="lineno"> 9044</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9045</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df7/a11086.html#a1a24eaafdf716de984a5943e049d10f7">_referer</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aba37c290cf4f3e5dbeb170714eb711b1">IsInRaidWith</a>(unitTarget))</div>
-<div class="line"><span class="lineno"> 9046</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9047</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 9048</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a392c69714f880d43f8afb5510ba1fff7a0285d6243f47bbae99d2f997c80c60f3">TARGET_CHECK_CORPSE</a>:</div>
-<div class="line"><span class="lineno"> 9049</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/df7/a11086.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#abdfe022523c40277d917754f75edb722">IsFriendlyTo</a>(unitTarget))</div>
-<div class="line"><span class="lineno"> 9050</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9051</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 9052</span>                <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno"> 9053</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 9054</span>            }</div>
-<div class="line"><span class="lineno"> 9055</span>        }</div>
-<div class="line"><span class="lineno"> 9056</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df7/a11086.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a>)</div>
-<div class="line"><span class="lineno"> 9057</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 9058</span>        <a class="code hl_variable" href="../../d2/df7/a11086.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a>-&gt;<a class="code hl_variable" href="../../d5/d6c/a07826.html#acb67deba44021698a447e8288bca0bd4">mConditionTargets</a>[0] = target;</div>
-<div class="line"><span class="lineno"> 9059</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../d2/d41/a01037.html#a5ab0412c3dc24dbd690ba6d7f01657f8">sConditionMgr</a>-&gt;IsObjectMeetToConditions(*<a class="code hl_variable" href="../../d2/df7/a11086.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a>, *<a class="code hl_variable" href="../../d2/df7/a11086.html#a70b9331b5871e2e4d92d642715c8192a">_condList</a>);</div>
-<div class="line"><span class="lineno"> 9060</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 9001</span>    {</div>
+<div class="line"><span class="lineno"> 9002</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/df7/a11086.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>-&gt;<a class="code hl_function" href="../../d3/d4b/a11134.html#acecc64b4ea8cbc67475fa17bfd393c39">CheckTarget</a>(<a class="code hl_variable" href="../../d2/df7/a11086.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>, target, <span class="keyword">true</span>) != <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>)</div>
+<div class="line"><span class="lineno"> 9003</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9004</span>        <a class="code hl_class" href="../../d0/d7f/a08710.html">Unit</a>* unitTarget = target-&gt;<a class="code hl_function" href="../../db/d14/a08330.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>();</div>
+<div class="line"><span class="lineno"> 9005</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d8/de1/a07954.html">Corpse</a>* corpseTarget = target-&gt;<a class="code hl_function" href="../../db/d14/a08330.html#a08e7f00f2af14976d7b9c0da6d6f6bd0">ToCorpse</a>())</div>
+<div class="line"><span class="lineno"> 9006</span>        {</div>
+<div class="line"><span class="lineno"> 9007</span>            <span class="comment">// use ofter for party/assistance checks</span></div>
+<div class="line"><span class="lineno"> 9008</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d54/a08578.html">Player</a>* owner = <a class="code hl_function" href="../../dd/df4/a04800.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a>(corpseTarget-&gt;GetOwnerGUID()))</div>
+<div class="line"><span class="lineno"> 9009</span>                unitTarget = owner;</div>
+<div class="line"><span class="lineno"> 9010</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 9011</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9012</span>        }</div>
+<div class="line"><span class="lineno"> 9013</span>        <span class="keywordflow">if</span> (unitTarget)</div>
+<div class="line"><span class="lineno"> 9014</span>        {</div>
+<div class="line"><span class="lineno"> 9015</span>            <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d2/df7/a11086.html#a0e629a6fd0da179ea0c98c93d2337603">_targetSelectionType</a>)</div>
+<div class="line"><span class="lineno"> 9016</span>            {</div>
+<div class="line"><span class="lineno"> 9017</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a392c69714f880d43f8afb5510ba1fff7a5e4199169c7f748b7f0d10d9f5f1ff67">TARGET_CHECK_ENEMY</a>:</div>
+<div class="line"><span class="lineno"> 9018</span>                    <span class="keywordflow">if</span> (unitTarget-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>())</div>
+<div class="line"><span class="lineno"> 9019</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9020</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df7/a11086.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#afc27b06cec2419179037868f89114d82">_IsValidAttackTarget</a>(unitTarget, <a class="code hl_variable" href="../../d2/df7/a11086.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>))</div>
+<div class="line"><span class="lineno"> 9021</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9022</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 9023</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a392c69714f880d43f8afb5510ba1fff7aeefbf611727aa2696ebadd943c293cdd">TARGET_CHECK_ALLY</a>:</div>
+<div class="line"><span class="lineno"> 9024</span>                    <span class="keywordflow">if</span> (unitTarget-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>())</div>
+<div class="line"><span class="lineno"> 9025</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9026</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df7/a11086.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#a063342b925eb0e652cd08bb349dd26fc">_IsValidAssistTarget</a>(unitTarget, <a class="code hl_variable" href="../../d2/df7/a11086.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>))</div>
+<div class="line"><span class="lineno"> 9027</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9028</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 9029</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a392c69714f880d43f8afb5510ba1fff7a21d39e4788e52ea08975265a2327f67c">TARGET_CHECK_PARTY</a>:</div>
+<div class="line"><span class="lineno"> 9030</span>                    <span class="keywordflow">if</span> (unitTarget-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>())</div>
+<div class="line"><span class="lineno"> 9031</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9032</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df7/a11086.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#a063342b925eb0e652cd08bb349dd26fc">_IsValidAssistTarget</a>(unitTarget, <a class="code hl_variable" href="../../d2/df7/a11086.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>))</div>
+<div class="line"><span class="lineno"> 9033</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9034</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df7/a11086.html#a1a24eaafdf716de984a5943e049d10f7">_referer</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aefb32cb21b4b745ed8fd3cc49644e5d7">IsInPartyWith</a>(unitTarget))</div>
+<div class="line"><span class="lineno"> 9035</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9036</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 9037</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a392c69714f880d43f8afb5510ba1fff7ac79ac0ccce5e22509ba327a9cacbe950">TARGET_CHECK_RAID_CLASS</a>:</div>
+<div class="line"><span class="lineno"> 9038</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/df7/a11086.html#a1a24eaafdf716de984a5943e049d10f7">_referer</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#a58a507ebe628930b8a506144b364d84b">getClass</a>() != unitTarget-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#a58a507ebe628930b8a506144b364d84b">getClass</a>())</div>
+<div class="line"><span class="lineno"> 9039</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9040</span>                    [[fallthrough]];</div>
+<div class="line"><span class="lineno"> 9041</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a392c69714f880d43f8afb5510ba1fff7afc1664906665ba50e82fed0e228a5b26">TARGET_CHECK_RAID</a>:</div>
+<div class="line"><span class="lineno"> 9042</span>                    <span class="keywordflow">if</span> (unitTarget-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>())</div>
+<div class="line"><span class="lineno"> 9043</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9044</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df7/a11086.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#a063342b925eb0e652cd08bb349dd26fc">_IsValidAssistTarget</a>(unitTarget, <a class="code hl_variable" href="../../d2/df7/a11086.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>))</div>
+<div class="line"><span class="lineno"> 9045</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9046</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df7/a11086.html#a1a24eaafdf716de984a5943e049d10f7">_referer</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aba37c290cf4f3e5dbeb170714eb711b1">IsInRaidWith</a>(unitTarget))</div>
+<div class="line"><span class="lineno"> 9047</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9048</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 9049</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a392c69714f880d43f8afb5510ba1fff7a0285d6243f47bbae99d2f997c80c60f3">TARGET_CHECK_CORPSE</a>:</div>
+<div class="line"><span class="lineno"> 9050</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/df7/a11086.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#abdfe022523c40277d917754f75edb722">IsFriendlyTo</a>(unitTarget))</div>
+<div class="line"><span class="lineno"> 9051</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9052</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 9053</span>                <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno"> 9054</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 9055</span>            }</div>
+<div class="line"><span class="lineno"> 9056</span>        }</div>
+<div class="line"><span class="lineno"> 9057</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df7/a11086.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a>)</div>
+<div class="line"><span class="lineno"> 9058</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 9059</span>        <a class="code hl_variable" href="../../d2/df7/a11086.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a>-&gt;<a class="code hl_variable" href="../../d5/d6c/a07826.html#acb67deba44021698a447e8288bca0bd4">mConditionTargets</a>[0] = target;</div>
+<div class="line"><span class="lineno"> 9060</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../d2/d41/a01037.html#a5ab0412c3dc24dbd690ba6d7f01657f8">sConditionMgr</a>-&gt;IsObjectMeetToConditions(*<a class="code hl_variable" href="../../d2/df7/a11086.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a>, *<a class="code hl_variable" href="../../d2/df7/a11086.html#a70b9331b5871e2e4d92d642715c8192a">_condList</a>);</div>
+<div class="line"><span class="lineno"> 9061</span>    }</div>
 <div class="ttc" id="aa01037_html_a5ab0412c3dc24dbd690ba6d7f01657f8"><div class="ttname"><a href="../../d2/d41/a01037.html#a5ab0412c3dc24dbd690ba6d7f01657f8">sConditionMgr</a></div><div class="ttdeci">#define sConditionMgr</div><div class="ttdef"><b>Definition:</b> ConditionMgr.h:290</div></div>
 <div class="ttc" id="aa02366_html_a392c69714f880d43f8afb5510ba1fff7a0285d6243f47bbae99d2f997c80c60f3"><div class="ttname"><a href="../../d9/d4f/a02366.html#a392c69714f880d43f8afb5510ba1fff7a0285d6243f47bbae99d2f997c80c60f3">TARGET_CHECK_CORPSE</a></div><div class="ttdeci">@ TARGET_CHECK_CORPSE</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:122</div></div>
 <div class="ttc" id="aa02366_html_a392c69714f880d43f8afb5510ba1fff7a21d39e4788e52ea08975265a2327f67c"><div class="ttname"><a href="../../d9/d4f/a02366.html#a392c69714f880d43f8afb5510ba1fff7a21d39e4788e52ea08975265a2327f67c">TARGET_CHECK_PARTY</a></div><div class="ttdeci">@ TARGET_CHECK_PARTY</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:118</div></div>
@@ -341,7 +341,7 @@ Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00792">_caster</a>, <a class="el" href="../../#l00797">_condList</a>, <a class="el" href="../../#l00796">_condSrcInfo</a>, <a class="el" href="../../#l14052">Unit::_IsValidAssistTarget()</a>, <a class="el" href="../../#l13929">Unit::_IsValidAttackTarget()</a>, <a class="el" href="../../#l00793">_referer</a>, <a class="el" href="../../#l00794">_spellInfo</a>, <a class="el" href="../../#l00795">_targetSelectionType</a>, <a class="el" href="../../#l01759">SpellInfo::CheckTarget()</a>, <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00809">Unit::getClass()</a>, <a class="el" href="../../#l10282">Unit::IsFriendlyTo()</a>, <a class="el" href="../../#l18826">Unit::IsInPartyWith()</a>, <a class="el" href="../../#l18849">Unit::IsInRaidWith()</a>, <a class="el" href="../../#l00765">Unit::IsTotem()</a>, <a class="el" href="../../#l00183">ConditionSourceInfo::mConditionTargets</a>, <a class="el" href="../../#l00290">sConditionMgr</a>, <a class="el" href="../../#l01138">SPELL_CAST_OK</a>, <a class="el" href="../../#l00117">TARGET_CHECK_ALLY</a>, <a class="el" href="../../#l00122">TARGET_CHECK_CORPSE</a>, <a class="el" href="../../#l00116">TARGET_CHECK_ENEMY</a>, <a class="el" href="../../#l00118">TARGET_CHECK_PARTY</a>, <a class="el" href="../../#l00119">TARGET_CHECK_RAID</a>, <a class="el" href="../../#l00120">TARGET_CHECK_RAID_CLASS</a>, <a class="el" href="../../#l00217">Object::ToCorpse()</a>, and <a class="el" href="../../#l00209">Object::ToUnit()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l09085">Acore::WorldObjectSpellAreaTargetCheck::operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09086">Acore::WorldObjectSpellAreaTargetCheck::operator()()</a>.</p>
 
 </div>
 </div>
@@ -358,7 +358,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l08999">operator()()</a>, <a class="el" href="../../#l09105">Acore::WorldObjectSpellConeTargetCheck::operator()()</a>, and <a class="el" href="../../#l09131">Acore::WorldObjectSpellTrajTargetCheck::operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09000">operator()()</a>, <a class="el" href="../../#l09106">Acore::WorldObjectSpellConeTargetCheck::operator()()</a>, and <a class="el" href="../../#l09132">Acore::WorldObjectSpellTrajTargetCheck::operator()()</a>.</p>
 
 </div>
 </div>
@@ -374,7 +374,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l08999">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09000">operator()()</a>.</p>
 
 </div>
 </div>
@@ -390,7 +390,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l08999">operator()()</a>, <a class="el" href="../../#l08983">WorldObjectSpellTargetCheck()</a>, and <a class="el" href="../../#l08993">~WorldObjectSpellTargetCheck()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09000">operator()()</a>, <a class="el" href="../../#l08984">WorldObjectSpellTargetCheck()</a>, and <a class="el" href="../../#l08994">~WorldObjectSpellTargetCheck()</a>.</p>
 
 </div>
 </div>
@@ -406,7 +406,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l08999">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09000">operator()()</a>.</p>
 
 </div>
 </div>
@@ -422,7 +422,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l08999">operator()()</a>, and <a class="el" href="../../#l09105">Acore::WorldObjectSpellConeTargetCheck::operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09000">operator()()</a>, and <a class="el" href="../../#l09106">Acore::WorldObjectSpellConeTargetCheck::operator()()</a>.</p>
 
 </div>
 </div>
@@ -438,7 +438,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l08999">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09000">operator()()</a>.</p>
 
 </div>
 </div>
@@ -448,7 +448,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d0e/a04752.html">Acore</a></li><li class="navelem"><a class="el" href="../../d2/df7/a11086.html">WorldObjectSpellTargetCheck</a></li>
-    <li class="footer">Generated on Mon Mar 24 2025 20:45:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Mar 31 2025 20:46:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

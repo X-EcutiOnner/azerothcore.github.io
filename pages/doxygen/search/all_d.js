@@ -1903,7 +1903,7 @@ var searchData=
   ['maxtolerance_1900',['MaxTolerance',['../d8/de7/a09878.html#a7909b18028d43c84eca5feee3e41469c',1,'ChaseRange']]],
   ['maxvalue_1901',['MaxValue',['../db/d29/a10750.html#a3f26c682d547be40d2800eff2189348d',1,'WorldPackets::Misc::StartMirrorTimer::MaxValue()'],['../d9/d1c/a07730.html#a6c48d3a6afddf895b97ec9b964dfd86c',1,'Acore::Hyperlinks::TradeskillLinkData::MaxValue()']]],
   ['maxvalue_1902',['maxvalue',['../d4/d8b/a11178.html#a1dd2289b0d3505cb50e8613595ad8c8e',1,'SpellLearnSkillNode']]],
-  ['maxvehnumworldstate_1903',['MaxVehNumWorldState',['../d2/da6/a02339.html#a519c7fd514e53f3bb4399f9cba62ed2c',1,'BattlefieldWG.h']]],
+  ['maxvehnumworldstate_1903',['MaxVehNumWorldState',['../d2/da6/a02339.html#a5aafb12f33e8c781f7386149a8a9128f',1,'BattlefieldWG.h']]],
   ['maxworldstate_1904',['MaxWorldState',['../d2/d46/a08774.html#a8c144531f876b6def613c0011e0efe47',1,'GameEventFinishCondition']]],
   ['maxx_1905',['maxX',['../d3/d07/a28006.html#a10563ae885d34e516825a18db95b40e7',1,'GameObjectDisplayInfoEntry']]],
   ['maxxamillion_1906',['MaxxAMillion',['../d7/df7/a04493.html#a58daffec60949e9530b1008476648a78',1,'zone_netherstorm.cpp']]],

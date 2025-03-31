@@ -1428,7 +1428,7 @@ var searchData=
   ['tower_5fof_5ffrost_1425',['TOWER_OF_FROST',['../d6/dc7/a03683.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa7a1c93f2482f32a78d8a90cdff05fac',1,'boss_flame_leviathan.cpp']]],
   ['tower_5fof_5flife_1426',['TOWER_OF_LIFE',['../d6/dc7/a03683.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aaedde665526c0f23a8acd08db4fe2a27',1,'boss_flame_leviathan.cpp']]],
   ['tower_5fof_5fstorms_1427',['TOWER_OF_STORMS',['../d6/dc7/a03683.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa59f885066627001dc12a3e5faab953f',1,'boss_flame_leviathan.cpp']]],
-  ['towercannon_1428',['TowerCannon',['../d2/da6/a02339.html#a76a310054577cdafad734da8542bff7f',1,'BattlefieldWG.h']]],
+  ['towercannon_1428',['TowerCannon',['../d2/da6/a02339.html#a4b7bc4f6aebe44f1b806b7084e08c54a',1,'BattlefieldWG.h']]],
   ['towercannonbottom_1429',['TowerCannonBottom',['../d1/d40/a07158.html#a21fa09356b3349bf45865aa3f0920268',1,'WintergraspTowerCannonData']]],
   ['towerentry_1430',['towerEntry',['../d1/d40/a07158.html#a37e171a06a6e7bf5c0832417c597c2e1',1,'WintergraspTowerCannonData::towerEntry()'],['../d1/d77/a07154.html#a1c0edf97a599773b688954f2e966e794',1,'WintergraspTowerData::towerEntry()']]],
   ['towersassaulted_1431',['TowersAssaulted',['../d5/d6f/a07322.html#a28b8aa5df57cea0b481edc5a0b8c490e',1,'BattlegroundAVScore']]],

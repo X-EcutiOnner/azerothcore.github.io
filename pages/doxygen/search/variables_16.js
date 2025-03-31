@@ -47,7 +47,7 @@ var searchData=
   ['vehicleseatentryfmt_44',['VehicleSeatEntryfmt',['../d2/d35/a02468.html#add18020ae04f21f15e709f54fb24ce7e',1,'DBCfmt.h']]],
   ['vehicleslist_45',['vehiclesList',['../d3/dbd/a03575.html#a0b39861952afe6495d6d3a53c2c96ffe',1,'zone_wintergrasp.cpp']]],
   ['vehiclespellconditionstore_46',['VehicleSpellConditionStore',['../d4/d8e/a07834.html#a7f3d98f12e4a939ea3d25123b2d2d2e1',1,'ConditionMgr']]],
-  ['vehnumworldstate_47',['VehNumWorldState',['../d2/da6/a02339.html#aeb703832575e3497f84adeb2387241d6',1,'BattlefieldWG.h']]],
+  ['vehnumworldstate_47',['VehNumWorldState',['../d2/da6/a02339.html#a1632ab800297621fdeabb462c1a206d3',1,'BattlefieldWG.h']]],
   ['veklororientationintro_48',['veklorOrientationIntro',['../dc/d5e/a02891.html#a4b4e073b11b562dca54712d381c284fa',1,'boss_twinemperors.cpp']]],
   ['veknilashorientationintro_49',['veknilashOrientationIntro',['../dc/d5e/a02891.html#a74fcc9d77216554d31706b93ba8d241a',1,'boss_twinemperors.cpp']]],
   ['velocity_50',['velocity',['../dc/d25/a10046.html#af042454593bfd4dc888c1700af437933',1,'Movement::MoveSplineInitArgs']]],

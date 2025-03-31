@@ -187,7 +187,7 @@ var searchData=
   ['vehiclespellconditionstore_184',['VehicleSpellConditionStore',['../d4/d8e/a07834.html#a7f3d98f12e4a939ea3d25123b2d2d2e1',1,'ConditionMgr']]],
   ['vehiclespellinitialize_185',['VehicleSpellInitialize',['../d2/d54/a08578.html#ad46f720cf4699c8a2a9f4e0b2fad33b5',1,'Player']]],
   ['vehiclespells_186',['VehicleSpells',['../d6/dae/a01304.html#a5829b6d4bd25b5c2a56495142fa8ca54',1,'VehicleDefines.h']]],
-  ['vehnumworldstate_187',['VehNumWorldState',['../d2/da6/a02339.html#aeb703832575e3497f84adeb2387241d6',1,'BattlefieldWG.h']]],
+  ['vehnumworldstate_187',['VehNumWorldState',['../d2/da6/a02339.html#a1632ab800297621fdeabb462c1a206d3',1,'BattlefieldWG.h']]],
   ['vekjik_188',['Vekjik',['../d9/d85/a04034.html#a95d60f745e1a73b30a64e903ba806f45',1,'zone_sholazar_basin.cpp']]],
   ['veklororientationintro_189',['veklorOrientationIntro',['../dc/d5e/a02891.html#a4b4e073b11b562dca54712d381c284fa',1,'boss_twinemperors.cpp']]],
   ['veknilashorientationintro_190',['veknilashOrientationIntro',['../dc/d5e/a02891.html#a74fcc9d77216554d31706b93ba8d241a',1,'boss_twinemperors.cpp']]],
