@@ -1,6 +1,5 @@
 var a19914 =
 [
-    [ "boss_freya_elder_stonebarkAI", "dd/de5/a19918.html", "dd/de5/a19918" ],
-    [ "boss_freya_elder_stonebark", "d6/d63/a19914.html#a9c90c504d78456580ae657a42fac4075", null ],
-    [ "GetAI", "d6/d63/a19914.html#a0b529bb8755c56046c40b620ef4b7448", null ]
+    [ "achievement_flame_leviathan_unbroken", "d6/d63/a19914.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
+    [ "OnCheck", "d6/d63/a19914.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
 ];

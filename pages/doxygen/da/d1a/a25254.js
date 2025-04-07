@@ -1,6 +1,9 @@
 var a25254 =
 [
-    [ "PrepareAuraScript", "da/d1a/a25254.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "da/d1a/a25254.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "da/d1a/a25254.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "spell_gen_translocate", "da/d1a/a25254.html#a56a3df0eba3e1521aa2898194c39e919", null ],
+    [ "HandleScript", "da/d1a/a25254.html#a67684fb76da60fdc13dbece055dae157", null ],
+    [ "PrepareSpellScript", "da/d1a/a25254.html#a6f0986e54ad410c2f42a7935645485ed", null ],
+    [ "Register", "da/d1a/a25254.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
+    [ "Validate", "da/d1a/a25254.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
+    [ "_spellId", "da/d1a/a25254.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
 ];

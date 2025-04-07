@@ -1,5 +1,5 @@
 var a20394 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_12", "db/d91/a20394.html#adc7f5769894c59710fa70604878b1e2c", null ],
-    [ "OnCheck", "db/d91/a20394.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
+    [ "npc_ulduar_rocket_strike_triggerAI", "db/d91/a20394.html#a6308129d11989dadf0a5948c4a268e4b", null ],
+    [ "SpellHitTarget", "db/d91/a20394.html#a3c254e16f62e7d2414d81062c91c2468", null ]
 ];

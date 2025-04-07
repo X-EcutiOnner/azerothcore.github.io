@@ -1,7 +1,6 @@
 var a22590 =
 [
-    [ "HandleProc", "df/d5f/a22590.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
-    [ "PrepareAuraScript", "df/d5f/a22590.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
-    [ "Register", "df/d5f/a22590.html#a6b764182501a1d192f90dc20bbd6549e", null ],
-    [ "Validate", "df/d5f/a22590.html#ad89123425cca5bd02a18526a11595a1a", null ]
+    [ "PrepareSpellScript", "df/d5f/a22590.html#abd6b61e7efbed1427b7603640ac7d474", null ],
+    [ "RecalculateDamage", "df/d5f/a22590.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
+    [ "Register", "df/d5f/a22590.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
 ];

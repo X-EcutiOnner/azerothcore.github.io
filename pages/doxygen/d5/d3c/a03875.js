@@ -1,11 +1,11 @@
 var a03875 =
 [
-    [ "boss_black_knight", "da/d28/a16130.html", "da/d28/a16130" ],
-    [ "boss_black_knight::boss_black_knightAI", "d6/d36/a16134.html", "d6/d36/a16134" ],
-    [ "npc_black_knight_skeletal_gryphon", "d6/d5e/a16138.html", "d6/d5e/a16138" ],
-    [ "npc_black_knight_skeletal_gryphon::npc_black_knight_skeletal_gryphonAI", "d8/dac/a16142.html", "d8/dac/a16142" ],
-    [ "npc_black_knight_ghoul", "d4/d27/a16146.html", "d4/d27/a16146" ],
-    [ "npc_black_knight_ghoul::npc_black_knight_ghoulAI", "d4/d00/a16150.html", "d4/d00/a16150" ],
+    [ "boss_black_knight", "d8/dac/a16142.html", "d8/dac/a16142" ],
+    [ "boss_black_knight::boss_black_knightAI", "d4/d27/a16146.html", "d4/d27/a16146" ],
+    [ "npc_black_knight_skeletal_gryphon", "d4/d00/a16150.html", "d4/d00/a16150" ],
+    [ "npc_black_knight_skeletal_gryphon::npc_black_knight_skeletal_gryphonAI", "d8/df3/a16154.html", "d8/df3/a16154" ],
+    [ "npc_black_knight_ghoul", "df/d0b/a16158.html", "df/d0b/a16158" ],
+    [ "npc_black_knight_ghoul::npc_black_knight_ghoulAI", "d0/d1f/a16162.html", "d0/d1f/a16162" ],
     [ "SPELL_ARMY_DEAD", "d5/d3c/a03875.html#a7a28963c649df5aa6af6ad40c5d91fdf", null ],
     [ "SPELL_DEATH_BITE", "d5/d3c/a03875.html#af3538dccbf2277d8aa22673086c46c27", null ],
     [ "SPELL_DEATH_RESPITE", "d5/d3c/a03875.html#a1f2fb442cd7b62bd2617eb1c22397bcc", null ],

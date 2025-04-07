@@ -1,14 +1,7 @@
 var a25094 =
 [
-    [ "spell_gen_mount", "db/d6c/a25094.html#aae8c5c328dda0668bf8cdabc2c9cd29f", null ],
-    [ "HandleMount", "db/d6c/a25094.html#a81085b5efd8d9bd7c82ebb1cf6604793", null ],
-    [ "PrepareSpellScript", "db/d6c/a25094.html#a49e2046d30352a6e22dab2530e909fa7", null ],
-    [ "Register", "db/d6c/a25094.html#a8175ecc0c407d5c4646f038d7b62e92b", null ],
-    [ "Validate", "db/d6c/a25094.html#accef27fc13ff34af52860ad6ac62e7f3", null ],
-    [ "_mount0", "db/d6c/a25094.html#abd6347074186b7c47ac5a2c760f4db33", null ],
-    [ "_mount100", "db/d6c/a25094.html#a5e56853140f188ff1babc61c507f8300", null ],
-    [ "_mount150", "db/d6c/a25094.html#a1237697623e4831c25efcde1ab370031", null ],
-    [ "_mount280", "db/d6c/a25094.html#aa9d0a936795d06dd78ef3c4d5aaf0320", null ],
-    [ "_mount310", "db/d6c/a25094.html#ac06b80d14cc106281c3e6bf3f6a5c727", null ],
-    [ "_mount60", "db/d6c/a25094.html#a53ce7d1b5a39cce2bede77aad647dc7e", null ]
+    [ "HandleProc", "db/d6c/a25094.html#ac88c41bcfcedd9194d9d3f958d605d37", null ],
+    [ "PrepareAuraScript", "db/d6c/a25094.html#a66c3458e88ab5802e10445df3aeb52f6", null ],
+    [ "Register", "db/d6c/a25094.html#af02b0af51a1fece0780414ab45c8d31e", null ],
+    [ "Validate", "db/d6c/a25094.html#a9f955b53e5905cfb3742a58c8bedab96", null ]
 ];

@@ -1,6 +1,7 @@
 var a21510 =
 [
-    [ "npc_leryssaAI", "de/da8/a21514.html", "de/da8/a21514" ],
-    [ "npc_leryssa", "d1/dee/a21510.html#a549bed4476f88c313e6b42c0fe1fffb8", null ],
-    [ "GetAI", "d1/dee/a21510.html#a4725831580b206d91dbd8c21a703893f", null ]
+    [ "npc_thassarianAI", "d1/dee/a21510.html#a92e873dc3aa97f81919225ce75a5f894", null ],
+    [ "Reset", "d1/dee/a21510.html#a8611ef17700c739dbd5e7a70660f1379", null ],
+    [ "UpdateAI", "d1/dee/a21510.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
+    [ "_events", "d1/dee/a21510.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
 ];

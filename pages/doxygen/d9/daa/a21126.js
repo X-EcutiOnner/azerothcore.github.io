@@ -1,6 +1,16 @@
 var a21126 =
 [
-    [ "boss_koralonAI", "d0/d10/a21130.html", "d0/d10/a21130" ],
-    [ "boss_koralon", "d9/daa/a21126.html#a43b9fb1224abeba44080fb02062451b0", null ],
-    [ "GetAI", "d9/daa/a21126.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
+    [ "boss_emalonAI", "d9/daa/a21126.html#ac87b3ea34e9781f3843321ef874321fe", null ],
+    [ "AttackStart", "d9/daa/a21126.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
+    [ "JustDied", "d9/daa/a21126.html#a79a05156b690140e955a6e850ac41e5b", null ],
+    [ "JustEngagedWith", "d9/daa/a21126.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
+    [ "JustSummoned", "d9/daa/a21126.html#a895f302d336faa0c3f93854314d3b427", null ],
+    [ "Reset", "d9/daa/a21126.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
+    [ "ResetSummons", "d9/daa/a21126.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
+    [ "SpellHitTarget", "d9/daa/a21126.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
+    [ "SummonedCreatureDies", "d9/daa/a21126.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
+    [ "UpdateAI", "d9/daa/a21126.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
+    [ "events", "d9/daa/a21126.html#a78312371e28b4be3c072dc870370b577", null ],
+    [ "pInstance", "d9/daa/a21126.html#af4cc6489905f9702999cc23fd6a920c2", null ],
+    [ "summons", "d9/daa/a21126.html#a1b6ccd418114e57a0c843cc980a56243", null ]
 ];

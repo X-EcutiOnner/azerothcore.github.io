@@ -1,5 +1,6 @@
 var a14998 =
 [
-    [ "at_cthun_center", "dc/d77/a14998.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
-    [ "OnTrigger", "dc/d77/a14998.html#af744df9577e84ab64749076324e574c9", null ]
+    [ "FilterTargets", "dc/d77/a14998.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
+    [ "PrepareSpellScript", "dc/d77/a14998.html#a511e54100036307aa5d37bc959405c73", null ],
+    [ "Register", "dc/d77/a14998.html#a31d1d590f0e6fc2e56322d606961828f", null ]
 ];

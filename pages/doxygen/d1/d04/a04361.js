@@ -1,6 +1,6 @@
 var a04361 =
 [
-    [ "boss_harbinger_skyriss", "dc/d59/a23594.html", "dc/d59/a23594" ],
+    [ "boss_harbinger_skyriss", "d9/ddd/a23606.html", "d9/ddd/a23606" ],
     [ "Misc", "d1/d04/a04361.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "db/d6c/a02969.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

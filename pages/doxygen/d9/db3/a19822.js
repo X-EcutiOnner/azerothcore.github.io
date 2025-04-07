@@ -1,6 +1,7 @@
 var a19822 =
 [
-    [ "npc_mechanoliftAI", "dd/d12/a19826.html", "dd/d12/a19826" ],
-    [ "npc_mechanolift", "d9/db3/a19822.html#a7b753a3426213706c899745a6d0d989b", null ],
-    [ "GetAI", "d9/db3/a19822.html#a823a929bf65f32cdbe9b56df5d33c66d", null ]
+    [ "npc_storm_beacon_spawnAI", "d9/db3/a19822.html#a031c1941f177a18af58efcf4a1270654", null ],
+    [ "UpdateAI", "d9/db3/a19822.html#a249bf56b905ef0c8b34c737d95518c91", null ],
+    [ "_amount", "d9/db3/a19822.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
+    [ "_checkTimer", "d9/db3/a19822.html#a7fd6d449b6a20ba9463896244c513a67", null ]
 ];

@@ -1,6 +1,8 @@
 var a13598 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d6/d95/a13602.html", "d6/d95/a13602" ],
-    [ "npc_jaina_proudmoore_bfu", "dd/d76/a13598.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "dd/d76/a13598.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "npc_varian_wrynnAI", "d6/d95/a13602.html", "d6/d95/a13602" ],
+    [ "npc_varian_wrynn", "dd/d76/a13598.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "dd/d76/a13598.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "dd/d76/a13598.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "dd/d76/a13598.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

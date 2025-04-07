@@ -1,5 +1,6 @@
 var a21914 =
 [
-    [ "npc_black_knight_graveyardAI", "d7/d67/a21914.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
-    [ "MoveInLineOfSight", "d7/d67/a21914.html#aa5c80b5759656e3865d6721161f9f005", null ]
+    [ "npc_plaguehound_trackerAI", "d7/d67/a21914.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d7/d67/a21914.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d7/d67/a21914.html#a67c345f49572cde76d9109a1baff6788", null ]
 ];

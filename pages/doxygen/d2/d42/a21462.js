@@ -1,7 +1,7 @@
 var a21462 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d2/d42/a21462.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "d2/d42/a21462.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "d2/d42/a21462.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "d2/d42/a21462.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "npc_bonker_togglevoltAI", "d1/d18/a21466.html", "d1/d18/a21466" ],
+    [ "npc_bonker_togglevolt", "d2/d42/a21462.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
+    [ "GetAI", "d2/d42/a21462.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
+    [ "OnQuestAccept", "d2/d42/a21462.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
 ];

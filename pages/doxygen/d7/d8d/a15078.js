@@ -1,6 +1,15 @@
 var a15078 =
 [
-    [ "HandleOnHit", "d7/d8d/a15078.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "d7/d8d/a15078.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "d7/d8d/a15078.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "boss_viscidus", "d7/d8d/a15078.html#a41dd3ce982a180a2ad415b559508f0ff", null ],
+    [ "CheckInRoom", "d7/d8d/a15078.html#a528a368eceb55cc7d41d615c6c1ebf15", null ],
+    [ "DamageTaken", "d7/d8d/a15078.html#adb41e6f64c1fe61cf623539353b0c959", null ],
+    [ "InitSpells", "d7/d8d/a15078.html#a24357bfc552ecb5205e50241cadb05f4", null ],
+    [ "JustEngagedWith", "d7/d8d/a15078.html#a7dfb0ba7d90697d3deac263249cfa977", null ],
+    [ "Reset", "d7/d8d/a15078.html#ac9153bd98e4c39b63547c3a9a8798d80", null ],
+    [ "SoftReset", "d7/d8d/a15078.html#ad2b4c6835ff113e4a538024f02ff968e", null ],
+    [ "SpellHit", "d7/d8d/a15078.html#a43df1ee33d5a9b4794b246ce680a6318", null ],
+    [ "SummonedCreatureDies", "d7/d8d/a15078.html#a6a52391b49ba3501a1bb5e8c55f07683", null ],
+    [ "UpdateAI", "d7/d8d/a15078.html#a1a194c161b485d2abbb862506b6c239f", null ],
+    [ "_hitcounter", "d7/d8d/a15078.html#a12ee60a91dab2f95aab6e9914351344a", null ],
+    [ "_phase", "d7/d8d/a15078.html#a321f1f96af51d3d70de0cca89512d965", null ]
 ];

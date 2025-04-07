@@ -1,6 +1,7 @@
 var a21722 =
 [
-    [ "npc_q24545_vegardAI", "d6/dde/a21726.html", "d6/dde/a21726" ],
-    [ "npc_q24545_vegard", "d6/d28/a21722.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "d6/d28/a21722.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "FilterTargets", "d6/d28/a21722.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "d6/d28/a21722.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "d6/d28/a21722.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "d6/d28/a21722.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

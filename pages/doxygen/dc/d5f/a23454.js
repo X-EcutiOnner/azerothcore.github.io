@@ -1,6 +1,6 @@
 var a23454 =
 [
-    [ "CheckProc", "dc/d5f/a23454.html#add583b34b9052fbb37c43c558f0f8b96", null ],
-    [ "PrepareAuraScript", "dc/d5f/a23454.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
-    [ "Register", "dc/d5f/a23454.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
+    [ "HandleScriptEffect", "dc/d5f/a23454.html#adf350bccc5862252f6928faa4ae3a001", null ],
+    [ "PrepareSpellScript", "dc/d5f/a23454.html#a0d1ff479da3b8f50ed698da9f9029589", null ],
+    [ "Register", "dc/d5f/a23454.html#afaf23967ede6e120caa7758ff2d3c974", null ]
 ];

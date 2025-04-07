@@ -1,7 +1,6 @@
 var a20198 =
 [
-    [ "HandleScript", "d5/d80/a20198.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "d5/d80/a20198.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "d5/d80/a20198.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "d5/d80/a20198.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "boss_ignisAI", "df/d0d/a20202.html", "df/d0d/a20202" ],
+    [ "boss_ignis", "d5/d80/a20198.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
+    [ "GetAI", "d5/d80/a20198.html#ac11ff148e9cbc985875f859268a3de01", null ]
 ];

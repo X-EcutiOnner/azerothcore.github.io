@@ -1,6 +1,6 @@
 var a16086 =
 [
-    [ "boss_eadricAI", "d0/d0c/a16090.html", "d0/d0c/a16090" ],
-    [ "boss_eadric", "de/db7/a16086.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
-    [ "GetAI", "de/db7/a16086.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "d0/d0c/a16090.html", "d0/d0c/a16090" ],
+    [ "instance_ruby_sanctum", "de/db7/a16086.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
+    [ "GetInstanceScript", "de/db7/a16086.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
 ];

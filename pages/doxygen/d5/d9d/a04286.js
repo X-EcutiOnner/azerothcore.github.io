@@ -1,8 +1,8 @@
 var a04286 =
 [
-    [ "boss_warchief_kargath_bladefist", "dd/d8e/a23546.html", "dd/d8e/a23546" ],
-    [ "npc_warchief_portal", "d6/d90/a23550.html", "d6/d90/a23550" ],
-    [ "spell_blade_dance_targeting", "d4/dcc/a23554.html", "d4/dcc/a23554" ],
+    [ "boss_warchief_kargath_bladefist", "d8/d04/a23558.html", "d8/d04/a23558" ],
+    [ "npc_warchief_portal", "d5/d49/a23562.html", "d5/d49/a23562" ],
+    [ "spell_blade_dance_targeting", "d0/d2a/a23566.html", "d0/d2a/a23566" ],
     [ "Creatures", "d5/d9d/a04286.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d8/dfb/a03122.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d8/dfb/a03122.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],

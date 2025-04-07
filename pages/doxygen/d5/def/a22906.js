@@ -1,6 +1,7 @@
 var a22906 =
 [
-    [ "HandleSchoolDamage", "d5/def/a22906.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
-    [ "PrepareSpellScript", "d5/def/a22906.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
-    [ "Register", "d5/def/a22906.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
+    [ "HandleOnHit", "d5/def/a22906.html#a9f368396cef39ba3bd70480f11c44700", null ],
+    [ "PrepareSpellScript", "d5/def/a22906.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
+    [ "Register", "d5/def/a22906.html#a99f80adcebdd9726a8df51f99d415651", null ],
+    [ "Validate", "d5/def/a22906.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
 ];

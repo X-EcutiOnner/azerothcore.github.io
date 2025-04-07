@@ -1,8 +1,7 @@
 var a23330 =
 [
-    [ "npc_underbat", "d4/ddf/a23330.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "d4/ddf/a23330.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "d4/ddf/a23330.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "d4/ddf/a23330.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "d4/ddf/a23330.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "HandleScript", "d4/ddf/a23330.html#a42052a416290a54d5479a402de578a73", null ],
+    [ "PrepareSpellScript", "d4/ddf/a23330.html#a5f6aa972879b65c0207e47435d436a33", null ],
+    [ "Register", "d4/ddf/a23330.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
+    [ "Validate", "d4/ddf/a23330.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
 ];

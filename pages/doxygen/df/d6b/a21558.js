@@ -1,6 +1,5 @@
 var a21558 =
 [
-    [ "npc_archmage_landalockAI", "d9/da4/a21562.html", "d9/da4/a21562" ],
-    [ "npc_archmage_landalock", "df/d6b/a21558.html#ac7379ff07740123312af66ead64df4c6", null ],
-    [ "GetAI", "df/d6b/a21558.html#a92cfa8c2660413681297bfe12815c938", null ]
+    [ "npc_mei_francis_mountAI", "df/d6b/a21558.html#aa9886ead02754faebff8b21eeb85dee6", null ],
+    [ "CanBeSeen", "df/d6b/a21558.html#ad5e33495339a0315bc7b01351810157e", null ]
 ];

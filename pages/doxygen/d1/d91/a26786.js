@@ -1,7 +1,6 @@
 var a26786 =
 [
-    [ "FilterTargets", "d1/d91/a26786.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
-    [ "PrepareSpellScript", "d1/d91/a26786.html#a954f00317eab544dd57e657368aab7fb", null ],
-    [ "Register", "d1/d91/a26786.html#a1804684c8685372faf2e88e56b48f5be", null ],
-    [ "Validate", "d1/d91/a26786.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
+    [ "PrepareSpellScript", "d1/d91/a26786.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
+    [ "Register", "d1/d91/a26786.html#a81bc86c83ffc70602410912870e61700", null ],
+    [ "VictoryRushHit", "d1/d91/a26786.html#a89387a25e67af1d47ef7f5b95344ccb0", null ]
 ];

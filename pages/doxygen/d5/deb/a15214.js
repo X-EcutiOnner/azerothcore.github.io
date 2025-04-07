@@ -1,6 +1,5 @@
 var a15214 =
 [
-    [ "npc_stillpine_capitiveAI", "d4/d27/a15218.html", "d4/d27/a15218" ],
-    [ "npc_stillpine_capitive", "d5/deb/a15214.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
-    [ "GetAI", "d5/deb/a15214.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
+    [ "go_ravager_cage", "d5/deb/a15214.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "d5/deb/a15214.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

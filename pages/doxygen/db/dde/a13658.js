@@ -1,6 +1,7 @@
 var a13658 =
 [
-    [ "npc_tapoke_slim_jahnAI", "df/dc8/a13662.html", "df/dc8/a13662" ],
-    [ "npc_tapoke_slim_jahn", "db/dde/a13658.html#a61e36b57f8ba78c371d454efb1512579", null ],
-    [ "GetAI", "db/dde/a13658.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
+    [ "npc_daphne_stilwellAI", "df/dc8/a13662.html", "df/dc8/a13662" ],
+    [ "npc_daphne_stilwell", "db/dde/a13658.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "db/dde/a13658.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "db/dde/a13658.html#ad7b293efc802506a825f202e34cb0f4d", null ]
 ];

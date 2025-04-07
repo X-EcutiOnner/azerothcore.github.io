@@ -1,8 +1,8 @@
 var a02678 =
 [
-    [ "boss_buru", "dc/d7b/a14846.html", "dc/d7b/a14846" ],
-    [ "npc_buru_egg", "d5/d3a/a14850.html", "d5/d3a/a14850" ],
-    [ "spell_egg_explosion", "d5/d25/a14854.html", "d5/d25/a14854" ],
+    [ "boss_buru", "d7/d05/a14858.html", "d7/d05/a14858" ],
+    [ "npc_buru_egg", "d0/d77/a14862.html", "d0/d77/a14862" ],
+    [ "spell_egg_explosion", "d6/db4/a14866.html", "d6/db4/a14866" ],
     [ "Emotes", "dc/d64/a02678.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d6/dfe/a03053.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d6/dfe/a03053.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],

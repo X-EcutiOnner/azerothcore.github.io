@@ -1,6 +1,9 @@
 var a21502 =
 [
-    [ "npc_thassarian2AI", "df/d52/a21506.html", "df/d52/a21506" ],
-    [ "npc_thassarian2", "db/d00/a21502.html#a8a2f1e1595349e4fa9968e85f17d0468", null ],
-    [ "GetAI", "db/d00/a21502.html#adb87c99f3375f88eca55b39e1cd0bbd5", null ]
+    [ "npc_bloodmage_laurithAI", "db/d00/a21502.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "db/d00/a21502.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "db/d00/a21502.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
+    [ "UpdateAI", "db/d00/a21502.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "db/d00/a21502.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "db/d00/a21502.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

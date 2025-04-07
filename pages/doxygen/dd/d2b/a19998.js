@@ -1,7 +1,6 @@
 var a19998 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "dd/d2b/a19998.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
-    [ "IsSummonedBy", "dd/d2b/a19998.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
-    [ "JustDied", "dd/d2b/a19998.html#a5be637500e7b5735d90e19fa40fde467", null ],
-    [ "pInstance", "dd/d2b/a19998.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
+    [ "boss_vezaxAI", "dc/d15/a20002.html", "dc/d15/a20002" ],
+    [ "boss_vezax", "dd/d2b/a19998.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
+    [ "GetAI", "dd/d2b/a19998.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
 ];

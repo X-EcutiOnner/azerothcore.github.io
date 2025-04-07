@@ -1,6 +1,10 @@
 var a21390 =
 [
-    [ "npc_iruk", "d9/d43/a21390.html#a721aeefd23371cc6bc16738a797bf50a", null ],
-    [ "OnGossipHello", "d9/d43/a21390.html#a774669099330c75ab5e0bea8d460f517", null ],
-    [ "OnGossipSelect", "d9/d43/a21390.html#ae6f7d54d224488a9e29c59c560eba471", null ]
+    [ "npc_sinkhole_kill_creditAI", "d9/d43/a21390.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
+    [ "Reset", "d9/d43/a21390.html#a677990d64d2963ff995d9d8522c5aa81", null ],
+    [ "SpellHit", "d9/d43/a21390.html#a95eaf518fb18b67820d6195cd525b017", null ],
+    [ "UpdateAI", "d9/d43/a21390.html#a75611004a543bece9d3f51914547f2fe", null ],
+    [ "casterGuid", "d9/d43/a21390.html#a147921788b07f5e776e03aaf15049cf0", null ],
+    [ "phase", "d9/d43/a21390.html#aa45455a8d540d6f942c948cf56d11f05", null ],
+    [ "phaseTimer", "d9/d43/a21390.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
 ];

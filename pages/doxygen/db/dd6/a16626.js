@@ -1,17 +1,7 @@
 var a16626 =
 [
-    [ "boss_bronjahmAI", "db/dd6/a16626.html#a1cf523f4d7d23187fbc44efee4ca9ea3", null ],
-    [ "DamageTaken", "db/dd6/a16626.html#addd45cd8ecccaf5e0f2fd3f08282af28", null ],
-    [ "EnterEvadeMode", "db/dd6/a16626.html#aafe8adec1b16ecb324f81ac954889e2a", null ],
-    [ "JustDied", "db/dd6/a16626.html#aec27198e51022639fd002879d8afa40d", null ],
-    [ "JustEngagedWith", "db/dd6/a16626.html#a60719369456cb55155966ccefffe49ba", null ],
-    [ "JustReachedHome", "db/dd6/a16626.html#adacba5b04f9d0c273226f055a19c0b16", null ],
-    [ "JustSummoned", "db/dd6/a16626.html#a97836e7dbe9670fc5c08339bee5e4608", null ],
-    [ "KilledUnit", "db/dd6/a16626.html#a7d338c31c1ec906f0395f4dfbe88448a", null ],
-    [ "Reset", "db/dd6/a16626.html#a553dd0d2dd6f074bc03415f81254bc2b", null ],
-    [ "SpellHitTarget", "db/dd6/a16626.html#afdc24fb0a530813e1a6618f469911f89", null ],
-    [ "UpdateAI", "db/dd6/a16626.html#a883e2672d391fcc3fd643f550e3a9d45", null ],
-    [ "events", "db/dd6/a16626.html#a092d2b12172f7c303bc2b0b51ecc1834", null ],
-    [ "pInstance", "db/dd6/a16626.html#aa9f0c2b3e420b61e922af48be84d20d7", null ],
-    [ "summons", "db/dd6/a16626.html#ad8b011080db0d4829fbbde4739371d36", null ]
+    [ "HandleEffectRemove", "db/dd6/a16626.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "db/dd6/a16626.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "db/dd6/a16626.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "db/dd6/a16626.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

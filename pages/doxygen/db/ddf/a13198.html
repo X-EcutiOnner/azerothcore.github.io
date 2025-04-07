@@ -467,9 +467,9 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  411</span>: <a class="code hl_class" href="../../dc/d36/a06074.html">NullCreatureAI</a>(creature), <a class="code hl_variable" href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">_timer</a>{1} { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  416</span>: <a class="code hl_class" href="../../dc/d36/a06074.html">NullCreatureAI</a>(creature), <a class="code hl_variable" href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">_timer</a>{1} { }</div>
 <div class="ttc" id="aa06074_html"><div class="ttname"><a href="../../dc/d36/a06074.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition:</b> PassiveAI.h:53</div></div>
-<div class="ttc" id="aa13198_html_a8eb3d3a6da57b7f0a2db9ff7ca7b01af"><div class="ttname"><a href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">npc_demonic_vapor_trail::_timer</a></div><div class="ttdeci">uint32 _timer</div><div class="ttdef"><b>Definition:</b> boss_felmyst.cpp:444</div></div>
+<div class="ttc" id="aa13198_html_a8eb3d3a6da57b7f0a2db9ff7ca7b01af"><div class="ttname"><a href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">npc_demonic_vapor_trail::_timer</a></div><div class="ttdeci">uint32 _timer</div><div class="ttdef"><b>Definition:</b> boss_felmyst.cpp:449</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -499,10 +499,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dc/d40/a06134.html#a3a55253d96d72f1df305b2ccfa7284ca">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  439</span>    {</div>
-<div class="line"><span class="lineno">  440</span>        summon-&gt;<a class="code hl_function" href="../../d0/d8c/a07958.html#a01ccacf28df6336a774bf1672caf3571">SetInCombatWithZone</a>();</div>
-<div class="line"><span class="lineno">  441</span>        summon-&gt;<a class="code hl_function" href="../../d0/d8c/a07958.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d8/d2f/a06122.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(summon-&gt;<a class="code hl_function" href="../../d0/d8c/a07958.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d8/d2f/a06122.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(SelectTargetMethod::Random, 0, 100.0f));</div>
-<div class="line"><span class="lineno">  442</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  444</span>    {</div>
+<div class="line"><span class="lineno">  445</span>        summon-&gt;<a class="code hl_function" href="../../d0/d8c/a07958.html#a01ccacf28df6336a774bf1672caf3571">SetInCombatWithZone</a>();</div>
+<div class="line"><span class="lineno">  446</span>        summon-&gt;<a class="code hl_function" href="../../d0/d8c/a07958.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d8/d2f/a06122.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(summon-&gt;<a class="code hl_function" href="../../d0/d8c/a07958.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d8/d2f/a06122.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(SelectTargetMethod::Random, 0, 100.0f));</div>
+<div class="line"><span class="lineno">  447</span>    }</div>
 <div class="ttc" id="aa06122_html_ac5b181f1036962caaf140369b22e807b"><div class="ttname"><a href="../../d8/d2f/a06122.html#ac5b181f1036962caaf140369b22e807b">UnitAI::SelectTarget</a></div><div class="ttdeci">Unit * SelectTarget(SelectTargetMethod targetType, uint32 position=0, float dist=0.0f, bool playerOnly=false, bool withTank=true, int32 aura=0)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:110</div></div>
 <div class="ttc" id="aa06122_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d8/d2f/a06122.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:27</div></div>
 <div class="ttc" id="aa07958_html_a01ccacf28df6336a774bf1672caf3571"><div class="ttname"><a href="../../d0/d8c/a07958.html#a01ccacf28df6336a774bf1672caf3571">Creature::SetInCombatWithZone</a></div><div class="ttdeci">void SetInCombatWithZone()</div><div class="ttdoc">Set in combat all units in the dungeon/raid. Affect only units with IsAIEnabled.</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2828</div></div>
@@ -536,10 +536,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d8/d2f/a06122.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  414</span>    {</div>
-<div class="line"><span class="lineno">  415</span>        <a class="code hl_variable" href="../../dc/d40/a06134.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../dc/d40/a06134.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_enumvalue" href="../../d0/d57/a03380.html#a5bd342133be8c2137b831460acc9298ca3d42ce1be721513f7f1cd5f283d900cf">SPELL_DEMONIC_VAPOR_TRAIL_PERIODIC</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  416</span>        <a class="code hl_variable" href="../../dc/d40/a06134.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d0/d8c/a07958.html#abce66404f36b926cf403555911bcb9f7">DespawnOrUnsummon</a>(20000);</div>
-<div class="line"><span class="lineno">  417</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  419</span>    {</div>
+<div class="line"><span class="lineno">  420</span>        <a class="code hl_variable" href="../../dc/d40/a06134.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../dc/d40/a06134.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_enumvalue" href="../../d0/d57/a03380.html#a5bd342133be8c2137b831460acc9298ca3d42ce1be721513f7f1cd5f283d900cf">SPELL_DEMONIC_VAPOR_TRAIL_PERIODIC</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  421</span>        <a class="code hl_variable" href="../../dc/d40/a06134.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d0/d8c/a07958.html#abce66404f36b926cf403555911bcb9f7">DespawnOrUnsummon</a>(20000);</div>
+<div class="line"><span class="lineno">  422</span>    }</div>
 <div class="ttc" id="aa03380_html_a5bd342133be8c2137b831460acc9298ca3d42ce1be721513f7f1cd5f283d900cf"><div class="ttname"><a href="../../d0/d57/a03380.html#a5bd342133be8c2137b831460acc9298ca3d42ce1be721513f7f1cd5f283d900cf">SPELL_DEMONIC_VAPOR_TRAIL_PERIODIC</a></div><div class="ttdeci">@ SPELL_DEMONIC_VAPOR_TRAIL_PERIODIC</div><div class="ttdef"><b>Definition:</b> boss_felmyst.cpp:61</div></div>
 <div class="ttc" id="aa06134_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../dc/d40/a06134.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:72</div></div>
 <div class="ttc" id="aa07958_html_abce66404f36b926cf403555911bcb9f7"><div class="ttname"><a href="../../d0/d8c/a07958.html#abce66404f36b926cf403555911bcb9f7">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn, Seconds forcedRespawnTimer)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2183</div></div>
@@ -584,13 +584,13 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dc/d40/a06134.html#a1e545b8b2c9f8538d8663ef06c2c1030">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  420</span>    {</div>
-<div class="line"><span class="lineno">  421</span>        <span class="keywordflow">if</span> (spellInfo-&gt;Id == <a class="code hl_enumvalue" href="../../d0/d57/a03380.html#a5bd342133be8c2137b831460acc9298ca422840d814bc81a60a9882a064129ccd">SPELL_DEMONIC_VAPOR</a> &amp;&amp; !<a class="code hl_variable" href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">_timer</a>)</div>
-<div class="line"><span class="lineno">  422</span>            <a class="code hl_variable" href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">_timer</a> = 1;</div>
-<div class="line"><span class="lineno">  423</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  425</span>    {</div>
+<div class="line"><span class="lineno">  426</span>        <span class="keywordflow">if</span> (spellInfo-&gt;Id == <a class="code hl_enumvalue" href="../../d0/d57/a03380.html#a5bd342133be8c2137b831460acc9298ca422840d814bc81a60a9882a064129ccd">SPELL_DEMONIC_VAPOR</a> &amp;&amp; !<a class="code hl_variable" href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">_timer</a>)</div>
+<div class="line"><span class="lineno">  427</span>            <a class="code hl_variable" href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">_timer</a> = 1;</div>
+<div class="line"><span class="lineno">  428</span>    }</div>
 <div class="ttc" id="aa03380_html_a5bd342133be8c2137b831460acc9298ca422840d814bc81a60a9882a064129ccd"><div class="ttname"><a href="../../d0/d57/a03380.html#a5bd342133be8c2137b831460acc9298ca422840d814bc81a60a9882a064129ccd">SPELL_DEMONIC_VAPOR</a></div><div class="ttdeci">@ SPELL_DEMONIC_VAPOR</div><div class="ttdef"><b>Definition:</b> boss_felmyst.cpp:62</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00444">_timer</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, and <a class="el" href="../../#l00062">SPELL_DEMONIC_VAPOR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00449">_timer</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, and <a class="el" href="../../#l00062">SPELL_DEMONIC_VAPOR</a>.</p>
 
 </div>
 </div>
@@ -621,20 +621,20 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../dc/d40/a06134.html#a15f691c9137273cd5c3d5ba6f0762300" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../dc/d36/a06074.html#ab200fcf78dee74a2ec808c01f5855236">NullCreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  426</span>    {</div>
-<div class="line"><span class="lineno">  427</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">_timer</a>)</div>
-<div class="line"><span class="lineno">  428</span>        {</div>
-<div class="line"><span class="lineno">  429</span>            <a class="code hl_variable" href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">_timer</a> += diff;</div>
-<div class="line"><span class="lineno">  430</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">_timer</a> &gt;= 5000)</div>
-<div class="line"><span class="lineno">  431</span>            {</div>
-<div class="line"><span class="lineno">  432</span>                <a class="code hl_variable" href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">_timer</a> = 0;</div>
-<div class="line"><span class="lineno">  433</span>                <a class="code hl_variable" href="../../dc/d40/a06134.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../dc/d40/a06134.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_enumvalue" href="../../d0/d57/a03380.html#a5bd342133be8c2137b831460acc9298cac89cc3226cea6f95f18f27773a94e097">SPELL_SUMMON_BLAZING_DEAD</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  434</span>            }</div>
-<div class="line"><span class="lineno">  435</span>        }</div>
-<div class="line"><span class="lineno">  436</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  431</span>    {</div>
+<div class="line"><span class="lineno">  432</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">_timer</a>)</div>
+<div class="line"><span class="lineno">  433</span>        {</div>
+<div class="line"><span class="lineno">  434</span>            <a class="code hl_variable" href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">_timer</a> += diff;</div>
+<div class="line"><span class="lineno">  435</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">_timer</a> &gt;= 5000)</div>
+<div class="line"><span class="lineno">  436</span>            {</div>
+<div class="line"><span class="lineno">  437</span>                <a class="code hl_variable" href="../../db/ddf/a13198.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af">_timer</a> = 0;</div>
+<div class="line"><span class="lineno">  438</span>                <a class="code hl_variable" href="../../dc/d40/a06134.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../dc/d40/a06134.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_enumvalue" href="../../d0/d57/a03380.html#a5bd342133be8c2137b831460acc9298cac89cc3226cea6f95f18f27773a94e097">SPELL_SUMMON_BLAZING_DEAD</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  439</span>            }</div>
+<div class="line"><span class="lineno">  440</span>        }</div>
+<div class="line"><span class="lineno">  441</span>    }</div>
 <div class="ttc" id="aa03380_html_a5bd342133be8c2137b831460acc9298cac89cc3226cea6f95f18f27773a94e097"><div class="ttname"><a href="../../d0/d57/a03380.html#a5bd342133be8c2137b831460acc9298cac89cc3226cea6f95f18f27773a94e097">SPELL_SUMMON_BLAZING_DEAD</a></div><div class="ttdeci">@ SPELL_SUMMON_BLAZING_DEAD</div><div class="ttdef"><b>Definition:</b> boss_felmyst.cpp:63</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00444">_timer</a>, <a class="el" href="../../#l01178">Unit::CastSpell()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, and <a class="el" href="../../#l00063">SPELL_SUMMON_BLAZING_DEAD</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00449">_timer</a>, <a class="el" href="../../#l01178">Unit::CastSpell()</a>, <a class="el" href="../../#l00072">CreatureAI::me</a>, and <a class="el" href="../../#l00063">SPELL_SUMMON_BLAZING_DEAD</a>.</p>
 
 </div>
 </div>
@@ -659,7 +659,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00419">SpellHitTarget()</a>, and <a class="el" href="../../#l00425">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00424">SpellHitTarget()</a>, and <a class="el" href="../../#l00430">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -669,7 +669,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/ddf/a13198.html">npc_demonic_vapor_trail</a></li>
-    <li class="footer">Generated on Mon Mar 31 2025 20:45:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 7 2025 20:45:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

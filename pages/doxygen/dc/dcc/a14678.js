@@ -1,8 +1,12 @@
 var a14678 =
 [
-    [ "npc_thrall_old_hillsbradAI", "d4/df9/a14682.html", "d4/df9/a14682" ],
-    [ "npc_thrall_old_hillsbrad", "dc/dcc/a14678.html#a3e6fa750b095af3beac806a619e18328", null ],
-    [ "GetAI", "dc/dcc/a14678.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
-    [ "OnGossipHello", "dc/dcc/a14678.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
-    [ "OnGossipSelect", "dc/dcc/a14678.html#a17fcb00850503903f430506654e035c0", null ]
+    [ "boss_lieutenant_drake", "dc/dcc/a14678.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
+    [ "InitializeAI", "dc/dcc/a14678.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
+    [ "JustDied", "dc/dcc/a14678.html#aca7654e30aac96fa509f99f3447121ec", null ],
+    [ "JustEngagedWith", "dc/dcc/a14678.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
+    [ "KilledUnit", "dc/dcc/a14678.html#a833c889c28ea35a6198fe753b604a8ed", null ],
+    [ "MovementInform", "dc/dcc/a14678.html#aec6e332bc5739552cbbec27569c55759", null ],
+    [ "UpdateAI", "dc/dcc/a14678.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
+    [ "pathId", "dc/dcc/a14678.html#ac63f9c885296a797799c0cd83b0ade64", null ],
+    [ "runSecondPath", "dc/dcc/a14678.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
 ];

@@ -1,7 +1,6 @@
 var a19898 =
 [
-    [ "achievement_flame_leviathan_garage", "df/d76/a19898.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "df/d76/a19898.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "df/d76/a19898.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "df/d76/a19898.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "CheckCast", "df/d76/a19898.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "df/d76/a19898.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "df/d76/a19898.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

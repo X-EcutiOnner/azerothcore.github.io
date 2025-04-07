@@ -1,6 +1,8 @@
 var a13390 =
 [
-    [ "npc_professor_phizzlethorpeAI", "df/dee/a13394.html", "df/dee/a13394" ],
-    [ "npc_professor_phizzlethorpe", "dc/df2/a13390.html#a8d32b4a107533c81033c617b0b97027d", null ],
-    [ "GetAI", "dc/df2/a13390.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
+    [ "HandleEffectApply", "dc/df2/a13390.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "dc/df2/a13390.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "dc/df2/a13390.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "dc/df2/a13390.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "dc/df2/a13390.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

@@ -1,9 +1,6 @@
 var a20346 =
 [
-    [ "HandleEffectPeriodic", "d6/d4b/a20346.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
-    [ "Load", "d6/d4b/a20346.html#a60deabce505dd3993dca0e71402dc190", null ],
-    [ "PrepareAuraScript", "d6/d4b/a20346.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
-    [ "Register", "d6/d4b/a20346.html#a524c071390365b7dab59bc7a79b50f15", null ],
-    [ "_lastMSTime", "d6/d4b/a20346.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
-    [ "_lastOrientation", "d6/d4b/a20346.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
+    [ "npc_ulduar_bot_summon_triggerAI", "d6/d95/a20350.html", "d6/d95/a20350" ],
+    [ "npc_ulduar_bot_summon_trigger", "d6/d4b/a20346.html#a7a369b4826c6c2a86704088f5dcf1ce7", null ],
+    [ "GetAI", "d6/d4b/a20346.html#a0d7f74fc910c5adcaaa46a9d2ea10ea3", null ]
 ];

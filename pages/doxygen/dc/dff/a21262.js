@@ -1,6 +1,16 @@
 var a21262 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "d4/d5e/a21266.html", "d4/d5e/a21266" ],
-    [ "instance_violet_hold", "dc/dff/a21262.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "dc/dff/a21262.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
+    [ "boss_zuramatAI", "dc/dff/a21262.html#ab4c04fec01023295946d170a466d1c48", null ],
+    [ "EnterEvadeMode", "dc/dff/a21262.html#a991437ea0d9fd1ce7807ef9937c4cb0a", null ],
+    [ "JustDied", "dc/dff/a21262.html#a060df9b36f2f62f3fc7afb80386d51c5", null ],
+    [ "JustEngagedWith", "dc/dff/a21262.html#a85cc0f20b51e84ff1c5c16a3b2b004b9", null ],
+    [ "JustSummoned", "dc/dff/a21262.html#a6e925207ddc112f7dd7044c08023f90e", null ],
+    [ "KilledUnit", "dc/dff/a21262.html#adb79f8c244f57b88848dd44b592faf41", null ],
+    [ "MoveInLineOfSight", "dc/dff/a21262.html#aa3ef3256d203d264dee12eff4491a28c", null ],
+    [ "Reset", "dc/dff/a21262.html#a18498e4bc4bfac33ff2c591f5bf28d7d", null ],
+    [ "SummonedCreatureDespawn", "dc/dff/a21262.html#a242f814bfec2e937e1338097e78080e3", null ],
+    [ "UpdateAI", "dc/dff/a21262.html#adb591699b7d8ece0b1775afd40a4181b", null ],
+    [ "events", "dc/dff/a21262.html#a4406b42618f3e40fa90e0a34ec3ad09f", null ],
+    [ "pInstance", "dc/dff/a21262.html#a8ebb5ca6f9f18b0205e8b6a54492c06a", null ],
+    [ "summons", "dc/dff/a21262.html#a42cb09654095c8a157720f99e7957102", null ]
 ];

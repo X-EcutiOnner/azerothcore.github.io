@@ -1,10 +1,5 @@
 var a23254 =
 [
-    [ "boss_warlord_kalithresh", "dd/ded/a23254.html#afcf2288fbea2d5010c41344ce0247559", null ],
-    [ "JustDied", "dd/ded/a23254.html#a1947562aa9dafea371e2f2da824a3f65", null ],
-    [ "JustEngagedWith", "dd/ded/a23254.html#a2712f5c363c3929550b77ef2536b1385", null ],
-    [ "KilledUnit", "dd/ded/a23254.html#a06855288497f5335a236867ef681d3f8", null ],
-    [ "MoveInLineOfSight", "dd/ded/a23254.html#a544da19b6c3a6f159ed6b1639def1071", null ],
-    [ "Reset", "dd/ded/a23254.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
-    [ "_introDone", "dd/ded/a23254.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
+    [ "at_quagmirran_lair", "dd/ded/a23254.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
+    [ "OnTrigger", "dd/ded/a23254.html#aa0aab42516efaf842923b8a820942ac4", null ]
 ];

@@ -1,6 +1,7 @@
 var a20070 =
 [
-    [ "npc_ulduar_toasty_fireAI", "d2/d24/a20074.html", "d2/d24/a20074" ],
-    [ "npc_ulduar_toasty_fire", "dc/dc1/a20070.html#a5a5b77088b24f1c5743c58034190d5ab", null ],
-    [ "GetAI", "dc/dc1/a20070.html#a2518ec39c3cea2f3efc5000e0a7779d0", null ]
+    [ "npc_ulduar_icicleAI", "dc/dc1/a20070.html#a258376e257fbe3c8a6c70b2585d44df1", null ],
+    [ "UpdateAI", "dc/dc1/a20070.html#a0edf734ae2dac7a5378b21b73e3714c8", null ],
+    [ "timer1", "dc/dc1/a20070.html#aa912acbe225d9056e44bc22b8d9f7473", null ],
+    [ "timer2", "dc/dc1/a20070.html#a82e034fc4ccb8eb92abeb72a222764c7", null ]
 ];

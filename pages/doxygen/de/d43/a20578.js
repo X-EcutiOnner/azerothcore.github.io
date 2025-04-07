@@ -1,6 +1,6 @@
 var a20578 =
 [
-    [ "boss_xt002AI", "d4/d2e/a20582.html", "d4/d2e/a20582" ],
-    [ "boss_xt002", "de/d43/a20578.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
-    [ "GetAI", "de/d43/a20578.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
+    [ "OnPeriodic", "de/d43/a20578.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "de/d43/a20578.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "de/d43/a20578.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

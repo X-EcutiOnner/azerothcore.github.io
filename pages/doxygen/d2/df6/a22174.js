@@ -1,6 +1,6 @@
 var a22174 =
 [
-    [ "npc_freed_protodrakeAI", "d9/d90/a22178.html", "d9/d90/a22178" ],
-    [ "npc_freed_protodrake", "d2/df6/a22174.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "d2/df6/a22174.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "npc_roxi_ramrocket", "d2/df6/a22174.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
+    [ "OnGossipHello", "d2/df6/a22174.html#adec28f778921246c56f11d09753e566e", null ],
+    [ "OnGossipSelect", "d2/df6/a22174.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
 ];

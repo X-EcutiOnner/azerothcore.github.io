@@ -1,6 +1,10 @@
 var a20130 =
 [
-    [ "FilterTargets", "de/d45/a20130.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "de/d45/a20130.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "de/d45/a20130.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "HandleEffectPeriodic", "de/d45/a20130.html#aa62be73e00d9cb512806787eaf1c4144", null ],
+    [ "Load", "de/d45/a20130.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
+    [ "PrepareAuraScript", "de/d45/a20130.html#ad9664bff267b330565d3c706e1752e9d", null ],
+    [ "Register", "de/d45/a20130.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
+    [ "Validate", "de/d45/a20130.html#a3f6653b4ca202d9b0971189930e8b463", null ],
+    [ "_counter", "de/d45/a20130.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
+    [ "_prev", "de/d45/a20130.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
 ];

@@ -1,8 +1,7 @@
 var a24610 =
 [
-    [ "AfterRemove", "de/d68/a24610.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
-    [ "HandleDispel", "de/d68/a24610.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
-    [ "PrepareAuraScript", "de/d68/a24610.html#a44e66753516d693c31dba27c9d1ad250", null ],
-    [ "Register", "de/d68/a24610.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
-    [ "Validate", "de/d68/a24610.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
+    [ "HandleScriptEffect", "de/d68/a24610.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
+    [ "PrepareSpellScript", "de/d68/a24610.html#ae29c4f69a34e71011192df12509e2935", null ],
+    [ "Register", "de/d68/a24610.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
+    [ "Validate", "de/d68/a24610.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
 ];

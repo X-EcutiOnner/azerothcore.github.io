@@ -1,6 +1,5 @@
 var a17990 =
 [
-    [ "npc_rimefangAI", "df/dcf/a17994.html", "df/dcf/a17994" ],
-    [ "npc_rimefang", "d3/dd4/a17990.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
-    [ "GetAI", "d3/dd4/a17990.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
+    [ "achievement_all_you_can_eat", "d3/dd4/a17990.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "d3/dd4/a17990.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

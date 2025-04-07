@@ -1,6 +1,6 @@
 var a04430 =
 [
-    [ "boss_rokmar_the_crackler", "d6/d9b/a23230.html", "d6/d9b/a23230" ],
+    [ "boss_rokmar_the_crackler", "d8/df4/a23242.html", "d8/df4/a23242" ],
     [ "Spells", "d9/d36/a04430.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d7/d46/a00890.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d7/d46/a00890.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

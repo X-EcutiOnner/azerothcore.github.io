@@ -1,6 +1,10 @@
 var a15878 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "db/d4e/a15882.html", "db/d4e/a15882" ],
-    [ "instance_obsidian_sanctum", "d3/db4/a15878.html#a6cf2121c4167156f5748c144372b3c0b", null ],
-    [ "GetInstanceScript", "d3/db4/a15878.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
+    [ "HandleDummy", "d3/db4/a15878.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
+    [ "HandleSchoolDamage", "d3/db4/a15878.html#a8372b7d176c94689b1b7fe99add7812e", null ],
+    [ "Load", "d3/db4/a15878.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
+    [ "PrepareSpellScript", "d3/db4/a15878.html#a3fd71e2a93f99f19443640a2147b1663", null ],
+    [ "Register", "d3/db4/a15878.html#a8278d362a4354ccf81665ce0067c9a06", null ],
+    [ "Validate", "d3/db4/a15878.html#a414b1e1396910b87a671305ce9dcab09", null ],
+    [ "_spawned", "d3/db4/a15878.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
 ];

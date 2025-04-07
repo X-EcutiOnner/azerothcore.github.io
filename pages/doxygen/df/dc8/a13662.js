@@ -1,11 +1,12 @@
 var a13662 =
 [
-    [ "npc_tapoke_slim_jahnAI", "df/dc8/a13662.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
-    [ "AttackedBy", "df/dc8/a13662.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
-    [ "DamageTaken", "df/dc8/a13662.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
-    [ "JustEngagedWith", "df/dc8/a13662.html#a544b8eaee365217a4a735ed39b4607b2", null ],
-    [ "JustSummoned", "df/dc8/a13662.html#ae468305fbe930baf0a1547f2e6de9953", null ],
-    [ "Reset", "df/dc8/a13662.html#a5aeaa5511584d1095639e7df584019c5", null ],
-    [ "WaypointReached", "df/dc8/a13662.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
-    [ "IsFriendSummoned", "df/dc8/a13662.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
+    [ "npc_daphne_stilwellAI", "df/dc8/a13662.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
+    [ "AttackStart", "df/dc8/a13662.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
+    [ "JustSummoned", "df/dc8/a13662.html#ae56554d30e9de7644efab891555c57e0", null ],
+    [ "Reset", "df/dc8/a13662.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
+    [ "SummonedCreatureDies", "df/dc8/a13662.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
+    [ "Update", "df/dc8/a13662.html#a4099d75c4a6bca1525781a5753ef9972", null ],
+    [ "WaypointReached", "df/dc8/a13662.html#a1035eb0a1696730d8304593b5fb079e4", null ],
+    [ "summons", "df/dc8/a13662.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
+    [ "textCounter", "df/dc8/a13662.html#a62ab24169c1b7c3028ab33303b217f63", null ]
 ];

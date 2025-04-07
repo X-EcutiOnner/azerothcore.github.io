@@ -1,6 +1,7 @@
 var a24802 =
 [
-    [ "HandleScriptEffect", "de/da6/a24802.html#a1ace281bf2fd53722f8328a79369b5df", null ],
-    [ "PrepareSpellScript", "de/da6/a24802.html#ac9a0019091f291b1b3a770ec57bd83e8", null ],
-    [ "Register", "de/da6/a24802.html#a821a6b11a177bf7586ab666081ab222a", null ]
+    [ "CheckProc", "de/da6/a24802.html#ab376febda606dba5e9f7f5639f867859", null ],
+    [ "HandleProc", "de/da6/a24802.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
+    [ "PrepareAuraScript", "de/da6/a24802.html#a7693a86824050ff5615996d0d03d0292", null ],
+    [ "Register", "de/da6/a24802.html#a458745913288889f687bb19a147cb0fb", null ]
 ];

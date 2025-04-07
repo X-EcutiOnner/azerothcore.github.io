@@ -1,6 +1,6 @@
 var a15758 =
 [
-    [ "HandleApplyAura", "de/ddc/a15758.html#aeddfd61eab5aa077ca07a924ec491285", null ],
-    [ "PrepareSpellScript", "de/ddc/a15758.html#ad53341842455d98722c03318dd80fb94", null ],
-    [ "Register", "de/ddc/a15758.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
+    [ "boss_anub_arakAI", "df/d0a/a15762.html", "df/d0a/a15762" ],
+    [ "boss_anub_arak", "de/ddc/a15758.html#ac2594f561b07069a312ed38c01d9c7da", null ],
+    [ "GetAI", "de/ddc/a15758.html#a8687594354d514b99e026797ee71c70d", null ]
 ];

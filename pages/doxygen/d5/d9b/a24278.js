@@ -1,6 +1,5 @@
 var a24278 =
 [
-    [ "achievement", "d5/d9b/a24278.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d5/d9b/a24278.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d5/d9b/a24278.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "npc_pet_dk_dancing_rune_weaponAI", "d5/d9b/a24278.html#a6d57990a8ff05cc74356b0ed4d7d39b6", null ],
+    [ "InitializeAI", "d5/d9b/a24278.html#a620ebac7c7cd5f81af47ea2e35de128c", null ]
 ];

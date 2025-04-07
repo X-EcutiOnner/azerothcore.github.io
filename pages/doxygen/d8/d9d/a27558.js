@@ -1,7 +1,7 @@
 var a27558 =
 [
-    [ "npc_crashin_thrashin_robot", "d8/d9d/a27558.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "d8/d9d/a27558.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "d8/d9d/a27558.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "d8/d9d/a27558.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "npc_venomhide_hatchlingAI", "d9/d31/a27562.html", "d9/d31/a27562" ],
+    [ "npc_venomhide_hatchling", "d8/d9d/a27558.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "d8/d9d/a27558.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "d8/d9d/a27558.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

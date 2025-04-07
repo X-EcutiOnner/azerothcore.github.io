@@ -1,6 +1,6 @@
 var a16970 =
 [
-    [ "npc_pos_freed_slaveAI", "d6/d1c/a16970.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
-    [ "CanAIAttack", "d6/d1c/a16970.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
-    [ "EnterEvadeMode", "d6/d1c/a16970.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "d3/d8c/a16974.html", "d3/d8c/a16974" ],
+    [ "npc_pos_martin_or_gorkun_second", "d6/d1c/a16970.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
+    [ "GetAI", "d6/d1c/a16970.html#a180936e3bb98eb55d29ebd51350906c0", null ]
 ];

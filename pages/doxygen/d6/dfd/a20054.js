@@ -1,6 +1,6 @@
 var a20054 =
 [
-    [ "npc_ulduar_icicleAI", "d8/d35/a20058.html", "d8/d35/a20058" ],
-    [ "npc_ulduar_icicle", "d6/dfd/a20054.html#a1ab79b2fa3e64779f62b96c195222683", null ],
-    [ "GetAI", "d6/dfd/a20054.html#a71dd83d544307b11bcde58f9aeea097c", null ]
+    [ "id", "d6/dfd/a20054.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "x", "d6/dfd/a20054.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
+    [ "y", "d6/dfd/a20054.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
 ];

@@ -1,6 +1,6 @@
 var a02642 =
 [
-    [ "npc_pet_pri_lightwell", "d1/d80/a24342.html", "d1/d80/a24342" ],
+    [ "npc_pet_pri_lightwell", "dd/df2/a24354.html", "dd/df2/a24354" ],
     [ "PriestSpells", "d5/d96/a02642.html#a8aaecfe4214ff7bd567980dd904b110f", [
       [ "SPELL_PRIEST_LIGHTWELL_CHARGES", "d5/d96/a02642.html#a8aaecfe4214ff7bd567980dd904b110faa3a53a7bde25a970e5c29b0f7f8984b2", null ],
       [ "SPELL_PRIEST_DIVINE_AEGIS", "d6/df1/a04535.html#a8aaecfe4214ff7bd567980dd904b110fa4bd6adc8070fcaa774451c5cac40ded1", null ],

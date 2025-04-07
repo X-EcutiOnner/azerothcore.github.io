@@ -1,10 +1,10 @@
 var a04382 =
 [
-    [ "boss_alar", "d9/dea/a23662.html", "d9/dea/a23662" ],
-    [ "CastQuill", "d5/d67/a23666.html", "d5/d67/a23666" ],
-    [ "spell_alar_flame_quills", "dc/d33/a23670.html", "dc/d33/a23670" ],
-    [ "spell_alar_ember_blast", "df/d1c/a23674.html", "df/d1c/a23674" ],
-    [ "spell_alar_dive_bomb", "d4/d77/a23678.html", "d4/d77/a23678" ],
+    [ "boss_alar", "df/d1c/a23674.html", "df/d1c/a23674" ],
+    [ "CastQuill", "d4/d77/a23678.html", "d4/d77/a23678" ],
+    [ "spell_alar_flame_quills", "d4/d75/a23682.html", "d4/d75/a23682" ],
+    [ "spell_alar_ember_blast", "db/d17/a23686.html", "db/d17/a23686" ],
+    [ "spell_alar_dive_bomb", "d8/dd6/a23690.html", "d8/dd6/a23690" ],
     [ "GroupAlar", "d7/d1e/a04382.html#affdfad05d59fe2df3a25189df6c3bf7e", [
       [ "GROUP_FLAME_BUFFET", "d7/d1e/a04382.html#affdfad05d59fe2df3a25189df6c3bf7ea736f8214156adfa79b40871fd56adf53", null ]
     ] ],

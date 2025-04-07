@@ -1,5 +1,6 @@
 var a22050 =
 [
-    [ "go_pressure_valve", "df/dab/a22050.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
-    [ "OnGossipHello", "df/dab/a22050.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
+    [ "npc_still_at_it_triggerAI", "d8/da2/a22054.html", "d8/da2/a22054" ],
+    [ "npc_still_at_it_trigger", "df/dab/a22050.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "df/dab/a22050.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

@@ -1,9 +1,6 @@
 var a19350 =
 [
-    [ "HandleOnEffectApply", "de/da7/a19350.html#a6ab047004cc901331d747641f218cf6a", null ],
-    [ "HandleOnEffectRemove", "de/da7/a19350.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
-    [ "PrepareAuraScript", "de/da7/a19350.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
-    [ "Register", "de/da7/a19350.html#a83b0d414a6e97b434f82492fa01ac385", null ],
-    [ "Validate", "de/da7/a19350.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
-    [ "_drakeGUID", "de/da7/a19350.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
+    [ "HandlePeriodic", "de/da7/a19350.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
+    [ "PrepareAuraScript", "de/da7/a19350.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
+    [ "Register", "de/da7/a19350.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
 ];

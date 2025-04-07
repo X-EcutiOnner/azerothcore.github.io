@@ -1,15 +1,17 @@
 var a18862 =
 [
-    [ "boss_gluthAI", "da/d5c/a18862.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
-    [ "JustDied", "da/d5c/a18862.html#ada2c5f6b7025f5f2fb67b8ebe3b2d56c", null ],
-    [ "JustEngagedWith", "da/d5c/a18862.html#a25cf670d7254cc8331752987a854c63b", null ],
-    [ "JustSummoned", "da/d5c/a18862.html#acc09328210fbf1a6e81999d548676ae4", null ],
-    [ "KilledUnit", "da/d5c/a18862.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
-    [ "MoveInLineOfSight", "da/d5c/a18862.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
-    [ "Reset", "da/d5c/a18862.html#acb9f68205a2a210737d43893a414ca52", null ],
-    [ "SelectPlayerInRoom", "da/d5c/a18862.html#a1f8f87b00291d8164f607ac6262506cf", null ],
-    [ "SummonedCreatureDies", "da/d5c/a18862.html#a115a1f1327a931067223734dbf414675", null ],
-    [ "UpdateAI", "da/d5c/a18862.html#a2505f7ebda7b623edfedf96979a4a920", null ],
-    [ "events", "da/d5c/a18862.html#adaf9581259a774087ce02725b42b6b47", null ],
-    [ "summons", "da/d5c/a18862.html#a18f6aa3d949e68e9b38398780c017082", null ]
+    [ "boss_four_horsemenAI", "da/d5c/a18862.html#a828a858c3337791bd2acb3d6ba730233", null ],
+    [ "AttackStart", "da/d5c/a18862.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
+    [ "IsInRoom", "da/d5c/a18862.html#afaf17721189ab5b202a7dfbcd7f363e3", null ],
+    [ "JustDied", "da/d5c/a18862.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
+    [ "JustEngagedWith", "da/d5c/a18862.html#a17b8ca30ceb0efb87be77f970c526444", null ],
+    [ "KilledUnit", "da/d5c/a18862.html#a87bdde27a69a020a26da31f01286593a", null ],
+    [ "MovementInform", "da/d5c/a18862.html#aa900c075c04673341b3100488c45f9e7", null ],
+    [ "MoveToCorner", "da/d5c/a18862.html#a7891dc79980c67d82867f6181685b359", null ],
+    [ "Reset", "da/d5c/a18862.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
+    [ "UpdateAI", "da/d5c/a18862.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
+    [ "currentWaypoint", "da/d5c/a18862.html#ab3c2643e1b3c58452661255979e67e63", null ],
+    [ "events", "da/d5c/a18862.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
+    [ "horsemanId", "da/d5c/a18862.html#ab0c4162177096e7bd007996e8677fd8b", null ],
+    [ "movementPhase", "da/d5c/a18862.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
 ];

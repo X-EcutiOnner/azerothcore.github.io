@@ -1,7 +1,6 @@
 var a16414 =
 [
-    [ "FilterTargets", "d0/d5d/a16414.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "d0/d5d/a16414.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "d0/d5d/a16414.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "d0/d5d/a16414.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_mistress_of_painAI", "d6/d89/a16418.html", "d6/d89/a16418" ],
+    [ "npc_mistress_of_pain", "d0/d5d/a16414.html#a0261ed835454725e0e5629c295be4330", null ],
+    [ "GetAI", "d0/d5d/a16414.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
 ];

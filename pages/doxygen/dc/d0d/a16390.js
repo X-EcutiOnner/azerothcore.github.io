@@ -1,16 +1,8 @@
 var a16390 =
 [
-    [ "boss_jaraxxusAI", "dc/d0d/a16390.html#af05dd6ee301cfe4fdfbc511b07f21b48", null ],
-    [ "EnterEvadeMode", "dc/d0d/a16390.html#a45fc8cbc3b1e59be8f13f1ebae73bfa1", null ],
-    [ "JustDied", "dc/d0d/a16390.html#a5fce156ec839c4799e3585e9674636c1", null ],
-    [ "JustEngagedWith", "dc/d0d/a16390.html#a59f21f25fbe83c9710ac6377753ce8d3", null ],
-    [ "JustReachedHome", "dc/d0d/a16390.html#a5961b5563c1d140f31a348a1ea8dc4ba", null ],
-    [ "JustSummoned", "dc/d0d/a16390.html#a6efea02e03c4d7e97c357afbc320b5bf", null ],
-    [ "MoveInLineOfSight", "dc/d0d/a16390.html#aee8b894518e9091f4e52c4048562d08a", null ],
-    [ "Reset", "dc/d0d/a16390.html#ad4a2bce95988f030387d74b5cf90f223", null ],
-    [ "SpellHit", "dc/d0d/a16390.html#a5103f7808134a67f06af4be1d848aa91", null ],
-    [ "UpdateAI", "dc/d0d/a16390.html#a5e733b9e5b63801a1ca2778e58fedb61", null ],
-    [ "events", "dc/d0d/a16390.html#a6aff4c78989d99d49d697e9900375e28", null ],
-    [ "pInstance", "dc/d0d/a16390.html#aa9d9cb25b827c48e1fd5cd8e75ac92a0", null ],
-    [ "summons", "dc/d0d/a16390.html#abeddfd1bb9b5391da578f794d6c618b7", null ]
+    [ "npc_toc_pet_hunterAI", "dc/d0d/a16390.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "dc/d0d/a16390.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "dc/d0d/a16390.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "dc/d0d/a16390.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "dc/d0d/a16390.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

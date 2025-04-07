@@ -1,8 +1,6 @@
 var a17482 =
 [
-    [ "npc_gunship_mageAI", "db/d49/a17482.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "db/d49/a17482.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "db/d49/a17482.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "db/d49/a17482.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "db/d49/a17482.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "npc_gunship_boarding_add_realAI", "d9/dc9/a17486.html", "d9/dc9/a17486" ],
+    [ "npc_gunship_boarding_add", "db/d49/a17482.html#aa80871f80bae7186d3665f73d757e108", null ],
+    [ "GetAI", "db/d49/a17482.html#ad7e173bffccca6d852ba545427235447", null ]
 ];

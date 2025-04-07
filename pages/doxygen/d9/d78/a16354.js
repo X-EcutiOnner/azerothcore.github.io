@@ -1,7 +1,6 @@
 var a16354 =
 [
-    [ "npc_toc_enh_shamanAI", "d9/d78/a16354.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "d9/d78/a16354.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "d9/d78/a16354.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "d9/d78/a16354.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "npc_toc_rogueAI", "d4/d26/a16358.html", "d4/d26/a16358" ],
+    [ "npc_toc_rogue", "d9/d78/a16354.html#a925840be9698e381358235a827c20b8a", null ],
+    [ "GetAI", "d9/d78/a16354.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
 ];

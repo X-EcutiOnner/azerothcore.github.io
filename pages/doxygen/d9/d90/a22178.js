@@ -1,8 +1,6 @@
 var a22178 =
 [
-    [ "npc_freed_protodrakeAI", "d9/d90/a22178.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "d9/d90/a22178.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "d9/d90/a22178.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "d9/d90/a22178.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "d9/d90/a22178.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "npc_brunnhildar_prisonerAI", "d5/dd3/a22182.html", "d5/dd3/a22182" ],
+    [ "npc_brunnhildar_prisoner", "d9/d90/a22178.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
+    [ "GetAI", "d9/d90/a22178.html#aa2a1787849c74a5163a39137c9d03d57", null ]
 ];

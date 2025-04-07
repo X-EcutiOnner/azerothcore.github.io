@@ -1,6 +1,6 @@
 var a16530 =
 [
-    [ "HandleDummy", "de/d67/a16530.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
-    [ "PrepareSpellScript", "de/d67/a16530.html#accbf8f40b1ab123a2be81a514c94c836", null ],
-    [ "Register", "de/d67/a16530.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
+    [ "boss_dredAI", "de/d6e/a16534.html", "de/d6e/a16534" ],
+    [ "boss_dred", "de/d67/a16530.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "de/d67/a16530.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

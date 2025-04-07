@@ -1,7 +1,9 @@
 var a15494 =
 [
-    [ "npc_toogaAI", "dc/d0f/a15498.html", "dc/d0f/a15498" ],
-    [ "npc_tooga", "d4/dfd/a15494.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "d4/dfd/a15494.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "d4/dfd/a15494.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
+    [ "npc_custodian_of_timeAI", "d4/dfd/a15494.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "d4/dfd/a15494.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "d4/dfd/a15494.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "d4/dfd/a15494.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "d4/dfd/a15494.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "d4/dfd/a15494.html#a963736e62fbd0caea631ee3fb69fca46", null ]
 ];

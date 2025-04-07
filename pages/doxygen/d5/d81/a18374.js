@@ -1,6 +1,7 @@
 var a18374 =
 [
-    [ "npc_blazing_skeletonAI", "d5/d08/a18378.html", "d5/d08/a18378" ],
-    [ "npc_blazing_skeleton", "d5/d81/a18374.html#a158720704479946048472ffe0beec492", null ],
-    [ "GetAI", "d5/d81/a18374.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
+    [ "npc_valithria_portalAI", "d5/d81/a18374.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
+    [ "GetData", "d5/d81/a18374.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
+    [ "OnSpellClick", "d5/d81/a18374.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
+    [ "_used", "d5/d81/a18374.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
 ];

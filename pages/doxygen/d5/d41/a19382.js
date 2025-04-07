@@ -1,6 +1,9 @@
 var a19382 =
 [
-    [ "npc_spark_of_ionarAI", "d8/ded/a19386.html", "d8/ded/a19386" ],
-    [ "npc_spark_of_ionar", "d5/d41/a19382.html#a63578a0d77331849b7a48272870af04d", null ],
-    [ "GetAI", "d5/d41/a19382.html#aa1e524327b76ddc11a32e7a094e39dd1", null ]
+    [ "npc_stormforged_lieutenantAI", "d5/d41/a19382.html#a74d84534c39e7e6f3774099fd6b28d29", null ],
+    [ "JustEngagedWith", "d5/d41/a19382.html#a112bd4adaa290afd04d229347a96ff4a", null ],
+    [ "Reset", "d5/d41/a19382.html#aaef10316b8f7c3e980082cab722ffe9f", null ],
+    [ "UpdateAI", "d5/d41/a19382.html#a3944886823dad81bcd5d72e020910143", null ],
+    [ "BjarngrimGUID", "d5/d41/a19382.html#a4003deba30ff47ed3296325112b6cb0e", null ],
+    [ "events", "d5/d41/a19382.html#a530d16086a9e613f6f0299186f8bcc33", null ]
 ];

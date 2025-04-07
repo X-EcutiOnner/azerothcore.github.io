@@ -1,6 +1,12 @@
 var a19930 =
 [
-    [ "boss_freya_elder_ironbranchAI", "d8/d42/a19934.html", "d8/d42/a19934" ],
-    [ "boss_freya_elder_ironbranch", "db/da7/a19930.html#a066083e4d6fde6439f7dce80be209075", null ],
-    [ "GetAI", "db/da7/a19930.html#a67f483d12fe801c1d840dd0f74396564", null ]
+    [ "boss_freya_elder_stonebarkAI", "db/da7/a19930.html#a492329e296aaf29861d76e12e2b94631", null ],
+    [ "DamageTaken", "db/da7/a19930.html#af25c675f46f5ca0d0da170f367cc8bdc", null ],
+    [ "JustDied", "db/da7/a19930.html#a8dcdf4a1c8df10fc8ca419de924fe136", null ],
+    [ "JustEngagedWith", "db/da7/a19930.html#a77a231b75bbbbb56638e1e5535827150", null ],
+    [ "KilledUnit", "db/da7/a19930.html#ad1ce26306c2ea2102183b0679d46efd3", null ],
+    [ "Reset", "db/da7/a19930.html#a0d17571be8905c4c33ed4591e963d680", null ],
+    [ "UpdateAI", "db/da7/a19930.html#acd21050c265f6703060f95f2e3c725f3", null ],
+    [ "_chargesCount", "db/da7/a19930.html#a294714a547bbc7a7364c7477bdc0422c", null ],
+    [ "events", "db/da7/a19930.html#a07bcbf839c3b0b3924ec1915b47af0f2", null ]
 ];

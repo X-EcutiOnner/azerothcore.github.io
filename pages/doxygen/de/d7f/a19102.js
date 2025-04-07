@@ -1,6 +1,5 @@
 var a19102 =
 [
-    [ "npc_vortex_rideAI", "df/d71/a19106.html", "df/d71/a19106" ],
-    [ "npc_vortex_ride", "de/d7f/a19102.html#ad794cda407c9dfc35dd9bc2724f5014a", null ],
-    [ "GetAI", "de/d7f/a19102.html#a23ef53feb432127db2620810a55d02ff", null ]
+    [ "at_naxxramas_hub_portal", "de/d7f/a19102.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "de/d7f/a19102.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

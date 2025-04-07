@@ -1,6 +1,6 @@
 var a19546 =
 [
-    [ "boss_algalon_the_observerAI", "d8/d38/a19550.html", "d8/d38/a19550" ],
-    [ "boss_algalon_the_observer", "d4/d52/a19546.html#a0691b47a116401da58b246203ecba2cb", null ],
-    [ "GetAI", "d4/d52/a19546.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "d8/d38/a19550.html", "d8/d38/a19550" ],
+    [ "instance_halls_of_stone", "d4/d52/a19546.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d4/d52/a19546.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

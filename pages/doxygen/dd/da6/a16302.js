@@ -1,6 +1,7 @@
 var a16302 =
 [
-    [ "npc_toc_mageAI", "d7/dfc/a16306.html", "d7/dfc/a16306" ],
-    [ "npc_toc_mage", "dd/da6/a16302.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
-    [ "GetAI", "dd/da6/a16302.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
+    [ "npc_toc_shadow_priestAI", "dd/da6/a16302.html#af13a18be542fb314c19af52f89d216b8", null ],
+    [ "myCanCast", "dd/da6/a16302.html#a83422ff3e140b57a484d98876a9a8070", null ],
+    [ "UpdateAI", "dd/da6/a16302.html#afc23ba15d3ee925212e77b5211504c2b", null ],
+    [ "events", "dd/da6/a16302.html#a31665a22920b416d7423958a3e2928ec", null ]
 ];

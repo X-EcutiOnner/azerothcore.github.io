@@ -1,6 +1,5 @@
 var a20666 =
 [
-    [ "boss_yoggsaron_saraAI", "dd/dab/a20670.html", "dd/dab/a20670" ],
-    [ "boss_yoggsaron_sara", "dd/ded/a20666.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
-    [ "GetAI", "dd/ded/a20666.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
+    [ "achievement_xt002_nerf_engineering", "dd/ded/a20666.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "dd/ded/a20666.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

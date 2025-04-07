@@ -1,6 +1,12 @@
 var a18358 =
 [
-    [ "npc_valithria_portalAI", "d2/dba/a18362.html", "d2/dba/a18362" ],
-    [ "npc_valithria_portal", "d4/d91/a18358.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
-    [ "GetAI", "d4/d91/a18358.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
+    [ "npc_the_lich_king_controllerAI", "d4/d91/a18358.html#a211c370e9c370e00fba3c83e51738886", null ],
+    [ "AttackStart", "d4/d91/a18358.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
+    [ "DoAction", "d4/d91/a18358.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
+    [ "JustSummoned", "d4/d91/a18358.html#aa610e24316505165cbb826ff5bece5c5", null ],
+    [ "MoveInLineOfSight", "d4/d91/a18358.html#a0ee33ab5733c12163e92213376e893e4", null ],
+    [ "Reset", "d4/d91/a18358.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
+    [ "UpdateAI", "d4/d91/a18358.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
+    [ "_events", "d4/d91/a18358.html#a90c3d818318004c7c21ec66d4d080615", null ],
+    [ "_instance", "d4/d91/a18358.html#a480a284881ba5f56bc6222607bd01a76", null ]
 ];

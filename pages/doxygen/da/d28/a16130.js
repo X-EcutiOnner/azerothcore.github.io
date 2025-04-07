@@ -1,6 +1,6 @@
 var a16130 =
 [
-    [ "boss_black_knightAI", "d6/d36/a16134.html", "d6/d36/a16134" ],
-    [ "boss_black_knight", "da/d28/a16130.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "da/d28/a16130.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "FilterTargets", "da/d28/a16130.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
+    [ "PrepareSpellScript", "da/d28/a16130.html#a5ede43deece629a38f5482280983b59a", null ],
+    [ "Register", "da/d28/a16130.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
 ];

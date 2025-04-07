@@ -1,6 +1,5 @@
 var a17662 =
 [
-    [ "npc_coldflameAI", "db/dfc/a17666.html", "db/dfc/a17666" ],
-    [ "npc_coldflame", "d4/daa/a17662.html#a573b887358e2ba2281c4c119a267c33f", null ],
-    [ "GetAI", "d4/daa/a17662.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
+    [ "at_lady_deathwhisper_entrance", "d4/daa/a17662.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
+    [ "OnTrigger", "d4/daa/a17662.html#a769c838c94a88af5492057909d88f3de", null ]
 ];

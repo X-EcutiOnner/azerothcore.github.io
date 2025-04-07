@@ -1,5 +1,7 @@
 var a18602 =
 [
-    [ "at_icc_shutdown_traps", "db/dfc/a18602.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "db/dfc/a18602.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "HandleScript", "db/dfc/a18602.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
+    [ "PrepareSpellScript", "db/dfc/a18602.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
+    [ "Register", "db/dfc/a18602.html#afb0289c9906d0383a22dfd0e848573f8", null ],
+    [ "Validate", "db/dfc/a18602.html#a69344370af56f033e1c1ba16f4dee174", null ]
 ];

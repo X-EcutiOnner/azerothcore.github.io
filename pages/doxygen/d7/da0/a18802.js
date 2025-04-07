@@ -1,6 +1,6 @@
 var a18802 =
 [
-    [ "boss_isle_of_conquestAI", "d3/d02/a18806.html", "d3/d02/a18806" ],
-    [ "boss_isle_of_conquest", "d7/da0/a18802.html#ad4052d1b6865585d32016e1240449659", null ],
-    [ "GetAI", "d7/da0/a18802.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
+    [ "npc_four_car_garageAI", "d7/da0/a18802.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "d7/da0/a18802.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "d7/da0/a18802.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

@@ -1,6 +1,11 @@
 var a23390 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "dc/dfb/a23394.html", "dc/dfb/a23394" ],
-    [ "instance_gruuls_lair", "d3/d15/a23390.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "d3/d15/a23390.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "boss_kiggler_the_crazed", "d3/d15/a23390.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
+    [ "AttackStart", "d3/d15/a23390.html#a47c18487637dcb911852573e3aec85a2", null ],
+    [ "JustDied", "d3/d15/a23390.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
+    [ "JustEngagedWith", "d3/d15/a23390.html#acd10951a5b148579d0bd4196cc2e686e", null ],
+    [ "Reset", "d3/d15/a23390.html#a3bd8ca2488b2db298a198038a849189e", null ],
+    [ "UpdateAI", "d3/d15/a23390.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
+    [ "_scheduler", "d3/d15/a23390.html#af041c254910df663a03fcc815db635da", null ],
+    [ "instance", "d3/d15/a23390.html#aa78db443f19814c66b977fe008de74fa", null ]
 ];

@@ -1,5 +1,6 @@
 var a16838 =
 [
-    [ "at_hor_battered_hilt_start", "dc/dc7/a16838.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
-    [ "OnTrigger", "dc/dc7/a16838.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
+    [ "npc_hor_lumbering_abominationAI", "d0/dd4/a16842.html", "d0/dd4/a16842" ],
+    [ "npc_hor_lumbering_abomination", "dc/dc7/a16838.html#a0d394d1ba52a05a6db0ae983daea7123", null ],
+    [ "GetAI", "dc/dc7/a16838.html#a0601ac0af85e545617013846c48de29a", null ]
 ];

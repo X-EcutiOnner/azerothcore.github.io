@@ -1,7 +1,7 @@
 var a02945 =
 [
-    [ "boss_twilight_corrupter", "d2/dd5/a13410.html", "d2/dd5/a13410" ],
-    [ "at_twilight_grove", "d6/d38/a13414.html", "d6/d38/a13414" ],
+    [ "boss_twilight_corrupter", "d2/dd1/a13418.html", "d2/dd1/a13418" ],
+    [ "at_twilight_grove", "d6/da6/a13422.html", "d6/da6/a13422" ],
     [ "Misc", "d7/d6b/a02945.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "db/d6c/a02969.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

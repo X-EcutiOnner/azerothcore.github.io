@@ -1,10 +1,10 @@
 var a03959 =
 [
-    [ "boss_dred", "d6/dff/a16518.html", "d6/dff/a16518" ],
-    [ "boss_dred::boss_dredAI", "d7/de7/a16522.html", "d7/de7/a16522" ],
-    [ "spell_dred_grievious_bite_aura", "d1/d9e/a16526.html", "d1/d9e/a16526" ],
-    [ "spell_dred_raptor_call", "de/d67/a16530.html", "de/d67/a16530" ],
-    [ "achievement_better_off_dred", "de/d6e/a16534.html", "de/d6e/a16534" ],
+    [ "boss_dred", "de/d67/a16530.html", "de/d67/a16530" ],
+    [ "boss_dred::boss_dredAI", "de/d6e/a16534.html", "de/d6e/a16534" ],
+    [ "spell_dred_grievious_bite_aura", "dc/d65/a16538.html", "dc/d65/a16538" ],
+    [ "spell_dred_raptor_call", "df/d15/a16542.html", "df/d15/a16542" ],
+    [ "achievement_better_off_dred", "dd/d32/a16546.html", "dd/d32/a16546" ],
     [ "Misc", "d1/d55/a03959.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "db/d6c/a02969.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

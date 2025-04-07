@@ -1,7 +1,7 @@
 var a17214 =
 [
-    [ "HandleDummyTick", "d2/d39/a17214.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
-    [ "PrepareAuraScript", "d2/d39/a17214.html#a577523701b5a4ea2def4999e634c8862", null ],
-    [ "Register", "d2/d39/a17214.html#aaad9185c62333de4d6704b22780edd28", null ],
-    [ "Validate", "d2/d39/a17214.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
+    [ "HandleScript", "d2/d39/a17214.html#a4b1e392acea30a9259e65a75667704c5", null ],
+    [ "Load", "d2/d39/a17214.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
+    [ "PrepareSpellScript", "d2/d39/a17214.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
+    [ "Register", "d2/d39/a17214.html#a77632d11a172e5552c0c49de830a1639", null ]
 ];

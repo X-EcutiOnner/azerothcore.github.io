@@ -1,6 +1,7 @@
 var a14914 =
 [
-    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "da/d7c/a14918.html", "da/d7c/a14918" ],
-    [ "instance_ruins_of_ahnqiraj", "d7/d4d/a14914.html#adeacb1c68e4b12995a335d1bedde075a", null ],
-    [ "GetInstanceScript", "d7/d4d/a14914.html#a6a661e961c2599498de0ccd41c0763b4", null ]
+    [ "boss_rajaxx", "d7/d4d/a14914.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
+    [ "JustDied", "d7/d4d/a14914.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
+    [ "JustEngagedWith", "d7/d4d/a14914.html#a8dad79921559359b6aa7149641925fe5", null ],
+    [ "UpdateAI", "d7/d4d/a14914.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
 ];

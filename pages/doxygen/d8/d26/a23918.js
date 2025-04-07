@@ -1,9 +1,6 @@
 var a23918 =
 [
-    [ "npc_wounded_blood_elfAI", "d8/d26/a23918.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "d8/d26/a23918.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "d8/d26/a23918.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "d8/d26/a23918.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "d8/d26/a23918.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "d8/d26/a23918.html#a5affcb00e28a582f8926ab2226001cd0", null ]
+    [ "npc_ancestral_wolfAI", "df/da9/a23922.html", "df/da9/a23922" ],
+    [ "npc_ancestral_wolf", "d8/d26/a23918.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "d8/d26/a23918.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

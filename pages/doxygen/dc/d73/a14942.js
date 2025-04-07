@@ -1,5 +1,6 @@
 var a14942 =
 [
-    [ "boss_vem", "dc/d73/a14942.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
-    [ "JustEngagedWith", "dc/d73/a14942.html#ae4b7fa599d31155bdee566b31c60b237", null ]
+    [ "HandleScript", "dc/d73/a14942.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
+    [ "PrepareSpellScript", "dc/d73/a14942.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
+    [ "Register", "dc/d73/a14942.html#a434f0aef7f32edb6990efb992e4d57af", null ]
 ];

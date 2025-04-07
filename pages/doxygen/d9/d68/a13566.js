@@ -1,7 +1,9 @@
 var a13566 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "d9/d43/a13570.html", "d9/d43/a13570" ],
-    [ "npc_lady_sylvanas_windrunner", "d9/d68/a13566.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
-    [ "GetAI", "d9/d68/a13566.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
-    [ "OnQuestReward", "d9/d68/a13566.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
+    [ "npc_tyrion_spybotAI", "d9/d68/a13566.html#aedad685279012266637d29069ead9063", null ],
+    [ "Reset", "d9/d68/a13566.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
+    [ "UpdateAI", "d9/d68/a13566.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
+    [ "WaypointReached", "d9/d68/a13566.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
+    [ "uiPhase", "d9/d68/a13566.html#af5dbb99fe18d96665efd04bd53294636", null ],
+    [ "uiTimer", "d9/d68/a13566.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
 ];

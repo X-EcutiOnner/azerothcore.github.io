@@ -1,5 +1,6 @@
 var a24258 =
 [
-    [ "npc_pet_dk_army_of_the_deadAI", "de/d7b/a24258.html#a2d934ed807d225f6b9f2206f0556f26d", null ],
-    [ "InitializeAI", "de/d7b/a24258.html#af3ecec126ed3d902acd4bfe979382307", null ]
+    [ "npc_pet_dk_risen_allyAI", "d5/df0/a24262.html", "d5/df0/a24262" ],
+    [ "npc_pet_dk_risen_ally", "de/d7b/a24258.html#a2f568fd9062b2423edcf0ab4e749efc3", null ],
+    [ "GetAI", "de/d7b/a24258.html#a7aca5d410a1a28241943914a0d1c71df", null ]
 ];

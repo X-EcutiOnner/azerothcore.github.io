@@ -1,9 +1,8 @@
 var a26550 =
 [
-    [ "CalculateAmount", "de/dc4/a26550.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
-    [ "CheckProc", "de/dc4/a26550.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
-    [ "HandleProc", "de/dc4/a26550.html#a741570ba77f70d90b437198f63e565f3", null ],
-    [ "PrepareAuraScript", "de/dc4/a26550.html#af4e49e2362994f247c119c16c013e4b3", null ],
-    [ "Register", "de/dc4/a26550.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
-    [ "Validate", "de/dc4/a26550.html#a939d6815bcaee9b9d2b062313aac912a", null ]
+    [ "ApplyDebuff", "de/dc4/a26550.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "de/dc4/a26550.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "de/dc4/a26550.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "de/dc4/a26550.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "de/dc4/a26550.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

@@ -1,7 +1,8 @@
 var a19606 =
 [
-    [ "HandleDummyEffect", "db/da5/a19606.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "db/da5/a19606.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "db/da5/a19606.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "db/da5/a19606.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "HandlePeriodic", "db/da5/a19606.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "db/da5/a19606.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "db/da5/a19606.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "db/da5/a19606.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "db/da5/a19606.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

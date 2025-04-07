@@ -1,7 +1,6 @@
 var a18954 =
 [
-    [ "HandleScript", "df/d3f/a18954.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "df/d3f/a18954.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "df/d3f/a18954.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "df/d3f/a18954.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "boss_kelthuzad_minionAI", "de/d27/a18958.html", "de/d27/a18958" ],
+    [ "boss_kelthuzad_minion", "df/d3f/a18954.html#a4c6d430035c964b4063139c0cda6bfff", null ],
+    [ "GetAI", "df/d3f/a18954.html#ab951068fedced148653ebf9124ba5e3d", null ]
 ];

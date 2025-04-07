@@ -1,8 +1,6 @@
 var a14246 =
 [
-    [ "HandleDummy", "d8/dda/a14246.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
-    [ "Load", "d8/dda/a14246.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
-    [ "PrepareSpellScript", "d8/dda/a14246.html#af1d1ad32d41d79008d650b388353346b", null ],
-    [ "Register", "d8/dda/a14246.html#a53a7c4c025324b205a29f92dd48aefde", null ],
-    [ "handled", "d8/dda/a14246.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
+    [ "HandleDummy", "d8/dda/a14246.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
+    [ "PrepareSpellScript", "d8/dda/a14246.html#a87a787c6ab3804847c90266f570381c6", null ],
+    [ "Register", "d8/dda/a14246.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
 ];

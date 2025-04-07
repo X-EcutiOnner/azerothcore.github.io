@@ -1,6 +1,7 @@
 var a17878 =
 [
-    [ "npc_precious_iccAI", "d9/dce/a17882.html", "d9/dce/a17882" ],
-    [ "npc_precious_icc", "d2/de8/a17878.html#a463eb0df1edb17e154658dac131f0898", null ],
-    [ "GetAI", "d2/de8/a17878.html#aa63840c5968a089bff41dcd9c86d5849", null ]
+    [ "HandleCast", "d2/de8/a17878.html#aaa3262bc782e342825d4caba2954e95d", null ],
+    [ "PrepareSpellScript", "d2/de8/a17878.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
+    [ "Register", "d2/de8/a17878.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
+    [ "Validate", "d2/de8/a17878.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
 ];

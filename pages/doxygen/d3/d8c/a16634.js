@@ -1,8 +1,6 @@
 var a16634 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "d3/d8c/a16634.html#a61797329ecddde6da2e23e951fa92ca2", null ],
-    [ "Reset", "d3/d8c/a16634.html#a5bb03371b24593ca2de995bf85857782", null ],
-    [ "UpdateAI", "d3/d8c/a16634.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
-    [ "pInstance", "d3/d8c/a16634.html#a6ced23b3b4150b31020a636559d6eec6", null ],
-    [ "timer", "d3/d8c/a16634.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
+    [ "boss_bronjahmAI", "db/d2b/a16638.html", "db/d2b/a16638" ],
+    [ "boss_bronjahm", "d3/d8c/a16634.html#a699e1be5273979c76cd5d06b60f0ee05", null ],
+    [ "GetAI", "d3/d8c/a16634.html#a04676028f1f324b6eecea625122794ed", null ]
 ];

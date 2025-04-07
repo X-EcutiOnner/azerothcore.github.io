@@ -1,5 +1,9 @@
 var a16842 =
 [
-    [ "at_hor_battered_hilt_throw", "d0/dd4/a16842.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
-    [ "OnTrigger", "d0/dd4/a16842.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
+    [ "npc_hor_lumbering_abominationAI", "d0/dd4/a16842.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
+    [ "JustDied", "d0/dd4/a16842.html#af243a79da3028d3d66facc8a15132f78", null ],
+    [ "JustEngagedWith", "d0/dd4/a16842.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
+    [ "Reset", "d0/dd4/a16842.html#a4270f405bbade0028fce4df0655a1987", null ],
+    [ "UpdateAI", "d0/dd4/a16842.html#a995d0f7902cb70280d1448ac7731a816", null ],
+    [ "events", "d0/dd4/a16842.html#aee9063950477b50e38ec904e91882689", null ]
 ];

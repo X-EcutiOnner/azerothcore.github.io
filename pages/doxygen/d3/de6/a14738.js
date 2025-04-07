@@ -1,6 +1,5 @@
 var a14738 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "d6/da2/a14742.html", "d6/da2/a14742" ],
-    [ "instance_dire_maul", "d3/de6/a14738.html#a54ac2c7095a99481c7efbe4237533fac", null ],
-    [ "GetInstanceScript", "d3/de6/a14738.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
+    [ "npc_black_morass_summoned_add", "d3/de6/a14738.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
+    [ "EnterEvadeMode", "d3/de6/a14738.html#a437e7b72b985713d22883f3e33f30942", null ]
 ];

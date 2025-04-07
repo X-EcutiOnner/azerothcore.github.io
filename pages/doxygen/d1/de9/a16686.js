@@ -1,6 +1,6 @@
 var a16686 =
 [
-    [ "entry", "d1/de9/a16686.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "d1/de9/a16686.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "d1/de9/a16686.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "npc_fos_leader_secondAI", "da/db9/a16690.html", "da/db9/a16690" ],
+    [ "npc_fos_leader_second", "d1/de9/a16686.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
+    [ "GetAI", "d1/de9/a16686.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
 ];

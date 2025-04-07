@@ -1,6 +1,8 @@
 var a21330 =
 [
-    [ "npc_azure_spellbreakerAI", "d4/d11/a21334.html", "d4/d11/a21334" ],
-    [ "npc_azure_spellbreaker", "d3/dac/a21330.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
-    [ "GetAI", "d3/dac/a21330.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
+    [ "npc_azure_raiderAI", "d3/dac/a21330.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
+    [ "Reset", "d3/dac/a21330.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
+    [ "UpdateAI", "d3/dac/a21330.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
+    [ "uiConcussionBlowTimer", "d3/dac/a21330.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
+    [ "uiMagicReflectionTimer", "d3/dac/a21330.html#acb262ab506ea58201abfe2057525c548", null ]
 ];

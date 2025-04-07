@@ -1,6 +1,8 @@
 var a22514 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "d9/d53/a22518.html", "d9/d53/a22518" ],
-    [ "instance_mana_tombs", "d1/dcb/a22514.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
-    [ "GetInstanceScript", "d1/dcb/a22514.html#a26e4dad0957df886bc446396ab48ceda", null ]
+    [ "npc_yor", "d1/dcb/a22514.html#a43ed8720d06c035085d481dbe6539dca", null ],
+    [ "JustEngagedWith", "d1/dcb/a22514.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
+    [ "Reset", "d1/dcb/a22514.html#aa698540b646fd870b33afbaf19ddbe07", null ],
+    [ "UpdateAI", "d1/dcb/a22514.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
+    [ "_scheduler", "d1/dcb/a22514.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
 ];

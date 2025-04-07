@@ -1,6 +1,6 @@
 var a15946 =
 [
-    [ "boss_halionAI", "d1/d6f/a15950.html", "d1/d6f/a15950" ],
-    [ "boss_halion", "d6/d2d/a15946.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
-    [ "GetAI", "d6/d2d/a15946.html#a142314efb4f45ec146ab0225271d29b1", null ]
+    [ "npc_onyx_flamecallerAI", "d1/d6f/a15950.html", "d1/d6f/a15950" ],
+    [ "npc_onyx_flamecaller", "d6/d2d/a15946.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
+    [ "GetAI", "d6/d2d/a15946.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
 ];

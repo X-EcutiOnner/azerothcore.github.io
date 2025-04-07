@@ -1,5 +1,7 @@
 var a29534 =
 [
-    [ "X", "d5/d22/a29534.html#aaa80e6b678ce006077b77ec16d47cf12", null ],
-    [ "Y", "d5/d22/a29534.html#aa1ba391092f0893a992350d9850ae66e", null ]
+    [ "MPQArchive", "d9/d21/a28546.html", "d9/d21/a28546" ],
+    [ "MPQFile", "d5/d7c/a28550.html", "d5/d7c/a28550" ],
+    [ "ArchiveSet", "d5/d22/a29534.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "d5/d22/a29534.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

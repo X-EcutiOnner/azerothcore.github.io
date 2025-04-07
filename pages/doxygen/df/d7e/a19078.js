@@ -1,5 +1,5 @@
 var a19078 =
 [
-    [ "npc_mr_bigglesworth", "df/d7e/a19078.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
-    [ "JustDied", "df/d7e/a19078.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
+    [ "at_thaddius_entrance", "df/d7e/a19078.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "OnTrigger", "df/d7e/a19078.html#af8635a58d4da0421b72b4451c1ebafc5", null ]
 ];

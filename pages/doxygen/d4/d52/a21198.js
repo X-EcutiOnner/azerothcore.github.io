@@ -1,10 +1,6 @@
 var a21198 =
 [
-    [ "npc_erekem_guardAI", "d4/d52/a21198.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
-    [ "JustEngagedWith", "d4/d52/a21198.html#a93819c5c76821b1c9559be55359d677e", null ],
-    [ "MoveInLineOfSight", "d4/d52/a21198.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
-    [ "Reset", "d4/d52/a21198.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
-    [ "UpdateAI", "d4/d52/a21198.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
-    [ "events", "d4/d52/a21198.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
-    [ "pInstance", "d4/d52/a21198.html#a81985b8522111f2aae540353cd5641fe", null ]
+    [ "boss_erekemAI", "da/d3b/a21202.html", "da/d3b/a21202" ],
+    [ "boss_erekem", "d4/d52/a21198.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
+    [ "GetAI", "d4/d52/a21198.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
 ];

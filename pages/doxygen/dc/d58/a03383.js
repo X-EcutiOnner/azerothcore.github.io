@@ -8,6 +8,7 @@ var a03383 =
     [ "spell_entropius_void_zone_visual_aura", "df/d68/a13334.html", "df/d68/a13334" ],
     [ "spell_entropius_black_hole_effect", "d2/dc0/a13338.html", "d2/dc0/a13338" ],
     [ "spell_entropius_negative_energy_periodic", "d6/d72/a13342.html", "d6/d72/a13342" ],
+    [ "spell_muru_blackhole", "d3/d4e/a13346.html", "d3/d4e/a13346" ],
     [ "Spells", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d7/d46/a00890.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d7/d46/a00890.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

@@ -1,12 +1,6 @@
 var a13814 =
 [
-    [ "npc_zulian_prowlerAI", "d7/d6d/a13814.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "d7/d6d/a13814.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "d7/d6d/a13814.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "d7/d6d/a13814.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "d7/d6d/a13814.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "d7/d6d/a13814.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "d7/d6d/a13814.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "d7/d6d/a13814.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "d7/d6d/a13814.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "boss_arlokkAI", "da/da7/a13818.html", "da/da7/a13818" ],
+    [ "boss_arlokk", "d7/d6d/a13814.html#a55bb21239e05acff18d2fb147449800e", null ],
+    [ "GetAI", "d7/d6d/a13814.html#a58b8cc7a198784b48faaab1b069d397c", null ]
 ];

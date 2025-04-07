@@ -1,11 +1,6 @@
 var a18370 =
 [
-    [ "npc_valithria_cloudAI", "de/d81/a18370.html#a5b550d0154f302cecc509fbd868a53bb", null ],
-    [ "AttackStart", "de/d81/a18370.html#a5835d5ba19e1480016e585c1e49489c9", null ],
-    [ "EnterEvadeMode", "de/d81/a18370.html#a346fd998d41451d7d1e605afdb13b65c", null ],
-    [ "MoveInLineOfSight", "de/d81/a18370.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
-    [ "Reset", "de/d81/a18370.html#abca34d7285ef23c062006df8f8ae6d53", null ],
-    [ "UpdateAI", "de/d81/a18370.html#a6908f5731915bf7d15bb4921c960aa30", null ],
-    [ "_events", "de/d81/a18370.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
-    [ "_instance", "de/d81/a18370.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
+    [ "npc_valithria_portalAI", "d5/d81/a18374.html", "d5/d81/a18374" ],
+    [ "npc_valithria_portal", "de/d81/a18370.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
+    [ "GetAI", "de/d81/a18370.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
 ];

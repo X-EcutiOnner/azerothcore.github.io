@@ -1,9 +1,6 @@
 var a18246 =
 [
-    [ "FilterTargets", "d2/d14/a18246.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
-    [ "Load", "d2/d14/a18246.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
-    [ "PrepareSpellScript", "d2/d14/a18246.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
-    [ "Register", "d2/d14/a18246.html#afad887fba0d97512a7a13a31977cf42d", null ],
-    [ "Validate", "d2/d14/a18246.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
-    [ "_instance", "d2/d14/a18246.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
+    [ "npc_terenas_menethilAI", "dd/d8c/a18250.html", "dd/d8c/a18250" ],
+    [ "npc_terenas_menethil", "d2/d14/a18246.html#a6b6850598c582e3d44c13275302fd32d", null ],
+    [ "GetAI", "d2/d14/a18246.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
 ];

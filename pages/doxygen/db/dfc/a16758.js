@@ -1,6 +1,8 @@
 var a16758 =
 [
-    [ "npc_spectral_footmanAI", "df/d9c/a16762.html", "df/d9c/a16762" ],
-    [ "npc_spectral_footman", "db/dfc/a16758.html#a300fb06b896d2d08f9e3671422232ad2", null ],
-    [ "GetAI", "db/dfc/a16758.html#adbc1b961aba6cefb97dfff3014248735", null ]
+    [ "npc_phantom_hallucinationAI", "db/dfc/a16758.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
+    [ "EnterEvadeMode", "db/dfc/a16758.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
+    [ "JustDied", "db/dfc/a16758.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
+    [ "UpdateAI", "db/dfc/a16758.html#ad874a741c641dbac6380aa682d582d7c", null ],
+    [ "numOfUpd", "db/dfc/a16758.html#adb78f5dcd272e8223f895079885a5461", null ]
 ];

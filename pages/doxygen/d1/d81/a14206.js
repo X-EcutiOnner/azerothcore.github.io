@@ -1,6 +1,5 @@
 var a14206 =
 [
-    [ "gameobjectId", "d1/d81/a14206.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "d1/d81/a14206.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "d1/d81/a14206.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "d1/d81/a14206.html#a40207493c75d8a63284e08f1f75d56c4", null ],
+    [ "MoveInLineOfSight", "d1/d81/a14206.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
 ];

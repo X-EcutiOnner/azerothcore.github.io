@@ -1,7 +1,6 @@
 var a16338 =
 [
-    [ "npc_toc_dkAI", "d2/d8c/a16338.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
-    [ "myCanCast", "d2/d8c/a16338.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
-    [ "UpdateAI", "d2/d8c/a16338.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
-    [ "events", "d2/d8c/a16338.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
+    [ "npc_toc_warriorAI", "d9/dc6/a16342.html", "d9/dc6/a16342" ],
+    [ "npc_toc_warrior", "d2/d8c/a16338.html#a3e969be07603ef59389106769010660c", null ],
+    [ "GetAI", "d2/d8c/a16338.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
 ];

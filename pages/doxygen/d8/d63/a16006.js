@@ -1,7 +1,10 @@
 var a16006 =
 [
-    [ "HandleScriptEffect", "d8/d63/a16006.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "d8/d63/a16006.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "d8/d63/a16006.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "d8/d63/a16006.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "spell_halion_combustion_consumption_aura", "d8/d63/a16006.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
+    [ "AddMarkStack", "d8/d63/a16006.html#a337776c42bd6c42ecdffb508808ed070", null ],
+    [ "OnApply", "d8/d63/a16006.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
+    [ "OnRemove", "d8/d63/a16006.html#a3959dbe8bbdf2d3953daf14072614708", null ],
+    [ "PrepareAuraScript", "d8/d63/a16006.html#a334f2211429dde989b6beb6c10a71464", null ],
+    [ "Register", "d8/d63/a16006.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
+    [ "_markSpell", "d8/d63/a16006.html#a8236d9d50f267a12216d90f8041da439", null ]
 ];

@@ -1,5 +1,5 @@
 var a27198 =
 [
-    [ "go_tele_to_violet_stand", "dc/d2b/a27198.html#a63350db1dfd400c565e30775378d48cc", null ],
-    [ "OnGossipHello", "dc/d2b/a27198.html#a4d075584f065501a2c3be9ef82387f43", null ]
+    [ "go_sacred_fire_of_life", "dc/d2b/a27198.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "dc/d2b/a27198.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

@@ -1,14 +1,7 @@
 var a15046 =
 [
-    [ "boss_twinemperorsAI", "de/da5/a15046.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "de/da5/a15046.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "de/da5/a15046.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "de/da5/a15046.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "de/da5/a15046.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "de/da5/a15046.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "de/da5/a15046.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "de/da5/a15046.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "de/da5/a15046.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "de/da5/a15046.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "de/da5/a15046.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "npc_sartura_royal_guard", "de/da5/a15046.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "de/da5/a15046.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "de/da5/a15046.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "de/da5/a15046.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

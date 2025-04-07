@@ -1,11 +1,6 @@
 var a20546 =
 [
-    [ "boss_thorim_ancient_rune_giantAI", "d2/d9e/a20546.html#a75df92817fb5eafa28e5d9c33679dcf8", null ],
-    [ "DoAction", "d2/d9e/a20546.html#a1ee097badabf5264517bc0e9d9a45051", null ],
-    [ "JustDied", "d2/d9e/a20546.html#ac69a6187be136fa53c65a7eb13bf19d4", null ],
-    [ "JustEngagedWith", "d2/d9e/a20546.html#acbfd05bbbae2f5b8a6fa2ee8bc440498", null ],
-    [ "Reset", "d2/d9e/a20546.html#a280a68af0d6b65bc99bb9b7116b801ad", null ],
-    [ "UpdateAI", "d2/d9e/a20546.html#aef980c0fe0c50beca167ea0ef46ff0c7", null ],
-    [ "_isInCombat", "d2/d9e/a20546.html#ab015a6dc76067be1d51d3ce67b6a7aff", null ],
-    [ "events", "d2/d9e/a20546.html#afff251a2cc56b7ce686a5b58c196c16c", null ]
+    [ "boss_thorim_runic_colossusAI", "da/d6f/a20550.html", "da/d6f/a20550" ],
+    [ "boss_thorim_runic_colossus", "d2/d9e/a20546.html#a2ea1c08a98b689cd6c766578e98a3191", null ],
+    [ "GetAI", "d2/d9e/a20546.html#a6d64427ff427a1054e10c9d987b77f53", null ]
 ];

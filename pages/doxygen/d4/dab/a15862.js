@@ -1,8 +1,6 @@
 var a15862 =
 [
-    [ "npc_twilight_summonAI", "d4/dab/a15862.html#a8f5dfe54a5ac1d7a058c5efb9bead77a", null ],
-    [ "DoAction", "d4/dab/a15862.html#aac4c1e3bc635b30f1ceed8b25f2c7829", null ],
-    [ "Reset", "d4/dab/a15862.html#a1174c827aef1b05603214e4717c78f8a", null ],
-    [ "UpdateAI", "d4/dab/a15862.html#addb312c34c668b8189087de6cf89543b", null ],
-    [ "fadeArmorTimer", "d4/dab/a15862.html#ace4028c8f4d0240b4e2939481312d0d2", null ]
+    [ "boss_sartharion_vesperonAI", "df/de6/a15866.html", "df/de6/a15866" ],
+    [ "boss_sartharion_vesperon", "d4/dab/a15862.html#a53af67abd9f9bff7f72ee2441e885500", null ],
+    [ "GetAI", "d4/dab/a15862.html#ad045054b44910461e704c412a524bdc4", null ]
 ];

@@ -1,10 +1,10 @@
 var a03140 =
 [
-    [ "boss_marli", "dd/d75/a13962.html", "dd/d75/a13962" ],
-    [ "npc_spawn_of_marli", "d3/dd5/a13966.html", "d3/dd5/a13966" ],
-    [ "spell_hatch_eggs", "da/da0/a13970.html", "da/da0/a13970" ],
-    [ "spell_enveloping_webs", "d0/d0d/a13974.html", "d0/d0d/a13974" ],
-    [ "spell_marli_transform", "df/d6a/a13978.html", "df/d6a/a13978" ],
+    [ "boss_marli", "d0/d0d/a13974.html", "d0/d0d/a13974" ],
+    [ "npc_spawn_of_marli", "df/d6a/a13978.html", "df/d6a/a13978" ],
+    [ "spell_hatch_eggs", "d2/d3f/a13982.html", "d2/d3f/a13982" ],
+    [ "spell_enveloping_webs", "de/d11/a13986.html", "de/d11/a13986" ],
+    [ "spell_marli_transform", "d7/de6/a13990.html", "d7/de6/a13990" ],
     [ "Misc", "da/d72/a03140.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "db/d6c/a02969.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

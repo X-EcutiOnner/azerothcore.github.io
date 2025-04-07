@@ -1,6 +1,6 @@
 var a27266 =
 [
-    [ "guard_shattrath_scryerAI", "de/d4f/a27270.html", "de/d4f/a27270" ],
-    [ "guard_shattrath_scryer", "da/dab/a27266.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "da/dab/a27266.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "go_bellsAI", "de/d4f/a27270.html", "de/d4f/a27270" ],
+    [ "go_bells", "da/dab/a27266.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
+    [ "GetAI", "da/dab/a27266.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
 ];

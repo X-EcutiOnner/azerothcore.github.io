@@ -1,8 +1,6 @@
 var a16746 =
 [
-    [ "npc_phantom_hallucinationAI", "d7/d80/a16746.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
-    [ "EnterEvadeMode", "d7/d80/a16746.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
-    [ "JustDied", "d7/d80/a16746.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
-    [ "UpdateAI", "d7/d80/a16746.html#ad874a741c641dbac6380aa682d582d7c", null ],
-    [ "numOfUpd", "d7/d80/a16746.html#adb78f5dcd272e8223f895079885a5461", null ]
+    [ "npc_phantom_mageAI", "d8/d7e/a16750.html", "d8/d7e/a16750" ],
+    [ "npc_phantom_mage", "d7/d80/a16746.html#ad57414231c40917bf55d6155fa9c05db", null ],
+    [ "GetAI", "d7/d80/a16746.html#ae2134b8be3052da659390bde7c2aac2e", null ]
 ];

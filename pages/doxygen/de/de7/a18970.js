@@ -1,6 +1,6 @@
 var a18970 =
 [
-    [ "boss_maexxnaAI", "dc/d84/a18974.html", "dc/d84/a18974" ],
-    [ "boss_maexxna", "de/de7/a18970.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "de/de7/a18970.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "boss_loathebAI", "dc/d84/a18974.html", "dc/d84/a18974" ],
+    [ "boss_loatheb", "de/de7/a18970.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
+    [ "GetAI", "de/de7/a18970.html#aca9b3a2515777f81b354c01a9727276e", null ]
 ];

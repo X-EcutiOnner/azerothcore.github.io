@@ -1,7 +1,6 @@
 var a21766 =
 [
-    [ "npc_emilyAI", "da/df4/a21770.html", "da/df4/a21770" ],
-    [ "npc_emily", "d4/d4f/a21766.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "d4/d4f/a21766.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "d4/d4f/a21766.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "npc_torturer_lecraftAI", "da/df4/a21770.html", "da/df4/a21770" ],
+    [ "npc_torturer_lecraft", "d4/d4f/a21766.html#a789f8bdafe96d5cb01225b940a80c651", null ],
+    [ "GetAI", "d4/d4f/a21766.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
 ];

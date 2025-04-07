@@ -1,6 +1,10 @@
 var a19014 =
 [
-    [ "boss_razuvious_minionAI", "d7/dfb/a19018.html", "d7/dfb/a19018" ],
-    [ "boss_razuvious_minion", "db/d3a/a19014.html#ae23d51c9ebfe31f624a749578d27252c", null ],
-    [ "GetAI", "db/d3a/a19014.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
+    [ "boss_patchwerkAI", "db/d3a/a19014.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "db/d3a/a19014.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "db/d3a/a19014.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "db/d3a/a19014.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "db/d3a/a19014.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "db/d3a/a19014.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "db/d3a/a19014.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

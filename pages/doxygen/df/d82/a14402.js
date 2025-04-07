@@ -1,6 +1,5 @@
 var a14402 =
 [
-    [ "HandleScriptEffect", "df/d82/a14402.html#a074f54a4b022adc6ea34b3716dec745f", null ],
-    [ "PrepareSpellScript", "df/d82/a14402.html#a725d5bc1f76614778b140f3061aa2e03", null ],
-    [ "Register", "df/d82/a14402.html#a339df7ae9553fbae68ce791baef1df5e", null ]
+    [ "npc_pilgrims_bounty_plate", "df/d82/a14402.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "df/d82/a14402.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

@@ -1,5 +1,6 @@
 var a25118 =
 [
-    [ "PrepareSpellScript", "db/d6a/a25118.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
-    [ "Register", "db/d6a/a25118.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
+    [ "CalculateAmount", "db/d6a/a25118.html#a0522f4bf54b4a71df4e09f97a28fda45", null ],
+    [ "PrepareAuraScript", "db/d6a/a25118.html#acf699e467734499dd992f401da38cf88", null ],
+    [ "Register", "db/d6a/a25118.html#a6e6396a162a532ff25b9bd7c551f05d8", null ]
 ];

@@ -1,6 +1,6 @@
 var a23718 =
 [
-    [ "HandlePeriodic", "d0/d96/a23718.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
-    [ "PrepareAuraScript", "d0/d96/a23718.html#a2b809a60626119f6bcf595bd3581c2be", null ],
-    [ "Register", "d0/d96/a23718.html#a299f84e9c12406c79a56999a13de5c1c", null ]
+    [ "npc_capernian", "d0/d96/a23718.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "d0/d96/a23718.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "d0/d96/a23718.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

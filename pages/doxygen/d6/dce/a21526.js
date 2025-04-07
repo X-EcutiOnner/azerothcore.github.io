@@ -1,10 +1,5 @@
 var a21526 =
 [
-    [ "npc_preparations_for_war_vehicle", "d6/dce/a21526.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "InitializeAI", "d6/dce/a21526.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
-    [ "MovementInform", "d6/dce/a21526.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
-    [ "UpdateAI", "d6/dce/a21526.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "pointId", "d6/dce/a21526.html#ae75d286eb6116b41adb346861b3c1365", null ],
-    [ "searchForShipTimer", "d6/dce/a21526.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
-    [ "transportEntry", "d6/dce/a21526.html#aa0083566387cd42750aaa56b1fa23fed", null ]
+    [ "npc_leryssaAI", "d6/dce/a21526.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
+    [ "MovementInform", "d6/dce/a21526.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
 ];

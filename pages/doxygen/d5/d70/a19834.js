@@ -1,8 +1,6 @@
 var a19834 =
 [
-    [ "OnApply", "d5/d70/a19834.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "d5/d70/a19834.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "d5/d70/a19834.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "d5/d70/a19834.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "d5/d70/a19834.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "npc_mechanoliftAI", "d0/d76/a19838.html", "d0/d76/a19838" ],
+    [ "npc_mechanolift", "d5/d70/a19834.html#a7b753a3426213706c899745a6d0d989b", null ],
+    [ "GetAI", "d5/d70/a19834.html#a823a929bf65f32cdbe9b56df5d33c66d", null ]
 ];

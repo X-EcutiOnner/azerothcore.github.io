@@ -1,6 +1,6 @@
 var a13822 =
 [
-    [ "boss_gahzranka", "db/dfd/a13822.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "db/dfd/a13822.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "db/dfd/a13822.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "npc_zulian_prowlerAI", "d3/d2f/a13826.html", "d3/d2f/a13826" ],
+    [ "npc_zulian_prowler", "db/dfd/a13822.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "db/dfd/a13822.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

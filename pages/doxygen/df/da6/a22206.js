@@ -1,6 +1,8 @@
 var a22206 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d3/d7e/a22210.html", "d3/d7e/a22210" ],
-    [ "npc_vehicle_d16_propelled_delivery", "df/da6/a22206.html#a93bed362ae78231b21327994a3e4cafd", null ],
-    [ "GetAI", "df/da6/a22206.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
+    [ "npc_hyldsmeet_protodrakeAI", "df/da6/a22206.html#a30794392a32b1323fb0a86615b341741", null ],
+    [ "PassengerBoarded", "df/da6/a22206.html#acb699d519bf79702a34b7d9910fe7c9e", null ],
+    [ "UpdateAI", "df/da6/a22206.html#afd2168f8dc7328898f5e769c31c6da5a", null ],
+    [ "_accessoryRespawnTimer", "df/da6/a22206.html#a4c6b4236bf35278d05c4b78f1eda6b75", null ],
+    [ "_vehicleKit", "df/da6/a22206.html#aba68a138ef44af7d012c8c7dd4c06c6d", null ]
 ];

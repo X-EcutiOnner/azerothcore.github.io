@@ -1,6 +1,6 @@
 var a17142 =
 [
-    [ "boss_prince_taldaramAI", "de/dcc/a17146.html", "de/dcc/a17146" ],
-    [ "boss_prince_taldaram_icc", "d0/d7e/a17142.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
-    [ "GetAI", "d0/d7e/a17142.html#a2a8c89206ab72afc68260f41a246da3b", null ]
+    [ "ShockVortexExplodeEvent", "d0/d7e/a17142.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "d0/d7e/a17142.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "d0/d7e/a17142.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

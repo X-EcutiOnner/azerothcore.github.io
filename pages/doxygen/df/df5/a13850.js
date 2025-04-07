@@ -1,5 +1,8 @@
 var a13850 =
 [
-    [ "at_zulgurub_entrance_speech", "df/df5/a13850.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "df/df5/a13850.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
+    [ "boss_grilekAI", "df/df5/a13850.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
+    [ "JustEngagedWith", "df/df5/a13850.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
+    [ "Reset", "df/df5/a13850.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
+    [ "UpdateAI", "df/df5/a13850.html#a19438103c9a582a7d36d805c80131e8c", null ],
+    [ "_pursuitTargetGUID", "df/df5/a13850.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
 ];

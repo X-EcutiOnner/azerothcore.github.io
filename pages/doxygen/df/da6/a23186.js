@@ -1,6 +1,7 @@
 var a23186 =
 [
-    [ "HandleScript", "df/da6/a23186.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
-    [ "PrepareSpellScript", "df/da6/a23186.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
-    [ "Register", "df/da6/a23186.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
+    [ "npc_ahune_ice_spear_bunny", "df/da6/a23186.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "df/da6/a23186.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "df/da6/a23186.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "df/da6/a23186.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

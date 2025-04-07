@@ -1,8 +1,6 @@
 var a17326 =
 [
-    [ "CheckProc", "d1/d6d/a17326.html#a11620e4d645b3bfd35924700b5dad289", null ],
-    [ "HandleProc", "d1/d6d/a17326.html#aa80a032f2ec80aba36f6fe0208412587", null ],
-    [ "PrepareAuraScript", "d1/d6d/a17326.html#afe04f0cb6539238412253b63dd3c82b9", null ],
-    [ "Register", "d1/d6d/a17326.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
-    [ "Validate", "d1/d6d/a17326.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
+    [ "npc_saurfang_eventAI", "d9/da1/a17330.html", "d9/da1/a17330" ],
+    [ "npc_saurfang_event", "d1/d6d/a17326.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "d1/d6d/a17326.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

@@ -1,6 +1,6 @@
 var a21910 =
 [
-    [ "npc_black_knight_graveyardAI", "d7/d67/a21914.html", "d7/d67/a21914" ],
-    [ "npc_black_knight_graveyard", "d7/dc0/a21910.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
-    [ "GetAI", "d7/dc0/a21910.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
+    [ "npc_plaguehound_trackerAI", "d7/d67/a21914.html", "d7/d67/a21914" ],
+    [ "npc_plaguehound_tracker", "d7/dc0/a21910.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "d7/dc0/a21910.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

@@ -1,7 +1,6 @@
 var a15226 =
 [
-    [ "HandleEffectRemove", "d6/dd4/a15226.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "d6/dd4/a15226.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "d6/dd4/a15226.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "d6/dd4/a15226.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "npc_stillpine_capitiveAI", "dc/d61/a15230.html", "dc/d61/a15230" ],
+    [ "npc_stillpine_capitive", "d6/dd4/a15226.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
+    [ "GetAI", "d6/dd4/a15226.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
 ];

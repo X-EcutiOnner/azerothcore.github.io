@@ -1,6 +1,5 @@
 var a17022 =
 [
-    [ "boss_drakkari_colossusAI", "de/d75/a17026.html", "de/d75/a17026" ],
-    [ "boss_drakkari_colossus", "df/d1d/a17022.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
-    [ "GetAI", "df/d1d/a17022.html#a75c6c9c56fe11342dd8aece031059e77", null ]
+    [ "endPosition", "df/d1d/a17022.html#a8a88b0191d28ef6af8f41db627552602", null ],
+    [ "entry", "df/d1d/a17022.html#ac4e55af666e269440953ced038c1a8de", null ]
 ];

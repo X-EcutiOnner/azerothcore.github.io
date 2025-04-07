@@ -1,8 +1,12 @@
 var a13826 =
 [
-    [ "FilterTargets", "d3/d2f/a13826.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "d3/d2f/a13826.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "d3/d2f/a13826.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "d3/d2f/a13826.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "d3/d2f/a13826.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "npc_zulian_prowlerAI", "d3/d2f/a13826.html#a367613efead335b060173011267ddcff", null ],
+    [ "JustDied", "d3/d2f/a13826.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
+    [ "JustEngagedWith", "d3/d2f/a13826.html#a207504b15ecd22b78088593b80433581", null ],
+    [ "Reset", "d3/d2f/a13826.html#a62d14bae970d8a70a997c683e0e94259", null ],
+    [ "SpellHit", "d3/d2f/a13826.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
+    [ "UpdateAI", "d3/d2f/a13826.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
+    [ "_events", "d3/d2f/a13826.html#a994ae5b4e72429141155d1342830e5ad", null ],
+    [ "_instance", "d3/d2f/a13826.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
+    [ "_sideData", "d3/d2f/a13826.html#afa44e09c5677c2fc567be6a67b766bde", null ]
 ];

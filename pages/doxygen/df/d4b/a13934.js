@@ -1,6 +1,5 @@
 var a13934 =
 [
-    [ "npc_ohganAI", "dd/df2/a13938.html", "dd/df2/a13938" ],
-    [ "npc_ohgan", "df/d4b/a13934.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
-    [ "GetAI", "df/d4b/a13934.html#a129dc2fcd449850403e0dcb99725da90", null ]
+    [ "npc_brain_wash_totem", "df/d4b/a13934.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
+    [ "EnterEvadeMode", "df/d4b/a13934.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
 ];

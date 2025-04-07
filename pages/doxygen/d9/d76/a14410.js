@@ -1,6 +1,6 @@
 var a14410 =
 [
-    [ "PrepareAuraScript", "d9/d76/a14410.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "d9/d76/a14410.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "d9/d76/a14410.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "HandleDummy", "d9/d76/a14410.html#aa75140309e66c28590a64e10676356da", null ],
+    [ "PrepareSpellScript", "d9/d76/a14410.html#a21c4872e16c18c2918dfbea366e61df3", null ],
+    [ "Register", "d9/d76/a14410.html#a841c9277224cbae878946deb288b87a1", null ]
 ];

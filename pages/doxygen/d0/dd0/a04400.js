@@ -1,6 +1,6 @@
 var a04400 =
 [
-    [ "boss_gatewatcher_iron_hand", "dd/d85/a23786.html", "dd/d85/a23786" ],
+    [ "boss_gatewatcher_iron_hand", "dd/dc3/a23798.html", "dd/dc3/a23798" ],
     [ "Says", "d0/dd0/a04400.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "db/d6c/a02969.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
       [ "EMOTE_DEATH", "de/da4/a03005.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407", null ],

@@ -1,6 +1,7 @@
 var a20354 =
 [
-    [ "npc_ulduar_flames_initialAI", "d2/dd7/a20358.html", "d2/dd7/a20358" ],
-    [ "npc_ulduar_flames_initial", "dc/d1c/a20354.html#aee0c62a38e3e0958e015faef2c434273", null ],
-    [ "GetAI", "dc/d1c/a20354.html#ac0db78c361324a594220ad644001f4eb", null ]
+    [ "HandleEffectPeriodic", "dc/d1c/a20354.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "dc/d1c/a20354.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "dc/d1c/a20354.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "dc/d1c/a20354.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

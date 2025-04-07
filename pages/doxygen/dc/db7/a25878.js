@@ -1,7 +1,12 @@
 var a25878 =
 [
-    [ "OnRemove", "dc/db7/a25878.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
-    [ "PrepareAuraScript", "dc/db7/a25878.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
-    [ "Register", "dc/db7/a25878.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
-    [ "Validate", "dc/db7/a25878.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
+    [ "CalcPeriodic", "dc/db7/a25878.html#a5b57273e0d9fc39a000c7bf4e232acb4", null ],
+    [ "CalculateAPAmount", "dc/db7/a25878.html#a65b6f1a2b322c928fd9a5992380d2e95", null ],
+    [ "CalculateResistanceAmount", "dc/db7/a25878.html#a3860e12ea334cb61a437941b6f9b81e0", null ],
+    [ "CalculateSPAmount", "dc/db7/a25878.html#abf0d76c220911d88990f3071f14a9d5a", null ],
+    [ "CalculateStatAmount", "dc/db7/a25878.html#a56489b52592e63dd00640de388926512", null ],
+    [ "HandleEffectApply", "dc/db7/a25878.html#a5180cc8beb5244bd0b957dfc89dc9cf4", null ],
+    [ "HandlePeriodic", "dc/db7/a25878.html#a67cb7b817f29dd41aa7d0dc8c87dc820", null ],
+    [ "PrepareAuraScript", "dc/db7/a25878.html#a5b65221c67283a29cbeb63cafe64457a", null ],
+    [ "Register", "dc/db7/a25878.html#acc22795ea812f31b0b9e21e6494c2d19", null ]
 ];

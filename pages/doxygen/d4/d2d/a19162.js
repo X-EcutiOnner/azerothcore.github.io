@@ -1,8 +1,6 @@
 var a19162 =
 [
-    [ "FilterTargets", "d4/d2d/a19162.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
-    [ "Load", "d4/d2d/a19162.html#a639105c26214d9887b84a482ca93eb26", null ],
-    [ "PrepareSpellScript", "d4/d2d/a19162.html#a354ae20be436528b16095d4cd8d37859", null ],
-    [ "Register", "d4/d2d/a19162.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
-    [ "DrakeGUID", "d4/d2d/a19162.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
+    [ "npc_eoe_wyrmrest_skytalonAI", "dd/d80/a19166.html", "dd/d80/a19166" ],
+    [ "npc_eoe_wyrmrest_skytalon", "d4/d2d/a19162.html#a55685de624b277840f8fc0c397b8aebf", null ],
+    [ "GetAI", "d4/d2d/a19162.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
 ];

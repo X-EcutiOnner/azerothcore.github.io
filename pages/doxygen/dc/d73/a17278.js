@@ -1,6 +1,8 @@
 var a17278 =
 [
-    [ "FilterTargets", "dc/d73/a17278.html#a59255a2cee0f9d8a75ca183647851779", null ],
-    [ "PrepareSpellScript", "dc/d73/a17278.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
-    [ "Register", "dc/d73/a17278.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
+    [ "OnApply", "dc/d73/a17278.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "dc/d73/a17278.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "dc/d73/a17278.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "dc/d73/a17278.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "dc/d73/a17278.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

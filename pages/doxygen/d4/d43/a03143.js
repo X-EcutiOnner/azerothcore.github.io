@@ -1,10 +1,10 @@
 var a03143 =
 [
-    [ "boss_arlokk", "d4/d2b/a13802.html", "d4/d2b/a13802" ],
-    [ "boss_arlokk::boss_arlokkAI", "dd/dd9/a13806.html", "dd/dd9/a13806" ],
-    [ "npc_zulian_prowler", "db/d93/a13810.html", "db/d93/a13810" ],
-    [ "npc_zulian_prowler::npc_zulian_prowlerAI", "d7/d6d/a13814.html", "d7/d6d/a13814" ],
-    [ "go_gong_of_bethekk", "da/da7/a13818.html", "da/da7/a13818" ],
+    [ "boss_arlokk", "d7/d6d/a13814.html", "d7/d6d/a13814" ],
+    [ "boss_arlokk::boss_arlokkAI", "da/da7/a13818.html", "da/da7/a13818" ],
+    [ "npc_zulian_prowler", "db/dfd/a13822.html", "db/dfd/a13822" ],
+    [ "npc_zulian_prowler::npc_zulian_prowlerAI", "d3/d2f/a13826.html", "d3/d2f/a13826" ],
+    [ "go_gong_of_bethekk", "d6/d6c/a13830.html", "d6/d6c/a13830" ],
     [ "Events", "d4/d43/a03143.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/dfb/a03122.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/dfb/a03122.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

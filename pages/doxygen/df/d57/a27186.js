@@ -1,5 +1,9 @@
 var a27186 =
 [
-    [ "go_sacred_fire_of_life", "df/d57/a27186.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "df/d57/a27186.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "go_gilded_brazierAI", "df/d57/a27186.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
+    [ "GossipHello", "df/d57/a27186.html#afac9e217c294e72ff5f2526422e6321e", null ],
+    [ "Initialize", "df/d57/a27186.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
+    [ "UpdateAI", "df/d57/a27186.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
+    [ "_events", "df/d57/a27186.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
+    [ "_playerGUID", "df/d57/a27186.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
 ];

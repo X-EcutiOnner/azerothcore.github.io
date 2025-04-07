@@ -1,6 +1,7 @@
 var a21474 =
 [
-    [ "npc_hidden_cultistAI", "d1/d45/a21478.html", "d1/d45/a21478" ],
-    [ "npc_hidden_cultist", "db/d19/a21474.html#ab455b35fea966360e01fb8975adad989", null ],
-    [ "GetAI", "db/d19/a21474.html#a4897006d9416f1177b0bc0e41df60293", null ]
+    [ "npc_valiance_keep_cannoneerAI", "db/d19/a21474.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "db/d19/a21474.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "db/d19/a21474.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "db/d19/a21474.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

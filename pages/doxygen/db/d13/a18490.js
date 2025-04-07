@@ -1,6 +1,7 @@
 var a18490 =
 [
-    [ "boss_sister_svalnaAI", "da/d4f/a18494.html", "da/d4f/a18494" ],
-    [ "boss_sister_svalna", "db/d13/a18490.html#a233a9606db61f6ab945350e98a0929ff", null ],
-    [ "GetAI", "db/d13/a18490.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
+    [ "npc_frost_freeze_trapAI", "db/d13/a18490.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "db/d13/a18490.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "db/d13/a18490.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "db/d13/a18490.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

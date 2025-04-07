@@ -1,9 +1,6 @@
 var a20530 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "d7/d23/a20530.html#aaa7e94f653a1db001cd0c962fb855098", null ],
-    [ "JustEngagedWith", "d7/d23/a20530.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
-    [ "Reset", "d7/d23/a20530.html#a9e4c25742785809d788f2e910f7840bc", null ],
-    [ "UpdateAI", "d7/d23/a20530.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
-    [ "_isCaster", "d7/d23/a20530.html#a104f447cc52c285d59653a8ebff20fef", null ],
-    [ "events", "d7/d23/a20530.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
+    [ "boss_thorim_start_npcsAI", "d0/d57/a20534.html", "d0/d57/a20534" ],
+    [ "boss_thorim_start_npcs", "d7/d23/a20530.html#a3aa11a487ae00b2e397fd25ed2e42702", null ],
+    [ "GetAI", "d7/d23/a20530.html#a6c529b19d071b4966ccc74b44279cb08", null ]
 ];

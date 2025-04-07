@@ -1,7 +1,6 @@
 var a22730 =
 [
-    [ "PrepareAuraScript", "d0/dfa/a22730.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "d0/dfa/a22730.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "d0/dfa/a22730.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "d0/dfa/a22730.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "CalculateAmount", "d0/dfa/a22730.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
+    [ "PrepareAuraScript", "d0/dfa/a22730.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
+    [ "Register", "d0/dfa/a22730.html#a0d2e97463f268892965e307628aaa931", null ]
 ];

@@ -1,6 +1,6 @@
 var a04157 =
 [
-    [ "boss_doomwalker", "dc/d0a/a22990.html", "dc/d0a/a22990" ],
+    [ "boss_doomwalker", "d7/d5b/a23002.html", "d7/d5b/a23002" ],
     [ "Spells", "d9/d81/a04157.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d7/d46/a00890.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d7/d46/a00890.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

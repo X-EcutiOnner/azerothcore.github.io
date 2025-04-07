@@ -1,7 +1,7 @@
 var a14078 =
 [
-    [ "GetEmptyEntry", "db/de9/a14078.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "db/de9/a14078.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "db/de9/a14078.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "db/de9/a14078.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "FilterTargets", "db/de9/a14078.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "db/de9/a14078.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "db/de9/a14078.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "db/de9/a14078.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

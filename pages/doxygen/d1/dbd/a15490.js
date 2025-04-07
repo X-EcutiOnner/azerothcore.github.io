@@ -1,6 +1,6 @@
 var a15490 =
 [
-    [ "npc_stone_watcher_of_norgannon", "d1/dbd/a15490.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
-    [ "OnGossipHello", "d1/dbd/a15490.html#a00f526b1b17b68f31a86e892e0997856", null ],
-    [ "OnGossipSelect", "d1/dbd/a15490.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
+    [ "npc_custodian_of_timeAI", "d4/dfd/a15494.html", "d4/dfd/a15494" ],
+    [ "npc_custodian_of_time", "d1/dbd/a15490.html#a6018b30119ce819853a3c662b3d5347e", null ],
+    [ "GetAI", "d1/dbd/a15490.html#a57217b2dab1cab110f1c59526ca13c86", null ]
 ];

@@ -1,5 +1,6 @@
 var a26882 =
 [
-    [ "achievement_save_the_day", "d4/d47/a26882.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "d4/d47/a26882.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "HandleOnHit", "d4/d47/a26882.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "d4/d47/a26882.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "d4/d47/a26882.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

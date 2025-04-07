@@ -1,10 +1,6 @@
 var a20506 =
 [
-    [ "boss_thorim_sif_blizzardAI", "d9/d21/a20506.html#a99d1c529126452e580ebc7e3e513b367", null ],
-    [ "AttackStart", "d9/d21/a20506.html#a1f05551f323fa410a699497f3875b21f", null ],
-    [ "InitWaypoint", "d9/d21/a20506.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
-    [ "JustEngagedWith", "d9/d21/a20506.html#a9fea5617dccb493c7af435c485462ff3", null ],
-    [ "MoveInLineOfSight", "d9/d21/a20506.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
-    [ "Reset", "d9/d21/a20506.html#a193ba575c4f3f16d850e56f12f190c77", null ],
-    [ "WaypointReached", "d9/d21/a20506.html#a961f90068f25d81f55159763fe2677f8", null ]
+    [ "boss_thorim_trapAI", "d9/d95/a20510.html", "d9/d95/a20510" ],
+    [ "boss_thorim_trap", "d9/d21/a20506.html#af529112badd88f9ebe4cec216d9edaeb", null ],
+    [ "GetAI", "d9/d21/a20506.html#afd4ee85d73354b790c0d55abbfad75fd", null ]
 ];

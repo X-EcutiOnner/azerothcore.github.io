@@ -1,6 +1,7 @@
 var a21458 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d2/d42/a21462.html", "d2/d42/a21462" ],
-    [ "npc_valiance_keep_cannoneer", "d8/d47/a21458.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "d8/d47/a21458.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "npc_mootoo_the_youngerAI", "d8/d47/a21458.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "d8/d47/a21458.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "d8/d47/a21458.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "d8/d47/a21458.html#ac758a992ed0d62a272930c84d617b348", null ]
 ];

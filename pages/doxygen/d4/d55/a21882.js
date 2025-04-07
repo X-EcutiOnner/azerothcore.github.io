@@ -1,6 +1,7 @@
 var a21882 =
 [
-    [ "npc_your_inner_turmoilAI", "dd/d61/a21886.html", "dd/d61/a21886" ],
-    [ "npc_your_inner_turmoil", "d4/d55/a21882.html#a72856ef469bb8f6ff4a89a16159479af", null ],
-    [ "GetAI", "d4/d55/a21882.html#a29c8f76b072e891face1225770688ca6", null ]
+    [ "HandleScript", "d4/d55/a21882.html#a7fec959237546201ea94d5f87068e1c5", null ],
+    [ "PrepareSpellScript", "d4/d55/a21882.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
+    [ "Register", "d4/d55/a21882.html#a0aab07a4950f60a290491aa13103b332", null ],
+    [ "Validate", "d4/d55/a21882.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
 ];

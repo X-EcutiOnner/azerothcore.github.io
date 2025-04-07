@@ -1,9 +1,7 @@
 var a25842 =
 [
-    [ "HandleAfterCast", "da/dc7/a25842.html#afd2fbc51ac1e99789994021af36688f3", null ],
-    [ "HandleTriggerSpell", "da/dc7/a25842.html#ae140ab00101f081454b55e12a7c54440", null ],
-    [ "Load", "da/dc7/a25842.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
-    [ "PrepareSpellScript", "da/dc7/a25842.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
-    [ "Register", "da/dc7/a25842.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
-    [ "_triggerSpellId", "da/dc7/a25842.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
+    [ "CheckCast", "da/dc7/a25842.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
+    [ "HandleEffect", "da/dc7/a25842.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
+    [ "PrepareSpellScript", "da/dc7/a25842.html#aa63cb903e7c6037a6c08381334ccc126", null ],
+    [ "Register", "da/dc7/a25842.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
 ];

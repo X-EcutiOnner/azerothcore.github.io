@@ -1,12 +1,7 @@
 var a13514 =
 [
-    [ "npc_corporal_keeshanAI", "d6/d40/a13514.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
-    [ "Reset", "d6/d40/a13514.html#a311488932a3de9153490d41e3fae92fb", null ],
-    [ "sQuestAccept", "d6/d40/a13514.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
-    [ "UpdateAI", "d6/d40/a13514.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
-    [ "WaypointReached", "d6/d40/a13514.html#a3edc9ab54068e47f955116db70454f6c", null ],
-    [ "mockingBlowTimer", "d6/d40/a13514.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
-    [ "phase", "d6/d40/a13514.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
-    [ "shieldBashTimer", "d6/d40/a13514.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
-    [ "timer", "d6/d40/a13514.html#a3107368f175aa7f4e8c405248ef917df", null ]
+    [ "npc_greengill_slaveAI", "d6/d40/a13514.html#a1a4268b745e63992f4d0fc2028b717aa", null ],
+    [ "JustEngagedWith", "d6/d40/a13514.html#ad7fcb8c711782d3a76e9e4566334fc21", null ],
+    [ "SpellHit", "d6/d40/a13514.html#a0e75a3e8eb3503fdb3aea12e65ccc6e4", null ],
+    [ "UpdateAI", "d6/d40/a13514.html#a6fa27328cf47bef81c3465b8a3e2ace1", null ]
 ];

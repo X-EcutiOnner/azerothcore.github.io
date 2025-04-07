@@ -1,8 +1,6 @@
 var a18982 =
 [
-    [ "boss_maexxna_webwrapAI", "d0/df8/a18982.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
-    [ "IsSummonedBy", "d0/df8/a18982.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
-    [ "JustDied", "d0/df8/a18982.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
-    [ "UpdateAI", "d0/df8/a18982.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
-    [ "victimGUID", "d0/df8/a18982.html#a54081ebfc0df639b7e18b5f079802c92", null ]
+    [ "boss_maexxnaAI", "d3/d72/a18986.html", "d3/d72/a18986" ],
+    [ "boss_maexxna", "d0/df8/a18982.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
+    [ "GetAI", "d0/df8/a18982.html#ab438df4cb61625da35552ca7c867dc64", null ]
 ];

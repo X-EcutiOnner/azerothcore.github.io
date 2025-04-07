@@ -1,6 +1,8 @@
 var a20078 =
 [
-    [ "npc_ulduar_hodir_priestAI", "df/db3/a20082.html", "df/db3/a20082" ],
-    [ "npc_ulduar_hodir_priest", "d8/da5/a20078.html#a30d7f1b68f9a1d10bc47288b81fc517c", null ],
-    [ "GetAI", "d8/da5/a20078.html#a276046b974666c1462440a46a8096de7", null ]
+    [ "npc_ulduar_flash_freezeAI", "d8/da5/a20078.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
+    [ "DamageTaken", "d8/da5/a20078.html#af0c18460b4cc331f51c44a3306f516b8", null ],
+    [ "UpdateAI", "d8/da5/a20078.html#ab2efa0a8d06297bff05502c40079efe9", null ],
+    [ "pInstance", "d8/da5/a20078.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
+    [ "timer", "d8/da5/a20078.html#a590117afe9e9943d8dc8a44af9386066", null ]
 ];

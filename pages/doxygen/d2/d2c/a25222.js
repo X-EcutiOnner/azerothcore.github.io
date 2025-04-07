@@ -1,7 +1,5 @@
 var a25222 =
 [
-    [ "OnRemove", "d2/d2c/a25222.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
-    [ "PrepareAuraScript", "d2/d2c/a25222.html#ac2b1a2311f97ab427439b45fb0770063", null ],
-    [ "Register", "d2/d2c/a25222.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
-    [ "Validate", "d2/d2c/a25222.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
+    [ "PrepareSpellScript", "d2/d2c/a25222.html#a7478d96ac24bc4b70a10bc83335c9b76", null ],
+    [ "Register", "d2/d2c/a25222.html#ab3ab9557cd1969fd977a3df6f2c59d7c", null ]
 ];

@@ -1,5 +1,9 @@
 var a28386 =
 [
-    [ "type", "da/d36/a28386.html#af749459df7757d1bab17a54be813f6b6", null ],
-    [ "_type", "da/d36/a28386.html#ab0344571616786baef4511c647a3abea", null ]
+    [ "flags", "da/d36/a28386.html#a064de2e88c563121bbb78549a7bab868", null ],
+    [ "_flags", "da/d36/a28386.html#a16f1b30a57eb6703e8073ef55d988391", null ],
+    [ "bits", "da/d36/a28386.html#a529f1856635132646457c57f3546f4ec", null ],
+    [ "configKey", "da/d36/a28386.html#af14d118016b9e01612769c00f13aa2d6", null ],
+    [ "oldKey", "da/d36/a28386.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
+    [ "owner", "da/d36/a28386.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
 ];

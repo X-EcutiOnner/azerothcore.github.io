@@ -1,9 +1,6 @@
 var a21470 =
 [
-    [ "npc_warmage_coldarraAI", "d2/d4e/a21470.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "d2/d4e/a21470.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "d2/d4e/a21470.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "d2/d4e/a21470.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "d2/d4e/a21470.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "d2/d4e/a21470.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "npc_valiance_keep_cannoneerAI", "db/d19/a21474.html", "db/d19/a21474" ],
+    [ "npc_valiance_keep_cannoneer", "d2/d4e/a21470.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
+    [ "GetAI", "d2/d4e/a21470.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
 ];

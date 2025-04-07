@@ -1,7 +1,9 @@
 var a27454 =
 [
-    [ "npc_doctorAI", "d7/d23/a27458.html", "d7/d23/a27458" ],
-    [ "npc_doctor", "d7/d17/a27454.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
-    [ "GetAI", "d7/d17/a27454.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
-    [ "OnQuestAccept", "d7/d17/a27454.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
+    [ "npc_chicken_cluckAI", "d7/d17/a27454.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
+    [ "JustEngagedWith", "d7/d17/a27454.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
+    [ "ReceiveEmote", "d7/d17/a27454.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
+    [ "Reset", "d7/d17/a27454.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
+    [ "UpdateAI", "d7/d17/a27454.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
+    [ "ResetFlagTimer", "d7/d17/a27454.html#a0d0507ae7a1eca369df288515856e1b5", null ]
 ];

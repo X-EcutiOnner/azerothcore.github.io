@@ -1,6 +1,10 @@
 var a14574 =
 [
-    [ "boss_epochAI", "d1/d18/a14578.html", "d1/d18/a14578" ],
-    [ "boss_epoch", "d5/d38/a14574.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
-    [ "GetAI", "d5/d38/a14574.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
+    [ "npc_hyjal_frost_wyrm", "d5/d38/a14574.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "d5/d38/a14574.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "d5/d38/a14574.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "d5/d38/a14574.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "d5/d38/a14574.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "d5/d38/a14574.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "d5/d38/a14574.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

@@ -1,7 +1,6 @@
 var a15870 =
 [
-    [ "HandleHit", "d4/d2f/a15870.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "d4/d2f/a15870.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "d4/d2f/a15870.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "d4/d2f/a15870.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "npc_twilight_summonAI", "dd/dd6/a15874.html", "dd/dd6/a15874" ],
+    [ "npc_twilight_summon", "d4/d2f/a15870.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
+    [ "GetAI", "d4/d2f/a15870.html#a98bf5ce96c25bc252acd46163644bf33", null ]
 ];

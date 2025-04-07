@@ -1,7 +1,6 @@
 var a21958 =
 [
-    [ "GetSeatNumber", "d4/d35/a21958.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "d4/d35/a21958.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "d4/d35/a21958.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "d4/d35/a21958.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "npc_boneguard_footmanAI", "d4/d35/a21958.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "d4/d35/a21958.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "d4/d35/a21958.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

@@ -1,6 +1,11 @@
 var a21226 =
 [
-    [ "boss_moraggAI", "de/d7a/a21230.html", "de/d7a/a21230" ],
-    [ "boss_moragg", "df/d91/a21226.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
-    [ "GetAI", "df/d91/a21226.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
+    [ "npc_ichor_globuleAI", "df/d91/a21226.html#a4d581f89c8385276fd407c000af9e569", null ],
+    [ "AttackStart", "df/d91/a21226.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
+    [ "JustDied", "df/d91/a21226.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
+    [ "MoveInLineOfSight", "df/d91/a21226.html#af8ef8296512d57d934a171f1a5060e73", null ],
+    [ "SpellHit", "df/d91/a21226.html#a1396538a446545408e3c304f3e56400f", null ],
+    [ "UpdateAI", "df/d91/a21226.html#a6ff13c853583e5178fb3a690e17303de", null ],
+    [ "pInstance", "df/d91/a21226.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
+    [ "uiRangeCheck_Timer", "df/d91/a21226.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
 ];

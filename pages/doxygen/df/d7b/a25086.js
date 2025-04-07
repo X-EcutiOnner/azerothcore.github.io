@@ -1,9 +1,7 @@
 var a25086 =
 [
-    [ "spell_gen_lifebloom", "df/d7b/a25086.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
-    [ "AfterRemove", "df/d7b/a25086.html#aea962f603e56c1bd33fccaef0c89d917", null ],
-    [ "PrepareAuraScript", "df/d7b/a25086.html#ac11134bdc3588795ce6e256c5b02055f", null ],
-    [ "Register", "df/d7b/a25086.html#ab4a552402ee9f90834320d6fc668cff3", null ],
-    [ "Validate", "df/d7b/a25086.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
-    [ "_spellId", "df/d7b/a25086.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
+    [ "HandleStun", "df/d7b/a25086.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
+    [ "PrepareAuraScript", "df/d7b/a25086.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
+    [ "Register", "df/d7b/a25086.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
+    [ "Validate", "df/d7b/a25086.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
 ];

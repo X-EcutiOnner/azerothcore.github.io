@@ -1,6 +1,6 @@
 var a15366 =
 [
-    [ "npc_clintar_spiritAI", "d4/d4b/a15370.html", "d4/d4b/a15370" ],
-    [ "npc_clintar_spirit", "d8/dab/a15366.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "d8/dab/a15366.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "npc_bunthen_plainswind", "d8/dab/a15366.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "d8/dab/a15366.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "d8/dab/a15366.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

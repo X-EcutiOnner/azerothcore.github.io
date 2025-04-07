@@ -1,12 +1,15 @@
 var a14734 =
 [
-    [ "boss_isalien", "de/db3/a14734.html#a736a25e60ae367a45c7d6451be96126d", null ],
-    [ "DamageTaken", "de/db3/a14734.html#a95d461e099193b5e2c1363acb1b5939a", null ],
-    [ "JustDied", "de/db3/a14734.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
-    [ "JustEngagedWith", "de/db3/a14734.html#ad6714da515db77c7299ee80b3268433e", null ],
-    [ "JustSummoned", "de/db3/a14734.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
-    [ "Reset", "de/db3/a14734.html#a4995c18e2baa62d05717617d0b1e3529", null ],
-    [ "UpdateAI", "de/db3/a14734.html#aa067bea34557a4b2fe840ef305852bc0", null ],
-    [ "_phase", "de/db3/a14734.html#a954bbd32948e6c416197199d96142056", null ],
-    [ "_scheduler", "de/db3/a14734.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
+    [ "npc_time_rift", "de/db3/a14734.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
+    [ "DoSelectSummon", "de/db3/a14734.html#af2932c60efaea64d27d52b118b9a8095", null ],
+    [ "DoSummonAtRift", "de/db3/a14734.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
+    [ "JustSummoned", "de/db3/a14734.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
+    [ "Reset", "de/db3/a14734.html#ad08ca716f120a45ee1688e03d2049aba", null ],
+    [ "SummonedCreatureDies", "de/db3/a14734.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
+    [ "UpdateAI", "de/db3/a14734.html#ab5924378c7978c6fae95f9861040c63d", null ],
+    [ "_events", "de/db3/a14734.html#a12ffd459f8d63f299269da5b65f60128", null ],
+    [ "_instance", "de/db3/a14734.html#a8eab9c3011c885321d59e2884318d0e8", null ],
+    [ "_riftKeeperGUID", "de/db3/a14734.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
+    [ "waveMobIndex", "de/db3/a14734.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
+    [ "waveMobs", "de/db3/a14734.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
 ];

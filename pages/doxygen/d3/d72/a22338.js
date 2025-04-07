@@ -1,6 +1,6 @@
 var a22338 =
 [
-    [ "npc_crusade_recruitAI", "d6/d3b/a22342.html", "d6/d3b/a22342" ],
-    [ "npc_crusade_recruit", "d3/d72/a22338.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "d3/d72/a22338.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "npc_captured_rageclawAI", "d3/d72/a22338.html#a5bb483a323330b0895f87c5381d73314", null ],
+    [ "Reset", "d3/d72/a22338.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
+    [ "SpellHit", "d3/d72/a22338.html#a2c63911d27435a2271a7c89d9d88318c", null ]
 ];

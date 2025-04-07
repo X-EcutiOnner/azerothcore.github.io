@@ -1,6 +1,5 @@
 var a21926 =
 [
-    [ "npc_llod_genericAI", "d8/dcd/a21930.html", "d8/dcd/a21930" ],
-    [ "npc_llod_generic", "df/df8/a21926.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "df/df8/a21926.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "npc_black_knight_graveyardAI", "df/df8/a21926.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "df/df8/a21926.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

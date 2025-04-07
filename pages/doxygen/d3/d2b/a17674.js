@@ -1,10 +1,6 @@
 var a17674 =
 [
-    [ "npc_bone_spikeAI", "d3/d2b/a17674.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
-    [ "DoAction", "d3/d2b/a17674.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
-    [ "IsSummonedBy", "d3/d2b/a17674.html#af2794484ee3ebf0579ce7357d222240d", null ],
-    [ "JustDied", "d3/d2b/a17674.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
-    [ "UpdateAI", "d3/d2b/a17674.html#a8eff2bcc6507c65e563ed272977f224e", null ],
-    [ "events", "d3/d2b/a17674.html#a6a35900435d41d0603919f29415667a5", null ],
-    [ "hasTrappedUnit", "d3/d2b/a17674.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
+    [ "npc_coldflameAI", "d8/dc3/a17678.html", "d8/dc3/a17678" ],
+    [ "npc_coldflame", "d3/d2b/a17674.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "d3/d2b/a17674.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

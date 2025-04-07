@@ -1,6 +1,6 @@
 var a15418 =
 [
-    [ "npc_anachronos_the_ancientAI", "d8/dfe/a15422.html", "d8/dfe/a15422" ],
-    [ "npc_anachronos_the_ancient", "d2/da0/a15418.html#a720884359886e6f881190471005f4cfc", null ],
-    [ "GetAI", "d2/da0/a15418.html#a345c801231907d98f2ab2425b1d35cbc", null ]
+    [ "Creature", "d2/da0/a15418.html#a77b33f8998f85808b58052079b1cab54", null ],
+    [ "TextId", "d2/da0/a15418.html#ad691f3cd40035e96547adf7528229119", null ],
+    [ "Timer", "d2/da0/a15418.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
 ];

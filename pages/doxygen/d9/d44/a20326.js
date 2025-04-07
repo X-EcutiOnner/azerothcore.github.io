@@ -1,6 +1,12 @@
 var a20326 =
 [
-    [ "npc_ulduar_magnetic_coreAI", "d5/dd6/a20330.html", "d5/dd6/a20330" ],
-    [ "npc_ulduar_magnetic_core", "d9/d44/a20326.html#a788a1a6d3ec28c866d6b8cb112fe8071", null ],
-    [ "GetAI", "d9/d44/a20326.html#a3adcc5c7650e2b016f02a1160c3fa6ab", null ]
+    [ "npc_ulduar_proximity_mineAI", "d9/d44/a20326.html#aa3001a71c8a298be688631d618745495", null ],
+    [ "AttackStart", "d9/d44/a20326.html#afe5572c8fd1f8acc64ca57304d8be254", null ],
+    [ "CanAIAttack", "d9/d44/a20326.html#a0216f41bf596eb43a9b9eea13152d262", null ],
+    [ "MoveInLineOfSight", "d9/d44/a20326.html#afe07e3cd341d6a84592ab9b33e02d6d5", null ],
+    [ "SpellHitTarget", "d9/d44/a20326.html#aaf6c9c8843a61d29326ab6c662b174f9", null ],
+    [ "UpdateAI", "d9/d44/a20326.html#adadc4c33ff356bd5eed6d82115dc888a", null ],
+    [ "exploded", "d9/d44/a20326.html#a1706ff0cfd7192040c32f13a37610c43", null ],
+    [ "timer", "d9/d44/a20326.html#a4c743646055b4c95bf379a751eb5892e", null ],
+    [ "timer2", "d9/d44/a20326.html#a446b7658fa4c165f43947a05562827b2", null ]
 ];

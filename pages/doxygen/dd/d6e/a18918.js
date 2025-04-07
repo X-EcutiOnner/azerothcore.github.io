@@ -1,6 +1,16 @@
 var a18918 =
 [
-    [ "FilterTargets", "dd/d6e/a18918.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
-    [ "PrepareSpellScript", "dd/d6e/a18918.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
-    [ "Register", "dd/d6e/a18918.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
+    [ "boss_grobbulusAI", "dd/d6e/a18918.html#ad9e7cd519e30eded06f76bcc69189117", null ],
+    [ "JustDied", "dd/d6e/a18918.html#aa717d51aa10c139473031072065064ce", null ],
+    [ "JustEngagedWith", "dd/d6e/a18918.html#a4c74d53fe029d02df9652dbb87a09242", null ],
+    [ "JustSummoned", "dd/d6e/a18918.html#af266d40889fbecd50a118a579b711757", null ],
+    [ "KilledUnit", "dd/d6e/a18918.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
+    [ "PullChamberAdds", "dd/d6e/a18918.html#ad215f20452cd48c2c2bca394410d739b", null ],
+    [ "Reset", "dd/d6e/a18918.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
+    [ "SpellHitTarget", "dd/d6e/a18918.html#a996175b70b9a69175988350fc09edd79", null ],
+    [ "SummonedCreatureDespawn", "dd/d6e/a18918.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
+    [ "UpdateAI", "dd/d6e/a18918.html#aafd79debbe76b02a1478c03daf235b05", null ],
+    [ "dropSludgeTimer", "dd/d6e/a18918.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
+    [ "events", "dd/d6e/a18918.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
+    [ "summons", "dd/d6e/a18918.html#a39ce39397f845a4fddf20da5f5812713", null ]
 ];

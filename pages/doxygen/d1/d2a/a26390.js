@@ -1,7 +1,6 @@
 var a26390 =
 [
-    [ "HandleDummy", "d1/d2a/a26390.html#a4c837e7342603519d1f23ab8702c3160", null ],
-    [ "PrepareSpellScript", "d1/d2a/a26390.html#ae9d6ab0c9b9cf87f7b86f28e9bb25371", null ],
-    [ "Register", "d1/d2a/a26390.html#a16a5ca3ec9a8c463c9a2975fa29eb1e9", null ],
-    [ "Validate", "d1/d2a/a26390.html#ad742f4ce0d0db70427f7ba849a4526df", null ]
+    [ "PrepareSpellScript", "d1/d2a/a26390.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
+    [ "Register", "d1/d2a/a26390.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
+    [ "SetDest", "d1/d2a/a26390.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
 ];

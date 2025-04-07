@@ -1,11 +1,10 @@
 var a18126 =
 [
-    [ "AddMissingStack", "d5/dff/a18126.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
-    [ "CheckAura", "d5/dff/a18126.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
-    [ "FilterTargets", "d5/dff/a18126.html#ab6c86c3680823329d5f3aad985aa316a", null ],
-    [ "Load", "d5/dff/a18126.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
-    [ "PrepareSpellScript", "d5/dff/a18126.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
-    [ "Register", "d5/dff/a18126.html#af0e6f1fc6687de1abcc1689116150088", null ],
-    [ "_hadInitialAura", "d5/dff/a18126.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
-    [ "_hadJumpingAura", "d5/dff/a18126.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
+    [ "npc_shambling_horror_iccAI", "d5/dff/a18126.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
+    [ "CanAIAttack", "d5/dff/a18126.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
+    [ "DamageTaken", "d5/dff/a18126.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
+    [ "Reset", "d5/dff/a18126.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
+    [ "UpdateAI", "d5/dff/a18126.html#abae6058591022057e93d48da3db1b8bc", null ],
+    [ "_events", "d5/dff/a18126.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
+    [ "_frenzied", "d5/dff/a18126.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
 ];

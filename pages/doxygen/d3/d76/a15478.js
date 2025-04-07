@@ -1,6 +1,7 @@
 var a15478 =
 [
-    [ "npc_custodian_of_timeAI", "d5/d85/a15482.html", "d5/d85/a15482" ],
-    [ "npc_custodian_of_time", "d3/d76/a15478.html#a6018b30119ce819853a3c662b3d5347e", null ],
-    [ "GetAI", "d3/d76/a15478.html#a57217b2dab1cab110f1c59526ca13c86", null ]
+    [ "npc_kaya_flathoofAI", "d3/d76/a15478.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "d3/d76/a15478.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "d3/d76/a15478.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "d3/d76/a15478.html#a8fcbb19279b925138ba96d2a450fc404", null ]
 ];

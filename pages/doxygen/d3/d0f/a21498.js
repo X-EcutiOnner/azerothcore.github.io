@@ -1,7 +1,6 @@
 var a21498 =
 [
-    [ "npc_thassarianAI", "d3/d0f/a21498.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "d3/d0f/a21498.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "d3/d0f/a21498.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "d3/d0f/a21498.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "npc_bloodmage_laurithAI", "db/d00/a21502.html", "db/d00/a21502" ],
+    [ "npc_bloodmage_laurith", "d3/d0f/a21498.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
+    [ "GetAI", "d3/d0f/a21498.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
 ];

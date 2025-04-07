@@ -1,6 +1,6 @@
 var a19238 =
 [
-    [ "boss_drakosAI", "d5/dea/a19242.html", "d5/dea/a19242" ],
-    [ "boss_drakos", "d1/d31/a19238.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "d1/d31/a19238.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "instance_nexus_InstanceMapScript", "d5/dea/a19242.html", "d5/dea/a19242" ],
+    [ "instance_nexus", "d1/d31/a19238.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
+    [ "GetInstanceScript", "d1/d31/a19238.html#a156210ba08caa0572c775dbd5851b250", null ]
 ];

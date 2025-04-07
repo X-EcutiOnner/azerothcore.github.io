@@ -1,6 +1,7 @@
 var a16342 =
 [
-    [ "npc_toc_rogueAI", "da/db0/a16346.html", "da/db0/a16346" ],
-    [ "npc_toc_rogue", "d9/dc6/a16342.html#a925840be9698e381358235a827c20b8a", null ],
-    [ "GetAI", "d9/dc6/a16342.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
+    [ "npc_toc_warriorAI", "d9/dc6/a16342.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
+    [ "myCanCast", "d9/dc6/a16342.html#ac815e13cbbe9a8833330e15213420c65", null ],
+    [ "UpdateAI", "d9/dc6/a16342.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
+    [ "events", "d9/dc6/a16342.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
 ];

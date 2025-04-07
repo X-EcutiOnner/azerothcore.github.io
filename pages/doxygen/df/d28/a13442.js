@@ -1,11 +1,6 @@
 var a13442 =
 [
-    [ "npc_supervisor_raelen", "df/d28/a13442.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "df/d28/a13442.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "df/d28/a13442.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "df/d28/a13442.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "df/d28/a13442.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "df/d28/a13442.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "df/d28/a13442.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "df/d28/a13442.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "npc_augustus_the_touched", "df/d28/a13442.html#abc84c884345f44cf780410569cdee10c", null ],
+    [ "OnGossipHello", "df/d28/a13442.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
+    [ "OnGossipSelect", "df/d28/a13442.html#a992da9b22693c1fac1148b4ba545b819", null ]
 ];

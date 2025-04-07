@@ -1,6 +1,6 @@
 var a21122 =
 [
-    [ "HandleOnHit", "de/def/a21122.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "de/def/a21122.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "de/def/a21122.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "boss_emalonAI", "d9/daa/a21126.html", "d9/daa/a21126" ],
+    [ "boss_emalon", "de/def/a21122.html#a2dd481292e02337bebd450f5c9821886", null ],
+    [ "GetAI", "de/def/a21122.html#a345b0663ba89de5e37b87a436c48e446", null ]
 ];

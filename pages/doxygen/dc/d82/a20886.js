@@ -1,6 +1,6 @@
 var a20886 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d2/ddd/a20890.html", "d2/ddd/a20890" ],
-    [ "instance_ulduar", "dc/d82/a20886.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "dc/d82/a20886.html#ad15f003a90e656910fc32d661ca9baba", null ]
+    [ "achievement_yogg_saron_darkness", "dc/d82/a20886.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
+    [ "OnCheck", "dc/d82/a20886.html#a809902fca87abaeb4334132763624ed6", null ],
+    [ "_keepersCount", "dc/d82/a20886.html#a765ec4606bb489760ed1e15db10de1dc", null ]
 ];

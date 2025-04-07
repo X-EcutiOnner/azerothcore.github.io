@@ -1,6 +1,7 @@
 var a24206 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d6/d15/a24210.html", "d6/d15/a24210" ],
-    [ "npc_unkor_the_ruthless", "d3/d1d/a24206.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "d3/d1d/a24206.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "HandlePeriodic", "d3/d1d/a24206.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
+    [ "PrepareAuraScript", "d3/d1d/a24206.html#a58dc6668172d046cef3046649928c124", null ],
+    [ "Register", "d3/d1d/a24206.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
+    [ "Validate", "d3/d1d/a24206.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
 ];

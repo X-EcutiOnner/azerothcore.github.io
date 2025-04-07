@@ -1,7 +1,7 @@
 var a04283 =
 [
-    [ "boss_warbringer_omrogg", "d7/dfa/a23538.html", "d7/dfa/a23538" ],
-    [ "spell_burning_maul", "d5/d48/a23542.html", "d5/d48/a23542" ],
+    [ "boss_warbringer_omrogg", "d6/d90/a23550.html", "d6/d90/a23550" ],
+    [ "spell_burning_maul", "d4/dcc/a23554.html", "d4/dcc/a23554" ],
     [ "Equip", "dc/d16/a04283.html#a6ddbaae08010d527c6c3d88cdcde663f", [
       [ "EQUIP_STANDARD", "dc/d16/a04283.html#a6ddbaae08010d527c6c3d88cdcde663fa3c78a51d65a81277c99654e88eff66ad", null ],
       [ "EQUIP_BURNING_MAUL", "dc/d16/a04283.html#a6ddbaae08010d527c6c3d88cdcde663fadf5050dd7eab9cf1759d0070273ba382", null ]

@@ -1,6 +1,7 @@
 var a19366 =
 [
-    [ "npc_stormforged_lieutenantAI", "dd/d85/a19370.html", "dd/d85/a19370" ],
-    [ "npc_stormforged_lieutenant", "de/d23/a19366.html#ab58a73d33c6545815511c5c4f0ecfd9e", null ],
-    [ "GetAI", "de/d23/a19366.html#ae3aba4b53e73097c261eaaed19f17950", null ]
+    [ "HandleOnEffectApply", "de/d23/a19366.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "de/d23/a19366.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "de/d23/a19366.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "de/d23/a19366.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

@@ -1,5 +1,6 @@
 var a21062 =
 [
-    [ "npc_ritual_channelerAI", "da/db3/a21062.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "da/db3/a21062.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "boss_svalaAI", "dd/d73/a21066.html", "dd/d73/a21066" ],
+    [ "boss_svala", "da/db3/a21062.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "da/db3/a21062.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

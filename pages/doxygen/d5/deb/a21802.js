@@ -1,7 +1,7 @@
 var a21802 =
 [
-    [ "npc_tallhorn_stagAI", "d5/deb/a21802.html#a50947c450eece979193b45728e5e1f82", null ],
-    [ "Reset", "d5/deb/a21802.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
-    [ "UpdateAI", "d5/deb/a21802.html#adf60f62fa92238cb315c42e0179c3f17", null ],
-    [ "_phase", "d5/deb/a21802.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
+    [ "HandleScriptEffect", "d5/deb/a21802.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "d5/deb/a21802.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "d5/deb/a21802.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "d5/deb/a21802.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

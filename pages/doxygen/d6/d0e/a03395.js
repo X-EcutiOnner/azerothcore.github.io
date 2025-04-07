@@ -1,9 +1,10 @@
 var a03395 =
 [
-    [ "instance_sunwell_plateau", "d3/d4e/a13346.html", "d3/d4e/a13346" ],
-    [ "instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript", "d0/d3e/a13350.html", "d0/d3e/a13350" ],
-    [ "spell_cataclysm_breath", "dd/d89/a13354.html", "dd/d89/a13354" ],
-    [ "npc_sunblade_scout", "db/d2a/a13358.html", "db/d2a/a13358" ],
+    [ "instance_sunwell_plateau", "d0/d3e/a13350.html", "d0/d3e/a13350" ],
+    [ "instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript", "dd/d89/a13354.html", "dd/d89/a13354" ],
+    [ "spell_cataclysm_breath", "db/d2a/a13358.html", "db/d2a/a13358" ],
+    [ "npc_sunblade_scout", "dd/de0/a13362.html", "dd/de0/a13362" ],
+    [ "spell_sunwell_teleport", "da/d92/a13366.html", "da/d92/a13366" ],
     [ "cataclysmBreath", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901c", [
       [ "SPELL_CORROSIVE_POISON", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3", null ],
       [ "SPELL_FEVERED_FATIGUE", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222", null ],
@@ -21,6 +22,11 @@ var a03395 =
       [ "SPELL_COSMETIC_STUN_IMMUNE_PERMANENT", "d6/d0e/a03395.html#aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff", null ],
       [ "SPELL_FELBLOOD_CHANNEL", "d6/d0e/a03395.html#aaf4c1644419a40c8480767e91644d5bca2a2aa66bbc0dcd838269258c02024cfd", null ],
       [ "SPELL_SINISTER_STRIKE", "d6/d0e/a03395.html#aaf4c1644419a40c8480767e91644d5bca3217132d497cc70e674432067fd431a7", null ]
+    ] ],
+    [ "SunwellTeleportSpells", "d6/d0e/a03395.html#a16317b99a941a9465e032037ccd2c216", [
+      [ "SPELL_TELEPORT_TO_APEX_POINT", "d6/d0e/a03395.html#a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b", null ],
+      [ "SPELL_TELEPORT_TO_WITCHS_SANCTUM", "d6/d0e/a03395.html#a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368", null ],
+      [ "SPELL_TELEPORT_TO_SUNWELL_PLATEAU", "d6/d0e/a03395.html#a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e", null ]
     ] ],
     [ "AddSC_instance_sunwell_plateau", "d6/d0e/a03395.html#a6f050a93b62a1391ae6321d1d2d6450a", null ],
     [ "creatureData", "d6/d0e/a03395.html#a412286b689bd324fedd65ddd8dde8afb", null ],

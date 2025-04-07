@@ -1,6 +1,7 @@
 var a27506 =
 [
-    [ "npc_pet_trainerAI", "dd/d77/a27510.html", "dd/d77/a27510" ],
-    [ "npc_pet_trainer", "d6/dec/a27506.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "d6/dec/a27506.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_steam_tonkAI", "d6/dec/a27506.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "d6/dec/a27506.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "d6/dec/a27506.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "d6/dec/a27506.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

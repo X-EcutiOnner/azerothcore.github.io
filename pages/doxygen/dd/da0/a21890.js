@@ -1,7 +1,6 @@
 var a21890 =
 [
-    [ "npc_Apothecary_HanesAI", "d7/da8/a21894.html", "d7/da8/a21894" ],
-    [ "npc_apothecary_hanes", "dd/da0/a21890.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
-    [ "GetAI", "dd/da0/a21890.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
-    [ "OnQuestAccept", "dd/da0/a21890.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
+    [ "npc_attracted_reef_bullAI", "dd/da0/a21890.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "dd/da0/a21890.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "dd/da0/a21890.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

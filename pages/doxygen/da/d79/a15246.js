@@ -1,7 +1,7 @@
 var a15246 =
 [
-    [ "npc_kerlonianAI", "d4/d0e/a15250.html", "d4/d0e/a15250" ],
-    [ "npc_kerlonian", "da/d79/a15246.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "da/d79/a15246.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "da/d79/a15246.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "npc_webbed_creatureAI", "da/d79/a15246.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "da/d79/a15246.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "da/d79/a15246.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "da/d79/a15246.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

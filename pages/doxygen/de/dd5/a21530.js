@@ -1,7 +1,6 @@
 var a21530 =
 [
-    [ "npc_warmage_violetstand", "de/dd5/a21530.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "de/dd5/a21530.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "de/dd5/a21530.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "de/dd5/a21530.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_counselor_talbotAI", "d9/ddc/a21534.html", "d9/ddc/a21534" ],
+    [ "npc_counselor_talbot", "de/dd5/a21530.html#a9223380bb78afeda617482bea0a3110c", null ],
+    [ "GetAI", "de/dd5/a21530.html#a3debd13352146a247d635042ecbfa155", null ]
 ];

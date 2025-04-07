@@ -1,6 +1,6 @@
 var a14446 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "d0/df2/a14450.html", "d0/df2/a14450" ],
-    [ "instance_blackfathom_deeps", "df/d5e/a14446.html#a4600a7e6191582c1bee684989a970e0f", null ],
-    [ "GetInstanceScript", "df/d5e/a14446.html#a62cdab4f3118ab030b4ef55243690f73", null ]
+    [ "HandleTriggerSpell", "df/d5e/a14446.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
+    [ "PrepareSpellScript", "df/d5e/a14446.html#a76a070da8e719198463010499f595599", null ],
+    [ "Register", "df/d5e/a14446.html#ae237c4972167a5a17b59800983496a9d", null ]
 ];

@@ -1,6 +1,6 @@
 var a15354 =
 [
-    [ "npc_bunthen_plainswind", "d5/d31/a15354.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "d5/d31/a15354.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "d5/d31/a15354.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "npcs_riverbreeze_and_silversky", "d5/d31/a15354.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "d5/d31/a15354.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "d5/d31/a15354.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

@@ -1,7 +1,6 @@
 var a23334 =
 [
-    [ "OnApply", "d8/dbc/a23334.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "d8/dbc/a23334.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "d8/dbc/a23334.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "d8/dbc/a23334.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "instance_the_underbog_InstanceMapScript", "d5/db8/a23338.html", "d5/db8/a23338" ],
+    [ "instance_the_underbog", "d8/dbc/a23334.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
+    [ "GetInstanceScript", "d8/dbc/a23334.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
 ];

@@ -1,7 +1,5 @@
 var a15726 =
 [
-    [ "HandleScript", "d4/d90/a15726.html#ae9939f2795b8ba428277c7d658af715c", null ],
-    [ "PrepareSpellScript", "d4/d90/a15726.html#aabe244008103ff317e3fc1e26b04115a", null ],
-    [ "Register", "d4/d90/a15726.html#a4f492bdd96ef190354f37c95217bb696", null ],
-    [ "Validate", "d4/d90/a15726.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
+    [ "achievement_volunteer_work", "d4/d90/a15726.html#a43db6e553b370f139ac376840fdf6d70", null ],
+    [ "OnCheck", "d4/d90/a15726.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
 ];

@@ -1,6 +1,6 @@
 var a19634 =
 [
-    [ "boss_steelbreakerAI", "db/d22/a19638.html", "db/d22/a19638" ],
-    [ "boss_steelbreaker", "d0/dec/a19634.html#af6e4c3729874e59959b35ca67a46aa44", null ],
-    [ "GetAI", "d0/dec/a19634.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
+    [ "PrepareSpellScript", "d0/dec/a19634.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d0/dec/a19634.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d0/dec/a19634.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

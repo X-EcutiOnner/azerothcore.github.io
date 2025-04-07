@@ -1,6 +1,9 @@
 var a18674 =
 [
-    [ "npc_icc_valkyr_heraldAI", "dd/da4/a18678.html", "dd/da4/a18678" ],
-    [ "npc_icc_valkyr_herald", "d7/d50/a18674.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
-    [ "GetAI", "d7/d50/a18674.html#a7537269841d0380d2dc9e4641705acf9", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d7/d50/a18674.html#ae74a306850b328f536b55e5c24c040ab", null ],
+    [ "AttackStart", "d7/d50/a18674.html#a52b753e1f599eb02385d980a78cd3c78", null ],
+    [ "JustEngagedWith", "d7/d50/a18674.html#afdb4215cd0578de7342b152783666ed6", null ],
+    [ "Reset", "d7/d50/a18674.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
+    [ "UpdateAI", "d7/d50/a18674.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
+    [ "events", "d7/d50/a18674.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
 ];

@@ -1,6 +1,7 @@
 var a23798 =
 [
-    [ "HandleAfterRemove", "dd/dc3/a23798.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "dd/dc3/a23798.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "dd/dc3/a23798.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "boss_gatewatcher_iron_hand", "dd/dc3/a23798.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "dd/dc3/a23798.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "dd/dc3/a23798.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "dd/dc3/a23798.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

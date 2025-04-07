@@ -1,6 +1,11 @@
 var a20790 =
 [
-    [ "boss_yoggsaron_voiceAI", "d5/d12/a20794.html", "d5/d12/a20794" ],
-    [ "boss_yoggsaron_voice", "dc/d32/a20790.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
-    [ "GetAI", "dc/d32/a20790.html#a50abcde0313df06a114a2f5f44a1d481", null ]
+    [ "boss_yoggsaron_llaneAI", "dc/d32/a20790.html#a8524834b7dff49844d96b7dc49fd265d", null ],
+    [ "NextStep", "dc/d32/a20790.html#a6587e7873455950bda97b2a7d78e6fc5", null ],
+    [ "Reset", "dc/d32/a20790.html#a86f9d594562f842d478b63de18e52455", null ],
+    [ "Say", "dc/d32/a20790.html#ab619684f15f5325383a413dced7c930e", null ],
+    [ "UpdateAI", "dc/d32/a20790.html#a545378189f85968ac925baa06ad608b5", null ],
+    [ "_checkTimer", "dc/d32/a20790.html#aa4956f6943adce94a9ed4fec951317d6", null ],
+    [ "_running", "dc/d32/a20790.html#a6d6d186febc408ecb830bf7eea3c72bd", null ],
+    [ "_step", "dc/d32/a20790.html#a718c0bf307934b9ee9cbb933899c6324", null ]
 ];

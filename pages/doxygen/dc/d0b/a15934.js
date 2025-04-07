@@ -1,6 +1,5 @@
 var a15934 =
 [
-    [ "npc_onyx_flamecallerAI", "d0/d29/a15938.html", "d0/d29/a15938" ],
-    [ "npc_onyx_flamecaller", "dc/d0b/a15934.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "dc/d0b/a15934.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "at_baltharus_plateau", "dc/d0b/a15934.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
+    [ "OnTrigger", "dc/d0b/a15934.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
 ];

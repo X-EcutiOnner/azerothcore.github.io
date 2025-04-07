@@ -1,7 +1,6 @@
 var a21842 =
 [
-    [ "HandleAfterEffectApply", "dc/dbc/a21842.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "dc/dbc/a21842.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "dc/dbc/a21842.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "dc/dbc/a21842.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "npc_lake_frogAI", "d1/d47/a21846.html", "d1/d47/a21846" ],
+    [ "npc_lake_frog", "dc/dbc/a21842.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "dc/dbc/a21842.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

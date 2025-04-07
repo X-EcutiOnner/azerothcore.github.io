@@ -1,6 +1,6 @@
 var a20086 =
 [
-    [ "npc_ulduar_hodir_druidAI", "da/d77/a20090.html", "da/d77/a20090" ],
-    [ "npc_ulduar_hodir_druid", "df/dc8/a20086.html#a07809d61d55756a847467043b0e90989", null ],
-    [ "GetAI", "df/dc8/a20086.html#a4b0503e20bf8caddf0ea544a88124263", null ]
+    [ "npc_ulduar_toasty_fireAI", "df/dc8/a20086.html#a145001c6f1c1d505f810ae545ec62c69", null ],
+    [ "DoAction", "df/dc8/a20086.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
+    [ "SpellHit", "df/dc8/a20086.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
 ];

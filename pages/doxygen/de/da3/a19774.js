@@ -1,6 +1,12 @@
 var a19774 =
 [
-    [ "npc_mimirons_infernoAI", "da/d3c/a19778.html", "da/d3c/a19778" ],
-    [ "npc_mimirons_inferno", "de/da3/a19774.html#a7a531a65a179b5d56c888c055b72d269", null ],
-    [ "GetAI", "de/da3/a19774.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
+    [ "npc_freya_wardAI", "de/da3/a19774.html#afbc2f3d88173e240b87915cf0520b3cf", null ],
+    [ "DoAction", "de/da3/a19774.html#a4c9418b5474eb572a76168d4a460159a", null ],
+    [ "JustSummoned", "de/da3/a19774.html#a9075d763014ca50b4e0d2c815e1c23b7", null ],
+    [ "Reset", "de/da3/a19774.html#a65d304edd3b00b4a45c58bf36b926900", null ],
+    [ "SummonedCreatureDespawn", "de/da3/a19774.html#a6273b024ebde2fb36ed79eb122f7ac68", null ],
+    [ "UpdateAI", "de/da3/a19774.html#a11dd073b70e5126f580ec5122dce7bbd", null ],
+    [ "_castTimer", "de/da3/a19774.html#a6308aadc8ebf41cf045b04ac58e2244b", null ],
+    [ "_summoned", "de/da3/a19774.html#a5df6604055c5f3936a95f8d0ca5be8c1", null ],
+    [ "summons", "de/da3/a19774.html#a82932e9f2d570fa6d8394bfd3954c41e", null ]
 ];

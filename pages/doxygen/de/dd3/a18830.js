@@ -1,6 +1,8 @@
 var a18830 =
 [
-    [ "boss_anubrekhanAI", "d2/dc0/a18834.html", "d2/dc0/a18834" ],
-    [ "boss_anubrekhan", "de/dd3/a18830.html#a6ff866300f8b0b58d4b7467def9747c0", null ],
-    [ "GetAI", "de/dd3/a18830.html#aba5c31f182d6f600302f84ed21e9f7e9", null ]
+    [ "HandleScript", "de/dd3/a18830.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
+    [ "HandleScript2", "de/dd3/a18830.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
+    [ "Load", "de/dd3/a18830.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
+    [ "PrepareSpellScript", "de/dd3/a18830.html#a2d1dbae570206b358878020879708000", null ],
+    [ "Register", "de/dd3/a18830.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
 ];

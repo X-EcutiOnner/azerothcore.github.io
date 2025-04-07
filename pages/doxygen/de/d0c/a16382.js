@@ -1,7 +1,8 @@
 var a16382 =
 [
-    [ "HandleDispel", "de/d0c/a16382.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "de/d0c/a16382.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "de/d0c/a16382.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "de/d0c/a16382.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "npc_toc_pet_warlockAI", "de/d0c/a16382.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
+    [ "EnterEvadeMode", "de/d0c/a16382.html#a62219f63e82fc67f63db2cbd713647a0", null ],
+    [ "myCanCast", "de/d0c/a16382.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
+    [ "UpdateAI", "de/d0c/a16382.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
+    [ "events", "de/d0c/a16382.html#a8edadebd7e6660041233a24fb07173bf", null ]
 ];

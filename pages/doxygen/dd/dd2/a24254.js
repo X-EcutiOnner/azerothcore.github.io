@@ -1,6 +1,5 @@
 var a24254 =
 [
-    [ "npc_pet_dk_army_of_the_deadAI", "de/d7b/a24258.html", "de/d7b/a24258" ],
-    [ "npc_pet_dk_army_of_the_dead", "dd/dd2/a24254.html#a0029b9a6bf26ac3419e580d437a0139f", null ],
-    [ "GetAI", "dd/dd2/a24254.html#a1883936b7f2905f67d3750faa8caf635", null ]
+    [ "npc_pet_dk_ghoulAI", "dd/dd2/a24254.html#a7e747ba9e709eb532b0c16c8a1c1763a", null ],
+    [ "JustDied", "dd/dd2/a24254.html#a7d964fafeb0a7746a7749a9e0eb93080", null ]
 ];

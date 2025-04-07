@@ -1,14 +1,14 @@
 var a03182 =
 [
-    [ "boss_mandokir", "dc/d13/a13926.html", "dc/d13/a13926" ],
-    [ "boss_mandokir::boss_mandokirAI", "d0/d65/a13930.html", "d0/d65/a13930" ],
-    [ "npc_ohgan", "df/d4b/a13934.html", "df/d4b/a13934" ],
-    [ "npc_ohgan::npc_ohganAI", "dd/df2/a13938.html", "dd/df2/a13938" ],
-    [ "npc_chained_spirit", "d4/d2c/a13942.html", "d4/d2c/a13942" ],
-    [ "npc_vilebranch_speaker", "de/d68/a13946.html", "de/d68/a13946" ],
-    [ "spell_threatening_gaze_aura", "d1/ddf/a13950.html", "d1/ddf/a13950" ],
-    [ "spell_mandokir_charge", "d5/d11/a13954.html", "d5/d11/a13954" ],
-    [ "spell_threatening_gaze_charge", "d8/d98/a13958.html", "d8/d98/a13958" ],
+    [ "boss_mandokir", "dd/df2/a13938.html", "dd/df2/a13938" ],
+    [ "boss_mandokir::boss_mandokirAI", "d4/d2c/a13942.html", "d4/d2c/a13942" ],
+    [ "npc_ohgan", "de/d68/a13946.html", "de/d68/a13946" ],
+    [ "npc_ohgan::npc_ohganAI", "d1/ddf/a13950.html", "d1/ddf/a13950" ],
+    [ "npc_chained_spirit", "d5/d11/a13954.html", "d5/d11/a13954" ],
+    [ "npc_vilebranch_speaker", "d8/d98/a13958.html", "d8/d98/a13958" ],
+    [ "spell_threatening_gaze_aura", "dd/d75/a13962.html", "dd/d75/a13962" ],
+    [ "spell_mandokir_charge", "d3/dd5/a13966.html", "d3/dd5/a13966" ],
+    [ "spell_threatening_gaze_charge", "da/da0/a13970.html", "da/da0/a13970" ],
     [ "Action", "dd/d71/a03182.html#a8bb1ef53467e4f61410d12822d922498", [
       [ "ACTION_START_REVIVE", "dd/d71/a03182.html#a8bb1ef53467e4f61410d12822d922498a14acc6a83289f297aabd7f8da3c85502", null ],
       [ "ACTION_REVIVE", "dd/d71/a03182.html#a8bb1ef53467e4f61410d12822d922498ae4cd22dece403cdfe2b94719ca179265", null ]

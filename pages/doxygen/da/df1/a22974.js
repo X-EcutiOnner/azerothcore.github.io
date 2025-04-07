@@ -1,5 +1,6 @@
 var a22974 =
 [
-    [ "PrepareSpellScript", "da/df1/a22974.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
-    [ "Register", "da/df1/a22974.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
+    [ "OnPeriodic", "da/df1/a22974.html#aef6afe014ce90711cd7628563aada2a4", null ],
+    [ "PrepareAuraScript", "da/df1/a22974.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
+    [ "Register", "da/df1/a22974.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
 ];

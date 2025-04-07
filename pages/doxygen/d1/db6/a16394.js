@@ -1,6 +1,7 @@
 var a16394 =
 [
-    [ "npc_fel_infernalAI", "d1/db3/a16398.html", "d1/db3/a16398" ],
-    [ "npc_fel_infernal", "d1/db6/a16394.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
-    [ "GetAI", "d1/db6/a16394.html#a768201a7516c9972800c941cf2079a11", null ]
+    [ "HandleDispel", "d1/db6/a16394.html#a7b24f38bbb7813826520f928b22d30aa", null ],
+    [ "PrepareAuraScript", "d1/db6/a16394.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
+    [ "Register", "d1/db6/a16394.html#a2bf6921550da3c13730fd98bded2c927", null ],
+    [ "Validate", "d1/db6/a16394.html#ad8b0bb389d232c74acf106b711414fa1", null ]
 ];

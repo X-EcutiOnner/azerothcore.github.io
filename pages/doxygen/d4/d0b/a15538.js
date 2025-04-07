@@ -1,7 +1,7 @@
 var a15538 =
 [
-    [ "npc_lakota_windsongAI", "d4/d0b/a15538.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "d4/d0b/a15538.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "d4/d0b/a15538.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "d4/d0b/a15538.html#a6435c8b1521206789131889e5fa527a6", null ]
+    [ "npc_wizzlecrank_shredderAI", "de/d2f/a15542.html", "de/d2f/a15542" ],
+    [ "npc_wizzlecrank_shredder", "d4/d0b/a15538.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "d4/d0b/a15538.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "d4/d0b/a15538.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

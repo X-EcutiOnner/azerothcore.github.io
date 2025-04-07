@@ -1,7 +1,7 @@
 var a17370 =
 [
-    [ "HandleScript", "de/d5f/a17370.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "de/d5f/a17370.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "de/d5f/a17370.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "de/d5f/a17370.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "npc_icc_blood_beastAI", "de/d5f/a17370.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "de/d5f/a17370.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "de/d5f/a17370.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "de/d5f/a17370.html#a1074059162f818088808795119f081be", null ]
 ];

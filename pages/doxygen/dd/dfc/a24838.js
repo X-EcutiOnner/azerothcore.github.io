@@ -1,6 +1,6 @@
 var a24838 =
 [
-    [ "HandleDummy", "dd/dfc/a24838.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
-    [ "PrepareSpellScript", "dd/dfc/a24838.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
-    [ "Register", "dd/dfc/a24838.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
+    [ "CheckProc", "dd/dfc/a24838.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
+    [ "PrepareAuraScript", "dd/dfc/a24838.html#a861caa47c502c42fa84d9f9de74df024", null ],
+    [ "Register", "dd/dfc/a24838.html#ab4275de186b6841a1f424863cb6c128c", null ]
 ];

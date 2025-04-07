@@ -1,10 +1,14 @@
 var a20974 =
 [
-    [ "npc_dragonflayer_forge_master", "dd/d2f/a20974.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "dd/d2f/a20974.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "dd/d2f/a20974.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "dd/d2f/a20974.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "dd/d2f/a20974.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "dd/d2f/a20974.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "dd/d2f/a20974.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "boss_dalronn_the_controller", "dd/d2f/a20974.html#a57718e928fa273bba3c40a05d5888a3d", null ],
+    [ "DoAction", "dd/d2f/a20974.html#ad11e43d40a61f093b5e51482437467b8", null ],
+    [ "JustDied", "dd/d2f/a20974.html#a28a669b56392b599e124573778e33134", null ],
+    [ "JustEngagedWith", "dd/d2f/a20974.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
+    [ "JustSummoned", "dd/d2f/a20974.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
+    [ "KilledUnit", "dd/d2f/a20974.html#a96a173e30ad81c77217b0693d1d15839", null ],
+    [ "Reset", "dd/d2f/a20974.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
+    [ "UpdateAI", "dd/d2f/a20974.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
+    [ "events", "dd/d2f/a20974.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
+    [ "pInstance", "dd/d2f/a20974.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
+    [ "summons", "dd/d2f/a20974.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
 ];

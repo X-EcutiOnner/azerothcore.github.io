@@ -1,6 +1,6 @@
 var a15806 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "d5/d8c/a15810.html", "d5/d8c/a15810" ],
-    [ "instance_azjol_nerub", "dc/dd5/a15806.html#a61476a0d15136d2bdb3a65eca72963da", null ],
-    [ "GetInstanceScript", "dc/dd5/a15806.html#a8bb8477669c6369afe508a400bd4d489", null ]
+    [ "boss_krik_thirAI", "d5/d8c/a15810.html", "d5/d8c/a15810" ],
+    [ "boss_krik_thir", "dc/dd5/a15806.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
+    [ "GetAI", "dc/dd5/a15806.html#a10e582440092d5c6558c2a11d60907aa", null ]
 ];

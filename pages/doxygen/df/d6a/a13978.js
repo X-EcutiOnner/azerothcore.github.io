@@ -1,7 +1,8 @@
 var a13978 =
 [
-    [ "HandleApply", "df/d6a/a13978.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
-    [ "HandleRemove", "df/d6a/a13978.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
-    [ "PrepareAuraScript", "df/d6a/a13978.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
-    [ "Register", "df/d6a/a13978.html#af2343add2ed014832bd34d11519b391b", null ]
+    [ "npc_spawn_of_marli", "df/d6a/a13978.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "df/d6a/a13978.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "df/d6a/a13978.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "df/d6a/a13978.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "df/d6a/a13978.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

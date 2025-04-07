@@ -1,6 +1,6 @@
 var a27518 =
 [
-    [ "npc_experience", "df/d4b/a27518.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "df/d4b/a27518.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "df/d4b/a27518.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "npc_pet_trainerAI", "da/dcd/a27522.html", "da/dcd/a27522" ],
+    [ "npc_pet_trainer", "df/d4b/a27518.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "df/d4b/a27518.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

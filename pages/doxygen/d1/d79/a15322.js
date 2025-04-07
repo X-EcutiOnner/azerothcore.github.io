@@ -1,7 +1,6 @@
 var a15322 =
 [
-    [ "HandleDummy", "d1/d79/a15322.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
-    [ "PrepareSpellScript", "d1/d79/a15322.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
-    [ "Register", "d1/d79/a15322.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
-    [ "Validate", "d1/d79/a15322.html#a041c84fd605abd36b8f774903a5200dc", null ]
+    [ "npc_troll_volunteerAI", "da/dff/a15326.html", "da/dff/a15326" ],
+    [ "npc_troll_volunteer", "d1/d79/a15322.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
+    [ "GetAI", "d1/d79/a15322.html#aba0208b0910ace75686941c462ecca56", null ]
 ];

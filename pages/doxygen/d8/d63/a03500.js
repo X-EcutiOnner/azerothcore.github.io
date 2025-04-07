@@ -1,9 +1,9 @@
 var a03500 =
 [
-    [ "npc_frost_tomb", "d2/ddb/a20942.html", "d2/ddb/a20942" ],
-    [ "boss_keleseth", "dd/df0/a20946.html", "dd/df0/a20946" ],
-    [ "npc_vrykul_skeleton", "da/d4e/a20950.html", "da/d4e/a20950" ],
-    [ "spell_frost_tomb_aura", "d2/d93/a20954.html", "d2/d93/a20954" ],
+    [ "npc_frost_tomb", "d2/d93/a20954.html", "d2/d93/a20954" ],
+    [ "boss_keleseth", "df/d9a/a20958.html", "df/d9a/a20958" ],
+    [ "npc_vrykul_skeleton", "d0/d0f/a20962.html", "d0/d0f/a20962" ],
+    [ "spell_frost_tomb_aura", "de/dbb/a20966.html", "de/dbb/a20966" ],
     [ "SPELL_SHADOWBOLT", "d8/d63/a03500.html#a2318d1791fdeb5d6835fba5923a390f6", null ],
     [ "eNPCs", "d8/d63/a03500.html#abaecf87f40b40c4c71ec596a0b73e911", [
       [ "NPC_BROODLORD", "d1/dc4/a02042.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],

@@ -1,6 +1,7 @@
 var a20966 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "d7/d49/a20970.html", "d7/d49/a20970" ],
-    [ "instance_utgarde_keep", "de/dbb/a20966.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "de/dbb/a20966.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "HandleEffectPeriodic", "de/dbb/a20966.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "de/dbb/a20966.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "de/dbb/a20966.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "de/dbb/a20966.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

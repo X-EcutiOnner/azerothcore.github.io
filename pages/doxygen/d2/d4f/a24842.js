@@ -1,6 +1,7 @@
 var a24842 =
 [
-    [ "HandleDummy", "d2/d4f/a24842.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
-    [ "PrepareSpellScript", "d2/d4f/a24842.html#af310c2b28ed816b9fbe494f81c42043c", null ],
-    [ "Register", "d2/d4f/a24842.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
+    [ "HandleEffectApply", "d2/d4f/a24842.html#a03c31d2d1ff8a01a03c7fa6f67a5c9c3", null ],
+    [ "HandleEffectRemove", "d2/d4f/a24842.html#a54420a5b6c4cc0e0b468f573cd4625bf", null ],
+    [ "PrepareAuraScript", "d2/d4f/a24842.html#a39e61e11ede11f029485a73e4d995809", null ],
+    [ "Register", "d2/d4f/a24842.html#a9b0a61f6f7ad9f01a293451705675eb0", null ]
 ];

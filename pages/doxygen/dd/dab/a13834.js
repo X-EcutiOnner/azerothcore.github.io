@@ -1,6 +1,6 @@
 var a13834 =
 [
-    [ "boss_grilekAI", "d8/da6/a13838.html", "d8/da6/a13838" ],
-    [ "boss_grilek", "dd/dab/a13834.html#acffe0061db18c5725c8c290822c5fed7", null ],
-    [ "GetAI", "dd/dab/a13834.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
+    [ "boss_gahzranka", "dd/dab/a13834.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "dd/dab/a13834.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "dd/dab/a13834.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

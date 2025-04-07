@@ -1,6 +1,6 @@
 var a27530 =
 [
-    [ "npc_spring_rabbitAI", "d0/d36/a27534.html", "d0/d36/a27534" ],
-    [ "npc_spring_rabbit", "df/d6b/a27530.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "df/d6b/a27530.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "npc_experience", "df/d6b/a27530.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "df/d6b/a27530.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "df/d6b/a27530.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

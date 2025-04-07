@@ -1,7 +1,6 @@
 var a16266 =
 [
-    [ "npc_toc_shamanAI", "d4/dbc/a16266.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
-    [ "myCanCast", "d4/dbc/a16266.html#a993739662d2687c27219853669b8a485", null ],
-    [ "UpdateAI", "d4/dbc/a16266.html#a2ad17245685feb3f085ef9a669459c61", null ],
-    [ "events", "d4/dbc/a16266.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
+    [ "npc_toc_druidAI", "d0/d63/a16270.html", "d0/d63/a16270" ],
+    [ "npc_toc_druid", "d4/dbc/a16266.html#a07321d5ee164b8e47f652f9bad65216b", null ],
+    [ "GetAI", "d4/dbc/a16266.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
 ];

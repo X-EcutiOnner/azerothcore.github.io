@@ -1,6 +1,6 @@
 var a03146 =
 [
-    [ "boss_venoxis", "d8/dfe/a14002.html", "d8/dfe/a14002" ],
+    [ "boss_venoxis", "d8/da9/a14014.html", "d8/da9/a14014" ],
     [ "NPCs", "dc/df0/a03146.html#a6986ec7b2d3274669934af9795f26d5c", [
       [ "NPC_EMI_SHORTFUSE", "d3/d55/a03341.html#a6986ec7b2d3274669934af9795f26d5ca9e4a9c0c7e0adc0ef8c70ad7a302078a", null ],
       [ "BOSS_VENOXIS", "dc/df0/a03146.html#a6986ec7b2d3274669934af9795f26d5caae68e55f680ae41a7b7f050bb06a5702", null ],

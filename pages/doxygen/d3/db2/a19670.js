@@ -1,7 +1,12 @@
 var a19670 =
 [
-    [ "OnRemove", "d3/db2/a19670.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "d3/db2/a19670.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "d3/db2/a19670.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "d3/db2/a19670.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "npc_assembly_lightningAI", "d3/db2/a19670.html#a4b778b6545e7c93e66a07160db793651", null ],
+    [ "AttackStart", "d3/db2/a19670.html#afd4657e8c6a2eb39346e99cb54a7ab1a", null ],
+    [ "EnterEvadeMode", "d3/db2/a19670.html#a4c0bb838053412a3945648ed1a5a13b9", null ],
+    [ "MoveInLineOfSight", "d3/db2/a19670.html#a077f788e67cdb67683ac13f3a3d1322b", null ],
+    [ "MovementInform", "d3/db2/a19670.html#a95227f93c5ac6871bfcea603ebb2188d", null ],
+    [ "OnCharmed", "d3/db2/a19670.html#aa08e4c286723c76251bd75aa54b24f5f", null ],
+    [ "Reset", "d3/db2/a19670.html#a1f03885bfd91d9b9cdde1d90b51d2c96", null ],
+    [ "UpdateAI", "d3/db2/a19670.html#a94edd1ea5278bd5ca8d5d64619e9c8b4", null ],
+    [ "_boomed", "d3/db2/a19670.html#aa6b4a46674a7d4106a49ef308ec27b9e", null ]
 ];

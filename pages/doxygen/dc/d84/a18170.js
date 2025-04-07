@@ -1,8 +1,6 @@
 var a18170 =
 [
-    [ "ChangeDamageAndGrow", "dc/d84/a18170.html#a017ade08eca93f326d2e5115c4d88c33", null ],
-    [ "CorrectRange", "dc/d84/a18170.html#a9022b9efab89bc562428520b3551ff37", null ],
-    [ "PrepareSpellScript", "dc/d84/a18170.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
-    [ "Register", "dc/d84/a18170.html#a998b810cdbecbca2bf65f18cee14d286", null ],
-    [ "Validate", "dc/d84/a18170.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
+    [ "npc_raging_spiritAI", "d3/d75/a18174.html", "d3/d75/a18174" ],
+    [ "npc_raging_spirit", "dc/d84/a18170.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "dc/d84/a18170.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

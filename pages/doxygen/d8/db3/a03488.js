@@ -1,8 +1,8 @@
 var a03488 =
 [
-    [ "npc_dragonflayer_forge_master", "dd/d2f/a20974.html", "dd/d2f/a20974" ],
-    [ "npc_enslaved_proto_drake", "d3/dbe/a20978.html", "d3/dbe/a20978" ],
-    [ "spell_ticking_time_bomb_aura", "d3/de6/a20982.html", "d3/de6/a20982" ],
+    [ "npc_dragonflayer_forge_master", "dd/d92/a20986.html", "dd/d92/a20986" ],
+    [ "npc_enslaved_proto_drake", "de/d13/a20990.html", "de/d13/a20990" ],
+    [ "spell_ticking_time_bomb_aura", "df/df6/a20994.html", "df/df6/a20994" ],
     [ "EnslavedProtoDrake", "d8/db3/a03488.html#a5858242a9c3f514606e1286c62fcf278", [
       [ "TYPE_PROTODRAKE_AT", "d8/db3/a03488.html#a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56", null ],
       [ "DATA_PROTODRAKE_MOVE", "d8/db3/a03488.html#a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad", null ],

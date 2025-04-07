@@ -1,6 +1,6 @@
 var a15310 =
 [
-    [ "npc_troll_volunteerAI", "d7/d1b/a15314.html", "d7/d1b/a15314" ],
-    [ "npc_troll_volunteer", "d0/dd3/a15310.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
-    [ "GetAI", "d0/dd3/a15310.html#aba0208b0910ace75686941c462ecca56", null ]
+    [ "npc_tiger_matriarch_creditAI", "d0/dd3/a15310.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "d0/dd3/a15310.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "d0/dd3/a15310.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

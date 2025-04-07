@@ -1,8 +1,8 @@
 var a03602 =
 [
-    [ "boss_krik_thir", "d6/d09/a15794.html", "d6/d09/a15794" ],
-    [ "boss_krik_thir::boss_krik_thirAI", "d3/d8a/a15798.html", "d3/d8a/a15798" ],
-    [ "achievement_watch_him_die", "d2/db8/a15802.html", "d2/db8/a15802" ],
+    [ "boss_krik_thir", "dc/dd5/a15806.html", "dc/dd5/a15806" ],
+    [ "boss_krik_thir::boss_krik_thirAI", "d5/d8c/a15810.html", "d5/d8c/a15810" ],
+    [ "achievement_watch_him_die", "d4/db4/a15814.html", "d4/db4/a15814" ],
     [ "Events", "de/dc5/a03602.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/dfb/a03122.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/dfb/a03122.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

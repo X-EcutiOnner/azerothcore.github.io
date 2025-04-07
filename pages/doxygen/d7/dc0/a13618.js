@@ -1,9 +1,7 @@
 var a13618 =
 [
-    [ "npc_thrall_bfuAI", "de/d5e/a13622.html", "de/d5e/a13622" ],
-    [ "npc_thrall_bfu", "d7/dc0/a13618.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
-    [ "GetAI", "d7/dc0/a13618.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
-    [ "OnGossipHello", "d7/dc0/a13618.html#a71a7108464de9245879c8a1c08932e2a", null ],
-    [ "OnGossipSelect", "d7/dc0/a13618.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
-    [ "OnQuestReward", "d7/dc0/a13618.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
+    [ "boss_blight_wormAI", "d7/dc0/a13618.html#af267e395fbd539f871e498dc6745c610", null ],
+    [ "Reset", "d7/dc0/a13618.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
+    [ "UpdateAI", "d7/dc0/a13618.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
+    [ "_events", "d7/dc0/a13618.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
 ];

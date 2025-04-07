@@ -1,6 +1,6 @@
 var a26870 =
 [
-    [ "HandleOnHit", "d8/d83/a26870.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "d8/d83/a26870.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "d8/d83/a26870.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "HandleEffectCalcSpellMod", "d8/d83/a26870.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "d8/d83/a26870.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "d8/d83/a26870.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

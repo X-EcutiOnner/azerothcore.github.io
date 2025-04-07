@@ -1,6 +1,6 @@
 var a16070 =
 [
-    [ "HandleScript", "d9/d48/a16070.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "d9/d48/a16070.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "d9/d48/a16070.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "boss_saviana_ragefireAI", "da/df8/a16074.html", "da/df8/a16074" ],
+    [ "boss_saviana_ragefire", "d9/d48/a16070.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "d9/d48/a16070.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];
