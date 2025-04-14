@@ -1,6 +1,5 @@
 var a23246 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "d3/dc5/a23250.html", "d3/dc5/a23250" ],
-    [ "instance_the_slave_pens", "de/ddd/a23246.html#a765f7b66ad3bed1828524ecb143742f2", null ],
-    [ "GetInstanceScript", "de/ddd/a23246.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
+    [ "boss_quagmirran", "de/ddd/a23246.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "de/ddd/a23246.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

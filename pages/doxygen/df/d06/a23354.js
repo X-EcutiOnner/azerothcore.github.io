@@ -1,11 +1,7 @@
 var a23354 =
 [
-    [ "boss_gruul", "df/d06/a23354.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "df/d06/a23354.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "df/d06/a23354.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "df/d06/a23354.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "df/d06/a23354.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "df/d06/a23354.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "df/d06/a23354.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "df/d06/a23354.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "OnApply", "df/d06/a23354.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "df/d06/a23354.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "df/d06/a23354.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "df/d06/a23354.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

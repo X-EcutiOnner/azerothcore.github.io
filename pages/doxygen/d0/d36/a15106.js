@@ -1,6 +1,6 @@
 var a15106 =
 [
-    [ "aqsentinelAI", "d0/ddd/a15110.html", "d0/ddd/a15110" ],
-    [ "npc_anubisath_sentinel", "d0/d36/a15106.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
-    [ "GetAI", "d0/d36/a15106.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d0/ddd/a15110.html", "d0/ddd/a15110" ],
+    [ "instance_temple_of_ahnqiraj", "d0/d36/a15106.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "d0/d36/a15106.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

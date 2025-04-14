@@ -1,7 +1,6 @@
 var a27910 =
 [
-    [ "cutPercent", "dd/d1f/a27910.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "dd/d1f/a27910.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "dd/d1f/a27910.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "dd/d1f/a27910.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "AreaGroupId", "dd/d1f/a27910.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "dd/d1f/a27910.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "dd/d1f/a27910.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

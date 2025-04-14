@@ -1,9 +1,6 @@
 var a17334 =
 [
-    [ "CheckProc", "d3/dda/a17334.html#a13426f7a45e9434f980b42f174b22da8", null ],
-    [ "HandlePeriodicTick", "d3/dda/a17334.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
-    [ "HandleProc", "d3/dda/a17334.html#abf744d64dae5835bff3877eeaa919af3", null ],
-    [ "PrepareAuraScript", "d3/dda/a17334.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
-    [ "Register", "d3/dda/a17334.html#a1b72c10256365de71b8f9fadf5886338", null ],
-    [ "Validate", "d3/dda/a17334.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
+    [ "npc_saurfang_eventAI", "dc/d1a/a17338.html", "dc/d1a/a17338" ],
+    [ "npc_saurfang_event", "d3/dda/a17334.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "d3/dda/a17334.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

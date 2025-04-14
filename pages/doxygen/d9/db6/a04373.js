@@ -1,8 +1,8 @@
 var a04373 =
 [
-    [ "instance_the_eye", "d6/d83/a23782.html", "d6/d83/a23782" ],
-    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "dd/d85/a23786.html", "dd/d85/a23786" ],
-    [ "spell_the_eye_countercharge_aura", "db/dbd/a23790.html", "db/dbd/a23790" ],
+    [ "instance_the_eye", "db/dbd/a23790.html", "db/dbd/a23790" ],
+    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "dd/dd4/a23794.html", "dd/dd4/a23794" ],
+    [ "spell_the_eye_countercharge_aura", "dd/dc3/a23798.html", "dd/dc3/a23798" ],
     [ "AddSC_instance_the_eye", "d9/db6/a04373.html#a2edbd129d024cabd379cca055dd3e341", null ],
     [ "boundaries", "d9/db6/a04373.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "d9/db6/a04373.html#a412286b689bd324fedd65ddd8dde8afb", null ],

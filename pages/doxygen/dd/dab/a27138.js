@@ -1,7 +1,6 @@
 var a27138 =
 [
-    [ "go_bear_trapAI", "dd/dab/a27138.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "dd/dab/a27138.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "dd/dab/a27138.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "dd/dab/a27138.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "go_heatAI", "dd/dab/a27138.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
+    [ "UpdateAI", "dd/dab/a27138.html#a2332206ee47b2cea9e4707d16ea79325", null ],
+    [ "timer", "dd/dab/a27138.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
 ];

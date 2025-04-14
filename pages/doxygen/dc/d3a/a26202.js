@@ -1,8 +1,9 @@
 var a26202 =
 [
-    [ "HandleEffectRemove", "dc/d3a/a26202.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
-    [ "if", "dc/d3a/a26202.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
-    [ "PrepareAuraScript", "dc/d3a/a26202.html#a531f51626ae4527282ad1e628911a9ea", null ],
-    [ "Register", "dc/d3a/a26202.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
-    [ "AuraEffectHandleModes", "dc/d3a/a26202.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
+    [ "HandleAfterCast", "dc/d3a/a26202.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "dc/d3a/a26202.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "dc/d3a/a26202.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "dc/d3a/a26202.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "dc/d3a/a26202.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "dc/d3a/a26202.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

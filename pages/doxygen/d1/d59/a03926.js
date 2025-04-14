@@ -1,7 +1,7 @@
 var a03926 =
 [
-    [ "npc_preparations_for_war_vehicle", "dc/d37/a21538.html", "dc/d37/a21538" ],
-    [ "npc_warmage_violetstand", "de/dc4/a21542.html", "de/dc4/a21542" ],
+    [ "npc_preparations_for_war_vehicle", "d9/dae/a21546.html", "d9/dae/a21546" ],
+    [ "npc_warmage_violetstand", "de/d03/a21550.html", "de/d03/a21550" ],
     [ "ePreparationsForWar", "d1/d59/a03926.html#aa1f5da50609df8a5db6588a5aef4dfa1", [
       [ "NPC_HAMMERHEAD", "d1/d59/a03926.html#aa1f5da50609df8a5db6588a5aef4dfa1ad1b13588c08e2e01417692b4885a4872", null ],
       [ "NPC_CLOUDBUSTER", "d1/d59/a03926.html#aa1f5da50609df8a5db6588a5aef4dfa1afa07f0b51a484de98e7c55105c1235fa", null ],
@@ -889,6 +889,9 @@ var a03926 =
       [ "SPELL_BLACK_HOLE_VISUAL2", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd", null ],
       [ "SPELL_BLACK_HOLE_PASSIVE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085", null ],
       [ "SPELL_BLACK_HOLE_EFFECT", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f", null ],
+      [ "SPELL_DARK_FIEND_APPEARANCE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0", null ],
+      [ "SPELL_DARK_FIEND_SECONDARY", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d", null ],
+      [ "SPELL_DARK_FIEND_TRIGGER", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca61f2d13d57b09aad7cd7437b32a1a1f8", null ],
       [ "SPELL_ARCHAEDAS_AWAKEN", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63", null ],
       [ "SPELL_AWAKEN_VAULT_WALKER", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e", null ],
       [ "SPELL_SOUL_CORRUPTION", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cadf9dc8cb0274ecae5a575b3aa8f5f87b", null ],

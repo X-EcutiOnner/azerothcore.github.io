@@ -1,5 +1,7 @@
 var a17018 =
 [
-    [ "at_tyrannus_event_starter", "db/dec/a17018.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
-    [ "OnTrigger", "db/dec/a17018.html#a8dcfce4cd24dbc45df987b4a9bfcbbc0", null ]
+    [ "HandleEffectPeriodic", "db/dec/a17018.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "db/dec/a17018.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "db/dec/a17018.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "db/dec/a17018.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

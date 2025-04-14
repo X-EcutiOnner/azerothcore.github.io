@@ -1,6 +1,6 @@
 var a21726 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d3/d34/a21730.html", "d3/d34/a21730" ],
-    [ "npc_q24545_vegard_dummy", "d6/dde/a21726.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
-    [ "GetAI", "d6/dde/a21726.html#a201d1dec206887c26e33f795a0fd0887", null ]
+    [ "GhoulTargetCheck", "d6/dde/a21726.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "d6/dde/a21726.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "d6/dde/a21726.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

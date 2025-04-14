@@ -1,6 +1,9 @@
 var a15574 =
 [
-    [ "npc_cairne_bloodhoofAI", "d8/d99/a15578.html", "d8/d99/a15578" ],
-    [ "npc_cairne_bloodhoof", "db/da1/a15574.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
-    [ "GetAI", "db/da1/a15574.html#a1c34470c46ae9e98684de0e786be28b7", null ]
+    [ "npc_pluckyAI", "db/da1/a15574.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
+    [ "ReceiveEmote", "db/da1/a15574.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
+    [ "Reset", "db/da1/a15574.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
+    [ "UpdateAI", "db/da1/a15574.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
+    [ "NormFaction", "db/da1/a15574.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
+    [ "ResetTimer", "db/da1/a15574.html#ac9808c21666cd17b0603e7e67a61d015", null ]
 ];

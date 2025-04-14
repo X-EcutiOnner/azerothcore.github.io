@@ -1,6 +1,7 @@
 var a18886 =
 [
-    [ "boss_gothikAI", "d0/d28/a18890.html", "d0/d28/a18890" ],
-    [ "boss_gothik", "de/ded/a18886.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
-    [ "GetAI", "de/ded/a18886.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
+    [ "HandleScriptEffect", "de/ded/a18886.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
+    [ "PrepareSpellScript", "de/ded/a18886.html#a21a3175346c9b12c02205f2d33da3b86", null ],
+    [ "Register", "de/ded/a18886.html#af5f279ad20e9153f201262eaa7615978", null ],
+    [ "Validate", "de/ded/a18886.html#a635ff34619767f657778016e1eb901aa", null ]
 ];

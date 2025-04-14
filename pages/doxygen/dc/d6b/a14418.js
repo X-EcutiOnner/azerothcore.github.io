@@ -1,6 +1,6 @@
 var a14418 =
 [
-    [ "OnAuraRemove", "dc/d6b/a14418.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "dc/d6b/a14418.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "dc/d6b/a14418.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "HandleDummy", "dc/d6b/a14418.html#aa75140309e66c28590a64e10676356da", null ],
+    [ "PrepareSpellScript", "dc/d6b/a14418.html#a21c4872e16c18c2918dfbea366e61df3", null ],
+    [ "Register", "dc/d6b/a14418.html#a841c9277224cbae878946deb288b87a1", null ]
 ];

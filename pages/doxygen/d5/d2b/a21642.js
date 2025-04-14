@@ -1,6 +1,8 @@
 var a21642 =
 [
-    [ "npc_mindless_ghoulAI", "d5/d2b/a21642.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "d5/d2b/a21642.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "d5/d2b/a21642.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "npc_future_youAI", "d5/d2b/a21642.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "d5/d2b/a21642.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "d5/d2b/a21642.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "d5/d2b/a21642.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "d5/d2b/a21642.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

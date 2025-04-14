@@ -1,6 +1,6 @@
 var a24854 =
 [
-    [ "HandleDummy", "d2/d50/a24854.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
-    [ "PrepareSpellScript", "d2/d50/a24854.html#af310c2b28ed816b9fbe494f81c42043c", null ],
-    [ "Register", "d2/d50/a24854.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
+    [ "ModDest", "d2/d50/a24854.html#a99d08536d2555390a7399a6d2fc199e6", null ],
+    [ "PrepareSpellScript", "d2/d50/a24854.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
+    [ "Register", "d2/d50/a24854.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
 ];

@@ -1,9 +1,9 @@
 var a02723 =
 [
-    [ "npc_belnistrasz", "d7/d48/a14802.html", "d7/d48/a14802" ],
-    [ "npc_belnistrasz::npc_belnistraszAI", "df/db3/a14806.html", "df/db3/a14806" ],
-    [ "npc_idol_room_spawner", "dc/d49/a14810.html", "dc/d49/a14810" ],
-    [ "npc_idol_room_spawner::npc_idol_room_spawnerAI", "da/d46/a14814.html", "da/d46/a14814" ],
+    [ "npc_belnistrasz", "dc/d49/a14810.html", "dc/d49/a14810" ],
+    [ "npc_belnistrasz::npc_belnistraszAI", "da/d46/a14814.html", "da/d46/a14814" ],
+    [ "npc_idol_room_spawner", "df/d58/a14818.html", "df/d58/a14818" ],
+    [ "npc_idol_room_spawner::npc_idol_room_spawnerAI", "d6/d1c/a14822.html", "d6/d1c/a14822" ],
     [ "Belnistrasz", "d4/dff/a02723.html#ab761030cc73179b77506cee80e54afba", [
       [ "EVENT_CHANNEL", "d4/dff/a02723.html#ab761030cc73179b77506cee80e54afbaa328cf2425c283ee53d5cb9d660a11034", null ],
       [ "EVENT_IDOL_ROOM_SPAWNER", "d4/dff/a02723.html#ab761030cc73179b77506cee80e54afbaa1a8dd12063e47b2533422a696ec5fe63", null ],

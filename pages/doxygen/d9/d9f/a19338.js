@@ -1,6 +1,7 @@
 var a19338 =
 [
-    [ "HandleDamageCalc", "d9/d9f/a19338.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
-    [ "PrepareSpellScript", "d9/d9f/a19338.html#a754da297cd5801616e24bf2d802d0b38", null ],
-    [ "Register", "d9/d9f/a19338.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
+    [ "CalcDamage", "d9/d9f/a19338.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
+    [ "PrepareSpellScript", "d9/d9f/a19338.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
+    [ "Register", "d9/d9f/a19338.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
+    [ "Validate", "d9/d9f/a19338.html#a773c608119a84cc3f02e7b4d786f2741", null ]
 ];

@@ -1,9 +1,6 @@
 var a16878 =
 [
-    [ "FilterTargets", "da/dd2/a16878.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "da/dd2/a16878.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "da/dd2/a16878.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "da/dd2/a16878.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "da/dd2/a16878.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "da/dd2/a16878.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "boss_garfrostAI", "d7/d94/a16882.html", "d7/d94/a16882" ],
+    [ "boss_garfrost", "da/dd2/a16878.html#ac116491cf252ee476cedee55ea292827", null ],
+    [ "GetAI", "da/dd2/a16878.html#a8a67bb09249655a8706868bb26b5124d", null ]
 ];

@@ -1,6 +1,6 @@
 var a20066 =
 [
-    [ "npc_ulduar_icicleAI", "dc/dc1/a20070.html", "dc/dc1/a20070" ],
-    [ "npc_ulduar_icicle", "de/df4/a20066.html#a1ab79b2fa3e64779f62b96c195222683", null ],
-    [ "GetAI", "de/df4/a20066.html#a71dd83d544307b11bcde58f9aeea097c", null ]
+    [ "boss_hodirAI", "dc/dc1/a20070.html", "dc/dc1/a20070" ],
+    [ "boss_hodir", "de/df4/a20066.html#a5740f489f57380d2633a8ee5a18de339", null ],
+    [ "GetAI", "de/df4/a20066.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c", null ]
 ];

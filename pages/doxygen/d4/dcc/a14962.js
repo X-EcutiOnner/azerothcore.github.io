@@ -1,6 +1,5 @@
 var a14962 =
 [
-    [ "HandleScriptEffect", "d4/dcc/a14962.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
-    [ "PrepareSpellScript", "d4/dcc/a14962.html#aa109d61baba87acf5bce5d44bff55214", null ],
-    [ "Register", "d4/dcc/a14962.html#ac8412777c84abfe56262d6d83163e9a1", null ]
+    [ "boss_vem", "d4/dcc/a14962.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
+    [ "JustEngagedWith", "d4/dcc/a14962.html#ae4b7fa599d31155bdee566b31c60b237", null ]
 ];

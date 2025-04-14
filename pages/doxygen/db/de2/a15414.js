@@ -1,10 +1,13 @@
 var a15414 =
 [
-    [ "npc_thrall_warchiefAI", "db/de2/a15414.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
-    [ "DoAction", "db/de2/a15414.html#a511da19703e30f6e82e59c5223bf2770", null ],
-    [ "JustEngagedWith", "db/de2/a15414.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
-    [ "Reset", "db/de2/a15414.html#a920a29258228c9c2e7e0791d38b648e1", null ],
-    [ "UpdateAI", "db/de2/a15414.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
-    [ "ChainLightningTimer", "db/de2/a15414.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
-    [ "ShockTimer", "db/de2/a15414.html#aa8609f8824f68ce7259465284c01dd35", null ]
+    [ "npc_shenthulAI", "db/de2/a15414.html#ae056474022c27be5565bf018a1b56f0b", null ],
+    [ "JustEngagedWith", "db/de2/a15414.html#acb202ef530bc11ea807f580ff5dfc621", null ],
+    [ "ReceiveEmote", "db/de2/a15414.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
+    [ "Reset", "db/de2/a15414.html#af077e96eb8bf89af2d6eb79907444a17", null ],
+    [ "UpdateAI", "db/de2/a15414.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
+    [ "CanEmote", "db/de2/a15414.html#a920209c374e611e96347d209337c044f", null ],
+    [ "CanTalk", "db/de2/a15414.html#a82ea8d2ee50538135add120be7616f86", null ],
+    [ "PlayerGUID", "db/de2/a15414.html#a4b262388aca789d19231426a8cb73379", null ],
+    [ "ResetTimer", "db/de2/a15414.html#a475a141d639f0136ac943e6afb1ecd15", null ],
+    [ "SaluteTimer", "db/de2/a15414.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
 ];

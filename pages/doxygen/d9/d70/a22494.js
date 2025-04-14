@@ -1,12 +1,12 @@
 var a22494 =
 [
-    [ "boss_shirrak_the_dead_watcher", "d9/d70/a22494.html#aaa6826de3b6563342b89544b38386d93", null ],
-    [ "EnterEvadeMode", "d9/d70/a22494.html#a23768629c4ab48954880c3c29099f432", null ],
-    [ "getStackCount", "d9/d70/a22494.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
-    [ "JustEngagedWith", "d9/d70/a22494.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
-    [ "JustSummoned", "d9/d70/a22494.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
-    [ "Reset", "d9/d70/a22494.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
-    [ "SpellHitTarget", "d9/d70/a22494.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
-    [ "UpdateAI", "d9/d70/a22494.html#a855505f949f53f979187abcb5b2f617f", null ],
-    [ "focusGUID", "d9/d70/a22494.html#a81a7eade42ef595c173d7828ce59ef88", null ]
+    [ "boss_exarch_maladaar", "d9/d70/a22494.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
+    [ "JustDied", "d9/d70/a22494.html#ab1179a19af8948d430559db4074c41ed", null ],
+    [ "JustEngagedWith", "d9/d70/a22494.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
+    [ "JustSummoned", "d9/d70/a22494.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
+    [ "KilledUnit", "d9/d70/a22494.html#adf35cb8b039676500d4040baa08b0d48", null ],
+    [ "MoveInLineOfSight", "d9/d70/a22494.html#a14baacd30b9186c7492c981313421d5b", null ],
+    [ "Reset", "d9/d70/a22494.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
+    [ "UpdateAI", "d9/d70/a22494.html#a7646c4477135d3d3b8580432902babd4", null ],
+    [ "_talked", "d9/d70/a22494.html#a15c4f122529b9f52823ea407c43433c5", null ]
 ];

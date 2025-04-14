@@ -1,7 +1,7 @@
 var a17810 =
 [
-    [ "HandleSummon", "d0/d49/a17810.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d0/d49/a17810.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d0/d49/a17810.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d0/d49/a17810.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "CheckRequirement", "d0/d49/a17810.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
+    [ "CheckRequirementInternal", "d0/d49/a17810.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
+    [ "PrepareSpellScript", "d0/d49/a17810.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
+    [ "Register", "d0/d49/a17810.html#a95a250aeb3a41922c529f476d39f18e4", null ]
 ];

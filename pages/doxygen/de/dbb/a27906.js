@@ -1,11 +1,14 @@
 var a27906 =
 [
-    [ "icon", "de/dbb/a27906.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
-    [ "id", "de/dbb/a27906.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
-    [ "mapId", "de/dbb/a27906.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
-    [ "worldState", "de/dbb/a27906.html#a9d745d26316726c861cc5a242f6a4f57", null ],
-    [ "x", "de/dbb/a27906.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
-    [ "y", "de/dbb/a27906.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
-    [ "z", "de/dbb/a27906.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
-    [ "zoneId", "de/dbb/a27906.html#a0cc33089981237694ca550cba6793a3e", null ]
+    [ "IsFlyable", "de/dbb/a27906.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
+    [ "IsSanctuary", "de/dbb/a27906.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
+    [ "area_level", "de/dbb/a27906.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
+    [ "area_name", "de/dbb/a27906.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
+    [ "exploreFlag", "de/dbb/a27906.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
+    [ "flags", "de/dbb/a27906.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
+    [ "ID", "de/dbb/a27906.html#ad02bb9fce21f464e38223581074a9e21", null ],
+    [ "LiquidTypeOverride", "de/dbb/a27906.html#abe743a4b542c4356aab9d41f3fae7457", null ],
+    [ "mapid", "de/dbb/a27906.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
+    [ "team", "de/dbb/a27906.html#ae18e0efef83e663452715f6be15ecaef", null ],
+    [ "zone", "de/dbb/a27906.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
 ];

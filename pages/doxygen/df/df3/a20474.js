@@ -1,5 +1,6 @@
 var a20474 =
 [
-    [ "achievement_quick_shave", "df/df3/a20474.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "df/df3/a20474.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "npc_ulduar_dark_rune_sentinelAI", "db/de6/a20478.html", "db/de6/a20478" ],
+    [ "npc_ulduar_dark_rune_sentinel", "df/df3/a20474.html#ac59aa042fd188eaf1eb6a04eb7d545a9", null ],
+    [ "GetAI", "df/df3/a20474.html#a3884f50f894770ff94ad6977f62c45f3", null ]
 ];

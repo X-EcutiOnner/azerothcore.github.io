@@ -1,10 +1,10 @@
 var a04064 =
 [
-    [ "OPvPCapturePointEP_EWT", "d8/dcf/a22378.html", "d8/dcf/a22378" ],
-    [ "OPvPCapturePointEP_NPT", "db/d65/a22382.html", "db/d65/a22382" ],
-    [ "OPvPCapturePointEP_CGT", "d2/dba/a22386.html", "d2/dba/a22386" ],
-    [ "OPvPCapturePointEP_PWT", "d0/d27/a22390.html", "d0/d27/a22390" ],
-    [ "OutdoorPvPEP", "d4/d01/a22394.html", "d4/d01/a22394" ],
+    [ "OPvPCapturePointEP_EWT", "d2/dba/a22386.html", "d2/dba/a22386" ],
+    [ "OPvPCapturePointEP_NPT", "d0/d27/a22390.html", "d0/d27/a22390" ],
+    [ "OPvPCapturePointEP_CGT", "d4/d01/a22394.html", "d4/d01/a22394" ],
+    [ "OPvPCapturePointEP_PWT", "df/d77/a22398.html", "df/d77/a22398" ],
+    [ "OutdoorPvPEP", "dd/dc1/a22402.html", "dd/dc1/a22402" ],
     [ "EP_CrownGuardTowerWorldStates", "dc/ddd/a04064.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9", [
       [ "EP_CGT_N_A", "dc/ddd/a04064.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9abc9c069eb162f17c873d780f5d210c5a", null ],
       [ "EP_CGT_N_H", "dc/ddd/a04064.html#a8a95bfcb61b6c157b3fcb1d28fd75ca9aa3935e441b830c6a57a25b41f956a472", null ],

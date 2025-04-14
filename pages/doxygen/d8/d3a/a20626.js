@@ -1,6 +1,9 @@
 var a20626 =
 [
-    [ "npc_xt002_boombotAI", "d4/dbd/a20630.html", "d4/dbd/a20630" ],
-    [ "npc_xt002_boombot", "d8/d3a/a20626.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
-    [ "GetAI", "d8/d3a/a20626.html#a27237e7a60042ed7163b19d80537c1b3", null ]
+    [ "npc_xt002_pummellerAI", "d8/d3a/a20626.html#a2942c05c93036c2e02b9a72c784441b1", null ],
+    [ "Reset", "d8/d3a/a20626.html#a6542fb3e585f100f06f6be14a1346306", null ],
+    [ "UpdateAI", "d8/d3a/a20626.html#a959990310303ff2102f1c03852b4ab8e", null ],
+    [ "_arcingSmashTimer", "d8/d3a/a20626.html#a830fda66756dc3f34a530939116e7556", null ],
+    [ "_trampleTimer", "d8/d3a/a20626.html#ae5e450601861f83b20419405bb92ef6d", null ],
+    [ "_uppercutTimer", "d8/d3a/a20626.html#a5a1bdb380438070effc091ec37db6aec", null ]
 ];

@@ -1,9 +1,9 @@
 var a14102 =
 [
-    [ "npc_brew_bubble", "dd/d45/a14102.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "dd/d45/a14102.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "dd/d45/a14102.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "dd/d45/a14102.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "dd/d45/a14102.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "dd/d45/a14102.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "CheckCast", "dd/d45/a14102.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "dd/d45/a14102.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "dd/d45/a14102.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "dd/d45/a14102.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "dd/d45/a14102.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "dd/d45/a14102.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

@@ -1,7 +1,7 @@
 var a14474 =
 [
-    [ "HandleOnHit", "d3/d2d/a14474.html#ae3241486a612293b5421a523f6d854d9", null ],
-    [ "PrepareSpellScript", "d3/d2d/a14474.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
-    [ "Register", "d3/d2d/a14474.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
-    [ "Validate", "d3/d2d/a14474.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
+    [ "boss_azuregosAI", "d2/d14/a14478.html", "d2/d14/a14478" ],
+    [ "boss_azuregos", "d3/d2d/a14474.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "d3/d2d/a14474.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "d3/d2d/a14474.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

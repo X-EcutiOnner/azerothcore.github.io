@@ -1,6 +1,6 @@
 var a25478 =
 [
-    [ "HandleActivateObject", "dc/d6e/a25478.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "dc/d6e/a25478.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "dc/d6e/a25478.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "HandleScriptEffect", "dc/d6e/a25478.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
+    [ "PrepareSpellScript", "dc/d6e/a25478.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
+    [ "Register", "dc/d6e/a25478.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
 ];

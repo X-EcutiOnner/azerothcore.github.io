@@ -1,6 +1,6 @@
 var a22954 =
 [
-    [ "PrepareAuraScript", "d6/db4/a22954.html#a0dca39c324a5431d4861c1f20a34355e", null ],
-    [ "Register", "d6/db4/a22954.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
-    [ "Update", "d6/db4/a22954.html#a6201eaa3b961e838a535b80679996ada", null ]
+    [ "HandleEffectRemove", "d6/db4/a22954.html#a99f96034b5976615c38e13e5e55c61b6", null ],
+    [ "PrepareAuraScript", "d6/db4/a22954.html#a0515a72abd37df13606876021659b995", null ],
+    [ "Register", "d6/db4/a22954.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
 ];

@@ -1,6 +1,6 @@
 var a20374 =
 [
-    [ "npc_ulduar_flames_spreadAI", "dd/db9/a20378.html", "dd/db9/a20378" ],
-    [ "npc_ulduar_flames_spread", "de/d29/a20374.html#aca9713b28d6d0c7b13b85a00c8a53ab0", null ],
-    [ "GetAI", "de/d29/a20374.html#af492a5bc9304a05f8475a39458c6abdb", null ]
+    [ "npc_ulduar_flames_initialAI", "dd/db9/a20378.html", "dd/db9/a20378" ],
+    [ "npc_ulduar_flames_initial", "de/d29/a20374.html#aee0c62a38e3e0958e015faef2c434273", null ],
+    [ "GetAI", "de/d29/a20374.html#ac0db78c361324a594220ad644001f4eb", null ]
 ];

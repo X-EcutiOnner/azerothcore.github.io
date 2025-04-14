@@ -1,7 +1,6 @@
 var a20642 =
 [
-    [ "FilterTargets", "d4/deb/a20642.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "d4/deb/a20642.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "d4/deb/a20642.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "d4/deb/a20642.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "npc_xt002_life_sparkAI", "d5/d16/a20646.html", "d5/d16/a20646" ],
+    [ "npc_xt002_life_spark", "d4/deb/a20642.html#a9644718d192708e391b833468a0ff21e", null ],
+    [ "GetAI", "d4/deb/a20642.html#a09a1ce332d55fad146947c94bb53f564", null ]
 ];

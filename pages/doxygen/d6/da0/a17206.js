@@ -1,6 +1,13 @@
 var a17206 =
 [
-    [ "AddExtraDamage", "d6/da0/a17206.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "d6/da0/a17206.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "d6/da0/a17206.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "npc_kinetic_bombAI", "d6/da0/a17206.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
+    [ "DoAction", "d6/da0/a17206.html#a52e913b244e58f99745926d021dc0d95", null ],
+    [ "IsSummonedBy", "d6/da0/a17206.html#a03dc3870b23105bb1d0d207adefe2541", null ],
+    [ "Reset", "d6/da0/a17206.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
+    [ "UpdateAI", "d6/da0/a17206.html#a1ce9bf99879796652878990a773e6a2c", null ],
+    [ "_events", "d6/da0/a17206.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
+    [ "_groundZ", "d6/da0/a17206.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
+    [ "_x", "d6/da0/a17206.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
+    [ "_y", "d6/da0/a17206.html#a5d9f4039c87e1e57234af51cd4617022", null ],
+    [ "exploded", "d6/da0/a17206.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
 ];

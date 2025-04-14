@@ -1,6 +1,9 @@
 var a13370 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "d5/d5a/a13374.html", "d5/d5a/a13374" ],
-    [ "instance_the_stockade", "d9/d0d/a13370.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "d9/d0d/a13370.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "spell_sunwell_teleport", "d9/d0d/a13370.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
+    [ "HandleScript", "d9/d0d/a13370.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
+    [ "PrepareSpellScript", "d9/d0d/a13370.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
+    [ "Register", "d9/d0d/a13370.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
+    [ "Validate", "d9/d0d/a13370.html#a351a2beced058f9354515baa38b0292e", null ],
+    [ "_triggeredSpellId", "d9/d0d/a13370.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
 ];

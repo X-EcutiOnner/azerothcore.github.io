@@ -1,8 +1,9 @@
 var a19506 =
 [
-    [ "brann_bronzebeardAI", "df/d00/a19510.html", "df/d00/a19510" ],
-    [ "brann_bronzebeard", "d3/dca/a19506.html#a66fd8785647896a1a5f7be041242cfd6", null ],
-    [ "GetAI", "d3/dca/a19506.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
-    [ "OnGossipHello", "d3/dca/a19506.html#a2714a2dde596db76706b8a86f97f82b8", null ],
-    [ "OnGossipSelect", "d3/dca/a19506.html#a0e0068a45012e50a9f645d393bdfe163", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d3/dca/a19506.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
+    [ "JustEngagedWith", "d3/dca/a19506.html#a9e6527bc46d7b685d938833d18796cee", null ],
+    [ "MoveInLineOfSight", "d3/dca/a19506.html#a7449e135f088a2d4b22a423c71118093", null ],
+    [ "MovementInform", "d3/dca/a19506.html#ac04d90e974f85282737bb5081a123106", null ],
+    [ "UpdateAI", "d3/dca/a19506.html#afccd77c8e90d129fb3a347205a2102db", null ],
+    [ "events", "d3/dca/a19506.html#a73c135ec94b41a752fc203c5e20128d0", null ]
 ];

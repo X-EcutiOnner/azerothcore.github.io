@@ -1,7 +1,7 @@
 var a23746 =
 [
-    [ "Load", "de/d39/a23746.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "de/d39/a23746.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "de/d39/a23746.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "de/d39/a23746.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "HandleEffect", "de/d39/a23746.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "de/d39/a23746.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "de/d39/a23746.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "de/d39/a23746.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

@@ -1,15 +1,13 @@
 var a15050 =
 [
-    [ "boss_skeram", "d2/d7f/a15050.html#a293710a88c91a181ee1000939386e176", null ],
-    [ "DoTeleport", "d2/d7f/a15050.html#a96166ddebd5906868b872c39a6755a70", null ],
-    [ "EnterEvadeMode", "d2/d7f/a15050.html#ab050e31d661c8c089d175de231b0eeb2", null ],
-    [ "JustDied", "d2/d7f/a15050.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
-    [ "JustEngagedWith", "d2/d7f/a15050.html#a07bba9a1a62ad9ad15b9cd42b5d5b3d3", null ],
-    [ "JustSummoned", "d2/d7f/a15050.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
-    [ "KilledUnit", "d2/d7f/a15050.html#a185cb6686d37e064278260ebe5fae13a", null ],
-    [ "Reset", "d2/d7f/a15050.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
-    [ "UpdateAI", "d2/d7f/a15050.html#aaf29331e0fac71479747d62fd9f1e301", null ],
-    [ "_copiesGUIDs", "d2/d7f/a15050.html#a28f1465938dc2141779d5171ea09ecd0", null ],
-    [ "_flag", "d2/d7f/a15050.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
-    [ "_hpct", "d2/d7f/a15050.html#a5c8760788264a9a04a28c05a0247676c", null ]
+    [ "boss_sartura", "d2/d7f/a15050.html#a7faaf16a1a56badd1e65a3364d425f02", null ],
+    [ "DamageTaken", "d2/d7f/a15050.html#a9a404743ac8491a9efc7091259706e0f", null ],
+    [ "InitializeAI", "d2/d7f/a15050.html#ae86d0a6b0cd591b3bb18333195109c22", null ],
+    [ "JustDied", "d2/d7f/a15050.html#aceff44022b8d53da41ecfcb1e2317e01", null ],
+    [ "JustEngagedWith", "d2/d7f/a15050.html#ab1c024908117e8460eb89c062d3825dc", null ],
+    [ "KilledUnit", "d2/d7f/a15050.html#a516a75910e872718a519c2a5c9805770", null ],
+    [ "Reset", "d2/d7f/a15050.html#ab3514ad48f622f65d67063723601f8de", null ],
+    [ "UpdateAI", "d2/d7f/a15050.html#af3d093dab3f5191d5da2df36ca9c4a11", null ],
+    [ "berserked", "d2/d7f/a15050.html#a8ad40cee9667500cb0e9533256d216c6", null ],
+    [ "enraged", "d2/d7f/a15050.html#af916ff3f6468b1e48d5b1944442594e5", null ]
 ];

@@ -1,10 +1,11 @@
 var a03395 =
 [
-    [ "instance_sunwell_plateau", "d0/d3e/a13350.html", "d0/d3e/a13350" ],
-    [ "instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript", "dd/d89/a13354.html", "dd/d89/a13354" ],
-    [ "spell_cataclysm_breath", "db/d2a/a13358.html", "db/d2a/a13358" ],
-    [ "npc_sunblade_scout", "dd/de0/a13362.html", "dd/de0/a13362" ],
-    [ "spell_sunwell_teleport", "da/d92/a13366.html", "da/d92/a13366" ],
+    [ "instance_sunwell_plateau", "dd/d89/a13354.html", "dd/d89/a13354" ],
+    [ "instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript", "db/d2a/a13358.html", "db/d2a/a13358" ],
+    [ "spell_cataclysm_breath", "dd/de0/a13362.html", "dd/de0/a13362" ],
+    [ "npc_sunblade_scout", "da/d92/a13366.html", "da/d92/a13366" ],
+    [ "spell_sunwell_teleport", "d9/d0d/a13370.html", "d9/d0d/a13370" ],
+    [ "npc_sunblade_arch_mage", "d5/d5a/a13374.html", "d5/d5a/a13374" ],
     [ "cataclysmBreath", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901c", [
       [ "SPELL_CORROSIVE_POISON", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3", null ],
       [ "SPELL_FEVERED_FATIGUE", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222", null ],
@@ -14,6 +15,11 @@ var a03395 =
       [ "SPELL_SHRINK", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f", null ],
       [ "SPELL_WAVERING_WILL", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8", null ],
       [ "SPELL_WITHERED_TOUCH", "d6/d0e/a03395.html#a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b", null ]
+    ] ],
+    [ "SunbladeArchMageSpells", "d6/d0e/a03395.html#a41df3ad8185e1920fff7e943ae1d6de8", [
+      [ "SPELL_ARCANE_EXPLOSION", "d6/d0e/a03395.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce", null ],
+      [ "SPELL_BLINK", "d6/d0e/a03395.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a", null ],
+      [ "SPELL_FROST_NOVA", "d6/d0e/a03395.html#a41df3ad8185e1920fff7e943ae1d6de8ab913503b67c5b8f901cfc4f207bcba03", null ]
     ] ],
     [ "SunbladeScout", "d6/d0e/a03395.html#aaf4c1644419a40c8480767e91644d5bc", [
       [ "NPC_SUNBLADE_PROTECTOR", "d6/d0e/a03395.html#aaf4c1644419a40c8480767e91644d5bca62010ff06f3f856c841862d5ffa3bde3", null ],

@@ -1,6 +1,6 @@
 var a13554 =
 [
-    [ "npc_marzon_silent_bladeAI", "dd/d9c/a13558.html", "dd/d9c/a13558" ],
-    [ "npc_marzon_silent_blade", "d3/d18/a13554.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
-    [ "GetAI", "d3/d18/a13554.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
+    [ "npc_lord_gregor_lescovarAI", "dd/d9c/a13558.html", "dd/d9c/a13558" ],
+    [ "npc_lord_gregor_lescovar", "d3/d18/a13554.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
+    [ "GetAI", "d3/d18/a13554.html#a4cf39729bb687c7db3538575a799283e", null ]
 ];

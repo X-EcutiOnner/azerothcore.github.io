@@ -1,6 +1,7 @@
 var a14446 =
 [
-    [ "HandleTriggerSpell", "df/d5e/a14446.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "df/d5e/a14446.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "df/d5e/a14446.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "HandleScript", "df/d5e/a14446.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
+    [ "PrepareSpellScript", "df/d5e/a14446.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
+    [ "Register", "df/d5e/a14446.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
+    [ "Validate", "df/d5e/a14446.html#aa1e74de390a8b71e43e43664981a36ff", null ]
 ];

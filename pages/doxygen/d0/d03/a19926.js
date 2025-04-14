@@ -1,6 +1,6 @@
 var a19926 =
 [
-    [ "boss_freya_elder_stonebarkAI", "db/da7/a19930.html", "db/da7/a19930" ],
-    [ "boss_freya_elder_stonebark", "d0/d03/a19926.html#a9c90c504d78456580ae657a42fac4075", null ],
-    [ "GetAI", "d0/d03/a19926.html#a0b529bb8755c56046c40b620ef4b7448", null ]
+    [ "boss_freyaAI", "db/da7/a19930.html", "db/da7/a19930" ],
+    [ "boss_freya", "d0/d03/a19926.html#ae366f60526e7c948dee148cdd12f0752", null ],
+    [ "GetAI", "d0/d03/a19926.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
 ];

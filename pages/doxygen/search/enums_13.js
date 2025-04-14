@@ -12,7 +12,7 @@ var searchData=
   ['tallhornstage_9',['TallhornStage',['../d9/d2b/a03977.html#adfdcfce0226bbf9a76589dc22942d111',1,'zone_grizzly_hills.cpp']]],
   ['tapokeslim_10',['TapokeSlim',['../da/dcf/a03344.html#ad5b3ef2d2393f509f0cbf4e70303fab9',1,'zone_wetlands.cpp']]],
   ['targets_11',['Targets',['../dc/d2b/a02486.html#a418aed4e4066eb09ab979b5d78dc9152',1,'SharedDefines.h']]],
-  ['taskgroups_12',['TaskGroups',['../d9/d9a/a02879.html#aaff9bf4a1193d28032a46428a879f03d',1,'TaskGroups():&#160;boss_cthun.cpp'],['../d8/d01/a02675.html#aaff9bf4a1193d28032a46428a879f03d',1,'TaskGroups():&#160;boss_ayamiss.cpp']]],
+  ['taskgroups_12',['TaskGroups',['../d8/d01/a02675.html#aaff9bf4a1193d28032a46428a879f03d',1,'TaskGroups():&#160;boss_ayamiss.cpp'],['../d9/d9a/a02879.html#aaff9bf4a1193d28032a46428a879f03d',1,'TaskGroups():&#160;boss_cthun.cpp']]],
   ['taskmasterfizzule_13',['TaskmasterFizzule',['../d0/d9f/a02672.html#a75148097e6b48058f314d1f1d4fc4ed0',1,'zone_the_barrens.cpp']]],
   ['teachlanguage_14',['TeachLanguage',['../d1/ddc/a04532.html#ae658090e5a354aeddc4b70045e5963ef',1,'spell_item.cpp']]],
   ['team_15',['Team',['../dc/d2b/a02486.html#a9c13bb5b1d69698f9b47900990eaa598',1,'SharedDefines.h']]],
@@ -85,9 +85,10 @@ var searchData=
   ['turkey_82',['turkey',['../de/d7b/a02660.html#a8bc1d91a992db83fed0477b2a50adca3',1,'pet_generic.cpp']]],
   ['turmoiltexts_83',['TurmoilTexts',['../df/d11/a04037.html#ae01e16ebe34a24a598f4b4fb26dbf919',1,'zone_howling_fjord.cpp']]],
   ['twiggyflathead_84',['TwiggyFlathead',['../d0/d9f/a02672.html#aa59efdc816049c3fc44f4f97e12a5658',1,'zone_the_barrens.cpp']]],
-  ['type_85',['Type',['../d3/d86/a07078.html#a758c9729d907d872a5e5365539486408',1,'AuctionSearcherUpdate::Type()'],['../dd/d67/a07058.html#abfb75b18c4a43f1818cd78212c668109',1,'AuctionSearcherRequest::Type()']]],
-  ['typeid_86',['TypeID',['../d9/d8b/a01469.html#a183c40b2ba67065929d70b3987da4cc2',1,'ObjectGuid.h']]],
-  ['typemask_87',['TypeMask',['../d9/d8b/a01469.html#acfe503ba26d8a881f16958aaafd431e1',1,'ObjectGuid.h']]],
-  ['tyrion_88',['Tyrion',['../df/dc9/a03230.html#affa30c579e72ac17979d6590547e9cde',1,'zone_stormwind_city.cpp']]],
-  ['tyrionspybot_89',['TyrionSpybot',['../df/dc9/a03230.html#ab61d02c4c07338130c8927cc8120aa82',1,'zone_stormwind_city.cpp']]]
+  ['twinphases_85',['TwinPhases',['../d2/dce/a03389.html#a9c5bef89bea407c4bf2b7d6c4011c7ec',1,'boss_eredar_twins.cpp']]],
+  ['type_86',['Type',['../d3/d86/a07078.html#a758c9729d907d872a5e5365539486408',1,'AuctionSearcherUpdate::Type()'],['../dd/d67/a07058.html#abfb75b18c4a43f1818cd78212c668109',1,'AuctionSearcherRequest::Type()']]],
+  ['typeid_87',['TypeID',['../d9/d8b/a01469.html#a183c40b2ba67065929d70b3987da4cc2',1,'ObjectGuid.h']]],
+  ['typemask_88',['TypeMask',['../d9/d8b/a01469.html#acfe503ba26d8a881f16958aaafd431e1',1,'ObjectGuid.h']]],
+  ['tyrion_89',['Tyrion',['../df/dc9/a03230.html#affa30c579e72ac17979d6590547e9cde',1,'zone_stormwind_city.cpp']]],
+  ['tyrionspybot_90',['TyrionSpybot',['../df/dc9/a03230.html#ab61d02c4c07338130c8927cc8120aa82',1,'zone_stormwind_city.cpp']]]
 ];

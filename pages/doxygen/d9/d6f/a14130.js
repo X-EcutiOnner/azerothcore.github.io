@@ -1,6 +1,7 @@
 var a14130 =
 [
-    [ "go_direbrew_mole_machineAI", "d0/d7d/a14134.html", "d0/d7d/a14134" ],
-    [ "go_direbrew_mole_machine", "d9/d6f/a14130.html#a759d291a5be227d8beae3bbc779e56f4", null ],
-    [ "GetAI", "d9/d6f/a14130.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
+    [ "npc_direbrew_minion", "d9/d6f/a14130.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "d9/d6f/a14130.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "d9/d6f/a14130.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "d9/d6f/a14130.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

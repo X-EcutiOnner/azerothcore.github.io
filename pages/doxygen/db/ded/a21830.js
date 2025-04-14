@@ -1,6 +1,7 @@
 var a21830 =
 [
-    [ "CheckRequirement", "db/ded/a21830.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "db/ded/a21830.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "db/ded/a21830.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "npc_amberpine_woodsmanAI", "db/ded/a21830.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
+    [ "Reset", "db/ded/a21830.html#a8da613c7bbaadf331c95667e7a361702", null ],
+    [ "UpdateAI", "db/ded/a21830.html#a64dbf41424a710c400d51507f6457b41", null ],
+    [ "_events", "db/ded/a21830.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
 ];

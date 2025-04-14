@@ -1,7 +1,6 @@
 var a17058 =
 [
-    [ "HandleDummy", "db/db5/a17058.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "db/db5/a17058.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "db/db5/a17058.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "db/db5/a17058.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "npc_living_mojoAI", "d3/d93/a17062.html", "d3/d93/a17062" ],
+    [ "npc_living_mojo", "db/db5/a17058.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "db/db5/a17058.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

@@ -1,11 +1,7 @@
 var a28678 =
 [
-    [ "material", "d4/db0/a28678.html#a7079e8817a9684602084eb224f2540fc", null ],
-    [ "pos_x", "d4/db0/a28678.html#ac4d971cc46506be14716124afbb5ad9c", null ],
-    [ "pos_y", "d4/db0/a28678.html#a6cd85f2a674d732e88371ffce5e46077", null ],
-    [ "pos_z", "d4/db0/a28678.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
-    [ "xtiles", "d4/db0/a28678.html#aca34dfa64624cfe04c314c13bbed0062", null ],
-    [ "xverts", "d4/db0/a28678.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
-    [ "ytiles", "d4/db0/a28678.html#a9901a7e9828ac840bc290b0768831d66", null ],
-    [ "yverts", "d4/db0/a28678.html#abf24042b85692cd0df05d65d734dd99e", null ]
+    [ "Paths", "d4/db0/a28678.html#aff167c694a55441bcf5504f5d1933f41", null ],
+    [ "References", "d4/db0/a28678.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
+    [ "Sets", "d4/db0/a28678.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
+    [ "Spawns", "d4/db0/a28678.html#a51f24c059516683f0744b81819186c0e", null ]
 ];

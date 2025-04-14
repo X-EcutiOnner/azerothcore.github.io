@@ -1,11 +1,11 @@
 var a14182 =
 [
-    [ "npc_the_etymidian", "dd/dfe/a14182.html#af491016ac89b67947650a5ca9c379875", null ],
-    [ "MoveInLineOfSight", "dd/dfe/a14182.html#adde2d86e30442eb1b47219e934e24407", null ],
-    [ "Reset", "dd/dfe/a14182.html#a714edf3ba5f7a6d59242c991764effc5", null ],
-    [ "UpdateAI", "dd/dfe/a14182.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
-    [ "orphanGUID", "dd/dfe/a14182.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
-    [ "phase", "dd/dfe/a14182.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
-    [ "playerGUID", "dd/dfe/a14182.html#a7371e361c018360315e20086b0b99079", null ],
-    [ "timer", "dd/dfe/a14182.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
+    [ "npc_high_oracle_soo_roo", "dd/dfe/a14182.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
+    [ "MoveInLineOfSight", "dd/dfe/a14182.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
+    [ "Reset", "dd/dfe/a14182.html#a89a60a83a46e0095045b2353e50483ed", null ],
+    [ "UpdateAI", "dd/dfe/a14182.html#ac22cfa519e478da643a51ae887f306fd", null ],
+    [ "orphanGUID", "dd/dfe/a14182.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
+    [ "phase", "dd/dfe/a14182.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
+    [ "playerGUID", "dd/dfe/a14182.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
+    [ "timer", "dd/dfe/a14182.html#aa5238d3ee361374681947de874391a1f", null ]
 ];

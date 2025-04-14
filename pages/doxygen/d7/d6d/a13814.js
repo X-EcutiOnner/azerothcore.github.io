@@ -1,6 +1,8 @@
 var a13814 =
 [
-    [ "boss_arlokkAI", "da/da7/a13818.html", "da/da7/a13818" ],
-    [ "boss_arlokk", "d7/d6d/a13814.html#a55bb21239e05acff18d2fb147449800e", null ],
-    [ "GetAI", "d7/d6d/a13814.html#a58b8cc7a198784b48faaab1b069d397c", null ]
+    [ "HandleScriptEffect", "d7/d6d/a13814.html#af7f22d3b7ba136ec2af88656b9805168", null ],
+    [ "PrepareSpellScript", "d7/d6d/a13814.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
+    [ "Register", "d7/d6d/a13814.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
+    [ "Validate", "d7/d6d/a13814.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
+    [ "spells", "d7/d6d/a13814.html#a902fc17746af82a4c58fe599c9616ce2", null ]
 ];

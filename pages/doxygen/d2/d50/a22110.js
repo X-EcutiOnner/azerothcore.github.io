@@ -1,7 +1,8 @@
 var a22110 =
 [
-    [ "HandleSendEvent", "d2/d50/a22110.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "d2/d50/a22110.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "d2/d50/a22110.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "d2/d50/a22110.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "npc_adventurous_dwarfAI", "d2/d2b/a22114.html", "d2/d2b/a22114" ],
+    [ "npc_adventurous_dwarf", "d2/d50/a22110.html#a15c39e217907189db9be7799e696f310", null ],
+    [ "GetAI", "d2/d50/a22110.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
+    [ "OnGossipHello", "d2/d50/a22110.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
+    [ "OnGossipSelect", "d2/d50/a22110.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
 ];

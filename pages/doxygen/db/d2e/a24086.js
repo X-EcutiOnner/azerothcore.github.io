@@ -1,5 +1,6 @@
 var a24086 =
 [
-    [ "npc_karynaku", "db/d2e/a24086.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
-    [ "OnQuestAccept", "db/d2e/a24086.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
+    [ "npc_drake_dealer_hurlunk", "db/d2e/a24086.html#ae6d095365d23c30d5b772b047b459ddb", null ],
+    [ "OnGossipHello", "db/d2e/a24086.html#ad04b7f906f029d9935e29c585b0de421", null ],
+    [ "OnGossipSelect", "db/d2e/a24086.html#aa23833dcdefb909899120c25d5376111", null ]
 ];

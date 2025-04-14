@@ -1,21 +1,8 @@
 var a28674 =
 [
-    [ "WMORoot", "de/d94/a28674.html#ac9b3d7cb0502bf612a9b780926364c2b", null ],
-    [ "ConvertToVMAPRootWmo", "de/d94/a28674.html#a9e2bea32209471be360f964e7c6702ad", null ],
-    [ "open", "de/d94/a28674.html#a3c10106f8ded86f5e889c99c93dc385a", null ],
-    [ "bbcorn1", "de/d94/a28674.html#a119493cf0243952021d07d9328de68df", null ],
-    [ "bbcorn2", "de/d94/a28674.html#a518adad011f480154a786503224aff0f", null ],
-    [ "color", "de/d94/a28674.html#ab9f1ca906365d919dc8c03b04d3f7759", null ],
-    [ "DoodadData", "de/d94/a28674.html#a193043738049583257b8c26494c97573", null ],
-    [ "filename", "de/d94/a28674.html#a8ef5c36dfab76a6baf633a0f6dbe5449", null ],
-    [ "flags", "de/d94/a28674.html#ac3e95eb0b51ef25289b2cdf617ac2585", null ],
-    [ "nDoodadDefs", "de/d94/a28674.html#a1881c8d0ba9d435627a4cdeb3ec8bf77", null ],
-    [ "nDoodadNames", "de/d94/a28674.html#ab51a28cda7db10964cfac9b13022dcd6", null ],
-    [ "nDoodadSets", "de/d94/a28674.html#a17b88fd5067eb7d30e345726ad7d1f26", null ],
-    [ "nGroups", "de/d94/a28674.html#a73a8d2c858db5e144f163ece74a9d295", null ],
-    [ "nLights", "de/d94/a28674.html#a2442113c758362dd5b8da9ceb8d355ae", null ],
-    [ "nPortals", "de/d94/a28674.html#a25b1d2531c61ae7cf883642f5c5f2ee7", null ],
-    [ "nTextures", "de/d94/a28674.html#ac0b9bc8f8087878b2b51be8261f9928c", null ],
-    [ "RootWMOID", "de/d94/a28674.html#aeb47cb44dc9b564782fb7b0ef5cc314c", null ],
-    [ "ValidDoodadNames", "de/d94/a28674.html#a787748c52305b52fb65776df51b4c017", null ]
+    [ "Color", "de/d94/a28674.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "de/d94/a28674.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "de/d94/a28674.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "de/d94/a28674.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "de/d94/a28674.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

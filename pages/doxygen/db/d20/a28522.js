@@ -1,20 +1,10 @@
 var a28522 =
 [
-    [ "Record", "db/d20/a28522.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
-    [ "Record", "db/d20/a28522.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
-    [ "getByte", "db/d20/a28522.html#ab1897952fa01e930caffa262519645c5", null ],
-    [ "getFloat", "db/d20/a28522.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
-    [ "getFloat", "db/d20/a28522.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
-    [ "getInt", "db/d20/a28522.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
-    [ "getInt", "db/d20/a28522.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
-    [ "getString", "db/d20/a28522.html#a3e330e9888e740bc16d4ba173c90c8d9", null ],
-    [ "getString", "db/d20/a28522.html#a3e330e9888e740bc16d4ba173c90c8d9", null ],
-    [ "getUInt", "db/d20/a28522.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
-    [ "getUInt", "db/d20/a28522.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
-    [ "operator=", "db/d20/a28522.html#a25c6e7d3b28aade82eb52d41515f0427", null ],
-    [ "DBCFile", "db/d20/a28522.html#a6c4f02b14caa99337bbe77b30e5615ab", null ],
-    [ "DBCFile::Iterator", "db/d20/a28522.html#a56d48f82a62e25038bf9cf339e608083", null ],
-    [ "Iterator", "db/d20/a28522.html#a9830fc407400559db7e7783cc10a9394", null ],
-    [ "file", "db/d20/a28522.html#adffc3b9545883356dd9bed0a0613a1fe", null ],
-    [ "offset", "db/d20/a28522.html#ae76eb8b329fb6d580aa42484de46c95e", null ]
+    [ "Exception", "db/d20/a28522.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "db/d20/a28522.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "Exception", "db/d20/a28522.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "db/d20/a28522.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "getMessage", "db/d20/a28522.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "getMessage", "db/d20/a28522.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "message", "db/d20/a28522.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
 ];

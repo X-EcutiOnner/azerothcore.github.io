@@ -1,10 +1,11 @@
 var a17182 =
 [
-    [ "npc_dark_nucleusAI", "da/d84/a17182.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
-    [ "AttackStart", "da/d84/a17182.html#a3dec28dd13257b944df0c559d26a76e0", null ],
-    [ "DamageTaken", "da/d84/a17182.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
-    [ "JustDied", "da/d84/a17182.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
-    [ "Reset", "da/d84/a17182.html#ac84f79f84e721ab1306c8eed8658b143", null ],
-    [ "UpdateAI", "da/d84/a17182.html#a3a08457c34d4dd904a99a78875d6318c", null ],
-    [ "timer", "da/d84/a17182.html#ac5f9824276987b81aef5cfee05158049", null ]
+    [ "npc_blood_queen_lana_thelAI", "da/d84/a17182.html#a7b099b90600e433e304dee1f356a9909", null ],
+    [ "MoveInLineOfSight", "da/d84/a17182.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
+    [ "MovementInform", "da/d84/a17182.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
+    [ "Reset", "da/d84/a17182.html#a539b0e158c800e1aade54f37aa99751e", null ],
+    [ "UpdateAI", "da/d84/a17182.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
+    [ "_events", "da/d84/a17182.html#a8ec7641bab991fc584b066fae55690bf", null ],
+    [ "_instance", "da/d84/a17182.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
+    [ "_introDone", "da/d84/a17182.html#a40c642758a751e072e41343bb75ad306", null ]
 ];

@@ -1,8 +1,7 @@
 var a16326 =
 [
-    [ "npc_toc_hunterAI", "d1/dc4/a16326.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
-    [ "JustSummoned", "d1/dc4/a16326.html#aa270248ad9e0c319234ff0741270b465", null ],
-    [ "myCanCast", "d1/dc4/a16326.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
-    [ "UpdateAI", "d1/dc4/a16326.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
-    [ "events", "d1/dc4/a16326.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
+    [ "npc_toc_mageAI", "d1/dc4/a16326.html#a188831088c892f68cef7498468b24899", null ],
+    [ "myCanCast", "d1/dc4/a16326.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
+    [ "UpdateAI", "d1/dc4/a16326.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
+    [ "events", "d1/dc4/a16326.html#ab1910ce98f3d1b14e45acba22782d536", null ]
 ];

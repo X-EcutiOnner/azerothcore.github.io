@@ -1,6 +1,6 @@
 var a16970 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "d3/d8c/a16974.html", "d3/d8c/a16974" ],
-    [ "npc_pos_martin_or_gorkun_second", "d6/d1c/a16970.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
-    [ "GetAI", "d6/d1c/a16970.html#a180936e3bb98eb55d29ebd51350906c0", null ]
+    [ "npc_pos_collapsing_icicleAI", "d3/d8c/a16974.html", "d3/d8c/a16974" ],
+    [ "npc_pos_collapsing_icicle", "d6/d1c/a16970.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "d6/d1c/a16970.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

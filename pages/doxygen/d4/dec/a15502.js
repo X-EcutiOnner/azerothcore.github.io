@@ -1,6 +1,9 @@
 var a15502 =
 [
-    [ "npc_stone_watcher_of_norgannon", "d4/dec/a15502.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
-    [ "OnGossipHello", "d4/dec/a15502.html#a00f526b1b17b68f31a86e892e0997856", null ],
-    [ "OnGossipSelect", "d4/dec/a15502.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
+    [ "npc_custodian_of_timeAI", "d4/dec/a15502.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "d4/dec/a15502.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "d4/dec/a15502.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "d4/dec/a15502.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "d4/dec/a15502.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "d4/dec/a15502.html#a963736e62fbd0caea631ee3fb69fca46", null ]
 ];

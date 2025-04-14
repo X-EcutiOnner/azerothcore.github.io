@@ -1,6 +1,5 @@
 var a20190 =
 [
-    [ "npc_ulduar_iron_constructAI", "df/da1/a20194.html", "df/da1/a20194" ],
-    [ "npc_ulduar_iron_construct", "d6/da8/a20190.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
-    [ "GetAI", "d6/da8/a20190.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
+    [ "achievement_staying_buffed_all_winter_10", "d6/da8/a20190.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
+    [ "OnCheck", "d6/da8/a20190.html#a67587b1659a8d026e73b42311148541a", null ]
 ];

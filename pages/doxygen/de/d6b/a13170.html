@@ -317,30 +317,30 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  335</span>    {</div>
-<div class="line"><span class="lineno">  336</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;HasAura(<a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caec57de7e481929d26fa6506cbb20e282">SPELL_DARK_FLAME</a>))</div>
-<div class="line"><span class="lineno">  337</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
-<div class="line"><span class="lineno">  338</span> </div>
-<div class="line"><span class="lineno">  339</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../db/da4/a11210.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;Id == <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caf739807e9a1a356de9acda12a85c130d">SPELL_DARK_TOUCHED</a>)</div>
-<div class="line"><span class="lineno">  340</span>        {</div>
-<div class="line"><span class="lineno">  341</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;HasAura(<a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298ca20dd724377598e249960089be78a070a">SPELL_FLAME_TOUCHED</a>))</div>
-<div class="line"><span class="lineno">  342</span>            {</div>
-<div class="line"><span class="lineno">  343</span>                <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aac612f06e84142d92dcfc432b5feb4ac">RemoveAurasDueToSpell</a>(<a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298ca20dd724377598e249960089be78a070a">SPELL_FLAME_TOUCHED</a>);</div>
-<div class="line"><span class="lineno">  344</span>                <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>(), <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caec57de7e481929d26fa6506cbb20e282">SPELL_DARK_FLAME</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  345</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
-<div class="line"><span class="lineno">  346</span>            }</div>
-<div class="line"><span class="lineno">  347</span>        }</div>
-<div class="line"><span class="lineno">  348</span>        <span class="keywordflow">else</span> <span class="comment">// if (m_spellInfo-&gt;Id == SPELL_FLAME_TOUCHED)</span></div>
-<div class="line"><span class="lineno">  349</span>        {</div>
-<div class="line"><span class="lineno">  350</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;HasAura(<a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caf739807e9a1a356de9acda12a85c130d">SPELL_DARK_TOUCHED</a>))</div>
-<div class="line"><span class="lineno">  351</span>            {</div>
-<div class="line"><span class="lineno">  352</span>                <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aac612f06e84142d92dcfc432b5feb4ac">RemoveAurasDueToSpell</a>(<a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caf739807e9a1a356de9acda12a85c130d">SPELL_DARK_TOUCHED</a>);</div>
-<div class="line"><span class="lineno">  353</span>                <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>(), <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caec57de7e481929d26fa6506cbb20e282">SPELL_DARK_FLAME</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  354</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
-<div class="line"><span class="lineno">  355</span>            }</div>
-<div class="line"><span class="lineno">  356</span>        }</div>
-<div class="line"><span class="lineno">  357</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
-<div class="line"><span class="lineno">  358</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  348</span>    {</div>
+<div class="line"><span class="lineno">  349</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;HasAura(<a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caec57de7e481929d26fa6506cbb20e282">SPELL_DARK_FLAME</a>))</div>
+<div class="line"><span class="lineno">  350</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
+<div class="line"><span class="lineno">  351</span> </div>
+<div class="line"><span class="lineno">  352</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../db/da4/a11210.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;Id == <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caf739807e9a1a356de9acda12a85c130d">SPELL_DARK_TOUCHED</a>)</div>
+<div class="line"><span class="lineno">  353</span>        {</div>
+<div class="line"><span class="lineno">  354</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;HasAura(<a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298ca20dd724377598e249960089be78a070a">SPELL_FLAME_TOUCHED</a>))</div>
+<div class="line"><span class="lineno">  355</span>            {</div>
+<div class="line"><span class="lineno">  356</span>                <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aac612f06e84142d92dcfc432b5feb4ac">RemoveAurasDueToSpell</a>(<a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298ca20dd724377598e249960089be78a070a">SPELL_FLAME_TOUCHED</a>);</div>
+<div class="line"><span class="lineno">  357</span>                <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>(), <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caec57de7e481929d26fa6506cbb20e282">SPELL_DARK_FLAME</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  358</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
+<div class="line"><span class="lineno">  359</span>            }</div>
+<div class="line"><span class="lineno">  360</span>        }</div>
+<div class="line"><span class="lineno">  361</span>        <span class="keywordflow">else</span> <span class="comment">// if (m_spellInfo-&gt;Id == SPELL_FLAME_TOUCHED)</span></div>
+<div class="line"><span class="lineno">  362</span>        {</div>
+<div class="line"><span class="lineno">  363</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;HasAura(<a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caf739807e9a1a356de9acda12a85c130d">SPELL_DARK_TOUCHED</a>))</div>
+<div class="line"><span class="lineno">  364</span>            {</div>
+<div class="line"><span class="lineno">  365</span>                <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aac612f06e84142d92dcfc432b5feb4ac">RemoveAurasDueToSpell</a>(<a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caf739807e9a1a356de9acda12a85c130d">SPELL_DARK_TOUCHED</a>);</div>
+<div class="line"><span class="lineno">  366</span>                <a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d0/d7f/a08710.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../db/da4/a11210.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>(), <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caec57de7e481929d26fa6506cbb20e282">SPELL_DARK_FLAME</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  367</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
+<div class="line"><span class="lineno">  368</span>            }</div>
+<div class="line"><span class="lineno">  369</span>        }</div>
+<div class="line"><span class="lineno">  370</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dc/d2b/a02486.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
+<div class="line"><span class="lineno">  371</span>    }</div>
 <div class="ttc" id="aa02486_html_ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565"><div class="ttname"><a href="../../dc/d2b/a02486.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a></div><div class="ttdeci">@ SPELL_FAILED_DONT_REPORT</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:976</div></div>
 <div class="ttc" id="aa02486_html_ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6"><div class="ttname"><a href="../../dc/d2b/a02486.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a></div><div class="ttdeci">@ SPELL_CAST_OK</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1138</div></div>
 <div class="ttc" id="aa03389_html_a5bd342133be8c2137b831460acc9298ca20dd724377598e249960089be78a070a"><div class="ttname"><a href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298ca20dd724377598e249960089be78a070a">SPELL_FLAME_TOUCHED</a></div><div class="ttdeci">@ SPELL_FLAME_TOUCHED</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:64</div></div>
@@ -353,7 +353,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01178">Unit::CastSpell()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, <a class="el" href="../../#l04941">Unit::RemoveAurasDueToSpell()</a>, <a class="el" href="../../#l01138">SPELL_CAST_OK</a>, <a class="el" href="../../#l00052">SPELL_DARK_FLAME</a>, <a class="el" href="../../#l00057">SPELL_DARK_TOUCHED</a>, <a class="el" href="../../#l00976">SPELL_FAILED_DONT_REPORT</a>, and <a class="el" href="../../#l00064">SPELL_FLAME_TOUCHED</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00360">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00373">Register()</a>.</p>
 
 </div>
 </div>
@@ -407,14 +407,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../de/d3a/a11194.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  361</span>    {</div>
-<div class="line"><span class="lineno">  362</span>        <a class="code hl_variable" href="../../db/da4/a11210.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../d3/d12/a02354.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../de/d6b/a13170.html#a6ac00101ced46cebd1dd6a32c89374d2">spell_eredar_twins_handle_touch::CheckCast</a>);</div>
-<div class="line"><span class="lineno">  363</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  374</span>    {</div>
+<div class="line"><span class="lineno">  375</span>        <a class="code hl_variable" href="../../db/da4/a11210.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../d3/d12/a02354.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../de/d6b/a13170.html#a6ac00101ced46cebd1dd6a32c89374d2">spell_eredar_twins_handle_touch::CheckCast</a>);</div>
+<div class="line"><span class="lineno">  376</span>    }</div>
 <div class="ttc" id="aa02354_html_a44cc78b7e05a8f3b83e430f5115a2183"><div class="ttname"><a href="../../d3/d12/a02354.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a></div><div class="ttdeci">#define SpellCheckCastFn(F)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:329</div></div>
 <div class="ttc" id="aa11210_html_a1212a7fd9c9b531c13d5781f60b05590"><div class="ttname"><a href="../../db/da4/a11210.html#a1212a7fd9c9b531c13d5781f60b05590">SpellScript::OnCheckCast</a></div><div class="ttdeci">HookList&lt; CheckCastHandler &gt; OnCheckCast</div><div class="ttdef"><b>Definition:</b> SpellScript.h:328</div></div>
-<div class="ttc" id="aa13170_html_a6ac00101ced46cebd1dd6a32c89374d2"><div class="ttname"><a href="../../de/d6b/a13170.html#a6ac00101ced46cebd1dd6a32c89374d2">spell_eredar_twins_handle_touch::CheckCast</a></div><div class="ttdeci">SpellCastResult CheckCast()</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:334</div></div>
+<div class="ttc" id="aa13170_html_a6ac00101ced46cebd1dd6a32c89374d2"><div class="ttname"><a href="../../de/d6b/a13170.html#a6ac00101ced46cebd1dd6a32c89374d2">spell_eredar_twins_handle_touch::CheckCast</a></div><div class="ttdeci">SpellCastResult CheckCast()</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:347</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00334">CheckCast()</a>, <a class="el" href="../../#l00328">SpellScript::OnCheckCast</a>, and <a class="el" href="../../#l00329">SpellCheckCastFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00347">CheckCast()</a>, <a class="el" href="../../#l00328">SpellScript::OnCheckCast</a>, and <a class="el" href="../../#l00329">SpellCheckCastFn</a>.</p>
 
 </div>
 </div>
@@ -443,9 +443,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../de/d3a/a11194.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  330</span>    {</div>
-<div class="line"><span class="lineno">  331</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../de/d3a/a11194.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caec57de7e481929d26fa6506cbb20e282">SPELL_DARK_FLAME</a>, <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298ca20dd724377598e249960089be78a070a">SPELL_FLAME_TOUCHED</a>, <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caf739807e9a1a356de9acda12a85c130d">SPELL_DARK_TOUCHED</a> });</div>
-<div class="line"><span class="lineno">  332</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  343</span>    {</div>
+<div class="line"><span class="lineno">  344</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../de/d3a/a11194.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caec57de7e481929d26fa6506cbb20e282">SPELL_DARK_FLAME</a>, <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298ca20dd724377598e249960089be78a070a">SPELL_FLAME_TOUCHED</a>, <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298caf739807e9a1a356de9acda12a85c130d">SPELL_DARK_TOUCHED</a> });</div>
+<div class="line"><span class="lineno">  345</span>    }</div>
 <div class="ttc" id="aa11194_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../de/d3a/a11194.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00052">SPELL_DARK_FLAME</a>, <a class="el" href="../../#l00057">SPELL_DARK_TOUCHED</a>, <a class="el" href="../../#l00064">SPELL_FLAME_TOUCHED</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -458,7 +458,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d6b/a13170.html">spell_eredar_twins_handle_touch</a></li>
-    <li class="footer">Generated on Mon Apr 7 2025 20:46:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 14 2025 20:46:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -360,11 +360,11 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  393</span>: <a class="code hl_function" href="../../d4/d4d/a11250.html#a5a3da42d2972877b470f6d6b48c6524c">AuraScript</a>(), <a class="code hl_variable" href="../../df/d50/a13178.html#ae60a5c2918105785805dc45b3942ee4a">_touchSpell</a>(touchSpell), <a class="code hl_variable" href="../../df/d50/a13178.html#aa873d0475c70db5c5ba9cea802dc3569">_effectIndex</a>(effIndex), <a class="code hl_variable" href="../../df/d50/a13178.html#a0b1df96674584554d53688e993c2a310">_aura</a>(aura) {}</div>
+<div class="fragment"><div class="line"><span class="lineno">  406</span>: <a class="code hl_function" href="../../d4/d4d/a11250.html#a5a3da42d2972877b470f6d6b48c6524c">AuraScript</a>(), <a class="code hl_variable" href="../../df/d50/a13178.html#ae60a5c2918105785805dc45b3942ee4a">_touchSpell</a>(touchSpell), <a class="code hl_variable" href="../../df/d50/a13178.html#aa873d0475c70db5c5ba9cea802dc3569">_effectIndex</a>(effIndex), <a class="code hl_variable" href="../../df/d50/a13178.html#a0b1df96674584554d53688e993c2a310">_aura</a>(aura) {}</div>
 <div class="ttc" id="aa11250_html_a5a3da42d2972877b470f6d6b48c6524c"><div class="ttname"><a href="../../d4/d4d/a11250.html#a5a3da42d2972877b470f6d6b48c6524c">AuraScript::AuraScript</a></div><div class="ttdeci">AuraScript()</div><div class="ttdef"><b>Definition:</b> SpellScript.h:688</div></div>
-<div class="ttc" id="aa13178_html_a0b1df96674584554d53688e993c2a310"><div class="ttname"><a href="../../df/d50/a13178.html#a0b1df96674584554d53688e993c2a310">spell_eredar_twins_handle_touch_periodic::_aura</a></div><div class="ttdeci">uint8 _aura</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:421</div></div>
-<div class="ttc" id="aa13178_html_aa873d0475c70db5c5ba9cea802dc3569"><div class="ttname"><a href="../../df/d50/a13178.html#aa873d0475c70db5c5ba9cea802dc3569">spell_eredar_twins_handle_touch_periodic::_effectIndex</a></div><div class="ttdeci">uint8 _effectIndex</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:420</div></div>
-<div class="ttc" id="aa13178_html_ae60a5c2918105785805dc45b3942ee4a"><div class="ttname"><a href="../../df/d50/a13178.html#ae60a5c2918105785805dc45b3942ee4a">spell_eredar_twins_handle_touch_periodic::_touchSpell</a></div><div class="ttdeci">uint32 _touchSpell</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:419</div></div>
+<div class="ttc" id="aa13178_html_a0b1df96674584554d53688e993c2a310"><div class="ttname"><a href="../../df/d50/a13178.html#a0b1df96674584554d53688e993c2a310">spell_eredar_twins_handle_touch_periodic::_aura</a></div><div class="ttdeci">uint8 _aura</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:434</div></div>
+<div class="ttc" id="aa13178_html_aa873d0475c70db5c5ba9cea802dc3569"><div class="ttname"><a href="../../df/d50/a13178.html#aa873d0475c70db5c5ba9cea802dc3569">spell_eredar_twins_handle_touch_periodic::_effectIndex</a></div><div class="ttdeci">uint8 _effectIndex</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:433</div></div>
+<div class="ttc" id="aa13178_html_ae60a5c2918105785805dc45b3942ee4a"><div class="ttname"><a href="../../df/d50/a13178.html#ae60a5c2918105785805dc45b3942ee4a">spell_eredar_twins_handle_touch_periodic::_touchSpell</a></div><div class="ttdeci">uint32 _touchSpell</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:432</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -392,25 +392,25 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  401</span>    {</div>
-<div class="line"><span class="lineno">  402</span>        <span class="keywordflow">if</span> (aurEff-&gt;GetId() == <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298cafaf889a4ae75cd0e54846592bb11ce35">SPELL_FLAME_SEAR</a>)</div>
-<div class="line"><span class="lineno">  403</span>        {</div>
-<div class="line"><span class="lineno">  404</span>            <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tick = aurEff-&gt;GetTickNumber();</div>
-<div class="line"><span class="lineno">  405</span>            <span class="keywordflow">if</span> (tick % 2 != 0 || tick &gt; 10)</div>
-<div class="line"><span class="lineno">  406</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  407</span>        }</div>
-<div class="line"><span class="lineno">  408</span> </div>
-<div class="line"><span class="lineno">  409</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d7f/a08710.html">Unit</a>* owner = <a class="code hl_function" href="../../d4/d4d/a11250.html#a4e53f9ab5182bab19267607e4d33c5d7">GetOwner</a>()-&gt;ToUnit())</div>
-<div class="line"><span class="lineno">  410</span>            owner-&gt;CastSpell(owner, <a class="code hl_variable" href="../../df/d50/a13178.html#ae60a5c2918105785805dc45b3942ee4a">_touchSpell</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  411</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  414</span>    {</div>
+<div class="line"><span class="lineno">  415</span>        <span class="keywordflow">if</span> (aurEff-&gt;GetId() == <a class="code hl_enumvalue" href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298cafaf889a4ae75cd0e54846592bb11ce35">SPELL_FLAME_SEAR</a>)</div>
+<div class="line"><span class="lineno">  416</span>        {</div>
+<div class="line"><span class="lineno">  417</span>            <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tick = aurEff-&gt;GetTickNumber();</div>
+<div class="line"><span class="lineno">  418</span>            <span class="keywordflow">if</span> (tick % 2 != 0 || tick &gt; 10)</div>
+<div class="line"><span class="lineno">  419</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  420</span>        }</div>
+<div class="line"><span class="lineno">  421</span> </div>
+<div class="line"><span class="lineno">  422</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d7f/a08710.html">Unit</a>* owner = <a class="code hl_function" href="../../d4/d4d/a11250.html#a4e53f9ab5182bab19267607e4d33c5d7">GetOwner</a>()-&gt;ToUnit())</div>
+<div class="line"><span class="lineno">  423</span>            owner-&gt;CastSpell(owner, <a class="code hl_variable" href="../../df/d50/a13178.html#ae60a5c2918105785805dc45b3942ee4a">_touchSpell</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  424</span>    }</div>
 <div class="ttc" id="aa00266_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
 <div class="ttc" id="aa03389_html_a5bd342133be8c2137b831460acc9298cafaf889a4ae75cd0e54846592bb11ce35"><div class="ttname"><a href="../../d2/dce/a03389.html#a5bd342133be8c2137b831460acc9298cafaf889a4ae75cd0e54846592bb11ce35">SPELL_FLAME_SEAR</a></div><div class="ttdeci">@ SPELL_FLAME_SEAR</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:67</div></div>
 <div class="ttc" id="aa08710_html"><div class="ttname"><a href="../../d0/d7f/a08710.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:636</div></div>
 <div class="ttc" id="aa11250_html_a4e53f9ab5182bab19267607e4d33c5d7"><div class="ttname"><a href="../../d4/d4d/a11250.html#a4e53f9ab5182bab19267607e4d33c5d7">AuraScript::GetOwner</a></div><div class="ttdeci">WorldObject * GetOwner() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1025</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00419">_touchSpell</a>, <a class="el" href="../../#l00432">AuraEffect::GetId()</a>, <a class="el" href="../../#l01025">AuraScript::GetOwner()</a>, <a class="el" href="../../#l00087">AuraEffect::GetTickNumber()</a>, and <a class="el" href="../../#l00067">SPELL_FLAME_SEAR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00432">_touchSpell</a>, <a class="el" href="../../#l00432">AuraEffect::GetId()</a>, <a class="el" href="../../#l01025">AuraScript::GetOwner()</a>, <a class="el" href="../../#l00087">AuraEffect::GetTickNumber()</a>, and <a class="el" href="../../#l00067">SPELL_FLAME_SEAR</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00413">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00426">Register()</a>.</p>
 
 </div>
 </div>
@@ -464,14 +464,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../de/d3a/a11194.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  414</span>    {</div>
-<div class="line"><span class="lineno">  415</span>        <a class="code hl_variable" href="../../d4/d4d/a11250.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../d3/d12/a02354.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../df/d50/a13178.html#a8d863af82300eacc1456a08f8461d5a7">spell_eredar_twins_handle_touch_periodic::OnPeriodic</a>, <a class="code hl_variable" href="../../df/d50/a13178.html#aa873d0475c70db5c5ba9cea802dc3569">_effectIndex</a>, <a class="code hl_variable" href="../../df/d50/a13178.html#a0b1df96674584554d53688e993c2a310">_aura</a>);</div>
-<div class="line"><span class="lineno">  416</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  427</span>    {</div>
+<div class="line"><span class="lineno">  428</span>        <a class="code hl_variable" href="../../d4/d4d/a11250.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../d3/d12/a02354.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../df/d50/a13178.html#a8d863af82300eacc1456a08f8461d5a7">spell_eredar_twins_handle_touch_periodic::OnPeriodic</a>, <a class="code hl_variable" href="../../df/d50/a13178.html#aa873d0475c70db5c5ba9cea802dc3569">_effectIndex</a>, <a class="code hl_variable" href="../../df/d50/a13178.html#a0b1df96674584554d53688e993c2a310">_aura</a>);</div>
+<div class="line"><span class="lineno">  429</span>    }</div>
 <div class="ttc" id="aa02354_html_a63dd33eaa91292bfb53b1d9f2b0eba29"><div class="ttname"><a href="../../d3/d12/a02354.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a></div><div class="ttdeci">#define AuraEffectPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:760</div></div>
 <div class="ttc" id="aa11250_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d4/d4d/a11250.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition:</b> SpellScript.h:759</div></div>
-<div class="ttc" id="aa13178_html_a8d863af82300eacc1456a08f8461d5a7"><div class="ttname"><a href="../../df/d50/a13178.html#a8d863af82300eacc1456a08f8461d5a7">spell_eredar_twins_handle_touch_periodic::OnPeriodic</a></div><div class="ttdeci">void OnPeriodic(AuraEffect const *aurEff)</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:400</div></div>
+<div class="ttc" id="aa13178_html_a8d863af82300eacc1456a08f8461d5a7"><div class="ttname"><a href="../../df/d50/a13178.html#a8d863af82300eacc1456a08f8461d5a7">spell_eredar_twins_handle_touch_periodic::OnPeriodic</a></div><div class="ttdeci">void OnPeriodic(AuraEffect const *aurEff)</div><div class="ttdef"><b>Definition:</b> boss_eredar_twins.cpp:413</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00421">_aura</a>, <a class="el" href="../../#l00420">_effectIndex</a>, <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, and <a class="el" href="../../#l00400">OnPeriodic()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00434">_aura</a>, <a class="el" href="../../#l00433">_effectIndex</a>, <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, and <a class="el" href="../../#l00413">OnPeriodic()</a>.</p>
 
 </div>
 </div>
@@ -500,12 +500,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../de/d3a/a11194.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  396</span>    {</div>
-<div class="line"><span class="lineno">  397</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../de/d3a/a11194.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_variable" href="../../df/d50/a13178.html#ae60a5c2918105785805dc45b3942ee4a">_touchSpell</a> });</div>
-<div class="line"><span class="lineno">  398</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  409</span>    {</div>
+<div class="line"><span class="lineno">  410</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../de/d3a/a11194.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_variable" href="../../df/d50/a13178.html#ae60a5c2918105785805dc45b3942ee4a">_touchSpell</a> });</div>
+<div class="line"><span class="lineno">  411</span>    }</div>
 <div class="ttc" id="aa11194_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../de/d3a/a11194.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00419">_touchSpell</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00432">_touchSpell</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -530,7 +530,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00413">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00426">Register()</a>.</p>
 
 </div>
 </div>
@@ -554,7 +554,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00413">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00426">Register()</a>.</p>
 
 </div>
 </div>
@@ -578,7 +578,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00400">OnPeriodic()</a>, and <a class="el" href="../../#l00395">Validate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00413">OnPeriodic()</a>, and <a class="el" href="../../#l00408">Validate()</a>.</p>
 
 </div>
 </div>
@@ -588,7 +588,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d50/a13178.html">spell_eredar_twins_handle_touch_periodic</a></li>
-    <li class="footer">Generated on Mon Apr 7 2025 20:46:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 14 2025 20:46:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

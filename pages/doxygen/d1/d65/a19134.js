@@ -1,11 +1,10 @@
 var a19134 =
 [
-    [ "npc_nexus_lordAI", "d1/d65/a19134.html#a8d26337fdcd055027a20ea91faf7e01b", null ],
-    [ "AttackStart", "d1/d65/a19134.html#a2f56dcac815431c887b95e9c09aec361", null ],
-    [ "JustDied", "d1/d65/a19134.html#a828007757a618affad71b955681945cf", null ],
-    [ "JustEngagedWith", "d1/d65/a19134.html#acfcf227557b1e212eda385e22ccdb981", null ],
-    [ "UpdateAI", "d1/d65/a19134.html#ad7ddb98d2daaed386e713e423de4cac9", null ],
-    [ "events", "d1/d65/a19134.html#ad20a56e52b22306ca31406d8defa4aa5", null ],
-    [ "pInstance", "d1/d65/a19134.html#a81fae70688bcd8c733ea90b06900503d", null ],
-    [ "timer", "d1/d65/a19134.html#a8edb133f7ca01a4aa75345c572a505c7", null ]
+    [ "npc_power_sparkAI", "d1/d65/a19134.html#a3f0fd553d859c5709ed2dbd9051db3d3", null ],
+    [ "DamageTaken", "d1/d65/a19134.html#aebd86516e17e77711d3877a11a159105", null ],
+    [ "DoAction", "d1/d65/a19134.html#a54b4578be614da76cc886dedbe3d853e", null ],
+    [ "UpdateAI", "d1/d65/a19134.html#a7e9b2a161fc88d269e631d47c38bfd5e", null ],
+    [ "CheckTimer", "d1/d65/a19134.html#af98dff7dd45c258d45ce81b8520e56a8", null ],
+    [ "MoveTimer", "d1/d65/a19134.html#af16a57b82fb94eb464c51b6006f2a66b", null ],
+    [ "pInstance", "d1/d65/a19134.html#a4142b3872dd17015eeabb2eaee0c3369", null ]
 ];

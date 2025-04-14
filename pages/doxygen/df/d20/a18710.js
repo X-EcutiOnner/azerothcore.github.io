@@ -1,6 +1,9 @@
 var a18710 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "d9/da2/a18714.html", "d9/da2/a18714" ],
-    [ "npc_icc_vengeful_fleshreaper", "df/d20/a18710.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
-    [ "GetAI", "df/d20/a18710.html#abf1903616dbf52718313c8b404b504a5", null ]
+    [ "npc_icc_severed_essenceAI", "df/d20/a18710.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "df/d20/a18710.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "df/d20/a18710.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "df/d20/a18710.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "df/d20/a18710.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "df/d20/a18710.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

@@ -1,4 +1,5 @@
 var a27958 =
 [
-    [ "DisplayRaceID", "df/d18/a27958.html#a5f3897281f18061c4508d752b2291552", null ]
+    [ "cinematicCamera", "df/d18/a27958.html#a87e5f6de255dc0c75423eace2768a1dc", null ],
+    [ "Id", "df/d18/a27958.html#a9c3dc0e60728c1c76594385d6860f265", null ]
 ];

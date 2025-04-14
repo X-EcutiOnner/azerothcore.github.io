@@ -1,5 +1,6 @@
 var a20446 =
 [
-    [ "go_ulduar_working_harpoon", "df/d1b/a20446.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
-    [ "OnGossipHello", "df/d1b/a20446.html#a164bdd0a9538293699665a821c4f25f3", null ]
+    [ "npc_ulduar_expedition_engineerAI", "d1/d73/a20450.html", "d1/d73/a20450" ],
+    [ "npc_ulduar_expedition_engineer", "df/d1b/a20446.html#a1ff99e62b9c2222d8c08e71bfda600ea", null ],
+    [ "GetAI", "df/d1b/a20446.html#a6f1beaab42e42981e152db920e516616", null ]
 ];

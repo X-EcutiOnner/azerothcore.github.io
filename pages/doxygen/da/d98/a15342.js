@@ -1,8 +1,7 @@
 var a15342 =
 [
-    [ "CheckRequirement", "da/d98/a15342.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "da/d98/a15342.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "da/d98/a15342.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "da/d98/a15342.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "da/d98/a15342.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "HandleDummy", "da/d98/a15342.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "da/d98/a15342.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "da/d98/a15342.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "da/d98/a15342.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

@@ -1,5 +1,11 @@
 var a13866 =
 [
-    [ "at_zulgurub_bridge_speech", "db/d94/a13866.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "db/d94/a13866.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
+    [ "boss_hakkarAI", "db/d94/a13866.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
+    [ "ApplyHakkarPowerStacks", "db/d94/a13866.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
+    [ "CheckInRoom", "db/d94/a13866.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
+    [ "EnterEvadeMode", "db/d94/a13866.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
+    [ "JustDied", "db/d94/a13866.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
+    [ "JustEngagedWith", "db/d94/a13866.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
+    [ "Reset", "db/d94/a13866.html#a52db5743c09088e2e9f1aff1513960f2", null ],
+    [ "UpdateAI", "db/d94/a13866.html#a1119212465bcf293991d7a520c6ffe42", null ]
 ];

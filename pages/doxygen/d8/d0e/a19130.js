@@ -1,6 +1,6 @@
 var a19130 =
 [
-    [ "npc_nexus_lordAI", "d1/d65/a19134.html", "d1/d65/a19134" ],
-    [ "npc_nexus_lord", "d8/d0e/a19130.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
-    [ "GetAI", "d8/d0e/a19130.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
+    [ "npc_power_sparkAI", "d1/d65/a19134.html", "d1/d65/a19134" ],
+    [ "npc_power_spark", "d8/d0e/a19130.html#a9efd2810feb5f90f9f12f51ec7282410", null ],
+    [ "GetAI", "d8/d0e/a19130.html#a573198b86697d222c693581bf430453f", null ]
 ];

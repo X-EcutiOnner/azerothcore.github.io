@@ -1,6 +1,8 @@
 var a14502 =
 [
-    [ "HandleHit", "d0/d1c/a14502.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "d0/d1c/a14502.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "d0/d1c/a14502.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "npc_doomfire_spirit", "d0/d1c/a14502.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
+    [ "Reset", "d0/d1c/a14502.html#a0600718fad91723eba74b903583c5942", null ],
+    [ "TryTeleportInDirection", "d0/d1c/a14502.html#a7fc48df636df66a006a8179fd63e2a65", null ],
+    [ "UpdateAI", "d0/d1c/a14502.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
+    [ "turnConstant", "d0/d1c/a14502.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
 ];

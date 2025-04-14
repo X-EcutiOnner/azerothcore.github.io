@@ -1,12 +1,10 @@
 var a19434 =
 [
-    [ "npc_hol_monumentAI", "d0/d67/a19434.html#a4a59b95e32acf8920082e4159b7e384c", null ],
-    [ "AttackStart", "d0/d67/a19434.html#a6db6528cf3d53bc6de9caf55fb18a28b", null ],
-    [ "JustEngagedWith", "d0/d67/a19434.html#a105f8e66ba3cf752af455c787df7568e", null ],
-    [ "MoveInLineOfSight", "d0/d67/a19434.html#ab37c5c22456c06f78b53505ae7973658", null ],
-    [ "Reset", "d0/d67/a19434.html#a03dd56d6801194333288a2edc7ae4eaa", null ],
-    [ "UpdateAI", "d0/d67/a19434.html#a7c911cf24b21c959ee5c62d664e1879a", null ],
-    [ "_attackGUID", "d0/d67/a19434.html#a0421f258f2cd871ad1f87decf5e23bc8", null ],
-    [ "_isActive", "d0/d67/a19434.html#a0993cfde30a492ae8dfeeda2e01a1124", null ],
-    [ "events", "d0/d67/a19434.html#aeff0f7526f12f0e09e53c0e43a423799", null ]
+    [ "npc_molten_golemAI", "d0/d67/a19434.html#a5172d70649be5030fd91e1adbcad4f06", null ],
+    [ "DamageTaken", "d0/d67/a19434.html#a0dd2ca5b83f5d75c51dfa358544c018a", null ],
+    [ "DoAction", "d0/d67/a19434.html#ada2e9c39ce16f00b47df2f52971d99b1", null ],
+    [ "Reset", "d0/d67/a19434.html#a9f90e791c77377c02c66e5d809c555cc", null ],
+    [ "UpdateAI", "d0/d67/a19434.html#ade3cfd0deb27508f5f084b1b49caf13f", null ],
+    [ "events", "d0/d67/a19434.html#ad97142df8344df59eddfb92471d1a737", null ],
+    [ "m_pInstance", "d0/d67/a19434.html#ad1a300c13e98965b935c1e3fc26b9606", null ]
 ];

@@ -1,6 +1,6 @@
 var a15666 =
 [
-    [ "npc_shadowpriest_sezzizAI", "d0/de6/a15670.html", "d0/de6/a15670" ],
-    [ "npc_shadowpriest_sezziz", "d6/d94/a15666.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
-    [ "GetAI", "d6/d94/a15666.html#a1513b766f18dbc290b6682582fd33b1d", null ]
+    [ "npc_weegli_blastfuseAI", "d0/de6/a15670.html", "d0/de6/a15670" ],
+    [ "npc_weegli_blastfuse", "d6/d94/a15666.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
+    [ "GetAI", "d6/d94/a15666.html#a701681d8771756dac20d30c2e03a1349", null ]
 ];

@@ -1,6 +1,6 @@
 var a16486 =
 [
-    [ "boss_fjolaAI", "d8/d4c/a16490.html", "d8/d4c/a16490" ],
-    [ "boss_fjola", "d5/de6/a16486.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
-    [ "GetAI", "d5/de6/a16486.html#a96d9ea0716199758b60ad933ade28de4", null ]
+    [ "boss_eydisAI", "d8/d4c/a16490.html", "d8/d4c/a16490" ],
+    [ "boss_eydis", "d5/de6/a16486.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "d5/de6/a16486.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

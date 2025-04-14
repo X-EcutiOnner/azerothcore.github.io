@@ -1,7 +1,8 @@
 var a15074 =
 [
-    [ "FilterTargets", "d4/d55/a15074.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "d4/d55/a15074.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "d4/d55/a15074.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "d4/d55/a15074.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "boss_veklor", "d4/d55/a15074.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d4/d55/a15074.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d4/d55/a15074.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d4/d55/a15074.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d4/d55/a15074.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

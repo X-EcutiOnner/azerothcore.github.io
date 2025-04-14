@@ -1,8 +1,8 @@
 var a04301 =
 [
-    [ "boss_broggok", "de/d80/a23410.html", "de/d80/a23410" ],
-    [ "go_broggok_lever", "d4/d5a/a23414.html", "d4/d5a/a23414" ],
-    [ "spell_broggok_poison_cloud", "db/d80/a23418.html", "db/d80/a23418" ],
+    [ "boss_broggok", "db/d80/a23418.html", "db/d80/a23418" ],
+    [ "go_broggok_lever", "d5/d77/a23422.html", "d5/d77/a23422" ],
+    [ "spell_broggok_poison_cloud", "dc/d70/a23426.html", "dc/d70/a23426" ],
     [ "Say", "d2/d27/a04301.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "d1/d44/a03074.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "d1/d44/a03074.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],
@@ -785,6 +785,9 @@ var a04301 =
       [ "SPELL_BLACK_HOLE_VISUAL2", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd", null ],
       [ "SPELL_BLACK_HOLE_PASSIVE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085", null ],
       [ "SPELL_BLACK_HOLE_EFFECT", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f", null ],
+      [ "SPELL_DARK_FIEND_APPEARANCE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0", null ],
+      [ "SPELL_DARK_FIEND_SECONDARY", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d", null ],
+      [ "SPELL_DARK_FIEND_TRIGGER", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca61f2d13d57b09aad7cd7437b32a1a1f8", null ],
       [ "SPELL_ARCHAEDAS_AWAKEN", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63", null ],
       [ "SPELL_AWAKEN_VAULT_WALKER", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e", null ],
       [ "SPELL_SOUL_CORRUPTION", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cadf9dc8cb0274ecae5a575b3aa8f5f87b", null ],

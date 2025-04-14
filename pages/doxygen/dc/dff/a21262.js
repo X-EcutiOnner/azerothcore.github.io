@@ -1,16 +1,16 @@
 var a21262 =
 [
-    [ "boss_zuramatAI", "dc/dff/a21262.html#ab4c04fec01023295946d170a466d1c48", null ],
-    [ "EnterEvadeMode", "dc/dff/a21262.html#a991437ea0d9fd1ce7807ef9937c4cb0a", null ],
-    [ "JustDied", "dc/dff/a21262.html#a060df9b36f2f62f3fc7afb80386d51c5", null ],
-    [ "JustEngagedWith", "dc/dff/a21262.html#a85cc0f20b51e84ff1c5c16a3b2b004b9", null ],
-    [ "JustSummoned", "dc/dff/a21262.html#a6e925207ddc112f7dd7044c08023f90e", null ],
-    [ "KilledUnit", "dc/dff/a21262.html#adb79f8c244f57b88848dd44b592faf41", null ],
-    [ "MoveInLineOfSight", "dc/dff/a21262.html#aa3ef3256d203d264dee12eff4491a28c", null ],
-    [ "Reset", "dc/dff/a21262.html#a18498e4bc4bfac33ff2c591f5bf28d7d", null ],
-    [ "SummonedCreatureDespawn", "dc/dff/a21262.html#a242f814bfec2e937e1338097e78080e3", null ],
-    [ "UpdateAI", "dc/dff/a21262.html#adb591699b7d8ece0b1775afd40a4181b", null ],
-    [ "events", "dc/dff/a21262.html#a4406b42618f3e40fa90e0a34ec3ad09f", null ],
-    [ "pInstance", "dc/dff/a21262.html#a8ebb5ca6f9f18b0205e8b6a54492c06a", null ],
-    [ "summons", "dc/dff/a21262.html#a42cb09654095c8a157720f99e7957102", null ]
+    [ "boss_xevozzAI", "dc/dff/a21262.html#a422359074a43e84ee6462b61fc4ce6a9", null ],
+    [ "EnterEvadeMode", "dc/dff/a21262.html#a5557f799c862759c8fd94a98cadee7d5", null ],
+    [ "JustDied", "dc/dff/a21262.html#a6e66dec2e1bc198d9b3e855366ca8b02", null ],
+    [ "JustEngagedWith", "dc/dff/a21262.html#a0f8c06f3e0934eb22bf8a26aa3238b50", null ],
+    [ "JustSummoned", "dc/dff/a21262.html#a04787f7600a817fd63132676590505a8", null ],
+    [ "KilledUnit", "dc/dff/a21262.html#ad47008e9044815cc4475adbaf3ece543", null ],
+    [ "MoveInLineOfSight", "dc/dff/a21262.html#a519c1222ef186067dcb9a98bb84ea031", null ],
+    [ "Reset", "dc/dff/a21262.html#a435b22ca3c7e573d4e3c70e2497063e7", null ],
+    [ "SummonedCreatureDespawn", "dc/dff/a21262.html#ab6e7bb57110831079ede943a74641bd4", null ],
+    [ "UpdateAI", "dc/dff/a21262.html#aa61271e4a9d8e13ac875f6efd550aa4b", null ],
+    [ "events", "dc/dff/a21262.html#a8a5796089d42dad89c9cec5ea4d38321", null ],
+    [ "pInstance", "dc/dff/a21262.html#a9eda85f10a814efa32f7b224e1772b89", null ],
+    [ "spheres", "dc/dff/a21262.html#ab1d51bbfd433b37b8ceec15a18d62b17", null ]
 ];

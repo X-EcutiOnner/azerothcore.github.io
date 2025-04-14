@@ -1,5 +1,6 @@
 var a21058 =
 [
-    [ "go_harpoon_canon", "dd/d61/a21058.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
-    [ "OnGossipHello", "dd/d61/a21058.html#ad0098bafd1233636bde181312126e65f", null ]
+    [ "boss_skadi_graufAI", "da/db3/a21062.html", "da/db3/a21062" ],
+    [ "boss_skadi_grauf", "dd/d61/a21058.html#a571db2d2ae21f38b7051319da0f042f6", null ],
+    [ "GetAI", "dd/d61/a21058.html#a9b637a93a572d21691b81b80ec45206d", null ]
 ];

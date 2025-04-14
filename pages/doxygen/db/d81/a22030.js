@@ -1,6 +1,6 @@
 var a22030 =
 [
-    [ "npc_frostbrood_skytalonAI", "df/dc1/a22034.html", "df/dc1/a22034" ],
-    [ "npc_frostbrood_skytalon", "db/d81/a22030.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "db/d81/a22030.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "npc_blessed_bannerAI", "df/dc1/a22034.html", "df/dc1/a22034" ],
+    [ "npc_blessed_banner", "db/d81/a22030.html#a779a0c653088b2d206226e146a19101f", null ],
+    [ "GetAI", "db/d81/a22030.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
 ];

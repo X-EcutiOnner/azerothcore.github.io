@@ -1,6 +1,6 @@
 var a21014 =
 [
-    [ "npc_ferocious_rhinoAI", "dd/d3f/a21018.html", "dd/d3f/a21018" ],
-    [ "npc_ferocious_rhino", "d4/da0/a21014.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "d4/da0/a21014.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "npc_massive_jormungarAI", "dd/d3f/a21018.html", "dd/d3f/a21018" ],
+    [ "npc_massive_jormungar", "d4/da0/a21014.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
+    [ "GetAI", "d4/da0/a21014.html#a68e3557e967ef633ba59fa81e661b80c", null ]
 ];

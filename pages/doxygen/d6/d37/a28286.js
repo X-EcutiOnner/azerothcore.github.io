@@ -1,13 +1,10 @@
 var a28286 =
 [
-    [ "actionFlag", "d6/d37/a28286.html#a6257ae486eff937cf12be64f0e850ca6", null ],
-    [ "arrivalEventID", "d6/d37/a28286.html#a1ffe17f529066091b18451a1121ce6ac", null ],
-    [ "delay", "d6/d37/a28286.html#aef005db912b0a57ecc5d62c66d838826", null ],
-    [ "departureEventID", "d6/d37/a28286.html#a670a033aaf0ff48676373baf9235d670", null ],
-    [ "index", "d6/d37/a28286.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
-    [ "mapid", "d6/d37/a28286.html#aa2c6fb8a785e297c72384043698dd401", null ],
-    [ "path", "d6/d37/a28286.html#aa0692acbae0d4639c89ece77265d7858", null ],
-    [ "x", "d6/d37/a28286.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
-    [ "y", "d6/d37/a28286.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
-    [ "z", "d6/d37/a28286.html#af48d85940d7f204091e8438427a72e2d", null ]
+    [ "ID", "d6/d37/a28286.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "d6/d37/a28286.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "d6/d37/a28286.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "d6/d37/a28286.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "d6/d37/a28286.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "d6/d37/a28286.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "d6/d37/a28286.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

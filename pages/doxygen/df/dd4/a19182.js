@@ -1,6 +1,8 @@
 var a19182 =
 [
-    [ "instance_eye_of_eternity_InstanceMapScript", "d5/d37/a19186.html", "d5/d37/a19186" ],
-    [ "instance_eye_of_eternity", "df/dd4/a19182.html#afcab4ba969d0423871a4e398627a323d", null ],
-    [ "GetInstanceScript", "df/dd4/a19182.html#af51319609d355fe87a77a87eb697f434", null ]
+    [ "FilterTargets", "df/dd4/a19182.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "df/dd4/a19182.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "df/dd4/a19182.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "df/dd4/a19182.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "df/dd4/a19182.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

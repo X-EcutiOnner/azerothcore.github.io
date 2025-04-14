@@ -1,7 +1,6 @@
 var a22762 =
 [
-    [ "PrepareAuraScript", "d4/db1/a22762.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
-    [ "Register", "d4/db1/a22762.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
-    [ "Update", "d4/db1/a22762.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
-    [ "Validate", "d4/db1/a22762.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
+    [ "PrepareAuraScript", "d4/db1/a22762.html#a5cba6aaa06f8ec6e083ee0c5064414e4", null ],
+    [ "Register", "d4/db1/a22762.html#a75d0cf142e299783b06903ea03287e28", null ],
+    [ "Update", "d4/db1/a22762.html#ac027b02ed0ba70d65621a6af157c98f6", null ]
 ];

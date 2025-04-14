@@ -1,8 +1,8 @@
 var a03623 =
 [
-    [ "boss_amanitar", "d2/d2f/a15674.html", "d2/d2f/a15674" ],
-    [ "npc_amanitar_mushrooms", "da/d79/a15678.html", "da/d79/a15678" ],
-    [ "spell_amanitar_remove_mushroom_power", "d2/db3/a15682.html", "d2/db3/a15682" ],
+    [ "boss_amanitar", "d2/db3/a15682.html", "d2/db3/a15682" ],
+    [ "npc_amanitar_mushrooms", "d6/de5/a15686.html", "d6/de5/a15686" ],
+    [ "spell_amanitar_remove_mushroom_power", "d4/de8/a15690.html", "d4/de8/a15690" ],
     [ "Creatures", "df/d42/a03623.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d8/dfb/a03122.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d8/dfb/a03122.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -2212,6 +2212,9 @@ var a03623 =
       [ "SPELL_BLACK_HOLE_VISUAL2", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd", null ],
       [ "SPELL_BLACK_HOLE_PASSIVE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085", null ],
       [ "SPELL_BLACK_HOLE_EFFECT", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f", null ],
+      [ "SPELL_DARK_FIEND_APPEARANCE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0", null ],
+      [ "SPELL_DARK_FIEND_SECONDARY", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d", null ],
+      [ "SPELL_DARK_FIEND_TRIGGER", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca61f2d13d57b09aad7cd7437b32a1a1f8", null ],
       [ "SPELL_ARCHAEDAS_AWAKEN", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63", null ],
       [ "SPELL_AWAKEN_VAULT_WALKER", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e", null ],
       [ "SPELL_SOUL_CORRUPTION", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cadf9dc8cb0274ecae5a575b3aa8f5f87b", null ],

@@ -1,8 +1,12 @@
 var a20334 =
 [
-    [ "npc_ulduar_mimiron_rocketAI", "d7/dd1/a20334.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
-    [ "InitializeAI", "d7/dd1/a20334.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
-    [ "Reset", "d7/dd1/a20334.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
-    [ "SetData", "d7/dd1/a20334.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
-    [ "UpdateAI", "d7/dd1/a20334.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
+    [ "npc_ulduar_proximity_mineAI", "d7/dd1/a20334.html#aa3001a71c8a298be688631d618745495", null ],
+    [ "AttackStart", "d7/dd1/a20334.html#afe5572c8fd1f8acc64ca57304d8be254", null ],
+    [ "CanAIAttack", "d7/dd1/a20334.html#a0216f41bf596eb43a9b9eea13152d262", null ],
+    [ "MoveInLineOfSight", "d7/dd1/a20334.html#afe07e3cd341d6a84592ab9b33e02d6d5", null ],
+    [ "SpellHitTarget", "d7/dd1/a20334.html#aaf6c9c8843a61d29326ab6c662b174f9", null ],
+    [ "UpdateAI", "d7/dd1/a20334.html#adadc4c33ff356bd5eed6d82115dc888a", null ],
+    [ "exploded", "d7/dd1/a20334.html#a1706ff0cfd7192040c32f13a37610c43", null ],
+    [ "timer", "d7/dd1/a20334.html#a4c743646055b4c95bf379a751eb5892e", null ],
+    [ "timer2", "d7/dd1/a20334.html#a446b7658fa4c165f43947a05562827b2", null ]
 ];

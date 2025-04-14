@@ -1,6 +1,7 @@
 var a13346 =
 [
-    [ "ChangeSummonPos", "d3/d4e/a13346.html#a410289b69105497a6c09a3647549af5a", null ],
-    [ "PrepareSpellScript", "d3/d4e/a13346.html#a94cb1dce8f80d116c944638039ce22c8", null ],
-    [ "Register", "d3/d4e/a13346.html#aea08367ec6416253a48a1594e931df62", null ]
+    [ "PeriodicTick", "d3/d4e/a13346.html#acca46d585d06d461f735cddb6075b3b1", null ],
+    [ "PrepareAuraScript", "d3/d4e/a13346.html#abd7382ab22efd3d82c4f00745255d024", null ],
+    [ "Register", "d3/d4e/a13346.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
+    [ "Validate", "d3/d4e/a13346.html#acb31ba162452a30ff0c208829560f9fd", null ]
 ];

@@ -1,6 +1,6 @@
 var a04307 =
 [
-    [ "boss_kelidan_the_breaker", "d5/d77/a23422.html", "d5/d77/a23422" ],
+    [ "boss_kelidan_the_breaker", "dc/d5b/a23430.html", "dc/d5b/a23430" ],
     [ "Actions", "d9/d4e/a04307.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d7/d46/a00890.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d7/d46/a00890.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -138,8 +138,6 @@ var a04307 =
       [ "EVENT_SPELL_BERSERK", "dd/d8e/a03377.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac98fdfb490fa896cecb40ae427f4ea75", null ],
       [ "ACTION_START_EVENT", "dd/d8e/a03377.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a9d00590152ece2beb2305c6f271dd9", null ],
       [ "ACTION_SPAWN_FELMYST", "dd/d8e/a03377.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a16d567c58cbc0c7f3f9c0212b708c076", null ],
-      [ "ACTION_SISTER_DIED", "d2/dce/a03389.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a91bbcc3808c94e9f9f27c03c1cb93002", null ],
-      [ "GROUP_SPECIAL_ABILITY", "d2/dce/a03389.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a29a371143c4e7f8140404f7d8f9a29ee", null ],
       [ "ACTION_START_EVENT", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a9d00590152ece2beb2305c6f271dd9", null ],
       [ "POINT_GROUND", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0985e2f2e85eb91a8a9618b54c44de71", null ],
       [ "POINT_TAKEOFF", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1c6e632d42e6df5451aed43bb661d6f0", null ],
@@ -153,6 +151,7 @@ var a04307 =
       [ "POINT_KALECGOS", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae28afffba3897232433dfda687d84c90", null ],
       [ "GROUP_START_INTRO", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4a4902fa353571f6600bc8932d24587", null ],
       [ "GROUP_BREATH", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abc690822dc5cb57b3e326158004335c1", null ],
+      [ "GROUP_TAKEOFF", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abbedbfba7b17057e4023a239034e5a2d", null ],
       [ "NPC_FOG_TRIGGER", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7693ca0f68e1a5d3d6c41858ac1587af", null ],
       [ "NPC_KALECGOS_FELMYST", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae1e303b4d4bf9ea5161f503fcfdb062e", null ],
       [ "NPC_WORLD_TRIGGER_RIGHT", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a350b4672450d7269211c926ef5605dc9", null ],
@@ -2108,6 +2107,9 @@ var a04307 =
       [ "SPELL_BLACK_HOLE_VISUAL2", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd", null ],
       [ "SPELL_BLACK_HOLE_PASSIVE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085", null ],
       [ "SPELL_BLACK_HOLE_EFFECT", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f", null ],
+      [ "SPELL_DARK_FIEND_APPEARANCE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0", null ],
+      [ "SPELL_DARK_FIEND_SECONDARY", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d", null ],
+      [ "SPELL_DARK_FIEND_TRIGGER", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca61f2d13d57b09aad7cd7437b32a1a1f8", null ],
       [ "SPELL_ARCHAEDAS_AWAKEN", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63", null ],
       [ "SPELL_AWAKEN_VAULT_WALKER", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e", null ],
       [ "SPELL_SOUL_CORRUPTION", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cadf9dc8cb0274ecae5a575b3aa8f5f87b", null ],

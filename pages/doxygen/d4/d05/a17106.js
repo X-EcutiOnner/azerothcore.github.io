@@ -1,6 +1,6 @@
 var a17106 =
 [
-    [ "HandlePeriodic", "d4/d05/a17106.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
-    [ "PrepareAuraScript", "d4/d05/a17106.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
-    [ "Register", "d4/d05/a17106.html#a9753daf5cdc812e9027c1153b450686d", null ]
+    [ "boss_moorabiAI", "de/d71/a17110.html", "de/d71/a17110" ],
+    [ "boss_moorabi", "d4/d05/a17106.html#a94e14b2a9b06143985f785e781d1c302", null ],
+    [ "GetAI", "d4/d05/a17106.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
 ];

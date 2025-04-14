@@ -1,6 +1,6 @@
 var a28690 =
 [
-    [ "CalculateAmount", "dc/d42/a28690.html#aa27de1a2fc517a4b796a10e780239880", null ],
-    [ "PrepareAuraScript", "dc/d42/a28690.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
-    [ "Register", "dc/d42/a28690.html#a5ee969ad0916a9337849c75c18f13c29", null ]
+    [ "height", "dc/d42/a28690.html#a7638f586a055c48a46e36471543ff72f", null ],
+    [ "unk1", "dc/d42/a28690.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
+    [ "unk2", "dc/d42/a28690.html#a394a04f6e985824aa259a42b11b97136", null ]
 ];

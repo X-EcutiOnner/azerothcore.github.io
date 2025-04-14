@@ -1,6 +1,7 @@
 var a23378 =
 [
-    [ "CalculateDamage", "dd/d8e/a23378.html#a170fb61e3a7358d42cc6506067fb978a", null ],
-    [ "PrepareSpellScript", "dd/d8e/a23378.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
-    [ "Register", "dd/d8e/a23378.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
+    [ "OnApply", "dd/d8e/a23378.html#a301e47da9be4b4a449701c59c19bc62b", null ],
+    [ "PrepareAuraScript", "dd/d8e/a23378.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
+    [ "Register", "dd/d8e/a23378.html#aaf38547f7fa233b03429734dbe374f13", null ],
+    [ "Validate", "dd/d8e/a23378.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
 ];

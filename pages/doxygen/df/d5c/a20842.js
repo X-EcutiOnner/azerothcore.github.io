@@ -1,7 +1,6 @@
 var a20842 =
 [
-    [ "OnPeriodic", "df/d5c/a20842.html#a529e89c1ae0074370da174defc086719", null ],
-    [ "PrepareAuraScript", "df/d5c/a20842.html#a587652095a5dfae229787a0c0ceacfbe", null ],
-    [ "Register", "df/d5c/a20842.html#acd5551b09882d720608bdec6036dee9a", null ],
-    [ "Validate", "df/d5c/a20842.html#aaed6604e39dd977f4e7c671052d718e8", null ]
+    [ "FilterTargets", "df/d5c/a20842.html#a7efa78a7991b7ca859c7d622f973265d", null ],
+    [ "PrepareSpellScript", "df/d5c/a20842.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
+    [ "Register", "df/d5c/a20842.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
 ];

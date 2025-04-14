@@ -1,7 +1,7 @@
 var a15546 =
 [
-    [ "npc_lakota_windsongAI", "d3/db3/a15550.html", "d3/db3/a15550" ],
-    [ "npc_lakota_windsong", "dc/db2/a15546.html#a08a585ac36189ec23354c7acb26d223d", null ],
-    [ "GetAI", "dc/db2/a15546.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
-    [ "OnQuestAccept", "dc/db2/a15546.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
+    [ "npc_wizzlecrank_shredderAI", "d3/db3/a15550.html", "d3/db3/a15550" ],
+    [ "npc_wizzlecrank_shredder", "dc/db2/a15546.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "dc/db2/a15546.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "dc/db2/a15546.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

@@ -1,7 +1,6 @@
 var a14138 =
 [
-    [ "HandleScriptEffect", "da/dc0/a14138.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
-    [ "PrepareSpellScript", "da/dc0/a14138.html#a3d906994c11e52e89c842189be73ddfd", null ],
-    [ "Register", "da/dc0/a14138.html#a4cdab36e2265c696207a39e16549ab13", null ],
-    [ "Validate", "da/dc0/a14138.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
+    [ "go_direbrew_mole_machineAI", "dc/d1e/a14142.html", "dc/d1e/a14142" ],
+    [ "go_direbrew_mole_machine", "da/dc0/a14138.html#a759d291a5be227d8beae3bbc779e56f4", null ],
+    [ "GetAI", "da/dc0/a14138.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
 ];

@@ -1,14 +1,8 @@
 var a13778 =
 [
-    [ "npc_harrison_jones", "db/db6/a13778.html#ae408c9533166f8919c121053a3efff6c", null ],
-    [ "DoAction", "db/db6/a13778.html#a2ecf8a9f807e879530ee6a094475e67b", null ],
-    [ "JustEngagedWith", "db/db6/a13778.html#a884e5973ed597eeeb606f5b8a2b1c028", null ],
-    [ "MovementInform", "db/db6/a13778.html#a5ee27ccc1aea33ecc8aee5b703e05174", null ],
-    [ "OpenMassiveGateAndCallGuards", "db/db6/a13778.html#a8f15098ad66e2d13ddfababc2ad2e33b", null ],
-    [ "Reset", "db/db6/a13778.html#a11b1b2da283ddaa475f3f42534702f5b", null ],
-    [ "sGossipSelect", "db/db6/a13778.html#ae56b80041fa198063a9ce87729142420", null ],
-    [ "SpellHit", "db/db6/a13778.html#ad3ead59986b9340529bb6c6f42dbc137", null ],
-    [ "UpdateAI", "db/db6/a13778.html#a0c64f294257e98522e0f32171aee6080", null ],
-    [ "_instance", "db/db6/a13778.html#adb995a4b18607a5bd7555ce6989c2525", null ],
-    [ "_phase", "db/db6/a13778.html#a1620b4f7407aa49c3e16876148c49ba7", null ]
+    [ "npc_zulaman_hostageAI", "d1/dc7/a13782.html", "d1/dc7/a13782" ],
+    [ "npc_zulaman_hostage", "db/db6/a13778.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "db/db6/a13778.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "db/db6/a13778.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "db/db6/a13778.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

@@ -1,7 +1,6 @@
 var a15582 =
 [
-    [ "npc_ameAI", "de/d77/a15586.html", "de/d77/a15586" ],
-    [ "npc_ame", "d3/d65/a15582.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
-    [ "GetAI", "d3/d65/a15582.html#a09f7688c38d56319791f7543eb32f317", null ],
-    [ "OnQuestAccept", "d3/d65/a15582.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
+    [ "npc_cairne_bloodhoofAI", "de/d77/a15586.html", "de/d77/a15586" ],
+    [ "npc_cairne_bloodhoof", "d3/d65/a15582.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
+    [ "GetAI", "d3/d65/a15582.html#a1c34470c46ae9e98684de0e786be28b7", null ]
 ];

@@ -1,6 +1,6 @@
 var a19138 =
 [
-    [ "npc_scion_of_eternityAI", "df/d33/a19142.html", "df/d33/a19142" ],
-    [ "npc_scion_of_eternity", "db/dab/a19138.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
-    [ "GetAI", "db/dab/a19138.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
+    [ "npc_nexus_lordAI", "df/d33/a19142.html", "df/d33/a19142" ],
+    [ "npc_nexus_lord", "db/dab/a19138.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
+    [ "GetAI", "db/dab/a19138.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
 ];

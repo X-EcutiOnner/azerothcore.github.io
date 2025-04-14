@@ -1,6 +1,6 @@
 var a21214 =
 [
-    [ "boss_ichoronAI", "d8/d71/a21218.html", "d8/d71/a21218" ],
-    [ "boss_ichoron", "db/d1e/a21214.html#ad4390da77a130edaf050d0bef3926882", null ],
-    [ "GetAI", "db/d1e/a21214.html#a68051088dc2d2c738b042e2df0436b28", null ]
+    [ "npc_erekem_guardAI", "d8/d71/a21218.html", "d8/d71/a21218" ],
+    [ "npc_erekem_guard", "db/d1e/a21214.html#a78592996e90f77f81eec0325a7f11956", null ],
+    [ "GetAI", "db/d1e/a21214.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
 ];

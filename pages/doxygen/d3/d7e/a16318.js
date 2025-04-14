@@ -1,7 +1,8 @@
 var a16318 =
 [
-    [ "npc_toc_mageAI", "d3/d7e/a16318.html#a188831088c892f68cef7498468b24899", null ],
-    [ "myCanCast", "d3/d7e/a16318.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
-    [ "UpdateAI", "d3/d7e/a16318.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
-    [ "events", "d3/d7e/a16318.html#ab1910ce98f3d1b14e45acba22782d536", null ]
+    [ "npc_toc_warlockAI", "d3/d7e/a16318.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "d3/d7e/a16318.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "d3/d7e/a16318.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "d3/d7e/a16318.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "d3/d7e/a16318.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

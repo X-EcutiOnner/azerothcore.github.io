@@ -1,7 +1,6 @@
 var a17122 =
 [
-    [ "HandlePeriodic", "d1/d16/a17122.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
-    [ "PrepareAuraScript", "d1/d16/a17122.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
-    [ "Register", "d1/d16/a17122.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
-    [ "Validate", "d1/d16/a17122.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
+    [ "boss_slad_ranAI", "db/d36/a17126.html", "db/d36/a17126" ],
+    [ "boss_slad_ran", "d1/d16/a17122.html#a9b960242e2f186d334d7ce04b999e274", null ],
+    [ "GetAI", "d1/d16/a17122.html#a26651b7ca111bd64549283c37e34db11", null ]
 ];

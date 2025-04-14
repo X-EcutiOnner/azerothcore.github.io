@@ -1,9 +1,9 @@
 var a02897 =
 [
-    [ "npc_anubisath_sentinel", "d0/d36/a15106.html", "d0/d36/a15106" ],
-    [ "npc_anubisath_sentinel::aqsentinelAI", "d0/ddd/a15110.html", "d0/ddd/a15110" ],
-    [ "spell_anubisath_mortal_strike", "d9/df1/a15114.html", "d9/df1/a15114" ],
-    [ "spell_mana_burn_area", "de/d1a/a15118.html", "de/d1a/a15118" ],
+    [ "npc_anubisath_sentinel", "d9/df1/a15114.html", "d9/df1/a15114" ],
+    [ "npc_anubisath_sentinel::aqsentinelAI", "de/d1a/a15118.html", "de/d1a/a15118" ],
+    [ "spell_anubisath_mortal_strike", "d9/d1a/a15122.html", "d9/d1a/a15122" ],
+    [ "spell_mana_burn_area", "d7/de6/a15126.html", "d7/de6/a15126" ],
     [ "Spells", "d2/d4c/a02897.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d7/d46/a00890.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d7/d46/a00890.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],
@@ -727,6 +727,9 @@ var a02897 =
       [ "SPELL_BLACK_HOLE_VISUAL2", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd", null ],
       [ "SPELL_BLACK_HOLE_PASSIVE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085", null ],
       [ "SPELL_BLACK_HOLE_EFFECT", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f", null ],
+      [ "SPELL_DARK_FIEND_APPEARANCE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0", null ],
+      [ "SPELL_DARK_FIEND_SECONDARY", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d", null ],
+      [ "SPELL_DARK_FIEND_TRIGGER", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca61f2d13d57b09aad7cd7437b32a1a1f8", null ],
       [ "SPELL_ARCHAEDAS_AWAKEN", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63", null ],
       [ "SPELL_AWAKEN_VAULT_WALKER", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e", null ],
       [ "SPELL_SOUL_CORRUPTION", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cadf9dc8cb0274ecae5a575b3aa8f5f87b", null ],

@@ -1,6 +1,6 @@
 var a21258 =
 [
-    [ "boss_zuramatAI", "dc/dff/a21262.html", "dc/dff/a21262" ],
-    [ "boss_zuramat", "d6/da8/a21258.html#a1d169e786dcf846026b48d9be389f9ab", null ],
-    [ "GetAI", "d6/da8/a21258.html#a1008c053a2c9ad14cf9ce994db931670", null ]
+    [ "boss_xevozzAI", "dc/dff/a21262.html", "dc/dff/a21262" ],
+    [ "boss_xevozz", "d6/da8/a21258.html#a814ac939c4570d33450c4a6664833087", null ],
+    [ "GetAI", "d6/da8/a21258.html#a712d8ed125d464da56b677914fbf8796", null ]
 ];

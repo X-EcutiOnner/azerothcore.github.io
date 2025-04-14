@@ -1,6 +1,7 @@
 var a16086 =
 [
-    [ "instance_ruby_sanctum_InstanceMapScript", "d0/d0c/a16090.html", "d0/d0c/a16090" ],
-    [ "instance_ruby_sanctum", "de/db7/a16086.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
-    [ "GetInstanceScript", "de/db7/a16086.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
+    [ "HandleDummy", "de/db7/a16086.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
+    [ "PrepareSpellScript", "de/db7/a16086.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
+    [ "Register", "de/db7/a16086.html#a144224b42aabc0402b729dcc808d779d", null ],
+    [ "Validate", "de/db7/a16086.html#a985e843e856a7322bccf8544c45df48c", null ]
 ];

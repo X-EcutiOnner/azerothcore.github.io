@@ -1,13 +1,14 @@
 var a29530 =
 [
-    [ "DBCDatabaseLoader", "d1/ddb/a29530.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
-    [ "DBCDatabaseLoader", "d1/ddb/a29530.html#a7d93e6d37796f341edcf25062743c5b5", null ],
-    [ "CloneStringToPool", "d1/ddb/a29530.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
-    [ "Load", "d1/ddb/a29530.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
-    [ "operator=", "d1/ddb/a29530.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
-    [ "_dbcFormat", "d1/ddb/a29530.html#aa749118514d0b784ac6df295bd820d8e", null ],
-    [ "_recordSize", "d1/ddb/a29530.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
-    [ "_sqlIndexPos", "d1/ddb/a29530.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
-    [ "_sqlTableName", "d1/ddb/a29530.html#ab6590071edf5311ccf484d48e4fd125e", null ],
-    [ "_stringPool", "d1/ddb/a29530.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
+    [ "file_MVER", "d5/d77/a28542.html", "d5/d77/a28542" ],
+    [ "FileLoader", "d5/d7c/a28550.html", "d5/d7c/a28550" ],
+    [ "FILE_FORMAT_VERSION", "d1/ddb/a29530.html#a82680783457cdcbe83db9eefe68f8a9b", null ],
+    [ "int16", "d1/ddb/a29530.html#aa0d0fdc87fd135ef2bedb030901cdb9c", null ],
+    [ "int32", "d1/ddb/a29530.html#ab7903878916593daecbeb95b98115ab0", null ],
+    [ "int64", "d1/ddb/a29530.html#a7cde0074dfd288f2d70c0e035dacb28a", null ],
+    [ "int8", "d1/ddb/a29530.html#aa79c2d3de4fcd200458c406f40b2ae64", null ],
+    [ "uint16", "d1/ddb/a29530.html#ac2a9e79eb120216f855626495b7bd18a", null ],
+    [ "uint32", "d1/ddb/a29530.html#acbd4acd0d29e2d6c43104827f77d9cd2", null ],
+    [ "uint64", "d1/ddb/a29530.html#abc0f5bc07737e498f287334775dff2b6", null ],
+    [ "uint8", "d1/ddb/a29530.html#a33a5e996e7a90acefb8b1c0bea47e365", null ]
 ];

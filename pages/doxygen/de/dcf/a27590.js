@@ -1,5 +1,5 @@
 var a27590 =
 [
-    [ "npc_sunwell_gate", "de/dcf/a27590.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
-    [ "OnQuestReward", "de/dcf/a27590.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
+    [ "ServerMailReward", "de/dcf/a27590.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "de/dcf/a27590.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

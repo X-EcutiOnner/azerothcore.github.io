@@ -1,8 +1,9 @@
 var a23646 =
 [
-    [ "boss_laj", "d1/d5d/a23646.html#a3c9323ab4b5530504588ea62aed2edff", null ],
-    [ "Reset", "d1/d5d/a23646.html#ace690a0662376addaa40093f3f119c31", null ],
-    [ "ScheduleTasks", "d1/d5d/a23646.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
-    [ "_lastTransform", "d1/d5d/a23646.html#a097eacaaf77a09bec087530bad587b11", null ],
-    [ "_transformContainer", "d1/d5d/a23646.html#a313e66ceeb4e359251dad65383e7f568", null ]
+    [ "boss_high_botanist_freywinn", "d1/d5d/a23646.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "d1/d5d/a23646.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "d1/d5d/a23646.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "d1/d5d/a23646.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "d1/d5d/a23646.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "d1/d5d/a23646.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

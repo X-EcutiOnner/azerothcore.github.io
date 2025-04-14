@@ -1,5 +1,5 @@
 var a26918 =
 [
-    [ "achievement_sickly_gazelle", "dd/d2f/a26918.html#abb613cb222c727923c4c5ce843db3a5f", null ],
-    [ "OnCheck", "dd/d2f/a26918.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
+    [ "achievement_bg_sa_artillery", "dd/d2f/a26918.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "dd/d2f/a26918.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

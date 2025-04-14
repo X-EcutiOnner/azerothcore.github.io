@@ -1,10 +1,6 @@
 var a26462 =
 [
-    [ "Absorb", "db/da7/a26462.html#aedee311aa77597674b3665eaf74e98c8", null ],
-    [ "CalculateAmount", "db/da7/a26462.html#a5fdabb367ab86589d733d1da906446ab", null ],
-    [ "Load", "db/da7/a26462.html#a7418b17f23b9eeacceb0970df3cb1d99", null ],
-    [ "PrepareAuraScript", "db/da7/a26462.html#a1de52fae7a5ed3eeeb46be11eb2eac21", null ],
-    [ "Register", "db/da7/a26462.html#abfc540163e9eb34cbf8a48d39bede840", null ],
-    [ "Validate", "db/da7/a26462.html#a6cca564b6d13063ce7cd72ed8b6adf67", null ],
-    [ "absorbChance", "db/da7/a26462.html#a293be81af42d810126eda35b1d27e3bc", null ]
+    [ "CheckProc", "db/da7/a26462.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
+    [ "PrepareAuraScript", "db/da7/a26462.html#af15109e926eb717c3f3cb2f7f617428c", null ],
+    [ "Register", "db/da7/a26462.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
 ];

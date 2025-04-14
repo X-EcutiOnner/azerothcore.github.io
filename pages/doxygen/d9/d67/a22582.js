@@ -1,6 +1,7 @@
 var a22582 =
 [
-    [ "PrepareSpellScript", "d9/d67/a22582.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "d9/d67/a22582.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "d9/d67/a22582.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "npc_voidtraveler", "d9/d67/a22582.html#a07e473c14836a0612acd52078a93f2d8", null ],
+    [ "Reset", "d9/d67/a22582.html#a6efe0725917c92657220de2b60579289", null ],
+    [ "UpdateAI", "d9/d67/a22582.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
+    [ "_scheduler", "d9/d67/a22582.html#a1809494e7803103f6bc1698e780dcfbc", null ]
 ];

@@ -1,16 +1,20 @@
 var a14730 =
 [
-    [ "npc_medivh_bm", "d4/de9/a14730.html#a23f04c433faf7da663b2edffb2a0440d", null ],
-    [ "AttackStart", "d4/de9/a14730.html#a8eb87f4d80d83725af017657c599d458", null ],
-    [ "DoAction", "d4/de9/a14730.html#aa5a54d0b2b069947dd59eee77cbdf21b", null ],
-    [ "JustDied", "d4/de9/a14730.html#ad6dbbef1b6fbccd9dd224af1a15a6c90", null ],
-    [ "JustSummoned", "d4/de9/a14730.html#a16d8d3be1dd148e149f4e49570f092a6", null ],
-    [ "MoveInLineOfSight", "d4/de9/a14730.html#a87f092fccd5b485bdf0bd0449bd57265", null ],
-    [ "Reset", "d4/de9/a14730.html#a1a33f613b083763c952882cdb82a35c1", null ],
-    [ "SummonOrcs", "d4/de9/a14730.html#a9206f380773fff5df6dc7c67e37a9ba8", null ],
-    [ "UpdateAI", "d4/de9/a14730.html#aefc693d7be0c06c5056cae18d4e4eb1e", null ],
-    [ "_airArray", "d4/de9/a14730.html#a6e766596b69b52690635ee91e6e8d164", null ],
-    [ "_events", "d4/de9/a14730.html#a1d4fe5bc964d12e812a178c68e2f037f", null ],
-    [ "_groundArray", "d4/de9/a14730.html#a6fd3a75ddec2a6bda3e5d1bd3e33722c", null ],
-    [ "_instance", "d4/de9/a14730.html#a45e129d61c3987e4bff94485db739eb1", null ]
+    [ "instance_the_black_morass_InstanceMapScript", "d4/de9/a14730.html#aa44359378462c0e0de9aad778bb67b6c", null ],
+    [ "CleanupInstance", "d4/de9/a14730.html#afa6718d4aba7ed4f2cf3da1552bff6f0", null ],
+    [ "GetData", "d4/de9/a14730.html#ae8e2aa62fd1e96aef87cd4ef00d3bf5c", null ],
+    [ "OnCreatureCreate", "d4/de9/a14730.html#a024b2c41699ec1ee40b5adbfe355c498", null ],
+    [ "OnCreatureRemove", "d4/de9/a14730.html#af9f5df1e16ca32705fb66d39f5c2526b", null ],
+    [ "OnPlayerEnter", "d4/de9/a14730.html#a151c4f2b0e2210d261a29c2c5f8512c9", null ],
+    [ "ScheduleNextPortal", "d4/de9/a14730.html#aa6187583d1a821cb8c60544566637885", null ],
+    [ "SetBossState", "d4/de9/a14730.html#a8d08e9d50547706579e2eb313583fa12", null ],
+    [ "SetData", "d4/de9/a14730.html#af6b8897ec076a9efa9c8dac8d39398a3", null ],
+    [ "Update", "d4/de9/a14730.html#aa92607dccc1d83c0bbcfd98b6b420042", null ],
+    [ "_availableRiftPositions", "d4/de9/a14730.html#a12c33ad0c493997995b13c2bf6a7271c", null ],
+    [ "_currentRift", "d4/de9/a14730.html#aa994df6a0d7f6c5547ce7c9d0e643ef5", null ],
+    [ "_encounterNPCs", "d4/de9/a14730.html#a50b6d6bf47994ae4d69c9ca26540c814", null ],
+    [ "_eventStatus", "d4/de9/a14730.html#a351f6e209d99e0a4c63e26bd9cf55646", null ],
+    [ "_noBossSpawnDelay", "d4/de9/a14730.html#a70d2a49424c250b761858a3102e37e39", null ],
+    [ "_scheduler", "d4/de9/a14730.html#ac176dc2a8851a3f8a98663037757a380", null ],
+    [ "_shieldPercent", "d4/de9/a14730.html#a8ef05e2031267a5dc21c0999e181344b", null ]
 ];

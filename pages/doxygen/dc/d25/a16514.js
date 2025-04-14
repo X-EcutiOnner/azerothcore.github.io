@@ -1,7 +1,7 @@
 var a16514 =
 [
-    [ "HandleEffectPeriodic", "dc/d25/a16514.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
-    [ "PrepareAuraScript", "dc/d25/a16514.html#af84222492b3209c97695895c4c991f4a", null ],
-    [ "Register", "dc/d25/a16514.html#a4d1741913631bb649508ef238e25a6c8", null ],
-    [ "Validate", "dc/d25/a16514.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
+    [ "HandleAfterEffectAbsorb", "dc/d25/a16514.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
+    [ "PrepareAuraScript", "dc/d25/a16514.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
+    [ "Register", "dc/d25/a16514.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
+    [ "Validate", "dc/d25/a16514.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
 ];

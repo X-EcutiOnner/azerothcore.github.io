@@ -1,6 +1,6 @@
 var a17218 =
 [
-    [ "ModAuraStack", "dd/d47/a17218.html#a7535ef148e047e32a5f7a1944585e396", null ],
-    [ "PrepareSpellScript", "dd/d47/a17218.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
-    [ "Register", "dd/d47/a17218.html#ab44b362197e74b98b3ffeb98eff52742", null ]
+    [ "HandleScript", "dd/d47/a17218.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
+    [ "PrepareSpellScript", "dd/d47/a17218.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
+    [ "Register", "dd/d47/a17218.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
 ];

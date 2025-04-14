@@ -1,6 +1,7 @@
 var a13582 =
 [
-    [ "npc_highborne_lamenterAI", "df/dbc/a13586.html", "df/dbc/a13586" ],
-    [ "npc_highborne_lamenter", "db/d4d/a13582.html#a40316cf73a688e34e95dd41feef8612a", null ],
-    [ "GetAI", "db/d4d/a13582.html#aad8ccb43b325b797f60a16e338458a1e", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "df/dbc/a13586.html", "df/dbc/a13586" ],
+    [ "npc_lady_sylvanas_windrunner", "db/d4d/a13582.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "db/d4d/a13582.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "db/d4d/a13582.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

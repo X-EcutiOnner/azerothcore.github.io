@@ -1,8 +1,8 @@
 var a03809 =
 [
-    [ "boss_garfrost", "d6/de1/a16870.html", "d6/de1/a16870" ],
-    [ "boss_garfrost::boss_garfrostAI", "da/d29/a16874.html", "da/d29/a16874" ],
-    [ "spell_garfrost_permafrost", "da/dd2/a16878.html", "da/dd2/a16878" ],
+    [ "boss_garfrost", "da/dd2/a16878.html", "da/dd2/a16878" ],
+    [ "boss_garfrost::boss_garfrostAI", "d7/d94/a16882.html", "d7/d94/a16882" ],
+    [ "spell_garfrost_permafrost", "d7/d49/a16886.html", "d7/d49/a16886" ],
     [ "SPELL_FORGE_BLADE", "d9/d79/a03809.html#a84b5dddbef44e6c43897360580f77274", null ],
     [ "SPELL_FORGE_MACE", "d9/d79/a03809.html#a0735e91daa90f83d0246443e66f380bc", null ],
     [ "SPELL_SARONITE_TRIGGERED", "d9/d79/a03809.html#a342d2ee10efa59edc49a364fb3c4300d", null ],
@@ -1995,6 +1995,9 @@ var a03809 =
       [ "SPELL_BLACK_HOLE_VISUAL2", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd", null ],
       [ "SPELL_BLACK_HOLE_PASSIVE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085", null ],
       [ "SPELL_BLACK_HOLE_EFFECT", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f", null ],
+      [ "SPELL_DARK_FIEND_APPEARANCE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0", null ],
+      [ "SPELL_DARK_FIEND_SECONDARY", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d", null ],
+      [ "SPELL_DARK_FIEND_TRIGGER", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca61f2d13d57b09aad7cd7437b32a1a1f8", null ],
       [ "SPELL_ARCHAEDAS_AWAKEN", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63", null ],
       [ "SPELL_AWAKEN_VAULT_WALKER", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e", null ],
       [ "SPELL_SOUL_CORRUPTION", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cadf9dc8cb0274ecae5a575b3aa8f5f87b", null ],

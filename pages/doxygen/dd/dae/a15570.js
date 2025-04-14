@@ -1,6 +1,8 @@
 var a15570 =
 [
-    [ "HandleDummy", "dd/dae/a15570.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "dd/dae/a15570.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "dd/dae/a15570.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_pluckyAI", "db/da1/a15574.html", "db/da1/a15574" ],
+    [ "npc_plucky", "dd/dae/a15570.html#a86bb2992b8af5893987145117aaf3608", null ],
+    [ "GetAI", "dd/dae/a15570.html#a51e73f4e1f618aee5a000e31328efefc", null ],
+    [ "OnGossipHello", "dd/dae/a15570.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
+    [ "OnGossipSelect", "dd/dae/a15570.html#a88fa465246b4c657b921ebdc96f7a112", null ]
 ];

@@ -1,6 +1,5 @@
 var a16498 =
 [
-    [ "npc_concentrated_ballAI", "de/dd3/a16502.html", "de/dd3/a16502" ],
-    [ "npc_concentrated_ball", "dd/d15/a16498.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
-    [ "GetAI", "dd/d15/a16498.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
+    [ "boss_fjolaAI", "dd/d15/a16498.html#aa46fdff841d01f28ef50aa5363082f71", null ],
+    [ "JustSummoned", "dd/d15/a16498.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
 ];

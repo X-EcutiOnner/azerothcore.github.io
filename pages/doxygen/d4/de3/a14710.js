@@ -1,9 +1,10 @@
 var a14710 =
 [
-    [ "boss_chrono_lord_deja", "d4/de3/a14710.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "d4/de3/a14710.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "d4/de3/a14710.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "d4/de3/a14710.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "d4/de3/a14710.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "d4/de3/a14710.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "npc_tarethaAI", "d4/de3/a14710.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
+    [ "AttackStart", "d4/de3/a14710.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
+    [ "DoAction", "d4/de3/a14710.html#adbb40db0b70532a20731cf5039e44d0b", null ],
+    [ "MoveInLineOfSight", "d4/de3/a14710.html#afa0427372e43316851018bf78274707f", null ],
+    [ "Reset", "d4/de3/a14710.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
+    [ "WaypointReached", "d4/de3/a14710.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
+    [ "instance", "d4/de3/a14710.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
 ];

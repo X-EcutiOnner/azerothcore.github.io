@@ -1,9 +1,6 @@
 var a17354 =
 [
-    [ "FilterTargetsInitial", "dd/df7/a17354.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
-    [ "FilterTargetsSubsequent", "dd/df7/a17354.html#a11732039155235c287757980129d5a8e", null ],
-    [ "Load", "dd/df7/a17354.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
-    [ "PrepareSpellScript", "dd/df7/a17354.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
-    [ "Register", "dd/df7/a17354.html#a56a4e65df08a95fddde75162358155c2", null ],
-    [ "_target", "dd/df7/a17354.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
+    [ "ModAuraValue", "dd/df7/a17354.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "dd/df7/a17354.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "dd/df7/a17354.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

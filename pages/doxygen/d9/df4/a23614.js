@@ -1,7 +1,10 @@
 var a23614 =
 [
-    [ "boss_zereketh_the_unbound", "d9/df4/a23614.html#abb2fc5cbe7514142160818016fda1936", null ],
-    [ "JustDied", "d9/df4/a23614.html#ac5d96da9a33a536f2002cce11453ded3", null ],
-    [ "JustEngagedWith", "d9/df4/a23614.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
-    [ "KilledUnit", "d9/df4/a23614.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
+    [ "boss_harbinger_skyriss", "d9/df4/a23614.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "d9/df4/a23614.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "d9/df4/a23614.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "d9/df4/a23614.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "d9/df4/a23614.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "d9/df4/a23614.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "d9/df4/a23614.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

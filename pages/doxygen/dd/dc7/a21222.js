@@ -1,6 +1,6 @@
 var a21222 =
 [
-    [ "npc_ichor_globuleAI", "df/d91/a21226.html", "df/d91/a21226" ],
-    [ "npc_ichor_globule", "dd/dc7/a21222.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
-    [ "GetAI", "dd/dc7/a21222.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
+    [ "boss_ichoronAI", "df/d91/a21226.html", "df/d91/a21226" ],
+    [ "boss_ichoron", "dd/dc7/a21222.html#ad4390da77a130edaf050d0bef3926882", null ],
+    [ "GetAI", "dd/dc7/a21222.html#a68051088dc2d2c738b042e2df0436b28", null ]
 ];

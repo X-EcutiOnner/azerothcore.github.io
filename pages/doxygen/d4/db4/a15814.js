@@ -1,5 +1,6 @@
 var a15814 =
 [
-    [ "achievement_watch_him_die", "d4/db4/a15814.html#a0d885871eac61d859780e08c8518bb15", null ],
-    [ "OnCheck", "d4/db4/a15814.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
+    [ "boss_krik_thirAI", "db/dd6/a15818.html", "db/dd6/a15818" ],
+    [ "boss_krik_thir", "d4/db4/a15814.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
+    [ "GetAI", "d4/db4/a15814.html#a10e582440092d5c6558c2a11d60907aa", null ]
 ];

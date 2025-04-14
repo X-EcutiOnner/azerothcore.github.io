@@ -1,5 +1,6 @@
 var a20282 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "dd/dbb/a20282.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "dd/dbb/a20282.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "OnPeriodic", "dd/dbb/a20282.html#a8a12342f694499043e8ed4446fd92d36", null ],
+    [ "PrepareAuraScript", "dd/dbb/a20282.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
+    [ "Register", "dd/dbb/a20282.html#a381709d53101832de6b2161c4a33a0d4", null ]
 ];

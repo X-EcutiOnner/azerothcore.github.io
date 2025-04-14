@@ -1,6 +1,6 @@
 var a22082 =
 [
-    [ "npc_bushwhackerAI", "d8/d4f/a22082.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "d8/d4f/a22082.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "d8/d4f/a22082.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "npc_avatar_of_freya", "d8/d4f/a22082.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
+    [ "OnGossipHello", "d8/d4f/a22082.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
+    [ "OnGossipSelect", "d8/d4f/a22082.html#aba1b13e922873e939b2510b4bc77f49d", null ]
 ];

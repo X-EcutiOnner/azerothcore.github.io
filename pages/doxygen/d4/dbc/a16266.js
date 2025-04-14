@@ -1,6 +1,7 @@
 var a16266 =
 [
-    [ "npc_toc_druidAI", "d0/d63/a16270.html", "d0/d63/a16270" ],
-    [ "npc_toc_druid", "d4/dbc/a16266.html#a07321d5ee164b8e47f652f9bad65216b", null ],
-    [ "GetAI", "d4/dbc/a16266.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
+    [ "HandleAfterHit", "d4/dbc/a16266.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "d4/dbc/a16266.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "d4/dbc/a16266.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "d4/dbc/a16266.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

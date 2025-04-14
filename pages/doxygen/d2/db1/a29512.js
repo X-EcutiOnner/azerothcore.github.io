@@ -1,10 +1,7 @@
 var a29512 =
 [
-    [ "npc_air_force_botsAI", "d2/db1/a29512.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "d2/db1/a29512.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "d2/db1/a29512.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "d2/db1/a29512.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "d2/db1/a29512.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "d2/db1/a29512.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "d2/db1/a29512.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "checkDirectories", "d2/db1/a29512.html#ab24803c49e5019c665aa545cfd2d32dc", null ],
+    [ "finish", "d2/db1/a29512.html#a32e7545f3a98690aeb284a4eb66f272d", null ],
+    [ "handleArgs", "d2/db1/a29512.html#a9da584ba5e81bed140f90563dd648d38", null ],
+    [ "main", "d2/db1/a29512.html#a3c04138a5bfe5d72780bb7e82a18e627", null ]
 ];

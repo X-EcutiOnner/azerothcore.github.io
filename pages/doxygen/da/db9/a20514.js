@@ -1,6 +1,6 @@
 var a20514 =
 [
-    [ "boss_thorim_sif_blizzardAI", "d7/d12/a20518.html", "d7/d12/a20518" ],
-    [ "boss_thorim_sif_blizzard", "da/db9/a20514.html#acc42b4c9434f9eece2d93c2e4f3697fc", null ],
-    [ "GetAI", "da/db9/a20514.html#afbff96363951c952a195f5c2a105e279", null ]
+    [ "boss_thorim_trapAI", "d7/d12/a20518.html", "d7/d12/a20518" ],
+    [ "boss_thorim_trap", "da/db9/a20514.html#af529112badd88f9ebe4cec216d9edaeb", null ],
+    [ "GetAI", "da/db9/a20514.html#afd4ee85d73354b790c0d55abbfad75fd", null ]
 ];

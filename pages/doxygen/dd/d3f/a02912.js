@@ -1,10 +1,10 @@
 var a02912 =
 [
-    [ "PyramidEventData", "d2/dde/a15622.html", "d2/dde/a15622" ],
-    [ "instance_zulfarrak", "da/db2/a15626.html", "da/db2/a15626" ],
-    [ "instance_zulfarrak::instance_zulfarrak_InstanceMapScript", "da/d48/a15630.html", "da/d48/a15630" ],
-    [ "spell_zulfarrak_summon_zulfarrak_zombies", "dc/d38/a15634.html", "dc/d38/a15634" ],
-    [ "spell_zulfarrak_unlocking", "da/d4a/a15638.html", "da/d4a/a15638" ],
+    [ "PyramidEventData", "da/d48/a15630.html", "da/d48/a15630" ],
+    [ "instance_zulfarrak", "dc/d38/a15634.html", "dc/d38/a15634" ],
+    [ "instance_zulfarrak::instance_zulfarrak_InstanceMapScript", "da/d4a/a15638.html", "da/d4a/a15638" ],
+    [ "spell_zulfarrak_summon_zulfarrak_zombies", "d2/de8/a15642.html", "d2/de8/a15642" ],
+    [ "spell_zulfarrak_unlocking", "df/dbd/a15646.html", "df/dbd/a15646" ],
     [ "Misc", "dd/d3f/a02912.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "db/d6c/a02969.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -58,8 +58,6 @@ var a02912 =
       [ "EVENT_SPELL_BERSERK", "dd/d8e/a03377.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac98fdfb490fa896cecb40ae427f4ea75", null ],
       [ "ACTION_START_EVENT", "dd/d8e/a03377.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a9d00590152ece2beb2305c6f271dd9", null ],
       [ "ACTION_SPAWN_FELMYST", "dd/d8e/a03377.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a16d567c58cbc0c7f3f9c0212b708c076", null ],
-      [ "ACTION_SISTER_DIED", "d2/dce/a03389.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a91bbcc3808c94e9f9f27c03c1cb93002", null ],
-      [ "GROUP_SPECIAL_ABILITY", "d2/dce/a03389.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a29a371143c4e7f8140404f7d8f9a29ee", null ],
       [ "ACTION_START_EVENT", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a9d00590152ece2beb2305c6f271dd9", null ],
       [ "POINT_GROUND", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0985e2f2e85eb91a8a9618b54c44de71", null ],
       [ "POINT_TAKEOFF", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1c6e632d42e6df5451aed43bb661d6f0", null ],
@@ -73,6 +71,7 @@ var a02912 =
       [ "POINT_KALECGOS", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae28afffba3897232433dfda687d84c90", null ],
       [ "GROUP_START_INTRO", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4a4902fa353571f6600bc8932d24587", null ],
       [ "GROUP_BREATH", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abc690822dc5cb57b3e326158004335c1", null ],
+      [ "GROUP_TAKEOFF", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abbedbfba7b17057e4023a239034e5a2d", null ],
       [ "NPC_FOG_TRIGGER", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7693ca0f68e1a5d3d6c41858ac1587af", null ],
       [ "NPC_KALECGOS_FELMYST", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae1e303b4d4bf9ea5161f503fcfdb062e", null ],
       [ "NPC_WORLD_TRIGGER_RIGHT", "d0/d57/a03380.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a350b4672450d7269211c926ef5605dc9", null ],

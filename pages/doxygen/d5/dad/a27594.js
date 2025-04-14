@@ -1,5 +1,5 @@
 var a27594 =
 [
-    [ "go_transport_the_iron_eagle", "d5/dad/a27594.html#aba17edc2e3ac8e1b9996116c6f9bdc6f", null ],
-    [ "EventInform", "d5/dad/a27594.html#af1970d07730ab0e5f688200289f48b69", null ]
+    [ "npc_suns_reach_reclamation", "d5/dad/a27594.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "d5/dad/a27594.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
 ];

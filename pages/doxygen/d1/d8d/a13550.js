@@ -1,13 +1,13 @@
 var a13550 =
 [
-    [ "npc_lord_gregor_lescovarAI", "d1/d8d/a13550.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
-    [ "DoGuardsDisappearAndDie", "d1/d8d/a13550.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
-    [ "EnterEvadeMode", "d1/d8d/a13550.html#a95e60614808191e4c1f909f5e38e4741", null ],
-    [ "JustEngagedWith", "d1/d8d/a13550.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
-    [ "Reset", "d1/d8d/a13550.html#a06df695e9acd96b07f4e58c9461a708c", null ],
-    [ "UpdateAI", "d1/d8d/a13550.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
-    [ "WaypointReached", "d1/d8d/a13550.html#ad91850dc72d0307e28b881717bfba6db", null ],
-    [ "MarzonGUID", "d1/d8d/a13550.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
-    [ "uiPhase", "d1/d8d/a13550.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
-    [ "uiTimer", "d1/d8d/a13550.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
+    [ "npc_ravenclaw_apparitionAI", "d1/d8d/a13550.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
+    [ "EmoteCrowd", "d1/d8d/a13550.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
+    [ "JustDied", "d1/d8d/a13550.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
+    [ "JustSummoned", "d1/d8d/a13550.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
+    [ "SummonCrowd", "d1/d8d/a13550.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
+    [ "UpdateAI", "d1/d8d/a13550.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
+    [ "events", "d1/d8d/a13550.html#a27522107b5e1f54909294f800f26663f", null ],
+    [ "HasEnded", "d1/d8d/a13550.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
+    [ "summons", "d1/d8d/a13550.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
+    [ "TalkRNG", "d1/d8d/a13550.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
 ];

@@ -1,7 +1,6 @@
 var a14626 =
 [
-    [ "OnRemove", "d2/d67/a14626.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "d2/d67/a14626.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "d2/d67/a14626.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "d2/d67/a14626.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "boss_salrammAI", "d5/da8/a14630.html", "d5/da8/a14630" ],
+    [ "boss_salramm", "d2/d67/a14626.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
+    [ "GetAI", "d2/d67/a14626.html#ab6b400f0d329d4def074d012de47f53d", null ]
 ];

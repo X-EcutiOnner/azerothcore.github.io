@@ -1,9 +1,9 @@
 var a03992 =
 [
-    [ "boss_drakos", "d0/d4e/a19250.html", "d0/d4e/a19250" ],
-    [ "boss_drakos::boss_drakosAI", "db/d57/a19254.html", "db/d57/a19254" ],
-    [ "npc_oculus_unstable_sphere", "d1/d44/a19258.html", "d1/d44/a19258" ],
-    [ "npc_oculus_unstable_sphere::npc_oculus_unstable_sphereAI", "d8/d36/a19262.html", "d8/d36/a19262" ],
+    [ "boss_drakos", "d1/d44/a19258.html", "d1/d44/a19258" ],
+    [ "boss_drakos::boss_drakosAI", "d8/d36/a19262.html", "d8/d36/a19262" ],
+    [ "npc_oculus_unstable_sphere", "d6/d4c/a19266.html", "d6/d4c/a19266" ],
+    [ "npc_oculus_unstable_sphere::npc_oculus_unstable_sphereAI", "da/da3/a19270.html", "da/da3/a19270" ],
     [ "SPELL_THUNDERING_STOMP", "d9/d0c/a03992.html#a49700fd50259585cfac2c788de5e00a8", null ],
     [ "DrakosNPCs", "d9/d0c/a03992.html#a9b6e942098b05e96df3467d6c45f057c", [
       [ "NPC_UNSTABLE_SPHERE", "d9/d0c/a03992.html#a9b6e942098b05e96df3467d6c45f057ca6fbda431676e3cb2a0fe335145f2d815", null ]
@@ -1979,6 +1979,9 @@ var a03992 =
       [ "SPELL_BLACK_HOLE_VISUAL2", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd", null ],
       [ "SPELL_BLACK_HOLE_PASSIVE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085", null ],
       [ "SPELL_BLACK_HOLE_EFFECT", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f", null ],
+      [ "SPELL_DARK_FIEND_APPEARANCE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0", null ],
+      [ "SPELL_DARK_FIEND_SECONDARY", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d", null ],
+      [ "SPELL_DARK_FIEND_TRIGGER", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca61f2d13d57b09aad7cd7437b32a1a1f8", null ],
       [ "SPELL_ARCHAEDAS_AWAKEN", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63", null ],
       [ "SPELL_AWAKEN_VAULT_WALKER", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e", null ],
       [ "SPELL_SOUL_CORRUPTION", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cadf9dc8cb0274ecae5a575b3aa8f5f87b", null ],

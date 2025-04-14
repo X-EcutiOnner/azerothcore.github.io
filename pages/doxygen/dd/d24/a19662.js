@@ -1,16 +1,6 @@
 var a19662 =
 [
-    [ "boss_runemaster_molgeimAI", "dd/d24/a19662.html#a9454bd0e95a5361baed5b186b1290606", null ],
-    [ "JustDied", "dd/d24/a19662.html#a98df9b6d86eb0cec19f3a32dbf79a0e1", null ],
-    [ "JustEngagedWith", "dd/d24/a19662.html#ade0ee9133e2d571015d7b0b2ea9d988b", null ],
-    [ "JustReachedHome", "dd/d24/a19662.html#add0ccdadc163490cb9d241aedb919cfc", null ],
-    [ "KilledUnit", "dd/d24/a19662.html#a1e1e8f4dbd450799135c8065d8229481", null ],
-    [ "Reset", "dd/d24/a19662.html#ae17903a98365dc462b6dfd13efb6c689", null ],
-    [ "SpellHit", "dd/d24/a19662.html#a35f83a6017a8c6a46334c5c65b3f62c4", null ],
-    [ "UpdateAI", "dd/d24/a19662.html#a7db3d0f2725fd8b7aff01d1f60aba5bd", null ],
-    [ "UpdatePhase", "dd/d24/a19662.html#adc700e8903de503260839c2d627d4b44", null ],
-    [ "_phase", "dd/d24/a19662.html#a47a958b930d898627bcbde9a1b0426e6", null ],
-    [ "events", "dd/d24/a19662.html#a626a84eca5840ba0851aa6bc151e5277", null ],
-    [ "pInstance", "dd/d24/a19662.html#a422e7c2e139483cd377856bf3357b6a3", null ],
-    [ "summons", "dd/d24/a19662.html#ad7b215ef95f6d37f94accf4d0e8a19e1", null ]
+    [ "CastRunesEvent", "dd/d24/a19662.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "dd/d24/a19662.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "dd/d24/a19662.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

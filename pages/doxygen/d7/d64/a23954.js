@@ -1,6 +1,6 @@
 var a23954 =
 [
-    [ "go_magtheridons_head", "d7/d64/a23954.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "d7/d64/a23954.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "d7/d64/a23954.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "go_beaconAI", "d5/d77/a23958.html", "d5/d77/a23958" ],
+    [ "go_beacon", "d7/d64/a23954.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "d7/d64/a23954.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

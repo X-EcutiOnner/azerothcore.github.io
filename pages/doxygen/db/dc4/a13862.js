@@ -1,5 +1,6 @@
 var a13862 =
 [
-    [ "at_zulgurub_entrance_speech", "db/dc4/a13862.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "db/dc4/a13862.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
+    [ "boss_hakkarAI", "db/d94/a13866.html", "db/d94/a13866" ],
+    [ "boss_hakkar", "db/dc4/a13862.html#a834bd1f223154fbf1be94bf43136da28", null ],
+    [ "GetAI", "db/dc4/a13862.html#aff3a089e30dcddfde4db372104153723", null ]
 ];

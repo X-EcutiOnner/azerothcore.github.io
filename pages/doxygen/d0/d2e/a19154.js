@@ -1,6 +1,6 @@
 var a19154 =
 [
-    [ "npc_alexstraszaAI", "dc/d85/a19158.html", "dc/d85/a19158" ],
-    [ "npc_alexstrasza", "d0/d2e/a19154.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
-    [ "GetAI", "d0/d2e/a19154.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
+    [ "npc_hover_diskAI", "dc/d85/a19158.html", "dc/d85/a19158" ],
+    [ "npc_hover_disk", "d0/d2e/a19154.html#af0ab534387a2af4e168915801ee855e5", null ],
+    [ "GetAI", "d0/d2e/a19154.html#adbe9285126089ca998e9b6360f42c553", null ]
 ];

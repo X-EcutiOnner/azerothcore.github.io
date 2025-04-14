@@ -1,6 +1,6 @@
 var a17178 =
 [
-    [ "npc_dark_nucleusAI", "da/d84/a17182.html", "da/d84/a17182" ],
-    [ "npc_dark_nucleus", "d5/dad/a17178.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "d5/dad/a17178.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "npc_blood_queen_lana_thelAI", "da/d84/a17182.html", "da/d84/a17182" ],
+    [ "npc_blood_queen_lana_thel", "d5/dad/a17178.html#a39adef3ae54efd4433805bd8ad4719be", null ],
+    [ "GetAI", "d5/dad/a17178.html#a02d928ac4ef1704cee2498ebe6533561", null ]
 ];

@@ -1,6 +1,6 @@
 var a23150 =
 [
-    [ "HandleApplyAura", "d0/daf/a23150.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d0/daf/a23150.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d0/daf/a23150.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "HandleEffectRemove", "d0/daf/a23150.html#ab4c215a735ead9959fd78972a6da72e4", null ],
+    [ "PrepareAuraScript", "d0/daf/a23150.html#a75be2f838d6773b619dfac80e32557b8", null ],
+    [ "Register", "d0/daf/a23150.html#a239068b4e4ad88b5be93a031043ad7ca", null ]
 ];

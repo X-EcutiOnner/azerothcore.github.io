@@ -1,8 +1,8 @@
 var a02807 =
 [
-    [ "boss_kazrogal", "da/d82/a14522.html", "da/d82/a14522" ],
-    [ "spell_mark_of_kazrogal", "d7/d27/a14526.html", "d7/d27/a14526" ],
-    [ "spell_mark_of_kazrogal_aura", "d7/d14/a14530.html", "d7/d14/a14530" ],
+    [ "boss_kazrogal", "d7/d14/a14530.html", "d7/d14/a14530" ],
+    [ "spell_mark_of_kazrogal", "d0/d1f/a14534.html", "d0/d1f/a14534" ],
+    [ "spell_mark_of_kazrogal_aura", "d2/dd0/a14538.html", "d2/dd0/a14538" ],
     [ "Sounds", "d9/daf/a02807.html#a378d5c1c6cef9f24f253a041e207663c", [
       [ "SOUND_ONDEATH", "d9/daf/a02807.html#a378d5c1c6cef9f24f253a041e207663ca58cd7625c6ee6018ac12a602b0cdbc9c", null ],
       [ "SOUND_VK_AGGRO", "dc/d5e/a02891.html#a378d5c1c6cef9f24f253a041e207663ca0edcc266fe5c93b2c8928b48e4e6743e", null ],
@@ -731,6 +731,9 @@ var a02807 =
       [ "SPELL_BLACK_HOLE_VISUAL2", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd", null ],
       [ "SPELL_BLACK_HOLE_PASSIVE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085", null ],
       [ "SPELL_BLACK_HOLE_EFFECT", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f", null ],
+      [ "SPELL_DARK_FIEND_APPEARANCE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0", null ],
+      [ "SPELL_DARK_FIEND_SECONDARY", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d", null ],
+      [ "SPELL_DARK_FIEND_TRIGGER", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca61f2d13d57b09aad7cd7437b32a1a1f8", null ],
       [ "SPELL_ARCHAEDAS_AWAKEN", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63", null ],
       [ "SPELL_AWAKEN_VAULT_WALKER", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e", null ],
       [ "SPELL_SOUL_CORRUPTION", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cadf9dc8cb0274ecae5a575b3aa8f5f87b", null ],

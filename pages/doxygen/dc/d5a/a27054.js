@@ -1,7 +1,6 @@
 var a27054 =
 [
-    [ "FilterTargets", "dc/d5a/a27054.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "dc/d5a/a27054.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "dc/d5a/a27054.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "dc/d5a/a27054.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "boss_taerarAI", "d9/dc9/a27058.html", "d9/dc9/a27058" ],
+    [ "boss_taerar", "dc/d5a/a27054.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "dc/d5a/a27054.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

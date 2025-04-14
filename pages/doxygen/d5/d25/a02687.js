@@ -1,8 +1,8 @@
 var a02687 =
 [
-    [ "boss_rajaxx", "d7/d4d/a14914.html", "d7/d4d/a14914" ],
-    [ "spell_rajaxx_thundercrash", "da/d7c/a14918.html", "da/d7c/a14918" ],
-    [ "npc_general_andorov", "d5/dee/a14922.html", "d5/dee/a14922" ],
+    [ "boss_rajaxx", "d5/dee/a14922.html", "d5/dee/a14922" ],
+    [ "spell_rajaxx_thundercrash", "d1/d32/a14926.html", "d1/d32/a14926" ],
+    [ "npc_general_andorov", "d9/d5a/a14930.html", "d9/d5a/a14930" ],
     [ "AndorovMisc", "d5/d25/a02687.html#adfc3eda6f1c0f62c59171b07b63a3b70", [
       [ "FACTION_ANDOROV_ESCORT", "d5/d25/a02687.html#adfc3eda6f1c0f62c59171b07b63a3b70a5f587733fae72c0e10bf101bdf781343", null ],
       [ "SPELL_AURA_OF_COMMAND", "d5/d25/a02687.html#adfc3eda6f1c0f62c59171b07b63a3b70a66c411861d5bf2a38581a29d3e18ddbc", null ],
@@ -1986,6 +1986,9 @@ var a02687 =
       [ "SPELL_BLACK_HOLE_VISUAL2", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd", null ],
       [ "SPELL_BLACK_HOLE_PASSIVE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085", null ],
       [ "SPELL_BLACK_HOLE_EFFECT", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f", null ],
+      [ "SPELL_DARK_FIEND_APPEARANCE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0", null ],
+      [ "SPELL_DARK_FIEND_SECONDARY", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d", null ],
+      [ "SPELL_DARK_FIEND_TRIGGER", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca61f2d13d57b09aad7cd7437b32a1a1f8", null ],
       [ "SPELL_ARCHAEDAS_AWAKEN", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63", null ],
       [ "SPELL_AWAKEN_VAULT_WALKER", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e", null ],
       [ "SPELL_SOUL_CORRUPTION", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cadf9dc8cb0274ecae5a575b3aa8f5f87b", null ],

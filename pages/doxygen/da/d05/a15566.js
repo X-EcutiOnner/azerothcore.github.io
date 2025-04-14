@@ -1,9 +1,7 @@
 var a15566 =
 [
-    [ "npc_pluckyAI", "da/d05/a15566.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "da/d05/a15566.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "da/d05/a15566.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "da/d05/a15566.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "da/d05/a15566.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "da/d05/a15566.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "npc_paoka_swiftmountainAI", "da/d05/a15566.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "da/d05/a15566.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "da/d05/a15566.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "da/d05/a15566.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
 ];

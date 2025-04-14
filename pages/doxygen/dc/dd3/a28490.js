@@ -1,10 +1,6 @@
 var a28490 =
 [
-    [ "Exception", "dc/dd3/a28490.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "dc/dd3/a28490.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "Exception", "dc/dd3/a28490.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "dc/dd3/a28490.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "getMessage", "dc/dd3/a28490.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "getMessage", "dc/dd3/a28490.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "message", "dc/dd3/a28490.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
+    [ "OffsetAttributes", "dc/dd3/a28490.html#a072918c298b316823e784c2e5779be2a", null ],
+    [ "OffsetInstances", "dc/dd3/a28490.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
+    [ "used", "dc/dd3/a28490.html#a20a458e613639ea26255dd772824a642", null ]
 ];

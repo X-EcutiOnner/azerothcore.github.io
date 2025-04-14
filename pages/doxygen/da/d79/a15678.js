@@ -1,11 +1,13 @@
 var a15678 =
 [
-    [ "npc_amanitar_mushrooms", "da/d79/a15678.html#ad5603426c71c107ff439cea2efeea3f9", null ],
-    [ "AttackStart", "da/d79/a15678.html#a0cc90c924a12a8be32c78e76ca798943", null ],
-    [ "DamageTaken", "da/d79/a15678.html#a4c21a448535e1fc0f0116257194b9732", null ],
-    [ "EnterEvadeMode", "da/d79/a15678.html#ae17ee367c9d206868c7dfc64d438806a", null ],
-    [ "JustEngagedWith", "da/d79/a15678.html#ac50bf479e8c891af432cfccdf9d49c55", null ],
-    [ "Reset", "da/d79/a15678.html#ae597d5a64765f5304773f9a38e9c719a", null ],
-    [ "UpdateAI", "da/d79/a15678.html#ae71058353be43935aa45eb28eb41170f", null ],
-    [ "events", "da/d79/a15678.html#a0be93d15582a5511963721510652e76d", null ]
+    [ "npc_shadowpriest_sezzizAI", "da/d79/a15678.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
+    [ "AttackStart", "da/d79/a15678.html#a8278a73501ea33164cbdef8599144f4a", null ],
+    [ "Reset", "da/d79/a15678.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
+    [ "UpdateAI", "da/d79/a15678.html#a1c0236b52d4cd87634659991e0dfc728", null ],
+    [ "_missingHPForHealTimer", "da/d79/a15678.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
+    [ "_missingHPForRenewTimer", "da/d79/a15678.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
+    [ "_physicScreemTimer", "da/d79/a15678.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
+    [ "_shadowBoltTimer", "da/d79/a15678.html#a34a18991ff2c0aafac15694ed9667193", null ],
+    [ "_summmonAddsCount", "da/d79/a15678.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
+    [ "_summonAddsTimer", "da/d79/a15678.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
 ];

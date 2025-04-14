@@ -1,7 +1,8 @@
 var a19862 =
 [
-    [ "FilterTargets", "d7/d8f/a19862.html#a3d864f0428b7e53774d06069037ca5b2", null ],
-    [ "HandleScript", "d7/d8f/a19862.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
-    [ "PrepareSpellScript", "d7/d8f/a19862.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
-    [ "Register", "d7/d8f/a19862.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
+    [ "OnApply", "d7/d8f/a19862.html#a5aec8606684637bbdb1e819254f5d483", null ],
+    [ "OnRemove", "d7/d8f/a19862.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
+    [ "PrepareAuraScript", "d7/d8f/a19862.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
+    [ "Register", "d7/d8f/a19862.html#af1db6ca387cf0733ba4b9c324172d692", null ],
+    [ "Validate", "d7/d8f/a19862.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
 ];

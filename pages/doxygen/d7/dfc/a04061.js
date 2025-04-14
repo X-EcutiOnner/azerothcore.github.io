@@ -1,7 +1,7 @@
 var a04061 =
 [
-    [ "OutdoorPvPGH", "dd/dc1/a22402.html", "dd/dc1/a22402" ],
-    [ "OPvPCapturePointGH", "d6/d1e/a22406.html", "d6/d1e/a22406" ],
+    [ "OutdoorPvPGH", "d4/dca/a22410.html", "d4/dca/a22410" ],
+    [ "OPvPCapturePointGH", "da/dd7/a22414.html", "da/dd7/a22414" ],
     [ "OutdoorPvPGHenum", "d7/dfc/a04061.html#a68fd4e51a6ab53a5f6bc93fe7800623b", [
       [ "GH_ALLIANCE_DEFENSE_EVENT", "d7/dfc/a04061.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3", null ],
       [ "GH_HORDE_DEFENSE_EVENT", "d7/dfc/a04061.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10", null ],

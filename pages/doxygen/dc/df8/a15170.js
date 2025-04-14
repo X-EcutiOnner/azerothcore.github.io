@@ -1,16 +1,13 @@
 var a15170 =
 [
-    [ "npc_muglashAI", "dc/df8/a15170.html#af1988703aaaac04e5853c33e5b915ca2", null ],
-    [ "DoAction", "dc/df8/a15170.html#afba6c4441ff4da54f89709b3c2bcd4d4", null ],
-    [ "DoWaveSummon", "dc/df8/a15170.html#aaf862468f5ba0c6f99056a81a472c6e2", null ],
-    [ "JustDied", "dc/df8/a15170.html#a5936dd183091c462e4835a00f81020f5", null ],
-    [ "JustEngagedWith", "dc/df8/a15170.html#a587c8cb4562e93cecccb20e93cabba05", null ],
-    [ "JustSummoned", "dc/df8/a15170.html#a07e451149dbf6b72e01f94dc8f07edf3", null ],
-    [ "Reset", "dc/df8/a15170.html#a98933c32f2550989356b3e876d302b88", null ],
-    [ "sQuestAccept", "dc/df8/a15170.html#a6c93a53a7b8bcd200ebca0e9d366f6fe", null ],
-    [ "UpdateAI", "dc/df8/a15170.html#a6b479f50428536997faef96e510dbd84", null ],
-    [ "WaypointReached", "dc/df8/a15170.html#a8f91b74c0d8778a73e0bc95dce339f2b", null ],
-    [ "_isBrazierExtinguished", "dc/df8/a15170.html#aeec098d6a65b6852598a4e4b6888a410", null ],
-    [ "eventTimer", "dc/df8/a15170.html#a548e142bb509b4606b6fcf98d926cd44", null ],
-    [ "waveId", "dc/df8/a15170.html#a06c0af398e53b5ea6bfd6fa80256f845", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "dc/df8/a15170.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
+    [ "GetData", "dc/df8/a15170.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
+    [ "Initialize", "dc/df8/a15170.html#a870ab2322971767fa37986743b31d20c", null ],
+    [ "OnCreatureCreate", "dc/df8/a15170.html#aed3807432711105589d0b060a21836cc", null ],
+    [ "ReadSaveDataMore", "dc/df8/a15170.html#ad348102f71e070e7ef12da62238c7b0f", null ],
+    [ "SetData", "dc/df8/a15170.html#a0333b4728e9288937711174743f19f60", null ],
+    [ "WriteSaveDataMore", "dc/df8/a15170.html#a78bece51279e3f9e62800e4d80b00f64", null ],
+    [ "_encounters", "dc/df8/a15170.html#a0f049806007e59363418d4e39f9e389b", null ],
+    [ "DiscipleOfNaralexGUID", "dc/df8/a15170.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
+    [ "SerpentisGUID", "dc/df8/a15170.html#a7ba205e4988a20404f5e597331dd5d56", null ]
 ];

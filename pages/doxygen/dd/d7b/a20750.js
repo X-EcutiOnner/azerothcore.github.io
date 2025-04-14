@@ -1,9 +1,6 @@
 var a20750 =
 [
-    [ "boss_yoggsaron_keeper", "dd/d7b/a20750.html#ad2098933656371b1bf80ec3ea859c418", null ],
-    [ "DoAction", "dd/d7b/a20750.html#a9e3d251810b55072458003356213ae15", null ],
-    [ "JustEngagedWith", "dd/d7b/a20750.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
-    [ "JustSummoned", "dd/d7b/a20750.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
-    [ "UpdateAI", "dd/d7b/a20750.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
-    [ "_summons", "dd/d7b/a20750.html#aa840eff5f3d8b24225046113737936b4", null ]
+    [ "boss_yoggsaron_constrictor_tentacleAI", "d0/dd6/a20754.html", "d0/dd6/a20754" ],
+    [ "boss_yoggsaron_constrictor_tentacle", "dd/d7b/a20750.html#a131809f1c691e55a33863caf6fe0c5dc", null ],
+    [ "GetAI", "dd/d7b/a20750.html#ac469d5661eb664c73bf5ab38084cb03e", null ]
 ];

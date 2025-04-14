@@ -1,6 +1,6 @@
 var a21998 =
 [
-    [ "ChangeSummonPos", "d6/d9b/a21998.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "d6/d9b/a21998.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "d6/d9b/a21998.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "npc_infra_green_bomber_genericAI", "d5/def/a22002.html", "d5/def/a22002" ],
+    [ "npc_infra_green_bomber_generic", "d6/d9b/a21998.html#a39134a09376c35f15e99377cd28ac6ff", null ],
+    [ "GetAI", "d6/d9b/a21998.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
 ];

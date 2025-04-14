@@ -1,6 +1,6 @@
 var a14646 =
 [
-    [ "npc_cos_chromie_start", "df/ded/a14646.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "df/ded/a14646.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
-    [ "OnQuestAccept", "df/ded/a14646.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
+    [ "npc_crate_helperAI", "d8/de4/a14650.html", "d8/de4/a14650" ],
+    [ "npc_crate_helper", "df/ded/a14646.html#ae08751928234656dcda84dd5c7e4cc37", null ],
+    [ "GetAI", "df/ded/a14646.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
 ];

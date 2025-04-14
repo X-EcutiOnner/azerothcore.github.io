@@ -1,5 +1,6 @@
 var a23886 =
 [
-    [ "go_simon_cluster", "d6/d3d/a23886.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "d6/d3d/a23886.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "npc_simon_bunnyAI", "d6/d23/a23890.html", "d6/d23/a23890" ],
+    [ "npc_simon_bunny", "d6/d3d/a23886.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
+    [ "GetAI", "d6/d3d/a23886.html#ac0c97609916321a1599c0722803a050f", null ]
 ];

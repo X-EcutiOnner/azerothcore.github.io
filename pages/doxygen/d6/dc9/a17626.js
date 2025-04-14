@@ -1,10 +1,22 @@
 var a17626 =
 [
-    [ "npc_cult_fanaticAI", "d6/dc9/a17626.html#a766e536288b84110f88a8bd282e97932", null ],
-    [ "JustEngagedWith", "d6/dc9/a17626.html#a709b75f4b1519bc7c6988985a22d076f", null ],
-    [ "Reset", "d6/dc9/a17626.html#a772830df1d16d0463c8c00f14c337db0", null ],
-    [ "SpellHit", "d6/dc9/a17626.html#a17c02a83b522c9717de3d89517104e42", null ],
-    [ "UpdateAI", "d6/dc9/a17626.html#ac79afdab3721d78d2b7e5da360083cea", null ],
-    [ "_instance", "d6/dc9/a17626.html#a7448fdf85cccfcb12509b0274205bff4", null ],
-    [ "events", "d6/dc9/a17626.html#a9576978141062fa1babbbc5ed42483c4", null ]
+    [ "boss_lady_deathwhisperAI", "d6/dc9/a17626.html#a277180410090d1857bcc8962e22d965d", null ],
+    [ "AttackStart", "d6/dc9/a17626.html#a95268fc3088ecb1e0689bc502389eed1", null ],
+    [ "DamageTaken", "d6/dc9/a17626.html#a929dea6ce420f201341a20ab5d9273ed", null ],
+    [ "DoAction", "d6/dc9/a17626.html#a563f30e5e2a46c514cb114ef72dfa9e8", null ],
+    [ "EmpowerCultist", "d6/dc9/a17626.html#afc8a2df592e16bbac65a7aee4e6c7c95", null ],
+    [ "JustDied", "d6/dc9/a17626.html#a974094ecbdc1149ca3d1eec9211438df", null ],
+    [ "JustEngagedWith", "d6/dc9/a17626.html#ac56045f2aa26423bd69e97d8f279cf5e", null ],
+    [ "JustSummoned", "d6/dc9/a17626.html#a6ab4dc86911debb47e9d1784cb65dbb8", null ],
+    [ "KilledUnit", "d6/dc9/a17626.html#a325834b73d181e0506e1ea40380cddac", null ],
+    [ "Reset", "d6/dc9/a17626.html#a7eec8900602522cf39dd3a8dba733649", null ],
+    [ "SpellHitTarget", "d6/dc9/a17626.html#a868b18df67744868a8f694e7df7f1e66", null ],
+    [ "Summon", "d6/dc9/a17626.html#a933a9e13ca59d1d1049038f9f182470b", null ],
+    [ "SummonedCreatureDespawn", "d6/dc9/a17626.html#aa630ff1884cf1ebaa189c094d2278a1f", null ],
+    [ "SummonWaveP1", "d6/dc9/a17626.html#ad0cf8e10b041409868b8b75558f07e1b", null ],
+    [ "SummonWaveP2", "d6/dc9/a17626.html#a72971bdfe394da6fe94ce340143ab060", null ],
+    [ "UpdateAI", "d6/dc9/a17626.html#af602295a448fca10719861983a567d99", null ],
+    [ "_darnavanGUID", "d6/dc9/a17626.html#af4f251406b3a4ae3db32e83005993dfa", null ],
+    [ "_introDone", "d6/dc9/a17626.html#a162870aad6c99276f760b2e37b42c6c9", null ],
+    [ "_waveCounter", "d6/dc9/a17626.html#ab2819e4ade2c7a07d1d0a67d86063f16", null ]
 ];

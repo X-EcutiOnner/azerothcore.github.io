@@ -1,7 +1,5 @@
 var a18778 =
 [
-    [ "DelayedCastMincharEvent", "db/d3c/a18778.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "db/d3c/a18778.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "db/d3c/a18778.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "db/d3c/a18778.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "creatureEntry", "db/d3c/a18778.html#afab12c40af70303dff2a9553d47dbb7d", null ],
+    [ "questId", "db/d3c/a18778.html#ace2a7dd58d442b6afb2173311c89593b", null ]
 ];

@@ -1,6 +1,6 @@
 var a27030 =
 [
-    [ "npc_spirit_shadeAI", "d2/dda/a27034.html", "d2/dda/a27034" ],
-    [ "npc_spirit_shade", "d6/dbc/a27030.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "d6/dbc/a27030.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "boss_lethonAI", "d2/dda/a27034.html", "d2/dda/a27034" ],
+    [ "boss_lethon", "d6/dbc/a27030.html#a5d758979b061646830373de64b2b3af4", null ],
+    [ "GetAI", "d6/dbc/a27030.html#a493baf37aac400635dd0409e79375a1c", null ]
 ];

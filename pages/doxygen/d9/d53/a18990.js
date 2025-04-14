@@ -1,6 +1,6 @@
 var a18990 =
 [
-    [ "boss_maexxna_webwrapAI", "dd/d36/a18994.html", "dd/d36/a18994" ],
-    [ "boss_maexxna_webwrap", "d9/d53/a18990.html#afebd8c00234fe6cdd93af8ae443bb637", null ],
-    [ "GetAI", "d9/d53/a18990.html#a6d86d58a86b831a219ecc598044be4f3", null ]
+    [ "boss_maexxnaAI", "dd/d36/a18994.html", "dd/d36/a18994" ],
+    [ "boss_maexxna", "d9/d53/a18990.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
+    [ "GetAI", "d9/d53/a18990.html#ab438df4cb61625da35552ca7c867dc64", null ]
 ];

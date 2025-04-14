@@ -1,6 +1,5 @@
 var a20482 =
 [
-    [ "boss_thorimAI", "d0/d6b/a20486.html", "d0/d6b/a20486" ],
-    [ "boss_thorim", "d9/d3e/a20482.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
-    [ "GetAI", "d9/d3e/a20482.html#a70895451317569f50adc11474e653515", null ]
+    [ "achievement_quick_shave", "d9/d3e/a20482.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
+    [ "OnCheck", "d9/d3e/a20482.html#a151c479da3d4cec05999ad8a249b100c", null ]
 ];

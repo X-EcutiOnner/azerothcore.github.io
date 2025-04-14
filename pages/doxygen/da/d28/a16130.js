@@ -1,6 +1,6 @@
 var a16130 =
 [
-    [ "FilterTargets", "da/d28/a16130.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "da/d28/a16130.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "da/d28/a16130.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "npc_argent_soldierAI", "d6/d36/a16134.html", "d6/d36/a16134" ],
+    [ "npc_argent_soldier", "da/d28/a16130.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
+    [ "GetAI", "da/d28/a16130.html#adfeed3d533104b9617dfbb06925a3d44", null ]
 ];

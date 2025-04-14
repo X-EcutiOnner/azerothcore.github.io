@@ -1,6 +1,6 @@
 var a19726 =
 [
-    [ "FilterTargets", "d1/d41/a19726.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "d1/d41/a19726.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "d1/d41/a19726.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "npc_auriaya_feral_defenderAI", "d3/dff/a19730.html", "d3/dff/a19730" ],
+    [ "npc_auriaya_feral_defender", "d1/d41/a19726.html#ae1afc396a1d9e6c9c2042ee0f58fb270", null ],
+    [ "GetAI", "d1/d41/a19726.html#abec35e280e42154af82f3e7e4fcec48d", null ]
 ];

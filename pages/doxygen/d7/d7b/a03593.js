@@ -1,11 +1,11 @@
 var a03593 =
 [
-    [ "boss_toravon", "d4/d5c/a21158.html", "d4/d5c/a21158" ],
-    [ "boss_toravon::boss_toravonAI", "d5/d0e/a21162.html", "d5/d0e/a21162" ],
-    [ "npc_frozen_orb", "d0/d28/a21166.html", "d0/d28/a21166" ],
-    [ "npc_frozen_orb::npc_frozen_orbAI", "dc/d38/a21170.html", "dc/d38/a21170" ],
-    [ "npc_frozen_orb_stalker", "d1/d86/a21174.html", "d1/d86/a21174" ],
-    [ "npc_frozen_orb_stalker::npc_frozen_orb_stalkerAI", "df/da0/a21178.html", "df/da0/a21178" ],
+    [ "boss_toravon", "d0/d28/a21166.html", "d0/d28/a21166" ],
+    [ "boss_toravon::boss_toravonAI", "dc/d38/a21170.html", "dc/d38/a21170" ],
+    [ "npc_frozen_orb", "d1/d86/a21174.html", "d1/d86/a21174" ],
+    [ "npc_frozen_orb::npc_frozen_orbAI", "df/da0/a21178.html", "df/da0/a21178" ],
+    [ "npc_frozen_orb_stalker", "dc/d68/a21182.html", "dc/d68/a21182" ],
+    [ "npc_frozen_orb_stalker::npc_frozen_orb_stalkerAI", "d9/dd0/a21186.html", "d9/dd0/a21186" ],
     [ "Events", "d7/d7b/a03593.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/dfb/a03122.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/dfb/a03122.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -1977,6 +1977,9 @@ var a03593 =
       [ "SPELL_BLACK_HOLE_VISUAL2", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd", null ],
       [ "SPELL_BLACK_HOLE_PASSIVE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085", null ],
       [ "SPELL_BLACK_HOLE_EFFECT", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f", null ],
+      [ "SPELL_DARK_FIEND_APPEARANCE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0", null ],
+      [ "SPELL_DARK_FIEND_SECONDARY", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d", null ],
+      [ "SPELL_DARK_FIEND_TRIGGER", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca61f2d13d57b09aad7cd7437b32a1a1f8", null ],
       [ "SPELL_ARCHAEDAS_AWAKEN", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63", null ],
       [ "SPELL_AWAKEN_VAULT_WALKER", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e", null ],
       [ "SPELL_SOUL_CORRUPTION", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cadf9dc8cb0274ecae5a575b3aa8f5f87b", null ],

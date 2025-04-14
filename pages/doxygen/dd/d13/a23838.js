@@ -1,8 +1,11 @@
 var a23838 =
 [
-    [ "instance_mechanar_InstanceMapScript", "dd/d13/a23838.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "dd/d13/a23838.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "dd/d13/a23838.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "dd/d13/a23838.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "dd/d13/a23838.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "boss_pathaleon_the_calculator", "dd/d13/a23838.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "dd/d13/a23838.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "dd/d13/a23838.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "dd/d13/a23838.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "dd/d13/a23838.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "dd/d13/a23838.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "dd/d13/a23838.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "dd/d13/a23838.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

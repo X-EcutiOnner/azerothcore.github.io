@@ -1,5 +1,5 @@
 var a26990 =
 [
-    [ "AreaTrigger_at_sentry_point", "d5/dcc/a26990.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "d5/dcc/a26990.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "AreaTrigger_at_last_rites", "d5/dcc/a26990.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
+    [ "OnTrigger", "d5/dcc/a26990.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
 ];

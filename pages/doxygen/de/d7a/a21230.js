@@ -1,6 +1,6 @@
 var a21230 =
 [
-    [ "boss_lavanthorAI", "d8/df3/a21234.html", "d8/df3/a21234" ],
-    [ "boss_lavanthor", "de/d7a/a21230.html#aa935ffe07f59db59b9b8484f22927026", null ],
-    [ "GetAI", "de/d7a/a21230.html#aae09ecbe56efac6538bdfb6120e0be40", null ]
+    [ "npc_ichor_globuleAI", "d8/df3/a21234.html", "d8/df3/a21234" ],
+    [ "npc_ichor_globule", "de/d7a/a21230.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
+    [ "GetAI", "de/d7a/a21230.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
 ];

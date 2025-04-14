@@ -1,13 +1,7 @@
 var a15486 =
 [
-    [ "npc_aquementasAI", "d3/d67/a15486.html#aad63986cdb8a65c528af3ccd114d2041", null ],
-    [ "JustEngagedWith", "d3/d67/a15486.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
-    [ "Reset", "d3/d67/a15486.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
-    [ "SendItem", "d3/d67/a15486.html#a60bafbd70783411236dcf3d0bfe244de", null ],
-    [ "UpdateAI", "d3/d67/a15486.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
-    [ "AquaJetTimer", "d3/d67/a15486.html#a8506acc69436af869d1404bd95109e68", null ],
-    [ "FrostShockTimer", "d3/d67/a15486.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
-    [ "isFriendly", "d3/d67/a15486.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
-    [ "SendItemTimer", "d3/d67/a15486.html#a3a0883b43056b176ef2ae55673adacf3", null ],
-    [ "SwitchFactionTimer", "d3/d67/a15486.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
+    [ "npc_kaya_flathoofAI", "d3/d67/a15486.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "d3/d67/a15486.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "d3/d67/a15486.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "d3/d67/a15486.html#a8fcbb19279b925138ba96d2a450fc404", null ]
 ];

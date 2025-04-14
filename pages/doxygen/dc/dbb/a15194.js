@@ -1,14 +1,11 @@
 var a15194 =
 [
-    [ "npc_draenei_survivorAI", "dc/dbb/a15194.html#a8766dcf9afd6d26d619bead82b549a8f", null ],
-    [ "JustEngagedWith", "dc/dbb/a15194.html#a6d0b790ad7466b14bf0bba0aa37eebf2", null ],
-    [ "MoveInLineOfSight", "dc/dbb/a15194.html#a2b3f0a595fde04ad1e054331a596e225", null ],
-    [ "Reset", "dc/dbb/a15194.html#a3db19a846ce3b4810321eb02d314633f", null ],
-    [ "SpellHit", "dc/dbb/a15194.html#a079789d2f6a03b1c7b0ac7dc43a2550a", null ],
-    [ "UpdateAI", "dc/dbb/a15194.html#aa3fd8e3747fa69b5156e932fddaf6fa7", null ],
-    [ "CanSayHelp", "dc/dbb/a15194.html#a6bf8c4eb06fe661da0c850424843bd42", null ],
-    [ "pCaster", "dc/dbb/a15194.html#a35ad8350e51fd520b75cd0289f19cb09", null ],
-    [ "RunAwayTimer", "dc/dbb/a15194.html#a233885b12615bfbc927d8845d0cff3fd", null ],
-    [ "SayHelpTimer", "dc/dbb/a15194.html#a8d77b110c6af6615d5d39e0870cbe890", null ],
-    [ "SayThanksTimer", "dc/dbb/a15194.html#a4f2d829af97d6fb5ef13e3922ebe99e8", null ]
+    [ "npc_depth_chargeAI", "dc/dbb/a15194.html#a088848c16418964973107e125c20f508", null ],
+    [ "AttackStart", "dc/dbb/a15194.html#a1ec6e2ea0cc61262932f63f764273cdb", null ],
+    [ "JustEngagedWith", "dc/dbb/a15194.html#a90cc6eab8b63588f2567f59941eafc59", null ],
+    [ "MoveInLineOfSight", "dc/dbb/a15194.html#a8342b7fc7677ac94757c725ec4063e9e", null ],
+    [ "Reset", "dc/dbb/a15194.html#aaccf632a50749c0f6d6f29bb1b1bf5a4", null ],
+    [ "UpdateAI", "dc/dbb/a15194.html#af34e55c3aee40f840edf695adc06495e", null ],
+    [ "WeMustDie", "dc/dbb/a15194.html#a7b25b1228cf5029f1ebe653c76cf9843", null ],
+    [ "WeMustDieTimer", "dc/dbb/a15194.html#a23e4f1f7079d12e78c74c21171d95cc7", null ]
 ];

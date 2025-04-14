@@ -1,18 +1,10 @@
 var a27470 =
 [
-    [ "npc_doctorAI", "d0/dda/a27470.html#a8efc303041393347eaaf38aff05f7b9c", null ],
-    [ "BeginEvent", "d0/dda/a27470.html#a1439b4eb147700ca493dc5eaa1e2d5a4", null ],
-    [ "JustEngagedWith", "d0/dda/a27470.html#aca786ccf8cf99d7ba49a08046147f121", null ],
-    [ "PatientDied", "d0/dda/a27470.html#ad3e2a36e774d2dbd2a6779d8fb19ea88", null ],
-    [ "PatientSaved", "d0/dda/a27470.html#af8a61f187f6bd57b98d8bf4c8c45e494", null ],
-    [ "Reset", "d0/dda/a27470.html#af2d84b163d41b1b32e191200f54085c2", null ],
-    [ "UpdateAI", "d0/dda/a27470.html#abe156e2303a9c743fa66b4f82808c707", null ],
-    [ "Coordinates", "d0/dda/a27470.html#acda1ada9d7868bfd93ceaaa39f82731b", null ],
-    [ "Event", "d0/dda/a27470.html#ad558d5c0a5fe07904445e893c09be980", null ],
-    [ "PatientDiedCount", "d0/dda/a27470.html#a0774874d9d75feb8d8bf6ce201e719d9", null ],
-    [ "Patients", "d0/dda/a27470.html#a75cd1e01322c09204ffe54cd92ad9543", null ],
-    [ "PatientSavedCount", "d0/dda/a27470.html#abeda2ee514c6ed1544a7e27955fc86b8", null ],
-    [ "PlayerGUID", "d0/dda/a27470.html#a97e2b2bd8a750817f23c51d36c49ae1c", null ],
-    [ "SummonPatientCount", "d0/dda/a27470.html#a320c2e32c5003e880f7567c89db8ca8c", null ],
-    [ "SummonPatientTimer", "d0/dda/a27470.html#adb9cd2ed50dd02f88c4f375a0be8ee89", null ]
+    [ "npc_dancing_flamesAI", "d0/dda/a27470.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "d0/dda/a27470.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "d0/dda/a27470.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "d0/dda/a27470.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "d0/dda/a27470.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "d0/dda/a27470.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "d0/dda/a27470.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

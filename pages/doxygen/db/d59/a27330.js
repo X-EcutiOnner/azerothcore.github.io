@@ -1,6 +1,6 @@
 var a27330 =
 [
-    [ "npc_innkeeper", "db/d59/a27330.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "db/d59/a27330.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "db/d59/a27330.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "trigger_periodicAI", "d2/da4/a27334.html", "d2/da4/a27334" ],
+    [ "trigger_periodic", "db/d59/a27330.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
+    [ "GetAI", "db/d59/a27330.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
 ];

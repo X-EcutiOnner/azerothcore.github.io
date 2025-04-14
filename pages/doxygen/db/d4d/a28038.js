@@ -1,4 +1,6 @@
 var a28038 =
 [
-    [ "ratio", "db/d4d/a28038.html#abd6f48f1ad2826ae1c3c782337bac618", null ]
+    [ "Id", "db/d4d/a28038.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "db/d4d/a28038.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "db/d4d/a28038.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

@@ -1,7 +1,6 @@
 var a14650 =
 [
-    [ "npc_cos_chromie_middle", "d8/de4/a14650.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "d8/de4/a14650.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "d8/de4/a14650.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "d8/de4/a14650.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "npc_crate_helperAI", "d8/de4/a14650.html#ad58a2f3746da7862658fb3b9e1580836", null ],
+    [ "SpellHit", "d8/de4/a14650.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
+    [ "_marked", "d8/de4/a14650.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
 ];

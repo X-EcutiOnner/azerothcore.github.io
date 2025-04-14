@@ -1,9 +1,8 @@
 var a22642 =
 [
-    [ "npc_flame_of_azzinoth", "d5/d74/a22642.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
-    [ "IsSummonedBy", "d5/d74/a22642.html#a5254057af0371a08ea01fe91502c2a20", null ],
-    [ "JustEngagedWith", "d5/d74/a22642.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
-    [ "JustSummoned", "d5/d74/a22642.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
-    [ "UpdateAI", "d5/d74/a22642.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
-    [ "_bladeGUID", "d5/d74/a22642.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
+    [ "npc_parasitic_shadowfiend", "d5/d74/a22642.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
+    [ "CanAIAttack", "d5/d74/a22642.html#ac7600aed313f1413cb9b522d60d30329", null ],
+    [ "EnterEvadeMode", "d5/d74/a22642.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
+    [ "IsSummonedBy", "d5/d74/a22642.html#a306c696d4243c4525d0a3908a212135d", null ],
+    [ "UpdateAI", "d5/d74/a22642.html#a2706a4ba7876f299b02d2e720f512af2", null ]
 ];

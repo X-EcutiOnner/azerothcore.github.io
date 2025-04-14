@@ -1,6 +1,9 @@
 var a22042 =
 [
-    [ "npc_artruis_the_hearthlessAI", "dd/d1c/a22046.html", "dd/d1c/a22046" ],
-    [ "npc_artruis_the_hearthless", "dd/d1b/a22042.html#abeed70f4306113bd5df242eae91bfdb0", null ],
-    [ "GetAI", "dd/d1b/a22042.html#a1a7674c5e3e9e0de848bfb0d906ac06c", null ]
+    [ "npc_frostbrood_skytalonAI", "dd/d1b/a22042.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "dd/d1b/a22042.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "dd/d1b/a22042.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "dd/d1b/a22042.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "dd/d1b/a22042.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "dd/d1b/a22042.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

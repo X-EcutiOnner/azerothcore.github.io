@@ -1,6 +1,7 @@
 var a19106 =
 [
-    [ "boss_malygosAI", "d4/d8e/a19110.html", "d4/d8e/a19110" ],
-    [ "boss_malygos", "df/d71/a19106.html#aeac3c63d4ccd2947a6f7e4c007dc6aa1", null ],
-    [ "GetAI", "df/d71/a19106.html#a9e1d821311fa8b92318a99ea79ddb1e3", null ]
+    [ "npc_naxxramas_trigger", "df/d71/a19106.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "df/d71/a19106.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "df/d71/a19106.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "df/d71/a19106.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

@@ -1,9 +1,9 @@
 var a26554 =
 [
-    [ "HandleHeal", "da/d87/a26554.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "da/d87/a26554.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "da/d87/a26554.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "da/d87/a26554.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "da/d87/a26554.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "da/d87/a26554.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "Absorb", "da/d87/a26554.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
+    [ "CalculateAmount", "da/d87/a26554.html#a820c27c2161063307a10903cbbc5c0fa", null ],
+    [ "Load", "da/d87/a26554.html#a7b71990051faaa083110408c13b8401f", null ],
+    [ "PrepareAuraScript", "da/d87/a26554.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
+    [ "Register", "da/d87/a26554.html#aa443ab0eed74229883884fbced0426d7", null ],
+    [ "absorbPct", "da/d87/a26554.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
 ];

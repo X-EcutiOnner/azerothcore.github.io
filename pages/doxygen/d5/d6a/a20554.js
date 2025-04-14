@@ -1,6 +1,6 @@
 var a20554 =
 [
-    [ "boss_thorim_ancient_rune_giantAI", "d0/d7a/a20558.html", "d0/d7a/a20558" ],
-    [ "boss_thorim_ancient_rune_giant", "d5/d6a/a20554.html#ad87dca7c6058e4b8b1234410644523dd", null ],
-    [ "GetAI", "d5/d6a/a20554.html#aa8a0ff1416d5678a5d6bb7bdc36d6617", null ]
+    [ "boss_thorim_runic_colossusAI", "d0/d7a/a20558.html", "d0/d7a/a20558" ],
+    [ "boss_thorim_runic_colossus", "d5/d6a/a20554.html#a2ea1c08a98b689cd6c766578e98a3191", null ],
+    [ "GetAI", "d5/d6a/a20554.html#a6d64427ff427a1054e10c9d987b77f53", null ]
 ];

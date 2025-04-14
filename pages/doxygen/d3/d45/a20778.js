@@ -1,6 +1,6 @@
 var a20778 =
 [
-    [ "boss_yoggsaron_lich_kingAI", "db/d1c/a20782.html", "db/d1c/a20782" ],
-    [ "boss_yoggsaron_lich_king", "d3/d45/a20778.html#a1655d608683e90ccafd350204eed2d31", null ],
-    [ "GetAI", "d3/d45/a20778.html#aa65cd9c9eafba12ae065903868ee5319", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "db/d1c/a20782.html", "db/d1c/a20782" ],
+    [ "boss_yoggsaron_immortal_guardian", "d3/d45/a20778.html#a4009759d284b54cb958ee0bb80c45f14", null ],
+    [ "GetAI", "d3/d45/a20778.html#ac532ca090d93ce6d11a0332329111f2b", null ]
 ];

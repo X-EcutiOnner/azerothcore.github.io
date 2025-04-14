@@ -1,7 +1,7 @@
 var a04184 =
 [
-    [ "boss_anzu", "da/de5/a22534.html", "da/de5/a22534" ],
-    [ "npc_anzu_spirit", "d6/d1d/a22538.html", "d6/d1d/a22538" ],
+    [ "boss_anzu", "de/dcc/a22542.html", "de/dcc/a22542" ],
+    [ "npc_anzu_spirit", "de/d5a/a22546.html", "de/d5a/a22546" ],
     [ "Npc", "d1/dd9/a04184.html#a8d8031a9ef6bd14633aa0a1bc87e2753", [
       [ "NPC_IRON_SLUDGE", "d7/da2/a03704.html#a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e", null ],
       [ "NPC_DWARFES_FRIENDLY", "d7/da2/a03704.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7", null ],
@@ -742,6 +742,9 @@ var a04184 =
       [ "SPELL_BLACK_HOLE_VISUAL2", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd", null ],
       [ "SPELL_BLACK_HOLE_PASSIVE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085", null ],
       [ "SPELL_BLACK_HOLE_EFFECT", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f", null ],
+      [ "SPELL_DARK_FIEND_APPEARANCE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0", null ],
+      [ "SPELL_DARK_FIEND_SECONDARY", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d", null ],
+      [ "SPELL_DARK_FIEND_TRIGGER", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca61f2d13d57b09aad7cd7437b32a1a1f8", null ],
       [ "SPELL_ARCHAEDAS_AWAKEN", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63", null ],
       [ "SPELL_AWAKEN_VAULT_WALKER", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e", null ],
       [ "SPELL_SOUL_CORRUPTION", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cadf9dc8cb0274ecae5a575b3aa8f5f87b", null ],

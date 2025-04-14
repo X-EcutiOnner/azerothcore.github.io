@@ -1,8 +1,10 @@
 var a14014 =
 [
-    [ "boss_venoxis", "d8/da9/a14014.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "d8/da9/a14014.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "d8/da9/a14014.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "d8/da9/a14014.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "d8/da9/a14014.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "npc_zealot_lorkhan", "d8/da9/a14014.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
+    [ "JustDied", "d8/da9/a14014.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
+    [ "JustEngagedWith", "d8/da9/a14014.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
+    [ "Reset", "d8/da9/a14014.html#abecbd4a2ea2cf3281244933fe7484239", null ],
+    [ "UpdateAI", "d8/da9/a14014.html#a68c35734f8886b2c241dcbc178899206", null ],
+    [ "_scheduler", "d8/da9/a14014.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
+    [ "instance", "d8/da9/a14014.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
 ];

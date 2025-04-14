@@ -1,8 +1,8 @@
 var a03800 =
 [
-    [ "ChampionPosition", "df/d1d/a17022.html", "df/d1d/a17022" ],
-    [ "FBSPosition", "de/d75/a17026.html", "de/d75/a17026" ],
-    [ "TSPosition", "dc/d13/a17030.html", "dc/d13/a17030" ],
+    [ "ChampionPosition", "dc/d13/a17030.html", "dc/d13/a17030" ],
+    [ "FBSPosition", "da/d3d/a17034.html", "da/d3d/a17034" ],
+    [ "TSPosition", "db/d54/a17038.html", "db/d54/a17038" ],
     [ "DataHeader", "dd/dbc/a03800.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "PATH_BEGIN_VALUE", "dd/dbc/a03800.html#a5e53249f20085a0a3fa19bdb577ee3c0", null ],
     [ "PitOfSaronScriptName", "dd/dbc/a03800.html#ac8331e51ea541bfd050c3deb5dc0a07a", null ],

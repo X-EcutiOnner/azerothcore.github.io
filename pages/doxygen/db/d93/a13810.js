@@ -1,7 +1,7 @@
 var a13810 =
 [
-    [ "HandleEffect", "db/d93/a13810.html#a8cda8eff109af7441d6990a236a52b80", null ],
-    [ "PrepareSpellScript", "db/d93/a13810.html#acc2698ba702be211bef63cefa41005f4", null ],
-    [ "Register", "db/d93/a13810.html#a5d6dccbb44a5d95055755673ad70707f", null ],
-    [ "Validate", "db/d93/a13810.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
+    [ "HandleTriggerSpell", "db/d93/a13810.html#a66b366f4989d99a58b331e56024e4520", null ],
+    [ "PrepareAuraScript", "db/d93/a13810.html#a4b00497e095b5c43571b543252b31e58", null ],
+    [ "Register", "db/d93/a13810.html#abacee7689888bf8c5d21b534a6d71b40", null ],
+    [ "Validate", "db/d93/a13810.html#a6bef0ac760a319deed6f71fee213e885", null ]
 ];

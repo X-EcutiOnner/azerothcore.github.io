@@ -1,6 +1,5 @@
 var a27110 =
 [
-    [ "go_tadpole_cageAI", "d8/d7a/a27114.html", "d8/d7a/a27114" ],
-    [ "go_tadpole_cage", "d8/d98/a27110.html#a1a9acacd0ebff33d402018d4205e415b", null ],
-    [ "GetAI", "d8/d98/a27110.html#a38990dc5edd725623b6c35dba7802612", null ]
+    [ "go_ethereum_stasis", "d8/d98/a27110.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "d8/d98/a27110.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

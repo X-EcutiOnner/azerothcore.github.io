@@ -1,9 +1,9 @@
 var a04397 =
 [
-    [ "boss_mechano_lord_capacitus", "d8/d76/a23802.html", "d8/d76/a23802" ],
-    [ "spell_capacitus_polarity_charge", "de/d93/a23806.html", "de/d93/a23806" ],
-    [ "spell_capacitus_polarity_charge_aura", "d2/ddf/a23810.html", "d2/ddf/a23810" ],
-    [ "spell_capacitus_polarity_shift", "dc/dad/a23814.html", "dc/dad/a23814" ],
+    [ "boss_mechano_lord_capacitus", "d2/ddf/a23810.html", "d2/ddf/a23810" ],
+    [ "spell_capacitus_polarity_charge", "dc/dad/a23814.html", "dc/dad/a23814" ],
+    [ "spell_capacitus_polarity_charge_aura", "d2/d9c/a23818.html", "d2/d9c/a23818" ],
+    [ "spell_capacitus_polarity_shift", "d9/d9b/a23822.html", "d9/d9b/a23822" ],
     [ "polarityShift", "da/dce/a04397.html#adfcb85d87bd0304f358a9d2549e866aa", [
       [ "SPELL_POSITIVE_POLARITY", "da/dce/a04397.html#adfcb85d87bd0304f358a9d2549e866aaa795738ba63917afbc0763ca952c1acf2", null ],
       [ "SPELL_POSITIVE_CHARGE_STACK", "da/dce/a04397.html#adfcb85d87bd0304f358a9d2549e866aaa9a8ba6564944a1455aee4c76339e7ae5", null ],
@@ -735,6 +735,9 @@ var a04397 =
       [ "SPELL_BLACK_HOLE_VISUAL2", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd", null ],
       [ "SPELL_BLACK_HOLE_PASSIVE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085", null ],
       [ "SPELL_BLACK_HOLE_EFFECT", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f", null ],
+      [ "SPELL_DARK_FIEND_APPEARANCE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0", null ],
+      [ "SPELL_DARK_FIEND_SECONDARY", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d", null ],
+      [ "SPELL_DARK_FIEND_TRIGGER", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca61f2d13d57b09aad7cd7437b32a1a1f8", null ],
       [ "SPELL_ARCHAEDAS_AWAKEN", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63", null ],
       [ "SPELL_AWAKEN_VAULT_WALKER", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e", null ],
       [ "SPELL_SOUL_CORRUPTION", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cadf9dc8cb0274ecae5a575b3aa8f5f87b", null ],

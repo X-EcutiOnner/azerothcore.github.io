@@ -1,6 +1,6 @@
 var a17682 =
 [
-    [ "npc_bone_spikeAI", "de/d2a/a17686.html", "de/d2a/a17686" ],
-    [ "npc_bone_spike", "d2/d77/a17682.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "d2/d77/a17682.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "npc_coldflameAI", "de/d2a/a17686.html", "de/d2a/a17686" ],
+    [ "npc_coldflame", "d2/d77/a17682.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "d2/d77/a17682.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

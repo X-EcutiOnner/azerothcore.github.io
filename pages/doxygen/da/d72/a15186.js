@@ -1,11 +1,21 @@
 var a15186 =
 [
-    [ "npc_depth_chargeAI", "da/d72/a15186.html#a088848c16418964973107e125c20f508", null ],
-    [ "AttackStart", "da/d72/a15186.html#a1ec6e2ea0cc61262932f63f764273cdb", null ],
-    [ "JustEngagedWith", "da/d72/a15186.html#a90cc6eab8b63588f2567f59941eafc59", null ],
-    [ "MoveInLineOfSight", "da/d72/a15186.html#a8342b7fc7677ac94757c725ec4063e9e", null ],
-    [ "Reset", "da/d72/a15186.html#aaccf632a50749c0f6d6f29bb1b1bf5a4", null ],
-    [ "UpdateAI", "da/d72/a15186.html#af34e55c3aee40f840edf695adc06495e", null ],
-    [ "WeMustDie", "da/d72/a15186.html#a7b25b1228cf5029f1ebe653c76cf9843", null ],
-    [ "WeMustDieTimer", "da/d72/a15186.html#a23e4f1f7079d12e78c74c21171d95cc7", null ]
+    [ "npc_rizzle_sprysprocketAI", "da/d72/a15186.html#a74b59a5721c46cddf13e9532a36f6a6d", null ],
+    [ "AttackStart", "da/d72/a15186.html#a87aa5e5e66f5f083829cf8dd78d9dc75", null ],
+    [ "JustEngagedWith", "da/d72/a15186.html#a9c39a4c8302fb507f9c7b09ebf871c5e", null ],
+    [ "MovementInform", "da/d72/a15186.html#a6ba4af8eee61bd6f562b25e096fcf0a8", null ],
+    [ "Reset", "da/d72/a15186.html#a060a25159570525af2d624f3f153eadf", null ],
+    [ "sGossipSelect", "da/d72/a15186.html#ab69a38bfe7a5b18b7f11b1f4df4c293a", null ],
+    [ "UpdateAI", "da/d72/a15186.html#ab2b1307113e4c91af94ea3ed4cbe8697", null ],
+    [ "CheckTimer", "da/d72/a15186.html#a2bb7b9a55427023156175bd2305a77fe", null ],
+    [ "ContinueWP", "da/d72/a15186.html#a85b90ae315a7957eba416d9c44f457ff", null ],
+    [ "CurrWP", "da/d72/a15186.html#acd4a2ef2157d47d3571d6c61d9dfdd4a", null ],
+    [ "Escape", "da/d72/a15186.html#a300700dc91eb4b49ec7cbf42c998feb4", null ],
+    [ "GrenadeTimer", "da/d72/a15186.html#ad43496d1ba134a19b49ecfae871f49ba", null ],
+    [ "MustDie", "da/d72/a15186.html#a8eae3901791679ef5609f929ddc83fc9", null ],
+    [ "MustDieTimer", "da/d72/a15186.html#a044f7c15ed58b67d02d6e1f6b76ad573", null ],
+    [ "PlayerGUID", "da/d72/a15186.html#a28482e22f80316de1b2e4ebd54875f13", null ],
+    [ "Reached", "da/d72/a15186.html#a1962eac2fa0403b965e5534d09bfc8a5", null ],
+    [ "SpellEscapeTimer", "da/d72/a15186.html#a4f2a0f04c8c126ac4ef31a45f74f7f77", null ],
+    [ "TeleportTimer", "da/d72/a15186.html#a4df0058661b6251c39497ee5b872c33e", null ]
 ];

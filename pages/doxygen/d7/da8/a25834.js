@@ -1,5 +1,6 @@
 var a25834 =
 [
-    [ "PrepareSpellScript", "d7/da8/a25834.html#ad7b3235062959af1f28bb6c7b2f929c3", null ],
-    [ "Register", "d7/da8/a25834.html#ae35dad0d33ee0dd571a8f5fcccd2ce58", null ]
+    [ "OnPeriodic", "d7/da8/a25834.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
+    [ "PrepareAuraScript", "d7/da8/a25834.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
+    [ "Register", "d7/da8/a25834.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
 ];

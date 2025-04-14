@@ -1,7 +1,7 @@
 var a15298 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "da/d06/a15302.html", "da/d06/a15302" ],
-    [ "npc_aged_dying_ancient_kodo", "d4/d38/a15298.html#a676170a319d3a8e46c9d017e61396c28", null ],
-    [ "GetAI", "d4/d38/a15298.html#a886bc82764e4ca6d98dc94ea73415375", null ],
-    [ "OnGossipHello", "d4/d38/a15298.html#a8489b3f23d8eca39f2750711512672e4", null ]
+    [ "npc_cork_gizeltonAI", "da/d06/a15302.html", "da/d06/a15302" ],
+    [ "npc_cork_gizelton", "d4/d38/a15298.html#a915aa2abc18109e7d0197863f59536f2", null ],
+    [ "GetAI", "d4/d38/a15298.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
+    [ "OnQuestAccept", "d4/d38/a15298.html#a11dc1fea0a24add451272b537298fc13", null ]
 ];

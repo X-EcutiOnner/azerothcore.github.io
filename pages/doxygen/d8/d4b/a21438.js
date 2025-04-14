@@ -1,9 +1,12 @@
 var a21438 =
 [
-    [ "npc_captured_beryl_sorcererAI", "d8/d4b/a21438.html#a3c3f47022aee418f228803a2504470a3", null ],
-    [ "Initialize", "d8/d4b/a21438.html#a98b2ff2f0e152a41106eaace5273aa69", null ],
-    [ "MoveInLineOfSight", "d8/d4b/a21438.html#a4f7edf7bc7480bf0c9f6aec113b2e058", null ],
-    [ "Reset", "d8/d4b/a21438.html#ac96af1fd018e88950d1c58562dffdb83", null ],
-    [ "UpdateAI", "d8/d4b/a21438.html#a1bbefa59abce0c7b3d7b343ddc467c98", null ],
-    [ "_events", "d8/d4b/a21438.html#a0ba1f7ffa792c93ccd4df8ec2c80fb42", null ]
+    [ "npc_beryl_sorcererAI", "d8/d4b/a21438.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
+    [ "Initialize", "d8/d4b/a21438.html#a40400e4e993d20d9bbe4faf063102521", null ],
+    [ "JustEngagedWith", "d8/d4b/a21438.html#afae877e8dac583c9420d214f77c2b438", null ],
+    [ "Reset", "d8/d4b/a21438.html#a17a16337c09013483c58cae38576d969", null ],
+    [ "SpellHit", "d8/d4b/a21438.html#a762ee3ae8df3757279821af13101e0be", null ],
+    [ "UpdateAI", "d8/d4b/a21438.html#a42ec665b06988d13be6cbee646afc898", null ],
+    [ "_chainsCast", "d8/d4b/a21438.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
+    [ "_events", "d8/d4b/a21438.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
+    [ "_playerGUID", "d8/d4b/a21438.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
 ];

@@ -1,7 +1,16 @@
 var a17090 =
 [
-    [ "HandleScriptEffect", "de/d85/a17090.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "de/d85/a17090.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "de/d85/a17090.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "de/d85/a17090.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "boss_gal_darahAI", "de/d85/a17090.html#a11f552c8d7ea90003540c052e84d7d30", null ],
+    [ "GetData", "de/d85/a17090.html#a239f2ad880eef60de017aa5493624e81", null ],
+    [ "InitializeAI", "de/d85/a17090.html#ad59573249068bd4962b36f1f3dc581c8", null ],
+    [ "JustDied", "de/d85/a17090.html#ad48d93efb462d7042b858724b8ff2aac", null ],
+    [ "JustEngagedWith", "de/d85/a17090.html#aabf2d3ef1d00731696d71225c63bb8b5", null ],
+    [ "JustReachedHome", "de/d85/a17090.html#a66abe46de699aca6e21910e8594caeaf", null ],
+    [ "JustSummoned", "de/d85/a17090.html#afda5dd71e597245e5c7b272b6817e644", null ],
+    [ "KilledUnit", "de/d85/a17090.html#ad477c3f60dfc1158856a6765b15efe78", null ],
+    [ "Reset", "de/d85/a17090.html#a0fba8f1a406dd97a27e92b26c682ec63", null ],
+    [ "ScheduleEvents", "de/d85/a17090.html#a77f18488503bf47e985c1ac6c8d67b1f", null ],
+    [ "UpdateAI", "de/d85/a17090.html#a5faa0cbb6eb126508ef6921f3b4ba15f", null ],
+    [ "impaledList", "de/d85/a17090.html#a53b3c115af0df5381d31fa54f344af80", null ],
+    [ "phaseCounter", "de/d85/a17090.html#a484acaccbbc400ec271e24ea6fb0c55f", null ]
 ];

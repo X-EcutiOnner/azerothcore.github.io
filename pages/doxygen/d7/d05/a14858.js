@@ -1,14 +1,8 @@
 var a14858 =
 [
-    [ "boss_buru", "d7/d05/a14858.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
-    [ "ChaseNewVictim", "d7/d05/a14858.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
-    [ "DamageTaken", "d7/d05/a14858.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
-    [ "EnterEvadeMode", "d7/d05/a14858.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
-    [ "JustDied", "d7/d05/a14858.html#a6d8f3265dca889bc49e747471da8597f", null ],
-    [ "JustEngagedWith", "d7/d05/a14858.html#a61eeeb3eb1684943e94367a9318b3035", null ],
-    [ "KilledUnit", "d7/d05/a14858.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
-    [ "ManipulateEggs", "d7/d05/a14858.html#a4f8a92eab729c975443579560edb03a3", null ],
-    [ "SpellHit", "d7/d05/a14858.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
-    [ "UpdateAI", "d7/d05/a14858.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
-    [ "_phase", "d7/d05/a14858.html#aa395967af50f2a422bf1e81a087efc43", null ]
+    [ "HandleScript", "d7/d05/a14858.html#ac58aef1b295e32c8a44852278edc18f8", null ],
+    [ "Load", "d7/d05/a14858.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
+    [ "PrepareSpellScript", "d7/d05/a14858.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
+    [ "Register", "d7/d05/a14858.html#a95f4abd67d6baf75980ff28a7518503d", null ],
+    [ "Validate", "d7/d05/a14858.html#a98271e7adb17b11e39241154a83b0d0d", null ]
 ];

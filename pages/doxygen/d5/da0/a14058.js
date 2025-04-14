@@ -1,11 +1,6 @@
 var a14058 =
 [
-    [ "npc_dark_iron_attack_mole_machine", "d5/da0/a14058.html#a473a8fb4905e5d1333196797d7d0f371", null ],
-    [ "AttackStart", "d5/da0/a14058.html#a999dd932fbaf22a8275dfdba150c3291", null ],
-    [ "JustEngagedWith", "d5/da0/a14058.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
-    [ "MoveInLineOfSight", "d5/da0/a14058.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
-    [ "Reset", "d5/da0/a14058.html#a0727aab751ddfbd94ae070e60e47e768", null ],
-    [ "UpdateAI", "d5/da0/a14058.html#a1217ed510a846d011143ae0a386c6236", null ],
-    [ "goTimer", "d5/da0/a14058.html#a8686845ebef564c9fcaa115866c99749", null ],
-    [ "summonTimer", "d5/da0/a14058.html#a4713da02f4a86547a0f796167e24d8bb", null ]
+    [ "npc_brewfest_bark_trigger", "d5/da0/a14058.html#a110d654792e1f5dae8b17f014ea3d425", null ],
+    [ "GetTextFor", "d5/da0/a14058.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
+    [ "MoveInLineOfSight", "d5/da0/a14058.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
 ];

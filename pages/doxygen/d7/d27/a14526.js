@@ -1,6 +1,6 @@
 var a14526 =
 [
-    [ "FilterTargets", "d7/d27/a14526.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "d7/d27/a14526.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "d7/d27/a14526.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "OnRemove", "d7/d27/a14526.html#af9da33426d8ea4462f7d9957c4312019", null ],
+    [ "PrepareAuraScript", "d7/d27/a14526.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
+    [ "Register", "d7/d27/a14526.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
 ];

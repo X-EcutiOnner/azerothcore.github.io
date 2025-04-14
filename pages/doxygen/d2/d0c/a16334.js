@@ -1,8 +1,8 @@
 var a16334 =
 [
-    [ "npc_toc_boomkinAI", "d2/d0c/a16334.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "d2/d0c/a16334.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "d2/d0c/a16334.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "d2/d0c/a16334.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "d2/d0c/a16334.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "npc_toc_hunterAI", "d2/d0c/a16334.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d2/d0c/a16334.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d2/d0c/a16334.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d2/d0c/a16334.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d2/d0c/a16334.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

@@ -1,6 +1,7 @@
 var a21470 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "db/d19/a21474.html", "db/d19/a21474" ],
-    [ "npc_valiance_keep_cannoneer", "d2/d4e/a21470.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "d2/d4e/a21470.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "npc_bonker_togglevoltAI", "db/d19/a21474.html", "db/d19/a21474" ],
+    [ "npc_bonker_togglevolt", "d2/d4e/a21470.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
+    [ "GetAI", "d2/d4e/a21470.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
+    [ "OnQuestAccept", "d2/d4e/a21470.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
 ];

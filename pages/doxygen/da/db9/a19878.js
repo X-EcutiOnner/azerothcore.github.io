@@ -1,7 +1,6 @@
 var a19878 =
 [
-    [ "OnPeriodic", "da/db9/a19878.html#a9407d5477a40e36863e5fb5775dda122", null ],
-    [ "PrepareAuraScript", "da/db9/a19878.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
-    [ "Register", "da/db9/a19878.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
-    [ "Validate", "da/db9/a19878.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
+    [ "OnPeriodic", "da/db9/a19878.html#a379c55df994c58932fef7e7a59fd8426", null ],
+    [ "PrepareAuraScript", "da/db9/a19878.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
+    [ "Register", "da/db9/a19878.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
 ];

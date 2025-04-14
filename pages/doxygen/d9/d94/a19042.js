@@ -1,6 +1,6 @@
 var a19042 =
 [
-    [ "FilterTargets", "d9/d94/a19042.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "d9/d94/a19042.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "d9/d94/a19042.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "boss_sapphironAI", "d8/d00/a19046.html", "d8/d00/a19046" ],
+    [ "boss_sapphiron", "d9/d94/a19042.html#a87a70204dd727f92d035ad98e2ab9010", null ],
+    [ "GetAI", "d9/d94/a19042.html#a31209287faa721bef341388ae4383b6c", null ]
 ];

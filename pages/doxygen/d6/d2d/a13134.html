@@ -644,10 +644,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   68</span>: <a class="code hl_class" href="../../d4/dc1/a06186.html">BossAI</a>(creature, <a class="code hl_enumvalue" href="../../d1/d35/a03398.html#a6a8e02a45c1f96a77680add79636d4d8a16cf9740b8a8855e8bd622f7d6d13449">DATA_BRUTALLUS</a>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">   68</span>                                       : <a class="code hl_class" href="../../d4/dc1/a06186.html">BossAI</a>(creature, <a class="code hl_enumvalue" href="../../d1/d35/a03398.html#a6a8e02a45c1f96a77680add79636d4d8a16cf9740b8a8855e8bd622f7d6d13449">DATA_BRUTALLUS</a>)</div>
+<div class="line"><span class="lineno">   69</span>    {</div>
+<div class="line"><span class="lineno">   70</span>        <a class="code hl_variable" href="../../d7/d53/a06178.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/d8c/a07958.html#aa8a50e4ad6c377c87844b6db31c1489f">SetCorpseDelay</a>(360);</div>
+<div class="line"><span class="lineno">   71</span>    }</div>
 <div class="ttc" id="aa03398_html_a6a8e02a45c1f96a77680add79636d4d8a16cf9740b8a8855e8bd622f7d6d13449"><div class="ttname"><a href="../../d1/d35/a03398.html#a6a8e02a45c1f96a77680add79636d4d8a16cf9740b8a8855e8bd622f7d6d13449">DATA_BRUTALLUS</a></div><div class="ttdeci">@ DATA_BRUTALLUS</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:30</div></div>
+<div class="ttc" id="aa06178_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../d7/d53/a06178.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:280</div></div>
 <div class="ttc" id="aa06186_html"><div class="ttname"><a href="../../d4/dc1/a06186.html">BossAI</a></div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:467</div></div>
+<div class="ttc" id="aa07958_html_aa8a50e4ad6c377c87844b6db31c1489f"><div class="ttname"><a href="../../d0/d8c/a07958.html#aa8a50e4ad6c377c87844b6db31c1489f">Creature::SetCorpseDelay</a></div><div class="ttdeci">void SetCorpseDelay(uint32 delay)</div><div class="ttdef"><b>Definition:</b> Creature.h:70</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00070">Creature::SetCorpseDelay()</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
@@ -676,11 +683,11 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d7/d53/a06178.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  122</span>    {</div>
-<div class="line"><span class="lineno">  123</span>        <span class="keywordflow">if</span> (who-&gt;<a class="code hl_function" href="../../db/d14/a08330.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == <a class="code hl_enumvalue" href="../../d1/d35/a03398.html#a92f6fd626e1834a4cc509efc1186963eadf3e020bb565e60b0aea28860e6a0c14">NPC_MADRIGOSA</a>)</div>
-<div class="line"><span class="lineno">  124</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  125</span>        <a class="code hl_function" href="../../d8/d2f/a06122.html#ae120634c255d365f1567e341e2cf1feb">BossAI::AttackStart</a>(who);</div>
-<div class="line"><span class="lineno">  126</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  125</span>    {</div>
+<div class="line"><span class="lineno">  126</span>        <span class="keywordflow">if</span> (who-&gt;<a class="code hl_function" href="../../db/d14/a08330.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == <a class="code hl_enumvalue" href="../../d1/d35/a03398.html#a92f6fd626e1834a4cc509efc1186963eadf3e020bb565e60b0aea28860e6a0c14">NPC_MADRIGOSA</a>)</div>
+<div class="line"><span class="lineno">  127</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  128</span>        <a class="code hl_function" href="../../d8/d2f/a06122.html#ae120634c255d365f1567e341e2cf1feb">BossAI::AttackStart</a>(who);</div>
+<div class="line"><span class="lineno">  129</span>    }</div>
 <div class="ttc" id="aa03398_html_a92f6fd626e1834a4cc509efc1186963eadf3e020bb565e60b0aea28860e6a0c14"><div class="ttname"><a href="../../d1/d35/a03398.html#a92f6fd626e1834a4cc509efc1186963eadf3e020bb565e60b0aea28860e6a0c14">NPC_MADRIGOSA</a></div><div class="ttdeci">@ NPC_MADRIGOSA</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:62</div></div>
 <div class="ttc" id="aa06122_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d8/d2f/a06122.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:27</div></div>
 <div class="ttc" id="aa08330_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../db/d14/a08330.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:115</div></div>
@@ -714,14 +721,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d4/dc1/a06186.html#a3980e3c1e8e9992034c9ec35a8b3e298">BossAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  112</span>    {</div>
-<div class="line"><span class="lineno">  113</span>        <a class="code hl_function" href="../../d4/dc1/a06186.html#a3980e3c1e8e9992034c9ec35a8b3e298">BossAI::JustDied</a>(killer);</div>
-<div class="line"><span class="lineno">  114</span>        <a class="code hl_enumeration" href="../../de/d05/a02795.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a3f2ffdc8d4bc224b9ab0264dab54463cab0554bb474effa5a810d32f250d0c1e5">YELL_DEATH</a>);</div>
-<div class="line"><span class="lineno">  115</span> </div>
-<div class="line"><span class="lineno">  116</span>        <a class="code hl_function" href="../../d8/d2f/a06122.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a5bd342133be8c2137b831460acc9298cac04a2442b7961926b656e39c520cdbdd">SPELL_SUMMON_BRUTALLUS_DEATH_CLOUD</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  117</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d8c/a07958.html">Creature</a>* madrigosa = <a class="code hl_variable" href="../../d4/dc1/a06186.html#a05890dbd00c482b204af44f69d3efdc0">instance</a>-&gt;<a class="code hl_function" href="../../d3/d5b/a09622.html#a1541c403bcc65b54c0a2c523c8eaf0b1">GetCreature</a>(<a class="code hl_enumvalue" href="../../d1/d35/a03398.html#afb6eb4f28419b652027fad41104a6d22aec6185d6a9e33d57fdd4898753868328">DATA_MADRIGOSA</a>))</div>
-<div class="line"><span class="lineno">  118</span>            madrigosa-&gt;AI()-&gt;DoAction(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a16d567c58cbc0c7f3f9c0212b708c076">ACTION_SPAWN_FELMYST</a>);</div>
-<div class="line"><span class="lineno">  119</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  115</span>    {</div>
+<div class="line"><span class="lineno">  116</span>        <a class="code hl_function" href="../../d4/dc1/a06186.html#a3980e3c1e8e9992034c9ec35a8b3e298">BossAI::JustDied</a>(killer);</div>
+<div class="line"><span class="lineno">  117</span>        <a class="code hl_enumeration" href="../../de/d05/a02795.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a3f2ffdc8d4bc224b9ab0264dab54463cab0554bb474effa5a810d32f250d0c1e5">YELL_DEATH</a>);</div>
+<div class="line"><span class="lineno">  118</span> </div>
+<div class="line"><span class="lineno">  119</span>        <a class="code hl_function" href="../../d8/d2f/a06122.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a5bd342133be8c2137b831460acc9298cac04a2442b7961926b656e39c520cdbdd">SPELL_SUMMON_BRUTALLUS_DEATH_CLOUD</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  120</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d8c/a07958.html">Creature</a>* madrigosa = <a class="code hl_variable" href="../../d4/dc1/a06186.html#a05890dbd00c482b204af44f69d3efdc0">instance</a>-&gt;<a class="code hl_function" href="../../d3/d5b/a09622.html#a1541c403bcc65b54c0a2c523c8eaf0b1">GetCreature</a>(<a class="code hl_enumvalue" href="../../d1/d35/a03398.html#afb6eb4f28419b652027fad41104a6d22aec6185d6a9e33d57fdd4898753868328">DATA_MADRIGOSA</a>))</div>
+<div class="line"><span class="lineno">  121</span>            madrigosa-&gt;AI()-&gt;DoAction(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a16d567c58cbc0c7f3f9c0212b708c076">ACTION_SPAWN_FELMYST</a>);</div>
+<div class="line"><span class="lineno">  122</span>    }</div>
 <div class="ttc" id="aa02795_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../de/d05/a02795.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition:</b> hyjal.cpp:82</div></div>
 <div class="ttc" id="aa03377_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a16d567c58cbc0c7f3f9c0212b708c076"><div class="ttname"><a href="../../dd/d8e/a03377.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a16d567c58cbc0c7f3f9c0212b708c076">ACTION_SPAWN_FELMYST</a></div><div class="ttdeci">@ ACTION_SPAWN_FELMYST</div><div class="ttdef"><b>Definition:</b> boss_brutallus.cpp:63</div></div>
 <div class="ttc" id="aa03377_html_a3f2ffdc8d4bc224b9ab0264dab54463cab0554bb474effa5a810d32f250d0c1e5"><div class="ttname"><a href="../../dd/d8e/a03377.html#a3f2ffdc8d4bc224b9ab0264dab54463cab0554bb474effa5a810d32f250d0c1e5">YELL_DEATH</a></div><div class="ttdeci">@ YELL_DEATH</div><div class="ttdef"><b>Definition:</b> boss_brutallus.cpp:41</div></div>
@@ -764,32 +771,32 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d4/dc1/a06186.html#a04dd3e06f19801bb419613f7d7482fa6">BossAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   78</span>    {</div>
-<div class="line"><span class="lineno">   79</span>        <span class="keywordflow">if</span> (who-&gt;GetEntry() == <a class="code hl_enumvalue" href="../../d1/d35/a03398.html#a92f6fd626e1834a4cc509efc1186963eadf3e020bb565e60b0aea28860e6a0c14">NPC_MADRIGOSA</a>)</div>
-<div class="line"><span class="lineno">   80</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   81</span> </div>
-<div class="line"><span class="lineno">   82</span>        <a class="code hl_enumeration" href="../../de/d05/a02795.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a3f2ffdc8d4bc224b9ab0264dab54463ca7e923c7c2a4e3e70d9642e27e1ea7d2d">YELL_AGGRO</a>);</div>
-<div class="line"><span class="lineno">   83</span>        <a class="code hl_function" href="../../d4/dc1/a06186.html#a04dd3e06f19801bb419613f7d7482fa6">BossAI::JustEngagedWith</a>(who);</div>
+<div class="fragment"><div class="line"><span class="lineno">   81</span>    {</div>
+<div class="line"><span class="lineno">   82</span>        <span class="keywordflow">if</span> (who-&gt;GetEntry() == <a class="code hl_enumvalue" href="../../d1/d35/a03398.html#a92f6fd626e1834a4cc509efc1186963eadf3e020bb565e60b0aea28860e6a0c14">NPC_MADRIGOSA</a>)</div>
+<div class="line"><span class="lineno">   83</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">   84</span> </div>
-<div class="line"><span class="lineno">   85</span>        <a class="code hl_function" href="../../d7/d53/a06178.html#ab684336d8fd4e24883561a1a590a2b22">ScheduleTimedEvent</a>(11s, [&amp;] {</div>
-<div class="line"><span class="lineno">   86</span>            <a class="code hl_function" href="../../d8/d2f/a06122.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a5bd342133be8c2137b831460acc9298cadac4a37e5ab640a43faff25236c9437f">SPELL_METEOR_SLASH</a>);</div>
-<div class="line"><span class="lineno">   87</span>        }, 12s);</div>
-<div class="line"><span class="lineno">   88</span> </div>
-<div class="line"><span class="lineno">   89</span>        <a class="code hl_function" href="../../d7/d53/a06178.html#ab684336d8fd4e24883561a1a590a2b22">ScheduleTimedEvent</a>(30s, [&amp;] {</div>
-<div class="line"><span class="lineno">   90</span>            <a class="code hl_function" href="../../d8/d2f/a06122.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a5bd342133be8c2137b831460acc9298ca0003f01b1bddea1320bae3be9a66073a">SPELL_STOMP</a>);</div>
-<div class="line"><span class="lineno">   91</span>            <a class="code hl_enumeration" href="../../de/d05/a02795.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a3f2ffdc8d4bc224b9ab0264dab54463cad464f684dfbd30de5fb5e82ec54c9a67">YELL_LOVE</a>);</div>
-<div class="line"><span class="lineno">   92</span>        }, 30s);</div>
-<div class="line"><span class="lineno">   93</span> </div>
-<div class="line"><span class="lineno">   94</span>        <a class="code hl_function" href="../../d7/d53/a06178.html#ab684336d8fd4e24883561a1a590a2b22">ScheduleTimedEvent</a>(20s, [&amp;] {</div>
-<div class="line"><span class="lineno">   95</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d7f/a08710.html">Unit</a>* target = <a class="code hl_function" href="../../d8/d2f/a06122.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(SelectTargetMethod::Random, 0, 100.0f, <span class="keyword">true</span>, <span class="keyword">true</span>, -<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a5bd342133be8c2137b831460acc9298ca61db0836c0be06814c0f41a2ff6caa85">SPELL_BURN_DAMAGE</a>))</div>
-<div class="line"><span class="lineno">   96</span>                <a class="code hl_function" href="../../d8/d2f/a06122.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a5bd342133be8c2137b831460acc9298cab300650c6e6ddd871a062c91b25d6e04">SPELL_BURN</a>);</div>
-<div class="line"><span class="lineno">   97</span>        }, 20s);</div>
-<div class="line"><span class="lineno">   98</span> </div>
-<div class="line"><span class="lineno">   99</span>        <a class="code hl_variable" href="../../d7/d53/a06178.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_variable" href="../../d3/d25/a08362.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../de/dc0/a05446.html#ac4cfbe963d7e9335f6404666a6b95bad">AddEventAtOffset</a>([&amp;] {</div>
-<div class="line"><span class="lineno">  100</span>            <a class="code hl_function" href="../../d8/d2f/a06122.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f">SPELL_BERSERK</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  101</span>            <a class="code hl_enumeration" href="../../de/d05/a02795.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a3f2ffdc8d4bc224b9ab0264dab54463cab2f747037153944199e358bc39a12d25">YELL_BERSERK</a>);</div>
-<div class="line"><span class="lineno">  102</span>        }, 6min);</div>
-<div class="line"><span class="lineno">  103</span>    }</div>
+<div class="line"><span class="lineno">   85</span>        <a class="code hl_enumeration" href="../../de/d05/a02795.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a3f2ffdc8d4bc224b9ab0264dab54463ca7e923c7c2a4e3e70d9642e27e1ea7d2d">YELL_AGGRO</a>);</div>
+<div class="line"><span class="lineno">   86</span>        <a class="code hl_function" href="../../d4/dc1/a06186.html#a04dd3e06f19801bb419613f7d7482fa6">BossAI::JustEngagedWith</a>(who);</div>
+<div class="line"><span class="lineno">   87</span> </div>
+<div class="line"><span class="lineno">   88</span>        <a class="code hl_function" href="../../d7/d53/a06178.html#ab684336d8fd4e24883561a1a590a2b22">ScheduleTimedEvent</a>(11s, [&amp;] {</div>
+<div class="line"><span class="lineno">   89</span>            <a class="code hl_function" href="../../d8/d2f/a06122.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a5bd342133be8c2137b831460acc9298cadac4a37e5ab640a43faff25236c9437f">SPELL_METEOR_SLASH</a>);</div>
+<div class="line"><span class="lineno">   90</span>        }, 12s);</div>
+<div class="line"><span class="lineno">   91</span> </div>
+<div class="line"><span class="lineno">   92</span>        <a class="code hl_function" href="../../d7/d53/a06178.html#ab684336d8fd4e24883561a1a590a2b22">ScheduleTimedEvent</a>(30s, [&amp;] {</div>
+<div class="line"><span class="lineno">   93</span>            <a class="code hl_function" href="../../d8/d2f/a06122.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a5bd342133be8c2137b831460acc9298ca0003f01b1bddea1320bae3be9a66073a">SPELL_STOMP</a>);</div>
+<div class="line"><span class="lineno">   94</span>            <a class="code hl_enumeration" href="../../de/d05/a02795.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a3f2ffdc8d4bc224b9ab0264dab54463cad464f684dfbd30de5fb5e82ec54c9a67">YELL_LOVE</a>);</div>
+<div class="line"><span class="lineno">   95</span>        }, 30s);</div>
+<div class="line"><span class="lineno">   96</span> </div>
+<div class="line"><span class="lineno">   97</span>        <a class="code hl_function" href="../../d7/d53/a06178.html#ab684336d8fd4e24883561a1a590a2b22">ScheduleTimedEvent</a>(20s, [&amp;] {</div>
+<div class="line"><span class="lineno">   98</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d7f/a08710.html">Unit</a>* target = <a class="code hl_function" href="../../d8/d2f/a06122.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(SelectTargetMethod::Random, 0, 100.0f, <span class="keyword">true</span>, <span class="keyword">true</span>, -<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a5bd342133be8c2137b831460acc9298ca61db0836c0be06814c0f41a2ff6caa85">SPELL_BURN_DAMAGE</a>))</div>
+<div class="line"><span class="lineno">   99</span>                <a class="code hl_function" href="../../d8/d2f/a06122.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a5bd342133be8c2137b831460acc9298cab300650c6e6ddd871a062c91b25d6e04">SPELL_BURN</a>);</div>
+<div class="line"><span class="lineno">  100</span>        }, 20s);</div>
+<div class="line"><span class="lineno">  101</span> </div>
+<div class="line"><span class="lineno">  102</span>        <a class="code hl_variable" href="../../d7/d53/a06178.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_variable" href="../../d3/d25/a08362.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../de/dc0/a05446.html#ac4cfbe963d7e9335f6404666a6b95bad">AddEventAtOffset</a>([&amp;] {</div>
+<div class="line"><span class="lineno">  103</span>            <a class="code hl_function" href="../../d8/d2f/a06122.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f">SPELL_BERSERK</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  104</span>            <a class="code hl_enumeration" href="../../de/d05/a02795.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a3f2ffdc8d4bc224b9ab0264dab54463cab2f747037153944199e358bc39a12d25">YELL_BERSERK</a>);</div>
+<div class="line"><span class="lineno">  105</span>        }, 6min);</div>
+<div class="line"><span class="lineno">  106</span>    }</div>
 <div class="ttc" id="aa03377_html_a3f2ffdc8d4bc224b9ab0264dab54463ca7e923c7c2a4e3e70d9642e27e1ea7d2d"><div class="ttname"><a href="../../dd/d8e/a03377.html#a3f2ffdc8d4bc224b9ab0264dab54463ca7e923c7c2a4e3e70d9642e27e1ea7d2d">YELL_AGGRO</a></div><div class="ttdeci">@ YELL_AGGRO</div><div class="ttdef"><b>Definition:</b> boss_brutallus.cpp:37</div></div>
 <div class="ttc" id="aa03377_html_a3f2ffdc8d4bc224b9ab0264dab54463cab2f747037153944199e358bc39a12d25"><div class="ttname"><a href="../../dd/d8e/a03377.html#a3f2ffdc8d4bc224b9ab0264dab54463cab2f747037153944199e358bc39a12d25">YELL_BERSERK</a></div><div class="ttdeci">@ YELL_BERSERK</div><div class="ttdef"><b>Definition:</b> boss_brutallus.cpp:40</div></div>
 <div class="ttc" id="aa03377_html_a3f2ffdc8d4bc224b9ab0264dab54463cad464f684dfbd30de5fb5e82ec54c9a67"><div class="ttname"><a href="../../dd/d8e/a03377.html#a3f2ffdc8d4bc224b9ab0264dab54463cad464f684dfbd30de5fb5e82ec54c9a67">YELL_LOVE</a></div><div class="ttdeci">@ YELL_LOVE</div><div class="ttdef"><b>Definition:</b> boss_brutallus.cpp:39</div></div>
@@ -803,7 +810,6 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa06122_html_a6ae5c7d15b747433f4d94f80bcebd215"><div class="ttname"><a href="../../d8/d2f/a06122.html#a6ae5c7d15b747433f4d94f80bcebd215">UnitAI::DoCastSelf</a></div><div class="ttdeci">SpellCastResult DoCastSelf(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition:</b> UnitAI.h:392</div></div>
 <div class="ttc" id="aa06122_html_ac5b181f1036962caaf140369b22e807b"><div class="ttname"><a href="../../d8/d2f/a06122.html#ac5b181f1036962caaf140369b22e807b">UnitAI::SelectTarget</a></div><div class="ttdeci">Unit * SelectTarget(SelectTargetMethod targetType, uint32 position=0, float dist=0.0f, bool playerOnly=false, bool withTank=true, int32 aura=0)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:110</div></div>
 <div class="ttc" id="aa06122_html_aeebcad9b6effa45145c50f06af60b23d"><div class="ttname"><a href="../../d8/d2f/a06122.html#aeebcad9b6effa45145c50f06af60b23d">UnitAI::DoCast</a></div><div class="ttdeci">SpellCastResult DoCast(uint32 spellId)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:177</div></div>
-<div class="ttc" id="aa06178_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../d7/d53/a06178.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:280</div></div>
 <div class="ttc" id="aa06178_html_ab684336d8fd4e24883561a1a590a2b22"><div class="ttname"><a href="../../d7/d53/a06178.html#ab684336d8fd4e24883561a1a590a2b22">ScriptedAI::ScheduleTimedEvent</a></div><div class="ttdeci">void ScheduleTimedEvent(Milliseconds timerMin, Milliseconds timerMax, std::function&lt; void()&gt; exec, Milliseconds repeatMin, Milliseconds repeatMax=0s, uint32 uniqueId=0)</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:321</div></div>
 <div class="ttc" id="aa06186_html_a04dd3e06f19801bb419613f7d7482fa6"><div class="ttname"><a href="../../d4/dc1/a06186.html#a04dd3e06f19801bb419613f7d7482fa6">BossAI::JustEngagedWith</a></div><div class="ttdeci">void JustEngagedWith(Unit *) override</div><div class="ttdoc">Called for reaction when initially engaged.</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:503</div></div>
 <div class="ttc" id="aa08362_html_ab963446488123d34f39a32587d9720a6"><div class="ttname"><a href="../../d3/d25/a08362.html#ab963446488123d34f39a32587d9720a6">WorldObject::m_Events</a></div><div class="ttdeci">EventProcessor m_Events</div><div class="ttdef"><b>Definition:</b> Object.h:639</div></div>
@@ -838,10 +844,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d7/d53/a06178.html#a8d6c7fd71269453c229326c9785006e8">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  106</span>    {</div>
-<div class="line"><span class="lineno">  107</span>        <span class="keywordflow">if</span> (victim-&gt;<a class="code hl_function" href="../../db/d14/a08330.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>() &amp;&amp; <a class="code hl_function" href="../../dc/d50/a00332.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a>(50))</div>
-<div class="line"><span class="lineno">  108</span>            <a class="code hl_enumeration" href="../../de/d05/a02795.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a3f2ffdc8d4bc224b9ab0264dab54463caaff7201ebe3a2de7322accea1f9266f6">YELL_KILL</a>);</div>
-<div class="line"><span class="lineno">  109</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  109</span>    {</div>
+<div class="line"><span class="lineno">  110</span>        <span class="keywordflow">if</span> (victim-&gt;<a class="code hl_function" href="../../db/d14/a08330.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>() &amp;&amp; <a class="code hl_function" href="../../dc/d50/a00332.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a>(50))</div>
+<div class="line"><span class="lineno">  111</span>            <a class="code hl_enumeration" href="../../de/d05/a02795.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a3f2ffdc8d4bc224b9ab0264dab54463caaff7201ebe3a2de7322accea1f9266f6">YELL_KILL</a>);</div>
+<div class="line"><span class="lineno">  112</span>    }</div>
 <div class="ttc" id="aa00332_html_a50320d4edff86db31b25138ae72161ad"><div class="ttname"><a href="../../dc/d50/a00332.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a></div><div class="ttdeci">bool roll_chance_i(int chance)</div><div class="ttdef"><b>Definition:</b> Random.h:60</div></div>
 <div class="ttc" id="aa03377_html_a3f2ffdc8d4bc224b9ab0264dab54463caaff7201ebe3a2de7322accea1f9266f6"><div class="ttname"><a href="../../dd/d8e/a03377.html#a3f2ffdc8d4bc224b9ab0264dab54463caaff7201ebe3a2de7322accea1f9266f6">YELL_KILL</a></div><div class="ttdeci">@ YELL_KILL</div><div class="ttdef"><b>Definition:</b> boss_brutallus.cpp:38</div></div>
 <div class="ttc" id="aa08330_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../db/d14/a08330.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition:</b> Object.h:200</div></div>
@@ -874,11 +880,11 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d4/dc1/a06186.html#abe75353ec3f0c86502696b8ccb059cb7">BossAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   71</span>    {</div>
-<div class="line"><span class="lineno">   72</span>        <a class="code hl_function" href="../../d4/dc1/a06186.html#abe75353ec3f0c86502696b8ccb059cb7">BossAI::Reset</a>();</div>
-<div class="line"><span class="lineno">   73</span>        <a class="code hl_function" href="../../d8/d2f/a06122.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a5bd342133be8c2137b831460acc9298ca60b9e8f91e6195c68c564f0b53e61e9d">SPELL_DUAL_WIELD</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">   74</span>        <a class="code hl_variable" href="../../d7/d53/a06178.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_variable" href="../../d3/d25/a08362.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../de/dc0/a05446.html#a15a65ecc2391f505266176cfc7f29c39">KillAllEvents</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   75</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   74</span>    {</div>
+<div class="line"><span class="lineno">   75</span>        <a class="code hl_function" href="../../d4/dc1/a06186.html#abe75353ec3f0c86502696b8ccb059cb7">BossAI::Reset</a>();</div>
+<div class="line"><span class="lineno">   76</span>        <a class="code hl_function" href="../../d8/d2f/a06122.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#a5bd342133be8c2137b831460acc9298ca60b9e8f91e6195c68c564f0b53e61e9d">SPELL_DUAL_WIELD</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   77</span>        <a class="code hl_variable" href="../../d7/d53/a06178.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_variable" href="../../d3/d25/a08362.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../de/dc0/a05446.html#a15a65ecc2391f505266176cfc7f29c39">KillAllEvents</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">   78</span>    }</div>
 <div class="ttc" id="aa03377_html_a5bd342133be8c2137b831460acc9298ca60b9e8f91e6195c68c564f0b53e61e9d"><div class="ttname"><a href="../../dd/d8e/a03377.html#a5bd342133be8c2137b831460acc9298ca60b9e8f91e6195c68c564f0b53e61e9d">SPELL_DUAL_WIELD</a></div><div class="ttdeci">@ SPELL_DUAL_WIELD</div><div class="ttdef"><b>Definition:</b> boss_brutallus.cpp:51</div></div>
 <div class="ttc" id="aa05446_html_a15a65ecc2391f505266176cfc7f29c39"><div class="ttname"><a href="../../de/dc0/a05446.html#a15a65ecc2391f505266176cfc7f29c39">EventProcessor::KillAllEvents</a></div><div class="ttdeci">void KillAllEvents(bool force)</div><div class="ttdef"><b>Definition:</b> EventProcessor.cpp:82</div></div>
 <div class="ttc" id="aa06186_html_abe75353ec3f0c86502696b8ccb059cb7"><div class="ttname"><a href="../../d4/dc1/a06186.html#abe75353ec3f0c86502696b8ccb059cb7">BossAI::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:502</div></div>
@@ -893,7 +899,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d2d/a13134.html">boss_brutallus</a></li>
-    <li class="footer">Generated on Mon Apr 7 2025 20:45:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 14 2025 20:45:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

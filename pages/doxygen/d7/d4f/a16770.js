@@ -1,6 +1,6 @@
 var a16770 =
 [
-    [ "npc_spectral_footmanAI", "dc/dde/a16774.html", "dc/dde/a16774" ],
-    [ "npc_spectral_footman", "d7/d4f/a16770.html#a300fb06b896d2d08f9e3671422232ad2", null ],
-    [ "GetAI", "d7/d4f/a16770.html#adbc1b961aba6cefb97dfff3014248735", null ]
+    [ "npc_shadowy_mercenaryAI", "dc/dde/a16774.html", "dc/dde/a16774" ],
+    [ "npc_shadowy_mercenary", "d7/d4f/a16770.html#a3ace4bb80f6771c586caa7f2dedf2b93", null ],
+    [ "GetAI", "d7/d4f/a16770.html#ada4b63bf708b3d19ce6d3a2b36c96672", null ]
 ];

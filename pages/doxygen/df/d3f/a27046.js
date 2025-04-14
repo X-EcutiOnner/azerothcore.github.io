@@ -1,6 +1,6 @@
 var a27046 =
 [
-    [ "boss_taerarAI", "dc/d8d/a27050.html", "dc/d8d/a27050" ],
-    [ "boss_taerar", "df/d3f/a27046.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "df/d3f/a27046.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "boss_emerissAI", "dc/d8d/a27050.html", "dc/d8d/a27050" ],
+    [ "boss_emeriss", "df/d3f/a27046.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "df/d3f/a27046.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

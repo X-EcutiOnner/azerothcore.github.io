@@ -1,17 +1,7 @@
 var a15702 =
 [
-    [ "boss_volazj", "dd/dae/a15702.html#ac1f0bc7b55a554d29e55a376680bf747", null ],
-    [ "CheckPhaseMinions", "dd/dae/a15702.html#aa79bf97b6772956795bd2f16b85e061f", null ],
-    [ "DamageTaken", "dd/dae/a15702.html#a494d78875526d878421b995145b74a12", null ],
-    [ "GetPlrInsanityAuraId", "dd/dae/a15702.html#a5b6936cedb3fc411ae58f3dc3f6b689a", null ],
-    [ "InitializeAI", "dd/dae/a15702.html#a9480c4294b18c5417895e5070be9a455", null ],
-    [ "JustDied", "dd/dae/a15702.html#a6c85c56c2483c3e8b4de67b94a45e0a6", null ],
-    [ "JustEngagedWith", "dd/dae/a15702.html#a135c5606742474e77ffd0ee0a3c3ee69", null ],
-    [ "KilledUnit", "dd/dae/a15702.html#abdf2cb95f0d3d7756584c338f2e2db25", null ],
-    [ "Reset", "dd/dae/a15702.html#a0377375b89b02db3cae01390fdd13ee2", null ],
-    [ "ResetPlayersPhaseMask", "dd/dae/a15702.html#afbfa62f2b72a95434348f74fdda46da6", null ],
-    [ "SetData", "dd/dae/a15702.html#aa8b5ae6214f0c764f15b096876d614d7", null ],
-    [ "UpdateAI", "dd/dae/a15702.html#aceac85fb06c81ccd171b024ad0d57ffe", null ],
-    [ "insanityPhase", "dd/dae/a15702.html#ae90de1e956eb3653c8c2f0c04d89585b", null ],
-    [ "insanityTimes", "dd/dae/a15702.html#a7d2693147f9cb20a45ff2e5b6a2ca209", null ]
+    [ "HandleDummy", "dd/dae/a15702.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
+    [ "PrepareSpellScript", "dd/dae/a15702.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
+    [ "Register", "dd/dae/a15702.html#a4359ad73b513a368509a066a039ddf53", null ],
+    [ "_targetCount", "dd/dae/a15702.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
 ];

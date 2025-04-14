@@ -1,8 +1,6 @@
 var a17494 =
 [
-    [ "npc_gunship_mageAI", "dd/da4/a17494.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "dd/da4/a17494.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "dd/da4/a17494.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "dd/da4/a17494.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "dd/da4/a17494.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "npc_gunship_boarding_add_realAI", "dd/da4/a17494.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
+    [ "UpdateAI", "dd/da4/a17494.html#a33ac355c8f61907574a0736a24cbee82", null ],
+    [ "_events", "dd/da4/a17494.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
 ];

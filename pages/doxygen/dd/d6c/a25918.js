@@ -1,7 +1,10 @@
 var a25918 =
 [
-    [ "CalculateSpellAmount", "dd/d6c/a25918.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
-    [ "CheckCast", "dd/d6c/a25918.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "dd/d6c/a25918.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "dd/d6c/a25918.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "CheckProc", "dd/d6c/a25918.html#a787008462dce35eb27deda41301b146d", null ],
+    [ "HandleProc", "dd/d6c/a25918.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
+    [ "Load", "dd/d6c/a25918.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
+    [ "PrepareAuraScript", "dd/d6c/a25918.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
+    [ "Register", "dd/d6c/a25918.html#aa4ef731870355dc386fcd07c5f19d090", null ],
+    [ "Validate", "dd/d6c/a25918.html#ad04864f0710262364cf40e071446d87c", null ],
+    [ "_procTarget", "dd/d6c/a25918.html#a9383231fc71c6239507fdf8765d63f3d", null ]
 ];

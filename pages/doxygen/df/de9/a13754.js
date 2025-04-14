@@ -1,6 +1,7 @@
 var a13754 =
 [
-    [ "go", "df/de9/a13754.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
-    [ "npc", "df/de9/a13754.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
-    [ "pos", "df/de9/a13754.html#a51175880a326101b29879d7a6a62c48d", null ]
+    [ "OnPeriodic", "df/de9/a13754.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
+    [ "PrepareAuraScript", "df/de9/a13754.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
+    [ "Register", "df/de9/a13754.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
+    [ "Validate", "df/de9/a13754.html#a7ed214de6769314a45540e9afdb82949", null ]
 ];

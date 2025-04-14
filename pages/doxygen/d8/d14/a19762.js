@@ -1,6 +1,6 @@
 var a19762 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "de/da9/a19766.html", "de/da9/a19766" ],
-    [ "boss_flame_leviathan_overload_device", "d8/d14/a19762.html#ad00f601170c1af833aadb17eab5d19a8", null ],
-    [ "GetAI", "d8/d14/a19762.html#a73988d2b1cfe61d0356ec1f317d90162", null ]
+    [ "boss_flame_leviathan_defense_turretAI", "de/da9/a19766.html", "de/da9/a19766" ],
+    [ "boss_flame_leviathan_defense_turret", "d8/d14/a19762.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
+    [ "GetAI", "d8/d14/a19762.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
 ];

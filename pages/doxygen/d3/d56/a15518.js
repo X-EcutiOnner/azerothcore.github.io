@@ -1,7 +1,12 @@
 var a15518 =
 [
-    [ "npc_giltharesAI", "d3/d56/a15518.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "d3/d56/a15518.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "d3/d56/a15518.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "d3/d56/a15518.html#a9308c73760e50e0f3d04031b508526d1", null ]
+    [ "npc_toogaAI", "d3/d56/a15518.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
+    [ "MoveInLineOfSight", "d3/d56/a15518.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
+    [ "MovementInform", "d3/d56/a15518.html#a9315e8ba2688903aaf5b871a7490a700", null ],
+    [ "Reset", "d3/d56/a15518.html#acfedaf5cc989451a4259a65661685f66", null ],
+    [ "UpdateFollowerAI", "d3/d56/a15518.html#a742791e714be1ff713ab87e7d515bd9e", null ],
+    [ "CheckSpeechTimer", "d3/d56/a15518.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
+    [ "PhasePostEvent", "d3/d56/a15518.html#a4996291afa64e35f3604b2a85ea03dda", null ],
+    [ "PostEventTimer", "d3/d56/a15518.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
+    [ "TortaGUID", "d3/d56/a15518.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
 ];

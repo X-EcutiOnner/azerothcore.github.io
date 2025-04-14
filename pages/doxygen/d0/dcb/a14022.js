@@ -1,6 +1,8 @@
 var a14022 =
 [
-    [ "boss_wushoolayAI", "d0/dcb/a14022.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
-    [ "JustEngagedWith", "d0/dcb/a14022.html#af519da543fff63a39a6fbe48f90f2f22", null ],
-    [ "UpdateAI", "d0/dcb/a14022.html#acfaacee2a97212eb15056c1552b9e06b", null ]
+    [ "boss_venoxis", "d0/dcb/a14022.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "d0/dcb/a14022.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "d0/dcb/a14022.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "d0/dcb/a14022.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "d0/dcb/a14022.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

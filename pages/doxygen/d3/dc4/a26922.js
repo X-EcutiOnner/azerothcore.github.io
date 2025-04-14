@@ -1,5 +1,6 @@
 var a26922 =
 [
-    [ "achievement_everything_counts", "d3/dc4/a26922.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
-    [ "OnCheck", "d3/dc4/a26922.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
+    [ "achievement_arena_by_type", "d3/dc4/a26922.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "d3/dc4/a26922.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "d3/dc4/a26922.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

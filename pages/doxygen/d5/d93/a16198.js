@@ -1,8 +1,6 @@
 var a16198 =
 [
-    [ "npc_announcer_toc5AI", "df/dea/a16202.html", "df/dea/a16202" ],
-    [ "npc_announcer_toc5", "d5/d93/a16198.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
-    [ "GetAI", "d5/d93/a16198.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
-    [ "OnGossipHello", "d5/d93/a16198.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
-    [ "OnGossipSelect", "d5/d93/a16198.html#a9017488c652fd75882db75914f4a2db2", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "df/dea/a16202.html", "df/dea/a16202" ],
+    [ "instance_trial_of_the_champion", "d5/d93/a16198.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "d5/d93/a16198.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

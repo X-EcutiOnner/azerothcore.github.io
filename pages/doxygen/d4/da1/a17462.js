@@ -1,6 +1,5 @@
 var a17462 =
 [
-    [ "npc_igb_ship_crewAI", "d4/da1/a17462.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "d4/da1/a17462.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "d4/da1/a17462.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "npc_zafod_boomboxAI", "d4/da1/a17462.html#a6540d8f5787ce1da211123721ef659f3", null ],
+    [ "sGossipSelect", "d4/da1/a17462.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
 ];

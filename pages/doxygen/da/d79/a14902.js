@@ -1,12 +1,6 @@
 var a14902 =
 [
-    [ "npc_anubisath_guardian", "da/d79/a14902.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
-    [ "DamageTaken", "da/d79/a14902.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
-    [ "JustDied", "da/d79/a14902.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
-    [ "JustEngagedWith", "da/d79/a14902.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
-    [ "Reset", "da/d79/a14902.html#af87cc86141964c48f9c57ed5bade36a5", null ],
-    [ "UpdateAI", "da/d79/a14902.html#a9a9c805c92a3e8e96914d01accb01051", null ],
-    [ "_enraged", "da/d79/a14902.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
-    [ "_scheduler", "da/d79/a14902.html#ad44455c43d53426a152547d5b0770bbe", null ],
-    [ "_spells", "da/d79/a14902.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
+    [ "go_ossirian_crystalAI", "da/d75/a14906.html", "da/d75/a14906" ],
+    [ "go_ossirian_crystal", "da/d79/a14902.html#a783f0f0570ee0f667920e29613b565b2", null ],
+    [ "GetAI", "da/d79/a14902.html#a2f7b12eddc6504917614913e347ec0a0", null ]
 ];

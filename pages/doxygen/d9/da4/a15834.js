@@ -1,6 +1,6 @@
 var a15834 =
 [
-    [ "boss_sartharionAI", "d3/da7/a15838.html", "d3/da7/a15838" ],
-    [ "boss_sartharion", "d9/da4/a15834.html#a6605aee69372d08fba8f4b4523896588", null ],
-    [ "GetAI", "d9/da4/a15834.html#aca5d66e0f5cdcafd6f9cd2c173f43839", null ]
+    [ "HandleScriptEffect", "d9/da4/a15834.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d9/da4/a15834.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d9/da4/a15834.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

@@ -1,9 +1,9 @@
 var a17410 =
 [
-    [ "BattleExperienceEvent", "d4/d4b/a17410.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "d4/d4b/a17410.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "d4/d4b/a17410.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "d4/d4b/a17410.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "d4/d4b/a17410.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "d4/d4b/a17410.html#a4daf5818472ebe7c8d3938e2189d8e02", null ]
+    [ "npc_stinky_iccAI", "d4/d4b/a17410.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
+    [ "JustDied", "d4/d4b/a17410.html#a7fa392980e2d30c935b79377df8dc694", null ],
+    [ "JustEngagedWith", "d4/d4b/a17410.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
+    [ "Reset", "d4/d4b/a17410.html#ac66e3398598576fdc889a7b56646eecf", null ],
+    [ "UpdateAI", "d4/d4b/a17410.html#af6e04824ea1682c529e8579a306d34ca", null ],
+    [ "events", "d4/d4b/a17410.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
 ];

@@ -1,5 +1,5 @@
 var a20050 =
 [
-    [ "go_ulduar_pure_saronite_deposit", "df/d2b/a20050.html#a39da51a78b9f27392ed7494e18e89b93", null ],
-    [ "OnGossipHello", "df/d2b/a20050.html#ab69c5b514e0b79ff7155e0080841d4a2", null ]
+    [ "achievement_smell_saronite", "df/d2b/a20050.html#a42dce2aefa2561952dcf5289126035a8", null ],
+    [ "OnCheck", "df/d2b/a20050.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
 ];

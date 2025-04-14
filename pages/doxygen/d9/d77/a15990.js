@@ -1,7 +1,6 @@
 var a15990 =
 [
-    [ "HandleDummy", "d9/d77/a15990.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "d9/d77/a15990.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "d9/d77/a15990.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "d9/d77/a15990.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "npc_orb_carrierAI", "d2/d17/a15994.html", "d2/d17/a15994" ],
+    [ "npc_orb_carrier", "d9/d77/a15990.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
+    [ "GetAI", "d9/d77/a15990.html#ab5b7bbffc43b840c686dc889805ea401", null ]
 ];

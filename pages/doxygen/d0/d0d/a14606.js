@@ -1,12 +1,13 @@
 var a14606 =
 [
-    [ "boss_mal_ganisAI", "d0/d0d/a14606.html#aa8b70930372cd0729686f7c6032d3152", null ],
-    [ "DamageTaken", "d0/d0d/a14606.html#a4873386266ce3b4b849377028ff746a5", null ],
-    [ "JustDied", "d0/d0d/a14606.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
-    [ "JustEngagedWith", "d0/d0d/a14606.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
-    [ "KilledUnit", "d0/d0d/a14606.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
-    [ "Reset", "d0/d0d/a14606.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
-    [ "UpdateAI", "d0/d0d/a14606.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
-    [ "events", "d0/d0d/a14606.html#a194c002efe244b8c94a072faf72be771", null ],
-    [ "finished", "d0/d0d/a14606.html#ac4c90c814aa55781f863c958253e9df2", null ]
+    [ "boss_infinite_corruptorAI", "d0/d0d/a14606.html#add36192941eaabf7f3d1d41c572783bd", null ],
+    [ "DoAction", "d0/d0d/a14606.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
+    [ "JustDied", "d0/d0d/a14606.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
+    [ "JustEngagedWith", "d0/d0d/a14606.html#a644725505db4fc7a98c4255d0eb34616", null ],
+    [ "JustSummoned", "d0/d0d/a14606.html#a2b12c03184b169a56a0e6696a107dc35", null ],
+    [ "Reset", "d0/d0d/a14606.html#a4dbff495bfcda6fb715dec68616e1764", null ],
+    [ "UpdateAI", "d0/d0d/a14606.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
+    [ "beamTimer", "d0/d0d/a14606.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
+    [ "events", "d0/d0d/a14606.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
+    [ "summons", "d0/d0d/a14606.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
 ];

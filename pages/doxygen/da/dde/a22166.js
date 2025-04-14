@@ -1,8 +1,6 @@
 var a22166 =
 [
-    [ "AfterRemove", "da/dde/a22166.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
-    [ "HandlePeriodic", "da/dde/a22166.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
-    [ "OnApply", "da/dde/a22166.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
-    [ "PrepareAuraScript", "da/dde/a22166.html#a47a6281c42dc9368357cc86912331c77", null ],
-    [ "Register", "da/dde/a22166.html#a868c79cda98b97b27b74d46f86cb980a", null ]
+    [ "npc_wild_wyrmAI", "dc/d99/a22170.html", "dc/d99/a22170" ],
+    [ "npc_wild_wyrm", "da/dde/a22166.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
+    [ "GetAI", "da/dde/a22166.html#aedba91446fe12997047070f123d925d2", null ]
 ];

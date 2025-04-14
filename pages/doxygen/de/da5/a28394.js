@@ -1,11 +1,9 @@
 var a28394 =
 [
-    [ "IsAvailable", "de/da5/a28394.html#adfebd7a162ebae8396669de031c768a6", null ],
-    [ "operator bool", "de/da5/a28394.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
-    [ "operator*", "de/da5/a28394.html#a24733bf06b4a91abcf4945aa5303a275", null ],
-    [ "operator->", "de/da5/a28394.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
-    [ "SecretMgr", "de/da5/a28394.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
-    [ "lock", "de/da5/a28394.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
-    [ "state", "de/da5/a28394.html#a01563e00123d442b82bd6389d838c23d", null ],
-    [ "value", "de/da5/a28394.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
+    [ "flags", "de/da5/a28394.html#a064de2e88c563121bbb78549a7bab868", null ],
+    [ "_flags", "de/da5/a28394.html#a16f1b30a57eb6703e8073ef55d988391", null ],
+    [ "bits", "de/da5/a28394.html#a529f1856635132646457c57f3546f4ec", null ],
+    [ "configKey", "de/da5/a28394.html#af14d118016b9e01612769c00f13aa2d6", null ],
+    [ "oldKey", "de/da5/a28394.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
+    [ "owner", "de/da5/a28394.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
 ];

@@ -1,6 +1,6 @@
 var a26846 =
 [
-    [ "FilterTargets", "d0/d4c/a26846.html#a6224b3193474f569d09edaf29b40c2fb", null ],
-    [ "PrepareSpellScript", "d0/d4c/a26846.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
-    [ "Register", "d0/d4c/a26846.html#a2fab1592d19331239b1ef63045389886", null ]
+    [ "HandleHeal", "d0/d4c/a26846.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "d0/d4c/a26846.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "d0/d4c/a26846.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

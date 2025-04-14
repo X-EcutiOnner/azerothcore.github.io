@@ -1,9 +1,9 @@
 var a03599 =
 [
-    [ "instance_azjol_nerub", "db/dd6/a15818.html", "db/dd6/a15818" ],
-    [ "instance_azjol_nerub::instance_azjol_nerub_InstanceScript", "d3/d5f/a15822.html", "d3/d5f/a15822" ],
-    [ "spell_azjol_nerub_fixate", "d3/dd9/a15826.html", "d3/dd9/a15826" ],
-    [ "spell_azjol_nerub_web_wrap_aura", "d7/dfd/a15830.html", "d7/dfd/a15830" ],
+    [ "instance_azjol_nerub", "d3/dd9/a15826.html", "d3/dd9/a15826" ],
+    [ "instance_azjol_nerub::instance_azjol_nerub_InstanceScript", "d7/dfd/a15830.html", "d7/dfd/a15830" ],
+    [ "spell_azjol_nerub_fixate", "d9/da4/a15834.html", "d9/da4/a15834" ],
+    [ "spell_azjol_nerub_web_wrap_aura", "d3/da7/a15838.html", "d3/da7/a15838" ],
     [ "AddSC_instance_azjol_nerub", "d4/dd9/a03599.html#a58deb67f6fb8962cfe1dfd044fdaabdb", null ],
     [ "boundaries", "d4/dd9/a03599.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "d4/dd9/a03599.html#a412286b689bd324fedd65ddd8dde8afb", null ],

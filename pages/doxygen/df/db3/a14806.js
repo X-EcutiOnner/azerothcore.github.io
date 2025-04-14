@@ -1,16 +1,12 @@
 var a14806 =
 [
-    [ "npc_belnistraszAI", "df/db3/a14806.html#ac57c5de9140d8d37b15b4a30f4ffc0a1", null ],
-    [ "JustDied", "df/db3/a14806.html#aece63cabcfb2bcf54992dc2b4832ca92", null ],
-    [ "JustEngagedWith", "df/db3/a14806.html#ab03f29b1f76b7d67e7d7bb3407e2cd41", null ],
-    [ "MovementInform", "df/db3/a14806.html#ae64e10d0cc860bf033b76538455b9f8e", null ],
-    [ "Reset", "df/db3/a14806.html#aecf1ef9b7f6eecec9489d27ce41deea2", null ],
-    [ "sQuestAccept", "df/db3/a14806.html#aa18258b7f80c040d6a5fb9fbbb321efe", null ],
-    [ "UpdateAI", "df/db3/a14806.html#a45481c2ef18ab3fec727813de96eb1b6", null ],
-    [ "channeling", "df/db3/a14806.html#a88ff13ec705d11475de5a2080998c905", null ],
-    [ "eventInProgress", "df/db3/a14806.html#ae9ce796b17c7791d83e949fa406a2b80", null ],
-    [ "eventProgress", "df/db3/a14806.html#ad32a0387dbf95b6aa40b3311d6ba8348", null ],
-    [ "events", "df/db3/a14806.html#af9c1f14a7a7b7380e9fb99ecdaf80126", null ],
-    [ "instance", "df/db3/a14806.html#a61f3bcbf36e630bbb455405eb89ccf00", null ],
-    [ "spawnerCount", "df/db3/a14806.html#aa5124160ecba044a3752f68945068776", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "df/db3/a14806.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
+    [ "GetData", "df/db3/a14806.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
+    [ "Initialize", "df/db3/a14806.html#aed9ab9542badb0296ca0660c39541cb8", null ],
+    [ "OnGameObjectCreate", "df/db3/a14806.html#a567ac5d9a17514ede5b84c5d78204072", null ],
+    [ "ReadSaveDataMore", "df/db3/a14806.html#a7d6fefed563b0b9763b9c63136c65952", null ],
+    [ "SetData", "df/db3/a14806.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
+    [ "WriteSaveDataMore", "df/db3/a14806.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
+    [ "_firesState", "df/db3/a14806.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
+    [ "_gongPhase", "df/db3/a14806.html#a23485a35f0aa2f2ffad53398882d163a", null ]
 ];

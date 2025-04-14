@@ -1,12 +1,8 @@
 var a16766 =
 [
-    [ "npc_shadowy_mercenaryAI", "d2/d30/a16766.html#ac631624615653a4f82ecfae2aa418455", null ],
-    [ "AttackStart", "d2/d30/a16766.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
-    [ "DoAction", "d2/d30/a16766.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
-    [ "EnterEvadeMode", "d2/d30/a16766.html#a31a9ddf038046534fad1d41afcf76548", null ],
-    [ "JustDied", "d2/d30/a16766.html#a33e576c92d1b10492cb6e65000ca8198", null ],
-    [ "JustEngagedWith", "d2/d30/a16766.html#ae12ade5e863a0022ea99620f354ca51b", null ],
-    [ "Reset", "d2/d30/a16766.html#afad174f812e2aadf6db86703a46f61d2", null ],
-    [ "UpdateAI", "d2/d30/a16766.html#a7a0238f32aa0d608b9d883db5f170052", null ],
-    [ "events", "d2/d30/a16766.html#a4c6e5a49dc4364477187a0189a166578", null ]
+    [ "npc_phantom_hallucinationAI", "d2/d30/a16766.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
+    [ "EnterEvadeMode", "d2/d30/a16766.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
+    [ "JustDied", "d2/d30/a16766.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
+    [ "UpdateAI", "d2/d30/a16766.html#ad874a741c641dbac6380aa682d582d7c", null ],
+    [ "numOfUpd", "d2/d30/a16766.html#adb78f5dcd272e8223f895079885a5461", null ]
 ];

@@ -1,5 +1,5 @@
 var a27586 =
 [
-    [ "npc_suns_reach_reclamation", "d7/d0a/a27586.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "d7/d0a/a27586.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "d7/d0a/a27586.html#afaa929276f8b131005c9b94daa9a09f9", null ],
+    [ "OnPlayerCompleteQuest", "d7/d0a/a27586.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
 ];

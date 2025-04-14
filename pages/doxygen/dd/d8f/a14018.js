@@ -1,6 +1,10 @@
 var a14018 =
 [
-    [ "boss_wushoolayAI", "d0/dcb/a14022.html", "d0/dcb/a14022" ],
-    [ "boss_wushoolay", "dd/d8f/a14018.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "dd/d8f/a14018.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "npc_zealot_zath", "dd/d8f/a14018.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
+    [ "JustDied", "dd/d8f/a14018.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
+    [ "JustEngagedWith", "dd/d8f/a14018.html#a25e059f40de51d880f4ec209ff4dd924", null ],
+    [ "Reset", "dd/d8f/a14018.html#abc4e40afd644f2c89444f3fe475817c0", null ],
+    [ "UpdateAI", "dd/d8f/a14018.html#a467ce2437ec112b42f864ef412c0c976", null ],
+    [ "_scheduler", "dd/d8f/a14018.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
+    [ "instance", "dd/d8f/a14018.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
 ];

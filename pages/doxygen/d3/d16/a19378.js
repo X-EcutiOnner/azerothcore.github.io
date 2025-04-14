@@ -1,6 +1,6 @@
 var a19378 =
 [
-    [ "npc_stormforged_lieutenantAI", "d5/d41/a19382.html", "d5/d41/a19382" ],
-    [ "npc_stormforged_lieutenant", "d3/d16/a19378.html#ab58a73d33c6545815511c5c4f0ecfd9e", null ],
-    [ "GetAI", "d3/d16/a19378.html#ae3aba4b53e73097c261eaaed19f17950", null ]
+    [ "boss_bjarngrimAI", "d5/d41/a19382.html", "d5/d41/a19382" ],
+    [ "boss_bjarngrim", "d3/d16/a19378.html#ab509688547d41ec1fd094fdc45291959", null ],
+    [ "GetAI", "d3/d16/a19378.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
 ];

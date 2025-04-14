@@ -1,6 +1,6 @@
 var a25966 =
 [
-    [ "CheckProc", "de/d84/a25966.html#a0f1461140b08deac3f044142067368e7", null ],
-    [ "PrepareAuraScript", "de/d84/a25966.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
-    [ "Register", "de/d84/a25966.html#a05e31c2252c9054a18b4267be84895b9", null ]
+    [ "FilterTargets", "de/d84/a25966.html#aad5d183d0d7ea229cbfc11f751536624", null ],
+    [ "PrepareSpellScript", "de/d84/a25966.html#a68ba19142ae6eb04a2547495233700df", null ],
+    [ "Register", "de/d84/a25966.html#a22c313409438f94d29ab3e236a56c115", null ]
 ];

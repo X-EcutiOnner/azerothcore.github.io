@@ -1,5 +1,6 @@
 var a20586 =
 [
-    [ "achievement_thorim_lose_your_illusion", "d1/dee/a20586.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
-    [ "OnCheck", "d1/dee/a20586.html#a322df4f30445a84085615925f74a8a6b", null ]
+    [ "OnPeriodic", "d1/dee/a20586.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "d1/dee/a20586.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "d1/dee/a20586.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

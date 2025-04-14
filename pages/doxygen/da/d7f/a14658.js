@@ -1,14 +1,7 @@
 var a14658 =
 [
-    [ "npc_cos_stratholme_citizienAI", "da/d7f/a14658.html#a591aaf16ef5befada12378acfbef9465", null ],
-    [ "DoAction", "da/d7f/a14658.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
-    [ "InfectMe", "da/d7f/a14658.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
-    [ "MoveInLineOfSight", "da/d7f/a14658.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
-    [ "Reset", "da/d7f/a14658.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
-    [ "SpellHit", "da/d7f/a14658.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
-    [ "UpdateAI", "da/d7f/a14658.html#a81a1382493091a99cae1c2bb580a7f32", null ],
-    [ "allowTimer", "da/d7f/a14658.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
-    [ "changeTimer", "da/d7f/a14658.html#aa757ab2eef813dceaaad65d84681099b", null ],
-    [ "locked", "da/d7f/a14658.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
-    [ "pInstance", "da/d7f/a14658.html#aadae06c487a7755114f856a835d48c7e", null ]
+    [ "npc_cos_chromie_middle", "da/d7f/a14658.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "da/d7f/a14658.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "da/d7f/a14658.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "da/d7f/a14658.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
 ];

@@ -1,7 +1,7 @@
 var a13750 =
 [
-    [ "HandleScript", "da/d61/a13750.html#ac45614416a710794b3e3a5cee239e28a", null ],
-    [ "PrepareSpellScript", "da/d61/a13750.html#a832aee6557e27bfa418957297a05bea3", null ],
-    [ "Register", "da/d61/a13750.html#a2f5d255de09818203e498c0090bdd3fb", null ],
-    [ "Validate", "da/d61/a13750.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
+    [ "npc_zuljin_vortex", "da/d61/a13750.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "da/d61/a13750.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "da/d61/a13750.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "da/d61/a13750.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

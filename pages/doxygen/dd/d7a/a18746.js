@@ -1,5 +1,6 @@
 var a18746 =
 [
-    [ "at_icc_gauntlet_event", "dd/d7a/a18746.html#ae8790bad655661aeda887f56b9393847", null ],
-    [ "OnTrigger", "dd/d7a/a18746.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
+    [ "npc_icc_putricades_trapAI", "d0/d14/a18750.html", "d0/d14/a18750" ],
+    [ "npc_icc_putricades_trap", "dd/d7a/a18746.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
+    [ "GetAI", "dd/d7a/a18746.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
 ];

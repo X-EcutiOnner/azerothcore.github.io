@@ -1,6 +1,5 @@
 var a16698 =
 [
-    [ "entry", "db/dcc/a16698.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "db/dcc/a16698.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "db/dcc/a16698.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "npc_fos_leader_secondAI", "db/dcc/a16698.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "db/dcc/a16698.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

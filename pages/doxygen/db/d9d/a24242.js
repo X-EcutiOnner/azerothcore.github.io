@@ -1,6 +1,8 @@
 var a24242 =
 [
-    [ "npc_pet_dk_ebon_gargoyleAI", "d1/de7/a24246.html", "d1/de7/a24246" ],
-    [ "npc_pet_dk_ebon_gargoyle", "db/d9d/a24242.html#ae4dcaff120a52c20a8b73d97a08604d7", null ],
-    [ "GetAI", "db/d9d/a24242.html#a19ff9fd627aab738c91ce23cf6acfffd", null ]
+    [ "go_skull_pile", "db/d9d/a24242.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "db/d9d/a24242.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "db/d9d/a24242.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "db/d9d/a24242.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "db/d9d/a24242.html#af74fcd75404c0886128401d661067394", null ]
 ];

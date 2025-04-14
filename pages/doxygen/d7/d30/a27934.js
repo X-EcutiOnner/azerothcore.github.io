@@ -1,6 +1,7 @@
 var a27934 =
 [
-    [ "ChannelID", "d7/d30/a27934.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "d7/d30/a27934.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "d7/d30/a27934.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "Class", "d7/d30/a27934.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "d7/d30/a27934.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "d7/d30/a27934.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "d7/d30/a27934.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

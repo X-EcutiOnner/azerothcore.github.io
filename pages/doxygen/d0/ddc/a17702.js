@@ -1,6 +1,7 @@
 var a17702 =
 [
-    [ "PrepareSpellScript", "d0/ddc/a17702.html#a9041ce6139de9a48621d6898ddcca673", null ],
-    [ "RecalculateDamage", "d0/ddc/a17702.html#abfb7c002577a59864fb2aa069b713c0a", null ],
-    [ "Register", "d0/ddc/a17702.html#a4308449e8cbe7ed59598a837024141cb", null ]
+    [ "HandleSpikes", "d0/ddc/a17702.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "d0/ddc/a17702.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "d0/ddc/a17702.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "d0/ddc/a17702.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

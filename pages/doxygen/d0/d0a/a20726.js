@@ -1,6 +1,6 @@
 var a20726 =
 [
-    [ "boss_yoggsaron_crusher_tentacleAI", "de/d3a/a20730.html", "de/d3a/a20730" ],
-    [ "boss_yoggsaron_crusher_tentacle", "d0/d0a/a20726.html#a9bb0c5535bf98e186d39f235f5786ff0", null ],
-    [ "GetAI", "d0/d0a/a20726.html#a82b6a328197ec81223c1d00dabb79a66", null ]
+    [ "boss_yoggsaron_death_orbAI", "de/d3a/a20730.html", "de/d3a/a20730" ],
+    [ "boss_yoggsaron_death_orb", "d0/d0a/a20726.html#a862d01f012cee832b41bc7c584816b93", null ],
+    [ "GetAI", "d0/d0a/a20726.html#a3169cd0e78642503f394a6cb74307871", null ]
 ];

@@ -1,6 +1,8 @@
 var a29524 =
 [
-    [ "npc_dancing_flamesAI", "d3/d13/a29528.html", "d3/d13/a29528" ],
-    [ "npc_dancing_flames", "da/d55/a29524.html#adec0401f876ddf159f28fdda8bc4d563", null ],
-    [ "GetAI", "da/d55/a29524.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
+    [ "DBCFile", "d9/dbf/a28518.html", "d9/dbf/a28518" ],
+    [ "DBCFile::Exception", "db/d20/a28522.html", "db/d20/a28522" ],
+    [ "DBCFile::NotFound", "d2/d51/a28526.html", "d2/d51/a28526" ],
+    [ "DBCFile::Record", "dd/dc7/a28530.html", "dd/dc7/a28530" ],
+    [ "DBCFile::Iterator", "d4/dcf/a28534.html", "d4/dcf/a28534" ]
 ];

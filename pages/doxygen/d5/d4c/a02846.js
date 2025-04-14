@@ -1,6 +1,6 @@
 var a02846 =
 [
-    [ "boss_isalien", "d5/d11/a14746.html", "d5/d11/a14746" ],
+    [ "boss_isalien", "d8/d2f/a14754.html", "d8/d2f/a14754" ],
     [ "Phases", "d5/d4c/a02846.html#a5d32d09cde4f13ec4fb05a824d3e3219", [
       [ "PHASE_HUMAN", "d9/df8/a03023.html#a5d32d09cde4f13ec4fb05a824d3e3219aa89ac360fd4481a03c666986e321f9b6", null ],
       [ "PHASE_CAT", "d9/df8/a03023.html#a5d32d09cde4f13ec4fb05a824d3e3219a1b3fac79b38cbf006c4a86301ac01afb", null ],
@@ -838,6 +838,9 @@ var a02846 =
       [ "SPELL_BLACK_HOLE_VISUAL2", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd", null ],
       [ "SPELL_BLACK_HOLE_PASSIVE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085", null ],
       [ "SPELL_BLACK_HOLE_EFFECT", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f", null ],
+      [ "SPELL_DARK_FIEND_APPEARANCE", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0", null ],
+      [ "SPELL_DARK_FIEND_SECONDARY", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d", null ],
+      [ "SPELL_DARK_FIEND_TRIGGER", "dc/d58/a03383.html#a5bd342133be8c2137b831460acc9298ca61f2d13d57b09aad7cd7437b32a1a1f8", null ],
       [ "SPELL_ARCHAEDAS_AWAKEN", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63", null ],
       [ "SPELL_AWAKEN_VAULT_WALKER", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e", null ],
       [ "SPELL_SOUL_CORRUPTION", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cadf9dc8cb0274ecae5a575b3aa8f5f87b", null ],

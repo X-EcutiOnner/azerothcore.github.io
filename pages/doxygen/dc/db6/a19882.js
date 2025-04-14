@@ -1,6 +1,7 @@
 var a19882 =
 [
-    [ "CheckAreaTarget", "dc/db6/a19882.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
-    [ "PrepareAuraScript", "dc/db6/a19882.html#a921b2f67c417244310398bd93061d61c", null ],
-    [ "Register", "dc/db6/a19882.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
+    [ "HandleScript", "dc/db6/a19882.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "dc/db6/a19882.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "dc/db6/a19882.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "dc/db6/a19882.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

@@ -1,7 +1,14 @@
 var a21974 =
 [
-    [ "HandleDummy", "de/df7/a21974.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "de/df7/a21974.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "de/df7/a21974.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "de/df7/a21974.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "npc_tirions_gambit_tirionAI", "de/df7/a21974.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
+    [ "DoAction", "de/df7/a21974.html#a495e0762614020ef6d7b741447099326", null ],
+    [ "DoSummonAction", "de/df7/a21974.html#a891b31661705ed4df634059e6165d499", null ],
+    [ "JustSummoned", "de/df7/a21974.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
+    [ "Reset", "de/df7/a21974.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
+    [ "SetData", "de/df7/a21974.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
+    [ "SummonedCreatureDespawn", "de/df7/a21974.html#aca05fee85997dffba6ec998b144b9495", null ],
+    [ "UpdateEscortAI", "de/df7/a21974.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
+    [ "WaypointReached", "de/df7/a21974.html#af5fd69b799c6227dba901f434e30c434", null ],
+    [ "events", "de/df7/a21974.html#a711c55c26187ae695644b770a358766e", null ],
+    [ "summons", "de/df7/a21974.html#af574a4b136ff42c597e30c83e4d463ca", null ]
 ];

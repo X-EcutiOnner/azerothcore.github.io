@@ -1,6 +1,6 @@
 var a17162 =
 [
-    [ "boss_prince_valanarAI", "da/d20/a17166.html", "da/d20/a17166" ],
-    [ "boss_prince_valanar_icc", "d3/d94/a17162.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
-    [ "GetAI", "d3/d94/a17162.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
+    [ "boss_prince_taldaramAI", "da/d20/a17166.html", "da/d20/a17166" ],
+    [ "boss_prince_taldaram_icc", "d3/d94/a17162.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "d3/d94/a17162.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

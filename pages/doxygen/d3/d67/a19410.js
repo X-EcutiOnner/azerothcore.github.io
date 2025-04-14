@@ -1,6 +1,6 @@
 var a19410 =
 [
-    [ "CalculateDamage", "d3/d67/a19410.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "d3/d67/a19410.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "d3/d67/a19410.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "boss_lokenAI", "d6/dfb/a19414.html", "d6/dfb/a19414" ],
+    [ "boss_loken", "d3/d67/a19410.html#a44ba0ee009dcdfca6ff8739e297ec786", null ],
+    [ "GetAI", "d3/d67/a19410.html#affb73db8ecdc2d035f8076ecca0c9a99", null ]
 ];

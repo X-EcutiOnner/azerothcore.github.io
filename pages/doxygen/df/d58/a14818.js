@@ -1,6 +1,6 @@
 var a14818 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "d6/d1c/a14822.html", "d6/d1c/a14822" ],
-    [ "instance_razorfen_kraul", "df/d58/a14818.html#aedd65b901c8131a7ac21e8576734f76f", null ],
-    [ "GetInstanceScript", "df/d58/a14818.html#a78e77010ebb055b9530733ca25533110", null ]
+    [ "npc_idol_room_spawnerAI", "d6/d1c/a14822.html", "d6/d1c/a14822" ],
+    [ "npc_idol_room_spawner", "df/d58/a14818.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "df/d58/a14818.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

@@ -1,14 +1,11 @@
 var a15950 =
 [
-    [ "npc_onyx_flamecallerAI", "d1/d6f/a15950.html#aa0633855e57f6681cfc68a8dfee9a733", null ],
-    [ "AddWaypoints", "d1/d6f/a15950.html#a308b99ee4d07ed1de0cabd94dafd5dd8", null ],
-    [ "EnterEvadeMode", "d1/d6f/a15950.html#ac29163e2e69cffbf21249eb3828b5b72", null ],
-    [ "IsSummonedBy", "d1/d6f/a15950.html#afc6c4faffd83b2fa4ddbb4ae78b622d9", null ],
-    [ "JustEngagedWith", "d1/d6f/a15950.html#a3cba2cd9a920816bee993ae2986639a0", null ],
-    [ "Reset", "d1/d6f/a15950.html#a756a44feb79eb56f443ee16995a2566d", null ],
-    [ "UpdateEscortAI", "d1/d6f/a15950.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
-    [ "WaypointReached", "d1/d6f/a15950.html#a8b510bce47929e85741f5debd857de8d", null ],
-    [ "_events", "d1/d6f/a15950.html#a9280b604135308078860c20667da9819", null ],
-    [ "_instance", "d1/d6f/a15950.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
-    [ "_lavaGoutCount", "d1/d6f/a15950.html#a1f46c988316c1870f506a66f2390e79b", null ]
+    [ "boss_general_zarithrianAI", "d1/d6f/a15950.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d1/d6f/a15950.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "d1/d6f/a15950.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "d1/d6f/a15950.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "d1/d6f/a15950.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "d1/d6f/a15950.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "d1/d6f/a15950.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "d1/d6f/a15950.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

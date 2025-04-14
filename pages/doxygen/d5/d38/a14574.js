@@ -1,10 +1,11 @@
 var a14574 =
 [
-    [ "npc_hyjal_frost_wyrm", "d5/d38/a14574.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "d5/d38/a14574.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "d5/d38/a14574.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "d5/d38/a14574.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "d5/d38/a14574.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "d5/d38/a14574.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "d5/d38/a14574.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "npc_hyjal_ground_trash", "d5/d38/a14574.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
+    [ "AttackStart", "d5/d38/a14574.html#a0ab86d651644dcc579585176c2b5c07e", null ],
+    [ "DoAction", "d5/d38/a14574.html#aa92481bcf993c4eda5ef271145200d77", null ],
+    [ "GetNearbyFriendlyTrashCreature", "d5/d38/a14574.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
+    [ "JustEngagedWith", "d5/d38/a14574.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
+    [ "PathEndReached", "d5/d38/a14574.html#a035610284a56e690200f978b0fd496ab", null ],
+    [ "Reset", "d5/d38/a14574.html#aa38b45f63841c049a2add0a9832268ef", null ],
+    [ "UpdateAI", "d5/d38/a14574.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
 ];

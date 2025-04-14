@@ -1,6 +1,7 @@
 var a21990 =
 [
-    [ "npc_infra_green_bomber_genericAI", "df/dda/a21994.html", "df/dda/a21994" ],
-    [ "npc_infra_green_bomber_generic", "d1/dc4/a21990.html#a39134a09376c35f15e99377cd28ac6ff", null ],
-    [ "GetAI", "d1/dc4/a21990.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
+    [ "HandleDummy", "d1/dc4/a21990.html#a85874062bceced2694fff725649df892", null ],
+    [ "PrepareSpellScript", "d1/dc4/a21990.html#a47bae4bdc488480f91517465d8e1b784", null ],
+    [ "Register", "d1/dc4/a21990.html#a7131340678ca685db98e2087661321a9", null ],
+    [ "Validate", "d1/dc4/a21990.html#af1b74ceee10fc48a0b85d4a284103950", null ]
 ];

@@ -1,7 +1,6 @@
 var a17258 =
 [
-    [ "PeriodicTick", "d0/d37/a17258.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
-    [ "PrepareAuraScript", "d0/d37/a17258.html#ac1abcbe62887678adad0194fdf27825a", null ],
-    [ "Register", "d0/d37/a17258.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
-    [ "Validate", "d0/d37/a17258.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
+    [ "boss_blood_queen_lana_thelAI", "d7/dfc/a17262.html", "d7/dfc/a17262" ],
+    [ "boss_blood_queen_lana_thel", "d0/d37/a17258.html#a9f8fa906f01082caacd106abc2707b07", null ],
+    [ "GetAI", "d0/d37/a17258.html#a7873efd945bdb24228866f639e32879b", null ]
 ];

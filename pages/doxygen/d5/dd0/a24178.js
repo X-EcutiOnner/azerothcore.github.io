@@ -1,5 +1,6 @@
 var a24178 =
 [
-    [ "npc_shattrath_daily_quest", "d5/dd0/a24178.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "d5/dd0/a24178.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "npc_kservantAI", "d6/d4b/a24182.html", "d6/d4b/a24182" ],
+    [ "npc_kservant", "d5/dd0/a24178.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "d5/dd0/a24178.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

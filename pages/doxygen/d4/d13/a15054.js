@@ -1,6 +1,7 @@
 var a15054 =
 [
-    [ "FilterTargets", "d4/d13/a15054.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
-    [ "PrepareSpellScript", "d4/d13/a15054.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
-    [ "Register", "d4/d13/a15054.html#aaf7b4fba94d94331f6b35add2b836061", null ]
+    [ "npc_sartura_royal_guard", "d4/d13/a15054.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "d4/d13/a15054.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "d4/d13/a15054.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "d4/d13/a15054.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

@@ -1,7 +1,7 @@
 var a25898 =
 [
-    [ "HandleKnockBack", "d3/d80/a25898.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
-    [ "PrepareSpellScript", "d3/d80/a25898.html#ab951d6403188f178f79311cead8a0a8f", null ],
-    [ "Register", "d3/d80/a25898.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
-    [ "Validate", "d3/d80/a25898.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
+    [ "OnRemove", "d3/d80/a25898.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
+    [ "PrepareAuraScript", "d3/d80/a25898.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
+    [ "Register", "d3/d80/a25898.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
+    [ "Validate", "d3/d80/a25898.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
 ];

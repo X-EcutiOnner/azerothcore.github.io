@@ -1,6 +1,6 @@
 var a15062 =
 [
-    [ "boss_veknilash", "da/d8d/a15062.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "da/d8d/a15062.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "da/d8d/a15062.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "FilterTargets", "da/d8d/a15062.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
+    [ "PrepareSpellScript", "da/d8d/a15062.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
+    [ "Register", "da/d8d/a15062.html#aaf7b4fba94d94331f6b35add2b836061", null ]
 ];

@@ -1,16 +1,15 @@
 var a14346 =
 [
-    [ "npc_midsummer_torch_target", "d7/d4d/a14346.html#a2abb5371f151c8d3c4f7247c411635a0", null ],
-    [ "CanBeSeen", "d7/d4d/a14346.html#afd53ae2c07091553025f5af7c170a046", null ],
-    [ "FillPositions", "d7/d4d/a14346.html#ae5717304f44407fb34713990d15279d4", null ],
-    [ "SelectPosition", "d7/d4d/a14346.html#a4d35d972cafccf892bfd3adb255e1c5b", null ],
-    [ "SetPlayerGUID", "d7/d4d/a14346.html#ab4b115eb02ce96996e06cafd8a1cd867", null ],
-    [ "SpellHit", "d7/d4d/a14346.html#a93a6b9ebbda5685a5d2caa1bc9e06941", null ],
-    [ "UpdateAI", "d7/d4d/a14346.html#a2c3431cab03347f3f64c95742b2f5a35", null ],
-    [ "counter", "d7/d4d/a14346.html#a165c1c1a406256f5651fb01ef6843531", null ],
-    [ "maxCount", "d7/d4d/a14346.html#aaf046d64175bcd1382e475843128a139", null ],
-    [ "playerGUID", "d7/d4d/a14346.html#ad25b68318dc06ad9c835e81b73d4a766", null ],
-    [ "posVec", "d7/d4d/a14346.html#a72a71ea9db5c4f3aeb3edca285f94935", null ],
-    [ "startTimer", "d7/d4d/a14346.html#a7bbd7251f3cf0ad46c8584b42b41ea6d", null ],
-    [ "teleTimer", "d7/d4d/a14346.html#a22190728dc2b82db70eeb0caa8531647", null ]
+    [ "npc_midsummer_bonfire", "d7/d4d/a14346.html#a07c8b1add555697fdb29fda89f42c4af", null ],
+    [ "Ignite", "d7/d4d/a14346.html#a2a398299b3584e3a871b1b6e83b4ff5f", null ],
+    [ "InitBonfire", "d7/d4d/a14346.html#a9210a0a472d609f66895bfa0a8e324b0", null ],
+    [ "SpellHit", "d7/d4d/a14346.html#a9ad2102b2dea60fbb81c1578b97f34dc", null ],
+    [ "StampOut", "d7/d4d/a14346.html#a1f8bd11d0f49c0a44764a2f34e6ee147", null ],
+    [ "UpdateAI", "d7/d4d/a14346.html#a46733a171006e4693a32391cfe954050", null ],
+    [ "UpdateBonfireBlessingBuffs", "d7/d4d/a14346.html#a1236b61f21ff1a1b85bbc7058ca8e17c", null ],
+    [ "_bonfire", "d7/d4d/a14346.html#aaa2f2822cb5c104ec2d90c2a344b409d", null ],
+    [ "_isStampedOut", "d7/d4d/a14346.html#aa21c9f7a5d7ac29663d94da55ef34373", null ],
+    [ "_spellFocus", "d7/d4d/a14346.html#abef815568f7d39bbda20f9611e3abc52", null ],
+    [ "_teamId", "d7/d4d/a14346.html#a5c0894721d13dd49961c0687c100d7a5", null ],
+    [ "_type", "d7/d4d/a14346.html#a7c26b81f24dc2fc0ed9fc53d1d5935f5", null ]
 ];

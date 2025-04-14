@@ -1,7 +1,7 @@
 var a15830 =
 [
-    [ "OnRemove", "d7/dfd/a15830.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "d7/dfd/a15830.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "d7/dfd/a15830.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "d7/dfd/a15830.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d7/dfd/a15830.html#a886ed4c1485fdedcc176341210eee31a", null ],
+    [ "OnCreatureCreate", "d7/dfd/a15830.html#a7a99d985a4b465ae87c04211a7a83a77", null ],
+    [ "OnGameObjectCreate", "d7/dfd/a15830.html#a1ef3dc88400345998d03f3c993b9a181", null ],
+    [ "OnGameObjectRemove", "d7/dfd/a15830.html#a3a2776b83272d81de9ddcb0c90ac881c", null ]
 ];

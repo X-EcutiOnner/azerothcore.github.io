@@ -1,7 +1,8 @@
 var a14386 =
 [
-    [ "HandleFinish", "d3/dce/a14386.html#a8927aaa07145b46067d5807c2048330a", null ],
-    [ "PrepareSpellScript", "d3/dce/a14386.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
-    [ "Register", "d3/dce/a14386.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
-    [ "Validate", "d3/dce/a14386.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
+    [ "HandleEffectApply", "d3/dce/a14386.html#a31d4e0da71893a8a673a2ac4f7c26c70", null ],
+    [ "HandleEffectRemove", "d3/dce/a14386.html#af8661463589640c9550bc62e8f74afcd", null ],
+    [ "PrepareAuraScript", "d3/dce/a14386.html#a2885eb37d4af8f1e90e2a4967f5acc75", null ],
+    [ "Register", "d3/dce/a14386.html#ada4a148e0b50f5853eaf02c465f6e876", null ],
+    [ "torchGUID", "d3/dce/a14386.html#a8ccf51241d3792c8c36d983bf471167e", null ]
 ];

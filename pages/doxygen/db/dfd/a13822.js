@@ -1,6 +1,6 @@
 var a13822 =
 [
-    [ "npc_zulian_prowlerAI", "d3/d2f/a13826.html", "d3/d2f/a13826" ],
-    [ "npc_zulian_prowler", "db/dfd/a13822.html#a27ae990985976d02bb221b6d669fa849", null ],
-    [ "GetAI", "db/dfd/a13822.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
+    [ "boss_arlokkAI", "d3/d2f/a13826.html", "d3/d2f/a13826" ],
+    [ "boss_arlokk", "db/dfd/a13822.html#a55bb21239e05acff18d2fb147449800e", null ],
+    [ "GetAI", "db/dfd/a13822.html#a58b8cc7a198784b48faaab1b069d397c", null ]
 ];

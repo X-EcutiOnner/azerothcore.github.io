@@ -1,20 +1,10 @@
 var a13714 =
 [
-    [ "boss_janalai", "de/da9/a13714.html#a6a049cb60b475b6c496862205d91c39f", null ],
-    [ "Boom", "de/da9/a13714.html#a902814fa472af7dde6096e6e1901bfd4", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "de/da9/a13714.html#a9320a91d93f1fc82ec863ecf767c0a8a", null ],
-    [ "DamageDealt", "de/da9/a13714.html#af29b99a31b38516815390087d76c9408", null ],
-    [ "FireWall", "de/da9/a13714.html#ac3cd768db0abbbe4b03a08f214afc5ba", null ],
-    [ "HatchAllEggs", "de/da9/a13714.html#a7caee2554fe4f6211589e3346d1865fd", null ],
-    [ "JustDied", "de/da9/a13714.html#a1dd381dbf7bdc25e6a5fc519b132c5e4", null ],
-    [ "JustEngagedWith", "de/da9/a13714.html#af16f7db848ff2ddcf060ba770d0df836", null ],
-    [ "JustSummoned", "de/da9/a13714.html#a37aacd788ee8206a8ffbaad7ba702736", null ],
-    [ "Reset", "de/da9/a13714.html#a8f42138403eb2ef6d1737539dd352e80", null ],
-    [ "SetData", "de/da9/a13714.html#a48636a0186d7a09e4e98d960bab5530e", null ],
-    [ "SpawnBombs", "de/da9/a13714.html#ab352cc1bb7f2fc04505de30fe041c9bd", null ],
-    [ "StartBombing", "de/da9/a13714.html#a9a32cbc9bb1c1542a19aea32f9a9addf", null ],
-    [ "ThrowBombs", "de/da9/a13714.html#a9a927462879c6c81b2c919c62336a08c", null ],
-    [ "_isBombing", "de/da9/a13714.html#a881f564fe75051c1c10e645d3f0b243b", null ],
-    [ "_isFlameBreathing", "de/da9/a13714.html#a0fc79fcdfdd27baa047d22b86135a653", null ],
-    [ "_sideHatched", "de/da9/a13714.html#ae5cb2bcdfd54a66f62dc807946249528", null ]
+    [ "boss_alyson_antille", "de/da9/a13714.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
+    [ "GetNearbyFriendlies", "de/da9/a13714.html#ab99596d5c2eafac8c678378d509bf585", null ],
+    [ "JustEngagedWith", "de/da9/a13714.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
+    [ "RandomReverseFriendlyList", "de/da9/a13714.html#afef27de229ba2c3b8beb30809a313237", null ],
+    [ "Reset", "de/da9/a13714.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
+    [ "UpdateAI", "de/da9/a13714.html#a15157be42d166a239ab658fc04292e44", null ],
+    [ "_friendlyList", "de/da9/a13714.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
 ];

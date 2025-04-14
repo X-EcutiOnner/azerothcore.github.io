@@ -1,7 +1,6 @@
 var a21146 =
 [
-    [ "HandleDummy", "d0/d3c/a21146.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "d0/d3c/a21146.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "d0/d3c/a21146.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "d0/d3c/a21146.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "boss_koralonAI", "d6/d07/a21150.html", "d6/d07/a21150" ],
+    [ "boss_koralon", "d0/d3c/a21146.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "d0/d3c/a21146.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

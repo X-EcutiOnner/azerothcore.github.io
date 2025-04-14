@@ -1,6 +1,6 @@
 var a18938 =
 [
-    [ "boss_heiganAI", "dd/d0d/a18942.html", "dd/d0d/a18942" ],
-    [ "boss_heigan", "de/db7/a18938.html#aefa3a6d870bde0d33504c5f2b56572be", null ],
-    [ "GetAI", "de/db7/a18938.html#ad9edf8eade874c1ecc2cecdac17700a1", null ]
+    [ "FilterTargets", "de/db7/a18938.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "de/db7/a18938.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "de/db7/a18938.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

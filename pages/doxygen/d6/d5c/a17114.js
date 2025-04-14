@@ -1,6 +1,6 @@
 var a17114 =
 [
-    [ "boss_slad_ranAI", "d0/d5a/a17118.html", "d0/d5a/a17118" ],
-    [ "boss_slad_ran", "d6/d5c/a17114.html#a9b960242e2f186d334d7ce04b999e274", null ],
-    [ "GetAI", "d6/d5c/a17114.html#a26651b7ca111bd64549283c37e34db11", null ]
+    [ "HandlePeriodic", "d6/d5c/a17114.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "d6/d5c/a17114.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "d6/d5c/a17114.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

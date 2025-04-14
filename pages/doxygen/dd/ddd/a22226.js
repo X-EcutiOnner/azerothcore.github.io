@@ -1,7 +1,6 @@
 var a22226 =
 [
-    [ "npc_wg_demolisher_engineer", "dd/ddd/a22226.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "dd/ddd/a22226.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "dd/ddd/a22226.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "dd/ddd/a22226.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "de/da4/a22230.html", "de/da4/a22230" ],
+    [ "npc_vehicle_d16_propelled_delivery", "dd/ddd/a22226.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "dd/ddd/a22226.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

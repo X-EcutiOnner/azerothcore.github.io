@@ -1,11 +1,8 @@
 var a21114 =
 [
-    [ "boss_archavonAI", "d9/db1/a21114.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "d9/db1/a21114.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "d9/db1/a21114.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "d9/db1/a21114.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "d9/db1/a21114.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "d9/db1/a21114.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "d9/db1/a21114.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "d9/db1/a21114.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "CheckProc", "d9/db1/a21114.html#ac955cc78dd3206816906dd06b3e006f6", null ],
+    [ "HandleProc", "d9/db1/a21114.html#a966d23cc5714fe35d80b2964dddda536", null ],
+    [ "PrepareAuraScript", "d9/db1/a21114.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
+    [ "Register", "d9/db1/a21114.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
+    [ "Validate", "d9/db1/a21114.html#a5d8e764dafd26548af8588593bf27990", null ]
 ];

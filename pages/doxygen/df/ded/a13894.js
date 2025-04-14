@@ -1,9 +1,7 @@
 var a13894 =
 [
-    [ "boss_hazzarah", "df/ded/a13894.html#a73ba49b91addc9c03e1692587fe66a52", null ],
-    [ "CanAIAttack", "df/ded/a13894.html#a9038a5b4276fda8a6865217a7c494eec", null ],
-    [ "JustEngagedWith", "df/ded/a13894.html#a18e382c03ff923bb851a9cd8e2541788", null ],
-    [ "JustSummoned", "df/ded/a13894.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
-    [ "SummonedCreatureDies", "df/ded/a13894.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
-    [ "UpdateAI", "df/ded/a13894.html#a61d92f1650a84ed9684d33879e54bd09", null ]
+    [ "OnRemove", "df/ded/a13894.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "df/ded/a13894.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "df/ded/a13894.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "df/ded/a13894.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

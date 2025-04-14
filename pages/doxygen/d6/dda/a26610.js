@@ -1,7 +1,7 @@
 var a26610 =
 [
-    [ "HandleEffectProc", "d6/dda/a26610.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
-    [ "PrepareAuraScript", "d6/dda/a26610.html#a47d844a9700cd8add793e3f3088d1b82", null ],
-    [ "Register", "d6/dda/a26610.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
-    [ "Validate", "d6/dda/a26610.html#a97f5239399e7135b02000722eaf837ad", null ]
+    [ "HandleProc", "d6/dda/a26610.html#a46726e3e05e386892ea86d74d161e8d0", null ],
+    [ "PrepareAuraScript", "d6/dda/a26610.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
+    [ "Register", "d6/dda/a26610.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
+    [ "Validate", "d6/dda/a26610.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
 ];

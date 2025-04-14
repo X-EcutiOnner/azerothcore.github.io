@@ -1,6 +1,6 @@
 var a13518 =
 [
-    [ "npc_corporal_keeshanAI", "d5/d29/a13522.html", "d5/d29/a13522" ],
-    [ "npc_corporal_keeshan", "df/d4a/a13518.html#a0ca9459a7f283e040f14e0052762f587", null ],
-    [ "GetAI", "df/d4a/a13518.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
+    [ "npc_greengill_slaveAI", "d5/d29/a13522.html", "d5/d29/a13522" ],
+    [ "npc_greengill_slave", "df/d4a/a13518.html#a46fb36fadb5ed5fc94a563473edd8732", null ],
+    [ "GetAI", "df/d4a/a13518.html#ab2cb9adfeef75384becfbb3c5188b8d7", null ]
 ];

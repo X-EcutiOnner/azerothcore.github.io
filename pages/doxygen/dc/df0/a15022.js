@@ -1,6 +1,9 @@
 var a15022 =
 [
-    [ "OnRemove", "dc/df0/a15022.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
-    [ "PrepareAuraScript", "dc/df0/a15022.html#a47849d8241ed17ad0fb541c1178b0760", null ],
-    [ "Register", "dc/df0/a15022.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
+    [ "boss_fankriss", "dc/df0/a15022.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
+    [ "JustEngagedWith", "dc/df0/a15022.html#a9eaae719a271a95f64ac8076fe807c13", null ],
+    [ "Reset", "dc/df0/a15022.html#af84010ee103eb81c1e269b03fc640f81", null ],
+    [ "SummonHatchlingWaves", "dc/df0/a15022.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
+    [ "SummonWorms", "dc/df0/a15022.html#ada23537921c3a11195450db89eb8fcfe", null ],
+    [ "summonWormSpells", "dc/df0/a15022.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
 ];

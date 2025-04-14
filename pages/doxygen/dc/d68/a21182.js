@@ -1,6 +1,6 @@
 var a21182 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "d9/dd0/a21186.html", "d9/dd0/a21186" ],
-    [ "instance_vault_of_archavon", "dc/d68/a21182.html#a0be8d95ff0f3b751e6f833689e436310", null ],
-    [ "GetInstanceScript", "dc/d68/a21182.html#abb955a8873a3a3021e164225dd1f857a", null ]
+    [ "npc_frozen_orb_stalkerAI", "d9/dd0/a21186.html", "d9/dd0/a21186" ],
+    [ "npc_frozen_orb_stalker", "dc/d68/a21182.html#a7f025c829106aa6668427f913d07a722", null ],
+    [ "GetAI", "dc/d68/a21182.html#af33e27138a70286bac561113ed09f350", null ]
 ];

@@ -1,10 +1,14 @@
 var a21210 =
 [
-    [ "npc_erekem_guardAI", "de/dff/a21210.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
-    [ "JustEngagedWith", "de/dff/a21210.html#a93819c5c76821b1c9559be55359d677e", null ],
-    [ "MoveInLineOfSight", "de/dff/a21210.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
-    [ "Reset", "de/dff/a21210.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
-    [ "UpdateAI", "de/dff/a21210.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
-    [ "events", "de/dff/a21210.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
-    [ "pInstance", "de/dff/a21210.html#a81985b8522111f2aae540353cd5641fe", null ]
+    [ "boss_erekemAI", "de/dff/a21210.html#aedf10fef3f0f2ac6797efa5f5a809f4a", null ],
+    [ "EnterEvadeMode", "de/dff/a21210.html#a2c9f8f444b3b28d5cfdbaa234e9d76ee", null ],
+    [ "GetChainHealTargetGUID", "de/dff/a21210.html#aa346cbaded883bbb3806acf9cb32579a", null ],
+    [ "JustDied", "de/dff/a21210.html#a12e7fb5389977dcacb4e1eadda771467", null ],
+    [ "JustEngagedWith", "de/dff/a21210.html#ad380838dbb6c2a3488fa57f2999e137c", null ],
+    [ "KilledUnit", "de/dff/a21210.html#a120a2c9a6af821ce9a5e68dbab6e800d", null ],
+    [ "MoveInLineOfSight", "de/dff/a21210.html#a5905809cba20d426c4d222b1e91055bc", null ],
+    [ "Reset", "de/dff/a21210.html#a338bbc123b1d3adef4f014c3302c4590", null ],
+    [ "UpdateAI", "de/dff/a21210.html#a234ae447260ae30a137a53fb986e5dc4", null ],
+    [ "events", "de/dff/a21210.html#a8d4445b6d35f534061818f7708f39f7e", null ],
+    [ "pInstance", "de/dff/a21210.html#aa68ece744a21ed2ef8d3e7c4b4081d8e", null ]
 ];

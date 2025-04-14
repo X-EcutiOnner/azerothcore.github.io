@@ -1,13 +1,8 @@
 var a14266 =
 [
-    [ "npc_costumed_orphan_matron", "d4/d9a/a14266.html#a0b913090588613ac00ea928f6273d56f", null ],
-    [ "DoAction", "d4/d9a/a14266.html#a7a7739f89604ffb5afc6bab75118340e", null ],
-    [ "GetInitXYZ", "d4/d9a/a14266.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533", null ],
-    [ "Reset", "d4/d9a/a14266.html#a962de50b13079f3337c4e41eb2d98b55", null ],
-    [ "sGossipHello", "d4/d9a/a14266.html#a1a9c58c087b8addf8e482375737d6c49", null ],
-    [ "sQuestAccept", "d4/d9a/a14266.html#adac5d514261a210a701442da13ba1587", null ],
-    [ "UpdateAI", "d4/d9a/a14266.html#a4679d807df8749265ba0453c5b7588f1", null ],
-    [ "allowQuest", "d4/d9a/a14266.html#a722f4bfd0fb8b2665ff2b79d3208bc90", null ],
-    [ "eventStarted", "d4/d9a/a14266.html#a5292ab4e45fe3a858b3a59ef4a79bb34", null ],
-    [ "horseGUID", "d4/d9a/a14266.html#a92cfd09cefd26933ae322f2cc2716927", null ]
+    [ "HandleDummy", "d4/d9a/a14266.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
+    [ "Load", "d4/d9a/a14266.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
+    [ "PrepareSpellScript", "d4/d9a/a14266.html#af1d1ad32d41d79008d650b388353346b", null ],
+    [ "Register", "d4/d9a/a14266.html#a53a7c4c025324b205a29f92dd48aefde", null ],
+    [ "handled", "d4/d9a/a14266.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
 ];
